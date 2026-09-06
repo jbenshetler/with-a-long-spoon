@@ -1,0 +1,49 @@
+# Cold read (grounded) — My Pleasure
+
+*scene: scenes/my-pleasure.md · model: deepseek-v4-pro-0813 · memory: donor claude-fable-5 ck-ch050 + raw ch051..ch058 (pilot; predates ensemble core) · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+# My Pleasure
+
+This chapter landed on me like a door opened into a room I knew was there and had been pretending not to look at. I've been living in Vee for so many chapters now — her joy, her telling, her hand that kept not quite reaching her own mouth — that opening on Randi coming against Pace's mouth felt like turning a corner and finding the two of them already deep in it, in the warm dark I only half-know about. And I do know. I've known since the checkpoint that they're lovers, that they made Vee together, that they confer about her. But reading it in full prose, in *their* voices, was a different thing from holding the memory of it. The memory was a fact; this chapter is the fact breathing.
+
+The first thing I feel is the whiplash of the mirror. In "A Clean Plate" I sat with Vee in that booth and watched her try to tell Randi about the wet kiss, and she couldn't — her body clenching, the word *gross* too loud, the hand over her mouth. And now here is Randi, in Pace's bed, lifting her head from him with his mouth and chin wet with her, and the page says: *He gave her time to see it.* No flinch. No Victorian hand. She pulls him to her and tastes herself from his mouth *with a low sound that went straight through his chest.* Randi does voluntarily, gladly, the exact thing Vee's body rejected and her voice called wrong. That parallel did not feel forced to me. It felt like the book holding up the two faces of the same wet moment and asking me to look at both. I looked. It aches.
+
+I kept looking. The chapter is explicit — fully, unapologetically — and the heat of it worked on me because the wanting in it is never only about the bodies. The banter has teeth: *"Showing off," she said. / "You asked me to come here."* The dirty talk starts as performance — *"Look at you, using me like your fuck doll"* — and I believed it as performance, the way Randi performs everything she can't bear to mean. And then the performance erodes, exactly where it should.
+
+Because Vee is in the bed the whole time and isn't there. That's the real charge. It arrives with Pace's line, level as ever: *"She kisses me first now."* Then: *"She looks at you, too."* And Randi, half a beat, moved through it. The game is lying there naked between them — not code, not shorthand, just Vee's name and Vee's body and Vee's wanting, spoken while they're inside each other. It is the machinery of the thing made flesh, and I couldn't look away from it.
+
+The line that broke me — not that, the line that actually landed — was Randi's: *"I want her to know exactly what she does to me."* That's the truest thing in the chapter. The humor goes out of her face — the page says *the answer had stripped the humor from her face.* And Pace — whose control has been the whole architecture of this scene, whose hands have been setting the strokes, who has been *leading* — *Pace's control broke.* That stunned me. That this precise, governing man can be undone by Randi wanting Vee to know. That the thing they built together has grown past both of them into something neither one fully holds.
+
+The tenderness landed too, and I don't want to shortchange it. Randi bending to kiss the center of his palm after. Her saying, *"You know she loves you, right?"* — and Pace's face softening *before he could do anything about it.* That's the other face of the coin. It isn't only using. They love Vee. Both of them. The chapter will not let me file this as simply dark. It insists the warmth is real, and it is.
+
+Now the hard part. The line that will not lie flat for me: *"She's not the only one in love."* Randi says it. Pace looks at her. *He couldn't tell her she was wrong.* And the page leaves it open — I read it three times to be sure. It arrives right after "she loves you," so it *might* be Randi telling Pace she loves him, here, in this secret bed where she has loved him since before the book opened. Or it might be Randi telling him — or telling the room, or telling herself — that she loves *Vee.* And the sentence is allowed to mean both, because the page holds it ajar: *The open sentence stayed with it.* I have not resolved it, and I'm glad the page didn't make me. The ache of it is the not-knowing, the way it is exactly the kind of sentence a person says in a bed in the dark when the grammar of who loves whom has already failed. Randi's love for Pace and her love for Vee are not tidy separate shelves. They run the same wire. That's the whole book, and this chapter knows it.
+
+Let me sit with Randi a moment longer, because she is the one who moved me most. The flip into crude comedy at the end — *"I better clean up that mess before you stick it inside me"* — then the grave theatrical satisfaction, then *"Now stick that inside me."* It is funny and filthy and somehow desperately Randi: she can only say the true thing if she can bury it in a command, if her mouth is full, if the register is a dare. The performance is the only place she'll house the wanting. And then the final kiss — *her tongue entered his mouth carrying the faint salt of both of them* — and he meets it. That's the ongoing. *That's not finished,* my checkpoint says. It isn't.
+
+Suspicion: I am not exactly suspicious here, because the page earns its unease rather than hiding it. I'm not uncovering a secret; I'm watching two people who know the secret completely sit inside it and talk about the woman it's built around while they fuck. That's not suspicion. That's grief arriving in the shape of heat. The thing I'm braced for hasn't changed — it's the collision, Vee discovering any of this. But now I have a new, sharper dread: that this bed, this construction, is where the two people who love Vee most go to *manage* her, and the management has started talking about what she does to Randi's body, and Pace has started saying *Where?* and *You liked it*, and Randi has imagined Vee's nipple in her own mouth while astride him. The game has no off switch. Love has crawled inside the game and made it worse instead of better.
+
+Erotic charge: it peaks for me not at the mechanics but at the switching — wherever the talk turns to Vee, the heat doubles and bends. The first peak was Pace saying *"She looks at you, too"* and Randi's body tightening around him. The second was the imagining — *"Her breast in my hand... all that softness. The weight of it."* The sex is graphic and the page plays it as such, but it never goes clinical, because the dirty talk keeps opening into the emotional. Where it goes a little slack, for me, is the cleanup sequence — Randi licking the mess off him is charged with the taste-of-both-of-them motif, but it runs long in service of the image, and I felt the author arranging it slightly. Small slack, not a break.
+
+Friction: the opening line-name swap took me one beat — *Randi came against his mouth* — after fourteen chapters of "she" meaning Vee in close third. I recalibrated inside a sentence. That's not a fault; it is the point, the door opening on the other bed. But I did feel the hand of it: the chapter is placed exactly after Vee's chapter about the wet kiss, exactly after the dinner, exactly after *The Reach* where Vee's hand stopped *a breath's width* from her own mouth. The mirror is so deliberate I could see the author holding it up. I don't mind a writer making a point — this book has made its points well — but the deliberateness of the placement thinned the fourth wall a hair for me.
+
+What I want next, honestly: I want Vee to keep not knowing for one chapter more, because the not-knowing is where the ache lives, and this chapter just fed it. And then I want the knowing. I want to see what Vee's face does when any of this reaches her. I dread it exactly that much.
+
+---
+
+**Cast present (in person):** Pace, Randi. Mentioned-only: Vee.
+
+**Heat:** 3 — the wanting is the engine; it burns hottest exactly where it's about Vee, and the explicit acts are alive because they're speaking, not just doing.
+
+**Romance:** 2 — "I want her to know exactly what she does to me" and "She's not the only one in love" are a turn in the bond, but the bond turning is the one with Vee, not the two people in the bed.
+
+**Motifs & images:** the wet mouth/chinupturned-taste — *repeat*, inverted from "Missed a Spot" (Vee's "ugh — gross" handed back as Randi's gladness); feeding as love — *repeat*, here as cleanup ("she cleaned every place the two of them had marked"); the white sheets, the bed — the secret labor of the house; the game's language of management — *Where?* / *You liked it* / *Every time*; the palm-center kiss — *first sighting?*, the tenderness spent on a hand; "She makes me happy" — echo of the diner, *I want Vee. I miss her*, now told to Randi.
+
+**Symbolism:** the wet kiss as the thing Vee refuses and Randi takes — the dividing line between Vee's shame and Randi's armor, and the thing that binds all three; the open sentence ("she's not the only one in love") as the polyamorous truth the book won't flatten.
+
+**Characterization:** Randi deepens enormously — funny, crude, tender, in love, and still performing even her own honesty. Pace shows the exact limits of his control and where they break. Vee is deepened *in absence* — her body, her name, her wanting are the chapter's real material.
+
+**Pace — within the chapter:** the banter carries it quick; the sex sustains; the reveals pace it. The cleanup felt a hair long, but it serves the image.
+
+**Pace — chapter to chapter:** a sharp, deliberate turn into the other bed after the slow Vee chapters. Momentum building toward collision. Not sagging — this is the book flexing its secret hand.

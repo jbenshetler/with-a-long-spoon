@@ -11,10 +11,11 @@ this repo (`.claude/commands/wals-cold-read.md`); non-Claude models (`gemini-*`,
 A **blind first reader with grounded memory** (author ruling 2026-08-19: the grounded
 variant IS the cold-read instrument; the chained variant is retired — it forgets too
 badly — and its files are archived under `<model-id>/chained/`). For each drafted
-chapter, a model reads *only*: the volume packet (jacket copy), a **grounded memory
-checkpoint** (`ck-ch<B>`, minted in one pass from the raw prose of ch 1..B), the **raw
-clean prose** of the chapters since that boundary, and the chapter's display title +
-clean prose. It has seen no planning material, no future chapters, no author intent.
+chapter, a model reads *only*: the volume's cover-board title; the volume packet
+(jacket copy) at that volume's opening chapter only; a **grounded memory checkpoint**
+(`ck-ch<B>`, minted in one pass from the raw prose of ch 1..B); the **raw clean prose**
+of the chapters since that boundary; and the chapter's display title + clean prose.
+It has seen no planning material, no future chapters, no author intent.
 It returns a **reader reaction** only — there is no carry-forward chain. The
 instrument measures whether the book "earns the dark by being light." Full mechanics:
 **Grounded read (v3)** below.
@@ -25,14 +26,20 @@ instrument measures whether the book "earns the dark by being light." Full mecha
 reviews/cold-read/
   README.md                     ← human overview (shared)
   SPEC.md                       ← this file (shared)
+  ensemble-config.toml          ← authoritative panel, donor, source, and matcher policy
   volume-packets.toml           ← public reader-facing volume copy (jacket)
+  checkpoint-ensembles/
+    core/
+      checkpoints/ck-ch<NNN>.md ← rendered donor memory
+      claims/ck-ch<NNN>.json    ← quote-backed claim ledger
+      manifests/ck-ch<NNN>.json ← fingerprints and provenance
+      conflicts/ck-ch<NNN>.json ← unresolved source disagreements
   .packets/                     ← ephemeral packet-MCP token dirs (blinding transport)
-  <model-id>/                   ← one dir per model, named by its versioned id
+  <model-id>/                   ← one canonical dir per reader model
     <slug>.md                   ← one grounded read per scene reviewed
-    checkpoints/ck-ch<NNN>.md   ← grounded decade memory checkpoints
+    checkpoints/ck-ch<NNN>.md   ← native grounded checkpoints, when policy permits
     oracle/                     ← oracle-interview transcripts (optional)
-    chained/                    ← ARCHIVE: the retired chained lane's reviews +
-                                  SYNTHESIS.md, frozen as historical evidence
+    chained/                    ← ARCHIVE: the retired chained lane
 ```
 
 - **`<model-id>` = versioned model id**, verbatim as the folder name. Examples:
@@ -47,7 +54,7 @@ reviews/cold-read/
 ```
 # Cold read (grounded) — <Display Title>
 
-*scene: scenes/<slug>.md · model: <model-id> · memory: ck-ch<NNN> + raw ch<a>..ch<b> · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/<slug>.md · model: <model-id> · memory: <native ck-chNNN | ensemble name ck-chNNN@hash> + raw ch<a>..ch<b> · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
@@ -120,33 +127,37 @@ First applied 2026-08-06: `gpt-5.6-terra` continues `claude-fable-5` from chapte
 
 ## The cover & jacket copy (what the reader knows going in)
 
-A real reader picks the book up already holding the **cover** (title **WITH A LONG
-SPOON**, *Book One*, and the tagline *"Every yes was freely given. That was the problem."*)
-and the **jacket/listing blurb**. The instrument gives the reader exactly that and
-nothing more of the design: the reader carries the cover + blurb the whole run as its
-only framing, and lets the chapters confirm, complicate, or exceed it. The blurb
-legitimizes reader knowledge the book *discloses on purpose* (the configuration — Randi
-and Pace are secret lovers who chose Vee as their third and told her nothing; "dread,
-not mystery"); it does **not** disclose how the book lands. In the Claude harness the
-exact cover + jacket text is baked into the `blind-reader` agent definition
-(`.claude/agents/blind-reader.md`) so it is identical every run and can't be dropped
-from a spawn. External harnesses MUST prepend the same cover title/tagline and blurb
-(the "Test-epub blurb" in `meta/meta-blurb.md`) as the reader's sole going-in framing.
+A real reader picks the book up already holding the public volume packet: the cover
+board (title **WITH A LONG SPOON**, *Book One*) and the jacket/listing blurb, whose
+closing beat is *"Every yes was freely given. That was the problem."* The instrument
+shows that exact packet **once, at the volume's opening chapter**. Every later prompt
+keeps the cover-board series + volume title in view but does not re-inject the jacket
+or tagline. Whatever framing remains must survive as reader memory in the grounded
+checkpoint; before the first checkpoint, the raw prior prose is the only memory.
+This is deliberate: feeding the marketing copy afresh on every stateless call resets
+its dark framing to full strength and dramatically overweights it by chapter 50.
+
+The blurb legitimizes reader knowledge the book *discloses on purpose* (the
+configuration — Randi and Pace are secret lovers who chose Vee as their third and
+told her nothing; "dread, not mystery"); it does **not** disclose how the book lands.
+Every harness MUST use the exact packet in `volume-packets.toml` at the volume entry
+and MUST NOT repeat it, whole or thinned, on later chapters.
 
 ## Input preparation (what the reader is fed)
 
-The reader gets, inline in its prompt, **only**:
-1. the display title;
-2. the **clean prose**, verbatim — with these stripped first, because a real reader
-   would never see them:
+The grounded reader gets, inline in its prompt, **only**:
+1. the volume's cover-board series + volume title;
+2. the display title and **clean current prose**, verbatim — with these stripped
+   first, because a real reader would never see them:
    - the leading *italic scene-header note* under the `# Title` (POV/participant/
      purpose gloss);
    - any `[AI]` / `[AI?]` notes or embedded author annotations;
    - any trailing **craft-notes / revision-notes block**;
    - (keep `---` section breaks and everything else verbatim);
-3. the prior carry-forward state (or the "opening, cold" note).
+3. the exact public volume packet, only when this is the volume's opening chapter;
+4. the grounded checkpoint, when a checkpoint boundary exists;
+5. the raw clean prose window since that boundary.
 
-Plus the fixed jacket blurb above (baked into the agent, not the per-scene prompt).
 Never pass the reader anything else: a file path, the slug, the chapter's
 position/number, the thesis/bible/chronology or anything from `meta/`, the model name,
 or any framing of what the scene "does."
@@ -191,9 +202,9 @@ body-response before tidy interpretation; don't pad sections with nothing to say
   quote the line.
 - **The titles — this chapter's, and the book's** — now that the chapter's read, what
   the **chapter title** means and where it points (illuminates / recolors / stays
-  oblique / *or telegraphed*); and what the **volume/series titles + cover tagline,
-  exactly as the packet supplies them** (cover-board line and/or jacket; never from
-  memory) seem to promise and where they're steering the reader. As a reader
+  oblique / *or telegraphed*); what the **volume/series titles** seem to promise; and,
+  only when the supplied packet or checkpoint actually retains it, what the tagline
+  adds. Never invent or reintroduce an absent tagline. React as a reader
   following signals, not a critic decoding; "means nothing to me yet" is a valid answer.
 - **What I want / expect / dread next** — pull to keep reading; guesses marked as guesses.
 
@@ -310,21 +321,70 @@ fan out.
 
 ### The grounded checkpoint (the memory)
 
-Minted by the **`blind-extractor`** subagent (`.claude/agents/blind-extractor.md`): a
-spec-blind *memory consolidator* (not a reader/critic) that folds the full clean prose of
-ch 1..B into one cumulative checkpoint in a single grounded pass — who's-who (+gender),
-relationship state (with consummation flags), the dramatic-irony ledger, motifs,
-symbolism, open questions, a short impression. It reads only the prose it is given
-(blindness enforced exactly as for the reader). Tooling:
+Minted by the **`blind-extractor`** contract
+(`.claude/agents/blind-extractor.md`): a spec-blind memory consolidator (not a
+reader/critic) that folds the full clean prose of ch 1..B into one cumulative
+checkpoint in a single grounded pass — who's-who (+gender), relationship state,
+the dramatic-irony ledger, motifs, symbolism, open questions, and impression.
+It reads only the prose it is given. Every newly minted checkpoint records the
+source-bundle hash, cleaner version, and extractor-prompt hash; checkpoints at
+one ensemble boundary must declare the identical combined source fingerprint.
 
-- **`tools/checkpoint_bundle.py`** — emits the clean prose bundle (jacket + chapters,
-  same cleaner as `clean_scene_text`).
-- **`tools/checkpoint_extract.py`** — feeds that bundle to a big-context model in one
-  pass and writes `reviews/cold-read/<model-id>/checkpoints/ck-ch{B:03d}.md`. Runs the
-  extractor at **high effort**. Default model `gpt-5.6-terra` via codex subscription auth
-  (no API tokens); the Claude readers are run as `blind-extractor` subagents and their
-  output persisted by hand (they cannot write). The ch-050 checkpoint per model doubles
-  as the **Volume 1 → Volume 2 feedforward**.
+- **`tools/checkpoint_bundle.py`** emits the exact clean source bundle.
+- **`tools/checkpoint_extract.py`** performs one native high-effort extraction
+  and rejects empty, incomplete, non-stopping, missing-section, or out-of-order
+  output. Paid OpenRouter extraction caps output at 80k tokens.
+- **`tools/checkpoint_ensemble.py`** builds/checks donor-memory ensembles.
+- The ch-050 checkpoint is the Volume 1 → Volume 2 feedforward boundary.
+
+For a Volume 3 feedforward, mint **all four** native sources through the same
+final drafted Volume 2 boundary with `checkpoint_extract.py --reader-sequence`;
+then build the ensemble at that boundary. The cross-volume bundle injects each
+volume packet once at its opening. This remains one raw-source extraction per
+model, never an ensemble-of-ensembles or summary hop. If the complete clean
+bundle no longer fits every source model's context, stop and surface that
+constraint rather than silently introduce chained compression.
+
+### Quote-backed checkpoint ensembles
+
+`ensemble-config.toml` defines the `core` ensemble. Its four independent native
+sources are Fable, Opus, GPT-5.5, and Sol, all minted from the same boundary and
+exact manuscript fingerprint. Terra is a non-voting matcher. It proposes claims
+with exact checkpoint excerpts and, for factual claims, exact clean-scene
+evidence. Deterministic code admits and renders only claims that pass:
+
+- at least two of four supporting checkpoints and at least two vendors;
+- source-verified minimal identity/alias/gender/presence/role as the only
+  one-source exception;
+- cross-vendor quorum for impressions, motifs, symbolism, and other readings,
+  phrased as readings rather than facts;
+- exact source and scene quotation checks, required section order, unique
+  normalized claim ids, and temporal-field validation.
+
+Immutable events/milestones and stable entity facts may carry forward. State,
+knowledge, open questions, motifs, symbolism, story interpretation, and
+impression are boundary-scoped: each claim records `type`, `valid_from`, and
+`superseded_at`; superseded state remains in older audit ledgers but not in the
+reader checkpoint. The builder writes the rendered checkpoint, claim ledger,
+conflict ledger, and manifest. The manifest pins all source checkpoint hashes,
+the clean bundle, cleaner version, extractor prompt, matcher contract, and
+configuration. Any mismatch makes `check` fail closed and invalidates dependent
+donor reads.
+
+Matcher proposals are not all-or-nothing: deterministic validation materializes
+only exact source substrings (tolerating typography, markdown delimiters, and
+whitespace, never semantic fuzz), rejects unsupported candidates individually,
+and records every rejection plus per-section coverage in the audit artifacts.
+The build still fails closed unless the configured minimum claim count and all
+required sections survive; this prevents a technically valid but sparse donor
+memory.
+
+Qwen and DeepSeek use `ensemble:core`; native minting is prohibited for both.
+Their review headers record the ensemble hash. Their inherited historical
+continuity assertions are correlated and count once across the pair, while
+their reactions to the raw window/current chapter remain independent. Kimi and
+GLM keep native checkpoints. Experimental provenance belongs in metadata, not
+parallel model-directory names.
 
 ### The grounded reader & harness
 
@@ -333,11 +393,13 @@ symbolism, open questions, a short impression. It reads only the prose it is giv
   **only a `## Reader reaction`** (felt read + structured block). It writes **no
   carry-forward** — there is no chain to feed — which removes the entire
   retention/compaction apparatus from this path.
-- **Harness:** `tools/cold_read_grounded.py` — assembles the prompt per chapter (packet +
-  checkpoint + window + chapter), runs the reader at **low effort** (high turns a reader
-  into a critic), and writes `reviews/cold-read/<model-id>/<slug>.md`. It refuses
-  rather than mint a missing checkpoint implicitly (`--check` lists what a range needs;
-  minting is a separate, higher-effort job). `--emit-prompt N` prints a chapter's
+- **Harness:** `tools/cold_read_grounded.py` — assembles the prompt per chapter
+  (cover-board line + optional volume-entry packet + checkpoint + window + chapter),
+  runs the reader at **low effort** (high turns a reader into a critic), caps paid
+  provider/API reactions at **18k output tokens**, and writes
+  `reviews/cold-read/<model-id>/<slug>.md`. It refuses rather than mint a missing
+  checkpoint implicitly (`--check` lists what a range needs; minting is a separate,
+  higher-effort job). `--emit-prompt N` prints a chapter's
   fully-assembled prompt to stdout, so a Claude `blind-reader-grounded` subagent (which
   consumes no API tokens) can be driven by hand for the same chapter.
 
@@ -346,7 +408,7 @@ symbolism, open questions, a short impression. It reads only the prose it is giv
 ```
 # Cold read (grounded) — <Display Title>
 
-*scene: scenes/<slug>.md · model: <model-id> · memory: ck-ch<NNN> + raw ch<a>..ch<b> · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/<slug>.md · model: <model-id> · memory: <native ck-chNNN | ensemble name ck-chNNN@hash> + raw ch<a>..ch<b> · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
@@ -356,12 +418,16 @@ symbolism, open questions, a short impression. It reads only the prose it is giv
 One `##` section only (no `## Carry-forward state`). `na.py` indexes `## Reader reaction`,
 so grounded reviews remain searchable via the reviews lane.
 
-### The packet is injected every chapter
+### The packet is injected once
 
-A real reader carries the cover + blurb the whole run. With no chain to carry it, the
-grounded harness prepends the volume packet to **every** chapter's prompt (not just the
-opening). Relying on the checkpoint to re-surface it silently dropped the tagline on late
-chapters (observed at ch 50).
+The grounded harness supplies the exact volume packet only at that volume's opening
+chapter. Later calls retain the cover-board series + volume title but do not receive
+the jacket or tagline again — including chapters 2–10, where B = 0 and the raw prose
+window is the reader's only memory. A later checkpoint may retain whatever framing
+survived consolidation; exact jacket/tagline retention is not required. This bounded
+policy is intentional: refeeding the marketing copy on every stateless chapter would
+restore its dark framing to full weight each time and dramatically overweight it by
+chapter 50.
 
 ### Minor position leak (accepted)
 

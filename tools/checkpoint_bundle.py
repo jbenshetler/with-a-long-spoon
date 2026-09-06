@@ -22,6 +22,8 @@ Order and inventory come from tools/volume_scenes.py (chronology-authoritative).
 from __future__ import annotations
 
 import argparse
+import hashlib
+import json
 import re
 import sys
 from pathlib import Path
@@ -29,6 +31,29 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO / "tools"))
 import volume_scenes  # noqa: E402
+
+CLEANER_VERSION = 1
+
+
+def source_fingerprints(bundle: str, extractor_prompt: str) -> dict[str, str | int]:
+    """Fingerprint the exact checkpoint source and the rules that compress it."""
+    bundle_sha256 = hashlib.sha256(bundle.encode("utf-8")).hexdigest()
+    extractor_sha256 = hashlib.sha256(extractor_prompt.encode("utf-8")).hexdigest()
+    payload = json.dumps(
+        {
+            "bundle_sha256": bundle_sha256,
+            "cleaner_version": CLEANER_VERSION,
+            "extractor_sha256": extractor_sha256,
+        },
+        sort_keys=True,
+        separators=(",", ":"),
+    )
+    return {
+        "source_sha256": hashlib.sha256(payload.encode("utf-8")).hexdigest(),
+        "bundle_sha256": bundle_sha256,
+        "cleaner_version": CLEANER_VERSION,
+        "extractor_sha256": extractor_sha256,
+    }
 
 
 def clean_scene_text(slug: str) -> str:
@@ -132,6 +157,31 @@ def build_bundle(start: int = 1, end: int | None = None, jacket: bool = True,
         out.append(f"\n\n===== CHAPTER {i}: {display_title(slug)} =====\n")
         out.append(clean_scene_text(slug))
 
+    return "\n".join(out).rstrip() + "\n"
+
+
+def build_reader_bundle(end: int) -> str:
+    """Exact cross-volume checkpoint source through reader chapter `end`.
+
+    Volume entry packets appear once at their opening chapters. For Volume 1
+    boundaries this delegates to the legacy bundle path byte-for-byte.
+    """
+    v1 = volume_scenes.volume_one_slugs(drafted_only=True)
+    if end <= len(v1):
+        return build_bundle(1, end, jacket=True, slugs=v1)
+    slugs = reader_slugs()
+    if not (1 <= end <= len(slugs)):
+        raise ValueError(f"end {end} out of bounds (1..{len(slugs)} drafted)")
+    out: list[str] = []
+    for index, slug in enumerate(slugs[:end], start=1):
+        volume = volume_scenes.volume_of(slug)
+        opening_slug, packet = volume_packet(volume)
+        if slug == opening_slug and packet:
+            out.append(
+                f"===== VOLUME {volume} ENTRY PACKET (marketing, not story) =====\n\n{packet}\n"
+            )
+        out.append(f"\n\n===== CHAPTER {index}: {display_title(slug)} =====\n")
+        out.append(clean_scene_text(slug))
     return "\n".join(out).rstrip() + "\n"
 
 

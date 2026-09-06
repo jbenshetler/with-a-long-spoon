@@ -1,13 +1,13 @@
 ---
-description: Grounded cold read — run the full 6-model blind panel on a chapter (or range)
+description: Grounded cold read — run the full 8-model blind panel on a chapter (or range)
 argument-hint: <scene-slug | volN | N | A..B> [--models <id,...>] [--fresh]
 ---
 
 Run a **grounded cold read**: for each target chapter, each panel model reads
 blind — no planning material, no chain — with **grounded memory** instead of a
-carry-forward: the volume packet (jacket), the decade checkpoint `ck-ch<B>`
-(minted in one pass from the raw prose of ch 1..B), the raw clean prose of the
-chapters since that boundary, and the chapter itself. Reads are mutually
+carry-forward: the volume packet at that volume's opening chapter only, the
+resolved checkpoint `ck-ch<B>`, the raw clean prose of the chapters since that
+boundary, and the chapter itself. Reads are mutually
 independent, so models AND chapters fan out in parallel.
 
 The **chained lane is retired** (author ruling 2026-08-19 — it forgets too
@@ -16,24 +16,29 @@ for a new review; the chained archive lives frozen under
 `reviews/cold-read/<model-id>/chained/`. The shared file contract is
 `reviews/cold-read/SPEC.md` (Grounded read v3).
 
-## The panel (default: ALL SIX, author ruling 2026-08-19)
+## The panel (default: ALL EIGHT)
 
-| Model id | Lane | How |
+The roster and memory policy are authoritative in
+`reviews/cold-read/ensemble-config.toml`.
+
+| Model id | Lane | Checkpoint |
 |---|---|---|
-| `claude-fable-5` | headless | `cold_read_grounded.py --model claude-fable-5` |
-| `claude-opus-4-8` | headless | `cold_read_grounded.py --model claude-opus-4-8` |
-| `claude-sonnet-5` | headless | `cold_read_grounded.py --model claude-sonnet-5` |
-| `gpt-5.6-terra` | codex | `cold_read_grounded.py --model gpt-5.6-terra` |
-| `gpt-5.6-sol` | codex | `cold_read_grounded.py --model gpt-5.6-sol` |
-| `gpt-5.5` | codex | `cold_read_grounded.py --model gpt-5.5` |
+| `claude-fable-5` | headless Claude subscription | native |
+| `claude-opus-4-8` | headless Claude subscription | native |
+| `gpt-5.6-sol` | codex subscription | native |
+| `gpt-5.5` | codex subscription | native |
+| `kimi-k3` | OpenRouter (paid) | native |
+| `glm-5.3-flash` | OpenRouter (paid) | native |
+| `qwen3.8-max-0902` | OpenRouter (paid) | `ensemble:core` donor |
+| `deepseek-v4-pro-0813` | OpenRouter (paid) | `ensemble:core` donor |
 
-A run with no `--models` is the **full panel**. `--models terra,sonnet` (any
-comma list of ids or shorthands) scopes it; the **fast probe** is
-`terra,sonnet`. **Token rule (standing):** never `--auth api-key` without
-specific author authorization — the codex trio runs on **codex subscription
-auth** (the harness default), and the Claude trio runs headless on **Claude
-subscription OAuth** (the harness scrubs `ANTHROPIC_API_KEY`, so pay-per-token
-billing is impossible by construction).
+A run with no `--models` is the **full panel**. The **fast probe** is
+`claude-opus-4-8,gpt-5.6-sol`; both use subscription auth. `claude-sonnet-5`
+and `gpt-5.6-terra` are retired from the voting panel; Terra is the non-voting
+ensemble matcher. **Token rule (standing):** never launch Kimi, GLM, Qwen, or
+DeepSeek through OpenRouter, or use `--auth api-key`, without specific author
+authorization. Fable/Opus use Claude subscription OAuth; Sol/GPT-5.5 use
+codex subscription auth.
 
 ## Step 1 — Resolve targets and preconditions
 
@@ -44,62 +49,59 @@ billing is impossible by construction).
    (Vol 1 drafted + Vol 2 drafted in chronology order). The chapter's chronology entry must say
    **`Draft complete`** — the harness fails closed otherwise; fix the status
    only if the chapter truly is drafted end to end.
-2. `tools/cold_read_grounded.py --check --scope <slug>` (or `--from/--to`) —
-   verify the needed `ck-ch<B>` checkpoints exist **for every panel model**.
-   If one is missing, STOP and tell the author: minting is a separate,
-   high-effort job (`checkpoint_extract.py` for codex models;
-   `--emit-bundle-packet B` + a `blind-extractor` subagent for Claude models).
-   Do not mint implicitly.
+2. Run `tools/cold_read_grounded.py --check --model-id <id> --scope <slug>`
+   for every selected reader. Native readers need their own `ck-ch<B>`.
+   Qwen and DeepSeek resolve to the same validated `ensemble:core` artifact;
+   they never mint native checkpoints. If a native checkpoint is missing,
+   STOP and report the separate high-effort mint. If the ensemble is missing
+   or stale, STOP and run
+   `tools/checkpoint_ensemble.py check --ensemble core --through B`; remint all
+   stale source checkpoints before any ensemble rebuild. Do not mint implicitly.
 3. Volume packet: the harness injects the volume's public jacket copy from
-   `reviews/cold-read/volume-packets.toml` into every prompt. If the target's
-   volume has no packet yet, ask the author whether to run without jacket copy
-   (they have ruled this per-volume before) — do not substitute another
-   volume's packet.
+   `reviews/cold-read/volume-packets.toml` at that volume's opening chapter
+   only. Later chapters carry its gist through checkpoint/window memory. If a
+   volume has no packet yet, ask the author whether to run its opening without
+   one; never substitute another volume's packet.
 4. Without `--fresh`, skip targets that already have
    `reviews/cold-read/<model-id>/<slug>.md` for a given model (resume).
 
-## Step 2 — Codex trio (terra, sol, gpt-5.5): inline background runs
+## Step 2 — Subscription readers
 
-For each codex model, launch in the background and let them run concurrently:
-
-```
-tools/cold_read_grounded.py --model <id> --scope <slug>        # one chapter
-tools/cold_read_grounded.py --model <id> --from A --to B -j 4  # a range
-```
-
-The harness assembles the prompt, runs the reader at **low effort** (high
-turns a reader into a critic), and writes
-`reviews/cold-read/<model-id>/<slug>.md` itself.
-
-## Step 3 — Claude trio (fable, opus, sonnet): headless clean lane
-
-**(Author ruling 2026-08-22, superseding the packet-MCP subagent lane.)** The
-Claude readers run exactly like the codex trio — background harness
-invocations, one per model:
+Run the two codex readers concurrently:
 
 ```
-tools/cold_read_grounded.py --model claude-fable-5   --scope <slug> [--fresh]
-tools/cold_read_grounded.py --model claude-opus-4-8  --scope <slug> [--fresh]
-tools/cold_read_grounded.py --model claude-sonnet-5  --scope <slug> [--fresh]
+tools/cold_read_grounded.py --model gpt-5.6-sol --scope <slug>
+tools/cold_read_grounded.py --model gpt-5.5     --scope <slug>
 ```
 
-The harness spawns `claude -p` on subscription OAuth with the
-`blind-reader-grounded` agent def as the **entire** system prompt
+Run the two Claude readers concurrently through the harness's headless clean
+lane:
+
+```
+tools/cold_read_grounded.py --model claude-fable-5  --scope <slug>
+tools/cold_read_grounded.py --model claude-opus-4-8 --scope <slug>
+```
+
+The Claude harness spawns `claude -p` on subscription OAuth with
+`blind-reader-grounded` as the entire system prompt
 (`--exclude-dynamic-system-prompt-sections`), from a throwaway non-repo cwd,
-env scrubbed of `ANTHROPIC_API_KEY` — so no `CLAUDE.md`/`AGENTS.md`, git
-commit snapshot, or memory index can reach the reader (all three were
-probe-confirmed leaks in the in-session subagent lane, 2026-08-22). The
-harness writes `reviews/cold-read/<model-id>/<slug>.md` itself.
+with `ANTHROPIC_API_KEY` scrubbed. Never replace this with in-session reader
+subagents; they inherit ambient project context.
 
-**Never spawn in-session `blind-reader-grounded` subagents for panel reads** —
-they inherit ambient session context. The packet-MCP path (`--emit-packet` +
-subagent, salvage via `--persist-output`) remains only as a documented
-fallback if the headless lane is unavailable, and its reads should be treated
-as potentially contaminated.
+## Step 3 — OpenRouter readers (author authorization required)
+
+Use `/wals-cold-read-provider` for Kimi, GLM, Qwen, and DeepSeek. Kimi and GLM
+use native checkpoints. Qwen and DeepSeek use the `core` ensemble checkpoint
+resolved by `--model-id`; never point either at another model's native
+checkpoint and never invoke native checkpoint extraction for them.
+
+All readers run at low effort with an 18k output cap. Run independent readers
+and chapters concurrently only after the author has authorized the paid
+OpenRouter calls.
 
 ## Step 4 — Verify and report
 
-- Count the files: `ls reviews/cold-read/*/<slug>.md` — a full-panel run is 6.
+- Count active-roster files from `ensemble-config.toml`; a full-panel run is 8.
 - Skim each for a refusal/no-read signature before trusting it; a refusal is
   re-run, not recorded.
 - Report per model: Heat/Romance (0–3), what landed as designed, what confused

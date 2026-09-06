@@ -32,251 +32,171 @@ He watched her take it.
 
 “There,” she said. “Now it’s mutual.”
 
-He laughed, and she used the breath of it. One hand planted against his shoulder. Her knee came up between them. Pace let his balance go when she turned him, his body rolling where she directed until his back met the mattress and she followed him over.
+He laughed, and she used the breath of it. One hand planted against his shoulder. Her knee came up between them. Pace let his balance go when she turned him, his body rolling until his back met the mattress and she followed him over.
 
-Randi sat astride his hips. Small above him, fine-boned and flushed, her hair loose around her face. She reached between them and closed her hand around him.
+Randi sat astride his hips. Small above him, fine-boned and flushed, her hair loose around her face. She reached between them.
 
-“Stay.”
+Pace caught her at the waist.
 
-Every muscle in him answered before he did. “I’m staying.”
+“My turn.”
 
-She held him at her entrance and waited there, making him wait with her. His hands settled at her waist. They nearly spanned it. She watched his face as she let the head of him enter, stopped, and moved no farther.
+Her hand stopped. Her brows lifted.
 
-Pace’s fingers tightened once.
+He held her eyes and lifted her until her knees carried her weight above him. Her hands settled on his chest.
 
-“Those behave,” she said.
+“All right,” she said.
 
-“They are.”
+Pace positioned himself beneath her. His hands returned to her waist, nearly spanning it, and he lowered her until the head of his cock entered.
 
-“Barely.”
+Randi’s mouth opened.
 
-She sank another inch. Warmth closed around him, then held. He could have lifted her with one hand. The fact sat useless in his strength. She owned every fraction of the distance between them and knew it.
+He stopped.
+
+“I said all right.”
+
+“I heard you.”
+
+He lowered her another inch and held her there. Her fingers spread across his chest. He could feel the effort it took her to stay still for him.
+
+“Showing off again,” she said.
+
+“You noticed.”
 
 Her mouth curved.
 
-He let his head fall back. “Very pleased with yourself tonight.”
+He brought her down slowly, one hand sliding to the back of her thigh to control the angle. She took him in increments, warmth closing around him, until he was deep inside her and her body had gone taut above his.
 
-“I’ve had a good evening.”
+Pace waited for her breath to loosen. Then his hands set the first stroke.
 
-She lowered until he was deep inside her. Her eyes closed for one full breath. When they opened, the brightness in them belonged to him alone. She put both hands on his chest and began to move, slow and exact, taking what she wanted from the angle.
+Randi gave him her weight.
 
-He followed the changes in her face. The small release at her mouth when she came forward. The concentration when she sat back. Her pleasure arriving without apology, as familiar to him as the weight of her palms.
+He lifted her, lowered her, and found the pace that made her eyes close. Her pleasure arrived without apology. He held it steady for her, hands moving between her waist and thighs.
 
-For a while there was only that.
+“God, I love how strong you are.” Her voice went sweet. “Look at you, using me like your fuck doll.”
 
-Then she said, “Your girl is very proud of herself.”
+His hands tightened at her waist. He lifted her higher and brought her down hard enough to pull a low sound from her.
 
-Pace’s body answered the words inside hers. Randi noticed. Her smile widened.
+For a while, neither of them spoke.
 
-“She told you.”
+“I miss her during the day,” Randi said. “More at night.”
 
-“She told me enough.” Her rhythm stayed slow. “She tried to make it sound accidental.”
+Pace let that sit between them.
 
-“Did she.”
+Randi straightened above him. His palms slid along her thighs.
 
-“Oh, yes. A terrible sequence of events. Your hand in her hair. Her mouth happening to be full. You, through no fault of your own, losing the ability to operate your body.”
+Pace drew her down. “She kisses me first now.”
 
-Pace covered his eyes with one forearm.
+Randi went still for half a breath. Pace moved her through it.
 
-Randi laughed. Warm, delighted laughter, and the movement of it traveled through her around him.
+“Does she.”
 
-“She was so pleased, Pace.”
+“She looks at you, too.”
 
-He looked at her again.
+Her body tightened around him.
 
-The joke had gone soft in her face. She rode him with her lower lip caught briefly between her teeth, remembering.
-
-“She took everything,” Randi said. “And you forgot your hand was even in her hair.”
-
-“I remember my hand.”
-
-“She doesn’t think you remember anything.”
-
-“That may be fair.”
-
-“She left you with zero thoughts.”
-
-“Cruel of her.”
-
-“She thought it was wonderful.” Randi leaned down, her breasts grazing his chest. “It was cute.”
-
-Pace put a hand into her hair and brought her mouth to his. The kiss broke when she moved harder against him. She breathed into the space between them, forehead resting against his.
+Randi’s eyes stayed on his. He lifted her higher, drew her down harder, and the answer left her as a low sound.
 
 “She kissed my neck again,” she said.
 
-The next stroke caught halfway. Her body tightened around him, strong and sudden. Her palms pressed into his chest.
+Pace’s hands stopped her with him buried deep.
 
-“She’s coming along.”
+The pulse in her throat beat fast.
 
-Pace slid his hands from her waist to her hips. He held her there without stopping her. The explanation sat polished between them. Under it, her pulse beat hard in the hollow of her throat.
+He moved one hand from her waist to the back of her thigh and held her open above him. “You liked it.”
 
-He kissed that hollow.
+“I nearly turned around.”
 
-Randi’s head tipped back. Her hips recovered their rhythm, though the new one was quicker.
+“Why didn’t you?”
 
-“What did you do?” he asked against her skin.
+“She made me laugh.” Randi’s breath shortened when he lifted her again. “She does it on purpose. She knows exactly when I’m about to ask for more.”
 
-“Behaved beautifully.”
+“And you let her.”
 
-“Of course.”
+“Every time.”
 
-“I always do.”
+Pace bent his knees and drove up as he brought her down. Randi caught herself on his chest, the polished answer gone from her face.
 
-He kissed higher, beneath her jaw. “And after?”
+“I wanted to turn around,” she said. “Put my hand on her.”
 
-“She made a joke.” Randi’s breath caught as he bit lightly. “She knows exactly when I’m going to ask her something she doesn’t want to answer. Then she says something ridiculous and looks at me with that face.”
+His next stroke slowed. “Where?”
 
-“What face?”
+Randi took one hand from his chest and spread it over her own breast.
 
-“The one that says she knows I’ll let her get away with it.”
+“Here.”
 
-“You do.”
+Pace moved his hands to her ass. He lifted her against the strength of his thighs, controlling each descent.
 
-“She’s funny.” The words came with a small, helpless fondness. “She knows she’s funny, too. That’s the worst of it.”
+“Her breast in my hand,” Randi said. Her fingers closed around herself. “All that softness. The weight of it.”
 
-Pace drew back far enough to see her. “You like being handled.”
-
-“By competent people.”
-
-Her hips circled once over him. He watched the motion climb through her body.
-
-“You thought about touching her,” he said.
-
-Randi’s eyes came to his.
-
-He waited.
-
-She sat deeper. Her hands left his chest and rose over her own body, palms sliding up her ribs.
-
-“I thought about her breast in my hand,” she said.
-
-The words changed her breathing. Her fingers spread over herself.
-
-“Go on.”
-
-“She’d be warm.” Randi cupped both breasts, lifted them, held them for his eyes. “Full. I’d have one hand around her.”
-
-She leaned forward and offered him one nipple.
+She leaned forward and offered him her nipple.
 
 Pace lifted his head and took it into his mouth.
 
-Randi shuddered. Her hand closed around the back of his neck, keeping him there as she began to ride him again.
+Randi shuddered. One hand closed behind his neck while he worked her over him, his palms full of her ass.
 
-“And?” he said against her.
-
-Her nipple slipped from his lips. She drew it back to his mouth.
+Her nipple slipped from his lips. She drew it back.
 
 “And her nipple in my mouth.”
 
 He sucked.
 
-Her body locked around him. The hand at his neck went rigid, then pulled him tighter as the first contraction took her. She came with a broken sound, moving on him through it, her other hand still holding her breast as though it were the body she had named.
+Her body locked around him. Pace held her through the first contraction and moved her into the next. She came with a broken sound, breast still in her own hand, as if the wanting could cross through the body she offered him.
 
-Pace kept his mouth on her until she softened enough to let him go.
+He kept his mouth on her until the last contraction loosened.
 
-Randi stayed folded over him. Her hair made a dark room around their faces. He kissed the inside of her wrist where it rested by his head.
+Randi folded over him. Her hair closed them in. Pace kissed the inside of her wrist and kept one hand firm at her waist.
 
 She opened her eyes.
 
-“That,” she said, breathless, “was leading.”
-
-“You followed.”
-
-“I’m generous.”
-
-“So I’ve heard.”
-
-She pushed herself upright. His hands returned to her waist. She began to move again with the lazy precision of a woman who had already come twice and intended to remain in charge of the evening.
-
-“You used the wet kiss on her.”
-
-Pace looked up at her.
-
-“The same one.” Her tone stayed light. The timing carried a fine edge he could hear without finding a name for it. “Up from between her legs, all pleased with yourself.”
-
-“I wanted her to have it.”
-
-“I know.”
-
-Randi rolled her hips. His breath left him.
-
-“And if it had gone well?” she asked. “What was next?”
-
-He traced his thumbs over the points of her hips. “Next?”
-
-“Were you going to ask if she wanted to taste a woman?”
-
-The question landed low in him.
-
-Randi saw that, too.
-
-“She asked whether I’d tasted myself,” she said. “Whether I liked it.”
-
-Pace pulsed inside her.
-
-Her brows lifted. “Ooh. Getting a girl to break her own rules turns you on.”
-
-“She’d have to want to.”
+“You’re still leading,” she said.
 
 “Yes.”
 
-That bare agreement moved through her. She leaned back, hands braced on his thighs, and took him harder. Pace held her hips without moving them for her. Each stroke drove the sight of her deeper into him: her breasts lifting, her mouth parted, the pleasure she had named as somebody else’s and was taking with her own body.
+“Pleased with yourself?”
 
-Randi watched him lose ground.
+“Very.”
 
-“There he is,” she said.
+She laughed against his mouth. Pace set her upright and moved her again before the aftershocks had finished.
 
-He tried to answer. She changed the angle and took the answer from him.
+Randi’s head dropped forward.
 
-“Nothing to say now?”
+“God.”
 
-His fingers closed around her waist.
+His hands worked from her waist to her thighs, then back to her ass. He held the tempo where her breathing broke.
 
-She rode him through it. His body tightened beneath hers, all of him gathering toward the place she controlled. Randi’s eyes stayed on his face as he came, satisfaction brightening hers at each helpless pulse.
+“You like hearing me want her,” she said.
 
-Only when he had emptied did she slow.
+“Yes.”
 
-Pace’s hands eased on her hips. She remained over him, still joined, moving in small residual circles that drew aftershocks through his abdomen. He stayed thick inside her, softened only enough to make every shift newly sensitive.
+“Why?”
 
-Randi bent and kissed his mouth.
+Pace looked up at her. “She makes me happy.”
 
-Then his chest. The center of it first, then one side, then the other, her lips touching him between unfinished sentences.
+Randi’s rhythm faltered inside the one he held.
 
-“She asks questions,” she said against his skin, “and then acts shocked when I answer them.”
+He tightened his hands and kept her with him.
 
-“What else did she ask?”
+“And you?” he asked.
 
-Randi took his hand from her hip. She kissed his palm.
+Her eyes closed. When they opened, the answer had stripped the humor from her face.
 
-“Enough.”
+“I want her to know exactly what she does to me.”
 
-She kissed the base of his thumb, then each finger, eyes half-lidded. Her hips kept their quiet motion around him.
+Pace’s control broke.
 
-“She thinks you can’t tell when she’s curious,” Randi said.
+He drove her down as he thrust up, once, then again. Randi held his gaze and let him take the pace harder. Her breasts lifted with every stroke; her mouth stayed open around Vee’s name without saying it.
 
-“She thinks nobody can tell anything.”
+His body gathered beneath her. Randi felt it and gave him more of her weight.
 
-“She has a very expressive ass for someone so committed to secrecy.”
+Pace came with both hands locked around her, holding her close as his hips lifted through each pulse.
 
-Pace laughed.
+Only when he had emptied did his grip ease.
 
-Randi put both his hands behind her. His palms filled with her ass. She pressed them there and pushed back lustily into his grip.
+Randi stayed above him, still joined, her body moving in small circles inside the cradle of his hands. He remained thick in her, softened only enough to make every shift newly sensitive.
 
-The angle changed. His still-semi-hard cock slipped free.
+She bent and kissed his mouth.
 
-Randi made a wounded sound. “I wanted to keep that.”
-
-The first warm spill crossed his groin. More followed, theirs together, running out of her and over him with a thick, indecent sound in the quiet room.
-
-Randi looked down.
-
-A laugh broke out of her before she could finish the breath for it. “Subtle.”
-
-Pace’s chest shook under her hands. “Elegant.”
-
-“Thank you.” She was still laughing as she bent to kiss him. “I value your professional opinion.”
-
-Her mouth found his, then his jaw, then the heel of his hand when he touched her face. She turned into his palm and kissed it once.
+Then his chest. She took one hand from her waist and kissed the center of his palm.
 
 “You know she loves you, right?”
 
@@ -288,38 +208,47 @@ The warmth in him changed shape.
 
 His face softened before he could do anything about it.
 
-Randi saw.
-
-She held his eyes. Her body remained warm over his, her thighs spread around his hips, their wetness cooling between them.
+Randi saw. Her eyes stayed on the softness in his face.
 
 “She’s not the only one in love.”
 
-Pace looked at her.
+Pace looked at her. He couldn’t tell her she was wrong.
 
 Randi gave him no smile and no rescue from the sentence. Her thumb moved once over the center of his palm.
-Her hips moved once, an unfinished circle. His mouth still held the taste of her breast. Her yes returned in the flex of her thighs, Vee’s questions in Randi’s voice, the open sentence beneath her thumb. His body kept all of it at once.
 
-He thickened against the wet curve beneath her.
+She moved once in the hold of his other hand. Her nipple brushed his chest, still wet from his mouth. Vee’s name stayed in the room between their breathing. The open sentence stayed with it.
+
+He thickened inside her.
 
 Randi glanced down.
 
-“So much for boneless.”
+Her hands covered his. She lifted them from her waist and placed them flat on the mattress beside him.
 
-He drew a breath that did nothing useful.
+Then she moved under her own command.
 
-She shifted back onto his thighs and looked at the shining mess across his stomach and cock.
+The change in angle drew him out. Their combined wetness spilled over his cock and stomach with a thick sound in the quiet room.
+
+Randi looked down.
+
+A laugh escaped her. “Subtle.”
+
+Pace’s chest shook. “Elegant.”
+
+“Thank you. I value your professional opinion.”
+
+She shifted back onto his thighs and considered the shining mess across him.
 
 “I better clean up that mess before you stick it inside me.”
 
 She moved down his body.
 
-Her hair crossed his abdomen first. Then her mouth, warm and unhurried, gathered what had spilled over him. She licked the inside of one thigh, followed the wetness back to the base of his cock, and cleaned him with broad strokes of her tongue.
+Her hair crossed his abdomen first. Then her mouth gathered what had spilled over him. She licked the inside of one thigh, followed the wetness back to the base of his cock, and cleaned him with broad strokes of her tongue.
 
-Pace lay still under her. His hands opened on the sheets.
+Pace lay still under her. His hands stayed open on the sheets.
 
 Randi took the head into her mouth.
 
-The sight of her closed around him went through his whole body. She tasted them from his skin, tongue working slowly as he filled again between her lips. No haste. She cleaned every place the two of them had marked, then took him deeper when there was nothing left to call cleanup.
+The sight of her closed around him went through his whole body. She tasted them from his skin, tongue working slowly as he filled again between her lips. She cleaned every place the two of them had marked, then took him deeper when cleanup no longer named what she was doing.
 
 His legs tightened beneath her hands.
 

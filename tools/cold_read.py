@@ -266,6 +266,9 @@ def make_openrouter_agent_fn(*, system_prompt, effort, timeout, max_output_token
         usage = response.usage
         in_tok = getattr(usage, "prompt_tokens", 0) or 0
         out_tok = getattr(usage, "completion_tokens", 0) or 0
+        details = getattr(usage, "completion_tokens_details", None)
+        reasoning_tok = (getattr(details, "reasoning_tokens", 0) or 0) if details else 0
+        finish_reason = getattr(response.choices[0], "finish_reason", None)
         text = (response.choices[0].message.content or "").strip()
         return {
             "output": text,
@@ -273,18 +276,20 @@ def make_openrouter_agent_fn(*, system_prompt, effort, timeout, max_output_token
             "usage": {
                 "input": in_tok,
                 "output": out_tok,
-                "reasoningTokens": 0,
+                "reasoningTokens": reasoning_tok,
                 "totalTokens": getattr(usage, "total_tokens", 0) or (in_tok + out_tok),
                 "cacheRead": 0,
                 "cacheWrite": 0,
                 "promptTokens": in_tok,
                 "nonMessageTokens": 0,
-                "cost": None,
+                "cost": getattr(usage, "cost", None),
+                "provider": getattr(response, "provider", None),
+                "finishReason": finish_reason,
                 "duration_ms": duration_ms,
                 "turns": 1,
                 "max_output_tokens": max_output_tokens,
                 "incomplete": (
-                    getattr(response.choices[0], "finish_reason", None) == "length"
+                    finish_reason == "length"
                     and "Carry-forward state" not in text
                 ),
             },

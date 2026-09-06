@@ -153,12 +153,26 @@ def check_passes(text: str, check: dict) -> bool:
     return True
 
 
-def discover_models(only: str | None) -> list[str]:
+def _active_panel_models() -> list[str]:
+    config = (REPO / "reviews/cold-read/ensemble-config.toml").read_text()
+    section = re.search(r"\[panel\](.*?)(?=\n\[|\Z)", config, re.DOTALL)
+    models = re.search(r"\bmodels\s*=\s*\[(.*?)\]", section.group(1), re.DOTALL) if section else None
+    if not models:
+        raise RuntimeError("active panel missing from ensemble-config.toml")
+    return re.findall(r'"([^"]+)"', models.group(1))
+
+
+def discover_models(only: str | None, target: str) -> list[str]:
     root = REPO / "reviews" / "cold-read"
-    models = sorted(d.name for d in root.iterdir()
-                    if d.is_dir() and not d.name.startswith(".")
-                    and (d / "checkpoints").is_dir())
-    return [m for m in models if not only or m == only]
+    models = []
+    for model in _active_panel_models():
+        model_dir = root / model
+        eligible = model_dir.is_dir() and (
+            target == "read" or (model_dir / "checkpoints").is_dir()
+        )
+        if eligible and (not only or model == only):
+            models.append(model)
+    return models
 
 
 def checkpoint_units(model: str):
@@ -195,7 +209,7 @@ def main() -> None:
 
     target = "checkpoint" if args.target == "checkpoints" else "read"
     checks = [c for c in CHECKS if target in c["targets"]]
-    models = discover_models(args.model)
+    models = discover_models(args.model, target)
     if not models:
         raise SystemExit("no models found under reviews/cold-read/")
     unit_fn = checkpoint_units if target == "checkpoint" else read_units

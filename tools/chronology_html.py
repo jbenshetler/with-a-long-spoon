@@ -33,6 +33,17 @@ import subprocess
 import sys
 from pathlib import Path
 
+def _panel_models() -> frozenset[str]:
+    config = (Path(__file__).resolve().parent.parent / "reviews/cold-read/ensemble-config.toml").read_text()
+    section = re.search(r"\[panel\](.*?)(?=\n\[|\Z)", config, re.DOTALL)
+    models = re.search(r"\bmodels\s*=\s*\[(.*?)\]", section.group(1), re.DOTALL) if section else None
+    if not models:
+        raise RuntimeError("cold-read panel roster missing from ensemble-config.toml")
+    return frozenset(re.findall(r'"([^"]+)"', models.group(1)))
+
+
+PANEL_MODELS = _panel_models()
+
 # --- academic-year framing -------------------------------------------------
 # Story runs ~Aug -> next Aug. We anchor day-0 at Aug 1 of an arbitrary base
 # year so beats sort continuously across the Dec->Jan boundary. The base year
@@ -456,13 +467,13 @@ def _norm_slug(s: str) -> str:
 
 
 def _review_files(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
-    """[(model_name, Path, stale)] for every current cold read of `slug` — nothing
-    dropped. `stale` is True when the review predates the chapter's current prose
-    commit (it rated an earlier draft): by ancestry (is the scene's commit an
-    ancestor of the review's?), the committer clock as fallback. Undecidable (no
-    git, uncommitted, unrelated histories) counts as not stale — can't prove it.
-    The caller shows the latest available reviews and flags the stale ones.
-    (Shared by the ratings pills and the embedded-reviews view.)"""
+    """[(model_name, Path, stale)] for each active-panel cold read of `slug`.
+    `stale` is True when the review predates the chapter's current prose commit
+    (it rated an earlier draft): by ancestry (is the scene's commit an ancestor
+    of the review's?), the committer clock as fallback. Undecidable (no git,
+    uncommitted, unrelated histories) counts as not stale — can't prove it.
+    The caller shows the latest available active-panel reviews and flags stale
+    ones. (Shared by the ratings pills and the embedded-reviews view.)"""
     out = []
     if not slug or reviews_root is None or not reviews_root.is_dir():
         return out
@@ -470,8 +481,13 @@ def _review_files(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
     for model_dir in sorted(reviews_root.iterdir()):
         if not model_dir.is_dir():
             continue
+        if model_dir.name not in PANEL_MODELS:
+            continue
         for f in sorted(model_dir.glob("*.md")):
             if _norm_slug(f.stem) != key:
+                continue
+            header = f.read_text(encoding="utf-8").split("## Reader reaction", 1)[0]
+            if "predates ensemble core" in header:
                 continue
             rel = f"{model_dir.name}/{f.name}"
             fresh = None

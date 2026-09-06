@@ -1,84 +1,91 @@
 ---
-description: Grounded cold read via a provider model (OpenRouter / OpenAI api-key) — mint its checkpoint, then read
-argument-hint: "<provider/model or model-id> [--scope <slug>|volN | --from A --to B] [--fresh] [prices $in/$out per M]"
+description: Grounded cold read through OpenRouter — native or ensemble checkpoint policy
+argument-hint: "<provider/model> --model-id <id> [--scope <slug>|volN | --from A --to B] [--fresh]"
 ---
 
-Run a **grounded cold read with a non-panel provider model** — a third-party
-reader (OpenRouter id like `z-ai/glm-5.3-flash` or `moonshotai/kimi-k3`, or an
-OpenAI model on `--auth api-key`) joining the six-model panel's file contract.
-Same instrument as `/wals-cold-read`, different billing lane.
+Run an OpenRouter-backed grounded cold read. This lane serves four standing
+panel readers plus explicit guest models. It has the same blind-reader and file
+contract as `/wals-cold-read`; only billing and checkpoint ownership differ.
 
-**The chained lane is retired** (author ruling 2026-08-19). Never run
-`tools/cold_read.py` for a new review — it survives only as a library
-(`make_openrouter_agent_fn` etc.) and its reviews sit frozen under
-`<model-id>/chained/`. Everything below goes through
-`tools/cold_read_grounded.py` + `tools/checkpoint_extract.py`.
+**Every OpenRouter call bills per token and requires specific author
+authorization.** Never infer authorization from panel membership or a prior
+run. Malformed, truncated, provider-error, or reasoning-only output is invalid:
+archive diagnostics outside the review corpus and never write it as a reaction
+or checkpoint.
 
-## Lane selection (how the harness picks the provider)
+The authoritative reader policies live in
+`reviews/cold-read/ensemble-config.toml`:
 
-- A **`/` in the model id** (`provider/model`) auto-selects the **OpenRouter
-  lane** in both tools — needs `OPENROUTER_API_KEY`; billing is **per token**
-  (author-authorized only, per the token rule in `CLAUDE.md`).
-- `--auth api-key` without a `/` = OpenAI Responses API via `OPENAI_API_KEY`
-  (also author-authorized only).
-- Pick a short **`--model-id`** for the output dir — drop the provider prefix
-  (`moonshotai/kimi-k3` → `kimi-k3`; `z-ai/glm-5.3-flash` → `glm-5.3-flash`).
-  `checkpoint_extract.py` has no `--model-id`; use `--out` (below) instead.
+| Output model id | OpenRouter model | Checkpoint |
+|---|---|---|
+| `kimi-k3` | `moonshotai/kimi-k3` | native |
+| `glm-5.3-flash` | `z-ai/glm-5.3-flash` | native |
+| `qwen3.8-max-0902` | `qwen/qwen3.8-max-0902` | `ensemble:core` donor |
+| `deepseek-v4-pro-0813` | `deepseek/deepseek-v4-pro-0813` | `ensemble:core` donor |
 
-## How blindness is preserved (don't re-implement it)
+## Preconditions
 
-The harness uses the **`.claude/agents/blind-reader-grounded.md` body as the
-system prompt** (checkpoint minting uses `blind-extractor.md`) — identical to
-what the panel readers see: jacket packet, decade checkpoint, raw prose
-window, the chapter. Nothing from `meta/`; the reader emits **only a Reader
-reaction** (memory is external now, so there is no carry-forward section).
+1. Confirm the author authorized this paid run and `OPENROUTER_API_KEY` is set.
+2. Resolve the reader policy by **output model id**, not provider id.
+3. Run:
 
-## Steps
+   ```
+   tools/cold_read_grounded.py --check --model-id <model-id> --scope <slug>
+   ```
 
-1. **Guard rails first**: confirm the key for the lane is set
-   (`OPENROUTER_API_KEY` / `OPENAI_API_KEY`); per-token billing means the
-   author must have asked for this run. Note the model's quoted **$/M input
-   and output prices** if given — the only way to report cost (step 5).
-2. **Mint the model's own checkpoint(s)** — the reader refuses to mint
-   implicitly. For Vol 2 reads the boundary is the whole of Vol 1:
+   Kimi/GLM resolve to native checkpoints. Qwen/DeepSeek resolve to
+   `reviews/cold-read/checkpoint-ensembles/core/checkpoints/ck-ch<B>.md`.
+4. For native Kimi/GLM gaps, mint separately at high effort:
 
    ```
    tools/checkpoint_extract.py --model <provider/model> \
-       --out reviews/cold-read/<model-id>/checkpoints/ck-ch050.md
+     --out reviews/cold-read/<model-id>/checkpoints/ck-ch050.md
    ```
 
-   One grounded pass over ~184k tokens of clean prose; default effort high;
-   the OpenRouter lane caps output at 20k tokens. Sanity-check the result
-   (who's-who with genders, consummation flags, the descriptor ledger) before
-   spending reads on it. `cold_read_grounded.py --check` lists any missing
-   checkpoints for a scope.
-3. **Run the reads** — grounded reads are independent, so fan out:
+   Extraction defaults to an 80k output cap and rejects incomplete,
+   non-stopping, missing-section, or out-of-order output.
+5. Never mint Qwen/DeepSeek checkpoints. The extractor and grounded harness
+   reject it. Validate their donor memory instead:
 
    ```
-   tools/cold_read_grounded.py --model <provider/model> --model-id <model-id> \
-       --scope <slug>                    # one chapter
-       --from 51 --to <N> --jobs 4       # a range (Vol 2 panel convention:
-       --decade 50                       #  boundary = the Vol 1 checkpoint)
+   tools/checkpoint_ensemble.py check --ensemble core --through 50
    ```
 
-   Defaults are right: `--effort low` (high turns the reader into a critic),
-   `--max-output-tokens 8000`. Resume mode skips existing reviews; `--fresh`
-   regenerates.
-4. **Verify format**: each file under `reviews/cold-read/<model-id>/` needs
-   its `## Reader reaction` section, and any sub-headings inside it must be
-   `###` or bold, never `##` (an `##` sibling truncates both the na.py
-   reviews-lane index and the chronology.html model split — normalized once
-   already, 2026-09-05).
-5. **Report** chapters read/skipped and token totals. OpenRouter returns no
-   invoice (`cost: null`) — compute the estimate yourself from usage × the
-   quoted prices, and label it an estimate.
+   If stale, remint every stale native source checkpoint against the identical
+   current clean manuscript fingerprint, then rebuild the ensemble. Building
+   uses the non-voting Terra matcher through subscription auth; it does not
+   spend OpenRouter tokens.
 
-## Guard rails
+## Run
 
-- Writes only under `reviews/cold-read/<model-id>/` (+ its `checkpoints/`).
-- Checkpoints are minted per model — never hand one model another's
-  checkpoint (the checkpoint *is* that reader's memory).
-- Reader reactions are not canon; flag them, never rewrite prose from them.
-- Committing the new reader's reviews is the author's call, as is adding the
-  model to the standing panel in `/wals-cold-read` (that file is the panel
-  roster; this one is the guest lane).
+```
+tools/cold_read_grounded.py \
+  --model <provider/model> \
+  --model-id <model-id> \
+  --scope <slug> \
+  --effort low \
+  --max-output-tokens 18000
+```
+
+For Volume 2 use `--decade 50`; the boundary is the complete Volume 1
+checkpoint and the intervening Volume 2 chapters remain raw prose. Independent
+chapters may use `--jobs N`. `--fresh` is explicit because it spends again.
+
+The harness writes `reviews/cold-read/<model-id>/<slug>.md`. Donor-reader
+headers record the ensemble name and checkpoint hash. Keep the emitted
+`## Reader reaction` body verbatim; any internal headings must be `###` or
+bold, never sibling `##` headings.
+
+## Report and guard rails
+
+- Report input, output, reasoning tokens, provider, finish reason, and exact
+  provider cost when returned. Otherwise compute and label a price estimate.
+- A resume skips an existing review. If its donor hash differs from the current
+  ensemble, report it stale; do not spend a replacement call without explicit
+  `--fresh` authorization.
+- Reviews are reactions, not canon.
+- Kimi/GLM native continuity signals are independent. Qwen/DeepSeek continuity
+  assertions inherited only from the shared ensemble are correlated and count
+  once; their reactions to the current raw window/chapter count independently.
+- Never write outside the canonical `<model-id>/` root. Experimental donor
+  labels belong in metadata, not parallel model directories.

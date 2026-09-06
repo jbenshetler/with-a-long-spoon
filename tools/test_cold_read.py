@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import importlib
 import sys
+import tempfile
 import types
 import unittest
 from pathlib import Path
@@ -161,5 +162,175 @@ class CodexAdapterTests(unittest.TestCase):
 
 
 
+
+class DonorMemoryTests(unittest.TestCase):
+    def setUp(self):
+        self.config = importlib.import_module("cold_read_config")
+        self.grounded = importlib.import_module("cold_read_grounded")
+
+    def test_donor_reader_resolves_ensemble_and_cannot_mint(self):
+        path = self.config.checkpoint_path("qwen3.8-max-0902", 50)
+        self.assertEqual(
+            path.relative_to(self.config.REPO).as_posix(),
+            "reviews/cold-read/checkpoint-ensembles/core/checkpoints/ck-ch050.md",
+        )
+        self.assertFalse(self.config.can_mint_checkpoint("qwen3.8-max-0902"))
+        self.assertFalse(self.config.can_mint_checkpoint("qwen/qwen3.8-max-0902"))
+        self.assertRegex(
+            self.grounded.memory_line("qwen3.8-max-0902", 59, 50),
+            r"ensemble core ck-ch050@[0-9a-f]{12} \+ raw ch051\.\.ch058",
+        )
+
+    def test_donor_resume_requires_current_memory_header(self):
+        with tempfile.TemporaryDirectory() as td:
+            path = Path(td) / "review.md"
+            expected = self.grounded.memory_line("qwen3.8-max-0902", 59, 50)
+            path.write_text(
+                f"# Cold read\\n\\n*scene: x · model: q · memory: {expected} · reader-protocol: v3*\\n\\n"
+                "## Reader reaction\\n\\nBody\\n",
+                encoding="utf-8",
+            )
+            self.assertTrue(
+                self.grounded.review_memory_is_current("qwen3.8-max-0902", 59, 50, path)
+            )
+            path.write_text(path.read_text().replace(expected, "donor claude-fable-5 ck-ch050"))
+            self.assertFalse(
+                self.grounded.review_memory_is_current("qwen3.8-max-0902", 59, 50, path)
+            )
+
+
+class EnsembleValidationTests(unittest.TestCase):
+    def setUp(self):
+        self.ensemble = importlib.import_module("checkpoint_ensemble")
+        shared = "The checkpoint remembers this exact relationship statement."
+        self.sources = [
+            {"model_id": "claude-fable-5", "vendor": "anthropic", "body": shared},
+            {"model_id": "gpt-5.5", "vendor": "openai", "body": shared},
+        ]
+        self.claim = {
+            "section": "Relationships",
+            "type": "state",
+            "slot": "relationship:pair:status",
+            "text": "Their relationship is current at this boundary.",
+            "valid_from": 1,
+            "superseded_at": None,
+            "support": [
+                {"model": "claude-fable-5", "quote": shared},
+                {"model": "gpt-5.5", "quote": shared},
+            ],
+            "scene_evidence": [
+                {"slug": "scene", "quote": "They kissed and stayed together."}
+            ],
+        }
+
+    def test_cross_vendor_quote_backed_claim_passes(self):
+        with patch.object(
+            self.ensemble, "scene_map", return_value={"scene": "They kissed and stayed together."}
+        ):
+            ledger = self.ensemble.validate_claims(
+                {"claims": [self.claim]}, name="core", boundary=50, sources=self.sources
+            )
+        self.assertEqual(len(ledger["claims"]), 1)
+        self.assertEqual(ledger["claims"][0]["type"], "state")
+
+    def test_same_vendor_quorum_fails(self):
+        sources = [dict(source, vendor="anthropic") for source in self.sources]
+        with patch.object(
+            self.ensemble, "scene_map", return_value={"scene": "They kissed and stayed together."}
+        ):
+            with self.assertRaisesRegex(ValueError, "cross-vendor"):
+                self.ensemble.validate_claims(
+                    {"claims": [self.claim]}, name="core", boundary=50, sources=sources
+                )
+
+    def test_temporal_merge_retires_state_and_carries_event(self):
+        prior = {
+            "boundary": 40,
+            "claims": [
+                {"id": "old-state", "type": "state", "superseded_at": None},
+                {
+                    "id": "event",
+                    "type": "event",
+                    "section": "Story so far",
+                    "slot": "",
+                    "text": "An immutable milestone happened.",
+                    "valid_from": 10,
+                    "superseded_at": None,
+                },
+            ],
+            "history": [],
+        }
+        current = {
+            "boundary": 50,
+            "claims": [
+                {
+                    "id": "new-state",
+                    "type": "state",
+                    "section": "Relationships",
+                    "slot": "relationship:pair:status",
+                    "text": "The current state.",
+                    "valid_from": 50,
+                    "superseded_at": None,
+                }
+            ],
+            "history": [],
+        }
+        with tempfile.TemporaryDirectory() as td:
+            prior_path = Path(td) / "ck-ch040.json"
+            prior_path.write_text("{}")
+            with patch.object(self.ensemble, "REPO", Path(td)), patch.object(
+                self.ensemble, "previous_ledger", return_value=(prior_path, prior)
+            ):
+                merged, lineage = self.ensemble.merge_temporal_ledger(
+                    current, name="core", boundary=50
+                )
+        self.assertEqual({claim["id"] for claim in merged["claims"]}, {"new-state", "event"})
+        self.assertEqual(merged["history"][0]["superseded_at"], 50)
+        self.assertEqual(lineage["boundary"], 40)
+
+class HarnessParsingTests(unittest.TestCase):
+    def test_bold_checkpoint_headings_normalize(self):
+        extractor = importlib.import_module("checkpoint_extract")
+        text = "**Who's who**\n\nBody\n\n**Relationships**\n\nBody"
+        normalized = extractor.normalize_section_headings(
+            text, ("Who's who", "Relationships")
+        )
+        self.assertIn("### Who's who", normalized)
+        self.assertIn("### Relationships", normalized)
+
+    def test_chronology_consumers_load_exact_active_panel(self):
+        html = importlib.import_module("chronology_html")
+        qa = importlib.import_module("checkpoint_qa")
+        augment = importlib.import_module("chronology_augment")
+        expected = {
+            "claude-fable-5",
+            "claude-opus-4-8",
+            "gpt-5.6-sol",
+            "gpt-5.5",
+            "kimi-k3",
+            "glm-5.3-flash",
+            "qwen3.8-max-0902",
+            "deepseek-v4-pro-0813",
+        }
+        self.assertEqual(html.PANEL_MODELS, expected)
+        self.assertEqual(augment.PANEL_MODELS, expected)
+        self.assertEqual(set(qa._active_panel_models()), expected)
+        self.assertIn("qwen3.8-max-0902", qa.discover_models(None, "read"))
+        self.assertNotIn("claude-sonnet-5", qa.discover_models(None, "read"))
+
+    def test_prior_ledger_excludes_current_and_future_boundaries(self):
+        ensemble = importlib.import_module("checkpoint_ensemble")
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            claims = root / "claims"
+            claims.mkdir()
+            for boundary in (40, 50, 60):
+                (claims / f"ck-ch{boundary:03d}.json").write_text(
+                    f'{{"boundary": {boundary}}}', encoding="utf-8"
+                )
+            with patch.object(ensemble, "paths_for", return_value={"root": root}):
+                path, payload = ensemble.previous_ledger("core", 50)
+        self.assertEqual(path.name, "ck-ch040.json")
+        self.assertEqual(payload["boundary"], 40)
 if __name__ == "__main__":
     unittest.main()

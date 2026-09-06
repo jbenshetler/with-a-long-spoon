@@ -28,7 +28,7 @@ reviews are archived under <model-id>/chained/ (cold_read.py / blind-reader.md
 untouched, frozen).
 
 Usage:
-  tools/cold_read_grounded.py --to 50                     # all Vol 1, terra
+  tools/cold_read_grounded.py --to 50                     # all Vol 1, sol
   tools/cold_read_grounded.py --from 41 --to 50           # chapters 41..50
   tools/cold_read_grounded.py --scope nothing-underneath  # one chapter by slug
   tools/cold_read_grounded.py --scope vol2                # a whole volume by volN
@@ -59,6 +59,7 @@ REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO / "tools"))
 
 import checkpoint_bundle  # noqa: E402  (clean_scene_text, display_title, jacket_packet, volume_scenes)
+import cold_read_config  # noqa: E402
 # NB: cold_read (for make_codex_agent_fn) imports tomllib (py3.11+) and is imported
 # lazily inside main(), so --check / --emit-prompt run under bare python3.10 too.
 
@@ -110,20 +111,21 @@ def boundary(n: int, decade: int) -> int:
     return ((n - 1) // decade) * decade
 
 
-def memory_line(n: int, decade: int) -> str:
-    """Human-readable description of chapter n's grounded memory, for the review header."""
+def memory_line(model_id: str, n: int, decade: int) -> str:
+    """Human-readable grounded-memory provenance for a review header."""
     b = boundary(n, decade)
+    source = cold_read_config.checkpoint_provenance(model_id, b) if b > 0 else ""
     if b > 0 and b < n - 1:
-        return f"ck-ch{b:03d} + raw ch{b + 1:03d}..ch{n - 1:03d}"
+        return f"{source} + raw ch{b + 1:03d}..ch{n - 1:03d}"
     if b > 0:
-        return f"ck-ch{b:03d} (no window)"
+        return f"{source} (no window)"
     if n > 1:
         return f"raw ch001..ch{n - 1:03d} (pre-first-checkpoint)"
     return "— (opening, cold)"
 
 
 def checkpoint_path(model_id: str, b: int) -> Path:
-    return REPO / f"reviews/cold-read/{model_id}/checkpoints/ck-ch{b:03d}.md"
+    return cold_read_config.checkpoint_path(model_id, b)
 
 
 def load_checkpoint(model_id: str, b: int) -> str:
@@ -132,14 +134,35 @@ def load_checkpoint(model_id: str, b: int) -> str:
         return ""
     p = checkpoint_path(model_id, b)
     if not p.exists():
+        source = cold_read_config.checkpoint_source(model_id)
+        if source.startswith("ensemble:"):
+            name = source.split(":", 1)[1]
+            raise SystemExit(
+                f"missing donor checkpoint {p.relative_to(REPO)}. Build and validate it first:\n"
+                f"  tools/checkpoint_ensemble.py build --ensemble {name} --through {b}"
+            )
         raise SystemExit(
             f"missing grounded checkpoint {p.relative_to(REPO)}. Mint it first:\n"
             f"  tools/checkpoint_extract.py --model {model_id} --to {b}"
         )
+    source = cold_read_config.checkpoint_source(model_id)
+    if source.startswith("ensemble:"):
+        name = source.split(":", 1)[1]
+        import checkpoint_ensemble
+        checkpoint_ensemble.check(name, b)
     raw = p.read_text()
     # Files written by checkpoint_extract.py lead with a `# ...\n\n*...*\n\n---\n\n` header.
     marker = "\n---\n\n"
     return raw.split(marker, 1)[1].strip() if marker in raw else raw.strip()
+
+
+def review_memory_is_current(model_id: str, n: int, decade: int, path: Path) -> bool:
+    """Native reviews resume normally; donor reviews must pin the current ensemble hash."""
+    if cold_read_config.checkpoint_source(model_id) == "native":
+        return True
+    expected = f"· memory: {memory_line(model_id, n, decade)} ·"
+    header = path.read_text(encoding="utf-8").split("## Reader reaction", 1)[0]
+    return expected in header
 
 
 def build_window(b1: int, b2: int) -> str:
@@ -368,7 +391,7 @@ def emit_packet(model_id: str, n: int, decade: int) -> tuple[str, Path, list[str
             "message instead of calling write_output is a failed read.\n")
     token, d, ordered = _write_chunked_packet(text, head, tail)
     header = (f"# Cold read (grounded) — {title}\n\n"
-              f"*scene: scenes/{slug}.md · model: {model_id} · memory: {memory_line(n, decade)} · "
+              f"*scene: scenes/{slug}.md · model: {model_id} · memory: {memory_line(model_id, n, decade)} · "
               f"reader-protocol: {READER_PROTOCOL}*\n\n## Reader reaction\n\n")
     _set_destination(d, f"reviews/cold-read/{model_id}/{slug}.md", header)
     return token, d, ordered
@@ -411,7 +434,15 @@ def emit_bundle_packet(to_b: int, model_id: str) -> tuple[str, Path, list[str]]:
     """Write the clean prose bundle for chapters 1..to_b as sub-cap chunk files under a
     token dir, for a sandboxed blind-extractor subagent to mint ck-ch{to_b}. Returns
     (token, dir, ordered names)."""
+    if not cold_read_config.can_mint_checkpoint(model_id):
+        source = cold_read_config.checkpoint_source(model_id)
+        raise SystemExit(
+            f"{model_id} uses {source}; native checkpoint packet minting is disabled"
+        )
     text = checkpoint_bundle.build_bundle(1, to_b, jacket=True)
+    fingerprints = checkpoint_bundle.source_fingerprints(
+        text, load_agent_prompt(REPO / ".claude/agents/blind-extractor.md")
+    )
     head = ("This is a reading packet holding ONE continuous document — the book's jacket "
             "followed by the clean text of the chapters to consolidate — split across the "
             "numbered parts below. Read EVERY part, IN ORDER, with your packet tool "
@@ -420,7 +451,11 @@ def emit_bundle_packet(to_b: int, model_id: str) -> tuple[str, Path, list[str]]:
             "Then produce your checkpoint and save it with write_output.\n")
     token, d, ordered = _write_chunked_packet(text, head, tail)
     header = (f"# Checkpoint — through Chapter {to_b} (grounded, single pass)\n\n"
-              f"*model: {model_id} · span: ch001–ch{to_b:03d} · grounded "
+              f"*model: {model_id} · span: ch001–ch{to_b:03d} · "
+              f"source-sha256: {fingerprints['source_sha256']} · "
+              f"bundle-sha256: {fingerprints['bundle_sha256']} · "
+              f"cleaner-version: {fingerprints['cleaner_version']} · "
+              f"extractor-sha256: {fingerprints['extractor_sha256']} · grounded "
               f"(full clean prose, sandboxed packet read, no chaining)*\n\n---\n\n")
     _set_destination(d, f"reviews/cold-read/{model_id}/checkpoints/ck-ch{to_b:03d}.md", header)
     return token, d, ordered
@@ -496,7 +531,7 @@ def emit_oracle_packet(model_id: str, probe: str, tier: str) -> tuple[str, Path,
 
 def run_oracle_codex_battery(model: str, model_id: str, probes, effort: str = "low",
                              jobs: int = 1, fresh: bool = False) -> None:
-    """Run the oracle over a codex model (the GPT trio) inline: for each (probe, tier) build
+    """Run the oracle over a codex model inline: for each (probe, tier) build
     the memory+question and answer it with the blind-oracle-grounded persona as system prompt,
     writing reviews/cold-read/<model_id>/oracle/<probe>--<tier>.md. Funnel-b holds by
     construction — neutral and pointed are separate, independent calls."""
@@ -595,7 +630,7 @@ def run_interview_codex(model: str, model_id: str, n: int, decade: int,
     out.write_text(
         f"# Interview (grounded) — {slug} · {label}\n\n"
         f"*model: {model_id} · chapter: {slug} (ch {n}) · memory: "
-        f"ck-ch{boundary(n, decade):03d}+window · reader-protocol: v3-grounded-checkpoint "
+        f"{memory_line(model_id, n, decade)} · reader-protocol: v3-grounded-checkpoint "
         f"(follow-up interview; context rebuilt, own reaction re-supplied)*\n\n"
         f"## Questions (verbatim)\n\n{questions.strip()}\n\n---\n\n## Answers\n\n{ans}\n",
         encoding="utf-8")
@@ -616,15 +651,7 @@ def write_review(model_id: str, n: int, decade: int, reaction: str) -> Path:
     slugs = reader_slugs()
     slug = slugs[n - 1]
     title = checkpoint_bundle.display_title(slug)
-    b = boundary(n, decade)
-    if b > 0 and b < n - 1:
-        memory = f"ck-ch{b:03d} + raw ch{b + 1:03d}..ch{n - 1:03d}"
-    elif b > 0:
-        memory = f"ck-ch{b:03d} (no window)"
-    elif n > 1:
-        memory = f"raw ch001..ch{n - 1:03d} (pre-first-checkpoint)"
-    else:
-        memory = "— (opening, cold)"
+    memory = memory_line(model_id, n, decade)
     out = REPO / f"reviews/cold-read/{model_id}/{slug}.md"
     out.parent.mkdir(parents=True, exist_ok=True)
     content = (
@@ -717,6 +744,11 @@ def mint_checkpoints(model_id: str, boundaries: list[int], args, jobs: int = 1) 
     high effort regardless of the reader's --effort. Runs checkpoint_extract.py as
     subprocesses (independent codex sessions) capped at `jobs`.
     """
+    if not cold_read_config.can_mint_checkpoint(model_id):
+        source = cold_read_config.checkpoint_source(model_id)
+        raise RuntimeError(
+            f"{model_id} uses {source}; native checkpoint minting is disabled"
+        )
     import subprocess
     from concurrent.futures import ThreadPoolExecutor, as_completed
     extract = str(REPO / "tools" / "checkpoint_extract.py")
@@ -743,7 +775,7 @@ def mint_checkpoints(model_id: str, boundaries: list[int], args, jobs: int = 1) 
 
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--model", default="gpt-5.6-terra", help="codex model id")
+    ap.add_argument("--model", default="gpt-5.6-sol", help="codex model id")
     ap.add_argument("--model-id", default=None, help="output dir (default: --model)")
     ap.add_argument("--scope", default=None, help="a single chapter by slug, or a whole volume by 'vol1'/'vol2'/'vol3'")
     ap.add_argument("--from", dest="start", type=int, default=None, help="first chapter (1-based)")
@@ -756,9 +788,9 @@ def main() -> None:
                          "`claude -p` OAuth with ANTHROPIC_API_KEY scrubbed (Claude). 'api-key' = "
                          "pay-per-token via OPENAI_API_KEY (GPT, Responses API) or ANTHROPIC_API_KEY "
                          "(Claude, `claude -p`). api-key is AUTHOR-AUTHORIZED ONLY — see the token rule.")
-    ap.add_argument("--max-output-tokens", type=int, default=8000,
-                    help="output-token cap for the --auth api-key GPT lane (default 8000; unused by "
-                         "subscription and by the Claude lane)")
+    ap.add_argument("--max-output-tokens", type=int, default=18000,
+                    help="output-token cap for paid OpenRouter/API lanes (default 18000; "
+                         "unused by subscription-backed Codex and Claude lanes)")
     ap.add_argument("--fresh", action="store_true", help="regenerate existing grounded reviews")
     ap.add_argument("--jobs", "-j", type=int, default=1, metavar="N",
                     help="parallel reads (default 1). Reads are independent (grounded, no "
@@ -783,7 +815,7 @@ def main() -> None:
                     "battery probe's tier question) for a sandboxed blind-oracle-grounded "
                     "subagent; print the token and exit (no model call)")
     ap.add_argument("--run-oracle-battery", action="store_true",
-                    help="run the oracle over a CODEX model (the GPT trio) inline: every probe "
+                    help="run the oracle over a CODEX model inline: every probe "
                     "(or --probes) × both tiers, writing <model-id>/oracle/<probe>--<tier>.md")
     ap.add_argument("--probes", default=None,
                     help="comma-separated probe keys for --run-oracle-battery (default: all)")
@@ -863,7 +895,17 @@ def main() -> None:
         needed = sorted({boundary(n, args.decade) for n in chapters} - {0})
         for b in needed:
             p = checkpoint_path(model_id, b)
-            print(f"{'present' if p.exists() else 'MISSING'}  ck-ch{b:03d}  {p.relative_to(REPO)}")
+            source = cold_read_config.checkpoint_source(model_id)
+            status = "MISSING"
+            if p.exists():
+                if source.startswith("ensemble:"):
+                    load_checkpoint(model_id, b)
+                    status = "valid"
+                else:
+                    status = "present"
+            print(
+                f"{status}  ck-ch{b:03d}  {p.relative_to(REPO)}  source={source}"
+            )
         if not needed:
             print("no checkpoints needed for this range (all chapters ≤ first boundary)")
         return
@@ -874,10 +916,27 @@ def main() -> None:
         if not args.auto_mint:
             # Fail fast, naming every gap, before spending a single read call.
             for b in missing:
-                load_checkpoint(model_id, b)  # raises with the mint command for the first
+                load_checkpoint(model_id, b)  # raises with the build/mint command
+        if not cold_read_config.can_mint_checkpoint(model_id):
+            source = cold_read_config.checkpoint_source(model_id)
+            raise SystemExit(
+                f"{model_id} uses {source}; --auto-mint cannot create donor checkpoints"
+            )
         mint_checkpoints(model_id, missing, args, jobs=args.jobs)
 
     slugs = reader_slugs()
+    stale_donor = []
+    for n in chapters:
+        path = REPO / f"reviews/cold-read/{model_id}/{slugs[n - 1]}.md"
+        if path.exists() and not review_memory_is_current(model_id, n, args.decade, path):
+            stale_donor.append(n)
+    if stale_donor and not args.fresh:
+        joined = ", ".join(f"ch{n:03d}" for n in stale_donor)
+        raise SystemExit(
+            f"existing donor review(s) pin a different checkpoint: {joined}. "
+            "Validate the ensemble, then rerun explicitly with --fresh; paid calls still "
+            "require author authorization."
+        )
     todo = [n for n in chapters
             if args.fresh or not (REPO / f"reviews/cold-read/{model_id}/{slugs[n-1]}.md").exists()]
     skipped = [n for n in chapters if n not in todo]
@@ -894,7 +953,7 @@ def main() -> None:
               file=sys.stderr)
 
     if args.model.startswith("claude-"):
-        # Headless clean lane for the Claude trio (author ruling 2026-08-22).
+        # Headless clean lane for Claude readers (author ruling 2026-08-22).
         from concurrent.futures import ThreadPoolExecutor, as_completed
         system_prompt = load_agent_prompt(AGENT_DEF)
         jobs = max(1, min(args.jobs, len(todo)))

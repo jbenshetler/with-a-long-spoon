@@ -3154,6 +3154,13 @@ text = "\"The kind you tell your daughter about,\" Vee said, quiet now, and look
 note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
+fp   = "94dd53fb26ae"
+rule = "look-at-her"
+file = "scenes/my-pleasure.md"
+text = "“Look at you, using me like your fuck doll.”"
+note = "Author approved: Randi's theatrical self-naming makes the first 'fuck' load-bearing in her chosen-submission register."
+
+[[ok]]
 fp   = "0aac37e89bdc"
 rule = "cost-vague"
 file = "scenes/new-ordinary.md"

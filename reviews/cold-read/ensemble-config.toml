@@ -1,0 +1,65 @@
+version = 1
+
+[panel]
+models = [
+  "claude-fable-5",
+  "claude-opus-4-8",
+  "gpt-5.6-sol",
+  "gpt-5.5",
+  "kimi-k3",
+  "glm-5.3-flash",
+  "qwen3.8-max-0902",
+  "deepseek-v4-pro-0813",
+]
+fast = ["claude-opus-4-8", "gpt-5.6-sol"]
+retired = ["claude-sonnet-5", "gpt-5.6-terra"]
+
+[readers."qwen3.8-max-0902"]
+vendor = "alibaba"
+provider_model = "qwen/qwen3.8-max-0902"
+checkpoint_source = "ensemble:core"
+can_mint_checkpoint = false
+review_effort = "low"
+review_max_output_tokens = 18000
+
+[readers."deepseek-v4-pro-0813"]
+vendor = "deepseek"
+provider_model = "deepseek/deepseek-v4-pro-0813"
+checkpoint_source = "ensemble:core"
+can_mint_checkpoint = false
+review_effort = "low"
+review_max_output_tokens = 18000
+
+[ensembles.core]
+matcher_model = "gpt-5.6-terra"
+quorum = 2
+cross_vendor = true
+minimum_claims = 24
+required_sections = [
+  "Who's who",
+  "Relationships",
+  "What I know that they don't",
+  "Motifs & images",
+  "Symbolism",
+  "Open questions",
+  "Story so far",
+  "Impression",
+]
+entity_exception = "source-verified"
+impression = "quorum"
+
+[[ensembles.core.sources]]
+model_id = "claude-fable-5"
+vendor = "anthropic"
+
+[[ensembles.core.sources]]
+model_id = "claude-opus-4-8"
+vendor = "anthropic"
+
+[[ensembles.core.sources]]
+model_id = "gpt-5.5"
+vendor = "openai"
+
+[[ensembles.core.sources]]
+model_id = "gpt-5.6-sol"
+vendor = "openai"

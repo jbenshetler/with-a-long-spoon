@@ -28,6 +28,17 @@ import re
 import sys
 from pathlib import Path
 
+def _panel_models() -> frozenset[str]:
+    config = (Path(__file__).resolve().parent.parent / "reviews/cold-read/ensemble-config.toml").read_text()
+    section = re.search(r"\[panel\](.*?)(?=\n\[|\Z)", config, re.DOTALL)
+    models = re.search(r"\bmodels\s*=\s*\[(.*?)\]", section.group(1), re.DOTALL) if section else None
+    if not models:
+        raise RuntimeError("cold-read panel roster missing from ensemble-config.toml")
+    return frozenset(re.findall(r'"([^"]+)"', models.group(1)))
+
+
+PANEL_MODELS = _panel_models()
+
 PRINCIPALS = ["Vee", "Pace", "Randi"]
 # Pace goes by "Peter" in some reviews; count either as Pace present.
 NAME_RE = {
@@ -108,8 +119,13 @@ def present_from_reviews(slug, reviews_root):
     for model_dir in sorted(reviews_root.iterdir()):
         if not model_dir.is_dir():
             continue
+        if model_dir.name not in PANEL_MODELS:
+            continue
         for f in model_dir.glob("*.md"):
-            if norm_slug(f.stem) == key:
+            if norm_slug(f.stem) != key:
+                continue
+            header = f.read_text(encoding="utf-8").split("## Reader reaction", 1)[0]
+            if "predates ensemble core" not in header:
                 files.append(f)
     if not files:
         return set(), "no reviews"
