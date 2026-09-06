@@ -12,14 +12,17 @@ is). This harness removes the chain entirely. Each chapter is read with GROUNDED
 memory:
 
     boundary  B = ((N-1)//decade)*decade          # last decade checkpoint < N
-    memory      = grounded checkpoint ck-ch{B}     # from raw prose 1..B, one pass
+    memory      = checkpoint ck-ch{B}
                 + raw prose of chapters B+1..N-1    # the window since the boundary
     this        = chapter N
 
-Zero paraphrase hops: the checkpoint is minted grounded (checkpoint_extract.py,
-full clean prose in one pass — no chaining) and the window is real prose, not a
-summary. Because chapter N's memory is reconstructed from ground truth rather
-than from reader N-1, the reads are mutually independent and can fan out.
+Volume One checkpoints are grounded directly from raw prose. A later-volume
+checkpoint makes exactly one consolidation hop from the frozen final checkpoint
+of the preceding volume plus raw prose from the current volume's opening through
+B. Every checkpoint in a volume uses that same frozen seed, never the previous
+decade checkpoint. Reader reactions still have no carry-forward chain: each
+chapter reconstructs memory from its checkpoint and verbatim recent window, so
+reads remain mutually independent and can fan out.
 
 The reader (.claude/agents/blind-reader-grounded.md) emits ONLY a Reader
 reaction — no carry-forward — since memory is external now. Output lands under
@@ -47,6 +50,7 @@ at high effort). This harness runs the READER at low effort and refuses rather
 than mint implicitly — the two are different jobs on different budgets.
 """
 from __future__ import annotations
+import hashlib
 
 import argparse
 import os
@@ -85,24 +89,18 @@ def vol1_slugs() -> list[str]:
 
 
 def reader_slugs() -> list[str]:
-    """The grounded reader's chapter sequence: Vol 1 drafted (1..50) followed by
-    Vol 2 drafted, in chronology order. Vol 1 is exactly 50 drafted scenes, so
-    appending Vol 2 never shifts a Vol 1 index — a Vol 1 read (n<=50) is byte-for-byte
-    what it was before Vol 2 existed. Vol 2 drafts become 51, 52, ... and read from
-    ck-ch050 (end of Vol 1) plus the raw prose of any earlier drafted Vol 2 chapters.
-    NOTE: only chapters flagged 'Draft complete' in the chronology are included, so
-    planning-only chapters between Vol 2 drafts are (unavoidably) skipped — the reader
-    will see narrative gaps where unwritten chapters belong. The oracle battery
-    deliberately stays on vol1_slugs().
+    """The grounded reader's stable cross-volume chapter sequence.
 
-    Drafted Vol 3 chapters are appended after Vol 2 (author ruling 2026-08-23) so they
-    are cold-readable before the Vol 3 checkpoint machinery exists. Appending never
-    shifts a Vol 1 or Vol 2 index. There is no ck past ck-ch050 yet, so a Vol 3 read
-    must run with --decade 50 (boundary stays at ck-ch050 + the full raw Vol 2 window);
-    the default decade 10 would demand a nonexistent ck-ch060.
+    Draft-complete scenes are appended by volume in chronology order. Volume One
+    remains fixed at chapters 1..50. Later-volume decade checkpoints consolidate
+    the frozen final checkpoint of the preceding volume with raw prose from the
+    current volume's opening through the boundary; the reader then appends the
+    raw post-boundary window. Only scenes flagged ``Draft complete`` enter this
+    sequence, so planning-only gaps remain invisible until drafted.
 
-    Delegates to checkpoint_bundle.reader_slugs() — the single cross-volume source shared
-    with the authoring lane (checkpoint_context), so the two can never drift on inventory."""
+    Delegates to checkpoint_bundle.reader_slugs(), the source shared with the
+    authoring lane so inventory cannot drift.
+    """
     return checkpoint_bundle.reader_slugs()
 
 
@@ -127,6 +125,21 @@ def memory_line(model_id: str, n: int, decade: int) -> str:
 def checkpoint_path(model_id: str, b: int) -> Path:
     return cold_read_config.checkpoint_path(model_id, b)
 
+def checkpoint_extract_args(model: str, model_id: str, b: int) -> list[str]:
+    """Arguments for the canonical native checkpoint mint at boundary `b`."""
+    seed_boundary, raw_start = checkpoint_bundle.checkpoint_plan(b)
+    args = ["--model", model, "--from", str(raw_start), "--to", str(b)]
+    if seed_boundary is not None:
+        seed_path = checkpoint_path(model_id, seed_boundary)
+        args.extend(
+            [
+                "--reader-sequence",
+                "--seed-checkpoint",
+                str(seed_path),
+            ]
+        )
+    return args
+
 
 def load_checkpoint(model_id: str, b: int) -> str:
     """The checkpoint body (its `---`-delimited header stripped), or '' if b == 0."""
@@ -141,9 +154,11 @@ def load_checkpoint(model_id: str, b: int) -> str:
                 f"missing donor checkpoint {p.relative_to(REPO)}. Build and validate it first:\n"
                 f"  tools/checkpoint_ensemble.py build --ensemble {name} --through {b}"
             )
+        command = " ".join(
+            ["tools/checkpoint_extract.py", *checkpoint_extract_args(model_id, model_id, b)]
+        )
         raise SystemExit(
-            f"missing grounded checkpoint {p.relative_to(REPO)}. Mint it first:\n"
-            f"  tools/checkpoint_extract.py --model {model_id} --to {b}"
+            f"missing grounded checkpoint {p.relative_to(REPO)}. Mint it first:\n  {command}"
         )
     source = cold_read_config.checkpoint_source(model_id)
     if source.startswith("ensemble:"):
@@ -431,33 +446,80 @@ def persist_output(packet_id: str, text: str) -> Path:
 
 
 def emit_bundle_packet(to_b: int, model_id: str) -> tuple[str, Path, list[str]]:
-    """Write the clean prose bundle for chapters 1..to_b as sub-cap chunk files under a
-    token dir, for a sandboxed blind-extractor subagent to mint ck-ch{to_b}. Returns
-    (token, dir, ordered names)."""
+    """Write the canonical checkpoint source as sub-cap packet files."""
     if not cold_read_config.can_mint_checkpoint(model_id):
         source = cold_read_config.checkpoint_source(model_id)
         raise SystemExit(
             f"{model_id} uses {source}; native checkpoint packet minting is disabled"
         )
-    text = checkpoint_bundle.build_reader_bundle(to_b)
+    extractor_prompt = load_agent_prompt(REPO / ".claude/agents/blind-extractor.md")
+    canonical_bundle = checkpoint_bundle.build_reader_bundle(to_b)
     fingerprints = checkpoint_bundle.source_fingerprints(
-        text, load_agent_prompt(REPO / ".claude/agents/blind-extractor.md")
+        canonical_bundle, extractor_prompt
     )
-    head = ("This is a reading packet holding ONE continuous document — the book's jacket "
+    seed_boundary, raw_start = checkpoint_bundle.checkpoint_plan(to_b)
+    if seed_boundary is None:
+        text = canonical_bundle
+        head = (
+            "This is a reading packet holding ONE continuous document — the book's jacket "
             "followed by the clean text of the chapters to consolidate — split across the "
             "numbered parts below. Read EVERY part, IN ORDER, with your packet tool "
-            "(list_packet, then read_packet for each), before you write anything:\n\n")
-    tail = ("They are consecutive slices of the same document; concatenate them in order. "
-            "Then produce your checkpoint and save it with write_output.\n")
+            "(list_packet, then read_packet for each), before you write anything:\n\n"
+        )
+        header = (
+            f"# Checkpoint — through Chapter {to_b} (grounded, single pass)\n\n"
+            f"*model: {model_id} · span: ch001–ch{to_b:03d} · "
+            f"source-sha256: {fingerprints['source_sha256']} · "
+            f"bundle-sha256: {fingerprints['bundle_sha256']} · "
+            f"cleaner-version: {fingerprints['cleaner_version']} · "
+            f"extractor-sha256: {fingerprints['extractor_sha256']} · grounded "
+            f"(full clean prose, sandboxed packet read, no chaining)*\n\n---\n\n"
+        )
+    else:
+        seed_path = checkpoint_path(model_id, seed_boundary)
+        if not seed_path.exists():
+            raise SystemExit(
+                f"missing frozen seed checkpoint {seed_path.relative_to(REPO)}"
+            )
+        seed_raw = seed_path.read_text(encoding="utf-8")
+        window = checkpoint_bundle.build_reader_bundle(to_b, start=raw_start)
+        text = checkpoint_bundle.build_seeded_source(
+            seed_raw, seed_boundary, raw_start, to_b, window
+        )
+        seed_sha256 = hashlib.sha256(seed_raw.encode("utf-8")).hexdigest()
+        window_sha256 = hashlib.sha256(window.encode("utf-8")).hexdigest()
+        input_sha256 = hashlib.sha256(text.encode("utf-8")).hexdigest()
+        head = (
+            "This reading packet contains a frozen prior-volume checkpoint followed by "
+            "the full clean prose of the current volume through the target boundary, "
+            "split across the numbered parts below. Read EVERY part, IN ORDER, with your "
+            "packet tool (list_packet, then read_packet for each), before you write "
+            "anything. Carry the prior checkpoint forward completely and amend it with "
+            "the raw span:\n\n"
+        )
+        header = (
+            f"# Checkpoint — through Chapter {to_b} (grounded, one volume-boundary hop)\n\n"
+            f"*model: {model_id} · span: ck-ch{seed_boundary:03d} + "
+            f"raw ch{raw_start:03d}–ch{to_b:03d} · "
+            f"source-sha256: {fingerprints['source_sha256']} · "
+            f"bundle-sha256: {fingerprints['bundle_sha256']} · "
+            f"seed-boundary: {seed_boundary} · seed-sha256: {seed_sha256} · "
+            f"window-sha256: {window_sha256} · input-sha256: {input_sha256} · "
+            f"cleaner-version: {fingerprints['cleaner_version']} · "
+            f"extractor-sha256: {fingerprints['extractor_sha256']} · grounded "
+            "(frozen prior-volume checkpoint + full clean current-volume prose; "
+            "one volume-boundary hop)*\n\n---\n\n"
+        )
+    tail = (
+        "The files are consecutive slices of the same source; concatenate them in order. "
+        "Then produce your checkpoint and save it with write_output.\n"
+    )
     token, d, ordered = _write_chunked_packet(text, head, tail)
-    header = (f"# Checkpoint — through Chapter {to_b} (grounded, single pass)\n\n"
-              f"*model: {model_id} · span: ch001–ch{to_b:03d} · "
-              f"source-sha256: {fingerprints['source_sha256']} · "
-              f"bundle-sha256: {fingerprints['bundle_sha256']} · "
-              f"cleaner-version: {fingerprints['cleaner_version']} · "
-              f"extractor-sha256: {fingerprints['extractor_sha256']} · grounded "
-              f"(full clean prose, sandboxed packet read, no chaining)*\n\n---\n\n")
-    _set_destination(d, f"reviews/cold-read/{model_id}/checkpoints/ck-ch{to_b:03d}.md", header)
+    _set_destination(
+        d,
+        f"reviews/cold-read/{model_id}/checkpoints/ck-ch{to_b:03d}.md",
+        header,
+    )
     return token, d, ordered
 
 
@@ -736,13 +798,11 @@ def resolve_range(args) -> list[int]:
 
 
 def mint_checkpoints(model_id: str, boundaries: list[int], args, jobs: int = 1) -> None:
-    """Wave 1 of the DAG: mint the missing decade checkpoints in parallel.
+    """Mint missing checkpoints in dependency waves.
 
-    Each checkpoint is grounded independently (from raw prose 1..B, one pass) with
-    no dependency on any other checkpoint, so they fan out freely. Minting is a
-    separate, higher-effort job than reading, so it always runs the extractor at
-    high effort regardless of the reader's --effort. Runs checkpoint_extract.py as
-    subprocesses (independent codex sessions) capped at `jobs`.
+    Volume One boundaries are independent raw passes. Later-volume boundaries
+    depend only on the frozen final checkpoint of the preceding volume, so all
+    boundaries sharing that seed fan out together after the seed exists.
     """
     if not cold_read_config.can_mint_checkpoint(model_id):
         source = cold_read_config.checkpoint_source(model_id)
@@ -751,26 +811,66 @@ def mint_checkpoints(model_id: str, boundaries: list[int], args, jobs: int = 1) 
         )
     import subprocess
     from concurrent.futures import ThreadPoolExecutor, as_completed
+
     extract = str(REPO / "tools" / "checkpoint_extract.py")
-    n = max(1, min(jobs, len(boundaries)))
-    print(f"[wave1] minting {len(boundaries)} checkpoint(s) {boundaries} · jobs={n} · effort=high",
-          file=sys.stderr)
+    pending = set(boundaries)
+
+    def add_seed_dependencies(b: int) -> None:
+        seed_boundary, _raw_start = checkpoint_bundle.checkpoint_plan(b)
+        if seed_boundary is None or checkpoint_path(model_id, seed_boundary).exists():
+            return
+        if seed_boundary not in pending:
+            pending.add(seed_boundary)
+            add_seed_dependencies(seed_boundary)
+
+    for boundary_value in tuple(pending):
+        add_seed_dependencies(boundary_value)
 
     def mint(b: int):
         out = checkpoint_path(model_id, b)
-        cmd = [extract, "--model", args.model, "--from", "1", "--to", str(b),
-               "--effort", "high", "--out", str(out)]
+        cmd = [
+            extract,
+            *checkpoint_extract_args(args.model, model_id, b),
+            "--effort",
+            "high",
+            "--out",
+            str(out),
+        ]
         t0 = time.time()
-        r = subprocess.run(cmd, capture_output=True, text=True)
-        if r.returncode != 0 or not out.exists():
-            raise RuntimeError(f"checkpoint mint failed for ck-ch{b:03d}:\n{r.stderr.strip()[-800:]}")
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        if result.returncode != 0 or not out.exists():
+            raise RuntimeError(
+                f"checkpoint mint failed for ck-ch{b:03d}:\n"
+                f"{result.stderr.strip()[-800:]}"
+            )
         return b, time.time() - t0
 
-    with ThreadPoolExecutor(max_workers=n) as ex:
-        futs = {ex.submit(mint, b): b for b in boundaries}
-        for fut in as_completed(futs):
-            b, dt = fut.result()
-            print(f"[wave1] ck-ch{b:03d} minted  {dt:.0f}s", file=sys.stderr)
+    while pending:
+        ready = [
+            b
+            for b in sorted(pending)
+            if (seed := checkpoint_bundle.checkpoint_plan(b)[0]) is None
+            or checkpoint_path(model_id, seed).exists()
+        ]
+        if not ready:
+            raise RuntimeError(
+                "checkpoint dependency cycle or unavailable frozen seed: "
+                + ", ".join(f"ck-ch{b:03d}" for b in sorted(pending))
+            )
+        n = max(1, min(jobs, len(ready)))
+        print(
+            f"[wave1] minting {len(ready)} checkpoint(s) {ready} · jobs={n} · effort=high",
+            file=sys.stderr,
+        )
+        with ThreadPoolExecutor(max_workers=n) as executor:
+            futures = {executor.submit(mint, b): b for b in ready}
+            for future in as_completed(futures):
+                b, elapsed = future.result()
+                pending.remove(b)
+                print(
+                    f"[wave1] ck-ch{b:03d} minted  {elapsed:.0f}s",
+                    file=sys.stderr,
+                )
 
 
 def main() -> None:
@@ -807,9 +907,9 @@ def main() -> None:
                     "unguessable token dir (for the sandboxed packet MCP server / free "
                     "Claude-subagent reads); print the token + files and exit (no model call)")
     ap.add_argument("--emit-bundle-packet", type=int, default=None, metavar="B",
-                    help="write the clean prose bundle for chapters 1..B as sub-cap chunk "
-                    "files under a token dir, for a sandboxed blind-extractor subagent to "
-                    "mint ck-ch{B}; print the token + files and exit (no model call)")
+                    help="write the canonical checkpoint source (raw opening pass or frozen "
+                    "prior-volume checkpoint plus current-volume raw span) as packet chunks "
+                    "for a sandboxed blind-extractor; print the token and exit")
     ap.add_argument("--emit-oracle-packet", nargs=2, default=None, metavar=("PROBE", "TIER"),
                     help="write an oracle interview packet (this model's 50 reactions + the "
                     "battery probe's tier question) for a sandboxed blind-oracle-grounded "

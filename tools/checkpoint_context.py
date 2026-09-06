@@ -20,10 +20,12 @@ checkpoint_bundle prose window), minus the reader prompt, plus the slicer. It em
 only the checkpoint + recent chapters; the AGENTS.md load-rule reads the meta/ canon
 docs first, on its own, then runs this.
 
-If the decade checkpoint is missing it is minted first: for codex/OpenAI-family models
-via checkpoint_extract.py (reads prose 1..B — takes a while); Claude-family checkpoints
-(opus/fable) are minted by a blind-extractor subagent that a CLI cannot spawn, so the
-tool prints the exact steps and exits for the caller to mint, then re-run.
+If the decade checkpoint is missing it is minted first. Volume One checkpoints
+read raw prose from the opening. A later-volume checkpoint consolidates the
+frozen final checkpoint of the preceding volume plus raw current-volume prose;
+every checkpoint in that volume uses the same frozen seed. Codex/OpenAI-family
+models run via checkpoint_extract.py; Claude-family checkpoints use the
+blind-extractor packet path, so the tool prints exact steps and exits.
 
 Usage:
   tools/checkpoint_context.py --to 60                     # opus (default), drafting ch60
@@ -72,11 +74,7 @@ DEFAULT_KEEP = ["who", "relationships", "irony", "motifs", "symbolism", "open", 
 
 
 def boundary(n: int, decade: int = DECADE) -> int:
-    """Last decade checkpoint strictly before chapter n (0 if none). `decade` is the
-    checkpoint stride: 10 by default, but a post-Vol1 chapter with no decade checkpoint
-    yet past ck-ch050 runs with --decade 50 so the boundary stays at ck-ch050 and the
-    recent window is the raw prose of the current volume so far (the interim scheme,
-    until the next volume-seam checkpoint is minted — see meta-tooling-checkpoints.md)."""
+    """Last decade checkpoint strictly before chapter n (0 if none)."""
     return ((n - 1) // decade) * decade
 
 
@@ -154,15 +152,15 @@ def _ask(msg: str):
         return None
 
 
-def _claude_mint_steps(rel: Path, bundle_hint: str) -> str:
+def _claude_mint_steps(rel: Path, packet_hint: str) -> str:
     return (
-        f"Claude-family checkpoints are minted by a blind-extractor subagent (no API tokens),\n"
-        f"which a CLI can't spawn — so the assistant runs it:\n"
-        f"  1. {bundle_hint}\n"
-        f"  2. Run a blind-extractor subagent (.claude/agents/blind-extractor.md as the system\n"
-        f"     prompt, the bundle as the message) — consolidate cold, no prior checkpoint.\n"
-        f"  3. Save its output to {rel} with the standard checkpoint header.\n"
-        f"Then re-run this command.\n"
+        "Claude-family checkpoints are minted by a blind-extractor subagent "
+        "(no API tokens),\nwhich a CLI can't spawn — so the assistant runs it:\n"
+        f"  1. {packet_hint}\n"
+        "  2. Run a blind-extractor subagent against every packet part in order; "
+        "it must consolidate the supplied prior checkpoint and raw span.\n"
+        f"  3. Save its output to {rel} with the packet's standard checkpoint header.\n"
+        "Then re-run this command.\n"
     )
 
 
@@ -187,32 +185,57 @@ def ensure_checkpoint(model: str, b: int, mint_mode: str, drafted_count: int):
         print(f"[missing] {rel} (--no-mint); proceeding without the checkpoint.", file=sys.stderr)
         return None
 
-    accept = True if mint_mode == "always" else _ask(
-        f"[missing] {rel}\nCreate this decade checkpoint now (reads ch1..ch{b})? [y/N] ")
+    seed_boundary, raw_start = checkpoint_bundle.checkpoint_plan(b)
+    if seed_boundary is not None and not ck_path(model, seed_boundary).exists():
+        ensure_checkpoint(model, seed_boundary, mint_mode, drafted_count)
 
-    bundle_hint = f"tools/checkpoint_bundle.py --to {b} > /tmp/ck-bundle-{model}-ch{b:03d}.md"
-    if accept is None:  # non-interactive, undecided: offer and hand off to the assistant
+    source_description = (
+        f"ck-ch{seed_boundary:03d} + raw ch{raw_start:03d}..ch{b:03d}"
+        if seed_boundary is not None
+        else f"raw ch001..ch{b:03d}"
+    )
+    accept = True if mint_mode == "always" else _ask(
+        f"[missing] {rel}\nCreate this decade checkpoint now "
+        f"(reads {source_description})? [y/N] "
+    )
+    packet_hint = (
+        f"tools/cold_read_grounded.py --model-id {model} "
+        f"--emit-bundle-packet {b}"
+    )
+    if accept is None:
         sys.stderr.write(
             f"[missing] {rel} — offering to create it.\n"
-            + (_claude_mint_steps(rel, bundle_hint) if is_claude(model)
-               else f"Re-run with --mint to create it via checkpoint_extract (reads ch1..ch{b}),\n"
-                    f"or --no-mint to proceed without it.\n"))
+            + (
+                _claude_mint_steps(rel, packet_hint)
+                if is_claude(model)
+                else "Re-run with --mint to create it via checkpoint_extract "
+                f"(reads {source_description}),\nor --no-mint to proceed without it.\n"
+            )
+        )
         raise SystemExit(MINT_NEEDED)
     if not accept:
         print(f"[skipped] {rel} not created; proceeding without the checkpoint.", file=sys.stderr)
         return None
 
     if is_claude(model):
-        tmp = Path(f"/tmp/ck-bundle-{model}-ch{b:03d}.md")
-        tmp.write_text(checkpoint_bundle.build_bundle(1, b, jacket=True, slugs=checkpoint_bundle.reader_slugs()))
-        sys.stderr.write(f"[mint] bundle written to {tmp}.\n"
-                         + _claude_mint_steps(rel, f"bundle ready at {tmp}"))
+        sys.stderr.write(_claude_mint_steps(rel, packet_hint))
         raise SystemExit(MINT_NEEDED)
 
-    print(f"[mint] {rel} absent — minting via checkpoint_extract (model={model}, --to {b}); "
-          f"this reads {b} chapters at high effort and takes a while…", file=sys.stderr)
-    subprocess.run([str(REPO / "tools/checkpoint_extract.py"),
-                    "--model", model, "--to", str(b)], check=True)
+    extract_args = ["--model", model, "--from", str(raw_start), "--to", str(b)]
+    if seed_boundary is not None:
+        extract_args.extend(
+            [
+                "--reader-sequence",
+                "--seed-checkpoint",
+                str(ck_path(model, seed_boundary)),
+            ]
+        )
+    print(
+        f"[mint] {rel} absent — minting via checkpoint_extract "
+        f"(model={model}, {source_description}); this takes a while…",
+        file=sys.stderr,
+    )
+    subprocess.run([str(REPO / "tools/checkpoint_extract.py"), *extract_args], check=True)
     if not path.exists():
         raise SystemExit(f"[error] mint reported success but {rel} not found")
     return path
@@ -266,9 +289,8 @@ def main() -> None:
                     help="comma-separated section aliases to keep (overrides DEFAULT_KEEP)")
     ap.add_argument("--drop", default=None, help="comma-separated section aliases to drop")
     ap.add_argument("--decade", type=int, default=DECADE,
-                    help="checkpoint stride (default 10; use 50 for a post-Vol1 chapter with "
-                         "no decade checkpoint yet past ck-ch050 — boundary stays at ck-ch050 "
-                         "and the window is the current volume's raw prose so far)")
+                    help="checkpoint stride (default 10; override only for an explicit "
+                         "legacy fallback when a required seam checkpoint has not been minted)")
     ap.add_argument("--check", action="store_true", help="report the load plan; emit nothing")
     mint = ap.add_mutually_exclusive_group()
     mint.add_argument("--mint", action="store_true",

@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Emit a spec-blind CLEAN prose bundle for the checkpoint extractor.
+"""Emit spec-blind CLEAN source for checkpoint extraction.
 
-A checkpoint is minted by feeding a blind-extractor the *clean* text of a
-contiguous span of chapters (grounded, single pass — no chaining). This tool
-produces exactly that bundle: the public jacket (optional) followed by each
-chapter's display title + its clean body, in story order.
+Volume One checkpoints read raw prose from the opening. Later-volume checkpoints
+make the one permitted consolidation hop: the frozen final checkpoint of the
+previous volume plus raw prose from the current volume's opening through the
+target boundary. This module builds both the canonical full-manuscript bundle
+used for provenance and the exact current-volume window used for that hop.
 
 The cleaner below MIRRORS cold_read_batch.clean_scene_text (kept in sync by
 hand — it is imported there for the reader harness). It strips the H1 and the
@@ -160,20 +161,58 @@ def build_bundle(start: int = 1, end: int | None = None, jacket: bool = True,
     return "\n".join(out).rstrip() + "\n"
 
 
-def build_reader_bundle(end: int) -> str:
-    """Exact cross-volume checkpoint source through reader chapter `end`.
+def checkpoint_plan(end: int) -> tuple[int | None, int]:
+    """Return `(seed_boundary, raw_start)` for a checkpoint ending at `end`.
 
-    Volume entry packets appear once at their opening chapters. For Volume 1
-    boundaries this delegates to the legacy bundle path byte-for-byte.
+    Volume One has no seed. A later volume always seeds from the final chapter
+    boundary of the preceding volume and re-reads this volume from its opening,
+    so checkpoints never chain within a volume.
     """
-    v1 = volume_scenes.volume_one_slugs(drafted_only=True)
-    if end <= len(v1):
-        return build_bundle(1, end, jacket=True, slugs=v1)
     slugs = reader_slugs()
     if not (1 <= end <= len(slugs)):
         raise ValueError(f"end {end} out of bounds (1..{len(slugs)} drafted)")
+    target_volume = volume_scenes.volume_of(slugs[end - 1])
+    raw_start = next(
+        index
+        for index, slug in enumerate(slugs, start=1)
+        if volume_scenes.volume_of(slug) == target_volume
+    )
+    seed_boundary = raw_start - 1 if raw_start > 1 else None
+    return seed_boundary, raw_start
+
+
+def checkpoint_body(raw: str) -> str:
+    """Strip a persisted checkpoint's provenance header."""
+    marker = "\n---\n\n"
+    return raw.split(marker, 1)[1].strip() if marker in raw else raw.strip()
+
+
+def build_seeded_source(
+    seed_raw: str, seed_boundary: int, start: int, end: int, window: str
+) -> str:
+    """Build the exact source text shown to a volume-boundary extractor."""
+    return (
+        f"===== PRIOR CHECKPOINT THROUGH CHAPTER {seed_boundary} =====\n\n"
+        f"{checkpoint_body(seed_raw)}\n\n"
+        f"===== RAW CURRENT-VOLUME SPAN: CHAPTERS {start} THROUGH {end} =====\n\n"
+        f"{window}"
+    )
+
+
+def build_reader_bundle(end: int, start: int = 1) -> str:
+    """Exact cross-volume raw source for reader chapters `start..end`.
+
+    Volume entry packets appear once when their opening chapter is in the span.
+    For Volume One boundaries this delegates to the legacy bundle byte-for-byte.
+    """
+    v1 = volume_scenes.volume_one_slugs(drafted_only=True)
+    if start == 1 and end <= len(v1):
+        return build_bundle(1, end, jacket=True, slugs=v1)
+    slugs = reader_slugs()
+    if not (1 <= start <= end <= len(slugs)):
+        raise ValueError(f"range {start}..{end} out of bounds (1..{len(slugs)} drafted)")
     out: list[str] = []
-    for index, slug in enumerate(slugs[:end], start=1):
+    for index, slug in enumerate(slugs[start - 1 : end], start=start):
         volume = volume_scenes.volume_of(slug)
         opening_slug, packet = volume_packet(volume)
         if slug == opening_slug and packet:

@@ -3,25 +3,31 @@
 # requires-python = ">=3.11"
 # dependencies = ["openai>=1.40", "openai-codex"]
 # ///
-"""Mint a spec-blind MEMORY CHECKPOINT in one grounded pass.
+"""Mint a spec-blind MEMORY CHECKPOINT.
 
-Feeds the clean prose of chapters 1..N to a big-context model (default Sol via
-codex subscription auth) with the blind-extractor rules as the system prompt,
-and writes the returned checkpoint. Single grounded pass — no chaining, no
-carry-forward hops — so nothing decays across a summarize-of-a-summary chain.
+Volume One checkpoints feed clean prose from chapters 1..N in one grounded pass.
+Later-volume checkpoints make the one permitted consolidation hop: a frozen
+native checkpoint through the previous volume plus the full clean prose of the
+current volume through N. Every checkpoint within that volume uses the same
+frozen seed; checkpoints never chain decade to decade.
+
 The prose is injected as the message body (NOT via the Read tool, which caps at
 25k tokens); subscription-backed models run in an isolated empty cwd, so they
 never load meta/ or project instructions.
 
 Usage:
   tools/checkpoint_extract.py                       # ck through ch50 (all of Vol 1), sol
-  tools/checkpoint_extract.py --to 20               # ck through ch20
+  tools/checkpoint_extract.py --to 20               # cold raw pass through ch20
   tools/checkpoint_extract.py --model gpt-5.6-sol --to 50
+  tools/checkpoint_extract.py --model gpt-5.6-sol --reader-sequence \
+    --seed-checkpoint reviews/cold-read/gpt-5.6-sol/checkpoints/ck-ch050.md \
+    --from 51 --to 60
 Output: reviews/cold-read/<model-id>/checkpoints/ck-ch<NNN>.md
 """
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import subprocess
@@ -104,6 +110,12 @@ def main() -> None:
     ap.add_argument("--from", dest="start", type=int, default=1)
     ap.add_argument("--to", dest="end", type=int, default=None)
     ap.add_argument(
+        "--seed-checkpoint",
+        type=Path,
+        default=None,
+        help="frozen native checkpoint through the previous volume; required for later-volume boundaries",
+    )
+    ap.add_argument(
         "--reader-sequence",
         action="store_true",
         help="use the full drafted cross-volume reader sequence; required for boundaries past Volume 1",
@@ -126,29 +138,83 @@ def main() -> None:
             f"{args.model} is a donor-memory reader ({source}); native checkpoint minting is disabled"
         )
 
+    seed_raw: str | None = None
+    seed_boundary: int | None = None
     if args.reader_sequence:
-        if args.start != 1 or args.end is None:
-            raise SystemExit("--reader-sequence requires --from 1 and an explicit --to boundary")
+        if args.end is None:
+            raise SystemExit("--reader-sequence requires an explicit --to boundary")
         end = args.end
-        bundle = checkpoint_bundle.build_reader_bundle(end)
+        seed_boundary, raw_start = checkpoint_bundle.checkpoint_plan(end)
+        if seed_boundary is None:
+            if args.start != 1 or args.seed_checkpoint is not None:
+                raise SystemExit(
+                    f"Volume One boundary {end} requires --from 1 and no --seed-checkpoint"
+                )
+            window = checkpoint_bundle.build_reader_bundle(end, start=1)
+            model_source = window
+        else:
+            if args.start != raw_start or args.seed_checkpoint is None:
+                raise SystemExit(
+                    f"boundary {end} requires --from {raw_start} and "
+                    f"--seed-checkpoint ck-ch{seed_boundary:03d}.md"
+                )
+            match = re.search(r"ck-ch(\d+)\.md$", args.seed_checkpoint.name)
+            if not match or int(match.group(1)) != seed_boundary:
+                raise SystemExit(
+                    f"--seed-checkpoint must be ck-ch{seed_boundary:03d}.md for boundary {end}"
+                )
+            if not args.seed_checkpoint.exists():
+                raise SystemExit(f"seed checkpoint not found: {args.seed_checkpoint}")
+            seed_raw = args.seed_checkpoint.read_text(encoding="utf-8")
+            window = checkpoint_bundle.build_reader_bundle(end, start=raw_start)
+            model_source = checkpoint_bundle.build_seeded_source(
+                seed_raw, seed_boundary, raw_start, end, window
+            )
     else:
-        bundle = checkpoint_bundle.build_bundle(args.start, args.end, jacket=True)
+        if args.seed_checkpoint is not None:
+            raise SystemExit("--seed-checkpoint requires --reader-sequence")
+        model_source = checkpoint_bundle.build_bundle(args.start, args.end, jacket=True)
+        window = model_source
         end = args.end if args.end is not None else len(
-            checkpoint_bundle.volume_scenes.volume_one_slugs(drafted_only=True))
-    approx_tok = int(len(bundle.split()) * 1.35)
-    print(f"[bundle] chapters {args.start}..{end}  ~{approx_tok:,} tokens", file=sys.stderr)
+            checkpoint_bundle.volume_scenes.volume_one_slugs(drafted_only=True)
+        )
+
+    canonical_bundle = checkpoint_bundle.build_reader_bundle(end, start=1)
+    approx_tok = int(len(model_source.split()) * 1.35)
+    source_label = (
+        f"ck-ch{seed_boundary:03d} + raw chapters {args.start}..{end}"
+        if seed_boundary is not None
+        else f"raw chapters {args.start}..{end}"
+    )
+    print(f"[bundle] {source_label}  ~{approx_tok:,} tokens", file=sys.stderr)
 
     system_prompt = cold_read.load_agent_prompt(AGENT_DEF)
-    fingerprints = checkpoint_bundle.source_fingerprints(bundle, system_prompt)
-    user_prompt = (
-        "The message below is the book's public jacket followed by the full clean "
-        "text of Chapters " + f"{args.start} through {end}, in story order, each under a "
-        "`===== CHAPTER n: Title =====` delimiter. This is the entire book so far; there "
-        "is no prior checkpoint (build the memory from the opening, cold). The text is "
-        "pasted inline — do not attempt to read any file. Consolidate it into ONE "
-        "cumulative checkpoint per your instructions, losing nothing that matters, and "
-        "return exactly the specified sections.\n\n" + bundle
+    fingerprints = checkpoint_bundle.source_fingerprints(canonical_bundle, system_prompt)
+    input_sha256 = hashlib.sha256(model_source.encode("utf-8")).hexdigest()
+    window_sha256 = hashlib.sha256(window.encode("utf-8")).hexdigest()
+    seed_sha256 = (
+        hashlib.sha256(seed_raw.encode("utf-8")).hexdigest() if seed_raw is not None else None
     )
+    if seed_boundary is not None:
+        user_prompt = (
+            f"The message below contains your prior checkpoint through Chapter {seed_boundary}, "
+            f"followed by the full clean text of Chapters {args.start} through {end}, in story "
+            "order. The prior checkpoint is your only memory of earlier chapters; carry it "
+            "forward completely, amend it only where this raw span changes the state, and "
+            "consolidate everything into ONE cumulative checkpoint. The text is pasted inline "
+            "— do not attempt to read any file. Return exactly the specified sections.\n\n"
+            + model_source
+        )
+    else:
+        user_prompt = (
+            "The message below is the book's public jacket followed by the full clean "
+            "text of Chapters " + f"{args.start} through {end}, in story order, each under a "
+            "`===== CHAPTER n: Title =====` delimiter. This is the entire book so far; there "
+            "is no prior checkpoint (build the memory from the opening, cold). The text is "
+            "pasted inline — do not attempt to read any file. Consolidate it into ONE "
+            "cumulative checkpoint per your instructions, losing nothing that matters, and "
+            "return exactly the specified sections.\n\n" + model_source
+        )
     t0 = time.time()
     if args.salvage_output is not None:
         result = {
@@ -240,15 +306,30 @@ def main() -> None:
     out_path = Path(args.out) if args.out else (
         REPO / f"reviews/cold-read/{args.model}/checkpoints/ck-ch{end:03d}.md")
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    header = (
-        f"# Checkpoint — through Chapter {end} (grounded, single pass)\n\n"
-        f"*model: {args.model} · span: ch{args.start:03d}–ch{end:03d} · "
-        f"source-sha256: {fingerprints['source_sha256']} · "
-        f"bundle-sha256: {fingerprints['bundle_sha256']} · "
-        f"cleaner-version: {fingerprints['cleaner_version']} · "
-        f"extractor-sha256: {fingerprints['extractor_sha256']} · "
-        f"grounded (full clean prose, no chaining)*\n\n---\n\n"
-    )
+    if seed_boundary is not None:
+        header = (
+            f"# Checkpoint — through Chapter {end} (grounded, one volume-boundary hop)\n\n"
+            f"*model: {args.model} · span: ck-ch{seed_boundary:03d} + "
+            f"raw ch{args.start:03d}–ch{end:03d} · "
+            f"source-sha256: {fingerprints['source_sha256']} · "
+            f"bundle-sha256: {fingerprints['bundle_sha256']} · "
+            f"seed-boundary: {seed_boundary} · seed-sha256: {seed_sha256} · "
+            f"window-sha256: {window_sha256} · input-sha256: {input_sha256} · "
+            f"cleaner-version: {fingerprints['cleaner_version']} · "
+            f"extractor-sha256: {fingerprints['extractor_sha256']} · "
+            "grounded (frozen prior-volume checkpoint + full clean current-volume prose; "
+            "one volume-boundary hop)*\n\n---\n\n"
+        )
+    else:
+        header = (
+            f"# Checkpoint — through Chapter {end} (grounded, single pass)\n\n"
+            f"*model: {args.model} · span: ch{args.start:03d}–ch{end:03d} · "
+            f"source-sha256: {fingerprints['source_sha256']} · "
+            f"bundle-sha256: {fingerprints['bundle_sha256']} · "
+            f"cleaner-version: {fingerprints['cleaner_version']} · "
+            f"extractor-sha256: {fingerprints['extractor_sha256']} · "
+            f"grounded (full clean prose, no chaining)*\n\n---\n\n"
+        )
     out_path.write_text(header + text + "\n")
     try:
         disp = out_path.relative_to(REPO)

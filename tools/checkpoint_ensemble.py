@@ -123,7 +123,20 @@ def source_records(name: str, boundary: int) -> tuple[list[dict[str, Any]], str,
     bundle = checkpoint_bundle.build_reader_bundle(boundary)
     extractor_prompt = cold_read.load_agent_prompt(EXTRACTOR_DEF)
     current_fingerprints = checkpoint_bundle.source_fingerprints(bundle, extractor_prompt)
-    records: list[dict[str, Any]] = []
+    seed_boundary, raw_start = checkpoint_bundle.checkpoint_plan(boundary)
+    window = (
+        checkpoint_bundle.build_reader_bundle(boundary, start=raw_start)
+        if seed_boundary is not None
+        else bundle
+    )
+    window_sha256 = sha256_text(window)
+    seed_source_fingerprints = (
+        checkpoint_bundle.source_fingerprints(
+            checkpoint_bundle.build_reader_bundle(seed_boundary), extractor_prompt
+        )
+        if seed_boundary is not None
+        else None
+    )
     problems: list[str] = []
 
     for source in source_defs:
@@ -142,6 +155,44 @@ def source_records(name: str, boundary: int) -> tuple[list[dict[str, Any]], str,
                 f"{model_id}: stale source {declared[:12]} != current "
                 f"{str(current_fingerprints['source_sha256'])[:12]}; remint it"
             )
+
+        seed_sha256: str | None = None
+        input_sha256: str | None = None
+        if seed_boundary is not None:
+            seed_path = (
+                cold_read_config.REVIEWS_ROOT
+                / model_id
+                / "checkpoints"
+                / f"ck-ch{seed_boundary:03d}.md"
+            )
+            if not seed_path.exists():
+                problems.append(f"{model_id}: missing seed {seed_path.relative_to(REPO)}")
+            else:
+                seed_raw = seed_path.read_text(encoding="utf-8")
+                seed_sha256 = sha256_text(seed_raw)
+                declared_seed_source = metadata_value(seed_raw, "source-sha256")
+                expected_seed_source = str(seed_source_fingerprints["source_sha256"])
+                if declared_seed_source != expected_seed_source:
+                    problems.append(
+                        f"{model_id}: seed ck-ch{seed_boundary:03d} is stale; remint it"
+                    )
+                expected_input = checkpoint_bundle.build_seeded_source(
+                    seed_raw, seed_boundary, raw_start, boundary, window
+                )
+                input_sha256 = sha256_text(expected_input)
+                for key, expected in (
+                    ("seed-boundary", str(seed_boundary)),
+                    ("seed-sha256", seed_sha256),
+                    ("window-sha256", window_sha256),
+                    ("input-sha256", input_sha256),
+                ):
+                    actual = metadata_value(raw, key)
+                    if actual != expected:
+                        problems.append(
+                            f"{model_id}: {key} {actual or 'missing'} != current {expected}; "
+                            "remint it"
+                        )
+
         records.append(
             {
                 "model_id": model_id,
@@ -151,6 +202,10 @@ def source_records(name: str, boundary: int) -> tuple[list[dict[str, Any]], str,
                 "body": checkpoint_body(raw),
                 "sha256": sha256_bytes(path.read_bytes()),
                 "source_sha256": declared,
+                "seed_boundary": seed_boundary,
+                "seed_sha256": seed_sha256,
+                "window_sha256": window_sha256 if seed_boundary is not None else None,
+                "input_sha256": input_sha256,
             }
         )
 
@@ -806,6 +861,10 @@ def build(name: str, boundary: int, *, claims_path: Path | None, effort: str) ->
                 "path": str(record["path"].relative_to(REPO)),
                 "checkpoint_sha256": record["sha256"],
                 "source_sha256": record["source_sha256"],
+                "seed_boundary": record["seed_boundary"],
+                "seed_sha256": record["seed_sha256"],
+                "window_sha256": record["window_sha256"],
+                "input_sha256": record["input_sha256"],
             }
             for record in sources
         ],

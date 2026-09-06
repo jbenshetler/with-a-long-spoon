@@ -59,10 +59,14 @@ before $N$. The prompt contains:
 2. raw clean prose for chapters $B+1$ through $N-1$;
 3. the clean prose of chapter $N$.
 
-Native readers mint their own high-effort checkpoints from the complete clean
-source bundle in one pass. Qwen and DeepSeek are donor-memory readers: both use
-the quote-backed, cross-vendor `core` ensemble and cannot mint native
-checkpoints. Their review headers pin the ensemble hash.
+Volume 1 native checkpoints are high-effort cold passes over the complete raw
+clean source through the boundary. After Volume 1, every in-volume checkpoint
+is one consolidation hop from the same frozen final native checkpoint of the
+prior volume plus all raw prose in the current volume through that boundary.
+Thus Volume 2 `ck-ch060` uses `ck-ch050` + raw ch 51..60, while `ck-ch070`
+again uses `ck-ch050` + raw ch 51..70, not `ck-ch060`. Qwen and DeepSeek are
+donor-memory readers: both use the quote-backed, cross-vendor `core` ensemble
+and cannot mint native checkpoints. Their review headers pin the ensemble hash.
 
 The ensemble admits ordinary claims only with at least two of four source
 checkpoints and at least two vendors. Minimal entity facts have a
@@ -75,7 +79,12 @@ flattened.
 
 ```
 tools/cold_read_grounded.py --check --model-id <id> --scope <slug>
-tools/checkpoint_extract.py --model <native-model> --to <B>
+tools/checkpoint_extract.py --model <native-model> --to 50
+tools/checkpoint_extract.py --reader-sequence \
+  --seed-checkpoint reviews/cold-read/<model-id>/checkpoints/ck-ch050.md \
+  --from 51 --to 60 \
+  --model <native-model> \
+  --out reviews/cold-read/<model-id>/checkpoints/ck-ch060.md
 tools/checkpoint_ensemble.py build --ensemble core --through <B>
 tools/checkpoint_ensemble.py check --ensemble core --through <B>
 tools/cold_read_grounded.py --model <provider/model> --model-id <id> --scope <slug>
@@ -87,11 +96,13 @@ at 80k. Invalid, incomplete, truncated, reasoning-only, missing-section, or
 out-of-order output is archived as diagnostics and never enters the review
 corpus.
 
-For a Volume 3 feedforward, all four native ensemble sources are rebuilt once
-from the complete clean manuscript through the final drafted Volume 2 boundary
-using `--reader-sequence`, then matched into a new ensemble checkpoint. If that
-raw input no longer fits every source model, stop rather than introduce a
-summary hop.
+For every later-volume boundary, use `--reader-sequence`,
+`--seed-checkpoint <frozen-final-prior-volume-native-checkpoint>`, and the raw
+current-volume range `--from <volume-start> --to <boundary>`. Every checkpoint
+within that volume reuses the same seed rather than chaining from the previous
+decade checkpoint. Its provenance must pin the seed identity/hash and exact raw
+range fingerprint. At an ensemble boundary, all native sources must cover the
+same seed and raw-source provenance before matching.
 
 ## Currency and interpretation
 

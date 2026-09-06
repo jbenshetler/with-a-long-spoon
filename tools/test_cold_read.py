@@ -267,7 +267,9 @@ class DonorMemoryTests(unittest.TestCase):
                 return_value=("token", packet_dir, ["part-001"]),
             ):
                 self.grounded.emit_bundle_packet(59, "claude-fable-5")
-        build_bundle.assert_called_once_with(59)
+        self.assertEqual(build_bundle.call_count, 2)
+        build_bundle.assert_any_call(59)
+        build_bundle.assert_any_call(59, start=51)
 
 
 class EnsembleValidationTests(unittest.TestCase):
@@ -484,6 +486,35 @@ class HarnessParsingTests(unittest.TestCase):
         )
         self.assertIn("### Who's who", normalized)
         self.assertIn("### Relationships", normalized)
+
+    def test_checkpoint_plan_uses_one_prior_volume_seed(self):
+        bundle = importlib.import_module("checkpoint_bundle")
+        self.assertEqual(bundle.checkpoint_plan(50), (None, 1))
+        self.assertEqual(bundle.checkpoint_plan(60), (50, 51))
+
+    def test_seeded_checkpoint_source_strips_persisted_header(self):
+        bundle = importlib.import_module("checkpoint_bundle")
+        source = bundle.build_seeded_source(
+            "# Checkpoint\n\n*metadata*\n\n---\n\n### Story so far\nOld memory\n",
+            50,
+            51,
+            60,
+            "===== CHAPTER 51: Next =====\n\nNew prose\n",
+        )
+        self.assertIn("PRIOR CHECKPOINT THROUGH CHAPTER 50", source)
+        self.assertIn("### Story so far\nOld memory", source)
+        self.assertNotIn("*metadata*", source)
+        self.assertIn("RAW CURRENT-VOLUME SPAN: CHAPTERS 51 THROUGH 60", source)
+
+    def test_grounded_mint_args_require_frozen_seed_after_volume_one(self):
+        grounded = importlib.import_module("cold_read_grounded")
+        args = grounded.checkpoint_extract_args(
+            "gpt-5.6-sol", "gpt-5.6-sol", 60
+        )
+        self.assertEqual(args[:6], ["--model", "gpt-5.6-sol", "--from", "51", "--to", "60"])
+        self.assertIn("--reader-sequence", args)
+        seed_index = args.index("--seed-checkpoint") + 1
+        self.assertTrue(args[seed_index].endswith("/gpt-5.6-sol/checkpoints/ck-ch050.md"))
 
     def test_chronology_consumers_load_exact_active_panel(self):
         html = importlib.import_module("chronology_html")

@@ -4,7 +4,7 @@ argument-hint: <scene-slug | volN | N | A..B> [--models <id,...>] [--fresh]
 ---
 
 Run a **grounded cold read**: for each target chapter, each panel model reads
-blind — no planning material, no chain — with **grounded memory** instead of a
+blind — no planning material, no reader-reaction chain — with **grounded memory** instead of a
 carry-forward: the volume packet at that volume's opening chapter only, the
 resolved checkpoint `ck-ch<B>`, the raw clean prose of the chapters since that
 boundary, and the chapter itself. Reads are mutually
@@ -51,12 +51,28 @@ codex subscription auth.
    only if the chapter truly is drafted end to end.
 2. Run `tools/cold_read_grounded.py --check --model-id <id> --scope <slug>`
    for every selected reader. Native readers need their own `ck-ch<B>`.
-   Qwen and DeepSeek resolve to the same validated `ensemble:core` artifact;
-   they never mint native checkpoints. If a native checkpoint is missing,
-   STOP and report the separate high-effort mint. If the ensemble is missing
-   or stale, STOP and run
+   Volume 1 checkpoints are grounded raw-prose mints. After Volume 1, every
+   checkpoint is minted from the frozen final native checkpoint of the prior
+   volume plus all current-volume raw prose through B. Every boundary in that
+   volume reuses the same prior-volume seed; never seed `ck-ch070` from
+   `ck-ch060`. The current Volume 2 recipe is:
+
+   ```
+   tools/checkpoint_extract.py --reader-sequence \
+     --seed-checkpoint reviews/cold-read/<model-id>/checkpoints/ck-ch050.md \
+     --from 51 --to 60 \
+     --model <native-model> \
+     --out reviews/cold-read/<model-id>/checkpoints/ck-ch060.md
+   ```
+
+   The checkpoint provenance must pin the seed identity/hash and exact raw
+   range fingerprint. Qwen and DeepSeek resolve to the same validated
+   `ensemble:core` artifact; they never mint native checkpoints. If a native
+   checkpoint is missing, STOP and report the separate high-effort mint. If
+   the ensemble is missing or stale, STOP and run
    `tools/checkpoint_ensemble.py check --ensemble core --through B`; remint all
-   stale source checkpoints before any ensemble rebuild. Do not mint implicitly.
+   stale source checkpoints against identical seed and raw-source provenance
+   before any ensemble rebuild. Do not mint implicitly.
 3. Volume packet: the harness injects the volume's public jacket copy from
    `reviews/cold-read/volume-packets.toml` at that volume's opening chapter
    only. Later chapters carry its gist through checkpoint/window memory. If a

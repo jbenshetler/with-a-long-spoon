@@ -35,15 +35,24 @@ The authoritative reader policies live in
 
    Kimi/GLM resolve to native checkpoints. Qwen/DeepSeek resolve to
    `reviews/cold-read/checkpoint-ensembles/core/checkpoints/ck-ch<B>.md`.
-4. For native Kimi/GLM gaps, mint separately at high effort:
+4. For native Kimi/GLM gaps, mint separately at high effort. This is another
+   paid OpenRouter call and requires its own specific authorization. Volume 1
+   checkpoints are raw-prose mints. After Volume 1, seed every boundary from
+   the frozen final native checkpoint of the prior volume and include all raw
+   prose in the current volume through that boundary. For the current Volume 2
+   seam:
 
    ```
-   tools/checkpoint_extract.py --model <provider/model> \
-     --out reviews/cold-read/<model-id>/checkpoints/ck-ch050.md
+   tools/checkpoint_extract.py --reader-sequence \
+     --seed-checkpoint reviews/cold-read/<model-id>/checkpoints/ck-ch050.md \
+     --from 51 --to 60 \
+     --model <provider/model> \
+     --out reviews/cold-read/<model-id>/checkpoints/ck-ch060.md
    ```
 
    Extraction defaults to an 80k output cap and rejects incomplete,
-   non-stopping, missing-section, or out-of-order output.
+   non-stopping, missing-section, or out-of-order output. Its provenance must
+   pin the seed identity/hash and exact raw ch 51..60 fingerprint.
 5. Never mint Qwen/DeepSeek checkpoints. The extractor and grounded harness
    reject it. Validate their donor memory instead:
 
@@ -51,8 +60,8 @@ The authoritative reader policies live in
    tools/checkpoint_ensemble.py check --ensemble core --through 50
    ```
 
-   If stale, remint every stale native source checkpoint against the identical
-   current clean manuscript fingerprint, then rebuild the ensemble. Building
+   If stale, remint every stale native source checkpoint against identical seed
+   and raw-source provenance, then rebuild the ensemble. Building
    uses the non-voting Terra matcher through subscription auth; it does not
    spend OpenRouter tokens.
 
@@ -67,9 +76,11 @@ tools/cold_read_grounded.py \
   --max-output-tokens 18000
 ```
 
-For Volume 2 use `--decade 50`; the boundary is the complete Volume 1
-checkpoint and the intervening Volume 2 chapters remain raw prose. Independent
-chapters may use `--jobs N`. `--fresh` is explicit because it spends again.
+For every Volume 2 decade boundary, use native `ck-ch050` as the seed and raw
+ch 51 through that boundary; never seed one Volume 2 checkpoint from another.
+Reader reactions still use the resolved decade checkpoint plus the raw
+since-decade window, and remain independent. Independent chapters may use
+`--jobs N`. `--fresh` is explicit because it spends again.
 
 The harness writes `reviews/cold-read/<model-id>/<slug>.md`. Donor-reader
 headers record the ensemble name and checkpoint hash. Keep the emitted

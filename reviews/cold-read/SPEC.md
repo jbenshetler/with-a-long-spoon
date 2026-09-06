@@ -13,8 +13,8 @@ variant IS the cold-read instrument; the chained variant is retired — it forge
 badly — and its files are archived under `<model-id>/chained/`). For each drafted
 chapter, a model reads *only*: the volume's cover-board title; the volume packet
 (jacket copy) at that volume's opening chapter only; a **grounded memory checkpoint**
-(`ck-ch<B>`, minted in one pass from the raw prose of ch 1..B); the **raw clean prose**
-of the chapters since that boundary; and the chapter's display title + clean prose.
+(`ck-ch<B>`), minted under the bounded consolidation policy below; the **raw clean
+prose** of the chapters since that boundary; and the chapter's display title + clean prose.
 It has seen no planning material, no future chapters, no author intent.
 It returns a **reader reaction** only — there is no carry-forward chain. The
 instrument measures whether the book "earns the dark by being light." Full mechanics:
@@ -308,48 +308,68 @@ handed forward by the previous reader:
 
 ```
 boundary  B = ((N-1)//decade)*decade          # last decade checkpoint strictly < N (decade=10)
-memory      = grounded checkpoint ck-ch{B}     # minted from the raw clean prose of ch 1..B, ONE pass
+memory      = grounded checkpoint ck-ch{B}     # minted under the bounded consolidation policy below
             + raw clean prose of chapters B+1..N-1   # the window since the boundary (real prose, not summary)
 this        = chapter N (clean prose)
 ```
 
 For N ≤ 10 there is no checkpoint (B = 0); the reader gets only the raw window of the
-chapters so far (ch 1 opens the book cold). **Zero paraphrase hops** at any depth: the
-checkpoint is grounded (see below) and the window is verbatim prose. Because chapter *N*'s
-memory no longer depends on reader *N−1*, the reads are **mutually independent** — they
-fan out.
+chapters so far (ch 1 opens the book cold). The window is always verbatim prose, and
+there is **no reader-reaction paraphrase chain**: no reaction is ever fed into the next
+read. Because chapter *N*'s memory no longer depends on reader *N−1*, the reads are
+**mutually independent** — they fan out.
 
 ### The grounded checkpoint (the memory)
 
 Minted by the **`blind-extractor`** contract
 (`.claude/agents/blind-extractor.md`): a spec-blind memory consolidator (not a
-reader/critic) that folds the full clean prose of ch 1..B into one cumulative
-checkpoint in a single grounded pass — who's-who (+gender), relationship state,
-the dramatic-irony ledger, motifs, symbolism, open questions, and impression.
-It reads only the prose it is given. Every newly minted checkpoint records the
-source-bundle hash, cleaner version, and extractor-prompt hash; checkpoints at
-one ensemble boundary must declare the identical combined source fingerprint.
+reader/critic) that records who's-who (+gender), relationship state, the
+dramatic-irony ledger, motifs, symbolism, open questions, and impression. It
+reads only the checkpoint and prose it is given.
+
+Volume 1 checkpoints are cold grounded passes over raw clean prose ch 1..B.
+After Volume 1, a checkpoint at boundary B is exactly one consolidation hop
+from the frozen final native checkpoint of the prior volume: the extractor gets
+that seed plus all raw clean prose from the current volume's opening through B.
+Every decade checkpoint in one volume uses the **same** frozen prior-volume
+seed. For example, `ck-ch060` is native `ck-ch050` + raw ch 51..60; a later
+`ck-ch070` is again `ck-ch050` + raw ch 51..70, never `ck-ch060` + raw
+ch 61..70. Thus there is no within-volume checkpoint chain, while the explicitly
+bounded one-hop-per-volume consolidation preserves the prior volume's frozen
+memory.
+
+The current Volume 2 seam is minted with:
+
+```
+tools/checkpoint_extract.py --reader-sequence \
+  --seed-checkpoint reviews/cold-read/<model-id>/checkpoints/ck-ch050.md \
+  --from 51 --to 60 \
+  --model <native-model> \
+  --out reviews/cold-read/<model-id>/checkpoints/ck-ch060.md
+```
+
+Volume 3 follows the same rule: every in-volume checkpoint uses the frozen final
+Volume 2 native checkpoint plus raw Volume 3 prose from its opening through the
+target boundary. It is not rebuilt from the complete raw manuscript, and it
+does not use an earlier Volume 3 checkpoint as its seed.
+
+Every newly minted checkpoint records the seed checkpoint identity and hash
+(when seeded), the exact raw-range/source-bundle fingerprint, cleaner version,
+and extractor-prompt hash. Checkpoints at one ensemble boundary must declare
+identical seed and raw-source provenance.
 
 - **`tools/checkpoint_bundle.py`** emits the exact clean source bundle.
 - **`tools/checkpoint_extract.py`** performs one native high-effort extraction
   and rejects empty, incomplete, non-stopping, missing-section, or out-of-order
   output. Paid OpenRouter extraction caps output at 80k tokens.
 - **`tools/checkpoint_ensemble.py`** builds/checks donor-memory ensembles.
-- The ch-050 checkpoint is the Volume 1 → Volume 2 feedforward boundary.
-
-For a Volume 3 feedforward, mint **all four** native sources through the same
-final drafted Volume 2 boundary with `checkpoint_extract.py --reader-sequence`;
-then build the ensemble at that boundary. The cross-volume bundle injects each
-volume packet once at its opening. This remains one raw-source extraction per
-model, never an ensemble-of-ensembles or summary hop. If the complete clean
-bundle no longer fits every source model's context, stop and surface that
-constraint rather than silently introduce chained compression.
+- The ch-050 checkpoint is the frozen Volume 1 → Volume 2 feedforward boundary.
 
 ### Quote-backed checkpoint ensembles
 
 `ensemble-config.toml` defines the `core` ensemble. Its four independent native
-sources are Fable, Opus, GPT-5.5, and Sol, all minted from the same boundary and
-exact manuscript fingerprint. Terra is a non-voting matcher. It proposes claims
+sources are Fable, Opus, GPT-5.5, and Sol, all minted at the same boundary with
+identical seed and raw-source fingerprints. Terra is a non-voting matcher. It proposes claims
 with exact checkpoint excerpts and, for factual claims, exact clean-scene
 evidence. Deterministic code admits and renders only claims that pass:
 
@@ -373,8 +393,9 @@ multiple motif/symbolism/impression claims explicitly mark themselves as
 competing readings. Superseded state remains in audit history but not in the
 reader checkpoint. The builder writes the rendered checkpoint, claim ledger,
 conflict ledger, owned matcher input/attempt, and manifest. The manifest pins
-all source checkpoint hashes, the clean bundle, cleaner version, extractor
-prompt, matcher contract, and configuration. Any mismatch makes `check` fail
+all source checkpoint hashes, each seed checkpoint identity/hash when
+applicable, the clean raw bundle and range, cleaner version, extractor prompt,
+matcher contract, and configuration. Any mismatch makes `check` fail
 closed and invalidates dependent donor reads.
 
 Matcher proposals are not all-or-nothing: deterministic validation materializes
@@ -445,13 +466,18 @@ harmless.
 
 ### Parallelism the design enables (two waves)
 
-Because checkpoints are grounded (each from raw prose 1..B, no dependency on any other
-checkpoint) and reads are independent, a full grounded run is two fan-out waves, not a
-50-deep serial chain: **(1)** mint ck-010/020/030/040 in parallel; **(2)** fan out all 50
-reads in parallel. `cold_read_grounded.py` implements both: `--jobs N` runs wave 2 as N
-concurrent reads (bounded pool of reused codex sessions — measured 3.1× at N=4 on terra),
-and `--auto-mint` runs wave 1 as parallel checkpoint mints first. The whole DAG in one
-command: `tools/cold_read_grounded.py --model <id> --to 50 --auto-mint --jobs 8`. Order
+Within Volume 1, checkpoints are independent raw-prose passes. In later
+volumes, each boundary depends only on the same frozen prior-volume seed and
+that boundary's current-volume raw prose, never on another checkpoint in the
+same volume. Once the seed is available, checkpoint boundaries can therefore
+fan out in parallel; reader reactions are independently parallel as well. A
+full Volume 1 run is two fan-out waves, not a 50-deep serial chain: **(1)** mint
+ck-010/020/030/040 in parallel; **(2)** fan out all 50 reads in parallel.
+`cold_read_grounded.py` implements both: `--jobs N` runs wave 2 as N concurrent
+reads (bounded pool of reused codex sessions — measured 3.1× at N=4 on terra),
+and `--auto-mint` runs wave 1 as parallel checkpoint mints first. The whole
+Volume 1 DAG in one command:
+`tools/cold_read_grounded.py --model <id> --to 50 --auto-mint --jobs 8`. Order
 never affects a read's result, so concurrency is free correctness-wise.
 
 ### Panel QA & recovery
