@@ -74,7 +74,7 @@ He lifted her, lowered her, and found the pace that made her eyes close. Her ple
 
 “God, I love how strong you are.” Her voice went sweet. “Look at you, using me like your fuck doll.”
 
-His hands tightened at her waist. He lifted her higher and brought her down hard enough to pull a low sound from her.
+His grip tightened. He lifted her higher and brought her down hard enough to pull a low sound from her.
 
 For a while, neither of them spoke.
 
@@ -162,7 +162,7 @@ Randi’s head dropped forward.
 
 “God.”
 
-His hands worked from her waist to her thighs, then back to her ass. He held the tempo where her breathing broke.
+His hands worked along her thighs, then back to her ass. He held the tempo where her breathing broke.
 
 “You like hearing me want her,” she said.
 
