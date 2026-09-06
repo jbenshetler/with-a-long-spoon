@@ -482,6 +482,15 @@ def emit_bundle_packet(to_b: int, model_id: str) -> tuple[str, Path, list[str]]:
                 f"missing frozen seed checkpoint {seed_path.relative_to(REPO)}"
             )
         seed_raw = seed_path.read_text(encoding="utf-8")
+        try:
+            seed_lineage = checkpoint_bundle.validate_seed_lineage(
+                seed_raw,
+                expected_boundary=seed_boundary,
+                expected_model=model_id,
+                extractor_prompt=extractor_prompt,
+            )
+        except ValueError as exc:
+            raise SystemExit(str(exc)) from exc
         window = checkpoint_bundle.build_reader_bundle(to_b, start=raw_start)
         text = checkpoint_bundle.build_seeded_source(
             seed_raw, seed_boundary, raw_start, to_b, window
@@ -504,6 +513,7 @@ def emit_bundle_packet(to_b: int, model_id: str) -> tuple[str, Path, list[str]]:
             f"source-sha256: {fingerprints['source_sha256']} · "
             f"bundle-sha256: {fingerprints['bundle_sha256']} · "
             f"seed-boundary: {seed_boundary} · seed-sha256: {seed_sha256} · "
+            f"seed-lineage: {seed_lineage} · "
             f"window-sha256: {window_sha256} · input-sha256: {input_sha256} · "
             f"cleaner-version: {fingerprints['cleaner_version']} · "
             f"extractor-sha256: {fingerprints['extractor_sha256']} · grounded "
@@ -734,6 +744,15 @@ def validate_reaction(reaction: str) -> None:
             "incomplete reader reaction; missing structured fields: "
             + ", ".join(missing)
         )
+
+def validate_provider_completion(usage: dict[str, object]) -> None:
+    """Reject provider-signaled truncation before a plausible fragment reaches disk."""
+    finish_reason = usage.get("finishReason")
+    incomplete = usage.get("incomplete")
+    if incomplete is True:
+        raise RuntimeError("provider reported incomplete output")
+    if finish_reason is not None and str(finish_reason).lower() != "stop":
+        raise RuntimeError(f"provider finish reason was {finish_reason!r}, not 'stop'")
 
 
 def write_review(model_id: str, n: int, decade: int, reaction: str) -> Path:
@@ -1163,10 +1182,10 @@ def main() -> None:
         finally:
             pool.put(fn)
         reaction = strip_leading_heading(result.get("output") or "")
-        if len(reaction) < 200:
-            raise RuntimeError(f"suspiciously short reaction for {slug} ({len(reaction)} chars)")
-        path = write_review(model_id, n, args.decade, reaction)
         u = result.get("usage") or {}
+        validate_provider_completion(u)
+        validate_reaction(reaction)
+        path = write_review(model_id, n, args.decade, reaction)
         return n, slug, b, path, u, time.time() - t0
 
     print(f"[wave2] {len(todo)} reads · jobs={jobs} · effort={args.effort}", file=sys.stderr)
@@ -1179,7 +1198,8 @@ def main() -> None:
                 try:
                     n, slug, b, path, u, dt = fut.result()
                     print(f"[done {i}/{len(todo)}] ch{n:03d} {slug}  memory=ck{b:03d}+win  "
-                          f"in={u.get('input')} out={u.get('output')} {dt:.0f}s", file=sys.stderr)
+                          f"in={u.get('input')} out={u.get('output')} "
+                          f"finish={u.get('finishReason')} {dt:.0f}s", file=sys.stderr)
                 except Exception as e:
                     errors.append((n, e))
                     print(f"[FAIL {i}/{len(todo)}] ch{n:03d} {slugs[n-1]}: {type(e).__name__}: {e}",

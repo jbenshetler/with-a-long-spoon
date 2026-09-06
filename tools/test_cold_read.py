@@ -162,6 +162,17 @@ class CodexAdapterTests(unittest.TestCase):
             self.assertEqual(_OpenAI.last.chat.completions.kwargs["max_tokens"], 4000)
             self.assertIsNone(result["usage"]["cost"])
 
+    def test_provider_completion_rejects_truncation_signals(self):
+        grounded = importlib.import_module("cold_read_grounded")
+        grounded.validate_provider_completion({"finishReason": "stop", "incomplete": False})
+        grounded.validate_provider_completion({})
+        with self.assertRaisesRegex(RuntimeError, "finish reason"):
+            grounded.validate_provider_completion({"finishReason": "length"})
+        with self.assertRaisesRegex(RuntimeError, "incomplete"):
+            grounded.validate_provider_completion(
+                {"finishReason": "stop", "incomplete": True}
+            )
+
 
 
 
@@ -262,14 +273,84 @@ class DonorMemoryTests(unittest.TestCase):
                 "source_fingerprints",
                 return_value=fingerprints,
             ), patch.object(
+                self.grounded.checkpoint_bundle,
+                "validate_seed_lineage",
+                return_value="current",
+            ), patch.object(
                 self.grounded,
                 "_write_chunked_packet",
                 return_value=("token", packet_dir, ["part-001"]),
             ):
-                self.grounded.emit_bundle_packet(59, "claude-fable-5")
+                self.grounded.emit_bundle_packet(60, "claude-fable-5")
         self.assertEqual(build_bundle.call_count, 2)
-        build_bundle.assert_any_call(59)
-        build_bundle.assert_any_call(59, start=51)
+        build_bundle.assert_any_call(60)
+        build_bundle.assert_any_call(60, start=51)
+
+
+class CheckpointPolicyTests(unittest.TestCase):
+    def setUp(self):
+        self.bundle = importlib.import_module("checkpoint_bundle")
+
+    def test_checkpoint_seed_policy_is_explicit(self):
+        self.assertEqual(self.bundle.checkpoint_plan(50), (None, 1))
+        self.assertEqual(self.bundle.checkpoint_plan(60), (50, 51))
+        with self.assertRaisesRegex(ValueError, "no explicit checkpoint seed policy"):
+            self.bundle.checkpoint_plan(70)
+
+    def test_checkpoint_metadata_reads_first_and_middle_fields(self):
+        raw = (
+            "# Checkpoint — through Chapter 50\n\n"
+            "*model: gpt-5.6-sol · span: ch001–ch050 · "
+            "source-sha256: abc123 · grounded*\n\n---\n\nBody"
+        )
+        self.assertEqual(
+            self.bundle.checkpoint_metadata(raw, "model"), "gpt-5.6-sol"
+        )
+        self.assertEqual(
+            self.bundle.checkpoint_metadata(raw, "source-sha256"), "abc123"
+        )
+
+    def test_seed_lineage_validates_boundary_model_and_optional_source(self):
+        current = (
+            "# Checkpoint — through Chapter 50\n\n"
+            "*model: gpt-5.6-sol · source-sha256: current*\n\n---\n\nBody"
+        )
+        legacy = (
+            "# Checkpoint — through Chapter 50\n\n"
+            "*model: moonshotai/kimi-k3*\n\n---\n\nBody"
+        )
+        with patch.object(
+            self.bundle, "build_reader_bundle", return_value="bundle"
+        ), patch.object(
+            self.bundle,
+            "source_fingerprints",
+            return_value={"source_sha256": "current"},
+        ):
+            self.assertEqual(
+                self.bundle.validate_seed_lineage(
+                    current,
+                    expected_boundary=50,
+                    expected_model="gpt-5.6-sol",
+                    extractor_prompt="prompt",
+                ),
+                "current",
+            )
+            self.assertEqual(
+                self.bundle.validate_seed_lineage(
+                    legacy,
+                    expected_boundary=50,
+                    expected_model="moonshotai/kimi-k3",
+                    extractor_prompt="prompt",
+                ),
+                "unknown",
+            )
+            with self.assertRaisesRegex(ValueError, "seed model"):
+                self.bundle.validate_seed_lineage(
+                    current,
+                    expected_boundary=50,
+                    expected_model="gpt-5.5",
+                    extractor_prompt="prompt",
+                )
 
 
 class EnsembleValidationTests(unittest.TestCase):

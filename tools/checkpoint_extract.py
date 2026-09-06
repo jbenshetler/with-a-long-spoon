@@ -105,6 +105,7 @@ def normalize_section_headings(text: str, headings: tuple[str, ...]) -> str:
 
 
 
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--model", default="gpt-5.6-sol", help="reader/extractor model id")
@@ -190,6 +191,23 @@ def main() -> None:
     print(f"[bundle] {source_label}  ~{approx_tok:,} tokens", file=sys.stderr)
 
     system_prompt = cold_read.load_agent_prompt(AGENT_DEF)
+    seed_lineage: str | None = None
+    if seed_boundary is not None and seed_raw is not None:
+        try:
+            seed_lineage = checkpoint_bundle.validate_seed_lineage(
+                seed_raw,
+                expected_boundary=seed_boundary,
+                expected_model=args.model,
+                extractor_prompt=system_prompt,
+            )
+        except ValueError as exc:
+            raise SystemExit(str(exc)) from exc
+        if seed_lineage == "unknown":
+            print(
+                f"[seed] ck-ch{seed_boundary:03d} has legacy unknown manuscript lineage; "
+                "pinning its exact checkpoint hash",
+                file=sys.stderr,
+            )
     fingerprints = checkpoint_bundle.source_fingerprints(canonical_bundle, system_prompt)
     input_sha256 = hashlib.sha256(model_source.encode("utf-8")).hexdigest()
     window_sha256 = hashlib.sha256(window.encode("utf-8")).hexdigest()
@@ -315,6 +333,7 @@ def main() -> None:
             f"source-sha256: {fingerprints['source_sha256']} · "
             f"bundle-sha256: {fingerprints['bundle_sha256']} · "
             f"seed-boundary: {seed_boundary} · seed-sha256: {seed_sha256} · "
+            f"seed-lineage: {seed_lineage} · "
             f"window-sha256: {window_sha256} · input-sha256: {input_sha256} · "
             f"cleaner-version: {fingerprints['cleaner_version']} · "
             f"extractor-sha256: {fingerprints['extractor_sha256']} · "

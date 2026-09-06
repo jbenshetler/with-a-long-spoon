@@ -71,9 +71,7 @@ def checkpoint_body(raw: str) -> str:
 
 
 def metadata_value(raw: str, key: str) -> str | None:
-    header = raw.split("\n---\n", 1)[0]
-    match = re.search(rf"(?:^| · ){re.escape(key)}: ([^·*\n]+)", header)
-    return match.group(1).strip() if match else None
+    return checkpoint_bundle.checkpoint_metadata(raw, key)
 
 
 def paths_for(name: str, boundary: int) -> dict[str, Path]:
@@ -130,13 +128,6 @@ def source_records(name: str, boundary: int) -> tuple[list[dict[str, Any]], str,
         else bundle
     )
     window_sha256 = sha256_text(window)
-    seed_source_fingerprints = (
-        checkpoint_bundle.source_fingerprints(
-            checkpoint_bundle.build_reader_bundle(seed_boundary), extractor_prompt
-        )
-        if seed_boundary is not None
-        else None
-    )
     records: list[dict[str, Any]] = []
     problems: list[str] = []
 
@@ -148,6 +139,11 @@ def source_records(name: str, boundary: int) -> tuple[list[dict[str, Any]], str,
             problems.append(f"{model_id}: missing {path.relative_to(REPO)}")
             continue
         raw = path.read_text(encoding="utf-8")
+        declared_model = metadata_value(raw, "model")
+        if declared_model != model_id:
+            problems.append(
+                f"{model_id}: checkpoint model {declared_model or 'missing'} does not match path"
+            )
         declared = metadata_value(raw, "source-sha256")
         if not declared:
             problems.append(f"{model_id}: checkpoint predates source fingerprints; remint it")
@@ -158,6 +154,7 @@ def source_records(name: str, boundary: int) -> tuple[list[dict[str, Any]], str,
             )
 
         seed_sha256: str | None = None
+        seed_lineage: str | None = None
         input_sha256: str | None = None
         if seed_boundary is not None:
             seed_path = (
@@ -171,12 +168,15 @@ def source_records(name: str, boundary: int) -> tuple[list[dict[str, Any]], str,
             else:
                 seed_raw = seed_path.read_text(encoding="utf-8")
                 seed_sha256 = sha256_text(seed_raw)
-                declared_seed_source = metadata_value(seed_raw, "source-sha256")
-                expected_seed_source = str(seed_source_fingerprints["source_sha256"])
-                if declared_seed_source != expected_seed_source:
-                    problems.append(
-                        f"{model_id}: seed ck-ch{seed_boundary:03d} is stale; remint it"
+                try:
+                    seed_lineage = checkpoint_bundle.validate_seed_lineage(
+                        seed_raw,
+                        expected_boundary=seed_boundary,
+                        expected_model=model_id,
+                        extractor_prompt=extractor_prompt,
                     )
+                except ValueError as exc:
+                    problems.append(f"{model_id}: {exc}")
                 expected_input = checkpoint_bundle.build_seeded_source(
                     seed_raw, seed_boundary, raw_start, boundary, window
                 )
@@ -205,6 +205,7 @@ def source_records(name: str, boundary: int) -> tuple[list[dict[str, Any]], str,
                 "source_sha256": declared,
                 "seed_boundary": seed_boundary,
                 "seed_sha256": seed_sha256,
+                "seed_lineage": seed_lineage,
                 "window_sha256": window_sha256 if seed_boundary is not None else None,
                 "input_sha256": input_sha256,
             }

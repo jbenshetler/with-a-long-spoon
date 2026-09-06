@@ -161,30 +161,76 @@ def build_bundle(start: int = 1, end: int | None = None, jacket: bool = True,
     return "\n".join(out).rstrip() + "\n"
 
 
-def checkpoint_plan(end: int) -> tuple[int | None, int]:
-    """Return `(seed_boundary, raw_start)` for a checkpoint ending at `end`.
+CHECKPOINT_SEEDS = {
+    # Author ruling: first Volume Two decade checkpoint is one hop from frozen Vol1.
+    60: 50,
+}
 
-    Volume One has no seed. A later volume always seeds from the final chapter
-    boundary of the preceding volume and re-reads this volume from its opening,
-    so checkpoints never chain within a volume.
+
+def checkpoint_plan(end: int) -> tuple[int | None, int]:
+    """Return the explicit `(seed_boundary, raw_start)` policy for `end`.
+
+    Volume One boundaries are raw passes from chapter 1. Later-volume boundaries
+    must be named in ``CHECKPOINT_SEEDS``; future seams are not inferred from
+    mutable drafted-scene counts or decade arithmetic.
     """
     slugs = reader_slugs()
     if not (1 <= end <= len(slugs)):
         raise ValueError(f"end {end} out of bounds (1..{len(slugs)} drafted)")
-    target_volume = volume_scenes.volume_of(slugs[end - 1])
-    raw_start = next(
-        index
-        for index, slug in enumerate(slugs, start=1)
-        if volume_scenes.volume_of(slug) == target_volume
-    )
-    seed_boundary = raw_start - 1 if raw_start > 1 else None
-    return seed_boundary, raw_start
+    volume_one_end = len(volume_scenes.volume_one_slugs(drafted_only=True))
+    if end <= volume_one_end:
+        return None, 1
+    seed_boundary = CHECKPOINT_SEEDS.get(end)
+    if seed_boundary is None:
+        raise ValueError(
+            f"no explicit checkpoint seed policy for boundary {end}; "
+            "add an author-approved CHECKPOINT_SEEDS entry"
+        )
+    return seed_boundary, seed_boundary + 1
 
 
 def checkpoint_body(raw: str) -> str:
     """Strip a persisted checkpoint's provenance header."""
     marker = "\n---\n\n"
     return raw.split(marker, 1)[1].strip() if marker in raw else raw.strip()
+
+def checkpoint_metadata(raw: str, key: str) -> str | None:
+    """Read one ` · `-delimited provenance field from a checkpoint header."""
+    header = raw.split("\n---\n", 1)[0]
+    match = re.search(rf"(?m)(?:^| · )\*?{re.escape(key)}: ([^·*\n]+)", header)
+    return match.group(1).strip() if match else None
+
+
+def validate_seed_lineage(
+    seed_raw: str,
+    *,
+    expected_boundary: int,
+    expected_model: str,
+    extractor_prompt: str,
+) -> str:
+    """Validate a frozen seed; return ``current`` or explicit legacy ``unknown``."""
+    boundary_match = re.search(
+        r"^# Checkpoint — through Chapter (\d+)\b", seed_raw, re.MULTILINE
+    )
+    if not boundary_match or int(boundary_match.group(1)) != expected_boundary:
+        raise ValueError(f"seed header must declare Chapter {expected_boundary}")
+    actual_model = checkpoint_metadata(seed_raw, "model")
+    if actual_model != expected_model:
+        raise ValueError(
+            f"seed model {actual_model or 'missing'} does not match {expected_model}"
+        )
+    declared_source = checkpoint_metadata(seed_raw, "source-sha256")
+    if declared_source is None:
+        return "unknown"
+    expected_source = source_fingerprints(
+        build_reader_bundle(expected_boundary), extractor_prompt
+    )["source_sha256"]
+    if declared_source != expected_source:
+        raise ValueError(
+            f"seed ck-ch{expected_boundary:03d} is stale: "
+            f"{declared_source[:12]} != current {str(expected_source)[:12]}"
+        )
+    return "current"
 
 
 def build_seeded_source(
