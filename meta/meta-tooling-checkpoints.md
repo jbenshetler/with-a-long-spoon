@@ -36,13 +36,16 @@ grounded lane already had it). Vol1 reads are unchanged.
 
 ## The running checkpoint past Vol1 — one chained hop per volume
 
-The current operational Vol1 checkpoint, `ck-ch050`, is a **single grounded pass**
-over the 50 drafted entries (zero hops, panel-QA'd, frozen). The approved final Vol1
-checkpoint will become `ck-ch051` only when the Tue Nov 10 lap vignette is drafted and
-enters the reader sequence. That cutover must be atomic; the current `ck-ch050` →
-`ck-ch060` path remains valid until then. Past Vol1 we accept **exactly one
-consolidation hop per volume** — the memory at any chapter is always ONE hop away
-from a pristine, frozen prior-volume checkpoint, never a chain of hops within a volume.
+The stored Vol1 `ck-ch050` was minted as a **single grounded pass** over the 50
+drafted entries (zero hops, panel-QA'd). It and the derived native `ck-ch060`/core
+ensemble are now **fingerprint-stale** because the covered-bench wording changed in
+two Vol1 scenes. The approved final Vol1 checkpoint becomes `ck-ch051` when the Tue
+Nov 10 lap vignette is drafted and enters the reader sequence. Defer reminting to
+that atomic 51-entry cutover; the current `60: 50` recipe remains the operational
+policy meanwhile, but its stored checkpoint artifacts are not valid inputs. Past
+Vol1 we accept **exactly one consolidation hop per volume** — the memory at any
+chapter is always ONE hop away from a pristine, frozen prior-volume checkpoint,
+never a chain of hops within a volume.
 The mint recipe for a decade checkpoint at boundary B in volume V:
 
     ck-ch{B} = consolidate(  frozen final checkpoint of volume (V-1)
@@ -82,9 +85,11 @@ Worked example — the 12th chapter of Vol3:
 
 ## Current operational state and approved 51-chapter cutover
 
-`ck-ch060` now exists and is valid for the current 50-drafted-entry Vol1 sequence:
-`ck-ch050` + raw ch51..60. The planned lap vignette does not enter any bundle or
-invalidate those frozen artifacts while its chronology status remains Unwritten.
+`ck-ch060` exists, but exact-fingerprint validation now rejects its native sources
+and core ensemble as stale. The planned lap vignette is still excluded while
+Unwritten; the present invalidation comes from the authorized covered-bench wording
+edits in `the-bench.md` and `new-ordinary.md`. Do not rewrite hashes or spend on an
+interim remint: replace these artifacts during the approved 51-entry atomic cutover.
 
 When the lap vignette is drafted, migrate the seam in one change set:
 
