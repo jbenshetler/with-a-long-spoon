@@ -10,6 +10,12 @@ domain/email). This is the gating item named in `meta-plan-free-sample.md`.
 
 ## The net of the decision (2026-07-30 discussion)
 
+- **Identity split (recorded 2026-09-07):** professional/business infrastructure
+  — ALLi membership (joined real-name 2026-09-06), the pre-pub attorney, KDP
+  account/tax — runs under the **legal name**; every reader-facing surface runs
+  under the pen name. Discipline at the seam: stay out of member directories (or
+  list without the pen name), never post where a profile pairs both names, and
+  never use the pen-name inbox for real-name accounts.
 - **Firewall, not garment.** The name is fully compartmentalized from the
   author — no public linkage, ever, no biographical echoes. For a male author
   under a female erotica byline, "written by a woman" is part of the POV

@@ -54,6 +54,27 @@ organizations (ALLi) and veteran erotica publishers. So the realistic team:
 - **ALLi-grade platform guidance** — the platform items: age-signal wording,
   category/keyword strategy, erotica-channel moderation.
 
+**ALLi Author membership: JOINED 2026-09-06** — under the real name (professional
+infrastructure runs on the legal identity; byline surfaces only are Helen Rivers —
+see `meta-plan-pen-name.md`). **Early assessment (author, 2026-09-07): benefits may
+be thinner than the 2026-08-30 site scan suggested.** Functionally small
+organization; no legal advice found in the member area so far; member docs not
+obviously useful; forum access still pending; nothing erotica-specific seen yet.
+Verdict open until forum access lands and the advisory channel is tested — but if
+ALLi under-delivers, the "ALLi-grade platform consult" (age-signals, category
+strategy, erotica moderation) needs a fallback: veteran erotica publishers /
+practitioner communities, per the two-track note below. Live-site recheck
+(2026-09-07): the joining page still lists "Contract vetting" and "General legal
+advice" at Author tier, but states **no access path** — no form, portal section, or
+named contact; the FAQ says only "we have a number of advisors who can look at our
+members' contracts." So the benefit appears to be **invoked by emailing member
+support**, not self-serve — test it with a concrete question before judging it
+hollow. Their public advice center (selfpublishingadvice.org) has erotica coverage
+but it is **thin and news-grade** (platform-restriction news, the Amazon
+"erotica dungeon" myth piece, one 2025 practitioner roundtable) — not the deep
+category-mechanics guidance this plan hoped for; the forum, if active, is the
+remaining place that expertise could live.
+
 **ALLi Author membership carries its own legal benefits** (per the live ALLi site,
 recorded 2026-08-30): the **Author** tier — for authors who've published one+ book
 *or are just about to upload their first* (a completed 50k+ manuscript qualifies) —
@@ -65,6 +86,33 @@ items (defamation/right-of-publicity/trademark clearance on named real people, p
 and marks). So ALLi covers platform guidance **and** general/contract legal questions;
 the paid pre-pub media attorney still owns the targeted clearance read off the
 pre-sheet.
+
+## Practitioner communities — the erotica platform-knowledge fallback (researched 2026-09-07)
+
+Where the "veteran erotica publishers / practitioner communities" fallback actually
+lives, if/when ALLi under-delivers. Assistant-researched; join peer-facing forums
+under the pen name or a neutral handle (public posts about the book link the poster
+to it — the ALLi real-name logic does *not* extend here).
+
+1. **r/EroticAuthors** (Reddit) — **downgraded on author field-check (2026-09-07,
+   a week of lurking + top posts across day/week/month/year/all-time):** low
+   traffic; content is almost all volume-production strategy and KU-extremes
+   publishing, not craft or literary-erotica platform intel. Low-value forum for
+   this book; not the erotica resource the search commentary claimed.
+2. **KBoards** — author field-check (2026-09-07): two threads in the last two
+   years mention "erotica" without the phrase "except erotica." Some general
+   self-pub value, but nothing erotica-specific — background reading, not a
+   consult channel.
+3. **Dirty Discourse** (dirtydiscourse.com) — private paid forum, repeatedly
+   named across KBoards/KDP-community threads as *the* serious erotica/erom
+   self-pub forum; tiered pricing. **Untested — now the lead candidate.**
+4. **ERWA** (Erotica Readers & Writers Association) — long-running craft +
+   market community. Untested.
+5. **Selena Kitt / Excessica — effectively defunct as a venue (verified
+   2026-09-07):** submissions page 404s; the homepage's newest visible activity
+   is 2009 (copyright 2008). Author's read ("closed to new submissions")
+   confirmed and then some. Her legacy blog posts on Amazon erotica policy may
+   retain archival value; the press is not a live contact point.
 
 ## Vetting questions for the attorney
 

@@ -76,7 +76,14 @@ rationale**, so later passes don't re-litigate.
   "begging" 2026-07-30: the tricolon's third slot keeps its strongest word, the
   body doing the begging completes the wordless-offering theme (she gave up
   asking with words), and "while she wrung him dry" still carries the physical
-  extraction.
+  extraction. **SUPERSEDED 2026-09-07 (authorship audit,
+  `meta-plan-authorship-fixes.md`):** the whole climax sentence rebuilt
+  felt-from-inside (4/4 audit models convicted the outside-in rendering;
+  female-POV priority class): "She came around him hard, the whole of her
+  seizing in waves she had no say in, and it took him with her — she felt him
+  drive deep and hold and go, pulse after pulse of him while she was still
+  coming, his groan broken against her neck." The wordless-offering theme now
+  carries via the involuntary waves; the extraction close is gone.
 
 - **Music-thread seed added at the doorstep** (scene-review outcome, not a
   reviewer flag; author-approved 2026-07-30). The review found the music thread

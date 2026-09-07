@@ -261,5 +261,40 @@ The three locked surfaces:
   categories, no dubcon/manipulation pattern-matches; accurate D2D ECS.
 - **ALLi-grade platform consult** (`meta-plan-lawyer.md`) for currently-permitted
   category pairs (a browseable slot), erotica-channel moderation behavior, and how
-  aggressively Amazon flags scraped footprints.
+  aggressively Amazon flags scraped footprints. **Added to the consult (2026-09-07):
+  is erotica + women's fiction a permitted/stable pairing?** Women's fiction is the
+  warm female-readership shelf with **no HEA contract** (loss endings native), so it
+  evades the never-romance ruling's objection entirely — the live precedent is
+  *Becoming Venus* running romance + women's fiction over explicit content (watch
+  item, `meta-blurb.md`). Risks to weigh: explicitness mismatch for a
+  women's-fiction browser (the repel-the-wrong-reader 1-star), and whether Amazon's
+  content review strips the pairing on an erotica-classified title. **Erotica +
+  romance stays ruled out** regardless of Vol 1's warm curtain — the tag is a
+  series-destination promise the trilogy's ending breaks (see `meta-blurb.md`,
+  never-romance).
 - **Revisit CW-for-wide.**
+- **Investigate Bold Strokes Books as a market-intel channel (added 2026-09-07) —
+  investigation only, NOT a publication channel** (author call, same date: their
+  erotic-fiction band is 50–80k vs. our ~135k Vol 1; terms are all-rights +
+  remove-from-sale + no simultaneous submissions ~16 wks; and the §1
+  creative-control ruling stands). The value is the *catalog as curated map*:
+  visibly higher-quality f/f + bisexual explicit fiction than the Amazon shelf —
+  a lens on the f/f-forward reader vector (§4) for comps, also-boughts, and
+  where that readership shops. Observations so far (author, 2026-09-07):
+  (a) **cover language is people-focused and warm** across their list —
+  a data point against pure literary trade-dress for warmth-forward explicit
+  work (cover decisions owned by `meta-cover.md`); (b) their lone **bisexual
+  erotica** title, *The Naked Truth* (Sandy Lowe), is **dual-tagged
+  erotica + romance** — instructive for us: WALS is not-romance (HEA contract,
+  `meta-blurb.md`) but its warmth shares romance characteristics, and the
+  dual-tag is how a warm explicit book claims both readerships at a press
+  unbound by KDP category walls; (c) second Lowe title, *If You Dare* (2020,
+  76.5k, $9.99 epub), repeats the Erotica/Romance dual-tag (a house pattern,
+  not a one-off) and models the **one-line reader advisory** — "*Reader
+  Advisory: If You Dare contains explicit fantasies of non-consent*" at blurb
+  end: names only the sharpest edge, matter-of-fact register, works as
+  invitation to the right reader rather than thrill-bait — a direct candidate
+  form for the open **CW-for-wide** item above (the blurb also openly
+  telegraphs its dark turn, which that lane's norms permit; our no-telegraph
+  ruling is a jacket-craft choice, not a market requirement). The 76.5k length
+  also confirms their erotic band reflects real practice, not aspiration.

@@ -97,6 +97,18 @@ Retail title field (metadata, not art): *A Polite Invitation (With a Long Spoon,
 - **Watch the low-contrast pairing:** warm-black circles on any dark ground mush at thumbnail; the vignette (option 1) or rim-weight/fill-value adjustments are the levers.
 - **Typography decides the register** on a diagram cover — the geometry is the image, but the title treatment says "literary" vs. "self-published." Budget care there.
 - **Rasterization is a stage of the epub build pipeline** (planned — packaging spec in `meta-blurb.md`, Test-epub assembly).
+- **Cover-artist market data point (recorded 2026-09-07):** Tammy Sedick
+  (mybookcoverdesign.com) — the artist on both Bold Strokes / Sandy Lowe covers the
+  author liked (see `meta-plan-distribution.md` §6, Bold Strokes entry). Pricing:
+  $250 ebook / $350 POD+ebook / series $195 per additional / $75 audiobook add-on;
+  stock photos included. That price is **market-normal for the stock-composite
+  genre-cover lane**, not a quality red flag — the model is licensed stock +
+  typography + composition from an author-supplied brief; no designer at any tier
+  reads the manuscript. Relevance here is **limited by the settled symbolic-cover
+  decision** (photomontage decided against, build nearly complete) — file as (a) a
+  benchmark for what commissioned covers cost, (b) a candidate lane for ancillary
+  graphics (audiobook, social), (c) a fallback pipeline only if the symbolic build
+  is ever abandoned — a reopening the author would have to call explicitly.
 
 ---
 
@@ -190,3 +202,36 @@ the author name; the hand plane carries a verdigris tint. Prompt verbatim:
 2. ~~Background~~ — **decided 2026-08-30: purple/aubergine register** (red-family fights the red medallion; other candidates tested and failed — see *Background*). Only the **exact purple variant** is still being tuned.
 3. Title typography — untouched so far; decides the whole register. (What the text *says* and its hierarchy are decided — see Cover text — this question is purely typeface/treatment.)
 4. ~~Whether the cover carries the tagline~~ — **decided 2026-07-30: no** (see Cover text).
+5. **Warmth challenge to the symbolic concept (raised by author 2026-09-07 —
+   open, an authorized question, not yet a reversal).** The concern: the diagram
+   cover may read *too technical / too cold* for a warmth-first novel to its
+   primary acquisition reader (women graduating from spicy romance,
+   `meta-plan-distribution.md` §4). Three inputs, in tension:
+   - **New market fact post-dating the symbolic decision:** the Amazon erotica
+     shelf is now dominated by AI-generated people/werewolf covers ("90s porn
+     video covers without nudity" — author field observation, 2026-09-07). The
+     premium signal may no longer be *symbolic vs. people* but **visibly
+     human-art-directed vs. slop** — which credits a Sedick-grade warm
+     photographic cover with anti-pulp work the 2026-08 ruling didn't weigh.
+   - **The romance-promise trap:** a cover that reads *romance* to a
+     romance-literate browser is an HEA-shaped promise the closed ending breaks
+     (blurb yardstick: make no promise the book doesn't keep; never-romance
+     ruling). A warm cover is only viable if it lands in the **mainstream-warm**
+     register — no genre contract — not the romance register. Author's register
+     references: the two Sedick/Bold Strokes covers (suggestive, women on a bed,
+     no nudity — clears KDP's all-audiences cover rule, which bans nudity, not
+     suggestion), *Dirt* (Stuart Woods, 1996 — mainstream commercial trade
+     dress), and CMBYN (warm, human, ends in loss) as the standing
+     ending-valence reference.
+   - **Cheap warmth levers inside the settled concept, not yet spent:** exact
+     aubergine variant still tuning; candidate 1's lamplight-vignette (warm glow
+     behind the triangle, canon bench atmosphere) could migrate onto the plum
+     ground; title typography (open question 3) "decides the whole register."
+   **Resolution instrument:** two-cover comparative A/B — commission one
+   Sedick-style comp (~$250, `mybookcoverdesign.com`; see Production data
+   point) and show both to target-cohort readers with two probes: *"what does
+   this book promise?"* and *"how does a book with this cover end?"* (the
+   second directly measures installed HEA expectation — if the warm cover
+   installs "happily ever after," it is disqualified regardless of appeal).
+   Note this A/B is a **wider question than** the confirm-not-reopen scope
+   fixed in open question 1 (that scope governed mask-vs-flower only).

@@ -83,10 +83,14 @@ for," "lovely/pleasantly" thinned, doubled walk-order cut). Durable rulings:
   arriving in stages; blueprint clarity before she has it would be a POV loss.
   "Open, everything open" is her word landing in his paragraph — the reveal in
   miniature. "Her hands closed on nothing" stands.
-- **"the coral lips"** (5.5, lone and hedged: "stylized/clinical") — stands.
-  Precision-of-color is Pace's connoisseur register throughout (blue toes, deep
-  pink); the sentence was already touched once in the gloss trim, and three readers
-  cited the reveal as the erotic peak.
+- **"the coral lips"** (5.5, lone and hedged: "stylized/clinical") — ~~stands~~
+  **SUPERSEDED 2026-09-07 (authorship audit — different charge, new evidence
+  class):** the full-panel authorship audit flagged the color clause at 7/8
+  models as a perceived-male-authorship tell (`meta-plan-authorship-fixes.md`);
+  author trimmed the sentence to scent ("The cleft between her legs opened, and
+  the scent of her began to reach him, unmistakable, the sea in it."). The
+  reveal-as-peak praise attaches to the moment and survives; the original
+  stands-verdict was correct against the craft flag it answered.
 
 ## Addendum — claude-fable-5 read (triaged 2026-07-30)
 
