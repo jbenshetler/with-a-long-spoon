@@ -14,10 +14,12 @@ Sentence-by-sentence consistency/logic audit (`audits/line-audit/above-him.md`).
 ## Left standing — do not re-litigate
 
 - **"The next Friday" + "her morning"** (:47/:49) — the dateline is
-  retroactively literal: {{School Nights}} (Mon–Thu that week) puts her at
-  his mirror Friday morning after the Thursday-night stay. First read takes
-  "Friday = the next visit" loosely; reread finds it exact — the seed is the
-  point. Do not re-date or soften.
+  retroactively literal: {{School Nights}} lands Mon Nov 9, followed by the
+  Tue Nov 10 lap vignette and the Thursday-night stay at {{In His Hands}},
+  which puts her at his mirror Friday morning. First read takes "Friday = the
+  next visit" loosely; reread finds it exact — the seed is the point. Do not
+  re-date or soften. *(Sequence reconciled to the lap-vignette insertion,
+  author 2026-09-06.)*
 - **"Waited all week to be answered" vs. her weeknight presence** (:59) — the
   page never claims she was away; :49's "out of pure habit" implies the
   weekday mornings. Staging: he cleared the counter overnight (Thursday

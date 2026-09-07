@@ -297,6 +297,19 @@ class CheckpointPolicyTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "no explicit checkpoint seed policy"):
             self.bundle.checkpoint_plan(70)
 
+    def test_first_volume_two_seed_fails_closed_when_volume_one_moves(self):
+        with patch.object(
+            self.bundle, "reader_slugs", return_value=[f"scene-{n}" for n in range(60)]
+        ), patch.object(
+            self.bundle.volume_scenes,
+            "volume_one_slugs",
+            return_value=[f"vol1-{n}" for n in range(51)],
+        ):
+            with self.assertRaisesRegex(
+                ValueError, "drafted Volume One ends at ch051"
+            ):
+                self.bundle.checkpoint_plan(60)
+
     def test_checkpoint_metadata_reads_first_and_middle_fields(self):
         raw = (
             "# Checkpoint — through Chapter 50\n\n"

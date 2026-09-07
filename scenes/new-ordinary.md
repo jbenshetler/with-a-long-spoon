@@ -34,7 +34,7 @@ And then she was standing in his hall in the green satin and a pair of white cot
 
 She went for the corner and he caught the back of her bra and didn't let go. He didn't pull. He only held it and let her keep going, so she had to come out of it herself, turning, unwinding like something off a spool, and it came away in his hand and she was facing him again with his shirt hanging open where she'd got at it and her own arms empty. She'd lost. She knew it. She put her mouth back on him anyway.
 
-The thong she took off herself, three steps into the room, and threw. It landed green on the low table of odd proportions that stood in the middle of his bedroom. She never looked to see where it went.
+The thong she took off herself, three steps into the room, and threw. It landed green on the long, unusually proportioned table that stood in the middle of his bedroom. She never looked to see where it went.
 
 They made the bed. Barely.
 

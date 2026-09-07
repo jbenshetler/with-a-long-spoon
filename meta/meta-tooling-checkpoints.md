@@ -18,11 +18,11 @@ prose. `checkpoint_context.py` additionally slices reader-reaction sections off 
 checkpoint so a drafting model never sees them (`--keep`/`--drop`).
 
 Chapter numbering is the **flat cross-volume drafted sequence** —
-`checkpoint_bundle.reader_slugs()` = Vol 1 drafted (1..50) + Vol 2 drafted + Vol 3
-drafted, in chronology order. Vol 1 is exactly 50 drafted scenes, so appending later
-volumes **never shifts an earlier index**; a Vol 1 read is byte-identical to what it
-was before Vol 2 existed. This is the single source of truth shared by the authoring
-and grounded-read lanes (they delegate to it, so they can't drift on inventory).
+`checkpoint_bundle.reader_slugs()` = Vol 1 drafted + Vol 2 drafted + Vol 3 drafted,
+in chronology order. The current operational inventory has 50 drafted Vol 1 entries.
+The approved final inventory is **51** after the Tue Nov 10 lap vignette is drafted;
+while that entry remains Unwritten, it is excluded from the reader sequence. This is
+the single source of truth shared by the authoring and grounded-read lanes.
 
 ## The bug this note fixes (2026-09-01)
 
@@ -36,11 +36,14 @@ grounded lane already had it). Vol1 reads are unchanged.
 
 ## The running checkpoint past Vol1 — one chained hop per volume
 
-Vol1's `ck-ch050` is a **single grounded pass** over raw ch1..50 (zero hops, panel-QA'd,
-frozen). Past Vol1 we accept **exactly one consolidation hop per volume** — the memory
-at any chapter is always ONE hop away from a pristine, frozen prior-volume checkpoint,
-never a chain of hops within a volume. The mint recipe for a decade checkpoint at
-boundary B in volume V:
+The current operational Vol1 checkpoint, `ck-ch050`, is a **single grounded pass**
+over the 50 drafted entries (zero hops, panel-QA'd, frozen). The approved final Vol1
+checkpoint will become `ck-ch051` only when the Tue Nov 10 lap vignette is drafted and
+enters the reader sequence. That cutover must be atomic; the current `ck-ch050` →
+`ck-ch060` path remains valid until then. Past Vol1 we accept **exactly one
+consolidation hop per volume** — the memory at any chapter is always ONE hop away
+from a pristine, frozen prior-volume checkpoint, never a chain of hops within a volume.
+The mint recipe for a decade checkpoint at boundary B in volume V:
 
     ck-ch{B} = consolidate(  frozen final checkpoint of volume (V-1)
                            + raw prose of volume V, from its start up to B )
@@ -59,8 +62,8 @@ Worked example — the 12th chapter of Vol3:
 
     memory = ck-v3-ch10  +  raw Vol3 ch11
       ck-v3-ch10  = consolidate( ck-v2-final + raw Vol3 ch1..10 )   # one hop off Vol2
-      ck-v2-final = consolidate( ck-ch050    + raw Vol2 all     )   # one hop off Vol1
-      ck-ch050    = single-pass grounded mint of raw Vol1          # zero hops (frozen)
+      ck-v2-final = consolidate( ck-v1-final + raw Vol2 all     )   # one hop off Vol1
+      ck-v1-final = single-pass grounded mint of raw Vol1           # zero hops (frozen)
 
     chain depth from ch1 = 2 = one hop per volume past Vol1.
 
@@ -70,27 +73,29 @@ Worked example — the 12th chapter of Vol3:
 - Avg scene: ~2.7k words ≈ ~3.7k tok. A ≤9-chapter window ≈ up to ~33k tok.
 - **This model: ~6–8k (ck) + ≤33k (window) ≈ ~40k tok, flat** regardless of trilogy
   length. Leaves ample room for the `meta/` canon load inside Sonnet 5's window.
-- Real assembly for ch060 (default decade 10): ck-ch050 + raw ch51..59 ≈ **~54k tok**.
-- Contrast — the interim all-raw scheme (`--decade 50`, no seam checkpoint yet):
+- Real assembly for ch060 (default decade 10): currently ck-ch050 + raw ch51..59; after the approved final-Vol1 cutover, ck-ch051 + raw ch52..59. Both are ≈ **~54k tok**.
+- Contrast — the retired all-raw interim scheme (`--decade 50`, before ck060 existed):
   ck-ch050 + *all* raw Vol2. At the 16 drafted Vol2 scenes today ≈ ~118k tok; projected
   full Vol2 (~25–30 scenes) pushes raw-Vol2 past ~200k tok and busts a 200k window
   before canon is even added. **Not Sonnet-safe as Vol2 grows** — the reason for the
   seam-checkpoint model above.
 
-## Interim state (today) and when to retire it
+## Current operational state and approved 51-chapter cutover
 
-No checkpoint exists past ck-ch050. So a post-Vol1 chapter runs with **`--decade 50`**
-(boundary pins to ck-ch050; window = the current volume's raw prose so far). This is
-correct but grows unbounded. Retire it by minting the first Vol2 seam checkpoint
-(`ck-ch060`) and reverting to default decade 10, which caps the window at ≤9 chapters.
-Vol2 already has 16 drafted scenes — do this before it gets much longer.
+`ck-ch060` now exists and is valid for the current 50-drafted-entry Vol1 sequence:
+`ck-ch050` + raw ch51..60. The planned lap vignette does not enter any bundle or
+invalidate those frozen artifacts while its chronology status remains Unwritten.
 
-## Deferred work
+When the lap vignette is drafted, migrate the seam in one change set:
 
-1. **Incremental mint mode in `checkpoint_extract.py`.** It currently mints
-   cumulatively from raw ch1 ("there is no prior checkpoint"), which is blocked past
-   ch50 and would re-read the whole trilogy. Add a mode that feeds a *frozen prior
-   checkpoint + this volume's raw window* and consolidates — the one-hop recipe above.
-2. **Volume-seam bookkeeping.** Decide the frozen "final checkpoint of volume V−1"
-   pointer (the last decade checkpoint at/after the volume's last chapter) and wire the
-   authoring/grounded lanes to select it automatically instead of `--decade 50` by hand.
+1. Mark the vignette Draft complete and add its slug to the legacy `FALL_SCENES`
+   manifest at the same chronology position.
+2. Mint each native final-Vol1 `ck-ch051` as a raw ch1..51 single pass.
+3. Change the explicit first-Vol2 seed policy from `60: 50` to `60: 51`; the ck060
+   raw span becomes ch52..60. Update its recipes and seam-contract tests together.
+4. Remint native ck060, rebuild the core ensemble, and treat dependent donor reviews
+   as stale until rerun against the new core checkpoint.
+
+`checkpoint_plan()` fails closed if the first-Vol2 seed no longer equals the drafted
+Vol1 endpoint, preventing the planned insertion from silently leaving ck050 as the
+active seam.

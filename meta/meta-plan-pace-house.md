@@ -214,7 +214,7 @@ two people move through without calling out to each other.
 
 ## Fixtures / props
 - **The bench** `[PAGE]`: walnut, **twelve coats of oil**; a fitted **wooden top**
-  that disguises it as "a strange low table." Pace calls the piece a **trestle**
+  that disguises it as a long, somewhat awkward table. Pace calls the piece a **trestle**
   (she'd taken it for a table; he didn't correct her). Padded-leather working
   surfaces: head + hand grips low, rising chest pad, **angled pelvis support** high,
   leg supports out from the sides. **Adjustable** — he built it to adjust to his

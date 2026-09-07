@@ -162,7 +162,8 @@ def build_bundle(start: int = 1, end: int | None = None, jacket: bool = True,
 
 
 CHECKPOINT_SEEDS = {
-    # Author ruling: first Volume Two decade checkpoint is one hop from frozen Vol1.
+    # Current operational seam. The approved final Vol1 boundary is 51; the
+    # drift guard below forces an atomic policy/artifact cutover once it is drafted.
     60: 50,
 }
 
@@ -185,6 +186,13 @@ def checkpoint_plan(end: int) -> tuple[int | None, int]:
         raise ValueError(
             f"no explicit checkpoint seed policy for boundary {end}; "
             "add an author-approved CHECKPOINT_SEEDS entry"
+        )
+    first_seeded_boundary = min(CHECKPOINT_SEEDS)
+    if end == first_seeded_boundary and seed_boundary != volume_one_end:
+        raise ValueError(
+            f"checkpoint seed policy for boundary {end} uses ck-ch{seed_boundary:03d}, "
+            f"but drafted Volume One ends at ch{volume_one_end:03d}; "
+            "update the seed policy and remint affected checkpoints atomically"
         )
     return seed_boundary, seed_boundary + 1
 

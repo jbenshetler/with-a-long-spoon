@@ -57,7 +57,7 @@ Pace does not know what happens at the SATC lunches. Vee does not know Pace and 
 
 ## Current State of the Work
 
-**Phase:** Drafting. Roughly 56 of 97 planned scene/vignette entries have complete drafts (one more partial). `meta-plan-chronology.md` owns the live inventory and per-scene status — consult it rather than any list here. The novel's chronology runs one academic year (fall semester through spring).
+**Phase:** Drafting. `meta-plan-chronology.md` owns the live inventory and per-scene status. Volume One currently has 50 drafted entries; the approved Tue Nov 10 lap vignette makes its final inventory **51** once drafted. The novel's chronology runs one academic year (fall semester through spring).
 
 **Current phase of story:** The configuration is long established; the SATC confidante track and the erotic staircase are both well advanced, with drafted scenes now running from fall into spring. The threesome and its reveal remain the unwritten destination.
 
