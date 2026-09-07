@@ -1,0 +1,32 @@
+# Capture panel — consent-sensitive · jacket
+
+*model: claude-opus-4-8 · persona: consent-sensitive · arm: jacket · chapters: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 98dd57e50c5c · run: 2026-09-07*
+
+GATE 1 — The Bench
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: The long unbroken build on the bench — "He did not begin the edging until her ass was beautifully red and she was trembling continuously" — is where I felt the old warning itch. A man managing a woman toward a "real" surrender she didn't know she had, deciding in advance to break past the version of her she's chosen to present. If the book had been cheering that as pure conquest, I'd have been gone right there.
+WHY: But it isn't. The prose knows exactly what it's staging. The moment she locks the bathroom door — "not a thing she had ever done before in his house" — and stands in front of the mirror deciding *the face was going back on, and she was not coming out again,* the book hands the interiority and the cost straight to her, not to him. And then the gut-punch reversal: she isn't the passive ingénue from the jacket, she's *Randi.* One of the two who supposedly planned this. The predator is being quietly unmade by her own instrument. The nail-bed press with the bottle cap, unremarked, told me the author sees the damage under the tenderness. I'm not being asked to applaud. I'm being asked to *watch,* which is the only thing that keeps me in a room this dark.
+
+GATE 2 — Standards
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: "*He's hard to say no to,* she heard, in her room, in a different key. It was not a key she could sing in." I braced here, because a lesser book uses that line to make the reader swoon. Was I about to be handed a heroine being worn down and told it's romance?
+WHY: No — the chapter is a masterclass in a *different* power squeeze, and it's Brooke, not Pace, running it. That interrogation in the common room, four minutes of smiling while Brooke files away "Pace," "math," "not his section" — the book let me feel Randi being *handled* by her own president exactly the way she handles others, and she knows it from the inside because she sits on Standards. So now I've got two nested machines: Pace working Randi, Randi and Brooke working something bigger, and Randi caught in the gears of both. The still, cold room where she lies in last night's clothes and *can't reach* the crying — "it felt like there being no door" — is the same dissociation as Chapter 1, tracked with real clinical patience. This book keeps proving it sees the wound. I'm leaning in.
+
+GATE 3 — The Pointing Game
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: "Her body wanted this; her mind had not yet caught up to it... let the wanting simply feel good in her, good enough that the good feeling and the wanting became one fact." That's Pace deciding to use orgasm as a bypass around her consent-in-daylight, and it's the single most alarming sentence in the sample. My whole burned-reader alarm went off — this is the *exact* move I leave books for.
+WHY: What keeps me is that the book frames it *as* a maneuver and never lets Pace be right about himself. He tells himself he's giving her a gentle way to say something true "dressed as play" — and the narration quietly shows the opposite: he takes "the body's answer for the true one. He usually did." That "usually" is the author's thumb on the scale, marking his self-serving epistemology as a *habit,* not wisdom. And crucially the target of the pointing game turns out to be Vee — the girl from the jacket — meaning Randi, herself hollowed out on a bench two chapters ago, is now steering a stranger toward the same machine, helplessly wanting it. The predator-and-prey lines are all tangled, everyone is someone's instrument, and the book knows. I don't trust Pace one inch, and I don't think I'm supposed to. That's why I'll turn the page.
+
+GATE 4 — See You Later
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: Cassie's flat "Goodbye, Vee" — "the word for a longer parting than a Wednesday" — and Vee smoothing it away. I almost had to set the book down, not from doubt but from dread: the one clear-eyed person in the room just said goodbye like she's watching someone get taken, and Vee can't hear it. That's the closest I came to needing a breath.
+WHY: Giving Vee the POV at last was the right move and it's devastating in the good way. The blank transcript — "she had been keeping the feeling... and the transcript was blank" — is the most honest rendering of being love-bombed I've read in ages, because it's from *inside,* where it just feels like being finally chosen. The book stacks the dramatic irony perfectly: I know Randi walked into her on purpose, I know "we should sit together" was engineered, I know what a "latent variable" is doing sitting underlined in her notebook. And Vee is warm and sharp and lonely and completely unaware. The book isn't naive about a single beat of it. Cassie is the author's conscience planted in the room. I am fully, warily hooked.
+
+VERDICT
+WOULD PAY: yes — $9.99 without hesitating.
+MAILING LIST: yes.
+TELL A FRIEND: Okay, you know how we're always burned by books that dress up a grooming arc as courtship and don't seem to *know* they're doing it? This is the opposite of that, and it's kind of thrilling and kind of upsetting. The jacket tells you flat out there's a conspiracy against an innocent girl — but the first chapter pulls this gorgeous switch where the woman getting taken apart on a spanking bench turns out to be one of the *conspirators,* and you watch her dissociate and reassemble her "face" in the bathroom mirror like a trauma case study. It's literary erotica for real — genuinely hot, but every scene is doing psychological forensics on consent and power, and it never once asks you to cheer. The man, Pace, is courtly and "asks first" and I do not trust him for a second, and I don't think the book wants me to — there's this killer line where he takes her body's yes as the true answer, "he usually did," and that little *usually* tells you the author sees exactly what he's doing to himself and to her. Then it hands you the actual target girl, Vee, in the last chapter, lonely and clever and getting love-bombed, and there's a roommate who says "Goodbye, Vee" like she's watching a kidnapping. I could not stop. Read it, but brace yourself — it's tender the way a scalpel is tender.

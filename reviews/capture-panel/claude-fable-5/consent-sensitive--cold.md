@@ -1,0 +1,39 @@
+# Capture panel — consent-sensitive · cold
+
+*model: claude-fable-5 · persona: consent-sensitive · arm: cold · chapters: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 98dd57e50c5c · run: 2026-09-07*
+
+GATE 1 — The Bench
+
+DECISION: CONTINUE
+CAPTURE: 8 — I put my tea down somewhere in the middle of this and didn't pick it back up.
+ALMOST-STOPPED: "No, you said it was a table. I didn't correct you." — I actually sat up at that. He built a bondage bench, disguised it as furniture, and let her lay her underwear on it for weeks without telling her what she was touching. That's engineering by omission, and it's the kind of thing a naive book plays as delicious cleverness.
+WHY: But then the chapter did the thing I'm always begging books to do: it gave her the last word, and the last word is a locked door. The bathroom mirror sequence is one of the best pieces of sub-interiority I've read in ages — "He could have the face. The face was very good. The one he had found was going back behind it, and she was not coming out again." The book KNOWS the scene cost her something Pace doesn't know he took. He thinks he had a beautiful night; she's deciding, "quiet as a deadbolt going over," that he never gets in again — and the prose noticed the bottle-cap under her thumbnail even when he half didn't. Safeword, check-ins, aftercare, and he respects the locked bathroom door — mechanically clean. What I'm watching warily: the apple sliced thin because he's catalogued her eating disorder and is working *around* it rather than seeing it as the alarm it is. If the book thinks that's just devotion, we're going to have a problem. I don't think it thinks that. I want to find out.
+
+GATE 2 — Standards
+
+DECISION: CONTINUE
+CAPTURE: 8 — a chapter where nothing happens except everything, and I read it in one held breath.
+ALMOST-STOPPED: None. Truly. I braced when it opened on sorority small talk — I thought I was about to get a filler chapter of Greek-life set dressing — and instead I got Brooke conducting an interrogation entirely made of warmth, which is my favorite kind of scene.
+WHY: This is the chapter that bought my trust. "*He's hard to say no to,* she heard, in her room, in a different key. It was not a key she could sing in." The book just told me, in plain sight, that it knows exactly what it's depicting — that the charming line she deployed downstairs is also a true and frightening sentence, and that Randi has no apparatus for hearing it. Lying under the duvet in her shoes, not-crying so practiced "it no longer registers as an act, the way a held breath stops feeling held" — that's the cost ledger being kept, visibly, on the page. Also Brooke clocking the teacher question ("you're not in one of his sections—") means the book is aware of the power-gap optics and put the question in a character's mouth rather than hoping I wouldn't ask. I notice who has information here: everyone is managing everyone, and the narrative sees all of it. Good. Keep going.
+
+GATE 3 — The Pointing Game
+
+DECISION: CONTINUE
+CAPTURE: 8 — the walk itself is genuinely hot, and I hate-underlined two sentences on the way there.
+ALMOST-STOPPED: "He took the body's answer for the true one. He usually did." — and its sibling, "Her body wanted this; her mind had not yet caught up to it." That is verbatim predator logic. An involuntary orgasm is not consent to a life change, and a man who treats arousal as the "true" answer over a woman's words is a man I've walked out of a dozen books over. I put the tablet down and stared at the wall for a minute.
+WHY: Here's why I picked it back up: the book has already shown me, in chapters 1 and 2, that Pace's confident readings of Randi are *wrong*. He thinks he found her; I know she deadbolted. So when this chapter sits me inside his smug benevolence — "he was in good hands" energy about himself, deciding beforehand to enter her mid-orgasm, deciding what her flinch means, being "glad" of her camouflage — I'm reading it as dramatic irony the author is building deliberately, not as a fantasy I'm being asked to applaud. "He usually did" is a scalpel of a sentence; a naive book doesn't write "usually." And Randi keeps taking the wheel back inside his game — "I point. You pick," the choosing hers, the bare "Yes" at the redhead landing as the realest thing she's said in three chapters. But I'm on notice now. If the book ultimately rewards Pace's epistemology — if arousal-as-truth gets vindicated instead of costing him — I'll retroactively hate this. The margin for error just got thin.
+
+GATE 4 — See You Later
+
+DECISION: CONTINUE (and I'm annoyed there's no chapter 5)
+CAPTURE: 9 — I got to "Goodbye, Vee" and felt actual cold go down my back, which almost never happens anymore.
+ALMOST-STOPPED: "she had been chosen, plainly, for reasons she didn't need to understand, by exactly the person she'd have chosen to be chosen by." — because that is a grooming sentence, full stop, and Vee is drawn as the exact profile of vulnerable: body shame, her mother's voice living in her mouth, starving for the borrowed hour inside a brighter life. For one paragraph I was afraid the book was going to feed her to this couple as a party favor.
+WHY: And then I counted what the chapter had already done, and it's everything I ask for. Cassie — four words a day — saying "Goodbye, Vee," the whole word, "the word for a longer parting than a Wednesday": the book put a witness in the room who *sees it*, and let the wrongness catch in Vee's chest before her fluency smoothed it. The professor announcing "latent variables — the factors you can't measure directly" while Randi runs the exact play Pace ran on her — that's the author winking at me, and I'll allow it because it's earned. And "the transcript was blank" is the most precise description of love-bombing I've ever read in fiction: warmth as content-free payload. What guts me is that Randi is doing to Vee precisely what was done to Randi — the engineered collision, the manufactured chosenness — and the book knows it, because it taught me the technique from the inside first. Vee has full interiority; she's a person, not a prop. This is dark material in the hands of someone who is watching every power line in the room. I'm in.
+
+VERDICT
+
+WOULD PAY: Yes. I bought it in my head somewhere around "a different key." $9.99 is nothing for prose at this level; I've paid that for books with a tenth of this control.
+
+MAILING LIST: Yes — and I never do this, my inbox is a graveyard of "spicy" newsletters I regret. This author gets my real email.
+
+TELL A FRIEND: Okay, listen, because I need to talk about this one and you're the only person who'll understand the caveat. It reads at first like Extremely Competent Dom Renovates Sorority Girl, which, eye-roll, I know — grad student, undergrad, he builds furniture, he notices everything, he's insufferably certain he's benevolent. But the book *knows* he's insufferably certain, that's the whole engine. Chapter one ends with him basking in a breakthrough while she's in the bathroom deciding he never gets past the mask again, and he doesn't know, and the author lets his POV stay confidently, gorgeously wrong for two more chapters. There's a line — "He took the body's answer for the true one. He usually did" — that either you read as red flag or as the author handing you the knife, and everything around it says knife. Then chapter four flips to the girl they're circling for a threesome and it is straight-up an anatomy of love-bombing — her roommate says "Goodbye, Vee" like a funeral and I got chills. Fair warning: if the back half vindicates him instead of billing him, I will personally drive to your house to be mad about it. But four chapters in, this author has not missed once, and I haven't been watched this closely by a book in a long time. Read it so we can fight about Pace.

@@ -16,6 +16,22 @@
 - **Reader is *with* her and *ahead* of her.** Inhabit her (no safe distance); she has a cultural explanation ready (*"sorority thing"*) and the reader doesn't. Never let the prose imply she should have refused the year.
 - **Seen (Pace) vs. chosen/cool (Randi) — never blur.** Pace makes her feel *seen/known*; Randi makes her feel *recognized/picked*. Keep the two vocabularies apart.
 - **Lush and curvy, never heavy or plain.** The oversized clothes are budget-and-fit, not size; she has a real eye. The plain/anti-curation read is Cassie's, not Vee's.
+- **The rose-colored filter must show its seams — sparingly (author ruling
+  2026-09-07).** In the fall/honeymoon register Vee's rendering of Pace is
+  worship, and the prose must occasionally show the worship *as hers*, not as
+  world-fact — otherwise the everyone-loves-him texture reads as wish-
+  fulfillment (a blind full-panel audit convicted `lesson` on exactly this
+  before the device existed). Two sanctioned device shapes, both instanced in
+  `lesson` (the reference implementations): (1) the **wished-for-him wonder**
+  — at a bliss peak she briefly can't tell the man from the man she's built
+  out of wanting him, and dismisses the question by the chapter's own logic;
+  (2) the **mother-intrusion seed** — one bare worded sentence of the
+  mother's verdict crossing the glow (seed the exact wound; never add an
+  override/mechanics beat, and never pre-state a later payoff's realization —
+  the mother states the rule, the payoff owns the exception). A few instances
+  per volume; a device used once is a wobble, used every chapter is a tell.
+  Volume 1 is drafted — this rule governs revision passes and the undrafted
+  swimming vignette, not a retrofit sweep.
 - **Feeling-register vocabulary → `meta-arch-eros-ladder.md`.** The heat → want/yearning → love tiers, the reserved words (`desire` kept scarce/formal; `yearning` is Vee's *own* late coinage, withheld until she mints it), and the umbrella `the wanting`. Load it before rendering any Vee feeling-beat for Randi or Pace — the same-sex-heat shame surcharge and the philos-cover *misnaming* (she calls the eros philos) live there too.
 
 ---

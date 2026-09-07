@@ -19,6 +19,22 @@ exposes ~10% regardless — through roughly chapter 4).
   blurb-promise and page fuse and the one-more-chapter compulsion ignites.
   Free-through-the-hook beats free-N-chapters; the conversion asset is
   accumulation, so generosity up front is cheap.
+- **Cold postings must carry framing that does the jacket's permission-work
+  (capture-panel finding, 2026-09-07 — `reviews/capture-panel/SPEC.md`).** A
+  64-read simulated panel (4 target/control personas × 8 models, chapters 1–4,
+  jacket vs cold arms) found the target cohorts near-perfect **with** the
+  jacket (romance-graduate 8/8 both arms; FSoG-refugee 8/8 jacket) — but the
+  **FSoG-refugee cohort lost 2/8 in the cold arm**, exiting at chs 3–4 on the
+  premise itself ("the consent here is being *managed*"; "the third person's
+  consent is this far behind the couple's desire"). The jacket's
+  complicated-love-not-a-con pre-framing is what licenses the dramatic irony
+  for exactly the consent-seeking crossover reader. **Ruling: any no-jacket
+  venue (Literotica et al.) gets an author's-note / story-description that
+  performs that framing** — draft it when the posting copy is written; it is
+  part of the funnel, not optional flavor. (Same panel: the ch-2 {{Standards}}
+  capture dip is universal but cost zero target readers — monitor in the human
+  test round, don't fix; and the pointing-game trust hinge is the "He usually
+  did" line — protect it in any future edit.)
 
 ## Platform map — free archives (discovery via serialization)
 
