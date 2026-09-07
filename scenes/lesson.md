@@ -130,6 +130,8 @@ One of them kept a hand on his arm and tipped her head at Vee. "Did he tell you 
 
 It was more women than men, and they hugged him longer, with more of themselves, and he took it the way he took everything — unhurried, even, no more for one than for another — and moved them gently along. By the time they had a table she had a count going she hadn't meant to start.
 
+Her mother arrived on the tail of it, flat as ever: *a man like that has girls, and you'd be one of them.*
+
 "You taught the class?" she said.
 
 "Two semesters." He pulled out a chair for her. "Beginner country, a little swing."
@@ -141,6 +143,8 @@ For one song she was good, and the goodness still surprised her — not that she
 *Don't think,* she told herself. *Just feel the lead.*
 
 She gave the frame her weight. And the floor came back to her — his hand at her back, even and exact, the turn arriving ahead of anything she'd decided. The frame she'd fought on the pad as too close, too fixed, too much rule, was the thing doing it now: it held her in the one place the next step could come from, so there was nothing to do but take it. She stopped counting. Couples moved around them and she didn't touch one.
+
+It was so good she went looking for the bill of it — quick, under the music, gone almost before she'd let herself think it: how much of this was Pace, and how much was the Pace she'd been building out of wanting him, wish laid over man so neatly she couldn't find the join. He turned her, and the question went where the count had gone, and the floor took it.
 
 Once she stopped bracing she could feel the room again, and the room was partly watching them. Women, mostly — that particular awareness of other women tracking a couple on the floor.
 

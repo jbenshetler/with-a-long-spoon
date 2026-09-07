@@ -195,6 +195,34 @@ lips` trim (the-bench:201) stands for now, but decide it knowing a genital
 color pair may exist too (Vee's "lower lips pale then flushing dark,"
 `meta-note-grace.md:31`).
 
+**Watch-list follow-up (2026-09-07, post-walkthrough):** `practice-room:89`
+APPLIED — the one non-design Fable tell (camera-pivot to display at the arousal
+beat) recast as felt uncertainty (author pick a): "…with no way to know how
+much the cloth was telling — telling anyone, telling Randi —" (also cleared
+the sentence's "the way" tic). Fable's other practice-room items ruled design
+(Randi's porn-generic register is canon per the chronology entry;
+wetness-as-evidence is the scene's engine). `lesson`'s structural finding
+(chorus-of-praise reads as world-truth) reframed by the author as a **craft
+gap: Vee's rose-colored in-love POV isn't marked as a filter** — addressed
+same date with two additions: (1) dance-floor introspection at the bliss peak
+("how much of this was Pace, and how much was the Pace she'd been building out
+of wanting him… the question went where the count had gone" — the wished-for
+question dismissed by the chapter's own don't-think-just-feel-the-lead lesson;
+echoes the `may-i-choose:77` bill-come-due idiom, ch 8 → ch 26 re-arming); (2)
+mother's-voice intrusion after the count beat — **final form (author ruling,
+after two iterations):** one bare sentence, worded, no override beat: "Her
+mother arrived on the tail of it, flat as ever: *a man like that has girls,
+and you'd be one of them.*" Rationale: seeds the exact wound (fight
+motivated; blonde presses a named bruise — house move), doesn't overstay
+(the "set it down" override and return-mechanics were the overstay), and
+does NOT front-run the payoff — the mother states the *rule*; the fight's
+charge is the *exception* ("She'd let herself feel like an exception"), her
+self-deception, which stays undisclosed. Hard cut to "You taught the class?"
+reads as reflex reassurance-seeking. Walk-out (#3) deliberately left
+flat-rendered.
+**Open: whether the visible-filter device becomes a fall-register console rule
+in `meta-craft-vivienne.md`** (a device used once reads as a wobble).
+
 On author rulings: stage all approved edits in one pass; run
 `tools/novel-assistant/na.py style` over the touched scenes (acceptance
 re-arms on edit — expect re-flags); update the relevant `meta-triage-*.md`

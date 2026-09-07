@@ -86,7 +86,7 @@ Randi didn't say anything for a moment. When Vee made herself look up, Randi was
 
 "I bet he did," Randi said softly. That was all.
 
-And under the thin jersey of her top Vee felt her own body answer the memory the way it had answered the thing itself, her nipples drawing up tight and sudden to the point of aching, standing where anyone could see, where Randi could see, and she crossed her arms over herself in a motion she tried to make look like settling, like being a little cold, and couldn't for her life have said whether it worked.
+And under the thin jersey of her top Vee felt her own body answer the memory as it had answered the thing itself, her nipples drawing up tight and sudden to the point of aching, with no way to know how much the cloth was telling — telling anyone, telling Randi — and she crossed her arms over herself in a motion she tried to make look like settling, like being a little cold, and couldn't for her life have said whether it worked.
 
 "Randi." Her voice sounded far off. "Have you ever—"
 
