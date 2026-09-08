@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch024 · claude-opus-4-8 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+
+REACTION
+
+Oh. Oh, this is the one I've been circling for twenty-three chapters. The room with the door shut. I finally got in.
+
+And here's the thing that's got me sitting up at 1 a.m.: the book handed me exactly what I demanded of it and it cost me something to get it. I kept saying I wanted proof the AUTHOR sees the predation, not just stages it — and this whole chapter is the two of them, naked and spent, *running the debrief on Vee's body between them like it's foreplay*. "She was so embarrassed. That was kind of hot." Randi says it flat, post-coital, fond. The yeti walk, the older couple, Vee going red and wanting the floor to take her — I *watched* that scene from inside Vee last chapter as friendship, as the funniest woman in Virginia, and now I'm watching Randi replay it to Pace as an arousal report. Same numbers. Nobody touched one of them. The Simpson's paradox lecture two chapters back was the book flagging its own hand: put the two years together and the story reverses. This is the reversal. I flinched and the book meant me to flinch.
+
+What actually scares me — and I mean scares, not just chills — is Pace here. Because he's *good*, and the book won't let me write him off as a leering handler. "Somebody taught her to be ashamed of her body." "And she has no idea she does it... she's the most alive person standing there." He sees her. He's not lying about seeing her. That's the horror the jacket kept promising — the seeing is real, and it's the instrument. And then: "I want her to get there on her own." Randi wants to accelerate; Pace pumps the brakes, and I know from twenty chapters of watching him that "on her own" is the whole engine — the withhold, the door left shut, choosing made to feel like her idea. He just said the quiet part *to his co-conspirator* and it still sounded like patience, like tenderness. That's the merciless thing.
+
+But the crack. God, the crack. "You know what she does to a room... the whole thing goes brighter. Like somebody found the lamp." And Randi goes still — "a different one, the kind that takes holding" — and can't answer for a beat too long, and finally, tight, "Yeah. She is." I have been tracking Randi's jealousy leaking since the thumb on the glass rim, and here it is turning a corner I didn't fully expect: it's not just that she's jealous of Pace having Vee. It's that Randi is falling too, and hates hearing him love-struck about the girl, and *also* wants the girl herself — "It's criminal, Pace" — dragging her own body down his chest to illustrate. The jacket said it'd get as true for the two who started it, and this is the first place I felt the game genuinely slip its leash for *Randi*. She metabolizes it instantly — shifts her hips, finds him hard, "So soon?" — turns the wound back into sex before it can be a feeling. She's doing to herself what she does to Vee. That's the most human and most frightening she's been.
+
+What I'm sitting with, uneasy: this chapter is the least-defended Vee has to be treated as an object, because she's not in the room. She's a topic. "It's a little pathetic. I love it." And the only thing keeping this from tipping me over into leaving is that the framing *knows*. Nobody's asking me to cheer. It's laid out cold — Sade under the door, the blue toenail polish as "the last composed thing left of her," the two of them assembling Vee out of stolen intimacies. The book is not naive here. It's the opposite of naive. It's almost unbearably awake.
+
+I'd text my friend: THE DOOR OPENED. they're in bed talking about her like a project and it's the most terrifying tender thing I've read all year and Randi is CRACKING and I cannot stop.
+
+GATE 24 — Gone
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: "She was so embarrassed. That was kind of hot." — the yeti scene I'd lived from inside Vee as pure friendship, played back as an arousal report between her two architects. For one second it was so cold I wanted out.
+WHY: But that cold is the point, and the book knows it's cold — it didn't ask me to enjoy it, it made me sick on purpose, and then it cracked Randi open right in front of me. This is the room the whole book was withholding, and it delivered exactly the awareness I stay for.

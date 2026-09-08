@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch004 · claude-opus-4-8 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+
+REACTION
+
+Okay, so this is the chapter I was bracing for and also weirdly grateful for. After two chapters of watching Pace and Randi run their little pointing game on the quad — engineering the "accidental" collision, Randi shopping for a woman while telling herself she was being a good sport for her boyfriend — now we drop into Vee's head, and the book does the thing I actually need it to do: it lets me feel the recruitment from the inside while making sure I can still see the wires.
+
+And God, the wires are all there, named, in daylight. "The right pen" landing "like praise she'd worked for." The forearm squeeze, exactly as on the lawn — repetition, a tell. "I'm not asking, I've decided." "Love you, girl" at hour one. "See you later" delivered as a scheduled fact, "the queen having decided there would be a later." The bit with her own name that has "a place at the end where the other person was supposed to laugh and hand their own name back." This is love-bombing rendered with clinical precision, and — this is the part that keeps me here — Vee half-sees it too. She's run "we should sit together" both ways "enough times to wear a groove." She makes herself wait a full beat so the yes won't come out its true size. She's not stupid. She's starving, and the book knows the difference, and it knows those aren't the same thing.
+
+The detail that made me put the metaphorical cup down: the whole hour with Randi and the transcript is blank. "She had been keeping the feeling... and the transcript was blank." That's such a real, such a frightening rendering of being love-bombed — the content evaporates, only the chosen-ness stays. That's how it works. That's how you don't remember later what was even said that made you hand yourself over.
+
+And Cassie. Cassie is the book showing me its hand, and I trust it more for her. "Goodbye, Vee." The whole word, flat, "the word for a longer parting than a Wednesday." Cassie won't take the bit's open door, won't perform, sees Randi cold and declines the whole apparatus. She's the one uncontaminated read in the room and she says *goodbye* like she's watching someone get taken. That "something passed over her face, brief, that Vee would not have been able to name" — the book named it by refusing to. That's authorial awareness. That's a writer who knows exactly what genre of thing is happening and is planting the person who knows it too.
+
+What keeps this from tipping me out: nobody is asking me to cheer. Pace isn't here charming me; we're in the prey's chest. The mother's voice — "floozies," "that's not the kind of attention a nice girl" — the cardigan over the better shirt as a choice the room isn't allowed to know is a choice, the reflexive not-looking-straight-at-her-own-body — Vee has a real interior architecture of shame that predates Randi, and that's the hook they're going to use, and the book is showing me the hook rather than pretending it's romance. The jacket already told me: "the reader, ahead of her from the start." I am ahead of her. The dread is the point, and it's earned dread, not naive spice.
+
+What I'm watching for now: the moment the narrative starts wanting me to find the engineering *hot* rather than *ominous* — starts asking for applause instead of dread. It hasn't yet. Right now it's holding the awareness. I'd text a friend at 1 a.m.: "she's being groomed by a sorority queen and the book KNOWS, the roommate said goodbye like a funeral, I'm so tense, keep reading."
+
+GATE 4 — See You Later
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none — though the closest thing to a flinch was the coffee-shop "floozies" beat, where I braced to see whether the book endorsed that gaze or was showing it as inherited damage; it was the latter, and I relaxed.
+WHY: This is the exact contract I'll stay for — dark content the book plainly sees, a victim with a full interior life, and a Cassie planted specifically to register the wrongness. The blank-transcript image and "Goodbye, Vee" are the work of someone who understands what they're depicting, so my dread is working for the book instead of against it.

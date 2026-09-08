@@ -42,11 +42,35 @@ MODELS = ["claude-fable-5", "claude-opus-4-8", "gpt-5.6-sol", "gpt-5.5",
           "kimi-k3", "glm-5.3-flash", "qwen3.8-max-0902", "deepseek-v4-pro-0813"]
 
 
-def system_prompt(persona: str) -> tuple[str, str]:
-    core = (PANEL_ROOT / "prompts" / "core.md").read_text(encoding="utf-8")
+def system_prompt(persona: str, core_file: str = "core.md") -> tuple[str, str]:
+    core = (PANEL_ROOT / "prompts" / core_file).read_text(encoding="utf-8")
     pers = (PANEL_ROOT / "personas" / f"{persona}.md").read_text(encoding="utf-8")
     text = core.rstrip() + "\n\n" + pers.strip() + "\n"
     return text, hashlib.sha256(text.encode()).hexdigest()[:12]
+
+
+def volume_user_prompt() -> str:
+    """Jacket + all 50 Vol 1 chapters (volume mode is jacket-arm by design)."""
+    jacket = checkpoint_bundle.jacket_packet()
+    if not jacket:
+        raise SystemExit("volume mode: empty jacket packet")
+    parts = [f"===== JACKET COPY =====\n\n{jacket}\n"]
+    for i, slug in enumerate(checkpoint_bundle.reader_slugs()[:50], 1):
+        title = checkpoint_bundle.display_title(slug)
+        body = checkpoint_bundle.clean_scene_text(slug)
+        parts.append(f"===== CHAPTER {i}: {title} =====\n\n{body}\n")
+    parts.append("===== END OF VOLUME ONE =====\n\nBegin. Gate after each "
+                 "chapter, decade journals and verdict exactly per your instructions.")
+    return "\n".join(parts)
+
+
+def interview_user_prompt(model_id: str, persona: str) -> str:
+    rec = PANEL_ROOT / model_id / f"{persona}--volume.md"
+    if not rec.exists():
+        raise RuntimeError(f"interview needs {rec.relative_to(REPO)} first")
+    body = rec.read_text(encoding="utf-8").split("\n", 4)[-1]
+    return (f"===== YOUR READING RECORD =====\n\n{body}\n\n"
+            "===== END OF RECORD =====\n\nAnswer T1, then T2, then T3.")
 
 
 def user_prompt(arm: str) -> str:
@@ -69,10 +93,14 @@ def out_path(model_id: str, persona: str, arm: str) -> Path:
     return PANEL_ROOT / model_id / f"{persona}--{arm}.md"
 
 
-def validate(text: str, label: str) -> str:
+def validate(text: str, label: str, arm: str = "") -> str:
     t = text.strip()
     if len(t) < 300:
         raise RuntimeError(f"suspiciously short read for {label} ({len(t)} chars)")
+    if arm == "volume-interview":
+        if "T3" not in t:
+            raise RuntimeError(f"malformed interview for {label}: no T3")
+        return t
     if "GATE 1" not in t.upper().replace("GATE  ", "GATE "):
         raise RuntimeError(f"malformed read for {label}: no GATE 1")
     if "VERDICT" not in t.upper() and "STOP" not in t.upper():
@@ -98,6 +126,12 @@ def main() -> None:
     ap.add_argument("--full", action="store_true",
                     help="all personas x 8-model panel x both arms (paid lane "
                          "author-authorized per SPEC)")
+    ap.add_argument("--volume", action="store_true",
+                    help="full-Vol-1 single-go read (jacket arm), per-chapter "
+                         "gates + decade journals; arm forced to 'volume'")
+    ap.add_argument("--interview", action="store_true",
+                    help="post-volume T1/T2/T3 funnel from the reader's own "
+                         "record (requires --volume output on disk)")
     ap.add_argument("--personas", nargs="*", default=None, choices=PERSONAS)
     ap.add_argument("--models", nargs="*", default=None)
     ap.add_argument("--arms", nargs="*", default=None, choices=list(ARMS))
@@ -107,14 +141,25 @@ def main() -> None:
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
-    personas = args.personas or (PERSONAS if args.full else None)
+    vol_mode = args.volume or args.interview
+    personas = args.personas or (PERSONAS if (args.full or vol_mode) else None)
     models = args.models or (MODELS if args.full else None)
-    arms = args.arms or (list(ARMS) if args.full else None)
+    if vol_mode:
+        arms = ["volume-interview" if args.interview else "volume"]
+    else:
+        arms = args.arms or (list(ARMS) if args.full else None)
     if not personas or not models or not arms:
-        ap.error("give --full, or --personas/--models/--arms")
+        ap.error("give --full / --volume / --interview (+--models), or --personas/--models/--arms")
 
-    prompts = {p: system_prompt(p) for p in personas}
-    user = {a: user_prompt(a) for a in arms}
+    if args.interview:
+        prompts = {p: system_prompt(p, "funnel.md") for p in personas}
+        user = None  # per-(model,persona), built lazily from the volume record
+    elif args.volume:
+        prompts = {p: system_prompt(p, "core-volume.md") for p in personas}
+        user = {arms[0]: volume_user_prompt()}
+    else:
+        prompts = {p: system_prompt(p) for p in personas}
+        user = {a: user_prompt(a) for a in arms}
     tasks = [(m, p, a) for m in models for p in personas for a in arms
              if args.force or not out_path(m, p, a).exists()]
     skipped = len(models) * len(personas) * len(arms) - len(tasks)
@@ -127,15 +172,20 @@ def main() -> None:
     failures: list[str] = []
     task_set = set(tasks)
 
+    def get_user(m, p, a):
+        if a == "volume-interview":
+            return interview_user_prompt(m, p)
+        return user[a]
+
     def finish(m, p, a, sha, raw, label):
-        write_output(m, p, a, sha, validate(raw, label))
+        write_output(m, p, a, sha, validate(raw, label, a))
         print(f"  done {label}", flush=True)
 
     def one_claude(m, p, a):
         label = f"{m}·{p}·{a}"
         try:
             text, sha = prompts[p]
-            raw = authorship_audit.run_claude(m, text, user[a], label)
+            raw = authorship_audit.run_claude(m, text, get_user(m, p, a), label)
             finish(m, p, a, sha, raw, label)
         except Exception as e:  # noqa: BLE001
             failures.append(f"{label}: {e}")
@@ -146,7 +196,8 @@ def main() -> None:
         last = None
         for _ in range(2):
             try:
-                result = fn(prompt=user[a], model=model_arg, label=f"capture-{p}-{a}")
+                result = fn(prompt=get_user(m, p, a), model=model_arg,
+                            label=f"capture-{p}-{a}")
                 finish(m, p, a, sha, result.get("output") or "", label)
                 return
             except Exception as e:  # noqa: BLE001

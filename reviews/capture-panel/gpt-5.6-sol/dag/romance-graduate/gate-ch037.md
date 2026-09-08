@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch037 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+
+REACTION — Oh, finally. The book kept marching me beautifully to the bedroom and then shutting the door in my face, and this time it let me stay. Three times, soreness, sweat, the easy fullness of him, her hand closing around him afterward—thank you. This is the combination I bought the book for: explicit without becoming a diagram, tender without laundering the sex into tasteful implication. “With Pace she was a girl who had a body, not a body that happened to have a girl attached to it” is exactly why their heat works for me. He wants her body ferociously while continuing to experience the person inside it.
+
+And yet: *He’s all mine.* Baby, no. The dramatic irony nearly made me put my head on the table. She gives him a nude because he promises never to “share” her photograph, while he is already sharing the living, breathing reality of her with Randi in every way Vee does not know to ask about. I believe completely that he will guard that image. I also believe he answered the narrowest possible version of the promise, and that is becoming the moral signature of this whole arrangement. Vee asks the question available to her; Pace gives a sincere answer inside boundaries he helped keep invisible.
+
+The photograph got under my skin because her consent is so active and so complicated. She proposes it. She prepares herself. He lets her approve the image. She sends it herself. Nothing about that moment is coerced, and it is intensely hot that he composes her with his hands and then hands her back a version of herself she can call beautiful. But even her self-recognition now depends partly on being seen through his eyes: the picture becomes beautiful because it is “her as his eyes had her.” I love what his gaze frees in her, and I’m frightened by how thoroughly it is becoming the instrument through which she knows she exists.
+
+The domestic tenderness remains almost obscenely effective on me. Water before wine. Feeding her while exhausted. Holding hands against the counter in silence. Watching for the first bite because her pleasure is part of his pleasure. This is grown-up intimacy rendered through attention rather than speeches, and yes, I understand why she thinks all the unspoken love is enough. But chapter 35 already showed us the cost of his never saying things: she had to panic over the missing scrunchies before discovering the drawer. Here that silence turns darker. “This is my home” warmed me for one second, and then “I don’t go back” shut the entire house down. She recognizes the closed door and respects it, which is loving—but they are building something enormous out of all the truths he demonstrates and none of the truths he names.
+
+And Sheri at Thanksgiving made my stomach tighten. Not because Pace is doing anything wrong by feeding a lonely friend; that is exactly the decent man Vee already punished once for being decent. What bothered me is how quickly Vee’s jealousy flared and how quickly she dismissed it without examining why another woman apparently belongs at his family table. Sheri knows Randi. Sheri knows Vee. Vee still does not know the shape of the relationships surrounding her. Everyone else has more of the map.
+
+I’m very in now. The sex finally paid off at full volume, but the line that will keep me awake is still that soft, triumphant *He’s all mine.* She has never been less correct, and I hate how much I want to watch the truth reach her.
+
+GATE 37 — In His Hands  
+DECISION: CONTINUE  
+CAPTURE: 9  
+ALMOST-STOPPED: none  
+WHY: This finally delivered the explicit, emotionally saturated sex the jacket promised, and the nude-photo promise sharpened the hidden betrayal without diminishing Vee’s genuine agency. I’m dreading the collision between “He’s all mine” and what everyone but her knows, which means there is no chance I’m stopping here.

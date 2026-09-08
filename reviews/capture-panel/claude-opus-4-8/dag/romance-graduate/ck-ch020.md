@@ -1,0 +1,39 @@
+*capture-dag-v2-rich · carry-forward ck-ch020 · claude-opus-4-8 · romance-graduate · prompt-sha db93395517a5 · 2026-09-07*
+
+WHO'S WHO
+
+Randi — the architect I met on the bench, the one who "shops" for the girl. Black hair bound at the nape, blue eyes, the plain heavy white-gold band at her wrist she's never once without. Drives a dark green Mercedes with the top down, orders without reading the right side of the menu, eats nothing, spends herself down to bone. At lunch she's the extraction machine — runs Vee like an interrogation dressed as love: hands her the ordinariness ("nobody measures over a bra, it's just how it's done") so the shame drops and the secret comes out, then lifts it out one small "yeah" at a time. "You're not caught, sweetheart. You're lucky." And she's kissing Vee on the mouth now at the curb — soft, a drawing-back and then a second press with more in it. She's cracking on her own machine: the tight muscle behind the smile when Vee says "he looked at me and I was fine," the thumb working the water glass. She's jealous of Vee's fineness, the thing she decided at thirteen she'd never get. The scarf/tickle story — helpless, tied up, "best thing all month" — is a lie shaped like an invitation and maybe the only confession she can make. "You don't have to tell me," said soft at the peak — the one time she chose NOT to take.
+
+Pace — the mathematician, powerlifter, out past the gravel off six-fourteen. Builds furniture with joints you can't find the seam of, built the bench, MADE the shirt (no tag), makes the dress. Licenses an MRI patent — finds the real signal buried in noise in fewer passes. That's HIM: finds the faint true wanting under the shame-noise and pulls it out. Courtly, "may I," asks-before-he-takes, gives the pencil back at the exact line. Rations her — he's the one who stops the kiss now, which no boy ever did. "Would you be bothered if I was too hard?" — weaponized consent, his own arousal made a gift he asks to give. A scar high on the inside of his thigh, noted, unexplained (Daphne? the door he opened once?). Cracked at the fitting — went red, fought the grin, "keep still" a beat too late.
+
+Vee — the mark, radiant, all the way in. Reads the right side of every menu, feels the debit card on Thursday, tips well so she's not the broke girl. Thinks every gift is proof of her own agency. Her mother's voice — floozie — lives in her mouth and now runs on the same wire as the heat, no seam.
+
+Cassie — the honest one, my tripwire. Bench-cleared him ("no windowless van," "borrow real boots") and went soft. Vee edits the middle out for her now, keeps her clothes ON to keep the secret. Being lost, quietly, and building the last mile of the distance herself.
+
+Meg & Kayla — dining-hall swoon-chorus. Meg calm (whose boots wrecked Vee's heel), Kayla the curls. New intake, replacing Cassie. Brooke, the sisters — offstage.
+
+WHERE THINGS STAND
+
+The hike (11): boots wrong, he fixes the blister on the trail, apologizes, "should've done that at the lot." Summit lake. Rye-and-horseradish, cherries, take-nothing-leave-nothing. She names the russet magazine dress she's given up on. Rain on the way down — his one dry shirt, he gets out into the cold, back turned; she raps the glass, calls him in, strips for him keeping his eyes, he doesn't touch, his hand's shaking. Cop's siren eats her goodbye. Then debriefs: Cassie (12), then Meg/Kayla (13), then the Saturday invite — "would you come to my house Saturday. Two o'clock." His house (14): the too-warm house, the shut bedroom door he won't open, the burgundy silk matched to HER not the magazine, the shirt reveal, offers to build the dress — measure her "down to what you'd wear under it." The fitting (15): the riser, "the bra too, it'll lie to me," the wet spot on the chosen satin, him kneeling with his face craned UP the whole time never looking down, she opens her eyes to his smile and her spine unstoops. First time (18): "famished," she asks for his bedroom, he goes down on her standing, she burns through the shame instead of it closing her, they sleep together, "trade" — she folds the green panties spot-centered and hands them over. Morning after (19): couldn't pack a bag, keeps her clothes on in front of Cassie. Two Randi lunches (17, 20) bracketing it — the machine running from Vee's blind side.
+
+HOW I FEEL ABOUT EACH
+
+Randi — can't only hate her because I saw the mirror. She's the villain and the wound and she's bleeding on her own con. The kiss on the mouth is the most alive wire in the book right now — more than Pace. She's teaching Vee the exact surrender she can't survive.
+
+Pace — dread-swooning, trust holding BECAUSE the narration still knows more than his gladness does. The riser-as-engineering, the pre-heated house thought of hours ahead, the dress conjured from one confession — all narrated as the machine, not as swoon. The minute it collapses into "the dom was right, she just needed to be seen," I'm gone. It hasn't.
+
+Vee — protective, sick, in love with her. Every yes real, none looked at head-on. The toothbrush she didn't bring, the zipper going back up.
+
+Cassie — grief. The one honest instrument, going quiet, and Vee's doing it to her too now.
+
+WHAT I'M CARRYING
+
+"Should've done that at the lot. I'm sorry." The cherry pit laid down beside hers so she's not made small learning. "That sounds like a beautiful dress" — and he DIDN'T pick it up, and then he built it. "Say it more than once so the noise can't kill it" — the con explained as error-correcting code. "The bra too. It'll lie to me." His face craned up, never looking down, waiting for her to open her eyes. "Would you be bothered if I was too hard?" "The shame was still running and she was burning through it" — no seam, same wire. "Trade." Folded in thirds, spot centered. She couldn't pack a bag. The zipper going back up so the last thing off wouldn't be a story she could edit. "Nobody measures over a bra." "You're not caught, sweetheart. You're lucky." "You don't have to tell me" — the door closing soft. The window dropping half an inch to meet the car door. Two fingers to her mouth after the kiss; "it's a French thing." The green scent caught in her hair, there and gone.
+
+WHAT I'M WAITING FOR
+
+Pace and Randi in a room together, ON THE RECORD — I have asked for this in every note for ten chapters and the book keeps giving me the machine's effects, never the seam. Twenty chapters and still nothing. The cost landing on the two who started it — the jacket promised it gets as real for them as for her; Randi's crack is the first sign but I need it to come due. The Randi-heat actually breaking: the tied-up story, the fire-lane kiss, Vee's body answering to her — the woman-wanting the book keeps opening a door on and closing soft. The russet/burgundy dress arriving at the induction. Whether Cassie is the exit Vee won't take or the one who gets hurt. The scar. When Vee learns there was a plan.
+
+WHAT'S FADING
+
+The froyo and early-courtship chapters are gone to one warm smear — I only kept the shape, not scenes. Which sister is which (Sloane/Kinsey/Brooke) — blurred. The exact geography of the pointing-game women, long gone. Meg and Kayla barely register as distinct from each other already and I only just met them — chorus, not people. The specifics of Randi's two fake-date stories (lacrosse boy, then the tickle-scarf, then the nervous ex) are collapsing into "a story she tells to lower the guard before she extracts." The MRI-patent mechanics I can't reproduce, only what it MEANS about him. And honestly the two Randi lunches (17, 20) are starting to overlay each other — same booth, same "there's my girl," same mimosa priced against Thursday, same curbside kiss — which is the point, the cycle repeating, but it means I'm keeping one composite lunch, not two.

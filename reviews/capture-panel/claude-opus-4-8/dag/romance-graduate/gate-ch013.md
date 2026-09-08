@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch013 · claude-opus-4-8 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+
+REACTION
+
+Okay so this is the second debrief in a row, and now I'm counting. Chapter 12 was Cassie, which I'll forgive because Cassie's four-words-a-day thing is load-bearing and "borrow real boots next time / I'm keeping the shirt" actually landed. But chapter 13 is the *same hike, the same shirt, the same siren,* told a third time — and this time to two girls I've never met who exist to gasp on cue. Kayla with the curls that "come around with her," Meg who's "calm." I clocked the nice little pin that it's *Meg's* boots that wrecked Vee's heel, so somebody's paying attention to continuity. But two brand-new named friends dropped in at chapter 13 to function as a swoon-chorus, right when the one honest friend I trust is offstage? That made the back of my neck prickle. Where's Cassie. The whole architecture of this book has been Cassie-as-tripwire, "how much did he give you to drink," "goodbye Vee" — and now Vee's eating in the athletic dorm with the gold windows and the girls who just want *in* on the story. That's the con widening its intake. Vee's social world is quietly being restaffed with people who'll only ever say *stop, no, he didn't, that's insane* in the delighted way, never in the alarmed way. I don't think the book knows I noticed that, or maybe it does. I hope it does.
+
+What I'm annoyed about: no heat. After chapter 11 actually *paid off* — the truck, the buttons, her keeping his eyes, "I want him to see me," his shaking hand against her belly, that was the shame-into-heat the jacket promised and it worked on me — chapter 13 is all retelling. "It's making me lose my mind, is what it is." Girl, same, but I already read it. When a book makes the heroine recount her best scene to an audience, it's spending the scene twice instead of giving me a new one. Meg saying "everybody's different at the start. I said it about Danny. Word for word" — *that's* the one live wire in the chapter, the only moment someone gestures at the trap, and Vee lets it "go by, it didn't catch on anything." Good. That's the gap the whole book lives in. I felt that one.
+
+And no Randi. No Pace on the record. I have been waiting since my notes for the two architects in a room together and instead I got a dining-hall montage. The machine went quiet for two chapters and I can feel myself getting restless.
+
+BUT. The last two pages are a hook and I'm not going to pretend they're not. "Would you come to my house Saturday. Two o'clock." The least information a human has ever sent, no *what for*, no *what to wear*, first time through his door — the door I've been told since chapter one is the whole thing, "it felt like there being no door." Kayla's "two in the afternoon is not dinner, he wants you for the afternoon, bring a change of clothes" is doing the exact work of making me lean forward. That's Saturday. That's where the heat is. The chapter is a throat-clear, but it's a throat-clear pointed straight at the door I've been waiting on.
+
+Text to a friend at 1 a.m.: *why did they bench Cassie and hand the debrief to two randos, I don't trust the new girls, BUT he sent a two-line ransom note inviting her to his house and I need it to be Saturday already.*
+
+GATE 13 — What to Wear
+DECISION: CONTINUE
+CAPTURE: 5
+ALMOST-STOPPED: "It started raining on the way down," she said. "Not raining. Dumping." — the moment I realized I was about to read the shirt scene a *third* time, to strangers, with nothing added.
+WHY: This is the softest chapter since the mid-book sag — two debriefs back to back, no heat, no Randi, and Cassie quietly swapped for a chorus that only knows how to swoon. But the Saturday invitation is a real hook aimed straight at the door the whole book is built on, and after chapter 11 proved this book can pay off, I'll give it the next one to open that door.

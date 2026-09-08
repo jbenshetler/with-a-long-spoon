@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch002 · claude-opus-4-8 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+
+REACTION
+
+Oh, this is doing something to me. I came in braced — a chapter about a sorority house, a girl doing the walk of shame, that could be filler, throat-clearing, and I was ready to be bored. It is not boring. It is the opposite of boring in a way that made my stomach drop.
+
+Because chapter one flipped on me — the whole time I thought the man was doing the seeing, the finding, the taking, and then the last page revealed *she's* the architect, she decided in that bathroom mirror to go back behind the face and never come out. And now chapter two is her out in the world, running the exact machinery she runs on everyone, except I've *seen* underneath it now, so I can't unsee it. That four-minute common-room scene is a knife fight where nobody raises their voice. Brooke not standing up. Brooke "guessing" engineering to knock Pace down a peg and Randi correcting to *math, PhD* — the tiny status war over a man neither of them will name properly. "I kept thinking you'd said Chase." God. The fraction-of-a-second pauses timed like a metronome. I know these women. I have BEEN in that room. The writer clocked the whole social physics of it — who has the authority to stay seated, who laughs above pitch to be let in, whose smile arrives a beat late — and it's *merciless.*
+
+And what wrecks me is that it's the same skill from the bench, inverted. Last night the face cracked and something real begged and came out and she cried without knowing she was crying. This morning the face is fully back online, flawless, deploying, and I'm sitting here going *she's lying to all of them and she's lying so well and she just decided last night to lie to Pace forever too.* The line I keep turning over: "He's hard to say no to," landing perfectly for the girls — and then the same words in her own room "in a different key," a key she can't sing in. That's the whole book in a gesture.
+
+The room upstairs undid me a little. Standing with her hand on the doorknob and not putting it down. Going to the vanity and not sitting, the bed and not sitting. Reaching toward the closet and forgetting what she came for. Running the sink and not putting her hands under the water. Lying down in last night's clothes with her *shoes on* under a duvet that "was a duvet" — that stammer, after a whole chapter one soaked in his cashmere and his oiled walnut and honeycrisp sliced thin, the sudden poverty of everything in her own life. And the not-crying: "it did not feel like holding a door shut. It felt like there being no door." That's the scariest sentence in two chapters. That's not repression, that's someone who's been not-feeling so long the mechanism has gone silent. The held breath that stopped feeling held.
+
+What I'm suspicious of / hungry for: the jacket promised me Vee, and I'm two chapters in and I haven't met her — I've met *Randi*, who I now understand is the co-architect of whatever's coming, the "glamorous new friend" who's going to steer a twenty-one-year-old into Pace's path. So chapter one wasn't the beginning of the seduction, it was the recruiter getting recruited first, or getting broken open first. Randi is the one who found out on that bench that the game is real. That reframe is delicious and a little frightening and I absolutely want to watch it aim itself at Vee.
+
+No heat in this chapter, and normally that's a hair trigger for me — but I don't care, because chapter one delivered the heat AND the interiority, and this chapter is the psychology tightening the screw. I trust it now. I'd text a friend: *this is the mean-girl scene rewritten by someone who actually understands what shame is, and the heroine is the villain and doesn't know it yet, and I cannot stop.*
+
+GATE 2 — Standards
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: A quiet morning-after chapter that could have been filler instead turned into a surgical study of the face she chooses to live behind, and "it felt like there being no door" put a hook in me. No heat here, but chapter one earned my trust and this is the depth I was starving for — I need to see this woman turned loose on Vee.

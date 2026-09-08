@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch027 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+
+REACTION — Oh, this is deliciously alarming. “Because Randi had said so” landed like a trapdoor. Vee comes to her for comfort after making one impulsive, jealous mistake, and Randi doesn’t merely reassure her—she takes custody of the apology. She decides the day, the emotional temperature, the clothes, the neckline, the shoes, even what Vee’s certainty should look like when Pace sees it. And because she does it with warmth, perfect attention, and genuinely useful insight, Vee experiences the surrender of judgment as relief. I do too, a little. That is the problem.
+
+Also, Randi’s advice is suspicious as hell. Waiting a day may actually be sensible, but “don’t go in there sorry” is not. Vee owes Pace an apology, not a seduction engineered to make the hurt disappear beneath how badly he wants her. Randi understands Pace well enough to predict that he won’t text and will leave the choice to Vee—which is yet another reminder that she knows the hidden man Vee thinks she is discovering privately. She is effectively dressing Vee to approach her own boyfriend after sex with him, while Vee stands there thinking this is the most extraordinary female friendship of her life. I am chewing the walls.
+
+And then the shoe fitting. Good God. The book knows exactly what it is doing with kneeling, unseen hands under a long skirt, the brace high on the thigh, the thumb behind the knee, and a structure that “held” without binding. That is not friendship accidentally becoming charged anymore. That is Randi giving Vee a miniature erotic lesson in submission while Vee translates the response into luxury footwear. The parallel with Pace teaching her to dance is almost obscene: stop anticipating, accept the frame, let someone else tell your body where to go, discover that constraint makes you feel steadier. Pace teaches it openly as a dance. Randi installs it invisibly into Vee’s life.
+
+I loved their laughter, though, which makes everything worse in the best way. The Edna Mode bit and the shoe-whore joke feel like actual chemistry, not just manipulation wearing a cute outfit. Randi’s attraction is now flashing through every seam—looking at Vee’s bare feet, rejecting one pair without explanation, touching under the skirt, offering the scarf she already imagined would be “criminal” on her. Then that lingering kiss, received without even the old internal scramble. Vee has normalized kissing Randi before she has admitted wanting to kiss Randi. Her body keeps arriving ahead of her vocabulary.
+
+I’m also stuck on how money and control have fused. Vee just put ruinously expensive shoes on credit because Randi taught her that the dress was “owed” them; now Randi sends her home in another pair that costs more than a semester of books, and Vee can accept them because they are framed as a costume piece, not dependence. Beautiful things keep opening Vee—and quietly placing her in debt, materially or emotionally, to the people directing her awakening.
+
+I absolutely need tomorrow night. I need Pace to insist on hearing the apology beneath the neckline. If he simply lets the outfit solve it, I will be furious with him. And Randi calling herself the possible Evil Queen was so blatant I nearly laughed aloud. Yes, sweetheart. We know. Vee is the only person in the room who doesn’t.
+
+GATE 27 — broken-in  
+DECISION: CONTINUE  
+CAPTURE: 9  
+ALMOST-STOPPED: none  
+WHY: This chapter gave me exactly the combination I’m here for: psychologically dangerous intimacy and touch with real charge. Randi is terrifying me, turning me on, and making me believe she genuinely loves Vee all at once; there is no chance I’m leaving before Vee walks into Pace’s house in those marching orders.

@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch003 · claude-opus-4-8 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+
+REACTION
+
+Okay. So now I know exactly what kind of book I'm in, and it's not the one on the front cover — it's the one hiding in the blurb's last line, and this chapter is where it stops pretending.
+
+The opening bed scene is *good*, that's the awful part. The mouth on her, sliding in while she's still pulsing, the taste of herself on his mouth — it's the heat I actually came here for, a man paying that close attention, reading the difference between a woman performing release and one delivered to it. If this were the whole deal I'd be melting. But then he asks "would you like to taste another woman," her body answers before she can, and he decides — flatly, as a policy — that *the body's answer is the true one.* "He took the body's answer for the true one. He usually did." And there it is. That's the exact thing. That's the sentence I've been fighting with this whole genre. He's built an entire philosophy out of overriding what a woman actually *says* in favor of what he's decided she means. She literally says the seduced-away version — "only in a threesome, with you" — she *moves* the wanting off herself, on purpose, to survive it, and he watches her do it and just... keeps his own reading. Her no isn't a no to him. Her reframe isn't hers to keep. He's already annotated her.
+
+What's messing with me is that the book *knows.* It's not winking at me that this is romance. It's rendering him as a man who genuinely believes his attention is a gift while he's running a con, and it's put me — the reader — up on the ridge with him, watching Randi get shopped down the quad. Because that's what "the pointing game" is: he's not asking what she wants, he's *training* her to hunt, teaching her the choosing is hers so she'll feel like the appetite is hers when it was his all along. "He was not choosing a woman. He was watching her learn that she could." That's genuinely sinister and genuinely well-made and I hated how much I kept reading.
+
+And poor Vee. She comes out of the dining hall with her head thrown all the way back laughing, the one girl on the whole quad who forgot she could be seen — the only *warm, open, unsealed* one — and that's precisely why they pick her. Her aliveness is the thing that marks her as prey. The shoulder-check was choreographed by two people and the redhead apologizes for it. I felt sick and I felt the craft of it at the same time, which is a deeply uncomfortable place to be at whatever o'clock this is.
+
+Here's my problem, and it's real: I read for heat *with real consent*, and this book is the photographic negative of that. Every "yes" is freely given and every one is engineered. But — and this is why my thumb didn't leave the page — it's not lying to me the way the coercion books lie. It's not dressing the con as devotion and asking me to swoon. It's showing me the machinery cold and letting me feel my own pull toward it and be ashamed of it. That's... actually the honest version of the thing that's been quietly disturbing me for years. I don't trust it yet. I want to see whether Vee gets a self, or whether she's just the surface everyone acts on. If she's only meat, I'm gone. But I have to know if the book is going to make me watch a real person get taken apart, or whether it's going to give me *her* from the inside the way the jacket promised. One more, at least. I need to meet Vee awake.
+
+What I'd text a friend at 1 a.m.: "this book is a beautifully written trap and I think it's about how the trap gets built and I cannot tell if I'm being seduced or warned and that might be the point, send help."
+
+GATE 3 — The Pointing Game
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: "He took the body's answer for the true one. He usually did." — that's the whole reason I've walked out of a dozen books, right there on page one of the scene.
+WHY: It handed me the exact thing that repels me — a man who overrules what a woman says — but it did it without winking, as cold predation with me placed ahead of the victim, and that honesty is doing something the coercion books never dared. I'll follow it as far as meeting Vee awake and inside her own head; if she turns out to be nothing but a surface for these two to act on, I'm out.

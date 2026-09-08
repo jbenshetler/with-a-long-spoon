@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+
+REACTION — Oh, Sheri, thank God. “Then not saying it matters more to you than having her” is exactly the sentence somebody needed to put in his lap, without letting him hide behind the meals and the heat and the fact that every loving thing he does is real. He is building his defense “brick on brick” out of acts of devotion, and I believe every brick—but Vee did not ask whether he shows up. She asked him to name what his showing up means. “I can’t” is finally honest, but it frightens me. Not *I don’t*, not *I’m not sure*. *I can’t.* There is a locked room inside that word, and whatever happened with his family is in there.
+
+Being inside Pace’s head made me love him and want to shake him in nearly equal measure. He misses her. He thinks about bringing her to the diner before he has even properly sat down. He wants to hear her whisper there. The air “crackles” when she enters a room; she sees the philosophy beneath what he cooks. This man is completely, helplessly gone on her, and he still cannot hand her the one sentence that would let her know she did not imagine it. Vee is freezing in her childhood bed inventing another woman in his kitchen while he is sitting here blushing because his friend asked about her legs. It hurts because the answer Vee needs exists. He is not withholding an empty promise. He is withholding the truth.
+
+And of course the secret with Randi is sitting right there making every protest worse. “When I’ve got her, there’s nothing else in the room” sounds beautiful until I remember there is, in fact, someone else in the structure—someone Sheri calls “the brunette,” whom Vee still does not know belongs in this conversation at all. Pace can tell himself his attention is absolute in the moment, but Vee is asking what exists outside the shut door. That is precisely where he has kept both her name and Randi’s reality undefined. He wants the intimacy of belonging without submitting himself to the clarity of being accountable for it.
+
+Sheri is such a relief. She likes him without wanting him, knows how to sit beside grief without trying to tidy it, and will tell him he is behaving badly even though she understands the wound underneath. I loved their rough, unsentimental warmth. Her jokes about Vee’s body got a little tiresome for me—not because Vee isn’t spectacular, but because I wanted someone in this scene to protect her personhood while she was absent. Pace did, finally: “Her name is Vee.” And then, when asked what she has, he did not answer with her body. He answered with the changed air and the way she understands him. That is the declaration, you impossible man. Go say it where it counts.
+
+I’m also newly tender toward Sheri. “People who’ve never lost anything think grief is a choice” told me more about both of them than either seems willing to say. They recognize the particular violence of being urged home by people for whom home is uncomplicated. I understand why Pace came here rather than sitting alone inside whatever Vee’s departure opened in him. But I am not letting that sympathy turn into permission. He has “long practice” deciding pain can keep. Vee cannot become one more thing he puts away indefinitely because silence once kept him alive.
+
+Honestly, I would text a friend: *He just described being in love with her in the most embarrassingly Pace way possible—THE PHILOSOPHY OF HIS FOOD—and still says he can’t say it. Sheri called him shitty to his face. I would die for her.*
+
+GATE 48 — The Usual  
+DECISION: CONTINUE  
+CAPTURE: 9  
+ALMOST-STOPPED: none  
+WHY: Pace’s “I can’t” has turned his silence from maddening vagueness into a real wound or prohibition, and now I desperately need to know what it is. He plainly loves Vee; the question is whether he can choose honesty before his silence—and the much larger secret behind it—costs him her.

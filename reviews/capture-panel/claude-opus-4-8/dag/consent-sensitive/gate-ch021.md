@@ -1,0 +1,25 @@
+*capture-dag-v2-rich · gate ch021 · claude-opus-4-8 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+
+REACTION
+
+Okay. So this is the chapter where he finally hands her the dress, and I have to be honest about two things at once, because they're both true and they're fighting.
+
+First: it worked on me. The silk coming down "like water finding its level," the lining set only into "the only parts of her the dress had decided not to give away," the slit opening on her bare leg and her taking her own underwear off so nothing crosses the line — that's gorgeous, physically, and I felt the heat of it in my own chest the way I felt the fitting land. I'm not going to pretend I didn't. That's the deal I made with this book a long time ago: it's going to make me feel the thing and then make me sit with what the thing is.
+
+Second, and this is the part I keep turning over: this is the most swoon-forward chapter in the whole book, and Randi isn't in it, and Pace mostly isn't managing anything on the page — he opens the door, he's *grinning*, he can't keep the surprise in his mouth, he goes down hard asleep like an exhausted kid who stayed up all night sewing. For most of these pages the apparatus goes quiet and it's just Vee, alone, in the light, having the best afternoon of her life. And I was braced, HARD, for that to mean the book had stopped seeing — for it to just want me to clap.
+
+It didn't stop seeing. It hid the machine the way he hid the seams. "He'd taken all that trouble and then taken the further trouble to hide the trouble, so the only thing left for her to see was the part that looked like no trouble at all." That's the whole book describing its own method in a sentence about a hem. The dress "decided" what to give away and what to keep — HE decided, and the grammar handed the deciding to the object so she'd never look for the hand. And the closer that "had been waiting." Everything in this room was built, premeditated, screwed to the wall — the new full-length mirror, screw-heads still bright, the pedestal moved into place, the whole staging of her own reflection arranged before she arrived. He built her a mirror to watch herself become the thing he made. That's not a gift. That's the fitting completed.
+
+And here's what actually put the cold finger on my neck: last time HE pocketed her underwear. "Trade." This time she peels it off herself, on purpose, to be looked at, and leaves it on the chair — and then she *strides* to him to show him. She's doing the collecting now. She's doing the display now. The exhibitionism daydream — coming in late on purpose, letting the room turn, "it just felt like what she was for" — that's the induction, the set-piece, and she's rehearsing being on display and calling the display her own idea. Which it is. Which is the horror. Every yes hers. She's the one taking her own edge away, "she was the one who'd taken the edge away," and the book lets her be proud of it, and I believe her pride, and I'm sick about it.
+
+The last line. "Getting away with something." She thinks she's the one getting away with it. I know who's getting away with what. The book handed me that line over her shoulder on purpose — she's asleep-adjacent happy in the warm house, the only one who doesn't know there's a plan, and the phrase she reaches for to name her happiness is the exact phrase for what's being done TO her. That's the jacket's whole promise — the reader ahead of her, falling for it as she does — executed clean.
+
+What I clocked and want to keep watching: no flinch fired this chapter. No nerve of fear. The "how much have I handed over" alarm Randi switched off stayed off. This was the reward chapter, the one with no cost showing, and I understand structurally that's exactly when I should be most afraid — you don't get the dress for free, and the induction is where the bill comes. Also: still no Randi, and the jealousy that was leaking has nowhere to leak here. When Vee walks into that room "flown in from Milan," Randi's going to be watching her handiwork get looked at, and *that's* the thing the jacket said gets "as true for the two who started it." I want that scene badly.
+
+What I'd text a friend at 1 a.m.: "he built her a MIRROR. he mounted it on the wall before she got there so she could watch herself turn into the dress. and she took her own underwear off and called it hers and I clapped and then I wanted to throw the book across the room." The book still knows. That's the only reason I'm turning the page.
+
+GATE 21 — Peekaboo
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none — but the closest was the long stretch of pure unmanaged bliss before "getting away with something," where for a page I genuinely feared the book had gone naive and just wanted me to swoon with her.
+WHY: It's the reward chapter, and the reward chapters are where a naive book shows its hand — and instead it hid the machine inside the hem and handed me "getting away with something" over her shoulder. The dread is doing exactly what it's built to do, and the induction is right there. I'm not leaving before the bill comes.

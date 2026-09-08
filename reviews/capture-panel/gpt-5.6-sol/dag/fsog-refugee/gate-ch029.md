@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+
+REACTION — Oh, the heels. I wanted to crawl out of my skin with her when she realized she was taller and immediately translated that into having humiliated him somehow. And then he simply put her upright again. “Leave them on” could have been a command that diminished her; instead he made her height into something divine and refused to let her fold herself smaller. That got me badly.
+
+More than that, he would not accept the polished apology in place of the truth. Randi coached Vee to arrive composed enough that forgiveness would be the only possible response—which is such a revealing way for Randi to think about human encounters, as things you can stage until the outcome is controlled. Pace quietly broke the staging. “But what happened?” Thank God. He wanted the frightened, jealous, unflattering reason, not the beautiful performance. And when Vee finally gave it to him, he thanked her for telling him instead of rushing to absolve her or making her grovel. That is the warmth I’m here for. He lifted the weight without pretending it had never been heavy.
+
+The domestic happiness afterward absolutely worked on me: his undershirt waiting for her, her sleepily plastering herself to his back, campaigning for the recognized legitimacy of soaking. It felt particular to them, silly and lived-in and tender. Not generic sex-couple banter. Her staying until Monday, wearing his clothes and smelling entirely like him, is exactly the kind of engulfing intimacy I want—and also, given the hidden plan, the kind that makes me afraid for her. She is sliding into his life so happily that ordinary responsibilities are beginning to disappear at the edges. Two nights, no bag, Monday class nearly lost. It feels delicious to her. It also feels like the early stage of becoming unmoored.
+
+But the slap stopped me cold for a second. She said, “No tickling,” and then playfully smacked him; that is not consent to be struck back. I understand the flirtatious logic of the moment, and I believe he meant one playful swat, not a covert introduction to punishment. Her body’s response was immediate and unmistakable, and he stopped to watch rather than assuming he could continue. Then she chose to kiss him and move them toward sex. All of that matters. It does not retroactively make the first strike consensual.
+
+This is precisely where I need Pace to be better than genre habit. The chapter makes the surprise blisteringly hot—and yes, it was hot—but I am not satisfied with her arousal doing the work of permission. A body can say *oh* without a person having agreed to the thing that caused it. Now that they both know this opens something in her, the next step has to be words. If he spanks her again because he “saw” she liked it, without asking what she wants, I will sour fast. If he says, in some Pace-like exact way, *That did something to you. Do you want to explore it?*, I may combust.
+
+I’m also increasingly uneasy about how thoroughly Randi is dressing Vee for Pace—her shoes, her scarf, her instructions, even the timing and emotional posture of the apology. Vee arrives thinking she is being her most assured self, but she is wearing Randi’s design from throat to feet. Pace noticing the scarf had an extra charge because I know whose hand tied the idea of it around her first. Vee experiences Randi as the friend who helps her become visible. I can see Randi quietly installing herself inside the way Vee performs desire.
+
+Still: I’m deeply in. The thing I’d text at one in the morning is, “He made her stand tall, asked for the ugly truth, thanked her for it, and then one kitchen swat apparently rewired her nervous system—but if this man does not negotiate before round two, I’m coming through the page.”
+
+GATE 29 — A Recognized Method  
+DECISION: CONTINUE  
+CAPTURE: 9  
+ALMOST-STOPPED: “It landed. Once.”  
+WHY: The apology became real because Pace asked for what was underneath it, and his tenderness with her afterward felt intimate enough to ache. But that unasked-for slap is a serious yellow light: her arousal makes me want the next chapter, not willing to pretend consent happened before it did.

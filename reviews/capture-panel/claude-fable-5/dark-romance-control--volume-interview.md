@@ -1,0 +1,37 @@
+# Capture panel — dark-romance-control · volume-interview
+
+*model: claude-fable-5 · persona: dark-romance-control · arm: volume-interview · chapters: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: e5ff292853b3 · run: 2026-09-07*
+
+**T1 — Where the book leaves me with each of them.**
+
+**Vee:** Protective in a way that embarrasses me a little, because I bought this book to watch her get hunted and somewhere around chapter 18 I started rooting for her hits to land. When she said "words are cheap, and you still won't spend them on me" I cheered — I wrote that down, I *cheered*, for the mark. The book leaves her glowing on a doorstep in a coat with nothing underneath, thinking she won an argument, and I feel the way you feel watching someone walk happily back into a house you know is wired. She gave them everything — the nude, the shame word, the shirt ritual — and holds nothing, and nobody in her life has paid her a single honest sentence. Right now I feel a kind of sick tenderness toward her that I did not order and cannot return.
+
+**Pace:** He's the one I can't file, and it itches. If he were cruel I'd know where to put him. But the book spent fifty chapters proving his tenderness is *real* — he really does slice the apples thin, he really did fold his whole ordered self into a drawer to give her the top one — and he's still lying by omission every single weekend, still in a bed across town discussing her like a shared appetite. Sincere-within-the-lie is the most dangerous kind of man there is; I said that at Decade 1 and it only got truer. And then Daphne — nineteen and fifteen — landed, and I stopped being able to read him as a villain *or* a victim, because he's a crime that learned to walk and be gentle. What I feel right now is dread on his behalf, which is insane, because he's the perpetrator. He can't say the sentence. I believe *can't*, not *won't*. That distinction is going to hurt somebody and I think it's going to hurt everybody.
+
+**Randi:** She's mine. She's the reason I'm buying Book Two before lunch. The book leaves her holding every card in the deck — the photo, the confessions, the curriculum, the man — and starving to death anyway, and chapter 46 is the picture I can't get out of my head: a woman in a hotel with a perfect man who is "warm only where she touched him," finally admitting Vee is the one and in the same breath deciding she will never, ever be brave enough to say so. She begged once, on a bench, and rebuilt her entire life so she'd never have to beg again, and now the life is the trap. What do I feel? I feel like her lawyer and her executioner at the same time. I don't trust her, I wouldn't leave her alone with anyone I love, and if the author kills her off I will set something on fire.
+
+(And Cassie, whom you didn't ask about, is the only clean warmth in the book and I'd take a bullet for her, noted for the record.)
+
+**T2 — What it refused to give me.**
+
+Two things, one I've forgiven and one I haven't.
+
+The one I've forgiven: teeth on the page. I came in wanting a man who is a physical threat and I got a man who heats the house so she won't be cold. Fifty chapters and nobody gets thrown against a wall; the danger is entirely in the frame, in what I know and Vee doesn't. By chapter 10 I'd recalibrated — read as grooming, the gentleness *is* the teeth — and by "We Find Out" the book had proven it could destroy me with a tape measure and a held-up finger. So I withdraw the complaint. Mostly. There were froyo chapters and a chapter about a swimming pool and a chapter about a drawer, and my capture scores tell the true story: every time the conspiracy left the page, I dropped to a 3 or a 4 and started reading the ceiling.
+
+The one I haven't forgiven, and it's the debt I'd put in writing: **the detonation.** The book built three landmines in front of me — the game itself, the affair, the uncropped photo sitting in Randi's phone like a loaded gun — and it made me watch the fuses get measured and cut and laid for fifty chapters, and then it closed on pancakes and Cassie's eyebrow. Not one reveal belongs to Vee. Every single one belongs to me, the reader, and that's a magnificent way to generate dread and an outrageous way to end a volume. I wrote "you have GOT to be kidding me" out loud, fondly — but fondly is doing heavy lifting. The book owes me one apocalypse, itemized, with interest. Vee is owed the truth by every person in her life, and I am owed the scene where she gets it, and Volume One paid neither of us.
+
+Smaller line item: it owes me the sentence Pace can't say, and the rest of Daphne. But I suspect those are the same debt, and I suspect the author knows the balance to the penny.
+
+**T3 — Pace walks away clean. Does that break it?**
+
+You're right on the facts and wrong on the tense, and the tense is the whole book.
+
+Yes: he deceives her every chapter, and the volume ends with him loved, trusted, unexposed, eating pancakes. If that were the *ending* — if this were a standalone — I'd be with you, and my review would have been in a very different register of all caps. A con that closes with the con man rewarded and the book patting him on the head is not dark romance, it's just an alibi with a nice prose style.
+
+But nothing has "landed on him" the way a verdict lands only if you think the book has ruled. It hasn't. It's done something colder: it's spent fifty chapters loading the consequences without firing them. He walks away clean *and carrying three armed bombs*, and the book made sure I can see every one of them even though he's stopped looking. The photo is in Randi's phone. Randi is falling for the girl they picked together, which means his co-conspirator is now his rival, which means the person who knows everything has a motive. And the crackers-and-meal speech, the small *wait* that went "into the body where small waits go" — Vee is already keeping a ledger she doesn't know she's keeping. That's not a man escaping consequences. That's a man standing in the doorway of a house I watched two people wire, smiling, holding pancakes. The dramatic irony isn't a bug in the moral accounting — it *is* the moral accounting, running on my ledger instead of the plot's, for now.
+
+Also, honestly? Check my shelf. I don't buy books to watch bad men punished; I buy books to watch bad men *loved*, and the wrongness of that is the flavor. My problem was never that Pace is unexposed. My problem — my only real grievance, see T2 — is that the exposure I was promised by every fuse in the book didn't come due inside this volume's covers. That's a structural cliffhanger complaint, not a moral one.
+
+Where I'd genuinely turn on it: if Book Two defuses the bombs quietly. If the photo never surfaces, if Vee learns the truth in some softened, half-dose way and forgives on the same page, if Pace gets to keep both the girl and the innocence — then your reading wins retroactively, the whole fifty chapters of dread was a bluff, and I unsubscribe in the register I reserve for authors who waste my time.
+
+But does it change whether I buy Book Two? It's *why* I buy Book Two. I'm not purchasing a sequel; I'm purchasing the leg coming down on the tripwire. The author is holding my money hostage against a detonation, I know it, they know it, and I paid up this morning, mildly furious, which — as I said in my own record — is how they get you.

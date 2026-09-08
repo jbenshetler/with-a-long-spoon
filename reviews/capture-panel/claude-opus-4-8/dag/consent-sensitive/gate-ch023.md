@@ -1,0 +1,27 @@
+*capture-dag-v2-rich · gate ch023 · claude-opus-4-8 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+
+REACTION
+
+Okay so this chapter is a seduction wearing a comedy's clothes and I clocked it the whole way through, and it still worked on me in places, which is exactly the sick genius of it and exactly what has me tense.
+
+The "he made it *to* you" line. God. Randi reaches for the one word Vee cried over without having, and hands it to her, and Vee feels it "land." That's the whole handler move in miniature — Randi doesn't just admire the dress, she completes Vee's own inarticulate feeling for her, names the unnameable thing, so that intimacy with Pace now flows *through* Randi's mouth. She's made herself the translator of Vee's deepest experience. And note it isn't a lie this time, the way "nobody measures over a bra" was a lie. It's *true*. That's scarier. She's not deceiving here, she's attuning — reading the charmeuse, reading the bias, reading Vee — and the truth of it is the hook. The book knows this: "reading the cut as her eyes had." Randi reads garments and people with the same fingers.
+
+The shoe-store comedy — the yetis, the canoe shoe, the pink rhinestone platforms, the one-brisk-walk-from-a-sandal flat — I'll be honest, I laughed, and then I hated that the laughter is load-bearing. This is the hike all over again. "The hike had made her hungry first. That was the trick of it." The comedy is the hunger this time. They bond, Vee feels like "the funniest woman in Virginia," her guard drops all the way down — and *that's* the softened ground the boutique gets planted in. The book even flashes the older couple watching "two girls being silly," the innocent frame, right before it turns the screw.
+
+And then the size-seven reveal. "That's me exactly." "We can share. It's practically a marriage." I actually went cold. That's the pivot from friend to something else, and it's used instantly as leverage: *therefore you're not buying the sensible tan shoe.* The shared-feet intimacy and the upsell are the same gesture. Randi turns "we're the same" into "so let me overrule your budget."
+
+The foot. Oh, the foot. Randi on one knee on the pale floor, holding Vee's foot in both hands, the frosted plum polish "chosen to catch the light as the silk did" — Vee polished her toes for this, let's sit with that — and the single thumb across the big-toe nail, and Vee's hand shooting to Randi's shoulder to stop the room swinging. That is the erotic beat of the chapter and it's staged as a shoe fitting, Randi playing the shopgirl on her knees, and it's a straight rhyme with Pace kneeling to fix the blister on the mountain. Same choreography, same kneeling-servant-who-is-actually-in-control. The jacket's slow fuse — Vee wanting Randi — just got its clearest ignition yet, and Vee registers it purely as a swoon she has to physically brace against, no idea what it is. The book knows. "Randi looked up at her and smiled and said nothing at all." That smile is the whole con.
+
+But here's what actually scared me, more than the foot: the credit card. The debit between her fingers, "the card she paid her own way with, the one that only ever spent what was already behind it," and she puts it *back*. "There was nothing under it… it would be sitting there next month." Vee is fully lucid about it — the book gives her the whole interior of the choice, she knows she can't pay, she does it anyway "because the one thing she would not do in this room was flinch." And right beside her Randi buys loafers for a multiple of the price *without looking at the number*, narrating a story about a coat the whole time so the money never becomes a subject. That contrast is the most quietly brutal thing in the chapter. Randi has manufactured a room where Vee's poverty is unspeakable — "she could not stand in this expensive hush and tell Randi… that she could not afford to be inside the door" — and then let the environment do the extracting. Nobody twisted her arm. She handed it over. *Nothing was taken from her that she did not hand over.* The jacket keeps being right and I keep hating being ahead of her.
+
+So credit where due: this is dark content the book KNOWS about. Vee keeps her whole interior — the arithmetic, the flinch she suppresses, the "different arithmetic took the wheel." The prose isn't asking me to cheer the purchase; it's showing me a girl talk herself past her own guardrail in real time and telling me exactly which guardrail it was. That's the awareness I stay for.
+
+What I'm suspicious of and will be watching: the debt. That credit card with nothing under it is a leash Randi just helped fasten, and the book put it on the page too deliberately for it not to come back. And "practically a marriage" — the sharing, the shared shoes, the shared size — is the jacket's second thread tightening. What I want to text a friend at 1 a.m.: *she polished her toes plum to match the dress and she doesn't even know who she did it for.*
+
+Still no swoon from me. But I'm leaning in, cold and awake.
+
+GATE 23 — Sorority
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: The foot-fitting and the credit-card beat are the cleanest, most self-aware extractions the book has done yet — comedy softening the ground, the shared-size "marriage" flipping intimacy straight into leverage, and Vee kept fully lucid the whole way so the book plainly knows what it's staging. The debt with "nothing under it" is a fuse I have to see lit.

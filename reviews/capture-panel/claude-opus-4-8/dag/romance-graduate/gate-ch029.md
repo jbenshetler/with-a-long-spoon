@@ -1,0 +1,23 @@
+*capture-dag-v2-rich · gate ch029 · claude-opus-4-8 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+
+REACTION
+
+Oh, that spank. Okay. That's the chapter, right there — that's the thing the whole book has been walking toward and it FINALLY let the body do something the mind hadn't pre-approved. "A bright hot line straight up from the place his hand had been, and it arrived before any thought could get in front of it." The nipples drawing up to aching points before she'd agreed to it, the soundless *oh*, her eyes going far off — and him watching her face while it happened. That's the machine finding the real signal again, except this time it's not a dress or a riser, it's a thing that came out of HER that she has no doctrine for. "No joke for this, no doctrine, no clean machine." I felt that. And then her covering it with a kiss she chose, because being seen wanting the spank was more naked than the wanting itself. That's the exact grammar this book has been running the whole time and it still got me.
+
+But — and here's where I'm sitting up mean at 1 a.m. — I now have the thing I've begged for across TEN notes. I've read chapter 24. I've been in the bed with Randi astride him, "I didn't think I'd like her this much," "she got past me before I could help it," the two of them ON THE RECORD building the girl between them. And I've read 28, Sheri on the bike, "two of them at once, if that's not already complicated, it will be." So by chapter 29 I, the reader, know everything, and Vee is standing in his doorway with a HUMBLE PIE label she trimmed with good scissors, apologizing to the man who is running her with the woman who dressed her for the apology. The dramatic irony is now total and it's sickening in the good way. The apology speech as "a small clean machine" — she's building machines now, she's learned it from them, she's using their own tool on herself to get back to them. That's grief-making.
+
+And what turns the screw: the blonde told her the TRUTH sideways. "All us girls love him. He's so good about getting a girl home safe." Every word factually true, weaponized into a lie, and Vee's crime was believing an accurate thing about a man who is, in fact, running her. She apologized for being briefly, accidentally correct. "Some part of me was just standing there waiting for one." The book knows. The narration still knows more than her gladness does — thank God, that's my hold, that's the line I said I'd leave over if it broke, and it hasn't broken, it's tightened.
+
+The height thing — her taller than him in Randi's heels, the missed-stair wrongness, him saying "beauty loaned out, I'm not going to insult the loan by complaining I have to look up." LOANED OUT. He knows whose shoes those are. Randi dressed her, Randi's scarf, Randi's cognac heels, and Vee walks them to his door and he compliments the loan. The three of them are in that doorway and only two of them know it. I asked for Pace and Randi in a room on the record and I got chapter 24; now I'm getting the aftershock — the whole apparatus operating on Vee through borrowed silk and she thinks the scarf is HER vanity working. "He'd noticed the scarf. The scarf was working." No, sweetheart. The scarf is Randi's. It's all working exactly as designed.
+
+What I clocked coldest: "Thank you for telling me what she said." He THANKED her for the intel. He's gathering the blonde's exact words — data on a threat to the operation — and it reads to Vee as grace. God.
+
+Cassie's barely here and that's its own quiet knife — Vee wouldn't call her, "she'd have to put words to what she'd done." Editing Cassie out even in a crisis. And the "recognized method" tickle-and-soak scene is genuinely charming, real domestic heat, which is what makes it unbearable — it IS good, the ordinary tenderness is real, that's the whole trap the jacket promised: "as true for the two who started it as for the girl who never knew there was one."
+
+Still starving-satisfied. The heat landed with actual interiority under it, the prose isn't performing, and the dread is load-bearing. I'm all the way in and I hate that I am, which is the correct state for this book.
+
+GATE 29 — A Recognized Method
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: The spank did exactly what this book does best — a real involuntary want surfacing ahead of thought, seen and covered — and the dramatic irony is now total after chapters 24 and 28, so her HUMBLE PIE apology in Randi's borrowed shoes is almost unbearable to watch. The narration still knows more than Vee's gladness does; the minute that breaks I'm gone, but it's tighter than ever.

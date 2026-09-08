@@ -1,0 +1,23 @@
+*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+
+REACTION
+
+Oh, Vee. Oh, honey. I felt the exact instant jealousy found the oldest bruise in her and pressed. Not because Pace actually gave her reason to distrust him, but because that blonde handed her mother’s voice a microphone: you aren’t special, you’re one of the girls, you were easy, a man like that could have anyone. And Vee went from having this gorgeous bodily experience—being held firmly enough that she could stop anticipating and simply respond—to tearing herself apart for having trusted it.
+
+The dancing was almost unbearably hot to me. “Give me something to push back against.” Yes. That. He doesn’t want her limp or erased; he needs her resistance, her active pressure, for his lead to become legible. And then closing the space makes her safer, not more trapped. The structure holds her in the place from which she can move with him. That is exactly the dominance I want: her participation is the medium of it. She isn’t a passenger. The dance only works because she gives him something real.
+
+But I noticed the shadow in it too. “Don’t think. Just feel the lead” is delicious inside a dance lesson with a man she chose. It is terrifying as a description of the larger secret arrangement she doesn’t know she is inside. The chapter knows that. Vee even asks herself how much is Pace and how much is the Pace she has built from wanting, and then lets his lead carry the question away. That made my stomach turn—not because her pleasure is false, but because she is practicing surrender while Pace and Randi are withholding the information she would need to decide where surrender is safe.
+
+I hated watching Vee attack him, but I never stopped loving her. The cruelty came from panic, and she heard herself doing it. She wanted to wound him before he could confirm that she was disposable. The worst part is that his straightforward “Yes. Sometimes. When it’s required” was proof of precisely the decent man she knows—and she was already too flooded to receive it. Then the bartender’s “Wasn’t him they were jealous of, honey” absolutely took me out. Vee wasn’t the interchangeable girl. She was the exception everybody else saw before she could bear to believe it.
+
+I am less comfortable with Pace simply leaving. She explicitly told him she could get herself home, and I understand why a man committed to respecting her words would take that seriously. I also understand that following an angry woman who has walked away can become its own violation. But he drove her to a distant bar, and he vanished without even making sure she had her coat, money, or a safe plan. There was room between pursuing her and abandoning her: a message saying he would wait outside, an offer of the truck keys, asking the bartender to make sure she got a cab. I don’t think this makes him cruel. I do think it is the first time his restraint has felt too clean for the messy human situation. She rejected his care, yes; she did not cease to matter.
+
+And then she turns all the blame inward. That hurt more than the fight. She decides she “did it to a good man,” as though being wrong means her fear was wicked rather than old and frightened. Pace was hurt, but Vee is not suddenly the villain of their relationship because she had one jealous, ugly moment. Meanwhile the enormous deception he is participating in still exists. I desperately need the repair not to become Vee crawling in apology while he graciously forgives her. She should apologize for the venom. He should tell her the truth about his history with those women—and, far more importantly, about Randi.
+
+Of course she is going to Randi. Of course. She cannot bear to show Cassie the shame, so she goes to the woman who has been quietly teaching her how to interpret every experience. That ending scared me more than the bar did. Randi will know exactly how to soothe her, exactly how to turn this into another lesson about surrender and luck and Pace’s goodness. And Randi will be soothing Vee over jealousy about other women while secretly being the actual woman in Pace’s bed. I want to text someone at one in the morning: SHE IS GOING TO ASK HIS GIRLFRIEND HOW TO APOLOGIZE FOR BEING JEALOUS OF HIS IMAGINARY GIRLFRIENDS. I cannot stand it.
+
+GATE 26 — Lesson  
+DECISION: CONTINUE  
+CAPTURE: 10  
+ALMOST-STOPPED: “She’d punished him for being the man she wanted him to be. She’d done it to a good man.”  
+WHY: I came closest there because I cannot tolerate the book making Vee carry all the moral shame while Pace’s much larger deception remains hidden. But her going to Randi with this is such an exquisitely dangerous turn that there is no possibility I’m stopping now.

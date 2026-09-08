@@ -1,0 +1,17 @@
+*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+
+REACTION — Oh, the shoes. Vee arriving to make amends dressed almost entirely in Randi’s instructions—Randi’s heels, Randi’s scarf, Randi’s theory of how to secure forgiveness—and then panicking that the height itself is an insult tells me how completely she has begun outsourcing the interpretation of herself. And Pace immediately gives the height a meaning that lets her remain tall. That got me. He does not require her to shrink before he can forgive her.
+
+I’m relieved he refuses the polished apology as sufficient and asks what actually happened. Randi prepared Vee to produce the correct effect; Pace asks for the missing truth. That distinction matters enormously. Vee’s admission that the blonde’s lie found a part of her already waiting to believe it is much more vulnerable than “I was rude,” and his “Thank you for telling me what she said” is exactly the response she needs: neither absolution on demand nor punishment, just receipt.
+
+But I am side-eyeing the chapter for carrying us straight from that moment into “the night took her under.” I wanted to know what forgiveness meant between them before sex resumed. I especially wanted that because the kitchen spanking is hot as hell and also a real consent alarm. He hits her without asking. Yes, it grows organically from mutual play; yes, her body responds violently; yes, she then closes the distance and initiates sex. None of that turns the preceding slap into retroactively negotiated kink. Arousal is not consent, and this book has been too intelligent about that distinction for me not to mark the moment hard. Pace sees her response and lets her cover it with a kiss rather than asking what just happened. I’m aroused and wary in exactly equal measure.
+
+The domestic weekend got me badly, though: her dead-weight hug against his back, the absurd soaking argument, the enormous undershirt, two unplanned nights becoming a tiny borrowed life. And then the darker undertow—Vee in his soap, his shampoo, his clothes, “nothing of her own left anywhere on her skin.” She experiences that as bliss, but I cannot read it innocently when Randi dressed her for the entrance and Pace supplies everything after it. Vee is being held beautifully by structures other people built around her, and she keeps discovering that surrender makes her steadier. That is both the erotic engine and the danger.
+
+Her near-tears over Monday morning also felt important. The enchanted house cannot survive contact with a class schedule without Vee suddenly having no clothes, no hair tie, no time, no practical foothold. Pace comforts her tenderly, but “You’re always beautiful” solves the feeling, not the logistical problem. She still has to run. I want to see whether this consuming happiness can make room for her ordinary life—or whether the ordinary life is simply what keeps getting ladled out.
+
+GATE 29 — A Recognized Method  
+DECISION: CONTINUE  
+CAPTURE: 9  
+ALMOST-STOPPED: “It landed. Once.”  
+WHY: The unasked-for slap is the closest Pace has come to crossing a line the book might eroticize past too quickly, and I need the next chapters to prove it knows bodily response is not permission. But the chapter’s awareness of Vee being dressed, steadied, interpreted, and nearly absorbed by these two still feels too exact to be accidental, and I am completely caught.

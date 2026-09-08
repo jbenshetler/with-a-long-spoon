@@ -1,0 +1,25 @@
+*capture-dag-v2-rich · gate ch020 · claude-opus-4-8 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+
+REACTION
+
+Okay so this is the debrief lunch, the one that mirrors chapter 17 — and I read the whole thing with my jaw a little tight, because I know what this table *is* now. Last time the froyo-warm intimacy of it turned into an interrogation with a velvet glove, "cold" / "hmm," Randi steering Vee down the staircase one *yeah* at a time and then slamming the door right when the secret was crowning. I came in braced. And the chapter *knows* I'm braced. That's the thing that's getting under my skin about this book — it keeps its nerve, it doesn't let Randi's technique read as accident.
+
+But here's what's different, and what genuinely unsettled me: this one was *gentle*. Randi didn't extract this time. She barely had to. Vee came in wanting to tell her — "the wanting to tell it was most of why she'd come" — and she handed it over. And Randi mostly just... received it, warm, and named things. "You're not caught, sweetheart. You're lucky." "You knew how that night was going to end before you ever got in the car." And the horror of it is that every single thing Randi says is *true* and *kind* and probably exactly what a good friend would say. She's telling Vee her own desire back to her, clean, giving Vee permission to have wanted it. Which is the thing I came to this genre *for* — a woman getting to own her appetite without shame. Except it's coming out of the mouth of the person who built the trap. So I can't have it. I'm not allowed to just feel good about "I wanted it. And I took it. For once," even though that line landed in my chest, because I know who's nodding across the table.
+
+That's the merciless part the jacket promised and I keep flinching from: the tenderness *is* the technique here, or at least I can't prove it isn't, and neither can Vee. The frosted plum. "You paint the toes for a man who's going to have your feet bare in his hands." Randi reading Vee's own planning back to her as proof of her wanting — that's Pace's exact move, the froyo move, hand her back the thing she already did so she feels seen for it. They're the same hand. Randi and Pace run the identical play and Vee's between them getting it from both sides and calling it the best week of her life.
+
+And the "sad little story" Randi opens with — the beautiful nervous ex in a hurry — I don't buy it for a second as a real anecdote. It's a setup. It's there to make Pace's patience shine by contrast, to prime Vee to tell her how *un*-hurried he was. Randi builds the contrast and then Vee walks right into it: "He wasn't in a hurry. At all." She's being played like the calculus solve, handed the pencil at the exact line.
+
+What actually scared me a little: Vee not scanning the street after the kiss this time. "she didn't look down the street for who might have seen them." Last chapter that cold sweep of the windows was her instinct still working, some animal part of her knowing to be careful. Now it's gone. She's acclimated. The kiss with the little second press, the "See you soon, gorgeous," and Vee just drives home *lighter*. The wanting-Randi thread the jacket promised is being walked in so softly Vee will never catch it happening — "the friend she'd wanted at fifteen," the person who "liked her, some days, better than she managed to like herself." God, that line. That's not a crush being planted, that's a *dependency* being planted, and it's the loneliest most real thing on the page.
+
+Where's Cassie in all this? That's what I noticed by absence. Vee gave Cassie "the whole clean one" and gave Randi the further version, and the book is quietly telling me Vee's real confidant is migrating from the girl who wants nothing to the woman who wants everything. That's the tell. That's the machine working.
+
+Am I still in? Yes. Because it refused, again, to wink. It did not ask me to find Randi's warmth uncomplicated. It gave me the good line — "you're lucky" — and let me feel exactly how poisoned it is. That tension is the whole reason I'm reading. What I'd text a friend at 1 a.m.: *she's not even lying to her. that's what's killing me. every true kind thing out of her mouth is a wire.*
+
+One small drag: structurally this is the second version of a scene I've already had, and it's lower-voltage than 17 because Randi's soft this time — no "cold/hmm" knife-turn to make my stomach drop. It's a connective-tissue chapter. But it did the one job that keeps me here.
+
+GATE 20 — Fed
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: none — though the closest was "You're not caught, sweetheart. You're lucky," where for a second I worried the book was going to let that be simply sweet and let me relax into the trap.
+WHY: It kept its nerve — the kindness is real and weaponized at once and the book won't let me untangle them, which is the exact knot I'm reading for. Docked a couple points because it's the quieter echo of chapter 17 and I can feel the machine's gears through slightly thin narrative floor.

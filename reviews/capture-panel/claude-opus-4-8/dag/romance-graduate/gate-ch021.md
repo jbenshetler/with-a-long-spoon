@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch021 · claude-opus-4-8 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+
+REACTION
+
+Okay. So this is the dress chapter, and I braced for it to be the swoon collapse — the moment where the machine dissolves into "he saw her, she needed to be seen, roll credits on the fantasy." And it mostly does collapse into that. And I feel the pull anyway, which is exactly what the jacket promised would happen to me and exactly what I'm most suspicious of.
+
+The dress on her body is written the way I actually wanted the sex written for twenty chapters — "it came down her like water finding its level," the lining set only "into the only parts of her the dress had decided not to give away." That's the good stuff. The detail that got me, genuinely, was the *hiding of the trouble* — "he'd taken all that trouble and then taken the further trouble to hide the trouble." That's the thesis of the whole con stated as tenderness, and it's the best sentence in the chapter because it works both ways at once: it's the loveliest thing a maker can do for you, and it is *precisely* how you groom someone — you launder the labor out so the girl only ever sees ease, so she never adds up the hours, so she can't see the plan in the seams. The book knows. "No closure she could even find." Yeah. That's the point of the whole book — she can't find the seam because he built it not to have one.
+
+The underwear beat is the real one, hotter than the sex. She sees the pale edge cutting the line, and the first thought is keep the steps small, and the second thought "came up hot behind the first and didn't care what showed" — and she takes it off *herself*. "She was the one who'd taken the edge away." That's the entire engine of the book in one gesture: every removal is hers, every yes freely given, and that's the problem. I love that they let the shame stay in it — "the shame of having stripped herself bare on purpose to be looked at, and it crossed into wanting almost before it was shame at all." No seam between the shame and the heat, still. That's the thing keeping this from being a normal dom-fantasy — the mother's *floozy* flares up, goes hot in her face, and instead of the book pretending it's gone it lets her stand in it. Good.
+
+But — and here's my dread — this chapter is the first one that's almost pure swoon with the narration not holding anything back over Pace's head. For twenty chapters my whole trust was that the prose knew more than his gladness did. Here the grin is *just* a grin, a kid who can't keep the surprise in his mouth, and I'm being asked to take it clean. The one cold spot left is the daydream at the end: the induction, coming in late on purpose, "let them look, and the looking didn't cost her a thing. It just felt like what she was for." *What she was for.* There it is — the tell. That's not her sentence, that's the shape they've been building her into, and she thinks it's her own desire arriving. "Getting away with something." She thinks she's the thief. She's the goods.
+
+And STILL no Pace-and-Randi in a room. Randi's not even in this chapter. Twenty-one chapters. The dress arrived — one of my waited-for things landed — but it arrived at his window in private, not at the induction, and Randi, who I'd bet money spec'd this whole thing, is nowhere. I want the seam and the book keeps handing me the finished garment. Which, fine, is the theme, but I'm getting impatient the way Vee should be and isn't.
+
+What'd I text a friend at 1 a.m.: "she takes her own underwear off in the mirror so the line runs clean and thinks it's HER idea and I had to put the book down." And then: "the daydream ends on 'what she was for' and I think I might scream."
+
+GATE 21 — Peekaboo
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: "the grin went off his face into something quieter, harder to look at and impossible to look away from" — the one place it tipped fully into ordinary swoon and I felt the machine-narration blink off.
+WHY: The underwear gesture and the "hide the trouble" line are the book still doing its real, merciless thing, and the "what she was for" ending kept the cold water running under the warmth. But this is the closest to pure fantasy the book has let itself get, and if the next chapter forgets it knows more than Vee does, I'm out — I stayed because it hasn't yet.

@@ -84,7 +84,70 @@ targeting (already policy). Consent-sensitive persona granted trust
 explicitly conditionally: the book reads as *knowing* — trust to be honored
 downstream.
 
-## Output
+## Run 2 results (2026-09-07 — full-volume, two memory arms)
+
+**Arms:** single-go perfect recall (4 models × 4 personas, `<persona>--volume.md`
++ `--volume-interview.md`) and the **capture DAG** (author-specified
+cold-reader architecture: one run per chapter, reader-owned decade mints;
+opus+sol × 4 personas; `dag/` trees + `--volume-dag.md` records).
+
+- **Retention: the volume holds its target readers under realistic memory.**
+  6/6 DAG target readers finished all 50 chapters; capture averages 7.3–8.9,
+  DAG ≥ single-go almost everywhere. No convergent mid-book trough; the four
+  scattered capture-5 gates are all **debrief/breather chapters** (What to
+  Wear, Turned Up — "a debrief, not a scene"; hills-and-valleys; Made-Up) —
+  convergent with the interviews' debrief-economy complaint. What re-arms a
+  dipped reader is the con's continuity, never the romance.
+- **The wrong-reader filter works better in the realistic instrument:** both
+  DAG dark-romance controls stopped at ch 2 (vs mostly coasting to the Randi
+  payoff under single-go perfect recall). Genre mismatch, not craft failure.
+- **Comeuppance (interviews, tiered funnel):** 2/16 raised it unprompted at
+  T1, 13/16 named it as debt at T2; Claude readers reframe at T3 ("convicted,
+  not sentenced"), GPT readers stay bothered; **15/15 finishers still buy Book
+  Two — as creditors**, with a universal tripwire: a second volume with Pace
+  unbilled triggers loud exit and retroactive condemnation. The debt is a
+  **Book Two design question, not a Vol 1 revision question**. Secondary T2
+  inventory: Cassie owed an acting scene (2 readers); debrief density; more
+  mass in the un-enchanted world (Kayla/Meg).
+- **The mints confirm the thesis mechanism on readers:** trust-ledgers drift
+  exactly as designed (tenderness trusted more *and* read as instrument;
+  ck-050: "his hand reaching in place of the word now reads as the
+  withholding it is"), and the FSoG reader's recurring fade — "I keep having
+  to remind myself Pace and Randi are already a couple… which is, I suspect,
+  exactly the trick being played on me too" — is the configuration receding
+  in reader memory, i.e., the book's con working at the reader level.
+- **Echo-economy flags from "what's fading"** (real production signals): the
+  nude photo — "a gun on the mantel I haven't heard fire; I've half-lost
+  track of it and I want to know if the book has too" — and Pace's real name
+  "barely held — it hasn't mattered in chapters." Long-gap plants may want
+  refresher beats; author's call.
+
+## Pending cleanup (author, 2026-09-07 — execute AFTER the v2-rich DAG lands)
+
+The first full-volume round is superseded: the single-go arm compressed 50
+chapters of reaction into one output per reader, and the DAG v1 gates were
+spec'd too terse. **After the `capture-dag-v2-rich` runs complete and are
+verified:** delete `<model>/dag-v1-terse/` trees, the stale v1-assembled
+`<persona>--volume-dag.md` records (re-assemble from v2), and the single-go
+`<persona>--volume.md` files. **Keep:** the `--volume-interview.md` funnel
+interviews (the comeuppance evidence — their findings and the run-2 numbers
+above stay recorded in this SPEC even after their source records go), and the
+4-chapter run-1 outputs. Do not execute before author confirmation on the day.
+
+## Lane-blindness verification (canary probes, 2026-09-07)
+
+Both lanes probed empirically with test-probe system prompts asking for an
+exhaustive inventory of visible context. **No global `~/.codex/AGENTS.md` or
+`~/.claude/CLAUDE.md` exists on this machine.** Codex lane (Sol/GPT-5.5):
+clean — sandbox/tooling scaffolding only; no user identity, no project files,
+no book information. Claude lane (Fable/Opus): **no project CLAUDE.md, no
+memory, no repo skills, no book content** — but the CLI injects harness
+scaffolding (tool/agent/global-skill lists, current date) **and the account
+userEmail (`jeff.benshetler@gmail.com`)**. That email is the one boundary
+leak: identity metadata, not book content, and it is a longstanding property
+of the entire clean lane (same invocation as the cold-read corpus, author
+ruling 2026-08-22) — documented here rather than silently accepted. Readers
+receive nothing else beyond the packet the harness builds.
 
 `reviews/capture-panel/<model-id>/<persona>--<arm>.md`. Not indexed by `na.py`
 (no `## Reader reaction` section — instrument output, not a cold read).

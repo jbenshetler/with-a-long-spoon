@@ -66,7 +66,13 @@ author authorization — not in the pilot.
 
 The probes must never learn the author's actual identity or gender, or that a
 firewall exists. The adversarial framing's "female pen name" premise is the
-market scenario, not a leak.
+market scenario, not a leak. **Known lane caveat (canary-verified 2026-09-07,
+see `reviews/capture-panel/SPEC.md`):** the Claude clean lane injects the
+account userEmail (`jeff.benshetler@…`) as CLI scaffolding — a masculine-coded
+identity visible in principle to Claude-lane audit readers. The audit's
+strongly female-authored verdicts (+30s) survived that exposure, so any bias
+it introduced ran *against* the finding — results are conservative, not
+inflated. Codex and OpenRouter lanes carry no user identity.
 
 ## Pilot (subscription lanes only), then tune, then full panel
 

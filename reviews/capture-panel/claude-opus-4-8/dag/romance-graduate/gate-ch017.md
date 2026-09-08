@@ -1,0 +1,25 @@
+*capture-dag-v2-rich · gate ch017 · claude-opus-4-8 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+
+REACTION
+
+Oh, this is the chapter I've been circling my carry-forward notes waiting for. This is the machine turned on and running in broad daylight and I got to watch every gear.
+
+Because here's the thing — I have read a hundred "girls' lunch, she tells her friend everything" scenes and they are wallpaper, they're the author dumping recap. This one is an interrogation dressed as intimacy and I clocked every single move because I already know what Randi is, and watching Vee not know is the most excruciating, delicious thing the book has done since the bench. The whole scene is Randi *harvesting.* "Nobody measures over a bra" — that's not comfort, that's a lockpick. She hands Vee the ordinariness ("it's just how it's done") specifically so the shame drops and the secret comes out. And it WORKS, I watched the clench in Vee's chest let go on cue, and I wanted to scream through the page: she's not reassuring you, she's opening you. "So how did he manage that fabulous bust?" — envy performed as flattery to keep the door swinging. "Which hip?" "The left one." "All the best ones start at the left hip" — meaning nothing, landing like a benediction, one small *yeah* at a time down and down. Textbook. Gorgeous. Vile.
+
+But — and this is why I'm not throwing my phone, this is why I'm leaning IN — the book gave me the crack. That tight muscle behind Randi's smile when Vee says "he looked at me and I was fine." The thumb working the base of the water glass. That's the jealousy the jacket promised, and it's not jealousy of Pace getting the girl. It's jealousy of *Vee's fineness.* Vee can be looked at and be glad. Randi decided in a bathroom mirror at thirteen that she never gets to have that. She's running the con and she's bleeding on it. The scarf story kills me — "tied to a man's headboard, best thing all month" — she's telling Vee she found letting go, and it's a lie shaped like an invitation and MAYBE also a real confession she can only make disguised as a fun anecdote. That's the "as real for the two who started it" thing starting to bite. She's teaching Vee the exact surrender she can't survive.
+
+And then. THEN. The one moment that actually turned the knife the other way: "You don't have to tell me." Right as Vee's most-buried secret is rising, right when she wants to *give* it — Randi shuts the door, soft, and no laugh comes, and the clean silence sits there with the secret half out. That's masterful and it scared me, because that's Randi choosing NOT to take something, and I don't yet know if it's technique (leave her wanting, make her come back to give it) or if Randi genuinely couldn't bear to hear about the shame-turned-to-heat, the thing she can't have. Either reading is devastating. I think it's both. That's the book's whole trick — it's always both.
+
+The heat came back, and it came back exactly where I wanted it: not through Pace this time but through *Randi.* Vee getting wet — no, getting hot, "there was a heat that had no shelf" — over the picture of Randi tied up and helpless and cracked open. "I want him in here with me / I want him to see me" was last chapter's engine; this chapter it's Vee's body answering to Randi and Vee frantically shoving a joke over it ("banned from my whole bedroom"). The jacket said she'd want the woman beside her without letting herself know it, and here it is, live, and the "French thing, that's just how women like her say goodbye" self-explanation at the end is the same muscle Vee uses on everything — the deadbolt against her own knowing. Two fingers to her mouth. The green scent caught in her hair. The kiss that drew back and came back with *more.* I'm undone.
+
+And the money. God, the money threading under all of it — reading the right side of the menu first "the way you read a road in fog," the debit card and the number she'll feel on Thursday, tipping well so she's not the broke girl. The class wound, sharp and un-showy. Randi *watching her pay* and not reaching for the folder again. That's a tell too. Everything's a tell.
+
+What I'm suspicious of / afraid of: that Randi's crack means she's going to go off-script, and Pace's plan and Randi's real want are going to collide, and Vee's the one standing in the blast. And I noticed Cassie wasn't in this chapter and I felt her absence like a cold spot — the honest one is out of the room while the extraction happens. That's on purpose and it's ominous.
+
+This is the book paying off the sag I complained about in 5–10. The courtship softness was the long fuse. This is it catching.
+
+GATE 17 — How It's Done
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This is the scene my whole carry-forward was waiting for — the con run from the inside, the heat rerouted through Randi, the villain bleeding on her own machine, and Vee's yes handed over one small "yeah" at a time. Depth and charge at full tension; I'm not putting this down, I'm texting a friend at 1 a.m. about "you don't have to tell me."

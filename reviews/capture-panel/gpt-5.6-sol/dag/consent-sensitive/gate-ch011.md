@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+
+REACTION — Oh, this got me. The shirt scene got me badly—not merely because it’s hot, though yes, absolutely, Vee deliberately holding his gaze while she unbuttons that wet shirt is scorching. It’s because Pace genuinely does not know what she is inviting him back into. For once, I can see the uncertainty on his side. She stages the moment, commands his eyes, decides what he may see, and then watches him understand. The shame voice is still inside her, but she turns it into fuel rather than letting it make the decision. That feels like an awakening she owns.
+
+And then his hand is shaking. God. That changed the temperature of the whole scene. She is ready to make him the powerful one again—ready to kiss his knuckles and surrender into whatever comes next—and instead she notices his body, realizes he sacrificed his only dry shirt and stood getting colder to give her privacy, and takes care of him. Holding his hand under the flannel against her belly is somehow more intimate than anything she had been about to do. It makes them feel briefly reciprocal in a way the secret plan absolutely is not. I believe his gladness. I believe her desire. That is precisely why the eventual disclosure is going to hurt.
+
+I was watching Pace all chapter for evidence that he’d engineered her discomfort on purpose, and the book kept giving me smaller, more humane answers. He set a pace that preserved her dignity. He apologized for failing to ask about the borrowed boots. He handled her foot without eroticizing her embarrassment. He corrected the cherry pit without making ignorance into humiliation. He didn’t pounce on the dress or turn her wanting it into an opportunity to purchase obligation. And when she undressed, he waited inside the invitation she was actually giving instead of treating one invitation as permission for the next. These are real points in his favor. They do not erase that he and Randi secretly selected her, but the book clearly understands the difference, and so far it is refusing to flatten him into either saint or predator.
+
+The line that lodged under my ribs was “She had it and he hadn’t made her small to give it to her.” Yes. That is exactly why she is falling. Vee has been made to feel excessive, common, ignorant, hungry, and visible in all the wrong ways. Pace keeps giving her correction, food, attention, and desire without attaching humiliation to them. Of course this works on her. It would work on me too, and I’m annoyed about that in the enjoyable way.
+
+I’m also relieved the hike did not become the feared isolation-at-his-house escalation. Instead, the landscape swallowed Pace for a moment and let Vee experience something that wasn’t about being watched. Even his watching gave way; he let her have the view alone. That matters to me.
+
+But I noticed the darker pattern underneath all the tenderness: first the hike creates hunger, then he feeds her; the rain creates cold, then he provides the dry shirt; her ignorance creates vulnerability, then he teaches without shaming. None of those events appears manufactured, and his care is lovely. Still, he is becoming the answer to needs the day itself produces. Vee even thinks, “The hike had made her hungry first. That was the trick of it. That was what it was for.” The book knows. I am staying because it knows.
+
+And now she has walked into her dorm wearing his flannel, visibly transformed, with Cassie somewhere inside. I need Cassie’s face when she sees her. I also need to know whether Pace gets ticketed, which is absurdly mundane after all that charged stillness and therefore perfect. At 1 a.m. I would text: “She made him come back into the truck so he could watch her undress, then discovered he was shaking and warmed his hand against her stomach. I am in trouble.”
+
+GATE 11 — Leave No Trace  
+DECISION: CONTINUE  
+CAPTURE: 9  
+ALMOST-STOPPED: none  
+WHY: Vee authored the erotic moment, Pace stayed exactly within what she offered, and their sudden reciprocal tenderness hit me harder than the exposure itself. The secret orchestration remains unforgivable-in-waiting, but the book is still watching it as closely as I am.

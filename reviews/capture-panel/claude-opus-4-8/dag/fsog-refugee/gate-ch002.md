@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch002 · claude-opus-4-8 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+
+REACTION
+
+Okay, so first — I had to sit up and re-sort everything I thought I knew. The woman on the bench last night? That's *Randi*. The glamorous friend from the jacket, the one who's supposed to be steering *Vee* into the trap. And here she is coming home in last night's clothes, dissociating in a cold sorority bedroom, and I realize the person I watched get taken apart so tenderly is the *predator*. Or one of them. That's a hell of a rug-pull to do on me this quietly, and I respect it. It reframes the whole first chapter — Pace isn't the mark, and neither is she, exactly; they're two people who did something to a third girl I haven't even met yet, and last night one of the hunters got caught in her own snare.
+
+The chapter itself is cold on purpose and I felt the cold. That sorority scene is the best thing here — the four minutes of smiling warfare, Brooke not standing because she doesn't need to stand, the fraction-of-a-second pauses timed like a lie detector, "I kept thinking you'd said Chase," the whole subtle demotion of Pace down the status ladder (engineering? no, math, oh — *math*) while everyone stays sweet. I know that room. I've been in versions of that room. Rivers writes the micropolitics of women being pleasant at each other like a blood sport and it's genuinely great.
+
+But here's what's sitting heavy on me. Last night I watched a scene that gave me almost everything I read for — the asking, the safeword checked twice, the "tell me anytime," the man watching for the *real* yes instead of the performed one. And now the morning-after tells me the person who received all that care experienced it as a *catastrophe*. She got seen, and being seen is the one thing she cannot survive, so she has decided — quiet as a deadbolt — to go back behind the face and never come out. The bottle cap pressed under the thumbnail. The not-crying that isn't even a decision anymore because there's "no door." That's not aftercare glow. That's a woman with real damage, and it makes me reread last night's tenderness as something more unsettling: Pace thinks he fed a starving girl and will do it "as often as she wants to bring it to him," and he has *no idea* she just decided he'll never get her again. He's happy. She's gone. The gap between his read and her reality is the actual horror, and it's doing exactly what the jacket promised — "psychologically merciless in its tenderness."
+
+What I'm suspicious of, and what I'm going to keep my eye on: this is a book that clearly *knows* consent is its subject and is being very deliberate about it. Every yes freely given, that was the problem — yeah, I see it, the yeses are real and the damage is also real and the book isn't winking that the damage is sexy, it's showing me it's a wound. Good. That's the version of this I actually trust. But I need to know whose story I'm being asked to fall for. If Randi and Pace are about to run a *game* on an innocent Vee using this exact toolkit of beautiful attention, I need the book to hold them accountable and not just hand me their conquest as romance. Right now I'm fascinated because Randi's been revealed as broken rather than merely cruel, and that's a more interesting seat to watch from.
+
+Two chapters in, no heat in this one and I didn't need it — the cold was the point. I want to meet Vee now. I want to see the game start.
+
+GATE 2 — Standards
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: none
+WHY: The perspective flip — the bench-woman is one of the hunters, and she's the one who came away wrecked — is the smartest thing the book could've done here, and the sorority scene is razor-sharp. It's a low-heat chapter but it deepened everyone and made me trust that this book actually means to reckon with what it's doing.

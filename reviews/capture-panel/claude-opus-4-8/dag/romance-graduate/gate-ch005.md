@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch005 · claude-opus-4-8 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+
+REACTION
+
+Oh, she flipped it. Four chapters I thought I understood the machine — Randi is the recruiter, Pace is the closer, and this whole "With a Long Spoon" title has been sitting in the back of my head like a cocked gun. And now here's the seduction scene we were promised on the jacket, the coffee-shop math meet-cute, "Pace is nothing like the boys she has known, he sees Vee completely" — and I'm reading it split-screen. Vee is genuinely, gorgeously falling. The pencil-back-at-the-exact-line thing, the *may I call you*, the Euler's-at-right-angles bit that actually landed as a decent metaphor for the two of them being turned until they become "a single thing that's suddenly plain" — I felt her feet leave the floor. And the whole time I know it's staged. I watched him build a bench and take Randi apart on it in chapter one. I know exactly what those forearms have been doing.
+
+But here's what actually got me, what I'd text a friend at 1 a.m.: RANDI'S HANDS. The book doesn't tell me what she's feeling — it just keeps cutting to the coffee cup. Both hands around it a second too long. Up to her mouth and back down, no sip happens. Twice. Vee's brain going *she's bored,* and me going, no, honey, she is white-knuckling a paper cup because the man she — what, loves? owns? is owned by? — is turning the full beam on someone else, on purpose, as the plan, and she volunteered for this, and it's costing her something she didn't price in. That's the "how real it would get" from the jacket, playing out in a coffee cup. That's the whole engine of the series showing itself for one second. God.
+
+And Cassie. Cassie is the smartest person in this book and possibly the only honest one. "He looked at her the way you'd look at somebody's great-aunt." The *goodbye, Vee* last chapter — flat, the word for a longer parting — I clocked it as ominous and now Cassie's just openly narrating the con out loud while nobody hears her because they don't want to. She's the reader-surrogate who can *see* and can't stop it. I'm a little in love with her and a little scared for what happens when she keeps saying true things.
+
+What's holding me: the prose is doing the thing I came for. It trusts me. It stages the whole predatory architecture in gesture — the coffee, the *may*, the reused "Randi" one-word intro now mirrored, Vee borrowing Randi's bit and it "sitting on her better than she expected" (she's already being colonized, she's performing Randi at the man Randi sent). That's psychologically exact. That's the "merciless in its tenderness."
+
+What I'm watching for, the thing that could sour: this chapter is heat-adjacent but not hot. No skin. It's all charge and dread and craft. That's *fine* here because chapter one already proved the book can deliver the explicit, so I'm reading this as the slow tightening before the drop, not as a book that fades to black. But I want the promised collision — I want Vee and Randi and the actual bodies. Right now Vee's still fully clothed in every sense and I've had one genuinely filthy chapter followed by three of pure apparatus. I'm trusting the structure. Book, don't make me wait three more chapters of longing looks. Feed me.
+
+GATE 5 — Substitution
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none — honestly the closest thing to a wobble was noticing "her coffee had gone slightly cool" while nothing physical happened for pages, but the coffee-cup dread pulled me straight back under.
+WHY: The double-vision — Vee falling for real while I watch the strings, and Randi's little strangled hands giving away that the con is eating its own architect — is exactly the grown-up, merciless thing I've been starving for, and it's genuinely written. I'm in for how real it gets.

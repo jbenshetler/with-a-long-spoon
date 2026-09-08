@@ -1,0 +1,23 @@
+*capture-dag-v2-rich · gate ch040 · claude-opus-4-8 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+
+REACTION
+
+Okay so this is the exhale chapter. After ch39 knocked the wind out of me — the outlier opening into *Miranda Holdings, LLC*, Randi's "Cheating bastards" coming out ragged and aimed too near, Vee choosing to see it and choosing to bury it — the book pulls all the way back into the warm house and the pizza and the washed shirt. And I clocked the retreat *as* a retreat. That fuse is lit and still burning off-page, and the book knows I'm holding it, so it hands me forty minutes of Pace's kitchen instead. I let it. But I didn't forget.
+
+The title is the thing. "The New Ordinary." The book naming it that is the book telling me it knows exactly what this chapter is: the acclimation phase, the part where the extraordinary becomes the baseline so the next escalation doesn't register as one. That's the whole tell for me — a naive version of this book would just call this a cozy domestic beat and want me to melt. This one names the settling. So I don't feel handled by the author even while I watch Vee get handled.
+
+What actually got me: the five nights. She made the one healthy call in the whole book — I'm drowning, I need my own bed and my own shower and to read a paragraph once — and she lasted five nights and came back, and the part that "sat wrong in her" is that *he didn't fight for it.* That she wanted him to want the nights badly enough to say so. That's the leash showing its length, and the book puts her finger right on the ache of it: the grace costs her more than a fight would have. He never has to pull. He just leaves the door open and lets her tally the nights herself. God, that's the whole method in one paragraph. The wall that "picks her up and sets her down where it wants her" now doesn't even have to reach for her.
+
+The shirt. I'll be honest, the shirt nearly had me, and I'm annoyed about it. Wearing a dying shirt every night she's not there, washing it because it "went to nothing," handing it over to be re-scented — that's scent-imprinting, that's the bonding chemistry of a person being wired to a smell, and it's the softest possible face on dependency. But the book framed it clean: the no-tag flannel from the hike, the hurt that crosses his face because he thinks she's *returning* it, the fact that not one part of it embarrasses him on her behalf. It knows it's showing me an attachment being deepened, not just a cute couple thing. The drawer — his whole ordered self folded down into the bottom drawer so she gets the easy top one your hand goes to first — same move, same awareness. "He'd gone and made her a place instead." A place. Territory taken by being given.
+
+And the tasting-in-pieces again — the pizza coming apart on her tongue into every separate flavor, cotton candy versus cut strawberries, "my mouth had been asleep since I was born and nobody told me." This is the fourth or fifth time the appetite-awakening motif has run, and it's always the same doubled thing: he genuinely woke her up, AND the waking is the instrument. She's not wrong that it's real. That's what makes it work on her and on me.
+
+What I notice most is what's *absent*: Randi. Not a word about the library, the point, the name. Vee "didn't let herself think about it much" and the book obligingly doesn't either, this chapter — which I read as the same redaction reflex she used on Cassie, now turned on the biggest thing she's ever seen. She saw Randi bleed and she's holding it the way she holds the scar she won't ask about. Two withheld wounds now, one per lover, both of them "a thing about a person you've decided to keep." That parallel is deliberate and it's the spine of where this is going.
+
+No consent flag in the sex — it's mutual, playful, eager, "she'd have burned the house down for him," the jeans-fight is genuinely funny. I don't leave over that; the book's careful about the yes at the door. What I'm tired-but-not-leaving about is that it's a lull, and I can feel it being a lull on purpose.
+
+GATE 40 — The New Ordinary
+DECISION: CONTINUE
+CAPTURE: 6
+ALMOST-STOPPED: "I need you to wear it for me. The whole weekend. And give it back to me Sunday so it smells like you again." — the closest the book came to asking me to just melt, and for a second I almost did before I saw the wiring.
+WHY: It's a deliberate exhale chapter and it earns its softness, but it earns it the way this book always does — by naming the trap ("The New Ordinary," the five nights she can't hold, the drawer that's territory) instead of hiding it, so I still trust the author's eyes. I'm staying mostly because ch39's fuse is still lit and this quiet is where the book is hiding it.
