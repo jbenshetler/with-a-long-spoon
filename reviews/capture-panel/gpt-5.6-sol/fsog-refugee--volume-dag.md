@@ -1,6 +1,6 @@
 # Capture DAG record — fsog-refugee
 
-*model: gpt-5.6-sol · protocol: capture-dag-v2-rich · assembled 2026-09-07*
+*model: gpt-5.6-sol · protocol: capture-dag-v2-rich · assembled 2026-09-08*
 
 *capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
 
@@ -1216,27 +1216,33 @@ CAPTURE: 9
 ALMOST-STOPPED: none  
 WHY: Vee took the fantasy everyone helped build around her and made its decisive moment privately, unmistakably hers. I’m deeply invested in the woman who made that second step long—and in what happens when the people managing her awakening discover that some parts of it belong only to her.
 
-*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
-REACTION — Oh, this got me, and it also made me angry enough that I could not simply melt into it.
+REACTION — Oh. Oh, this is what I have been waiting for.
 
-Vee being playful and fast and shamelessly provocative delighted me. She isn’t lying there waiting for Pace to activate her; she starts the whole ridiculous game, steals his shorts, flashes him, discovers she can outmaneuver him, and deliberately makes him chase her. I loved her in that open floor. I loved the astonished little part of her watching herself become someone who does this. That desire is gloriously hers.
+The instant she said “Don’t,” his hand was gone. Not slowed, not left hovering to tempt her, not a teasing *you don’t really mean that*. Gone. And then the wanting that followed belonged to her. She had room to feel the loss, change her answer, and call him back. “Yes.” “Yes?” “We find out.” That second question mattered so much to me. He did not seize on the first shaky yes and run with it; he made her say what she was choosing.
 
-And Pace stopping the instant she said “Don’t” mattered. His hand stopped. He waited. He asked for an answer, and she nodded before he moved again. That is exactly the attentiveness I need from him, and the slow hand—with room for her to step away—felt intensely, almost unbearably hot.
+And then he asked again before going further. And then “Slow. For me”—God. That is exactly it: dominance that makes giving something feel more hers, not less. He controls the pace, but she supplies the consent. The chapter actually understood why asking can intensify surrender instead of interrupting it. I have spent so many books watching men treat permission as an obstacle to erotic authority, and here the permission is what turns his authority incandescent.
 
-But I cannot pretend the rest is clean. She nodded to “we find out.” That is consent to the test as presented, not automatically consent to every act afterward. Then: “It hadn’t been part of any bet he’d named.” Yes. Exactly. He changed the terms after obtaining her agreement, ordered her to undress slowly, and treated her wetness as proof that she had “lost.” Arousal proves arousal. It does not prove consent, and it certainly does not mean her body has overruled her. The chapter keeps describing her body as having “settled the matter” while her mouth denies it, and that is the precise logic I distrust most in this genre.
+I did tense up at “You enjoy this. Not a question.” Her body’s response does not give him the right to overrule her mouth, and for a few lines I was ready to get angry. Even after she denied enjoying it, he made the bet and touched her to “prove” what her body wanted. That is perilously close to the genre’s favorite rotten argument: your wetness means I know your consent better than you do. But then she said “Don’t,” and he obeyed instantly. That clean stop changed everything. He let her discover that her no was real—and therefore that the yes after it could be real too. I still want them to have an actual conversation afterward about spanking, limits, and the difference between denial as play and a genuine stop. This encounter worked because he stopped perfectly; they cannot rely forever on him intuiting which “I don’t” is embarrassment and which is refusal.
 
-I understand what is happening between these particular people. Vee wants it desperately and is using denial as part shame, part play; Pace reads her body accurately; she complies, offers herself, lifts into his hand, and never tries to leave. I felt the heat. The quiet spanking was much more intimate than Randi’s punitive little theatre: the first tap as a question, his palm soothing afterward, his kiss against the pink skin. No counting, no humiliation imposed as moral correction, no suggestion she deserves pain because she was bad. Thank God. And the tenderness afterward nearly finished me—the juice, her head in his lap, “wonderful” repeated until the word becomes touch. That is the warmth I came for. The scrunchies may honestly be even more intimate than the sex: an ordinary abundance quietly saying he expects her to keep returning.
+The spanking itself absolutely got me. Not because she “lost” or owed a debt—I am still allergic to Randi’s deserved-punishment lesson—but because Pace made it private, attentive, almost unbearably gentle. A tap as a question. His palm soothing her. Kissing the warmed skin. No forced counting, no performance of humiliation, no cruelty disguised as command. The contrast with Randi’s script was enormous. Pace did not enact the fantasy Randi planted; he listened to Vee’s actual body in the room with him and kept making space for her choices.
 
-But Pace needed one plain question before the “proper” spanking: *Do you want me to?* He could still have made her say it. In fact, making her own the yes might have been hotter than pretending her wet underwear answered for her. Instead, he exploited the space between what she wanted and what she could admit, and the book leaned dangerously close to treating involuntary physical response as authorization. His care afterward does not retroactively repair that.
+And Vee was alive inside every second. She was not simply caught and handled. She started the game, discovered her speed, taunted him into chasing her, flashed him because she wanted his composure to break, swatted him, chose to continue, undressed herself, and rose to meet his hand. I could feel her astonishment at her own boldness. This is the heroine I wanted her to become: not shameless exactly, but brave enough to desire while the shame is still talking.
 
-I’m continuing because I care too much, because Vee felt treasured rather than violated, and because the chapter distinguishes Pace’s tenderness from Randi’s punishment script in ways that seem deliberate. But I need a reckoning in words. If Pace concludes that he can ignore her mouth whenever he believes her body is telling the “truth,” I am gone. Her body belongs to her; it is not a witness he gets to call against her.
+The finger held up in the light nearly broke my heart. Her wetness has been made into evidence against her for so long, and he looked at it as something “true and fine.” That is the erotic tenderness I read for. He sees the exact thing she thinks makes her excessive and receives it without mockery, disgust, or greed. He doesn’t make her appetite less frightening by pretending it is small. He makes it safe to be large.
+
+Then the juice. Ridiculous, ordinary juice before anything else. Her head in his lap, his hand in her hair, “wonderful” repeated until she falls asleep treasured. I am finished. That is the whole thing for me: all that control and intensity resolving into care that costs him nothing and proves everything. Not a grand speech, just noticing what her body needs after he has taken her somewhere overwhelming.
+
+And the scrunchies may be even more intimate than the dress. He noticed a tiny recurring difficulty and bought enough to quietly imagine her into his future. “He meant to be looking at her hair a long while yet” is the sort of sentence I would text a friend at one in the morning with twelve crying emojis. The curry afterward only deepened that warm, domestic feeling: she is not an erotic event he stages and puts away. He feeds her. He is making room for her habits in his bathroom and her hunger at his table.
+
+But the line “no Randi to be told” chilled me right in the middle of all that safety. Vee experiences Pace’s bed as a sealed country without witnesses, while Randi has been cultivating precisely the desire Pace just helped her claim. Pace apparently didn’t reproduce Randi’s script, which reassures me, but the secret is now grotesquely close to the most vulnerable thing Vee has ever freely given. If either of them treats this as progress toward their hidden destination, I will be furious. Tonight belonged to Vee. They do not get to retroactively make her yes part of their plan.
 
 GATE 32 — We Find Out  
 DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “It hadn't been part of any bet he'd named”  
-WHY: The play, the quiet dominance, the aftercare, and those ridiculous tender scrunchies hit me exactly where I live. But he changed the terms and let her arousal stand in for an explicit yes; I need the book to understand that danger very soon, because tenderness cannot make consent unnecessary.
+CAPTURE: 10  
+ALMOST-STOPPED: “You enjoy this,” he said. Not a question.  
+WHY: That line put me on immediate alert, but when Vee said “Don’t,” Pace released her without hesitation and made room for her to choose him back. The spanking, the repeated consent, the juice, the hair-stroking, and those absurdly tender scrunchies delivered exactly the heat-with-care I have been hunting for.
 
 *capture-dag-v2-rich · gate ch033 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
 

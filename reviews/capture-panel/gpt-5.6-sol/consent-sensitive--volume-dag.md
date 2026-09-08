@@ -1,6 +1,6 @@
 # Capture DAG record — consent-sensitive
 
-*model: gpt-5.6-sol · protocol: capture-dag-v2-rich · assembled 2026-09-07*
+*model: gpt-5.6-sol · protocol: capture-dag-v2-rich · assembled 2026-09-08*
 
 *capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
 
@@ -1121,29 +1121,27 @@ CAPTURE: 9
 ALMOST-STOPPED: none  
 WHY: Vee chose the long step with no one there to guide or interpret her, and I badly needed to see that capacity still alive in her. The hidden plan remains alarming, but this chapter gave her a genuinely private act of erotic authorship inside it.
 
-*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
 
-REACTION — Oh, this is exactly the kind of scene that makes me furious because it knows enough to be exquisitely hot and then has Pace step straight across the line anyway.
+REACTION — Oh, this got me—and it also put a finger directly on the bruise I’ve been watching.
 
-The chase delighted me. Vee discovering that she is quicker than he is, stealing his shorts, flashing him because she wants him to stop holding back and genuinely chase her—that feels playful and self-authored. I loved her finding power inside her own body instead of merely discovering whatever Pace or Randi has prepared for her. Even the first spanking works for me as an organic callback to their kitchen play.
+The instant Pace said “There it is,” I went cold under the heat, because those are the exact words from the dance lesson, and Randi spent an entire afternoon preparing Vee to recognize spanking as revelation. Then Pace arrives at the same threshold almost immediately. Maybe the scene truly grew out of their play; the chapter works hard to show that it did. Maybe Randi has told him nothing. But I no longer experience coincidences around these two as innocent. “We find out” is sexy only if this discovery actually belongs to Vee and Pace. If Randi secretly handed him the map, it becomes an experiment performed on someone who thinks she is improvising.
 
-Then: “Don’t.”
+Within the room, though, Pace handled the crucial moments better than I feared. Vee said “Don’t,” and his hand vanished—not slowed, not negotiated with her no, not left in place while he persuaded her. Gone. She had to call it back. He waited for the nod before moving her underwear, asked whether she wanted to keep going, and made undressing an offering she could give rather than a foregone conclusion. That matters enormously to me. So does the gentleness of the spanking: no imported counting ritual, no moral language about what she “deserves,” no performance of punishment. It was attentive, private, and responsive to her fear. I was braced for Randi’s script to come out of his mouth, and it didn’t.
 
-Yes, his hand stops. Good. But he turns her no into a rigged contest, keeps his hand on her, and makes admission or sexual “proof” her only options. Her eventual nod authorizes him to continue touching her; it does not retroactively transform this into a fair bet. And wetness proves arousal, not enjoyment, desire, or consent. Vee already understands that distinction better than either of them—she proved it when she refused to masturbate after Randi’s story. Watching Pace use her involuntary response to defeat her stated answer is therefore not merely dicey. It hits the precise wound this book has been teaching me to watch.
+But I hated every variation of “her body had decided without her.” No. Her body disclosed arousal; it did not settle consent. The scene itself actually knows the difference—her “don’t” stops him despite her wetness, and her subsequent yes restarts things—so the repeated language feels dangerously at odds with the behavior on the page. Pace holding up the evidence and announcing that she lost also made my shoulders rise. Arousal is not a courtroom verdict. Her desire is real, but she should not have to be physically proven out of her own account of herself.
 
-And then he changes the terms again: “Slow. That’s part of the bet too.” No, it explicitly was not. That line chilled me because it reveals what the “bet” actually is: a device that lets him write new rules after she has supposedly agreed. Vee notices this. Thank God the narrative notices it. But she is already altered, exposed, and yielding when she realizes it, so her awareness cannot protect her. This is not negotiated kink. It is Pace converting arousal into authority.
+And still: the juice nearly destroyed me. Not because aftercare cancels anything—it absolutely does not—but because he did not treat her surrender as the end of his attention. He fed her, held her, praised her without turning praise into another demand, and made her feel treasured. The scrunchies were devastatingly domestic: not grand seduction, just evidence that he expects her particular body, her particular hair, to keep occupying his life. I believe his love. That is becoming the knife.
 
-Which is why, inconveniently, the spanking itself nearly melted me. The quiet, the gentling hand, the first tap as a question, the soothing, the kisses, the juice, her head in his lap, “wonderful” repeated until she falls asleep—yes, absolutely, I understand why she experiences this as being treasured. Pace is uncannily good at giving her the tenderness that allows her to survive her own appetite. But aftercare does not cure the way consent was obtained. In fact, that tenderness is part of why the power is so dangerous: he makes the surrender feel safe without first making its terms safe.
+Then Vee thinks “no Randi to be told,” and I practically yelled. Randi will be told. Worse, she may already know the shape of what happened before Vee tells her. And the continued total absence of contraception, barriers, testing, or exclusivity is now screaming. Vee is planning an overnight bag for a man whose current lover she thinks is merely her friend.
 
-The darkest sentence may be “No Randi to be told,” because Randi has already planted this entire scene inside Vee. Pace produces almost the exact threshold Randi prepared—denial, exposure, spanking, submission—without Vee knowing whether they coordinated. If Randi reported Vee’s response, this was engineered with stolen intimate information. If she did not, the parallel is still horrifying because Vee experiences the fantasy as arising naturally when someone else put it there days ago.
-
-And yet Vee’s happiness got me. The scrunchies—the abundance of them, the quiet promise that he expects her to remain—landed harder than any grand declaration could. Her decision to bring a bag feels sweet and domestic and ominous all at once: she thinks she is choosing a place in his life while still not knowing the actual shape of that life. Then he feeds her something colorful and unfamiliar after opening her into another unfamiliar appetite. I am entirely caught. I am also done granting Pace moral credit merely because he is tender while taking what he wants.
+I am wildly captured, tender toward both of them, and more frightened than ever. This was one of the hottest scenes precisely because Vee’s yes was repeatedly made visible. If Pace and Randi coordinated it behind her back, the betrayal will be correspondingly enormous.
 
 GATE 32 — We Find Out  
 DECISION: CONTINUE  
 CAPTURE: 9  
-ALMOST-STOPPED: “It hadn't been part of any bet he'd named, but she was already too far down into the warm dim place she'd gone to argue the rules”  
-WHY: The scene was intensely erotic, but the book very clearly sees the coercive mechanism: Pace treats bodily arousal as proof, converts a constrained nod into permission, and then silently expands the bargain. I’m continuing because that awareness is still on the page—but the disclosure and an actual consent conversation are no longer optional.
+ALMOST-STOPPED: “Her body had decided without her.”  
+WHY: Her body did not consent for her, and I need the book never to confuse wetness with permission. But Pace’s immediate response to “Don’t,” followed by Vee’s active return and repeated assent, tells me the book still understands the distinction—even while the hidden possibility of coordination makes the whole scene burn dangerously.
 
 *capture-dag-v2-rich · gate ch033 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
 

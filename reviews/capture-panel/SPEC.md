@@ -135,7 +135,14 @@ keep, and she loved it."). The three "Uh-huh"s now descend in register
 (laughing → wordless-steady → smaller). Future full-volume runs should watch
 whether the ch-32 flag clears.
 
-## Pending cleanup (author, 2026-09-07 — execute AFTER the v2-rich DAG lands)
+## Cleanup EXECUTED 2026-09-08 (author-confirmed)
+
+Deleted per the plan below: `dag-v1-terse/` trees and all single-go
+`<persona>--volume.md` files. Kept: funnel interviews, 4-chapter run-1
+outputs. `--volume-dag.md` records re-assembled from the v2 gates including
+the final ch-32. (Deleted material remains in git history.)
+
+## ~~Pending~~ cleanup plan (author, 2026-09-07 — executed above)
 
 The first full-volume round is superseded: the single-go arm compressed 50
 chapters of reaction into one output per reader, and the DAG v1 gates were

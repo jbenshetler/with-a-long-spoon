@@ -1,6 +1,6 @@
 # Capture DAG record — dark-romance-control
 
-*model: claude-opus-4-8 · protocol: capture-dag-v2-rich · assembled 2026-09-07*
+*model: claude-opus-4-8 · protocol: capture-dag-v2-rich · assembled 2026-09-08*
 
 *capture-dag-v2-rich · gate ch001 · claude-opus-4-8 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
 

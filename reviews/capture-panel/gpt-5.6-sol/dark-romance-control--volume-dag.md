@@ -1,6 +1,6 @@
 # Capture DAG record — dark-romance-control
 
-*model: gpt-5.6-sol · protocol: capture-dag-v2-rich · assembled 2026-09-07*
+*model: gpt-5.6-sol · protocol: capture-dag-v2-rich · assembled 2026-09-08*
 
 *capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
 

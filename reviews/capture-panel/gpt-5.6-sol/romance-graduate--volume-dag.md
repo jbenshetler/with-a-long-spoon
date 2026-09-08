@@ -1,6 +1,6 @@
 # Capture DAG record — romance-graduate
 
-*model: gpt-5.6-sol · protocol: capture-dag-v2-rich · assembled 2026-09-07*
+*model: gpt-5.6-sol · protocol: capture-dag-v2-rich · assembled 2026-09-08*
 
 *capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
 
@@ -1298,29 +1298,27 @@ CAPTURE: 9
 ALMOST-STOPPED: none  
 WHY: Vee’s deliberate second step gave me exactly the fusion I’m here for: interior change made bodily and erotic. More importantly, she kept part of its meaning from everyone—including Pace—and I desperately needed proof that her awakening could produce something no one else had scripted.
 
-*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
 
-REACTION — Oh, finally. Finally the book kept the bodies on the page instead of escorting me beautifully to the bedroom door and abandoning me there. And yes, this is exactly the combination I have been waiting for: explicit enough that her wetness is visible on his entire finger, psychologically specific enough that the real exposure is not penetration but having the abundance of her wanting witnessed and treated as good. That landed straight in the center of me. “Like it was true. Like it was fine. Like it was hers, and good.” There it is. That is the book I bought.
+REACTION — Finally. Finally the book kept the bodies on the page instead of escorting me beautifully to the bedroom door and abandoning me there. And this is exactly the combination I have been waiting for: explicit enough that I know what his finger looks like when he holds it up, psychologically precise enough that the exposure matters more than the anatomy, and tender without laundering the heat out of it.
 
-Vee discovering she can make this enormous, composed man flinch—and then discovering she is quicker than he is—made me ridiculously happy. I needed her to have some physical power that wasn’t just the power to surrender beautifully. The shorts over her head, the victory dance, flashing him to make him chase her: she was playful, shameless, young, and genuinely surprising even to herself. I loved her. She wasn’t performing Randi’s version of boldness or Pace’s version of femininity. She invented that game in real time because she wanted him, and he followed her into it.
+Vee stealing his shorts, flashing him, discovering she can outmaneuver him—I loved her here. She isn’t being carefully unveiled by two sophisticated people for once. She’s playful and bratty and genuinely surprising, including to herself. She creates the game. She escalates it. And when her “don’t” makes his hand disappear immediately, the absence tells her what she wants without him deciding it for her. That clean withdrawal followed by her “Yes. We find out” was hotter to me than any growled command from the last fifty interchangeable alphas on my Kindle.
 
-Then the spanking absolutely worked on me, especially because it wasn’t the prefab counting scene I had already been bracing for. Quiet, patient, his palm soothing after each strike, his mouth on the warmed skin—yes. Very yes. The tenderness made it hotter, not safer or less explicit. And the sheet registering against her afterward as individual threads was such a precise erotic consequence that I felt it in my own skin.
+The wet finger absolutely got me. Not because it is especially exotic, but because the book understands that her real nakedness is the *amount*: the humiliating abundance of evidence, held where both of them can see it. Then he looks at it as something true and fine about her. God. That is the entire seduction in miniature. He doesn’t argue her shame away; he receives the thing she finds shameful with delight and respect until she can begin to experience it as hers.
 
-But I hit a real snag at “Don’t.” He stopped, which matters. He asked for a choice, which matters. She nodded, which matters. Still, he had built the choice as admit the shameful truth or submit to a physical test, and then retroactively added rules to the “bet” after she was already altered and compliant. “It hadn’t been part of any bet he’d named” is the book itself raising its hand and saying, yes, notice this. I noticed. It was hot, and I do believe Vee wanted every step, but Pace’s habit of converting her desire into consent while she is too deep in sensation to negotiate remains exactly the moral fault line. He asks—then he architects the available answers.
+And the spanking worked because it was nothing like the prefab scene Randi planted in her. No counting, no naughty-girl script, no performance she can disappear into—just quiet, waiting, touch, fear, and her hips betraying what her mouth refuses. I was very aware that Randi’s story was inside Vee’s head while Pace’s actual hand was on her. The hidden couple are still circulating desire through her even when only one of them is physically present. That is incredibly hot and increasingly sinister.
 
-And Randi was in that room even while Vee told herself there was “no Randi to be told.” That gave me chills. Randi planted spanking in her imagination days ago, with the panties down and the counting, and now Pace has brought the desire into reality while apparently unaware that Vee arrived preloaded with their other lover’s story. Vee experiences this as spontaneous discovery between two people. I can see the third person inside the fantasy. The system is working even when its architects are not together, and that is both incredibly hot and increasingly sinister.
+The line about shame needing a witness hit me hard. So did the ridiculous juice. Anyone can write domination as intensity; the juice, the hair stroking, and “wonderful” are what make me believe she could surrender this deeply and wake feeling enlarged rather than used. I understand why she is falling beyond her own ability to protect herself. I am falling for him too, which is inconvenient because I still do not forgive the plan.
 
-The aftercare nearly finished me. Not some billionaire-dom checklist delivered with smug expertise: juice, because he noticed what her body needed; her head in his lap; “wonderful” repeated until praise and touch became indistinguishable. And then the scrunchies. A whole form of the exact kind she needs, silently correcting the practical helplessness that worried me last chapter. That abundance is a domestic declaration: I expect your difficult, beautiful hair to keep happening here. I melted.
+And the scrunchies—oh, that is dangerous. The dress was spectacular devotion; the scrunchies are domestic intention. He noticed the practical failure that nearly made her cry and quietly built infrastructure for her return. Then she decides to bring a bag. I have been begging her to develop actual footing in his house, and this is both exactly that and the beginning of her moving in by increments neither of them names. I melted. I also heard the lock click.
 
-More importantly, Vee says she is going to bring a bag. Thank God. That tiny sentence may be the healthiest thing she has done in several chapters. She is not merely being absorbed into Pace’s house and supplied by his competence; she is planning her own infrastructure for returning. It is still a decision to become more embedded, but it is hers, practical and conscious.
-
-Then he makes curry, because apparently this chapter intends to feed every appetite after starving me for thirty-one chapters. I am extremely in. I’m also watching Pace harder than ever. The sex convinced me he treasures her. It did not convince me he understands the difference between revealing what she wants and determining the terms under which she must admit it.
+The curry ending feels like waking into a wider appetite: color, heat, unfamiliar pleasure, a meal that resembles the bland world she knows until she tastes it. I’m ravenous too. Keep feeding me.
 
 GATE 32 — We Find Out  
 DECISION: CONTINUE  
 CAPTURE: 10  
-ALMOST-STOPPED: “It hadn't been part of any bet he'd named, but she was already too far down into the warm dim place she'd gone to argue the rules”  
-WHY: This finally delivered the explicit, emotionally intelligent sex the jacket promised, and the combination of spanking, shame, praise, juice, and scrunchies has me helpless. But that retroactively altered “bet” is not a cute detail; it is the entire ethical danger of Pace in one sentence, and I need to know whether the book will make him answer for it.
+ALMOST-STOPPED: none  
+WHY: This is the depth-and-heat book I was promised: explicit, charged, emotionally intelligent, and tender without becoming coy. Vee’s yes is unmistakably hers in the scene, while Randi’s invisible presence and the undisclosed plan keep that yes morally volatile outside it.
 
 *capture-dag-v2-rich · gate ch033 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
 
