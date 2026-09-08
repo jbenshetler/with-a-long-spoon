@@ -122,6 +122,19 @@ opus+sol × 4 personas; `dag/` trees + `--volume-dag.md` records).
   "barely held — it hasn't mattered in chapters." Long-gap plants may want
   refresher beats; author's call.
 
+## Prose revision traced to this instrument (2026-09-08)
+
+`we-find-out` (ch 32) consent mechanics revised on the Sol consent-sensitive
+DAG reader's flag ("silently expands the bargain… converts a constrained nod
+into permission"): Vee now initiates the game (kiss + swat + "You want to play
+that?"), a steady-nod check gates the penetration threshold ("Her breath was
+not steady, but the nod was"), a quiet verbal check gates bare-bottom ("Do you
+want to keep going?"), and the false bet-expansion is replaced by an open
+request received as power ("Slow." / "For me." → "It was hers now, give or
+keep, and she loved it."). The three "Uh-huh"s now descend in register
+(laughing → wordless-steady → smaller). Future full-volume runs should watch
+whether the ch-32 flag clears.
+
 ## Pending cleanup (author, 2026-09-07 — execute AFTER the v2-rich DAG lands)
 
 The first full-volume round is superseded: the single-go arm compressed 50

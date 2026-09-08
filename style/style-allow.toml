@@ -6535,6 +6535,13 @@ text = "She'd worn the black strappy heels and the wrap skirt for him, more than
 note = "Not the held-past figure (author ruling 2026-08-09, line edit). Ordinary comparison naming the occasion, not a duration measured against a function it exceeds; it calibrates the Friday for the reader and does characterization. The doubling it used to sit in ('it felt like she'd tried too hard') was cut in the same pass. Ledger #59/#60: rule the shape, never the count."
 
 [[ok]]
+fp   = "843ea3b6628d"
+rule = "not-x-but-y"
+file = "scenes/we-find-out.md"
+text = "Her breath was not steady, but the nod was."
+note = "Author-approved 2026-09-08: antithesis is the consent design - arousal separated from signal (ch32 revision)"
+
+[[ok]]
 fp   = "0614a61703d6"
 rule = "the-way"
 file = "scenes/we-find-out.md"

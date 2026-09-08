@@ -26,7 +26,13 @@ He came up off the couch in just his shirt to come and get her, his interest pla
 
 It worked. Something changed in his face. She backed toward the hall, and then she broke and ran, and the running was the mistake, because the hall gave onto the bedroom and the bedroom was small and had no floor to lose him on.
 
-He caught her in the bedroom. She was up on her toes, the heels still on, in the middle of her own victory dance with his shorts held high, when his arm came around her waist and folded her back against him, all of her against all of him, and his hand came down once, open, across the seat of her underwear.
+He caught her in the bedroom. She was up on her toes, the heels still on, in the middle of her own victory dance with his shorts held high, when his arms came around her and folded her back against him, all of her against all of him — a catch that turned out to be a hug, his laugh in her hair. She twisted around inside it and kissed him through her own giggling, and then, on an impulse from nowhere she'd ever been, swatted his backside with her free hand. It was like slapping the workbench. He didn't even rock.
+
+"You want to play that?"
+
+"Uh-huh." Still laughing.
+
+His hand came down once, open, across the seat of her underwear.
 
 She went still.
 
@@ -66,6 +72,10 @@ And then the hand went the rest of the way, slow enough that she could have step
 
 When it reached the gusset of her underwear his fingers pressed flat, and the wet satin slid against her, confirming her fears. He smiled, and her own breath went ragged.
 
+He looked up from his hand to her face, and waited, asking nothing out loud.
+
+She nodded. Her breath was not steady, but the nod was.
+
 He drew the satin aside, and there was his finger, and she braced somewhere low for it to be difficult, for there to be at least the dignity of a threshold to cross. There was none. He slid into her and her body took him without a question, smooth and hot and already given, as though it had been waiting all afternoon to be asked and was relieved, finally, to answer. Too easy. The ease went through her worse than any sting had. Her body had decided without her. It had decided every night this week in the dark and hadn't thought to tell her, and now it was telling him.
 
 He pumped her slowly, a few times, while she stood there and let him, and then he drew his finger out, slow, and she felt the leaving of it like a small cry she didn't make. He held it up. It was not just the tip. The whole length of it was coated, gleaming in the lamplight, more of her than she would ever have admitted she had in her, and that was the old shame doubled, the wet and then the shameful plenty of the wet, the thing about her body she had spent her whole life trying to keep secret even from herself, and now they could both see exactly how much of it there was.
@@ -78,13 +88,19 @@ Her tongue touched her lip before she knew it meant to, a small moist motion she
 
 She didn't have the rest of it. He raised his eyebrows and tipped his head a little to one side and smiled at her and said nothing at all, and did not move the finger from where it was between them.
 
-"You lost," he said, gently. "Spanks from a lost bet come on a bare bottom." He looked at her a moment longer. "All of it. Leave the shoes."
+"You lost," he said, gently. "Spanks from a lost bet come on a bare bottom."
+
+He tipped her chin up and kissed her, slow and quiet, and asked against her mouth: "Do you want to keep going?"
+
+"Uh-huh." Smaller than the one in the den, and with a nod.
+
+"All of it. Leave the shoes."
 
 She reached for the waist of her underwear and started to push it down fast, to get it over with, and he stopped her with a word.
 
-"No. Slow. That's part of the bet too."
+"Slow." A beat. "For me."
 
-It hadn't been part of any bet he'd named, but she was already too far down into the warm dim place she'd gone to argue the rules, and so she did it the way he wanted, peeling the satin down over her hips and her thighs and stepping out of it under his eyes, and then her top, up and over her head, and then the bra, which she had to reach back and unhook herself, the last of her cover, and let fall. There was nothing she could do about what it showed him: her nipples had drawn up hard and stood out from her, tight and bright and plain, the spanking and the wanting both written on them, and he looked, and she knew he looked, and they were not answering the spanks he'd already given so much as asking for the ones he hadn't.
+Something turned over in her, low and bright, before she understood it: he had *asked*. It was hers now, give or keep, and she loved it. She gave it slow — the satin down over her hips and her thighs, stepping out of it under his eyes, and then her top, up and over her head, and then the bra, which she had to reach back and unhook herself, the last of her cover, and let fall. There was nothing she could do about what it showed him: her nipples had drawn up hard and stood out from her, tight and bright and plain, the spanking and the wanting both written on them, and he looked, and she knew he looked, and they were not answering the spanks he'd already given so much as asking for the ones he hadn't.
 
 She started toward the bed and he stopped her. "Not yet." He turned it down, slow and careful, the blanket drawn off and folded over the chair while she stood naked in her heels and watched him make the place ready, and she understood, watching, what she was watching: the place where the debt would be paid, and she the payment. She was being offered up to her own wanting, and both of them knew it, and she stood still and let the place be made.
 
