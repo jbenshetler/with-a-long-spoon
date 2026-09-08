@@ -50,6 +50,24 @@ mark items done with dates as they complete.*
   point — required for the indie lane, see `meta-plan-free-sample.md`). All
   three are **wide-release** back matter, deliberately absent from the test
   epub.
+- [x] **Capture/retention panel (simulated target readers)** — standing
+  instrument, run 2026-09-07/08; contract and results in
+  `reviews/capture-panel/SPEC.md`; harnesses `tools/capture_panel.py`
+  (4-chapter sample, jacket/cold arms) and `tools/capture_dag.py`
+  (full-volume cold-reader model: per-chapter runs, reader-owned decade
+  mints, STOP gates). Persona panel = romance-graduate, FSoG-refugee,
+  consent-sensitive, dark-romance-control (the wrong-reader control, whose
+  stops are successes). What it measures at this stage: per-chapter
+  capture/survival, almost-stopped moments, trust-ledger drift, Book Two
+  conversion, and the tiered comeuppance funnel. Already produced prose
+  revisions (`we-find-out` ch32 consent beat, flag→fix→re-measure loop) and
+  the cold-posting framing rule in `meta-plan-free-sample.md`.
+  **Re-run triggers:** any substantive revision to a Vol 1 chapter (re-read
+  the affected gates, as done for ch32); the Vol 2 draft-complete milestone
+  (fresh DAG); before the human beta round (its hypotheses — the ch-2 dip,
+  gate-3 cold exposure, comeuppance tripwire — shape that round's question
+  set). Simulated readers are hypothesis generators; the human pipeline below
+  is the confirmatory instrument.
 - [ ] **Beta/test-reader pipeline** — full plan in `meta-plan-test-readers.md`
   (recruit → collect → deliver channel layers, intake screener, Helen Rivers
   recruit copy, behavioral-first question set). Value at *this* stage is
