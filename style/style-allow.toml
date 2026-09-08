@@ -6626,6 +6626,13 @@ text = "She just knew it was there, the way you know a thing about a person you'
 note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
 
 [[ok]]
+fp   = "de64e7c268a6"
+rule = "the-way"
+file = "scenes/we-find-out.md"
+text = "And the hand came back, and went the rest of the way, slow enough that she could have stepped out of it the whole distance and didn't."
+note = "Author-approved 2026-09-08: literal-distance sense (the rest of the way), not the filtered construction; re-armed by the We-find-out beat rewrite"
+
+[[ok]]
 fp   = "093bc9658833"
 rule = "there-was-were"
 file = "scenes/we-find-out.md"

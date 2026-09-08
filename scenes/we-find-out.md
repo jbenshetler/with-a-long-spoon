@@ -58,17 +58,17 @@ He didn't move it for a moment, just let it rest there, warm and hard, the palm 
 
 "Don't," she said.
 
-The hand stopped. He didn't take it away.
+The hand left her. Not a pause — gone, the whole hot pressure of it, his palm turned up and away like a man showing empty hands.
 
-"Do you admit you lost?"
+She breathed out what should have been relief. What came back in was not. She had wanted what his hand had been threatening. Promising. She had shooed it away, and she wanted it back.
 
-"No."
+"Yes," she said.
 
-"We find out." He left it where it was, warm on her thigh, and watched her, and let the quiet run on, a slow second and then another.
+"Yes?"
 
-Surprising her, her own head went up and down, small. She dreaded it, and some part of her wanted him to know anyway.
+"We find out."
 
-And then the hand went the rest of the way, slow enough that she could have stepped out of it the whole distance and didn't.
+And the hand came back, and went the rest of the way, slow enough that she could have stepped out of it the whole distance and didn't.
 
 When it reached the gusset of her underwear his fingers pressed flat, and the wet satin slid against her, confirming her fears. He smiled, and her own breath went ragged.
 
