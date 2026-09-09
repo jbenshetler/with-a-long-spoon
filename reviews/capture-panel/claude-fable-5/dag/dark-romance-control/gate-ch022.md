@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch022 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+
+REACTION
+
+Okay, Helen Rivers, you absolute menace, you put the whole con in a stats lecture and made the professor read it in a cereal-box voice. Simpson's paradox. "Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them." THAT'S THE BOOK. That's the entire book, red-dotted on a projector while Vee sits between her two handlers taking honest notes. Every single scene of this relationship, taken on its own, is the best thing that's ever happened to her — the dress, the fitting, the fra diavolo, the pit laid next to hers. Nothing was taken. Every yes freely given. And when you aggregate it, the answer reverses. Nobody touched one of the numbers. I actually put the book down and stared at the wall for a second. She sat through the thesis of her own life and gave it forty seconds of pen movement and came back up to talk about shoes.
+
+And the SHOES. This is the part I'd be texting at 1 a.m. in all caps: Pace built the dress onto her body, and now Randi has claimed the shoes, wrist-grab, "don't you dare tell me no," and Vee felt it go through her WARM. They are dressing her together. They've divided her body up like a garment district — he takes silk, she takes leather and heel height (a heel height Vee "hadn't known to need," excuse me, Randi already knows what height Vee needs, Randi has been to that house, Randi knows exactly how tall you have to be next to that man). Vee is going to walk into that induction wearing an outfit that is fifty percent his hands and fifty percent hers and call it hers. The seat they left open BETWEEN them. She sat down in the middle of them like it was luck.
+
+"You lucky slut" — and it landed low, on the soreness, on the account her body's been keeping since eight. Randi found the one snag in the gold of the day within a minute of fishing. She always finds the snag. That's what the fabricated bad-sex stories were for, that's what the lunches were for: sonar. And now she's converted the snag into a Saturday alone with Vee, which is the real product. The shoe date isn't about shoes any more than the fra diavolo was about food. It was never once about the food.
+
+Cassie though. Cassie is killing me softly. Never looked at the professor once. Doesn't care about the dress, has never cared about anyone's feet, cares about the one thing in the room nobody else is measuring: what the dress DID to her friend. "Was it a good night?" and the "Oh, yes" that came out with more in it than the word carries — and something eased in her face and she picked her highlighter back up. She's the only person in this book who wants Vee at zero cost, and she just got handed a curated answer and accepted it, and the eyebrow went up at the shoe date and CAME BACK DOWN. She registered it. She filed it. She's the last working instrument on the panel and Vee keeps gently powering her off. When Cassie finally says the thing out loud I'm going to need a day off work.
+
+And the last line — "happy and starving," the jacket's own words walking around in daylight, "the dress three blocks back in a closet, still shown to not one living soul." He's seen it. She counts him as not-a-soul-that-counts, or she counts him as part of herself now, and either reading is terrifying. Also: bench watch, chapter twenty-two, still nothing. Rivers, I know where my kneecaps are, come collect.
+
+Is this a quiet chapter? Yes. Classroom, banter, no skin. But it's quiet the way a room is quiet when two people in it have already agreed on something. This is what I mean by knife under silk — the warm domestic morning IS the threat now, and the book knows I know, and it put the proof on a projector and moved on. That's confidence. I'm in.
+
+GATE 22 — All Told
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: A no-sex classroom chapter should be my exit ramp and instead it handed me the con's mathematical proof and gave Randi custody of the shoes. The teeth are in the aggregation now — same numbers, nobody touched one of them — and Saturday alone with Randi is a fuse I will absolutely stay to watch burn.

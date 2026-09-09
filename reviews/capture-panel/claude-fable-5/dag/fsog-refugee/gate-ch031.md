@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch031 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+
+REACTION
+
+Okay, first: Cassie. Cassie walked her to the door, Cassie held her phone, Cassie took the picture, Cassie is buying the sandwich. I have been on that hill for ten chapters and the book just came and stood on it with me. "Go make your mother cry again" — "her eyes had gone bright at the corners... which she'd deny to the grave" — that's the friend Vee's been ghosting, showing up whole anyway, and it did more to me emotionally than the leg did. The people running Vee weren't even in the room. Pace in Berkeley, Randi nowhere. The one witness at the induction was the one person who loves her for free. I don't think that's an accident and I don't fully trust it either — the book doesn't spend characters, and it just spent a whole warm chapter reminding me what Vee stands to lose or keep.
+
+Now the walk. God, the walk. "She took a breath, and made the second step long." That's the sentence I've been reading three hundred pages for — nobody in the room steering her, nobody's hand on her, no one even watching until she *made* them watch. Her desire, from inside, chosen a half-second before her head caught up, and her body coming up to meet her own decision. That's the thing I hunt this genre for and almost never get: heat that belongs to her. And then she sat back down and put her hand on the seam and it was over and only she kept it — "only she was left with it, running under the dress in the good light." I felt that in my own chest. The photo, too — sending Pace the uncropped frame knowing he'll see the dress and never see the second underneath it. "That part was hers." A secret she's keeping *from* the architects, for once. I actually said "good girl" out loud to my kitchen.
+
+But I'm not stupid, and the book knows I'm not, and that's why I'm still a little cold under all the warm. She was bare under that dress because *the dress required it* — he cut it that way, lined it only where he decided, and now her most self-authored erotic act to date happened inside a garment engineered so that wearing it fully meant wearing nothing. Randi picked the heels the dress "wanted." The plum on her nails is Randi's plum. Vee walked her own walk on a stage two other people dressed. Is the long step hers? Yes. Completely. Was the menu she chose from written by them? Also yes. That's the whole book in one stride and I can't tell anymore where the seam is, which — fine, Helen, that's the point, "nobody touched one of them, the grouping is the lie." I see you.
+
+And the line that put a pin in me: "How did I look?" It was the only thing in her head. The whole walk. Not *I did it*, not the scroll, not her name in the good room — how did I look. Somebody installed that question. I remember who turned her to the mirror and watched her like her own good work. The last sentence is the honest version of my worry — she can't tell pride from heat anymore, "or whether, by now, the two came to the same thing" — and the book saying it out loud instead of winking past it is exactly why I'm still here. Also: where was her mother? Cassie invoked her and she never appeared. I was promised a collision — dress, debt, mother — and I got a reprieve instead. Reprieves in this book are loans.
+
+Text I'd send at 1 a.m.: *she did the walk HERSELF, nobody made her, and I cheered, and then I remembered who made the dress require it and now I'm lying here doing Simpson's paradox about a slit.*
+
+GATE 31 — The Induction
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This is the payoff chapter for everything I care about — her desire rendered from inside, freely chosen, no one's hand on her — and the book had the nerve to make me notice the stage was still built by other people. Cassie came back. I'm not going anywhere.

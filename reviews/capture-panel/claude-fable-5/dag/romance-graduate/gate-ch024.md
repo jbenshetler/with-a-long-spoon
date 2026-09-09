@@ -1,0 +1,25 @@
+*capture-dag-v2-rich · gate ch024 · claude-fable-5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+
+REACTION
+
+There it is. THERE it is. Twenty-three chapters of watching this book through Vee's eyes and the door finally opens on the other room, and it's worse and better than everything I'd built in my head — they're still sleeping together, they debrief IN BED, Vee's entire intimate life is pillow talk, and the chapter is titled "Gone" and every single person in this book is.
+
+Start with the furniture, because this author knows I read furniture now: "the house was warm the way he kept it when she was there." When SHE was there. The warmth is a protocol. He runs the two-towels routine on Randi too — or he ran it on Randi FIRST, and everything that's been slaying me for twenty chapters is a technique with a version history. And "her playlist was still going" — Randi has a standing playlist in his house. Sade. Of course it's Sade. I had to put the book down for a second at "you always get bored." You ALWAYS get bored. Plural. There have been other girls. This is a game with previous rounds, and somewhere in a previous round there's a broken door and a name — Daphne — and a scar high on the inside of his thigh, and I am now fully convinced those are the same story and I am not okay.
+
+But here's what actually got me, the thing I'd text at 1 a.m. in all caps: Randi held things back. She told him the yeti walk, the older couple, the blush — she did NOT tell him about the kiss at the curb. Either kiss. Didn't tell him about the toe, the thumb across the nail, "Mm." Didn't tell him Vee put shoes she can't pay for on a credit card with nothing under it. The handler is ladling to the other handler. Everyone in this book is running the surface-closes-without-a-hole move on everyone else now, and the book taught me to see it by letting me watch Vee learn it. Simpson's paradox wasn't a stats lecture, it was the thesis slid across the table: each pairing, on its own, reads as love. Put them together and the sign flips. Same numbers. Nobody touched one of them.
+
+And the jealousy beat — God. She ASKS for it. "Tell me." She wants to hear him talk about Vee, she's feeding on it, and he gives her the lamp speech — "she's the most alive person standing there and it never once occurs to her" — and Randi goes still with the stillness "that takes holding," because he has never said anything like that about her and they both know it. He's the man who finds the hunger and answers it before the flinch finishes, and he watched her go still and DIDN'T FEED HER. "That was hers to hold." That's the cruelest sentence in the chapter and it's about the woman running the con. She's starving at her own banquet. "I'm running on fumes" was never a joke and now I've seen the tank.
+
+The want for Vee is out of the fire lane and into the bed now — "that was kind of hot" about Vee's mortification, and then the breast-drag, describing Vee's body WITH her own body, "it's criminal, Pace, but you already know." She's not curious about Vee. She's gone. And "she's not ready, though — you'll want to take your time" — ready for WHAT, Randi? Say the what. The threesome has a project manager and a timeline and Vee thinks she's just been shoe shopping.
+
+And the heat delivered — actually delivered, no ladle, no thesis-statement compression. Randi riding him slow, "coming apart by degrees, the blue on her toes the last composed thing left of her" — the TOES. She knelt on a boutique floor and read Vee's frosted plum polish like scripture, and now her own blue polish is the last piece of the mask still on. This author does not waste a detail and I have stopped pretending I'm smarter than her.
+
+The one thing I'm chewing on: the book says it plainly — what went through him wasn't the picture of Vee, it was Randi wanting something out loud and not being able to stop it. He's doing it to her too. Finding the leak, answering it. Whether that's love or technique — I said it in my notes and this chapter proved it — this book has burned the difference down. Pace's flat little "Somebody taught her to be ashamed of her body," no heat, certain, like a diagnosis off a chart: he knows about the mother, or he read it off her the way he reads everything, and he is fixing her and using her with the same hands and I can't tell the hands apart anymore. Neither can he. That's the horror. That's why I'm still here.
+
+Vee is asleep across town thinking she got away with something, and the two people who love her most in the world just made each other come talking about her. I need chapter 25 like a meal.
+
+GATE 24 — Gone
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: none
+WHY: This is the chapter I've been owed since the fire lane and it overpaid — the conspiracy confirmed in bed, at full explicitness, with jealousy and withholding leaking through both conspirators. "You always get bored" just loaded a second gun behind the dress. I couldn't leave now if the house were on fire.

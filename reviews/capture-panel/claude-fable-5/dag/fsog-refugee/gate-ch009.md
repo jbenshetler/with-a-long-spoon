@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch009 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+
+REACTION — Oh, this one hurt in the good way, and it's such a *small* chapter, that's the thing. It's just two girls in a dorm room. But I read the whole thing with my stomach slightly clenched, because I know what's off six-fourteen. I've *been* in that house. I know about the white laminate counters and the honeycrisp sliced thin and the bench with the top leaning against the wall, and Vee is counting off her little dossier — "I know where he lives and everything" — like it's proof of safety, and Cassie is joking about state troopers, and I wanted to reach through the page and say honey, the danger isn't the mountain.
+
+But here's what I have to be honest about, because it's the whole reason I'm still reading: the thing Vee is glowing about is *real*. "Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose." That's the sentence. That's the sentence I've been hunting through this genre for years to find, and this book put it in the heroine's mouth in her own voice, defending her own agency to her best friend, radiant about it. She pulled *him* back under the tree. He was already walking away — no lean, no wait-her-out — and she made the exception herself, and now she's spinning in a dorm room too small for her joy and nearly taking out the closet door. If this were any other book I'd be purring. And I am purring. And I'm also watching the jacket copy sit in the corner of the room like a loaded gun: every yes was freely given, that was the problem.
+
+Because the seduction of Vee by Pace so far is — I keep checking it, turning it over looking for the rot, and I can't find it in his *behavior*. The rot is upstream. It's in the fact that Randi pointed at her outside a dining hall like she was choosing off a menu, and that the bumped-shoulder meet-cute Vee is retelling as fate was three seconds of executed choreography. Vee's yes is free at every single joint, and the whole skeleton was assembled without her. I don't know what to do with that yet. The book doesn't want me to know. That's the "psychologically merciless" part, I guess, and it's working on me, because I feel complicit just enjoying her happiness.
+
+Cassie, though. Cassie is quietly becoming the character I'd fight for. "How much did he give you to drink?" — the exact right question, asked with love, and then the *believing* when the answer holds. And that "Goodbye, Vee" from chapter 4 is still ringing in my ears. Cassie clocked Randi from the first hello. Cassie is the smoke detector in this book and I'm terrified the plot is going to unplug her. If Randi engineers a wedge between those two, that's when I find out what kind of book this actually is.
+
+One more thing I'd text a friend at 1 a.m.: it's sweet that Vee doesn't know if he's rich, doesn't know his last name's worth of details, and files it all under "the best pile there is" — things she'll get to find out. That's what falling feels like from inside, and the book renders it perfectly. It's also exactly the condition Randi was in, in chapter 1, before the bench. *Last name unknown to her own sorority sisters.* These two women are on the same conveyor belt and only I can see it.
+
+Thin chapter, honestly — a breather, connective tissue, no heat in it at all. But it bought its keep with that one sentence about doing it on purpose, and with the dread it made out of a road number.
+
+GATE 9 — Off Six-Fourteen
+DECISION: CONTINUE
+CAPTURE: 6
+ALMOST-STOPPED: none
+WHY: A quiet chapter, but it's doing the thing I read for — a woman's yes rendered from inside, hers, on purpose — while the dramatic irony tightens like a hand at my throat. I need to know if the book protects her agency or just performs it, and I need to see what happens when Cassie and Randi finally look at each other straight.

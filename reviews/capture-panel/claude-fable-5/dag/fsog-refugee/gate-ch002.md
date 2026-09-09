@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch002 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+
+Ah — so this is the *before*. I went back and reread the jacket after "There you are, Randi" landed at the end of chapter one, and I've been carrying that little shock into this chapter: this is the woman who's going to steer Vee into Pace's path, and the book is showing me how she got made first. Or unmade. I'm not sure which yet, and that not-knowing is doing something to me.
+
+Chapter 2 has no heat in it at all and I didn't miss it, which surprises me. What it has instead is Brooke, and Brooke *scared* me more than the bench did. That interrogation — four minutes, all smiles, nobody stands up, and Randi gets stripped more efficiently in her own common room than Pace stripped her in his bedroom. The difference is the whole book, isn't it? Pace undressed her on one knee, folding each thing, watching her pulse, waiting for the weight-shift before he moved. Brooke does it seated, warm-voiced, "Engineering, isn't it," knocking him down a peg without reaching, and then *ends the conversation because she's decided it's over*. That's the coercion I've spent years walking out of books over — except here it's not being sold to me as sexy. It's being shown as the water Randi swims in. The house is where her no doesn't matter. His bedroom is the only place anyone's ever asked.
+
+And then the room. God, the room. Walking to the vanity and not sitting, walking to the bed and not sitting, opening the closet and forgetting why. The duvet that "was a duvet" — because last night a man tucked cashmere around her shoulders, the blanket *she* brought, and held her while she leaked, and now everything adequate in her life has been quietly ruined. That's the kind of after-sex writing I almost never get: the sex mattered, so the Tuesday-morning world is now the wrong temperature.
+
+The line that's going to keep me up is *"He's hard to say no to,"* heard in a different key. My whole radar went off — that's the sentence a hundred bad books use as a bow on top of a stalker. But I don't think that's what it's doing here. He isn't hard to say no to; he's the only man who's ever made her yes mean anything, and I think what she can't say no to is *being found*. That's so much more frightening to her than force would be, and the book knows it. She locked the bathroom door and he sat on the bed and didn't knock. Her sorority house doesn't even have doors that work — Brooke walks through smiles like they're open archways.
+
+What unsettles me — in the good way, the way I bought this book for — is that I can feel the tragedy assembling. She decided in that mirror: he gets the face, not her, not ever. And the jacket tells me where that decision goes — it goes to Vee. Randi couldn't survive being seen, so she's going to arrange for someone else to be seen, and watch. I'm ahead of Vee, exactly like the blurb promised, and I already feel complicit and I haven't even met the girl.
+
+The not-crying at the end — "it felt like there being no door" — hollowed me out. A held breath that stops feeling held. I know women like this. I've *been* adjacent to this. Two chapters in and the most explicit thing this book has done to me is a girl lying under a synthetic duvet with her shoes on.
+
+GATE 2 — Standards
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none — though "*He's hard to say no to,* she heard, in her room, in a different key" made me put the book down for a second to check what the book thought it was saying. It knew.
+WHY: No sex, and I didn't care — the chapter made the bench mean more by showing me the world Randi has to carry it back into. If Pace's consent stays this clean while Randi turns into something colder, this is the exact book I've been hunting for years, and I need to see Vee walk in.

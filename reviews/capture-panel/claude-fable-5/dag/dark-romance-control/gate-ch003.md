@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch003 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+
+REACTION —
+
+Okay. OKAY. So the jacket told me there was a plan, and I've just watched the plan get BORN, and I got to be in the room for its conception, and I am feral about it.
+
+Let me be honest about where I was after chapter 2: a little nervous. Chapter 1 gutted me in the best way — the bench, the begging, "there you are, Randi" is going to live in my head rent-free forever — but chapter 2 was a girl lying under a duvet with her shoes on, and I was worried the book was going to go all interior literary sad-girl on me and forget it promised me teeth. Chapter 3 opens with him sliding into her mid-orgasm before she can get her armor back on and asking "Would you like to taste another woman?" INTO her body, so that her body answers before she can lie. And she COMES from the question. That's the exact thing I read for. Her mouth is still drafting the press release and her body already signed the confession.
+
+And here's what has me actually unsettled, in the good way, the way I want to be unsettled: Pace is the softest-spoken predator I've read in ages and I cannot decide how afraid of him to be. Everybody's clocking him wrong — my usual guys kidnap you, chain you, snarl. This man builds you furniture. He slices your apple thin because he's catalogued your eating disorder. He watches you press a bottle cap into your nailbed and says nothing and FILES IT. He asks permission for everything and controls absolutely everything, and the asking IS the trap — "he asks before he takes" from the jacket read wholesome to me in the store and now it reads like the scariest sentence on the back cover. He didn't choose Vee. He made Randi choose her. He stood at a light pole "far enough back to be nobody" and watched his girlfriend execute a shoulder-check con so clean the TARGET apologized. That's the knife under the silk. That's a man conducting an orchestra where the musicians think they're improvising. I don't need him to snarl. I need exactly this: a man whose gentleness is a load-bearing wall of a machine you can't see.
+
+And RANDI. Oh my god, Randi. The whole "only in a threesome — with you" move — she took her own hunger, gift-wrapped it, and handed it to him so she wouldn't have to own it, and he SAW her do it and let her keep the wrapping paper because the wrapping paper serves his purposes. That's two predators grooming each other and neither one fully knows who's the mark yet. Because here's my 1 a.m. text: Randi thinks she just picked a toy. Pace thinks he just gave his girlfriend a gift. And the JACKET already told me this gets real for both of them — that Vee, the laughing redhead with her throat bared to the sky, the only person on that entire quad not holding the wheel, is going to walk into this spiderweb and somehow everyone ends up caught. Randi's bare little "Yes" before she could dress it — that flinch — she wants that girl the way she begged on the bench, helplessly, and she is going to spend this whole book pretending she's doing it for him. I am SICK about it. Delighted-sick.
+
+The one thing that made my eye twitch: the pointing-game walk runs long — I did not need quite that much maple and colonnade and wind, and there's a stretch of camel coats and matched athleisure pairs where I was skimming for the next hit. And Pace's little internal "she deserved that gentleness, he wanted it for her" almost tipped too warm for me — except it doesn't count as wholesome when the gentleness is a delivery mechanism. It's not. It's grooming with a candle lit. Carry on.
+
+"Let's go feed you." After a chapter about her not letting herself eat. He's going to feed her Vee. I need chapter 4 immediately.
+
+GATE 3 — The Pointing Game
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none — closest was drift, not exit, in the long quad catalog around "A tall girl alone, walking fast, AirPods in"
+WHY: The question asked into her body mid-orgasm, the choosing that's actually being chosen, and the mark walking toward the web laughing — this is my exact drug, dressed better than usual. Pace scares me precisely because he never raises his voice. I'm not leaving before Vee sits down at that lunch.

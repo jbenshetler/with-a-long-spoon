@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch029 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+
+REACTION — 
+
+Oh, this one got me in exactly the tender place, because it starts with her trying so hard to arrive correctly. The shoes, the scarf, the pie, the little prepared speech — all of it is Vee trying to make herself into a woman who can repair something without collapsing. And then the second she sees him she’s taller than him, and her whole apology falls apart because she’s so trained to read herself as wrong. That panic over the heels was almost painful. She came there to honor him, and instantly believes her own body has insulted him by existing at the wrong height.
+
+And Pace. God. “Leave them on.” That was such a Pace answer. He doesn’t make her smaller to restore himself. He doesn’t require the usual little gender performance from her. He just receives her beauty as beauty and refuses to be wounded by it. That is the dominance I want: secure enough not to need her lowered. He steadies the pie, fixes the scarf, lets her stand. That did more for me than any grand forgiveness speech would have.
+
+I loved that he didn’t let the apology be only a polished object. She came with the clean version, the acceptable version, and he very gently asked for the truth underneath it. Not to punish her. Because he actually wanted to understand the injury. And she gave it to him. That felt like real intimacy to me, more than the sex that followed. She admits the ugly part: that she wanted the lie because it confirmed the shame waiting inside her. That is so much more honest than “that girl made me jealous.” It’s “some part of me was just standing there waiting for one.” Oof.
+
+The Sunday kitchen scene was ridiculously hot to me because it came out of play and domestic ease. The dishes, the soaking argument, the tickling, the slap she gives him first — and then his one swat changes the air. I like that the book lets her body surprise her before her mind can make a story about it. He sees it and freezes, watching her face, and she chooses him immediately, almost desperately. That could have gone wrong in another book. Here it felt like discovery, because the moment is small, mutual, and he is paying attention. Still, I noticed that he didn’t ask before the swat. I’m not angry exactly, because she had just smacked him playfully and they were in that current together, but given what I read for, I felt that little internal check. The book earned some trust with me before this, but I did notice.
+
+The two-night stay made me ache. Her smelling like him head to foot, wearing his clothes because she has nothing of her own, saving the one bra for Monday — there’s something so young and real in that, the gorgeousness and the inconvenience tangled together. It’s sexy, yes, but also materially awkward: she still has classes, hair, no clothes, no time. And then he doesn’t dismiss her panic. He doesn’t say “you look fine.” He gathers her hair and says, “You’re always beautiful.” I would have folded. I did, basically.
+
+Randi’s fingerprints are all over this chapter even when she isn’t there. The shoes and scarf get Vee through the door, and I love the glamour of that, but I’m also uneasy because Randi taught her how to arrive at Pace. Vee’s confidence is becoming a shared construction between them. It’s beautiful and dangerous. Randi helps her stand taller, literally, and Pace accepts her at that height. That triangle is getting more emotionally real by the chapter, which makes the original secret feel less like a twist and more like a debt accruing interest.
+
+GATE 29 — A Recognized Method  
+DECISION: CONTINUE  
+CAPTURE: 9  
+ALMOST-STOPPED: "It landed. Once. His left hand, warm and wet from the dishwater, open and flat across the curve of her where the shirt had ridden all the way up..."  
+WHY: I had a real consent-check flicker there, because surprise spanking can turn into exactly the kind of thing I hate when a book treats a heroine’s body as automatic permission. But the chapter’s tenderness, his attention to her face, and her immediate chosen response kept me with it hard. I’m deeply in, and more scared now, because Pace keeps proving himself in the visible scenes while the hidden foundation remains unclean.

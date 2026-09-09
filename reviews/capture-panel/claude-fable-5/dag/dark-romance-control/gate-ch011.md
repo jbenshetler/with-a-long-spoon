@@ -1,0 +1,25 @@
+*capture-dag-v2-rich · gate ch011 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+
+REACTION
+
+Okay. Okay okay okay. I need everyone to understand that I read the boot scene with my hand over my mouth. He took her SOCK off. On a rock. In the woods. And her mother's voice started up — *what kind of girl lets a man* — and he just… fixed it before the shame could finish loading. "Hot spot. We can fix that." And then apologized for not thinking to ask about her boots. That apology is the scariest thing in the chapter and I'll die on this hill: he's cataloguing his own gaps. He missed a variable and he logged it. That's not a boyfriend, that's version control.
+
+The cherry pit. THE CHERRY PIT. She spits it, he says "we take nothing and leave nothing" — which, hello, is the thesis of the entire con, that's not trail etiquette, that's the operating manual, Helen Rivers you absolute menace putting the con's motto in his mouth as a Leave No Trace lecture — and then he lays his OWN pit next to hers so she's never alone in the correction. "He hadn't made her small to give it to her." That's the machine. That's it exactly. Every lesson lands as a gift and every gift is a leash and she's collecting them like it's Christmas.
+
+The dress. The russet silk dress. She put it back on the shelf and he said "that sounds like a beautiful dress" with NO weight on it and moved on — and I screamed, because that dress is BOUGHT. It's already bought. It will appear before the induction dinner like weather. And here's the part that got me: I don't even know anymore if it's tactic or love, and I think that's the point, and I think it's tactic-that-became-love, which the jacket promised, and which is worse, and I want it.
+
+Now the truck. THE TRUCK. He gives her his only dry shirt and stands OUT IN THE RAIN, back turned, so she can change — his shirt AND the cab, both, no words — and this is where I braced for the chapter to go too soft on me, honestly. Chivalry in the rain, be still my nothing. But then SHE knocks on the window. She crooks a finger at him. She calls him in and strips her wet shirt off button by button holding his eyes while her mother's voice screams *floozy* and her thighs press together AT the word — Vee getting off on being the thing the voice condemns, WITH him watching, is the darkest her interiority has gone and it's entirely self-inflicted and that is this book's whole sick genius. Nobody did anything to her. She did it on purpose. Again.
+
+And he didn't move. He sat there shaking with cold — SHIVERING, he'd been shivering the whole time and let her have her moment anyway rather than interrupt it — and just received her. I have complicated feelings about this. Part of me wanted his hands on her so badly I made a noise in an empty room. It's been since chapter 3, Helen. The interest on the bench loan is compounding. But the stillness IS the seduction with this man, the not-taking is the taking, and her reaching for his hand to start "the next thing" and finding it trembling — that landed. She wanted to be devoured and instead discovered he'd been quietly freezing for her, and now she's in even deeper, and so am I.
+
+The cop and the siren cutting off her sentence — cheap little coitus interruptus, fine, whatever — but her walking into the dorm wearing his flannel that smells "of soap and of a man and of the inside of a gym bag"? She's marked. She's wearing his jacket at the party now too. Randi's going to see that flannel and I need chapter 12 to be Randi seeing that flannel.
+
+Which is my one real complaint: NO RANDI. A whole chapter with no viper, no debrief, no bathroom mirror, no bench even though we were AT his territory — wait. No we weren't. The trail was off the gravel road but we never got to the house. The house is still loaded. Helen dangled six-fourteen at me and gave me a summit instead, and the summit was gorgeous — the valley not caring she existed being the most beautiful part, that's Vee's whole psychology in landscape form — but I came here for the table that isn't a table. Also: she doesn't know he has "no house here to go to" is a LIE, right? He showers at the gym near campus, sure, but the house is real, I have it in my notes, so either he's compartmentalizing where Vee's allowed to know things or I'm being played about the geography and either way I'm taking notes like Brooke.
+
+Chapter's a 10 on craft-of-the-con, an 8 on my pulse. Feed me Randi.
+
+GATE 11 — Leave No Trace
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none — though the stretch from summit sandwich through cherries was the softest this book has dared to be, and only "we take nothing and leave nothing" saved it from wholesome.
+WHY: The striptease she performed AT her mother's voice while he sat still and shivering is exactly the self-administered dubcon this book trades in, and the dress is a loaded gun I have to see fired. But I'm now two chapters without Randi and twelve chapters past my last real heat — the bench debt comes due soon or my capture scores start dropping.

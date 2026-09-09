@@ -1,0 +1,17 @@
+*capture-dag-v2-rich · gate ch013 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+
+They gave me the same shirt story THREE TIMES now. Once live in the truck (which, fine, that one earned it — Vee unbuttoning her own shirt while her mother's voice calls her a floozy and her body says *yes, that word, that one* is the best thing chapter 11 did), once to Cassie, and now once to the dining hall girls. Helen. Honey. I was there. I watched him stand in the rain. I don't need the podcast recap episode.
+
+That said — I see what this chapter is actually for, and it's the last four paragraphs. "Would you come to my house Saturday. Two o'clock." That's it. That's the whole message. And Kayla, bless her curls, reads it exactly right without knowing a single true thing about the situation: *there's no meal at two, Vee. He's not asking you over to eat. Bring a change of clothes.* The dramatic irony in this book keeps getting delivered by people who think they're joking. The BOOK is called A Polite Invitation and here it is, thirteen chapters in, seven words long, no explanation, and Vee has read it a thousand times. The house off six-fourteen. Past where it goes to gravel. Where the bench lives, where Randi's underwear spent weeks draped on "a table." Vee is about to get her hair done by a friend so she can walk into the room this entire machine was built around, and she's worried about what to wear. I actually put my hand over my mouth.
+
+Other things I clocked: he's a *powerlifter*. First thing every morning, before the math. That detail has been sitting under the cardigans this whole time and they chose NOW to hand it to me, right before the house — that's not trivia, that's a spec sheet. And Meg's "everybody's different at the start. Sometimes they even are" — the most quietly horrifying line in the chapter, because Pace IS different, Meg, that's the problem, different is the whole problem.
+
+What's bothering me: WHERE IS RANDI. Three chapters without her. My villainess has not had a scene since the "Paul?" finger snap, and Vee just got summoned to the house — did Randi know before Vee did? Did Randi and Pace choose Saturday together, in bed, over apple slices? I need that scene. I am owed that scene. And I'll say the harder thing: chapters 11–13 have been Pace being genuinely, functionally lovely — moleskin, sandwiches, the dress he didn't buy, standing in the rain — and if I didn't have my notes reminding me the pointing game was HIS idea, this stretch would read like the wholesome slow-burn I don't buy. The gentleness-as-machine only works if the machine part shows up again soon. Saturday better have teeth. Saturday better have Randi. If Vee walks into that house and they just cook dinner, I riot.
+
+But she's going through the door. Nobody could get me to stop the chapter before the door.
+
+GATE 13 — What to Wear
+DECISION: CONTINUE
+CAPTURE: 6
+ALMOST-STOPPED: "Meg had gone quiet in the good way, chin in her hand. 'And then he kissed you.'" — mid-second-retelling of events I watched happen two chapters ago, I felt my thumb drift toward my TBR pile.
+WHY: The chapter itself is wallpaper — girl-talk recap, zero Randi, zero danger — but it ends with the seven-word text the whole book is named after, and I have known what's in that house since chapter one. You don't stop a dark romance one chapter before the girl walks into the trap she thinks is a date.

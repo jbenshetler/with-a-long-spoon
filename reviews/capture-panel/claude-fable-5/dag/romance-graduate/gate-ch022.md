@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch022 · claude-fable-5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+
+REACTION
+
+Okay, so this is a breather chapter — no heat, no Pace, one classroom — and it still got me, because Helen Rivers just walked to the front of the room and read me the thesis of the entire book off a baseball table and dared me to notice.
+
+Simpson's paradox. "Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them." That is the JACKET. That is "every yes was freely given — that was the problem." Every individual moment of this relationship, taken on its own, is good. The moleskin is good. The dress is good. The orgasm the shame couldn't close is good. Not one data point has been falsified. Nobody touched one of them. And aggregated, the answer reverses. The chapter is literally titled "All Told." I put my Kindle down and stared at the wall for a second. Vee even does the thing on the page — gives the numbers forty honest seconds and comes back up out of them without getting it — while Cassie, who never went down into the numbers at all, is the only one in the room looking at the actual data, which is Vee's face. Cassie is the disaggregated view. Cassie has been reading the raw numbers since chapter one and she keeps getting the right instinct off them. God, Cassie. "Was it a good night?" — and something eases in her face when the answer is real. She's not even hoping to win anymore. She just wants the yes to be true. I want to lie down.
+
+And then Randi, right on schedule, finds the ONE snag in the gold — no shoes — and converts it into a date before Vee finishes the sentence. "That's not a problem, that's a *date*." Watch her hands: "already turning the dress over in her hands without a hand on it." A heel height Vee "would need and hadn't known to need." Randi is choosing what Vee stands on for the induction. The dress is Pace's; the elevation is Randi's; the mother will be in the room; and Vee thinks Saturday is a girls' day. This is the machine doing what the machine does — locating the small want and answering it before the flinch finishes — except now I've watched Randi do the exact move Pace does and I can see the shared curriculum like a watermark. Also "you lucky slut" landing low, on the soreness she's been carrying since eight a.m. — Randi keeps grazing Vee's body with words and Vee keeps answering with her body and neither of them is filing it. "It went through her warm, and she didn't." One sentence. That's the Randi-want line for this chapter, and it's getting less deniable every time.
+
+The made bed as tattletale is such a good small thing. And "the dress three blocks back in a closet, zipped in its bag, still shown to not one living soul" — that last line is quietly devastating, because it's not true, is it? It's been shown to Pace. It was made ON her by Pace. What she means is it hasn't been shown to anyone who wasn't in on it. The only witnesses so far are the conspirators. Her whole happiness is like that right now.
+
+No heat this chapter and I don't care, which is how I know this book has me somewhere KU never got me — it banked enough charge in 21 that it can spend a chapter loading the gun and I lean in anyway. But I'm noting it: this is the second consecutive chapter-end where I'm being promised the induction, and now a shoe-shopping chapter has been inserted between me and it. Randi taking Vee shopping is going to be a fitting-room chapter, and we all know what fitting rooms are in this book. Fine. FINE. But the induction better detonate.
+
+Text I'd send at 1 a.m.: "the stats professor just explained the whole plot using baseball and the heroine took notes on it and learned nothing. I'm unwell."
+
+GATE 22 — All Told
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: none
+WHY: A no-heat chapter that still pulled 7 out of me because the Simpson's paradox lecture is the book's entire moral argument staged as a cereal-box aside, and Cassie watching Vee instead of the numbers broke my heart in four lines. The shoe date is obviously the next stage of the curriculum and I am walking into it with my eyes open, exactly like Vee.

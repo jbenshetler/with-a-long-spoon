@@ -1,0 +1,23 @@
+*capture-dag-v2-rich · gate ch002 · claude-fable-5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+
+REACTION
+
+Okay so first: no sex in this chapter, and I didn't care, which — if you know me — is basically a medical event. I want to be clear about why I didn't care. It's because chapter 2 is the *bill* for chapter 1. Chapter 1 broke her open on that bench and I was worried the book would just move on to the next scene like every KU title I've ever inhaled, where the heroine has a Life-Changing Orgasm and then goes to brunch emotionally unchanged. This book made her go to brunch. And it HURT.
+
+The Brooke scene. Oh my god, the Brooke scene. I've read four hundred books with mean-girl sorority interrogations and they're always written like the author's only exposure to female cruelty was a movie trailer. This is the real thing — the warfare where nobody stands up, nobody raises her voice, and every hit is delivered as a favor. "Engineering, isn't it" — landing him a notch down *without seeming to reach for it* — I actually said "ooh" out loud. And "Anyway, I'm sure you want to shower" as the kill shot, the release-as-dominance, denying Randi the three comeback lines she'd loaded. The author knows that the cruelest thing you can do to a woman like Randi is end the conversation before she's ready. Brooke scares me. Brooke is going to matter. I'd bet money Brooke shows up again in a way I don't want.
+
+But the thing that got me — the thing I'd text a friend at 1 a.m. about — is *"He's hard to say no to"* heard twice. Once in the kitchen key, the what-could-I-do laugh. Once alone in her room, "in a different key. It was not a key she could sing in." I put the Kindle down for a second on that one. That's the whole book in two lines. That's a woman hearing her own alibi turn into a confession and refusing to finish the thought.
+
+And the ending. Lying on the made bed — made because she didn't sleep in it, which the book just hands you without underlining — in last night's clothes, shoes on, under the *adequate* duvet. "It was not — it was a duvet." She can't even let herself complete the comparison to his cashmere blanket, to his warm house, to being wrapped and held. The sentence breaks off exactly where she breaks off. And then the not-crying that "did not feel like holding a door shut. It felt like there being no door." I have read literary novels that spent forty pages trying to say what that paragraph does in three lines. This is the interiority I keep begging for. This woman has a whole sealed country inside her and the prose keeps showing me the border checkpoints.
+
+Here's my other 1 a.m. thing, and it's making me a little feral: the jacket. The jacket is about VEE. Randi is the "glamorous new friend" who steers Vee to Pace. Which means what I just read — Randi getting taken apart on that bench, begging in her real voice, then deciding in the bathroom mirror *not tonight, not ever*, going back behind the face permanently — is the prehistory of the trap. She got found, and it was unbearable, and I think the "game" they're going to play with Vee is somehow what she does INSTEAD of being found. Like she's going to arrange for another girl to be opened up the way she couldn't survive being opened, and watch it from a safe distance. That's so much darker and more interesting than "villainess recruits ingenue," because I've now been inside Randi's ribs and I *understand* her. The blurb said the reader would be ahead of Vee from the start. I'm ahead of Vee and it already aches.
+
+Small honest note: I felt the cold-shower whiplash of going from the bench to a common-room scene, and there was a stretch — the closet, the sink running with no hands under it — where I thought, okay, I see what you're doing, you can stop doing it now. The dissociation choreography ran maybe one beat long. But it earned its ending, so I forgive it.
+
+Where's Vee, though. Two chapters in and the girl on the jacket hasn't appeared. I'm trusting this book, but I'm trusting it on credit now, and I want the heat back soon — this author has proven she can write want with the lights on, and I did not sign up for a long fast.
+
+GATE 2 — Standards
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: "She had come to the closet to do something and could not, for a moment, locate what." — one beat of numbness-pantomime past where I needed it
+WHY: Zero heat and it still held me, because it's the emotional invoice for chapter 1 and every line of the Brooke scene was sharpened on a real whetstone. But this book has now shown me it can do aftermath — next it needs to show me Vee, and it needs to remember what I came for.
