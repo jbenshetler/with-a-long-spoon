@@ -1,6 +1,6 @@
 # Note — Inversion (the judge's chair inverted into the dock)
 
-*Vignette · Unwritten · Thu Feb 4 · Randi POV · Randi + Brooke + Standards sisters · companion to the `meta-plan-chronology.md` entry*
+*Vignette · Unwritten · Randi POV · Randi + Brooke + Standards sisters · companion to the `meta-plan-chronology.md` entry*
 
 ## Status and authority
 
@@ -8,7 +8,7 @@ This note holds the real-world baseline and the open design space for the chapte
 
 ## Locked scene engine
 
-- **Placement:** Thu Feb 4, after {{Coming Due}} and before {{Gesso}}. The docket must precede the drawer's first visit.
+- **Placement:** after {{Coming Due}} and before {{Gesso}}. The docket must precede the drawer's first visit.
 - **POV / aperture:** Randi close third. Her managed surface operates in company; the vignette closes alone in her single, pairing the room aperture in {{Standards}}.
 - **The inversion:** Randi sits on Standards and leaves {{Coming Due}} with *“I've got to go discipline a bad girl.”* Brooke instead puts Randi on the docket. The usual judge becomes the respondent.
 - **Visible case:** the missed-events ledger fed since {{Broken In}}, plus Randi's conduct at the {{On Her Floor}} mixer. The house's stated judgment is that things have become *“too loose and sloppy.”*
