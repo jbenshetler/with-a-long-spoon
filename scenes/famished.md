@@ -78,7 +78,17 @@ She got the jeans open and shoved them down, shorts and all, and her hand stoppe
 
 The sheets were plain white cotton and very soft, washed many times, and when she lay down on them the smell arrived, the same smell she'd been sleeping in at home, in his flannel shirt in the dark. But the shirt had been holding a version more than a week old, stored and approximate. This was the source: his soap and under it his own scent, warm and immediate and specific to him, the actual thing behind the proxy she'd been studying in her own bed since the hike. She'd thought she knew it.
 
-He was careful with his weight until she pulled him in. And then he wasn't careful. The answer to his question arrived, unmistakably, and she did not manage it or observe it or narrate it to herself while it was happening, she was only here, her face in his neck and his smell in every breath, and the shame was still running and she could not find the top of it and she did not try.
+He was careful with his weight until she pulled him in — her heels at the backs of his thighs, her hand spread flat on the small of his back, her hips rising to meet him. And then he wasn't careful.
+
+He was so hard. That was the first of it, the answer to his question arriving ahead of everything else, unmistakable: her body gave to him and went on giving, opening around him while he filled her, slow, all of him, until there was nowhere further to go. He held there, seated deep, his breath rough at her ear, and let her have the whole fact of it. Her hips were already moving under him, greedy.
+
+He moved in her slow and deep, drawing back the whole length of himself and returning, every return pressed to the end of her, until she could not tell his rhythm from her own. The room was gone. There was the soft old cotton, and his heat, and the good crushing weight she had wanted since the mountain, and the sound of the two of them, wet and rhythmic and unashamed of itself, rising into the plain white room.
+
+"Yes," she said, into his neck — one word, out before she could weigh it — and again, further in, "yes," with less of her voice in it.
+
+It came up from underneath this time, slower than at his mouth, wider, and she let it come. It took her all at once anyway. She broke around him with her mouth open against his shoulder, her body gripping him long and hard, and it took him with her — his rhythm gone, a last deep drive, all of him, and the pulse of him far inside her, the heat of him landing where she was still breaking. The sound he made was low and helpless, nothing he chose. He stilled, arms shaking, his breath loud in her hair.
+
+She was only here — her face in his neck, his smell in every breath, his weight let all the way down at last. The shame was still running and she could not find the top of it and she did not try.
 
 It was the first time that had been true.
 
