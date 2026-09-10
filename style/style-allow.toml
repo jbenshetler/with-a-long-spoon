@@ -3819,11 +3819,25 @@ text = "Not took it as in accepted it; she hadn't offered it; he simply lifted i
 note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
 
 [[ok]]
+fp   = "e46803a33328"
+rule = "file-verb"
+file = "scenes/recognized-method.md"
+text = "This one she could not file."
+note = "Paired with 'keeping books' three paragraphs earlier: she keeps books, then cannot file this one. The bookkeeping rhyme is what makes the second orgasm read as disproof rather than escalation. Author ack 2026-09-10."
+
+[[ok]]
 fp   = "37a3d8002849"
 rule = "filter-verbs"
 file = "scenes/recognized-method.md"
 text = "She felt the laugh go through his back before she heard it."
 note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "6eaafa9bc637"
+rule = "filter-verbs"
+file = "scenes/recognized-method.md"
+text = "He noticed."
+note = "'He noticed. She felt him notice.' — the doubling is the beat: he registers her jolt, she registers his registering. Two-layer awareness is the scene's subject, not distance. Author ack 2026-09-10."
 
 [[ok]]
 fp   = "9641d897699c"
@@ -3859,6 +3873,13 @@ rule = "filter-verbs"
 file = "scenes/recognized-method.md"
 text = "She felt her own face change."
 note = "Author sign-off 2026-07-28: spank-paragraph filter cluster left standing"
+
+[[ok]]
+fp   = "facf7e083e49"
+rule = "filter-verbs"
+file = "scenes/recognized-method.md"
+text = "She felt him notice."
+note = "Second half of the deliberate doubling at :119 (see paired ack). Author ack 2026-09-10."
 
 [[ok]]
 fp   = "fdbcbec88c01"
@@ -3908,6 +3929,13 @@ rule = "the-way"
 file = "scenes/recognized-method.md"
 text = "His left hand, warm and wet from the dishwater, open and flat across the curve of her where the shirt had ridden all the way up and there was only the cotton of her underwear and then nothing."
 note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "a5fe8cfff66d"
+rule = "the-way"
+file = "scenes/recognized-method.md"
+text = "She reached back and found him and worked herself onto him in short sinking pushes, taking a little and giving it back and taking more, until she was all the way down and there was nothing of him left outside her."
+note = "Literal distance: she is fully seated on him. Not the filtered 'the way he...' construction. Author ack 2026-09-10."
 
 [[ok]]
 fp   = "bbaa3d0e5ecb"
