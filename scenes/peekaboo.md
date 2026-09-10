@@ -54,16 +54,48 @@ When she came through in it the grin went off his face into something quieter, h
 
 She crossed to him and took his face in both her hands and kissed him, and hooked the bared leg up around him and pulled him in, the slit falling all the way open along her. He made a low sound against her mouth, and his hands went to her, one to her waist, to the dress, to the place he'd measured it to, the other under her bare thigh. And after that there was nothing left for either of them to decide.
 
+Her hands went down between them and had his belt open before he'd finished the sound he was making, the fly, the rest of it, and she took him out, hot and hard and past any asking. She hooked her leg higher on him and kissed him deep, and rocked him against her seam — bare on bare, slick already, getting him started — and then, arms and leg, she closed the last of the distance herself and took him in, drawing a groan out of him and the air out of her.
+
+Standing like that, her weight on his hand and the toes of one bare foot, there was almost nothing they could do — and neither of them would give it up, the closeness, the whole length of them pressed and joined and barely moving, pressure and breath, her fingers wound in his collar, the silk crushed between them and sliding where it wasn't crushed. It was the sliding that reached her.
+
+"Wait," she said, against his mouth, not meaning a word of it. "The dress."
+
+There was no putting her down: the skirt hung exactly where the mess would be, and his hands were full of her. He gathered the silk back in one fist, and she reached down and drew him out of herself, slow, and then had him in both hands — slick with her, heavy, nowhere safe to put him — elbows and forearms fending the dress off him while her leg stayed hooked over his hip, neither of them able to let go of one single thing they were holding.
+
+"Ow. Don't point down."
+
+"Sorry." She adjusted, which was not simple.
+
+"Watch out," he said, eyes on the skirt.
+
+"It's not easy. There's a lot of you covered in a lot of me."
+
+He twitched in her hands.
+
+She looked up at him, delighted. "You just—" She said it again, slower. "*Covered in a lot of me.*" He did it again, and she laughed until her leg started sliding off his hip and he had to catch it, which helped nothing.
+
+They got her foot under her. Letting go was another matter: he needed both hands for the dress and the dress needed her out of it, so she kept him in both of hers, elbows doing the fending, while he found the closure at her side and drew it down, gathered the skirt, and started the whole thing sliding up her body. It cleared her hips — bare from the waist down now, the burgundy rising off her like a curtain going up — and he twitched in her hands again, at nothing said at all this time, and she laughed so hard he had to stop and wait, the dress at half-mast, until she could hold still enough to be undressed.
+
+Above her waist she could finally let go of him, and there was exactly one thing in the room she was allowed to dry her hands on, so she did — two long deliberate stripes down his flanks while his arms were up and full of silk and he could do nothing about any of it. Then she stopped, fingers spread, suddenly doubtful. "Are they clean enough? I'm not touching it yet."
+
+"Let me see." His hands stayed where they were, holding the gathered dress off her. She held her fingers up. "Closer." She stepped in, and he studied them with the care he'd give a hem — turned his head, took his time — and then took two of them into his mouth. It went through her knees. He was slow about it, thorough, tongue and the soft pull of it, cleaning her own slickness off her fingers with his eyes on hers the whole while, and when he finally let them go — wet now for a different reason — she had to put her dry hand flat on his chest to stay standing.
+
+"You're bad," she said. It came out barely.
+
+They finished the job properly after that — the dress up and off over her raised arms, back through the den to the sun porch, hung in the window it had come from, the burgundy taking the last of the light. She had his shirt off him before the hanger stopped swinging.
+
+And then there was no patience left anywhere in the house. She went up him — arms around his neck, then both legs — reached down and put him back where he belonged, and this time there was no getting started, no distance to close: right in, all of him, like he'd never left. He stood a second with his eyes shut, holding all of her. Then he walked. Every step of the hall moved him in her, and she gave up all claim to quiet; halfway down they went off balance and the wall caught them, hard enough to knock the breath out of her in a laugh, and he pushed off it with one shoulder and kept going. They came down on the bed still joined and finished it there, nothing careful left in either of them, the headboard talking, her heels in the backs of his thighs — and when she went over he was a breath behind her, buried deep, shaking, letting everything he'd held all afternoon go into her at last.
+
 ---
 
-After, she lay on her side in his bed, loose and warm and looking at the dress.
+After, she lay on her side in his bed, loose and warm.
 
-They'd hung it. That was the part she kept coming back to, a laugh coming up in her every time — that somewhere in the middle of everything, with her halfway out of it and her hands gone careless, one of them had said *wait, the dress,* and they'd both actually stopped, and he'd taken it from her and hung it from the door with the two-handed care you'd give something alive before coming straight back to her. It hung there now in the last of the light, burgundy going black at the folds. It had cost them a minute of a thing neither of them had wanted to pause, and she wouldn't have given the minute back.
+They'd gotten it hung, in the end. That was the part that kept the laugh rising in her — the whole ridiculous relay of it, and she wouldn't have given back a minute.
 
 Pace was asleep. He'd gone down hard and fast the way she was learning he did, flat on his back, one arm flung up by his head, and she knew without being told that he'd been up the night before — that the dress had been finished at some hour with no business being awake in it, that he'd stood at the long table in the sun porch getting the last of it right while she slept across town, not knowing. She watched him breathe and didn't wake him. The only one awake in the warm house.
 
-And she looked at the dress and let herself imagine it: she put it on, in her head, and walked into the induction.
+And she let herself imagine it: she put the dress on, in her head, and walked into the induction.
 
 She could see the whole thing. The high room, the good light, the other girls in their safe department-store navy — and her, coming in late, on purpose, in this, in a thing that looked flown in from Milan and fitted to her by a man who'd thought about nothing else. The slit. The bare shoulder. The way the room would turn. She let it turn. In the daydream she didn't fold her arms or find the wall; she stood in the middle of the light and let them look, and the looking didn't cost her a thing. It just felt like what she was for.
 
-She settled back against him, and he made a sound in his sleep and his arm came down around her without his ever surfacing, and she lay there happy, watching the dress go dark on the door, getting away with something.
+She settled back against him, and he made a sound in his sleep and his arm came down around her without his ever surfacing, and she lay there happy, the dress going dark in its window at the far end of the house, getting away with something.
