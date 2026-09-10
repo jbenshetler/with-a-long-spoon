@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch020 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+
+REACTION — Okay, I have to sit with my hands around this mug for a minute, because this chapter did something sneaky and mean to me and I let it.
+
+The brunch itself is warm and funny and I flew through it — Randi getting the "campaign" out of Vee, the toenails, "you drove over there sure," and Vee finally saying "I wanted it, and I took it" out loud. That line landed. This is a girl who spent twenty years apologizing for her own body, and she's standing on the box now, chin up. I was cheering for her. I *am* cheering for her. "I don't think I've ever felt anything better in my life. Just sitting there wrapped up in him, watching him cook" — I believe her, and I believe him, and the sheet-at-midnight scene was genuinely one of the most romantic things this book has done. The tenderness is real. The heat was real. Nobody's no got steamrolled anywhere. My checklist is clean.
+
+And that's exactly what's unsettling me. Because I know what Randi is, and this chapter is her best work. Look at what she actually did: she took Vee's confession and made every shame-tinged thing into a *commendation*. Cold in the house → "hot," told like a triumph. The toenails → "you paint the toes for a man who's going to have your feet bare in his hands." The fear Vee showed — the one flash of "how far gone am I, how much did I hand over without deciding" — and Randi caught it and *smoothed it flat*: "Don't you dare make that face. You're not caught, sweetheart. You're lucky." That was the moment. That was the closest thing to a hand on the scale I've seen, and the terrifying part is that everything Randi said was *kind*. It was true in every way except the one that matters: she's not Vee's disinterested friend, she's an author hearing her book read back to her and grading it. When Vee asked the real question — "which hip" was a lie, but "were you scared, though? Not being able to move?" at the last lunch — that came from somewhere real in both of them. Randi's answer ("that's the whole point, baby. The letting go") was the most naked thing she's said, and she meant it about *herself*, about the bathroom and the "not ever," and Vee has no idea. Every warm thing this woman does is real AND harvested. I keep writing that in my notes because the book keeps proving it.
+
+And the goodbye kiss — Vee met it this time. Didn't scan the windows. That's the blurb's gun loading exactly as promised: she's stopped watching, and I'm watching for her now.
+
+Also: "You're not getting away with it. You went from taking your clothes off to watching him cook and left out everything in between." Randi wasn't prurient there — or she was, and it was double-layered, because she wants to know what it was like for *him*, what he did with the thing she picked and handed him. Pace ate dinner from a woman's body and Randi needs to know if it cost him the way it cost her. That's my read and I'm committed to it.
+
+The one thing keeping me from being purely anxious: the book is being honest with *me*. It keeps letting me see the machinery while Vee can't, and it never once asks me to find the con sweet. It's asking me to find the *people* sweet, which I do, and that's the trap working on the reader exactly as designed. I said I'd walk if it winked at coercion. It hasn't winked. It's shown me the wires and dared me to keep loving the act anyway, and God help me, I do.
+
+GATE 20 — Fed
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: The Vee-and-Pace warmth is the real thing I'm here for and it's being delivered at full heat, but the Randi layer underneath is doing quiet, devastating work — kindness that's also surveillance, comfort that's also containment. I need to see the con close, and I need to see whether Pace ever learns what it cost Randi. Still all the way in.

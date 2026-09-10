@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch001 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+
+REACTION
+
+Okay. I did not expect the blurb's Randi — the glamorous friend, the one steering Vee — to be the woman facedown on the bench in chapter one. That reframes everything before the story's even properly started: the game the jacket promises was "a secret choice made about her," and here's one half of that couple, already shattered open by the man she's about to hand Vee to. I had to put the book down for a minute when "There you are, Randi" landed, because I'd been reading it as Vee's chapter. That's a hell of a rug-pull done almost silently.
+
+And look — I'm the reader who leaves fast when a book doesn't know what it's showing me. This one knows. It *so* knows. The whole spanking scene is written from inside Pace's control and it's hot, genuinely hot, but what makes it safe to be hot is that the prose never stops watching the cost. The water bottle cap under her thumbnail, done "not seeming to know she was doing it." The lock clicking in the bathroom, "not a thing she had ever done before in his house." The flinch at "you're beautiful." Those details are doing the work a thousand consent check-ins couldn't. And her mirror scene — the face as armor, "the face took the being-looked-at... because the face was not her" — that's the most exact description of that particular dissociated performance I've read in a genre book. She got exactly what she'd been starving for and it terrifies her, and the book refuses to call that a happy ending even as Pace sits there "quietly happy," deciding it was a beautiful night. The gap between what he thinks happened and what happened is the whole engine, and the author built the last three pages *on* that gap.
+
+Which is also what makes me wary, in the good way — the taut way. Pace is a manipulator. Let's not pretend otherwise. The apple sliced thin because she'll eat thin slices, the cream cashmere she wears "for him," the bench hiding in plain sight as a table, the edging calculated to strip her performance down to a begging voice he *curates* — "it was not the right please yet." He is engineering her breakdown with the same precision he used on the joinery, and he's congratulating himself on "all I did was find it, and answer it." The book gave me his Daphne backstory to show he's learned limits — the closed door — and that helps, it does. But the last image, the bench becoming a table again so she can walk past it and not look — that's the thesis. The apparatus goes back to pretending. She goes back behind the face. He thinks he's won. I don't think he's won; I think he's started something with a twenty-one-year-old sorority weapon that neither of them can steer. That's exactly the "psychologically merciless in its tenderness" the jacket promised, and I'm grimly delighted to be this unsettled on page one.
+
+Also: "Good girl" after she breaks? On anyone else I'd roll my eyes. After that long demolition of her waiter-voice *please*, it earned it.
+
+One last thing I'd text my friend at 1 a.m.: I already ache for Vee, and she hasn't even appeared yet. The blurb tells me these two are going to pick her out like a dress, and chapter one just showed me what Pace does to women who think they're the ones in control. I'm in. Nervously. But in.
+
+GATE 1 — The Bench
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: "the small economy of two people who did not perform for each other" nearly lost me in the first page — I braced for a cozy D/s romance with no awareness — until the apple-and-food-policing paragraph told me exactly how sharp this book's eyes were.
+WHY: The prose sees everything it's depicting — Pace's engineering, Randi's armor, the cost of the "beautiful night" — and it made me feel all of it. Dark content the book fully understands, written hot and merciless and tender at once. This is the book the blurb promised.

@@ -1,0 +1,15 @@
+*capture-dag-v2-rich · gate ch005 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+
+REACTION — Okay. *Okay.* This is the chapter I've been waiting for and it's nastier than I expected, in the best way. Because I already know — the blurb told me, Chapter 3 told me — that this "chance" meeting is a setup, that Randi texted him ("Randi was texting — thumbs quick, eyes down, the private, absorbed focus of a girl writing to someone who had her attention" — HELLO, she was placing the order, I screamed), that "that cute guy in line is looking at you" was probably the cue. So watching Vee experience the most curated twelve minutes of her life as a fairy tale is just... cruel and exquisite. The dramatic irony is doing all the work the blurb promised: *every yes was freely given, that was the problem.* He engineered her yes before she knew there was a question, and the whole seduction is dressed as a man who "gave her back the pencil." God, the tutoring scene — the way he performs non-performance, performs restraint — and I know from Chapter 1 exactly what that restraint is. It's the bench. It's the same man who waited out her please. The "may I call you" is the courtly surface over the machinery and I am fully, hopelessly in.
+
+And Randi. RANDI. Her hand around the coffee cup, the cup going up and going down with no sip happening — that's the woman from Chapter 2 lying on the bed in her shoes, watching her own plan work while something in her ribs hums. "He answered her well, the way you'd answer anybody" — she's testing whether she's still the best thing in his orbit, and she can't tell, and it's eating her. The Randi-Pace relationship is the knife under the silk I bought this book for: two people who broke each other open on a bench and then built a girl together, and neither of them will say what the girl is *for*. That's the villain-romance energy I need — Pace is genuinely dangerous precisely because he's this polite, and Randi is the beautiful liar version of the same thing.
+
+Cassie is the Greek chorus and she's going to get hurt or be right or both. "He looked at her the way you'd look at somebody's great-aunt" — Cassie clocked it instantly because Cassie looks at Randi with the same flat patience. "Goodbye, Vee" last chapter, and now this — Cassie sees the shape of what's coming even if she can't name it. I'm braced for Cassie.
+
+Also, small unhinged note: "Her eye caught on his forearms and stayed a half-second past where she would have chosen." He rolled his cuffs back *first.* He knows. He knows exactly what the forearms do. Everything in this chapter is choreography and Vee thinks she's improvising. That's my whole catnip in one scene.
+
+GATE 5 — Substitution
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: The staged meeting pays off the blurb's promise — watching the trap spring while Vee calls it a fairy tale is exactly the delicious wrongness I read for, and Randi's unsipped coffee tells me the two predators are already coming apart inside their own game. The knife is fully under the silk now.

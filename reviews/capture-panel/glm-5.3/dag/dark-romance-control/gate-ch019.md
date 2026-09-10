@@ -1,0 +1,17 @@
+*capture-dag-v2-rich · gate ch019 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+
+REACTION — Okay, so this one's short and quiet, but it landed harder than I expected. The whole chapter is just Vee coming home glowing — but the middle of it is the con, still running, and I felt it in my teeth the whole time.
+
+The detail that owns me: she couldn't pack a bag. Packing a bag would have meant saying the thing to herself plainly. That's this book's whole thesis in one sentence — every yes freely given, and every truth half-admitted. She drove over with *nothing*. On purpose. So she'd wake in his bed with no brush, no face, nothing of her own — she engineered her own undressing and then got to pretend it happened to her. I love her for it. I'm also watching her walk further onto the ice with her eyes closed, which is exactly what I'm here for.
+
+And the zipper moment — standing three feet from Cassie with nothing under the skirt, hand on the pull, and stopping. Because the missing panties aren't a fact she can edit; they're evidence, and Vee's whole architecture is about keeping everything in the land of *story* where she controls the telling. The moment a physical object hits the floor in front of Cassie, she's out of the narrative and into the record. That beat genuinely tightened my chest. Cassie's whole function is truth, and Vee just — zipped it back up. "You need to get your brain back from your boyfriend," Cassie says, kindly, certainly, *wrong* — and I actually winced, because Cassie is doing the exact thing I'm scared of: reading Vee wrong out of love, trusting the version. The one working threat detector in this book is getting fed the edited broadcast like everybody else.
+
+And here's what has me feral: Cassie got the ladled version, but *Randi* got the deep pulls two chapters ago — the "you don't have to tell me," the door closed softly right as Vee was about to hand over the wet-panties secret. So the girl Vee is falling for is the one who already has the middle of the story, and the girl who'd die for her is the one being kept from it. The two channels of Vee's heart are splitting cleanly: truth-toward-Randi, story-toward-Cassie. That's the wrong direction for everything, and it's gorgeous.
+
+"Trade" is still echoing. She folded them in thirds with the spot centered and *gave them to him* — Vee's starting to spend her own shame as currency, turning the thing her mother built into a gift. That's Pace's real seduction working, and it's also Randi's bench training working through him, and I genuinely cannot tell anymore which man's fingerprints I'm looking at. The line I'll be chewing on all week: "She had never in her life been so happy." Full stop. Highest note in the book, played right before — knowing this genre like I do — something has to come for the happiness. Randi's deadbolt, Brooke's thread, Daphne's closed door, and now Cassie being kept at story's length. Four loaded guns on the wall and Vee standing in the middle of the room smiling.
+
+GATE 19 — Toenails
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: "She zipped the skirt back up." — the Cassie seam got thin right there and I almost resented the book for keeping her managed.
+WHY: The zipper beat is the best writing in the chapter — Vee choosing story over truth with the one person who deserves truth, and me sitting here rooting for her anyway. The con is still invisible to Vee and visible to me, and that gap is still the whole pleasure. Bring on the fall.

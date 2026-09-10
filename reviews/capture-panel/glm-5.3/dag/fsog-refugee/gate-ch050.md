@@ -1,0 +1,23 @@
+*capture-dag-v2-rich · gate ch050 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+
+REACTION:
+
+Okay. I read the whole doorway scene with my heart in my throat, and I have to be honest about why: I was terrified Randi's plan was going to curdle. "You just show up already being the answer" — I know Randi, I know she's got the con running and I know she wanted Vee back on-script, and a plan hatched in Randi's bedroom by a woman who's in love with Vee herself... I kept waiting for the book to make it something it wasn't. And it didn't. It stayed Vee's. Every beat of the getting-ready scene is Vee deciding, Vee's hands, Vee denying herself at the mirror *because she wants him to be the one*, Vee noticing the shoes-on-first and laughing at the absurdity of her own courage. Randi handed her the idea; Vee authored the act. That distinction is everything to me, and the book keeps getting it right.
+
+The cop car nearly killed me. Not scared-me — delighted-me. The flash of caught, and then the cruiser going past after someone else, and her sitting on the gravel shaking with the wanting still wound exactly where she left it. And the mark on the coat lining, "it only told her she meant it" — that's the shame-to-heat alchemy this whole book runs on, the same move as the wet-finger beat in chapter 32, and it gets me every single time because the book forgives her body for telling the truth.
+
+And then HIM. The door opens and it's the formal voice, the December wall, and I thought — here's the test. If he'd held the line while she stood there open, I'd have closed the book. Instead the wall comes down *all at once*, and what's under it is "so plainly glad and so plainly wrecked," starving and forgiven in one look. That's the man I've been reading forty-nine chapters to find. The open door banging in the wind while neither of them moves to shut it — ridiculous, graceless, cold, true. "It went hard and fast and graceless, which was the truth of them tonight." Yes. That's what reconciliation sex actually is.
+
+But. The ache under all of it: she got everything except the word, again. "I missed you so much" with his voice cracking — that's the closest he's come, and it cracked ME, Vee crying and laughing with her hand in his hair because "nothing needed saying now." Except. I'm the reader, I get to notice what she's choosing not to: he still didn't say it. The fight in December was about the word, and she fixed the fight with her body because words were "the whole war," and the war ended in surrender without a treaty. I don't think the book forgot this. I think the pile of not-knows under her breastbone just got one more thing added to it, and sooner or later that pile is going to reach Randi, or Cassie, or the con, and something's going to give.
+
+Also — Sheri's chapter is sitting in my chest. He told Sheri "I can't," and she said *not saying it matters more to you than having her* — from a five-foot country girl in a diner, the plainest truth anyone's said in this book. He knows. He knows exactly what it costs and he still can't, and I'm now convinced the can't is a wound, the same country as "I don't go back." Whatever's behind that door, I need the book to open it eventually, because his silence is starting to feel less like withholding and more like scar tissue, and Vee is lying down warm against something she can't see the shape of.
+
+Cassie's "Hmm" at the end — perfect. The one clean ledger, taking in the whole outfit in one pass, asking nothing. She gets the story never the middle, and she's letting Vee keep it, and it aches.
+
+The one thing keeping this from a 10: I know Randi's downstairs, in love with her, running a plan, and the sweeter this gets the harder the fall is going to be, and I could feel the book's hand on that fuse the whole time. Also, him continuing the sex before carrying her inside in an open doorway in January — the book winked at the cold and I let it, but a small part of me noticed the girl was freezing. Small. She wasn't complaining and neither am I.
+
+GATE 50 — Nothing Underneath
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: The formal voice at the door — "It's late. Is everything alright?" — the half-second I thought he'd hold the wall while she stood there open.
+WHY: The wall came down in one look and what was under it was starving and forgiven at once, and that's the man I've been reading fifty chapters for. Vee authored every inch of this — Randi gave her the idea, but the coat, the denial, the drive, the reveal were all hers, and the book keeps letting her yes be hers. I'm wrecked and warm and I still know the word went unsaid, and I'm staying precisely because the book knows it too.

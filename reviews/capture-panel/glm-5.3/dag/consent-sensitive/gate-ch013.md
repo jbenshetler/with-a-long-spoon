@@ -1,0 +1,17 @@
+*capture-dag-v2-rich · gate ch013 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+
+REACTION — Okay, this one is a palate cleanser and I don't even mind, because it's doing real work: Vee got her witnesses back. After chapters of the book quietly edging Cassie out of frame, chapter 12 gave Cassie her due ("Keep the shirt") and now here are Meg and Kayla, a whole table of outside eyes, demanding the story in installments like a show. For a book this exact about isolating its mark, letting Vee be seen and celebrated by a room full of women feels like air. I exhaled.
+
+And I loved the retelling, honestly. Vee making the story "better in the telling and did not care" is so human, and Kayla's professional-level scandal at the text message ("That's not a message, that's a ransom note") made me laugh out loud. "There's no meal at two, Vee." No, there is not, and everyone at that table knows it, and so does Vee, and the book is letting her know it and want it anyway. That's the distinction I read by: she's walking into Saturday with her eyes open about the *afternoon*, even if she still can't see the scaffolding underneath it.
+
+What snagged me, though — the line I'll be chewing all week — is Vee trying to explain the ask-first thing to them: "I'm the one who can't think straight, climbing the walls over a man asking me what I want for dinner." And then: "It sounds like nothing. I can hear it sounding like nothing." She's *aware* that her hunger is being met with unprecedented precision and she can't account for it. The book keeps having Vee almost touch the truth of how engineered her comfort is — the oat milk, the thin apple slices, and now this — and then let it slide off. That's either the book being exact about how seduction actually feels from inside, or the book being fond of what Pace is doing. Chapter twelve keeps me believing it's the first. Meg's "everybody's different at the start... sometimes they even are" is the perfect flat counterweight — one clean voice of ordinary experience in the room, neither alarmist nor fooled.
+
+Also: twelve days. She knows it's twelve days without counting. Vee's body is keeping a ledger even while she laughs about it. And I noticed what she did NOT tell them — she told the shirt story, the siren story, but the naked part she softened into "called him back in... took my wet shirt off in front of him" for Cassie and barely that here. Even open Vee has started keeping the deepest layers for someone. Randi, probably. Who will file it. That made me a little cold under all the gold light.
+
+The invitation itself — "would you come to my house Saturday. Two o'clock. That's the whole message" — is pure Pace: minimal, exact, no pressure in the wording and all the pressure in the structure. His house. We've never seen his house. The bench, the truck, the gym bag. "He showered at the gym and had no house here to go to" — wait, that was my note from the flannel chapter, so where does he live? The book's been cagey about his actual life and I'm now actively suspicious that Saturday is where I find out why.
+
+GATE 13 — What to Wear
+DECISION: CONTINUE
+CAPTURE: 6
+ALMOST-STOPPED: none
+WHY: A warm, funny, low-heat chapter that widened Vee's world instead of shrinking it — after all the engineered intimacy, a table of friends laughing with her is exactly what I needed the book to give her. It didn't advance the machinery much, but "Saturday, two o'clock, his house" is a door I've been waiting to be shown, and I don't trust that house one bit. I'm going through it.

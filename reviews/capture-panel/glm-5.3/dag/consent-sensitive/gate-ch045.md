@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch045 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+
+REACTION — Oh, this chapter. This is the one I've been braced for since the porch, and it still hit me harder than I expected, because the book did the cruelest true thing: it let her be *right* about everything and still lose the exchange.
+
+"Words are cheap, and you still won't spend them on me." That's the best sentence anyone has said in this book, and she said it, and it didn't land. That's the whole horror of Pace compressed into one beat — he isn't withholding the word out of cruelty or ambiguity, he's a man who genuinely believes deeds are the currency, and he will stand there, having pre-heated the house hours before she arrived (which she *knows about*, she worked it out, and the prose lets her feel the tenderness and the trap in the same breath), and let her cry rather than spend a word he considers cheap. The stillness with folded arms — "the still of a man holding a line at cost" — the book knows exactly what that looks like from her side. It's the wall where the parents are. "I don't go back." This is the same wound, third door: he doesn't say things because saying things is going *back* somewhere, and I felt that click into place mid-chapter and my stomach dropped.
+
+And "Do any of your friends have a relationship you'd rather have?" — God, that's such a Pace answer, and the prose is honest enough to name the move for what it is: "she hated that he'd made the true thing pull against the point." He redirected. He answered the question she didn't ask, with truth, to avoid the one she did. I've been keeping a file on his control-through-objects and this is the first time it's failed him in front of her — and the failure mode is *arms folded, silence*. The kitchen-sink version of the flannel shirt.
+
+What gutted me most: "Not the hand in place of the word." She's finally auditing the whole economy — she sees that his hands have been functioning as speech, that she's been paid in warmth and fed in lieu of being named, and she's refusing the substitution. That's the bathroom-stop girl from forty chapters ago, back with a full vocabulary. Two nights of not-sleeping, the shirt that "was warm because she was warm — the heat given back," and now this. The book is letting her hit the exact seam the plan built: the unnamed thing is unnamed because a name would have to survive Cassie, survive her father, survive the *world* — and the plan needs it to stay inside the house. Except I don't think Pace is withholding for the plan's sake anymore; I think he hit the real wall and the plan and the wound are standing in the same spot, and that's going to make the reveal even more unsortable.
+
+I noticed she drove off. She drove off! Vee, who has never once taken a step that led out of that house, got the door open and went into the cold and "did not go back in." After chapters of half-inches and stopped audits, that's the first real exit in the book. I don't believe it's permanent — my dread is that Randi is now the obvious next port, and a crying Vee on Randi's curb is fuel for a fire I'm terrified of, because Randi is compromised in three directions and loves her. Or the phone rings and Cassie finally gets the 2 a.m. call she's earned. Either door changes everything.
+
+Also, small sharp thing: "her name was not the word she'd come for." He said "Vee" — he used the name Randi coined. The book won't let me forget who named her.
+
+GATE 45 — Believe Me
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none — this is the chapter I've been reading forty-four chapters toward
+WHY: The book finally let Vee name the whole machinery out loud and refuse the hand in place of the word, and the prose stayed honest about whose silence was doing the damage. Nothing was romanticized; everything was seen. I have to know who she calls tonight.

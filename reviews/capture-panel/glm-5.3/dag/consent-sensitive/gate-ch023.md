@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch023 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+
+**REACTION**
+
+The shoe store did me in. Not the sex chapters — this one. Because this is the chapter where the trap stopped being theoretical and started having an APR.
+
+Randi kneeling on the floor to put the shoe on her, and then — the pause. Holding the foot. Looking at the plum polish. "Mm." One thumb across the big toenail and Vee's hand shoots out to grab her shoulder. That was the most openly erotic gesture in the book so far and it happened in a boutique with a saleswoman ten feet away, and it was Randi's, and it was *calibrated* — she looked up, smiled, said nothing, and bent back to the box. That silence is her whole method in one image. She learned something about Vee's body and banked it in front of her, unspent, the same way she banked "there was—" at lunch. Randi keeps a ledger of Vee's thresholds and I'm now watching her make entries in real time.
+
+And the money. Oh, the money. The book ran that sequence so exactly I felt the debit card between my own fingers. Vee standing in the hush unable to *say* "I can't afford to be inside this door" — the shame doing the talking for her — and then the quiet "the exact shape of what was in her account," which is one of the most economically precise sentences I've read all year. And then the credit card. "There was nothing under it. She did not have the next part, the paying-it-back part." The book knows. It's not playing this as a treat-yourself montage; it's showing me a girl going into debt to stop a room, and the terrible part is I understand the arithmetic that took the wheel — "the shoes were what the dress was owed" — because Randi built it, brick by brick, all afternoon. The sensible tan heel vetoed. "It wants to walk in late and stop the room cold." Every escape route Randi offered Vee today led deeper in.
+
+And then Randi ringing up loafers at several multiples without glancing at the number, telling a story the whole time — that flex was almost cruel in its casualness. The gap between them performed in a single transaction. "Same feet, baby. Same size, same everything. We can share — it's practically a marriage." I caught my breath at that line. Same size, same everything — the "everything" is doing so much work and Vee doesn't hear it yet, or won't.
+
+But here's the thing, and it's why I'm not running: the chapter also gave me the shoe-store laughing fit. Vee being the funniest woman in Virginia, the canoe shoe, the bedazzled yeti platforms, Randi giving the real laugh "the one that costs her something to give." That friendship is *real*, that's the horror of it. And the ending — Vee clutching the box "like a girl who had never in her life bought a beautiful thing and didn't trust the world with it," and Randi catching it and both of them bent double on the sidewalk — "I had never once in my life had a friend like this." Yes, and that's the whole tragedy in one line, isn't it? The vacancy Randi filled was always real. The friendship is the bait AND the thing. I keep waiting for the book to blink and it keeps not blinking. It knows the credit card is a wound. It knows "to you" was a scalpel. It's still two moves ahead of me.
+
+Cassie wasn't in this chapter and I missed her like a missing tooth — though chapter 22 gave me her whole soul in one gesture: never looking at the professor once, forty seconds of watching what the dress did to Vee, "Was it a good night?" — "Oh, yes." And the eyebrow at shoes. Cassie has never cared what's on anyone's feet, and Randi just took Vee shoe shopping alone. Cassie's being edited out one appointment at a time.
+
+**GATE 23 — Sorority**
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none — the closest thing was the credit card moment, but not to quit; my stomach dropped *with* Vee's, which is the opposite of wanting to leave
+WHY: The book keeps proving it sees everything I see — the debt, the shame-economy, Randi's banked touch — and stages it with tenderness instead of denial. Every warm beat is a charge for the detonation and I still trust the hand holding the fuse. The induction night is going to wreck me and I'm going to be there for it.

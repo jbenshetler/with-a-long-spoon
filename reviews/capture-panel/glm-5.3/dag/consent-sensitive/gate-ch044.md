@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch044 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+
+REACTION: God. That chapter did something to me that the loud ones never manage. Nothing happens in it — a girl takes a shirt off and puts it back on and takes it off again — and I read the whole thing with my chest tight.
+
+"It was warm because she was warm. That was the thing she couldn't stop feeling once she'd felt it — the heat in the shirt was her own, given back." That's the sentence. That's the whole book in one image, isn't it? Everything she has of him is her own warmth reflected back at her — the drawer, the flannel, the cooking, the sex, the "I love how good we are together" that still hasn't stopped hurting. She built a whole love language out of objects because the man won't speak, and now at 2 a.m. she finally audits the objects and finds out they're all mirrors. And she takes the shirt off. And the cold is worse. And she stays in it anyway.
+
+What got me is that she doesn't reach for the phone and she doesn't send the text — the book is honest about *why*: not because she's dignified, but because she already knows the exchange rate. "The ones she thought of were all small, and would be answered small and warm, and would leave her exactly here." That's the trap of Pace in one line, and it's the trap I've been circling for forty chapters: he answers everything warmly and that warmth is exactly the size of a non-answer. She can't test the word because "the words went through him first." And here's what keeps me in — the book *knows*. Chapter 42 let her bump into the rule without naming it, chapter 43 let her throw the ugly loud thing at him and get back careful calm, and now chapter 44 has her lying naked in the cold with his shirt in a heap beside her, refusing the comfort she can't trust. The prose isn't playing this as pining. It's playing it as a woman beginning to starve on the diet that was supposed to save her from starving. Crackers again, but emotional this time.
+
+And it rhymes, horribly, with the very first thing the jacket told me: she was starving, and he fed her a meal. Now the meal is what's not enough. Her own sentence from the porch — "I had been eating crackers my whole life" — retired into her body after he failed to say the sentence back, and here she is, bare, cold, the shirt dropped like a dropped thing, "not folded, not set back on the pillow." She's stopped handling his objects with reverence. That's the tell. That's the flinch before the flinch.
+
+Cassie asleep below her the whole time — I felt that like a hand on my own back. The one unmanaged witness, breathing slow and easy under a window she keeps cracked, while three feet above her the girl she's been asking careful flat questions all semester lies awake with nothing on. "Do you love him" — and the answer is the answer, and the answer is "there is no name in her for it, not the big one and not the small one." Cassie doesn't even know how close she's sleeping to the whole case file.
+
+I'm not aroused by this chapter and it's not trying to arouse me — after the explicit tenderness of 43, this is the counterweight, and I think the book earned the right to it. What I am is anxious in a way that feels like the author's intent. Vee is starting to hold her own empty field. She didn't put the phone down because she was told to; she put it down because she finally understood there's no text that gets the truth out of him. The audits aren't idling down anymore. They're awake at 3 a.m. with the cold on her skin, and she's *staying in it*, choosing the worse thing because the warm thing is a lie. That's the same girl who stopped herself in the bathroom at Randi's face — the ethics engine, waking back up on the one subject she's been refusing to audit.
+
+What I'd text a friend at 1 a.m.: "she took the shirt OFF and didn't put it back on. she left it in a heap. the shirt chapter is over. i'm scared."
+
+GATE 44 — Bare
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: A shirtless, plotless, thirty-line chapter about the heat in his flannel being her own warmth given back — and it moved me more than the last three explicit ones combined. The book is letting her audit the man I've been auditing for forty chapters, and staying in the cold on purpose. I trust where this is going.

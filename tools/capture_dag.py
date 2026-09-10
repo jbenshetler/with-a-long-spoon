@@ -159,6 +159,18 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int) -> str:
     return f"{model_id}·{persona}: through ch{to_n}"
 
 
+OPENROUTER_MODELS = {
+    "kimi-k3": "moonshotai/kimi-k3",
+    "glm-5.3": "z-ai/glm-5.3",
+    "glm-5.3-flash": "z-ai/glm-5.3-flash",
+    "gemini-3.8-flash": "google/gemini-3.8-flash",
+    "qwen3.8-max-0902": "qwen/qwen3.8-max-0902",
+    "deepseek-v4-pro-0813": "deepseek/deepseek-v4-pro-0813",
+}
+OR_MAX_OUTPUT = 16000   # checkpoint mints run ~3.6k visible; the rest is reasoning headroom
+OR_TIMEOUT = 900.0
+
+
 def make_agent(model_id: str, effort: str):
     """Return (agent_fn(system,prompt,label), close())."""
     if model_id.startswith(authorship_audit.CLAUDE_PREFIX):
@@ -166,6 +178,23 @@ def make_agent(model_id: str, effort: str):
             return authorship_audit.run_claude(model_id, system, prompt, label)
         return fn, (lambda: None)
     import cold_read
+    if model_id in OPENROUTER_MODELS:
+        import os
+        key = os.environ.get("OPENROUTER_API_KEY")
+        if not key:
+            raise SystemExit("OPENROUTER_API_KEY not set in the environment.")
+        selector = OPENROUTER_MODELS[model_id]
+        holders = {}
+
+        def fn(system, prompt, label):
+            k = hashlib.sha256(system.encode()).hexdigest()[:8]
+            if k not in holders:
+                holders[k] = cold_read.make_openrouter_agent_fn(
+                    system_prompt=system, effort=effort, timeout=OR_TIMEOUT,
+                    max_output_tokens=OR_MAX_OUTPUT, api_key=key)
+            r = holders[k](prompt=prompt, model=selector, label=label) or {}
+            return r.get("output") or ""
+        return fn, (lambda: None)
     # codex: developer_instructions fixed per thread factory -> make per-call factories
     holders = {}
 

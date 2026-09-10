@@ -1,0 +1,17 @@
+*capture-dag-v2-rich · gate ch040 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+
+REACTION — Okay, I'm just going to say it: the flannel shirt broke me a little. This girl slept in his shirt every night she wasn't with him, watched it go stale, watched it go to *nothing*, and then — instead of keeping the dead thing and pretending — she washed it and brought it back to be refilled. That's the most naked thing she's done in this book, and she did it in his kitchen with all her clothes on. And him: he thought she was giving it back. For one second his face did the hurt before he decided not to ask. He's *good* at not asking things, the book says — and that's the wound too, Peter, that's the hallway talking, but it landed on her side this time as grace. Two shirts in his own warm kitchen because she told him to. "Smelling like me." I had to put the book down.
+
+The drawer still gets me, even in retrospect — he folded his whole ordered self down into the bottom drawer and gave her the top one, the easy one, the one your hand goes to first. And now it's "her space," and she smiled at the word in the dark. That's the con's whole method in one dresser: every door she walks through gladly was opened by someone. I know the ledger is still running. I know the file on her existed before she did. But God, when the payment is this warm, who's counting?
+
+And the doorway scene — her towing him down the hall by two fistfuls of shirt and him just *coming slowly*, that's the whole sexual grammar of this book in one image. She's the urgency, he's the deliberateness, and neither one is being steamrolled. She called five nights for school, he never made her pay a cent for it — "some unreasonable corner of her had wanted him to fight" — and I felt that, because I've read forty books where he *would* have fought, where her "I need time" would've been the offense the plot punished. Here he opened the door and waited on the far side of it. That's the thing I've been hunting this genre for since Fifty Shades. Five stars, no notes.
+
+Little flickers I'm filing: the thong landing green on the long, "unusually proportioned" table in his bedroom — that's the bench, that's Randi's counting story's furniture, sitting right there in the frame unremarked. The book hasn't forgotten. And last chapter is still sitting under this one like a bruise — Miranda Holdings, Randi going still over her own father's name, Vee watching her take it and giving her hands something to hold. The kindest thing a friend could do. Except the friend who needed kindness is the one running the con, and the girl being kind is the mark. When that lands — when Vee finally looks at Randi the way she looked at her over that laptop, except knowing — it's going to be the cruelest chapter in this book. Also Cassie's PPP thesis is aimed straight at Randi's house and nobody's flagged it yet. That's not a data point, that's a fuse.
+
+But tonight: pizza from water buffalo mozzarella, flavors she can count like strawberries, and a shirt that smells like him coming back Sunday. I'm staying exactly where I am.
+
+GATE 40 — The New Ordinary
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: The flannel shirt ritual is the tenderness-under-dominance thing I read this whole genre hoping to find — her want made plain and never once made fun of, him answering with his body instead of a speech. And the con's shadow (the drawer, the bench, Miranda Holdings) is tightening underneath all the warmth, which means the book still knows what it's doing.

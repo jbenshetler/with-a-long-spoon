@@ -1,0 +1,15 @@
+*capture-dag-v2-rich · gate ch006 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+
+REACTION — God, this chapter is doing something to me and I'm mad about it. I know — I *know* — this whole thing is a setup. The jacket told me flat out: two people planned this, the collision on the lawn wasn't a collision, the coffee shop "crash" wasn't a crash. And chapter 5 confirmed it from inside Pace's head — Randi chose her, pointed at her, and the man walked into that shop knowing exactly who Vee Thorne was before she said her name. So I read the froyo date with two sets of eyes the whole time, and the creepy one kept losing to the warm one, which is precisely what this book is doing on purpose and I resent how well it works.
+
+The frozen yogurt scene wrecked me a little. "Usually she heard her mother before she'd finished, *that's plenty, that's enough now.* Today there was nothing." That's the whole thesis of the book in one cup of froyo — the appetite getting fed by someone who isn't watching her portion it. And then "your tart's holding up" instead of making her confession into a moment — he's so good at not taking the thing she's offering. The way he lets the embarrassing sentence sit there without collecting it. I texted my best friend "I am going to be so burned by this man and I'm going in anyway."
+
+But. My wary eye is very much on duty. Pace's charm is *always* slightly architectural — "I've thought about most things," said without apology, "pleased in a contained way, as if he'd set something down exactly where he meant it to go." The book keeps giving me those flashes of the machinery behind the courtliness, and I genuinely can't tell yet if that's the author being honest with me or the author smudging. The same man who engineered a "chance" meeting now asks *may I call you* and waits through her sentences like her grandfather — the tenderness is real AND it's bait, and the book knows both, which is the only reason I'm still here. What keeps me is Vee: she has real interiority, real self-knowledge gaps the prose sees clearly. Randi, though — Randi scares me. Chapter 6's Randi is all warmth and push: *he wants to see you naked*, *you're not unsure*, steamrolling Vee's one small attempt at self-protection ("maybe I should make him wait") with total confidence. Randi is the one managing Vee's choices here — "the rule's for boys you're not sure about. You're not unsure" — and she's doing it while holding information Vee doesn't have. That's the manipulation pattern I watch for, and it's on the page, named and visible, just not to Vee. Yet.
+
+Also: Vee going looking for the flaw — "is he desperate?" — because wanting is too scary to sit in. That's so true to twenty-one and to girls who've never been waited on. I'm in.
+
+GATE 6 — The Long Way
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: The sweetness is real but the book keeps flashing the machinery at me — Randi steering Vee's yes, Pace's contained pleasure in placement — so I trust the author sees what I see. Froyo and "your tart's holding up" got me emotionally before my suspicion could get a vote.

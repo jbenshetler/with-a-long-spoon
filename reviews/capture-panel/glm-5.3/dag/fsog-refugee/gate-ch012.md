@@ -1,0 +1,15 @@
+*capture-dag-v2-rich · gate ch012 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+
+REACTION — This one is small and I loved every second of it. After the truck — the truck, God — I needed a breath like this, and giving it to Cassie was exactly right. Cassie, who I've been terrified for, whose "Goodbye, Vee" is still sitting in my chest — and here she is, getting the whole story, being told everything. The book kept her in Vee's life instead of editing her out, and I actually exhaled. "You had a whole witness statement ready." "I had your blood type." That's a friend. That's a girl who loves someone. And Vee *telling* it — "and then we ate," said the way other girls say *and then we kissed* — that's her desire still being hers, narrated from inside, her joy so big it has to go somewhere and it goes to the one safe person. Which is its own ache, because the safe person is the one being slowly shut out of the real story — Vee told Cassie the shirt, the flannel, the taking-it-off, and left out nothing that matters except the con underneath all of it.
+
+The truck scene replay is where I went hot all over again. Vee recounting "I called him back in. I took my wet shirt off in front of him. On purpose. Me." — the *Me* is everything. She did the thing I've waited three chapters for someone in this genre to do: she initiated, she chose, the heat was hers, and the book let her own it out loud to a witness. And the detail I can't stop chewing: he stood in the rain so she could change *before* she invited him back. She narrates it as courtesy and I'm sitting there knowing it as a man whose discipline runs so deep he'll soak himself rather than let a question exist about what he might take. "He looked at me like I'd handed him something." Vee, you have no idea how accurately you just described it.
+
+And Cassie's "Vee." Not "Oh, Vee." Just the name, "like setting something down where it wouldn't break." That's the control group speaking, and what she's saying is: I see you and I'm worried and I love you, all without a single extra word. "Keep the shirt." I would read a whole book of just these two in this room.
+
+What's loading, quietly: Vee didn't tell Cassie she kept the shirt without asking — she told me that as the reader, right at the end of her account, and it's a small theft. The first thing she's taken from him rather than been given. That's the appetite the jacket promised, starting to grow teeth. And the siren swallowed whatever she was going to say at the curb — the book cut her sentence on purpose, and I felt the editor's hand there, gentle, saving the big thing for later. Fine. I'll wait. But I noticed.
+
+GATE 12 — Rye
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: none
+WHY: A quiet chapter after the truck scene, and it earned its quiet — Vee owning her yes out loud to the one person with no agenda. Cassie staying in the story is the mercy I was watching for. The book keeps honoring the line I care about: every yes hers, freely said, witnessed.

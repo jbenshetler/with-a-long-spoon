@@ -1,0 +1,15 @@
+*capture-dag-v2-rich · gate ch016 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+
+REACTION — This one's a cooldown chapter and I know it — the story beats are all replay, Vee retelling Saturday to Cassie — and I'd normally get itchy at a chapter that's 90% recap. Except this book keeps doing the thing where the retelling IS the story, because we get to watch Vee metabolize what happened to her, and that's the part I'm actually here for. Watching her say "Like I was supposed to be there" and then go quiet long enough that it's not about finding a word — that hit me in the chest. That's interiority. That's a woman discovering her own desire out loud, to the one person who sees her straight, and it costs her something to say it.
+
+And Cassie. God, I love Cassie. "Are you sure he's not gay?" made me laugh out loud on actual couch — she's the reader's proxy, doing exactly the math I was doing (two shirtless incidents, one finished dress, zero sex), and the book knows it and lets her say it. But underneath the comedy, Cassie's still doing her job: "He asked," she said, and she heard it. She caught the thing that makes this man different and she named it in one word while Vee was still working around it. The canary is still sharp.
+
+What killed me, though, is the thing Vee DOESN'T tell Cassie. The soaked satin. The eyes-shut terror on the box. The smile waiting for her when she opened them. She gives Cassie the funny version — "I was grinding on him," the ass-pat diagram — and keeps the shame-and-rescue, the realest ten seconds of the afternoon, for herself. That's so exactly how women actually report sex-adjacent things to their friends: the bit that's funny to tell and the bit that's too true to hand over. And it aches a little, because the moment she doesn't share is the one where Pace was best. She doesn't have words for him yet that aren't hers alone.
+
+The shirt folded on the pillow at the end — "she'd put it there without thinking" — that's the sentence I'd underline. She's sleeping in a shirt he made with his hands, and now she KNOWS, and she's still putting it on her pillow. The tenderness of this book is getting under me even while I keep one eye on the plan I know about and she doesn't. Every chapter like this ratchets the dread higher, because she's building her whole self-concept on a man who picked her off a menu. "I was supposed to be there." Vee. Honey. You were *placed* there.
+
+GATE 16 — Turned Up
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: The opening beat of "Back up. When did he — how did he even know?" threatened a full-chapter recap, and I felt my patience flag for a page.
+WHY: The recap earns its keep because Vee's editing what she tells Cassie — what she leaves out (the satin, the closed eyes) is the characterization, and "like I was supposed to be there" is the emotional payload the whole afternoon was building. The banter was genuinely funny, and the dread engine under the warmth keeps humming. I'm in this until the floor gives.

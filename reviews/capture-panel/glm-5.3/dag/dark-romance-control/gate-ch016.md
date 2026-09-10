@@ -1,0 +1,15 @@
+*capture-dag-v2-rich · gate ch016 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+
+REACTION — Okay, so this is a full chapter of Vee debriefing Cassie, which on this shelf is usually the filler chapter I skip. Except it isn't quite, because Cassie is the only person in this book asking the correct questions, and watching her do it is my idea of entertainment. "Are you sure he's not gay?" is funny, but it's also Cassie's threat detector doing its actual job: a man had a half-naked woman on a box in his house and picked up a tape measure. From Cassie's angle that is *anomalous behavior*, and she's right to notice it, and the fact that the anomaly is the entire point — the discipline IS the kink, the withholding IS the weapon — is the delicious dramatic irony this book keeps cashing. Vee explains it herself without knowing she's explaining manipulation: "he left me a door." Yes. A door he built, in a room he pre-heated hours in advance, on a riser he constructed, wearing a man he reverse-engineered out of her one offhand sentence about a dress. Every tender detail Vee reports — the thermostat, the color he "went deeper" on, the shirt with no tag — is more evidence for MY file, and Cassie keeps almost opening that file and then Vee throws a pillow and the moment slides by. That's the chapter's whole engine and it works on me even though nothing "happens."
+
+The beat I actually loved: "I was grinding on him" — Vee discovering she has power and spending it, gleeful, wicked. And "Like I was supposed to be there." That's the con working at full depth; she's narrating her own capture as self-actualization and I'm sitting here rooting for both sides at once, which is precisely what I paid for.
+
+What I notice, a little uneasily: this is the third consecutive chapter that's aftermath-and-report. Hike, then tell Cassie; house visit, then tell Cassie. The structure is repeating and my notes from chapter 10 warned me the middle was smearing. I don't need another scene of friends processing — I need Randi. She's been offstage for chapters, and the book's biggest live wire (the plan, the bench, Daphne, the "not ever") has gone quiet while Vee and I both marinate in Pace's craft. One more chapter of warm gold light and radiators and I might start skimming. Also the "he's not gay" bit ran a touch sitcom for my taste.
+
+But — the reader-ahead-of-her engine is still loaded. Every detail Vee happily reports is a receipt I know the cost of. She's already sleeping in his shirt. She's about to wear a dress built out of her own surrendered data. When does Randi get her lunch report on THIS, is the question that keeps me braced.
+
+GATE 16 — Turned Up
+DECISION: CONTINUE
+CAPTURE: 6
+ALMOST-STOPPED: "He's making you a *dress* and you're—" — the comedy stretch was where I felt the chapter sag into sitcom
+WHY: Cassie's interrogation is the only honest pressure in the book and every laugh carried a receipt I could read; the dramatic irony is doing real work. But we're on our third aftermath chapter in a row — Randi or the plot needs to come back through the door soon or I start skimming.

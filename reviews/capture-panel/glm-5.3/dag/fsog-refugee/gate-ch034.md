@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch034 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+
+REACTION
+
+The pastry. I got to the last line and actually put the book down. Vee never touched one — she was in the bathroom — and there's glaze on her lip. Which means Randi ate it and the sweetness is on her mouth when she kisses Vee. The fourth kiss is the first one with a *trace* in it, and the book gave it to me in a sentence, quietly, like it was nothing. It's not nothing. I read that kiss three times. The escalation isn't measured in flinches anymore — the flinch is gone, the arms come down — now it's measured in what transfers. First the stories, now the glaze. God.
+
+And "sticky fingers." I need a minute about "sticky fingers." Randi said it, the floor went out from under Vee, and then the plate — and Vee *could not tell*. I could not tell either, and I'm the one who knows about chapter 24, who knows Randi gets off on Vee's blush, who watched her harvest "did you deserve it?" in the practice room. That line was either the cruelest thing Randi's done or an accident of pastry timing, and the fact that I can't decide — that the book holds both live — is exactly the engine the blurb promised me. "Every yes was freely given. That was the problem." Randi is the problem made flesh.
+
+The brunch itself was almost unbearable in the best way. Vee laying the bedroom out piece by piece "like a confession to a priest," her body keeping faith with every word while she talks about him to the woman who was in his bed — I keep forgetting mid-scene, the way Vee forgets, and then remembering like a slap. Randi asking "How does a girl get from a pantsing to a bare bottom. Walk me." That's the con harvesting the crop in real time, and it's also just... two friends being filthy over mimosas, and the book refuses to let me separate those either. The mimosa being the cheapest thing on the card and Randi never opening the wine list — Randi clocking it and being *pleased* — I felt Vee warm herself at the "two, same drink" like a stray at a fire, and I felt the author making me warm with her. That's the merciless tenderness on the jacket. It's working on me, not just her.
+
+The bathroom: I need this book to know how much it did with "Randi's face arrived behind her eyes" and her own hand being the thing she has to pull back. Vee governs her own wanting again — same muscle as the pinned hand in the practice room — but the wanting has changed owners, and this time it wasn't the kink she stopped for, it was *Randi*. That's the "yet" cashing itself out, and she stopped anyway, and the stopping curdled into "frustrated and cowed in the same breath" — that word *cowed* scared me a little. The book is starting to show me what happens when she says no to herself instead of being allowed to say yes. That ache is going somewhere.
+
+And the cold sidewalk: "You're my best friend in the whole world." The cruelest, warmest line in the book so far, said by the woman running the con, meant — I believe entirely — meant. "I couldn't bear it if there was something between us." There is a *whole plan* between them, Randi. There's a Berkeley hotel and a chapter 24 and a pointing game. I felt the floor go out from under Vee "sweetly, in a direction she had no guard up against at all" and I had no guard either, because I want it to be true so badly I'm starting to do Vee's forgetting for her.
+
+One thing I'm watching, hard: my line. Pace stays clean — everything in the retelling was asked and answered; "he checked" came after a bet she took with her chin up, and the story honors that the choice stayed hers ("Slow. For me." — hers now, give or keep). The book hasn't winked once. What it's doing instead is letting Randi's tenderness and Randi's machinery live in the same mouth without ever telling me the tenderness is the machinery. That's not coercion played as sexy — that's a portrait of a con where the love is real, and it's why I can't put it down.
+
+GATE 34 — One Bite
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: The glaze on her lip she never earned and the door Randi may or may not have shown her — this chapter tightened every line I'm reading for, and it did it without a single wink. I'm in this to find out what happens when the picker finally gets picked.

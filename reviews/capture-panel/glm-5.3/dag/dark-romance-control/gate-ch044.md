@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch044 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+
+REACTION —
+
+God. This one hurt, and it hurt in the exact way I've been braced for since the flannel dosing regimen started. Because I *called* the shirt a dependency three chapters ago and I meant it fondly — "Sunday refills," I said, isn't that romantic. And this chapter took my fond little ritual and turned it over and showed me the underneath: it was never him. It was her own heat, given back. "It was warm because she was warm." That's the loneliest sentence this book has written. The whole apparatus of him — the cooking, the drawers, the scrunchies, the sawdust-and-salt shirt — and at 3 a.m. it resolves to a girl alone in a cold room holding her own body heat and calling it love.
+
+And the phone. The empty text field. "There's no text that makes it come clear." That's the thesis of the whole book landed in a single gesture — every chapter, someone tries to route the important thing through a side channel. Her love goes to a sleeping man's ear. His goes to a drawer. Randi's goes to brunch. And now Vee sits with a lit rectangle in her hand and can't even find a *small* message that would come back big. The channels themselves are the trap, and she finally sees it, and seeing it doesn't free her. She just puts the phone facedown.
+
+What got me most was her taking the shirt off and *not putting it back on*. "It was so much worse, and she did not put it back on." She chose the cold. That's the first genuinely unrewarded, unsexy act of self-deprivation in the book — she's been curating her own capture this whole time, every yes an ornament, and here she finally just lies bare in the cold and stares at the ceiling until it goes grey. No Cassie to perform for. No Randi to confess to. No Pace to be received by. Just the want and the name-shaped silence at the center. I read that last line twice with my actual chest hurting.
+
+And the structural thing, which I know is deliberate and is why I'm not bored even though nothing "happened": the book is teaching her, chapter by chapter, the difference between *having all of him* and *being able to prove it*. Ch43 gave her everything — his control gone, him shaking, hers — and it stopped at the edges of the bed. Ch44 is the same lesson with the clothes off: everything he does is in the cloth, and none of it is a name. The jacket promised "psychologically merciless in its tenderness" and this stretch is the merciless part arriving. The knife I said was sheathed? It's not in Randi or the con. It's in him. It's been in him the whole time — "I don't go back," the drawer with no note, the love that arrives as logistics. He's not withholding to be cruel. He's withholding because the room behind "I don't go back" is where the words live, and that's worse than cruelty and I'm feral about it.
+
+The wrinkle I'm watching: Cassie sleeping below her the whole time, breathing "slow and easy and asleep," while Vee lies bare and awake two feet overhead. The one person who asks flat, exact questions is right there, and the truth is now close enough to fall on her. And Thanksgiving-Sheri-pie is still coming. And MIRH is still sitting in Vee's pocket. Every thread this book has been saving is loaded, and it's spending its quiet now. This is the coil tightening. I'm not going anywhere.
+
+GATE 44 — Bare
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none — the shirtless cold was bleak enough to make me set the book down for a minute, but that's a compliment, not an exit
+WHY: Nothing "happened" and it still gutted me — "it was warm because she was warm" reframed the entire flannel ritual as her own loneliness returned to sender. The silence at the center is finally being felt by her instead of papered over, and that's the merciless tenderness I bought this book for.

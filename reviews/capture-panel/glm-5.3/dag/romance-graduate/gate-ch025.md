@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch025 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+
+REACTION — Okay, I'm just going to say it: I cried at "Peter." Not at the reveal of it — the *sound* of it. She says it once into the dark "the way you say a word to keep it," and he doesn't answer, and doesn't need to, and I had to put my Kindle down. This book keeps doing that to me — handing me a sex scene that's just fingers on a scar under a quilt and it lands harder than anything in the last fifty KU books I devoured.
+
+The Daphne thing. God. Nineteen and fifteen, two years, and he hands it over in that flat careful voice, "named it luck," and Vee does the math before she can stop herself and holds the ugly word behind her teeth. I love that she didn't say it. I love more that the *book* knows — "that he did not hear himself doing it." That's the grown-up intelligence I'm starving for: the narrator sees the wound that the character can't, and lets the reader sit with both him and her, holding him and knowing. And my God, it reframes everything — the man who asks before he takes, who's exact about consent, who was himself… taken off from home too early by a nineteen-year-old assigned to him. Not in a way that excuses anything or damns anything. Just: there's a boy at the bottom of all that precision. I keep thinking about the desk in the hall. The year of long-division worksheets. "They took the thing you loved and made it the punishment" — Vee found the right place by accident and he *looked down at her like she'd put her hand on it.*
+
+The paint-the-inside-of-the-shape thing wrecked me a little too, because I believed him. "Most people walk around inside the poem and never get to read a line of it, and I got to read some." I have read a hundred brooding-genius heroes and not one of them ever made me feel what the beauty actually IS. He turned the understanding toward her like light — that's the whole book, that's what he does to her, and now I can't tell seduction from teaching from love and neither can she.
+
+The scar: he put her hand ON it and said "not tonight," no wall in it, just a door with a time on it. Two reliefs in two chapters — Daphne's door opened, the scar door has a time on it. And she turned her palm to meet his over it. I'm compiling this couple's language of hands and it's better than any dirty talk I've read this year.
+
+And I know. I KNOW what chapter 24 means now, sitting under all of this — Randi in his bed, the two of them building this whole weather system around a girl who "got past me before I could help it." "That was kind of hot." "She's not ready." Every warm thing in this chapter is running on a plan she doesn't know about, and the Daphne story makes me re-audit Pace too — was the tutor assigned to him the way Randi steered Vee? Is he running Daphne's playbook forward, or healing it? And it doesn't matter how much I know, I'm still in the quilt with them, hand on the scar. That's what the blurb promised — "fall for it exactly as she does" — and it's working on me, fully, shamelessly.
+
+Not one charged sex scene and this is the most intimate chapter yet. His palm just resting on her breast while she talks about casseroles. If you'd told me a chapter about Ohio food and Newton's three sentences would be the spiciest thing in the book, I'd have laughed. Here we are.
+
+GATE 25 — Rock
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: The quiet chapter that usually kills romance momentum — and it's the one that got me, because the Daphne confession and the scar and "Peter" do more intimacy work than an explicit scene ever could, and I believe every word of it. The dread under the warmth (Randi, the plan, the audit Vee doesn't know is coming) is now the engine pulling me forward, and I want to see what the scar is and what Pace does when the plan starts to cost him.

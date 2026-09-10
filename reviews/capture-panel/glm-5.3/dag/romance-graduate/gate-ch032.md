@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch032 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+
+REACTION — Okay, first: the CHASE. I have read approximately nine thousand "he chased her around the apartment" scenes and every single one of them has been dead weight between the plot and the sex. This one made me put my tea down. Because it's not foreplay-decor, it's *character discovery* — she finds out she's faster than him, on the balls of her feet, in heels, and the book knows that "she was faster than he was" is a bigger deal than any of the spanking that follows. The wall flinched. She poked his thigh and he FLINCHED and I sat up straight, because the book let something land on him for the first time in thirty-two chapters. Even her flash — "she had never in her life done such a thing, and some small astonished part of her stood off and watched her do it" — that's the sentence I'd underline. That's the interiority I'm starving for.
+
+And the bet. "Either you admit you lost, or we find out." God, that's the whole book in one line. He keeps building machines where her denial does the work — the apology machine, now this one — and they keep failing beautifully in her favor. The finger, and the *shame of the ease*: "her body had decided without her. It had decided every night this week in the dark and hadn't thought to tell her." That hit me somewhere old. The wet, the "shameful plenty of the wet" — this author keeps going straight at the specific shames women actually carry and refusing to let anyone in the room make them shameful except her, and then taking even that away. "Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness." I had to sit with that one.
+
+The spanking itself — I loved what it *wasn't*. No counting, no theatre, no Randi's-ex showmanship — he gentles her until the skin "began, on its own, to want the thing it was afraid of," and I love that Vee measured it against Randi's story and got something quieter and worse/better. "It's not," she says, three times, and the book knows she's lying to herself and to him and can't sort out which. That's the exact psychological mercilessness the jacket promised and it's still delivering at chapter thirty-two, which almost never happens to me this deep in.
+
+The aftercare made me mist up, embarrassingly. The JUICE. Faintly ridiculous, held to her mouth. "Wonderful, wonderful, quieter each time, until the word and his hand in her hair were the same thing." And then the scrunchies — no note, more of them than a person could go through quickly, *the plenty of them said the thing no note would have.* I'm going to be thinking about a bag of hair ties for a week. That's the most romantic thing in this book and nothing "romantic" happened.
+
+And the mirror monologue! Her alone with herself, "why do I keep pretending we're not going to sleep together," his deodorant on her body, "I'm going to start bringing a bag" — that's her talking herself into moving in by way of elastic, and she means it, and I believe her.
+
+Two audit notes I can't shake: "no Randi to be told" — the ledger now includes Randi *inside the sex itself*, the threesome-ness is leaking in whether anyone admits it or not. And the scar — she traces it, doesn't ask, "a thing about a person you've decided to keep." The door with a time on it is still closed and I still want what's behind it. But honestly, this chapter bought itself a lot of patience. The curry. The beer. I'm fed.
+
+GATE 32 — We Find Out
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: The chase scene, the bet, and the scrunchies gave me heat AND interiority in the same breath — this is the exact book I've been begging the genre for. "Shame wants a witness" is going to live in my head, and I still need what happens when Randi finds out what she wasn't told.

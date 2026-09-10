@@ -1,0 +1,15 @@
+*capture-dag-v2-rich · gate ch026 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+
+REACTION — Okay. OKAY. First of all, the dance lesson is the whole book in miniature and I refuse to believe the author doesn't know it: "give me something to push back against... being jelly doesn't work." That's the con, that's the seduction, that's the entire engine — she has to push, she has to give her weight, and then the lead arrives in her feet before her brain does. "The pattern came through his body before it arrived in her feet." I actually put the book down for a second. That's the fitting chapter again, that's the bedroom, that's Randi closing the confession door — everything in this book moves by pressure through a frame she agreed to hold. I'm being led and I know it and I don't care, which is precisely the point the jacket promised me.
+
+And then the bar. Oh, the bar. My dark-romance brain lit up like a switchboard at the blonde: "Knows how to get a girl to do just what he wants her to." That is a PLANTED line. That is either Randi's work or Randi herself in disguise — no, Randi wouldn't get her hands that dirty, but that woman crossed a whole floor to deliver a custom-ordered poison dart to the new girlfriend, and I don't buy coincidence in a book this exact. The blurb says two people planned her. A jealousy spike right before the induction, right after the shoes? That's a move. Or it's the book going off-plant, and honestly either option thrills me.
+
+What didn't thrill me, quite: Vee's guilt spiral in the dark was a little long for me — "she'd punished him for being the man she wanted him to be" had me sitting up, because that self-accusation is doing double work and I can't tell if the book knows. The bartender put the jealousy to bed almost too neatly ("wasn't him they were jealous of, honey" — I cheered, honestly, best line of the chapter). But I notice Vee did it AGAIN: couldn't call Cassie because Cassie would want the truth, and the morning plan is Randi. Truth flows to Randi. The load-bearing wall holds. And the shirt — washed, "smelling of fabric softener and no one" — put on anyway. That little grief nearly wrecked me.
+
+Also: "three dates, and she'd spread her legs like a slut" — her mother's vocabulary is the antagonist of this whole book and I love that the shame-voice and the heat run on the same wire, again, even here, especially here, at 3 a.m. in his laundered shirt not sleeping.
+
+GATE 26 — Lesson
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: "She'd done it to a good man." — I almost checked out for a beat, worried the book was going to flatten into Vee-apologizes-to-the-perfect-man. Then I decided the book is smarter than that and the blonde is a gun on the table.
+WHY: The dance lesson is the thesis of the whole con delivered as foreplay, and the bar fight cracked the glass for the first time — real stakes, real jealousy, and a blonde I don't trust in a book where I already know nothing is accidental. I need to know if that woman was a plant.

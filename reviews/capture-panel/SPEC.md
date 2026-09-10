@@ -246,6 +246,73 @@ the kitchen kiss — a second model on the density gpt-5.6-sol noted in cold
 read. Not actioned; the four-strike count is the designed loop
 (`meta-triage-famished.md`).
 
+## Reading a capture dip — standing rule (author ruling 2026-09-10)
+
+**CAPTURE measures arousal and pull, not quality.** This book varies heat by
+*kind*, so its breather chapters are designed to run lower — sustained tension
+is exhausting and the rest beats are what make the risers land. **Lower
+engagement in a breather is design, not failure**, and must not be triaged as a
+weak chapter. A uniform 9 across fifty chapters would be the actual warning
+sign: it would mean the breathers aren't breathing.
+
+**A dip is a finding only if it shows one of:**
+1. **No rebound** — the next chapter doesn't recover (or the decline compounds).
+2. **Trust drop, not arousal drop** — the reader's confidence in the book falls,
+   not merely their heat. Read the WHY, not the number.
+3. **A real ALMOST-STOPPED** — an exit moment, not impatience ("not that I'd
+   quit" is appetite, and appetite is the engine working).
+4. **It lands in the free sample (ch1–4)**, where no goodwill is banked yet.
+
+**Measured baseline (glm-5.3 full volume, 2026-09-10).** Target-reader baseline
+**8.37**; deepest dips ~2 points (`what-to-wear`, `school-nights` 6.33;
+`water-wings`, `hills-and-valleys` 6.67), every one rebounding +1.67 to +2.67
+the following chapter. No target reader fell below 6 anywhere in the volume.
+Readers frame these as earned: *"the heat chapters have banked enough trust that
+I'll happily take a breath"*; *"'Listen to you' did more for the love story than
+a sex scene would have"*; *"a quiet chapter that's actually load-bearing."*
+
+**The adjacent-dip stretches ch6–7 and ch12–13 were checked and cleared.** Six
+of seven target gates report ALMOST-STOPPED *none*; the exception disqualifies
+itself ("not that I'd quit"). Floor 6, immediate rebound both times (ch8 8/9/9,
+ch14 9/9/8). Meanwhile the **control** craters to 4–5 across exactly those
+chapters — the wrong reader repelled by the courtship where target readers stay
+engaged, which is the filter working. Both stretches sit inside ch5–17, the
+volume's longest heat-free run before `famished`; ch11 `leave-no-trace` scores a
+**10** between them, so the stretch is building appetite, not sagging.
+
+## Vendor comparison for the DAG lane (2026-09-10)
+
+`capture_dag.make_agent` previously handled only the claude and codex lanes —
+every OpenRouter model fell through to codex, so the paid models could never run
+the capture DAG. An **OpenRouter branch** is now wired in (`OPENROUTER_MODELS`,
+`OR_MAX_OUTPUT=16000`, `OR_TIMEOUT=900`), effort `low`.
+
+Measured per-reader volume: **1.47M input tokens** for a full volume (1.22M in
+the 50 chapter packets + 251k in the 5 decade mints); visible output only ~70k
+(gates ~1,034 tok, checkpoints ~3,607). Input is ~95% of spend, so input rate
+dominates. Four-persona volume at moderate reasoning: **gemini-3.8-flash ~$7.5,
+glm-5.3 ~$8.8, kimi-k3 ~$24**. For contrast the **Fable subscription lane could
+not complete four reads of one chapter** ("You've reached your Fable limit").
+
+**Verdict: glm-5.3 is the DAG workhorse.**
+- **Reliability.** GLM: 200 gates + 20 mints, zero malformed responses.
+  Gemini-3.8-flash: **2 malformed gates in 20 chapters (~10%)**, at ch07 and
+  ch19 — not refusal or context overflow (a diagnostic re-call handled the same
+  35k packet cleanly), just intermittent formatting. A malformed gate aborts the
+  whole reader, so this needs manual resumes at ~10% of chapters.
+- **Discrimination.** Same persona, same 20 chapters: GLM mean 8.16, sd 1.09,
+  range 6–10; Gemini mean 8.94, sd 0.78, **floor 8**. A reader that never drops
+  below 8 cannot tell you where the book loses people.
+- **Long context is fine for both** — the recurring 40k-class packets (max
+  45,195 tok) caused no degradation; Gemini's ck-ch010 was the richest of the
+  three. The flash-tier worry did not materialize on memory quality.
+
+**Caveat — STOP behavior is model-specific.** GLM's dark-romance-control read all
+50 chapters, where opus's stopped at ch20 and sol's at ch6. It still *registered*
+the repulsion (mean 7.56 vs ~8.37 for targets, the only persona hitting 4s and
+5s, lows exactly on the courtship/campus chapters). Compare controls on their
+**capture curves**, not on whether they quit.
+
 ## Cleanup EXECUTED 2026-09-08 (author-confirmed)
 
 Deleted per the plan below: `dag-v1-terse/` trees and all single-go

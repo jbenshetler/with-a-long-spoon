@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch034 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+
+REACTION — Okay. I need to lie down and I'm the one who just read about someone else needing to lie down.
+
+That chapter did the thing this book does to me over and over: it made me feel Vee's arousal in my own body and *then* made me feel the architecture around it, and the order of those two feelings is the whole trap, for her and for me. The confession brunch was written like slow seduction — Randi feeding her mimosas and questions in exactly the right sequence, "Walk me," "What was the bet," "And how was it settled?" — and I clocked, with real dread, that Vee is now narrating her own corruption to the co-author of the plan that corrupted her. She's doing show-and-tell for the woman who wrote the curriculum. Randi's "I had him filed under spicy" got Vee to *volunteer* the spanking — Randi didn't extract it so much as leave a door open and Vee walked through it beaming. Again: the mark does the walking. The book keeps insisting on that, and I keep insisting on noticing.
+
+But the bathroom. The bathroom is where the chapter earned everything. Ch 30 she pinned her hand to her knee and would not say yes; here her body is three floors ahead of her and Randi's face arrives behind her eyes mid-touch and she stops — stops at the one unfair inch — and the wanting curdles into "frustrated and cowed in the same breath." That's the most precise sentence about unwanted desire-shame I've read in this whole book, and the book *knows* it's writing about Randi colonizing even Vee's private fantasies. Randi got into the bathroom. Randi got into the stall. That's a violation-shaped fact and the prose holds it up and looks at it: "she could not be looked at like that and keep her hand where it was." The handler's gaze now functions as an internalized prohibition. That's dark, and it's dark the book completely understands, and Vee's interiority is so full that I stayed — more than stayed, I leaned in.
+
+And then "Sticky fingers?" — I actually put the book down. Because it's perfect and I can't audit it and *Vee can't audit it* and the text won't let either of us. Door or trapdoor. Randi's face "easy, no curiosity anywhere in it" — that nonchalance is either an innocent woman mentioning pastries or a woman who knows exactly what a half-climax sounds like in a public bathroom two walls away and is enjoying the not-being-able-to-prove-it. The chapter refuses to settle it, and that's the right choice artistically and it's also agonizing. Randi's scary-correct sentences keep stacking up.
+
+The kiss at the curb — a beat past friendly, twice, "a little more in them" — and "You're my best friend in the whole world," which lands on Vee like sunlight because Vee has been quietly editing Cassie out and now the slot has been officially filled by the person holding the slot's paperwork. I dread Cassie at the reveal even more now.
+
+The last line is the one I'll be chewing on all week: the taste of a pastry she never touched. Randi took one bite and set it down; the sweetness is on Vee's lip anyway. Whatever that's metabolizing — that Randi's appetite leaves traces on Vee without Vee ever getting to consume the thing itself — it's the thesis of the whole book in a hundred grams of glaze. Randi eats, Vee gets the sweetness secondhand and can't prove where it came from.
+
+I'm scared, warmed, turned on, and being managed extremely well by an author who knows exactly what they're doing. The only comfort is that the book demonstrably knows what Randi is. As long as that holds, I'm in.
+
+GATE 34 — One Bite
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: "Sticky fingers?" — for one long breath I thought the book might be playing the ambivalence as a wink at me rather than a horror in Vee, and if the next paragraph had grinned at me instead of at her, I'd have been out.
+WHY: The bathroom scene did the opposite of what I feared: it gave Vee's refusal real cost and real interiority, and the prose names Randi's colonizing presence for the violation it is even while Randi's face stays innocent. This book knows exactly what it's showing me, and the pastry line means it's still writing at full power. I have to know what happens when the doors Randi keeps half-opening finally swing.

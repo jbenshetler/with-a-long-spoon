@@ -1,0 +1,17 @@
+*capture-dag-v2-rich · gate ch007 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+
+REACTION — Oh, this one got me somewhere I wasn't expecting. After the bench chapter — which left me feeling half-drugged and half-wary, honestly, because watching Randi put the *real* girl back behind the face like that was almost too much — and after the coffee shop, where I kept noticing the wires behind the curtain (Randi's hand busy around her coffee cup, her cup going up and coming down with no sip, and *I know* she's one of the two who planned this), I needed Vee to just... breathe. And the book gave me that literally. Underwater.
+
+The thing that wrecked me a little was the line about having loved the water *before she had a body to be a problem*. That's the whole book in one sentence, isn't it. Vee's body is the thing everyone acts upon — the catcalls from the bleachers, which she fields like a professional, chin level, the walk "of a girl who had *meant* to arrive," and God, I *hurt* for the girl who's had to build a whole public performance out of the fact of being looked at. And then she goes under and nobody can see her and nobody wants anything and she can just *be*. The grief down there — "and grieved, a little" — that's her mourning the body she got handed, the one that made the world treat her like a surface. It rhymes so exactly with Randi's mirror scene, the face versus the person, except Vee doesn't have the defenses Randi built. Vee's defense is Cassie.
+
+And Cassie. I want to text someone about Cassie. "They will never know the love of a woman." Kept low, kept *for Vee*, because pitching it at the bleachers would have made Vee's problem bigger instead of smaller. That's love with the same precision Pace shows in the bedroom — total attention, aimed at what the other person actually needs. The splash trick that barely gets her, outrage out of proportion, that's Cassie doing grief-therapy via water fight, and it *works*, and I laughed out loud at her taking the wave deadpan. Also — "Goodbye, Vee" from two chapters ago is still sitting in my chest like a stone. Cassie said goodbye like someone who knows something, or like someone who's watched girls get swallowed before. I keep going back to that.
+
+What I'm suspicious of, still: the knowing. Pace "happening" into that coffee shop, twenty minutes after Randi was texting someone with her whole attention while Vee struggled. The blurb already told me the invitation came before Vee knew there was one. So every warm scene now has this frost on the window for me — I'm enjoying the froyo chapter retroactively less. But here's the thing: this chapter has no Pace and no Randi in it, and it's the chapter that made me love Vee most. The author's smart enough to give Vee a self that exists outside the seduction — the synchronized-swimmer hands that remember, the shriek-laugh, the person who checks her answer twice with elation. Whatever they're planning to *do* to her, there's a real person there to be taken, and I'm invested now.
+
+Keep going. Definitely keep going.
+
+GATE 7 — Water Wings
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: none — closest thing was the bleacher catcalls at the top, which I read through my teeth
+WHY: No heat in this chapter at all and it still pulled me hard — Vee underwater grieving her own body, and Cassie loving her with such exact aim, is the tenderness I'm here for. I'm now attached enough to Vee that the coming manipulation is going to actually *cost* me, which is exactly what I want from this book.

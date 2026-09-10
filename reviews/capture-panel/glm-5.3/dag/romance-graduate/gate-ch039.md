@@ -1,0 +1,15 @@
+*capture-dag-v2-rich · gate ch039 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+
+REACTION — Okay, so this is the chapter where the book takes the sex away entirely and dares me to keep reading, and the annoying thing is I *ran*. Because this was the outliers lecture paying off in real time — my notes literally said "this professor is in on it" when Vee's stats class did outliers two weeks ago, and now the outlier walks into the story wearing Randi's whole legal name. Miranda Holdings, LLC. Her dad took the money, kept nobody on payroll, and Randi — who spent the whole scene telling Cassie the loans *kept people on*, who grew up inside those businesses and said "the country isn't my county" — had to sit there and read it in front of her two best friends with her face going to nothing. "Cheating bastards," said with no *these* in it, ragged, first-time words, aimed too near. God, that was the line. She was calling her father a cheating bastard and Cassie heard agreement and Vee heard the whole thing.
+
+And Vee. My girl looked *before she chose to* and then did the most grown-up thing anyone in this book has done yet: she didn't say the name, didn't look back at the point, just slid the laptop over and gave Randi something to do with her hands. That's the Vee the book has been building — the one who learns from watching Pace ("asked before he takes," making the place instead of saying the words) and from watching Randi. She's becoming a person who handles people. Which is exactly what Pace and Randi did to *her*, isn't it. She's learning the playbook from the inside and using it kindly. I felt proud and a little chilled at the same time.
+
+Also — the framing. Randi's family money, the Mercedes, the boutique, the house with the composites on the foyer wall and a folder on Vee before she ever arrived... now there's a shape under all of it. Where the money comes from. I don't think the book put this here by accident — this is the audit building itself another wing. And Cassie with the laid-off father sitting right there on the other side of Vee, both of them true, Vee literally in the middle seat again. The middle seat is the thesis of this whole book.
+
+One honest gripe: two chapters in a row now with no heat, and I felt it. This is Volume One of literary erotica and I've been fed so well that a chapter of pure group-project logistics should bore me more than it did — but it *didn't* bore me, that's the thing. The glass room was electric the whole time Randi was still. Still, I want the next one to get me back in that kitchen. The book has earned one plot chapter on the credit of everything around it. One.
+
+GATE 39 — The Outlier
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: none
+WHY: The outlier lecture finally detonates inside the actual plot, Randi's whole surface cracks in a way I've been waiting chapters for, and Vee covers for her with a grace that's both lovely and a little ominous given who taught her to handle people. The no-heat chapter was earned — but only one.

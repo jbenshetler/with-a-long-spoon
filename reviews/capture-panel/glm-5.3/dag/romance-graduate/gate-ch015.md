@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch015 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+
+REACTION — Okay. I put my tea down for this one and then didn't drink it because I didn't want to look away from the page. This chapter is the whole reason I'm still reading this book. The mountain chapter was the sex scene disguised as a dinner, and this one is the sex scene disguised as a *fitting*, and I am sitting here genuinely flushed and also genuinely moved, and I need to talk about both.
+
+The wet-panties dread. God. That is the most honest thing anyone has written about arousal in years. Every single book I've read handles a heroine's arousal like a lightswitch — "she felt her core clench" and we move on. This book made it a *shame event with a weather forecast*. "She knew, the way you know weather coming in, that she had a long way still to fall." I have BEEN her on that couch doing the maybe-math, lifting the blanket to check the damage, bargaining. The fact that she chose the satin with hope and then had to stand there while the hope became legible — "The hope was sized to be seen across the room" — that line went through me. It's cruel and tender at the same time, which is apparently this author's whole signature move and it WORKS on me every single time.
+
+And the grin. I was as terrified as she was when she opened her eyes. I've read the version of this scene where the man smirks and it's a power play and it's gross — I've read it a hundred times. I was braced for it. Him on his knees with his chin craned ALL the way up, waiting for her eyes — not looking down, not once, waiting for her FACE — that broke me a little. And then the moment where her posture physically rearranges itself, the stoop coming undone, rising onto her toes — I felt that in my own spine. That's not a sex scene and it's the most erotic thing I've read this year. It's what all those "he made her feel beautiful" cliches are reaching for and never land because they never do the shame first. You have to earn the standing-up-straight by writing the wanting-to-disappear honestly, and this book does it.
+
+Then the second half — her *spending it*. The deliberate breast-against-his-cheek, "Oops. Sorry." I cackled. She toppled him. HIM. The courtly exact terrifyingly patient one went red and couldn't look up at her, and I loved watching it happen because I have suspected this man of being an engineer of women since the pointing game, and for one full minute a twenty-one-year-old on a box in her hope-satin had him by the throat. And his "Keep still," a beat too late — the cost audible in it — kept him Pace. He's still choosing. The book keeps making his choosing expensive, which is the only thing that makes it mean anything.
+
+The plausible-deniability touches after — palm down the spine, the single finger at the back of her knee — fine, yes, I'm fully aware I'm being fed and I don't care, feed me.
+
+Meanwhile my surveillance-brain never fully shut off: the heat turned up hours in advance, the riser already built, the tea water already hot, the house arranged around a woman standing bare in it. Every kindness in this chapter is also logistics. He prepared the ROOM like he prepares everything. And I know — I know — Randi picked her, and he's out here matching silk to her freckles like a man in love, and somewhere in my notes is a woman on a bench who locked a bathroom door. The warmth and the trap are the same warmth and the same trap, and that's the thing keeping me up.
+
+GATE 15 — A Round
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: none
+WHY: This is the both-things-at-once I've been starving for — explicit as anything on my Kindle and psychologically exact down to the thumbprint of evidence on the satin. The shame-to-standing-tall turn did something to my actual posture. And the dread of the pointing-game reveal is coiling under all of it like a spring, which is exactly how I like it.

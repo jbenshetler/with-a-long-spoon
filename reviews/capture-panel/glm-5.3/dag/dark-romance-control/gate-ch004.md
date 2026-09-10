@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch004 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+
+REACTION — Okay, so nothing "happens" in this chapter, and I'm still leaning in, and I need a minute to be honest with myself about why.
+
+Because I KNOW. That's the whole drug of it. I know Randi got pointed at this girl like a hawk getting loosed. I know the shoulder-bump on the lawn was a *hit* — three seconds of execution by a girl who folds a decade of dance and three years of sorority training into looking like an accident. I sat in Pace's head while he stood at his light pole and *watched her hunt*. So when Randi slides into the stats row with "*There* you are" and her whole face lit like Vee is the thing she'd been hoping for — I got actual chills. Every warm beat in this chapter is a lie, and it's being told beautifully, and Vee is drinking it down like the lavender latte and keeping the feeling and losing the words. The blank transcript! She hung on every word and can't give back a single one, because she was never in a conversation — she was in a *handling*. That's the most quietly sinister sentence in the whole book and it's played as a swoon.
+
+And it's all sitting on top of what I read in Chapter 1, which I genuinely have not recovered from. Randi begging on that bench, and then standing at that mirror putting the face back on — "the face was lying. The face had been lying for years" — and deciding *he could have the face* and the found-girl was going back behind it forever. And then LESS THAN A WEEK LATER (or however long) she's running Pace's pointing game with total smooth fluency and giddy delight, "*Yes*," squeaking, kissing him with her mouth tasting like Vee's name. So either the bench broke something open or it broke something shut, and this chapter is the first real data point on which, and the data point is: she picked a target and closed like a professional. The hum in her ribs has a job now.
+
+Little details that got me: Cassie. Cassie is the only person in this book with a working threat-detection system, and she said *"Goodbye, Vee."* The WHOLE word. Flat. Finished. The roommate nobody listens to, telling her with the word itself that this is a parting — that the Vee who comes back won't be the Vee who left. I gasped. And the Chi Latte joke — walking under the sign she finally gets to be in on — is so cruel and perfect as a metaphor for the whole operation: you only understand the thing once you're inside it, and by then you're inside it.
+
+What's keeping my pulse up is the fork I can feel coming: Pace built a bench for Randi and asked her permission at every joint. Nobody has asked Vee anything. The blurb says "every yes was freely given — that was the problem," and I'm already seeing the machinery for it: the collision, the coffee, the "I've decided." Nothing taken. All of it arranged. The tenderness is the weapon and I am HERE for it.
+
+If I have one gripe it's that after a bench scene that raw, this chapter is a cool-down — no heat, all dramatic irony. But it's the good kind of setup chapter, the kind where the dread does the work, and I noticed the hair standing up on my own arms twice, so it's doing its job.
+
+GATE 4 — See You Later
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: "It was the best hour she'd had in months." — briefly worried we were sliding into cute-girlfriend-friendship-arc territory with no edge.
+WHY: The dramatic irony is doing everything — I know the warmth is a hunt, and watching Vee fall for it while I fall for it too is exactly the trap the blurb promised me. Also the bench chapter before it bought this book about five chapters of patience from me, and Cassie's "Goodbye, Vee" tells me the author knows exactly how ominous to be. I'm not going anywhere until Vee walks into that house.

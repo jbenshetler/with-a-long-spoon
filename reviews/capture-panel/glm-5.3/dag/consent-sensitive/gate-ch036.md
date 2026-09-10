@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch036 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+
+REACTION — God, this chapter made me miss Cassie so much it hurt, and then I remembered why I've been missing her, and it hurt more.
+
+The whole first half is just the two of them in the good old register — Vee in the backward chair, talking herself out, Cassie letting her — and it's the warmest the book has been in ten chapters, and I sank into it like the bean bag. "You're a public utility." "Go on, then." That's the friendship that existed before Randi ever steered anybody anywhere, and the book is wise to give it a whole chapter just as the induction glow is fading into routine. Vee narrating her weeks — the cooking with intent, the tomatoes, the cold cloth before she got the swear out — and it's all true, and it's all lovely, and Cassie is doing the only thing a real friend can do with someone inside a glow: take notes quietly.
+
+Because look at what Vee actually said, without hearing herself say it. The burn. "Not enough on," Cassie says, wry — and Vee just moves past it. And then this, which stopped me cold: the house *stays warm now*, warm enough that she never once thinks about how much she has on. Reader, I sat up. There it is in one clause — the environment quietly remade so that being undressed is the path of least resistance, so her guard has nowhere to get a foothold because it's never cold enough to need one. Is that Pace's design or just a house with good heat? That's exactly the ambiguity this book trades in. He made a room for her reaction once; he keeps a house where her clothes feel optional. I don't know if the author knows which of those it is, and — no, actually, I think the author knows exactly which image that is. It's too precise a sentence to be naive. "Warm enough that she never once thought about how much she had on" is a sentence written by someone who understands that comfort can be architecture. I'll allow it. I'll allow it warily.
+
+And Cassie. "You don't come home school nights." Not a question, no face on, and then — this is why I dread the reveal more than anything in the plot — "You've had boyfriends. You never went like this over one." Cassie is one inference away. She has the data. She's watching her roommate get absorbed, one school night at a time, and she's filing it the way Cassie files everything, without drama, with love. "Do you love him," flat — and Vee gives her a *maybe*, gives her "I think so," and Cassie lets it stand. Doesn't push. Goes back to her book. Some of us have class.
+
+That "maybe" is doing terrible work and Vee doesn't know it. She said the real word to a sleeping man's ear in chapter 35 — "Peter," barely breath — and to Cassie she can only get as far as maybe. The truth is traveling in the wrong direction: full confession to the handler-by-design (Randi, over pastries, at 1x detail), fragment to the friend who actually loves her. Randi gets the story, Cassie gets the summary, the sleeping man gets the word. That's the whole damage report on how the plan reshaped her channels and I don't think she can see it.
+
+"It's all so fast." That's Vee's bathroom hand pinned to her knee again — the ethics still running, quieter now, more tired. She's not wrong that it's fast. It was *designed* fast. And she keeps noticing the speed without ever once getting to ask who set the tempo.
+
+GATE 36 — School Nights
+DECISION: CONTINUE
+CAPTURE: 6
+ALMOST-STOPPED: "the house stayed warm now, warm enough that she never once thought about how much she had on" — I read that three times deciding whether the book knew what it had just said. It does. Staying.
+WHY: A quiet chapter that's actually load-bearing: Cassie one inference from everything, Vee's "maybe" going to the wrong people, and one perfectly built ambiguous sentence about comfort as control. The tenderness is still braided to the dread, which is the only way I want this book.

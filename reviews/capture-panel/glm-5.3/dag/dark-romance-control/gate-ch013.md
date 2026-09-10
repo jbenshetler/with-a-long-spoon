@@ -1,0 +1,15 @@
+*capture-dag-v2-rich · gate ch013 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+
+REACTION — Okay so on one hand: nothing happens this chapter. It's Vee and two sorority girls dissecting the flannel incident over cheese, and my shelf normally requires a knife on the page, not a fry theft. On the other hand — and I hate how well this book keeps doing this — the menace is *structural* and I can feel it the whole time. "Would you come to my house Saturday. Two o'clock. That's it. That's the whole message." The least information a human being has ever sent her. That's the pointing game again in miniature — he gives her a door and nothing behind it, and her body does the rest, heart "quick and light and stupid." The handler's craft is that the ransom note reads as romance.
+
+What actually got me: Vee narrating the shirt story and *editing it.* "I was about to. I turned and he was right there" — no, sweetie, we were there. You got up on your knees, rapped on the glass, crooked a finger, and unbuttoned your shirt while holding his eyes. She's already smoothing her own Desire into something tellable for the good girls at the table, and the book knows it — "she could hear the story getting better in the telling and did not care." That little gap between what happened and what she says happened is the whole con working on the inside of her own head. Chef's kiss, genuinely.
+
+Kayla is the new Cassie-lite and she's accidentally the smartest one at the table: "two in the afternoon is not dinner… he wants you for the afternoon." Everyone in this book keeps telling Vee the truth and she keeps hearing it as flirting. Meg's "sometimes they even are" was a nice cold splash too.
+
+And the thing under my seat the entire chapter: *the house on six-fourteen has the bench in it.* This is the chapter I've been reading toward since the carry notes. The invitation is on the table, Saturday at two, and Vee thinks it's a milestone while I know it's the scene of chapter one. Randi hasn't appeared in chapters 12 or 13 at all, and I don't think that's rest — I think the book is keeping her offstage so the house can hit without her costume in the room. If the bench is anywhere near that Saturday, I will lose my entire mind. Keeping the flannel folded on the pillow like a relic, the twelve-days kiss count she didn't have to count — she's so far gone and she thinks she's the one steering. "He asks me first. The small things." Vee. Baby. The asking is the wall of trees around the trail. It goes up so gradually you don't notice there's no way back down.
+
+GATE 13 — What to Wear
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: "It's probably dinner," Vee said. — the chapter's whole surface was fluff and I felt the itch.
+WHY: The invitation to the house with the bench in it finally landed, and I'm not leaving before Saturday at two. Also Vee quietly rewriting the truck scene for her friends told me more about how deep the con goes than a sex scene would have. Deliver on the house or I start skimming.

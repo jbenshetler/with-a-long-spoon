@@ -1,0 +1,23 @@
+*capture-dag-v2-rich · gate ch029 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+
+REACTION — Okay. Okay okay okay. I need to text someone about this chapter and it's 1 a.m. and no one is awake, so this is getting the whole treatment.
+
+The pie. HUMBLE PIE in a serif font, trimmed with the good scissors, printed in the stats lab when she should have been doing the problem set. That is the most Vee object that has ever existed — the apology as a craft project, contrition with clean edges because she couldn't bear to hand anyone a ragged thing. And then sitting in the driveway going "a joke might not be the thing you bring to this." Her self-awareness is getting faster than her self-sabotage now and I don't fully trust it, which I think is the point.
+
+And then the door opens and she's TALLER THAN HIM. I actually gasped, because I felt her miss that stair with my whole body. The one thing she didn't plan — Randi's shoes putting her above his eyes for the first time, on the exact doorstep where she came to be humble. And him: "Beauty like yours made for the gods and loaned out." Where does he KEEP these sentences. He says them in the plain hello-voice and they go straight through whatever I have up. That line is going to live in my head.
+
+The apology itself — she built it like a small clean machine and he just. Asked *why*. Because he's him and he can't let a closed door stay closed, and the machine had no part for that. I loved watching her architecture fail into honesty. "She handed me a lie and I picked it up because some part of me was just standing there waiting for one." That's more truth than most heroines manage in a whole book, and he answered it with "Thank you for telling me what she said" — which is such a Pace response, thanking her for the raw material instead of absolving her of it. He lifted it out of her hands like the pie. I'm done. I'm finished.
+
+And then — the kitchen. The soaking argument is genuinely funny, her lobbying for the soak with her cheek flat against his back, and the tickle fight, and then his hand lands ONCE — playful, a swat, she started it — and the book does not blink. Her body says things she didn't authorize, in flat afternoon light, with the dishes still in the sink, and I want to applaud the staging. No candlelight, no dungeon, no announcement. A dish-pan hand and an "oh" that doesn't come out. And the whole rest of the scene is her TALKING to cover it — sentences as cover, motion as cover, riding him while the sting answers every stroke and she can't tell which one she's doing — and he just watches. He watched her face at the sink and he doesn't ask, his hand just settles over the print and *stays*. "This?" And she says please. Twice. Attached to nothing.
+
+That's the hottest thing this book has done, and it's barely a sex scene — it's a woman discovering a door inside herself mid-sentence, and a man who saw it and didn't slam it open, just put his palm flat on it and waited. The book keeps doing this: the kink arrives through embarrassment, and the embarrassment is the erotic charge, and nobody names it. "The thing he had seen sat in the room with them and neither of them reached for it, and she left it where it was, unnamed, hers." UNNAMED, HERS. I underlined it with my thumb.
+
+The Randi-shadow is everywhere in this chapter and Vee can't see it, and I can't stop seeing it: the shoes Randi put on her feet kneeling, the scarf tied with Randi's hands over hers, "go in sure, not sorry" — Randi dressed and scripted the apology that ends with Vee in his bed discovering she likes being spanked. I'm not saying Randi planned THAT. I'm saying the book is way ahead of me on what "planned" even means anymore, and it's making the tenderness feel like a fuse.
+
+The weekend after — his folded shirt left on the bed for her to find, her going still in his kitchen realizing she smells of him head to foot, the hair crisis and "You're always beautiful," always, not just beautiful. I keep thinking about the two towels and about "she's not ready, you'll want to take your time" from Randi's mouth in his bed. This chapter IS the taking of his time. He is letting her find every door herself and I am watching a very patient man and a very lonely woman build something the third person is holding the blueprint to. Dread and heat in one braided rope. This is what I stayed starving for.
+
+GATE 29 — A Recognized Method
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: none
+WHY: The kitchen scene is the best thing the book has done — the kink surfacing through a joke, unnamed, hers — and it moved both the heat and the Randi conspiracy forward at once. I'd forgive it a slow chapter next; I'm in this to the reveal now.
