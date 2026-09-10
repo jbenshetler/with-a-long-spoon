@@ -183,3 +183,22 @@ hard?" (:63), "the shame ran the whole length of it and never closed her"
   and stopped." Cold-read evidence: gpt-5.5 quoted the span and reported "I
   braced for humiliation"; claude-opus-4-8 credited it as part of why the
   erotic peak is "never clinical."
+
+## 2026-09-08 — intercourse extension: capture-panel re-read, one flag left standing
+
+The one-paragraph intercourse compression was extended to a fully rendered
+act (capture-panel finding; trace in `reviews/capture-panel/SPEC.md`, rule
+amendment in `meta-note-tender-relief.md` §6). Six-gate re-read (opus+sol ×
+three target personas): all CONTINUE, Sol romance-graduate 9→10, both prior
+complaints (impressionistic blur; missing threshold check-in) cleared.
+
+- **No contraception / safer-sex beat — LEFT STANDING (author ruling
+  2026-09-08: "no condoms, ignore it").** Both Sol readers flagged it once
+  the finish was rendered ("unprotected penetration and ejaculation without
+  any visible conversation"). Ruled against fixing: the comp shelf (Salter,
+  Duras, the Beauty trilogy) does not do safer-sex talk; the discourse in the
+  target readership is real but split (a condom camp and an anti-condom camp,
+  neither a rating-driver); and the flagging readers themselves scored 9–10
+  and continued — friction, not a bounce. Canon stays silent on contraception
+  volume-wide. Do not add a pill/condom beat to this or any scene, and do not
+  re-flag the absence in later review passes.

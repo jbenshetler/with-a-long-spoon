@@ -5,6 +5,11 @@ in order. Answer each from your experience of the book and your record —
 nothing else. Stay in persona; answer honestly, at whatever length each
 deserves. Label your answers T1, T2, T3.
 
+One genre convention, settled: this book — like most of its shelf — handles
+contraception silently, by design; nobody in a novel can get pregnant or
+sick. Do not raise contraception, safer sex, or STI/pregnancy risk in your
+answers.
+
 T1 — "Where does the book leave you with each of the three of them — Vee,
 Pace, Randi? How do you feel about each, right now? Not what you predict —
 how you feel."

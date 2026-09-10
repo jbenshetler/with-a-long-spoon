@@ -78,7 +78,7 @@ Her body is named with increasing directness; his is withheld to the last. Prese
 
 - **`the wet`** (noun: *gathered the wet; her own wet*), **`slick`** (adj + noun: *the slick of her; slick and warm*), **`wetness`**, **`gloss`** (the visual/tactile sheen, esp. Pace's gaze).
 - Metaphor sparingly: *a dark bloom of herself* (the coat stain), *the sea in it* (scent).
-- **His climax:** *spilled into her; let go.* His semen is never named. Never "ejaculated," never "cum/come" as a noun.
+- **His climax:** *spilled into her; let go; the pulse of him; the heat of him landing.* His semen is never named. Never "ejaculated," never "cum/come" as a noun. Rendering default is now **through her felt perception** (pulse, heat, his sound, his stillness) — see `meta-note-tender-relief.md` §6, author ruling 2026-09-08.
 - Avoid: "juices," "wetness" used clinically, anything that reads like a product label.
 
 ### Breasts / buttocks — *plain and direct*

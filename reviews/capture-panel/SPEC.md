@@ -135,6 +135,117 @@ keep, and she loved it."). The three "Uh-huh"s now descend in register
 (laughing → wordless-steady → smaller). Future full-volume runs should watch
 whether the ch-32 flag clears.
 
+## Prose revision traced to this instrument (2026-09-08, second)
+
+`famished` (ch 18) intercourse extended from one compressed paragraph to a
+fully rendered act, on two DAG flags: Sol romance-graduate ("penetration
+rendered rather than dissolved into impressionistic language. The book nearly
+lost goodwill by skipping the physical center") and Sol consent-sensitive
+("the chapter's coy blur skips… an actual check-in at precisely the point
+where this book's whole moral architecture says specificity matters" — the
+pull is now rendered, so the choosing is legible at the threshold). Male-finish
+rendering rule amended alongside (`meta-note-tender-relief.md` §6, author
+ruling: his undoing is her payoff).
+
+**Re-read (6 gates, opus+sol × 3 target personas, controls excluded):** all
+CONTINUE; captures 9/9/8 → 9/9/8 (opus) and 9/10/9 → 10/10/9 (sol). Both
+prior complaints cleared — Sol rg: "delivered the explicit payoff without
+sacrificing a molecule of the psychological specificity that made me want it"
+(10, first ch18 none-almost-stopped from that reader). **New convergent flag
+(both Sol readers, born of the rendered finish):** no visible contraception /
+safer-sex beat — "unprotected penetration and ejaculation without any visible
+conversation is a glaring consent-and-safety hole, and the next chapter needs
+to prove the book knows that." Canon is silent on contraception volume-wide;
+**author ruling 2026-09-08: stays silent ("no condoms, ignore it")** —
+rationale and do-not-re-flag guard in `meta-triage-famished.md`.
+
+## Prose revision traced to this instrument (2026-09-08, third)
+
+`peekaboo` (ch 21) sex extended from the threshold cut ("nothing left for
+either of them to decide" → "After") to a fully rendered sequence — standing
+entry in the gown, the wait-the-dress pause played live as farce (the
+disentangle, "Ow. Don't point down.", "a lot of you covered in a lot of me,"
+the twitch rule-of-three), the finger-clean (ruled below the taste ladder —
+`meta-condensed-peekaboo.md`), the sun-porch re-hang, the joined carry to the
+bed, rendered finish. Author-designed choreography; flags it answers: Sol rg
+"second time the book… closed the curtain / penetration lives behind frosted
+glass" and two readers quoting the ellipsis line itself as ALMOST-STOPPED.
+
+**Re-read (6 gates, opus+sol × 3 target personas):** all CONTINUE; captures
+7/9/8 → **9**/9/8 (opus) and 9/9/9 → **10**/9/9 (sol). The ellipsis
+almost-stoppeds are gone (five of six now "none"). Sol consent-sensitive
+re-flags contraception — settled, left standing per the 2026-09-08 ruling
+(`meta-triage-famished.md`); expected persona behavior, not a new finding.
+Minor: opus rg felt the standing fumble "running long" until "Ow. Don't
+point down" landed — noted, no action.
+
+**Instrument amendment (2026-09-08):** all four reader prompts (`core.md`,
+`core-chapter.md`, `core-volume.md`, `funnel.md`) now carry a
+genre-convention note directing readers not to raise contraception / safer
+sex / STI-pregnancy risk ("nobody in a novel can get pregnant or sick") —
+implements the author's stays-silent ruling at the instrument level so the
+settled flag stops recurring in future gates. Prompt SHAs change from here;
+gates minted before this date were run without the note.
+
+## Prose revision traced to this instrument (2026-09-08, fourth)
+
+`recognized-method` (ch 29) Sunday sex extended from the kitchen-exit cut to a
+rendered scene; design = *her cover story over his witness* (she runs it all to
+paper over the look he caught; his palm covers the swat's print and holds; her
+objectless *"Please"*). Answers Sol rg's "I actually swore… I am becoming
+suspicious that this book likes approaching explicitness more than delivering
+it." **Saturday's reunion fade (":65 the night took her under") left standing
+by author ruling** — the apology movement's landing; the chapter's engine is
+the kitchen.
+
+**Re-read (6 gates):** all CONTINUE; captures 9/8/8 → **9/9/9** (opus) and
+8/9/9 → **10**/9/9 (sol). Sol rg: "This gave me the explicitness the first sex
+scene withheld and made the heat inseparable from Vee's interior life."
+**New convergent flag (both Sol readers): "He didn't ask. He didn't say one
+word."** read as a consent gap — *and both credit the book for knowing it*
+("the chapter clearly marks the moment as unresolved"; "the prose refuses to
+pretend those are the same thing"). No action: the silence is the architecture
+(nobody names it here — {{The Practice Room}} extraction and {{We Find Out}}'s
+naming both require it), and fsog's stated condition ("an explicit
+conversation before he acts on this discovery again") is exactly what ch32
+delivers three chapters later. Hover, not bounce — track it, don't fix it.
+
+**Contraception-note amendment verified:** zero contraception/STI mentions
+across all six gates (first run with the amended prompts).
+
+## famished ch18 — second pass + flag→fix→re-measure (2026-09-09)
+
+The first extension fixed the blur but stayed brief. Second pass added the
+duration the chapter's center needs (held stillness, long middle, the
+**witness** as the PIV-specific shame occasion, restraint ending on the page).
+Panel scope widened: the DAG now has **four** models — `claude-fable-5` and
+`gpt-5.5` full-volume readers arrived from the remote — so ch18 has 15
+reader combinations, not 7.
+
+**Run A (15 attempted, 11 completed).** All four `claude-fable-5` readers
+failed on subscription quota ("You've reached your Fable limit"); their gates
+were restored from git unchanged. Of the 11: all CONTINUE, three up
+(gpt-5.5 consent-sensitive 9→10, sol romance-graduate 9→10, opus control
+5→6), none down. **New convergent flag, on the new prose:** both Sol readers
+independently quoted *"past where she was accustomed to being asked, her body
+making room because he was already there and had never once been in doubt"* —
+"he took before asking and then read her body as permission."
+
+**Fix + Run B (11 re-run).** Asking moved to her body; his certainty cut; the
+single-stroke entry replaced with a rocked one and the size coding stripped.
+**Flag cleared: no gate quotes the clause.** Sol consent-sensitive 9→10 with
+ALMOST-STOPPED *none*; Sol fsog-refugee now reads him the opposite way
+("Pace's dominance attentive to her answer"). Two benign downticks: gpt-5.5
+consent-sensitive 10→9, its almost-stopped moving off the bed onto his
+control of pacing/information; opus dark-romance-control 6→5, the wrong
+reader drifting back toward the exit ("the promise of teeth, not teeth") —
+the repel arm recovering from the previous run's pull-in.
+
+Incidental: opus fsog-refugee's near-flinch was the **repeated *floozie*** in
+the kitchen kiss — a second model on the density gpt-5.6-sol noted in cold
+read. Not actioned; the four-strike count is the designed loop
+(`meta-triage-famished.md`).
+
 ## Cleanup EXECUTED 2026-09-08 (author-confirmed)
 
 Deleted per the plan below: `dag-v1-terse/` trees and all single-go
