@@ -1523,6 +1523,13 @@ text = "She saw him see them."
 note = "Author ruling 2026-08-07 (line-edit pass). Not the frame the rule targets: the crystal strings are already rendered in the preceding sentence ('obvious and excessive, thin and bright'), so the perceiving IS the event here — her being seen seeing herself be seen. The doubled verb is the shame mechanism in four words and is paid off immediately by 'Her hand moved to cover herself and stopped.' Cold-read evidence: gpt-5.5 quoted the span and reported 'I braced for humiliation'; claude-opus-4-8 credited it as why the erotic peak is 'never clinical.'"
 
 [[ok]]
+fp   = "3f74b2a09619"
+rule = "the-way"
+file = "scenes/famished.md"
+text = "She was only here — her face in his neck, his smell in every breath, his weight let all the way down at last."
+note = "Literal distance, not the filtered 'the way he...' construction: his weight coming all the way down pays off 'careful with his weight until she pulled him in.' Author ack 2026-09-09."
+
+[[ok]]
 fp   = "c684a2dd1993"
 rule = "the-way"
 file = "scenes/famished.md"
