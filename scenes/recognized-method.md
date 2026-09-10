@@ -138,7 +138,13 @@ Everything she'd been holding up came down at once. She had nothing left to put 
 
 "*Please,*" she said. Small, wrecked, attached to nothing, out of her before she could see what it was asking for.
 
-He didn't ask. He didn't say one word. He only held her there harder — no strike, nothing new, only his palm bearing down on the place — and worked up into her, and the second one took her apart in a way the first had not come near. This one she could not file. It had a cause and the cause was his hand on the spot where he had hit her, and she came on it with her face jammed into his neck, shaking, making a sound she would have paid money to take back.
+His hand answered before he did — the palm bearing down, taking the place and keeping it. No strike. Nothing new.
+
+"This?" he said, into her hair.
+
+She didn't have to go looking for it. "*Please.*" Lower this time, out of the bottom of her voice, and still attached to nothing, and both of them left it there.
+
+Then he worked up into her, and the second one took her apart in a way the first had not come near. This one she could not file. It had a cause and the cause was his hand on the spot where he had hit her, and she came on it with her face jammed into his neck, shaking, making a sound she would have paid money to take back.
 
 He went a moment after her, everything in him letting go at once, a groan bitten off against her shoulder, the deep spill of him and the long shudders running out of him and into her while she held on and rode them down.
 
