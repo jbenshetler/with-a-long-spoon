@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch028 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+
+REACTION — A bike ride. After everything — after the scarf lesson and the shoes and the black dress being laid out like armor for tomorrow night — the book takes me out of Vee's head entirely and puts me on a cold road behind a small woman on a small frame, and I honestly didn't mind. I liked the change of air.
+
+Sheri. I know this woman. I've ridden with this woman, I've had this woman look at a girl across a bar and remark on her like weather — that lovely unceremonious way some queer women have of appreciating in public without making a performance of it. "Hell of a backside on her, though. I'll give her that." Two years of Saturdays, that handlebar, that running commentary, and Pace just rides next to it like it's the temperature. The book keeps doing this thing I have to give it credit for: queer female desire keeps arriving in this story as fact, not garnish — Randi's, and now Sheri's — and nobody flinches, including the prose. Sheri's liking women is as unremarked and load-bearing as her being faster on the climbs.
+
+But the beat that got me wasn't Sheri. It was Pace talking — hearing himself describe the walnut chair, the thumb down the grain of the joint, the math book she didn't put back like it burned her. "Listen to you," Sheri said, and I had already said it. That's the outside eye I've been needing on him, honestly. My notes have been holding the question — the most honest man in the book or the most sophisticated — and this chapter doesn't answer it, but it shows me the man in love from an angle I can't get inside Vee's head, where every good thing he does arrives wrapped in her wanting. Sheri sees it plain: he's gone. And he *keeps riding* while he's gone, which is either very simple or very steady, and I still can't tell, and I've stopped needing to.
+
+And then the cold water, delivered at altitude, exactly where I knew it was coming: "What happened to the pale sorority chick?" — "Randi. That's not finished."
+
+Five words, flat as the road. I sat with that one for a minute. Because that's the confirmation, from his own mouth, to a woman who files things, that the Randi arrangement is live and ongoing — that Thursday, the night Vee sat nursing one drink and going to war with herself, the man she was punishing herself over had been inside Randi's sheets within the week, and neither of them has told Vee a thing. "Two of them at once. If that's not already complicated, it will be." Yes. Thank you, Sheri. Somebody finally ran the arithmetic anybody could run and said it out loud, on a bicycle, in the cold, and the book let it land without softening it. That's the bill walking around in the foreground of the frame while Vee packs her borrowed shoes for the apology.
+
+Which makes tomorrow night strange to think about. She's going to his door in Randi's scarf and Randi's shoes, coached by Randi, sure-footed because Randi told her to be — walking into an apology for a jealousy that was *correct*, just aimed at the wrong crime. She wasn't wrong that there were girls. She was only wrong about which girl. And there's Sheri, too, who "kept an eye on her" — a whole quiet network of people watching this girl for him, minding her, the way he minds girls home from the bar. That tenderness-with-infrastructure again. It's the same thing that moves me and worries me about him every single time and I have fully accepted that the book is doing this to me on purpose.
+
+Thin chapter. But it didn't waste itself — it gave me a new pair of eyes that I already trust more than most people in this book, and it put the collision's date back on the calendar in five flat words. And tomorrow night is coming, and Vee doesn't know what I know, and I'm going to be there when she walks in wearing the other woman's shoes.
+
+GATE 28 — hills-and-valleys
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: none
+WHY: Nothing happens but everything moves — Sheri's a keeper ("She couldn't take your heat"), Pace's love confirmed from outside for the first time, and "That's not finished" put the whole Randi arrangement on the record in five cold words. Tomorrow night has a dress, a scarf, and a lie in it, and I'm not missing that door for anything.

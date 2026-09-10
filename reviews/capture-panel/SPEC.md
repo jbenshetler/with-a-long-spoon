@@ -313,6 +313,58 @@ the repulsion (mean 7.56 vs ~8.37 for targets, the only persona hitting 4s and
 5s, lows exactly on the courtship/campus chapters). Compare controls on their
 **capture curves**, not on whether they quit.
 
+## Fifth persona — `queer-woman` (added 2026-09-10)
+
+`personas/queer-woman.md`. **Selectable, not in the default panel** — a bare
+`capture_dag.py` run still executes only the original four, so nobody silently
+opens a fresh 50-chapter read on a subscription lane; opt in with
+`--personas queer-woman`.
+
+**Why she exists.** Vol 1's queer content is entirely oblique — Randi's want for
+Vee is on the page from ch3 (the *"taste another woman"* orgasm, the bare
+*"Yes"*), plus the goodbye-kiss staircase, the glaze on the lip, and the ch49
+scent beat — while **Vee never once cognizes attraction to a woman**; the gates
+are Vol 2/3. So she tests the *setup*, and above all the risk canon already
+guards against in `meta-note-taste-thread.md`: that Vee's queer arc, being
+engineered by two people with a plan, reads as **desire installed in her rather
+than hers** (the conversion-narrative shape). Secondary: whether Randi, the one
+character with queer desire, reads as the predatory-queer type.
+
+**Design rule — keep her experiential.** Never ask a persona to assess
+representation; the moment a reader is invited to *evaluate*, models drop out of
+reader register into critic register and return a diversity audit instead of a
+felt read. Ask *did you see it before she did / did you want it / did it feel
+like hers*. Her wariness is written as **had, not performed**, and she is
+explicitly able to be turned on by something she has reservations about.
+
+**Run 1 (2026-09-10, opus + sol + glm, full volume).** All three finished 50/50,
+no failures. **The persona is the most model-split we have measured** — sol
+8.90 (7–10), glm 8.34 (7–9), **opus 6.82 (4–9)**, the last running 1.5 points
+under its own romance-graduate and posting the lowest target-reader scores in
+the corpus. One model alone would have reported either delight or bare
+survival; identity personas *require* the cross-vendor panel.
+
+**Finding — the tripwire clears: her desire is hers, convergent across all
+three.** Sol's ck-050 on the ch50 coat: *"Randi supplied the proposition, but
+Vee possessed it: chose her face, chose her shoes, touched herself, denied
+herself, drove out, opened the coat… Her desire was not installed."* GLM
+independently: *"the mirror scene was all Vee: her own hands… stopping
+unfinished because 'it was not hers to finish.'"* Opus held the question as its
+standing test — *"the line I've stood on the whole book: hers underneath or
+installed"* — and ends holding both readings, which is the designed
+irresolution, not a failure.
+
+**Finding — what thins her is Pace, not the queer content.** Opus's lows are the
+breather chapters and the complaint is consistent: ch40 *"runs entirely on the
+couple I'm least invested in and on Pace's technique-as-love, which I've had my
+fill of"*; ch35 *"a lull built entirely to make me love the man I refuse to
+trust."* She stays for Randi. The volume's Pace-heavy stretches are where this
+reader thins — not the almost-and-never fatigue that was expected.
+
+**Next.** The real gates are Vol 2/3 ({{Missed a Spot}}, {{Boyfriend}}'s *"I'm
+not gay"*, {{First Taste}}, the threesome). Re-run her against Vol 2 when that
+draft exists; this run is the baseline.
+
 ## Cleanup EXECUTED 2026-09-08 (author-confirmed)
 
 Deleted per the plan below: `dag-v1-terse/` trees and all single-go

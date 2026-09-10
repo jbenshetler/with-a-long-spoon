@@ -40,6 +40,9 @@ import authorship_audit  # noqa: E402  (run_claude, CLAUDE_PREFIX)
 PANEL_ROOT = REPO / "reviews" / "capture-panel"
 PROTOCOL = "capture-dag-v2-rich"
 PERSONAS = ["romance-graduate", "fsog-refugee", "consent-sensitive", "dark-romance-control"]
+# Selectable but NOT in the default panel — opt in with --personas, so a bare
+# run never silently opens a fresh 50-chapter read on a subscription lane.
+ALL_PERSONAS = PERSONAS + ["queer-woman"]
 DECADE = 10
 N_CH = 50
 
@@ -232,7 +235,7 @@ def assemble(model_id: str, persona: str) -> Path:
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--models", nargs="+", required=True)
-    ap.add_argument("--personas", nargs="*", default=PERSONAS, choices=PERSONAS)
+    ap.add_argument("--personas", nargs="*", default=PERSONAS, choices=ALL_PERSONAS)
     ap.add_argument("--to", type=int, default=N_CH)
     ap.add_argument("--effort", default="low")
     ap.add_argument("--assemble", action="store_true")

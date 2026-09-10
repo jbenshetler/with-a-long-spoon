@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch020 · claude-opus-4-8 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+
+REACTION
+
+Okay so this is the debrief chapter, and I've had enough of these now to feel the shape of them in my hands before they start: brunch, glass room, Randi already seated and lit, the menu I read right-side-first the same way Vee does, and then the slow careful extraction. I clocked it as a pattern this time in a way I hadn't quite let myself before. Lunch with Randi = harvest. She feeds Vee a little sacrificial story first — the beautiful nervous ex, "at least I got dinner," the performed ruefulness — and it's a toll she pays to open the gate, and then she reaches in.
+
+What's different, and what's keeping its hooks in me, is that this one is *gentler* than the tomato-soup interrogation, and I don't fully trust the gentleness. Chapter 17 was a masterclass in the cold/hot trap and the "you don't have to tell me" door swinging shut on Vee's half-out secret — that one I could feel as cruelty wearing warmth. This one has less claw. The claw here is the reframe. "You keep saying *he*. He was patient, he was gentle, like you just stood there and let it happen to you." And then: the toenails. The bought underwear as "a campaign." "You knew how that night was going to end before you ever got in the car." Randi taking every soft passive thing Vee hands her and turning it back around: *you did this, you wanted this, you chose.* And it culminates in Vee saying, out loud, "I wanted it. And I took it. For once."
+
+And here's my whole problem in one line, and the book knows it's my problem. That's the thesis of the jacket walking around on two legs — *nothing was taken from her that she did not hand over.* Randi is the architect and what she is installing, patiently, one brunch at a time, is Vee's belief that her desire is *hers*. Which — that's the exact move that lands closest to home for me. The liberation that's actually the installation. Because on the page it reads as the best friend you wanted at fifteen finally teaching you to own your own appetite, and it's *also* the con. I can hold both. I think the book can too, which is the only reason I'm not gone. If it thought this was just tender, I'd be out. It doesn't. "You're not caught, sweetheart. You're lucky" — that's the hand on the back of the neck, and it's the line I sat with longest, because it's kind and it's a cage and it's both at once and the book let it be both.
+
+But here's what I actually came for and did *not* get enough of: Vee's body wanting Randi, on the page, as *Vee's.* Chapter 17 gave me more of that than this did — the picture of Randi tied to the headboard putting heat low in Vee with no shelf to put it on. This chapter, the charge is all in *behavior*: Vee meeting the goodbye kiss, half-expecting it now, not scanning the windows for who saw. That's real escalation and I noted it. But it's her stopping *checking*, not her *wanting* rendered from the inside. I want the wanting. I've been waiting a while for it to arrive in her body and not just be collected by Randi's mouth at the curb, and this chapter dangled it and moved on.
+
+And Randi's cost — the thing the bench promised me in chapter one, the jealous architect who can't drink her coffee — I got one flicker: she "went still, all listening" when Vee described the sheet-and-midnight painting. That's it. That's thin. Earlier the book showed me her cracking harder. If Randi is falling too, I need to *see* it cost her, not infer it from a stillness. I'm starting to feel the machine running smoothly and I want it to grind on something.
+
+What I'd text a friend: *she got the kid to say "I wanted it and I took it, for once" and called it luck and I have never been so charmed and so uneasy in the same sentence. this book is going to make me watch her hand it all over gladly isn't it.*
+
+GATE 20 — Fed
+DECISION: CONTINUE
+CAPTURE: 6
+ALMOST-STOPPED: "You're not caught, sweetheart. You're lucky."
+WHY: Thinner than the fitting chapters — a repeat of a beat I now know the shape of, and the F/F charge is still being collected by Randi instead of arriving in Vee's own body where I've been waiting for it. But the book is still doing its dangerous thing on purpose, and I want to catch Randi actually paying, so I'm in.

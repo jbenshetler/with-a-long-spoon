@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch006 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+
+REACTION — Okay, so a few things. One: I stayed up past my own bedtime for a froyo date and I don't even feel cheated, which annoys me, because this chapter is doing something I'm supposed to be on guard against and it's *working*.
+
+The part I keep returning to is the cup. The cup that got away from her — too much, leaning, about to drip — and her mother's voice not arriving for once. "Today there was nothing." That's the whole book in a frozen yogurt cup, and I mean that as a compliment and a complaint at the same time, because it's a little *too* neatly done — the appetite metaphor with the extra spoon — but god, the image landed. A woman whose whole life has been portioned, standing on a sidewalk with more than she meant to take, biting her lip, *deciding not to care.* I've been that woman over a dessert. The book knows what it's doing.
+
+And the confession after — "this is the nicest a person has been to me in a really long time, and it's froyo" — and he doesn't laugh it off and doesn't make it big, he just walks beside her while the true thing has its space, and then says "your tart's holding up." That's the attention I'm here for. He's not performing tenderness; he's just *holding the moment correctly.* The grandfather line wrecked me a little. Waiting through the whole sentence. Not being used to being the thing a person waits on — yes. That's what she's starving for, and the book has been telling us that since the apple slices.
+
+Now the part where I'm the suspicious queer in the room. Randi took the phone out of her hand. Randi said "he wants to see you naked" and "you're not unsure" and killed the waiting-game. I know — because chapter three told me plainly — that Randi walked into Vee on purpose, that Pace pointed and she fetched. So every warm push from her at that table is the plan operating in plain sight, and the book is asking me to sit inside that dramatic irony and enjoy the froyo anyway. The old wariness is raised, honestly: this is desire being *arranged*, and the man doing the arranging has a system for frozen yogurt the same way he has a system for everything, and the girl who doesn't know there's a plan keeps mistaking the machinery for the weather. But — and this is why I'm still here — the wanting itself keeps reading as *hers*. The stomach-drop at the phone. The "too much" cup. The wanting to be a little more than herself. Nothing in this chapter feels installed; it feels *found* and fed. The book seems to know exactly how creepy its premise is and is writing toward the creep instead of away from it, which is the only way this premise is survivable. If it flinches, I'm gone.
+
+Cassie remains my girl. "As long as he doesn't make you roll a healer again" — she's the only person in Vee's life doing threat assessment in the middle of everyone swooning, and the "Goodbye" from two chapters ago still hasn't stopped echoing for me. I notice the book gave her the exact-flat Cassie joke here, which softens her, which makes me trust her *more*.
+
+Also, small thing that turned me on and I'm not fully comfortable with how: "I've thought about most things." Said without apology. The contained pleasure of a man who put something exactly where he meant it to go. That's the danger in him rendered in a sentence about yogurt toppings, and the fact that I saw the danger and felt the flutter anyway — that's this book's whole trick, and it's doing it to me on purpose.
+
+GATE 6 — The Long Way
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: none
+WHY: The chapter is short and sweeter than I expect this book to be with me, but the underneath never lets go — I can feel Randi's hand and Pace's system under every beat of Vee's genuine delight, and I need to know what happens when those two layers touch. Also I want to see her eat something again.

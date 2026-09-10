@@ -1,0 +1,21 @@
+*capture-dag-v2-rich · gate ch016 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+
+REACTION — Chapter 16, "Turned Up"
+
+A quiet chapter, and I mean that as a compliment — the book just did the most charged scene of the volume and then gave us a room with a radiator and two girls and a pillow getting thrown across it. That's pacing that knows what it's doing.
+
+And here's the thing I noticed within about two pages, the thing that made the whole chapter *content* instead of recap: this is a retelling, and what Vee leaves out of the retelling is the chapter. Chapter 15 was saturated — the mother's voice, the stripper word, the soaked satin, the shut eyes, the counted breaths. Chapter 16 is Vee telling Cassie about the afternoon, and not one drop of the shame makes it across. "For a minute. I was braced for it to stay weird. And then it just — didn't." That's the laundered version — except this time I don't think she's lying, I think she's *selecting*, the way you actually do with a best friend. And the parts she does hand over are the truest things she's said out loud in this book: "Like I was supposed to be there." And "I locked eyes with him. And then I let him look." Cassie stopped laughing when she said that one, and so did I. What Vee keeps private — the wet-panties terror, the spread of the evidence, the bracing-for-the-grin — is the shame she hasn't metabolized yet. What she gives away is the part that already rearranged her spine. The book knows exactly which half of the afternoon goes in the mouth and which half stays in the body, and it let me watch the sorting happen. That's the psychological exactness I was promised on the jacket.
+
+Also: she left Randi a door in ch. 15 — "He said it and then he waited... he left me a door." A *door*. This book has been running a door-motif since Daphne — closed doors, locked doors, the bedroom door he wouldn't open, the bathroom door Randi locked after the bench. And now the measure of his care gets phrased, by Vee, without her knowing the lineage of the word, as a door he left open. Whether the writer means me to hear that echo or not, I heard it, and it made me sit up.
+
+Cassie continues to be the only clean person in the book, and the comedy between them is real comedy — "Are you sure he's not gay" into "*I* was grinding on *him*" is the kind of laugh actual roommates have, and Vee patting her own ass like a witness indicating a diagram on a courtroom exhibit made me laugh out loud on a Tuesday. And there's steel under the funny: Cassie's the one who catches the shirt, the tag, the heat turned up. She's doing the detective work the book won't let Vee do. "He turned it up hours before, probably. As soon as he knew I was coming." Vee keeps arriving at the edges of how orchestrated everything is — the thermostat, the riser that was already built, the silk already bought — and keeps reading it as tenderness, and it IS tenderness, and it's also the plan, and I know about the plan, and she doesn't, and that double exposure is still the engine pulling me forward.
+
+What I'll note with a small frown: Randi is entirely absent. Again. The smoothie debrief in ch. 10 went to the machine; this debrief went to the clean person, and Randi — the woman whose wanting was bodily on that quad, the lunch-that-is-too-intimate — hasn't been on the page in chapters. The blurb's "without quite letting herself know" gives the book license to hold that card a long time, and I'll wait. But I clocked it. The meter's running.
+
+Also "he doesn't kiss like he's gay" — Vee's instinct that gayness is legible off a kiss, filed under things this twenty-one-year-old actually says, and I smirked rather than winced, because she's young and the book loves her enough to let her be a bit wrong out loud.
+
+GATE 16 — Turned Up
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: "So you went over today, and — ?" — the pivot into pure retelling, when I worried the whole chapter was going to be chapter 15 with a laugh track.
+WHY: The retelling itself turned out to be the content — I watched Vee sort the afternoon into what she can say and what stays in the body, and "like I was supposed to be there" is the truest sentence she's spoken out loud in the whole book. The door echo landed. Randi's absence is noted, the meter's running, but I'm not leaving yet.

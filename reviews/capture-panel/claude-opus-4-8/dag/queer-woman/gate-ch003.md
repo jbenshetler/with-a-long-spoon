@@ -1,0 +1,27 @@
+*capture-dag-v2-rich · gate ch003 · claude-opus-4-8 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+
+REACTION
+
+Okay. So here's the thing. I came into this chapter braced, because the jacket already told me the shape of the con — two people planned this, there's a game, Vee is the mark — and Chapter 1 and 2 already gutted me a little with what Randi is: the girl who begged on the bench and then walked into the bathroom and *chose the face forever*. That was real. That chapter knew exactly what it was doing to her, and it didn't flinch. So I trusted the book more than I wanted to.
+
+And now this chapter is the exact thing I said I'd leave for. A woman's desire for another woman getting *engineered* — coaxed out of her in bed by a man mid-thrust, wrapped in a game, "the wrapper the wanting needed to come out in," handed to her so she can want it without owning it. This is the predatory-shape and the desire-as-installed-thing, both, at once. That's my two allergies stacked.
+
+And yet. Damn it. The book *knows*. That's what keeps me in the chair. It is not pretending Randi's want was planted by Pace — it keeps insisting the opposite, that "her body had said it twice," that the want "was already true before she got to it," that his whole art is to give the appetite "air in daylight without making her pin it beneath a solemn name." The move the book is actually dramatizing is not *making her gay* — it's the same move as the bench: taking something that was hers, that she keeps behind the face, and getting it out where it can't be un-said. The queerness isn't the corruption here; the corruption is the *management*, the not-being-allowed-to-own-it. And I think the book knows that's the horror. "Not a woman who hungered for another woman, which was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy. The same act. A different owner." That sentence is the whole novel. That's not garnish. That's the book paying for it in blood.
+
+So I'm turned on and I'm sick about it and those are the same feeling, which is precisely the deal I signed for with this jacket.
+
+The pointing game itself — I have to be honest — is genuinely hot as a piece of writing about *looking*. The typology of women, Randi hunting up the path, "the follow gathering herself a half-beat before the lead moves," the shopping. It's desire rendered from the inside and it is specifically *hers* — her taste, her verdicts, "too expected," "she'd be a project," the real feeling in the "God, no." The book lets her have an actual sexuality with actual discrimination in it, not a blank the man fills. That's the thing I never get in the bad versions. The wanting is specific and physical and it belongs to Randi. It's just that she's not allowed to know it belongs to her, and the man is standing at a lamp post curating the whole thing, pleased with himself.
+
+And then Vee. The redhead who "had genuinely forgotten, for the length of the laugh, that she could be seen." Of course. Of course that's the one — the one who isn't managing, the opposite of the face. Randi stops walking. Doesn't look away. The bare "yes" with nothing around it. That undid me a little, because it's the same bare thing as the bench, the real one coming out before the costume gets there. And immediately the costume: "Yeah. I like her." Handed to him. God.
+
+What I'm sitting with, 1 a.m. text version: *this book is doing the exact thing I hate and it's doing it on purpose and it's better at it than almost anything I hate. The predator is real and the book isn't on his side even while it's inside his head.* Pace is skin-crawling precisely because he's tender and patient and thinks he's *freeing* her. "He wanted it for her. She deserved that gentleness." That's the most chilling line in the chapter — a man narrating his own coercion as generosity. I don't think the book agrees with him. Chapter 1's bathroom scene is my evidence it doesn't.
+
+The one thing keeping my hackles fully up: Vee. Right now Vee is a laugh and a copper head across a lawn — she's the *target*, and the jacket promises we watch her get taken. If this becomes the story where the vibrant open queer-coded woman exists to be the honeypot in a straight-ish couple's game, and Vee never gets an interior, I'm out, no matter how good the prose is. Randi has an inside. I need Vee to get one too, or this is just an elaborate machine for using her. But we're not there. Right now the book is spending its cruelty on Randi, who is a fully-realized person being managed out of her own desire, and I want to know what she does with it. She's not a good sport anymore. She was shopping. That's the crack this whole thing runs through.
+
+I'm staying. Wary as hell, but staying.
+
+GATE 3 — The Pointing Game
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: "He hoped the game might give her a way to say something true without forcing her to sit up and put a name to it… She deserved that gentleness. He wanted it for her." — the coercion narrated as kindness, right on my third rail.
+WHY: It's staging my two least-favorite shapes — desire-as-installed, predatory-tender man — but it's staging them knowingly, with Randi's want unmistakably *hers* and the horror located in the management, not the wanting. The prose about looking is too alive and too specific to walk out on, and Chapter 1 earned my trust that the book isn't actually on Pace's side. I need Vee to become a person and not stay bait — that's the thing that'll decide whether I finish.

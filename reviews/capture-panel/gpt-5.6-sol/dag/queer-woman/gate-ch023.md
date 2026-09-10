@@ -1,0 +1,17 @@
+*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+
+REACTION — Oh, this is the seduction chapter. Not the playful foot touch, although Jesus Christ, Randi kneeling, holding Vee’s foot in both hands, the thumb over the plum-polished nail, Vee grabbing her shoulder because the room actually moves—yes, obviously, absolutely. Vee’s body has stopped pretending even if her vocabulary hasn’t. That “Mm” is not friendship in any country. Randi knows exactly what she did, waits for Vee to feel it, looks up, smiles, and leaves it unnamed. I wanted to bite something.
+
+But the shoes are the deeper seduction, and they frightened me. Randi sees the silence shaped like Vee’s bank balance instantly. She could relieve it. Instead she gives Vee a story in which buying the shoes becomes not indulgence but fidelity: Pace is her *lover*, the dress was made *to* her, and therefore the shoes are what the dress is “owed.” That is a terrifyingly efficient way to get past a woman’s own no—not by disputing it, but by making the thing she cannot afford feel morally necessary to the self she wants to become. Vee even stops having to admit she wants them. Want becomes obligation, and then she can put them on the emergency card while calling it inevitability. Randi doesn’t make her buy them. Randi makes the purchase mean something Vee cannot bear to refuse.
+
+And then Randi buys shoes costing several times as much without looking at the total. That hurt. Vee experiences the afternoon as intimacy between equals—same shoe size, “practically a marriage,” two girls laughing on the sidewalk—but the money tells the truth her happiness cannot. They do not inhabit the same world. Randi can make extravagance look weightless because it is weightless to her; Vee will carry hers into next month with interest. She literally carries the box against her chest while Randi wears her purchase out of the store and forgets its cost. That image is going to stay with me.
+
+The ugly brilliance is that none of this cancels the real pleasure. They are genuinely funny together. Randi’s unguarded laugh feels precious because Vee earns it rather than being granted it. Vee feels clever, desirable, socially fluent; she gets out of the Mercedes as if she belongs there. Randi really does see the dress, and “He made it *to* you” is such an exact gift of language that of course Vee follows her. This isn’t a cartoon corrupter dragging an innocent into decadence. Vee wants the stopped room. She rehearsed it before Randi ever said it. But Randi recognizes that want and knows how to turn the dial until it overruns Vee’s material limits.
+
+And I cannot miss that the chapter is called “Sorority.” This is an initiation. Randi is teaching Vee how women in her world convert appetite into entitlement, cost into silence, and discomfort into something you refuse to let reach your face. Vee thinks she has never had a friend like this. She hasn’t. That’s both the loveliest and most ominous thing here.
+
+GATE 23 — Sorority  
+DECISION: CONTINUE  
+CAPTURE: 9  
+ALMOST-STOPPED: “They were what the dress was owed.”  
+WHY: That sentence made my stomach drop, because Vee’s want has been repackaged as a debt she must incur—but the book knows exactly how dangerous that is. I’m completely caught between wanting Randi’s hand back on her foot and wanting someone to take away Vee’s credit card.
