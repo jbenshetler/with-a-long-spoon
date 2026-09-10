@@ -108,6 +108,24 @@ So she did the only thing left, which was to close the space and put her mouth o
 
 He let her walk him backward out of the kitchen. The tap was off but the sink stood full, the pan she'd told him to leave sitting under the soapy water exactly where it wanted to be, soaking, while they went.
 
+The bedroom was still dark from the night, curtains drawn, the bed open where she'd climbed out of it an hour ago. She put both hands flat on his chest and walked him into the edge of it until his knees gave and he sat, and she pulled the undershirt off over her head and dropped it and got up onto him, a knee either side, her hands in his hair, her mouth back on his before he could put a single word out in front of them. She was running this. She had decided it in the kitchen without deciding anything: whatever had crossed her face, she was going to cover it with things she chose, and go on choosing them, and choose them hard enough that neither of them would ever need to go back and look.
+
+Underneath all of it the place his hand had landed kept its own small heat, a print she could feel the shape of. When she pushed the cotton down and off, the elastic dragged over the spot and lit it a second time, and the sound that came up out of her she put into the kiss so it would look like it belonged there.
+
+Then she reached down and set him where she wanted him and took him, one long sit, all of it, and the fullness went up through her and took the top off her thinking. She set the pace. She kept it slow, because slow was hers to give and she wanted him to feel it being given, and she said things into his mouth that she would have died to hear repeated, and every one of them was a choice, and every choice was another coat of paint over the thing in the kitchen. Except that each time she came down she sat on the sting, and each time it went off in her like a struck match, and the paint never quite covered.
+
+He was not like Friday. Friday had been two days without sleep and a door opening, starved and thorough, and he had taken all the time in the world with her. This was not that. His hands went everywhere and none of them were steady; his breath had gone rough while she was still deciding how to move; and he was watching her face with something close to hunger, as though there were a thing written on it he had to keep checking was still there. She wanted to ask what had gotten into him and killed the question before it reached her mouth, because she knew what had gotten into him. She had watched him watch her in the kitchen. To ask him what he'd seen would be to tell him there was something to see.
+
+His hands came up the backs of her thighs and took hold of her, one to each side. Then the left one moved. It settled flat and wide over the curve of her, over the exact place, and closed — his heat laid down over the sting, his palm covering the print it had left — and pulled her down onto him.
+
+"*Please,*" she said. Small, wrecked, not attached to anything, out of her before she could see what it was asking for.
+
+He didn't ask. He didn't say one word. He only held her there harder, and worked up into her, and she broke over him with her arms locked around his head and her face in his hair, coming and coming with his hand pressed over the mark of his hand. He went a moment after her — everything in him letting go at once, a groan bitten off against her breastbone, the deep spill of him and the long shudders coming out of him and into her while she held on and rode them down.
+
+After, she stayed exactly where she was, up on him, joined, his forehead resting between her breasts and her arms around his head, both of them breathing. Neither of them said anything at all. The thing he had seen sat in the room with them and neither of them reached for it, and she put her cheek down on his hair and let it sit there, unnamed, hers.
+
+Down the hall, in the cooling water, the pan went on soaking.
+
 ---
 
 She hadn't meant to stay two nights. She hadn't meant to stay one. But Saturday had become Sunday and Sunday had kept her, and by Sunday evening she was padding around his house in a pair of his sweatpants rolled three times at the waist and one of his big undershirts and nothing at all underneath, because she'd come with what she came in and a borrowed pair of heels, and her one bra was folded over the chair where she was saving it for Monday like the last clean thing in the world. She had washed her face with his soap and her hair with his shampoo, and by the afternoon she'd realized she smelled of him head to foot, nothing of her own left anywhere on her skin, and she had not minded it. She had gone a little still over it, in fact, standing in his kitchen in his clothes.
