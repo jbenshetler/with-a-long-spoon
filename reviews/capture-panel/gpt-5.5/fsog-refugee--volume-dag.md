@@ -23,7 +23,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: "But it was not the right *please* yet. It was still her *please*."
 WHY: That line scared me because it could become the exact thing I hate: a man deciding her own request is not enough until it sounds the way he wants. But the chapter follows it with safeword clarity, aftercare, and Randi’s own interior reckoning, so I trust the book enough for now. I’m deeply caught, but watchful.
-
 *capture-dag-v2-rich · gate ch002 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION —
@@ -41,7 +40,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: "He's hard to say no to,"
 WHY: That line made me tense because it brushes right up against the exact thing I don’t want eroticized, but the chapter knows it is dangerous instead of winking at it. I’m continuing because Randi suddenly feels real, not just stylish and manipulative, and the book is still treating consent, shame, and wanting with frightening seriousness.
-
 *capture-dag-v2-rich · gate ch003 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION — Oh, this chapter did something very sharp to me, because it is the first time the jacket’s promise fully steps into the room: not just Pace and Randi, not just private heat, but the beginning of Vee as an actual chosen person before she knows she’s being chosen. And I hate how much I liked watching it happen.
@@ -61,7 +59,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: “I point. You pick.”
 WHY: The consent alarm is absolutely on now, because Vee has no idea she is being brought into someone else’s private erotic architecture. But the chapter is so alive to Randi’s desire, and Pace’s tenderness is so inseparable from his control, that I’m still caught. I need to see whether the book actually pays the consent debt it is deliberately creating.
-
 *capture-dag-v2-rich · gate ch004 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION —
@@ -81,7 +78,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: “I'm not asking, I've decided.”
 WHY: That line pricked me because it’s charming on the surface and controlling underneath, and with Vee this eager to be chosen, the imbalance is real. But the chapter pulled me hard because Vee’s hunger felt specific and alive, and Randi’s warmth is dangerous precisely because it feels so good.
-
 *capture-dag-v2-rich · gate ch005 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION —
@@ -103,7 +99,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: "You should go out with him."
 WHY: That line made the manipulation feel suddenly colder, but the chapter has me completely: Pace’s attention, Vee’s awakening, Randi’s hidden tension, Cassie’s watchfulness. I’m worried, but I’m absolutely turning the page.
-
 *capture-dag-v2-rich · gate ch006 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION — Oh, this one got me in such a soft place.
@@ -121,7 +116,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: none
 WHY: This chapter made the tenderness feel real outside the bedroom, which I needed. Pace’s attention is intense without crowding her, and Vee’s desire feels like it belongs to her even while I know she’s being guided.
-
 *capture-dag-v2-rich · gate ch007 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION — Oh, this one got me in such a different place.
@@ -139,7 +133,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: none
 WHY: This didn’t have the sexual charge of the Pace chapters, but it deepened Vee in exactly the way I need before the seduction tightens. Cassie’s care feels real, and the water gave Vee a private self I badly want the book to protect, even if I’m afraid it won’t.
-
 *capture-dag-v2-rich · gate ch008 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION — Oh, this one got me exactly where I live.
@@ -159,7 +152,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: none
 WHY: This chapter gave me the exact consent-and-intensity cocktail I keep chasing: his control is real, but her yes has space around it. I’m uneasy because of the hidden plan, but Vee’s desire feels so inward and alive here that I’m absolutely still in.
-
 *capture-dag-v2-rich · gate ch009 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION —
@@ -177,7 +169,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: none
 WHY: This chapter gave me the exact sweetness I need: her desire as her own, witnessed by a friend who actually checks on her. The unease is there because of the secret plan, but Pace’s restraint and Vee’s joy still have me fully caught.
-
 *capture-dag-v2-rich · gate ch010 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION — Oh, this one got me in that soft dangerous place. Not the sex-place exactly, but the girl-place. The wanting-to-be-picked place. Vee sitting in that awful bright smoothie shop, feeling suddenly wrong in her cardigan, too covered and too visible at the same time — I knew exactly what that did to her before she knew. That whole room of girls is such a specific kind of threat. Not even mean yet, just calibrated. Finished. Measuring you by existing.
@@ -195,7 +186,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: "Vee's my dear friend,"
 WHY: That line almost made me pull back because it is such a perfect hook: public tenderness with a hidden agenda. But it also worked on me exactly the way it worked on Vee, and I need to know whether the book can keep honoring her yes while showing me the trap around it.
-
 
 ----- CARRY-FORWARD MINTED AFTER CHAPTER 10 -----
 *capture-dag-v2-rich · carry-forward ck-ch010 · gpt-5.5 · fsog-refugee · prompt-sha 72bd851a841c · 2026-09-08*
@@ -283,7 +273,6 @@ Some of the sorority girls’ names and types are blending: Sloane, Kinsey, Broo
 The restaurants and drink names are mostly atmosphere now: yellow Chi Latte, orange Smoothie Bird, the tiny warm dinner place, mint tea in brass cages.
 
 What stays is not plot exactly. It is doors, hands, food, water, being looked at, and the awful sweetness of being chosen before you know who chose you.
-
 *capture-dag-v2-rich · gate ch011 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION —
@@ -311,7 +300,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: "We take nothing and leave nothing,"
 WHY: I flinched there because correction can so easily become shame, and Vee is so primed to be crushed by it. But he made the rule gentle and shared it with her, and then the truck scene gave me the exact consent-and-heat combination I keep reading for.
-
 *capture-dag-v2-rich · gate ch012 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION —
@@ -333,7 +321,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: none
 WHY: This was quieter, but it deepened the thing I’m reading for: Vee owning her desire out loud, and Cassie witnessing it without shaming her. The secret still worries me badly, but the warmth is real enough that I’m absolutely staying.
-
 *capture-dag-v2-rich · gate ch013 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION —
@@ -353,7 +340,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: none
 WHY: This chapter pulled me because it made Vee’s wanting feel social, embodied, and real, not just private fantasy. The house invitation is doing exactly what an invitation should do: opening a door and making me ache to know what she chooses before she walks through it.
-
 *capture-dag-v2-rich · gate ch014 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION — Oh my god, this chapter is absolutely built to get me.
@@ -373,7 +359,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: none
 WHY: The secret plan still makes me wary, but this chapter is almost unfairly tailored to me: tenderness, restraint, competence, and a yes that feels hot because it is actually asked for. The dress offer is intimate enough to feel dangerous, but right now I’m caught completely.
-
 *capture-dag-v2-rich · gate ch015 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION — Oh, this chapter got me. This is the exact dangerous beautiful thing I came for, and also exactly why I’m still holding my breath about the larger lie.
@@ -393,7 +378,6 @@ DECISION: CONTINUE
 CAPTURE: 10
 ALMOST-STOPPED: "The bra too,"
 WHY: That was the moment I tensed, because it could have tipped into clinical objectification or coercive erotic staging. But the chapter earned me back almost immediately: he made room for her shame without making shame the point, and the heat came from her being seen, answered, and still free.
-
 *capture-dag-v2-rich · gate ch016 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION —
@@ -413,7 +397,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: none
 WHY: This chapter gave me the afterglow and the confidante scene I needed, and it deepened the tenderness instead of just replaying the heat. Cassie’s presence keeps me grounded, and Vee’s desire keeps getting more embodied and more her own.
-
 *capture-dag-v2-rich · gate ch017 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
 
 REACTION —
@@ -441,7 +424,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: "You don't have to tell me."
 WHY: That line almost made me put the book down because it felt like Randi manipulating Vee right to the edge and then pretending mercy after the exposure was already done. But I’m too caught now: the heat is real, the tenderness is tangled, and I need to know whether this book understands how dangerous Randi’s kind of care can be.
-
 *capture-dag-v2-rich · gate ch018 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -467,7 +449,6 @@ DECISION: CONTINUE
 CAPTURE: 10
 ALMOST-STOPPED: none
 WHY: This is the chapter I read this kind of book for: heat with tenderness, real choosing, shame met without mockery, and a man whose restraint makes his letting go feel earned. I am still scared of the secret plan, but I am completely caught now.
-
 *capture-dag-v2-rich · gate ch019 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -489,7 +470,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: none
 WHY: This was a quiet chapter, but it sealed the previous one emotionally. Vee’s happiness feels earned and bodily and private, and I’m too invested in what happens when that privacy collides with the secret plan to leave now.
-
 *capture-dag-v2-rich · gate ch020 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -511,7 +491,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: "Give me something to live on."
 WHY: That line made my little alarm system sit up, because Randi is turning Vee’s intimacy with Pace into something Vee performs for her. But the chapter also gave Vee real permission around her own desire, and the Randi/Vee pull is getting impossible to deny in a way I am very much not done with.
-
 
 ----- CARRY-FORWARD MINTED AFTER CHAPTER 20 -----
 *capture-dag-v2-rich · carry-forward ck-ch020 · gpt-5.5 · fsog-refugee · prompt-sha 72bd851a841c · 2026-09-11*
@@ -625,7 +604,6 @@ The specific restaurant names and wine details are mostly atmosphere now: velvet
 Randi’s sex anecdotes are already less specific than their function. I remember tied wrists and helplessness “done right,” and later the disappointing old boyfriend, mostly as ways she opens Vee.
 
 What stays is the pattern: Pace feeds and makes and asks; Randi names and opens and kisses; Cassie witnesses and lets Vee keep things. Vee is happier than she has ever been, and the book is letting me have that while keeping the knife under the table.
-
 *capture-dag-v2-rich · gate ch021 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -647,7 +625,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: "hot and hard and past any asking"
 WHY: That line made me tense for half a second because asking is part of why I trust him, but Vee's desire and initiation were so alive around it that I stayed with her. The chapter pulled hard: the dress, the mirror, the laughter, the sex, the tenderness afterward. I am nervous about the secret plan, but emotionally I am very, very caught.
-
 *capture-dag-v2-rich · gate ch022 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION — Oh, I loved this quieter little hinge of a chapter more than I expected to. It’s not a big sex chapter after “Peekaboo,” but it’s still humming from it, like Vee has walked into the day with his hands still on her. The whole “late to everything and it didn’t bother her a whit” feeling is so right after a night that has rearranged your private weather. She is not performing happiness. She is leaking it.
@@ -665,7 +642,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: none
 WHY: This chapter kept the heat alive without needing another explicit scene, and it made the larger consent problem sharper instead of softer. Cassie’s care steadied me; Randi’s “date” made me lean forward with a little dread.
-
 *capture-dag-v2-rich · gate ch023 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -691,7 +667,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: "Don't you dare tell me no."
 WHY: That line pricked me because Randi’s pressure is getting dressed up as sparkle, and I’m watching for whether the book knows the difference. But the chapter absolutely has me: the tenderness, the class ache, the laughter, the foot-touching, Vee wanting Randi without letting herself know it. I’m nervous, turned on, and very much still in.
-
 *capture-dag-v2-rich · gate ch024 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -717,7 +692,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: “She got past me before I could help it.”
 WHY: That line scared me because it made Randi’s care feel real, and real care is much harder to defend against than cruelty. I am deeply in, but I need the book to understand that being loved secretly is still being kept in the dark.
-
 *capture-dag-v2-rich · gate ch025 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -741,7 +715,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: "She was nineteen."
 WHY: That moment chilled me, but the chapter didn’t ask me to find it romantic; it let Vee feel the wrongness and still honor Pace’s own experience of it. The consent and care here are so alive that I’m more invested than ever, even while I’m more afraid of what the hidden setup will do when it breaks.
-
 *capture-dag-v2-rich · gate ch026 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -764,7 +737,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: “I don't need you to get me home safely.”
 WHY: That line made me flinch because she wounded him exactly where he’s good, but the book knew it was ugly and let her know it too. The dancing lesson was pure catnip for me: dominance as structure, closeness as safety, her consent and participation making the lead possible. I need the next chapter badly now, especially because she’s going to Randi, and I do not trust that woman with a freshly ashamed Vee.
-
 *capture-dag-v2-rich · gate ch027 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -788,7 +760,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: "So don't you worry about a single piece of *how*. We're going to get you ready, and the rest takes care of itself."
 WHY: That line scared me because it is Randi taking custody of Vee’s repair, and Vee lets her. But the chapter pulled me hard: Vee’s shame, Randi’s tenderness/control, the shoes, the kiss becoming ordinary, and the ache of Pace waiting offstage all have me completely trapped.
-
 *capture-dag-v2-rich · gate ch028 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -810,7 +781,6 @@ DECISION: CONTINUE
 CAPTURE: 7
 ALMOST-STOPPED: "Randi. That's not finished."
 WHY: The chapter pulled me because Pace talking about Vee to an old friend felt unguarded and real, and Sheri’s bluntness gave the whole situation a needed outside eye. But that one line about Randi reminded me hard that Vee is still walking toward a structure she can’t see, and I need the book to keep treating that as dangerous, not cute.
-
 *capture-dag-v2-rich · gate ch029 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -840,7 +810,6 @@ DECISION: CONTINUE
 CAPTURE: 10
 ALMOST-STOPPED: none
 WHY: This had the apology, the tenderness, the erotic discovery, and the consent-aware restraint I keep chasing in this genre. Pace noticing without taking over, and Vee wanting before she can name it, completely got me. The hidden setup still scares me, but I am absolutely not leaving now.
-
 *capture-dag-v2-rich · gate ch030 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -874,7 +843,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: “So. Did you deserve it?”
 WHY: That line made me nervous in the exact place this book lives, because Randi is not just comforting Vee now; she is shaping the meaning of Vee’s desire while Vee is too open to know what’s happening. But Vee stopping herself in the bathroom kept the chapter honest for me, and Pace’s remembered gentleness still anchors the heat. I’m absolutely continuing, but I have one hand on the doorframe.
-
 
 ----- CARRY-FORWARD MINTED AFTER CHAPTER 30 -----
 *capture-dag-v2-rich · carry-forward ck-ch030 · gpt-5.5 · fsog-refugee · prompt-sha 72bd851a841c · 2026-09-11*
@@ -1038,7 +1006,6 @@ Sheri’s cycling scene is more impression than plot: hills, cold, bluntness, �
 The exact sequence of Vee’s apology night after the front hall is blurred. What stays is the pie being lifted away and the weight going with it.
 
 What remains sharp is the pattern: Pace makes and holds and waits; Randi names and styles and presses; Cassie watches for Vee herself. Vee is becoming more alive, more desired, more desiring — and also more entangled in a truth she still has not been allowed to choose.
-
 *capture-dag-v2-rich · gate ch031 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION — Oh. Oh, Vee.
@@ -1060,7 +1027,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: none
 WHY: This was exactly the kind of heat I keep reading for: public, risky, intimate, and still hers. The long step felt like Vee choosing herself in real time, and I needed to see that before the larger manipulation closes in again.
-
 *capture-dag-v2-rich · gate ch032 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION — Oh. Oh, this one got me.
@@ -1088,7 +1054,6 @@ DECISION: CONTINUE
 CAPTURE: 10
 ALMOST-STOPPED: “You enjoy this,” he said. Not a question.
 WHY: That line put me briefly on alert, because I hate when books use a heroine’s body as a loophole around her mouth. But then he stopped instantly at “Don’t,” waited for her real yes, and the whole chapter became exactly the thing I came for: heat fierce enough to scare her, held inside tenderness and choice.
-
 *capture-dag-v2-rich · gate ch033 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION — Oh. Oh, Vee.
@@ -1112,7 +1077,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: none
 WHY: Vee staging her own reveal, and Pace wanting badly while staying exactly where she put him, is almost precisely my weakness. The hidden plan still worries me, but this chapter made her desire feel so authored from inside her that I’m all the way in.
-
 *capture-dag-v2-rich · gate ch034 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -1138,7 +1102,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: “Do what you need to.”
 WHY: That line almost made me pull back because Randi knew too much and made it sound casual, which is exactly where this could tip from hot into manipulation I won’t forgive. But the chapter is clearly aware of the danger, and Vee’s confusion is being honored from inside instead of brushed aside. I’m continuing because I need to see whether the book makes Randi answer for this, and because I am embarrassingly caught.
-
 *capture-dag-v2-rich · gate ch035 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -1164,7 +1127,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: none
 WHY: The drawer got me completely. This chapter didn’t need a big confrontation because it made the tenderness feel like a vow, and that makes me both softer toward Pace and much more scared of what his silence is going to cost.
-
 *capture-dag-v2-rich · gate ch036 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -1186,7 +1148,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: none
 WHY: This was small but it mattered. Cassie naming the pattern gives me exactly the outside steadiness I’ve been craving, and Vee’s “Maybe. I think so” pulled the love story and the danger into the same room. I’m still in, but I need the secret to start costing someone soon.
-
 *capture-dag-v2-rich · gate ch037 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION — I am helpless for this chapter in the exact way this book knows how to make me helpless: not because something enormous happens, but because the intimacy keeps getting more specific. The picture. God. That could have gone so wrong for me, because a naked photo in this genre can become such a gross little power object so quickly. But he asks by receiving the offer seriously, promises plainly, uses her phone, poses her with care, shows it to her, lets *her* send it. The brave part is hers. That matters so much to me.
@@ -1206,7 +1167,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: “I don’t go back.”
 WHY: The photo scene could have lost me if it had turned possessive or careless, but it did the opposite: her offer, his care, her choice. The family door closing worries me, and the larger secret still worries me, but the tenderness here is so precise that I’m absolutely still in.
-
 *capture-dag-v2-rich · gate ch038 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -1232,7 +1192,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: “Legs like yours, though — and you only gave him *half*?”
 WHY: That was the closest I came to bristling, because Randi knows how to make Vee prove herself. But Vee’s desire and pride are so present here, and Randi’s own mask slipping made the triangle feel newly alive instead of merely arranged. I’m very in.
-
 *capture-dag-v2-rich · gate ch039 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -1254,7 +1213,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: none
 WHY: This wasn’t the chapter I was craving, but it widened the emotional map in a way I needed. Randi became more human and less untouchable, Vee showed real moral tenderness, and the book’s whole obsession with “what the data means when you see the whole set” keeps tightening around the secret plan.
-
 *capture-dag-v2-rich · gate ch040 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -1280,7 +1238,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: none
 WHY: This chapter had me by the domestic throat: the drawer, the food, the ridiculous hallway undressing, and especially the shirt. Pace’s care keeps landing exactly where my defenses are weakest, and Vee’s need feels more and more like something she is choosing with her whole self, even while the larger withheld truth keeps darkening the edges.
-
 
 ----- CARRY-FORWARD MINTED AFTER CHAPTER 40 -----
 *capture-dag-v2-rich · carry-forward ck-ch040 · gpt-5.5 · fsog-refugee · prompt-sha 72bd851a841c · 2026-09-11*
@@ -1450,7 +1407,6 @@ Sheri remains mostly outline: cycling friend, blunt, alone at Thanksgiving, pie.
 The Anthro elective details are half-lost except Tuesdays/Thursdays and “just us.”
 
 What stays sharp is the pattern: Pace makes room with his hands and his house; Randi makes rooms with words and gaze; Cassie names the map; Vee keeps becoming more herself while being more deeply held by people who still have not told her the whole truth.
-
 *capture-dag-v2-rich · gate ch041 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION — Oh, this one got me in the quieter place. Not the hot place exactly, though Pace sewing that dress is still a kind of erotic violence against my common sense. A man listening once, remembering the unaffordable magazine dress, then making it with his own hands? That is the sort of thing that would make me stupid too. I would also be standing in my childhood dining room unable to explain that the dress is not just a dress, it is evidence. It is being seen, measured, imagined, labored over. It is his attention made wearable.
@@ -1470,7 +1426,6 @@ DECISION: CONTINUE
 CAPTURE: 7
 ALMOST-STOPPED: none
 WHY: This was quiet, but it deepened the cost of all the cropping Vee is doing to keep her worlds from touching. I’m still very much in, because Cassie asking “what is he… to you” feels like the book moving one clean inch closer to the truth.
-
 *capture-dag-v2-rich · gate ch042 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -1494,7 +1449,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: none
 WHY: This chapter didn’t give me heat, but it gave me the emotional bruise underneath all the heat, and I am absolutely not leaving now. I need to know whether Pace can meet Vee in words, not only in care, because care without truth is starting to feel like another beautifully warmed room with a locked door in it.
-
 *capture-dag-v2-rich · gate ch043 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION — God, this chapter hurt in exactly the place I was already touching after “I love how good we are together.” The book knows the wound is open and just presses one careful finger into it.
@@ -1522,7 +1476,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: “He’d given her all of it and not the name.”
 WHY: This pulled me hard because it turned the heat into the wound instead of using heat to avoid it. I believe Pace’s care, which is why his silence hurts so much; I’m continuing because Vee is finally feeling the cost of being cherished in private and unnamed in daylight.
-
 *capture-dag-v2-rich · gate ch044 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -1544,7 +1497,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: none
 WHY: It pulled me hard because it took one of the most intimate symbols between them and made it fail her. I’m staying because Vee’s need has become too clear to look away from, and because I need to know whether Pace can answer in words before the secret arrangement detonates everything.
-
 *capture-dag-v2-rich · gate ch045 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -1570,7 +1522,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: “Words are cheap, and you still won’t spend them on me.”
 WHY: This chapter hurt me in the way that makes me lean closer, not leave. Vee finally asks for the name, the daylight shape, and Pace’s refusal is not romanticized; the book lets it be a real failure of care. I need to see whether he can meet her in words, not just warmth.
-
 *capture-dag-v2-rich · gate ch046 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION — Oh. Oh, Randi.
@@ -1596,7 +1547,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: none
 WHY: This pulled me hard because it made Randi ache without letting her off the hook. The fairytale was gorgeous, then hollow, and the last text exchange made the secrecy feel intimate and poisonous at once. I need to see what happens when Vee’s need for names collides with Randi’s talent for hiding inside almost-truths.
-
 *capture-dag-v2-rich · gate ch047 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -1618,7 +1568,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: "He left you the room. He always left you the room — a thing she'd appreciated once, and hated now."
 WHY: That line almost made me put the book down because it names exactly where the consent fantasy starts to hurt: space without reassurance can become abandonment. But the chapter understands the hurt instead of romanticizing it, and the Randi/Vee dramatic irony has me completely tangled up.
-
 *capture-dag-v2-rich · gate ch048 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -1640,7 +1589,6 @@ DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: "Then not saying it matters more to you than having her."
 WHY: That line almost made me throw the book because it is so plainly true, but it also made me trust the chapter. Sheri names the wound without flattering Pace, and now I need to see whether he can do anything with being seen that clearly.
-
 *capture-dag-v2-rich · gate ch049 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION —
@@ -1664,3 +1612,238 @@ DECISION: CONTINUE
 CAPTURE: 9
 ALMOST-STOPPED: none
 WHY: This is exactly the kind of emotional payment I needed after Vee’s hurt: not instant repair, but Pace understanding that his silence was fear and that it harmed her. I’m still holding him accountable, but now I’m desperate to see what he does with that knowledge.
+*capture-dag-v2-rich · gate ch050 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+
+REACTION —
+
+Oh, this one got me in a very specific soft, dangerous place.
+
+Because I came into it raw from Vee’s cold little childhood room and Pace sobbing over chicken like a man who finally understood the price of his own silence, and then the book gives me Vee walking straight to Randi. Not Pace. Randi. Her sure place. Her door that opens. And I felt that relief before I had time to be suspicious of it.
+
+Randi is so good here it almost makes me angry. She does exactly what Vee needs: gets her out of the public hall, holds her, lets her cry, makes the bed clear like none of the glittering Gstaad trophies matter next to Vee wrecked in her coat. And then she is brilliant with her. She doesn’t just soothe her with nonsense. She separates fear from fact. She makes Vee look at what Pace actually did: the heat, the wine, the meal, the “most important person in my life.” She knows how Pace works, maybe too well, but God, she uses it tenderly here.
+
+And then, of course, the coat.
+
+That was so hot to me because it is exactly my weakness when done right: not humiliation as cruelty, but shame being turned carefully in Vee’s hands until it becomes courage. Randi doesn’t say “go beg.” She says: take this into your own hands. Don’t fight him in the language where both of you are bleeding. Show him. And Vee finishing the thought herself, “And nothing under it,” made my whole stomach drop. That is the kind of erotic surrender I actually believe because it comes from her wanting. It is outrageous, yes, but it is also active. She is choosing the door, the cold, the coat, the risk.
+
+Still. Still. Randi is arranging her again. That’s the splinter. She is loving Vee and steering Vee at the same time, and the book knows both things are true. “You’ve got the goods” and “Pace is not going to open his own door… and say no” is a little too certain, a little too much Randi enjoying the image of Vee as an offering. I trusted the care in it, but I did not forget the original game. I can feel the old machinery under the warmth.
+
+And Randi telling the “fairytale” back to Vee while cutting out the emptiness afterward hurt more because Vee hears romance where Randi lived disappointment. Vee envies the future John could name in an hour, while Randi is quietly choosing the unnameable thing with Vee instead. That is such a cruel little mirror: Vee wants Pace to say the word; Randi wants Vee not to need the word from her yet. Everyone is hiding behind the exact door they’re asking someone else to open.
+
+I am absolutely continuing. I need the doorstep scene now with my whole body. But I am also braced, because if Pace receives the coat and still can’t say anything, I may have to get up and walk around the room like a lunatic.
+
+GATE 50 — My Friend Randi
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: “You backed him into a corner in his own house. Name it or lose me — the one thing he can't do.”
+WHY: That line made me flinch because Randi is right enough to help and wrong enough to be dangerous. But Vee choosing the coat, choosing to go back with her shame turned into nerve, has me completely caught.
+
+----- CARRY-FORWARD MINTED AFTER CHAPTER 50 -----
+*capture-dag-v2-rich · carry-forward ck-ch050 · gpt-5.5 · fsog-refugee · prompt-sha 72bd851a841c · 2026-09-11*
+
+WHO'S WHO
+
+Vee is in the rawest place I’ve seen her. She has grown too large for the old rooms, too hungry for fine, too changed to go back, and yet she still has no name for the thing that changed her. She loves Pace. That is not even subtext anymore. She tried to say it sideways with crackers and a meal, then directly enough at the door: what am I to you. She left when he would not answer, and I am proud of her for that even though it broke both of them. Now she is going back, but in the most Vee-and-not-Vee way possible: choosing the coat, the heels, the cold, the risk, turning shame into an offering she controls. I believe the choice is hers. I also see Randi’s hands all over the shape of it.
+
+Pace/Peter is not cold. That matters. He is in love with Vee and finally knows it in words, even if he has not spent those words where they belong. Daphne broke something in him: he said love once, lost her, and taught himself that not saying it made loss survivable. With Vee that logic is failing. He hurt her on purpose, not maliciously but knowingly, by choosing the smaller truth on the porch. He misses her terribly. He sobbed over the passing truck. I am softer toward him after that, but not letting him off. He knows now. The next move matters.
+
+Randi is fully dangerous now because she is fully human. She loves Vee. I believe that. Not as currency, not as sorority performance, not as a cute flirtation. Vee is her gorgeous. But she is still arranging instead of risking. John showed her the whole approved fairytale and left her cold; Pace and Vee are where her real longing lives. With Vee, she can be almost honest and still keep cover. She helps Vee beautifully in chapter 50, and she also steers her toward Pace in a way that serves Randi’s own hidden wants too.
+
+Cassie is off to the side for these chapters, but her question still rings: what is he to you. She is the daylight test. Vee can tell her some things, not the whole thing. Cassie is still the person most likely to see a shape and ask for its real name.
+
+Sheri is real now, not a blonde threat from Vee’s midnight imagination. Small, blunt, funny, wounded, lesbian or at least into women, cut off from family, and exactly the friend Pace needs because she does not treat him like a saint. She tells him the truth: if he cannot say it, then not saying it matters more than having Vee. I trust her a lot.
+
+Daphne is the old wound made explicit. Tutor, best friend, first lover, first love. Pace said I love you to her, she left, and his life was consumed. She is the reason he thinks words are dangerous.
+
+John is the perfect acceptable man from Randi’s world: rich, handsome, clever, socially fluent, good at skiing, good at dancing, good enough in bed. And still he never found her. He is the fairytale with no center.
+
+WHERE THINGS STAND
+
+Vee went home and showed her parents the cropped induction photo. Waist up for them. The real one, the slit and the long bare leg and the Pace-made dress doing its full work, stayed elsewhere. Her parents asked about Pace. She called him her boyfriend almost like she was asking permission from the word. She did not tell them he made the dress because sex would be easier for her father to understand than a man sewing devotion into fabric.
+
+On the porch, under Pace’s quilt, Vee gave him her best almost-confession: she had been eating crackers her whole life and he fed her a meal. He understood enough to be moved and afraid. He answered with “I love how good we are together” and “I never had this either.” Warm, true, not enough. Vee felt the mismatch immediately and later named it to herself: he had not said the sentence back.
+
+That wound spread. In the dark after sex she asked if they were just sex, if they would ever go out again. He took her to Chili’s because she asked, and the place overwhelmed him: screens, music, noise, too much at once. Vee read it as rejection. The nachos tasted dead because Pace has ruined fine for her. Back home she accused him unfairly of punishing her, and he explained that loud places make it impossible to hear her. They made up with sex that was tender first and then uncontrolled, and she felt him lose himself in her. But even that did not give her the word.
+
+Then the shirt failed her. Wearing it bare against her skin in the dorm used to feel like him. Now she realized the warmth was hers, not his. He was not in the cloth. The shirt could smell like him but could not answer. She took it off and lay naked in the cold rather than accept the substitute.
+
+She went to Pace’s house and finally asked directly: what am I to you, out there, beyond the warm house and the sex and the meals. He said she was the most important person in his life. He said words are cheap, believe what I do. She answered the line of the whole section: words are cheap, and you still won’t spend them on me. He folded his arms and said nothing. She left. He said only her name.
+
+Randi’s Gstaad fairytale happened over New Year’s: horrible beautiful family breakfast, skiing alone, John cutting into the lift line and inventing a marriage with her, champagne, a blue dress, a white-tie ball, dancing, midnight kiss, sleigh, hotel room. It should have been the story. Instead, after good sex, she felt cold and untouched. John had taken a beautiful woman to bed and never found Randi underneath. She thought of Pace, then Vee, and admitted to herself she loves Vee but is not brave enough to tell her plainly.
+
+Vee spent New Year’s in her childhood bedroom in Ohio, cold and too big for the bed and too changed for the room. She envied Randi’s poisoned fairytale without knowing its emptiness. She texted Randi with an open hand. Randi sent back the glittering version and one true line: miss your face most though, gorgeous. Vee spiraled about Pace’s silence and invented a blonde Sheri to steal her memories.
+
+Pace met the real Sheri at their diner. Chili’s was not the only kind of public place; this diner is quiet enough that he could hear Vee whisper, and he thought of her there. Sheri pushed him hard about Vee. He admitted Vee wanted a declaration and that he could not say it. Sheri told him exactly how bad that looked. She also clocked Randi as “the brunette” and saw her jealousy at the dance hall.
+
+Pace then broke. Hungover, sick, eating chicken and broccoli like punishment, he remembered Vee and understood that on the porch he had known what she offered and chosen the smaller truth. Daphne explains why, but does not excuse it. He knows he loves Vee. He knows silence did not make the hurt survivable. He heard an engine and thought it was her; when it passed, he sobbed.
+
+Vee came back to campus after break wrecked by the silence and went straight to Randi. Randi held her, sorted fear from fact, reminded her Pace had warmed the house and poured wine and said she was the most important person in his life. Then Randi gave her the plan: go to him in the long coat, nothing underneath, black heels. Vee resisted because it felt slutty, and Randi turned the shame into bravery. Vee is going to sleep, shower, make herself into the thing, and go to him tonight.
+
+HOW I FEEL ABOUT EACH OF THEM
+
+I ache for Vee. I love that she is finally demanding a name, not because she is needy but because she is right. Care without language has become unbearable. At the same time, the coat plan scares me because it gives Pace the language he is best at, body and offering and heat, when what failed was words. I want the doorstep scene desperately. I also need him to speak before her body lets him off the hook.
+
+Pace has made me angry and tender in equal measure. The Daphne explanation worked on me, but only as explanation. He is not some careless man using sex instead of feeling. He is a frightened man using doing instead of saying, and Vee has been paying the bill. I trust his desire. I trust his care. I am waiting to see if I can trust his courage.
+
+Randi is the one I cannot settle. She was magnificent with Vee in that bedroom, and I felt why Vee goes to her. But she is still managing the room instead of standing in it honestly. She tells Vee not to use words because words are the war, which is helpful for Pace and not innocent for Randi. She knows the power of leaving a thing unsaid. She is doing it herself.
+
+Cassie I miss. I want her back in the room because Randi is too involved and Pace is too wounded and Vee is too hungry. Cassie might not understand every erotic current, but she understands when a word is missing.
+
+Sheri I trust in a way that surprised me. She is not polished, not dazzled, not afraid of Pace’s seriousness. She calls him out and steals his fries. I want Vee to meet her so badly, partly to dissolve the fantasy blonde and partly because Sheri is proof Pace has a real public world that is not fake or glittering.
+
+Daphne I feel sad about, but I am already protective of Vee against the damage Daphne left behind. A first wound can explain the scar. It cannot be allowed to run the whole house.
+
+John left me cold exactly as he left Randi cold. Nothing villainous. Almost worse: the best of the acceptable world, and still nothing.
+
+WHAT I'M CARRYING
+
+The waist-up photo in Vee’s mother’s purse, the leg cut away.
+
+Pace making the dress being harder to confess than Pace taking it off.
+
+Cassie asking, “So what is he… to you.”
+
+The porch moon, the quilt, the coffee already cooled enough for her.
+
+“I had been eating crackers my whole life. And you fed me a meal.”
+
+“I love how good we are together.” Beautiful. Wrong shape.
+
+The little wait behind Vee’s breastbone.
+
+Chili’s roaring around them while Pace tries to bring his eyes back to her.
+
+Nachos tasting like a billboard beside a painting.
+
+“Somewhere quieter, I can. And I do. I’m listening now.”
+
+Her wanting his control to break, and then it does.
+
+“He’d given her all of it and not the name.”
+
+The shirt against bare skin turning into absence.
+
+The warmth being hers.
+
+The door scene: heat, wine, chicken, music, all ready, and her staying on the mat.
+
+“What am I to you?”
+
+“Words are cheap.” / “Words are cheap, and you still won’t spend them on me.”
+
+Not the hand in place of the word.
+
+Randi’s breakfast table: made-up boys safer than real ones.
+
+John and Randi inventing three children on the lift.
+
+The blue dress bought for the story she wanted to tell a daughter.
+
+“She walks in beauty,” unfinished.
+
+The sleigh bells in the snow, then the hotel door where he never asked.
+
+The lipstick left on John’s body while Randi herself remains unmoved.
+
+“Vee was her gorgeous.”
+
+Vee in the childhood bed her legs outgrew.
+
+The room loving Vivienne and not knowing Vee.
+
+The blonde rival stealing the fra diavolo memory.
+
+The diner glass tabletop, the quiet jukebox, the griddle.
+
+Sheri: “Then not saying it matters more to you than having her.”
+
+Pace thinking the air crackles when Vee is in the room.
+
+“The philosophy of your food.” Sheri telling him to get over himself.
+
+Bleach, hangover, chicken and broccoli.
+
+Pace admitting he chose the smaller truth.
+
+The engine passing, his body believing for one second it was Vee.
+
+Vee arriving at Randi’s wrecked from the red-eye.
+
+Randi sweeping Gstaad dresses off the bed like they are nothing.
+
+“Fear needs a face to point at.”
+
+The coat. Nothing under it.
+
+“Words are the whole war.”
+
+Randi’s black heels in Vee’s hands.
+
+WHAT I'M WAITING FOR
+
+I am waiting for the doorstep. I need Pace to open the door and see her, yes, but more than that I need to know whether he has learned anything. If he only receives the offering with his hands and mouth and silence, I will be furious. The coat can start the repair, but it cannot be the whole repair.
+
+I am waiting for him to say I love you. Not “important,” not “good together,” not “believe what I do.” The cheap word. The costly word. The one he has made into a locked room.
+
+I am waiting for Vee to understand Sheri is real and not a threat. I want that awful invented blonde dissolved in daylight.
+
+I am waiting for Randi’s love for Vee to become impossible to hide. She is already too close, too warm, too careful, too invested. Vee feels it but misreads parts of it. I need Vee’s wanting for Randi to become her own knowledge, not only Randi’s arrangement.
+
+I am waiting for the original plan to surface. Every chapter about names makes that secret worse. Pace and Randi made choices about Vee before she knew there was a game. Her yeses are real, and that is why the hidden frame is going to hurt.
+
+I am waiting for Cassie to come back and notice the changed weather. She has been absent while Randi became Vee’s crisis room. That cannot stay simple.
+
+I am waiting to know more about Daphne: why she left, whether she died or abandoned him or something more complicated, and whether Pace has actually grieved or just built a system around the wound.
+
+I am waiting for Pace and Randi in the same room after this rupture. Their old game cannot feel the same now that both of them love Vee in ways they are not saying cleanly.
+
+WHAT'S FADING
+
+Some of the exact chapter order is already soft: shirt, Chili’s, porch, doorway all blur into one long wound about words. I remember the emotional progression more than the calendar.
+
+The precise food details are fading again. Chicken, wine, nachos, diner burgers, broccoli, champagne, venison. What stays is food as language: Pace’s food says devotion, Chili’s says dead old life, John’s fine dining says spectacle without intimacy.
+
+I don’t remember every detail of John’s background except law school, New Haven, money, polish, and that he belonged perfectly in Randi’s approved world.
+
+The exact ski geography is gone. Gstaad, chalet, lift, black runs, hütte, ball, sleigh. Snow and wealth and cold.
+
+Sheri’s Paige details are already a little fuzzy: design school, bird prints, big family, wanted Sheri to call home. What stays is Sheri knowing grief is not a choice.
+
+The exact words of Pace’s diner defense blur, but the shape is clear: he stacked true bricks and Sheri knocked on the missing door.
+
+Cassie’s physical presence has faded because she wasn’t really here, but her question has not.
+
+What stays sharp is the new triangle of need: Vee needs Pace to name her; Pace needs to be brave enough to survive saying love; Randi needs Vee and is trying to keep that need hidden inside friendship. And tonight Vee is going to the warm house in a coat and heels, carrying her whole body as the answer, when the question is still waiting for words.
+*capture-dag-v2-rich · gate ch051 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+
+REACTION —
+
+Oh, I was braced so hard for the door that I almost forgot she still had to get there. And the getting there did me in. The mirror, the shoes first, the coat over nothing, her talking herself into becoming the woman brave enough to do it — that was exactly the kind of erotic I want, because it is all hers before it is his. She is not being dressed or positioned or persuaded in that room. She is choosing, and frightening herself with the size of her own choice, and then choosing again.
+
+The part where she starts touching herself in the mirror and then stops? That got me. Not just in the obvious way, though yes, good Lord. It was the discipline of it, the offering of it, but not in a helpless way. She denied herself because she knew what she wanted, and that made her feel powerful. That is the difference for me. The surrender is not emptying her out. It is her gathering herself up.
+
+And then the car scene nearly killed me. I was laughing and clutching my chest and also yelling at her like an insane person. The police lights were a perfect little heart attack. I honestly thought, for half a second, the book was going to humiliate her, and I was ready to be furious, but instead it turned the fear into even more voltage. By the time she reached his door I was almost sick with wanting her to get what she came for.
+
+And Pace. Pace, Pace, Pace.
+
+He opens with the formal voice, and I felt my whole body go cold. “It’s late. Is everything alright?” Sir. No. Do not do this to me. Do not make this girl stand there in a coat and terror while you perform emotional furniture. But then she opens the coat and the wall just vanishes. I loved that she sees it happen. I loved that she watches what her choice does to him. Not because his desire validates her entirely, but because this particular shame in her has always needed to be met by someone who sees the whole of it and goes reverent.
+
+The doorstep sex was wild, and it worked for me because it felt like both of them breaking in the same direction. He goes to his knees immediately. Immediately. I am not immune. The open door, the cold, the ridiculousness of trying to make it to the bed and failing because his jeans are around his thighs — it was desperate and funny and filthy and tender all at once. That is such a narrow target, and this chapter hit it.
+
+But here is where I am split: he still did not say it.
+
+I know, I know. He said “I missed you so much,” and his voice cracked, and he went down on one knee by her chair after making her pancakes at midnight, and if I pretend that did not move me I am lying. It moved me terribly. The food after the frenzy was almost more intimate than the sex. The blanket. The “those stay on.” The pancakes from scratch because she is hungry. His care is so embodied and exact that I understand why Vee feels, in that moment, that she has everything.
+
+But I am still carrying the sentence he did not spend.
+
+The chapter almost seduced me into forgetting that, which is honestly the point and the danger. Because Vee forgot too, or at least she had no room for wanting it right then. And I believe her happiness. I am not rolling my eyes at it. She drove there to get back inside his care, and she did. He did not punish her, did not make her beg, did not hold himself apart once she crossed the threshold. He met her offering with hunger and relief and then warmth. That counts. It counts a lot.
+
+Still. The wound was about words. This repaired the body of it, maybe even the trust of it, but not the name. Maybe the book knows that. I think it does, because the chapter lets me feel the relief so completely that the missing word becomes quieter but not gone. Like a splinter under velvet.
+
+And Cassie at the end, with one eyebrow and “Hmm,” was perfect. Thank God she is back in the room. Randi made the plan, Pace received the offering, but Cassie sees the evidence walking in on Sunday evening wearing the whole weekend like a confession. I want that daylight test now more than ever.
+
+GATE 51 — Nothing Underneath
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: “It’s late,” he said. “Is everything alright?”
+WHY: For one awful second I thought Pace was going to hide behind manners again and let her stand there exposed in every possible way. But the chapter gave me Vee’s choice from the inside, then gave her hunger, welcome, sex, food, warmth, and a little daylight witness at the end. I am still waiting for “I love you,” though. The pancakes are not the word.

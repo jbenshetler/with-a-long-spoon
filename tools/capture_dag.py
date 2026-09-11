@@ -44,11 +44,17 @@ PERSONAS = ["romance-graduate", "fsog-refugee", "consent-sensitive", "dark-roman
 # run never silently opens a fresh 50-chapter read on a subscription lane.
 ALL_PERSONAS = PERSONAS + ["queer-woman"]
 DECADE = 10
-N_CH = 50
+
+
+def volume_one_count() -> int:
+    return len(checkpoint_bundle.volume_scenes.volume_one_slugs(drafted_only=True))
 
 
 def slugs() -> list[str]:
-    return checkpoint_bundle.reader_slugs()[:N_CH]
+    return checkpoint_bundle.volume_scenes.volume_one_slugs(drafted_only=True)
+
+
+N_CH = volume_one_count()
 
 
 def boundary(n: int) -> int:
@@ -121,9 +127,13 @@ def mint_prompt(d: Path, n: int) -> str:
     return "\n".join(parts)
 
 
+def clean_markdown(text: str) -> str:
+    return "\n".join(line.rstrip() for line in text.strip().splitlines()) + "\n"
+
+
 def write_doc(path: Path, header: str, body: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(f"{header}\n\n{body.strip()}\n", encoding="utf-8")
+    path.write_text(f"{header}\n\n{clean_markdown(body)}", encoding="utf-8")
 
 
 def run_reader(model_id: str, persona: str, agent_fn, to_n: int) -> str:
@@ -220,14 +230,19 @@ def assemble(model_id: str, persona: str) -> Path:
     for n in range(1, N_CH + 1):
         gp = gate_path(d, n)
         if gp.exists():
-            parts.append(gp.read_text(encoding="utf-8"))
+            parts.append(clean_markdown(gp.read_text(encoding="utf-8")).rstrip())
         if n % DECADE == 0 and ck_path(d, n).exists():
-            parts.append(f"\n----- CARRY-FORWARD MINTED AFTER CHAPTER {n} -----\n"
-                         + ck_path(d, n).read_text(encoding="utf-8"))
+            parts.append(
+                "\n----- CARRY-FORWARD MINTED AFTER CHAPTER "
+                f"{n} -----\n"
+                + clean_markdown(ck_path(d, n).read_text(encoding="utf-8")).rstrip()
+            )
     out = PANEL_ROOT / model_id / f"{persona}--volume-dag.md"
     out.write_text(
         f"# Capture DAG record — {persona}\n\n*model: {model_id} · protocol: "
-        f"{PROTOCOL} · assembled {date.today().isoformat()}*\n\n" + "\n".join(parts),
+        f"{PROTOCOL} · assembled {date.today().isoformat()}*\n\n"
+        + "\n".join(parts)
+        + "\n",
         encoding="utf-8")
     return out
 

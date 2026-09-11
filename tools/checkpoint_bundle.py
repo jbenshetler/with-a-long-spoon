@@ -121,12 +121,13 @@ def display_title(slug: str) -> str:
 
 
 def reader_slugs() -> list[str]:
-    """The full cross-volume chapter sequence: Vol 1 drafted (1..50), then Vol 2
-    drafted, then Vol 3 drafted, in chronology order. Vol 1 is exactly 50 drafted
-    scenes, so appending later volumes never shifts a Vol 1 index — a Vol 1 read
-    (n<=50) is byte-identical to what it was before Vol 2 existed. This is the single
-    source of truth shared by the authoring lane (checkpoint_context) and the grounded
-    cold-read lane (cold_read_grounded), so the two can never drift on inventory."""
+    """The full cross-volume chapter sequence: Vol 1 drafted first, then Vol 2
+    drafted, then Vol 3 drafted, in chronology order. The Volume 1 boundary is
+    parsed from the chronology, so inserting a drafted Volume 1 scene updates the
+    reader inventory instead of leaving stale hand-maintained chapter numbers. This
+    is the single source of truth shared by the authoring lane (checkpoint_context)
+    and the grounded cold-read lane (cold_read_grounded), so the two can never drift
+    on inventory."""
     v1 = volume_scenes.volume_one_slugs(drafted_only=True)
     v2 = [s["slug"] for s in volume_scenes.scenes_for_volume(2, drafted_only=True)]
     v3 = [s["slug"] for s in volume_scenes.scenes_for_volume(3, drafted_only=True)]
