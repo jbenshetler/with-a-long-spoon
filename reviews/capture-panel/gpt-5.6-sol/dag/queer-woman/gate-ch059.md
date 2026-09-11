@@ -1,21 +1,21 @@
-*capture-dag-v2-rich · gate ch059 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch059 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
 
-REACTION
+REACTION — Oh. There it is.
 
-Oh. So this is what they are together when Vee isn’t in the room: not conspirators standing over a blueprint, but lovers who use wanting her as a language between them. That is much hotter than I was prepared for, and much more frightening.
+Not a declaration, not even a thought Vee can bear to finish, but her body has started asking a question that Pace alone cannot contain. She lies there summoning his wet mouth and keeps arriving at Randi: what Randi did, what turned Randi on, whether Randi’s fingers looked like hers. That is not friendship. That is not merely asking the worldly friend for reassurance. Vee is trying to imagine Randi’s wanting from inside Randi’s body, and it is pulling her forward.
 
-Randi tasting herself from Pace without hesitation—and then putting her thumb in her mouth to make it “mutual”—landed hard after Vee’s unfinished reach. Vee is alone in an overheated dorm room, stopping one breath short of her own fingers; Randi is here utterly at home in the same appetite. That contrast doesn’t make Randi the corrupter. It makes her the woman who already lives somewhere Vee’s body keeps trying to go. I want Vee to reach that place because it is hers, not because these two have been privately eroticizing her progress toward it. And yet: they have. They absolutely have.
+What matters enormously to me is that Randi is nowhere near the room. She is not touching Vee, directing her, or watching the result. Yes, Randi supplied the sentence that unlocked this, and I remain wary of how expertly she does that. But Vee carried it home. Vee shut the window, chose the shirt, touched herself, lifted her own fingers, and wanted to know. The wanting belongs to her. Even the refusal belongs to her. She gets within one breath and cannot cross it, and nobody takes that last inch away from her or pushes her through it.
 
-The conversation during sex is devastating. “She kissed me first now.” “She looks at you, too.” They’re trading pieces of Vee that she gave each of them separately, turning her gestures into shared erotic knowledge while she still thinks those relationships occupy sealed rooms. Randi imagining Vee’s breast in her hand and nipple in her mouth while Pace brings her off is ferociously hot. Pace losing control when Randi says she wants Vee to know exactly what she does to her is hotter still. But Vee is present as a wanted person and absent as a deciding one, which is precisely the book’s knife.
+And God, that unfinished reach got me. Her tongue waiting behind her teeth; the wanting still present after her hand drops. She can make herself come while thinking about Pace, but afterward the thing that remains is not the orgasm. It is the distance she could not close and the question of Randi’s mouth versus Randi’s fingers. Her mouth is still empty. That landed like a bell.
 
-And Pace likes hearing it because Vee makes him happy. I believe him. That answer kept this from feeling like two sophisticated people reducing an innocent girl to their toy. They love her; her happiness and presence have changed both of them. Unfortunately, their love is also the thing making their secrecy feel righteous and intimate.
+The window wrecked me too. She closes it to make a private hothouse for desire, then opens it because Cassie might return and smell the evidence. She freezes the room back into innocence, buttons herself respectable, and still cannot air the wanting out. This woman has spent the book cropping photographs, stories, clothes, and explanations; now she is trying to crop the air. It doesn’t work. Of course it doesn’t.
 
-“She’s not the only one in love” stopped me cold. Randi finally said the undisguised thing—just not to Vee. She offered Pace no joke, no alternate reading, no escape, and he could not deny it. So now I know Randi can speak plainly when the listener already has all the power and information. The person who most needs the truth remains the only one protected from it.
+I also hate how quickly “greedy” returns once she is alone. Pace’s acceptance and Randi’s absolution have given her room, but neither has yet become her own voice. She can call herself hungry when someone desirable is there to authorize it. Alone, she still treats her appetite as mess—hers to wipe away, hers to hide from Cassie, hers to lie in as punishment. That final image is both hot and terribly lonely.
 
-And the ending is obscenely effective: their combined wetness, Randi cleaning him, then taking him back inside and kissing him with the taste of both of them. It answers Vee’s private question with absolute confidence while she is still lying on the damp patch she wiped onto her sheet. I’m turned on, heartsick, and furious. Vee thinks these people see her uniquely. They do. They also see her together.
+And I am suspicious in exactly the way the book wants me to be. Randi offered one mild fact—*I don’t*—and it has followed Vee home, into bed, into her body. Randi knows how little pressure is required now. But the chapter refuses the version I most fear: Randi did not install this appetite. She gave Vee a door, certainly with motives of her own, but Vee is the one standing at it with her mouth open. I am completely in now. I need to see whether Vee eventually closes that last breath of distance herself—and whose body she is imagining when she does.
 
-GATE 59 — My Pleasure  
-DECISION: CONTINUE  
-CAPTURE: 10  
-ALMOST-STOPPED: none  
-WHY: This chapter finally opened the sealed room between Pace and Randi, and what’s inside is more loving, erotic, and morally dangerous than I’d imagined. I need Vee to learn that her two private worlds have been one room all along.
+GATE 59 — The Reach
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: none
+WHY: This is the queer awakening I have been waiting for: bodily, private, unresolved, and unmistakably Vee’s even though Randi helped give it language. “Her mouth was still empty” has me by the throat.

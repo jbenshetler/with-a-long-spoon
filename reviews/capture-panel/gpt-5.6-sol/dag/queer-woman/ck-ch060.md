@@ -1,312 +1,492 @@
-*capture-dag-v2-rich · carry-forward ck-ch060 · gpt-5.6-sol · queer-woman · prompt-sha f51def9c84f2 · 2026-09-10*
+*capture-dag-v2-rich · carry-forward ck-ch060 · gpt-5.6-sol · queer-woman · prompt-sha f51def9c84f2 · 2026-09-11*
 
 WHO'S WHO
 
-Vee: Twenty-one, red-haired, brilliant, lush, and finally unmistakably wanting a woman even though her conscious mind is still throwing blankets over the fact. Her desire for Randi is no longer something I am inferring from hugs and shoes: she came in a restaurant restroom with Randi’s dark, liquid eyes behind her own; kisses the same place on Randi’s neck whenever it is offered; dresses for their dinners with the same keyed-up pleasure she uses dressing for Pace; and masturbates alone while wondering whether Randi tasted herself from a lover’s mouth or from her own fingers.
+Vee: Twenty-one, in love with Pace, wanting Randi, and now happier than she has ever been while standing on less informed ground than she knows. She has moved from hiding her body to using it deliberately: mirror, heels, open coat, naked mornings, commands given with one finger, her own hand moving the lace aside. Her appetite is not being installed. It is getting louder because she finally has room to hear it.
 
-The important thing is that this wanting belongs to Vee. Randi’s calm “It turned me on” gives it language, but nobody is present when Vee lifts her wet fingers toward her mouth and stops one breath short. She cannot cross the distance yet. The wanting survives. “Her mouth was still empty.”
+She went to Pace naked beneath the church coat and got him back spectacularly. She believes they “talked,” though they did not. She has translated sex, pancakes, bread, care, “I missed you,” and eventually the public word *boyfriend* into a complete resolution. The public name matters enormously and answers part of what she asked for. Pace still has not said he loves her or admitted that he understood her meal sentence and chose the smaller truth.
 
-Vee is also happier and more publicly situated than she has been. Pace called himself “Vee’s boyfriend” repeatedly in front of her whole circle, made them all feel seen, and received Cassie’s permission to stay. Vee can now use the word. She feels she has the middle of her life: Pace, Randi, Cassie, Kayla, Meg, Theo, all together.
+Vee’s desire for Randi has crossed every plausible border short of conscious recognition. She dresses for their class-and-dinner nights with the same keyed-up attention she gives dates with Pace. She skips dinner because Randi will feed her. She masturbates in a restaurant stall with Randi’s face and voice at the decisive moment, then insists it was about Pace. She kisses Randi’s neck twice without thinking, watches the place before doing it again, and enjoys Randi’s bodily response. Alone, she imagines Randi tasting herself and wonders what Randi’s fingers looked like. Her mouth nearly closes the final distance to her own slick fingers because Randi said tasting herself was powerful. It cannot yet, but the reach remains.
 
-She continues to rewrite the reconciliation as “we talked,” although they did not answer the original question in words until Pace later supplied “boyfriend” publicly. She lies to Cassie about a shrunken sweater rather than admit she spent the weekend naked, edits the coat story for Kayla and Meg, then gives Randi the erotic full cut. She still sends different truths to different audiences.
+Vee is still cruelest to herself when alone. “Greedy” returns after all the permission other people have given her. She wipes her wet fingers on the sheet, airs out the room before Cassie returns, buttons Pace’s flannel into respectability, then lies over the damp patch as though her pleasure is a mess she must own as punishment. She can call herself a pleasure princess while someone wants her; alone, she still struggles to believe hunger is hers without authorization.
 
-Vee’s shame about her own wetness remains rooted deep. Pace’s enthusiasm makes her plenty feel desired; alone, she still calls it excessive, wipes her fingers on the sheet, airs out the room before Cassie returns, buttons the huge flannel into respectability, and deliberately lies over the damp patch as though it were punishment. But her curiosity is alive underneath the disgust. Her tongue reached before the old voice said “wrong”; later her fingers came within a breath of her mouth.
+Pace—Peter: Vee’s boyfriend, at last publicly and repeatedly. He arranged a gathering for her whole social world, chose a quiet roadhouse without screens, remembered astonishingly small details about every friend, and made each person more fully themselves. He does not merely tolerate Vee’s life outside his house; he wants entry into all of it. Cassie judged him and said, “You can stay.”
 
-Pace—Peter—is now publicly Vee’s boyfriend, privately Randi’s lover, Vee’s devoted caretaker, and a man who apparently has not returned home since he was sixteen because something went bad with his father. He asked to meet all Vee’s people and remembered absurdly small details about them: Meg’s borrowed boots and Vee’s right heel lifting, Kayla’s sister’s wedding, Cassie’s team, Theo’s jazz. At the roadhouse he gave everyone the question that let them become their best selves and used “Vee’s boyfriend” as his sole credential.
+He is still Randi’s lover. Chapter 60 confirms that their sexual relationship is active, practiced, affectionate, and extremely intimate. They have been exchanging reports about Vee: Pace tells Randi that Vee kisses him first now and looks at Randi; Randi tells him about Vee kissing her neck and nearly making her turn around. They use Vee’s separate brave gestures as erotic material together.
 
-He is exquisite with Vee’s boundaries. When she recoiled from tasting herself on his mouth and said no, he stopped completely and began withdrawing. When she clarified that she wanted intercourse to continue but not the kiss, he wiped his mouth, accepted it without injury, and left her mouth alone until she reclaimed it herself. He did not persuade her or make her shame about his feelings.
+Pace knows Randi wants Vee physically. He makes her say where she wanted to touch Vee, holds and fucks her while she imagines Vee’s breast and nipple, and loses control when Randi says she wants Vee to know what she does to her. He likes hearing Randi want Vee because Vee makes him happy. This is not casual voyeurism; Vee’s happiness, Randi’s desire, and his own desire are fused for him. It is also a profound betrayal because Vee knows none of the arrangement.
 
-He loves Vee. Randi knows it, Sheri knows it, I know it, and Vee’s love visibly softens his face. He tells Sheri that Vee changes the air and understands the philosophy underneath his food. He tells Randi that Vee makes him happy and that she now kisses him first. He burned toast because Vee distracted him, timed bread to perfume the house before she woke, made midnight pancakes, keeps cashmere and a drawer for her, and held the truck’s headlights on Sheri’s door until she was safely inside.
+Pace knows Vee loves him because Randi tells him. He softens visibly at the knowledge. He still has not told Vee he loves her. He can receive her love as privileged information from Randi while requiring Vee herself to infer his from food, attention, sex, gifts, and the word *boyfriend*.
 
-He is also still deceiving Vee about Randi on an intimate scale that is becoming unbearable. Two nights after the public dinner, he and Randi had sex while trading Vee’s private gestures as erotic material: her kisses, the way she looks at Randi, Randi’s wish to hold and taste her breasts. He lost control when Randi said she wanted Vee to know exactly what she does to her. His love does not excuse that Vee is the only person denied the combined truth.
+At his best, Pace remains extraordinarily attentive to consent. When Vee recoiled from tasting herself and said no, he stopped completely and began withdrawing. When she clarified that she wanted the sex to continue but not the kiss, he understood, wiped his mouth without shame or argument, and left her mouth alone until she chose it again. He neither installed nor pressured her curiosity. Her tongue went searching by itself.
 
-Randi—Miranda—is Vee’s best friend, Pace’s continuing lover, the original chooser, and now openly—though only to Pace—a woman in love with Vee. “She’s not the only one in love.” She can say the clean sentence when speaking to the man who already knows; she still cannot give it to Vee.
+Randi—Miranda: Vee’s best friend, Pace’s concealed lover and co-planner, openly in love with Vee to herself and Pace, and now the woman actively giving Vee’s queer appetite language. She tells Vee without embarrassment that tasting herself from someone else’s mouth turned her on. She asks one exact question—how Pace acts—and lets Vee’s observation of his enthusiasm undermine the inherited “gross” without a lecture. This opens something real already inside Vee.
 
-Randi is erotically at home where Vee is only beginning to reach. She tastes herself from Pace’s mouth without hesitation, cleans their combined wetness from his body, returns him to herself, and kisses him with the taste of both of them. When Vee asks whether tasting herself is gross, Randi answers simply: “I don’t.” She has done it; it was powerful; it turned her on. This honesty matters to me because she does not argue or coax. Vee’s body supplies its own response.
+Randi also extracts. When Vee sands her sexual stories down, Randi identifies the missing part and asks for it directly: Did you take it all? Didn’t spill a drop? How much could he see? Don’t fade away; give me the harder one. Vee is excited by being pressed into explicitness and trusts Randi to receive the truth at full size. Randi is aroused by it, barely eats while listening, and later takes those disclosures back into bed with Pace.
 
-Randi is also ravenous for Vee’s stories. She insists on the uncropped version, refuses euphemisms, asks exactly what Pace saw and whether Vee swallowed, barely touches her own dinner, and becomes visibly affected while Vee relives everything. Vee leaves feeling she handed the morning over and somehow still has it—because Randi consumes the disclosure without returning the equivalent truth.
+Her love is real and increasingly difficult to hide. She calls meeting Vee the highlight of her year in front of Pace. Her hand crushes Vee’s when Pace publicly calls himself the boyfriend. She goes glazed and silent after her near-confession. She tells Pace she misses Vee during the day and more at night, wants Vee to know exactly what she does to her, and nearly turns around when Vee kisses her neck. She imagines Vee’s breast in her hand and nipple in her mouth while coming with Pace.
 
-Her mother once found Randi’s robin’s-egg-blue underwear in the parents’ bed, had it washed and folded, waited days until the boy was present at Sunday dinner, then set it beside Randi’s plate: “They’re not mine. They’re your color.” The boy quit and disappeared. That immaculate public humiliation explains Randi’s dependence on deniability and her terror of exposed desire. It explains her; it does not absolve her.
+Her “ticklish” cover is now tissue-thin. She may genuinely be ticklish, but her body catches and rises beneath Vee’s mouth for too long. She repeatedly offers or exposes the same place, then turns the response into a joke before Vee can understand it.
 
-Cassie remains my safest person. She hears the ridiculous shrinking-sweater lie, pauses, then laughs and lets Vee keep it. She does not convert her knowledge into power. At the party, Pace gets her talking in full paragraphs, and she finally tells him, “You can stay.” Her mother thanked Vee for the Christmas card and wants her to visit again; the ordinary invitation goes straight through Vee.
+Randi’s mother: Newly important as the source of a pattern. When teenage Randi left robin’s-egg-blue underwear in her parents’ bed after sex with the lawn boy, her mother had it laundered, saved it for days, invited the boy to dinner, and placed the folded underwear beside Randi’s plate in front of him. “They’re not mine. They’re your color.” She weaponized intimate knowledge through timing and public exposure. Randi now uses secrecy warmly rather than coldly, but she too understands that the person holding the hidden sexual fact controls when it appears and what it means.
 
-Sheri is tiny, loud, grieving, queer, crookedly made-up, wildly funny, and now perhaps the person I trust most in the entire structure. She lost her family, church, and social world within a month after coming out. Pace found her crying during a dance, drove her home without questions, appeared the next morning with coffee and donuts, fixed her lock and faucet, invited her cycling, fed her, and never offered one false consolation.
+Cassie: Still the safest person and now Pace’s most meaningful approval. She plainly does not believe the doll-sized sweater story Vee invented to cover her naked weekend, but she laughs and lets Vee retain the omission. Pace remembers the Bricklayers, listens to the origin story of their friendship, and passes Cassie’s scrutiny. “You can stay” is the closest thing to a blessing anyone in Vee’s life can give him.
 
-Sheri appreciates Vee openly—the long look down her body was queer pleasure, not ranking or a claim—and immediately centers the fact that Vee makes Pace happy. She guards confidences properly: after two years, all she will say of Pace’s history is that things went bad with his father and he has not been home since sixteen. She tells Vee useful truth without arranging what Vee must do with it. She has invited them both to the dance hall.
+Cassie’s family also holds a quiet place for Vee. Cassie’s mother thanked Vee for the card and wants to see her again. Vee’s response was small because the feeling was not. Cassie heard the true size and stopped before Vee had to defend it.
 
-Kayla is still a joyful flood of language, delighted by Vee’s coat-and-heels story and already mythologizing the roadhouse cornbread. Meg is steady, dry, with Danny in an established relationship. Theo is the old English-class friend who once asked Vee out; Pace showed no jealousy and drew him into talking about jazz. Cassie, Meg, Kayla, Danny, Theo, Randi, and Pace have now occupied one room and liked one another.
+Kayla: Talkative, delighted, incapable of leaving an anecdote alone. She met Vee in the hall while Vee was naked under the coat, noticed the heels, and later demanded the story. Vee told her and Meg the respectable scandalous version: fight, flash on the porch, reconciliation. Kayla is thrilled by Pace and has already folded him into the floor’s ongoing narrative.
+
+Meg: Dry, stable, kind, with Danny. She interpreted Vee’s coat gesture through her own ordinary apology to Danny after being cruel during a terrible period: make it right in his language. That comparison helped Vee recast herself as the person who owed Pace an apology, though the situations are not equivalent.
+
+Danny: Meg’s boyfriend, interested in lifting. Pace got him talking about his own progress without ever turning the conversation into a display of Pace’s superior numbers.
+
+Theo: Vee’s friend from an English class who once asked her out. Pace showed no jealousy and invited him. At dinner, Pace asked where jazz begins “for you,” giving Theo a question without a wrong answer, and drew him fully into the group.
+
+Dr. Marsh: Vee and Randi’s anthropology professor, sharp, spare, and apparently incapable of wasting a sentence. Her lectures are becoming a commentary on the whole book. Gifts carry the giver’s spirit and pull home; grooming is social structure rather than hygiene; trust, exchange, cheating, and return make a whole economy. She passes ancient objects through the room and lets the students discover what they cannot bear to release.
+
+The lawn boy: Sweet teenage Randi’s boardwalk boy, who went down on one knee to ask her out, won her a teddy bear, slept with her in her parents’ bed, then was publicly humiliated by Randi’s mother. He quit the job and vanished. He matters as another person driven out by the family’s use of shame.
 
 WHERE THINGS STAND
 
-After reconciling, Vee woke alone in Pace’s wide bed, briefly panicked, then remembered he was at the farmers market. He had timed bread to bake around her waking and left clean sweats folded for her. She deliberately remained naked, delighted in herself, and revised the “pleasure slave” fantasy into “pleasure princess”: Pace brings her off first, feeds her, cleans, sews for her, warms the house, and keeps her in pleasure.
+Vee carried Randi’s plan to Pace’s doorstep exactly: naked beneath her respectable olive coat, wearing Randi’s black strappy heels, deliberately aroused and twice denied by her own hand. A police cruiser briefly appeared behind her while she touched herself driving; it passed, but the fright tightened everything. She left a dark stain of her wetness on the coat’s pale lining.
 
-She teased him while he cooked mushrooms on toast, blood oranges, and salted persimmons, making him burn the first toast. After breakfast she lured him from the sink with “Missed a spot,” brushed her breast against his cheek, withdrew permission with one finger, and made him follow her to the bedroom. She directed his undressing and pointed to where she wanted his mouth until command dissolved into need.
+Pace opened the door formal and guarded. Vee said nothing and opened the coat. His wall vanished. They had frantic sex beginning on the open porch, the winter wind and banging door around them, then collapsed onto the den couch. The scene gave Vee the bodily proof she wanted: he was starving for her, wrecked by her return, and glad enough to look forgiven.
 
-Pace went down on her with open enthusiasm, then kissed her while still wet with her. Vee’s tongue reached curiously toward the taste before the inherited prohibition arrived. She recoiled, called it gross and wrong, and covered her mouth. Pace stopped, distinguished which no she meant, and respected it. Vee later pulled him back into a kiss, searched his mouth for the trace, and came during that search.
+Afterward Pace fed her midnight pancakes and said, on one knee with his voice breaking, “I missed you so much.” Vee felt there was no room left for anything he had not given. The question about love and his deliberate failure disappeared beneath fullness, warmth, and relief.
 
-Afterward she manufactured the tidy explanation that he had forgotten to wipe exactly once, although she knows he has kissed her after oral sex hundreds of times and likely wipes every time. The deeper question—how often, how carefully, and why he likes it—stayed lit.
+Vee stayed the weekend. She rejected the sweats he left for her and moved through his house naked by choice, first fantasizing herself as his pleasure slave, then realizing that he serves her constantly and crowning herself his pleasure princess. She teased him into burning toast, ordered him to feed her first, led him to the bedroom, made him strip, and directed his mouth with a pointing finger.
 
-Pace asked to meet “your people.” Vee initially heard only Randi, but he meant Cassie, Meg, Kayla, Theo, all of them. Vee remembered Chili’s and asked him to choose a place suitable for himself. He chose a warm, quiet roadhouse without screens and arranged buffet-style seating so nobody would be marooned at the end of a table.
+During sex, Pace kissed Vee with her own wetness still on his mouth. Her tongue initially reached for the taste; then the inherited rule arrived and she recoiled, calling it gross and wrong. Pace stopped and respected the boundary. Vee prevented him from withdrawing, later chose to kiss him again, searched his mouth for the taste, and came when she may have found it.
 
-Vee told Cassie they had “talked” and invented a laundry disaster to explain why she had worn Pace’s clothes. Cassie recognized the lie and did not expose it. Vee also told Kayla and Meg about flashing Pace on the porch but omitted the dangerous masturbation during the drive and treated the naked arrival as a large apology. Meg innocently endorsed Randi’s framing: sometimes you repair a fight in the other person’s language.
+Vee told Cassie she and Pace had talked and invented a laundry accident to explain why she returned in his clothes. Cassie clearly saw through it but did not expose her. Vee’s happiness in the dorm remained real; Pace’s house has not erased her love of Cassie, the cramped room, or ordinary life.
 
-Randi and Vee began anthropology together. Dr. Marsh’s first lectures were about gifts carrying the giver’s spirit and grooming as relationship and politics—the exact theory these women need without knowing it. Randi saves Vee’s seat with her coat; their knees rest together; they share wintergreen Lifesavers without looking; and they go to dinner after every class as an unspoken standing date.
+Pace asked to meet Vee’s people. He meant all of them: Randi, Cassie, Meg, Kayla, Theo, anyone she had made part of her stories. Vee remembered the Chili’s overload and asked him to choose the place.
 
-At their first dinner, Vee told Randi the coat story in escalating detail. Randi stared hoarsely at the stained lining and asked exactly how much Pace could see. Vee became so aroused by telling it—specifically by Randi’s face saying he could see she was ready—that she went downstairs and masturbated to orgasm in the restroom. Randi’s remark about Vee getting relief made Vee briefly think she had somehow been caught, but Randi provided a Pace-shaped meaning.
+Before the gathering, Vee told Kayla and Meg about the coat. She called it a reconciliation in which they “talked all night.” Meg framed the sexual gesture as an apology in Pace’s language, and Vee accepted that account.
 
-Vee kissed Randi’s neck at goodbye after Randi indicated the spot where Vee had cried against her. Randi flinched, laughed, and called herself ticklish. Vee did it again after their next dinner; Randi’s breath went uneven and her body caught and rose before she used the same cover.
+Vee and Randi began their Tuesday-and-Thursday anthropology routine: saved adjoining seats, hand squeezes, knees touching, shared Lifesavers, then long dinners at the Italian restaurant until closing. Vee dresses for these nights, assumes Randi’s time and attention, and experiences them as dates without using the word seriously.
 
-At the group dinner, Pace and Randi performed a “proper” first meeting. Pace introduced himself as “Vee’s boyfriend,” then repeated it to every friend. Vee received the public word she had demanded and glowed every time. Pace remembered everyone’s stories and quietly made them shine. Cassie approved him.
+At the first dinner Vee told Randi almost the full coat weekend. Randi drew out the naked drive, the stained lining, the porch sex, the pleasure-princess morning, and the way Vee displayed herself while Pace cooked. Vee became so aroused by recounting it—specifically by Randi’s face and “he could see you were ready”—that she masturbated in the restaurant bathroom. Randi greeted her return with “It’s a good thing you got relief,” then covered the knowledge with a reference to Pace. Vee was relieved when closing time prevented her from telling the wet-kiss story.
 
-The three of them remained after everyone else. Pace passed Randi’s compliment to Vee; Randi said brunches with Vee are the highlight of her week, then that meeting Vee was the highlight of her year. Vee touched the bracelet on Randi’s wrist and felt love ache through her, still reading Randi’s visible emotion as proof that Vee’s stories move her rather than that Randi wants her.
+At the gathering, Pace publicly introduced himself over and over as “Vee’s boyfriend.” He added, “Not anymore,” when Randi said Vee hid him well. This is the first direct public name he has given the relationship and a real answer to Vee’s demand for something that exists outside his house.
 
-Outside, Randi kissed Vee goodbye and said, “Love you, gorgeous.” Pace saw. Vee wondered what it looked like, then kissed Pace hard, went down on him in the truck, swallowed, and ordered him to take her to bed. On the moving county road she undressed from the waist down and put Pace’s hand between her legs while he drove one-handed. He brought her off. I still hate the danger and cannot eroticize it.
+The gathering worked beautifully. Pace had listened to every stray story Vee told and used the remembered details to welcome each friend. He chose a quiet, screenless roadhouse and arranged loose round tables so nobody occupied an end. Cassie approved him.
 
-At the next dinner, Randi made Vee restore every detail Vee tried to crop. Vee finally told her about tasting herself on Pace’s mouth and expected agreement that it was gross. Randi refused: she has done it, and it turned her on. She asked only how Pace acts. Vee admitted that he likes it—“he’s enthusiastic”—and carried Randi’s “I don’t” home.
+Pace and Randi performed a first proper meeting. They shook hands and made technically truthful jokes while concealing their existing relationship. Randi’s fierce grip on Vee’s hand, Pace’s calm gaze, and their later “we get along” passed as new acquaintance to Vee.
 
-Alone afterward, Vee masturbated in Pace’s open flannel. She drew out wet fingers, smelled herself, wondered exactly what Randi had tasted and how, lifted her fingers toward her mouth, and stopped within a breath. She wiped them away, came while imagining Pace’s pleased wet mouth, aired out the room, and lay down over the damp patch. The reach remains unfinished, not extinguished.
+Randi toasted Vee as the highlight of her year. Pace said Vee changed his weekends. Vee felt surrounded by love and did not see that two people at the table knew the full meaning of each other’s words. Randi kissed Vee goodbye and said, “Love you, gorgeous,” in Pace’s sight. Pace looked at the sky.
 
-The sealed room then opened to me: Pace and Randi are still having sex. Randi tasted herself from his mouth, rode him while they spoke about Vee, imagined holding Vee’s breast and taking Vee’s nipple in her mouth, and came while Pace enacted some of that desire on her. Pace admitted he likes hearing her want Vee because Vee makes him happy. Randi said she wants Vee to know exactly what she does to her; Pace lost control. Randi told him Vee loves him and that Vee is not the only one in love. He could not deny it.
+Vee, aroused by Pace’s public claim and how he treated her friends, gave him oral sex in his truck, swallowed, then had him bring her to orgasm while he drove. She later told Randi the explicit version under pressure, including moving her own lace aside and holding herself open for Pace’s hand.
 
-Randi then cleaned their combined wetness from Pace with her mouth, returned him inside herself, and kissed him carrying the taste of them both—the completed version of the appetite Vee could not yet complete alone.
+At Thursday dinner, Vee finally told Randi about tasting herself on Pace. Randi said she did not find it gross, had done it herself, and found it powerful and arousing. When Vee protested too loudly, Randi asked how Pace behaved. Vee admitted he was enthusiastic. Randi said “Mm” and let the new meaning work without further pressure.
 
-Pace introduced Vee to Sheri at a taproom. Vee dressed as armor against the imaginary blonde rival, only to meet a five-foot lesbian who looked her over with frank appreciation, hugged her, said she makes Pace happy, and embarrassed Pace into a blush by asking about Vee’s breasts.
+Vee kissed Randi’s neck again after that dinner. Randi responded bodily and covered with “ticklish.” Vee thanked her for the good advice. Randi told her she had picked Pace well, although Randi knows the selection was arranged before Vee understood she was choosing.
 
-Sheri explained that Pace has spent years dancing with women without treating dances as down payments on sex. She told Vee how he cared for her after her family rejected her and revealed only that his own estrangement began at sixteen with his father. Vee now understands more of why Pace responds to hurt through presence, repair, food, and practical care rather than comforting claims.
+Alone afterward, Vee masturbated while remembering Pace’s wet mouth and Randi’s calm admission. She studied her own wetness, smelled it, raised her fingers toward her mouth, and stopped one breath short. After coming, she opened the window to erase the smell before Cassie returned. The question remained: did Randi mean tasting herself from someone’s mouth, or from her own fingers? Vee kept imagining both.
 
-Sheri invited both of them to the dance hall. Pace drove the drinking women home, waited for Sheri’s porch light, and carried Vee home leaning against him. Vee likes Sheri; Sheri likes Vee. Vee believes she is finally being admitted into Pace’s wider life. She still does not know the central room is Pace and Randi together.
+Chapter 60 finally shows Pace and Randi together. They are current lovers. Randi tastes herself from Pace’s mouth eagerly and jokes about it. They have sex while discussing Vee’s growing initiative and attraction. Randi comes while imagining touching and sucking Vee’s breasts. Pace loses control when Randi says she wants Vee to know exactly what Vee does to her.
+
+Randi tells Pace that Vee loves him and that she herself is also in love. Pace cannot deny it. They continue having sex, exchange command, and end with Randi tasting their combined wetness from his body before taking him inside her again and kissing him with the taste of both of them.
 
 HOW I FEEL ABOUT EACH OF THEM
 
-Vee makes me proud, hot, worried, and unbearably tender. The naked morning was glorious. She tried on a submissive fantasy, checked it against reality, revised it into a princess fantasy, and then played from choice. “Everything on offer and nothing yet granted” is the cleanest expression of what I love in her erotic life.
+Vee has me completely. Her desire is arriving in exactly the way I needed: physical first, contradictory, private, and specifically hers. Nobody was present when she made the reach toward her fingers. Nobody forced her neck kisses. Nobody told her to dress for Randi, skip dinner for Randi, or bring Randi’s face into the stall. Randi creates permission and absolutely has an agenda, but she is not manufacturing the appetite.
 
-Her appetite for Randi has now cleared my old worry that the book might treat queerness as garnish or something engineered into her. Nobody was present for the unfinished reach. Randi did not command her to taste herself. Vee’s own smell, curiosity, memory, and questions carried her there. She could not do it, and the book let that boundary remain honest.
+I am proud of Vee’s sexual authority with Pace. The pleasure princess is funny and hot because she discovers service and dominance as something reciprocal rather than degrading. She points, makes him wait, moves her own clothing, and enjoys the power of being watched. Her body is no longer merely the thing that embarrasses her by telling the truth first; she is beginning to use its truth deliberately.
 
-I ache over how quickly she punishes herself for plenty. She can fill Pace’s house with her smell and be adored for it, but in the dorm she buttons herself respectable, throws the window open, and calls herself greedy. The old judgment lives inside her without anybody needing to enforce it.
+I am frightened by how she falsifies the reconciliation. “We talked” is not confusion; it is the story she needs in order to make the weekend bear daylight. She now believes she owed the apology. The fact that the coat worked has made Randi’s method feel vindicated. Pace has partly answered her with *boyfriend*, but the central injury remains untouched.
 
-I am angry that she continues calling the reconciliation a conversation and an apology. Pace’s later “boyfriend” does repair part of what she needed—public standing—but it does not retroactively make her wrong for asking. Her naked body was not restitution for his folded arms.
+I believe Pace loves her more after watching him with her friends. The boot heel, Kayla’s phrase, Cassie’s team, Meg’s story, Theo’s jazz: he has kept the small news of her life because it came from her. That is not performance. His wish to meet everyone and his refusal to let anyone sit at an end were acts of public love.
 
-I am also furious about the moving-truck sex. Twice now the book has used a county road and driver distraction as proof of appetite. It makes both Vee and Pace seem selfishly reckless and throws me completely out of the heat.
+I am also angrier with him than before chapter 60. He now knows Vee loves him because Randi has told him, and he accepts the comfort of that knowledge without giving Vee the same gift. Worse, he tells Randi about Vee’s kisses and looks. The private initiatives Vee experiences as courageous offerings to one person are being circulated to the other without her consent.
 
-Pace moved me enormously in these chapters. “Vee’s boyfriend,” repeated without embarrassment, was the word finally spent where it mattered. His attention to her friends shows why his actions speak so loudly: he keeps the small news of her life because it belongs to her. The way he made Cassie, Theo, Kayla, Meg, and Danny feel interesting was beautiful.
+His treatment of Vee’s sexual no remains exemplary. That matters because the betrayal is not simple predation. He is meticulous about consent inside the known encounter and profoundly dishonest about the encounter’s surrounding structure. The book is making me hold both, and I do.
 
-His response to Vee’s sexual no increased my trust in his immediate consent instincts. He did not interpret her body’s reaction as permission to override her words. He stopped, listened, adjusted, and waited for her to reclaim the kiss. That is exactly right.
+Randi is the woman I most want and the person I trust least. Her appetite for Vee is now gloriously undeniable and not a corrupter caricature. She wants Vee’s actual body: softness, weight, nipple, mouth. She wants Vee to know the effect she has. Her love is not garnish; it organizes her private life and her sex with Pace.
 
-His care for Sheri is the best argument for his character. Coffee, donuts, lock, faucet, cycling, burger, headlights—he does not promise what he cannot know. He stays. I now understand why “believe what I do” feels like a moral principle to him rather than an evasion invented for Vee.
+Her simple “I don’t” was also genuinely good for Vee. She did not shame, coax, or demand an experiment. She offered her own experience and asked Vee to look at Pace’s. Vee’s later private reach proves the desire was hers to take or refuse. This is exactly the distinction I care about.
 
-But it is still an evasion where Vee is concerned, because what he does includes sleeping with Randi and concealing it. He publicly names himself Vee’s boyfriend while privately eroticizing Vee with another lover who helped choose her. His tenderness cannot make informed consent unnecessary. It makes the secrecy harder to dismiss as simple villainy, not less serious.
+But Randi is exploiting privileged access with terrifying skill. She encourages Vee to give the explicit truth, becomes the erotic audience Vee increasingly wants, then carries those intimate disclosures to Pace. “She kissed my neck again” is not hers to spend in their bed. Nor is Pace’s “She kisses me first now.” Together they turn Vee’s awakening into shared foreplay while she believes each connection is private.
 
-Randi has finally given Vee a clean piece of herself, and I want to credit it fully. “I don’t” and “It turned me on” were not coercion. She did not tell Vee what to feel. She declined to lie, and Vee’s own body responded. This is the Randi I want more of: a woman stating her appetite without arranging the listener’s conclusion.
+Randi’s mother explains the instrument: hidden sexual knowledge, held until the holder chooses how to deploy it. Randi’s use is loving, intimate, and designed to open rather than humiliate Vee, but it still places Randi in control of meaning and timing. Warmth does not cancel power.
 
-I want her ferociously. Her comfort with her own body, her frank gaze, her ability to take Vee’s shameful question as ordinary erotic knowledge—all of that is very much my thing. The completed tasting scene with Pace was scorching.
+The false first meeting is now almost intolerable. Randi let Vee beam while introducing her lover to her lover. “You picked well” is obscene after the reveal: Randi did the picking, helped arrange the reconciliation, approves the result, and leaves Vee believing the whole path was accidental.
 
-I trust her even less now. She can say “She’s not the only one in love” plainly to Pace, yet keeps Vee inside “gorgeous,” “best friend,” neck kisses called ticklish, and stories that always have a safe second meaning. She extracts the hardest truth from Vee while returning almost none of her own. She and Pace exchange Vee’s separately given gestures during sex. That is a profound intimacy theft even if every individual observation was freely offered.
+Pace and Randi together are hot, loving, and morally appalling. Their sexual compatibility is real. They listen to each other, trade power fluidly, laugh, and make room for each other’s love of Vee. I do not want the book to make their bond fake so the betrayal becomes easy. Their tenderness is exactly what makes it worse.
 
-Her mother’s underwear cruelty explains the strategy. Randi learned that naked truth can be saved, washed, folded, and staged before the person whose opinion matters most. Of course she prefers technically true stories and deniable contact. I feel for her completely. She still owes Vee the risk of honesty.
+Cassie remains my safest ground. She sees lies without punishing Vee for needing them. Her “You can stay” carries more moral authority than every lavish thing Randi or Pace does because Cassie wants no outcome except Vee’s welfare. I ache that she keeps receiving the cropped version.
 
-Cassie’s restraint remains love to me. She knows more than Vee says and does not pretend omniscience, corner her, or profit from the gap. “You can stay” means more because Cassie does not hand out approval cheaply.
+Dr. Marsh is becoming the chorus. Gifts carry people inside them; grooming maps allegiance; exchange creates debt; trust systems contain cheating. Her lectures make the objects and touches around Vee feel legible before Vee can read them.
 
-Sheri has my whole heart. Her attraction to Vee feels refreshingly clean: appreciative, funny, and without hidden jurisdiction. She protects Pace’s history rather than using it to become indispensable. She understands both that false words are worthless and that the people who owe words can wound by withholding them. I want her close to Vee when the truth breaks.
-
-I am wary of making Sheri a moral rescue device. She is a person with grief, lust, money trouble, school, dancing, cycling, and a gloriously filthy mouth. That fullness is why I trust her.
-
-Kayla and Meg make Vee’s world feel inhabited and ordinary in the best way. I worry that their incomplete information keeps helping Vee seal the false version of the reconciliation. They are affirming what she tells them, not what actually happened.
+I feel tenderness and anger in almost equal measure now. Vee is genuinely flourishing. She has a boyfriend who claims her publicly, friends gathered around her, a body she increasingly enjoys, and a woman she is beginning to want without permission. The happiness is not counterfeit. It is being built inside a concealed arrangement that would change every one of her choices if she knew.
 
 WHAT I'M CARRYING
 
-Vee waking with her hand reaching across the wide bed for Pace’s heat and finding cold cotton.
+The shoes going on first because they are almost the only thing.
+
+“Last thing, only thing.”
+
+The frosted-plum toes kept polished through the breakup for a man Vee feared might never see them.
+
+Vee standing before the mirror in nothing but heels, no longer able to call herself anything but ready.
+
+The body she has hidden since fourteen becoming an offering she makes knowingly.
+
+Stopping herself one stroke before orgasm so Pace can be the one.
+
+The church coat buttoned respectably over everything.
+
+Kayla discussing laundry while Vee wears none.
+
+The cruiser lights flooding the car blue and red.
+
+*Caught.*
+
+The cruiser passing, leaving desire tighter than before.
+
+The dark bloom soaked into the coat’s pale lining.
+
+The porch light off because nobody expected her.
+
+Sad horn music as the sound of Pace’s house without Vee.
+
+His courtesy coming down like a wall: “It’s late. Is everything alright?”
+
+Vee opening the coat instead of speaking.
+
+Pace looking like a starving man and a man told he is forgiven in the same glance.
+
+Randi’s heels holding Vee upright while Pace kneels.
+
+The front door banging in the winter wind while neither of them closes it.
+
+“The mouth that had spent no word she needed” giving her sex instead.
+
+“Nothing needed saying now,” when something did.
+
+“You sure know how to make an entrance. Vee.”
+
+“I missed you so much,” his voice cracking on one knee.
+
+Pancakes at midnight filling the place where accountability should be.
+
+Bread timed so Vee wakes inside its smell.
 
 “Even his absence had been cooked in advance.”
 
-The folded sweats left at the foot of the bed; Vee smiling and refusing them.
+The folded sweats left untouched.
 
-Her naked shimmy in the hall, everything moving, her own laughter.
+A naked woman with a scrunchie and sweet coffee.
 
-“A pleasure princess.” Not kept for a man’s pleasure; kept in pleasure.
+*Pleasure slave* turning over into *pleasure princess.*
 
-Pace in the doorway with groceries and no words: “I got mushrooms.”
+Not a woman kept for a man’s pleasure; a woman a man keeps in pleasure.
 
-The blood orange stripped of every membrane: “Nothing between anybody and the fruit.”
+Pace stopped in the doorway with groceries.
 
-Vee making Pace’s clockwork slip until the toast burns.
+“I got mushrooms.”
 
-“I can put the sweats on.” “No.”
+Vee making the exact man lose sequence until the toast burns.
 
-“You keep feeding me like this, I’m never getting dressed again.” “That’s the plan.”
+“I can put the sweats on.”
 
-“Missed a spot.”
+“No.”
 
-Her breast slowly brushing his cheek; one wagging finger outranking him.
+Blood-orange sections freed of every membrane: nothing between anybody and the fruit.
 
-The puzzled look, rare as an eclipse.
+“Feed me first.”
 
-Her procession down the hallway, Pace following in the apron.
+The phantom spot on the plate.
 
-Dark red hair poured across cream cashmere.
+Vee’s breast passing slowly along Pace’s cheek.
 
-“Everything on offer and nothing yet granted.”
+His wet hands reaching; her wagging finger denying.
 
-Vee pointing to the inside of her wrist and Pace putting his mouth exactly there.
+A naked procession to the bedroom with a pleasure slave following in his apron.
 
-“Her other breast had needs.”
+The cream cashmere laid out like a field.
 
-The pointing finger becoming unsteady and no longer a command.
+The scrunchie removed as the last garment.
 
-“Bad slave.”
+Vee arranging herself like flowers.
 
-Pace opening her as he opened the orange.
+One finger pointing to the inside of her wrist.
 
-Her own wanting making the room breathe her.
+“Who stays?”
 
-His groan with his tongue inside her: the sound of food getting past a man’s manners.
+Pace kissing each toe separately.
 
-His wet mouth kissing hers; her tongue reaching before the prohibition.
+Her command becoming an unsteady plea.
 
-“No, that’s wrong, that’s not a thing you do.”
+He opens her like the orange.
 
-Pace going utterly still and beginning to withdraw.
+Her own smell rising into the room, which is breathing her.
+
+His groan with his tongue inside her.
+
+Seen at this, like this, and wanted more for it.
+
+The wet kiss.
+
+Her tongue reaching before the learned voice says no.
+
+The back of the hand over her mouth: child and scandalized aunt together.
+
+“Ugh—gross.”
+
+“That’s—no. Wrong.”
+
+Pace going completely still and beginning to withdraw.
 
 Her legs locking him in: “No—not that.”
 
-Her mouth left patiently for her until she takes it back.
+“Okay.”
 
-Her tongue hunting along his lip for the trace she had rejected.
+Her mouth left for her until she comes back and takes it.
 
-“How many times, and how carefully.”
+Her tongue hunting his mouth.
 
-“Randi always did.”
+The maybe-salt and the orgasm arriving mid-kiss.
 
-“I want to meet your people.”
+“Why does he like it so much.”
 
-Meg’s right boot lifting at Vee’s heel, remembered from one sentence months ago.
+Her tongue licking her own lip later, still looking.
+
+“Randi would know what to make of it.”
+
+Pace wanting “your people.”
+
+Vee hearing only Randi first.
+
+“Bring Cassie, too.”
+
+“And Meg.”
+
+Remembering the right boot heel lifting.
+
+“And Kayla’s the one who can talk the paint off a wall?”
 
 “Tables have ends. Somebody ends up at one.”
 
-Vee finally seeing Pace’s squared fork at Chili’s without making it mean rejection.
+“Bring Theo.”
+
+The Chili’s fork finally returning to Vee without accusation.
 
 “Let me handle it.”
 
-“We talked,” when they had not.
+Vee telling Cassie, “We talked.”
 
-Cassie’s held-breath pause over the doll-sized-sweater lie, then the full laugh.
+Cassie silently receiving the invented doll-sized sweater.
 
-Cassie’s mother thanking Vee for the card and asking when she will visit.
+Cassie’s full laugh, spent on the lie without exposing it.
 
-The little bunk exactly one girl wide after Pace’s acreage.
+Cassie’s mother wanting to see Vee again.
 
-Kayla mourning waffles like a death.
+Vee’s small “Oh.”
 
-Vee flashing Pace “in front of God.”
+The narrow bunk, the wall only a wall, Friday still certain.
 
-Meg: sometimes you make it right in their language. The kindness and the wrongness.
+Meg comparing the coat to maple-bacon doughnuts and Matrix movies.
 
-Dr. Marsh: a gift carries the giver’s spirit, and the spirit wants to go home.
+“Sometimes you have to make it right in their language.”
 
-Randi’s scarf in her hair; Randi’s shoes in Pace’s house; Pace’s cashmere under Vee.
+“And it worked.”
 
-Randi’s mother laying the laundered robin’s-egg underwear beside her plate.
+Dr. Marsh: a gift carries the giver and wants to go home.
+
+The scarf at Randi’s throat.
+
+The black heels on Pace’s porch.
+
+The stained coat turned lining-to-the-wall.
+
+The cashmere, flannel, dress, bracelet: nobody absent from their gifts.
+
+Randi’s mother setting the laundered robin’s-egg-blue underwear beside her plate.
 
 “They’re not mine. They’re your color.”
 
-“She waited for him.”
+“She knew my color.”
 
-Vee showing Randi the dark bloom on the coat lining.
+The lawn boy barely eating and disappearing that week.
 
-Randi, hoarse: “Wow.”
+Randi’s nail worrying the glass rim.
 
-Randi’s face asking how much Pace could see.
+Vee showing Randi the stain inside the coat.
 
-Vee coming in the restaurant restroom with that face behind her eyes.
+Randi staring with dark, liquid eyes and breathing audibly.
+
+“How much could he see?”
+
+“Yes.”
+
+Vee in the restaurant stall with Randi’s face saying he could see she was ready.
 
 “Because that had been about Pace, obviously.”
 
 “It’s a good thing you got relief.”
 
-Vee kissing the place on Randi’s neck where her tears had once been.
+Randi’s cover arriving half a second after Vee knows she has been read.
 
-Randi’s flinch: “Tickles.”
+The first neck kiss placed where Vee’s tears had wet Randi.
 
-The butcher-paper sign: VEE.
+Randi flinching.
+
+“Ticklish.”
+
+“It’s a date.”
+
+The roadhouse: pine, no screens, loose round tables, VEE on butcher paper.
+
+Randi arriving even before the hosts.
 
 “Vee’s boyfriend.”
 
-Randi’s crushing grip at hearing it.
+The word said publicly, plainly, repeatedly.
+
+“The boyfriend. Finally. She hides you very well.”
 
 “Not anymore.”
 
-Pace repeating “Vee’s boyfriend” to every measuring face.
+Randi’s hand crushing Vee’s.
 
-Pace asking Danny about Danny’s bench rather than offering his own numbers.
+Pace handing everyone the first line and stepping aside for their second.
 
-“Where does it start, for you?”
+“For you.”
 
 Cassie talking in whole paragraphs.
 
 “You can stay.”
 
+Pace and Randi laughing at each other while Vee feels the Christmas stinger.
+
+“My weekends weren’t the same before you.”
+
 “Meeting Vee was the highlight of my year.”
 
-Vee’s hand over Randi’s wrist and locked bracelet.
+“To my beautiful best friend.”
 
-“Love you, gorgeous.”
+Randi going glazed and quiet.
 
-Vee wondering what their kiss looked like to Pace.
+Vee’s hand covering the locked bracelet.
 
-Pace: “We get along.”
+Pace looking at the sky while Randi kisses Vee.
 
-Randi and Vee sharing one Lifesaver flavor without looking.
+The truck hand going still in Vee’s hair, the man of six things reduced to zero.
 
-The ancient lice comb moving hand to hand like a rumor.
+Vee moving her own lace and holding it aside.
 
-“One-fifth of every waking day,” spent grooming because touching is the point.
+The county road moving beneath an orgasm.
 
-Randi ordering the special without knowing what it is; Vee following half a beat later.
+“Randi. Your friends. All of them.”
+
+“What do they share?”
+
+“You.”
+
+The sentence Vee receives as sweetness and I now hear as a private joke.
+
+The comb older than the pyramids passing hand to hand and not coming back.
+
+Grooming as politics; fleas never the point.
+
+One Lifesaver passed palm to palm without either woman looking down.
+
+Vee and Randi arriving at the restaurant mid-story, flushed and unstrung.
+
+Randi’s two hands on Vee’s waist.
+
+They order the special without knowing what it is.
+
+“Did you take it all?”
 
 “Didn’t spill a drop?”
 
-“You did it. And you can’t even say it.”
+“You did it, and you can’t even say it.”
 
-Randi refusing the pretty version: “Give me the real one—the harder one.”
+“That’s my girl.”
 
-“He opened me like the orange.”
+“Don’t you dare. Give me the real one—the harder one.”
 
-Vee expecting agreement: “You think it’s gross too, don’t you.”
+Vee opening herself like the orange in the telling.
+
+Randi barely touching her own food while Vee cleans her plate without noticing.
+
+“You think it’s gross too, don’t you.”
 
 “I don’t.”
 
 “It was powerful. It turned me on.”
 
+Vee clenching before her mind can object.
+
+“But it’s gross,” much too loud.
+
 “How does he act?”
 
 “He likes it. Actually—he’s enthusiastic.”
 
-“You picked well,” when Randi picked first.
+Randi’s warm “Mm,” then bread.
 
-“The whole thing decided before she’d known there was a thing to decide.”
+“You picked well.”
 
-Randi’s neck opened in the cold; Vee already looking.
+Vee noticing she did not exactly pick and letting the technicality go.
 
-Vee shutting Cassie’s window before touching herself, then forcing it open afterward.
+The second neck kiss chosen before thought.
 
-Sticky strands between her wet fingers in the lamplight.
+The catch and rise of Randi’s body under Vee’s mouth.
 
-The hothouse smell: warm, damp, alive, hers.
+“He likes it. Actually—he’s enthusiastic,” following Vee home.
 
-Her fingers one breath from her tongue.
+Randi’s “I don’t” keeping pace beneath it.
 
-Wanting and inability occupying the same inch.
+Vee shutting Cassie’s window to make a hothouse.
 
-Her huge flannel buttoned respectable to mid-thigh.
+Pace’s flannel left entirely open.
 
-January air washing the room clean without quite erasing her.
+“Not greedy. Hungry out loud.”
 
-“My mess. Hers to lie in.”
+Then, alone: *Greedy.*
+
+Her two wet fingers shining nearly to the knuckles.
+
+Sticky strands bridging finger and thumb.
+
+Wondering whether Randi looked like this.
+
+The smell not foul: warm, damp, alive, hers.
+
+Her tongue touching her lips by itself.
+
+Her fingers one breath from her mouth.
+
+Wanting still present; distance still uncrossed.
+
+Wiping her hand on the sheet.
+
+Opening the window to crop the air.
+
+January pouring into the room.
+
+The hothouse lingering beneath winter.
+
+Her hip settling over the damp place.
 
 “Her mouth was still empty.”
 
-Randi seeing Pace’s wet mouth and ordering him closer.
+Randi coming against Pace’s mouth.
 
-Her thumb collecting the corner and going into her mouth: “Now it’s mutual.”
+Pace lifting his wet face and giving her time to see it.
+
+“Come here.”
+
+Randi licking herself clean from his mouth without hesitation.
+
+“There. Now it’s mutual.”
+
+Randi surrendering his lead, then later putting his hands on the mattress and moving under her own command.
+
+“I miss her during the day. More at night.”
 
 “She kisses me first now.”
 
@@ -314,124 +494,128 @@ Her thumb collecting the corner and going into her mouth: “Now it’s mutual.�
 
 “She kissed my neck again.”
 
+“You liked it.”
+
 “I nearly turned around.”
+
+“Where?”
+
+Randi’s hand spread over her own breast.
 
 “Her breast in my hand. All that softness. The weight of it.”
 
 “And her nipple in my mouth.”
 
-Pace: “She makes me happy.”
+Randi coming with Vee’s imagined breast offered through her own.
 
-Randi: “I want her to know exactly what she does to me.”
+“You like hearing me want her.”
 
-Pace losing control at that sentence.
+“Yes.”
+
+“Why?”
+
+“She makes me happy.”
+
+“I want her to know exactly what she does to me.”
+
+Pace’s control breaking at that sentence.
 
 “You know she loves you, right?”
 
+“She hasn’t said it.”
+
+“She doesn’t have to.”
+
+Pace softening because Randi has given him Vee’s love.
+
 “She’s not the only one in love.”
 
-Randi cleaning their combined wetness from him, then taking him back inside and kissing him.
+No denial.
 
-Vee dressing for the blonde her jealousy built.
-
-Pace calling “Sheri” across the taproom with public gladness.
-
-The imaginary blonde finding nowhere to stand.
-
-Sheri’s look moving slowly down Vee and simply enjoying her.
-
-“You’ve got him happy. That’s the whole book.”
-
-“And you get to motorboat them things?”
-
-Pace blushing into his ears.
-
-Sheri watching the tattooed bartender openly.
-
-“He does go on about you.”
-
-Sheri explaining that other men dance as a down payment; Pace dances because dancing is the point.
-
-“The whole hall’s given up on him.”
-
-Sheri losing family, church, Bible study, everything: “Whole tablecloth come off the table and nobody caught a dish.”
-
-“The ones who owed me words weren’t spending any.”
-
-Pace arriving with coffee and donuts, fixing the lock and faucet, inviting her cycling, buying the cheeseburger.
-
-“He was there. That’s all a body can be for you at a point like that.”
-
-“He hasn’t been home since he was sixteen.”
-
-Sheri’s filthy replacement lyrics ruining two songs forever.
-
-Pace’s headlights held on Sheri’s door until her porch light comes on.
-
-Vee leaning into him, watching both hands carry them home.
+Randi cleaning their combined wetness from Pace’s body and kissing him with both of them on her tongue.
 
 WHAT I'M WAITING FOR
 
-Vee has to learn that Pace and Randi are lovers. Not merely that they knew each other, not merely that Randi helped arrange the meeting, but that two nights after Vee publicly received “boyfriend,” they were in bed together speaking her desire aloud and using it to bring each other off.
+Vee has to learn that Pace and Randi are lovers. Not merely that they slept together once or share a past: that this is current, practiced, and part of the structure surrounding her.
 
-I need the revelation to preserve all the truths at once: Vee freely chose Pace; Vee independently wants Randi; Pace loves Vee; Randi loves Vee; Pace and Randi’s concealment still shaped Vee’s choices. No one of those facts should erase another.
+More urgently, she has to learn that they report her to each other. The deepest betrayal is not sex alone. It is “She kisses me first now” and “She kissed my neck again”: her separate acts of trust circulating as erotic intelligence.
 
-I am waiting for Vee’s unfinished reach. I do not necessarily need her to taste herself in some triumphant test. I need her to understand why Randi’s experience matters to her and to be allowed to approach that appetite at her own pace. The one-breath distance feels like the current frontier of her queer self-knowledge.
+I need the original plan in full. Who chose Vee? What were Pace and Randi’s agreed roles? Was seducing Vee toward Pace the whole premise, or was bringing her eventually toward both of them always intended? What counted as winning? What boundaries did they claim to have?
 
-I need Vee to recognize that she orgasmed to Randi’s face. “Obviously Pace” cannot survive many more repetitions. The neck kisses are now repeat behavior, not accidents. She dresses for Randi, hungers for her gaze, shares a standing twice-weekly date, and carries Randi’s erotic confession home.
+I need to know whether Pace recognizes Randi’s shoes and whether they discussed the coat afterward. If he knew whose intervention stood in his doorway and accepted it silently, the reconciliation was even more coordinated than it appeared.
 
-I need Randi to tell Vee one sentence that cannot hide inside friendship. She has proven she can do it: “She’s not the only one in love.” Now say it to the woman herself and accept that Vee gets to decide what happens next.
+I want Vee to complete the reach on her own terms. Her fingers, Randi’s mouth, another woman’s body—whatever it is, I need the last inch to be hers. No demonstration sprung on her, no “lesson,” no engineered threesome presented as inevitability.
 
-I am waiting for Vee to revisit the slightly wrong feeling after telling Randi everything. Randi gets the uncropped erotic account and returns “best friend,” “gorgeous,” and deniable kisses. Vee’s moral intelligence knows the exchange is uneven even while she loves it.
+I need Vee to consciously acknowledge that the restaurant orgasm was about Randi. Pace was the scene; Randi was the gaze that took her over. Her “obviously” cannot hold much longer.
 
-I need to understand Pace’s view of a future containing both women. Does he believe the plan leads to an eventual three-person relationship? Is Randi’s desire for Vee part of what he wanted from the beginning, or did it surprise him? Does he imagine disclosure, and if so, when? “That’s the plan” needs its literal terms exposed.
+I am waiting for a kiss between Vee and Randi that neither can file under goodbye. The neck is already an erotic site. Randi nearly turns. Vee is already looking before she moves. Someone eventually has to stay instead of laughing.
 
-I want to know whether Pace recognized Randi’s shoes during the naked-coat reunion and whether Randi told him she designed it. Their private exchange confirms they discuss Vee, but I still do not know exactly how operational the collaboration remains.
+Randi must risk refusal. She says she wants Vee to know exactly what she does to her, but so far she tells Pace, her own body, everyone except Vee. She demands the harder truth from Vee while keeping her own love deniable. I need her to make a request rather than arrange an outcome.
 
-The original question has only partly been answered. “Boyfriend” gave Vee public standing and mattered deeply. It still does not tell me what agreements exist, whether Pace considers them exclusive, or whether Vee is being allowed to assume exclusivity while he continues with Randi.
+Pace still must say “I love you” to Vee. *Boyfriend* is a genuine public answer, and I will not pretend it means nothing. It still does not answer the meal sentence. Now that he knows Vee loves him through Randi, continued silence becomes worse.
 
-Sheri may be the person who breaks the architecture open. She knows of a brunette, has now met Vee, speaks honestly, and refuses to convert secrets into leverage. I want to know how much Pace has told her and what she will do if she realizes Vee is uninformed.
+Pace also owes Vee an account of his choice: he understood, wanted to answer, chose the smaller truth, and watched it fail. She deserves the history of Daphne and the truth that his fear—not her demand—caused the rupture.
 
-I am waiting for the dance hall. Sheri and Pace will dance. Vee will have to see their intimacy in motion rather than invent a blonde. Sheri may see how Vee watches Randi, or how Pace and Randi watch Vee. Dance has already been a language of choice and control throughout the book.
+I want Vee to realize that she did not owe the coat apology. The reconciliation can be glorious without rewriting the moral history. She asked a reasonable question. He failed her. Randi redirected her. The sex did not retroactively make Vee wrong.
 
-Pace’s father and the age-sixteen rupture are now urgent. Sheri says Pace understood total familial loss without explanation. I want the story of why he never went home, how it relates to Daphne and the scar, and why words of love feel more dangerous to him than practical devotion.
+Cassie needs the uncropped story before the reveal destroys Vee’s confidence in everyone. Vee needs one person who did not participate, did not extract, did not know in advance, and will believe the entire contradictory truth.
 
-I want Cassie to receive something closer to the full truth. Her way of knowing—seeing the lie and leaving Vee room—is the ethical opposite of Randi’s. Vee needs someone who can witness without steering.
+I want Cassie and Randi to collide. Cassie now approves Pace because she saw real care. What will she make of the lie? Does she already sense something in Randi’s claim on Vee? Cassie’s low-wattage vigilance may be the only gaze not drugged by the triangle’s heat.
 
-I am waiting for Randi’s mother and the wealth secret to return. The blue-underwear humiliation made Randi’s evasions intelligible; Miranda Holdings and PPP money remain another entire concealed structure. Vee is granting Randi control over her own disclosure while Randi denies Vee the same grace.
+I need the gift economy to come due. Randi’s shoes, Pace’s flannel, the scarf, the dress, the cashmere, the stained coat, the locked bracelet: these objects all carry claims their wearer does not fully understand. Which one finally gives the secret away?
 
-Most of all, I am reading toward Vee realizing that her two private worlds are one room. Chapter 59 showed me that room. It is loving, playful, sexually alive, and built around her absence. Vee must enter it with the power to say what its existence means.
+The bracelet still needs explanation. Vee keeps touching it at moments when Randi’s true feeling nearly emerges. “Locked” and “cold line” remain conspicuous.
+
+The PPP/family-money story is still live. Randi’s gifts and access are funded by a family whose wealth injured people in Cassie’s world. Vee has extended Randi discretion about that secret, a grace Randi has not extended to Vee.
+
+I want more of Dr. Marsh because she is teaching Vee the vocabulary of her own life: gifts that bind, grooming that maps allegiance, trust economies containing cheating. Vee is sitting beside Randi while learning how to identify precisely what Randi and Pace are doing.
+
+I am reading toward the moment Vee understands that her happiness was real and her choices were hers, but the field of choice was secretly arranged. I do not want the reveal to erase her appetite, Pace’s love, Randi’s love, or the betrayal. All four must survive intact.
 
 WHAT'S FADING
 
-The exact breakfast preparation will collapse. I retain homemade bread timed for waking, blood-orange jewels, salted persimmon, mushrooms with butter, paprika, sherry and lemon, the first toast burned, and Pace surrendering half his plate because he likes seeing Vee eat.
+The doorstep sequence will simplify, so retain the order: mirror; arousal deliberately left unfinished; church coat; Kayla; touching herself on the county road; police scare; stain in the lining; unexpected dark porch; polite voice; coat opened; oral sex outside; standing penetration; couch; tears at her name; pancakes; “I missed you.”
 
-The precise sequence of Vee’s commanded oral sex will blur into wrist, arm, armpit, breasts, toes, endless thigh detours, being opened like an orange, Pace breathing over her, his noisy tongue, two orgasms, penetration, then the wet kiss and recoil.
+The precise distinction matters: Pace did not say *boyfriend* during the reconciliation. He first said it publicly at the roadhouse gathering days later.
 
-The party guest movements will fade. I retain buffet currents constantly reseating everyone, Pace handing each person the first line, Cassie’s long story, Randi and Pace laughing together, and “Vee’s boyfriend” repeated until it became the night’s joke and Vee’s treasure.
+Vee keeps saying she and Pace talked. They did not discuss the fight, the missing declaration, Daphne, or why he let her leave. Their actual spoken reconciliation was mostly teasing, food, hunger, and “I missed you.”
 
-Theo’s jazz explanation may reduce to Dixieland in one hand and blues in the other. Danny’s details reduce to bench plateau, grip change, creatine, and later the absurd tub of egg whites.
+The Saturday breakfast details may become a haze of abundance: homemade bread, blood oranges, salted persimmons, mushrooms on toast, burnt first toast, black tea with honey. What matters is Vee’s naked delight, Pace’s service, and her invention of the pleasure princess.
 
-The breakfast with Kayla and Meg will fade to locked dining-hall doors, Kayla’s waffle grief, the sunny porch restaurant, three flutes, and Vee telling the public-safe coat story.
+The elaborate directed sex after breakfast may blur. Hold: phantom spot; breast against cheek; wagging no; silent procession; cashmere; stripping gesture; wrist first; every inch attended; toes kissed; orange metaphor; oral orgasms; wet kiss; recoil; Pace stopping; Vee choosing the kiss again and searching for the taste.
 
-Dr. Marsh’s material may blur, but I retain two ideas: gifts remain inhabited by their givers, and touch maps relationships because grooming continues after utility ends. The lice comb and cleaner fish are the vehicles.
+Cassie’s invented laundry story: Pace supposedly shrank Vee’s cranberry sweater and bled its dye into her pants. This was a cover for Vee having brought no clothes. Cassie did not believe it.
 
-The order of the two Italian-restaurant dinners may blur. Tuesday: coat story, stained lining, restroom orgasm, first neck kiss. Thursday: parking-lot/truck story, pleasure-princess oral account, tasting-herself confession, Randi’s “I don’t,” second neck kiss.
+The sunny breakfast with Kayla and Meg was at the expensive place with the glass porch after the dining hall was closed. Vee used Christmas money; they split the bill. It matters chiefly because the coat became a funny apology story among friends.
 
-Randi’s shore-boy story will keep only its wound: boy kneeling in the grass, sweet boardwalk date, sex in the parents’ bed, blue underwear forgotten, mother waiting to expose it at Sunday dinner, boy disappearing.
+Dr. Marsh’s first lecture was Mauss, Māori *hau*, and gifts that are never free. The second was grooming: an ancient boxwood lice comb, baboons spending a fifth of waking life grooming, cleaner fish, trust and cheating.
 
-Vee’s clothes are already merging. Cream floral wrap for Tuesday; toffee stretch sweater and dark floral skirt for Thursday; olive coat both nights, lining turned to the wall. What matters is that she dresses to be seen by Randi.
+The Italian restaurant: narrow building, loft booth, jukebox with green-lit bubbling water, closing staff stacking chairs. It has become Vee and Randi’s twice-weekly private room after anthropology.
 
-The exact road-sex mechanics can fade. I retain Vee going down on Pace in the parking lot after the party, then pushing down her jeans and holding her thong aside while he touched her in the moving truck. It was voluntary, intense, and dangerously irresponsible.
+Randi’s teenage story may fade. Keep: lawn boy kneels; boardwalk date; sex in parents’ ocean-view bedroom; forgotten blue underwear; mother launders it and waits; Sunday dinner; public placement beside plate; boy quits and disappears.
 
-Chapter 59’s positions will reduce to Randi riding Pace, both talking explicitly about Vee, Randi coming while imagining Vee’s breast and nipple, Pace coming when Randi wants Vee to know, the love confession, then Randi tasting their combined mess and taking him inside again.
+The first Tuesday dinner ended before Vee could tell the wet-kiss story. Vee felt relieved. The second Thursday dinner is when she finally told it and Randi said she liked tasting herself.
 
-The taproom layout will go: narrow storefront, colored chalkboard, soft wood, no screens or stage. I retain Sheri on the stool with a longneck, the tattooed bartender, Pace’s untouched beer, and Vee overdressed in borrowed black clothes and Randi’s heels.
+The restaurant-stall orgasm happened at the first dinner and used memories of Pace, but Randi’s current face and voice supplied the decisive image. Randi appeared to know Vee had gotten off, then covered the observation.
 
-Sheri’s exact family list may blur: mother, retired-Marine father, Marine brother, church, Bible-study women. The fact is total rejection within a month after coming out.
+The roadhouse was chosen to suit Pace: quiet steel guitar, no screens, buffet, loose tables. VEE was written on butcher paper. Randi arrived before Vee and Pace.
 
-The chronology of Pace’s help to Sheri may condense, but the objects matter: drive home, coffee, donuts, lock, faucet, bike, bacon cheeseburger, steady presence, no false reassurance.
+The dinner roster: Randi, Cassie, Kayla, Meg, Danny, Theo, Pace, Vee. Kayla’s sister’s wedding, Danny’s lifting, Theo’s jazz, Meg’s roommate story, and Cassie’s friendship origin were the hooks Pace remembered.
 
-The two filthy songs are already gone completely, which seems appropriate; only Vee laughing until the seatbelt hurts remains.
+Pace’s public phrase was exactly “Vee’s boyfriend,” repeated to everyone. Randi answered, “The boyfriend. Finally. She hides you very well.” Pace said, “Not anymore.”
 
-The initial plan’s mechanics remain unknown. What I now know is worse and clearer: Pace and Randi are active lovers; both love Vee; both notice and discuss Vee’s desire for each of them; Randi originally selected her; and Vee alone still believes the relationships are separate.
+Vee briefly felt jealous seeing Pace laugh with Randi, then corrected herself because Randi was her friend. After chapter 60, the sting was accurate even though Vee’s explanation was not.
+
+Randi’s toast: brunches with Vee are the highlight of her week; meeting Vee was the highlight of her year; “To my beautiful best friend.” Pace was present and understood more than Vee did.
+
+After the party, Vee gave Pace oral sex in the parked truck, then had him touch her while driving. The road danger bothered me. Later she handed both scenes to Randi in explicit detail.
+
+Vee’s private reach after the Thursday dinner: she smells and examines her own wetness, nearly tastes it, cannot, wipes it away, masturbates anyway, opens the window, lies on the damp patch. The unresolved image is Randi’s mouth or Randi’s fingers.
+
+Chapter 60’s point of view is Pace’s. Randi begins by tasting herself from his mouth, then they have sex and talk about Vee. Randi imagines touching Vee and comes. Pace comes after Randi says she wants Vee to know her effect. Randi tells him both women love him/her, then cleans their mixed wetness from him and takes him again.
+
+Sheri, Daphne, John, the PPP scandal, the nude photograph, and the original game have receded during this run but remain unresolved. Sheri is Pace’s truth-telling lesbian friend; Daphne is his first love and the source of his superstition; John proved Randi’s approved straight future could not reach her; the PPP secret ties Randi’s family wealth to Cassie’s father’s loss; the photograph may have circulated in information if not as a file.
+
+The academic schedule is now stable: anthropology Tuesday and Thursday at seven, ending at 8:20, followed by dinner with Randi. Vee already experiences this as a fixed shared season.
+
+The most important thing not to let fade is the revised hidden structure: Pace and Randi are not merely former collaborators or secret planners. They are active lovers. They know they both love Vee. They exchange news of Vee’s kisses and looks. They are already erotically living inside a triangle that Vee believes she is constructing one separate relationship at a time.

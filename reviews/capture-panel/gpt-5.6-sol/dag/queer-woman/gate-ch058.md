@@ -1,17 +1,23 @@
-*capture-dag-v2-rich · gate ch058 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch058 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
 
-REACTION — Oh. There it is. Her desire for women is finally reaching the surface in a form she cannot file under friendship, or Pace, or Randi’s advice. She can keep Pace’s face in the fantasy as scaffolding, but the question her body actually follows is: *what did Randi do?* Randi’s mouth or Randi’s fingers. Not whether the act is objectively gross, not even why Pace likes it. She wants to know what Randi tasted, how Randi crossed that distance, and what it felt like when she did. That is not garnish. That is Vee’s wanting, arriving privately where nobody can coax or reward it.
+REACTION — Oh, Vee. Honey. Your body has now answered this question twice before your mind could get its shoes on.
 
-And Christ, the nearly-touching tongue. I was holding my breath with her. I’m glad she couldn’t do it yet—not because I wanted her stopped, but because this is exactly the kind of bodily border the book has been patient about. Wanting something and being able to perform it are not the same event. She gets within a breath, cannot cross, wipes her fingers away, and the wanting survives the refusal. It comes back after orgasm. It comes back after the cold air. It comes back after she covers herself. That unfinished reach is so much more convincing than an easy breakthrough would have been.
+That “I don’t” absolutely got me. Randi doesn’t coax or explain or turn the moment into a lesson; she simply puts her own desire on the table as a fact. And Vee immediately drops back into the remembered kiss and clenches. There it is. Her wanting is not being installed. Randi gives her a sentence under which an existing response becomes legible, and Vee’s body recognizes itself before the old prohibition can reassert authority. Then she says “But it’s gross” much too loudly, which is practically a confession. I know that volume. I know the frantic insistence of a rule that has just discovered it may not be true.
 
-The room absolutely got me: she shuts Cassie’s habitual crack of winter out so she can be warm inside Pace’s shirt, then has to reopen it afterward to erase the evidence of herself. That hurts. Pace’s house lets her plenty fill a room and treats it as appetite; the dorm room turns it back into mess before Cassie has even returned. Nobody has actually shamed her here. She does all the covering and airing-out herself because the old surveillance is living inside her. The enormous flannel becoming instantly “respectable” made my stomach drop.
+And Randi knows exactly what she has done. “How does he act?” is such a surgical question: not *should* you like it, not *why* are you ashamed, just what has Vee already observed in the person she trusts erotically? Pace likes her taste. He is unembarrassed by wanting it. Randi likes tasting herself on someone’s mouth. Suddenly Vee is alone with the fact that her own body liked it too. Nobody has ordered her anywhere, but Randi has opened the gate and calmly eaten the bread while Vee walks through.
 
-And I’m noticing the contrast in kinds of care. Pace met her recoil without making it consequential: stopped, distinguished which no she meant, wiped his mouth, waited for her to reclaim the kiss. Randi gave her one calm true sentence and did not push. Both responses leave Vee alone with room to want. That room is doing more to move her than all Randi’s calculated guidance—and I need Randi to understand that eventually. Vee’s desire does not need arranging. It needs somewhere it can remain unfinished without being made shameful.
+Which is hot. God, it is hot. Also: I do not trust Randi’s innocence for one second.
 
-The last lines are cruel in exactly the right place. She deliberately lies over the damp patch as punishment: *her mess, hers to lie in.* But “her mouth was still empty” refuses the punishment’s intended meaning. She did not prove the wanting disgusting. She only failed, this time, to satisfy it. I want to text somebody at one in the morning: SHE IS MASTURBATING ABOUT HOW RANDI TASTED HERSELF AND STILL CALLING IT ABOUT PACE. We are past plausible deniability now, even if Vee isn’t.
+She extracts the unsanded version of everything. Every time Vee tries to make an experience clean enough for a white tablecloth, Randi places one finger on the missing part and asks again. “Didn’t spill a drop?” “Don’t you dare.” “Give me the real one—the harder one.” Vee loves being made to say it; the pressure itself turns her on. That is real between them. But Randi is sitting there dark-eyed, barely eating, drawing Vee’s sexual life into herself while Vee still thinks this is simply the perfect female friendship. She left nearly her whole plate untouched while Vee polished hers clean without noticing, and I felt that image somewhere unpleasantly deep.
 
-GATE 58 — The Reach  
-DECISION: CONTINUE  
-CAPTURE: 10  
-ALMOST-STOPPED: none  
-WHY: This is the chapter I’ve been waiting for: Vee’s desire turning toward Randi in private, through her own body, with nobody there to install it or steer the outcome. She could not complete the reach, but the wanting remained—and now I absolutely need to see where it goes.
+The neck kiss finished me. Vee was already looking. She was smiling before deciding. Randi opened her neck, whether consciously or not, and Vee’s mouth went there on memory. Then Randi’s body catches and rises for a beat too long, and “ticklish” has become the flimsiest lie in Virginia. This is no longer a charge the book can plausibly tuck back into friendship. Vee is seeking Randi’s skin. Randi is responding with her whole body and covering it in real time. I want to shake them both and then make them do it again.
+
+But “You picked well” made my skin prickle. Vee did not pick from an open field, and Randi knows that better than anyone alive. Coming immediately after Randi has quietly shifted Vee’s erotic understanding, it feels like both approval and ownership: *I chose correctly for you.* Vee notices the technical untruth and lets it pass because it came wrapped as praise. That is the entire danger of Randi in miniature.
+
+I would text a friend: SHE TASTED HERSELF OFF HIS MOUTH, SAID GROSS, THEN HER GIRLFRIEND-WHO-ISN’T-HER-GIRLFRIEND SAID “I LIKE IT” AND NOW SHE CANNOT STOP THINKING ABOUT IT. Also the girlfriend keeps pretending neck kisses are ticklish. Send help, but not too quickly.
+
+GATE 58 — A Clean Plate
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: none
+WHY: Vee’s desire for Randi is now happening openly in her body while her mind scrambles to preserve the old explanation, and that is exactly the awakening I came for. I’m thrilled, turned on, and deeply uneasy about how expertly Randi keeps making herself the person who supplies the meaning.

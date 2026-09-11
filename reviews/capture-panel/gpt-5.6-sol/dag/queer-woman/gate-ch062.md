@@ -1,15 +1,29 @@
-*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
 
-REACTION — Oh, this got me in several incompatible places at once. Vee’s body recognizing the grammar of Pace’s hand inside Sondra’s utterly impersonal touch—the wrong hand making her ache for the right one—was intensely, specifically hot. Not because Sondra wanted her, and not because Vee confused professional contact with desire, but because she knew the difference so exactly. She kept the wanting for herself and Pace. Then, alone, she touched the new smoothness and wanted his hand discovering what she had chosen to do. That desire is hers. I believe it.
+Oh, this got me, and then it made me furious for getting me.
 
-But I am badly snagged on Vee believing that once she has said yes, the yes “couldn’t be called back.” No. Pace has already shown her that she can change the terms during sex and he will stop, listen, and adjust, so this is not quite a rule he has imposed. It is a rule she is building inside herself because surrender excites her—and that may be psychologically honest, but it is dangerous as hell. The later thought that another boundary was only “for a girl who had any lines left” scared me more than the waxing did. She did have lines left. She always has lines left. The fact that she rolled over voluntarily does not make that inner logic less frightening.
+The water on the paper towel, the pills, the enormous undershirt, the bread baked while she slept: yes. Absolutely yes. Pace’s care is so specific and unadvertised that I understand why Vee keeps letting it answer questions it cannot actually answer. He makes being looked after feel like being known without being diminished. Even drunk and helpless, she wakes with no shame attached to the night, only evidence that somebody quietly carried her through it. I felt the safety of that.
 
-And Randi, Jesus. “Barely stings” was such an obvious lie that I nearly laughed, but withholding the rollover part is different. Vee trusts her as the woman with a passport to this country; she finds it “restful, being told.” Randi knows precisely how powerful that trust is and gave her a romantic little initiation script instead of enough information to choose with her eyes open. The omission was not catastrophic—Vee could have stopped, even though she did not feel she could—but it reproduces the whole architecture of the book in miniature: Randi makes the unknown sound luxurious, leaves out the destabilizing part, and lets Vee discover the actual terms when she is already exposed and committed. I am increasingly unwilling to call that merely playful guidance.
+And I loved her delight in Sheri’s look surviving daylight. “She *liked* me.” There it is again: Vee enjoying a woman’s desire without needing to panic, disclaim it, or translate it into competition. She liked being looked at. She knows exactly what kind of look it was, Pace knows exactly what she means, and nobody makes it strange. That belongs to her. It isn’t Randi’s engineering. Sheri looked; Vee warmed under it.
 
-Still, the ending worked on me. Vee walking out privately transformed, carrying knowledge of her own body that nobody in the room possesses, felt gorgeous. She was not just made into an object for Pace. Alone, she touched herself first, felt what had changed, and claimed the anticipation. I’m turned on, protective, and furious—the book’s favorite three-way.
+But then Pace says Sheri is his one friend, and I nearly threw something.
 
-GATE 62 — Barely Stings  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “another line seemed like a joke, a thing for a girl who had any lines left.”  
-WHY: Vee’s desire is unmistakably her own, and the distinction between the wrong hand and the wanted one was devastatingly good. But her belief that consent, once given, cannot be withdrawn—and Randi’s habit of curating what Vee knows before she chooses—has moved from erotic danger into something I need the book to confront.
+Randi is apparently excluded from “friend” by the smallest possible technical door because she is his lover. Fine. Linguistically defensible. Emotionally obscene. She is the person he tells Vee’s secrets to, the person who knows his history, the person he plans with, laughs with, commands and obeys, the person he receives Vee’s love from. Vee spends this entire scene breaking her heart over the idea that Daphne was once the only person carrying all of him and that afterward there was nobody—and meanwhile Randi exists. Randi, who is currently carrying more of his hidden life than anyone. He lets Vee build this devastating picture because every sentence is narrowly true enough to pass inspection.
+
+That is the pattern now: Pace gives her exact facts that produce a false world.
+
+And God, the emotional efficiency of it is brutal. Vee inventories Meg, Kayla, Cassie, Randi—especially Randi—as the people who divide up the work of loving her, while believing Pace has only Sheri. She actually thinks, “No Randi to bring it to,” when he has Randi right now. Maybe he didn’t have her after Daphne; I don’t know the chronology well enough. But in the present, he absolutely has her, and Vee’s tenderness is being generated by an absence that is no longer real.
+
+I also recoiled at the neat theory that women misunderstand friendship because Pace is just too attentive not to fall for. That is a dangerously flattering explanation to give yourself. Then the chapter partly convinced me anyway, because I can see how his attention would do it—and I resent being maneuvered into agreeing with him. The account of male friendship felt lonelier and more plausible: he missed the ordinary years when people learn one another sideways, through repeated small defeats and shared beginnings. The image of him at fifteen among adults, then eighteen already owning the life his peers were only entering, hurt.
+
+But “his one friend on this earth” is not true in any human sense that matters. And “a five-foot woman who could never want him” made Sheri’s lesbianism click into place as safety for him: the one woman whose friendship cannot become sexually complicated. I understand Vee arriving there. I also hate how completely she trusts that category while standing inside a book where every other category is already leaking.
+
+The final hug worked on me. She refuses to pity him theatrically; she simply gives him her weight. It is loving and intelligent and exactly what he needs. Which makes the hidden Randi-shaped absence in the kitchen feel monstrous. Pace is not faking the loneliness. He is not faking the comfort. He is simply allowing Vee to comfort him inside a version of his life from which one of the most important people has been deliberately removed.
+
+At one in the morning I would text: “HE SAID SHERI IS HIS ONE FRIEND WHILE ACTIVELY FUCKING AND CONSPIring WITH VEE’S BEST FRIEND. I am unwell.”
+
+GATE 62 — Hangover
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: “His one friend on this earth a five-foot woman who could never want him — the only kind, she was sure now, the world had ever quite let him keep.”
+WHY: The tenderness landed hard, but the Randi-shaped lie inside it landed harder. I need to see what happens when Vee realizes that Pace let her mourn his supposed aloneness while his hidden lover was already woven through both their lives.

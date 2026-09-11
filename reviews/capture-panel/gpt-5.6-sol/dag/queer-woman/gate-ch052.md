@@ -1,19 +1,23 @@
-*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
 
-REACTION — Oh, this got me. “I want to meet your people” is exactly the kind of sentence Vee has been starving for—not a label, still not the word, but an offer to exist in her life where other people can see him. After the whole agony of asking whether she belongs to him outside his house, he is proposing a room containing all of her worlds. I felt her lift.
+REACTION — Oh, this is dangerously good at giving me exactly what Vee wants while keeping the thing she needs just outside the room.
 
-And then he remembered Meg’s boots. Her heel coming out of the right one. God. This is why she loves him, and why “believe what I do” has such power over her even when it is not enough. He has been keeping the apparently disposable details of her life because nothing about her is disposable to him. Kayla, Meg, Cassie, even Theo: he doesn’t merely tolerate the existence of her people or require her to translate herself into his world. He wants the whole untidy crowd. Theo’s invitation without a flicker of possessiveness made the warmth go deeper.
+I loved her naked happiness. I loved the stupid scrunchie, the ruined toast, “I got mushrooms,” the pleasure princess discovering that power can mean directing the attention she used to feel ashamed of attracting. This isn’t a performance Pace or Randi installed in her. She wakes up, sees the sweats, and chooses her own skin. She invents the game, makes Pace wait, points, commands, enjoys being obeyed, and loves every step down that hallway. That wanting belongs to her completely, and yes, it got me.
 
-I noticed, though, how instantly Vee heard “your people” as Randi. Not Cassie, who actually shares her room and knows her daily life: Randi, already installed as the center of any imagined gathering. And then Vee’s panic about finding a restaurant where neither Cassie nor Randi would have to be “a good sport” exposed a class seam she has mostly been able to keep covered. She loves them both, but she cannot yet imagine them naturally occupying the same table. That matters. Randi fits the aspirational world Vee is entering with Pace; Cassie belongs to the life Vee is increasingly editing.
+And Pace reading the two noes correctly—stopping immediately at “wrong,” then believing her when she says not to stop—was deeply tender. More than that, he leaves her mouth alone afterward. No wounded dignity, no coaxing, no lesson about why her disgust is irrational. He lets it wait until she chooses it again. That is Pace at his best: exact attention that gives her enough room to discover what she wants before she can explain it.
 
-There is also a nasty little dramatic-irony hook under the sweetness: Vee is thrilled to arrange a “proper” meeting between two people who selected her together before she knew either of them properly. I want that gathering desperately, and I do not trust it for one second. Pace asking to meet Randi as though she were simply a name learned from Vee is another technically true performance, and now the plan may be invited directly into Vee’s whole social world.
+Because, girl. Your tongue went looking.
 
-But the Chili’s recognition was the piece that made me forgive this chapter almost anything. Vee finally sees the fork, hears his explanation without translating it into rejection, and changes her behavior accordingly. She does not make a speech or turn herself into a martyr; she simply gives him the choice of place. That is repair. “Let me handle it” lands completely differently now: not control taking her choice away, but care offered after she has understood what the room costs him.
+The chapter can hand Vee the tidy explanation about missing his kiss, but I do not believe it for one second, and neither does her body. She tasted herself on him before her learned voice arrived to call it wrong. Then she went back voluntarily, searched his mouth for the taste, came when she maybe found it, and afterward licked her own lip looking again. That is desire arriving sideways and physically before the mind can name it—the thing I read for. It isn’t yet explicitly desire for a woman, but the route is lit up like a runway, especially because her next thought is Randi: the woman she trusts to interpret the appetite Vee cannot yet admit is hers.
 
-I’m still holding the line that this does not answer “what am I to you?” A party is public inclusion, and that is real. It is not a name, and Pace still knows words bind him in a way hospitality does not. But for tonight? Yes. Let him build the room. I absolutely want to see who he puts in it—and what happens when Randi and Cassie are finally made to stand inside the same uncropped life.
+Which is thrilling and terrifying. “Randi always did” lands like a trap closing. Vee is about to bring Randi a new, unguarded piece of her sexuality and ask the one person least capable of handling it without steering. Of course Randi will know what it means. She may know before Vee finishes the sentence. And after the coat worked so spectacularly, Vee’s faith in Randi’s erotic judgment is now absolute.
 
-GATE 52 — Back  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: Pace remembering the right boot and asking for the whole unruly collection of Vee’s people hit me exactly where she lives. The public gathering promises genuine repair and impending disaster at once, especially when the “new” friend he most needs to meet is the woman who has secretly known him all along.
+I am still angry that the reconciliation has apparently succeeded without Pace answering the question that caused the rupture. He missed her. He feeds her. He worships her body. All of that is real, and all of it is still an act offered where a word was requested. Vee is back to turning care into a complete answer because she is exquisitely happy inside it. The bread timed for her waking is lovely; it is not “I love you,” and it is not an admission that he knowingly failed her.
+
+The breakfast nearly seduced me into forgetting that too. Nearly. This book knows exactly how warm to make the room where the unanswered question is being buried.
+
+GATE 52 — Missed a Spot
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: “Randi would know what to make of it.”
+WHY: Vee’s body has begun telling a truth her mind cannot yet hold, and now she intends to hand that truth directly to Randi. I am exhilarated by her appetite and deeply afraid of what Randi will do with the privilege.

@@ -1,19 +1,19 @@
-*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
 
-REACTION — Oh, this is such a lovely morning, and I am sitting in the loveliness with one small stone in my shoe.
+REACTION — Oh, Vee. “We talked.” No, you absolutely did not.
 
-Pace wanting to meet all her people matters enormously. Not just Randi, not a curated dinner with the glamorous friend who fits his world: Cassie, Meg, Kayla, possibly Theo, the whole noisy unedited population of Vee’s life. He remembered Meg’s boots and Kayla talking paint off a wall; now he is putting himself in a room with them. After all my anger about Vee having no way to name him outside his house, this is an actual outward move. And then Meg says “the boyfriend,” casually, in daylight, and nobody corrects her. God, I felt that. Vee finally gets to carry him into an ordinary social sentence.
+That lie hit me harder than the invented laundry disaster, though Cassie’s full laugh made the whole thing painfully funny. Of course Cassie knows. The coat, the heels, Pace’s sweats, Vee staying all weekend—and now a doll-sized sweater and mysteriously ruined trousers? Please. Cassie sees the omission and lets Vee keep it, because that is what Cassie always does: she leaves the door open without dragging anyone through it. I love her for that, and I am increasingly afraid Vee will keep choosing the people who push over the person who waits.
 
-But: “We talked all night.” Girl. You opened your coat, he went down on you in the doorway, you fucked against the wall, and later he said he missed you. All of that was real and meaningful, but the question you left over was not answered. She has converted a bodily reconciliation into the conversation she needed, and now she is telling that cleaner version to people who would otherwise have enough information to ask whether anything actually changed.
+What hurts is how completely Vee has converted the weekend into proof that the original wound is healed. Bread, mushrooms, oranges, laundry: she can describe every act of care except the conversation that never happened. The month did not come down because they pulled the pole out by talking. It came down because she opened her coat and Pace wanted her. That wanting was real, enormous, and mutual; it still wasn’t an answer. Now she has to invent a conversation for Cassie because somewhere in her she knows reconciliation without one cannot bear daylight.
 
-Meg innocently repeating Randi’s logic—sometimes you have to make it right in their language—made me wince. Why is Vee still the one apologizing? She asked what she was to him, and he folded his arms. The coat was not reparations for being a hag about a heating-pad cord. I know Meg doesn’t know that, because Vee has carefully made sure she can’t know it, but hearing the false equivalence affirmed so warmly is exactly how Vee’s private revision hardens into communal truth.
+And yet this chapter made me very tender toward her. She is happy in the dorm shower even after Pace’s lavish house; she misses the draft; Cassie’s presence switches the room back on. She hasn’t been swallowed whole by the house. Her ordinary life still matters to her, and the small moment about Cassie’s mother wanting to see her again went straight through me. Vee has a place in that family she doesn’t quite know how to receive, and Cassie protects the feeling by refusing to stare at it.
 
-Still, I loved her with Kayla and Meg. I loved that she asked whether the expensive place was okay, used her Christmas money without turning generosity into control, and then let everyone split the check. The friendship feels easy and inhabited rather than decorative. Kayla’s delighted horror about having discussed socks with a naked woman en route to “commit a crime” is absolutely the text I’d send at one in the morning.
+The hand reaching across the narrow bunk and finding only wall should have wrecked me, but it didn’t feel like the old flannel scene. This time she doesn’t ask the wall to pretend to be Pace. She knows where he is, knows Friday will come, and sleeps. That is genuine security, even if it rests beside a lie she is not ready to examine.
 
-And Wednesday has me. Pace is coming out of the warm, secret house and into the full human mess of her life. Randi and Cassie will be at the same table. Theo may be there. Vee thinks she has the middle of it all, and she does—but she has no idea that two people across that table will share a hidden history about her. I am already braced.
+So I’m warm, amused, and deeply uneasy. Vee came home glowing—and immediately cropped the story for the safest person she knows.
 
-GATE 54 — Across  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: The breakfast friendship made me happy, while Vee’s “we talked all night” made me want to grab her gently by the shoulders. Pace meeting the whole uncropped circle is precisely the outward movement I needed, and putting Randi, Cassie, Pace, and Vee at one table is irresistible.
+GATE 54 — Unpacking
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: “We talked,” Vee said.
+WHY: That lie made my stomach drop, because the book knows perfectly well they did not resolve the thing Vee asked for. I’m continuing because Cassie knows it too, and her silence feels like patient witness rather than narrative permission to forget.
