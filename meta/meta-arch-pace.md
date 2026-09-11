@@ -32,7 +32,7 @@ He had available honorable exits he did not take. Disclosure, refusal, harder qu
 
 **The same-shape rule.** The childhood injury and the consent-architecture hole are one wound — and what they share is the carelessness, not the violence. His father did not ask; did not weigh the consequence; used him for an experience without his say. Pace builds an entire adult identity around being the man who *asks*, guarding hardest against the force — and his reckoning is finding that the hole is shaped like the other wound: a heedless not-asking, a failure to weigh what the experience would make of her, that his checklist was never built to catch. (Never connected on the page — resonance only; the craft guard lives in the Bible.)
 
-**Mother — stay-at-home; emotionally abusive; love as currency.** Produced non-looking at his own interior and the vow against premature declaration. He runs hot; he has never developed the apparatus for naming what runs inside the interior because naming exposes it to accounting.
+**Mother — stay-at-home; emotionally abusive; love as currency.** Produced non-looking at his own interior and the vow against declaration. He runs hot; he has never developed the apparatus for naming what runs inside the interior because naming exposes it to accounting.
 
 **The abandonment / the house as earned place.** When he left for school at fifteen, the damaged family let him go and did not follow — abandonment on top of the abuse. He built his adult life with no one behind him, and the **house is the earned proof of it**: small, off a gravel road, bought with his own patent, but *his* — the one thing to call his own. This is why *are your parents rich?* lands on a nerve (`two-towels.md` — the small closing at *parents*) and why the house's modesty is never apology. **Never explained on the page**; the parents-stiffen is the only surface trace. Resonance only.
 
@@ -140,7 +140,7 @@ By the novel, the choice has been running for years. It no longer presents as a 
 
 ### The Substrate Peeks Through Under Strain
 
-In moments when the situation produces an unusually clean demand for the operation the habit hides, a small awareness registers as discomfort. The porch scene is the worked example. *(Scene draft: `seconds.md`.)* Vee produces her cracker-and-meal speech — her displaced *I love you.* Pace hears it whole, understands it whole. His apparatus routes her speech down the sex-channel: *I love how good we are together.* The discomfort he registers — the half-beat of stillness, the small sound — is the substrate of the choice closer to the surface than usual. He does not put words to it. The not-putting-words is part of how the habit maintains itself.
+In moments when the situation produces an unusually clean demand for the operation the habit hides, awareness reaches consciousness. The porch scene is the worked example. *(Scene draft: `seconds.md`.)* Vee produces her cracker-and-meal speech — her displaced *I love you.* Pace hears it whole, understands it whole, and wants to answer it. He deliberately routes her speech down the safer sex-channel: *I love how good we are together.* The half-beat of stillness, the stopped hand, and the second breath carry guilt and weakness: he knows the substitute is insufficient, but the self-protection sealed by Daphne still wins.
 
 ### The Parallel with Randi
 
@@ -162,7 +162,7 @@ What the grammar does have, and what he will arrive at over the months and years
 
 The grammar speaks through what he does — the dress, the food, the warm room, the attention, the patience. Each deed is a declaration. Words can themselves be deeds: he is fully articulate, and his true-speech, wit, and culture — the compliment built as an argument, the true thing she needs to hear, the teasing that plays her engine — do real work and are part of the grammar, not exceptions to it. What the grammar routes away is one thing only: the verbal declaration of love. He does not say *I love you.* He does not say *I am yours,* or *I promise.* The not-declaring is not a hole in his architecture; it is the shape of the grammar.
 
-Vee's contemporary convention expects verbal declaration. His grammar does not contain it. The mismatch is structural and Pace does not see it because his after-register reading does not run. He is declaring constantly through deeds. In her convention, the deeds are not the speaking she is waiting for.
+Vee's contemporary convention expects verbal declaration. His grammar does not naturally contain it. The mismatch is structural, but once Vee makes the demand explicit Pace sees it: he knows his deeds are not the word she needs, knows he loves her, and still cannot make himself say it. His general after-register blindness remains — he does not assemble what the repeated withholding will become in her — but the immediate failure and its cost are visible to him.
 
 ---
 
@@ -181,22 +181,22 @@ The one wound. **Named on the page at {{Rock}}** (`rock.md:207` — *"Daphne,"* 
 She produced three things, never on one page together:
 
 - **The gift** — his patience, attention, a body read slowly over time; he learned women the way he learns everything, one subject, deep (`meta-note-first-love.md`).
-- **The silence-vow** — her ordinary leaving (the age-gates, no betrayal) read by a boy as *the one time I said the dangerous thing, I was proven right to fear it*: an n=1 statistics error, invisible to the man whose patent extracts clean signal from noise. Feeds **The Vow** below; breaks open at {{Excavations}} (*"Once."*).
+- **The silence-vow** — her ordinary leaving (the age-gates, no betrayal) read by a boy as *the one time I said the dangerous thing, I was proven right to fear it*: an n=1 statistics error, invisible to the man whose patent extracts clean signal from noise. Feeds **The Vow** below; becomes reader-visible in {{Not Enough}} and breaks open to Vee in disclosure at {{Excavations}} (*"Once."*).
 - **The door-restraint** (bench seed, warming pass 2026-08-11) — *Daphne built a door, and young Pace did not respect it.* He wanted inside her feelings, thought "loving someone was a kind of permission," went in unasked, and it cost him; he learned that a closed door is hers, not his. This recolors his on-page restraint from **saintly to earned/scarred** — the man who will not put a hand on a locked bathroom door (`the-bench.md`) is paying an old debt, not performing virtue. Everything but the fact of the lesson is withheld; the violation itself stays mystery.
 
-**The disclosure thread (register-graded — never collapse the treads):** bench seed, unnamed, pure-mystery (restraint) → {{Rock}}, named and factual, contained (the ages, the two years, the ordinary leaving; Vee does the arithmetic and holds it) → {{Excavations}}, the break (the declaration layer and the feeling arrive; *"Once."*). Each pass gives one register deeper. (`meta-note-rock.md`, `meta-note-excavations.md`, `meta-note-first-love.md`.)
+**The Vee-facing disclosure thread (register-graded — never collapse the treads):** bench seed, unnamed, pure-mystery (restraint) → {{Rock}}, named and factual, contained (the ages, the two years, the ordinary leaving; Vee does the arithmetic and holds it) → {{Excavations}}, the break (the declaration layer and the feeling arrive; *"Once."*). Each pass gives one register deeper. {{Not Enough}} is Pace-only interior — the whole-world memory and the fear beneath the vow — and does not advance what Vee knows or collapse these treads. (`meta-note-rock.md`, `meta-note-excavations.md`, `meta-note-first-love.md`.)
 
 ---
 
-## The Vow Against Premature Declaration
+## The Vow Against Declaration
 
 Separate from the chivalric grammar; operating below it; older. The mother supplied the materials; **Daphne** supplied the seal (the section above) — he overrode the caution once, said the words, heard them back, and it still broke (`meta-note-first-love.md`).
 
-*I will not declare love until I am certain, because to declare what I cannot guarantee is to break what declaration is for.*
+The vow is self-protection. The one time Pace said the words, Daphne said them back, left anyway, and her departure consumed his life. He falsely believes that if he keeps the love unspoken, another loss may hurt but cannot take him over in the same way.
 
-Honorable in its own logic, in service of Vee from his vantage, and producing costs she pays (the wait, the uncertainty) that he does not see. The vow holds throughout the year. It never produces a declaration. Vee leaves before his certainty surfaces. *(The vow's cost on the page: `seconds.md`.)*
+By {{Seconds}}, he knows what Vee is offering, knows he loves her, and wants to answer. He deliberately says around it, feels guilty and weak for doing so, and protects himself anyway. The vow holds throughout the year and never produces a declaration. He sees the immediate cost; what his after-register still fails to assemble is the full shape that cost will make in Vee and in their future.
 
-The vow gives him his story afterward. *I was being careful. She did not wait. She was not, finally, the one — because the one would have waited.* He never sees that the vow was the wound.
+The vow gives him his story afterward. *I was protecting myself. I did not lie.* He can know the immediate failure and still believe the silence limited the damage. He never sees that the vow was the wound.
 
 ---
 

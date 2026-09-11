@@ -30,31 +30,58 @@ off the chronology: the chronology includes planned-but-undrafted entries, so it
 position diverges from the drafted order the tool indexes (e.g. `another-round` is
 chronology position 60 but drafted N 58). `--to N` remains for when you already know N.
 
-It emits, in order:
+Do not hand-assemble or supplement this context. `checkpoint_context.py` is the
+authoring sibling of `tools/cold_read_grounded.py`; both use the same drafted-scene
+inventory, boundary rule, and post-boundary prose window:
 
-1. the most-recent **decade memory checkpoint** (`ck-ch{B}`, where `B = ((N-1)//10)*10`),
-   **projected** — the reader-reaction `Impression` section is sliced off so it can't be
-   mistaken for canon; the seven factual/ledger sections are kept;
-2. the **full clean prose** of every chapter since that checkpoint (`ch B+1 .. N-1`).
+```
+B = ((N-1)//10)*10
+```
 
-For post-Vol1 chapters, the same boundary rule applies: once chapter **N** is more than
-ten chapters past the prior volume's frozen floor, use the appropriate in-volume decade
-checkpoint (`ck-ch060`, `ck-ch070`, …) if it exists. If that checkpoint is missing, follow
-the missing-checkpoint protocol below — offer to mint it; do not silently treat `ck-ch050`
-as sufficient for chapters whose boundary has advanced past 50.
+For chapter `N`, the authoring tool mirrors the grounded cold reader's **boundary and
+prose-window topology**:
 
-This is **read-time assembly** — it never mints a new consolidated checkpoint, so nothing
-decays across a summary-of-a-summary chain. The decade checkpoint is read verbatim (it was
-already panel-QA'd); the recent window is real prose at full fidelity.
+1. an authoring projection of `ck-ch{B}` — one checkpoint, not a cumulative stack;
+2. the **full clean prose** of `ch B+1 .. N-1`.
 
-## How to use it when drafting, revising, or critiquing chapters or beats
+When `B = 0`, there is no checkpoint and the tool emits the full clean prose of
+`ch1 .. N-1`. The selected checkpoint sections are preserved verbatim; the
+reader-reaction section is dropped by default so opinion is not mistaken for canon.
+
+Ask the authoring tool for the exact plan before loading:
+
+```
+tools/checkpoint_context.py --scene <slug> --check
+tools/checkpoint_context.py --scene <slug>
+```
+
+To audit that plan against the harness itself, resolve `N` with the `--check` command,
+then run `tools/cold_read_grounded.py --emit-prompt N`. That command prints the actual
+cold-reader packet. `checkpoint_context.py` retains its boundary checkpoint and recent
+window, but removes the reader framing and current chapter and projects the checkpoint
+to the authoring keep-set (dropping `Impression` by default).
+
+Trust those tools rather than calculating or composing extra checkpoint commands. For
+example, `--scene not-enough --check` resolves chapter N=49, boundary B=40,
+`ck-ch040`, and full clean prose ch41–48. No `ck-ch050` belongs in that topology.
+
+If the required boundary checkpoint is missing, follow the missing-checkpoint protocol
+below — offer to mint it; do not silently skip it or substitute another checkpoint.
+
+This is **read-time assembly**. It uses the same grounded checkpoint and post-boundary
+prose window a cold reader receives; it does not mint a consolidated authoring memory
+or create a summary-of-a-summary chain.
+
+## How to use it before developing beats, drafting, revising, or critiquing
 
 1. Load the `meta/` canon docs first (the Read list / `lore-keeper` prep). **Meta before
-   the checkpoint** — canon is the foundation; the checkpoint colors on top of it.
-2. Run `tools/checkpoint_context.py --scene <slug>` and bring its output into context. The
-   recent prose lands last, so it sits freshest.
-3. Draft, revise, critique, or develop beats. The per-scene `lore-keeper` prep still runs — this background load **composes
-   with** it, it does not replace it.
+   the checkpoints** — canon is the foundation; reader-memory colors on top of it.
+2. Run `tools/checkpoint_context.py --scene <slug> --check` and trust its reported
+   boundary, checkpoint, and recent window. Then run the same command without
+   `--check` and bring its complete output into context. The full recent prose lands
+   after the checkpoint, so it sits freshest.
+3. Only then draft, revise, critique, or develop beats. The per-scene `lore-keeper` prep
+   still runs — this background load **composes with** it; it does not replace it.
 
 **It is reader-memory, not ground truth.** It tells you what the reader knows and expects
 at chapter N — exactly what you need to calibrate the next chapter's reveals. Canonical

@@ -65,7 +65,7 @@ _Audited 2026-07-20 — 2 findings (1H / 1M)._
 - Conflict: uses the forbidden verbs (registers/files) to model his attention — imports the analyst-reviewing-data coolness the rule guards against.
 - Suggest: embodied/consent-logic reframe without cataloging verbs — e.g. "receives as a good moment, consent honored."
 
-_Confirmed clean:_ vow as habit not decision (155–163); honorable exits real & unprotected (19, 187–195); no verbal declaration (141); no softening / coercion / interim-cruelty; no "self-sadism" label; "hyperfocus" (231) and choice-become-habit blindness (97, 105–117) are current neurotypical-consistent canon, not drift.
+_Confirmed clean at audit time:_ honorable exits real & unprotected (19, 187–195); no verbal declaration (141); no softening / coercion / interim-cruelty; no "self-sadism" label; "hyperfocus" (231) and choice-become-habit blindness (97, 105–117) are current neurotypical-consistent canon, not drift. **Superseded 2026-09-09:** the vow is no longer universally habit-not-decision; at {{Seconds}} Pace understands Vee's declaration, wants to answer, and deliberately chooses the safer truth from guilt-laden self-protection.
 
 ### 3. meta-arch-randi.md
 _Audited 2026-07-20 — 2 findings (2M), both cross-doc reconciliation tensions. No "self-sadism"; never a warm-shell-over-cold-core (love insisted real throughout); all filenames resolve._

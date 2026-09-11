@@ -114,6 +114,8 @@ First-pass draft was captured in `seconds.md`. The revisions installed:
 
 - **The vow as silent constraint operates through his finding-and-not-finding of the next sentence.** Vee perceives him as choosing his words; the reader with the architecture available perceives the vow operating. The vow is never named.
 
+**Superseded 2026-09-09:** the revision record above accurately describes the earlier ruling, but no longer governs Pace's interior. Current canon: he understands Vee's declaration, wants to answer, knows the safer sentence is insufficient, and feels guilty and weak while choosing Daphne-conditioned self-protection. See `meta-arch-pace.md`, `meta-craft-pace.md`, and `meta-note-the-usual.md`.
+
 - **Later passage compressed.** The bus-replay was shortened from extended ambiguity-walking to a single beat (the *not the same shape* form she will let into herself without finishing the thought). The not-knowing's slow body-surfacing remains; the index-after-the-fact thesis-feel is reduced.
 
 - **Header and craft notes** articulate: Pace's response as sincere within his grammar (not evasion); the three physical signals of pressure; the vow as silent constraint; the reader's access to substrate via prior scenes (the scene does not install architecture; it relies on it); the not-finally-the-lady precursor function preserved without signaling.

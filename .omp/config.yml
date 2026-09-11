@@ -1,4 +1,6 @@
+modelRoles:
+  lore_keeper: openai-codex/gpt-5.6-terra
 task:
   agentModelOverrides:
-    lore-keeper: openai-codex/gpt-5.4-mini
+    lore-keeper: "@lore_keeper"
     blind-reader: openai-codex/gpt-5.4-mini

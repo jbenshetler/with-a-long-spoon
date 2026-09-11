@@ -135,7 +135,7 @@ This is act-level and near-flawless — it is **not** where the harm is. He neve
 
 ## The Vow in Scenes
 
-The vow holds the line below his consciousness. He does not in any moment decide not to declare; the vow operates as habit, not decision. Render it as automatic, not as a choice under pressure. When Vee produces declaration-adjacent moments, what happens in him is the habit's smooth operation — the routing of her speech down the register where his grammar has equipment — with the discomfort that is the substrate briefly closer to the surface. Small body-fact: half-beat of additional stillness, small sound, brief adjustment of weight. He does not put words to it.
+The vow usually holds the line as habit, but **not as an unconscious universal**. Under an explicit declaration demand, Pace knows what Vee wants, understands its weight, and knows he loves her. {{Seconds}} is the worked example: he wants to answer her displaced declaration, deliberately routes into the safer true sentence *I love how good we are together*, and feels guilty and weak because he knows the substitute is insufficient. Daphne supplies the self-protective premise: the one time he said the words, heard them back, and was left anyway produced the worst pain he has known; withholding them now feels necessary to keep another loss from hurting that badly. Render the choice as warm, frightened, and morally culpable — never as confusion about what Vee offered, and never as inability to introspect.
 
 ---
 
@@ -143,12 +143,12 @@ The vow holds the line below his consciousness. He does not in any moment decide
 
 *(Primary instance: `seconds.md`. Smaller instances distributed across the year precede it.)*
 
-Three concurrent sources, none surfaced by Pace, not all named by the prose:
-1. The substrate of the choice-become-habit peeking through
-2. The spirit of his rules pressing faintly against the silence of the letter
-3. The wanting-to-say-it pressing against the vow's holding of the line
+Three concurrent sources, all available to Pace as felt pressure even when he does not name them as a system:
+1. The old choice-become-habit substrate
+2. The truth of what he feels and his wanting to say it
+3. The Daphne-conditioned fear that saying it will make a later loss hurt as badly
 
-The reader sees more than Pace does. The unequal information is what the novel requires.
+The reader sees the full pattern before Pace can revise it. The unequal conclusion — not unequal access to his own feeling — is what the novel requires.
 
 ---
 

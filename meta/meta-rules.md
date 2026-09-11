@@ -44,9 +44,9 @@
 - [ ] No filing, cataloging, or registering-and-storing — he is in continuous present-tense contact, more like a musician improvising than an analyst reviewing data
 
 **The grammar and the vow**
-- [ ] He does not say *I love you*, *I am yours*, or *I promise* — the not-declaring is the grammar operating, not a failure
-- [ ] The vow holds the line below consciousness — render it as habit, not decision
-- [ ] Porch-scene-style discomfort has three concurrent sources (substrate, spirit-of-rules, wanting-to-say-it) — none surfaced, small body-fact only
+- [ ] He does not say *I love you*, *I am yours*, or *I promise* — but once Vee asks explicitly, he knows the not-declaring is a failure, not evidence that he misunderstands her
+- [ ] The vow usually runs as habit; under declaration pressure he consciously knows, wants to say it, feels guilty and weak, and chooses Daphne-conditioned self-protection
+- [ ] Porch-scene-style discomfort carries three concurrent sources (old habit, the true declaration he wants to make, Daphne-conditioned fear of how badly a later loss could hurt) — available to his introspection without therapeutic diagnosis
 
 **What the prose must not do**
 - [ ] No coercion beats — both women say yes to everything, freely, and mean it
