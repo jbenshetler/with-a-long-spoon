@@ -1,0 +1,23 @@
+*capture-dag-v2-rich · gate ch062 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+
+**REACTION**
+
+God, this book. This book knows exactly what it's doing to me and it did it again.
+
+The waiting room did me in before anything happened — the two girls, and Vee sitting between them understanding which one she is. "The private maintenance of that, the part nobody saw, the part that was for one set of hands." That's the whole chapter in one image and also, I realize, the whole book: Vee learning that wanting has a domestic layer, an errand layer, that desire shows up on a Tuesday afternoon in a strip-mall waiting room with green apples nobody's meant to eat. That's the truest thing about how appetite actually lives in a body and most books never get near it.
+
+And the wine joke — *you're going to want me drunk for this?* — the reflex rising and her *not taking it*. I've been watching that half-inch hover all book, the joke that sets her above the moment, and here she declined it. Took the wine instead. That's growth rendered as a beverage choice and I felt it in my chest.
+
+The wax itself. Okay. I've read a hundred scenes like this that were just endurance-porn, pain delivered as proof of submission, and this one kept refusing that. The "Fuck—" tearing out of her — the girl who says sorry to furniture, and the wax took the words off with the hair, "the plain animal size of it." And then the wrong hand. That's the paragraph I'll be rereading. Sondra's palm pressing her thigh flat — "It held her the exact way she wanted to be held and it did not want her at all" — a hole a mile across where the right hand should be. Because her body knows Pace's grammar now, knows *being pressed down and told to hold still* as a language of wanting, and here's the shape with everything true scooped out. That's not a scene about pain. That's a scene about what submission actually is versus what it can be counterfeited as, and the book knows the counterfeit is the worse violation precisely because nothing is being taken. Nobody's doing anything *to* her. That's the horror and the thesis.
+
+The roll-over moment — I flinched. Randi said *barely stings* and not one word about the back, and "the part Randi hadn't said." My handler-radar went up and then got complicated, because is it a lie or is it just how Randi teaches — one road further along, always, holding the map back so the road stays interesting? "It was restful, being told." That sentence scared me more than the wax did. Vee's whole education with Randi runs on the pleasure of not asking what the whole of it is, and the book just showed me the cost of that in a bright room where she could have said no and didn't, because "she was already so far past every line she'd have thought to draw that another line seemed like a joke." And the worst sentence — "a thing only Vee had somehow failed to understand she'd been agreeing to." I don't think Randi engineered that. I think Randi just knows Vee well enough to predict it, which is nearly the same thing and not, and the book keeps making me hold both.
+
+What saved it, what kept it hot instead of grim: the ending. Alone, no one's hands on her, her own fingertips on the bare new smoothness, and the sound she made "was not one of pain" — and then it goes straight to *his* hand, the weekend, him learning by touch what she went and did for him. The want survived the procedure. The want is the point. And "the most expensive thing in the room, and no one in it knew but her" — Randi was right about that much, and the chapter earns the line by making it cost something real first.
+
+I notice what's missing, and I notice I don't mind: Randi wasn't there, Pace wasn't there, and Vee did the wanting entirely in her own head, on her own tabs. Her body "done what it always did — announced her before she could get a hand over its mouth" — and she *kept* it, kept the lit ruin behind her teeth, saved it for him. She's learning to own what she holds back as much as what she gives. I'm a mark, I know. The book keeps winning my wallet and I keep handing it over.
+
+**GATE 62 — Barely Stings**
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: "as though this were a thing everyone knew... a thing only Vee had somehow failed to understand she'd been agreeing to" — the roll-over beat sat cold in me for a full paragraph, the shaped trap of an unspoken whole
+WHY: The wrong-hand paragraph is the most exact thing this book has done about what desire is versus what it's counterfeited as, and the ending proved the want — not the pain — is what the chapter was for. Vee's yes keeps being hers, and the book keeps charging me full price for it in the best way.

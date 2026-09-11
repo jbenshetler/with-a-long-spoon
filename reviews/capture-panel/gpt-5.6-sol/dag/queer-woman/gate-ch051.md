@@ -1,0 +1,19 @@
+*capture-dag-v2-rich · gate ch051 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+
+REACTION — Oh, this got me. Vee waking naked and delighted in her own body, refusing the sweats because the girl in the mirror looks magnificent, laughing when everything moves—that is exactly the freedom I have wanted for her. The “pleasure princess” correction matters enormously. She tries on the degrading fantasy because it excites her, then checks it against the actual facts and discovers that the service runs toward her. She isn’t pretending powerlessness; she is playing with it from a position of extravagant care. And then she gets to command him, tease him out of sequence, make him burn the toast, point to where she wants his mouth, and enjoy being obeyed. I loved her shamelessly. “Everything on offer and nothing yet granted” is the whole erotic ethic of these two when they are at their best.
+
+Also, “That’s the plan” made every hair on my neck stand up. Vee hears domestic-erotic banter. I hear the literal secret sitting cheerfully in the sentence, protected by her ignorance. The chapter keeps giving me this unbearable double exposure: her happiness is real, Pace’s devotion is real, and the architecture around both is still lying to her.
+
+The sex was intensely hot because Vee’s appetite keeps outrunning the role she invented. Her imperious pointing deteriorating into an unsteady plea; “Bad slave”; the pleasure princess losing every scrap of regal composure—yes. That feels like play rather than the book trying to prove she is secretly helpless. Pace understands the difference too. The instant her disgusted “no” appears, he stops and begins withdrawing. When she clarifies, he resumes, but leaves her mouth entirely alone until she chooses it again. That tiny sequence did more for my trust in him than another speech about consent could have.
+
+And God, the kiss. Her tongue saying yes before the inherited voice can call it wrong landed very close to home. This is the exact bodily sequence I believe in: curiosity first, prohibition arriving afterward and pretending it was always there. The book does not make Pace argue her past the prohibition or eroticize himself as the man who knows her better. He lets her mouth wait for her. Then she returns because she wants to, searches because she wants to, comes because some part of her is reaching toward the thing she just named disgusting. That is desire rendered from inside, including the shame fused to it, and I felt the truth of it.
+
+What scares me is the shape of the thought afterward. Vee finds the kindest possible explanation—he forgot to wipe exactly once—and settles into it even while her tongue keeps searching and the real question stays lit underneath. This is the same repair instinct again: an unsettling fact appears, she manufactures an explanation that preserves the whole, and her body continues knowing more than she permits herself to know. Except this time the forbidden wanting is unmistakably hers. Nobody installed that little search of her tongue.
+
+And then: she’ll tell Randi. Of course she will. The woman who wants Vee will be asked to interpret Vee’s dawning fascination with tasting herself from Pace’s mouth, immediately after having designed the encounter that put Vee naked in his bed. “Randi always did” is no longer comforting to me. It is a horror-movie closing line wearing a friendship bracelet. I am dying to see Randi’s face when Vee tells her, and deeply afraid of how much concealed information Randi will use to decide what Vee’s desire means for her.
+
+GATE 51 — Missed a Spot  
+DECISION: CONTINUE  
+CAPTURE: 10  
+ALMOST-STOPPED: none  
+WHY: Vee’s pleasure belongs completely to her here—even when it surprises and embarrasses her—and the chapter trusts her body without making Pace override her mind. That final turn toward Randi has me by the throat.

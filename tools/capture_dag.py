@@ -51,7 +51,11 @@ def volume_one_count() -> int:
 
 
 def slugs() -> list[str]:
-    return checkpoint_bundle.volume_scenes.volume_one_slugs(drafted_only=True)
+    """The full drafted cross-volume sequence (Vol 1, then Vol 2, then Vol 3),
+    so a reader can be run on past the Volume 1 boundary. `--to` bounds the run
+    and defaults to `N_CH` = the drafted Volume 1 length, so a bare invocation
+    still reads Volume 1 only."""
+    return checkpoint_bundle.reader_slugs()
 
 
 N_CH = volume_one_count()
@@ -227,7 +231,7 @@ def make_agent(model_id: str, effort: str):
 def assemble(model_id: str, persona: str) -> Path:
     d = dag_dir(model_id, persona)
     parts = []
-    for n in range(1, N_CH + 1):
+    for n in range(1, len(slugs()) + 1):
         gp = gate_path(d, n)
         if gp.exists():
             parts.append(clean_markdown(gp.read_text(encoding="utf-8")).rstrip())
