@@ -12,7 +12,7 @@ Volume Two is the middle rung of one arc, not a self-contained story:
 - **Spring / *A Warm Reception* — the appetite, named.** Vee comes home to her *wanting* — the taste, and the want for Randi — all the way to saying it out loud, voluntarily, to Pace: the undoing of the {{Boyfriend}} lie ("I'm not gay," and the lie when he asks straight) — the crisis forces the question she's been dodging → the break's semi-shared honesty → the voluntary saying at the bench. She joined the word-withholders in that lie; spring un-grays her — his vow holds all year, she breaks her own silence, and the asymmetry does quiet thesis work. She actually wants Randi; the spoken version is the naming Vee can survive, and it is to Pace only — Vee-to-Randi stays unsaid forever (operational muteness). **Naming, not acting.** The bloom is real, and it is being grown for the cutting.
 - **Summer — the act.** The want framed and acted: the relocation attempts → the {{With You}} conversion → {{The Threesome — Agreement}} → the act, the reveal (`meta-plan-summer.md`).
 
-The load-bearing boundary is **spring = the want named; summer = the want framed and acted.** Saying the bare want (spring) is a different gate from framing it and doing the deed (summer). Spring carries Vee all the way to the naming with no frame built and no deed chosen — which is why the {{With You}} conversion and the Agreement belong to **Volume Three**, not this curtain.
+The load-bearing boundary is **spring = the want named; summer = the want framed and acted.** Saying the bare want (spring) is a different gate from framing it and doing the deed (summer). Spring carries Vee all the way to the naming with no frame built and no deed chosen — which is why the {{With You}} conversion, {{The Threesome — Agreement}}, and the reveal/no-road-back consequence belong to **Volume Three**, not this curtain. Volume Two is therefore not a reckoning volume; it is the middle rung that hands the appetite forward.
 
 ## The dramatic question
 
@@ -96,5 +96,6 @@ All of the above are decisions, and decisions revise; these are the ones activel
 
 - **Earn the bloom.** Dig Vee in deep — the social bloom is load-bearing so the spring / summer escalation reads as believable, not folly.
 - **The want named, never framed or acted.** Spring renders the *wanting* owned and, at the curtain, named bare; the frame and the deed are summer's. Don't let "more honesty to Pace" drift toward anything that would make Vee ask how Randi and Pace really know each other.
+- **Warm is not permission.** The curtain may land warm, but not as permission, authorization, or absolution: Vee's named want is real and hers, while the architecture that made it available remains hidden and cultivated. Let the reader enjoy the bloom without letting the naming read as the clean authorization Pace and Randi needed.
 - **Cassie stays warm.** The cost is the withholding, never coldness; her breathing is structural, not decoration.
 - **Randi's aperture stays narrow.** The crisis cracks her once (need she cannot show) — it does not convert her into a girlfriend or explain her on the page.

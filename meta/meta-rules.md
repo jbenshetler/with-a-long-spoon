@@ -4,6 +4,8 @@
 *For the reasoning behind any rule, open the relevant craft or architecture file.*
 *Run this checklist against any draft scene before considering it complete.*
 
+**Forward-only guard convention.** A guard marked *forward-only* constrains drafting/review only after its named effective boundary (scene/title/date); it must not trigger retrospective edits or review objections to earlier scenes unless the author explicitly asks. Record the actual guard in the owning meta/track/scene-note doc, with the boundary in the bullet itself. This checklist is the routing rule so future assistants know how to treat those guards; the owning doc carries the substance.
+
 ---
 
 ## VEE
@@ -49,9 +51,10 @@
 - [ ] Porch-scene-style discomfort carries three concurrent sources (old habit, the true declaration he wants to make, Daphne-conditioned fear of how badly a later loss could hurt) — available to his introspection without therapeutic diagnosis
 
 **What the prose must not do**
-- [ ] No coercion beats — both women say yes to everything, freely, and mean it
+- [ ] No coercion/local override beats — both women say yes to the stated terms freely, and mean it
 - [ ] No interim cruelty — he does not hurt Vee until the final hurt; harm is structural, not local
 - [ ] Do not soften him to reduce culpability; do not exaggerate him to increase it
+- [ ] Do not let Pace's trauma, tenderness, restraint, attention, or private suffering pay the debt — suffering is not accountability; tenderness is not exoneration
 - [ ] Do not write scenes in which no honorable option was available — the options were available; he did not take them
 - [ ] The available honorable exits (disclosure, refusal, harder questions) were real — prose must not protect him from this
 - [ ] Damage produced organization, not disorder — no residual flashes where the father's voice surfaces

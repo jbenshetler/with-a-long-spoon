@@ -156,7 +156,7 @@ Every scene-level decision can be tested against these.
 
 2. **The competence stays at full strength, and is the instrument of the destruction.** Pace's attention, Randi's social intelligence, Vee's bravery — all at peak. The destructiveness is visible through the appetites operating at full strength, because the competence and the destruction are the same operation seen from two angles. Write Pace as a noble man whose nobility is the instrument of the damage, not a flawed man whose virtues happen to coexist with a destructive appetite.
 
-3. **No coercion beats.** All three consent freely throughout. The argument is that *no consent violation occurs* and the destruction proceeds anyway; coercion would let the reader off the hook.
+3. **No coercion beats; all stated yeses are real.** All three consent freely to the terms they are given throughout: no force, no local override, no coercion beat. The argument is not that ordinary coercion occurred; coercion would let the reader off the hook. The final rupture exposes what Pace's architecture could not measure: a freely given yes can still fail under withheld material relationship information.
 
 4. **No interim cruelty.** No small cruelties planted to foreshadow. The catastrophe is structural, not local; foreshadowing through cruelty would suggest it was traceable to particular bad acts.
 
@@ -193,7 +193,7 @@ Every scene-level decision can be tested against these.
 
 16. **Both transformations are real; the asymmetry is what the apparatuses do with the deposit.** Vee integrates because she has always had the relational equipment hunger requires; Randi does not because hers was organized against producing hunger at all. Hold the parallel without surfacing the chiasmus. The asymmetry is architectural, not moral — do not moralize it.
 
-17. **Pace had honorable exits and did not take them.** Disclosure, refusal, harder questions — all available, none paternalism. The harm-two was avoidable. Do not protect Pace from this: no scene should treat the betrayal as structurally unavoidable. He did not avoid it because his architecture made the path he took feel principled.
+17. **Pace had honorable exits and did not take them; private suffering does not pay the debt.** Disclosure, refusal, harder questions — all available, none paternalism. The harm-two was avoidable. Do not protect Pace from this: no scene should treat the betrayal as structurally unavoidable, and no scene should let his trauma, tenderness, restraint, attention, or private suffering pay the debt. Sympathy is recognition, not exoneration; **suffering is not accountability** and **tenderness is not exoneration.** The no-road-back reveal note owns the ending mechanics; this rule owns the test that those consequences cannot be prepaid or replaced by what Pace feels privately.
 
 18. **The excellence is excellent at 95%, not perfect.** Small ordinary lapses live in the 5%, in registers the architecture does not monitor. Render them as the texture of a real person without flagging them as failures and without pretending they are not happening. They sit beside the architecture; they do not undermine it.
 
