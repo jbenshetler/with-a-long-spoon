@@ -32,7 +32,7 @@ He missed watching her arrive. He missed the moment she looked up from the turn 
 
 Once she was inside, the hours passed through the house in their ordinary order. At night she would get out of bed and walk barefoot toward the bathroom, wearing one of his shirts or nothing, her backside easy and unguarded, no performance in it. In the morning he would rise first and leave her sleeping in the middle of his bed, red hair over the white cotton, her face emptied of every question. Later she would come to the kitchen and sit at this table, and he would set something before her and watch the first bite reach her.
 
-The first bite always told him. Her face opened before she spoke. Surprise, then pleasure, then the look that said she had found the whole idea under the food and understood what he had made for her. He never watched to measure himself. Her pleasure arrived before her words, visible and unguarded.
+The first bite always told him. Her face opened before she spoke. Surprise, then pleasure, then the look that said she had found the whole idea under the food and understood what he had made for her. Her pleasure arrived before her words, visible and unguarded.
 
 On the porch she had told him about crackers and a meal.
 
@@ -64,7 +64,7 @@ For a long time there had been nothing after her. Other women came eventually. A
 
 He never told any of them he loved them.
 
-With Daphne he had said it, and losing her had taken over his life. After her he had kept the words to himself, and loss had remained survivable. He had taken the wrong lesson and made a rule of it.
+With Daphne he had said it, and losing her had taken over his life. After her he had kept the words to himself, and loss had remained survivable. He had taught himself that the words were the difference.
 
 Then Vee came.
 
