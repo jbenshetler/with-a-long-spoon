@@ -1,19 +1,17 @@
-*capture-dag-v2-rich · gate ch041 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch041 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
 
-REACTION — 
+REACTION — Oh, this one is quiet but it has teeth in a different place. Not sex-teeth, not the fun dangerous kind, but family/visibility teeth. The cropped photo coming back around is perfect because that whole induction image has been split into versions: parents get waist-up honor-society daughter, Pace gets all of her, Randi gets needled into seeing “all of it,” and Cassie, accidentally, owns the origin image without understanding the full voltage. Vee is living inside edits now. Everyone gets a crop.
 
-Oh, this was quiet, but it hit a nerve I actually care about: the cropped life versus the real one.
+Her dad looking at the dress made my stomach do that little warning turn. Not because he knows, exactly, but because fathers in books like this sometimes sense the edge of the thing before anyone gives them facts. “Too good is its own kind of suspicious” is the chapter’s little blade. Yes. Exactly. Pace is almost too perfectly arranged for her, and the thing that makes it hot is also the thing that should make someone outside the spell narrow their eyes.
 
-The induction photo stopping at the waist is such a perfect little sin. Not because it’s shocking, but because the whole chapter is about Vee learning how much of Pace cannot be translated for ordinary people. Her parents can have the honor society girl, the pretty dress, the boyfriend with the math doctorate, the hiking, the dancing. They cannot have the slit to the hip. They cannot have bare underneath. They absolutely cannot have the man on the sun porch sewing the exact fantasy dress into existence like a spell.
+And Pace sewing the dress still gets me. I know my tastes; I’m not here for cozy domestic competence unless it comes with possession stitched into the hem, and this does. He didn’t just buy her something. He made the object that let her become visible, desirable, exposed, ceremonial. That is intimate in a way that almost embarrasses me more than the undressing. Vee saying her dad would understand Pace taking it off better than Pace making it is so real and so revealing. The making is stranger. The making says: I imagined you before you arrived inside this moment.
 
-And honestly, that part got me more than I expected. “Pace made the dress” is so intimate it almost feels obscene. Not wholesome-obscene. Possessive-obscene. He didn’t buy her beauty, he constructed a scenario around her body from something she once wanted and couldn’t afford. That is the control I like from him: he listens like a predator with patience, stores the want, returns it as a trap she walks into smiling.
+Cassie is still the clean knife. “So what is he. Not to your dad. To you.” Thank you, Cassie, for standing there with the fluorescent cafeteria lights on and asking the question nobody inside the heat wants to ask plainly. And Vee not having an answer that fits Cassie’s frame is exactly where the book still has me. Because he is boyfriend, yes, but also handler, maker, keeper, teacher, almost-owner, chosen danger. She can’t say that over cafeteria trays. She can barely say it to herself.
 
-Cassie asking “So what is he… To you” made me tense up, because Cassie keeps putting her finger directly on the bruise without knowing the shape of it. And Vee having no word that fits is the whole thing. Boyfriend is ridiculous. Lover is too small. Dom isn’t quite right, because the book is too sly and domestic and psychologically tangled for a label to hold it. Owner? Maker? Witness? The man who gave her a drawer and a dress and a body she can’t lie about? She can’t say it because saying it in Cassie’s clean cafeteria light would either shrink it or expose it.
+Did this chapter pull me as hard as the Randi/brunch/spanking chapters? No. I did miss the erotic current being closer to the surface. But I like that the book is tightening the outside world around the secret. The pressure is coming from ordinary people now: parents, Cassie, cropped photos, words that don’t fit. That matters because the secret plan needs witnesses before it detonates. I’m still here.
 
-Did I miss teeth? Yes, a little. This is more aftermath than escalation, and my dark-romance appetite does start tapping its nails when we spend too long with families being sweet and fathers being proud. But the chapter earns the quiet because it’s tightening the double life. The cropped photo is the warning: Vee is already editing reality to preserve the spell. That’s dangerous. That’s how the lie gets room to grow.
-
-GATE 41 — Cropped  
-DECISION: CONTINUE  
-CAPTURE: 7  
-ALMOST-STOPPED: "Good to see my parents. My sister has the new baby, so it was all baby, the whole time."  
-WHY: The family dinner material nearly wandered into too-normal for me, but the cropped photo and the impossibility of explaining Pace pulled it back. I’m staying because Vee’s life is now visibly split between what can be shown and what must stay hidden, and hidden is where this book keeps its heat.
+GATE 41 — Cropped
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: "Good to see my parents. My sister has the new baby, so it was all baby, the whole time."
+WHY: The opening made me brace for wholesome Thanksgiving decompression, which is not why I bought this ticket. But the cropped photo and Cassie’s “what is he” question brought the danger back through visibility and omission, and Pace sewing the dress remains weirdly hotter than it has any right to be.

@@ -1,17 +1,23 @@
-*capture-dag-v2-rich · gate ch030 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch030 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
 
-REACTION — Oh, Randi knows exactly what she is doing. “His hand was wet” made my stomach drop, because she takes one casually omitted detail and uses it to put Vee bodily back in the kitchen. She doesn’t merely invite confession; she reconstructs the sensation for her until Vee’s voice changes. Then she sees the arousal happen and feeds it a story shaped precisely around the new appetite. That is terrifyingly intimate. Also extremely hot. I resent how well it works on me while I’m watching the machinery.
+REACTION
 
-And Vee getting herself wet from a woman’s words, fleeing to a locked bathroom, then physically stopping her own hand because touching herself would mean admitting what she wants—yes. That is the exact psychological threshold I’ve been waiting for. Her body has now stated the truth so plainly that “French friendliness” is becoming untenable. She isn’t just fascinated by Randi’s sophistication or borrowing her confidence. Randi can arouse her without touching her, and Vee knows it. She just refuses to let the knowledge become a yes.
+Oh, Randi knows. She knows exactly what Vee discovered in that kitchen, knows exactly how to put her fingers into the still-unnamed want without touching her at all, and then knows exactly when to become breezy and innocent again. “His hand was wet” made my stomach drop. That wasn’t a friend following a story. That was a woman reconstructing the scene so precisely she could put Vee back inside her body and watch what happened.
 
-The awful part is that Randi almost certainly understands all of this. She gives Vee the spanking story, watches it land, and then has her phone out when Vee returns, perfectly easy, leaving Vee unable to prove anything happened. That plausible deniability is Randi’s real kink at this point: she opens Vee, steps away, and lets Vee blame herself for being open. “Sometimes it’s the mouse that roars” also feels suspiciously like another disguised fragment of Pace, especially after we have just seen Randi riding him and talking about Vee in his bed. If so, she is once again passing their shared sexual history off as reciprocal girl talk while privately using it to train Vee’s desire.
+And what happened was Vee getting soaked from Randi talking to her. Not Pace, not even really the memory of Pace by the end. A woman sitting across from her, telling her about a man who almost certainly never existed, watching her nipples tighten, choosing *welcome* as the word that would finish the job. Then Vee fled to a locked bathroom and had to physically stop her own hand. Girl. We are done pretending this is a quirky affectionate friendship. Your body has filed its paperwork.
 
-I also felt Cassie’s quiet exclusion sharply. Vee arrives between both women and immediately chooses Randi—touches her wrist, takes her away, tells her the bodily truth. Cassie gets “see you in the room” while Randi gets the soundproof closet. That hurt because Cassie is still the friend who would come collect Vee in pajamas at midnight, and Randi is becoming the person Vee cannot resist confessing to precisely because Randi turns confession into erotic experience.
+I’m wildly turned on and also furious, because Randi’s technique is so beautiful and so dishonest. She lets Vee offer the first piece herself, then asks one exquisitely chosen question—“Did you deserve it?”—and suddenly Vee is consenting to a whole erotic framework she didn’t know she wanted. Then Randi supplies a fantasy tailored exactly to it and leaves Vee to discover the physical answer alone under fluorescent lights. And afterward: phone out, bag on, *all better?* That casualness is nearly cruel. She absolutely meant something by it. She just refuses to be the person who has to admit what.
 
-My one real irritation is that the entire reconciled weekend with Pace is again compressed into “And then we, you know.” The book keeps bringing me to explicit physical thresholds and then occasionally getting coy about the sex I was promised. But this chapter earns its heat elsewhere. The image that stays is Vee holding her own hand against her knee in that locked bathroom, refusing to call her body’s answer an answer—and then returning to kiss the woman who caused it as if that kiss means nothing.
+The most painful little thing was Vee choosing Randi this time. Two fingers around her wrist, walking past Cassie, finding them a private room because she needs to tell Randi “the whole thing.” Randi no longer has to steer her away from the herd. Vee does the steering herself now. That is the seduction working—and it’s also real intimacy, which is why I can’t dismiss it as manipulation and go comfortably hate Randi. Vee wants her. Randi wants Vee so badly she’s turned Pace’s hand on Vee’s body into something she can participate in by proxy. They are both circling the truth; only one of them knows the circle was drawn in advance.
 
-GATE 30 — The Practice Room  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “And then we, you know.”  
-WHY: I am tired of the book blurring Pace and Vee’s sex, but Randi talking Vee into visible, undeniable arousal is exactly the dangerous psychological heat I came for. Vee’s explanations are failing now, and I absolutely need to see what happens when she can no longer pretend they still work.
+And that final hug nearly hurt. Vee’s arms staying up after Randi has already stepped away is the whole problem in one image. Randi knows when to release. Vee doesn’t yet know she was holding on.
+
+Also, the lecture’s second kind of outlier—something entering through the part that carries forward and changing everything afterward—is sitting there flashing red. The spanking may be the obvious new thing in Vee’s desire, but Randi is the deeper one. She is already in everything that comes after.
+
+I would text a friend: “VEE GOT WET LISTENING TO RANDI DESCRIBE A SPANKING AND THEN TOLD HERSELF IT WAS ABOUT PACE. Ma’am, the call is coming from inside the piano closet.”
+
+GATE 30 — The Practice Room
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: none
+WHY: This is exactly the collision I’ve been waiting for: explicit heat, genuine interior discovery, and manipulation so tender I can’t separate the seduction from the betrayal. Randi just brought Vee to the edge without laying a hand on her, and I need to see what happens when Vee finally understands whose attention she was responding to.

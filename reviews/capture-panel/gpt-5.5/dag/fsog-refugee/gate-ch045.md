@@ -1,21 +1,25 @@
-*capture-dag-v2-rich · gate ch045 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch045 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, this one hurt in exactly the place the last few chapters had been pressing. I was so ready for him to answer her. Not even with the big romantic speech, honestly. I would have taken awkward. I would have taken “girlfriend” said like he had to learn how to use it. I would have taken “mine, and I’m yours” if he could say it cleanly. But he gave her the house again. The chicken. The porch. The wine. The whole beautiful enclosure. And that is the problem now, not the cure.
+Oh, that hurt. That hurt in the exact place the last two chapters had been pressing on, and I’m almost relieved she finally made it hurt out loud instead of letting it keep eating her alive in the dark.
 
-The thing that got me is that she finally asks the right question. Not “do you care,” because he obviously cares. Not “is this good,” because it is good. She asks what it is outside the door. That is so adult and so heartbreaking: what do I call the best thing in my life when I have to carry it into daylight? And he cannot give her the language. He keeps trying to make deeds outrank words, and usually I am such a sucker for deeds. I have been letting the drawer and the shirt and the food and the heat of the house stand in for so much. But she’s right. Words are cheap and he still won’t spend them. That line landed like a slap.
+Because this is the thing: I believe him. I do. I believe she is the most important person in his life. I believe every warm room, every poured glass, every meal already going on the stove, every careful hand. I believe that man has built his whole language around doing love. But I am with Vee completely here: if words are cheap, why can’t he give her one? Why can’t he pay that tiny price for the woman standing in his doorway crying?
 
-And I am angry at him now in a cleaner way than before. Because “You’re the most important person in my life” is not nothing. It should have been something. In another chapter, at another time, I might have melted. But here it is evasive because it refuses the social shape. It keeps her precious inside his private world and unnamed outside it. And for someone like Vee, who has been learning her desire is allowed to exist, that matters. She needs not just to be wanted in the warm house. She needs to be claimable in language.
+“Believe what I do” would have worked on me twenty chapters ago. It did work on me. It has been working on me. The drawer, the flannel, the heat turned up before she arrives, the house made ready for her like devotion with plumbing and lamps. But now the book has made me feel how awful it is when a woman has to translate all of that alone, privately, endlessly, and can never hold it up in daylight. He has made her feel cherished beyond anything she has known, and somehow left her unable to say what she is.
 
-The worst part is I still believe him. I believe every bit of the heat being raised for her. I believe the food on the stove. I believe his face opening when she comes in. That’s why this is so awful. If he were just withholding to control her, I could throw him away. But it feels more like he has built this whole tender, exact world where he can act love and somehow refuse to say love, and he thinks that makes him honest. It doesn’t. Not anymore. Not when she is crying in the doorway.
+And the worst part is that he isn’t dismissive. He isn’t cruel. He isn’t sneering at her need. He is taking the question seriously and still refusing the part she actually asked for. That makes it more devastating, honestly, because I can’t toss him into the “bad romance man” bin and be done. He is standing there at cost, holding some line inside himself, and I can feel that it matters. But Vee is paying for that line too, and she never agreed to pay it.
 
-And Vee leaving without the bag, without the kiss, without letting his hands fix it — yes. Yes, girl. That was the only way to keep herself from being soothed out of the question again. His hands are too good. His house is too good. His care is too good. If she had let him touch her, he would have answered her body and not her actual sentence, and she knows that now.
+The line that broke me was: “Words are cheap, and you still won’t spend them on me.” Yes. Yes, exactly. That is the whole wound with the skin taken off. I wanted to shake him. I wanted to beg him. I wanted him to cross the room and say girlfriend, beloved, mine, love, something, anything that could live outside that house. And instead his arms fold. The gesture itself felt like a door shutting.
 
-I’m still continuing, but I’m braced. The secret plan is sitting under all this like a floorboard giving way. If he cannot even name what she is to him when the relationship is this real, what is he going to do when the original manipulation comes into the room? And Randi is out there too, probably with exactly the kind of words Vee is starving for. That scares me.
+And then his hand reaches. Oh, Pace. No. Not the hand in place of the word. That sentence killed me because it named the entire pattern: his touch is beautiful, his touch is safe, his touch has taught her herself, and still there are moments when touch becomes a dodge because it is the only answer he will allow himself. I don’t think he means it as manipulation. But intention is not everything. Sometimes tenderness can still fail a person.
 
-GATE 45 — Believe Me  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: "Words are cheap, and you still won't spend them on me."  
-WHY: This chapter gave Vee the spine I needed her to have, and it made Pace’s silence finally cost him something. I’m furious with him, but I’m not done, because the tenderness is real and now the book is forcing the consent/emotional-truth problem into daylight.
+I’m proud of her for leaving. I hate that she had to. I hate that the cold outside is worse, because of course it is, and she still goes. That feels like the first real refusal she has made against the warm machinery of him. Not against his care, exactly, but against being soothed out of needing what she needs.
+
+And under all this, the secret plan is starting to feel unbearable. If he cannot even name what she is to him while hiding nothing, how much worse will it be when she learns he and Randi named her before she ever got to name herself? I am still reading, absolutely, but my trust has shifted. I trust Pace with her body. I no longer trust him with her not-knowing.
+
+GATE 45 — Believe Me
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: “Words are cheap, and you still won’t spend them on me.”
+WHY: This chapter hurt me in the way that makes me lean closer, not leave. Vee finally asks for the name, the daylight shape, and Pace’s refusal is not romanticized; the book lets it be a real failure of care. I need to see whether he can meet her in words, not just warmth.

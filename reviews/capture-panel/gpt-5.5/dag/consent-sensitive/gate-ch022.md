@@ -1,17 +1,23 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch022 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — Oh, this one made me sit up because it looks so light and social and happy, and then the chapter just quietly slides the knife in with *statistics*. Same numbers, different grouping, opposite truth. I see you, book. I see what you’re doing.
+REACTION —
 
-Vee between Cassie and Randi in class is deliciously uneasy. On one side Cassie reads the made bed and looks straight past the dress to the friend. That “Was it a good night?” got me more than all the teasing, because Cassie is not titillated first. She is checking whether Vee is okay. She doesn’t have all the facts, but her attention is clean. She cares about the effect, not the spectacle.
+Oh, this one made me nervous in a quieter way than the sex chapters do.
 
-And then Randi. God, Randi is so good at making possession feel like celebration. “Tell me everything. Leave nothing out.” In public, in a classroom, while already knowing more than she should. The “lucky slut” is hot because Vee receives it in her body, but it also lands as a claim, a little brand, and I do not trust it. Randi spots the weak place immediately: the missing shoes. She turns it into a date before Vee can even feel lack for long. “Don’t you dare tell me no” is playful, yes, but coming from *her*, with the whole hidden arrangement behind her, I cannot hear it cleanly.
+Because on the surface it is all sparkle: Vee in that afterglow where ordinary time can’t touch her, late to class and glowing through it, wanting to pour herself out between the two women who matter most. I liked her so much here. That feeling of being “underslept and overfull” is exactly the dangerous sweetness of early erotic happiness, when your whole body is carrying a secret and you want everyone to know and also no one to know. She’s adorable, honestly. Lit from inside. And I believed every second of it.
 
-What I loved is that the chapter knows the difference. It lets Vee be genuinely happy. It lets the friendship triangle feel warm and sparkling. But it also gives me Simpson’s paradox sitting there like a thesis statement: every individual piece can look consensual, generous, tender, even freeing, and when you aggregate the hidden structure, the meaning changes. Same numbers. Nobody touched one of them. That is exactly the consent problem here.
+But the classroom setup got under my skin. Cassie and Randi on either side of her, the seat left open, Vee “happy in the middle.” That is such a warm image and such a trap image at once. Cassie sees the friend. Randi sees the opportunity. And Vee can feel both as love because, in the moment, both are giving her something she needs.
 
-So I’m still in. More in, actually, because the book is not asleep at the wheel. It is practically putting a red dot under the thing I’m scared of.
+Cassie just about broke me with “Was it a good night?” She doesn’t need details. She doesn’t care about the dress as object, the sex as gossip, the glamour as performance. She is watching Vee’s face and checking whether her friend is well. That is the cleanest love in the book right now, and it made me feel very protective of her too, because she is being kept outside the real architecture.
 
-GATE 22 — All Told  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: “Don’t you dare tell me no.”  
-WHY: Randi’s pressure is starting to prickle hard, especially because Vee experiences it as warmth before she can question it. But the chapter’s Simpson’s paradox frame tells me the book knows exactly how “all freely chosen” can still become something darker in aggregate.
+Randi saying “You lucky slut” is the needle-prick. It’s affectionate, yes, and Vee receives a lot of that register as permission. But Randi knows exactly where to touch the shame/heat circuit. She may not mean harm in every micro-moment, but she keeps finding the erotic hinge and pressing it. Then the shoes. Of course Randi supplies the missing piece. Of course the problem becomes “a date.” Pace made the dress, Randi completes the public woman. Between them, Vee’s transformation is being furnished from both sides.
+
+And Simpson’s paradox, come on. Same numbers, different aggregation, whole truth reversing when you change the frame. That is not subtle, and I don’t mean that as a complaint. It’s the chapter turning to me and tapping the glass. Each yes, locally, is real. Each moment, viewed alone, looks like Vee choosing. Put the data together differently and you get another answer. Same numbers. Nobody touched one of them. I actually got a little cold there.
+
+So yes, I’m still in. The book knows. It absolutely knows. It is letting Vee be happy without letting me forget that happiness can be structurally engineered. That’s the exact knife-edge I signed up for, apparently, because I am stressed and hungry and annoyed that I don’t have the next chapter already in my lap.
+
+GATE 22 — All Told
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: This chapter didn’t have the raw heat of the last one, but it tightened the whole machine around Vee in a way I could feel. Cassie’s plain care, Randi’s bright steering, and Simpson’s paradox all in one room made the consent problem sharper, not softer, and the book still seems fully aware of what it’s doing.

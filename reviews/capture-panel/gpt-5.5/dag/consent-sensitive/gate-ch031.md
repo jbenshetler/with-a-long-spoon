@@ -1,23 +1,25 @@
-*capture-dag-v2-rich · gate ch031 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch031 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, this got me. This is the version of the dress moment I wanted and feared: not Pace’s eyes, not Randi’s hands, not the sorority machinery yet, but Vee alone in the room with the thing they helped make her into, and then choosing what to do with it.
+Oh. Okay. Yes. This is why I stayed.
 
-And I’m relieved by how much of it is hers. That second step. That mattered to me. She could have protected herself, could have let the dress be a secret she endured, but instead she makes a tiny, ferocious decision in public and feels the power of it. Not because someone told her to. Not because Pace was watching. Not because Randi cued her. She wanted the dress, she understood the risk, and then she decided to let the room see her leg. That is the kind of erotic self-recognition I stay for.
+I was braced for the induction to be a trap-door chapter, honestly. The dress, the shoes, the no-underwear necessity, the public room, the fact that Pace made the garment and Randi completed the look and Vee is the one walking into the eyes: that could have tipped so easily into “look what they made her do.” But the chapter does something much more interesting and more dangerous in a way I trust. It lets the setup be theirs, and the step be hers.
 
-But I’m also not letting the book off the hook, because the whole chapter is haunted by the fact that this private triumph is built out of other people’s plans. Pace isn’t there, which strangely helps. If he had been sitting in the audience receiving that walk, I think I would have felt more managed, more displayed for him. Instead he gets the photograph afterward, and I loved that little boundary: “That part was hers.” Yes. Keep something, Vee. Keep anything.
+That second step got me. The first careful step, the possible version of herself where she keeps the secret invisible, where she can obey the dress without admitting she wants the room to know anything, and then: she chooses the long step. Not because Pace is watching. Not because Randi is whispering in her ear. Pace is absent. Randi is absent. Cassie is there, but Cassie is cleanly there, lovingly there, not managing her. So when Vee gives the room her leg “on purpose,” I believed it as hers in a way I badly needed to believe.
 
-Cassie was wonderful here. God, I needed Cassie. She sees Vee without needing to possess or interpret her. “Honor student” made me laugh, but it also felt like love that doesn’t turn Vee into a project. Cassie takes the picture, yes, but not in a creepy curating way. She’s witnessing. She’s proud. She’s teary and pretending not to be. I trust that so much.
+And God, it’s erotic, but not in the cheap “public exposure” button-pushing way. It’s erotic because she is making a private decision in public and no one can quite accuse her of anything. That line about “the room knew, and not a soul in it could have said so out loud” is exactly the charge. It’s the difference between being seen and being caught. She is not caught. She is seen because she permits it for one molten little corridor of time.
 
-The no-underwear public ceremony thing should have set off every alarm for me, and it did, a little, but the book knows the tension. It doesn’t pretend this is just empowerment glitter. It lets the embarrassment, danger, pride, heat, and calculation all occupy the same body. “Arousal is not yes” from last chapter is still in me, so watching Vee feel heat and still make an actual decision was important. The chapter understands that those are not the same thing, even when they touch.
+I also love that the ceremony itself is ordinary. Warm, dull, kind, navy dresses, folding chairs, coffee no one drinks. That ordinariness makes her choice feel more intimate, not less. She doesn’t become a different genre of woman because the room turns into a fantasy ballroom. She does this inside the recognizable fluorescent-adjacent social world of academic achievement and parents and department-store dresses. Which makes it hotter and sadder and more real.
 
-I’m still worried about the photo going to Pace. Not because sending it is wrong, but because he will “have no idea what else was in the frame,” and that gap is going to matter. Everyone in this book is living on gaps: what Vee doesn’t know about Pace and Randi, what Pace doesn’t know about what the walk became for her, what Cassie doesn’t know about any of the real machinery. The difference is Vee’s little secret here feels protective, not predatory. I want her to have more of those.
+Cassie nearly made me emotional. “You look—” and stopping. Taking the picture. Calling her “Honor student.” Buying her a terrible sandwich. Cassie is still the person who can witness Vee without trying to possess the meaning of what she sees. She knows Vee got attention, she knows something happened, but she doesn’t pry it open and climb inside. Bless her. I missed her, and this chapter knew I missed her.
 
-This was a capture chapter for me. Quiet, bright, dangerous in a way the prose absolutely sees. I’m still braced for the rot under it all, but this gave Vee back to herself for a few pages, and I needed that badly.
+The Pace absence is deliciously complicated. He made the dress “for exactly this,” and Vee sends him the photo, but she also withholds the real center of the experience: “That part was hers.” That matters. It feels like Vee claiming an interior room in a story where too many people have keys. I am suspicious of the larger machine, still very much so, but this chapter gave Vee a door that closes from the inside.
 
-GATE 31 — The Induction  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: The chapter let Vee own the decisive erotic moment herself, without Pace or Randi physically present to direct it, and that made all the difference. I’m still anxious about the larger manipulation, but the book is giving her interiority and agency with enough precision that I trust it for another chapter.
+And the last line lands hard for me: pride or heat, and maybe they are the same now. That could be terrifying if the book were naive. Here it feels like the book knows exactly why it’s terrifying and why it’s also liberation. I am still watching for the hidden plan to become unforgivable in the narrative’s own moral accounting, but this chapter made Vee feel less like a beautifully handled object and more like a woman discovering she can handle the blade herself.
+
+GATE 31 — The Induction
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This chapter paid off the dress without making Vee merely the endpoint of Pace and Randi’s design. The second step was hers, Cassie’s witness was blessedly unpoisoned, and “That part was hers” gave me exactly the interiority and agency I needed to keep trusting the book.

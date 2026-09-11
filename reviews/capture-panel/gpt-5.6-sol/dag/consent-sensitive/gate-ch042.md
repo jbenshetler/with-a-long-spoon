@@ -1,23 +1,23 @@
-*capture-dag-v2-rich · gate ch042 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch042 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
 REACTION
 
-Oh, Vee. That was an *I love you*. It was an exquisitely vulnerable, painstakingly translated I-love-you, built in the only language she could make herself speak—and Pace understood enough to go still, breathe twice, and choose an answer that did not answer her.
+Oh, Vee. That was an “I love you.” It was an exquisitely vulnerable, unmistakable “I love you,” built in the private language of everything Pace has awakened in her—and he answered a different question.
 
-“I love how good we are together” is brutal. Not *you*: how good *we* are. Then “what your body does.” She offered him the transformation of her whole life, and he answered with their compatibility and her sexual responsiveness. I don’t believe it went past him. His body gives him away before his words become careful. He registered the size of what she said and then produced something exact enough to be warm without making the corresponding commitment. That precision I once found courtly is beginning to feel like a blade.
+“I love how good we are together” made my stomach drop. Not because it is nothing. It may even be true and deeply felt. But it is the safest possible sentence containing the word *love*: love directed at their compatibility, their experience, the thing they make, rather than at her. Then he makes it worse by translating her meal—her huge statement about being brought into color and appetite and life—into “what your body does.” She offered him her whole self. He answered her body.
 
-And I’m almost relieved—painfully relieved—that Vee felt the mismatch. The little *wait* behind her breastbone matters enormously. The book is not smoothing this over with the quilt, the kiss to her hair, and the sunrise; it lets her body know that tenderness can be genuine while the answer is evasive. She isn’t oblivious. She is suppressing knowledge because knowing would require a question she cannot bear to ask. That is psychologically awful and completely recognizable.
+And the book knows. That small *wait* behind her breastbone is exactly the awareness I needed the narrative to preserve. It does not let his tenderness erase the mismatch. His arms, the quilt, the kiss held against her hair: all of that is real comfort, and all of it helps the unanswer disappear before she can examine it. He does not have to consciously engineer that particular retreat for the effect to be the same. Warmth does what warmth does, and Vee puts the question away.
 
-“The words went through him first” made me furious and heartsick. She has invented a rule that grants him first rights over emotional truth, and because he won’t exercise those rights, she is trapped in silence. Worse, she understands that she is trapped and calls it something she simply “knows about herself.” This is the same dangerous generosity again: she does the repair work privately so he never has to encounter the damage.
+The laundry-room realization hurt horribly because she is so exact about it once she is alone: the sentences were “not the same shape.” Yes. Exactly. And then she cannot ask, because in her mind the words must go through him first. That rule is not Pace’s explicit demand, but it still governs her completely. She has ceded him authorship of the emotional definition of their relationship while he withholds the information that would make any definition honest.
 
-The pile scares me. Not because I think the author has failed to notice it—the author is pointing directly at it—but because Vee has now revealed that every troubling little discrepancy has been preserved somewhere in her body. The coercive spanking, the narrowing promises, the unasked questions, whatever else she could not metabolize: none of it vanished. She has been quietly maintaining the version of Pace she can love.
+“She had said her best sentence” nearly broke me. She gave him something beautiful enough to remember forever, got a warm evasion, and decided she had used up her one attempt. Worse, this is joining a pile of “small repairs” she has already had to make to keep what she knows about him functioning. That pile is the aggregate betrayal beginning to register inside her before she knows its contents.
 
-At 1 a.m. I would text: *She handed him “I love you” disguised as a meal and he complimented the sex. I need to bite something.*
+I don’t know whether Pace understood and deliberately stepped around “I love you,” or whether his own damage makes him hear intimacy most safely through bodies and shared experience. Either possibility hurts; neither excuses what he is concealing. I believe he loves her. I am increasingly afraid that he has built an ethics in which love can be demonstrated endlessly while the truth is withheld indefinitely.
 
-I’m staying. This hurt exactly where it was supposed to, and the book absolutely knows what Pace did.
+I would text a friend: *She told him she loved him in their private language and he complimented the relationship. I am unwell.*
 
-GATE 42 — Seconds  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “I love how good we are together.”  
-WHY: That answer made my stomach drop, but Vee’s bodily *wait* and the accumulating pile prove the book sees the evasion clearly. I need to know whether she eventually trusts that knowledge—or keeps repairing him until the truth breaks her.
+GATE 42 — Seconds
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: none
+WHY: This hurt exactly where it needed to, and the narrative saw every inch of the hurt: the bodily warning, the unequal sentences, the warmth that smothered the question, and the growing pile of repairs. I need the disclosure now, but I trust the book understands what Pace’s answer cost her.

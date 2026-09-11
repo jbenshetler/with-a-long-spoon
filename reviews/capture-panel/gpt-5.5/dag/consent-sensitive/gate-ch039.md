@@ -1,17 +1,21 @@
-*capture-dag-v2-rich · gate ch039 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch039 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — Oh. This one got me in a quieter place, and I liked that. Not heat this time, exactly, but the book finally let the three of them sit in one room with an ethical problem that isn’t sex and still somehow it’s the same problem: who knows what, who gets protected, who gets managed, what does love do when truth would hurt someone.
+REACTION —
 
-I was so relieved to have Cassie fully back in the room. Not just as the dry roommate at the door, but with an actual wound and an actual stake. “My dad got laid off in 2020” is such a Cassie line: no performance, no invitation to fuss, but it explains a whole political weather system in five seconds. And Vee understands enough to feel caught between them, which matters. She loves Cassie and Randi both, and the chapter doesn’t make that clean.
+Oh. Oh, that was good. Quiet-good, not heat-good, but the kind that makes the whole room of the book shift a few inches.
 
-Randi. God. This is the first time in a while I’ve felt something like mercy for her without losing my guard. The moment with MIRH/Miranda Holdings is brutal because it punctures the glamour from underneath. Her father’s world, the money, the Mercedes, the easy “we’ll see,” all of it suddenly has a ledger under it. And her “Cheating bastards” did not read as cover to me. It read as a girl discovering that the thing she came prepared to defend is uglier than she knew, and that the ugliness has her name on it. That was real.
+I loved this chapter because it finally let Vee be the one who sees. Not perfectly, not with the whole conspiracy shape, but she catches something real that Randi does not mean to show her, and she protects it. That mattered to me so much. Vee has spent so long being looked at, interpreted, arranged, gently pushed into meanings other people are holding for her. Here she is in the middle again, literally between Cassie and Randi, but she is not just the soft center being pulled by two stronger women. She observes. She notices the color go out of Randi’s face. She hears the words land wrong. And then she does something emotionally intelligent and merciful: she gives Randi “somewhere to put her hands.” That is such a grown-up kindness.
 
-But the thing that made my stomach tighten was Vee choosing not to tell Cassie. I understand it. I probably would have done it too, in the moment, because Randi looked stricken and Cassie was already so certain and there was no humane way to drop “hey, that’s her family” into the glass room. But this is exactly how secrecy becomes a love language in this book. Vee has learned from Pace and Randi, without knowing she’s learned it, that tenderness can mean arranging what another person gets to know. That is dangerous as hell. It’s also psychologically exact. The book knows.
+And Randi. God. The book has been letting her be dangerous and glamorous and controlling, and now here is this sudden bare place in her. “Cheating bastards” got me because it did not feel like performance. It felt like a girl finding out something about her own father’s world, maybe her own family money, maybe the floor under her. And because she is Randi, she recovers. Of course she recovers. She puts the beam back on. But Vee saw the light go out first.
 
-And that last image, the outlier easy to see if you knew to look, invisible if you didn’t: yes, okay, I see you. That’s not just PPP data. That’s Randi. That’s Vee. That’s the whole seduction plot sitting there in the open, one point off by itself, visible only if you have the map. I’m very much still reading, but I’m also more afraid now, because Vee has started participating in the very kind of concealment that is being done to her.
+Cassie being right hurt in a very Cassie way. She doesn’t gloat because why would she? Being right just means the thing happened. Her dad lost his job. The numbers say what she already knew in her body. I love her flatness. I also felt that sharp little dread because Cassie doesn’t see that this particular outlier is Randi’s. Vee does, and now Vee is holding a secret from Cassie on Randi’s behalf. That triangulation is still there, just in a new register.
 
-GATE 39 — The Outlier  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: This chapter cooled the sex down and made the moral machinery louder, which is exactly what I needed. Vee protecting Randi by withholding a truth from Cassie is alarming, but the chapter frames it as alarming, not cute or noble-simple, so I’m still in.
+The stats metaphor is doing exactly what I want it to do without waving a flag in my face. Outliers, what gets excluded if you can “account for” it, the one point off by itself that explains too much. Randi has been an outlier socially and erotically in Vee’s life, and now her family is the outlier in the data, and Vee herself is becoming someone who can read the point and the person at once. That’s deliciously ominous.
+
+This chapter did not soothe my consent worries, but it did soothe my author-trust worries. The book knows about hidden information. It knows about framing. It knows what it means to sit between two versions of the truth and have both be emotionally real. Randi can be manipulative and wounded. Cassie can be right and incomplete. Vee can be kind and still be further bound into secrecy. That complexity is exactly why I’m still here.
+
+GATE 39 — The Outlier
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: This pulled me hard because Vee finally saw something Randi did not hand her, and her response was tender without being stupid. The hidden-plan dread is still alive, but this chapter made me trust the book more, because it understands that data, intimacy, money, shame, and secrets all change depending on who gets to frame them.

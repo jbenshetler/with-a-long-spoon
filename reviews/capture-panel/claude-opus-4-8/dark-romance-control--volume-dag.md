@@ -1,6 +1,6 @@
 # Capture DAG record — dark-romance-control
 
-*model: claude-opus-4-8 · protocol: capture-dag-v2-rich · assembled 2026-09-08*
+*model: claude-opus-4-8 · protocol: capture-dag-v2-rich · assembled 2026-09-11*
 
 *capture-dag-v2-rich · gate ch001 · claude-opus-4-8 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
 
@@ -394,78 +394,138 @@ CAPTURE: 8
 ALMOST-STOPPED: none — the closest to a drift was the salmon-and-Rombauer menu business early, before the extraction started, but it never got near leaving.
 WHY: This is the Randi chapter I've been waiting six sugar chapters for, and it finally put the bench's cruelty into the present tense — the extract-and-deny move over lunch is the most merciless thing since chapter one, and the jaw-hinge kiss cracks the other half of the jacket wide open. The glass-turning tell confirms the jealousy is real and she wants Vee for herself.
 
-*capture-dag-v2-rich · gate ch018 · claude-opus-4-8 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
+*capture-dag-v2-rich · gate ch018 · claude-opus-4-8 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
 
 REACTION
 
-Okay so it finally happened, they slept together, and I want to be honest with myself about what that did to me, which is: almost nothing in the body, and a small quiet click of dread in the back of my head that's the only reason I'm still here.
+Okay. So they finally did it, and I want to be mad that it took eighteen chapters and I'm… not, quite, because the LANDING of it is genuinely nasty in the way I like — but it's buried so deep under the tenderness that I had to dig for the knife.
 
-The sex itself is exactly what I was afraid it would be — tender before I've had any teeth. He goes down on her standing up, he asks "would you be bothered if I was too hard," he's careful with his weight until she pulls him in. It's soft-focus, it's generous, it's a good man being good at a woman. And I have said from chapter one that this is my off-switch. A man who asks permission the whole way down is not a threat, and I read for threat. On the page, in the present tense, I felt the warm bath and I wanted the knife.
+Here's what actually got me: the panties. "Trade." She folds them in thirds with the spot centered — CENTERED, she arranges the evidence so the wet part is displayed — and hands them to him like an offering, and something in his shoulders goes "private" and she lets it be private. And I know what that private thing is, because I've read chapter 1. That's a TROPHY. That's Randi on the bench, that's the shelf of girls, that's the collection. She just handed him the first specimen and thanked him for the privilege. She thinks she invented a sweet intimate game and she's actually completing a ritual he's run before. THAT is the horror I've been starving for since chapter 2 — the trap springing while the mark decorates it herself. "Nothing was taken from her that she did not hand over." She literally folded it up nice first.
 
-BUT. Here's the thing that keeps me from closing the cover. That scene at lunch last chapter with Randi — the way she reeled Vee down one small "yeah" at a time and then slammed the door soft, "you don't have to tell me," and left the girl's secret hanging half out of her mouth — that was the most alive thing in fifty pages, and this chapter is the aftershock of it. Because look what Vee does now. She goes to the mall and buys green silk lingerie *for the color he held to her face*. She paints her toenails frosted plum to match the silk he chose. She's decorating herself in his taste and calling it her own idea, "chosen without thinking too hard about why." The book KNOWS. "Nothing was taken from her that she did not hand over." She is grooming herself into the shape of the thing being farmed out of her and she's proud of the frosted plum.
+And "Would you be bothered if I was too hard?" — the question dressed as courtesy that is actually him making her CONSENT to his arousal, making her the one who grants it, so that even his want becomes her yes. That's the machine. That's the "may I" as the weapon, finally landing on my skin a little instead of just in my notes. I felt it there.
 
-And then the panties. God, the panties. She folds the soaked green satin in thirds, spot centered, and hands them to him. "Trade." That's the trophy going into the collection. That's the bench, quietly, in daylight, with a smile — a piece of her handed over, folded, kept. The leather damp in two places. Christine on the froyo — no wait, that's my own memory mush, but you know what I mean. The COLLECTION. He takes it and "something in his shoulders was private and she let it be private." That's the closest thing to teeth this chapter has, and it's teeth I have to supply myself from what I already know about him. The book is trusting me to be ahead of her, and I am, and the wrongness of the trophy is doing the work the tenderness refuses to.
+But — and it's a real but — the sex itself is warm. It's good. It's a genuinely well-done first-time-consummation and that is exactly the problem for ME. There are no teeth IN the bed. He's careful until she pulls him in, he watches her face, he's glad, the shame "never closed her," it's healing, it's her waking up. It reads like the emotional climax of a romance where the damaged girl learns she's worthy. Which — if I wanted that I'd be reading something else. I want to be scared during the sex and I was only scared in the two seconds before and the ten seconds after.
 
-The scar high on his inner thigh — Daphne? A door someone else went through uninvited? I clocked it and I want it.
+The scar on his thigh — large, high on the inside — she notices and the book moves right past it. That's a breadcrumb and I clocked it. Daphne? Something. I'll hold it.
 
-But here's my problem, at 1 a.m., texting a friend: I'm three-a-week on this shelf and I have now read EIGHTEEN chapters and the only present-tense danger I've been given is a folded pair of panties and my own dread doing all the lifting. Randi's the spider I want and she's not on this page at all. Cassie's fuse hasn't reached anything. Pace is still behaving like the gentlest man alive and I am still waiting, waiting, waiting for the trap to spring on VEE instead of just tightening one more click. This chapter tightened it — beautifully, I'll grant it, the trophy is genuinely sinister if you know what you're looking at — but I have been promised the edge for a very long time and keep getting handed the silk.
+What I'm actually still here for is Randi, and she's not in this chapter, and I felt her absence. Chapter 17 was the best thing since chapter 1 — Randi drawing the secret out of Vee over soup and then SLAMMING the door ("You don't have to tell me") right as Vee opened her mouth, the control of it, the jealousy leaking through the water glass she keeps turning — THAT'S the predator I want. And then kissing her on the mouth in the fire lane. The triangle is the live wire, not the boy. This chapter is Pace collecting his piece; I want the chapter where Randi finds out he collected it, or where Randi collects her OWN piece.
 
-I'm staying. Barely, and because of the panties, not the sex. The trophy told me the machine is still running and this book still knows exactly what it's doing to her. But my patience is a resource and I just spent a chunk of it on a tender consummation I felt in my head and not my gut. If the next stretch is another froyo hum, I'm out.
+1 a.m. text: "she FOLDED the wet panties and handed them over as a 'trade' and he did the shoulder thing and I screamed because she has NO idea she's a trophy on his shelf. the sex was too nice though. where is Randi. I NEED Randi to find out."
+
+I'm continuing, but I'm continuing for the aftermath and the women, not for Pace's good hands.
 
 GATE 18 — Famished
 DECISION: CONTINUE
-CAPTURE: 5
-ALMOST-STOPPED: "He put his mouth to her, a kiss first... his tongue moving slow through the slick of her" — the whole gentle oral set-piece, no teeth in it, the exact tenderness-before-danger that turns me off, and I felt myself drift.
-WHY: The sex was the soft, permission-asking warmth that bores me, and I felt it in my head not my body — but the folded soaked panties handed over as a trophy, and Vee grooming herself into his taste while calling it her own, are the trap still visibly closing, and the wrongness carried me. I'm staying for the collection and for Randi, not for the romance.
+CAPTURE: 6
+ALMOST-STOPPED: "he did not vary it and did not rush it, and she lost the count of them early. The room went." — right in the middle of the sex, when it went pure warm and healing and I felt my attention slide off, no edge anywhere in it.
+WHY: The sex was tender where I wanted teeth, but the frame around it — the consent-to-his-arousal question and especially the centered-and-folded panties handed over as a "trade" — is the trap springing exactly the way the jacket promised, and I want to watch Randi collide with it.
 
-*capture-dag-v2-rich · gate ch019 · claude-opus-4-8 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
+*capture-dag-v2-rich · gate ch019 · claude-opus-4-8 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
 
 REACTION
 
-Okay. So the morning-after chapter. Two, three pages of afterglow and I'm sitting here with my jaw doing nothing.
+Okay so this is the comedown chapter and I read it in about ninety seconds and I'm not mad but I'm not fed either. It's a morning-after debrief with Cassie and it does exactly one thing, and it's the one thing I actually want it to be doing, so I can't fully complain: Vee is now the one editing. "She lifted it out clean as she went, the way a ladle takes soup from the pot and the surface closes without a hole." THAT'S the line. That's the whole book in a sentence — she's learned to close the surface over the part of herself she's handing away, and she calls it a kindness, and she believes it because believing it lets her keep it. The mark is now managing her own witness. Cassie's the last set of real eyes and Vee is quietly, gently, lovingly editing herself out of Cassie's reach. That's the amputation from my notes still happening, just from the other side of the knife now.
 
-Here's the thing that actually kept me from closing the app: that seam. "She lifted it out clean as she went, the way a ladle takes soup from the pot and the surface closes without a hole." Vee is now editing herself in real time — keeping the middle, the wet, the body-doing-what-it-does — out of the story she tells Cassie, and calling it a *kindness*, and believing it because "you believe the thing that lets you keep what you want to keep." THAT is the horror I signed up for. The mark is now doing the concealment work herself. She's building the wall between herself and the one person with eyes, and she thinks it's love. That's a little cold blade under the cereal-milk domesticity and I felt it.
+And I clocked Cassie's opening beat — "something crossed her face and was gone before it found a name." She knows. She's doing my dread again. But she doesn't pull the thread ("did not pull at the seam"), and that's almost worse, because the one person who could name it is choosing not to, and off she goes to her game — "Don't wait up, lover" — cheerful, wrong, gone. The door sticks and gives. She's being lost in real time and nobody in the room is even upset about it.
 
-And the panties. She's standing three feet from Cassie, zipper half down, and she can't undress because there's nothing under the skirt — she gave them to *him*, a trophy she handed over, and now her own body is a piece of evidence she has to hide from her best friend. "It would be on the floor, and there would be nothing left to say." Good. That's a real image. The give-away of the underwear as a give-away of the last privacy she had from Cassie.
+The panties-she-doesn't-have detail is a nice little gut-punch, honestly — she goes to shower and stops because there's nothing under the skirt, she traded them away, and the next thing off her body wouldn't be a story she could edit, it'd just be true on the floor. So she zips back up. Even alone in her own room she can't be undressed with the truth. That's good. That's the shame doing its quiet architecture.
 
-But — and this is my whole problem with this book, still — Cassie is losing on the page and it doesn't scare me the way it should because Cassie isn't fighting. "Goodbye, Vee" was chapters ago; now she's just "don't wait up, lover" and off to a game. The one person doing my dread is being written as cheerfully oblivious this week. Where's the fuse? Nine chapters ago I was promised Cassie's dread was my dread and Cassie keeps not clocking anything.
+BUT. Here's my problem, same problem I've had for eight chapters: this is sugar. It's SMART sugar, it's psychologically exact sugar, but there is no Pace on the page, no Randi on the page, no bench, no teeth in the present. It's Vee happy. "She had never in her life been so happy." The dread is all mine, held for me by the prose and by Cassie's face, none of it is IN THE ROOM as threat. After chapter 17 finally gave me Randi's mouth and that jealous glass-turning tightness, and 18 gave me the actual sex and the trophy trade, this feels like the book exhaling when I wanted it to keep squeezing. I don't need a debrief. I lived it two chapters ago.
 
-And Pace and Randi? Not in this chapter at all except as afterglow and a stolen trophy. No Randi interior. No teeth in the present. The sex happened LAST chapter and even that was tender-explicit, not dangerous — the man asked "would you be bothered if I was too hard," which is my off-switch dressed in a bow. I keep being told this is a hunt and I keep getting a girl who's genuinely, uncomplicatedly *happy*. "She had never in her life been so happy." The book wants that to read as doom. From inside her head it reads as a nice weekend.
-
-What I'd text a friend at 1 a.m.: "the trap girl is now hiding the truth from her ONE friend and calling it kindness and I want to scream but also nothing has HAPPENED in like eight chapters, when does the spider actually bite, I need Randi's brain, I need Cassie to blow up, I'm running out of patience on the promise."
-
-I'm right at the edge. The soup-ladle line is the one thing keeping the dread alive for me — the self-editing is the real corruption and it's finally *inside* Vee instead of just circling her. But it's thin, it's a coda, and the actual predators have been offstage doing nothing threatening for too long. One more sugar chapter and I'm out.
+What's keeping me is momentum, not this chapter. The Randi kiss cracked the jacket open — Vee wanting the woman beside her — and the panty-trade means Pace is collecting. I want the next spring, not another glass of milk with Cassie. Text to a friend at 1am: "she's editing her OWN story now to keep the thing that's eating her, and it's making me insane, but god I need Randi back on the page or I'm going to start skimming."
 
 GATE 19 — Toenails
 DECISION: CONTINUE
 CAPTURE: 4
-ALMOST-STOPPED: "He cooked," Cassie said. "A man made you dinner." — right there, the whole engine idling on wholesome afterglow with the two hunters nowhere in it, I nearly set it down.
-WHY: The soup-ladle self-censoring and the given-away panties are genuine slow-corruption teeth — Vee doing the trap's work on herself is exactly my thing — but it's a two-page coda and I've now gone a long stretch with no Randi interior and no present-tense danger. I'm continuing on credit, not on this chapter.
+ALMOST-STOPPED: "He cooked," Cassie said. "A man made you dinner." — right there, the whole chapter tipping into cozy debrief, I felt my hand reach for the pile.
+WHY: This is a thin exhale chapter and on its own it barely pulls, but the ladle line and Cassie's un-named flinch are the exact self-deception I'm here for, and 17–18 just cashed the jacket's checks — Randi's mouth, the trophy trade — so I'm staying for the spring, not for this.
 
-EXIT NOTE: (not stopping — but if you're listening, book: give me Randi's head, or let Cassie's fuse actually reach powder. One more warm nothing and the credit's spent.)
-
-*capture-dag-v2-rich · gate ch020 · claude-opus-4-8 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
+*capture-dag-v2-rich · gate ch020 · claude-opus-4-8 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
 
 REACTION
 
-Okay. So we're doing this again. Another Randi lunch, another glass-walled bright room, another debrief where I hand over the soft middle of my week and she draws it out of me one *mm* at a time. I know this dance now. I've read it four times.
+Another brunch. Another one. And I'll be honest — my thumb was already drifting toward the corner of the page the second I saw "The bistro had a sun porch" and Randi already at the table with the sunglasses in her hair. I know this scene. I've read this scene four times now. The heavy card menu, the right-side-first price-reading, the mimosa she can just barely afford, the "there's my girl," the goodbye kiss at the curb with the hand at the hinge of the jaw. It's a template and they keep running it.
 
-And here's my problem, and it's the same problem I've had since chapter two: the machinery of it is genuinely good and it is doing NOTHING to my body. Because I can SEE it. That's the whole cursed design of this book — I'm meant to be ahead of Vee, watching Randi run the extraction, watching "why'd you pick it?" open a door Vee walks right through, watching her name the campaign and the panties and the toenails-for-a-man-who'll-have-your-feet-bare-in-his-hands. And I do see it. It's craft. Randi's technique is flawless. But being ahead of the mark for the fifth chapter running is not the same as being *scared*, and I came here to be scared.
+BUT. Here's the thing that keeps me from being totally gone: this chapter is the extraction machine and I can SEE it working, and that's the one part of this book that still has a pulse for me. Randi is a surgeon. Watch the moves — she opens with her own "sad little story," the beautiful nervous ex who came too fast, deliberately putting herself *below* Vee so Vee will feel safe going higher. She positions herself as running "on fumes," starving, so that Vee's telling becomes an act of *feeding* her. And then she reels: "you keep saying *he*" — flipping Vee from passive to complicit, making her own the wanting. The toenails. "You paint the toes for a man who's going to have your feet bare in his hands." The panties — "that's not nothing, that's a *campaign*." Every single reframe takes a thing Vee is ashamed of and hands it back as power, and every reframe drops Vee one rung further down the well while telling her she's climbing. "You're not caught, sweetheart. You're lucky." That's the whole book in one line and it's a beautiful, cold line.
 
-The one thing that actually pricked me: Randi's opening "sad little story." The old boyfriend, beautiful, nervous, "like the building's on fire," "at least I got dinner out of it." That's a lie and I know it's a lie — she wasn't out on some random beautiful idiot's fumble, she's constructing a story that makes her small and rueful so Vee will rush to fill the space with her own glowing secret. Classic. She lowers herself so Vee gives more. THAT'S the Randi I want — the deadbolt girl, the water-bottle-cap-under-the-thumbnail girl, running the con from behind the perfect face. But even that landed as recognition, not dread. I clocked the technique; I didn't feel the wound underneath it that made chapter one gut me. Last time — chapter 17 — she had a *tell*. The thumb working the glass, the tightness behind the smile when Vee said "he looked at me and I was fine." Jealousy leaked. Randi cracked. THIS chapter she's seamless. No tell. All lamp, no leak. And the leak was the only thing keeping her thread alive for me.
+So why am I not thrilled? Because I already KNOW all this. My notes from ch.10 already say Randi is the huntress love-bombing the mark. This chapter did not tell me one new thing about the plan, about what Randi WANTS, about the wound under the face. I got zero interior. I got Vee's POV of Randi being smooth, which is the same thing I've had since chapter 3. The one flicker of the real Randi — and I NEEDED it — was totally absent this time. No coffee cup turned against the cloth, no tightness behind the smile like in ch.17 when Vee said "he looked at me and I was fine" and Randi's thumb worked the glass. THAT was the good stuff, the jealousy leaking, the gutted thing showing an edge. This chapter she's flawless, which means this chapter is boring, because a predator with no crack in her is just a competent waiter taking my order.
 
-The goodbye kiss again — and Vee "didn't look down the street for who might have seen them, the way she had the first time." So the acclimation is complete, the door's open, she's not flinching anymore. Fine. That's the point. But I notice the book keeps telling me Vee is being taken apart and keeps SHOWING me two women having a really nice brunch. I want the version of this scene from inside Randi's head. I have wanted it since chapter one. The jacket promised me Vee will come to want Randi and that it's as real for the two hunters as for the girl — WHERE IS THAT. Give me Randi in the car after, the face coming off. Give me what this costs her. Instead I get "you're lucky, sweetheart" and a squeeze and see-you-soon-gorgeous.
+And the sex I actually wanted teeth in happened LAST chapter and got folded into tissue paper again — "she went soft and quick, a hand waved at the air, *and then, well,*." We're now getting the retelling of the retelling. Vee edited it for Cassie, and now she's editing it for Randi, and I'm reading the edited-for-Randi version of a thing that already happened offstage-ish. That's three layers of gauze over the one hot night.
 
-And Cassie's completely gone this chapter. My one set of eyes. The fuse I keep waiting on.
+The goodbye kiss no longer scares her — "she didn't look down the street for who might have seen them." That's the one forward tick: Vee's normalizing the Randi thread, the jacket's promised second hunger is advancing. I clock it. It's just advancing at the speed of continental drift.
 
-Here's where I actually am, honestly: I've had ONE chapter with teeth (chapter 1) and nineteen chapters of the trap tightening so gently it reads as romance. The fitting chapter (14/15) was the closest the present-tense danger ever got — the pedestal, the wet satin, the kneeling — and even that was tender-erotic, not frightening. This is a beautifully made book about a seduction and it is NOT a dark romance. There's no villain I fear, no man who's a threat, no stakes that scare me. Pace asks permission. Randi love-bombs. Nobody's burning the world down. The knife I was promised is under so much silk I've stopped believing there's a knife.
+What I'd text a friend at 1 a.m.: "the villainess is genuinely good at her job and the book KEEPS not letting me inside her head, I'm starving for the Randi chapter and they keep serving me Randi through the eyes of the girl she's eating." I want the deadbolt. I want the bench. I want ONE page of what this costs Randi. Twenty chapters and the only teeth are still in chapter one.
 
-I'd text a friend: "the con is immaculate and I feel nothing, it's a literary novel cosplaying as my genre, and I think I'm done being patient for the teeth."
+I'm not out. But I'm reading on fumes now, same as Randi claimed to be, and I need the trap to actually spring soon or the sugar's going to put me to sleep.
 
 GATE 20 — Fed
-DECISION: STOP
-CAPTURE: 3
-ALMOST-STOPPED: "Which is very pretty, and you are not getting away with it. You went from taking your clothes off to watching him cook and left out everything in between."
-WHY: Five debrief chapters deep and this one gave me a flawless con with zero crack in Randi — the one leak that kept me reading (her jealousy, her wound) sealed over completely, and I got another nice brunch instead of the teeth. It's expertly made and it is simply not the book my shelf is; the danger lives in my memory of chapter one and never once comes to the present, and my to-read pile is tall.
+DECISION: CONTINUE
+CAPTURE: 4
+ALMOST-STOPPED: "The bistro had a sun porch along its south side... Randi had picked it. Randi picked all of them." — the instant I realized it was the exact same brunch scene a fourth time, I nearly closed it.
+WHY: The extraction craft is still sharp enough to hold me — Randi reframing every shame into "you're lucky" is genuinely the cold thing I came for — but this was a retread with no new information and, fatally, no crack in Randi's face this time. I'm continuing on the promise from my notes that a Randi interior and the spring of the trap are still owed to me, but my patience is now a countable thing.
 
-EXIT NOTE: A Randi interior chapter — the face coming off after the car door shuts, what the hunt costs her, whether she wants Vee for Pace or for herself. Or Pace's coldness leaking onto the page in the present tense — one real threat, one moment the trap springs instead of tightens. Give me the wound behind the perfect smile and I'm back the same night, reviewing in all caps. But I can't keep buying "the yes was freely given" as a substitute for a man I'm actually afraid of.
+
+----- CARRY-FORWARD MINTED AFTER CHAPTER 20 -----
+*capture-dag-v2-rich · carry-forward ck-ch020 · claude-opus-4-8 · dark-romance-control · prompt-sha 866614d69a56 · 2026-09-10*
+
+WHO'S WHO
+
+Pace — still the man everyone calls a spider and who still behaves like the kindest man breathing, which is the whole joke I'm apparently going to be told forever. Grad-student mathematician, powerlifter (not bodybuilder, he'd want that corrected), lives out past the gravel. Makes his own furniture, his own shirts, his own dress. Has a patent on MRI signal stuff — they gave him a sick-kids-get-out-of-the-tube-faster halo, I noted it and rolled my eyes. Runs the program on Vee: asks permission, withdraws, remembers everything she throws away and hands it back made real. Slept with her now (ch.18). Collects trophies — she folded her wet panties in thirds, spot centered, and handed them over as a "trade," and his shoulders went "private." That's the shelf. That's Randi on the bench, that's the collection continuing. The scar high on the inside of his thigh — large, noted, unexplained. Daphne? Holding it. One closed door in his house — the bedroom, the bench — and the book has now walked us both past it AND then finally opened it for the sex, but the bench itself never got named. Still no last name.
+
+Randi — the huntress, and finally, in ch.17, alive again. Mercedes, cashmere, the white-gold band at her wrist she's never without. She runs a surgical extraction over lunch: opens the door with soft leading questions, normalizes ("nobody measures over a bra, it's just how it's done") to unlock the confession, walks Vee right up to the edge of her deepest folded secret — the arousal she's told no one — and then, the instant Vee opens her mouth to give it: "You don't have to tell me." Door shut softly. Denied her the release on purpose. That's the bench done across a table. The glass-turning tell (ch.17) — thumb working the rim, her ch.1 water-bottle-cap gesture — fired when Vee said "he looked at me and I was fine." The jealousy is REAL and it's the gutted thing showing an edge. She kisses Vee on the mouth now, hand at the hinge of the jaw, a second press with something in it. She wants Vee for herself, not just for Pace.
+
+Vee — the mark, now the lover, now editing her own story. She and Pace slept together (ch.18) and it was warm and healing and she's "never been so happy." She's learned to lift the middle out of every telling "the way a ladle takes soup and the surface closes without a hole" — manages her own witness now, and calls it kindness. Wanting Randi is landing in her body ("the heat the picture put low in her, no shelf for it"). Still reads every tightness in Randi as the kind thing. Still scanning dark windows afraid of being SEEN wanting.
+
+Cassie — my last live wire, and she's nearly out. Sees something cross her own face and lets it go unnamed, "doesn't pull at the seam." Teases, melts, cheers, plays "are you sure he's not gay." Defanged into a hype-girl. "Don't wait up, lover." Being lost in real time with nobody upset about it.
+
+Kayla & Meg — dining-hall chorus girls, exist to gasp on cue. Kayla read the trap's address out loud without knowing it ("he wants you for the afternoon, bring a change of clothes"). Meg's the "everybody's different at the start" one. Forgettable, and I'll forget them.
+
+WHERE THINGS STAND
+
+The trap sprang. Finally. The consummation happened (ch.18) — but the teeth weren't in the bed, they were in the frame: "Would you be bothered if I was too hard?" (making her grant his arousal, so even his want is her yes) and the folded-panty trade after (she decorates the trophy herself). "Nothing was taken that she did not hand over" — she folded it up nice first. Before that: the hike (blister/moleskin, horseradish sandwiches, cherry pits, the dress she named and let go), the truck-in-the-rain (his dry flannel, back turned, she called him back and stripped keeping his eyes, he shivered), the house tour and the dress commission — he matched the burgundy silk to HER, not the magazine — then the measuring/fitting on the riser (bra off, wet satin, he knelt at her worst and didn't look, waited for her eyes), and the lunch where Randi ran the extraction and kissed her. Between the two real chapters (17 sharp, 18 the spring) it's been debrief after debrief: Cassie, then Kayla/Meg, then Cassie again, then Randi again. I've read the shirt story maybe four times.
+
+HOW I FEEL ABOUT EACH OF THEM
+
+Pace — I finally felt the machine on my skin for two seconds (the consent-to-his-arousal question, the trophy) and then it went warm again and lost me. He's a therapist with forearms who I'm supposed to be scared of. I trust the coldness underneath; I just barely ever get to touch it. The scar owes me something.
+
+Randi — the one I'm actually reading for. Ch.17 she was everything: dangerous and desiring in the same breath, jealous through the glass, cruel with the closed door. Ch.20 she was flawless and therefore boring — a predator with no crack is a waiter taking my order. I want her wound, not her polish. I trust her the least, want her POV the most, same as always. The book keeps serving her to me through the eyes of the girl she's eating and it's making me insane.
+
+Vee — deer thanking the trap, now the deer folding the trap a bow. The self-editing is the horror I came for. I ache for her editing herself out of Cassie's reach.
+
+Cassie — grief. She was my dread and she's tinder now.
+
+WHAT I'M CARRYING
+
+"Trade." — the panties folded in thirds, spot centered, and his shoulders going private. That's the trophy, that's the whole book. "You don't have to tell me." — Randi shutting the door in Vee's open mouth. "Would you be bothered if I was too hard?" The glass turned a degree against the cloth and back — the ch.1 gesture surfacing. "You're not caught, sweetheart. You're lucky." The ladle taking soup, the surface closing without a hole. "He'd matched HER" — the burgundy, not the dress. The one closed door, "my bedroom," flat, left shut. The scar high on the inner thigh. She zips the skirt back up alone in her own room because there's nothing under it and the truth would just be on the floor. The jaw-hinge kiss with the second press.
+
+WHAT I'M WAITING FOR
+
+The Randi interior chapter I've been owed for twenty chapters — the deadbolt, the wound, what this COSTS her, not her smooth surface. The moment Randi collides with the fact that Pace collected his piece — or collects her own. What the scar is (Daphne?). The trap to close harder than "he's kind" — the merciless part the jacket promised, in the present, with Randi's crack showing. Vee waking to what she's handed over. And whether Cassie ever names the thing crossing her face before she's fully gone.
+
+WHAT'S FADING
+
+The four brunches and debriefs are collapsing into one bright sun-porch blur — right-side-menu, mimosa she can barely afford, "there's my girl," curb kiss; I couldn't tell you which was 17 and which was 20 except that 17 had the closed-door cruelty and the glass and 20 had nothing new. The hike's specific beats (moleskin, horseradish, cherries) already softening into "the nice mountain day." Kayla and Meg are basically gone. The house-tour details — error-correcting codes, the MRI speech, the joinery — I keep the coldness of "he remembers everything" but not the furniture. What stays knife-sharp is only ever the trophy trade, the closed door in Vee's open mouth, and the bench I still haven't been shown again.
+
+*capture-dag-v2-rich · gate ch021 · claude-opus-4-8 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+
+REACTION
+
+Okay. So this is the chapter where the book tells me, plainly, that it is not going to be my book — and does it so well that I'm almost not even mad.
+
+Because here's the thing: this is a *good* chapter. It's warm and it's funny and the whole slapstick relay of trying to have sex without ruining the dress — "there's a lot of you covered in a lot of me," him twitching every time she says it, her laughing so hard her leg slides off his hip — that's genuinely charming. If I were a different reader I'd be melting. The dress reveal, the light through the burgundy, the lining he set only into the parts of her the dress "decided not to give away" — that's a lovely image and I felt it. The two fingers in his mouth cleaning her off her own hand while she can't stand up — that's the one flick of heat in the whole thing that landed low for me.
+
+But. This is my problem, spelled out in gold afternoon light: it's tenderness with the teeth pulled all the way out. This is the domestic warmth chapter. This is two people who *like each other* having a sweet, giggly, no-stakes afternoon and hanging a dress back up. Where is the knife? The scar didn't come. Randi isn't even in the room. The closed door I've been circling for twenty chapters just opened onto — a nice bed and a headboard talking. Nobody's being eaten. Nobody's afraid. She cries the *dumb happy kind* of tears twice.
+
+And the daydream at the end is the cruelest thing about how not-cruel this book is being to me. She imagines walking into the induction in the dress and letting the room turn and *the looking not costing her a thing.* That should be the horror — the deer trying on the trap in the mirror and calling it a crown. My notes are screaming "the self-editing is the horror I came for." But the book plays it as pure triumph, no shadow, no cost, "getting away with something" — and it means she's getting away with it, not that something's getting away with *her.* There's no frame closing. Twenty chapters ago I could feel the machine under two seconds of a scene. Here I can't find it at all. It's just soup with no middle, and this time even the ladle's gone.
+
+I texted my friend at 1 a.m. and all I could send was: "he made her a dress and they knocked into a wall. I think I'm being loved to death and I hate it."
+
+The Randi-shaped hole is now the whole book for me. If she's not going to crack, if the scar's a decoration, if the trap is just "a kind man with forearms and a sewing machine" — I've read the shirt story four times and I've now read the sweet-afternoon story one time too many.
+
+GATE 21 — Peekaboo
+DECISION: STOP
+CAPTURE: 2
+ALMOST-STOPPED: "she lay there happy, the dress going dark in its window at the far end of the house, getting away with something." — that's the last line, and it's the moment I closed it, because the book meant that sweetly and I finally believed it never means anything else.
+WHY: This was a well-made chapter of exactly the thing that bores me to death — domestic warmth, giggling, tenderness with no knife anywhere under the silk. I came for Randi's wound and the trap closing hard, and twenty-one chapters in the book keeps handing me a kind man and a happy girl and calling the folded-up sweetness "getting away with something." My pile is too tall to keep waiting for teeth this book has decided it doesn't have.
+
+EXIT NOTE: One real Randi interior chapter — the deadbolt, the jealousy from ch.17 with the wound showing, what this costs her — or the scar finally meaning something, or the induction daydream landing as horror instead of triumph. Any single present-tense moment where the frame closes on Vee and I feel the machine on my skin again. Give me the merciless the jacket promised, in Randi's POV, and I'm back in a heartbeat.

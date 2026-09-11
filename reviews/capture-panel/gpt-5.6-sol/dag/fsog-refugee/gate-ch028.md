@@ -1,17 +1,15 @@
-*capture-dag-v2-rich · gate ch028 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch028 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — Oh, this made the hidden life around Vee feel suddenly crowded. Sheri knew enough to ask what happened to Randi, and Pace answered, “That’s not finished,” as if Randi and Vee are two concurrent lines in his life whose relationship to each other does not need explaining. Vee is preparing to go to his door believing she has wounded the singular man who chose her, while he is out here calmly letting a friend run the arithmetic of “two of them at once.” I felt the trap tighten.
+REACTION — Oh, Pace. “Vee,” correcting Sheri before he even knows he’s doing it, and then spilling all those tiny things he noticed about her—the chair joint, the math book, the fact that she was curious instead of intimidated. He is gone. He doesn’t hear it, but Sheri does, and I absolutely do. That got me right in the chest.
 
-And yet—damn him—he cannot even say Vee’s name without spilling over into the exact things he loves about her. Not her body first, not the sex: the way she touched the walnut joint and wanted to know how it was made, the way she picked up the mathematics instead of backing away from it. “Listen to you” got me because Sheri can hear what he apparently cannot: he is gone too. That matters to me, but it does not make his silence innocent.
+And I’m relieved almost beyond reason that he knows Vee stayed alone and left alone. I hated imagining him at home believing she’d rejected the whole night and perhaps gone off with somebody else. Sheri quietly keeping an eye on her feels like real friendship, even with the backside commentary making me squint at her. I like that Pace doesn’t get possessive or ask who approached Vee. What matters to him is that she was safe.
 
-Sheri’s comment about Vee’s backside irritated me, especially because Pace’s correction was only “Vee,” not anything like *don’t talk about her that way*. Maybe that is simply the language of an old friendship, but Vee already spent Thursday feeling reduced to one of the girls, and now a stranger is assessing her body while Pace lets it pass. I didn’t like it.
+But then: “Randi. That’s not finished.” Cold water. Not because he wants them both—the jacket promised me that, and I’m here for it—but because Vee still doesn’t know there are two women being discussed. Sheri can run the arithmetic that Vee has been deliberately denied. Pace’s immediate consent remains exquisite, but this is the informational door he keeps walking through without her. And “she couldn’t take your heat” has me wondering exactly what Sheri is to him and how many people around town know pieces of his life while Vee knows only the version placed in front of her.
 
-Mostly I am alarmed by how established Sheri feels—Saturday rides, two years of history, absolute loyalty—and by how casually she knows enough to identify both women. How many people are standing outside Vee’s reality holding pieces of the truth she doesn’t have? “She couldn’t take your heat” also sounded less like protection than possession-by-proxy: Pace deciding which people Vee can withstand while still denying her the information that would let her decide for herself.
+Still, the thing I’d text a friend is: he got asked one question about her name and accidentally delivered a love letter about how she touches furniture. The man is finished. He just hasn’t caught up.
 
-And “That’s not finished” is going to stay under my skin. Not over. Not disclosed. Not named. Just unfinished.
-
-GATE 28 — hills-and-valleys  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: “Hell of a backside on her, though. I’ll give her that.”  
-WHY: Pace’s unguarded tenderness for Vee pulled me in, but the casual “two of them at once” made the deception feel uglier and more socially exposed. I need to see what happens when Vee walks into his house believing this is only between them.
+GATE 28 — hills-and-valleys
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: Pace’s unguarded tenderness for Vee pulled me hard, while “That’s not finished” sharpened the betrayal underneath it. I need to see her arrive at his door—and I need these beautiful, deceptive people to face what they are doing.

@@ -1,25 +1,23 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch049 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, this one got me in the softest and most dangerous place.
+Oh, Pace.
 
-Vee walking back into campus already broken, with the whole road carrying her toward Pace and “not one inch of him for her” — yes. That is exactly the kind of romantic misery I will sit in if the book has earned it, and it has. I felt the ugly little spiral of it so hard: he didn’t text, therefore he doesn’t care; he cooked for Sheri, therefore Sheri is beautiful and replacing me; I have no name, therefore I have no claim. It’s painful because it’s not stupid. It’s what happens when someone has given you everything bodily and domestically and then refused the one public, speakable thing that would let you stand upright.
+I have been angry with him, and I still am, but this chapter got under my ribs because it finally gives me the thing I needed from his side: not an excuse, exactly, but the shape of the fear. He knew. That matters so much. He knew on the porch that she had offered him something huge, and he knew his answer was smaller, and he chose it anyway because he was scared. That is awful, and it is also so painfully human that I can’t hold it at a clean distance.
 
-And then Randi. God help me, Randi is so good with her. Too good. She does the thing Pace does in another register: she slows Vee down, separates fear from fact, sets each real piece on the table. The warm house. The wine. The food. “He said that. Those words.” I could feel Vee’s panic unclenching because someone finally took her seriously without just agreeing with the worst version of it.
+The whiskey and bleach at the start made me wince. Not melodramatic, not sexy broken-man nonsense, just ugly and physical and useless. I believed every bit of that misery: the shower that doesn’t help, the chicken and broccoli that is technically food and spiritually punishment, the body needing things the mouth doesn’t want. And then, of course, he remembers feeding Vee. Not just having her, not just sex, but the first bite. That made me ache because it’s so exactly how he loves. He watches pleasure arrive in her before words. He has been fluent in her body and her hunger from the beginning, and somehow still acted like words were beneath the real thing. No, sir. The words are part of the meal.
 
-But I am also watching Randi’s hands on the wheel here. She is right about so much, and still steering Vee straight back into Pace’s arms in the exact erotic language that will work on both of them. The coat. Nothing under it. The shame turned into bravery. That absolutely hit my buttons, I’m not pretending it didn’t. “You’d be walking through the cold to hand him everything” is filthy and tender and precisely the kind of surrender I read for. But because it’s Randi saying it, I can’t relax. She knows Vee’s shame. She knows how to transform it into heat. She knows how to make something feel chosen while arranging the stage around the choice.
+Daphne finally explains a lot without letting him off the hook. I can see how a young Pace would decide language itself was the fuse. Say it and the loss becomes unsurvivable. Don’t say it and you can get up the next day. It’s tragic logic, but it is still logic built around protecting himself while Vee stands outside the house crying. And I’m glad the chapter knows that. It doesn’t romanticize his silence. It calls it weakness. He calls it weakness. Thank God.
 
-Still: Vee does choose. That matters to me. She says the words herself. She feels the burn and the want come up together and decides she is going to do it. I’m nervous, but I’m not offended. This is the fantasy line I care about: is she being erased, or is she being walked toward something she already wants and is afraid to own? Here, it felt like the second. Barely. Hotly. With alarms on.
+The line that really got me was him hearing an engine and becoming all body toward it before he even knows he’s moved. That is love. Not the polished kind, not the controlled kind, not the little “believe what I do” speech. Just helpless hope. And then the truck going past. I hated how much I wanted Vee to be in that driveway, and I hated even more that I don’t think she should have been. He needs to come to her awake, not be rescued by her arrival.
 
-The Randi New Year retelling was brutal because now we know the wound under the sparkle and Vee doesn’t. Vee hears fairytale; I hear autopsy. Every detail she envies is the very thing Randi found empty. The man who names children in an hour, the man who dances perfectly, the man who assumes the hotel room — that should be romance in the cheap version. But after Pace asking, after Pace listening, it’s hollow. And Randi knows it. “Everywhere but the bedroom, and the bedroom’s the room I actually live in” is such a devastating little cover story because Vee laughs, but we know it’s not about bad sex. It’s about being untouched where it counts.
+I am still worried about the bigger secret. This chapter makes me softer toward Pace, but it does not erase the original arrangement with Randi. If anything, it sharpens the problem: he knows what hiding does. He knows what withholding costs. So he has fewer places to hide from that now.
 
-And the goodbye kiss being “unremarkable now, only what they did” made my stomach flip. No, babe. Nothing about that is unremarkable. That is the book letting the abnormal become ordinary by repetition, and I am very much not immune to it.
+But yes, I’m captured. I’m mad and sad and very much still here. The book has finally put him on the hook from inside himself, and I needed that.
 
-I’m pulled hard. I want the coat scene badly, which makes me slightly ashamed of myself, which means the book is doing exactly what it keeps doing to Vee. But I also need Pace to meet her with more than sex this time. If she goes there offering her whole body as a peace sign and he takes that without giving her any word, any truth, any movement toward the open, I’m going to be angry in a way heat will not fix.
-
-GATE 49 — My Friend Randi  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: "You just show up already being the answer."  
-WHY: That line scared me because it puts Vee’s body in danger of becoming the solution to Pace’s emotional refusal. But the chapter kept her desire alive inside the choice, and Randi’s tenderness/manipulation mix is exactly the morally messy heat I’m here for. I need to see whether Pace deserves what is coming to his door.
+GATE 49 — Not Enough
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This is exactly the kind of emotional payment I needed after Vee’s hurt: not instant repair, but Pace understanding that his silence was fear and that it harmed her. I’m still holding him accountable, but now I’m desperate to see what he does with that knowledge.

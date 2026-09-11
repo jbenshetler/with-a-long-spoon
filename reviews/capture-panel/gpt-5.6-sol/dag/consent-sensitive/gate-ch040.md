@@ -1,19 +1,21 @@
-*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — Oh, the shirt got me. That is embarrassingly, devastatingly intimate: not stealing something that smells like him once, but bringing it back to be refilled, establishing a little circulation system for longing. And Pace putting it on immediately, over the shirt he was already wearing, is exactly his language. Vee is right that he answers with acts—but I’m increasingly uneasy that she treats his refusal to use words as depth rather than limitation. She wanted him to protest those five nights. She needed to hear that he missed her, and once again she translated his silence into the answer she wanted. That is romantic until the day the missing words are the ones she cannot safely invent for him.
+REACTION
 
-Still, I am genuinely relieved by the five nights. Vee noticed that this relationship was eating her schoolwork and reclaimed time, and Pace accepted it cleanly: no sulking, pressure, punishment, or manufactured emergency. That matters enormously to me. She lasted five days because she wanted him, not because he engineered her return—at least not in this chapter. Her desire is almost painfully hers.
+Oh, the shirt got me. That is embarrassingly intimate: not stealing his clothes as a cute girlfriend trophy, but needing the smell renewed because she has been sleeping in it every night she stays away. And when he briefly thinks she is returning it—when the hurt appears and he decides not to ask—I felt the ache on both sides. Then she corrects him, tells him exactly what she wants, and he simply puts it on over the shirt he is already wearing. That is such a specific act of submission from him, almost: this enormous controlled man agreeing to spend the weekend faintly ridiculous because she asked him to make something for her with his body. Yes, fine, I melted.
 
-But “the new ordinary” is doing sinister work under all that warmth. Her things live in his house. She sleeps in his smell when she is away. Her appetite, her weekends, her body, and even her ability to taste now feel authored by him. The line comparing his attention to her with his attention to dough made me cold for a second: she finds comfort in being one beautifully handled object among others. I understand why, and it is hot, but the book absolutely knows what it is showing me.
+I’m also relieved that the five-night separation was Vee’s decision and Pace accepted it cleanly. She needed school nights, said so, and got “of course,” with no sulking, punishment, bargaining, or engineered emergency. Her disappointment that he didn’t fight her is emotionally believable—and dangerous in the way yearning can be dangerous—but it belongs to her. He did the right thing even though the right thing left her wanting louder proof.
 
-And hello, table. The thong landing on the “long, unusually proportioned table” while Vee never looks is such a wicked little flare fired directly at the reader. She still cannot see the architecture she is walking through, even when her underwear lands on it.
+This chapter made the extent of her dependence impossible to ignore, though. Five nights feels like deprivation; she counts them in her body; she sleeps inside his scent when she cannot sleep beside him; his house stores pieces of her now. I believe this happiness, but her world is shrinking toward him with alarming speed. Pace never has to demand that she return because he has made returning feel like food, sleep, sex, home, and being fully perceived all at once. That doesn’t make his tenderness fake. It makes the secret arrangement with Randi more unforgivable every time Vee roots herself deeper.
 
-The sex was warm and wanted, but the continuing absence of contraception, condoms, testing, or exclusivity has moved past conspicuous into maddening. He ejaculates inside her, Randi is also his lover, and Vee is talking about this as ordinary domestic life without possessing the most basic facts governing her bodily risk. Every encounter can be enthusiastically consensual and this can still be an appalling informational violation. That is the book’s whole thesis, so I remain willing to believe the silence is deliberate—but I need it confronted.
+The line about his care being simply the shape his attention takes—and that he might make the pizza exactly so for an empty house—caught me. Vee can briefly see that not every beautiful thing he does is uniquely evidence of love for her. That is a healthy perception, even if she immediately folds it back into contentment. Pace’s actions communicate enormously, but “he was good at not asking things” landed with a chill. His silence can be spacious and respectful; it can also let both of them avoid naming the relationship, its assumptions, and everything Vee does not know.
 
-What I’d text at 1 a.m.: “She is laundering his shirt so he can put his smell back into it, and it is both the most romantic thing imaginable and practically a diagram of dependency. ALSO THE BDSM TABLE HAS NOW BEEN HIT BY A THONG.”
+Also: the “long, unusually proportioned table” in the bedroom, with her thong landing on it? Excuse me. That detail was placed under a spotlight and then pretended it wasn’t. I see the future apparatus, Helen. I see it.
 
-GATE 40 — The New Ordinary  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: The shirt ritual wrecked me, and Vee successfully claiming five nights for school bought Pace real trust. But her world is becoming organized around him down to scent and taste, while the hidden table and the still-unspoken sexual-health reality tell me the trap is tightening inside the tenderness.
+Nothing here made me want to leave. Vee is initiating, setting limits, returning by choice, asking him for something vulnerable and specific, and receiving it without mockery. I’m warm, worried, and absolutely furious that the two people she trusts most are letting this become her ordinary before telling her they built the road into it.
+
+GATE 40 — The New Ordinary
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: The renewed-shirt ritual went straight through me, and Vee’s growing dependence feels both genuinely chosen and increasingly devastating under the undisclosed plan. I trust the book to know exactly why this tenderness is beautiful and why it is also tightening the trap.

@@ -1,25 +1,21 @@
-*capture-dag-v2-rich · gate ch038 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch038 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
 
-REACTION — 
+REACTION — Oh, this chapter got me in the exact soft dangerous place.
 
-Oh, this one got under my skin in a quieter way than the spanking chapter, which is saying something, because there is barely any “scene” here and yet the whole thing is basically erotic pressure in daylight with eggs.
+What I love is that it isn’t a “big scene” chapter, except it absolutely is. It’s Vee trying to explain abundance. Not one spectacular night, not one new kink discovery, but the terrifying ordinary fact that she has become a woman whose life is organized around appetite now. Sex, food, sleep, being looked at, being fed, being listened to. The phrase “finally hungry out loud” landed on me hard because yes, that is exactly what this book has been doing to her. Not making her want. Proving she already did.
 
-What I felt most was Vee’s life narrowing and widening at the same time. Narrowing because it’s Pace on weekends, Randi at brunch, Pace’s house, Randi’s table, Pace’s bed, Randi’s mouth goodbye, and everything else is gray filler until she can get back to one of them. Widening because she’s tasting food, spending money, saying what she wants, showing the picture, asking Randi to take a class with her. She is becoming more vivid. I hate that I can’t separate that from the fact that she is also being drawn exactly where two people already wanted her to go.
+And Randi. God. Randi is so good at absolution that I can feel myself wanting to be absolved by her, which is exactly why I do not trust her. She says the perfect thing. She makes Vee’s shame feel not only acceptable but chosen, special, beloved. And then she gets visibly hit by Vee’s “he wants me, with the body attached,” and for one second the mask slips enough that I believe she is starving too. That was the part that made my stomach flip more than the picture-sharing, honestly. Randi wanted something in that booth. Not just the gossip. Not just the control. Something.
 
-The brunch dynamic is delicious and awful. Randi is so good at giving Vee permission without looking like she’s pushing. “You’re just finally hungry out loud” is exactly the kind of line that would have undone me at twenty-one if an older, glamorous woman said it with full attention on my mouth. And the “you’re my sex pervert” joke is funny and loving and intimate, but also: girl. GIRL. That is not neutral. Randi is feeding the appetite, naming it, making it safe, and then Vee rewards her by opening another door. The picture. The full picture. The “I gave him all of it.” I could feel Randi getting what she came for and Vee feeling proud to hand it over.
+The picture scene was delicious and so alarming. Vee thinks she is showing her best friend proof of her transformation, which she is. But also she is handing Randi erotic access to something Pace made with her and for her. And the way Randi pushes, lightly, almost jokingly, from cropped to full-length? “Legs like yours… and you only gave him half?” That is a dare dressed as friendship. And Vee takes it because she cannot bear being seen as less brave by Randi. That is not nothing. That is the mechanism, glowing.
 
-And Randi’s reaction when Vee says Pace wants “me, with the body attached” — that little crack in her. That was the chapter’s real electric point for me. Because for once Randi doesn’t just seem like a handler collecting data or a seductress enjoying her own competence. She seems hit. Envious? Moved? Wanting Vee? Wanting to be wanted like that? Wanting to be the one who makes Vee feel that? I don’t know, but I believed the breath catch. That’s what keeps this from being just a manipulation machine. Randi is in danger too, and I can feel it now.
+Also: Vee paying her own check, ordering the Benedict, tipping well. I noticed. She is expanding in real ways, not just sexually. She’s becoming someone who can take the expensive yes. But the expansion is so tangled with them that I don’t know what part of her could stand alone if either one stepped back.
 
-The food writing is still doing exactly what the sex writing does: appetite as education. The Benedict with the yolk and hollandaise going everywhere was obscene in the best way, and Vee not even realizing she’s talking like that in front of Randi is half the charge. She keeps thinking she’s reporting on Pace, but the whole brunch is Vee seducing Randi with her own aliveness. Accidentally, maybe. But not entirely by the end, because that kiss? That second she takes for herself? No. She knows she wanted it. She just refuses to make it mean what it means.
+And then the kiss. Finally Vee reaches for more. Not accidentally, not confusedly. She leans after Randi and takes another second because she wants it. She notices it and chooses not to examine it. Reader, I examined it. I am examining it with a miner’s lamp and a clipboard. That was not friendship. That was a woman crossing a little white line and then deciding the line was probably never important anyway.
 
-I am now actively tense about Cassie. “So it’s just us” felt like a door closing somewhere. Randi gets the elective. Randi gets the brunches. Randi gets the photos. Randi gets the sex-brain confessions. Cassie gets streetlight Vee coming home late and maybe, maybe, the truth if Vee can still remember how to give it to someone who won’t eroticize it.
+I’m very caught. I’m also bracing. Because Vee is glowing so hard right now, and every warm thing has a hook in it. Pace has her weekends, Randi has her confessions, Cassie has the shrinking leftovers, and Vee thinks this is balance because everyone is still smiling.
 
-Also, Pace’s absence-presence here is fascinating. He’s not in the room, but everything about the room is built around him: the sex, the food, the pictures, the house she’s driving back to, the “long slow thing” she already wants. And Randi is sitting there consuming it. The triangle is now fully alive even when only two people are physically present.
-
-I would text a friend: “This girl thinks she’s going to brunch and she is actually bringing a lit match into a perfume factory.”
-
-GATE 38 — All the Time  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: This had less overt action than some chapters, but the emotional/erotic triangulation is tightening beautifully. Vee showing Randi the full photo and then taking that extra second of the goodbye kiss felt like a real threshold, even if Vee won’t call it one yet.
+GATE 38 — All the Time
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This is exactly the blend I’m here for: explicit heat, emotional texture, and that slow creeping dread of being loved into a shape before you can see the hands doing it. Randi’s tenderness is getting more erotic and more suspect by the page, and Vee reaching back into the kiss means we are no longer pretending.

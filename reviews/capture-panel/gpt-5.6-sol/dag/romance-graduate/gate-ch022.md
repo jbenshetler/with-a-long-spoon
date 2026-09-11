@@ -1,17 +1,19 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
 
-REACTION — Oh, Cassie. That quiet forty seconds of watching Vee instead of the board got me harder than any grand speech could have. She asks one question—*Was it a good night?*—hears the real answer inside the second yes, and then lets Vee keep everything else. No excavation, no performance of intimacy, no making Vee prove her happiness. This is exactly why I trust her, and exactly why I’m frightened she’s losing ground to Randi.
+REACTION
 
-Because Randi hears one unmet need and instantly turns it into a date. Of course she does. Vee doesn’t have shoes; Randi has just acquired Saturday. It feels wonderful to Vee because it genuinely is wonderful to be noticed that quickly, to have someone treat your problem like a pleasure they can’t wait to solve. But I can see the machinery now. Randi keeps making herself the route between Vee and the woman Vee wants to become. Shoes aren’t shoes anymore; they’re access, permission, another afternoon inside Randi’s taste and attention. And that wrist-grab plus “Don’t you dare tell me no” absolutely did something to me, which is irritating because it is also the whole ethical problem in miniature.
+Oh, Cassie. That forty seconds of her not looking at the professor because she is looking at Vee—not for gossip, not for proof, not even for the story, just checking whether her friend had a good night—got me right in the chest. And then she hears the real yes, sees Vee is happy, and simply goes back to her highlighter. No excavation. No making Vee perform intimacy to earn her care. I need Vee not to lose sight of what a rare thing that is just because Randi’s attention burns hotter.
 
-The Simpson’s paradox lecture was not subtle, but I don’t care—it landed. Same facts, untouched, and the conclusion reverses depending on which frame you’re allowed to see. Vee knows every yes she gave. She knows she initiated, stripped, strode toward Pace, wrapped her leg around him, spent the night because she wanted to. Add the hidden data—the selection, the plan, Pace and Randi’s relationship—and none of those facts change, but what story do they make together? That is precisely the question that has been eating me alive.
+And Randi does burn. “You lucky slut” is exactly the word Vee wants transformed, delivered by exactly the woman whose approval goes straight into her body. Then the shoes become a date before Vee can even frame them as a money problem. I’m excited because shoe shopping with Randi is obviously going to be charged beyond reason, but I’m already tense about the price tags. “We are not quitting” sounds playful when Vee hears it; to me it sounds like Randi taking possession of the day, the outfit, and the version of Vee who will walk into that induction. Randi keeps making herself indispensable at every threshold.
 
-Also: “happy in the middle” is so sweet and so ominous I want to shake the book. Vee thinks she is between two beloved friends. I know she is between the one person who watches without taking and the one who takes so beautifully it feels like being given more of yourself. And the dress is still unseen. She has described its effect, but neither woman has actually looked at her in it yet. Randi choosing the shoes means she is helping finish the image Pace built. That feels less like shopping than the two conspirators dressing their chosen girl together, and Vee still experiences every piece as a separate gift.
+And good God, Simpson’s paradox. Same untouched facts, opposite conclusion depending on how they’re grouped. That is the whole trap sitting openly on the board while Vee is literally between the honest friend who lacks the facts and the deceptive friend who possesses all of them. Nobody has to falsify a single yes for the total story to reverse. Nobody touched one of the numbers. I felt the floor tilt.
 
-No explicit scene here, but the soreness, the bra against her nipples, and “lucky slut” kept the previous night alive in her body. I didn’t feel deprived. I feel fed and increasingly trapped alongside her.
+The final image should be uncomplicated happiness: Vee between “both her girls,” full of sex and silk and anticipation. Instead it scares me because she really is happy, and because every component of that happiness is real. That is what will make the eventual accounting vicious. At one scale Pace made her a dress, Randi gave her language, and Vee chose everything. Put the years—or the people—together, and we may discover she has been living inside a different story without one fact changing.
 
-GATE 22 — All Told  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: Cassie’s one restrained question broke my heart, Randi’s instant claim on Saturday lit me up and alarmed me, and Simpson’s paradox named the book’s moral trap with horrible precision. Same choices, same happiness, completely different meaning once all the numbers are visible.
+Also: the dress has still been shown to “not one living soul,” when Pace has seen it and made it. That tells me the person Vee means to reveal in that dress is herself. I desperately want her to get that moment before the secret poisons it.
+
+GATE 22 — All Told
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: Cassie’s quiet love made me ache, Randi’s “date” made me want the next chapter immediately, and that classroom reversal turned Vee’s happiest morning into a warning she cannot yet hear. I’m fully caught between wanting her joy to last and needing the hidden total exposed.

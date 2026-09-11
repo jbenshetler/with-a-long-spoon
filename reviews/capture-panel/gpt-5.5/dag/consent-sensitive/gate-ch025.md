@@ -1,19 +1,31 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch025 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — Oh, this one got under my skin in a quieter way. Not the dress-and-shoes heat, not the obvious Randi danger, but the kind where I’m sitting there with Vee in the robe, warm and exposed, and realizing Pace is finally becoming less perfect-object and more person-with-damage. And that makes him hotter, yes, but also more frightening, because now I can see the wound that might let him justify what he’s doing to Vee.
+REACTION —
 
-The Daphne reveal made my whole body go still. Fifteen and nineteen. “Tutor.” Assigned to help “the child” find his feet. Two years. And the way he narrates it as nothing wrong, best two years, sensible that she left, is exactly the thing I’m vigilant for, except here the book clearly knows. Vee knows before she lets herself know. She does the math; she feels the ugly word form; she doesn’t say it because she’s tender with him, but the chapter absolutely says it in the space around them. That matters enormously to me. This is not the author being coy and romantic about a precocious boy and an older girl. This is a grown man still protecting the memory of his own exploitation because it was also love, or shelter, or the first softness he had.
+Oh, this one got under my ribs.
 
-And now I’m looking at Pace differently. His beautiful moment-to-moment consent with Vee may be partly a vow against Daphne, or partly a repetition with the terms reversed, and that is a dangerous tangle. He was a child made adult too early, and now he is with Vee, who is legally adult but socially and sexually younger in ways he can absolutely see. I don’t think the chapter excuses him. It complicates him in the way I wanted and dreaded. He knows what it is to have choices structured by someone older, smoother, necessary. Does that make him more careful, or does it make him believe intense need sanctifies everything?
+I was braced after the Randi/Pace chapter, honestly. Chapter 24 put the machinery right in front of me: they are talking about Vee in bed, they are both wanting her, they are assessing her readiness, and Pace says he wants her to get there on her own while sitting inside a plan she still doesn't know exists. So I came into this waiting for the book to either soften him too conveniently or show me the rot. And instead it did something more interesting and more dangerous: it gave him history that makes him legible without excusing him.
 
-Vee was lovely here. I loved that she could hear the “hand underneath the thing” in his response about her family food, and then later offer him the same kind of exactness: “They took the thing you loved, and made it the punishment.” That felt like real intimacy, not just seduction apparatus. She isn’t only being opened; she’s seeing him. She catches the careful voice. She understands the glass carried too steadily. She has moral intelligence, even if she’s not ready to use it against the people she loves.
+The food talk almost undid me in the gentlest way. Vee describing casseroles and church basements and Cool Whip containers, and Pace immediately finding the affection inside it instead of making her feel provincial. That is exactly why he works on her. He doesn't sneer at where she came from. He notices the hand under the thing. I hate how much I love him for that, because yes, that is care, and yes, that care is also part of why she is open to him.
 
-The scar still being held back worked for me. “Not tonight” while keeping her hand there is such a Pace move: boundary, intimacy, promise, control, all in one. I found it tender. I also noticed he gets to decide the timing of every disclosure while Vee is still living inside a disclosure that has been denied to her entirely. That asymmetry is screaming louder now because this chapter is all about names and histories and who gets to know what.
+And then Peter. His real name being Peter felt like a little trapdoor. Not because “Pace” is fake exactly, but because suddenly there is a boy under the beautiful competence. The hall during math class made me furious in that quiet adult way where you want to go back in time and remove a child from a room. “They took the thing you loved and made it the punishment” is Vee seeing him with the same precision he uses on her, and I loved that. I loved that she did not make a performance of sympathy. She touched the place and did not grab it.
 
-And “Peter.” Oof. I felt that. I’m not immune. The chapter made me want to stay in the warm dark with them, which is exactly why the hidden architecture keeps making my stomach tighten.
+But Daphne. Yeah. There it is. There’s the old wound with the ugly shape. Nineteen and fifteen, assigned to him, “to help the child find his feet,” and he still calls it the best two years. The book knows. Thank God, the book knows. Vee knows enough to go still; she knows enough to do the arithmetic; she knows enough to nearly form the word and not say it. And the sentence that really mattered to me was that he “had handed her the thing that had hurt him and named it luck.” That is the book looking straight at the problem. Not coyly, not with a wink, not asking me to sigh over Daphne as first love. It understands that his template for intimacy may have been built inside something exploitative before he had language for it.
 
-GATE 25 — Rock  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “Nothing happened. Nobody did anything wrong.”  
-WHY: That line made me tense hard, but the chapter knew why it was alarming and let Vee know it too, even without saying the word. I’m more worried than ever about Pace, but also more invested, because the book is finally showing me the machinery inside him instead of only the beautiful results.
+Which makes him scarier, not safer. His obsession with exact consent, with letting Vee choose locally, with not pressing the scar story, with doors instead of walls — all of that suddenly has a source. He knows what it is to be young and out of place and grateful to be chosen by someone older who has the map. Does he understand that he is now, in some ways, holding the map for Vee? Or has he built a whole ethics around the wrong lesson: that if the vulnerable person feels lucky, then nothing has been taken?
+
+That is the live wire for me.
+
+The lifting parallel worked on me too. I believe him when he says presence frees him. I believe Vee when she recognizes that same total attention in sex. That is the erotic center of this book for me: not just dominance, not just competence, but being met by someone whose attention does not wander. I get why she is gone. I’m gone a little too, against my better judgment, which is exactly the uncomfortable delicious place this book keeps putting me.
+
+And the scar: “Not tonight.” I loved that boundary. I loved that he did not yank her hand away, did not make her ashamed for touching, did not tell her and did not refuse her forever. A door with a time on it. That felt genuinely intimate.
+
+But I am also more worried now, not less. Because this chapter made Pace tender and wounded and ethically careful in the immediate moment, while deepening the possibility that his whole private morality has a blind spot shaped like his own survival. He may not think Daphne did anything wrong because admitting it would rearrange him. And if he cannot admit what missing power and missing context did to him, how is he going to admit what missing information is doing to Vee?
+
+So yes. Captured. Uneasy. Softened toward him and more afraid of him. That’s a nasty little combination, and I mean that admiringly.
+
+GATE 25 — Rock
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: “She was nineteen.”
+WHY: I almost recoiled there, but the chapter did not romanticize past the danger; it let Vee feel the wrongness and let Pace’s defense of it reveal him. This is exactly the difference I’m reading for: the darkness is not invisible to the book, and now I badly need to see what Pace does when that same logic points back at him.

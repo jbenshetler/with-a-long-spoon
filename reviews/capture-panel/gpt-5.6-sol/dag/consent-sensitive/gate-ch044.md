@@ -1,17 +1,21 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
 REACTION
 
-Oh, Vee. This is the first time one of Pace’s acts of care has simply failed her. Not been reinterpreted, not outweighed by sex, not made sufficient because she loves him—the shirt stops working. And the instant she realizes its warmth is only her own body heat given back, I felt genuinely heartsick. That is their entire relationship in miniature: she keeps supplying the love and then reading its warmth as proof that he is there.
+Oh, Vee. The shirt failing her absolutely gutted me. That ritual had been one of the sweetest things in the book—she asks him to put himself back into it, he wears it all weekend, she carries his scent home—and now she discovers that a preserved trace of someone is not the same as having them. Worse: its warmth is hers. She is supplying the comfort herself and mistaking it for his presence. That is such a lonely realization I almost couldn’t bear it.
 
-What frightens me most is how accurately she already understands that there is no perfectly phrased question that can manufacture the answer she needs. He would reply kindly. He would reply warmly. He might solve whatever practical problem she named. And she would still not know whether he loves her or even what he believes she is to him. She has learned his evasive shape well enough to predict it, and instead of making him answer, she strips herself bare and takes the cold. That isn’t romantic suffering to me. It is loneliness inside an attachment that has occupied nearly every part of her life.
+And this is not Vee manufacturing trouble because she is needy or insufficiently grateful. She has correctly perceived an absence. She offered Pace the most vulnerable declaration she could manage, and he answered beside it. She asked what they are, and he solved the logistical version of the problem by taking her out. He can answer every need that can be translated into an action—cook, listen, make room, touch, hold, obey—but when she needs him to define his own heart and place her knowingly inside it, he disappears behind tenderness. Of course every possible text feels doomed to come back “small and warm.” Small and warm is exactly how he keeps meeting the surface of questions whose depths would require him to tell the truth.
 
-The image of Cassie sleeping below hurts too. Safety is literally within arm’s reach, but Vee has disguised the shirt for Cassie’s benefit because she already knows what it would reveal: not merely that she is infatuated, but that she depends on Pace’s residue to get through nights away from him. And now even the residue cannot soothe her. I badly want her to wake Cassie, though I understand exactly why she doesn’t.
+That empty message field frightened me because it shows how thoroughly she has learned the limits of what she can ask. Pace has never forbidden the question. He has made himself so reliably kind that Vee already knows any indirect question will receive a lovely, technically adequate answer that leaves the central fact untouched. She cannot force clarity without exposing herself completely, and she now believes the rule is that love must go through him first. That is power, even if he never consciously imposed the rule.
 
-I’m captured, but no longer by the sensual spell. I’m captured by the moment the spell develops a hole Vee cannot lovingly patch. The book absolutely knows this is alarming. The question now is whether Vee’s sleepless, bare body becomes the beginning of a demand for truth—or whether Pace gets to warm her again and make the knowledge disappear.
+Taking off her own shirt so his can touch her bare skin felt painfully intimate; taking his off and refusing to put it back on felt like the first tiny bodily refusal of the whole arrangement. Not a rejection of him. Not even anger she can name. Just her body finally declining a substitute that no longer works. I wanted to climb into that freezing bunk and hold her, and I also wanted her to stay bare long enough to understand what the cold is telling her: she is already alone inside something she experiences as belonging.
 
-GATE 44 — Bare  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: “And it was warm because she was warm” landed like a blade: Vee finally recognizes that she has been generating some of the reassurance she attributes to Pace. I’m continuing because the book sees her loneliness with merciless clarity, and I need to know whether she can keep hold of what she learned once he touches her again.
+I’m furious with Pace because I believe he loves her. If he did not, this would be simpler. But he is letting her lie awake starving for a word while he possesses the information that would explain why he keeps choosing formulations like “I love how good we are together.” He cannot name her cleanly without naming Randi and the plan. His silence is no longer merely emotional reserve; it is structural maintenance.
+
+The image I’m carrying is the shirt in a heap beside her. That feels like the first beloved object in this relationship to lose its magic. Something has cracked, however quietly. Please, book, let her trust the crack.
+
+GATE 44 — Bare
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: none
+WHY: This hurt exactly where it should. The book understands that exquisite care can become a mechanism of avoidance, and Vee’s loneliness is finally becoming too concrete for scent, warmth, or sex to soothe away.

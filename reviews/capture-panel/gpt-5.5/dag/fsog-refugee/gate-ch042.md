@@ -1,23 +1,23 @@
-*capture-dag-v2-rich · gate ch042 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch042 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh. That hurt in such a quiet, humiliatingly recognizable way.
+Oh, that hurt in exactly the place I was afraid the book was going to start hurting.
 
-I was so ready for the morning to be another one of those Pace chapters where he does the exact right thing without making a performance of it. The porch, the quilt, the coffee already waiting, his hand on her shin, the moon over the mountains — all of it had that held, domestic spell I keep falling for. And then Vee works herself up to this brave little almost-confession, this gorgeous hungry sentence that is so her: food, deprivation, him teaching her appetite. It isn’t “I love you,” but it is absolutely the body of it wearing different clothes.
+Not loudly. Not in a dramatic fight way. In the small, devastating way where a woman gives the largest safe version of the thing she cannot quite say, and the man she loves answers warmly but sideways. I felt my whole body tense at “I love how good we are together.” Because yes, Peter, that is beautiful, and yes, it is true, and yes, I believe you mean it. But it is not what she said. Or it is not the same shape as what she said. She gave him *you changed my life, you fed the starving place in me, you made me know what nourishment is,* and he answered with *we are sexually and emotionally extraordinary together.* Which is not nothing. God, it is not nothing. But it is smaller where she needed it to be larger.
 
-And he misses it. Or he doesn’t miss it, which might be worse.
+And the worst part is that he did not do anything cruel. That’s what made me ache. He held her. He took two breaths. He was moved. He pulled her close and kissed her hair in that careful Peter way that usually melts me completely. I don’t think he brushed her off. I don’t think he lied. I think he answered from the room he can bear to stand in, and Vee had just reached for a door beyond it.
 
-“I love how good we are together” made my stomach drop. Because it has the word love in it, and it’s warm, and it’s not cruel, and it’s not nothing. But it turns her offering sideways. She says, you changed my life; he says, our chemistry is extraordinary. She says, I was starving; he says, I’m glad the sex is mutual. I don’t even think he means to wound her, and that is almost more painful, because the book has trained me to trust his exactness. So when his exactness fails here, I can’t shrug it off as awkwardness. I felt that “small wait” behind her breastbone like it was mine.
+That little “wait” behind her breastbone got me. I know that feeling. The body knowing before the mind can safely admit it. The body going, *hold on, something didn’t meet me,* while the rest of you is trying to be grateful because he is warm and kind and still touching you. It’s so painfully believable that she lets the warmth cover it for a while. Because warmth works. Being held works. That’s the danger and the comfort of him both.
 
-And then of course he holds her beautifully. Of course he kisses her hair. Of course the warmth is real. That is what makes this book dangerous for me: the care doesn’t cancel the injury, and the injury doesn’t make the care fake. She really was received warmly. She also was not answered. Both things are true, and Vee is already doing that awful private accounting women do when we don’t want to need more than we were given.
+I am not mad at Pace exactly, but I am scared of him in a new way. Not physically, not sexually, not in the old genre way where the man’s power means her no disappears. He has passed those tests so beautifully. I’m scared of his withholding. I’m scared that all his tenderness can still leave her alone with the things that need words. He can make space in a drawer, make pizza, make a dress, remember coffee, warm a quilt around her, and still somehow not step into the sentence she offered him.
 
-The laundry room part got me even more than the porch. Her sitting there with the dryer going, replaying the sentence like evidence, trying to decide whether he understood and chose not to answer or whether it went past him entirely. That is such a lonely place to be inside a relationship that otherwise feels full of touch and food and attention. And the line about the place where she puts things she doesn’t know what to do with not being empty — that scared me. Because yes. There is a pile now. The plan is in that pile, though she doesn’t know it. The parents. The scar. The shutting-down. Randi’s pressure. All the little repairs she makes so she can keep believing in the whole.
+And Vee putting it on the pile with the other “small flickers” made my stomach drop. Because yes. There is a pile now. The secret plan is the big obvious thing, but this is another kind of secrecy: the not-asking, the self-editing, the way she protects the beauty of what she has by refusing to press where it might not hold. She is learning to be brave in her body, but emotionally she is still negotiating with scarcity. She got fed a meal, and now she is terrified to ask whether she is loved by the person at the table.
 
-I’m not angry enough to leave, because this is exactly the kind of emotional trouble I read for when it’s honest. But I am less safely in love with Pace than I was one chapter ago. He has been so good at asking for her yes physically. This chapter made me wonder whether he is capable of receiving her yes emotionally without converting it into something easier for him to manage.
+I wanted to reach through the page and tell her: your sentence was not too much. It was not embarrassing. It was not needy. It was gorgeous. And he may love you, he may even love you desperately, but you are allowed to notice when he does not answer the thing you actually said.
 
-GATE 42 — Seconds  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: This pulled me hard because it found the bruise under all the warmth. I still believe in the tenderness, but now I’m frightened by how much Vee is learning to swallow in order to keep it.
+GATE 42 — Seconds
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This chapter didn’t give me heat, but it gave me the emotional bruise underneath all the heat, and I am absolutely not leaving now. I need to know whether Pace can meet Vee in words, not only in care, because care without truth is starting to feel like another beautifully warmed room with a locked door in it.

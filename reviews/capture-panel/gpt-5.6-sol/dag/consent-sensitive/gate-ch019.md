@@ -1,15 +1,15 @@
-*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — Oh, Vee. I’m happy for her—I am. That ridiculous returning smile, the unbrushed hair, the sheer bodily rightness of waking up after sex that actually gave her more of herself instead of leaving her ashamed: I felt all of it. Even the missing panties delighted me. “Trade” wasn’t something Pace coaxed from her; it was her own wicked little invention, and she is walking around lit from inside by having wanted openly and been welcomed there. I want her to have this happiness.
+REACTION — Oh, Vee. That last line got me, because I believe her. She really has never been so happy. The sex wasn’t something she endured or got maneuvered through in the moment; she wanted him, initiated, kept choosing, and came home incandescent. I’m happy for her. I’m also sitting here with my stomach slightly clenched.
 
-But the ladle image chilled me. She doesn’t merely choose privacy; she edits the story so smoothly that even she can call the missing center a kindness. Cassie has been the person who knows the whole Vee, and now Vee is giving her the generic boyfriend report—sweet, good kisser, cooked dinner—while keeping the very experience that mattered. Pace did not ask her to lie. Randi did not tell her to withdraw. Yet the secret architecture around Vee is beginning to reproduce itself inside her: separate versions for separate people, omissions that preserve the desired world.
+Because the missing middle with Cassie matters. Vee can call it kindness, but she told Randi the most vulnerable detail she couldn’t tell her actual best friend—and Randi extracted it by leading her almost word by word. Now Vee is editing Cassie’s access to her while Cassie, characteristically, refuses to pry. That difference is enormous. Randi manufactures the feeling that disclosure is irresistible; Cassie leaves Vee ownership of what she keeps. And Vee is rewarding the first intimacy with secrets while quietly starving the second one.
 
-And “boyfriend” landing as “kindly, certainly, wrong” is a tiny alarm with a very loud ring. Vee knows Cassie has named something that has never been discussed, but she lets the mistake stand because it makes the morning legible and safe. Pace’s behavior during the sex still reads as intensely attentive and affirming to me; nothing here retroactively makes that encounter coercive. The problem is that Vee’s happiness is already becoming dependent on not looking too directly at what she has—and on not letting her most trustworthy friend look either.
+The “boyfriend” moment hurt for the same reason. Cassie says it easily and Vee lets the wrong word stand because correcting it would require saying what she actually knows about this relationship—which is almost nothing. She knows his hands, his appetite, his attentiveness, his house. She does not know he and Randi selected her together. She doesn’t even know what Pace believes they are now. Her happiness is absolutely real, and the hidden architecture underneath it is still there.
 
-The last line hurt because I believe it completely. She has never been so happy. That doesn’t make her safe. It makes what’s being built around her more powerful.
+Also: driving home bare, with the plum toenails and her mother’s voice finally failing to land? Yes. That is hot, and more than hot—it feels like a genuine little liberation. I loved that she could hold the memory privately without immediately converting it into shame. I just desperately want privacy to remain something she chooses, not the means by which Randi and Pace separate her from the one person who might see the whole shape.
 
-GATE 19 — Toenails  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: I’m fully caught by Vee’s joy, but the cleanly removed “middle” and Cassie’s confidently wrong “boyfriend” have me braced. The book still unmistakably knows that freely chosen pleasure and a dangerously managed reality can coexist.
+GATE 19 — Toenails
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: Vee’s happiness pulled me in hard, but the cleanly removed “middle” in her story to Cassie frightened me more than any explicit manipulation could. The book still plainly knows that her joy and her increasing isolation are happening at the same time, so I trust it enough to keep going.

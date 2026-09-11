@@ -1,19 +1,25 @@
-*capture-dag-v2-rich · gate ch030 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch030 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
 
-REACTION — Oh no, this chapter got me exactly where I live.
+REACTION —
 
-The practice room. Of course it had to be a tiny locked-away little room where the world disappears and two women sit facing each other with a piano like a witness. I felt Vee crossing a line in this one, and not even the Pace line, which is already crossed six ways. This is the Randi line. Vee is seeking her out now. Touching her wrist. Choosing her. Pulling her away from Cassie. That mattered to me more than the actual confession at first, because the shape has changed: Randi is no longer just intercepting her. Vee goes looking for the hand that opens the door.
+Oh. Oh no, I loved this.
 
-And then Randi with the spanking story. God. That was wicked. Not just because of the content, though yes, obviously, over the knee and counting and panties down and “welcome” hit like a lit match. It was the way Randi knew exactly what she was doing and still made it feel like generosity. She took Vee’s little kitchen shock and gave it a name without naming it too cleanly. She didn’t say “you like being spanked.” She made Vee’s body answer before Vee’s mind could get there. That is so much hotter and more dangerous.
+This chapter took the thing I’ve been waiting on with Randi and finally put teeth into it. Not big theatrical teeth, not “I am seducing you now” teeth. Worse. Better. The kind where Vee walks herself into the room, shuts the door, hands Randi the shoes like a little offering, and then Randi just... tilts one question and the whole floor gives way under her.
 
-Pace’s porch line about the heels still has me weak. “Beauty like yours made for the gods and loaned out” is exactly the kind of absurdly courtly thing that would make me forgive a man before I remembered I came mad. But what I loved here is that Pace almost isn’t in the room, and he still owns the room. His wet hand, his seeing her face, the kitchen, the sink soaking. He’s become a trigger Randi can press from across campus. That’s delicious and terrible.
+The practice room was perfect for this. Tiny, soundproof, guilty by reputation, and Vee knows it. I could feel her pretending this was a normal friend debrief while every surface in the room was saying, no, baby, this is private-private. And Randi is so good at making a trap feel like being understood. “Did you deserve it?” That line got me. Because Vee thinks she’s answering about a silly little kitchen moment, and then a second later she realizes Randi has slid a word under her skin. Deserve. His. Warm wet hand. The whole thing named without naming it.
 
-Vee trying not to touch herself in the bathroom was the strongest little moral panic. “To do that would be to say yes to it” — baby, you already said yes with your whole nervous system. But I believe her denial. She’s not coy; she genuinely does not have the words yet, and the book is making me watch the words being built around her by the two people who planned her. That is the trap. That is the knife under all this silk.
+And Vee’s body is so far ahead of her now it’s almost cruel. She is still trying to keep categories clean: Pace is the lover, Randi is the friend, the spanking thing was nothing, the bathroom is just needing a second, the kiss goodbye is just what they do. Girl. GIRL. You are sitting in a locked bathroom soaked because another woman told you a story in a chair. The denial is getting deliciously thin.
 
-The almost-stop for me is still the tenderness. There is a lot of softness, a lot of “he’s a good man,” a lot of emotional caretaking. But this chapter put teeth back in. Randi is getting bolder. The kisses are now so routine Vee “barely clocks” them, which is somehow more alarming than if she panicked. That is grooming-by-glamour in the exact flavor I was promised. I need the reveal badly now, because Vee is deep enough that it will actually hurt.
+Randi, though. My god. She knows exactly what she’s doing and exactly how deniable it is. That “Sometimes it’s the mouse that roars” anecdote was a hand on Vee’s throat with perfume on it. She gives Vee permission and poison in the same spoon. And then she just picks up her phone afterward like nothing happened, like she didn’t just make Vee flee to a bathroom to keep from touching herself. Evil. Excellent. More, please.
 
-GATE 30 — The Practice Room  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: "It was really good."  
-WHY: I had a tiny flicker of impatience when Vee skated past the Pace reconciliation into soft glow, but Randi immediately turned the chapter into a private erotic tutorial and I was caught. The spanking thread, the bathroom denial, and Vee initiating time alone with Randi all feel like the book finally tightening the second noose.
+Also: Pace’s spanking moment has now officially opened a door. Not the door, maybe, but a door with warm light under it. His hand staying there, not striking again, just covering the place and asking “This?” from last chapter is still humming, and now Randi has attached language and ritual to it. Counting. Over the knee. Skirt up. Panties down. I am not normal about this, and neither is Vee, thank God.
+
+The outlier lecture was a little on the nose in exactly the way this book likes to be, but I ate it. “The second kind comes in through the part that carries forward.” Yes. That slap was not a one-time dot. Randi is not a one-time dot. The planning is not going to be a one-time dot. It’s in everything after.
+
+I am extremely captured now because the book has finally braided the danger I wanted into the tenderness instead of leaving them in separate rooms. Pace is still the careful, devastating man. Randi is still the smiling handler with her fingers in Vee’s mouth metaphorically if not yet literally. And Vee is starting to choose the wrong doors herself, which is always hotter than being shoved through them.
+
+GATE 30 — The Practice Room
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This hit my exact shelf: shame becoming heat, a “friend” turning confession into seduction, and Vee’s body betraying her before her brain can file the evidence. Randi is dangerous in the cleanest, prettiest way, and now the Pace/Randi machinery is finally touching the same nerve.

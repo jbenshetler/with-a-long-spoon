@@ -1,25 +1,23 @@
-*capture-dag-v2-rich · gate ch027 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch027 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
 Oh, this chapter knew exactly where to put its hands.
 
-I was tense coming in because I wanted Vee to go to Pace immediately, half apology, half panic, and I knew that would have been wrong but I wanted the emotional hit. Instead she goes to Randi, and of course she does. Of course the woman who has been teaching her how to want herself is the one she goes to when she has made a mess of wanting him. And I hate how right it feels. I hate how much relief I felt when Randi opened that door upstairs and just understood.
+I came in tense because Vee had made such a mess of the dance night, and I was ready for apology logistics, for the anxious little spiral of *how do I fix it, what do I say, did I ruin everything*. But instead the book sends her to Randi, which is both exactly what I wanted and exactly what worries me. Because Randi is so good at this. Too good. She takes Vee’s shame apart like a clasp she knows by touch. She doesn’t minimize what Vee did, but she turns the jealousy into proof of love, proof of investment, proof that Vee is already farther in than she can admit. And God help me, it works on me too. I felt my own chest loosen when Randi said he brought her there on a Thursday, to the room full of women, and the women wanted her chair.
 
-The Brooke entrance made my shoulders go up. “Stats friend” is such a little knife. Not openly cruel, not enough to call out, just enough to remind Vee she is already being discussed in rooms she hasn’t entered. That house having “a folder on her” made my stomach drop because yes, that’s the whole book, isn’t it? Vee walking into invitations that predate her knowledge of them.
+But it is also so dangerous, because Vee leaves steadier, yes, but steadied by Randi’s hands. Randi tells her when to go, what to wear, what it means, how Pace will read it. “He leaves you the room and waits to see what you walk in wearing” is hot as hell, and also: there it is again, the architecture. Pace builds the room. Randi dresses her for it. Vee chooses, and she really does choose, but the frame is being handled by people who know more than she does. That is the whole drug of this book and the whole alarm bell.
 
-But Randi in her room, bare-faced and sleepy, got me. The freckles. The bitter orange smell. The way she listens. She is so dangerous because she really is good at this. She doesn’t just comfort Vee; she metabolizes the shame for her. “You were so far ahead you couldn’t see the race” is exactly the sort of sentence that would make me hand someone my whole nervous system. And then the “not today” advice? Infuriatingly smart. She’s choreographing Vee again, but the choreography is better than Vee’s panic would have been.
+The chapter’s most intimate thing for me wasn’t even the mouth kiss at the end, though that has now fully crossed into “baby, this is not just how friends say goodbye.” It was the shoes under the skirt. Randi kneeling, Vee unable to see, only feel: straps, balance, the hand high on her thigh, the architecture of a shoe that holds instead of wobbles. That is very much the same language as Pace teaching her to dance, Pace measuring her, Pace making the dress: constraint that doesn’t diminish her but steadies her into herself. I am embarrassingly susceptible to it. Apparently I too can be made to believe in footwear as destiny.
 
-And then the dressing scene. God. This book understands that sex is not the only way to write erotic attention. Randi kneeling under that long skirt with Vee unable to see, only feel: the ankle strap, the hand high on the thigh, the thumb behind the knee. That was hotter to me than a lot of full-on sex scenes because it’s so specific about being tended to, arranged, held in place by someone with taste and authority. The shoes “held” her, and obviously the shoes are not just shoes. Pace leads her; Randi dresses her; both of them are teaching her that structure can feel like freedom. That is delicious and alarming.
+And the laughing. I loved the Edna Mode bit more than I expected to. It made the room breathe. It reminded me that Vee and Randi are not only seduction and manipulation and danger; they are funny together. Vee is funny with Randi in a way she isn’t with Pace. With Pace she blooms into seriousness and heat and awe. With Randi she gets wicked and silly and quick. That matters. That makes the betrayal-to-come hurt worse, because this friendship is not fake. Whatever the original plan was, Randi is in it now. She likes Vee. She wants Vee. She is proud of what she can make Vee see in herself. And she is still not telling her the truth.
 
-Also: Vee laughing with Randi keeps saving Randi from being only sinister. The Edna Mode bit, the shoe whore joke, the way their friendship has actual play in it. That’s what makes the seduction work on me. If Randi were only sleek and predatory, I’d roll my eyes. But she’s funny with Vee. She gets cracked open by Vee. She likes her. Maybe more than planned, and maybe that’s the whole problem.
+Brooke at the door gave me the smallest social horror shiver. “Stats friend.” The house has a folder on her. Exactly. Vee thinks she is arriving in a crisis, raw and self-directed, and the sorority machine already knows where to shelve her. I do not trust Brooke’s shampoo-commercial warmth for one second.
 
-The goodbye kiss barely even pretending to be explainable now. “It was only what they did.” Girl. GIRL. That is not a friendship custom. That is a habit becoming a claim. And the fact that Vee is now carrying Randi’s shoes and scarf back to prepare herself for Pace is so messy and intimate I want to shake the book. Randi is literally dressing her for another lover while making herself impossible to separate from the wanting. Perfectly poisonous. Perfectly hot.
+By the end I was completely pulled forward. Not because Pace is on-page, because he isn’t, but because tomorrow night is now loaded. Vee is going to his door dressed by Randi, instructed by Randi, carrying her own remorse but shaped into presentation. That could be beautiful. It could also be a disaster in a silk scarf. I want the apology, yes, but I also want to see whether Vee can bring herself honestly, not just the version Randi styled and sent.
 
-I’m still furious on Vee’s behalf about the secret. This chapter made the trap softer, not less real. Randi is helping her. Randi is also managing her. Both are true. And I am completely caught because I want tomorrow night with Pace badly, but now I want it with Randi’s hands still ghosting all over Vee’s throat and ankles.
-
-GATE 27 — broken-in  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: This had exactly the combination I’m here for: emotional repair, erotic charge, and the sick little pleasure of watching manipulation wear the face of genuine care. Randi terrifies me more every chapter, but I’d follow Vee into tomorrow night without hesitation.
+GATE 27 — broken-in
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This chapter fed exactly the part of me that wants heat with emotional intelligence: shame, friendship, jealousy, styling as seduction, and that terrifying tenderness of being “held” into yourself. I don’t trust Randi, but I believe her, which is the worst and best possible place to be.

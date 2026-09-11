@@ -1,15 +1,21 @@
-*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — Oh, Cassie. Thank God there is still one person in Vee’s life who can hear all that radiance and quietly count the empty bed.
+REACTION
 
-“You don’t come home school nights” landed hard because Vee genuinely hasn’t noticed the shape of her own disappearance. She experiences Pace’s attention as the rest of the room going dark—and yes, that is romantic as hell, but it is also precisely what is happening to her life. Classes, ordinary nights, her own room, everything outside his house is dimming. Cassie doesn’t accuse or compete or tell Vee what her happiness means. She simply names the observable fact and lets Vee find the missing nights herself. I trust her so much it hurts.
+Oh, Cassie. There you are.
 
-And Vee’s “Maybe. I think so” got me. She knows she loves him when he is asleep, but she can barely say it aloud to the safest person she has. Meanwhile Pace makes room for her belongings, cooks for her, tends every tiny hurt, and still does not name what they are. That tenderness works on me—it really does—but I’m increasingly uneasy that all the relationship’s certainty lives in gestures Vee must interpret. “He never said” is becoming a refrain, and a drawer is not disclosure. Care is not truth.
+This is the first conversation in a while that feels like Vee is standing on solid ground. Cassie doesn’t extract a confession, eroticize it, interpret it for her, or tell her what comes next. She notices the plain material fact Vee has managed not to count—“You don’t come home school nights”—and then waits. That tiny act of reality-checking feels almost radical now.
 
-The baked-tomato burn is sweet, sexy domestic intimacy, and also another little marker of how completely she is living inside his conditions now: naked enough to be burned at dinner, warm enough never to notice, sleeping there more often than home. None of those choices is alarming alone. Together, they are the Simpson’s paradox again.
+And Vee’s happiness is so lovely that it scares me. I believe every glowing inch of it. Pace sees her, feeds her, tends a little burn as if her pain matters, makes room for her things, warms the house around her. She isn’t being foolish to love him. That is precisely why the concealed arrangement is becoming unbearable. She is building a life-shaped understanding from his acts while he withholds the fact that Randi is already inside the life she thinks she is discovering privately.
 
-GATE 36 — School Nights  
-DECISION: CONTINUE  
-CAPTURE: 7  
-ALMOST-STOPPED: none  
-WHY: Cassie’s quiet reality check arrived exactly when I needed it, and the book plainly sees that Vee’s glowing happiness and her vanishing ordinary life are happening at once. I’m staying—but Pace and Randi’s time for secrecy is running out.
+The burn detail snagged me, too: not enough clothes, the house now kept warm enough that she never thinks about covering herself, Pace immediately tending the hurt. It is tender and domestic and sexy—and it also shows how thoroughly his space has become the climate she lives in. More nights there than in her own bed, her belongings in his drawer, her appetite and routines reorganized around him, and she hasn’t counted any of it until Cassie does.
+
+Then Cassie asks the actual question with no pressure attached, and Vee can answer “maybe.” Nobody upgrades it for her. Nobody tells her what her body has proved. Nobody turns hesitation into a door she has already walked through. I could kiss Cassie for letting the maybe remain a maybe.
+
+But “It’s all so fast” is Vee hearing herself. Finally. Quietly, without yet understanding that two people have been controlling the speed while making it feel organic. That sentence put a chill straight through all the warmth.
+
+GATE 36 — School Nights
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: Cassie’s calm attention gives Vee—and me—a desperately needed point of reference outside Pace and Randi’s closed system. Vee naming the speed herself makes me feel the reckoning drawing closer, and I absolutely need to see what happens when her radiant private story meets the hidden one.

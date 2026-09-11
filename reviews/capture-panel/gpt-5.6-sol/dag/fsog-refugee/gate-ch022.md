@@ -1,15 +1,15 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — Oh, Cassie. She sees Vee without needing the details. That quiet “Was it a good night?” followed by the way she relaxes when Vee says yes—that is love with absolutely no appetite hidden inside it. She isn’t trying to get fed by Vee’s happiness. She just needs to know her friend is all right. And it hurts a little that Vee experiences herself as happily balanced between these two women when only one of them is standing there without a secret claim on her.
+REACTION — Oh, Cassie. That forty seconds of simply watching Vee because Vee is the only part she cares about nearly undid me. She doesn’t need the details, doesn’t try to pry them loose, doesn’t need to prove she understands. She asks one thing—was it good?—and when Vee’s answer is truly yes, she relaxes. That is love without appetite. Right now she is the only person in this triangle who looks at Vee without also wanting something from her.
 
-Randi calling her a “lucky slut” hit me exactly where it hit Vee: hot and affectionate and dangerous. She knows how to make Vee’s old shame feel like membership in something glamorous. And of course she instantly converts the missing shoes into more private time together, takes Vee by the wrist, and says, “Don’t you dare tell me no.” I know it’s playful. I know Vee wants the date. But Randi keeps making consent unnecessary by predicting the answer and wrapping the command in delight. Just ask her. Let her say yes. The whole erotic promise of this book is that choosing matters, so every time Randi casually skips the choice I feel it.
+And then Randi calls her a lucky slut, grabs her wrist, claims Saturday, and Vee glows. Of course she does. I felt the warmth too. I want the shoe-shopping date; I want Randi fussing over heel height and making Vee feel glamorous and wanted. I also wanted to shout at the page because Randi is building another memory Vee will treasure while knowing the foundation underneath it is false. “Don’t you dare tell me no” is playful here, and Vee wants to go, but from Randi—who has already kissed first and arranged everything in secret—it catches against me. She keeps making compliance feel like belonging.
 
-And that statistics lecture made my stomach drop. Same numbers, nobody touched them, completely different truth depending on what has been combined and what has been kept apart. That is Vee’s entire life right now. Each relationship viewed alone looks beautiful: Pace gives her room; Randi gives her language; Vee chooses what she wants. Put the hidden information back in and the meaning reverses. Nothing about her pleasure changes. Nobody has to falsify a single yes. But “all told”—God, even the title—the story is not the story Vee thinks she is living.
+“Both her girls” hurt. Vee thinks she is sitting between two women who independently love her, safe and happy in the middle. Cassie is actually beside her. Randi is already inside the concealed arrangement with Pace. Vee’s happiness is real, but the symmetry is not.
 
-Meanwhile she is glowing, sore, wanted, between “both her girls,” and carrying a dress made to reveal her into a day when she still has no idea who has already seen her. I’m happy with her and frightened for her in the same breath. That last detail, that the dress has been shown to “not one living soul,” is brutal. She thinks privacy is still hers.
+And that lecture made my stomach drop. Same numbers. Nobody touched one of them. Separately, every yes is real; put the whole thing together with the information Vee doesn’t have, and the answer reverses. The book is practically putting the betrayal on the board while Vee sits between truth and deception, too happy to look up. I am delighted for her, furious for her, and now absolutely certain the reckoning is going to break my heart.
 
-GATE 22 — All Told  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: Cassie’s clean concern made me ache, and the statistical reversal turned the secret from background dread into a warning bell. I need to see whether Vee’s freely given yeses can remain hers when the missing numbers finally enter the calculation.
+GATE 22 — All Told
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: “Don’t you dare tell me no.”
+WHY: Vee wanted the invitation, so I stayed with the warmth—but Randi’s habit of wrapping pressure in affection keeps scraping my consent nerve. Cassie’s quiet love and that terrifying classroom reversal have me completely caught.

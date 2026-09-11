@@ -1,169 +1,229 @@
-*capture-dag-v2-rich · carry-forward ck-ch040 · gpt-5.5 · dark-romance-control · prompt-sha 866614d69a56 · 2026-09-08*
+*capture-dag-v2-rich · carry-forward ck-ch040 · gpt-5.5 · dark-romance-control · prompt-sha 866614d69a56 · 2026-09-11*
 
 WHO'S WHO
 
-Vee / Vivienne: fully inside the new ordinary now. Pace’s house has a drawer for her, scrunchies, food, sex, sleep, warmth, and the shirt she needs charged with his smell so she can make it through the nights away. She has admitted to herself she loves him. She has also started taking the Randi kiss back for herself and showing Randi the uncropped photo because being impressive to Randi matters way too much.
+Vee: fully in the new climate now. She is not just being seduced event by event; she has a drawer, a rhythm, a hunger schedule, a shirt-smell ritual, a body that gives her away before she can prettify it. She loves Pace, though she only says it to sleeping Peter. She is also absolutely, transparently wanting Randi and still calling it friendship with a straight face. Her new danger is that she thinks choosing makes her safe, while every choice moves more of her into their hands.
 
-Pace / Peter: still dangerous because he does not need to announce ownership. He makes a dress, makes her bare under it, makes her a top drawer, makes her into a photograph beautiful enough that she believes it, makes her eat and sleep and come apart. He spanked her properly after “we find out,” and the way he reads her body is lethal. Still does not say love. Still shuts down hard around parents/home: “I don’t go back.” Scar still unexplained.
+Pace: still courtly, exact, and almost too good, but the control has teeth when it matters. He spanked her “properly” after the bet, made her strip slowly, kept the heels, posed her for the photograph himself, fed her after, bought scrunchies, gave her the top bathroom drawer, wore the flannel all weekend just to refill it with his smell. He says almost nothing directly. He alters the world around her and lets her discover the claim. Family is a closed wound: “I don’t go back.” Scar still unexplained. Peter is the private name.
 
-Randi: favorite threat, now cracked a little. She keeps taking Vee’s confessions and turning them into permission, heat, and belonging. “My girl,” “best friend in the whole world,” kisses that stay too long, sticky-fingers plausible deniability, making Vee prove herself with the full photo. But MIRH/Miranda Holdings showed a family shame point, and Vee saw Randi lose color. Randi is not just predator-gloss. There is a wound under it.
+Randi: my favorite problem and getting less composed. She remains the brunch confessor, the absolver, the little corrupter with plausible deniability. She can get Vee nearly to orgasm across a table just by telling a story, and she may or may not know exactly what she’s doing. “Sticky fingers?” still haunts me. She calls Vee her best friend, kisses her with pastry sweetness on her mouth, looks too long at Vee’s photo, says “just us” about Anthro like it cost her something. Then MIRH/Miranda Holdings cracked her open: family money, PPP rot, cheating bastards. Vee has seen her wound and kept it.
 
-Cassie: still the clean-eyed roommate/friend. She sees Vee glowing, missing school nights, not coming home, becoming a “public utility.” She asks if Vee loves him with no decoration. In the PPP project, she is blunt and right, and accidentally cuts straight through Randi’s family.
+Cassie: still clean-eyed true north. She photographed Vee at induction without knowing the whole erotic secret of the walk. She counts school nights when Vee doesn’t. She asks “Do you love him” flat and gives Vee no place to hide. In the stats project she is the moral blade: dad laid off in 2020, PPP money didn’t protect workers, data proves the thing. She has no idea she pressed right into Randi’s family bruise.
 
-Sheri: still circling from the edge. Pace’s cycling friend, alone for Thanksgiving, invited to his table. Vee got a little jealous and then backed off because Sheri is alone too. Not sure if neutral.
+Sheri: Pace’s cycling friend, alone for Thanksgiving, bringing pie and pretending she made it. Loyal to Pace, from his world, another woman at his holiday table. Vee’s jealousy flared and then softened when Pace said Sheri is alone. I still want her in the room.
 
-Randi’s father/family/Miranda Holdings: now important. Her family companies took PPP money and still cut jobs, apparently badly enough to be the huge outlier. Randi didn’t know, or at least didn’t know it like that. “Cheating bastards” sounded personal and new.
+Brooke/sorority world: faded back for now, but Randi’s world still feels like a polished machine waiting offstage.
+
+Meg/Dana/etc.: almost gone, useful dorm orbit but not emotionally live right now.
 
 WHERE THINGS STAND
 
-The induction finally happened. Vee wore Pace’s burgundy dress, Randi’s black heels, and nothing underneath. Pace missed it because of Berkeley, but Vee chose the long stride herself and let the slit open to the hip in front of the respectable academic room. Cassie photographed it; Vee sent Pace the picture. Pace built the weapon, but Vee fired it alone.
+The induction finally happened. Vee wore Pace’s burgundy dress with Randi’s black heels and nothing underneath, sat decorous in the honors room, then deliberately took the long step when her name was called so the slit opened bare to the hip. The room murmured. Cassie took the photo. Vee sent Pace the uncropped shot in Berkeley, but kept the real secret of the heat for herself.
 
-After Pace came back, Vee arrived early, bratty and hungry, pantsed him, got spun out of her wrap skirt, flashed him, ran, got caught. She swatted him, he swatted her, and when she denied liking it he made the bet: admit it or “we find out.” She said don’t, he withdrew instantly, and then she chose yes. He checked her with his hand, found her soaked, made her strip slowly, left the heels on, bent her over the bed, and spanked her properly. Not theatrical Randi-counting. Quiet, rubbed, kissed, intimate, worse. Then sex, juice, hair-stroking, “wonderful.”
+After Pace returned, Vee came early and caught him sweaty/unarranged after the gym. They played, she pantsed him, he spun her out of her wrap skirt, she flashed him, ran, and got caught. She swatted him; he swatted her back and saw the reaction. Then the bet: if she liked it, a proper spanking. He “checked” with his hand between her legs, proved her wetness, made her strip slowly to only the heels, bent her over the bed, spanked, soothed, kissed, and then took her. The big thing: her body’s readiness stopped being humiliation and became truth under him. Afterward: juice, praise, sleep, curry, and the first scrunchies.
 
-The scrunchies appeared in his bathroom: a whole form of green dotted ones, no note. Then later, after she made a mess of his clean counter, he moved his own things down and gave her the top drawer. No discussion. Just a place made.
+Halloween: Vee brought the dress back to show Pace what he missed. She staged him in the recliner, showed him the induction walk, then came back wearing only the heels and told him that was what she had on under it. He chose the second costume because the dress was for the world and this was just for him.
 
-Vee replayed the induction dress for Pace on Halloween, then showed him the “second costume”: naked except for the heels. He chose the naked version because the dress was for the world and that was just for him. Randi was absent but present in the shoes.
+Randi brunch: Vee told the spanking story. Randi drew out every detail, then told her own interrupted mixer story and described touching herself in a strange bedroom. Vee fled to the bathroom, started to masturbate, but stopped when Randi’s face appeared in her mind as the one looking. Back at the table, Randi said “Sticky fingers?” and maybe meant pastry, maybe meant exactly everything. Later Randi called Vee her best friend and kissed her; Vee tasted pastry glaze she never ate.
 
-Randi brunch got intense. Vee told her about the spanking in daylight. Randi drew the whole story out, detail by detail, then told her own story about masturbating in a strange bedroom. Vee fled to the bathroom, tried to touch herself, got right to the edge, then stopped because Randi’s imagined gaze arrived and she couldn’t bear/hold it. Back at the table, Randi said “sticky fingers?” and maybe meant pastry, maybe meant everything. Then called Vee her best friend and kissed her; Vee tasted pastry glaze she never touched.
+Vee has admitted privately she loves Pace. He still hasn’t said it. Instead he proves it through acts: food, sex, attention, the drawer. He moved his own ordered bathroom things down and gave her the top drawer for her scrunchies/pins/creams. She reads this as home. I read it as a soft lock.
 
-Vee has admitted she loves Pace, at least to herself, whispering “Peter” to him asleep. Cassie got a smaller version: maybe, I think so, it’s fast.
+Cassie confronted the school-night drift. Vee is barely sleeping in her dorm anymore. Vee said maybe/I think so when asked if she loves him. It is yes.
 
-Pace photographed Vee after sex. She wanted to arrange herself, but he posed her himself, kissed each place as he set it, took the picture on her phone, made her look beautiful through his eyes. She sent it to him despite the sane-girl fear. Later Randi saw first cropped, then full uncropped, because Randi poked at the missing legs and Vee could not bear seeming timid.
+Pace took a glamour photo of Vee. Her idea, his posing. She sent him the uncropped intimate picture because she trusts him never to share it. Later she showed Randi first a cropped version, then the real full one because Randi’s “only half?” needled her into proving she gave Pace all of herself.
 
-Food has become part of the seduction: curry, salmon, lemon chicken and pasta, pizza from dough and buffalo mozzarella. Vee can taste now, really taste. He is ruining normal food for her the same way he is ruining normal sex and sleep.
+Thanksgiving is forming: Vee goes home to her family; Pace says his home is here and does not go back to parents. Sheri is coming to his house because she is alone. Family wound locked. Scar still locked.
 
-Thanksgiving door: Vee is going home to Ohio. Pace says his home is here and then, when asked about parents, says flatly, “I don’t go back.” Locked door. Sheri is coming to him for Thanksgiving because she is alone.
+Randi and Vee made a new “just us” structure: Anthro elective Tuesday/Thursday nights, Cassie not included. Vee also actively prolonged the goodbye kiss after brunch. This is not just happening to her now; she is reaching.
 
-Stats project: Cassie, Vee, Randi are doing PPP loans and jobs. Aggregate data supports Cassie: money up, payroll down. Randi expects her county/family to complicate it positively, but the outlier is Miranda Holdings, LLC. Randi’s family. Bad numbers. Randi goes still and says “Cheating bastards.” Vee sees, understands, and protects her by moving the work along and not telling Cassie what she saw.
+Stats project: the trio is doing PPP loans/payroll. Cassie’s thesis wins in aggregate: money up, jobs down. Randi expects her father’s businesses/county to complicate it, but the outlier point is Miranda Holdings, LLC, tied to her own name/family, with ugly numbers. Randi goes pale and says “Cheating bastards.” Cassie thinks it proves her point. Vee sees Randi’s private devastation and quietly protects her by moving the work along and not saying the name.
 
-Vee tried taking five nights away for school because she was falling behind. Pace let her, no punishment, no coldness, just “I’ll be here.” She lasted five nights and came back ravenous. Sex was fast and messy and undignified in the hall/bedroom, then pizza, then she gave him the washed flannel and asked him to wear it all weekend so it would smell like him again. He did. Immediately.
+New ordinary: Vee tried taking five nights away for school, wanted Pace to fight her on it, and he only said take the time you need. She lasted five. Returned ravenous. Hallway undressing, green satin, white socks, no dignity. Her body exposed exactly how much she’d missed him. Pizza after, drawer ritual, and then the flannel: she washed his borrowed shirt because it stopped smelling like him and asked him to wear it all weekend so she could take his smell back. He did, without teasing her.
 
 HOW I FEEL ABOUT EACH OF THEM
 
-Vee is gone. Not helpless-gone, which would bore me, but choosing-gone, ritual-gone, drawer-gone, shirt-smell-gone. Her body is now a witness against her constantly. It gives her away to Pace, to Randi, to Cassie, even to herself. I’m attached and worried because she loves him before she knows the whole plan, and she wants Randi while calling it brunch.
+Vee has me by the throat because she is becoming both bolder and more captured. The induction walk, the naked-heels Halloween reveal, the photo, the prolonged Randi kiss, the flannel request: these are choices, but they are choices made inside a system Pace and Randi prepared before she knew. That’s the whole delicious wrongness. I love her most when her body tells on her.
 
-Pace is hot because his control keeps getting quieter. He does not say mine. He builds circumstances where she discovers she already acted like she is. The spanking chapter is him at his best: the exit is real, but so is the trap. I trust his hands in the moment. I do not trust the larger design or his silence around his past.
+Pace is almost dangerously tender, but I’m still in because his tenderness keeps arriving as control. He doesn’t grab crudely; he makes conditions where Vee gives more than she planned. The bet, the slow strip, the chair obedience, the photo posing, the drawer, the flannel. He is a threat because he is so easy to trust. I need the plan reveal to hurt him, because otherwise his decency is almost too well defended.
 
-Randi is still the one I’d least trust in a bright room. She knows how to make Vee open, and she can turn a joke into a knife without leaving fingerprints. But now Vee has seen her shame, and that changes the balance. Randi may need Vee emotionally in a way she didn’t plan. That is dangerous and delicious.
+Randi is the one I don’t trust and absolutely want in every chapter. She makes Vee feel chosen, seen, absolved, and corrupted. Her care is real, which makes it worse. She is no longer just playing voyeur; Vee’s descriptions are landing in her chest. The Miranda Holdings wound also humanizes her without declawing her. Now Vee owes her silence, or thinks she owes kindness, and that is another intimate debt.
 
-Cassie is the necessary alarm bell. She is not dazzled by the glamour or the sex. She sees the missing nights and asks the plain question. I trust her most, which means Vee will probably keep leaving her outside until it hurts.
+Cassie is the reality check I’m grateful for and scared of. She doesn’t have the erotic vocabulary, but she has the math of absence. She will notice when something is wrong. She already does. She is also accidentally dangerous to Randi because truth comes out of her flat and unscented.
 
-Sheri makes me wary, but not in a villain way. She is another woman Pace feeds and cares about, and this book does not introduce women around Pace for nothing.
+Sheri makes me alert. Pace’s fondness is unguarded, and Vee needs to see him with a woman who isn’t dazzled by this current spell. Sheri could prick the fantasy, or reveal something Pace won’t.
 
 WHAT I'M CARRYING
 
-The induction long step: bare thigh to hip in a room full of parents and navy dresses.
+Vee’s hand holding the slit closed in the honors hall, bare underneath in a room full of parents.
 
-The room murmuring and then folding itself back into respectability.
+The second step. Long on purpose. The murmur.
 
-Cassie’s photo: movie-star Vee with none/all of the secret in it.
+Cassie’s photo: movie-star Vee, chin level, giving away nothing.
 
-“I miss you. Can I come by early?” and her arriving at three anyway.
+Pace absent in Berkeley, getting the uncropped picture but not the secret.
 
-Pace flinching when she pokes his thigh.
+Vee arriving early and finding him sweaty, bare feet, shake in hand.
 
-The shorts waved like a flag over a taken field.
+The wall flinching when she pokes his thigh.
+
+Red shorts waved like a flag over a taken field.
+
+Vee discovering she is quicker than him in the den.
+
+The flash of her breasts to make him chase.
 
 “There it is.”
 
 “Either you admit you lost, or we find out.”
 
-“Don’t.” His hand gone at once. Then: “Yes. We find out.”
+His hand leaving instantly when she says don’t, and her wanting it back.
 
-The wet finger held up between them like evidence and not shame.
+“Yes. We find out.”
 
-“Spanks from a lost bet come on a bare bottom.”
+The wet proof on his finger, not just the tip, all of it gleaming.
 
-Naked in heels, face down on the bed, expecting Randi’s story and getting Pace’s quiet hand instead.
+He looks at her wetness like it is true and fine.
 
-Juice after. Wonderful, wonderful.
+“You lost. Spanks from a lost bet come on a bare bottom.”
 
-The green dotted scrunchies, too many, no note.
+“Slow. For me.”
 
-The top drawer. His things shoved into the lower one.
+Naked except black heels, watching him turn down the bed like preparing an altar.
 
-Halloween: “This is what I had on under it.”
+Face down, knees at the edge, cool air finding everything.
+
+Not Randi’s counting theatre: Pace’s quiet hand, soothing, kissing the struck place.
+
+Juice afterward. Wonderful, wonderful.
+
+Green scrunchies with white dots, too many, no note.
+
+Halloween: Pace staying in the recliner because she told him to.
+
+“They complete it.”
+
+The dress walk performed for one man.
+
+“This is what I had on under it.”
 
 “The other is for the world. This is just for me.”
 
-Randi: “There’s my girl.”
+Randi at brunch: “There’s my girl.”
 
-Randi saying “Walk me.”
+Vee: “He checked.”
 
-“He checked.”
+Randi: “Inside?”
 
-The bathroom stall, Vee soaked, stopping with Randi’s face in her head.
+Randi’s private dance story, panties to the side, knees wide.
+
+Bathroom stall, Vee stopping with herself barely breached because Randi’s face appears.
 
 “Sticky fingers?”
 
 Best friend in the whole world.
 
-Pastry glaze on Vee’s lip from a pastry she never touched.
+Sugar/butter/glaze on Vee’s lip from a pastry she never touched.
 
-Vee whispering “Peter” to him asleep.
+Vee whispering “Peter” to sleeping Pace.
 
-The messy bathroom counter and his eyes seeing it.
+The bathroom drawer: hers on top, his things compressed below.
 
-The photo: he poses her himself, then she sends it.
+Cassie: “You don’t come home school nights.”
 
-“You’ve used me terribly. Three times, in one evening. Promise to use me again soon.”
+“Do you love him.”
+
+Pace posing Vee himself, kissing each place he sets.
+
+Delivered.
+
+“You’ve used me terribly.”
 
 “I don’t go back.”
 
+Sheri’s coming over. She’s alone.
+
+Randi going bright and unfixed at “me, with the body attached.”
+
+“You’re just finally hungry out loud.”
+
+“If you’re a sex pervert, you’re my sex pervert.”
+
+Miss November.
+
+“I gave him all of it.”
+
+“Just us.”
+
+Vee taking the extra second of the goodbye kiss.
+
 MIRH. Miranda Holdings, LLC.
 
-Randi going still. “Cheating bastards.”
+Randi going still like motion withdrawn from the room.
 
-Vee sliding the laptop toward herself to give Randi somewhere to put her hands.
+“Cheating bastards.”
 
-Five nights away and the body keeping count.
+Vee sliding the laptop over and giving Randi somewhere to put her hands.
 
-Jeans stuck around one thigh. White socks. Green satin.
+Five nights. Vee wanted him to fight for them.
 
-The green thong thrown onto the weird long bedroom table.
+The bra caught from behind, Vee having to unwind herself out of it.
 
-The pizza that is not one orange taste but every separate thing.
+Her body “publishing the number.”
 
-The flannel gone scentless, washed, handed back only so he can make it his again.
+Pizza that tastes like separate pieces instead of orange sameness.
 
-“All weekend.” / “Smelling like me.”
+The washed flannel, gone stale of him.
+
+“I need you to wear it for me.”
+
+“All weekend.”
 
 WHAT I'M WAITING FOR
 
-The reveal. Still the big thing. Vee loves Pace now, depends on his house and smell, and wants Randi. The truth that Pace and Randi planned her is going to land harder because everything real has grown over the lie.
+The plan reveal. More urgent than ever. Vee has said yes to so much now: public exposure, spanking, the photograph, the drawer, the class with Randi, the flannel ritual. Every free yes makes the secret original choice uglier and hotter.
 
-Randi making an unmistakable move. The kisses have crossed some line, especially because Vee leaned back in. I need Vee to stop translating desire into friendship.
+Randi crossing the line in a way Vee cannot launder as friendship. The kisses, the sticky fingers, the glaze, the photo-looking, the “just us” class, Vee prolonging the kiss: come on. The next door is right there.
 
-What Randi does with Vee’s full photo in her head. She saw all of Vee, or enough to matter. That cannot just sit politely.
+Pace finding out how much Randi gets. The spanking story, the bathroom almost-orgasm, the photo reveal, the uncropped “all of it.” Does he know? Did he expect this? Would he be jealous or pleased?
 
-Whether Pace knows what Vee tells Randi. Does he know about the brunch details? The bathroom? The kisses? The full-photo showing? I need the reporting structure exposed.
+The Anthro class. Tuesdays and Thursdays, seven to eight-twenty, just Vee and Randi. That is too deliberately placed not to matter.
 
-The scar and “I don’t go back.” Parents/home/Daphne all feel like one dark knot around Pace’s idea of choice and care.
+Thanksgiving. Vee away with family while Pace and Sheri are alone at his house. I want to see Sheri at the table and I want Randi’s reaction when she hears.
 
-Thanksgiving. Vee away in Ohio, Pace with Sheri, Randi maybe elsewhere. Separation usually reveals what the spell is made of.
+Pace’s parents. “I don’t go back” is a locked door. Need the wound.
 
-Cassie noticing more. She already sees the school-night problem. If she clocks Randi, or the money issue, or Vee’s dependence, she may become a real obstacle.
+The scar. Still waiting. It feels tied to the same sealed history.
 
-Randi’s family shame. Vee has protected her without Randi knowing. I want to see if that turns into intimacy, leverage, or poison.
+Daphne. Still sitting under all his consent/care philosophy. I want the book to make him look at that wound directly.
 
-Whether Vee’s school/work starts slipping badly. She took five nights for school because she had to. Pace didn’t stop her, but her body did after five days.
+Cassie noticing more. She already counted school nights. She is going to see something off with Randi or Pace or Vee’s increasing dependence.
 
-The money/class pressure. Randi’s brunches, shoes, expensive spaces, Vee paying and tipping well. Still there, still training her.
+Miranda Holdings fallout. Randi now has shame Vee knows about. Does Vee keep protecting her? Does Randi know Vee saw? Does Cassie eventually connect the name?
+
+The photograph Pace has. I believe he won’t share it, but the fact that he owns that image matters.
+
+The flannel cycle. It is sweet, yes, but also obsessive. If she starts needing his smell to sleep, that’s dependence with a pulse.
 
 WHAT'S FADING
 
-Exact food details are blurring, even though the feeling matters: curry, salmon/dill, lemon chicken/pasta, pizza, wine names. What stays is Pace teaching appetite and Vee tasting in layers.
+Exact food details are starting to blur badly. I remember curry, salmon/dill, lemon chicken pasta, pizza dough/Nebbiolo/water-buffalo cheese, baked tomatoes burn. The taste-awakening matters more than the recipes.
 
-The precise conference timing: Pace in Berkeley over induction, then back; the weeks are starting to blur into Friday-to-Sunday heat.
+Chapter order from 35-40 is soft around the edges: love/Peter, drawer, Cassie school nights, photo, brunch/photos/Anthro, stats outlier, five-night return/flannel. I have the sequence roughly but not perfectly.
 
-The anthro elective details: Dr. Marsh, Tuesday/Thursday night, just Vee and Randi. I remember it matters because “just us,” not because of the class.
+The exact restaurant names are gone. Randi brunch spaces are now “bright glass porch” and “dark green velvet booth.”
 
-Stats project mechanics are half-fading: PPP loans, payrolls, aggregate model, county samples, outlier. What matters is MIRH/Miranda Holdings and Randi’s face.
+The PPP project specifics beyond money up/jobs down, counties, outlier, Miranda Holdings are hazy. I remember the emotional geometry better than the model.
 
-The exact dialogue around the photo is soft, but the sequence stays: Vee offers, tries to pose, Pace poses her, she sends it.
+Pace’s playlists are fuzzy: piano while cooking, Fleetwood Mac/Garth Brooks later, music already on when Vee arrives.
 
-Sheri details are still vague beyond cycling friend, alone, Thanksgiving pie, and Vee’s brief jealousy.
+The induction ceremony officials/names/scroll details are fading except the long step and Cassie’s photo.
 
-Halloween setting specifics are fading except lamp, recliner, dress walk, naked heels.
+Halloween’s first “costume” mechanics are clear, but the music/wine specifics are fading.
 
-Cassie’s exact wording fades except “streetlight,” “school nights,” and “Do you love him.”
+The exact contents of Vee’s bathroom kit are mostly scrunchies, pins, face cream, brush. Top drawer is the point.
+
+The full photo pose is fading into pinup side-lying, bare, red mouth, hair arranged, legs included in uncropped version.
+
+Sheri’s earlier bar/bike details remain fuzzy. She is cycling friend, alone, blunt, loyal. That’s what I have.
+
+Brooke and the sorority-house women are nearly gone for now, except as Randi’s polished world waiting offstage.

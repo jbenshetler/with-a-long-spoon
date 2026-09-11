@@ -1,19 +1,17 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
 
 REACTION
 
-Oh, this hurts. The shirt was one of my favorite tender things between them, and now she has discovered its limitation: the warmth is hers. She has been taking his gestures—food, drawers, fabric, sex, attention—and supplying the meaning herself, and tonight her body finally refuses to keep doing the translation. “He wasn’t in it” is devastating because of course he isn’t, but she has needed the shirt to function as proof that he is with her even when he is not. Now it is only cloth and scent and her own heat coming back.
+Oh, this hurts. The shirt ritual was one of the tenderest things in the book, and now she has worried it all the way down to its terrible fact: the warmth is hers. The shirt smells like him, carries everything he does for her, and still cannot tell her what she is to him. When she takes it off and chooses the cold, I felt something in her finally refuse consolation. She would rather lie bare inside the unanswered question than keep using his scent to pretend she has an answer.
 
-And honestly, good. Painful, but good. I have been waiting for her unease to stop being drowned in orgasms and gratitude. Pace answered her beautiful, exposed declaration with “I love how good we are together,” which is not remotely the same thing, and then when she asked what they were, he solved the outing instead of answering the question. He listens exquisitely whenever her need can become an action. Take her somewhere quieter. Cook. Touch. Make room. But when the need is for him to name his feelings and give her relational reality, he turns it into something he can do with his hands. I still believe he loves her. I am increasingly angry that she has to believe it on his behalf.
+And the empty text field—yes. She knows he would respond. She even knows he would respond warmly. That is no longer enough, because Pace can answer every small question beautifully while avoiding the only question that matters. This is not manufactured conflict from an unsent text; the text remains unsent because she understands with awful precision that language cannot extract a truth someone has chosen not to offer.
 
-There is also something terrible in Cassie sleeping directly below her. The honest, undemanding person is right there, physically close, while Vee freezes alone over a man whose absence has swallowed the room. She wears the shirt over her own shirt partly so Cassie won’t have to comment on how far gone she is. Cassie would probably receive the truth cleanly if Vee climbed down and told her. Instead Vee is protecting the fantasy from the one person who might name what it is costing her.
+I’m angry with Pace now in a less complicated way. His care is real, but Vee is losing sleep trying to determine whether she belongs in the life his behavior has invited her to build. Meanwhile he already possesses the answer—and an entire concealed relationship—and lets her treat his omissions as puzzles in her own inadequacy. She keeps searching for the perfect sentence, the right restaurant, the right interpretation, as though better asking might earn clarity. It won’t. The problem is not that she has failed to communicate.
 
-Taking the shirt off feels like the first real refusal she has made—not a rejection of Pace, but a refusal to let an object answer a question only he can answer. I wanted to reach into the bunk and cover her, but I also did not want her to put it back on. Let the cold be true. Let her stop anesthetizing herself with evidence that never quite says what she needs it to say.
+That final image got me: Cassie sleeping below, physically close and honest, while Vee freezes above her inside Pace’s absence. The shirt in a heap feels like the first tiny collapse of the spell. Not liberation yet. Just the moment an object that used to comfort her stops being able to perform the lie.
 
-No heat here, but I didn’t miss it. This is the emotional bill coming due after the sex, and the book has earned my attention for it. Now Pace needs to speak. Not feed her, not fuck her senseless, not sew another astonishing thing. Speak.
-
-GATE 44 — Bare  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: The shirt changing from proof of intimacy into an empty object carrying only Vee’s own warmth landed brutally. I’m continuing because she has finally stopped letting Pace’s beautiful acts substitute completely for the truth he owes her.
+GATE 44 — Bare
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: The heat disappeared, but the emotional charge absolutely did not. Vee choosing the cold over counterfeit closeness feels like the first real movement toward seeing what Pace’s tenderness cannot make true, and I need to know what she does when morning comes.

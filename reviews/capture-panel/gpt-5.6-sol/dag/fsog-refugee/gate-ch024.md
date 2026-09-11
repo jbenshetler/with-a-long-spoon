@@ -1,19 +1,21 @@
-*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — Oh. So this is what they are together.
+REACTION
 
-I hate how much I felt the tenderness before the dread caught up. Randi going loose and quiet on Pace’s chest, setting down the self she performs everywhere else; Pace understanding that her spoken desire belongs to her and refusing to seize it or name it for her—that is exactly the kind of care I want. And then they start looking at Vee together, and suddenly all that warmth becomes the locked room she doesn’t know she’s standing outside.
+Oh, this hurts. Of course Randi is in his bed. Of course she has been there all along, loose and safe on his chest in the same warm house where Vee has begun to feel specially held. I knew it, the two towels told me, the jacket told me, but knowing ahead did not protect me from seeing it. Vee left Pace’s bed glowing, then spent Saturday thinking she had never had a friend like Randi, and now the two of them are naked together discussing how successfully she is falling for them. That is vicious.
 
-“She’s not ready, though. She’ll get there. You’ll want to take your time.” Absolutely not. That is two people discussing the pace of a third person’s sexual awakening as if the destination has already been decided. Pace saying he wants Vee to get there “on her own” should have reassured me, but it made me furious. She cannot get there on her own while Randi is secretly coaching her toward him, reporting her private disclosures back to his bed, and testing how ready she is. He may honor every choice she knows she is making, but he is still accepting the benefits of choices whose context they have deliberately hidden.
+And the awful thing is that I believe every tender word. Randi really is gone over Vee. She loves Vee’s attention and her stories and her embarrassment; Pace really does see the brightness Vee cannot see in herself. Their shared gaze on her is intensely intimate, and yes, hot—and it also makes me feel sick, because Vee doesn’t know she is the subject of this conversation between lovers. She is giving each of them separate confidences while they lie in bed combining the pieces.
 
-And Randi changed the shoe-store story. Vee brought her the giant shoe, but Randi turned it into Vee putting it on, stomping and growling, then being adorably humiliated when strangers saw. She made Vee more exposed for Pace. Maybe it is casual embellishment; maybe it is how Randi tells stories. But after all her strategically polished stories to Vee, I don’t believe anything from her is casual anymore. She is authoring Vee differently for each audience, and here she turned her embarrassment into something “kind of hot.” That frightened me more than the sex did.
+Also: that Bigfoot story did not happen that way. Randi wore the ridiculous platforms; Vee waved the broken flat. So why is Randi rewriting it to make Vee cuter, more exposed, more embarrassingly performative for Pace? Is she embellishing because she wants to offer him a version of Vee, or because she wants to make her own attraction easier to confess? Either way, she is turning a private afternoon Vee treasured into erotic material and changing Vee inside the telling. I hate that.
 
-The sex did get me, damn it. Pace and Randi clearly know each other’s bodies, and he holds her without taking over, lets her set the pace, loves the moment her control comes apart. There is history and real refuge between them. I believe they love each other, whatever name they use. I also believe they are both falling for Vee, and Randi’s stillness when Pace described her was naked jealousy or recognition or both. Their desire is no longer a game. That makes the eventual truth more necessary, not less.
+“I want her to get there on her own” nearly made me throw the book. Pace, she cannot get there “on her own” when you and Randi built the road, removed the signs, and are privately coordinating how slowly she should travel. His patience is real, but he is using it inside a lie. That sentence is the entire moral wound: he understands the value of Vee’s agency intimately enough to make a religion of each immediate yes, while withholding the facts that would let her choose the relationship itself.
 
-What I’d text at one in the morning: “They are in bed having gorgeous tender sex while calmly discussing how to ripen the unsuspecting girl they both want, and I am furious that it’s hot.”
+And then Randi goes still when Pace describes Vee as the light in the room. Jealousy, recognition, love—something landed hard. She turns it into sex because that is apparently the only place she can surrender honestly. Their sex is tender and consensual, and I can feel the long-established fit between them. That somehow makes everything worse. They are not cartoon predators playing with a disposable girl. They love each other, they may both be falling in love with Vee, and they are still doing something profoundly unfair to her.
 
-GATE 24 — Gone  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “She’s not ready, though,” she said. “She’ll get there. You’ll want to take your time.”  
-WHY: That line came perilously close to turning Vee’s consent into a technical obstacle they know how to manage. But the chapter knows this is dangerous, and now that I’ve seen Pace and Randi together—and seen how real Vee has become to both of them—I desperately need the reckoning.
+I’m furious, turned on, heartsick, and absolutely not leaving. Someone needs to tell Vee before another beautiful thing is built around her without her knowing who designed it.
+
+GATE 24 — Gone
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: “I want her to get there on her own.”
+WHY: The hypocrisy of that nearly lost me: Vee cannot arrive freely at a destination they are secretly engineering. But the tenderness is real, the betrayal is real, and I need the book to make all three of them face both truths without letting love excuse what Pace and Randi have done.

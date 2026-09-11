@@ -1,17 +1,17 @@
-*capture-dag-v2-rich · gate ch031 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch031 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — Oh, this worked on me. The long second step—after she realizes she could keep herself safely folded up and chooses not to—felt like watching her claim something that nobody else had interpreted for her first. She isn’t exposing herself because Pace asked, or because Randi supplied a story about what it means, or because some man’s approval turns it into permission. She decides. Her body answers. She enjoys the room looking, and she keeps the private center of that pleasure for herself. “That part was hers” nearly made me cheer.
+REACTION — Oh, she did it. She did exactly what I wanted, except better, because nobody orchestrated the moment for her. Pace wasn’t there to watch, Randi wasn’t there to coach, and the room wasn’t waiting to be dazzled. Vee had to decide, in the space between one step and the next, whether she wanted to be careful or visible. She chose visible. That long second step was hers.
 
-And honestly, Pace’s absence was a gift. I’m sorry for him because he made the dress with such particular love, and sending him the photograph is tender. But Vee got to discover what wearing it meant without watching his face or finding Randi’s eyes across the room. He will see what he made possible; he will not automatically possess everything she felt inside it. That separation matters enormously to me.
+And God, the fact that her body answered after she decided. Not shame forcing her forward, not somebody coaxing an admission out of her, not arousal being treated as permission before she was ready. She chose to open the slit, felt the eyes arrive, and wanted what she had chosen. That distinction is everything to me.
 
-Cassie made me ache in the best way. Taking the phone, not intruding past the doors, photographing Vee at precisely the moment she became the woman she had imagined, then offering a terrible sandwich—this is love without appetite hiding inside it. She sees Vee and leaves Vee room. “You can be famous at me” is so warm and ordinary after that charged walk that I wanted to hug her.
+I also love that she kept part of it from Pace. Not dishonestly—privately. He made the dress to her body, but he does not automatically own everything she experiences inside it. She sends him the photograph because she wants him to see what his gift became, while knowing there is something in the frame that belongs only to her. After so much of Vee being discussed and interpreted behind her back, watching her possess a secret of her own felt almost fiercely corrective.
 
-The shoes still bother me. They are beautiful and ruinously expensive, and the memory of Randi kneeling to fasten them is folded into this triumph whether Vee notices it or not. But the dress does not demand anything here. The room does not demand anything. Vee chooses the stride, the gaze, the heat, and even what portion of it Pace gets to know. This is exactly what I have wanted for her: not freedom from wanting to be looked at, led, or exposed, but ownership of the wanting.
+And Cassie. “Somebody had to document it.” Of course she did. She saw Vee, caught the exact image, made one dry joke, got emotional where nobody could accuse her of it, and then offered a terrible sandwich. She didn’t turn the moment into a lesson or tell Vee what it meant. “You can be famous at me” is such an ordinary, loving little sentence that it nearly undid me.
 
-And yes, I found it hot. Not because strangers nearly saw everything, but because she knew they might, wanted the charged knowledge of it, and gave them precisely what she chose to give. Pride and heat becoming indistinguishable in her body feels like her shame finally losing territory.
+The dress is still complicated. Pace and Randi helped create the conditions, and the debt is still sitting inside those beautiful shoes. None of that vanished. But this particular walk cannot be reduced to their plan. They were absent. The room had already disappointed her fantasy, and she made the fantasy happen anyway—not by making everyone adore her, but by refusing to diminish herself. Pride and heat becoming the same thing in her body? Yes. That is the awakening I came for.
 
-GATE 31 — The Induction  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: Vee took the fantasy everyone helped build around her and made its decisive moment privately, unmistakably hers. I’m deeply invested in the woman who made that second step long—and in what happens when the people managing her awakening discover that some parts of it belong only to her.
+GATE 31 — The Induction
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: none
+WHY: That second step belonged entirely to Vee, and I felt it in my chest. She turned being seen into something she actively chose, kept the deepest part for herself, and then walked out beside the one friend who loves her without trying to direct what she becomes.

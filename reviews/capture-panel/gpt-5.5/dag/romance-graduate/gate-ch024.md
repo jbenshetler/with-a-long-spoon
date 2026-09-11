@@ -1,23 +1,23 @@
-*capture-dag-v2-rich · gate ch024 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch024 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh. Oh, I knew the book was going to give me the conspiracy-room eventually, but I did not expect it to feel this intimate and this guilty and this hot all at once.
+Oh. Oh, this is the chapter where the floor opens, quietly.
 
-This chapter made my stomach drop because Vee is not in the room, and yet she is the third body in the room. Pace and Randi are literally in bed together after sex, still warm from each other, and they are talking about her like she is beloved, like she is prey, like she is a gift they are both trying not to tear open too fast. That is exactly the flavor I bought the book for and exactly the flavor that makes me nervous. It is not cartoon villain manipulation. It is worse because they like her. Randi more than likes her. Pace knows her shame with too much accuracy. They are both tender enough to be dangerous.
+I knew they were together, obviously. The jacket told me, the whole book has been letting me sit in that awful extra knowledge, but being *inside* the afterglow with Pace and Randi still hit different. Not a reveal like a jump scare, more like walking into a room you already knew existed and finding the bed warm. And I hate how much I liked being there. That is the problem. This book keeps making the morally alarming thing intimate and tender and hot enough that I’m sitting here implicated.
 
-Randi saying she didn’t think she’d like her this much got me. That is the first time I really felt the plan slipping out of her control. She can still be amused by Vee’s embarrassment, still eroticize it, still report it back to Pace like a delicious little incident, but then she says Vee got past her. And I believed her. That “nobody does both” line, about Vee being funny and actually listening, was maybe the most naked Randi has been emotionally, even though she’s physically naked on Pace. That’s the thing: her power is social polish, but here she is soft and undone and jealous? maybe? hungry? definitely.
+Randi got me here. She really did. Because she isn’t doing some sleek villain-girl monologue. She’s soft after sex, loose in a way Vee has never seen her, talking about Vee with this startled, almost embarrassed affection. “I keep waiting to get bored of her…and it doesn’t come” is such a Randi admission: arrogant, defensive, and then naked by accident. She thought Vee would be a game or a project or a delicious little diversion, and Vee has become a person under her skin. I’m not forgiving her. I am, annoyingly, feeling for her.
 
-And Pace. God, Pace. “I want her to get there on her own” is the whole rotten beautiful problem in one sentence. I believe him. I believe he wants Vee’s choices to be real. But he is saying this while lying beside the woman who helped arrange her path. Consent is being worshiped and compromised in the same breath. The book is doing that thing where I can feel both truths in my body, and I hate how much that works on me.
+And Pace. God, Pace remains dangerous because he sounds right. “I want her to get there on her own.” That line should comfort me, and in the moment it sort of does, because that is exactly the heat of him with Vee: he waits, he lets her choose, he makes wanting feel like authorship. But he is saying it to the girlfriend/co-conspirator in his bed, about the girl who does not know she is being watched from two directions. So the tenderness has teeth. He may mean it completely, and it still sits inside a lie.
 
-Also: yes, the heat is still alive. Not a fade to black, not abstracted into “desire” and tasteful curtains. Randi moving down his chest while talking about what Vee keeps under the cardigan was filthy in a way that didn’t feel cheap. It was not even really about Vee’s body alone; it was about Randi being unable to keep herself above wanting. Then Pace describing Vee lighting up a room, and Randi going still? That was the emotional sex scene before the actual sex started again.
+The hottest part for me was not even the sex, though yes, of course, Randi riding him while they are both full of Vee is extremely on-brand for my ruin. It was the triangulation before it. Randi describing Vee’s embarrassment as cute and then hot. Pace describing Vee making a room brighter. Randi going still because he has said the truest thing, and maybe because she hears how much he sees her. The charge is not just “two people talk about a third person sexually.” It’s that Vee is becoming real enough to disturb the original couple’s balance. She is no longer the pretty little invited appetite. She is changing the temperature in the room when she isn’t even there.
 
-I am scared now in a more adult way. Not “will Pace hurt Vee” in the basic alpha-romance sense. More: what happens when Vee learns that the people who taught her to trust her wanting have been touching each other the whole time, discussing her, calibrating her readiness? Because she is gone over him, yes, but they are gone too. Randi is gone. Maybe Pace is gone. The title is “Gone” and it’s not just Vee. That landed.
+Also: Randi’s jealousy? Not sharp yet, but it’s there, under the stillness. Maybe jealousy of Pace seeing Vee that clearly, maybe jealousy of Vee’s unmanufactured aliveness, maybe jealousy because Randi wants her too and is still pretending she can manage the shape of that want. That “Yeah. She is.” felt like a swallow.
 
-I’m still reading. Absolutely still reading. But I’m reading with my hand over one eye now.
+I did miss Vee, though. Not in a bad way. More like the chapter made her absence loud. She’s off somewhere with her shoe box and her dress and her happiness, and meanwhile the two people closest to her are in bed discussing how gone she is, how ashamed she is, how not-ready she is. It made me protective in a way the previous chapters made me indulgent. I’m still turned on, yes, but now I’m also bracing. Because everyone is catching feelings, and Vee is the only one without the map.
 
-GATE 24 — Gone  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: "I want her to get there on her own."  
-WHY: That line almost made me want to throw the book because it is so morally slippery, but it’s also the exact psychological knot I’m here for. The chapter gave me real heat, real tenderness, and real dread without flattening anyone into a stock villain.
+GATE 24 — Gone
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This is exactly the kind of trouble I came for: explicit, intimate, emotionally adult, and morally unstable in a way that actually matters. I’m furious on Vee’s behalf and still completely hooked, because Randi and Pace are becoming more real, not less, the closer the betrayal gets.

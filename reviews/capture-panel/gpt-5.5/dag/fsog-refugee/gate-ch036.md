@@ -1,25 +1,21 @@
-*capture-dag-v2-rich · gate ch036 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch036 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, Cassie. God, I needed Cassie exactly here.
+Oh, this one got me in a quieter place. After all the heat and the bright public daring and the bedroom discoveries, this felt like coming home with the glow still on and having the one sane person in the room look at you and say, gently but plainly: girl, do you know how far gone you are?
 
-After all that heat and champagne-bright danger with Randi, this chapter feels like someone opening a window and letting ordinary air in. Not cold air in a bad way. Just real air. Dorm room, bean bag, book facedown, roommate who has been watching long enough to know when the glow is not just glow anymore. I love that Cassie doesn't compete with the glamour. She doesn't try to be Randi, doesn't ask for the lurid parts, doesn't make Vee perform the whole story for her. She just sees the pattern: you don't come home school nights.
+Cassie is such a relief to me. She doesn’t try to make Vee feel stupid, and she doesn’t compete with the romance or sneer at it. She just notices. “You don’t come home school nights” is not moral panic, it’s a pin in the map. Vee has crossed from exciting affair into altered life, and Cassie sees it before Vee has made herself say it. I loved that. I needed that.
 
-That line landed harder than a dramatic confrontation would have. Because Vee hasn't counted. Of course she hasn't counted. She's been living in the warm house, in the food, in his attention, in being wanted and tended and touched like her body is not too much. And Cassie, from the little cold dorm room, can see the shape of it better than Vee can.
+And Vee telling Cassie “not any one night but the shape her weeks had taken” feels exactly right, because that’s what this has become: not a string of hot scenes, but a whole climate. His house is warm now. He cooks. He watches her eat. He fusses over a tiny burn for days. That is devastating to me, honestly, because this is the stuff that would make me fall too. Not only the hand on her, but the cold cloth afterward. The drawer. The food. The attention that keeps arriving in practical forms before she can ask for it.
 
-The tomato burn detail did something to me. It is so silly and domestic and erotic by implication without needing to be explicit: not enough on, food hot enough to mark her, him fussing over the small hurt for days. That is the exact tenderness I am here for. The dominance matters, yes, but this is why it works on me: he notices the burn. He tends the burn. The house is warm because she is there now. He makes bodily care feel like devotion, and I am unfortunately extremely susceptible to that.
+But I am also nervous. Very nervous. Because “the house stayed warm now” is romantic, yes, but it is also the house adapting around her until her own room starts becoming the place she doesn’t sleep. And Cassie’s question lands because it is the thing nobody inside the spell is asking. Vee loves him, or nearly does, and she is still nowhere near the truth of Randi and Pace’s original plan. That is starting to ache like a bruise under everything sweet.
 
-But this also made me ache because Vee is trying to explain something she does not have a vocabulary for yet. “Fine” is such a sad little word here. It makes all the earlier boys feel like a life lived under glass: acceptable, decent, survivable, but not enough to make her feel awake. And Pace is so much not-fine that she can't even name it. She just gestures at the whole weather system of him.
+The burn detail undid me a little. Her hand going unconsciously to her breast while telling it, Cassie clocking “not enough on,” and Vee not even being embarrassed enough to stop. She’s so changed. She’s not performing liberation exactly; she’s living inside it, and that’s much more dangerous and much more beautiful. I believe her happiness. I really do. That’s why the hidden frame scares me. If this were colder, I could detach. But it isn’t cold. It’s warm all the way through.
 
-Cassie asking “Do you love him” flat-out scared me a little, because Vee already knows. We know she knows. She whispered Peter to him asleep. But saying “maybe” to Cassie is so young and so real. It is not denial exactly; it is touching the stove and pulling back because the word love changes the room.
+And “Maybe. I think so. It’s all so fast.” Yes. That’s the chapter. That’s the whole problem in one breath. She knows enough to be startled by the speed, but not enough to slow herself. I would absolutely text a friend: *Cassie knows. Cassie is the only adult in this book and she is twenty-one.*
 
-And again, this is where the secret underneath all of this starts to hurt more. Because if she loves him, the plan matters more. If this were just sexy and intense, maybe the original game would be ugly but containable. But she is moving her life around him now. School nights. Her own bed empty. Cassie noticing. Vee lit up like a public utility. This is not a fling anymore, and the longer Pace keeps not telling her, the more that beautiful care starts to have a shadow.
-
-Still, I loved this chapter for giving Cassie back to me. Randi pulls Vee further open. Pace makes Vee feel treasured. Cassie tells time. Cassie counts nights. Cassie says the plain thing and then lets Vee sleep. I trust that more than almost anything.
-
-GATE 36 — School Nights  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: This was quiet, but it tightened the whole book for me. Cassie naming the pattern makes the romance feel real and serious, and Vee’s “Maybe. I think so” has the danger of a door closing behind her.
+GATE 36 — School Nights
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: This was small but it mattered. Cassie naming the pattern gives me exactly the outside steadiness I’ve been craving, and Vee’s “Maybe. I think so” pulled the love story and the danger into the same room. I’m still in, but I need the secret to start costing someone soon.

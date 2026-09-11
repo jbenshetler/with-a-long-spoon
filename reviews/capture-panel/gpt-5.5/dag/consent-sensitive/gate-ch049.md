@@ -1,23 +1,21 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch049 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — 
+REACTION — Oh. Finally. Finally the book turns the light all the way onto Pace and lets me see the machinery inside his silence, and I am relieved in a way that makes me more angry at him, not less.
 
-Oh, Randi. Oh no.
+This chapter hurt in that particular clean way where the explanation is real and still not an excuse. I believe him. I believe Daphne broke something in him. I believe he built a whole private superstition around the words, that if he didn’t say love then love couldn’t destroy him like that again. That feels psychologically true to the point of ache. But the sentence that got me was: “He had known, before he spoke, that it would not give her what she had given him.” That is the book knowing. That is the difference. He didn’t fumble blindly. He chose the smaller truth because it was safer for him, and Vee paid for that safety.
 
-This chapter pulled me hard because it gives Vee exactly what she needs emotionally and exactly what scares me structurally. She comes to Randi wrecked, and Randi is so good with her. Too good. She protects her from the hallway eyes, gets her upstairs, holds her long enough that it becomes something neither of them is naming, and then she starts sorting the fear from the facts. And some of that sorting is genuinely loving. Vee did invent Sheri out of panic. Vee did corner Pace. Vee does want him back. Randi is not wrong about any of that.
+And God, the prison-food bowl. The sous-vide chicken and broccoli, nutritionally complete and emotionally dead, after all these chapters of food as seduction, care, language, worship. Without Vee, his own life becomes function. He can feed a body but not a self. That landed hard. It also made me see more clearly what Vee has been to him: not just beloved, not just desired, but the person who makes his giving legible. She receives him in the way he most needs to be received. That is romantic and also dangerous, because if she is the only proof that his care has meaning, then no wonder he is terrified. No wonder he clings to control.
 
-But the way she turns that truth into a plan made my consent antennae stand straight up.
+The Daphne reveal matters. I’ve been waiting for her like a shadow in the hallway, and here she is: older, knowing the institution, his tutor, then lover, then first love. My consent/power alarm absolutely wakes up at that. The book does not overplay it yet, but it does not feel naive. “Academics were the one place he had not needed anyone’s help” is such a precise little reversal: he was brilliant and still vulnerable. He needed social translation, practical world-knowledge, orientation. Daphne had that. So yes, I am watching this very closely. Did he learn tenderness from being handled? Did he learn to eroticize guidance from being guided by someone with more map than he had? Did he later reproduce some of that structure with Vee while telling himself he was only being careful? I am not accusing the book. I am saying the book has put the knife on the table and I see it.
 
-Because Randi is managing Vee again. Not crudely, not falsely, not even without tenderness. That is what makes it so dangerous. She walks Vee through the shame, gives her a script, gives her the shoes, and sends her toward Pace as a peace offering made of her own naked body. And Vee does want it, I believe that. The chapter lets me feel her wanting wake up under the humiliation. But Randi also knows Pace. Knows him in ways Vee does not. Knows his fault lines. Knows the larger game. So when she says, basically, show up bare under the coat and he won’t survive it, I felt the whole hidden architecture press in.
+And then the truck. Oh, Pace. I was not prepared for how much the false arrival would get me. His body hearing an engine and becoming hope before his mind can stop it. That is the mirror of Vee holding his shirt and realizing the warmth is her own. Both of them are now haunted by absences they helped create. It is awful and it is fair.
 
-The almost unbearable part is that Randi is also in pain. The Gstaad retelling from Vee’s side is devastating because Vee hears a fairytale, and I have the backstage pass. I know the “perfect” man was perfect because he never touched the real Randi. I know the bedroom was not just disappointing; it proved the approved life is a dead room for her. And when Vee says “he sounds perfect,” I wanted to shake both of them. Randi is telling a filtered truth, and Vee is reading it through her own hunger for public naming, for future, for a man who can say things out loud.
+I’m still furious about the original plan. This chapter does not touch it directly, and that absence is loud. He can sob over Vee, he can know he loves her, he can identify the cowardice of withholding the word, but there is still the larger withheld truth sitting under the floorboards. Saying “I love you” will not be enough if he does not also tell her what he and Randi did. The title knows that: Not Enough. Exactly. Love is necessary now, but it is not sufficient.
 
-Also: the hug. The smell of Randi’s neck. Vee breathing her in and not wanting to stop. We are so far past “friend” that the word is becoming a little costume they keep wearing because taking it off would change everything. And Randi knows that. Vee does not. That imbalance is the whole book’s live wire.
+I’m captured because the book keeps refusing the easy absolution. Pace is not a monster. He is also not cleared. His pain is real. Vee’s wound is real. Daphne’s shadow is real. Randi’s hidden hand is real. The house is warm and full of care and still built around omissions. I want him to go to her. I also want him to understand that going to her with only the word would be another beautiful half-truth.
 
-I’m still continuing because the book absolutely knows this is alarming. It is not asking me to clap for Randi’s advice as uncomplicated girlboss wisdom. It lets the warmth and the manipulation occupy the same bed. That is why I’m still here. But I am very, very tense about tonight. Vee is going to Pace carrying a plan authored by the woman he has been hiding from her. That is explosive. That is not just “romantic gesture.” That is engineered vulnerability.
-
-GATE 49 — My Friend Randi  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: "You just show up already being the answer."  
-WHY: This had me by the throat, but that line scared me because Randi is turning Vee’s fear into erotic action while withholding the biggest fact in the room. I’m staying because the chapter feels aware of the danger, especially in the double vision of Randi as rescuer and arranger.
+GATE 49 — Not Enough
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This is exactly the kind of dark-romance interiority I stay for: the chapter gives Pace sympathy without laundering the harm. I’m deeply pulled now because he knows he failed Vee, but the bigger test is still ahead: whether love leads him to confession, or only to better words.

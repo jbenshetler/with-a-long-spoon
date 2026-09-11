@@ -1,23 +1,19 @@
-*capture-dag-v2-rich · gate ch034 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch034 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
 
-REACTION — 
+REACTION — Oh. Randi, you absolute menace.
 
-Oh. Oh, this chapter knew exactly where to put the knife.
+This chapter knew exactly where my attention was and then put a fingertip under its chin. I was already primed for Vee to spill the spanking story, and I loved that she came into brunch almost proud of it, almost wanting to show Randi the bruise-shaped jewel she had been given. And of course Randi does what Randi does: she makes the confession hotter by listening correctly. Not shocked enough to shame her, not casual enough to let her hide. Just that bright, entertained, proprietary attention, asking the next question like she has every right to the answer.
 
-This is Randi’s chapter, and I mean that as a compliment and a warning. Pace gave Vee the actual spanking, the bed, the tenderness, the juice, the scrunchies, the curry. Randi takes the aftermath and turns it into a public humiliation altar with mimosas and pastry glaze. This is the stuff I came for: not just sex, but the terrible little uncertainty afterward. Did Randi know? Did she set the trap? Did she just happen to say “sticky fingers” with plausible deniability so perfect it could cut glass? I don’t know, Vee doesn’t know, and that made my stomach drop in the best way.
+The thing that got me is how Randi doesn’t even have to touch Vee to handle her. Pace had her naked, bent over, seen, spanked, soothed, entered, treasured. Huge. Chapter-filling. And then Randi sits across a brunch table in sunglasses and good makeup and gets Vee so worked up she has to flee to a restaurant bathroom. That is power. That is control with plausible deniability wearing perfume.
 
-And the bathroom almost got me by the throat. Last time Vee stopped herself because touching herself over Randi’s story would mean something. This time she actually goes there, in public, soaked from telling Randi what Pace did to her and then from picturing Randi taking care of herself. And the thing that stops her is not Pace, not shame about men, not some abstract good-girl voice. It’s Randi’s face. Randi looking. That is such a deliciously damning turn. Vee can be bare and bent for Pace now, can let him see everything, but Randi’s gaze still has this almost sacred/terrifying power over her. She can’t come under it yet. She can only obey it.
+And the bathroom scene killed me because Vee still cannot admit the direction of the wanting. She can want because of the story, because of the spanking, because of the shame, because of the public/private contrast. Fine. But the second Randi’s face arrives as the actual object of the looking, her hand stops. That is such a delicious little failure. She can get herself almost there on Randi’s words, but not yet through the thought of Randi witnessing her. The door is open, but she is standing there burning up on the threshold pretending she came by mistake.
 
-Randi calling her “my girl” at the start already had my hackles up in the good way, because it’s affectionate and possessive and so smooth Vee just drinks it down. Then “walk me” made me grin because that is not a friend asking for gossip, that is a handler asking for a report. She gets Vee to lay out every detail in daylight, and every word makes Vee wetter, and Randi just keeps adjusting the flame. Not too much. Never too much. Just enough that Vee runs herself into the bathroom and then comes back half-broken.
+“Sticky fingers?” was evil. Perfectly evil. I actually froze with her. Because yes, pastry, sure, daylight, joke, brunch. But also no. Randi knew. Or she knew enough to make Vee feel known, which is maybe worse. And then the untouched pastry glaze on Randi’s mouth at the end? Come on. That is not friendship. That is a woman leaving evidence where Vee’s own tongue will find it later and still giving herself deniability. I love her and do not trust her for one second.
 
-The “best friend in the whole world” thing is evil. I know it’s evil. I also completely understand why Vee folds around it. Randi gives her exactly the belonging she has been starving for, right after making her feel seen in the most dangerous way possible. That hug and kiss outside is almost worse than if Randi had shoved her against the wall. Because Vee is being claimed with sweetness, and she has no defenses against sweetness when it comes wearing Randi’s perfume.
+Pace is still hot, but this was Randi’s chapter. Pace gave Vee the scene; Randi metabolized it. Pace makes Vee feel treasured after being exposed. Randi makes exposure portable. She can do it at a table, in a crowded room, with coffee. That is terrifying in my preferred way.
 
-And that last line. The pastry glaze she never touched. I actually sat up. Because it turns the kiss into evidence. Randi ate the pastry, Randi kissed her, and now Vee has the sweetness in her mouth like a transfer, like a mark. It’s small, deniable, intimate, grossly hot. That’s the exact kind of wrongness I want from this triangle: Pace can have her body honestly, but Randi is getting into her head and mouth and reflexes through these tiny “friend” permissions.
-
-I’m fully in. The danger is not loud, but it is absolutely tightening. Pace is erotic control with aftercare. Randi is social/emotional control with plausible innocence. Together? Terrible. Wonderful. I need the reveal so badly now because Vee is not merely being seduced by them; she’s starting to confess herself into their hands.
-
-GATE 34 — One Bite  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: This gave me the Randi escalation I wanted: public daylight arousal, plausible-deniability cruelty, the bathroom denial, and a kiss that leaves evidence. Vee wanting Pace is hot, but Vee being unable to survive Randi’s gaze is the hook in me now.
+GATE 34 — One Bite
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This is exactly the triangulated wrongness I was waiting for: Pace opens the door, Randi stands on the other side smiling. Vee’s denial about Randi is now basically transparent, and Randi’s “best friend” sweetness feels like a ribbon tied around a trap.

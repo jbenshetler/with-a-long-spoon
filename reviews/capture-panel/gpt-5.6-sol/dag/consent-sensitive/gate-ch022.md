@@ -1,15 +1,21 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — Oh, Cassie. “The friend was the only part of any of it Cassie had ever been able to see” nearly undid me. She doesn’t need the erotic details, doesn’t need to excavate Vee or turn her inside out for intimacy; she watches her face, asks whether the night was good, and relaxes when the answer is genuinely yes. The contrast with Randi is almost painful. Cassie sees Vee. Randi sees the next opening.
+REACTION
 
-And yes, I felt the shoe-shopping invitation close around Vee even though it is also exactly the kind of delighted girlfriend date she wants. “Don’t you dare tell me no” is ordinary playful language, not some enormous consent violation, but in Randi’s mouth—when she already knows the dress is part of Pace’s design, when she is helping construct Vee’s appearance for the induction, when Vee still doesn’t know these two are coordinating her life—it makes my shoulders rise. Pace made the dress that reveals her; now Randi will supply the shoes that complete her. Vee experiences herself as happily held between “both her girls,” while one of them is quietly advancing a shared plan with the man whose bed she just left. God.
+Oh, this is exquisitely ominous. Simpson’s paradox sitting there in plain sight while Vee is blissfully between Cassie and Randi: every individual yes can be true, every individual moment can be good, and the aggregate can still tell a different story. “Same numbers. Nobody touched one of them.” Yes. Exactly. The book knows. I felt my shoulders drop at that—not because Vee is safe, but because I am safe with the book.
 
-The Simpson’s paradox lecture is so ominous I could practically hear the book tapping the glass. Each fact considered separately can be true: Vee wanted Pace, Pace waited, Randi befriended her, Vee chose to disclose, the dress makes her feel magnificent, the shopping date delights her. Put the same facts together under the hidden knowledge Vee doesn’t possess, and the meaning reverses. Nobody has to alter a single yes. That is exactly the horror promised on the jacket, and the book very clearly knows it.
+Cassie watching Vee instead of the dress nearly broke me. She asks one question—“Was it a good night?”—gets the answer that matters, and releases her. No excavation, no demand for access, no converting Vee’s happiness into entertainment. Randi immediately says “Tell me everything. Leave nothing out,” and then finds the next opening: shoes. Of course she does. Vee names one lack and Randi has her wrist, her Saturday, and the entire solution before Vee can decide how she wants to solve it. It feels wonderful to Vee because being anticipated and swept along genuinely does feel wonderful to her. That’s what makes Randi so dangerous and so compelling.
 
-Also, “happy in the middle” got me. She loves them both already in different registers, and she has no idea that the space between them was prepared for her before she stepped into it. I’m happy because she’s happy; I’m frightened because I can see the aggregate.
+And I noticed that Vee is “happy in the middle” of these women while only one of them knows the hidden architecture of her happiness. Cassie and Randi may occupy equivalent seats beside her; they are not remotely working with equivalent information. The statistics lecture is practically screaming this, while Vee experiences the arrangement as perfect symmetry.
 
-GATE 22 — All Told  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: The chapter turned Vee’s uncomplicated happiness into a warning without invalidating any part of that happiness. The book absolutely sees the machinery, and I need the moment when Vee finally sees the whole table instead of each innocent-looking column.
+The shoe trip thrills and alarms me. Randi is about to help complete Pace’s vision of Vee, dressing her feet for the gown he made, and Vee will experience it as two separate acts of loving attention from her two closest new people. But Pace and Randi are the two people who chose her together. Whether or not they explicitly coordinated this particular step, the closed system is closing beautifully around her. Meanwhile Cassie’s raised eyebrow is tiny, ordinary, and therefore precious: she registers Randi’s pressure without hijacking Vee’s joy.
+
+Also, “still shown to not one living soul” is such a sharp little sting. Pace has seen it. Pace made it. Yet in Vee’s mind that somehow does not count as being shown, because his gaze has already become part of the dress itself. She cannot see the object outside his attention—or his attention outside the object.
+
+I would text a friend: *The author just used Simpson’s paradox to tell me every yes can remain true while the whole relationship is a lie. I am absolutely not sleeping now.*
+
+GATE 22 — All Told
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This chapter quietly confirmed that the book understands the exact consent problem it has built: truthful individual moments can combine into a profoundly misleading whole. I am frightened for Vee, deeply moved by Cassie, and absolutely going shoe-shopping with Randi even though I know better.

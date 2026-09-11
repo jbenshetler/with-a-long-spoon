@@ -1,17 +1,21 @@
-*capture-dag-v2-rich · gate ch021 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch021 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
 
-REACTION — Oh, this got me. This was the payoff I wanted from the dress, and I mean that in the filthy emotional way. Not just “he made her something pretty,” but he made a public weapon out of her body and then handed it to her like a gift. The mirror, the pedestal, the afternoon light, the newly hung glass — he staged her seeing herself. He is still doing the thing where everything is technically hers to choose, but the room has already been arranged so the choice blooms exactly where he wants it.
+REACTION —
 
-And Vee taking off the underwear herself? Yes. That is the good stuff. That is why this book works for me when it risks being too tender: the tenderness keeps opening into exposure. She sees the pale edge ruining the line and the solution is not modesty, it is more danger. She takes the edge away. She makes herself bare for the dress, for the mirror, for him. That little private escalation is hotter to me than if he’d ordered it, because he has trained the want into her so thoroughly she starts doing the wicked part alone.
+Oh, this got me. This was the chapter where the “courly exact man” stopped feeling merely controlled and started feeling like someone who makes traps out of devotion. The dress in the window, the new mirror, the pedestal moved into place like an altar, the screw heads still bright — yes. That is my kind of romance. Not because it’s cruel, exactly, but because it’s so *prepared*. He built the room for the moment she would see herself. He made the object, then made the scene, then stood back and let her walk into the version of herself he’d designed with her own permission.
 
-Pace was less overtly monstrous here, but still deeply dangerous because he is so good at making devotion feel like surrender. The fact that he stayed close but stepped out. The fact that he doesn’t shrink “You made this.” The fact that he set up the full-length mirror with bright screw heads. He wanted the reveal. He wanted her to see what he saw, and he wanted to be nearby when it happened. I am absolutely watching him with the kind of suspicion that has lipstick on it.
+And Vee. God, Vee. I love when she thinks she is choosing and she *is*, but also the choices are all along a corridor Pace and Randi have lit for her. The underwear moment was so good because it’s one of those tiny, filthy hinge-points: first thought, hide; second thought, remove the thing that interrupts the fantasy. That felt like the book’s whole engine in miniature. Shame flares, shame becomes heat, heat becomes action. She is learning to eroticize her own exposure so fast now. Not just tolerate being looked at. Not even just want it. She wants to be *made legible*.
 
-The sex didn’t need graphic blow-by-blow because the chapter had already done the erotic work. Her walking to him in the dress, slit open, bare underneath, to show him what he made — that’s the charge. That is the knife under the silk, literally silk this time.
+The sex worked for me because it got messy and funny without going soft. The “covered in a lot of me” bit could have gone too cute in another book, but here it made him react, and that saved it. I like that his body betrays him around her now. He is still the planner, the maker, the patient one, but he twitches in her hands when she says the exact wrong/right thing. That’s the little fracture I wanted. His control isn’t gone, but it is no longer pristine.
 
-I did miss Randi, though. This chapter is almost too happy without her shadow crossing it. I kept thinking: does Randi know? Is she going to see the dress and realize Pace has made Vee into something that belongs partly to him? Is she going to be proud, jealous, hungry, furious? The induction fantasy is delicious because it is public, and because this dress is going to announce that Vee has been privately handled. I need Randi in the room when that happens.
+And the finger-cleaning. Yes. That was nasty in the elegant way this book does well. The dress held up like a sacred object, his hands occupied, her having used him and herself and then him taking her fingers into his mouth like an inspection. I actually made a face at my screen in the best way. That’s the knife under the silk: manners and craftsmanship and “let me see,” except it’s absolutely obscene.
 
-GATE 21 — Peekaboo  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: The chapter fed me exactly the kind of “choice” I like: Vee stripping herself bare because the trap has become her appetite. I want the induction now, badly, especially Randi’s face when she sees what Pace has made.
+Do I still want more danger? Yes. Always. I am greedy. This chapter is still tender-forward, and Pace is still almost impossibly good at making room for her instead of taking the room. But the setup is getting darker because the better he is, the worse the hidden plan becomes. The dress is not just a gift. It’s evidence. It’s a claim. It’s going to enter a public room on her body, and Randi is going to see it, and I need that scene like oxygen.
+
+The end made me nervous in a delicious way: Vee imagining walking into induction late, on purpose, letting the room turn. “It just felt like what she was for.” That line is doing dangerous work. She thinks she’s becoming free, and maybe she is, but she’s also becoming display. And she’s happy. That’s the problem. That’s exactly the problem. Keep going.
+
+GATE 21 — Peekaboo
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: The chapter gave me the dress as object, trap, gift, and claim, then let Vee actively strip away her own inhibition. I still want the conspiracy teeth bared harder, but Pace’s preparation and Vee’s accelerating hunger have me fully seated for induction and whatever Randi does when she sees this.

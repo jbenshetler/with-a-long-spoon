@@ -1,17 +1,25 @@
-*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
 
-REACTION — Oh, Sheri, thank God. Finally somebody looks Pace directly in the face and refuses to accept acts of service as a magical exemption from saying the necessary thing. “Then not saying it matters more to you than having her” is exactly right, and I felt the satisfaction of it in my teeth. He has made his silence sound principled to himself—words are cheap, other men lie, look at everything I do—and Sheri cuts straight through the nobility of that defense. Vee did not ask for his evidentiary brief. She asked him to risk something.
+REACTION
 
-And he does love her. Of course he does. “I want Vee. I miss her.” The air crackles. She sees the philosophy under his food. That is maddeningly, specifically love—not generic hunger, not merely fixation on her body—and he can say all of it to Sheri because Sheri costs him nothing emotionally. He can tell another woman that Vee changes the air, but when Vee is crying in front of him, he folds his arms. I want to shake him. His refusal is clearly attached to damage, especially with “long practice at deciding a thing could keep” and the grief he recognizes in Sheri, but an explanation is not absolution. Whatever happened in his family taught him that unsaid feeling is safer than spoken need. Now he is making Vee live inside the consequence.
+Oh, Pace. You absolute emotionally constipated disaster.
 
-I also clocked “when I’ve got her, there’s nothing else in the room.” Sir. That is both devastatingly romantic and a beautiful description of compartmentalization. Because something else absolutely exists outside the room, and its name is Randi. Sheri knows there are two women, knows enough to ask whether Vee found out about “the brunette,” and Pace still presents himself as the man who is wholly there. He may be wholly present inside each sealed compartment. That does not make the walls honest.
+I have spent so long defending the difference between his silence and the usual romance-man bullshit because his actions really are so attentive, so specific, so full of care. And now, finally inside his head, I can see that he is using every beautiful thing he does as a wall against saying the one thing Vee actually asked for. “Every brick was true and the true things were supposed to come to something” is exactly his problem. He thinks enough true bricks automatically make an honest house, while Vee is standing outside asking why the door has no name on it.
 
-Sheri works for me because she is not positioned as another polished erotic possibility. She is funny, crude, grieving, queer, unimpressed, and allowed to love him without wanting him. Her own story also sharpened Pace’s history without handing me the whole answer: these are two people who do not go home, and he understands that some losses cannot be repaired by calling your mother at Christmas. There is clearly a buried reason he “can’t,” not merely won’t. I’m interested—but after forty-eight chapters, I need that wound opened soon. Vee cannot keep bleeding around a secret origin story she does not know.
+Thank God for Sheri. “Then not saying it matters more to you than having her” went straight through him, and it needed to. No teasing, no interpretation, no letting him hide inside how good he is on weekends. She sees that he already has the girl and is still producing a legal brief for why he shouldn’t have to answer her. Also, her stealing his fries immediately afterward is perfect. That is actual friendship: tell him he is being shitty, then eat off his plate.
 
-And yes, I laughed at “the philosophy of your food.” Pace desperately needed someone to puncture his beautiful solemnity. Unfortunately, even while laughing, I am furious that he can formulate what Vee uniquely sees in him and still leave her alone over New Year’s believing she may mean nothing.
+And he loves Vee. Obviously. Not merely because he misses her or because the sex is good, but because he wants to know what she would think of the old diner, because the air changes around her, because she understands the idea beneath his food. That last one is so unbearably Pace—pretentious enough that Sheri is morally obligated to tell him to get over himself, but also completely sincere. He does not just want Vee’s body. He wants her particular mind receiving what he makes. So what the hell is inside the word that makes him choose losing her over saying it?
 
-GATE 48 — The Usual  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: Pace finally admits plainly—to the wrong woman—that he wants and misses Vee, while Sheri delivers the exact moral verdict his romantic self-justification needed. I’m staying because his silence has now been named as a choice with a cost, and I need to see whether he pays it or makes Vee pay instead.
+That is no longer romantic reticence. It is damage. The chapter puts his locked family door right beside Sheri’s estrangement and grief without explaining his, and now I’m convinced “I can’t” is literal in his emotional world, not coyness or lack of feeling. But understanding that does not make it acceptable. Vee asked for a declaration while he is secretly involved with another woman. He should be giving her vastly more truth than she requested, not congratulating himself for saying she is “the most important person” as though importance and exclusivity are remotely the same thing.
+
+And Sheri knows about “the brunette.” Of course she does. Pace can speak about Vee and Randi as recognizable fixtures in his life to Sheri while Vee still does not know they occupy the same map. That casual “She find out about the brunette?” made me feel sick. His “No. Not like that” is slippery as hell. He knows the discovery is waiting. He knows Vee’s demand for a name is happening inside a reality she has not been allowed to see. Yet he is treating the crisis as if the only missing piece is three words.
+
+Also: Sheri was absolutely the woman at the dance, and Vee apparently never even learned her name before constructing a threat out of her. That hurts because Sheri would probably have been good for Vee. She is unpolished, funny, queer, estranged from family, entirely unimpressed by Pace, and capable of seeing his failures without denying his goodness. She could have widened Vee’s world. Instead, the concealed structure turned her into one more phantom rival.
+
+I would text a friend: *His lesbian cycling friend just told him to stop bullshitting and say he loves her, while casually confirming she knows about his secret brunette. I need to shake this man until the entire truth falls out.*
+
+GATE 48 — The Usual
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: Pace’s interiority gave me the infuriating confirmation I needed: he loves Vee, knows exactly what she wants, and still cannot say it. Sheri cutting through his pile of technically true excuses was enormously satisfying, and “the brunette” has tightened the trap another turn.

@@ -1,29 +1,25 @@
-*capture-dag-v2-rich · gate ch034 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch034 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION —  
+REACTION —
 
-Oh, Randi. Randi, Randi, Randi.
+Oh no. Oh, this chapter is a trap with sunlight all over it.
 
-This chapter made my whole consent alarm sit up straight, not because it wasn’t hot. It was very hot. It is almost annoyingly hot. Vee telling the spanking story in daylight, trying to be worldly over a mimosa while her body is practically sliding out of her chair, is exactly the kind of shame/heat knot this book has been doing so well. I believe her. I believe the way arousal becomes narration, the way saying it out loud reactivates it, the way she is both proud and mortified that Pace saw her wet and good and unruined by it.
+I felt caught almost immediately, because Randi at brunch is such a specific danger: public, bright, socially normal, mimosa in hand, and somehow more intimate than a bedroom. She doesn’t have to corner Vee. She just makes a table feel like a confession booth and a stage at the same time. “There’s my girl” landed on me exactly the way it landed on Vee, which is the problem. I like being there. I like how wanted Vee feels. And I am watching Randi put her fingers on every hot wire in Vee’s body while smiling over pastry.
 
-And Pace, absent here, comes out of the story mostly okay for me again. The “Don’t” / hand gone / “Yes” / “We find out” sequence still matters. It is not perfect, because the bet is loaded and he is reading her hard, but the chapter remembers that “aroused” and “yes” are not identical. Vee remembers it too. That is keeping me in.
+The Pace story being retold to Randi was almost unbearable, in a good and bad way. Vee is so proud of what happened with him. Not just turned on, proud. She wants to bring it to someone who will understand the erotic importance of it, and Randi absolutely does understand. That’s the tenderness and the danger braided together. Randi gives Vee language and attention and delight, but she also keeps steering the telling toward maximum exposure: “Walk me.” God. That is not neutral listening. That is handling.
 
-But Randi is so dangerous in this one that I wanted to reach across the table and physically remove Vee from brunch.
+And Vee’s body is just… ahead of her, all chapter. The book is doing something very sharp with that. It doesn’t make her body into proof that everything is fine. It makes her body into evidence she doesn’t know how to read yet, evidence other people can use before she can. That’s why I’m still here. The chapter knows this is charged and scary. It knows “she wanted it” is not the end of the ethical question. In fact, that’s the whole knife.
 
-Because Randi knows what she is doing. She draws the whole story out of Vee piece by piece. “Walk me.” That is not a friend just being nosy. That is an experienced woman pacing an inexperienced woman through arousal in public until Vee is practically undone under the tablecloth. Then Randi offers her own masturbation story like a lit match dropped into gasoline, watches Vee flee to the bathroom, and when Vee comes back: “Sticky fingers?”
+The bathroom scene wrecked me a little. Not because she masturbates in a restaurant bathroom, but because she can’t. Because Randi arrives in her head as a look, and Vee’s desire collapses into shame and obedience. That is so intimate and so alarming. She isn’t only fantasizing about Randi. She is already regulating herself around Randi’s imagined gaze. That’s deeper than a crush. That’s control finding a place inside her.
 
-I hated how good that line was. I hated that I laughed in shock and then immediately went cold. The pastry cover is immaculate plausible deniability, which is exactly the problem. Randi has made a door and hidden the hinge. Vee cannot know whether she has been seen, teased, permitted, exposed, or spared. That is manipulation as flirtation, and the book absolutely knows it. The “she could not tell whether her friend had just handed her a door or shown her there had never been one” is the whole damn moral weather.
+And then “Sticky fingers?” I actually froze. That was nasty-perfect because I could not tell either. I could not tell if Randi knew, guessed, meant the pastry, meant both, meant to make it deniable. That kind of plausible deniability is Randi’s whole weapon. She can open a door and pretend it was always a wall. Vee sitting down and choosing not to find out felt so true and so sad.
 
-And then the best friend thing. God. That was meaner than the sticky fingers line, because Vee is so hungry for being chosen. Randi knows where to touch. Not sexually, not only. She hits the loneliness. She gives Vee the fairy-tale social elevation: glamorous Randi picked me, I am her closest person, I am special. And then kisses her with pastry glaze on her mouth, after Vee never touched the pastry. That means Randi ate it, kissed her, left the sweetness behind like evidence Vee can taste but not accuse. It’s intimate, coded, deniable, and predatory-adjacent in the exact way I can keep reading only because the prose is not pretending it’s innocent.
+The “best friend in the whole world” line made my stomach drop. That is the line that would get Vee. Not sex, not money, not glamour, not even the kiss. Best friend. Chosen. Closest place. Randi knows, or at least feels, exactly where Vee is hungry. And then the kiss after it, with pastry sweetness Vee never touched on her lip? I mean. Come on. That is seduction as contamination, as communion, as proof without proof. I hated it. I loved it. I am furious that it worked on me.
 
-I am now more worried about Randi than Pace by a lot. Pace is withholding the big map, yes, unforgivably, but in-scene he keeps stopping for Vee’s words. Randi operates in the places before words. She engineers atmosphere, status, desire, and doubt. She makes Vee feel chosen at the exact moment Vee is most destabilized. That is frightening.
+I am more worried about Vee than I was before, because this chapter moved Randi from “dangerous friend who is arousing Vee” to “central erotic authority in Vee’s inner life.” Pace still matters enormously, but Randi is now inside the machinery. And the book knows. I can feel it knowing.
 
-Also: Vee stopping herself in the bathroom again matters. She is not just swept along. She has a private line in herself, even if she doesn’t understand it yet. Randi’s face appears behind her eyes, and Vee cannot continue. That is huge. She may want Randi, but she does not yet consent to being looked at by Randi there, not even imaginatively. Her body knows a boundary before her social self can say it.
-
-I’m captured, but I’m not relaxed. This chapter tightened the net beautifully and horribly. If the book ever asks me to treat Randi’s “best friend” claim as uncomplicated sweetness, I’m gone. Right now, though, it feels like the book is standing right beside me whispering, yes, you’re right to be scared.
-
-GATE 34 — One Bite  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “Sticky fingers?”  
-WHY: That line nearly made me leave because it is such a precise violation disguised as brunch banter. But the chapter lets Vee feel the terror of not knowing whether she was exposed or spared, and that awareness keeps my trust. Randi is terrifying now, but the book knows she is terrifying.
+GATE 34 — One Bite
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: “You’re my best friend in the whole world, you know that?”
+WHY: That line came closest to making me want to shut the book because it is such a precise emotional lever, and Vee has no defense against it. But the chapter is fully awake to the manipulation, the deniability, the sweetness, and the threat, and I am completely caught.

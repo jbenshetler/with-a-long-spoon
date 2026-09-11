@@ -1,19 +1,23 @@
-*capture-dag-v2-rich · gate ch048 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch048 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, this was mean in exactly the way I needed after all that lonely Vee spiraling. We finally get Pace without Vee’s body translating him into safety, and he is still controlled, still withholding, still maddening — but now I can see the cost of it sitting in him. He misses her. He wants her. He knows the whole argument and still cannot make himself spend the one word she asked for. That does something to me, because it keeps him from becoming merely gentle-boyfriend. There is a locked door in him, and apparently he would rather bleed quietly in a diner than open it.
+Oh, this worked on me. Not in the hot way exactly, though Pace being quietly miserable in a county-road diner with Sheri eating his burger and verbally kicking his knees out from under him is apparently very much a thing for me. But more than that: finally, finally, I get Pace without Vee’s worship-filter over him, and he is both better and worse than I thought.
 
-Sheri surprised me by being exactly useful. I was wary of her as competition, but she is not playing that game, at least not here. She is too sharp, too unimpressed, too hungry in her own life. I loved her calling Vee “the curvy one” and being filthy about her body because, yes, thank you, someone besides Pace and Randi notices the obvious. But mostly I liked that she can say the thing nobody else has said to Pace: if you cannot say it, then the not-saying matters more than keeping her. That landed. It made him look small for a second, which he needed.
+Sheri is a gift. I wanted her in the room and yes, absolutely, this is why. She has no patience for his beautiful tragic self-control routine. She looks at the whole courtly structure and says: if not saying it matters more than having her, that’s shitty. THANK YOU. Somebody had to say it without kneeling first.
 
-And the diner setting worked on me more than I expected. Not cozy in a wholesome way, thank god, but worn-in, quiet, a place where secrets and damage sit under glass with old Elvis pictures. Pace comparing it to Chili’s made the Chili’s disaster hurt differently. He wasn’t rejecting public Vee; he was drowning in the wrong kind of public. But also, baby, that does not solve the actual problem. Because Vee asked for a name, not a quieter restaurant.
+And Pace. God. He misses her. He wants her. He is not remotely done with her. That should soothe me and it does, a little, but it also makes him more dangerous because the refusal is not indifference. It’s principle, damage, fear, something locked so deep he’d rather sit there losing her than spend the word. That is the knife under the silk again. He can build a whole warm world for Vee, feed her, undress her, alter her appetite, make her dependent on the air changing when he’s in it, but when she asks for the name, he goes rigid and lets her walk into the cold. Deliciously awful. Infuriating. Correct.
 
-The line that got me was “She find out about the brunette, then?” because there it is, the whole ugly architecture still sitting under the floorboards. Sheri knows some version of Randi. Pace knows what “the brunette” means. Vee does not. And Pace is over here acting like the crisis is only that he cannot say love, when there is a planned seduction ticking behind all of this. Deliciously infuriating. I want to shake him and climb him, which is about right.
+I also loved that the diner is the real public place he could maybe have brought her to. Not Chili’s sensory assault, not a polished date performance, but this shabby warm amber little booth where he can hear. The ache of him thinking Vee might either love it or never see it got me more than I expected. Because yes, that’s the tragedy: he does have an outside-world version of intimacy. He just hasn’t trusted her with it, or hasn’t known how to offer it, and she has been starving in the closed house thinking there is no outside at all.
 
-Also: “The air’s different when she’s in the room. It — crackles.” Fine. Fine, I’m weak. He does love her, or whatever ruined Pace version of love he is capable of admitting sideways. But he still did not say it where it mattered, and I am not letting him off.
+Sheri talking about Paige quietly gutted me too. It made her bluntness feel earned, not just comic relief. She knows exactly what family silence costs, and she won’t let Pace turn pain into an altar everyone else has to worship around. I like her. I trust her more than almost anyone in this book, which in my genre usually means I should start worrying.
 
-GATE 48 — The Usual  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: “The philosophy of your food.”  
-WHY: I nearly rolled my eyes clean out of my head there, but Sheri immediately punctured him, so it turned into the point instead of the book asking me to swoon. This chapter pulled me because Pace’s withholding finally got cross-examined by someone who is not seduced by him, and because “the brunette” is still sitting there like a loaded gun.
+And Randi got named “the brunette” here like a little spark under the rug. Pace saying Vee doesn’t know “not like that” keeps me alert. So he knows there’s something to know. The plan is still humming underneath this whole thing. Also Sheri clocking Randi’s jealousy instantly? Wonderful. Randi thought she was composed and apparently looked like she wanted to swat another woman away from Pace’s orbit. Messy, rich, please continue.
+
+The chapter didn’t give me sex, but it gave me threat: not physical threat, not villain stalking threat, but emotional danger with real teeth. Pace’s refusal has consequences now. He is not just too tender; he is withholding something Vee needs while telling himself acts are cleaner than words. I want him cracked open. I want the scar, the parents, Daphne, whatever altar he built this rule on. And I want Vee to stop being the only one naked.
+
+GATE 48 — The Usual
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: Sheri dragged Pace into daylight and made his silence look cruel without making his love feel fake. I’m very in for a man who wants the girl badly and still cannot say the one thing that would keep her, especially when the locked reason is clearly waiting to bleed.

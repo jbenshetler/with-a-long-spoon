@@ -1,17 +1,19 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — Oh, the drawer got me. It really did. Not the scrunchies themselves, not even the extravagant abundance of them, but that he compressed his own meticulous order to make room for hers—and gave her the easiest drawer. That is devastatingly intimate. He doesn’t merely tolerate the evidence of her; he reorganizes his life around it. I understand completely why Vee reads that as love, because I nearly did too.
+REACTION — Oh, the drawer got me. Damn him, the drawer got me.
 
-But then: “He never said.” That kept needling through all the sweetness. She has decided she can live without hearing that he loves her because his actions say it, while he possesses an enormous truth about their relationship that his actions cannot disclose. His silence is not empty. He made her a place in the house while withholding the information she would need to understand what kind of place she is occupying. I’m touched, and I’m furious that I’m touched, which I suspect is precisely where the book wants me.
+Vee whispering “Peter” to him asleep, finally letting herself know she loves him, is so nakedly tender that I wanted to protect her from the chapter she’s standing inside. She is taking all his acts of care as the language of a love too deep or shy to speak—and I believe she is right that he loves her. That is what makes this hurt. He isn’t casually deceiving a woman he plans to discard. He is building her into his home while still withholding the one fact that would let her understand what kind of home she is entering.
 
-The weight loss bothered me. Not because sex and happiness cannot change somebody’s appetite or body, but because Vee is quietly “burning down whole weekends of him” while her world increasingly contracts around him. She is eating beautifully at his table and still disappearing inside her own clothes. That may be incidental, but in this book I don’t trust incidental. Her body is once again carrying information before she consciously reads it.
+And she is doing so much interpretive labor around his silence. He never says whether he minded the counter. He never says what she is to him. She reads the embrace, the salmon, the tomatoes, the scrunchies, the drawer, and constructs security from them because the gestures really are loving. Then he quietly rearranges his own things to make space for hers, and of course she experiences that as an answer. Anyone would. Giving her the top drawer is a domestic declaration whether he speaks it or not. He cannot hide behind never having explicitly promised exclusivity or permanence when he is communicating both with every competent, exquisitely chosen action.
 
-And “Peter” absolutely hurt. She loves the hidden, vulnerable person he entrusted to her. I believe her love. I believe his care. I believe he may love her too. That is what makes the concealment unbearable rather than merely villainous. The whole chapter is an exquisite domestic promise—food, sex, sleep, toiletries, storage—and Vee does not know that another woman helped choose her for it. Pace is building permanence in gestures while refusing the sentence that would let Vee ask what permanence actually means.
+The counter anxiety also hurt in that horribly specific way: her whole self becoming “sprawl,” the immediate conviction that she has been too much, her readiness to learn where a guest’s things must be hidden. Pace answers that wound beautifully. He doesn’t merely tolerate the mess; he makes room for more. I melted. I am also furious, because Randi is absent from the reality that drawer implies. Vee thinks she is being invited further into *his* life, singular. Pace knows the life is already plural.
 
-I would text a friend: “HE GAVE HER THE TOP DRAWER and I’m emotional, but this man is using acts of service to say everything except the one truth she desperately needs.”
+The weight loss snagged at me too. She is eating freely and well, which I love, but “burning down whole weekends of him” has an almost feverish quality. Her body is changing without her choosing or examining it, just as her emotional world is being reorganized around these two people faster than she recognizes. I don’t yet know whether that is meant as radiance, depletion, or both.
 
-GATE 35 — Above Him  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: The drawer is brutally romantic, and the book absolutely knows that Pace’s wordless tenderness and his strategic silence are tangled together. I’m captured—but the sweetness has made disclosure more urgent, not less.
+This was soft enough to make me ache and sinister enough to make the softness feel like a blade. My 1 a.m. text would be: *HE GAVE HER THE TOP DRAWER WHILE SECRETLY SLEEPING WITH HER BEST FRIEND. I am unwell.*
+
+GATE 35 — Above Him
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: The tenderness is completely convincing, and so is the trap inside it. I need Vee to learn what that drawer actually invited her into—and I need Pace to face that loving her through gestures does not excuse withholding the truth those gestures taught her to believe.

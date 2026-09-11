@@ -1,25 +1,27 @@
-*capture-dag-v2-rich · gate ch023 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch023 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION —  
+REACTION —
 
-Oh, this chapter got under my skin in exactly the way Randi chapters do, which is: I am having fun and I am worried about the fun.
+Oh no. Oh, this one got under my skin in a different way.
 
-The first half, in Vee’s dorm, is delicious because it’s so recognizably the pleasure of showing another woman the thing that made you feel transformed. Not telling her. Showing her. Letting her look. And Randi’s response is so perfectly calibrated that I honestly felt Vee melt from here. “He made it to you” is devastating because it is true. That’s the dangerous part with Randi: she is not just flattering Vee. She sees the right thing. She gives Vee language for something Vee already felt but couldn’t say. If she were only manipulative, I could hate her cleanly. Instead she keeps being useful to Vee’s soul while also absolutely steering the car.
+Because the first half is delicious. I mean, *delicious*. Randi walking into Vee’s dorm room and making the ordinary room visible to Vee again by being too bright for it, too worldly for it. I felt that little class/social ache immediately: Vee’s own space suddenly looking smaller because Randi is inside it. Not ugly-small, but exposed-small. And Vee wanting to be seen in the dress, not just show the dress, felt so true to where she is now. She wants witnesses. She wants the woman in the mirror to exist outside Pace’s house.
 
-And the shoe shopping was so warm at first. I loved Vee getting to be funny. I loved her having home-court advantage in the cheap store, knowing the racks and the lies and the clearance wall. I loved Randi actually laughing, not just performing amusement. That felt like real friendship, the kind where two women make each other bigger and sillier and less self-conscious in public. I could feel why Vee thinks she has never had a friend like this. I would fall for that too.
+And Randi looking at her in it. God. That “He didn’t make this for you. He made it to you.” I hate how good that is. I hate that Randi is exactly the person who can name the thing Vee needs named. That’s why she’s dangerous. She doesn’t just flatter Vee, she translates Vee to herself. She gives Vee language that feels like rescue. And sometimes it is rescue. That’s the awful part.
 
-But then the boutique. Whew. That was the chapter turning the screw.
+The cheap shoe store scene almost made me relax completely. I loved them there. Vee on her own ground, funny and quick and not intimidated, making Randi lose it over the busted flat. That was the most mutual they’ve felt in a while, like actual girls being idiots together in public, with Vee getting to be the charming one. I wanted to live there longer. I wanted that friendship to be clean.
 
-Because nobody forced Vee. Nobody said “buy them.” Randi did not grab the credit card out of her hand. But the whole situation was engineered toward one answer: the dress comes with us, the cheap shoes are an apology, the expensive store is the real place, Randi kneels, touches her foot, names Pace “your lover,” makes the right shoe feel not like a purchase but like a moral obligation to the version of herself Pace has made visible. That line, “The shoes were not a want she had to own as a want. They were what the dress was owed,” made my stomach drop. That is exactly how people get talked into choices while still feeling like the choice came from inside them.
+Then the boutique. Whew. The second they walk in, the floor tilts. Not sexually at first, financially. Vee cannot afford to be in the room, and Randi knows exactly how to make that unsayable. And she does it with beauty, with certainty, with the dress as moral logic: the shoes aren’t a want, they’re what the dress is owed. That is such a nasty, perfect little trap because it doesn’t feel like pressure from outside. It becomes Vee’s own thought. Randi supplies the weather, and Vee breathes it.
 
-And the money imbalance is now screaming. Randi buying shoes several times more expensive without looking while Vee uses the emergency card and knows she cannot pay it back cleanly? That is not incidental. That is power. Randi belongs in rooms Vee is trying not to flinch inside. Randi can make extravagance feel like reality and prudence feel like cowardice. It’s sexy because Vee is being invited into a more glamorous self, and it’s frightening because the invitation has a bill attached and Vee is the only one who feels the cost.
+The foot scene was hot. I’m not pretending it wasn’t. Randi on one knee, “I’ve got her,” touching the polish, that tiny thumb over the big toe, Vee grabbing her shoulder because it shoots through her. That is charged as hell, and Vee is absolutely not imagining it. Randi knows what she is doing. She may be playing it socially deniable, but her body language is not neutral. She is touching Vee like someone who wants her and like someone who knows Vee does not yet have the categories to defend herself from wanting back.
 
-The foot scene, too. I mean, yes, it’s hot. Randi on one knee, “I’ve got her,” holding Vee’s foot, noticing the plum polish, the thumb over the nail. That is not subtle, and I don’t think it wants to be. Vee’s body knows before her mind will admit it, again. But the phrase “I’ve got her” is doing double duty in a way I can’t ignore. In the shop it means “I’ll help her try the shoe.” In the book’s actual machinery, it means something much larger and much less innocent.
+But the credit card moment is where my stomach dropped. Not enough to quit, because the book knows. It knows. It lets me feel the exact humiliation and thrill and self-betrayal of the purchase. Vee knows she doesn’t have “the next part.” That phrase is the whole bruise. The chapter lets the shoes be beautiful and still lets the money be real. It doesn’t pretend luxury is harmless just because desire is pretty.
 
-I’m still continuing because the book absolutely knows what it is showing me. The credit card moment is not framed as harmless shopping-girl sparkle. It lets me feel the little collapse in Vee, the conscious knowledge that she doesn’t have “the next part,” and that matters. The author is not naive about this. The seduction is widening from sex into class, debt, taste, access, and female approval, and that is much scarier than a man with a measuring tape.
+And Randi buying her own wildly more expensive shoes beside her without looking? That was brutal. Not villain-cackling brutal. Socially brutal. She doesn’t even have to offer to pay to create the imbalance; honestly, offering might have been cleaner. Instead Vee gets to stand there bleeding private panic while Randi performs effortless abundance. And Vee still leaves thinking she’s never had a friend like this. Which is true. It’s just not only true in the way Vee means.
 
-GATE 23 — Sorority  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “They were what the dress was owed.”  
-WHY: That line scared me because it shows Vee converting financial overreach into devotion, and Randi helped build that conversion. But the chapter knows the danger: the emergency card, the class gulf, the way Randi’s touch and taste create pressure without ever issuing a command. I’m uneasy in the intended direction, so I’m staying.
+I am very captured, and very wary. This chapter moved Randi from “dangerous confessor” into something sharper: she can spend Vee’s money without touching her wallet. She can get Vee to choose extravagance and feel like the choice came from dignity. That is the pattern of this book in miniature, and I am still here because the chapter absolutely sees it.
+
+GATE 23 — Sorority
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: “She knew that even while she did it — that she did not have the next part, the paying-it-back part, that it would be sitting there next month — and she signed her name and smiled and let none of it reach her face, because the one thing she would not do in this room was flinch.”
+WHY: That hurt in a way the sex hasn’t, because money is such a clean instrument of power here. But the book knows exactly what Randi has done and exactly what Vee is swallowing, so I’m not leaving. I’m leaning forward, worried.

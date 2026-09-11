@@ -1,0 +1,30 @@
+# Cold read (grounded) — Not Enough
+
+*scene: scenes/not-enough.md · model: claude-opus-4-8 · memory: ck-ch040 + raw ch041..ch048 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+This one gutted me, and I didn't expect it to. All fall I've watched Pace from the outside — the courtly "May I," the built furniture, the plan — and held him at arm's length because I knew about the machinery underneath. This chapter walks me straight into the ruin of him the morning after a whiskey bender, and I found my mistrust wobbling. He mopped his own bathroom, bleach still in the air, and sits eating vacuum-sealed chicken and broccoli — "prison food" — because "his body had used what it had and needed more." He eats it the way she once ate crackers: because he tells it to. The man who builds meals to draw hunger out of Vee is feeding himself the opposite of a meal, joylessly, and the parallel landed hard.
+
+The center of it is finally *why* he won't say the word, and it's the Daphne wound, laid bare and plain: "There had been no one to tell that Daphne was gone. Daphne was the person he would have told." He said *I love you* once, meant it, and losing her "consumed his life" — so he taught himself the words were the difference, that withholding them keeps loss survivable. "He had hurt her because he was afraid of how much she could hurt him." That's the whole cold architecture reframed from the inside as *fear*, not strategy. And here's the thing — the checkpoint had me reading Daphne as grooming, him as a man whose tenderness doesn't respect lines. This chapter gives me his own version, tender and self-pitying, and I notice it never once touches the ages, never touches what I clocked as the real shape of it. So I'm moved *and* wary at the same time. He's honest about his cowardice and blind to the older thing. That doubleness is exactly what keeps me from just melting.
+
+Where it swept me: the truck. His head lifting before he knows he's moved, the fork stopping, his whole body gathering toward gravel that never comes — "For one second the house gave him Vee again" — and then "The truck went past," and he bends over the table and sobs. I ached. After three chapters of *Vee* alone in the cold wanting him, getting *his* mirror-image loneliness — him waiting on the stoop she can't picture him waiting on — is devastating in the way of two people suffering the identical thing across a wall neither will break. And the small brutal detail: the whiskey "had left every memory of Vee intact." He drank to erase her and couldn't.
+
+Trust vs. suspicion: notably, Randi is *entirely absent* from his grief here — no plan, no co-author, no "the game." Just Vee. That both softens him (it really did get real) and unsettles me, because the one time I'm fully inside his head, the secret that would destroy Vee simply isn't in the room. Whether that's the plan genuinely dissolved or just not-tonight, I can't tell — and the chapter leaves it ajar, so I'll leave it ajar.
+
+Erotic charge is low and that's right — this is grief, not heat. What charge exists is memory: Vee walking barefoot to the bathroom in his shirt "or nothing… no performance in it," the first bite that "always told him," her pleasure arriving before her words. It's longing rendered as appetite, warm but not hot. The friction: almost none, though "*Whiskey River* was a liar" is a touch cute for how devastated he is — a small tonal wink in an otherwise unadorned chapter. It mostly earns it because the plainness everywhere else is so stripped.
+
+The title — "Not Enough" — is the book title *and* this chapter's, and it detonates both ways at once. His reasons were not enough for Vee ("you still won't spend them on me"). His love, unspoken, is not enough. The bowl of nutrition is not enough for a mouth that wants a meal. And *he* fears he is not enough, or that saying it won't be. Naming the chapter the book's own title feels like a hinge — like this is the low point the whole thing pivots on. The cover line "A POLITE INVITATION / WITH A LONG SPOON" still sits oblique to me, but "he that sups with the devil needs a long spoon" hums faintly under all this planned tenderness — someone's going to get burned close to the mouth.
+
+What I want next: I want him to drive to her, or call, or say it — and I dread that when he does, the *other* truth (Randi, the game) is still sitting in the truck he didn't unload ("whatever he'd carried in… could keep"). *Guess from here:* that undischarged cargo is the reckoning, and this thaw is the setup for it.
+
+---
+
+**Cast present (in person):** Pace (alone, POV). Mentioned-only: Vee, Daphne, an unnamed past girlfriend ("prison food").
+**Heat:** 1 — grief, not wanting; the only charge is remembered appetite, warm and aching.
+**Romance:** 3 — a man alone realizing he loves her and sobbing at a passing truck; devotion turned inside out.
+**Motifs & images:** Feeding/hunger (repeat — the meal-vs-crackers now turned on *himself*, prison-food bowl); "the first bite always told him" (repeat of the first-bite-opens-her-face motif); music already playing, piano and horn under the burner (repeat, Ch 1/24); waiting on the stoop for her car in the gravel (repeat of arrival images); the shirt/"or nothing" (repeat); Daphne as the un-healed door (repeat, deepened).
+**Symbolism:** The vacuum-sealed nutrition that has everything a body needs and nothing the mouth wants — his whole withholding logic, self-administered. The truck passing = the answer that doesn't come, mirroring his own silence to her.
+**Characterization:** Pace deepened enormously — the plan reframed as fear, the Daphne loss as the engine, cowardice named by himself. Consistent and much more human; the blind spot around Daphne's ages keeps him complicated, not absolved.
+**Pace — within the chapter:** Slow, still, earned; the hangover-morning tempo suits the grief. The Daphne backstory runs a touch expository but stays inside his voice.
+**Pace — chapter to chapter:** Building — after three chapters of Vee's side of the same silence, flipping to his is the right escalation; the shared ache now has two faces and a clear pivot.

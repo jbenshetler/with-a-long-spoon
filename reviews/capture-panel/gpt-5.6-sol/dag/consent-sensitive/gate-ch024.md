@@ -1,17 +1,25 @@
-*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — Oh. There it is. The locked room opening while Vee is elsewhere thinking she has never had a friend like Randi.
+REACTION — Oh. Oh, that lying little detail.
 
-“I want her to get there on her own” made me actually recoil. Sir, she cannot get there “on her own” when you and the woman feeding you intelligence about her are privately calibrating the pace. Randi tells him what Vee says, what embarrasses her, how intensely she loves him, whether she is “ready”; Pace receives the report and agrees to wait. They are treating the untouched final choice as though it makes the engineered approach clean. It does not. This is exactly the moral trap the jacket promised, and thank God the book knows it. That tiny thing crossing Randi’s face tells me she knows, too, at least somewhere she does not want to examine.
+Vee did not put on the giant shoe and do a Bigfoot walk. She brought Randi the canoe-sized shoe as a joke; Randi was the one who modeled the ridiculous platforms. The older couple watched them laughing, and Vee noticed them, but she didn’t collapse in mortification. Randi has taken a genuinely lovely afternoon and rewritten it for Pace so Vee becomes cuter, more innocent, more easily embarrassed—and then called that imagined embarrassment hot.
 
-And Randi’s version of the shopping trip chilled me because she altered it. Vee did not put on the Bigfoot shoe and perform for the older couple; Randi did the extravagant shoe performance, while Vee only noticed the couple watching their shared silliness. Randi has turned Vee into a cuter, more embarrassed, more sexually consumable version of herself for Pace. Maybe memory is playful and loose, but in this context it feels like curation: she is not merely reporting Vee, she is packaging her. “That was kind of hot” turns a manufactured anecdote into erotic information passed between the two people who chose her.
+That chills me more than a straightforward report would have. Randi isn’t merely passing along Vee’s confidences. She is curating a Vee for Pace, editing her into the shape that pleases their shared appetite. And apparently withholding things too: she tells him Vee talked about him for an hour, but not that she touched Vee’s polished foot and watched the reaction go through her body. She is reporting to Pace and running her own private track at the same time.
 
-The unbearable part is that the feelings are real. Randi is not bored. She adores Vee’s attention, her stories, her ridiculousness; she is openly turned on by her body and privately wrecked when Pace names the light Vee brings into a room. That stillness was jealousy, I think—not just jealousy that Vee is gone over Pace, but pain that Pace sees Vee with the exact tenderness Randi wants from him. And Pace’s desire catches on Randi wanting Vee aloud. They are already erotically using Vee between them while she does not know there is a “between them” to be inside.
+So yes, this is the confirmation I’ve been waiting for, and it’s worse and more emotionally complicated than I expected. Pace and Randi are current lovers. Randi goes straight from steering Vee into expensive shoes to Pace’s bed, tells him how Vee is progressing, explicitly says she “isn’t ready” but “will get there,” and he understands exactly what destination she means. They are discussing the pace of a seduction whose target believes these relationships arose separately and naturally.
 
-Also: yes, the scene between Pace and Randi was hot. That makes me angrier, not less interested. Their familiarity is palpable; she can put down her armor here, he understands the shape of her restraint, and he lets her lead. These are not cartoon predators twirling mustaches. They are tender, perceptive people committing an increasingly intimate betrayal while telling themselves that leaving Vee the last step means the path belongs to her. The book is staring straight at that contradiction. I’m horrified and completely captured.
+“I want her to get there on her own” made me want to bite something. Sir, she cannot get there “on her own” while the two people she is getting there *to* secretly compare notes in bed. That sentence is the whole moral fraud: they want her choices to remain technically hers while controlling the map, the lighting, and what she knows exists at the destination. The book absolutely knows this. It put the line in his mouth immediately after letting us see the machinery.
 
-GATE 24 — Gone  
-DECISION: CONTINUE  
-CAPTURE: 10  
-ALMOST-STOPPED: “I want her to get there on her own.”  
-WHY: That sentence is such immaculate self-exoneration I wanted to throw the book, but the chapter plainly understands why it is monstrous. I need Vee to learn that her “friend” has been carrying edited versions of her into her lover’s bed—and I need both of them to discover that genuine love does not erase what they engineered.
+And yet neither of them feels emotionally counterfeit. That’s what has me trapped. Randi’s “I didn’t think I’d like her this much” is frightening because I believe her. Vee has gotten past the polished social self Randi sets down only at Pace’s door. Then Pace describes Vee as the person who makes a room brighter while believing she is too much, and Randi goes still because he has named something true—and perhaps because that light is what she wants for herself, or fears Pace loves more in Vee than in her. They aren’t predators coolly operating a toy. They are falling for her while continuing to treat her ignorance as part of the erotic structure.
+
+The sex between Pace and Randi was hot, but it made the conspiracy bodily real in a way the jacket hadn’t yet. Randi talks about Vee’s hidden body, displays that hunger with her own body, Pace gets hard, and then they have sex inside the desire they have just built around Vee. She is absent from the room and completely inside it. That is intimate, violating, and horribly compelling.
+
+Also: “He didn’t take up the rest of what she’d set down; that was hers to hold.” Pace can recognize Randi’s unspoken boundary and leave it untouched. He is not incapable of subtle ethical perception. That makes his willingness to preserve Vee’s larger ignorance less forgivable, not more.
+
+I would text a friend at one in the morning: THEY ARE LITERALLY DISCUSSING HER SEDUCTION WHILE NAKED, RANDI IS LYING IN THE REPORTS, AND PACE THINKS SECRETLY MANAGING THE CONDITIONS COUNTS AS LETTING HER ARRIVE ON HER OWN. I am furious. I am riveted. I need the explosion.
+
+GATE 24 — Gone
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: “I want her to get there on her own.”
+WHY: That hypocrisy nearly made me throw the book, but the chapter sees it with terrifying precision. The conspiracy is now explicit, emotionally real, and internally unstable—and I have to know what happens when Vee discovers that her two safest-feeling intimacies have been sharing a bed and discussing her progress.

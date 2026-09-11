@@ -1,21 +1,15 @@
-*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — Oh, the shirt. The shirt absolutely got me. Her admitting that she had slept in it every night, breathing him in until his scent disappeared, is such an exposed, almost childlike need—and he does not tease her, sexualize it, or make her regret telling him. He just puts the ridiculous second shirt on immediately and promises to give it back smelling like him. That is exactly the tenderness I came for: his control is usually so effortless, but the instant she asks something of him plainly, he lets her direct him. “All weekend.” God.
+REACTION — This is exactly the domestic, ravenous intimacy I wanted from them, and it made me ache. Vee asks for five nights, and Pace simply gives them to her—no sulking, no punishment, no making her prove that school matters. Then she comes back because she wants to, practically shedding clothes down the hallway, laughing in her socks, entirely the engine of her own return. That is the intensity I read for: he can stop her body with one hand, but he never turns that strength against her choice.
 
-And I needed those five nights more than I expected. Vee recognizes that she is neglecting school, asks for space, and Pace simply gives it to her. No sulking, no pressure, no manufactured emergency, no making her prove she still wants him. That matters enormously. I understand the wounded part of her that wanted him to fight for the time, because he still leaves her starving for words and makes her translate all his acts into declarations. But his response was the right one. “Take the time you need, I’ll be here” is love behaving safely even if he still cannot say the word.
+And God, the shirt. Asking him to wear it all weekend so she can sleep in his smell when they’re apart is so embarrassingly tender and particular that it nearly got me. Then he puts it on immediately, over the shirt he is already wearing, because her strange little need is enough reason. No teasing, no making her defend it. “Smelling like me.” I would absolutely text someone at one in the morning about that.
 
-The sex felt less like a new escalation than the physical fact of missing someone, and I liked that Vee was the impatient one dragging him down the hall while he kept his slowness. She is not being acted upon here. She arrives, tows him by the shirt, undresses herself, throws the thong, takes what she came for. Even that tiny bra moment worked for me: he holds, he does not yank, and she chooses to keep moving out of it. That is the difference I am always looking for—the dominance is in the frame he gives her, while her own motion completes the act.
+But the line that caught under my ribs was: “He decided not to ask. He was good at not asking things.” Vee experiences his silence as grace because his actions are so loving, and often it is grace. Here, though, he nearly accepts the shirt back while quietly hurt rather than risk asking what she means. She wanted him to fight for those five nights—not override her, just say that he missed her—and he never did. His restraint leaves room for her, which I love, but it also keeps him concealed while she becomes more and more exposed. She tells him she counted the nights by breathing his scent out of a shirt. She has silently named her love. He still answers almost everything without words, including truths she desperately needs spoken.
 
-I’m also relieved the story remembers that this consuming relationship has actual costs. She is losing sleep and falling behind. The fact that she managed only five nights does worry me a little, especially because her entire week is beginning to organize itself around surviving until Pace and Randi give it color. Her appetite is beautiful; dependence can still grow inside beautiful things.
+The food and the sex felt almost narcotically warm, but that is making the hidden plan feel worse, not better. She now has a drawer, a ritual, a shirt that travels back to be filled with him. This is becoming a life. Pace’s immediate care remains exquisite; his larger silence is becoming unbearable.
 
-And Pace’s silence is becoming both the romance and the danger. He makes room in the drawer. He cooks. He wears the shirt. He says almost nothing. Vee can read him beautifully when the question is whether she belongs in his bathroom—but she cannot read what he is concealing about Randi, and he is very good at “not asking things” because he is also very good at not saying them. The shirt scene nearly exposes that fault: he thinks she is returning it, feels hurt, and decides not to ask. Vee saves them by speaking quickly. Eventually the misunderstanding will be too large for her to rescue without knowing it exists.
-
-Also: “the long, unusually proportioned table” in the bedroom. Excuse me? That did not wander into the sentence accidentally. I have now put a large red circle around that table.
-
-Still, this chapter made me ache in the good way. He stands in his kitchen wearing two shirts because she asked him to make one smell like home again. I would text a friend at one in the morning: *This emotionally constipated mathematician just agreed to recharge his girlfriend’s comfort flannel with his scent and unfortunately I’m dead.*
-
-GATE 40 — The New Ordinary  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: The chapter gave me Vee asking for both space and comfort, and Pace honoring both without punishment or ridicule. The hidden arrangement still frightens me, but the flannel scene is precisely the warm, particular surrender-and-care intimacy I’m here for.
+GATE 40 — The New Ordinary
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: The hallway hunger and the flannel ritual gave me exactly the combination of heat, freedom, and tenderness I came for. But “He was good at not asking things” feels like the hairline crack through all this warmth, and I need to see whether Pace finally chooses honest words before Vee builds her whole home inside what he has not told her.

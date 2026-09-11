@@ -1,19 +1,23 @@
-*capture-dag-v2-rich · gate ch028 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch028 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh. I actually liked this little side-window more than I expected to, because it gives Pace a world that is not Vee and not Randi. Sheri feels like a real person in his life, not another ornamental woman orbiting him. She has history, she has bite, she can say “hell of a backside” and also “I kept an eye on her,” and somehow both are information. I believe her. I also like that Pace doesn't overexplain himself to her. Their rhythm is old: bike, hill, silence, one blunt sentence, done.
+Oh. I liked this little side-window more than I expected to.
 
-But the chapter also made me sit up because Pace is talking. Not performing courtliness for Vee, not being managed by Randi in bed, but accidentally spilling tenderness to someone who knows him well enough to hear it. The detail that gets him going is not Vee’s body first, though of course Sheri puts that on the table; it’s Vee touching the walnut chair, noticing the joint, pulling down the math book and not recoiling from it. That is dangerous in the good way. That tells me he is not only enjoying the project. He is caught.
+Not because it gave me comfort, exactly. Pace having a woman cycling friend who knows him well enough to say the hard thing and not decorate it is useful to me. Sheri reads as somebody outside the charged little triangle, and I needed that. She is not dazzled by him in the same way, not being seduced, not confessing over lunch, not standing in a dress or kneeling with a shoe. She is just there on the road with cold fingers, calling him on the weather. That steadies the book.
 
-And still: “Randi. That’s not finished.” Sir. Sir, I need you to unpack the moral status of “not finished” immediately. Because we are still in the hidden-plan territory, and now we have a third woman who apparently knows enough to ask after Randi and Vee separately. I do not yet know how much Sheri knows, but she knows enough to clock “two of them at once” as an issue. Bless her for saying the obvious. Someone in this book needs to keep saying the obvious out loud.
+And it matters that he talks about Vee like that. Not about her body first, though Sheri certainly gets there. He tells Sheri about Vee touching the walnut chair and noticing the joint, about her pulling down a math book and not recoiling from it. That got me. Pace likes being seen in his making and his mind, and Vee did that without knowing it was a key. I believe his affection more because of what he chooses to report when Vee is not in the room.
 
-The thing that reassured me, weirdly, is Pace saying Vee “couldn’t take your heat.” That sounds protective in a way I trust more than his polished tenderness sometimes. He knows Vee is tender. He knows Sheri can scorch. He is not just arranging women like pieces with interchangeable functions. But “couldn’t take your heat” also means he is managing who gets access to whom. Again: information, routes, pressure, timing. He sees himself as the careful one deciding what Vee can bear.
+But I also sat up hard at “Randi. That’s not finished.” Sir. Excuse me. That is a very small sentence with a very large locked door behind it. He knows the Randi piece is active. He knows there are two women in motion here. He is not pretending it is just happening around him. And when Sheri says, “Two of them at once,” the book lets that complication sit there in adult daylight. Good. Thank you. I needed somebody to name the math.
 
-So this chapter pulled me by quiet triangulation. It did not make me swoon, exactly. It made the structure show: Pace has confidantes, Randi has access, Vee is still walking around without the map. But it also made Pace’s feeling for Vee look less theoretical and more helplessly alive. I’m still wary. I’m also still reading.
+I’m interested in Sheri immediately. Faster than him on climbs, blunt, loyal in a dangerous way, and apparently capable of disliking someone forever as an act of protection. “She couldn’t take your heat” tells me Pace knows Sheri’s intensity and also knows Vee’s softness, or maybe Vee’s current vulnerability. I don’t know yet whether that is tenderness or management. Probably both, because this man is allergic to being simple.
 
-GATE 28 — hills-and-valleys  
-DECISION: CONTINUE  
-CAPTURE: 7  
-ALMOST-STOPPED: "Randi. That's not finished."  
-WHY: That line made my consent-alarm ping because it sounds like people discussing an arrangement Vee still cannot see. But Sheri’s bluntness and Pace’s unguarded softness about Vee keep me trusting that the book knows exactly how complicated this is.
+This chapter also made me feel the network around Pace. The bar was not a harem. It was a community, and Sheri seems like part of the older, tougher layer of it. That helps repair some of the blonde-poison from the dance chapter while not erasing Vee’s jealousy. Vee was wrong about what she saw, but she wasn’t crazy to feel the size of his life before her.
+
+So yes, I’m still in. The thing I’m watching now is whether all these people who know more than Vee become witnesses, accomplices, or both. Sheri knows enough to say “complicated.” Randi knows far more than she has any right to. Pace knows the shape of the whole board. Vee is still walking in wearing borrowed shoes.
+
+GATE 28 — hills-and-valleys
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: none
+WHY: This was quiet, but it widened the world in exactly the right way. Sheri gives me an outside pressure point on Pace, and “Randi. That’s not finished” keeps the book’s awareness alive instead of letting the triangle blur into dreamy inevitability.

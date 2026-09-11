@@ -1,23 +1,21 @@
-*capture-dag-v2-rich · gate ch028 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch028 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh. I liked this one more than its size should allow.
+Oh. I liked this more than I expected to, maybe because it is such a small chapter and still it quietly changes the air.
 
-It is such a relief, honestly, to get Pace outside the erotic pressure cooker for a minute and see who he has in his life when Vee is not there. Sheri feels real immediately: blunt, physical, a little alarming, not trying to be soft for anyone. I like that she can say “hell of a backside” and it doesn't feel like the book asking me to leer through Pace. It feels like Sheri being Sheri, and Pace quietly correcting the name: Vee. That mattered to me. Not her body as the subject, her.
+We finally get Pace away from Vee and Randi, with someone who knows him in a different weather. Sheri feels like the kind of friend who has earned the right to be blunt because she has stayed. I immediately trusted the bike ride as a place where people tell the truth sideways. No big dramatic confession, just cold fingers, hills stealing breath, and somebody saying the thing that needs saying without making a meal of it.
 
-And then he just starts talking. That got me. He doesn't make some grand confession about being in love, he tells Sheri about Vee touching the walnut chair, noticing the join, pulling down the math book and not being scared of it. That is Pace's heart showing before he knows it is showing. Of course those are the things that undo him. Not just that Vee is beautiful, though he knows that, but that she pays attention to the made things, the thought things, the parts of him most people would walk past.
+And Pace talking about Vee. That got me. Not sexually first, not even romantically in the obvious way, but the walnut chair, the math book, the fact that she touched what mattered to him and didn’t treat it like some alien male hobby. He is gone enough that he starts telling Sheri before he has decided to tell her, and I am weak for that. “Listen to you” is exactly the friend line that makes me smile because he doesn’t know he’s showing his whole hand.
 
-“Listen to you” made me smile in that dangerous way, because yes, listen to him. He is gone too. Quietly, but gone.
+Sheri’s “hell of a backside” made me laugh, partly because it is so blunt after Vee has spent pages turning herself into shame and light and silk. Sheri just sees the girl and says it like weather. But what I liked more is Pace correcting her to Vee. Not possessively, exactly. More like: she is a person, and that is her name. Little thing, but I noticed.
 
-I also felt myself tighten at “Randi. That’s not finished.” Because no, it is not, and he knows it. This is where the blurb’s promise sits like a knife under the table. Pace is not confused. He knows there are two women in motion here. He knows it will be complicated. And I appreciated Sheri saying the obvious without melodrama: two of them at once is going to become something. I need people in this book to name things before they explode.
+The Randi mention made my stomach tighten again. “That’s not finished.” Sir. SIR. I know it isn’t finished, but hearing him say it plainly to someone outside the triangle makes the whole hidden architecture feel colder. Sheri sees the shape immediately: two of them at once is going to become complicated if it isn’t already. And Pace just lets that sit. That silence is not comforting.
 
-Sheri also makes me nervous. “You want me to not like her?” That is loyalty with teeth. I respect it, but I’m glad Pace says no. Vee could not take Sheri turning on her right now. Vee is already all raw places under a beautiful scarf.
+I am still with him, weirdly, because the chapter gives me his quiet seriousness and his friendships and the fact that he isn’t swaggering around about any of this. But the book keeps making the exact problem sharper: he can be decent moment to moment, tender even, and still be participating in something Vee hasn’t consented to because she doesn’t know the full room she’s standing in. This chapter didn’t make me stop. It made me brace.
 
-This chapter did not give me Vee walking into Pace’s house in the black dress, which is what my whole body wanted after the last chapter, so there was a tiny frustration in being pulled sideways. But it was a good sideways. It let me see Pace wanting Vee when she is absent, and that is one of my weaknesses: the man talking about her when she cannot hear, revealing himself by what he remembers.
-
-GATE 28 — hills-and-valleys  
-DECISION: CONTINUE  
-CAPTURE: 7  
-ALMOST-STOPPED: none  
-WHY: It was a small chapter, but it gave me Pace unguarded in a way I needed: not performing care for Vee, just showing what he values when he talks about her. And the Randi line keeps the danger alive, which means the book knows this is not simple.
+GATE 28 — hills-and-valleys
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: "Randi. That's not finished."
+WHY: The chapter pulled me because Pace talking about Vee to an old friend felt unguarded and real, and Sheri’s bluntness gave the whole situation a needed outside eye. But that one line about Randi reminded me hard that Vee is still walking toward a structure she can’t see, and I need the book to keep treating that as dangerous, not cute.

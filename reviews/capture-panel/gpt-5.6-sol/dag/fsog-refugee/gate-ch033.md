@@ -1,21 +1,21 @@
-*capture-dag-v2-rich · gate ch033 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch033 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — Oh, this is the thing. This is exactly the thing I keep looking for.
+REACTION — Oh, this is hers. Completely, gloriously hers.
 
-She tells him where to sit, tells him to wait, and he stays there. She puts up one hand when he starts to rise, and he sits back down even though she can see what it costs him. Then she walks naked into his light because she wants to be seen—not because she has been caught, maneuvered, or made to prove what her body feels. She designs the entire scene. She makes him the audience. That difference is everything to me.
+She puts him in the chair. She tells him to wait. She decides what he sees, in what order, and for how long. And he stays exactly where she placed him. That may be the hottest thing in the chapter for me—not because he is passive, because he so obviously isn’t. I can see what it costs him when his hand rises and he puts it away. All that strength and wanting, and his control makes room for her performance instead of interrupting it. Yes. This. This is the man I wanted the jacket to promise me.
 
-And God, “He hadn’t left the chair. She’d put him there, and he’d stayed put.” Yes. That is dominance and surrender moving both ways without either person becoming smaller. His restraint is intensely hot because it leaves her in possession of what she is giving. Even his looking feels chosen by her: she steps into the circle, asks him to compare, cocks her hip, and lets the blush travel without covering herself. I could feel how exposed she was, but I never felt her disappear.
+And Vee! Walking out in nothing but those heels because she planned the reveal herself, knowing she is blushing everywhere and letting that be part of it rather than treating it as proof she should retreat. She isn’t being caught naked. She is presenting herself. She makes him look and refuses to hide from being looked at. I wanted to cheer when she said, “And this is what I had on under it.” That is such a wicked little claim on the secret she carried across the induction stage.
 
-“The other is for the world. This is just for me” absolutely got me. Not because he claims her body—the chapter has carefully made it hers—but because she has deliberately brought him the private half of a moment he missed. Everyone else saw the dress. He gets the secret underneath because she decided he deserved it. There is warmth in that distinction, not merely exhibition.
+“The other is for the world. This is just for me” got me right in the chest. It is possessive in exactly the way I like because she chose to make it true. He doesn’t declare that her body belongs only to him; she creates a private viewing and asks him to understand the difference. He does.
 
-I also love that the dress has taught her something she can keep after taking it off. She stands naked the way the dress taught her to stand. Pace made an object for her body, but what she takes from it is posture, nerve, appetite. He hasn’t remade her into his fantasy here; he has helped her discover a way of inhabiting herself, and now she uses it to undo him.
+I also love that the dress taught her how to stand, and now she can take the dress off without losing the woman it helped her find. Pace made the object, Randi found the heels, the hidden plan shaped far too much—but neither of them manufactured this walk down the hall. Vee invented the second costume. Her appetite got her onto her feet before she had words for the plan. That distinction matters desperately to me because eventually the secret is going to make her question what was really hers. This was hers.
 
-I’m still carrying real unease from the spanking. Her “Don’t” stopped his hand, yes, but then her tiny nod authorized finding out whether she was wet—not everything he subsequently declared part of a “bet” after the fact. And her repeated verbal denials during the spanking were treated as less truthful than her body. That is precisely the logic I do not trust. The tenderness afterward was gorgeous, but juice and praise cannot retroactively clarify consent. So this chapter reassures me because Pace obeys beautifully here; it does not erase what I need them to discuss.
+Randi’s fingerprints are still on the shoes, of course, and the knowledge keeps pricking at the edge of the scene. The two people who secretly selected Vee helped construct the whole image standing in the lamplight. I cannot forget that. But I also refuse to let their deception steal this moment from her ahead of time. She wanted him to see. She arranged the room. She opened the door.
 
-But tonight? Vee wanted, planned, directed, revealed, and watched him restrain himself for her. I am glowing. I would text a friend at one in the morning: *She made him sit in the chair and then came back wearing only the heels. HE STAYED PUT.*
+Honestly, what I’d text at one in the morning is: SHE MADE THE DOMINANT MAN SIT IN HIS OWN CHAIR AND LOOK AT HER, AND HE OBEYED.
 
-GATE 33 — Made-Up  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: Vee authors every inch of this seduction, and Pace’s obedience to her direction makes his hunger hotter rather than safer-looking. I’m still waiting for an explicit reckoning with the spanking’s blurred consent, but this chapter gave me her desire from the inside, wholly hers.
+GATE 33 — Made-Up
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: none
+WHY: Vee owns every inch of this reveal, and Pace’s restraint is hotter than grabbing her could possibly have been. This is desire rendered from inside her and dominance expressed as attention—the exact combination I keep reading for.

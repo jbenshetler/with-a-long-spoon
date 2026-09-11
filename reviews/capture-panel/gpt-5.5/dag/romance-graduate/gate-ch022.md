@@ -1,19 +1,19 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch022 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, this one got me in a quieter way. Not the bedroom way, not the dress-in-the-window way, but the *after* way, where the glow has to survive daylight and class and friends and ordinary shoes. I love that Vee is late and doesn’t care. That is such a specific happiness, the kind where your life is technically disorganized but internally, for once, completely aligned. She is walking around with her body still keeping score, and I absolutely bought it.
+Oh, I liked this one in a quieter, sneakier way. After the dress-and-wall-and-bed chaos of the last chapter, this could have felt like a come-down, but instead it gave me the thing I keep wanting from this book: aftermath that still has a pulse. Vee isn’t just “glowing” in the romance-novel shorthand way. She is late, underslept, sore, smug, carrying a secret garment bag in her closet like contraband, and the whole ordinary campus morning cannot touch her. That is delicious to me. That is exactly the kind of sexual confidence I want to watch bloom: not performative, not girlbossy, just a woman moving through her day with her body quietly saying, yes, that happened.
 
-Cassie nearly made me ache here. The made bed. The fact that she doesn’t need the story to know there is a story. And then that little line: “Was it a good night?” Not prying, not competing with Randi’s glittery sex-friend energy, not trying to make Vee perform the details. Just checking the actual person. I keep trusting Cassie more because she doesn’t eroticize Vee, and that makes her feel almost plain next to Pace and Randi, but also maybe the only one not turning Vee into an event.
+Cassie got me. God, Cassie got me. The made bed, the no preamble, the way she clocks everything but doesn’t grab Vee by the throat with it. And then that little pivot where Vee realizes Cassie does not actually care about the dress, not really. She cares what the dress has done to Vee. That made me weirdly emotional. Cassie is the only one in the room not trying to shape the story. She just wants to know whether her friend is okay. “Was it a good night?” is such a plain little question and it landed harder than a whole speech would have.
 
-Randi, though. God. “You lucky slut” is exactly the kind of thing that would thrill me in the right mouth and also hit the bruise. And it does both to Vee. That’s why this book is working on me: it understands that a charged word doesn’t land in one clean category. It can be teasing and hot and dangerous and too much all at once. Randi immediately pivots into shoes, into solution, into intimacy disguised as shopping. Saturday as a date. She is so smooth it’s almost obscene. I don’t think she even has to push hard anymore; Vee is already turning toward her.
+Randi, meanwhile. Whew. Still hot, still fun, still dangerous as hell. “You lucky slut” is exactly the kind of thing that can be affectionate and arousing and a little invasive all at once, and Vee feels the lower-body hit of it before she thinks anything. Randi knows how to put her fingers right on the charged place. The shoes thing is also so perfectly her: she turns a practical gap into intimacy, into a date, into another corridor. And Vee is so happy to be between them that she cannot quite feel how different those two attentions are. Cassie watches. Randi handles. That’s the whole triangle right now.
 
-And the stats lecture is not subtle, but I don’t mind. Same numbers, different grouping, opposite conclusion. Yes, book, I hear you. Vee thinks she is between two girls, happy in the middle. I am sitting here with the jacket copy in my lap knowing one of those girls is not simply one of the girls. Put the data together differently and the whole story changes. That made the chapter feel like a little trapdoor under an otherwise sunny scene.
+And the Simpson’s paradox lecture. Please. The book is not even hiding the knife, and I appreciate that. Same numbers, different grouping, opposite conclusion. Vee has all these true pieces: Pace is tender, Randi is generous, Cassie is loyal, Vee chose everything. But depending how you arrange the data, the truth changes. Nobody has to touch one number. I actually felt my stomach drop a little at that, because this chapter is so sunny on the surface and so ominous underneath.
 
-I also love that the dress still hasn’t been shown to anyone. It is sitting three blocks away in the closet like a loaded weapon in silk. The shoes are next, and of course Randi gets the shoes. Pace made the dress to Vee’s body; Randi is going to finish the public version of her. I am very, very into this, and I am also nervous in the exact way I want to be nervous.
+No explicit heat here, but it didn’t feel like a cheat because chapter 21 is still radiating through this one. The sex is in her walk, her lateness, her soreness, the dress in the closet, the word “slut” landing in her thighs. That counts. That feeds me.
 
-GATE 22 — All Told  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: This wasn’t a heat chapter exactly, but it carried the heat in Vee’s body and then moved it socially, which is maybe even more dangerous. Cassie grounded me, Randi lit the next fuse, and the Simpson’s paradox lecture made the whole triangle feel like it just clicked into a sharper shape.
+GATE 22 — All Told
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: This chapter kept the erotic charge alive through aftermath and social attention, which is harder than just writing another sex scene. Cassie’s care, Randi’s possessive sparkle, and that Simpson’s paradox warning all tightened the book’s grip on me. I’m still absolutely in.

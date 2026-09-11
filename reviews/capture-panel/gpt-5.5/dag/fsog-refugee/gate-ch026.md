@@ -1,25 +1,22 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch026 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — 
+REACTION —
+Oh, this one hurt me in a very specific way: not because Pace did anything frightening, but because Vee’s shame found the exact doorway into the room and walked in wearing her mother’s voice.
 
-Oh, Vee. This one hurt in a very real, very familiar place.
+The dancing lesson itself had me completely. Of course he teaches her by giving her structure. Of course he explains that she has a job in the frame, that she has to give him something to push back against, that being limp won’t let her feel him. That is so exactly what I read this genre for when it works: not “submit by disappearing,” but “come closer, hold yourself present, meet me here, and then I can lead you.” I could feel why it hit her. The frame is a rule, but it’s a rule that makes her freer. The closeness she’s afraid of is the thing that keeps her from getting stepped on. I mean. Come on. That’s practically the whole erotic argument of the book in boots.
 
-The beginning had me smiling like an idiot because this is exactly the kind of dominance I keep reading for: not “I know better than you, shut up,” but “If you want to, I’ll teach you.” He gives her a structure she can actually relax into. The dancing lesson felt almost like a sex scene without being one, because it’s about trust going into her body. Frame, pressure, closeness, giving him enough resistance so he can lead her. “Being jelly doesn’t work” honestly got me. That is such a good metaphor for what she’s learning: not disappearing, not stiffening against him, but being present enough to be moved.
+And then the bar made my stomach drop, because it was so believable that she would misread it. Not stupidly, either. The book gives her enough evidence to hurt herself with: women hugging him, a whole room knowing him, that girl at the bar with the poisoned little smile. I hated the blonde immediately, but I also sort of understood the social ecosystem. Pace is desirable, decent, useful, physically safe, and unavailable in some way that probably makes women circle him harder. And Vee has had maybe three minutes of feeling like the chosen woman in the room before she’s made to feel like she’s just the newest one being processed through the same beautiful machine.
 
-And then the bar. I knew the minute people knew him that her mother’s voice was going to come for her. The girls hugging him, the woman saying he taught the class, the blonde with that little poisoned smile — I felt my whole chest tighten because Vee is still so new to being chosen that any evidence he exists fully outside her feels like evidence against her. She wants to be singular. I get it. I want that for her too. And the awful thing is, he *is* treating her as singular, as far as she can see. He brought her there. He taught her privately first. He introduced her as Vee. He left when she hurt him instead of making a scene or punishing her.
+But what killed me is that the thing she attacks him with is his goodness. His getting girls home safe. The part of him that actually proves he is not predatory, not opportunistic, not taking what he could take. She turns it into a “service,” and I felt him go still. That was awful. Not melodramatic awful, worse: clean awful. He doesn’t punish her, doesn’t bark, doesn’t grab her arm, doesn’t make a scene. He answers the question straight, with dignity, and then when she walks away, he leaves. That restraint matters to me. He lets her have the distance she claimed, even though she’s wrong and cruel in the moment.
 
-The blonde made me furious, actually. That “Knows how to get a girl to do just what he wants her to” line is exactly calibrated to rot in Vee’s head. It takes the thing that was beautiful between them — his lead, her trust, her body finally not fighting itself — and turns it into cheapness. And because Vee already has all those shame-words waiting, it only takes one push. “Floozies.” “Slut.” “Just next.” God, that was ugly to be inside, but I believed it. I believed the spiral.
+I was so relieved by the bartender. Not because Vee needed a stranger to certify him, though she kind of did, but because the correction came from a woman who knows the room, not from Pace defending himself. “Wasn’t him they were jealous of, honey” made me wince in the best way. Vee thought the women were guarding access to him. They were looking at her because he brought her. Because she was the exception and couldn’t bear the exposure of it.
 
-What saved this chapter for me is that the book did not ask me to find her cruelty romantic. It let it be wrong. She throws the best thing about him in his face, and by morning she knows it. That matters to me. I can handle a heroine being messy, jealous, ashamed, unfair. I cannot handle the story pretending unfairness is passion. Here, the pain has consequences inside her. She has to sit with the fact that he is good, and that she punished him for it.
+And the ending worked on me hard. Her in his washed shirt, the smell gone, wearing it anyway. That is such a sad little punishment she gives herself. She’s lying there with the truth of him and the shame of what she did, and underneath it still the sensation of being led correctly. That feels real: desire doesn’t politely leave the room when you’ve behaved badly. It stays there with the guilt.
 
-And Pace leaving — that was so important. He doesn’t chase her around the bar, doesn’t corner her into accepting his explanation, doesn’t perform wounded masculinity at her. He answers plainly, and when she makes it clear she wants distance, he gives it. I hated watching him go, but I respected him more for it.
+I am still nervous about the larger secret. In fact, this chapter makes me more nervous, because now Vee is about to go to Randi instead of directly to Pace, and Randi as interpreter of Vee’s life is becoming more central. But emotionally? I’m in. I want the apology. I want to see whether Vee can repair without collapsing into self-hatred. And I want Pace to receive it without making her grovel, because that will tell me a lot.
 
-The bartender was a gift. Not soft, not overly convenient, just enough truth from someone who knows the room: he gets drunk girls home and leaves them at the door. “Wasn’t him they were jealous of, honey.” That line rearranged the whole scene, and Vee deserved to have to sit under the lights with it.
-
-I’m still nervous about Randi being the place Vee goes to fix this. Because Randi will understand, yes. Randi will probably be warm and exact and make Vee feel less monstrous. But Randi is also not neutral. She is part of the original secret, and every time Vee takes her shame to Randi, Randi gets another thread in her hand. I want the comfort and I don’t trust the comfort. That is basically my whole relationship with this book now.
-
-GATE 26 — Lesson  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “I don't need you to get me home safely.”  
-WHY: I hated her saying it, but I believed exactly how she got there, and the chapter made her shame the problem instead of making Pace’s care look foolish. The dance lesson gave me the heat I want — control, consent, attention, her body learning trust — and the rupture made it sharper.
+GATE 26 — Lesson
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: “I don't need you to get me home safely.”
+WHY: That line made me flinch because she wounded him exactly where he’s good, but the book knew it was ugly and let her know it too. The dancing lesson was pure catnip for me: dominance as structure, closeness as safety, her consent and participation making the lead possible. I need the next chapter badly now, especially because she’s going to Randi, and I do not trust that woman with a freshly ashamed Vee.

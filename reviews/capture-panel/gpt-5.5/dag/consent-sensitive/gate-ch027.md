@@ -1,29 +1,31 @@
-*capture-dag-v2-rich · gate ch027 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch027 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, I felt my whole body go cold-hot through this one, because this is exactly where Randi becomes both delicious and frightening.
+Oh no. Oh, this chapter has me by the throat in exactly the way I’m afraid of and exactly the way I keep reading for.
 
-Vee waking up in Pace’s shirt after the bad night, trying to fake sleep through Cassie’s morning sounds, was so painfully young to me. Not childish, but young in that “I have made one bad emotional move and now I need to become a better woman by noon” way. The apple, the bare legs in October, the coat buttoned up like armor — I believed all of that. I also liked that she wants to fix it. She knows she hurt him. She’s not waiting for him to rescue her from the consequences. Good. That matters to me.
+Vee waking up after the fight, in his washed shirt that doesn’t smell like him anymore, pretending to sleep through Cassie leaving because she can’t bear witness yet — that felt so true. Not melodramatic, just that awful morning-after self-management where shame has cooled enough to become logistics. Wash face. Fix clown makeup. Choose skirt. Eat apple. Walk. I loved that her repair impulse has body in it: cold water, bare legs, stride lengthening. She is not spiraling forever. She is going to act.
 
 But then she goes to Randi.
 
-And god, Randi is good at this. Too good. She is exactly the friend you want when you have done something mortifying and need someone to hold your hand and tell you you are not monstrous. She listens. She names the blonde correctly as malicious. She understands jealousy without shaming Vee for it. And when she says, basically, “you were jealous because you care,” I can feel why Vee unclenches. I unclenched a little too.
+And this is where the book is being very, very wicked with me, because Randi is good at this. She is *so* good. She gives Vee exactly what Cassie could not have given her, not because Cassie is less loving, but because Randi knows the erotic grammar of the whole situation. She takes Vee’s ugly little jealous explosion and neither excuses it nor crushes her under it. She says, yes, you care; yes, he chose you; yes, now go make it right. That is useful. That is loving. That is also command-and-control in silk.
 
-Then immediately my hackles went up, because Randi doesn’t just comfort her. She takes command of the repair. “Not today.” “Tomorrow night.” “Don’t go in there sorry.” “You go in there sure.” That is extremely seductive advice, and maybe even good advice in isolation, but coming from *Randi*, with all the hidden context, it lands like strategy. She is staging Vee again. Pace creates environments; Randi creates meanings. Between the two of them, Vee keeps feeling like she is choosing because the choice has been made into the most beautiful possible thing.
+“Because Randi had said so” is the whole danger bell of the chapter. Vee’s clenched thing lets go because Randi says so. Not because Vee reasons her way there, not because she sits with herself, not because she talks to Pace. Randi translates reality and Vee’s nervous system accepts the translation. I can feel the seduction widening from sex into epistemology: who tells Vee what happened, what it means, when to move, what to wear, how remorse should read. That’s intimate power. That’s the kind that scares me more than a hand on the back of the neck.
 
-And the chapter knows it. I need to say that. The book is not oblivious. “Because Randi had said so” is doing a lot of work, and I noticed it hard. That sentence is the consent/power fault line for me. Vee’s relief is real, but it is also outsourced. Her self-trust is being routed through Randi’s approval.
+And yet I didn’t want to leave. Because the chapter knows. It knows Randi’s “Not today” is not just advice, it’s an instruction. It lets me feel the click in Vee when she stops. It lets the styling scene be hilarious and warm and girlish and also almost unbearably charged. The Edna Mode bit made me actually soften — that was friendship, real friendship, the relief of laughing when you came in ready to crawl out of your skin. And then suddenly Vee is in her bra, and Randi is orbiting her, and I’m back to holding my breath.
 
-The shoe-and-scarf scene got me in exactly the dangerous place it was meant to. Randi kneeling under the long skirt, fitting Vee into shoes she can’t afford, holding her thigh for balance, thumb behind the knee — that is wildly intimate. More intimate, in a way, because it keeps pretending it’s styling. I was squirming, and not only in alarm. Randi’s gaze is erotic now. It has been for a while, but here it is barely even deniable. Vee still gets to call it “dress-up,” but her body knows. “Her skin came up singing” — yes, okay, there we are.
+The shoe scene. God. Randi kneeling under the long skirt, Vee unable to see, only feel the hands and straps and balance and thigh. It’s a mirror of Pace’s fitting, but more dangerous to me because Vee has almost no language for it. With Pace she knows she is aroused by him. With Randi, it keeps arriving disguised as glamour, friendship, styling, care. “Somebody kneeling to tend to her” — yes, and Vee’s body knows exactly what that is before her conscious mind can file the paperwork.
 
-The borrowed expensive shoes bother me more than the mouth kiss, honestly. The kiss has become ritualized enough that Vee can pretend it’s normal, which is its own problem. But the shoes are material leverage. Randi sends her home literally wearing the plan, carrying Randi’s taste, Randi’s money, Randi’s hands on her body, into the apology with Pace. That is not neutral. It’s hot. It’s generous. It’s controlling. All three.
+Also: Randi giving her the shoes and scarf is not small. Money again. Taste again. Access again. The sorority house has a folder on Vee before Vee even enters it, Brooke at the door all bright surveillance, and then upstairs Randi equips her. The shoes literally hold her, and Vee’s language about them is all surrender-as-stability: being given no say makes her surer. That is hot, yes. It is also the thesis statement wearing cognac leather.
 
-I’m also very aware Cassie is absent again. Vee hides from Cassie in the morning and goes to Randi instead. That choice feels emotionally huge. Cassie would probably have made room for Vee’s guilt without turning it into a performance plan. Randi turns it into wardrobe, timing, posture, entrance. And Vee loves that. I get why. I’m worried anyway.
+The kiss at the end got me. Not because it’s shocking anymore, but because it isn’t. Vee doesn’t brace. “It was only what they did.” Baby, no. Baby, yes. Baby, please notice yourself.
 
-The thing that keeps me reading is that the book keeps letting the unease breathe. Randi’s “marching orders” at the end is not innocent language. The chapter leaves Vee feeling steadier, prettier, readied — and also very visibly managed. I’m not being asked to miss that. So I’m still in. Nervous, but in.
+I am nervous about Pace now in a different way, because Randi has staged the apology before it happens. Pace may receive something that looks like Vee’s chosen repair, and it partly is, but it has been dressed, timed, and emotionally framed by his co-conspirator. This is the structural consent question glowing radioactive in the wall. Vee’s agency is real. Her wanting is real. Her apology will probably be real. And Randi is still moving pieces on the board while calling it care.
 
-GATE 27 — broken-in  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: “And the thing Vee had been holding clenched since last night let go of her, all at once — because Randi had said so.”  
-WHY: That sentence scared me, because Vee’s relief is being handed over to the person with the dirtiest hidden knowledge. But the chapter seems sharply aware that Randi’s care and control are braided together, and that’s the distinction that keeps me trusting the book even while I do not trust Randi.
+Still reading. Very much still reading. The author absolutely sees the problem, and that is why my stomach is doing this.
+
+GATE 27 — broken-in
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: "Because Randi had said so."
+WHY: That line scared me cold, but in the good way: the book knows that Randi’s comfort is also control. I’m caught because Vee’s agency and Randi’s manipulation are both alive on the page, and I need to see what happens when Vee walks into Pace’s house wearing another woman’s instructions.

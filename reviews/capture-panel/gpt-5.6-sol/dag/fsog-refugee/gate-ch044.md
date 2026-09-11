@@ -1,15 +1,17 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — Oh, Vee. This hurt in such a lonely, humiliatingly recognizable way: when the beloved object suddenly stops carrying the beloved and becomes only cloth you have warmed with your own body. That realization — the warmth is hers, not his — is brutal. She has been living on Pace’s acts as if they were words, and now the shirt, the drawer, the meals, all those beautiful acts have reached the limit of what they can reassure her about. They prove that he cares for her. They do not tell her what kind of claim she has on him, or whether he would name that care the way she does.
+REACTION
 
-And I’m angry with him now. Not because he falls asleep easily or because he isn’t psychic, and not even because he hasn’t said “I love you” on her schedule. I’m angry because she offered him that cracker-and-meal sentence with her entire heart trembling inside it, and he answered carefully around the heart. “I love how good we are together” sounded warm when he said it, but from this cold bunk it sounds evasive. It centers the experience they produce together, especially what her body does, without telling her that he loves *her*. Given what he is hiding, I can’t treat that distinction as accidental.
+Oh, Vee. This hurt in exactly the quiet, lonely place the last two chapters have been pressing. The shirt used to feel like devotion made tangible—something she could carry away full of him—and now she can feel that its warmth is only her own warmth coming back to her. That absolutely gutted me. She has become unable to live on evidence she has to interpret. The drawers and meals and scrunchies and kisses are all still real, but they cannot answer the question she is finally asking.
 
-What frightens me most is how completely Vee is turning the uncertainty against herself. She cannot imagine asking a question that deserves more than a “small and warm” answer. She assumes he sleeps peacefully because nothing grinds inside him, when we know he is a man made almost entirely of locked doors. But Pace has trained this relationship into a language of deeds and silence, and Vee is discovering that deeds cannot answer every question. She is freezing herself bare rather than risk putting the comfort back on and admitting it no longer works. That isn’t erotic dependence anymore. That is a girl trying to punish the need out of herself.
+And Pace’s silence is no longer merely reserved or romantic to me. It is hurting her. He might have reasons; I’m sure he does. But she offered him that beautiful cracker-and-meal sentence as safely as she possibly could, and he answered the part about their bodies because that was the part he could bear to answer. Now she is freezing herself rather than ask again. This is what his carefulness costs when it becomes avoidance: Vee does all the emotional risking, then privately convinces herself that whatever he gave back was enough.
 
-I want Cassie to wake up. Not to solve it or interpret it, just to see her. Vee is lying inches above the safest person in her life and suffering alone because she has made Pace the only possible source of warmth. That image scares me more than any overtly dark scene could. Text him badly, wake Cassie, cry, demand the noun—anything but this silent cold.
+I wanted to reach down into that bunk and wake Cassie. She is right there, breathing below Vee, and Vee is wearing Pace’s shirt partly to conceal from her how far gone she is. That feels like the whole narrowing of her life in one image: the safe friend close enough to touch, the beloved man across town, and Vee alone between them because she cannot say the truth to either one.
 
-GATE 44 — Bare  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: The shirt becoming only Vee’s own warmth given back absolutely gutted me. I need her to stop accepting beautiful acts as substitutes for answers—and I need Pace to say plainly what she is to him before his silence and his secret hollow out everything tender he has built.
+The nakedness here did nothing erotic for me. It felt desolate—almost like she was stripping away her last comforting interpretation and making herself endure the cold because false comfort had become unbearable. I’m not leaving, but I am frightened for her now. Pace needs to speak. Not cook, not arrange a drawer, not hold her beautifully, not answer a question with a practical solution. Speak. And if he cannot tell her he loves her, he at least owes her an honest name for what he believes they are.
+
+GATE 44 — Bare
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This hurt terribly, but it feels like Vee’s need for an answer has finally become too sharp to keep soothing back into silence. I need to see whether she asks plainly—or whether Pace notices what his refusal to speak is doing to the woman he claims to see so completely.

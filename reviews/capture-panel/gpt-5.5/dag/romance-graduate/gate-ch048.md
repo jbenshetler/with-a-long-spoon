@@ -1,23 +1,21 @@
-*capture-dag-v2-rich · gate ch048 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch048 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, I needed his chapter more than I expected. Not because it fixes him. It absolutely does not fix him. But being inside Pace when he is not performing calm for Vee is such a relief, because yes, there is a man in there with cost and fear and stubbornness and a wound-shaped refusal. He is not just the magic consent chef with beautiful hands. He is sitting in a diner eating a burger and trying to make “I am there every weekend” equal the one sentence she asked for, and Sheri just cuts straight through him.
+Oh, this one got me in a different place. I needed Pace outside Vee’s ache for a minute, and the book knew it. Not because I wanted him let off the hook. Absolutely not. But because I needed to see whether there was anything in him besides this beautiful, maddening refusal, and yes, there is, and somehow that makes me more upset.
 
-Sheri, thank God. Truly. She is exactly the outside voice I wanted, except sharper and less polite. “Then not saying it matters more to you than having her” is the whole chapter, and I actually flinched. Because it is true. I believe him when he says he wants Vee. I believe him when he says the air crackles. I believe every brick he stacks. But Vee asked him for a door, not masonry. He keeps trying to prove love by building the house around her while refusing to put her name on the mailbox.
+Sheri. Thank God for Sheri. She is exactly what I wanted her to be: five feet of no-bullshit, too much makeup, stealing fries, looking straight at the wound and saying the thing nobody else is saying. “Then not saying it matters more to you than having her.” I mean. There it is. Put it on the wall. Pace can build a whole cathedral of acts, food, heat, attention, restraint, presence, and Sheri just walks in with ketchup on her plate and knocks out the load-bearing sentence. I loved her instantly.
 
-And I loved that the diner isn’t Chili’s. That mattered to me. He can be in public. He can be in noise, just not that kind of noise, that whole overstimulating plastic roar. This place has history and grease and Sheri stealing fries and a jukebox that hurts but doesn’t flatten him. And the second he thinks Vee would either love it or never see it at all, I got mad at him again. Take her there, you idiot. Give her an “out there” that still sounds like you. She wasn’t asking for televisions and orange cheese. She was asking not to be kept in the candlelit bedroom category of your life.
+And Pace, Pace, Pace. I believe him when he says Vee is the most important person in his life. I believe him when he says the air crackles. I believe his body is already living in a devotion his mouth will not ratify. But that almost makes it worse, because this is not a man who doesn’t know what she means to him. This is a man refusing a specific form of speech as if the word itself is a loaded weapon. And maybe it is, for him. Fine. I am sympathetic. I am also on Vee’s side. Say it or lose her, sir.
 
-The Sheri/Paige piece quietly got me too. Not in a huge crying way, but it put real weather around Sheri. She’s funny because she refuses pity, not because she’s comic relief. And Pace saying “People who’ve never lost anything think grief is a choice” tells me one more time that he has access to exactly the kind of sentence Vee needs, just not when the sentence costs him whatever private law he’s obeying.
+The diner did something lovely and painful too. He immediately thinks Vee might love it or never see it, and I felt that. This quieter, griddle-warm, Elvis-under-glass place is exactly the kind of public he might actually survive with her. Not Chili’s, not screens and noise and punishment by sensory overload. A booth where he can hear her whisper. There’s a future sitting right there between the mustard and the fogged window, and he can picture it, and he still can’t cross the one inch she needs.
 
-The Randi mention made my whole body sit up. Sheri clocked her instantly. “Harem applicants” is funny, but also, yes. Randi saw Sheri as sexual competition because Randi sees the whole field sexually now, even when she’s pretending she doesn’t. I love that Sheri noticed and stored it like ammunition.
+Also, the Randi mention. Sheri calling her “the brunette” and saying Randi looked at her like harem competition made me hiss a little. Because yes. Of course Randi clocked Sheri. Of course she did. Randi’s possessiveness is everywhere, even when Vee isn’t there. And Pace saying “No. Not like that” about Vee finding out about Randi made my stomach do the bad little dip because sir, “not like that” is doing Olympic-level evasion.
 
-And then Pace trying to explain Vee: “The air’s different when she’s in the room. It crackles.” Sir. Sir. That is love language wearing a false mustache. Then he follows it with the philosophy of food and Sheri tells him to get over himself, which made me laugh because Pace badly needs someone who can love him without being hypnotized by him.
+I’m still captured. Maybe more than before, because this chapter widens the emotional map without cooling anything down. There’s no sex here, but the charge is still all over it: Vee absent and yet erotically present in Pace’s mouth, Sheri making him blush about Vee’s legs, Pace trying and failing to explain that Vee understands the philosophy of his food. Embarrassing man. Gorgeous man. Infuriating man. I want to shake him until the word falls out.
 
-This chapter didn’t give me heat in the usual body-on-body way, but it gave me erotic architecture. The desire is in absence, in what he won’t say, in him blushing when Sheri talks about Vee’s legs, in the way he is plainly gone on her and still locked. I am still frustrated, but now I’m frustrated with more tenderness. He misses her. Good. Suffer a little. Then say the thing.
-
-GATE 48 — The Usual  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: This pulled me because Pace finally had to answer to someone who is not dazzled by him. Sheri saying the plain ugly truth made the whole romantic wound feel adult instead of manufactured, and now I want the reunion badly.
+GATE 48 — The Usual
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: Sheri walked in and said the unsayable with a stolen fry in her hand, and I am hers now. Pace’s refusal is still painful, but seeing him exposed to someone who actually pushes back made the whole thing hotter, sadder, and more alive.

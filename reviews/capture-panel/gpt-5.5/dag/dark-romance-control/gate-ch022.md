@@ -1,19 +1,21 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch022 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, I liked this more than I expected for a chapter where technically nobody is in bed and nobody is confessing the evil plan. It’s a little afterglow chapter, but it has teeth because Vee is sitting between Cassie and Randi like a girl with an angel and a snake on either shoulder, except the snake is hot and wearing perfect lipstick and the angel is suspicious in fleece.
+Oh, this chapter is quieter, but it is doing a very specific little tightening thing and I felt it.
 
-Cassie got me here. The made bed. The fact that she doesn’t care about the dress, she cares what the dress has done to Vee. That is such a clean little stab because Vee is drunk on being transformed, and Cassie is watching the transformation like: yes, but where is my friend inside it? I trust her so much it almost annoys me, because she is the only person in the room not seducing Vee toward a version of herself.
+After Chapter 21’s full body feast, this is the afterglow chapter with the teeth hidden under the lecture hall desk. Vee is floating, late, sore, proud, carrying the dress around inside her like a secret crown, and the thing that got me is how neatly the book put her between Cassie and Randi again. One on each side. One seeing the person, one seeing the opportunity. Deliciously clean.
 
-Randi saying “You lucky slut” absolutely landed. Not because it was shocking, but because Vee’s body took it personally. That was the pulse of the chapter for me: Vee sitting in stats class, sore and radiant and secretly filthy, and Randi casually putting her finger right where the bruise is. And then immediately making the shoe problem into a date. Of course she does. Pace made the dress; Randi will complete the public weapon. Pace gets the private fitting, Randi gets the public presentation. I am screaming quietly.
+Cassie almost hurt me here. “Your bed’s made” is such a Cassie line, and then the way she doesn’t care about the dress, only what the dress has done to Vee. That is real friend love, and it makes me nervous because Vee is happy in a situation where Cassie can only see the glow, not the machinery. Cassie is watching her friend become incandescent and cannot yet know the light has been arranged.
 
-The Simpson’s paradox thing is also making me squint. Same numbers, different truth when grouped differently? Yes, professor, thank you, I too am thinking about how Vee’s “free choices” look one way one at a time and another way when you put the whole pattern together. That was a little on the nose maybe, but I don’t care because it’s exactly the kind of on-the-nose that feels like a warning bell under the floorboards.
+Randi, though. Randi saying “You lucky slut” in a classroom, low and delighted, and immediately putting her hand around the next missing piece: shoes. That is why I’m still locked in. She finds the vulnerability instantly. Not “oh no, you need shoes,” but “that’s a date.” She converts lack into dependence, shame into shopping, outfit into claim. Pace made the dress. Randi will choose what she stands in. I see you, woman. I see your manicure on the throat.
 
-Was it dark enough for me? Barely, but it fed the machine. No direct menace, no reveal, no Pace being awful-hot, but the social trap tightened. Vee is happy between both of them, and I’m over here going, baby, that is the point. The dress is still unseen, still zipped away, still loaded. Now Randi has claimed Saturday. I want that shopping trip to get weird. I want jealousy. I want Randi touching her ankle in a shoe store like it’s nothing. I want Cassie to hate the shoes on instinct.
+And the Simpson’s paradox lecture is not subtle, but I don’t need subtle when it’s this pointed. Same numbers, different grouping, different truth. Vee thinks she has two stories: Pace story and Randi story, Cassie story and secret story, sex story and dress story. Put them together and the truth reverses. Nobody has to touch a number. That made my stomach do the good little drop. The conspiracy is not on-page in this chapter, but it is breathing behind the blinds.
 
-GATE 22 — All Told  
-DECISION: CONTINUE  
-CAPTURE: 7  
-ALMOST-STOPPED: "And that was Vee for the length of the lecture, turned between the two of them, happy in the middle."  
-WHY: That came closest to too-wholesome-afterglow for my taste, but the chapter kept enough wrongness under it: Cassie watching, Randi claiming the next step, and the stats lecture basically whispering that the pattern is uglier than each choice alone. I’m still here for the dress becoming a public trap.
+I did miss Pace’s actual menace because he’s absent, and after the wall/bed/dress chaos I wanted maybe one private sting from him, one text, one evidence-of-possession thing. But I’m not annoyed. This chapter moved the other predator back into position. Saturday shoe shopping with Randi sounds like silk-lined trouble, especially because the induction is coming and Vee still has not shown anyone the finished dress. Pace made her into a vision. Randi is about to decide how that vision enters the room.
+
+GATE 22 — All Told
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: This one didn’t give me the bedroom heat, but it gave me structure: Vee literally seated between real friendship and velvet manipulation while a lecture explains how the same facts can become a different truth when combined. Randi claiming Saturday through the missing shoes is exactly the kind of elegant threat I wanted back on the page.

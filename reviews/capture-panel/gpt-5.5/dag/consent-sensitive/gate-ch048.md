@@ -1,23 +1,29 @@
-*capture-dag-v2-rich · gate ch048 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch048 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, this one did a lot for me because finally, finally, I get Pace somewhere Vee can’t see him, and it both softens him and makes me more angry.
+Oh, thank God for Sheri.
 
-Sheri is exactly the kind of outside air I wanted, but not in the cozy way. She’s abrasive, funny, wounded, and she does not let him turn care into an argument. I loved her for “Then not saying it matters more to you than having her.” That is the whole rotten little nut of it. Not because I think declarations solve everything, or because Vee is owed a magic phrase on demand, but because he keeps trying to make his acts count as words while knowing she is specifically asking for words. At that point, refusing is an act too. Sheri sees that cleanly.
+I did not know how badly I needed someone to sit across from Pace and refuse the spell. Not because she’s cruel, not because she doesn’t love him in her own cranky, diner-booth way, but because she is not impressed by his beautiful brickwork. He starts stacking all the true things, and I can feel him doing the thing he does with Vee: here is the house, here is the warmth, here is the food, here is the devotion, surely the shape of it means what the word would mean. And Sheri just goes, essentially: yes, and? Say it or admit not saying it matters more.
 
-And Pace. God. He misses her. He wants her. He is not casual. He is not bored. That matters. The air crackles when she’s in the room, he says, and I believe him. I believe he loves her or something very close to it, close enough that the not-saying is now not absence but barricade. That makes him more human and less excusable at the same time. He knows the shape of what she needs, and he is choosing his own lock over her bleeding.
+That landed so cleanly I almost cheered.
 
-The diner helped me. The Chili’s problem finally has its counterimage: not “he won’t go out,” but “he can’t hear her in certain kinds of rooms.” That’s important, and I’m glad the book is giving him a sensory truth instead of letting Vee’s fear be the only frame. But also: he thought Vee might love this place or never see it at all, and I wanted to shake him. Bring her there. Tell her that. Stop making your whole inner life a locked house she has to intuit from the porch light.
+This chapter also made me like Pace more and trust him less, which is apparently the official experience of reading this book. His interiority helps. He is not casually withholding. He is hurting, he misses Vee, he is doing that terrible principled-man thing where the principle may be real but it also protects him from risk. “I can't” is the whole ugly knot. Not “I don't.” Not “I won’t because I’m playing her.” Can’t. Which means there is something under it, and I want to know what, but also, my darling man, your wound does not get to become her starvation.
 
-Sheri talking about Paige hurt in a small real way. “Call your mama, Sheri, it’s Christmas” is the kind of casual cruelty people commit when they think reconciliation is a Hallmark setting. And Pace’s line about people thinking grief is a choice landed. So whatever his family wound is, it’s in the room now, connected to Sheri, Christmas, not going home, and maybe the thing he can’t say. I’m listening.
+And the book knows that. That is why I’m still here. Sheri says the thing the narrative needs said: “Then not saying it matters more to you than having her.” No romantic mist over it. No letting him off because he cooks beautifully and listens like a saint and has sensory overload in restaurants. She sees the cost and names it.
 
-But Randi’s shadow over this chapter is enormous precisely because she is absent. Sheri calls her “the brunette,” clocks Vee’s jealousy, and Pace says no, Vee hasn’t found out “not like that.” Not like that. Sir. There is still a like that. The secret is still sitting under the table with its hands folded. And because Pace can talk to Sheri about Vee, about the declaration, about wanting her, but still cannot give Vee the map, I’m back to my central dread: the book knows this is bad, but Vee is the one paying for everyone else’s locked doors.
+I also really liked the diner as his kind of public place. This reframes Chili’s without excusing the whole emotional disaster around it. It isn’t that Pace can only have Vee shut away in the sex house; it’s that some public rooms break his ability to hear her. This place, though, he can imagine her in. “Vee would either love this place or never see it at all” made my chest do a thing, because yes, that’s exactly the bridge he has not built yet: out of his private world and into one where she can be real beside him in daylight. He wants to know which, and wanting to know is not nothing.
 
-I’m definitely still in. This chapter gave me exactly the kind of corroborating adult witness I needed. Sheri doesn’t romanticize his silence. She names it shitty. That tells me the author knows.
+But Randi. Oh, that little dropped “brunette” thread. Sheri clocked her instantly and Randi apparently looked at Sheri like competition. Delicious, poisonous, very bad. I love that Sheri didn’t even dignify her with mystique. “Easy on the eye… Bet she’s a lot.” Ma’am, correct.
 
-GATE 48 — The Usual  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: “She find out about the brunette, then?”  
-WHY: That line made my stomach drop because the hidden Randi/Pace truth is still being handled as a known live wire, not a harmless technicality. But Sheri’s bluntness kept me anchored: the chapter lets someone call Pace on the exact harm he’s doing, and I trust the book more for that.
+The thing that keeps worrying me is Pace’s line about “not this week, not this time of year” and “he would not bring her down today.” Bring who down? Vee? Randi? Sheri? The phrasing feels like he walked in carrying something about Vee and decided to spare Sheri, maybe because of Christmas/family grief, but it also has that old Pace compartmentalization on it. He is so practiced at deciding things can keep. That sentence is basically his moral flaw in a coat.
+
+And yet the chapter gave me air. After Vee freezing in her childhood bed and Randi borrowing warmth from a man she doesn’t want, here is a booth, burgers, a shake misdelivered by arithmetic, a woman stealing fries and calling him on his nonsense. Sheri is ballast of a different kind from Cassie: not clean witness, exactly, but blunt witness. She knows the dance hall version of him. She knows grief. She knows enough to say, without ceremony, that his reasons are not the answer.
+
+I am still scared for Vee. I am also, annoyingly, rooting for Pace to find the courage to be plain. But the hidden plan is starting to loom even harder now, because if he cannot even spend the word “love,” how is he going to survive telling her there was an architecture around her before she ever stepped into it?
+
+GATE 48 — The Usual
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: Sheri did exactly what I needed an outside character to do: she pierced Pace’s self-justifying tenderness without flattening him into a villain. This chapter reassured me that the book knows his withholding is not noble just because his devotion is real, and that keeps me very much in.

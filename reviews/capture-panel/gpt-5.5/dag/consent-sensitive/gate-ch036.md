@@ -1,21 +1,21 @@
-*capture-dag-v2-rich · gate ch036 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch036 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, Cassie. Thank God for Cassie.
+Oh, Cassie. God, I missed Cassie.
 
-This chapter felt like a hand on the back of my neck, but not in the sexy way. In the “please look at your life from outside it for five seconds” way. Vee comes in glowing, and I believe the glow. I do. The warm house, the cooking, the drawer, the way Pace fusses over a little burn like her body matters in all its tiny harms. That’s catnip to me, honestly. A man noticing care as practice, not performance. I get why she’s gone. I get why “fine” suddenly looks like starvation.
+This chapter felt like someone opening a window in a room that has gotten too warm and too perfumed and too full of Pace-and-Randi air. Not because Cassie kills the glow. She doesn’t. That’s what I love about her. She sees Vee lit up and she lets her be lit. She calls her a public utility and lets her gush and doesn’t make the happiness embarrassing. But then she places one clean hand on the actual shape of it: “You don’t come home school nights.”
 
-But Cassie seeing the pattern matters so much. “You don’t come home school nights” is exactly the kind of sentence this book needed right now. Not jealous, not moralizing, not slut-shaming, not making Vee smaller. Just: count the nights. Count the facts. Your bed is empty more often than not. And because it’s Cassie, it lands cleanly. She’s not trying to possess Vee. She’s preserving a witness position.
+That landed harder on me than any big confrontation would have. Because Vee hasn’t counted. Of course she hasn’t counted. She is inside the warmth, the food, the sex, the drawer he gave her, the way his house keeps becoming a place for her body before her mind has caught up. And Cassie, blessedly outside the spell, doesn’t say he’s bad, doesn’t sneer, doesn’t compete. She just notices that Vee’s life has tilted.
 
-I’m also very aware that Vee gives Cassie the romance version and not the full version. She tells the cooking, the tenderness, the burn, the warmth, but not the spanking, not the bathroom at brunch, not Randi’s “sticky fingers,” not the secret way her body is starting to organize itself around being seen and managed. So even with Cassie, the truth is grouped. Simpson’s paradox is still stalking this book. Same data, different grouping, opposite conclusion.
+And I felt Vee’s happiness here. I really did. The baked tomatoes, him watching her eat, the burn on her breast because she wasn’t wearing enough, the house warm enough that clothing stops being a concern. It’s domestic and erotic in this soft fused way that absolutely would make a twenty-one-year-old lose her footing. I believe she loves him, or is falling into something that feels indistinguishable from love while she’s in it. The problem is that the book knows “fast” is not a small word. Vee says it herself. That steadied me.
 
-And “the house stayed warm now, warm enough that she never once thought about how much she had on” made me uneasy in that delicious/alarming way. Because yes, that’s sensual and domestic and lovely. Also: her physical environment is being altered around her so she can be naked, available, less defended, less aware of practical boundaries. The book knows that, I think. It’s not just cozy. It’s part of the apparatus.
+Cassie asking “Do you love him” in that flat practical way made me want to hug her. She isn’t dazzled by Pace’s care, and she isn’t dismissing it either. She’s making Vee hear herself. That’s the thing Randi almost never does unless the hearing serves the direction Randi wants her to go. Cassie gives no interpretation, no wardrobe, no erotic script, no instruction. Just the question. Just the mirror.
 
-I came out liking Pace in the immediate human sense and distrusting the larger structure even more. He can be genuinely tender and still be participating in something rotten. Those aren’t cancelling each other out; that’s the whole trap. And Vee saying “Maybe. I think so. It’s all so fast” hurt, because that is the most honest she’s been in a while. She knows the speed is a fact. She just doesn’t yet know who set the pace.
+I’m worried, though. Not less worried. More, maybe, because this is how enclosure can look when it’s pleasurable: not chains, but heat; not orders, but habit; not “move in,” but a drawer, a warm house, school nights disappearing one by one. Pace’s care remains almost unbearably attractive, and the book is still letting me feel why Vee would want all of it. But Cassie being present again reminds me that someone outside the plan can see the outline. I badly need her to keep seeing it.
 
-GATE 36 — School Nights  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: Cassie’s plain witnessing pulled me hard because it gave the book moral oxygen right when Vee’s world was getting dangerously enclosed. I’m still captured because the tenderness is real, but the chapter knows speed, isolation, and routine disruption are not neutral.
+GATE 36 — School Nights
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: This was quiet but it pulled me hard because Cassie is exactly the kind of witness I’ve been needing back in the room. Vee’s happiness is real, and so is the speed and enclosure of it; the chapter knows both, which keeps me trusting the book.

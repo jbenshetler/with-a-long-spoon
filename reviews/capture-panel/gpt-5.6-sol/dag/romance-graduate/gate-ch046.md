@@ -1,19 +1,23 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
 
-REACTION — Oh, Randi. I have wanted inside her head for forty-five chapters, and now that I’m here I want to shake her and hold her in almost equal measure.
+REACTION — Oh, Randi. This is the first time I’ve been allowed all the way inside her, and somehow she is both more human than I feared and more culpable than I hoped.
 
-“This was the best the acceptable world could do for her” got me. Of course the immaculate man, the ball, the dress, the sleigh, the whole approved heterosexual fairytale leaves her cold. Of course Pace’s worst reaches further than John’s best, because Pace sees the concealed person—and then Vee reaches somewhere even Pace cannot. “Vee was her gorgeous” is so nakedly sincere it almost undid me. Randi really does love her. She isn’t playing at that part.
+That breakfast explains so much without excusing anything. The invented boys, the correctly portioned salmon, the bracelet kept out of the light, the mother made of edges, the father cheerfully demanding a version of her he can enjoy: of course Randi learned to make truth technically flawless and emotionally false. Of course every confession has cover. She has spent her whole life giving people fairytales made entirely of accurate details.
 
-But then she takes that beautiful understanding and uses it to justify the exact cruelty she’s committing: she won’t tell Vee because then Vee would have to decide. Yes. That is what Vee is owed. “Let Vee arrive at it on her own” sounds tender only if I forget Randi has been engineering the route, baiting disclosures, sexualizing brunches, kissing with plausible deniability, and pressing exactly where she knows Vee’s pride will open. Randi isn’t merely afraid of rejection. She is deliberately preserving access to Vee by preventing her from making an informed choice. I understand the fear completely, and I am still furious.
+And John is the perfect fantasy of not having to choose. Gorgeous, approved, effortless, decisive. He can ski better without humiliating her, dance her around a room, produce champagne and a sleigh and the entire life her parents ordered for her. I understood why she wanted the assumption after Pace’s relentless asking—why being carried by someone else’s certainty could feel like relief. But then the sex leaves her untouched underneath, and that is the distinction I’ve been hungry for this book to make. Good technique is not intimacy. Pleasure can be absolutely real and still fail to reach the person having it.
 
-The text from Vee hurt horribly. She offers Randi the very thing Randi refuses to offer her: truthful availability with no demand attached—“I’m here if you want to talk. Or not.” Randi answers with facts arranged to hide the truth, then sends the one honest line under cover of flirtation. That is the entire relationship in miniature.
+“Pace on his worst night reached further than this man had managed at his best” hurt. So did her realizing that Pace finds the self she hides while being completely impossible inside the life built to hide it. That makes her and Pace feel less like two glamorous conspirators playing with a girl and more like two people who already recognize each other’s exile. It makes their plan sadder, more comprehensible—and still not remotely acceptable.
 
-Also: “Afterward”? Absolutely not. You cannot sell me wickedly explicit literary erotica, bring me through champagne, dancing, oral sex evidenced only by a lipstick ring, and then teleport over the actual encounter. I understand that the sex was empty and the omission formally enacts that emptiness. My libido does not accept a thesis defense in place of the scene. If the book starts fading to black whenever sex is psychologically alienated, I will become extremely unpleasant.
+But Vee. Finally. Randi knows exactly what comes off Vee across a table. She loves her without a private qualifier. She has the noun, the desire, the whole terrifying truth—and then she deliberately chooses the loophole: “Let Vee arrive at it on her own.” That is the same moral rot at the heart of everything. She calls it cowardice and friendship preservation, but she is still arranging the conditions while reserving Vee’s choices for later. She wants Vee’s unguarded love more than she wants Vee informed.
 
-Still, this chapter gave me the thing I have needed: Randi knows exactly what she feels for Vee, knows disclosure would change the friendship, and consciously chooses concealment because concealment lets her keep both versions. There is no longer any possibility that her manipulation is accidental. She is terrified, deeply lonely, genuinely in love—and making a morally lucid bad choice anyway. That is far more compelling than a scheming seductress who simply enjoys control.
+“Vee was her gorgeous” absolutely got me. So did that text arriving while Randi is reconstructing her face beside the perfect nothing. Vee offers presence with no demand—talk or don’t—and Randi answers with a true lie, then slips one naked sentence inside it. I believe “miss your face” completely. I also want to shake her. Vee is already feeling the ache of Pace refusing words, and here is Randi doing precisely the same thing in a prettier dialect: saying enough to keep the warmth, never enough to let Vee decide what it means.
 
-GATE 46 — Fairytale  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “Afterward she stayed against him.”  
-WHY: The fade-to-black made me genuinely angry, but finally getting Randi’s unvarnished interior life was worth it. Her love for Vee is real, her fear is devastating, and her decision to keep Vee from having to “decide” is the most damning confirmation yet that the book understands exactly what she is doing.
+Also, that bracelet is screaming at me. Plain white gold, locked on, never removed, catching against her hand while she dances with another man—I need to know who put it there. If Pace did, I may actually combust.
+
+The sex with John didn’t turn me on much, but I don’t think it was supposed to; its vacancy was the point, and the lipstick ring gave it enough bodily reality that I didn’t feel coyly ushered past the bedroom. What did turn me on was Randi being matched on the mountain, then led on the floor, and the dangerous clarity of her comparing both experiences to Pace. This woman’s appetite is as exact as her manipulation. Now that I know how frightened and lonely she is, I want her more and trust her no further.
+
+GATE 46 — Fairytale
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: Randi finally admitted to herself that she wants Vee and then consciously chose concealment, which is exactly the emotional knife I’ve been waiting for. I’m furious, aching for her, and desperate to know what the bracelet means—and whether Vee’s kindness will save Randi or make her cowardice worse.

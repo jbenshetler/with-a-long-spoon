@@ -1,21 +1,25 @@
-*capture-dag-v2-rich · gate ch038 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch038 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
 
-REACTION —  
+REACTION —
 
-Oh, this one was quieter, but it did exactly the dangerous thing: it made the trap feel like a life.
+Oh, this one got me in a quieter, nastier way than the spanking chapter, because this is Randi eating from the center of the arrangement while pretending she is just holding the napkin.
 
-I can feel Vee getting domesticated into desire, and normally that word would make me run, but here it isn’t wholesome domesticity, thank god. It’s appetite as occupation. Pace has turned weekends into a private country where she eats, sleeps, gets taken apart, gets fed, gets looked at, gets made real. And now Randi is the confessional booth for all of it, sitting there in dark velvet with mimosas already ordered, listening so hard she almost slips. That little moment where Randi actually loses her smoothness when Vee says he wants “me, with the body attached” — YES. There she is. There’s the want under the polish.
+Vee is so happy it almost makes me nervous. Not boring happy, thank God — not little house, little soup, little boyfriend happy. This is bodily conversion happy. She is walking around with Pace under her skin all week, and she has no defense left against the fact that he has rearranged her appetite, her sleep, her eating, her sense of herself as desirable. The “I used to be a person with thoughts” line is funny, but also… yes. That is the capture. Not chains. Rhythm. Weekend gravity. A house that already has music playing when she arrives. A man who doesn’t scroll because she is the entertainment. Horrifyingly effective.
 
-Vee calling herself a sex pervert and Randi absolving her almost got me. “Finally hungry out loud” is exactly the spell Randi casts: she makes shame feel like permission, and permission feel like belonging to her. Pace wakes Vee’s body up; Randi names the waking and claims it. That is such a nasty little division of labor. Vee thinks she’s telling her best friend about her boyfriend. She is actually feeding Randi the intimate operating manual to her own body.
+And Pace barely appears in the chapter, which should annoy me, but instead he is everywhere because Vee is basically glowing with the imprint of him. The amount of sex, the food, the silence, the sleep, the being looked at “with the body attached” — that phrase hit hard. That is exactly why she is so gone. He is making her feel like she is not a body being used but a self being consumed whole, and for my shelf, that is the expensive stuff.
 
-And the pictures. God. I was waiting for Randi to get her eyes on one of those. The cropped one was already hot because it was Vee wanting to be seen but managing the terms. Then Randi needles the half-measure, and Vee immediately escalates to the full uncropped one because she cannot bear being smaller in Randi’s eyes. That is the chapter’s sharpest tooth for me. Randi doesn’t have to demand. She just lets Vee want to prove herself.
+But Randi. Randi, Randi, Randi. She is losing control now, or at least showing the edge of it. That little moment where Vee says Pace wants “me, with the body attached,” and Randi goes bright and unfixed? Delicious. Because it isn’t only voyeur heat anymore. It lands in her emotionally. She wants Vee’s awakening, yes, wants to feed on the stories, yes, but she also wants to be part of the kind of wanting Vee is describing. She wants to be the one who sees Vee that way too. Maybe she already does.
 
-The goodbye kiss finally tipped, too. Vee was the one who leaned back in. She noticed, chose it, and then filed it away as ordinary because she needs it to stay ordinary. Delicious denial. She is absolutely wanting Randi now, but she’s still translating it into “best friend,” “brunch,” “one hug to carry her the whole week.” Honey, no. That is not friendship hunger.
+And the photos. God. Vee handing Randi the cropped version, then needing to prove she gave Pace all of it. That is so perfectly Randi’s corruption method: one tiny comment, “and you only gave him half?” and Vee immediately crosses the next line herself. Freely. Proudly. That jacket line keeps tightening around my throat. Every yes was freely given. That was the problem.
 
-Did I miss Pace being on page more? A little. I’m still here for him as the controlled, physically dangerous, worshipful man who has Vee in his house and in his hands. But this chapter belonged to Randi’s velvet booth and Vee’s mouth running away with her. The danger is less immediate than a spanking or a planned reveal, but it’s more insinuating: Vee is now happy inside the arrangement before she knows it’s an arrangement. That makes the eventual reveal nastier. Good.
+The Anthro class made my ears prick up. “Just us.” That is a room being booked for future damage. Cassie specifically excluded, Randi instantly saying yes, Vee wanting something that belongs to them and not the Pace triangle or stats accident. I like that because the book is finally giving Randi a structure of her own with Vee. Not just brunch confession booth. A recurring appointment. A claim.
 
-GATE 38 — All the Time  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: “There was just — all of it. The whole shape of the last weeks, which was not a story you could tell over soup because it had no edges, no place it began.”  
-WHY: It flirted with being too contented and domestic for my taste, but Randi’s presence kept putting a blade under every soft thing. The picture reveal, Randi’s almost-crack, and Vee taking the second kiss herself all pulled me right back in.
+And then Vee prolonging the kiss. Finally. Finally she takes a little. It is still deniable in her head, which is maddening and perfect, but she knows she wanted it and doesn’t bother about it again. Girl, please bother. Or don’t. I’m having a wonderful time watching you not bother.
+
+I do want the knife back soon. This chapter is lush and intimate and very capturing, but the danger right now is mostly psychological and delayed. I am still waiting for the plan to show its teeth in present tense, not just as dramatic irony. But this did not lose me. It pulled me deeper because Randi is starting to visibly want, and Vee is mistaking being chosen for being safe. That is exactly the wrong turn I came here for.
+
+GATE 38 — All the Time
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: "You've been starving your whole life and calling it *fine*, and now you're not, and you've gone and decided that's the flaw."
+WHY: That line almost tipped too wholesome-therapy for me, but Randi saves it by making the comfort feel like possession. The chapter keeps the erotic threat alive through confession, photos, jealousy-adjacent intimacy, and Vee choosing Randi more actively than before.

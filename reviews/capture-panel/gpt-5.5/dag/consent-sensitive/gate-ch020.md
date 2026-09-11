@@ -1,25 +1,19 @@
-*capture-dag-v2-rich · gate ch020 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch020 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, Randi. Oh no. This chapter made me more nervous than the actual sex chapter, which is saying something.
+Oh, Randi is dangerous. Not in the cartoon way, not in the “mean girl with a plan” way. In the way that makes my stomach do that little drop because she knows exactly where the shame is, and she knows exactly how to touch it so Vee feels rescued from it instead of handled.
 
-Because Vee comes in glowing, and I *want* this for her. I want her to have the mimosa and the sun porch and the friend who says, yes, that thing you did on purpose was yours. I want her to get to say “I wanted it, and I took it” and have somebody answer “Good.” That landed. That really did. After all the mother-voice shame, after watching Vee edit herself even with Cassie, there is something almost medicinal about someone naming her agency back to her without flinching.
+This chapter made me warm and uneasy at the same time, which is honestly the book doing its job. Vee coming in glowing after Pace, wanting to tell the real story, wanting someone who won’t flinch — I get it. I get it painfully. Cassie loves her, but Cassie is the safe shore. Randi is the confessional booth with candles and a locked door. Randi can receive the erotic truth without making Vee feel ridiculous, and that is intoxicating. “You’re not caught, sweetheart. You’re lucky” is such a perfect line because Vee needed it, and because it is also maybe the most manipulative possible thing to say to someone who actually *is* caught in a structure she can’t see.
 
-But because it’s Randi doing it, my whole body is tense.
+The nail polish part got me. The toes especially. Randi doesn’t just ask what happened; she teaches Vee how to read her own wanting as intention. And some of that is genuinely good for Vee. “I wanted it. And I took it. For once.” I loved that for her. I did. That’s the awful brilliance here: Randi gives her language that makes her feel less ashamed, more agentic, more alive. But Randi also knows more than Vee does. She knows Pace. She knows the plan. She knows this isn’t just a friend unpacking first-sex joy over brunch. She is feeding on it, and feeding Vee with it, and the chapter knows that. Thank God the chapter knows that.
 
-Randi is so good. Too good. She knows exactly where the shame is, exactly where to press, exactly when to tease and when to sanctify. “You’re not caught, sweetheart. You’re lucky” is gorgeous and terrifying, because Vee *is* lucky in some ways, but she is also absolutely caught in a structure she still cannot see. Randi turns Vee’s private preparation into agency, and I believe that reading. Vee did choose the polish. She chose the underwear. She drove over knowing. But Randi also keeps translating everything in the most flattering, desire-forward way, smoothing away fear before fear can become information.
+I’m still with the book because it is not pretending this is clean. That title, “Fed,” is doing so much. Vee is fed by Pace, fed by being wanted, fed by being understood; Randi is also being fed, and maybe feeding the trap. The second mimosa she “did not price at all” made me wince because it’s tiny but not tiny. Randi is changing what Vee permits herself. Some of that is liberation. Some of that is grooming-adjacent social acclimation with better lighting.
 
-And the money thing keeps scraping. Vee pricing the mimosa, then the second one not pricing it at all after Randi has warmed her open, is such a small, ominous social surrender. Randi picks the places. Randi sets the terms. Randi makes the room feel like admission. Vee experiences it as friendship, which it partly is, and as being taught how not to be ashamed, which it partly is, and as being chosen by the glamorous girl she wants, which it absolutely is. The problem is all those true things are being used.
+And the kiss. The second kiss matters because Vee expected it and met it. That’s the fuse burning visibly now. She doesn’t look around this time. She’s letting Randi become part of the good day, part of the glow. I am absolutely leaning forward, but with my hand still on the emergency brake.
 
-Also: Randi’s “sad little story” about the old boyfriend felt like a cover story, or at least like bait. I don’t trust it. After last chapter’s goodbye kiss, after the secret with Pace, after the way Randi had shut Vee down right before the wetness confession at lunch, I’m watching her manage the level of intimacy like a thermostat. She lets Vee come closer, then closes the door, then reopens another one at brunch. This time she lets Vee get to “I wanted it” but not to the rawest sexual evidence. That feels deliberate. Maybe protective, maybe possessive, maybe both.
-
-The second kiss: Vee not checking who saw this time is a milestone, and it scared me. Not because kissing Randi is wrong. God, no. Because Vee is explaining less to herself, but still not actually knowing what’s happening. She thinks Randi is the person you tell. She does not know Randi is also one of the people who planned.
-
-I’m still in. Very in. But my trust is narrowing. The book knows exactly how beautiful this is and exactly why that beauty is dangerous. That’s why I’m staying.
-
-GATE 20 — Fed  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: “You’re not caught, sweetheart. You’re lucky.”  
-WHY: That line made my skin prickle, because Randi is naming something Vee desperately needs to believe while standing inside a trap Vee still can’t see. But the chapter knows the danger; it lets the warmth and the manipulation occupy the same breath, and that’s exactly the kind of dark I’ll follow.
+GATE 20 — Fed
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: "You're not caught, sweetheart. You're lucky."
+WHY: That line scared me because Randi is soothing the exact fear she helped make unknowable. But the chapter is aware of the danger: Randi’s warmth is both real and instrumental, and Vee’s joy is both deserved and being managed. I’m very caught, and very watchful.

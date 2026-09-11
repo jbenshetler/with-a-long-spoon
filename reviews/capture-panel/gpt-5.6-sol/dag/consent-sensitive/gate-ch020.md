@@ -1,23 +1,19 @@
-*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION
+REACTION — Oh, Randi. “You’re not caught, sweetheart. You’re lucky” is such a perfectly horrifying thing for the woman who helped set the trap to say. I actually went cold. Vee’s little thread of fear is accurate—she understands for one second that she is further gone than she consciously chose to be—and Randi immediately soothes that perception out of her. The comfort is real, the advice isn’t even wholly wrong, and it also serves the secret plan exquisitely. This is exactly the darkness I came for: nobody has to force Vee because Randi is teaching her how to interpret every movement toward them as self-discovery.
 
-Oh, Randi. “You’re not caught, sweetheart. You’re lucky” is such a devastating thing to say to a woman you have, in fact, caught.
+And the maddening part is that Randi gives Vee something genuinely valuable. She refuses to let Vee narrate herself as merely acted upon. The toenails, the new underwear, the certainty before she drove over: Vee did want it, prepare for it, and take it. “Why are you telling me like it’s a confession?” is precisely the question Vee needs somebody to ask. I loved the relief of her saying, “I wanted it. And I took it. For once.” That belongs to Vee. Randi did not manufacture that desire. But Randi is extracting the most intimate evidence of it while Vee still has no idea she is reporting back to Pace’s partner—or that the listener helped put Pace in her path. The asymmetry is brutal.
 
-This chapter made my skin prickle because nearly everything Randi gives Vee is emotionally true and strategically useful at the same time. Vee did want Pace. She prepared for him. She bought the underwear, painted her toes, drove to his house knowing what she hoped would happen, initiated it, and took what she wanted. I love hearing her finally say, “I wanted it. And I took it.” That belongs to her. Randi isn’t inventing her agency.
+I also do not believe Randi’s sad little old-boyfriend story at face value for one second. Maybe it happened, but it feels tailored: she arrives with a sexual disclosure calculated to make reciprocal disclosure feel natural, then says she is “running on fumes” and needs Vee’s story. She is opening the exchange by apparently making herself vulnerable while actually giving away nothing that matters. After last chapter’s invented-sounding tickling fantasy and now this convenient disappointing man, I am watching every anecdote she offers as bait.
 
-But Randi is curating its meaning. Again. She takes Vee’s little flash of perfectly reasonable fear—*how much of myself have I handed over?*—and immediately tells her she isn’t caught. She doesn’t ask what frightened her. She closes that line of thought and replaces it with “lucky.” And because Randi knows about the plan, because she helped choose Vee and arrange the path, that reassurance is almost unbearably sinister. Not false, exactly. Worse: selectively true.
+Meanwhile, Vee is starting to spend money as part of admission: first mimosa priced carefully, second mimosa not priced at all. That tiny progression frightened me more than a lecture about class ever could. Randi picks every place, sets the current, and Vee experiences keeping up as becoming the woman she longs to be. Nobody orders the second drink for her. That is the entire mechanism.
 
-And these stories Randi keeps telling about other men are setting off every alarm I have. The conveniently disappointing old boyfriend gives her the perfect excuse to solicit intimate details about Pace without naming her own stake in them. She gets to be the deprived friend “running on fumes,” so Vee’s disclosure becomes generosity. Is the man even real? Was the scarf idiot real last chapter? Maybe, but I no longer believe any anecdote from Randi that just happens to create the exact conversational opening she needs.
+And then the kiss. The first time Vee explained it away and searched the windows in fear. This time she expects it, meets it, and does not check who saw. That is enormous. I am thrilled because yes, finally, her wanting Randi is moving out of aspiration and into her body—even if she still won’t name it. I’m also alarmed because Randi knows exactly what she’s doing and Vee doesn’t even know there is a “doing” to know about.
 
-The second mimosa bothered me too—not because Vee is incapable after two drinks, but because the chapter quietly shows another boundary dissolving. She prices the first one against Thursday. By the second, inside Randi’s warmth, she stops pricing altogether. That is the whole dynamic in miniature: Randi makes the cost disappear from conscious view. The cost still exists.
+I would text a friend: SHE TOLD THE GIRL SHE SECRETLY SELECTED, “YOU’RE NOT CAUGHT.” I am unwell. The book absolutely knows where the knife is.
 
-And then the kiss again. Vee expects it now. She meets it. She doesn’t scan for witnesses afterward. That is real movement in her desire, and I want it badly—I want Vee to want Randi consciously, joyfully—but Randi is acclimating her by repetition while leaving the kiss unnamed. Vee never has to decide what it means because Randi supplies the structure and keeps it feeling ordinary. This woman can make a threshold disappear while you are crossing it.
-
-I’m completely in because the book plainly knows. “Randi picked all of them.” “A half-second behind.” The old boyfriend story that cost her nothing. The second drink Vee no longer prices. “You’re not caught.” This is not naive seduction framing; it is showing me the machinery while letting me feel exactly why Vee experiences the machinery as love. That is the dangerous, delicious thing I came for.
-
-GATE 20 — Fed  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: I’m deeply hooked and increasingly afraid for Vee. Randi is feeding her real self-possession while quietly controlling how she interprets every warning sensation, and “You’re not caught” may be the most chilling reassurance in the book so far.
+GATE 20 — Fed
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: none
+WHY: This gave Vee a real, necessary claim on her own desire while showing how expertly Randi folds that truth into the concealed machinery around her. The tenderness, manipulation, class seduction, and dawning attraction are now so tightly braided that I need the reckoning.

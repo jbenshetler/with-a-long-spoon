@@ -1,23 +1,21 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch049 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
 
 REACTION —
 
-Oh, Randi. Randi, Randi, Randi.
+Oh. Okay. Finally. Finally we are inside the locked room with him, and it is uglier and sadder and more pathetic than I expected in exactly the way I needed.
 
-This chapter gave me exactly the thing I’ve been waiting for with her: not just the glossy “tell me everything, gorgeous” manipulation, but the way she can be genuinely useful and genuinely dangerous in the same breath. She sees Vee’s panic with frightening precision. She doesn’t dismiss it, doesn’t pat her on the head, doesn’t give her wholesome friend advice. She takes Vee apart, sorts the real facts from the 3 a.m. hallucinations, and then hands her a sexual solution like it’s emotional first aid. That is so much more interesting than comfort.
+This chapter made me forgive him a little and want to slap him a lot. The bleach, the second shower, the chicken and broccoli in vacuum bags like he is trying to reassemble himself as a machine after having a human night. God. “Prison food” is right. He can feed Vee like worship and feed himself like punishment. That did something to me.
 
-And God, I loved how she reframed Pace. Because yes, Pace not texting all break is brutal. I would be feral. But Randi saying, basically, no, this is two stubborn people bleeding on opposite sides of a locked door, not a man who got bored, felt right to me. Pace is not behaving like a casual user. He is behaving like a damaged control freak whose one unavailable word has become the loaded gun on the table.
+And the Daphne piece landed. Not because I’m suddenly satisfied with his noble wounded-man silence, because I’m not. But because now the refusal has a shape. He didn’t accidentally fail her. He knew. He knew on the porch. He felt the real answer rise and chose the smaller truth. That is brutal, and honestly much hotter than if he were just emotionally oblivious. He has been calling all of this care and patience and respect, but here it is: control as self-protection. He held back the word like it was a door bolt, and it hurt her anyway. Deliciously stupid man.
 
-The coat plan is delicious. Finally. The shame-to-heat engine is back online, and Randi is the one turning the key. “Nothing under it” is such a perfect Vee move because it’s not her becoming some confident fantasy woman out of nowhere; it’s her walking straight through the exact word that scares her. That’s the good stuff. Not empowerment-poster sexy. Abased, brave, needy, mortified, choosing it anyway sexy.
+The part that really got me was the engine. That little animal hope in him before he can stop it. He hears tires and his whole body goes toward her. That’s the first time he felt properly helpless to me. Not controlled, not courtly, not architect of the warm house and perfect plate. Just wrecked. Waiting for the girl he loves and losing her again to a random truck passing by. I liked seeing him break. I needed to see him break. I needed the book to make his silence cost him something visible, and there it was: sobbing over cold chicken and broccoli while Willie Nelson betrays him in the background.
 
-Also, Randi being jealous and saying it in a way Vee can laugh off? Mmm. She keeps putting truth in costumes. “I’m so jealous I could scream” passes as girlfriend banter, but we know. We just saw her in Gstaad unable to make John matter because Vee matters. Now she’s dressing Vee to go back to Pace, literally equipping the woman she wants for another man, because keeping access to Vee matters more than confessing. That is sick and gorgeous and I am seated.
+Also, “Whiskey River was a liar” made me grin in the meanest way. Yes, babe, alcohol did not erase the woman you engineered into needing you and then refused to name. Imagine that.
 
-And Vee asking for the “real” New Year, then swallowing the fairytale mostly whole, hurt in the right way. She hears the future-shape with John and aches because Pace won’t give her even the small public name. But she misses the emptiness underneath Randi’s telling. She thinks the bedroom detail is discretion. Girl, no. The omission is the confession. Randi can narrate filth over brunch with a fork in her hand, so if she goes vague, something died in that room.
+I am still hungry for danger, and this chapter is not knife-to-throat danger, but it is emotional damage with teeth. He is less safe now because his control has a crack in it. And a cracked Pace is much more interesting to me than serene perfect Pace. If he goes after her, if he finally spends the word, if he does it too late or too intensely or with that quiet possessive precision turning desperate, I’m in. I want him brought low. I want Vee to have power over him, and I want that power to scare him.
 
-This chapter absolutely pulled me back after the ache of the silence. I wanted danger and wrongness and I got Randi calmly coaching Vee into a naked-under-the-coat reconciliation while hiding that she wants her too. That is a beautiful little moral disaster.
-
-GATE 49 — My Friend Randi  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: Randi is finally becoming the threat I wanted her to be: loving, useful, selfish, and steering Vee by the pulse. The coat plan has teeth, Pace is waiting like a locked room, and Randi’s desire is now too visible to pretend this is just friendship.
+GATE 49 — Not Enough
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: "He ate anyway."
+WHY: This was almost too self-punishing and quiet for my usual appetite, but it finally put blood under Pace’s restraint. He knew he hurt her, he loves her, and he is afraid of her power over him. That is enough to keep me turning pages.

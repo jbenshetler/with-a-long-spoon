@@ -1,17 +1,23 @@
-*capture-dag-v2-rich · gate ch033 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch033 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
 
-REACTION — Oh this was deliciously my kind of quiet. Not quiet as in boring, quiet as in the house has locked the door and the whole world is outside where it cannot interfere. Halloween passing them by while she invents her own costume game? Yes. That works on me. The ordinary domestic setup almost scared me for a second, dishes and wine and curry aftermath, but then the dress in the car became a loaded object again and I was right back in.
+REACTION —
 
-Vee bringing the induction dress to him without bringing an overnight bag is so perfectly her right now. She is still pretending she has not chosen the night, while dragging the most erotic proof of his authorship into his house. And I love that she makes him sit. That little command reversal should have felt playful, but it felt like she has learned the shape of power from him and Randi both and is trying it on in heels.
+Oh, I liked this. I liked it a lot more than I expected to like a quiet Halloween-at-home chapter, because it is quiet in the way a blade is quiet before it touches skin.
 
-The first walk got me because it was a private replay of the public moment, but better, because now the person who made the weapon has to watch it fire. Pace not touching her is the whole thing. His hand starting up and then going away again? That is hotter than grabbing her would have been here. He has appetite, and he has leash. I still need danger, but his restraint is starting to feel less wholesome and more like control sharpened to a very fine edge. He knows exactly how much not-taking can make her offer more.
+The whole thing is domestic on paper: wine, dishes, no trick-or-treaters, music in the den. Normally that would have me checking the door. But here the house feels like a staged room again, and Vee is finally not just being dressed or guided or discovered. She is staging *him*. That got me. She gives him instructions. Go sit. Wait. Pick. And Pace, who has been this massive calm center of gravity, obeys because the obedience is also control, because he knows the gift is coming if he holds still. Delicious.
 
-And then the second costume. God. The heels staying on. Nothing else. “This is what I had on under it.” That is Vee saying the quiet part out loud with her whole body, and she knows it. She is not being dragged anymore; she is walking herself deeper down the hall. I like that it is not coy. It is still blushy and terrifying for her, but she is not hiding. She is making him compare the public version of her to the private version, and he gives the perfect dangerous answer: the world can have the dress, but the nakedness is his.
+The dress coming back mattered. I needed him to see it finished, with the shoes, with the walk. And I loved that she recreated the induction for him but made it dirtier because now the “room” is one man and she knows exactly what the slit is doing. The public version was her discovering she could make a room murmur. This version is her learning she can make *him* go silent. That difference is everything.
 
-Randi is not on page and somehow still in the room because those shoes are hers. The black straps are Randi’s kneeling hands, Pace’s dress, Vee’s bare body, all stacked together. That triangle is tightening even when only two people are physically present. I am absolutely still waiting for the reveal, but chapters like this keep the heat fed while we get there.
+And then the second costume. God. That was the chapter’s little throat-cut. The heels stayed on. Nothing else. It could have been silly, but it wasn’t, because the book has spent so much time making those heels into a charged object: Randi kneeling to buckle them, Pace ordering her to keep them on, the dress needing them, Vee learning height and line and exposure through them. So when she walks out in only the heels, it is not “look, naked girl.” It is: here is the secret architecture under the beautiful public thing. Here is what the dress meant. Here is what you made possible.
 
-GATE 33 — Made-Up  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: "Pace had the dishes — sleeves pushed up, the big pan under the tap, the window going black over the sink — because the kitchen was too small for two and the kitchen was his."  
-WHY: For one second I feared we were drifting into cozy couple kitchen land, but the chapter turned the domestic quiet into a private exhibition scene almost immediately. Vee naked except for Randi’s heels, making Pace choose what belongs to the world and what belongs to him, is exactly the kind of voluntary surrender-with-teeth I’m here for.
+Also, I am feral about Pace staying in the chair. He does not rush her, does not ruin the offering by grabbing too soon. That restraint is still the thing that makes him dangerous to me, because it is not softness exactly. It is appetite with manners. He knows if he waits, she will hand him more. And she does. Again.
+
+Randi is all over this without being present, which is my favorite kind of trouble. The shoes are hers. The confidence has her fingerprints on it. Vee is presenting herself to Pace in an object Randi completed. I want Randi to know. I want her to see the second costume in her mind and hate herself for how badly she wants the report.
+
+This chapter did not give me plot explosion, but it did give me Vee becoming bolder in a way that feels irreversible. She is not just “letting herself be wanted” anymore. She is practicing the power of making herself unbearable to want. That is exactly the kind of awakening I’m here for.
+
+GATE 33 — Made-Up
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: The setup looked dangerously domestic, but then Vee turned it into a private exhibition and made Pace stay seated for it. The final image, naked except for Randi’s heels, is too charged and too triangulated for me to leave now.

@@ -1,19 +1,21 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
 
-REACTION — Oh, this hurt. Vee sending Randi that tender little no-pressure message while believing Randi is out there living some glittering, fearless life—and knowing Randi is actually lying beside a man who couldn’t find her—made me want to put both women in the same room and lock the door until somebody tells the truth. They are each alone, each thinking the other possesses the life she lacks, and Randi’s reply is simultaneously sincere, loving, and another immaculate concealment. “Every word of it true. None of it the thing” is their entire relationship right now.
+REACTION
 
-Vee’s childhood bedroom devastated me. It loves a version of her that no longer exists, while Pace’s house made space for who she has become—but Pace refuses to tell that woman what she is to him. So she has nowhere that fully holds her: home is too small, and his home can apparently be withdrawn without even the dignity of a name. Her parents’ repetitive questions aren’t merely annoying anymore. They keep pressing exactly where the relationship has no structure.
+Oh, Vee. That childhood bedroom still loving a version of her she has outgrown absolutely got me. Her knees bent because the bed has been too short since middle school, the trophies and ribbons preserving a girl everyone understood, and this ravenous new self lying there with nowhere to put her body or her feelings—I know that particular loneliness. Going home and discovering you can still perform your old part perfectly while privately taking up more space than the whole house allows.
 
-And I am furious with Pace. Not because he didn’t chase her into the cold that instant; I can believe he was respecting the space she chose. But an entire holiday break without one word after she left crying? That is not leaving room. That is abandonment dressed in his preferred language of restraint. His attentiveness works beautifully when the need is physical and legible. The second Vee needs him to risk speech, he disappears into principle and lets her do all the suffering alone.
+And I am furious with Pace now. Not because he couldn’t say “I love you” on command, but because she walked out crying after asking the most reasonable question in the world and he let the entire holiday pass in silence. “He always left you the room” has curdled completely. Space is not automatically respect when you know someone is hurting. Sometimes it is simply abandonment with impeccable manners. All his exquisite attention means he should be able to understand that much. If he is waiting for her to choose her way back to him, he is protecting his preferred idea of consent while leaving her to endure consequences he helped create.
 
-Her jealousy was painful because she knows she has no facts and manufactures the woman anyway. The blonde replacing her inside her own memory was horrible. Pace hasn’t merely become the center of her present; uncertainty about him can now repossess the past and edit Vee out of her happiest night. That frightened me more than the shirt did. She cannot even retreat into what she knows happened because she never secured what it meant.
+The blonde taking Vee’s place inside her own memory was horrible. That is exactly what uncertainty does: it doesn’t merely threaten the future, it repossesses the past. She can’t even keep the fra diavolo night as hers because Pace has refused to give her enough truth to defend it. And meanwhile the reader knows the imagined woman is wrong but the underlying fear is right. He is already someone else’s. Just not in the shape Vee can picture.
 
-And then Randi becomes “the one sure thing,” which is deliciously awful because Randi is only sure from Vee’s side. Vee thinks Pace is the unknowable danger and Randi the reliable homecoming, while Randi is concealing the fact that she is woven straight through the uncertainty about him. I want Vee to run toward Randi. I also want to scream at her not to trust the floor, because Randi helped build it over a trapdoor.
+The paired New Year’s messages hurt even more from this side. Vee offers Randi the gentleness Randi cannot bring herself to offer her: *I’m here if you want to talk. Or not.* She knows something is wrong with Randi’s family, sees through the fairytale enough to understand that the money is poisoned, and leaves an honest door open without forcing her through it. Randi responds with a perfectly edited lie made entirely of true details. Then Vee reads “miss your face” as the one dependable thing in her year—and the awful part is that Randi does mean it. I believe Randi loves her. I also want to shake her until her teeth rattle.
 
-I am completely in. But the disclosure needs to start now. Vee is suffering consequences from a secret she still cannot even perceive, Pace has allowed silence to become cruelty, and Randi has just consciously chosen concealment again. Somebody needs to become brave before Vee uses Randi’s arms to survive what Randi and Pace created.
+And now Randi feels safer than Pace because she comes with a date on the calendar. That made my stomach drop. Vee is not choosing between the trustworthy woman and the untrustworthy man; she is orienting toward whichever concealed person gives her less uncertainty in the moment. Randi’s consistency is part of the trap. Pace’s silence is doing Randi’s work for her without either of them having to coordinate a thing.
 
-GATE 47 — Old Acquaintances  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: Vee and Randi envying each other’s imagined lives from opposite sides of the same midnight is exactly the psychologically cruel tenderness I came for. I’m desperate for their reunion—and now actively angry enough at Pace’s silence and Randi’s concealment that I need the truth to move.
+There’s no sex here, but I didn’t miss it. This is the emotional bill for all that heat, and it is finally arriving. I’m not bored for one second. I’m heartsick, angry, and desperate for the first day of term, because Vee is about to run gratefully toward the woman who spent the same midnight lying beside a man and consciously deciding not to let Vee choose.
+
+GATE 47 — Old Acquaintances
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: Vee losing possession of her own best memory hurt more than most betrayals on the page, and the midnight message connecting her loneliness to Randi’s deliberate concealment is vicious. I need the reunion now, even though I dread how safe Randi is going to feel.

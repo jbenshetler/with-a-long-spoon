@@ -1,25 +1,35 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — Oh. *Oh.*
+REACTION
 
-“That he had handed her the thing that had hurt him and named it luck.” There it is. That is the sentence I have been waiting for without knowing I was waiting for it. Because Randi has just told Vee, “You’re not caught, sweetheart. You’re lucky,” and now Pace uses the same defense for what Daphne did to him. The book sees it. It sees the entire poisonous mechanism: that an experience can feel like rescue, can be the best thing that has ever happened to you, can contain real tenderness and real desire—and still have been shaped by someone older who was assigned to care for you and crossed a line you were too young to name.
+Oh. Oh, Peter.
 
-Nineteen and fifteen. His tutor. Two years. No, baby. Somebody did do something wrong. And the fact that Pace instantly supplies every exonerating argument—he didn’t feel young, it was wonderful, she only left because ordinary adult life excluded him—is devastating precisely because he is usually so perceptive. He can identify the hand beneath Vee’s family stories, but he cannot see the hand that was managing him. Worse, I can suddenly see where he may have learned this whole method: make the younger, more vulnerable person feel fully seen; let every individual step feel chosen; become the one place where their difference is not punished; call the resulting attachment freedom.
+This is the chapter that makes me trust the book.
 
-That does not flatten him into a predator for me. It makes him frighteningly, painfully legible. He may be reenacting the architecture of his own formative relationship while sincerely believing that patience and choice make it safe. And Vee, bless her, sees more than he does here. She feels the arithmetic in her stomach. She understands that “the best two years” does not settle the moral question. She doesn’t force the ugly word into his mouth or demand that he accept her interpretation on the spot, but the narrative lets *her* know it anyway. That distinction matters enormously to me. This is dark content the book knows is dark.
+Not trust Pace—not yet, and absolutely not Randi—but trust that the book knows exactly what has been living underneath his immaculate patience and his theology of open doors. He was fifteen. Daphne was nineteen, assigned to help “the child find his feet,” and it lasted two years. He tells Vee nobody did anything wrong, calls those years the best he had, and defends the memory from the accusation she is careful not to voice. And Vee understands the truly awful part: he has handed her the thing that hurt him and named it luck.
 
-I loved her with him in this chapter. Not because she heals him, and not because disclosure becomes a reward for sex, but because she listens without extracting. “They took the thing you loved and made it the punishment” is such an exact return of the care he habitually gives her. She can find the living nerve beneath his bloodless account and touch it once without prying. Then, at the scar, he says “Not tonight,” and she accepts the boundary completely. No coaxing, no wounded performance, no attempt to make access proof of intimacy. Their joined hands over the unanswered thing felt more intimate than an explanation would have.
+That hit me like a rock to the chest.
 
-And Peter. Of course Pace is a made name, a name with motion in it, a self constructed by the boy who escaped the hallway. Vee saying “Peter” at the end felt almost unbearably tender—not ownership, not a secret password, just keeping the unarmored fact safe.
+Because of course this is where his beliefs come from. Of course the man obsessed with literal permission, who wants Vee to “get there on her own,” may have built an entire moral system capable of preserving his own first relationship as consensual and precious. He didn’t feel young. It was the best two years he’d had. Nothing happened that he names as force. Every yes may have been freely given. I can suddenly see the shape reproducing itself—not identically, because Vee is twenty-one and he is twenty-two, but psychologically. He knows how to make room for choice while controlling context because that may be the only way he can understand what Daphne did without losing the first person who made him feel less alone.
 
-I am also incandescent over the structural echo. Pace was a brilliant fifteen-year-old surrounded by “adult concern” supposedly arranged for his benefit. Vee is twenty-one, so the age issue is not equivalent, but she too is inside a beautiful experience arranged around her by people who know more than she does. Pace says he wants her to “get there on her own,” exactly while withholding that he and Randi chose the destination. Does he genuinely not understand the contradiction because Daphne taught him that feeling free inside a designed relationship means you were free? If that is where this is going, I am completely caught.
+And thank God Vee sees what he cannot. She does the arithmetic. She feels the ugly adult word forming. The narration does not blink, sentimentalize, or ask me to accept Pace’s interpretation as truth. It lets his tenderness toward the memory coexist with the fact that he was a profoundly isolated fifteen-year-old and she was the nineteen-year-old explicitly assigned responsibility for him. This is exactly the distinction I needed the book to understand.
 
-The mathematics got me too, embarrassingly. Not because I suddenly care about Newton, but because I understood why Vee falls for the way his mind turns toward the world. For once his impossible collection of competencies didn’t feel like the author stacking desirable traits on him. It felt like a glimpse of the boy who found rooms where the thing he loved was called beautiful after a year with his desk in the hall.
+Vee was wonderful here. She does not pry, diagnose him to his face, or force him to accept her version of his life. “They took the thing you loved and made it the punishment” is such an exquisitely Vee insight: immediate, emotionally exact, and offered without making his hurt into her performance. And then, with Daphne, “You were so young.” Just enough truth to place a hand against the story without ripping it away from him. She gives Pace the conversational consent Cassie has always given her. That matters enormously.
 
-I trust the book more after this chapter than I did before it. I trust Pace less simply, which is much better.
+I am also more in love with him than I wanted to be. The math passage got me completely—not because I suddenly care about Newton, but because this terrifyingly composed man lights up and shows her the living thing inside him. “Most people walk around inside the poem and never get to read a line of it, and I got to read some” would have had me staring at him exactly as Vee does. This is what capture feels like: she sees the world differently for a moment because he has turned his understanding toward her like light. I get why she is gone. I am a little gone myself.
 
-GATE 25 — Rock  
-DECISION: CONTINUE  
-CAPTURE: 10  
-ALMOST-STOPPED: none  
-WHY: The book just proved that it understands the difference between an experience feeling like salvation and actually being ethically innocent. Pace naming his own grooming “luck” directly beneath Randi naming Vee’s entrapment “luck” has me by the throat.
+But the mirroring is brutal. Pace says college was the first year he wasn’t in the hall; Daphne was the person assigned to bring the child inside. Now he and Randi are bringing Vee inside—into sex, wealth, beauty, appetite, a world she watched from outside. Pace experienced admission as rescue, so how could he easily recognize admission being used as leverage? He has been building Vee open doors because a woman once opened one for him, and he still cannot name what it meant that she controlled the building.
+
+Even his age rearranges him. Twenty-two. He isn’t the older, fully established man I had unconsciously made him into; he is only one year older than Vee, accelerated so violently through life that competence disguises how young he still is. That doesn’t absolve his deception. It does make his impossible self-sufficiency feel less like fantasy perfection and more like armor built by a child who learned early that adults would organize his whole life around what he could do.
+
+The scar answer was perfect for me: “Not tonight.” A clean boundary, no punishment for asking, no false intimacy, and no promise extracted beyond the quiet implication that another time exists. Vee turning her hand beneath his so they are palm to palm over the scar nearly undid me. She accepts the closed door without abandoning him outside it. That is tenderness.
+
+And then “Peter.” Not a sexy reveal, not a claim. She says the ordinary name simply to keep it. I felt the whole chapter close around that gesture.
+
+What I’d text at one in the morning: *PACE WAS FIFTEEN. THE BOOK KNOWS. THE BOOK FUCKING KNOWS.*
+
+GATE 25 — Rock
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: none
+WHY: This answered my most important question without resolving the danger: the book fully recognizes the grooming pattern Pace himself cannot yet name. I am emotionally wrecked, newly tender toward him, fiercely impressed by Vee, and more frightened than ever by what Pace and Randi are repeating around her.

@@ -1,19 +1,21 @@
-*capture-dag-v2-rich · gate ch042 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch042 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
 REACTION
 
-Oh, that hurt. She gave him the bravest version of “I love you” she could manage, and he answered the safer sentence. “I love how good we are together” is not nothing—it is tender, and I believe he meant it—but it keeps *her* just outside the word. Then “what your body does” made the gap worse. Vee told him he had transformed her whole experience of being alive, and he answered partly by praising the extraordinary thing her body gives him. I felt that little *wait* behind her breastbone immediately.
+Oh, that hurt. That hurt so much more than an outright rejection would have, because he was warm. He held her closer. He kissed her hair. He gave her just enough love-shaped tenderness that she could tell herself she had been received, while answering the safest, narrowest version of what she said.
 
-And I’m angry with both of them, but not equally. Vee’s rule that he has to say it first is trapping her, yes. Yet she made an enormous, unmistakable offering anyway. Pace is so perceptive about her body, her hunger, her smallest movements—he cannot keep getting credit for seeing her completely and then be treated as helplessly oblivious when she speaks from the center of herself. Either he understood and retreated, or his attention has a terrible blind spot exactly where words and emotional risk begin. Given the larger secret, I’m frightened it was retreat.
+“I love how good we are together” is not “I love you.” It is not even “I love who you are.” It is about the thing they make together—especially, painfully, what her body does—when she had just told him he changed her understanding of nourishment, pleasure, life. She made herself as vulnerable as she could without using the forbidden words, and he answered with compatibility. I felt that little *wait* behind her breastbone immediately. Her body knew before she let herself know.
 
-“She had been received warmly” absolutely broke me. That is a woman arguing herself out of believing her own hurt because the man was gentle while causing it. Warmth matters, but warmth is not an answer. The kiss in her hair cannot do every job forever.
+And I am angry with him now. Not because he is obliged to say he loves her before he is ready, but because his silence is no longer neutral restraint. He knew that sentence was enormous. The stopped hand, the two breaths—he knew. Maybe he could not say the words, but he could have asked what she meant. He could have risked one honest question. Instead he wrapped the unanswered thing in warmth and let her carry it away alone.
 
-And now there is a pile. Of course there is. All those moments when his actions are supposed to explain what his silence withholds have required her to perform “small repair work.” This chapter finally lets her body notice the cost. She has retired her best sentence after one attempt, and he doesn’t even know—or perhaps does know—that the door just quietly closed.
+The laundry room broke my heart. “She had said her best sentence.” God. She really had. She built him a bridge around her fear, walked almost all the way across it, and he stood at the other end talking about how well the bridge works. Then she folds the hurt up with everything else because asking would require her to violate a rule he never made and she somehow cannot escape. That is the part that scares me: she cannot ask the one person who could resolve it. This beautiful, consent-conscious man has made so much room for her bodily no, but emotionally she is becoming smaller around his silence.
 
-I would text a friend at one in the morning: *He said “I love how good we are together” and I need to throw something. SHE WASN’T ASKING FOR A PERFORMANCE REVIEW.*
+And there is already a pile. That may be the most ominous thing in the chapter. Not one misunderstanding—“small repair work,” plural, preserving what she needs to believe about him. I still believe he loves her. I also believe he understood more than she wants to admit, and whatever keeps him silent is now actively hurting her. If the hidden plan is part of why he cannot speak, then the deception has finally entered the tenderness itself and spoiled it.
 
-GATE 42 — Seconds  
-DECISION: CONTINUE  
-CAPTURE: 10  
-ALMOST-STOPPED: none  
-WHY: This hurt in exactly the place the whole relationship has been building toward: Pace’s tenderness can no longer cover what his silence costs Vee. I need to know whether he repairs this—or lets the woman he supposedly sees completely keep folding her hurt into a private pile.
+I would text a friend at one in the morning: *She told him she’d eaten crackers her whole life and he was her first meal, and this man said he loves how good they are together. I am outside his house with a megaphone.*
+
+GATE 42 — Seconds
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: “I love how good we are together.”
+WHY: I hated his answer, but I am completely caught by Vee’s body recognizing the evasion before her mind will permit it. The pile of things she keeps repairing has become impossible to ignore, and I need to know whether Pace finally risks the truth before she disappears inside all that accommodation.

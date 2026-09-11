@@ -1,15 +1,13 @@
-*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
 
-REACTION — Oh, she is incandescent. The grin surviving every red light, the bare face, the impossible hair, the fact that her mother’s word can come and Vee discovers she simply doesn’t care this morning—I’m so happy for her. This is what I wanted: not a woman persuaded past herself, but a woman whose body named what she wanted and who followed it all the way into joy. She didn’t endure sex or perform being desirable. She was there. And now she is walking around lit from inside by it.
+REACTION — Oh, that stupid unstoppable smile. I know that smile. I felt ridiculously happy for her coming through the door with it, bare-faced and unprepared and so completely pleased with herself. The toenails being the proof she thought she’d hidden made me laugh. And giving him the panties, then driving home bare while her mother’s voice finally failed to ruin it for her? Yes. That feels like appetite becoming hers.
 
-But the missing middle with Cassie hurts. Vee told Randi the secret she couldn’t tell anyone, and now she gives Cassie the polished, ordinary version: he cooks, he kisses well, he was sweet. Cassie—the person who would probably understand without making her ashamed—gets the surface. Vee calls that omission kindness, and I don’t believe her. Not entirely. It’s privacy, yes, and she’s allowed privacy. But it also feels like the first real locked door between them, especially because Cassie says “boyfriend” and Vee lets the wrong word stand. The relationship that asks nothing from her is becoming the one she edits herself inside.
+But the part with Cassie put a little ache under the glow. Vee told Randi the secret center of the fitting and gave Cassie the edited version of this night. She calls that a kindness, and I don’t believe her. Not because Cassie is owed sexual details—she absolutely isn’t—but because Vee is beginning to partition herself according to what each relationship is allowed to hold. Randi gets the shame and hunger; Cassie gets the charming story about dinner. And Cassie, her safest person, is already standing outside something important without knowing there’s a door.
 
-And that tiny flash on Cassie’s face when Vee enters—I noticed. She saw something. Maybe only that Vee had crossed a threshold without her, maybe that there was no bag, maybe the same seam I can feel in the story Vee tells. Cassie doesn’t pry because she loves Vee cleanly, and somehow that makes Vee’s withholding sadder.
+“Boyfriend” also landed oddly. Pace may be becoming that, but Vee doesn’t actually know, and she accepts the word because happiness makes it convenient. I’m still glowing with her—I really am—but this chapter made the happiness feel almost painfully fragile. She has never been so happy, and she is keeping pieces of how she got there from the one person who has never had a plan for her. That is exactly the sort of sentence that makes me clutch the book harder.
 
-Still: the green panties folded into Pace’s palm, the plum toenails, the skirt zipped back up until Vee can be alone—not shame exactly, not anymore, but something private and delicious she isn’t ready to expose to daylight. I understand it. I’m thrilled for her. I’m also frightened by “I had never in her life been so happy,” because the two people at the center of that happiness are still keeping the foundational truth from her. The higher she rises, the farther there is to fall.
-
-GATE 19 — Toenails  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: Vee’s happiness feels bodily, chosen, and gloriously hers, which is exactly why I’m invested. But her edited story to Cassie feels like the first quiet cost, and I need to see whether this awakening expands her life or starts closing her safest doors.
+GATE 19 — Toenails
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: Her happiness got me, completely, but the clean little hole she cut in the story for Cassie worries me. I’m continuing because the sex meant something particular to Vee—and because I need to see whether this new freedom brings her closer to herself or quietly separates her from the person who knows her best.

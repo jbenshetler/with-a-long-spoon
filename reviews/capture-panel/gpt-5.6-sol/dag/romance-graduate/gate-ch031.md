@@ -1,19 +1,17 @@
-*capture-dag-v2-rich · gate ch031 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch031 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
 
-REACTION
+REACTION — Oh, she did it. She actually gave herself the entrance she’d imagined—not by arriving late and making everyone wait for her, but by changing one careful step into one long one. That got me. The choice is tiny from outside and enormous inside: she could mince across safely, then decides the room may have her leg all the way to the hip. And her body answers her decision with heat. Pride and arousal becoming the same current is exactly the awakening I wanted for her.
 
-Oh, that worked on me. Vee choosing the long step—not because Pace directed her or Randi supplied the language, but because she wanted the room to look—felt like the cleanest, hottest act of ownership she has had yet. The secret under the dress is erotic, obviously, but the charge is that nobody else gets to possess the full meaning. Not the staring room, not the camera, not even Pace when she sends him the picture. “That part was hers” made me almost fiercely happy for her. She needs something that is hers.
+The crucial thing is that neither Pace nor Randi is there. Pace made the dress, Randi found the shoes, but neither gets to direct or even witness this moment. Vee chooses the long step herself. She keeps something from Pace, too—not dishonestly, but privately. He’ll see the photograph and understand what his dress did; he won’t know everything she felt while wearing it. “That part was hers” made me want to cheer. After so much of her transformation has been interpreted for her, she owns an experience nobody else can name.
 
-And Cassie. God, Cassie. “I’ll buy you a terrible sandwich and you can be famous at me” is exactly the kind of love Vee needs near all this beautifully engineered seduction: affectionate, unimpressed, observant, asking for nothing. She documents Vee without directing her, sees the spectacle without making a claim on it, and then feeds her. I remain extremely worried that Vee is going to understand the value of that friendship only after she has damaged it.
+And Cassie, God. She doesn’t style Vee or pry her open or tell her what the moment means. She holds the phone, takes the perfect photograph, gets misty about the actual honor, calls her streetlight, and offers her a terrible sandwich. That is love without an agenda. Vee asking only “How did I look?” made me ache a little, because Cassie is looking at the whole person while Vee is still hungry for confirmation of the image—but Cassie gives her the answer without making the hunger shameful.
 
-Pace’s absence was the right choice. If he had been watching, the walk could have become a performance of his creation back to him. Instead she takes what he made and discovers a private erotic self inside it that he cannot see. That complicates my fear about the plan in a genuinely delicious way: yes, conditions have been built around her, but the person emerging inside them is capable of generating meanings her architects do not control.
+Also: this was hot without a hand laid on her. The secret choreography of holding the slit closed among everyone’s parents, then deliberately letting the silk open and feeling the entire room understand something it cannot say aloud? Yes. That is charge built from choice, exposure, and interiority, not a reheated sex-scene template. And the final uncertainty—whether she’s walking that way from pride or heat, and whether those have become the same thing—is the book feeding me exactly what I came for.
 
-I also noticed that Randi is present without being present: the shoes, the nails, the memory of her kneeling. Pace made the dress; Randi completed the body; Cassie took the photograph; Vee made the decision. Everybody’s hands are in the image, but the long step belongs to her.
+I’m still terrified about the price under those beautiful shoes and the secrets under everything else. But for one chapter, Vee got to be entirely, privately hers. Let her have it.
 
-This chapter gave me heat without sex and, for once, I’m not complaining about the lack of explicit action. The bodily response is specific, the choice is charged, and the prose does not coyly pretend she is merely feeling “confident.” She is aroused by being seen. Let her have that truth. Still, the jacket promised wicked explicitness, and my patience with the repeated bedroom cutaways has not magically reset. This bought the book more time because it moved Vee somewhere real.
-
-GATE 31 — The Induction  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: Vee’s deliberate second step gave me exactly the fusion I’m here for: interior change made bodily and erotic. More importantly, she kept part of its meaning from everyone—including Pace—and I desperately needed proof that her awakening could produce something no one else had scripted.
+GATE 31 — The Induction
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: Vee claimed the room with one deliberate step, and nobody else got to author what it meant. The chapter gave me real interior change and genuine erotic charge at once—and Cassie’s terrible sandwich afterward made the whole thing feel loved rather than merely displayed.

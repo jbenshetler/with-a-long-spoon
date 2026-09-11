@@ -1,15 +1,17 @@
-*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
 
-REACTION — Oh, Cassie. She waits until Vee has finished glowing all over the room before she quietly puts a finger on the actual problem: “You don’t come home school nights.” No jealousy, no lecture, no attempt to make Vee’s happiness smaller. Just the fact Vee has stopped counting. That landed because I’ve been watching her disappear into Pace’s house while calling every new degree of disappearance intimacy, and now somebody who loves her without managing her has noticed.
+REACTION — Oh, Cassie. Thank God somebody is counting the nights.
 
-And Vee’s hand going automatically to the side of her breast while she tells the burn story—girl, Cassie saw that entire domestic-naked fantasy in one gesture. Vee thinks she’s talking about tomatoes and tenderness; her body is telling Cassie how completely she lives over there now. The warmth of the house is lovely, Pace caring for the burn for days is lovely, and “warm enough that she never once thought about how much she had on” is extremely my kind of lovely. But Cassie hears the cost underneath all that warmth: Vee is missing nights, sleep, probably class preparation, and apparently hasn’t even noticed the pattern.
+That “You don’t come home school nights” landed harder than any dramatic warning could have, because she isn’t accusing Vee of anything. She’s just holding up the calendar Vee has stopped looking at. Vee is so happy she experiences the weeks as one continuous warm room: food, sex, being watched, being tended, Pace noticing every tiny hurt. I understand completely why she doesn’t want to leave that room. Honestly, the cold cloth against her bare breast and his fussing over the burn for days would probably have me moving toiletries in too. It isn’t only that he gives her pleasure. He treats every part of her as worthy of care, and she has been starving for exactly that.
 
-“I think so” felt more honest to me than a sweeping declaration would have. She knows she loves him privately, but saying it where another person can hear turns the feeling into a fact with consequences. And Cassie doesn’t seize on it. She gives Vee room. That contrast with Randi is becoming almost painful: Cassie asks one clean question and leaves the answer belonging to Vee; Randi can take a confession apart sensation by sensation until Vee is wet, disoriented, and no longer sure whose discovery it was.
+But this is the first time her transformation has looked, from outside, a little like disappearance. More nights in his house than her own, and she didn’t know it until Cassie made her count. That scares me—especially after the drawer, which felt so tender and permanent, and Vee deciding she loves him while he still hasn’t named what she is to him or told her the central truth of his life. He’s making room for her everywhere except inside the actual story she is living.
 
-This was short and quiet, but it tightened the dread beautifully. Vee is incandescent. She is also vanishing from her own bed. Both things are true, and Cassie is the first person inside Vee’s visible life to hold them together.
+And Cassie is so beautifully Cassie about it. She doesn’t interrogate, flatter, style, interpret, or tell Vee what the feeling means. She notices that this is unprecedented, asks the one plain question, and lets Vee’s answer belong entirely to her. “Maybe. I think so.” Oh, baby, no: you know so. The fear is not uncertainty about loving him. It’s that some intact part of you can feel how quickly your whole life has reorganized around a man you do not fully know.
 
-GATE 36 — School Nights  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: Cassie finally named the practical erosion beneath Vee’s happiness, gently enough that Vee couldn’t turn it into opposition. I’m fully in: I need to see whether Vee builds a larger life around this love or simply keeps failing to come home.
+I would text a friend: *She’s spending more nights at his place than her own and didn’t notice, and her roommate is the only person in this book keeping a calendar while everyone else keeps a secret.*
+
+GATE 36 — School Nights
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: This was quiet, but it put a cold fingertip directly against the fever of Vee’s happiness. Cassie counting the nights—and Vee finally saying the word *love* aloud to someone awake—makes me need the truth to arrive before she has moved her entire self into that top drawer.

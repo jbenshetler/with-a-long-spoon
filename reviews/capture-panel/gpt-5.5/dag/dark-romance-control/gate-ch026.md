@@ -1,21 +1,21 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch026 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
 
-REACTION — Oh, this one got me in a different place than I expected.
+REACTION —
 
-The dancing lesson should have been too wholesome for me. Like, on paper: he teaches her country dancing under field lights with a battered boom box? That is dangerously close to adorable. But it worked because it was all about control. Not mean control, not yet, but body control. Frame. Pressure. “Give me something to push back against.” “Being jelly doesn’t work.” “Come all the way in.” That is exactly the kind of instruction that makes my brain light up because she is learning surrender through mechanics and pretending it’s just dancing. Delicious.
+Ohhh, this one got me in that sharp, miserable place I actually like. Not because Pace suddenly became more dangerous in the obvious way, but because the book finally let Vee’s wanting turn ugly on her. Good. Good. Let the sweetness curdle a little. I needed something with teeth after all that warmth by the fire, and here it is: jealousy, humiliation, the horrible discovery that the man who makes you feel singular may also have a whole social history of making women feel safe and lovely and seen.
 
-And I loved that her body gets it before her pride does. She can’t think her way into it. She has to stop anticipating, stop managing, stop trying to be ahead of him, and let the lead arrive through his hand. That is very much the erotic thesis of Pace so far, and I’m not mad about it. The man’s whole thing is “I will build the structure so your yes can happen inside it,” which is morally slippery enough to keep me here even when he’s being kind.
+The dance lesson worked on me more than I expected. “Give me something to push back against” is exactly the kind of line that sounds like instruction and lands somewhere else. The whole thing is basically submission with boots on: frame, pressure, lead, stop anticipating, feel him before you think. That is my flavor. Pace correcting her, not coddling her, making her close the space because the distance is what gets her stepped on? Yes. That has the good clean control in it. Not villainous, still, but very much a man teaching her how to be handled.
 
-The Rusty Nail scene finally gave me the social complication I wanted. Pace having a whole female fan club? Good. Vee realizing she may not be the first girl he made feel transformed? Better. The blonde was mean in the exact way women can be mean while sounding helpful, and I immediately perked up. “Knows how to get a girl to do just what he wants her to” is a knife in a napkin. Thank you. More of that.
+And then the bar. Finally, another world of Pace’s. I liked seeing him known there, liked Vee having to realize she is not the only woman who has ever been warmed by his competence. That blonde was poison in a cute top, and I respect the craft of it. “Knows how to get a girl to do just what he wants her to” is the line that would have made me lose my mind too, because it’s true and not true, dirty and civic-minded at once. Deliciously placed knife.
 
-Vee’s jealousy was embarrassing and very human. I did want to shake her when she said the “service” thing, because Pace has been careful with her in a way that has mattered, and she stabbed him precisely there. But also, I understood why it hurt. She had let herself feel chosen, maybe uniquely chosen, and then walked into a room full of women who already had a version of him. That is brutal when you’re this raw and this new to being wanted.
+Vee’s spiral was painful, but I bought every second. The old shame comes roaring back so fast: not special, just next, spread her legs like a slut. I hate it for her and also, sorry, I love when a heroine’s desire exposes the old wiring instead of magically healing it. She knows she’s being unfair and still chooses the wound. That’s very human and very useful for this story, because all the conspiracy stuff is going to hit exactly there someday. If she can turn “he safely drives drunk girls home” into betrayal, what is she going to do with “your closest friend and your lover chose you before you knew”?
 
-The bartender save was maybe a little clean, but I ate it anyway because it hurt her properly. The reveal that the girls were jealous of *her*, not possessive of him, turned the whole room around. And now Vee has to go to Randi to confess/fix/process, which is exactly where the danger lives. Because Randi is going to make this mean something. Randi is going to touch the bruise and name it. I am absolutely seated for that.
+The bartender scene saved Pace without making Vee look stupid. I like that. He isn’t running a harem. The girls weren’t jealous because Pace was available; they were jealous because Vee was the date. That landed. And yet I’m also a little restless because Pace keeps being proven good. The book is giving me control and obsession-adjacent precision, but it keeps laundering him through decency. I still want the darker room opened. I want him and Randi in the same frame with the plan visible. I want Vee’s apology to not just be healthy communication, please God. I want it to cost her. I want Randi’s door next, because going to Randi after hurting Pace is exactly the kind of “wrong confessional” that can get interesting fast.
 
-My only almost-worry is that Pace is looking very, very good right now. Noble safe-ride Pace, misunderstood-by-jealous-girls Pace, left-his-beer-and-went-home Pace. I need the trap architecture to come back harder soon, because if this becomes “sweet boyfriend teaches insecure girl to trust,” I’ll start drifting. But the chapter still has enough charge because submission is being taught as a dance step, and because Vee is about to take the whole mess to Randi, who is never just a friend.
+Also: Vee sleeping in the washed shirt that no longer smells like him hurt me. That was the saddest little domestic corpse. Fabric softener and no one. Brutal.
 
-GATE 26 — Lesson  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: “He made them feel safe, and like real people. He kept them safe.”  
-WHY: I got nervous for one second that Pace was being polished into pure good-man boyfriend material, but the dance lesson had real control heat and the jealousy scene finally put teeth back in the room. Also Vee going to Randi after this mistake is exactly the wrong/right move, and I want to see what Randi does with it.
+GATE 26 — Lesson
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: "I don't need you to get me home safely."
+WHY: The fight scared up Vee’s shame and jealousy in a way I’ve been waiting for, and the dance lesson was hot control disguised as instruction. I’m continuing hard, mostly because she’s going to Randi now, and Randi with a guilty, sleepless Vee is not a neutral destination.

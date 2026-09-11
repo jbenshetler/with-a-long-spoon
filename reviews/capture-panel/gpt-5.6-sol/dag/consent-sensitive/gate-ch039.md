@@ -1,19 +1,23 @@
-*capture-dag-v2-rich · gate ch039 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch039 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — Oh, this hurt in such a quiet, precise way. Vee finally sees something Randi did not mean her to see—and her instinct is not to pry, expose, interpret, or use it. She gives Randi busywork. She protects her dignity. She keeps her inside the group until she can become herself again. That is what actual tenderness looks like, and the terrible thing is that Randi has been receiving this quality of care from Vee while doing almost the exact opposite with Vee’s vulnerabilities: observing them, shaping them, reporting them, turning them into leverage.
+REACTION
 
-And Vee doesn’t even take pleasure in being the one who knows more for once. She immediately decides the kindest possible story: Randi is innocent, her father did it, she has just discovered it, none of the shame belongs to her. I think Vee is probably right about Randi’s shock—it felt utterly unperformed—but I noticed how automatically she supplies every missing fact in the direction of mercy. She does this with Pace too. When she loves someone, she builds the version of events that hurts them least, then lives inside it as if she found it rather than made it. That generosity is beautiful. It also makes her catastrophically easy to deceive.
+Oh, Vee. She sees Randi’s face change by half a degree, understands immediately that something private and terrible has happened, and—without demanding a confession, without forcing her to perform pain—quietly gives her useful work until she can put herself back together. That is such exquisitely decent care. It is exactly the kind of room Vee herself is almost never given. And she does it instinctively.
 
-“Randi had no idea she’d been looked at” landed hard. Randi, who looks at Vee for a living at this point. Randi, who can read a flush, a pause, a shifted thigh, then press exactly where the answer is. For once Vee is the silent watcher and Randi the exposed one—and Vee refuses to turn knowledge into control. The moral contrast is enormous, and the book absolutely knows it.
+Which makes me want to shake Randi until her teeth rattle.
 
-I’m also intensely suspicious of the name Miranda Holdings. Maybe it is simply a vanity company her father named after her, but that means Randi’s identity has literally been stamped onto his extraction without her knowledge or consent. She is the glamorous beneficiary and, publicly, the name on the point. No wonder “cheating bastards” came out ragged. And now she has to stand beside Cassie, whose father was laid off, knowing her own family may be the concentrated little embodiment of exactly what hurt Cassie’s. That glass room suddenly felt airless.
+Vee protects her from one moment of unwanted exposure while Randi has spent months arranging Vee’s exposures, collecting her confidences, drawing out sexual details, and passing curated versions of her to Pace. Vee notices that Randi doesn’t know she has been looked at, and treats that ignorance as something sacred. Randi knows Vee doesn’t know she is being watched and managed, and treats that ignorance as part of the mechanism. The asymmetry is brutal.
 
-The outlier image is doing almost too much to me. Individually, Randi can be loving, wounded, generous, genuinely horrified. Put her into the larger structure and the meaning changes. Individually, every one of Vee’s yeses is true. Put them beside all the information Pace and Randi share, and the shape changes. You can set aside an outlier if you can account for it—but these people keep treating the facts that might overturn their preferred model as exceptional points they need not integrate.
+And now I understand Cassie’s stake in the project differently too. Her flatness is not lack of feeling; it is how she carries feeling without making other people hold it for her. Her father lost his job while families like Randi’s took money meant to prevent exactly that. Cassie is correct, and Vee’s kindness to Randi requires leaving Cassie unknowingly beside the daughter of the people whose fraud embodies the harm done to her family. Vee doesn’t know enough to solve that moral collision. Once again, she has been placed in the middle with only part of the map.
 
-And Cassie, again, says the devastating thing without knowing she is saying it: “That’s not the exception. That’s just the one that’s easy to see.” Yes. Exactly. I want to text someone at one in the morning: VEE JUST CAUGHT RANDI INSIDE HER OWN FAMILY’S LIE AND COVERED HER WITH KINDNESS, AND RANDI STILL HAS NO IDEA WHAT KIND OF WOMAN SHE IS BETRAYING.
+The outlier metaphor is making me deeply uneasy in the best way. Vee believes Randi is innocent because she had “no hand in it,” and on this evidence she may be. But that is also the charitable interpretation Vee keeps giving people she loves: the individual act can be set aside and accounted for; the person can be separated from the pattern. Meanwhile the pattern is sitting right there, enormous and visible if you know where to look. This book absolutely knows what it is doing.
 
-GATE 39 — The Outlier  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: The reversal of who possesses the hidden information has me completely. Vee’s instinctive mercy makes me love her more and dread the eventual disclosure more, because Pace and Randi have not extended her the same ethical care she just gave Randi without hesitation.
+Also: Randi saying “Cheating bastards” genuinely shook me. That did not feel like a polished deflection. It felt like discovery, betrayal, and possibly the first crack in whatever story she tells herself about her family and the authority that comes with their money. I’m furious with her, but I felt for her. Worse, I suspect Vee’s silent protection will matter to her profoundly if she ever learns about it—and Vee may never use that goodness as leverage, because that isn’t how Vee loves.
+
+I’m completely caught. The sexual conspiracy is still the loaded gun, but now the book has placed a financial and class betrayal underneath the friendship too, and made Vee’s compassion the thing that keeps the truth hidden. That hurts beautifully.
+
+GATE 39 — The Outlier
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: Vee extending exactly the privacy and unengineered care that Randi denies her is devastating. The book sees every layer of that imbalance, and the outlier sitting visibly outside the pattern feels like a warning about all three of them.

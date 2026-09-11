@@ -1,17 +1,19 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch035 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, this chapter got me in the soft underbelly, which is dangerous because softness is usually where I start side-eyeing a book. But here it doesn’t feel wholesome in the boring way. It feels like possession by furniture placement. Which is frankly much worse for me.
+Oh, this chapter got me in the soft underbelly, which is dangerous because I do not come here for wholesome drawer allocation, thank you very much, and yet. Yet. I’m not immune to a man rearranging the architecture of his life without asking to be applauded for it.
 
-The sex itself is mostly aftermath-glow here, but I didn’t mind because the chapter is doing that domestic claiming thing where every tender gesture has a hook in it. He lifts her off the porch before she even gets to the door. He feeds her. He comes back to her an hour later. She says his real name into his sleeping ear like a secret vow. And then the bathroom drawer. God. The top drawer is such a quiet little collar. No speech, no “let’s define this,” no healthy couple talk. He just moves his own life down and makes hers easier to reach. That is exactly the kind of tenderness I can take: wordless, unilateral, intimate enough to make me nervous.
+The beginning had that post-week-apart hunger I wanted. The door opening before she reaches it, him lifting her, coats dropped, not making it to any proper room — yes. That felt like the right animal impatience after all this slow control. And then the thing that keeps making Pace work for me is that he has this restraint that doesn’t read polite anymore. It reads like appetite disciplined into ritual. He’s not asking permission every two seconds in a way that dries the room out; he’s making space and then filling it with exactly what he knows she’ll give. That’s different. That has teeth, just quiet ones.
 
-Vee saying she loves him this cleanly scares me, because she is now fully, fully inside. She is not flirting with danger anymore; she is nesting in it. And the book knows that. “He never said” lands twice, and I felt both. It’s romantic and it’s also a tiny alarm. He doesn’t say what he wants. He makes conditions. He arranges the house. He creates a place for her and lets her discover it, which is devastating, but also: this man and Randi both specialize in letting Vee think the conclusion arrived naturally because she found the evidence herself.
+But Vee saying she loves him while he’s asleep and calling him Peter? God. That one landed. Because she’s not just in lust now, not just “my body is betraying me,” not just the hot shame spiral. She is building a whole religion out of evidence. Salmon. Tomatoes. Scrunchies. His body coming back to hers after dinner. And because he hasn’t said the word, she is doing the fatal girl math where every act becomes proof. I don’t even think she’s wrong, which makes it worse. He is absolutely saying something. But he is also still part of a plan she doesn’t know about, and watching her settle into love under that roof made my stomach drop.
 
-I did almost miss Randi, though. After that brunch kiss with pastry sugar on Vee’s mouth, I wanted the next turn of the screw there. This chapter is all Pace, all house, all being kept, and it works, but my favorite danger is still the two-person trap. The drawer keeps me hooked because it feels like one more physical proof that Vee is being absorbed. But I am impatient now. She loves him. She is accepting drawers. She has her bag there. We are ready for the lie underneath all this to start pressing up through the floorboards.
+The bathroom drawer. I hate that I loved it. I really do. Because if you’d told me “chapter about toiletries” I’d have rolled my eyes so hard I’d see last week. But it’s not domestic sweetness exactly. It’s possession by infrastructure. He doesn’t say, “You’re welcome here.” He moves his blades and comb and gives her the top drawer, the first reach, the reflex place. That is intimate in a way flowers are not. It’s also terrifying because Vee reads it as a place made for her, and I read it as another lock clicking softly into place. No note. No discussion. Just: your things live here now. Your body has a drawer in my house.
 
-GATE 35 — Above Him  
-DECISION: CONTINUE  
-CAPTURE: 7  
-ALMOST-STOPPED: “He'd gone and made her a place instead.”  
-WHY: I came closest to balking because this is very tender-domestic on the surface, and that can lose me fast. But the drawer gesture has enough silent ownership in it to keep the knife under the silk, and Vee loving him while he still “never said” keeps me tense.
+And the chapter knows how much she needs the unsaid. “He never said.” That’s the whole trap. Pace’s silence is becoming the most erotic and most dangerous thing about him. He doesn’t explain, doesn’t reassure, doesn’t make a speech. He alters reality around her and lets her discover it. I’m embarrassingly vulnerable to that. I still want the knife back on the table soon — Randi, the plan, the reveal, the scar, something with blood in it emotionally — but this did enough because the tenderness felt like capture, not comfort.
+
+GATE 35 — Above Him
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: “He'd cooked after, the way he near always did.”
+WHY: For one second I worried we were drifting into cozy girlfriend weekends and tasteful salmon, but then the drawer turned it. This chapter is quiet, but it’s quietly dangerous: Vee is in love, Pace is making room like a claim, and the secret plan is now hanging over real devotion like a blade.

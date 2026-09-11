@@ -1,19 +1,25 @@
-*capture-dag-v2-rich · gate ch041 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch041 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
 
 REACTION
 
-Oh, Cassie. “She didn’t push at it. Vee was grateful. She was also, a little, not.” That got me. Because Vee keeps accepting silence as love and then aching when nobody makes her say the thing. Pace won’t name what she is to him. Cassie won’t trespass. Vee won’t tell either of them what she needs. Everyone is being so respectful around the empty space that she is quietly starving inside it.
+Oh, Cassie. She asks one clean question and suddenly every drawer, shirt, meal, orgasm, and withheld fact is standing behind Vee demanding a name.
 
-The cropped photograph is almost too perfect. Her parents get the honorable daughter from the waist up. Her father gets the acceptable boyfriend facts. Her mother gets shoulders she can disapprove of without speaking. Nobody gets the bare hip, the deliberate stride, the naked costume afterward, the woman who wants Randi, or the fact that Vee privately calls this love while putting a question mark on “boyfriend” aloud. She is not lying, exactly. She is cropping herself differently for everyone.
+What got me is that Vee can explain Pace beautifully through particulars—he made the dress because she once wanted something she couldn’t afford; he taught her to dance before taking her dancing—but cannot say what he is to her. Not because her feelings are vague. They’re enormous. The relationship itself is vague, because Pace has let it become domestically and erotically profound without ever giving her the plain information that would let her name it. She told her parents “boyfriend” with a question mark because no one has actually offered her the declarative sentence. That made me sadder and angrier than another overtly sinister clue would have.
 
-And the dress—God. Her father could understand Pace taking it off her more easily than Pace sewing it for her, and I understand exactly what she means. Sex could be filed under ordinary male appetite. That level of intimate attention cannot. Pace heard one passing wish, learned her body well enough to build around it, and made her something that altered how she moved through a room. That is stranger and more exposing than saying they sleep together. It also makes the undisclosed triangle hurt worse: he knows her with astonishing specificity, yet she cannot answer the simplest adult question about what he is to her.
+And the cropping motif hurts. She cropped the induction photograph for her parents, cropped the nude for Randi, and keeps giving Cassie the parts of Pace that fit. Meanwhile Pace and Randi have cropped the whole structure of her life before presenting it to her. Everyone receives a tailored version; Vee is the person missing the most consequential part.
 
-Cassie’s question is the right one, and her restraint remains both gorgeous and maddening. She gives Vee ownership of the answer. Randi would have gently dismantled “both” until Vee confessed something with her whole body; Cassie accepts it and returns to dinner. That is why Cassie is safe—and why Vee feels the tiny stab of disappointment. She wants someone to insist she is legible. I wanted Cassie to ask once more, too, even though not asking is exactly why I trust her.
+Her father’s suspicion also landed. He doesn’t know enough to identify the catch, but he correctly feels that “too good” can conceal one. Except the dress really is that loving. Pace really did hear an idle wish, remember it, acquire the skill, and make beauty precisely for her body. I refuse to flatten that into mere grooming machinery—and that is exactly why the deception is going to be catastrophic. The good facts are good. They just don’t add up to the story Vee thinks she is living.
 
-This chapter didn’t give me the disclosure or heat I’ve been waiting for, and at chapter forty-one my patience for postponement is getting thin. But this was not throat-clearing. It showed me the emotional cost of all those unnamed arrangements: Vee has a life intense enough to consume her, and she still cannot produce one clean sentence about it for the person who loves her without an agenda.
+I loved Vee’s thoughts about weird being worse than wrong. That is actual interior life: she understands how her father sorts the world, and she has begun to understand that Pace has awakened something in her that cannot survive inside those categories. “I’m not ashamed of it. The opposite” felt quietly huge. She isn’t protecting the sewing because she finds it emasculating; she is protecting something precious from being diminished by a person who lacks the language for it.
 
-GATE 41 — Cropped  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: Cassie’s “What is he—to you?” went straight into the central wound, and Vee’s disappointment at being given the privacy she claimed to want hurt beautifully. I still need the book to open the hidden triangle very soon, but I’m absolutely turning the page.
+But then Cassie asks, “So what is he?” and Vee has no language either. That parallel is brutal.
+
+Cassie remains the only person who leaves silence unexploited. She asks whether Vee can’t answer or won’t, accepts “both,” and returns to her food. No lever, no teasing challenge, no interpretation planted for Vee to mistake as her own. And Vee is grateful and disappointed because she wanted someone safe to press until the truth—or at least the question—came out. I wanted Cassie to press too, while knowing her refusal is precisely why I trust her.
+
+This chapter wasn’t hot, but it tightened the emotional vise. I’m still absolutely in. I need Vee to take Cassie’s question to Pace and make him answer it without a beautifully precise substitution.
+
+GATE 41 — Cropped
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: “So what is he… To you” exposed the central absence beneath all that intimacy, and the repeated cropping made Vee’s partial understanding ache. Cassie’s restraint only sharpened it: she is the one person who won’t manufacture Vee’s answer for her.

@@ -1,27 +1,19 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch049 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
 
-REACTION — 
+REACTION — Oh. Well, there it is. Pace finally alone with himself, and it is both satisfying and awful, because yes, I wanted inside him, and yes, I wanted proof that he knew exactly what he did wrong. And the book gives it to me without letting him off. He knew. He knew on the porch. He felt the real answer rise and chose the smaller truth. That is the sentence I have been waiting to hear and also the one that makes me want to throw something soft at him very hard.
 
-Oh, this one had me by the throat because it did the thing I’ve been waiting for and dreading: it put Vee back with Randi when Vee is at her most breakable, and Randi is so good at being exactly the person she needs that I wanted to crawl into the hug too, even while a part of me was sitting bolt upright going, *girl, be careful who is holding the map.*
+The bleach got me first. Not even the whiskey, the bleach. This man who manages rooms, food, heat, bodies, edges, consent, sequence, sensation, has been sick and then cleaned it up like discipline can mop grief off a floor. And then he sous-vide reheats chicken and broccoli like a sad astronaut because his body requires inputs. Prison food, exactly. Without Vee, his whole beautiful food language collapses into nutrition. That hurt more than if he’d just stared at a wall.
 
-Vee coming back from break wrecked me a little. The silence from Pace has hardened into this awful blank space she keeps trying to read, and because he won’t name anything, her imagination fills the whole room with another woman. I believed every bit of that panic. Not because I think Pace is actually off cooking for some blonde fantasy, but because Vee has no standing, no word, no handle to grab. That is the cruelty of his “believe what I do” philosophy: when he is not doing anything where she can see it, she has nothing. His steadiness becomes absence the second she’s out of the house.
+And Daphne. Finally Daphne. Not all of it, but enough to make the locked room crack open. I believe this wound. I believe a young brilliant boy who knew math and not life, being shown the world by an older woman, making her his whole map, and then losing not only the lover but the person he would have told about losing her. That line was brutal. “There had been no one to tell that Daphne was gone. Daphne was the person he would have told.” I had to sit with that one. That is grown-up romance pain. Not “my ex cheated so now I’m mean in a tailored suit,” but a psychological mechanism I can actually feel forming: say the words once, lose everything; never say them again, survive.
 
-And then Randi. God. Randi is dangerous because she is not wrong. That’s what makes her impossible. She sees through the fear immediately. She separates the real evidence from the 3 a.m. invented Sheri. She remembers the house warmed for Vee, the wine poured, the phone in the other room, the fact that Vee was the one who cut back the weeknights because Pace was basically sexing her GPA into the ground. She gives Vee back reality when Vee can’t hold it herself. That is friendship. That is care.
+But, Pace, my love, my infuriating careful man: trauma is an explanation, not a hall pass. And the chapter knows it. He hurt Vee because he was afraid she could hurt him. He believed not saying it would make it hurt less. Then he gets the truck fake-out and absolutely breaks, and I am sorry, I ate that with a spoon. I wanted him miserable enough to understand the cost. Not punished, exactly, but brought down into the truth of it. And he is.
 
-And it is also steering. Deep, intimate, erotic steering.
+The thing that keeps this from being just satisfying male suffering is that his longing is so specific. He misses her arriving. He misses the first bite reaching her. He misses her unguarded body in the hallway, her asleep with the questions gone from her face. He doesn’t miss “having a girlfriend.” He misses Vee, in the exact places where she changed the air in his house. So yes, I still believe him. I am still furious. I am also leaning forward hard enough to dent the table, because now he knows the words matter, and I need to see whether he can spend them before Randi gets back into Vee’s bloodstream and the whole triangle catches fire.
 
-The coat idea lit me up, I’m not pretending otherwise. That is exactly the kind of “shame turned into heat” this book knows how to do without making it stupid. Vee saying “nothing under it” herself, then immediately running into the word “slutty,” and Randi walking her through it like a priestess of bad decisions and good sex? Yes. Absolutely yes. That is hot because it is not just a stunt. It answers the whole fight in Pace’s language: no more words, just the body making a declaration. But it also terrifies me because Randi has just aimed Vee’s whole naked vulnerability straight back at Pace before Pace has had to fix the thing he broke. Vee is going to offer herself as a peace sign when he is the one who withheld the word. I want the scene desperately. I also want someone to make Pace sweat.
+Also: “Whiskey River was a liar” made me laugh in the bleakest way. Sir, Willie Nelson cannot save you from emotional accountability.
 
-And the heels. Of course the heels. Randi putting her shoes on Vee again before sending her to Pace bare under a coat is so loaded I could hear the floor creak under it. Randi is not only helping Vee get him back; she is putting herself into the scene. She knows it. I know it. Vee probably doesn’t, or won’t let herself.
-
-Then the New Year retelling was almost mean in the best way, because we know the real Randi chapter underneath it. Vee hears fairytale, forward motion, a man naming children on a lift and not being afraid of a future-shaped joke, and of course it goes sideways into her Pace wound. Meanwhile Randi edits out the deadness after sex, turns John into “perfect everywhere but the bedroom,” and lets Vee laugh. Again: true enough, false enough. Randi gives people the version that keeps the room moving.
-
-The hug and kiss at the end felt so ordinary and so not ordinary. “Only what they did” made my stomach flip because that is exactly how you normalize crossing a line before anyone admits there’s a line. Randi is waiting for Vee to “arrive at it on her own,” and every chapter now feels like Randi setting out candles along the path and pretending she didn’t.
-
-I am completely in. I want tonight at Pace’s door badly enough that I’m annoyed the chapter ended here. But my stomach is tight because Vee is about to walk in with nothing under the coat and all the emotional risk still under the rug.
-
-GATE 49 — My Friend Randi  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: "No man opens that coat for a woman who needs a shower and eight hours first."  
-WHY: I winced at the joke because it briefly punctured the spell in a broader, sitcom-ish way, but the chapter had already earned too much from me. Randi’s comfort is real, her manipulation is real, and Vee being sent back to Pace bare under a coat is exactly the kind of emotionally loaded heat I’m here for.
+GATE 49 — Not Enough
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This chapter gave me the thing I needed: Pace’s interior reckoning, not as excuse but as exposure. The heat isn’t on-page sex here, but the charge is absolutely alive because every remembered bite, shirt, bed, and arrival is eroticized by absence. I am fully back in.

@@ -1,23 +1,23 @@
-*capture-dag-v2-rich · gate ch029 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch029 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh, this chapter got me exactly where I live, and not even in the obvious place first. The opening with the shoes almost killed me because Vee comes armed for dignity and accidentally makes herself taller than him, and immediately collapses into apology because she thinks even her body in the room can be disrespect. And Pace just takes the pie out of her hands, fixes the scarf, and says that ridiculous line about beauty loaned from the gods like it’s nothing. I would have folded. I hate how good he is at that. He doesn’t chase, doesn’t punish, doesn’t make her crawl, but somehow the power is still there because he sees the panic before she can dress it up and removes the prop from her hands.
+Oh, this one got me.
 
-The actual apology worked for me because it didn’t stay neat. I liked that she had her polished little speech and then he asked the one question she didn’t prepare for: what happened? That is so much more intimate than “I forgive you.” He wants the mechanism. He wants the wound under the behavior. And Vee having to admit she picked up the lie because some part of her was waiting for one — ouch. That’s the kind of psychological exposure I buy this book for. Not wholesome. Surgical.
+The heels making her taller than him should have been funny, and it *was*, but also it stabbed straight into that whole delicate power balance the book keeps playing with. Vee walking in to apologize and immediately panicking because her body, her clothes, even borrowed beauty might be saying the wrong thing before she can speak — that is so painfully her. And Pace taking the pie, righting her, fixing the scarf, and then giving her that ridiculous god-loaned-beauty line in his calm voice? I folded. I really did. He is so dangerous when he is kind because it never feels bland. It feels like he knows exactly where the latch is.
 
-And then. The kitchen.
+The apology worked for me more than I expected because it didn’t stay neat. I was braced for too much wholesome repair, honestly. But then he asked what happened, and there it was: the pretty little apology machine broke open and she had to actually tell him the humiliating, jealous, ugly part. That’s the good stuff. Not “I’m sorry I was rude,” but “a stranger handed me a lie and I picked it up because I was already waiting for one.” That’s naked in a way that is hotter than the apology dress.
 
-The tickling almost scared me for a second because I thought we were going soft-domestic-cute, but no, the chapter knew exactly what it was doing. The slap was so small and accidental-playful and then her body just betrays her in full daylight. That was hot because it was not staged. She didn’t have language, didn’t have Randi there to translate, didn’t even have the dark to hide in. Pace sees it. Of course he sees it. And then she tries to bury the evidence under sex, which is such a Vee move: if she can make it desire she chose, maybe it won’t be a desire that happened to her.
+And then the chapter gives me the thing I wanted without over-explaining it: the accidental slap. The kitchen. The dishes. The silly domestic soaking argument turning in one second into *oh*. That hit exactly my shelf. Not because it was huge or theatrical, but because it was discovered. She didn’t know that door was there until his hand landed on it, and then Pace saw it before she could hide it from herself. Delicious. Horrifying for her. Perfect for me.
 
-But the best part is that he doesn’t escalate it into some cheesy “now we know your kink” scene. He just puts his hand there later. No new strike. Just heat over the sting, his palm covering the evidence, and asks, “This?” I actually put the book down in my head for a second. That is the knife under the silk. That’s the door opening. Her “please” not even knowing what it’s asking for is filthy in the exact right way, because it’s not just pain, it’s recognition. She has been wanting to be handled, held, directed, seen in the place she doesn’t want named, and now her body has given Pace a map.
+What I loved most is that he doesn’t immediately turn it into a lecture or a negotiated scene or some clean little erotic taxonomy. He sees. He waits. She runs her mouth to keep the question out of the room. He lets her. Then later his hand returns to the place and just *keeps* it there. No fresh strike, no big declaration, just pressure over the mark and “This?” I mean. Yes. Yes, that is precisely the knife under the silk. That is the door with his hand on the handle.
 
-I am also very alert now because Randi seeded this. Randi told her the tickling helplessness story earlier, Randi dressed her for the apology, Randi sent her in sure, and now Pace has found another live wire. Are they sharing notes? Did Randi know Vee would respond to being tended, steadied, corrected, maybe lightly hurt? I don’t know, but I’m watching the triangle tighten.
+The danger here is still not “Pace is mean.” It’s worse and better: Pace is observant, patient, and capable of waiting until Vee asks without knowing what she’s asking for. And Randi is all over this even when she isn’t in the room: the shoes, the scarf, the instruction to go in sure, the borrowed armor. Vee goes to Pace dressed by Randi and undone by Pace. That triangle is getting so good I want to bite something.
 
-The ending with her smelling entirely of him should maybe be too sweet for me, but it isn’t, because it’s possession wearing domestic clothes. His shirt, his shampoo, his soap, his house, no bag, no exit plan. She’s being absorbed into him by accident and loving it. And then that last “You’re always beautiful” is tender, yes, but it lands after he has seen the thing she can’t name, so the tenderness has teeth now.
+The only place I twitched was the ending drifting soft again with the two-night stay and the “always beautiful” bathroom moment. On another book I’d be suspicious of too much tenderness. But after the kitchen/bedroom discovery, I’ll allow it. The sweetness feels like cover now. The pan soaking down the hall while Vee discovers she wants his hand on the place he hurt her? That buys a lot of domestic afterglow from me.
 
-GATE 29 — A Recognized Method  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “Come back to bed,” she said, muffled. “Let them soak.”  
-WHY: I almost worried we were sliding into cozy girlfriend weekend, but then the kitchen turned and the whole chapter got dangerous under the skin. Pace finding that response in her, quietly, without naming it or making it safe, has me locked in.
+GATE 29 — A Recognized Method
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: "You're always beautiful."
+WHY: That line came close to tipping too purely tender for me, but the chapter had already earned it with the kitchen slap and the silent recognition afterward. I’m very in now: Vee has found a new appetite, Pace has seen it, and Randi’s borrowed shoes are still under the whole scene like a dare.

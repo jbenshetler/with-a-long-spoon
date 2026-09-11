@@ -1,23 +1,23 @@
-*capture-dag-v2-rich · gate ch018 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-09*
+*capture-dag-v2-rich · gate ch018 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
 
 REACTION — Oh. Oh, this is what I have been waiting for.
 
-The fact that she comes to him already wanting—buys the green satin, paints her toes, fills the bed with rejected outfits, sleeps in his shirt chasing the last trace of his smell—and the book lets all of that belong to her before he touches her is everything to me. She isn’t swept into his appetite. She arrives famished with her own.
+The question on his knees absolutely undid me: “Would you be bothered if I was too hard?” Because he sees the exact place where her shame is trying to swallow her, and he doesn’t pretend not to see it or offer some polite reassurance that would leave the shame intact. He asks whether she can bear proof that he wants her. He makes his desire something she is permitted to choose too. That is the tenderness and dominance together—that is it.
 
-And Pace. “Would you be bothered if I was too hard?” nearly killed me. He sees the evidence she has spent her whole life treating as an accusation, and instead of exposing her or pretending not to notice, he offers his own body’s helpless answer beside it. Not *I know what your wetness means*. Not *your body has already consented*. A question. Room for her answer. Then he is glad of all of her—her wetness, her noise, her greed, the part that reaches and rides and says yes without polishing it first. This is exactly the tenderness and dominance I came for.
+And Vee is so gloriously, unmistakably active in this. She buys the green satin. She paints her toes. She kisses him first, pulls off his apron, asks for his bedroom, puts her hand in his hair, pulls him up, pulls him in, says yes. Even when her hips answer before she can arrange the answer into words, he pauses and waits instead of treating her body as permission. I noticed that very sharply because of my worry about Pace trusting bodies too much. Here, he does read her body, but only after she has taken him to the bedroom, undressed him, drawn him close, and repeatedly chosen forward. The whole scene belongs to her desire.
 
-I did feel the old alarm twitch when her hips “told him,” because Pace’s faith in bodies still worries me. Desire is not permission. But here it didn’t feel like he overrode her: she initiated the kiss, asked for the bedroom, undressed him, pulled him down, drew him in with her heels, and then said yes aloud—twice. Her whole evening was a series of choices moving in the same direction. When his restraint finally breaks, it feels given to her, not taken from her.
+And God, the moment “the careful thing in him let go.” Yes. That is precisely why his restraint has been so erotic: when he finally stops governing himself, it means something. She hasn’t been overwhelmed into surrender; she has been asking and asking until he trusts the answer enough to give her his full weight, his strength, his hunger. His helpless sound mattered to me too. He isn’t performing control from some untouchable height. She gets to undo him.
 
-And the shame not disappearing but failing, for once, to close her—God. That got me more than the sex itself. I don’t need her magically cured by the right man. I believe this: the inherited voice still firing, the heat traveling on the same wire, and pleasure carrying her through without requiring her to become some fearless different woman first. “It was the first time that had been true” landed right in my chest.
+What moved me most, though, was that her shame never magically disappeared. It ran beside the pleasure and failed, for the first time, to close her. That feels enormous. Pace doesn’t cure her with one worshipful look; he gives her somewhere safe enough to discover that shame can speak without getting the final vote. I felt that in my chest.
 
-Then dinner. No performance, no awkward interrogation, no sudden emotional withdrawal—just hot food, wine, quiet, her body peaceful, the evening having “used her well.” That warmth afterward is why the explicitness means something. I’m not watching two attractive bodies complete a scene; I’m watching these two particular people arrive somewhere together.
+Then they eat in companionable silence, and somehow that was almost as intimate as the sex. No abrupt tonal switch, no conquest completed, no awkward reassurance campaign. He feeds the hungry woman who has just discovered she is allowed to be famished. “The evening had used her well” is exactly the feeling I wanted this book to give me.
 
-And that final trade. His handmade flannel, saturated now with her wearing and wanting, exchanged for the green panties she deliberately chose and then deliberately folds with the evidence centered. She takes the thing she was most ashamed of and makes it a gift. I would text a friend at one in the morning: **SHE HANDED HIM THE PANTIES WITH THE SPOT PURPOSEFULLY. I AM UNWELL.**
+And the trade. The panties she chose for him, folded with the evidence of her wanting deliberately centered, offered without apology in exchange for his shirt. I nearly screamed. She takes the very thing that terrified her during the fitting and turns it into a gift she chooses to give. “Something in his shoulders was private and she let it be private” is such a tender reversal too: he has spent all this time making room for what belongs to her, and she gives him the same grace.
 
-I’m completely gone for them right now—which only makes the secret underneath all this more frightening. Because this was real. Her choices were real, his care was real, the hunger was real. When she discovers he and Randi chose her before she ever walked through that door, it is going to contaminate memories that currently feel sacred. The book had better let that wound be as real as this pleasure was.
+I am extremely gone over them now—which makes the secret plan more dangerous, not less. This was real. Her desire was real, his care was real, and that means the eventual discovery can actually break something precious. Pace has earned so much trust inside the room while still withholding the truth outside it. I need him to understand that consent to every touch does not retroactively become consent to being selected and arranged. But tonight? Tonight he gave her exactly the room she needed, and she filled every inch of it herself.
 
-GATE 18 — Famished  
-DECISION: CONTINUE  
-CAPTURE: 10  
-ALMOST-STOPPED: none  
-WHY: This gave me exactly the heat I wanted while keeping Vee’s desire unmistakably hers and Pace’s dominance attentive to her answer. The green-panties trade finished me: she turned the proof of her appetite from shame into an offering, and I have to know what he does with it.
+GATE 18 — Famished
+DECISION: CONTINUE
+CAPTURE: 10
+ALMOST-STOPPED: none
+WHY: This delivered the heat, control, tenderness, and unmistakably self-owned female desire I have been reading toward. Vee’s shame remained real but lost its power to close her, and Pace waited for her choices until she actively pulled the restraint out of him.

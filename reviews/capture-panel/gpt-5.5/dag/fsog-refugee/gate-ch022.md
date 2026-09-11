@@ -1,21 +1,17 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch022 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — 
+REACTION — Oh, I loved this quieter little hinge of a chapter more than I expected to. It’s not a big sex chapter after “Peekaboo,” but it’s still humming from it, like Vee has walked into the day with his hands still on her. The whole “late to everything and it didn’t bother her a whit” feeling is so right after a night that has rearranged your private weather. She is not performing happiness. She is leaking it.
 
-Oh, this one got under me in a quieter way than the dress chapter, but maybe deeper, because it put Vee exactly where I want her and exactly where I’m afraid for her: between Cassie and Randi.
+Cassie got me here. My heart did that little clutch when Vee realizes Cassie hasn’t been listening to the lecture at all, because Cassie doesn’t care about the dress, she cares about *Vee*. That is such a clean kind of love. Not dazzled by silk, not seduced by the myth, just watching her friend’s face and checking whether this man and this whole situation have left her glowing or hurt. “Was it a good night?” almost undid me. That’s the question from the one person who isn’t trying to use the story for heat.
 
-Cassie asking, “Was it a good night?” nearly undid me. That is such a clean little mercy. She does not care about the glamour, the slit, the shoes, the drama, the performance. She sees that Vee did not come home and that Vee is shining, and the thing she wants to know is whether her friend is okay. Not “what happened,” not “what did he do,” not even “are you being stupid.” Just: was it good? And when Vee says yes, Cassie eases. I love her for that. I trust her more every time she refuses to make Vee smaller.
+Randi, though. God. “You lucky slut” is exactly the kind of thing that can be hot in the right mouth and dangerous in the wrong timing, and here it did both. It hits Vee’s body because Vee *is* feeling deliciously used and sore and transformed, but it also reminds me that Randi has such an instinct for where the seam is. She finds the exposed place instantly: the shoes. The incompletion. The next door. And then she turns it into a date before Vee can even breathe around it. “Don’t you dare tell me no” is flirtatious, yes, but because it’s Randi, because of everything we know and Vee doesn’t, I felt the little chill under the warmth. I don’t think Vee experienced it as pressure. I think she experienced it as being swept up by someone competent and glamorous who knows how to finish the fantasy. Which is precisely why I’m nervous.
 
-Randi, meanwhile. God. “You lucky slut” is exactly the kind of thing that can be hot and affectionate and poisonous all at once, and the book knows it. Vee feels it in her body, not as a joke floating above the room but as something that drops straight into the soreness and secrecy of the morning. I can’t pretend I didn’t like the heat of that. I did. But I also felt the little hook. Randi knows where the shame lives, and she keeps touching it beautifully. That is why she scares me.
+And the stats lecture! I am not usually here for classroom metaphor, but this one landed in my stomach. Same numbers, different grouping, different truth. That feels like the whole book quietly tapping the glass. Each yes on its own: real. Put them together with the plan behind them: something changes. Nobody touched one of the numbers. That is the problem. That is exactly the problem.
 
-And then “Don’t you dare tell me no.” I actually stiffened. In another book, that would be flirt-banter and I’d be expected to swoon. Here, because the whole thing is about the difference between invitation and pressure, I heard the problem in it. Vee “didn’t” say no, but there’s a tiny warning bell there for me, especially coming from Randi, who is always solving, steering, arranging. Shoes as a date is delicious. Randi taking over is also delicious. But I’m watching the line.
+So I’m continuing, absolutely. This chapter didn’t yank me by the throat, but it tightened the knot. Vee between Cassie and Randi in that lecture hall is such a clean picture of the book right now: one woman loving her plainly, one woman opening and steering her, and Vee in the middle, happy enough not to notice the shape of the hands on either side.
 
-The Simpson’s paradox lecture is not subtle, but I don’t mind because it lands. Same numbers, different grouping, total reversal. That is the whole book right now. Every yes is real. Every moment with Pace, taken on its own, feels clean and chosen. Put it together with the hidden plan and it becomes something else. Nobody touched the numbers. That is the problem.
-
-I’m still completely in. Vee walking out happy between those two women, with the dress unseen in the closet, felt like the last bright breath before something bigger. I want the shoe date badly. I want Randi and Vee badly. I want Cassie to keep watching. And I am increasingly convinced the book is not going to let me have the heat without making me answer for wanting it.
-
-GATE 22 — All Told  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: "Don't you dare tell me no."  
-WHY: That line made me wary in exactly the consent-place I’m sensitive about, but the chapter itself seemed aware of the danger, not blind to it. Cassie’s tenderness, Randi’s charged wrongness, and the Simpson’s paradox echo all pulled me harder into the trap.
+GATE 22 — All Told
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: This chapter kept the heat alive without needing another explicit scene, and it made the larger consent problem sharper instead of softer. Cassie’s care steadied me; Randi’s “date” made me lean forward with a little dread.

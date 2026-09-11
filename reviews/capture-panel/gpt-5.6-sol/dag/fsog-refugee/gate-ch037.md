@@ -1,15 +1,25 @@
-*capture-dag-v2-rich · gate ch037 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch037 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — Oh, this is the thing. This is exactly the thing I keep looking for: a man who can arrange every inch of her body, be completely sure with his hands, and still understand that the photograph is hers until she chooses to send it. She asks how he wants her; he takes her seriously; he makes the looking tender; then he hands the image back. And that cold sane thought matters. The chapter knows trust is not the absence of danger—it is seeing the danger, asking for the promise, believing him, and pressing send herself. “I’d never share your photograph” is such a simple answer, but after everything hidden elsewhere in this story, it landed hard. He will not share her image. He is already sharing access to her life with Randi, of course, and the contradiction is sitting there waiting to break my heart.
+REACTION
 
-The opening absolutely melted me. His head on her breast, taking comfort in her body without reducing her to it, is nearly embarrassingly tailored to me. “With Pace she was a girl who had a body, not a body that happened to have a girl attached to it”—yes. That is the whole reason his desire works on me. He wants the first bite, the wrecked aftermath, her face, her pleasure, the particular person inside the body. Even when he poses her like a pinup, what comes back is not a generic sexy woman. It is Vee as he sees her, and she recognizes herself as beautiful through that gaze.
+Oh, this is exactly how he gets me. His head on her breast, the tiny kisses, the softness of him after she has been above him and utterly undone—this enormous controlled man taking comfort in her body without reducing her to it. “With Pace she was a girl who had a body, not a body that happened to have a girl attached to it” is the whole thing I have been waiting for in this genre. Yes. That. He wants her, but he also rests in her. He feeds her, watches her taste, holds her hand in the quiet. The sex belongs to these two particular people.
 
-And I love how shamelessly happy she is becoming. “Promise to use me again soon” delighted me because that language belongs to her. She is not disappearing inside submission; she is teasingly requesting more of exactly what she wants. The food afterward feels erotic in the deepest sense—not because lemons and garlic are secretly sex, but because he keeps waking her senses up and feeding the appetite he helped her discover. She tastes now. She eats until she is satisfied. She asks to be used and then demands dinner. I want this for her forever.
+And the photograph made me hold my breath, because that could so easily have gone wrong. But she proposes it. She sets the condition. He promises. She goes to make herself look the way she wants to be remembered, and when he poses her, every touch feels like appreciative direction rather than possession. Most importantly, he gives the phone back to her. She sees the image first, and she is the one who sends it. That is so hot precisely because the final irreversible choice stays in her hand.
 
-But then: “I don’t go back.” That chilled the whole warm kitchen in one sentence. I’m glad she respected the closed door, just as she respected “not tonight” about the scar. I badly want to know what happened, but I don’t want disclosure dragged out of him as proof of intimacy. His care for solitary Sheri makes me love him more, and Vee catching and correcting her jealous flicker felt healthy. Still, Sheri is another woman who knows truths Vee does not, and Thanksgiving is now glowing ominously on the calendar. Pace can protect a nude photograph with perfect clarity. He needs to understand that Vee’s heart and informed choice deserve at least that much protection.
+Except—oh, Pace. “I’d never share your photograph” is a painfully exact promise from a man who is already sharing her intimate self with Randi. I believe completely that he will protect the image. I also know he is using the narrow truth to live comfortably beside the enormous lie. Vee thinks believing him is the brave part, and it is; what breaks my heart is that he has earned her trust in every visible interaction while quietly making that trust unsafe somewhere she cannot see.
 
-GATE 37 — In His Hands  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: The photograph scene gave me dominance, trust, explicit privacy, and Vee’s active choice all at once, while the breast kisses and dinner gave it real warmth. I’m completely in—but the tenderness is making the concealed relationship with Randi feel more dangerous by the chapter.
+Her “You’ve used me terribly… Promise to use me again soon” delighted me because it is so plainly her pleasure speaking. She is playing with surrender now, making “use” into something she requests rather than something done over her objection. This is the distinction I care about, and the chapter understands it.
+
+The domestic tenderness almost hurts more than the sex. The first glass being water, the wine only afterward. The cooking. His attention to her first bite because her pleasure genuinely feeds something in him. Her senses are waking beyond sex; she tastes now. She inhabits her body now. She is happy and loved in all but the word, and I can feel why she would give him everything.
+
+I am still watching the weight loss. Her eating more while her clothes loosen is being presented as her body burning through happiness and sex, but it is noticeable enough that I want somebody to notice it as a bodily fact, not just another sign that Pace has transformed her.
+
+And then: “This is my home.” That shut door around his family frightened me. Vee handled it beautifully. She felt the boundary and did not punish him for having it or start picking the lock. But his careful voice tells me there is real damage behind it, and Sheri being alone too makes their Thanksgiving feel less romantically suspicious than quietly sad—two people who made a chosen family because the original versions failed them.
+
+I finished this chapter warm, turned on, and terribly uneasy. Pace can hold Vee with exquisite care while still withholding the one thing she needs in order to understand whose hands she is actually in. The better he loves her, the less survivable that revelation feels.
+
+GATE 37 — In His Hands
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: The combination of erotic control, explicit choice, and ordinary nourishing tenderness has me completely. But the photograph promise sharpened the central betrayal: he will never share her image, while already sharing the private woman inside it.

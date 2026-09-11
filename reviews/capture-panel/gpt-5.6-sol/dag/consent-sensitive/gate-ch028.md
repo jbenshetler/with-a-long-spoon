@@ -1,15 +1,15 @@
-*capture-dag-v2-rich · gate ch028 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch028 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — Oh, *he knows*. “Randi. That’s not finished” and “two of them at once” stripped away any comforting possibility that Pace thinks these are separate, organically developing relationships. He understands the shape, has apparently discussed enough of it with Sheri that she can identify both women, and is still letting Vee walk around believing she alone is deciding what relationship exists. The fact that he can speak so tenderly about Vee noticing his joinery does not soften that. It makes it worse. His feelings are real; his secrecy is real; neither cancels the other.
+REACTION — Oh, there it is. “Randi. That’s not finished.” Four words, and suddenly Vee’s imagined boyfriend-shaped relationship has another woman sitting squarely inside it. Pace knows perfectly well he has two women in motion at once, lets Sheri name the situation that way, and apparently sees no urgent reason either woman—especially Vee—should have the same information.
 
-And “She couldn’t take your heat” made me bristle. Maybe he means Vee is tender and Sheri is formidable, but I heard him deciding what Vee can handle while withholding the information she would need to decide for herself. That is exactly the machinery I’m watching for.
+And I hate how much his involuntary gush about Vee got me. The chair joint. The math book. He isn’t reciting her body or her usefulness; he is besotted with the exact way she encounters his world. That’s real. It also changes absolutely nothing about the concealment. If anything, it makes the situation hurt more, because he is not coolly running a disposable mark. He is falling for her while continuing to manage what she gets to know.
 
-Sheri interests me immediately: blunt, queer or bi enough to appraise Vee’s backside without ceremony, fiercely loyal, and apparently outside the central conspiracy while still knowing far more than Vee does. I want her eyes on this situation. “If that’s not already complicated, it will be” is the first sane external judgment we’ve had from anyone in Pace’s orbit. Also: was she the blonde at the bar, or merely there watching? If she was the woman who deliberately needled Vee, “kept an eye on her” is an outrageously clean description of what she did.
+Sheri interests me immediately. She watches women, she watched Vee after Pace left, and she can apparently hate someone loyally enough to make it valuable. Pace trusts her with more relational truth than he has given Vee. Her “two of them at once” is the clean outside diagnosis the book needed, and Pace’s silence is an answer. I’m also now wondering whether she was the blonde who deliberately needled Vee at the bar; the chapter doesn’t quite establish it, but “you want me to not like her?” makes my antennae go straight up.
 
-This tiny chapter tightened the noose. Pace is gone enough to babble about Vee touching his chair, which is painfully sweet, and then casually confirms that Randi remains an active romantic or sexual thread. I’m not less convinced he cares. I’m more convinced that care is not going to make him volunteer the truth soon enough.
+This tiny chapter sharply worsened my view of Pace without flattening him into a villain, which is exactly the dangerous sweet spot. He wants Vee. He notices her. He may even love her eventually. And he is knowingly allowing her to build a monogamous-looking story around a man whose other relationship is “not finished.” The book absolutely sees the problem. I’m furious, and I’m staying.
 
-GATE 28 — hills-and-valleys  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: “Randi. That’s not finished” is the quiet confirmation I’ve been waiting for, and it made my stomach drop. The book plainly knows that tenderness and concealed management can coexist, so I’m staying—but Pace’s moral grace period is nearly gone.
+GATE 28 — hills-and-valleys
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: “Randi. That’s not finished” is the quiet confirmation I’ve been waiting for, and Pace’s failure to correct “two of them at once” makes the information imbalance unmistakable. The author knows exactly where the blade is; now I need to see when Vee feels it.

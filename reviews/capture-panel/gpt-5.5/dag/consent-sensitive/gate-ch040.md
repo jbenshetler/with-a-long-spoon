@@ -1,21 +1,25 @@
-*capture-dag-v2-rich · gate ch040 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch040 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh no. This chapter got me right in the soft place and the alarm place at once.
+Oh, I felt this one in my ribs. Not because it was the loudest chapter, but because it is so quietly domestic that the danger and the tenderness are braided almost too tightly to separate.
 
-The drawer already had me, but the shirt undid me. The sheer smallness of the ask, and how huge it is for her: *please wear this so I can sleep inside the smell of you when I’m not allowed to be here.* That is embarrassing in exactly the way real wanting is embarrassing, and he handles it beautifully. He doesn’t tease her. He doesn’t make her explain past the point of pain. He just puts the shirt on. I felt that.
+The drawer has become a whole country. Her space in his house, her things already there, her bag lighter because she has been partly installed. And God help me, I loved it. I loved her pleasure in “hers.” I loved him giving her the top drawer, the easy drawer, and then this chapter letting that become ordinary enough that she crosses the dark grass smiling about it. That is exactly the kind of intimacy that gets under my skin harder than a big declaration. A person making room for you in the daily machinery of their life. A person knowing your car sound. A person opening the door before you knock.
 
-And still: Vee, baby, five nights felt like a deprivation crisis because you needed to study. I’m not judging the hunger; I believe the hunger. But she is already arranging her school, sleep, body, belongings, meals, wardrobe, scent, and sense of home around this man’s house. The “new ordinary” is gorgeous, and also frightening because it is becoming ordinary before she knows the true terms. She has a drawer. She has a food life. She has a sex life that has rewired her. She has a shirt custody system. She does not have the central fact: Randi and Pace planned her.
+And yet. And yet. The book knows, I think. It keeps letting me feel how much of Vee’s self-regulation is being transferred to the house, to Pace, to the shirt, to his smell, to the ritual of leaving and returning. She takes five nights for school, and he handles it beautifully. Truly beautifully. No sulking, no punishment, no coldness. That matters to me. I was watching him there with a clipboard and a flashlight, frankly, and he passed the immediate test. But the fact that she almost wanted him to fight her on it is such a little alarm bell. Not because she’s wrong to want to be wanted, but because she is starting to measure safety and longing through deprivation and return. Five nights becomes proof, and proof becomes ache, and ache becomes the body “publishing the number.” Whew.
 
-I did appreciate that Pace took her school nights without punishment. That mattered to me. He didn’t sulk, didn’t make her pay, didn’t ice her out. The book knows she half-wanted him to fight her on it, and it lets that be her own hungry contradiction instead of making him possessive in a cheap way. That kept me with him. His care still reads as care in the room.
+The sex here is hot because it’s so couple-ish now. Not a new threshold, not an orchestrated discovery, just hunger inside habit. She knows the hallway, the bathroom door, the office corner, the room. He knows how to slow her down without making it a correction. The jeans bit made me laugh because it felt genuinely alive and ridiculous, and I like when the book lets desire be graceless. It makes the later reverence more believable. Nobody is floating around in erotic mist; sometimes you are hopping on one leg in socks and trying to get denim off your ankle.
 
-But I am increasingly tense about how dependent her regulation is becoming on him. His food wakes her mouth. His sex teaches her body. His drawer gives her space. His shirt gets her through nights away. That can be romantic as hell, and here it is romantic as hell, but because of the secret architecture underneath, every tender practical act now has a second shadow. He may not be coercing her in the moment, but the larger environment is still engineered. The more real this gets, the less forgivable the withholding becomes.
+Pace continues to be devastating in action and withholding in speech. That is his whole terrifying charm. He says “All weekend,” pulls the flannel on over the shirt he’s already wearing, and that is more intimate than most romance heroes saying “I love you” in a rainstorm. I nearly folded. I also notice that he “decided not to ask” when he thought she was giving the shirt back, and that hurt me a little. He is so disciplined about not asking that he can turn silence into care, but silence is also where a lot of unspoken power lives in this book. Vee rushes to fix his possible hurt because she reads him so closely now. He doesn’t make her defend herself, no, but she is becoming exquisitely trained to interpret the smallest movements of his face.
 
-Also: the chapter very quietly showed that she can choose school and he can respect it. So the tragedy is not that Vee has no will. She does. The tragedy is that her will is being trained inside a story she hasn’t been allowed to read.
+The food scenes still work on me. The pizza is practically another seduction, but not in a fake aphrodisiac way. It is appetite education. She can taste because he has taught her to taste, and I can feel how erotic that is for her without anyone needing to say it. The “new ordinary” is not just sex; it’s her senses being rewritten. She used to eat flat orange sameness, and now she can count the yeast, tomato, onion, mushroom, heat. That is beautiful. It is also possession-adjacent in the way all transformation-by-lover stories are. He is giving her more of herself. He is also becoming the origin story for her ability to experience pleasure.
 
-GATE 40 — The New Ordinary  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: The shirt request absolutely got me, and Pace’s response was tender without turning her need into a joke. I’m continuing because the book still seems painfully aware that this beautiful domestic intimacy is also making the eventual betrayal worse.
+And the flannel. Oh, the flannel got me. Her sleeping in it every night she isn’t with him, wearing out his smell like a private ration, then bringing it back to be “filled” again. That is so intimate it almost embarrassed me to read, in the good way and the worried way. The fact that she asks him to wear it all weekend, and he just does, no teasing, no making her small, no turning her need into leverage: that is precisely why I keep staying. The local consent and care are so strong. He receives her need tenderly. He lets it be serious.
+
+But the larger trap is still there, humming under the floorboards. The chapter is titled “The New Ordinary,” and that is exactly what scares me. The ordinary is being built before the truth is. Her space in his drawer, her shirt in his smell, her body in his bed, her appetite in his kitchen, her week organized around his house and Randi’s brunches. This is not a fling anymore. This is architecture. And she still does not know who drew the first plans.
+
+GATE 40 — The New Ordinary
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: This pulled me hard because the tenderness is so specific and bodily: the drawer, the pizza, the flannel, the no-teasing acceptance of her need. I’m still deeply uneasy because Vee’s life is being re-centered around Pace with terrifying smoothness, but the chapter feels aware of that, not naive to it.

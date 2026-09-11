@@ -1,15 +1,21 @@
-*capture-dag-v2-rich · gate ch039 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch039 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
 
-REACTION — Oh, Vee. She sees one involuntary crack in Randi’s face and immediately protects her. No interrogation, no public exposure, no making Randi perform pain for her—she just slides the laptop over and gives her friend some ordinary work to hold. That is such instinctive, clean tenderness. And it hurts because Randi has been watching Vee’s involuntary responses for months and using them to steer her further open. Vee discovers Randi’s secret and gives her privacy. Randi discovers Vee’s secrets and turns them into leverage. That contrast is brutal.
+REACTION
 
-The line that got me was “Randi had no idea she’d been looked at.” Vee looks at people the way I wish the people around her would look at her: to understand, not to take. She even constructs the kindest possible explanation—this is her father’s wrongdoing, not hers—and asks for absolutely nothing in return. Meanwhile Randi knows Vee’s body, her shame, her finances, her sex life, and the photograph she promised Pace would never be shared with anyone, while Vee still does not know Randi is sleeping with him. The imbalance is becoming unbearable precisely because Vee is being so good inside it.
+Oh, Vee. She sees one flash of naked panic on Randi’s face and immediately protects her. No interrogation, no public exposure, no demand to explain—she slides the laptop over, gives Randi ordinary tasks to hold, and keeps her shame private. That is such instinctive, precise tenderness. And it hurts, because Vee is offering Randi exactly the mercy Randi and Pace keep denying her: the right to choose when and how a painful truth about her own life gets spoken.
 
-And of course the money matters. Randi let Vee put those impossible shoes on an emergency credit card while casually inhabiting wealth apparently fed, at least in part, by money meant to keep people like Cassie’s father employed. I don’t blame Randi for what her father did, and her shock felt completely real. But I am watching what she does now. If she helps bury the outlier, polishes it out of the presentation, or lets Cassie praise her family’s supposed virtue again, that tells me something ugly. If she insists they keep it in despite what it costs her, I may trust one important part of her more.
+That is the part I can’t shake. Vee knows almost nothing, but she understands that the hidden context changes what those numbers mean to Randi. She doesn’t decide that because Randi’s reaction is genuine, secrecy no longer matters. She doesn’t tell herself that Randi will be happier if she never sees the whole graph. She simply protects her in the moment and leaves the truth in Randi’s hands. Vee is already behaving more ethically with one accidental secret than Randi has behaved with the entire architecture of Vee’s awakening.
 
-This chapter also makes the title feel like a warning. The outlier is the point that changes the story if you know to look. Randi is an outlier in Vee’s relationship with Pace, except Vee doesn’t even know she’s in the data. And Vee has just demonstrated exactly what she might have given Pace and Randi if they had trusted her with the truth: discretion, empathy, room to be complicated. They keep denying her the chance to be that person for them.
+And of course Vee’s conclusion is generous: Randi was dealt a rotten thing by her father and had no hand in it. Maybe that’s true. I think Randi genuinely did not know; “Cheating bastards” felt like the floor opening under her, not a performance. But I’m also suspicious now about what her family’s money has bought—not just the Mercedes and the effortless brunches, but the confidence to make other people into projects. Randi has always moved through Vee’s life like resources are infinite and consequences happen somewhere else. The shoes Vee cannot afford are sitting very loudly in my mind beside those fraudulent loans.
 
-GATE 39 — The Outlier  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: This pulled the central betrayal painfully tight without anyone even mentioning Pace. I need to see whether Randi answers Vee’s undeserved grace with honesty—or accepts her protection while continuing to manipulate her.
+Cassie broke my heart a little. Her father lost his job while people like Randi’s father took money supposedly meant to prevent exactly that, and she doesn’t even get to know that the proof on the screen belongs to the family sitting across from her. Vee thinks silence is kindness to Randi, and in that immediate moment I understand her completely. But Cassie is once again the person living beside the real story without being allowed to see it. She keeps being given the aggregate while Vee and Randi hold the decisive outlier between them.
+
+And that last image made me feel cold. Vee believes the point becomes invisible once the laptop closes. She has no idea that she herself is the point off by itself in Pace and Randi’s private model—the one particular woman whose name would open the whole hidden record if she knew where to click.
+
+I would absolutely text a friend at one in the morning: “Vee just discovered Randi’s family may have stolen relief money and protected her secret with more care than Randi has ever protected Vee’s autonomy, and I am NOT OKAY.”
+
+GATE 39 — The Outlier
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: This pulled every hidden thing tight at once without making Randi’s shock feel false or Vee’s kindness feel foolish. I need to know whether Randi recognizes the unbearable irony of being spared by the woman whose whole life she is secretly modeling.

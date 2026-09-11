@@ -1,23 +1,21 @@
-*capture-dag-v2-rich · gate ch041 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch041 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION
+REACTION —
 
-Oh, this was quiet and it got under my skin.
+Oh, this one got me in the quiet place.
 
-The title doing double duty is mean in the exact way this book likes to be mean: the induction photo cropped for her parents, but also Vee’s whole life cropped into versions people can survive looking at. Waist-up daughter. Boyfriend with a doctorate. Hiking. Dancing. “The parts that fit.” And the rest is not even only sex, which would be easy enough to hide. It’s the tenderness and strangeness and domestic intensity that don’t fit anywhere.
+Not because anything huge “happened,” but because the chapter puts Vee back beside Cassie and suddenly the whole thing has oxygen again. I missed this. I missed someone asking a clean question without wanting to use the answer. Cassie’s care has such a different texture from Randi’s care. Randi opens Vee like she’s good with locks. Cassie just sits there with her cafeteria tray and asks, “So what is he.” And somehow that is more dangerous.
 
-I felt so much for her with her parents. Not because they seem awful, exactly. They sound loving, proud, limited. Her mom touching her own collarbone instead of saying the thought aloud is such a recognizable little mother move, and her dad pricing the dress in his head made me wince. He’s not wrong to feel the shape of something expensive and serious there. He just doesn’t have the actual facts, and the actual facts are both sweeter and more alarming.
+The cropped photo is perfect and awful. Of course her parents get the waist-up version. Of course the full truth is divided into acceptable family pride, erotic self-knowledge, Pace’s artistry, and the whole hidden machinery no one in her real life can name. The title is doing a lot to me, because Vee is cropped everywhere right now. Her parents get the honorable daughter. Cassie gets more than most, but still not enough. Pace gets her body and her trust. Randi gets the confessions and the wanting Vee won’t name. And Vee herself is still seeing cropped versions of the situation because the people closest to her have made sure she can’t see the full frame.
 
-The line that really caught me was: “Sex he understands. The sewing he never would.” Because yes. That’s the whole problem of Pace in miniature. The kink may be the most legible part of him. The dress-making, the house, the cooking, the drawer, the precision of his care — those are the things that make him harder to explain and therefore harder to defend. Vee knows the dress is love, or something close to love, but she also knows it sounds like evidence in a case.
+I loved the bit about her father possibly handling sex better than sewing. That felt so painfully true and funny in that family way where “weird” is more threatening than “wrong” because wrong at least has a drawer to go in. And Vee defending the dress inwardly matters to me. She is not ashamed. That is real growth. Pace making it for her is still one of the most intimate things in the book, and I hate that the intimacy is welded to the larger secret because I want to simply swoon and I can’t. Very rude of the book to keep making me hold two truths at once, but also, that is why I’m still here.
 
-Cassie continues to be exactly the person I need in this book. “So what is he… To you.” Careful, exact, not prying. She doesn’t shame Vee, doesn’t make a joke, doesn’t grab the thread and yank. And then that last turn: Vee grateful Cassie didn’t push, and also a little not. God. That is the feeling of wanting someone to rescue the truth out of you because you can’t quite volunteer it.
+Cassie asking whether Vee can’t say or doesn’t want to is the chapter’s little blade. Because it’s both, yes, but it’s also worse than both: Vee doesn’t have all the information necessary to say what this is. She can’t narrate herself cleanly because the real story has missing pages. That makes me ache for her. It also makes me appreciate that the book is absolutely aware of the problem. It is not letting the secrecy sit there as just sexy mystique. It is showing the cost in ordinary conversation, in the gap between a daughter and her parents, between best friends over cafeteria food.
 
-This chapter did not advance the external trap much, but it tightened the emotional one. Vee is now consciously managing versions of reality for different people. That scares me, because secrecy is becoming a life skill for her. Not “I’m embarrassed to tell my parents about sex,” which is normal. More like: I cannot assemble the real story in a form that survives daylight. And meanwhile Randi and Pace are sitting on the uncropped version she still doesn’t even know exists.
+And Cassie not pushing. I both loved her for it and wanted to shake the table. Vee being grateful and “also, a little, not” is so honest it hurts. Part of her wants to be found out. Not exposed, exactly. Found. She wants someone who is not Pace or Randi to put a hand on the outline and say, there, that’s the shape.
 
-I’m still continuing. The book knows this is dangerous. It knows the cropped image is not just modesty, it’s narrative control, self-protection, and a warning flare.
-
-GATE 41 — Cropped  
-DECISION: CONTINUE  
-CAPTURE: 7  
-ALMOST-STOPPED: none  
-WHY: This was restrained, but it deepened the exact pressure I’m reading for: Vee trying to translate Pace into acceptable terms and discovering the tender parts may be the hardest to explain. Cassie’s question landed cleanly, and Vee’s inability to answer feels like a real fault line, not coyness.
+GATE 41 — Cropped
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: This chapter made the secrecy feel consequential without melodrama, and Cassie remains the person I most trust to see Vee whole. The title landed hard: everyone has a cropped version of Vee, including Vee, and I need the full image to come due.

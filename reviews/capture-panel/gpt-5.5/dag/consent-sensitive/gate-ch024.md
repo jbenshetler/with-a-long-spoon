@@ -1,23 +1,23 @@
-*capture-dag-v2-rich · gate ch024 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch024 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
 Oh.
 
-This is the chapter I was waiting for and also the one that makes my stomach drop, because there it is: the hidden room. Not metaphorically. Literally. The book takes me into Pace’s bed with Randi, after Randi has just spent the previous chapter being Vee’s glamorous friend, touching her foot, guiding her into the shoes, letting Vee think “I have never had a friend like this.” And now Randi is naked on Pace’s chest, reporting back.
+So there they are. Finally. Pace and Randi in the same bed, with Vee between them even when she is not in the room. And I hate how much I liked parts of it, which is exactly the point, I think. This chapter is short and it is a blade.
 
-That is so much worse than suspicion and also, honestly, so much better for my trust in the book. Because the chapter knows. It knows this is intimate, illicit, dangerous. It doesn’t flatten Randi into a schemer, which would be easier. She’s not coolly debriefing him like Vee is a project. She is moved. She is aroused. She is fond in that helpless, almost embarrassing way. “She got past me before I could help it” did something to me, because yes, that’s the complication. Randi is inside the manipulation and being altered by it. That doesn’t clean it. It makes it more volatile.
+The thing that saves it for me, immediately, is that the book is not pretending this is neutral. Randi saying “I didn't think I'd like her this much” is the entire dangerous little heart of it. She is not just the smooth handler anymore; she is losing the clean distance that would let her keep calling this a game. And Pace hears her. He does not pounce on the information. He does not turn Vee into dirty talk when Randi offers him the picture of what Vee keeps under the cardigan. That mattered to me. A lot. He lets Randi’s wanting belong to Randi. That restraint is hot, yes, but more than that, it tells me the book knows where the live wire is.
 
-The hottest and most alarming thing is that Pace and Randi are both so tender about Vee while still withholding the central fact from her. That’s the whole rotten jewel of this book. They are not mocking her. They are not using her casually. They see her, maybe too well. Pace’s “She’s ashamed” landed with this horrible calm, because he’s right, and because being right is part of his power. He knows the wound. Randi knows the wound. They are both touching around it. They are both getting off on what comes loose.
+And Randi. God, Randi. Her fondness for Vee is getting so real it is making her unsteady. The shopping story made my stomach twist because I love Vee being funny and free with her, but then Randi’s delight in Vee’s embarrassment has that edge. “It was so cute. She was so embarrassed. That was kind of hot.” There she is: charmed, aroused, and not entirely safe. Not evil. Worse and better than evil. Compromised.
 
-And the jealousy. Oh, Randi, honey. Pace says Vee makes the room brighter, and Randi goes still. That tiny tightening is the first thing in this chapter that felt like a knife under silk. She wanted him to tell her, but she didn’t quite want the truth of it. She wants Vee herself, but she also wants to remain the one who manages the wanting. And Pace, maddeningly, does not pounce on her confession. He leaves her desire hers. Which is ethical inside the scene and deeply unethical in the larger architecture, which is basically Pace’s entire problem in one sentence.
+Pace saying “I want her to get there on her own” should reassure me, and it does, locally. But structurally? Sir. She cannot get “there” on her own if you and Randi built the road, marked the exits, and are lying naked together after discussing her progress. Still, the chapter seems to know that contradiction. It lets the sentence be tender and damning at once. That’s the bargain I’m here for.
 
-I also noticed how Vee is absent and absolutely everywhere. She’s not in the room, but her body is being described, laughed over, desired, diagnosed, treasured. The bigfoot story should be sweet, and it is sweet, but then “that was kind of hot” shifts it. Her embarrassment has become erotic material in a bed she doesn’t know exists. That made me flinch.
+The bit that got me hardest was Pace describing Vee making the room brighter. Because yes. That is why I’m protective of her. She thinks she is excess, appetite, embarrassment, too much body, too much want, and these two people are looking at the exact same material and seeing radiance. That could be healing. It could also be capture. The title “Gone” lands both ways: Randi gone on Vee, Vee gone on Pace, Pace maybe gone on both of them, and all of them maybe past the point where anyone can cleanly stop.
 
-But I am not leaving. This chapter tells me the author sees the trap. The title is “Gone,” and everyone is gone: Vee gone over Pace, Randi gone over Vee, Pace maybe gone in a way he thinks is controlled because he is always so controlled. The danger is now fully on the page, not just in the blurb. I’m tense, but I’m in.
+I am very, very nervous now. But I’m not leaving. The author knows this is alarming. The chapter practically breathes through the alarm.
 
-GATE 24 — Gone  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “That was kind of hot.”  
-WHY: That line made Vee’s unknowing embarrassment feel harvested, and I had a real consent-siren moment. But the chapter is too aware of the ugliness and tenderness braided together for me to call authorial naivete; it finally opens the secret chamber and lets it be as troubling as it should be.
+GATE 24 — Gone
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: "She's not ready, though,"
+WHY: That line made the whole hidden machinery show its teeth, because Randi and Pace are literally assessing Vee’s readiness without Vee in the room. But the chapter knows how charged and dangerous that is, and Randi’s feelings getting messier makes the trap more emotionally honest, not flatter.

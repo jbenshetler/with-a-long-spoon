@@ -1,6 +1,6 @@
 # Capture DAG record — dark-romance-control
 
-*model: gpt-5.6-sol · protocol: capture-dag-v2-rich · assembled 2026-09-08*
+*model: gpt-5.6-sol · protocol: capture-dag-v2-rich · assembled 2026-09-11*
 
 *capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
 
@@ -12,10 +12,10 @@ The name reveal absolutely woke me up. I had assumed this was Vee until “There
 
 So yes, I’m continuing. I’m not obsessed with Pace yet, but I am intensely suspicious of Randi, and the prospect of these two selecting Vee while carrying this secret fracture between them is deliciously wrong.
 
-GATE 1 — The Bench  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: “Tell me again if you forget. I won't be upset. Tell me anytime.”  
+GATE 1 — The Bench
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: “Tell me again if you forget. I won't be upset. Tell me anytime.”
 WHY: The safety-first tenderness nearly became too gentle for me, but the Randi reveal and her immediate retreat behind a perfect lie changed the temperature completely. I want to see what this wounded, hungry woman does when she helps choose another girl for the man who saw too much of her.
 
 *capture-dag-v2-rich · gate ch002 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
@@ -24,10 +24,10 @@ REACTION — Oh, Randi is *not okay*, and that interests me much more than Pace�
 
 But I’m getting impatient for the promised wickedness. Pace is still so respectful and tender that he barely feels dangerous; the sorority girls were more threatening in four minutes than he was through an entire night of bondage. I need the secret plan to start showing its claws soon. Right now the strongest hook is that Randi is clearly more damaged, controlling, and complicated than the glamorous accomplice on the jacket sounded—and I want to know what kind of trap *she* thinks she’s building for Vee while she’s quietly coming apart herself.
 
-GATE 2 — Standards  
-DECISION: CONTINUE  
-CAPTURE: 6  
-ALMOST-STOPPED: “She lay under the duvet and looked at the ceiling and did not cry.”  
+GATE 2 — Standards
+DECISION: CONTINUE
+CAPTURE: 6
+ALMOST-STOPPED: “She lay under the duvet and looked at the ceiling and did not cry.”
 WHY: The shutdown repetition nearly lost me, and Pace still has far too much gentleness and not enough menace. But Brooke’s velvet-glove cruelty and Randi’s fracture have enough knife under the silk to earn another chapter.
 
 *capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
@@ -40,10 +40,10 @@ And Randi is the danger here. That engineered collision was so smooth it made my
 
 The final “Let’s go feed you” absolutely landed. Food, sex, Vee’s name, Randi’s appetite—it sounds caring while meaning something much more predatory. I’m still waiting for Pace himself to develop real teeth; right now he feels like an observant, generous kink facilitator rather than a man I should fear. But Randi casually manufacturing fate for Vee? Yes. That is the obsession-and-deception engine I came for.
 
-GATE 3 — The Pointing Game  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: “She deserved that gentleness. He wanted it for her.”  
+GATE 3 — The Pointing Game
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: “She deserved that gentleness. He wanted it for her.”
 WHY: The careful consent-and-tenderness language nearly smothered the danger for me, but then Randi hunted Vee in broad daylight and made the first contact look accidental. Now I need to watch these two close the trap around a girl who thinks she just met a friend.
 
 *capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
@@ -54,10 +54,10 @@ Randi is the threat here, finally. The way she manufactures instant intimacy, ma
 
 But I’m impatient. We’re four chapters in, and the knife is still mostly psychological. I can see it under the silk now, especially in that final “See you later,” but I need somebody to become genuinely dangerous soon. Randi could absolutely keep me if her warmth starts closing around Vee like a hand instead of merely making her feel pretty.
 
-GATE 4 — See You Later  
-DECISION: CONTINUE  
-CAPTURE: 7  
-ALMOST-STOPPED: “And then Randi *really* talked, and Vee listened, and this was the part she would not be able to give back.”  
+GATE 4 — See You Later
+DECISION: CONTINUE
+CAPTURE: 7
+ALMOST-STOPPED: “And then Randi *really* talked, and Vee listened, and this was the part she would not be able to give back.”
 WHY: The coffee-hour haze nearly became too much wholesome new-friend glow for me, but Cassie’s warning and Randi’s calculated intimacy poisoned it beautifully. I’m continuing for the moment Vee realizes “chosen” and “targeted” were the same thing.
 
 *capture-dag-v2-rich · gate ch005 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
@@ -70,10 +70,10 @@ I’m also watching Randi harder than either of them. The bare introduction, the
 
 The substitution lesson is practically a confession disguised as calculus: combine two resistant things at the right angle and suddenly the answer becomes easy. Pace and Randi are substituting themselves into Vee’s life until she solves herself exactly as they intended. She thinks she has found a better method. She has no idea she is the problem they prepared for.
 
-GATE 5 — Substitution  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: “But I'd love to see you sometime. May I call you?”  
+GATE 5 — Substitution
+DECISION: CONTINUE
+CAPTURE: 8
+ALMOST-STOPPED: “But I'd love to see you sometime. May I call you?”
 WHY: “May I” is dangerously close to my personal off-switch, and Pace is still behaving more like a dream tutor than a genuine threat. But knowing this entire charming accident was staged—and seeing Randi quietly strain while it succeeds—puts enough poison under the sweetness that I absolutely need the next dose.
 
 *capture-dag-v2-rich · gate ch006 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
@@ -84,9 +84,9 @@ I keep waiting for the trap to show its teeth, because I know Randi and Pace cho
 
 The jacket promised tenderness, and it has certainly delivered. It also warned me that he asks before he takes, which is usually my exit sign; I stayed because the conspiracy suggested a knife under all that courtesy. Six chapters in, I can see the manipulation, but I still can’t *feel* danger from either of them. Vee is being softly ushered toward happiness by two people who appear to understand her better than she understands herself. That may become psychologically brutal later, but tonight my to-read pile is full of men who would have put the knife on the table already.
 
-GATE 6 — The Long Way  
-DECISION: STOP  
-CAPTURE: 2  
-ALMOST-STOPPED: “He asked her things the way her grandfather used to ask things, as though the answer mattered and there was no wrong one”  
-WHY: Pace is kind, patient, and emotionally safe on purpose, and the concealed setup still isn’t making him feel genuinely threatening. I bought a wicked seduction; I’m currently watching a very nice man take a hungry girl for frozen yogurt.  
+GATE 6 — The Long Way
+DECISION: STOP
+CAPTURE: 2
+ALMOST-STOPPED: “He asked her things the way her grandfather used to ask things, as though the answer mattered and there was no wrong one”
+WHY: Pace is kind, patient, and emotionally safe on purpose, and the concealed setup still isn’t making him feel genuinely threatening. I bought a wicked seduction; I’m currently watching a very nice man take a hungry girl for frozen yogurt.
 EXIT NOTE: Pace making one unmistakably possessive or coercive move—or revealing that his gentleness is attached to consequences Vee cannot simply walk away from—could have kept me.

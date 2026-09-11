@@ -1,29 +1,27 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch035 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
 
-REACTION — 
+REACTION —
 
-Oh no. This one got me in the softest place.
+Oh. This one got me in the soft ribs.
 
-Not because it was the hottest chapter in the obvious way, though the beginning has that very lived-in, post-week-apart hunger I like: the coats not making it past the door, his mouth/hands/body always coming around to her first, the salmon after, the couch after the salmon. That part matters because it is not just sex as a set piece anymore. It is appetite becoming routine without becoming boring, which is exactly the thing romance keeps promising and almost never earns. A man cooking you dinner after taking you apart, then wanting you again because he has been thinking about you while the tomatoes warmed? Yes. Obviously yes.
+After the big bright filthy voltage of the last few chapters, this is the chapter that walks in barefoot and ruins me with a drawer. Not because nothing erotic is happening, because obviously the sex is still everywhere in the air, in her hair, in the looseness of her clothes, in the way her body has started living differently. But the charge here is domestic, and I am such a sucker for when a book understands that a woman being given a real place can be as intimate as being undressed.
 
-But the chapter really slid the knife in with the drawer.
+The opening did exactly what I wanted after a week apart: not a perfunctory reunion, not “and then they had sex,” but the door flying open and him lifting her before she even gets there. I felt her giddy little noise. I felt the relief of being wanted that openly. And then the part that really kept landing for me was her realizing, again and again, that his desire does not make him selfish. He feeds her first sexually, feeds her literally, comes back to her later like she’s still on his mind. That is the grown-up heat I keep hunting for: not just stamina, not just dominance, but attention with hands.
 
-I am embarrassingly vulnerable to domestic claiming when it is specific. Not “move in with me” as a grand speech. Not some alpha barking about toothbrushes. The top drawer. The easy one. His careful little life compressed into the lower drawer so her disorder can have room at hand. That did something to me. Because he saw the mess. He saw what she was afraid he would hate. And he didn’t soothe her with a sentence she could doubt. He rearranged the physical world.
+And then she says, privately, that she loves him. I believed it. I also immediately got scared, because girl. Girl. The reader knows the floorboards are rigged. She’s lying there counting salmon and tomatoes and scrunchies as love language, and I am with her, because yes, yes, those are real gestures. But he is also still not telling her the largest truth in the room. The tenderness is real and the concealment is real, and this book keeps making me hold both until my hands hurt.
 
-And because Vee is Vee, she first feels the absence as rejection. Of course she does. Of course the missing scrunchies become, instantly, *I was too much.* That is so exactly her wound: her body too much, her wanting too much, her hair too much, her presence too much. And Pace/Peter keeps answering that wound not by saying “no, no, you’re fine,” but by making the too-muchness livable. Wear the dress. Leave the shoes. Eat the food. Bring the bag. Take the drawer.
+The “Peter” whisper worked on me more than an actual love confession would have. That name is private, wounded, younger, the part of him she thinks she’s being trusted with. Her using it while he sleeps felt almost unbearably intimate, and also a little lonely. She can say it to his sleeping body but not to his waking face. He can make her a drawer but not tell her what game she entered. These two are communicating in objects and bodies and meals because the actual words would detonate the house.
 
-I am so happy for her I could throw up.
+And then the bathroom. I swear I got more emotionally invested in that counter than I have in entire romance third acts. Her mess on his clean surface: brush, pins, bottles, the whole evidence of a woman taking up space. My heart clenched because I know that feeling, the sudden shame of “oh god, I’m too much, I’ve spilled into someone else’s order.” And he sees it. He notices. The book lets that little silence be terrifying because with Pace silence can mean reverence or evasion or decision, and Vee has learned to read him like weather but not always correctly.
 
-And that is the whole problem, isn’t it? Because this is also the chapter where she says, in herself, that she loves him. Not flirtation, not hunger, not the spell of being wanted. Love. And I believe her. I hate that I believe her because the jacket is sitting there like a loaded gun. Every tender thing now has a shadow under it. The top drawer is beautiful. It is also going to make the hidden plan hurt worse, because he is not just seducing her into sex anymore. He is making a home-shaped place for her while still not telling her the truth about Randi and the original game.
+So when the scrunchies were gone, I had that same drop she did. I thought, oh no, he cleaned her away. Quietly. Neatly. Like maybe she was a weekend pleasure but not a permanent disruption. And then the drawer opened and I absolutely folded. The top drawer. Not a basket under the sink, not a corner, not “I cleared you some space” in words that would let him feel generous. He moved himself down. He made room where her hand would naturally reach. I hate how much that got me, honestly. I am not immune to competent domestic devotion, apparently.
 
-Also: “Peter.” Whispered to him asleep. I felt that. She uses the private name when he cannot hear it, because it is too intimate to risk awake. That is such a young-woman-in-real-love thing, and not in a silly way. In a terrifying way. She is already past the point where a clean reveal could leave her merely angry. This will break something.
+But because I’m ahead of her, the drawer also scared me. It’s beautiful, and it’s also another custom fit. The dress was made to her. The shoes finished it. The house has scrunchies now. The bathroom has a drawer. Every gesture says, “You belong here,” and every gesture also makes leaving harder. This is the trap at its most merciless because it doesn’t feel like a trap. It feels like care. It is care. That’s the problem.
 
-And Randi’s absence was loud to me. After that brunch, after the pastry-sugar kiss, Vee has a whole Randi-shaped fever burning somewhere, and this chapter lets Pace be so good that I almost forgot it for a minute. Almost. But then the top drawer made me think: where does Randi fit in a life with drawers? Is Randi the door Vee hasn’t opened, or the hand that helped build the house without Vee knowing? I’m still not over “sticky fingers,” and I do not trust that Randi doesn’t know exactly what she did.
+I am still all in. Maybe especially because this chapter barely needed explicit on-page sex to feel charged. The heat is in the aftermath, in appetite, in being welcomed into routines, in a man compressing his own order to give her the easy drawer. That’s the kind of intimacy that makes the eventual reveal feel like it’s going to take skin with it.
 
-This chapter was quiet, but it was not thin. It tightened the emotional noose by being kind.
-
-GATE 35 — Above Him  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: The drawer undid me. I’m still here because the tenderness is now as charged as the sex, and because Vee’s happiness feels real enough that the secret underneath it has become genuinely frightening.
+GATE 35 — Above Him
+DECISION: CONTINUE
+CAPTURE: 9
+ALMOST-STOPPED: none
+WHY: The drawer got me. This chapter made domestic space feel erotic and emotionally dangerous at the same time, and I’m completely hooked by how real his care feels while the secret underneath it keeps getting worse.
