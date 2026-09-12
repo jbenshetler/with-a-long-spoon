@@ -432,7 +432,7 @@ He rolled onto his back.
 
 For a while neither of them moved.
 
-The warm room smelled of fruit and paint and sex. Brown and green streaked Pace's forearm. Orange covered his chest where her breasts had pressed against him. Red marked his mouth and the inside of her thigh and a broad place on the sheet between them. The white bedding looked like an artist's palette after the artist had stopped caring where anything went.
+The warm room smelled of sex and paint and fruit. Brown and green streaked Pace's forearm. Orange covered his chest where her breasts had pressed against him. Red marked his mouth and the inside of her thigh and a broad place on the sheet between them. The white bedding looked like an artist's palette after the artist had stopped caring where anything went.
 
 Vee was sweaty, sticky, entirely sated. Pride remained under all of it, steady and bright.
 
@@ -443,3 +443,31 @@ She turned her head toward him. The orange breast mark still crossed his face.
 His eyes stayed closed. His mouth moved into a tired smile.
 
 "A lovely adventure."
+
+---
+
+He slept. She lay under his arm and let him, and for a long while wanted nothing at all.
+
+The paint dried on her while she lay there. She could feel it happening — what was left of the melons going tight across her breasts, the grapevine stiffening into a thin shell on the inside of her arm that cracked when she flexed it, the sheets gone cool where the smeared places had soaked through.
+
+The room smelled of the two of them. That was all of it at first, and it was a lot — sweat and skin and sex, him and her run together past any separating, the real smell of a bed after. She breathed it a while without thinking anything. Then she went looking, and found the fruit underneath it, faint, and the paint with it, and under those, lower down, the hothouse warmth. Still here. Risen off her somewhere back in the middle of everything and never once taken back.
+
+She reached over him for her phone.
+
+The woman on the screen looked like the room smelled. Nothing tucked, nothing held in, nothing arranged to take up less space than it did — the paint and the fruit and the shine of her all out in the open together, opulent, and not one part of it apologizing for the rest. Half an hour gone, the paint dry on her, the man asleep, and the pride came up again exactly as it had the first time.
+
+And it was hers. He had taken it and handed the phone back and never once asked her for a copy. Hadn't reached for his own. Hadn't said *send me that.* The other one she had sent him herself, lying in his bed with her nerve nearly gone, watching the word under it go to *Delivered* — she had given him herself to keep, and been glad of it. This one he had made and put back in her hands and left there.
+
+So nobody on earth had seen it but her.
+
+Randi had loved the other one. Vee had brought it out over mimosas with her heart going, the cropped one first, and Randi had pushed the phone back across the cloth and said she didn't have to, which was the thing that decided her. Then all of it. Randi had taken the phone in both hands and gone quiet over it, and when she spoke it was low and a little hoarse, the voice she kept for the things they only said to each other. *God, those legs.* And then, lower: *Showing him your toes, eh?*
+
+Vee lay in the dark with her thumb on the screen and tried to hear what that voice would do with this one.
+
+It wouldn't come. She could get as far as the breath before the sentence and then it went somewhere she couldn't follow, and she found she had been holding her own breath waiting on it, and let it out, and laughed at herself once with no sound in it, so as not to wake him.
+
+Not that she'd ever show her. God, no. This one was too much.
+
+Tomorrow was Randi's — the skirt, the mixer, whatever Randi had decided they were doing about it.
+
+She would not be telling her about this.
