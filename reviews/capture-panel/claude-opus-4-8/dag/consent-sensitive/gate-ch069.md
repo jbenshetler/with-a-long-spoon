@@ -1,0 +1,22 @@
+*capture-dag-v2-rich · gate ch069 · claude-opus-4-8 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+
+REACTION
+
+Okay, so first: Randi cancels, and that's the whole engine of this chapter — Vee's loose all-night wanting with no place to put it, so it "turned and asked him instead." I clocked that the book said that out loud. It didn't pretend the gym was the story. It told me straight that Pace is the thing she does with the want that's actually about Randi. That's the book keeping its awareness on, and I needed to see it do that before I'd relax into a chapter this warm.
+
+The gym. I have to be honest, the frat-boy rescue is the closest this book has come to just handing me a hero to swoon at, and it made me itchy. The collar foreshadow — "everything gets a collar," the man who'd collar a five-pound plate in an empty corner — pays off exactly on schedule, and the payoff is: Pace is the only competent, careful body in a room of careless ones, and the one thing he can't control (some boy's stupid hand) is what hurts her. It flatters him. "You hurt her. Your carelessness hurt her." The boys chastened, the room going quiet, the collars going on after. That is a straight-up hero beat and for a second I felt the book wanting applause and holding its breath for mine. That's my warning zone — the machine going naive, everybody-swoon, awareness off.
+
+But then it doesn't stay naive, and that's why I'm still here. Because what does he do with the rescue? He turns her injury into aftercare and the aftercare into a burn scene, and the book watches every inch of that turn. Her body "could not tell his care from the other thing and did not try" — named. The camphor waking down her skin, neck to collarbone to nipple, the sweet warmth "of a thing that has not arrived yet" — that's a genuinely nasty, genuinely good piece of edgeplay writing, and the book knows it's edgeplay. She reaches for HIS hand and puts it on herself; he keeps trying to spare one breast; she demands the fire, twice, in the one word she can get out. The agency of the escalation is hers and the book makes sure I see that it's hers. And then "Do you want me to keep going?" — waiting on the word, not the body. Fine. That's the machine, but it's the machine running honestly.
+
+The two beats that kept the instrument reading clean for me: the furious part of her that *hated* the gentleness, hated that he knew to the exact degree how much to leave her — the book gave her the anger at being managed, didn't smooth it. And the "We." "We need to wait." The word going through her "almost worse than the burn." He denies her the finish because it would cost her neck, and it reads as protection, and the book still flags the *We* as the tell — the intimate first-person-plural that folds his decision into her body as if they'd agreed. That's the book not letting the tenderness off the hook even while it's being tender. He decides, and calls it *we*, and she notices, and it lands as sweet, and the book lets me see all three of those at once.
+
+What I'd text a friend at 1 a.m.: "he put tiger balm on her nipples during an INJURY massage and wouldn't let her come because of her neck and called it *we* and honestly the scariest word in the whole chapter was *we*." And also: "where is Randi. the whole chapter is a Randi-shaped hole he's filling and the book KNOWS it's a Randi-shaped hole."
+
+The worm didn't move much this chapter — no cum-taste, no neck-knowledge surfacing — except the one displacement note, which is real. This was a Pace-detour, a warm one, and warm-and-long is exactly the thing that could lose me if it kept going with the instruments off. It didn't quite. But it flirted with it at the rescue, harder than it's flirted before.
+
+GATE 69 — Burn
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 6
+ALMOST-STOPPED: "You hurt her. Your carelessness hurt her." — the boys chastened, the room going quiet, everyone looking to Pace and waiting to be let off. For a beat the book wanted me to simply admire him, no complication, and that's the shape of the chapter I've been braced to leave on.
+WHY: The rescue was the most uncomplicated hero-worship this book has offered, and it made me nervous — but the aftercare turned dark-and-examined instead of warm-and-naive, and the "We" got flagged as the tell. Awareness still on; I want Randi back and Tuesday coming, so I'm reading on, a little more warily than last chapter.

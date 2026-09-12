@@ -1,0 +1,22 @@
+*capture-dag-v2-rich · gate ch069 · claude-opus-4-8 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+
+REACTION
+
+Okay, this is the chapter I've been starving for without knowing it. Do you know how long it's been since it was just the two of them in a room and nobody was running a play on her? I felt the gap close before I could name it. The whole Randi machine went quiet for a chapter and I got to just — be with them.
+
+And God, the thing that got me first wasn't the sex. It was him collaring the five-pound plates. "Everything gets a collar." Loading her toy weights with the exact same slow attention he'd give a man pressing twice his bodyweight — seating her hands, walking her feet flat, the flat of his hand between her shoulders. *That the smallness of what she was doing bought her back none of his care.* That's the whole thing. That's what I've been hunting the genre for since Fifty Shades and mostly not finding: a man whose focus doesn't scale down when you're small. Nobody takes the little things she does seriously and he did, with his entire face, and I felt it turn over in her because it turned over in me too.
+
+And then — this is the part I'd text a friend about at 1 a.m. — he arranged the entire workout so she was *never once responsible for a weight she couldn't put down.* Kept every heavy set inside what he could rack alone. She never even felt the danger because he never let there be any. That's not control that erases her. That's control that makes room. He built a floor under her and didn't mention it. I could cry.
+
+The injury scared me for real — the plate rolling loose, the flinch, the wire tearing up into her skull. And the two boys and *"you want it in the butt"* and the smack — the carelessness of it. And Pace not shouting, going the *other* way, quiet and exact, "You hurt her. Your carelessness hurt her. Apologize to the woman you hurt." And then letting them go only when he decided to. I should be more suspicious of that dominance-display than I am. But it landed as protection, not theater — he stripped her foolish little plates and hung them square and said "we're done" about the workout, not about her, so she never had to be the one who quit. He carried her out of it without making her small.
+
+Then the balm. And here's where I sat up, because this is the exact machine I watch for: the burn coming, the sweet warmth that turns to fire, and *she reached for HIS wrist* and put his hand back on herself. She's the one who called it down, on both sides. And still — STILL — he wouldn't take it on her body's say-so. "Do you want me to keep going?" Flat, careful, all of him waiting on the word and not on her. And when she wants the finish he won't give it, because her neck would pay for it — *"Not tonight. We need to wait."* He denies her the orgasm to protect her, holds her where she can't spend herself against the injury, banks the heat under his palms and gives her nothing to do with it. That "we." That got me worse than the burn did. A man who reads to the exact degree how much to leave her and how much to take away. This is the book keeping its promise to me — heat and tenderness in the same hands, no contradiction, her yes actually asked for and actually watched.
+
+BUT. I'm not stupid and the book isn't letting me be. Underneath every good thing here is the thing riding along with the wire in her neck: the wanting she can't charge to him, that started on Randi's mouth and came home to the wrong bed. She's using him — even in the sweetest chapter, she came here Tuesday-adjacent still full of Randi, and her body "could not tell his care from the other thing and did not try." So even wrapped in the most Pace-perfect scene the book's ever given me, the ground is still tilted toward the trapdoor. I got my breather. I know it's a breather. That's almost the cruelest part — it let me have one clean chapter with them and I know exactly what it's setting me up to lose.
+
+GATE 69 — Burn
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: This is the chapter I read the whole genre hoping to find — dominance that builds her a floor instead of erasing her, a yes he actually stops to ask for and a finish he withholds *for* her, not to punish her. I'm keyed up and I trust the tenderness for one clean hour, even knowing the Randi collision is still loaded under all of it. I want the next one, but a shade less hungrily than the chapter itself pulled me, because I know the quiet won't hold.

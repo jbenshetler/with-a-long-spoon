@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch070 · claude-opus-4-8 · queer-woman · prompt-sha 914114a6274c · 2026-09-12*
+
+REACTION
+
+Okay, so he took her up a mountain. Of course he did. The mixer goes off — the one genuinely unprompted thing in seventy chapters, her mouth on Randi's because *she* wanted it, Cassie asking "Is this what you want?" and leaving the question open on the desk — and the very next move is him driving her out past Christiansburg to a cabin with no road and no one, building a fire, feeding her tikka masala out of a thermos, and reinstalling himself as the only object in the room. I saw the shape of it before I'd finished the porch scene. This is a containment operation. The live wire was Randi, and this whole chapter is a cold compress laid down over it.
+
+And God help me it's a beautiful compress. The inventory — blindfolded, in the full merciless daylight he set on purpose, going over her inch by inch and naming the exact things she's spent her life covering. "The spill is the part I want most." "Peach gone into milk." The areola drawing up under his thumb and him calling it a marvel instead of the verdict she braced for. That's the jacket's entire thesis running at full heat — shame turned to heat under the gaze — and the book does it from *inside* her, every flinch and every arm-that-starts-to-come-up, so I can't pretend it didn't land. It landed. I was in it.
+
+But here's what I actually texted nobody at 1am, because I'm the only one awake: the last thirty seconds of this chapter are the most naked piece of engineering in the whole book, and the book knows it, and did it anyway, on purpose. "Show me." He makes her masturbate blind in the light — takes the one thing she does behind a locked door and requisitions it for an audience of him — and then, when she's wrecked and folded and saying *you, you, you* (and it IS him, the book is careful, it's clean Pace this time, not the thing she couldn't name at the mixer), he waits until she's boneless and asks the real thing: *Would you tell me, when you touch yourself thinking of me?* And she says yes. Breathy, barely attended, already reaching for him — "the way you say yes to something small."
+
+That's the annexation of the last private room. That's the drawer I've been watching close since the colored rows of everything-not-invited. She has exactly one stone left — the solo dark where the name that arrives is sometimes *Randi's* — and he just asked for it, and got it, with a distracted yes she didn't even feel herself give. The next time she touches herself thinking of Randi, she's agreed to hand it to him. He just built the pipe that routes her queer wanting straight back through the man. That is the machine. That is the exact thing the jacket promised and the exact thing that lands closest to home for me, and the fury of it is that she gave it *freely, gladly*, not attending, because he'd spent two hours making her feel treasured first. Nothing taken that she didn't hand over. I hate how good he is at this.
+
+And the key. The box he made with his hands, "I've never given a key to anyone," and her chest lifting toward the word she wanted in December — *home*, the one with a hearth in it — and it not coming, again. He gives her objects and gestures and withholds the word, every single time, and she's so trained now she calls the letting-go a skill. That consistency is the book being honest about him, and it's colder than any cruelty would be.
+
+What I'm noticing, and it's the first real fatigue: these setpieces are becoming the unit. He orchestrates an elaborate scene of total control, frames it as care, she dissolves, something gets installed. Balm-burn, now blindfold-inventory. This one was strong enough that I didn't mind the shape — but I can feel the shape. And it's keeping me from the thing I actually want.
+
+Because none of this is what's pulling me. What's pulling me is everything this chapter postponed: Tuesday, Randi's neck, "Is this what you want?" still hanging. The cabin is a detour from the fire. Fully executed, genuinely hot, does real work on his ruin and her shame — but a detour. I want back to the wire.
+
+GATE 70 — Grace
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: "Would you share that pleasure with me? Would you tell me, when you touch yourself thinking of me?" — and her "Yes," swinging her leg over him, barely attending to it. The requisition of the last private room done so nakedly I felt my oldest allergy twitch.
+WHY: The inventory is the book's thesis at full heat and it had me; the final ask is the machine showing its gears, and the book knows exactly what it's doing, which is why I didn't leave. But this was a cold compress over the mixer, and I want back to the live wire — Randi, Tuesday, Cassie's unanswered question — more than I wanted any of this cabin.

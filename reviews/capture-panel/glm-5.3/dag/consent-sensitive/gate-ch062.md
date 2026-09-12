@@ -1,0 +1,22 @@
+*capture-dag-v2-rich · gate ch062 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+
+**REACTION**
+
+This is the chapter I read this book for. No heat, no ladder, no brunch — just a hangover morning and a man telling a girl, plainly, that she is friends with the only friend he has. And the book knew exactly what it was doing: the moment he said "Sheri is my friend. My one friend. There isn't anyone else," I had to put the book down for a minute, because *of course.* Of course. The party chapter showed me Pace holding a whole room, handing everyone first lines, and I filed it as charm — and this chapter took that file out and corrected it. He's good with people the way a host is good with a room: entirely inside it, and then the door closes behind him and there's nobody on the other side. The book made me feel the gap the way Vee felt the drink — late, all at once, more than I'd counted.
+
+And then it went further than I expected and did the thing I keep trusting it to do: it made me do the Daphne arithmetic myself. "The ones already there... either weren't safe or weren't welcoming." He didn't say a name. Vee didn't need a name. *Went bad with his daddy. Not home since sixteen. Less than staying.* The ugly grown-up word forming under her tongue that she keeps pressing down — that's the book's whole consent engine running quietly in a chapter with no sex in it at all. He was a child among grown men, and the one person who held him held him *wrongly*, and he's built his entire emotional architecture around one woman who could never want him because she's the only kind the world ever let him keep. I'm not being asked to cheer any of this. I'm being asked to look at it with the lights on, and he's telling me himself, in his flat, well-ordered, *it isn't tragic* way — and "the good order was the tell" is maybe the sharpest line the book has spent on him. He believes it the way he believed Daphne was luck. The book sees. The book has seen the whole time.
+
+The care choreography — the water on the paper towel so it wouldn't mark the wood, the undershirt over her head, the mouth on her forehead *after he thought she was already gone* — that's him, and I love him, and here's the thing this chapter did to me: it made his withholding *legible* as damage instead of just damning. A man who never got the ordinary questions — *your folks coming up, you want to bring anybody* — every one of those has a gap under it for him. He never learned the doorway because the door never opened. That doesn't cancel Sheri's standing sentence, doesn't cancel the affair or the truck-thing or the word still in his pocket. But I understand now why he's so good at asking and so bad at telling. He was never handed the version of friendship where things get said for free.
+
+And Vee. She didn't say sorry. She crossed the counter and put her whole weight against his chest the exact way Sheri did in the doorway — she *learned* that hug last night and used it today. That's her, one honest conversation closer to everything, and this time the honest conversation happened and it was beautiful and it still wasn't *the* conversation. I notice what he did again, though: she asked about "other friends," he answered with the truest, heaviest thing he had — and the Randi-shaped hole in his answer is enormous. The man sleeping with Randi, discussing Vee with Randi, told Vee today that he has one friend. Randi doesn't exist in his account of his life. That's not a lie, exactly. It's the truck-thing grammar again: choosing the smaller truth. He gives real answers and arranges them around her.
+
+The "women misunderstand it" beat — she did the arithmetic instantly, thought of Theo, and the book didn't play it for flattery. Good. And his "she can be like that" about Sheri's look — he caught what she meant, never pretended not to. That's their whole channel in one line.
+
+1 a.m. text to my friend: "The boyfriend has ONE FRIEND. I'm on the kitchen floor."
+
+**GATE 62 — Hangover**
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: The quiet chapter delivered everything I read the instruments for — it reframed Pace's whole silhouette and made the Daphne wound load-bearing instead of decorative, while the Randi-shaped absence in his "one friend" answer quietly armed the reveal with more mass. I want the dance hall Saturday, and I want to see how long this sweetness can stand before the book lights the fuse it's been so careful with.

@@ -1,0 +1,18 @@
+*capture-dag-v2-rich · gate ch052 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-11*
+
+**REACTION**
+
+Okay, the pleasure-princess reversal had me grinning like an idiot. Vee walking down the hall spinning the "kept woman" fantasy and then doing the finger-count and finding out it's HIM — he brings her off first, sets the bread going, buys the cream — that's the book handing its own power-map to Vee to audit, and her audit is *correct*, and she gets to reign for a morning on the strength of it. The pointing game is consensual theater on both sides and the prose knows it ("the need had gotten ahead of the performance"), and his stopping at her palm like it touched him — fine, I'm in good hands, this is the good stuff.
+
+But the last third is where the chapter earns its keep, and it's the *tasting* beat. That is a textbook example of the distinction I read by: dark content the book fully knows about. The installed voice arriving "from very far down and very long ago," reaching past the tongue that had already said yes — the book names exactly where shame comes from and doesn't punish her for it. And Pace: he goes still, reads which no is which, wipes his mouth, doesn't sulk, doesn't explain, and *leaves her mouth for her until she comes to take it back.* That's the same ask-before-take ethics that won me in chapter one, holding at the exact moment it would be easiest to drop. And then — the gut-punch — Vee builds the tidy, kind, grateful explanation: *he must have forgotten to wipe. This once.* While the prose quietly tells us it's been EVERY TIME, hundreds of times, and he's been wiping carefully for months and this once he didn't. Which means this "forget" was a choice — a gentle, patient, deniable little test, timed for the morning after she came back to him. The book gives me the truth and gives Vee the anesthesia, and she *chooses the anesthesia* — "she did not ask herself what it had been looking for." And I love that the book doesn't play it as violation; her body says yes the whole way and her mouth went hunting on its own. But he made a decision about her without asking, and the book knows I know, and Vee half-knows, and it's "settled somewhere under the affection, minor-key, waiting." That's the whole book's method in one sex scene. I'm both turned on and lightly chilled and the book wants both.
+
+And then the last line. "Randi always did." Tuesday's coming, Randi gets every detail, and Vee's about to hand her the exact data point — *he likes tasting it* — to the woman who's already steering her and can't say the word. I felt actual dread. Also: whatever "carried in from the truck could keep" is, it didn't show, and the honey-edge "sharp and salt" that maybe wasn't her — I noticed that and I'm filing it with the truck thing. Two unexplained tastes in this book now.
+
+The prose is showing off a bit (the persimmon, the orange as metaphor for cunnilingus — the fruit section basically put a bow on it), but I forgive it because the showing-off is in service of Vee's education in her own appetite.
+
+**GATE 52 — Missed a Spot**
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+ALMOST-STOPPED: none — the "he must have forgotten to wipe. This once" beat was the closest thing, a cold half-second where I checked whether the book knew; it does, so I stayed.
+WHY: The chapter ran hot and then quietly did the book's best trick — gave Vee a truth and a painless lie, and let me watch her pick the lie with the real one lit up "minor-key, waiting." Plus Tuesday looming: Vee is about to narrate this scene to Randi, and I need to be in the room for that more than I need sleep.

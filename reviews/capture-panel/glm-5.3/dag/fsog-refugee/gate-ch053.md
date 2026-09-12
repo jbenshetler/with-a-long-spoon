@@ -1,0 +1,16 @@
+*capture-dag-v2-rich · gate ch053 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-11*
+
+REACTION — Oh, this chapter. This is the kind of quiet that costs me nothing and gives me everything, because the care is all over the page. "I want to meet your people. The ones you tell me about." I actually put the book down for a second. This man — the man who chose the smaller truth with his eyes open in chapter 42, who folded his arms in December — has just spent the whole fall filing away Meg's half-size boots and Kayla's paint-off-the-wall, and he hands it back without turning around, no weight on any of it, like it's nothing. And it's everything. "Your heel came up out of the right one when you pushed off." That's the sewing machine again. That's the same man who built a dress off one magazine mention. He loves by inventory, by attention, and he's finally offering to spend it where she can see it — in front of her friends, in daylight, which for Pace is the equivalent of standing up in church and saying the word out loud. It's not "I love you." But it's him walking toward the building that word lives in, in public, with his face showing.
+
+And I noticed what Vee did with Cassie, and it made me love her more: she wouldn't build a dinner one of her people had to be a good sport at. She watched somebody be fine about it before "and she wasn't going to look at when" — that's her mother's table, or the cropped photo, I don't even need to know which. She's carrying her people the way Pace carries his grief, quietly, and it made the whole roster land warm.
+
+The Theo beat was sly. She over-explained and caught herself doing it, and he just said "Bring Theo" and reached for the next pan. No jealousy, no interrogation, no territory-pissing. Two years of reading this genre I've sat through so many men who'd have made that a fight, and Pace just — trusts her, and keeps his hands in the dishwater. God. And "Let me handle it" with that thing in his face he'd have called happiness if he'd let it further out — I know exactly which restaurant he's going to find, and it'll be somewhere nobody has to sit at the wrong end.
+
+But here's what's humming under all the warmth: he's building a room. Kayla, Meg, Cassie, Randi, Theo — and I know what I know that Vee doesn't. Randi is going to be at that table. Randi, who started this as a game with him, who told Vee every detail of him over lunches, whose heels Vee is walking around in. And Cassie is going to be there — Cassie, who's owed the middle, whose "not" is growing. Worlds in one room is exactly what I've been begging for and it's also a room full of fuses: Randi and Pace have to perform "strangers, nine words, mostly math" across a table from each other while Vee beams between them, and one wrong pronoun from Kayla — who can talk the paint off a wall, and who Vee tells everything — and it all comes apart. The book gave me a purely happy chapter and used it to load the gun. I'm onto it. I don't even mind. Load it.
+
+GATE 53 — Back
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: Nobody's in a bedroom and I still read the whole thing with my heart up. The listening reveal (Meg's boots!) did what the doorway did, quieter. And the party he's planning is a room with every kept secret in it — I want to be at that table the second it's set.

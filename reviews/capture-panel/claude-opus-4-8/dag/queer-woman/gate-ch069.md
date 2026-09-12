@@ -1,0 +1,20 @@
+*capture-dag-v2-rich · gate ch069 · claude-opus-4-8 · queer-woman · prompt-sha 914114a6274c · 2026-09-12*
+
+REACTION
+
+So this is the chapter where the book takes the thing it finally cracked open — the kiss, the *I wanted her mouth on me*, the wet-necked mess she drove out to Pace to try and outrun — and quietly walks it back into his kitchen and shuts the door on it. Randi cancels brunch in the first line. And there's Pace, offering the gym "while you have your girl time," stepping neatly into the Randi-shaped hole the way he steps into every hole in her life. I clocked that in the first paragraph and my jaw set a little, because I've watched him do it to Cassie, to the whole floor, and now he's doing it to the space a *woman* just opened in her. The book had the charge on Vee's side of the glass and reaching the architect, and this chapter picks it up and pours it, every drop, back into a man's hands.
+
+And I'm furious about it and I was also turned on, which is the exact bind this book keeps putting me in and I resent how good it is at it. The gym stuff first — "everything gets a collar," the loaded bar he keeps inside what he can put down alone so she's never responsible for a weight she can't hold, the way he seats her hands and feet for two foolish little plates with his whole face. That's the tenderness-as-inventory I've been cold to for ten chapters, and the book *knows* I know, because it lets her think "a little much, and not for the first time" and then makes the collar the thing that would have saved the boys' bar from maiming her. It flatters the control by having the world prove it right. I don't trust it and it works on me anyway.
+
+The burn scene is a genuine piece of work, I'll give it that — the balm as a slow fuse, the warmth that was kindness on her sore neck turning to face down her body and stop being kind, the two fires staggered, the *I know* / *I know* while he won't let her have it. That's desire rendered from the inside, specific and physical, no argument. And she demands it — twice, out loud, in the one word she can get out, *yes* before he's asked. So the ownership's there; the book keeps handing me the ownership so I can't file it under done-to-her.
+
+But here's the thing that actually chilled me, and it's small: *"We need to wait."* We. The plan-language, the two-way *we*, dropped into a scene where she's alone with him and pinned. He rations her finish "because it would cost her," and I'm supposed to read it as care, and it *is* care, and it is also a man deciding, again, exactly what she gets and when — the door on the porch in December, the name instead of the word, "those stay on," and now the orgasm withheld for her own good. He's still the one holding the coin. And her wanting-Randi, the thing that's *hers*, the book says out loud "turned and asked him instead." That's the sentence I'd text a friend at 1 a.m. with a screenshot and just "??? he's LAUNDERING it." The queer charge goes in the front and comes out the back with his name on it. That's the flinch I've been watching for — not the book flinching from queerness, but the book routing the queerness through him so it never has to pay Randi directly.
+
+So: no Randi, no daylight, no plan-reveal, Cassie's question from last chapter left hanging. It's a deferral chapter dressed as a showcase, and the showcase is hot enough that I almost didn't mind, and "almost" is the whole problem.
+
+GATE 69 — Burn
+DECISION: CONTINUE
+CAPTURE: 6
+NEXT: 6
+ALMOST-STOPPED: *"her wanting had had nowhere to go all night, and it had not gone quiet; it had turned and asked him instead."* — that's the book taking the one thing that was hers and re-addressing the envelope to him, right in front of me.
+WHY: The burn scene pulled me physically and the ownership's real enough that I can't dismiss it, but this is the Randi charge laundered straight back into Pace's hands, and Saturday brunch plus Cassie's unanswered question are the only reasons I'm turning the page — I want the bill, not another chapter of him collecting on it.

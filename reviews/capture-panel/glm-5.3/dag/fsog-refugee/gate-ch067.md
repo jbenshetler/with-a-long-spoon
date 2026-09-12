@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch067 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+
+REACTION — Oh, this one wound me tight. Nothing "happens" — a Lifesaver, a wrist graze, a neck kiss, a refused mouth-turn — and I put the book down and just sat there for a minute. That's the chapter doing exactly what it's about: Vee outrunning a thing all day, and the thing walking up beside her holding the apprehension's hand. That last line is going to live in me a while.
+
+The wrist. Of course it's the wrist. This book has been keeping a ledger on that body part since "he parked" at the toll booth, and now Randi's fingertip finds the inside of it for a half-second over a wintergreen Lifesaver and Vee loses the entire rest of the lecture. I loved that the wintergreen's gone soft — these two have been doing this little ritual for weeks, soft candy, old habit, and tonight the habit detonates because everything lands different and nothing about Randi has changed. "The same as any of the few classes we'd been doing this." The *few*. She's counting now. Counting is how it starts.
+
+And the refused kiss at the door — I want to kiss this book for it. Vee *turning her mouth away on purpose* and taking the miss. After sixty-six chapters of a girl whose mouth acted before her committees convened, we finally get the deliberate no, aimed at the one person it costs her the most to refuse. And the book is honest about why it doesn't work: she turns the mouth and then blurts "Brunch" out of the ringing neck. The refusal and the invitation in the same thirty seconds, both true, both from the same unmanaged place. That's exactly what wanting looks like from inside — not a clean yes or no, a girl steering by the parts of her that aren't thinking.
+
+Randi saying "I've got to go discipline a bad girl" about sorority standards while Vee's whole body is on fire — that's almost mean of the book, and then the neck kiss lands as "see? how do you like it?" — Randi giving her back her own move from two chapters ago, twice-placed mouth, exact same spot. Vee kissed Randi's neck on purpose-without-permission; Randi just answered in kind, delighted, not sorry. The con artist's grammar running in reverse, exactly what my notes said was coming. The bill is arriving in her mouth, one small installment at a time, and Vee just scheduled Saturday brunch while flushed. I actually laughed — nervous, delighted, dreading it.
+
+Cassie's "What was that with you and Randi?" is the knife at the end. The one person with the cleanest ledger asks the plainest question there is, and Vee can't produce the easy lie — not because she won't, but because she *doesn't have it*. She doesn't know. That's a new failure mode for a girl who's gotten fluent in managed versions, and the fact that the lie won't come tells me more about where she is than the neck kiss did. And there's the sweater lie still standing between them, feeding the "not," and now Cassie's looking at her with worry she didn't trouble to hide. Avalanches here start exactly this size.
+
+Small thing that caught me: "Having you at the dance was so great" — the lag, the word arriving after the woman moved on, same lag as in his bed. And Vee clocking that here there's no him to charge the heat to. "No one to charge it to." The book keeps making her hold the want with nowhere to put it, and Monday night with her hand flat on her stomach like a lid on a pot was almost hard to read — in the good way, in the aching way. She wouldn't touch herself because she knows whose name arrives. That's the breath's width from chapter 59, grown teeth.
+
+Also: "she'd stopped keeping the count that used to scandalize her" — Sunday where she starts it twice, and drives home full of him and *not filled*. The book isn't letting Pace be the cure anymore. It never really was, but now she knows it.
+
+I'm watching Pace with one eye, though. "You want Randi" — she swung it onto him and he defended himself for the first time ever, and she read it as sweet. I read it as the guilt leaking, same as Randi's "you picked well." Two people who know what they started, both in love with her, both letting her walk toward Saturday in the dark. The plan's still unrevealed and every chapter now tightens the spring another notch. When it goes off it goes off in front of a girl who just learned to refuse on purpose and still couldn't hold the refusal for a full minute.
+
+Sixty-seven chapters and the consent discipline still holds — Vee's deliberate turned mouth was *honored*, Randi read it and let the plague excuse stand and didn't push the kiss. Even the neck kiss is Randi answering Vee's own precedent. Nobody steamrolls. Nobody winks at cruelty. The care is real everywhere, which is why the suspense is unbearable instead of just tense.
+
+GATE 67 — Coming Due
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+ALMOST-STOPPED: "she got the plum sweater halfway on and stood there with her arms caught in it, unable to say whether she was dressing to be looked at or dressing to be covered up" — the quiet sagged for me there, mid-chapter, before the wrist brought me back.
+WHY: Nothing happened and everything happened — a fingertip on a wrist and a refused mouth and "Brunch," and Saturday is now a lit fuse with Cassie's question standing under it. I need to see what she walks into and whether Cassie gets an answer.
