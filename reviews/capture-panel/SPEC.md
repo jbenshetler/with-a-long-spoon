@@ -280,6 +280,66 @@ engaged, which is the filter working. Both stretches sit inside ch5–17, the
 volume's longest heat-free run before `famished`; ch11 `leave-no-trace` scores a
 **10** between them, so the stretch is building appetite, not sagging.
 
+## Reading a complaint against a high score — the dip rule's inverse (recorded 2026-09-12, at author request)
+
+The dip rule above handles low scores. This handles the opposite and more common
+case: a reader who scores a chapter 9 or 10 **and files a complaint anyway.**
+
+**The score sets urgency, never validity.** CAPTURE and NEXT measure pull; a
+complaint is content. A 10 does not mean defect-free — it means the defect did not
+cost the page. The instrument only measures the first claim, so a high score never
+clears a flagged line.
+
+**1. Classify before weighing.** Four kinds, opposite handling:
+
+- **Appetite** — *"I'm keen for the Randi fallout, not another Pace worship
+  crawl."* The engine working. Reads like a complaint, is a receipt. Never fix.
+- **Craft** — *"ran the same gear nine times in a row"*; *"the kiss-and-feed
+  rhythm started to feel procedural."* Actionable at any score.
+- **Trust** — *"for one line the book asked me to just melt at the romance of it,
+  clean, and I nearly…"* Highest priority regardless of score: the thesis is at
+  risk, not a sentence.
+- **Self-disqualifying** — *"not that I'd quit,"* or a complaint whose own WHY
+  converts it to dread. `gpt-5.5 · consent-sensitive` quoted {{Still Life}}'s new
+  last line as her closest-to-leaving moment, then explained it as *"the whole
+  beautiful scene feels like a held breath, because secrecy is no longer just
+  around Vee"* — the engine, not a defect.
+
+**2. Weight by convergence, not by the attached score.** Three readers on one line
+at 10/10 beats one reader at 5. Cross-**model** convergence outranks
+cross-persona: personas share a prompt, models don't.
+
+**3. Correct for lane before reading severity.** `gpt-5.6-sol` runs ~2.1 points
+above `claude-opus-4-8` on identical prose and reports `ALMOST-STOPPED: none` most
+of the time, so **sol complaining at all outranks opus complaining**, even though
+opus's number looks worse. A grumble from a generous lane is the louder signal.
+
+**4. An ALMOST-STOPPED attached to a high score is the single most valuable datum
+the instrument produces** — no survivorship bias: the book held the reader
+completely and still nearly lost her, at a line she will quote. Five readers
+quoting *"Would you tell me, when you touch yourself thinking of me?"* while
+scoring {{Grace}} a 9 matters more than any of the 9s.
+
+**5. Only then use the score, for sequencing.** Same complaint at 10 = real, no
+revenue at risk, fix it next time you're in the file. At 6 = fix before
+publication. Anywhere in ch1–4 = fix now; no goodwill is banked.
+
+**The inversion worth internalizing: a 10 with no complaint is the least
+informative gate available.** Sol's four 10/10s on {{Still Life}} said only "didn't
+lose her"; every usable finding that day came from the lane with the worst
+numbers. That is the standing argument for keeping opus on the panel despite it
+dragging every average down — and for reading a lane that stops complaining as a
+lane that has stopped being useful.
+
+**Structural corollary — capture silence is not craft clearance.** Complaints
+harvested here should be triaged by the **cold-read** lane's standards, not this
+lane's; the scores are capture data, the complaints are craft findings that
+arrived in a capture wrapper. {{Grace}} is the proof: `consent-sensitive` — the
+instrument built for exactly that problem — never flagged the un-asked
+penetration in either version, while `gpt-5.6-sol`'s *cold* read caught it
+cleanly and drove the revision. A chapter that the capture panel loves may still
+be owed a cold read.
+
 ## Instrument revision + read-out discipline (author ruling 2026-09-11)
 
 Prompted by the question of whether the breather drops were a misconfigured
