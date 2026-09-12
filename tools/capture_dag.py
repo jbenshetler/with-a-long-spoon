@@ -19,6 +19,7 @@ Restartable: existing gates/checkpoints are skipped.
 Usage:
   tools/capture_dag.py --models claude-opus-4-8 gpt-5.6-sol            # all 4 personas
   tools/capture_dag.py --models claude-opus-4-8 --personas fsog-refugee --to 12
+  tools/capture_dag.py --models ... --to 70 --fresh   # re-read ch70 after revising it
   tools/capture_dag.py --models ... --assemble    # build <persona>--volume-dag.md records
 """
 from __future__ import annotations
@@ -140,8 +141,14 @@ def write_doc(path: Path, header: str, body: str) -> None:
     path.write_text(f"{header}\n\n{clean_markdown(body)}", encoding="utf-8")
 
 
-def run_reader(model_id: str, persona: str, agent_fn, to_n: int) -> str:
-    """Sequential chapters 1..to_n with decade mints. agent_fn(system, prompt, label)."""
+def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
+               fresh: int | None = None) -> str:
+    """Sequential chapters 1..to_n with decade mints. agent_fn(system, prompt, label).
+
+    `fresh` names a single chapter whose existing gate (and decade mint, if it
+    sits on a boundary) is overwritten instead of resumed past — the re-read of
+    a revised chapter. Scoped to one chapter on purpose: the run's scope is the
+    whole range 1..to_n, so a blanket refresh would re-read the entire book."""
     d = dag_dir(model_id, persona)
     stopped = d / "STOPPED"
     read_sys, read_sha = sysprompt(persona, "core-chapter.md")
@@ -150,7 +157,7 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int) -> str:
         if stopped.exists():
             return f"{model_id}·{persona}: stopped earlier"
         gp = gate_path(d, n)
-        if not gp.exists():
+        if not gp.exists() or n == fresh:
             label = f"{model_id}·{persona}·ch{n:02d}"
             raw = agent_fn(read_sys, read_prompt(d, n), label).strip()
             if "DECISION" not in raw.upper():
@@ -164,7 +171,7 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int) -> str:
             return f"{model_id}·{persona}: STOPPED at ch{n}"
         if n % DECADE == 0:
             cp = ck_path(d, n)
-            if not cp.exists():
+            if not cp.exists() or n == fresh:
                 label = f"{model_id}·{persona}·mint-ch{n:02d}"
                 raw = agent_fn(mint_sys, mint_prompt(d, n), label).strip()
                 if len(raw) < 800:
@@ -258,6 +265,9 @@ def main() -> None:
     ap.add_argument("--to", type=int, default=N_CH)
     ap.add_argument("--effort", default="low")
     ap.add_argument("--assemble", action="store_true")
+    ap.add_argument("--fresh", action="store_true",
+                    help="re-read the target chapter (--to N), overwriting its existing "
+                         "gate and, on a decade boundary, re-minting its carry-forward")
     args = ap.parse_args()
 
     if args.assemble:
@@ -271,7 +281,8 @@ def main() -> None:
     def one(m, p):
         fn, close = make_agent(m, args.effort)
         try:
-            results.append(run_reader(m, p, fn, args.to))
+            results.append(run_reader(m, p, fn, args.to,
+                                      args.to if args.fresh else None))
         except Exception as e:  # noqa: BLE001
             failures.append(f"{m}·{p}: {e}")
             print(f"  FAIL {m}·{p}: {e}", flush=True)
