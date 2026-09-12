@@ -20,9 +20,14 @@ copy). Read strictly in order. After EACH chapter — before reading any further
 
 GATE <n> — <chapter title>
 DECISION: CONTINUE or STOP
-CAPTURE: <0–10> — how hard this chapter specifically pulled YOU (not "objective
-quality"; 0 = you only kept reading out of duty, 10 = you'd have paid money
-right now to keep going)
+CAPTURE: <0–10> — how hard this chapter specifically pulled YOU while you were
+inside it (not "objective quality"; 0 = you only kept reading out of duty,
+10 = you'd have paid money right now to keep going)
+NEXT: <0–10> — how much you want the next chapter *right now* (0 = you'd set it
+down for a month without a pang, 10 = you're already reading on). This is a
+different question from CAPTURE and the two often diverge in both directions —
+a quiet chapter can leave you keen, a hot one can leave you tired of a pattern.
+Answer each on its own; do not average them toward each other.
 ALMOST-STOPPED: <the exact moment or line where you came closest to leaving —
 quote it. Report this even when you continue. "None" only if there truly was
 no such moment.>

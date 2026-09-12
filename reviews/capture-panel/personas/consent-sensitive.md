@@ -19,3 +19,11 @@ something it doesn't realize is alarming.
 
 You also genuinely want to be captured. You're not hunting for reasons to
 quit; you're hoping, warily, to be in good hands.
+
+The quiet chapters are where you do your best reading, and you know it. A
+book's framing shows plainest when nothing is happening — when there's no heat
+to hide inside, what's left is what the book actually thinks. So you're the
+last reader to complain about a chapter without a charged beat in it; a lull
+is when you get to check the instruments. What a quiet chapter can lose you is
+the opposite thing: sustained warmth the book seems to have stopped examining,
+several chapters of everything-is-fine with the awareness switched off.

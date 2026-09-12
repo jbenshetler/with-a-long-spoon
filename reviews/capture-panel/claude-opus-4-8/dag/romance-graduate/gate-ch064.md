@@ -1,0 +1,20 @@
+*capture-dag-v2-rich · gate ch064 · claude-opus-4-8 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+
+REACTION
+
+Okay so first — the game. The *still means the brush stays, moving means it goes away* thing. I did not expect a new toy this deep in and it got me, genuinely, in the body, because it's the whole book's thesis turned into a mechanic you can feel: she gets the thing only by handing over the choosing, and the more she reaches the longer she waits, and the moment she finally stops trying to hold the pose — "she gave up… the relief of no longer making the choice broke something loose inside her" — is the moment she comes. That's not choreography I've read a hundred times. That's the seduction-by-consent premise made physical, and it landed. I texted no one but I wanted to.
+
+And the front half — her walking in and shoving him down and taking him in her mouth first, getting *wrecked by doing it*, "the gladdest she had ever been on a floor" — I liked her there. She's not being staffed in that opening, she's driving, and then he takes the wheel with the paint and she lets him, and both halves are hers in different ways. The scar, too. She's reached for it before and been moved off it without a word, and this time she just kisses it once, asks it nothing, goes past. That's the one quiet emotional inch and it's placed right. After chapter 62 — after the *one friend, there isn't anyone else* gut-punch, which is still sitting in me like a swallowed stone — that little scar mercy reads like her carrying 62 into her hands.
+
+But. I'm going to be honest about the taste, because it's the thread I actually care about and this chapter *knew* I cared and dangled it and pulled back again. The gesso. He primes her with her own wetness, paints her with herself, and pointedly does *not* bring it to her mouth — every other color came with a kiss and a bite of fruit and this one came with nothing, "her own slick moved cool across her mons and no taste followed it," and she frames the question and *does not give it words.* And then at the very end, intercourse, she reaches for his mouth and there's "a trace" — salt, sour, gone when she chased it — and she lets the uncertainty dissolve into the wave. That's four chapters now, maybe five, of the book holding that exact glass an inch from her lips. I loved it the first two times. Now I feel the deferral as deferral. I want it to *break*, and 59 and 60 pointed it at Randi, and instead we're back in Pace's bed with the question tabled again.
+
+Which is the other thing: where is Randi. She's been gone since the bed in 60 — Sheri, hangover, wax, paint, all Pace, all safe heat. This was a beautiful set piece and it's the second hot chapter running and the woman I was told to watch for has vanished for four. The painting is glorious and I mean that — the "abundance is the point," her body as the art, the breasts as split cantaloupes, the photo she asks for with no shame — that's the body-acceptance heat I actually came for, done with real feeling. But it's also a very long time to spend on one gorgeous static tableau, and somewhere in the middle of the melons I felt the length.
+
+Still on the hook. The dance is coming — Saturday, the hall, "leave them shoes home" — and I want Randi back and I want that taste to finally cross the last half-inch. Continue, easily. But the book's spending heat where I'm hungry for the turn.
+
+GATE 64 — Still Life
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 6
+ALMOST-STOPPED: "He did the right breast next. He did not go near either nipple." — somewhere in the long climb of the painting I felt it tip toward set-piece, one more exquisite deferral in a chapter already made of them, and I skimmed a half-line ahead.
+WHY: The stillness game is a real new thing and it got me in the body, and the scar-kiss carried 62 forward tenderly — but it's the second straight heat chapter, Randi's been offstage four chapters, and the taste thread got teased and tabled *again* when 59 and 60 promised me it was about to break. I want the turn, not another beautiful room.

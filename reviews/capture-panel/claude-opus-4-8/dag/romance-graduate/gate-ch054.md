@@ -1,0 +1,20 @@
+*capture-dag-v2-rich · gate ch054 · claude-opus-4-8 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+
+REACTION
+
+Three of these in a row now, and I feel it. Fifty-one was the doorstep and it wrecked me; fifty-two was the pancakes-and-going-down-on-her marathon that I mostly loved and half-clocked the gears on; fifty-three was the dinner-party seed. And now fifty-four is Vee coming home to Cassie and I spent a good chunk of it reading the mushroom breakfast *again* — the blood oranges, the jewels, the salt on the persimmons, the burnt toast — a breakfast I read in full two chapters ago. I know why it's here. It's here so I can watch her tell it. But my tongue's tired of these three grains of Japanese salt.
+
+Because here's the thing the recap is actually doing, and it's the only reason I didn't skim: she *lies.* Straight to Cassie's face, smooth as anything — the cranberry sweater shrank in the wash, that's why she was in his t-shirt, that's why he burned the toast. She invents it whole, in real time, and Cassie throws her head back and laughs the rare full laugh, and the book lands it like a knife going in soft: "the record stood exactly where Vee had left it, corrected by nobody." That's the machine. She walked out there naked under a coat as a grand gesture engineered by Randi and she's now feeding her clean compass a cover story about *laundry* and the compass buys it. The one person who fired the scalpel back in the fall — "is it that you can't say, or you don't want to?" — is home, physically in the room, both lamps on, and she can't see a thing anymore, or she can and she's decided laughing along is the kinder read. Either way Vee's covering now. That's new and it's bleak and it kept me in the chapter.
+
+And then the card. Vee sent Cassie's mother a Christmas card, and Cassie's mother says thank you, and wants to know when she gets to see Vee again — and it goes through Vee "like a hand cupped briefly at the back of her neck." *That's* the realest tether in this whole book and it snuck in on the snowshoes-in-the-house register. She has a whole other family that's actually hers, un-engineered, no play run on her, a mother who saves boxes and a brother-in-law who scratched the floors — and it lands sideways and Vee won't examine it, deflects it to "spring break, sometime, tell her hi," and Cassie mercifully closes the subject "the exact moment before it would have needed anything." God. The book showed me the one clean thing Vee has right as she's dissolving into the built thing. That's the tenderness being merciless again.
+
+The bunk ending was fine — the acreage of his bed versus one girl wide, her hand out finding cold cinderblock, leaving it there. Pretty. But it's the missing-him loop I've seen a dozen times and I clocked the gear even as it worked a little.
+
+What actually has me turning the page isn't this chapter — it's the two fuses lit before it. She's going to tell Randi "nearly everything" Tuesday, and there's the swallowing thing from fifty-two, the salt she went hunting for, the "why does he like it so much" she filed under the affection with its small light still on. I want to watch her try to say that to Randi and I want to see what Randi does with it. And the collision dinner Pace is quietly building — all her worlds, Theo included, in one room. That's a setup with teeth. This chapter was the breath before it.
+
+GATE 54 — Unpacking
+DECISION: CONTINUE
+CAPTURE: 5
+NEXT: 7
+ALMOST-STOPPED: "'He salts the persimmons.' / 'Three grains. They do it that way in Japan.'" — reading the entire breakfast a second time, two chapters after I read it the first time, three quiet chapters deep, was the closest I came to setting it down.
+WHY: It's a bridge, and a recap-heavy one, but the lie to Cassie — "corrected by nobody" — and the mother's card doing more to me than any meal has in fifty pages earned the page turn. And the swallowing confession and the collision dinner are both loaded now; I want the next one for what it's carrying, not for what this one gave me.

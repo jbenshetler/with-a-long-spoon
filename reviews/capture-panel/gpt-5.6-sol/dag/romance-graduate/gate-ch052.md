@@ -1,0 +1,20 @@
+*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+
+REACTION — Oh, this got me. The pleasure-princess turn is exactly the kind of erotic power shift I wanted for Vee: not some abrupt personality transplant into a flawless dominatrix, but her discovering she can make this immensely controlled man burn toast, follow her down the hall, strip on command, and wait for one pointing finger. She is playful. She is greedy. She is enjoying her body instead of merely enduring being desired in it. Her naked at the counter with one scrunchie on, Pace walking in with groceries and managing only “I got mushrooms”—that is absolutely the text I would send a friend at one in the morning.
+
+And the food still gets me because it is never just decorative rich-man competence. “Even his absence had been cooked in advance” nearly undid me. He has thought about her waking alone, timed the bread, made the coffee, laid out warm clothes. Then the blood orange with every membrane removed—nothing between anybody and the fruit—made me feel the whole dangerous promise of him again. He knows how to remove every barrier except the one made of truth.
+
+The sex was ferocious precisely because Vee was conducting it until she wasn’t. Pointing to her wrist, arranging herself on the cashmere, making him travel every inch while she plays princess—I was completely in. And then her command turns into a shaking plea, and he knows the difference without humiliating her for it. That matters enormously to me. Even more: the instant she says “wrong,” he stops inside her and begins to withdraw. No bargaining, no wounded male performance, no eroticized boundary-testing. When she clarifies, he accepts the exact boundary and leaves her mouth for her to reclaim. That is the grown-up attentiveness I keep wanting from him, and it makes the larger deception hurt worse, because he is so exquisitely trustworthy inside the boundaries she can see.
+
+Her disgust at tasting herself, followed by her tongue secretly going back to look for the taste, was painfully Vee. Her body says yes first; the old installed voice slams down afterward; then she builds a tidy explanation that lets her remain the woman she thought she was. I don’t read her “gross” as coyness. I felt the childhood rule arrive like a trapdoor. And Pace’s gentleness afterward made the curiosity possible instead of killing it. That faint hunt for salt is hotter to me than a dozen instantly enthusiastic scenes would have been, because it belongs specifically to her shame, appetite, and dawning self-knowledge.
+
+But Jesus Christ, “That’s the plan.” I know he means keeping her naked and fed. I also know there is an actual plan she does not know about, and the line dropped ice straight through the warmth. Same with the cashmere: another perfect gift silently appearing, another act meant to replace a conversation. She experiences his unspoken provision as safety because she still believes silence means tenderness rather than concealment.
+
+And now she is going to tell Randi. Of course she is. The woman secretly sleeping with Pace is about to hear Vee describe discovering the taste of herself on his mouth, and Vee trusts her to interpret it because “Randi always did.” That last line is a knife. I am already imagining Randi understanding far too much—possibly understanding Vee’s desire before Vee does, certainly becoming aroused by details she engineered, and once again guiding Vee without disclosing her own stake. I want Tuesday immediately. I also want to reach into the book, take Vee by both shoulders, and tell her that the two people who make her feel most seen are sharing the one fact that would let her see them.
+
+GATE 52 — Missed a Spot
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+ALMOST-STOPPED: none
+WHY: This gave me the explicitness, play, emotional specificity, and complicated interiority I picked up the book for. The heat was extraordinary, but “Randi always did” turned all that satisfied warmth back into dread, and there is no chance I’m stopping before Tuesday.

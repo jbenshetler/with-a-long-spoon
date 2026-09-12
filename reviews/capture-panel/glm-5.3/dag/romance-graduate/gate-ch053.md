@@ -1,0 +1,16 @@
+*capture-dag-v2-rich · gate ch053 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+
+REACTION: Oh, this man. This chapter is nothing — a kitchen, a sink, a roster of names — and I'm sitting here with my hand over my mouth because it might be the most romantic thing in the book since the cracker sentence. He's at the sink with a pot in his hand and he says "I want to meet your people" like it's a grocery item, and it landed on me the way it landed on Vee, all that gold at once. Because this is him *spending.* This is the man whose whole pathology is "the word is what makes loss unlivable" — and he just volunteered to walk into a room full of her people, where she's Vee-of-the-dorm in front of everyone, where she'll be seen belonging to him. After a month of folded arms. He's doing the thing he can do — the doing, the handling, the provision — but he's doing it in the direction of the saying, and I felt that.
+
+And then the book went and did the thing it does, where a warm chapter turns a knife while my guard is down. "Your heel came up out of the right one when you pushed off." A half sentence from October, on a trail, kept on a shelf with her friends' names on it. I actually had to put the Kindle down for a second. That's the interiority I'm starving for — not "he loved how she talked about her friends," but the *boots*, the *half size big*, the fork squared to the edge of the nachos table showing up in her head uninvited. The Chili's picture arriving and not wanting anything from her, just standing there until she'd seen it. That's grief doing its work sideways.
+
+The Theo beat was so exact it hurt — her over-explaining to a man who never asked the question she braced for, and him just "Bring Theo" and the next pan. That's either a secure man or a man performing security with the drawer still shut, and I honestly can't tell which, and I love that I can't tell.
+
+But. You know me. You know what my eye did on "Let me handle it." That's Randi's verb. Randi handles. Randi dressed the seduction and steered the coat; Pace handles the dinner and picks the place. Two people, both closest to her, both "handling" her world for her — and the jacket told me on page one that these two started this as a game. A party is a *board*. Randi in the middle of all of them, Cassie at the edge, Kayla who can't be trusted around the story of the shirt — and if Randi's brunch questions ever collide with a room full of Vee's actual life, the plan has witnesses. I don't trust this book's coincidences, and "Let me handle it," warm face, happiness half out of the cage, is exactly the sentence this author would make me reread in horror later. Also the small sharp note: Randi "let him feel like it was his idea" — and Pace said it flat, no judgment, and my inventory brain filed that under Things These Two Have In Common that neither of them knows yet.
+
+GATE 53 — Back
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: Quiet bridge, but it moved them — he volunteered for her world, and the party is a loaded gun with everyone I care about invited to stand around it. I want the planning, I want Randi hearing about it, and I'm braced for whatever "handling" turns out to mean.

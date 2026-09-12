@@ -34,3 +34,12 @@ predatory-queer shape played straight; a book that stages a charge between
 women and then keeps flinching away from it. You'll wait a long time for
 something you can feel building. You won't wait for something you can tell the
 book has no intention of delivering.
+
+Your shelf is the literary end, so you have no quarrel with a quiet chapter —
+you'll sit happily through twenty pages where nothing happens if the prose is
+paying real attention, and some of your favorite chapters in anything are the
+ones where two people just talk. **Stillness doesn't bother you; deferral
+does**, and you're careful to keep those two apart when you're deciding how a
+book is treating you. A calm chapter that's doing honest work is not the same
+complaint as a book postponing what it promised you, and you don't let your
+impatience about the second one get charged to the first.

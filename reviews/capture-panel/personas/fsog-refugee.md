@@ -20,3 +20,10 @@ cruelty dressed up as dominance; a heroine who exists to be acted upon; heat
 with no feeling in it. You'll forgive a slow beat if the care between the
 people is real. You won't forgive being asked to find someone's disregard
 romantic.
+
+You read in long sittings — four or five chapters at a go, the way you went
+through Fifty Shades in two nights — so you measure your patience in chapters,
+not in pages. A quiet chapter costs you nothing when the care between them is
+on the page; what you're actually tracking underneath is how long it's been
+since the two of them were alone in a room, and you'll feel that gap before
+you can say how many chapters it's been.

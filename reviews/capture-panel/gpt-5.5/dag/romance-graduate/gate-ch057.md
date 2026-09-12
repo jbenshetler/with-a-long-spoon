@@ -1,0 +1,18 @@
+*capture-dag-v2-rich · gate ch057 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+
+REACTION — Oh, this got me. This is exactly the kind of “bridge” chapter I don’t resent because it isn’t really a bridge, it’s a room being built around her. Pace finally, publicly, repeatedly saying “Vee’s boyfriend” should have been small, almost funny, and instead it made me put a hand to my own chest a little. Because that was the thing. Not the capital-L word, not yet, but a word spent in public, in front of her people, with no flinch and no hedging. He didn’t perform masculinity at the table; he performed belonging to her. Delicious.
+
+And the dinner place was perfect. I love that he understood the assignment so precisely: no screens, no hard dinner-table seating chart, no one trapped at the end being polite under Randi lighting. Buffet, pine, movement, people able to orbit and settle and escape. That’s emotional intelligence in logistics, which is maybe my personal porn at this point. He didn’t charm them by holding court. He made each person more themselves. Danny gets to talk lifting without being measured against him. Theo gets “for you,” which is such a clean little key. Cassie gets the Bricklayers and then gives him the sacred roommate origin story. Cassie saying “You can stay” is, honestly, a papal blessing.
+
+Randi, though. God. Randi first in the room with the beer, dressed almost-right but still Randi because the shoes cannot descend below a certain floor. Randi gripping Vee’s hand when Pace says boyfriend. Randi saying meeting Vee was the highlight of her year. I believe her. That’s what makes me nervous. Her feeling here is real enough to hurt, and the book keeps letting me feel the loveliness of it before reminding me there is a whole secret structure underneath. The glazed quiet after the toast? I don’t think Vee is wrong that she moved Randi. But I also felt the room tilt. Randi and Pace in one room together, getting along, laughing where Vee can’t hear them, and the reader knowing what Vee doesn’t know yet — that little stinger of jealousy had more truth in it than Vee could let herself hold.
+
+And then the parking lot/truck sequence: yes. Yes, sorry, I am very easy when the book earns it this hard. Her desire after watching him be good to her friends made complete sense to me. It wasn’t random heat stapled onto a social chapter; it was her body translating pride and relief and public claiming into want. The blowjob in the truck felt like her answering every “Vee’s boyfriend” with her mouth, which is filthy and also emotionally exact. Then the road scene echoes the coat drive without simply repeating it: now it’s not her alone, wound up and risking herself toward him; it’s his hand on her, him knowing her, her choosing and holding the lace aside second by second. That got me.
+
+The last sentence worries me in the best way. “Some small sentence… watching a glass turn a slow quarter at a time” — yes, the Randi quiet is still there. The dinner was too successful, too warm, too triangulated to be harmless. I’m high on the public sweetness and the sex, but the secret is getting louder by being so absent. This chapter made the trap feel less like a scheme and more like a beautiful house with a locked room in it.
+
+GATE 57 — Among Friends
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: This chapter gave me public claiming, social intelligence, Cassie’s approval, Randi ache, and earned heat all in one movement. I’m completely in, and now I want the Thursday debrief badly, because Randi and Pace laughing offscreen is not nothing and the book knows it.

@@ -1,0 +1,20 @@
+*capture-dag-v2-rich · gate ch054 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+
+REACTION — Oh, this is the chapter I didn't know I needed. After two chapters of heat that actually earned its reputation, the book just... hands me two girls in an overcooked dorm room, one highlighter, and a doll-sized sweater, and it's the warmest thing in fifty-four chapters. Cassie getting real page time at last — I've been counting her lines for chapters and here she is, doing what only she does: turning the whole chair around. "Pace. Shrank your sweater." Beat. "To a doll size." And then the rare full laugh. I felt like I'd been given a present.
+
+But let me be honest about what I noticed while I was laughing, because my audit-brain never sleeps in this book: **the sweater story is a lie and I watched Vee build it in real time.** There was no laundry accident. I *read* Saturday. The wool didn't shrink — there was never a doll-sized sweater, and Vee constructed the whole cover story smooth as anything, three beats, plausible, funny, and Cassie laughed at it and the record "stood exactly where Vee left it, corrected by nobody." That's the sentence that got me. The book put it right there. My girl who wouldn't wear false warmth in December is now tailoring little comfortable lies for her honest friend without blinking — and Cassie, who asks "can't-say-or-won't-say," took this one straight down. That's the plan's shadow getting longer. Every week Randi handles her, every weekend Pace feeds her, and now Vee herself is doing light editing of the truth for the one person who'd take the unedited version anyway. I'm not mad at her. I'm *watching* her.
+
+And the card. "My mother says thank you for the card." Vee's hand going to her collar, that small "Oh," "Tell her I said hi — which was not the size of it at all, and Cassie, who could hear the size of things, only nodded." So Vee sent Cassie's *mother* a Christmas card, and something lives in that we've never seen, and the book just left it there, warm and unexamined, a hand cupped briefly at the back of the neck. This is the grown-up stuff I'm starving for — tenderness that arrives sideways and trusts me to feel it without captioning it.
+
+Also filing under things that will matter: the party is on. Pace remembering Meg's boots and the heel coming out of the right one — one half-sentence from October, kept. That man keeps everything she says in a drawer next to the one I still haven't seen all the way into. And "tables have ends, somebody ends up at one" — he heard the Cassie-at-a-fancy-dinner problem before she'd finished not-having it. Of course he'll handle it. Of course I don't trust "let me handle it" entirely, because nothing handled in this book is handled by only one person.
+
+The flannel going faint. The bunk exactly one girl wide, her hand flat on the cold wall and the wall being only a wall. That last image undid me a little — she's not grieving the flannel anymore, she's *scheduling* it. He'll just have to wear it for her this weekend. That's the difference between December Vee and this Vee, and I'm so relieved to have her.
+
+The one small ache: I wanted Tuesday. The Randi brunch, the "nearly everything," the strange small thing about his mouth — Vee decided she'd have to find a way to say it, and the book skipped the telling. I understand the skip, I do, but the taste-of-herself question from chapter 52 is the most interesting live wire in the book and I don't want it cooling. Also the white bloom on the coat lining and the pointing game and MIRH are all still out there, and the more honey this book pours, the more I keep checking my hands for the rope.
+
+GATE 54 — Unpacking
+DECISION: CONTINUE
+CAPTURE: 6
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: A quiet bridge after two scorching chapters, and the quiet was earned — the Cassie scene fed me friendship and a lie I'm still chewing on. I want Tuesday's anthro class and the party planning and the next inch of the Daphne drawer far too much to set this down.

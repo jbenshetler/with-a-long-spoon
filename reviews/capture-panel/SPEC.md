@@ -280,6 +280,170 @@ engaged, which is the filter working. Both stretches sit inside ch5–17, the
 volume's longest heat-free run before `famished`; ch11 `leave-no-trace` scores a
 **10** between them, so the stretch is building appetite, not sagging.
 
+## Instrument revision + read-out discipline (author ruling 2026-09-11)
+
+Prompted by the question of whether the breather drops were a misconfigured
+instrument. Diagnosis from the full corpus (1,161 gates, 24 readers, ch1–68):
+the readers are reporting **accurately** — nearly every dip gate volunteers the
+design read in its own WHY with `ALMOST-STOPPED: none` (*"the quiet chapters are
+load-bearing"*; *"I'd sit through ten of these chapters to get to that dinner"*;
+*"a breather chapter with none of what I read for, but it's laying the table"*).
+The problem was **single-channel measurement**, not persona error: CAPTURE asks
+only *how hard did this chapter pull you*, so a table-setter's honest answer is
+5–6 and the forward commitment the reader keeps volunteering has nowhere to be
+recorded. `claude-opus-4-8·consent-sensitive` scored ch28 a **5** while writing
+*"which is exactly why I turn the page."*
+
+**Three findings that outrank the dips.**
+
+1. **Lane offset dwarfs chapter effect.** Same persona, same prose, same prompt:
+   `gpt-5.6-sol·queer-woman` mean **9.01** (floor 7 over 68 chapters) vs
+   `claude-opus-4-8·queer-woman` mean **6.88** (floor 4). A **2.1-point** lane
+   difference, larger than any chapter's deviation. **Raw CAPTURE is not
+   comparable across lanes** — compare a reader only against her own mean.
+2. **Not length, though length is confounded with it.** CAPTURE correlates
+   **+0.44** with chapter word count across every reader, and the dips are the
+   short chapters. But `{{Gone}}` (1,002 w) scores **9.2** and `{{Believe Me}}`
+   (1,341 w) scores **9.3** — the two highest in the volume. Short-and-quiet
+   dips; short-and-charged does not. The instrument does not penalize brevity.
+3. **The actionable unit is the RUN, not the chapter.** Every reader complaint
+   names run *length* as the limit, never the individual quiet chapter: *"two
+   quiet chapters is my limit"*; *"I've now had four warm chapters running"*;
+   *"three quiet chapters circling the same withheld word is right at my
+   limit."* Nobody objects to a breather. They object to the third one.
+
+**Change 1 — `NEXT` added to the gate block (additive).** `prompts/core-chapter.md`,
+`core.md`, `core-volume.md` now ask, after CAPTURE: `NEXT: <0–10, how much you
+want the next chapter right now>`, with an explicit instruction that the two
+diverge **in both directions** (a quiet chapter can leave you keen; a hot one
+can leave you tired of a pattern) and must not be averaged toward each other —
+the both-directions framing is what keeps this from coaching leniency. The
+discriminating signature: **low CAPTURE + high NEXT = a working breather; low +
+low = a stall.**
+
+CAPTURE keeps its name deliberately, so the existing 1,161-gate series stays
+comparable. **No re-read or re-mint is forced:** `capture_dag.run_reader` skips
+existing gates and checkpoints by *file existence* (`capture_dag.py:153,167`);
+the `prompt-sha` in each header is provenance only and is never compared. Gates
+minted before this change simply carry no NEXT, and `capture_stats.py` prints
+`—` for them. Mixed-format gates are safe in mints too — `core-mint.md` reads
+gate notes as prose and parses no fields.
+
+**Change 2 — personas given the pacing habits of their own shelf.** The persona
+docs were pure *appetite* (what she wants, what makes her leave) with nothing
+about **structure**, so all five reacted to a breather identically — as "none of
+what I read for" — when a literary reader and a KU binge reader in fact have
+opposite habits. Added, in each voice: `romance-graduate` reads shape from
+hundreds of books, knows a bridge chapter and doesn't resent one, notices the
+*second* in a row, and has never read a two-page chapter so has no habits for
+it; `fsog-refugee` reads in long sittings and measures patience in chapters
+rather than pages, tracking how long since the two of them were alone in a room;
+`consent-sensitive` does her *best* reading in the lulls (framing shows plainest
+with no heat to hide inside) and is lost instead by unexamined warmth;
+`dark-romance-control` reads fast and forward, and a quiet chapter is an
+off-ramp; `queer-woman` has no quarrel with stillness but keeps **stillness and
+deferral apart**, and does not charge impatience about the second to the first.
+This is a *fidelity* fix, not leniency — it should make run complaints sharper
+and single-breather noise quieter.
+
+**Change 3 — read-out discipline, enforced by `tools/capture_stats.py`.**
+Replaces ad-hoc analysis. It reports per-reader mean/sd/floor (labeled
+*lane-relative, do not compare*), per-chapter mean CAPTURE **and mean z against
+each reader's own distribution**, mean NEXT where present, and detects runs of
+consecutive below-own-average chapters — flagging LENGTH ≥3, DEPTH ≤ −1.5,
+target-reader exits, sagging NEXT, no measurable rebound, and free-sample
+position. `dark-romance-control` exits are tagged and excluded from the exit
+count: she is the WRONG reader and her exits are the filter working.
+`--chapters 52-55` zooms a stretch with the WHY text attached.
+
+Standing rules: **(a)** use z, never raw scores, for any cross-lane or
+cross-chapter comparison; **(b)** a breather with `ALMOST-STOPPED: none` is
+healthy per the 2026-09-10 ruling above; **(c)** triage stretches of 3+, not
+single dips.
+
+**A run needs a deadband** (author correction 2026-09-11, `--deadband`, default
+0.35z). A bare `z < 0` test recruits chapters sitting *at* baseline into a run
+and inflates its length. `{{Missed a Spot}}` (z **−0.11**, raw 7/8/9, every gate
+enthusiastic — *"the one thing I've been waiting the whole book to see done
+right"*; *"I am exhilarated by her appetite"*) was padding a 2-chapter softness
+into a reported 4-chapter stretch, and its two flagged exits are dread rather
+than off-ramps (*"Randi would know what to make of it"*). **A chapter within
+±0.35z of its readers' own mean is at baseline, and baseline breaks a run.**
+Deep-but-isolated chapters are reported separately as SOLO DIPS, judged by
+rebound rather than length.
+
+**Runs in the drafted corpus, corrected** (z = mean deviation from own reader
+average): ch6–7, ch9–10, ch12–13, ch19–20 (all 2-chapter, cleared above);
+**ch40–41** (−0.65 → −1.05, rebound +1.76); **ch53–55** (3 chapters, −1.86/−1.77
+at `unpacking`/`across`, rebound +2.75). ch35–37, ch47–48, ch52–55 and ch62–63
+dissolve under the deadband — they were baseline chapters recruited by adjacency.
+Solo dips, all healthy: ch16 `turned-up` (−1.13, rebound +2.01), ch28
+`hills-and-valleys` (−1.65, +2.44), ch36 `school-nights` (−1.67, +1.35).
+
+Note ch52–68 is measured by **`queer-woman` on three lanes only** — one persona,
+so it is weaker evidence than Volume One's 20+ readers per chapter, and wants the
+full panel before any structural change.
+
+### Validation of the revision (2026-09-11, `romance-graduate` on Volume Two)
+
+Ran the revised prompt + persona on `claude-opus-4-8`, `gpt-5.6-sol`, `gpt-5.5`,
+`glm-5.3` from ch52 forward (a single-chapter smoke test at ch52 first; all four
+lanes emitted a parsable NEXT).
+
+**`NEXT` discriminates, and the tie at ch52 was not anchoring.** The
+CAPTURE→NEXT gap scales with how much of a breather the chapter is:
+
+| ch | title | CAPTURE | NEXT | gap |
+|----|-------|---------|------|-----|
+| 52 | `{{Missed a Spot}}` | 8.50 | 8.5 | 0.00 |
+| 53 | `{{Back}}`          | 7.75 | 8.5 | +0.75 |
+| 54 | `{{Unpacking}}`     | 6.25 | 7.5 | +1.25 |
+| 55 | `{{Across}}`        | 6.00 | 8.5 | +2.50 |
+
+On the charged chapter all four readers tied CAPTURE and NEXT exactly (7/7, 8/8,
+9/9, 10/10) — a legitimate tie, since both answers are high. On the breathers
+they separate, monotonically. **CAPTURE ranges 6.0–9.5 across ch52–68 while NEXT
+never drops below 7.5** — the deepest-pull chapter in the volume (`across`,
+opus CAPTURE **4**) carries NEXT **7**. That is the working-breather signature,
+now measured rather than inferred from free text.
+
+**Consequence for ch53–55.** The dip is *deeper* than `queer-woman` showed
+(z −2.28 / −2.47 at `unpacking` / `across` vs −1.86 / −1.77) **and the retention
+risk is nil.** Two independent channels now say the same thing the 2026-09-10
+ruling asserted. No action on those chapters.
+
+**Two inversions — a signal the single-channel instrument could not see.** On the
+completed four-reader run, ch62 `{{Hangover}}` (CAPTURE 8.50 / NEXT 7.50) and ch64
+`{{Still Life}}` (9.00 / 8.00) are the only chapters where NEXT falls a full point
+*below* CAPTURE: they read hot and do not pull forward. Everywhere else in ch52–68
+NEXT meets or exceeds CAPTURE. Worth watching as a pair, since they sit in the same
+stretch — but note neither is a dip by CAPTURE, so no amount of re-reading the old
+series would have surfaced them.
+
+**End-of-draft dip:** ch67–68 (`{{Coming Due}}` −0.92, `{{Some of Mine}}` −1.38)
+falls below baseline with **no rebound measurable** — the drafted corpus simply
+ends. NEXT is 8.5 on both, so this is the draft edge rather than a finding; re-check
+once ch69 exists.
+
+**The persona pacing habits changed reader behavior.** Structural vocabulary
+("bridge chapter", "quiet chapter", "breather", "third quiet chapter running",
+"calm-before", "I can read the shape", skimming) per gate, `romance-graduate`
+before vs after: opus 0.18 → **1.00**, glm 0.12 → **0.47**, and **sol and gpt-5.5
+went from zero hits in 51 chapters to 0.33 and 0.29** — despite Volume One
+containing plenty of breathers (`hills-and-valleys`, `school-nights`, `cropped`)
+where they never reached for it. opus now counts the run out loud (*"Genuinely
+the third quiet chapter running"*) and reports **skimming** at ch55, which is the
+behavior the added text predicts; it reads a bridge as earned rather than as a
+defect (*"A true bridge chapter that earned itself… I'm not tired; I'm leaning
+in"*). Partly confounded by ch53–55 being more breather-dense than the Volume One
+average, but the two zero-baseline lanes make content alone an insufficient
+explanation.
+
+**Run state:** all four readers complete through **ch68** with `ck-ch060` minted,
+no STOPs. The ch53–55 run finishes at depth **−2.51** with the **largest rebound in
+the corpus, +3.09 at `{{Covering}}`** — the gradient's payoff chapter. Two channels
+and the rebound magnitude now agree that the stretch is setup cost, not sag.
+
 ## Vendor comparison for the DAG lane (2026-09-10)
 
 `capture_dag.make_agent` previously handled only the claude and codex lanes —

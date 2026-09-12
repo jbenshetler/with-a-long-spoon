@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch062 · claude-opus-4-8 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+
+REACTION
+
+Okay so this is the second soft chapter running — taproom, then kitchen — and I clocked it going in, thumb already half-checked out, waiting to be bored. And then he said "one friend" and I forgot I was counting.
+
+That's the thing I keep having to admit about this book: it knows exactly when to spend. Sheri last night was already a gut-punch dressed as comic relief — the one person allowed to motorboat-joke him into blushing, the one who can't want him, which Vee finally names in her own head as *the only kind the world ever quite let him keep.* And I thought that was the beat. Then 62 goes and cracks it wider in a kitchen with cinnamon raisin bread cooling on a rack. The bread killed me, honestly. A man baked a loaf from scratch while a woman slept off three ciders, because *you were asleep for a while,* like that's an explanation. The water with the paper towel under it so it wouldn't ring the wood. The undershirt pulled over her head after she was already gone, the forehead kiss in the dark "after he thought she was already gone." He does all his tenderness where it can't be witnessed. That's the whole man in one paragraph.
+
+And here's where I feel the book earning me instead of just running me: the "one friend" answer isn't a trick, it's the floor under everything. College at fifteen, off the end of every scale, no pack to lose your way into friendship from, the door on a timer that shut before he was grown. "Weren't safe or weren't welcoming" — no name, doesn't need one, and Vee stacking it against Sheri's *went bad with his daddy, not home since sixteen* and the black-window *less than staying* from way back. I've been given three angled looks at the same wound now and the book still won't show it to me straight, and for once I don't resent the withholding, because *he* can't look at it straight either. "It isn't tragic. It's just a door that didn't open." The good order being the tell — Vee catching that, the same way she caught the Daphne-was-luck thing — that's the interiority I stay for. She's reading him the way I'm reading her.
+
+What I actually love here: Vee does the friendship arithmetic on her own life. Meg's closet, Kayla's fry tax, Cassie's *oh, Vee,* Randi on the shoe-store carpet — four people to hold what he had one person for. And the one was Daphne, and she only had that much of him "because of the thing about it that was wrong, the thing Vee still would not set a word to." That's the book doing the merciless-tenderness thing it promised on the jacket: Vee holding the best two years of his life and the ugly word for them *stacked and unreconciling, both true at once,* and it hurting to hold both. That's me, exactly. That's been my whole read of this book — the never-deciding. And now she's doing it too, out loud, in her own head. She's catching up to where I've been sitting for sixty chapters.
+
+The part that made me a little cold, in the good way: she asks about his "other friends. The guys," warm and domestic and open, and walks straight into a chasm. And her instinct is to close the distance with her body — come around the counter, hold him like Sheri held him, whole weight committed. It's the tenderest thing she does and it's also *exactly* the move. Every real thing she feels for him keeps arriving pre-shaped like a step in someone's plan. I can't tell if this hug is hers or induced and I've stopped being able to tell and that's the drug and the book knows it.
+
+What I'm missing, and I'll be honest: Randi's not in this chapter at all, and after 60 blew that door open I want back in that bed. Two chapters now inside the Pace-and-Vee bubble, both lovely, both quiet, and the taste thread and the Randi-wanting that 59 and 60 aimed like a loaded gun have gone dark. Sheri's wonderful but she's a new tenderness and I came back from 60 wanting the *architecture,* not more reasons to ache for Pace. I've got plenty of those. One more quiet domestic chapter and I'm going to start tapping the glass.
+
+But not tonight. The bread got me. "He'd never had any of it. Not one. Not ever." I'd text that line to a friend at 1 a.m.
+
+GATE 62 — Hangover
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 6
+ALMOST-STOPPED: "I'd love to meet your other friends," she said — right there, because I braced for a second straight cozy-kitchen chapter with nowhere to go, and if the "one friend" answer hadn't landed I'd have felt the stall.
+WHY: A bridge chapter that spends a real reveal — his total aloneness — and hands Vee the merciless double-hold I've been carrying alone, so I'm full even though nothing charged happened. But two quiet chapters deep with Randi and the taste thread gone dark, I want the architecture back before I want another tender morning; my thumb's moving, just not fast.

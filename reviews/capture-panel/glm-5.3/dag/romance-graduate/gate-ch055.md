@@ -1,0 +1,16 @@
+*capture-dag-v2-rich · gate ch055 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+
+REACTION: Okay, this is a bridge chapter and I know one on sight — the whole thing is a table, mimosas, and a Wednesday being loaded onto the calendar. And I don't resent it, mostly, because the Kayla stuff genuinely made me laugh ("the cord was stupid" — Meg's period-crime confession is exactly the kind of friendship texture this book does better than anything on my KU shelf). Kayla finally getting her moment as an actual person instead of a hallway obstacle was earned; her shrieking over the coat story while never learning what was *under* the coat is the book keeping its delicious secret right under a loud room, and I smiled the whole way through.
+
+But here's the thing that has me sitting up: I've now got a Wednesday dinner where Pace, Randi, Vee, Cassie, Theo, Kayla, and Meg are all going to be at ONE table — and Cassie doesn't know about the plan, Randi co-authored the plan, Pace executed the plan, and Theo once asked Vee out. That's not a dinner, that's a bomb with napkins. And the chapter knows it — "he wants to meet your people" landing in the sink last chapter, and now Randi's going to be sitting across from the man she built the game with, watching the girl she loves and won't tell. The book has been separating its worlds for fifty chapters — Vee's dorm life, Pace's house, Randi's brunches — and it's about to smash them together over one meal. That's the move I've been waiting for since the blurb promised me "let the reader fall for it exactly as she does."
+
+What I noticed, small but sharp: Vee told the porch story out loud for the first time and it *changed shape* — the drive, the cop, the touching herself, the almost-giving-up-none-of-it, all edited out, and "we talked all night" sitting on the table "looking exactly true." My girl's learning to curate. And I'm noticing WHERE she learned it: from Randi, who never says a thing straight when a useful version will do. The apprentice is growing toward her teachers and I can't tell if that's beautiful or a warning. Also the check split three ways, nobody covering anybody — tiny beat, but it's Vee refusing to be handled even by herself, in her own friend group, with Christmas money. I loved it.
+
+Two things running under my contentment. One: "the shoes on last, only thing" energy from chapter 51 is still the hottest thing this stretch has given me, and after that doorway and that kitchen I'm warm for days, so a quiet chapter lands on soft ground. Two: Randi doesn't know about Wednesday yet. Or does she? Vee said she'd tell Randi everything Tuesday — "nearly everything" — and now there's a dinner invitation Randi will read as the plan working, and I'm chewing on whether Randi hears "dinner with all her people" as triumph or as the exact moment her brunch monopoly ends. The handler's about to be one guest among seven. I have a suspicion the book set this table for *her* as much as for Pace.
+
+GATE 55 — Across
+DECISION: CONTINUE
+CAPTURE: 6
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: Nothing much happened and I didn't care that nothing much happened — it's the calm-before and I can read the shape. Wednesday's dinner has every unexploded gun in the book RSVP'd to the same table, and I am not putting this down two days before it happens.

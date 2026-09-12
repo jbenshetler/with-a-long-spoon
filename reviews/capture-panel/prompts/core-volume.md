@@ -19,7 +19,10 @@ After EACH chapter, a short gate block:
 
 GATE <n> — <chapter title>
 DECISION: CONTINUE or STOP
-CAPTURE: <0–10, how hard this chapter pulled YOU>
+CAPTURE: <0–10, how hard this chapter pulled YOU while you were inside it>
+NEXT: <0–10, how much you want the next chapter right now — a different
+question from CAPTURE, and they often diverge in both directions; answer each
+on its own>
 ALMOST-STOPPED: <the moment you came closest to leaving, quoted — or "none">
 WHY: <one or two sentences, your voice>
 
