@@ -444,6 +444,24 @@ no STOPs. The ch53–55 run finishes at depth **−2.51** with the **largest reb
 the corpus, +3.09 at `{{Covering}}`** — the gradient's payoff chapter. Two channels
 and the rebound magnitude now agree that the stretch is setup cost, not sag.
 
+## `dark-romance-control` retired from running (author ruling 2026-09-12)
+
+**Do not run her again.** She is the WRONG reader — a book that captures her is
+failing the repel goal, so her STOPs were the success condition, and she has
+delivered it: `claude-opus-4-8` **STOPPED at ch021**, `gpt-5.6-sol` **STOPPED at
+ch006**. The lanes that never stopped (`gpt-5.5`, `glm-5.3`, both parked at ch049)
+sat permanently behind the rest of the panel, so every "catch the panel up to
+chapter N" scope carried ~24 calls of control catch-up for signal already banked.
+
+Enforced in `capture_dag.py`: removed from the default `PERSONAS`, listed in
+`RETIRED_PERSONAS`, and a run that names her **exits with an error**. She stays in
+`ALL_PERSONAS` so `--assemble` can still build her historical record, and **all
+existing gates, checkpoints and STOPPED markers are kept** — the stops are data.
+Reviving her needs explicit author approval.
+
+The default panel is now the three target readers: `romance-graduate`,
+`fsog-refugee`, `consent-sensitive`. `queer-woman` remains opt-in.
+
 ## Vendor comparison for the DAG lane (2026-09-10)
 
 `capture_dag.make_agent` previously handled only the claude and codex lanes —

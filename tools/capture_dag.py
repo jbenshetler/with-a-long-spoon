@@ -17,7 +17,7 @@ Sequential per reader (correct STOP semantics); readers run in parallel.
 Restartable: existing gates/checkpoints are skipped.
 
 Usage:
-  tools/capture_dag.py --models claude-opus-4-8 gpt-5.6-sol            # all 4 personas
+  tools/capture_dag.py --models claude-opus-4-8 gpt-5.6-sol            # the 3 default personas
   tools/capture_dag.py --models claude-opus-4-8 --personas fsog-refugee --to 12
   tools/capture_dag.py --models ... --to 70 --fresh   # re-read ch70 after revising it
   tools/capture_dag.py --models ... --assemble    # build <persona>--volume-dag.md records
@@ -40,10 +40,19 @@ import authorship_audit  # noqa: E402  (run_claude, CLAUDE_PREFIX)
 
 PANEL_ROOT = REPO / "reviews" / "capture-panel"
 PROTOCOL = "capture-dag-v2-rich"
-PERSONAS = ["romance-graduate", "fsog-refugee", "consent-sensitive", "dark-romance-control"]
-# Selectable but NOT in the default panel — opt in with --personas, so a bare
-# run never silently opens a fresh 50-chapter read on a subscription lane.
-ALL_PERSONAS = PERSONAS + ["queer-woman"]
+PERSONAS = ["romance-graduate", "fsog-refugee", "consent-sensitive"]
+# RETIRED from running (author ruling 2026-09-12): `dark-romance-control` is the
+# WRONG reader — a book that captures her is failing the repel goal, so her STOPs
+# were the success condition. She has delivered it (opus STOPPED at ch021, sol at
+# ch006), and the lanes that didn't stop sat permanently behind, making every
+# "catch up to chapter N" scope cost more than the signal was worth. Do not run
+# her again. She stays in ALL_PERSONAS only so `--assemble` can still build the
+# historical record from the gates already on disk; her existing data is kept.
+RETIRED_PERSONAS = ["dark-romance-control"]
+# `queer-woman` is selectable but NOT in the default panel — opt in with
+# --personas, so a bare run never silently opens a fresh 70-chapter read on a
+# subscription lane.
+ALL_PERSONAS = PERSONAS + ["queer-woman"] + RETIRED_PERSONAS
 DECADE = 10
 
 
@@ -275,6 +284,14 @@ def main() -> None:
             for p in args.personas:
                 print(assemble(m, p))
         return
+
+    # Retired personas stay assemble-able (above) but must not be run again.
+    retired = [p for p in args.personas if p in RETIRED_PERSONAS]
+    if retired:
+        raise SystemExit(
+            f"refusing to run retired persona(s): {', '.join(retired)}. "
+            "Retired by author ruling (see RETIRED_PERSONAS); existing gates are "
+            "kept and --assemble still works. Reviving one needs author approval.")
 
     results, failures = [], []
 
