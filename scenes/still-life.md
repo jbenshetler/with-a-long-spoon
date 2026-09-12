@@ -182,7 +182,7 @@ The brush lifted.
 
 He kissed her temple. "Keep still."
 
-He took the three brushes up her arm in their turns. The fine brown line passed the crook of her elbow and climbed the inside of her upper arm. The flat brush laid green leaves and tendrils along it. The rounded one pressed clusters into the tender places between. Each path was different; each path found a place the last had missed. The higher he traveled, the less defense the skin had.
+He worked up her arm, the three brushes in their turns, each path finding a place the last had missed. The higher he traveled, the less defense the skin had.
 
 At her armpit she nearly came off the bed.
 
@@ -344,7 +344,7 @@ Pace set the brush down. He came to her mouth and kissed her, and the return of 
 
 She bit through the dark skin. Sweetness went deep and winey across her mouth.
 
-"A bit on the nose?" she asked, hoarse.
+"Subtle," she said, hoarse.
 
 His laugh touched her cheek. He held his palm beneath her lips when she had worked the fruit free. Vee put the pit into his hand, warm and wet from her mouth. His fingers closed around it as naturally as though she'd given him something precious.
 
@@ -368,11 +368,11 @@ She lifted her head.
 
 The grapevine ran from her palm over her wrist and up the inside of her arm, brown stem and green leaves and clusters of wet red grapes spilling through the armpit onto the side of her breast. Both breasts were cantaloupes split open: stippled pale rind, the thin green ring, orange flesh closing around nipples still hard beneath the paint. Lower, between her open thighs, one great black-red cherry curved across the shining ground of her mons. Beneath it her sex was red and open, wetness gathered bright along the seam and still slipping out of her.
 
-The painting was not very good. The leaves were leaves because they were green and attached to a brown line; the grapes would not have fooled anyone off her skin. The cantaloupes were circles inside circles. The cherry was exactly as subtle as a cherry painted over a woman's open sex could be.
+The leaves were leaves because they were green and attached to a brown line; the grapes would not have fooled anyone off her skin. The cantaloupes were circles inside circles.
 
 And it was glorious.
 
-He had taken every part of her the world called too much—the breasts that entered a room ahead of her, the hips that clothes could not make modest, the wetness she could not contain—and made abundance the whole point. Her body was the art. His paint only said where to look.
+He had taken every part of her the world called too much—the breasts that entered a room ahead of her, the hips that clothes could not make modest, the wetness she could not contain—and made abundance the whole point.
 
 "Take a picture," she said.
 
