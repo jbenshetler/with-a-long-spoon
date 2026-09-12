@@ -20,6 +20,59 @@ Painted as fruit — a **grapevine** up the inner arm (wrist → armpit → side
 
 The **runaway** is the mons: he paints her in **her own fluids.** This is the scene's arousal/shame crest — the overflow made medium, her wanting used and shown. The **taste beat rides it, held:** she tastes the **cherry** (clean fruit) and, watching him gather and value her wet, *wonders* about the taste of what he's painting her with. She does **not** ask or taste herself directly or cleanly. After he has licked her clean and wiped his mouth twice, she reaches for his mouth and finds only a mixed, ambiguous trace she cannot separate. The question disappears without an answer. The photo and sex lead into the afterglow, and the afterglow into **the coda** (below).
 
+## The interior — thinned 2026-09-12, and why not further
+
+**The length is earned and the panel says so, 7–1.** Do not open this chapter for
+a general compression pass. The grounded cold reads of 2026-09-06 ruled: opus
+*"earned every inch of its length through the still/moving grammar; the triple
+orgasm built rather than repeated"*; fable *"the repetition **is** the training and
+the chapter knows it… Earned its length"*; kimi *"long and it earns every beat; the
+stillness game could have dragged but the rhythm of denial and return keeps it
+taut"*; sol, qwen, gpt-5.5 all "long but earned"; glm-flash silent on it.
+**deepseek was the lone dissent** (*"the fruit-feeding pattern becomes predictable
+by the third cycle"*). The one capture lane that objects — opus, *"the same gear
+nine times in a row"* — is a pull reading, not a craft one.
+
+**Four spots were cut (81 words), each named by 2+ readers:**
+
+1. **`:185` the upper-arm re-run**, 74 words → 27. It re-ran the identical
+   brown/green/red triple a second time before the armpit ran it a third — fable's
+   *"three brushes per fruit, twice over"*, deepseek's third cycle. **The armpit
+   pass stays whole**: it is where the stillness lesson costs her most.
+2. **`:347` the wink, which was doubled** — *"A bit on the nose?"* and (at `:371`)
+   *"exactly as subtle as a cherry painted over a woman's open sex could be"* were
+   the same joke ninety lines apart. deepseek flagged the first, opus the second,
+   neither noticed the pair. One instance kept, as **"Subtle," she said, hoarse** —
+   aimed at Pace rather than at the book's own symbolism, and one flat word suits a
+   woman whose *"half-inch of high ground"* (`:265`) is already gone.
+3. **`:371` the flat verdict** *"The painting was not very good."* Cut; the
+   concrete details carry the crudeness and *"And it was glorious"* still turns on
+   them.
+4. **`:375`** *"Her body was the art. His paint only said where to look."* Cut —
+   opus's capture `queer-woman` quoted this exact sentence as her
+   closest-to-leaving moment while scoring the chapter a **5**. **Keep the *"the
+   world called too much… made abundance the whole point"* clause**: the coda's
+   landing word needs its antecedent, and it is the line gpt-5.5 quotes as having
+   *"hit me right in the chest."*
+
+**Do not restore 3 or 4.** Both are the chapter grading its own picture, flagged as
+over-narration by the same reader who called the chapter excellent.
+
+**Verified by a fresh four-model cold read (2026-09-12).** Both flags cleared by
+the readers who raised them: opus's over-narration note is gone entirely (*"Earned
+its length; only the mid guessing-game rhythm risked cute before the gesso
+reignited it. **The coda is perfectly weighted.**"*) and fable's *"second fruit
+cycle brushes against repetitive"* became *"the paint sequence's patience **is** the
+content."* Heat held at 3 on all four. Two new singleton flags, both a half-line of
+naming-the-device and neither convergent: opus *"the mid guessing-game rhythm
+risked cute"*; fable *"the gesso explanation ('a gooey coat') ran a half-line
+cute."* Watch for a third reader before actioning either.
+
+**Measurement state:** the 15 capture gates at `34989ec` measured the chapter
+*before* these four cuts, so they are one revision stale. Not worth 15 calls to
+refresh over 81 words with CAPTURE at 9.00 — but do not read those gates as
+matching the current text.
+
 ## Taste thread — the wondering rung (crossing held)
 
 Still Life is the taste thread's **externalized wondering** rung, one step past {{The Reach}}. In {{The Reach}} she wonders alone and privately; here Pace is openly handling and valuing her fluids (painting with them), so the question she couldn't answer solo becomes unignorable. The direct, clean crossing stays held:
