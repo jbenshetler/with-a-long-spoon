@@ -64,7 +64,7 @@ Any later edit must not damage these:
 ## Left standing — do not re-litigate
 
 - **"Randi had no idea she'd been looked at" stated flatly** (gpt-5.6-sol only: narration asserts what Vee can't know). **Author ruling 2026-07-29: kept as-is.** The guard-down state is canon and *the measure* of how real the wound is (`meta-note-outlier.md` § the gaze); the flat assertion is part of the tables-turned charge the other three readers loved. Acked in the linter (`look-at-her` — literal gaze mechanics, not the appreciation tic).
-- **MIRH → Miranda Holdings "a little neat"** (gpt-5.5, lone, and they bought it). Working as designed: MIRH is Randi's own labeling convention — her name rendered as the villain-tag by her own visualization (`meta-note-outlier.md` § MIRH).
+- **tag → company name "a little neat"** (gpt-5.5, lone, and they bought it). Working as designed: the tag is Randi's own labeling convention — her name rendered as the villain-tag by her own visualization (`meta-note-outlier.md` § MIRA). *(The reviewer saw the earlier pairing `MIRH` → Miranda Holdings, LLC; renamed 2026-09-13 to `MIRA` → Miranda Interests, LLC on an entity-collision finding — `meta-legal-entity-clearance-miranda.md`. The ruling is about the convention and carries over unchanged; the replacement tag was required to stay equally inert, which is why candidates spelling `MIRA` were rejected.)*
 - **Closing image leans "a half-inch" toward telling the moral** (fable-5, lone, "but it earned it"). Working as designed: the closing outlier-image deliberately carries the reader-ahead instead of the narrator (`meta-note-outlier.md` § register).
 - **"Worst point in the county" pushes slightly hard** (gpt-5.5, lone, self-dismissed). Taste; not actionable.
 

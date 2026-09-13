@@ -8,7 +8,7 @@
 ## Aliases
 AKA Miranda
 
-**Name origin (ruled 2026-07-29):** Her parents named her Miranda and then, deliberately, called her Randi — the adjective pun intentional, their joke, a name she has to carry. The introduction routine ("Yes, like the adjective. No, it's not a coincidence. Yes, my parents had a sense of humor.") is **pre-emption, not invention**: she gets to the joke before anyone else can. Do not render "Randi" as self-chosen. It rhymes, unstated, with Miranda Holdings — twice her family wrote on her name without asking.
+**Name origin (ruled 2026-07-29):** Her parents named her Miranda and then, deliberately, called her Randi — the adjective pun intentional, their joke, a name she has to carry. The introduction routine ("Yes, like the adjective. No, it's not a coincidence. Yes, my parents had a sense of humor.") is **pre-emption, not invention**: she gets to the joke before anyone else can. Do not render "Randi" as self-chosen. It rhymes, unstated, with Miranda Interests — twice her family wrote on her name without asking.
 
 ## Core Claim
 
@@ -290,11 +290,11 @@ Sixteen years of dance (she started at five), six of cheer. This is the body's h
 
 **Render discipline:** backstory, not exposition. It shows in the body — the carriage, the trained ease of being looked at — and in the single place it fails. Never hand the reader "she was a dancer, so —"; let the trained line and its one blind spot carry it. Already latent in {{The Bench}} prose (the dancer's legs; the decade-of-dance line under pressure). Physical-surface rendering lives in `meta-craft-randi.md` (Physical Description).
 
-## The Father — Miranda Holdings
+## The Father — Miranda Interests
 
 *(Scene draft: `outlier.md`; craft in `meta-note-outlier.md`.)*
 
-First-generation wealth, **prosperous before COVID** — he already owned the several businesses (he could not otherwise have been positioned to take the loans); the *leap* came from PPP money during COVID, taken across those businesses under a holding company he named for her — **Miranda Holdings, LLC**. Randi adores him and grew up proud of the money's story (the loans kept people employed). She does not know the truth: the companies took the loans and cut their non-executive workforces anyway. She finds out in `outlier.md`, building the visualization for the stats project — **her own hand producing the evidence**, her own county the outlier, marketing's faith in the persuasive picture turned on her.
+First-generation wealth, **prosperous before COVID** — he already owned the several businesses (he could not otherwise have been positioned to take the loans); the *leap* came from PPP money during COVID, taken across those businesses under a holding company he named for her — **Miranda Interests, LLC**. Randi adores him and grew up proud of the money's story (the loans kept people employed). She does not know the truth: the companies took the loans and cut their non-executive workforces anyway. She finds out in `outlier.md`, building the visualization for the stats project — **her own hand producing the evidence**, her own county the outlier, marketing's faith in the persuasive picture turned on her.
 
 **Recoil, not acceleration.** The discovery is a wound, full stop — not a spur, and it does not need to convert into one: Randi's turn toward the plan is already motivated by existing spring scenes ({{On Her Floor}}, {{Vee Tells Randi About the Bench}}, {{Ignition Scalding}}). This beat carries none of that load.
 

@@ -437,7 +437,7 @@ _Currency + light prose cross-check vs the drafted scene. Wave 1 (12): all-the-t
 - **[low/low]** `:69,72` — refers to the next scene as both `{{Grace}}` and bare "Cabin" (the cabin is *inside* Grace, `chronology:329`). **Fix:** normalize to "{{Grace}} (the cabin trip)". Prose fidelity otherwise excellent.
 
 ### meta-note-outlier.md — 1 (low 1)
-- **[low/low]** `:18` — MIRH "auto-truncated (an LLC has no ticker)" vs prose "four letters, her own shorthand" (`outlier.md:55`). **Fix:** flag — soften mechanism. Fall placement + economics major confirmed; clean otherwise.
+- **[low/low]** `:18` — MIRA "auto-truncated (an LLC has no ticker)" vs prose "four letters, her own shorthand" (`outlier.md:55`). **Fix:** flag — soften mechanism. Fall placement + economics major confirmed; clean otherwise.
 
 ### meta-note-in-his-hands.md — 0 (clean)
 _Every quoted anchor matches the drafted scene; the precise/formal stress-tell is current neurotypical canon._

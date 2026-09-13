@@ -174,11 +174,80 @@ For the lawyer to confirm/correct; rationale behind the pre-sheet's risk grades.
   $500; email the Guild first to confirm whether staff attorneys do *fiction pre-pub
   review* (defamation/publicity/trademark) or only contract/copyright.
 - [x] Run the dated Dr. Marsh directory/archive check — run 2026-08-02, slot not occupied (see meta-plan-legal-read.md item [2]); Wayback leg blocked, review-site proxy used — re-run archive leg at publication
-- [ ] Run the Miranda Holdings, LLC entity search (VA registry + PPP data)
-- [ ] Consult on the risk ≥ 2 items in `meta-plan-legal-read.md` — **reduced to
-  two: [5] Miranda Holdings and [6-8] Chili's.** Both publication-gating, neither
-  urgent. Items [2] [3] [4] [9] verified closed 2026-09-13; item [1] Rock
-  reclassified (below); Dr. Marsh demoted to author hygiene (below).
+- [x] Run the Miranda Holdings, LLC entity search (VA registry + PPP data) — run
+  2026-09-13 across three indexes. **Collision found:** Active `Miranda Holdings,
+  LLC` in the Virginia registry, and `MIRANDA HOLDINGS INC` (North Boston NY,
+  $885,600) in the SBA PPP FOIA data — a real borrower in the dataset the scene
+  depicts. **Resolved by rename to `Miranda Interests, LLC` (canon; not rendered in Vol 1 prose), not by
+  counsel.** Method, artifacts and clearance reasoning:
+  `meta-legal-entity-clearance-miranda.md`; raw extracts in
+  `meta/entity-clearance/`. **Note for any future entity check: use
+  `cis.scc.virginia.gov`, never `scc.virginia.gov/boi/`** — the latter is the
+  Bureau of Insurance and returns a meaningless null for business entities.
+- [ ] Consult on the risk ≥ 2 items in `meta-plan-legal-read.md` — **two items:
+  [5] the PPP-outlier scene (author ruling 2026-09-13: the riskiest item in the
+  book — see below) and [6-8] Chili's** (thin on re-check). Items [2] [3] [4] [9]
+  verified closed 2026-09-13; item [1] Rock reclassified (below); Dr. Marsh
+  demoted to author hygiene (below).
+
+### [5] The PPP-outlier scene — RETAINED for counsel (author ruling 2026-09-13)
+
+**The rename is mitigation, not closure.** An assistant recommendation to close
+this item on the rename was **overruled by the author, who judges it the riskiest
+item in the book.**
+
+**Why it ranks first (author's reasoning, 2026-09-13):** this is the **most
+adverse characterization in the book of anything even tangentially tied to a real
+legal entity.** `Miranda Interests, LLC` is a *named entity of a real,
+registrable type* — not a person, not a brand mentioned in passing — and the
+scene attaches conduct language to it: loans that "had not done" what they were
+for, and a character calling it *"Cheating bastards."* Business entities can sue
+for defamation and trade libel, and a business plaintiff's reputational harm is
+easier to articulate than an individual's. The characterization sits inside an
+accurate reproduction of a real federal dataset, which lends the record a
+verisimilitude a reader may extend to the entity. And name collisions are
+demonstrably plausible — one was found (§3 of the clearance record).
+
+Nothing else in the sheet has that shape. Chili's is nominative use where the
+content is opinion and sensory experience; Dr. Marsh is praise; the Rock depicts
+nothing.
+
+> **Superseded reasoning, recorded so it is not re-argued.** An earlier draft of
+> this section claimed the residual risk was that the scene "reproduces a
+> research method and shows it working," so a reader could run it and land on a
+> real company. **That reasoning is wrong and was withdrawn (author, 2026-09-13):
+> a research procedure is not actionable by anyone.** Describing how to query a
+> public dataset is factual and public; a reader who runs it and forms a view
+> about some real company has authored that conclusion themselves. Defamation
+> requires a statement *of and concerning* a plaintiff, and a method is a
+> statement about no one. The risk is the adverse characterization of a named
+> entity, full stop.
+
+**Due-diligence evidence is prepared and will be supplied by the author**:
+`meta-legal-entity-clearance-miranda.md` (method, three indexes, candidate
+matrix, precise account of what the page does and does not depict) and
+`meta/entity-clearance/` (raw extracts, source fingerprints, filter code,
+SHA256SUMS).
+
+**Questions worth putting to counsel:**
+
+1. A **named LLC** is characterized as having taken loans that "had not done"
+   what they were for, and called "cheating" by a character. Does attributing
+   adverse conduct to a *named business entity* in fiction create trade-libel /
+   entity-defamation exposure that differs from the usual fictional-character
+   analysis — and does the three-index clearance (no such entity found) dispose
+   of it, or merely reduce it?
+2. Does inserting the fictional entity into an **accurate reproduction of a real
+   federal dataset** raise the risk, by making the record read as real?
+3. Is the rename sufficient mitigation for name-collision exposure, given the
+   clearance behind it? What is the standing obligation to re-check before
+   publication, and in how many jurisdictions?
+4. Does the fiction disclaimer do any work for a named entity, and should it be
+   strengthened for a book that reproduces a government dataset?
+5. Cassie's line — *"One company, that size, everybody cut anyway"* — is the
+   book's sharpest accusation, and is spoken by a character **who cannot see the
+   record** and is generalizing about the aggregate. Does that framing matter
+   legally, or does a reader's attribution of it to the named entity govern?
 - [ ] Retrieve BookSprout's Terms of Service — not reachable programmatically
   (`/terms`, `/terms-of-service`, `/legal` all 404); needs a browser or a support reply
 - [ ] Optional, publication-stage: ask counsel for a **lawfulness opinion** on the

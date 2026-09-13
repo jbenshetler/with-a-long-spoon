@@ -48,15 +48,15 @@ Her county had a point off on its own.
 
 Well off — up and to the right, alone in the white, the kind of point the professor had named at the front of the cold hall. A big one. And Vee, watching Randi and not the screen, felt something come off her on the left, a shift in the air of the room, and didn't know what it was.
 
-Randi hovered the point. The graph she'd built dropped a little tag on each one when you touched it — four letters, her own shorthand — and the tag on this one read MIRH.
+Randi hovered the point. The graph she'd built dropped a little tag on each one when you touched it — four letters, her own shorthand — and the tag on this one read MIRA.
 
 Randi went still.
 
-Not a motion — the withdrawal of motion, the sudden absence of all the small unconscious movements a person makes just by sitting in a chair. Vee felt it more than saw it. Randi's hand rested on the trackpad and did not move, and the four letters sat there, MIRH, and Vee looked at them and they meant nothing to her at all.
+Not a motion — the withdrawal of motion, the sudden absence of all the small unconscious movements a person makes just by sitting in a chair. Vee felt it more than saw it. Randi's hand rested on the trackpad and did not move, and the four letters sat there, MIRA, and Vee looked at them and they meant nothing to her at all.
 
 Then Randi clicked.
 
-The point opened into a record and the record opened into a name, and the name was Miranda Holdings, LLC.
+The point opened into a record and the record opened into a name, and the first word of the name was MIRANDA.
 
 Randi read it. Vee watched her do it — watched her eyes go down the short column once, fast, like a person reading a thing she already disbelieved, and then again from the top, slower, as if the second pass might turn up the line that took it back. It didn't.
 
