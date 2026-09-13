@@ -173,7 +173,16 @@ For the lawyer to confirm/correct; rationale behind the pre-sheet's risk grades.
 - [ ] Post-launch: join Authors Guild **Associate ($149)** once cumulative sales clear
   $500; email the Guild first to confirm whether staff attorneys do *fiction pre-pub
   review* (defamation/publicity/trademark) or only contract/copyright.
-- [x] Run the dated Dr. Marsh directory/archive check — run 2026-08-02, slot not occupied (see meta-plan-legal-read.md item [2]); Wayback leg blocked, review-site proxy used — re-run archive leg at publication
+- [x] Run the dated Dr. Marsh directory/archive check — current pages 2026-08-02
+  (slot not occupied), and **the previously blocked Wayback leg completed
+  2026-09-13 and clear**: Sociology 2015–2026, Religion & Culture 2016–2026,
+  History 2015–2026 (only "Marshall"), via the Internet Archive CDX API, early
+  snapshots verified as genuine rosters. **Full provenance package prepared for
+  counsel: `meta-plan-legal-read.md` § [4]** — independent creation from Mary
+  Leakey (deceased; her surname considered and rejected *for collision*), the
+  documented water-name motif, git contemporaneity with the push-record caveat,
+  and all 14 mentions reviewed as uniformly favourable. **Position: no rename.**
+  Re-check before each publication event as *awareness*, not a gate.
 - [x] Run the Miranda Holdings, LLC entity search (VA registry + PPP data) — run
   2026-09-13 across three indexes. **Collision found:** Active `Miranda Holdings,
   LLC` in the Virginia registry, and `MIRANDA HOLDINGS INC` (North Boston NY,
@@ -184,11 +193,13 @@ For the lawyer to confirm/correct; rationale behind the pre-sheet's risk grades.
   `meta/entity-clearance/`. **Note for any future entity check: use
   `cis.scc.virginia.gov`, never `scc.virginia.gov/boi/`** — the latter is the
   Bureau of Insurance and returns a meaningless null for business entities.
-- [ ] Consult on the risk ≥ 2 items in `meta-plan-legal-read.md` — **two items:
-  [5] the PPP-outlier scene (author ruling 2026-09-13: the riskiest item in the
-  book — see below) and [6-8] Chili's** (thin on re-check). Items [2] [3] [4] [9]
-  verified closed 2026-09-13; item [1] Rock reclassified (below); Dr. Marsh
-  demoted to author hygiene (below).
+- [ ] Consult on the risk ≥ 2 items in `meta-plan-legal-read.md` — **three items:
+  [5] the PPP-outlier scene** (author ruling 2026-09-13: the riskiest item in the
+  book — see below); **[4] Dr. Marsh**, submitted as a *provenance package for
+  confirmation*, not an open question — position is no rename
+  (`meta-plan-legal-read.md` § [4]); and **[6-8] Chili's** (thin on re-check).
+  Items [2] [3] [9] verified closed 2026-09-13; item [1] Rock reclassified
+  (below).
 
 ### [5] The PPP-outlier scene — RETAINED for counsel (author ruling 2026-09-13)
 
@@ -277,13 +288,24 @@ SHA256SUMS).
   (`covering.md:15` — tall, spare, short silver hair with a black streak, fleece
   vest, boots), attached to a real name, a real university, and a real
   department, inside explicit fiction in which two of her students conduct an
-  affair in her classroom. The exposure is a complaint or takedown demand from a
-  real person who objects to the association — not a tort. **Demoted to author
-  hygiene:** a five-minute directory lookup before publication, guarding against
-  a new hire since the 2026-08-02 clear result. Not a counsel item. If the slot
-  is ever occupied, the fix is renaming a character. **Volume 1 exposure is one
-  line** (`all-the-time.md:125`); the portrait and the recurring presence are
-  entirely Volume 2.
+  affair in her classroom. The exposure is a complaint from a real person who
+  objects to the association — not a tort. **Volume 1 exposure is one line**
+  (`all-the-time.md:125`); the portrait and the recurring presence are entirely
+  Volume 2.
+
+  **Superseded 2026-09-13 — goes to counsel after all, with a full provenance
+  package.** Two earlier positions here are withdrawn. (a) "Not a counsel item"
+  — the material is now prepared for review at `meta-plan-legal-read.md` § [4].
+  (b) *"If the slot is ever occupied, the fix is renaming a character"* —
+  **wrong, and overruled by the author as unreasonable.** Defamation requires a
+  defamatory statement; all 14 mentions are uniformly favourable, so the analysis
+  never reaches identification or fault. The reasoning behind the rename advice
+  mistook *actual knowledge of a same-named real person* for exposure in itself;
+  knowledge goes to fault, which is reached only after a defamatory statement of
+  and concerning a plaintiff. Nothing requires abandoning an established
+  continuing character because someone with a common surname takes a job.
+  The check still runs before each publication event — as **awareness, not a
+  gate**; if occupied, record it and proceed.
 
 ## Platform disclosure — the decision not to disclose (author ruling, 2026-09-13)
 

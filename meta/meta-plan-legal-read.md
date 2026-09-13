@@ -50,7 +50,7 @@ the lawyer — it is BookFunnel's under-18 termination clause
 | [1] | Rock — tutor backstory | **Open, narrowed.** Not a legal question; a platform-disclosure one. See below. |
 | [2] | How It's Done — "Witchcraft" | **CLOSED.** No lyric quoted or paraphrased. `how-its-done.md:21` refers to the song obliquely — *"one of those old standards… the one where he calls it witchcraft."* A title/conceit reference, not protected expression. |
 | [3] | Practice Room — "Freshman year" | **CLOSED — over-flag.** `practice-room.md:33`: *"Nothing. Freshman year. People used them to. You know."* Third-person hearsay about unnamed others, with "freshman year" dating when she *heard* it, not conduct. No participant, no act, no age. College freshmen are ~18 regardless. |
-| [4] | All the Time — Dr. Marsh | **Defamation CLOSED; reclassified to identification hygiene.** `all-the-time.md:125` now reads *"The Dr. Marsh one — even her eight a.m. fills up."* Praise is not actionable even if false, so the defamation theory is dead. But the live question was never defamation — it is whether the name slot is occupied, and that matters *more* in Vol 2, where Marsh is a recurring character with a physical portrait (`covering.md:15`) attached to a real name, university and department inside explicit fiction. Exposure is a complaint from a real person objecting to the association, not a tort. Demoted to a pre-publication directory lookup (author, not counsel); see `meta-plan-lawyer.md`. **Vol 1 exposure is this one line.** |
+| [4] | All the Time — Dr. Marsh | **Defamation CLOSED; reclassified to identification hygiene.** `all-the-time.md:125` now reads *"The Dr. Marsh one — even her eight a.m. fills up."* Praise is not actionable even if false, so the defamation theory is dead. But the live question was never defamation — it is whether the name slot is occupied, and that matters *more* in Vol 2, where Marsh is a recurring character with a physical portrait (`covering.md:15`) attached to a real name, university and department inside explicit fiction. Exposure is a complaint from a real person objecting to the association, not a tort. **Full provenance and clearance prepared for counsel: § [4] below** — independent creation (Mary Leakey, deceased; the Leakey surname considered and rejected for collision; the documented water-name motif), git contemporaneity, all 14 mentions reviewed as uniformly favourable, and the archive leg now complete and clear across three departments, 2015–2026. **Position: no rename.** **Vol 1 exposure is this one line.** |
 | [5] | The Outlier — the PPP-outlier scene | **COLLISION CONFIRMED; renamed. RETAINED FOR COUNSEL — author ruling 2026-09-13: the riskiest item in the book.** The rename is mitigation, not closure. **This is the most adverse characterization in the book of anything tied to a real legal entity** — a named LLC described as having taken loans that "had not done" what they were for, and called "cheating"; entities can sue for trade libel, and nothing else in this sheet attaches adverse conduct to a named business. Questions for counsel and reasoning: `meta-plan-lawyer.md` § [5]. The entity search ran 2026-09-13 across three indexes. Virginia's registry lists an **Active `Miranda Holdings, LLC`**; the SBA PPP FOIA data contains **`MIRANDA HOLDINGS INC`, North Boston NY, $885,600, Paid in Full** — a real borrower bearing the name, in the very dataset the scene depicts. (What the page depicts is narrower than this sheet's 2026-08-01 entry claims: no dollar amount, no use of the word *fraud*, and no narration confirming layoffs at this company — see the precision note in `meta-legal-entity-clearance-miranda.md` §1. The adverse characterization that does appear — loans that "had not done" what they were for, and "Cheating bastards" — is enough to make a name match worth removing.) Cleared replacement: **`Miranda Interests, LLC`** (clean in all three indexes) — and the prose was then changed so it names no entity at all: the reveal renders only `MIRANDA`, tag `MIRA`. Full method, artifacts, and reasoning: `meta-legal-entity-clearance-miranda.md`. |
 | [6-8] | Under the Rug / The Usual — Chili's | **Open, low risk, still going to counsel** (author ruling 2026-09-13: "it's taste, so lower risk, but will still check"). Nominative use of a real mark where the content is **opinion and sensory experience**, not a false statement of fact — and the one evaluative word is undercut by the character wanting the food. The only trademark item left, so worth a minute of the consult. **Two occurrences, not three.** `under-the-rug.md:27` is appetite, not disparagement — *"I like the nachos there… and she wanted it"*; "great gloppy skillet" is affectionate. `the-usual.md:13` describes it accurately to type (*"screens on four walls, music coming down through the ceiling"*) and the distress is Pace's temperament, not the establishment's fault. Nominative use of a real mark; no false statement of fact. Still worth counsel's minute, but thin. |
 | [9] | Nothing Underneath — "since she was fourteen" | **CLOSED — mis-stated at generation.** The clause is about *hiding her body*, not masturbation: `nothing-underneath.md:25`, *"She had spent since she was fourteen **hiding it under long coats and loose things**, keeping it folded small."* It sits in the same paragraph as mirror self-touch, so the exposure is adjacency, not syntax. Optional cleanup: move the clause clear of the paragraph. |
@@ -135,6 +135,110 @@ support agent with no incentive to say yes — against a near-zero discovery
 surface (private delivery to 8–15 invited, screened readers; no public listing,
 no complaint vector). Full reasoning and the standing honesty limit — not
 volunteering is not misrepresenting — in `meta-plan-lawyer.md`.
+
+### [4] Dr. Marsh — character-name provenance and clearance
+
+*Prepared for counsel review. Every claim below is sourced to a file, a commit,
+or a dated search.*
+
+#### The character and her footprint
+
+A fictional anthropology professor at the (unnamed but geographically
+identifiable) university. **Volume 1: one mention** — `all-the-time.md:125`, a
+course reference, not an appearance. **Volume 2: 13 mentions across four
+chapters** (`covering`, `clean-plate`, `coming-due`, `boyfriend`), where she
+becomes a rendered character with a physical portrait (`covering.md:15`).
+
+#### The portrayal — all 14 mentions reviewed 2026-09-13
+
+**Uniformly neutral or favourable. No pejorative characterization anywhere.**
+Representative: *"even her eight a.m. fills up"*; *"if Dr. Marsh was anything
+like her reputation, the right seats would matter"*; *"tall… built like a
+marathon — long and spare and efficient"*, *"moved like a woman with somewhere
+better to be who had decided this was it"*; *"set something loose in the room"*;
+the comb travelling the rows while *"Marsh lectured on over the top of it and
+never once asked for it back."*
+
+The single closest approach to criticism is students in small talk wondering
+*"whether Marsh assigned like a woman who'd forgotten students took other
+courses"* (`clean-plate.md:291`) — a workload grumble, non-factual, and
+effectively a remark about rigour.
+
+She is not sexualized, not a participant in and not aware of the students'
+relationship; the explicit content is not about her.
+
+#### Independent creation — the provenance chain
+
+1. **Inspiration: Dr. Mary Leakey** (1913–1996), the paleoanthropologist —
+   a real, deceased, widely admired public figure, and the source of the
+   character's shape (field-worn boots, the spare build, the impatience). **Note
+   for counsel: defamation claims do not survive death**, and a character
+   "roughly based on" an unnamed deceased figure, not used commercially, does not
+   implicate post-mortem publicity rights. The portrayal is in any case admiring.
+2. **Her real surname was considered and deliberately rejected *for collision
+   risk*.** `meta-note-anthro.md:32`: *"almost named Leaky/Leakey but cut for
+   being too on-the-nose **and colliding with the famous anthropologist
+   family**."* Recorded contemporaneously — evidence of care, not carelessness.
+3. **The replacement came from a documented, systemic naming principle**, not an
+   ad hoc choice. `meta-arch-bible.md:130`: *"**Names — a buried water motif
+   around Vee.** A quiet field of water/fluid names surrounds her — **Vawter
+   Hall** (her dorm; *water* under a real Virginia surname), **Dr. Marsh**…
+   When naming something adjacent to Vee, a faint water tinge is on-motif. Keep
+   it a field, never a wink — a too-obvious water name (*Leaky*, cut) breaks
+   it."*
+4. **"Marsh" is a common surname**, which weakens identification independently of
+   everything above.
+
+#### Contemporaneity — git provenance
+
+| Commit | Date | What it established |
+|---|---|---|
+| `68608442` | 2026-07-11 | Marsh first drafted (`all-the-time`) |
+| `f7a35022` | 2026-07-11 | The water-name rationale recorded, same day |
+| `55aeb22e` | 2026-07-21 | Portrayal extended |
+
+**Caveat, so the argument rests on the right artifact:** local git commit dates
+are author-settable (`git commit --date`). What is *not* author-controlled is the
+**push history to the third-party remote** (GitHub, `jbenshetler/with-a-long-spoon`),
+whose receive timestamps establish that this material existed by those dates.
+Point counsel at the remote history, not the local log.
+
+#### Search record
+
+- **Current pages, 2026-08-02** — VT Sociology (which houses anthropology),
+  Religion & Culture, and History faculty rosters; plus a student-review-site
+  sweep. **Slot not occupied.** Nearest surname: "Marshall," a History postdoc.
+  Only VT "Marsh" found anywhere: a non-faculty communications staff member.
+- **Archived rosters, 2026-09-13 — the previously blocked Wayback leg, now
+  COMPLETE.** Internet Archive CDX API, one snapshot per year, `id_` raw
+  captures, all three departments:
+  - Sociology — **2015–2026, 12 snapshots: no Marsh**
+  - Religion & Culture — **2016–2026, 11 snapshots: no Marsh**
+  - History — **2015–2026, 12 snapshots: only "Marshall"**
+  - Early (2015–2018) snapshots verified as genuine rosters, not navigation
+    shells (30 and 25 instances of "professor"; 119 and 50 distinct name-pairs),
+    so the null results are meaningful.
+- **Known limitation:** faculty rosters systematically under-list adjuncts,
+  instructors, and visiting/emeritus faculty. More years of the same page does
+  not close this; course timetables and the university directory would.
+
+#### Position (author ruling 2026-09-13)
+
+**No rename. Publish Volume 2 with the character intact.** Defamation requires a
+defamatory statement; the portrayal is uniformly favourable, so the analysis does
+not reach identification or fault. An assistant recommendation to rename if a
+real Dr. Marsh appears before Volume 2 was **overruled as unreasonable**, and the
+reasoning behind it was wrong: it treated *actual knowledge of a same-named real
+person* as independently creating exposure. Knowledge goes to fault, and fault is
+reached only after a defamatory statement of and concerning a plaintiff. There is
+none.
+
+**Re-check before each publication event** (Volume 2 especially, where the
+character is substantial) — but as **awareness, not a gate**. If the slot is
+occupied, the action is to record it and proceed. The only scenario warranting a
+change is a *portrait* match rather than a name match — a real tall, spare,
+silver-haired woman in that department — and even then the proportionate response
+is altering a physical detail, not renaming an established continuing character.
 
 ## Ask-the-lawyer list (risk ≥ 2)
 
