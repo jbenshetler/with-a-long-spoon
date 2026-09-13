@@ -47,12 +47,12 @@ the lawyer — it is BookFunnel's under-18 termination clause
 
 | # | Item | 2026-09-13 verdict |
 |---|---|---|
-| [1] | Rock — tutor backstory | **Open, narrowed.** Not a legal question; a platform-disclosure one. See below. |
+| [1] | Rock — tutor backstory | **CLOSED.** Not a legal question; no minor is depicted in a sexual or suggestive context. Was a platform-disclosure question; resolved by the ruling not to disclose — the letter is **held as a response kit**, unsent. See § [1] below. |
 | [2] | How It's Done — "Witchcraft" | **CLOSED.** No lyric quoted or paraphrased. `how-its-done.md:21` refers to the song obliquely — *"one of those old standards… the one where he calls it witchcraft."* A title/conceit reference, not protected expression. |
 | [3] | Practice Room — "Freshman year" | **CLOSED — over-flag.** `practice-room.md:33`: *"Nothing. Freshman year. People used them to. You know."* Third-person hearsay about unnamed others, with "freshman year" dating when she *heard* it, not conduct. No participant, no act, no age. College freshmen are ~18 regardless. |
 | [4] | All the Time — Dr. Marsh | **Defamation CLOSED; reclassified to identification hygiene.** `all-the-time.md:125` now reads *"The Dr. Marsh one — even her eight a.m. fills up."* Praise is not actionable even if false, so the defamation theory is dead. But the live question was never defamation — it is whether the name slot is occupied, and that matters *more* in Vol 2, where Marsh is a recurring character with a physical portrait (`covering.md:15`) attached to a real name, university and department inside explicit fiction. Exposure is a complaint from a real person objecting to the association, not a tort. **Full provenance and clearance prepared for counsel: § [4] below** — independent creation (Mary Leakey, deceased; the Leakey surname considered and rejected for collision; the documented water-name motif), git contemporaneity, all 14 mentions reviewed as uniformly favourable, and the archive leg now complete and clear across three departments, 2015–2026. **Position: no rename.** **Vol 1 exposure is this one line.** |
-| [5] | The Outlier — the PPP-outlier scene | **COLLISION CONFIRMED; renamed. RETAINED FOR COUNSEL — author ruling 2026-09-13: the riskiest item in the book.** The rename is mitigation, not closure. **This is the most adverse characterization in the book of anything tied to a real legal entity** — a named LLC described as having taken loans that "had not done" what they were for, and called "cheating"; entities can sue for trade libel, and nothing else in this sheet attaches adverse conduct to a named business. Questions for counsel and reasoning: `meta-plan-lawyer.md` § [5]. The entity search ran 2026-09-13 across three indexes. Virginia's registry lists an **Active `Miranda Holdings, LLC`**; the SBA PPP FOIA data contains **`MIRANDA HOLDINGS INC`, North Boston NY, $885,600, Paid in Full** — a real borrower bearing the name, in the very dataset the scene depicts. (What the page depicts is narrower than this sheet's 2026-08-01 entry claims: no dollar amount, no use of the word *fraud*, and no narration confirming layoffs at this company — see the precision note in `meta-legal-entity-clearance-miranda.md` §1. The adverse characterization that does appear — loans that "had not done" what they were for, and "Cheating bastards" — is enough to make a name match worth removing.) Cleared replacement: **`Miranda Interests, LLC`** (clean in all three indexes) — and the prose was then changed so it names no entity at all: the reveal renders only `MIRANDA`, tag `MIRA`. Full method, artifacts, and reasoning: `meta-legal-entity-clearance-miranda.md`. |
-| [6-8] | Under the Rug / The Usual — Chili's | **Open, low risk, still going to counsel** (author ruling 2026-09-13: "it's taste, so lower risk, but will still check"). Nominative use of a real mark where the content is **opinion and sensory experience**, not a false statement of fact — and the one evaluative word is undercut by the character wanting the food. The only trademark item left, so worth a minute of the consult. **Two occurrences, not three.** `under-the-rug.md:27` is appetite, not disparagement — *"I like the nachos there… and she wanted it"*; "great gloppy skillet" is affectionate. `the-usual.md:13` describes it accurately to type (*"screens on four walls, music coming down through the ceiling"*) and the distress is Pace's temperament, not the establishment's fault. Nominative use of a real mark; no false statement of fact. Still worth counsel's minute, but thin. |
+| [5] | The Outlier — the PPP-outlier scene | **CLOSED on the mitigation.** A real collision *was* found — Virginia lists an Active `Miranda Holdings, LLC`, and the SBA PPP FOIA data contains `MIRANDA HOLDINGS INC` (North Boston NY, $885,600). Canon renamed to `Miranda Interests, LLC` (cleared across three indexes), **and then the prose stopped naming the company, the state, and the county entirely** — the reveal renders only `MIRANDA`, tag `MIRA`. **No named entity remains, so there is nothing to clear.** An earlier ruling retaining this for counsel as "the riskiest item in the book" was made while the entity was named and is superseded. Method and artifacts: `meta-legal-entity-clearance-miranda.md`. |
+| [6-8] | Under the Rug / The Usual — Chili's | **CLOSED — reasoned decision to keep (author ruling 2026-09-13). See § [6-8] below.** No trademark theory: infringement requires use *as a mark*, and referential use in prose is not that (*Jack Daniel's v. VIP Products*, 2023, confirms the dividing line is source-identifying use). #Cockygate is distinguishable — a **title** is a source identifier, prose is not. Empirically: Brinker is not a trademark litigant (0 trademark actions as plaintiff in 134 sampled dockets), and the Amazon takedown vector is **metadata**, where "Chili's" does not appear. Offsetting real craft value: the word characterizes Pace, carries Vee's appetite, and names an event across volumes. **Two occurrences in Vol 1, one planned in Vol 2.** |
 | [9] | Nothing Underneath — "since she was fourteen" | **CLOSED — mis-stated at generation.** The clause is about *hiding her body*, not masturbation: `nothing-underneath.md:25`, *"She had spent since she was fourteen **hiding it under long coats and loose things**, keeping it folded small."* It sits in the same paragraph as mirror self-touch, so the exposure is adjacency, not syntax. Optional cleanup: move the clause clear of the paragraph. |
 
 **New, not in the original scan (Volume 2 — not in the beta package):**
@@ -197,11 +197,27 @@ relationship; the explicit content is not about her.
 | `f7a35022` | 2026-07-11 | The water-name rationale recorded, same day |
 | `55aeb22e` | 2026-07-21 | Portrayal extended |
 
-**Caveat, so the argument rests on the right artifact:** local git commit dates
-are author-settable (`git commit --date`). What is *not* author-controlled is the
-**push history to the third-party remote** (GitHub, `jbenshetler/with-a-long-spoon`),
-whose receive timestamps establish that this material existed by those dates.
-Point counsel at the remote history, not the local log.
+**Where the record actually lives — and why it is not author-controlled.** This
+repository is hosted on **GitHub (`github.com:jbenshetler/with-a-long-spoon`)**,
+a third party, and has been pushed continuously since before this material was
+written. That matters because a single local commit date *is* author-settable
+(`git commit --date`), so the date field alone would prove little. Two things
+make the timeline hard to manufacture:
+
+1. **The hash chain.** Every commit's SHA incorporates its parent's SHA, its
+   tree, and its timestamps. Back-dating one commit changes its SHA and
+   therefore every SHA after it — the entire subsequent history. It is not
+   possible to alter one date in place.
+2. **Third-party custody.** Because that chain has been pushed to GitHub
+   continuously, rewriting it would require a force-push that replaces the
+   remote's stored refs — an event GitHub records and that is visible to anyone
+   holding a prior clone. The commits named above (`68608442`, `f7a35022`,
+   `55aeb22e`) sit inside that already-pushed chain with thousands of later
+   commits built on top of them.
+
+So the evidence is not "the author says the file is dated July"; it is that the
+July commits are structurally load-bearing inside a chain held by a third party
+since then. **Point counsel at the GitHub history, not a local log.**
 
 #### Search record
 
@@ -239,6 +255,114 @@ occupied, the action is to record it and proceed. The only scenario warranting a
 change is a *portrait* match rather than a name match — a real tall, spare,
 silver-haired woman in that department — and even then the proportionate response
 is altering a physical detail, not renaming an established continuing character.
+
+### [6-8] Chili's — reasoned decision to keep (author ruling 2026-09-13)
+
+*Structural analysis, not legal advice. Recorded so this is not re-opened from
+scratch by a later review pass.*
+
+#### The occurrences and what they do
+
+**Two in Volume 1, one planned for Volume 2** — and the word is load-bearing in
+all three, which is why a generic substitution is not a free swap.
+
+- `the-usual.md:13` — *"the Chili's out by 460, screens on four walls, music
+  coming down through the ceiling"* — characterizes **Pace**: the loud room where
+  *"something in him had come apart very quietly over the hour."* The brand is
+  doing sensory shorthand about a man, not evaluating a restaurant.
+- `under-the-rug.md:27` — *"'Chili's,' she said… 'I like the nachos there.'
+  A great gloppy skillet of them… and she wanted it."* Vee's appetite, stated
+  affirmatively.
+- **Volume 2, planned** (`meta-note-back.md:33`) — *"**The Chili's shadow → the
+  handoff.** Mid-glow, she remembers Chili's — the *event* may be named in her
+  head, vividly."* Here the brand is **the name of an event in memory**. A
+  generic cannot perform this: memory labels things in one word, and "the chain
+  place out by 460" is a description, not a flinch.
+
+**Author valuation: mid-value, not low.** Strong reader shorthand, characterizes
+Pace, and functions as a cross-volume referent. Replaceable only with awkward
+phrasing carrying less meaning and less punch.
+
+#### Why there is no trademark theory
+
+1. **Infringement requires use *as a mark*.** The threshold is using another's
+   mark to designate the source of your own goods. A novel referring to a
+   restaurant is referential use — the word doing its ordinary job.
+2. **Jack Daniel's Props. v. VIP Products, 599 U.S. 140 (2023)** — unanimous,
+   Kagan — confirms that dividing line, and is the case that would otherwise be
+   cited against an expressive-work defense. Held: where an infringer uses a mark
+   **as a designation of source for its own goods**, the *Rogers* test does not
+   apply. Reasoning: *"Consumer confusion about source is most likely to arise
+   when someone uses another's trademark as a trademark."* VIP lost *Rogers*
+   protection because it used Bad Spaniels as its **own** source identifier.
+   Jack Daniel's narrowed *Rogers* for source-identifying use and left
+   referential use untouched.
+3. ***Rogers v. Grimaldi*** would in any case be satisfied: the use has obvious
+   artistic relevance (characterization, event-naming) and does not explicitly
+   mislead as to source.
+4. **No confusion is possible.** Confusion is assessed at the point of purchase.
+   A reader cannot even see these mentions before buying, and no reader believes
+   a restaurant chain published a literary erotica novel.
+5. **#Cockygate is distinguishable, and the distinction is the whole point.** A
+   book **title** *is* the product's source identifier in the marketplace — which
+   is why a trademarked word in a title is within trademark's core, why Amazon
+   acted on the complaint, and why the claim was arguable at all. It still failed,
+   but on **mark weakness** ("cocky" being common and descriptive). This book's
+   configuration is the inverse: a *strong* mark used in a way that is *not*
+   source-identifying. That is the easier of the two cases.
+6. **Dilution by tarnishment** is the only theory under which the book's genre
+   could matter, and it has no hook: the mark is attached to nachos and a room
+   with screens on four walls, and to a man's hearing failing him. *Honest
+   nuance:* `under-the-rug` is a post-coital chapter, so the **chapter** contains
+   sexual content — but the **mention** is a skillet of nachos she wants. Thin
+   reed, and the Lanham Act's noncommercial/expressive exclusions sit on top of
+   it.
+
+#### Empirical risk research (2026-09-13)
+
+- **Brinker International is not a trademark litigant.** CourtListener/RECAP,
+  **134 dockets sampled** (100 of 188 `caseName:"Brinker International"`, 34
+  `caseName:"Chili's Inc"`). Brinker/Chili's appear as **plaintiff in 8 cases;
+  zero are trademark** — antitrust (as a price-fixing *victim*), breach of
+  contract with a supplier, unpaid-wage collection, two pre-1991 matters. The
+  overwhelming bulk have them as **defendant** (employment, FLSA, ADA, personal
+  injury, patent). *Limits:* C&Ds never appear in court records, TTAB oppositions
+  are not in this set, RECAP coverage is crowd-sourced and incomplete, and ~70%
+  of the Brinker set was sampled. This measures litigation propensity, not
+  enforcement propensity.
+- **The Amazon vector is metadata, not prose.** #Cockygate proves Amazon *will*
+  remove books on a trademark complaint alone, before any adjudication — Hopkins
+  reported titles and they came down, reinstated only after RWA/Authors Guild
+  pressure. But every documented takedown of this kind targets **listing
+  metadata** — title, subtitle, series, keywords, cover — which is what Brand
+  Registry matches and what a complainant can point at in a form. **No evidence
+  was found of a takedown over a brand name inside a novel's prose.** "Chili's"
+  appears in none of this book's metadata. (The inverse case is instructive:
+  Jane Friedman could not get impersonating AI books removed *because* her claim
+  was neither copyright nor trademark — the system responds to IP claims
+  specifically, and fast.)
+- **Commercial reality:** brands generally welcome incidental neutral mentions in
+  fiction; product placement is an industry people pay for. A chain objecting to
+  a character liking its nachos would be strange and self-defeating.
+
+#### Decision and contingency
+
+**Keep it.** No viable theory, a non-litigious rights holder, and a vector that
+does not reach interior prose — against real and repeated craft value.
+
+**If a complaint ever arrives:** comply, recast generically, republish. Complying
+is not an admission. **Know the failure mode:** the cheapest move for a brand is
+not a C&D to the author but a complaint to the retailer, and Amazon removes first
+and adjudicates later, with account-level risk and restoration depending on
+escalation. The book would be down while it was fixed. That is a disruption cost,
+not a legal one, and it is the reason the decision is *reasoned* rather than
+merely *inherited*.
+
+**Guidance for the undrafted Volume 2 beat:** draft it as `meta-note-back.md`
+already specifies — the brand as **the name of the event in her head**, not as a
+description of the restaurant. Naming a memory is further from source-identifying
+use than describing a meal, so the better prose and the lower-risk prose are the
+same prose.
 
 ## Ask-the-lawyer list (risk ≥ 2)
 

@@ -193,19 +193,66 @@ For the lawyer to confirm/correct; rationale behind the pre-sheet's risk grades.
   `meta/entity-clearance/`. **Note for any future entity check: use
   `cis.scc.virginia.gov`, never `scc.virginia.gov/boi/`** — the latter is the
   Bureau of Insurance and returns a meaningless null for business entities.
-- [ ] Consult on the risk ≥ 2 items in `meta-plan-legal-read.md` — **three items:
-  [5] the PPP-outlier scene** (author ruling 2026-09-13: the riskiest item in the
-  book — see below); **[4] Dr. Marsh**, submitted as a *provenance package for
-  confirmation*, not an open question — position is no rename
-  (`meta-plan-legal-read.md` § [4]); and **[6-8] Chili's** (thin on re-check).
-  Items [2] [3] [9] verified closed 2026-09-13; item [1] Rock reclassified
-  (below).
+- [ ] ~~Consult on the risk ≥ 2 items~~ — **the list is empty. All nine items
+  resolved without counsel (author rulings 2026-09-13).** See the closing
+  assessment below before booking any legal time.
 
-### [5] The PPP-outlier scene — RETAINED for counsel (author ruling 2026-09-13)
+## Closing assessment — what legal spend is actually for (author rulings 2026-09-13)
 
-**The rename is mitigation, not closure.** An assistant recommendation to close
-this item on the rename was **overruled by the author, who judges it the riskiest
-item in the book.**
+The nine risk ≥ 2 items opened by the 2026-08-01 scan all closed without a
+lawyer. Recorded here so the shrinking list reads as a conclusion reached, not an
+obligation dropped.
+
+| Item | Resolution |
+|---|---|
+| [1] Rock — tutor backstory | No depiction of a minor; response kit held, not sent |
+| [2] Witchcraft | No lyric quoted or paraphrased |
+| [3] Practice rooms | Third-person hearsay; college freshmen are 18 |
+| [4] Dr. Marsh | Provenance package; uniformly favourable portrayal; **no rename** |
+| [5] PPP-outlier scene | Renamed, then the prose stopped naming any entity at all |
+| [6-8] Chili's | No trademark theory; **reasoned decision to keep** |
+| [9] "since she was fourteen" | Mis-stated at generation; about hiding her body |
+
+**Item-by-item clearance is no longer worth buying.** Paying a professional to
+confirm three non-questions costs real money for no information. Specifically:
+**Marsh is off** — praise is not defamatory, and that is not a close question;
+the package is a *response file*, not something to buy an opinion about.
+**[5] is closed on the mitigation** — the earlier "riskiest item in the book"
+ruling was made when the entity was *named*; removing the name dissolved the
+thing being ruled on, and keeping it on the list because it used to be first
+would be sunk-cost reasoning.
+
+**What counsel could still buy, when the economics change:** not clearance, but
+(a) a documented professional opinion, which is itself evidence of reasonable
+care on the fault element for anything unforeseen, and (b) unknown unknowns. On
+(b), one probe was run and came back clean — no real sorority is named anywhere
+("the house", "the chapter", "the sorority"), and "Chi Latte" is a coined pun
+portrayed favourably. The naming discipline is already careful, which weakens
+the case for paying someone to find what was missed.
+
+**Recommended sequence:** spend nothing now; keep the provenance records as
+response files; buy **one flat-fee pre-publication read** before Volume 2 or
+first meaningful revenue, whichever comes first — Volume 2 being the point where
+Marsh becomes substantial and a new publication event restarts the clock.
+
+**Standing note on the realistic risk:** it was never litigation. In descending
+order of probability the live events are a retailer takedown on a brand
+complaint (removal first, adjudication later), an informal objection from a real
+person in a name slot, and reader/review backlash. None is decided by whether
+you would win a suit.
+
+### [5] The PPP-outlier scene — superseded: CLOSED on the mitigation
+
+> **Status changed 2026-09-13, later the same day.** This item was retained for
+> counsel while the entity was *named*. The prose then stopped naming the
+> company, the state, and the county — so there is no named entity, and nothing
+> for counsel to clear. **Author ruling: closed.** The reasoning below is kept
+> because it explains why the item once ranked first, and because the
+> adverse-characterization analysis stays correct on its own terms.
+
+**The rename was mitigation, not closure.** An assistant recommendation to close
+this item on the rename alone was **overruled by the author, who judged it the
+riskiest item in the book** — a ruling made on the facts as they then stood.
 
 **Why it ranks first (author's reasoning, 2026-09-13):** this is the **most
 adverse characterization in the book of anything even tangentially tied to a real
