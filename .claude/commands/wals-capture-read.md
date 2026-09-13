@@ -25,12 +25,20 @@ Harness: `tools/capture_dag.py`. Contract and results history:
 | `romance-graduate` | outgrown spicy romance, won't give up the heat (primary vector) | yes |
 | `fsog-refugee` | FSoG intensity with real consent and warmth (crossover) | yes |
 | `consent-sensitive` | vigilant about predation-romanticizing; the con-misread instrument | yes |
-| `dark-romance-control` | the WRONG reader; **should bounce** — her STOPs are successes | yes |
 | `queer-woman` | opt-in only | **no** |
+| `dark-romance-control` | the WRONG reader; **retired 2026-09-12** | **never** |
 
-A bare `--personas`-less run is the four defaults. `queer-woman` is selectable
+A bare `--personas`-less run is the three defaults. `queer-woman` is selectable
 but deliberately **not** in the default set, so a bare invocation never silently
 opens a fresh 70-chapter read on a subscription lane.
+
+**`dark-romance-control` is retired from running** (author ruling 2026-09-12).
+She was the repel-goal instrument — her STOPs were the success condition — and
+she delivered it (opus STOPPED at ch021, sol at ch006). The lanes that didn't
+stop then sat permanently behind, making every "catch up to chapter N" scope
+cost more than the signal was worth. Do not run her again; she stays in
+`ALL_PERSONAS` only so `--assemble` can rebuild the historical record from
+gates already on disk.
 
 ## Models
 
@@ -140,11 +148,27 @@ scope) and follow its discipline:
 4. Where gates carry NEXT, the split is the signal: low CAPTURE + high NEXT is a
    working breather; low + low is a stall.
 
-Report: DECISION/CAPTURE/NEXT per reader, STOPs (a control's STOP is a success —
-the repel filter working), and **ALMOST-STOPPED quoted exactly** — the
-actionable output even when everyone continues. Single-reader stops are noise;
-**convergent ones are findings**. Weight convergence across *models* as well as
-personas, and apply the author's standing model-weighting when reading heat.
+For a complaint attached to a **high** score — the more common case — follow
+SPEC "Reading a complaint against a high score": classify first (appetite =
+receipt, never fix; craft = actionable at any score; trust = top priority;
+self-disqualifying = noise), weight by cross-**model** convergence rather than by
+the attached score, and correct for the ~2.1-point lane offset, so sol
+complaining at all outranks opus complaining. An ALMOST-STOPPED at a 9 or 10 is
+the most valuable datum the instrument produces.
+
+**Capture silence is not craft clearance.** The scores are capture data; the
+complaints are craft findings in a capture wrapper, and belong to the cold-read
+lane's standards. A persona's silence never clears a beat — `consent-sensitive`
+never flagged Grace's un-asked penetration in either version, while sol's *cold*
+read caught it and drove the revision. A chapter this panel loves may still be
+owed a `/wals-cold-read`, and a revision made off a cold-read flag is verified
+there, not here.
+
+Report: DECISION/CAPTURE/NEXT per reader, STOPs, and **ALMOST-STOPPED quoted
+exactly** — the actionable output even when everyone continues. Single-reader
+stops are noise; **convergent ones are findings**. Weight convergence across
+*models* as well as personas, and apply the author's standing model-weighting
+when reading heat.
 
 Personas are simulations of readers, not readers. Output is candidate signal for
 authorial judgment; the ground truth is the human cohort
