@@ -1,4 +1,4 @@
-# Legal/content pre-read — Volume 1 (*Nothing Underneath*)
+# Legal/content pre-read — Volume 1 (*A Polite Invitation, With a Long Spoon: Book One*)
 
 Pre-sheet for the lawyer consult, generated 2026-08-01 from a per-chapter subagent
 scan of all 49 drafted Volume 1 chapters. **Flags candidates; nothing here is legal
@@ -35,6 +35,106 @@ surname; character names have symbolic antecedents, not real-person referents.
 - **Sade** — 2 chapters: `gone.md`
 - **Toyota Corolla** — 2 chapters: `rock.md`, `new-ordinary.md`
 - **Chili's** — 2 chapters: `under-the-rug.md`, `the-usual.md`
+
+## Verification pass — 2026-09-13 (prose re-checked against the 2026-08-01 scan)
+
+The scan below is from 2026-08-01 and has drifted: several items were fixed in
+the intervening prose passes and two were mis-stated at generation. Every risk ≥ 2
+item was re-checked against the current text. **Verdicts here supersede the
+entries below.** Sequencing note: the live constraint for the beta round is not
+the lawyer — it is BookFunnel's under-18 termination clause
+(`meta-plan-test-readers.md`, platform ToS scan). Only item [1] engages it.
+
+| # | Item | 2026-09-13 verdict |
+|---|---|---|
+| [1] | Rock — tutor backstory | **Open, narrowed.** Not a legal question; a platform-disclosure one. See below. |
+| [2] | How It's Done — "Witchcraft" | **CLOSED.** No lyric quoted or paraphrased. `how-its-done.md:21` refers to the song obliquely — *"one of those old standards… the one where he calls it witchcraft."* A title/conceit reference, not protected expression. |
+| [3] | Practice Room — "Freshman year" | **CLOSED — over-flag.** `practice-room.md:33`: *"Nothing. Freshman year. People used them to. You know."* Third-person hearsay about unnamed others, with "freshman year" dating when she *heard* it, not conduct. No participant, no act, no age. College freshmen are ~18 regardless. |
+| [4] | All the Time — Dr. Marsh | **Defamation CLOSED; reclassified to identification hygiene.** `all-the-time.md:125` now reads *"The Dr. Marsh one — even her eight a.m. fills up."* Praise is not actionable even if false, so the defamation theory is dead. But the live question was never defamation — it is whether the name slot is occupied, and that matters *more* in Vol 2, where Marsh is a recurring character with a physical portrait (`covering.md:15`) attached to a real name, university and department inside explicit fiction. Exposure is a complaint from a real person objecting to the association, not a tort. Demoted to a pre-publication directory lookup (author, not counsel); see `meta-plan-lawyer.md`. **Vol 1 exposure is this one line.** |
+| [5] | The Outlier — Miranda Holdings, LLC | Not re-checked this pass; entity search still outstanding (`meta-plan-lawyer.md`). |
+| [6-8] | Under the Rug / The Usual — Chili's | **Open, weakened. Two occurrences, not three.** `under-the-rug.md:27` is appetite, not disparagement — *"I like the nachos there… and she wanted it"*; "great gloppy skillet" is affectionate. `the-usual.md:13` describes it accurately to type (*"screens on four walls, music coming down through the ceiling"*) and the distress is Pace's temperament, not the establishment's fault. Nominative use of a real mark; no false statement of fact. Still worth counsel's minute, but thin. |
+| [9] | Nothing Underneath — "since she was fourteen" | **CLOSED — mis-stated at generation.** The clause is about *hiding her body*, not masturbation: `nothing-underneath.md:25`, *"She had spent since she was fourteen **hiding it under long coats and loose things**, keeping it folded small."* It sits in the same paragraph as mirror self-touch, so the exposure is adjacency, not syntax. Optional cleanup: move the clause clear of the paragraph. |
+
+**New, not in the original scan (Volume 2 — not in the beta package):**
+`vee-on-the-bench.md:61` attaches a bodily arousal response to age fourteen —
+*"her body had already laid out its evidence the way it always did, the way it
+had since she was fourteen."* Sharper than [9], which the scan did flag. Clean
+this before Volume 2 goes to any platform.
+
+### [1] Rock — the Daphne backstory, verified in full
+
+**What is actually on the page, Volume 1:**
+
+- **Pace is twenty-two in this scene** (`rock.md:93`, *"Twenty-two."*; `:99`,
+  *"You're getting a doctorate."*) — an adult doctoral student, recounting
+  something five to seven years past. Do not describe him as older than that in
+  any platform or counsel correspondence.
+- `rock.md` carries **the ages and no sexual statement.** Pace matriculates at
+  fifteen (SAT at fourteen, `:105`); the assigned tutor *"was nineteen"* (`:213`);
+  *"It went on two years… She was twenty-one and I was seventeen… The distance
+  that had been nothing at nineteen and fifteen"* (`:217`). The relationship's
+  nature is rendered only as **tenderness**: *"the one person in it who was his,
+  who was tender with him, who was the soft middle of those two years"* (`:221`).
+  No sexual act is stated, described, or narrated.
+- `not-enough.md:57` carries **the sexual naming and no ages**: *"She had been
+  his tutor, then his best friend, his first girlfriend, his first lover, his
+  first love."* One word — *lover*. No age, no scene, no description; pure
+  retrospective summary in Pace's interiority. **Volume 1, Draft complete**
+  (chronology `:248` — Fri Jan 1, Christmas break, inside the Fall/Book 1
+  section above the Volume Two marker), so it *is* in the beta manuscript.
+  Flagged 2026-09-13 as possibly slated for revision — confirm with the author
+  before relying on it either way.
+- `the-bench.md:497` names Daphne but ties her to **neither the tutor role, nor
+  any age, nor a sexual relationship** — the content is that he violated her
+  emotional privacy (*"Daphne had built a door, once, and he had not respected
+  it… he had been young, and had thought that loving someone was a kind of
+  permission"*). **Excluded from the concern set** (author call, 2026-09-13).
+
+**Full Volume 1 sweep (2026-09-13)** — every occurrence of Daphne / tutor /
+lover / first love / older student across all 52 Volume 1 entries:
+
+| Chapter | Daphne | "tutor" | "lover" | ages |
+|---|---|---|---|---|
+| `rock.md` | :207 | :213 | — | **:213–221 explicit (15/19, 17/21)** |
+| `not-enough.md` | :51, 53, 55, 61, 67 | :53, 57 | **:57** | — (only *"He had been young"*, :53) |
+| `the-bench.md` | :497 | — | — | — |
+
+**The concern set is two chapters.** Refinement to the claim above: the book
+never puts the sexual naming and the ages on one page, but `not-enough.md` does
+put *tutor* and *lover* together four lines apart (:53, :57), so **"tutor" is the
+hinge** a reader or a keyword scan would use to join that chapter to `rock.md`'s
+ages. Within `not-enough.md` alone there is no number — only "young."
+
+False positives, recorded so later passes don't re-flag them: `substitution.md:101,137`
+(Pace tutoring Vee in *math* — "not a math tutor's forearms", "a tutor's path")
+and `sorority.md:83` (Randi calling Pace Vee's *"lover"*). Neither touches Daphne.
+
+**So the book never places the sexual naming and the ages on the same page.** A
+reader assembles it across two chapters. Nothing is narrated; the whole
+relationship is off-page and years outside the novel's one-academic-year span.
+
+**The narrative explicitly frames it as harm**, in the POV character's judgment,
+twice: *"The word for it started to form in her, the clean ugly grown-up word,
+and she held it down under her tongue. It was not hers to say"* (`rock.md:221`),
+and Pace's own denial is marked as denial — *"Nothing happened. Nobody did
+anything wrong"* answered by *"the good order was the tell"* (`:219`).
+(Volume 2's `hangover.md:87` goes further — *"she'd had that much of him to
+begin with only because of the thing about it that was wrong"* — but is outside
+the beta package.)
+
+**Standing statement for platforms and counsel:** *No minor is depicted in a
+sexual or suggestive context anywhere in the book. An adult character recounts,
+entirely off-page and outside the novel's timeframe, a past relationship that
+the narrative names as harm through its POV character's explicit judgment.*
+
+**Action (author ruling, 2026-09-13): none. Do not disclose; do not rewrite.**
+The letter in `meta-plan-lawyer.md` is **held as a response kit**, to be sent
+only if a platform asks. An unsolicited disclosure seeks permission for something
+the terms do not prohibit, cannot be un-asked, and invites a refusal from a
+support agent with no incentive to say yes — against a near-zero discovery
+surface (private delivery to 8–15 invited, screened readers; no public listing,
+no complaint vector). Full reasoning and the standing honesty limit — not
+volunteering is not misrepresenting — in `meta-plan-lawyer.md`.
 
 ## Ask-the-lawyer list (risk ≥ 2)
 

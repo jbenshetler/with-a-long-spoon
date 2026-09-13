@@ -175,5 +175,228 @@ For the lawyer to confirm/correct; rationale behind the pre-sheet's risk grades.
   review* (defamation/publicity/trademark) or only contract/copyright.
 - [x] Run the dated Dr. Marsh directory/archive check — run 2026-08-02, slot not occupied (see meta-plan-legal-read.md item [2]); Wayback leg blocked, review-site proxy used — re-run archive leg at publication
 - [ ] Run the Miranda Holdings, LLC entity search (VA registry + PPP data)
-- [ ] Consult on the 9 risk ≥ 2 items in `meta-plan-legal-read.md`
-- [ ] Settle disclosure/content-note phrasing (Rock)
+- [ ] Consult on the risk ≥ 2 items in `meta-plan-legal-read.md` — **reduced to
+  two: [5] Miranda Holdings and [6-8] Chili's.** Both publication-gating, neither
+  urgent. Items [2] [3] [4] [9] verified closed 2026-09-13; item [1] Rock
+  reclassified (below); Dr. Marsh demoted to author hygiene (below).
+- [ ] Retrieve BookSprout's Terms of Service — not reachable programmatically
+  (`/terms`, `/terms-of-service`, `/legal` all 404); needs a browser or a support reply
+- [ ] Optional, publication-stage: ask counsel for a **lawfulness opinion** on the
+  Rock backstory (fictional prose, no depiction, no CSAM exposure, plus the
+  *Miller* analysis in the legal-landscape notes above). Value is a held document
+  and the author's own certainty about the floor — **not** compliance, and not a
+  disclosure strategy. No platform is bound by it.
+
+### Struck from the consult (author rulings, 2026-09-13)
+
+- **~~Platform-disclosure guidance on the Rock~~** — the original purpose of the
+  Rock consult item. Overtaken: the *public* channel produced no standard to
+  comply with (published ToS are silent or imagery-only), and the *private*
+  channel carries the un-ask problem below. Counsel has no visibility into a
+  platform's moderation behaviour and cannot obtain safe harbour from it. There
+  is no disclosure channel worth using. **Action: none. Hold the response kit.**
+- **~~Contract/termination advice~~** — author ruling: platform ToS are adhesion
+  contracts with unilateral termination and no meaningful remedy, and litigating
+  one for a pre-revenue title is economic folly ("tens to hundreds of thousands
+  of dollars to reinstate an account for a book that has never made a dime").
+  Nothing for counsel to add.
+- **Dr. Marsh — reclassified, not closed.** The *defamation* rationale is dead:
+  the portrayal is now praise (*"even her eight a.m. fills up"*), and praise is
+  not actionable even if false. What the directory check actually tests is
+  **identification**, and that matters more in Volume 2, not less: Marsh is a
+  recurring character there with a specific physical portrait
+  (`covering.md:15` — tall, spare, short silver hair with a black streak, fleece
+  vest, boots), attached to a real name, a real university, and a real
+  department, inside explicit fiction in which two of her students conduct an
+  affair in her classroom. The exposure is a complaint or takedown demand from a
+  real person who objects to the association — not a tort. **Demoted to author
+  hygiene:** a five-minute directory lookup before publication, guarding against
+  a new hire since the 2026-08-02 clear result. Not a counsel item. If the slot
+  is ever occupied, the fix is renaming a character. **Volume 1 exposure is one
+  line** (`all-the-time.md:125`); the portrait and the recurring presence are
+  entirely Volume 2.
+
+## Platform disclosure — the decision not to disclose (author ruling, 2026-09-13)
+
+**Ruling: do not send a pre-upload disclosure. Hold the letter below as a
+response kit instead.** Send it within the hour if anyone ever asks — which is
+when it has maximum force and zero cost.
+
+Reasoning, in order of weight:
+
+1. **You cannot un-ask.** A support agent handed an email containing "fifteen"
+   and a question about the under-18 clause has no upside in saying yes and
+   every incentive to say "we'd rather not." A written refusal is strictly worse
+   than silence: it cannot be retracted, and it converts any later upload from an
+   unremarkable act into a documented knowing one.
+2. **It seeks permission for something not prohibited.** The clause bars
+   depicting a person under 18 in a sexual or suggestive context. The book does
+   not do that (`meta-plan-legal-read.md`, full Volume 1 sweep). Asking a
+   gatekeeper to bless lawful content invites a standard stricter than its own
+   written one, and binds you to the answer.
+3. **The discovery surface is near zero.** Private delivery to 8–15 invited,
+   screened readers. No public listing, no browse, no search, no storefront.
+   Enforcement at these platforms is complaint-driven, and there is no complaint
+   vector when the only readers are ones you invited.
+
+**Standing limit:** not volunteering is not misrepresenting. If a platform ever
+asks directly, answer straight and send the kit. The distinction between "did
+not raise it" and "misrepresented it" is the whole case if this is ever
+adjudicated.
+
+**Does not carry to publication.** At retail the audience is public, complaints
+are the enforcement vector, and the stakes are the business rather than one beta
+round. Revisit at the publication-stage consult.
+
+### The safe contact, if any is wanted
+
+There is no "mature flag" to set — the term was an assistant placeholder and
+**no such mechanism is documented on any of the four platforms** (see the ToS
+scan in `meta-plan-test-readers.md`). Ask instead for *more* restriction, never
+for permission:
+
+> I'm delivering fully explicit adult fiction to a private review team. How do I
+> make sure only adults can access it — what access controls and reader-side
+> filters do you recommend?
+
+No platform penalises that question. It is operational, it yields a usable
+answer, it asks nothing about the passage and invites no adjudication, and it
+quietly creates a record of diligence — worth more than a permission slip if
+anything ever arises. It also matches the author's actual goal: an adults-only
+cohort, not YA reach.
+
+## BookFunnel response kit — held, not sent (2026-09-13)
+
+**Status: HELD. Do not send unsolicited** (ruling above). This is the reply to
+have ready if a platform ever raises the backstory. The framing below is written
+as a pre-upload question and should be re-pointed to whatever is actually asked
+before sending; the two passages and the standing statement are the payload and
+travel unchanged.
+
+### Original framing — BookFunnel pre-upload disclosure (2026-09-13)
+
+*Why this exists: BookFunnel terminates accounts at sole discretion for
+"content that depicts a person under 18 in a sexual or suggestive context." The
+book does not do that, but a keyword pass could suggest it, and BookFunnel has no
+pre-clearance process — author support handles content questions by email, and
+replying to a takedown notice is the only appeal. So ask first. Send from
+`helen@helenriversbooks.com` via `bookfunnel.com/author-contact/` or
+`help@bookfunnel.com`. Keep the reply.*
+
+**Scope discipline (2026-09-13, revised — author ruling: "if there is a second
+chapter they might flag, let's disclose rather than hide").** The email quotes
+**both** Volume 1 chapters that touch the backstory, each unedited:
+`rock.md` (the ages, no sexual statement) and `not-enough.md` (the word *lover*,
+no age). An earlier draft omitted the second on the grounds that it was
+immaterial to the question asked; that was decided while it was believed to be
+Volume 2 material outside the test. It is Volume 1 and in the beta manuscript,
+and **"tutor" is the hinge** that joins the two chapters, so a keyword scan that
+reaches one reaches the other. Disclosing it costs nothing — in full it reads as
+grief, and it says *"He had been young and new to the university"* with no number
+— while omitting something that *is* in the manuscript is the thing that would
+look bad later. Full sweep and the reasoning: `meta-plan-legal-read.md`.
+
+> **Subject:** Pre-upload content question — adult literary fiction, ARC delivery
+>
+> Hello,
+>
+> I'm preparing to use BookFunnel to deliver an unpublished manuscript to a
+> small private beta-reader team, and I'd like to confirm it sits inside your
+> terms before I upload rather than after.
+>
+> The book is adult literary erotica — fully explicit, contemporary, all
+> characters adults. There are no images of any kind in the interior, and the
+> cover is abstract line art with no human figures.
+>
+> The one thing I want to flag directly is a backstory element, because I think
+> a keyword scan could read it more alarmingly than the page supports. A
+> twenty-two-year-old male character — a doctoral student, an adult — tells the
+> narrator about a relationship from his own adolescence: he entered university
+> early, at fifteen, and the older student assigned as his tutor was nineteen.
+> The book treats this as something that was done *to* him. Nothing is depicted.
+> The relationship is entirely off-page, years before the novel begins, and it is
+> never described in sexual terms in the scene where it is discussed.
+>
+> The narrator's response is the book's own verdict on it:
+>
+> > The word for it started to form in her, the clean ugly grown-up word, and she
+> > held it down under her tongue. It was not hers to say.
+>
+> One other chapter touches the same backstory, so I'll flag it too rather than
+> leave you to find it. In a later chapter, alone and grieving after a breakup,
+> he thinks back on her and the narration lists what she had been to him — the
+> word "lover" appears in that list. No age is given there, and nothing is
+> described; it's a single sentence of retrospect. Between the two chapters, the
+> ages appear in one and that word in the other, and the book never puts them
+> together.
+>
+> So: no minor is depicted in a sexual or suggestive context anywhere in the
+> book. An adult recounts a past harm, off-page, and the narrative explicitly
+> frames it as harm.
+>
+> Rather than excerpt them, I've pasted both passages below, unedited and uncut,
+> so you can judge them directly. Together they are the whole of what the book
+> says on the subject, and the first is the quietest scene in the novel.
+>
+> Three questions:
+>
+> 1. Does that sit within your terms for delivery?
+> 2. Should the book carry a mature/adult flag, and is there anything I need to
+>    set on my end beyond that?
+> 3. Do ARC/Certified Mail deliveries to a private beta team face the same
+>    content standards as group promos? I don't intend to enter it in promos.
+>
+> Happy to send the manuscript if that would help.
+>
+> Thank you,
+> Helen Rivers
+>
+> —
+>
+> **Passage 1 — the full exchange, unedited.** From a chapter in which the two
+> main characters talk on a porch after dark. She has just asked whether he was
+> lonely; she offers her own first love before asking about his.
+>
+> > "Were you lonely the other way?" she asked. It was out before she meant it to be. "Not the work. The rest of it. People."
+> >
+> > He didn't answer at once, and it was the second kind of quiet.
+> >
+> > She hadn't meant to stand him in a doorway, so she went first, to make it a trade. "I had a boyfriend at fifteen. A trumpet player. I played clarinet, he played trumpet, we sat three rows apart in band, and I was certain that was the whole mechanism of love — proximity and brass. It lasted one marching season. He took up with a girl from the Methodist church over the summer, I heard it from somebody else, and I lay on my bed being sad to the same four songs until my mother took the headphones off my head." She turned the mug. "I was sure it was love at the time. It turned out to be smaller than it felt. But I did feel it."
+> >
+> > "That's how it's meant to go," he said. "At fifteen."
+> >
+> > "And yours?" She kept it light.
+> >
+> > He took a moment. "Daphne," he said.
+> >
+> > Just the name, and then he let it stand there. She had given him a whole marching season.
+> >
+> > The flatness in it reminded her of how he'd sounded when she asked about his parents. "How did you know her?"
+> >
+> > "When I got there, they assigned me someone. A tutor." His mouth moved, dry. "Which was its own joke — there was nothing in the catalog I needed tutoring in. But that was the arrangement: an older student, to help the child find his feet." A beat he didn't fill. "She was nineteen."
+> >
+> > Vee went still. She didn't choose it. She simply stopped moving.
+> >
+> > "It went on two years," he said. He was looking at the black glass, not at her, and his voice had changed — each word set down separately and precisely in its place, as though the placing of them were what held the sentence up off the floor. "She left the year she turned twenty-one. Nothing happened. Nobody did anything wrong. She was twenty-one and I was seventeen, and the rooms she was walking into by then were rooms they wouldn't let me stand in for four more years. Bars. The ordinary places. The distance that had been nothing at nineteen and fifteen was, all at once, the entire thing." He turned the cold mug a quarter-turn against his knee. "So she went on. Which was only sensible. It would have been stranger if she'd stayed."
+> >
+> > He laid it out in good order, every reason accounted for and set in its slot, and the good order was the tell. All evening she had heard him undersell things — the hall, the fifteen — and this was that same voice gone one degree flatter, held the careful way a person carries a full glass so it won't go over the rim.
+> >
+> > She did the arithmetic without wanting to. Nineteen and fifteen. Two years. It landed low and heavy in her stomach before it was a thought she could have said aloud — the boy he must have been, taken off from home too early, brilliant and alone in a building full of grown men, and the one person in it who was his, who was tender with him, who was the soft middle of those two years, and she nineteen and he fifteen. The word for it started to form in her, the clean ugly grown-up word, and she held it down under her tongue. It was not hers to say.
+> >
+> > So she did not say the word, and she did not say she was sorry. She set the mug on the table, turned under the quilt, and fitted herself along his side, her head to his shoulder, her palm flat on his chest over the place the careful voice had come out of.
+> >
+> > "You were so young," she said. That much got past her. She kept the rest behind her teeth.
+>
+> **Passage 2 — the full retrospect, unedited.** From a later chapter, months on,
+> in which he is alone after she has left him. This is every sentence the chapter
+> gives to the earlier relationship.
+>
+> > Daphne was the only woman he had told he loved. She was the only one he ever expected to. Her departure consumed his life.
+> >
+> > He had been young and new to the university. Daphne was older and knew how things worked. The school called her his tutor, though academics were the one place he had not needed anyone's help. He could do the work. He did not know which dining hall made a meal plan stretch, how registration opened, which office could fix a mistake, or where to stand when everyone else seemed to have been born knowing.
+> >
+> > Daphne knew. She showed him.
+> >
+> > She had been his tutor, then his best friend, his first girlfriend, his first lover, his first love. He told her he loved her. She said it to him. He meant it.
+> >
+> > Then she left.

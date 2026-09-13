@@ -55,6 +55,80 @@ adult-tier ToS directly — all three are used for erotica *in practice* but non
 published an explicit blessing when checked (2026-08-15); they may age-gate or
 tier rather than ban.
 
+### Platform ToS scan (2026-09-13 — published terms only)
+
+Leg 1 of the confirmation. **Published policy only; not a substitute for a
+written support answer** (Leg 2, below), which is the thing worth relying on.
+
+| Platform | Role | Adult/explicit in published terms | Bites on this book? |
+|---|---|---|---|
+| **BookFunnel** | deliver | A real content policy — **imagery only**. Text erotica unrestricted. | **Yes, one clause.** See below. |
+| **StoryOrigin** | collect | **Silent.** No adult-content clause of any kind. | Only the KDP Select representation. |
+| **BookSirens** | recruit | **Silent.** Acceptance criteria are craft/marketing only (cover, blurb, standalone, proofread, formatted, English; "published in the last 30 days or — even better — with a future publication date"). | No. The unpublished-ARC timing suits us. |
+| **BookSprout** | recruit | **Could not retrieve.** `/terms`, `/terms-of-service`, `/legal` all 404; only the help centre is indexed, and it covers review conduct, not content. | **Unknown — author to check in a browser.** |
+
+**BookFunnel's three relevant clauses** (`bookfunnel.com/terms/`):
+
+1. *"Photographs, video, video stills, animations, or any camera-captured
+   imagery depicting uncovered genitalia, bare breasts, or exposed buttocks are
+   not permitted."* — **moot**: no photographic content anywhere in the book.
+2. *"Explicit illustrations may not appear on book covers, download pages,
+   landing pages, or in free samples, regardless of the content of the
+   associated work."* — **moot**: the cover is abstract symbols (wire frame,
+   wood plane, diamond necklace, sleep mask), no human figures. A wrought-iron
+   section separator, if ever added, would not engage it either.
+3. *"Content that depicts a person under 18 in a sexual or suggestive context"*
+   → **immediate account termination**, alongside a general right to terminate
+   *"at its sole discretion, for any reason."* — **the only live clause.** It is
+   what makes the Rock/Daphne backstory a *platform* question rather than a
+   legal one; the verified reading of what is actually on the page is in
+   `meta-plan-legal-read.md` (2026-09-13 verification).
+
+**Market context:** no reports found of BookFunnel or StoryOrigin removing
+erotica or closing accounts over it; industry commentary treats both as the
+*workaround* for erotica authors, and BookFunnel's own blog encourages using it
+for spice kept off retailers. The only erotica-specific control found is a
+**group-promo** organizer toggle ("No erotica"), irrelevant to ARC delivery —
+but note promo eligibility is stricter than plain delivery. The 2026 pressure in
+the market is elsewhere: Draft2Digital's new fees amid 70%+ submission
+rejections (AI spam, not erotica), and payment processors (Kickstarter's May
+2026 "Mature Content" guidelines under Stripe pressure). BookFunnel is not
+merchant of record, so processor rules hit a storefront, not BookFunnel.
+
+**Leg 2 — revised (author ruling, 2026-09-13): do not ask for permission.**
+An earlier version of this plan called for a pre-upload disclosure to BookFunnel.
+That is **struck** — it seeks permission for something the terms do not prohibit,
+cannot be un-asked, and invites a refusal from a support agent with no incentive
+to say yes. Full reasoning, and the letter now held as a response kit, in
+`meta-plan-lawyer.md`.
+
+**There is no "mature flag."** The term was an assistant placeholder; no such
+mechanism is documented on any of the four platforms. What actually exists:
+
+- **BookFunnel** — *access* controls, not age controls: **Restricted delivery**
+  (cloud-read only, no download, with read-tracking) and **Certified Mail**
+  (per-reader watermark), plus expiry dates and download limits. Note their app
+  is rated **4+ in the Apple App Store**, which likely explains why the content
+  policy polices *imagery* (covers, landing pages — the app chrome Apple sees)
+  and not text inside books.
+- **BookSirens** — reader-side filtering is **genre opt-in**: readers choose
+  genres and only those books reach them. No age verification. "Adults only" is
+  achieved by category self-selection.
+
+**The safe question, if any contact is wanted** — ask for *more* restriction,
+never for permission: *"I'm delivering fully explicit adult fiction to a private
+review team. How do I make sure only adults can access it — what access controls
+and reader-side filters do you recommend?"* Operational, unpenalised, invites no
+adjudication, and creates a record of diligence. It also matches the actual goal:
+an adults-only cohort of romance-graduates and FSoG-refugees, never YA reach.
+
+**Author-side gating already in the plan** is stronger than any platform flag:
+the intake screener asks directly about comfort with fully explicit content, the
+recruit blurb is written so the wrong reader self-deselects, and BookSirens'
+genre opt-in filters again. The cohort is adults who affirmatively chose explicit
+material. Pair that with Restricted delivery, whose real job here is protecting
+an unpublished manuscript from leaking — the actual risk in this round.
+
 ## Recruit cohort — size and shape
 
 - **~8–15 finishers, not 50 sign-ups.** Over-recruit ~2–3× (betas evaporate),
