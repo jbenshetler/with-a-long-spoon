@@ -643,3 +643,63 @@ receive nothing else beyond the packet the harness builds.
 
 `reviews/capture-panel/<model-id>/<persona>--<arm>.md`. Not indexed by `na.py`
 (no `## Reader reaction` section — instrument output, not a cold read).
+
+## ALMOST-STOPPED base rates — correction to rule 4 (measured 2026-09-14, author-approved)
+
+Measured across **all 1,407 DAG gates on disk**: 41% quote a moment, 59% say
+`none`. Two facts follow, and they cut in opposite directions.
+
+**The field is real signal.** The quoted-rate falls monotonically with the score
+over the whole range — it is not readers dutifully filling in a box:
+
+| CAPTURE | 2–3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|---|---|---|---|---|---|---|---|
+| % quoting a moment | 100 | 93 | 76 | 60 | 46 | 40 | 38 | 24 |
+
+Mean CAPTURE is **7.95** where a moment was quoted against **8.47** where the
+reader said none. The gradient is clean across 1,407 samples; the instrument is
+measuring something.
+
+**But the absolute rate is model temperament, not the book.** Same prose, same
+personas, same prompt:
+
+| model | quoted | n |
+|---|---|---|
+| `claude-opus-4-8` | **54%** | 301 |
+| `gpt-5.5` | 52% | 260 |
+| `claude-fable-5` | 38% | 200 |
+| `glm-5.3` | 33% | 329 |
+| `gpt-5.6-sol` | **31%** | 286 |
+
+A 23-point spread. (`claude-opus-5`, `kimi-k3`, `gemini-3.8-flash` are n≤23 —
+too small to rank; recheck once they have volume.)
+
+### What changes
+
+- **Never compare raw ALMOST-STOPPED counts across models.** This is the same
+  disease as the ~2.1-point CAPTURE lane offset in rule 3, and proportionally
+  worse. "Four of twelve lanes flagged it" is meaningless if three of the four
+  are `claude-opus-4-8`, whose base rate is 54%. **Read each model against its
+  own base rate above**, never against the others.
+- **Rule 3 is confirmed and now quantified.** Silence from `gpt-5.6-sol` (31%)
+  is evidence; silence from `claude-opus-4-8` (54%) is barely evidence. A sol
+  flag is worth roughly 1.7 opus flags on frequency alone, before the
+  2.1-point score offset is applied.
+- **Rule 4 is NARROWED.** As written — *"an ALMOST-STOPPED attached to a high
+  score is the single most valuable datum the instrument produces"* — it
+  over-claims. **38% of CAPTURE-9 gates carry one, against a 41% corpus base
+  rate**, so a flag at 9 is statistically unremarkable. Only at **10** (24%)
+  does a lone flag start to carry weight on its own.
+
+  **The surviving form: a high-score ALMOST-STOPPED is a finding when it is
+  CONVERGENT ACROSS MODELS, not when it is singular.** Rule 4's own worked
+  example already satisfies this — five readers quoting the same {{Grace}} line
+  at 9 was always convergence, never a lone 9. The rule was stated broader than
+  the evidence it was drawn from. Do not act on one reader's flag at 9 because
+  the score is high; look for a second vendor first.
+
+Worked case, same day: `claude-opus-5` flagging {{The Bench}}'s appraisal 4/4 was
+*suggestive* — four personas share a prompt, and opus-5 had n=4 with no
+established base rate. It became a **finding** only when `claude-opus-4-8` and
+`glm-5.3` landed independently nearby. Four personas on one model is one
+vendor's opinion, however unanimous.

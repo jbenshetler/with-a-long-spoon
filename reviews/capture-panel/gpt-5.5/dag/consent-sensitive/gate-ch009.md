@@ -1,17 +1,22 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~b011ff26b790 · 2026-09-08*
+*capture-dag-v2-rich · gate ch009 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha b011ff26b790 · 2026-09-14*
 
-REACTION — Oh, this one made me breathe easier and also, quietly, put my hackles up.
+REACTION —
 
-Because Vee is so *happy* here. Not dazed-happy after sex, not dazzled by Randi’s sparkle exactly, but that very specific new-crush thing where the whole room is too small for your body and you have to spin or you’ll come apart. I believed her completely. The way she needs Cassie to understand that she chose the kiss herself — “Nobody did anything to me” — that landed hard for me, because yes, that is the thing she’s protecting. Her own agency. Her own little flame of *I did this*. And I loved Cassie asking the unromantic questions without making Vee feel stupid. How much did he give you to drink? What’s his name? Where are you going? Borrow good shoes. That is a friend. That is a girl with one hand on the emergency brake while still letting Vee be thrilled.
+Oh, this one made me breathe out.
 
-But also: the jacket is sitting beside me like a warning label, and every sweet detail has teeth because I know Pace and Randi already aimed this at her. So when Vee says “Nobody did anything to me,” I’m like, baby, that is emotionally true and structurally false. He did let the kiss go. He did not push. In the moment, he honored the no. I need to say that clearly, because the scene itself knows how important that is. But the larger situation is engineered. Randi found her, Pace entered the coffee shop, and now Vee is giving Cassie “off six-fourteen” like it’s an address when it is very much not an address.
+After all that heat and choreography and hidden machinery, I loved getting Vee in her room with Cassie, just fizzing. This chapter is tiny, but it matters because Vee is not narrating herself as conquered or dazzled into something she didn't choose. She's practically vibrating with the fact that she *stopped him*. That distinction landed hard for me. She wants Cassie to understand: nobody did anything to me. I did it on purpose. And honestly, I needed to hear her say that as much as Cassie did.
 
-I am relieved the chapter lets Cassie notice that. It matters hugely to me that the book is not naive here. Cassie is not being framed as uptight or jealous; she’s being practical in a way Vee can’t be right now. The danger isn’t a horror-movie mountain. The danger is that Vee is glowing too hard to count what she doesn’t know.
+Cassie remains my anchor. Bless her blunt little vigilance. "How much did he give you to drink?" is exactly the question someone should ask, and the book lets it be loving rather than mood-killing. That is the kind of consent-awareness I trust: not a lecture, not a neon sign, just the best friend doing the quick perimeter check before she celebrates. And once Vee answers, Cassie believes her. That felt so good.
 
-Still, I was charmed. I hate that I was charmed, which is probably exactly the point. Vee’s joy is real. Her choice in that kiss was real. And the trap around the realness is also real. That’s the thing that keeps me reading instead of backing away.
+The "off six-fourteen" bit made me laugh and tense up at the same time. Vee is high on being chosen, and her idea of having practical information is... not robust. "See. I know where he lives and everything" when she absolutely does not know where he lives made my little internal alarm sit upright. But the chapter knows that. Cassie knows that. The humor is covering a real concern, and that makes me trust the book more, not less.
 
-GATE 9 — Off Six-Fourteen  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: “See. I know where he lives and everything.”  
-WHY: Because that line made my stomach drop, but Cassie caught it too, so I trust the book knows it’s alarming. Vee’s happiness pulled me hard, and Cassie’s dry vigilance is doing exactly the work I need someone in the text to be doing.
+What pulled me most was how happy Vee is in her own agency. The kiss is important because he didn't press, didn't hover, didn't make the refusal into a negotiation. He honored the no so thoroughly that she had room to discover the yes. That is dangerous catnip for me as a reader, because yes, I see the larger trap from the jacket, I see Randi and Pace's plan circling her, but inside this scene the emotional fact is clean: Vee experienced herself choosing, and it lit her up.
+
+I am still wary. Very. The hike is a classic intimacy escalator: isolated, physical, dependent on his preparation, his terrain, his knowledge. And Vee is already converting unknowns into romance. But this chapter keeps Cassie's dry little flashlight on the path, and for now, that is enough for me to keep walking.
+
+GATE 9 — Off Six-Fourteen
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: "See. I know where he lives and everything."
+WHY: Vee's joy got me, especially because the chapter frames her kiss as her own choice after a real retreat from him. I'm worried about the hike and how little she actually knows, but Cassie's presence tells me the book sees the danger signs too, so I want the next chapter now.

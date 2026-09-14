@@ -1,21 +1,18 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~578546d8a374 · 2026-09-08*
+*capture-dag-v2-rich · gate ch012 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 578546d8a374 · 2026-09-14*
 
-REACTION — 
+REACTION — Oh. I loved this one in that quiet, grinning-into-my-hand way. Not because anything new “happened,” exactly, but because Vee got to bring the mountain back into the room and have Cassie receive it properly. I needed that. After the truck scene, I needed someone outside the spell to see her and not shame her, and Cassie did exactly what I wanted: jokes first so Vee can breathe, then soft attention when it matters.
 
-Oh, this one got me in the after. Not the mountain, not the truck, but the telling. Vee coming home wearing his shirt like evidence and Cassie clocking it in one second, and then just letting her talk herself through what happened. I love Cassie for that. She jokes first because that’s their language, but she is listening so hard underneath it. “No windowless van” made me laugh, but also yes, thank you, somebody in this book is still checking the exits.
+And God, Vee telling it. The way she says the sandwich like it was a kiss. The way she is proud of the hike, not just of being wanted by Pace. That matters to me more than I expected. She isn’t only glowing because a man looked at her. She got herself up that mountain. She learned something. She carried out the cherry pits. She has a blister and a flannel and a story that belongs to her.
 
-And Vee. God. She is so alive here. Not polished, not trying to be impressive, not performing the right kind of girl. Sore, damp-haired, swallowed by a man’s flannel, telling her roommate about rye bread and moleskin and forearms like all of those things belong in the same sacred category because for her they do. I felt such a little ache when she said, “I got up a mountain.” Because that’s the real seduction, isn’t it? Not just that Pace wants her body. It’s that he keeps putting her in situations where she finds out her body can do more, want more, bear more, enjoy more.
+The truck scene being retold to Cassie somehow made it hotter, because Vee owns it in the telling. “On purpose. Me.” That’s the whole thing I’m here for. She isn’t coyly dragged into desire. She knows she called him back. She knows she wanted him to see. And Cassie doesn’t punish her for that. She just understands that something big happened and says her name like she’s holding the door open for Vee to be a person.
 
-The consent thing is still the live wire under the carpet, but in this chapter, the immediate thing between Pace and Vee keeps being exactly what I want from this kind of man. He gives her privacy. She calls him back. She chooses to be seen. He receives it like a gift and doesn’t grab. And then she notices he’s cold. That matters so much to me. She isn’t just acted upon. She comes back into care too. She sees him shaking and the erotic fog clears enough for tenderness. That made the whole truck scene hotter retroactively, not less.
+I’m also relieved, honestly. Cassie’s suspicion hasn’t vanished, but she isn’t flattening Pace into danger just to be sensible. She clocks the same thing I do: this man gave her privacy, then accepted the invitation when she made it unmistakable, then still didn’t take more than she gave. That is exactly the kind of heat I’m always looking for. The restraint is not cold. It’s burning.
 
-I’m also very aware that Vee is narrating this to Cassie as romance, and Cassie is half won over. That scares me a little. Cassie was my hard stop, my practical witness, and now even she is softened by the care of it. I don’t blame her. I’m softened too. But that means when the secret plan breaks open, there may not be an untouched place for Vee to stand.
+Still, the jacket is sitting there like a knife under the pillow. Cassie hears the story and approves the shape of him, but Cassie doesn’t know about Randi and Pace pointing at Vee first. Neither does Vee. So this chapter gave me warmth, and I took it, gladly, but it also made the secret worse because Vee is becoming more real inside the thing they set in motion. Every honest yes makes the hidden beginning matter more, not less.
 
-The “Rye” title feels perfect because the sandwich has somehow become intimacy. Food again, hunger again, being handed the right thing when she didn’t know she needed it. I’m embarrassingly susceptible to that. A man who packs lunch carefully and knows where the lettuce goes? Yes. Unfortunately yes.
-
-And the shirt. I knew she’d keep it. Of course she kept it. I’m glad Cassie told her to.
-
-GATE 12 — Rye  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: This was quieter, but it deepened the thing I’m reading for: Vee owning her desire out loud, and Cassie witnessing it without shaming her. The secret still worries me badly, but the warmth is real enough that I’m absolutely staying.
+GATE 12 — Rye
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: This gave me exactly the aftercare I wanted after the truck: Vee not alone with the enormity of it, Cassie not mocking or moralizing, and the desire still clearly Vee’s. I’m very in, but I’m also tightening up because the more beautiful Pace’s consent is moment by moment, the more I need the original secret reckoned with.

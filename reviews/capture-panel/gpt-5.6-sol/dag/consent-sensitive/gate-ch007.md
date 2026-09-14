@@ -1,15 +1,16 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~b0e38f522c99 · 2026-09-07*
+*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha b0e38f522c99 · 2026-09-14*
 
-REACTION — Oh, Cassie. I was already afraid the book was going to leave her behind as the dour friend who instinctively distrusts the glamorous new arrival, and instead it gives me this: she knows exactly when Vee needs defending, exactly when she needs watching, and exactly when she needs to be splashed in the face rather than questioned. “Asking was for people who wanted the sad version to get bigger” got me. Cassie’s care has no performance in it. She doesn’t make Vee’s vulnerability into an opportunity to become important to her.
+REACTION — Oh, Cassie. Thank God for Cassie.
 
-And that makes Randi’s entrance into Vee’s life feel much more dangerous, because Vee already has someone who sees her—just without the intoxicating social elevation. Cassie keeps the joke private; Randi puts Vee in the window. Cassie lets her go underwater and waits; Pace and Randi are quietly arranging where she’ll surface. That contrast is doing a lot to me.
+This made me unexpectedly emotional because she gives Vee exactly what everyone else keeps claiming to give her: attention without an agenda. She sees Vee come up with her face wrong, doesn’t demand an explanation, doesn’t turn the sadness into intimacy Vee now owes her, doesn’t decide what Vee needs. She just fires a stupid little sheet of water at her and leaves Vee completely free to answer. That is care. That is knowing someone.
 
-The pool passage hurt. “She had loved this before she had a body to be a problem” is such a clean wound. The catcalling is gross, obviously, but the deeper grief is that Vee can remember inhabiting her body before it became public property and social evidence. Underwater she briefly gets it back. I loved that the chapter let her have that sanctuary without turning it sexy or making anyone’s gaze redeem the experience. After so much of the book being about how intensely Pace watches women, this felt like desperately needed air.
+And the pool hurt me. “She had loved this before she had a body to be a problem” is the whole wound, isn’t it? Vee can’t walk across a room without being made conscious of what everyone sees and wants, but underwater she belongs to herself. The fact that she grieves there, where nobody is watching, feels terribly private and true. Then the ugly shriek-laugh with Cassie—yes. I needed proof that Vee has a self that isn’t waiting to be selected, interpreted, or opened by someone else.
 
-I’m also now very attached to Vee and Cassie together, which feels ominous as hell. Cassie’s “Goodbye, Vee” from the last chapter is still ringing, and this chapter makes it sound less like jealousy and more like recognition: Cassie may not know the plan, but she knows her friend is being pulled toward a world where ordinary, undemanding friendship may start to look dull. I want Vee to keep this person. I’m scared the seduction will cost her the one relationship in which she doesn’t have to be impressive, beautiful, grateful, or transformed.
+This quiet little chapter has sharpened my unease enormously. Pace and Randi are exquisitely attentive, but their attention is purposeful; Cassie’s isn’t. They keep treating Vee’s involuntary reactions as privileged truth, while Cassie notices a reaction and does not presume ownership of its meaning. That distinction is now glowing in neon for me. I am very afraid the plan will pull Vee away from the one person who actually knows how to let her remain hers.
 
-GATE 7 — Water Wings  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: This gave Vee a self outside the seduction and a friendship I believe in, which makes me care much more about what the plan may take from her. The book very clearly knows the difference between being lovingly seen and being expertly managed, and I’m fully in—but braced.
+GATE 7 — Water Wings
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: This was tender in the one way I trust completely: Cassie saw vulnerability and didn’t use it to get closer. I’m continuing because the book very clearly knows the difference between care and access, and now I need to see what happens when Vee can no longer avoid that difference.

@@ -1,17 +1,28 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~2888278eb31d · 2026-09-07*
+*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 2888278eb31d · 2026-09-14*
 
-REACTION — Oh, this got me. The whole truck scene got me so completely because he gives her privacy without making a production of being noble, and then she calls him back. She decides. She puts his eyes where she wants them and opens her shirt while he sits absolutely still, wanting her without turning that want into entitlement. That is exactly the thing I’m always looking for: his control doesn’t disappear when he refuses to take; the refusal to presume is part of the control. And her desire is so unmistakably hers. Even the ugly voice in her head becomes fuel she uses rather than a command she obeys. I could feel the cold, the wet bra, her thighs pressing together, the terror and thrill of deliberately letting herself be seen.
+REACTION
 
-And then his hand is shaking. God. She reaches for it intending to begin the next thing, discovers what giving her his dry shirt has cost him, and changes course—not because the desire vanishes, but because she sees him too. Bringing his hand under the flannel against her warm belly nearly undid me more than anything explicitly sexual could have. For once the tenderness is moving both ways. He isn’t just the all-seeing man tending the hungry woman; she notices his body, interrupts her own momentum, and takes care of him. That made them feel like two particular people rather than a dominance fantasy arranged around her.
+Oh, this got me. The boot undressing should have been mortifying, and instead he simply fixed what hurt—no teasing, no making her embarrassment part of his pleasure, not even letting her feel foolish for wearing the wrong shoes. “He walked at the speed of her not knowing how” is exactly why I’m falling for him. His competence never seems designed to prove that she is incompetent. He makes room for her to learn without being diminished.
 
-The entire hike kept touching the exact sore place in me. He fixes her heel without eroticizing her embarrassment. He teaches her the rule about the cherry pit without making her feel ignorant. He hears her want the russet dress and doesn’t grab that want up, promise to buy it, or turn generosity into ownership. “That sounds like a beautiful dress” is such a small answer, but it leaves the wanting with her. He keeps giving her room to have an appetite without immediately making himself the answer to every appetite. I am wildly attracted to him for that.
+And the cherry pit. God. That tiny correction could so easily have become one more voice telling Vee she is common and badly taught. Instead he quietly put his own pit beside hers and let her join him there. *She had it and he hadn’t made her small to give it to her.* That may be the most erotic thing about him, honestly. Even before the truck. Especially before the truck.
 
-But the secret plan is still sitting underneath all of this, and honestly this chapter makes it more frightening. Pace is behaving almost perfectly inside every moment Vee knows she is choosing. He waits. He watches. He leaves openings. She crosses them. Yet he knows the larger situation she is choosing inside and she does not. The better he is at honoring each immediate yes, the easier it becomes to forget that he and Randi withheld the question that contains all the others. I don’t want the book—or me—to be seduced into treating microscopic consent as a substitute for informed trust. And I absolutely am being seduced.
+I noticed the dress, too. He heard the wanting and didn’t seize it. He didn’t promise to buy it, turn it into a debt, or tell her what she ought to wear. He just said it sounded beautiful and left the desire belonging to her. Given the larger secret plan around Vee, I am watching every moment when Pace could reach into her life and arrange it. Here, he didn’t. That mattered.
 
-Also: the campus cop stealing whatever she was about to say made me furious. That interrupted goodbye left the charge trapped in the cab and then sent her inside wearing his shirt, smelling him on herself, with no release at all. I would text a friend at one in the morning: HE STOOD IN THE RAIN SO SHE COULD CHOOSE WHETHER HE SAW HER, AND THEN SHE MADE HIM COME BACK.
+Then the truck absolutely destroyed me.
 
-GATE 11 — Leave No Trace  
-DECISION: CONTINUE  
-CAPTURE: 10  
-ALMOST-STOPPED: none  
-WHY: This is the tenderness and dominance I came for: he makes room, she fills it because she wants to, and then she sees and cares for him in return. I’m completely in—but the more real this becomes, the less forgivable their hidden arrangement will be when it surfaces.
+He gives her the only dry shirt and gets back into the rain so she can change privately. He does not assume that because her clothes are wet, or because they have kissed, or because he wants her, he is entitled to look. And she calls him back. She asks him in without having to form a perfect sentence, holds his eyes where she wants them, and deliberately gives him the sight of her. Her shame-voice is still there, but this time it doesn’t stop her; it becomes heat she owns and uses. She isn’t being exposed. She is exposing herself, choosing what he sees and how he sees it. That difference is everything I read for.
+
+And Pace just stays still. Want and gladness, but no hand reaching before she asks for one. I could feel his control as something he was exercising over himself for her sake, not over her. That is the exact combination—dominance, attention, restraint, tenderness—that I have spent years trying to find.
+
+Then she reaches for his hand to begin the next thing and discovers it shaking. I nearly made a noise. She stops because she sees *him*. She puts his freezing hand against her warmth, and suddenly this isn’t only about a man perfectly attending to a woman’s awakening. She can care for him too. He isn’t an inexhaustible apparatus built to give her experiences; he stood in cold rain for her privacy, and she notices the cost and brings him back into his own body. That warmth went straight through me.
+
+The interruption at the dorm frustrated me in the best way. That unfinished “Pace—” is sitting there alive, and so is everything that didn’t happen after she reached for his hand. I desperately want them alone again. I also have a small ache about Cassie: Vee is walking into the dorm transformed, wearing Pace’s shirt, and I want to know who sees her and whether she can say what this meant without reducing it to getting half-naked in a truck.
+
+The hidden plan still troubles me. None of this tenderness erases it. But this chapter made Pace’s care feel so particular and so real that the eventual truth is going to hurt much worse. I am not merely waiting to see whether Vee will forgive him anymore. I’m afraid of what it will do to her to discover that the man who so carefully leaves each immediate choice in her hands once helped choose *her* without asking.
+
+GATE 11 — Leave No Trace
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+ALMOST-STOPPED: none
+WHY: This was almost precisely the heat I want: he protects her choice so completely that she becomes bold enough to summon his gaze herself, and then she sees and cares for him in return. The siren stole the words and the next touch, and I am already following those taillights.

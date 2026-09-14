@@ -1,21 +1,20 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~b0e38f522c99 · 2026-09-08*
+*capture-dag-v2-rich · gate ch007 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b0e38f522c99 · 2026-09-14*
 
-REACTION — 
+REACTION — Oh, this one got me in a completely different place.
 
-Oh, this chapter went quiet in a way I really liked.
+After all the charge and manipulation and heat of the last few chapters, I felt myself unclench here. Not because the chapter is less alive, but because it’s Vee somewhere that belongs to her before Randi, before Pace, before being chosen, before anyone’s gaze gets to define her. The pool felt like this little pocket of original selfhood, and I honestly needed that for her.
 
-After all the charged machinery of Pace and Randi and the setup around Vee, this felt like being let into Vee before anyone else gets to her. And I needed that. I needed to know she isn’t just “the mark” or the hungry pretty girl Randi found. The pool did so much work on me because it’s the first place Vee feels like she belongs to herself. Not to male attention, not to Randi’s glow, not to her mother’s horrible internal voice, not even to the body everyone keeps seeing before they see her. Underwater, she gets to be unobserved. That hit me.
+The suit stuff hurt in the familiar way. That awful teenage math of “it fits, so it’s the problem,” the body as something that betrays you by existing too visibly. And then the bleacher comments — disgusting, ordinary, almost boring in how precisely they land. What I liked is that the book doesn’t make Vee either shattered or empowered by it. She knows the routine. Chin up, walk like you meant to arrive, absorb it, keep moving. That is so real it made my teeth ache a little.
 
-The bleacher comments made my whole body tense because, yes, exactly: she has this body that gets appraised before she’s even done walking into a room, and she’s learned to turn it into a performance because what else do you do? But Cassie. God, Cassie is such a relief. “They will never know the love of a woman” is funny, but it’s also protective in the perfect Cassie way: dry, low, not making Vee’s humiliation into A Moment. Cassie keeps refusing the book’s glamour economy, and I love her for it.
+But Cassie. Cassie! I am getting fiercely attached to her, which makes me nervous because the jacket has told me what kind of machine this book is, and Cassie feels like the person standing just outside the machine, watching the gears. “They will never know the love of a woman” was perfect: dry, loyal, just obscene enough to puncture the moment without making Vee perform gratitude for being rescued. Cassie keeps saving her by refusing to dramatize her. That is a very specific kind of love.
 
-And the underwater passage genuinely got me. “She had loved this before she had a body to be a problem” is the kind of line that makes me stop and stare at the page. That is so exactly the ache here. Before sex, before wanting, before being wanted, before being judged, there was just a girl in water, competent and free and hidden. Then she comes back up and has to re-enter being visible. Oof.
+And then underwater. That was beautiful without getting precious. I believed it. The silence, the body not being looked at, the grief that comes from remembering there was once a version of yourself that just lived in her body before the world got its hands on her. That hit harder than a more explicit trauma paragraph would have. “The water was the one part of it that had never been taken” is exactly the kind of line that makes me sit up because, yes, there’s the wound, there’s the whole thing.
 
-No heat in the explicit sense this time, but I didn’t feel cheated because the sensuality is still here: chlorine, cold water, tile, the green light, her body remembering how to move. It’s not coy; it’s just not sexual in this chapter. And honestly, after the last few chapters, I appreciate the book proving it can make intimacy out of friendship and embodiment too. Cassie splashing her instead of asking what’s wrong is maybe the most emotionally intelligent thing anyone has done so far.
+No heat in the sexual sense here, but not dead air either. This is a bridge chapter, definitely, and a short one, but it doesn’t feel like filler to me. It puts Vee back in her own body in a non-erotic way right before the seduction plot presumably tightens around her. That matters. Also, the ending with the splashing made me stupidly fond of them. The ugly shriek-laugh. The body waiting on the deck. I wanted to protect that moment with my life.
 
-I’m also a little nervous because Cassie sees too much, and Vee doesn’t seem to understand yet how precious that is. Randi is intoxicating, Pace is dangerous and attentive, but Cassie is the person who knows how to bring Vee back without taking anything from her. That makes me scared for Cassie, honestly. Books like this do not always reward the person standing in the shallow end waiting.
-
-GATE 7 — Water Wings  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: This pulled me because it gave Vee an interior life separate from the seduction plot, and because Cassie’s quiet care landed hard. I missed the erotic charge a little, but the chapter fed the emotional depth enough that I’m more invested, not less.
+GATE 7 — Water Wings
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: Quiet chapter, but it gave me Vee in a way I needed: not just as Randi’s dazzled target or Pace’s future appetite, but as a girl with an actual private refuge and one real friend. I’m very ready to keep going, partly because this tenderness makes me more afraid of what the larger seduction is going to do to her.

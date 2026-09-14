@@ -1,13 +1,16 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~b011ff26b790 · 2026-09-07*
+*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b011ff26b790 · 2026-09-14*
 
-REACTION — Oh, this is exactly the feeling I wanted the book to give Vee: not merely that Pace respected her no, but that his respecting it made room for her own yes to become unmistakably hers. “He was already walking away and I pulled him back and I did it. Me.” That got me. She isn’t thrilled because a man overpowered her resistance; she’s thrilled because he believed her boundary immediately, and then she discovered she wanted to cross it herself. Her insistence that nobody talked her into anything feels almost like the book answering me personally.
+REACTION — Oh, this made me ridiculously happy. Not even because they kissed, exactly, but because she knows the kiss was hers. “He was already walking away and I pulled him back and I did it. Me.” That is the whole thing I keep looking for: he accepted her no so completely that she finally had room to discover the yes underneath it—and now she’s incandescent because nobody extracted it from her. Her little spin nearly into the closet door got me. That isn’t a woman being swept along; that is a woman delighted by her own wanting.
 
-And I love Cassie here. Her joke about alcohol is funny, but the question underneath it is serious: were you fully yourself, and was this truly your choice? Once Vee answers, Cassie believes her and simply says, “Look at you.” No interrogation, no taking the joy away from her. That is friendship with actual care in it.
+And Cassie is such a good friend here. She checks whether Vee had been drinking, believes the answer, teases her, asks where this near-stranger lives, and tells her to borrow good shoes. It feels protective without turning sour or treating Vee like she can’t make choices. I love their warmth together.
 
-Vee spinning around that tiny room made me ridiculously happy. She’s so unused to wanting something openly that choosing one kiss has made her feel enormous. Of course the jacket means I can’t enjoy any of this innocently—I know Randi engineered the meeting, and “off six-fourteen” suddenly sounds ominous when Cassie repeats it. Vee thinks knowing where he lives means she knows him, while I know she has no idea how much has already been decided around her. I’m still deeply uneasy about the hidden plan, but this chapter made the consent itself feel real rather than technically defensible. That distinction matters enormously to me.
+But I absolutely noticed “off six-fourteen.” Cassie repeating it made the address feel marked, especially after that strange “Goodbye, Vee” earlier. The happiness is real, but the book has put a tiny cold finger against the back of my neck. I know Pace is not a chance encounter, and Vee is glowing over how deliberately she chose him while having no idea how deliberately she was placed in his path. That contradiction is starting to hurt in exactly the way the jacket promised.
 
-GATE 9 — Off Six-Fourteen  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: Vee’s joy in being the person who stopped him and chose the kiss is precisely my catnip. I’m worried about what she doesn’t know, but Pace making her no completely safe—and thereby letting her yes belong wholly to her—has me firmly in.
+Also: yes, take me hiking. I desperately want to see Vee enter his world and discover the house, the furniture, and the man outside the carefully arranged first dates. I want them alone together again—not secondhand through a bedroom debrief, lovely as this was.
+
+GATE 9 — Off Six-Fourteen
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: Vee’s joy in having made the first move entirely by choice is exactly the emotional payoff I wanted. Cassie’s quiet attention to the vague address adds just enough unease that I need to follow Vee out there and see what she is actually walking into.

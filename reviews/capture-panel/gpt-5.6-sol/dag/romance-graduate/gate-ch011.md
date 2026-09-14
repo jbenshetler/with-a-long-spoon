@@ -1,25 +1,16 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~2888278eb31d · 2026-09-07*
+*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 2888278eb31d · 2026-09-14*
 
-REACTION — Oh, she called him back in.
+REACTION — Oh, this got me. The foot care, the sandwich, the cherry pit—Pace keeps finding these tiny places where Vee expects ignorance to be punished and simply teaches her without making her ashamed. “She had it and he hadn’t made her small to give it to her” is basically the entire seduction in one sentence. That is exactly why I’m gone for him, and exactly why the secret plan remains so dangerous. He knows how to make being guided feel like becoming more fully yourself.
 
-That got me. Not because she took off a wet shirt in front of a man—God knows I’ve read that scene—but because he had already removed himself from the cab without asking her to perform modesty, gratitude, or trust. He gave her privacy so completely that wanting to be seen became something she could discover as her own want. Then she had to summon him. The crooked finger through the rain-streaked glass? Yes. Absolutely yes.
+And the truck. Jesus. Him silently handing her his only dry shirt and going back into the rain so she could change privately was already painfully sexy. Then Vee calling him back because she wants to be seen—not caught, not persuaded, not technically permitted, but deliberately seen—and holding his gaze while she unbuttons that wet shirt? Yes. That is the heat I’ve been waiting for, because it could only belong to her. Even her mother’s voice becomes fuel instead of a brake. She isn’t merely defying the shame; she is discovering that the forbidden version of herself is the one she wants to give him.
 
-And the mother’s voice becoming part of the heat rather than merely an obstacle to it is exactly the psychological specificity I’ve been waiting for. Vee doesn’t magically shed her shame because the right man tells her she’s beautiful. She takes the ugly word—*floozy*—into the moment with her and feels herself want what it condemns. That is much hotter, and much more honest, than the usual romance version where one worshipful look cures twenty years of bodily surveillance.
+His reaction nearly finished me: the tiny shift in his face, the stillness, the gladness, his refusal to grab at what she offered. And then she reaches for his hand expecting to make the moment hotter and discovers he is shaking. Bringing his cold hand under the flannel against her belly is somehow more intimate than if she had taken it to her mouth. She sees him back. For one beat, he isn’t the composed man arranging the conditions of her awakening; he is a freezing, overwhelmed person she can care for. I badly needed that reversal.
 
-Pace staying still was almost unbearable. His attention has been erotic from the beginning, but this is the first time Vee deliberately directs it: eyes here, now follow, now look at my body, now come back to my face. She isn’t just “allowing” him to see her. She is staging the seeing. And his gladness, not triumph, is precisely why I remain gone for him despite the enormous concealed problem underneath all this.
+The cop’s lights made me genuinely furious—not because it felt like manufactured romantic miscommunication, but because Vee had finally found the edge of words for what happened and the world physically barked over her. Now she is inside wearing his shirt, carrying an unfinished sentence, while he may be getting pulled over soaking wet because he gave her his dry clothes. I am absolutely not stopping here.
 
-Then she finds his hand shaking, and the scene refuses to turn him into the invulnerable erotic expert while she remains the trembling initiate. He is cold because he gave her his dry shirt and stood in the rain; he is also so affected that he has lost track of his own body. And Vee stops the escalation—not from panic or shame, but because she notices him. She brings his hand under the flannel to warm it against her belly. That may be more intimate than if she’d kissed him. For once, her hunger doesn’t erase her capacity to see someone else.
-
-The whole chapter fed the same nerve before it ever reached the truck: the boot removed without fetishizing her embarrassment, the lesson about the cherry pit delivered without making her feel common, the russet dress heard without immediately being bought for her. He keeps leaving her dignity intact. I am intensely aware that he and Randi have engineered the larger situation, but Pace’s care inside each moment feels real enough that I’m no longer hoping to catch him faking it. I’m afraid of what real tenderness becomes when it’s built inside a secret design.
-
-Also, that induction dress is absolutely coming back. If he buys it, I may melt and become furious simultaneously.
-
-And of course the cop arrives exactly when she is trying to say the thing. Normally an interruption there would annoy me as manufactured delay, but this one works because her body responds to authority before thought: siren, go. She leaves wearing his shirt with her own wet one crushed in her hand, carrying all that unfinished wanting back into the dorm. If Cassie sees her like that, there is no possible casual explanation, and I desperately want the conversation.
-
-Text to a friend at 1 a.m.: *He stood outside in freezing rain to let her change privately, so she tapped on the window and made him come watch. I am unwell.*
-
-GATE 11 — Leave No Trace  
-DECISION: CONTINUE  
-CAPTURE: 10  
-ALMOST-STOPPED: none  
-WHY: This gave me explicit charge without rushing past interiority: Vee actively chose the gaze, Pace received the invitation without seizing it, and her shame remained alive inside her desire. I need the next chapter immediately.
+GATE 11 — Leave No Trace
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+ALMOST-STOPPED: none
+WHY: This delivered explicit charge without turning into generic sex-scene choreography; Vee choosing his gaze was hotter than plenty of full encounters I’ve read. The interrupted goodbye, the flannel, and that unfinished “Pace—” have my thumb already moving.

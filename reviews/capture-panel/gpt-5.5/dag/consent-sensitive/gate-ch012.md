@@ -1,19 +1,19 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~578546d8a374 · 2026-09-08*
+*capture-dag-v2-rich · gate ch012 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 578546d8a374 · 2026-09-14*
 
-REACTION — 
+REACTION —
+Oh, this little chapter got me. Not because anything “happened,” exactly, but because Cassie got to receive the story, and thank God. Thank God Vee still has a person she can come home to wearing the evidence and say the whole thing out loud to.
 
-Oh, I loved this one because it lets Cassie have the room with Vee afterward. Not as a scold, not as comic relief exactly, but as the one person who can sit there and hear the whole story without needing to own it. That matters so much to me right now. Cassie doing her “blood type” routine is funny, but it is also her way of saying, I know this could be dangerous, I am watching, I am here. And then when Vee gets to the truck part, Cassie stops being funny. She knows. She hears the erotic charge and the risk and the enormity of it.
+I love Cassie here. I love her “blood type” joke, and I love that she is suspicious in the practical, loving way without making Vee feel stupid or dirty. She lets Vee be triumphant. She lets her be horny. She lets her be proud that she got up the mountain on her own legs. And then when the flannel part comes, Cassie knows enough to stop performing. That soft “Vee” landed right in my chest.
 
-Vee telling the story is almost as intimate as the hike itself. She’s not just reporting what happened; she’s re-entering it. The sandwich becomes “and then we kissed,” the flannel becomes proof, the mountain becomes something she conquered with her own body. I felt her pride in that. “Me. I have never gotten anywhere on my own legs in my life and I got up a mountain.” That got me. Because yes, Pace arranged the date, packed the lunch, had the kit, knew the trail, gave her the shirt. But the climb was hers. Her legs hurt because she did it.
+And Vee. She is so lit from inside here. The chapter lets her tell it, which matters. She is not just being watched by Pace or handled by Randi; she is narrating her own wanting to the person who knows her best. I’m still alarmed by the larger structure, absolutely, but this chapter actually reassures me in a weird way because Vee’s interiority is intact. She understands pieces of what she chose. She knows she called him back in. She knows “on purpose.” That does not solve the missing-information problem, but the book is not erasing her agency to make the trap work.
 
-And I am still in the same terrible place with Pace: this chapter makes him look almost unbearably good. The flannel story, filtered through Vee, is swoony as hell. He gave privacy without making a speech about privacy. He didn’t touch. He looked because she asked him to look. That distinction is exactly the thing that keeps me reading, because the book is letting the consent be real at the moment-to-moment level. But the larger structure is still humming underneath: she is telling Cassie a story about a man who keeps being prepared for her needs before she knows them, and she doesn’t know how prepared the whole situation actually is.
+The flannel is devastating. I am weak for “he gave it and did not ask for it back,” yes, fine, guilty. But I also noticed the chapter does not have Cassie swoon on command. She doesn’t say “oh my god marry him” or fold into the fantasy. She says borrow real boots next time. That is exactly the kind of ballast I need this book to keep giving me.
 
-I also appreciated that Cassie’s advice is “Borrow real boots next time,” not “run.” That felt right. She isn’t flattening Vee’s experience into danger. She can see Vee is lit up, proud, happy, altered. But she is still the person who says the practical thing. The boots matter. The body matters. The next time matters.
+Also: “And then we ate” like other girls say “and then we kissed” is such a Vee sentence emotionally. This girl wants to be fed, seen, admitted, and not shamed for appetite. Pace is aiming directly at that, and Randi is helping, and I am still sitting here with both hands on the rail. But this chapter made me want to keep going, because the book still knows why I’m nervous.
 
-The shirt at the end wrecked me a little. “I’m keeping the shirt.” “Keep the shirt.” That is such a girlfriend blessing, and also such a tiny warning bell, because keeping the shirt means keeping the spell close to her skin.
-
-GATE 12 — Rye  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: This chapter deepened my trust because it gave Cassie real witness-status instead of pushing her out of the way. I’m still alarmed by the hidden setup, but the book absolutely knows the difference between Vee choosing inside the moment and Vee not knowing the larger game.
+GATE 12 — Rye
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: This was quiet, but it deepened my trust because Cassie stayed present as witness instead of being made into a scold or a joke. I’m still wary of Pace and the hidden setup, but Vee telling the story in her own delighted, embarrassed, hungry voice pulled me hard toward the next door.

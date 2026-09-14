@@ -1,15 +1,16 @@
-*capture-dag-v2-rich · gate ch006 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~1b9cac32f89b · 2026-09-07*
+*capture-dag-v2-rich · gate ch006 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 1b9cac32f89b · 2026-09-14*
 
-REACTION — Oh, this got me in a quieter place than the explicitly sexy chapters did. Vee saying, “It’s the rule,” and Randi answering, “The rule’s for boys you’re not sure about” is exactly the grown-up competence I’m hungry for. No fake delay, no coy little texting obstacle pretending to be tension. She wants him, he wants her, so she goes.
+REACTION — Oh, this got me. The froyo date is almost aggressively ordinary, and somehow that makes it more intimate than half the sex scenes I’ve read this year. “He looked like a man who wants you” went straight through me, because Vee’s instinct is immediately to search for the defect in being wanted. And then Pace doesn’t correct her feelings, flatter them away, or turn her confession into a grand speech. He lets it exist and gives her somewhere safe to look. *Your tart’s holding up.* God. That is exactly the kind of emotional intelligence I’ve been starving for.
 
-And then the froyo getting away from her because her mother’s voice simply doesn’t arrive? That is so intimate. He’s feeding her already without policing, praising, or even noticing aloud that she took “too much.” I felt more charge in that ridiculous leaning cup than I do in most romance novels’ first kisses.
+The food detail hurt too: she builds too much, hears none of her mother’s policing voice, and doesn’t care that it might drip. It’s such a small freedom, but after the apple slices it feels enormous. I’m fully invested in watching this woman discover that appetite does not have to be earned or disguised.
 
-Her confession hurt: “This is the nicest a person has been to me in a really long time. And it’s froyo.” He handles it perfectly. He doesn’t turn her vulnerability into a grand declaration, doesn’t joke it away, doesn’t rush in to prove what a wonderful man he is. “Your tart’s holding up” lets her keep her dignity while telling her he heard every word. Unfortunately, I’m gone for him now.
+And yes, the jacket means I’m suspicious of every apparently perfect little accident. Randi taking Vee’s phone and directing her toward him is hot and sinister in precisely the promised way. Pace’s attention feels real, which makes the hidden arrangement worse rather than better. He’s not an interchangeable brooding alpha; he’s observant, restrained, and apparently capable of tenderness without making a performance of it. That makes me want him—and makes me much more frightened of what his deception will do to her.
 
-I’m also very aware that Randi is sitting behind this entire “accidental” beginning, and that makes her encouragement feel both tender and predatory. Vee thinks she’s being brave about answering a text; Randi knows she’s advancing a plan. That unease is doing real work for me. The chapter is brief, but the emotional hook is vicious.
+Also: that was tiny. I’ve never read a romance chapter shaped like a single held breath before. But it earned its size. I’m not feeling shortchanged; I’m feeling the thumb-turn.
 
-GATE 6 — The Long Way  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: This gave me emotional intelligence, appetite, and menace in about two pages. “Your tart’s holding up” is the kind of restrained tenderness that makes the promised heat feel earned rather than merely scheduled.
+GATE 6 — The Long Way
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: This gave me adult tenderness, real interiority, and charge without needing to manufacture drama. The last line is so quietly devastating that I’m already turning the page—and I need to know how much of Pace’s gentleness belongs to Vee and how much belongs to the plan.

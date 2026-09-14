@@ -1,13 +1,14 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~b0e38f522c99 · 2026-09-07*
+*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b0e38f522c99 · 2026-09-14*
 
-REACTION — Oh, Cassie. I love her now. The tiny mercy of keeping the insult for Vee instead of performing it at the men, and then seeing Vee surface sad and refusing to interrogate her—just shooting water at her—felt like actual love. “Asking was for people who wanted the sad version to get bigger” got me right in the chest.
+REACTION — Oh, Cassie. I knew that weird little “Goodbye, Vee” mattered, and now I’m fully attached to the friend who sees the damage happening without demanding that Vee explain it for her benefit. Keeping the insult for Vee instead of yelling it at the guys, watching her come up with her face wrong, then shooting that pathetic little sheet of water at her—this is love. Actual, observant love.
 
-And Vee grieving the body she had before it became public property? That hurt. “She had loved this before she had a body to be a problem” is exactly the kind of interior truth I’ve been waiting for. She enjoys her beauty, resents it, uses it, hides inside it, and remembers being free of it; none of those things cancel the others. That is so much more alive than the standard romance heroine who simply doesn’t know she’s gorgeous.
+And Vee underwater got me. “Before she had a body to be a problem” is the nerve of her, isn’t it? She likes being looked at, she knows exactly what her body can do to a room, and she’s also so tired of never getting to simply inhabit it. That contradiction feels painfully real rather than like the book is tidying her into a body-positive lesson. The tiny grief under the water, followed by the ugly shriek-laugh, made me care about her more than another charged scene would have right now.
 
-There’s no heat here, but I didn’t miss it because the chapter gave me intimacy. Honestly, the water fight may be the healthiest relationship in this book, which makes Cassie’s earlier “Goodbye, Vee” feel even more ominous. She sees something coming. I’m now scared that Randi and Pace’s exquisitely attentive seduction is going to cost Vee the one person who already knows how to care for her without wanting access to every hidden part.
+This is the second quiet chapter in a row, and this one is almost startlingly short, but I didn’t feel stalled. I felt the book protecting a little untouched piece of Vee before Randi and Pace get further inside her life—which, given Cassie’s earlier “goodbye,” makes me nervous as hell. I’m now scared that becoming more alive with them will cost Vee the one person around whom she already knows how to be unperformed.
 
-GATE 7 — Water Wings  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: This was short, but it deepened Vee more than another seduction scene could have. I’m emotionally attached to Cassie now, and that makes the approaching manipulation feel genuinely dangerous instead of merely wicked.
+GATE 7 — Water Wings
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: No heat, but plenty of intimacy, and Cassie’s precise, undemanding care hit me hard. Two short, quiet chapters have put me on alert for movement, but that ominous sense that Vee may lose something real while gaining everything she thinks she wants has my thumb moving.

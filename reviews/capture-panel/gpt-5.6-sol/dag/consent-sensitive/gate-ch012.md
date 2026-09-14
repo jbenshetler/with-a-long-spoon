@@ -1,19 +1,16 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~578546d8a374 · 2026-09-07*
+*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 578546d8a374 · 2026-09-14*
 
-REACTION — Oh, Cassie. Thank God for Cassie.
+REACTION — Oh, Cassie. “Just her name, like setting something down where it wouldn’t break” got me. This is why I trust her. She lets Vee tell the story in Vee’s own language, lets the erotic charge be real, lets her be proud of climbing the mountain and taking off the shirt—and never grabs the experience away to reinterpret it for her. Even the safety jokes feel like love, not surveillance. And then “Borrow real boots next time.” Next time. She isn’t punishing Vee for taking the risk or making her choose between desire and friendship; she is quietly planning for Vee to come home from the next adventure too.
 
-What gets me is that Vee tells her the charged version. She doesn’t sanitize it into “I needed to change”; she says she called him back, took her shirt off on purpose, wanted his looking, and experienced his restraint as receiving a gift. That matters. She can describe her own desire without Randi standing beside her naming it for her. And Cassie doesn’t shame her, inflate it, interrogate her, or seize the confession as leverage. She simply holds still enough for Vee to hear herself.
+I’m also absurdly relieved that Vee told her the charged part. She could so easily have edited Cassie out of this new self, or given her the sanitized hiking story while saving the intimate truth for Randi. Instead she sits there with her “whole face open” and says: I called him back. I wanted him to look. I did this on purpose. That matters almost as much to me as the truck scene itself. Vee owns the choice more clearly in the telling, and Cassie witnesses it without either shaming her or turning it into a lesson.
 
-“Vee,” just her name, nearly undid me. Pace makes Vee feel seen, but Cassie sees her without turning seeing into an instrument. That distinction is becoming the emotional safety rail of this book.
+And yes, this made the truck scene hotter in retrospect. “He looked at me like I’d handed him something” is exactly what Pace’s restraint gives her: the feeling that her exposure is a gift she authors, not something he extracts. I completely understand why she is falling. That does not erase the hidden arrangement—it makes it more consequential. Randi and Pace chose the conditions under which this intensely real choice could happen, and Cassie is the one person in the room who receives Vee without steering her meaning. The contrast is almost painfully clean.
 
-I’m also embarrassingly pleased that the thing she gushes about most is the food. Of course the erotic center of the hike is rye bread, horseradish, shared water, and being hungry enough to eat without surveillance. Her “And then we ate” really does carry the charge another heroine would give a kiss. Vee’s awakening is bodily in a much larger sense than sex, and I love that.
+Also: “And then we ate,” delivered like another woman might say *and then we kissed*. Yes, girl. I see precisely where your appetites live.
 
-And yes, Pace did beautifully here. I remain wary of the hidden architecture, but I’m not going to counterfeit suspicion where the actual encounter deserves trust: he repaired the boot without humiliating her, gave her privacy at real cost to himself, understood her invitation when she changed the terms, and didn’t convert being shown her body into permission to touch it. Her choice was active, legible, and delighted. That’s hot.
-
-The last exchange made me exhale. Cassie lets Vee keep the experience, the shirt, and her dignity—then quietly insists on proper footwear next time. That is love without management. Please, please don’t let Vee abandon this friendship for the shinier people who know how to make care feel like destiny.
-
-GATE 12 — Rye  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: This was short, but it gave me exactly what I needed: Vee owning her desire in her own words and Cassie receiving it without steering her. I’m still afraid of the concealed plan, but right now I feel the book knows precisely why Cassie’s unmanipulative tenderness matters.
+GATE 12 — Rye
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: This quiet little chapter checked the instruments and found the book’s awareness fully switched on. Cassie’s tenderness made me feel safer without making the situation safe, and now I urgently want to see which version Vee tells Randi—and what Randi does with it.

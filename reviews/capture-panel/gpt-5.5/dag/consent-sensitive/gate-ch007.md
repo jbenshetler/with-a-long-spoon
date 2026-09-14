@@ -1,17 +1,18 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~b0e38f522c99 · 2026-09-08*
+*capture-dag-v2-rich · gate ch007 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha b0e38f522c99 · 2026-09-14*
 
-REACTION — Oh, thank God for Cassie.
+REACTION — Oh, this one got me in the ribs in a completely different way.
 
-This chapter felt like surfacing into air after all the careful heat and arranged attention. Not because it’s innocent exactly, but because nobody is engineering Vee here. Cassie isn’t trying to open her, reveal her, improve her, harvest her, seduce her, or make use of what she notices. She sees Vee, yes, but she doesn’t press on the bruise. She makes a joke under her breath, saves the comment for Vee instead of performing it, and then later, when Vee comes up from the water looking too naked in the face, Cassie does the most loving possible thing: she starts a splash fight.
+After all the engineered heat and social chess, this felt like the book taking Vee somewhere Pace and Randi don’t own. And thank God. I needed to see her somewhere that predates being looked at, chosen, managed, appraised, invited. The pool is hers. Not glamorous, not curated, not sexy-for-someone, just hers in this old bodily way. That line about loving it before she had “a body to be a problem” made me ache, because yes, that is exactly the wound with her: she has been trained to experience her own body as public property and private liability at the same time.
 
-I loved the pool as a place for Vee. The water being “the one part of it that had never been taken” got me. That’s the kind of sentence that makes me trust the book a little more, because it understands that before Pace and Randi ever started their game, Vee already had a body under surveillance. The bleacher boys are gross in the ordinary cheap way, but the chapter doesn’t linger on them as danger or desire; they’re just part of the world’s constant stupid claiming of her body. And Vee has a practiced face for it. Of course she does. That hurt.
+The bleacher boys were gross in the most ordinary way, which somehow made it worse. Not dramatic danger, just the ambient tax of being shaped like something people feel entitled to comment on. And Vee’s response is so practiced: the long blink, the ceiling eyeroll, the little performance of unbotheredness. I believed every inch of that. But what I loved was Cassie. Cassie keeping “Tossers” low just for Vee, not turning it into a confrontation Vee would then have to manage, felt like such a clean act of friendship. Cassie’s love is not shiny, but it is exact.
 
-Cassie is the relief valve I badly needed. She’s blunt, unglamorous, observant, and not socially hungry in the same way Vee is, which makes her feel like the only person around Vee who might actually be able to say “wait” without wanting anything from her. Her “Goodbye, Vee” from the last chapter is still ringing for me, and now this makes me more anxious, not less, because Cassie clearly loves her in a way that is not possessive and not dazzled. Which means when Vee drifts further into Randi and Pace’s orbit, I’m going to feel the loss of Cassie’s plain sanity very sharply.
+And then underwater. Honestly, I relaxed for her. No one watching, no one wanting, no one pulling the strings. The quiet wasn’t empty; it was relief. The grief surprised me, but it felt earned. She isn’t just enjoying swimming, she’s briefly touching a version of herself that existed before shame colonized everything.
 
-Also: this chapter is short and almost quiet, but it does important consent-and-power work for me. It reminds me Vee has private selfhood. Not just erotic responsiveness, not just hunger waiting for Pace to name it, not just susceptibility to Randi’s warmth. She has this underwater place that belongs to her. That matters. I’m still very wary of the central setup, but this made me feel the author knows exactly how vulnerable Vee is, and isn’t confusing vulnerability with emptiness.
+This chapter also makes me more nervous about Randi and Pace, because Cassie’s presence throws them into harsher relief. Cassie sees Vee and does not immediately try to use the seeing. She notices the face “wrong” and gives Vee a game instead of a probe. That is care. That is what makes me trust the book’s moral eyesight right now: it knows the difference between being seen and being handled.
 
-GATE 7 — Water Wings  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: Cassie kept me in hard. The chapter gave Vee a self outside the seduction plot, and it made the coming danger feel more emotionally consequential instead of merely titillating.
+GATE 7 — Water Wings
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: This was quiet, but it held me hard because it gave Vee a self outside the seduction machine, and Cassie’s friendship landed like oxygen. I want the next chapter because now I’m invested not just in the trap, but in whether Vee has enough real ground under her to feel when it starts shifting.
