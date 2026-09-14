@@ -1,25 +1,22 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~427f956545f5 · 2026-09-10*
+*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · queer-woman · prompt-sha 914114a6274c · prose-sha d1b699df4c26 · 2026-09-14*
 
-REACTION
+REACTION — Oh, Vee. Going to Randi is exactly what she would do and exactly the worst place to take this.
 
-Oh, this made me angry in several directions at once.
+The dance lesson worked on me almost obscenely well. “The pattern came through his body before it arrived in her feet” is the whole erotic proposition of Pace condensed into one sensation: structure so attentive it feels like freedom, surrender that does not feel like surrender because her own body is delighted by it. And I believed her delight. The firmness, the closeness, the moment she stops anticipating and can simply respond—yes. Very much yes.
 
-The dance lesson itself got me. Of course it did. “The pattern came through his body before it arrived in her feet” is exactly the kind of physical surrender this book knows how to make feel intelligent rather than vacant. Vee is not becoming passive; she is learning a shared language in which pressure carries meaning. And the correction that really works is closeness: the protective space she keeps between them is what makes her vulnerable to being stepped on. That is hot, and tender, and so perfectly designed for these two that I distrust it on sight.
+But then the chapter turned that pleasure until I could see its other face. Vee’s brief question about whether she loves Pace or the Pace she has assembled from wanting him is not jealousy being stupid; it is the sanest question she has asked. She is wrong about the rides, apparently, but she is not wrong that he is practiced at making women feel held, feminine, and singular. He literally taught the class. The book could hardly underline the metaphor more heavily, and I don’t think it’s accidental.
 
-Because this is the plan in miniature, isn’t it? Stop anticipating. Stop thinking. Enter the frame he provides. Let his body put you in the one place from which the next step can happen. She thinks, “He’s making me,” and then lets the question disappear into pleasure. I felt the jacket breathing down my neck through that whole scene. Pace may sincerely want her to arrive everywhere “on her own,” but he is astonishingly good at constructing the conditions under which her own arrival goes exactly where he wants. The dance is beautiful. The metaphor is a threat.
+The blonde may simply have been jealous, but in a book where two people have planned Vee’s year, I cannot receive a conveniently poisonous woman delivering exactly the sentence that detonates Vee as random background noise. I’m suspicious as hell. Was this an uncontrolled complication, or another little pressure applied where Pace and Randi knew she was tender?
 
-Her jealousy felt painfully young and real: the private arithmetic, counting women without deciding to, hearing her mother’s contempt exactly when she feels least exceptional. I believed the ugliness of what came out of her because I believed the terror underneath it. She has rebuilt so much of herself around being specifically seen by him that the possibility of being merely the latest girl doesn’t just threaten the romance; it threatens the new Vee. Of course she lashes out at the precise kindness she most loves in him. That is what frightened people do when they find the load-bearing beam.
+Vee’s cruelty to Pace hurt because she chose the precise good thing in him and made it sordid. But her overnight conclusion—that she has “done it to a good man,” full stop—is much too total. One ugly, frightened remark does not make her the sole moral debtor in a relationship whose founding secret he is still keeping from her. I felt her mother’s machinery seize control: jealousy becomes proof she is a slut, anger becomes proof she is unworthy, and by dawn her only permitted role is penitent. That turned me off emotionally even while it felt horribly true to her.
 
-But I did not love how neatly the other women were arranged to prove her wrong. The blonde is introduced with makeup “doing a lot of work,” delivers her poisoned little speech, and vanishes; the bartender then certifies Pace’s spotless record and explains that all the women are jealous of Vee. That is dangerously close to making a roomful of women into a hostile chorus whose purpose is to confirm the specialness of the heroine and the goodness of the man. I don’t need Pace secretly sleeping with everyone, but I do need these women to remain people rather than shiny-eyed evidence.
+And Pace leaving without making sure she had a way home landed badly. She explicitly told him she would handle herself, so I don’t think he was obliged to override her. But leaving immediately, knowing he had driven her there, feels less like courtly restraint than wounded withdrawal. Maybe he waited outside; maybe we’re about to learn something that changes it. As given, she spent money she needed because the exquisitely attentive man vanished the moment her fear came out ugly.
 
-And Pace left. I understand why: Vee explicitly rejected his care and walked away, and his respect for her choices cannot only count when she chooses pleasantly. Still, he brought her there in his truck, knew she had no obvious way home, and disappeared without even making sure she had a ride. That sat badly with me. “She told him she could handle it” is an explanation, but it doesn’t fully reconcile with the man who gets intoxicated strangers safely to their doors. His hurt was real; so was her practical vulnerability. I’m not putting a halo back on him just because the bartender did.
+The most painful thing is Cassie breathing three feet away. Vee has someone who would help her without shaping the meaning of what happened, and she chooses silence because she cannot bear being seen in error. So now she is going to the woman who knows the entire hidden architecture, wants her, is jealous of her, and is very good at turning confession into the story she needs Vee to believe. I am already reaching for the next chapter with dread. If Randi kisses her while she is raw and ashamed, it may be hot, but I am going to need the book to know exactly how compromised that tenderness is.
 
-The ending made my stomach drop, because she is going to Randi to “fix” a rupture with Pace. Randi—the secret girlfriend, the original chooser, the person most compromised and least able to advise Vee honestly—is about to interpret this for her. Vee thinks she is seeking her best friend’s clear sight. In reality she is taking a problem inside the plan to one of the plan’s architects. And Randi is jealous enough of both of them that I have no idea whether she will repair the bond, exploit the opening, or somehow do both while sincerely believing she is helping.
-
-That is the 1 a.m. text: THE DANCE IS THE WHOLE BOOK. ALSO SHE’S GOING TO RANDI FOR RELATIONSHIP ADVICE AND I AM CHEWING THE WALL.
-
-GATE 26 — Lesson  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “And up close the makeup was doing a lot of work”  
-WHY: The dance pulled me in hard, then revealed exactly how erotic and dangerous Pace’s “frame” is. I’m wary of the women being reduced to jealous scenery, but Vee taking her guilt straight to Randi is such a beautifully awful collision of trust and hidden interest that there is no chance I’m leaving now.
+GATE 26 — Lesson
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+ALMOST-STOPPED: none
+WHY: The dance was intensely erotic, the rupture genuinely painful, and Vee’s decision to seek absolution from the least neutral person in her life is an irresistible disaster. I need to know whether Randi comforts her, steers her, confesses something—or does all three at once.

@@ -194,7 +194,7 @@ She stayed. She found a stretch of wall and didn't leave it, and she watched the
 
 There were girls out there she hadn't let herself notice while she was dancing — bare midriffs, shirts cut down to there, tanned in October, bodies that knew they were being looked at and moved like they liked it. Floozies. She watched them.
 
-Had he taught that one to dance? Gotten her home safe at the end of the night? How many of them knew what his pillow smelled like?
+Had he taught that one to dance? Gotten her home safe at the end of the night? How many of them knew what his pillow smelled like? How long had any of them lasted before he got bored?
 
 She knew what she was doing, and she did it anyway. She'd thought she was special. She was just next.
 
@@ -252,7 +252,7 @@ The room went wrong the way rooms do at that hour — not dark enough, not quiet
 
 And underneath the shame, the other thing kept coming back — not a thought, a sensation: his hand at her shoulder blade on the pad, the lead arriving before her feet knew what to do with it, the moment the dance took her and she stopped trying to guess.
 
-She lay there with both.
+She lay there with both. Cassie was three feet away and would have sat up for this. She did not wake her.
 
 She did not sleep.
 
