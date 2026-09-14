@@ -4785,6 +4785,13 @@ text = "She turned and went down off the step and across the cold ground, not ru
 note = "Author-approved: load-bearing 'the way it always had' (the gaze that fails to open for her), the close-third watch, and accepted single tics."
 
 [[ok]]
+fp   = "05b8f9256a00"
+rule = "the-way"
+file = "scenes/strokes.md"
+text = "It got in off the third wall, whole, in Cassie's voice, flat the way she'd said it with her book still open on her chest."
+note = "Author ruling 2026-09-13: sole remaining 'the way' in Strokes; carries Cassie's flat delivery from school-nights into the water. Cluster resolved (doxology simile cut as out of Vee's register; coin simile cut as physically wrong — no pocket in a workout suit)."
+
+[[ok]]
 fp   = "192b78795b2e"
 rule = "a-small"
 file = "scenes/substitution.md"

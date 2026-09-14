@@ -184,8 +184,8 @@ The greedy phase given its only on-page trace — weeks in and still running, wh
 
 
 
-### [VIGNETTE] Lap Vignette (working title TBD)
-*Tue Nov 10 · between {{School Nights}} and {{In His Hands}}* · Unwritten · Vee POV · working title provisional (title engine at drafting) · slug: lap-vignette-tbd · present: Vee
+### [VIGNETTE] Strokes
+*Tue Nov 10 · between {{School Nights}} and {{In His Hands}}* · **Draft complete:** `strokes.md` · Vee POV · slug: strokes · present: Vee
 Solo laps establish the pool as a standing habit and the place Vee clears her head. {{Water Wings}}' homecoming has become routine: familiar lane, set, breath, turn, repeat. Cassie's *"Do you love him?"* enters the water with her and loses its language in the count without being answered. No pickup; no conclusion. Seeds {{Coming Due}}'s Tuesday swim, where the clear lasts only as far as the closet.
 
 ### [SCENE] In His Hands
