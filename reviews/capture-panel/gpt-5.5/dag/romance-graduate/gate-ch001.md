@@ -1,23 +1,24 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~905926aff4b8 · 2026-09-08*
+*capture-dag-v2-rich · gate ch001 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 6f2b38a05b7f · 2026-09-14*
 
-REACTION — 
+REACTION —
 
-Oh. Okay. So we are not playing.
+Oh. Okay. So the book is not playing.
 
-I went into this braced for the jacket’s “planned best year of her life” setup to maybe be a little too clever, a little too knowingly wicked, and then this chapter just put me in a room and made me watch two people quietly, minutely undo each other. And it is hot, yes, obviously, extremely, almost aggravatingly hot, but the thing that got me wasn’t just the bench or the spanking or the edging. It was the apple. It was him slicing it thin because he knows what she’ll permit herself. It was the way the food and the sex and the being looked at are all the same hunger, and nobody has to announce that because the chapter trusts me to feel it.
+I went in expecting Vee because the jacket trained me for Vee, and then this is Randi, already in the house, already in the dynamic, already in the aftermath of a whole offstage beginning. That could have annoyed me, honestly. It’s such a bold “catch up, sweetheart” opening. But I wasn’t annoyed because the chapter understands exactly what it’s withholding. I felt dropped into something already dangerous and intimate, and I trusted pretty quickly that the disorientation was part of the hook.
 
-I also love that this is Randi, not Vee. That actually snapped my attention awake. The jacket had me expecting Randi as the glamorous orchestrator, the friend with the hand on the chessboard, and here she is absolutely not untouchable. She has a whole polished social self, a face she lives behind, and Pace gets under it so precisely that it feels less like seduction and more like exposure. That bathroom section hurt. In a good way, but still: hurt. The moment where “beautiful” makes her flinch? I believed that completely. Not because she thinks she’s ugly, but because he meant *her*, and that is apparently the more dangerous thing.
+The first half had me by the throat because it is so specific. The apple slices. The thinness because she’ll eat them that way. The counters she privately judges. The furniture she can read as expensive but not as made. The way Pace sees her vanity and her hunger and her manners all braided together. That is catnip to me: not just “he notices everything,” but he notices in ways that are erotic because they are psychologically exact. I am so tired of “his gaze darkened.” This is gaze with teeth.
 
-Pace is a problem for me in the exact way I want him to be a problem. He is controlled, observant, patient, almost impossibly attentive, and that could so easily become fake romance-dom perfection. But the chapter gives him enough blind spot to make him unsettling. He thinks he’s learned about doors. He thinks he’s waiting correctly. He thinks this was a remarkably good evening. And from inside Randi, I know it was also a catastrophe. That gap is delicious and scary. I don’t think he’s a villain, but I absolutely do not trust his self-understanding, which is much more interesting.
+And the heat worked for me because it wasn’t just bodies doing activities. The bench is hot, yes, obviously, but the real charge is that it was built for her before she understood what she was looking at. That made my stomach drop in the best/worst way. It’s intimate and alarming at once. I kept having this push-pull reaction where I wanted to melt into the care and precision of him, and also wanted to text someone, “Girl, this man has engineered furniture around your psyche, please stand up for one second.”
 
-The sex worked for me because it didn’t feel like a checklist of spicy acts. The acts are explicit, yes, but they’re also doing psychological work the whole time. The chapter is obsessed with consent and choice, but not in a sterile “safe sane consensual” way; it’s asking what happens when someone consents to the exact thing that bypasses her defenses before she knows what it will cost. That is catnip to me. Dangerous catnip. I kept thinking, this is why I still read erotica: because sometimes the body is not a decoration on the emotional arc, it *is* the emotional arc.
+The chapter really got me when it shifted into her bathroom interiority. Before that, I was in the heat and in Pace’s almost frighteningly controlled tenderness. Then suddenly the book turns the lights on inside Randi and says: no, the consequence is the scene. Not punishment, not drama, not a cheap “she’s overwhelmed” beat, but the terror of having the polished self fail and the real self appear. That landed. Her face as a buffer between herself and the world is so painfully believable. The blue eyes, the smile, the trained social femininity, the way she can be desired without being touched internally. And then he calls her beautiful after seeing past it, and that’s the thing she can’t survive. Oof.
 
-The only place I felt a tiny resistance was length/repetition during some of the tactile description. There were a few moments where I thought, okay, I understand she is warm and damp and pale and polished. But honestly, I did not almost leave, because the accumulation is part of the pressure. It’s slow in the way a hand staying too long is slow, not slow in the “please get to the scene” way.
+I’m suspicious of Pace in a way I think the book wants me to be. He is careful, he checks in, he waits at the closed door, he has learned from some Daphne-shaped wound. But he is also so pleased with his own reading of her that he misses the actual door going back up right in front of him. That last section is brutal because he thinks this was a beautiful breakthrough, and she is already rebuilding the mask while lying against his chest. That gap is delicious and horrible. It makes the jacket’s promise feel live: freely given, yes, but what does “freely” mean when someone sees a need in you before you can defend against it?
 
-And that ending. The bench becoming a table again. Her deciding not to look. Him not knowing. That is exactly the kind of quiet horror-romance charge I want. I am fully in danger of staying up too late with this.
+I’m very in. Also slightly mad because now I want to know where Vee is, how Randi and Pace become the two people planning someone else’s year, and whether this night is the origin wound of the whole game. This is exactly the grown-up spice I keep begging the algorithm to give me and it keeps handing me mafia men with copy-paste tattoos.
 
-GATE 1 — The Bench  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: This gave me heat with consequences, not just heat as decoration. I’m hooked by the erotic charge, but more by the gap between what Pace thinks happened and what Randi knows happened inside her.
+GATE 1 — The Bench
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: "There you are, Randi."
+WHY: That line made me pause because it’s so intimate it almost scared me off; I felt the manipulation risk flare hard there. But the bathroom section earned the danger instead of sanding it down, and now I badly want the next chapter.

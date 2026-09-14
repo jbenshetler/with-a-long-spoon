@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch001 · gemini-3.8-flash · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~905926aff4b8 · 2026-09-10*
+*capture-dag-v2-rich · gate ch001 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 6f2b38a05b7f · 2026-09-14*
 
 REACTION:
 
-Holy *shit*. 
+Holy *shit*.
 
-When he said, *"There you are, Randi,"* my jaw actually dropped. I had to stop reading, go back, and stare at the jacket copy. The blurb told me: *Vee meets Pace through Randi. Randi steers her toward him. Vee tells Randi everything.* So the entire time she walked into that house—the sorority bag, the strict diet, the dancer's body, the slow, exquisitely detailed undressing—I was reading her as *Vee*. I thought, *Okay, this is Vee waking up to this exact, patient man.* And then the reveal lands like a slap to the face: this isn't the innocent college junior being guided toward the fire. This is Randi. The architect. The cool, glamorous, untouchable friend who *plans* the seductions. 
+I started this chapter assuming I was reading Vee. Every beat of the setup—the college girl, the sorority signifiers, the careful eating, the older guy with the custom furniture and the quiet, terrifying patience—I was mapping directly onto the blurb's innocent heroine being led to slaughter. The spanking scene was magnificent; it had that slow, heavy, clinical heat where the control is so absolute it makes your chest tight. The apple slices cut thin so she'll eat them, the way he doesn't rush, the way he waits out her pretty sorority-girl scripts until she shatters into a real, ugly, unperformed sob on that bench. I was completely locked in, thinking, *God, this poor girl is getting dismantled.*
 
-And she just got completely, fundamentally broken open by the very man she's supposed to be playing games with. 
+And then he whispers: *"There you are, Randi."*
 
-The psychology here is so sharp it makes my teeth ache. That sequence in the bathroom had me clutching my Kindle. The terror of a beautiful woman who has survived her entire life by offering her face as a decoy—letting everyone look at the gloss, the blue eyes, the curated perfection so they never, ever touch the actual person—suddenly realizing that this man completely bypassed the decoy. He starved her out on that bench until she had to drop the performance and beg from her actual guts. And the fact that he was tender with her afterward? That *tenderness* was the threat, not the spanking? God, that is so painfully real. When she looked in the mirror, realized she crossed a line she couldn't uncross, and immediately began rebuilding the fortress—locking the door, putting the fake bright smile back on, deciding *he will never get the real one again*—it made my heart hurt for her. 
+My jaw literally dropped. It rewired the entire scene retroactively in a fraction of a second. The woman on the bench isn't the victim being steered into the trap—she's the *glamorous friend* who sets the trap later. The woman who, according to the jacket, is supposed to lightly, laughing steer Vee into Pace's path.
 
-And Pace! Talk about a dark, quiet kind of dominant. He isn't barking orders or ripping clothes off like a cliché alpha; he is terrifyingly patient. Slicing the apples thin because he noticed how she eats them. Waiting her out. Not letting himself come because "that's not what this night was for." He thinks he's gently guiding a tightly-wound girl toward her own freedom, completely oblivious to the fact that she is secretly pulling the strings to throw another girl into his bed. The dramatic irony is dripping off every single page.
+And seeing Randi in the bathroom after? That broke me open. The absolute psychological horror of a girl who has survived her entire life by offering up an impeccably curated "face" so no one ever touches her real self, realizing that this man just saw past it, stripped it off her, and made her *beg*—and then offered her tenderness she can't survive receiving. When she presses the bottle cap into her nail bed to feel a sharp pain she can control? When she practices the smile in the mirror and decides, like a deadbolt turning, that she will *never* let him see her again?
 
-The prose is gorgeous, deliberate, and genuinely filthy without relying on cheesy romance shorthand. The sensory work—the smell of the oiled walnut, the salt at her nape, the way she presses the bottle cap into her thumb just to feel pain she can control—is brilliant. It gives you the full, unsparing explicitness of high-end erotica, but every single strike of his hand moves the emotional plot forward. I am completely hooked. 
+Now the whole premise on the jacket makes chilling, sickening sense. If Randi is this undone by Pace, if she's terrified of his tenderness and desperate to put a shield back between them... Vee isn't just a fun little game. Vee is a buffer. Vee is a sacrifice. Randi is going to feed Vee to this man to save herself.
+
+The prose is gorgeous, the eroticism is dark and patient and genuinely filthy while being emotionally devastating, and the twist was earned completely on character psychology instead of cheap parlor tricks. I am vibrating. I need the next chapter immediately.
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 10
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The name-drop twist completely rewired the dynamic, pulling the rug out from under the jacket copy in the best way possible. The balance between devastating emotional interiority and raw, unhurried kink is exactly what I've been starving for. I'm turning the page immediately.
+WHY: The reveal that the woman on the bench was Randi and not Vee recontextualized the entire scene into an absolute psychological gut-punch. The writing is exceptional, the kink is adult and deeply hot, and the dynamic between them is already terrifyingly complex. I am totally hooked.

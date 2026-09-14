@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~905926aff4b8 · 2026-09-08*
+*capture-dag-v2-rich · gate ch001 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 6f2b38a05b7f · 2026-09-14*
 
-REACTION — 
+REACTION —
 
-Oh. I was braced for the jacket’s trap, but I was not braced for it to start here, with Randi.
+Oh. Oh, this is already much more dangerous than I expected from chapter one.
 
-This chapter absolutely knows where my line is and keeps stepping right up to it, which is both why I’m still here and why I’m uneasy. Pace is doing so many of the things I want from this kind of book: he notices, he waits, he checks in, he asks for her safeword, he doesn’t take her orgasm as something owed to him, he does aftercare like he actually understands that the scene isn’t over when the body stops shaking. The “Tell me your word” moment mattered to me. The way he doesn’t knock on the locked bathroom door mattered even more. That is the difference between dominance and entitlement, and I am starving for books that know the difference.
+I went in braced because the jacket told me there’s a secret plan, and that is exactly the kind of premise that can go sour for me fast. But this chapter didn’t feel like a man ignoring a woman’s no. It felt like a man paying such terrifying attention to a woman’s yes that he finds the part of her she has been hiding even from herself. And that is catnip to me. Not comfortable catnip. The kind where I’m sitting there with my hand over my mouth going, “This is hot and also I do not trust any of you.”
 
-And yet. The emotional danger is not fake danger. It’s not just sexy furniture and spanking and begging. It’s that he sees something in her she did not consent to have exposed, and the chapter knows that too. That bathroom scene shook me much more than the bench did. Her face, the performance of being beautiful and untouchable, the horror of tenderness getting past the mask — that felt painfully, horribly real. I believed her completely there. I believed the panic of being found.
+The apple did me in early. Thin slices because he knows she’ll eat them that way. The way he’s dominant before anything sexual happens, just by noticing the shape of her refusals and making room around them. That is the stuff I read for. I love when control is not barking orders but arranging the room so her want can come out without being scared off. The warmth, the unlocked door, the folded clothes, the water already waiting. He is so careful, and the care is erotic. Extremely.
 
-I’m also already suspicious because the jacket tells me there’s a plan, and this chapter is showing me a man who thinks he is careful but may still be more pleased with his own perception than he realizes. He’s tender, yes. He’s patient. But there’s a little current of “I know what she needs before she does” that can be either devastatingly hot or absolutely unforgivable depending on where the book takes it. When he thinks, “All he had done was find it, and answer it,” I wanted to grab his face and say: no, sweetheart, you may have also opened something you don’t understand.
+And the bench. God. I was right there with her reading it piece by piece, realizing what it was. That “Show me” had my whole attention. I loved that he checks in, asks for her word, tells her he won’t be upset. I loved that he keeps coming back to her face. The upside-down “Hi” almost wrecked me, because that is exactly the tenderness I want inside the intensity. He’s not vanishing into the scene; he’s keeping her with him.
 
-The accidental “There you are, Randi” made me blink. Because the jacket promised Vee, Pace, and Randi, and this chapter gives me Pace and Randi already intimate, already dangerous, already with a history. So now I’m reading everything as loaded. Is Randi the glamorous friend from the blurb? Is this before Vee? Is this the original sin? That makes the tenderness feel even more complicated, because if Randi knows what it is to be opened like this by him, and then later helps steer Vee toward him, I’m going to need the book to be brutally honest about that. Not coy. Not “it’s fine because everyone came.” Honest.
+But then the chapter turns the knife, because she is not okay in a simple way afterward. Not because he was cruel. Almost worse: because he was kind, and he saw her. That bathroom section made my stomach drop. Her putting the face back on, deciding he can have the face but not her, while he’s outside being patient and respectful of the locked door. I don’t feel betrayed by him in this chapter, but I feel the danger of being seen before you’re ready. And I’m worried because he thinks the night was beautiful and successful, while she is already sealing something shut.
 
-Did it pull me in? Yes. Annoyingly, yes. It’s very much built out of my weaknesses: the warm room, the apple sliced exactly how she’ll eat it, the folded clothes, the lights left on because being seen is the point, the dominance that is physically intense but emotionally attentive. I wanted that care to be real. I still want it to be real. But I can feel the knife under it now, and I’m reading with one hand on the door.
+The “There you are, Randi” startled me because I had been expecting Vee from the jacket, and now I’m trying to place where I am in the larger seduction. Is this Randi before Vee? Is this the person who later becomes the glamorous friend steering Vee? If so, I am very interested and very nervous, because this chapter makes Randi feel less like a schemer and more like someone who has been split open and decided never to be caught open again.
 
-GATE 1 — The Bench  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: "But it was not the right *please* yet. It was still her *please*."  
-WHY: That line scared me because it could become the exact thing I hate: a man deciding her own request is not enough until it sounds the way he wants. But the chapter follows it with safeword clarity, aftercare, and Randi’s own interior reckoning, so I trust the book enough for now. I’m deeply caught, but watchful.
+I would absolutely text a friend at 1 a.m.: “This is filthy but also emotionally surgical and I’m scared because the aftercare is good and she STILL retreats. Also the man BUILT FURNITURE.”
+
+GATE 1 — The Bench
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: “There you are, Randi.”
+WHY: That line was so intimate it almost felt like trespassing, and for a second I wasn’t sure whether the book knew how dangerous it was. But the chapter does know. The consent and care are on the page, the heat has feeling in it, and now I badly need to know how Randi becomes the woman from the jacket.
