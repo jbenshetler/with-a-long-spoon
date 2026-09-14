@@ -370,3 +370,65 @@ Full sweep acked, 15 hits (1 already suppressed) → 32 suppressed, **0 active,
 - **`there-was-were` ×4** — `:41`, `:127`, `:143`, `:193`. Not re-cast:
   `:143`'s "there was nothing to do but take it" is the chapter's thesis line
   and reader-protected.
+
+# Triage — Lesson (capture-panel trope pass, 2026-09-14)
+
+Capture readers (not the cold-read panel) surfaced a complaint the earlier
+passes never saw: **genre-trope recognition.** `claude-opus-4-8`'s
+romance-graduate, CAPTURE 6 — *"On its own this is the tired Big
+Misunderstanding with no heat and I'd be gone, but the dramatic irony saves
+it."* fable-5, CAPTURE 9, same recognition, forgave it — *"It took the tiredest
+trope in the genre and ran it through actual interiority."* The trope reading is
+legible; the question was only how late the frame arrives.
+
+## Fixed — two additions, no plot change
+
+1. **A fourth question in the bar spiral (`:197`)** — "How long had any of them
+   lasted before he got bored?" — carrying Randi's own word from `gone.md:15`
+   (*"I keep waiting to get bored of her — you always get bored"*), so Vee's
+   jealousy is **verbally accurate while misaddressed**: she says a true thing
+   about her situation while believing it about the wrong people. Invisible to an
+   innocent reader by design. **Unverified** — no gate referenced it.
+2. **The friend she doesn't wake (`:~259`)** — "Cassie was three feet away and
+   would have sat up for this. She did not wake her." Placed immediately before
+   "She did not sleep", so the last image before *go to Randi's* is the help she
+   declined. Extends the existing didn't-call-Cassie beat rather than repeating
+   it (glm: *"the censored-Cassie ledger gets another entry"*).
+
+**Result.** opus-4-8 cleared the trope complaint on both lanes that raised it:
+romance-graduate **6→8**, fsog-refugee **7→9**, both now `ALMOST-STOPPED: none`
+(*"real conflict grown out of real character instead of a plot contrivance"*).
+The Cassie beat was quoted back by four models as the chapter's sharpest moment —
+sol *"the most painful thing is Cassie breathing three feet away"*; gpt-5.5
+*"that's the part that scares me. Not the fight."* Other lanes drifted ~1 point,
+inside the measured re-read drift band.
+
+## Left standing — do not re-litigate
+
+- **`queer-woman`'s "pattern" complaint (held at CAPTURE 6). Author ruling: no
+  change.** Her charge: *"hand me my suspicion, dissolve it in pleasure, prove
+  the man immaculate, shame the woman for doubting."* Ruled a **hostile read
+  missing clues already on the page** — the blonde's bounce-off, the bartender's
+  "as a rule", the Cassie ledger, *go to Randi's*. Demonstrably legible to
+  others: glm *"she runs to the con's other half"*, fable *"LOOK at why not
+  Cassie"*, sol *"she chooses Randi in the morning"*, opus-4-8 *"the trap
+  tightening in real time"*. `queer-woman` is a **known marginal reader** for a
+  primarily het novel with a queer awakening (author ruling 2026-09-14, and see
+  `meta-triage-the-bench.md`) — do not spend chapter craft on her column.
+- **Do NOT recruit {{Rock}}'s Daphne disclosure as suspicion material here.**
+  Proposed in this session and **rejected by the author**: Pace is the *wronged*
+  party there — a groomed child. Using his inability to name his own harm as a
+  red flag about him imports the groomed-becomes-groomer trope, and cuts against
+  the disclosure positioning in `meta-plan-legal-read.md`. The braid is available
+  and it is wrong; do not propose it again.
+- **Vee cannot hold a correctly-aimed suspicion in this chapter, by design.** The
+  true thing — that her specialness was manufactured and she is "just next" in an
+  arrangement — is invisible to her. Every piece of evidence in her reach
+  genuinely exonerates Pace, because Pace is innocent of what she accused him of.
+  Any attempt to keep her doubt alive on the page must either impugn him falsely
+  or hand her knowledge she cannot have. The suspicion is paid later, not here.
+- **"She'd been wrong" and the exoneration litany stay as drafted.** The clean
+  capitulation is what lets Randi install the relief in {{Broken In}} (*"let go
+  of her, all at once — because Randi had said so"*), which eleven lanes across
+  four models named as that chapter's best beat. Softening it to satisfy a
+  narrative-cosigning objection would blunt the payoff.
