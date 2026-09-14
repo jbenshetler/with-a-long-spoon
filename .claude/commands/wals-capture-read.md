@@ -70,6 +70,15 @@ subscription auth; everything in `capture_dag.OPENROUTER_MODELS` (`glm-5.3`,
 but do not extend them without a specific request. Note `glm-5.3`, not
 `glm-5.3-flash`.
 
+**`claude-fable-5` is excluded by default from capture reads** (author ruling
+2026-09-14): the call is expensive, and `claude-opus-5` now covers that slot —
+it reads sharply enough to have found the `the-bench` blazon 4/4 on its first
+outing, which `claude-opus-4-8` never flagged. Do not add fable to a capture run
+unless the author names it. **This is scoped to the capture DAG only** — fable
+remains on the eight-model cold-read panel in `CLAUDE.md` and
+`reviews/cold-read/ensemble-config.toml`, which is a different instrument and a
+different roster.
+
 **Token rule (standing):** never launch an OpenRouter model without specific
 author authorization. Membership in the roster above is **not** that
 authorization — it says which models belong in a complete grid, not that any
