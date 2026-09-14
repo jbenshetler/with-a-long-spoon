@@ -38,7 +38,7 @@ He set the bowl on the kitchen table.
 
 "I sliced this for you."
 
-She looked at the apple. He watched the thing behind her face that policed her relationship to food run through whatever calculation it was running. Apples were permitted. Her mother lived on egg whites and tofu, a thing she said with a knife in it, and her sorority took only girls built to the one scale; he had seen them. Apples were on the safe side of the line both had drawn. She came over to the table.
+She looked at the apple. He watched the thing behind her face that policed her relationship to food run through whatever calculation it was running, and he was sorry about it. Apples were permitted. Her mother lived on egg whites and tofu, a thing she said with a knife in it, and her sorority took only girls built to the one scale; he had seen them. Apples were on the safe side of the line both had drawn. She came over to the table.
 
 She sat before he did, across from him at the little table. Her brows drew together, and he watched her think better of it. She stood, and circled one finger in the air for him to turn the chair. He turned his chair away from the table and sat with his thighs together, where she wanted him. Being directed by her pleased him. He kept that off his face, mostly. 
 

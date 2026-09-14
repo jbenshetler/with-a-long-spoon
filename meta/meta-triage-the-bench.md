@@ -282,3 +282,82 @@ Claude readers. Findings and the author's rulings:
     the warming is later judged insufficient (author's stated escape hatch).
   - Open doc-trail: if "the plan/bench predates the woman" is asserted as canon in
     the arch/plan docs, reconcile it there to match this cut.
+
+## Addendum — blazon pass + the ¶41 dossier ruling (2026-09-14)
+
+`claude-opus-5` was trialled as a capture reader and all four personas
+independently flagged the same thing on their first read: the undressing
+sequence reads as a catalog and outruns the reader's patience
+(*"cataloguing her like joinery… restless for her to be a person and not a
+finish"* — fsog-refugee; *"I started thumbing ahead"* — romance-graduate).
+`claude-opus-4-8` had never flagged it.
+
+**The fix was diagnostic, not cosmetic: readers were not objecting to her
+body — they were objecting to the commentary on it.** Cut the exposition,
+add contact. Out went the gloss/warmth gloss (the razor-missed hairs already
+enact it), the belly clause pricing her against her own regimen, the
+buffed-and-polished thesis, "She felt all of it", "He could see the thinking
+on her", three "flat plane"s, two filter verbs. In went her hands finding his
+hair and Pace lifting them off with two fingers — *he wanted her hands empty,
+not a distraction from what she had chosen* — and her body answering his
+mouth against the wrist she is holding herself.
+
+- **"She had buffed and polished herself" is deliberately ACTIVE** (author
+  ruling). Canon says Pace does not price her labour (`meta-craft-pace.md:58`,
+  *"the cleaner the win, the less reason to ask what it cost her"*), which
+  argues for the agentless passive; the objectification finding outranks it,
+  and his blindness survives intact at the coda and the mirror. Do not revert
+  to "She had been buffed and polished."
+- Verified on a full **7 models × 4 personas** grid on this chapter: 28/28
+  CONTINUE, no stops. The body-catalog complaint now appears in one lane
+  (opus-5/romance-graduate, self-timed at "maybe forty seconds"). glm-5.3
+  cleared the passage by name: *"none — I was braced during the long undressing
+  sequence that it might be pretty-but-empty, and it wasn't."* The cold panel
+  raised no gaze friction at all.
+
+### ¶41 — "and he was sorry about it" — LEFT STANDING, with the dissent recorded
+
+Two opus-5 personas hit the apple-table sentence (*"He watched the thing behind
+her face that policed her relationship to food…"*). It was the chapter's only
+instance of Pace perceiving a **mechanism** rather than a body or a behaviour —
+every comparable construction elsewhere is physical, and ¶227 is the correct
+form (*"He knew this **because** the first time…"*, inference after evidence).
+Diagnosis: the sentence was *method*, which `meta-craft-pace.md:21` forbids —
+Pace is rendered in **reception**, never method. Author's framing: *we marry
+what he sees with what he knows; what is missing is any feeling he has about
+it.* Fix was six words, not a cut — the facts are load-bearing for the apple
+motif and for the coda's misread. (Bonus: `the-induction.md:13` later names the
+trait — *"sorry about it in the quiet way he was sorry about things"* — so this
+is its first instance.)
+
+**Two-call opus-5 probe split.** romance-graduate cleared and quoted the new
+clause back approvingly (*"He's **sorry about it.** That's four sentences of
+food-restriction backstory"*), and her "him narrating her interiority to me"
+side-eye vanished. fsog-refugee stayed on the same sentence and **reframed**
+the objection: *"his gaze felt less like love and more like a **dossier he'd
+been keeping**, and I wondered if I was being asked to **admire** a man
+appraising a woman's eating disorder."* Scores unchanged, 9/9 both.
+
+- **Author ruling: this is by design and is not a defect.** The reader is
+  correctly catching that **Pace watches and remembers**. She values the trait
+  more negatively than intended — that is what she is seeing, not an error in
+  the page.
+- **Do not thin the facts to soften it.** The mother's egg whites, the
+  sorority's one scale, "he had seen them", the drawn line — those *are* the
+  dossier, and the dossier is the character. Adding warmth changes his
+  temperature, not the fact that he has the file; that was the point.
+- Do not revert the "sorry" clause on the strength of this one lane. n=1 per
+  persona is noise by the panel's own discipline, and it demonstrably cleared
+  the other reader's stated objection at no cost to score.
+
+### The queer-woman column — expected, not actionable
+
+`queer-woman` is the lowest score in every row that has it (7–8 against 9–10),
+and three lanes across three vendors converge on the same complaint: the
+chapter is all Pace's eyes and the prose admires his tempo (opus-4-8, *"the
+book admiring his tempo for the third or fourth time"*; glm-5.3, *"too pleased
+with its own slowness… the hand of an author savoring their own
+craftsmanship"*). **Author ruling: a bonus pickup, always going to be tough in
+a novel that is primarily hetero with a queer awakening.** It is a structural
+property of a one-aperture Pace chapter, not something trimming reaches. Do not
+re-flag as a regression and do not chase the scores.
