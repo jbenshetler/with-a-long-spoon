@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch001 · claude-opus-5 · queer-woman · prompt-sha 914114a6274c · prose-sha 905926aff4b8 · 2026-09-14*
+
+REACTION
+
+Okay, so the book opens by lying to me and I'm going to allow it. I came in from the jacket braced for Vee — twenty-one, starving, about to be walked into a trap by two people who arranged it — and instead I get ninety minutes in a too-warm house with a man and a black-haired woman whose name I don't get until she's face-down and crying on a piece of furniture he built for her. "There you are, Randi." I actually sat up. Because the jacket told me Randi is the one with the plan, the glamorous friend, the one who "draws her further open" — and here she is being taken apart so thoroughly she has to go lock herself in a bathroom and reassemble her face. That's not the order I expected those pieces in, and I'm interested.
+
+The thing that bought this chapter for me isn't the bench. It's the apple. Thin slices, cut sides up, because she'll eat them that way and not the other way — and then her mother on egg whites, said "with a knife in it," and nobody in the text ever says the word for what's wrong with her. That's the level of attention I stay for. Same with the water bottle cap: she drinks, she keeps the cap, she presses the sharp inner edge under her thumbnail where it hurts, "she did not seem to know she was doing it," and the book just sets it down and walks on. I reread that three times. And the nails left bare, unpainted, the cost of her living in the restraint — with the one blue toenail that's hers. Whoever's writing this knows how much information is in a small amount of grooming.
+
+The bathroom is the chapter. Everything before it is a very long, very controlled man doing a very good job, and honestly the middle stretch of it got slow for me — I hit a patch of pure inventory, hand by hand, thigh by thigh, freckle by freckle, and I felt the appraisal more than the wanting. It's from his side the whole time and his side is composed. But the second she's alone in front of the mirror the book switches hands and suddenly the wanting is *hers* and it's horrible and precise: the face she's been living behind since she was thirteen, the smile sitting on top of the face that begged, the disjunction, "nothing happened to her, that was what the face was for." And then the decision — not tonight, not ever, he can have the face — arriving "quiet as a deadbolt going over," which pays off the deadbolt she turned in the first paragraph. That's real construction and I felt it land in my stomach.
+
+What I'm chewing on: he thinks he fed her. He sits there afterward feeling "the small warm pleasure of having taken her further than he had thought she would go," pleased, planning to answer her hunger "as often as she wants to bring it to him" — and the reader can see she has just left the building and is never coming back. The book lets him be wrong in front of me without underlining it. That's the move that makes me trust it a little. A worse version of this book would have him be right.
+
+My wariness, since I have it and I'm not going to pretend otherwise: this is a man producing a woman's real self on command, and "there you are" / "good girl" / the whole architecture of *he found the thing she didn't know was in her* is one degree of rotation away from the exact story I can't stand — desire installed by someone with a plan. In the het register I can hold it more loosely, and the fact that she immediately weaponizes the experience into a locked door rather than melting into love is what keeps it from being that story. But I'm watching, because per the jacket, Randi is about to take everything that just happened to her and do a version of it *to* a twenty-one-year-old girl, and if the book's answer to "why does Randi want Vee" turns out to be "because Pace made her into someone with an appetite," I'm going to be very, very tired.
+
+Also noted: there is not one woman looking at another woman in this entire chapter. I bought the book for that. Chapter 1 gets a pass — you set your table — but I know what page I'm on and I know what I was promised.
+
+Daphne. A door, once, that he didn't respect, and it cost him more than he knew anything could cost. I want that.
+
+GATE 1 — The Bench
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+ALMOST-STOPPED: "He lifted her hand and looked at it: the perfect natural nails, bare, unpainted" — somewhere in that long stretch of him cataloguing her inch by inch I started skimming, because it had been a while since anything belonged to her instead of to his eye.
+WHY: The mirror scene is the best thing I've read in weeks and it reframes the entire hour that came before it as a woman being opened and deciding to close. I want to see Randi carry this into the next room and I want to know what she does with it, and I want Vee on the page — the clock on that promise is running, but it's chapter one and the book has earned some rope.
