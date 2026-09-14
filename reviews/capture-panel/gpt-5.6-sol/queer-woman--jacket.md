@@ -5,32 +5,32 @@
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 9 — how hard this chapter specifically pulled YOU while you were inside it
-NEXT: 9 — how much you want the next chapter *right now*
-ALMOST-STOPPED: “He took the body's answer for the true one. He usually did.”
-WHY: The jacket had me braced for a man congratulating himself on manufacturing a woman’s appetite, and parts of this come perilously close—but Randi’s wanting and terror feel fiercely, specifically hers. The name reveal got me completely, and the bathroom scene turned the erotic machinery into something psychologically real and costly. I need to know what she does with the self she just locked away.
+NEXT: 9 — how much you want the next chapter right now
+ALMOST-STOPPED: “Her mother lived on egg whites and tofu, a thing she said with a knife in it, and her sorority took only girls built to the one scale”
+WHY: Early on I worried the minute cataloguing of her polished body might make her an exquisite object rather than a person. Then the bathroom scene turned the entire encounter inside out: her pleasure is real, Pace’s tenderness is real, and her need to seal herself away afterward is also real. The name reveal got me, and the terrible mismatch between what Pace thinks he gave her and what she knows it cost her has me completely.
 
 GATE 2 — Standards
 DECISION: CONTINUE
 CAPTURE: 8 — how hard this chapter specifically pulled YOU while you were inside it
-NEXT: 8 — how much you want the next chapter *right now*
-ALMOST-STOPPED: “The duvet was the duvet. It was light and synthetic and adequate. It was not — it was a duvet. She lay under it.”
-WHY: That sentence briefly felt like the prose pressing too hard on an already legible contrast. But the smiling interrogation downstairs is viciously accurate, and Randi lying in her made bed with her shoes still on is exactly the kind of stillness I’ll stay for: nothing is deferred, because the shutdown itself is the event. I’m more interested in her now than I was during the sex.
+NEXT: 8 — how much you want the next chapter right now
+ALMOST-STOPPED: “Brooke looked at her laptop. She typed something. She looked back up.”
+WHY: I briefly wondered whether this whole chapter would just be an extended demonstration that sorority women are chilly monsters, which would be thin. But the smiling interrogation is viciously accurate, and Randi lying down fully dressed because she cannot locate the action she meant to perform feels observed rather than explained. I want to know what she does with the self she has decided Pace must never see again.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 8 — how hard this chapter specifically pulled YOU while you were inside it
-NEXT: 10 — how much you want the next chapter *right now*
-ALMOST-STOPPED: “If pleasure was also a bridge, then let the wanting simply feel good in her, good enough that the good feeling and the wanting became one fact.”
-WHY: That is exactly where Pace’s tenderness starts sounding like a justification for steering her, and I do not automatically trust a man who calls his intervention a gift. But Randi’s desire arrives before his instruction and with unnerving specificity: the bare “Yes,” the helpless looking, the delighted footwork. Then she engineers a collision with Vee so deftly that my alarms are fully awake—but so is my curiosity, because the book plainly knows this is predation-shaped and has finally brought Vee onstage.
+NEXT: 10 — how much you want the next chapter right now
+ALMOST-STOPPED: “Her body wanted this; her mind had not yet caught up to it. If pleasure was also a bridge, then let the wanting simply feel good in her, good enough that the good feeling and the wanting became one fact.”
+WHY: This is the danger zone for me: a man interpreting a woman’s body as truth and then constructing the route by which her desire for women will emerge. The chapter knows that danger is there, but Pace emphatically does not, and I’m not yet sure whether the book knows the difference as well as I need it to. What keeps me is Randi’s bare “Yes”: Pace may devise the game, but he doesn’t install that response, and her startlingly specific choice of Vee feels like hers—now I urgently need Vee’s side.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 9 — how hard this chapter specifically pulled YOU while you were inside it
-NEXT: 10 — how much you want the next chapter *right now*
-ALMOST-STOPPED: “the queen having decided there would be a later and that Vee would be in it.”
-WHY: I nearly balked there because the social worship is so intense that Vee risks becoming pure susceptibility. Then the chapter pays it back: her looking at the underdressed women, hearing her mother’s word, looking longer than the judgment can explain, and finally wanting Randi with that “flat helpless want.” The scheme is frightening precisely because it has found desires that already belong to Vee; the book has earned my trust so far by letting me see both truths at once.
+NEXT: 9 — how much you want the next chapter right now
+ALMOST-STOPPED: “She was the most of what the room was selling and she was the one with the most fabric on, both at once”
+WHY: I came closest there because Vee’s constant ranking of women could have reduced the whole thing to another hierarchy of bodies. Instead, the chapter catches attraction arriving under admiration, envy, social hunger, and the language Vee inherited from her mother: she looks too long before she judges, and when she looks at Randi the whole room goes quiet. That desire is not yet something Vee can recognize, but it belongs to her; the cruel part is that Randi knows more about the encounter than Vee does, and Cassie’s “Goodbye” tells me somebody else may already see the trap.
 
 VERDICT
 WOULD PAY: yes
 MAILING LIST: yes
-TELL A FRIEND: This is a beautifully controlled, extremely hot book about three people doing something that may be consensual at every visible step and still be morally radioactive. The man’s self-image as a patient liberator makes me nervous, and the glamorous queer woman has now deliberately selected a younger woman who worships her social ease, so all my usual alarms are going off. But the crucial thing is that neither woman’s desire feels decorative or installed: Randi wants Vee before she can disguise it, and Vee is already looking at women before she understands what her looking means. I’d tell you to read it because the prose knows that being seen can feel like rescue and invasion at the same time—and because I absolutely need to find out whether it keeps knowing that.
+TELL A FRIEND: I’d say: this is extremely explicit, but the sex isn’t actually the most dangerous thing in it. It’s about three people mistaking their own version of attentiveness for knowledge, and the book is very good at letting you feel the discrepancy between being seen and being interpreted. I’m wary as hell of the man engineering circumstances for one woman to discover she wants another, because that premise can go rancid fast, but so far Randi’s wanting is unmistakably hers, and Vee’s is arriving from inside her before she has words for it. Also, the writing is patient enough to make a sorority-house conversation and a cup of coffee feel as charged as the bench scene. I’d absolutely keep reading, though I’m reading with one eyebrow up.

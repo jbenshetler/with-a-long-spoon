@@ -7,30 +7,30 @@ DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 7
 ALMOST-STOPPED: “There you are, Randi.”
-WHY: I was very much in it, almost against my own better judgment: the attention to her body, her food, her shame, the light, the bench, all of that is precise enough that I believed the charge. But that line made me sit up cold, because it tipped the whole tenderness toward ownership in a way I don't entirely trust yet. The bathroom section saved it for me, because suddenly her interior had teeth and the book knew the cost of what had happened.
+WHY: I was deeply in it until that line, and then I felt my whole wary little dashboard light up. The chapter is physically exact in a way I respect: the apple, the lights, the bench, the way her appetite has been portioned and then answered. But the tenderness has teeth, and the ending lets me see very clearly that he thinks he found her while she is already retreating from being found. I’m continuing because the book knows that difference, or seems to, and because Randi’s bathroom scene is much too good to walk away from.
 
 GATE 2 — Standards
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
-ALMOST-STOPPED: “He’s hard to say no to,” she heard, in her room, in a different key.
-WHY: That line is exactly the kind of danger that makes me wary, but the chapter doesn't shrug it off; it lets the second key land. I liked this more than I expected after the heat of chapter one, because the sorority-house social violence is rendered with real, nasty finesse. Randi alone in her room, moving from vanity to bed to sink and failing to become a person again, felt horribly true.
+ALMOST-STOPPED: “He’s hard to say no to, she heard, in her room, in a different key.”
+WHY: That line nearly made me put my hand on the brake, because it names exactly the place where this could turn into something I don’t want to be inside. But the chapter doesn’t let her social world be a cartoon, and Brooke’s soft power is awful in a beautifully observed way. Randi lying on the bed in last night’s clothes, unable even to locate the act of crying, kept me. I want to know whether the book is going to protect her complexity or use it.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
 ALMOST-STOPPED: “He took the body's answer for the true one. He usually did.”
-WHY: That sentence is a red flag with a pulse, and I do not forgive it. But the chapter is doing something sharp with that danger, because Randi's desire for Vee is not garnish: it arrives bodily, embarrassingly, specifically, and then she acts on it with skill. The pointing game could have lost me completely if it felt like him installing the wanting, but what kept me was that the wanting very plainly outruns him. The moment she says “Yes” about Vee, bare and alone, I wanted the next chapter immediately.
+WHY: There it is, the danger shape, stated almost too cleanly: a man deciding her body has confessed for her. I did not love that. But then the chapter gives Randi actual taste, not just compliance — the noes, the maybe, the sharpness of “She’d be a project,” the helpless bare “Yes” when Vee appears. That matters to me. I am very, very alert to the possibility that her wanting women is being staged through his permission, but I also felt the spark when she saw Vee, and I want the next chapter immediately.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 9
 ALMOST-STOPPED: “Love you, girl.”
-WHY: That almost made me recoil because I know that currency, and I know how cheap and devastating it can be when a girl like Randi spends it on a girl like Vee. But Vee's point of view is alive: her hunger for Randi isn't abstract, and it isn't only status, though status is tangled all through it. The Chi Latte scene is especially good because it understands belonging as erotic without having to announce that it is.
+WHY: That phrase is so socially poisonous and casual and plausible that I flinched for Vee. But this chapter did exactly the thing I needed it to do: it moved desire into Vee’s body before Vee has language for it, and it let Randi be dazzling and dangerous without making Vee stupid. The Chi Latte scene is beautifully cruel because the belonging is erotic before it is sexual. I believe Vee’s hunger, and now I’m in trouble.
 
 VERDICT
 WOULD PAY: yes
-MAILING LIST: no
-TELL A FRIEND: I’d say: okay, this is dangerous and I do not fully trust it, but I absolutely kept reading. It’s doing the manipulative-seduction thing with its eyes open, and the women are not furniture, which is the thing I was braced for. Randi scares me a little, Pace scares me in a different way, and Vee’s wanting Randi already feels so specific and bright that I’m annoyed at myself for wanting to know how badly this goes.
+MAILING LIST: yes
+TELL A FRIEND: I’d tell you: okay, this is absolutely the kind of book where I’m reading with one eyebrow up because the premise is a loaded gun, but the pages are good enough that I’m letting it point at me for now. It’s hot, but more than that it understands the erotic force of being chosen by someone who seems to know the room better than you do. I’m worried, specifically, about the man-as-midwife-to-queer-desire thing, but then Vee walks into the book and suddenly the wanting has its own weather. I’d buy it, but I’d also text you updates like “if this betrays me I’m going to be insufferable about it.”

@@ -134,6 +134,37 @@ had *already* reached N; for readers caught up from behind it is a first read,
 and the difference must be stated in the report. Gates *after* N are now stale
 in memory terms — the reader's later checkpoints were minted from the old text.
 
+## Step 4a — Staleness: warn and proceed, never re-run the volume
+
+Every run prints a prose-staleness report first, and `--check-stale` runs it alone
+(instant, zero tokens):
+
+```
+tools/capture_dag.py --models <m> --personas <p> --to <N> --check-stale
+```
+
+Each gate records a **`prose-sha`** — the hash of the chapter text that reader
+actually read. Editing an earlier chapter therefore shows up instead of going
+silent, and is classified in **three tiers, which matter very differently**:
+
+| tier | meaning | act on it? |
+|---|---|---|
+| **direct** | the gate's *own* chapter changed | Only if the edit was substantive. Re-read with `--to <N> --fresh`. |
+| **window** | a changed chapter sat in this gate's raw window (B+1…N−1) | Rarely. The reader saw the old text as context, not as subject. |
+| **checkpoint** | a changed chapter fed this gate's `ck-ch<B>` mint | **Almost never.** The reader's memory of it is a consolidated summary, which a style edit leaves true. |
+
+**The tiers exist to stop a style edit from looking like a catastrophe.** Cutting
+a beat from chapter 2 marks well over a thousand downstream gates as touched —
+but nearly all are `checkpoint`-tier, i.e. noise. Without the tiering the only
+available reading is "everything is stale," and the only available response is a
+ruinously expensive full re-run. **Warn, judge, proceed.**
+
+**The run never blocks on staleness.** There is no flag to make it block; that is
+deliberate.
+
+**Gates written before this tracking existed report as `unverifiable`,** once per
+run, not as stale. They are not re-read automatically and should not be.
+
 ## Step 5 — Read out and report
 
 Run `tools/capture_stats.py` (`--chapters A-B` to zoom, `--persona`/`--model` to

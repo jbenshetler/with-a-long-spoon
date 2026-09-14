@@ -4,33 +4,33 @@
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-ALMOST-STOPPED: "The word for what he held stayed behind his face, and he let his hands say the nearer things." — a shade too much authorial smugness in Pace for one beat; I felt the book admiring him and paused. But then the last line of the chapter — "There you are, Randi" — flipped the whole thing, and I was fully back in.
-WHY: The POV rug-pull got me. Three-quarters of the chapter I assumed this was Vee, and then it's Randi, which means the book is doing something structural with who gets seen and who gets kept. The scene itself is hot and exact — the begging sequence is written from inside the collapse of a performance, which is what I'm here for. The bathroom section is the best part: a woman deciding, in real time, to never come out again. That's a character with an actual engine.
+CAPTURE: 7
+NEXT: 7
+ALMOST-STOPPED: The jacket's own line — "Two people have planned the best of her life. She doesn't know there's a plan" — I read that with my jaw set. I came within one bad page of putting it down before I started. Inside the chapter, the near-miss was "The word for what he held stayed behind his face, and he let his hands say the nearer things" — the whole scene is filtered through his perception, her body known to me only through his custody of it.
+WHY: The jacket promised me the predatory shape I'm allergic to and then the chapter did something more interesting than the jacket: the woman on the bench turned out to be Randi, the "corrupter" of the premise, and the bathroom scene handed me her interior whole — the face as armor, the smile that "had been lying for years." That's a woman whose wanting is real and whose cost is real. The prose is exact and physical and never flinches. I'm staying, but I'm watching this book.
 
 GATE 2 — Standards
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 5
 NEXT: 7
-ALMOST-STOPPED: None, really — this is the kind of chapter I sit through happily. If anything, the very shortness of it, ending before anything else happened, made me check the sample length once.
-WHY: Nothing "happens" and I didn't care — the whole chapter is Randi's mask reassembling under Brooke's friendly interrogation, and every beat of that is doing real work. The lying about the paper landing right after we watched her beg, the closet she opens and can't remember why, lying in yesterday's clothes under the inadequate duvet. It rhymes with chapter 1's cashmere blanket she brought to *his* house. This is stillness with a pulse.
+ALMOST-STOPPED: "It was not a key she could sing in. She did not let the thought continue." — the chapter's flatness here skirted the line where I'd ask what the chapter was *for*.
+WHY: But it didn't cross it. This is the stillness I'll happily sit through: Randi lying down in yesterday's clothes with her shoes on, the not-crying that "no longer registered as an act." That's honest work — the chapter shows me what the bench cost her, in the register of her own life. The sorority interrogation scene is a small sharp set piece, four minutes of smiling as a contact sport. The deferral is doing characterization, not stalling.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
-ALMOST-STOPPED: "Would you like to taste another woman?" — my guard went up hard here. Man installing the idea, question fired into a woman mid-sex; that's the shape I run from. But then the book did something I have to give it credit for: her body answers before she can manage it, and the narration explicitly names her deflection ("she had handed the appetite to him... a different owner") as *her* maneuver, hers to notice. The wanting was already hers. The question didn't install it.
-WHY: The game on the quad is genuinely erotic — her "shopping" before she'll admit she's shopping, the coil releasing when he points at the redhead, the bare "Yes" before the costume comes up. I'm wary of the plot's machinery (I read the jacket; I know Vee doesn't know there's a plan), but this chapter treats Randi's wanting for women as real, specific, physical, and hers. That's the line I needed it to hold, and it held.
+ALMOST-STOPPED: "He took the body's answer for the true one. He usually did." — a man appointing himself the interpreter of a woman's desire is exactly the apparatus I've been burned by, and the book had better know what it's holding there.
+WHY: For most of the chapter it does seem to know: he wants the wanting to "come out laughing, dressed as play, before she had to look at it full in the face," which reads as gentleness and also as management, and the text lets both be true at once. And the quad scene is genuinely hot — Randi stopping mid-stride, the bare "yes" out of her before the costume catches up, then the barefaced collision she runs on the redhead. Her want for women is on the page as *hers*, specific and physical, not garnish. When Vee walked out of that dining hall laughing with her whole throat, I felt it land in Randi the way the book wanted.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 9
-ALMOST-STOPPED: "*Floozies,* Vee thought, the word arriving whole and in her mother's voice" — I nearly checked out for a second, because internalized-shame narration can go cheap fast. But then the text made her *look* at the sprinter's stomach for longer than the word accounted for, and let her own it, and kept the cardigan on anyway. That's the sideways arrival of attraction done accurately, and I trust the book more for it.
-WHY: Vee's want of Randi is rendered from inside her chest, warm and unexamined and specific — the want "you keep for a thing you've only ever seen from a distance," now three feet away and handing her a lavender latte. The detail of her being unable to retain a single word Randi said, only the feeling of being chosen, is exact and slightly terrifying given what the jacket told me. Cassie's flat "Goodbye, Vee" is the book leaving a tripwire in plain sight. I know the collision was engineered and Vee doesn't, and the book knows I know — that's not flinching, that's the whole design, and it makes every warm beat read double. I want chapter five badly.
+ALMOST-STOPPED: "Floozies," in her mother's voice — I've read too many books where a woman's interior misogyny is the closest thing to queer desire we're given. Here it's immediately undercut by the looking that's "hers," so I stayed, but that's the seam I'd have left through if the chapter hadn't paid it off with Randi.
+WHY: This is the chapter I was actually here for. Vee's want is rendered from the inside exactly the way I trust: sideways, in the body, before the mind will say it — the long beat of looking at the underdressed girls, the cardigan as a choice nobody knows is a choice, and then the flat helpless want at Randi that "sat in Vee's chest, warm, unexamined, glad." The Chi Latte joke she's finally allowed in on, the transcript that's blank because she was keeping the feeling — that's precise. Cassie's "Goodbye, Vee," the whole flat word, is a beautiful planted alarm. The dread is the point and the author knows it.
 
 VERDICT
 WOULD PAY: yes
 MAILING LIST: yes
-TELL A FRIEND: Okay, so it's literary erotica with a scheming boyfriend and a sorority girl and the wholesome redhead they're hunting, which sounds like the worst possible version of a thing — but the writing is doing something real. The first chapter is a long explicit scene and then it pulls the rug: it's not the girl you thought, and the last third is her standing at a mirror deciding to put herself away forever. Then the campus chapter lets a woman want women so plainly and so *sideways* — she thinks she's playing her boyfriend's game and she's actually shopping — that I forgave the premise. The blurb tells you upfront there's a plan and the girl doesn't know; the trick is the book never makes the wanting less hers. The quiet chapter where she lies on her bed in yesterday's clothes not-crying is worth the price alone. I'd buy it just to see if Vee figures it out and what she does to them when she does.
+TELL A FRIEND: Okay, so it's the setup I'd normally run from — a couple "chooses" a girl who doesn't know there's a game — and the book knows I'd run from it, which is most of why it works. But the real thing is the writing: the desire is always rendered from inside the woman having it, and there are two of them, not one. The scene where Randi begs and then can't get her face back on in the bathroom mirror is the best thing in the sample — she cried and the book didn't flinch from what it cost her. And Vee, wanting Randi with this warm unexamined gladness while the reader knows what's coming for her — it's tender and it's ruthless at the same time, and I can't stop thinking about the roommate saying "goodbye" instead of "see you later." The man is a lot — the whole clockmaker-dom thing — but the book keeps noticing that his noticing is management. I'd pay. I'm actually a little mad I have to wait for Book Two's next chapters.

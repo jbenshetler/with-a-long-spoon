@@ -4,33 +4,33 @@
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
-ALMOST-STOPPED: "She took the water bottle... and set the sharp inner edge of it under her thumbnail and pressed — slow and steady, down into the nail bed, where it would hurt." That, and the flick at "Daphne had built a door, once, and he had not respected it." Two little cold spots in an otherwise warm bath.
-WHY: This is the thing I have been hunting for years and mostly not finding — a man who asks, who leaves the word in her mouth, who checks her shoulders and her hands and calls a closed door hers. The care is on the page, not decorated on. And then the floor tilts: this isn't the heroine the jacket promised me, it's Randi, and I watched a woman get genuinely seen and decide in a locked bathroom to crawl back behind her own face forever. I did not expect to be gutted. I'd have paid to keep going.
+CAPTURE: 8
+NEXT: 7
+ALMOST-STOPPED: Early on — "he had watched her clock them the first night, and the second night, and the third, and had watched her never say anything about them." I felt the whole thing tilt toward *his* watching, his cataloguing, a man narrating a woman to himself, and I braced for the heroine to be a specimen under glass rather than a person.
+WHY: This is the consent I've been hunting for, rendered in a way I've almost never gotten — "Tell me your word," said unprompted, twice, and the aftercare that doesn't interpret her for her. The heat is real and it means something; the man's control genuinely makes room for her. But it flipped on me: the woman being undressed and read so tenderly is *Randi*, and the jacket's whole apparatus tells me she's one of the two people running a game on the girl. That reversal — the tenderness is real and she's the predator and she can't survive being seen — is the most interesting thing a book in this genre has handed me in a long time. The locked bathroom door, "not ever," the water-bottle cap under her thumbnail: I'm in.
 
 GATE 2 — Standards
 DECISION: CONTINUE
-CAPTURE: 5
+CAPTURE: 6
 NEXT: 6
-ALMOST-STOPPED: "How's the paper coming?" — a whole chapter of a coffee-hour interrogation with no Pace in the room, and I felt the gap open. I kept waiting for the two of them to be alone again and they never were.
-WHY: A quiet one, and it costs the book more than chapter one earned back, because there's no heat and no tenderness to sit against — just Randi being handled in her own common room and I couldn't tell if Brooke knows something or is only a president. But the writing is so exact about the four-minute smiling war that I stayed, and the image of her lying in last night's clothes under an "adequate" duvet, not-crying because there's no door left to hold, followed me. I want to know what the plan actually is.
+ALMOST-STOPPED: "The whole exchange had taken less than four minutes. Most of it had been smiling." — not because it was weak, but because after the furnace of chapter one I felt the cold of a pure social-mechanics chapter and wondered if the book was going to leave the bedroom and never come back to the heat.
+WHY: A quiet chapter and it cost me almost nothing, because the care underneath is on the page — the buffed sorority interrogation is knife-work rendered from the inside, and Randi lying on last night's clothes under an inadequate duvet, unable to reach her own crying, landed the wound from chapter one instead of dropping it. "It felt like there being no door" is the line that keeps her human to me. I want to see the girl now, though; two chapters and I still haven't met Vee.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 6
-ALMOST-STOPPED: "He took the body's answer for the true one. He usually did." I nearly closed the tab right there. That is the exact move I left the whole genre over — her mouth says one thing, he decides her body outranks it, and the book hands me his certainty like a virtue.
-WHY: Here's where the sweetness of chapter one curdles for me. Pace is still gentle, still patient, but now I can see what the gentleness is *for* — the pointing game is two people shopping for a girl on a lawn, and Vee is the prey, not a person. It's beautifully done and that almost makes it worse, because the craft is coaxing me to enjoy the hunt. I'm still reading, but the pull now is dread, not desire, and I'm watching this book very hard to see whether it thinks Pace's override is romantic or damning.
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: "He took the body's answer for the true one. He usually did." That, plus the whole apparatus of him reading her flinch and deciding her helpless want *is* consent — this is exactly the coercion-styled-as-perception move that makes me leave books, and for a paragraph I thought the book was winking along with him.
+WHY: What kept me is that the book is not actually winking — it *names* what Randi does ("she had moved it… a different owner") so precisely that I trust it knows Pace's "the body's answer is the true one" is a self-serving creed, not the author's. And now I see the machine: these two, in real tenderness with each other, are hunting a girl on the quad, and Vee is the redhead who forgot she could be seen. That's dread and appetite in the same breath. The pointing game is genuinely erotic *and* genuinely sinister, and I want to know what it costs.
 
 GATE 4 — See You Later
-DECISION: CONTINUE (sample ends)
+DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 7
-ALMOST-STOPPED: "*Floozies*, Vee thought, the word arriving whole and in her mother's voice" — for a second I braced that the book would let that be Vee's real verdict and not something done to her. It didn't, and I softened again.
-WHY: Giving me Vee's inside at last did what nothing before it could — she's warm and starving and so ready to be chosen that it hurts, and Cassie's flat "Goodbye, Vee" landed like a hand on my arm from outside the trap. I like this girl, which is precisely the problem the book has built for me: I'm ahead of her, I know the collision on the lawn was a maneuver, and I'm being asked to find her happiness delicious while she walks home warm the long way. That's the exact thing I said I wouldn't forgive — except this book seems to know it's a violation and isn't smiling about it, and I can't tell yet if that redeems it.
+NEXT: 8
+ALMOST-STOPPED: "Goodbye, Vee." — Cassie's flat whole-word goodbye. Not close to a stop; it's the opposite, a hook straight through me. The nearest I came to leaving was a flicker earlier — the worry that Vee would be nothing but a warm dupe, a body walked toward a trap — but "the leaning-in was the whole content, and the words it had been leaning toward had not stayed" gave her an interior, so it held.
+WHY: Meeting Vee from inside is what the book needed and it delivered — the borrowed-hour ache, the mother's voice living in her mouth, the cardigan over the better shirt "and the room did not know it was a choice." She reads as a real hungry girl, not a lamb. And now I'm dreading *for* her, which is a stronger engine than wanting her happy. Cassie clocking it and being unable to stop it is the chill I'll carry into chapter five.
 
 VERDICT
 WOULD PAY: yes
 MAILING LIST: yes
-TELL A FRIEND: Okay — you have to read the first chapter of this, because it's the thing we've been complaining nobody writes: a man who actually asks, actually watches for the yes, safeword and aftercare and a closed door he won't touch, and it's the hottest and tenderest thing I've read in ages. And then it turns on you. That gorgeous consent scene is with the *wrong* woman, and the whole book is two people running a honeypot on an innocent girl, and by chapter four you love the mark and you're sick about it. There's one line — "he took the body's answer for the true one" — that nearly made me quit, because it's the Fifty Shades poison exactly, except this book doesn't seem to think it's romantic; it thinks it's the crime. I honestly don't know if I'm going to feel dirty or devastated by the end, but I could not stop, and the writing is a cut above anything on our shelf. Read it and then call me, because I need someone to be scared with.
+TELL A FRIEND: Okay — remember how I've been complaining for years that I want Fifty Shades' intensity but with consent that actually *means* something? This one does the consent better than almost anything I've read — the man says "tell me your word" before he lays a hand on her, the aftercare is real, he respects a locked door — and then it pulls the rug out, because the woman he's being so tender with is a predator who can't survive being genuinely seen, and the two of them are running a *game* on an innocent girl, and the book knows it. It's warm and filthy and quietly sick to your stomach at the same time. The seduction of the girl, Vee, is written from inside her loneliness so you fall for Randi exactly the way she does, while you already know what Randi is. I don't know yet whether it's going to earn the cruelty or just be cruel — that's the whole question — but I bought it before I finished the sample and I'm reading on tonight.

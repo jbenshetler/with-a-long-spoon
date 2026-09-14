@@ -4,10 +4,10 @@
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 8
 NEXT: 7
-ALMOST-STOPPED: "There you are, Randi."
-WHY: The spanking on the custom bench goes on a beat too long, but the sudden twist at the end—that the woman on the bench was Randi, the one the jacket pitched as the glamorous third-party orchestrator, and that her entire internal life is a panic over being exposed—saves it. I almost dropped it when I realized this was heterosexual BDSM foreplay for another woman's later seduction, but Randi in the bathroom in front of the mirror made her a real, terrified person instead of just a trope.
+ALMOST-STOPPED: "There it was. He heard it. He felt himself receive it. The voice was different — lower, broken, almost ugly compared to the bright sorority-house voice she normally used, and *real*, unmistakably, the voice of a woman who was not performing because she had run out of the apparatus of performance."
+WHY: The first half felt like standard-issue dominant-male fantasy prose—the endless inventory of luxury labels, dancer muscles, and a guy who thinks he knows a woman better than she knows herself. But the turn in the bathroom completely saved it; the book actually knows Pace didn't "cure" or liberate her, he just cornered her, and her terror at being seen is real, defensive, and psychologically sharp. I want to see if the book keeps giving her that interiority or if it falls back into his smug certainty.
 
 ***
 
@@ -15,8 +15,8 @@ GATE 2 — Standards
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
-ALMOST-STOPPED: "'He's hard to say no to,' she heard, in her room, in a different key."
-WHY: This chapter is quiet and sharp, and I loved the brutal, smiling sorority politics of the morning after. Randi's paralysis under her duvet in last night’s clothes feels utterly earned and psychologically true to the closeted, high-performing terror set up in chapter one. It’s literary and observant, and it gives Randi weight before she goes out to play whatever game she’s about to play.
+ALMOST-STOPPED: None.
+WHY: This is viciously accurate about the micro-surveillance of sorority life and the exhausting labor of maintaining high-femme status. The contrast between the heavy wood and sweat of Pace's bedroom and this fluorescent, smiling cross-examination over coffee is handled with real literary restraint. I'm invested in Randi's numbness; she’s not a passive vessel, she’s an operator whose armor is cracking.
 
 ***
 
@@ -24,8 +24,8 @@ GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 6
 NEXT: 6
-ALMOST-STOPPED: "'Her name is Vee.' She arrived in front of him glowing. 'And we've got a stats class together.'"
-WHY: This walked right up to the line of the trope I despise most: the boyfriend coaching the closeted woman into cruising for their mutual benefit, framing her queer desire as a game installed and permitted by him. What kept me from walking was how helplessly Randi stared at Vee, breaking her own polished script before Pace even gave her the nudge. There's real female wanting under all of Pace's smug, puppeteering choreography, so I'll see where the collision lands.
+ALMOST-STOPPED: "Go meet her," Pace said.
+WHY: This walked right up to the edge of what I despise—a man choreographing a woman's latent queer desire and treating her orgasm as an engineering problem he solved. What keeps me here, barely, is that Randi's appetite for Vee is clearly *hers*, not Pace's invention; her need to disguise it as "a gift for him" is a tragic, plausible closet move for a girl in her world. Still, Pace playing Svengali from a lamppost while Randi runs a sociopathic little social hit on an unsuspecting girl leaves a sour taste; the book better know how predatory this game actually is.
 
 ***
 
@@ -33,13 +33,12 @@ GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
-ALMOST-STOPPED: "'Floozies,' Vee thought, the word arriving whole and in her mother's voice before she had finished forming the picture."
-WHY: Finally we get inside Vee, and she isn't just a blank mark being steered into a trap; she has her own heavy, repressed appetite and an instant, intoxicating crush on Randi. The crush is rendered from the inside with terrible, delicious accuracy—the way the actual conversation evaporates and leaves only the physical high of being chosen. Cassie's flat, ominous "Goodbye, Vee" gave the whole thing a subtle chill that made the social warmth feel dangerous in an honest way.
+ALMOST-STOPPED: "*Love you, girl.* She let her go and was already moving, already half-turned toward wherever the meeting was, walking backward two steps to land the last of it warm and easy and certain."
+WHY: Giving Vee the point of view here makes the whole trap feel heartbreakingly real—the intoxicating, specific rush of being chosen by the golden girl, the way female friendship at twenty-one bleeds seamlessly into unspoken romance. Vee’s awareness of her own body, hiding under cardigans while privately noticing the midriffs and desperately wanting Randi's casual touch, rings true from the bone. Cassie’s quiet, final "Goodbye, Vee" gave me actual chills; the book is fully aware of the cruelty being set in motion, and that psychological honesty keeps me hooked even while I dread what they're going to do to her.
 
 ***
 
 VERDICT
 WOULD PAY: yes
 MAILING LIST: yes
-TELL A FRIEND:
-It’s doing something very tricky and walking straight along the edge of things that usually make me throw a book across the room—there’s an older graduate-student boyfriend choreographing a threesome, and a lot of very detailed heterosexual domestic kink—but it actually pulls it off because the women’s desire is completely real and completely theirs. The girl orchestrating the seduction isn’t an evil predator or a male fantasy; she’s a terrified, closeted sorority officer who got cracked wide open on a spanking bench and is channeling that panic into an obsessive crush on a lush redhead in her stats class. The writing is literary and pays ruthless attention to social hierarchy and female longing. If you can handle the Anne Rice-adjacent mind games, the tension between the two women is genuinely electric.
+TELL A FRIEND: I picked up this thing expecting another tired, male-centered ménage fantasy, but it’s actually a sharp, deeply unsettling psychological novel disguised as high-heat erotica. It’s about a locked-down sorority girl and her intensely exacting boyfriend who decide—under the guise of an erotic game—to target and seduce a lush, quietly yearning classmate named Vee. What makes it work, instead of being gross, is that the writing takes the women's internal lives completely seriously: the closeted terror of the girl orchestrating the seduction, and the dizzy, aching, total infatuation of the girl walking right into the snare. It has that Anne Rice cruelty where every consent is technical and every step is a trap, but the queer longing underneath is rendered with devastating accuracy. Read it, but prepare to feel deeply protective of Vee.

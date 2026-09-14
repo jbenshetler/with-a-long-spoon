@@ -100,6 +100,93 @@ def chapter_block(i: int) -> str:
             f"{checkpoint_bundle.clean_scene_text(s)}\n")
 
 
+def chapter_sha(i: int) -> str:
+    """Short hash of chapter i's clean text — what a reader actually read."""
+    return hashlib.sha256(
+        checkpoint_bundle.clean_scene_text(slugs()[i - 1]).encode()).hexdigest()[:12]
+
+
+GATE_HEADER_RE = re.compile(
+    r"gate ch(\d{3}).*?(?:prose-sha ([0-9a-f]{12}))?(?:\s|·|\*|$)")
+
+
+def recorded_prose_sha(gate_file: Path) -> str | None:
+    """The prose-sha a gate recorded, or None for gates written before tracking."""
+    try:
+        head = gate_file.read_text(encoding="utf-8").split("\n", 1)[0]
+    except OSError:
+        return None
+    m = re.search(r"prose-sha ([0-9a-f]{12})", head)
+    return m.group(1) if m else None
+
+
+def stale_report(model_ids: list[str], personas: list[str], to_n: int) -> dict:
+    """Classify existing gates against current prose. Never blocks — this is a warning.
+
+    Three tiers, because they matter very differently for a style edit:
+      direct      — this gate's OWN chapter changed; the reaction is to text that is gone
+      window      — a chapter in this gate's raw window (B+1..N-1) changed
+      checkpoint  — a changed chapter fed this gate's ck-ch<B> mint (weakest signal:
+                    the reader's memory of it is a consolidated summary, which a
+                    style edit usually leaves true)
+    """
+    current = {}
+    for n in range(1, min(to_n, len(slugs())) + 1):
+        try:
+            current[n] = chapter_sha(n)
+        except Exception:
+            pass
+    changed, unverifiable = set(), 0
+    gates = []
+    for m in model_ids:
+        for p in personas:
+            d = dag_dir(m, p)
+            if not d.is_dir():
+                continue
+            for n in range(1, to_n + 1):
+                gp = gate_path(d, n)
+                if not gp.exists():
+                    continue
+                rec = recorded_prose_sha(gp)
+                gates.append((m, p, n, rec))
+                if rec is None:
+                    unverifiable += 1
+                elif n in current and rec != current[n]:
+                    changed.add(n)
+    tiers = {"direct": 0, "window": 0, "checkpoint": 0}
+    for _m, _p, n, rec in gates:
+        b = boundary(n)
+        if n in changed:
+            tiers["direct"] += 1
+        elif any(b < c < n for c in changed):
+            tiers["window"] += 1
+        elif any(c <= b for c in changed):
+            tiers["checkpoint"] += 1
+    return {"changed_chapters": sorted(changed), "tiers": tiers,
+            "unverifiable": unverifiable, "gates": len(gates)}
+
+
+def print_stale_report(rep: dict) -> None:
+    if rep["unverifiable"]:
+        print(f"  note: {rep['unverifiable']} gate(s) predate prose-sha tracking "
+              f"— staleness unverifiable for those", flush=True)
+    if not rep["changed_chapters"]:
+        if rep["gates"] and not rep["unverifiable"]:
+            print("  prose check: all existing gates match current chapter text",
+                  flush=True)
+        return
+    ch = ", ".join(f"ch{c:03d}" for c in rep["changed_chapters"])
+    t = rep["tiers"]
+    print(f"  STALE PROSE — changed since minting: {ch}", flush=True)
+    print(f"    direct     {t['direct']:5}  gate's own chapter changed "
+          f"(re-read these if the edit was substantive)", flush=True)
+    print(f"    window     {t['window']:5}  changed chapter sat in the raw window",
+          flush=True)
+    print(f"    checkpoint {t['checkpoint']:5}  changed chapter fed the carry-forward "
+          f"(usually ignorable for a style edit)", flush=True)
+    print("    proceeding — re-read a chapter with `--to <N> --fresh`", flush=True)
+
+
 def jacket_block() -> str:
     j = checkpoint_bundle.jacket_packet()
     if not j:
@@ -172,7 +259,8 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
             if "DECISION" not in raw.upper():
                 raise RuntimeError(f"malformed gate for {label}")
             write_doc(gp, f"*{PROTOCOL} · gate ch{n:03d} · {model_id} · {persona} · "
-                          f"prompt-sha {read_sha} · {date.today().isoformat()}*", raw)
+                          f"prompt-sha {read_sha} · prose-sha {chapter_sha(n)} · "
+                          f"{date.today().isoformat()}*", raw)
             print(f"  gate {label}", flush=True)
         if re.search(r"DECISION:\s*STOP", gp.read_text(), re.I):
             stopped.write_text(f"stopped at ch{n:03d}\n")
@@ -277,6 +365,9 @@ def main() -> None:
     ap.add_argument("--fresh", action="store_true",
                     help="re-read the target chapter (--to N), overwriting its existing "
                          "gate and, on a decade boundary, re-minting its carry-forward")
+    ap.add_argument("--check-stale", action="store_true",
+                    help="report which existing gates were minted from prose that has "
+                         "since changed, then exit. Costs no tokens.")
     args = ap.parse_args()
 
     if args.assemble:
@@ -292,6 +383,12 @@ def main() -> None:
             f"refusing to run retired persona(s): {', '.join(retired)}. "
             "Retired by author ruling (see RETIRED_PERSONAS); existing gates are "
             "kept and --assemble still works. Reviving one needs author approval.")
+
+    # Staleness is a warning, never a gate. A style edit to an early chapter must not
+    # force a re-read of every downstream chapter; report the tiers and proceed.
+    print_stale_report(stale_report(args.models, list(args.personas), args.to))
+    if args.check_stale:
+        return
 
     results, failures = [], []
 

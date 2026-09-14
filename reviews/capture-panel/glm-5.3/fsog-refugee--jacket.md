@@ -6,31 +6,31 @@ GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-ALMOST-STOPPED: "There you are, Randi." — not because it was bad, but because the floor dropped out: I realized I'd spent the whole chapter assuming this was the heroine, and suddenly the book told me she isn't. That's the blurb's "secret choice" arriving, and I had to decide whether I trusted the book with it.
-WHY: This is the thing I've been hunting for years — the spanking scene where the man asks for the word twice, checks her shoulders, doesn't open the bathroom door because of a woman named Daphne who taught him why. And the sex is hot because *he pays attention*, and the writing pays attention too. The bathroom mirror section knocked the wind out of me — her deciding to put the face back on is the most honest thing I've read in this genre in a year.
+ALMOST-STOPPED: "set the sharp inner edge of it under her thumbnail and pressed — slow and steady, down into the nail bed, where it would hurt. She did not seem to know she was doing it." — that landed cold in me and I actually sat still for a second, because I've been her, done that kind of thing without letting myself know. It's the first crack in the fantasy and it's deliberate, and it cost me something to keep reading.
+WHY: This is the thing I've been hunting for for years and almost never find. He asks before he takes, checks in, waits for the real yes — and the real yes is the *point*, not an obstacle to the heat. The begging scene is the most honest thing I've read in this genre in ages: he won't accept the performed please, he waits for *hers*, and when it comes she comes apart crying and he just holds her and doesn't interpret it for her. Tenderness and dominance in the same man, exactly as promised.
 
 GATE 2 — Standards
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 7
 NEXT: 8
-ALMOST-STOPPED: "She lay under it." Nothing happens in this chapter — a lie about a paper, a closet, a duvet. I nearly drifted.
-WHY: But "nothing happens" is the point, and I could feel that — a woman lying down in yesterday's clothes with her shoes on, not-crying described as a held breath that stopped feeling held. It costs me nothing to sit in this because the care the book has for her is real, even when her own isn't. And I need to know what she does with what happened. Two chapters away from Pace and Randi alone is one; the gap-meter is quiet only because chapter 1 was a hundred pages of them.
+ALMOST-STOPPED: "*He's hard to say no to,* she heard, in her room, in a different key." — that line made my stomach drop, because I suddenly couldn't tell what I was reading anymore, and for one bad second I worried the book was going to tell me she was a victim of something I'd just spent a chapter enjoying.
+WHY: No sex, barely a raised voice — just a sorority president asking friendly questions with a knife in them, and Randi lying beautifully on every floor of her own house. It's a quiet chapter but it's not empty: the bathroom crack from chapter one is propagating through her life. I'm a little uneasy that I don't know yet what the book thinks about what happened — but the writing is too exact and too kind to her to be cruelty played straight.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-ALMOST-STOPPED: "He did not rush her... let the camouflage stand." The point where I clocked that Pace is running Randi like an experiment — the surveillance at the light pole, the "I point. You pick." I felt the first cold draft of the blurb's promise, that everything Vee gets is going to come to her pre-arranged.
-WHY: But the scene works for me because the *want on the page* is hers — her body answering before her costume can catch it, the bare "Yes" before the recovery. And then he points at Vee, and the book shows me exactly what Randi saw, and I saw it too. The redhead laughing with her throat to the sky. I'm in this now; I know I'm being set up alongside Vee and I don't care.
+ALMOST-STOPPED: "He took the body's answer for the true one. He usually did." — hold on, mister. Her body reacting isn't her saying yes, and I felt him skate right along that line for a beat there. He pulled it back by asking her plainly afterward, but I noticed.
+WHY: The day-after conversation is the consent work most books skip entirely: he waits until she's out of subspace and gathered before he asks the question in daylight, because he wants her free to choose. And the walk — "I point. You pick" — the whole game is engineered so the choosing stays hers, and she blooms in it. When she says "Yes" with nothing around it, I felt it in my own chest. He's still a little too sure he knows what she wants, and I'm watching that, but I'm watching happily.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-ALMOST-STOPPED: "She could wear what they were wearing" dissolving into her mother's voice — not a near-stop, more a wince of recognition. The actual closest moment was Cassie's flat "Goodbye, Vee," which unsettled me more than anything Pace has done; I keep turning that word over.
-WHY: Vee is lovely from inside — the transcript going blank because she was keeping the feeling, the cardigan worn "on purpose this morning" and the room not knowing it was a choice. This is the hunger the blurb promised, "quietly starving," rendered without ever saying it. But underneath the warmth I'm doing the math the book wants me to do: the collision on the lawn was choreographed, the "we have a class together" was a gift Pace handed her. Nothing has been taken from her — yet. I'm watching for the moment the plan touches a yes she wouldn't have given, and that tension is why I want the next chapter, not despite it.
+CAPTURE: 8
+NEXT: 9
+ALMOST-STOPPED: Almost nowhere — but the closest flicker was Cassie's flat "Goodbye, Vee," because for half a page I thought the book was going to wink at me that even Cassie was in on it, that everyone was a chess piece, and I don't want Vee in a world with no honest people in it.
+WHY: This is the chapter where the blurb's promise turns real and I'm sitting there watching Vee walk into the trap with her whole heart open — and the trap looks, from inside her, exactly like the best thing that's ever happened to her. The Chi Latte scene made me ache: the "floozies" thought in her mother's voice, the cardigan covering the better shirt, the blank transcript of an hour she'll only ever keep as a feeling. She wants Randi and "never lets herself notice." I know from the jacket there's a plan, and knowing it makes the tenderness hurt instead of reassuring me — which is exactly the "psychologically merciless in its tenderness" the blurb promised, so I can't complain. Pace and Vee haven't even met yet and I'm already counting chapters until they do.
 
 VERDICT
-WOULD PAY: yes — I'd pay $9.99 tonight, mostly for whatever happens the first time Vee is alone in a room with both of them.
-MAILING LIST: yes.
-TELL A FRIEND: Okay, you know how we're always complaining that the hot ones make the coercion the point? Read the sample of *A Polite Invitation*. There's a spanking bench scene where the guy asks for her safeword twice and then sits outside a locked bathroom door because of something in his past, and the heroine spends the whole chapter deciding whether to let him keep finding her — and then the book pulls the rug and she's not even the heroine, she's the *plan*. Then you meet the actual girl, Vee, who's so lonely she can't remember what her new friend said to her because she was too busy feeling chosen — and you know, the whole time, the choosing was arranged. Every yes so far is real, that's what's keeping me sane, but the book is watching its own characters to see when that stops being true. It's Fifty Shades heat with a man who actually asks. I need to know what happens when the polite invitation reaches the girl who doesn't know there's a plan.
+WOULD PAY: yes
+MAILING LIST: yes
+TELL A FRIEND: Okay, you know how we're always complaining that the hot ones are all coercion and the respectful ones are boring? I found one that's actually both. It's a dom who asks — no, *waits*, like the waiting is the whole thing — and the scene that follows is the most honest, least performative submission I've ever read, and when she cries afterward he doesn't narrativize it, he just holds her. But here's the twist, and I need you to read it so we can argue: it's a setup. Her whole romance is a plan two people made about her before she knew either of them. The blurb tells you upfront, which somehow makes it worse and better — every yes really is hers, and the book keeps making you feel the lie and the truth of that at the same time. There's a quiet chapter where the girl just comes home to her sorority and lies to everyone with a smile that made my skin prickle. Start it tonight. I'm buying the rest the second I finish this message.
