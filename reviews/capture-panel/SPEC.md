@@ -703,3 +703,44 @@ Worked case, same day: `claude-opus-5` flagging {{The Bench}}'s appraisal 4/4 wa
 established base rate. It became a **finding** only when `claude-opus-4-8` and
 `glm-5.3` landed independently nearby. Four personas on one model is one
 vendor's opinion, however unanimous.
+
+## `queer-woman` deprecated as a tuning target (author ruling 2026-09-14)
+
+**Not retired — deprecated as an objective.** Unlike `dark-romance-control` she
+still runs: she stays out of `RETIRED_PERSONAS`, a run that names her does **not**
+error, and her existing gates stand. What changes is what her output is *for*.
+
+**The ruling.** The book was not designed for this reader, and tuning it to
+delight her would break it for the ones it was designed for. Do not spend chapter
+craft raising her column, and do not treat a low `queer-woman` score or an
+unresolved `queer-woman` complaint as a defect on its own.
+
+**What she is still for: sensitivity and representation, on request.** That is a
+*correctness* function and it survives intact — above all the risk canon already
+guards in `meta-note-taste-thread.md`, that Vee's queer arc, being engineered by
+two people with a plan, reads as **desire installed in her rather than hers**.
+Asking "is this portrayal defensible" is her job. Asking "is this portrayal
+satisfying to her" is not. Run her when you want the former; ignore the latter.
+
+**Evidence behind the ruling.**
+- Her column is the lowest in every row that has it — 7/8/8 against 9–10 on
+  {{The Bench}}'s full 7×4 grid.
+- Three lanes across **three vendors** converge on the same objection, and it is
+  structural rather than local: the chapter is all Pace's eyes and the prose
+  admires his tempo (`claude-opus-4-8` *"the book admiring his tempo for the third
+  or fourth time"*; `glm-5.3` *"too pleased with its own slowness… the hand of an
+  author savoring their own craftsmanship"*). That is a property of a
+  one-aperture POV chapter. Trimming does not reach it.
+- Worked case, {{Lesson}} ch026: held at CAPTURE 6 across a revision that moved
+  `claude-opus-4-8` 6→8 and 7→9, charging *"hand me my suspicion, dissolve it in
+  pleasure, prove the man immaculate, shame the woman for doubting."* Ruled a
+  hostile read missing clues demonstrably legible to every other lane (see
+  `meta/meta-triage-lesson.md`). A fix was drafted and **declined**.
+
+**Consequence for scope.** The target matrix is **roster × 3** — `romance-graduate`,
+`fsog-refugee`, `consent-sensitive`. A missing `queer-woman` lane is the intended
+state, not a gap; do not propose catch-up runs to complete her column. Keep the
+gates already on disk.
+
+This does not touch the **cold-read** panel, a different instrument with its own
+roster.

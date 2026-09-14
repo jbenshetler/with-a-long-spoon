@@ -25,18 +25,25 @@ Harness: `tools/capture_dag.py`. Contract and results history:
 | `romance-graduate` | outgrown spicy romance, won't give up the heat (primary vector) | yes |
 | `fsog-refugee` | FSoG intensity with real consent and warmth (crossover) | yes |
 | `consent-sensitive` | vigilant about predation-romanticizing; the con-misread instrument | yes |
-| `queer-woman` | opt-in only | **no** |
+| `queer-woman` | on request only — sensitivity/representation check, **not a tuning target** (deprecated 2026-09-14) | **no** |
 | `dark-romance-control` | the WRONG reader; **retired 2026-09-12** | **never** |
 
 A bare `--personas`-less run is the three defaults. `queer-woman` is selectable
 but deliberately **not** in the default set, so a bare invocation never silently
 opens a fresh 70-chapter read on a subscription lane.
 
-**The target matrix is roster × 4** (author ruling 2026-09-14): the three
-primaries plus `queer-woman`. Queer-woman stays out of the *default* set for the
-cost reason above, but it is wanted in the completed grid — treat a missing
-queer-woman lane as a gap to be filled, not as the intended state. Never
-`dark-romance-control`.
+**The target matrix is roster × 3** (author ruling 2026-09-14): `romance-graduate`,
+`fsog-refugee`, `consent-sensitive`. Never `dark-romance-control`.
+
+**`queer-woman` is deprecated as a tuning target** (same ruling; full rationale in
+SPEC). She still *runs* — she is not in `RETIRED_PERSONAS` and naming her does not
+error — but only **on request, for sensitivity and representation**. That is a
+correctness question ("is this portrayal defensible"), not a satisfaction one
+("does she enjoy it"). The book was not designed for this reader and tuning it to
+delight her would break it for the ones it was. **A missing `queer-woman` lane is
+the intended state, not a gap** — never propose a catch-up run to complete her
+column, and never treat a low score or an unresolved complaint from her as a
+defect on its own.
 
 **`dark-romance-control` is retired from running** (author ruling 2026-09-12).
 She was the repel-goal instrument — her STOPs were the success condition — and
