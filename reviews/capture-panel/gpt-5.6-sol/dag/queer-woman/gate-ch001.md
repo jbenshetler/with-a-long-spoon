@@ -1,19 +1,18 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~905926aff4b8 · 2026-09-10*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · queer-woman · prompt-sha 914114a6274c · prose-sha 6f2b38a05b7f · 2026-09-14*
 
-REACTION — Oh. It’s Randi.
+REACTION — Well. That got under my skin.
 
-That landed. I spent most of the chapter thinking I was watching Vee’s appetite being exquisitely attended to—and feeling increasingly uneasy about how thoroughly Pace’s gaze seemed to explain her to herself—then the name changed the whole temperature. This isn’t the innocent girl being maneuvered into somebody else’s design yet. This is one of the designers discovering that she isn’t safely outside the experiment. Good. That is much more dangerous, and much more interesting.
+The bench scene was hot, yes, but the part that really caught me was the terrible mismatch afterward: Pace believes he has found Randi, while Randi experiences being found as an emergency. His patience is genuine. His tenderness is genuine. Her consent and pleasure are genuine. And he is still catastrophically wrong about what the experience means to her. That is much more unsettling than if he were simply a calculating bastard; I can’t dismiss him, and I can’t relax around him.
 
-The bench scene worked on me despite my resistance. The patience, the waiting, the fact that he notices the exact moment her polished voice breaks and something needier comes through: yes. Very hot. But the body catalog occasionally got close to embalming her in his gaze. “Buffed and polished to a high gloss” made me recoil; I could feel the woman becoming an expensive object he congratulates himself for understanding. His certainty that the broken, begging voice is the real one also set off every alarm I have. Ecstasy can be true without being the single secret truth of a person.
+Randi’s bathroom scene hurt. The face as something she can lend out while keeping herself untouched feels horribly recognizable, and the moment she realizes that begging came from behind it—not as performance, but from her—made the whole erotic scene suddenly feel emotionally naked. I believed her pleasure belonged to her. I also believed her immediate need to bury the self who felt it. That combination is exactly the sort of complicated truth that will keep me reading.
 
-And then the bathroom gave Randi back to herself so completely that I trusted the book again. Her horror isn’t that she wanted it. She knows she was more alive than ever. Her horror is that Pace witnessed the wanting and now believes access equals knowledge. That distinction is painfully exact. The image of her rehearsing her usual smile over the face that begged—seeing both faces at once and being unable to undo what happened—hurt in a place I recognize.
+I’m wary as hell now, because the jacket says Randi and Pace will make Vee into a plan, and this chapter has shown me the wound Randi will presumably be acting from. That could become the nightmare shape I distrust: a queer woman channeling her own terrified appetite into engineering another woman’s awakening. But the book plainly sees the locks, the lies, and the difference between consent to an act and consent to someone else’s hidden design. It isn’t pretending tenderness makes secrecy harmless. I’m frightened of what Randi is going to do with the fact that Pace saw her—and very interested in whether wanting Vee will be her way of hiding again or the thing that finally makes hiding impossible.
 
-Pace’s tenderness frightens me more than the bench did. He behaves carefully, respects the locked door, and is almost perfectly wrong about what his care has accomplished. His thought that all he did was find her hunger and answer it is lovely, arrogant, and ominous. He thinks he has liberated her; she experiences his knowing as something she must survive by hiding. Neither reading cancels the other. That is the kind of complication I’ll follow.
+What I’d text at one in the morning: “The sex is extremely hot, but then she goes into the bathroom and rebuilds her entire personality like a crime scene. I am not okay.”
 
-Also: now I’m intensely curious about how this woman—who reacts to being seen by locking herself back up—will turn around and help arrange Vee’s awakening. If Randi treats Vee’s appetite as something she can safely orchestrate because she cannot safely inhabit her own, the jacket’s premise may earn every bit of its menace. My 1 a.m. text would be: “The glamorous bisexual corrupter just turned out to be a terrified girl hiding inside her own face, and unfortunately I am seated.”
-
-GATE 1 — The Bench  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “She had been buffed and polished to a high gloss”  
-WHY: Pace’s proprietary gaze nearly lost me, but Randi’s bathroom reckoning transformed that discomfort into the point rather than asking me to swallow it as romance. The book has already paid for her desire by making it unmistakably hers—and has made the danger not that she wanted, but that someone else thinks wanting gives him the whole truth of her.
+GATE 1 — The Bench
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+ALMOST-STOPPED: none
+WHY: The chapter delivered real, bodily female wanting and then made the emotional cost of being seen land brutally. I distrust the plan that’s coming, but I trust the book knows exactly why I distrust it, and I need to meet Vee now.

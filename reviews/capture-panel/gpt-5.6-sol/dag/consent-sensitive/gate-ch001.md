@@ -1,21 +1,20 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~905926aff4b8 · 2026-09-07*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 6f2b38a05b7f · 2026-09-14*
 
-REACTION — Oh. *Oh, that’s Randi.*
+REACTION — Oh. Oh, *Randi*.
 
-I spent nearly the whole scene assuming this was Vee and feeling two things at once: intensely turned on by the patience and care, and increasingly wary of Pace’s certainty that he knows which version of this woman is “real.” The safeword check matters. The physical check-ins matter. His attention afterward matters. But he is also deliberately engineering the point where her polished social self fails, then treating what emerges under extreme arousal and pressure as the truest possible her. “It was not the right *please* yet” made my vigilance snap fully awake. That is such a dangerous conviction—especially in someone this observant, this patient, and this good at making control feel like spaciousness.
+That name drop rearranged the entire chapter under me. I had been reading her as Vee, increasingly uneasy about how thoroughly Pace studies and anticipates her—how she eats the apple, where she hides, what voice counts as “real”—and then suddenly this is the glamorous friend who will help engineer another woman into his path. So before Vee has even arrived, I know exactly what Randi gets from Pace, exactly what he can expose in her, and exactly what she is going to be carrying when she starts “lightly, laughing” steering someone else. That is delicious and awful.
 
-And then the chapter showed me that it knows. Thank God, it knows.
+The bench worked for me. The prolonged waiting worked almost too well. More importantly, her yes felt like hers: she asks him to show her, climbs on, gives the safeword, answers his check-ins, gets irritated when he keeps checking, and unmistakably wants the orgasm he delays. I could surrender to the scene because the danger wasn’t disguised as whether she wanted the physical experience. She did. The danger was that Pace believes consent to the scene means he correctly understands what the scene has revealed—and he absolutely does not.
 
-Randi crying without understanding it, locking the bathroom door, and realizing that the tenderness is more intolerable than the exposure absolutely got me. Pace respects the literal closed door now, but he has no idea she has built another one behind her face while he waits. His aftercare is sincere; her consent was sincere; her pleasure was sincere—and she has still been altered in a way she cannot presently bear. That is exactly the difficult territory the jacket promised, rather than the usual smug “he knows her better than she knows herself” fantasy served without consequences.
+“There you are” scared me much more than the spanking did. His tenderness afterward scared me more still. Not because it was false; I think he means every bit of it. But he decides the broken, begging voice is her authentic self and the polished face is merely concealment. That is such an intimate act of interpretation, and he has no idea she experiences his seeing her as something nearly annihilating. He respects the locked bathroom door, which matters enormously to me, while remaining oblivious to the locked door she rebuilds inside herself. That contradiction has teeth. He has learned one boundary and mistakes that learning for safety.
 
-The reveal also rearranged everything. This polished, frightened woman is apparently going to help Pace construct a seduction for Vee while hiding what he awakened in her. That makes the coming scheme feel less like two cool predators playing with an innocent and more like something potentially desperate, displaced, and emotionally radioactive. I’m already suspicious that Randi’s management of Vee will partly be a way to approach Pace—and her own desire—without ever putting her unguarded self back on that bench. Which is worse, more human, and much more compelling.
+And Randi pressing the bottle-cap edge under her thumbnail—Jesus. That was the point where the heat drained out of the room for me and concern took over. Then her private resolution that he can have the face, “not ever” the woman underneath, while he sits there quietly pleased that he has fed her hunger? Brutal. They end the night holding each other inside two completely incompatible versions of what just happened.
 
-I’m not ready to trust Pace. His belief that he merely “found” and “answered” her hunger is too clean. He created the conditions, controlled the timing, decided which plea counted, and then congratulated himself on discovering something natural and preexisting. But the brutal dramatic irony is that he is not lying about his tenderness. He really believes they shared a beautiful breakthrough while she is lying against him deciding he can never see her again. That hurts in precisely the way I want this book to hurt.
+I trust the darkness so far because I am not being asked to clap for Pace’s insight. I am being allowed to feel how loving, attentive, consensual, and catastrophically wrong his reading can be at the same time. And now I desperately want to know how this wounded, armored Randi becomes the woman who helps choose Vee—and whether she is offering Vee what she secretly wants, using her as a shield, punishing Pace, trying to control the revelation by reproducing it, or all of those at once.
 
-Text to a friend at 1 a.m.: “The opening sex scene is consensual, hot, psychologically terrifying, and IT WAS RANDI THE WHOLE TIME. I fear this book may actually know what it’s doing.”
-
-GATE 1 — The Bench  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “But it was not the right *please* yet. It was still her *please*.”  
-WHY: That line brought me right to the edge because Pace’s confidence in defining her authentic desire is alarming. Randi’s interior aftermath proves the book sees exactly why it is alarming, and now I urgently need to know what she and Pace are about to do to Vee—and to each other.
+GATE 1 — The Bench
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+ALMOST-STOPPED: “He had been watching her eat, and he caught the moment it turned to play, and his hands started to move.”
+WHY: Early on, Pace’s microscopic monitoring briefly made me fear the book might mistake surveillance for perfect romance. It doesn’t: the Randi reveal and her aftermath make the gulf between his attentiveness and his actual knowledge painfully clear. I’m already turning the page.
