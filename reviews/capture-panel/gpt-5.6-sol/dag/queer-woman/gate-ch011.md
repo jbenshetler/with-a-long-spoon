@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~2888278eb31d · 2026-09-10*
 
 REACTION — Oh, this worked on me. The boot scene first—the intimacy of having her sweaty foot uncovered, all that inherited shame arriving for something so ordinary, and then Pace simply fixing the problem without turning her embarrassment into either a joke or an occasion. He notices, helps, and moves on. “He walked at the speed of her not knowing how” is almost indecently tailored to what she needs.
 

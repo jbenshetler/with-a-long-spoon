@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch018 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch018 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~8611b8522702 · 2026-09-10*
 
 REACTION — Okay. I stayed up too late for this one and I'm not sorry. This is the chapter I've been waiting for since the flannel, and it did the thing I keep begging these books to do: it let her want. All of it was hers. She picked the lingerie, she painted the toenails (the frosted plum! matched to the burgundy silk! she doesn't even let herself know why), she knocked him backward through every checkpoint the book had so carefully built — "Will you show me your bedroom?" is her taking the door that he'd been politely holding shut, and the book knows it, and it made me grin.
 

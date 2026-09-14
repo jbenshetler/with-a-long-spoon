@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch010 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch010 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~2ce78e0e23d6 · 2026-09-07*
 
 REACTION — Oh, this is working on me in exactly the dangerous way the jacket promised. I felt Vee light up telling Randi about Pace—especially “May I choose?” because yes, that is the thing I’m here for: she hands him control, he understands it as something entrusted to him, and her relief and pleasure belong completely to her. I love how proud she is that she kissed him. Not that she “gave in,” not that he wore her down. She stopped him after he respected her no and chose him herself. That distinction matters so much to me.
 

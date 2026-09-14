@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch006 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch006 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~1b9cac32f89b · 2026-09-10*
 
 REACTION — Okay, so a few things. One: I stayed up past my own bedtime for a froyo date and I don't even feel cheated, which annoys me, because this chapter is doing something I'm supposed to be on guard against and it's *working*.
 

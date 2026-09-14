@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~b011ff26b790 · 2026-09-07*
 
 REACTION — Oh, Vee. That breathless little *“Me”* got me. She isn’t thrilled only because Pace kissed her; she’s thrilled because he accepted her no so completely that she got to discover her own yes. That is exactly the charge I wanted from this book—her agency isn’t a disclaimer pasted onto the seduction. It’s the thing making the seduction erotic.
 

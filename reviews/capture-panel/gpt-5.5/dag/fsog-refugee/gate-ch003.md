@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch003 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~4ef676bfabab · 2026-09-08*
 
 REACTION — Oh, this chapter did something very sharp to me, because it is the first time the jacket’s promise fully steps into the room: not just Pace and Randi, not just private heat, but the beginning of Vee as an actual chosen person before she knows she’s being chosen. And I hate how much I liked watching it happen.
 

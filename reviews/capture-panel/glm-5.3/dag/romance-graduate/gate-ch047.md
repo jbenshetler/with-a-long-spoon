@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch047 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch047 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~ca7450e92130 · 2026-09-10*
 
 REACTION — God, this chapter. I read the whole thing with my chest tight, lying-in-the-dark next to her, and the book did that thing it does where it takes a "nothing happens" chapter and makes it the loneliest forty minutes of the year.
 

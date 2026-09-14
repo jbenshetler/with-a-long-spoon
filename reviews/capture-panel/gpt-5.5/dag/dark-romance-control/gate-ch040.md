@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch040 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch040 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~1d8fca279859 · 2026-09-11*
 
 REACTION — Oh, this chapter is dangerously soft for me, and yet I did not hate it, which is annoying and revealing. Because yes, this is domestic. It is drawer-space and pizza dough and flannel logistics. Normally I would be edging toward the exit muttering “where is my threat,” but the book has done enough groundwork that all this warmth feels like possession with clean hands. That top drawer is basically a collar in household form. He moved himself down so she could go first. The easy drawer. The one her hand reaches for. That is the kind of domesticity I can be talked into: not “we made soup and communicated,” but “your things have migrated into my life and I rearranged the architecture around you without asking permission.”
 

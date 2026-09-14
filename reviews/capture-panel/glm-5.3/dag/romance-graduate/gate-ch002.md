@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch002 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch002 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~f388da9c70ea · 2026-09-10*
 
 REACTION — Okay, so nothing happens in this chapter, and I still couldn't look away. The whole thing is a walk-and-climb: sorority common room, four minutes of smiling, then a girl alone in a cold room lying on top of her made bed with her shoes still on. And it gutted me more quietly than the bench did loudly.
 

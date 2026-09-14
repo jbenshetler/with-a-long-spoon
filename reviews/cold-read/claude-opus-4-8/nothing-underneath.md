@@ -1,6 +1,6 @@
 # Cold read (grounded) — Nothing Underneath
 
-*scene: scenes/nothing-underneath.md · model: claude-opus-4-8 · memory: ck-ch040 + raw ch041..ch049 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/nothing-underneath.md · model: claude-opus-4-8 · memory: ck-ch040 + raw ch041..ch049 · reader-protocol: v3-grounded-checkpoint · prose-sha ~20ae685f02f3*
 
 ## Reader reaction
 

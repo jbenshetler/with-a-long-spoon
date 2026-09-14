@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~00dbf427b44c · 2026-09-11*
 
 REACTION — Oh, this is the disaster I’ve been waiting for, and it is so much worse because Vee thinks she has just performed honesty.
 

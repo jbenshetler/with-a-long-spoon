@@ -1,6 +1,6 @@
 # Cold read (grounded) — across
 
-*scene: scenes/across.md · model: claude-opus-4-8 · memory: ck-ch050 + raw ch051..ch053 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/across.md · model: claude-opus-4-8 · memory: ck-ch050 + raw ch051..ch053 · reader-protocol: v3-grounded-checkpoint · prose-sha ~c23f4d1deeee*
 
 ## Reader reaction
 

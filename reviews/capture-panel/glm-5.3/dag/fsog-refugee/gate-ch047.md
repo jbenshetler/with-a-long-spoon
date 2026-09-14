@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch047 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch047 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~ca7450e92130 · 2026-09-10*
 
 REACTION — Oh, this one hurt, and it's the good hurt, the kind I stay for. Chapter 46 was Randi's fairytale and now we get the same night from under Vee's flannel sheets, and the book is doing the thing it does best: putting me in the bed with her, inside the spiraling, and not letting me look away.
 

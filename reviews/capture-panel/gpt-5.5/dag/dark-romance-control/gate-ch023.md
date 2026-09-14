@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch023 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch023 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~8aff12752f2e · 2026-09-11*
 
 REACTION — Oh, Randi chapter. Finally. And yes, yes, this is the flavor of her I wanted: not overtly villainous, not snapping her teeth, just sliding into Vee’s ordinary little dorm room and making the whole room feel poor and small and waiting to be upgraded. That opening did something mean and delicious to me, because it’s not just “Randi is glamorous.” It’s that Vee’s own life becomes visible to her under Randi’s gaze. That is power. That is the kind of seduction that doesn’t need to say “come here” because suddenly where you already are isn’t enough.
 

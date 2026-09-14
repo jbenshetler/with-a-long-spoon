@@ -1,36 +1,44 @@
 # Capture panel — queer-woman · jacket
 
-*model: qwen3.8-max-0902 · persona: queer-woman · arm: jacket · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 34f901dcab28 · run: 2026-09-13*
+*model: qwen3.8-max-0902 · persona: queer-woman · arm: jacket · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 34f901dcab28 · run: 2026-09-14*
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 5
 NEXT: 6
-ALMOST-STOPPED: "He was hard. Her hips found the shape of him through her panties and took up a subtle rocking" — not because it's bad writing, but because I felt the chapter settle into its shape and I understood I was going to be here for a long time with a man's hands and a man's patience and a man's gaze, and the specific thing I came here for was nowhere in the room.
-WHY: The prose is genuinely good — attentive, specific, psychologically alive. Randi's relationship to her own face, the performance, the bathroom scene where she puts herself back together — that's real writing about a real person. But this is a long, well-executed M/F scene and I came here for wanting between women. I'm staying because the jacket promised me that wanting and because the craft earns patience, but I'm aware I'm spending patience right now.
+ALMOST-STOPPED: "He had spent the next hour looking at her with the lights up. By the end of that night she had begun to understand that the lights would be on whenever he could manage it, and that there was a way he wanted to look at her that she had not been looked at in before."
+WHY: The prose is genuinely good — attentive, specific, unafraid of stillness. The bathroom mirror scene where Randi decides to go back behind the face is psychologically sharp and I respect it. But I'm a queer reader who came here for wanting between women, and this is a long, well-crafted M/F scene where a man opens a woman up and she cries and he holds her and it's tender and I've read this shape a hundred times. I'm continuing because the jacket promised me the F/F element and the writing has earned one more chapter of trust, but I'm reading with my coat still on.
+
+---
 
 GATE 2 — Standards
 DECISION: CONTINUE
-CAPTURE: 4
-NEXT: 5
-ALMOST-STOPPED: None. The chapter is short enough and quiet enough that I never hit a wall — I was just in it and then it was over.
-WHY: This is honest stillness. The Brooke interrogation is precise — the way authority works through not-standing, the way a question can be a cage even when it's smiling. And the ending, Randi on her bed with her shoes on, not-crying, the held breath that stopped feeling held — that's something I recognize. The book is building her from the inside and I'll sit for that. I'm not gripped, but I'm not being wasted either.
+CAPTURE: 5
+NEXT: 6
+ALMOST-STOPPED: "*He's hard to say no to,* she heard, in her room, in a different key."
+WHY: That line landed wrong with me — not because it's badly written, it's well placed, but because I could feel the coercion narrative arriving and my whole body went *here we go.* The chapter itself is quiet and honest; the sorority interrogation scene is cleanly observed, Brooke conducting power from a seated position, the way Randi's smile is a fraction late. I don't mind stillness when it's doing real work, and this is. But I'm two chapters in and the woman I was promised would want another woman hasn't wanted anyone yet, and the man is still the only engine in the room.
+
+---
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 8
-ALMOST-STOPPED: "Would you like to taste another woman?" — because there it was, the shape I'm most allergic to: a man's mouth opening the door to a woman's wanting for other women. My whole body said *here we go, the install.* But then her body answered before her mind could manage it — she came, hard, just from the question — and the wanting was clearly already there, clearly hers, and the question just let it be seen. That saved it. Barely.
-WHY: This is where the book started earning my actual attention instead of my patience. The pointing game is a smart formal device — it lets Randi look and want and choose while maintaining the cover that it's his game, his gift, his idea. And her taste is *specific*: not the expected ones, not the closed ones, not the performative ones. The open girl on the library steps. The redhead she can't look away from. The wanting is physical and belongs to her and arrives before her social vocabulary can file it. I'm still watching the mechanism warily — Pace is engineering this, the jacket told me so — but the book seems to know what it's doing and the wanting is real.
+NEXT: 7
+ALMOST-STOPPED: "'Go meet her,' Pace said."
+WHY: The wanting is real — I'll give the book that. When Randi's body answers the question before her mind can, when she says "Yes" bare and alone with nothing around it, that's a woman wanting another woman and I felt it land. The pointing game is cleverly constructed and the moment with the redhead is genuinely charged. But "Go meet her" is Pace telling her to go, and the whole architecture is a man drawing out a woman's queerness and aiming it at a target he's selected, and that is the exact shape I have been burned by so many times I can spot it in my sleep. The book knows what it's doing — the jacket is upfront, the narration is self-aware, Pace's internal voice is thoughtful about it — and I give it credit for that. But knowing what you're doing doesn't make it stop being the thing it is. I'm continuing because Vee's bare "Yes" was real and I want to see what happens when she's in the room.
+
+---
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
-ALMOST-STOPPED: "Floozies, Vee thought, the word arriving whole and in her mother's voice" — not because I wanted to leave, but because I felt the book about to do something I've seen too many times: use a woman's internalized shame as the obstacle her desire has to overcome, which is a shape that can get lazy fast. But it didn't get lazy. The second voice came, the wanting stayed, the cardigan stayed, and both were true at once. The book let her be complicated without punishing her for it.
-WHY: This is what I came for and the book knows it. Vee's wanting for Randi arrives exactly the way real wanting arrives — sideways, in the chest, before the mind has a category for it. She can't remember what they talked about. She only has the feeling. The *love you, girl* and the *see you later* and the hand flat on her back. The way Randi exists outside the system every other girl in that coffee shop is performing inside. And Cassie's "goodbye" — flat, finished, the word for a longer parting than a Wednesday. That detail did more work than most books manage in a whole chapter. I'm in. I want the next one right now.
+NEXT: 8
+ALMOST-STOPPED: None.
+WHY: This is the chapter I came for. Vee's wanting is specific and physical and belongs to her — the way she reads the room, the complicated beat with the girls in sports bras where admiration and desire and her mother's voice all arrive at once, the way she looks at Randi and "all of it went quiet." The Chi Latte scene is warm and precise, the Greek sign detail is a small perfect thing, and the fact that she can't remember a single word Randi said because the feeling was the content — that's how attraction actually works, sideways and total, and the book knows it. The Cassie "goodbye" moment is quietly devastating in a way I wasn't expecting. I know the collision was staged. I know Randi was sent. I'm carrying that. But Vee's wanting is hers, and this chapter let her have it without apology, and that's what I've been waiting four chapters for.
+
+---
 
 VERDICT
-WOULD PAY: yes
+WOULD PAY: yes — reluctantly, with my hand half in my pocket and my eyebrows up.
 MAILING LIST: yes
-TELL A FRIEND: Okay so I'm four chapters in and I need you to hear me out because I know how this sounds. It's a book where a man and a woman have a plan to bring a third woman into their thing, and the third woman doesn't know there's a plan. I know. I *know.* I had my armor on. But the writing is genuinely literary — not "good for erotica" literary, actually literary — and the wanting between the women is rendered from the inside with this attention I almost never get. The redhead in chapter four, Vee, wanting Randi without having a name for it yet, keeping only the feeling and losing all the words — that's how it actually works and I've never seen a book do it that precisely. The orchestration thing is still there and I'm still watching it, but the book seems to know exactly what it's doing and I trust it to keep knowing. Also the scene where Randi lies on her bed with her shoes on and doesn't cry and the not-crying doesn't feel like a decision because she's been doing it so long it's structural — I sat with that for a while after.
+TELL A FRIEND: Okay so — the writing is genuinely good, like actually good, the kind where you can tell someone is paying attention to how bodies and rooms and social power actually work. Chapter four, the one from Vee's perspective, is the best thing I've read in a while; the way her wanting arrives, the Chi Latte scene, the fact that she can't remember what they talked about because the feeling ate the words — that's real. I'd read more just for Vee. *But.* The architecture is the thing that makes me want to throw the book across the room even while I'm admiring the sentences. A man decides to draw out a woman's queerness, creates a game to make it safe for her, points at targets, tells her to go. The book knows it's doing this — the jacket literally says "she doesn't know there's a plan" — and it's more self-aware than most, and the wanting IS real, Vee's wanting belongs to Vee. But it's still the shape where a woman's desire for another woman gets routed through a man's permission and a man's design, and I have been reading that shape since I was nineteen and I am tired of it even when it's done well. I'll keep reading because Vee deserves to be in a book and because I want to see if the book earns its way out of the trap it set for itself. But I'm watching.

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch052 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-11*
+*capture-dag-v2-rich · gate ch052 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~2a7718a6147b · 2026-09-11*
 
 REACTION — Oh, this one had me in a very particular way: not the frantic repair of the doorway, but the morning after, when the repair has become a room she can walk around in naked and laughing. I loved her so much here. The way the same “nothing to wear” that was terror last night becomes privilege this morning. Poor thing, no clothes, what can be done. She is discovering that exposure does not have to mean danger. In Pace’s house, nakedness can be ease, play, appetite, power. That is exactly the kind of erotic safety I read for.
 

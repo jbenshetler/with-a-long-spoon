@@ -14,7 +14,7 @@ Vee thinks she’s stepping into an afternoon date. She has no idea she's walkin
 
 I am vibrating. The slow burn is agonizing in the best possible way, but now the door is finally open. Saturday at two. I need to be in that truck with her when she pulls into his driveway.
 
-***
+** · prose-sha ~25b7bedbae77*
 
 GATE 13 — What to Wear
 DECISION: CONTINUE

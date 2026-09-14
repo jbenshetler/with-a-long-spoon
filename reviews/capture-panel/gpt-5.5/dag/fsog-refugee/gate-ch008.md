@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch008 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch008 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~0149553a3cd5 · 2026-09-08*
 
 REACTION — Oh, this one got me exactly where I live.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch023 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch023 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~8aff12752f2e · 2026-09-10*
 
 REACTION — Okay, so Pace is asleep off-page and this whole chapter is Randi, and I finished it with my heart in my throat for two different reasons.
 

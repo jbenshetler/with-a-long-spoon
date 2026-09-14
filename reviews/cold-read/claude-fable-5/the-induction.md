@@ -1,6 +1,6 @@
 # Cold read (grounded) — The Induction
 
-*scene: scenes/the-induction.md · model: claude-fable-5 · memory: ck-ch030 (no window) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/the-induction.md · model: claude-fable-5 · memory: ck-ch030 (no window) · reader-protocol: v3-grounded-checkpoint · prose-sha ~230524645ef4*
 
 ## Reader reaction
 

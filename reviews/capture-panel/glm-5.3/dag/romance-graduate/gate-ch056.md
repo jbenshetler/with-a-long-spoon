@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch056 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch056 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~c23f4d1deeee · 2026-09-11*
 
 REACTION — Okay, I need to talk about the fact that Vee came in a restaurant bathroom to Randi's face. I clocked it the second it happened — "Randi's face arrived behind her eyes" at the exact top, right at the drop — and then the book did the thing this book does, where it handed Vee the same anesthesia Vee handed herself: *because that had been about Pace, obviously. All of it. About Pace.* The "obviously" is doing so much work. The girl promised herself she'd control herself *next time* — she's counting restrooms now, like the polish, like the drawers. She keeps score of her own slippage and files it under something tidy. This book is teaching me to not trust a single one of Vee's tidy explanations and I love it and it's going to destroy me.
 

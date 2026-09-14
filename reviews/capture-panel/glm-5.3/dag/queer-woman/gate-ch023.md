@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch023 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~8aff12752f2e*
 
 *He made it to you.* I had to put the book down after that line. Vee stood in that sun porch and cried over exactly that — the whole fitting, being built onto out of nothing — and she never had the word, and Randi walked into the room and handed it to her in one preposition. That's the thing about Randi that keeps me from being able to hate her even when I want to: the machine and the truest friend in the book are running on the same current. She saw the dress for four seconds and named it better than Vee's own tears could. Who else in this book has ever done that? Nobody. That's the problem and that's the whole book.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~8aff12752f2e · 2026-09-10*
 
 REACTION — Oh, this is the seduction chapter. Not the playful foot touch, although Jesus Christ, Randi kneeling, holding Vee’s foot in both hands, the thumb over the plum-polished nail, Vee grabbing her shoulder because the room actually moves—yes, obviously, absolutely. Vee’s body has stopped pretending even if her vocabulary hasn’t. That “Mm” is not friendship in any country. Randi knows exactly what she did, waits for Vee to feel it, looks up, smiles, and leaves it unnamed. I wanted to bite something.
 

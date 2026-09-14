@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch068 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch068 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~be90efe95687 · 2026-09-11*
 
 REACTION: Two pages. I have literally never read a two-page chapter in my life and I side-eyed it — and then it earned every line. "Do you want some of my Cocoa Pebbles?" might be the best closing beat this book has done. Cassie refusing to take the bait — Vee throwing the years-old "you don't like her" plank down and Cassie just *stepping over it without looking down* — that's the clean-hands friend I've been waiting on, and she's better than I hoped. She didn't ask what happened. She asked *is this what you want* — the exact question Vee can't stand on, and the chapter let me watch her reach for the answer and step back off the edge before she saw its size. That scared me more than the kiss did, honestly. The shape is "close and large." She knows. Some part of her knows, and the book is going to make her stand there eventually.
 

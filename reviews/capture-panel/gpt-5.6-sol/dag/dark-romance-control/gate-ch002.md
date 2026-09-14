@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch002 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
+*capture-dag-v2-rich · gate ch002 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~f388da9c70ea · 2026-09-07*
 
 REACTION — Oh, Randi is *not okay*, and that interests me much more than Pace’s careful, saintly aftercare did. Brooke’s smiling interrogation had teeth: every pleasant little question was a warning that the house is watching, ranking, and recording her. I felt Randi snap back into the face she wears for everyone—and then simply shut down once she was alone. That cold, blank paralysis after being cracked open was ugly in a way I liked.
 

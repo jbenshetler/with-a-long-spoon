@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch004 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch004 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~3a52a74c7617 · 2026-09-10*
 
 REACTION — Oh, this chapter is doing something sneaky and I felt it working on *me* even knowing what I know. The whole Vee side of the coffee hour is written as pure golden warmth — best hour she's had in months, chosen, lit up — and the only corrosion in it is what we bring from chapters one through three. We know Randi walked into her on purpose. We know Pace stood at a light pole and watched the collision get manufactured. So every beat that Vee experiences as luck — *we should sit together*, the latte ordered before she was asked, the hand on her back — reads to me as choreography, and the book absolutely knows it. That's the bargain the blurb made with me and it's honoring it: the reader is ahead of her, falling for the con's machinery while aching for the mark.
 

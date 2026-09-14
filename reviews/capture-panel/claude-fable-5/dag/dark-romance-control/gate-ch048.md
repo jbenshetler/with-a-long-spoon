@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch048 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch048 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~b247f2c75c88 · 2026-09-08*
 
 He walked into that diner deciding not to "bring her down today" and I need everyone to appreciate what that sentence is doing — even his grief gets scheduled. Whatever he carried in from the truck "could keep." Vee is out there in a lavender-plugin bedroom disintegrating at 11:52 p.m. and he's filing her under things that keep. That's my man. That's the exact temperature I read this book at.
 

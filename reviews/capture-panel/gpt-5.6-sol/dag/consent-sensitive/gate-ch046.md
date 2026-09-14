@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~eeeec469236e · 2026-09-11*
 
 REACTION — Oh, Randi. Oh, this explains you without excusing you, which is exactly what I needed.
 

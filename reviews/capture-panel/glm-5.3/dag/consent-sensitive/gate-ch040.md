@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch040 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch040 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~1d8fca279859 · 2026-09-10*
 
 REACTION — God, the flannel shirt. I actually had to put my tea down. That's the most honest thing this book has done in ten chapters — a girl washing the shirt because it stopped smelling like him and having to *say so out loud*, and the little knife-twist of him not asking (he thought she was giving it back — his face doing hurt before puzzlement, and then the warm smile that "costs him something"). "Smelling like me." I'd text my friend that line at 1 a.m. and she'd know exactly why I was wrecked.
 

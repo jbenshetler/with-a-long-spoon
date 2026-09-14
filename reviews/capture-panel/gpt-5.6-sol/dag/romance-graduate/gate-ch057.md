@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch057 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch057 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~b9d0068c9a3c · 2026-09-11*
 
 REACTION — Oh, this is gorgeous and sinister. Pace saying “Vee’s boyfriend” over and over gave me exactly the public claiming I’ve been demanding for her, and I felt every repetition land—but I could not enjoy it innocently because Randi was standing there gripping Vee’s hand hard enough to feel bone while the two people who already know each other performed an introduction for her. That is diabolical. Vee thinks she has finally joined her worlds. In reality, the two people controlling the map have just agreed to pretend they’ve never seen it.
 

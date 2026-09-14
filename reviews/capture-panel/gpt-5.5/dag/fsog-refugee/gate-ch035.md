@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch035 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~3fae9b31dd45 · 2026-09-11*
 
 REACTION —
 

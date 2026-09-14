@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch038 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch038 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~38dcf8e44cd8 · 2026-09-10*
 
 REACTION — Oh, this chapter. This is the quiet-booth kind of dangerous and I ate every second of it, even the parts where nothing "happened," because everything that did happen was Randi's FACE.
 

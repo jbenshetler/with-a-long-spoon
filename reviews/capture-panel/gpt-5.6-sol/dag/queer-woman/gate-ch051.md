@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch051 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch051 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~79b4d57f1ee0 · 2026-09-11*
 
 REACTION — Oh, this got me. The mirror, the shoes going on first because they are almost the only thing, the respectable church coat closing over a body she has deliberately wound tight and left unfinished—I was completely inside her wanting. Especially the moment she looks at the body she has spent years treating as too much and decides to use all of it instead of folding herself smaller. That belongs to Vee. Randi supplied the route, but she did not manufacture what Vee feels in front of that mirror. The pleasure, the nerve, the ridiculous giggle over her polished toes: hers.
 

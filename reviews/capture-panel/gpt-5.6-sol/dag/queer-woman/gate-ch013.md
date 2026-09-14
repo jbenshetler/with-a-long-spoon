@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~25b7bedbae77 · 2026-09-10*
 
 REACTION — Oh, she is gone. Twelve days, no counting required, and one dry little text has turned her entire nervous system toward Saturday. I felt that door open exactly the way she did—and, because I know what waits on the other side of Pace’s doors, I also felt the trapdoor underneath it.
 

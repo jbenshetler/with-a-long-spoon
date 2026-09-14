@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch029 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch029 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~6e62cd46bbc6 · 2026-09-10*
 
 REACTION — Oh, this chapter. This chapter did the thing I've been waiting twenty-nine chapters for, and it did it in a *kitchen*, over dishwater, by accident.
 

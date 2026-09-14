@@ -1,6 +1,6 @@
 # Cold read (grounded) — missed-a-spot
 
-*scene: scenes/missed-a-spot.md · model: glm-5.3-flash · memory: ck-ch050 (no window) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/missed-a-spot.md · model: glm-5.3-flash · memory: ck-ch050 (no window) · reader-protocol: v3-grounded-checkpoint · prose-sha ~ec1574909bf3*
 
 ## Reader reaction
 

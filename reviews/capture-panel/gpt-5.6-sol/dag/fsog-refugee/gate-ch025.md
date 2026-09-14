@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~178a1c64010d · 2026-09-11*
 
 REACTION — Oh, this got me. Not because anything conventionally dramatic happened, but because they sat half-dressed under a quilt and let each other become people. His hand simply holding her breast while he listens to her talk about casseroles and unopened saffron—yes. That is exactly the warmth I want alongside the sex. Her body is not a performance he switches on and off; it is part of the ordinary tenderness between them.
 

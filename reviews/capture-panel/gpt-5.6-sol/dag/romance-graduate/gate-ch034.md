@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~702b7231d0c3 · 2026-09-10*
 
 REACTION — Oh, Randi knows. She absolutely knows. “Sticky fingers?” was a knife slipped in so delicately Vee still thanked her for the door afterward. And I am losing my mind over the fact that Randi can make her flee a public table to touch herself, apparently identify exactly what happened, then meet her terror with pastries, best-friend devotion, and that soft practiced kiss. This woman could weaponize a brunch napkin.
 

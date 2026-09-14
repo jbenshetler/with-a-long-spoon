@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~25b7bedbae77 · 2026-09-07*
 
 REACTION — Oh, I loved getting Vee in a room with ordinary girlfriends who aren’t managing her. This is the first time she’s been able to turn Pace into a story, embellish it a little, blush over it, and enjoy being the girl everyone crowds around. After so much secrecy and orchestration, that felt wonderfully normal. And “They’re all nice until you don’t want them and then they’re wonderful” made me laugh because yes, exactly.
 

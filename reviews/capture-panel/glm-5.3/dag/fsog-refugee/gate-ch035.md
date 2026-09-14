@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch035 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch035 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~3fae9b31dd45 · 2026-09-10*
 
 REACTION — I had to put the book down after the drawer. Not because anything went wrong — because everything went right, and I needed a second with my hand over my mouth before I could go on.
 

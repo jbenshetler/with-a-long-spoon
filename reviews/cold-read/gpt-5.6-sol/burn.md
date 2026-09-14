@@ -1,6 +1,6 @@
 # Cold read (grounded) — Burn
 
-*scene: scenes/burn.md · model: gpt-5.6-sol · memory: ck-ch050 + raw ch051..ch054 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/burn.md · model: gpt-5.6-sol · memory: ck-ch050 + raw ch051..ch054 · reader-protocol: v3-grounded-checkpoint · prose-sha ~2db97916f454*
 
 ## Reader reaction
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch051 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
+*capture-dag-v2-rich · gate ch051 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~79b4d57f1ee0 · 2026-09-11*
 
 REACTION — Oh, this got me. The mirror, the heels, the respectable coat over a body she has finally stopped apologizing for—yes. Vee looking at herself and finding *ready* where she used to find shame was exactly the awakening I came for, and it was hot because it belonged to her before Pace ever opened the door. Stopping herself short and carrying all that wanting to him felt like a real act of appetite, not generic lingerie-pageantry.
 

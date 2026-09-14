@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~8429b6ba440f · 2026-09-10*
 
 REACTION — Oh, Randi. “You’re not caught, sweetheart. You’re lucky” made my whole stomach turn over, because Vee is caught. Not by her desire for Pace—that part is hers, gloriously hers—but by Randi sitting there with privileged knowledge, asking questions whose answers she already knows and then handing Vee an interpretation designed to make the entire arrangement feel safe. It is such a beautiful thing to tell a frightened woman who has fallen hard. It would be exactly the right thing if it came from an honest friend. From Randi, it is reassurance laid over a trap.
 

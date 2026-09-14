@@ -1,6 +1,6 @@
 # Cold read (grounded) — A Round
 
-*scene: scenes/a-round.md · model: claude-sonnet-5 · memory: ck-ch010 + raw ch011..ch014 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/a-round.md · model: claude-sonnet-5 · memory: ck-ch010 + raw ch011..ch014 · reader-protocol: v3-grounded-checkpoint · prose-sha ~0fa46dabab51*
 
 ## Reader reaction
 

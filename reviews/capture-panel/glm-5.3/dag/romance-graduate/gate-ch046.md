@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch046 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch046 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~eeeec469236e · 2026-09-10*
 
 REACTION — She walked out the door and I turned the page and we're in GSTAAD? My first reaction was pure rage — you cannot leave me on Pace saying just her name and her walking into the cold and then hand me a ski lift. That's a cruelty. I actually said "oh, come ON" out loud.
 

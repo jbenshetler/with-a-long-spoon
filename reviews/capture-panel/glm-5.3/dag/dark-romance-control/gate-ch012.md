@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch012 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch012 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~578546d8a374 · 2026-09-10*
 
 REACTION — Okay so this is a whole chapter of Vee telling Cassie about the hike, which on paper is the exact thing my shelf-avoidance list warns me about: two girls in a dorm room, no knife, no scene, just recap. And I'm annoyed at myself for how much I liked it anyway.
 

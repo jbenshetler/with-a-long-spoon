@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch008 · claude-opus-4-8 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch008 · claude-opus-4-8 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~0149553a3cd5 · 2026-09-07*
 
 REACTION
 

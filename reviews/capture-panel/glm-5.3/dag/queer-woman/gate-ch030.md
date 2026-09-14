@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch030 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
 
-**REACTION —**
+**REACTION —* · prose-sha ~5274d9c5fd04*
 
 That professor. "The second kind comes in through the part that carries forward. It's in everything that comes after." I actually laughed, alone, in my chair — the book putting its hand on the scale and showing me the hand at the same time. The swat is in everything that comes after now, and so is Randi, and the lecture is about both of them, and Vee copies the word into her notebook without reading it. Fine. I'm a mark, but I'm an *informed* mark.
 

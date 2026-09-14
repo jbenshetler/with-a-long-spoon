@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch055 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-11*
+*capture-dag-v2-rich · gate ch055 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~213059ecdcb4 · 2026-09-11*
 
 REACTION — This is a hot chocolate after a feast, and I drank it happily. Nothing "happens," and yet I sat there grinning the whole time because the thing under it is Vee *owning her own story now.* "I flashed him on his front porch" — she tells it as a crime she committed on purpose, with a smile over the mimosa, and there's zero shame left in the telling. Do you know what that is, after fifty chapters of that girl swallowing her own appetite? She took the thing her mother's voice would have called slutty and made it a punchline she gets to deliver. The coat, the heels, the nothing underneath — it's hers now, an anecdote for her girls over eggs. That's the whole arc of the book in one brunch table.
 

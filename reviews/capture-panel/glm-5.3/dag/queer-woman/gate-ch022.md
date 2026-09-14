@@ -8,7 +8,7 @@ But the chapter's real gut-punch is Cassie, and it's so quiet I almost missed it
 
 And the last line! The dress "still shown to not one living soul." Vee held it back. The finished dress — the triumph — and she didn't give them the afternoon, the slit, the underwear left on the chair, the ridiculous relay of it. That's hers. First real withholding from the booth, and the book ended on it like it knows. I texted a friend at one a.m. equivalent: "the dress is a state secret now and the statistician explained the ending of the book to me by accident."
 
-**GATE 22 — All Told**
+**GATE 22 — All Told* · prose-sha ~b727880313ed*
 DECISION: CONTINUE
 CAPTURE: 7
 ALMOST-STOPPED: none

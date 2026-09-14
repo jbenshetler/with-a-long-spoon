@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch038 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch038 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~38dcf8e44cd8 · 2026-09-11*
 
 REACTION — Oh, Vee. She is in love with both of them now. She can call Pace love in the privacy of her own head, but with Randi she still calls it friendship while counting the days between their private Saturdays and waiting all week for the goodbye kiss. That last kiss matters enormously: this time Vee followed her. She noticed what she was doing, knew she wanted another second, and chose it. Finally. Her desire for Randi is no longer only her body betraying her in bathrooms. She may not have named it, but that second belonged to her.
 

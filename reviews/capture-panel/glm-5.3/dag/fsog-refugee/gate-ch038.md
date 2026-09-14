@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch038 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch038 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~38dcf8e44cd8 · 2026-09-10*
 
 REACTION — That chapter took me somewhere I wasn't ready for in the middle of a brunch. Vee finally saying it all out loud — "the amount of it," the sex brain, "am I turning into some kind of sex pervert" — and Randi answering "you're just finally hungry out loud, you've been starving your whole life and calling it fine"… I had to put the book down for a second. That's the most loving thing anyone has said to Vee in this whole book, and it came out of the mouth of the woman running the con on her, and the terrible thing is I don't think Randi was performing it. That's the part that wrecks me. The machine is real now. Everything true Vee has ever needed to hear is coming from both of her people at once, and one of them started this as a game.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch049 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~c1f15218cc12 · 2026-09-11*
 
 REACTION — Oh. Finally. Finally the book turns the light all the way onto Pace and lets me see the machinery inside his silence, and I am relieved in a way that makes me more angry at him, not less.
 

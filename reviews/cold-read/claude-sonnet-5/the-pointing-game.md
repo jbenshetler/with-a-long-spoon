@@ -1,6 +1,6 @@
 # Cold read (grounded) — The Pointing Game
 
-*scene: scenes/the-pointing-game.md · model: claude-sonnet-5 · memory: raw ch001..ch002 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/the-pointing-game.md · model: claude-sonnet-5 · memory: raw ch001..ch002 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint · prose-sha ~1daf1ad43371*
 
 ## Reader reaction
 

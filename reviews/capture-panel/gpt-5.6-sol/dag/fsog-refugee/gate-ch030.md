@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch030 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch030 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~5274d9c5fd04 · 2026-09-11*
 
 REACTION — Oh, Randi knows exactly what she is doing, and I am furious because it is working on me almost as efficiently as it works on Vee.
 

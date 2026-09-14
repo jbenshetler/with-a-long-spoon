@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch028 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~630e5e2d2504*
 
 A whole chapter on a bicycle, and it did more to me than some of the sex scenes. Because this is Pace off-stage — Pace with his own Randi, basically, a Sheri who reads him like a barometer and calls him out mid-ride: *Listen to you.* And he doesn't even hear it. He's so far gone he doesn't recognize his own voice going on about the walnut chair and the book that burned her. That involuntary hand again — the only proof of him I trust, and here it is on a cold road, talking about a thumb on a chair joint without being asked. I put my face in my hands. He's not running the plan anymore; the plan is running *him*, and I think that's the thing the jacket promised: "as true for the two who started it."
 

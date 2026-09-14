@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch057 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-11*
+*capture-dag-v2-rich · gate ch057 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~b9d0068c9a3c · 2026-09-11*
 
 REACTION — "Vee's boyfriend." Six times. He said it six times, flat, like a man handing out a business card, and I cried at the third one, actual tears, sitting on my couch with my tea. She walked out of that house in December rather than take the hand instead of the word — "words are cheap, and you still won't spend them on me" — and he heard her. He didn't say it to *her*, that's the delicacy of it, he said it to everyone *around* her, publicly, where it costs a proud man the most, and he spent the word she needed like it was nothing. And she stood at the buffet trying it on with her own mouth and made herself stop before anybody saw. I made myself stop too, mostly.
 

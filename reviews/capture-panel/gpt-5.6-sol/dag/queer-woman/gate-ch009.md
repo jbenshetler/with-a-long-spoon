@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~b011ff26b790 · 2026-09-10*
 
 REACTION — Oh, thank you. I needed Vee to say it that plainly: “Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose.” Not because that settles everything the jacket has warned me about—it absolutely does not—but because her wanting is unmistakably hers. Pace made room, and she crossed the room herself. That distinction matters enormously to me, and the little full-body spin afterward got me. She’s so delighted by her own nerve.
 

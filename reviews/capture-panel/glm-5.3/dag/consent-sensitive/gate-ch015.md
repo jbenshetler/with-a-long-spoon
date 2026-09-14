@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch015 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch015 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~13cbb0faa7b7 · 2026-09-10*
 
 REACTION — Okay. I had to put the book down twice in this chapter and both times it was because of Vee's interiority, not the skin.
 

@@ -1,6 +1,6 @@
 # Cold read (grounded) — On Her Floor
 
-*scene: scenes/on-her-floor.md · model: gpt-5.6-sol · memory: ck-ch050 + raw ch051..ch055 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/on-her-floor.md · model: gpt-5.6-sol · memory: ck-ch050 + raw ch051..ch055 · reader-protocol: v3-grounded-checkpoint · prose-sha ~00dbf427b44c*
 
 ## Reader reaction
 

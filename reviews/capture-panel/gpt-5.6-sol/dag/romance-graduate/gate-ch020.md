@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~8429b6ba440f · 2026-09-10*
 
 REACTION — Oh, this is so much worse than Randi merely fishing for sexy details. She is teaching Vee how to narrate her own desire—and because the lesson is true, because Vee *did* prepare and choose and take what she wanted, it feels like liberation instead of extraction. “Why are you telling me like it’s a confession?” followed by that perfect, approving “Good” went straight through me. Randi knows exactly which knot to loosen. She is giving Vee a language her mother never gave her, and Vee has no idea the woman handing it over helped arrange the experience she is now interpreting.
 

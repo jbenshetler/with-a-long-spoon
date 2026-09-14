@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch051 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch051 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~79b4d57f1ee0 · 2026-09-11*
 
 REACTION — Okay. I made it through the doorway scene with actual tears in my eyes and I need to talk about the pancakes before I can be sensible about anything else, because the pancakes are the whole chapter. The entire book has been running on the cracker-and-meal motif — "I had been eating crackers my whole life, and you fed me a meal" — and he makes her FOOD. By hand. At midnight. Without looking at the measuring. And she says, out loud, "I haven't eaten anything real since the last time you cooked for me," and the book knows she's not talking about food, and I know she's not talking about food, and I put the book down for a second because that's the motif retired and then resurrected as a LIVING thing instead of a speech. That's the kind of writing I'm staying up past midnight for.
 

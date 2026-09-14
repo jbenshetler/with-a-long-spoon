@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~6b85b74f7cb8 · 2026-09-10*
 
 REACTION — Oh, Vee telling Cassie “I was on a box” three separate times because the box is somehow the crucial, deranging fact. Yes, darling, we understand. You were elevated. You liked being elevated. You liked him on his knees. This is excellent news about you.
 

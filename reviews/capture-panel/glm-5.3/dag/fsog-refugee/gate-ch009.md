@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch009 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch009 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~b011ff26b790 · 2026-09-10*
 
 REACTION — Okay, this chapter is basically pure warm afterglow, and I don't even mind that nothing "happens." Vee bouncing off the walls because *she* chose the kiss — spinning in the room, "look at me" — that's the whole thing I'm here for. After chapters of watching Randi not be allowed to want things, being inside a girl who gets to be this delighted about her own agency is like a glass of cold water. She said it herself, out loud: "Nobody did anything to me. I did it because I wanted to and I did it on purpose." That line felt almost like the book talking to me directly.
 

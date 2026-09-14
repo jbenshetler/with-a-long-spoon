@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch043 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch043 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~2a7036ffc678 · 2026-09-10*
 
 REACTION — Okay, this chapter put its whole weight on the one nerve the book has been building for forty chapters, and it didn't flinch. Vee finally, FINALLY poked at the name problem out loud — "if we're just sex, I'd like to know" — and what I love is that she does it badly. Too loud, wrong size for the room, an edge she didn't mean to put on it. That's so true to how that actually goes. You rehearse nothing and the insecurity comes out at daycare-volume in the dark and you can't take it back.
 

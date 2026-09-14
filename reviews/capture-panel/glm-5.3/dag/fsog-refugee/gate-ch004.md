@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch004 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch004 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~3a52a74c7617 · 2026-09-10*
 
 REACTION — Okay, this chapter made me feel two things at once and they don't sit together comfortably. On the surface it's the sweetest chapter so far — Vee at Chi Latte, finally let inside the joke on the sign, chosen, glowing — and Rivers writes that giddiness so well that I felt it, the way the words don't stay because the *feeling* is the whole content. I've BEEN that girl walking home the long way holding an empty cup. That's exactly what falling for someone's orbit feels like from inside, and the fact that I couldn't reconstruct the conversation either made it land hard.
 

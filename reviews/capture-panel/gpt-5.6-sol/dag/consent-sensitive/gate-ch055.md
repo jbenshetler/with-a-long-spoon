@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~213059ecdcb4 · 2026-09-12*
 
 REACTION — Oh, Vee. “We talked all night” made my stomach drop, because they absolutely did not. They fucked, he fed her, he said he missed her, and she felt so relieved that she stopped needing the unanswered answer. Now she has converted that relief into a conversation in her own memory. The lie is not primarily for Kayla and Meg; it is the story Vee needs to live inside.
 

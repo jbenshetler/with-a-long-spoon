@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch021 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~0894d4db7f65*
 
 Okay. I had to put the book down twice in this chapter — once because I was laughing too hard, and once because of the screw heads. "Newly hung, the screw heads still bright." That's this man in one image: he hangs a mirror for her and the book lets me see the fresh screws, so I know he did it *recently*, *for this*, and she'll never ask. He takes all the trouble and then takes the further trouble to hide the trouble. That line wrecked me. That's love the way I actually believe in it — effort made invisible so the gift looks effortless.
 

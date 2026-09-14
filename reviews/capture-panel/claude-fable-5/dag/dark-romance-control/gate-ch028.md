@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch028 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
 
-**REACTION**
+**REACTION* · prose-sha ~630e5e2d2504*
 
 Okay, first: a Pace POV chapter that is three pages long and I still read it twice, because Rivers finally handed me the thing I've been screaming for since chapter one — an outside witness. Somebody who knows him, who has no stake in the game, who can look at him and say *listen to you*. And what does the witness see? A man who starts talking about the walnut chair and the math book and the thumb on the grain and CANNOT STOP. "He heard himself going and didn't stop." Pace — the man whose entire technology is silence, who lets other people's yeses walk into the room on their own legs — ran his mouth like a teenager on a bike ride. That's my confirmation. That's the jacket promise ("as true for the two who started it") getting notarized by a third party. The game is biting its maker and now it's on the record.
 

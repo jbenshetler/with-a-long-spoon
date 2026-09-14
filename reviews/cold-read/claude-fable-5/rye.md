@@ -1,6 +1,6 @@
 # Cold read (grounded) — Rye
 
-*scene: scenes/rye.md · model: claude-fable-5 · memory: ck-ch010 + raw ch011..ch011 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/rye.md · model: claude-fable-5 · memory: ck-ch010 + raw ch011..ch011 · reader-protocol: v3-grounded-checkpoint · prose-sha ~578546d8a374*
 
 ## Reader reaction
 

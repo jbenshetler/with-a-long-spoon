@@ -16,7 +16,7 @@ Not the European cheek graze. The hand on the jaw. The press, the pull-back, and
 
 The prose is just singing right now. It's so taut, every tiny physical movement carries ten pounds of subtext, and the danger is ratcheting up to an agonizing degree. I need the next chapter immediately.
 
-***
+** · prose-sha ~d92de80cac99*
 
 GATE 17 — How It's Done
 DECISION: CONTINUE

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~0149553a3cd5 · 2026-09-10*
 
 REACTION — Oh, this got me. The food did it more than the kiss, honestly: Vee discovering that she can be hungry without immediately standing outside herself and supervising the hunger. “It kept going down and down into something that had been empty a lot longer than since noon” is devastating. I know Pace is choosing this experience with unnerving precision, but the appetite is unmistakably hers. He isn’t installing it. He gives her room, and she fills it.
 

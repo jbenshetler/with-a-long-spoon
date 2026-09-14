@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch020 · claude-fable-5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch020 · claude-fable-5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~8429b6ba440f · 2026-09-08*
 
 The debrief chapter. Of course there's a debrief chapter — the jacket promised me "lunches too intimate to name" and now I finally get to sit in one KNOWING what I know, and it's so much worse and so much better than I wanted.
 

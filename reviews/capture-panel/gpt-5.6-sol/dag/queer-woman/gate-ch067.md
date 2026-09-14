@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch067 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch067 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~b11de8d9a5ce · 2026-09-11*
 
 REACTION — Oh, Vee. This is the chapter where wanting stops being a series of incidents and becomes a condition she is living in. She can fuck Pace all weekend, initiate twice, be full of him, and still lie awake with her hand held rigidly on her stomach because she knows exactly whose name will arrive if it moves lower. That hurts, but it also matters enormously to me: nobody has put this desire in her. Nobody is even in the room. Her refusal to touch herself is practically an admission made in negative space.
 

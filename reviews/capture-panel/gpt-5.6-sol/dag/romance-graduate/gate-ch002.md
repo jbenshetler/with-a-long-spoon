@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch002 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch002 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~f388da9c70ea · 2026-09-07*
 
 REACTION — Oh, Brooke is terrifying. Not because she’s openly cruel, but because every question comes wrapped in warmth and plausible concern, and every answer quietly tells Randi where Pace sits in the hierarchy. The pickup, the name, the possibility that he merely teaches, the little “short-cute” box they put him in—I felt Randi helping them diminish him because protecting him would reveal how much he matters. After what happened on that bench, hearing her call him “cute” hurt.
 

@@ -1,6 +1,6 @@
 # Cold read (grounded) — Turned Up
 
-*scene: scenes/turned-up.md · model: gpt-5.6-sol · memory: ck-ch010 + raw ch011..ch015 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/turned-up.md · model: gpt-5.6-sol · memory: ck-ch010 + raw ch011..ch015 · reader-protocol: v3-grounded-checkpoint · prose-sha ~6b85b74f7cb8*
 
 ## Reader reaction
 

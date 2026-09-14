@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~b0e38f522c99 · 2026-09-07*
 
 REACTION — Oh, Cassie. I was already afraid the book was going to leave her behind as the dour friend who instinctively distrusts the glamorous new arrival, and instead it gives me this: she knows exactly when Vee needs defending, exactly when she needs watching, and exactly when she needs to be splashed in the face rather than questioned. “Asking was for people who wanted the sad version to get bigger” got me. Cassie’s care has no performance in it. She doesn’t make Vee’s vulnerability into an opportunity to become important to her.
 

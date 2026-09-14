@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~78023057031c · 2026-09-11*
 
 Oh, this got me, and then it made me furious for getting me.
 

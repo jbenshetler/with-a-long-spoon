@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch008 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~0149553a3cd5*
 
 God. The food chapter. I mean it's not the food chapter, it's the seduction chapter, but the whole thing runs on appetite and the book knows it — the hollow that "had been empty a lot longer than since noon." That line went through me. That's the thing most books about a hungry young woman never get right, the way the hunger isn't about food and is entirely about food, the way a girl raised on "that's plenty, that's enough now" stops hearing the voice for one dinner and doesn't notice she's stopped noticing. Vee eating without watching herself eat, and the not-watching being the actual intimacy of the scene — I've read whole novels about disordered eating that never landed that. And I clocked the rhyme immediately: the apple slices in chapter one, thin, cut sides up, laid out for Randi because she eats them faster that way. This is the same man feeding the same hunger in two different girls, and the book isn't hiding that. It's showing me the method. Pace found Randi's appetite with a bench and Vee's with baba ghanoush, and I can't decide if that's tenderness or taxidermy, and I think the book wants me unable to decide. That's a good sign. I'm suspicious, but I'm suspicious *at* the book, not *of* it.
 

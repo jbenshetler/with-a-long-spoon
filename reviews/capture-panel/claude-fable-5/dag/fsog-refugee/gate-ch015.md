@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch015 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch015 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~13cbb0faa7b7 · 2026-09-08*
 
 She got up on the box. I've been dreading and craving this house since chapter 10 — I thought the bench was waiting for her, and instead the book handed me a *riser*. Which he built. Of course he built it. A new piece of furniture with a woman standing on it, and I spent the whole chapter with the bench from chapter 1 superimposed underneath it like a watermark. Randi begged on his furniture and re-armored forever. Vee stood on his furniture and came *down out of* her armor. Same man, same hands, same house — opposite outcomes. I don't think that's an accident and it's making me a little crazy, in the good way.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch049 · claude-opus-4-8 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch049 · claude-opus-4-8 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~c1f15218cc12 · 2026-09-11*
 
 REACTION
 

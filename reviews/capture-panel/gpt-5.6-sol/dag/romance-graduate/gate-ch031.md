@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch031 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch031 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~230524645ef4 · 2026-09-10*
 
 REACTION — Oh, she did it. She actually gave herself the entrance she’d imagined—not by arriving late and making everyone wait for her, but by changing one careful step into one long one. That got me. The choice is tiny from outside and enormous inside: she could mince across safely, then decides the room may have her leg all the way to the hip. And her body answers her decision with heat. Pride and arousal becoming the same current is exactly the awakening I wanted for her.
 

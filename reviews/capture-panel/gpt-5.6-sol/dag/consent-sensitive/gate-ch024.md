@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~0b647a05ad40 · 2026-09-11*
 
 REACTION — Oh. Oh, that lying little detail.
 

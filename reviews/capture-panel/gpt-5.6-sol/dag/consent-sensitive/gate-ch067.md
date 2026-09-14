@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch067 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch067 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~b11de8d9a5ce · 2026-09-12*
 
 REACTION — Oh, Vee. The fact that she keeps reaching for Pace not because she wants *him* in those moments, but because she wants him to extinguish what she feels for Randi, is awful in the most painfully recognizable way. She can have as much sex as her body can hold and still come away unfilled, because this is no longer displaced arousal. She knows where the wanting goes now. She just refuses to let herself finish the sentence.
 

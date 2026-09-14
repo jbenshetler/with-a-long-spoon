@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~6e62cd46bbc6 · 2026-09-11*
 
 Oh, this got me. The heels making her taller, her instant horror that she had somehow insulted him again, and Pace answering by making her height into something divine—I actually had to stop there. He does this thing I’m helpless for: he sees the exact place where she is about to make herself smaller and refuses to let her. “Leave them on” could have been an order that diminished her; instead it restored her.
 

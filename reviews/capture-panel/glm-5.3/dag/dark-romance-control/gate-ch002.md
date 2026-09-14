@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch002 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch002 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~f388da9c70ea · 2026-09-10*
 
 REACTION — Okay so I need to talk about the end of chapter one first because I'm still not over it: "There you are, *Randi*." The woman on the bench is RANDI. The glamorous friend from the blurb — the one who's supposedly steering poor Vee toward Pace — is the one Pace broke open on that bench first. Which means the blurb just rewrote itself in my head. The "game between the two people now closest to her" isn't two predators toying with a mark; it's two people who already had something REAL happen to them, and the pitch of the whole book just dropped into a register I did not expect. The con is going to be haunted. I'm feral about this.
 

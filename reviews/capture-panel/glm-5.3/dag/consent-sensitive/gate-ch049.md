@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch049 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~c1f15218cc12*
 
 Oh, this chapter. I've been waiting for the inside of him since the fight — the one door the book kept shut — and instead of a manipulation manual I got a man eating prison food because the woman he loves told him what he already knew and he was too frightened to say it back.
 

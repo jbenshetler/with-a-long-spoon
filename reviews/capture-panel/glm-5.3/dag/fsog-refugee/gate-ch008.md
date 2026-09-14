@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch008 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch008 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~0149553a3cd5 · 2026-09-10*
 
 The hand-holding broke me a little. "Less like something beginning than something resolving" — that's exactly the feeling I read this whole genre chasing and almost never get handed, and here it is over a *hand*, over nothing, and it lands because everything before it earned it. The whole dinner is the slowest seduction and nobody touches anyone. He feeds her — no, he doesn't even feed her, he *chooses for her when she asks him to*, and the asking is the point. "May I choose" — the same man who says "may I call you," "may I choose," who asked for the pencil with his eyes. The manners aren't a costume, they're the whole architecture of him, and Vee feels it in her body before she can name it, which is precisely where I like feeling it.
 

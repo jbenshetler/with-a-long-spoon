@@ -14,7 +14,7 @@ Now the truck. The flannel.
 
 He gave her his only dry shirt — the one he packed for himself because he has no house to go home to up here — and then he *got out of the truck and stood in the rain with his back to her* so she could change without being seen. Didn't announce it. Didn't say "I'll give you privacy" in the voice men use when they want credit for privacy. Just took the rain. And she sat there and worked it out — his shirt, and then the truck, both — and this is the part where I put the book down for a second, because what happened next is the whole reason I read this genre and almost never get it:
 
-*She called him back in to watch.*
+*She called him back in to watch. · prose-sha ~2888278eb31d*
 
 His restraint didn't shut the door on her desire. It handed her the door. His absence, his turned back, his not-taking — that's what made her want to be seen. She knelt up on that bench and knocked on the window and crooked her finger, and then she unbuttoned her shirt with her eyes ON HIS, and he *stayed where she put them*. "Because she'd put them there." He didn't lean in. He didn't lift a hand. He received it. The want and the gladness and the stillness — and it was HER show, every button of it, her mother's voice turning to heat in her own hands, *floozy* becoming fuel instead of a leash. This is the most erotic scene in the book so far and nobody touched anybody. I'm a little undone about it, honestly. This is what I meant, all those years of saying "I want the heat WITH the consent" and being told those are opposites. They're not opposites. They're this truck.
 

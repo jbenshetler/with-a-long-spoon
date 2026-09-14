@@ -1,6 +1,6 @@
 # Cold read (grounded) — forbidden-kiss
 
-*scene: scenes/forbidden-kiss.md · model: gpt-5.6-sol · memory: ck-ch050 (no window) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/forbidden-kiss.md · model: gpt-5.6-sol · memory: ck-ch050 (no window) · reader-protocol: v3-grounded-checkpoint · prose-sha ~ec1574909bf3*
 
 ## Reader reaction
 

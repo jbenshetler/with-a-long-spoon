@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch046 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~eeeec469236e*
 
 Oh, this book. *This book.* I said in my notes the Randi bill was coming and would be the cruelest chapter and the tenderest at once, and here it is, and it's worse and better than I braced for, because it's not the bill yet — it's Randi alone in Gstaad getting shown exactly what her whole armored life has on offer, and it's *nothing*, and she knows it, and she goes back to the nothing anyway.
 

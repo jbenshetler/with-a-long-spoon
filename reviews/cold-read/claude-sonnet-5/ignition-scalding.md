@@ -1,6 +1,6 @@
 # Cold read (grounded) — Ignition — The Arrangement / After She Leaves
 
-*scene: scenes/ignition-scalding.md · model: claude-sonnet-5 · memory: ck-ch050 + raw ch051..ch065 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/ignition-scalding.md · model: claude-sonnet-5 · memory: ck-ch050 + raw ch051..ch065 · reader-protocol: v3-grounded-checkpoint · prose-sha ~9795c4fdf100*
 
 ## Reader reaction
 

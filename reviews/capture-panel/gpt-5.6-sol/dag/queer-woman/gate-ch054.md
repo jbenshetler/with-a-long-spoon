@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~bb2635a8b1b0 · 2026-09-11*
 
 REACTION — Oh, Vee. “We talked.” No, you absolutely did not.
 

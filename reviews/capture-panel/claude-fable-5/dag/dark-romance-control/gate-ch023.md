@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch023 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch023 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~8aff12752f2e · 2026-09-08*
 
 Okay. OKAY. Twenty-two chapters of Pace getting all the seduction set pieces and Randi finally gets a whole chapter to run her own operation, and it is EXACTLY the same machine and I am feral about it.
 

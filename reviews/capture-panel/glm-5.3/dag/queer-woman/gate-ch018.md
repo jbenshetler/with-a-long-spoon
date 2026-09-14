@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch018 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch018 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~8611b8522702 · 2026-09-10*
 
 REACTION — Okay. It finally happened and I need to talk to someone, so it's you, 1 a.m. notebook.
 

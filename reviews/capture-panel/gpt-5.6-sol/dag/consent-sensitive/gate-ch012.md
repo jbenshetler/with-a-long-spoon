@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~578546d8a374 · 2026-09-07*
 
 REACTION — Oh, Cassie. Thank God for Cassie.
 

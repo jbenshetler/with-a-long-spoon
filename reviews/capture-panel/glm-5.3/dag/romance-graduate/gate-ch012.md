@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch012 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch012 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~578546d8a374 · 2026-09-10*
 
 REACTION — Okay, the truck scene last chapter wrecked me, and this one is the exhale — Vee telling Cassie, and Cassie *getting it right*. That's the thing: Cassie is the only person who loves Vee without an agenda, and this chapter is her doing exactly that. "I had your blood type" made me snort, and then "Vee," said soft, "like setting something down where it wouldn't break" — that's the sentence I'd underline. Cassie saw the whole thing correctly: this is huge, Vee did it on purpose, and nobody's allowed to make it small. "Borrow real boots next time. / I'm keeping the shirt. / Keep the shirt." That's the whole relationship in three lines. Dry love. My canary, still sharp, still kind, and still not being told anything.
 

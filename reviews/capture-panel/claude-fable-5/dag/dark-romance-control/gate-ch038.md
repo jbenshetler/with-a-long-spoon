@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch038 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch038 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~38dcf8e44cd8 · 2026-09-08*
 
 REACTION
 

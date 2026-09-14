@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~2888278eb31d · 2026-09-07*
 
 REACTION — Oh, this got me. The shirt scene got me badly—not merely because it’s hot, though yes, absolutely, Vee deliberately holding his gaze while she unbuttons that wet shirt is scorching. It’s because Pace genuinely does not know what she is inviting him back into. For once, I can see the uncertainty on his side. She stages the moment, commands his eyes, decides what he may see, and then watches him understand. The shame voice is still inside her, but she turns it into fuel rather than letting it make the decision. That feels like an awakening she owns.
 

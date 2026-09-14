@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch014 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch014 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~67e76ab36d89 · 2026-09-10*
 
 REACTION — Okay. I need a minute.
 

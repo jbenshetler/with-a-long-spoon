@@ -1,6 +1,6 @@
 # Cold read (grounded) — Two Towels
 
-*scene: scenes/two-towels.md · model: claude-opus-4-8 · memory: ck-ch010 + raw ch011..ch013 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/two-towels.md · model: claude-opus-4-8 · memory: ck-ch010 + raw ch011..ch013 · reader-protocol: v3-grounded-checkpoint · prose-sha ~67e76ab36d89*
 
 ## Reader reaction
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~1f134f523a50 · 2026-09-11*
 
 REACTION — Oh, Vee. That last line got me, because I believe her. She really has never been so happy. The sex wasn’t something she endured or got maneuvered through in the moment; she wanted him, initiated, kept choosing, and came home incandescent. I’m happy for her. I’m also sitting here with my stomach slightly clenched.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch024 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch024 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~0b647a05ad40 · 2026-09-10*
 
 REACTION — *Oh, there it is.* There's the knife. Twenty-three chapters of watching the two of them orbit each other like polite strangers, and the whole time — the whole time — they've been doing THIS. Her astride him in his bed, his hand in her hair, Sade down the hall, comparing notes on the mark like a couple debriefing a business quarter. And I actually gasped, because it restructures everything behind me. The velvet-booth lunches. "You don't have to tell me." The thumb on the water glass. Every single one of Randi's gentle extractions was her servicing the operation — AND feeding her own hunger, AND reporting to the man afterward in bed. The confession door she closed softly at lunch? It's because the confession had already been scheduled for *this room, this position, this chest*. Vee tells Randi; Randi tells Pace while riding him. Truth flows toward the handlers now. The whole river was mapped.
 

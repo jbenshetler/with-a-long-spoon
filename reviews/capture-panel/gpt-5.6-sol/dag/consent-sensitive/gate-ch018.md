@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch018 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch018 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~8611b8522702 · 2026-09-11*
 
 REACTION — Oh, this got me. The hunger of it, the week spent wearing his fading scent, the green set bought “for the color,” those hidden plum toenails—Vee has been choosing this encounter in a hundred private increments before she ever reaches his door. And then she does reach: she kisses him, pulls the apron strap, asks for the bedroom, pulls him closer when he tries to manage his weight. I believed her desire completely. More than that, I felt how momentous it was for her to remain inside her own pleasure while the shame kept firing. The shame doesn’t vanish through magical dick-based healing; it simply fails, for once, to shut her down. That distinction matters to me enormously.
 

@@ -1,6 +1,6 @@
 # Cold read (grounded) — Strokes
 
-*scene: scenes/strokes.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch036 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/strokes.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch036 · reader-protocol: v3-grounded-checkpoint · prose-sha ~0f8a1c3bd12a*
 
 ## Reader reaction
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch016 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch016 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~6b85b74f7cb8 · 2026-09-10*
 
 REACTION — I put the book down after the last chapter and just sat there, and this one let me live inside the afterglow of it through Cassie, which is exactly what I needed. Vee telling the story to her roommate is my favorite kind of chapter — the scene replayed through a woman's own mouth, so you get to hear what she *kept*. And what she kept is the stuff I care about: "his eyes asked, *may I look*." That's the whole book in one line, and she found it herself, without the narrative having to underline it.
 

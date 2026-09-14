@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~25b7bedbae77 · 2026-09-07*
 
 REACTION — Oh, she is gone for him, and I am delighted by how completely she knows it. Twelve days without counting. Telling the shirt story until it shines. Casually announcing the powerlifting as if she has not spent serious time thinking about what is under his clothes. And then admitting that his restraint is what has her climbing the walls—I felt so understood by that. Yes. A man hearing the small answers and treating them as real can be unbearably hot when you are used to men assuming access.
 

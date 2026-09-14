@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
+*capture-dag-v2-rich · gate ch026 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~427f956545f5 · 2026-09-11*
 
 REACTION — Oh, this one got under my skin in exactly the way I wanted and hated.
 

@@ -1,6 +1,6 @@
 # Cold read (grounded) — In His Hands
 
-*scene: scenes/in-his-hands.md · model: gpt-5.6-terra · memory: ck-ch030 + raw ch031..ch036 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/in-his-hands.md · model: gpt-5.6-terra · memory: ck-ch030 + raw ch031..ch036 · reader-protocol: v3-grounded-checkpoint · prose-sha ~38dcf8e44cd8*
 
 ## Reader reaction
 

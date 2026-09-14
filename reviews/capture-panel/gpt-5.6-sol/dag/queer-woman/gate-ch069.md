@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch069 · gpt-5.6-sol · queer-woman · prompt-sha 914114a6274c · 2026-09-12*
+*capture-dag-v2-rich · gate ch069 · gpt-5.6-sol · queer-woman · prompt-sha 914114a6274c · prose-sha ~c10b93dddd9c · 2026-09-12*
 
 REACTION — Oh, this got me in a deeply unfair place. The hottest thing here wasn’t even the balm. It was Pace collaring Vee’s tiny weights because “everything gets a collar,” taking her effort completely seriously, and quietly choosing a load he could rescue himself because he would never make her responsible for holding what she couldn’t. That is his whole seduction in miniature: he builds the conditions so she can surrender without ever feeling the danger he has already accounted for. I understand exactly why her body turned toward him before anything explicitly sexual happened.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch043 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~2a7036ffc678 · 2026-09-11*
 
 REACTION — God, this chapter hurt in exactly the place I was already touching after “I love how good we are together.” The book knows the wound is open and just presses one careful finger into it.
 

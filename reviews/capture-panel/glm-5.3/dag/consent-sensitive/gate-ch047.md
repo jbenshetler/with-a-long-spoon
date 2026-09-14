@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch047 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch047 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~ca7450e92130 · 2026-09-10*
 
 REACTION — God, this chapter. The whole book has been building these gorgeous parallel inner monologues — Vee in her cold bed, Randi in her cold bed, both of them lying next to warmth they can't take in — and this one is Vee's side of the same night, and it *hurts* in the exact way I've come to trust this book to hurt. "The room did not know her. It had known Vivienne" — that whole passage, the ribbons and the little gold swimmers and the clarinet in the closet, a room that loved a girl who no longer lives inside her. I had to put the book down for a second at "the cold room kept watch over the girl who was gone."
 

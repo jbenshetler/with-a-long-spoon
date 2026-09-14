@@ -1,6 +1,6 @@
 # Cold read (grounded) — Grace
 
-*scene: scenes/grace.md · model: kimi-k3 · memory: ck-ch050 + raw ch051..ch065 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/grace.md · model: kimi-k3 · memory: ck-ch050 + raw ch051..ch065 · reader-protocol: v3-grounded-checkpoint · prose-sha ~3cd079281f7e*
 
 ## Reader reaction
 

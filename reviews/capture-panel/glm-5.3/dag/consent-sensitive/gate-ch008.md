@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch008 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch008 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~0149553a3cd5 · 2026-09-10*
 
 REACTION — Okay. I'm going to need a minute, because that chapter did two things to me at once and they don't sit in the same place.
 

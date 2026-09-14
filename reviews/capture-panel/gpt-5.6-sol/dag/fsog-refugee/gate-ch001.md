@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~905926aff4b8 · 2026-09-07*
 
 REACTION — Oh. Oh, this is exactly the dangerous combination I’m always looking for: the control is intense, but his attention never stops being care. The apple slices nearly undid me before anything sexual even happened. He knows which thickness she’ll actually eat. He notices when she braces, waits for her body to settle, checks her safeword, checks her back and shoulders, takes off her shoes, brings water, wraps her up, and respects the locked bathroom door. None of that softens his dominance. It makes it hotter, because his control feels earned rather than stolen.
 

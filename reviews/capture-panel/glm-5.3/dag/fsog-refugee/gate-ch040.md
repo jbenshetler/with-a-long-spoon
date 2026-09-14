@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch040 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch040 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~1d8fca279859 · 2026-09-10*
 
 REACTION — Okay, I'm just going to say it: the flannel shirt broke me a little. This girl slept in his shirt every night she wasn't with him, watched it go stale, watched it go to *nothing*, and then — instead of keeping the dead thing and pretending — she washed it and brought it back to be refilled. That's the most naked thing she's done in this book, and she did it in his kitchen with all her clothes on. And him: he thought she was giving it back. For one second his face did the hurt before he decided not to ask. He's *good* at not asking things, the book says — and that's the wound too, Peter, that's the hallway talking, but it landed on her side this time as grace. Two shirts in his own warm kitchen because she told him to. "Smelling like me." I had to put the book down.
 

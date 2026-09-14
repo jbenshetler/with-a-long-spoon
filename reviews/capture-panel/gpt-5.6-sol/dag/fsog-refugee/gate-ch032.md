@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~13e407d9f33a · 2026-09-11*
 
 REACTION — Oh, this got me. Not just the spanking—the instant his hand vanished when she said “Don’t,” and the terrible little emptiness she felt afterward. That is the hinge I needed. He did not make her defend the no, did not tease past it, did not decide her wetness meant he knew better. He stopped completely. Then she had to reach for the thing herself: “Yes.” “We find out.” That is exactly the heat I came here for—his control becoming possible only after her choice makes room for it.
 

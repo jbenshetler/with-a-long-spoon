@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch063 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch063 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~f6415b9043be · 2026-09-11*
 
 REACTION — God, this chapter. The waxing scene is doing the thing this book does better than anything else on its shelf: taking a completely unglamorous, unsexy errand and turning it into the most accurate page of desire I've read all year — and then, mid-desire, sliding the knife in about Randi, and I felt both at once and that's exactly the trap the book keeps setting for me.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch059 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch059 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~8348ecb548e4 · 2026-09-11*
 
 REACTION — Oh. Okay. This one got under my skin in a quieter, nastier way than the porch did.
 

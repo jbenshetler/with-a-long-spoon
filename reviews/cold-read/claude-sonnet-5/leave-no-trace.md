@@ -1,6 +1,6 @@
 # Cold read (grounded) — Leave No Trace
 
-*scene: scenes/leave-no-trace.md · model: claude-sonnet-5 · memory: ck-ch010 (no window) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/leave-no-trace.md · model: claude-sonnet-5 · memory: ck-ch010 (no window) · reader-protocol: v3-grounded-checkpoint · prose-sha ~2888278eb31d*
 
 ## Reader reaction
 

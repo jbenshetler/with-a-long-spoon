@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch002 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch002 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~f388da9c70ea · 2026-09-07*
 
 REACTION — Oh, this made my chest hurt. The sorority-house interrogation is so bloodless and so viciously recognizable: nobody technically accuses her of anything, everyone smiles, and somehow Brooke has extracted the lie, the overnight stay, the boyfriend’s name, his status, his truck, and whether he has institutional power over her. I hate Brooke a little, but I also noticed that she checks whether Pace teaches Randi. That matters. This world has standards—warped, classist, socially weaponized standards, but it isn’t oblivious to power.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch051 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
+*capture-dag-v2-rich · gate ch051 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~79b4d57f1ee0 · 2026-09-11*
 
 REACTION — Oh my God, yes. This is exactly the sort of chapter that makes me sit up like, okay, you do know what you’re doing to me.
 

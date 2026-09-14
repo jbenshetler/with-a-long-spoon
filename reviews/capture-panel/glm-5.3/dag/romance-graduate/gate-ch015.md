@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch015 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch015 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~13cbb0faa7b7 · 2026-09-10*
 
 REACTION — Okay. I put my tea down for this one and then didn't drink it because I didn't want to look away from the page. This chapter is the whole reason I'm still reading this book. The mountain chapter was the sex scene disguised as a dinner, and this one is the sex scene disguised as a *fitting*, and I am sitting here genuinely flushed and also genuinely moved, and I need to talk about both.
 

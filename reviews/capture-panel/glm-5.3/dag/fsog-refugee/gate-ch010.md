@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch010 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch010 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~2ce78e0e23d6 · 2026-09-10*
 
 REACTION — Okay, this one got under my skin in a way the explicit chapters didn't, and I need a minute to sit with why.
 

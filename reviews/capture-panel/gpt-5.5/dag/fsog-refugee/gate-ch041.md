@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch041 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch041 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~a3af5d5e997c · 2026-09-11*
 
 REACTION — Oh, this one got me in the quieter place. Not the hot place exactly, though Pace sewing that dress is still a kind of erotic violence against my common sense. A man listening once, remembering the unaffordable magazine dress, then making it with his own hands? That is the sort of thing that would make me stupid too. I would also be standing in my childhood dining room unable to explain that the dress is not just a dress, it is evidence. It is being seen, measured, imagined, labored over. It is his attention made wearable.
 

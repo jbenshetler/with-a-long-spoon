@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch013 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch013 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~25b7bedbae77 · 2026-09-10*
 
 REACTION — Okay, this one is a palate cleanser and I don't even mind, because it's doing real work: Vee got her witnesses back. After chapters of the book quietly edging Cassie out of frame, chapter 12 gave Cassie her due ("Keep the shirt") and now here are Meg and Kayla, a whole table of outside eyes, demanding the story in installments like a show. For a book this exact about isolating its mark, letting Vee be seen and celebrated by a room full of women feels like air. I exhaled.
 

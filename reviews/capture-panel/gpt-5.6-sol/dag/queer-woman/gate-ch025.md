@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~178a1c64010d · 2026-09-10*
 
 REACTION — Oh, this got me. Not sexually, mostly—though the robe falling open and his hand simply holding her breast as they talk is exactly the kind of unshowy intimacy that undoes me—but in that deeper place where being listened to starts feeling indistinguishable from being touched.
 

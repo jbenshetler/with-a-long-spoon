@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch059 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch059 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~8348ecb548e4 · 2026-09-11*
 
 REACTION — God, this book. It gave me a whole Explicit Weekend — the coat, the doorstep, the truck, the roadhouse, "Vee's boyfriend" said six times like a man spending his whole vocabulary in public — and then it pulls the door shut and gives me *this*: one girl alone in a shut room, one hand, and one breath's width she can't cross. And honestly the alone chapter hit me harder than any of the sex. This is the book knowing the difference between what a woman does for an audience and what she does in the dark, and going to the dark one.
 

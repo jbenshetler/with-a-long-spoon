@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch009 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~b011ff26b790 · 2026-09-08*
 
 REACTION — Oh, this was such a breath after the loaded, almost predatory choreography of the previous chapters. Not boring-breath. More like: I got to sit on the dorm room floor with a girl who is absolutely fizzing out of her skin because she kissed a man and it was *hers*. That distinction matters so much to me here. The chapter keeps putting its finger on the thing I care about: not “he swept her away,” not “she was helpless before him,” but “he gave her an exit and she chose to turn around.” That is hot to me in a quieter way than the bench was hot, because it makes the later heat feel earned instead of just engineered.
 

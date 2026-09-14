@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch004 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch004 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~3a52a74c7617 · 2026-09-10*
 
 REACTION — Okay, so nothing "happens" in this chapter, and I'm still leaning in, and I need a minute to be honest with myself about why.
 

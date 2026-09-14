@@ -1,6 +1,6 @@
 # Cold read (grounded) — Seconds
 
-*scene: scenes/seconds.md · model: claude-opus-4-8 · memory: ck-ch040 + raw ch041..ch041 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/seconds.md · model: claude-opus-4-8 · memory: ck-ch040 + raw ch041..ch041 · reader-protocol: v3-grounded-checkpoint · prose-sha ~2a7036ffc678*
 
 ## Reader reaction
 

@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch033 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~d4837de434ed*
 
 Oh, this chapter. This is the one I'd text someone about at 1 a.m. with no punctuation.
 

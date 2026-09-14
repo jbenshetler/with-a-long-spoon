@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~bb2635a8b1b0 · 2026-09-12*
 
 REACTION — Oh, Vee. “We talked” made my stomach drop, because they absolutely did not. She offered her body, he answered with hunger and tenderness and food, and now she has converted that into the conversation she needed. The lie about the ruined clothes is almost funny enough to float—until I remember she is telling it to Cassie, the one person who asked the clean question and would immediately know that the question still has no answer. Vee isn’t merely protecting a sexy secret. She is protecting the reconciliation from examination.
 

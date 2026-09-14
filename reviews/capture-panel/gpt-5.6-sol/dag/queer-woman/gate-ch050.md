@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~0511a4346bd0 · 2026-09-11*
 
 REACTION — Oh, Randi. No. Absolutely not.
 

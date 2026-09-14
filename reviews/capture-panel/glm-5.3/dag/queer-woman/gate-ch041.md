@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch041 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch041 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~a3af5d5e997c · 2026-09-10*
 
 REACTION — Well. The book called the chapter "Cropped" and then spent the whole chapter showing me what cropping costs, and who's holding the scissors now, and I had to put it down for a second at the title alone.
 

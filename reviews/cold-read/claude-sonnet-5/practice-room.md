@@ -1,6 +1,6 @@
 # Cold read (grounded) — The Practice Room
 
-*scene: scenes/practice-room.md · model: claude-sonnet-5 · memory: ck-ch020 + raw ch021..ch029 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/practice-room.md · model: claude-sonnet-5 · memory: ck-ch020 + raw ch021..ch029 · reader-protocol: v3-grounded-checkpoint · prose-sha ~312fabbe2429*
 
 ## Reader reaction
 

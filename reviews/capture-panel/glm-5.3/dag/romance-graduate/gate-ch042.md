@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch042 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch042 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~d75264abed57 · 2026-09-10*
 
 REACTION — Oh, this chapter hurt in the best way. "Crackers my whole life, and you fed me a meal" — I held my breath with her, that sentence is the most Vee thing possible, built like one of his proofs, checked and rechecked, warm and true and deniable. And then he does the thing where the wall flinches — two breaths I've never heard him take, his hand starting two responses and putting both down — and I thought, *here it is*, the saying, finally, the collector arriving. And instead: "I love how good we are together." *How.* That word is a door he's choosing not to open and I don't know if it's cowardice or wound or math. "I never had this either" is honest and it's still not the sentence.
 

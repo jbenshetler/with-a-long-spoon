@@ -1,6 +1,6 @@
 # Cold read (grounded) — In Her Place
 
-*scene: scenes/in-her-place.md · model: claude-opus-4-8 · memory: ck-ch050 + raw ch051..ch056 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/in-her-place.md · model: claude-opus-4-8 · memory: ck-ch050 + raw ch051..ch056 · reader-protocol: v3-grounded-checkpoint · prose-sha ~d281dca7ae5b*
 
 ## Reader reaction
 

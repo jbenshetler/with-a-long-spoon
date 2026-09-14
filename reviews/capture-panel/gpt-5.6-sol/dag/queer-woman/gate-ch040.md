@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~1d8fca279859 · 2026-09-10*
 
 REACTION — The five nights matter to me more than the sex does. Vee recognized that she was falling behind, asked for room, and Pace simply gave it to her. No sulking, no punishment, no attempt to make her prove she still wanted him. That is good. Her private wish that he would fight her about it is less good—not because the wish makes her foolish, but because she is beginning to use resistance as evidence of love. Pace keeps expressing love through accommodation and acts of care; Vee keeps aching for him to say plainly that her absence costs him. That gap is becoming tender and dangerous.
 

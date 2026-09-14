@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch035 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~3fae9b31dd45 · 2026-09-11*
 
 REACTION — Oh. This one got me in the tender place more than the hot place, though the hot place is absolutely still present, humming under everything like a wire.
 

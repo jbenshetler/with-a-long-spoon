@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch052 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-11*
 
-**REACTION**
+**REACTION* · prose-sha ~2a7718a6147b*
 
 Okay, the pleasure-princess reversal had me grinning like an idiot. Vee walking down the hall spinning the "kept woman" fantasy and then doing the finger-count and finding out it's HIM — he brings her off first, sets the bread going, buys the cream — that's the book handing its own power-map to Vee to audit, and her audit is *correct*, and she gets to reign for a morning on the strength of it. The pointing game is consensual theater on both sides and the prose knows it ("the need had gotten ahead of the performance"), and his stopping at her palm like it touched him — fine, I'm in good hands, this is the good stuff.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~427f956545f5 · 2026-09-11*
 
 REACTION — Oh, Vee. That was painful in the horribly recognizable way where the jealousy isn’t really about other women—it’s the terror that the thing making you feel singular is simply a thing he does to everyone. I felt the trap close the moment she started counting hugs. Her mother’s voice got into the room before Pace had actually done anything wrong, and from there every kindness became evidence against him. That is such an ugly trick shame can play: *he makes women safe, therefore I’m foolish for feeling safe with him.*
 

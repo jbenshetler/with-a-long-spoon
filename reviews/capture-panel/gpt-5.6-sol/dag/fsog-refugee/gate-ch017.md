@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch017 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch017 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~d92de80cac99 · 2026-09-07*
 
 REACTION — Oh, Randi. This is so much worse now that I can feel how real her wanting is.
 

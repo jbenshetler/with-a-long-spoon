@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch055 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch055 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~213059ecdcb4 · 2026-09-11*
 
 REACTION — Okay, so this is the breather chapter, and I know enough about this book by now to know the breathers aren't breathers. Chapter 55 is Kayla and Meg and waffles, and it's doing two things to me at once: warming me and quietly tightening something.
 

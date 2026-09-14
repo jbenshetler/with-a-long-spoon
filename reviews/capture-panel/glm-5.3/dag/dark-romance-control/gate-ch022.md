@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch022 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch022 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~b727880313ed · 2026-09-10*
 
 REACTION — Okay, so this is the "breathing between the sex chapters" chapter, and I almost resented it for twenty seconds, and then the book did the thing it keeps doing to me: it slipped the knife in sideways while everybody was just standing in the sunlight talking about shoes.
 

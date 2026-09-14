@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch016 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch016 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~6b85b74f7cb8 · 2026-09-10*
 
 REACTION — Chapter 16, "Turned Up"
 

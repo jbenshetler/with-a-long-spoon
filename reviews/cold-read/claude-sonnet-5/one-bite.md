@@ -1,6 +1,6 @@
 # Cold read (grounded) — One Bite
 
-*scene: scenes/one-bite.md · model: claude-sonnet-5 · memory: ck-ch030 + raw ch031..ch033 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/one-bite.md · model: claude-sonnet-5 · memory: ck-ch030 + raw ch031..ch033 · reader-protocol: v3-grounded-checkpoint · prose-sha ~702b7231d0c3*
 
 ## Reader reaction
 

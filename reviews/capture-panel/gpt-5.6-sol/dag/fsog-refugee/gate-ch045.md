@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~d6bbb290a65b · 2026-09-11*
 
 REACTION — Oh, this hurt. “Words are cheap, and you still won’t spend them on me” went straight through me. She finally asked the exact question, clearly and without hiding inside a joke or offering him an easier version, and he still tried to answer around it. The warm house, the food, the wine, the care—everything that has made me love him suddenly felt like part of the trap, because he keeps offering her a thousand beautiful proofs while refusing the one answer she is explicitly asking him to risk.
 

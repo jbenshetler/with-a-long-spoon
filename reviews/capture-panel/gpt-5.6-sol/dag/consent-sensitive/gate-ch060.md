@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch060 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch060 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~f697ae9ef8f2 · 2026-09-12*
 
 REACTION — Oh, this is appalling. This is extremely hot, and it is appalling, and the book knows exactly why those are the same experience right now.
 

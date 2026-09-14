@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch049 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch049 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~c1f15218cc12 · 2026-09-10*
 
 REACTION — Oh, this book. I'm sitting here with my hand over my mouth.
 

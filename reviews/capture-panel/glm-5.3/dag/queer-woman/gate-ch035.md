@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch035 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~3fae9b31dd45*
 
 He gave her the top drawer. I had to put the book down at that, actual hand over mouth, because the whole book has been teaching me his language and I didn't know I'd learned it until he used it. He didn't say "it doesn't matter" — saying it doesn't matter is what people do when it matters. He folded his entire careful self down into the bottom drawer, the cramped one, and gave her the easy one, the one your hand goes to first, with *room to spare, room for more of her, laid out like something prepared and waiting.* It's the dress all over again — the trouble taken and then the further trouble taken to hide the trouble. And no note. There is never a note. He answers a question she never asked out loud, which is the only way he ever answers anything, and I sat there and thought: this is either the realest thing in the book or the most expensive, and I still can't tell which, and the book knows I can't, and that's the whole bet I've placed with it.
 

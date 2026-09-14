@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch049 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch049 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~c1f15218cc12 · 2026-09-08*
 
 REACTION
 

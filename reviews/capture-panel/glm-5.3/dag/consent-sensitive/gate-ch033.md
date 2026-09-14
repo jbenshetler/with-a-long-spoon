@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch033 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch033 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~d4837de434ed · 2026-09-10*
 
 REACTION — Okay. This is the chapter I didn't know I was waiting for, and it's the one where the manipulation question goes almost quiet — because Vee is running this. All of it. She brings the dress to HIS house, the costume framing is her own invention, she puts him in the chair with a flat hand and he *sits back down*, and the whole erotic engine of the chapter is a woman deciding to be looked at. "And this is what I had on under it." I actually gasped. The induction chapter planted the long stride; this one cashes it in privately, for the man who built the dress and missed the debut, and there's something almost unbearably sweet about her giving him the walk he never got to watch.
 

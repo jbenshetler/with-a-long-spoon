@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch010 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch010 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~2ce78e0e23d6 · 2026-09-10*
 
 REACTION — Okay, so this is the chapter the jacket promised me — "over lunches too intimate to name, she tells Randi everything" — and living inside it while knowing what I know is a genuinely uncomfortable pleasure. The whole smoothie scene runs on two tracks at once and the book never once tips its hand inside Vee's POV, which is the right choice and also the cruel one. Vee sits up on that high chair with her feet not reaching the floor, glowing, handing over every detail of the best thing that's ever happened to her — the "may I," the softened evening, the kiss *she* initiated — and the woman receiving it is half of the machine that produced it. I kept thinking: she's not telling a friend about her boyfriend. She's filing a report with the manufacturer.
 

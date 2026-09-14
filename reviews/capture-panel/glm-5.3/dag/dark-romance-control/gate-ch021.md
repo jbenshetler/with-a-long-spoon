@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch021 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch021 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~0894d4db7f65 · 2026-09-10*
 
 REACTION — Okay, the dress reveal absolutely worked on me. Him dragging her right instead of left, grinning like a kid who can't keep the surprise in — that grin is the weapon, same as the smile-while-waiting on his knees. He built a full-length mirror and hung it *that morning* (bright screw heads, he couldn't wait) and the detail that gutted me is the one she named: he hid the trouble so all she'd see is the part that looked like no trouble at all. That is this man's entire grammar. The con is invisible and the gift is real and I can't tell the difference and neither can she and I'm starting to suspect neither can he.
 

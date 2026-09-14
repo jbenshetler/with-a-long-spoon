@@ -1,6 +1,6 @@
 # Cold read (grounded) — How It's Done
 
-*scene: scenes/how-its-done.md · model: claude-fable-5 · memory: ck-ch010 + raw ch011..ch016 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/how-its-done.md · model: claude-fable-5 · memory: ck-ch010 + raw ch011..ch016 · reader-protocol: v3-grounded-checkpoint · prose-sha ~d92de80cac99*
 
 ## Reader reaction
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch049 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch049 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~c1f15218cc12 · 2026-09-11*
 
 REACTION — Oh, this one got me. I've been waiting chapters for the inside of Pace's head, and the book hands it to me the morning after a whiskey binge, which is exactly right — the man who never comes apart comes apart over vacuum-sealed chicken and a truck that doesn't turn in. "He ate anyway" at the end wrecked me a little, because it's him in one sentence: everything his body doesn't want, taken because he decided it should be.
 

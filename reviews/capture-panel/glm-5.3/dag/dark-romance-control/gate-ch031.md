@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch031 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch031 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~230524645ef4 · 2026-09-10*
 
 REACTION — Okay, this chapter shouldn't work for me on paper. No Pace. No Randi. No one touches anyone. It's a girl walking across a stage. And I read the whole thing with my heart going like I'd run the whole way too.
 

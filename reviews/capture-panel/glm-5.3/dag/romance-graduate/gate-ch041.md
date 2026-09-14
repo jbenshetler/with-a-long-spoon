@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch041 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch041 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~a3af5d5e997c · 2026-09-10*
 
 REACTION — This chapter is quiet and it still got me. The whole thing is a dinner tray and one conversation, and I just sat there with Vee watching her try to translate her life into her parents' language and finding it doesn't go. "I think I put a question mark on it. Out loud. Like I was asking them" — god, that's her whole treaty with the word "boyfriend" in one sentence. She settled for the everything-he-does with Pace AND she's doing it with her parents, telling "the parts that fit," curating like a professional. The cropping metaphor is doing so much work: she cropped the dress photo for her mother, cropped Pace for her father, cropped the relationship for Cassie. The girl has learned to frame herself and the chapter title knows it.
 

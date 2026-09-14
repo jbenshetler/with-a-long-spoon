@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch031 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch031 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~230524645ef4 · 2026-09-10*
 
 REACTION — Okay. I put this book down and sat there for a minute, and I'm going to try to say why.
 

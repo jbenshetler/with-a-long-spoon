@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch035 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch035 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~3fae9b31dd45 · 2026-09-10*
 
 REACTION — Oh, this book. Just when I've got my guard up about Randi and the plan and the bathroom and the pastry glaze on her lip (I have NOT forgotten the glaze — she never ate one, and she tasted it anyway; Randi kissed her with Vee's own shame sugared onto her mouth, and the book letting Vee not-figure-it-out is doing something I both trust and dread), this chapter comes in and takes all my defenses down at the knees with a bathroom drawer.
 

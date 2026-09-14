@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch028 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch028 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~630e5e2d2504 · 2026-09-10*
 
 REACTION — Okay, so we get Pace's outside voice, and it's exactly him: the one man in his life who can pull him off-balance, and she's a small woman on a child's bike who outsprints him uphill. Two years of Saturdays and I never knew she existed — that's the thing about this book, it keeps having rooms I haven't been in, and I believe every one of them.
 

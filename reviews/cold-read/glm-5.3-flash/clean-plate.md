@@ -1,6 +1,6 @@
 # Cold read (grounded) — clean-plate
 
-*scene: scenes/clean-plate.md · model: glm-5.3-flash · memory: ck-ch050 + raw ch051..ch056 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/clean-plate.md · model: glm-5.3-flash · memory: ck-ch050 + raw ch051..ch056 · reader-protocol: v3-grounded-checkpoint · prose-sha ~8348ecb548e4*
 
 ## Reader reaction
 

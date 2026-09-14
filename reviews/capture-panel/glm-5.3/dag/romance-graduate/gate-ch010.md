@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch010 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch010 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~2ce78e0e23d6 · 2026-09-10*
 
 REACTION — Okay, so nothing happens in this chapter. Nothing *happens*. A smoothie and two sorority girls walk past, and I read every word leaning forward, and I'm a little mad about how well that worked on me.
 

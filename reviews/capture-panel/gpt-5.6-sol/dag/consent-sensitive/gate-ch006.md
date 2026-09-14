@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch006 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch006 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~1b9cac32f89b · 2026-09-07*
 
 REACTION — Oh, this is how they get her, and unfortunately it is also how they’re getting me.
 

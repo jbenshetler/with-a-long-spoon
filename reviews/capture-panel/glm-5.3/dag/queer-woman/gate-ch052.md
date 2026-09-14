@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch052 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch052 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~2a7718a6147b · 2026-09-11*
 
 REACTION — Okay, so I stayed up too late with this one, and I have feelings in at least three directions.
 

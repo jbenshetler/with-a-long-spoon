@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~eeeec469236e · 2026-09-10*
 
 REACTION — Oh, Randi. This is the first time I’ve been allowed all the way inside her, and somehow she is both more human than I feared and more culpable than I hoped.
 

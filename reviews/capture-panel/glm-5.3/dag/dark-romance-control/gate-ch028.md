@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch028 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch028 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~630e5e2d2504 · 2026-09-10*
 
 REACTION — Okay, so we're finally on HIS side of the glass with a witness, and the witness is a woman who's known him two years and remarks on ass like it's weather. I've been waiting twenty-seven chapters for someone outside the triangle to look at Pace and tell me what they see, and what Sheri sees is the thing I've been chewing since the truck: *Listen to you.* He went past the name before he decided to be past it. He talked about the thumb on the chair joint, the book she didn't put back — furniture details, *Shelf details* — the way Randi talked about the bigfoot walk. The two handlers are both drowning and both narrating the drowning to third parties and neither knows the other is doing it. That's the book's whole engine in one hill climb and I love it.
 

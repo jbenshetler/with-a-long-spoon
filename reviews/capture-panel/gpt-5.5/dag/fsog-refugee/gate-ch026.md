@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch026 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~427f956545f5 · 2026-09-11*
 
 REACTION —
 Oh, this one hurt me in a very specific way: not because Pace did anything frightening, but because Vee’s shame found the exact doorway into the room and walked in wearing her mother’s voice.

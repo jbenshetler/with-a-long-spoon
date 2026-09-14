@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch065 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch065 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~fda4df0f276c · 2026-09-11*
 
 REACTION — Oh, there it is. Finally. Vee’s body has been trying to tell her this for half the book, and the second Randi actually kisses her, every little “friendly” touch and neck kiss and dressed-for-her dinner comes due at once. That suspended inch before their mouths met nearly killed me. And Vee realizing she has been privately cataloguing Randi’s perfume for months? Yes. That is the interiority I’ve been starving for—the body keeping an honest record while the mind files everything under friendship.
 

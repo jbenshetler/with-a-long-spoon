@@ -1,6 +1,6 @@
 # Cold read (grounded) — Vee on the Bench
 
-*scene: scenes/vee-on-the-bench.md · model: kimi-k3 · memory: ck-ch050 + raw ch051..ch067 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/vee-on-the-bench.md · model: kimi-k3 · memory: ck-ch050 + raw ch051..ch067 · reader-protocol: v3-grounded-checkpoint · prose-sha ~217584aef748*
 
 ## Reader reaction
 

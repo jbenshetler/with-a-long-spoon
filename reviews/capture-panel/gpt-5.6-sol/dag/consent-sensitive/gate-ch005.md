@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch005 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch005 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~22330aaefd51 · 2026-09-07*
 
 REACTION — Oh, this is *sinisterly* good. I know Randi was texting Pace. I know that entrance was timed, I know the “chance” encounter is a setup, and watching Vee experience it as spontaneous recognition—*she felt, absurdly, chosen*—made my stomach turn in exactly the way I want this book to make it turn. The chapter absolutely knows what they are doing to her. It even shows me the machinery in Randi’s hands while Vee helpfully misreads every tell.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~213059ecdcb4 · 2026-09-11*
 
 REACTION — Oh, Vee. “We talked all night”? No, sweetheart, you fucked on the doorstep, ate pancakes, and let his care fill the space where the answer should have gone. I understand why it feels true to her—her body stopped hurting, he said he missed her, and now he wants to meet her friends—but hearing her confidently rewrite the weekend made my stomach drop. Randi’s version has settled all the way in: the coat was an apology, the fight was Vee’s fault, and spectacular sex was Pace’s language of forgiveness. Meg’s maple-bacon comparison innocently seals it. Nobody at that table knows Vee was apologizing for asking what she is.
 

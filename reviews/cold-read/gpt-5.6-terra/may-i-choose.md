@@ -1,6 +1,6 @@
 # Cold read (grounded) — May I Choose
 
-*scene: scenes/may-i-choose.md · model: gpt-5.6-terra · memory: raw ch001..ch007 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/may-i-choose.md · model: gpt-5.6-terra · memory: raw ch001..ch007 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint · prose-sha ~0149553a3cd5*
 
 ## Reader reaction
 

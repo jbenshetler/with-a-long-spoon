@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch038 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch038 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~38dcf8e44cd8 · 2026-09-10*
 
 REACTION — Oh, Vee. “Finally hungry out loud” got me right in the chest, because it is exactly what she needs to hear and exactly why Randi is so dangerous to her: she gives Vee language that feels like rescue, then uses the relief to walk her somewhere.
 

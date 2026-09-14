@@ -1,6 +1,6 @@
 # Cold read (grounded) — Made-Up
 
-*scene: scenes/made-up.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch032 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/made-up.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch032 · reader-protocol: v3-grounded-checkpoint · prose-sha ~d4837de434ed*
 
 ## Reader reaction
 

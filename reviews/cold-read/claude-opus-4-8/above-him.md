@@ -1,6 +1,6 @@
 # Cold read (grounded) — Above Him
 
-*scene: scenes/above-him.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch034 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/above-him.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch034 · reader-protocol: v3-grounded-checkpoint · prose-sha ~3fae9b31dd45*
 
 ## Reader reaction
 

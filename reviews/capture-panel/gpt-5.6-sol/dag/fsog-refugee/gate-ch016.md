@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~6b85b74f7cb8 · 2026-09-07*
 
 REACTION — Oh, “He left me a door.” Yes. That is exactly why I’m still here. Vee can feel the difference between being instructed and being cornered, and Cassie immediately names it: he asked. Not perfectly—I would still rather Pace actually say, *Is that okay?* before requesting the bra—but he waits, and she experiences the choice as open. Her sense of her own agency matters more than the sexy tableau does.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch031 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch031 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~230524645ef4 · 2026-09-11*
 
 REACTION — Oh, this got me. I’d been bracing for Pace or Randi to somehow occupy the ceremony—to watch, direct, interpret, or turn her achievement into another stage of their design—and instead Pace is in Berkeley, Randi is absent, and Cassie is exactly where she should be: beside Vee without managing her. Taking the phone, walking her to the doors, stopping at the boundary that belongs to the honorees. “Go make your mother cry again” is such ordinary, loving ballast. And then “you look—” from Cassie, who doesn’t manufacture reactions for effect. I trusted it completely.
 

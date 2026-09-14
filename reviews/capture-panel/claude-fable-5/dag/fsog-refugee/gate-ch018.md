@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch018 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch018 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~38bd74ece593 · 2026-09-08*
 
 She initiated everything. I need to sit with that for a second, because eighteen chapters in, on the night the book finally goes all the way, the entire architecture of it belonged to Vee — the green set bought "for the color," the polish painted early enough to be dry, the *famished* she heard a beat after he did, the strap of the apron in her fist. She asked for the bedroom. The door he wouldn't open in chapter 14 — the one she leaned toward and he *didn't* touch, and I felt her drop and filed it as him withholding — that was never withholding. He was waiting for the door to be hers to ask for. That's the payoff and it's exactly the thing I've spent years hunting this genre for, and I'm a little undone that a book with this much rot in its foundations is the one that finally handed it to me.
 

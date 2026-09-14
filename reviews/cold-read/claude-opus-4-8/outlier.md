@@ -1,6 +1,6 @@
 # Cold read (grounded) — The Outlier
 
-*scene: scenes/outlier.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch038 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/outlier.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch038 · reader-protocol: v3-grounded-checkpoint · prose-sha ~1d8fca279859*
 
 ## Reader reaction
 

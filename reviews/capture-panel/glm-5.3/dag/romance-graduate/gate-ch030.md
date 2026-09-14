@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch030 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch030 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~5274d9c5fd04 · 2026-09-10*
 
 REACTION — Okay. Okay okay okay. I read this whole thing with my heart going like I was the one in the practice room, and I think that's the point — I was. That room is soundproof, the door shut, and Helen Rivers just locked me in there with Randi's voice and Vee's face and no exit.
 

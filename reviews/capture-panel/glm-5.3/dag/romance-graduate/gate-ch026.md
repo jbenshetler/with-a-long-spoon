@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch026 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch026 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~427f956545f5 · 2026-09-10*
 
 REACTION — Okay, this one put a fist in my chest and I'm still kind of sitting with it.
 

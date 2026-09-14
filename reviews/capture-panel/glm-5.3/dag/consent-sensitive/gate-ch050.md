@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch050 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch050 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~0511a4346bd0 · 2026-09-11*
 
 REACTION — Oh, this chapter. This chapter did three things to me at once and I'm sitting here with all of them stacked on my chest.
 

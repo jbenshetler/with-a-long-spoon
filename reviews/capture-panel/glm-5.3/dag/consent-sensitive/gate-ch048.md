@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch048 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~b247f2c75c88*
 
 Sheri. Finally, Sheri in the flesh, and she's everything I'd built her into being — the one person in this whole book who owes nothing to anyone and says so with a stolen fistful of fries. I've been waiting for her since the pie, and the book did not waste her. Five feet of woman who doesn't want anything off him — and the prose NAMES that as the rare thing: "Everyone he knew wanted something off him... Sheri wanted none of it. She just liked him and gave him hell." That's the whole tragedy of Pace in one diner booth. His entire love life is people orbiting the gravity well, and the one friend he has is the one standing outside it throwing rocks in.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch026 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~427f956545f5 · 2026-09-11*
 
 REACTION — Oh, Vee. Oh no. I felt this one in my stomach, because the whole chapter is practically a consent/power diagram disguised as a dance lesson, and it’s so good and so dangerous because the lesson is true. The frame only works if she gives him something to push against. The lead only works if she stops anticipating. The closeness keeps her from being stepped on. That is romantic and erotic and genuinely beautiful, and also the exact metaphor that makes me sit up straighter because this whole book is about how a person can be led somewhere and still feel every step as her own.
 

@@ -1,6 +1,6 @@
 # Cold read (grounded) — Lesson
 
-*scene: scenes/lesson.md · model: claude-opus-4-8 · memory: ck-ch020 + raw ch021..ch025 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/lesson.md · model: claude-opus-4-8 · memory: ck-ch020 + raw ch021..ch025 · reader-protocol: v3-grounded-checkpoint · prose-sha ~1af596fa09af*
 
 ## Reader reaction
 

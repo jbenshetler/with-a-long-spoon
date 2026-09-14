@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch070 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-12*
+*capture-dag-v2-rich · gate ch070 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~2db97916f454 · 2026-09-12*
 
 REACTION — Oh, this got me. The key in the handmade box nearly did me in—not because I’ve forgotten what Pace owes her, but because this is exactly how he makes omission feel like devotion. He gives her a physical fact so beautiful she can close her hand around it, and she lets the missing words go again. “A key was a thing she could close her fingers around, and the word she wanted had only ever been air” hurt. He knows how to make a home around her while never saying the one thing that would make him vulnerable inside it.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch054 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-11*
+*capture-dag-v2-rich · gate ch054 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~bb2635a8b1b0 · 2026-09-11*
 
 REACTION — God, this chapter is a exhale. After two chapters of heat — the coat, the pancakes, the whole princess-slave morning with the orange and the cashmere — I needed this, and the book knew I did. Vee sitting in the bean bag doing her imitation of "I got mushrooms" for Cassie was pure delight, and Cassie's deadpan relay ("He salts the persimmons." "To a doll size.") is the friendship working exactly the way I've been paying it to work all book. The doll's-size sweater — the record standing exactly where Vee left it, corrected by nobody — I actually laughed out loud. She's protecting him from Cassie's ledger without even thinking about it, and Cassie let her, and that "not" I've been watching grow in my notes just got fed again and I don't think either of them noticed.
 

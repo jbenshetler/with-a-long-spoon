@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch049 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~c1f15218cc12 · 2026-09-11*
 
 Oh, Pace. Oh, you frightened, disciplined idiot.
 

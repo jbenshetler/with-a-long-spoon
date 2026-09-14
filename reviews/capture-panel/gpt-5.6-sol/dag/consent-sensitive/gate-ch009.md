@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~b011ff26b790 · 2026-09-07*
 
 REACTION — Oh, she is *gone*. The spinning, the pillow throwing, the breathless “Look at me”—I felt genuinely happy for her. Not because Pace has earned my trust, but because Vee experienced her own desire as an action she took, not something extracted from her. “He was already walking away and I pulled him back” matters enormously to her, and I believe her joy.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch015 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch015 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~13cbb0faa7b7 · 2026-09-07*
 
 REACTION — Oh. Oh, this is the thing I have been looking for.
 

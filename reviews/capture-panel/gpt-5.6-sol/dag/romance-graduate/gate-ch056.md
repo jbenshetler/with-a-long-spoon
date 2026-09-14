@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch056 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch056 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~c23f4d1deeee · 2026-09-11*
 
 REACTION — Oh, Vee. Honey. “Because that had been about Pace, obviously” made me want to grab her gently by both shoulders. Pace was in the memory, yes. Randi was in the room with her. Randi asked the question that tipped her over. Randi’s face was behind her eyes when she came. We are so far past a crush she hasn’t named that the denial is becoming almost adorably useless—except nothing around Randi is harmless enough for “adorable.”
 

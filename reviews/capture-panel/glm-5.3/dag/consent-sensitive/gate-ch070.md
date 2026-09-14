@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch070 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
 
-**REACTION:**
+**REACTION:* · prose-sha ~2db97916f454*
 
 The cabin got me. The whole first half got me — the thermos of tikka masala up a mountain, the dry cider he planned to cut through the richness, "I wanted to please you" said that simply. I sat in that porch scene like I was under the quilt with them. This is the book's best mode: care made legible as care, meal-motif, warmth-as-evidence-of-being-wanted. And the key. The handmade box, the oyster silk she *half-recognizes* and slides off — book, I saw you do that, the same silk from somewhere, filed for later — and the key he's never given anyone. And she waits half a beat for the word with a hearth in it, and it doesn't come, and she's "good, now, at letting it go," which is the saddest skill she's acquired all book.
 

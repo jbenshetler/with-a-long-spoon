@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch027 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~08b46669b5c5*
 
 The thing I keep having to sit with is that Vee ran to the one person on earth who already knew every word of it before she said it. She's sitting on Randi's unmade bed, in Randi's room that smells like Randi, telling "the blonde story" to a woman who was astride the man in question forty-eight hours ago — and Randi gets to hear it from the inside. "That *bitch*," she says, with feeling, and I believed the feeling and was horrified by it in the same breath. She's not performing. That's what's killing me. She gets to be Vee's real comfort AND the person the comfort is about. Every "of course it was, he can dance, the bastard, warm" is a woman talking about her lover through a wall and getting paid in Vee's trust.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~0149553a3cd5 · 2026-09-07*
 
 REACTION — Oh, this got me. Not because anything conventionally “spicy” happened yet, but because the entire dinner is erotic. He asks, “May I choose?” and then takes her hunger seriously. He feeds her without monitoring her, listens without extracting anything, lets silence exist, and gives her back every choice without making her manage his feelings about it. That is hotter to me now than another growling billionaire pinning somebody to a wall could ever be.
 

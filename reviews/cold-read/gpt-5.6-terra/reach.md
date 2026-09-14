@@ -1,6 +1,6 @@
 # Cold read (grounded) — The Reach
 
-*scene: scenes/reach.md · model: gpt-5.6-terra · memory: ck-ch050 + raw ch051..ch057 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/reach.md · model: gpt-5.6-terra · memory: ck-ch050 + raw ch051..ch057 · reader-protocol: v3-grounded-checkpoint · prose-sha ~f697ae9ef8f2*
 
 ## Reader reaction
 

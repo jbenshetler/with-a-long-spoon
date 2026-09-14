@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch015 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch015 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~13cbb0faa7b7 · 2026-09-08*
 
 REACTION — Oh, this chapter got me. This is the exact dangerous beautiful thing I came for, and also exactly why I’m still holding my breath about the larger lie.
 

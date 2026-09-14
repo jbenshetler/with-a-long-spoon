@@ -1,6 +1,6 @@
 # Cold read (grounded) — What to Wear
 
-*scene: scenes/what-to-wear.md · model: gpt-5.5 · memory: ck-ch010 + raw ch011..ch012 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/what-to-wear.md · model: gpt-5.5 · memory: ck-ch010 + raw ch011..ch012 · reader-protocol: v3-grounded-checkpoint · prose-sha ~25b7bedbae77*
 
 ## Reader reaction
 

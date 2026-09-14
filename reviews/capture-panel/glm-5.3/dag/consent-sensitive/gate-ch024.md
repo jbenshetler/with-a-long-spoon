@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch024 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch024 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~0b647a05ad40 · 2026-09-10*
 
 REACTION — Well. There it is. The jacket promised "a game between the two people now closest to her" and for twenty-three chapters I've been reading on faith, and now the book has finally taken me behind the door — literally in bed with them — and I'm sitting here with my tea gone cold.
 

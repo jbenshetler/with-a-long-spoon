@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
+*capture-dag-v2-rich · gate ch044 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~025d1b3f1ab8 · 2026-09-11*
 
 REACTION — Oh, this one hurt in the exact quiet place chapter 42 opened up. Not dramatic hurt. Worse: dorm-room, phone-glow, 3 a.m. hurt. The kind where nothing is happening except a girl realizing the object that used to soothe her has started telling the truth.
 

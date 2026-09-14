@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch046 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch046 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~eeeec469236e · 2026-09-08*
 
 Oh my GOD, a Randi chapter. FINALLY. Forty-five chapters of watching the glove bleed through in tiny drops and Rivers just took the whole glove off and handed it to me.
 

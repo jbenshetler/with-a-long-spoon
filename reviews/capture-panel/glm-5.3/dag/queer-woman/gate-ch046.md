@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch046 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch046 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~eeeec469236e · 2026-09-10*
 
 Oh, this book. This *book*. It walked me into a fairytale and I knew I was being handled and I let it, because I've learned by now that when this one runs the glossy version it's doing it on purpose — and then it did the thing where the gloss curdles one seam at a time, in the body, and I sat there in bed at midnight absolutely wrecked for a woman who has spent forty-five chapters being the wire.
 

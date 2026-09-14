@@ -1,6 +1,6 @@
 # Cold read (grounded) — Standards
 
-*scene: scenes/standards.md · model: claude-sonnet-5 · memory: raw ch001..ch001 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/standards.md · model: claude-sonnet-5 · memory: raw ch001..ch001 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint · prose-sha ~f388da9c70ea*
 
 ## Reader reaction
 

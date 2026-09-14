@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch027 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch027 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~08b46669b5c5 · 2026-09-10*
 
 REACTION — Oh, this chapter. This chapter is the con operating at full wattage and I'm sitting here clapping like a seal.
 

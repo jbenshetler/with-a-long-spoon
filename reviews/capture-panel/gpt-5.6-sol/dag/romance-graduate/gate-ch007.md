@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~b0e38f522c99 · 2026-09-07*
 
 REACTION — Oh, Cassie. I love her now. The tiny mercy of keeping the insult for Vee instead of performing it at the men, and then seeing Vee surface sad and refusing to interrogate her—just shooting water at her—felt like actual love. “Asking was for people who wanted the sad version to get bigger” got me right in the chest.
 

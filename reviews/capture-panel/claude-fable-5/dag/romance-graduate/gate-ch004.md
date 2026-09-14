@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch004 · claude-fable-5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch004 · claude-fable-5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~3a52a74c7617 · 2026-09-08*
 
 Oh, this chapter is *mean.* Not a single article of clothing comes off and I read the whole thing with my stomach clenched like something explicit was happening — because something explicit WAS happening, it just wasn't sex. It was Randi doing to Vee exactly what Pace did to Randi on that bench, except the bench is a stool at a coffee shop window and the restraints are "love you, girl."
 

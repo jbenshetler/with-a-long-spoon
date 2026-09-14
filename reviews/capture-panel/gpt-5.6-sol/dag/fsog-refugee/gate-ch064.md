@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch064 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch064 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~0b898fc22a01 · 2026-09-12*
 
 REACTION — Oh, this is the thing I have been hunting for. This exact impossible combination: he makes her hold still, makes her wait, turns obedience into sensation—and the whole time her desire remains visibly, noisily hers. She opens her own legs. She teases him on purpose. She ruins his solemn little artwork with her breast and he laughs. She asks for the photograph. Even the stillness isn’t her disappearing; it’s her discovering that she can stop fighting to manage every second because she trusts him to hold the shape of it. I was completely gone.
 

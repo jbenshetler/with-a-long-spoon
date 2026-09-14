@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch029 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch029 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~6e62cd46bbc6 · 2026-09-10*
 
 REACTION — Oh, this chapter. I finished it and just sat there for a minute, because the book did the thing I've been begging this genre to do for years, and it did it in a kitchen, over a sink full of dishes.
 

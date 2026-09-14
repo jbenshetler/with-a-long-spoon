@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-11*
+*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~2a7718a6147b · 2026-09-11*
 
 REACTION — Oh, this got me. Vee discovering that she can be the one who directs him—not because he has become less dominant, but because his control is attentive enough to stop at one lifted hand—was almost exactly the thing I have been waiting for. She points, he follows; she withdraws permission, his hands withdraw; her command turns into a plea, and he notices the difference. “Outranked, and not yet informed of the new order” made me grin. Her pleasure-princess revelation is silly and sexy and also true: she is not being kept for his use. He devotes himself to hers.
 

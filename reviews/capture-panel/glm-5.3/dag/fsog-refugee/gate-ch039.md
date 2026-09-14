@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch039 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch039 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~97724b44da95 · 2026-09-10*
 
 REACTION — Okay, I did not see that coming, and I should have — "outlier" has been the book's word since the lecture, the professor literally told us the second kind "comes in through the part that carries forward," and I still sat there with my heart in my throat watching the tag read MIRH. The professor's cereal-box oracle routine pays off again. This book cannot stop being clever about statistics and I've stopped being mad about it.
 

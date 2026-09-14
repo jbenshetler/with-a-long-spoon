@@ -1,6 +1,6 @@
 # Cold read (grounded) — Off Six-Fourteen
 
-*scene: scenes/off-six-fourteen.md · model: gpt-5.5 · memory: raw ch001..ch008 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/off-six-fourteen.md · model: gpt-5.5 · memory: raw ch001..ch008 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint · prose-sha ~b011ff26b790*
 
 ## Reader reaction
 

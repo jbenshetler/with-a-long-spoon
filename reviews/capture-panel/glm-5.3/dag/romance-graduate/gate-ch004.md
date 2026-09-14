@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch004 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch004 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~3a52a74c7617 · 2026-09-10*
 
 REACTION — Okay, so this chapter is where the book stops showing me the machinery and shows me the mark, and I hate how much I felt it. Because I've BEEN Vee. Not the sorority-adjacent part, but the standing outside Chi Latte reading the joke on the sign without being allowed in it — and then someone holds the door and the whole alphabet tips over into funny. The detail of her knowing she could wear what the floozies were wearing better than they could, and her mother's voice slamming the picture shut, and the cardigan staying buttoned — that's not a trope, that's a woman I recognize down to the spine. "The room did not know it was a choice, and she let it not know." Ouch. Yes.
 

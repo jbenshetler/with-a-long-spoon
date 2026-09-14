@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch055 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch055 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~213059ecdcb4 · 2026-09-11*
 
 REACTION: Okay, this is a bridge chapter and I know one on sight — the whole thing is a table, mimosas, and a Wednesday being loaded onto the calendar. And I don't resent it, mostly, because the Kayla stuff genuinely made me laugh ("the cord was stupid" — Meg's period-crime confession is exactly the kind of friendship texture this book does better than anything on my KU shelf). Kayla finally getting her moment as an actual person instead of a hallway obstacle was earned; her shrieking over the coat story while never learning what was *under* the coat is the book keeping its delicious secret right under a loud room, and I smiled the whole way through.
 

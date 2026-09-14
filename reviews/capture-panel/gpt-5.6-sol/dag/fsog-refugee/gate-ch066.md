@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~00dbf427b44c · 2026-09-12*
 
 REACTION — Oh, this is awful. Hot, tender, devastatingly hot—and morally awful.
 

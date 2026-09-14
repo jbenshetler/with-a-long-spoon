@@ -1,6 +1,6 @@
 # Cold read (grounded) — Fed
 
-*scene: scenes/fed.md · model: claude-sonnet-5 · memory: ck-ch010 + raw ch011..ch019 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/fed.md · model: claude-sonnet-5 · memory: ck-ch010 + raw ch011..ch019 · reader-protocol: v3-grounded-checkpoint · prose-sha ~8429b6ba440f*
 
 ## Reader reaction
 

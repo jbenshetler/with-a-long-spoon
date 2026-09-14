@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch009 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch009 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~b011ff26b790 · 2026-09-10*
 
 REACTION — God, I loved this chapter, and it's not even a *big* chapter — nothing happens but a girl coming home and telling her roommate about a kiss. But that's exactly what I've been starving for. The whole first stretch of this book has been about watching Pace and Randi operate, and it's gorgeous and unnerving, but Vee has mostly been the *object* — the girl being walked toward something. And this chapter is the first time we're entirely inside her happiness, and it turns out her happiness is the most erotic thing in the book so far. That spin. The clumsy full-body turn that nearly takes out the closet door. I felt that in my chest. That's what wanting a man looks like when you've never let yourself want anything.
 

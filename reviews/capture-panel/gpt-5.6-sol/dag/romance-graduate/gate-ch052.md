@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~2a7718a6147b · 2026-09-11*
 
 REACTION — Oh, this got me. The pleasure-princess turn is exactly the kind of erotic power shift I wanted for Vee: not some abrupt personality transplant into a flawless dominatrix, but her discovering she can make this immensely controlled man burn toast, follow her down the hall, strip on command, and wait for one pointing finger. She is playful. She is greedy. She is enjoying her body instead of merely enduring being desired in it. Her naked at the counter with one scrunchie on, Pace walking in with groceries and managing only “I got mushrooms”—that is absolutely the text I would send a friend at one in the morning.
 

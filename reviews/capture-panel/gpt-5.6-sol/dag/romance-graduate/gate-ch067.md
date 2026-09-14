@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch067 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch067 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~b11de8d9a5ce · 2026-09-11*
 
 REACTION — Oh, Vee. She is so far past “confused by one hot kiss” now, and watching her spend an entire day physically containing herself because touching herself while thinking of Randi would make the desire *true* absolutely got me. That hand held flat on her stomach like a lid—Jesus. She knows. Her body knows, her behavior knows, her closet knows. Only the part of her that assigns acceptable names is still fighting for its life.
 

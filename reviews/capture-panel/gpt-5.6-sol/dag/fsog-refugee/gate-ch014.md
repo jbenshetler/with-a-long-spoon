@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~67e76ab36d89 · 2026-09-07*
 
 REACTION — Oh, this man is going to ruin me with competence. The shoes for each kind of life, the used kitchen, the cracked fantasy paperbacks, the handmade joints, the MRI patent whose part he loves is getting frightened people out faster—I am helpless. Not because he’s secretly brilliant or secretly rich, but because everything he can do seems organized around attention. He makes things fit. He removes pain without making anyone feel foolish for having it. That is exactly my weakness.
 

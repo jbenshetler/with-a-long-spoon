@@ -1,6 +1,6 @@
 # Cold read (grounded) — The Usual
 
-*scene: scenes/the-usual.md · model: claude-opus-4-8 · memory: ck-ch040 + raw ch041..ch047 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/the-usual.md · model: claude-opus-4-8 · memory: ck-ch040 + raw ch041..ch047 · reader-protocol: v3-grounded-checkpoint · prose-sha ~c1f15218cc12*
 
 ## Reader reaction
 

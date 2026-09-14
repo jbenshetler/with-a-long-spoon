@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch028 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch028 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~630e5e2d2504 · 2026-09-11*
 
 REACTION — Oh, hello, Pace outside the bedroom and outside Vee’s gaze. I liked this. It’s short, but it has a very particular little bite: Sheri is apparently the blonde from the bar, or at least one of the bar women with eyes on the situation, and suddenly Pace has a woman in his life who is not softened around him, not glamour-handler Randi, not dazzled Vee. She’s blunt, athletic, vulgar in passing, loyal enough to keep watch, and dangerous in the “I can decide to dislike someone forever before breakfast” way. That worked on me immediately.
 

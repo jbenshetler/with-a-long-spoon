@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch015 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch015 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~13cbb0faa7b7 · 2026-09-08*
 
 REACTION — Oh, this chapter finally put its hand around my throat a little.
 

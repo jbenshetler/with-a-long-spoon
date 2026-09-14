@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
+*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~0511a4346bd0 · 2026-09-11*
 
 REACTION — Oh, Randi. You breathtaking, loving monster.
 

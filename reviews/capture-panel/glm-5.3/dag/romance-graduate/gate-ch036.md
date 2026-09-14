@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch036 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch036 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~9782a926aac2 · 2026-09-10*
 
 REACTION — Okay, this one's a breather, and honestly I needed it after the bistro chapter wrung me out. But leave it to this book to make even a roommate-at-midnight chapter have a knife in it. The tomato story — Vee's hand going to the side of her breast while she tells it, not knowing it moved — that's the whole book in one gesture. Her body keeps narrating what her mouth won't. And Cassie clocking "not enough on" — Cassie sees EVERYTHING. She's doing the math Vee won't do: warm house, never thinks about how much she has on, gone more nights than not. Cassie is the reader's proxy in that room, quietly counting deposits into the audit ledger.
 

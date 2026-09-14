@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch045 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch045 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~d6bbb290a65b · 2026-09-10*
 
 REACTION — Oh, this chapter. This is the one I've been braced for since the porch and the cracker-meal sentence, and it still hit me harder than I was ready for, because the book did the cruelest truest thing: it let her be *right* and let him be *sincere* at the same time, and those two facts collided in a doorway and she walked out into the cold.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch006 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch006 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~1b9cac32f89b · 2026-09-10*
 
 REACTION — God, this chapter is doing something to me and I'm mad about it. I know — I *know* — this whole thing is a setup. The jacket told me flat out: two people planned this, the collision on the lawn wasn't a collision, the coffee shop "crash" wasn't a crash. And chapter 5 confirmed it from inside Pace's head — Randi chose her, pointed at her, and the man walked into that shop knowing exactly who Vee Thorne was before she said her name. So I read the froyo date with two sets of eyes the whole time, and the creepy one kept losing to the warm one, which is precisely what this book is doing on purpose and I resent how well it works.
 

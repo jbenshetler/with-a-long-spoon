@@ -1,6 +1,6 @@
 # Cold read (grounded) — We Find Out
 
-*scene: scenes/we-find-out.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch031 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/we-find-out.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch031 · reader-protocol: v3-grounded-checkpoint · prose-sha ~f5d53e5b8494*
 
 ## Reader reaction
 

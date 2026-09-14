@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch021 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch021 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~0894d4db7f65 · 2026-09-10*
 
 REACTION — Okay, the crying at the dress caught me too. "He'd taken all that trouble and then taken the further trouble to hide the trouble" — that's the most Pace sentence this book has written, and it works on me every bit as effectively as it works on Vee, which I suspect is the point. The dress in the window, lit from inside itself, screw heads still bright on the newly hung mirror — he builds the room before she walks into it, every time, and the book keeps showing me the screw heads, which is the only reason I'm still here. The mirror wasn't there before. He hung it FOR the reveal. And I clocked it, felt the chill, and then watched her cry anyway, and I'm starting to understand what this book is doing to me: it lets me see the wiring and adore the light at the same time.
 

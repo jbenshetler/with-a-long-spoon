@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch014 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch014 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~67e76ab36d89 · 2026-09-10*
 
 REACTION — Okay, this chapter is the quiet kind of dangerous and I ate every bite of it. The house. I've been waiting chapters for this address and the book walked me through it room by room like it was letting ME case the place — the closet floor with one right pair for each thing, the two towels on the rod (TWO. I caught that. Who's the second towel for, book? I see you.), the too-warm heat with no draft, the closed bedroom door. And he made her LEAN toward that door and then didn't open it. She dressed in satin hoping, put on the hoping like armor under her clothes, and he just said "my bedroom" the way he said "kitchen" and walked her away. That dropped feeling in her — that's the whole engine, that's him rationing the want, and I'm feral about it.
 

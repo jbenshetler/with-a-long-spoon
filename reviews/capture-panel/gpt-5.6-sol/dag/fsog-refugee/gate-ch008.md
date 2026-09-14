@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~0149553a3cd5 · 2026-09-07*
 
 REACTION — Oh, this is exactly the thing I’m always looking for. “May I choose?” should not be that hot, and yet it absolutely is—because he isn’t taking the choice away from her. He asks, she gets to hand it over, and then he treats what she’s entrusted to him with care. That distinction matters so much to me. He doesn’t just order whatever he likes; he checks what she won’t eat and pays attention to how the choices fit together. It makes his control feel like shelter instead of pressure.
 

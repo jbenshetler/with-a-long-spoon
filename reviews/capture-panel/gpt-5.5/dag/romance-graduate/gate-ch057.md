@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch057 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch057 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~b9d0068c9a3c · 2026-09-11*
 
 REACTION — Oh, this got me. This is exactly the kind of “bridge” chapter I don’t resent because it isn’t really a bridge, it’s a room being built around her. Pace finally, publicly, repeatedly saying “Vee’s boyfriend” should have been small, almost funny, and instead it made me put a hand to my own chest a little. Because that was the thing. Not the capital-L word, not yet, but a word spent in public, in front of her people, with no flinch and no hedging. He didn’t perform masculinity at the table; he performed belonging to her. Delicious.
 

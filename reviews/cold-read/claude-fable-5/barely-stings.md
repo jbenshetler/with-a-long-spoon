@@ -1,6 +1,6 @@
 # Cold read (grounded) — Barely Stings
 
-*scene: scenes/barely-stings.md · model: claude-fable-5 · memory: ck-ch050 + raw ch051..ch052 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/barely-stings.md · model: claude-fable-5 · memory: ck-ch050 + raw ch051..ch052 · reader-protocol: v3-grounded-checkpoint · prose-sha ~0b898fc22a01*
 
 ## Reader reaction
 

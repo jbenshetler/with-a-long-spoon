@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch026 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
 
-**REACTION —**
+**REACTION —* · prose-sha ~427f956545f5*
 
 The dance lesson is the filthiest thing this book has done in weeks and nobody so much as took a shoe off. "Give me something to push back against — being jelly doesn't work." Do you understand what that sentence is. That's the entire grammar of this book — the frame, the push-back, the information traveling through the point of contact — taught to me on a cold concrete pad with a boom box held together with electrical tape. And the thing where the frame finally works and she realizes the closeness she fought is the thing that makes her free: *it held her in the one place the next step could come from, so there was nothing to do but take it.* I've read whole novels about submission that never got within a county of saying it that clean. I read that page twice with my hand over my mouth like Vee in front of the dress.
 

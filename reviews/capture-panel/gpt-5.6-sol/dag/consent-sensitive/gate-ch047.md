@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~ca7450e92130 · 2026-09-11*
 
 REACTION — Oh, Vee. This hurt in the horribly specific way of watching someone blame herself because the person who owes her clarity has made clarity impossible. Pace “leaves her the room,” yes—but now the room is freezing, and he has left her alone inside it. Space is not kindness when you know someone is asking you to cross it. She asked him plainly what she was to him, cried in front of him, walked out, and he has let the entire break pass in silence. Whatever tenderness he feels, this is cowardice.
 

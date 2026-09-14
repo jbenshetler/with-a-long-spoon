@@ -12,7 +12,7 @@ What really gets me, though—what makes this so deliciously uncomfortable—is 
 
 Meanwhile, poor Cassie is just quietly stepping off the tracks because she sees the train coming, even if she doesn't know what kind of train it is. The contrast between Cassie's grounded, quiet friendship and Randi's intoxicating, high-wattage seduction is stark. Vee is being utterly dismantled from both sides by Pace and Randi, and she is walking into it with an empty pink cup and a full heart. I'm hooked. I need the trap to start snapping shut.
 
-***
+** · prose-sha ~2ce78e0e23d6*
 
 GATE 10 — Dear
 DECISION: CONTINUE

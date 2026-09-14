@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~4ef676bfabab · 2026-09-07*
 
 REACTION — Oh, this is exactly the dangerous version of erotic intelligence I wanted. “He took the body’s answer for the true one” made every hair on me stand up—not entirely pleasantly. A body can reveal desire, yes, but Pace is so serenely certain that he understands Randi better than she understands herself, and I can already see how easily his tenderness becomes permission in his own mind. He gives her choices, but he is also designing the choices, the setting, the language, even the emotional route by which she reaches them. That is hot. That is also the trap. Finally, a book understands those can be the same fact.
 

@@ -1,6 +1,6 @@
 # Cold read (grounded) — hills-and-valleys
 
-*scene: scenes/hills-and-valleys.md · model: gpt-5.6-terra · memory: ck-ch020 + raw ch021..ch027 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/hills-and-valleys.md · model: gpt-5.6-terra · memory: ck-ch020 + raw ch021..ch027 · reader-protocol: v3-grounded-checkpoint · prose-sha ~f87e2efbe489*
 
 ## Reader reaction
 

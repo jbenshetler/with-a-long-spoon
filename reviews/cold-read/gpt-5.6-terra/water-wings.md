@@ -1,6 +1,6 @@
 # Cold read (grounded) — Water Wings
 
-*scene: scenes/water-wings.md · model: gpt-5.6-terra · memory: raw ch001..ch006 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/water-wings.md · model: gpt-5.6-terra · memory: raw ch001..ch006 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint · prose-sha ~b0e38f522c99*
 
 ## Reader reaction
 

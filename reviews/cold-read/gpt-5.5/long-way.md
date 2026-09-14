@@ -1,6 +1,6 @@
 # Cold read (grounded) — The Long Way
 
-*scene: scenes/long-way.md · model: gpt-5.5 · memory: raw ch001..ch005 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/long-way.md · model: gpt-5.5 · memory: raw ch001..ch005 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint · prose-sha ~1b9cac32f89b*
 
 ## Reader reaction
 

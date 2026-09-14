@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch006 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch006 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~1b9cac32f89b · 2026-09-10*
 
 REACTION — Okay, so almost nothing "happens" in this chapter, and I'm sitting here a little misty over frozen yogurt. The cup getting away from her — she builds it too big and there's no mother-voice saying *that's plenty* — did that actually land that hard? Yes. Because I've read five chapters of this girl portioning herself, thin apple slices, the whole apparatus, and this is the first time she takes too much of something and doesn't care. And he doesn't comment on it. He doesn't make it a Moment. He just tells her the tart is holding up. That's the whole romance in one line and I had to put my Kindle down.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~427f956545f5 · 2026-09-11*
 
 REACTION — Oh, Vee. The jealousy itself didn’t upset me nearly as much as the speed with which she turned it into her mother’s weapon and stabbed herself with it. Three dates, therefore she “spread her legs like a slut”—as though everything she actively wanted becomes degrading the instant she fears she wasn’t unique. That hurt because I know exactly how newly grown her sexual confidence still is. It looks radiant, but it has no roots yet. One insinuation from another woman and she can still be shoved all the way back into shame.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch044 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch044 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~025d1b3f1ab8 · 2026-09-10*
 
 REACTION — God, this one hurt. Three chapters in a row now of Vee reaching for the word and coming back with empty hands, and this one stripped the comfort objects away one by one — the text field she can't type into because "the ones she thought of were all small, and would be answered small and warm, and would leave her exactly here" — that's it, that's the whole trap in one sentence. He's never once answered her small, but he's never once answered the big thing either, because she can't send the big thing. The channel only carries what the channel carries.
 

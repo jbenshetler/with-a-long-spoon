@@ -1,6 +1,6 @@
 # Cold read (grounded) — My Pleasure
 
-*scene: scenes/my-pleasure.md · model: deepseek-v4-pro-0813 · memory: donor claude-fable-5 ck-ch050 + raw ch051..ch058 (pilot; predates ensemble core) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/my-pleasure.md · model: deepseek-v4-pro-0813 · memory: donor claude-fable-5 ck-ch050 + raw ch051..ch058 (pilot; predates ensemble core) · reader-protocol: v3-grounded-checkpoint · prose-sha ~ad99119c213f*
 
 ## Reader reaction
 

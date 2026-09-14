@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch039 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch039 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~97724b44da95 · 2026-09-10*
 
 REACTION — Okay. This is the chapter the whole book has been loading since the stats lecture, and it fires exactly where I was told it would and I still didn't see the target until the tag came up. MIRH. Randi built the graph herself — put her own shorthand on her own family's company and then touched it, in a glass room, in front of the two people she most wants not to see her — and the book let her do it to herself. Nobody exposed her. The data just sat there being true. That's this book's whole cruelty and its whole tenderness in one room: nobody ever *does* anything to anybody; things are simply revealed by what's already there.
 

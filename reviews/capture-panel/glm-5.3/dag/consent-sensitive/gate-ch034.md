@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch034 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch034 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~702b7231d0c3 · 2026-09-10*
 
 REACTION — Okay. I need to lie down and I'm the one who just read about someone else needing to lie down.
 

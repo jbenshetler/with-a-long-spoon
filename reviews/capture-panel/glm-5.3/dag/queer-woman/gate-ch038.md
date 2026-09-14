@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch038 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
 
-**REACTION —**
+**REACTION —* · prose-sha ~38dcf8e44cd8*
 
 I had to put the book down after the kiss, not because it was much — it was a half-inch — but because of who took the half-inch. Chapter 30, the practice room: her hand flat against her own knee, *she would not say yes to it.* I've been counting her refusals the way the book counts them, and this chapter is the first debit from that account: Randi starts to draw back, the way she always does, the choreography that's always hers to control — and Vee goes up after her. Takes the second of it. "She noticed it, and decided it was what she wanted, and didn't bother about it again." That's the book's whole method in one sentence, and for once it's pointed the direction I've been starving for: not Randi extracting, not the story installing wanting in her — Vee reaching, on her own steam, for a woman's mouth, and then filing it under *wanted, mine, next.* I nearly texted my friend a photo of that line at midnight. This is the F/F charge the blurb promised and I've been patient about, and it arrived the right way: sideways, in the body, before the mind will sign anything.
 

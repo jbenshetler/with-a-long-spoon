@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~905926aff4b8 · 2026-09-07*
 
 REACTION — Oh, this is dangerous. Not “dark romance” dangerous where a tattooed billionaire growls about ownership and everyone pretends coercion is chemistry. This is dangerous because Pace is attentive enough to feel safe, and his attention is genuinely erotic, and he is still catastrophically wrong about what has happened between them.
 

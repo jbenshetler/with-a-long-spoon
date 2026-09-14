@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch065 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch065 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~fda4df0f276c · 2026-09-11*
 
 REACTION — Oh no. Oh *no*. This chapter did the thing where I’m reading with one hand over my mouth and the other hand absolutely not turning the page slowly.
 

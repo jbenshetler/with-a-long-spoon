@@ -1,6 +1,6 @@
 # Cold read (grounded) — Another Round
 
-*scene: scenes/another-round.md · model: glm-5.3-flash · memory: ck-ch050 + raw ch051..ch059 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/another-round.md · model: glm-5.3-flash · memory: ck-ch050 + raw ch051..ch059 · reader-protocol: v3-grounded-checkpoint · prose-sha ~78023057031c*
 
 ## Reader reaction
 

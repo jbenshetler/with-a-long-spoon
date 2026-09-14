@@ -1,6 +1,6 @@
 # Cold read (grounded) — The New Ordinary
 
-*scene: scenes/new-ordinary.md · model: claude-sonnet-5 · memory: ck-ch030 + raw ch031..ch039 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/new-ordinary.md · model: claude-sonnet-5 · memory: ck-ch030 + raw ch031..ch039 · reader-protocol: v3-grounded-checkpoint · prose-sha ~bd8e09b92f09*
 
 ## Reader reaction
 

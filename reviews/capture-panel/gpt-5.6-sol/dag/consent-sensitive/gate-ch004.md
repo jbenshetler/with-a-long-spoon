@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~3a52a74c7617 · 2026-09-07*
 
 REACTION — Oh, this is terrifyingly effective. Vee is so hungry for admission into a world she’s been watching from outside that Randi barely has to do anything overt. The right pen, the preferred seat, the fashionable coffee shop, the high table—each tiny recognition hits Vee like intimacy. I felt how little nourishment she’s been living on, socially and emotionally, and how intoxicating it is when Randi serves her an entire feast of attention.
 

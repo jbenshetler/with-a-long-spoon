@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch007 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch007 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~b0e38f522c99 · 2026-09-10*
 
 REACTION — Okay, so nobody gets tied to anything in this chapter, and I'm not even mad. This one got me somewhere unexpected: I read it with my chest tight, and it took me a second to figure out why. It's the synchronized swimming suit. The one she wore at sixteen "when there'd been less of her to fill it. That was the trouble with Vee's suit: it fit, and it gave her nowhere to hide." God. That's the whole book's thesis about her body in two sentences, and it's sitting in a chapter about a Tuesday swim.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch064 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch064 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~0b898fc22a01 · 2026-09-12*
 
 REACTION — Oh no, this got me. This got me in the old helpless way, where I know exactly what machinery I’m watching and my body is still like, yes, thank you, place me gently inside the machinery.
 

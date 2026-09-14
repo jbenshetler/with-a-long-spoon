@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~13e407d9f33a · 2026-09-10*
 
 REACTION — Oh, this got me. The playfulness first—the ridiculous shorts flag, Vee discovering she can outmaneuver this enormous man, flashing him because she wants to make him lose control—felt so alive and young and specific that by the time he caught her, I was already grinning. She isn’t being transformed into some generic submissive doll. She’s bratty, competitive, delighted with herself, and actively provoking the thing she’s afraid to admit she wants.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch059 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-11*
+*capture-dag-v2-rich · gate ch059 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~8348ecb548e4 · 2026-09-11*
 
 REACTION — God, this one got under my skin in a way the explicit chapters usually don't, because it's not really about the sex at all. It's a chapter about the inch. A whole chapter, built entirely on one breath's width between her tongue and her own fingers — and I held my breath with her the entire time. That's the book earning its "psychologically merciless in its tenderness" line on the jacket; this is what merciless tenderness actually looks like. Not a scene where someone pushes past her no, but a room alone with the exact shape of her maybe, and nobody there to move it for her — which is precisely why it matters that *she* is the only one in the room. Nobody made this reach for her. Not even the book.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~1d8fca279859 · 2026-09-10*
 
 Oh, the shirt got me. That is such a naked little need—to admit she spent five nights breathing him out of the fabric, noticed the exact day his scent disappeared, and brought it back to be filled again. I would have expected that confession to trip every alarm I have about how fast she is disappearing into this relationship, and it did, a little. But Pace immediately putting the flannel on over the shirt he was already wearing is so perfectly him that I went soft anyway. No teasing, no making her wish she had not asked, just: *all weekend*. I understand exactly why she loves him.
 

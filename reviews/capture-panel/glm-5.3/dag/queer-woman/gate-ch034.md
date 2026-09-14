@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch034 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch034 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~702b7231d0c3 · 2026-09-10*
 
 REACTION — I had to put the book down after the glaze. I'm going to say this plainly because there's no other honest way to say it: Vee never touched the pastry. She watched Randi take one neat bite and close the subject. And on the sidewalk, after the kiss, she tastes sugar and butter and something warm on her own lip. Randi fed her the sweetness she refused to take with her own hand. Title of the chapter: *One Bite.* The book knows exactly what it did and it put the receipt in its own title and I sat there in my kitchen with my tea getting cold feeling completely, expertly handled.
 

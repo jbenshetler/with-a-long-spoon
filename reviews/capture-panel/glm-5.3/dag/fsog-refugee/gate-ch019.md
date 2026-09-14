@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch019 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch019 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~1f134f523a50 · 2026-09-10*
 
 REACTION — Okay, I'm just sitting here with the dumbest grin, and also a little ache under it.
 

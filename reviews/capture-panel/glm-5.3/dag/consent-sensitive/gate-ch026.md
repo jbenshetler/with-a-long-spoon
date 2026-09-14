@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch026 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch026 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~427f956545f5 · 2026-09-10*
 
 REACTION — Okay. This chapter did a number on me, and I need to say the uncomfortable part first: "she'd spread her legs like a slut" — that's her mother's voice, the same voice that gave her "floozy" in front of the mirror, and this time it wasn't hot, it was a lash. And the book KNOWS it's a lash. That's the whole difference. The shame-running-on-the-same-wire-as-heat thing from the fitting has a dark twin now, and the chapter let me feel how thin the membrane is between "shame becoming wanting" (the dress, the slit, delicious) and "shame becoming self-punishment" (this, awful). She sat at that bar nursing a drink and turning down men and whipping herself with floozies and how-many-of-them — I've BEEN that girl at 1 a.m. and I hated watching it and couldn't look away.
 

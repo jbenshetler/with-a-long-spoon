@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch056 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-11*
+*capture-dag-v2-rich · gate ch056 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~c23f4d1deeee · 2026-09-11*
 
 REACTION — Chapter 56
 

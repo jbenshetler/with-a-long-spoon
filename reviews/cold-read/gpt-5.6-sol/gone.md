@@ -1,6 +1,6 @@
 # Cold read (grounded) — Gone
 
-*scene: scenes/gone.md · model: gpt-5.6-sol · memory: ck-ch020 + raw ch021..ch023 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/gone.md · model: gpt-5.6-sol · memory: ck-ch020 + raw ch021..ch023 · reader-protocol: v3-grounded-checkpoint · prose-sha ~a10661074dee*
 
 ## Reader reaction
 

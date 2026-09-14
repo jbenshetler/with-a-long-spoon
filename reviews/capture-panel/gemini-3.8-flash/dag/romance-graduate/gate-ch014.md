@@ -18,7 +18,7 @@ I stopped breathing. That is the most calculated, exquisitely gentle psychologic
 
 "Every yes was freely given. That was the problem." The jacket blurb is echoing in my skull like church bells. This man is a predator wrapped in quartersawn oak and mathematical patience, and I am completely, utterly captivated.
 
-***
+** · prose-sha ~67e76ab36d89*
 
 GATE 14 — Two Towels
 DECISION: CONTINUE

@@ -1,6 +1,6 @@
 # Cold read (grounded) — Old Acquaintances
 
-*scene: scenes/old-acquaintances.md · model: claude-fable-5 · memory: ck-ch040 + raw ch041..ch046 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/old-acquaintances.md · model: claude-fable-5 · memory: ck-ch040 + raw ch041..ch046 · reader-protocol: v3-grounded-checkpoint · prose-sha ~b247f2c75c88*
 
 ## Reader reaction
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch006 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch006 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~1b9cac32f89b · 2026-09-07*
 
 REACTION — Oh, this got me in a quieter place than the explicitly sexy chapters did. Vee saying, “It’s the rule,” and Randi answering, “The rule’s for boys you’re not sure about” is exactly the grown-up competence I’m hungry for. No fake delay, no coy little texting obstacle pretending to be tension. She wants him, he wants her, so she goes.
 

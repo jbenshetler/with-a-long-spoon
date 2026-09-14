@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch017 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~d92de80cac99*
 
 I need to lie down and I'm the one just *reading* this.
 

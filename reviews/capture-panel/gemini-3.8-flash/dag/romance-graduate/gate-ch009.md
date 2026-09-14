@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~b011ff26b790 · 2026-09-10*
 
 REACTION
 

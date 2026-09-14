@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch060 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch060 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~f697ae9ef8f2 · 2026-09-11*
 
 REACTION — Oh. Oh, that is *much* worse than I thought.
 

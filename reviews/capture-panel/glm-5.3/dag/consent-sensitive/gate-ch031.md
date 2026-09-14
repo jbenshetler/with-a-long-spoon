@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch031 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch031 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~230524645ef4 · 2026-09-10*
 
 REACTION — God, this chapter. I've been dreading the induction for ten chapters as the scheduled detonation, and the book did the cruelest, kindest thing: it took the detonation away. Pace is in Berkeley. Randi isn't even in the room. The whole architecture — the dress built to be seen, the shoes, the plan — and at the moment of detonation, the machinery is absent, and what's left is just Vee, alone with a decision nobody scripted: the short careful step or the long one.
 

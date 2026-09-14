@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch016 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch016 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~6b85b74f7cb8 · 2026-09-10*
 
 REACTION — This one's a cooldown chapter and I know it — the story beats are all replay, Vee retelling Saturday to Cassie — and I'd normally get itchy at a chapter that's 90% recap. Except this book keeps doing the thing where the retelling IS the story, because we get to watch Vee metabolize what happened to her, and that's the part I'm actually here for. Watching her say "Like I was supposed to be there" and then go quiet long enough that it's not about finding a word — that hit me in the chest. That's interiority. That's a woman discovering her own desire out loud, to the one person who sees her straight, and it costs her something to say it.
 

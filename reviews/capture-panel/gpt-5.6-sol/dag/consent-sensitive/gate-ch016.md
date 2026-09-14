@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~6b85b74f7cb8 · 2026-09-07*
 
 REACTION — I am so relieved to be back in the room with Cassie. She gives Vee somewhere to bring all this intensity without immediately defining it for her, and that little touch on the knee—then taking her hand back—felt almost painfully decent. She can be close without converting closeness into leverage. At this point that makes her practically unique.
 

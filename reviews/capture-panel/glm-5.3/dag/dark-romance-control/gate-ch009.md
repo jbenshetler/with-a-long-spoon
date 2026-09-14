@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch009 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch009 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~b011ff26b790 · 2026-09-10*
 
 REACTION — Okay, so on its face this chapter is the thing I don't read these books for: two roommates in socks, giggling about a cute dinner, a bean bag spin, "look at me." If this were a standalone, I'd be reaching for my phone to find something with a body count.
 

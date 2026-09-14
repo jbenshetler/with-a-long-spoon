@@ -1,6 +1,6 @@
 # Cold read (grounded) — See You Later
 
-*scene: scenes/see-you-later.md · model: gpt-5.6-terra · memory: raw ch001..ch003 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/see-you-later.md · model: gpt-5.6-terra · memory: raw ch001..ch003 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint · prose-sha ~6f17cd767a62*
 
 ## Reader reaction
 

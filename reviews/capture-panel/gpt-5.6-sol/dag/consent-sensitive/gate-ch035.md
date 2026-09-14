@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~3fae9b31dd45 · 2026-09-11*
 
 REACTION — Oh, the drawer got me. Damn him, the drawer got me.
 

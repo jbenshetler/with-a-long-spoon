@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~8aff12752f2e · 2026-09-11*
 
 REACTION — Oh, this got me in exactly the dangerous place it meant to. Randi kneeling in front of Vee, taking her foot in both hands, noticing the plum polish and giving her that one little “Mm”? That was hotter than half the actual sex scenes I’ve read. Vee’s hand flying to Randi’s shoulder because one thumb over her toenail went through her whole body—there it is. She wants her. Not abstractly, not because Randi is glamorous, not as some “French thing.” Her body knows, even if she still will not say it.
 

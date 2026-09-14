@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~578546d8a374 · 2026-09-07*
 
 REACTION — Oh, Cassie. “Not *Oh, Vee.* Just her name, like setting something down where it wouldn’t break.” That got me. She lets Vee tell the story as a triumph because, to Vee, it is one—and she doesn’t contaminate it with interrogation, teasing, or the anxiety she very clearly has. “Borrow real boots next time” is such a perfect act of love: practical concern without making Vee ashamed of wanting another next time.
 

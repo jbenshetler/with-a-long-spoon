@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch028 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch028 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~630e5e2d2504 · 2026-09-11*
 
 REACTION — Oh, there it is. “Randi. That’s not finished.” Four words, and suddenly Vee’s imagined boyfriend-shaped relationship has another woman sitting squarely inside it. Pace knows perfectly well he has two women in motion at once, lets Sheri name the situation that way, and apparently sees no urgent reason either woman—especially Vee—should have the same information.
 

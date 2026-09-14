@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch063 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch063 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~f6415b9043be · 2026-09-12*
 
 REACTION — Chapter 63 hit a nerve I didn't know was exposed. The waxing scene. Okay. The first two-thirds had me nodding — the salon as a liminal space, the two girls on the couch, "which one she was," the wine she drank too fast, the mother's voice ("the kind of girl who") that never quite dies. That's all good, that's the book's usual precision. But then the wrong hand. *That* was the moment I had to put the book down for a second and just sit with.
 

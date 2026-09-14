@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~b727880313ed · 2026-09-10*
 
 REACTION — “The one place I got both my girls in a single room” made me go soft and then immediately afraid. Vee thinks she is sitting between two separate kinds of love: Cassie, who sees her without needing the spectacle, and Randi, who turns every appetite into an occasion. But I know Randi is secretly joined to Pace, and the image of Vee “happy in the middle” feels almost unbearably exact. She believes she has three points of safety around her. She does not know two of them are already a line.
 

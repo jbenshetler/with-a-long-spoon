@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch069 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch069 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~c10b93dddd9c · 2026-09-12*
 
 REACTION — Okay, I read this one with my whole body and then had to go back and check my instruments, and here's what I found: the book still sees everything. It sees.
 

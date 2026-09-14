@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~702b7231d0c3 · 2026-09-10*
 
 REACTION — Oh, she wants Randi. There is nowhere left to hide it, finally. Not “women, perhaps,” not Pace reflected through a woman, not generalized arousal left over from a story: Vee puts her own hand inside herself and Randi’s face appears, fond and near, looking at her like she is the best thing in the room. That is the truth I have been waiting for, and it hurts that the looking stops her rather than carries her over. She can want Randi with her whole body, but she still cannot bear to imagine Randi knowing she wants her back.
 

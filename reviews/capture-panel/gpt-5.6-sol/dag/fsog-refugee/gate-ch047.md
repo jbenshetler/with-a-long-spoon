@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~ca7450e92130 · 2026-09-11*
 
 REACTION — Oh, Vee. This hurt in that horribly recognizable way where nobody has officially left you, so you don’t even feel entitled to grieve, but you’re already rehearsing being replaced. Pace’s precious room to choose has become an empty room he leaves her alone inside. Consent is not the problem here; his silence is. She finally asked plainly, walked away crying when he would not answer, and he has let the entire break pass without reaching for her. I love what he gives her when she is physically before him, but right now I am furious at how completely his tenderness depends on proximity. Warm the house, cook the meal, read every breath—but apparently do nothing when care requires words and the risk of being refused.
 

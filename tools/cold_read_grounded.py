@@ -57,6 +57,7 @@ import os
 import re
 import sys
 import time
+from datetime import date
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -107,6 +108,70 @@ def reader_slugs() -> list[str]:
 def boundary(n: int, decade: int) -> int:
     """Last decade checkpoint strictly before chapter n (0 = none / opening cold)."""
     return ((n - 1) // decade) * decade
+
+
+def scene_sha(slug: str) -> str:
+    """Short hash of a scene's clean text — what the reader actually read.
+
+    Recorded in every review header so a later edit to the prose is detectable
+    instead of silent. See `--check-stale`."""
+    return hashlib.sha256(
+        checkpoint_bundle.clean_scene_text(slug).encode()).hexdigest()[:12]
+
+
+def recorded_prose_sha(review: Path) -> str | None:
+    """The prose-sha a review recorded, or None if it predates the tracking."""
+    try:
+        head = review.read_text(encoding="utf-8").split("## Reader reaction", 1)[0]
+    except OSError:
+        return None
+    m = re.search(r"prose-sha ~?([0-9a-f]{12})", head)
+    return m.group(1) if m else None
+
+
+def stale_report(model_ids: list[str]) -> dict:
+    """Which existing reviews were written against prose that has since changed.
+
+    A cold read is one chapter deep, so there is no window/checkpoint cascade to
+    tier here as there is in capture_dag — a review is stale or it isn't. Never
+    blocks; this is a warning.
+    """
+    stale, unverifiable, ok = [], 0, 0
+    for m in model_ids:
+        d = REPO / "reviews" / "cold-read" / m
+        if not d.is_dir():
+            continue
+        for f in sorted(d.glob("*.md")):
+            slug = f.stem
+            rec = recorded_prose_sha(f)
+            if rec is None:
+                unverifiable += 1
+                continue
+            try:
+                cur = scene_sha(slug)
+            except Exception:
+                continue
+            if rec != cur:
+                stale.append((m, slug))
+            else:
+                ok += 1
+    return {"stale": stale, "unverifiable": unverifiable, "current": ok}
+
+
+def print_stale_report(rep: dict) -> None:
+    if rep["unverifiable"]:
+        print(f"  note: {rep['unverifiable']} review(s) predate prose-sha tracking "
+              f"— staleness unverifiable for those", flush=True)
+    if rep["stale"]:
+        print(f"  STALE PROSE — {len(rep['stale'])} review(s) written against text "
+              f"that has since changed:", flush=True)
+        for m, slug in rep["stale"][:20]:
+            print(f"    {m:22} {slug}", flush=True)
+        if len(rep["stale"]) > 20:
+            print(f"    … and {len(rep['stale']) - 20} more", flush=True)
+        print("    proceeding — re-read with `--scope <slug> --fresh`", flush=True)
+    elif rep["current"]:
+        print(f"  prose check: {rep['current']} review(s) match current text", flush=True)
 
 
 def memory_line(model_id: str, n: int, decade: int) -> str:
@@ -407,6 +472,7 @@ def emit_packet(model_id: str, n: int, decade: int) -> tuple[str, Path, list[str
     token, d, ordered = _write_chunked_packet(text, head, tail)
     header = (f"# Cold read (grounded) — {title}\n\n"
               f"*scene: scenes/{slug}.md · model: {model_id} · memory: {memory_line(model_id, n, decade)} · "
+              f"prose-sha {scene_sha(slug)} · read: {date.today().isoformat()} · "
               f"reader-protocol: {READER_PROTOCOL}*\n\n## Reader reaction\n\n")
     _set_destination(d, f"reviews/cold-read/{model_id}/{slug}.md", header)
     return token, d, ordered
@@ -981,8 +1047,17 @@ def main() -> None:
                     help="salvage: read reaction/checkpoint text from stdin and persist it to "
                     "PACKET_ID's destination (same file write_output would write). Use when a "
                     "Claude reader subagent returned its text instead of calling write_output.")
+    ap.add_argument("--check-stale", action="store_true",
+                    help="report which existing reviews were written against prose that "
+                         "has since changed, then exit. Costs no tokens.")
     args = ap.parse_args()
     model_id = args.model_id or args.model
+
+    if args.check_stale:
+        models = [model_id] if model_id else sorted(
+            p.name for p in (REPO / "reviews" / "cold-read").iterdir() if p.is_dir())
+        print_stale_report(stale_report(models))
+        return
 
     if args.emit_prompt is not None:
         try:

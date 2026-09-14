@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch066 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch066 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~00dbf427b44c · 2026-09-11*
 
 REACTION — Oh, this chapter. This is the one I've been waiting sixty-six chapters for without knowing it, and it gutted me in the exact way this book does it — tenderness with a blade in it.
 

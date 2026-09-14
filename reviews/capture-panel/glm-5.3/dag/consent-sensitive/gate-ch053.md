@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch053 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-11*
+*capture-dag-v2-rich · gate ch053 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~ec1574909bf3 · 2026-09-11*
 
 REACTION — Oh, this is the chapter I didn't know I was waiting for. After the doorway and the cashmere and the pancakes, I braced for the book to keep riding the heat, and instead it did the thing I love it most for: it went quiet and showed me what's actually in the man.
 

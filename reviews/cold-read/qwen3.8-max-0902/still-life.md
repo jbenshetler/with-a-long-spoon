@@ -1,6 +1,6 @@
 # Cold read (grounded) — Still Life
 
-*scene: scenes/still-life.md · model: qwen3.8-max-0902 · memory: ensemble core ck-ch060@a51b55cd0ec8 + raw ch061..ch062 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/still-life.md · model: qwen3.8-max-0902 · memory: ensemble core ck-ch060@a51b55cd0ec8 + raw ch061..ch062 · reader-protocol: v3-grounded-checkpoint · prose-sha ~fda4df0f276c*
 
 ## Reader reaction
 

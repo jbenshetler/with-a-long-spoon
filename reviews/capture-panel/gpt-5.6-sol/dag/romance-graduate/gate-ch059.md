@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch059 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch059 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~8348ecb548e4 · 2026-09-11*
 
 Oh, this got me. Not because she managed to taste herself—she didn’t—but because the wanting was real and the refusal was real, and neither one canceled the other. That breath’s width between her tongue and her fingers felt more intimate than half the sex scenes I’ve read this year. She wasn’t performing bravery for Pace or following one of Randi’s scripts. She was alone, trying to discover where her own boundary actually lived, and her body could want past the point her mind could cross. That is exactly the kind of interiority I’ve been starving for.
 

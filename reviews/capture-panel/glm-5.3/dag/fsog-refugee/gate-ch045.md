@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch045 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~d6bbb290a65b*
 
 I had to put the book down after she walked out, and then I picked it right back up because I couldn't stand leaving her in that driveway.
 

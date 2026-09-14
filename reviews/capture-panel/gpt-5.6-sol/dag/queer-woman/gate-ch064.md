@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch064 · gpt-5.6-sol · queer-woman · prompt-sha 914114a6274c · 2026-09-12*
+*capture-dag-v2-rich · gate ch064 · gpt-5.6-sol · queer-woman · prompt-sha 914114a6274c · prose-sha ~0b898fc22a01 · 2026-09-12*
 
 REACTION — Oh, this got me. The painting should have been ridiculous—and was ridiculous, frankly, two cantaloupe breasts and a cherry over her cunt—but it landed somewhere much more tender than prettiness. He made a still life out of every part of her she has spent years treating as excessive, and the excess was the beauty. “His paint only said where to look” nearly undid me. Then her seeing the photograph and feeling pride before shame could even get through the door: yes. That is the woman I’m here for.
 

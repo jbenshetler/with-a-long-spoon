@@ -1,6 +1,6 @@
 # Cold read (grounded) — Toenails
 
-*scene: scenes/toenails.md · model: claude-sonnet-5 · memory: ck-ch010 + raw ch011..ch018 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/toenails.md · model: claude-sonnet-5 · memory: ck-ch010 + raw ch011..ch018 · reader-protocol: v3-grounded-checkpoint · prose-sha ~1f134f523a50*
 
 ## Reader reaction
 

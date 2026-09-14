@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch067 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch067 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~b11de8d9a5ce · 2026-09-12*
 
 REACTION — Okay, this is the chapter I've been braced for since the mixer, and it did the thing I most respect this book for: it let Vee's defenses work *and fail* in the same hour, and it never once pretended the wanting was tidy.
 

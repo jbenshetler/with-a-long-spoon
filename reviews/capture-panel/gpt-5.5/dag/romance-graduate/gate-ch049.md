@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
+*capture-dag-v2-rich · gate ch049 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~c1f15218cc12 · 2026-09-11*
 
 REACTION — Oh. Well, there it is. Pace finally alone with himself, and it is both satisfying and awful, because yes, I wanted inside him, and yes, I wanted proof that he knew exactly what he did wrong. And the book gives it to me without letting him off. He knew. He knew on the porch. He felt the real answer rise and chose the smaller truth. That is the sentence I have been waiting to hear and also the one that makes me want to throw something soft at him very hard.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch025 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch025 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~178a1c64010d · 2026-09-10*
 
 REACTION — Oh, this chapter. This is the one I've been braced for since the carry-forward notes, and the book did the thing I was betting my whole read on: it *knew*.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch039 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch039 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~97724b44da95 · 2026-09-10*
 
 REACTION — Okay, so this is the chapter where the book takes the sex away entirely and dares me to keep reading, and the annoying thing is I *ran*. Because this was the outliers lecture paying off in real time — my notes literally said "this professor is in on it" when Vee's stats class did outliers two weeks ago, and now the outlier walks into the story wearing Randi's whole legal name. Miranda Holdings, LLC. Her dad took the money, kept nobody on payroll, and Randi — who spent the whole scene telling Cassie the loans *kept people on*, who grew up inside those businesses and said "the country isn't my county" — had to sit there and read it in front of her two best friends with her face going to nothing. "Cheating bastards," said with no *these* in it, ragged, first-time words, aimed too near. God, that was the line. She was calling her father a cheating bastard and Cassie heard agreement and Vee heard the whole thing.
 

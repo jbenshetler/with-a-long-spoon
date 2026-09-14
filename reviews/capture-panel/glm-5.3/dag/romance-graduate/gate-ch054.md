@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch054 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch054 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~bb2635a8b1b0 · 2026-09-11*
 
 REACTION — Oh, this is the chapter I didn't know I needed. After two chapters of heat that actually earned its reputation, the book just... hands me two girls in an overcooked dorm room, one highlighter, and a doll-sized sweater, and it's the warmest thing in fifty-four chapters. Cassie getting real page time at last — I've been counting her lines for chapters and here she is, doing what only she does: turning the whole chair around. "Pace. Shrank your sweater." Beat. "To a doll size." And then the rare full laugh. I felt like I'd been given a present.
 

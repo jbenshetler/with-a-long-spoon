@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch014 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch014 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~67e76ab36d89 · 2026-09-08*
 
 Oh, this chapter is doing the thing I keep warning myself about, and I fell for it anyway, and I KNOW I fell for it, and that's the whole design of this book, isn't it. I am Vee. Helen Rivers made me Vee. The jacket literally warned me — "lets the reader, ahead of her from the start, fall for it exactly as she does" — and I just spent a chapter going soft over hand-cut joinery like some woman who reads books where people *cook dinner*.
 

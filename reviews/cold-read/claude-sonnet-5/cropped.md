@@ -1,6 +1,6 @@
 # Cold read (grounded) — Cropped
 
-*scene: scenes/cropped.md · model: claude-sonnet-5 · memory: ck-ch040 (no window) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/cropped.md · model: claude-sonnet-5 · memory: ck-ch040 (no window) · reader-protocol: v3-grounded-checkpoint · prose-sha ~d75264abed57*
 
 ## Reader reaction
 

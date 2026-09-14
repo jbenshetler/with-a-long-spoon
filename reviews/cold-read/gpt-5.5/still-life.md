@@ -1,6 +1,6 @@
 # Cold read (grounded) — Still Life
 
-*scene: scenes/still-life.md · model: gpt-5.5 · memory: ck-ch060 + raw ch061..ch063 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/still-life.md · model: gpt-5.5 · memory: ck-ch060 + raw ch061..ch063 · reader-protocol: v3-grounded-checkpoint · prose-sha ~fa13475bf6b9*
 
 ## Reader reaction
 

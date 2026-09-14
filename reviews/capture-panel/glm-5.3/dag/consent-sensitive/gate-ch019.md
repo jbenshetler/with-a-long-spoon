@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch019 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch019 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~1f134f523a50 · 2026-09-10*
 
 REACTION — This one's short and quiet and it got me twice. First at the sheer animal happiness of it — Vee standing in the cold room with her skirt on the floor and the smile that won't come down, "never in her life been so happy." After eighteen chapters of her starving, the book finally fed her, and I felt it. The prose kept the shame-loop running through the whole sex chapter and never let it close her out — and this chapter confirms it held: "The word could come; she found she didn't much mind it this morning." That's the arc I've been dreading and wanting at once. She's not cured of her mother; the voice just lost its grip for a night. That's the honest version.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch009 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch009 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~b011ff26b790 · 2026-09-08*
 
 REACTION — Oh, this one hurt in the good way, and it's such a *small* chapter, that's the thing. It's just two girls in a dorm room. But I read the whole thing with my stomach slightly clenched, because I know what's off six-fourteen. I've *been* in that house. I know about the white laminate counters and the honeycrisp sliced thin and the bench with the top leaning against the wall, and Vee is counting off her little dossier — "I know where he lives and everything" — like it's proof of safety, and Cassie is joking about state troopers, and I wanted to reach through the page and say honey, the danger isn't the mountain.
 

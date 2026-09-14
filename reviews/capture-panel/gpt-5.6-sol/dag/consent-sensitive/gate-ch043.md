@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~2a7036ffc678 · 2026-09-11*
 
 Oh, Vee. No. The fact that she crosses the room telling herself she has forgiven him when he has done nothing requiring forgiveness—and she has just accused him of punishing her for a coldness that was actually hers—is the moment my stomach dropped. Pace explains a sensory limitation with extraordinary vulnerability, and she turns the resulting relief into proof that her version of the conflict was essentially right. Not because she is cruel. Because “I forgave him” hurts less than “I attacked him because I am terrified he doesn’t love me.” That rug is getting very crowded.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch047 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch047 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~ca7450e92130 · 2026-09-10*
 
 REACTION — God, this chapter hurt in the exact way I signed up for. It's a mirror chapter — we just lived Randi's Gstaad night in all its gilt and hollow, and now we get the same forty minutes from the twin bed in Ohio, and the book is doing something structurally nasty: two women lying awake on opposite sides of the ocean, each holding a love she can't say, each texting the other the only honest sentence she'll send all night. *thinking about you 💛* written in a lavender-scented bedroom, answered from a hotel bed next to a perfect nothing of a man. The dramatic irony is a knife — Vee reads Randi's reply as "a devastatingly handsome billionaire, a weekend so wild," and I know, because I just read it, that Randi was cold everywhere the fur didn't reach, repairing her lipstick over a sleeping man, wishing it was Pace, wishing it was Vee. Vee is envying a poisoned fairytale while the woman living it was envying HER.
 

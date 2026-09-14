@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch029 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch029 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~6e62cd46bbc6 · 2026-09-10*
 
 REACTION — Okay. Okay okay okay. I need to text someone about this chapter and it's 1 a.m. and no one is awake, so this is getting the whole treatment.
 

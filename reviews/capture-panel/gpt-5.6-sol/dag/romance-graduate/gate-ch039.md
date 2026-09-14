@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch039 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch039 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~97724b44da95 · 2026-09-10*
 
 REACTION — Oh, this hurt in such a quiet, exact way. Vee finally catches Randi without the performance—not sexually, not strategically, not during one of those tiny lapses Randi can turn into a grin, but genuinely blindsided—and her first instinct is to protect her. She gives Randi busywork, asks answerable questions, keeps Cassie from seeing, and never makes her explain. That is such real, adult tenderness. And Randi has done absolutely nothing to deserve that degree of trust from her.
 

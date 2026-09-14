@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch024 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch024 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~0b647a05ad40 · 2026-09-10*
 
 REACTION — Oh, there it is. The floor of the book. I've been walking on it for twenty-three chapters feeling it under my feet — the coffee shop too convenient, the Fridays too vague, "which hip" — and now I'm standing in the room under the room, Sade playing low under the door, and I feel sick and vindicated and *more* inside this thing than I was an hour ago, which I didn't think was possible.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch005 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch005 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~22330aaefd51 · 2026-09-07*
 
 REACTION — Oh, this is exactly my weakness. He asks for the pencil with his eyes. He gives it back at the precise moment when she can finish the problem herself. And then, after listening to her talk about something she genuinely cares about, he asks, “May I call you?” I am done for. That is the whole fantasy for me: not a man overwhelming her into submission, but a man paying such exact attention that having room to choose becomes its own kind of intensity.
 

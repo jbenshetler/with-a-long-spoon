@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch036 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch036 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~9782a926aac2 · 2026-09-10*
 
 REACTION — Okay, so this is the kind of chapter that on any other book I'd call filler, but this book has earned its quiet beats by making every domestic detail a load-bearing lie. Still. A whole chapter of "he cooks with intent and I don't come home anymore" told to Cassie is the book slowing waaay down after the brunch chapter — and the brunch chapter was the best thing this book has done since the kitchen. Going from Randi's "sticky fingers?" and that glaze-tasting kiss to... a cozy dorm recap with the thermostat of a Tuesday. My shelf-brain was tapping its foot.
 

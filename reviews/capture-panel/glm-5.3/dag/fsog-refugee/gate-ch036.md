@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch036 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~9782a926aac2*
 
 She finally told Cassie. Not the middle — she told her the *shape* of it, the weeks, the cooking, the warmth — and I'd been waiting chapters for this and I still wasn't ready for how it landed. "You don't come home school nights." Cassie counted. She's been counting the empty bed the whole time, quietly, the way she counts everything, and she waited until Vee ran out of words before she put the count on the table. That's Cassie's love language — she doesn't say I miss you, she says *I noticed you were gone* and lets Vee do the math.
 

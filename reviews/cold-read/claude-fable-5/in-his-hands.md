@@ -1,6 +1,6 @@
 # Cold read (grounded) — In His Hands
 
-*scene: scenes/in-his-hands.md · model: claude-fable-5 · memory: ck-ch030 + raw ch031..ch036 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/in-his-hands.md · model: claude-fable-5 · memory: ck-ch030 + raw ch031..ch036 · reader-protocol: v3-grounded-checkpoint · prose-sha ~38dcf8e44cd8*
 
 ## Reader reaction
 

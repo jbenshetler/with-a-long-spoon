@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch069 · claude-opus-4-8 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-12*
+*capture-dag-v2-rich · gate ch069 · claude-opus-4-8 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~c10b93dddd9c · 2026-09-12*
 
 REACTION
 

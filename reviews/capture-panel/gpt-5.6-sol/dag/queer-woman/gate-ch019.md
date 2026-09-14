@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~1f134f523a50 · 2026-09-10*
 
 REACTION — Oh, Vee. That happiness is so bright it almost hurts—and I believe it. The smile returning at every red light, the utterly wrecked hair, the toenails Cassie clocked immediately: she’s inhabiting her own pleasure instead of standing outside it grading herself. Even her mother’s word has lost some of its voltage. She knows exactly what she did, and this morning she’s glad.
 

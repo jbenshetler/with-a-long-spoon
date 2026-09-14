@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch069 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch069 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~c10b93dddd9c · 2026-09-12*
 
 REACTION — Oh, this is the Pace I keep falling for against my better judgment. “That he took her weight seriously” got me before anything sexual happened. He gives the tiny plates the same care as his own, arranges the bench so she is never responsible for more than she can hold, and notices danger before she even knows what he has seen. Then, when those boys hurt her, he does not turn her injury into a performance of masculine rage. “Apologize to the woman you hurt.” Yes. Exactly. He makes them look at the person their carelessness landed on, then gets her out of there.
 

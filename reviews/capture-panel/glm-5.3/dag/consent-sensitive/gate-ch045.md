@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch045 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch045 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~d6bbb290a65b · 2026-09-10*
 
 REACTION — Oh, this chapter. This is the one I've been braced for since the porch, and it still hit me harder than I expected, because the book did the cruelest true thing: it let her be *right* about everything and still lose the exchange.
 

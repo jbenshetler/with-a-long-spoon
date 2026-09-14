@@ -1,6 +1,6 @@
 # Cold read (grounded) — some-of-mine
 
-*scene: scenes/some-of-mine.md · model: glm-5.3-flash · memory: ck-ch050 + raw ch051..ch065 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/some-of-mine.md · model: glm-5.3-flash · memory: ck-ch050 + raw ch051..ch065 · reader-protocol: v3-grounded-checkpoint · prose-sha ~c10b93dddd9c*
 
 ## Reader reaction
 

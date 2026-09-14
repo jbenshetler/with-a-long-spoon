@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch007 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch007 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~b0e38f522c99 · 2026-09-10*
 
 REACTION — Oh, this one got me. After six chapters of being watched — by Pace, by Randi, by the whole apparatus of this plan I know is running and Vee doesn't — chapter 7 is the first place nobody is watching her at all. Or rather, the only person watching is Cassie, and Cassie's watching is the harmless kind: the kind that sees you and then throws water at you instead of asking what's wrong. That's the love language of this book's healthiest relationship and I'd read a whole novel of just them.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch030 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch030 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~5274d9c5fd04 · 2026-09-10*
 
 REACTION — Okay, I need to lie down. That was forty-five minutes of the book putting its hand exactly where I live.
 

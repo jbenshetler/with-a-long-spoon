@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch054 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch054 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~bb2635a8b1b0 · 2026-09-11*
 
 REACTION — Okay, so first: I noticed the lie. She built the whole sweater story on the spot — "no — okay, so" — and Cassie heard it, I think. Cassie's "Pace. Shrank your sweater" had that dry testing rhythm, and then she chose to laugh instead of pressing, and the record "stood exactly where Vee had left it, corrected by nobody." That's the book being sly with me again: Cassie either bought it or decided not to charge her for it, and I genuinely can't tell which, and neither can Vee, and that's exactly how those lies work between close women. We let each other have them. That's more true than a confrontation would have been.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~2a7718a6147b · 2026-09-11*
 
 REACTION — Oh, this is dangerously good at giving me exactly what Vee wants while keeping the thing she needs just outside the room.
 

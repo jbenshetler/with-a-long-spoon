@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch003 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch003 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~4ef676bfabab · 2026-09-10*
 
 REACTION — Okay, so THAT'S the game. I'm a few paragraphs into the pointing game when it clicks — the redhead coming out of the dining hall, laughing with her whole body, and Pace says "Her," and Randi says "Yes" — and the name lands: **Vee**. The girl from the jacket. The one who "doesn't know there's a plan."
 

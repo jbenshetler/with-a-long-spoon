@@ -1,6 +1,6 @@
 # Cold read (grounded) — Bare
 
-*scene: scenes/bare.md · model: gpt-5.5 · memory: ck-ch040 + raw ch041..ch043 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/bare.md · model: gpt-5.5 · memory: ck-ch040 + raw ch041..ch043 · reader-protocol: v3-grounded-checkpoint · prose-sha ~d6bbb290a65b*
 
 ## Reader reaction
 

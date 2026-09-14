@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch004 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch004 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~3a52a74c7617 · 2026-09-08*
 
 REACTION — Oh, this chapter knew exactly how to get me.
 

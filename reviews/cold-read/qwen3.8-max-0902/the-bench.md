@@ -1,6 +1,6 @@
 # Cold read (grounded) — The Bench
 
-*scene: scenes/the-bench.md · model: qwen3.8-max-0902 · memory: — (opening, cold) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/the-bench.md · model: qwen3.8-max-0902 · memory: — (opening, cold) · reader-protocol: v3-grounded-checkpoint · prose-sha ~558ae4e11c37*
 
 ## Reader reaction
 

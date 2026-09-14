@@ -1,6 +1,6 @@
 # Cold read (grounded) — Boyfriend
 
-*scene: scenes/boyfriend.md · model: gpt-5.6-sol · memory: ck-ch050 + raw ch051..ch054 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/boyfriend.md · model: gpt-5.6-sol · memory: ck-ch050 + raw ch051..ch054 · reader-protocol: v3-grounded-checkpoint · prose-sha ~d8bc88c3f0e9*
 
 ## Reader reaction
 

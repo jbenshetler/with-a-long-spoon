@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~2888278eb31d · 2026-09-07*
 
 REACTION — Oh, this got me. The whole truck scene got me so completely because he gives her privacy without making a production of being noble, and then she calls him back. She decides. She puts his eyes where she wants them and opens her shirt while he sits absolutely still, wanting her without turning that want into entitlement. That is exactly the thing I’m always looking for: his control doesn’t disappear when he refuses to take; the refusal to presume is part of the control. And her desire is so unmistakably hers. Even the ugly voice in her head becomes fuel she uses rather than a command she obeys. I could feel the cold, the wet bra, her thighs pressing together, the terror and thrill of deliberately letting herself be seen.
 

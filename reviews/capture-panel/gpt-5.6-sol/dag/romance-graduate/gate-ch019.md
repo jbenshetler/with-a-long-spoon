@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~1f134f523a50 · 2026-09-10*
 
 Oh, she is incandescent. That stupid, unstoppable smile at every red light got me—I know that exact private, body-deep happiness where the ordinary world looks slightly altered because you’re carrying what happened underneath it. And “the evening had used her well” from last chapter is still humming here. The heat hasn’t vanished just because the sex is over; it’s in her bare face, her wrecked hair, the missing underwear, those hidden plum toenails. That is exactly the aftermath I want: not coy, not a mechanical postcoital glow, but her whole relationship to her own supposed “badness” changing by degrees. Her mother’s word can come, and for once Vee doesn’t particularly care. God, good for her.
 

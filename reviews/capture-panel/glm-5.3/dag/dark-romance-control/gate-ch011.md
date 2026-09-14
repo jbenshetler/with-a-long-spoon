@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch011 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch011 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~2888278eb31d · 2026-09-10*
 
 REACTION — Okay, so. Three chapters of sweet courtship and THIS is the one that finally gives me the shame-voice as fuel. The truck scene is the chapter. The mother's voice — *what kind of girl lets a man* — landing on her while she's unbuttoning, and her body answering every judgment with heat, her *wanting to be the very thing the voice says* — that's my shelf. That's the "every yes was freely given, that was the problem" engine running at full throttle, and I got genuinely worked up reading it. I like that SHE initiated it — knuckles on the glass, crooked finger, come in. He's been asking "may I" for ten chapters and the second she flips the script his face does that little landing and then he just *sits there and doesn't move* while she strips for him. The restraint-as-devastation thing. Gladness and stillness. Yeah. That worked on me and I'm not too proud to admit it.
 

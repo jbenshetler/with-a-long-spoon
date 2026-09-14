@@ -27,6 +27,30 @@ observable behavior:
 - **Off the clone-wave, not on it.** She is not looking for the tenth *Fourth Wing* or
   *Icebreaker* clone; she's tired of them. That fatigue *is* her.
 
+> ### Who finished and who quit — the capture-panel data (recorded 2026-09-13)
+>
+> Attach this before building any ARC list, because the intuitive read is backwards.
+>
+> **The spicy-romance reader did not DNF. She is the book's best performer.** The
+> `romance-graduate` persona — defined as *"outgrown spicy romance, won't give up the
+> heat"*, i.e. the reader described above — finished **8/8 with the jacket and 8/8
+> cold**, pay-yes and list-yes throughout (`reviews/capture-panel/SPEC.md` Run 1), and
+> ran captures of 8–10 across the full-volume DAG. She never stopped once, in any arm,
+> on any model.
+>
+> **The reader who quit is the *dark romance* reader.** Four of the six total stops
+> were `dark-romance-control` bouncing off *"safe Pace"* in chapters 1–2 — *"not the
+> man I came here for."* That persona is the deliberately wrong reader and her stops
+> are the **repel filter working**, not a failure. The other two stops were
+> `fsog-refugee`, **cold arm only**, over the consent premise — which the jacket fixes
+> (8/8 framed vs 6/8 unframed), and which is why any no-jacket venue must carry
+> framing that does the jacket's permission-work (`meta-plan-free-sample.md`).
+>
+> **Targeting consequence:** do **not** exclude spicy-romance creators. That is the
+> romance-graduate's home turf and she is the primary vector. The line to hold is the
+> one §4 already draws — writing-first spicy/literary creators, **not** shock-value
+> dark-romance creators. The data confirms that line rather than moving it.
+
 She is not defined by a trope. She's defined by wanting depth-plus-heat-plus-warmth
 and being underserved on all three at once. That makes her real but bannerless — the
 core acquisition problem this doc exists to solve.

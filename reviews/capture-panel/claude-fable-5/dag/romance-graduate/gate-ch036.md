@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch036 · claude-fable-5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch036 · claude-fable-5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~9782a926aac2 · 2026-09-08*
 
 Oh, this chapter is small and it wrecked me a little anyway.
 

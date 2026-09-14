@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch053 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch053 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~ec1574909bf3 · 2026-09-11*
 
 REACTION: Oh, this man. This chapter is nothing — a kitchen, a sink, a roster of names — and I'm sitting here with my hand over my mouth because it might be the most romantic thing in the book since the cracker sentence. He's at the sink with a pot in his hand and he says "I want to meet your people" like it's a grocery item, and it landed on me the way it landed on Vee, all that gold at once. Because this is him *spending.* This is the man whose whole pathology is "the word is what makes loss unlivable" — and he just volunteered to walk into a room full of her people, where she's Vee-of-the-dorm in front of everyone, where she'll be seen belonging to him. After a month of folded arms. He's doing the thing he can do — the doing, the handling, the provision — but he's doing it in the direction of the saying, and I felt that.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch005 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch005 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~22330aaefd51 · 2026-09-10*
 
 REACTION — Okay, this one got under my skin in a way I'm still sorting out, because I spent the whole chapter with two faces on: the swoon and the nausea, and the book *wants* both, and it's doing it on purpose, and god, it's doing it well.
 

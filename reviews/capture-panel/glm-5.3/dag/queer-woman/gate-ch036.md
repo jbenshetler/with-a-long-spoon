@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch036 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch036 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~9782a926aac2 · 2026-09-10*
 
 REACTION — God, the drawer is still in me. That was last chapter and I haven't recovered — he folded his whole ordered self down into one drawer and gave her the top one, "the one your hand goes to first," and *no note, there was never a note,* and I sat there with my hand on whatever the page-equivalent of two open drawers is. This book keeps doing that to me: making the grand gesture a piece of furniture.
 

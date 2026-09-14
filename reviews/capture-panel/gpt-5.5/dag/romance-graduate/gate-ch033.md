@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch033 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
+*capture-dag-v2-rich · gate ch033 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~d4837de434ed · 2026-09-11*
 
 REACTION — Oh, this got me. Not because it’s the hottest chapter in isolation, exactly, but because it’s the chapter where Vee starts *staging herself*. Not being staged by Pace, not being styled by Randi, not accidentally discovering that the dress works on her body. She brings the dress. She invents the Halloween loophole. She orders him into the recliner. She decides the terms of the looking. That felt huge to me.
 

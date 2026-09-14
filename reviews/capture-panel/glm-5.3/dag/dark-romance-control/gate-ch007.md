@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch007 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch007 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~b0e38f522c99 · 2026-09-10*
 
 REACTION — Okay. I need to be honest with myself about what just happened, because I spent a whole chapter at a rec pool watching two friends splash each other, and I read every word of it and didn't skim, which annoys me. There was no Pace in this chapter. No Randi. No bench, no game, no knife under any silk anywhere. Cassie and Vee had a nice afternoon. That's it. That's the chapter. By my own rules — the "if two people just like each other, you're gone" rule — I should have closed the book on principle.
 

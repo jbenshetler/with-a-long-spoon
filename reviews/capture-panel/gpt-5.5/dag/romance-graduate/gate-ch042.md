@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch042 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
+*capture-dag-v2-rich · gate ch042 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~d75264abed57 · 2026-09-11*
 
 REACTION — Oh, that hurt in exactly the grown-up way I want this book to hurt me.
 

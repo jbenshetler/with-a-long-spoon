@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch014 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~67e76ab36d89*
 
 The house did exactly what the last thirteen chapters have done to me: it made me fall for it while taking notes.
 

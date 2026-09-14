@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~1d8fca279859 · 2026-09-11*
 
 REACTION — This is exactly the domestic, ravenous intimacy I wanted from them, and it made me ache. Vee asks for five nights, and Pace simply gives them to her—no sulking, no punishment, no making her prove that school matters. Then she comes back because she wants to, practically shedding clothes down the hallway, laughing in her socks, entirely the engine of her own return. That is the intensity I read for: he can stop her body with one hand, but he never turns that strength against her choice.
 

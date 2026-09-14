@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch039 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch039 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~97724b44da95 · 2026-09-11*
 
 REACTION — Oh, I liked this more than I expected to, because it finally let Randi get caught by something that wasn’t sex and wasn’t performance. That girl has been all lacquer and appetite and perfect timing for so long, and here the book just puts four little letters on a screen and strips her cleaner than any bathroom mirror. MIRH. God. Her whole body going still over her own family’s rot? Yes. That is the kind of social blood I want.
 

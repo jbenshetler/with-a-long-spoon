@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch056 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch056 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~c23f4d1deeee · 2026-09-11*
 
 REACTION — Oh, this chapter. This chapter is the book quietly cashing a check I've been watching it carry for fifty chapters, and it did it in a bathroom stall and I'm a little stunned by how it got me.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch048 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch048 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~b247f2c75c88 · 2026-09-10*
 
 REACTION — Okay so the blurb promised me a seduction and this chapter gave me two people splitting cheeseburgers in a diner and somehow I'm the one who got fed. After three chapters of Vee spiraling in the dark — the shirt, the bare cold, the walking out — I NEEDED to be on the other side of that door, and the book knew it. He drove somewhere and decided *before the door shut* that he wouldn't bring her down, "not this week, not this time of year," and I sat up straight. He's carrying something. From the truck. That "could keep." The MIRH thing? Something about his own people? The man who "doesn't go back" is accumulating a whole closet of things that "could keep" and I am going to get an ulcer.
 

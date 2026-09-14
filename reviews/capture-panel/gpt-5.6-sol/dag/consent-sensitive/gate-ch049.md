@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch049 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~c1f15218cc12 · 2026-09-11*
 
 Oh, Pace. You absolute frightened, dishonest, wrecked man.
 

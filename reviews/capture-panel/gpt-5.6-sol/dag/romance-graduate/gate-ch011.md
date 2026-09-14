@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~2888278eb31d · 2026-09-07*
 
 REACTION — Oh, she called him back in.
 

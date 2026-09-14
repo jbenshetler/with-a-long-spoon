@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~8429b6ba440f · 2026-09-11*
 
 REACTION — Oh, Randi. “You’re not caught, sweetheart. You’re lucky” is such a perfectly horrifying thing for the woman who helped set the trap to say. I actually went cold. Vee’s little thread of fear is accurate—she understands for one second that she is further gone than she consciously chose to be—and Randi immediately soothes that perception out of her. The comfort is real, the advice isn’t even wholly wrong, and it also serves the secret plan exquisitely. This is exactly the darkness I came for: nobody has to force Vee because Randi is teaching her how to interpret every movement toward them as self-discovery.
 

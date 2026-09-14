@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch040 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch040 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~1d8fca279859 · 2026-09-10*
 
 REACTION — Okay, the flannel shirt undid me. Fully. "It stopped smelling like you" — I had to put my tea down. That's not a romance trope, that's a real thing women do and never say out loud, and the book said it OUT LOUD and then let him not flinch at it. "He had heard exactly how many of her nights had been spent breathing a dying shirt" — that's the sentence I'll remember from this chapter. And him pulling it on over his other shirt immediately, no teasing, no making her explain twice — that's the everything-he-does thing from ch. 35 paying off exactly. I love a man whose love language is logistics.
 

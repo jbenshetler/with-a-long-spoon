@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch005 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch005 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~22330aaefd51 · 2026-09-10*
 
 REACTION — Okay. So this is the chapter where the book stops being about Randi and becomes a con, and I watched the whole thing through my fingers.
 

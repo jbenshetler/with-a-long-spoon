@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch059 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch059 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~8348ecb548e4 · 2026-09-12*
 
 REACTION — Oh, Vee. That unfinished inch between her fingers and her mouth felt enormous. I wanted her to cross it because she wanted to—not because Pace enjoys it, not because Randi has pronounced it powerful, but because her own body keeps reaching before shame catches up. And when she couldn’t, I was almost relieved that the book let her stop. She did not owe anyone that last inch, even alone. Her wanting remained real, and so did her no. That matters desperately to me.
 

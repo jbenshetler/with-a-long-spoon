@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch005 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~22330aaefd51*
 
 The "may I call you?" got me. I actually put the book down for a second. That whole chapter is him handing her the pencil back — literally and every other way — and I'm a sucker for exactly that: a man who has all the power in the room and spends it making sure the solving stays hers. He didn't perform the math. He didn't lord the PhD. He watched her run out of her own humbleness and then asked permission for her phone number like it was 1955 in the best way. The bit where she realizes he never got his coffee — Randi clocking it for her — that's the kind of detail I reread.
 

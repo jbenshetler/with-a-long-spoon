@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~0b647a05ad40 · 2026-09-10*
 
 REACTION — Oh, this is the chapter where the floor shifts.
 

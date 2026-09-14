@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch028 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch028 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~630e5e2d2504 · 2026-09-10*
 
 REACTION — Okay, so we've never been inside his head away from Vee before, not like this, and the first thing I learn is that his away-game face is... basically the same face. That's either deeply reassuring or deeply suspicious and I genuinely can't tell which, which is very this book.
 

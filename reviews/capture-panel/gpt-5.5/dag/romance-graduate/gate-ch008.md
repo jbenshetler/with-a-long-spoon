@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch008 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch008 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~0149553a3cd5 · 2026-09-08*
 
 REACTION — Oh, this one got me in exactly the place the book has been aiming for. Not with a big erotic set piece, but with the horrible, delicious gentleness of being allowed to want something without being rushed or cornered. The text message alone did damage. “Like it could keep” is such a dangerous thing for Vee, because every other boy has made desire into a little power struggle, and Pace just leaves space around it. That would undo me too.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch005 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch005 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~22330aaefd51 · 2026-09-10*
 
 REACTION — Oh, this is diabolically neat. I know Pace and Randi arranged the meeting, and still I felt the little drop in my stomach when he crossed the room looking only at Vee. That’s the book’s trap, apparently: I can see the machinery and also understand exactly why she responds. He doesn’t overwhelm her or solve the problem for her. He notices what she already knows, gives it back in a usable form, and lets the accomplishment remain hers. Of course that gets her. Being looked at is familiar to Vee; being taken seriously is apparently devastating.
 

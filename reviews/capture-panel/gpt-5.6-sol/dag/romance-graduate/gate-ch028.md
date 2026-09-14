@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch028 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch028 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~630e5e2d2504 · 2026-09-10*
 
 REACTION — Oh, this is interesting. Pace has a Sheri. Not another interchangeable woman orbiting the hot man, but an actual friend with history, opinions, loyalty, better legs on a climb, and apparently enough context to ask about Randi without needing the situation explained from scratch. I like seeing him with someone who isn’t dazzled by him and doesn’t require tending. She beats him uphill and makes sure he knows it. Good.
 

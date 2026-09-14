@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-11*
+*capture-dag-v2-rich · gate ch053 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~ec1574909bf3 · 2026-09-11*
 
 REACTION — Oh. This one got me in a quieter place, and honestly maybe that was exactly what I needed after the coat and the doorway and the breakfast that nearly took the top of my head off.
 

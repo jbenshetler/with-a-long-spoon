@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch032 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch032 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~13e407d9f33a · 2026-09-10*
 
 REACTION — Okay. This is the chapter I've been waiting thirty-one chapters for, and it delivered in a way I didn't expect, because the book did the thing the good ones do: it took the scene I thought I was getting — the lost bet, the bare-bottom line, the whole Randi-counting-curriculum payoff — and refused to give me the theatre. Randi's stories are tools; the real thing is quiet. No counting, no audience, a tap first, "a question," then the palm soothing the place it struck, then his MOUTH, once, pressed to the warm pink of her. I had to put the book down at "he kissed her after some of them." That's the Daphne program run clean — he does to Vee exactly what was done to him except he keeps asking, "Do you want to keep going," and I can't tell if that makes him the best outcome of his damage or the most sophisticated version of it, and that's why I'm still here.
 

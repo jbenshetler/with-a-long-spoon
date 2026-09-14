@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~78023057031c · 2026-09-11*
 
 REACTION — Oh, this hurt me. Not in the showy, engineered way where a tragic backstory gets dropped on the table and I’m expected to swoon because the hero suffered once. It hurt because Pace genuinely does not understand his loneliness as a wound. “It’s just a door that didn’t open, and then you’re grown” is exactly the sort of sentence a person says after building an entire beautiful life around a missing room.
 

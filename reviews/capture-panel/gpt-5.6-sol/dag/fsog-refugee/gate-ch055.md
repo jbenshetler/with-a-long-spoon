@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~213059ecdcb4 · 2026-09-12*
 
 REACTION — Oh, Vee. “We talked all night” made my stomach drop, because they absolutely did not. They had frantic reunion sex, he fed her, and he said he missed her. All of that was real and loving and intensely meaningful—but the question she left over was never answered. She has taken the relief she felt and rewritten it into the conversation she needed, and now she is telling the lie with complete sincerity.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch017 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch017 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~d92de80cac99 · 2026-09-10*
 
 REACTION — God, this chapter. This one got under my skin in a way the dress chapter didn't, because the dress chapter was Pace's machinery and this one is Randi's, and Randi's is the machinery I can't look away from.
 

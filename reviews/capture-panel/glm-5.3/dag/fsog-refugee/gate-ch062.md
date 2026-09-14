@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch062 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch062 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~78023057031c · 2026-09-12*
 
 REACTION — I'm sitting here with my hand over my mouth. I thought this was going to be a hangover chapter — cute, domestic, him with the bread and the water and the paper towel under the glass so it wouldn't mark the wood (that paper towel, god, that's the whole man, he thinks of the *wood*) — and then it turned into the loneliest thing I've read in years.
 

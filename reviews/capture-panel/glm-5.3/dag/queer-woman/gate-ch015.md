@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch015 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch015 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~13cbb0faa7b7 · 2026-09-10*
 
 REACTION — Okay. I put this book down at the end and sat there for a minute, and I'm going to be honest about why: the soaked satin. The way she goes to the couch and feels it and tries to *bargain* with it — "not obvious, not at conversational distance" — and then "please, please, just stop — asking her body a thing she's long since learned it doesn't answer to. It did not stop. It never did. That had always been the whole problem." That's it. That's the sentence. That's the truest thing this book has written about wanting, and it's exactly the thing I'm here for — the body as its own country with its own government, and the woman living inside it doing the accounting. I have *been* the person trying to think about something else while the evidence spreads. I've never seen a book say it that plainly for a woman, without making it either porn-mag convenient or tragic.
 

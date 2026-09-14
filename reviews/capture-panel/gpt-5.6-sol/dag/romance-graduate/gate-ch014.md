@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~67e76ab36d89 · 2026-09-07*
 
 REACTION — Oh, this man is terrifying. Not because of the bedroom door, although when he left it shut after she had dressed for it, I felt that drop with her and briefly wanted to shake him. He is terrifying because he listens to the things she says after she has already dismissed them as impossible, then quietly builds them into reality.
 

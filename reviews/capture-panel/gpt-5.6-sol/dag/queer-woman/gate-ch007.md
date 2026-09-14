@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~b0e38f522c99 · 2026-09-10*
 
 REACTION — Oh, Cassie. This is the first time I’ve understood what Vee already has, not just what she’s starving for. Cassie sees her without turning the seeing into a spotlight. She notices Vee coming back from underwater with her face wrong and doesn’t demand an explanation, doesn’t make Vee perform hurt so she can perform concern; she just shoots water at her. That is love. Possibly not the kind of love the jacket is promising, but absolutely the kind that knows how to keep someone alive.
 

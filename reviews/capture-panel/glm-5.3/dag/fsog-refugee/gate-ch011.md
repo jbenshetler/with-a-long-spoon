@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch011 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~2888278eb31d*
 
 Okay. I put this down and had to just sit for a minute.
 

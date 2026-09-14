@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch041 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch041 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~a3af5d5e997c · 2026-09-10*
 
 REACTION — God, the sewing. The dress was *sewn by him*. I had that in my notes as "the dress" and I never once asked where it came from, and neither did Vee, and that's so exactly this book — the biggest reveal lands in a cafeteria over Sunday dinner trays. He saw a magazine she couldn't afford and went to a machine on a sun porch and made the thing. That's the scrunchies and the drawer and the cooking, all one gesture, and it's somehow the most romantic thing in a book that also contains "he kissed every place his hands had been."
 

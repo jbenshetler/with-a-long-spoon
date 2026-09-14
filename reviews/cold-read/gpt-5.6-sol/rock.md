@@ -1,6 +1,6 @@
 # Cold read (grounded) — Rock
 
-*scene: scenes/rock.md · model: gpt-5.6-sol · memory: ck-ch020 + raw ch021..ch024 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/rock.md · model: gpt-5.6-sol · memory: ck-ch020 + raw ch021..ch024 · reader-protocol: v3-grounded-checkpoint · prose-sha ~178a1c64010d*
 
 ## Reader reaction
 

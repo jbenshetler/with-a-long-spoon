@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch042 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch042 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~d75264abed57 · 2026-09-10*
 
 REACTION — Oh, that hurt. That hurt in a way this book hasn't hurt yet, because I've been waiting for the "I love you" the way Vee has, and the book just made me feel exactly what it costs to hand someone your best sentence and get a beautiful answer that isn't the answer.
 

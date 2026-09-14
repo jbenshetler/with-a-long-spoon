@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch068 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch068 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~be90efe95687 · 2026-09-12*
 
 REACTION: Oh, this chapter. It's four bowls of cereal long and it hit me harder than the painting chapter, honestly. "Is this what you want?" — asked flat, with the worry under it — and Vee actually *goes looking*. She reaches for the answer and comes up against the edge of something "close and large" and steps back off. That's the whole book in one movement, isn't it. Sixty-eight chapters of a girl who says yes before her mind catches up, and the one time someone asks her the yes-or-no that matters, the floor isn't there.
 

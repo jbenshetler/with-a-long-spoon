@@ -1,6 +1,6 @@
 # Cold read (grounded) — Back
 
-*scene: scenes/back.md · model: glm-5.3-flash · memory: ck-ch050 + raw ch051..ch051 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/back.md · model: glm-5.3-flash · memory: ck-ch050 + raw ch051..ch051 · reader-protocol: v3-grounded-checkpoint · prose-sha ~bb2635a8b1b0*
 
 ## Reader reaction
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch030 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch030 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~5274d9c5fd04 · 2026-09-10*
 
 REACTION — Okay, so I've been waiting for Randi's endgame and this chapter is her moving a piece I didn't even know was on the board. The practice room. A soundproof room, doors shut, Randi in a chair with the lamp-beam attention on, and Vee *towing her there by the wrist* — Vee initiated! And it doesn't matter, because within four minutes Randi's running it. "Did you deserve it?" was the single best line of the book so far. Vee laughed and said "yeah, probably I deserved it" and heard what she'd agreed to a beat too late, and Randi's smile brightened and I put my hand over my mouth like I was watching a heist. That's not a friend asking a question. That's an induction. Randi's making her say the yeses out loud, one small one at a time, and Vee keeps signing.
 

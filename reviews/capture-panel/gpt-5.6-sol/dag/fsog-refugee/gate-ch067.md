@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch067 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch067 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~b11de8d9a5ce · 2026-09-12*
 
 REACTION — Oh, Vee. This hurt in that horribly recognizable way where your body has already told the truth and your mind is exhausting itself trying to keep the truth from becoming real. She can have Pace all Sunday, reach for him again and again, be genuinely satisfied by him, and still not be *filled*, because this is not a shortage Pace can solve. It is Randi she wants. Not “a woman,” not some stray drunken curiosity, not a fantasy Pace planted in her. Randi, particularly: her perfume, her knee, her mouth, her little hard body against hers. At last there is nowhere left to charge that desire except to Vee herself.
 

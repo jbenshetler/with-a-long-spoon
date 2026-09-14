@@ -1,6 +1,6 @@
 # Cold read (grounded) — Standards
 
-*scene: scenes/standards.md · model: gpt-5.5 · memory: raw ch001..ch001 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/standards.md · model: gpt-5.5 · memory: raw ch001..ch001 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint · prose-sha ~17f83d064d79*
 
 ## Reader reaction
 

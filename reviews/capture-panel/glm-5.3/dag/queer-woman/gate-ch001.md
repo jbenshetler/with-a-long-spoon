@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch001 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch001 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~905926aff4b8 · 2026-09-10*
 
 REACTION — Okay, so the woman on the bench is *Randi*. I clocked that about a third of the way in — the jacket told me who Randi is, the one who's going to steer Vee toward this man — and the whole time I was reading I had one eyebrow up, because the blurb basically promises me that this woman is going to be the corrupter figure, the one with the plan, and I have read that book so many times I could recite it. The seductive queer girl with the appetite that ruins the nice girl. I was ready to be tired.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch062 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch062 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~78023057031c · 2026-09-11*
 
 REACTION — Oh, this chapter *got* me. I read the taproom chapter with a grin on my face and then this one snuck up behind it and hit me in the back of the head with a two-by-four. "Sheri's my friend. My one friend. There isn't anyone else." I actually put the Kindle down for a second. One friend isn't a number a person has — and the book knows that, because Vee thinks almost those exact words, and that's when the whole architecture of Pace finally came into view for me. College at fifteen. Off the end of every scale. The window opens once and his never opened. And the detail that wrecked me wasn't even the big one — it was "what are you doing for Christmas, your folks coming up." Every ordinary question with a gap under it. That's the loneliest sentence this book has written and it's sitting in a hangover breakfast chapter between cinnamon raisin bread and soft eggs.
 

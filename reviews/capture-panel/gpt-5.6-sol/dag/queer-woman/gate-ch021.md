@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch021 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch021 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~0894d4db7f65 · 2026-09-10*
 
 REACTION — Oh, this got me. Not just because it was hot—though the ridiculous logistical comedy of trying to preserve the dress while neither of them is willing to stop touching each other absolutely was—but because Vee is so unmistakably the author of what happens. She sees the slit, sees the underwear interrupting the line, and takes it off herself. Then she doesn’t mince out to be admired; she strides. She opens his clothes, puts him where she wants him, laughs when her own words make his body jump, wipes her hands on him while he’s trapped holding the silk. This is her appetite with a sense of humor. I love her like this.
 

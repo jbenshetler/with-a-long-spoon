@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch020 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch020 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~8429b6ba440f · 2026-09-10*
 
 REACTION — Okay, the chapter itself was the slow kind — a lunch, mostly talk, nothing "happens" — but I'm realizing this book has trained me to read lunches as combat. Randi extracting that confession is the chapter. Vee came in planning to hand over the sanitized version and Randi took her apart in four moves: *why are you telling me like it's a confession*, and Vee says "I wanted it, and I took it," and Randi seals it with "Good." That's not friendship, that's curriculum. She's scaffolding Vee's shame-dissolution one brick at a time, and I genuinely cannot tell if she's doing it because the plan requires it or because she's falling into the girl she's building. That thumb on the water glass last chapter, the tightness when Vee said *he looked at me and I was fine* — the hum in Randi's ribs is getting louder and I'm living for it.
 

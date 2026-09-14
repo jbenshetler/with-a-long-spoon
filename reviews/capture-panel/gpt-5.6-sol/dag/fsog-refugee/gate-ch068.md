@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch068 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch068 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~be90efe95687 · 2026-09-12*
 
 REACTION — Oh, Cassie. Thank God for Cassie.
 

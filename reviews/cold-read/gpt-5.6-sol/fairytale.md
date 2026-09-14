@@ -1,6 +1,6 @@
 # Cold read (grounded) — Fairytale
 
-*scene: scenes/fairytale.md · model: gpt-5.6-sol · memory: ck-ch040 + raw ch041..ch045 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/fairytale.md · model: gpt-5.6-sol · memory: ck-ch040 + raw ch041..ch045 · reader-protocol: v3-grounded-checkpoint · prose-sha ~ca7450e92130*
 
 ## Reader reaction
 

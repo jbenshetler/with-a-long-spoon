@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch041 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch041 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~a3af5d5e997c · 2026-09-11*
 
 REACTION — Oh, this one is quiet but it has teeth in a different place. Not sex-teeth, not the fun dangerous kind, but family/visibility teeth. The cropped photo coming back around is perfect because that whole induction image has been split into versions: parents get waist-up honor-society daughter, Pace gets all of her, Randi gets needled into seeing “all of it,” and Cassie, accidentally, owns the origin image without understanding the full voltage. Vee is living inside edits now. Everyone gets a crop.
 

@@ -1,36 +1,36 @@
 # Capture panel — romance-graduate · jacket
 
-*model: glm-5.3 · persona: romance-graduate · arm: jacket · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 4b4ba87f5608 · run: 2026-09-13*
+*model: glm-5.3 · persona: romance-graduate · arm: jacket · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 4b4ba87f5608 · run: 2026-09-14*
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-ALMOST-STOPPED: The very first page — the unhurried hello-kiss, I thought oh god, another slow-burn dom-who-takes-his-time opening. Then he sliced the apple thin *because she eats them faster when the cut sides show* and I was in.
-WHY: Okay. This is the thing I've been telling people doesn't exist anymore. The bench scene is hot, yes — the edging, the please-please-please — but what got me was the *cut* to her in the bathroom afterward, the face that's been lying for years. A sex scene that ends in the woman quietly deciding to never be seen again? That's not a scene, that's a knife. And then the name drop — "There you are, Randi" — and I connected it to the blurb and my stomach dropped. I'm hooked.
+CAPTURE: 8
+NEXT: 8
+ALMOST-STOPPED: The Steely Dan opening line — the "smooth sound, cool and unhurried" setup had me bracing for exactly the kind of scene I could recite from memory.
+WHY: I almost filed this under alpha-does-BDSM-by-numbers in the first three paragraphs, and then the apple slices cut sides up because she eats them faster that way stopped me cold. That's interiority. And the ending gutted me — the bathroom mirror, the smile that "settled," the face going back up like a mask. I've read a hundred spanking scenes; I've almost never read the part where the girl goes and locks the bathroom door and decides never to be seen again. The "There you are, Randi" landing is when I realized the blurb's Vee isn't even in the room yet and I was already gone.
 
 GATE 2 — Standards
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 8
-ALMOST-STOPPED: None, really — it's short, and Brooke's interrogation had me leaning in, not out.
-WHY: Classic bridge chapter and it knows it — the morning-after walk of shame turned into a quiet social ambush. Brooke not standing up is the kind of detail I read for; the whole scene runs on power and nothing happens. Randi lying on the bed with her shoes on, not-crying like a held breath that doesn't feel held — that line will stay with me. The heat's absent but the book earned a quiet chapter, and it's *about* something: the armor going back on. I want to see how it cracks.
+NEXT: 7
+ALMOST-STOPPED: "The door of the house was unlocked. It always was at this hour" — a whole chapter about sorority small talk was a risk, and for the first page I felt it.
+WHY: This is a bridge chapter and it knows it, but Brooke running that interrogation without ever standing up was better tension than most books manage with a gun in the room. The lie assembling itself three lines ahead of Randi's mouth — "she was not going to get to deploy the three lines that had assembled in her mouth" — that's the book's whole engine in one sentence. And Randi lying on the made bed in last night's shoes, not-crying described as "there being no door"? Quiet chapter, but it's doing work. One more like this and I'd start clocking my own boredom, but this earned its place.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-ALMOST-STOPPED: "Would you like to taste another woman?" — for a second I braced for the book to get clinical and thesis-y about her answer. It didn't; her *body* answering before she did saved it.
-WHY: The mechanics of how a repressed person smuggles her own desire past herself — "she had moved it, handed the appetite to him and made herself its instrument" — is exactly the grown-up psychology I'm starving for, and it's wrapped in a genuinely filthy game. The quad walk is the best kind of dirty: no one touches anyone and my heart rate was up the whole time. And the collision at the end — her engineered "accident" with Vee, while we know exactly what last night cost her — the dramatic irony is doing serious work. The redhead laughing with her throat to the sky; yeah, I get it.
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: "Would you like to taste another woman?" — I flinched on her behalf and briefly worried we were sliding into the standard unicorn-hunting plot I've read forty times.
+WHY: No. The way Pace clocked her recovery move — the threesome answer as "the same act, a different owner" — is the most psychologically exact thing this book has done, and that's saying something after chapter 1. The walk itself was genuinely hot and genuinely a conversation: her scanning ahead of him for the next girl, "she was shopping," the follow breaking frame before the lead called the step. And then the redhead walks out laughing with her whole body and I went *oh, there's Vee.* The collision staging — Randi running a decade of dance and three years of sorority into three seconds that look like nothing — made me a little afraid of her, which is exactly the right feeling.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 9
-ALMOST-STOPPED: Midway — a whole chapter with no heat, after a chapter with almost none, is where my trained eye starts checking the horizon. But the dramatic irony kept me: I know Randi was *shopping* and Vee thinks she's been chosen.
-WHY: Quieter again, and I noticed — two bridge-ish chapters back to back. But this one is doing something I can't resent: we're inside the target now, and she's so lonely and so hungry ("the feeling was total and the transcript was blank") that the sweetness of the coffee hour reads almost sinister. "Floozies" arriving in her mother's voice, the cardigan staying on, Cassie's flat *goodbye* — everything is loaded. I'd pay to watch this kindness close over her.
+NEXT: 8
+ALMOST-STOPPED: The Chi Latte sign explanation — the joke being spelled out felt like the book pausing to make sure I got it, and I briefly worried Vee's chapter would be all charm and no charge.
+WHY: Second quiet chapter in a row by my count of heat, and I'd normally be skimming by now — but this isn't the book stalling, this is the trap being baited, and I know it's a trap, and I watched Vee walk into it anyway and *felt the warmth myself.* That's the blurb's promise working: the reader falls for it exactly as she does. The line that got me was the transcript being blank — "she had been keeping the feeling, which was the feeling of being a person who got to sit at this table." And Cassie's flat "Goodbye, Vee," the word nobody fixes — that's a knife sitting quietly in a drawer and I noticed it. I want lunch. I want to know what Randi reports back. I'm in.
 
 VERDICT
 WOULD PAY: yes
 MAILING LIST: yes
-TELL A FRIEND: Okay, drop what you're doing but also don't read the blurb first — no, read the blurb, the blurb is half the design. It's literary erotica that actually delivers both words. The sex scene in chapter one is explicit and patient and hot, and then it ends with the girl in the bathroom rehearsing her own face, and you realize the book you were reading was a *trap* laid for her — you know something she doesn't, and it's going to hurt. The prose is real, nobody is a cardboard alpha, and there's a whole chapter where the dirtiest thing is a guy pointing at girls on a quad. It's doing the Anne Rice Beauty thing but with actual psychology. I read all four free chapters in one sitting and I'm buying it. You in?
+TELL A FRIEND: Okay, so I started this expecting literary-fic blue balls and instead it's the actual thing — full heat, full explicitness, but written by someone who knows what a locked bathroom door means. The first chapter is a long D/s scene that ends with the girl rebuilding her mask in a mirror, and it's the most honest thing I've read in the genre in years. Then it flips and you watch the cool girl run a fake meet-cute on the sunny redhead — and you know it's fake because you watched them plan it — and somehow the crush still lands on YOU too. Fair warning: chapters three and four are quiet, but it's the good kind, the kind that's loading a gun. I'm buying it. I need to know what happens when Vee finds out the invitation existed before she did.

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch002 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch002 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~f388da9c70ea · 2026-09-08*
 
 Ah — so this is the *before*. I went back and reread the jacket after "There you are, Randi" landed at the end of chapter one, and I've been carrying that little shock into this chapter: this is the woman who's going to steer Vee into Pace's path, and the book is showing me how she got made first. Or unmade. I'm not sure which yet, and that not-knowing is doing something to me.
 

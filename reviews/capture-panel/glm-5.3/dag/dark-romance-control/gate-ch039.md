@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch039 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch039 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~97724b44da95 · 2026-09-10*
 
 REACTION — Oh, this chapter. This is the knife under the silk arriving by way of a statistics term paper, and I'm almost angry at how well it worked on me. I came here for the spankings and the Evil Queen and instead the book handed me four gray letters — MIRH — and I got chills anyway, because this is the shelf's actual drug: someone being seen at the exact moment they can't afford to be seen, and the watcher choosing what to do with it.
 

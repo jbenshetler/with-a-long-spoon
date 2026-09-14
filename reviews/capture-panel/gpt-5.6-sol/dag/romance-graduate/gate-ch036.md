@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~9782a926aac2 · 2026-09-10*
 
 REACTION — Oh, Cassie. Thank God somebody is counting the nights.
 

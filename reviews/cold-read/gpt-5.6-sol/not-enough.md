@@ -1,6 +1,6 @@
 # Cold read (grounded) — Not Enough
 
-*scene: scenes/not-enough.md · model: gpt-5.6-sol · memory: ck-ch040 + raw ch041..ch048 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/not-enough.md · model: gpt-5.6-sol · memory: ck-ch040 + raw ch041..ch048 · reader-protocol: v3-grounded-checkpoint · prose-sha ~0511a4346bd0*
 
 ## Reader reaction
 

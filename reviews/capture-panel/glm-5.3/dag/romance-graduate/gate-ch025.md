@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch025 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch025 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~178a1c64010d · 2026-09-10*
 
 REACTION — Okay, I'm just going to say it: I cried at "Peter." Not at the reveal of it — the *sound* of it. She says it once into the dark "the way you say a word to keep it," and he doesn't answer, and doesn't need to, and I had to put my Kindle down. This book keeps doing that to me — handing me a sex scene that's just fingers on a scar under a quilt and it lands harder than anything in the last fifty KU books I devoured.
 

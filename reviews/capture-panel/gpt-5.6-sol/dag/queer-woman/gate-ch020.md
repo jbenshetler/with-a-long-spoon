@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~8429b6ba440f · 2026-09-10*
 
 REACTION — Oh, this is dangerous in exactly the way that works on me. Randi gives Vee back the authorship she herself was subtly taking away before: *You prepared. You knew. You wanted it. You took it.* That is precisely what Vee needs to hear, and it makes me want to kiss Randi and shake her until her teeth rattle, because she is using a real, necessary truth to draw Vee deeper into a situation Vee still cannot see. She knows exactly which questions will make Vee’s desire legible to herself. That is tenderness. It is also technique.
 

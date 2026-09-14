@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch006 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
+*capture-dag-v2-rich · gate ch006 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~1b9cac32f89b · 2026-09-07*
 
 REACTION — Oh no. It’s froyo and attentive listening. He pays, holds the door, lets her finish her sentences, and gently redirects her embarrassment. That’s sweet. It may even be exactly what Vee needs. It is absolutely not what *I* need.
 

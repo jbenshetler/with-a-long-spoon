@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~6e62cd46bbc6 · 2026-09-10*
 
 REACTION — Oh, this got me. The apology especially. Vee arrives costumed in Randi’s certainty—her shoes, her scarf, her instructions, even that little theory about how to make forgiveness inevitable—and Pace quietly refuses the performance without punishing her for it. He doesn’t accept the polished “I behaved badly” and let her escape with dignity intact. He asks what happened because he actually wants to know her. And she tells him. Messily, specifically, without laundering the jealousy into something prettier. That is the grown-up intimacy I keep begging these books for.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch033 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch033 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~d4837de434ed · 2026-09-11*
 
 REACTION — Oh, this got me. Vee built the entire scene herself: brought the dress, invented the game, put Pace in the chair, stopped him when he rose, and chose both revelations. After so much watching Randi and Pace construct experiences around her, I needed the fierce pleasure of seeing Vee construct one around him—and seeing him obey the terms she set. His hand starting toward her and then being put away was almost unbearably hot. He wanted; she had not invited touch; he stayed seated. That distinction is the whole book for me right now.
 

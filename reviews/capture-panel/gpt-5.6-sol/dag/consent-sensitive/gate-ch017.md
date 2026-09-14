@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch017 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch017 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~d92de80cac99 · 2026-09-07*
 
 REACTION — Oh, Randi is terrifying. Not because she pushed Vee into confessing—the push was almost unbearably intimate—but because she knew exactly when to stop. She opened every door herself, made each disclosure feel ordinary, flattering, even inevitable, then closed the final door just as Vee was stepping through it. “You don’t have to tell me” is technically permission, technically kindness, and in practice it leaves Vee aching to finish. That is manipulation with a jeweler’s precision. The book absolutely knows it. I felt the trap tighten sentence by sentence, especially when Vee could no longer remember how she had been caught.
 

@@ -1,6 +1,6 @@
 # Cold read (grounded) — All Told
 
-*scene: scenes/all-told.md · model: claude-fable-5 · memory: ck-ch020 + raw ch021..ch021 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/all-told.md · model: claude-fable-5 · memory: ck-ch020 + raw ch021..ch021 · reader-protocol: v3-grounded-checkpoint · prose-sha ~b727880313ed*
 
 ## Reader reaction
 

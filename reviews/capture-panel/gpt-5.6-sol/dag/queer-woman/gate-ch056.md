@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch056 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch056 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~c23f4d1deeee · 2026-09-11*
 
 REACTION — Oh, Vee. That was about Randi. Pace supplied the memories, yes, but Randi’s face entered at the decisive moment, Randi’s voice changed the sentence, and Vee came with a woman looking at her and telling her she was visibly ready. Then she had to stand there afterward and insist to herself—twice, basically—that it was “about Pace, obviously.” Obviously is doing brutal work.
 

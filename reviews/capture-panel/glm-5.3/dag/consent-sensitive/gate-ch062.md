@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch062 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
 
-**REACTION**
+**REACTION* · prose-sha ~78023057031c*
 
 This is the chapter I read this book for. No heat, no ladder, no brunch — just a hangover morning and a man telling a girl, plainly, that she is friends with the only friend he has. And the book knew exactly what it was doing: the moment he said "Sheri is my friend. My one friend. There isn't anyone else," I had to put the book down for a minute, because *of course.* Of course. The party chapter showed me Pace holding a whole room, handing everyone first lines, and I filed it as charm — and this chapter took that file out and corrected it. He's good with people the way a host is good with a room: entirely inside it, and then the door closes behind him and there's nobody on the other side. The book made me feel the gap the way Vee felt the drink — late, all at once, more than I'd counted.
 

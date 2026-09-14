@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch010 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch010 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~2ce78e0e23d6 · 2026-09-10*
 
 REACTION — Oh, this is dangerous in exactly the way I was afraid it would be, and unfortunately I mean that as praise.
 

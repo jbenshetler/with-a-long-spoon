@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch018 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch018 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~8611b8522702 · 2026-09-10*
 
 REACTION — Well. Yes. That worked on me—especially the green set bought without “meaning anything,” the polish hidden inside the flats, and the devastating simplicity of *Famished.* Vee’s wanting is so unmistakably hers here. She dresses for this, drives to him, interrupts dinner, kisses him, asks for the bedroom, pulls him toward her. Whatever else Pace has arranged in her life, he did not manufacture this appetite. She arrives carrying it.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch057 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch057 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~b9d0068c9a3c · 2026-09-11*
 
 REACTION — "Vee's boyfriend." Six times. He walked around that pine room handing out the one credential she bled for on his porch in December — *words are cheap, and you still won't spend them on me* — and he spent this one like it was nothing, in a roadhouse, to Kayla and Theo and Cassie, plain as a grocery list. I had to put the book down for a second when he said it to Randi. Because that word wasn't for Vee, really — or not only for her. He said it *in front of the one person she tells everything to*, which is a man declaring a claim and also a man handing his girlfriend's best friend the receipt. And Randi's hand closed hard around Vee's — I'm still chewing on that grip. Fierce, yes, "happy for you," sure. Or the woman watching the door she opened swing shut from the other side. This book has trained me not to trust a single one of Randi's reactions at face value and I refuse to start now.
 

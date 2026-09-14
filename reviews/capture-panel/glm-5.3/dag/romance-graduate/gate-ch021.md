@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch021 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch021 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~0894d4db7f65 · 2026-09-10*
 
 REACTION — Okay, I'm the kind of reader who rolls her eyes at "he made her a dress" scenes because they're usually wallpaper for the brooding rich guy's portfolio. This was not that. The dress hanging in the window with the sun inside it, and the thing that actually got me — *"he'd taken all that trouble and then taken the further trouble to hide the trouble."* That's the whole man in one line, and it's the whole book's question too: is devotion the same thing as management? I'm still holding both, and the book keeps refusing to let me set either down.
 

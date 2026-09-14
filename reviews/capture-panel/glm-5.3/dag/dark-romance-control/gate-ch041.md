@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch041 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch041 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~a3af5d5e997c · 2026-09-10*
 
 REACTION — The "cropped" title did me in twice: she cropped the photo for her parents (the version they have stops at the waist — the image now officially exists in multiple states of undress, one of which lives in her mother's *purse*), and Pace cropped the dress from the world to her. The detail that Dad was pricing the dress and Mom touched her own collarbone — that's the whole Thorne family in two gestures. And the confession that killed me: her father would take "he takes that dress off me" better than "he made it." Sex he understands. The sewing he never would. That's the most true thing this book has said about shame, and Vee turned right around and said the opposite of shame — "I'm not ashamed of it. The opposite, if anything." She's converting the load-bearing shame of her whole life into heat and pride and I'm watching it happen one object at a time.
 

@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch018 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~8611b8522702*
 
 Okay. I read this whole chapter with my stomach in two places at once, and I need to talk about both.
 

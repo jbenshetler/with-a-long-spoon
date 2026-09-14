@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch041 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch041 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~a3af5d5e997c · 2026-09-11*
 
 REACTION — Oh, “cropped” is doing a lot here. Vee cropped the photograph for her parents, cropped Pace into the respectable pieces her father could understand, and then discovered she cannot fit the actual relationship into a frame even for Cassie. “I told Dad the parts that fit” made my stomach tighten. That is precisely how Pace and Randi have been giving Vee her own life: only the parts that fit the story they want her to see. She is starting to practice the same kind of selective truth without recognizing the resemblance.
 

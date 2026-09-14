@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch015 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch015 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~13cbb0faa7b7 · 2026-09-07*
 
 REACTION — Oh, this is exactly what I’ve been starving for. Not just that it’s hot—and it is obscenely hot—but that the heat is inseparable from Vee’s interior life. Her soaked panties aren’t treated as some automatic porn signal that means “proceed.” They’re the visible evidence of a desire she has been trained to experience as humiliation. And Pace’s response isn’t to ignore it politely or pounce on it. He waits for her eyes. God.
 

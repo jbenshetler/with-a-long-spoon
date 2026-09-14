@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch032 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~13e407d9f33a · 2026-09-10*
 
 REACTION — Oh, this got me. The playfulness first—the ridiculous shorts-as-victory-flag chase, Vee discovering she can outmaneuver him, flashing him because she wants to make him lose control—matters enormously. She is not being maneuvered into this scene. She starts it, escalates it, runs laughing toward the thing she wants before she can admit what the thing is. Her desire feels gloriously, specifically hers.
 

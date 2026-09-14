@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch019 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch019 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~1f134f523a50 · 2026-09-10*
 
 REACTION — Okay, so this one's short and quiet, but it landed harder than I expected. The whole chapter is just Vee coming home glowing — but the middle of it is the con, still running, and I felt it in my teeth the whole time.
 

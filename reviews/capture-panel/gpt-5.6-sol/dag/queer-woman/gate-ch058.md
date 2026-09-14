@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch058 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch058 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~80491aa34d7b · 2026-09-11*
 
 REACTION — Oh, Vee. Honey. Your body has now answered this question twice before your mind could get its shoes on.
 

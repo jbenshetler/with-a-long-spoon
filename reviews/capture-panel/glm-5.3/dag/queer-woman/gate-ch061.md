@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch061 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch061 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~ad99119c213f · 2026-09-11*
 
 REACTION — God, this book. Just when I've got the whole board mapped — Randi, the bed, the plan, the detonation — it walks a complete stranger into the room and knocks everything sideways.
 

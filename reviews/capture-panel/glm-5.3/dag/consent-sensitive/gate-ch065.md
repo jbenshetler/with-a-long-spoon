@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch065 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch065 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~fa13475bf6b9 · 2026-09-12*
 
 REACTION — Oh, this chapter. This chapter took the ladder the book's been building since the mirror and the car and the stall and the flannel — eight chapters of almost — and paid it off in the worst, best possible way: with Randi holding the exit door open the whole time.
 

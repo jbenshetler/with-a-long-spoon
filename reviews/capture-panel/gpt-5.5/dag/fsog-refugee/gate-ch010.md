@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch010 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch010 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~2ce78e0e23d6 · 2026-09-08*
 
 REACTION — Oh, this one got me in that soft dangerous place. Not the sex-place exactly, but the girl-place. The wanting-to-be-picked place. Vee sitting in that awful bright smoothie shop, feeling suddenly wrong in her cardigan, too covered and too visible at the same time — I knew exactly what that did to her before she knew. That whole room of girls is such a specific kind of threat. Not even mean yet, just calibrated. Finished. Measuring you by existing.
 

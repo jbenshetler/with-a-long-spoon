@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch069 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-12*
+*capture-dag-v2-rich · gate ch069 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~c10b93dddd9c · 2026-09-12*
 
 REACTION — Oh, this got me. The gym should not have been hotter than the actual sex scenes, and yet Pace treating her tiny weights as real weights, setting every collar, arranging the entire workout so she was never responsible for more than she could safely hold—yes. That is exactly the grown-up competence I keep begging these books for. He takes her seriously without pretending she is less vulnerable than she is. “Everything gets a collar” went directly into the permanent file.
 

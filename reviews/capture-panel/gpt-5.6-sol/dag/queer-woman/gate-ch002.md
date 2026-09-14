@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch002 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch002 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~f388da9c70ea · 2026-09-10*
 
 REACTION — Oh, this hurt. The bench was intense, but this is the chapter that made Randi feel frighteningly real to me. That humiliating little gauntlet downstairs—everyone smiling, every question deniable, every answer quietly placing Pace and therefore Randi on a scale—was so familiar I could feel my own face arranging itself with hers. “I love that you don’t care about cars” is vicious precisely because Sloane could swear it was a compliment.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch031 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch031 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~230524645ef4 · 2026-09-10*
 
 REACTION: Okay, the gun on the mantel finally went off and it wasn't the shot I was braced for — it was better. I've been waiting chapters for the induction, fully expecting Pace to be there orchestrating it, and instead the book did the smartest thing: it took him away. Berkeley, a conference, no dramatics — and suddenly the dress is HERS in a way it hasn't been all book. The whole thing with the chair and the underwear was hers, but this is the first time his absence made her more herself instead of less. I love that inversion so much.
 

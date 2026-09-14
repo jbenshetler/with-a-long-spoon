@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch018 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch018 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~8611b8522702 · 2026-09-10*
 
 REACTION — Okay. *Okay.* This is the chapter I've been waiting for since the truck in the rain, and it delivered in a way I genuinely wasn't braced for because I expected the usual scene choreography and instead I got the mother's voice running through the whole thing like a live wire. "She could not find the seam between the heat and the shame because there was no seam" — that's the whole thesis of this book in one line, and it's doing the thing almost no romance does: letting the shame BE part of the arousal without either pathologizing it or prettifying it. The *floozie* arriving with her nipples, the voice as fuel instead of obstacle — I've read five hundred heroes "banish" a heroine's shame with a speech. Pace never banishes anything. He just stays in the wet of her and is glad. That's so much more radical.
 

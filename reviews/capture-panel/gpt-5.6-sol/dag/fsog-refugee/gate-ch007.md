@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~b0e38f522c99 · 2026-09-07*
 
 REACTION — Oh, Cassie. I already trusted her suspicion, but now I love her. She sees Vee without turning that seeing into a claim on her. She doesn’t demand the sad story, doesn’t make Vee perform vulnerability so she can feel like a good friend; she just launches water at her and gives her a way back into herself. That is such real tenderness.
 

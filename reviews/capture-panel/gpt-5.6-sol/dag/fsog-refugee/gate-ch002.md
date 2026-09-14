@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch002 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch002 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~f388da9c70ea · 2026-09-07*
 
 REACTION — Oh, Randi. This hurt in such a quiet, familiar way. That whole smiling interrogation downstairs made my skin crawl—not because anyone said anything openly vicious, but because every “friendly” question was really a little measurement, and Randi knew exactly what each one meant because she helps enforce the same system. “I love that you don’t care about cars” was especially poisonous. Pace’s truck, his height, his status: they reduced the man who just saw more of her than anyone ever has to whether he meets house standards, and she immediately helped them do it. I wanted to grab her by the shoulders when she agreed he was “cute.”
 

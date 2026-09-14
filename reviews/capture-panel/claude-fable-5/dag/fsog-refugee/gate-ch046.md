@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch046 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch046 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~eeeec469236e · 2026-09-08*
 
 Oh. *Oh.* Forty-five chapters of watching Randi through glass and the book finally just — opened her chest on the table. And of course it did it now, right after three chapters of Vee bleeding out over a word Pace won't say, so I came into this one raw, and Randi at that breakfast table "eating her revulsion" with her sorority smile got me before the lift line did. She invents boys for her father the way Vee crops photos for hers. Everyone at every table in this book is running a laundered version of themselves for their parents. That's the whole series in one breakfast.
 

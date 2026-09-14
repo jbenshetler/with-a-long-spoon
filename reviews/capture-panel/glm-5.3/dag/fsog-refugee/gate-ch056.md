@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch056 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-11*
+*capture-dag-v2-rich · gate ch056 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~c23f4d1deeee · 2026-09-11*
 
 REACTION — Okay. Okay okay okay. I need to walk around my apartment for a minute.
 

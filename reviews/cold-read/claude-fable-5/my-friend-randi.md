@@ -1,6 +1,6 @@
 # Cold read (grounded) — My Friend Randi
 
-*scene: scenes/my-friend-randi.md · model: claude-fable-5 · memory: ck-ch040 + raw ch041..ch048 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/my-friend-randi.md · model: claude-fable-5 · memory: ck-ch040 + raw ch041..ch048 · reader-protocol: v3-grounded-checkpoint · prose-sha ~79b4d57f1ee0*
 
 ## Reader reaction
 

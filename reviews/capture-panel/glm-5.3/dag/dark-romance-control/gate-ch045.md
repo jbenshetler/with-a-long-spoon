@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch045 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch045 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~d6bbb290a65b · 2026-09-10*
 
 REACTION — Okay. THIS is what I've been waiting forty-five chapters for someone to do. Vee walked in with her jaw set and a coin under her tongue and asked the question out loud, standing on the mat, refusing to cross the room — not crossing the threshold of his warm little kingdom is the whole grammar of this book and she finally used it as a weapon. "Words are cheap, and you still won't spend them on me." I actually put the book down. That line earned the entire fall of the story so far.
 

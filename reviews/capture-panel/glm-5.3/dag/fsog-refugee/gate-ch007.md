@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch007 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch007 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~b0e38f522c99 · 2026-09-10*
 
 REACTION — Oh, this one got me somewhere I wasn't expecting. After the bench chapter — which left me feeling half-drugged and half-wary, honestly, because watching Randi put the *real* girl back behind the face like that was almost too much — and after the coffee shop, where I kept noticing the wires behind the curtain (Randi's hand busy around her coffee cup, her cup going up and coming down with no sip, and *I know* she's one of the two who planned this), I needed Vee to just... breathe. And the book gave me that literally. Underwater.
 

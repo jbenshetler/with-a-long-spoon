@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch011 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch011 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~2888278eb31d · 2026-09-10*
 
 REACTION:
 

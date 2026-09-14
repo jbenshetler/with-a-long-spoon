@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch014 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch014 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~67e76ab36d89 · 2026-09-10*
 
 Oh, this one got me. I read the whole thing with my stomach in my throat and I'm going to be honest about why: the dress. I knew the dress was coming — I've known since the cherries, since "that sounds like a beautiful dress" and the way he just took another cherry and let her set the wanting down on the rock between them. What I didn't know was how the book would handle the giving, and the answer is *he matched her, not the dress,* and I put the book down for a second when I got to that. The shade she'd carried for weeks would have fought her coloring; he chose the one that looks mixed for exactly her. That's not a man remembering a request. That's a man who has been looking at her the whole time, closely enough to know her coloring better than a magazine does. And her eyes going hot before she can find the end of the sentence — she doesn't *have* the end of that sentence, and neither do I, and that's the whole point of him.
 

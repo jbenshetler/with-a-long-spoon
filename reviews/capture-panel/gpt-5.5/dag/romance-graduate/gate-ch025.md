@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
+*capture-dag-v2-rich · gate ch025 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~178a1c64010d · 2026-09-11*
 
 REACTION — Oh, this got me in the ribs. Not in the flashy way the dress chapter did, but in that quieter, more dangerous way where I can feel myself leaning closer before I’ve decided to. This is the chapter where Pace stops being only an erotic architecture machine and becomes a person with old weather in him. And inconveniently, that makes him hotter to me, because of course it does. Of course the man who cooks, sews, lifts, asks, notices, and ruins me with finger-cleaning also has a whole private mythology of math and loneliness and discipline.
 

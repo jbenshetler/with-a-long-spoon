@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~3a52a74c7617 · 2026-09-07*
 
 REACTION — Oh, Vee. That feeling of being chosen by the exact woman whose attention would transform the room for you—I felt it so sharply I almost couldn’t bear to watch. The right pen, the stool in the window, the ridiculous happiness of *see you later*: every tiny thing means everything because Vee has been standing outside this kind of belonging for so long. And underneath that, whether she can name it or not, she doesn’t merely want Randi’s world. She wants Randi. That “flat helpless want” got me.
 

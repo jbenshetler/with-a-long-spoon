@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~905926aff4b8 · 2026-09-10*
 
 REACTION — Oh. It’s Randi.
 

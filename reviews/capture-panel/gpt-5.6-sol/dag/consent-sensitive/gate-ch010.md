@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch010 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch010 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~2ce78e0e23d6 · 2026-09-07*
 
 REACTION — Oh, this is *so* exquisitely dangerous. Randi is doing exactly what the jacket promised: taking Vee’s real, freely chosen pleasure and teaching her how to understand it in the language Randi wants. “You let him choose for you. And you liked it.” True. Also not neutral. She’s gathering intelligence about what makes Vee yield, and Vee is thrilled to place it in her hands.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch070 · glm-5.3 · queer-woman · prompt-sha 914114a6274c · 2026-09-12*
+*capture-dag-v2-rich · gate ch070 · glm-5.3 · queer-woman · prompt-sha 914114a6274c · prose-sha ~2db97916f454 · 2026-09-12*
 
 REACTION — Okay. I read this whole chapter with my heart in a strange place, because here's the thing: this is the warmest, most generous chapter the book has given me since the mushroom morning, maybe warmer — and I read every single page of it knowing what Vee doesn't. He gave her a *key*. "I've never given a key to anyone." And I'm sitting there thinking: you sleep with Randi, you liturgize this girl in another woman's bed, and now you cut her a brass key and put it in a box you made with your hands. Both of those men exist in the same body and the book keeps making me hold them both and I honestly don't know anymore whether the tenderness is the con's finest instrument or the truest thing in it. That's the book doing exactly what it does — making the mark's eyes-open love the complication.
 

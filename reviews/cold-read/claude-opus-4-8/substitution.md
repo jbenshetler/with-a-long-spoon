@@ -1,6 +1,6 @@
 # Cold read (grounded) — Substitution
 
-*scene: scenes/substitution.md · model: claude-opus-4-8 · memory: raw ch001..ch004 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/substitution.md · model: claude-opus-4-8 · memory: raw ch001..ch004 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint · prose-sha ~22330aaefd51*
 
 ## Reader reaction
 

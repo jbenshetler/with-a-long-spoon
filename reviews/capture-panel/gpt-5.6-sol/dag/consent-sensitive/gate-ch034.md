@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~702b7231d0c3 · 2026-09-11*
 
 REACTION — Oh, Randi knows. I don’t know whether she knows every physical detail, but she knows what she did to Vee, and “Sticky fingers?” was cruelty with an escape hatch built into it. That pastry arriving while Vee was gone, Randi taking exactly one bite, the innocent explanation ready before Vee could even breathe—this is deniability staged down to the glaze. And then the sweetness left on Vee’s mouth after the kiss. Jesus. Randi gave her the evidence only after she was safely gone, when Vee could neither ask nor refuse the meaning of it.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch031 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch031 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~230524645ef4 · 2026-09-11*
 
 REACTION — Oh finally, the dress got its room.
 

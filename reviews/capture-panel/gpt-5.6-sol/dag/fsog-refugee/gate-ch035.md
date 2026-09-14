@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~3fae9b31dd45 · 2026-09-11*
 
 REACTION — Oh, the drawer got me. The top drawer. He crushed his own neat little life into the inconvenient lower one so she could have the place a hand reaches for without thinking. That is so specifically, devastatingly Pace: he cannot say the thing, so he alters the physical world around her until the house says it for him. I would absolutely text a friend at one in the morning, “HE GAVE HER THE TOP BATHROOM DRAWER,” and expect her to understand that this is now a crisis.
 

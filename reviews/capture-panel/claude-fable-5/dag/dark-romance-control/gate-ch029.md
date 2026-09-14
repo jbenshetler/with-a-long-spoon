@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch029 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch029 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~b7e65eed6c29 · 2026-09-08*
 
 The heels. THE HEELS. She drove to her groveling in Randi's shoes and Randi's scarf, knotted the way Randi's hands taught her, on Randi's schedule — "not today, tomorrow night, go in sure" — and she thinks she walked up that hill alone. She apologized to one operator wearing the other operator's costume. And Pace *touched the scarf*. Two fingers under the tail, "a half-second longer over the silk than the errand needed." Helen. HELEN. Does he know that silk? Of course he knows that silk. It lives in his other lover's drawer. He set his own accomplice's flag back on Vee's shoulder and said something about gods and loans, and Vee logged it as "the scarf is working." Baby. The scarf is working on a level you cannot see. That half-second is my favorite thing in the chapter and it's four words long.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~578546d8a374 · 2026-09-10*
 
 REACTION — Oh, Cassie. “Just her name, like setting something down where it wouldn’t break” got me. That is love—not necessarily romantic love, I’m not making claims yet, but the intimate competence of someone who knows how to receive you without grabbing the experience and telling you what it means. She jokes, she checks that Vee is alive, and then when Vee hands her the tender part, she goes still. She lets it remain Vee’s.
 

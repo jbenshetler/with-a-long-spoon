@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~702b7231d0c3 · 2026-09-11*
 
 REACTION — Oh, Randi knows. She knows exactly what she did, and “Sticky fingers?” made my stomach drop. The pastry gives her plausible innocence, but that is what she always does: builds the innocent explanation into the trap so Vee can never prove she was handled. I don’t believe for one second that the timing was accidental. “Do what you need to” was practically an instruction, delivered with enough casualness that Vee has to carry all the shame alone.
 

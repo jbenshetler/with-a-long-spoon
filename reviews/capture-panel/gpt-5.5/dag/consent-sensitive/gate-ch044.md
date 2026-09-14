@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch044 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~025d1b3f1ab8 · 2026-09-11*
 
 REACTION — Oh, this hurt in that cold, plain, private way that feels almost more naked than the sex chapters.
 

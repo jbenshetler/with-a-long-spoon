@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch032 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch032 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~13e407d9f33a · 2026-09-10*
 
 REACTION — Okay, first: the CHASE. I have read approximately nine thousand "he chased her around the apartment" scenes and every single one of them has been dead weight between the plot and the sex. This one made me put my tea down. Because it's not foreplay-decor, it's *character discovery* — she finds out she's faster than him, on the balls of her feet, in heels, and the book knows that "she was faster than he was" is a bigger deal than any of the spanking that follows. The wall flinched. She poked his thigh and he FLINCHED and I sat up straight, because the book let something land on him for the first time in thirty-two chapters. Even her flash — "she had never in her life done such a thing, and some small astonished part of her stood off and watched her do it" — that's the sentence I'd underline. That's the interiority I'm starving for.
 

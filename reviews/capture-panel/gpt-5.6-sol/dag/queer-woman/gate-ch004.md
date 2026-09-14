@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~3a52a74c7617 · 2026-09-10*
 
 REACTION — Oh, this is gorgeous and sinister. Vee’s three-minute campaign of not looking at the door, then that helplessly bright “Hi”—yes. I know that particular humiliation of wanting someone’s attention so badly that receiving it feels like being admitted into a better version of your own life. And her attention to Randi is already desire, whatever Vee currently calls it. Not abstract admiration, not merely wanting to *be* her: the citrus, the warm breath, the shoulder touching hers, the total quiet that falls when she looks at Randi. The wanting belongs to Vee. I believe that completely.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch006 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch006 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~1b9cac32f89b · 2026-09-10*
 
 REACTION — Okay, this is the chapter where I fully fell for Pace, and I didn't expect it to happen over frozen yogurt. The man has a *philosophy of cup construction* — "you put chocolate on tart and it's an argument the whole way down" — I actually laughed out loud. And it's the same brain that solved her integral by handing her back the pencil. There's a through-line in how he treats everything: he doesn't do things *to* her or even *for* her, he makes room for her to do them. That's it, that's the thing I've been hunting for in this genre for years.
 

@@ -1,6 +1,6 @@
 # Cold read (grounded) — Believe Me
 
-*scene: scenes/believe-me.md · model: gpt-5.6-terra · memory: ck-ch040 + raw ch041..ch044 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/believe-me.md · model: gpt-5.6-terra · memory: ck-ch040 + raw ch041..ch044 · reader-protocol: v3-grounded-checkpoint · prose-sha ~eeeec469236e*
 
 ## Reader reaction
 

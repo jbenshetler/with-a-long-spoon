@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch035 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · 2026-09-08*
+*capture-dag-v2-rich · gate ch035 · claude-fable-5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~3fae9b31dd45 · 2026-09-08*
 
 She read the chapter; here is her reaction.
 

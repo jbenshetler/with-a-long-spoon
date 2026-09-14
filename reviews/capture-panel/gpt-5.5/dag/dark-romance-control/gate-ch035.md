@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch035 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~3fae9b31dd45 · 2026-09-11*
 
 REACTION —
 

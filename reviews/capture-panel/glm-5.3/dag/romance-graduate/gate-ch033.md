@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch033 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch033 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~d4837de434ed · 2026-09-10*
 
 REACTION — Okay, I have chills, actual chills, and I need to talk about the moment the lamp clicked brighter. He heard her go down the hall and he turned the lamp UP. Not a word, not following, not knocking — just one click more light for her, because he understood before she came back out that whatever she was doing, she was doing it to be seen, and he was making the seeing possible. That's this man in a single gesture. That's why I'm still here at chapter 33 of a book I'd normally have predicted like clockwork.
 

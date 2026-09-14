@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch006 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch006 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~1b9cac32f89b · 2026-09-10*
 
 REACTION — Okay, so the froyo date itself is dangerously close to the wholesome-cooking-dinner territory I do not read these books for. A man who pays, holds the door, listens like her grandfather, and says "your tart's holding up"? On its own that's a Hallmark movie and I'd be gone.
 

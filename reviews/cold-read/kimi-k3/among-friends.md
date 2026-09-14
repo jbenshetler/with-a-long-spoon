@@ -1,6 +1,6 @@
 # Cold read (grounded) — Among Friends
 
-*scene: scenes/among-friends.md · model: kimi-k3 · memory: ck-ch050 + raw ch051..ch055 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/among-friends.md · model: kimi-k3 · memory: ck-ch050 + raw ch051..ch055 · reader-protocol: v3-grounded-checkpoint · prose-sha ~80491aa34d7b*
 
 ## Reader reaction
 

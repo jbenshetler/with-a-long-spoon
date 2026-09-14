@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch065 · claude-opus-4-8 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch065 · claude-opus-4-8 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~fa13475bf6b9 · 2026-09-12*
 
 REACTION
 

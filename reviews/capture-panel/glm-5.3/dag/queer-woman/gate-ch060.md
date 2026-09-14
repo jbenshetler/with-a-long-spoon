@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch060 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch060 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~f697ae9ef8f2 · 2026-09-11*
 
 REACTION — Okay. There it is. The floor of the whole book just slid out and I'm sitting here in the dark with my tea gone cold, furious and so turned on I'm embarrassed about the order of those two things.
 

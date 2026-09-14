@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~905926aff4b8 · 2026-09-07*
 
 REACTION — Okay, the bench got me. A man secretly building custom furniture to put a woman exactly where he wants her is the first thing here that feels like my particular flavor of devotion, and Randi realizing what it is—then saying “Show me”—was hot. The waiting, the deliberate denial, and Pace refusing the pretty, socially polished version of her begging until he dragged out the ugly real one? Yes. That has teeth. Her private horror afterward was even better. Not horror at what he did, but at being genuinely seen and wanting it that badly. That is the sort of emotional exposure that feels more indecent than nudity.
 

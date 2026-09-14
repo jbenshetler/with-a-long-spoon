@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch059 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch059 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~8348ecb548e4 · 2026-09-11*
 
 REACTION: Oh, this chapter. This is the kind of thing I'd tell a friend "nothing happened, and I couldn't put it down" about. Vee alone in the flannel, the radiator, the window — the whole thing is one long internal negotiation about a centimeter of distance between her fingers and her mouth, and it had my heart rate up more than the roadhouse truck scene did.
 

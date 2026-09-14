@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch044 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch044 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~025d1b3f1ab8 · 2026-09-10*
 
 REACTION: God. That chapter did something to me that the loud ones never manage. Nothing happens in it — a girl takes a shirt off and puts it back on and takes it off again — and I read the whole thing with my chest tight.
 

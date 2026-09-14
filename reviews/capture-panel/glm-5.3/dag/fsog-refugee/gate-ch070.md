@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch070 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch070 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~2db97916f454 · 2026-09-12*
 
 REACTION — I had to put the book down twice, and both times were not where you'd guess. Once at the key — "You're more than a guest in my house. I've never given a key to anyone" — because sixty-plus chapters of this man refusing the word, and now he's cut brass and built a box with his own hands and carried it up a mountain, and Vee doing the same arithmetic I do: *house,* and then waiting half a beat for the one with a hearth in it, and it not coming. He keeps buying the word's presents and refusing to say the word, and I keep being fed anyway, that's the annoying part, I want to be cross about it and I'm not.
 

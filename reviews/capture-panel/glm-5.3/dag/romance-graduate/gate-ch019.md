@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch019 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch019 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~1f134f523a50 · 2026-09-10*
 
 REACTION — Okay, so the book gave me a full sex scene last chapter and I was braced for chapter 19 to be filler, and instead it's this small, exact thing about *what a woman tells her best friend* and it kind of wrecked me. The ladle image — "the way a ladle takes soup from the pot and the surface closes without a hole" — that's the whole book in one sentence. That's what Vee does, that's what Randi does, that's what Pace does. Everybody's ladling something out and smoothing the surface over, and I'm sitting here knowing the biggest ladle of all is the pointing game, and the surface is going to close until the day it very much doesn't.
 

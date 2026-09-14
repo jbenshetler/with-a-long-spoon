@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch038 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch038 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~38dcf8e44cd8 · 2026-09-11*
 
 REACTION — Oh, Randi. That “you don’t have to show me” was so perfectly placed I practically heard the trap click shut. She knew Vee would rather expose herself than be filed as timid, and then “legs like yours—and you only gave him *half*?” finished the job. Vee experiences the uncropped photograph as something she freely chooses to share—and she does choose it—but Randi manufactured the little wound that made proving herself feel necessary. This is exactly the distinction that has me by the throat: Vee’s yes is real, and the conditions around it are being tuned by someone who knows her shame almost better than she does.
 

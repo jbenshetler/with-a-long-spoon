@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch046 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch046 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~eeeec469236e · 2026-09-10*
 
 REACTION — So this is where the book takes us the chapter after Vee walks out the door: not to Pace standing in his warm hallway, but back into the machine that built Randi. And I get it — the juxtaposition IS the argument. Vee just heard "believe what I do" instead of the word, and here's a whole glittering chapter about a man who never asked for anything and gave nothing that kept.
 

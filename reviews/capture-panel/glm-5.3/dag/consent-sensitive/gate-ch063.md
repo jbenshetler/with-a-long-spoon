@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch063 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch063 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~f6415b9043be · 2026-09-12*
 
 REACTION — Okay. This one got under my skin and then got under my skin a *second* time on purpose, and I want to be precise about which did what.
 

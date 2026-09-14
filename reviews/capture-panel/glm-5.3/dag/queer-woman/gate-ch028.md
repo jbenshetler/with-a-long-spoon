@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch028 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch028 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~630e5e2d2504 · 2026-09-10*
 
 REACTION — A bike ride. After everything — after the scarf lesson and the shoes and the black dress being laid out like armor for tomorrow night — the book takes me out of Vee's head entirely and puts me on a cold road behind a small woman on a small frame, and I honestly didn't mind. I liked the change of air.
 

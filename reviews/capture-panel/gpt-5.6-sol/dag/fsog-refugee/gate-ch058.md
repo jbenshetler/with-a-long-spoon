@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch058 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch058 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~80491aa34d7b · 2026-09-12*
 
 REACTION — Oh, Vee. She is dressing for Randi with “the same keyed-up gladness” she saves for Pace, skipping dinner because she knows Randi will feed her, carrying the story around like a gift—and she still cannot let herself put those facts in the same sentence. Meanwhile I am sitting here practically vibrating because her body has already worked it out. The shared wintergreen, the knee left against hers, the breathless walk with their arms linked, Randi’s hands on her waist, Vee kissing that exposed place on her neck because she simply wants to: none of that is friendship accidentally looking sexy anymore. Not to me.
 

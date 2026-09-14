@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch044 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~025d1b3f1ab8*
 
 I did the shirt thing. I said that in my notes and I'll say it here: I have slept in someone's flannel for a reason, and this chapter reached into that memory and put its hand flat on it. The heat in the shirt being *her own heat, given back* — that's the sentence I'll be carrying around for days. Because that's the true thing about comfort objects, isn't it, the thing nobody puts in the poems: you're breathing your own warmth off somebody's collar at 3 a.m. and calling it closeness. The book knew that. It let the ritual work for chapters — the washing, the Sunday return, "so it smells like you again" — and then it took the whole apparatus apart in one page, and it did it *honestly*, without melodrama. The shirt didn't fail because he failed. The shirt failed because it was always her body keeping it warm.
 

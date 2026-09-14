@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch010 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch010 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~2ce78e0e23d6 · 2026-09-10*
 
 REACTION — Okay, this is the chapter where the con gets its claws back in for me. I've been a little restless the last few chapters, honestly — hiking, froyo, the pool, all very pretty and I could feel the book drifting toward the "two people just like each other" shelf I don't buy from. But I know what the jacket promised, and I know what I saw in chapters 1 through 3: the pointing game, *her,* the collision that wasn't a collision. Randi engineered that meeting like a pickpocket. So when Vee sits here thinking she's been *chosen* — "the queen having decided there would be a later" — every beat of this chapter lands for me as dramatic irony with teeth. She's falling for the friendship the way she's falling for the man, and the reader is the only one in the room who knows both romances have the same author.
 

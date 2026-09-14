@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch053 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch053 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~ec1574909bf3 · 2026-09-11*
 
 REACTION — This one got me in a sneaky way. Nothing happens — a man washes dishes and asks about her friends — and I put the chapter down with my hand over my mouth. He remembered Meg's boots. A half-sentence off a mountain trail in October, kept. Kayla's paint line handed back in his flat voice. And the thing that undid me is that Vee felt exactly what I felt: *he had been listening.* Not the polite rest-kind of listening. After fifty chapters of a man who won't spend one word she needs, it turns out he's been hoarding the small dumb news of her life like currency. Which is the whole book in miniature, isn't it — he keeps everything and pays with nothing, and she sits there at his back feeling rich off the keeping.
 

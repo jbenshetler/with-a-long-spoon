@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-11*
+*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~bb2635a8b1b0 · 2026-09-11*
 
 REACTION — Oh, Vee. “We talked”? No, you absolutely did not. You opened your coat, and he gave you sex and food and “I missed you,” and it was beautiful and real and still not the conversation you went there to have. Then the invented sweater disaster came pouring out so easily that I felt cold. She isn’t just keeping the sex private; she has to falsify the entire shape of the reconciliation because telling Cassie the truth might let Cassie see what Vee cannot bear to see yet.
 

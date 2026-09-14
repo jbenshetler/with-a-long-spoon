@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch015 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch015 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~13cbb0faa7b7 · 2026-09-10*
 
 REACTION — Okay, so the thing I keep telling myself is: I *know* this is the con. I know the house was pre-heated hours before she arrived, I know the "riser" was built and waiting, I know "he asks before he takes" is the weapon itself. So when the chapter wants to lull me with a man on his knees with a pencil behind his ear, I'm supposed to sit there and feel the wrongness. And mostly I did! The heat thing nearly got a text — *he turned the thermostat up hours in advance so she could stand there bare and not be cold, and the narration tells you this like it's romance.* That's the knife. That's my knife. It's just buried under a LOT of flannel this chapter.
 

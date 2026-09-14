@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch056 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch056 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~c23f4d1deeee · 2026-09-12*
 
 REACTION — Oh, Vee. “Because that had been about Pace, obviously” is such a frantic little lie, and she almost knows it. Randi’s face is the thing that takes her over. Randi’s voice is inside the fantasy. Then Vee kisses her neck without thinking, Randi flinches because it plainly lands somewhere dangerous, and both women instantly cover it with tickling and laughter. I am dying for Vee to recognize what her own body is already saying.
 

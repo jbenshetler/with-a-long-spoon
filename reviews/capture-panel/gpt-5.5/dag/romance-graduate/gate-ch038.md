@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch038 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
+*capture-dag-v2-rich · gate ch038 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~38dcf8e44cd8 · 2026-09-11*
 
 REACTION — Oh, this chapter got me in the exact soft dangerous place.
 

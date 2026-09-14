@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~6b85b74f7cb8 · 2026-09-07*
 
 REACTION — Oh, I loved this. Not because it escalated anything physically, but because Vee got to come home and tell a woman who actually loves her—and Cassie listened without grabbing the experience away from her. That “He left me a door” / “He asked” exchange got me. Cassie understands the important thing immediately. She doesn’t need the mechanics of consent explained, and she doesn’t confuse Pace’s restraint with disinterest until they’re safely back in teasing territory.
 

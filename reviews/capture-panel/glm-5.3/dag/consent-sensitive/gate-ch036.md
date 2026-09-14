@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch036 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch036 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~9782a926aac2 · 2026-09-10*
 
 REACTION — God, this chapter made me miss Cassie so much it hurt, and then I remembered why I've been missing her, and it hurt more.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch021 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch021 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~0894d4db7f65 · 2026-09-11*
 
 REACTION — Oh, this made me stupidly happy. The dress in the window, lit through like wine, the new mirror, the bright screw heads—he hadn’t only made it; he had arranged the moment of her seeing herself in it. And then he let her have that moment privately. That is exactly the combination that ruins me: all that focused male attention without him claiming ownership of her response.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch061 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch061 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~ad99119c213f · 2026-09-11*
 
 REACTION — Oh, I love Sheri. I love her almost indecently quickly. The unhurried look down Vee’s body, the appreciative little *oh*, the immediate refusal to pretend she wasn’t enjoying what she saw—thank God. No coyness, no threat, no “pricing,” no woman-as-rival arithmetic. Vee arrives dressed for combat and discovers she is being desired. And her laugh coming before she can decide what it means felt exactly right: her body understands the difference before her mind does.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch060 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch060 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~f697ae9ef8f2 · 2026-09-11*
 
 REACTION — Oh.
 

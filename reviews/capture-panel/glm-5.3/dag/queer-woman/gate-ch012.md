@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch012 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch012 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~578546d8a374 · 2026-09-10*
 
 REACTION — Oh, this one got me. Not with heat — with something I care about more right now, which is Vee having one person she tells the *true* version to. And the book knows exactly what it's doing, because I spent chapter 10 watching her report to Randi — half the machine — and get her own story smoothed down into something smaller. And here she is telling Cassie the thing that actually happened, in her own words: "I took my wet shirt off in front of him. On purpose. Me." She put the agency back in the sentence herself. Nobody reframed anything. Cassie just went still and stayed still, and that stillness is the most loving thing in the book so far, and the book wrote it that way on purpose. Two debriefs, back to back, one contaminated and one clean. I see you, book.
 

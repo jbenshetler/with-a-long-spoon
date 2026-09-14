@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch026 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch026 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~427f956545f5 · 2026-09-08*
 
 She went to *Randi's.* Not Cassie's. Not his. RANDI'S. I need everyone to understand what just happened at the very end of this chapter because Vee sure doesn't — she had her first real rupture with Pace, one whole night of her own anger, the first time in twenty-six chapters her immune system fired at the correct target ("I'm doing well / He's making me / I wonder how many of them he's taught" — girl, YES, that was the truest three seconds of your life) — and by morning her feet are pointed at the other operator's door. The system caught its own error. The fight will get routed through Randi, patched, and handed back to her as one more proof that these two people love her. Cassie is asleep FOUR FEET AWAY and Vee brushed her teeth in the dark so she wouldn't have to say it out loud. That's the chapter. That's the horror. She can't even have a breakdown outside the network anymore.
 

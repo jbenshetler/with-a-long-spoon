@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~25b7bedbae77 · 2026-09-07*
 
 REACTION — Oh, she is gone. Not in the frightening sense yet—more like that delicious early-obsession state where twelve days is instantly available in her head and a three-line invitation can shut down her ability to eat. I know that feeling, and I felt genuinely happy watching her get to be loud and silly with girls who aren’t managing her. Meg’s “Sometimes they even are” was exactly the right little pinprick of reality: affectionate, experienced, not trying to spoil the high.
 

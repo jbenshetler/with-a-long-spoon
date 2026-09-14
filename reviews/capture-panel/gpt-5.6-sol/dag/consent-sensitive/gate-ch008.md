@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~0149553a3cd5 · 2026-09-07*
 
 REACTION — Oh, this got me. The food did it more than the kiss, honestly—the sheer intimacy of being hungry, handing someone the choice, and discovering he has chosen abundantly and well. Vee eating without monitoring herself made me ache. She isn’t only hungry because she skipped lunch; she is starving for the relief of not having to manage every second of her own existence. Pace recognizes that with frightening precision.
 

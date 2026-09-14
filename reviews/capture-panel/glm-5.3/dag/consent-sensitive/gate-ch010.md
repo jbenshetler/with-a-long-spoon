@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch010 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch010 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~2ce78e0e23d6 · 2026-09-10*
 
 REACTION — This chapter is a slow squeeze and it knows exactly what it's doing. On the surface it's the smallest thing in the world — smoothies, gossip, a friend demanding a report — and I sat there reading it with my stomach tightening the whole time, because I know what Vee doesn't: she's not telling her friend about her date. She's *filing her report with her handler.* "You have had a look on your face for fifty minutes and I think I can't read it but I read it from across the room" — Randi doesn't want to hear about Pace. She wants to hear *exactly what I heard*: "May I choose." "I stopped keeping track of myself." "I wasn't watching myself the way I always am." Vee is handing over the precise data Pace's game was designed to produce, and Randi takes it in like a sommelier. "You let him choose for you. And you liked it." The way she *holds it up to the light.* I actually put the book down at that line.
 

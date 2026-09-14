@@ -1,6 +1,6 @@
 # Cold read (grounded) — Hangover
 
-*scene: scenes/hangover.md · model: glm-5.3-flash · memory: ck-ch050 + raw ch051..ch060 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/hangover.md · model: glm-5.3-flash · memory: ck-ch050 + raw ch051..ch060 · reader-protocol: v3-grounded-checkpoint · prose-sha ~f6415b9043be*
 
 ## Reader reaction
 

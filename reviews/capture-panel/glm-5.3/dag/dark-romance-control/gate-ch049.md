@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch049 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch049 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~c1f15218cc12 · 2026-09-10*
 
 REACTION — Oh, this chapter WRECKED me and I don't even care that nothing "happened" in it. This is the knife under the silk, finally — not aimed at Vee, aimed at HIM, and somehow that's worse and better at once. The man who asks before he takes, who builds consent like an engineer — and here's the engine under all of it: he said "I love you" once, to Daphne, and losing her "consumed his life," and no one even knew she was gone because SHE was the person he would have told. So he taught himself that the words themselves are the load-bearing wall. Say it and the loss becomes unsurvivable; withhold it and you can get up the next day. That's not a locked room, that's a man who bricked himself into one ON PURPOSE and called it a safety feature. The scar, "I don't go back," the bench — three doorknobs, and this chapter is finally the key, and the key is a dead woman named Daphne.
 

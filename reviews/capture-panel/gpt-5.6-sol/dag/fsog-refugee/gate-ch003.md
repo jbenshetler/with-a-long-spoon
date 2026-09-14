@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~4ef676bfabab · 2026-09-07*
 
 REACTION — Oh, that line — “He took the body's answer for the true one. He usually did.” Absolutely not. A body can reveal desire, yes, but it cannot give consent, and for a few pages I was genuinely afraid the book was about to blur that distinction after promising me so explicitly that it wouldn’t. The fact that Pace waited until the heat had passed and asked her again mattered enormously. I could breathe again there. He wanted her capable of choosing, and when she disguised her desire as a gift to him, he understood the disguise without tearing it off her. That felt intimate rather than invasive.
 

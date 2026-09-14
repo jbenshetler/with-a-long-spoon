@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch009 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch009 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~b011ff26b790 · 2026-09-10*
 
 REACTION — God, this chapter. After everything that came before it — the bench, Randi locking that bathroom door and deciding *not ever*, the pointing game, the planted coffee-shop meeting — this is the book letting me sit in the warmth with Vee while I hold the thing she doesn't have. And that's exactly the ache the jacket promised: "fall for it exactly as she does." The spinning-in-the-room bit, the bean bag heap, "I said yes so fast" — she's so *alive*, and every beat of her joy is real, and every beat of it is also sitting on top of a staged collision on a dining-hall lawn that I watched get engineered three chapters ago.
 

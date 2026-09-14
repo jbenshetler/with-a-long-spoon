@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch002 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch002 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~f388da9c70ea · 2026-09-10*
 
 REACTION — Okay, so I'm sitting here with my jaw a little open, because I read that whole first chapter thinking I was meeting the heroine — the blurb's Vee, the starving junior — and then he said "There you are, Randi." And this chapter confirms it: the woman on the bench, the woman whose face has been lying for years, is *Randi*. The glamorous friend. The one the blurb says steers Vee toward Pace. So the game the jacket promises — the two people who planned her — these two are already deep in something, and it went somewhere neither of them billed. I actually put the book down for a second when that landed. That's a structure that respects my attention.
 

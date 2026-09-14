@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-08*
+*capture-dag-v2-rich · gate ch011 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~2888278eb31d · 2026-09-08*
 
 REACTION — Oh this one got me. This is exactly the kind of chapter where I feel myself being handled as a reader in the same way Vee is being handled, and I hate how much I like it.
 

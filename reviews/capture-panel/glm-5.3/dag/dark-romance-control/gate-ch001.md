@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch001 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch001 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~905926aff4b8 · 2026-09-10*
 
 REACTION — Okay, hold on. Hold ON. I bought this book for the Vee/Randi/Pace triangle — the blurb promises me a game between two people planning a girl's whole year — and chapter one pulls the rug: the woman on the bench is *Randi*. Randi is not just the glamorous friend. Randi is already Pace's. She's the sorority girl with the blue eyes and the mother who lives on egg whites, the one who came apart begging on furniture he built with his own hands. So the "game between the two people now closest to her" is two people who have *this* between them. I actually went back and reread the blurb mid-chapter like an idiot, and yes — it never says the opening scene is Vee. Rivers you sly thing.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
+*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~3a52a74c7617 · 2026-09-07*
 
 REACTION — Oh, Cassie knows. That flat little “Goodbye, Vee” gave me the first real chill of the chapter, because Vee is floating off toward this gorgeous new friendship while Cassie is apparently watching her walk into something she can’t—or won’t—name. I wanted to grab Vee by the cardigan and ask what Cassie has seen.
 

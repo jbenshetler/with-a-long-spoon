@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch042 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch042 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~d75264abed57 · 2026-09-10*
 
 REACTION — Okay. I put the book down after this one and just sat there for a minute, and then I picked it back up and read the porch scene again, because I needed to check whether I'd read what I thought I read.
 

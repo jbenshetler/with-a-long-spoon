@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch047 · gpt-5.5 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~ca7450e92130 · 2026-09-11*
 
 REACTION — Oh, this one hurt in exactly the good bad way. Not hot in the obvious sense, but emotionally nasty, possessive, jealous, and lonely enough that it scratched the itch anyway. Vee trapped in her childhood bedroom with the trophies and ribbons and lavender plug-ins, too big for the bed and too changed for the house, is such a sharp little punishment chamber. Nobody has locked her in it, but it feels like confinement because Pace and Randi have made the world larger and now home is suddenly a dollhouse.
 

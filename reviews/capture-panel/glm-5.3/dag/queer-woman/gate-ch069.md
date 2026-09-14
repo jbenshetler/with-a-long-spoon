@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch069 · glm-5.3 · queer-woman · prompt-sha 914114a6274c · 2026-09-12*
+*capture-dag-v2-rich · gate ch069 · glm-5.3 · queer-woman · prompt-sha 914114a6274c · prose-sha ~c10b93dddd9c · 2026-09-12*
 
 REACTION: Okay. So this is the chapter where I have to admit what this book has done to me, which is that a man saying "Everything gets a collar" while snugging a five-pound plate in an empty corner made my chest go tight, and a paragraph about safety pins made me understand Vee completely. The gym did something to me. "That the smallness of what she was doing bought her back none of his care" — that's the whole engine of this relationship in one line, and I know the book knows it's also the engine of the con, and I sat there wanting it anyway. I'm the mark with my eyes open, still, happily.
 

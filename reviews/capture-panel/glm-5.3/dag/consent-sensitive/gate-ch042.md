@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch042 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch042 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~d75264abed57 · 2026-09-10*
 
 REACTION — Oh, this one hurt, and it hurt *precisely*, the way only a book that knows exactly what it's doing can hurt. Vee builds this beautiful sentence — crackers and a meal, God, it's perfect, it's her whole love language compressed into three lines, food again, always food with these two — and she hands it to him on a cold porch at dawn, and he gives her... a plural. "I love how good *we* are together." Not "I love you." A sentence about the arrangement. And the book does NOT let either of them or me pretend it was the same shape. That's the whole chapter: *the two things had not been the same shape.*
 

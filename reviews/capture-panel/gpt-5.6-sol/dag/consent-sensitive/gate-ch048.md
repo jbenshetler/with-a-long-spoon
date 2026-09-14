@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~b247f2c75c88 · 2026-09-11*
 
 REACTION — Oh, Sheri, thank God. Finally someone inside Pace’s confidence who loves him enough not to be seduced by his stack of technically true evidence. “She didn’t ask you for reasons” is exactly it. Vee did not ask him to prove that he behaves lovingly; she already knows he does. She asked him to make himself vulnerable in language, and he is treating every beautiful thing he does as an exemption from having to answer.
 

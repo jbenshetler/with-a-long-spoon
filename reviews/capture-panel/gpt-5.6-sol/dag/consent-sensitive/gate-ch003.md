@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · 2026-09-07*
+*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~4ef676bfabab · 2026-09-07*
 
 REACTION — Oh, this is where the trap closes, and it is so much worse because everyone involved is delighted.
 

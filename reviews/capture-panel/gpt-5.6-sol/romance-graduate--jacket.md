@@ -1,36 +1,36 @@
 # Capture panel — romance-graduate · jacket
 
-*model: gpt-5.6-sol · persona: romance-graduate · arm: jacket · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 4b4ba87f5608 · run: 2026-09-13*
+*model: gpt-5.6-sol · persona: romance-graduate · arm: jacket · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 4b4ba87f5608 · run: 2026-09-14*
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-ALMOST-STOPPED: “He kept going, varying the rhythm and placement, alternating strikes with shifting intervals of touch and attention so she could not anticipate what came next.”
-WHY: The scene is very long, and around there I wondered whether it was going to keep describing the same cycle instead of changing shape. Then it changed shape completely: the begging, the crying, the bathroom, and finally the reveal that this was Randi. That landed beautifully and horribly. This is explicit without being generic, and the real event is psychological exposure—not the spanking—which is exactly what I keep trying to find.
+CAPTURE: 9 — how hard this chapter specifically pulled YOU while you were inside it
+NEXT: 10 — how much you want the next chapter *right now*
+ALMOST-STOPPED: “He worked her like that for several minutes, the strikes in clean pairs, left then right.”
+WHY: The scene briefly risked becoming mechanically repetitive, but then “There you are, Randi” completely rearranged the book under me. This is the explicitness I came for, but the real hook is the terrible mismatch between Pace’s tenderness and Randi silently locking herself away from it. I need to know what she does with that rupture—and how this becomes the plan involving Vee.
 
 GATE 2 — Standards
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 7 — how hard this chapter specifically pulled YOU while you were inside it
+NEXT: 9 — how much you want the next chapter *right now*
 ALMOST-STOPPED: “She walked to the vanity. She did not sit. She walked to the bed. She did not sit.”
-WHY: That repetition briefly felt a little too visibly written, like the prose wanted me to admire the paralysis. But the common-room interrogation was vicious in such a socially precise, grown-up way, and the duvet being merely adequate after Pace’s blanket hurt. This is a bridge chapter doing real work: I understand the machinery Randi lives inside now, and why being found felt intolerable.
+WHY: For a moment I worried we were going to spend a whole chapter watching her move numbly around a bedroom, but this is a real bridge, not stalling. The sorority interrogation is vicious because almost nothing openly cruel is said, and Randi’s inability to access her own crying feels psychologically precise. I’m deeply curious whether she retreats from Pace, weaponizes what he uncovered, or both.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-ALMOST-STOPPED: “Not the expected, not the matched pairs, not the closed projects, not the ones who ran the room.”
-WHY: The parade of women came close to feeling over-curated, as though the book were explaining Randi’s taste one candidate at a time. But then Vee appeared and Randi’s bare “Yes” made the whole structure pay off. Pace’s certainty that he is giving Randi a gentle gift while quietly arranging an actual person into their game is intensely seductive and intensely alarming; I need to see what happens when Vee enters this knowingly uneven triangle.
+CAPTURE: 9 — how hard this chapter specifically pulled YOU while you were inside it
+NEXT: 10 — how much you want the next chapter *right now*
+ALMOST-STOPPED: “He took the body’s answer for the true one. He usually did.”
+WHY: That line put my back up, because Pace’s confidence that he understands her better than she understands herself is exactly where tenderness can become control. But the chapter knows that tension is there, and the pointing game has actual erotic charge without needing to repeat the bench scene. Randi selecting Vee—and then engineering the collision so beautifully—made the jacket’s promised trap snap into focus.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-ALMOST-STOPPED: “She finished the room. She found her place in it, which was: she was the most of what the room was selling and she was the one with the most fabric on, both at once, and she did not look at either fact straight.”
-WHY: The Chi Latte room-reading went on a touch longer than I needed, but Vee’s interiority earned it because every judgment exposes a want she cannot admit. Cassie’s “Goodbye, Vee” gave the chapter a quiet blade, and Vee retaining the feeling of Randi while losing the actual words is the most chillingly accurate seduction beat in the sample. I know the plan and Vee doesn’t, and now I’m emotionally implicated enough that I absolutely want the next chapter.
+CAPTURE: 9 — how hard this chapter specifically pulled YOU while you were inside it
+NEXT: 10 — how much you want the next chapter *right now*
+ALMOST-STOPPED: “It was the best hour she’d had in months.”
+WHY: I almost stopped there only because Vee’s enchantment is so complete that it hurts to watch when I know Randi approached her deliberately. But Vee has a rich, specific inner life: the cardigan, the high table, the words disappearing while the feeling remains. “Goodbye, Vee” is ominous without being cheap, and I’m already desperate to see whether Cassie understands something Vee doesn’t.
 
 VERDICT
-WOULD PAY: yes
-MAILING LIST: yes
-TELL A FRIEND: This is the first erotica I’ve read in a while where the explicit scene actually changes what I know about a person instead of just proving the book is spicy. It’s lush and sometimes almost too deliberate, but the women have real inner lives, the social cruelty is frighteningly exact, and Pace is compelling because his tenderness and his manipulation are not separable. The setup is basically two people choosing a woman before she knows she is being chosen, and somehow the book makes that feel warm, hot, and ominous at the same time. I’d warn you that the chapters are long and the gaze is merciless, then I’d tell you I bought it.
+WOULD PAY: yes — would you buy the full book right now at $9.99?
+MAILING LIST: yes — would you hand over your email for more?
+TELL A FRIEND: This is the rare spicy book that is actually doing something psychologically dangerous with the heat. It opens with a long, explicit BDSM scene that matters because of what it reveals—and what each person completely misreads afterward—then turns the seduction of another woman into this gorgeous, unsettling social mechanism. The writing is lush but purposeful, the women have real interior lives, and I’m equally attracted to the setup and alarmed by it. I would tell you not to start it unless you have time, because the second Randi says “Her name is Vee,” you’re done.

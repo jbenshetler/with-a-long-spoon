@@ -1,6 +1,6 @@
 # Cold read (grounded) — Sorority
 
-*scene: scenes/sorority.md · model: claude-fable-5 · memory: ck-ch020 + raw ch021..ch022 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/sorority.md · model: claude-fable-5 · memory: ck-ch020 + raw ch021..ch022 · reader-protocol: v3-grounded-checkpoint · prose-sha ~8aff12752f2e*
 
 ## Reader reaction
 

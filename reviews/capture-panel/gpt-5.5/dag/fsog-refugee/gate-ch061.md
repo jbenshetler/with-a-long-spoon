@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch061 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch061 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~ad99119c213f · 2026-09-12*
 
 REACTION — Oh, I needed this chapter in a way I did not know I needed it. I was braced for Sheri like Vee was braced for Sheri, and then the book just turned the whole jealous shape sideways and let air into it. Not by making the jealousy silly, exactly, because it wasn’t silly. Pace did say “we cycle” like an idiot with a spoon in his hand, and I felt that little sting of the established *we* right along with her. But then Sheri walks in not as the fantasy rival, not as the sleek blonde punishment Vee built for herself, but as this loud, short, messy, alive woman who looks at Vee and just plainly enjoys her. God. The relief of that laugh. I felt it come out of my own chest.
 

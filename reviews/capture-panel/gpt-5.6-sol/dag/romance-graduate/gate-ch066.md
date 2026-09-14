@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · 2026-09-11*
+*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~00dbf427b44c · 2026-09-11*
 
 REACTION — Oh, this is the disaster I’ve been waiting for, and it is somehow even hotter and more morally stomach-turning than I expected.
 

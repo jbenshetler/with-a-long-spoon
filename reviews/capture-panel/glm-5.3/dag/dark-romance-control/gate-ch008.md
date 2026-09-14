@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch008 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch008 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~0149553a3cd5 · 2026-09-10*
 
 REACTION — Okay. So. Chapters 4 through 8 have been a lot of froyo and hummus and a girl being charmed, and I want to be clear with myself about why I'm still here: because *I know*. The jacket told me, and chapters 1–3 showed me — Randi on her knees in the bathroom mirror deciding "the one he found is going back behind it and she is not coming out again," then three weeks later she's on a campus walk letting Pace point at women like a game of boutique shopping and picking Vee on sight with a bare, unguarded *yes*. The whole seduction I'm watching unfold in real time was a harvest. Every "may I choose," every bit of Pace's devastating attentiveness at that restaurant — the reader knows it's the long con and Vee doesn't, and that's the only reason a chapter that is 90% bread and mint tea is holding me like it is.
 

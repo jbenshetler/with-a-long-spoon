@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch005 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch005 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~22330aaefd51 · 2026-09-07*
 
 REACTION — Oh, this is so much more dangerous than I expected it to feel. I already knew Randi and Pace had arranged the meeting, but watching the machinery work while Vee experiences it as the most flattering accident of her life made my stomach tighten. Pace doesn’t just flirt with her; he identifies the exact way she wants to be valued. He lets her remain intelligent, capable, and fully herself—and somehow makes that feel intensely sexual before he has even touched her. Giving her back the pencil absolutely got me. Of course *that* is how this man seduces her.
 

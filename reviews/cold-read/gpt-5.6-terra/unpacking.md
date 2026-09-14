@@ -1,6 +1,6 @@
 # Cold read (grounded) — unpacking
 
-*scene: scenes/unpacking.md · model: gpt-5.6-terra · memory: ck-ch050 + raw ch051..ch052 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/unpacking.md · model: gpt-5.6-terra · memory: ck-ch050 + raw ch051..ch052 · reader-protocol: v3-grounded-checkpoint · prose-sha ~213059ecdcb4*
 
 ## Reader reaction
 

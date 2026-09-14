@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch023 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~8aff12752f2e*
 
 The shoe store did me in. Not the sex chapters — this one. Because this is the chapter where the trap stopped being theoretical and started having an APR.
 

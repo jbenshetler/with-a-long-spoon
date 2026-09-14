@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · 2026-09-07*
+*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~3a52a74c7617 · 2026-09-07*
 
 REACTION — Oh, this is catnip to me. Not sexually explicit catnip this time, but the seduction is absolutely happening. Vee isn’t being seduced with touch yet; she’s being seduced with belonging, and the precision of it made my stomach hurt. “The right pen” is such a tiny compliment, but of course it lands like that when someone has spent her life trying to earn admission to brighter rooms. Randi understands exactly how to make attention feel accidental, generous, and uniquely deserved. The fact that she extends the warmth to Cassie too somehow makes it more effective—Vee doesn’t feel targeted. She feels lucky.
 

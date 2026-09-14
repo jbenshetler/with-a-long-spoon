@@ -1,6 +1,6 @@
 # Cold read (grounded) — across
 
-*scene: scenes/across.md · model: gpt-5.6-sol · memory: ck-ch050 + raw ch051..ch053 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/across.md · model: gpt-5.6-sol · memory: ck-ch050 + raw ch051..ch053 · reader-protocol: v3-grounded-checkpoint · prose-sha ~c23f4d1deeee*
 
 ## Reader reaction
 

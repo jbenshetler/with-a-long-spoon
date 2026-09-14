@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch016 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
 
-**REACTION**
+**REACTION* · prose-sha ~6b85b74f7cb8*
 
 I exhaled when Cassie put the highlighter down. I'd been dreading this chapter a little — the pattern so far has been that Vee's real reports go to *Randi*, the handler, and Cassie gets edged out of the loop — and instead the book did the thing I've been quietly begging for: it gave Cassie the full debrief. Every beat. And Cassie did her job, which is to be the clean witness without ever knowing she's one. "He left me a door." "He asked." She heard the consent mechanics even through Vee's giggly retelling. That's the canary confirming the air is breathable — and God, the book knows exactly what it's doing giving that line to Cassie and not to me directly.
 

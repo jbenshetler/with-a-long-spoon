@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch067 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch067 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~b11de8d9a5ce · 2026-09-11*
 
 REACTION — Okay. This is the chapter where the book stops letting Vee file things, and I felt it happen to me in real time. The Monday bunk scene was almost unbearable in the most accurate way — the hand flat on her own stomach, "a lid held down on a pot," and the reasoning that kills me: she won't touch herself *not because anyone forbade it — if anything the message ran the other way* — but because she knows exactly where her mind would go, and she won't hand it the room. That's desire rendered from the inside better than most books ever manage. She's rationing her own fantasy to keep it deniable, and the book knows the rationing *is* the confession. "As long as she didn't give it the thing that would make it true, it could stay only wanting." God. I've been that woman. That's not garnish, that's the real machinery.
 

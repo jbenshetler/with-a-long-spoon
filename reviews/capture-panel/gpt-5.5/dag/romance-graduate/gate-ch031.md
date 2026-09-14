@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch031 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
+*capture-dag-v2-rich · gate ch031 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~230524645ef4 · 2026-09-11*
 
 REACTION — Oh, that landed exactly where I wanted the induction to land, and I’m almost annoyed by how cleanly it got me. Not fireworks, not some overblown public scandal, just Vee in the good room making one private decision in public. That second step. God. The first step safe, the second one chosen. That is the whole book in a shinier knife.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch057 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch057 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~b9d0068c9a3c · 2026-09-12*
 
 REACTION — Oh, this is exquisitely awful. Pace finally spends the word Vee needed—*boyfriend*—and he spends it directly in front of Randi, the one person who knows how radically incomplete it is. Of course Vee experiences that as safety. Of course she interprets Randi crushing her hand as fierce happiness for her. I felt the relief with Vee and, underneath it, absolute dread. Pace and Randi are standing on either side of her participating in the same lie while she thinks her worlds have finally joined.
 

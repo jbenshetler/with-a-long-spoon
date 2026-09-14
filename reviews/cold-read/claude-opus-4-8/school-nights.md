@@ -1,6 +1,6 @@
 # Cold read (grounded) — School Nights
 
-*scene: scenes/school-nights.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch035 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/school-nights.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch035 · reader-protocol: v3-grounded-checkpoint · prose-sha ~9782a926aac2*
 
 ## Reader reaction
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch017 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch017 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~d92de80cac99 · 2026-09-10*
 
 REACTION — Okay. Okay. I put the book down after the kiss and then picked it right back up to reread it, and I've now read it three times, and I need to say some things.
 

@@ -1,6 +1,6 @@
 # Cold read (grounded) — broken-in
 
-*scene: scenes/broken-in.md · model: gpt-5.6-sol · memory: ck-ch020 + raw ch021..ch026 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/broken-in.md · model: gpt-5.6-sol · memory: ck-ch020 + raw ch021..ch026 · reader-protocol: v3-grounded-checkpoint · prose-sha ~08b46669b5c5*
 
 ## Reader reaction
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch006 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch006 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~1b9cac32f89b · 2026-09-10*
 
 REACTION — Oh, this got me. The stupid leaning tower of frozen yogurt got me. Her mother’s voice simply not arriving, and Vee discovering she can want too much of something and let it drip—that’s more intimate to me than half the sex scenes I’ve read. And then “Your tart’s holding up” instead of making her confession into a wound he gets to tend or a debt she owes him? Yes. That is exactly the right-sized kindness.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch038 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch038 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~38dcf8e44cd8 · 2026-09-10*
 
 REACTION — Oh, Randi is in love with her. That little break when Vee says Pace wants *her*, with the body attached—Randi’s bright, unfixed eyes, the breath she can’t quite smooth away—and then the beam snapping back on before Vee can understand what she saw. There she is. That is the loss of control I’ve been waiting for, tiny but real. Vee thinks she moved Randi with a beautiful story about Pace. She has no idea Randi is sitting across from her hearing the man she loves described by the woman she wants, while also hearing exactly how completely Vee is being drawn into the life they built around her. That booth is an emotional crime scene.
 

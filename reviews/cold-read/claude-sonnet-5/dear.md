@@ -1,6 +1,6 @@
 # Cold read (grounded) — Dear
 
-*scene: scenes/dear.md · model: claude-sonnet-5 · memory: raw ch001..ch009 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/dear.md · model: claude-sonnet-5 · memory: raw ch001..ch009 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint · prose-sha ~2ce78e0e23d6*
 
 ## Reader reaction
 

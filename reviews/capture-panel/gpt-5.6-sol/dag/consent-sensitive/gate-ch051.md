@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch051 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch051 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~79b4d57f1ee0 · 2026-09-11*
 
 REACTION — Oh, this made me furious in exactly the way I think it meant to.
 

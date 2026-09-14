@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch028 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch028 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~630e5e2d2504 · 2026-09-11*
 
 REACTION — Oh, Pace. “Vee,” correcting Sheri before he even knows he’s doing it, and then spilling all those tiny things he noticed about her—the chair joint, the math book, the fact that she was curious instead of intimidated. He is gone. He doesn’t hear it, but Sheri does, and I absolutely do. That got me right in the chest.
 

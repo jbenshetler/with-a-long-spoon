@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch070 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch070 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~2db97916f454 · 2026-09-12*
 
 REACTION — Oh, this is devastating. He gives her a key when what she asked him for was the truth, and she knows—some small, stubborn part of her knows—that it is not the word she wanted. But a key is solid, warm, handmade, something she can close her fingers around, so she teaches herself again to let the missing thing go. After Marsh’s lecture on gifts as debts, I cannot look at that beautiful box innocently. This is *hau* with teeth. Pace is giving Vee access to his house while withholding access to her own relationship.
 

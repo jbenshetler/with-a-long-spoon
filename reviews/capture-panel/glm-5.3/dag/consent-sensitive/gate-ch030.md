@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch030 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch030 · glm-5.3 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~5274d9c5fd04 · 2026-09-10*
 
 REACTION — Okay. The lecture is doing the thing this book does, putting the thesis on the blackboard in plain sight and daring you to notice: outliers that sit on one point and get lifted out clean, versus outliers that get into "everything that comes after." Vee IS the second kind. Every one of these warm afternoons is a dot that carries forward into the induction, into the reveal, into whatever this is building toward. And she copied the word into her notebook "without quite reading it." The book keeps handing me the receipt while Vee doesn't read hers.
 

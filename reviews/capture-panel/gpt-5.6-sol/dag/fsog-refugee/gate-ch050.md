@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~0511a4346bd0 · 2026-09-11*
 
 REACTION — Oh, Randi. I was so ready to be moved by that first hug, because she really did put Vee before everything—the clothes swept onto the floor, the long holding, the fact that Vee could breathe her in and steady. Randi loves her. I believe that completely. And then she used that love, and everything she secretly knows, to walk Vee straight back into the arrangement without either of them having to tell her the truth.
 

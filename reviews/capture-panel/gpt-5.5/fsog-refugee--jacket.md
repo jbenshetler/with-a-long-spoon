@@ -1,36 +1,36 @@
 # Capture panel — fsog-refugee · jacket
 
-*model: gpt-5.5 · persona: fsog-refugee · arm: jacket · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 6b48e402b444 · run: 2026-09-13*
+*model: gpt-5.5 · persona: fsog-refugee · arm: jacket · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 6b48e402b444 · run: 2026-09-14*
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 8
 ALMOST-STOPPED: “There you are, Randi.”
-WHY: I was absolutely caught by the care of it: the apple slices, the lights, him asking for her word, the way he checks her and then lets her have the silence afterward. That is exactly the dangerous/tender line I come here for. The almost-stop was not because I disliked it, but because the name reveal snapped me sideways; I had been oriented by the jacket toward Vee, and suddenly I had to re-place myself. But honestly, the emotional aftermath in the bathroom was so sharp and sad and alive that I kept going.
+WHY: I was absolutely in it: the care, the slowness, the checking in, the way he notices her food and her breathing and her bracing, all of that is exactly the kind of dominance I keep hoping books will understand. The heat worked for me because it was not just mechanics; it was him making room for her to meet herself. But that name slip nearly knocked me sideways, because suddenly I’m wondering if the tenderness is aimed at the wrong woman, or if I’m being asked to sit inside something more complicated than I thought. I’m continuing because I need to know whether the book knows that is dangerous.
 
 GATE 2 — Standards
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
-ALMOST-STOPPED: “He's hard to say no to, she heard, in her room, in a different key.”
-WHY: This was quieter, but it did something I respect: it let the sex matter afterward instead of evaporating once the scene ended. Randi’s sorority-house performance and Brooke’s velvet interrogation felt painfully exact. I came closest to stopping at that line because it brushed near the thing I do not want the book to excuse, but the chapter clearly knows the danger of that sentence and is not winking at me to find it cute. I want the next chapter because I want to know whether Pace’s care can survive what Randi is hiding from him.
+ALMOST-STOPPED: “He’s hard to say no to, she heard, in her room, in a different key.”
+WHY: This chapter chilled the room after all that heat, but in a good way. Randi’s house, Brooke’s smiling little power games, the way she lies by instinct before she knows she’s lying — it made her feel painfully real to me. I did tense at “hard to say no to,” because that is exactly the territory where books start flattering coercion, but the chapter seems awake to the danger instead of winking at it. I want the next chapter because now I’m invested in whether Randi is going to run from being seen or arrange someone else in front of herself.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
-ALMOST-STOPPED: “He took the body's answer for the true one. He usually did.”
-WHY: That line made me tense, because I am very wary of a man deciding he knows the truth of a woman past what she can say. But the chapter kept returning to choice in a way that mattered to me: he makes the game hers, he points and she picks, and her desire starts becoming visible to herself without him forcing a confession. The campus walk was delicious, honestly. By the time she says “Her name is Vee,” I was fully in.
+ALMOST-STOPPED: “He took the body’s answer for the true one. He usually did.”
+WHY: That line made me wary; I do not love a man deciding the body has overruled the person, and I felt my hand move toward the tab for a second. But then the chapter gives me the game in daylight, and the choosing really does become Randi’s, not just Pace’s fantasy wearing her lipstick. The campus walk is wickedly good: funny, erotic, socially precise, and that bare “Yes” when Vee appears got me completely. I’m reading on because Vee has arrived, and I want to see if she is going to be loved or used.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
-ALMOST-STOPPED: “I'm not asking, I've decided.”
-WHY: That line made me prickle, because I am sensitive to charm becoming pressure, especially with Vee so hungry to be chosen. But from inside Vee, the chapter is devastatingly effective: the right pen, the high table, the feeling of finally being allowed into the joke. Randi is both warm and clearly dangerous, and Vee’s longing is rendered from the inside instead of treated like a prop. I want the next chapter badly because now the triangle has a pulse.
+ALMOST-STOPPED: “I’m not asking, I’ve decided.”
+WHY: I did flinch there, because with Vee so hungry to be chosen, Randi can do almost anything to her just by turning the light on. But Vee’s interior is so tenderly rendered that I couldn’t leave; I know that feeling of wanting to be let into the room, the joke, the table, the life. Cassie’s “Goodbye, Vee” put a little hook of dread in me, and I like that the book lets me feel the glamour and the warning at the same time. I want the next chapter badly, because now the emotional triangle has teeth.
 
 VERDICT
 WOULD PAY: yes
 MAILING LIST: yes
-TELL A FRIEND: I’d tell you this is doing the thing I’m always looking for and almost never get: it’s extremely hot, but the real hook is how carefully it understands wanting to be seen. The man is dominant in a way that feels attentive rather than cruel, and the women are not just decorations around him; Randi and Vee both have these aching private rooms inside them. I’m nervous about the secret-game premise, because that could curdle fast, but so far the book knows exactly where the moral electricity is, and I would absolutely keep reading.
+TELL A FRIEND: I’d say: okay, this is absolutely filthy, but not in the hollow way — it’s intense and controlling and very much my dangerous little cup of tea, except the book actually seems to understand consent and shame and the terror of being seen. The man is almost too observant, which is hot and also worrying, and the woman pulling another girl into the circle is where I’m holding my breath. I don’t know yet if it’s going to break my heart or reward me, but I would buy it right now because I need to know.

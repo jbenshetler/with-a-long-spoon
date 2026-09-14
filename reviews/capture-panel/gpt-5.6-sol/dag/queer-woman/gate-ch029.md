@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~6e62cd46bbc6 · 2026-09-10*
 
 REACTION — Oh, the heels at the door nearly killed me. Vee instantly reading her accidental height as disrespect, beginning to fold herself smaller before Pace simply brings her upright—and then *“Beauty like yours made for the gods and loaned out”*. Fine. Absolutely ruin me, then.
 

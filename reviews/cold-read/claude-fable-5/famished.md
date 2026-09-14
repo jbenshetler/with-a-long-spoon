@@ -1,6 +1,6 @@
 # Cold read (grounded) — Famished
 
-*scene: scenes/famished.md · model: claude-fable-5 · memory: ck-ch010 + raw ch011..ch017 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/famished.md · model: claude-fable-5 · memory: ck-ch010 + raw ch011..ch017 · reader-protocol: v3-grounded-checkpoint · prose-sha ~38bd74ece593*
 
 ## Reader reaction
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch041 · claude-fable-5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch041 · claude-fable-5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~a3af5d5e997c · 2026-09-08*
 
 Oh, she didn't. She did NOT skip Thanksgiving.
 

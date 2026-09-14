@@ -1,6 +1,6 @@
 # Cold read (grounded) — covering
 
-*scene: scenes/covering.md · model: gpt-5.5 · memory: ck-ch050 + raw ch051..ch054 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/covering.md · model: gpt-5.5 · memory: ck-ch050 + raw ch051..ch054 · reader-protocol: v3-grounded-checkpoint · prose-sha ~b9d0068c9a3c*
 
 ## Reader reaction
 

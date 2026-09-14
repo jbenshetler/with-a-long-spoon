@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch013 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch013 · claude-fable-5 · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~25b7bedbae77 · 2026-09-08*
 
 They gave me the same shirt story THREE TIMES now. Once live in the truck (which, fine, that one earned it — Vee unbuttoning her own shirt while her mother's voice calls her a floozy and her body says *yes, that word, that one* is the best thing chapter 11 did), once to Cassie, and now once to the dining hall girls. Helen. Honey. I was there. I watched him stand in the rain. I don't need the podcast recap episode.
 

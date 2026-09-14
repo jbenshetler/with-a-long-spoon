@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch054 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-11*
+*capture-dag-v2-rich · gate ch054 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~bb2635a8b1b0 · 2026-09-11*
 
 REACTION — Well, this is the instrument-checking chapter, and I sat there the whole time watching the needle, and mostly it held steady, and one thing jumped hard enough that I had to put the book down.
 

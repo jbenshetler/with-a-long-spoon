@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch056 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch056 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~c23f4d1deeee · 2026-09-12*
 
 REACTION — Oh, this chapter knows exactly what it is doing. Opening the semester with a lecture about gifts that carry the giver inside them, that exert a pull back toward their source—and then surrounding Vee with Randi’s scarf, Randi’s shoes, Pace’s clothes, Pace’s meals, the stained coat, the cashmere blanket—is almost indecently precise. Vee thinks these objects prove who loves and serves her. I’m looking at how they quietly bind her, how much of Randi she carried to Pace’s door, and how the book has now given me the language for that without once making Vee understand it yet.
 

@@ -116,7 +116,7 @@ def recorded_prose_sha(gate_file: Path) -> str | None:
         head = gate_file.read_text(encoding="utf-8").split("\n", 1)[0]
     except OSError:
         return None
-    m = re.search(r"prose-sha ([0-9a-f]{12})", head)
+    m = re.search(r"prose-sha ~?([0-9a-f]{12})", head)
     return m.group(1) if m else None
 
 

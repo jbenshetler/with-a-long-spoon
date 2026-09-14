@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~ca7450e92130 · 2026-09-10*
 
 REACTION — God, the two of them alone in cold beds on opposite sides of that message, each carefully offering the other a partial truth and privately aching for the whole thing. Randi thinks Vee’s kitchen is warm because her parents love her out loud; Vee thinks Randi is living visibly inside a fairytale. Neither can see the other woman putting her face back together in a room where she feels nothing, or lying awake in a childhood bedroom that no longer recognizes her. That reciprocal misreading hurts beautifully.
 

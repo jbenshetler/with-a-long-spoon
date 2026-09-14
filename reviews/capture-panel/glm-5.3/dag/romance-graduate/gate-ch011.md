@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch011 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch011 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~2888278eb31d · 2026-09-10*
 
 REACTION — Okay. I sat with this one for a minute before I could even text anyone, and then I texted my friend Dana at like 11:40: "I just read a sex scene that was two buttons and a flannel and I need to lie down."
 

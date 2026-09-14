@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch057 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch057 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~b9d0068c9a3c · 2026-09-11*
 
 REACTION — God, this book keeps doing the thing where I brace for the trapdoor and it hands me a warm room instead. The whole chapter is Pace being wonderful at Vee's people, and it shouldn't be hot, but "Vee's boyfriend" — six times, flat, same two words to every measuring face — did more to me than half the explicit scenes in this volume. He spent a *word*. Out loud. Publicly. To Randi first, which I clocked immediately as Vee getting to stand next to her best friend while the best friend heard it — and the blurb-reader in me also clocked that Randi's hand crushed Vee's so hard "she could feel the bones," and the book dressed it as joy, and I don't fully believe that's all it was. Randi heard the word Vee was denied in December, spent by the man, on Vee, in front of her. There's a version of that grip that's grief. The book knows. It always knows.
 

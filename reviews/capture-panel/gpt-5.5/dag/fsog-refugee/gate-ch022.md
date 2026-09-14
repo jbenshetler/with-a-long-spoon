@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch022 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~b727880313ed · 2026-09-11*
 
 REACTION — Oh, I loved this quieter little hinge of a chapter more than I expected to. It’s not a big sex chapter after “Peekaboo,” but it’s still humming from it, like Vee has walked into the day with his hands still on her. The whole “late to everything and it didn’t bother her a whit” feeling is so right after a night that has rearranged your private weather. She is not performing happiness. She is leaking it.
 

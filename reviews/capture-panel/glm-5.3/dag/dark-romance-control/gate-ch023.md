@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch023 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch023 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~8aff12752f2e · 2026-09-10*
 
 REACTION —
 

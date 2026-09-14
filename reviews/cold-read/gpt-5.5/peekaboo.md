@@ -1,6 +1,6 @@
 # Cold read (grounded) — Peekaboo
 
-*scene: scenes/peekaboo.md · model: gpt-5.5 · memory: ck-ch020 (no window) · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/peekaboo.md · model: gpt-5.5 · memory: ck-ch020 (no window) · reader-protocol: v3-grounded-checkpoint · prose-sha ~ad35c390cb4b*
 
 ## Reader reaction
 

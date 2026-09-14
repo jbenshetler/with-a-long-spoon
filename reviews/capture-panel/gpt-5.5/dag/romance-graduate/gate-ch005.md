@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch005 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch005 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~22330aaefd51 · 2026-09-08*
 
 REACTION — Oh, this one got me in a quieter place than the bench chapter, which is almost unfair because nothing “big” happens and yet I was absolutely pinned.
 

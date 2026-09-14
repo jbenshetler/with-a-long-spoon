@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch005 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-07*
+*capture-dag-v2-rich · gate ch005 · gpt-5.6-sol · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~22330aaefd51 · 2026-09-07*
 
 REACTION — Oh, this is so much more interesting because I know Randi put him there. Without that knowledge, Pace would be almost offensively wholesome: patient math help, rolled sleeves, intense listening, “may I call you?” Sir, please threaten someone. But Randi sitting beside them silently gripping her untouched coffee while Vee experiences the encounter as fate? That’s the knife. Vee thinks she’s being chosen spontaneously when she was selected, studied, and delivered. Delicious.
 

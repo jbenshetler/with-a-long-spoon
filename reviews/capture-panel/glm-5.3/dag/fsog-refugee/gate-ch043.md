@@ -1,6 +1,6 @@
 *capture-dag-v2-rich · gate ch043 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
 
-**REACTION:**
+**REACTION:* · prose-sha ~2a7036ffc678*
 
 Oh, this chapter *hurt*, and it hurt in the exact way I trust this book to hurt. Vee picks a fight in the dark — "Is this what we are now?" — too loud, wrong size for the room, and I felt my stomach drop for her because I've been that woman, throwing the ugly thing out just to see if it comes back. And what does he do? "Where do you want to go tonight?" Level. Nothing to push against. He takes the thrown thing and sets it down carefully and hands her back a plain question. That is still the move. Forty-three chapters and the man still refuses to be baited into a fight she'd have to lose.
 

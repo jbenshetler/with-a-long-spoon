@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch021 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch021 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~0894d4db7f65 · 2026-09-11*
 
 REACTION — Oh. Oh, I loved this one, and I am annoyed about how much I loved it, because this book keeps giving me exactly the kind of delicious thing that makes my wary little consent brain sit forward with its clipboard and then, inconveniently, my body goes yes, yes, the dress, the mirror, the bare leg, go on.
 

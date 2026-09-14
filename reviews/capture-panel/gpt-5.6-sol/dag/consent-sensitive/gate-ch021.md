@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch021 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch021 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~0894d4db7f65 · 2026-09-11*
 
 REACTION — Oh, this got me. The dress got me before the sex did: the hidden labor, the new mirror, Pace so helplessly excited to show her, and especially “You made this” / “Yes,” with him refusing to brush aside what it means. He has made her something beautiful without pretending it was effortless or treating her gratitude as embarrassing. And then the experience of wearing something cut for her actual body rather than “no one in particular”—yes. That landed somewhere tender.
 

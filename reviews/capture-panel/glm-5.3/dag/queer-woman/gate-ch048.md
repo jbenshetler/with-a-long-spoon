@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch048 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch048 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~b247f2c75c88 · 2026-09-10*
 
 REACTION — Okay. So the book finally opens the man's head, and it does it in a diner over a double cheeseburger, and the first thing I learn is that he has *practice* at deciding things can keep. "He would not bring her down today. Not this week, not this time of year. Whatever he'd carried in from the truck could keep." Whatever he's carrying in from the truck. I read that line three times. Something came into this diner with him that he's choosing not to hand over, and the book buried it in the first paragraph where I'd skim past it, and I didn't skim past it, and now I'm going to be looking at the truck every chapter until I find out.
 

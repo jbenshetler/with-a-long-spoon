@@ -1,6 +1,6 @@
 # Cold read (grounded) — A Recognized Method
 
-*scene: scenes/recognized-method.md · model: gpt-5.6-sol · memory: ck-ch020 + raw ch021..ch028 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/recognized-method.md · model: gpt-5.6-sol · memory: ck-ch020 + raw ch021..ch028 · reader-protocol: v3-grounded-checkpoint · prose-sha ~b7e65eed6c29*
 
 ## Reader reaction
 

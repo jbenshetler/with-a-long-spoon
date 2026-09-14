@@ -1,6 +1,6 @@
 # Cold read (grounded) — coming-due
 
-*scene: scenes/coming-due.md · model: gpt-5.5 · memory: ck-ch050 + raw ch051..ch062 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/coming-due.md · model: gpt-5.5 · memory: ck-ch050 + raw ch051..ch062 · reader-protocol: v3-grounded-checkpoint · prose-sha ~be90efe95687*
 
 ## Reader reaction
 

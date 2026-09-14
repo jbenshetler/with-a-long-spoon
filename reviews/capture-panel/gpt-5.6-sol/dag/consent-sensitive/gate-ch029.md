@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~6e62cd46bbc6 · 2026-09-11*
 
 REACTION — Oh, this got me. The heels making her taller than him could so easily have become a tedious little masculinity test, and instead he steadies her upright and makes her height into something divine. “Beauty like yours made for the gods and loaned out” would be unbearable from almost anyone else, but from Pace, in that maddeningly factual register of his, yes. Fine. Put me in the ground.
 

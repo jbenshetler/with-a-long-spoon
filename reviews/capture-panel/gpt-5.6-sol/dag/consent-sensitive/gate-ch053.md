@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-11*
+*capture-dag-v2-rich · gate ch053 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~ec1574909bf3 · 2026-09-11*
 
 REACTION — Oh, this is cruel. This is exactly the public-life gesture I wanted from Pace, and I cannot receive it innocently because he is letting Vee imagine introducing him to Randi. “Properly.” My stomach dropped there. He knows Randi. Vee’s happiness depends on believing they have exchanged nine forgettable words, and he lets that belief stand while she builds her lovely little dinner around it.
 

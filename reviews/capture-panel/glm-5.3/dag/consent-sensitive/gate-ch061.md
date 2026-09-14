@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch061 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · 2026-09-12*
+*capture-dag-v2-rich · gate ch061 · glm-5.3 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~ad99119c213f · 2026-09-12*
 
 REACTION — Okay, this chapter got me. I came in braced — I'd been waiting for Sheri since my notes say she's "the conscience," and the way he dropped the name at the sink, to the window, not to her face — I felt Vee's whole dread train leave the station with me on it. The blonde she built out of nothing, the armory of borrowed shirt and hall-girl skirt and *those heels* — she dressed for a rival who doesn't exist, and the book knew it while she did it and let her do it anyway, which is exactly the mode I trust. "A girl in a short skirt in the dead of winter, armed sole to collar against a woman she had invented." That's the book seeing its character with the lights on.
 

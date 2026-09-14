@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch064 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch064 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~0b898fc22a01 · 2026-09-12*
 
 REACTION — I read this one with my heart in my throat and then had to go get a glass of water. Two chapters, really — the salon and then the painting — and the salon is the one that got under my skin deepest, which surprises me given everything that happens after.
 

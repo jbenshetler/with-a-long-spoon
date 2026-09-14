@@ -1,36 +1,36 @@
 # Capture panel — romance-graduate · jacket
 
-*model: gpt-5.5 · persona: romance-graduate · arm: jacket · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 4b4ba87f5608 · run: 2026-09-13*
+*model: gpt-5.5 · persona: romance-graduate · arm: jacket · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 4b4ba87f5608 · run: 2026-09-14*
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 8
 ALMOST-STOPPED: “There you are, Randi.”
-WHY: I was completely in it until that name hit wrong for half a second, because the jacket copy had primed me for Vee and Pace and Randi as the friend, and I had to reorient fast. But honestly, the chapter earned my patience before and after that: the heat is not coy, the control is intimate instead of cardboard-dom, and the aftercare/bathroom split gave me the emotional bruise I’m always hoping these books will actually press. The bench scene could have been pure equipment theater, but it wasn’t; it was about being seen, and that got me.
+WHY: I had to stop for half a second there because the name hit oddly, almost like a typo or a deliberate identity slip, and I wasn’t sure whether I’d missed something fundamental. But the chapter absolutely had me: the heat is explicit and physical, but the real charge is that awful tenderness of being seen too accurately. I’m very used to “dominant man notices everything” as a romance move; this felt sharper and more dangerous because he notices, and still misunderstands the thing that matters most. The bathroom section is what made me keep going.
 
 GATE 2 — Standards
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
-ALMOST-STOPPED: “The bed was made, because she had not slept in it.”
-WHY: This is quieter, and after that first chapter I did feel the gear shift hard. But I like the social predation of the sorority house, the smiling interrogation, the way Brooke can gut someone without standing up. Randi alone in her room worked for me because the book is clearly not just using kink as spice; it’s interested in what gets defended afterward. I want the next chapter because I now understand Randi has a whole machinery in her, and I want to watch it move toward Vee.
+ALMOST-STOPPED: “Brooke smiled.”
+WHY: For one nervous second I thought we were going into sorority-house social taxonomy for its own sake, which I have very little patience for. But no, this chapter earns its quietness: Randi walking back into the house after that night and having to perform herself back into place is exactly the kind of emotional aftermath most spicy books skip. It’s short, almost strangely short, but it works as a pressure chamber. I want the next chapter because now I’m watching the lie harden.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
 ALMOST-STOPPED: “He took the body's answer for the true one. He usually did.”
-WHY: That line gave me a little warning prickle, because this whole thing lives or dies on whether the book knows the danger inside that assumption. But then the chapter absolutely had me by the throat: hot, psychologically nasty in the best way, and socially precise. The campus “shopping” game could have been gross and flat, but Randi’s taste unfolding against herself was electric. The moment she says “Yes” to Vee before she can costume it? That is exactly the kind of charge I keep digging through piles of trope sludge to find.
+WHY: That line made me wary in a real way, because it is sexy and also chilling, and I needed the book to know both. By the end of the chapter I think it does. The campus game could have felt schematic, but the writing makes the looking itself erotic, and Randi’s “yes” landing before she can costume it is delicious. Vee appearing as the answer snapped the whole sample into a new shape for me.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 8
+NEXT: 9
 ALMOST-STOPPED: “Love you, girl.”
-WHY: I almost bounced there because that phrase is such a bright little social grenade, and part of me worried the scene would tip into obvious mean-girl bait. It didn’t. Vee’s hunger to be chosen is painfully legible, and the coffee shop scene did a lot with class, belonging, clothes, and female attention without stopping to explain itself to me. This chapter had less heat on the page, but it has the voltage of the triangle finally connecting.
+WHY: I almost recoiled because that phrase can be pure girl-world sugar, the kind of thing that means nothing and everything, and I briefly dreaded Vee being written as naïve in a cheap way. But the chapter understands exactly why it works on her. Vee’s interiority is immediate and painful: the wanting to belong, the instant room-reading, the mother’s voice, the way the actual words vanish and only the feeling remains. This is the first chapter where I felt truly afraid for someone, and that made me want the book more, not less.
 
 VERDICT
 WOULD PAY: yes
 MAILING LIST: yes
-TELL A FRIEND: I’d tell you this is the rare spicy book where the sex is actually explicit and hot, but the real filth is how well it understands wanting to be seen, chosen, handled, admitted into the room. It’s not comfort-food romance exactly; it has teeth, and I’m not totally sure I trust Pace, which is part of why I’d keep reading. But the writing is alive, the women have interiors, and the erotic charge is braided into the emotional damage instead of pasted on top. I’d buy it, and I’d be annoying about telling you to read the sample so we could argue about Pace.
+TELL A FRIEND: I’d tell you this is not doing the usual “hot manipulative setup” thing in the lazy way. It’s filthy, yes, but the dangerous part is how emotionally precise it is — everybody is consenting on the surface, everybody is starving underneath, and the book seems very aware that being given exactly what you want can be its own trap. I’m in, especially for Vee and Randi, because that coffee-shop chapter got under my skin.

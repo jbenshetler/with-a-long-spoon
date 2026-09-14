@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch026 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch026 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~427f956545f5 · 2026-09-10*
 
 REACTION — Okay. OKAY. First of all, the dance lesson is the whole book in miniature and I refuse to believe the author doesn't know it: "give me something to push back against... being jelly doesn't work." That's the con, that's the seduction, that's the entire engine — she has to push, she has to give her weight, and then the lead arrives in her feet before her brain does. "The pattern came through his body before it arrived in her feet." I actually put the book down for a second. That's the fitting chapter again, that's the bedroom, that's Randi closing the confession door — everything in this book moves by pressure through a frame she agreed to hold. I'm being led and I know it and I don't care, which is precisely the point the jacket promised me.
 

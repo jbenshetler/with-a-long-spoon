@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch067 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · 2026-09-12*
+*capture-dag-v2-rich · gate ch067 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~b11de8d9a5ce · 2026-09-12*
 
 REACTION — Oh, this one wound me tight. Nothing "happens" — a Lifesaver, a wrist graze, a neck kiss, a refused mouth-turn — and I put the book down and just sat there for a minute. That's the chapter doing exactly what it's about: Vee outrunning a thing all day, and the thing walking up beside her holding the apprehension's hand. That last line is going to live in me a while.
 

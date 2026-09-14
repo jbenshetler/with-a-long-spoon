@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~1f134f523a50 · 2026-09-10*
 
 REACTION — Oh, that stupid unstoppable smile. I know that smile. I felt ridiculously happy for her coming through the door with it, bare-faced and unprepared and so completely pleased with herself. The toenails being the proof she thought she’d hidden made me laugh. And giving him the panties, then driving home bare while her mother’s voice finally failed to ruin it for her? Yes. That feels like appetite becoming hers.
 

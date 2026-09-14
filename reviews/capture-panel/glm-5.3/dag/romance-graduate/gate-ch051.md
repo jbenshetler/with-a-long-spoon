@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch051 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
+*capture-dag-v2-rich · gate ch051 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~79b4d57f1ee0 · 2026-09-11*
 
 REACTION — Okay, I put my phone in the other room for this one, and good call, because I would have been texting "SHE DID IT" in all caps by page two. The whole first half — the mirror scene — is the thing I've been starving for without knowing it: a heroine alone with her own want, written with actual hands and actual breath, and her stopping herself *on purpose* — "it was not hers to finish" — that's character, that's the whole book in one gesture. She's been the one shown the whole novel; tonight she's the one showing. And the coat. "It closed over her like a door." "The decision was worn now, on her body." I'm keeping that line. The Kayla hallway ambush was so mean and so funny — Vee nodding along to a sock-by-sock laundry report while wearing not one stitch of it, "smiling and dying by inches" — I cackled.
 

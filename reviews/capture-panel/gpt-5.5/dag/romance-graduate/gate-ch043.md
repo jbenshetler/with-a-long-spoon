@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-11*
+*capture-dag-v2-rich · gate ch043 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~2a7036ffc678 · 2026-09-11*
 
 REACTION — Oh, this one hurt me in exactly the grown-up place. Not melodrama-hurt, not “why won’t he just text her back” hurt, but that awful adult feeling of lying next to someone who has given you so much that you feel ungrateful for needing the one thing he has not given. I know that room. I know the way a body can be satisfied past reason and the mind still sits up in the dark like, yes, gorgeous, thank you, but what am I to you?
 

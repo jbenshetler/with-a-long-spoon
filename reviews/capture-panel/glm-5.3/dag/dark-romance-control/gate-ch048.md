@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch048 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch048 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~b247f2c75c88 · 2026-09-10*
 
 REACTION — Okay, so we finally get inside Sheri, and she's exactly what the book owed me: the one person in Pace's life who isn't tangled in the web and doesn't want anything off him. "She just liked him and gave him hell." I've been waiting for this woman since the pie, and she did NOT disappoint — stealing his fries, "the one with the big tits," "get over yourself" at the philosophy-of-his-food line. She's the only character allowed to deflate him and I cackled. That cackle at the Christmas-wrapped-legs bit? Earned.
 

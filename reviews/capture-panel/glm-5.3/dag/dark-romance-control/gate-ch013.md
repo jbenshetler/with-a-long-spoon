@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch013 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch013 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~25b7bedbae77 · 2026-09-10*
 
 REACTION — Okay so on one hand: nothing happens this chapter. It's Vee and two sorority girls dissecting the flannel incident over cheese, and my shelf normally requires a knife on the page, not a fry theft. On the other hand — and I hate how well this book keeps doing this — the menace is *structural* and I can feel it the whole time. "Would you come to my house Saturday. Two o'clock. That's it. That's the whole message." The least information a human being has ever sent her. That's the pointing game again in miniature — he gives her a door and nothing behind it, and her body does the rest, heart "quick and light and stupid." The handler's craft is that the ransom note reads as romance.
 

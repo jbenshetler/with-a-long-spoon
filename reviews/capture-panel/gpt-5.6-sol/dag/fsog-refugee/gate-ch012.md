@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · 2026-09-07*
+*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~578546d8a374 · 2026-09-07*
 
 REACTION — Oh, Cassie. I could breathe again the second she appeared. Her jokes are protective without being possessive, and then when Vee tells her what happened, she actually listens—no shaming, no prying, no trying to turn Vee’s experience into evidence for whatever Cassie already thinks about Pace. Just “Vee,” softly, because she understands that something enormous and delicate happened to her friend. She remains the safest person in this book.
 

@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch068 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch068 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~be90efe95687 · 2026-09-11*
 
 REACTION — Oh, Cassie. Of course she asks the one question nobody else in this book has asked Vee without also wanting the answer to lead somewhere useful to them: *Is this what you want?* No tease, no pressure, no erotic reward for telling the truth. Just the question, and enough silence for Vee to find herself inside it.
 

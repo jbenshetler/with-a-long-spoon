@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~4ef676bfabab · 2026-09-10*
 
 REACTION — Oh, this is exactly the dangerous line the jacket promised, and the book absolutely knows where it is putting its feet. Randi’s body answering the question before she can relocate the wanting into “a gift for her boyfriend” got me hard. That distinction—the act staying the same while ownership changes—is painfully, specifically true. I believed her desire. Pace didn’t install it; it was already there, immediate and overwhelming, and the bare “Yes” when she sees Vee belongs entirely to her.
 

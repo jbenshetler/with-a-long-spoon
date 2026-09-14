@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch032 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-10*
+*capture-dag-v2-rich · gate ch032 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~13e407d9f33a · 2026-09-10*
 
 She texted first. I had to put the book down for a second over that — *she has never once been the one to reach first* — because I've been counting her refusals the way the book counts them, and there it was, the real yes of the chapter, delivered before any of the theatre: *I miss you. Can I come by early?* Naked, is what that text was, and she felt it, "the nakedness of having asked." Everything after is her keeping her dignity while her dignity loses gracefully. The bet, "we find out" — that's not evasion, that's the book being exact about her: she still cannot say yes plain, so it builds her a machine that converts the last refusal into consent without her ever having to say the word naked. She even tries to mince across the ceremony modest — no wait, that was last chapter. This chapter she minces for two beats and then takes the long step, over and over, all afternoon.
 

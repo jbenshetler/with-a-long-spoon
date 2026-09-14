@@ -1,36 +1,36 @@
 # Capture panel — queer-woman · jacket
 
-*model: gpt-5.5 · persona: queer-woman · arm: jacket · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 34f901dcab28 · run: 2026-09-13*
+*model: gpt-5.5 · persona: queer-woman · arm: jacket · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 34f901dcab28 · run: 2026-09-14*
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 7
+CAPTURE: 9
+NEXT: 8
 ALMOST-STOPPED: “There you are, Randi.”
-WHY: I was deeply in it until that line, and then I felt my whole wary little dashboard light up. The chapter is physically exact in a way I respect: the apple, the lights, the bench, the way her appetite has been portioned and then answered. But the tenderness has teeth, and the ending lets me see very clearly that he thinks he found her while she is already retreating from being found. I’m continuing because the book knows that difference, or seems to, and because Randi’s bathroom scene is much too good to walk away from.
+WHY: I was very caught, almost against my own better judgment, because the attention is so exact: food, class, body, posture, the face as armor, all of it. The scene is hot, yes, but what kept me was the turn into her bathroom, where the erotic charge becomes psychologically expensive instead of just decorative. I almost stopped at “There you are, Randi” because it lands so close to possession that my hackles came up, but then the chapter let *her* interior answer it, and that mattered. I don’t entirely trust Pace, but I trust the book knows why I might not.
 
 GATE 2 — Standards
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
-ALMOST-STOPPED: “He’s hard to say no to, she heard, in her room, in a different key.”
-WHY: That line nearly made me put my hand on the brake, because it names exactly the place where this could turn into something I don’t want to be inside. But the chapter doesn’t let her social world be a cartoon, and Brooke’s soft power is awful in a beautifully observed way. Randi lying on the bed in last night’s clothes, unable even to locate the act of crying, kept me. I want to know whether the book is going to protect her complexity or use it.
+ALMOST-STOPPED: “He’s hard to say no to,” she heard, in her room, in a different key.
+WHY: This is quieter and colder, and I liked it for that. The sorority-house interrogation is socially vicious in exactly the right polished way, and Randi’s room afterward makes the previous chapter feel less like a sealed erotic triumph and more like a crack in a system. I almost stopped at that line because it could have become the book nudging me toward “see, coercion,” in a flattening way, but it doesn’t flatten; it lets the wrongness and the wanting coexist. I want the next chapter because the book has earned my suspicion, which is different from losing me.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
-ALMOST-STOPPED: “He took the body's answer for the true one. He usually did.”
-WHY: There it is, the danger shape, stated almost too cleanly: a man deciding her body has confessed for her. I did not love that. But then the chapter gives Randi actual taste, not just compliance — the noes, the maybe, the sharpness of “She’d be a project,” the helpless bare “Yes” when Vee appears. That matters to me. I am very, very alert to the possibility that her wanting women is being staged through his permission, but I also felt the spark when she saw Vee, and I want the next chapter immediately.
+ALMOST-STOPPED: “He took the body’s answer for the true one. He usually did.”
+WHY: That line is where my shoulders went up. A man deciding the body’s answer is the true one is exactly the road where a lot of books drive straight into a ditch and call it liberation. But then Randi’s transfer of the desire into “for you” is rendered so sharply that I stayed, because the book sees the dodge and sees why she needs it. The campus game is dangerous in the precise way the jacket promised, and when Vee appears, Randi’s bare “Yes” got me. I’m reading on immediately.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 8
+NEXT: 8
 ALMOST-STOPPED: “Love you, girl.”
-WHY: That phrase is so socially poisonous and casual and plausible that I flinched for Vee. But this chapter did exactly the thing I needed it to do: it moved desire into Vee’s body before Vee has language for it, and it let Randi be dazzling and dangerous without making Vee stupid. The Chi Latte scene is beautifully cruel because the belonging is erotic before it is sexual. I believe Vee’s hunger, and now I’m in trouble.
+WHY: Vee’s chapter did the necessary thing: it made her desire belong to her before anyone touches her. That matters a lot to me. The coffee shop is almost painfully accurate about wanting entry into a world and confusing being chosen with being seen, and I felt protective of her in a way that made the whole setup sharper, not less compelling. I almost stopped at “Love you, girl” because it has that casually intimate straight-girl cruelty baked into it, but the book knows the cruelty is there, and Vee’s hunger is not treated like a joke.
 
 VERDICT
 WOULD PAY: yes
 MAILING LIST: yes
-TELL A FRIEND: I’d tell you: okay, this is absolutely the kind of book where I’m reading with one eyebrow up because the premise is a loaded gun, but the pages are good enough that I’m letting it point at me for now. It’s hot, but more than that it understands the erotic force of being chosen by someone who seems to know the room better than you do. I’m worried, specifically, about the man-as-midwife-to-queer-desire thing, but then Vee walks into the book and suddenly the wanting has its own weather. I’d buy it, but I’d also text you updates like “if this betrays me I’m going to be insufferable about it.”
+TELL A FRIEND: I’d say: okay, this is *dangerous* dangerous, not fake-dark dangerous. It’s beautifully written and filthy in a very controlled way, but the real hook is that it understands how wanting can be real even when the situation around it is compromised as hell. I don’t trust the couple at the center, especially him, and I’m braced for the book to either earn this or betray me, but Vee’s chapter convinced me it’s at least trying to make her a person and not just the pretty girl brought in to complete someone else’s fantasy. I’d keep reading with one hand on the emergency exit.

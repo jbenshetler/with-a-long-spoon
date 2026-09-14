@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch034 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · 2026-09-10*
+*capture-dag-v2-rich · gate ch034 · glm-5.3 · dark-romance-control · prompt-sha 295fddecf9c0 · prose-sha ~702b7231d0c3 · 2026-09-10*
 
 REACTION — I need to lie down and I'm the one who just READ this.
 

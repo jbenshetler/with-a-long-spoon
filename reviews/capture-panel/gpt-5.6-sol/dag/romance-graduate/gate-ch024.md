@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~0b647a05ad40 · 2026-09-10*
 
 REACTION — Oh, there it is. There is the second towel.
 

@@ -1,6 +1,6 @@
 # Cold read (grounded) — All the Time
 
-*scene: scenes/all-the-time.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch037 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/all-the-time.md · model: claude-opus-4-8 · memory: ck-ch030 + raw ch031..ch037 · reader-protocol: v3-grounded-checkpoint · prose-sha ~97724b44da95*
 
 ## Reader reaction
 

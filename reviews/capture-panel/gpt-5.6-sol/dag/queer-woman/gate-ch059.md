@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch059 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch059 · gpt-5.6-sol · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~8348ecb548e4 · 2026-09-11*
 
 REACTION — Oh. There it is.
 

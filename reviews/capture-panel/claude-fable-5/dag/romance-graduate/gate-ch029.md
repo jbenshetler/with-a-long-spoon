@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch029 · claude-fable-5 · romance-graduate · prompt-sha 310ad900a72a · 2026-09-08*
+*capture-dag-v2-rich · gate ch029 · claude-fable-5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~b7e65eed6c29 · 2026-09-08*
 
 Okay. Chapter read. Here's where I am.
 

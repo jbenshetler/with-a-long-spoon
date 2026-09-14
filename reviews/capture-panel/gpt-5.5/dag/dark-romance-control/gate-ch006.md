@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch006 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · 2026-09-08*
+*capture-dag-v2-rich · gate ch006 · gpt-5.5 · dark-romance-control · prompt-sha 38b5321f27dc · prose-sha ~1b9cac32f89b · 2026-09-08*
 
 REACTION — Oh, this one is softer than my usual poison, but I can see the hook going in.
 

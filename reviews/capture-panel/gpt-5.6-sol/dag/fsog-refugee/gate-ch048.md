@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~b247f2c75c88 · 2026-09-11*
 
 REACTION — Oh, Pace. You absolute, emotionally constipated fool. “She wants a declaration” made me want to reach across that diner table and shake him. Vee did not ask for a ceremonial flourish. She asked to know whether he loves her, after offering him every tender, frightened piece of herself she could manage without saying the forbidden words first. He is still retreating into an inventory of services rendered—weekends, attention, space for school—as though enough true bricks will somehow build the sentence without his having to place it. And then Sheri cuts straight through him: “Then not saying it matters more to you than having her.” Yes. Exactly. If he cannot deny that, he needs to sit with what it means.
 

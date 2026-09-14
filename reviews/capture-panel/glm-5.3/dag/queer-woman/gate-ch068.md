@@ -1,4 +1,4 @@
-*capture-dag-v2-rich · gate ch068 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · 2026-09-11*
+*capture-dag-v2-rich · gate ch068 · glm-5.3 · queer-woman · prompt-sha b52aadf36b4b · prose-sha ~be90efe95687 · 2026-09-11*
 
 REACTION — God, that little chapter did more to me than the party did. The Cocoa Pebbles. I actually had to put the book down for a second. Cassie — she's been the goalkeeper for two years and she just cashed in again, but differently this time: not "you can stay," not a verdict. "Is this what you want?" And the horror of it is Vee *goes looking*. She actually reaches for the answer. She's the only one in this whole triangle actively investigating her own desire now — Pace knows, Randi knows, the reader knows, and Vee is down in the dark feeling the wall for a light switch, and she finds the *edge* of the shape and steps back off. The book keeps doing this to me: giving her a breath's-width of truth and then her hand closing around a Lifesaver roll instead.
 
