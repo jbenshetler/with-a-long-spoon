@@ -1,32 +1,36 @@
 # Capture panel — romance-graduate · jacket
 
-*model: qwen3.8-max-0902 · persona: romance-graduate · arm: jacket · chapters: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 920250884e07 · run: 2026-09-07*
+*model: qwen3.8-max-0902 · persona: romance-graduate · arm: jacket · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 4b4ba87f5608 · run: 2026-09-13*
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: "The room was warm when she came in" — that first line is flat enough that if I'd hit it at 11:45 on a Tuesday with my thumb hovering over the Kindle app, I might have bounced. The second sentence saved it.
-WHY: I have never read a kink scene that was also a character study this precise. The apple sliced thin because she only eats thin slices. The flinch at "you're beautiful." The bathroom mirror scene where she puts the face back on — I actually had to put my phone down for a second. This is what I've been trying to find for two years of scrolling KU. The heat is real and the interiority is real and neither one is being used as an excuse to skip the other.
+NEXT: 9
+ALMOST-STOPPED: "He smelled her perfume, sharp citrus and something colder underneath." — the first two paragraphs are dense and slow, the kind of quiet domestic opening that usually makes me reach for my phone. I gave it maybe three more sentences before deciding.
+WHY: I have not been this held by a sex scene in at least a year. The apple slices — thin because she eats thin, cut-side up because she eats faster that way — told me more about this man than any brooding-hero internal monologue ever has. The bench scene is genuinely hot and also genuinely about something: her face as armor, the begging as the first time the armor cracked, and the bathroom mirror scene where she decides to put it back on and never come out again made me feel physically uncomfortable in the best way. This is what I've been asking for. Both things at once.
 
 GATE 2 — Standards
 DECISION: CONTINUE
 CAPTURE: 7
-ALMOST-STOPPED: None — but I'll be honest, if this chapter had been five pages longer with no heat and no forward motion, I might have gotten restless. It earns its length exactly as it is.
-WHY: The Brooke interrogation is its own kind of tense — social power rendered with the same precision the bench got physical power. And the ending, her lying on the bed in last night's clothes, the held-breath metaphor for someone who's been not-feeling so long it stopped registering as an act — that landed. I'm here because I want to know what Pace is building and whether she'll let herself stay in it.
+NEXT: 7
+ALMOST-STOPPED: "She lay down on her bed on her back, in last night's clothes, with her shoes still on." — I thought, okay, we're doing the staring-at-the-ceiling thing, and I've read this beat a hundred times. But it was short enough that it didn't lose me.
+WHY: This is a bridge chapter and I know it, and I don't resent it. The Brooke interrogation is sharp — the way Brooke stays seated, the "I kept thinking you'd said *Chase*" line, the clean release at the end. The social machinery is specific and alive. The ending with Randi lying there unable to cry, the not-crying being so practiced it doesn't even register as an act — that's the same psychological precision from chapter one. It's quiet but it's doing its inch of movement. I'm curious where this goes.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 8
-ALMOST-STOPPED: "Would you like to taste another woman?" — not because it's bad, but because my brain went *oh here comes the threesome setup, I've read this exact book* and I almost checked out on autopilot. Then Randi came involuntarily from the question alone and I was back, because that's not a beat I've seen handled that way.
-WHY: The pointing game is genuinely original. A seduction structured as a daylight game with rules, where the rules are what give her permission to want — that's smart and it's hot and it's doing real psychological work. The way she evaluates each woman is character revelation disguised as play, and when the bare "yes" comes out for Vee before she can costume it, I felt it. Also the collision scene, watched from Pace's distance, Randi deploying a decade of training in three seconds to make an accident look like an accident — that's both impressive and slightly chilling, and I like that the book lets it be both.
+NEXT: 9
+ALMOST-STOPPED: "The wind came down off the ridge in long slow passes, turning the tops of the maples so the undersides of the leaves showed pale" — the campus-walk atmospheric writing had me half-skimming for about two sentences before the first woman appeared and the game started.
+WHY: The sex scene at the top is efficient and the question-that-produces-orgasm beat is genuinely clever — her body answering before her mind can manage it. But the pointing game is the real thing. Watching Randi's taste reveal itself through her yeses and nos — not the closed ones, not the mirrors, not the ones who run the room — is characterization through action in a way I almost never see in this genre. And the final "Yes," bare and alone, before she catches herself and adds the costume back on? I felt that in my chest. I want to meet Vee. I want to know what Randi does with her.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: "Cassie says about four words a day" — Vee's little joke to smooth over Cassie's flatness. It's such a small, perfect, *young* move that I almost got sad instead of stopping, which is its own kind of almost-leaving.
-WHY: Vee is so vivid it actually hurts a little. The way she modulates her eagerness, the way she reads the Chi Latte room and finds herself as both the most and the most covered, the mother's voice arriving with "floozies" and then the longer look she doesn't examine. I'm sitting in the cruelest reader position — I know she's being steered, I can see the architecture, and I'm also completely on her side, wanting her to get what she wants. The "see you later" at the end, flat fact, the queen having decided there will be a later — I need the next chapter. I'd pay for the next chapter right now.
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: "He was a soft-spoken man with a laser pointer he over-used, and he talked about residuals for fifty minutes" — the lecture sequence is the softest stretch across all four chapters. I skimmed a paragraph of it before Vee's attention pulled me back.
+WHY: Vee is younger than Randi and the prose knows it — hungrier, less guarded, more transparent to herself. The Chi Latte scene is warm without being saccharine, and the detail about not being able to remember what Randi actually said, only the feeling of being chosen, is painfully accurate. Cassie's "Goodbye, Vee" landed like a small stone dropped in still water. I can see the shape now — Randi is drawing Vee in, Pace is behind it, and the jacket copy says it gets real for all three of them. I need to know how.
 
 VERDICT
 WOULD PAY: yes
 MAILING LIST: yes
-TELL A FRIEND: Okay so you know how we've been saying for like a year that we want the heat but we also want the characters to be actual people with actual brains? This is that book. It's kink — like, real kink, a custom spanking bench, edging, begging — but the sex scenes are doing character work the way I've only seen literary fiction do character work. The girl in chapter one has a whole psychology about her face versus her actual self that I'm still thinking about two days later. And then it opens up into this thing where her boyfriend is basically helping her seduce another girl by playing a pointing game on campus, and it's both genuinely hot AND slightly unsettling because you can see the machinery. Then chapter four drops you into the new girl's head and she's so young and hungry for connection it made me ache. It's like if Anne Rice's Beauty books had been written by someone who actually understood how women perform for each other socially. I need book two immediately.
+TELL A FRIEND: Okay so you know how we've been saying for like two years that nothing on KU actually delivers anymore? This delivers. It's got a spanking scene in chapter one that made me feel something other than "okay next position please," which I didn't think was possible at this point. The prose is actually written — like, someone sat down and *wrote* it, not generated it from a template. The characters have brains. The sex is explicit and hot and also about something psychologically real. The setup is a little twisted — two people orchestrating a seduction of a third who doesn't know — but it's played with so much tenderness that it doesn't feel gross, it feels like watching someone carefully open a locked room. Four chapters in and I can already see the shape of where it's going and I want it. It's Anne Rice's Beauty books if Anne Rice had gone to therapy and also actually liked her characters.

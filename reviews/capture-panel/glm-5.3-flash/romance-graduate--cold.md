@@ -1,32 +1,36 @@
 # Capture panel — romance-graduate · cold
 
-*model: glm-5.3-flash · persona: romance-graduate · arm: cold · chapters: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 920250884e07 · run: 2026-09-07*
+*model: glm-5.3-flash · persona: romance-graduate · arm: cold · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 4b4ba87f5608 · run: 2026-09-13*
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: Honestly, none — I was braced for the prose to start preening at me in the first three paragraphs and it never did. If I had to name a moment: "the small economy of two people who did not perform for each other" — that's the point where a lesser book would have lost me being literary, and this one just kept going.
-WHY: This is what I keep getting promised and never getting. It's explicit — actually explicit, no euphemisms, no fade — AND every sex beat is doing character work. The apple slices, the "you said it was a table" / "no, you said it" — I know these two inside forty minutes. And the ending gutted me: he thinks he had a breakthrough night, and she's in the bathroom rebuilding the face. That gap between what he knows and what she's decided is a whole novel's engine, and it's set up inside one chapter of sex. I would have paid money to keep going right now.
+NEXT: 8
+ALMOST-STOPPED: "She looked at the wood. She did not look at the wood the way she looked at her own things." — around the kitchen, I had a flicker of *where is this going, anotherslow-burn furniture appreciation chapter?* — but then she straddled him and I shut up.
+WHY: Okay. This is the thing I keep asking for and never getting. The sex is explicit and *charged* — the apple, the edging, the begging — and it's also doing actual character work, because the whole scene is about the difference between her performance-self and the woman under it, and the orgasm that's "hers" landed on me like a plot event. The bathroom mirror section at the end is the best part: she reassembles the face and he has no idea. That last page — she's decided to go back behind it and *never come out again* — that's a real hook, not a manufactured one. I'm in.
 
 GATE 2 — Standards
 DECISION: CONTINUE
-CAPTURE: 8
-ALMOST-STOPPED: The four minutes of sorority small talk — "He doesn't teach, does he" — I've sat through this exact scene in a dozen books and my thumb was itching. Then Brooke released her with "Go" and I realized the scene had teeth the whole time.
-WHY: This is a short quiet chapter and it shouldn't work on me — nothing happens, it's a hallway interrogation — but the menace in Brooke's warmth, and Randi lying with a fraction-of-a-second delay I could time, held me completely. And the closet scene, the running water she doesn't touch, lying down in her shoes — that's depression written by someone who's actually felt it, not someone describing it. This author can do silence without losing me, which almost no one can.
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: None honestly — though if I'm strict, "She walked to the closet... She closed the closet door" — a chapter where the protagonist lies on her bed in her shoes is the kind of thing that could lose me, and this one didn't, which surprises me.
+WHY: This is the "quiet chapter" done right — Brooke's four-minute interrogation is surgical, every pause doing work, and Randi lying on the bed in last night's clothes not-crying because there's "no door" to the crying is devastating. The lying about the paper while the reader knows exactly what the paper was is the good kind of dramatic irony. Also Brooke is drawn with real specificity — "a woman who would one day be some CEO's third wife" is a whole character in one line. I want to see what Randi does with the crack Pace opened.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: None. If anything the chapter got better as it went — the "Is that a yes or a no for you" / "I'm not the one being asked" exchange is exactly the negotiation I wanted.
-WHY: The scene at the dining hall when Randi stops dead and says the bare "Yes" with nothing around it — that's the payoff of chapter 1's whole setup, her running out of apparatus, and it happens in daylight, in public, through a game. I clocked immediately that Pace is engineering this and the book isn't pretending otherwise — he reads her body as the truth over her mouth, which is hot AND unsettling, and I think it's meant to be both. Vee walked in and I went oh no, oh no, we know what this is. The inside of her mouth still tasting of her in the quad kiss — this author writes heat like it's load-bearing.
+CAPTURE: 8
+NEXT: 9
+ALMOST-STOPPED: Briefly at the quad-walk opening — "This was the pleasure — the day arranged itself around them" — the landscape throat-clearing ran a touch long before the game started, and I felt myself skim. The first "What about her?" fixed it.
+WHY: The threesome game could have been sleazy setup and instead it's the smartest kind of eroticism — Pace reading that her "only in a threesome, with you" is a relocation of the wanting, and then the game proving him right in public. The redhead landing as "Yes" with nothing around it, Randi's shoulders-collision being *chef's kiss* social warfare — I was fully inside this. And the cheeseburger line ("I can't eat that") quietly keeps the food thread alive. Vee is now in play and I already like her more than Randi does, which I suspect is the point.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: The stats lecture ran a little long — fifty minutes of residuals, I was ready to skim — and then "latent variables, the factors you can't measure directly, that you have to infer from the ones you can" landed like a goddamn thesis statement and I forgave everything.
-WHY: This chapter is the trap closing and I could not look away. Vee's POV is devastating because we know exactly what Randi is — we watched her build the face in the bathroom mirror — and Vee gets the full wattage knowing it's a manufactured collision. And Cassie's "Goodbye, Vee" — flat, finished, the wrong word — gave me an actual chill. Every warm detail of the coffee shop is a lever. This is what I mean when I say I want interiority WITH my heat: chapter 1 was all body, chapter 4 is all needle, and both were written by the same person who knows those are the same skill.
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: "Cassie says about four words a day" — for a beat I worried this chapter was going to be pure vantage-point shuffling with no heat, a fourth quiet stretch. The "Goodbye, Vee" beat and the Chi Latte scene pulled it fully back.
+WHY: A whole chapter in the mark's POV and it works — Vee's "the feeling was total and the transcript was blank" is painfully accurate to how charisma actually works, and watching Randi's machine run from the *outside*, right after we watched it start to crack on the bench, is good structure. The Greek-lettered coffee sign, the mother's voice in her head, Cassie's flat "Goodbye" — this book trusts me to notice things. Now I need the collision: Vee as the third, the bench, Brooke sniffing around, Pace learning she's decided to re-wall herself. Where's the rest of it.
 
 VERDICT
-WOULD PAY: yes — $9.99, right now, no hesitation. I need to know what Pace does when he realizes the woman who came back out of the bathroom isn't the one who begged on his bench, and what happens to Vee when the game gets to her.
-MAILING LIST: yes — first time I've said that in years. If the later chapters hold this level, I'll take the emails.
-TELL A FRIEND: Okay, you have to read this sample, and I know you're going to side-eye me because I described it as "a guy edges his sorority girlfriend on furniture he built until she begs" — but it is NOT that book. It's the one where the sex scene ends with her locking the bathroom door so she can cry where he can't hear, and he sits on the bed respecting it, and you realize you're reading about two people who are going to destroy each other politely. Every explicit scene is doing character work, the girl they recruit for their game gets the full inside of being chosen and you're screaming the whole time because YOU know what Randi is. And the roommate saying "Goodbye" instead of "see you later" — I put my phone down. It's grown-up and it's filthy and it made me feel things, all three, which is basically impossible.
+WOULD PAY: yes
+MAILING LIST: yes
+TELL A FRIEND: Okay so you know how I said I was done with KU for a while? I found the thing. Chapter one is a bench — he *built* the bench — and the scene goes further than almost anything on my Kindle but it's not dirty for dirty's sake, the sex is literally the character development, and then the girl goes into the bathroom and decides to lock the real her behind the face *forever* and he has no idea, and I actually gasped. Then it does a whole chapter in the sorority house and somehow that's just as gripping, and then the boyfriend runs this "pointing game" on a walk to find her a woman and she picks a freckled redhead who gets her own POV chapter where she has no idea she's being hunted — and the writing is actually GOOD, like sentences-that-stay good, nobody's alpha-ing anybody. It's not really a romance, it's something darker and smarter, and I need someone to read it so we can talk about whether Pace has any idea what he's unlocked. Buy it. Read the first chapter tonight.

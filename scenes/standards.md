@@ -116,9 +116,9 @@ The room was hers alone. Standards rated a single — one of the few tangible pe
 
 Randi stood inside the closed door.
 
-She did not move to the bed. She did not move to the vanity. She stood with her back nearly against the door, her hand on the knob behind her, and she did not put the hand down for a moment, and then she did.
+She stood with her back nearly against the door, her hand on the knob behind her, and she did not put the hand down for a moment, and then she did.
 
-She walked to the vanity. She did not sit. She walked to the bed. She did not sit. She set the overnight bag down at the foot of it and walked back to the vanity and set the clutch in the place where the clutch lived when she was not carrying it. She opened the clutch. She took out her phone. She looked at the phone. The screen showed two notifications. She did not read them. She put the phone facedown on the vanity.
+She walked to the vanity and stood at it. She walked to the bed and did not sit down on that either. She set the overnight bag at the foot of it and went back to the vanity and put the clutch in the place where the clutch lived when she was not carrying it, and opened it, and took out her phone. Two notifications. She put the phone facedown without reading them.
 
 She walked to her closet and opened the door. It was orderly, as it had been for two years — the narrow space worked to its limit, everything earning its hanger, the palette running bone to camel to oatmeal with the one disciplined oxblood at the end. She stood in front of it. She had come to the closet to do something and could not, for a moment, locate what. Her hand was partway lifted toward the row. She brought it down. She closed the closet door.
 
@@ -128,7 +128,7 @@ She lay down on her bed on her back, in last night's clothes, with her shoes sti
 
 She looked at the ceiling.
 
-The room was cold. The house was lovely and old and did not hold its heat; the corners were always cold. She had a duvet folded at the foot of the bed. She pulled it up over her legs and her chest, with the cardigan still buttoned and the shoes still on, and she lay under the duvet and looked at the ceiling. The duvet was the duvet. It was light and synthetic and adequate. It was not — it was a duvet. She lay under it.
+The room was cold. The house was lovely and old and did not hold its heat; the corners were always cold. She had a duvet folded at the foot of the bed. She pulled it up over her legs and her chest, with the cardigan still buttoned and the shoes still on, and she lay under the duvet and looked at the ceiling. The duvet was light and synthetic and adequate. It was not — it was a duvet. She lay under it.
 
 *He's hard to say no to,* she had said, in the kitchen, when the girls had asked why she had agreed to go on a date with him. She had said it with the small laugh that meant *what could I do.* The girls had laughed back. The line had landed perfectly.
 

@@ -1,32 +1,36 @@
 # Capture panel — romance-graduate · cold
 
-*model: kimi-k3 · persona: romance-graduate · arm: cold · chapters: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 920250884e07 · run: 2026-09-07*
+*model: kimi-k3 · persona: romance-graduate · arm: cold · input: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: 4b4ba87f5608 · run: 2026-09-13*
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: "Steely Dan was going low under it all" — two paragraphs in, I clocked the literary-fiction sensibility and braced for fade-to-black.
-WHY: Okay, this is the thing. This is exactly the thing I've been saying doesn't exist. Explicit — genuinely, anatomically, unhurriedly explicit — and the sex is doing actual character work the whole time. The apple slices cut thin because she won't eat thick ones. The bottle cap pressed into her own thumbnail without her knowing. The bathroom mirror sequence where she rebuilds the mask is better interiority than most "literary" books I've DNF'd manage in a whole novel. And the ending with him quietly happy and misreading her retreat as intimacy — that's devastating and I felt it in my ribs. I'd have paid for chapter 2 before I even finished the aftercare.
+NEXT: 8
+ALMOST-STOPPED: Honestly, the apple. "he had laid the slices in the bowl with the cut sides up because he had noticed that she ate them faster when the cut sides showed" — I almost clocked it as trying-too-hard precious detail. Then I realized it was *characterization*, that he watches her like that about everything, and I was gone.
+WHY: This is the thing I keep saying doesn't exist — actual prose, actual interiority, AND a fully explicit spanking-and-edging scene that earns every second of its length. The pacing is a man's patience rendered as sentence rhythm, and the head-hopping into Randi's bathroom mirror at the end — the face that's learned to lie again — gutted me. "There you are, Randi" and then she locks the door. I've read a thousand Dom books; none of them end chapter one with the heroine quietly deciding to bury the self he just found. That's a hook with teeth.
 
 GATE 2 — Standards
 DECISION: CONTINUE
 CAPTURE: 7
-ALMOST-STOPPED: "She lay under the duvet on her back in last night's clothes... and waited for nothing in particular" — I worried the book was going to go quiet and studied after the fire of chapter one.
-WHY: No sex, and it held me anyway, which almost never happens. The sorority common-room scene is a knife fight conducted entirely in warm tones — Brooke never standing up, "cute" as a demotion, the whole thing over in four minutes. And the ending image of her fully dressed, shoes on, holding a breath that no longer feels held — I know this woman. The prose earns the slow-down because it's still feeding me information about her psychology at the same density. Slight pull-down only because I missed the heat.
+NEXT: 9
+ALMOST-STOPPED: The opening door business — "Randi did not close doors quietly. She closed them with the small unhurried click of a woman who knew the room was hers" — repeated-door imagery twice in one chapter flirted with mannerism for half a page.
+WHY: A quiet chapter, and it's doing exactly what a quiet chapter should: showing me the cost of chapter one in daylight. The sorority-house interrogation is written with a scalpel — Brooke's not-standing, Kinsey's "short-cute," every question a demotion dressed as warmth — and I understand Randi's whole architecture now without being told it. The ending, her lying on the bed fully dressed "waiting for nothing in particular," the crying she doesn't go to — that's the most devastating non-scene I've read in ages. No heat this chapter and I don't care; I NEED to know if she goes back to him.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
-CAPTURE: 10
-ALMOST-STOPPED: None.
-WHY: This is the hottest chapter and it's mostly two people walking across a quad. The "would you like to taste another woman" landing in her body before her mind can manage it — and then the scene where she points at girls and Randi's real taste emerges under the sorority grammar — that's erotic writing as actual psychology, and the charge never lets up. The engineered "collision" with Vee is breathtaking, Randi's decade of dance weaponized into three seconds. And it's all shadowed because I read chapter one — I know Randi retreats into the mask, so Vee already feels like a person standing in front of a bus. I am fully hooked.
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: "Would you like to taste another woman?" asked mid-sex — for one line I braced for this to become a male-fantasy FFM script I've read forty times. It very deliberately did not.
+WHY: The book saw my suspicion and answered it: Pace watches her body answer before her mouth can manage it, and then the whole chapter is *her* desire being given daylight — the pointing game is basically a safeword-free negotiation disguised as a walk. The girl-catalog on the quad could have been tedious but each "no" teaches me her taste, and when the redhead appears and Randi's managed self just *drops* — "Yes," with nothing around it — I actually said something out loud. And the staged shoulder-collision! She's a predator in ballet shoes and the book knows it and loves her for it. Plus the cheeseburger she "can't eat" threading the appetite motif through again. This is so smart.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 8
-ALMOST-STOPPED: The long paragraph cataloguing the Chi Latte girls by outfit — I started skimming, it read like setup indulgence.
-WHY: Switching to Vee's POV is the smartest thing the book could have done — now I'm inside the person being seduced by Randi's warmth, and I can feel how it works from the receiving end while knowing it's partly a script. Cassie's flat "Goodbye, Vee" gave me chills; someone in this book can see. Vee's unexamined want ("the feeling was total and the transcript was blank") is heartbreaking because the reader knows exactly what game she's wandered into. The chapter's quieter than three, but it's dread-building quiet, and I trust it.
+NEXT: 10
+ALMOST-STOPPED: "The professor was at the front doing the thing he did before every class, scrolling his slides forward and back" — a POV shift to a brand-new character is always where I test whether I'm willing to leave the couple, and the first page of Vee's head took a small act of trust.
+WHY: Trust repaid in full. Vee is a whole person in one chapter — the mother's voice saying "floozies," the cardigan chosen over the better shirt, the body she won't look at straight — and watching Randi's warmth work on her from the inside is almost unbearable because *I know what Randi is doing* and Vee doesn't. Or maybe doesn't. Cassie's flat "Goodbye, Vee" was a horror-movie line dropped into a coffee scene, and "latent variables — the factors you can't measure directly" as the throwaway lecture topic is the book winking at its own structure. I'm now invested in three people and one of them is walking into something she can't name. Give me chapter five immediately.
 
 VERDICT
-WOULD PAY: yes
-MAILING LIST: yes
-TELL A FRIEND: Stop whatever trope-a-day thing you're reading and get this. It's the explicit book for people who've outgrown explicit books — the sex is fully on the page, like, genuinely filthy at times, but every scene is doing character work: a woodworking PhD who notices his sorority-girl girlfriend only eats apple slices cut thin, and slowly, patiently takes her apart until she begs in a voice she's never used — and then she goes home and puts the mask back on, and that's the horror of it. Then it pivots into this queasy, gorgeous seduction plot involving a sweet curvy girl named Vee who has no idea what she's walked into. It's literate without being precious, hot without being dumb. It's the thing we keep saying doesn't exist. It exists.
+WOULD PAY: yes — at $9.99, without blinking. This is the book I describe when people ask what I actually want.
+MAILING LIST: yes — I want the rest of this book and whatever this author writes next, and I never give my email out.
+TELL A FRIEND: Okay so you know how I'm always complaining that it's either gorgeous literary novels with closed-door sex or filthy books written like a grocery list? I found one that's BOTH. It's about a sorority girl who's so perfectly managed she's basically a hologram, and this quiet math PhD guy who builds furniture and pays attention to her in a way that is genuinely destabilizing — chapter one is a spanking bench he *built for her* and the scene is explicit and long and the most emotionally precise thing I've read all year. Then it turns out she's got a thing for a girl in her stats class, or he draws it out of her, and now we're in this redhead's POV and you can see the trap or the gift or whatever it is being laid and I can't tell yet if it's going to be tender or wreck everyone. Probably both. The prose is doing actual work — there's an apple in chapter one that made me want to cry. Buy it so we can talk about it.
