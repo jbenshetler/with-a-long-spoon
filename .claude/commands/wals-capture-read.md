@@ -32,6 +32,12 @@ A bare `--personas`-less run is the three defaults. `queer-woman` is selectable
 but deliberately **not** in the default set, so a bare invocation never silently
 opens a fresh 70-chapter read on a subscription lane.
 
+**The target matrix is roster × 4** (author ruling 2026-09-14): the three
+primaries plus `queer-woman`. Queer-woman stays out of the *default* set for the
+cost reason above, but it is wanted in the completed grid — treat a missing
+queer-woman lane as a gap to be filled, not as the intended state. Never
+`dark-romance-control`.
+
 **`dark-romance-control` is retired from running** (author ruling 2026-09-12).
 She was the repel-goal instrument — her STOPs were the success condition — and
 she delivered it (opus STOPPED at ch021, sol at ch006). The lanes that didn't
@@ -47,9 +53,27 @@ subscription auth; everything in `capture_dag.OPENROUTER_MODELS` (`glm-5.3`,
 `glm-5.3-flash`, `gemini-3.8-flash`, `kimi-k3`, `qwen3.8-max-0902`,
 `deepseek-v4-pro-0813`) is **paid OpenRouter**.
 
+**Standing roster (author ruling 2026-09-14) — seven models:**
+
+| Model | Auth | Paid? |
+|---|---|---|
+| `claude-opus-4-8` | Claude subscription OAuth | no |
+| `claude-opus-5` | Claude subscription OAuth | no |
+| `gpt-5.6-sol` | codex subscription | no |
+| `gpt-5.5` | codex subscription | no |
+| `glm-5.3` | OpenRouter | **yes** |
+| `kimi-k3` | OpenRouter | **yes** |
+| `gemini-3.8-flash` | OpenRouter | **yes** |
+
+`claude-fable-5`, `deepseek-v4-pro-0813`, `glm-5.3-flash`, and
+`qwen3.8-max-0902` are **off the roster** — their gates stay on disk as history,
+but do not extend them without a specific request. Note `glm-5.3`, not
+`glm-5.3-flash`.
+
 **Token rule (standing):** never launch an OpenRouter model without specific
-author authorization. Unlike the cold-read panel there is no fixed roster — the
-author names the models per run.
+author authorization. Membership in the roster above is **not** that
+authorization — it says which models belong in a complete grid, not that any
+given run may spend. Ask per run.
 
 ## Step 1 — Resolve the target chapter number
 
