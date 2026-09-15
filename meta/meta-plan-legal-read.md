@@ -24,6 +24,12 @@ surname; character names have symbolic antecedents, not real-person referents.
 
 183 findings across 46 chapters; 3 chapters fully clean. 9 items at risk ≥ 2 (the ask-the-lawyer list below).
 
+**These tallies are the 2026-08-01 scan as-found and are not restated as items
+close.** Items [1]–[8] were all CLOSED by the 2026-09-13 verification pass
+above; the Vee `age-signal` rows were resolved 2026-09-15 by the on-page age
+anchor (next section). Read a tier number as what the scan saw, not as live
+exposure — check the item's own row before treating it as open.
+
 ### Recurring-item index
 
 - **Mercedes** — 4 chapters: `how-its-done.md`, `sorority.md`, `one-bite.md`, `all-the-time.md`
@@ -35,6 +41,32 @@ surname; character names have symbolic antecedents, not real-person referents.
 - **Sade** — 2 chapters: `gone.md`
 - **Toyota Corolla** — 2 chapters: `rock.md`, `new-ordinary.md`
 - **Chili's** — 2 chapters: `under-the-rug.md`, `the-usual.md`
+
+### On-page adult-age anchors
+
+Every `age-signal` row resolves here. Canon (`meta-arch-vivienne.md:59`, the
+Bible's Peer Configuration guard) puts all three leads at 21/21/22; what matters
+for a hostile or automated read is what a reader can find **on the page**:
+
+| Character | Age | On-page anchor |
+|---|---|---|
+| Vee | 21 | `rock.md:103` (ch025) — *"I'm twenty-one and a junior. How?"* |
+| Randi | 21 | `the-bench.md:517`, `standards.md:139` — *"twenty-one years"* |
+| Pace | 22 | `rock.md:93` — *"Twenty-two."*; `ignition-scalding.md:31` (Vol 2) |
+
+**Vee's is the load-bearing one** (added 2026-09-15; before that her age was
+canon-only, and four rows below deferred to an anchor that did not exist). It
+pairs the number with the class year in one breath, so it does not merely offset
+the dorm/undergrad framing — it **explains** it, closing the "why is an
+undergraduate 21" inference that the Bible guards in canon but no reader could
+reach. The lettered dorm/bunk/school-night rows need no individual mitigation.
+
+Secondary, indirect: `across.md:23` (ch056) — Vee orders mimosas while Kayla,
+*"who was not twenty-one,"* gets orange juice.
+
+Note the boy/man framing at `may-i-choose.md:27` (*"That's not a boy. That's a
+man."*) is **not** an age signal: Pace is 22 and Vee's exes are her own age, so
+the line asserts adult bearing within a peer cohort. Logged at risk 1, no action.
 
 ## Verification pass — 2026-09-13 (prose re-checked against the 2026-08-01 scan)
 
@@ -366,7 +398,16 @@ same prose.
 
 ## Ask-the-lawyer list (risk ≥ 2)
 
-### [3] Rock — Tutor backstory — implied sexual relationship at 15-17 (age-signal)
+### [3] Rock — Tutor backstory — implied sexual relationship at 15-17 (age-signal) — **CLOSED 2026-09-13, retained for the record**
+
+> **CLOSED — do not re-open as an ask.** Superseded by the verification pass at
+> § [1] (*Rock — the Daphne backstory, verified in full*): not a legal question,
+> no minor is depicted in a sexual or suggestive context, and the
+> platform-disclosure question was resolved by the author ruling **not to
+> disclose** (letter held as an unsent response kit). **Action: none. Do not
+> disclose; do not rewrite.** The rationale and proposed mitigation below are
+> the 2026-08-01 scan's reasoning, kept verbatim so the closure is auditable —
+> they are not a live instruction.
 
 > "She was nineteen." ... "It went on two years" ... "the one person in it who was his, who was tender with him, who was the soft middle of those two years, and she nineteen and he fifteen. The word for it started to form in her, the clean ugly grown-up word"
 
@@ -443,6 +484,11 @@ same prose.
 *Location:* Mirror scene, paragraph beginning "She made herself look as he would look" (~line 25)  
 *Rationale:* The only under-21 age number in the chapter, and it sits mid-paragraph in an explicitly sexual self-appraisal scene; a hostile reader could quote it adjacent to the sexual content, though the sentence itself is about years of concealment by a now-adult.  
 *Proposed mitigation:* Move the backstory clause out of the sexual paragraph or reword to "since high school" / "since she first grew into it" — or leave as-is with a note that the referent is concealment, not sexual activity.
+*Still open (2026-09-15)* — not covered by the 2026-09-13 verification pass. One
+input has changed in its favour: Vee's on-page age anchor now lands at
+`rock.md:103` (ch025), **27 chapters before** this scene (ch052), so a reader
+reaching "since she was fourteen" has already been told she is twenty-one. That
+supports the leave-as-is option; it does not decide it. **Author call.**
 
 ## Per-chapter findings
 
@@ -557,7 +603,7 @@ Clean — no findings.
 | Risk | Category | Item | Quote | Location | Mitigation |
 |---|---|---|---|---|---|
 | 1 | institution | Virginia Tech athletic dorm dining hall — sneaking in | Kayla's theory was that you walked in like you'd always eaten there and nobody ever asked you a thing. All semester, nobody had. | Opening paragraph | No change likely needed; could genericize to an unnamed 'nicer dining hall' if counsel prefers. |
-| 1 | age-signal | Dorm-resident narrator anticipating a sexual afternoon | He wants you for the afternoon. Bring a change of clothes. | Final section, Kayla's speech after the text | Ensure Vee's 21+ status is established on page elsewhere in the book (it is per canon); optionally seed an age anchor (senior status, 21st-birthday reference) in a nearby chapter. |
+| 1 | age-signal | Dorm-resident narrator anticipating a sexual afternoon | He wants you for the afternoon. Bring a change of clothes. | Final section, Kayla's speech after the text | **RESOLVED 2026-09-15 — anchor is now on the page.** `rock.md:103` (ch025), Vee in her own voice: *"I'm twenty-one and a junior. How?"* No further action. |
 | 0 | institution | Campus police — fire-lane stop | And a blue-and-white slides in behind us, lights going... One bark of the siren. Just to move us along. | Middle of scene, the truck/rain story | No change needed. |
 
 ### Two Towels (`two-towels.md`)
@@ -610,7 +656,7 @@ Clean — no findings.
 
 | Risk | Category | Item | Quote | Location | Mitigation |
 |---|---|---|---|---|---|
-| 1 | age-signal | Dorm-room framing around post-sex recounting | Cassie was on the bottom bunk with her knees up and a bowl balanced against them | opening paragraph | No change needed if Vee's 21+ status is established elsewhere in canon; optionally swap 'bottom bunk' for 'her bed'. |
+| 1 | age-signal | Dorm-room framing around post-sex recounting | Cassie was on the bottom bunk with her knees up and a bowl balanced against them | opening paragraph | **No change needed — condition satisfied.** Vee's 21+ status is on the page at `rock.md:103` (*"I'm twenty-one and a junior"*), not merely in canon. 'Bottom bunk' may stand. |
 | 0 | age-signal | 'girl' applied to Cassie near sexual content | the easy clatter of a girl with somewhere to be | late scene, Cassie's exit | No change needed. |
 
 ### Fed (`fed.md`)
@@ -661,8 +707,8 @@ Clean — no findings.
 
 | Risk | Category | Item | Quote | Location | Mitigation |
 |---|---|---|---|---|---|
-| 3 | age-signal | Tutor backstory — implied sexual relationship at 15-17 | "She was nineteen." ... "It went on two years" ... "the one person in it who was his, who was tender with him, who was the soft middle of those two years, and she nineteen and he fifteen. The word for it started to form in her, the clean ugly grown-up word" | final third, tutor confession passage (lines ~207-221) | Ask the lawyer specifically: is elided, non-depicted minor sexual backstory (framed as harm by the narrative voice) acceptable, or must the relationship be textually ambiguous/non-sexual or the ages shifted? |
-| 1 | age-signal | Scar-touch intimacy adjacent to the underage backstory | His hand moved up from her ankle, under the quilt, and settled flat and warm against her hip where she was bare under the robe | closing pages, immediately after the tutor confession | Likely no change needed; note the adjacency for the lawyer alongside the item above. |
+| 3 | age-signal | Tutor backstory — implied sexual relationship at 15-17 | "She was nineteen." ... "It went on two years" ... "the one person in it who was his, who was tender with him, who was the soft middle of those two years, and she nineteen and he fifteen. The word for it started to form in her, the clean ugly grown-up word" | final third, tutor confession passage (lines ~207-221) | **CLOSED 2026-09-13 — not a legal question; no minor is depicted in a sexual or suggestive context. Platform-disclosure question resolved by the ruling not to disclose. Action: none — do not disclose, do not rewrite.** See § [1] and the Rollup. (Superseded text: "Ask the lawyer specifically: is elided, non-depicted minor sexual backstory … acceptable…") |
+| 1 | age-signal | Scar-touch intimacy adjacent to the underage backstory | His hand moved up from her ankle, under the quilt, and settled flat and warm against her hip where she was bare under the robe | closing pages, immediately after the tutor confession | No change needed — the item above is CLOSED, so there is no longer a lawyer-facing adjacency to note. Retained as a craft observation only. |
 | 0 | trademark | Cool Whip — mentioned *(tier: mentioned)* | gone home in Cool Whip containers washed and saved for that purpose | Ohio food-culture passage, first third | No change needed — nominative use. |
 | 0 | trademark | Toyota Corolla — mentioned *(tier: mentioned)* | Church, Corolla, unopened saffron. | Vee's self-summary, mid-scene | No change needed — nominative use. |
 | 0 | trademark | SAT (College Board) — mentioned *(tier: mentioned)* | I took the SAT for a summer program when I was fourteen. | Pace's age/backstory exchange, mid-scene | No change needed — nominative use. |
@@ -701,7 +747,7 @@ Clean — no findings.
 
 | Risk | Category | Item | Quote | Location | Mitigation |
 |---|---|---|---|---|---|
-| 1 | age-signal | Dorm references framing the sexual participant as an undergrad resident | she'd done the knot twice in the dorm mirror before it sat right | Opening section, par. 1 (car); also "it kept a clock set for the dorm" in the Monday section | No change needed if her 21+ status is established on-page elsewhere in the book; could swap "dorm" for "apartment" if the author wants zero stackable signals. |
+| 1 | age-signal | Dorm references framing the sexual participant as an undergrad resident | she'd done the knot twice in the dorm mirror before it sat right | Opening section, par. 1 (car); also "it kept a clock set for the dorm" in the Monday section | **No change needed — condition satisfied.** Her 21+ status is on the page at `rock.md:103` (*"I'm twenty-one and a junior"*), which also explains why an undergrad is 21 and so defuses the dorm/undergrad stack rather than merely offsetting it. "Dorm" may stand. |
 | 1 | age-signal | "girl" language in the blonde's reported speech | He's so good about getting a girl home safe at the end of the night... all us girls love him | Apology retelling, mid-chapter (front hall) | No change needed — it's antagonist dialogue and deliberately insinuating; author could note it's characterized speech, not narration. |
 | 1 | age-signal | "ticklish sleep-warm body" / squealing play immediately preceding sex | she shrieked and folded and twisted away from it laughing, helpless... She squealed anyway, on reflex | Kitchen scene, just before the spank and arousal beat | No change needed — conventionally safe adult playfulness; keep the surrounding adult markers intact. |
 | 0 | institution | Virginia Tech setting — stats lab / lecture hall | at the printer in the stats lab when she should have been doing the problem set | Par. 2 (the pie label) | No change needed. |
@@ -752,7 +798,7 @@ Clean — no findings.
 
 | Risk | Category | Item | Quote | Location | Mitigation |
 |---|---|---|---|---|---|
-| 1 | age-signal | "School nights" / dorm framing near retold intimacy | "You don't come home school nights." ... "Some of us have class." | Title; Cassie's lines mid-scene and final line | No change needed — participants are adult university students; if the lawyer wants extra insulation, an early-book explicit age anchor (already canon: no one under 21) covers it. |
+| 1 | age-signal | "School nights" / dorm framing near retold intimacy | "You don't come home school nights." ... "Some of us have class." | Title; Cassie's lines mid-scene and final line | No change needed — participants are adult university students, and the explicit age anchor now exists on the page at `rock.md:103` (*"I'm twenty-one and a junior"*), not just in canon. |
 
 ### In His Hands (`in-his-hands.md`)
 

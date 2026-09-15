@@ -100,7 +100,7 @@ She turned under the quilt to look at him. "You're not."
 
 "Yes."
 
-"How?"
+"I'm twenty-one and a junior. How?"
 
 He took a drink of tea, though it must have gone nearly cold. "I took the SAT for a summer program when I was fourteen. It became a longer conversation than anyone planned. Scholarships. A great deal of adult concern arranged around the idea that the opportunity shouldn't be wasted."
 
