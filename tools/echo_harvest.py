@@ -51,6 +51,16 @@ MAX_GRAM_USES = 8            # above this it's texture/idiom, not an echo
 RARE_MAX_TOTAL = 6           # a word this rare, reused, is an echo candidate
 OPENER_LEN = 3               # words of each sentence opener compared
 
+# Within-chapter echoes (section 4). The cross-chapter pass above requires an
+# n-gram to span 2+ chapters, which makes it structurally blind to a phrase
+# over-repeated inside ONE chapter — the commoner failure mode, since a
+# reach-phrase recurs most densely while the writer is inside one scene.
+# Added 2026-09-14 after "the small breath of a laugh" ran 4× in the-bench and
+# cleared every distinctiveness filter, rejected only for living in one file.
+WITHIN_MIN_LOCAL = 3         # occurrences inside the chapter to report
+WITHIN_MIN_SCORE = 1.5       # local / (1 + uses elsewhere): distinctive AND
+                             # concentrated, so ambient texture stays out
+
 
 def load_prose(path):
     """Scene text minus the H1, the italic metadata block before the first
@@ -121,6 +131,66 @@ def ngram_echoes(corpus):
     return rows
 
 
+def gram_positions(prose):
+    """gram -> [word-offset, ...] within one chapter. N-grams never span a
+    sentence boundary; the offset is into the chapter's flattened word stream
+    so occurrences can be measured for proximity."""
+    locs = defaultdict(list)
+    base = 0
+    for sent in sentences(prose):
+        ws = words(sent)
+        for n in range(MIN_N, MAX_N + 1):
+            for i in range(len(ws) - n + 1):
+                gram = ws[i : i + n]
+                if sum(1 for w in gram if w not in COMMON) >= MIN_CONTENT:
+                    locs[" ".join(gram)].append(base + i)
+        base += len(ws)
+    return locs
+
+
+def within_echoes(corpus, min_local=WITHIN_MIN_LOCAL, min_score=WITHIN_MIN_SCORE):
+    """Phrases over-repeated INSIDE a single chapter.
+
+    Scored `local / (1 + uses elsewhere in the book)` — distinctive *and*
+    concentrated — so the book's ambient texture ("she did not look at him")
+    scores near zero and drops out, while a phrase spent four times in one
+    chapter and nowhere else scores at its raw count.
+
+    `closest` is the smallest word-gap between two occurrences: a tight gap is
+    a cluster the ear catches, a wide one may be a deliberate bookend. The
+    tool does not judge which — that ruling is the author's.
+    """
+    per_chapter = {slug: gram_positions(prose) for slug, prose in corpus.items()}
+    book = Counter()
+    for locs in per_chapter.values():
+        for gram, pos in locs.items():
+            book[gram] += len(pos)
+
+    rows = []
+    for slug, locs in per_chapter.items():
+        cand = []
+        for gram, pos in locs.items():
+            local = len(pos)
+            if local < min_local:
+                continue
+            elsewhere = book[gram] - local
+            score = local / (1 + elsewhere)
+            if score < min_score:
+                continue
+            gaps = [b - a for a, b in zip(sorted(pos), sorted(pos)[1:])]
+            cand.append((score, local, elsewhere, min(gaps), gram))
+        # longest match wins: drop a gram wholly inside a longer kept one
+        cand.sort(key=lambda r: (-len(r[4].split()), -r[0]))
+        kept = []
+        for r in cand:
+            if not any(f" {r[4]} " in f" {k[4]} " for k in kept):
+                kept.append(r)
+        for score, local, elsewhere, gap, gram in kept:
+            rows.append((slug, gram, local, elsewhere, gap, score))
+    rows.sort(key=lambda r: (-r[5], -r[2], r[0]))
+    return rows
+
+
 def rare_words(corpus):
     """Words rare book-wide (2..RARE_MAX_TOTAL uses) that appear in 2+
     chapters — the striking-word-reused-innocently case."""
@@ -178,10 +248,34 @@ def main():
     )
     ap.add_argument("--min-files", type=int, default=2,
                     help="minimum chapters an n-gram must span (default 2)")
+    ap.add_argument("--scene", metavar="SLUG",
+                    help="print the within-chapter echo table for one scene to "
+                         "stdout and exit; writes no inventory file")
+    ap.add_argument("--within-min-local", type=int, default=WITHIN_MIN_LOCAL,
+                    help=f"occurrences inside a chapter to report "
+                         f"(default {WITHIN_MIN_LOCAL})")
+    ap.add_argument("--within-min-score", type=float, default=WITHIN_MIN_SCORE,
+                    help=f"local/(1+elsewhere) floor (default {WITHIN_MIN_SCORE})")
     args = ap.parse_args()
 
     corpus = {p.stem: load_prose(p) for p in sorted(SCENES.glob("*.md"))}
     n_words = sum(len(t.split()) for t in corpus.values())
+
+    within = within_echoes(corpus, args.within_min_local, args.within_min_score)
+
+    if args.scene:
+        if args.scene not in corpus:
+            ap.error(f"no scene {args.scene!r} in {SCENES}")
+        rows = [r for r in within if r[0] == args.scene]
+        print(f"{args.scene} — within-chapter echo candidates "
+              f"(≥{args.within_min_local} uses, score ≥"
+              f"{args.within_min_score})")
+        print(f"{'score':>5} {'here':>4} {'else':>4} {'closest':>7}  phrase")
+        for _, gram, local, elsewhere, gap, score in rows:
+            print(f"{score:5.1f} {local:4} {elsewhere:4} {gap:6}w  {gram}")
+        print(f"\n{len(rows)} candidates. Flags, never findings — a repeated "
+              f"phrase is often the right one.")
+        return
 
     grams = [r for r in ngram_echoes(corpus) if r[2] >= args.min_files]
     rare = rare_words(corpus)
@@ -235,11 +329,29 @@ def main():
         L.append(f"| {op} | {c} | {len(fs)} |")
     L.append("")
 
+    L.append(f"## 4. Within-chapter echoes ({len(within)} candidates)")
+    L.append("")
+    L.append(f"Phrases repeated ≥{args.within_min_local}× inside a single "
+             f"chapter, scored `local / (1 + uses elsewhere)` ≥"
+             f"{args.within_min_score} so ambient texture drops out and "
+             "distinctive-and-concentrated rises. `Closest` is the smallest "
+             "word-gap between two uses — a tight gap is a cluster the ear "
+             "catches; a wide one may be a deliberate bookend. Sections 1–3 "
+             "require an echo to cross a chapter boundary and are blind to "
+             "this case.")
+    L.append("")
+    L.append("| Chapter | Phrase | Here | Elsewhere | Closest | Score |")
+    L.append("|---|---|---|---|---|---|")
+    for slug, gram, local, elsewhere, gap, score in within:
+        L.append(f"| {slug} | {gram} | {local} | {elsewhere} | {gap}w "
+                 f"| {score:.1f} |")
+    L.append("")
+
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text("\n".join(L) + "\n", encoding="utf-8")
     print(f"wrote {out}: {len(grams)} n-gram, {len(rare)} rare-word, "
-          f"{len(opens)} opener candidates")
+          f"{len(opens)} opener, {len(within)} within-chapter candidates")
 
 
 if __name__ == "__main__":

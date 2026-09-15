@@ -5289,6 +5289,13 @@ text = "He kept his hand there, working her steadily, until he felt the first lo
 note = "kept per author"
 
 [[ok]]
+fp   = "0a861e187f21"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "She tried, briefly, by lifting her chin and arranging her mouth into the slight knowing half-smile she used in photographs, and the face in the mirror produced the smile, and the smile sat on top of the face that had begged, and she saw the disjunction and her eyes filled briefly and she heard herself make the sound she had made when he had said *there you are.*"
+note = "Randi's POV; she saw / she heard herself - the filtering IS the dissociation the mirror passage is about"
+
+[[ok]]
 fp   = "2fb9a6361f21"
 rule = "filter-verbs"
 file = "scenes/the-bench.md"
@@ -5595,6 +5602,13 @@ rule = "there-she-is"
 file = "scenes/the-bench.md"
 text = "\"There you are,\" he said, very softly."
 note = "Pace's reserved beholding-register; earned apex"
+
+[[ok]]
+fp   = "21a4af579c70"
+rule = "there-she-is"
+file = "scenes/the-bench.md"
+text = "She tried, briefly, by lifting her chin and arranging her mouth into the slight knowing half-smile she used in photographs, and the face in the mirror produced the smile, and the smile sat on top of the face that had begged, and she saw the disjunction and her eyes filled briefly and she heard herself make the sound she had made when he had said *there you are.*"
+note = "Pace's reserved beholding-register; earned apex (+name)"
 
 [[ok]]
 fp   = "23ba9cbf8973"

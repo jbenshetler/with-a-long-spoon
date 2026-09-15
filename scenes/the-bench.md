@@ -78,7 +78,7 @@ He looked up at her. He brushed a strand of black hair back behind her ear with 
 
 "Come with me," he said.
 
-She got off his lap carefully because the weight had settled and she had to find her legs again, and he steadied her at the hip while she stood, and she made the small breath of a laugh that meant something he did not have a name for. He stood up after her. He walked ahead of her out of the kitchen, across the foyer, and down the short hall that led past the bathroom and his office and around the corner to the bedroom door.
+She got off his lap carefully because the weight had settled and she had to find her legs again, and he steadied her at the hip while she found them. He stood up after her. He walked ahead of her out of the kitchen, across the foyer, and down the short hall that led past the bathroom and his office and around the corner to the bedroom door.
 
 The door was closed.
 
@@ -262,7 +262,7 @@ She made the small breath of a laugh — the sound of it caught and then release
 
 Her eyes closed. He stayed where he was. Twenty, thirty seconds. Longer than a spanking transition was supposed to be. Her breathing slowed. The tension eased from her shoulders. Her face turned slightly into his hand, the weight of her head settling into his palm.
 
-He bent and kissed her on the forehead — the warm damp of her temple against his lips. She made the small breath-laugh again, the sound of it broken and unguarded and closer to the surface than it had been.
+He bent and kissed her on the forehead — the warm damp of her temple against his lips. Her breath came apart against his mouth, unguarded, closer to the surface than it had been.
 
 He straightened. He did not go behind her yet. He moved to the far end of the bench, where her feet were in the leg supports, and crouched there. The heels were still on — strapped at the ankle, the buckle warm from her skin. He found the first buckle and worked it free and slid the heel from her foot, the soft sound of leather leaving skin, and set it on the floor beside the bench.
 
@@ -512,7 +512,7 @@ She fixed a piece of hair.
 
 She did not cry. She did not have any more crying available. The crying had gone somewhere where it was not currently accessible. There was, in the place where her crying had been, something that was not crying, that was not anything she had a name for, that was something like a low hum or a faint unbearable interior pressure that she could feel along the inside of her ribs.
 
-She looked at her eyes. The eyes had been on the bench. The eyes had been begging. The eyes were the same eyes they had been when she walked into the house an hour and a half ago. The eyes did not look different in the mirror, exactly, but she knew they had been somewhere they had not been before, and she could not — she could feel that she could not — get them back to where they had been. The eyes had crossed something. She could not uncross it. She tried, briefly, by lifting her chin and arranging her mouth into the slight knowing half-smile she used in photographs, and the face in the mirror produced the smile, and the smile sat on top of the face that had begged, and she saw the disjunction and her eyes filled briefly and she made the small breath of a laugh which was the same breath of a laugh she had made when he had said *there you are.*
+She looked at her eyes. The eyes had been on the bench. The eyes had been begging. The eyes were the same eyes they had been when she walked into the house an hour and a half ago. The eyes did not look different in the mirror, exactly, but she knew they had been somewhere they had not been before, and she could not — she could feel that she could not — get them back to where they had been. The eyes had crossed something. She could not uncross it. She tried, briefly, by lifting her chin and arranging her mouth into the slight knowing half-smile she used in photographs, and the face in the mirror produced the smile, and the smile sat on top of the face that had begged, and she saw the disjunction and her eyes filled briefly and she heard herself make the sound she had made when he had said *there you are.*
 
 Under it, inseparable from it, was the other fact: she had been more alive on that bench than she could remember being anywhere, ever — the whole length of her awake at once, the aliveness ecstatic and terrifying in the same instant — and it had not come from her, and it had not come from anything he had done to her body. It had come from being seen. He had looked past the face — past the blue, past the surprise, past everything she had spent twenty-one years making sure was all there was to find — and found her, and what happened after that had happened to *her*.
 

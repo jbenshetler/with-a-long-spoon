@@ -4,6 +4,46 @@ States: pending → edited → reviewed. Reports at `audits/line-edit/<slug>.md`
 Echo rulings ledger: `audits/line-edit/echo-rulings.md` (Stage 0 gate — rule
 the echo shortlist with the author before per-chapter editing starts).
 
+## OUTSTANDING — within-chapter echo pass (opened 2026-09-14, not started)
+
+**Every chapter below reads `reviewed`, but only on one axis.** Stage 0's
+harvester required an n-gram to span 2+ chapters (`len(fs) >= 2`), so the
+completed line edit measured **cross-chapter** repetition only and is
+structurally blind to a phrase over-repeated *inside* a single chapter — which
+is the commoner failure, since a reach-phrase recurs most densely while the
+writer is inside one scene.
+
+Found the hard way: "the small breath of a laugh" ran 4× in `the-bench`,
+cleared every distinctiveness filter, and was rejected solely for living in one
+file. Two `glm-5.3` capture reads flagged it by counting; no tool did. Section 4
+of `echo-inventory.md` and `echo_harvest.py --scene <slug>` now cover this axis
+(added same day, with the widened `a-small` linter rule).
+
+**Scope at open: 49 candidates across 18 of 74 drafted chapters.** 25 have
+their closest pair inside 300 words — cluster-shaped, the kind an ear catches.
+Heavily concentrated:
+
+| Chapter | Candidates |
+|---|---|
+| vee-on-the-bench | 14 |
+| the-bench | 11 |
+| a-round | 4 |
+| among-friends | 3 |
+| leave-no-trace, lesson, substitution | 2 each |
+| 11 others | 1 each |
+
+Half of it sits in the two long bench set-pieces — longest chapters, most
+sustained single-scene physical writing. `vee-on-the-bench` is Volume Two and
+outside the table below. A pass on those two would clear ~51% of the inventory.
+
+Discipline when it runs (`CLAUDE.md`, Style checking): flags, never findings.
+The book runs on designed repetition, and **cut instances rather than paraphrase
+them** — the fix for a phrase used five times is usually to use it twice, not to
+find five different ways to say it.
+
+`the-bench` had its own within-chapter pass on 2026-09-14 (5 → 2 uses of the
+laugh phrase); its remaining 11 candidates are unruled.
+
 | # | Chapter | Slug | State |
 |---|---|---|---|
 | 1 | The Bench | the-bench | reviewed |

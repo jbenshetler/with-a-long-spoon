@@ -88,9 +88,11 @@ why      = "'weather' as metaphor (sensation/mood as 'weather') is a tic. Allowe
 [[rule]]
 id       = "a-small"
 kind     = "regex"
-pattern  = '(?i)\ba\s+small\s+\w+'
-severity = "warn"
-why      = "'a small X' is the tic — substantially reduce. Cut, or choose a more specific image."
+pattern  = '(?i)\b(?:a|the)\s+small\s+\w+'
+severity = "info"
+why      = """'a small X' / 'the small X' is the tic — a default-reach diminutive, substantially overused. WIDENED 2026-09-14 (author ruling, the-bench breath-of-a-laugh pass): the rule was indefinite-article-only and so policed the RARER form — 'a small' 71 uses book-wide against 'the small' 182, and in the-bench 1 against 44. Every instance of the over-repeated 'the small breath of a laugh' was invisible to it. The id stays 'a-small' because 43 acks are keyed to it.
+
+SEVERITY LOWERED to info in the same ruling. At ~253 book-wide hits this is a density rule, not a defect rule — read it the way 'warm' is read: work a scene at a time, judge the paragraph density, keep the load-bearing, vary or cut the reflex ones. Many hits are the right word; 'the small sound of her breathing', 'the small click of the lock' are precise, not lazy. NEVER swap in a worse phrasing to clear a hit — see CLAUDE.md, Style checking."""
 
 [[rule]]
 id       = "file-verb"
