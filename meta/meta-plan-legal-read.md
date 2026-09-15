@@ -85,7 +85,7 @@ the lawyer — it is BookFunnel's under-18 termination clause
 | [4] | All the Time — Dr. Marsh | **Defamation CLOSED; reclassified to identification hygiene.** `all-the-time.md:125` now reads *"The Dr. Marsh one — even her eight a.m. fills up."* Praise is not actionable even if false, so the defamation theory is dead. But the live question was never defamation — it is whether the name slot is occupied, and that matters *more* in Vol 2, where Marsh is a recurring character with a physical portrait (`covering.md:15`) attached to a real name, university and department inside explicit fiction. Exposure is a complaint from a real person objecting to the association, not a tort. **Full provenance and clearance prepared for counsel: § [4] below** — independent creation (Mary Leakey, deceased; the Leakey surname considered and rejected for collision; the documented water-name motif), git contemporaneity, all 14 mentions reviewed as uniformly favourable, and the archive leg now complete and clear across three departments, 2015–2026. **Position: no rename.** **Vol 1 exposure is this one line.** |
 | [5] | The Outlier — the PPP-outlier scene | **CLOSED on the mitigation.** A real collision *was* found — Virginia lists an Active `Miranda Holdings, LLC`, and the SBA PPP FOIA data contains `MIRANDA HOLDINGS INC` (North Boston NY, $885,600). Canon renamed to `Miranda Interests, LLC` (cleared across three indexes), **and then the prose stopped naming the company, the state, and the county entirely** — the reveal renders only `MIRANDA`, tag `MIRA`. **No named entity remains, so there is nothing to clear.** An earlier ruling retaining this for counsel as "the riskiest item in the book" was made while the entity was named and is superseded. Method and artifacts: `meta-legal-entity-clearance-miranda.md`. |
 | [6-8] | Under the Rug / The Usual — Chili's | **CLOSED — reasoned decision to keep (author ruling 2026-09-13). See § [6-8] below.** No trademark theory: infringement requires use *as a mark*, and referential use in prose is not that (*Jack Daniel's v. VIP Products*, 2023, confirms the dividing line is source-identifying use). #Cockygate is distinguishable — a **title** is a source identifier, prose is not. Empirically: Brinker is not a trademark litigant (0 trademark actions as plaintiff in 134 sampled dockets), and the Amazon takedown vector is **metadata**, where "Chili's" does not appear. Offsetting real craft value: the word characterizes Pace, carries Vee's appetite, and names an event across volumes. **Two occurrences in Vol 1, one planned in Vol 2.** |
-| [9] | Nothing Underneath — "since she was fourteen" | **CLOSED — mis-stated at generation.** The clause is about *hiding her body*, not masturbation: `nothing-underneath.md:25`, *"She had spent since she was fourteen **hiding it under long coats and loose things**, keeping it folded small."* It sits in the same paragraph as mirror self-touch, so the exposure is adjacency, not syntax. Optional cleanup: move the clause clear of the paragraph. |
+| [9] | Nothing Underneath — "since she was fourteen" | **CLOSED — mis-stated at generation.** The clause is about *hiding her body*, not masturbation: `nothing-underneath.md:25`, *"She had spent since she was fourteen **hiding it under long coats and loose things**, keeping it folded small."* It sits in the same paragraph as mirror self-touch, so the exposure is adjacency, not syntax. Optional cleanup: move the clause clear of the paragraph. **Cleanup applied 2026-09-15** — the concealment clause now precedes the naming rather than following it, and *"A stripper's body, if she let the word be said"* stands as its own sentence. Order is now hiding → naming → reversing. Nothing reworded; the motif payoff is untouched. |
 
 **New, not in the original scan (Volume 2 — not in the beta package):**
 `vee-on-the-bench.md:61` attaches a bodily arousal response to age fourteen —
@@ -484,11 +484,33 @@ same prose.
 *Location:* Mirror scene, paragraph beginning "She made herself look as he would look" (~line 25)  
 *Rationale:* The only under-21 age number in the chapter, and it sits mid-paragraph in an explicitly sexual self-appraisal scene; a hostile reader could quote it adjacent to the sexual content, though the sentence itself is about years of concealment by a now-adult.  
 *Proposed mitigation:* Move the backstory clause out of the sexual paragraph or reword to "since high school" / "since she first grew into it" — or leave as-is with a note that the referent is concealment, not sexual activity.
-*Still open (2026-09-15)* — not covered by the 2026-09-13 verification pass. One
-input has changed in its favour: Vee's on-page age anchor now lands at
-`rock.md:103` (ch025), **27 chapters before** this scene (ch052), so a reader
-reaching "since she was fourteen" has already been told she is twenty-one. That
-supports the leave-as-is option; it does not decide it. **Author call.**
+**CLOSED 2026-09-15 — cleanup applied (author ruling).** Closed once already as
+item [9] of the 2026-09-13 verification pass (*mis-stated at generation*: the
+clause is about hiding her body, not masturbation; the exposure is **adjacency,
+not syntax**). Today took the optional cleanup that row proposed.
+
+*What changed:* the concealment clause moved **ahead** of the naming, and *"A
+stripper's body, if she let the word be said"* became its own sentence. Nothing
+was reworded. The 23-word span from *stripper's* to *fourteen* — consecutive
+sentences, the actual excerptable unit — is gone, and a reader moving forward
+from *fourteen* now reaches *hiding it under long coats* before any sexual term.
+
+*Why neither proposed reword was taken:* "since high school" starts at ~14–15
+anyway, so it trades precision for nothing; "since she first grew into it" is
+euphemism inside a paragraph whose subject is refusing euphemism. And the
+surrounding sentence is untouchable — *stripper's body* is the payoff of a
+three-beat motif (`a-round.md:26`, her mother's word; `old-acquaintances.md:39`,
+the self-comparison; here, ch052, Volume One's close, where she takes the word
+away from her mother). The reorder also reads better on its own merits: hiding →
+naming → reversing, with the reclamation flush against the reversal it causes.
+
+*Supporting:* Vee's on-page age anchor now lands at `rock.md:103` (ch025), **27
+chapters before** this scene.
+
+**Live successor — Volume 2.** `vee-on-the-bench.md:61` attaches the same "since
+she was fourteen" construction to a **bodily arousal response**, which is the
+sharp version of what [9] only ever was by adjacency. Not cleaned. See the note
+under the verification-pass table; clean before Volume 2 goes to any platform.
 
 ## Per-chapter findings
 
@@ -911,7 +933,7 @@ Clean — no findings.
 
 | Risk | Category | Item | Quote | Location | Mitigation |
 |---|---|---|---|---|---|
-| 2 | age-signal | "since she was fourteen" inside the mirror masturbation scene | She had spent since she was fourteen hiding it under long coats and loose things, keeping it folded small. | Mirror scene, paragraph beginning "She made herself look as he would look" (~line 25) | Move the backstory clause out of the sexual paragraph or reword to "since high school" / "since she first grew into it" — or leave as-is with a note that the referent is concealment, not sexual activity. |
+| 2 | age-signal | "since she was fourteen" inside the mirror masturbation scene | She had spent since she was fourteen hiding it under long coats and loose things, keeping it folded small. | Mirror scene, paragraph beginning "She made herself look as he would look" (~line 25) | **CLOSED 2026-09-15 — cleanup applied.** Clause moved ahead of the naming; *"A stripper's body, if she let the word be said"* now stands alone. Nothing reworded (both proposed rewords rejected — see § [2] below and item [9] in the verification table). Referent was always concealment, not sexual activity. |
 | 1 | age-signal | "girl" cluster in dressing/mirror sequence | the girl in the glass looked braver than Vee felt ... a girl puts her shoes on last ... gorgeous girl | Dressing and shoes paragraphs (~lines 9-21) | No change strictly needed; optionally swap one or two "girl"s to "woman" to thin the cluster nearest the explicit paragraphs. |
 | 0 | institution | Police cruiser on county road during in-car masturbation | Which was when the light came up behind her, blue and red, wheeling across the inside of the car, and one hard whoop of the siren. | Driving sequence (~lines 45-51) | No change needed; keep the agency unnamed. |
 | 0 | institution | Generic Virginia Tech campus scenery | Out past the last of the campus lights and onto the county road | Drive out of town (~line 43) | No change needed. |
