@@ -428,3 +428,50 @@ A trip, and it completes — gonzo, compressed, the involuntary Randi-flash at t
 ## 43. Volume Two length (POLICY — author 2026-09-04)
 
 No pre-draft limits. Post-draft, run the cold-read panel with fatigue explicitly in the triage lens; cut only what the instrument flags. A natural split-at-break option exists if ever needed — a decision the finished draft makes.
+
+# Volume Two pre-publication — line-edit and legal follow-ups (2026-09-15)
+
+Volume Two is **still drafting and has had no edit pass.** Nothing below is
+urgent; it is parked here so it survives to that pass instead of being
+rediscovered. Neither item is in the beta package.
+
+## 44. `vee-on-the-bench.md:61` — "since she was fourteen" on a bodily arousal response (LEGAL/AGE-SIGNAL — clean before any platform)
+
+> her body had already laid out its evidence the way it always did, the way it
+> had since she was fourteen
+
+Flagged in `meta-plan-legal-read.md` under the 2026-09-13 verification pass as
+**"sharper than [9], which the scan did flag,"** with the instruction to clean
+it before Volume Two goes to any platform.
+
+Why it is genuinely different from the Volume One case it resembles. Item [9]
+(`nothing-underneath.md:25`) was only ever **adjacency** — a concealment clause
+that happened to share a paragraph with sexual content, referent never in doubt,
+resolved 2026-09-15 by reordering with nothing reworded. This one attaches the
+**arousal response itself** to fourteen, inside the sentence, as a standing
+property of her body since that age. Reordering will not fix it; the referent is
+the problem, not the neighbourhood.
+
+The Volume One fix is *not* the template. What worked there — move, never reword
+— worked because the clause said something innocuous about a fourteen-year-old
+(she wore long coats). Here the sentence's own content is the exposure, so the
+options are to change the age, cut the dating clause, or re-anchor the "always
+did" to something other than a number. **Author call at the edit pass.**
+
+Note Vee's on-page adult-age anchor (`rock.md:103`, Vol 1 ch025) does not reach
+this — it establishes she is twenty-one *now*, which was never the question.
+
+## 45. `vee-on-the-bench.md` — largest within-chapter echo block in the book (LINE EDIT)
+
+14 candidates, the top entry in the new Section 4 of
+`audits/line-edit/echo-inventory.md` and more than any other chapter (the-bench
+has 11; nothing else exceeds 4). Longest chapter, most sustained single-scene
+physical writing — the conditions that produce reach-phrase repetition.
+
+Run `tools/echo_harvest.py --scene vee-on-the-bench` at the edit pass. Discipline
+per `CLAUDE.md` (Style checking): flags never findings, and **cut instances
+rather than paraphrase them.** Context: `audits/line-edit/STATUS.md`, the
+outstanding within-chapter pass — the completed Volume One line edit measured
+cross-chapter repetition only and is blind to this axis.
+
+Both items land in the same chapter, so they want the same sitting.
