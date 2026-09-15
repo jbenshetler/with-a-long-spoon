@@ -419,7 +419,7 @@ Against a Vee who has named the want (bench act three), Randi's sell gets easier
 
 ## 41. Working titles for the three new chronology entries (TITLE ENGINE)
 
-The break set-piece, the Bricklayers game, the Meg beat — provisional headings stand in the chronology; run the title engine at drafting. The bench act-three exact wording (Pace's reception line) is drafting weather.
+The Bricklayers game, the Meg beat — provisional headings stand in the chronology; run the title engine at drafting. The bench act-three exact wording (Pace's reception line) is drafting weather.
 
 ## 42. {{Gesso}} — "on return" ✓ RESOLVED (author 2026-09-05)
 

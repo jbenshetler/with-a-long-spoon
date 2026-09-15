@@ -18,15 +18,15 @@ A handful of short chapters dramatizing the Telling operating on Vee night after
 
 *The Pace-slip is a variation, not its own chapter:* fold into beat 2 or 3 — mid-detour his face surfaces, she has crossed into the forbidden wanting under a permitted label, owes the telling, decides she didn't quite notice. Guilt as not-looking, not crisis.
 
-**The one narrated act (the dark slip) — lives inside the break set-piece** (`meta-plan-chronology.md`). The single time the act is rendered: the permitted lunch-material has *become Randi herself* — here literally her photo — narrated once, body-first. And there is no rule against that. No toll, nothing owed, nothing to confess; the *fine-ness* is what she can't look at. Pace fenced off himself and left the dangerous door open because in his model Randi is the confidante, not a sexual object — his blind spot as an unwritten clause. **The rule's silence about Randi is the tell.** The separation strips the lunch-alibi — no table to file the charge under, the object finally naked. Rendering it exactly once, after several withheld, gives it all the weight.
+**The one narrated act (the dark slip) — lives inside {{Postcard}}** (`meta-plan-chronology.md`). The single time the act is rendered: the permitted lunch-material has *become Randi herself* — here literally her photo — narrated once, body-first. And there is no rule against that. No toll, nothing owed, nothing to confess; the *fine-ness* is what she can't look at. Pace fenced off himself and left the dangerous door open because in his model Randi is the confidante, not a sexual object — his blind spot as an unwritten clause. **The rule's silence about Randi is the tell.** The separation strips the lunch-alibi — no table to file the charge under, the object finally naked. Rendering it exactly once, after several withheld, gives it all the weight.
 
 ## Form
 
-**Quicker chapters, shrinking as the detour quickens.** Beat 1 is the full fight (longest); beat 3 is a few lines (she's already gone) — the form enacts the conditioning, less struggle / fewer words. The one narrated act breaks the shrinking trend (longer again), which marks it — the break set-piece, longer by design, satisfies this.
+**Quicker chapters, shrinking as the detour quickens.** Beat 1 is the full fight (longest); beat 3 is a few lines (she's already gone) — the form enacts the conditioning, less struggle / fewer words. The one narrated act breaks the shrinking trend (longer again), which marks it — {{Postcard}}, longer by design, satisfies this.
 
 ## Placement
 
-Beats 1–3 run compact in the {{Grace}}→Spring Break window (the Telling installs at {{Grace}}; never retroactive), interleaved between the staged escalations so the rising solo line runs between the peaks — the escalation is not only in the big scenes but in the nights between them. The one narrated act lives inside the break set-piece (`meta-plan-chronology.md`). The valve opening late is what makes March combustible: the rule just installed, the ache newly banked, then the separation and the photo.
+Beats 1–3 run compact in the {{Grace}}→Spring Break window (the Telling installs at {{Grace}}; never retroactive), interleaved between the staged escalations so the rising solo line runs between the peaks — the escalation is not only in the big scenes but in the nights between them. The one narrated act lives inside {{Postcard}} (`meta-plan-chronology.md`). The valve opening late is what makes March combustible: the rule just installed, the ache newly banked, then the separation and the photo.
 
 ## Craft guards
 

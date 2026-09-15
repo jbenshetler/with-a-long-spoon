@@ -146,7 +146,7 @@ The long R3 stays engaging through these woven devices, each a *kind*, rotated s
 - **(d) Vee-to-Randi stays unsaid forever** — the saying is to Pace only; the Randi-facing silence holds to the kiss (operational muteness).
 - **(e)** The normalization lie is refuted by her **body**, never by narration.
 
-**The licensing chain (why Pace can name Randi mid-scene).** {{Boyfriend}} (the probe, flat register, the door-slam; January) → the break set-piece (the photo semi-shared; sex while she thinks of Randi's breasts, spoken; March) → the bench proposal ladder (May). Each probe exactly one riser above the last established line — his method rendered.
+**The licensing chain (why Pace can name Randi mid-scene).** {{Boyfriend}} (the probe, flat register, the door-slam; January) → {{Postcard}} (the photo semi-shared; sex while she thinks of Randi's breasts, spoken; March) → the bench proposal ladder (May). Each probe exactly one riser above the last established line — his method rendered.
 
 **The twin-confessional rhyme (reader-side, never stated).** The bench strips each woman to the one sentence she cannot otherwise produce — Randi's *"Please"* (chapter one) / Vee's naming (the curtain). The apparatus's true function, run twice.
 
