@@ -435,14 +435,51 @@ Volume Two is **still drafting and has had no edit pass.** Nothing below is
 urgent; it is parked here so it survives to that pass instead of being
 rediscovered. Neither item is in the beta package.
 
-## 44. `vee-on-the-bench.md:61` — "since she was fourteen" on a bodily arousal response (LEGAL/AGE-SIGNAL — clean before any platform)
+## 44. `vee-on-the-bench.md` — the "fourteen" cluster (LEGAL/AGE-SIGNAL — `:61` FIXED 2026-09-15; two remain for the edit pass)
 
-> her body had already laid out its evidence the way it always did, the way it
-> had since she was fourteen
+The chapter carries **three** references to age fourteen. Only one attached the
+age to an active arousal response; that one is fixed. The other two date
+concealment and are **parked for the editorial pass**, not urgent.
 
-Flagged in `meta-plan-legal-read.md` under the 2026-09-13 verification pass as
-**"sharper than [9], which the scan did flag,"** with the instruction to clean
-it before Volume Two goes to any platform.
+### `:61` — FIXED 2026-09-15 (author ruling)
+
+Was: *"her body had already laid out its evidence the way it always did, the way
+it had since she was fourteen and learned the word for it in her mother's voice
+before she had a word of her own."* Flagged in `meta-plan-legal-read.md` under
+the 2026-09-13 verification pass as **"sharper than [9], which the scan did
+flag,"** with the instruction to clean it before Volume Two goes to any platform.
+
+Now reads *"…the way it had since **she first learned the word for it** in her
+mother's voice, before she had a word of her own."* Re-anchored to the learning
+rather than the age: number gone, mother's-word motif intact, no restructuring.
+Arguably better — the sentence is about the word, and the line that follows is
+*"That. The whole problem."* The problem was never the body; it was the naming.
+The number was doing the weaker of the two jobs. (Also thinned one of a two-hit
+`the-way` cluster on that sentence.)
+
+### Parked for the edit pass — the remaining two
+
+Both referents are the **innocent** kind (the excuse; the persona), so they are
+the `[9]` class — exposure by adjacency, not by syntax. But `[9]`'s adjacency was
+a mirror scene; these sit inside active explicit content, which is why they are
+recorded rather than waved off.
+
+- **`:161`** — two sentences after *"His fingers found her nipples at last, both
+  at once, and took them"*: *"'That's just the cold.' The oldest one, the first
+  one she had ever reached for, **fourteen years old in her mother's kitchen**."*
+  The tightest adjacency of the three. Referent is when she first reached for the
+  lie. Most likely re-anchorable the way `:61` was — the beat is about the
+  **excuse**, not the age.
+- **`:465`** — inside the breaking/climax passage: *"the cool managed grace she
+  had built and held **since she was fourteen years old**, the costume of
+  not-wanting."* Referent is the persona's construction date.
+
+**Do not scrub wholesale.** Fourteen is a **motif**, not a slip: all three mark
+the same origin point — the body arrived, the mother named it, the management
+began — and `nothing-underneath.md:25` uses the same age for the same purpose in
+Volume One. It is the spine of Vee's concealment backstory, and losing it costs a
+real through-line. That is the trade the `[9]` ruling already refused once.
+**Author call at the edit pass, instance by instance.**
 
 Why it is genuinely different from the Volume One case it resembles. Item [9]
 (`nothing-underneath.md:25`) was only ever **adjacency** — a concealment clause

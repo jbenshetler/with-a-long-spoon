@@ -58,7 +58,7 @@ The give. The slide. The particular slick that was past damp, the fabric having 
 
 *Already.*
 
-She had not been touched. She had eaten two grapes and clapped her hands at a box and kissed him twice, and her body had already laid out its evidence the way it always did, the way it had since she was fourteen and learned the word for it in her mother's voice before she had a word of her own. *That.* The whole problem. The thing she had spent her adult life managing out of existence in public and could not, here, in his warm house, with the lit doorway of the evening ahead of her, manage out of anything at all.
+She had not been touched. She had eaten two grapes and clapped her hands at a box and kissed him twice, and her body had already laid out its evidence the way it always did, the way it had since she first learned the word for it in her mother's voice, before she had a word of her own. *That.* The whole problem. The thing she had spent her adult life managing out of existence in public and could not, here, in his warm house, with the lit doorway of the evening ahead of her, manage out of anything at all.
 
 She ran the tap warm and wet the corner of a washrag and cleaned herself, carefully, and dried herself with the hand towel, and stood a moment pressing the dry towel to herself the way you press a thing to make it keep, and thought, with the small practical dread that ran under everything, about the satin. Satin was thin. Satin had no give in it for hiding. She was going out somewhere, into rooms, under lights, near people, in a pale fluid cloth that would tell on her the instant her body started doing what her body did, and her body had already started, before they had so much as left, and she did not even know where they were going.
 
