@@ -7,7 +7,10 @@ inline CSS+JS (zero external dependencies): a progress summary table (words,
 pages at ~300 wpm, chapters, and reviewed counts, broken out by seasonal volume
 — Fall/Spring/Summer — plus a grand total), a status-colored beeswarm timeline
 (hover a dot for the beat name), a phase-grouped card list, and the Continuity
-Flags panel. Each card also carries an on-disk `slug` chip,
+Flags panel. A drafted chapter's card title leads with its reading-order
+chapter number — the same N the cold-read and capture harnesses number by
+(`ck-ch012`, `gate-ch012`, "GATE 12"), so a numbers-only reader review can be
+matched back to a chapter. Each card also carries an on-disk `slug` chip,
 character-presence pills (Vee/Pace/Randi/Cassie, filled = physically in the
 scene, from the `present:` metadata field), cold-read Heat/Romance pills
 (0-3 flames/hearts, averaged to the nearest 1/2 across the reviews/ cold reads
@@ -250,6 +253,7 @@ class Entry:
         self.git_commit = None  # hash of that commit (same-commit review exemption)
         self.file_slug = None   # `slug:` segment — the on-disk scene/file slug
         self.ratings = None     # {heat, romance, n, per} from cold reads, or None
+        self.chapter_no = None  # drafted reading-order number (assigned in build_html)
 
     def finalize(self, unknown_log):
         for kind, val in self.segments:
@@ -896,14 +900,41 @@ def render_entry(e: Entry) -> str:
     head = " ".join(parts)
     body = md_block(e.body) if e.body else ""
     details = (f'<details><summary>notes</summary>{body}</details>' if body else "")
+    num = (f'<span class="chnum" title="chapter {e.chapter_no} in reading order '
+           f'— the number the cold-read and capture harnesses use">'
+           f'{e.chapter_no}</span> ' if e.chapter_no else "")
     return (f'<article id="beat-{e.slug}" class="card card-{sc}">'
-            f'<h3>{html.escape(e.title)}</h3>'
+            f'<h3>{num}{html.escape(e.title)}</h3>'
             f'<div class="meta">{head}</div>{details}</article>')
+
+
+def assign_chapter_numbers(entries):
+    """Stamp each drafted chapter with its reading-order number.
+
+    Chapter N = 1 + the count of *drafted* chapters ahead of it in chronology
+    order — the same definition `tools/volume_scenes.py:chapter_number()` uses,
+    which is what the cold-read and capture harnesses number their files and
+    gates by (`ck-ch012`, `gate-ch012`, "GATE 12"). Computed here from the parsed
+    entries rather than imported so an alternate INPUT file still numbers itself
+    consistently. Undrafted entries and EVENTs get no number: the reader can't
+    reach them, so they hold no place in the reading order.
+    """
+    n = 0
+    for e in entries:
+        if e.etype in ("SCENE", "VIGNETTE") and e.status["cls"] == "done":
+            n += 1
+            e.chapter_no = n
+
+
+def chapter_label(e) -> str:
+    """'Ch 12 · The Bench' for a drafted chapter, else the bare title."""
+    return f"Ch {e.chapter_no} · {e.title}" if e.chapter_no else e.title
 
 
 def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None,
                with_reviews=False):
     nodes, w, h, baseline, pad_l, plot_w, span = beeswarm(entries)
+    assign_chapter_numbers(entries)
     # stable, unique DOM ids so beeswarm dots can target their cards; and, for
     # drafted scenes, pull the prose file in so the reader can render it.
     seen_slugs = {}
@@ -946,7 +977,7 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
     # arbitrary prose inert, and .textContent decodes it back verbatim in JS.
     scene_srcs = "\n".join(
         f'<div class="scenesrc" id="src-{e.slug}" '
-        f'data-title="{html.escape(e.title, quote=True)}" hidden>'
+        f'data-title="{html.escape(chapter_label(e), quote=True)}" hidden>'
         f'{html.escape(e.scene_md)}</div>'
         for e in entries if e.scene_md)
     # hidden per-chapter cold-read blobs the reader opens the same way as prose
@@ -967,7 +998,7 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
         blob = "\n\n".join(secs)
         rev_blocks.append(
             f'<div class="revsrc" id="rev-{e.slug}" '
-            f'data-title="{html.escape("Cold reads — " + e.title, quote=True)}" hidden>'
+            f'data-title="{html.escape("Cold reads — " + chapter_label(e), quote=True)}" hidden>'
             f'{html.escape(blob)}</div>')
     if rev_blocks:
         scene_srcs = scene_srcs + "\n" + "\n".join(rev_blocks)
@@ -984,7 +1015,7 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
     for e, x, lvl in nodes:
         cy = baseline - 8 - lvl * 12
         color = STATUS_COLOR[e.status["cls"]]
-        tip = f'{e.title}  ({e.date["display"]}, {e.date["precision"]})'
+        tip = f'{chapter_label(e)}  ({e.date["display"]}, {e.date["precision"]})'
         svg.append(f'<circle cx="{x:.1f}" cy="{cy:.1f}" r="5" fill="{color}" '
                    f'class="dot" tabindex="0" role="link" '
                    f'data-target="beat-{e.slug}" '
@@ -1386,6 +1417,11 @@ PAGE = """<!doctype html>
   .card-arch {{ border-left-color:#5c6bc0; }}  .card-todo {{ border-left-color:#9e9e9e; }}
   .card-event {{ border-left-color:#8d6e63; }}  .card-unknown {{ border-left-color:#c0c0c0; }}
   .card h3 {{ margin:0 0 7px; font-size:16px; }}
+  /* reading-order chapter number — the id the cold-read/capture harnesses use */
+  .chnum {{ display:inline-block; min-width:1.9em; text-align:center; padding:1px 6px;
+    margin-right:2px; border-radius:6px; background:#2b3242; color:var(--mut);
+    border:1px solid var(--line); font-size:12px; font-weight:700;
+    font-variant-numeric:tabular-nums; vertical-align:2px; }}
   .card {{ scroll-margin-top:16px; }}
   .card.flash {{ animation:flash 1.2s ease-out; }}
   @keyframes flash {{ 0% {{ background:#26313f; border-left-color:#9fd3ff; }} 100% {{ background:var(--panel); }} }}
