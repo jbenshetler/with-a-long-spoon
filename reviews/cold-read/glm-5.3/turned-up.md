@@ -1,0 +1,39 @@
+# Cold read (grounded) — Turned Up
+
+*scene: scenes/turned-up.md · model: glm-5.3 · memory: ck-ch010 + raw ch011..ch015 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+God, this book. This chapter is a dessert course and it knows it — the whole thing is one long debrief, the same structure as "Rye" and the smoothie "full report," and it should feel repetitive, but it doesn't, because what's changed is *how much Vee is able to say out loud.* Each report chapter ratchets her honesty one notch further open, and this one she finally gets to say the truest thing in it: "Like I was supposed to be there."
+
+The swoon for me is the back half. When Vee drops the bravado — the "I was on a box" comedy, the package-and-grinding bit, which is genuinely funny and warm and had me laughing — and lands on the quiet: "It was like his eyes asked, *May I look.*" That's the chapter's center of gravity. Even filtered through her telling, the measuring scene from "A Round" has been transmuted in her: the shame she was drowning in on the page is gone from the retelling — not hidden, *gone* — and what she kept is being looked at and being worth it. And Cassie's answer, "No. I think I have it," nearly got me. Cassie, who sees everything flat and plain, granting it. The "He didn't use the word. But yes" / "He asked" exchange is the cleanest statement of the whole Pace proposition this book has made, and it's delivered by the one character I trust without reservation, which is exactly why it lands.
+
+Vee — I adore her more every chapter, and I'm getting more nervous about her every chapter, in equal measure. Notice what she *doesn't* tell Cassie: the soaked panties, the spread of evidence, the moment of shut eyes and his waiting smile. That's the most searing five minutes of her life and she keeps it — the one part of the afternoon that's still hers alone. She'll report the grin-worthy stuff, the geometry, the heat, but the wet-through shame-turned-glory stays private. I felt that as deliberate on her part even if the text doesn't say so — or maybe she's just not ready. Either way, the reader knows the whole story and Cassie knows maybe sixty percent of it. Cassie's "Are you sure he's not gay?" bit is her still half-filing this man as too good to be a straight man, and I loved her for it.
+
+My unease is doing what it always does: sitting on the reader's-side-of-the-page knowledge that Vee's legs-came-off-the-floor trust is being spent inside an architecture she can't see. Everything that moved me in this chapter — the heat turned up hours early, the cloth matched to *her* not to her description, the "May I look" — moved me as tenderness. And I know about the pointing game. The thermostat detail especially: from Vee's side it's the most romantic thing in the chapter, "he thought of it then." From the ch 1 side, I remember the house is *always* kept very warm, that the heat was there for Randi too, that this warm bright house with its riser in the corner is a place where a woman was seen and taken apart before Vee ever drove up the gravel. Whether the riser existed for Randi, I genuinely don't know — the text hasn't said — but the house's warmth no longer reads to me as purely for Vee, and I noticed I held that detail a little differently than Vee did. That's my wariness, though, not the page's — the page gave me nothing today to distrust either of them *in this scene*. The bra, the kneeling, the hem: every beat of "A Round" was earned and consented and I'd testify to that.
+
+Friction: minimal. If anything, this is the most purely pleasurable chapter of the book so far, and I mean that as praise and as a faint "the book is letting me enjoy this *unreservedly*, which makes me lean forward in my chair." The one flat spot is Kayla-and-Meg energy returning via the "grinding" bit — not that it wasn't funny, but the two-comic-beats-too-many structure ("I was on a box" x3) briefly smoothed Vee's voice into sitcom. It recovered into the pillow-quiet ending beautifully.
+
+The title — "Turned Up." I assumed it was the thermostat, and it is, and that's lovely: he turned the heat up before she came. But on second thought it's also *her*, turned up — the riser raising her, the wanting turned up, the volume of her whole self. And "Turned Up" sitting right after "Two Towels" and "A Round" in a run of small object-titles: the book names chapters like drawers in his shop. The volume title, *With a Long Spoon, Book One — A Polite Invitation*, reads truer every chapter: the invitation keeps being extended (the house, the riser, the dress, the door he leaves open — "He left me a door," she says, in his own vocabulary) and the long spoon is the distance the lovers are keeping between themselves and the girl while they stir. The jacket promised a plan; the pages have kept confirming it, and now Vee is *inside the house*, and the bedroom door stayed shut, and the dress has weeks to go.
+
+Next: I want the fitting — "couple of weeks, and you'd have it before the induction" promises a second measuring, and I don't see how she survives that a second time without the thing finally happening between them. I dread, mildly, the reappearance of Randi or Brooke — the book has been keeping them offstage for two chapters and I don't trust that quiet. And I'm waiting for the moment the satin truth she didn't tell Cassie comes back — the wanting she still can't look at squarely. Guesses only.
+
+---
+
+**Cast present (in person):** Vee, Cassie. Mentioned only: Pace (heavily), Kayla and Meg's world implied but not present; Randi absent entirely — first chapter in a while with no trace of her even in conversation.
+
+**Heat:** 2 — sustained charge doing real work, carried entirely by the *retelling*; the original was a 3, and this is its warm afterglow, "he was on his knees, and looking up" doing most of it.
+
+**Romance:** 3 — "Like I was supposed to be there" plus the thermostat revelation is the strongest romantic beat so far; devotion made out of a thermostat and a bolt of silk.
+
+**Motifs & images:** the shirt with no tag (first sighted "Two Towels" only as Vee's mystery; now resolved — repeat, and *the shirt is folded on her pillow again*, repeat of "What to Wear"); the riser/box (repeat from "A Round," now in Vee's own mouth as "For me to stand on"); "May I" (repeat — "his eyes asked *May I look*" brings the permission-word into her interior vocabulary); doors left open ("He left me a door" — new, echoes Daphne's closed door and the locked bathroom); feeding/appetite absent for once; the mirror image of cloth-and-color (invoked in Vee's retelling, repeat); looking/being seen (repeat, now fully transformed from fear to worth).
+
+**Symbolism:** the riser becoming a pedestal in the telling — Vee literally elevated, on a box, "supposed to be there" — the shame-geometry of "A Round" recast by her as elevation. The dress as the relationship itself: built for her, measured on her, not yet sewn, weeks out.
+
+**Characterization:** Vee deepens most — her editorial layer over the afternoon shows which parts she's integrated (worth) and which she's still hiding (the wet-through moment, unspoken). Cassie deepens too: her pivot from comedic doubt to "No. I think I have it" is her clearest act of trust-in-Vee's-judgment yet. Pace only exists in reflection this chapter, and flatters himself least.
+
+**Pace — within the chapter:** tight; the comedy run slightly overlong but the pillow-quiet landing earns the length.
+
+**Pace — chapter to chapter:** holding beautifully — third debrief chapter but each has climbed; this is the aftermath beat the summit scene needed. Momentum building toward the fitting and the induction.
+
+**Pace — chapter to chapter:** building — the dress is a clock now (weeks to induction), the house door is open, and the book can't stay in afterglow much longer.

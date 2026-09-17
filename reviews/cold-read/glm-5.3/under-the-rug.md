@@ -1,0 +1,37 @@
+# Cold read (grounded) — Under the Rug
+
+*scene: scenes/under-the-rug.md · model: glm-5.3 · memory: ck-ch040 + raw ch041..ch043 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+**The felt read**
+
+This chapter hollowed me out. The last chapter ended with Vee retiring her sentence — "the cracker-and-meal would not return to her speech" — and now the word she's holding has escalated from *grateful* to *love* itself, and she can't say that either, and the pressure has to go somewhere, so it comes out sideways at the wrong size: "Is this what we are now?" I felt that line land like she did — too loud, a daytime voice in a murmuring room. And then the whole chapter is her thrashing against the fact that she got exactly what she asked for and it didn't help.
+
+The Chili's scene is where I ached most. Not because Pace did anything wrong — that's what's killing me. The text is very careful: his eyes slip to the screen, "he always brought them back," the fork squaring to the table edge, the flicker of irritation he drops his eyes to hide from her. And Vee reads all of it as *the just-sex of it, proven in fluorescent light.* I know — I've been reading this whole book — that he's a man who can't filter a loud room, that his listening is real and effortful and always has been. She doesn't know that. She's reading his autism-shaped struggle (though the book never names it, and I won't either) as evidence against her. The dramatic irony here is exquisite and cruel: she punishes him for the very quality that makes him hers. "He had ruined it for her, was the thing. Not just this." That line landed hard — he's ruined the orange cheese nachos and the fine-but-fine life, and she can't go back to crackers, and she can't get the word, and there's nowhere to stand.
+
+The bedroom fight back at the house — "You're doing it again. Punishing me" — was the moment I winced for her most, because she *knows* she's lying. "Some back room of her knew which of them had gone cold that night, knew who'd carried a pie up whose porch steps after — and she said it anyway." She needs the line of it to hold more than she needs it true. That's the most naked thing in the chapter, hotter than the sex: the machinery of a woman lying to her lover because the truth (that he's not withholding anything she can name) is unbearable. And his answer is so exactly him: "You know what happened after the dance," said plainly, no argument, no pleading — and then the explanation about the loud room, "I'm listening now." I did feel the swoon there, I confess. "A man didn't listen like that to a body he only wanted" — I went with her, I wanted that to be enough for her, even knowing about the flannel in the drawer, even knowing the house itself was a set of hooks. Even so. That's this book's whole trick on me: everything warm is also evidence, and I keep choosing the warmth.
+
+The sex worked on me, and worked on me partly because it's about the name. She wants him rough, wants his control to break — "for the want in him to get the better of him and make him rough" — and the moment he finally does break, "the patience went out of him... took her like a man who'd run clean out of the strength to wait," I felt it, that's real heat, an earned peak. And then the cruelest sentence in the chapter: she comes with his name in her mouth, and the word goes back down drowned. And after, his sleeping arm over her ribs, and her lying there "marked all over with where he'd been," with his spend still in her — the possessive heat of that ("his," "hers," "done, hers") is doing double work. She has his body proven and his word withheld, and she can't hold any of it up to the light. "It lived only here, in the dark, in this bed, and stopped at its edges." The title is doing exactly this: swept under the rug. Her unsaid word, his unsaid word, the whole pile of "things she did not know what to do with" from the laundry room — it's all under there, and the chapter is her lying on the rug feeling the lump.
+
+Two readings sit side by side in me and I won't collapse them. One: Pace doesn't say *I love you* because he's holding something back — the plan, Randi, the whole architecture — and "I love how good we are together" was a dodge he manufactured. The other: he says love only through acts, always has (the checkpoint reminds me: never in words), and what Vee is starving for is a form he may simply not have. The page honestly supports both and so do I. What I notice is that *she* now has the same problem in both directions — she can't say it either, and she can't even find the small name, *boyfriend*, a word that would "go small and wrong" in her mother's mouth. She has no name for the best thing in her life. That's a devastating place to end, and I notice the book keeps ending chapters in this not-knowing — the laundry room, the porch, now this — a slow tightening, each turn of the screw a little deeper.
+
+**The structured block**
+
+**Cast present (in person):** Vee, Pace. Mentioned only: the hostess (unnamed, incidental), his student (unnamed).
+
+**Heat:** 3 — the wanting is the whole engine: her need for his control to break, and then it breaking, his urgency spent into her — the chapter's charge is the unsaid word riding on top of the sex.
+
+**Romance:** 2 — tenderness and a real turn ("I'm listening now," the fight leaving her), but the romantic peak is *refused* by design: both of them withhold the declaration, and the chapter ends on the withholding.
+
+**Motifs & images:** The withheld word / the rule that he says it first (new escalation of the ch 41 "not the same shape" thread); loud rooms vs. his listening (recurring: the bar, "never once heard it start"); food as the register of what he's done to her — the nachos "to food what a billboard is to a painting," direct descendant of the cotton candy/strawberries pizza moment (ch 41) and the crackers-and-meal sentence now retired from her speech; "marked all over with where he'd been" — his spend, his smell, the flannel all one vein; the fork squared to the table edge (first sighting — his order under strain); the pile of things she doesn't look at, growing (repeat, ch 41).
+
+**Symbolism:** The title — everything unsaid swept under a rug she can feel the lump of while lying on it. The nachos as her old self, ruined: she can't go back to crackers and can't get the meal named. His spend inside her — possession without proof.
+
+**Characterization:** Vee deepens most: her self-aware lying ("she said it anyway"), her knowledge that she's lying and her refusal to stop — that's a real person under pressure. Pace stays consistent and opaque in exactly the way that feeds both readings; the hidden irritation he doesn't want her to have is a lovely new crack of honesty in him. No one went thin.
+
+**Pace — within the chapter:** Tight. The Chili's middle sags slightly in the silence at the table, but that sag is the point; the bedroom scene earns its length.
+
+**Pace — chapter to chapter:** Building — third consecutive chapter of Vee pressing against the unsaid, each one closer to the bone. I don't want a fourth identical beat; something has to give or change register soon.
+
+**Pace — chapter to chapter:** Building, tightening; the unsaid word is now structurally loaded, and I'd guess (a guess from here) that Thanksgiving in Ohio — the cropped photo, her father's suspicion, her mother's collarbone — is where the pressure finds a door.

@@ -1,0 +1,39 @@
+# Cold read (grounded) — hills-and-valleys
+
+*scene: scenes/hills-and-valleys.md · model: claude-opus-5 · memory: ck-ch020 + raw ch021..ch027 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+Short chapter, cold air, and the first time in this whole book that someone *outside* has said the obvious thing out loud. After the last stretch — the fight at the Rusty Nail, the sleepless night, the whole morning at Randi's getting armored — dropping into Pace on a bicycle on a Saturday road was a jolt, and a welcome one. I didn't know I needed to be let out of Vee's head until I was.
+
+Sheri is new to me and I liked her within four lines. The small frame, the bleached ponytail swinging, "never as much of her as the work she got out of it," faster on every climb and never letting it go unmentioned — she's drawn in about eighty words and she's completely solid. And she remarks on women "the way other people remarked on the weather," which the page just sets down without fuss and which I took happily: "Hell of a backside on her, though. I'll give her that." Two years across that handlebar. I don't know who she is to him beyond that — friend, riding partner, someone with standing — and the page doesn't tell me, so I'm leaving it open. I *do* have a hunch she's the one who was behind the bar Thursday night, closing up, watching Vee nurse the one drink and leave alone, because that's exactly the vantage "I kept an eye on her" implies — but that's a guess from here, and the chapter never names it, so I'm holding it loose.
+
+The thing that actually got me was him talking. He gets past the name "before he'd decided to be," and then it's the walnut chair, the joint he spent a weekend on, her thumb running down the grain, and the math book she pulled off the shelf and *didn't put back like it had burned her*. That last one is such a precise, loving noticing — he clocked that she wasn't frightened of it. "He heard himself going and didn't stop." And Sheri, sideways: "Listen to you." And he doesn't know what there is to listen to. That's the swoon of the chapter, and it's a quiet one: the man who reads everyone faster than they can hide cannot hear his own voice doing the thing. I've been braced for Pace, honestly — I like his hands and I don't know what to do with the quad, the pointing, the appetite for the moment someone runs out of apparatus. This is the first time I've watched him be the one who's caught, and by a friend who isn't impressed by him.
+
+And then the cold drops in. "What happened to the pale sorority chick?" — "**Randi. That's not finished.**" Three words, and I sat back. Not *she's my girlfriend*. Not *we're together*. *That's not finished.* I can read it two ways and the page won't pick: still going, i.e. it's ongoing and he's not discarding her — or unresolved, unsettled, a thing he hasn't closed out. Given what I know and he doesn't — that she bolted the bathroom door and is smiling through the glass — "that's not finished" landed on me like something Randi would be gutted to overhear, whichever way he meant it. And then Sheri, not scolding, just doing arithmetic anybody could do: "Two of them at once... If that's not already complicated, it will be." First outside witness in twenty-odd chapters. Someone else can see the shape of it, and she's the only person in the book who's looked at it plainly and said so, and she doesn't even know the half of it — she doesn't know the two of them were introduced by the third.
+
+Trust: nobody feels off to me here, which is its own small relief. Sheri reads as clean — her one flash of teeth ("You want me to not like her?") is offered as loyalty, and his answer, "No. She couldn't take your heat," is both a deflection and a real compliment, and I liked him for it. Erotically the chapter is nearly dry: a stray appreciative line about Vee's backside from a woman who says such things about everyone, and the physical pleasure of the bike, which the prose renders better than it renders any wanting. That's fine. It isn't what this chapter is for.
+
+Friction: almost none — it's short and knows it. The only thing I bumped on is that the tour detail comes back as a *walnut* chair when what I carry from his den is white oak he built himself; either I'm misremembering or he's got more than one wood in that house, and it's small enough that I only noticed because his furniture has been so specifically rendered before. Otherwise: no thumb on the scale anywhere. The chapter says its piece and gets off the road.
+
+**hills-and-valleys** — on the page it's the literal terrain: they talk on the flats and the long descents and go silent on the climbs, which take the breath for themselves, and the *shape* of the chapter is exactly that, the confidences arriving in the gaps where the road lets them. On second thought it's also the two women, the up and the down of them, the thing Sheri names as complicated. And a third reading I can't shake, given "hell of a backside": Vee's own hills and valleys — the body that's been the whole subject of the book, the bias line running the length of her. The title didn't give anything away; it opened up after. **WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION** keeps doing what it's been doing to me: the spoon is the proverb about supping with the devil, and "A Polite Invitation" now sits right next to Sheri's *two of them at once*, and I think I know what invitation is coming and to whom, and I dread it in the good way. No tagline in my packet.
+
+What I want next: Vee at his door tomorrow night, in the black dress and the borrowed cognac heels and the green silk, going in *sure*. I want him to get that. And I want to know what Randi does when the girl she built arrives at her boyfriend's house dressed by her own hands.
+
+---
+
+**Cast present (in person):** Pace, Sheri. *Mentioned only:* Vee (Vivienne), Randi.
+
+**Heat:** 1 — one appreciative remark about a backside; the chapter's pleasures are cold air and legs, not wanting.
+
+**Romance:** 2 — he can't stop talking about her and doesn't hear himself doing it; tenderness caught at one remove.
+
+**Motifs & images:** Breath — going back over their shoulders, saved for the hill, taken by the climbs (new, but rhymes with Vee's held breath in the pool, ch 7). Hair in wind — Sheri's bleached ponytail swinging with each pump (repeat: Randi's ponytail "giving the wind nothing," ch 3/17; Vee's copper at the summit). Joinery — the walnut arm-to-leg joint, the weekend spent on it (repeat: the white oak den whose joints hide their own seams, ch 14). Cold on the outside of warmth (repeat: the glass at the fire, ch "Rock"). Naming — "Vivienne," the full name handed over to a stranger, which in Vee's own mouth means her mother and trouble (repeat, ch "Rock").
+
+**Symbolism:** The climb as the place talk stops — everything real in this chapter gets said on the flat, and the hard part is done in silence, alone, at different speeds. Sheri dropping him on every grade and waiting at the top without being winded reads as the whole relationship in one gesture: someone who outpaces him and holds no advantage over him. I won't push it further; the page didn't.
+
+**Characterization:** Pace deepened, and usefully — first time we've seen him unguarded and slightly stupid with feeling, and first time someone's had standing to tease him. Sheri arrives fully formed in a page, which is impressive. Randi is only three words here, but they're consequential ones.
+
+**Pace — within the chapter:** Brisk and exactly the right length; no fat, nothing rushed. The one climb in the middle earns its silence.
+
+**Pace — chapter to chapter:** A deliberate cool-down after a very hot, very interior run — a POV switch and an outside witness dropped in right when the triangle needed a third party to look at it. Momentum holds rather than builds, but it resets the air, and I'm more eager for the next chapter than I was for this one.

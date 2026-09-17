@@ -1,0 +1,35 @@
+# Cold read (grounded) — Rye
+
+*scene: scenes/rye.md · model: kimi-k3 · memory: ck-ch010 + raw ch011..ch011 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+**Felt read.**
+
+Oh, this one is small and quiet and it undid me anyway. After the scale of the hike chapter — the summit, the rain, the shirt coming open in the cab — the book puts us in a cool dorm room with two girls and a too-big flannel, and somehow that's exactly where the feeling lands hardest. I spent the whole chapter smiling and then got caught completely off guard by one soft word.
+
+Cassie first, because Cassie is the chapter for me. The blood type line — "I had your blood type" — is her love language and I read it as pure relief wearing a joke: she really did brace for the windowless van, really did run the state-trooper math, and Pace passed. "No van. He took you up a mountain nobody can see from the road, on a Sunday, and brought you back. With your shoes on." There's an audit happening under the comedy and Pace cleared it. And then — the moment that got me — Vee slows down to tell the truck part, and Cassie "went still and stayed that way," and afterward just says "Vee." Not *Oh, Vee.* Just her name, "like setting something down where it wouldn't break." I felt that in my chest. Cassie hears exactly what this is — not the shirt, not the looking, but the *Me. On purpose* — and she knows there's nothing to guard against here that guarding would help. She doesn't warn. She doesn't tease. She sets it down gently. I trust her more than anyone in this book and this chapter is why.
+
+Vee telling it is its own joy. The comedy beat — "I think he's built. Under the jacket. I think there's a whole situation under there" / "You think." / "I'm reporting what I observed" — made me laugh out loud, and it matters that her desire is now something she can *report*, out loud, in daylight, to her best friend. The girl who policed every appetite is narrating her own wanting with a straight face and a grin under it. And the line that should be cross-stitched somewhere: "And then we ate. She said it the way other girls said *and then we kissed.*" The hike taught her hunger first and then fed her — she even names the trick of it — and I kept thinking, she is describing being *cherished* and doesn't have that word, only has "he didn't make me feel like I'd wrecked the day."
+
+And then the retelling of the cab. She gives Cassie the true version — the knocking on the glass, calling him back in, the shirt off "on purpose. Me." — and what's remarkable is how *faithful* it is to what I just read happen. No smoothing, no dignified edit. This is the second time now ("I did it because I wanted to and I did it on purpose" after the kiss) that she's claimed her own agency to Cassie in almost the same words. I believe her. And I also can't un-feel the frame around it — that this whole shining courtship was set in motion by two people she doesn't know are connected. The chapter itself doesn't press that at all; it's warm all the way through. The unease is entirely my own carryover, and honestly this is the chapter where it went quietest for me. Pace standing in the rain with his back turned, Pace shaking with cold and not touching her — retold secondhand, it lost none of its power. If anything, hearing Vee say "he looked at me like I'd handed him something" made it land again.
+
+The kept shirt is the whole chapter in an object. "I kept the shirt. I didn't ask. He didn't ask for it back." / "I'm keeping the shirt." / "Keep the shirt." It's the first thing of his she gets to take home and wear against her skin — and I couldn't help noticing the rhyme with Randi's cashmere blanket kept at Pace's house since week two. Two women, each keeping a piece of soft cloth from this man, neither knowing about the other. The page doesn't underline it. It didn't have to.
+
+The title — "Rye." It's the humblest thing in the chapter: the bread of the sandwich, "I think you have to almost die on a mountain first." Naming the chapter for the lunch instead of the shirt-off feels deliberate in a way I like — the erotic peak of Vee's life so far gets filed, in her own telling, under *and then we ate.* Food is how this man loves; rye is the sturdy dark thing that holds the sharp heat. And there's the earlier thread: "Your tart's holding up" — the bread holds too. As for the cover board — WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION — no tagline was given in my packet. "A polite invitation" still reads to me as the book's whole method: everything arrives as an offer, a *May I*, a sandwich handed over — and the title keeps its irony warm, because I know an invitation is also being prepared that Vee hasn't heard yet. "Long spoon" still sits just out of reach for me — something about supping carefully, at a distance, with something dangerous. From here, I want the induction dinner (the russet dress he didn't pick up off the rock — a guess from here: that dress is coming back, and I half-dread who'll be holding it when it does). And I dread, in a low background way, Cassie's next look — she sees everything now except the one thing that matters.
+
+**Cast present (in person):** Vee and Cassie, in their dorm room. Mentioned-only: Pace (throughout, in retelling), Meg (implicitly, via the boots), Vee's mother (via "girls from where she was from" — actually not present here; absent), Cassie's lab world untouched.
+
+**Heat:** 1 — the fire was last chapter; here it's embers retold, warm through the flannel, not burning.
+
+**Romance:** 2 — clear tenderness: "he looked at me like I'd handed him something," the kept shirt, "Keep the shirt" — plus the deep Vee–Cassie intimacy carrying its own devotion.
+
+**Motifs & images:** The flannel shirt (first sighting as *kept* object — rhymes with Randi's cashmere blanket at Pace's, ch 1–2); food as love and hunger earned ("almost die on a mountain first" — repeat of the feeding thread, ch 1, 3, 6, 8); hands/forearms again (ch 5, 8); "Me. On purpose." (repeat of ch 9's "I did it because I wanted to and I did it on purpose"); boots — "Borrow good ones" (ch 9) answered by "Borrow real boots next time"; Cassie's protective-joke register (blood type, witness statement — the state-trooper request, ch 9); the cracked window's thin cold (ch 9).
+
+**Symbolism:** The flannel as portable care — his warmth worn home against her skin, taken without asking, the first thing of his she owns. "Rye": the sturdy bread that holds the sharp heat; the erotic summit filed under lunch.
+
+**Characterization:** Cassie deepens — a new register in that soft "Vee," protection learning it can't protect against joy. Vee consistent and opening: desire now reportable, in jokes. Pace deepened entirely through faithful retelling, which itself characterizes Vee's honesty. Nobody went thin.
+
+**Pace — within the chapter:** Short, perfectly judged; the comedy-to-stillness turn is placed exactly right, and it ends on the button it earned.
+
+**Pace — chapter to chapter:** A deliberate cool-down after the hike's peak — holding, not sagging; a breath the book needed, with the dread humming quietly underneath.

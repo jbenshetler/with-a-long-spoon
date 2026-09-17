@@ -1,0 +1,39 @@
+# Cold read (grounded) — Dear
+
+*scene: scenes/dear.md · model: kimi-k3 · memory: raw ch001..ch009 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+**The felt read:**
+
+This chapter put a stone in my stomach, and the stone has Randi's name on it. I watched her do the whole thing knowing what I know — that Pace is *hers*, that she picked Vee out on the quad like fruit, that the collision was choreographed — and so "Paul?" landed on me like a slap. She pretends not to remember his name. She snaps her fingers, reaches for it, can't quite catch it, while asking for a "full report" on her own lover's date with the girl she chose. And the performance is *good* — Vee doesn't catch a whisper of it, and I believed the believability of that, which is worse. What moved in me this chapter is Randi: she was opaque to me before, a hungry girl being walked toward her own wanting by Pace, and now she's something colder, someone doing deliberate work. The reframing is the work. Vee comes in with her dignified version — "I made an exception" — and Randi, soft, near tender, hands her "Because you couldn't not. Because of him," and Vee *takes it*, lets the truer-smaller thing replace the agency she actually had. She kissed him; she pulled him back; and in the retelling it's already becoming something that happened to her because of him. I wanted to shake the table.
+
+And the catastrophe story — God. The dreamy rich boy who talked about himself all night, and "a man who can't be bothered to listen to you across a dinner table, honey, is not going to bother taking care of you anywhere else." That's not gossip. That's a sales pitch with the competitor's product in it. She's laying pipe: Pace listens, Pace *takes care*. The bruise-colored smoothie — beet, wheatgrass, egg white, "a sentence handed down" — sitting next to Vee's pink strawberry banana is the whole relationship in two cups, and the egg white reached all the way back to Randi's mother living on egg whites and tofu. Randi is drinking her own cage while helping build Vee's.
+
+Vee broke my heart in a new register this chapter. She's so happy, and the happiness is real — "frankly, like a person things happened to" — and the text keeps showing me the machinery under it that she keeps declining to see: the oat milk she orders "because Randi was standing right there, and let herself not look at that either," the cardigan that "covered her like an apology," the thought about Cassie that turns over underneath and that "she let lie." Her instinct to make herself small in front of Brooke — but *this time* not to spare herself, "to leave nothing of herself worth holding against Randi" — is the most devoted and most doomed thing she's done yet. She's already spending herself for this friendship.
+
+And then "dear friend," and the hand. I have to be honest: it worked on me even knowing what I know. Randi taking Vee's hand on the white tabletop in plain view of Brooke, cool damp fingers, in no hurry to let go — and Vee feeling, correctly, that it cost Randi something to say it in front of them, and being *picked out loud* for the first time in a long time. The swoon and the trap are the same gesture. That's the book doing exactly what it came to do, and I felt it do it: I was moved and horrified in the same breath, and the horror didn't cancel the moved, which is precisely Vee's problem.
+
+Cassie's exit is quiet and terrible. "Whatever had been in them was folded away" — she looks at Randi, looks back, folds it, goes. She's the only person in this book who sees, and she is leaving the room in every chapter now, and Vee does not watch her go. "Goodbye, Vee" from the last coffee chapter is still ringing; this "I'll see you at the dorm" is the softer echo of it. I dread Cassie's silence more than anything Brooke could do.
+
+Trust vs. suspicion, plainly: I no longer trust Randi at all, and the text earned every ounce of it — not from authorial menace but from the name-faking, the steering, the script she runs on Vee ("You little minx") that she's plainly run a hundred times. What I don't yet know, and won't pretend to: how much of this is Pace's design that Randi is executing versus Randi's own improvisation. His shadow is over all of it but he's offstage, and that offstage-ness is itself unnerving.
+
+The titles: "Dear" resolves gorgeously and sickeningly into "dear friend" — dear as tender, dear as costly, the word Randi spends in front of Brooke like money, and Vee receiving it as treasure when it's also a price tag. And it can't help chiming with the salutation of a letter — *Dear* — the first word of an invitation. "Book One — A Polite Invitation" and "With a Long Spoon": I now read the invitation as the one being extended to Vee, polite as a hand held out on a white table, and the long spoon as the distance you'd want between yourself and whoever's feeding you. The cover promised something I thought might be a romance. It's shaping into a seduction with teeth.
+
+What I want next: I'm braced for the threesome machinery to start moving — Vee "admitting" something, Randi producing Pace as a coincidence. My guess from here: the introduction of Pace to Vee's orbit will be staged as a meet-cute neither girl planned, and Vee will tell Cassie about it, and Cassie's flat little sentences will be the only truth on the page. I'm also watching for whether Randi's own hunger — the real one, from the bench, the one she locked in the bathroom — shows through the performance at all. She can't be only this.
+
+**Cast present (in person):** Vee, Randi, Cassie, Brooke, the taller unnamed sorority girl, the smoothie-counter boy (brief), the stats professor (brief). Mentioned only: Pace (as "the hottie"/"Paul?"), Randi's Friday date, Meg not present.
+
+**Heat:** 2 — no sex at all, but the chapter hums: the cool damp hand on the table, "dear friend" as a public claiming, Vee's whole body answering Randi's attention — wanting as the engine of the trap.
+
+**Romance:** 2 — felt fully by Vee (picked out loud, hand held in the open) while the reader watches it being spent as currency; tenderness that is real on one side of the table only.
+
+**Motifs & images:** The high table in the window — repeat from Chi Latte ("set up on a shelf," displayed); "love you, girl" / the hug with the hand flat between shoulder blades — repeat, now legible as script; the cardigan over the better shirt — repeat, Vee's self-covering; hands taken — Pace's "already settled" hand-hold now echoed/inverted by Randi's tabletop hand; cold-citrus smell — repeat, Randi's signature; drinks as character (the bruise-colored smoothie with egg white — repeat of Randi's food-policing lineage from The Bench; Vee's coerced oat milk echoing the chapter title "Substitution"); Cassie's cap down, "folded away" — repeat of her flat watchfulness and "Goodbye, Vee."
+
+**Symbolism:** The bruise-colored drink as Randi herself — punishment ordered like preference. The window table as display/shelf — Vee being positioned to be seen and weighed. "Dear" as both endearment and invoice.
+
+**Characterization:** Randi deepens sharply — from opaque desire-object to active, skillful predator, and the name-faking is chilling precisely because it's small. Vee deepens — her self-smallening re-purposed as devotion is new and true. Cassie thin on the page by design; her folding-away says more than a paragraph would. Brooke held flat and effective, a pressure front.
+
+**Pace — within the chapter:** Earns its length; the smoothie-shop scene runs long but every turn (the story, the reframe, Brooke, the hand) tightens something. No drag.
+
+**Pace — chapter to chapter:** Building steadily. The alternating Vee-chapter rhythm has now shifted from two courts (Pace's, Randi's) running in parallel to their first visible meshing, and the momentum quickened for it.

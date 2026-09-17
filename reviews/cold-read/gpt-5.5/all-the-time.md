@@ -1,50 +1,34 @@
 # Cold read (grounded) — All the Time
 
-*scene: scenes/all-the-time.md · model: gpt-5.5 · memory: ck-ch030 + raw ch031..ch037 · reader-protocol: v3-grounded-checkpoint · prose-sha ~97724b44da95*
+*scene: scenes/all-the-time.md · model: gpt-5.5 · memory: ck-ch030 + raw ch031..ch038 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-I came out of this chapter feeling warm and uneasy in almost the same breath, but the warmth came first. This chapter is such a deep basking chapter: Vee trying to explain that the thing with Pace is no longer one event, no longer a story with a punchline, but a whole climate she lives in on weekends. I felt her happiness bodily. The sex is there, absolutely, but what really got me was the way she talks about food, sleep, quiet, attention. “Like I’d been eating with the sound off” is so good because it isn’t only about Pace’s cooking; it’s about her whole life turning audible.
+I felt warm and lulled by this one, in exactly the dangerous way Vee is lulled: the dark booth, the mimosas already waiting, Randi coming clear before the room does. The title lands immediately as abundance. “All the Time” is not just sex all the time, though Vee says that plainly and funnily; it is Pace in her body all week, Randi in her Saturdays, hunger in every appetite, wanting becoming the weather. I was happy for her. I really was. She is so incandescent here, so proud of being wanted and fed and slept beside, and there is something deeply moving in her realizing she is “finally hungry out loud.”
 
-Vee feels incandescent here, but also more dependent than she quite knows. The line about the weeks running gray and only Friday to Sunday having color landed hard. I don’t think she experiences it as frightening yet, but I did feel a little catch there: her life is starting to organize around Pace’s house and Randi’s brunches, around being wanted by these two people. Still, I believed every bit of her joy. I loved her daring with the Benedict, reading prices first and then ordering “the good one, the one that cost.” That small economic courage felt like part of the same waking-up as the sex.
+The erotic charge works on me less through acts than through overflow. Vee talking about Pace taking forever, wanting “all of me,” changing rhythm, being strong and gentle in the same night: that has heat because she is not performing sophistication. She is astonished, almost laughing at the size of her own appetite. And the Benedict scene is gorgeous and frankly erotic: the yolk running “thick and gold,” the bread dragged through it, “the middle, when it goes everywhere.” Food and sex are not just compared; they are the same awakening in her mouth and body.
 
-Pace isn’t present in person, but he is everywhere in her body. I still trust his tenderness on the page: the food, the sex that starts with her pleasure, the drawer, the music already playing, the phone never competing with her. But because I know what Vee doesn’t, the saturation of him in this chapter also makes me nervous. He has become the house where she sleeps, the man who feeds her, the gaze that gives her beauty back to herself. That is swoony, and it is a lot of power.
+Randi is magnetic here, and also she scares me more because she is so good at being exactly the place Vee can pour herself. Her absolution — “You’re not greedy. You’re just finally hungry out loud” — made me melt a little, because Vee needed that sentence so badly. But Randi’s reaction to the “body attached” line is the chapter’s pulse skip. Her eyes going bright, her breath catching: that felt earned, not suspicious in a mechanical way, but emotionally charged. Vee reads it as pride that her story landed. I read it as Randi being touched and aroused and maybe pierced by something she wants for herself or wants from Vee.
 
-Randi is the one I felt most pulled toward and most wary of. Her listening is unbelievably seductive. “You’re just finally hungry out loud” almost made me melt, because it gives Vee exactly the absolution she needs. And then “if you’re a sex pervert, you’re my sex pervert” is funny and intimate and possessive in a way Vee drinks right down. But Randi’s little slips are louder now. When Vee says Pace wants “me. With the body attached,” Randi goes bright and uneven, and that felt real, not performance. Then the beam comes back. That made me believe Randi is moved, actually moved, by Vee’s happiness and body and trust. It also reminded me how practiced she is at recovering.
+Pace is mostly offstage, but he glows through Vee’s account: attentive, tireless, cooking, music already playing, no TV, no phone except music and pictures. I still trust his in-the-room care intensely, and the drawer/scrunchie memory makes him feel like someone who makes love by making room. But because I know what Vee does not, the more perfect the refuge feels, the sharper the unease gets. Vee says there is no competition when she is with him; I keep feeling the hidden competition of knowledge itself.
 
-The erotic charge worked differently here than in the more explicit chapters. It is less graphic action and more afterglow, confession, appetite. The heat peaks for me around the pictures: Vee first showing the cropped one, then getting stung by Randi’s “only gave him half?” and producing the full one. That is hot because Vee wants to be brave in Randi’s eyes. It is not just about Pace having the picture anymore. Randi looking at it becomes its own charged event. “I gave him all of it” says Pace, but the scene gives a lot of it to Randi too.
+The picture-sharing scene is hot and tender and wrong-footing. I loved Vee’s pride in “It was my idea,” and I felt the thrill when she refuses to be the girl who flinched and shows Randi “all of it.” But it also tightened something in me: Randi asking “and you only gave him half?” nudges Vee exactly where her shame lives. Maybe fondly, maybe hungrily, maybe both. The joy of “There was no one else she could have shown” is real. So is the danger of Randi being the only person who gets the uncropped version.
 
-The kiss at the end is a real turn for me, even if Vee refuses to treat it as one. This time she reaches after Randi. She “noticed it, and decided it was what she wanted, and didn’t bother about it again.” That is huge, and also very Vee: she can claim the bodily motion while leaving the meaning politely unexamined. I swooned a little at the “Just us” class plan, but I also felt dread because Cassie is explicitly out of that room. Randi and Vee are choosing a space together without Cassie, and Vee reads it as simple pleasure. I don’t.
+The chapter title, “All the Time,” feels beautifully double: the constancy of Vee’s wanting, but also the way these two relationships are taking over every usable hour of her life. The cover board, WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION, keeps feeling more pointed: politeness, invitation, dining, appetite, and the old warning about supping with danger. No separate tagline was supplied. From here I want the Anthro class because “just us” has a charge this chapter absolutely earns. I dread Vee learning the truth, because she is building her whole happiness on being chosen cleanly.
 
-I have no suspicion that Randi’s affection is fake. The text has earned the opposite: she wants Vee, likes her, is affected by her. My suspicion is about the hidden arrangement and the way Randi’s permissions keep arriving exactly where Vee is most vulnerable. Randi gives Vee language that heals her, but it also draws her further in.
+**Cast present (in person):** Vee, Randi.  
+Mentioned-only: Pace, Cassie, Dr. Marsh, Wardy.
 
-The title, “All the Time,” feels perfect after reading: it is Vee’s sex brain, her wanting Pace all week, the constantness of his attention, the way Randi is becoming an all-week hunger too even if brunch is only one morning. It also points to the way this arrangement is no longer a sequence of special scenes. It is becoming Vee’s life. *A Polite Invitation* keeps feeling more pointed: no one is dragging her, but every door is held open by someone who knows more than she does. *With a Long Spoon* still promises danger at a distance, eating with care, wanting something you maybe shouldn’t get too close to. There was no front-cover tagline; the blurb’s closing beat, “Every yes was freely given. That was the problem,” feels more and more like the nerve of the book.
+**Heat:** 2 — sustained erotic charge through confession, food, photos, and Vee’s growing want for Randi’s attention.
 
-What I want next is for Vee to keep reaching for Randi and finally have to notice what she is doing. What I dread is Cassie being left farther outside while Vee’s whole map of safety gets drawn by Pace and Randi. My guess from here: the Anthro class matters because it gives Vee and Randi a chosen private rhythm, not just accidental stats proximity.
+**Romance:** 2 — Vee’s love of Pace floods the chapter, and Randi’s “best friend” intimacy keeps deepening into something tenderer than Vee can name.
 
-**Cast Present (In Person):**  
-Vee, Randi.  
-Mentioned-only: Pace, Cassie, Dr. Marsh, Wardy, Tony Bennett.
+**Motifs & images:** Food/hunger repeats strongly: mimosas, Benedict, yolk, hollandaise, Pace’s cooking, Vee “finally hungry out loud.” Being looked at repeats through Pace’s attention and Randi studying the photos. Clothes/exposure recur in the uncropped picture and loose clothes hiding her. Music repeats with Pace’s playlists always already playing. Doors/rooms are softer here: the dark green booth as another enclosed, chosen room.
 
-**Heat:** 2 — no sex on-page, but sustained explicit sexual confession, erotic photo-sharing, food/body appetite, and the kiss keep it highly charged.
+**Symbolism:** The eggs Benedict reads as appetite made visible: the good costly order, the broken yolk, the middle spilling everywhere. The uncropped photo stands for Vee giving someone the whole version rather than the edited one.
 
-**Romance:** 2 — Vee’s love and belonging with Pace saturate the chapter, while Randi’s “best friend” intimacy and the chosen class deepen their bond.
+**Characterization:** Vee deepens beautifully: funnier, hungrier, more candid, more capable of choosing exposure. Randi deepens through the brief crack in her composure, though she also sharpens as a risk because her tenderness and steering are indistinguishable on the page. Pace remains consistent through Vee’s memory: careful, sensuous, domestic, intensely attentive.
 
-**Motifs & Images:**  
-Food/hunger repeats strongly: mimosas, Benedict, yolk, hollandaise, Pace’s cooking, “finally hungry out loud.”  
-Being looked at repeats: Pace looking, Randi looking at Vee’s mouth/hands/photo.  
-Clothes/body visibility repeats: loose clothes hiding Vee, the photo, “Miss November.”  
-Doors/rooms repeat lightly: the weekend as stepping through a door into color.  
-Music repeats: Pace’s always-on playlists, house knowing the evening.
+**Pace — within the chapter:** Slow, lush, earned; it holds in one booth but keeps opening through confession, food, photos, and the goodbye kiss.
 
-**Symbolism:**  
-The eggs Benedict reads as appetite made visible: the yolk breaking and “going everywhere” mirrors Vee’s own overflowing want. The cropped versus full photo stands for how much of herself she is ready to give and to whom.
-
-**Characterization:**  
-Vee deepens: joyful, hungry, funny, but increasingly organized around being wanted. Randi deepens too: her practiced glamour cracks with real feeling. Pace stays offstage but grows more central as a presence.
-
-**Pace — Within The Chapter:**  
-Slow and luxuriant in a way that fit the brunch. It did not drag for me because the point was accumulation, not event.
-
-**Pace — Chapter To Chapter:**  
-Building. After the explicit Pace chapters, this shifts the heat into confession and Randi’s gaze, widening the triangle without forcing Vee to name it yet.
+**Pace — chapter to chapter:** Building. After several Pace-saturated chapters, this pivots the heat toward Randi without dropping Pace, and the triangle feels tighter than ever.

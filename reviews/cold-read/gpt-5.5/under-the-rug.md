@@ -1,45 +1,36 @@
 # Cold read (grounded) — Under the Rug
 
-*scene: scenes/under-the-rug.md · model: gpt-5.5 · memory: ck-ch040 + raw ch041..ch042 · reader-protocol: v3-grounded-checkpoint · prose-sha ~025d1b3f1ab8*
+*scene: scenes/under-the-rug.md · model: gpt-5.5 · memory: ck-ch040 + raw ch041..ch043 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-I felt this chapter in my chest more than anywhere else. It starts with Vee already warm, already loved in every bodily way, and still unable to say the one word because the silence around it has become frightening. That opening ache worked hard on me: “afraid of the distance it would have to cross to reach him” is exactly the shape of the danger. It is not that Pace feels cruel there. It is worse and more believable than that: he feels loving, present, generous, and still maybe not giving her the thing she most needs.
+I felt this chapter like a bruise pressed under warm cloth: the tenderness is real, the sex is hot, and the ache underneath keeps refusing to stay tucked away. Vee is so alive to him that the simplest missing word has become enormous. The first line already hurts, because she is not wondering whether she feels it. She knows the word is “right there.” What frightens her is the crossing. That makes her feel terribly young to me, but not foolish. She has given so much of herself bodily that language has started to feel like the last locked door.
 
-My feeling about Vee sharpened into sympathy and a little dread. She is not being foolish. She is asking the right question badly because the real question is too naked to ask. “Is this what we are now?” is not really about Chili’s or being seen in public. It is about whether this has a name outside his house, outside sex, outside the warm dark where her body can believe what her mind cannot prove. I hurt for her when she chooses Chili’s almost spitefully, wanting “the opposite of anything he'd ever set in front of her,” and then discovers he has ruined ordinary things for her. That line landed: “He had ruined it for her, was the thing. Not just this.” It feels like love and dependence and loss of former innocence all at once.
+Pace still lands as deeply attentive, but this chapter finally let me feel how that attentiveness can fail her without him meaning harm. His answer to her accusation — “Where do you want to go tonight?” — is kind, practical, almost beautiful in its restraint, and also exactly not what she wants. He solves the visible request instead of hearing the buried one. At Chili’s, I didn’t read him as ashamed of her; the page earns something else. The screen, the noise, the fork-squaring, the irritation at the song: he is overwhelmed, not rejecting her. But because he does not explain until later, she has to sit there alone inside the worst story. I felt for both of them, which is an unpleasantly good place for the chapter to put me.
 
-Pace still draws me. I trust his immediate response more than I expected to: “Where do you want to go tonight?” is almost unbearably decent because he does not punish the accusation, does not make her beg prettily, does not correct her first. And then the explanation of the restaurant changes the whole public dinner scene. The fork-squaring, the eyes pulled by screens, the irritation at noise: I believe him. The text earns that. It does not feel like an excuse. It feels like a real limit she misread through fear.
+The erotic charge absolutely works on me here, maybe especially because it is tangled with the fight. Her wanting him to lose control, to “take her and be done with all the patience,” is one of the sharpest things in the chapter. It is not just lust; it is her wanting proof that he needs her in a way he cannot manage. When he finally does lose the carefulness and comes into her urgently, it lands hot because it gives her exactly the bodily evidence she wanted. But then the chapter takes that heat and refuses to let it reassure her. “He’d given her all of it and not the name.” That line turns the whole scene after the fact. The body can prove something, but not enough.
 
-But I also feel the absence. His “I’m listening now” is beautiful, and it is not enough. That is the chapter’s cruel tenderness: he can answer the surface complaint with care, and still leave the deeper hunger untouched. I do not suspect Pace of not caring. I do suspect, or maybe only fear, that his care has boundaries Vee cannot see yet. He gives so much in forms he knows how to give: attention, food, touch, patience, control, explanation. But when she needs a name, he does not give one.
+I trust Pace’s explanation about the restaurant. “In a room like that I listen as hard as I know how and I still can’t hear you” felt true to him and true to what we saw at the table. I don’t feel suspicion there. The suspicion I do feel is larger and already there from before: Vee keeps having to interpret him through gaps because there are things unsaid all around her. In this chapter, the immediate gap is not the Randi secret; it is the love gap, the public-name gap, the ordinary-definition gap. But because I know he and Randi have a whole hidden structure under Vee’s life, every silence of his has extra shadow whether this particular silence deserves it or not.
 
-The erotic charge absolutely works for me here, maybe because it is inseparable from the emotional wound. His mouth on her breasts, the way she feels him take comfort there, the long patience turning into her wanting him to lose control: that is hot because it is specific to them. The peak for me is when “the patience went out of him.” She has wanted proof that she can undo him, and for a moment she gets it bodily. It is not coy at all, but it stays warm and consensual; the heat comes from his restraint breaking after all that listening and delay. And then the chapter refuses to let orgasm solve the problem. That made the sex feel more adult, not less erotic.
+My friction is mostly with Vee’s self-protective logic, but in a good, painful way rather than disbelief. When she says, “You went cold on me after the Rusty Nail,” I flinched because I know she knows that is not true. The chapter knows it too: “Some back room of her knew.” That kept me with her instead of against her. I did not feel the author forcing the fight; I felt Vee grabbing the wrong handle because the right one — love me, name this, say it — is too dangerous to touch.
 
-The title, “Under the Rug,” feels exact after reading. Vee keeps sweeping the real thing away: the almost-love, the bad feeling after his porch answer, her knowledge that she lied about the Rusty Nail coldness, the question of what they are. “Forgiven” becomes another rug, a neat word laid over something still moving underneath. The book title, *A Polite Invitation*, keeps feeling more dangerous because Vee is being invited so gently, so attentively, into places where she chooses everything and still does not know the whole frame. *With a Long Spoon* still promises distance from something tempting and dangerous. There was no front-cover tagline, and the blurb’s closing beat, “Every yes was freely given. That was the problem,” feels louder here because Vee’s yes is so real and her uncertainty is also real.
+The title, “Under the Rug,” feels brutally apt after reading. This is where she keeps sweeping the real question: not gone, just hidden under the domestic warmth and sex and food and practical kindness. It also points to the way explanations can tidy a night without actually cleaning it. The cover-board line, **WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION**, keeps feeling more ominous as the book goes on. “A Polite Invitation” sounds like manners, consent, entry by choice; and much of Vee’s experience is genuinely that. But “with a long spoon” still suggests distance from something dangerous, and this chapter makes me feel how close she is while still not knowing what exactly she is eating from.
 
-What I want next is for Vee to ask the direct question, but I do not believe she will yet. My guess from here is that the pressure will move sideways, probably toward Randi, because Vee cannot get the name from Pace and Randi is the person who names things for her. I dread that, because Randi is the least safe person to be handed this particular ache.
+What I want next is for Vee to stop having to translate everything alone. My guess from here is that she may bring this to Randi before she brings it to Pace, because Randi has become the place she puts the sexual and emotional middle. I dread that, because Randi can comfort her beautifully and still keep the central lie intact. I want Pace to say the word. I am beginning to fear that even if he does, the hidden arrangement will make the word arrive already compromised.
 
-**Cast Present (In Person):**  
-Vee and Pace.  
-Mentioned only: Vee’s mother, Vee’s father.
+**Cast present (in person):** Vee, Pace.  
+Mentioned-only: no named person is materially present by name; the hostess appears but is unnamed.
 
-**Heat:** 3 — graphic, sustained sex is central, with oral sex, intercourse, orgasm, and aftermath carrying the emotional stakes.
+**Heat:** 3 — the wanting dominates, especially her need for his control to break and the way it finally does.
 
-**Romance:** 2 — deep tenderness and intimacy, but the missing declaration keeps it from becoming a romantic peak.
+**Romance:** 2 — real intimacy and listening, but the missing name keeps it from becoming a romantic peak.
 
-**Motifs & Images:**  
-Food/hunger repeats strongly: Chili’s nachos versus Pace’s cooking, crackers/meals echoing the prior chapter.  
-Public/private repeats: house, truck, restaurant, bed; the question of being seen outside his space.  
-Names repeat: boyfriend/love/name as something she cannot secure.  
-Noise/listening appears as a strong first-or-deepened image: the loud restaurant versus “I’m listening now.”
+**Motifs & images:** Warm house vs loud public restaurant repeats the warm/private vs exposed/public contrast. Food/appetite recurs sharply: Chili’s nachos collapse beside Pace’s cooking, echoing crackers/meals and the pizza chapter. Naming recurs as the central wound: love, boyfriend, “what we are.” Listening/being heard returns in his “I’m listening now.”
 
-**Symbolism:**  
-The nachos stand for Vee’s old “fine” life, now spoiled by having known something richer. The rug is the mental place where she keeps putting unresolved pain.
+**Symbolism:** Chili’s stands for the old ordinary she can no longer live inside; Pace’s food has changed her palate and her standards for care. “Under the rug” becomes the place where unnamed feelings and unresolved doubts are stored.
 
-**Characterization:**  
-Vee deepens: her hunger is no longer only sexual, and her self-deception is painfully visible. Pace deepens too through the loud-room explanation, though he remains emotionally withheld around naming.
+**Characterization:** Vee deepens: needy, unfair, perceptive, ashamed, and painfully honest inside herself. Pace stays consistent in care and restraint, but also becomes more legible as someone whose quiet can leave her stranded.
 
-**Pace — Within The Chapter:**  
-Earned its length. The dinner scene drags in exactly the way it should: loud, flat, disappointing, then reinterpreted.
+**Pace — within the chapter:** The chapter earns its length; the restaurant discomfort, fight, sex, and after-dark doubt all turn the same screw tighter.
 
-**Pace — Chapter To Chapter:**  
-Building. The previous chapter opened the wound around “I love how good we are together”; this chapter presses directly on that bruise without resolving it.
+**Pace — chapter to chapter:** Building. The recent chapters opened the love-word wound; this one presses it until warmth alone no longer soothes it.
