@@ -151,13 +151,13 @@ Randi sat back. She let out a long breath, the air going out of the closeness al
 
 ---
 
-The check came in a leather folder the color of the booth. Randi reached for it — "oh, let me" — but Vee already had her card out, as she always did, because the one thing she would not do at this table was let Randi buy her seat at it.
+The checks came in leather folders the color of the booth, one to each of them. Randi's hand went toward Vee's — "oh, let me" — but Vee already had her card out, as she always did, because the one thing she would not do at this table was let Randi buy her seat at it.
 
 "You're sure?"
 
-"I'm sure, it's nothing." It was not nothing. Vee laid the debit card on the folder and felt the little familiar drop as she let go of it, the awareness of the number it was speaking to, the number that would be smaller tonight in a way she would feel on Thursday. The glass of wine alone had cost more than everything Vee had eaten. She did not do the arithmetic out loud. She smiled and signed the slip and tipped well, because the other thing she would not do was be the broke girl who tipped badly, and she put the card away.
+"I'm sure, it's nothing." It was not nothing. Vee laid the debit card on her own folder and felt the little familiar drop as she let go of it, the awareness of the number it was speaking to, the number that would be smaller tonight in a way she would feel on Thursday. On the folder across the table, one glass of wine had cost more than everything on hers. She did not do the arithmetic out loud. She smiled and signed the slip and tipped well, because the other thing she would not do was be the broke girl who tipped badly, and she put the card away.
 
-Randi watched her do all of it, warm and easy, and did not reach for the folder again.
+Randi watched her do all of it, warm and easy, and did not reach again.
 
 ---
 

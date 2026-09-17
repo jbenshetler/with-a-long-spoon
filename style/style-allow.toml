@@ -2146,6 +2146,13 @@ text = "\"There was — \""
 note = "interrupted-confession beat — kept (author)"
 
 [[ok]]
+fp   = "7b343bc31d9f"
+rule = "warm"
+file = "scenes/how-its-done.md"
+text = "Randi watched her do all of it, warm and easy, and did not reach again."
+note = "Author sign-off 2026-09-17: re-armed only because the separate-checks edit reshaped the sentence; wording unchanged."
+
+[[ok]]
 fp   = "6a0dd1f82a5d"
 rule = "began-to"
 file = "scenes/in-her-place.md"
