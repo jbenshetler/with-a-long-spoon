@@ -34,7 +34,7 @@ So Vee went slower, and took her time with it, because the table was hers tonigh
 
 "You were right." Vee laid her hands flat on the cloth, formal, a treaty signing. "You were completely right, about all of it, and I'm never going to hear the end of it, and I don't even mind."
 
-"Fear needs a face, baby. You gave it one." She reached across and took a gnocchi off Vee's plate with her fingers, which was the closest thing to eating she'd done in twenty minutes — her own fish had one exact bite out of it and had been sitting there cooling since. "That's all that ever was."
+"Fear needs a face, baby. You gave it one." Half her fish was gone and half of it was going to stay there; she had eaten to the middle of the fillet and laid the fork down across the plate, and what she did with her hands after that was reach across the cloth and take Vee's and keep it, turning the fingers over one at a time while she listened. "That's all that ever was."
 
 "And," Vee said, "she's gay."
 
@@ -74,9 +74,9 @@ Which is how she got to the last of it without deciding to.
 
 Vee made it about a second before the giggle came up out of her and took her eyes down with it, and she went on telling the tablecloth. "Then the leg — the whole bare January leg, the entire way down, in no hurry about one inch of it — and then my feet, and she *stuck* on my feet. In a whole room. With him standing right there." Vee laid her fork across her plate. "She never graded me at all, Randi. She was enjoying herself."
 
-Randi's hand was already out over the plate for another one, and it stopped.
+Randi's thumb stopped on the back of Vee's hand.
 
-It was nothing. It was less than nothing — two fingers halfway to a gnocchi, going nowhere for a second, a woman losing the thread of what her own hand was doing. Vee only caught it because she had been watching Randi's face for the laugh.
+It was nothing. It was less than nothing — a thumb gone still mid-pass, sitting where it had been moving, a woman losing the thread of what her own hand was doing. Vee had it under her skin before she had it anywhere else, and she looked up only because she had been waiting on Randi's face for the laugh.
 
 "Huh," Randi said.
 
@@ -94,7 +94,7 @@ Something went through Vee, warm and low, at being looked after that hard by som
 
 "Randi. She's not a threat." She said it gently. "That's the whole point of the story. She was never a threat, not for one second, not even in the version I made up."
 
-And Randi's hand finished its trip, and took the gnocchi, and ate it.
+And Randi's thumb took up where it had left off, and went on over the knuckles, and stayed.
 
 "I know she isn't, gorgeous," she said.
 
@@ -122,7 +122,7 @@ Randi put her wine down and came forward onto her forearms, and Vee felt the sma
 
 At ten the room below them began stacking chairs at people with practiced apology. They paid at the little terminal and took their coats off the hook — Vee turning hers lining-to-the-wall, a habit she had stopped noticing she had — and came down the steep stair past the jukebox, its green water still climbing for nobody.
 
-Then the cold, and Randi's hands on both her arms, and the mouth, soft, and the small pause, and the second press after it. Then the hug, coats crushed between them, the bitter orange coming off her collar with the green at its edge. Vee's face arrived at the side of Randi's neck and she put her mouth there in passing, and nothing was said about it by either of them.
+Then the cold, and Randi's hands came onto both her arms, and Vee brought her face up and around before Randi had started to, and stopped there with her eyes already closed, waiting on the hand. It came — fingers at the hinge of her jaw, steadying her — and Randi kissed her on the mouth, and then didn't quite let it be over: a draw-back no wider than a breath, a wait held inside it, and her mouth again, and this time it stayed. Then the hug, coats crushed between them, the bitter orange coming off her collar with the green at its edge. Vee's face landed at the side of Randi's neck and her mouth went there in passing, and neither of them said a word about it.
 
 "Thursday."
 
