@@ -34,7 +34,15 @@ The words landed with a little echo on them, and Vee heard, faintly, that she'd 
 
 "That way too," Pace said. "She can be like that." He said it without a flicker, easy, matter-of-fact. He'd caught exactly what she meant; he always caught it. He just never pretended not to have.
 
-"No—" Vee got herself back. "No, we're good. It was—" She waved the fork. "I liked it, honestly. Best thing that's happened to my legs in a Virginia January." She ate another bite, warm all through in a way the tea hadn't done by itself, and the ease of it, the whole soft domestic ordinary morning of it, opened the next thing in her the way one thing always opened another with him.
+"No—" Vee got herself back. "No, we're good. It was—" She waved the fork. "I liked it, honestly. Best thing that's happened to my legs in a Virginia January."
+
+She ate another bite, warm all through in a way the tea hadn't done by itself, and Tuesday came up and sat down across from her. Randi didn't know any of it yet. Randi, who over break had pushed the hair off her face like a child's and made her say out loud what the woman looked like — *blonde, tan, built like a model* — and then asked, easy as anything, how she knew that, and let her sit in her own answer. *Don't you dare hand him to a woman who doesn't even have a face.* Vee had gone back to school with her anyway. Downgraded. Still out there somewhere, still coming through doors.
+
+Two days and she'd put the real one on the table. Five foot nothing with her boots on, two colors of hair, her face made up a hair off the line, a voice built for a barn — and gay, which Vee had been turning over in her hand since last night like a coin she kept finding in the same pocket. *I don't have to be jealous.* She tried the sentence out over the eggs and it held from every side. Randi was going to be insufferable about having been right, and Vee was going to let her, was going to lay the whole thing out and hand her the win with both hands.
+
+The best of it she'd keep for last, because it was the best of it and because it was hers: that look, which she had by heart now — the keyhole, the bare leg, the shoes — each one held long enough to be certain she'd noticed, and the laugh that had come up out of the middle of her in answer, loud, at nothing at all.
+
+And the ease of it, the whole soft domestic ordinary morning of it, opened the next thing in her the way one thing always opened another with him.
 
 "I'd love to meet your other friends," she said.
 
