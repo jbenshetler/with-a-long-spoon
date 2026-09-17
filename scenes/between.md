@@ -40,7 +40,7 @@ So Vee went slower, and took her time with it, because the table was hers tonigh
 
 Randi's whole face opened. "*Gay.*"
 
-"Came out last March. She's got an ex named Paige and she watched the bartender walk away from our table like a woman watching a parade."
+"She's out, and not quiet about it. She watched the bartender walk away from our table like a woman watching a parade."
 
 "God." Randi sat back into the corner of the booth and put a hand over her mouth and laughed into it, and then took the hand down. "A month. You gave that girl a month of your life, and the entire time—"
 
@@ -50,6 +50,12 @@ Randi's whole face opened. "*Gay.*"
 
 "She calls him *that man.* Like he's a road condition."
 
+Then the other part came up in her, and she went slower with it, because it wasn't hers to spend.
+
+"She came out last spring and it went badly. That part's hers — I'm not going to sit here and hand it around." She moved a gnocchi to the edge of her plate and left it there. "But he's the one who showed up. Not her family. Not her church, not the girls she'd known since she was little. Him. He drove her home, and he was back on her porch in the morning with coffee, and then he fixed the lock her landlord had been promising since August. Two years he's been her friend, and he never told me one word of it. I had to get it from her at the table, while he was off at the bar."
+
+Saying it out loud did something to her that hearing it hadn't. Vee took a drink she hadn't wanted and set the glass down and let her face do what it was doing. *That man.* Hers.
+
 It went on like that for a while, and Vee spent all of it, everything she had, because there was no floor to this and never had been; Randi turned each piece of it in the light until she'd found where it was best, and handed it back improved. And it was the best kind of telling, the kind where you keep finding one more thing you'd forgotten you had.
 
 Which is how she got to the last of it without deciding to.
@@ -58,7 +64,15 @@ Which is how she got to the last of it without deciding to.
 
 "Course she did."
 
-"No — she *looked* at me. She came around the table and planted herself in front of me and went down me, my face to my shoes, and took her time getting there, and then stopped on the shoes. In a whole room. With him standing right there."
+"No — she *looked* at me. She came around the table and planted herself in front of me and started at my face, and I stood there and took it, because I know that look. Every woman alive knows that look. She's adding up the outfit — is the makeup too much, is the shirt hers or borrowed, what are the shoes supposed to be saying — and she'll have a number on you before the door's finished closing." Vee turned her glass by the base. "So there I am, waiting for my number."
+
+"And?"
+
+"And it never came. She got as far as the keyhole in Meg's shirt and quit adding."
+
+"Mm," Randi said. Her eyes came up and settled on Vee's and stayed. "No complaints there."
+
+Vee made it about a second before the giggle came up out of her and took her eyes down with it, and she went on telling the tablecloth. "Then the leg — the whole bare January leg, the entire way down, in no hurry about one inch of it — and then my feet, and she *stuck* on my feet. In a whole room. With him standing right there." Vee laid her fork across her plate. "She never graded me at all, Randi. She was enjoying herself."
 
 Randi's hand was already out over the plate for another one, and it stopped.
 
