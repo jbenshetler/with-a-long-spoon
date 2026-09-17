@@ -290,6 +290,12 @@ Sixteen years of dance (she started at five), six of cheer. This is the body's h
 
 **Render discipline:** backstory, not exposition. It shows in the body — the carriage, the trained ease of being looked at — and in the single place it fails. Never hand the reader "she was a dancer, so —"; let the trained line and its one blind spot carry it. Already latent in {{The Bench}} prose (the dancer's legs; the decade-of-dance line under pressure). Physical-surface rendering lives in `meta-craft-randi.md` (Physical Description).
 
+## Origins — Central Florida
+
+**The family lives in central Florida.** On the page in {{Fairytale}}: *"She was from central Florida, and did not mention it"* (`fairytale.md:39`), the only statement of her origin anywhere in the prose.
+
+**She was born in Kentucky** (ruled 2026-09-17), and the family moved to central Florida before she started primary school. Kentucky has never appeared in the prose.
+
 ## The Father — Miranda Interests
 
 *(Scene draft: `outlier.md`; craft in `meta-note-outlier.md`.)*
