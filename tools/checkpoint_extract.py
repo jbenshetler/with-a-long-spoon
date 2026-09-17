@@ -254,7 +254,7 @@ def main() -> None:
             print(f"[auth] openrouter — billing PER TOKEN (author-authorized) · {args.model}",
                   file=sys.stderr)
             agent_fn = cold_read.make_openrouter_agent_fn(
-                system_prompt=system_prompt, effort=args.effort, timeout=2400,
+                system_prompt=system_prompt, policy="mint", effort=args.effort,
                 max_output_tokens=args.max_output_tokens, api_key=key)
             close = (lambda: None)
         else:

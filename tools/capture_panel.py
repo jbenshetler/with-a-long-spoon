@@ -72,11 +72,23 @@ def volume_user_prompt() -> str:
     return "\n".join(parts)
 
 
-DAG_GATE_TITLE_CHECKS = {
-    49: "Not Enough",
-    50: "My Friend Randi",
-    51: "Nothing Underneath",
-}
+def _dag_gate_title_checks() -> dict[int, str]:
+    """The final three Volume One gates, resolved from the chronology.
+
+    Was a literal `{49: "Not Enough", 50: "My Friend Randi", 51: "Nothing
+    Underneath"}`, which went silently off-by-one when `strokes` and
+    `not-enough` were inserted (2026-09-17) — the gate check then looked for
+    chapter numbers that no longer matched those titles. Derive, never
+    hardcode: the chapters are named, their positions are computed."""
+    import volume_scenes
+    slugs = volume_scenes.volume_slugs(1, drafted_only=True)[-3:]
+    return {
+        volume_scenes.chapter_number(slug): checkpoint_bundle.display_title(slug)
+        for slug in slugs
+    }
+
+
+DAG_GATE_TITLE_CHECKS = _dag_gate_title_checks()
 
 
 def interview_record_path(model_id: str, persona: str, *, dag: bool = False) -> Path:
@@ -294,8 +306,7 @@ def main() -> None:
         for p in personas:
             text, sha = prompts[p]
             fn = cold_read.make_openrouter_agent_fn(
-                system_prompt=text, effort=args.effort, timeout=2400,
-                max_output_tokens=8000, api_key=key)
+                system_prompt=text, policy="capture", effort=args.effort, api_key=key)
             sub = [(m, a) for m in om for a in arms if (m, p, a) in task_set]
             with ThreadPoolExecutor(max_workers=4) as pool:
                 list(pool.map(

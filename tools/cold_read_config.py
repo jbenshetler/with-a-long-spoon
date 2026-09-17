@@ -41,6 +41,30 @@ def reader_settings(model_id: str) -> dict[str, Any]:
     return {}
 
 
+def openrouter_routing() -> dict[str, Any]:
+    """The provider-routing block sent with every OpenRouter call.
+
+    Filters the endpoint pool by numeric precision; see the `[openrouter]`
+    comment in ensemble-config.toml for why this is not optional."""
+    block = dict(load_config().get("openrouter", {}))
+    block.pop("policy", None)
+    return block
+
+
+def openrouter_policy(tag: str) -> dict[str, Any]:
+    """Call parameters for one use (`mint`, `read`, `judge`, `audit`, `capture`).
+
+    Raises on an unknown tag rather than silently falling back to defaults —
+    an unnamed policy is how per-tool drift got in."""
+    policies = load_config().get("openrouter", {}).get("policy", {})
+    if tag not in policies:
+        raise KeyError(
+            f"unknown openrouter policy {tag!r}; "
+            f"known: {', '.join(sorted(policies)) or '(none)'}"
+        )
+    return dict(policies[tag])
+
+
 def checkpoint_source(model_id: str) -> str:
     return str(reader_settings(model_id).get("checkpoint_source", "native"))
 

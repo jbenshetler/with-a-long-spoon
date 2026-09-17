@@ -61,6 +61,28 @@ class _Codex:
 
 
 import cold_read_batch
+import contextlib
+
+
+@contextlib.contextmanager
+def healthy_seam(bundle, vol1_len=50):
+    """Mock a Volume One whose end coincides with the recorded seam.
+
+    The live seam is deliberately stale — ck-ch050 covers through
+    `not-enough` while Volume One now ends at `nothing-underneath` (author
+    deferred the cutover 2026-09-17). Exactly one test owns that fact
+    (`test_live_seam_is_currently_stale_and_fails_closed`); tests of packet
+    assembly and argument construction mock a healthy seam so they fail only
+    for their own reasons."""
+    vol1 = [f"vol1-{n}" for n in range(vol1_len)]
+    seed = vol1[-1]
+    with patch.object(bundle, "reader_slugs",
+                      return_value=vol1 + [f"vol2-{n}" for n in range(10)]), \
+         patch.object(bundle.volume_scenes, "volume_last_slug", return_value=seed), \
+         patch.object(bundle.volume_scenes, "chapter_number",
+                      side_effect=lambda s: vol1.index(s) + 1), \
+         patch.dict(bundle.CHECKPOINT_SEEDS, {60: seed}, clear=True):
+        yield
 
 
 class _Sandbox:
@@ -151,6 +173,7 @@ class CodexAdapterTests(unittest.TestCase):
         with patch.dict(sys.modules, {"openai": fake_openai}):
             agent_fn = self.module.make_openrouter_agent_fn(
                 system_prompt="blind-reader instructions",
+                policy="read",
                 effort="none",
                 timeout=30,
                 max_output_tokens=4000,
@@ -161,6 +184,46 @@ class CodexAdapterTests(unittest.TestCase):
             self.assertEqual(_OpenAI.last.kwargs["api_key"], "router-token")
             self.assertEqual(_OpenAI.last.chat.completions.kwargs["max_tokens"], 4000)
             self.assertIsNone(result["usage"]["cost"])
+
+    def test_openrouter_always_sends_provider_routing_policy(self):
+        """The fp4 guard must ride on every call — see ensemble-config [openrouter]."""
+        fake_openai = types.SimpleNamespace(OpenAI=_OpenAI)
+        with patch.dict(sys.modules, {"openai": fake_openai}):
+            agent_fn = self.module.make_openrouter_agent_fn(
+                system_prompt="s", policy="read", api_key="k",
+            )
+            agent_fn(prompt="p", model="z-ai/glm-5.3", label="l")
+            provider = _OpenAI.last.chat.completions.kwargs["extra_body"]["provider"]
+            self.assertIn("fp8", provider["quantizations"])
+            self.assertNotIn("fp4", provider["quantizations"])
+            self.assertTrue(provider["require_parameters"])
+
+    def test_openrouter_enforces_deadline_python_side(self):
+        """The SDK timeout is per-socket-op and a slow provider can outlive it."""
+        class _Hang:
+            def create(self, **kwargs):
+                import time as _t
+                _t.sleep(30)
+
+        class _HangOpenAI:
+            def __init__(self, **kwargs):
+                self.chat = types.SimpleNamespace(completions=_Hang())
+
+        fake_openai = types.SimpleNamespace(OpenAI=_HangOpenAI)
+        with patch.dict(sys.modules, {"openai": fake_openai}):
+            agent_fn = self.module.make_openrouter_agent_fn(
+                system_prompt="s", policy="read", api_key="k", timeout=0.4,
+            )
+            with self.assertRaisesRegex(RuntimeError, "exceeded its 0.4s deadline"):
+                agent_fn(prompt="p", model="m", label="lbl")
+
+    def test_openrouter_policy_supplies_per_use_token_cap(self):
+        """mint and read are different call shapes and must not share a cap."""
+        import cold_read_config
+        self.assertEqual(cold_read_config.openrouter_policy("mint")["max_output_tokens"], 80000)
+        self.assertEqual(cold_read_config.openrouter_policy("read")["max_output_tokens"], 18000)
+        with self.assertRaisesRegex(KeyError, "unknown openrouter policy"):
+            cold_read_config.openrouter_policy("nope")
 
     def test_provider_completion_rejects_truncation_signals(self):
         grounded = importlib.import_module("cold_read_grounded")
@@ -256,7 +319,8 @@ class DonorMemoryTests(unittest.TestCase):
         launch.assert_not_called()
 
     def test_checkpoint_packet_uses_cross_volume_reader_bundle(self):
-        with tempfile.TemporaryDirectory() as td:
+        with tempfile.TemporaryDirectory() as td, \
+                healthy_seam(self.grounded.checkpoint_bundle):
             packet_dir = Path(td)
             fingerprints = {
                 "source_sha256": "s",
@@ -292,23 +356,48 @@ class CheckpointPolicyTests(unittest.TestCase):
         self.bundle = importlib.import_module("checkpoint_bundle")
 
     def test_checkpoint_seed_policy_is_explicit(self):
+        """Volume One boundaries are raw passes; later seams must be named."""
         self.assertEqual(self.bundle.checkpoint_plan(50), (None, 1))
-        self.assertEqual(self.bundle.checkpoint_plan(60), (50, 51))
         with self.assertRaisesRegex(ValueError, "no explicit checkpoint seed policy"):
             self.bundle.checkpoint_plan(70)
 
-    def test_first_volume_two_seed_fails_closed_when_volume_one_moves(self):
+    def test_seed_is_keyed_by_slug_and_survives_renumbering(self):
+        """The seam is a name, so inserting a chapter must not move it.
+
+        Regression for 2026-09-17: the seam was stored as the number 50 and
+        silently stopped meaning 'end of Volume One' when two chapters were
+        inserted."""
+        vol1 = [f"vol1-{n}" for n in range(52)]
         with patch.object(
-            self.bundle, "reader_slugs", return_value=[f"scene-{n}" for n in range(60)]
+            self.bundle, "reader_slugs", return_value=vol1 + [f"vol2-{n}" for n in range(10)]
         ), patch.object(
-            self.bundle.volume_scenes,
-            "volume_one_slugs",
-            return_value=[f"vol1-{n}" for n in range(51)],
-        ):
-            with self.assertRaisesRegex(
-                ValueError, "drafted Volume One ends at ch051"
-            ):
+            self.bundle.volume_scenes, "volume_last_slug", return_value="vol1-51"
+        ), patch.object(
+            self.bundle.volume_scenes, "chapter_number",
+            side_effect=lambda s: vol1.index(s) + 1,
+        ), patch.dict(self.bundle.CHECKPOINT_SEEDS, {60: "vol1-51"}, clear=True):
+            # vol1-51 is the 52nd chapter; the seam resolves to 52 with no literal.
+            self.assertEqual(self.bundle.checkpoint_plan(60), (52, 53))
+
+    def test_first_volume_two_seed_fails_closed_when_volume_one_moves(self):
+        vol1 = [f"vol1-{n}" for n in range(52)]
+        with patch.object(
+            self.bundle, "reader_slugs", return_value=vol1 + [f"vol2-{n}" for n in range(10)]
+        ), patch.object(
+            self.bundle.volume_scenes, "volume_last_slug", return_value="vol1-51"
+        ), patch.object(
+            self.bundle.volume_scenes, "chapter_number",
+            side_effect=lambda s: vol1.index(s) + 1,
+        ), patch.dict(self.bundle.CHECKPOINT_SEEDS, {60: "vol1-40"}, clear=True):
+            with self.assertRaisesRegex(ValueError, "drafted Volume One ends at 'vol1-51'"):
                 self.bundle.checkpoint_plan(60)
+
+    def test_live_seam_is_currently_stale_and_fails_closed(self):
+        """Documents real repo state: ck-ch050 covers through `not-enough`,
+        but Volume One now ends at `nothing-underneath`. Deferred by the author
+        2026-09-17; this test flips to the happy path at cutover."""
+        with self.assertRaisesRegex(ValueError, "nothing-underneath"):
+            self.bundle.checkpoint_plan(60)
 
     def test_checkpoint_metadata_reads_first_and_middle_fields(self):
         raw = (
@@ -607,8 +696,9 @@ class HarnessParsingTests(unittest.TestCase):
 
     def test_checkpoint_plan_uses_one_prior_volume_seed(self):
         bundle = importlib.import_module("checkpoint_bundle")
-        self.assertEqual(bundle.checkpoint_plan(50), (None, 1))
-        self.assertEqual(bundle.checkpoint_plan(60), (50, 51))
+        with healthy_seam(bundle):
+            self.assertEqual(bundle.checkpoint_plan(50), (None, 1))
+            self.assertEqual(bundle.checkpoint_plan(60), (50, 51))
 
     def test_seeded_checkpoint_source_strips_persisted_header(self):
         bundle = importlib.import_module("checkpoint_bundle")
@@ -626,9 +716,10 @@ class HarnessParsingTests(unittest.TestCase):
 
     def test_grounded_mint_args_require_frozen_seed_after_volume_one(self):
         grounded = importlib.import_module("cold_read_grounded")
-        args = grounded.checkpoint_extract_args(
-            "gpt-5.6-sol", "gpt-5.6-sol", 60
-        )
+        with healthy_seam(grounded.checkpoint_bundle):
+            args = grounded.checkpoint_extract_args(
+                "gpt-5.6-sol", "gpt-5.6-sol", 60
+            )
         self.assertEqual(args[:6], ["--model", "gpt-5.6-sol", "--from", "51", "--to", "60"])
         self.assertIn("--reader-sequence", args)
         seed_index = args.index("--seed-checkpoint") + 1
@@ -643,8 +734,9 @@ class HarnessParsingTests(unittest.TestCase):
             "claude-opus-4-8",
             "gpt-5.6-sol",
             "gpt-5.5",
+            "claude-opus-5",
             "kimi-k3",
-            "glm-5.3-flash",
+            "glm-5.3",
             "qwen3.8-max-0902",
             "deepseek-v4-pro-0813",
         }

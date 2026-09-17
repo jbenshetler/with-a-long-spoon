@@ -311,8 +311,7 @@ def make_agent(model_id: str, effort: str):
             k = hashlib.sha256(system.encode()).hexdigest()[:8]
             if k not in holders:
                 holders[k] = cold_read.make_openrouter_agent_fn(
-                    system_prompt=system, effort=effort, timeout=OR_TIMEOUT,
-                    max_output_tokens=OR_MAX_OUTPUT, api_key=key)
+                    system_prompt=system, policy="capture", effort=effort, api_key=key)
             r = holders[k](prompt=prompt, model=selector, label=label) or {}
             return r.get("output") or ""
         return fn, (lambda: None)

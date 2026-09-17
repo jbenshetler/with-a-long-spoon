@@ -51,6 +51,9 @@ import uuid
 import zipfile
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import volume_scenes  # noqa: E402  (the volume-membership authority)
+
 SERIES_NAME = "With a Long Spoon"
 LANGUAGE = "en-US"
 COPYRIGHT_YEAR = "2026"
@@ -661,6 +664,25 @@ def main():
                            vol["name"])
     if not entries:
         sys.exit(f"no Volume {vol['name']} chapters found in the chronology")
+
+    # Cross-check membership against the volume authority. parse_volume stays
+    # responsible for epub-specific extraction (display title, slug-vs-cited
+    # filename preference), but it detects the volume marker with its own
+    # looser regex, so its roster could silently diverge from every other
+    # tool's. volume_scenes.py parses the same ◆ VOLUME markers and is what the
+    # cold-read harness uses; a disagreement means one of them is wrong and the
+    # build must not guess which. (2026-09-17: chapter insertions moved Volume
+    # One's end and broke four call sites that each kept their own idea of it.)
+    _authority = set(volume_scenes.volume_slugs(int(vol["series_index"]),
+                                                drafted_only=False))
+    _parsed = {fn[:-3] for _t, fn, _c in entries if fn}
+    _drift = _parsed ^ _authority
+    if _drift:
+        sys.exit(
+            f"Volume {vol['name']} roster disagrees with volume_scenes.py: "
+            f"{', '.join(sorted(_drift))}. Reconcile the ◆ VOLUME markers in "
+            f"{args.chronology} before building."
+        )
 
     chapters, missing = [], []
     for title, slug_fn, cited in entries:

@@ -4,15 +4,61 @@ version = 1
 models = [
   "claude-fable-5",
   "claude-opus-4-8",
+  "claude-opus-5",
   "gpt-5.6-sol",
   "gpt-5.5",
   "kimi-k3",
-  "glm-5.3-flash",
+  "glm-5.3",
   "qwen3.8-max-0902",
   "deepseek-v4-pro-0813",
 ]
 fast = ["claude-opus-4-8", "gpt-5.6-sol"]
 retired = ["claude-sonnet-5", "gpt-5.6-terra"]
+
+# ---------------------------------------------------------------------------
+# OpenRouter provider routing + per-use policy.
+#
+# `[openrouter]` is the routing floor applied to EVERY OpenRouter call, from
+# every tool. OpenRouter free-routes across ~20-33 endpoints per model at
+# mixed numeric precision; the low-precision ones return malformed artifacts.
+# On 2026-09-17 a Volume 1 remint lost 4 of 10 paid mints this way — Parasail
+# served kimi-k3 at fp4 (11k reasoning tokens, none of the 8 required
+# headings) while serving glm-5.3 at fp8 without trouble, so the fault is the
+# quantization, not the provider. `require_parameters` additionally drops
+# endpoints that accept `reasoning_effort` and ignore it (Wafer returned
+# reasoningTokens=1 on an effort=high call).
+#
+# `[openrouter.policy.<tag>]` blocks carry per-use call parameters and inherit
+# the routing floor. Callers pass a tag, never raw numbers, so the values stay
+# declared in one place instead of drifting across tools.
+[openrouter]
+quantizations = ["fp8", "bf16"]
+require_parameters = true
+
+[openrouter.policy.mint]          # checkpoint_extract — 10-50 chapters per call
+effort = "high"
+timeout = 2400
+max_output_tokens = 80000
+
+[openrouter.policy.read]          # cold_read_grounded — one chapter per call
+effort = "low"
+timeout = 2400
+max_output_tokens = 18000
+
+[openrouter.policy.judge]         # cold_read_judge
+effort = "low"
+timeout = 2400
+max_output_tokens = 18000
+
+[openrouter.policy.audit]         # authorship_audit
+effort = "low"
+timeout = 2400
+max_output_tokens = 8000
+
+[openrouter.policy.capture]       # capture_dag / capture_panel
+effort = "low"
+timeout = 900
+max_output_tokens = 16000
 
 [readers."qwen3.8-max-0902"]
 vendor = "alibaba"

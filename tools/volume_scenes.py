@@ -76,8 +76,42 @@ def scenes_for_volume(vol: int, drafted_only: bool = False) -> list[dict]:
     return result
 
 
+def volume_slugs(vol: int, drafted_only: bool = True) -> list[str]:
+    return [s["slug"] for s in scenes_for_volume(vol, drafted_only=drafted_only)]
+
+
 def volume_one_slugs(drafted_only: bool = True) -> list[str]:
-    return [s["slug"] for s in scenes_for_volume(1, drafted_only=drafted_only)]
+    return volume_slugs(1, drafted_only=drafted_only)
+
+
+def volume_last_slug(vol: int, drafted_only: bool = True) -> str:
+    """The slug of a volume's final chapter — the durable name for its boundary.
+
+    A volume seam is a story landmark and must be keyed by NAME, never by
+    position. A chapter inserted anywhere earlier renumbers everything after it
+    while leaving this slug untouched. On 2026-09-17 `strokes` (#37) and
+    `not-enough` (#50) moved Volume One's end from ch050 to ch052 and silently
+    invalidated four numeric call sites, two of which had been wrong for a
+    while without anyone noticing. Positions are derived at the point of use
+    (see `volume_bounds`); only the slug is stored."""
+    slugs = volume_slugs(vol, drafted_only=drafted_only)
+    if not slugs:
+        raise KeyError(
+            f"no {'drafted ' if drafted_only else ''}scenes for volume {vol} "
+            "— check the ◆ VOLUME markers in meta-plan-chronology.md"
+        )
+    return slugs[-1]
+
+
+def volume_bounds(vol: int, drafted_only: bool = True) -> tuple[int, int]:
+    """(first, last) drafted reading-order numbers for a volume, resolved now.
+
+    Always call this instead of writing a literal: the numbers are correct only
+    for the current chronology and must never be persisted."""
+    slugs = volume_slugs(vol, drafted_only=drafted_only)
+    if not slugs:
+        raise KeyError(f"no scenes for volume {vol}")
+    return chapter_number(slugs[0]), chapter_number(slugs[-1])
 
 
 _SLUG_VOLUME: dict[str, int] | None = None
