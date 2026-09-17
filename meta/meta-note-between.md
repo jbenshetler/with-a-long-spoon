@@ -12,7 +12,7 @@ The chapter the {{Hangover}} anticipation was written toward, and the on-page ho
 
 ## The beat
 
-- **Movement 1 — the Sheri telling, played for comedy.** Vee arrives having *composed* this (see {{Hangover}}), and the order is hers: the physical autopsy of the invented midnight blonde first (*five foot nothing — in boots*), Randi demanding she start over and go slower, then the treaty-signing where Vee hands over the win. Randi's **"Fear needs a face, baby. You gave it one."** is the live echo of her own {{My Friend Randi}} talk-down (`my-friend-randi.md` :57, :65) — she gets to be right out loud, and Vee enjoys letting her.
+- **Movement 1 — the Sheri telling, played for comedy.** Vee arrives having *composed* this (see {{Hangover}}), and the order is hers: the invented midnight blonde laughed out of the room first (*five foot nothing — in boots*), Randi demanding she start over and go slower, then the treaty-signing where Vee hands over the win. Randi's **"Fear needs a face, baby. You gave it one."** is the live echo of her own {{My Friend Randi}} talk-down (`my-friend-randi.md` :57, :65) — she gets to be right out loud, and Vee enjoys letting her.
   - **The reveal lands last: she's gay.** A month of dread spent on a woman who could not have wanted him. Keep it delighted and clean — Vee never repeats the disowning (Sheri's to tell; Vee already drew that line in {{Hangover}}).
 - **Movement 2 — the friction. One covered control-slip, and the first thing Vee hides from Randi.**
   - Vee **reports the look as event, not as appetite** — *it happened*, never *I appreciated it.* She is riding the laugh and gets there without deciding to.

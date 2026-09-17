@@ -6,19 +6,19 @@ Downstairs the jukebox had found a piano going somewhere slow, and the plates ha
 
 "Five foot nothing," she said.
 
-Randi had her glass nearly to her mouth and set it back down without drinking any of it. "In heels."
+Randi had her glass nearly to her mouth and set it back down without drinking any of it. "In heels?"
 
-"In *boots.* There were no heels. She told me to leave mine home — you can't two-step on stilts."
+"In *boots.* Boots included."
 
-"She told you—" Randi put both forearms on the table. "Wait. Go back. Start over and go slower."
+"Boots." Randi put both forearms on the table. "Wait. Go back. Start over and go slower."
 
 So Vee went slower, and took her time with it, because the table was hers tonight and the story was good and she had spent two days deciding which parts went where. The hair: two colors, dark at the roots and going light at the ends, permed where it came down over her collar. The face: round, and made up a hair off the line, and worn like a dare. The voice: pitched for a room three times the size of the one she was in, at all times, on every subject. The hug she'd given Pace in the doorway, with her whole weight in it.
 
-"So where's my model," Randi said.
+"So where's my model?" Randi said.
 
 "There isn't one."
 
-"Where is she, though. The tall one. Gold. Legs." Randi turned her hand over, inviting the corpse to the table. "Where'd she go?"
+"Where is she, though? Blonde. Tan." Randi turned her hand over, inviting the ghost to the table. "Where'd she go?"
 
 "She didn't have anywhere to stand," Vee said, and had to stop, because the laugh was coming up out of her again the same way it had on the taproom floor. "Randi, I got *dressed* for her. I borrowed Meg's shirt. I put the induction shoes on in January. I was armed to the teeth for a woman who does not exist and has never existed, and I walked in and there was a person there instead."
 
@@ -90,7 +90,7 @@ The other thing she'd brought, she'd been saving for the end on purpose, because
 
 "He asked me for something."
 
-"Did he." Randi's chin came up an inch.
+"Did he?" Randi's chin came up an inch.
 
 "Sunday. In the kitchen, out of nowhere, in the voice he uses for facts." Vee turned her glass by the base. "He asked me to get waxed. All of it. Bare."
 
