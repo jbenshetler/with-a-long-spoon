@@ -512,3 +512,53 @@ outstanding within-chapter pass — the completed Volume One line edit measured
 cross-chapter repetition only and is blind to this axis.
 
 Both items land in the same chapter, so they want the same sitting.
+
+## 46. Volume 1 → Volume 2 checkpoint seam — the rule, not just the instance (DECIDE)
+
+**Deferred by the author 2026-09-17** during the Volume One cold-read rerun.
+
+Volume One was exactly 50 chapters, so `ck-ch050` was simultaneously the last
+decade boundary *and* the volume terminus, and the cold-read harness pinned the
+Vol1→Vol2 feedforward seed to it (`SPEC.md`, "the ch-050 checkpoint is the
+frozen Volume One → Volume Two feedforward boundary"). Drafting {{Strokes}} and
+{{Not Enough}} moved Volume One's end to **ch052**, and those two roles came
+apart: `ck-ch050` now stops two chapters short of the volume, missing
+{{My Friend Randi}} and {{Nothing Underneath}}.
+
+Every model's `ck-ch060` records `seed-boundary: 50`, so all Volume Two
+checkpoints are seeded from a checkpoint that is no longer volume-complete, and
+the drafted Volume Two chapters were read against it.
+
+`checkpoint_plan()` now fails closed by **name** rather than number:
+
+> checkpoint seed policy for boundary 60 seeds from 'not-enough' (ch050), but
+> drafted Volume One ends at 'nothing-underneath' (ch052)
+
+**The decision is the rule, not this instance** — volume length and decade
+boundary have permanently come apart and will diverge again on the next
+insertion. Options: mint a volume-terminal `ck-ch052` and make the seam always
+`volume_last_slug(1)` (spec change: the terminal boundary stops being a decade
+multiple); or keep seams pinned to decade boundaries and accept that a volume
+seed may lag its volume. Either way the six `ck-ch060` checkpoints need
+reseeding and Volume Two's reviews become stale.
+
+Cutover is atomic: update `CHECKPOINT_SEEDS` in `tools/checkpoint_bundle.py` and
+remint together. `test_live_seam_is_currently_stale_and_fails_closed` owns this
+fact and flips to the happy path when it lands.
+
+## 47. Kimi-K3 on the thin fp8 endpoint pool (WATCH — author: cut if it recurs)
+
+OpenRouter routes each call across many upstream endpoints at mixed numeric
+precision; the low-precision ones return malformed artifacts, so
+`ensemble-config.toml` now filters to `["fp8", "bf16"]`. That leaves
+`z-ai/glm-5.3` fifteen endpoints but `moonshotai/kimi-k3` only four, so Kimi has
+almost no room to route around a bad one.
+
+Observed 2026-09-17: one Kimi mint ran **45+ minutes** (its siblings took 8–10)
+and only cleared when killed and retried — 18 minutes on the second route. Kimi
+also had the panel's worst read-compliance rate (9/52 dropped the structured
+block, vs 4/52 for GLM), though every retry recovered first attempt.
+
+**Author ruling: cut Kimi from the panel if this recurs.** The alternative, if
+it is worth keeping, is widening its quantization list or raising the `mint`
+policy `timeout`.
