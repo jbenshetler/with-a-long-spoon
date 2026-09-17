@@ -66,7 +66,7 @@ Vee sat back on her heels. She wiped her mouth with the back of her wrist, reach
 
 "Cheers."
 
-She drank. Cold bubbles broke over the salt still on her tongue. She felt absurdly as though she'd won something—and under the victory, immediate and enormous, was the other fact. She was lit right down to the floor and nowhere near done. She had spent everything on him and been paid nothing. He sat naked on the edge of the bed, breathing himself back together with the unhurried ease of a man who had all the time in the world now.
+She drank. Cold bubbles broke over the salt still on her tongue. She felt absurdly as though she'd won something—and under the victory, immediate and enormous, was the other fact. She was lit right down to the floor and nowhere near done. She had spent everything on him and been paid nothing. He sat naked on the edge of the bed, breathing himself back together, a man who had all the time in the world now.
 
 She had handed him his hurry. He didn't have any left. She had all of hers.
 

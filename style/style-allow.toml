@@ -4736,6 +4736,20 @@ text = "She had gotten very good, over twenty-one years, at the not-going; she h
 note = "Line-edit ruling 2026-08-04: 'no longer registered as an act' kept — genuinely perceptual use (the act vanished from her own senses), Vee about herself, not the collector frame"
 
 [[ok]]
+fp   = "cafa22ba0f4d"
+rule = "began-to"
+file = "scenes/still-life.md"
+text = "Her back began to lift."
+note = "kept: the interrupted incipience is the device — the brush stops at the inception of movement; the aspect is the content, not throat-clearing. Author-approved 2026-09-15."
+
+[[ok]]
+fp   = "3c37884a90bd"
+rule = "filter-verbs"
+file = "scenes/still-life.md"
+text = "She felt absurdly as though she'd won something—and under the victory, immediate and enormous, was the other fact."
+note = "kept: 'felt as though' marks the win unearned — the sentence's content is the feeling's absurdity; any recast loses it. Author-approved 2026-09-15."
+
+[[ok]]
 fp   = "30cee1a108da"
 rule = "there-she-is"
 file = "scenes/still-life.md"
