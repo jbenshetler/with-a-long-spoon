@@ -55,6 +55,11 @@ effort = "low"
 timeout = 2400
 max_output_tokens = 8000
 
+[openrouter.policy.fact]          # fact_audit — whole-volume ledger, large structured output
+effort = "high"
+timeout = 2400
+max_output_tokens = 32000
+
 [openrouter.policy.capture]       # capture_dag / capture_panel
 effort = "low"
 timeout = 900

@@ -91,17 +91,32 @@ def load_prompt(name: str) -> str:
 
 
 def make_agent(model: str, effort: str):
-    """Subscription lanes only for now. gpt-5.6-sol and gpt-5.5 go through
-    codex; claude-* through the headless clean lane; an OpenRouter id (with a
-    '/') would need a policy tag per ensemble-config.toml."""
+    """Dispatch to the right lane by model id.
+
+    Three vendors are wired so the ledgers are genuinely independent —
+    ledgers derived by one model share that model's blind spots, so
+    disagreement between vendors is the signal worth having.
+
+      claude-*   headless clean lane, Claude subscription OAuth
+      <p>/<m>    OpenRouter, paid, under the [openrouter.policy.fact] tag
+      else       codex subscription (gpt-5.6-sol, gpt-5.5)
+    """
     import cold_read
+    system = load_prompt("system")
+    if model.startswith("claude-"):
+        import checkpoint_extract
+        return checkpoint_extract.make_claude_extractor_fn(system, effort), (lambda: None)
     if "/" in model:
-        raise SystemExit(
-            "OpenRouter models are not wired into this lane yet — they need an "
-            "[openrouter.policy.*] tag. Use a subscription model (gpt-5.6-sol)."
-        )
-    return cold_read.make_codex_agent_fn(system_prompt=load_prompt("system"),
-                                         effort=effort)
+        import os
+        key = os.environ.get("OPENROUTER_API_KEY")
+        if not key:
+            raise SystemExit("OpenRouter model needs OPENROUTER_API_KEY set")
+        print(f"[auth] openrouter — billing PER TOKEN (author-authorized) · {model}",
+              file=sys.stderr)
+        return (cold_read.make_openrouter_agent_fn(
+            system_prompt=system, policy="fact", effort=effort, api_key=key),
+            (lambda: None))
+    return cold_read.make_codex_agent_fn(system_prompt=system, effort=effort)
 
 
 def max_input_tokens(model: str) -> int | None:
@@ -148,8 +163,19 @@ def build_ledger(model: str, model_id: str, volume: int, effort: str) -> str:
     finally:
         close()
     body = (r.get("output") or "").strip()
-    if len(body) < 500:
-        raise SystemExit(f"suspiciously short ledger ({len(body)} chars)")
+    # A lane with file-write capability may SAVE the ledger and reply with a
+    # summary of having done so; the working directory is then discarded and
+    # the artifact is lost. Length alone does not catch it — the summary is
+    # prose of respectable length — so check for the structure a ledger must
+    # have (claude-opus-5, 2026-09-19).
+    required = ("People", "Vehicles")
+    missing = [h for h in required if h.lower() not in body.lower()]
+    if len(body) < 4000 or missing:
+        raise SystemExit(
+            f"ledger looks like a summary, not a ledger ({len(body)} chars"
+            + (f"; missing section(s): {', '.join(missing)}" if missing else "")
+            + "). If the model wrote it to a file, the prompt forbids that — re-run."
+        )
     path.write_text(
         f"# Fact ledger — Volume {volume}\n\n*model: {model} · "
         f"{date.today().isoformat()} · derived from prose only*\n\n---\n\n{body}\n",

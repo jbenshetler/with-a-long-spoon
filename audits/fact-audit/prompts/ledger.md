@@ -1,3 +1,8 @@
+Return the ledger as your reply text, in full. Do NOT create, write, or save
+any file — the harness captures your response and discards the working
+directory, so a ledger written to disk is lost. (claude-opus-5 did exactly
+that on 2026-09-19 and returned only a summary of what it had written.)
+
 Below is the full drafted text of one volume of a novel, in reading order.
 
 Build a FACT LEDGER: the falsifiable, concrete attributes the prose
