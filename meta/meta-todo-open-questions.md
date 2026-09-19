@@ -562,3 +562,38 @@ block, vs 4/52 for GLM), though every retry recovered first attempt.
 **Author ruling: cut Kimi from the panel if this recurs.** The alternative, if
 it is worth keeping, is widening its quantization list or raising the `mint`
 policy `timeout`.
+
+## 48. Build a date/weekday scanning and validation tool (TOOLING)
+
+**Author ruling 2026-09-19: date work stays out of the fact-audit lane.**
+
+Dates are *computable*, so a deterministic tool beats a model that is merely
+confident. The facts pass also reads prose only, while
+`meta/meta-plan-chronology.md` **owns** scene dates and weekdays — an
+instrument that never reads the owner can notice a date conflict but cannot
+rule on one.
+
+The cost of not separating them was immediate: `gemini-3.8-flash` spent an
+entire 32k output budget deducing whether ch5 was Wednesday or Thursday from
+froyo-and-"yesterday" evidence, and returned no ledger at all.
+
+What the tool should do:
+
+- Parse the dated spine from `meta-plan-chronology.md` (it already carries
+  `*Thu Dec 31 · New Year's Eve*`-style metadata) and **verify each stated
+  weekday against the actual calendar** for the locked academic year.
+- Extract temporal claims from prose — weekday names, "two days later",
+  "twelve days", "yesterday", "before Thanksgiving" — and check them against
+  that spine.
+- Report interval arithmetic that does not close, and scenes placing a
+  character in two places on one day.
+- Be chapter-number agnostic: resolve by **slug**, per the volume-boundary
+  ruling, so an inserted chapter cannot silently invalidate the report the way
+  it did the 2026-08-03 sweep.
+
+Existing material: `audits/timeline/report.md` is a whole-book agent-driven
+sweep (734 claims, 9 findings) — good as a spec for what the tool should
+reproduce deterministically, but **stale**: it predates {{Strokes}} and
+{{Not Enough}}, so its chapter numbers are off by the insertion drift.
+
+Open leads for it to consume: `audits/timeline/pending-from-fact-audit.md`.

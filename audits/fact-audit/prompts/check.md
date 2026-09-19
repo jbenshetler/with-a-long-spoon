@@ -6,7 +6,7 @@ contradictions of fact.
 Check these axes explicitly — the second is the one most easily missed:
 
 - **Attributes.** Does anything here contradict a recorded fact (a vehicle, a
-  garment, a mark, a layout, an age, a date)?
+  garment, a mark, a layout, an age)? Dates and weekdays are out of scope.
 - **Referents, including imagined ones.** When a character ANTICIPATES,
   HOPES FOR, REMEMBERS or IMAGINES something, is it rendered consistently —
   with itself, and with what that character would actually expect? A man

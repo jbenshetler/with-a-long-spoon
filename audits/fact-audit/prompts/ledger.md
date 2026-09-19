@@ -1,3 +1,9 @@
+Emit ONLY the finished ledger. Do not show your working, reasoning, or
+step-by-step deductions — they consume the output budget and the ledger gets
+truncated or never written. (gemini-3.8-flash returned 4.7k of date-reasoning
+scratchpad and no ledger on 2026-09-19.) Think as long as you need; reply with
+the artifact alone.
+
 Return the ledger as your reply text, in full. Do NOT create, write, or save
 any file — the harness captures your response and discards the working
 directory, so a ledger written to disk is lost. (claude-opus-5 did exactly
@@ -18,8 +24,8 @@ Cover at least:
 - **Places** — layout and fixtures where the text commits to them, especially
   any location used repeatedly.
 - **Objects** — named or distinctive items, who owns them, where they live.
-- **Chronology** — dates, weekdays, seasons, time of day, spans between events.
 - **Knowledge state** — who knows what, and the chapter where they learn it.
+  Record the CHAPTER, never a date.
   This is the most error-prone axis in a book built on concealment, so be
   precise about the chapter number.
 

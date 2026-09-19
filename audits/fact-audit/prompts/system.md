@@ -5,9 +5,17 @@ prose quality, pacing, theme, characterisation, or whether something works. You
 report only where the text contradicts itself on a matter of fact.
 
 What counts as a fact here: something falsifiable from the page. A vehicle, a
-garment, a physical mark, the layout of a room, a named object, a date or
-weekday, a time of day, someone's stated age, who was present, and — critically
-— who knows what, and when they learned it.
+garment, a physical mark, the layout of a room, a named object, someone's
+stated age, who was present, and — critically — who knows what, and when they
+learned it.
+
+**OUT OF SCOPE: dates, weekdays, and interval arithmetic.** Do not check them,
+reason about them, or report them. A separate lane owns them, and it can read
+the planning document that actually governs scene dates — which you cannot, so
+you would be guessing at something already settled. Ignore "two days later",
+"the thirty-first", weekday names and the like entirely, even when they look
+wrong. Spending output on date deduction is the single most common way this
+pass fails to produce anything useful.
 
 Two disciplines that matter more than volume:
 

@@ -90,7 +90,70 @@ def load_prompt(name: str) -> str:
     return p.read_text(encoding="utf-8")
 
 
-def make_agent(model: str, effort: str):
+def work_dir(model_id: str, label: str) -> Path:
+    """A PERSISTENT scratch directory inside the project.
+
+    Deliberately not a tempfile.TemporaryDirectory. The Claude lane can write
+    files, and on 2026-09-19 claude-opus-5 saved its ledger to FACT_LEDGER.md
+    in a temp cwd and replied with a summary of having done so — the directory
+    was discarded on exit and a good 47k artifact was lost. Anything a model
+    produces now survives the run and can be recovered or inspected.
+
+    Gitignored: this is machine scratch. The artifact that matters is promoted
+    to ledger-vol<N>.md."""
+    d = AUDIT_ROOT / ".work" / model_id / label
+    d.mkdir(parents=True, exist_ok=True)
+    return d
+
+
+def make_claude_agent(system_prompt: str, effort: str, cwd: Path):
+    """Claude headless lane on subscription OAuth, run in a PERSISTENT cwd.
+
+    Mirrors checkpoint_extract.make_claude_extractor_fn but keeps the working
+    directory, so a file the model writes is recoverable instead of discarded."""
+    import os
+    import subprocess
+
+    def run(*, prompt: str, model: str, label: str):
+        env = dict(os.environ)
+        env.pop("ANTHROPIC_API_KEY", None)   # subscription auth only, per the token rule
+        sp = cwd / "system-prompt.md"
+        sp.write_text(system_prompt, encoding="utf-8")
+        result = subprocess.run(
+            ["claude", "-p", "--model", model,
+             "--system-prompt-file", str(sp),
+             "--exclude-dynamic-system-prompt-sections",
+             "--effort", effort],
+            input=prompt, capture_output=True, text=True,
+            cwd=str(cwd), env=env, timeout=2400,
+        )
+        if result.returncode != 0:
+            detail = ((result.stdout or "") + "\n" + (result.stderr or "")).strip()[-600:]
+            raise RuntimeError(f"claude -p failed: {detail}")
+        return {"output": result.stdout, "usage": {}, "id": label}
+
+    return run
+
+
+def recover_from_work(cwd: Path, required: tuple[str, ...]) -> str | None:
+    """If the reply was a summary, look for the artifact the model wrote.
+
+    Returns the largest file in the scratch dir that carries the structure a
+    ledger must have, or None."""
+    best, best_len = None, 0
+    for f in sorted(cwd.rglob("*.md")):
+        if f.name == "system-prompt.md":
+            continue
+        try:
+            body = f.read_text(encoding="utf-8")
+        except OSError:
+            continue
+        if len(body) > best_len and all(h.lower() in body.lower() for h in required):
+            best, best_len = body, len(body)
+    return best
+
+
+def make_agent(model: str, effort: str, cwd: Path | None = None):
     """Dispatch to the right lane by model id.
 
     Three vendors are wired so the ledgers are genuinely independent —
@@ -104,8 +167,9 @@ def make_agent(model: str, effort: str):
     import cold_read
     system = load_prompt("system")
     if model.startswith("claude-"):
-        import checkpoint_extract
-        return checkpoint_extract.make_claude_extractor_fn(system, effort), (lambda: None)
+        if cwd is None:
+            raise SystemExit("claude lane needs a working directory")
+        return make_claude_agent(system, effort, cwd), (lambda: None)
     if "/" in model:
         import os
         key = os.environ.get("OPENROUTER_API_KEY")
@@ -156,7 +220,8 @@ def build_ledger(model: str, model_id: str, volume: int, effort: str) -> str:
     print(f"[ledger] volume {volume} · {len(prose):,} chars "
           f"(~{len(prose)//4:,} tokens) · {model}", file=sys.stderr)
     preflight(model, len(prose), f"ledger-vol{volume}")
-    agent_fn, close = make_agent(model, effort)
+    cwd = work_dir(model_id, f"ledger-vol{volume}")
+    agent_fn, close = make_agent(model, effort, cwd)
     try:
         r = agent_fn(prompt=load_prompt("ledger").replace("{{PROSE}}", prose),
                      model=model, label=f"ledger-vol{volume}")
@@ -169,13 +234,22 @@ def build_ledger(model: str, model_id: str, volume: int, effort: str) -> str:
     # prose of respectable length — so check for the structure a ledger must
     # have (claude-opus-5, 2026-09-19).
     required = ("People", "Vehicles")
+    # Always keep the raw reply — nothing a paid or slow call produced should
+    # be discarded because validation rejected it.
+    (cwd / "raw-response.md").write_text(body, encoding="utf-8")
     missing = [h for h in required if h.lower() not in body.lower()]
     if len(body) < 4000 or missing:
-        raise SystemExit(
-            f"ledger looks like a summary, not a ledger ({len(body)} chars"
-            + (f"; missing section(s): {', '.join(missing)}" if missing else "")
-            + "). If the model wrote it to a file, the prompt forbids that — re-run."
-        )
+        salvaged = recover_from_work(cwd, required)
+        if salvaged:
+            print(f"[recover] reply was a summary; promoting the file the model "
+                  f"wrote in {cwd} ({len(salvaged):,} chars)", file=sys.stderr)
+            body = salvaged
+        else:
+            raise SystemExit(
+                f"ledger looks like a summary, not a ledger ({len(body)} chars"
+                + (f"; missing section(s): {', '.join(missing)}" if missing else "")
+                + f"). Nothing recoverable in {cwd}."
+            )
     path.write_text(
         f"# Fact ledger — Volume {volume}\n\n*model: {model} · "
         f"{date.today().isoformat()} · derived from prose only*\n\n---\n\n{body}\n",
@@ -186,6 +260,8 @@ def build_ledger(model: str, model_id: str, volume: int, effort: str) -> str:
 
 def check_chapter(agent_fn, model: str, model_id: str, slug: str, n: int,
                   ledger: str) -> Path:
+    """Reports are short, so no recovery path is needed here — but the raw
+    reply is still kept beside the report for the same reason."""
     prompt = (load_prompt("check")
               .replace("{{LEDGER}}", ledger)
               .replace("{{CHAPTER}}", chapter_block(slug, n)))
@@ -252,7 +328,8 @@ def main() -> None:
         return
 
     print(f"[check] {len(targets)} chapter(s) · {args.model}", file=sys.stderr)
-    agent_fn, close = make_agent(args.model, args.effort)
+    agent_fn, close = make_agent(args.model, args.effort,
+                                 work_dir(model_id, "check"))
     try:
         for slug in targets:
             p = check_chapter(agent_fn, args.model, model_id, slug,
