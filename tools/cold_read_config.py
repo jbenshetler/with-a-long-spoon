@@ -41,13 +41,27 @@ def reader_settings(model_id: str) -> dict[str, Any]:
     return {}
 
 
-def openrouter_routing() -> dict[str, Any]:
-    """The provider-routing block sent with every OpenRouter call.
+def openrouter_routing(model_id: str | None = None) -> dict[str, Any]:
+    """The provider-routing block sent with an OpenRouter call.
 
-    Filters the endpoint pool by numeric precision; see the `[openrouter]`
-    comment in ensemble-config.toml for why this is not optional."""
+    The `[openrouter]` floor filters the endpoint pool by numeric precision;
+    see that block's comment in ensemble-config.toml for why it is not
+    optional. A reader may override `quantizations` in its own
+    `[readers."<id>"]` block: the filter protects against *third-party
+    resellers* serving an open-weight model at reduced precision, which is
+    not a risk that exists for a first-party proprietary model with a single
+    vendor. An empty list disables the filter for that reader.
+
+    Passing no `model_id` returns the bare floor."""
     block = dict(load_config().get("openrouter", {}))
     block.pop("policy", None)
+    if model_id:
+        override = reader_settings(model_id).get("quantizations")
+        if override is not None:
+            if override:
+                block["quantizations"] = list(override)
+            else:
+                block.pop("quantizations", None)
     return block
 
 

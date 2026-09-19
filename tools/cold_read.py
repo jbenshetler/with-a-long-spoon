@@ -257,7 +257,6 @@ def make_openrouter_agent_fn(*, system_prompt, api_key, policy,
         max_output_tokens = settings.get("max_output_tokens")
     if not max_output_tokens:
         raise ValueError(f"openrouter policy {policy!r} sets no max_output_tokens")
-    routing = cold_read_config.openrouter_routing()
 
     from openai import OpenAI
 
@@ -276,7 +275,9 @@ def make_openrouter_agent_fn(*, system_prompt, api_key, policy,
                 {"role": "user", "content": prompt},
             ],
             "max_tokens": max_output_tokens,
-            "extra_body": {"provider": routing},
+            # Resolved per call: routing policy can be overridden per reader,
+            # and the model is only known here.
+            "extra_body": {"provider": cold_read_config.openrouter_routing(model)},
         }
         if effort and effort != "none":
             kwargs["reasoning_effort"] = effort

@@ -198,6 +198,21 @@ class CodexAdapterTests(unittest.TestCase):
             self.assertNotIn("fp4", provider["quantizations"])
             self.assertTrue(provider["require_parameters"])
 
+    def test_quantization_filter_is_overridable_per_reader(self):
+        """First-party models have no reseller risk and publish no quantization.
+
+        Gemini's six endpoints are all Google and all report `unknown`, so the
+        open-weight floor would leave zero endpoints and fail every call."""
+        import cold_read_config
+        floor = cold_read_config.openrouter_routing()
+        self.assertIn("fp8", floor["quantizations"])
+        # open-weight reader keeps the floor
+        self.assertIn("fp8", cold_read_config.openrouter_routing("z-ai/glm-5.3")["quantizations"])
+        # first-party reader opts out entirely, but keeps the rest of the floor
+        gemini = cold_read_config.openrouter_routing("google/gemini-3.8-flash")
+        self.assertNotIn("quantizations", gemini)
+        self.assertTrue(gemini["require_parameters"])
+
     def test_openrouter_enforces_deadline_python_side(self):
         """The SDK timeout is per-socket-op and a slow provider can outlive it."""
         class _Hang:

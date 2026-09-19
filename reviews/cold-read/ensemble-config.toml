@@ -60,6 +60,18 @@ effort = "low"
 timeout = 900
 max_output_tokens = 16000
 
+[readers."gemini-3.8-flash"]
+vendor = "google"
+provider_model = "google/gemini-3.8-flash"
+# Quantization filter disabled for this reader. The `[openrouter]` floor guards
+# against third-party resellers serving an OPEN-WEIGHT model at reduced
+# precision; Gemini is first-party only — all six of its endpoints are Google
+# or Google AI Studio, and every one reports `quantization: unknown` because
+# Google does not publish it. Applying the floor leaves zero endpoints and
+# fails every call. Do NOT fix this by adding "unknown" to the global list:
+# that readmits the third-party endpoints the floor exists to exclude.
+quantizations = []
+
 [readers."qwen3.8-max-0902"]
 vendor = "alibaba"
 provider_model = "qwen/qwen3.8-max-0902"
