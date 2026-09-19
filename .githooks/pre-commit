@@ -50,3 +50,19 @@ if printf '%s\n' "$staged" | grep -qE '^(meta/meta-blurb\.md|meta/meta-cover\.md
         exit 1
     fi
 fi
+
+# --- 4. orphaned-reference warning (staged scenes) --------------------------
+# When a revision cuts the text that INTRODUCED something, a later definite
+# reference to it can survive and dangle — the reader meets "the closed
+# camel-coat project" having never met the camel coat (the-pointing-game,
+# ade99b4b). No reader-side instrument can catch this; the evidence is in the
+# diff, which is exactly what a pre-commit hook is holding.
+#
+# WARNING ONLY, by author ruling (2026-09-19): it never blocks. The check
+# over-flags by design and a surviving ordinary use is common, so the author
+# judges. Note it inspects the LAST committed state of the staged files, so a
+# dangle introduced by the commit in progress surfaces on the next one — it is
+# a safety net for the class, not a gate on this diff.
+if printf '%s\n' "$staged" | grep -q '^scenes/.*\.md$'; then
+    python3 tools/orphan_refs.py --staged 2>/dev/null || true
+fi

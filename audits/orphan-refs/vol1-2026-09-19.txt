@@ -1,0 +1,111 @@
+orphan-refs: 26 candidate(s) across 52 chapter(s)
+  a term whose introducing text was cut, still referenced in the chapter
+  FLAGS, never findings — an ordinary surviving use is common.
+
+  the-bench  «position she»  (in 1 chapter(s))
+    cut by cf83bf40  The Bench: warm Pace's interior — R1 pass + cut the sorority-shame
+    :275  He stood up. He went back behind her. He hit her again — harder this time, the first real one, the palm landing clean on the high point of the right s
+
+  the-bench  «massage table»  (in 1 chapter(s))
+    cut by 910a2fc3  The Bench: cut omniscient bench intro; relocate timeline to Pace POV
+    :93  She started at the front, finding a face cradle first, a padded ring, the kind she'd rest her face into for a massage. Just past it, a shelf, shallow 
+
+  the-bench  «wooden top»  (in 1 chapter(s))
+    cut by 910a2fc3  The Bench: cut omniscient bench intro; relocate timeline to Pace POV
+    :553  Across the room, in the lamplight, the bench sat with the leather of its working surfaces faintly damp in two places and the wooden top leaning agains
+
+  the-bench  «table again»  (in 1 chapter(s))
+    cut by ed999fe8  .
+    :93  She started at the front, finding a face cradle first, a padded ring, the kind she'd rest her face into for a massage. Just past it, a shelf, shallow 
+
+  the-pointing-game  «camel coat»  (in 1 chapter(s))
+    cut by ade99b4b  The Pointing Game: cut a candidate; prose-sha backfill; BookTok DNF
+    :129  She came out of the dining hall and drew the eye as nothing else on the quad had all afternoon. Tall, and built on a lavish scale, lush in a way that 
+
+  the-pointing-game  «seam in»  (in 1 chapter(s))
+    cut by 86b85bf9  The Pointing Game: cut the doubled read; warm the button
+    :119  She laughed, low in her throat, and the thing she said came out warmer and realer than she meant it to — he heard the seam in it, the place where the 
+
+  the-pointing-game  «small recoil»  (in 1 chapter(s))
+    cut by 3b258c6d  The Pointing Game: style pass (weather, a-small, the-way)
+    :85  He watched it work through her. For the first beat she was simply confused, and under the confusion something tightened: he was *pointing*, in dayligh
+
+  two-towels  «brick red»  (in 1 chapter(s))
+    cut by 7f94afe2  Two Towels: line-edit pass — 14 fixes, 4 left standing, 1 architecture
+    :105  For weeks she'd carried a single red in her head — the dress she'd given up on, the shade from the magazine, that flat brick-red the girl in the sprea
+
+  rock  «love in»  (in 1 chapter(s))
+    cut by 80696198  Rock: cut the pre-composed close of the arithmetic paragraph per cold-
+    :61  "So the name that means love in one mouth means trouble in the other."
+
+  nothing-underneath  «fingers moving»  (in 1 chapter(s))
+    cut by 7d4744cd  Nothing Underneath: land the afterglow and close Volume One
+    :13  The robe came off, and habit moved faster than the plan. She had the underwear drawer open and a hand on the black everyday bra before she knew it, an
+
+  nothing-underneath  «or anything»  (in 1 chapter(s))
+    cut by e9d28e36  Nothing Underneath: build out the approach; seed Randi's agency line
+    :93  His hands went back to her ass and lifted her clean off the floor like she weighed nothing, and she wrapped her legs around his waist and her arms aro
+
+  the-bench  «body warm»  (in 2 chapter(s))
+    cut by 187d0a51  The Bench: break the blazon with contact
+    :473  The crying tapered finally. She was very quiet against him, her face against the side of his neck, her hair against his collarbone, her body warm in t
+
+  the-bench  «belly and»  (in 2 chapter(s))
+    cut by 0e46c235  The Bench: rework the undressing/looking passage as touch (visual-debt
+    :139  The second button: the skin of her upper stomach, the faint blue shadow of her lowest ribs showing through. He traced a finger from the hollow of her 
+
+  the-bench  «time without»  (in 2 chapter(s))
+    cut by ed999fe8  .
+    :7  The room was warm when she came in, the kind of even warmth he kept the house at because he liked being able to take his time without thinking about w
+
+  leave-no-trace  «rock at»  (in 2 chapter(s))
+    cut by eaa2fc84  Leave No Trace: line-audit pass — dry drop-off, wet-not-bread, drive, 
+    :85  They sat on the rock at the edge of it.
+
+  two-towels  «magazine that»  (in 2 chapter(s))
+    cut by 7f94afe2  Two Towels: line-edit pass — 14 fixes, 4 left standing, 1 architecture
+    :105  For weeks she'd carried a single red in her head — the dress she'd given up on, the shade from the magazine, that flat brick-red the girl in the sprea
+
+  the-bench  «breasts the»  (in 2 chapter(s))
+    cut by c1e9f000  the-bench: reduce dance/dancer from 10 to 3 — intro + one dance + one 
+    :147  Then he rose, coming up the length of her. He laid his palms flat against her hips and swept them up along her sides — the skin warm, faintly damp whe
+    :149  He bent and kissed her between the breasts — the warmth of her, the citrus scent of her perfume where she had dabbed it at the base of her throat — an
+
+  see-you-later  «thing randi»  (in 3 chapter(s))
+    cut by aeb184b1  See You Later: Randi off the axis, not atop it; ungraceful stool fix
+    :115  "They had the lavender thing," Randi said, handing it over. "Trust me. Come on, the high table's open, I love the high table."
+
+  outlier  «stack of»  (in 3 chapter(s))
+    cut by c1019bfc  The Outlier: line-audit pass — Cassie's verdict off the point's size, 
+    :89  "Okay," she said, and slid the laptop a few inches toward herself, and started in on the write-up — who'd take which section, how they'd frame the agg
+
+  the-bench  «massage»  (in 1 chapter(s))
+    cut by 910a2fc3  The Bench: cut omniscient bench intro; relocate timeline to Pace POV
+    :93  She started at the front, finding a face cradle first, a padded ring, the kind she'd rest her face into for a massage. Just past it, a shelf, shallow 
+
+  the-bench  «audible»  (in 1 chapter(s))
+    cut by 77ac2174  the-bench: Randi reads the bench — three-paragraph reveal sequence
+    :53  She wiggled, a little, settling further into him, and the wiggling was partly for her benefit and they both knew it. Her hands kept going. They came d
+
+  the-pointing-game  «recoil»  (in 1 chapter(s))
+    cut by 3b258c6d  The Pointing Game: style pass (weather, a-small, the-way)
+    :85  He watched it work through her. For the first beat she was simply confused, and under the confusion something tightened: he was *pointing*, in dayligh
+
+  see-you-later  «notebook»  (in 2 chapter(s))
+    cut by 314e0c57  See You Later: style-tic pass + modernize the lecture-hall furniture
+    :9  Vee got her notebook open and her pencil out and did not look at the door. She had decided not to look at the door. She had decided this on the walk o
+    :61  Vee wrote *latent variables* on her page because it was the last thing he'd said and her pencil was already moving, and then chairs were scraping and 
+
+  the-pointing-game  «camel»  (in 3 chapter(s))
+    cut by ade99b4b  The Pointing Game: cut a candidate; prose-sha backfill; BookTok DNF
+    :129  She came out of the dining hall and drew the eye as nothing else on the quad had all afternoon. Tall, and built on a lavish scale, lush in a way that 
+
+  two-towels  «reflex»  (in 3 chapter(s))
+    cut by 7f94afe2  Two Towels: line-edit pass — 14 fixes, 4 left standing, 1 architecture
+    :105  For weeks she'd carried a single red in her head — the dress she'd given up on, the shade from the magazine, that flat brick-red the girl in the sprea
+
+  the-pointing-game  «ponytail»  (in 3 chapter(s))
+    cut by f1c2bea7  The Pointing Game: polish the walk's opening scenery
+    :87  Then the third beat, and he felt it arrive in her body before her face changed: the question resolved, the frame snapped into place, and she went hunt
+    :89  "No," Randi said. The propriety was gone out of her voice. Something else had come into it, lower, considering. "Too—" She watched the ponytail reach 
+
