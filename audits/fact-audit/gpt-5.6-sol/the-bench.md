@@ -8,11 +8,11 @@ No contradictions of fact found.
 
 ## NOTED (not errors)
 
-- Randi steps out of her underwear while still wearing ankle-strapped heels; awkward, but stretchable underwear could pass over them, so the actions are not incompatible.
-- “She stood naked” does not establish that she removed her white-gold bracelet; jewelry may remain on a person described as naked.
-- “For you. Tonight.” can mean Pace prepared or revealed the bench for Randi that night, not necessarily that he originally built it solely for her.
-- Randi imagines herself as having had “an extraordinary evening with her boyfriend,” but this is her arranged social narrative, not evidence of a mutually established relationship label.
-- References to dampness at the small of Randi’s back “from where his mouth had been earlier” describe contact not previously narrated, but omission of that contact is not a contradictory statement that it never occurred.
-- The removal of the heels occurs consistently: they remain on through undressing and mounting the bench, then Pace removes both while she is positioned there.
-- The route from the bedroom “out into the hall, and around the corner to the bathroom” is compatible with the recorded hallway layout.
-- Randi’s unfamiliarity with the bench’s function is consistent with her having previously mistaken its fitted wooden top for a table.
+- “She stood naked” while still wearing heels is ordinary shorthand for being unclothed; the chapter explicitly tracks the heels consistently until Pace removes them.
+- Randi’s white-gold bracelet is not mentioned, but it is never said to be absent or removed.
+- Pace initially “did not hear the tap”; Randi turns it on later, so the actions are sequential rather than incompatible.
+- “She did not cry” follows the brief crying Pace hears through the bathroom door and describes her subsequent state at the mirror.
+- Randi calling Pace her “boyfriend” in her constructed mirror narrative does not establish exclusivity or contradict the ledger’s unresolved relationship label.
+- Randi’s familiarity with the toy box, safe word, bedroom, and sexual practices matches her established prior relationship with Pace.
+- The bench’s exposed structure, working surfaces, supports, removable top, and usual table appearance match the ledger.
+- The house layout, furniture, warmth, blanket, overnight bag, perfume, hair, eyes, build, freckles, and blue toenails are consistent with the ledger.
