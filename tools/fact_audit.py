@@ -104,12 +104,43 @@ def make_agent(model: str, effort: str):
                                          effort=effort)
 
 
+def max_input_tokens(model: str) -> int | None:
+    """Author-verified input ceiling from cold_read_pricing.toml, or None."""
+    import tomllib
+    cfg = tomllib.loads((REPO / "tools" / "cold_read_pricing.toml")
+                        .read_text(encoding="utf-8"))
+    return cfg.get("models", {}).get(model, {}).get("max_input")
+
+
+def preflight(model: str, prompt_chars: int, label: str) -> None:
+    """Fail BEFORE the call when a bundle cannot fit.
+
+    This lane is the only one that builds whole-volume prompts, so it is the
+    only one that can outgrow a model. Discovering that mid-request wastes the
+    call and — on a slow provider — a long wait first."""
+    limit = max_input_tokens(model)
+    if limit is None:
+        print(f"[preflight] no recorded max_input for {model}; proceeding "
+              f"(~{prompt_chars//4:,} tokens)", file=sys.stderr)
+        return
+    est = prompt_chars // 4
+    if est > limit:
+        raise SystemExit(
+            f"{label}: ~{est:,} input tokens exceeds {model}'s recorded ceiling "
+            f"of {limit:,}. Narrow the scope (--volume/--slugs) or record a "
+            f"larger max_input in tools/cold_read_pricing.toml."
+        )
+    print(f"[preflight] ~{est:,} / {limit:,} input tokens ({est*100//limit}%)",
+          file=sys.stderr)
+
+
 def build_ledger(model: str, model_id: str, volume: int, effort: str) -> str:
     path = ledger_path(model_id, volume)
     path.parent.mkdir(parents=True, exist_ok=True)
     prose = volume_prose(volume)
     print(f"[ledger] volume {volume} · {len(prose):,} chars "
           f"(~{len(prose)//4:,} tokens) · {model}", file=sys.stderr)
+    preflight(model, len(prose), f"ledger-vol{volume}")
     agent_fn, close = make_agent(model, effort)
     try:
         r = agent_fn(prompt=load_prompt("ledger").replace("{{PROSE}}", prose),
