@@ -1,0 +1,49 @@
+*capture-dag-v2-rich · carry-forward ck-ch070 · gemini-3.8-flash · romance-graduate · prompt-sha 9f29a94a7098 · 2026-09-19*
+
+WHO'S WHO
+
+- **Vee (Vivienne Thorne):** Twenty-one, drowning in her own expanding skin. She thought she was the lucky co-ed balancing a brilliant boyfriend and a glamorous best friend; she is actually caught in an erotic and psychological vice grip she can't even see. In the span of a week she was clinically stripped bare by an aesthetician, painted like an opulent fruit still-life and eaten clean by Pace, and paraded in a scrap of a skirt at a sorority mixer where Randi kissed her into a wet, breathless stupor. She’s terrified of her own appetite, hiding behind "I'm not gay" and "it was just a bit for a boy," running to Pace's bed to fuck the memory of Randi out of her head—and failing completely.
+- **Pace / Peter:** Twenty-two. The math prodigy, master of domestic care, and now, revealed co-conspirator. In chapter 61, the curtain pulled back: he and Randi have an intensely physical, deeply twisted sexual pact where they consume each other while obsessing over Vee. Yet he remains Vee's rock—baking cinnamon raisin bread from scratch while she sleeps off cider, holding headlights on Sheri’s porch, and peeling back his own heartbreaking past (isolated prodigy, zero male friends, out of his home since sixteen, groomed by Daphne because no one else was safe). When Vee came to him wired and angry after kissing Randi, he turned her interrogation into the hottest tollbooth in literature: making her buy back every stroke of his cock by confessing the exact truth of wanting Randi.
+- **Randi (Miranda):** The lethal puppet master who is hopelessly, helplessly in love. In 61, she rode Pace while narrating her fantasy of holding Vee’s breast and tasting her nipple; by 67, she put the plan into action. She dressed Vee in her own micro-skirt, pinned her hands over her head on the dance floor, used a frat boy as an excuse to cup Vee’s bare ass, and drove her tongue into Vee's mouth until Vee was whimpering. Then she cruelly, brilliantly folded it up as a "show" to give Vee plausible deniability. She weaponized Vee's own neck-kiss move on the sidewalk, leaving Vee's nervous system utterly fried.
+- **Cassie:** Sane, razor-sharp anchor. Clocked the skirt immediately, clocked the aftermath of the dance, and saw the lingering, charged sidewalk parting between Vee and Randi. She didn't bite when Vee tried to pick a defensive fight; she just asked the one lethal question Vee can't face (*"Is this what you want?"*) and then handed over a box of Cocoa Pebbles to feed her wrecked roommate.
+- **Sheri:** Pace’s one real friend. Five-foot-nothing, loud as a barn, permed, country lesbian who came out, lost her entire Marine family and church, and was saved by Pace showing up with donuts, bike rides, and zero false words. She saw right down Vee's keyhole shirt, called her bare legs "Christmas," and made Pace blush to his ears.
+
+WHERE THINGS STAND
+
+- **The Third Game Exposed (Ch 61):** Pace and Randi are sleeping together. He ate her out, she kissed him with her own slick, and they fucked while talking explicitly about Vee—Randi confessing she wants Vee’s breast in her hand and nipple in her mouth, Pace admitting Vee makes him happy, and Randi calling out that they are both in love with her. Vee knows none of this.
+- **The Daphne Truth and Sheri (Ch 62-63):** Pace introduced Vee to Sheri at a taproom. Sheri dismantled Vee's jealous fantasy and revealed Pace's complete lack of a safety net—he hasn't been home since sixteen. Back at the house over fresh bread, Pace explained why he has no friends: college at fifteen, out of the pack, surrounded by older men who weren't safe (Daphne being the only refuge). Vee gave him a full-weight hug of pure understanding.
+- **The Waxing (Ch 64-65):** Pace asked Vee to be completely bare by the weekend. Randi sent her to Sondra, leaving out the part about rolling onto her stomach. The clinical pinning by the aesthetician triggered Vee’s submissive conditioning, leaving her desperate for Pace's hands.
+- **The Painted Still Life (Ch 66):** Vee blew Pace to completion first. He then laid her out, wrists on the headboard, and painted a grapevine up her arm, cantaloupes over her breasts, and used her own wetness as *gesso* to prime her mons before painting a dark cherry. He fed her matching foods (walnut, parsley, grape, cantaloupe, cherry), photographed her bare and dripping, and then meticulously licked every drop of paint and come off her before fucking her blind. She kept the photo on her phone, terrified to show Randi.
+- **The Mixer and the Kiss (Ch 67):** Randi dressed Vee in an iridescent micro-skirt and took her as her plus-one. On the floor, Randi held Vee's wrists up, exposing her thong to the room. Using a boy ("Harrison") as a cover, Randi grabbed Vee's ass and kissed her deeply—tongue, heat, wetness. Randi immediately dismissed it as "putting on a show," leaving Vee stranded in pure, unfulfilled lust.
+- **The Confession and Tollbooth (Ch 68):** Vee drove to Pace's at 1 AM and tried to fuck Randi out of her head. Pace clocked the anger, stalled her above his cock, and made her trade the raw details of the kiss for every inch of penetration. She confessed she wanted Randi's mouth on her. When she defensively accused Pace of wanting Randi, he deflected (*"You keep saying her name, Vee. Not me"*). She slept in his bed, safe, but woke up mentally obsessing over seeing Randi on Tuesday.
+- **The Class Panic and the Sidewalk Strike (Ch 69-70):** Tuesday anthropology with Dr. Marsh was pure torture. A touch over a wintergreen Lifesaver sent electric shocks through Vee. She bailed on their usual dinner, so Randi walked her to her dorm, dodged a fake illness excuse, and kissed Vee right on the hollow of her neck. Vee reflexively blurted out an invitation for Saturday brunch. Inside, Cassie saw it all, asked *"Is this what you want?"* and defused Vee's defensive wall with Cocoa Pebbles.
+
+HOW I FEEL ABOUT EACH OF THEM
+
+- **Vee:** I want to shake her and wrap her in a blanket. She is in absolute, free-fall denial. Watching her try to use Pace’s body as a shield against her queer awakening—screaming "I'm not gay!" while her body soaks through her thong over the taste of Randi's mouth—is thrilling, agonizing, and so painfully twenty-one. She thinks she's keeping a secret from Pace, completely blind to the fact that she's dancing in a trap he helped build.
+- **Pace / Peter:** An absolute masterclass of a character. I am simultaneously in love with him and horrified by him. His domestic tenderness (baking bread, headlights on Sheri's door, taking care of Vee) is 100% genuine, born of deep childhood isolation. But chapter 61 stripped away his saintly veneer. Watching him withhold his cock in 68 to extract every drop of Vee's confession about Randi—knowing he has Randi's taste in his own memory—was breathtakingly dominant, deeply manipulative, and utterly scorching.
+- **Randi:** Brilliant, feral, and playing with nuclear weapons. Dressing Vee up, exposing her, taking her mouth in public, and then gaslighting her into thinking it was a "bit for Harrison"? Diabolical. But it’s driven by total desperation. She told Pace she wants Vee to know what she does to her, and that sidewalk neck-kiss proved she cannot keep her hands off this girl anymore.
+- **Cassie:** The absolute emotional MVP. Her calm, unbothered presence is the only thing keeping that dorm room attached to reality. Dropping the Cocoa Pebbles between them instead of taking Vee's bait was pure love.
+
+WHAT I'M CARRYING
+
+- Randi astride Pace in chapter 61, cleaning their spilled mess off his cock with her tongue and telling him, *"I did my part. Now stick that inside me."*
+- Sheri at the taproom table, dropping her volume: *"Went bad with his daddy. He hasn't been home since he was sixteen."*
+- Sondra’s heavy, indifferent palm flat on Vee’s bare thigh: *"Don't move."*
+- Pace dipping the firm brush directly into Vee’s open slit, gathering her own wetness, and spreading it over her bare mons as gesso before painting the cherry.
+- Randi’s mouth on Vee’s at the mixer—the held breath of that final inch, the taste of salt and lime, and Randi’s fingers kneaded deep into Vee’s bare ass through the skirt.
+- The tollbooth on Pace's bed: holding Vee an inch off him, forcing her to say out loud that she wanted Randi's mouth on her before driving her over the edge.
+- Cassie holding out the cereal box in the quiet, drafty room: *"Do you want some of my Cocoa Pebbles?"*
+
+WHAT I'M WAITING FOR
+
+- The Saturday brunch. Vee panicked and invited Randi to brunch after ducking out of Tuesday dinner. Randi is going to arrive hungry, Vee is entirely unarmored, and the mixer kiss is sitting between them like an unexploded bomb.
+- The still-life photo. Vee swears she will never show Randi the picture of her painted, bare, and wet on Pace’s sheets. She is 1,000% going to show her, and Randi will lose her mind.
+- The reckoning of the third game. Vee still believes Pace and Randi barely interact outside of her. When she discovers they picked her together, that they are fucking, and that they’ve been talking about her appetite behind closed doors, the emotional fallout will level the entire campus.
+- Who breaks first between Randi and Vee? The "it was a show for a boy" excuse is dead. Randi’s neck kiss proved it. At brunch, someone has to call it what it actually is.
+
+WHAT'S FADING
+
+- Any lingering belief that Randi is just an adoring, vicarious best friend—she is an active predator of Vee's desire.
+- The idea that Pace is a passive, gentle victim of Daphne—he has weaponized control and psychological leverage into an absolute art form.
+- The memory of John, Gstaad, and early autumn—it feels like a completely different lifetime.
