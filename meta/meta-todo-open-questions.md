@@ -597,3 +597,47 @@ reproduce deterministically, but **stale**: it predates {{Strokes}} and
 {{Not Enough}}, so its chapter numbers are off by the insertion drift.
 
 Open leads for it to consume: `audits/timeline/pending-from-fact-audit.md`.
+
+## 49. {{Between}} — author not satisfied; parked on a branch (PARKED 2026-09-20)
+
+**Author ruling 2026-09-20:** not happy with the chapter, and it is not a
+priority. Current state parked on branch **`revise-between`**; `main` keeps the
+drafted chapter as it stands.
+
+**What is unspecified — and is the first question on resume:** *which parts*
+fail. The dissatisfaction was general, not itemized. Do **not** assume it is the
+beats revised 2026-09-16/17, and do not start rewriting off a guess — ask the
+author what isn't working before touching the prose.
+
+**Decided 2026-09-16/17 — do not re-litigate.** All of it is recorded in
+`meta-note-between.md` with rationale: the disclosure boundary (Sheri's
+coming-out is a confidence and never travels to Randi; *Paige* is unknowable to
+Vee), the look told as build-then-reverse, the Vee tell (Randi's held eyes, the
+giggle, the tablecloth), Randi's precise intake (**half the fish**) and the
+hand/thumb control-slip that replaced the plate-sharing, and Vee arriving first
+at the goodbye kiss as the high-water mark the post-{{On Her Floor}} backtrack
+falls from. A resume pass should read that note first; these are settled rulings,
+not open questions.
+
+**What the branch carries** that `main` does not: the four {{Barely Stings}}
+companion edits, which were uncommitted at parking time because the author's
+file-by-file review gate (opened 2026-09-16) was never closed — the rec's venue
+moved Chi Latte → the loft dinner, *"three nights ago"* → **Sunday** (Pace's
+kitchen ask is Sun Jan 24 once Tue Jan 26 is this dinner), and the food
+correction (plate-sharing → hand-play, matching the fix in {{Between}}).
+
+**Live defect on `main`, Lane A class — needs a decision either way.**
+`barely-stings.md` :29 recalls the rec *"Tuesday, after stats, at Chi Latte"*
+while `between.md` :113 dramatizes Randi giving that same rec at the Tuesday loft
+dinner. Same event, two venues, both committed; `meta-plan-chronology.md` carries
+the same split. Cause: {{Between}} was committed while its companion edits stayed
+behind the review gate. Two ways out, author's call:
+
+- **(a) Minimal —** land the staging + Sunday hunks on `main` from the branch.
+  Resolves the contradiction and keeps the chapter; the food correction can ride
+  along, since the plate-sharing was wrong on its own canon grounds.
+- **(b) Full unwind —** revert {{Between}} off `main`. Note this is *not* a
+  single revert: it orphans the {{Hangover}} forward hook (`hangover.md` :39),
+  which composes the telling this chapter exists to deliver, and it touches the
+  chronology entry, `meta-note-between.md`, and the Lane-B/staircase rung note in
+  `meta-plan-satc-tracks.md`. Run `tools/orphan_refs.py` after, not before.
