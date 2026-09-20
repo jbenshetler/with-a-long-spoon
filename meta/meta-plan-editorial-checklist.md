@@ -34,6 +34,31 @@ mark items done with dates as they complete.*
   after all chapters clear the line audit. Complete 2026-08-03: 734 claims
   across 49 chapters (`audits/timeline/`), 9 findings ruled, no cumulative
   drift.
+- [ ] **Cross-chapter fact audit (Lane A)** — the class every per-chapter
+  instrument is blind to: a fact established in one chapter **contradicted in
+  another**. The linter has a closed vocabulary, the lore-keeper only answers
+  what it's asked, and a cold reader holds no other chapter in memory — none of
+  them can see it. Worked case: `not-enough.md`, where Pace waits for a truck
+  turning in four lines before *her car* finds the drive, and Vee drives a car.
+  Tool `tools/fact_audit.py` / `/wals-fact-audit`; per-model ledgers in
+  `audits/fact-audit/<model>/`. Runs **three independent ledgers** (Anthropic,
+  OpenAI, Google) and keeps only what more than one lands on. **Over-flags by
+  design — the author rules on every item.** Token rule: subscription lanes are
+  the default; OpenRouter is paid and author-authorized only. **In progress —
+  three models over the first ten chapters (2026-09-19); dates are out of
+  scope for this pass (the whole-book timeline sweep above owns them).**
+- [ ] **Orphaned-reference sweep (Lane B)** — text still pointing at something
+  a revision removed. Worked case: a cut passer-by "in a camel coat too warm
+  for the afternoon" whose later callback, "the closed camel-coat project,"
+  survived the cut and now names a character the reader never meets. Tool
+  `tools/orphan_refs.py`; sweeps in `audits/orphan-refs/`. Deterministic and
+  free, so it is also a **per-edit step** (`AGENTS.md` → *Before writing any
+  prose*, 3b) and runs advisory-only in `.githooks/pre-commit --staged`; this
+  checklist item is the **systematic front-to-back sweep**, which the hook
+  cannot substitute for (it fires after staging, is silenced, and sees only
+  staged paths). **First Vol 1 sweep run 2026-09-19
+  (`audits/orphan-refs/vol1-2026-09-19.txt`) — candidates outstanding, not yet
+  ruled with the author.**
 - [ ] **Proofread after typesetting** — on-device (Books/Kindle) against the
   built epub: section-rule breaks, italics at chapter boundaries, curly
   quotes/apostrophes, scene-break rendering.
