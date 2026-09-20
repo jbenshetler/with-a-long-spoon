@@ -36,10 +36,17 @@ import authorship_audit  # noqa: E402  (run_claude, OPENROUTER_MODELS, CLAUDE_PR
 PANEL_ROOT = REPO / "reviews" / "capture-panel"
 PROTOCOL = "capture-panel-v1"
 SAMPLE_SLUGS = ["the-bench", "standards", "the-pointing-game", "see-you-later"]
-PERSONAS = ["romance-graduate", "fsog-refugee", "consent-sensitive", "dark-romance-control"]
-# `queer-woman` is selectable but NOT in the default panel — same convention as
-# capture_dag.ALL_PERSONAS, so a bare --full never silently widens the run.
-ALL_PERSONAS = PERSONAS + ["queer-woman"]
+PERSONAS = ["romance-graduate", "fsog-refugee", "consent-sensitive"]
+# RETIRED from running (author ruling 2026-09-12): `dark-romance-control` is the
+# WRONG reader — a book that captures her is failing the repel goal, so her STOPs
+# were the success condition. She has delivered it, and the lanes that didn't stop
+# sat permanently behind, making every "catch up to chapter N" scope cost more than
+# the signal was worth. Do not run her again. She stays in ALL_PERSONAS only so
+# historical assembly from existing gates still works; her existing data is kept.
+RETIRED_PERSONAS = ["dark-romance-control"]
+# `queer-woman` is selectable but NOT in the default panel — opt in with --personas,
+# so a bare --full never silently widens the run.
+ALL_PERSONAS = PERSONAS + ["queer-woman"] + RETIRED_PERSONAS
 ARMS = ("jacket", "cold")
 MODELS = ["claude-fable-5", "claude-opus-4-8", "gpt-5.6-sol", "gpt-5.5",
           "kimi-k3", "glm-5.3-flash", "qwen3.8-max-0902", "deepseek-v4-pro-0813"]
@@ -203,6 +210,15 @@ def main() -> None:
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
+
+    # Retired personas stay selectable-by-name (for historical assembly) but must not be run.
+    if args.personas:
+        retired = [p for p in args.personas if p in RETIRED_PERSONAS]
+        if retired:
+            raise SystemExit(
+                f"refusing to run retired persona(s): {', '.join(retired)}. "
+                "Retired by author ruling (see RETIRED_PERSONAS); existing reads are "
+                "kept and historical assembly still works. Reviving one needs author approval.")
 
     vol_mode = args.volume or args.interview or args.dag_interview
     personas = args.personas or (PERSONAS if (args.full or vol_mode) else None)
