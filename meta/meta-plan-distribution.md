@@ -71,8 +71,15 @@ below against those. Companions: `meta-plan-free-sample.md` (discovery funnel),
   to manipulation/dubcon (see §4 packaging note). Certify accurately via D2D's ECS;
   conservative covers + PG-13 descriptions everywhere, regardless of interior heat.
 - **Retailers:** Kobo friendliest/clearest; Apple viable but vaguer; B&N effectively
-  closed to erotica (2017 purge); library channels exclude erotica. AI-cover
-  disclosure is now moot (cover is human-made — `meta-cover.md`).
+  closed to erotica (2017 purge); library channels exclude erotica.
+- **AI-cover disclosure is LIVE again (corrected 2026-09-18).** The earlier claim
+  here — that disclosure was moot because the cover is human-made — is **void**:
+  the Blender build is unfinished and the asset currently shipping
+  (`images/cover.png` → `a-polite-invitation-cover-purple-3.png`) is an **AI
+  render** (`meta-cover.md`, 2026-09-18 correction). KDP and several
+  aggregators ask about AI-generated content at publish time, so this must be
+  answered accurately — or the human cover must land first. Fine for a
+  test-reader copy, which is not a retail listing; **a wide-release gate.**
 
 ## 4. Audience & positioning
 

@@ -123,6 +123,16 @@ The shipping cover is built by hand:
 - **Photoshop** — compositing (medallion renders + type + velvet ground into the
   final layout).
 
+> **CORRECTION — author, 2026-09-18. The Blender build is NOT complete, and the
+> cover currently shipping is AI-generated.** `images/cover.png` symlinks to
+> `a-polite-invitation-cover-purple-3.png` (2026-08-03), an **AI render** — so
+> every epub built today, including any test-reader copy, carries an AI cover,
+> not the human-made symbolic cover described below. Two consequences: the
+> "nearly complete" assessment in the next paragraph overstates the build, and
+> **the AI-disclosure claim in `meta-plan-distribution.md` §3 is void** (it was
+> corrected the same day). Retarget the symlink only when a human-made
+> composite actually exists.
+
 **Build state (2026-08-30): nearly complete.** Triangle + all three cloisonné
 medallions (hand plane, diamond solitaire, sleep mask) are modeled and rendered on
 the plum velvet ground — latest iteration `triangle-cloisonne-velvet-18.blend`,
