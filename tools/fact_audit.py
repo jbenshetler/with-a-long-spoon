@@ -43,6 +43,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import re
 import sys
 from datetime import date
 from pathlib import Path
@@ -295,6 +296,36 @@ def check_chapter(agent_fn, model: str, model_id: str, slug: str, n: int,
     return p
 
 
+# Models format the finding header differently — "**WHERE**", "**WHERE:**",
+# "* **WHERE:**". A strict pattern silently reports zero findings for a model
+# that is actually finding things, which happened twice on 2026-09-20 and
+# produced two wrong conclusions before it was caught. Tally through this.
+FINDING_RE = re.compile(r"^\s*[*-]?\s*\*\*WHERE:?\*\*:?", re.IGNORECASE | re.MULTILINE)
+
+
+def count_findings(path: Path) -> int:
+    try:
+        return len(FINDING_RE.findall(path.read_text(encoding="utf-8")))
+    except OSError:
+        return 0
+
+
+def tally(models: list[str], volume: int) -> None:
+    slugs = volume_scenes.volume_slugs(volume, drafted_only=True)
+    width = max(len(s) for s in slugs) + 2
+    print("".ljust(width) + "".join(m[:10].ljust(11) for m in models))
+    totals = {m: 0 for m in models}
+    for s in slugs:
+        row = []
+        for m in models:
+            n = count_findings(report_path(m, s))
+            totals[m] += n
+            row.append(str(n).ljust(11))
+        if any(int(x) for x in row):
+            print(s.ljust(width) + "".join(row))
+    print("TOTAL".ljust(width) + "".join(str(totals[m]).ljust(11) for m in models))
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -306,11 +337,17 @@ def main() -> None:
     ap.add_argument("--rebuild-ledger", action="store_true")
     ap.add_argument("--fresh", action="store_true", help="redo existing reports")
     ap.add_argument("--effort", default="high")
+    ap.add_argument("--tally", nargs="+", metavar="MODEL",
+                    help="count findings per chapter across models")
     ap.add_argument("--diff-ledgers", nargs=2, metavar=("A", "B"),
                     help="report where two models' ledgers disagree")
     args = ap.parse_args()
 
     model_id = args.model_id or args.model
+
+    if args.tally:
+        tally(args.tally, args.volume)
+        return
 
     if args.diff_ledgers:
         a, b = (ledger_path(m, args.volume) for m in args.diff_ledgers)
