@@ -41,24 +41,31 @@ mark items done with dates as they complete.*
   them can see it. Worked case: `not-enough.md`, where Pace waits for a truck
   turning in four lines before *her car* finds the drive, and Vee drives a car.
   Tool `tools/fact_audit.py` / `/wals-fact-audit`; per-model ledgers in
-  `audits/fact-audit/<model>/`. Runs **three independent ledgers** (Anthropic,
-  OpenAI, Google) and keeps only what more than one lands on. **Over-flags by
-  design — the author rules on every item.** Token rule: subscription lanes are
-  the default; OpenRouter is paid and author-authorized only. **In progress —
-  three models over the first ten chapters (2026-09-19); dates are out of
-  scope for this pass (the whole-book timeline sweep above owns them).**
+  `audits/fact-audit/<model>/`; state: `audits/fact-audit/STATUS.md`. Runs
+  **independent ledgers across vendors** — five models, four vendors as of
+  2026-09-19 (`b082c4f6`: a *second vendor* is what finds real problems, so
+  spend on cross-vendor breadth, not depth in one family) — and keeps what more
+  than one lands on. **Over-flags by design — the author rules on every item.**
+  Token rule: subscription lanes are the default; OpenRouter is paid and
+  author-authorized only. **In progress — first ten chapters audited by five
+  models (+`a-round`, `not-enough` by sol alone), 2026-09-19; nothing ruled with
+  the author yet. Dates are out of scope for this pass** (the whole-book
+  timeline sweep above owns them).
 - [ ] **Orphaned-reference sweep (Lane B)** — text still pointing at something
   a revision removed. Worked case: a cut passer-by "in a camel coat too warm
   for the afternoon" whose later callback, "the closed camel-coat project,"
   survived the cut and now names a character the reader never meets. Tool
-  `tools/orphan_refs.py`; sweeps in `audits/orphan-refs/`. Deterministic and
+  `tools/orphan_refs.py`; sweeps in `audits/orphan-refs/`; state:
+  `audits/orphan-refs/STATUS.md`. Deterministic and
   free, so it is also a **per-edit step** (`AGENTS.md` → *Before writing any
   prose*, 3b) and runs advisory-only in `.githooks/pre-commit --staged`; this
   checklist item is the **systematic front-to-back sweep**, which the hook
   cannot substitute for (it fires after staging, is silenced, and sees only
   staged paths). **First Vol 1 sweep run 2026-09-19
-  (`audits/orphan-refs/vol1-2026-09-19.txt`) — candidates outstanding, not yet
-  ruled with the author.**
+  (`audits/orphan-refs/vol1-2026-09-19.txt`) — 26 candidates, none ruled with
+  the author.** Heaviest in the most-revised chapters: `the-bench` 10,
+  `the-pointing-game` 6 (including the camel-coat cluster, the pass's own worked
+  case).
 - [ ] **Proofread after typesetting** — on-device (Books/Kindle) against the
   built epub: section-rule breaks, italics at chapter boundaries, curly
   quotes/apostrophes, scene-break rendering.
