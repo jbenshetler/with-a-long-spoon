@@ -1,49 +1,34 @@
 # Cold read (grounded) — My Friend Randi
 
-*scene: scenes/my-friend-randi.md · model: gpt-5.5 · memory: ck-ch040 + raw ch041..ch048 · reader-protocol: v3-grounded-checkpoint · prose-sha ~79b4d57f1ee0*
+*scene: scenes/my-friend-randi.md · model: gpt-5.5 · memory: ck-ch050 (no window) · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-I felt this chapter as relief with a hook in it. Vee is so wrecked at the start that I was almost physically tired with her: the red-eye, the heater, the no-radio drive, the dorm room stripped of Cassie, “a town that had Pace in it and not one inch of him for her.” That line lands hard because it says exactly what the last few chapters have been making me feel: the relationship has become enormous to her, and without a name it has nowhere to stand.
+I felt this chapter in my chest first: the awful hollow of coming back to the place where Pace is and still having no access to him. Vee’s drive from the airport is so bleak because it makes “home” feel like a punishment. The line that landed hardest was “a town that had Pace in it and not one inch of him for her.” That is exactly her wound: not absence, but proximity without claim.
 
-Randi, on the page, is incredibly soothing here. I do not mean innocent. I mean effective. She gets Vee out of the hall, away from Brooke and the house’s eyes, shuts the door, holds her, lets her cry, and then starts sorting the panic into usable pieces. I trusted the hug in my body before I distrusted the guidance in my head. The smell of her neck, “bitter orange, green at the edge, nothing sweet,” had real pull; it felt intimate in a way Vee still will not quite name. The hug going “past where a hug stops” absolutely charged the room for me.
+Randi is devastating here because she is both refuge and danger, and this chapter lets me feel the refuge before I can object to the danger. She gets Vee out of the public room, shuts the door, holds her, makes space on the bed by sweeping away the evidence of Gstaad. I melted at that: “none of it rated a look, that the wrecked girl in her doorway came first.” Whatever else Randi has done, that care is real on the page. And yet she also steers. She reframes Pace, reframes Sheri, reframes Vee’s shame, and finally gives Vee a sexual strategy that is perfectly aimed at both Pace’s weakness and Vee’s own body. It is warm, intimate, and manipulative all at once.
 
-But Randi’s help also makes me uneasy because she is right in the most dangerous way. She does not lie to Vee about Pace’s likely feelings, at least not obviously. Her reading of the silence as two people dug in feels plausible, and “Don’t you dare hand him to a woman who doesn’t even have a face” is exactly the sentence Vee needs. But Randi is also steering her with such confidence, especially once she moves from emotional repair into erotic strategy. “You don’t do it with words. Words are the whole war” feels thrilling and a little damning. It solves the immediate problem by taking Vee around the wound instead of through it.
+My feeling about Vee moved from grief into frightened excitement with her. The coat idea works erotically because it comes through shame, not despite it. “And nothing under it” is hot because Vee hears herself say it before she can hide from it, and then the old “slutty” voice rises up and desire rises with it. That is very much this book’s charge: mortification catching fire into wanting. I want this for her because she wants him back, but I also ache because she is going to him without the word she asked for. She is changing the language of the fight back into sex, and I can feel why that seems brave and why it may hurt her.
 
-The coat plan works on me erotically. It really does. The moment Randi leaves the sentence unfinished and Vee supplies “And nothing under it,” I felt the click: shame, boldness, desire, surrender, all braided together in the book’s exact register. Vee’s “I can’t” is not refusal so much as the old shame flaring up, and Randi walks her through it with warmth. “That’s not a slut, gorgeous. That’s the bravest thing a woman can do” is manipulative and gorgeous at once. I believe Vee wants to do it. I also feel Randi enjoying the making of Vee into “the thing,” and that is where the heat gets darker.
+Pace is not present, but Randi almost conjures him back into trust: the warmed house, the wine, the chicken, the phone in the other room. I do believe those details. I still think he failed Vee badly, but Randi makes me remember the care rather than only the silence. My suspicion is not that Pace used Vee; the text has earned the opposite. My suspicion is around Randi’s certainty: “I know so.” She does know more than Vee knows she knows. That makes the comfort feel both beautifully informed and unfairly loaded.
 
-Pace is offstage, but he is everywhere. My feeling toward him softened a little through Randi’s reconstruction of the last night, and through what I remember from “The Usual.” He misses Vee. He is not done. But the chapter does not erase the hurt. He still did not text. He still let a month pass. He still cannot say the word. The silence has done real damage.
+The erotic peak for me is not explicit sex; it is Randi walking Vee toward the coat. “You’d be walking through the cold to hand him everything, no words, no fight, nothing kept back.” That is a gorgeous, dangerous sentence. It made me want the scene and dread it in the same breath. The goodbye kiss between Vee and Randi also hums because it has become “unremarkable now,” which is exactly why it is remarkable. Vee can still file it as friendship. I cannot.
 
-Brooke surprises me a little by how kind she feels here. Her warmth may be socially polished, but in this chapter I didn’t feel a blade in it. She sees a crying girl and asks if she needs anything. That was simple, and it counted.
+The John story is such a sharp counterpoint. Vee hears romance in it: future spoken easily, dancing, a dress “to tell your daughter about someday.” But I know from Randi’s quiet that the story’s surface is not the truth. Randi’s “Everywhere but the bedroom” makes Vee laugh, but I don’t fully buy that as the whole explanation. It feels like Randi closing the door again, smiling over emptiness. The chapter title, “My Friend Randi,” hurts a little after reading: that is how Vee can survive the intimacy, by naming it friendship. The cover board, `WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION`, still feels like a promise of manners around hunger, an invitation extended with distance built into it. The title `My Friend Randi` now points less to introduction and more to misnaming: friend, yes, but not only friend.
 
-The Randi New Year retelling is fascinating because Vee hears the fairy tale Randi gave her, not the hollow middle we just saw. That gap made me ache. Vee envies exactly the part that meant nothing to Randi: the named children, the dress “you buy to tell your daughter about someday,” the man who can build a future out loud. And Randi skips the real emptiness by turning it into a bedroom joke: “Everywhere but the bedroom, and the bedroom’s the room I actually live in.” Vee laughs because she needs Randi restored to form. I know there was more under that pause, but Vee doesn’t.
+**Cast present (in person):** Vee, Randi, Brooke, an unnamed blonde sorority girl.  
+Mentioned-only: Pace, Sheri, John, Cassie, Randi’s imagined future daughter/children from the John story.
 
-The title, “My Friend Randi,” feels painfully exact. That is what Vee can call her. Friend. Best friend. The person she runs to, the one who holds her, lends the shoes, tells the story, gives the plan. But the chapter keeps showing me how much more than “friend” is moving underneath: the smell, the long hug, the kiss that is “unremarkable now,” Randi’s possessive competence. The title does not give anything away; it sits like Vee’s own cover story.
+**Heat:** 2 — sustained charge gathers around the coat, shame, exposure, and the kiss goodbye.
 
-*A Polite Invitation* feels very alive here. The invitation is not a single ask; it is Randi laying the door open and letting Vee step through by saying the missing words herself. *With a Long Spoon* still feels like intimacy with danger in it, the need to approach desire at a distance because it burns or stains or changes you. The closing blurb beat, “Every yes was freely given. That was the problem,” is ringing loudly now. Vee’s yes to the coat plan is hers. That is what makes it hot. It is also what makes me afraid.
+**Romance:** 2 — Randi’s care for Vee is deeply tender, and Vee’s longing for Pace is aching, even with no resolution.
 
-What I want next is the doorstep. I want him to open the door and be undone by her. I want the heat of it badly. I also dread that this will give them a blazing reunion without answering the thing she asked. My guess from here: it works physically, maybe beautifully, and then the unsaid word is still waiting afterward.
+**Motifs & images:** Warmth/cold repeats hard: airport gray, cold campus, Pace’s heated house, the cold walk planned for tonight. Clothes as selves returns through the coat, black heels, Gstaad dresses, and the blue ball dress. Food repeats through chicken, wine, and Pace’s cooking as proof of care. Doors/thresholds recur in Randi getting Vee behind a shut door and the imagined arrival at Pace’s door. Shoes repeat with Randi deciding the black heels.
 
-**Cast Present (In Person):**  
-Vee, Randi, Brooke, unknown blonde sorority girl.  
-Mentioned only: Pace, Cassie, Sheri, John, Randi’s father.
+**Symbolism:** The coat becomes a wordless apology and offering, but also a risky substitute for the words Vee still needs. Gstaad is the perfect story that cannot feed Randi. Randi’s messy room and swept-aside luxury stand for Vee mattering more than the polished life.
 
-**Heat:** 1.5 — no sex on page, but the coat-with-nothing-under-it plan and the long Randi/Vee hug are deeply charged.
+**Characterization:** Vee deepens in the way grief, shame, and desire all move together in her. Randi deepens most: her care is convincing, her control is frightening, and her omissions are loud. Pace, though offstage, remains consistent through remembered acts of care and silence. Brooke stays warmly peripheral but socially alert.
 
-**Romance:** 2 — Vee’s longing for Pace is raw, and Randi’s care feels intimate; the chapter is full of attachment even without declarations.
+**Pace — within the chapter:** It earns its length; the grief opens slowly, then Randi’s persuasion tightens the scene into momentum. The John interlude slows the chapter, but usefully, because it reflects Vee’s hunger for a story with a name.
 
-**Motifs & Images:**  
-Repeat: cold/warmth, Pace’s heated house, food/wine waiting, doors that shut, shoes as permission, Randi’s “gorgeous,” hidden bodies under clothes.  
-First/strong: Randi’s bitter-orange scent; the coat as erotic answer.
-
-**Symbolism:**  
-The coat stands for Vee choosing exposure while still wrapped in public respectability. Randi’s borrowed heels again become permission Vee cannot quite give herself alone.
-
-**Characterization:**  
-Vee deepens in her need and fear; she is not foolish, just desperate for a shape. Randi deepens as both tender friend and active manipulator. Pace remains offstage but emotionally present. Brooke gains a small note of real kindness.
-
-**Pace — Within The Chapter:**  
-Strong. It moves cleanly from collapse, to repair, to plan, to Randi’s fairy-tale aftertaste. Nothing dragged for me.
-
-**Pace — Chapter To Chapter:**  
-Building again. After the long ache of silence and separation, this chapter turns momentum toward action without resolving the central wound.
+**Pace — chapter to chapter:** Building. After Pace’s private collapse, this chapter turns Vee back toward action, but the momentum is tense because the action may heal the rupture or deepen the original wound.

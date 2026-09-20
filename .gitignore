@@ -19,3 +19,7 @@ build/
 reviews/cold-read/.packets/
 /chronology.html
 /chronology-reviews.html
+
+# Fact-audit scratch: persistent by design (a model may write its artifact
+# here rather than reply with it), but machine output, not canon.
+audits/fact-audit/.work/

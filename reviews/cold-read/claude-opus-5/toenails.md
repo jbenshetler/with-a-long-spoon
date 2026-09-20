@@ -1,0 +1,37 @@
+# Cold read (grounded) — Toenails
+
+*scene: scenes/toenails.md · model: claude-opus-5 · memory: ck-ch010 + raw ch011..ch018 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+**The felt read**
+
+Short chapter, and it went in like a splinter. Vee comes home glowing — no bag, because packing one the night before "would have been to say the thing to herself, plainly," which is the most Vee sentence in the book: she got what she wanted by refusing to admit in advance that she wanted it. I loved her in that mirror, bare-faced, hair "its own wild country," laughing. The smile that came back at every red light. I have wanted this for her since the tree, and the chapter gives me the afterglow without a single body on the page, and I still felt warm.
+
+And then it does the thing I didn't see coming and can't stop thinking about: she tells Cassie the story and *ladles the middle out.* "The way a ladle takes soup from the pot and the surface closes without a hole." That image is going to stay with me. She gives Cassie the apron, the garlic, the Chianti opened ahead of her — all true, all givable — and keeps the part where the door became the bed before either of them said anything, and the shame that ran the whole length of it and never closed her. And she calls it a kindness, and the page won't let her have that clean: "She believed it the way you believe the thing that lets you keep what you want to keep." That's the first time in this book Vee has lied to someone who loves her, and it's the *good* thing she's lying about. That reversal did something to my chest.
+
+The zipper is the whole chapter. She reaches for it, gets it halfway, and stops — because she gave the green away, because *Trade*, and because "the next thing she took off would not be a story she was editing. It would be on the floor, and there would be nothing left to say." A girl who has now stood bare on a box in the afternoon light for a man, who knocked on a truck window and opened her own shirt, cannot get undressed in front of her best friend of two years. Not shame of the body — she's past that, gloriously — but she cannot be *unedited* in that room. That's the loneliest thing that's happened to her yet, and it happened while she was the happiest she's ever been. Both sentences are on the page and neither cancels the other.
+
+Cassie broke my heart in one clause. She reads the toenails in October, delivers "I have eyes," listens with her chin on her knees, and — this is the part — "did not pull at the seam. Whether she felt it there, Vee couldn't have said." Then she gives the wrong diagnosis with total confidence: "You need to get your brain back from your boyfriend," which the page flatly marks *"kindly, certainly, wrong."* And the flicker at the top — "something crossed her face and was gone before it found a name" — is the third time now I've watched Cassie fold something away unread (the "Goodbye, Vee," the look after stats). She's still the only honest instrument in the book and she's being handed doctored readings. "Don't wait up, lover," thrown over her shoulder on the way to a game, landed on me like a door closing gently.
+
+No suspicion earned here, and I want to be straight about that: nobody does anything shady in this chapter. What I have instead is dread with an address. Vee has now got *two* things she isn't saying — the middle of Friday night, and the mouth-kiss in the fire lane, which she explained away as French and which she has told exactly no one. Randi isn't named once in this chapter and her absence rang. The one place my skin actually crawled was the **toenails** themselves: frosted plum, painted early enough to be "dry and perfect," chosen "without thinking too hard about why." Because I remember whose toes get polished in this book, and whose polish was "the one small place she let herself step out of line." Vee's small private out-of-line place now matches Randi's, and Vee doesn't know Randi exists in that way, and I do. That's not the author's thumb; that's just me holding two chapters at once, and it's cold.
+
+Erotic charge ran low and under-floor here, which felt right — the night is a second channel that "had not shut off once," not a scene. It peaks not in memory but in the bareness under the skirt three feet from Cassie. Nothing went slack; the chapter is the length of a held breath and doesn't overstay. Zero friction — I didn't disbelieve a line. **"Toenails"** as a title is lovely and sly: the smallest possible piece of evidence, the tell a friend spots when the confession is being managed, and the one detail Vee didn't think about too hard. It illuminated rather than gave away. And **WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION** is doing quiet work now — the proverb is about supping with something you'd better keep your distance from, and this is the first chapter where I watched Vee *shorten* the spoon herself and be delighted about it. What I want next: for someone to ask her a real question. What I dread, as a guess from here: that the next person she gives the middle to will be Randi, because Randi is the only one who asks.
+
+---
+
+**Cast present (in person):** Vee, Cassie. *Mentioned only:* Pace, Vee's mother (as the anticipated "word").
+
+**Heat:** 1 — the night runs as an under-channel; the live charge is the bareness under the zipped-back skirt, not a scene.
+
+**Romance:** 1 — faint, retrospective warmth (the Chianti opened ahead of her); the chapter's real intimacy is a friendship going lopsided.
+
+**Motifs & images:** **Toenails/polish** — repeat, and pointed: Randi's blue polish, ch 1, "the one small place she let herself step out of line," now Vee's frosted plum chosen "without thinking too hard about why." **Nothing under the skirt / the given-away green** — repeat of the *Trade* from "Famished." **Cassie reading Vee instantly** — repeat (bleachers, the flannel, the "how much did he give you to drink"). **The folded-away look** — repeat (ch 4, ch 10). **Doors and locks** — the sticking lock opened with her hip, first sighting in this key. **Cold room / open window vs. stuffy hall** — repeat of Cassie's two-inch window. **The mother's word arriving and being shrugged off** — repeat, but *declined* for the first time: "The word could come; she found she didn't much mind it this morning."
+
+**Symbolism:** The ladle and the closing surface — a confession with a hole in the middle that leaves no hole. The half-drawn zipper as the exact border of what she can let be seen. Cassie's brown milk tipped back and finished while the truth doesn't get told.
+
+**Characterization:** Vee deepened, and in a direction I didn't expect — happiness making her secretive rather than open. Cassie deepened by restraint: she declines to pull the seam, and the page names her verdict "wrong" without making her stupid. No one went thin.
+
+**Pace — within the chapter:** Taut. Every beat earns its space; the zipper stop is placed exactly where it should be, and the last three clauses ("the green was given away, and the smile would not come down. She had never in her life been so happy") land without pressing.
+
+**Pace — chapter to chapter:** Building, with a well-judged exhale. After the consummation, a short reflective chapter is the right move — and it quietly opens a new front (what Vee won't say, and to whom) rather than just cooling down. Not too much of the same beat; this is the third Cassie-debrief in a row, but it's the first one that *fails*, which is the point.

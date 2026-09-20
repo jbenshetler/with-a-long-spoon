@@ -237,9 +237,21 @@ def load_checkpoint(model_id: str, b: int) -> str:
 
 
 def review_memory_is_current(model_id: str, n: int, decade: int, path: Path) -> bool:
-    """Native reviews resume normally; donor reviews must pin the current ensemble hash."""
-    if cold_read_config.checkpoint_source(model_id) == "native":
-        return True
+    """True when a review's recorded memory matches what this chapter would be
+    read under *now* — checked for EVERY reader, native or donor.
+
+    Native readers used to short-circuit to ``True`` here, so resume could not
+    distinguish a stale-memory review from a current one. That is how 63
+    Volume One reviews survived a chapter insertion still looking clean: they
+    were read under `raw ch041..ch048`, a window that no longer exists, and
+    nothing ever compared it. `--check-stale` could not catch it either — it
+    compares the target chapter's own prose-sha, which inserting a *neighbour*
+    does not change. Between them the harness had no way to see a moved
+    memory window (2026-09-17).
+
+    A review whose memory is wrong is invalid no matter who read it, so the
+    check is now unconditional. Every grounded review on disk records a
+    `memory:` field, so nothing legacy is stranded by this."""
     expected = f"· memory: {memory_line(model_id, n, decade)} ·"
     header = path.read_text(encoding="utf-8").split("## Reader reaction", 1)[0]
     return expected in header
@@ -1225,7 +1237,7 @@ def main() -> None:
         print(f"[auth] openrouter lane — billing PER TOKEN (author-authorized) · {args.model}",
               file=sys.stderr)
         or_fn = cold_read.make_openrouter_agent_fn(
-            system_prompt=system_prompt, effort=args.effort, timeout=2400,
+            system_prompt=system_prompt, policy="read", effort=args.effort,
             max_output_tokens=args.max_output_tokens, api_key=key)
         for _ in range(jobs):
             pool.put(or_fn)

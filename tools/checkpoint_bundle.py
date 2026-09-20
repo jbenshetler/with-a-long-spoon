@@ -163,9 +163,20 @@ def build_bundle(start: int = 1, end: int | None = None, jacket: bool = True,
 
 
 CHECKPOINT_SEEDS = {
-    # Current operational seam. The approved final Vol1 boundary is 51; the
-    # drift guard below forces an atomic policy/artifact cutover once it is drafted.
-    60: 50,
+    # boundary -> the SLUG whose checkpoint seeds it.
+    #
+    # The key is a decade boundary, which is a memory-windowing position and is
+    # legitimately numeric. The value is a volume seam, which is a story
+    # landmark and must be a name: a chapter inserted earlier renumbers every
+    # position after it but leaves the slug alone. Recorded as a number until
+    # 2026-09-17, when `strokes` and `not-enough` moved Volume One's end from
+    # ch050 to ch052 and this seam silently stopped meaning "end of Volume One".
+    #
+    # `not-enough` is what the shipped ck-ch050 artifact actually covers through.
+    # It is NOT Volume One's last chapter any more, so `checkpoint_plan` fails
+    # closed below until the seam is cut over to `volume_last_slug(1)` and the
+    # affected checkpoints are reminted atomically.
+    60: "not-enough",
 }
 
 
@@ -179,22 +190,25 @@ def checkpoint_plan(end: int) -> tuple[int | None, int]:
     slugs = reader_slugs()
     if not (1 <= end <= len(slugs)):
         raise ValueError(f"end {end} out of bounds (1..{len(slugs)} drafted)")
-    volume_one_end = len(volume_scenes.volume_one_slugs(drafted_only=True))
+    volume_one_last = volume_scenes.volume_last_slug(1, drafted_only=True)
+    volume_one_end = volume_scenes.chapter_number(volume_one_last)
     if end <= volume_one_end:
         return None, 1
-    seed_boundary = CHECKPOINT_SEEDS.get(end)
-    if seed_boundary is None:
+    seed_slug = CHECKPOINT_SEEDS.get(end)
+    if seed_slug is None:
         raise ValueError(
             f"no explicit checkpoint seed policy for boundary {end}; "
             "add an author-approved CHECKPOINT_SEEDS entry"
         )
     first_seeded_boundary = min(CHECKPOINT_SEEDS)
-    if end == first_seeded_boundary and seed_boundary != volume_one_end:
+    if end == first_seeded_boundary and seed_slug != volume_one_last:
         raise ValueError(
-            f"checkpoint seed policy for boundary {end} uses ck-ch{seed_boundary:03d}, "
-            f"but drafted Volume One ends at ch{volume_one_end:03d}; "
-            "update the seed policy and remint affected checkpoints atomically"
+            f"checkpoint seed policy for boundary {end} seeds from {seed_slug!r} "
+            f"(ch{volume_scenes.chapter_number(seed_slug):03d}), but drafted Volume One "
+            f"ends at {volume_one_last!r} (ch{volume_one_end:03d}); "
+            "update CHECKPOINT_SEEDS and remint affected checkpoints atomically"
         )
+    seed_boundary = volume_scenes.chapter_number(seed_slug)
     return seed_boundary, seed_boundary + 1
 
 

@@ -49,9 +49,25 @@ why      = "Existential 'there was…' often buries the real subject. Consider r
 [[rule]]
 id       = "flat-interrogative"
 kind     = "regex"
-pattern  = '(?i)"(?:what|how|why|who|where|when|which|are|is|do|does|did|can|could|will|would|should|you okay)\b[^"?.!]*,"'
+# Two closes, not one (author ruling 2026-09-16). The original pattern required
+# the flat close to be a COMMA and the quote to OPEN on the interrogative, so it
+# missed both period-closed questions ("Did he.") and any question behind a
+# lead-in ("So where's my model,"). Now: an optional lead-in, then any of four
+# interrogative shapes, closing on . or , with no ? or ! between —
+#   WH + auxiliary   ("What did you do.", "How is it going with Pace,")
+#   WH + contraction ("Where's my model,", "Why's he like that,")
+#   auxiliary + subject ("Did you swallow all of it,", "Am I.", "Is she better.")
+#   a short WH fragment, ≤2 words ("Which shoes.", "What happened.")
+# Precision comes from requiring INVERSION — an auxiliary must be followed by a
+# subject, and a WH word must be followed by an auxiliary, not a subject. That
+# keeps imperatives clear ("Don't move." / "Do it." / "Have a drink first.") and
+# keeps relative/subordinate clauses out ("Which is true.", "When I got there,
+# they assigned me someone.", "Where you needed it."), which a bare WH-word
+# anchor flagged by the dozen. Widening it back to a bare anchor doubles the
+# hit count and half of it is noise — don't.
+pattern  = '''(?i)"(?:(?:so|and|but|oh|well|now|then|okay|ok|yeah|god|hey|wait|no)[, ]+){0,2}(?:(?:(?:what|how|why|who|whose|whom|where|when)\s+(?:is|are|was|were|am|do|does|did|can|could|will|would|should|has|had)\b|(?:what|how|why|who|where|when|which)['’](?:s|d|re)\b|(?:is|are|was|were|am|do|does|did|can|could|will|would|should|has|had)\s+(?:you|i|we|they|he|she|it|that|this|there|anybody|anyone|somebody|someone|everybody)\b|you okay\b)[^"?!\n]*[.,]"|(?:what|which|how|where|when|why|who|whose)(?:\s+(?:[\w'’*]+ ){0,1}[\w'’*]*)?[.,]")'''
 severity = "warn"
-why      = "Interrogative dialogue punctuated flat (comma, no question mark) — a borrowed literary mannerism. Author ruling 2026-07-31: genuine questions, especially comfort/safety check-ins, get real question marks; flat delivery reads as telling her she's okay rather than asking, and renders Pace cold. Flat is permitted only where the narration explicitly marks the line as not really a question."
+why      = "Interrogative dialogue punctuated flat (no question mark) — a borrowed literary mannerism. Author ruling 2026-07-31: genuine questions, especially comfort/safety check-ins, get real question marks; flat delivery reads as telling her she's okay rather than asking, and renders Pace cold. Extended 2026-09-16: it is wrong and confusing, comma OR period, and the flag is not confined to the start of the line. Flat is permitted only where the narration explicitly marks the line as not really a question (\"rhetorical\", a register-drop named on the page). NOTE the blind spot: an elliptical question with no interrogative word — \"In heels.\" answering a height — is undetectable by pattern and needs a human eye."
 
 
 [[rule]]

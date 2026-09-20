@@ -1,0 +1,37 @@
+# Cold read (grounded) — Peekaboo
+
+*scene: scenes/peekaboo.md · model: claude-opus-5 · memory: ck-ch020 (no window) · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+**Felt read**
+
+This one just made me happy. I kept waiting for the shadow and it didn't come, and I've decided not to manufacture one, because what the chapter is actually about is a woman walking into a room, seeing a thing made for her body by a man who stayed up all night hiding the labor, and crying before she'd decided to. "That he'd taken all that trouble and then taken the further trouble to hide the trouble, so the only thing left for her to see was the part that looked like no trouble at all." That's the line that got me too. It reframes everything he's done for her — the thermostat hours early, the pencil handed back, the face turned up at the fitting — as one consistent habit: he removes the evidence of his own effort so she never has to carry the debt. I don't think that's manipulation. I think that's the single most romantic idea the book has had.
+
+The opening ten seconds are the best-executed small thing in the chapter: "the hello after, which they hadn't done yet." Both hands taken in the doorway, the careful peck that's a question, the hug that swings her half a turn into the house and then stops being a hug — and then *he breaks it*, grinning like a kid who can't hold a surprise one more second. Pace has a bedroom he could have pulled her toward and he pulls her the other way, toward the sun porch. That's the whole character in one gesture and I loved it.
+
+The heat is real and it peaks in a place I didn't expect: not the standing penetration in the den, but the comedy. "There's a lot of you covered in a lot of me," and he twitches in her hands, and she says it again slower on purpose. Then the relay — both of them holding something neither can let go of, elbows fending the silk off, the dress at half-mast while she laughs too hard to be undressed. I have read a great many sex scenes that were solemn and very few that were *funny while still being hot*, and this one stays hard the whole way through the joke, which is the trick. And then: "Let me see." "Closer." Him studying her fingers with the care he'd give a hem and then taking two of them into his mouth, slow, eyes up, cleaning her own slickness off her — that went through my knees the way it went through hers. The mirror beat earlier does something quieter and just as good: *Floozy* flares up automatic, her face goes hot, and "she stayed anyway, made herself look, and somewhere behind her ribs the looking stopped being shame." She's been losing that fight for twenty-one years and here she wins it standing still.
+
+And then she takes the underwear off. That's the chapter's actual event, and it's hers alone — he's in the other room, nobody asked, the slit showed a pale edge cutting the line and her second thought "came up hot behind the first and didn't care what showed." "She was the one who'd taken the edge away." Then she *strides* to him. After twenty chapters of a woman who shrank herself at a table in front of Brooke, that walk is a small triumph and the prose lets it be one without a speech.
+
+Where my unease lives now is narrow and I want to be precise about it, because the chapter earned no new suspicion — nobody appears in it but the two of them, nobody lies, nothing is extracted. It's the daydream at the end. She imagines walking into the induction late, on purpose, in a dress that looks flown in from Milan, and letting the room turn, "and the looking didn't cost her a thing. It just felt like what *she was for*." I read that twice. It's phrased as liberation and it lands as liberation, and it also sits one inch from the thing Randi said to her — *you love being looked at* — and from a question I can't stop holding: whose appetite is she learning, exactly. The page leaves it open. I'll leave it open. But her mother is going to be in that room, and now there's a slit to the hip and no shoes that go with it, and "that woman could wait" is the kind of line a book comes back for.
+
+Friction: almost none. The only beat I didn't fully buy is how instantly the closure "drew up and caught and sat, like it had been waiting" on a garment she'd never once had a fitted seam of — but that's a churl's complaint about a moment designed to feel like magic, and it did. I'd have liked one more sentence of her looking at the lining he put *only* over the parts the dress declined to give away; that detail is the most tender thing in the room and it goes by in a breath.
+
+**"Peekaboo."** Before I read it, it sounded like a game someone plays *on* someone — hiding and being found — and my dread went to Randi. After, it's simpler and dirtier and better: the slit, the leg given and taken back and given with every stride, the dress that shows and then closes. Now/not-now. A woman deciding what appears. And underneath, gently: he hid the labor so the dress could say *ta-da*. **With a Long Spoon · Book One — A Polite Invitation** still reads as a warning I've been carrying for twenty chapters — sup with a long spoon — and this chapter is the one where the meal was genuinely, unpoisonedly lovely, which somehow makes the spoon feel longer.
+
+**Cast present (in person):** Vee, Pace. Mentioned-only: her mother (as the word *Floozy*), the induction and the other girls, by imagination.
+
+**Heat:** 3 — the drive-long hum, the stripping she chooses alone, the standing joining, and his mouth on her fingers; charge dominates start to finish and stays hot through the laughing.
+
+**Romance:** 3 — a made thing, a hidden labor, a sleepless night unmentioned, and her crying before she knew she was.
+
+**Motifs & images:** Doors and the left/right turn (repeat — the one closed door of ch 14, opened ch 18; here he refuses the bedroom for the sun porch). The pedestal and the fitting room (repeat, ch 15). Shoes (repeat — the scuffed good pumps, now judged and refused: "this wasn't a dress you apologized for"). Rising onto her toes at the mirror (repeat — ch 15, *hmm*). *Floozy* in the mother's register (repeat). Silk and light, "wine-dark glow." Wetness as evidence handed back (repeat — the folded green panties; here the underwear left on the chair, and her fingers cleaned in his mouth). Being looked at with the lights up (repeat). Him asleep on his back while she's the only one awake in the warm house (first — and a quiet mirror of ch 1's aftermath, where a woman lay awake with a decision).
+
+**Symbolism:** The dress with no findable seam — love that erases its own evidence of work. The lining placed only where the cut would expose her — protection installed silently at exactly the coordinates of her shame. The hem that "wanted a height she wasn't giving it": a version of herself not yet owned, waiting on shoes.
+
+**Characterization:** Both deepened. Pace: the grin that couldn't wait is the first time he's been *impatient*, and it's over her delight, not her body. Vee: took her own underwear off with no one watching — agency without an audience, which is new.
+
+**Pace — within the chapter:** Ideal. The reveal takes its time, the comedy earns its length, the hallway walk is one paragraph and doesn't overstay.
+
+**Pace — chapter to chapter:** Building, and a welcome change of register after the brunch-and-report rhythm of 19–20 — a chapter where nothing is told to a third party. The induction is now loaded and close.

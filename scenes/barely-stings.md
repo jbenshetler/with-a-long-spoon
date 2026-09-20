@@ -10,7 +10,7 @@ She almost laughed. Almost said it — *you're going to want me drunk for this?*
 
 It was cold and a little sweet and she drank a third of it faster than wine was meant to be drunk, and felt it land, low and loosening, and was glad.
 
-He had asked her three nights ago, in his kitchen, in the plain voice he used for facts about the world, and he had said it looking straight at her. He always looked straight at her — as if no part of her needed a man to find somewhere else to put his eyes.
+He had asked her Sunday, in his kitchen, in the plain voice he used for facts about the world, and he had said it looking straight at her. He always looked straight at her — as if no part of her needed a man to find somewhere else to put his eyes.
 
 "I'd like you waxed," he'd said. "By the weekend. Bare." And then he'd asked her — because he always asked; that was the thing about him that undid her, that a man who could simply have told her made it a question every time and waited for her to answer. His eyes stayed on hers. "Will you?"
 
@@ -26,9 +26,9 @@ The room was small and very clean, a bright that got into her teeth after the ho
 
 She folded her jeans. She folded her underwear inside the jeans where it couldn't be seen, which was ridiculous, and she knew it was ridiculous while she did it. She climbed up. The paper was loud under her. No stirrups — she'd braced for stirrups, some gynecological horror of them, and found none, just the flat table and her own two feet and the long light overhead, and she lay back under it with the not-gown across her lap and waited, and her mind, casting round for anywhere to be that wasn't here, went to Randi.
 
-Tuesday, after stats, at Chi Latte — the yellow room, the white cups, the small ringing everywhere of spoons going round the insides of cups, the two of them up at the high window table like things in a display. Randi had that way of taking a piece of news that made you feel you'd handed her a present.
+Tuesday, up in the loft — the corner booth, the end of the red, the jukebox going somewhere slow below them and the hushed room under that. Randi had that way of taking a piece of news that made you feel you'd handed her a present.
 
-"Oh, you're going to *love* it," she'd said. "God, the first time. Don't let anybody but Sondra touch you — Draper Street, you ask for her by name, you tell them I sent you. She'll get you a glass of something first, she's civilized about it." She reached over and broke a corner off Vee's pastry — Randi never ordered her own, only ever *for the table,* or off whatever was in front of you.
+"Oh, you're going to *love* it," she'd said. "God, the first time. Don't let anybody but Sondra touch you — Draper Street, you ask for her by name, you tell them I sent you. She'll get you a glass of something first, she's civilized about it." She had Vee's hand across the cloth the whole while, turning the fingers over one at a time — her own plate pushed off to one side, the fish eaten to the middle and left there, the fork laid down on top of what was left of it.
 
 "Does it hurt?" Vee had asked.
 
@@ -78,7 +78,7 @@ Vee didn't move. "…Over?"
 
 "The back and the rest of it. It's all the one service." Mild, already waiting, a gloved hand light on Vee's hip to start her turning — as though this were a thing everyone knew, a thing that went without saying, a thing only Vee had somehow failed to understand she'd been agreeing to.
 
-There it was. The part Randi hadn't said. *Barely stings,* and the glass of wine, and *the most expensive thing in the room,* and not one word about this — about rolling over, about the rest of it, about a part of herself she had honestly never once in her life thought of as a thing that got *done*. She could say no. The word was right there. She could sit up and say no, that's enough, that isn't — and she did not. She'd already said yes to the whole of it, in a bright kitchen three nights back, without once asking what the whole of it was; she was already here, already bare in front, already so far past every line she'd have thought to draw that another line seemed like a joke, a thing for a girl who had any lines left. So she rolled over.
+There it was. The part Randi hadn't said. *Barely stings,* and the glass of wine, and *the most expensive thing in the room,* and not one word about this — about rolling over, about the rest of it, about a part of herself she had honestly never once in her life thought of as a thing that got *done*. She could say no. The word was right there. She could sit up and say no, that's enough, that isn't — and she did not. She'd already said yes to the whole of it, in a bright kitchen on Sunday, without once asking what the whole of it was; she was already here, already bare in front, already so far past every line she'd have thought to draw that another line seemed like a joke, a thing for a girl who had any lines left. So she rolled over.
 
 She put her face down in the paper. She couldn't see the woman now, couldn't set her own face, could do nothing but lie there and be turned and adjusted and opened and wait, presented, blind, for wherever the hands went next. No wanting in this one. Nothing lit, nothing for him, nothing to keep back. Just the plain fact of what she was letting be done to her, and the small ruthless voice out of the kitchen naming it, and the wax going on, and Vee holding still — holding still on her own now, nobody had to tell her — while it came off.
 

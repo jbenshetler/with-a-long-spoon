@@ -187,16 +187,33 @@ def print_stale_report(rep: dict) -> None:
     print("    proceeding — re-read a chapter with `--to <N> --fresh`", flush=True)
 
 
-def jacket_block() -> str:
-    j = checkpoint_bundle.jacket_packet()
-    if not j:
-        raise SystemExit("empty jacket packet")
-    return f"===== THE JACKET =====\n\n{j}\n"
+def jacket_block(n: int) -> str:
+    """The jacket of the volume the reader is currently holding.
+
+    Volume-aware since 2026-09-19, when this DAG first ran past Volume One.
+    `jacket_packet()` returns Volume One's copy unconditionally, so a persona
+    crossing into Book Two would have been told it was still reading *A
+    Polite Invitation* for all 23 chapters. These gates reason against the
+    jacket explicitly — a ch020 reaction quotes the tagline by name — so the
+    wrong cover corrupts exactly the judgement the instrument measures.
+
+    Unlike the cold-read lane, which shows a volume packet once at that
+    volume's opening chapter, the capture reader is holding the book, so the
+    current volume's jacket rides every prompt. Volume One output is
+    unchanged: volume_packet(1) is byte-identical to jacket_packet()."""
+    vol = checkpoint_bundle.volume_scenes.volume_of(slugs()[n - 1])
+    _opening, packet = checkpoint_bundle.volume_packet(vol)
+    if not packet:
+        raise SystemExit(
+            f"no jacket packet for volume {vol} in volume-packets.toml — "
+            "add one; never substitute another volume's packet"
+        )
+    return f"===== THE JACKET =====\n\n{packet}\n"
 
 
 def read_prompt(d: Path, n: int) -> str:
     b = boundary(n)
-    parts = [jacket_block()]
+    parts = [jacket_block(n)]
     if b:
         ck = ck_path(d, b).read_text(encoding="utf-8")
         parts.append(f"===== YOUR CARRY-FORWARD NOTES (written after chapter {b}) "
@@ -214,7 +231,7 @@ def read_prompt(d: Path, n: int) -> str:
 
 def mint_prompt(d: Path, n: int) -> str:
     b = boundary(n)  # previous boundary (n is a multiple of 10 -> b = n-10)
-    parts = [jacket_block()]
+    parts = [jacket_block(n)]
     if b:
         parts.append(f"===== YOUR PREVIOUS CARRY-FORWARD NOTES (after chapter {b}) "
                      f"=====\n\n{ck_path(d, b).read_text(encoding='utf-8')}\n")
@@ -311,8 +328,7 @@ def make_agent(model_id: str, effort: str):
             k = hashlib.sha256(system.encode()).hexdigest()[:8]
             if k not in holders:
                 holders[k] = cold_read.make_openrouter_agent_fn(
-                    system_prompt=system, effort=effort, timeout=OR_TIMEOUT,
-                    max_output_tokens=OR_MAX_OUTPUT, api_key=key)
+                    system_prompt=system, policy="capture", effort=effort, api_key=key)
             r = holders[k](prompt=prompt, model=selector, label=label) or {}
             return r.get("output") or ""
         return fn, (lambda: None)

@@ -66,12 +66,34 @@ cycle brushes against repetitive"* became *"the paint sequence's patience **is**
 content."* Heat held at 3 on all four. Two new singleton flags, both a half-line of
 naming-the-device and neither convergent: opus *"the mid guessing-game rhythm
 risked cute"*; fable *"the gesso explanation ('a gooey coat') ran a half-line
-cute."* Watch for a third reader before actioning either.
+cute."* **Closed 2026-09-15, author-approved** — the third reader was the
+main-session critical pass, which voted no action on both. Opus's *cute* flag:
+no action (the cuteness is the designed opening register, *playful in*; the fruit
+cycles compress; *"Not finished"* is the peak of cute doing double work — the
+painting / her). Fable's *gooey* flag: no action (the flimsiness of *"a gooey
+coat"* is the deniability — he tells her almost-nothing while doing the thing, and
+the baby-word lets him not name what the gesso is). Do not re-flag.
 
 **Measurement state:** the 15 capture gates at `34989ec` measured the chapter
 *before* these four cuts, so they are one revision stale. Not worth 15 calls to
 refresh over 81 words with CAPTURE at 9.00 — but do not read those gates as
 matching the current text.
+
+**2026-09-15 author pass (after the review critique):** one trim applied —
+*"with the unhurried ease of a man"* → *"a man"* (`:69`; the no-hurry was tripled,
+and *"all the time in the world now"* keeps the reversal's punchline). One proposed
+cut **rejected — stands**: *"It was going to be a long evening in the best and worst
+sense"* (`:73`). Author ruling: the :69→:73 repetition is **Vee processing what
+she's done** — she is full of sexual urgency and has just taken the urgency away
+from an already patient man — each pass a turn of that processing, not narrator
+gloss. Do not re-propose. The pass's other two candidates closed without a trim:
+*:119* withdrawn on re-read (the bottle-shift is a distinct object in his clearing
+sequence — the one placeable sound among the unplaceable ones, anchoring the
+inventory); *:211* kept with the linter hit acked to `style-allow.toml` (the
+interrupted incipience is the device). Also `:407`: a recast (*"He gave the gesso
+the same care"*) was applied on initial approval and **reversed on the author's
+instruction (2026-09-16) — *"cleaned"* is specifically wanted as it was**. Do not
+re-propose.
 
 ## Taste thread — the wondering rung (crossing held)
 
@@ -95,7 +117,7 @@ Both readings coexist on the page; render neither as analysis. (The thread's hom
 
 ## The coinage — *adventure* (seed here)
 
-**This is where *adventure* is coined.** After the sex, in the afterglow — her head on his chest, both a paint-smeared wreck, the sheets bright — Vee, smiling: *"Well, that was an adventure,"* and the helpless, can't-breathe laughter. Hers, joyful, descriptive, born in laughter at the mess. **Pace present, so he hears it** — that's the point: he pockets the word and hands it back as the *invite* at the cabin a month later (`meta-note-grace.md`), where it detonates at the threesome. It must **ride out unremarked** — never flagged as a code, never repeated with weight; she throws it away and the reader lets it go. The descent back into warm laughter after the transgressive gesso turn is the scene's *playful-in → transgressive-out → resolve-warm* shape completing.
+**This is where *adventure* is coined.** After the sex, in the afterglow — Vee, smiling: *"That was an unexpected adventure,"* and Pace, eyes closed, echoes it: *"A lovely adventure."* **The echo is deliberate and approved as-is (author ruling 2026-09-15): he repeats the word so the reader catches it** — the repetition is the plant, not a pre-spend; it guarantees the word is registered before he hands it back as the *invite* at the cabin a month later (`meta-note-grace.md`), where it detonates at the threesome. Never flagged or weighted beyond the sleepy reply — no code-reading on the page. The descent back into warmth after the transgressive gesso turn is the scene's *playful-in → transgressive-out → resolve-warm* shape completing. *(Supersedes the earlier scripting — "Well, that was an adventure" with the helpless can't-breathe laughter — and the old no-echo guard.)*
 
 ## The coda — the phone, Randi, and the word that doesn't travel
 
@@ -212,7 +234,7 @@ Where the *{{In His Hands}}* nude was **curated** — she cleaned up, made up, p
 
 ## Seeds forward
 
-- **"Adventure"** — coined here in the afterglow, joyful, hers, Pace present → first *invited* at the cabin (`meta-note-grace.md`) → detonates at the threesome. Rides out unremarked; never named as a code.
+- **"Adventure"** — coined here in the afterglow, hers, **with Pace's deliberate echo *"A lovely adventure"* (author 2026-09-15: he repeats it so the reader catches the word — the repetition is the plant)** → first *invited* at the cabin (`meta-note-grace.md`) → detonates at the threesome. Never named as a code.
 - **Taste thread** — the wondering rung; feeds Whiskey and Wine, preempts nothing (held: no ask, no direct or clean self-taste; the closing mixed trace does not answer the question). **The coda extends it by smell** — the one channel left open to her — still crossing nothing.
 - **Sole-channel** — the photo escalates {{In His Hands}}' seed → cabin → bench → threesome kiss; the coda puts its **first hairline** here (she keeps the picture back from the eyes she sees herself through).
 - **The Randi hinge → {{Gesso}}** — the coda's *"too much"* and the future-tense *"she would not be telling her"* are what make Gesso's *"Isn't it gross?"* a turn rather than an arrival from nowhere. The denial must be sincere for Gesso to land as her breaking her own rule.
@@ -225,7 +247,7 @@ Where the *{{In His Hands}}* nude was **curated** — she cleaned up, made up, p
 - **Body before mind** on the can't-keep-still shame and the overflow — sensation and response first, never a narrated deduction.
 - **Cornucopia = her body**, not a calendar image — the abundance/overflow read, no harvest-table tie (the scene is late January now).
 - The overflow stays warm and dirty-gorgeous, never clinical, never solemn.
-- **"Adventure" rides out unremarked** — coined in the afterglow, thrown away in laughter; don't flag it, weight it, or let Pace echo it here. The pickup happens later, at the cabin.
+- **"Adventure" — the Pace echo stands (author ruling 2026-09-15).** *"A lovely adventure"* is deliberate — he repeats the word so the reader catches it. Do not trim the echo, reweight the exchange, or flag it as a code. The pickup happens later, at the cabin.
 
 ## Cross-refs
 

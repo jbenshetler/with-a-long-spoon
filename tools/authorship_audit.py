@@ -39,6 +39,7 @@ REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO / "tools"))
 
 import checkpoint_bundle  # noqa: E402  (clean_scene_text, display_title)
+import volume_scenes  # noqa: E402  (volume membership — never slice by position)
 
 AUDIT_ROOT = REPO / "reviews" / "authorship-audit"
 PROTOCOL = "authorship-audit-v1-pilot"
@@ -153,7 +154,9 @@ def main() -> None:
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
-    slugs = args.slugs or (checkpoint_bundle.reader_slugs()[:50] if args.vol1
+    # Was `reader_slugs()[:50]`, which silently dropped every chapter past 50
+    # once Volume One grew to 52 (2026-09-17). Resolve the volume, never slice.
+    slugs = args.slugs or (volume_scenes.volume_one_slugs(drafted_only=True) if args.vol1
                            else PILOT_SLUGS if args.pilot else None)
     models = args.models or (PANEL_MODELS if args.panel
                              else PILOT_MODELS if args.pilot else None)
@@ -227,8 +230,7 @@ def main() -> None:
         for f in args.framings:
             text, sha = personas[f]
             fn = cold_read.make_openrouter_agent_fn(
-                system_prompt=text, effort=args.effort, timeout=2400,
-                max_output_tokens=8000, api_key=key)
+                system_prompt=text, policy="audit", effort=args.effort, api_key=key)
             sub = [(m, s) for m in or_models for s in slugs if (m, s, f) in task_set]
             with ThreadPoolExecutor(max_workers=4) as p:
                 list(p.map(lambda t: run_task(fn, OPENROUTER_MODELS[t[0]],

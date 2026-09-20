@@ -1,0 +1,39 @@
+# Cold read (grounded) — See You Later
+
+*scene: scenes/see-you-later.md · model: claude-opus-5 · memory: raw ch001..ch003 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+**Felt read**
+
+This chapter picked me up and set me down inside the head of the girl getting hunted, and I spent the whole thing with my stomach somewhere around my knees. Vee is instantly, painfully likable — early to class, right pen, the notebook open so her hand has somewhere to be, three minutes deep into a program of not looking at the door. I know things she doesn't. I know she was *pointed at.* I know the collision was three seconds of dance training folded down into nothing, that it was Vee who ended up apologizing, that a man stood at a light pole and watched it happen and felt "a deep warmth in his body." And here she is thinking she got let borrow an hour inside a brighter life. The chapter never says any of that. It doesn't have to. Every warm beat has a second floor under it and I'm standing on it alone.
+
+And then — "*There* you are." Randi says it, lit up, sidestepping into the row. That's the sentence Pace said into Randi's upside-down crying face on the bench. *There you are, Randi.* The thing that found her and unmade her, handed straight along to Vee like a party favor, deployed as charm. I actually made a noise. I don't think Randi knows she's doing it, which is worse. Same with the flattery that "went in like a key in a lock" — the last image I had of Randi was the hum in her ribs, "the size of a key turning in a lock." She got opened; now she's the one with the key. Whatever she decided in that bathroom mirror, she is out in the world running the face at full power, and the face is *magnificent*. "I'm going to copy off you all semester, I'm just telling you now so it's not weird later." Nobody has ever been that easy to love on four minutes' acquaintance.
+
+My feeling about Randi moved, and not cleanly. I sympathize with her more than I want to and trust her less. The warmth swings over to Cassie "total, undimmed" — she works the whole row, she leaves openings, she's *generous* with a girl who gives her nothing. That's not a predator's tell, that's just who she is with a room. But she picked the aisle seat so Vee was hers, and I noticed the picking. The unsettling thing isn't that she's lying; it's that I can't locate where the lying starts. She probably did have the best hour too.
+
+Cassie is the chapter's cold spot and she's barely on the page. Flat "Cassie," one word, no bit, pencil back up. Then the cap brim down, the declining with no sulk in it, and "Goodbye, Vee." The whole word. A longer parting than a Wednesday. Something passed over her face that Vee "would not have been able to name and did not try to" — and I loved that the book leaves it there, unnamed, while Vee smooths it over with "It's *coffee*, weirdo." Whether Cassie saw something, or is jealous, or is just a person who says goodbye, I genuinely don't know, and the not-knowing is doing more to me than a warning would.
+
+Where it worked on me as heat and ache: the Chi Latte room read. Vee reading a room the way she always does, the two girls at the bar in almost nothing, "*Floozies*, the word arriving whole and in her mother's voice" — and then, riding under it, "a longer beat of looking than the word accounted for," the sprinter's cut of a stomach, how low a waistband sat. That's want arriving pre-disguised, in a borrowed voice, and the page lets her not look at it. Then it stops being covert: "all Vee could do was look at her with a flat helpless want... and the want had nowhere to put itself except *here, this, with her.*" Unexamined, glad — and mine, reading it, was neither. The cardigan over the better shirt, worn on purpose, the room not knowing it was a choice: that's a whole person in one sentence. Vee has more body than anyone in that room and has been taught to file it away. I'd follow her anywhere.
+
+Friction, and it's small: "*latent variables.* The factors you can't measure directly, that you have to infer from the ones you can." Written on a clean page, "underlined once, going nowhere." Come on. That's the author leaning in and tapping the glass. I forgave it inside a paragraph because the professor scrolling his slides "forward and back, a man checking that the road was still there" is so good, but I felt the thumb. Otherwise the drag is deliberate and earned — the blank transcript passage, where Vee can't reconstruct a single word because "the leaning-in was the whole content," is the best thing in the chapter and the most frightening. She wasn't listening. She was being *had*, pleasurably, with nothing left over.
+
+The title — "See You Later" — looked like nothing going in and gutted me coming out, because the chapter sets it directly against Cassie's *Goodbye.* One is a door held open by someone who has decided there will be a later; the other is a door closing, flat, from someone who didn't fix it when it landed wrong. That the warm one is the engineered one and the cold one might be the true one is the whole chapter. **WITH A LONG SPOON** I finally understand as a threat — *sup with the devil with a long spoon* — and **BOOK ONE — A POLITE INVITATION** is exactly what just happened on Draper: an invitation, perfectly polite, extended by someone who was pointed at a girl on a lawn. No tagline in my packet. What I want next is Randi's side of that hour. What I dread is that she meant every word of it and it won't matter.
+
+---
+
+**Cast present (in person):** Vee, Randi, Cassie, the stats professor (briefly, speaking). Mentioned only: Meg, Pace, the sister with the parking ticket.
+
+**Heat:** 1 — real want under the surface (Vee's covert look at the bare midriffs, the "flat helpless want" at three feet), but diffuse and unlooked-at, not the chapter's engine.
+
+**Romance:** 2 — from Vee's side this is a full-body falling: the arm squeeze, the hug, "love you, girl," warm the whole way home. Tender as felt, even knowing what built it.
+
+**Motifs & images:** "*There* you are" — repeat, and a devastating one (Pace to Randi on the bench). Key-in-a-lock — repeat (the hum "the size of a key turning in a lock"; here flattery going "in like a key in a lock"). Cold citrus perfume — repeat (the front door in *The Bench*). The hand on the arm staying a half-beat past the apology — repeat, directly from the engineered collision. Smoothing a wrong beat with a smile — repeat (Randi's arranging face in *Standards*; now Vee's doing it). Ordering for someone / being fed — repeat (Pace's apple slices, "let's go feed you"; Randi orders Vee's latte and says trust me). Greek letters / the sign you're let in under — first. Cassie's cap brim down — first.
+
+**Symbolism:** The Χ ΛΑΤΕ sign — a joke you can only hear once you're allowed in, and Vee is let under it by the person who's admitting her. The high table in the window: to be chosen is to be put on display. "Latent variables" — invited by the page a little too openly.
+
+**Characterization:** Vee deepens enormously in one chapter — the fluency that smooths other people's dead beats, the mother's voice installed in her mouth, the cardigan as a daily unremarked decision. Randi deepens sideways: we see the face working at full charm from outside, and it's better than we knew. Cassie is a sketch, but a sharp one, and correctly left opaque. Nobody flattened.
+
+**Pace — within the chapter:** The lecture hour is right-sized and the coffee scene earns its length by refusing to transcribe itself. Only the "latent variables" beat rushes its point.
+
+**Pace — chapter to chapter:** Building. After the bench's intensity and *Standards*' held-breath stillness and the quad's slow hunt, dropping into the prey's POV is the exact right escalation — the dread compounds instead of repeating.

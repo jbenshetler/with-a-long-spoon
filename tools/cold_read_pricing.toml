@@ -16,6 +16,14 @@ output = 30.00   # reasoning included
 [models."gpt-5.6-sol"]
 input = 5.00
 output = 30.00   # reasoning included
+# Context limits, author-verified 2026-09-19. Recorded because the fact-audit
+# lane builds WHOLE-VOLUME prompts (Vol 1 alone is ~182k tokens) and must fail
+# closed before a call rather than discover a ceiling mid-request. Note the
+# usable input ceiling is well below the context window — output and reasoning
+# come out of the same budget.
+context_window = 1050000
+max_input = 922000
+max_output = 128000
 
 # Rates are the DIRECT OpenAI API's. An OpenRouter route for this model was
 # priced (2026-08-06) at $1 in / $6 out and rejected: cold reads emit a full

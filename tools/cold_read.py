@@ -19,6 +19,7 @@ RUN:
 from __future__ import annotations
 
 import argparse
+import concurrent.futures
 import os
 import sys
 import tempfile
@@ -238,8 +239,25 @@ def make_api_agent_fn(*, system_prompt, pricing, effort, budget_usd, timeout,
         return {"output": text, "id": getattr(resp, "id", label), "usage": usage}
     return agent_fn
 
-def make_openrouter_agent_fn(*, system_prompt, effort, timeout, max_output_tokens, api_key):
-    """Return an OpenRouter Chat Completions adapter with a mandatory token cap."""
+def make_openrouter_agent_fn(*, system_prompt, api_key, policy,
+                             effort=None, timeout=None, max_output_tokens=None):
+    """Return an OpenRouter Chat Completions adapter with a mandatory token cap.
+
+    `policy` names a `[openrouter.policy.<tag>]` block in ensemble-config.toml
+    and supplies effort/timeout/max_output_tokens; the explicit keywords
+    override it so a CLI flag still wins. The provider-routing block from
+    `[openrouter]` is applied here, in the one place every caller passes
+    through, so no caller can omit it."""
+    import cold_read_config
+
+    settings = cold_read_config.openrouter_policy(policy)
+    effort = effort if effort is not None else settings.get("effort")
+    timeout = timeout if timeout is not None else settings.get("timeout")
+    if max_output_tokens is None:
+        max_output_tokens = settings.get("max_output_tokens")
+    if not max_output_tokens:
+        raise ValueError(f"openrouter policy {policy!r} sets no max_output_tokens")
+
     from openai import OpenAI
 
     client = OpenAI(
@@ -257,11 +275,32 @@ def make_openrouter_agent_fn(*, system_prompt, effort, timeout, max_output_token
                 {"role": "user", "content": prompt},
             ],
             "max_tokens": max_output_tokens,
+            # Resolved per call: routing policy can be overridden per reader,
+            # and the model is only known here.
+            "extra_body": {"provider": cold_read_config.openrouter_routing(model)},
         }
         if effort and effort != "none":
             kwargs["reasoning_effort"] = effort
+        # Hard deadline enforced here, not only by the SDK. The client's
+        # `timeout=` is a per-socket-operation budget: a provider that keeps
+        # dribbling bytes (or holds the stream open) resets it and the call
+        # never returns. On 2026-09-17 a kimi-k3 mint ran 45+ minutes against
+        # timeout=2400 and had to be killed by hand. The worker thread cannot
+        # be killed, so it is abandoned rather than waited on — these run in
+        # short-lived processes and the orphan dies with them.
         t0 = time.time()
-        response = client.chat.completions.create(**kwargs)
+        pool = concurrent.futures.ThreadPoolExecutor(max_workers=1)
+        future = pool.submit(lambda: client.chat.completions.create(**kwargs))
+        try:
+            response = future.result(timeout=timeout)
+        except concurrent.futures.TimeoutError:
+            raise RuntimeError(
+                f"openrouter call for {label!r} ({model}) exceeded its {timeout}s "
+                "deadline; the request was abandoned. Retry, or widen the policy's "
+                "`timeout` in ensemble-config.toml if this model needs longer."
+            ) from None
+        finally:
+            pool.shutdown(wait=False, cancel_futures=True)
         duration_ms = (time.time() - t0) * 1000.0
         usage = response.usage
         in_tok = getattr(usage, "prompt_tokens", 0) or 0
@@ -433,19 +472,14 @@ def main():
         pricing = load_pricing(args.model, args.price_in, args.price_out, args.max_output_tokens)
         base_url = None
     elif args.auth == "openrouter":
-        api_key = os.environ.get("OPENROUTER_API_KEY")
-        if not api_key:
-            raise SystemExit("OPENROUTER_API_KEY not set in the environment.")
-        if args.budget_usd is not None or args.price_in is not None or args.price_out is not None:
-            raise SystemExit(
-                "--budget-usd/--price-in/--price-out are direct OpenAI API options; "
-                "OpenRouter requires --max-output-tokens."
-            )
-        if not args.max_output_tokens:
-            raise SystemExit("--max-output-tokens is required with --auth openrouter.")
-        budget_usd = None
-        pricing = None
-        base_url = "https://openrouter.ai/api/v1"
+        # Closed 2026-09-17. This is the retired chained lane (SPEC.md:12 — it
+        # forgets too badly); its archive is frozen under <model-id>/chained/.
+        # The branch below is kept policy-correct so the lane can be reopened
+        # by deleting this guard, but no new review should be minted here.
+        raise SystemExit(
+            "--auth openrouter is closed: cold_read.py is the retired chained lane "
+            "(SPEC.md). Use the grounded harness (tools/cold_read_grounded.py)."
+        )
     else:
         if args.price_in is not None or args.price_out is not None:
             raise SystemExit("--price-in/--price-out apply only to --auth api-key.")
@@ -491,6 +525,7 @@ def main():
     elif args.auth == "openrouter":
         agent_fn = make_openrouter_agent_fn(
             system_prompt=system_prompt,
+            policy="read",
             effort=args.effort,
             timeout=args.timeout,
             max_output_tokens=args.max_output_tokens,

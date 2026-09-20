@@ -1,0 +1,31 @@
+# Cold read (grounded) — Off Six-Fourteen
+
+*scene: scenes/off-six-fourteen.md · model: kimi-k3 · memory: raw ch001..ch008 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+This chapter landed on me like a held breath I didn't know I was holding. After the scale of *The Bench* and the machinery of *The Pointing Game*, here's just two girls in a too-hot dorm room with the window cracked two inches, and one of them spinning in a clumsy circle because she kissed a man and it was *hers*. "He was already walking away and I pulled him back and I did it. Me." I felt that in my chest — the sheer owned joy of it, Vee who has spent the whole book being chosen (by Randi, by Pace across a coffee shop) now narrating the one thing she chose. And it's true, as far as she knows. The kiss was real; his patience at the tree was real — it matches exactly the man from *The Bench* who waits, who lets her come to him. Her declaration to Cassie — "Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose" — is the most radiant sentence in the chapter, and also the one that hurts most, because I know what she doesn't: she was *pointed at*. The collision was staged, the meeting engineered, Pace walked into that coffee shop knowing her name. Her consent tonight was real and the floor under it was laid by someone else. The book didn't make me feel that as a gotcha; it made me feel it as an ache. She's not wrong about the kiss. She's wrong about everything surrounding it, and she has no way to know.
+
+Cassie is the only alarm bell in the room, and I love her more every chapter. "How much did he give you to drink?" — the flat dry floor under the gladness, the one person who checks. And then the interrogation that gives the chapter its title: "That's the whole address. *Off six-fourteen*." Vee counting off her dossier — he lives out west, past the gravel, he'll have water, he's not going to walk me off a cliff — like knowing a road name is knowing a man. Cassie's state trooper joke is funny and not funny at all, because I'm sitting here knowing Pace is a man who builds benches with hidden purposes and tells no one. And now there's a hiking date, out past where the pavement ends, and Vee has to borrow shoes. Cassie said "Goodbye, Vee" once, flat and finished, like a longer parting than a Wednesday — and she's been quietly standing guard ever since, the girl in the cold window draft who'd rather have the cold than the cooking. That window felt like her: the thin line of uncomfy truth she keeps cracked open in every warm room Vee floats through.
+
+Heat-wise this is an ember chapter — the charge is all retrospective, the kiss retold in a dropping voice, Vee's body still warm from the walk. It worked on me as tenderness rather than heat, and the book clearly meant it to. Romance-wise it's the purest beat yet — Vee's first self-chosen kiss — and it's filtered through the safest relationship in the book, which is these two on the bunk and the bean bag.
+
+The title, *Off Six-Fourteen*, is doing quiet work: it's the shape of everything Vee doesn't know, worn as an address. It points forward — the house, the trail, the bench inside it — while she thinks it points at a nice hike. The volume title, *With a Long Spoon · Book One — A Polite Invitation*, keeps recoloring for me: the invitation has been issued and accepted, and "polite" is doing heavier lifting each chapter — the *may I*, the waiting, the door held open, all that courtesy laid over a design she can't see. A long spoon is what you need to sup with someone dangerous, and right now Vee has a teaspoon and a borrowed pair of shoes.
+
+What I dread next, plainly marked as a guess: the hike, the house, the moment Vee and Randi's worlds stop being parallel and touch. Randi said "we've got a stats class together" about Vee; Pace is sleeping with Randi and courting Vee with Randi's blessing — her blessing, her *selection*. Someone is going to be standing in a room they weren't told about. I want Vee's joy to survive contact with the truth and I don't think it will, and the book has me exactly there.
+
+**Cast present (in person):** Vee, Cassie. Mentioned only: Pace (retold, not present), the state troopers as a joke, Cassie's highlighter and reading as props.
+
+**Heat:** 1 — ember warmth from the retold kiss; the scene is about the telling, not the wanting.
+
+**Romance:** 2 — Vee's first self-authored kiss, recounted glowing, wrapped in best-friend intimacy; real tenderness, secondhand.
+
+**Motifs & images:** Cassie's cracked window and its "cold thin line" (new, and very hers — she plants herself at margins, ribs-deep in water, refusing the deep end). The dossier-counting gesture echoes Vee's "the right pen" small-offices of certainty. Borrowed shoes recur from the dinner-date prep. Water again — "he'll have water" — after the pool chapter made water Vee's one unowned, unjudged place. Doors and locks still humming from Randi's chapters, inverted here: Vee comes *in* talking, nothing locked. The tea's brass cages carried over from the dinner as proof-of-wonder.
+
+**Symbolism:** "Off six-fourteen" as the address-shaped hole in Vee's knowledge — she thinks she knows where he lives because she can name a road. The two-inch window gap: the small cold opening through which reality (Cassie) keeps entering a heated room. The spin that "nearly took out the closet door" — joy too big for the space she's allowed.
+
+**Characterization:** Cassie deepens beautifully — the dry floor under gladness, the one consent-check in the book ("how much did he give you to drink?") asked with love. Vee fully consistent: generous, lit, happily incurious about the pile she'll "get to find out." Pace, though absent, gains coherence — the nothing he did at the tree is exactly the man who waited at the bench.
+
+**Pace — within the chapter:** One room, one conversation, perfectly held; nothing rushed, nothing padded. The slow drop into the kiss retelling is the best-controlled beat in it.
+
+**Pace — chapter to chapter:** A deliberate downshift after two heavy chapters — a breath, not a sag. The irony does the propulsion now; the quiet loads the spring for the hike.

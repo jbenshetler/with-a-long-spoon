@@ -1,0 +1,39 @@
+# Cold read (grounded) — Famished
+
+*scene: scenes/famished.md · model: claude-opus-5 · memory: ck-ch010 + raw ch011..ch017 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+Oh, this one got me. I have been waiting for this chapter since the tree, and it did not cheat me — it gave me the whole thing, all the way onto the page, and it did it in Vee's specific vocabulary rather than a generic one. The thing I keep turning over is that the sex is not built out of positions, it's built out of her shame running the entire length of it and *not closing her*. "She waited for the shame to crest and close her, the way it always had, and it didn't." That sentence is the chapter. The *floozie* lands four or five times, flat and quick, exactly as her mother says it — in the flannel in the dark, in the kitchen, under his hands, on his knees — and every time the heat arrives a beat behind it on the same wire. "She could not find the seam between the heat and the shame because there was no seam, they ran on the same wire, and she had stopped looking for one." I've read a lot of erotica that treats shame as an obstacle to be cleared before the good part. This one refuses to clear it and gets somewhere much hotter.
+
+The opening twenty minutes of getting-ready are as good as the sex. The bed filling up with what she'd tried and taken off. The kitten heels that "said out loud the thing she was trying not to." The frosted plum on her toenails hidden inside flat ballet flats — *she painted them for him and then covered them*, and the polish is a color she "chose without thinking too hard about why," which is the silk he held to her face. And then buying the green set because it would be "silly" to take the one and leave the other. Every one of those is a woman lying to herself in a way I recognized completely and found unbearably endearing. She drove out there telling herself "none of this meant anything in particular" with a matched satin set on under everything.
+
+"Famished." She hears it a beat after he does — and so did I, and I laughed out loud with her. It's the best kind of title: the chapter's whole thesis arrives as an accidental confession over a cutting board. A man asks if you're hungry and your mouth answers with the size of the appetite you've been keeping in a cardigan for twenty-one years. And it lands on top of the book's own food motif — the honeycrisp, "let's go feed you," the froyo cup that got away from her, the horseradish that made her eyes run. She has been being fed, steadily, for weeks. Tonight the pan is dry and clean and the prep is all done and he *stopped*, which is the most deliberate thing in the room, and I noticed that before she did.
+
+Pace: I still cannot resolve him and I've stopped trying. "Would you be bothered if I was too hard?" is the most Pace sentence in the book — it's "May I" turned inside out, a question that hands her the shame back as a gift, and it's the exact move from the fitting scaled up. It works on her; it worked on me. He's genuinely glad of her wetness, her noise, her greed, and the gladness is not counterfeit — I've watched him too long to doubt that part. And yet: he had the house warm again, he had the wine breathing, he had everything prepped to the moment and then walked away from the stove. The man plans the way other people breathe, and the reader knows what I know about a light pole and a lawn, and none of that touched this scene, which is its own kind of dread. The chapter never once mentions Randi. Not once. After Randi kissed her on the mouth in the fire lane. That silence is deafening and I don't think it's accidental.
+
+The scar. "A scar, large, high on the inside of his thigh." One clause, no explanation, her hand stops and then she goes. I went back to it twice. That's the first hard-edged unexplained thing about his body we've been given, and it's parked next to Daphne in my head with no evidence at all.
+
+The ending is the best thing in the chapter and it isn't the sex. The sheet dropping and neither of them looking at it. The folding in thirds, "the spot centered," on purpose, so it shows — the thing she nearly died over on the riser, now presented deliberately, staged, the evidence made into an offering. And "Trade." She opened the night with "I never thanked you for the shirt," and she closes it by handing him something of hers to keep, because he kept nothing and she kept his. It's a wedding of a gesture and I got a little wrecked by it. "Something in his shoulders was private and she let it be private" — I love that she didn't reach for it. I also love that I don't know what it was.
+
+Trust: unchanged and uncomfortable. Vee I trust entirely and I ache for her. Pace's tenderness is real and his architecture is real and this chapter let me feel both at full volume simultaneously, which is worse than either. My only friction was small: "the evening had used her well" is a touch too tidy a bow for a page that had been so unruly, and "She'd thought she knew it" about the sheets nudges a little hard at something the smell had already said.
+
+The titles: **WITH A LONG SPOON** — he who sups with the devil needs a long spoon. So the book has told me from the cover that somebody at this table is the devil and somebody is eating anyway. **BOOK ONE — A POLITE INVITATION**: tonight was one, and so was "would you come to my house Saturday." "Famished" fits inside that dread perfectly — the person who is starving is the person who doesn't check the length of the spoon.
+
+What I want: Randi. She kissed Vee on Sunday and Vee slept with Randi's boyfriend on Friday and nobody in this book knows what anybody knows. *Guess from here:* the panties don't stay a private thing between two people.
+
+**Cast present (in person):** Vee, Pace. Mentioned only: Vee's mother (the voice), Cassie implicitly via the dorm; Randi conspicuously absent.
+
+**Heat:** 3 — sustained, explicit, and the charge comes from shame and heat running the same wire; peaked on his knees and never dropped.
+
+**Romance:** 3 — first time, and the panties-for-shirt trade is a vow in the only language these two speak.
+
+**Motifs & images:** *Hi./Hi.* at the door again (ch 1, ch 8). "May I"-register, inverted: "Would you be bothered if I was too hard?" Food/feeding: "Famished," the prep stopped mid-cook, fra diavolo after. The flannel shirt, its smell going thin (repeat, ch 11–13) — then the sheets as the source. The riser/kneeling geometry recalled inside the bedroom (repeat, ch 14). *Floozie* (repeat, running since ch 4). Burgundy/plum color echo in the nail polish (repeat). Hands and calluses (repeat throughout). Lights on / being watched during (repeat of ch 1's hour of looking). New: the scar on his inner thigh; the white plain room; the dropped sheet.
+
+**Symbolism:** The folded panties, spot centered — shame converted into a gift, and a deliberate trade against the shirt she took without asking. The prepped-but-unstarted meal: everything readied in advance, the flame deliberately withheld. The sheet on the floor neither of them looks at.
+
+**Characterization:** Vee deepened enormously — the getting-dressed sequence is the most interior she's been, and her shame is now a texture rather than a brake. Pace deepened by exactly one inch and one scar; still the most legible surface and the most opaque interior in the book. Nobody thinned.
+
+**Pace — within the chapter:** The week-long setup and the dressing earn their length; the sex is long and doesn't drag because it keeps turning. The post-coital meal is the right length of quiet.
+
+**Pace — chapter to chapter:** A genuine crest after four chapters of escalating deferral (shirt, fitting, lunch) — the book cashed a check it had been writing since the tree. Momentum strong; the omission of Randi after her kiss leaves a loaded spring under the whole chapter.

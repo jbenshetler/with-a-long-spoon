@@ -41,6 +41,44 @@ def reader_settings(model_id: str) -> dict[str, Any]:
     return {}
 
 
+def openrouter_routing(model_id: str | None = None) -> dict[str, Any]:
+    """The provider-routing block sent with an OpenRouter call.
+
+    The `[openrouter]` floor filters the endpoint pool by numeric precision;
+    see that block's comment in ensemble-config.toml for why it is not
+    optional. A reader may override `quantizations` in its own
+    `[readers."<id>"]` block: the filter protects against *third-party
+    resellers* serving an open-weight model at reduced precision, which is
+    not a risk that exists for a first-party proprietary model with a single
+    vendor. An empty list disables the filter for that reader.
+
+    Passing no `model_id` returns the bare floor."""
+    block = dict(load_config().get("openrouter", {}))
+    block.pop("policy", None)
+    if model_id:
+        override = reader_settings(model_id).get("quantizations")
+        if override is not None:
+            if override:
+                block["quantizations"] = list(override)
+            else:
+                block.pop("quantizations", None)
+    return block
+
+
+def openrouter_policy(tag: str) -> dict[str, Any]:
+    """Call parameters for one use (`mint`, `read`, `judge`, `audit`, `capture`).
+
+    Raises on an unknown tag rather than silently falling back to defaults —
+    an unnamed policy is how per-tool drift got in."""
+    policies = load_config().get("openrouter", {}).get("policy", {})
+    if tag not in policies:
+        raise KeyError(
+            f"unknown openrouter policy {tag!r}; "
+            f"known: {', '.join(sorted(policies)) or '(none)'}"
+        )
+    return dict(policies[tag])
+
+
 def checkpoint_source(model_id: str) -> str:
     return str(reader_settings(model_id).get("checkpoint_source", "native"))
 

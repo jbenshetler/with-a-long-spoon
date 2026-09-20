@@ -164,8 +164,9 @@ def main() -> None:
         if not args.max_output_tokens:
             raise SystemExit("--max-output-tokens is required with --auth openrouter.")
         agent_fn = make_openrouter_agent_fn(
-            system_prompt=system_prompt, effort=args.effort, timeout=args.timeout,
-            max_output_tokens=args.max_output_tokens, api_key=api_key,
+            system_prompt=system_prompt, policy="judge", effort=args.effort,
+            timeout=args.timeout, max_output_tokens=args.max_output_tokens,
+            api_key=api_key,
         )
     else:
         agent_fn, close = make_codex_agent_fn(system_prompt=system_prompt, effort=args.effort)
