@@ -65,7 +65,20 @@ written support answer** (Leg 2, below), which is the thing worth relying on.
 | **BookFunnel** | deliver | A real content policy — **imagery only**. Text erotica unrestricted. | **Yes, one clause.** See below. |
 | **StoryOrigin** | collect | **Silent.** No adult-content clause of any kind. | Only the KDP Select representation. |
 | **BookSirens** | recruit | **Silent.** Acceptance criteria are craft/marketing only (cover, blurb, standalone, proofread, formatted, English; "published in the last 30 days or — even better — with a future publication date"). | No. The unpublished-ARC timing suits us. |
-| **BookSprout** | recruit | **Could not retrieve.** `/terms`, `/terms-of-service`, `/legal` all 404; only the help centre is indexed, and it covers review conduct, not content. | **Unknown — author to check in a browser.** |
+| **BookSprout** | recruit | **Could not retrieve.** `/terms`, `/terms-of-service`, `/legal` all 404; only the help centre is indexed, and it covers review conduct, not content. | **Unknown — accepted risk (author ruling 2026-09-16).** See below. |
+
+**BookSprout's unretrievable terms are an accepted risk — use it anyway
+(author ruling 2026-09-16).** The four platforms are not four alternatives;
+they are three *roles*. BookSprout and BookSirens both sit in **recruit**, so
+BookSprout is redundant by construction: if it ever flags or refuses the book,
+BookSirens carries the role and nothing is lost but the listing. An unknown
+ToS is only expensive on a single-point-of-failure channel, and this isn't
+one. **Do not hold up the round waiting to read their terms**, and do not
+write to ask — the standing rule below (ask for more restriction, never for
+permission) applies here too. Keeping both also protects against the reverse
+risk: BookSirens' acceptance criteria are craft/marketing gates (finished
+cover, proofread, formatted), so a rejection there would otherwise leave no
+recruit channel at all.
 
 **BookFunnel's three relevant clauses** (`bookfunnel.com/terms/`):
 

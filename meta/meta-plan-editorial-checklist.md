@@ -37,10 +37,15 @@ mark items done with dates as they complete.*
 - [ ] **Proofread after typesetting** — on-device (Books/Kindle) against the
   built epub: section-rule breaks, italics at chapter boundaries, curly
   quotes/apostrophes, scene-break rendering.
-- [ ] **Legal/content read** — real-institution exposure (VT identifiability:
+- [x] **Legal/content read** — real-institution exposure (VT identifiability:
   professors, campus police behavior), no quoted lyrics, brand-name usage.
   Counsel sourcing/briefing: `meta-plan-lawyer.md`; per-volume findings sheet:
-  `meta-plan-legal-read.md` (Vol 1).
+  `meta-plan-legal-read.md` (Vol 1). **Complete for the ARC/beta round (author
+  ruling 2026-09-18.)** All nine risk≥2 items closed without counsel
+  (2026-09-13), Dr. Marsh archive leg run and clear, Miranda Holdings resolved
+  by canon rename plus the prose naming no entity at all. Deferred to *wide
+  release*, not to beta: the ALLi-grade platform consult (category pairing) and
+  one flat-fee pre-publication read before Volume 2 or first revenue.
 - [ ] **Front/back matter completeness** — dedication and acknowledgments
   decisions; Helen Rivers bio (**copy locked 2026-08-15**, three surfaces in
   `meta-plan-distribution.md` §5 → *Author bio*; use surface 1, the

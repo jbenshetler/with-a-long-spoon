@@ -1,8 +1,9 @@
 # Pen name — decision and rationale
 
-**Default pen name: Helen Rivers** (author decision 2026-07-30 — working
-default for the test epub and platform setup; final on registration of the
-domain/email). This is the gating item named in `meta-plan-free-sample.md`.
+**Pen name: Helen Rivers — FINAL.** Author decision 2026-07-30 as the working
+default; **final on registration of the domain/email, confirmed 2026-09-16**
+(see *Domains* below). This was the gating item named in
+`meta-plan-free-sample.md`; it no longer gates anything.
 
 > **Author bio** (locked 2026-08-15 — three surfaces + the "villain-free is a book
 > claim, not a byline promise" ruling) lives in `meta-plan-distribution.md` §5 →
@@ -43,11 +44,17 @@ domain/email). This is the gating item named in `meta-plan-free-sample.md`.
   minor self-published health writer — easily outranked. Adjacency: Francine
   Rivers (large Christian-romance author) surfaces on "Rivers"+romance
   searches; noted, not a confusion risk.
-- **Domains (DNS check 2026-07-30):** `helenrivers.com` is taken
-  (Cloudflare-fronted). Unregistered at check time: **helenriversbooks.com
-  (recommended primary)**, helenriverswrites.com, helenrivers.net/.co/.ink,
-  readhelenrivers.com (register as redirect). Canonical email lives on the
-  domain (`helen@helenriversbooks.com`), with any private inbox behind it —
+- **Domains — REGISTERED (DNS verification 2026-09-16).**
+  **`helenriversbooks.com` is live and ours**: Cloudflare nameservers, A
+  records answering, and **Zoho MX records** — so `helen@helenriversbooks.com`
+  is provisioned, not merely reserved. This is what makes the pen name final
+  and unblocks the firewall-disciplined recruiting in
+  `meta-plan-test-readers.md`.
+  *Still open (optional, not a gate):* `readhelenrivers.com` has no NS and no A
+  record — the 2026-07-30 plan listed it as a redirect to register, and it has
+  not been. `helenrivers.com` remains **third-party** (Cloudflare-fronted at
+  both checks — taken by someone else, never ours).
+  Canonical email lives on the domain, with any private inbox behind it —
   never tied to Gmail-handle availability.
 
 ## FSoG crossover strategy

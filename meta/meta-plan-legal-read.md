@@ -423,9 +423,18 @@ same prose.
 *Rationale:* More than a title mention: paraphrases the song's premise and echoes specific lines ('that sly come-hither stare... it's such an ancient pitch', ''cause it's witchcraft... I know it's strictly taboo') of a copyrighted 1957 lyric — the known flagged instance.  
 *Proposed mitigation:* Reduce to title-only ('Sinatra was doing "Witchcraft"') or loosen the paraphrase so it no longer tracks specific lines ('ancient pull', 'switch off').
 
-### [2] The Practice Room — "Freshman year" attached to sexual use of the practice rooms (age-signal)
+### [2] The Practice Room — "Freshman year" attached to sexual use of the practice rooms (age-signal) — **CLOSED 2026-09-16, no change to the prose**
 
 > "Nothing. Freshman year. People used them to. You know."
+
+**CLOSED — author ruling 2026-09-16. Keep the line as written; do not re-open.**
+A college freshman is a legal adult. The line refers to *other* people —
+unnamed third parties, also adults — and depicts nothing: no act, no
+participant, no age on the page. The 2026-08-01 scan's worry was
+hostile-reader optics, not a legal or platform theory, and there is no
+under-18 element for BookFunnel's termination clause to engage. **Action:
+none.** The scan's reasoning below is kept verbatim so the closure is
+auditable; it is not a live instruction.
 
 *Location:* ~line 33, entering the practice room  
 *Rationale:* Directly links 'freshman' (typically 18) to sexual activity in the very room where the scene's erotic content then occurs; a hostile reader could read it as normalizing under-21 sex on campus, though no participant in the scene is a freshman.  
