@@ -131,6 +131,42 @@ True, legible in the platform's grammar, and it catches exactly the graduating r
 tired of the bad-boy formula. Pair with the "emotional maturity, not lurid intensity"
 line from `meta-plan-distribution.md` §4.
 
+**Caveat — the capture panel weakened the dark-romance framing (2026-09-18).** The
+`dark-romance-control` reader *stopped* (ch006 and ch021) and was retired 2026-09-12;
+the cohorts that finished are `romance-graduate`, `fsog-refugee`, and
+`consent-sensitive` (`reviews/capture-panel/SPEC.md`). So `#darkromance` stays useful
+for **reconnaissance** — §6 uses it to locate where readers congregate — but a hook
+*built* on it recruits from the pool that leaves. Note the short-sample inversion: in
+the 4-chapter arm nine controls stayed out of genuine attraction to the predation
+("my exact kink wearing a Sunday dress"), so the free sample attracts the reader the
+volume then rejects. Watch this in the sample's framing copy.
+
+**Hook candidates on the consent/trust axis (drafted 2026-09-20, none adopted).**
+Offered for test, not decided:
+- *"It doesn't romanticize any of it. It just watches — and it makes you watch too."*
+  Closest to what consent-sensitive readers actually credited; carries no heat signal,
+  so it under-recruits the heat-seeker. A retention/caption hook.
+- *"Every yes in it is real. That's what makes it devastating."* Safest under the §3
+  metadata-discipline keyword risk; but it promises a safety the epistemic deception
+  complicates — a §7 mis-sell vector aimed at the cohort least worth losing.
+- *"Everything I wanted Fifty Shades to be — explicit, tender, and smart about it."*
+  Widest reach and an unmistakable heat signal.
+
+**FSoG is channel-scoped — author ruling 2026-09-20.** The Fifty Shades hook may be
+tried **on BookTok / in creator copy only**, and **never on the cover, the blurb page,
+or the metadata description — wrong comp.** The distinction is comp vs. hook: a *comp*
+is a shelf claim promising likeness, and the jacket comp is Rice/Roquelaure's *Beauty*
+(`meta-blurb.md`), which licenses the explicitness and carries no HEA contract; a
+*hook* is an acquisition device, and FSoG works as one only because it is positioned
+**against** — the `fsog-refugee` is defined by dissatisfaction with that book. Even in
+the permitted channel it imports a romance frame and its HEA expectation, so pair it
+with the no-guaranteed-happy-ending deselect. (The cover was never the live risk: it
+carries three text elements and no tagline, `meta-cover.md`.)
+
+**No hook is adopted.** All four framings above are testable with the existing
+instrument — the jacket arm already moved the `fsog-refugee` from 6/8 cold to 8/8
+framed, so substituting a hook for the jacket in the 4-chapter run measures it.
+
 ## 6. Finding her — the search kit
 
 TikTok's search bar takes both **hashtags** (`#slowburn`) and **natural-language
