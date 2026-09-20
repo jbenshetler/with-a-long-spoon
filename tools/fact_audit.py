@@ -245,10 +245,23 @@ def build_ledger(model: str, model_id: str, volume: int, effort: str) -> str:
                   f"wrote in {cwd} ({len(salvaged):,} chars)", file=sys.stderr)
             body = salvaged
         else:
+            # Surface WHY. `max_output_tokens` is shared between reasoning and
+            # visible output, so a model thinking hard at effort=high can spend
+            # the whole budget and return little or nothing — that looks like a
+            # refusal until you see the token split (glm-5.3 returned 0 chars,
+            # gemini-3.8-flash a ledger truncated mid-section, both on 2026-09-19).
+            u = r.get("usage") or {}
+            diag = " · ".join(
+                f"{k}={u[k]}" for k in
+                ("finishReason", "output", "reasoningTokens", "max_output_tokens")
+                if u.get(k) is not None
+            )
             raise SystemExit(
                 f"ledger looks like a summary, not a ledger ({len(body)} chars"
                 + (f"; missing section(s): {', '.join(missing)}" if missing else "")
                 + f"). Nothing recoverable in {cwd}."
+                + (f"\n  provider: {diag}" if diag else "")
+                + "\n  If reasoning consumed the budget, retry with a lower --effort."
             )
     path.write_text(
         f"# Fact ledger — Volume {volume}\n\n*model: {model} · "
