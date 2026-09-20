@@ -604,10 +604,43 @@ Open leads for it to consume: `audits/timeline/pending-from-fact-audit.md`.
 priority. Current state parked on branch **`revise-between`**; `main` keeps the
 drafted chapter as it stands.
 
-**What is unspecified — and is the first question on resume:** *which parts*
-fail. The dissatisfaction was general, not itemized. Do **not** assume it is the
-beats revised 2026-09-16/17, and do not start rewriting off a guess — ask the
-author what isn't working before touching the prose.
+**The verdict (author, 2026-09-20) — three charges, and the rework answers all
+three or it hasn't answered anything:**
+
+1. **It misrepresents the relationship.**
+2. **It flattens the dynamic.**
+3. **It barely advances anything.**
+
+**Charge 3 collides with the chapter's own design premise, and that collision is
+probably the real problem.** `meta-note-between.md` opens by calling it "a
+**down-beat** with two small charges — mostly comedy, one covered Randi slip and
+one Vee tell, then practical talk — which is what resets the meter before the
+{{Barely Stings}}/{{Still Life}} diptych and {{On Her Floor}}." A chapter built
+to reset the meter will, by construction, barely advance anything. So the
+question is upstream of the prose: **does this slot want a down-beat at all?** If
+it does, the advancement has to come from somewhere other than plot — and
+"comedy plus one twitch" was not enough. If it doesn't, the down-beat premise is
+what to discard, and no amount of line-level revision will fix the chapter while
+it stands.
+
+**Hypotheses for charges 1–2 — MINE, not the author's; confirm before acting.**
+The author did not itemize, and a rework must not proceed on my reading of their
+sentence. Candidates worth putting to them first:
+
+- **Randi is rendered as a warm best friend with one involuntary twitch.** The
+  Bible requires her double register to stay audible — *sounds like curiosity,
+  functions as steering* — and warns that **under-showing her love is the
+  villain-flattening failure mode** while a cold tell is the other. Delight at
+  being right, a flinch, and a warm cover may sit in the narrow band between
+  those two errors without carrying either. The steering that *is* present (the
+  three-nudge cluster with its curated omission) arrives as pure practical
+  warmth, with nothing double audible in it.
+- **Vee is too uniformly adoring.** She hands over the win, praises Pace, arrives
+  first at the kiss. If the dynamic is flat, it may be flat because nobody in the
+  scene wants anything they aren't getting.
+- **The relationship may be the Vee/Pace one, not Vee/Randi** — the praise beat
+  ("*That man. Hers.*") is the other candidate for "misrepresents," and it was
+  added late, on 2026-09-17, on top of a chapter not designed around it.
 
 **Decided 2026-09-16/17 — do not re-litigate.** All of it is recorded in
 `meta-note-between.md` with rationale: the disclosure boundary (Sheri's
@@ -633,11 +666,22 @@ dinner. Same event, two venues, both committed; `meta-plan-chronology.md` carrie
 the same split. Cause: {{Between}} was committed while its companion edits stayed
 behind the review gate. Two ways out, author's call:
 
-- **(a) Minimal —** land the staging + Sunday hunks on `main` from the branch.
-  Resolves the contradiction and keeps the chapter; the food correction can ride
-  along, since the plate-sharing was wrong on its own canon grounds.
-- **(b) Full unwind —** revert {{Between}} off `main`. Note this is *not* a
-  single revert: it orphans the {{Hangover}} forward hook (`hangover.md` :39),
-  which composes the telling this chapter exists to deliver, and it touches the
-  chronology entry, `meta-note-between.md`, and the Lane-B/staircase rung note in
-  `meta-plan-satc-tracks.md`. Run `tools/orphan_refs.py` after, not before.
+- **(a) Minimal — TAKEN, author 2026-09-20.** The branch commit was cherry-picked
+  onto `main`, landing all three changes (staging, Sunday, food). `main` is
+  self-consistent again: `barely-stings.md` :29 and `between.md` :113 both put the
+  rec at the loft dinner. The chapter stays on `main` as a draft the author is
+  unhappy with, which is the deliberate trade — a flawed chapter beats a
+  two-venue contradiction while the rework waits.
+- **(b) Full unwind — not taken.** Recorded because it stays available if the
+  rework concludes the chapter should not exist in this slot: revert {{Between}}
+  off `main`. It is *not* a single revert — it orphans the {{Hangover}} forward
+  hook (`hangover.md` :39), which composes the telling this chapter exists to
+  deliver, and it touches the chronology entry, `meta-note-between.md`, the
+  staircase high-water-mark rung in `meta-plan-satc-tracks.md`, and the
+  {{Barely Stings}} staging just landed above. Run `tools/orphan_refs.py` after,
+  not before.
+
+**Branch housekeeping.** `revise-between`'s single commit is now already applied
+to `main` by cherry-pick, so it carries no unique content — it is purely the named
+workspace for the rework. **Rebase it onto `main` before resuming**; the commit
+will drop as already-applied, which is correct, not a loss.
