@@ -5,28 +5,18 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 
 ## Summary
 
-- 698 narration sentences, 10837 words
-- prose inside a flagged sentence: 31.5% (corpus 44.8%)
-- chain: 7 sentences (1.0%, corpus 2.2%)
+- 700 narration sentences, 10839 words
+- prose inside a flagged sentence: 31.0% (corpus 44.7%)
+- chain: 6 sentences (0.9%, corpus 2.2%)
 - nest: 9 sentences (1.3%, corpus 2.7%)
 - front: 5 sentences (0.7%, corpus 2.2%)
-- hold: 42 sentences (6.0%, corpus 9.7%)
-- suspend: 13 sentences (1.9%, corpus 1.4%)
+- hold: 41 sentences (5.9%, corpus 9.7%)
+- suspend: 12 sentences (1.7%, corpus 1.4%)
 - strand: 7 sentences (1.0%, corpus 2.3%)
 - pp: 20 sentences (2.9%, corpus 4.2%)
-- split: 7 sentences (1.0%, corpus 4.0%)
+- split: 8 sentences (1.1%, corpus 4.0%)
 
-## Worklist — 24 open, 1 left standing
-
-### `[#90ab461f5c15]` the-bench.md:9 — score 19.8
-
-`55w · open 8 · depth 2 · mdd 4.06` — suspend, strand, hold
-
-> She came in past the kitchen and put her bag on the chair by the door — the small overnight bag, leather, monogrammed in a sorority hand, expensive in the quiet way her things were expensive — the money in the grain and the weight of it — and came into him and put her arms around him.
-
-- **suspend**: interrupted 2×; longest 19 words held, resumes at “the money in the grain and…”
-- **strand**: “money …” → “bag” (21 words back, past the clause at “were”)
-- inspect: `tools/reading_effort.py the-bench --explain 9`
+## Worklist — 23 open, 1 left standing
 
 ### `[#e8bedcae875f]` the-bench.md:547 — score 13.0
 
@@ -196,6 +186,15 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 - **suspend**: interrupted 1×; longest 10 words held, resumes at “and he stepped close and put…”
 - inspect: `tools/reading_effort.py the-bench --explain 197`
 
+### `[#82d1507cf2df]` the-bench.md:9 — score 4.0
+
+`45w · open 6 · depth 2 · mdd 2.86` — strand
+
+> She came in past the kitchen and put her bag on the chair by the door — the small overnight bag, leather, monogrammed in a sorority hand, expensive in the quiet way her things were expensive, the money in the grain and the weight of it.
+
+- **strand**: “money …” → “bag” (21 words back, past the clause at “were”)
+- inspect: `tools/reading_effort.py the-bench --explain 9`
+
 ### `[#bdd933080aa8]` the-bench.md:47 — score 4.0
 
 `32w · open 5 · depth 3 · mdd 2.52` — strand
@@ -213,15 +212,6 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 
 - **strand**: “laugh …” → “breath” (15 words back, past the clause at “caught”)
 - inspect: `tools/reading_effort.py the-bench --explain 255`
-
-### `[#2236d5f9b5f4]` the-bench.md:9 — score 3.0
-
-`54w · open 5 · depth 4 · mdd 2.4` — chain
-
-> He looked down at her face, which was tilted up at him with the slight perpetual surprise that her resting expression carried, the flat oval and the startlingly blue eyes which were the first thing anyone noticed about her and the thing she had built her whole adult life around being looked at for.
-
-- **chain**: idea passed down 4 clause levels
-- inspect: `tools/reading_effort.py the-bench --explain 9`
 
 ### `[#9a97ae681ba6]` the-bench.md:471 — score 3.0
 

@@ -6,7 +6,7 @@
 
 The room was warm when she came in, the kind of even warmth he kept the house at because he liked being able to take his time without thinking about whether someone else was cold. He had left the front door unlocked for her. He heard it open, and then the deadbolt turn over as she locked it behind her — she always locked it behind her, first thing, before anything else — and he came through the kitchen to meet her. He did not call out to her, and she did not call out to him, and the small economy of two people who did not perform for each other settled across the house like a sheet being drawn. Steely Dan was going low under it all — that smooth sound, cool and unhurried, sliding through the front rooms.
 
-She came in past the kitchen and put her bag on the chair by the door — the small overnight bag, leather, monogrammed in a sorority hand, expensive in the quiet way her things were expensive — the money in the grain and the weight of it — and came into him and put her arms around him. He smelled her perfume, sharp citrus and something colder underneath. She pressed against him. He looked down at her face, which was tilted up at him with the slight perpetual surprise that her resting expression carried, the flat oval and the *startlingly* blue eyes which were the first thing anyone noticed about her and the thing she had built her whole adult life around being looked at for.
+She came in past the kitchen and put her bag on the chair by the door — the small overnight bag, leather, monogrammed in a sorority hand, expensive in the quiet way her things were expensive, the money in the grain and the weight of it. Then she came into him and put her arms around him. He smelled her perfume, sharp citrus and something colder underneath. She pressed against him. He looked down at her face, which was tilted up at him with the slight perpetual surprise that her resting expression carried, the flat oval and the *startlingly* blue eyes. They were the first thing anyone noticed about her, and she had built her whole adult life around being looked at for them.
 
 "Hi," she said.
 
@@ -38,7 +38,7 @@ He set the bowl on the kitchen table.
 
 "I sliced this for you."
 
-She looked at the apple. He watched the thing behind her face that policed her relationship to food run through whatever calculation it was running, and he was sorry about it. Apples were permitted. Her mother lived on egg whites and tofu, a thing she said with a knife in it, and her sorority took only girls built to the one scale; he had seen them. Apples were on the safe side of the line both had drawn. She came over to the table.
+She looked at the apple. He watched the thing behind her face that policed her relationship to food run through whatever calculation it was running, and he was sorry about it. Apples were permitted. Her mother lived on egg whites and tofu, a thing she had told him with a knife in it, and her sorority took only girls built to the one scale; he had seen them. Apples were on the safe side of the line both had drawn. She came over to the table.
 
 She sat before he did, across from him at the little table. Her brows drew together, and he watched her think better of it. She stood, and circled one finger in the air for him to turn the chair. He turned his chair away from the table and sat with his thighs together, where she wanted him. Being directed by her pleased him. He kept that off his face, mostly. 
 

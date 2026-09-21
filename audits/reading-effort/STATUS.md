@@ -285,6 +285,9 @@ the book *and* densest — and is the obvious next sweep.
 | 2026-09-20 | `the-bench.md:47` | 5/5 readers. *the thing … the thing* clause recast (*what … that*), tail broken into finite sentences; effort 223 → 118 |
 | 2026-09-20 | `the-bench.md:201` | 4/5 readers. One 71-word, three-dash sentence → four; supported/unsupported contrast kept in one sentence; effort 233 → 144 |
 | 2026-09-20 | `the-pointing-game.md:143` | 4/5 readers. Unclosed aside closed, antithesis split across a sentence break, *is this one mine to take?* — mark added under the voicing rule; effort 184 → 49 |
+| 2026-09-20 | `the-bench.md:9` (bag) | 4/5 readers. Two stacked interruptions → one, closed at a full stop; "and came into him" made its own sentence; nothing cut; effort 219 → 145, suspend 2× → 0 |
+| 2026-09-20 | `the-bench.md:9` (face) | 4/5 readers. *which … which* chain broken at the eyes; stranded "being looked at for" given its object ("for them"); chain cleared; total effort flat by design — the fix resolves a tail, not load |
+| 2026-09-20 | `the-bench.md:41` | 3/5 readers, tool-invisible. "a thing she said with a knife in it" → "a thing she had told him with a knife in it": the ambiguous *she* (mother or daughter) now resolves through *him*; the knife kept compressed by author ruling; *the one scale* left standing |
 
 ## Rulings
 
