@@ -1,0 +1,67 @@
+{
+  "model": "claude-sonnet-5",
+  "scene": "the-bench",
+  "sentences": 760,
+  "findings": [
+    {
+      "n": 6,
+      "cost": 2,
+      "why": "The description of the bag piles up appositives (leather, monogrammed, expensive, 'the money in the grain and the weight of it') between subject and verb, so I lost the sentence's main action briefly."
+    },
+    {
+      "n": 9,
+      "cost": 2,
+      "why": "The final clause 'the thing she had built her whole adult life around being looked at for' has an awkward stranded preposition that I had to re-parse to connect back to 'eyes'."
+    },
+    {
+      "n": 42,
+      "cost": 2,
+      "why": "'a thing she said with a knife in it' and 'girls built to the one scale' are compressed metaphors I had to stop and unpack before moving on."
+    },
+    {
+      "n": 52,
+      "cost": 3,
+      "why": "The phrase 'doing the thing her body knew how to do and finding it had stopped being the thing she was doing' is recursively self-referential and I had to re-read it to figure out what had actually changed."
+    },
+    {
+      "n": 69,
+      "cost": 2,
+      "why": "The sentence ends on an abstract clause about her expression registering something with no name for it, which required extra work to connect back to the physical description before it."
+    },
+    {
+      "n": 129,
+      "cost": 1,
+      "why": "A verbless fragment stacking three parallel 'where' clauses - I had to hold the sentence open without a main verb to land on."
+    },
+    {
+      "n": 262,
+      "cost": 2,
+      "why": "A very long sentence chaining many simultaneous body-part observations across several dashes, making it hard to keep track of everything being described at once."
+    },
+    {
+      "n": 622,
+      "cost": 1,
+      "why": "The referent of 'it' shifts from the bottle to the cap edge mid-sentence, so I had to backtrack to figure out what was being pressed into her thumbnail."
+    },
+    {
+      "n": 665,
+      "cost": 1,
+      "why": "A new name, Daphne, is dropped in with a whole backstory implied but unexplained, so I paused trying to place who she was."
+    },
+    {
+      "n": 694,
+      "cost": 2,
+      "why": "The self-interrupting parenthetical 'she could feel that she could not' inside the main clause made me lose the thread of the sentence and re-read it."
+    },
+    {
+      "n": 703,
+      "cost": 2,
+      "why": "This compressed, abstract sentence about the face absorbing attention required slow, deliberate parsing to follow the logic."
+    },
+    {
+      "n": 717,
+      "cost": 2,
+      "why": "The sentence is split twice by dashes and a parenthetical simile between 'Not tonight' and 'not ever,' so I had to re-read to reconnect the two halves."
+    }
+  ]
+}

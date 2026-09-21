@@ -26,3 +26,7 @@ audits/fact-audit/.work/
 # Reading-effort parse cache: machine scratch, regenerable, ~9MB. The pass's
 # worklists and rulings under audits/reading-effort/ ARE tracked.
 audits/reading-effort/cache.json
+
+# Calibration extracts from copyrighted epubs in ref/ — derived statistics
+# are committable, the extracted prose is not.
+audits/reading-effort/.calib/
