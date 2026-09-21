@@ -81,11 +81,11 @@ mark items done with dates as they complete.*
   on every item**, and high effort is frequently earned: suspension is a real
   device and the accretive tail is deliberate voice. **Not a per-edit step
   (author ruling 2026-09-20)** — unlike Lane B this is a deliberate sweep only,
-  because it returns ~54 findings on a single chapter and every one needs a
+  because it returns ~87 findings on a single chapter and every one needs a
   ruling; running it per keystroke would swamp the drafting loop. Scored
   relative to this book's own corpus, never an external readability index.
   **Not started — instrument built and validated on `the-bench` 2026-09-20
-  (54 open findings, 1 fixed); no chapter ruled with the author yet.**
+  (87 open findings, 1 fixed); no chapter ruled with the author yet.**
 - [ ] **Proofread after typesetting** — on-device (Books/Kindle) against the
   built epub: section-rule breaks, italics at chapter boundaries, curly
   quotes/apostrophes, scene-break rendering.

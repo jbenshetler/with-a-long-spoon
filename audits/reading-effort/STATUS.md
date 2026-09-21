@@ -18,7 +18,7 @@ machine scratch, regenerable). Pass tracked in
 
 **Not a per-edit step (author ruling 2026-09-20).** Unlike the orphaned-reference
 sweep, which is cheap enough to run on every edit, this is a deliberate sweep
-only: it returns ~54 findings on one chapter and each needs a ruling. Running it
+only: it returns ~87 findings on one chapter and each needs a ruling. Running it
 inside the drafting loop would swamp it.
 
 ## Discipline: flags, never findings
@@ -43,22 +43,113 @@ blind to syntax, which is the whole defect class here.
 
 ## What it measures
 
-Five per-sentence costs off the parse — peak open dependencies (unresolved arcs
+Per-sentence costs off the parse — peak open dependencies (unresolved arcs
 spanning any one point: the working-memory high-water mark), clause embedding
-depth, mean dependency distance, subject–verb gap, words before the main verb —
-and four flag classes:
+depth, depth reached *before* the main verb, mean dependency distance,
+subject–verb gap, words before the main verb, prepositions in linear
+succession — and eight flag classes:
 
 | class | what it catches |
 |---|---|
+| `chain` | an idea passed down N clause levels, anywhere |
+| `nest` | that stack sitting **before** the main verb |
+| `front` | main verb arrives late: nothing dischargeable until it does |
+| `hold` | peak open dependencies high: too much carried at once |
 | `suspend` | a dash/paren interruption the main clause **resumes** after |
-| `chain` | an idea passed down N clause levels |
 | `strand` | a modifier reaching back past an intervening clause to its head |
+| `pp` | a string of prepositional phrases |
 | `split` | a long verbless sentence, or a connective opener, after a long one |
+
+**`hold` and `front` were one class (`load`) until 2026-09-20.** They proved
+near-disjoint — on `the-bench`, 39 sentences fired on peak-open alone, 17 on
+verb-delay alone, 3 on both — so the merged flag named *that* a sentence was
+heavy while hiding *which kind*. Same objection that applies to a composite
+score, one level down.
+
+**The composite ranking is a judgement call and `--sort` exists to bypass it.**
+The weights were set by feel; `--sort <metric>` ranks by any single axis
+instead, which needs no such call. It matters: `--sort pp` surfaces sentences
+scoring 1.5 on the composite that would never reach a top-20, e.g.
+`the-bench.md:59`, five prepositions in succession at clause depth 1.
+
+**`pp` measures linear succession, not structure.** Structural measures
+(`pp_chain`, `pp_stack`) are computed but drive nothing — they miss "Slow along
+her sides, from the hips up over the ribs under the cardigan and down again"
+(chain 2, stack 2, run 4) while firing on "the small rise and fall of her
+breathing in the hollow of her throat" (chain 3), which reads fine.
+
+**The parser mis-roots long coordinate sentences, and `predelay` compensates.**
+en_core_web_sm routinely picks a late verb as ROOT in this book's long
+sentences and attaches the genuine opening main clause to it as `ccomp` —
+`the-bench.md:131` roots on `went` at word 38 while the reader got "He led her"
+at word 2. Taken raw, that reported right-branching sentences as steeply
+left-branching: **15 of 20 `front` flags were artifacts.** `predelay` now takes
+the earliest top-level predicate (ROOT plus `conj`/`parataxis`, plus any
+`ccomp` that *precedes* its head, which is a parse error rather than a
+complement). `advcl` is deliberately excluded — a leading adverbial genuinely
+is subordinate, and that is the case `front` exists to catch. Where the parse
+resolves no verbal ROOT at all, `nest` and `front` are suppressed entirely
+rather than scored, since root position is their only input.
+
+**Known gap: no cross-sentence referent tracking.** A pronoun held across
+several sentences is invisible to this instrument, which is strictly
+per-sentence. That gap matters most where this book is most exposed — any
+chapter with Vee and Randi both present has two women sharing "she."
 
 Plus a **fatigue profile**: ~220-word windows scored by effort per word, since
 fatigue is cumulative rather than per-sentence, and a long chapter has more of
 it to survive. Breathers (short or dialogue sentences) count in — they are the
 relief that makes a passage survivable.
+
+## Calibration against published work (2026-09-20)
+
+Every other figure here is relative to this novel's own corpus, which can say
+"heavy for me" and never "heavy for a published book." So: `the-bench`
+(11,201 words) against a contiguous 11,212-word sample of **Antonia Angress,
+*Sirens & Muses*** (2022), taken from 15% in to clear front matter.
+`tools/calibrate_epub.py` does the extraction; the extract itself is
+gitignored under `.calib/` because it is a copyrighted text — only these
+derived numbers are committable.
+
+**On average the two are the same book.** This is the headline, and it argues
+against any general "simplify the prose" response:
+
+| per sentence | the-bench | Sirens & Muses |
+|---|---|---|
+| peak open dependencies | 3.61 | 3.65 |
+| mean dependency distance | 2.01 | 2.00 |
+| subject–verb gap | 1.92 | 1.88 |
+| clause depth | 0.82 | **0.92** |
+| words | 16.3 | 15.0 |
+
+**The difference is entirely in the tails, and in two specific structures:**
+
+| flag | the-bench | Sirens & Muses | |
+|---|---|---|---|
+| `suspend` | **2.0%** | 0.6% | 3.3× |
+| `hold` | **6.4%** | 2.3% | 2.8× |
+| `front` | 0.8% | **2.5%** | 0.3× |
+| `nest` | 1.4% | **2.2%** | 0.6× |
+| `split` | 1.1% | **2.1%** | 0.5× |
+| p90 sentence length | **38** | 30 | |
+| prose inside a flagged sentence | **32.7%** | 17.9% | 1.8× |
+
+Two conclusions worth holding on to:
+
+1. **`suspend` is the finding.** It is the one structure where this chapter
+   runs multiples above a published comp, it is what the human reader
+   described, and it is what the blind readers converge on. Everything else is
+   within, or below, published norms.
+2. **Left-branching is not this book's problem.** Angress front-loads three
+   times as often. A leading adverbial before the main verb is ordinary
+   literary technique, and `the-bench` uses it *less* than the comp — so a
+   `front` or `nest` finding here should clear a high bar before it is acted
+   on. (This also independently supports excluding `advcl` from the
+   main-predicate repair: had that exclusion been wrong, the-bench's `front`
+   rate would have looked anomalous rather than low.)
+
+Caveat: one comp, one sample, one genre-adjacent title. Treat it as a sanity
+check on the thresholds, not a population statistic.
 
 ## Rulings are fingerprinted, and there is no "done" state
 
@@ -77,7 +168,7 @@ later pass does not re-litigate it.
 
 | Chapter | Swept | Findings | State |
 |---|---|---|---|
-| the-bench | 2026-09-20 | 54 open | **swept, none ruled** |
+| the-bench | 2026-09-20 | 87 open | **swept, none ruled** |
 
 Chapter-level load, ranked by share of prose inside a flagged sentence
 (`tools/reading_effort.py --corpus`), heaviest first:
@@ -105,7 +196,7 @@ the book *and* densest — and is the obvious next sweep.
 
 ## Restart
 
-1. Rule `the-bench`'s 54 findings with the author, hardest first
+1. Rule `the-bench`'s 87 findings with the author, hardest first
    (`audits/reading-effort/the-bench.md`). Use
    `tools/reading_effort.py the-bench --explain <line>` on any sentence whose
    numbers look high — the peak-open count mixes cheap local arcs with

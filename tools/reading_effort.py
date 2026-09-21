@@ -34,19 +34,38 @@ What it measures, and why each is a cost the reader actually pays:
             its head (Liu 2008). Integration cost, averaged over the sentence.
   sv        Longest SUBJECT-VERB distance: how far a subject waits for its
             predicate.
-  predelay  Words before the main verb (ROOT) lands — left-branching load, the
-            costliest kind, since nothing can be discharged until it arrives.
+  predelay  Words before the first MAIN predicate lands — left-branching load,
+            the costliest kind, since nothing can be discharged until it
+            arrives. Not simply ROOT's position: see `main_clause_pos`, which
+            repairs the long-coordinate-sentence mis-rooting that made 15 of
+            20 `front` flags on the-bench artifacts.
+  nest      Clause depth reached BEFORE the main verb. Right-branching
+            accretion is cheap (the predicate is already in hand); the same
+            depth to the left is not. `depth` scores both the same.
+  pp_run    Prepositions in LINEAR succession, however they attach. The
+            structural measures (pp_chain, pp_stack) miss what the reader
+            feels — see the note in `measure`.
 
-And four flag classes — the structures where rearrangement is usually free:
+Flag classes — the structures where rearrangement is usually free:
 
-  chain     Deep subordination stack (an idea passed down N clause levels).
+  chain     Deep subordination stack, anywhere in the sentence.
+  nest      That stack sitting BEFORE the main verb.
+  front     Main verb arrives late: nothing dischargeable until it does.
+  hold      Peak open dependencies high: too much carried at once.
   suspend   A dash/paren interruption the main clause RESUMES after, so the
             reader has to hold and re-find the thread.
   strand    A modifier whose head is far back with another finite clause in
             between: the reader must reattach across an intervening clause.
+  pp        A string of prepositional phrases.
   split     An idea continued into the next sentence — a verbless fragment, or
             a sentence opening on a connective, after a long sentence. The
             "split across multiple sentences" half of the feedback.
+
+`hold` and `front` were one class (`load`) until 2026-09-20. They proved to be
+near-disjoint populations, so the merged flag said a sentence was heavy while
+hiding which kind — the same objection that applies to a composite score. The
+composite remains, but `--sort <metric>` ranks by any single axis instead, and
+every finding prints its components.
 
 Like `echo_harvest.py` and `orphan_refs.py` this FLAGS, NEVER FIXES, and it
 over-flags on purpose. High effort is not a defect: suspension is a real device
@@ -59,7 +78,8 @@ baseline, so "hard" means hard for this author, not hard for an arbitrary index.
 Usage:
     tools/reading_effort.py the-bench              # one chapter vs. the corpus
     tools/reading_effort.py the-bench --top 40
-    tools/reading_effort.py the-bench --class suspend,strand
+    tools/reading_effort.py the-bench --class nest,front,pp
+    tools/reading_effort.py the-bench --sort nest  # ignore the composite
     tools/reading_effort.py the-bench --explain 49 # why that sentence is heavy
     tools/reading_effort.py --corpus               # rank every chapter
     tools/reading_effort.py the-bench --json
@@ -81,13 +101,15 @@ CACHE = AUDITS / "cache.json"          # machine scratch, gitignored
 RULINGS = AUDITS / "rulings.toml"      # author decisions, tracked in git
 # Bump when a metric or threshold changes: cached rows computed under the old
 # rules must not be mixed into a new baseline.
-ALGO = "v6"
+ALGO = "v12"
 
 # ---------------------------------------------------------------------------
-# Thresholds. Each is the point above which a structure starts costing enough
-# to be worth the author's eye; the penalty is the EXCESS over the threshold,
-# so a sentence one notch over barely registers. Calibrated against this
-# corpus (see --corpus percentiles), not against general English.
+# Thresholds. Each is the point at which a structure starts costing enough to
+# be worth the author's eye. Scoring counts from the threshold INCLUSIVE (see
+# `over` in `measure`), so anything that fires also scores — a sentence one
+# notch over still barely registers, but it is never silently dropped.
+# Calibrated against this corpus (see --corpus percentiles), not against
+# general English.
 # ---------------------------------------------------------------------------
 T_OPEN = 7          # peak open dependencies
 T_DEPTH = 4         # clause embedding depth
@@ -100,12 +122,16 @@ T_STRAND_SPAN = 3   # …and the modifier must itself be this many words
 T_LONG_PRIOR = 18   # a prior sentence this long makes a following fragment a
                     # candidate for rejoining rather than a deliberate beat
 T_FRAGMENT = 8      # below this a verbless sentence is a beat, not a split
+PP_GAP = 5          # words between prepositions to count as one run
+T_PP_RUN = 4        # prepositions in succession before it reads as a string
+T_NEST = 2          # clause depth before the main verb (corpus p90 = 1)
 T_BREATHER = 10     # a sentence this short (and shallow) is where the reader
                     # sets the load down
 WINDOW_WORDS = 220  # fatigue window: roughly a screen / a long paragraph pair
 
 W_OPEN, W_DEPTH, W_PREDELAY, W_SV = 2.0, 3.0, 0.5, 0.4
 W_SUSPEND, W_STRAND = 0.8, 4.0
+W_NEST, W_PP = 3.0, 1.5
 
 # Clausal dependency labels: each one is a whole predication hung off another.
 # `conj` is excluded on purpose (coordination is cheap; see module docstring).
@@ -202,6 +228,10 @@ class Sent:
     mdd: float = 0.0
     sv: int = 0
     predelay: int = 0
+    nest_before: int = 0   # clause depth reached BEFORE the main verb
+    pp_chain: int = 0      # longest prep→pobj→prep chain
+    pp_stack: int = 0      # most PPs hanging off one head
+    pp_run: int = 0        # most prepositions in close linear succession
     suspend: int = 0
     suspend_at: str = ""
     effort: int = 0        # total dependency distance: this sentence's raw
@@ -274,6 +304,60 @@ def open_profile(n_words: int, arcs) -> list[int]:
     return prof
 
 
+def main_clause_pos(doc, toks, pos) -> tuple[int, bool]:
+    """Word position where the sentence's first MAIN predicate lands, and
+    whether the parse can be trusted about it.
+
+    Not simply the position of ROOT. In a long coordinate sentence
+    en_core_web_sm routinely picks a LATER conjunct as ROOT — "He led her past
+    it … and then … he went down on one knee" roots on `went` at word 38 —
+    while the reader got a finite main verb at word 2 and discharged the load
+    there. Taking ROOT's position as the main-verb delay reported those
+    sentences as steeply left-branching when they are the opposite, and this
+    book is full of them. So: ROOT together with any verb chained to it by
+    `conj`/`parataxis` are all top-level predicates, and the earliest one wins.
+
+    The second return value is True when the parse did not resolve a verbal
+    ROOT at all (`the-bench.md:47` roots on the adverb "upright"). Everything
+    derived from root position is unreliable there, so callers must not score
+    it — the fallback below is a best effort for display only.
+    """
+    root = next((t for t in doc if t.dep_ == "ROOT"), None)
+    finite = [t for t in toks if t.tag_ in FINITE_TAGS]
+    if root is None or root.i not in pos:
+        return (pos[finite[0].i] if finite else 0), bool(finite)
+
+    preds, frontier, guard = [root], [root], 0
+    while frontier and guard < 200:
+        cur = frontier.pop()
+        guard += 1
+        for child in cur.children:
+            if child.pos_ not in ("VERB", "AUX"):
+                continue
+            # Coordinate/juxtaposed clauses are top-level by definition.
+            top = child.dep_ in ("conj", "parataxis")
+            # A complement clause that PRECEDES its head verb is a parse
+            # error, not a complement: English puts the complement after
+            # ("He knew [that she left]"), so `led`@1 as ccomp of `went`@45
+            # means the parser mis-rooted a long sentence and the opening
+            # clause is in fact the main one. `advcl` is deliberately NOT
+            # included — a leading adverbial ("Because he liked X, she did
+            # Y") genuinely IS subordinate and left-branching, which is the
+            # very thing `front` exists to catch.
+            if child.dep_ == "ccomp" and child.i < cur.i:
+                top = True
+            if top:
+                preds.append(child)
+                frontier.append(child)
+    earliest = min(pos[t.i] for t in preds if t.i in pos)
+
+    if root.pos_ not in ("VERB", "AUX") and finite:
+        # Parse failure. Fall back to the first finite verb so the number shown
+        # is at least in the right region, and tell the caller not to score it.
+        return min(earliest, pos[finite[0].i]), True
+    return earliest, False
+
+
 def measure(doc, slug: str, line: int) -> Sent:
     """Measure one sentence, parsed as its own Doc."""
     toks, pos, arcs = arc_spans(doc)
@@ -295,6 +379,10 @@ def measure(doc, slug: str, line: int) -> Sent:
         s.mdd = round(s.effort / len(arcs), 2)
 
     # --- clause embedding depth -------------------------------------------
+    main_pos, parse_bad = main_clause_pos(doc, toks, pos)
+    s.predelay = main_pos
+    if parse_bad:
+        s.parse = "uncertain"
     for t in toks:
         d, cur, guard = 0, t, 0
         while cur.head.i != cur.i and guard < 200:
@@ -303,6 +391,50 @@ def measure(doc, slug: str, line: int) -> Sent:
             cur = cur.head
             guard += 1
         s.depth = max(s.depth, d)
+        # Depth reached BEFORE the main verb lands. Right-branching accretion
+        # after the main clause is cheap — the reader has a finished predicate
+        # to hang it on. The same depth to the LEFT is not: nothing can be
+        # discharged until the verb arrives. `depth` alone scores both the
+        # same, which is what made this worth separating.
+        if pos[t.i] < main_pos:
+            s.nest_before = max(s.nest_before, d)
+
+    # --- prepositional-phrase strings --------------------------------------
+    # Not clauses, so `depth` is blind to them: "Slow along her sides, from the
+    # hips up over the ribs under the cardigan and down again" is depth 1 and
+    # still work to read. Two shapes — a CHAIN (each PP hanging off the last)
+    # and a STACK (several PPs on one head, the reader choosing attachment).
+    stack = {}
+    for t in toks:
+        if t.dep_ != "prep":
+            continue
+        stack[t.head.i] = stack.get(t.head.i, 0) + 1
+        depth_pp, cur, guard = 1, t, 0
+        while guard < 50:
+            h = cur.head
+            if h.dep_ == "pobj" and h.head.dep_ == "prep":
+                depth_pp += 1
+                cur = h.head
+                guard += 1
+                continue
+            break
+        s.pp_chain = max(s.pp_chain, depth_pp)
+    s.pp_stack = max(stack.values(), default=0)
+
+    # The one the reader actually feels is LINEAR, not structural: prepositions
+    # arriving one after another with barely a gap, wherever they attach.
+    # Neither measure above catches "Slow along her sides, from the hips up over
+    # the ribs under the cardigan and down again" — the parse distributes those
+    # across different heads, so the chain is 2 and the stack is 2, while the
+    # run is 5. Conversely pp_chain 3 fires on "the small rise and fall of her
+    # breathing in the hollow of her throat", which reads fine. So the run is
+    # what flags; the other two are reported but do not drive anything.
+    prep_pos = [pos[t.i] for t in toks if t.dep_ == "prep"]
+    run = best = 1
+    for a, b in zip(prep_pos, prep_pos[1:]):
+        run = run + 1 if b - a <= PP_GAP else 1
+        best = max(best, run)
+    s.pp_run = best if prep_pos else 0
 
     # --- subject-verb distance, main-verb delay ---------------------------
     for t in toks:
@@ -312,14 +444,8 @@ def measure(doc, slug: str, line: int) -> Sent:
     # this from the ROOT's part of speech: en_core_web_sm mis-roots very long
     # sentences (the 67-word one at the-bench.md:47 roots on an adverb), which
     # would report a perfectly finite sentence as verbless.
-    finite = [t for t in toks if t.tag_ in FINITE_TAGS]
-    root = next((t for t in doc if t.dep_ == "ROOT"), None)
-    if root is not None and root.i in pos:
-        s.predelay = pos[root.i]
-        if root.pos_ not in ("VERB", "AUX") and finite:
-            # parse didn't resolve: the structural numbers above are soft here
-            s.parse = "uncertain"
-    if not finite:
+    # predelay / parse-confidence are set from main_clause_pos above.
+    if not [t for t in toks if t.tag_ in FINITE_TAGS]:
         s.split = "fragment"
 
     # --- suspension: an interruption the clause resumes after --------------
@@ -378,12 +504,21 @@ def measure(doc, slug: str, line: int) -> Sent:
             )
 
     # --- score -------------------------------------------------------------
+    # `over` counts from the threshold INCLUSIVE: a metric that exactly reaches
+    # its threshold has fired, so it must score. With plain excess (x - T) it
+    # scored 0, the worklist filtered on score > 0, and 39 flagged sentences on
+    # the-bench silently never appeared — including 13 of the 20 `pp` hits the
+    # summary was simultaneously reporting. Summary and worklist now agree.
+    over = lambda x, t: max(0, x - t + 1)
     s.score = round(
-        W_OPEN * max(0, s.open_deps - T_OPEN)
-        + W_DEPTH * max(0, s.depth - T_DEPTH)
-        + W_PREDELAY * max(0, s.predelay - T_PREDELAY)
-        + W_SV * max(0, s.sv - T_SV)
-        + W_SUSPEND * max(0, s.suspend - T_SUSPEND)
+        W_OPEN * over(s.open_deps, T_OPEN)
+        + W_DEPTH * over(s.depth, T_DEPTH)
+        # Both key off main-clause position, so a bad parse invents them.
+        + (0 if s.parse else W_NEST * over(s.nest_before, T_NEST))
+        + (0 if s.parse else W_PREDELAY * over(s.predelay, T_PREDELAY))
+        + W_SV * over(s.sv, T_SV)
+        + W_SUSPEND * over(s.suspend, T_SUSPEND)
+        + W_PP * over(s.pp_run, T_PP_RUN)
         + W_STRAND * len(s.strands),
         1,
     )
@@ -393,12 +528,24 @@ def measure(doc, slug: str, line: int) -> Sent:
 
     if s.depth >= T_DEPTH:
         s.flags.append("chain")
+    if s.nest_before >= T_NEST and not s.parse:
+        s.flags.append("nest")
     if s.suspend:
         s.flags.append("suspend")
     if s.strands:
         s.flags.append("strand")
-    if s.open_deps >= T_OPEN or s.predelay >= T_PREDELAY:
-        s.flags.append("load")
+    if s.pp_run >= T_PP_RUN:
+        s.flags.append("pp")
+    # `hold` and `front` were one class, `load`. They turned out to be almost
+    # disjoint populations — on the-bench, 39 sentences fired on peak-open
+    # alone and 17 on main-verb-delay alone, only 3 on both — so the merged
+    # flag named THAT a sentence was heavy while hiding WHICH KIND. They are
+    # also different problems: `hold` is too much open at once, `front` is
+    # nothing dischargeable until the verb arrives.
+    if s.open_deps >= T_OPEN:
+        s.flags.append("hold")
+    if s.predelay >= T_PREDELAY and not s.parse:
+        s.flags.append("front")
     return s
 
 
@@ -457,6 +604,8 @@ def prune_overlaps(spots: list[dict], keep: int) -> list[dict]:
     """Highest-scoring windows first, dropping any that overlap one already
     taken — so the report names distinct passages, not one peak N times."""
     chosen: list[dict] = []
+    if keep <= 0:
+        return chosen
     for sp in sorted(spots, key=lambda d: -d["per_word"]):
         if all(sp["end"] <= c["start"] or sp["start"] >= c["end"] for c in chosen):
             chosen.append(sp)
@@ -671,6 +820,14 @@ def write_worklist(target: list[Sent], slug: str, rulings: dict,
             L.append(f"- **split**: {s.split}")
         if "chain" in s.flags and s.depth >= T_DEPTH:
             L.append(f"- **chain**: idea passed down {s.depth} clause levels")
+        if "nest" in s.flags:
+            L.append(f"- **nest**: {s.nest_before} clause levels deep before "
+                     f"the main verb (word {s.predelay})")
+        elif "front" in s.flags:
+            L.append(f"- **front**: main verb lands at word {s.predelay} of "
+                     f"{s.words}")
+        if "pp" in s.flags:
+            L.append(f"- **pp**: {s.pp_run} prepositions in linear succession")
         if s.parse:
             L.append("- **note**: parser could not resolve the main verb; "
                      "structural numbers approximate")
@@ -750,6 +907,16 @@ def quantile(values: list[float], q: float) -> float:
 # ---------------------------------------------------------------------------
 # Reporting
 # ---------------------------------------------------------------------------
+# --sort: rank the worklist by one axis instead of the composite. The weights
+# in the composite are a judgement call; sorting by a single measure needs no
+# such call, and is the honest way to ask "which sentences are worst at X".
+SORTABLE = {
+    "score": "score", "open": "open_deps", "depth": "depth",
+    "nest": "nest_before", "front": "predelay", "mdd": "mdd",
+    "effort": "effort", "pp": "pp_run", "suspend": "suspend",
+    "sv": "sv", "words": "words",
+}
+
 METRICS = [
     ("words/sentence", "words", "{:.1f}"),
     ("peak open deps", "open_deps", "{:.1f}"),
@@ -809,7 +976,8 @@ def path_label(sents: list[Sent]) -> str:
 
 def report(target: list[Sent], base: dict[str, list[Sent]], slug: str, top: int,
            classes: set[str] | None, top_spots: int = 6,
-           rulings: dict | None = None, show_acked: bool = False):
+           rulings: dict | None = None, show_acked: bool = False,
+           sort_by: str = "score"):
     rulings = rulings or {}
     nar = [s for s in target if not s.dialogue]
     # Chapter-level baseline: one number per chapter, so this chapter's
@@ -837,10 +1005,13 @@ def report(target: list[Sent], base: dict[str, list[Sent]], slug: str, top: int,
     # flag-class rates, chapter vs. corpus
     print()
     for cls, blurb in (
-        ("chain", f"clause depth ≥ {T_DEPTH}"),
+        ("chain", f"clause depth ≥ {T_DEPTH}, anywhere"),
+        ("nest", f"clause depth ≥ {T_NEST} BEFORE the main verb"),
+        ("front", f"main verb ≥ {T_PREDELAY} words in (left-branching)"),
+        ("hold", f"peak open dependencies ≥ {T_OPEN}"),
         ("suspend", f"resumed interruption ≥ {T_SUSPEND} words"),
         ("strand", f"modifier reattached ≥ {T_STRAND} words back"),
-        ("load", f"peak open ≥ {T_OPEN} or main verb ≥ {T_PREDELAY} words in"),
+        ("pp", f"≥ {T_PP_RUN} prepositions in linear succession"),
         ("split", "idea continued into the next sentence"),
     ):
         mine = sum(1 for s in nar if cls in s.flags)
@@ -870,7 +1041,8 @@ def report(target: list[Sent], base: dict[str, list[Sent]], slug: str, top: int,
         f"- {cls}: {sum(1 for s in nar if cls in s.flags)} sentences "
         f"({100 * sum(1 for s in nar if cls in s.flags) / len(nar):.1f}%, "
         f"corpus {100 * sum(1 for s in bnar if cls in s.flags) / len(bnar):.1f}%)"
-        for cls in ("chain", "suspend", "strand", "load", "split")
+        for cls in ("chain", "nest", "front", "hold", "suspend", "strand",
+                    "pp", "split")
     ]
 
     # --- fatigue profile ---------------------------------------------------
@@ -900,7 +1072,8 @@ def report(target: list[Sent], base: dict[str, list[Sent]], slug: str, top: int,
         for i, sp in enumerate(pruned, 1):
             cls = ", ".join(
                 f"{c}×{sp['flags'].count(c)}"
-                for c in ("suspend", "chain", "strand", "load")
+                for c in ("suspend", "chain", "nest", "front", "hold",
+                          "strand", "pp")
                 if sp["flags"].count(c)
             ) or "no single structure dominates"
             print(f"{i:>3}. effort/word {sp['per_word']:<6} "
@@ -922,7 +1095,7 @@ def report(target: list[Sent], base: dict[str, list[Sent]], slug: str, top: int,
     acked = [s for s in ranked if s.fp in rulings]
     if not show_acked:
         ranked = [s for s in ranked if s.fp not in rulings]
-    ranked.sort(key=lambda s: -s.score)
+    ranked.sort(key=lambda s: -getattr(s, SORTABLE[sort_by]))
     tail = (f"; {len(acked)} left standing (--show-acked)" if acked else "")
     print(f"\n\nHARDEST {min(top, len(ranked))} of {len(ranked)} flagged "
           f"— flags, not findings; the author rules on each{tail}\n")
@@ -947,6 +1120,14 @@ def report(target: list[Sent], base: dict[str, list[Sent]], slug: str, top: int,
             print(f"     → split: {s.split}")
         if "chain" in s.flags and s.depth >= T_DEPTH:
             print(f"     → chain: idea passed down {s.depth} clause levels")
+        if "nest" in s.flags:
+            print(f"     → nest: {s.nest_before} clause levels deep BEFORE the "
+                  f"main verb, which lands at word {s.predelay}")
+        elif "front" in s.flags:
+            print(f"     → front: main verb lands at word {s.predelay} of "
+                  f"{s.words} — nothing resolves until then")
+        if "pp" in s.flags:
+            print(f"     → pp: {s.pp_run} prepositions in linear succession")
         if s.parse:
             print("     → note: the parser could not resolve this sentence's "
                   "main verb; its structural numbers are approximate "
@@ -1010,6 +1191,10 @@ def main() -> None:
     ap.add_argument("--note", default="", help="why it stands")
     ap.add_argument("--unack", action="store_true",
                     help="reverse an --ack (needs --fp)")
+    ap.add_argument("--sort", default="score", metavar="METRIC",
+                    choices=SORTABLE,
+                    help="rank by one axis instead of the composite: "
+                         + ", ".join(SORTABLE))
     ap.add_argument("--show-acked", action="store_true",
                     help="include findings already left standing")
     ap.add_argument("--class", dest="classes", default="",
@@ -1055,7 +1240,7 @@ def main() -> None:
     base = corpus_by_chapter(nlp, cache, exclude=path)
     classes = {c.strip() for c in args.classes.split(",") if c.strip()} or None
     stats, spots = report(target, base, path.stem, args.top, classes,
-                          args.spots, rulings, args.show_acked)
+                          args.spots, rulings, args.show_acked, args.sort)
     if args.save:
         out = write_worklist(target, path.stem, rulings, spots, stats)
         print(f"\nworklist → {out.relative_to(REPO)}")
