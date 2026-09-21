@@ -5,77 +5,28 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 
 ## Summary
 
-- 693 narration sentences, 10843 words
-- prose inside a flagged sentence: 32.5% (corpus 44.8%)
-- chain: 9 sentences (1.3%, corpus 2.2%)
+- 698 narration sentences, 10837 words
+- prose inside a flagged sentence: 31.5% (corpus 44.8%)
+- chain: 7 sentences (1.0%, corpus 2.2%)
 - nest: 9 sentences (1.3%, corpus 2.7%)
 - front: 5 sentences (0.7%, corpus 2.2%)
-- hold: 42 sentences (6.1%, corpus 9.7%)
+- hold: 42 sentences (6.0%, corpus 9.7%)
 - suspend: 13 sentences (1.9%, corpus 1.4%)
 - strand: 7 sentences (1.0%, corpus 2.3%)
 - pp: 20 sentences (2.9%, corpus 4.2%)
 - split: 7 sentences (1.0%, corpus 4.0%)
 
-## Worklist — 87 open, 0 left standing
+## Worklist — 24 open, 1 left standing
 
-### `[#90ab461f5c15]` the-bench.md:9 — score 17.6
+### `[#90ab461f5c15]` the-bench.md:9 — score 19.8
 
 `55w · open 8 · depth 2 · mdd 4.06` — suspend, strand, hold
 
 > She came in past the kitchen and put her bag on the chair by the door — the small overnight bag, leather, monogrammed in a sorority hand, expensive in the quiet way her things were expensive — the money in the grain and the weight of it — and came into him and put her arms around him.
 
-- **suspend**: 19 words held inside the interruption, resumes at “the money in the grain and…”
+- **suspend**: interrupted 2×; longest 19 words held, resumes at “the money in the grain and…”
 - **strand**: “money …” → “bag” (21 words back, past the clause at “were”)
 - inspect: `tools/reading_effort.py the-bench --explain 9`
-
-### `[#e2b6d1de37bc]` the-bench.md:517 — score 17.5
-
-`40w · open 8 · depth 3 · mdd 3.95` — suspend, pp, hold
-
-> He had looked past the face — past the blue, past the surprise, past everything she had spent twenty-one years making sure was all there was to find — and found her, and what happened after that had happened to her.
-
-- **suspend**: 22 words held inside the interruption, resumes at “and found her and what happened…”
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 517`
-
-### `[#42650f5e2ff2]` the-bench.md:465 — score 17.2
-
-`59w · open 7 · depth 3 · mdd 4.0` — suspend, hold
-
-> He stood up only long enough to pull the soft blanket from the foot of the bed — the cashmere one she had brought after the second week when she had registered that she got cold after sex even in his too-warm house — and he wrapped it around her shoulders and over her hips and tucked her into it.
-
-- **suspend**: 26 words held inside the interruption, resumes at “and he wrapped it around her…”
-- inspect: `tools/reading_effort.py the-bench --explain 465`
-
-### `[#aeda79884b95]` the-bench.md:503 — score 13.5
-
-`40w · open 6 · depth 2 · mdd 2.95 · verb at word 30` — front
-
-> The black hair, slightly damp at the temples now, the pale skin, the oval, the slight permanent surprise of the resting expression which had once made a college admissions officer ask her if anything was wrong when nothing was wrong.
-
-- **front**: main verb lands at word 30 of 40
-- inspect: `tools/reading_effort.py the-bench --explain 503`
-
-### `[#ba02b3c4a7cc]` the-bench.md:47 — score 13.0
-
-`67w · open 6 · depth 6 · mdd 3.38` — chain, strand
-
-> She did it as she did everything in his house lately, with the concentration of a woman doing the thing her body knew how to do and finding it had stopped being the thing she was doing — her knees bracketing his hips on the chair, her weight settling slowly onto his thighs, her body upright facing him with her hands coming to rest flat against his chest.
-
-- **strand**: “knew …” → “did” (22 words back, past the clause at “did”)
-- **chain**: idea passed down 6 clause levels
-- **note**: parser could not resolve the main verb; structural numbers approximate
-- inspect: `tools/reading_effort.py the-bench --explain 47`
-
-### `[#58110f21eca5]` the-bench.md:517 — score 13.0
-
-`61w · open 7 · depth 2 · mdd 3.3` — nest, suspend, hold
-
-> Under it, inseparable from it, was the other fact: she had been more alive on that bench than she could remember being anywhere, ever — the whole length of her awake at once, the aliveness ecstatic and terrifying in the same instant — and it had not come from her, and it had not come from anything he had done to her body.
-
-- **suspend**: 17 words held inside the interruption, resumes at “and it had not come from…”
-- **nest**: 2 clause levels deep before the main verb (word 5)
-- inspect: `tools/reading_effort.py the-bench --explain 517`
 
 ### `[#e8bedcae875f]` the-bench.md:547 — score 13.0
 
@@ -87,32 +38,43 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 - **chain**: idea passed down 6 clause levels
 - inspect: `tools/reading_effort.py the-bench --explain 547`
 
-### `[#6015910b2981]` the-bench.md:149 — score 11.2
+### `[#e2b6d1de37bc]` the-bench.md:517 — score 12.8
 
-`41w · open 6 · depth 1 · mdd 3.02` — suspend
+`40w · open 8 · depth 3 · mdd 3.95` — suspend, pp, hold
 
-> He bent and kissed her between the breasts — the warmth of her, the citrus scent of her perfume where she had dabbed it at the base of her throat — and stayed there for a long beat with his face against her.
+> He had looked past the face — past the blue, past the surprise, past everything she had spent twenty-one years making sure was all there was to find — and found her, and what happened after that had happened to her.
 
-- **suspend**: 21 words held inside the interruption, resumes at “and stayed there for a long…”
-- inspect: `tools/reading_effort.py the-bench --explain 149`
-
-### `[#516256baa8b1]` the-bench.md:447 — score 10.8
-
-`54w · open 7 · depth 3 · mdd 3.72` — suspend, hold
-
-> There was a moment near the end of it when her body did something he had not seen it do — a full-body shudder that started in her stomach and went up to her shoulders and back down — and the shudder was not anything she could have produced if she had been producing it.
-
-- **suspend**: 18 words held inside the interruption, resumes at “and the shudder was not anything…”
-- inspect: `tools/reading_effort.py the-bench --explain 447`
-
-### `[#b459be124ae1]` the-bench.md:71 — score 10.7
-
-`46w · open 10 · depth 1 · mdd 4.36` — pp, hold
-
-> She put the last of the slice to his mouth, and he took it, and she kissed him through the taste of it — not the light back-and-forth of the apple game but a deep kiss, open and going somewhere, and she stayed in it.
-
+- **suspend**: interrupted 1×; longest 22 words held, resumes at “and found her and what happened…”
 - **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 71`
+- inspect: `tools/reading_effort.py the-bench --explain 517`
+
+### `[#0dfa40c167f2]` the-bench.md:223 — score 11.6
+
+`25w · open 9 · depth 1 · mdd 4.88` — suspend, hold
+
+> He ran his hand back down her spine to her ass — the skin warmer now than when he had first touched it — and stayed there.
+
+- **suspend**: interrupted 1×; longest 11 words held, resumes at “and stayed there…”
+- inspect: `tools/reading_effort.py the-bench --explain 223`
+
+### `[#58110f21eca5]` the-bench.md:517 — score 11.5
+
+`61w · open 7 · depth 2 · mdd 3.3` — nest, suspend, hold
+
+> Under it, inseparable from it, was the other fact: she had been more alive on that bench than she could remember being anywhere, ever — the whole length of her awake at once, the aliveness ecstatic and terrifying in the same instant — and it had not come from her, and it had not come from anything he had done to her body.
+
+- **suspend**: interrupted 1×; longest 17 words held, resumes at “and it had not come from…”
+- **nest**: 2 clause levels deep before the main verb (word 5)
+- inspect: `tools/reading_effort.py the-bench --explain 517`
+
+### `[#5b5f86b34098]` the-bench.md:521 — score 9.6
+
+`35w · open 8 · depth 2 · mdd 4.09` — suspend, hold
+
+> And he was in the next room right now, waiting to be tender with her — not with the face, with her, the one he had found — and that was the thing that could not happen.
+
+- **suspend**: interrupted 1×; longest 11 words held, resumes at “and that was the thing that…”
+- inspect: `tools/reading_effort.py the-bench --explain 521`
 
 ### `[#ce6d78b8530a]` the-bench.md:133 — score 9.5
 
@@ -125,42 +87,50 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 - **pp**: 4 prepositions in linear succession
 - inspect: `tools/reading_effort.py the-bench --explain 133`
 
-### `[#801f385fbc28]` the-bench.md:223 — score 9.2
+### `[#516256baa8b1]` the-bench.md:447 — score 8.7
+
+`54w · open 7 · depth 3 · mdd 3.72` — suspend, hold
+
+> There was a moment near the end of it when her body did something he had not seen it do — a full-body shudder that started in her stomach and went up to her shoulders and back down — and the shudder was not anything she could have produced if she had been producing it.
+
+- **suspend**: interrupted 1×; longest 18 words held, resumes at “and the shudder was not anything…”
+- inspect: `tools/reading_effort.py the-bench --explain 447`
+
+### `[#801f385fbc28]` the-bench.md:223 — score 8.3
 
 `58w · open 7 · depth 3 · mdd 3.14` — suspend, hold
 
 > He let his fingers move through her hair to her scalp — lighter and smoother than he had expected, the smell of something expensive and clean in it — and worked his fingers through her scalp for a long moment, the small sound of her breathing changing with the scratching, a slight deepening that came from somewhere in her chest.
 
-- **suspend**: 16 words held inside the interruption, resumes at “and worked his fingers through her…”
+- **suspend**: interrupted 1×; longest 16 words held, resumes at “and worked his fingers through her…”
 - inspect: `tools/reading_effort.py the-bench --explain 223`
 
-### `[#0dfa40c167f2]` the-bench.md:223 — score 9.2
-
-`25w · open 9 · depth 1 · mdd 4.88` — suspend, hold
-
-> He ran his hand back down her spine to her ass — the skin warmer now than when he had first touched it — and stayed there.
-
-- **suspend**: 11 words held inside the interruption, resumes at “and stayed there…”
-- inspect: `tools/reading_effort.py the-bench --explain 223`
-
-### `[#64983f6c0098]` the-bench.md:269 — score 9.2
+### `[#64983f6c0098]` the-bench.md:269 — score 8.3
 
 `40w · open 7 · depth 2 · mdd 3.51` — suspend, hold
 
 > He took the second foot in both hands — the arch warm, fine-boned, the blue-polished toes curling once at the touch and releasing — and worked the buckle free and drew the heel off and set it beside the first.
 
-- **suspend**: 16 words held inside the interruption, resumes at “and worked the buckle free and…”
+- **suspend**: interrupted 1×; longest 16 words held, resumes at “and worked the buckle free and…”
 - inspect: `tools/reading_effort.py the-bench --explain 269`
 
-### `[#5850fa9e02af]` the-bench.md:63 — score 8.5
+### `[#fef22c8ac143]` the-bench.md:349 — score 7.9
 
-`50w · open 6 · depth 1 · mdd 3.33 · verb at word 25` — pp, front
+`40w · open 7 · depth 1 · mdd 3.46` — suspend, hold
 
-> Slow along her sides, from the hips up over the ribs under the cardigan and down again, one unhurried pass and then another, each time turning back a little higher, a little nearer the soft weight at the sides of her breasts, and each time leaving again before it arrived.
+> He hit her — hard, on the high point of her ass where it would sting brightest — and she cried out, the cry stretching into something past surprise, and he soothed the place with his palm and bent and kissed it.
 
-- **front**: main verb lands at word 25 of 50
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 63`
+- **suspend**: interrupted 1×; longest 13 words held, resumes at “and she cried out the cry…”
+- inspect: `tools/reading_effort.py the-bench --explain 349`
+
+### `[#ce89af6a0c85]` the-bench.md:147 — score 7.8
+
+`73w · open 7 · depth 2 · mdd 3.61` — suspend, hold
+
+> He laid his palms flat against her hips and swept them up along her sides — the skin warm, faintly damp where the blouse had held her heat — and around to her back, to the clasp between her shoulder blades, and he bent his head and kissed her chest, the pale skin lightly freckled under his mouth, as he unhooked the bra, the clasp giving under his thumb as it had learned to give.
+
+- **suspend**: interrupted 1×; longest 12 words held, resumes at “and around to her back to…”
+- inspect: `tools/reading_effort.py the-bench --explain 147`
 
 ### `[#e437c1f2c437]` the-bench.md:295 — score 7.5
 
@@ -172,32 +142,14 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 - **pp**: 4 prepositions in linear succession
 - inspect: `tools/reading_effort.py the-bench --explain 295`
 
-### `[#5b5f86b34098]` the-bench.md:521 — score 7.2
+### `[#6015910b2981]` the-bench.md:149 — score 7.1
 
-`35w · open 8 · depth 2 · mdd 4.09` — suspend, hold
+`41w · open 6 · depth 1 · mdd 3.02` — suspend
 
-> And he was in the next room right now, waiting to be tender with her — not with the face, with her, the one he had found — and that was the thing that could not happen.
+> He bent and kissed her between the breasts — the warmth of her, the citrus scent of her perfume where she had dabbed it at the base of her throat — and stayed there for a long beat with his face against her.
 
-- **suspend**: 11 words held inside the interruption, resumes at “and that was the thing that…”
-- inspect: `tools/reading_effort.py the-bench --explain 521`
-
-### `[#3945d28ea9d7]` the-bench.md:15 — score 7.0
-
-`57w · open 8 · depth 3 · mdd 3.52` — nest, hold
-
-> He started to back off — that was what he did, he backed off and let her decide — and she did what she had started doing, which was to lean in and bring her mouth back to his and kiss him harder, her hands sliding up his back, and he let her have what she had come for.
-
-- **nest**: 2 clause levels deep before the main verb (word 1)
-- inspect: `tools/reading_effort.py the-bench --explain 15`
-
-### `[#fef22c8ac143]` the-bench.md:349 — score 6.8
-
-`40w · open 7 · depth 1 · mdd 3.46` — suspend, hold
-
-> He hit her — hard, on the high point of her ass where it would sting brightest — and she cried out, the cry stretching into something past surprise, and he soothed the place with his palm and bent and kissed it.
-
-- **suspend**: 13 words held inside the interruption, resumes at “and she cried out the cry…”
-- inspect: `tools/reading_effort.py the-bench --explain 349`
+- **suspend**: interrupted 1×; longest 21 words held, resumes at “and stayed there for a long…”
+- inspect: `tools/reading_effort.py the-bench --explain 149`
 
 ### `[#f2120b463204]` the-bench.md:7 — score 6.0
 
@@ -207,14 +159,6 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 
 - **chain**: idea passed down 5 clause levels
 - inspect: `tools/reading_effort.py the-bench --explain 7`
-
-### `[#2868c92520d8]` the-bench.md:57 — score 6.0
-
-`63w · open 9 · depth 1 · mdd 3.98` — hold
-
-> She brought it to her mouth and bit half of it cleanly off and chewed and swallowed, looking at him, and then she leaned forward and kissed him with the half-slice still in her hand and the taste of apple in her mouth, and he kissed her back with one hand sliding up her back under her cardigan and into her hair.
-
-- inspect: `tools/reading_effort.py the-bench --explain 57`
 
 ### `[#044ed9e48bfc]` the-bench.md:69 — score 6.0
 
@@ -234,15 +178,6 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 - **strand**: “center …” → “slipped” (21 words back, past the clause at “appeared”)
 - inspect: `tools/reading_effort.py the-bench --explain 137`
 
-### `[#ce89af6a0c85]` the-bench.md:147 — score 6.0
-
-`73w · open 7 · depth 2 · mdd 3.61` — suspend, hold
-
-> He laid his palms flat against her hips and swept them up along her sides — the skin warm, faintly damp where the blouse had held her heat — and around to her back, to the clasp between her shoulder blades, and he bent his head and kissed her chest, the pale skin lightly freckled under his mouth, as he unhooked the bra, the clasp giving under his thumb as it had learned to give.
-
-- **suspend**: 12 words held inside the interruption, resumes at “and around to her back to…”
-- inspect: `tools/reading_effort.py the-bench --explain 147`
-
 ### `[#fe849de45939]` the-bench.md:157 — score 6.0
 
 `43w · open 6 · depth 5 · mdd 2.52` — chain
@@ -252,55 +187,23 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 - **chain**: idea passed down 5 clause levels
 - inspect: `tools/reading_effort.py the-bench --explain 157`
 
-### `[#7b929051c4b0]` the-bench.md:315 — score 6.0
+### `[#409c1d94a67a]` the-bench.md:197 — score 5.5
 
-`54w · open 5 · depth 3 · mdd 2.64` — nest
+`68w · open 6 · depth 2 · mdd 3.1` — suspend
 
-> "They're fine, Pace," she said, half exasperated, half something else, and he smiled at her in the upside-down position of her face — her cheeks were a high color now, her forehead damp — and saw her smile back, and he kissed her forehead again and tasted the salt of her on his lips.
+> He could see the slight unsteadiness in her — nerves, not something she would have chosen him to see — and he stepped close and put one hand to the small of her back, the other flat against her chest, and she leaned into the span between his hands and he brought her forward and down, controlled, until her chest met the shelf and her face settled into the cradle.
 
-- **nest**: 3 clause levels deep before the main verb (word 1)
-- inspect: `tools/reading_effort.py the-bench --explain 315`
+- **suspend**: interrupted 1×; longest 10 words held, resumes at “and he stepped close and put…”
+- inspect: `tools/reading_effort.py the-bench --explain 197`
 
-### `[#17a987cc73a3]` the-bench.md:405 — score 6.0
+### `[#bdd933080aa8]` the-bench.md:47 — score 4.0
 
-`31w · open 4 · depth 3 · mdd 1.97` — nest
+`32w · open 5 · depth 3 · mdd 2.52` — strand
 
-> There was a script for it: you turned the heat up, you pouted, you made him want you so badly he gave you what you wanted as proof of his desire.
+> She did it as she did everything in his house lately, with the concentration of a woman doing what her body knew how to do and finding it had stopped being that.
 
-- **nest**: 3 clause levels deep before the main verb (word 1)
-- inspect: `tools/reading_effort.py the-bench --explain 405`
-
-### `[#5fdc4adb5e9e]` the-bench.md:515 — score 6.0
-
-`69w · open 9 · depth 3 · mdd 4.31` — hold
-
-> She tried, briefly, by lifting her chin and arranging her mouth into the slight knowing half-smile she used in photographs, and the face in the mirror produced the smile, and the smile sat on top of the face that had begged, and she saw the disjunction and her eyes filled briefly and she heard herself make the sound she had made when he had said there you are.
-
-- inspect: `tools/reading_effort.py the-bench --explain 515`
-
-### `[#fa98b2d645cf]` the-bench.md:85 — score 4.0
-
-`29w · open 8 · depth 0 · mdd 3.86` — hold
-
-> He opened the door, and stepped back, and held it open for her with one hand at the small of her back, and she walked through ahead of him.
-
-- inspect: `tools/reading_effort.py the-bench --explain 85`
-
-### `[#9db75257a55f]` the-bench.md:165 — score 4.0
-
-`59w · open 8 · depth 1 · mdd 3.62` — hold
-
-> She made a sound of complaint she did not follow up on, and then she put her hands behind her back herself and held one wrist in the other, and the holding drew her shoulders back and lifted her breasts and pulled the whole front of her long and taut, and it became, without her deciding it, an offering.
-
-- inspect: `tools/reading_effort.py the-bench --explain 165`
-
-### `[#c0b1909da688]` the-bench.md:221 — score 4.0
-
-`20w · open 8 · depth 0 · mdd 3.37` — hold
-
-> He moved his hand up to her back, the palm flat, and ran it slowly the whole length of her.
-
-- inspect: `tools/reading_effort.py the-bench --explain 221`
+- **strand**: “with …” → “did” (11 words back, past the clause at “did”)
+- inspect: `tools/reading_effort.py the-bench --explain 47`
 
 ### `[#7507a319beb0]` the-bench.md:255 — score 4.0
 
@@ -311,40 +214,6 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 - **strand**: “laugh …” → “breath” (15 words back, past the clause at “caught”)
 - inspect: `tools/reading_effort.py the-bench --explain 255`
 
-### `[#60fca7b7511c]` the-bench.md:319 — score 4.0
-
-`48w · open 8 · depth 3 · mdd 3.06` — hold
-
-> He brought his hand back between her legs and stroked her, longer this time, with more pressure, and at the moment he could feel her body beginning to gather toward something he stopped and took his hand away and laid it flat against the small of her back.
-
-- inspect: `tools/reading_effort.py the-bench --explain 319`
-
-### `[#529837864275]` the-bench.md:499 — score 4.0
-
-`49w · open 8 · depth 2 · mdd 3.12` — hold
-
-> He had wanted to be inside her feelings — he had been young, and had thought that loving someone was a kind of permission — and he had gone in where he had not been asked, and it had cost him more than he had known, then, that anything could cost.
-
-- inspect: `tools/reading_effort.py the-bench --explain 499`
-
-### `[#b1287086146f]` the-bench.md:299 — score 3.5
-
-`16w · open 5 · depth 2 · mdd 2.4 · verb at word 12` — nest, front
-
-> When her breathing began to break and the sound rose again he took his hand away.
-
-- **nest**: 2 clause levels deep before the main verb (word 12)
-- inspect: `tools/reading_effort.py the-bench --explain 299`
-
-### `[#b10b05e60477]` the-bench.md:475 — score 3.5
-
-`51w · open 7 · depth 3 · mdd 3.28` — pp, hold
-
-> He looked at the wall opposite and felt the small warm pleasure of having taken her further than he had thought she would go — and he sat with that, quietly, while she sat with whatever she was sitting with, and the two of them shared the silence in the warm room.
-
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 475`
-
 ### `[#2236d5f9b5f4]` the-bench.md:9 — score 3.0
 
 `54w · open 5 · depth 4 · mdd 2.4` — chain
@@ -353,69 +222,6 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 
 - **chain**: idea passed down 4 clause levels
 - inspect: `tools/reading_effort.py the-bench --explain 9`
-
-### `[#fe43340e55e8]` the-bench.md:59 — score 3.0
-
-`35w · open 6 · depth 1 · mdd 2.59` — pp
-
-> He kept his hands at her hips and let her eat, the warm small concentrated weight of her on his thighs, the heat of her between his legs through his jeans and through her panties.
-
-- **pp**: 5 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 59`
-
-### `[#792e305dd314]` the-bench.md:91 — score 3.0
-
-`11w · open 5 · depth 2 · mdd 2.3` — nest
-
-> The bench, which she had seen without seeing, was now bare.
-
-- **nest**: 2 clause levels deep before the main verb (word 8)
-- inspect: `tools/reading_effort.py the-bench --explain 91`
-
-### `[#cb71260190d6]` the-bench.md:169 — score 3.0
-
-`32w · open 5 · depth 2 · mdd 2.61` — nest
-
-> When he let her go she came down off her toes slowly, and the nipple stood dark and wet in the lamplight, and the flush had climbed her chest into her throat.
-
-- **nest**: 2 clause levels deep before the main verb (word 6)
-- inspect: `tools/reading_effort.py the-bench --explain 169`
-
-### `[#435a44bcd333]` the-bench.md:199 — score 3.0
-
-`36w · open 4 · depth 3 · mdd 2.26` — nest
-
-> She was on it now, still in heels — the small high arches lifted, the calves tightening, the line of her doing what a decade of dance had trained the line of her to do under pressure.
-
-- **nest**: 2 clause levels deep before the main verb (word 1)
-- inspect: `tools/reading_effort.py the-bench --explain 199`
-
-### `[#dc33dcc06570]` the-bench.md:201 — score 3.0
-
-`71w · open 6 · depth 4 · mdd 3.33` — chain
-
-> He watched her hands settle into the grips — the whisper of skin on leather, the delicate knuckles whitening and then relaxing — her knees finding the leg supports, her hips settling onto the pelvis support, her torso bridging the gap between them, unsupported, her breasts taking their own weight in the open air as she found the load — he watched her feel it, the shallowness of the shelf, the nothing under her.
-
-- **chain**: idea passed down 4 clause levels
-- inspect: `tools/reading_effort.py the-bench --explain 201`
-
-### `[#3f1c5c4cdd72]` the-bench.md:299 — score 3.0
-
-`24w · open 6 · depth 2 · mdd 2.52` — pp
-
-> She stopped breathing for a moment, suspended in time, then the sound of her breathing returned in a shaky mix of pant and sigh.
-
-- **pp**: 5 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 299`
-
-### `[#1ec512b5f8d2]` the-bench.md:395 — score 3.0
-
-`11w · open 4 · depth 2 · mdd 2.0` — nest
-
-> The breathing he could hear from her changed — the rhythm broke.
-
-- **nest**: 2 clause levels deep before the main verb (word 7)
-- inspect: `tools/reading_effort.py the-bench --explain 395`
 
 ### `[#9a97ae681ba6]` the-bench.md:471 — score 3.0
 
@@ -435,365 +241,6 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 - **chain**: idea passed down 4 clause levels
 - inspect: `tools/reading_effort.py the-bench --explain 527`
 
-### `[#14a38b8e62a8]` the-bench.md:17 — score 2.4
+## Left standing
 
-`38w · open 7 · depth 2 · mdd 3.68` — hold
-
-> He pulled her in, the length of her against the length of him, one hand coming down to the curve of her ass through the thin skirt and resting there, then pressing, and she murmured against his mouth.
-
-- inspect: `tools/reading_effort.py the-bench --explain 17`
-
-### `[#409c1d94a67a]` the-bench.md:197 — score 2.4
-
-`68w · open 6 · depth 2 · mdd 3.1` — suspend
-
-> He could see the slight unsteadiness in her — nerves, not something she would have chosen him to see — and he stepped close and put one hand to the small of her back, the other flat against her chest, and she leaned into the span between his hands and he brought her forward and down, controlled, until her chest met the shelf and her face settled into the cradle.
-
-- **suspend**: 10 words held inside the interruption, resumes at “and he stepped close and put…”
-- inspect: `tools/reading_effort.py the-bench --explain 197`
-
-### `[#41982d4e8ebb]` the-bench.md:29 — score 2.0
-
-`37w · open 7 · depth 2 · mdd 3.14` — hold
-
-> She took in the white laminate counters she disliked, plain and cheap — he had watched her clock them the first night, and the second night, and the third, and had watched her never say anything about them.
-
-- inspect: `tools/reading_effort.py the-bench --explain 29`
-
-### `[#344035d4f423]` the-bench.md:41 — score 2.0
-
-`26w · open 7 · depth 1 · mdd 3.96` — hold
-
-> He watched the thing behind her face that policed her relationship to food run through whatever calculation it was running, and he was sorry about it.
-
-- inspect: `tools/reading_effort.py the-bench --explain 41`
-
-### `[#c9b4475c92d7]` the-bench.md:77 — score 2.0
-
-`26w · open 7 · depth 1 · mdd 3.48` — hold
-
-> He brushed a strand of black hair back behind her ear with one hand, slowly, and let his fingers stay at the side of her neck.
-
-- inspect: `tools/reading_effort.py the-bench --explain 77`
-
-### `[#2c5d9c314cae]` the-bench.md:93 — score 2.0
-
-`24w · open 7 · depth 2 · mdd 3.65` — hold
-
-> The open middle, where a surface should have been, where her body would go unsupported, where everything a surface usually covered would hang free.
-
-- **note**: parser could not resolve the main verb; structural numbers approximate
-- inspect: `tools/reading_effort.py the-bench --explain 93`
-
-### `[#a869136d0672]` the-bench.md:139 — score 2.0
-
-`19w · open 4 · depth 1 · mdd 2.0` — split
-
-> The second button: the skin of her upper stomach, the faint blue shadow of her lowest ribs showing through.
-
-- **split**: 19-word verbless sentence after a 48-word one
-- inspect: `tools/reading_effort.py the-bench --explain 139`
-
-### `[#51da6bdadc65]` the-bench.md:143 — score 2.0
-
-`44w · open 7 · depth 1 · mdd 3.23` — hold
-
-> She stepped out of it, one foot and then the other, her hand coming to his shoulder for balance and staying there a moment longer than the balance needed, and once she was out of it she did not go still on her feet.
-
-- inspect: `tools/reading_effort.py the-bench --explain 143`
-
-### `[#abfcbf1c7d1b]` the-bench.md:151 — score 2.0
-
-`42w · open 7 · depth 1 · mdd 3.85` — hold
-
-> He moved to her ear and breathed against the small place behind it that she had told him was hers, his face in her hair — the clean black slip of it — and she made the sound she made when he was there.
-
-- inspect: `tools/reading_effort.py the-bench --explain 151`
-
-### `[#89218dc7ca60]` the-bench.md:161 — score 2.0
-
-`51w · open 7 · depth 3 · mdd 3.36` — hold
-
-> He started with the backs of his fingers, brushing down the long dancer's legs, hip to knee to ankle — the lamplight lay along her skin in a low sheen and slid as she shifted, and the muscle stood there under it even at rest, long and smooth and deliberately made.
-
-- inspect: `tools/reading_effort.py the-bench --explain 161`
-
-### `[#c5789cc5e127]` the-bench.md:171 — score 2.0
-
-`45w · open 7 · depth 1 · mdd 3.43` — hold
-
-> He slid one hand down between her legs, over the bare waxed cleft, smooth and pale and already gleaming faintly where she was slick, and felt the first of her gathered at the seam, and pressed there once, and a sound came out of her.
-
-- inspect: `tools/reading_effort.py the-bench --explain 171`
-
-### `[#03a443fa9ab0]` the-bench.md:175 — score 2.0
-
-`18w · open 7 · depth 0 · mdd 3.29` — hold
-
-> He took one of her hands out from behind her back and kissed the tip of each finger.
-
-- inspect: `tools/reading_effort.py the-bench --explain 175`
-
-### `[#246f5605cdf7]` the-bench.md:181 — score 2.0
-
-`48w · open 7 · depth 2 · mdd 3.17` — hold
-
-> He kissed her until her body softened against his — there was always a moment, with her, when the composure dropped half an inch and her actual weight came forward against him, and he could feel the difference, and he waited for the difference before he did anything else.
-
-- inspect: `tools/reading_effort.py the-bench --explain 181`
-
-### `[#109d5abd941c]` the-bench.md:267 — score 2.0
-
-`32w · open 7 · depth 1 · mdd 3.39` — hold
-
-> He found the first buckle and worked it free and slid the heel from her foot, the soft sound of leather leaving skin, and set it on the floor beside the bench.
-
-- inspect: `tools/reading_effort.py the-bench --explain 267`
-
-### `[#336176ac0981]` the-bench.md:351 — score 2.0
-
-`53w · open 7 · depth 2 · mdd 3.4` — hold
-
-> He came around to her side and put one hand at the back of her neck, holding her there, and reached the other hand under her, into the space the bench had been built to leave below her, and found her breast — small, soft in his palm, the nipple hard against his thumb.
-
-- inspect: `tools/reading_effort.py the-bench --explain 351`
-
-### `[#114b8c15123e]` the-bench.md:441 — score 2.0
-
-`40w · open 7 · depth 3 · mdd 3.18` — hold
-
-> The voice was different — lower, broken, almost ugly compared to the bright sorority-house voice she normally used, and real, unmistakably, the voice of a woman who was not performing because she had run out of the apparatus of performance.
-
-- inspect: `tools/reading_effort.py the-bench --explain 441`
-
-### `[#6e565f922144]` the-bench.md:445 — score 2.0
-
-`21w · open 7 · depth 1 · mdd 3.9` — hold
-
-> He put his fingers between her legs and stroked her as he had been, and this time he did not stop.
-
-- inspect: `tools/reading_effort.py the-bench --explain 445`
-
-### `[#77db485b3755]` the-bench.md:463 — score 2.0
-
-`51w · open 7 · depth 1 · mdd 3.08` — hold
-
-> She could not quite stand on her own legs at first — the bench-tilt had her blood pooled in her head and her hands, and her legs were unsteady — and he held her around the waist and walked her three steps to the bed and sat her down on the edge.
-
-- inspect: `tools/reading_effort.py the-bench --explain 463`
-
-### `[#cd2cae864f90]` the-bench.md:471 — score 2.0
-
-`40w · open 7 · depth 2 · mdd 3.05` — hold
-
-> She kept the bottle when she was done, turning the cap loose in her fingers, and set the sharp inner edge of it under her thumbnail and pressed — slow and steady, down into the nail bed, where it would hurt.
-
-- inspect: `tools/reading_effort.py the-bench --explain 471`
-
-### `[#8dfef6ca2f4e]` the-bench.md:533 — score 2.0
-
-`60w · open 7 · depth 2 · mdd 3.54` — hold
-
-> She came to the bed and sat down beside him and curled into him and he wrapped his arm around her and pulled her close, and she put her head against his shoulder, in the same place it had been before she had gone to the bathroom, and he kissed the top of her head, and she closed her eyes.
-
-- inspect: `tools/reading_effort.py the-bench --explain 533`
-
-### `[#f53a6b8fa5ee]` the-bench.md:535 — score 2.0
-
-`47w · open 7 · depth 3 · mdd 3.28` — hold
-
-> He thought about the apple, the thin slices, the appetite she kept trimmed to almost nothing, and it moved him, a little — a girl who had been portioning herself, weighing every want before she let herself have it, and who tonight had finally let someone feed her.
-
-- inspect: `tools/reading_effort.py the-bench --explain 535`
-
-### `[#6d32cb190264]` the-bench.md:201 — score 1.8
-
-`46w · open 5 · depth 3 · mdd 2.09 · verb at word 13` — front
-
-> Her ass — pale, bare, years of cheer written into the muscle of it — clenched and released as she searched for the position, the small involuntary tightenings of a body that did not yet know how to be still under what was about to happen to it.
-
-- **front**: main verb lands at word 13 of 46
-- inspect: `tools/reading_effort.py the-bench --explain 201`
-
-### `[#a5dff3af2039]` the-bench.md:321 — score 1.8
-
-`20w · open 4 · depth 1 · mdd 2.26 · verb at word 13` — front
-
-> The wet warmth of his fingers pressed against her spine — her own heat, returned to her in the wrong place.
-
-- **front**: main verb lands at word 13 of 20
-- inspect: `tools/reading_effort.py the-bench --explain 321`
-
-### `[#6bc86520e1b1]` the-bench.md:19 — score 1.5
-
-`31w · open 6 · depth 1 · mdd 3.1` — pp
-
-> He put both hands on her then, properly, his palms moving slowly down her back to her hips and down to the round of her ass and lifting her against him.
-
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 19`
-
-### `[#ab2ab2b1973c]` the-bench.md:61 — score 1.5
-
-`4w · open 2 · depth 0 · mdd 1.67` — split
-
-> Then the eating changed.
-
-- **split**: opens on “then” after a 35-word sentence
-- inspect: `tools/reading_effort.py the-bench --explain 61`
-
-### `[#ce8597bbf2eb]` the-bench.md:81 — score 1.5
-
-`33w · open 5 · depth 1 · mdd 3.03` — pp
-
-> He walked ahead of her out of the kitchen, across the foyer, and down the short hall that led past the bathroom and his office and around the corner to the bedroom door.
-
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 81`
-
-### `[#45cc289dd7a4]` the-bench.md:145 — score 1.5
-
-`59w · open 5 · depth 1 · mdd 2.86` — pp
-
-> She stood above him in her bra and her underwear, a matching set, pale, expensive, the kind of thing she had laid out on her bed that morning before her first class, showered into after her last one, and worn to chapter dinner under the cardigan because chapter dinner had only been a stop on the way to him.
-
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 145`
-
-### `[#5c57a0c487b5]` the-bench.md:153 — score 1.5
-
-`5w · open 2 · depth 0 · mdd 1.5` — split
-
-> Then he went down again.
-
-- **split**: opens on “then” after a 42-word sentence
-- inspect: `tools/reading_effort.py the-bench --explain 153`
-
-### `[#87a0b5546ab8]` the-bench.md:233 — score 1.5
-
-`36w · open 5 · depth 1 · mdd 2.57` — pp
-
-> His palm slid around the outer thigh where the long muscle sat firm under the soft skin, the skin there cooler than the skin of her ass, catching faintly against his palm on the down-stroke.
-
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 233`
-
-### `[#9360e9cffe9e]` the-bench.md:233 — score 1.5
-
-`71w · open 6 · depth 3 · mdd 2.61` — pp
-
-> He brought the hand around the front, sliding between the leg support and her body, and let his fingers travel up the inside of her thigh until the tips found the wetness — the slick heat of it, the small sound as his fingers parted the lips and registered the slick of her, the frank female smell of her rising between her legs and mixing with the warmer smell of her skin.
-
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 233`
-
-### `[#bf4772064cb5]` the-bench.md:277 — score 1.5
-
-`38w · open 5 · depth 1 · mdd 2.73` — pp
-
-> He stayed at her neck for a long moment with his lips against the damp skin, breathing the salt and the heat of her, the small fine hairs at the base of her skull catching against his mouth.
-
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 277`
-
-### `[#dc53286a2260]` the-bench.md:277 — score 1.5
-
-`34w · open 4 · depth 1 · mdd 2.3` — split
-
-> Then he moved up, lips tracing the line of her neck, and found the soft hollow behind her ear where the hair was warm and damp and her pulse was working against his mouth.
-
-- **split**: opens on “then” after a 38-word sentence
-- inspect: `tools/reading_effort.py the-bench --explain 277`
-
-### `[#9878d2424b64]` the-bench.md:301 — score 1.5
-
-`14w · open 5 · depth 0 · mdd 2.23` — split
-
-> Then her thighs loosened against the leg supports and she slumped back into position.
-
-- **split**: opens on “then” after a 32-word sentence
-- inspect: `tools/reading_effort.py the-bench --explain 301`
-
-### `[#76da532d1600]` the-bench.md:369 — score 1.5
-
-`20w · open 3 · depth 1 · mdd 1.63` — pp
-
-> When he pressed deeper he felt the grip of her, the muscle inside pulling at him in tight, rhythmic pulses.
-
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 369`
-
-### `[#70172255377a]` the-bench.md:369 — score 1.5
-
-`3w · open 2 · depth 0 · mdd 1.5` — split
-
-> Then he stopped.
-
-- **split**: opens on “then” after a 19-word sentence
-- inspect: `tools/reading_effort.py the-bench --explain 369`
-
-### `[#e710d340a804]` the-bench.md:451 — score 1.5
-
-`35w · open 5 · depth 0 · mdd 2.53` — pp
-
-> She was crying quietly with her face turned sideways against the head pad of the bench and the tears were running across the bridge of her nose and pooling on the leather under her cheek.
-
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 451`
-
-### `[#9686168a8dd6]` the-bench.md:473 — score 1.5
-
-`25w · open 4 · depth 0 · mdd 2.08` — pp
-
-> She was very quiet against him, her face against the side of his neck, her hair against his collarbone, her body warm in the blanket.
-
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 473`
-
-### `[#f5bf7b114f7e]` the-bench.md:491 — score 1.5
-
-`25w · open 6 · depth 0 · mdd 2.75` — pp
-
-> She walked, slightly carefully, across the bedroom — past the bench — to the door, and out into the hall, and around the corner to the bathroom.
-
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 491`
-
-### `[#3cbc0a4f55cd]` the-bench.md:501 — score 1.5
-
-`16w · open 4 · depth 0 · mdd 2.13` — pp
-
-> In the bathroom, Randi stood at the sink and looked at her face in the mirror.
-
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 501`
-
-### `[#6e702a7b1587]` the-bench.md:523 — score 1.5
-
-`15w · open 3 · depth 2 · mdd 1.86` — split
-
-> Not tonight — and this arrived without words, quiet as a deadbolt going over — not ever.
-
-- **split**: opens on “not” after a 37-word sentence
-- **note**: parser could not resolve the main verb; structural numbers approximate
-- inspect: `tools/reading_effort.py the-bench --explain 523`
-
-### `[#11e3dac2f652]` the-bench.md:553 — score 1.5
-
-`75w · open 6 · depth 3 · mdd 2.91` — pp
-
-> Tomorrow he would put the top back on and the bench would be a long table again, and she would dress and walk past it on her way out of the bedroom, and she would not look at it, and he would not say anything about it, and it would sit there in the middle of the room, full of what it was, doing what it would continue to do, waiting for the next time.
-
-- **pp**: 4 prepositions in linear succession
-- inspect: `tools/reading_effort.py the-bench --explain 553`
-
-## Fatigue hotspots
-
-| effort/word | lines | words | breathers | longest dry run |
-|---|---|---|---|---|
-| 2.96 | 9–17 | 249 | 5 | 3 |
-| 2.97 | 143–147 | 242 | 2 | 2 |
-| 2.89 | 161–165 | 256 | 4 | 3 |
-| 2.97 | 221–225 | 223 | 2 | 4 |
-| 3.44 | 515–517 | 227 | 3 | 2 |
-| 2.94 | 527–535 | 244 | 4 | 2 |
+- `[#42650f5e2ff2]` the-bench.md:465 — Author ruling 2026-09-20: stands. The 26-word interruption is a single smooth appositive with no internal branching, and none of the three blind readers (claude-sonnet-5, glm-5.3, gpt-5.6-sol) registered it as work. Largest suspension in the chapter; suspension LENGTH alone is not the signal.

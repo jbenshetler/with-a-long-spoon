@@ -61,8 +61,10 @@ LANES = {
     "claude-sonnet-5": ("claude", "sonnet"),
     "claude-opus-4-8": ("claude", "opus"),
     "claude-fable-5": ("claude", "fable"),
+    "claude-fable-5-1": ("claude", "claude-fable-5-1"),
     "gpt-5.6-sol": ("codex", "gpt-5.6-sol"),
     "gpt-5.5": ("codex", "gpt-5.5"),
+    "gpt-6-astra": ("codex", "gpt-6-astra"),
     "glm-5.3": ("openrouter", "z-ai/glm-4.6"),
     "kimi-k3": ("openrouter", "moonshotai/kimi-k3"),
 }
@@ -257,9 +259,11 @@ def compare(slug: str, rows: list[dict]) -> None:
         data = json.loads(f.read_text())
         picks = {}
         for it in data["findings"]:
-            r = by_n.get(it["n"])
-            if r:
-                picks[r["fp"]] = it
+            # fp when the file has it (all runs from 2026-09-20 on, plus the
+            # backfilled ones); fall back to the number for anything older.
+            fp = it.get("fp") or (by_n.get(it["n"]) or {}).get("fp")
+            if fp:
+                picks[fp] = it
         runs[data["model"]] = picks
 
     if not runs:
@@ -326,6 +330,14 @@ def main() -> None:
     rawtxt = raw.get("output", "") if isinstance(raw, dict) else str(raw)
     (dest / f"{path.stem}.raw.txt").write_text(rawtxt, encoding="utf-8")
     findings = parse_reply(raw)
+    # Key every finding by content fingerprint as well as by number. The
+    # number is only stable until the chapter is edited — the first revision
+    # pass after the panel ran split two sentences and shifted every index
+    # after them, which would have silently mis-joined the results. The
+    # fingerprint rides with the sentence.
+    n2fp = {r["n"]: r["fp"] for r in rows}
+    for it in findings:
+        it["fp"] = n2fp.get(it["n"], "")
     out = dest / f"{path.stem}.json"
     out.write_text(json.dumps({
         "model": args.model,

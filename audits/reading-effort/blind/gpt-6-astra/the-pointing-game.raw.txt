@@ -1,0 +1,9 @@
+[
+  {"n":15,"cost":1,"why":"I paused at “the first” to supply “orgasm” before the end of the sentence made sense."},
+  {"n":38,"cost":2,"why":"I stopped to work out what “the game” referred to, since I hadn't yet encountered a game, then had to reconnect “that wanting” with her response to the question."},
+  {"n":94,"cost":1,"why":"After following the wind across the quad, I had to shift back to her hair to attach “black and fine” to the right thing."},
+  {"n":114,"cost":1,"why":"I paused over “the ones,” unsure whether it meant their outings, his ideas, or something from the afternoon in bed."},
+  {"n":187,"cost":1,"why":"At “better than it had any right to,” I briefly lost track of whether I was picturing the curls or the blowout and backed up."},
+  {"n":211,"cost":2,"why":"“The closed camel-coat project” made me stop and search my memory for a woman described that way. That interrupted the long sentence, and I had to pick up the laughing woman again."},
+  {"n":244,"cost":3,"why":"I reread “Randi giving half a head and enough weight” to work out their relative sizes and how the collision looked. At first I read “giving” as something she physically did during the bump."}
+]

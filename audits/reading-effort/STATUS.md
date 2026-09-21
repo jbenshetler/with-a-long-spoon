@@ -101,6 +101,70 @@ fatigue is cumulative rather than per-sentence, and a long chapter has more of
 it to survive. Breathers (short or dialogue sentences) count in — they are the
 relief that makes a passage survivable.
 
+## Validation against a blind model panel (2026-09-20)
+
+`tools/effort_blind.py` asks models which sentences were work to READ, knowing
+nothing about how this tool measures anything. Five models — `claude-fable-5-1`,
+`claude-sonnet-5`, `glm-5.3`, `gpt-5.6-sol`, `gpt-6-astra` — over `the-bench`
+and `the-pointing-game`, 1,046 narration sentences. Ground truth: flagged by
+**2+ of 5**. Leave-one-out, so no model is scored against itself.
+
+**Per-class predictive power** (2+ readers, vs a 4% base rate):
+
+| class | sentences | hit | vs base | |
+|---|---|---|---|---|
+| `chain` | 18 | 39% | **10.5×** | primary |
+| `strand` | 16 | 31% | **8.4×** | primary |
+| `front` | 12 | 17% | 4.5× | |
+| `suspend` | 14 | 14% | 3.8× | kept anyway — see below |
+| `split` | 19 | 11% | 2.8× | |
+| `pp` | 30 | 10% | 2.7× | |
+| `hold` | 56 | 9% | 2.4× | **demoted** |
+| `nest` | 14 | 7% | 1.9× | |
+
+**F1, leave-one-out:**
+
+| | F1 |
+|---|---|
+| a single model | **0.41** |
+| this tool, all flags | 0.17 |
+| this tool, `chain`+`strand` only | **0.32** |
+
+Three rulings follow, and are implemented:
+
+1. **`hold` is demoted.** Largest class in the tool, near-weakest predictor —
+   56 sentences of which 5 survive a two-reader test. Hidden by default with
+   `nest`/`front`/`pp`/`split`; `--all-classes` shows them.
+2. **The composite score is not a ranking.** F1 was flat at 0.19 across
+   top-20, top-40 and all flags. Class membership carries the signal; the
+   number does not. The report now says so in its own header.
+3. **`suspend` stays in the default view despite scoring weakly.** The ground
+   truth is model-derived, and a transformer attends over the whole sequence
+   at once rather than holding a clause open as a human reader does, so it
+   under-weights precisely this structure. Suspension is also what the human
+   reader complained about — the reason this pass exists. Demoting it on LLM
+   evidence would let the proxy overrule the thing it proxies for.
+
+**Suspension re-scored by COUNT, not length** (same panel). `the-bench:9` —
+two stacked interruptions, 19 words — was flagged by every reader, who each
+described losing and re-finding the main clause. `:465` (one interruption, 26
+words) and `:517` (one, 22 words) were flagged by none, despite being longer.
+So `suspend_n` carries the weight and length is a small secondary term. Caveat:
+this rests on three sentences; neither chapter uses stacked interruptions
+often, and it needs a chapter that does.
+
+**Panel-size finding.** A 3-model consensus agrees with the 5-model consensus
+only 56% (Jaccard) and finds 19 of 34 sentences; 4 models reach 0.79. **Do not
+run a 3-model panel.** Also `glm-5.3` failed on first attempt in 2 of 4 paid
+runs (once truncated, once empty) and succeeded on retry both times — budget
+for double.
+
+**The standing gap: no human labels.** Everything above is proxy against
+proxy. Five LLMs sharing architecture and training distribution agreeing with
+each other is weaker evidence than the F1 figures suggest. The highest-value
+next step is a blind human labelling of ~50 sentences, after which both
+instruments can be evaluated against the thing actually cared about.
+
 ## Calibration against published work (2026-09-20)
 
 Every other figure here is relative to this novel's own corpus, which can say
@@ -166,9 +230,14 @@ later pass does not re-litigate it.
 
 ## Coverage
 
-| Chapter | Swept | Findings | State |
-|---|---|---|---|
-| the-bench | 2026-09-20 | 87 open | **swept, none ruled** |
+| Chapter | Swept | Tool, default classes | Panel convergent (2+ of 5) | State |
+|---|---|---|---|---|
+| the-bench | 2026-09-20 | 24 open · 1 standing | 18 open (2 at 4/5, 4 at 3/5) | **swept, 3 ruled** |
+| the-pointing-game | 2026-09-20 | 16 open | 13 open (3 at 4/5, 4 at 3/5) | **swept, 1 ruled** |
+
+Panel: `claude-fable-5-1`, `claude-sonnet-5`, `glm-5.3`, `gpt-5.6-sol`,
+`gpt-6-astra`. Of the 31 open convergent findings, 8 are on the tool's default
+worklist, 5 only in a demoted class, and **18 the tool cannot see at all**.
 
 Chapter-level load, ranked by share of prose inside a flagged sentence
 (`tools/reading_effort.py --corpus`), heaviest first:
@@ -196,8 +265,10 @@ the book *and* densest — and is the obvious next sweep.
 
 ## Restart
 
-1. Rule `the-bench`'s 87 findings with the author, hardest first
-   (`audits/reading-effort/the-bench.md`). Use
+1. Work the **convergent panel findings** first, highest vote count first
+   (`tools/effort_blind.py <slug> --compare`, then the per-sentence list) —
+   next up are the five at 4/5. Then the tool's default worklist
+   (`audits/reading-effort/<slug>.md`). Use
    `tools/reading_effort.py the-bench --explain <line>` on any sentence whose
    numbers look high — the peak-open count mixes cheap local arcs with
    expensive long-range ones, and only the per-arc breakdown separates them.
@@ -211,6 +282,9 @@ the book *and* densest — and is the obvious next sweep.
 | Date | Location | Change |
 |---|---|---|
 | 2026-09-20 | `the-bench.md:49` | 41-word suspension unpacked into three sentences; 92 → 91 words, nothing cut; effort/word 3.43 → 2.27, peak open 8 → 6 |
+| 2026-09-20 | `the-bench.md:47` | 5/5 readers. *the thing … the thing* clause recast (*what … that*), tail broken into finite sentences; effort 223 → 118 |
+| 2026-09-20 | `the-bench.md:201` | 4/5 readers. One 71-word, three-dash sentence → four; supported/unsupported contrast kept in one sentence; effort 233 → 144 |
+| 2026-09-20 | `the-pointing-game.md:143` | 4/5 readers. Unclosed aside closed, antithesis split across a sentence break, *is this one mine to take?* — mark added under the voicing rule; effort 184 → 49 |
 
 ## Rulings
 

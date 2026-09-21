@@ -1,0 +1,43 @@
+{
+  "model": "claude-sonnet-5",
+  "scene": "the-pointing-game",
+  "sentences": 271,
+  "findings": [
+    {
+      "n": 41,
+      "cost": 1,
+      "why": "The inverted syntax \"It had gone through him too, that a single question had taken...\" made me backtrack to figure out what 'it' referred to before the sentence resolved.",
+      "fp": "3640ec71853f"
+    },
+    {
+      "n": 42,
+      "cost": 1,
+      "why": "\"his own he would take last\" inverts normal word order and I had to pause to parse it as 'he would take his own [pleasure] last.'",
+      "fp": "26ce09dcc0e1"
+    },
+    {
+      "n": 122,
+      "cost": 2,
+      "why": "The sentence stacks 'She could have been Randi' onto a long causal clause about 'grammar' as metaphor, and I had to reread to connect the dash-clause back to what was actually being claimed about his expectations.",
+      "fp": "c819b307aee4"
+    },
+    {
+      "n": 183,
+      "cost": 2,
+      "why": "This is a verbless fragment listing descriptors (\"Sex-kitten, the trailing register, a hand light on his arm\") and I had to reread it against the surrounding dialogue to figure out it was characterizing how the previous line was delivered.",
+      "fp": "44c6da131840"
+    },
+    {
+      "n": 228,
+      "cost": 2,
+      "why": "The piled-up negations ('not before, not to be told... but after...') followed by a colon into an italicized internal question made me lose the thread of what was being described and I had to re-read to reconnect it to 'She looked at him then.'",
+      "fp": "b7d5c4935246"
+    },
+    {
+      "n": 249,
+      "cost": 1,
+      "why": "The sentence opens with a long noun phrase ('A decade of dance and three years of...') before any verb arrives, so I had to hold it in suspension waiting for the clause to resolve.",
+      "fp": "b1a9de0bf1e1"
+    }
+  ]
+}

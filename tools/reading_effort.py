@@ -101,7 +101,7 @@ CACHE = AUDITS / "cache.json"          # machine scratch, gitignored
 RULINGS = AUDITS / "rulings.toml"      # author decisions, tracked in git
 # Bump when a metric or threshold changes: cached rows computed under the old
 # rules must not be mixed into a new baseline.
-ALGO = "v12"
+ALGO = "v14"
 
 # ---------------------------------------------------------------------------
 # Thresholds. Each is the point at which a structure starts costing enough to
@@ -115,7 +115,8 @@ T_OPEN = 7          # peak open dependencies
 T_DEPTH = 4         # clause embedding depth
 T_PREDELAY = 12     # words before the main verb
 T_SV = 10           # subject-verb distance
-T_SUSPEND = 8       # words inside a resumed interruption
+T_SUSPEND = 8       # words inside a resumed interruption, to flag on length
+T_SUSPEND_MIN = 4   # …but this is enough to COUNT as one more re-find
 T_RESUME = 3        # words of main clause after it, to count as "resumed"
 T_STRAND = 8        # head-to-modifier gap for a stranded modifier
 T_STRAND_SPAN = 3   # …and the modifier must itself be this many words
@@ -130,11 +131,44 @@ T_BREATHER = 10     # a sentence this short (and shallow) is where the reader
 WINDOW_WORDS = 220  # fatigue window: roughly a screen / a long paragraph pair
 
 W_OPEN, W_DEPTH, W_PREDELAY, W_SV = 2.0, 3.0, 0.5, 0.4
-W_SUSPEND, W_STRAND = 0.8, 4.0
+# Suspension: the count carries the weight, length is secondary.
+# See the note in `measure` — the blind panel flagged the sentence with
+# TWO interruptions unanimously and the two longer single ones not at all.
+W_SUSPEND_N, W_SUSPEND, W_STRAND = 5.0, 0.15, 4.0
 W_NEST, W_PP = 3.0, 1.5
 
 # Clausal dependency labels: each one is a whole predication hung off another.
 # `conj` is excluded on purpose (coordination is cheap; see module docstring).
+# ---------------------------------------------------------------------------
+# Class tiers, set by measurement against a five-model blind panel over two
+# chapters (1,046 narration sentences, 2026-09-20). Ground truth was "flagged
+# by 2+ of 5 readers"; leave-one-out so no model was scored against itself.
+#
+#   class     sentences   2+ readers   vs base rate
+#   chain            18          39%         10.5x     <- PRIMARY
+#   strand           16          31%          8.4x     <- PRIMARY
+#   front            12          17%          4.5x
+#   suspend          14          14%          3.8x     <- ORIGIN, see below
+#   split            19          11%          2.8x
+#   pp               30          10%          2.7x
+#   hold             56           9%          2.4x     <- demoted
+#   nest             14           7%          1.9x
+#
+# `hold` was the largest class in the tool and is among the weakest predictors:
+# 56 sentences, 5 of which survive a two-reader test. It is no longer shown by
+# default — it inflated the worklist without earning it.
+#
+# `suspend` is kept in the default view DESPITE a weak score, deliberately.
+# The ground truth is model-derived, and a transformer attends over the whole
+# sequence at once rather than holding a clause open the way a human reader
+# does — so it systematically under-weights exactly this structure. Suspension
+# is also the specific thing the HUMAN reader complained about, which is why
+# this pass exists at all. Demoting it on LLM evidence would be letting the
+# proxy overrule the thing it is a proxy for.
+PRIMARY = {"chain", "strand"}       # validated predictors of reader difficulty
+ORIGIN = {"suspend"}                # weak vs models, but the human complaint
+DEFAULT_CLASSES = PRIMARY | ORIGIN
+
 CLAUSAL = {"advcl", "relcl", "ccomp", "xcomp", "acl", "csubj", "csubjpass"}
 STRAND_DEPS = {"prep", "advcl", "acl", "appos", "npadvmod"}
 FINITE_TAGS = {"VBD", "VBP", "VBZ", "MD"}
@@ -233,6 +267,7 @@ class Sent:
     pp_stack: int = 0      # most PPs hanging off one head
     pp_run: int = 0        # most prepositions in close linear succession
     suspend: int = 0
+    suspend_n: int = 0     # how many times the thread must be re-found
     suspend_at: str = ""
     effort: int = 0        # total dependency distance: this sentence's raw
                            # integration cost, which grows with length — the
@@ -452,6 +487,14 @@ def measure(doc, slug: str, line: int) -> Sent:
     # The author's device is the paired em dash. Cost is real only if the
     # sentence picks the original thread back up: material after the close
     # whose head sits before the open.
+    # What costs the reader is the NUMBER of times the thread has to be
+    # re-found, not the number of words held. Evidence (2026-09-20 blind
+    # panel, three vendors, none given the vocabulary): the-bench:9 — two
+    # stacked interruptions, 19 words — was flagged by all three readers, who
+    # each described losing and re-finding the main clause. the-bench:465
+    # (one smooth interruption, 26 words) and :517 (one, 22 words) were
+    # flagged by NONE, despite being longer. So `suspend_n` carries the
+    # weight and length is a small secondary term.
     marks = [t for t in doc if t.text in OPEN_DASH or t.text in CLOSE_DASH]
     for k in range(len(marks) - 1):
         a, b = marks[k], marks[k + 1]
@@ -459,10 +502,14 @@ def measure(doc, slug: str, line: int) -> Sent:
             continue
         inner = [t for t in doc if a.i < t.i < b.i and not t.is_punct]
         after = [t for t in doc if t.i > b.i and not t.is_punct]
-        if len(inner) < T_SUSPEND or len(after) < T_RESUME:
+        # Counting uses a lower bar than flagging: a short SECOND interruption
+        # still costs a re-find even when it would not qualify on its own.
+        if len(inner) < T_SUSPEND_MIN or len(after) < T_RESUME:
             continue
-        resumes = any(t.head.i < a.i for t in after if t.head.i != t.i)
-        if resumes and len(inner) > s.suspend:
+        if not any(t.head.i < a.i for t in after if t.head.i != t.i):
+            continue  # never resumed: no thread to re-find
+        s.suspend_n += 1
+        if len(inner) > s.suspend:
             s.suspend = len(inner)
             nxt = " ".join(t.text for t in after[:6])
             s.suspend_at = f"resumes at “{nxt}…”"
@@ -517,6 +564,7 @@ def measure(doc, slug: str, line: int) -> Sent:
         + (0 if s.parse else W_NEST * over(s.nest_before, T_NEST))
         + (0 if s.parse else W_PREDELAY * over(s.predelay, T_PREDELAY))
         + W_SV * over(s.sv, T_SV)
+        + W_SUSPEND_N * s.suspend_n
         + W_SUSPEND * over(s.suspend, T_SUSPEND)
         + W_PP * over(s.pp_run, T_PP_RUN)
         + W_STRAND * len(s.strands),
@@ -530,7 +578,8 @@ def measure(doc, slug: str, line: int) -> Sent:
         s.flags.append("chain")
     if s.nest_before >= T_NEST and not s.parse:
         s.flags.append("nest")
-    if s.suspend:
+    # Flag on length as before, OR on two re-finds even when each is short.
+    if s.suspend >= T_SUSPEND or s.suspend_n >= 2:
         s.flags.append("suspend")
     if s.strands:
         s.flags.append("strand")
@@ -774,7 +823,8 @@ def drop_ruling(fp: str) -> None:
 
 
 def write_worklist(target: list[Sent], slug: str, rulings: dict,
-                   spots: list[dict], stats: list[str]) -> Path:
+                   spots: list[dict], stats: list[str],
+                   all_classes: bool = False) -> Path:
     """The durable artifact: one file per chapter, regenerated each run.
 
     Machine output — the author's decisions live in rulings.toml, NOT here,
@@ -784,7 +834,8 @@ def write_worklist(target: list[Sent], slug: str, rulings: dict,
     AUDITS.mkdir(parents=True, exist_ok=True)
     out = AUDITS / f"{slug}.md"
     nar = [s for s in target if not s.dialogue]
-    open_f = [s for s in nar if s.flags and s.score > 0 and s.fp not in rulings]
+    open_f = [s for s in nar if s.flags and s.score > 0 and s.fp not in rulings
+              and (all_classes or DEFAULT_CLASSES & set(s.flags))]
     settled = [s for s in nar if s.flags and s.score > 0 and s.fp in rulings]
     open_f.sort(key=lambda s: -s.score)
 
@@ -811,9 +862,9 @@ def write_worklist(target: list[Sent], slug: str, rulings: dict,
         body = re.sub(r"\s+", " ", s.text)
         L.append(f"> {body}")
         L.append("")
-        if s.suspend:
-            L.append(f"- **suspend**: {s.suspend} words held inside the "
-                     f"interruption, {s.suspend_at}")
+        if "suspend" in s.flags:
+            L.append(f"- **suspend**: interrupted {s.suspend_n}×; longest "
+                     f"{s.suspend} words held, {s.suspend_at}")
         for st in s.strands:
             L.append(f"- **strand**: {st}")
         if "split" in s.flags:
@@ -913,7 +964,7 @@ def quantile(values: list[float], q: float) -> float:
 SORTABLE = {
     "score": "score", "open": "open_deps", "depth": "depth",
     "nest": "nest_before", "front": "predelay", "mdd": "mdd",
-    "effort": "effort", "pp": "pp_run", "suspend": "suspend",
+    "effort": "effort", "pp": "pp_run", "suspend": "suspend_n",
     "sv": "sv", "words": "words",
 }
 
@@ -977,7 +1028,7 @@ def path_label(sents: list[Sent]) -> str:
 def report(target: list[Sent], base: dict[str, list[Sent]], slug: str, top: int,
            classes: set[str] | None, top_spots: int = 6,
            rulings: dict | None = None, show_acked: bool = False,
-           sort_by: str = "score"):
+           sort_by: str = "score", all_classes: bool = False):
     rulings = rulings or {}
     nar = [s for s in target if not s.dialogue]
     # Chapter-level baseline: one number per chapter, so this chapter's
@@ -1090,15 +1141,25 @@ def report(target: list[Sent], base: dict[str, list[Sent]], slug: str, top: int,
             print()
 
     ranked = [s for s in nar if s.flags and s.score > 0]
-    if classes:
-        ranked = [s for s in ranked if classes & set(s.flags)]
+    shown = classes or (None if all_classes else DEFAULT_CLASSES)
+    hidden = 0
+    if shown:
+        keep = [s for s in ranked if shown & set(s.flags)]
+        hidden = len(ranked) - len(keep)
+        ranked = keep
     acked = [s for s in ranked if s.fp in rulings]
     if not show_acked:
         ranked = [s for s in ranked if s.fp not in rulings]
     ranked.sort(key=lambda s: -getattr(s, SORTABLE[sort_by]))
     tail = (f"; {len(acked)} left standing (--show-acked)" if acked else "")
-    print(f"\n\nHARDEST {min(top, len(ranked))} of {len(ranked)} flagged "
-          f"— flags, not findings; the author rules on each{tail}\n")
+    print(f"\n\nFINDINGS — {min(top, len(ranked))} of {len(ranked)} shown"
+          f"{tail}; flags, not findings, the author rules on each")
+    if hidden:
+        print(f"  ({hidden} secondary-class findings hidden — hold/nest/front/"
+              f"pp/split; --all-classes or --class <name> to see them)")
+    print("  order is by composite score, which is NOT a validated ranking: F1 "
+          "against\n  the blind panel was flat (0.19) across top-20, top-40 and "
+          "all. Class\n  membership carries the signal; the number does not.\n")
     for i, s in enumerate(ranked[:top], 1):
         if s.fp in rulings:
             print(f"     (standing: {rulings[s.fp].get('note', '')})")
@@ -1111,9 +1172,12 @@ def report(target: list[Sent], base: dict[str, list[Sent]], slug: str, top: int,
               f"{s.words}w · {' · '.join(bits)}")
         body = re.sub(r"\s+", " ", s.text)
         print(f"     {body if len(body) <= 300 else body[:297] + '…'}")
-        if s.suspend:
-            print(f"     → suspend: {s.suspend} words held inside the "
-                  f"interruption, {s.suspend_at}")
+        if "suspend" in s.flags:
+            times = ("once" if s.suspend_n == 1
+                     else f"{s.suspend_n}× — the thread is re-found "
+                          f"{s.suspend_n} times")
+            print(f"     → suspend: interrupted {times}; longest {s.suspend} "
+                  f"words held, {s.suspend_at}")
         for st in s.strands:
             print(f"     → strand: {st}")
         if "split" in s.flags:
@@ -1195,6 +1259,9 @@ def main() -> None:
                     choices=SORTABLE,
                     help="rank by one axis instead of the composite: "
                          + ", ".join(SORTABLE))
+    ap.add_argument("--all-classes", action="store_true",
+                    help="include the demoted secondary classes "
+                         "(hold/nest/front/pp/split)")
     ap.add_argument("--show-acked", action="store_true",
                     help="include findings already left standing")
     ap.add_argument("--class", dest="classes", default="",
@@ -1240,9 +1307,11 @@ def main() -> None:
     base = corpus_by_chapter(nlp, cache, exclude=path)
     classes = {c.strip() for c in args.classes.split(",") if c.strip()} or None
     stats, spots = report(target, base, path.stem, args.top, classes,
-                          args.spots, rulings, args.show_acked, args.sort)
+                          args.spots, rulings, args.show_acked, args.sort,
+                          args.all_classes)
     if args.save:
-        out = write_worklist(target, path.stem, rulings, spots, stats)
+        out = write_worklist(target, path.stem, rulings, spots, stats,
+                             args.all_classes)
         print(f"\nworklist → {out.relative_to(REPO)}")
 
 

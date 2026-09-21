@@ -6,102 +6,122 @@
     {
       "n": 6,
       "cost": 2,
-      "why": "The repeated dashes and repeated return to \u201ccame\u201d made me hold the main action open through several layers of description."
+      "why": "The repeated dashes and repeated return to \u201ccame\u201d made me hold the main action open through several layers of description.",
+      "fp": "90ab461f5c15"
     },
     {
       "n": 52,
       "cost": 2,
-      "why": "I had to slow down to understand the distinction between what her body knew how to do and what she was now actually doing."
+      "why": "I had to slow down to understand the distinction between what her body knew how to do and what she was now actually doing.",
+      "fp": "ba02b3c4a7cc"
     },
     {
       "n": 87,
       "cost": 1,
-      "why": "The long fragment accumulates direction, repetition, and comparison before its shape becomes clear."
+      "why": "The long fragment accumulates direction, repetition, and comparison before its shape becomes clear.",
+      "fp": "5850fa9e02af"
     },
     {
       "n": 131,
       "cost": 2,
-      "why": "I had to stop and mentally assemble the bench\u2019s geometry from the peak, the two downward angles, and the pivoting leg rests."
+      "why": "I had to stop and mentally assemble the bench\u2019s geometry from the peak, the two downward angles, and the pivoting leg rests.",
+      "fp": "e6f3d777f94b"
     },
     {
       "n": 222,
       "cost": 3,
-      "why": "I reread \u201cfelt the first of her gathered at the seam\u201d because I could not immediately tell what \u201cthe first of her\u201d referred to."
+      "why": "I reread \u201cfelt the first of her gathered at the seam\u201d because I could not immediately tell what \u201cthe first of her\u201d referred to.",
+      "fp": "c5789cc5e127"
     },
     {
       "n": 262,
       "cost": 3,
-      "why": "The sentence carries many body parts, supports, movements, and interruptions in one chain; I had to reread it to reconstruct her final position."
+      "why": "The sentence carries many body parts, supports, movements, and interruptions in one chain; I had to reread it to reconstruct her final position.",
+      "fp": "dc33dcc06570"
     },
     {
       "n": 266,
       "cost": 2,
-      "why": "The phrase \u201cthe precision of the thing he had made it to have\u201d took real work to parse."
+      "why": "The phrase \u201cthe precision of the thing he had made it to have\u201d took real work to parse.",
+      "fp": "565a062e2d96"
     },
     {
       "n": 273,
       "cost": 3,
-      "why": "The opening quotation from the previous sentence never closes, so I initially read the narration here as part of her speech and had to back up."
+      "why": "The opening quotation from the previous sentence never closes, so I initially read the narration here as part of her speech and had to back up.",
+      "fp": "cacab1a81a75"
     },
     {
       "n": 309,
       "cost": 2,
-      "why": "The path of his hand, the physical details, and the nested sensory descriptions all arrive in one long movement that took concentration to track."
+      "why": "The path of his hand, the physical details, and the nested sensory descriptions all arrive in one long movement that took concentration to track.",
+      "fp": "9360e9cffe9e"
     },
     {
       "n": 352,
       "cost": 3,
-      "why": "The preceding quotation is left open, making this narration look like continued dialogue until the sentence is reinterpreted."
+      "why": "The preceding quotation is left open, making this narration look like continued dialogue until the sentence is reinterpreted.",
+      "fp": "1f66d9c3e1e1"
     },
     {
       "n": 484,
       "cost": 2,
-      "why": "The repeated uses of \u201ccry,\u201d \u201csound,\u201d \u201chear,\u201d and \u201cagain\u201d made me work to keep straight what she did, what he perceived, and what he then chose to repeat."
+      "why": "The repeated uses of \u201ccry,\u201d \u201csound,\u201d \u201chear,\u201d and \u201cagain\u201d made me work to keep straight what she did, what he perceived, and what he then chose to repeat.",
+      "fp": "c9e0130cc252"
     },
     {
       "n": 525,
       "cost": 1,
-      "why": "I stumbled over \u201cher face which was at the low point\u201d and had to reorient the spatial description before continuing."
+      "why": "I stumbled over \u201cher face which was at the low point\u201d and had to reorient the spatial description before continuing.",
+      "fp": "6c52325cc2e7"
     },
     {
       "n": 538,
       "cost": 3,
-      "why": "The quotation beginning in the previous sentence is not closed before this narration, so I had to reread to separate his spoken words from his action."
+      "why": "The quotation beginning in the previous sentence is not closed before this narration, so I had to reread to separate his spoken words from his action.",
+      "fp": "8f5d235382d4"
     },
     {
       "n": 689,
       "cost": 2,
-      "why": "The repeated \u201cthat was not\u201d clauses delayed the sentence\u2019s destination long enough that I had to keep several abstractions suspended at once."
+      "why": "The repeated \u201cthat was not\u201d clauses delayed the sentence\u2019s destination long enough that I had to keep several abstractions suspended at once.",
+      "fp": "25ad90d733aa"
     },
     {
       "n": 697,
       "cost": 2,
-      "why": "The sentence moves through her attempted expression, its reflection, her interpretation, tears, and a remembered sound without a stopping point; I had to slow down to preserve the sequence."
+      "why": "The sentence moves through her attempted expression, its reflection, her interpretation, tears, and a remembered sound without a stopping point; I had to slow down to preserve the sequence.",
+      "fp": "5fdc4adb5e9e"
     },
     {
       "n": 698,
       "cost": 2,
-      "why": "The sentence combines several abstract reversals about aliveness, terror, agency, and bodily action, and I had to unpack them one at a time."
+      "why": "The sentence combines several abstract reversals about aliveness, terror, agency, and bodily action, and I had to unpack them one at a time.",
+      "fp": "58110f21eca5"
     },
     {
       "n": 703,
       "cost": 2,
-      "why": "I had to track the distinction among the face, the self, what could be given away, and what incurred a cost across a long chain of clauses."
+      "why": "I had to track the distinction among the face, the self, what could be given away, and what incurred a cost across a long chain of clauses.",
+      "fp": "0e64a61b1a95"
     },
     {
       "n": 731,
       "cost": 2,
-      "why": "The uninterrupted sequence carries her movement, appearance, his reaction, and two possible questions in one sentence, so the main action took effort to hold onto."
+      "why": "The uninterrupted sequence carries her movement, appearance, his reaction, and two possible questions in one sentence, so the main action took effort to hold onto.",
+      "fp": "7a6bd9b1ea9a"
     },
     {
       "n": 738,
       "cost": 2,
-      "why": "The sentence shifts from the apple to appetite, self-denial, and being fed through several embedded phrases; I had to slow down to follow the metaphorical turn."
+      "why": "The sentence shifts from the apple to appetite, self-denial, and being fed through several embedded phrases; I had to slow down to follow the metaphorical turn.",
+      "fp": "f53a6b8fa5ee"
     },
     {
       "n": 760,
       "cost": 2,
-      "why": "The many future actions and repeated conjunctions made me hold a long sequence in mind before the sentence reached its final point."
+      "why": "The many future actions and repeated conjunctions made me hold a long sequence in mind before the sentence reached its final point.",
+      "fp": "11e3dac2f652"
     }
   ]
 }
