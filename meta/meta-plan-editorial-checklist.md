@@ -66,6 +66,26 @@ mark items done with dates as they complete.*
   the author.** Heaviest in the most-revised chapters: `the-bench` 10,
   `the-pointing-game` 6 (including the camel-coat cluster, the pass's own worked
   case).
+- [ ] **Reading-effort sweep** — sentences that charge the reader more than
+  they pay back: one idea split across stacked subordinate clauses, or across a
+  sentence boundary, where a rearrangement carries the same content at lower
+  cost. From human reader feedback on `the-bench`, 2026-09-20. Worked case:
+  `the-bench.md:49`, where "She slid her hands up over the front of his shirt"
+  was held open across a 41-word dash interruption before the clause resumed —
+  rearranged into three sentences at 92 → 91 words, nothing cut, peak open
+  dependencies 8 → 6. Tool `tools/reading_effort.py` (deterministic: a fixed
+  spaCy dependency parse plus arithmetic, no model calls, no tokens);
+  per-chapter worklists at `audits/reading-effort/<slug>.md`, author rulings in
+  `audits/reading-effort/rulings.toml`, state:
+  `audits/reading-effort/STATUS.md`. **Over-flags by design — the author rules
+  on every item**, and high effort is frequently earned: suspension is a real
+  device and the accretive tail is deliberate voice. **Not a per-edit step
+  (author ruling 2026-09-20)** — unlike Lane B this is a deliberate sweep only,
+  because it returns ~54 findings on a single chapter and every one needs a
+  ruling; running it per keystroke would swamp the drafting loop. Scored
+  relative to this book's own corpus, never an external readability index.
+  **Not started — instrument built and validated on `the-bench` 2026-09-20
+  (54 open findings, 1 fixed); no chapter ruled with the author yet.**
 - [ ] **Proofread after typesetting** — on-device (Books/Kindle) against the
   built epub: section-rule breaks, italics at chapter boundaries, curly
   quotes/apostrophes, scene-break rendering.

@@ -23,3 +23,6 @@ reviews/cold-read/.packets/
 # Fact-audit scratch: persistent by design (a model may write its artifact
 # here rather than reply with it), but machine output, not canon.
 audits/fact-audit/.work/
+# Reading-effort parse cache: machine scratch, regenerable, ~9MB. The pass's
+# worklists and rulings under audits/reading-effort/ ARE tracked.
+audits/reading-effort/cache.json
