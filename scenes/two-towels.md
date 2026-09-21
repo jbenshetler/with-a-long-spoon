@@ -22,7 +22,7 @@ And then he was the one who stopped it. He drew back, not far, his breath gone u
 
 And she went, the want still lit in her with nowhere to put it.
 
-The house was warm. Too warm — a close, even heat with no draft in it, and she almost said something, *did you leave the heat on,* the kind of thing you say, and didn't. She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for.
+The house was warm. Too warm — a close, even heat with no draft in it, and she almost said something, *did you leave the heat on?* the kind of thing you say, and didn't. She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for.
 
 "Show me," she said. "The whole thing. I want to see where you live."
 

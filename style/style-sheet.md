@@ -86,6 +86,14 @@ enforces these, and flags anything not yet ruled rather than inventing a rule.*
   entirely in italics** keeps its period inside ("*Edna Mode.* You just
   straight-up left." · "*Gesso.*"). Decidable from context every time, same
   shape as the facedown test.
+- **Question marks in interiority — the voicing test** (ruled 2026-09-20):
+  an italic interior or recalled line that a person would *voice* as a
+  question takes a `?`, inside the span ("*is this one mine to take?*",
+  "*Had he minded?*"). Flat only where the page marks it as not really asked
+  — rhetorical, a glossed laugh/gesture, or recalled **Cassie**, whose
+  statements-in-question-shape are hers by design. Same rule as dialogue
+  (Bible, Global Craft Rules); the linter `flat-interrogative` now sees
+  italic spans as well as quoted ones.
 
 ## Word list (A–Z)
 

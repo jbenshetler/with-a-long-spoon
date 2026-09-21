@@ -156,7 +156,7 @@ The thought did not finish that one either.
 
 "Mm. What's drawing you to it?"
 
-It was — she would think about this later, walking back to her dorm — *the question*. Not *how do you like it,* which was the question nice people asked at parties when they had nothing else to ask. *What's drawing you to it.* The question had room in it. She did not know the polite-short answer to that question; it would have to be invented. She decided to skip inventing it.
+It was — she would think about this later, walking back to her dorm — *the question*. Not *how do you like it?* which was the question nice people asked at parties when they had nothing else to ask. *What's drawing you to it?* The question had room in it. She did not know the polite-short answer to that question; it would have to be invented. She decided to skip inventing it.
 
 "I like that it's about how people actually behave when they think they're being rational," she said. "The gap between what they say they're doing and what they're doing. It's — I don't know. It feels like the kind of thing where if you understood it well, you'd understand a lot."
 
