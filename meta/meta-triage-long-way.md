@@ -1,3 +1,32 @@
+# Triage — The Long Way (fact-audit pass, 2026-09-21)
+
+Source: `audits/fact-audit/claude-opus-5/long-way.md` (Lane A cross-chapter
+fact audit, first ten Vol 1 chapters, seven-model comparison). Singleton
+finding — no other model flagged it.
+
+## Left standing — do not re-litigate
+
+- **:35 / :51 the froyo "system" is not self-contradictory.** The audit read
+  *"Tart on the bottom holds up under the heavy ones. You put chocolate on
+  tart and it's an argument the whole way down"* as a rule that negates
+  itself, with the payoff at :51 (*"Your tart's holding up"*) validating only
+  the first half. It does not. The first clause is **structural** — a tart
+  base bears weight — and the second is about **flavor**: chocolate is the
+  named exception to an otherwise general rule, not a counterexample to it.
+  The :51 payoff is purely structural (*"the whole stack of it, still
+  standing"*), so it confirms the first clause and never engages the second.
+  Ordinary spoken advice, not a defect.
+  - The audit's stated reason — that this is "the signature of one sentence
+    being edited and the other left" — is **false**. Both lines entered in
+    the same commit (`9b615e77`, 2026-07-13) and neither has been touched
+    since; `git log -S` on either phrase returns only that commit. The model
+    asserted a diff history it cannot see.
+  - Considered and **not** taken: recasting *"the whole way down"* to drop
+    the vertical, which is what lets the flavor clause lean on the structural
+    one. The lines stand as written.
+
+---
+
 # Triage — The Long Way (line-edit pass, 2026-08-05)
 
 Source: `audits/line-edit/long-way.md` (3 findings + linter slate), reviewed
