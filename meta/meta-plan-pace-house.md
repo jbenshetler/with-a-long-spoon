@@ -115,7 +115,7 @@ visible from the kitchen.
 **One room.** The **bed** and the **bench** are here; the whole bench scene plays out in
 this single space (the bathroom is off the hall, not in the room). **There is no separate "study"**
 (see Fixtures: "study" was an old object-word, now *trestle*). Contents on the page:
-- **The bench** at the center (see Fixtures).
+- **The bench**, against the middle of a wall — with its top on, a working side table (see Fixtures). The women see it repeatedly, and use it, before they understand what it is.
 - A **bed**, ~three steps from the bench; **cashmere blanket** at its foot; a
   **bedside table** (water bottle pre-staged for aftercare).
 - A **chair** he folds her clothes onto.
