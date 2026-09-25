@@ -12,7 +12,7 @@ She had been stuck on the problem for forty minutes when Randi suggested they mo
 
 "You've been *not solving it* for an hour. That's different."
 
-Vee laughed because Randi was right, the way Randi was usually right about the social registers Vee was operating in. The laugh let her sit back from the page. She picked up her coffee and held it between both hands and looked across the table at Randi, who had her laptop open in front of her and was scrolling something — the sorority calendar, Vee thought, but did not ask. Beyond Randi at the next table over, Cassie sat with her own work spread out in her quiet manner, headphones in, the volume low enough that she sometimes laughed at things people said two tables away.
+Vee laughed because Randi was right, the way Randi was usually right about the social registers Vee was operating in. The laugh let her sit back from the page. She picked up her coffee and held it between both hands and looked over at Randi, who had her laptop open in front of her and was scrolling something — the sorority calendar, Vee thought, but did not ask. Beyond Randi at the next table over, Cassie sat with her own work spread out in her quiet manner, headphones in, the volume low enough that she sometimes laughed at things people said two tables away.
 
 "It's really hard," Vee said.
 
@@ -34,7 +34,7 @@ She pulled in a breath and let it out and set the pencil down again.
 
 Vee looked up. Randi was texting — thumbs quick, eyes down, the private, absorbed focus of a girl writing to someone who had her attention. Some boy, Vee thought, amused, and looked back at her page.
 
-But the page didn't hold her, and when she looked up again Cassie, two tables over, was watching Randi thumb at her phone — the flat, patient look Cassie kept for Randi, for the sorority polish of her, the ease of her. *She's not serious,* the look said, or that was how Vee read it. Cassie and Randi had never quite taken to each other, and Vee let it be. Cassie set her pencil down and reached for her coffee.
+But the page didn't hold her, and when she looked up again Cassie was watching Randi thumb at her phone — the flat, patient look Cassie kept for Randi, for the sorority polish of her, the ease of her. *She's not serious,* the look said, or that was how Vee read it. Cassie and Randi had never quite taken to each other, and Vee let it be. Cassie set her pencil down and reached for her coffee.
 
 "How's it going over there?" Cassie said.
 
@@ -156,7 +156,7 @@ The thought did not finish that one either.
 
 "Mm. What's drawing you to it?"
 
-It was — she would think about this later, walking back to her dorm — *the question*. Not *how do you like it,* which was the question nice people asked at parties when they had nothing else to ask. *What's drawing you to it.* The question had room in it. She did not know the polite-short answer to that question; it would have to be invented. She decided to skip inventing it.
+It was — she would think about this later, walking back to her dorm — *the question*. Not *how do you like it?* which was the question nice people asked at parties when they had nothing else to ask. *What's drawing you to it?* The question had room in it. She did not know the polite-short answer to that question; it would have to be invented. She decided to skip inventing it.
 
 "I like that it's about how people actually behave when they think they're being rational," she said. "The gap between what they say they're doing and what they're doing. It's — I don't know. It feels like the kind of thing where if you understood it well, you'd understand a lot."
 

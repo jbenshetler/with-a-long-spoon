@@ -122,7 +122,7 @@ She sat. She worked her panties down to her knees. She put her fingers where the
 
 Using what was already there, she found the small needy knot of herself and circled it, slow, biting hard on her lip to keep any sound off the tile. The build came fast. It had been building an hour across a tablecloth and it wanted more than a fingertip, wanted variety, wanted filling, and she let her hand slide back and down and begin to press up into herself, and at the very first give of her own body opening to her own hand, Randi's face arrived behind her eyes. Clear, and fond, and near, as though Vee were the best thing in the room.
 
-*What would Randi think.* But it was not the thinking, it was the looking. She could not be looked at like that and keep her hand where it was, and the two would not hold in one body.
+*What would Randi think?* But it was not the thinking, it was the looking. She could not be looked at like that and keep her hand where it was, and the two would not hold in one body.
 
 She stopped. She held there with herself barely breached and the peak one unfair inch off, and the bright wanting curdled into something low and ashamed and obedient. Frustrated and cowed in the same breath. For a moment she did not move at all.
 

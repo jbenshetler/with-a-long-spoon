@@ -249,6 +249,29 @@ def clean_markdown(text: str) -> str:
     return "\n".join(line.rstrip() for line in text.strip().splitlines()) + "\n"
 
 
+def save_raw(d: Path, n: int, label: str, raw: str) -> str:
+    """Preserve a rejected response so a failure is diagnosable.
+
+    A gate is rejected on a missing DECISION line, and the raw text used to be
+    dropped on the floor — which costs a paid call and returns nothing to look
+    at. The common causes leave distinct fingerprints: an empty body means the
+    reasoning budget consumed `max_output_tokens` before any visible output, a
+    body that stops mid-sentence means the same cap hit late, and a body that
+    reads fine but lacks the heading means the model answered in its own
+    format. They need different fixes, so keep the evidence.
+
+    Written under `.failed/` (gitignored by the capture-panel rules) rather
+    than beside the gates, so a rejected artifact can never be mistaken for a
+    reader's actual reaction.
+    """
+    out = d / ".failed" / f"gate-ch{n:03d}-{date.today().isoformat()}.md"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(f"*REJECTED gate · {label} · {len(raw)} chars*\n\n{raw}\n",
+                   encoding="utf-8")
+    return f"{len(raw)} chars saved to {out.relative_to(REPO)}" if raw \
+        else f"EMPTY response; marker at {out.relative_to(REPO)}"
+
+
 def write_doc(path: Path, header: str, body: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(f"{header}\n\n{clean_markdown(body)}", encoding="utf-8")
@@ -274,7 +297,8 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
             label = f"{model_id}·{persona}·ch{n:02d}"
             raw = agent_fn(read_sys, read_prompt(d, n), label).strip()
             if "DECISION" not in raw.upper():
-                raise RuntimeError(f"malformed gate for {label}")
+                raise RuntimeError(f"malformed gate for {label}"
+                                   f" — {save_raw(d, n, label, raw)}")
             write_doc(gp, f"*{PROTOCOL} · gate ch{n:03d} · {model_id} · {persona} · "
                           f"prompt-sha {read_sha} · prose-sha {chapter_sha(n)} · "
                           f"{date.today().isoformat()}*", raw)

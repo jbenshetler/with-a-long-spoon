@@ -30,7 +30,7 @@ Cassie didn't look up from her coffee. "As long as he doesn't make you roll a he
 
 Vee wasn't, and all three of them knew it, and that was the whole debate.
 
-By evening she and Pace were standing under the neon in a too-bright shop, plastic ivy gone a little dusty along the top of the wall, the whole place humming with the machines and quick with people coming and going, a thread of lemon cleaner cutting through the sugar in the air. Pace was studying the flavor placards with the same attention he'd given her calculus.
+By late afternoon she and Pace were standing under the neon in a too-bright shop, plastic ivy gone a little dusty along the top of the wall, the whole place humming with the machines and quick with people coming and going, a thread of lemon cleaner cutting through the sugar in the air. Pace was studying the flavor placards with the same attention he'd given her calculus.
 
 "There's a system," he said. "Tart on the bottom holds up under the heavy ones. You put chocolate on tart and it's an argument the whole way down."
 
@@ -40,7 +40,7 @@ By evening she and Pace were standing under the neon in a too-bright shop, plast
 
 She built her cup without thinking, and it got away from her — too much, the cone of it leaning. Usually she heard her mother before she'd finished, *that's plenty, that's enough now.* Today there was nothing. She bit her lower lip, knowing the cup would drip, and then found she didn't care. He weighed his own cup and paid for both before she'd found her wallet; she grabbed spoons and a fistful of napkins on the way past, and he held the door with his back so they both had their hands full going out.
 
-Outside it had gone blue and cool. They walked the long way, not toward anything. He asked her things the way her grandfather used to ask things, as though the answer mattered and there was no wrong one, and then he waited through all of it. She'd get to the end of a sentence and find him still there, still listening, in no hurry to take his own turn. Like the sentence had been worth waiting out. She wasn't used to being the thing a person waited on.
+Outside it had gone gold and cool. They walked the long way, not toward anything. He asked her things the way her grandfather used to ask things, as though the answer mattered and there was no wrong one, and then he waited through all of it. She'd get to the end of a sentence and find him still there, still listening, in no hurry to take his own turn. Like the sentence had been worth waiting out. She wasn't used to being the thing a person waited on.
 
 "I'm going to say something embarrassing," she said, "and then we can both pretend I didn't."
 

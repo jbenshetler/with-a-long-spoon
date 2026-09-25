@@ -17,9 +17,19 @@ build/
 .env
 .wrangler/
 reviews/cold-read/.packets/
+# Rejected capture gates, kept on disk for diagnosis. A reader's reaction is
+# canon-adjacent record; a truncated response it never finished is not.
+reviews/capture-panel/*/dag/*/.failed/
 /chronology.html
 /chronology-reviews.html
 
 # Fact-audit scratch: persistent by design (a model may write its artifact
 # here rather than reply with it), but machine output, not canon.
 audits/fact-audit/.work/
+# Reading-effort parse cache: machine scratch, regenerable, ~9MB. The pass's
+# worklists and rulings under audits/reading-effort/ ARE tracked.
+audits/reading-effort/cache.json
+
+# Calibration extracts from copyrighted epubs in ref/ — derived statistics
+# are committable, the extracted prose is not.
+audits/reading-effort/.calib/

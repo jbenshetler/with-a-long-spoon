@@ -1,0 +1,85 @@
+{
+  "model": "glm-5.3",
+  "scene": "the-bench",
+  "sentences": 760,
+  "findings": [
+    {
+      "n": 6,
+      "cost": 2,
+      "why": "The double-dash structure enclosing the long bag description made me lose the main clause \u2014 'she came in past the kitchen and put her bag on the chair' \u2014 and I had to reconnect to 'and came into him and put her arms around him' after the aside.",
+      "fp": "90ab461f5c15"
+    },
+    {
+      "n": 9,
+      "cost": 2,
+      "why": "The dangling 'for' at the end of 'the thing she had built her whole adult life around being looked at for' forced me to re-read to connect it back to the blue eyes.",
+      "fp": "2236d5f9b5f4"
+    },
+    {
+      "n": 42,
+      "cost": 2,
+      "why": "'A thing she said with a knife in it' \u2014 I couldn't determine what 'it' referred to or what the knife metaphor meant. A diet described cuttingly? A diet that was itself sharp? I never resolved it.",
+      "fp": "ebedd6ef1753"
+    },
+    {
+      "n": 52,
+      "cost": 2,
+      "why": "'Finding it had stopped being the thing she was doing' \u2014 the self-referential structure and unclear 'it' made me re-read to work out what had stopped being what.",
+      "fp": "ba02b3c4a7cc"
+    },
+    {
+      "n": 93,
+      "cost": 1,
+      "why": "'The point did not survive the next pass' \u2014 the metaphor required a beat to decode: her attempt to prove she was still eating didn't survive his hands moving near her breasts.",
+      "fp": "044ed9e48bfc"
+    },
+    {
+      "n": 215,
+      "cost": 2,
+      "why": "'They had spent the evening inside' \u2014 'they' is grammatically ambiguous between the breasts and the bra, and 'made nothing of' is an unfamiliar usage, so I re-read to sort out the reference.",
+      "fp": "c45e92c1f924"
+    },
+    {
+      "n": 235,
+      "cost": 1,
+      "why": "'The word for what he held stayed behind his face, and he let his hands say the nearer things' \u2014 the abstraction required a moment to decode: he didn't say the word, he touched instead.",
+      "fp": "905eeda0d0dd"
+    },
+    {
+      "n": 491,
+      "cost": 1,
+      "why": "'Landing somewhere he didn't govern' \u2014 I couldn't tell where her sounds were landing (in him? in her?) and the metaphor stayed opaque.",
+      "fp": "184e3c53d41e"
+    },
+    {
+      "n": 526,
+      "cost": 1,
+      "why": "'The wanted position' \u2014 the play on words (sexual position vs. the social position of being desired) took a beat to catch.",
+      "fp": "17a987cc73a3"
+    },
+    {
+      "n": 694,
+      "cost": 2,
+      "why": "The em-dash interruption 'she could not \u2014 she could feel that she could not \u2014 get them back' broke the syntactic flow and I had to re-read to reconstruct the sentence's logic.",
+      "fp": "a7742758caa0"
+    },
+    {
+      "n": 698,
+      "cost": 2,
+      "why": "'Under it, inseparable from it' \u2014 I couldn't determine what 'it' referred to (the disjunction? the feeling from the previous sentence?), and the later 'it had not come from her' compounded the reference problem.",
+      "fp": "58110f21eca5"
+    },
+    {
+      "n": 701,
+      "cost": 1,
+      "why": "'Nothing happened to her' \u2014 the apparent contradiction with everything just described required a gear-shift to understand she's describing her old defensive state, not the current reality.",
+      "fp": "50a1bf3382ac"
+    },
+    {
+      "n": 731,
+      "cost": 1,
+      "why": "Very long sentence contrasting her performed smile with his genuine one; the length required attention to hold both sides of the contrast through to the end.",
+      "fp": "7a6bd9b1ea9a"
+    }
+  ]
+}

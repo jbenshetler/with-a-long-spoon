@@ -1,0 +1,15 @@
+[
+  {"n":9,"cost":2,"why":"I had to slow down through the final string of clauses to connect her eyes with what she had built her adult life around."},
+  {"n":52,"cost":3,"why":"I reread the part about doing what her body knew while it stopped being what she was doing. I couldn't settle what had changed about the action."},
+  {"n":87,"cost":2,"why":"I paused to trace his hands: 'turning back a little higher' made me unsure where each upward pass ended and the return began."},
+  {"n":131,"cost":2,"why":"I had to assemble the bench's shape from the hip peak, lowered head, and pivoting leg rests before I could picture her position."},
+  {"n":168,"cost":1,"why":"The second button revealing her upper stomach made me stop briefly; I had pictured the buttons continuing down from her throat."},
+  {"n":229,"cost":2,"why":"Discovering that her heels were still on made me mentally revisit how she had stepped out of her skirt and underwear."},
+  {"n":235,"cost":3,"why":"I reread this looking for what 'the word' and 'the nearer things' referred to, and still couldn't give the sentence a definite meaning."},
+  {"n":262,"cost":2,"why":"I had to hold several body parts and supports in mind at once, then work out how her chest rested on the shelf while her torso and breasts remained unsupported."},
+  {"n":278,"cost":2,"why":"I stopped at 'if you forget,' unsure what she might forget and how telling him the word again would follow from forgetting it."},
+  {"n":291,"cost":3,"why":"I went back to the bench description because I thought her face was in a cradle and her hands held the grips. I couldn't picture her head hanging from those grips."},
+  {"n":340,"cost":2,"why":"I had pictured her face pointing toward the floor. Calling it upside-down made me stop and try to reconstruct the angle from which he was looking at her."},
+  {"n":530,"cost":3,"why":"I reread 'the maximum was below her, where she was' without being able to place what 'below' meant or how it followed from the heat being at maximum."},
+  {"n":701,"cost":1,"why":"For a moment this seemed to deny what had just happened. The next sentence let me read it as her usual protective rule."}
+]

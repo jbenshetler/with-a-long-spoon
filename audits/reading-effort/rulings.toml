@@ -1,0 +1,16 @@
+# rulings.toml — reading-effort findings reviewed and LEFT STANDING.
+#
+# Each [[standing]] suppresses one finding by sentence fingerprint:
+# stable across line shifts and renames; editing the sentence
+# re-arms it. There is no 'fixed' state — a revised sentence
+# fingerprints differently and stops being flagged on its own.
+#
+# Written by `reading_effort.py <scene> --ack --fp <hash> --note '…'`.
+# Show suppressed findings again with --show-acked.
+
+[[standing]]
+fp    = "42650f5e2ff2"
+file  = "scenes/the-bench.md"
+flags = "suspend,hold"
+text  = "He stood up only long enough to pull the soft blanket from the foot of the bed — the cashmere one she had brought after the second week when she had registered that she got cold after sex even in his too-warm house — and he wrapped it around her shoulders and over her hips and tucked her into it."
+note  = "Author ruling 2026-09-20: stands. The 26-word interruption is a single smooth appositive with no internal branching, and none of the three blind readers (claude-sonnet-5, glm-5.3, gpt-5.6-sol) registered it as work. Largest suspension in the chapter; suspension LENGTH alone is not the signal."

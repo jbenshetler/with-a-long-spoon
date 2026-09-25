@@ -87,7 +87,7 @@ He laughed again, harder this time, and for one beat the businesslike set of his
 
 He knelt for the outside seam — hip to floor, his hand flat at the swell of her hip, the tape pinned under his thumb, and his other hand drawing it down the outside of her thigh, his fingers trailing the line of her in one long unbroken contact — and then, last, the inside seam. Her stomach dropped as if she'd walked into class and seen **QUIZ TODAY** on the board when she'd forgotten there was one.
 
-He pinned the end of the tape high on the inside of her thigh, the back of his fingers against her where she was warm, and drew the tape down with his other hand, his fingers sliding along the inside of her leg to her knee, two hands on the inside of her at once, his bent head level with her hip, close enough that she could feel the heat of his breathing against the satin. He held it there the length of a number and her mother's voice arrived from somewhere it had no business being, the small panicked question of a woman raised to apologize for her own body — *can he tell.*
+He pinned the end of the tape high on the inside of her thigh, the back of his fingers against her where she was warm, and drew the tape down with his other hand, his fingers sliding along the inside of her leg to her knee, two hands on the inside of her at once, his bent head level with her hip, close enough that she could feel the heat of his breathing against the satin. He held it there the length of a number and her mother's voice arrived from somewhere it had no business being, the small panicked question of a woman raised to apologize for her own body — *can he tell?*
 
 She closed her eyes for a beat against it. He read the number, and rose, and stepped away.
 

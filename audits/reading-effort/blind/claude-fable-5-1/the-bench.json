@@ -1,0 +1,157 @@
+{
+  "model": "claude-fable-5-1",
+  "scene": "the-bench",
+  "sentences": 760,
+  "findings": [
+    {
+      "n": 6,
+      "cost": 2,
+      "why": "The description of the bag keeps opening new parentheticals inside the dash \u2014 'expensive in the quiet way her things were expensive \u2014 the money in the grain and the weight of it \u2014' \u2014 and by the time 'and came into him' arrived I had to go back to find that she was the one still doing things.",
+      "fp": "90ab461f5c15"
+    },
+    {
+      "n": 9,
+      "cost": 1,
+      "why": "The tail, 'the thing she had built her whole adult life around being looked at for,' stacks prepositions so that I had to hold the whole phrase and re-assemble it at the end.",
+      "fp": "2236d5f9b5f4"
+    },
+    {
+      "n": 33,
+      "cost": 1,
+      "why": "'She had not gotten all the way to the rest' \u2014 I paused to work out what 'the rest' was (that he'd made it), since the sentence never says it.",
+      "fp": "f495ec862a56"
+    },
+    {
+      "n": 42,
+      "cost": 2,
+      "why": "Three things packed in: 'a thing she said with a knife in it' made me stop to decide whether 'she' was the mother or the girl, and 'built to the one scale' took a second pass to read as a body type rather than a literal scale.",
+      "fp": "ebedd6ef1753"
+    },
+    {
+      "n": 52,
+      "cost": 3,
+      "why": "'Doing the thing her body knew how to do and finding it had stopped being the thing she was doing' \u2014 I read this twice and was still holding it loosely; the two 'things' slide past each other.",
+      "fp": "ba02b3c4a7cc"
+    },
+    {
+      "n": 58,
+      "cost": 1,
+      "why": "'To find places to touch him through' lands awkwardly and I had to reread the end to confirm 'through' meant through the shirt.",
+      "fp": "2fcfbd99d37c"
+    },
+    {
+      "n": 125,
+      "cost": 1,
+      "why": "Inverted order \u2014 'Handholds she found next' \u2014 made me check whether she was physically touching the bench or just looking.",
+      "fp": "5e52928fde90"
+    },
+    {
+      "n": 128,
+      "cost": 2,
+      "why": "'Her hands closed on nothing' \u2014 I didn't know whether this was literal (she's standing three steps in, not touching it) or imagined, and the next fragment about the open middle didn't settle it.",
+      "fp": "0d80badfd21d"
+    },
+    {
+      "n": 131,
+      "cost": 2,
+      "why": "I had to build the geometry from 'peaked at the hips \u2014 head down, legs down \u2014 and the leg rests on their pivots, angled out and down' and it took real work to picture what the frame was doing.",
+      "fp": "e6f3d777f94b"
+    },
+    {
+      "n": 133,
+      "cost": 2,
+      "why": "'Her head went back, toward the ceiling' \u2014 I was unsure whether she was actually tipping her head back where she stood or whether this was her imagining herself on the bench, and I reread to decide.",
+      "fp": "75534acd1803"
+    },
+    {
+      "n": 153,
+      "cost": 1,
+      "why": "Took a beat to connect that the bench had been the table she'd been leaving her underwear on.",
+      "fp": "0300f603176f"
+    },
+    {
+      "n": 199,
+      "cost": 1,
+      "why": "The unmarked back-and-forth ('can we lower these? \u2014 and he had said can we leave them up? and she had said yes') made me slow down to keep who-said-what straight.",
+      "fp": "342a97cba513"
+    },
+    {
+      "n": 215,
+      "cost": 2,
+      "why": "'Upturned in a way that had made nothing of the expensive bra they had spent the evening inside' \u2014 I stalled on 'made nothing of' and had to decide what it was saying about the bra.",
+      "fp": "c45e92c1f924"
+    },
+    {
+      "n": 224,
+      "cost": 1,
+      "why": "'Greed now would spend the night early' is compressed enough that I paused to unpack it before moving on.",
+      "fp": "012391083362"
+    },
+    {
+      "n": 229,
+      "cost": 1,
+      "why": "'Still up in the heels he had not taken off' \u2014 'up in' made me reread to see it meant the toenails, up on her feet, still in shoes.",
+      "fp": "744ce0c2f0f6"
+    },
+    {
+      "n": 234,
+      "cost": 2,
+      "why": "'Take the gloss well past itself' \u2014 I didn't know what that meant and read it again without it resolving.",
+      "fp": "1b2b2c407639"
+    },
+    {
+      "n": 235,
+      "cost": 3,
+      "why": "'The word for what he held stayed behind his face' \u2014 I reread this looking for what word, and what he was holding, and got nothing to anchor it to.",
+      "fp": "905eeda0d0dd"
+    },
+    {
+      "n": 262,
+      "cost": 2,
+      "why": "A very long run with dashes inside dashes \u2014 by 'as she found the load \u2014 he watched her feel it' I had lost where the main clause was and had to back up.",
+      "fp": "dc33dcc06570"
+    },
+    {
+      "n": 266,
+      "cost": 1,
+      "why": "'The precision of the thing he had made it to have' loops back on itself and I had to reread the last few words.",
+      "fp": "565a062e2d96"
+    },
+    {
+      "n": 484,
+      "cost": 1,
+      "why": "The repeated 'hear it / heard himself want to hear it again / hit her again to hear her make it again' made me slow down to keep the clauses in order.",
+      "fp": "c9e0130cc252"
+    },
+    {
+      "n": 525,
+      "cost": 1,
+      "why": "'The small movements of her face which was at the low point and turned sideways now' \u2014 the clause about the face's position wedged in awkwardly and I had to pick the sentence back up after it.",
+      "fp": "6c52325cc2e7"
+    },
+    {
+      "n": 530,
+      "cost": 2,
+      "why": "'The maximum was below her, where she was' \u2014 I had to stop and work out what was being said about heat and position; it took a second pass.",
+      "fp": "10576e9956a1"
+    },
+    {
+      "n": 665,
+      "cost": 1,
+      "why": "Daphne arrives with no introduction and 'built a door' is metaphorical \u2014 I paused to figure out who she was and what the door meant before the next sentence explained it.",
+      "fp": "15cf0faf4ff4"
+    },
+    {
+      "n": 683,
+      "cost": 1,
+      "why": "'Last name unknown to her own sorority sisters' \u2014 I had to work out whose last name was meant before the sentence went on.",
+      "fp": "2ba803062f86"
+    },
+    {
+      "n": 701,
+      "cost": 2,
+      "why": "Coming right after 'what happened after that had happened to her,' the flat 'Nothing happened to her' read as a contradiction and I had to go back to realize it meant 'nothing ever used to.'",
+      "fp": "50a1bf3382ac"
+    }
+  ]
+}

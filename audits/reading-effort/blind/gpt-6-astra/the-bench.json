@@ -1,0 +1,85 @@
+{
+  "model": "gpt-6-astra",
+  "scene": "the-bench",
+  "sentences": 760,
+  "findings": [
+    {
+      "n": 9,
+      "cost": 2,
+      "why": "I had to slow down through the final string of clauses to connect her eyes with what she had built her adult life around.",
+      "fp": "2236d5f9b5f4"
+    },
+    {
+      "n": 52,
+      "cost": 3,
+      "why": "I reread the part about doing what her body knew while it stopped being what she was doing. I couldn't settle what had changed about the action.",
+      "fp": "ba02b3c4a7cc"
+    },
+    {
+      "n": 87,
+      "cost": 2,
+      "why": "I paused to trace his hands: 'turning back a little higher' made me unsure where each upward pass ended and the return began.",
+      "fp": "5850fa9e02af"
+    },
+    {
+      "n": 131,
+      "cost": 2,
+      "why": "I had to assemble the bench's shape from the hip peak, lowered head, and pivoting leg rests before I could picture her position.",
+      "fp": "e6f3d777f94b"
+    },
+    {
+      "n": 168,
+      "cost": 1,
+      "why": "The second button revealing her upper stomach made me stop briefly; I had pictured the buttons continuing down from her throat.",
+      "fp": "a869136d0672"
+    },
+    {
+      "n": 229,
+      "cost": 2,
+      "why": "Discovering that her heels were still on made me mentally revisit how she had stepped out of her skirt and underwear.",
+      "fp": "744ce0c2f0f6"
+    },
+    {
+      "n": 235,
+      "cost": 3,
+      "why": "I reread this looking for what 'the word' and 'the nearer things' referred to, and still couldn't give the sentence a definite meaning.",
+      "fp": "905eeda0d0dd"
+    },
+    {
+      "n": 262,
+      "cost": 2,
+      "why": "I had to hold several body parts and supports in mind at once, then work out how her chest rested on the shelf while her torso and breasts remained unsupported.",
+      "fp": "dc33dcc06570"
+    },
+    {
+      "n": 278,
+      "cost": 2,
+      "why": "I stopped at 'if you forget,' unsure what she might forget and how telling him the word again would follow from forgetting it.",
+      "fp": "d13ad1b54329"
+    },
+    {
+      "n": 291,
+      "cost": 3,
+      "why": "I went back to the bench description because I thought her face was in a cradle and her hands held the grips. I couldn't picture her head hanging from those grips.",
+      "fp": "f73de121836f"
+    },
+    {
+      "n": 340,
+      "cost": 2,
+      "why": "I had pictured her face pointing toward the floor. Calling it upside-down made me stop and try to reconstruct the angle from which he was looking at her.",
+      "fp": "64a13e032a98"
+    },
+    {
+      "n": 530,
+      "cost": 3,
+      "why": "I reread 'the maximum was below her, where she was' without being able to place what 'below' meant or how it followed from the heat being at maximum.",
+      "fp": "10576e9956a1"
+    },
+    {
+      "n": 701,
+      "cost": 1,
+      "why": "For a moment this seemed to deny what had just happened. The next sentence let me read it as her usual protective rule.",
+      "fp": "50a1bf3382ac"
+    }
+  ]
+}

@@ -66,6 +66,60 @@ mark items done with dates as they complete.*
   the author.** Heaviest in the most-revised chapters: `the-bench` 10,
   `the-pointing-game` 6 (including the camel-coat cluster, the pass's own worked
   case).
+- [ ] **Reading-effort sweep** — sentences that charge the reader more than
+  they pay back: one idea split across stacked subordinate clauses, or across a
+  sentence boundary, where a rearrangement carries the same content at lower
+  cost. From human reader feedback on `the-bench`, 2026-09-20. Worked case:
+  `the-bench.md:49`, where "She slid her hands up over the front of his shirt"
+  was held open across a 41-word dash interruption before the clause resumed —
+  rearranged into three sentences at 92 → 91 words, nothing cut, peak open
+  dependencies 8 → 6. Tool `tools/reading_effort.py` (deterministic: a fixed
+  spaCy dependency parse plus arithmetic, no model calls, no tokens);
+  per-chapter worklists at `audits/reading-effort/<slug>.md`, author rulings in
+  `audits/reading-effort/rulings.toml`, state:
+  `audits/reading-effort/STATUS.md`. **Over-flags by design — the author rules
+  on every item**, and high effort is frequently earned: suspension is a real
+  device and the accretive tail is deliberate voice. **Not a per-edit step
+  (author ruling 2026-09-20)** — unlike Lane B this is a deliberate sweep only,
+  because it returns ~87 findings on a single chapter and every one needs a
+  ruling; running it per keystroke would swamp the drafting loop. Scored
+  relative to this book's own corpus, never an external readability index.
+  **Protocol (author ruling 2026-09-20): the tool AND a blind model panel,
+  both required — this is a pre-publication pass, not a diagnostic.** The
+  tool's `chain`/`strand`/`suspend` classes are the structural half (its
+  `hold`/`nest`/`front`/`pp`/`split` are demoted: weak predictors). A blind
+  model panel — `tools/effort_blind.py`, **at least four models**; a
+  three-model consensus is unstable (Jaccard 0.56 to five) — is the semantic
+  half, and 58% of what 2+ readers converge on the parser cannot see
+  (compressed metaphor, ambiguous reference, abstraction). Work **convergent**
+  findings (2+ of 5) first, highest vote count first; a sentence only one
+  reader flags is noise. Subscription lanes by default; `glm-5.3` is
+  OpenRouter, paid, author-authorized per run, and fails first-try half the
+  time. Validation, F1, class tiering, and the published-comp calibration:
+  `audits/reading-effort/STATUS.md`. **Progress 2026-09-20: `the-bench` and
+  `the-pointing-game` swept by tool + five models; the three top convergent
+  sentences (5/5, 4/5, 4/5) rewritten and ruled; 31 convergent findings still
+  open (5 at 4+ votes, 8 at 3); 1 tool finding left standing.**
+- [ ] **Flat-interrogative sweep** — a question closed with a period or comma
+  where a person saying it would voice it as a question. The Bible rule
+  (Global Craft Rules, *Questions get question marks — every time*) and the
+  linter both stopped at dialogue, so italic interiority and recalled speech
+  were invisible: `the-pointing-game.md:143` shipped *is this one mine to
+  take.* with 19 more flat italic interrogatives book-wide. Author ruling
+  2026-09-20: **the voicing test, every register** — flat only where the page
+  marks the line as not really asked (rhetorical, a glossed laugh or gesture),
+  and recalled **Cassie** stays flat, hers by design. Tool: `na.py style` rule
+  `flat-interrogative`, widened the same day to see `*italic*` spans (20 hits,
+  no noise); the linter's live hit list is the state, there is no separate
+  file. **Blind spot: an elliptical question with no interrogative word (*Your
+  folks coming up.*) is undetectable by pattern, so the front-to-back sweep
+  needs a human eye — and the assistant's bias is one-directional (drops
+  marks, never over-marks), so when in doubt, mark it.** **Progress
+  2026-09-20: 14 marks applied across 11 chapters. Left flat pending author
+  ack: `strokes` ×4 (Cassie, marked on the page), `standards:131` (glossed
+  laugh), `covering:77` (gesture), `boyfriend:49` (noun, false positive).
+  Five pre-existing dialogue hits still unruled: `one-bite:39,51`,
+  `two-towels:73`, `clean-plate:163`, `covering:155`.**
 - [ ] **Proofread after typesetting** — on-device (Books/Kindle) against the
   built epub: section-rule breaks, italics at chapter boundaries, curly
   quotes/apostrophes, scene-break rendering.

@@ -1,0 +1,49 @@
+{
+  "model": "gpt-6-astra",
+  "scene": "the-pointing-game",
+  "sentences": 271,
+  "findings": [
+    {
+      "n": 15,
+      "cost": 1,
+      "why": "I paused at \u201cthe first\u201d to supply \u201corgasm\u201d before the end of the sentence made sense.",
+      "fp": "60283212485d"
+    },
+    {
+      "n": 38,
+      "cost": 2,
+      "why": "I stopped to work out what \u201cthe game\u201d referred to, since I hadn't yet encountered a game, then had to reconnect \u201cthat wanting\u201d with her response to the question.",
+      "fp": "046b1bf1a1b1"
+    },
+    {
+      "n": 94,
+      "cost": 1,
+      "why": "After following the wind across the quad, I had to shift back to her hair to attach \u201cblack and fine\u201d to the right thing.",
+      "fp": "9f53629a8fa1"
+    },
+    {
+      "n": 114,
+      "cost": 1,
+      "why": "I paused over \u201cthe ones,\u201d unsure whether it meant their outings, his ideas, or something from the afternoon in bed.",
+      "fp": "68199589d9e2"
+    },
+    {
+      "n": 187,
+      "cost": 1,
+      "why": "At \u201cbetter than it had any right to,\u201d I briefly lost track of whether I was picturing the curls or the blowout and backed up.",
+      "fp": "4ea089f62d59"
+    },
+    {
+      "n": 211,
+      "cost": 2,
+      "why": "\u201cThe closed camel-coat project\u201d made me stop and search my memory for a woman described that way. That interrupted the long sentence, and I had to pick up the laughing woman again.",
+      "fp": "0be5c917864b"
+    },
+    {
+      "n": 244,
+      "cost": 3,
+      "why": "I reread \u201cRandi giving half a head and enough weight\u201d to work out their relative sizes and how the collision looked. At first I read \u201cgiving\u201d as something she physically did during the bump.",
+      "fp": "ff1cbbac2f6d"
+    }
+  ]
+}

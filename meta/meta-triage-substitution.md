@@ -1,3 +1,73 @@
+# Triage — Substitution (fact-audit pass, 2026-09-23/24)
+
+Source: `audits/fact-audit/*/substitution.md` (Lane A cross-chapter fact
+audit). Seven models run; two corroborated findings, both seating geometry,
+both fixed. Model tally on this chapter: `claude-opus-5` 2, `gpt-6-astra` 2,
+`claude-fable-5-1` 1, `gemini-3.8-flash` 1 (a false positive, below);
+`glm-5.3`, `gpt-5.6-sol`, and `gpt-5.5` returned none.
+
+## Fixed
+
+- **:37 Cassie's locative cut** — "when she looked up again Cassie, two tables
+  over, was watching Randi thumb at her phone" → "when she looked up again
+  Cassie was watching Randi thumb at her phone". Three other locatives put her
+  at the *next* table (:15, :81, :95), and so does this scene's own brief:
+  "Cassie, at the next table, clocks the text for what it is and goes still"
+  (`meta-condensed-substitution.md:5`) — which is this very beat. Four to one.
+  - Contamination source identified: "two tables over" is Cassie's canonical
+    prop phrasing — "headphones (volume low enough that she laughs at things
+    said two tables over)" (`meta-arch-cassie.md:94`), first drafted in
+    `see-you-later.md` and carried into :15 here as "two tables away". The
+    character's own prop description resurfaced twenty lines later as a
+    locative.
+  - Cutting rather than correcting in place: the chapter already says "next
+    table" three times, and :37 does not need the reminder.
+
+- **:15 Randi is beside Vee, not across from her** (corroborated by
+  `claude-opus-5` and `gpt-6-astra` — 2 models, 2 vendors). "looked across the
+  table at Randi" → "looked over at Randi". Two later passages put her beside
+  Vee (":67 Beside her, Randi's hand moved to her coffee cup", ":149 Beside
+  her, Randi's hand went to her coffee cup"), and :67 lands while Pace is
+  still crossing the floor — he does not sit until :81 — so no seat change can
+  reconcile them. The settled geometry is Vee and Randi side by side with Pace
+  opposite, which :201 confirms ("the man across from her") and :81's singular
+  "the empty chair at their table" fits.
+  - Why "beside" wins rather than "across": both Beside-her lines run a
+    mechanism — Vee's attention is on Pace while Randi's tell registers at the
+    edge of vision, which is how the brief specifies Randi's tells be
+    delivered ("rendered as Vee perceives-and-misprocesses them",
+    `meta-condensed-substitution.md:5`). Seating Randi opposite would force a
+    direct look and spend the tell.
+  - Not evidence against: `long-way:11` "She slid it back across the table",
+    same table twenty minutes later — read as sliding over the tabletop, not
+    as a seat position.
+
+## Not a defect — model error
+
+- **`gemini-3.8-flash`'s only flag here is a ledger confabulation.** It flagged
+  :217 ("He typed it into his phone, repeated it back to her once to confirm,
+  and pocketed the phone") against its own Fact Ledger §5, which claims Pace
+  "leaves his number with Vee". The prose is correct — he takes *her* number,
+  and {{The Long Way}} turns on exactly that ("She'd given him hers; it hadn't
+  occurred to her to ask for his"). The same bad ledger entry produced a
+  HIGH-confidence false positive against `long-way:7`. Tell for the class: the
+  AGAINST side cites a ledger line rather than a passage.
+
+## Left standing — do not re-litigate
+
+- **Cassie stays at her own table; she is not moved to Vee and Randi's.**
+  Considered 2026-09-23 on the reasonable grounds that three girls studying
+  together would share a table. Declined: Cassie is *not* in the study session
+  (":15 with her own work spread out … headphones in", ":45 Cassie returned to
+  her work"), so two tables is the natural staging, not the odd one. The move
+  would also cost five touches including a line of dialogue whose shape
+  depends on the gap — ":39 'How's it going over there?'" — and the wave at
+  :95; and it raises the Cassie–Randi interaction pressure that
+  `meta-arch-cassie-randi.md:71` exists to keep low ("They barely interact …
+  The power is in how little needs to happen").
+
+---
+
 # Triage — Substitution (line-edit pass, 2026-08-05)
 
 Source: `audits/line-edit/substitution.md`, reviewed item-by-item with the

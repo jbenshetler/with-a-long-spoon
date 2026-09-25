@@ -42,7 +42,7 @@ She watched his eyes open. She watched them move, in the mirror, off her face an
 
 Something small went through her. Not the deep thing. Only the surface worry of a guest who's left a ring on good wood, and here was all of her flung across his order like she owned the place. She held still and waited to see what he'd do.
 
-He did nothing. His eyes came back up and found hers in the glass, and he smiled, the small private one, and put his mouth back to her shoulder where it had been, and that was all of it. Not one word. She let her breath out and leaned into him and let the worry go, and carried only the smallest tail of it out of the room with her. *Had he minded.* She couldn't tell. He hadn't said. He never said.
+He did nothing. His eyes came back up and found hers in the glass, and he smiled, the small private one, and put his mouth back to her shoulder where it had been, and that was all of it. Not one word. She let her breath out and leaned into him and let the worry go, and carried only the smallest tail of it out of the room with her. *Had he minded?* She couldn't tell. He hadn't said. He never said.
 
 **iii.**
 

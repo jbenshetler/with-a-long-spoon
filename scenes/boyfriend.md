@@ -70,7 +70,7 @@ She lifted her face out of his neck and looked at him.
 
 "How did this happen?" he said.
 
-Not a scold. Not *how could you.* He asked it easy, almost curious. There was a current under it she felt through where they were joined, low and steady, and it was only a man who'd heard *two girls* and wanted the rest — the ordinary greed of that, nothing she couldn't handle. So she handed him the ordinary version, the one with the exits built in. "It was the joke, I told you — the Harrison thing, it was a *bit,* we were just—"
+Not a scold. Not *how could you?* He asked it easy, almost curious. There was a current under it she felt through where they were joined, low and steady, and it was only a man who'd heard *two girls* and wanted the rest — the ordinary greed of that, nothing she couldn't handle. So she handed him the ordinary version, the one with the exits built in. "It was the joke, I told you — the Harrison thing, it was a *bit,* we were just—"
 
 He slid her up the length of him. He'd done it a hundred times, his hands moving her, helping her work herself on him, and she loved it in the moment, the long slow friction of the drag up and the drag back. So she took the lift for what it always was and rode it up, easy. And then at the top he stalled her. Held her there, off all but the head of him, his strong hands cupping her ass, not letting her back down. That was new. She pressed against them to sink onto him again and couldn't, and a sound came out of her, disappointed, before she'd thought about it.
 
@@ -248,6 +248,6 @@ Because Tuesday she would see her. Seven o'clock, Dr. Marsh's room, the two of t
 
 Pace's chest rose and fell against her cheek, slow, asleep, or near it. Her boyfriend. She had just had sex with her boyfriend, twice, good sex, the best there was — she had lost count of the times this weekend, five, six, since Friday, Sondra's table and then his hands and then his mouth and then the mixer and then this — and she was lying in his arms with her body finally quiet and her mind gone straight down the county road and back to campus and into a warm cluttered room with a girl in it, and she could not make it come back.
 
-*What is wrong with me,* she thought.
+*What is wrong with me?* she thought.
 
 She did not have an answer. She lay there a long time in the dark not having one, and outside the trees the cold went on being kept out. And whatever had hold of her was not, even now, anywhere near done.

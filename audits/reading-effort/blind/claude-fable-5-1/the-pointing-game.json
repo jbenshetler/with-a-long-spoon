@@ -1,0 +1,133 @@
+{
+  "model": "claude-fable-5-1",
+  "scene": "the-pointing-game",
+  "sentences": 271,
+  "findings": [
+    {
+      "n": 15,
+      "cost": 2,
+      "why": "'The first not fully gone' \u2014 I had to stop and work out that 'the first' meant her first orgasm; the phrase floats without an anchor.",
+      "fp": "60283212485d"
+    },
+    {
+      "n": 25,
+      "cost": 2,
+      "why": "The stacked 'under it... under that' ends on 'what the question had been for,' which is so abstract I paused to figure out what I was supposed to see on her face.",
+      "fp": "4ca60ca55e82"
+    },
+    {
+      "n": 26,
+      "cost": 1,
+      "why": "'Make the wanting mean anything safer' took a beat to unpack.",
+      "fp": "41bca69cdf38"
+    },
+    {
+      "n": 38,
+      "cost": 2,
+      "why": "'The game' arrives here as if already established, and 'give that wanting air in daylight' plus 'pin it beneath a solemn name' piled two figures on top of each other; I went back to check I hadn't missed something.",
+      "fp": "046b1bf1a1b1"
+    },
+    {
+      "n": 42,
+      "cost": 1,
+      "why": "Long, with the semicolon pivot to 'his own he would take last' \u2014 I had to supply the noun 'joy' and reorient.",
+      "fp": "26ce09dcc0e1"
+    },
+    {
+      "n": 45,
+      "cost": 2,
+      "why": "'If pleasure was also a bridge' \u2014 a bridge to what? The conditional and the 'one fact' ending are abstract enough that I read it twice and still felt I was guessing.",
+      "fp": "1954f2332ee7"
+    },
+    {
+      "n": 74,
+      "cost": 1,
+      "why": "'Her transgression' then 'theirs' in the next sentence \u2014 small hitch working out the ownership shift, though it resolves.",
+      "fp": "14537c06067d"
+    },
+    {
+      "n": 94,
+      "cost": 1,
+      "why": "'As it went at everything on the quad' \u2014 the 'it' and the phrasing made me stumble before the hair description took over.",
+      "fp": "9f53629a8fa1"
+    },
+    {
+      "n": 100,
+      "cost": 1,
+      "why": "First appearance of the name 'Pace' after a long stretch of 'he' \u2014 a moment of 'who is this?' before I mapped it.",
+      "fp": "9482c510c770"
+    },
+    {
+      "n": 103,
+      "cost": 1,
+      "why": "'Let herself hold that she wanted it' \u2014 the verb 'hold' is odd enough that I re-parsed the clause.",
+      "fp": "a814a1edaa30"
+    },
+    {
+      "n": 122,
+      "cost": 2,
+      "why": "The dash-clause runs long and the 'grammar' metaphor with 'the labels and the lines and the correct shoe' took real work to assemble into the point being made.",
+      "fp": "c819b307aee4"
+    },
+    {
+      "n": 130,
+      "cost": 2,
+      "why": "'That, and the hand in his \u2014 it was enough.' Enough for what? 'That' points back vaguely; I paused to reconstruct.",
+      "fp": "b506fb9bd3a8"
+    },
+    {
+      "n": 163,
+      "cost": 1,
+      "why": "The dance-follow metaphor is long and stacks several near-synonymous descriptions of tension; I tracked it but felt the length.",
+      "fp": "5d24076d6f4b"
+    },
+    {
+      "n": 176,
+      "cost": 1,
+      "why": "One long sentence carrying the kiss, the unwiped face, and her reaction \u2014 I had to hold a lot before the payoff.",
+      "fp": "16605537cea6"
+    },
+    {
+      "n": 187,
+      "cost": 1,
+      "why": "Very long descriptive sentence; by 'ran the room while she did' I'd lost the grammatical thread a little and read on by momentum.",
+      "fp": "4ea089f62d59"
+    },
+    {
+      "n": 193,
+      "cost": 1,
+      "why": "'Closer, but no.' \u2014 brief uncertainty about whose verdict this is and closer to what.",
+      "fp": "3cb049339f2d"
+    },
+    {
+      "n": 211,
+      "cost": 3,
+      "why": "Enormous sentence, and 'the closed camel-coat project' refers to a woman who never appeared earlier \u2014 I stopped and searched back for a camel coat, found none, and had to let it go.",
+      "fp": "0be5c917864b"
+    },
+    {
+      "n": 228,
+      "cost": 2,
+      "why": "A fragment built on 'Now, after \u2014 not before... but after' with a nested colon and an italic-style question at the end; I re-read to sort the sequence of what she was doing.",
+      "fp": "b7d5c4935246"
+    },
+    {
+      "n": 244,
+      "cost": 2,
+      "why": "'Randi giving half a head and enough weight' \u2014 I had to reread to understand this as her leading with her head/shoulder to stage the collision.",
+      "fp": "ff1cbbac2f6d"
+    },
+    {
+      "n": 249,
+      "cost": 1,
+      "why": "'Whatever sorority actually taught under the mixers and the letters' was a bump, plus it's the first I learn Randi is in a sorority.",
+      "fp": "b1a9de0bf1e1"
+    },
+    {
+      "n": 265,
+      "cost": 1,
+      "why": "The dash-interrupted syntax ('and \u2014 \"Yes,\" she said... \u2014 kissed him') made me re-track the main verb.",
+      "fp": "737b8d3e6b59"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "model": "gpt-5.6-sol",
+  "scene": "the-pointing-game",
+  "sentences": 271,
+  "findings": [
+    {
+      "n": 21,
+      "cost": 1,
+      "why": "I paused over \u201casked it into the warm disorder of her\u201d; the abstract phrasing made me reconstruct what he was asking and what \u201cdisorder\u201d referred to.",
+      "fp": "3b233486dc81"
+    },
+    {
+      "n": 38,
+      "cost": 2,
+      "why": "I had to hold several abstractions at once\u2014glimpse, game, wanting, daylight, solemn name\u2014before I could assemble the intended emotional logic.",
+      "fp": "046b1bf1a1b1"
+    },
+    {
+      "n": 61,
+      "cost": 1,
+      "why": "The sentence moves from his admiration to his interpretation and then through a sequence of her gestures; I had to slow slightly to keep the main action and viewpoint aligned.",
+      "fp": "9722495e1cbf"
+    },
+    {
+      "n": 94,
+      "cost": 2,
+      "why": "The long description repeatedly shifts between her hair, the wind, and what each is doing, and I had to reread the final contrast to understand it.",
+      "fp": "9f53629a8fa1"
+    },
+    {
+      "n": 101,
+      "cost": 2,
+      "why": "The sentence carries the day, the landscape, his private knowledge, her body, and her self-correction in one long structure; keeping those layers nested took real work.",
+      "fp": "1dafab70872d"
+    },
+    {
+      "n": 122,
+      "cost": 2,
+      "why": "The move from her resemblance to Randi into \u201cthe grammar she lived in\u201d is conceptually dense, and I had to pause to connect the labels, lines, shoe, and walking grammar.",
+      "fp": "c819b307aee4"
+    },
+    {
+      "n": 142,
+      "cost": 2,
+      "why": "The interrupted syntax and successive explanations of what rushing would do made me hold the original clause open for a long time before it resolved.",
+      "fp": "23ca35ace6c0"
+    },
+    {
+      "n": 163,
+      "cost": 2,
+      "why": "The sentence shifts from bodily sensation into an extended dance analogy with several fine-grained movements; I had to read carefully to track what each image represented.",
+      "fp": "5d24076d6f4b"
+    },
+    {
+      "n": 165,
+      "cost": 2,
+      "why": "The stacked clauses\u2014scanning, wanting, feeling, asking\u2014blurred together, and I had to reread to separate what she was doing from what he was sensing.",
+      "fp": "03e18982055e"
+    },
+    {
+      "n": 180,
+      "cost": 1,
+      "why": "The sentence embeds what she said inside his interpretation of how it sounded, so I briefly lost the action while following the layers of performance and real feeling.",
+      "fp": "0bf20b1074f6"
+    },
+    {
+      "n": 187,
+      "cost": 2,
+      "why": "The woman's appearance, manner, social role, and implied personality arrive in one extended chain, and I had to slow down to keep the description organized.",
+      "fp": "4ea089f62d59"
+    },
+    {
+      "n": 211,
+      "cost": 3,
+      "why": "This very long sentence keeps extending the laugh through bodily description, comparison, and social judgment; I had to reread, especially when the unfamiliar \u201cclosed camel-coat project\u201d entered the comparison.",
+      "fp": "0be5c917864b"
+    },
+    {
+      "n": 228,
+      "cost": 2,
+      "why": "The sentence moves through several time corrections and interpretations before reaching the unmarked internal question; I had to hold the opening clause a long time to understand the whole thought.",
+      "fp": "b7d5c4935246"
+    },
+    {
+      "n": 244,
+      "cost": 2,
+      "why": "The geometric description of their paths and the later account of who appeared to cause the collision made me reread to visualize the staging correctly.",
+      "fp": "ff1cbbac2f6d"
+    },
+    {
+      "n": 249,
+      "cost": 2,
+      "why": "The sentence compresses years of training, a parenthetical explanation of sorority life, the execution, and the deceptive result into one structure; it took real work to unpack.",
+      "fp": "b1a9de0bf1e1"
+    },
+    {
+      "n": 252,
+      "cost": 1,
+      "why": "\u201cThe heads\u201d was momentarily unclear as a description of the naming ritual, so I paused to infer the small nodding or gestural exchange being observed.",
+      "fp": "2b0fedd95509"
+    }
+  ]
+}

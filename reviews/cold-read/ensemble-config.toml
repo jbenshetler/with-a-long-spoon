@@ -61,9 +61,18 @@ timeout = 2400
 max_output_tokens = 32000
 
 [openrouter.policy.capture]       # capture_dag / capture_panel
+# Raised 16000 -> 20000 (author ruling 2026-09-24). `max_output_tokens` is
+# shared between reasoning and visible output, so a reader that thinks hard
+# about a heavy chapter can spend the whole budget before finishing its gate.
+# Observed on gemini-3.8-flash: three rejected gates in one 75-chapter run
+# (hills-and-valleys, we-find-out, believe-me — a fight, a rupture, and the
+# "words are cheap" confrontation), each truncated mid-sentence at 28-298
+# chars. Each retry succeeded, so the old cap simply billed the same chapter
+# twice. Rejected responses now land in `<lane>/.failed/` for exactly this
+# diagnosis.
 effort = "low"
 timeout = 900
-max_output_tokens = 16000
+max_output_tokens = 20000
 
 [readers."gemini-3.8-flash"]
 vendor = "google"

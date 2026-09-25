@@ -14,7 +14,7 @@ He had asked her Sunday, in his kitchen, in the plain voice he used for facts ab
 
 "I'd like you waxed," he'd said. "By the weekend. Bare." And then he'd asked her — because he always asked; that was the thing about him that undid her, that a man who could simply have told her made it a question every time and waited for her to answer. His eyes stayed on hers. "Will you?"
 
-"Yes," she'd said. Just yes, out ahead of her, her mouth answering before her mind had caught up to it — while she was still somewhere back down the sentence going *bare?*, going *the weekend?*, going *why.* He never told her why. He asked for the thing itself, clean, and left the place where the reason should be for her to fill, and she filled it, every time, with *yes, yes, tell me when.*
+"Yes," she'd said. Just yes, out ahead of her, her mouth answering before her mind had caught up to it — while she was still somewhere back down the sentence going *bare?*, going *the weekend?*, going *why?* He never told her why. He asked for the thing itself, clean, and left the place where the reason should be for her to fill, and she filled it, every time, with *yes, yes, tell me when.*
 
 The fear came after. It always came after now, in private, once the yes was spent and couldn't be called back — that was nearly the point of it, the fear arriving too late to be any use. She'd lain awake with it. How much it would hurt. Where a person even went. What she'd have to do.
 
