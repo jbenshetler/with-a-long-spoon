@@ -17,6 +17,9 @@ build/
 .env
 .wrangler/
 reviews/cold-read/.packets/
+# Rejected capture gates, kept on disk for diagnosis. A reader's reaction is
+# canon-adjacent record; a truncated response it never finished is not.
+reviews/capture-panel/*/dag/*/.failed/
 /chronology.html
 /chronology-reviews.html
 
