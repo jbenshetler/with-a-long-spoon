@@ -26,6 +26,18 @@ interchangeable:
 usually still fine; the question is always whether *this* surviving use leans on
 what the reader no longer has.
 
+**Rulings live in `orphan-allow.toml`** (this directory, versioned). The sweep
+re-derives from git on every run, so without it every dismissed candidate comes
+back forever. When the author rules a hit ordinary:
+`tools/orphan_refs.py --slugs <slug> --ack --fp <hash> --note "why"` (the hash
+is the `[#…]` tag). Same shape and rules as `na.py style --ack`: anchored to the
+line's *content*, so it survives reflow but re-arms if the line's wording
+changes; **only after the author signs off**. `--show-suppressed` re-shows,
+`--unack --fp <hash>` reverses. Entries for hits no longer flagged are kept on
+purpose — Lane B's thresholds let findings vanish and return — and are dropped
+only by an explicit `--prune-allow --yes`, which touches only the chapters
+scanned. A hit the author rules a *real* orphan is fixed in the prose, not acked.
+
 ## Sweeps
 
 | Date | Scope | Result | State |

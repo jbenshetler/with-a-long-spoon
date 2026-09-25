@@ -63,6 +63,15 @@ fi
 # judges. Note it inspects the LAST committed state of the staged files, so a
 # dangle introduced by the commit in progress surfaces on the next one — it is
 # a safety net for the class, not a gate on this diff.
+#
+# Run through the script's own shebang (`uv run --script`, Python >=3.11 pinned
+# in its PEP 723 block) — NOT `python3 tools/…`, which would bypass uv and run
+# the system interpreter. stderr stays silenced, so a missing uv would make the
+# warning vanish without a trace; say so instead.
 if printf '%s\n' "$staged" | grep -q '^scenes/.*\.md$'; then
-    python3 tools/orphan_refs.py --staged 2>/dev/null || true
+    if command -v uv >/dev/null 2>&1; then
+        tools/orphan_refs.py --staged 2>/dev/null || true
+    else
+        echo "pre-commit: orphan-refs check skipped — uv not installed" >&2
+    fi
 fi
