@@ -6,7 +6,7 @@
 
 In his bedroom he lifted the top off a table, revealing the bench it hid. He leaned the top against the wall and went to the kitchen to wait for her.
 
-The foyer was warm when she came in, the kind of even warmth he kept the house at because he liked being able to take his time without thinking about whether someone else was cold. He had left the front door unlocked for her. He heard it open, and then the deadbolt turn over as she locked it behind her — she always locked it behind her, first thing, before anything else — and he came through the kitchen to meet her. He did not call out to her, and she did not call out to him, and the small economy of two people who did not perform for each other settled across the house like a sheet being drawn. Steely Dan was going low under it all — that smooth sound, cool and unhurried, sliding through the front rooms.
+The foyer was warm when she came in, the even heat he kept the whole house at. He had left the front door unlocked for her. He heard it open, and then the deadbolt turn over as she locked it behind her — she always locked it behind her, first thing, before anything else — and he came through the kitchen to meet her. He did not call out to her, and she did not call out to him, and the small economy of two people who did not perform for each other settled across the house like a sheet being drawn. Steely Dan was going low under it all — that smooth sound, cool and unhurried, sliding through the front rooms.
 
 She came in past the kitchen and put her bag on the chair by the door — the small overnight bag, leather, monogrammed in a sorority hand, expensive in the quiet way her things were expensive, the money in the grain and the weight of it. Then she came into him and put her arms around him. He smelled her perfume, sharp citrus and something colder underneath. She pressed against him. He looked down at her face, which was tilted up at him with the slight perpetual surprise that her resting expression carried, the flat oval and the *startlingly* blue eyes. They were the first thing anyone noticed about her, and she had built her whole adult life around being looked at for them.
 
@@ -28,7 +28,7 @@ He put both hands on her then, properly, his palms moving slowly down her back t
 
 "It's not due until Thursday."
 
-She turned away from him and moved through his kitchen as she did every time.
+She turned away from him and moved through his kitchen as she did every time — a small kitchen in a small house, the white laminate counters plain and cheap, the shine long gone off them. Her eyes went over the counters and said nothing. What was good in the room he had built: the table, the two chairs that flanked it, the glass-fronted cabinet in quartersawn oak.
 
 He took the small bowl out of the refrigerator, the one he had sliced the apple into before she got there. The apple was a honeycrisp. He had sliced it thin because she would eat thin slices and would not eat thick ones, and he had laid the slices in the bowl with the cut sides up because he had noticed that she ate them faster when the cut sides showed.
 
