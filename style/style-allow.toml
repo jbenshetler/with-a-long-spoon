@@ -5513,6 +5513,13 @@ text = "He brought the hand around the front, sliding between the leg support an
 note = "Line-edit ruling 2026-08-04: keep 'registered the slick of her' — the paired second use was cut; this one stands"
 
 [[ok]]
+fp   = "53a026abff5a"
+rule = "register-verb"
+file = "scenes/the-bench.md"
+text = "He brought the hand around the front, sliding between the leg support and her body, and let his fingers travel up the inside of her thigh until the tips found the wetness — the slick heat of it, the small sound as his fingers parted the lips and registered the slick of her."
+note = "author ack 2026-09-26: re-armed by the scent-clause cut; 'registered the slick of her' stands"
+
+[[ok]]
 fp   = "0ed5e65adaaf"
 rule = "the-way"
 file = "scenes/the-bench.md"
