@@ -1,20 +1,28 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 421763aeb544 · 2026-09-26*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 30f62c11943b · 2026-09-26*
 
-REACTION — Oh, this book knows. That is my first and largest feeling: it knows exactly where the danger is, and it is not confusing Pace’s patience with omniscience.
+REACTION
 
-The scene got me physically—the apple slices, the deliberate waiting, the hand on her cheek, the check-ins, the unbearable precision of making her ask—but the turn afterward is what made the whole thing land. Because Pace does so much right. He gives her a safeword, checks her body, notices her responses, stops at the locked door, understands that tenderness does not entitle him to entry. And still he is catastrophically wrong about what happened. He thinks he uncovered her authentic self and fed a hunger she had freely brought him. Randi experiences that same uncovering as both the most alive she has ever been and an intolerable breach she must immediately bury. Neither fact cancels the other. That is exactly the kind of consent-and-power knot I came for.
+Oh. Oh, this is Randi.
 
-“There it was” chilled me even while it worked on me. His conviction that there is a *right* please—the one he will recognize as real—is intensely erotic and intensely alarming. He is not merely waiting for consent; he is engineering the emotional state in which she will give him the consent he wants, then treating the result as revelation. The chapter absolutely sees this. It lets me feel the seduction and then makes me watch the story Pace tells himself about it harden around a woman who has already disappeared behind her face.
+That reveal rearranged the whole chapter under me. I spent the first stretch thinking I was meeting Vee already deep into the relationship the jacket promised, and feeling almost embarrassingly reassured by Pace: the noticing, the apple slices, the pauses, the safeword check, the way he kept returning to her face and body rather than treating her as equipment. Then “There you are, Randi” landed, and suddenly I was watching the origin—or at least one crucial piece—of the woman who is later going to help engineer another young woman into his path. That is dark in exactly the way I came for.
 
-And Randi. Oh, Randi. The bathroom passage hurt. Her realization that being truly seen is more dangerous than being used explains so much already, including why the jacket’s glamorous manipulator might later choose to manage another woman’s awakening from safely beside the board. I’m now deeply suspicious that whatever she does to Vee will be tangled up with recreating this night from the protected position: architect instead of subject, watcher instead of the one begging. That does not absolve her in advance. It makes her frightening in a way I want to understand.
+And the book knows. Thank God, the book knows.
 
-The Daphne sentence also put a pin straight through Pace’s self-image. He has a history of mistaking love for permission, believes he learned the lesson, and yet he is still interpreting access as knowledge. The locked bathroom door is one boundary he respects because he can see it. Randi’s smile is a door he cannot see, and he walks right through it while congratulating himself on having found her.
+Because the scene itself could so easily have asked me to accept Pace’s interpretation as truth: that he patiently stripped away her performance and found the authentic woman underneath, therefore everything was beautiful and healing. But then we go into the bathroom with Randi, and his triumph becomes her terror. He genuinely thinks he fed her hunger; she experiences being seen that completely as something she must lock away from him forever. Neither experience cancels the other. She wanted it. She consented. She was profoundly moved by it. She was also changed in a way she did not understand and immediately began lying to protect herself. That distinction matters enormously to me.
 
-I would text a friend at 1 a.m.: “The consent is real, the manipulation is real, the pleasure is real, and the emotional disaster is already sitting between them disguised as aftercare. I’m in trouble.”
+I’m unsettled by Pace’s certainty that the broken, ugly plea was more truly hers than the polished plea. He may be right about the performance falling away, but he is still appointing himself the judge of which voice counts as her real one. “It was not the right please yet” made every alarm in me turn on. Not because edging or begging bothers me—it emphatically does not—but because he has privately defined the acceptable form of her consent and is conditioning the reward on reaching it. The scene gives me enough evidence that she genuinely wanted to continue, and he checks her safeword and physical condition, but emotional consent is where this book is sharpening the knife. He is not merely giving her what she asks for. He is designing an experience intended to produce a self she did not know she had, then reading the result as discovery rather than manufacture.
+
+And I believe he cares about her. That makes it worse and better and much more interesting. His care is attentive, practiced, sometimes beautiful. He respects the locked bathroom door because he once learned—apparently painfully—that love is not permission. Yet he does not recognize that the entire evening has been an entry into her interior life on terms he designed. He understands one kind of door and may be blind to another. The Daphne reference makes me think the book is absolutely aware of that contradiction.
+
+Randi putting the face back on while he sits outside feeling quietly pleased is devastating. He thinks his waiting is safety; she experiences his tenderness as the thing she cannot survive while exposed. And then she says yes to staying. Freely. While concealing the most important fact in the room. There it is: the jacket’s whole problem in miniature.
+
+Also, yes, the chapter was extremely hot for me until the emotional drop opened underneath it—and then it became more compelling than hot. The bench, the waiting, the alternation of impact and care, her directing his hands before later handing him the evening: all of that worked. But the image I’m carrying forward is not her on the bench. It is her rehearsing her smile in the mirror while he believes he has met her.
+
+My 1 a.m. text would be: “THE FIRST GIRL IS RANDI. She learned exactly how terrifying it is to be lovingly dismantled by this man, and apparently her eventual response is to help him do it to someone else. I am in trouble.”
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-ALMOST-STOPPED: none
-WHY: The heat pulled me in, but the devastating split between what Pace believes he gave Randi and what she believes she must now hide is what has me reaching for the next chapter. The book sees the problem with unnerving clarity, and I urgently want to know how this wounded, watchful Randi becomes the woman who helps plan Vee’s seduction.
+ALMOST-STOPPED: “But it was not the right *please* yet. It was still her *please*.”
+WHY: That line brought me right to the edge because Pace deciding which version of her plea is “real” is deeply controlling. The bathroom section proved the book sees the danger with unnerving precision, and the Randi reveal has me desperate to understand how this experience becomes the secret plan involving Vee.
