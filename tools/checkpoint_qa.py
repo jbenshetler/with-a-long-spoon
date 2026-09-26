@@ -155,7 +155,7 @@ def check_passes(text: str, check: dict) -> bool:
 
 def _panel_config() -> tuple[list[str], dict[str, str]]:
     config = (REPO / "reviews/cold-read/ensemble-config.toml").read_text()
-    section = re.search(r"\[panel\](.*?)(?=\n\[|\Z)", config, re.DOTALL)
+    section = re.search(r"^\[panel\](.*?)(?=\n\[|\Z)", config, re.DOTALL | re.MULTILINE)
     models_match = re.search(r"\bmodels\s*=\s*\[(.*?)\]", section.group(1), re.DOTALL) if section else None
     if not models_match:
         raise RuntimeError("active panel missing from ensemble-config.toml")

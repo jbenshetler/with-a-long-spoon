@@ -48,12 +48,9 @@ RETIRED_PERSONAS = ["dark-romance-control"]
 # so a bare --full never silently widens the run.
 ALL_PERSONAS = PERSONAS + ["queer-woman"] + RETIRED_PERSONAS
 ARMS = ("jacket", "cold")
-MODELS = ["claude-fable-5", "claude-opus-4-8", "gpt-5.6-sol", "gpt-5.5",
-          "kimi-k3", "glm-5.3-flash", "qwen3.8-max-0902", "deepseek-v4-pro-0813"]
-
-OPENROUTER_MODELS = dict(authorship_audit.OPENROUTER_MODELS)
-OPENROUTER_MODELS.setdefault("glm-5.3", "z-ai/glm-5.3")
-OPENROUTER_MODELS.setdefault("gemini-3.8-flash", "google/gemini-3.8-flash")
+import cold_read_config  # noqa: E402  (single roster)
+MODELS = list(cold_read_config.capture_models())
+OPENROUTER_MODELS = cold_read_config.openrouter_models()
 
 
 def system_prompt(persona: str, core_file: str = "core.md") -> tuple[str, str]:

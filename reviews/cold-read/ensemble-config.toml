@@ -1,5 +1,20 @@
 version = 1
 
+# ===========================================================================
+# THE SINGLE AUTHORITATIVE ROSTER for both blind instruments (author ruling
+# 2026-09-26). `[panel]` is the grounded cold-read panel; `[capture]` is the
+# capture-DAG roster. CLAUDE.md and the skill docs POINT here and must not
+# restate model lists — they drifted (the docs said glm-5.3-flash while this
+# file said glm-5.3, and a session ran the wrong model on their word). Print
+# the live rosters with `tools/cold_read_config.py`. Tools read these lists;
+# `capture_dag.py` refuses a model that is not in `[capture]` (retired ones
+# need --allow-retired).
+#
+# Lane is derived from the id: `claude-*` = headless Claude subscription OAuth;
+# `gpt-*` = codex subscription (gpt-6-sol needs CODEX_BIN, see its reader
+# block); anything with a `provider_model` = OpenRouter, paid, authorized per
+# run.
+# ===========================================================================
 [panel]
 models = [
   "claude-fable-5",
@@ -9,11 +24,36 @@ models = [
   "gpt-5.5",
   "kimi-k3",
   "glm-5.3",
-  "qwen3.8-max-0902",
   "deepseek-v4-pro-0813",
 ]
 fast = ["claude-opus-4-8", "gpt-5.6-sol"]
-retired = ["claude-sonnet-5", "gpt-5.6-terra"]
+# Retired from the cold panel. Reads on disk were erased 2026-09-26 (git history
+# keeps them); qwen cannot be routed under the quantization floor (its single
+# Alibaba endpoint reports `unknown`) and the floor stands.
+retired = ["claude-sonnet-5", "gpt-5.6-terra", "qwen3.8-max-0902", "glm-5.3-flash"]
+
+[capture]
+models = [
+  "claude-opus-4-8",
+  "claude-opus-5",
+  "gpt-5.6-sol",
+  "gpt-5.5",
+  "gpt-6-sol",
+  "glm-5.3",
+  "gemini-3.8-flash",
+]
+# Off the capture roster. `claude-fable-5` keeps its gates on disk as history
+# (author ruling 2026-09-26) but is not extended without being named; every
+# other retired model's gates were erased the same day. gpt-6-astra was a
+# one-day trial replaced by gpt-6-sol.
+retired = [
+  "claude-fable-5",
+  "deepseek-v4-pro-0813",
+  "qwen3.8-max-0902",
+  "kimi-k3",
+  "glm-5.3-flash",
+  "gpt-6-astra",
+]
 
 # ---------------------------------------------------------------------------
 # OpenRouter provider routing + per-use policy.
@@ -135,3 +175,17 @@ vendor = "openai"
 [[ensembles.core.sources]]
 model_id = "gpt-5.6-sol"
 vendor = "openai"
+
+[readers."kimi-k3"]
+vendor = "moonshot"
+provider_model = "moonshotai/kimi-k3"
+
+[readers."glm-5.3"]
+vendor = "zhipu"
+provider_model = "z-ai/glm-5.3"
+
+[readers."gpt-6-sol"]
+vendor = "openai"
+# Codex subscription lane. The openai-codex SDK's bundled codex binary (0.147.0)
+# rejects this id on a ChatGPT account; the installed CLI (>= 0.157.1) accepts
+# it. Run with CODEX_BIN=/path/to/codex (see tools/cold_read.py).

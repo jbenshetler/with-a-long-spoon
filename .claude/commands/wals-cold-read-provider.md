@@ -13,15 +13,11 @@ run. Malformed, truncated, provider-error, or reasoning-only output is invalid:
 archive diagnostics outside the review corpus and never write it as a reaction
 or checkpoint.
 
-The authoritative reader policies live in
-`reviews/cold-read/ensemble-config.toml`:
-
-| Output model id | OpenRouter model | Checkpoint |
-|---|---|---|
-| `kimi-k3` | `moonshotai/kimi-k3` | native |
-| `glm-5.3-flash` | `z-ai/glm-5.3-flash` | native |
-| `qwen3.8-max-0902` | `qwen/qwen3.8-max-0902` | `ensemble:core` donor |
-| `deepseek-v4-pro-0813` | `deepseek/deepseek-v4-pro-0813` | `ensemble:core` donor |
+The reader ids, their OpenRouter `provider_model`, and their checkpoint policy
+live only in `reviews/cold-read/ensemble-config.toml` (`[panel].models` filtered
+to reader blocks with a `provider_model`; `checkpoint_source = "ensemble:core"`
+marks a donor). Print the live roster with `tools/cold_read_config.py`. Do not
+restate the table here.
 
 ## Preconditions
 
@@ -33,9 +29,9 @@ The authoritative reader policies live in
    tools/cold_read_grounded.py --check --model-id <model-id> --scope <slug>
    ```
 
-   Kimi/GLM resolve to native checkpoints. Qwen/DeepSeek resolve to
+   Native readers resolve to native checkpoints. donor readers resolve to
    `reviews/cold-read/checkpoint-ensembles/core/checkpoints/ck-ch<B>.md`.
-4. For native Kimi/GLM gaps, mint separately at high effort. This is another
+4. For native Native readers gaps, mint separately at high effort. This is another
    paid OpenRouter call and requires its own specific authorization. Volume 1
    checkpoints are raw-prose mints. After Volume 1, seed every boundary from
    the frozen final native checkpoint of the prior volume and include all raw
@@ -53,7 +49,7 @@ The authoritative reader policies live in
    Extraction defaults to an 80k output cap and rejects incomplete,
    non-stopping, missing-section, or out-of-order output. Its provenance must
    pin the seed identity/hash and exact raw ch 51..60 fingerprint.
-5. Never mint Qwen/DeepSeek checkpoints. The extractor and grounded harness
+5. Never mint donor readers checkpoints. The extractor and grounded harness
    reject it. Validate their donor memory instead:
 
    ```
@@ -95,7 +91,7 @@ bold, never sibling `##` headings.
   ensemble, report it stale; do not spend a replacement call without explicit
   `--fresh` authorization.
 - Reviews are reactions, not canon.
-- Kimi/GLM native continuity signals are independent. Qwen/DeepSeek continuity
+- Native readers native continuity signals are independent. donor readers continuity
   assertions inherited only from the shared ensemble are correlated and count
   once; their reactions to the current raw window/chapter count independently.
 - Never write outside the canonical `<model-id>/` root. Experimental donor

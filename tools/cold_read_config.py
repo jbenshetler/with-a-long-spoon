@@ -30,6 +30,25 @@ def panel_models(*, fast: bool = False) -> tuple[str, ...]:
     return tuple(load_config()["panel"][key])
 
 
+def panel_retired() -> tuple[str, ...]:
+    return tuple(load_config()["panel"].get("retired", ()))
+
+
+def capture_models() -> tuple[str, ...]:
+    """The capture-DAG roster (`[capture].models`) — the single source of truth."""
+    return tuple(load_config()["capture"]["models"])
+
+
+def capture_retired() -> tuple[str, ...]:
+    return tuple(load_config()["capture"].get("retired", ()))
+
+
+def openrouter_models() -> dict[str, str]:
+    """model id -> OpenRouter provider model, for every reader block that declares one."""
+    readers = load_config().get("readers", {})
+    return {mid: s["provider_model"] for mid, s in readers.items() if s.get("provider_model")}
+
+
 def reader_settings(model_id: str) -> dict[str, Any]:
     readers = load_config().get("readers", {})
     direct = readers.get(model_id)
@@ -133,3 +152,12 @@ def checkpoint_provenance(model_id: str, boundary: int) -> str:
     if not digest:
         digest = hashlib.sha256(checkpoint_path(model_id, boundary).read_bytes()).hexdigest()
     return f"ensemble {name} ck-ch{boundary:03d}@{digest[:12]}"
+
+
+if __name__ == "__main__":  # `tools/cold_read_config.py` — print the live rosters
+    print("cold-read panel :", ", ".join(panel_models()))
+    print("  fast probe    :", ", ".join(panel_models(fast=True)))
+    print("  retired       :", ", ".join(panel_retired()))
+    print("capture roster  :", ", ".join(capture_models()))
+    print("  retired       :", ", ".join(capture_retired()))
+    print("openrouter map  :", ", ".join(f"{k}={v}" for k, v in openrouter_models().items()))

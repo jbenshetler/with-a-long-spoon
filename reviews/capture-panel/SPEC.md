@@ -514,10 +514,21 @@ sat permanently behind the rest of the panel, so every "catch the panel up to
 chapter N" scope carried ~24 calls of control catch-up for signal already banked.
 
 Enforced in `capture_dag.py`: removed from the default `PERSONAS`, listed in
-`RETIRED_PERSONAS`, and a run that names her **exits with an error**. She stays in
-`ALL_PERSONAS` so `--assemble` can still build her historical record, and **all
-existing gates, checkpoints and STOPPED markers are kept** — the stops are data.
-Reviving her needs explicit author approval.
+`RETIRED_PERSONAS`, and a run that names her **exits with an error**. Reviving her
+needs explicit author approval.
+
+**2026-09-26 — her data erased from the tree (author ruling).** Her gates,
+checkpoints and STOPPED markers under every `<model>/dag/dark-romance-control/`
+were deleted, along with every other off-roster model's capture directory except
+`claude-fable-5` (kept as history). Git history before that date holds the record;
+`--assemble` can no longer rebuild her. The findings above stand as recorded.
+
+**Rosters (same ruling).** The capture roster now lives ONLY in
+`reviews/cold-read/ensemble-config.toml` under `[capture]`, next to the cold-read
+`[panel]`. `capture_dag.py` refuses a model that is not listed there and needs
+`--allow-retired` for one in `[capture].retired`. Print the live rosters with
+`tools/cold_read_config.py`. This SPEC and the skill docs describe lanes and
+policy; they do not enumerate models.
 
 The default panel is now the three target readers: `romance-graduate`,
 `fsog-refugee`, `consent-sensitive`. `queer-woman` remains opt-in.

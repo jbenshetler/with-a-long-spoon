@@ -55,41 +55,27 @@ gates already on disk.
 
 ## Models
 
-Claude ids run headless on Claude subscription OAuth; `gpt-*` on codex
-subscription auth; everything in `capture_dag.OPENROUTER_MODELS` (`glm-5.3`,
-`glm-5.3-flash`, `gemini-3.8-flash`, `kimi-k3`, `qwen3.8-max-0902`,
-`deepseek-v4-pro-0813`) is **paid OpenRouter**.
+**The roster lives in one place: `reviews/cold-read/ensemble-config.toml`**
+under `[capture].models` (with `retired`), beside the cold-read `[panel]`. Print
+it with `tools/cold_read_config.py`. Do not restate the model list here or in
+`CLAUDE.md`. `capture_dag.py` enforces it: a model not in `[capture]` is
+refused, and one in `[capture].retired` needs `--allow-retired`, which you pass
+only when the author has named that model for the run.
 
-**Standing roster (author ruling 2026-09-14) — seven models:**
+Lane is derived from the id: `claude-*` headless on Claude subscription OAuth;
+`gpt-*` on codex subscription (`gpt-6-sol` needs `CODEX_BIN`, see its reader
+block); any id with a `provider_model` in its reader block is **paid
+OpenRouter**.
 
-| Model | Auth | Paid? |
-|---|---|---|
-| `claude-opus-4-8` | Claude subscription OAuth | no |
-| `claude-opus-5` | Claude subscription OAuth | no |
-| `gpt-5.6-sol` | codex subscription | no |
-| `gpt-5.5` | codex subscription | no |
-| `glm-5.3` | OpenRouter | **yes** |
-| `kimi-k3` | OpenRouter | **yes** |
-| `gemini-3.8-flash` | OpenRouter | **yes** |
-
-`claude-fable-5`, `deepseek-v4-pro-0813`, `glm-5.3-flash`, and
-`qwen3.8-max-0902` are **off the roster** — their gates stay on disk as history,
-but do not extend them without a specific request. Note `glm-5.3`, not
-`glm-5.3-flash`.
-
-**`claude-fable-5` is excluded by default from capture reads** (author ruling
-2026-09-14): the call is expensive, and `claude-opus-5` now covers that slot —
-it reads sharply enough to have found the `the-bench` blazon 4/4 on its first
-outing, which `claude-opus-4-8` never flagged. Do not add fable to a capture run
-unless the author names it. **This is scoped to the capture DAG only** — fable
-remains on the eight-model cold-read panel in `CLAUDE.md` and
-`reviews/cold-read/ensemble-config.toml`, which is a different instrument and a
-different roster.
+**`claude-fable-5` is retired from capture but its gates are kept** (author
+rulings 2026-09-14 and 2026-09-26): the call is expensive and `claude-opus-5`
+covers that slot. Every other retired model's capture directory was erased on
+2026-09-26. Fable stays on the cold-read panel, a different instrument.
 
 **Token rule (standing):** never launch an OpenRouter model without specific
-author authorization. Membership in the roster above is **not** that
-authorization — it says which models belong in a complete grid, not that any
-given run may spend. Ask per run.
+author authorization. Membership in the roster is **not** that authorization —
+it says which models belong in a complete grid, not that any given run may
+spend. Ask per run.
 
 ## Step 1 — Resolve the target chapter number
 

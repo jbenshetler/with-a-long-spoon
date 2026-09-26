@@ -16,29 +16,23 @@ for a new review; the chained archive lives frozen under
 `reviews/cold-read/<model-id>/chained/`. The shared file contract is
 `reviews/cold-read/SPEC.md` (Grounded read v3).
 
-## The panel (default: ALL EIGHT)
+## The panel
 
-The roster and memory policy are authoritative in
-`reviews/cold-read/ensemble-config.toml`.
+**The roster lives in one place: `reviews/cold-read/ensemble-config.toml`**
+(`[panel].models`, with `fast` and `retired`). Print it with
+`tools/cold_read_config.py`. Do not restate the model list here or in
+`CLAUDE.md` — the lists drifted once (2026-09-26) and a session ran the wrong
+model on their word. A run with no `--models` is the full panel; the fast probe
+is `[panel].fast`.
 
-| Model id | Lane | Checkpoint |
-|---|---|---|
-| `claude-fable-5` | headless Claude subscription | native |
-| `claude-opus-4-8` | headless Claude subscription | native |
-| `gpt-5.6-sol` | codex subscription | native |
-| `gpt-5.5` | codex subscription | native |
-| `kimi-k3` | OpenRouter (paid) | native |
-| `glm-5.3-flash` | OpenRouter (paid) | native |
-| `qwen3.8-max-0902` | OpenRouter (paid) | `ensemble:core` donor |
-| `deepseek-v4-pro-0813` | OpenRouter (paid) | `ensemble:core` donor |
-
-A run with no `--models` is the **full panel**. The **fast probe** is
-`claude-opus-4-8,gpt-5.6-sol`; both use subscription auth. `claude-sonnet-5`
-and `gpt-5.6-terra` are retired from the voting panel; Terra is the non-voting
-ensemble matcher. **Token rule (standing):** never launch Kimi, GLM, Qwen, or
-DeepSeek through OpenRouter, or use `--auth api-key`, without specific author
-authorization. Fable/Opus use Claude subscription OAuth; Sol/GPT-5.5 use
-codex subscription auth.
+Lane is derived from the id: `claude-*` runs headless on Claude subscription
+OAuth; `gpt-*` runs on codex subscription (a reader block may note extra needs,
+e.g. `CODEX_BIN` for `gpt-6-sol`); any id whose reader block has a
+`provider_model` is OpenRouter, **paid, and needs the author's authorization
+every run** (`--auth api-key` likewise). Checkpoint policy is per reader block:
+native minting unless `checkpoint_source = "ensemble:core"` marks a donor
+reader. Retired ids are listed under `retired`; their reads were erased from
+the tree on 2026-09-26 (git history keeps them).
 
 ## Step 1 — Resolve targets and preconditions
 
@@ -66,8 +60,9 @@ codex subscription auth.
    ```
 
    The checkpoint provenance must pin the seed identity/hash and exact raw
-   range fingerprint. Qwen and DeepSeek resolve to the same validated
-   `ensemble:core` artifact; they never mint native checkpoints. If a native
+   range fingerprint. Donor readers (`checkpoint_source = "ensemble:core"` in
+   their config block) resolve to the same validated `ensemble:core` artifact;
+   they never mint native checkpoints. If a native
    checkpoint is missing, STOP and report the separate high-effort mint. If
    the ensemble is missing or stale, STOP and run
    `tools/checkpoint_ensemble.py check --ensemble core --through B`; remint all
@@ -106,10 +101,10 @@ subagents; they inherit ambient project context.
 
 ## Step 3 — OpenRouter readers (author authorization required)
 
-Use `/wals-cold-read-provider` for Kimi, GLM, Qwen, and DeepSeek. Kimi and GLM
-use native checkpoints. Qwen and DeepSeek use the `core` ensemble checkpoint
-resolved by `--model-id`; never point either at another model's native
-checkpoint and never invoke native checkpoint extraction for them.
+Use `/wals-cold-read-provider` for every OpenRouter reader on the panel. Native
+readers mint their own checkpoints; donor readers use the `core` ensemble
+checkpoint resolved by `--model-id` — never point a donor at another model's
+native checkpoint and never invoke native checkpoint extraction for it.
 
 All readers run at low effort with an 18k output cap. Run independent readers
 and chapters concurrently only after the author has authorized the paid

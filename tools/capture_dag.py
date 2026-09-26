@@ -37,6 +37,7 @@ sys.path.insert(0, str(REPO / "tools"))
 
 import checkpoint_bundle  # noqa: E402
 import authorship_audit  # noqa: E402  (run_claude, CLAUDE_PREFIX)
+import cold_read_config  # noqa: E402  (rosters + OpenRouter map — the single source)
 
 PANEL_ROOT = REPO / "reviews" / "capture-panel"
 PROTOCOL = "capture-dag-v2-rich"
@@ -46,8 +47,9 @@ PERSONAS = ["romance-graduate", "fsog-refugee", "consent-sensitive"]
 # were the success condition. She has delivered it (opus STOPPED at ch021, sol at
 # ch006), and the lanes that didn't stop sat permanently behind, making every
 # "catch up to chapter N" scope cost more than the signal was worth. Do not run
-# her again. She stays in ALL_PERSONAS only so `--assemble` can still build the
-# historical record from the gates already on disk; her existing data is kept.
+# her again. She stays in ALL_PERSONAS so a run that names her fails loudly.
+# 2026-09-26: her gates, checkpoints and STOPPED markers were erased from the
+# tree (author ruling; git history keeps them), so --assemble no longer applies.
 RETIRED_PERSONAS = ["dark-romance-control"]
 # `queer-woman` is selectable but NOT in the default panel — opt in with
 # --personas, so a bare run never silently opens a fresh 70-chapter read on a
@@ -321,14 +323,8 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
     return f"{model_id}·{persona}: through ch{to_n}"
 
 
-OPENROUTER_MODELS = {
-    "kimi-k3": "moonshotai/kimi-k3",
-    "glm-5.3": "z-ai/glm-5.3",
-    "glm-5.3-flash": "z-ai/glm-5.3-flash",
-    "gemini-3.8-flash": "google/gemini-3.8-flash",
-    "qwen3.8-max-0902": "qwen/qwen3.8-max-0902",
-    "deepseek-v4-pro-0813": "deepseek/deepseek-v4-pro-0813",
-}
+# model id -> OpenRouter provider model, read from ensemble-config.toml reader blocks.
+OPENROUTER_MODELS = cold_read_config.openrouter_models()
 OR_MAX_OUTPUT = 16000   # checkpoint mints run ~3.6k visible; the rest is reasoning headroom
 OR_TIMEOUT = 900.0
 
@@ -397,7 +393,10 @@ def assemble(model_id: str, persona: str) -> Path:
 
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--models", nargs="+", required=True)
+    ap.add_argument("--models", nargs="+", required=True,
+                    help="capture roster ids from ensemble-config.toml [capture].models")
+    ap.add_argument("--allow-retired", action="store_true",
+                    help="permit a model listed in [capture].retired (an explicit author request)")
     ap.add_argument("--personas", nargs="*", default=PERSONAS, choices=ALL_PERSONAS)
     ap.add_argument("--to", type=int, default=N_CH)
     ap.add_argument("--effort", default="low")
@@ -416,13 +415,29 @@ def main() -> None:
                 print(assemble(m, p))
         return
 
-    # Retired personas stay assemble-able (above) but must not be run again.
+    # The roster lives in ensemble-config.toml [capture]; anything else is drift.
+    roster = set(cold_read_config.capture_models())
+    retired_models = set(cold_read_config.capture_retired())
+    unknown = [m for m in args.models if m not in roster and m not in retired_models]
+    if unknown:
+        raise SystemExit(
+            f"unknown capture model(s): {', '.join(unknown)}. Add them to "
+            "reviews/cold-read/ensemble-config.toml [capture].models first — that file "
+            "is the single roster for both instruments.")
+    off_roster = [m for m in args.models if m in retired_models]
+    if off_roster and not args.allow_retired:
+        raise SystemExit(
+            f"refusing to run retired capture model(s): {', '.join(off_roster)} "
+            "(ensemble-config.toml [capture].retired). Pass --allow-retired if the "
+            "author has named the model for this run.")
+
+    # Retired personas must not be run again.
     retired = [p for p in args.personas if p in RETIRED_PERSONAS]
     if retired:
         raise SystemExit(
             f"refusing to run retired persona(s): {', '.join(retired)}. "
-            "Retired by author ruling (see RETIRED_PERSONAS); existing gates are "
-            "kept and --assemble still works. Reviving one needs author approval.")
+            "Retired by author ruling (see RETIRED_PERSONAS); her gates were erased "
+            "2026-09-26. Reviving one needs author approval.")
 
     # Staleness is a warning, never a gate. A style edit to an early chapter must not
     # force a re-read of every downstream chapter; report the tiers and proceed.

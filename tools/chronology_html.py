@@ -38,7 +38,7 @@ from pathlib import Path
 
 def _panel_models() -> frozenset[str]:
     config = (Path(__file__).resolve().parent.parent / "reviews/cold-read/ensemble-config.toml").read_text()
-    section = re.search(r"\[panel\](.*?)(?=\n\[|\Z)", config, re.DOTALL)
+    section = re.search(r"^\[panel\](.*?)(?=\n\[|\Z)", config, re.DOTALL | re.MULTILINE)
     models = re.search(r"\bmodels\s*=\s*\[(.*?)\]", section.group(1), re.DOTALL) if section else None
     if not models:
         raise RuntimeError("cold-read panel roster missing from ensemble-config.toml")

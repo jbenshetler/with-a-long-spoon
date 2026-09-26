@@ -51,12 +51,11 @@ PILOT_SLUGS = ["the-bench", "a-round", "nothing-underneath",
                "water-wings", "one-bite", "two-towels"]
 PILOT_MODELS = ["claude-fable-5", "claude-opus-4-8", "gpt-5.6-sol", "gpt-5.5"]
 # OpenRouter lane — pay-per-token, author authorization required (token rule).
-OPENROUTER_MODELS = {
-    "kimi-k3": "moonshotai/kimi-k3",
-    "glm-5.3-flash": "z-ai/glm-5.3-flash",
-    "qwen3.8-max-0902": "qwen/qwen3.8-max-0902",
-    "deepseek-v4-pro-0813": "deepseek/deepseek-v4-pro-0813",
-}
+# The cold panel's OpenRouter members, read from ensemble-config.toml (the single
+# roster); never restate model ids here.
+import cold_read_config  # noqa: E402
+OPENROUTER_MODELS = {m: p for m, p in cold_read_config.openrouter_models().items()
+                     if m in cold_read_config.panel_models()}
 PANEL_MODELS = PILOT_MODELS + list(OPENROUTER_MODELS)
 
 

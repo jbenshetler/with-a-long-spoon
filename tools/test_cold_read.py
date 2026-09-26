@@ -752,14 +752,13 @@ class HarnessParsingTests(unittest.TestCase):
             "claude-opus-5",
             "kimi-k3",
             "glm-5.3",
-            "qwen3.8-max-0902",
             "deepseek-v4-pro-0813",
         }
         self.assertEqual(html.PANEL_MODELS, expected)
         self.assertEqual(augment.PANEL_MODELS, expected)
         active, _sources = qa._panel_config()
         self.assertEqual(set(active), expected)
-        self.assertIn("qwen3.8-max-0902", qa.discover_models(None, "read"))
+        self.assertIn("deepseek-v4-pro-0813", qa.discover_models(None, "read"))
         self.assertNotIn("claude-sonnet-5", qa.discover_models(None, "read"))
         checkpoint_models = qa.discover_models(None, "checkpoint")
         self.assertEqual(checkpoint_models.count("ensemble:core"), 1)

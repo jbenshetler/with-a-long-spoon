@@ -39,7 +39,6 @@ reviews/cold-read/
     <slug>.md                   ← one grounded read per scene reviewed
     checkpoints/ck-ch<NNN>.md   ← native grounded checkpoints, when policy permits
     oracle/                     ← oracle-interview transcripts (optional)
-    chained/                    ← ARCHIVE: the retired chained lane
 ```
 
 - **`<model-id>` = versioned model id**, verbatim as the folder name. Examples:
@@ -64,10 +63,13 @@ reviews/cold-read/
 One `##` section (no `## Carry-forward state` — there is no chain). `na.py` indexes
 `## Reader reaction`, so grounded reads are searchable via the reviews lane.
 
-> **The chained format (retired).** Files under `<model-id>/chained/` follow the old
-> two-section format (`## Reader reaction` + `## Carry-forward state`, header
-> `*… · read after: <predecessor>*`). The chained sections below are kept for reading
-> that archive; do not produce new files in that format.
+> **The chained format (retired; archive erased).** The chained lane's reviews
+> lived under `<model-id>/chained/` in the old two-section format (`## Reader
+> reaction` + `## Carry-forward state`, header `*… · read after: <predecessor>*`).
+> The archive was **erased from the tree on 2026-09-26** (author ruling: out-of-date
+> reads should not persist in the working tree; git history before that date keeps
+> them). The chained sections below remain only as a record of the format; do not
+> produce new files in it.
 
 ## Story order & scope
 
