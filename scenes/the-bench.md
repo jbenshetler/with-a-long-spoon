@@ -88,9 +88,9 @@ She was looking at the bench.
 
 The lamps were on. The top was leaning against the wall. The bench, which she had seen without seeing, was now bare. The leather, the fittings visible. She was reading a purpose she hadn't known was there.
 
-She started at the front, finding a face cradle first, a padded ring, the kind she'd rest her face into for a massage. Just past it, a shelf, shallow and padded, for the top of the chest. Familiar. The massage table again. Handholds she found next, out beyond the face cradle, at shoulder width. A massage table didn't have them. Holding those would stretch her long. Her hands closed on nothing. The open middle, where a surface should have been, where her body would go unsupported, where everything a surface usually covered would hang free. Past the gap the frame rose again to a padded support, angled, the highest point of the whole thing. For her hips.
+She started at the front, finding a face cradle first, a padded ring, the kind she'd rest her face into for a massage. Handholds she found next, out beyond the face cradle, at shoulder width. A massage table didn't have them. Holding those would stretch her long. Her hands closed on nothing. Behind the cradle, a place for her chest to rest, and then no place at all — an open middle where a surface should have been, where everything a surface usually covered would hang free. Past it the thing rose to meet her — where her hips would lie, the highest point of her, held up. Her knees would go out and down from there. Her head would be down.
 
-He knew what she was reading — he had built it. The frame peaked there — head down, legs down — and the leg rests on their pivots, angled out and down. Open, everything open. Her head went back, toward the ceiling. Her throat bared, she exhaled shakily.
+He knew what she was reading — he had built it. Open, everything open. Her head went back, toward the ceiling. Her throat bared, she exhaled shakily.
 
 She did not turn back to him.
 
@@ -178,9 +178,7 @@ It arrived. He let her have it for one more breath.
 
 Then he took her by the shoulders, gently, and walked her to the bench.
 
-He walked behind her. The lamplight fell across her back and shoulders and down over the long pale length of her, her skin taking the light the way oiled wood took it — warm, deep, alive at the surface. The small of her back carried the faint damp sheen from his earlier kisses. Across her ribs, the fading pink line from her bra band was still just visible, a ghost of the garment now folded on the chair. Her ass moved as she walked — the muscle working under the pale skin. Her feet in the heels made the small sharp sound of a woman who walked in heels the way other people walked in flat shoes — without thought, the weight falling where the weight was meant to fall.
-
-She walked ahead of him to the thing he had built, and he watched her walk, and the walk was part of what he was watching.
+He walked behind her. The lamplight fell across her back and shoulders and down over the long pale length of her, her skin taking the light the way oiled wood took it — warm, deep, alive at the surface. Her ass moved as she walked, the muscle working under the pale skin. Her feet in the heels made the small sharp sound of a woman who walked in heels the way other people walked in flat shoes — without thought, the weight falling where the weight was meant to fall.
 
 At the bench she stopped. Her eyes went to the bottom of the closet and stayed there. He knew she was looking for the toy box, the familiar thing down where it lived.
 
@@ -188,9 +186,9 @@ At the bench she stopped. Her eyes went to the bottom of the closet and stayed t
 
 She had to figure out how to climb onto it. He could see the slight unsteadiness in her — nerves, not something she would have chosen him to see — and he stepped close and put one hand to the small of her back, the other flat against her chest, and she leaned into the span between his hands and he brought her forward and down, controlled, until her chest met the shelf and her face settled into the cradle. He moved to her wrists then, light, one then the other, and placed her hands at the grips. She closed her fingers around the leather.
 
-The dark walnut against her pale skin. The smell of the bench rose faintly in the warm air: the mineral tang of the oiled wood, the dark hide-smell of the new leather warming under her body. She was on it now, still in heels — the small high arches lifted, the calves tightening, the line of her doing what a decade of dance had trained the line of her to do under pressure.
+The dark walnut against her pale skin. The smell of the bench rose faintly in the warm air: the mineral tang of the oiled wood, the dark hide-smell of the new leather warming under her body. She was on it now, still in heels — the small high arches lifted, the calves tightening, the line of her doing what a decade of dance and cheer had trained the line of her to do under pressure.
 
-He watched her hands settle into the grips — the whisper of skin on leather, the delicate knuckles whitening and then relaxing. Her knees found the leg supports. Her hips settled onto the pelvis support, her torso bridging the gap between them, unsupported, her breasts taking their own weight in the open air as she found the load. He watched her feel it: the shallowness of the shelf, the nothing under her. Her thighs parted as the leg supports took her weight, and each small adjustment told him what her body was learning about the position. Her ass — pale, bare, years of cheer written into the muscle of it — clenched and released as she searched for the position, the small involuntary tightenings of a body that did not yet know how to be still under what was about to happen to it.
+He watched her hands settle into the grips — the whisper of skin on leather, the delicate knuckles whitening and then relaxing. Her knees found the leg supports. Her hips settled onto the pelvis support, her torso bridging the gap between them, unsupported, her breasts taking their own weight in the open air as she found the load. He watched her feel it: the shallowness of the shelf, the nothing under her. Her thighs parted as the leg supports took her weight, and each small adjustment told him what her body was learning about the position. Her ass — pale, bare — clenched and released as she searched for the position, the small involuntary tightenings of a body that did not yet know how to be still under what was about to happen to it.
 
 He adjusted the leg supports. The mechanisms had been his own design — well-oiled, silent, each piece moving under his hand with the precision of the thing he had made it to have. He widened them slowly until her thighs were apart enough that he could see all of her. The cleft between her legs opened, and the scent of her began to reach him, unmistakable, the sea in it. She made a sound.
 
