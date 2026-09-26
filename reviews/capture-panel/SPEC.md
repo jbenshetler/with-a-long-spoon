@@ -704,6 +704,74 @@ established base rate. It became a **finding** only when `claude-opus-4-8` and
 `glm-5.3` landed independently nearby. Four personas on one model is one
 vendor's opinion, however unanimous.
 
+### Most quoted moments are hover-and-resolve, not near-misses (measured 2026-09-25)
+
+The section above corrects *comparing counts across models*. This corrects what
+the count **is**. They compound: the `exits` column is both incomparable across
+lanes and, within a lane, mostly not counting what its name says.
+
+**ALMOST-STOPPED is a LOCATION. The WHY carries the VERDICT.** The field records
+where a reader's attention snagged; whether the snag survived is in the next
+field. Reading the field alone inverts the meaning of the commonest case. The
+worked example is `peekaboo` (ch021), `claude-fable-5`·consent-sensitive:
+
+    ALMOST-STOPPED: "...It just felt like what she was for." — I hovered there,
+                    checking whether the book knew what it had just said.
+    WHY:            It knew — ... "getting away with something" closes the
+                    chapter with the irony fully loaded.
+
+That reader is reporting that the chapter **passed a test she set it**. Counted
+as an exit, it reads as a defect. `claude-opus-4-8` on the same chapter shows
+the identical shape: *"nearly tipped from tension into the book endorsing the
+leash. It didn't, because 'getting away with something' hangs the irony out for
+me to see."*
+
+**How the two classes differ.** A hover-and-resolve is a fear that **the book
+endorses** something, answered in the WHY — and readers phrase that answer in
+unboundedly many ways (*"It doesn't want me to cheer"*, *"it scared me because
+the book knows it should"*, *"the chill, not a quit, but a lean-back"*, *"not
+because the book failed"*). A genuine near-miss is about **the reader's own
+attention failing**, and it persists into the WHY: attention sliding, a thumb
+slowing, a device turning into a treadmill, a retread, patience running out, a
+conditional threat to quit. The second class is narrow and repetitive; the first
+is not. That asymmetry is why the tool defaults to *resolved* and promotes only
+on persistence markers — the errors then land in the small bucket a human can
+actually read.
+
+**Instrument:** `tools/almost_stopped_audit.py` (deterministic, free).
+`--list standing` dumps the bucket to read; `--sample N` prints a fixed random
+subset for hand-labelling.
+
+**Measured.** 574 non-`none` entries across 1,616 gates. A hand-labelled random
+sample of 20 came out **17 resolved / 3 standing (~85%)**; the tool reports 89%
+corpus-wide, agrees with the hand labels **18/20**, catches **3 of 3** genuine
+standing complaints, and its 2 false positives are both `dark-romance-control` —
+the retired persona whose *design* was to hunt for the exit, so her vocabulary
+is full of quit-threat language that then resolves. Her lane is excluded from
+exit counts anyway (see rule above).
+
+**The actionable set is small.** Dropping `dark-romance-control`: **459 quoted
+moments across the live personas, 37 standing (92% resolved).** Thirty-seven
+candidate near-misses for the entire book across six models — a list a human can
+read in one sitting, which is the point of the split. `--list standing` prints
+it.
+
+**Caveat, stated plainly:** n=20, one labeller. Treat 85–89% as the order of
+magnitude, not a constant, and re-measure before leaning on a precise figure.
+
+### What changes
+
+- **Never cite an `exits` count as "times this reader nearly stopped."** It is
+  "times this reader named a moment." Roughly one in six is a genuine near-miss.
+- **Before acting on an almost-stop, read its WHY.** If the WHY affirms the
+  book, the entry is a *receipt that the chapter works under pressure* — the
+  most useful thing the instrument produces, and the opposite of a defect.
+- **The convergence test in rule 4 applies to the STANDING class only.** Five
+  readers hovering at the same line and all resolving it is not convergent
+  friction; it is five readers confirming the same beat lands. `peekaboo:99` is
+  the worked case — 17 gates across 6 models quote it, and it is the chapter's
+  strongest line, not its weakest.
+
 ## `queer-woman` deprecated as a tuning target (author ruling 2026-09-14)
 
 **Not retired — deprecated as an objective.** Unlike `dark-romance-control` she

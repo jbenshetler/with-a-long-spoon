@@ -1,3 +1,46 @@
+# Triage — Peekaboo (reader-convergence finding, 2026-09-25)
+
+Source: the capture panel and cold-read corpus, not an audit tool — 17 capture
+gates across 6 models and 5 personas quote one line, plus 5 cold reads. It is
+the most-quoted line in the chapter.
+
+## Load-bearing pair — do not thin either line
+
+**`:99` "It just felt like what she was for." and `:101` "getting away with
+something" work as a pair. Neither survives alone.**
+
+`:99` states the danger in Vee's own triumphant voice with no narrator
+distance. That is what makes it land and what makes it risky: on the page it
+is her arc paying off, and under the concealed frame she was pointed at on a
+quad and chosen *for* something. `:101` restores the reader's ironic footing
+two lines later.
+
+Readers name the mechanism explicitly, and the consent-vigilant ones are the
+proof — they are the only readers who register a tip, and `:101` is by name
+what pulls them back:
+
+- `claude-opus-4-8`·consent-sensitive: "the closest thing to a flinch was 'It
+  just felt like what she was for,' which nearly tipped from tension into the
+  book endorsing the leash. **It didn't, because 'getting away with something'
+  hangs the irony out for me to see.**"
+- `claude-fable-5`·consent-sensitive: ALMOST-STOPPED at :99, resolved in the
+  same gate — "**It knew** — 'what she was for' sits inside a daydream the
+  prose frames as intoxication, and 'getting away with something' closes the
+  chapter with the irony fully loaded."
+- `claude-fable-5`·fsog-refugee: "'Getting away with something.' Baby girl.
+  **You are the something.**"
+- `glm-5.3`·romance-graduate: "either the whole liberation arc landing or the
+  trap snapping shut with her smiling inside it."
+- `gpt-5.6-sol`·consent-sensitive: ":99 put a little ice under the happiness."
+
+**This validates the withdrawal already on record below** (line-edit pass
+2026-08-07: the `:69`/now-`:101` "getting away with something" finding was
+*withdrawn*, not merely left standing). That phrase is the safety catch on
+:99, not a soft or redundant ending. Do not trim it, and do not add narrator
+distance to :99 — the absence of distance is the mechanism.
+
+---
+
 # Triage — Peekaboo (line-audit pass, 2026-08-01)
 
 Source: `audits/line-audit/peekaboo.md`, reviewed with the author.
