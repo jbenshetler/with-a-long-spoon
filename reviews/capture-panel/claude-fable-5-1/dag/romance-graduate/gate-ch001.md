@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch001 · claude-fable-5-1 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 421763aeb544 · 2026-09-26*
+
+REACTION
+
+Okay. Okay. I did not expect to be on page one with a man taking the top off a table and I want to say, for the record, thank you. No throat-clearing, no meet-cute at a coffee cart, no "she had never noticed how green his eyes were." A woman walks in, locks the deadbolt behind her first thing, and the book tells me *she always does that* — and I filed it without knowing I was filing it, and then forty minutes later the bathroom lock turns over and the whole chapter snaps shut around that sound. That's a writer who knows what she's doing with me.
+
+The apple. God, the apple. Thin slices, cut side up because she eats them faster that way — I actually put the Kindle down for a second. I have read a thousand men who "notice everything about her" and it's always her laugh or her lip-bite. This man clocked her eating disorder and is quietly feeding her around it and is *sorry about it.* "Apples were permitted." That sentence did more to me than most full sex scenes do. And then she's straddling him eating apple and kissing him with it in her mouth and I was completely, totally gone. The hands going up her sides and turning back before her breasts every time — I *felt* that in my own ribs. When she finally grabs his hands and puts them on her herself, that's the most honest thing I've read a woman do in a kitchen in years.
+
+And the heat is *real* heat. Not coy, not clinical. The edging is done with actual patience — I've read so many "edging" scenes that are two paragraphs of "he denied her again and again" and this one made me sit in the waiting with her, the shoulders climbing a quarter inch, the not-releasing between strokes. The wet fingers laid flat on her spine, "her own heat, returned to her in the wrong place" — that is a sentence I'm going to think about in the shower. And the *please* thing. Him listening to the difference between a waiter-please and a real one and saying *no* to the wrong one. I've seen "beg for it" in hundreds of books and it has never once been about the *quality* of the begging. This was.
+
+Then: "There you are, Randi."
+
+I actually said "wait" out loud. I had this whole chapter filed as Vee — sorority, twenty-one, the blue eyes, the girl from the jacket — and it's *Randi*. The glamorous friend. The one who's going to steer Vee to him. So the book just showed me, before I've met the heroine, the exact night the woman-who-plans-things got taken apart and decided *not ever*. "Quiet as a deadbolt going over." She's going back behind the face and she's not coming out — and I already know from the jacket what she does instead, which is find a girl who *can* come out and hand her to him. Is that what this is? Is Vee a stand-in Randi can watch being seen because she can't bear to be? That's so much darker and so much more interesting than anything I've read this year and I'm a little scared of how much I want it.
+
+The bathroom section is the thing I'd screenshot for the group chat. "The face was not her, and what was not her could be given away all day and cost nothing." I *know* that girl. I have been that girl. And the thumbnail into the bottle cap, slow and steady where it would hurt, and she doesn't know she's doing it — small, awful, exactly right. Meanwhile he's out there thinking it was a remarkably good evening and deciding between "stay" and "dinner first." That gap between what he thinks happened and what actually happened is the whole book, isn't it. The blurb said "ahead of her from the start" and I thought it meant ahead of Vee. It means ahead of everyone.
+
+What turned me on: the whole middle, honestly, but specifically him staying hard the entire night and setting it down like a fact — "that's not what this night was for." I have never once read a man do that and it was hotter than if he'd fucked her. What made me suspicious: he's a *little* perfect. The water bottle, the blanket, the silent-mechanism bench he designed, the Daphne wound that taught him exactly the right lesson. If he stays a man who is never wrong I'll get tired of him. But the "I heard myself want to hear it again" line — him hitting her to hear the sound *for himself* — that's a crack, and I'm hanging onto it. What scared me: "You're beautiful," and she flinches. I didn't expect to feel that in my own chest.
+
+Small gripes, because I'm me: the spec-sheet on the bench went on a beat too long, there's a lot of "ass" in a row, and "the sea in it" is one whiff too many. Don't care. The chapter earned all of it.
+
+GATE 1 — The Bench
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: "Handholds she found next, out beyond the face cradle, at shoulder width. A massage table didn't have them." — a flicker of *am I reading a furniture listing* before it turned into her reading her own body's future and I forgot I'd blinked.
+WHY: It opened with heat that was actually *about* something, gave me a woman's interior I recognized in my own ribs, and then pulled the name out from under me so the whole thing recut itself into a setup for something colder. I need to meet Vee now, knowing what Randi's carrying into that first lunch.

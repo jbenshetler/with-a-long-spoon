@@ -1,22 +1,18 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 8d71b32196ef · 2026-09-26*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 421763aeb544 · 2026-09-26*
 
-REACTION
+REACTION — Oh, this is nasty in exactly the way the jacket promised, because I spent most of that scene thinking I was watching Vee—and then: *“There you are, Randi.”* Excuse me. I actually had to stop. So this is the woman who is going to smile over lunch while Vee tells her everything. This is what she and Pace already are to each other. And now I understand, bodily, how dangerous they could be together.
 
-Oh. Oh, this is vicious.
+The bench scene was extremely hot, but the part that got under my skin was his patience. The apple sliced the way she’ll eat it. Backing off from the first kiss so she has to return. Waiting past the polished *please* until the real voice comes out. Even his decision that his own orgasm is irrelevant tonight. That is so much more effective on me than another growling alpha whose entire personality is “mine.” Pace pays attention. Unfortunately, this chapter also showed exactly how attention can become a weapon when the person using it mistakes perception for complete knowledge.
 
-I spent almost the entire chapter thinking I was meeting Vee through Pace’s eyes, and then “There you are, Randi” landed like the floor disappearing. I actually had to go back and check the jacket. So this is the glamorous friend before she becomes the glamorous friend—the woman who will eventually help him draw Vee into this, already locking away the part of herself he reached. That changes the whole promised seduction. Whatever game they later make of Vee is apparently growing out of this wound between them, and now I desperately need to know how.
+Because my God, he gets her open and then understands almost none of what happens afterward. He thinks the tears mean arrival. He thinks the silence means rest. He thinks she has finally let herself be fed while she is, inches away, constructing the face that will keep him out forever. That bathroom section hurt. The flinch at “You’re beautiful” hurt worse than the spanking, and him respecting the locked door somehow made it worse still: he is trying so carefully to be good, and he still cannot see that she has experienced his tenderness as an intolerable exposure.
 
-The heat absolutely worked for me because it wasn’t interchangeable spanking-scene choreography. The apple slices got me almost more than the bench did: he has noticed the exact shape in which she permits herself to be hungry. That is intimacy so specific it feels both loving and dangerous. And the waiting—the way he keeps refusing to rush past her performance to the orgasm—made the scene feel genuinely exposing. “It was still her please” is such an unnerving thought for him to have, but the chapter earns the distinction. I understood exactly what he was listening for, and when the other voice finally came out, I felt the release.
+And Randi—oh, I am already fascinated by her. The gorgeous, controlled woman the jacket sold me as Vee’s glamorous guide is apparently holding herself together with a facial expression and spite. She has just discovered that being truly seen is both the most ecstatic thing she has ever felt and something she may never forgive Pace for giving her. Now she is going to help aim this man at another hungry twenty-one-year-old? That is not a cute little matchmaking scheme. Whatever her reasons are, they are going to be psychologically radioactive.
 
-And then the bathroom scene turned everything inside out. Pace believes he has freed and fed her; Randi experiences the same tenderness as a threat to the entire structure that keeps her safe. Neither reading feels fake. That is the grown-up psychological trouble I keep wanting erotic books to risk: not “was consent technically obtained?”—it plainly was—but what happens when a freely chosen experience reveals something you cannot bear to know about yourself. Her deciding he can have the face but never her again hurt far more than I expected in a first chapter.
-
-I’m wary of Pace, but not in the lazy dark-romance way where the book calls control devotion and hopes I won’t notice. He is observant, patient, careful about her word, and capable of respecting the locked bathroom door because he once failed someone named Daphne. He also takes a warm private pleasure in having pushed Randi further than expected and completely misreads the silence afterward. That combination is much more interesting—and much scarier—than a stock alpha. He sees extraordinarily well, except where believing himself tender keeps him from seeing.
-
-Text to a friend at 1 a.m.: “The first chapter is an entire explicit BDSM scene about a woman being genuinely seen once and immediately deciding never to let it happen again, and THEN you realize she isn’t even the heroine on the jacket.”
+Also, yes, thank you: explicit sex that actually changes the meaning of a person while it is happening. The heat and the interior life are the same thing here. I’m not being asked to pause the story for a sex scene; the sex scene is where the catastrophe occurs. I would text a friend at 1 a.m.: “The perfect beautiful accomplice is secretly the most emotionally endangered person in the book, and her boyfriend thinks they had a lovely night. I’m unwell.”
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: This gave me the heat, specificity, and emotional damage I was promised, then revealed that the apparent beginning is actually the hidden origin story of the jacket’s conspiracy. I need to know how Randi goes from silently locking herself away from Pace to helping him invite Vee in.
+WHY: That name reveal snapped the entire chapter into a new shape, and the bathroom aftermath made the heat emotionally consequential instead of merely decorative. I need to meet Vee now—and I desperately need to know why Randi would invite her into the one place where Randi herself has already been broken open.

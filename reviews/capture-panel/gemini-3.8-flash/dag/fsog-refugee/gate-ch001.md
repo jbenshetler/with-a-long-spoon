@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch001 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 8d71b32196ef · 2026-09-26*
+*capture-dag-v2-rich · gate ch001 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 421763aeb544 · 2026-09-26*
 
-REACTION:
+REACTION
 
-Oh, *wow*. Wow. My chest is actually tight.
+Wait. *Wait.*
 
-I went into this expecting Vivienne—because the jacket talks about Vee walking into their path, right?—so the entire time they were in the kitchen with the apple and the quiet intimacy, I thought I was watching the heroine. Pace slicing the apple thin because he *notices* her, because he knows her mother lives on egg whites and her sorority polices her body—God, that tenderness. The way he backs off to let her choose the kiss. The way he gets hard and just holds it without making it a demand or an imposition: *“That’s not what this night was for.”* That is so rare in this genre it made my throat ache. That’s the exact man I’ve been looking for. He checks her safeword, he checks her joints, he gives aftercare, he respects a locked door because of an old scar with a girl named Daphne. The dominance is absolute, but the care is totally woven into it.
+"There you are, Randi."
 
-And then he whispers, *"There you are, Randi."*
+I had to put my hand flat over the page and just stare at my wall for two full minutes. The blurb had me primed for Vee—I was reading this whole, incredibly intense, meticulous scene thinking, *Okay, here is Vee crossing over into Pace's world, here's the girl who starves herself and the man who feeds her.* And the entire time, it was Randi. The "glamorous new friend." The architect of the game from the jacket copy.
 
-I literally gasped out loud. The blurb! Randi is the *friend*. Randi is the glamorous woman who steers Vee toward Pace, the one planning "the best year of her life." And seeing that this whole dynamic started here—that Randi is terrified of how deeply Pace unmade her, that she felt *seen* in a way that stripped her raw, and her immediate defense mechanism in the bathroom is to lock that door inside herself and never let him see her again...
+And she didn't just have a kinky night—she came completely undone.
 
-*“She was going to have to figure out what she was going to do about this.”*
+The heat in this was off the charts, but not because of the mechanics (though Pace building that bench with the open center and the pelvic rise is dangerously hot). It was hot because Pace was *paying attention*. The apple slices cut thin because she won't eat thick ones. Checking her neck for tension. Giving her the safeword and telling her she can use it anytime and he won't be mad. Backing off the kisses to let her set the pace, until she chooses to lean in harder. That is the exact combination I have been dying for: a man who is utterly dominant, commanding, capable of giving a real, blistering spanking, but whose dominance is made of *care* and absolute presence. He isn't rushing her to get his rocks off—he literally ends the night still hard and just lets it sit because "that's not what this night was for." God.
 
-Holy shit. That’s the game. That’s where the "plan" comes from, isn't it? She can't bear being the one on that bench, being that vulnerable, but she wants to keep him, or watch it, or triangulate it with Vee. It’s brilliant, it’s psychologically devastating, and it’s scorching hot without sacrificing a single shred of actual consent or character depth. I am completely hooked.
+And then the turn in the bathroom. The psychological autopsy of what just happened.
 
-***
+Randi wasn't just having fun; she was cracked open to the bone. That line about how she can give away the face all day and it costs nothing, but he looked past the face and found *her*—and now she's terrified. She's putting the mask back on, locking the door, smoothing her hair, determined to never let him see that real, begging, needy person again. And the blurb told us: *Two people have planned the best year of her life... it began as a game between the two people now closest to her.*
+
+Is this where the game comes from? Is Randi going to bring Vee to him because she *can't bear* to be the one who gets broken open like this? To deflect his gaze? To keep him close without having to be the one on the bench?
+
+If so, that is twisted, brilliant, and deeply tragic. I am hooked. Completely and entirely hooked.
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The twist of revealing this was Randi completely floored me, and Pace’s brand of tender, hyper-observant, unhurried control is the exact thing I have spent years looking for on these shelves. I need the next chapter right now.
+WHY: The dominance was soaked in absolute attentiveness and real consent, and that ending twist revealing she was Randi—and utterly terrified of how deeply he saw her—set the hook so deep I couldn't stop if I tried.

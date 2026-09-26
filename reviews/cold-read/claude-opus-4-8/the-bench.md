@@ -4,40 +4,42 @@
 
 ## Reader reaction
 
-**Felt read**
-
-I came in braced by the jacket to meet Vee, and instead the whole chapter is Pace and a woman I don't name until the last beat — *"There you are, Randi."* That withholding did real work on me: I read the entire scene as intimate boyfriend-and-girlfriend tenderness, and only at the reveal did I feel the floor tilt. This is one of the two people who supposedly *planned* the game, and the chapter's whole argument is that the game got real on her, not just him. That recontextualizes the sweetness into something colder and sadder, retroactively.
-
-The erotic charge is high and it's the good kind of high — patience rendered as heat. The apple slices "cut sides up because he had noticed she ate them faster," the three passes up her ribs that keep turning back before they arrive, "*Doing what?* he said, and did it again" — I melted at that. The bench sequence is genuinely hot because the wanting is the subject: the edging, the withheld *please*, "Not yet," the slow architecture of need. It peaked for me not at the orgasm but at the *pleases* — the shift from the waiter-voice *please* to the one that "came from below." That's a precise, expensive piece of writing and it landed on me bodily.
-
-But here's where the chapter earned its unease, and earned it honestly: the bathroom. Randi's interior — "Nothing happened to her. That was what the face was for" — is the best thing in the chapter and it broke the swoon on purpose. The aliveness came "from being seen," and being seen is the one thing she cannot survive, so she decides, "quiet as a deadbolt going over — not ever," to go back behind the face. That's devastating. And Pace, tender and self-congratulating, reads it as hunger answered, "All he had done was find it, and answer it." He's inside her body and nowhere near her mind. The gap between his warm certainty and her locked door is the actual horror, and it's played without a thumb on the scale.
-
-Two small clinical details snagged me and won't let go — good snags, not friction. The water-bottle cap pressed "under her thumbnail... where it would hurt," and the earlier apple-anxiety, the egg-white mother, the sorority "built to the one scale." This woman is hurting herself in tiny governed ways and portioning her own appetite, and the book *sees* it while Pace half-sees it. That's the "psychologically merciless" the jacket promised, and it's real.
-
-Where I feel friction: the POV occasionally over-narrates Pace's expertise into near-hagiography — "the mechanisms had been his own design... the precision of the thing he had made it to have," the *Daphne* backstory arriving as a tidy lesson ("A closed door was hers, not his"). It flatters him a hair too much; I trust the chapter more when it lets his blindness show than when it credits his wisdom. And I clocked a faint authorial insistence in the repeated "*hers*" italics — effective the first two times, slightly hammered by the fifth.
-
-Trust vs. suspicion: I have active, earned suspicion of Pace — not of his gentleness, which reads as sincere, but of what he doesn't know he's doing. The jacket told me there's a plan; this chapter shows a planner who's lost the thread of his own scheme inside genuine feeling. That's unsettling in the right way. Randi I don't distrust — I ache for her. Her decision to weaponize the face against the one person who found her under it is the saddest kind of self-protection.
-
-**The title.** "The Bench" is the object and the engine — a table that hides its purpose, "which she had seen without seeing," a thing that looks like furniture and is an instrument. That's the whole book in a prop: the disguised apparatus, the invitation that was already there before she knew. The last paragraph makes it explicit — tomorrow the top goes back on and "it would sit there in the middle of the room, full of what it was... waiting for the next time." Chilling and perfect; the title pointed straight at the machinery without giving away the emotional turn.
-
-**The volume/series titles.** *With a Long Spoon* — "he who sups with the devil needs a long spoon." So the series name announces that someone here is the devil and someone is being supped with, and the long spoon is the safe distance nobody's actually keeping. *A Polite Invitation* and "A Polite Invitation" on the cover board, plus the closing blurb line "Every yes was freely given. That was the problem." — after this chapter that promise reads darker: the courtliness, the safeword, the *tell me your word* — all real consent, all freely given, and that's precisely what makes it a trap rather than absolving it. The tagline isn't on the front (the packet says so). The jacket's "psychologically merciless in its tenderness" is exactly what I just felt.
-
-**What I want next:** I want Vee, obviously — the girl the jacket centers, still entirely offstage. I want to know what Randi and Pace planned, and I dread watching it run on someone who *doesn't* have a face to hide behind the way Randi does. *Guess from here:* Randi is the recruiter, Pace the instrument, and Vee the target — and this chapter is showing me that the mechanism already caught one of its own makers.
+Everything here was inline — no packet id — so here is my reaction.
 
 ---
 
-**Cast present (in person):** Pace (Peter), Randi (Miranda). Mentioned only: Brooke, Daphne, Randi's mother.
+**The felt read**
 
-**Heat:** 3 — sustained, patient edging where withheld wanting is the whole scene; it burned.
+The jacket told me to expect Vee, and the chapter handed me someone else entirely. This is Pace and a woman I take, by the last movement, to be Randi — the "startlingly blue eyes," the black hair, and then flatly, *"There you are, Randi."* So the very first thing this book does is quietly correct the blurb: the glamorous friend who's supposed to be steering Vee toward Pace is already *in Pace's bed*, already deep in a practiced kink dynamic with him. That reframing landed hard and cold on me, and I think it's meant to. I walked in braced for a naïf's awakening and got, instead, the architects — one of them, anyway, coming apart on the thing the other one built.
 
-**Romance:** 2 — real tenderness on the surface (aftercare, "you're beautiful," "stay tonight"), but the chapter's own turn undercuts it into something one-sided.
+The craft of the seduction is genuinely, dangerously good, and I let it work on me before I clocked what it was doing. The apple sliced thin, cut-sides up because he'd *noticed she eats them faster that way*; the bite-kiss-bite game; his hands rising along her sides and turning back before they arrive — "You're doing that on purpose." That teasing withholding is the hottest engine in the chapter, and the bench scene sustains it: edge, stop, soothe, strike, "Not yet." The heat peaked for me not at any explicit beat but at the *voice change* — when the performed sorority-house *please* finally drops into "the *please* of a woman who needed something." That's the erotic thesis of the scene made audible, and it genuinely got me.
 
-**Motifs & images:** The bench/disguised table (first, central). The apple sliced thin, appetite policed (first — ties to mother's egg whites, sorority scale). The face vs. the self — "the face was for" (first, load-bearing). Locking doors: she locks the front deadbolt first thing; the bathroom lock she'd never turned before; the "deadbolt going over" of her decision; "a key turning in a lock." Blue eyes / blue toenail polish as the one out-of-line thing. The repeated "Hi"/"Hi" exchange, warm then hollowed by the end.
+And then the chapter turned the temperature on me, deliberately. The tell is small and awful: in the aftercare, holding the water bottle, she "set the sharp inner edge of it under her thumbnail and pressed... where it would hurt. She did not seem to know she was doing it." That's when the swoon curdled. Then the flinch at "You're beautiful," the locked bathroom door — which "was not a thing she had ever done before in his house" — and the mirror monologue. The reveal that the aliveness *terrified* her, that "the face" is her whole defense, and the quiet deadbolt-decision: "not ever. He could have the face." That's a genuinely bleak, precise piece of interior work, and I trust it because the page earned every inch. She didn't have a happy revelation; she had one she's going to bury.
 
-**Symbolism:** The bench = the concealed apparatus of the whole enterprise, furniture by day. The locked bathroom door = the boundary Pace vows to respect while being wholly unaware of the larger one he's crossing. The face = performed self as armor.
+Pace is where my unease pools. He's rendered as the ideal: patient, exact, checks the safeword, respects the locked door. But the *reason* he respects it — Daphne, whom he once violated by "going in where he had not been asked" — recasts his restraint as learned technique, not innate tenderness, and the final image of him "quietly happy," misreading her retreat as rest, thinking "all he had done was find it, and answer it," is chilling precisely because he's wrong and doesn't know it. The gap between his contentment and her thumbnail is the whole horror. I don't fully trust his warmth; the text earned that doubt, it didn't just hand it to me. And the jacket's line — *it began as a game between the two people now closest to her* — hangs over his tenderness like a stain I can't yet locate but can smell.
 
-**Characterization:** Randi deepened enormously in the bathroom — from cool girlfriend to a woman with a lifelong survival architecture; she's the chapter's real center. Pace lands consistent and vivid but slightly over-idealized by his own POV; his blindness is his most interesting trait and I want more of it, less of his competence.
+Erotically it ran hot and controlled; nothing went clinical for me, though the relentless competence of his technique started, by the end, to feel like the point rather than a turn-on — which I think is intentional. Friction: almost none. The one place I felt the thumb was the mirror section leaning slightly hard on "the face / the face / the face" anaphora — effective, but I could feel the prose *insisting*. Worth it, barely.
 
-**Pace — within the chapter:** Earned its length; the slowness *is* the content. The Daphne aside was the one spot that felt inserted rather than lived.
+The title, "The Bench": before reading, neutral furniture. After, it's the perfect emblem — a thing "she had seen without seeing," disguised as a table, purpose-built, that will tomorrow become a table again and "wait for the next time." It's the relationship in one object: something with a hidden design underneath the domestic surface. The last paragraph handing the bench its own agency ("full of what it was, doing what it would continue to do") gave me a genuine chill.
 
-**Pace — chapter to chapter:** Opening chapter, cold start — sets a strong, specific hook and a reveal that reframes the jacket. Building.
+The volume title *A Polite Invitation* and series *With a Long Spoon* — the spoon phrase (sup with the devil, use a long spoon) now reads as a warning about who's really at this table, and after this chapter I'm fairly sure the "invitation" is the trap the jacket promised. The tagline *Every yes was freely given. That was the problem* is doing a lot of retroactive work: Randi's safeword was honored, her consent scrupulous, and she still walked out injured in a way consent can't touch. That's the unsettling engine, and it's already running.
+
+What I want next: Vee, obviously — I now dread her arrival, because I've seen what these two do. *Guess from here:* Randi's "figure out what to do about this" plus the jacket suggests she deflects the intolerable intimacy by turning Pace toward Vee — making the game partly a way to not be the one seen. I could be wrong. I want to keep reading, and I'm slightly afraid of how much.
+
+---
+
+**Cast present (in person):** Pace and Randi (Miranda). *Mentioned only:* Brooke (sorority sister), Daphne (Pace's past), Randi's mother.
+
+**Heat:** 3 — the withholding/edging and the break from performed to real *please* burned as hot as I expect this book gets.
+
+**Romance:** 2 — real tenderness in the aftercare and "there you are," but the chapter undercuts it as much as it offers it; no mutual bond, one party fleeing.
+
+**Motifs & images:** First sightings, all likely to recur — the bench/table (hidden purpose under domestic surface); the apple sliced thin (portioned appetite, her starving); "the face" as mask; the deadbolt/lock (she locks the front door first; then locks the bathroom — "a key turning in a lock" closes the chapter); the mirror; blue eyes as currency; the safeword "red."
+
+**Symbolism:** The bench = the relationship's concealed architecture. The thumbnail self-hurt = the cost hidden under compliance. The locked door = interiority she now bars to him — and the Daphne echo says he *knows* to leave locked doors alone, which is its own dread.
+
+**Characterization:** Randi deepened enormously — from glossy surface to a genuinely frightening interior in one chapter; landed as a whole person. Pace is precise and consistent but deliberately opaque; his self-satisfied misreading at the end is characterization, not thinness — I don't fully know him and I don't think I'm meant to yet.
+
+**Pace — within the chapter:** Slow-burn earned its length; the bench sequence could have shed a few repeated strike-soothe cycles but the accumulation is the point. The bathroom coda is the payoff and justifies everything before it.
+
+**Pace — chapter to chapter:** Opening chapter, so no prior momentum — but as a first move it's confident and destabilizing, refusing the expected ingénue-POV and starting with a reveal. Strong launch.

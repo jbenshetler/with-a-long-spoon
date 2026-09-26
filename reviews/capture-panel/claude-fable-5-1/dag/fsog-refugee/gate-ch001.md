@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch001 · claude-fable-5-1 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 421763aeb544 · 2026-09-26*
+
+REACTION
+
+Okay. Okay. I put the book down after "There you are, Randi" and just sat there for a minute, because I had been reading her as Vee the whole time — black hair, the sorority, the mother with the egg whites — and the jacket had told me Randi was the glamorous one, the steering one, the one with the plan, and here she is facedown on a bench crying into the leather. That's a hell of a way to open. The book put me *ahead* of somebody right away, exactly like it promised, only it's not the girl I expected to be ahead of.
+
+And the bench itself — I want to be honest about how that scene worked on me, because it's the thing I've been hunting for and mostly not finding. He built it. He *built* it, for her, with his hands, silent mechanisms, oiled wood, and then he stood back and let her read it before she said a word. "Show me" is hers. The lights up was a question, the first night, and she said yes. "Tell me your word." "Tell me again if you forget. I won't be upset." He takes his hands out of her hair not to punish her but because he wants her hands empty for what she chose. He crouches down to her upside-down face and says "Hi" and waits thirty seconds longer than he needs to. He takes her *shoes off* in the middle of it. God. I have read so many spanking scenes and this is the first one in ages where the slowness was the point and not a delay before the real thing — the waiting was the scene, and he knew she'd been with men in a hurry, and he refused to be one. The apple slices cut thin, cut-side up, because he noticed. I was gone from the apple.
+
+I felt the edging in my own body, I'll say that plainly. The bit where he lays his wet fingers flat on her spine — "her own heat, returned to her in the wrong place" — I actually made a noise. And the "please" — the distinction between the waiter-please and the real one, the one from below, that's the thing. He wasn't after her orgasm. He was after *her*. And he got her, and then — "You're beautiful," and she flinches, and locks the bathroom door.
+
+That bathroom scene is what I'll be thinking about at 1 a.m. Because it's tender and it's a horror movie at once. She was more alive than she's ever been and it came from being *seen*, and she cannot survive being seen, so she decides — "quiet as a deadbolt going over" — that he gets the face from now on and the real one is never coming out again. And he's in the next room deciding whether to ask about dinner. He doesn't know. He thinks it was a remarkably good evening. He's *right* and he's completely wrong. That thumbnail thing with the bottle cap, pressing into the nail bed where it would hurt, not knowing she's doing it — that scared me more than any of the strikes. That's a girl who hurts herself in small deniable amounts and has been doing it forever, and the book just let it sit there.
+
+What I'm suspicious of: I know from the jacket what she does next. She takes what he did to her and aims it at Vee. She's going to hand him a girl who *can* be seen, because she can't, and she's going to watch through the glass. That's the plan, isn't it. She can't come out from behind the face so she'll find someone who has no face yet. I don't know if I'm supposed to hate her for it and right now I can't — I've just watched her beg and cry and I want somebody to hold her and she won't let anybody. Merciless in its tenderness, the jacket said. Yeah.
+
+The one place I narrowed my eyes: "No, you said it was a table. I didn't correct you." That's slippery. That's a man who lets a woman lay her underwear on a spanking bench for weeks without telling her, and calls it not-lying. It's a small thing, and she answered it with "Show me," so it's hers — but I filed it. Also the moment where he hits her to hear that sound again, and hears himself wanting to. The book showed me that on purpose. It's telling me he's not a saint, he's a man who likes what he's doing to her. Fine. I'd rather know. He didn't take anything for himself tonight — still hard, set it down, "that's not what this night was for" — and that's the kind of control I actually read for, control that makes room. Whether it stays that way with Vee in the picture is the whole question.
+
+I'm in. I'm worried and I'm in.
+
+GATE 1 — The Bench
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: "No, you said it was a table. I didn't correct you." — not really a leaving moment, just a flicker; she said "Show me" and I let it go.
+WHY: This is the thing I've been looking for — heat with consent that's real and watchful, and tenderness after that she can't even receive — and the book just told me the woman who broke open on that bench is the one who's going to arrange Vee's whole year. I need to see what she does with the door she just locked.
