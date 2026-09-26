@@ -1,14 +1,12 @@
-*capture-dag-v2-rich · gate ch003 · gpt-6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha cc50e0b0a344 · 2026-09-26*
+*capture-dag-v2-rich · gate ch003 · gpt-6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 63687c9c6bee · 2026-09-26*
 
-REACTION — Oh, I was enjoying watching Randi surprise herself. Her bare “Yes” hit me harder than anything in the bedroom. For a second she wanted Vee without translating it into something she was doing for Pace, and I wanted her to get to keep that second.
+Oh, Randi. The first “yes” felt so naked that I wanted to protect it from the second one, the one she hurried to dress up as a girlfriend being sexy for her boyfriend. I believe she wants Vee. I also believe Pace is taking every involuntary response as permission to move the plan forward. He says he wants Randi free to choose, but he lets her sit in confusion when he points at the first woman, decides what her body means before she speaks, and turns a walk into an audition without telling her.
 
-Then he told her to go meet Vee, and I watched Randi manufacture an accident so Vee would be the one apologizing. That made my stomach drop. Vee’s first impression of this lovely new friend is already being arranged for her. I’m glad the book lets me see the arrangement, because Pace’s delight is seductive; I could almost borrow his certainty that this is a gift.
-
-I don’t borrow it. He treats Randi’s physical response as the final answer even while he sees how frightened she is of saying what she wants. And he’s so pleased to give her the choice that he barely seems to notice the woman being chosen has no idea she’s in a game. I’d text a friend: *The new girl’s name is Vee, Randi is glowing, and I am very worried about her.*
+I was caught by how delighted Randi is when she comes back. That little bit of footwork got me. Then I remembered Vee doesn’t know she’s been picked. Watching Randi arrange a collision so Vee ends up apologizing made my stomach drop. It’s an impressive move, and I hate that I can feel the thrill of it with them. The book seems to know exactly why that thrill is dangerous. “Do you think she’ll like the bench?” chilled me, especially after what the bench did to Randi. I need to see whether Vee gets to be a person in this, or whether Pace and Randi keep treating her answers as something they can coax out of her.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-ALMOST-STOPPED: “it was the redhead who pulled up short, stricken, apologizing”
-WHY: I hated how neatly Randi turned Vee’s kindness into an opening. But I’m caught by the gap between Pace’s happy reading of the afternoon and what I can see happening to both women. I need to know whether Vee gets room to see it too.
+ALMOST-STOPPED: “He took the body's answer for the true one. He usually did.”
+WHY: That sentence is the fault line for me. I’m staying because the chapter lets me see how much Pace assumes, and because Vee’s first contact with Randi makes me urgently want her side of this.

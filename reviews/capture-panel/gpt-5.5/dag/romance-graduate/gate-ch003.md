@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha cc50e0b0a344 · 2026-09-26*
+*capture-dag-v2-rich · gate ch003 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 63687c9c6bee · 2026-09-26*
 
-REACTION — Oh. Oh, this is dangerous in exactly the way the jacket promised.
+REACTION — Oh. Oh, this is trouble in exactly the flavor the jacket promised.
 
-What got me here is that it’s not just “hot boyfriend suggests girl-on-girl and girlfriend is secretly into it,” which I have read approximately nine thousand times, usually with all the psychological complexity of a wet cocktail napkin. This is much sharper than that. Pace is watching her want before she can narrate herself into safety, and Randi is so trained to make every appetite socially acceptable that watching the appetite slip loose is honestly more erotic than the actual sex at the beginning. Though, to be clear, the sex did its job. The “taste another woman” question landing so hard her body answers for her? Yes. That is the kind of filthy emotional precision I am here for.
+I did not expect to be this interested in Pace’s mind this fast. He’s still dangerous to me, maybe more dangerous because he keeps framing everything as gentleness. The thing where he genuinely wants her to choose, but is also arranging the field so beautifully around the choice, is making my skin prickle. I can feel why Randi follows him. I can also feel the book putting a hand on the back of my neck like: do you see it? do you see how consent and choreography are not the same thing, even when the yes is real?
 
-I am still deeply uneasy about Pace, but not in a “throw the book” way. More in a “this man is either frighteningly good for her or frighteningly good at convincing himself he is good for her” way. He keeps framing things as choice and gentleness and giving her room, and some of that feels real. But he also has this godlike confidence that her body’s answer is the truest answer, and I don’t fully trust any man who is that pleased with his own interpretive powers. He’s tender, yes. He’s attentive, yes. He is also steering. Very beautifully. Very carefully. Very much steering.
+And Randi. God. The way she converts desire into something socially survivable is so painfully recognizable. “Only in a threesome. With you.” That hit me harder than the sex, honestly, because yes, exactly: she can want a woman if the wanting belongs to a man. She can be hungry if she serves it on a pretty tray and calls it generosity. That is such a nasty, tender little psychological lockpick of a moment.
 
-And Randi. God, Randi is suddenly the more interesting center of gravity than I expected. The jacket told me Vee was the girl being invited, so I’m reading this with that awful delicious double vision: Randi thinks she is choosing, playing, being the sexy accomplice-girlfriend, but I know Vee is about to become a person inside this machinery. That makes the campus walk feel wicked. The pointing game should be tacky. It should make me roll my eyes. Instead it becomes this charged diagnostic of Randi’s desire: expected girls, no; polished power girl, absolutely not; warm open girl, maybe; then Vee, lush and laughing and uncurated, and Randi just drops. That bare “Yes” was the whole chapter for me.
+The campus game should have irritated me. On paper, a man walking his girlfriend around pointing at college girls should make me toss the Kindle across the room. But because I’m already inside the wrongness, because the prose knows it’s wrong and erotic and socially absurd and exposing all at once, I was completely caught. I hated him a little. I wanted him to keep pointing. That’s the good stuff.
 
-Also, I love that Vee’s first entrance is not coy. The book knows exactly what she would look like to Randi: abundance, ease, laughter, no apology. It makes instant sense that Randi’s whole controlled little beige-and-cream closet would short-circuit. I felt that.
+And Vee’s entrance worked on me embarrassingly well. It’s such an old romance move, the “there she is” moment, but because we’ve been moving through Randi’s tiny gradations of no/maybe/no, the yes lands. The red hair, the laugh with her whole body, the abundance of her. I knew before Randi said it. I actually smiled when she came back glowing with “Her name is Vee.” That felt like the book’s real engine clicking into place.
 
-My suspicion level is high now, because this is the first chapter where the blurb’s trap starts clicking audibly into place. Vee thinks she bumped into a glamorous girl from stats. Randi thinks she found someone for “them.” Pace thinks he’s giving Randi a gift. Everyone is already wrong in a different direction, which is exactly the mess I wanted.
+The last line about the bench, though. Whew. That snapped the heat back into threat. Randi is lit up, yes, but she is already imagining bringing Vee into the machinery before Vee knows there is machinery. Which is the whole premise, I know, but seeing the first actual hinge of it made my stomach drop. I’m still reading. Obviously I’m still reading. But I’m reading with my shoulders up.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-ALMOST-STOPPED: none
-WHY: This chapter gave me heat and plot movement and psychological teeth all at once. I want Vee on the page immediately now, because the second she has an inner life in this setup, the whole thing is going to either bloom or detonate.
+ALMOST-STOPPED: "He took the body's answer for the true one. He usually did."
+WHY: That line made me sharply wary of Pace in a way that feels intentional, not careless, and the chapter kept turning that wariness into heat. Randi choosing Vee pulled the whole book into focus for me, and now I need to see what happens when Vee, who thinks she’s just met a glamorous girl from stats, walks anywhere near these two.

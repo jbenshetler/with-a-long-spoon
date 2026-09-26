@@ -1,12 +1,12 @@
-*capture-dag-v2-rich · gate ch003 · gpt-6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha cc50e0b0a344 · 2026-09-26*
+*capture-dag-v2-rich · gate ch003 · gpt-6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 63687c9c6bee · 2026-09-26*
 
-Oh, I was having a good time with them until Vee walked out of the dining hall. Randi’s first bare “yes” got me. Then I watched her arrange that collision, and the grin I’d been enjoying turned into something I didn’t trust. Vee thinks she’s met a charming new friend. I know she’s just been picked.
+REACTION — Oh, Randi. The first “yes” when she sees Vee got me; the second one, when she’s back in Pace’s arms, made me nervous for both women. I wanted her to have that delighted, unguarded moment for longer before it became something the two of them were going to do.
 
-Pace is still hot to me, which makes me uncomfortable in exactly the way this book promised. He gives Randi room to choose, and he pays attention to her so closely that the attention itself feels intimate. But he decides her body has answered a question her mind hasn’t, then turns an ordinary walk into a way of acting on that answer. I want to know what Randi does when wanting Vee becomes more than a game she can call his.
+Pace is getting under my skin in a way I’m enjoying and distrusting at once. I believed him when he wanted to give Randi room to choose. I also watched him turn an afternoon walk into a game whose rules he knew before she did, then stand back and admire how neatly she made meeting Vee look accidental. And after that last bench question, I am absolutely reading on. I need to know what Randi wants from Vee when Pace isn’t there to translate it for her.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The sex had charge, and the walk made me feel both Randi’s excitement and the dread of knowing what Vee doesn’t. I’m already turning the page to see what Randi tells her at that stats class.
+WHY: Randi’s naked “yes” made me feel the pull, and the staged collision made me feel the danger in it. Vee has barely spoken and I already want to get to her side of that meeting.
