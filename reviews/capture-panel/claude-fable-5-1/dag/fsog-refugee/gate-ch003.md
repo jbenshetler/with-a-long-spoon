@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch003 · claude-fable-5-1 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha cc50e0b0a344 · 2026-09-26*
+
+**REACTION**
+
+Okay. So I put the book down for a second after "Let's go feed you" and just sat there, because I'm not sure whether I'm delighted or whether I've just watched two people I like go shopping for a girl.
+
+Both. It's both.
+
+Start with the bed, because the bed is the thing I'd have bought this book for if I'd known. He asks her the question *inside* her — "Would you like to taste another woman?" — and she comes on the question, and for one line I tensed, because that's a trick, isn't it? Drop the real question when she can't defend against it. That's the move I've read a hundred times and hated. And then he *doesn't take it.* He lies there and waits for the heat to leave the room, waits for her to be a person again, and asks it a second time, plain, in daylight, with her whole face back on — "He wanted her gathered back into herself when he asked, free to weigh it and choose; that mattered more to him than the answer did." I actually said "oh" out loud. That's it. That's the thing I've been hunting for since Christian Grey handed Ana a contract. The body's yes is not enough for him. He wants the yes she'd say sitting up.
+
+And then she doesn't say it. She flinches — that little shiver he almost misses — and reaches for the silk and gives him "only in a threesome, with you," and he *sees* exactly what she's done, hands the appetite to him so it's a gift and not a hunger, and he lets her keep the costume. "He let the camouflage stand." I keep turning that over. Is that tenderness or is that letting her hide? I think it's tenderness. I think after the bathroom door in chapter one, after she decided in the mirror that he could have the face and the rest was going back behind it — I think he's letting her come out sideways, laughing, because that's the only door she's got open. But he doesn't *know* about the mirror. That's what's making my stomach do a thing. He thinks the bench was a triumph. He's still telling himself "he took the body's answer for the true one. He usually did." Her body said yes on the bench too, and she went home and lay under a duvet in her shoes. He reads her beautifully and he's still reading the wrong text.
+
+The pointing game — god, it's charming. "I point. You pick." Watching her figure out that the choosing is *hers*, watching her stop being a good sport and start shopping — "she was shopping" — and the kiss on the library steps where he hasn't wiped his mouth and she tastes herself and cracks. I was completely in it. The bit where she says "too expected" about the girl who could have been her little sister and something lower comes into her voice — I felt that in my chest. He's making room for her want and she's stepping into the room, and every no she says is a piece of her nobody's ever asked for. I liked her for the first time. Not the face. Her. "God, no" about the girl who chairs things — that was Randi.
+
+And then Vee comes out of the dining hall laughing with her whole throat to the sky and Randi *stops walking*, and I stopped too, because the jacket told me this was coming and I still wasn't ready for how it would feel to watch. The "yes" with nothing around it. Then the choreography — the drift, the collision so clean it happens to *her*, and the poor girl apologizing with her hand over her mouth for walking into a woman who aimed at her from thirty feet. Pace at his lamppost feeling "a deep warmth in his body" like a man watching his girlfriend do something adorable. That's where I went cold. Not because I don't believe it's real for them — the little footwork on the brick, the squeaked yes, I believe every bit of it. Because Vee doesn't know. Vee thinks she met a girl from her stats class. Every consent gate in this book is immaculate between these two and they just walked straight through one that belongs to somebody else. And the book knows. "Go meet her" is the most romantic and the most sinister sentence in the chapter and it's the same sentence.
+
+Also — "I can't eat that." Automatic, not even a glance at the tray. He heard it. He ends the day with "let's go feed you." The apple's still on the table between them. Somebody feed this woman a cheeseburger.
+
+What I'd text you at 1 a.m.: *he asked her twice and waited for the real answer and I'd marry him for that alone, and also they just picked a girl off a quad like a peach and I'm going to keep reading to watch it happen and I hate that I'm not sorry.*
+
+GATE 3 — The Pointing Game
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+ALMOST-STOPPED: "the accident appeared entirely to happen to her" — not close, but that's where the floor tilted; that's Vee being handled before she's ever been asked anything.
+WHY: The two of them alone in a room was everything I read this genre for — he asks, he waits, he lets her lie and still leaves the door open — and I'm not going anywhere while that's on the page. But the whole book just turned its face toward a girl who doesn't know she's been chosen, and I need her point of view now, tonight, to find out if the care I've been trusting extends to her or stops at the lamppost.

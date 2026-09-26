@@ -1,25 +1,20 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~4ef676bfabab · 2026-09-08*
+*capture-dag-v2-rich · gate ch003 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha cc50e0b0a344 · 2026-09-26*
 
-REACTION — 
+REACTION — Oh, this chapter made my stomach do that wary little drop, because it is so seductive and so wrong in exactly the way the jacket promised. I am not out, but I am sitting up straighter.
 
-Oh, this chapter is where the jacket starts turning its knife.
+Pace is still fascinating to me because the book keeps letting me feel why he believes he is being careful. He waits. He watches. He frames things as choice. He wants her desire to belong to her. And then in the same breath he is deciding what her body means, deciding the "true" answer is the one she has not yet survived into language, and building an afternoon around moving her there. That is the danger zone for me, and the chapter knows it. I can feel the author watching him watch her, which is why I am still here.
 
-I’m still in, but my shoulders are up. Because on one level, yes, I absolutely felt the charge of the game. The “pointing” is hot in that dangerous, socially indecent way: two people carrying a private sexual current through a public campus, making daylight complicit. And Randi’s reaction to Vee is genuinely electric. That bare “Yes” before she can costume it? That got me. That is exactly the kind of involuntary desire I read for.
+The moment where she turns "I want a woman" into "I am giving my boyfriend a threesome" is brutally good. That is exactly the sort of self-protective laundering that feels real to me: she can’t bear to be the subject of the desire, so she becomes the sexy accomplice to his. And Pace sees it. He sees the costume, the dodge, the ownership transfer. What scares me is that he accepts the shape because it works for the game. He thinks it is gentleness. Maybe some of it is. But it is also convenience. It lets him keep guiding while telling himself she is choosing.
 
-But Pace. Pace, Pace, Pace.
+And then Vee. Oh no. Oh, Vee. The jacket has had her standing offstage this whole time, and now seeing her through Randi and Pace’s gaze is electric and faintly horrifying. I love that she is not one of Randi’s approved mirrors. She is embodied and laughing and alive and not managing every inch of herself. I absolutely understand why Randi’s brain short-circuits. The bare “Yes” got me. That felt like desire arriving before shame could dress it.
 
-He is so convinced he is being gentle because he waits, because he notices, because he frames things as choice. And I do think the book knows that this is the problem. It is not presenting him as a cartoon villain or as pure fantasy dom perfection. It keeps showing me the machinery: he asks after her body answers, he “takes the body’s answer for the true one,” he designs the game so she can arrive where he already wants her to arrive, and he congratulates himself on giving her room while managing the entire room she’s in.
+But I am also aware that Vee is a person walking out of a dining hall, and two people have just turned her into prey inside a private game she knows nothing about. The staged collision is so socially skillful that I wanted to applaud and recoil at the same time. Randi is good at this. Pace is delighted by how good she is. And Vee apologizes for being bumped into. That little reversal matters. That is the first tiny engineered reality around her.
 
-That line — “He took the body's answer for the true one. He usually did.” — made me go cold. That is not consent theology I trust. That is exactly where erotic attentiveness can become predatory: treating arousal as confession, and confession as permission. I underlined it in my head with a red pen.
+So yes, I’m compelled. Very. But this chapter shifts the book from “dangerous intimacy between two people with unspoken damage” into “here comes the actual secret plan,” and my consent antennae are fully extended. The prose is not naive. It is telling me to notice the manipulation. I just need it to keep knowing, especially once Vee gets interiority. If the book lets her be only the glowing object of Randi’s awakening and Pace’s cleverness, I will be gone. But if it gives her the full personhood the jacket promises, I’m in trouble, because I am already reading on.
 
-And then the public pointing game itself: hot, yes, but also alarming because Randi is not being asked cleanly, not really. She has just been sexually opened up around the idea of another woman, and then he takes her outside and turns the whole campus into a menu. He says “I point. You pick,” and that sounds like agency, but he is still defining the activity, pace, setting, and frame. Her choice is real inside the box he made. That distinction matters to me, and I think it matters to the book.
-
-Vee’s entrance worked on me hard. She’s not just “the girl.” She immediately feels like a rupture in Randi’s whole system: abundant, laughing, not polished into sorority compliance, not apologizing for her body. I can see why Randi locks on. I can also see, horribly clearly, how vulnerable Vee is to being turned into the solution to Randi and Pace’s private erotic project before she knows she’s auditioning for anything. The jacket told me this, but seeing the first contact happen as a staged “accident” made my stomach tighten. Randi is good. Too good. That little collision was charming and awful.
-
-So I’m captured, but not relaxed. The book still feels aware. In fact, it feels mercilessly aware. It is letting Pace narrate his own tenderness while showing me the control underneath it, and it is letting Randi feel lit up while showing me she is already laundering desire through performance and permission. I’m nervous for Vee. I’m also, against my better judgment, very eager to see her walk into this.
-
-GATE 3 — The Pointing Game  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: "He took the body's answer for the true one. He usually did."  
-WHY: That line scared me in exactly the place I’m vigilant about, but it scared me because the book knows it should. The chapter is hot, manipulative, and ethically loaded, and I want to see whether Vee gets real interiority before the game closes around her.
+GATE 3 — The Pointing Game
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: "He took the body's answer for the true one. He usually did."
+WHY: That sentence is a warning flare, and I am grateful the book knows enough to make it one. The chapter pulled me hard because the desire is vivid and the social manipulation is terrifyingly elegant, but I need Vee to become a person fast, not just the beautiful answer to a game she never agreed to play.

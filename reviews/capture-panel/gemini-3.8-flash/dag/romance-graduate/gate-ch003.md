@@ -1,19 +1,20 @@
-*capture-dag-v2-rich · gate ch003 · gemini-3.8-flash · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~4ef676bfabab · 2026-09-10*
+*capture-dag-v2-rich · gate ch003 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha cc50e0b0a344 · 2026-09-26*
 
 REACTION
 
-Holy shit. Holy *shit*. 
+Holy shit. The blurb told me what was coming, but seeing the trap actually snap shut in broad daylight gave me absolute chills.
 
-The jacket told me what was coming, but seeing the machinery actually start turning in real time gave me absolute chills. When I read the blurb, I assumed Pace was the primary puppet master, maybe setting up a game where he orchestrates Vee's ruin/awakening. But watching it happen here—seeing that Randi’s desperate, frantic denial of her own queerness is the actual engine powering this whole thing—is breathtakingly smart. It is so psychologically rich I want to scream. 
+That opening in bed—Jesus. The sheer, predatory emotional intelligence Pace has. He doesn't just fuck her; he reads her nervous system like sheet music. Asking her if she wants to taste another woman right when she’s dripping and defenseless, catching her body’s involuntary orgasm before her brain can throw up the sorority-girl firewall? It’s wicked. And then Randi immediately doing the mental gymnastics to rebrand her own terrifying, closeted desire into "a gift for my boyfriend"—it is so psychologically sharp it hurts. She thinks she’s being the cool, generous, sexually adventurous girlfriend offering him a threesome, completely blind to the fact that he is steering her by the collar straight into her own suppressed appetite.
 
-That opening scene in bed was filthy, tender, and merciless. The fact that the mere *thought* of tasting another woman makes Randi come instantly around his cock—and then, instead of owning that terrifying reality, she immediately dresses it up as a "gift" for *him*? "Only in a threesome. With you." Oh, honey. The absolute gymnastics of the deeply closeted sorority perfectionist. And Pace! Pace is so fascinating because he sees right through it, but he doesn't call her out; he builds an entire playground just so she can indulge the appetite she’s terrified of having. "I point. You pick." God, the heat of that dynamic. He’s feeding her, but he's also leading her right into the trap she’s designing for herself.
+And the walk. The "pointing game." Watching Randi go from prim and scandalized to literally *hunting* on the quad was thrilling. When Pace said "I point. You pick," my stomach did a flip. He is letting her believe she has the steering wheel, and the second she sees Vee—gorgeous, uncurated, laughing with her throat bared to the sky, the exact opposite of everything Randi starves herself to be—she just breaks.
 
-And then we meet Vee. The contrast between Randi’s hyper-curated, starving, bone-and-camel world and Vee—lush, untamed, copper hair, laughing with her head thrown all the way back like someone who forgot she could be seen—hit like a truck. Of course Randi picked her. Vee is everything Randi denies herself. And watching Randi execute that fake collision outside the dining hall? The dance training, the social camouflage, making Vee feel like *she* was the clumsy one who bumped into Randi? It was predatory and gorgeous and totally unconscious on the surface, which makes it ten times hotter. 
+Then that staged collision! God, Randi is terrifying in her own right. That cold-blooded, high-femme sorority precision turning a deliberate physical interception into an innocent *oops-sorry* meet-cute? The execution was breathless. Vee didn't stand a chance. She thinks she just bumped into a pretty girl from her stats class, and she has no idea she was selected, stalked, and claimed in the span of five minutes.
 
-"Her name is Vee. And we've got a stats class together." The trap is set. The polite invitation is out. I am completely obsessed with the architecture of this book. It has the exact adult emotional intelligence I'm always begging for, combined with this slow-burn, suffocating erotic tension that makes my stomach flip. I can't look away.
+I am vibrating. This is so deeply messed up, so tender, and so wildly hot. I need to see them reel her in.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 10
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The psychological interplay between Randi's repression and Pace's quiet orchestration is brilliant, the writing is stunning, and the moment the plot clicked into the jacket's premise was an absolute masterclass in tension.
+WHY: The psychological chess match between Pace and Randi is electrifying, but watching them spot Vee and flawlessly execute the trap made my heart pound; I'm completely hooked.

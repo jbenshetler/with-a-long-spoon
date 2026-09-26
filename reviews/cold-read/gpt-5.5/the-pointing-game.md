@@ -4,36 +4,31 @@
 
 ## Reader reaction
 
-I’m left warm and a little breathless by this one, mostly because the chapter takes what could have been a crude little dare and makes it feel like a door opening inside Randi. The erotic charge is absolutely there from the first line, but the real heat for me is not just the sex; it is the way her body answers before she can. That moment when Pace asks, “Would you like to taste another woman?” and she comes from the question itself lands hard. It feels like the wanting has been waiting under her skin, and the question touches it before shame or social cleverness can get there.
+I came into this chapter still carrying the ache of the bench and the bathroom: Randi cracked open, then very deliberately sealed herself back up. So the first lines made my stomach tighten a little, because “Something different” sounds playful on the surface, but I remember how much “different” cost her last time. The sex here is hot, but what really lands is how quickly her body answers before her mind can protect her. When Pace asks, “Would you like to taste another woman?” and she comes from the question itself, that is a jolt. It is erotic, yes, very much, but it is also exposing in the same key as the bench: her wanting gets there first.
 
-Pace is still intensely compelling to me, but this chapter also sharpens the edge of him. I believe his tenderness. I believe he wants her free to choose, and I felt the care in him waiting until “the afternoon” and making the game playful instead of solemn. But I also feel how much he enjoys knowing more than she does, watching her body betray her, arranging circumstances where she reveals herself. It does not read careless to me, exactly; it reads consensual and attentive. But there is power in how much of her he can read and how much he withholds until she is already moving.
+Pace is still very compelling to me, and still complicated. I believe his tenderness while I’m reading him. I believe he wants her to choose, wants to give the desire “air,” wants the question to arrive dressed as play because that will be gentler for her. But I also feel the danger in how much he trusts her body as the “true” answer. “He took the body's answer for the true one. He usually did.” That line gave me heat and unease together. It’s intimate and attentive, but also a little sovereign: he decides what the real yes is before she can say it cleanly. The chapter does not make him cruel to me. It does make him powerful.
 
-Randi moved me a lot here. After the last chapter’s terrible return to the face, seeing her lit up by wanting feels almost like oxygen. Her answer, “Only in a threesome… With you,” is heartbreaking and clever at once: she can want Vee only if she can make that want belong to Pace, or to the couple, or to the “gift.” But then the campus walk loosens something in her. The “Maybe” on the library steps is sweetly dangerous, and the bare “Yes” when she sees Vee feels like the chapter’s little lightning strike. For once, the face is too slow.
+Randi, though — oh, Randi. Her “Only in a threesome. With you” is heartbreaking and clever and sexy all at once. I felt the maneuver instantly: she cannot survive wanting a woman as herself, so she makes herself the generous girlfriend, the cool girl, the shared fantasy. And then the walk turns that little lie into a game she can actually play. I loved watching her taste her own permission by increments: the “Too expected,” the dry “Is that a yes or a no for you?”, the way she starts scanning before he points. The chapter lets her become hungry in daylight, and that felt like the pulse of it.
 
-Vee, from this first sighting, is magnetic. The chapter gives me exactly enough to understand why Randi’s eye stops: she is abundant, uncurated, laughing “with her whole body,” not sealed off by polish. I don’t know her yet, but I instantly want to. She feels like an answer to the thin apple slices and the approved scale and the girls who are always managing the room. She is not being presented as tidy rescue, which I appreciate, but she does feel like life arriving in a larger body.
+The erotic charge peaks twice for me: first at the question in bed, because her body answers so violently and involuntarily; then again at “Her,” when Vee appears and Randi simply stops. That “Yes” is the cleanest thing she says in the chapter. Bare, undressed, almost more naked than the sex. Vee herself is immediately magnetic: lavish, laughing, copper-haired, uncurated, nothing Randi can grade into safety. I can feel why this is the woman who breaks through the game.
 
-The title, “The Pointing Game,” sounds almost childish before the chapter, but by the end it feels exact: Pace points, Randi picks, and the game gives her a way to admit desire without having to make a declaration. It also keeps that faint discomfort in it, because pointing at women is socially ugly, objectifying, exposed. The book title on the cover board, WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION, still feels like a promise of civility with danger under it: invitations, games, manners, appetite, and distance. The “long spoon” suggests eating with someone you may not fully trust yet.
+My suspicion is not that anyone is lying in the obvious sense. Pace really is happy for her; Randi really is thrilled. But the whole structure is charged with displacement. Pace says “I point. You pick,” and that does give her agency inside the game, but he also invents the game, frames it, and sends her forward. Randi’s joy feels real; her permission still comes through him. That makes the final kiss with him wonderfully hot and slightly precarious: her “yes” has Vee’s name in it, but it is still delivered back into Pace’s mouth.
 
-What I want next is Vee in the room as a person, not just as Randi’s discovered yes. My guess from here is that the danger will not be whether Randi wants her, because she plainly does, but whether Randi can survive wanting her when Pace is no longer the only frame that makes the wanting permissible.
+The title works beautifully for me. “The Pointing Game” sounds light, almost childish, and then it becomes this erotic social mechanism: pointing as permission, as exposure, as selection, as a way to make desire visible without saying the whole forbidden thing directly. The cover board title, **WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION**, keeps feeling more sly. “A Polite Invitation” fits the manners, the sorority surfaces, the graceful little social approaches — and underneath, invitations into appetite that are not polite at all. I want the next chapter badly. My guess from here is that Vee is not going to stay only an object of fantasy, and I dread what happens when Randi has to want her without the game to hide inside.
 
-**Cast present (in person):**  
-Pace, Randi, Vee, Vee’s unnamed friend. Mentioned-only: none by name besides Vee.
+**Cast present (in person):** Pace, Randi, Vee.  
+Mentioned only / briefly observed but unnamed: the man with the cheeseburger, multiple unnamed women on campus, Vee’s friend, passing students.
 
-**Heat:** 3 — the charge dominates, first in bed and then in the public choosing, with Randi’s wanting breaking through before she can manage it.
+**Heat:** 3 — the wanting dominates, especially Randi’s body answering the question and then fixing helplessly on Vee.
 
-**Romance:** 2 — Pace’s tenderness and delight in giving her this are real, though complicated by how much he orchestrates.
+**Romance:** 2 — Pace’s tenderness and delight in Randi’s pleasure are intimate, though the romance is braided with control and displacement.
 
-**Motifs & images:**  
-Repeat: food/appetite from the apple and “feed you,” now sharpened by the cheeseburger she “can’t eat.” Repeat: locks/permission/control, now turned into being “allowed” to go meet Vee. Repeat: the face/performance versus the body’s truth. First: pointing as erotic permission; the burning maple; Vee’s copper-red hair and whole-body laugh.
+**Motifs & images:** Food repeats strongly: apple slices before, cheeseburger now, “Let’s go feed you.” Locks/permission echo from Randi locking doors and hiding behind the face; here permission becomes Pace’s nod. Performance vs. true self repeats from the bench and bathroom, now in “Only in a threesome. With you” versus the bare “Yes.” The maple burning and Vee’s copper hair feel like first-sighting images of change and appetite.
 
-**Symbolism:**  
-Vee’s abundance reads as more than attraction: she stands for a kind of untrimmed appetite Randi has not allowed herself. The campus daylight makes private desire visible without making it speak plainly.
+**Symbolism:** The pointing becomes more than pointing: it is a socially acceptable gesture for an unacceptable desire. Vee’s loose hair and whole-body laugh stand for a freedom Randi does not know how to inhabit yet.
 
-**Characterization:**  
-Randi deepens beautifully: evasive, skilled, hungry, and suddenly girlishly delighted. Pace remains tender and perceptive, but also more clearly powerful in the way he stages revelation. Vee is only a first impression, but vivid.
+**Characterization:** Randi deepens sharply; her desire is more specific, less abstract, and more frighteningly alive. Pace deepens too, tender and perceptive but increasingly comfortable shaping the terms of her self-discovery. Vee is vivid but still mostly an apparition of possibility.
 
-**Pace — within the chapter:**  
-The chapter earns its length; the slow walk lets the game become Randi’s before Vee appears.
+**Pace — within the chapter:** It earns its slow campus walk; the repeated candidates build the pressure until Vee’s entrance feels like an arrival.
 
-**Pace — chapter to chapter:**  
-Building strongly. After the aftermath and shutdown of “Standards,” this feels like forward motion, but with consequences waiting.
+**Pace — chapter to chapter:** Building. The bench cracked Randi open, “Standards” showed the seal going back on, and this chapter finds a new way to make the hidden wanting move in public.
