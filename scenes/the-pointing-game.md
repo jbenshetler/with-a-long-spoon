@@ -4,7 +4,7 @@
 
 ---
 
-She had put it to him inside the front door, with her arms around his waist and her mouth against his collarbone. *What are we doing today.* And then, lower, into his shirt: *Something different.* Not a question. She handed him the day as she handed him every one. Saturday morning she had dressed and walked past the long table with its top back on, on her way out of his bedroom, and had not looked at it, and had not spoken of it since. Neither had he. He said nothing to this either. He took her to bed.
+On her way into the bedroom she had slowed at the long table with its top back on. Saturday morning she had walked past it on her way out without looking at it, and had not spoken of it since, and neither had he. Now she looked at it. *Let's do something different,* she said. *Today.* Not a question. She handed him the day as she handed him every one. He said nothing to it. He took her to bed.
 
 She came the first time with his mouth on her, her hand flat against the top of his head, not pushing, just holding, as if to confirm he was there. He stayed with it longer than she needed, reading the slackening in her thighs, her breath going from held to spilled. He knew the difference between a woman performing release and a woman delivered to it. She had been performing, the first week. She was not performing now.
 
@@ -52,7 +52,7 @@ The shape she gave it felt right because she had found a way to say yes without 
 
 "Okay," he said, easy.
 
-He kissed her forehead, and she came in against him — her face into his neck, her whole length along his, one hand flat on his chest — and stayed there. He lay with her a while longer, thinking. *With you*, she had said. All right, then: with him. He could show her. They could find it together. She had asked at the door for something different. Here it was. It was the best idea he'd had in a month.
+He kissed her forehead, and she came in against him — her face into his neck, her whole length along his, one hand flat on his chest — and stayed there. He lay with her a while longer, thinking. *With you*, she had said. All right, then: with him. He could show her. They could find it together. She had asked for something different with her eyes on the table. Here it was. It was the best idea he'd had in a month.
 
 He got up and started pulling on his clothes, and she watched him from the bed, taking inventory as she always did, and after a moment she reached for hers too.
 
@@ -160,6 +160,10 @@ She was failing to hide the grin. It was all over her, the grin, breaking the ma
 
 "Her name is Vee." She arrived in front of him glowing. "And we've got a stats class together."
 
-Her feet did a thing on the brick, a half-second of happy footwork she didn't decide to do, there and gone. Then she came in and got both hands into his hair, and — "*Yes*," she said, the word squeaking out of her, high and delighted — kissed him, quick and grinning. Drew back an inch. And then, lower, the grin gone out of it: "*Yes*," breathy this time, the register she only used in his bed and never in daylight — and she kissed him again and stayed in it, holding on. He wrapped her up and held her there while a couple of students went past on the walk. Randi's *yes* had a name now and a class schedule and a copper head he could still pick out, small, at the far edge of the lawn. The fact of her pleasure stayed bright in him.
+Her feet did a thing on the brick, a half-second of happy footwork she didn't decide to do, there and gone. Then she came in and got both hands into his hair, and — "*Yes*," she said, the word squeaking out of her, high and delighted — kissed him, quick and grinning. Drew back an inch. And then, lower, the grin gone out of it: "*Yes*," breathy this time, the register she only used in his bed and never in daylight — and she kissed him again and stayed in it, holding on. He wrapped her up and held her there while a couple of students went past on the walk. Randi's *yes* had a name now and a class schedule and a copper head he could still pick out, small, at the far edge of the lawn.
+
+She was quiet against him a moment, watching the same thing he was. Then, low, without lifting her head: "Do you think she'll like the bench?"
+
+He kissed the top of her head.
 
 "Let's go feed you," he said.

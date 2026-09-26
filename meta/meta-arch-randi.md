@@ -127,7 +127,7 @@ The *Yes* was the wound's first ambulant motion. The wound walked out of her mou
 
 Vee was laughing, head thrown back, full of life — beautiful but not more beautiful than the others. The difference was the *aliveness,* the Vivienne register operating at full strength in an ordinary moment. Randi's body produced *Yes.* Single bare word. A broken stride. Composure cracked for one breath. She did not know why.
 
-The *Yes* is the second-closest she has come to the begging-voice. The bench *please* was the verbal admission of need. The *Yes* was the body's involuntary recognition that this woman carried the apparatus that could administer aliveness in the channel the need now required. It slipped past the apparatus's containment in the half-second before she could have stopped it. She has not repeated it. The not-repeating is part of the year's work.
+The *Yes* is the second-closest she has come to the begging-voice. The bench *please* was the verbal admission of need. The *Yes* was the body's involuntary recognition that this woman carried the apparatus that could administer aliveness in the channel the need now required. It slipped past the apparatus's containment in the half-second before she could have stopped it. She has not repeated it. The not-repeating is part of the year's work. (One dressed voicing the same afternoon, added 2026-09-26: after the second *yes* in {{The Pointing Game}}, quiet against Pace, eyes still on Vee — *"Do you think she'll like the bench?"* — the want pushed onto Vee's liking; the bare form is not repeated.)
 
 ---
 

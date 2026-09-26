@@ -198,11 +198,13 @@ improvised (chronology, condensed brief, pace-misread note).
 
 ### Fixed
 
-- **Opening paragraph added** — Randi's ask at the door (*What are we doing
-  today. Something different.*), handed over rather than asked (the
-  {{The Bench}} "what are we doing tonight" mechanism); the callback to her
-  hiding is Pace-observable only: Saturday morning she walked past the table
-  with its top back on and did not look at it. Gives :9 "He had decided this
+- **Opening paragraph added** — Randi's ask, recalled: on her way into the
+  bedroom she slows at the long table with its top back on and, this time,
+  looks at it (Saturday morning she walked past it without looking), and
+  says *Let's do something different. Today.* Handed over rather than asked
+  (the {{The Bench}} "what are we doing tonight" mechanism). Second pass
+  same day: the author replaced a door-recall version with the looking
+  version so the bench brackets the chapter. Gives :9 "He had decided this
   beforehand" its antecedent — her request.
 - **The game is invented in the moment** — bridge paragraph after *"Okay"*:
   he lies there thinking and the idea arrives out of her *with you* — *All
@@ -233,4 +235,14 @@ improvised (chronology, condensed brief, pace-misread note).
   cut once; the *maybe* / *God, no* pair is the taste triangulation.
 - **"Go meet her" arriving fast** (three lanes) — the permission beat at
   :143 answers it.
+- **Closing beat added (second pass, same day)** — after the second *yes*,
+  quiet against him, eyes still on Vee: *"Do you think she'll like the
+  bench?"* He kisses the top of her head (the {{The Bench}} gesture) and
+  does not answer: *"Let's go feed you."* Author ruling, taken knowingly:
+  the Bench panel's dominant forward guess (Randi steering Vee toward the
+  bench) is confirmed here as a promise; on reread {{Vee on the Bench}} is
+  a wish Randi voiced in September and hears fulfilled without her at
+  {{Vee Tells Randi About the Bench}}. "The fact of her pleasure stayed
+  bright in him" cut to make room; no Pace interior sits between the
+  question and the answer.
 

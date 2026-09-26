@@ -6,7 +6,7 @@
 
 > **See `meta-arch-vivienne.md` (exposure vs. evaluation; the secretions reframe) and `meta-plan-pace-house.md` (the bench: "used on only two women — Randi, then Vee — and what makes each capitulate is the load-bearing difference between them").** The opening (`the-bench.md`) plants the return; this is the payoff.
 
-A high riser — placed late on the staircase, far from the opening so the bench's return reads as payoff, not echo. Brackets the book: open on Randi broken on the bench, close the Pace–Vee staircase on Vee blooming on it. **Not** the threesome venue (that is the bed, inside the blindfold); keep the two payoffs distinct.
+A high riser — placed late on the staircase, far from the opening so the bench's return reads as payoff, not echo. Brackets the book: open on Randi broken on the bench, close the Pace–Vee staircase on Vee blooming on it. **Not** the threesome venue (that is the bed, inside the blindfold); keep the two payoffs distinct. (Since 2026-09-26 {{The Pointing Game}} closes on Randi's *"Do you think she'll like the bench?"*; on reread this scene fulfils a wish she voiced in September, without her — {{Vee Tells Randi About the Bench}} is where she hears it.)
 
 ## Content
 
