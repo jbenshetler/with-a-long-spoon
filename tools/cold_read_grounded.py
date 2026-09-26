@@ -833,12 +833,30 @@ def validate_provider_completion(usage: dict[str, object]) -> None:
         raise RuntimeError(f"provider finish reason was {finish_reason!r}, not 'stop'")
 
 
+def persist_rejected(model_id: str, n: int, reaction: str, reason: str) -> Path:
+    """Keep a rejected reader output for diagnosis (never a review). Written under
+    `<model-id>/.failed/` (gitignored), the way capture_dag keeps rejected gates —
+    added 2026-09-26 after kimi-k3 failed validation three times with nothing on
+    disk to explain why."""
+    slug = reader_slugs()[n - 1]
+    out = REPO / f"reviews/cold-read/{model_id}/.failed"
+    out.mkdir(parents=True, exist_ok=True)
+    stamp = time.strftime("%Y-%m-%dT%H%M%S")
+    path = out / f"{slug}-{stamp}.md"
+    path.write_text(f"<!-- rejected: {reason} -->\n\n{reaction}\n")
+    return path
+
+
 def write_review(model_id: str, n: int, decade: int, reaction: str) -> Path:
     slugs = reader_slugs()
     slug = slugs[n - 1]
     title = checkpoint_bundle.display_title(slug)
     memory = memory_line(model_id, n, decade)
-    validate_reaction(reaction)
+    try:
+        validate_reaction(reaction)
+    except RuntimeError as e:
+        persist_rejected(model_id, n, reaction, str(e))
+        raise
     out = REPO / f"reviews/cold-read/{model_id}/{slug}.md"
     out.parent.mkdir(parents=True, exist_ok=True)
     content = (
@@ -1270,8 +1288,12 @@ def main() -> None:
             pool.put(fn)
         reaction = strip_leading_heading(result.get("output") or "")
         u = result.get("usage") or {}
-        validate_provider_completion(u)
-        validate_reaction(reaction)
+        try:
+            validate_provider_completion(u)
+            validate_reaction(reaction)
+        except RuntimeError as e:
+            persist_rejected(model_id, n, reaction, f"{e}; usage={u}")
+            raise
         path = write_review(model_id, n, args.decade, reaction)
         return n, slug, b, path, u, time.time() - t0
 

@@ -186,3 +186,64 @@ Follow-on ruling, same day: the possessive/acquisition register is **retired
 book-wide** — not fenced to codas. The surviving seed above stays as *facts*
 (what he built, when) and embodied hunger, never ownership vocabulary. See
 `meta-craft-pace.md` §Pride-in-effect, not possession.
+
+## Developmental pass — APPLIED (2026-09-26; author rulings, supersedes the guards above where noted)
+
+Rulings only; the readings behind them are in `meta-triage-the-bench.md` (same date).
+
+- **Mirror — "Protect the aftercare interiority. Do not trim it" (risk zone 4) is
+  narrowed.** The eyes paragraph was compressed to the disjunction move (photograph
+  smile → the smile sitting on the face that had begged → eyes filling → the
+  *there you are* sound); the six-beat "the eyes" anaphora and the clock are gone.
+  "It had worked on everyone. It had worked for years." cut from the mechanism
+  paragraph. Kept: "Nothing happened to her. That was what the face was for",
+  the cost-nothing line, "perfect was safe" (Fairytale origin), and the 527 triple
+  ("The face was lying…"). The mechanism paragraph itself is not to be trimmed
+  further.
+- **Right-please passage — the record above is stale.** The waiter image stands
+  in the prose ("the voice she said *please* in when she asked a waiter for a glass
+  of water") and the "She did not yet know how good it felt to need" line is not
+  in it. **"She did not yet know she was saying *please* like that. She was about
+  to know." cut** — it telegraphed.
+- **229 — the 2026-07-31 restore is reversed.** "He was not going to be in a hurry
+  tonight, and she had not yet figured out what to do with that" cut; the paragraph
+  ends "He was not in a hurry." The bracing evidence stays. 237 ("He was showing
+  her what the next hour would be…") cut. 247's summary of the first strikes is
+  rendered instead.
+- **Undressing compressed** (1739 → 1292 words) and the **spanking loop** (first
+  strike to the hard strike; 1262 → 871). All locked beats kept: face to stomach,
+  eyes to the bench / hand closing on nothing, the underwear-laid-out paragraph,
+  strap marks, the ear that is hers, lights backstory, razor hairs, hands lifted
+  off and the wrist-hold offering, one *cocoa*, greed line, active buffed-and-
+  polished, bare nails / blue toenails; upside-down Hi, "You with me?", "Stay with
+  me", scalp, forehead kiss, "Twenty, thirty seconds. Longer than a spanking
+  transition was supposed to be" (kept by ruling), both heels off, Okay/Okay,
+  athletic pairs, "she had let the bench have her", salt kiss, ear and pulse, "I
+  like this part / Which part / All of it", the hard strike.
+- **"The word for what he held stayed behind his face" cut; "take the gloss well
+  past itself" kept** (author ruling; reverses the warmth-pass disposition above).
+- **Middle-round montage line recolored** from the purpose-clause ("so she could
+  not anticipate what came next") to effect ("until she stopped being able to tell
+  which was coming") per `meta-craft-pace.md` Console rule 21. The "locked" note
+  above no longer applies.
+- **Kitchen: the three pricing paragraphs cut** (counters she disliked, the wood
+  "whose price tag she cannot read", "raised to register cost by appearance") and
+  **one paragraph restored** in their place: small kitchen in a small house, the
+  laminate with the shine gone, her eyes going over the counters and saying
+  nothing, what is good in the room being what he built. **He has attention, not
+  wealth; he must never read as rich.** The warmth clause at the top ("because he
+  liked being able to take his time without thinking about whether someone else
+  was cold") cut; the too-warm house stays as motif, its reason arrives in
+  {{Two Towels}} / {{A Round}}.
+- **Bench reveal rewritten.** Face cradle and handholds stay named; the rest is
+  rendered as how it would hold her (chest rests, then nothing, hips "the highest
+  point of her, held up", knees out and down, head down). A hip support is on the
+  page (human-reader flag: it was missing). 93's mechanical line ("the frame
+  peaked… leg rests on their pivots") cut; "Open, everything open" and "Her hands
+  closed on nothing" stay.
+- **The walk to the bench thinned**: the repeated damp sheen and the second
+  bra-mark beat cut; "and the walk was part of what he was watching" cut. **Dance
+  and cheer folded** into one clause at the settling ("a decade of dance and
+  cheer"); "years of cheer written into the muscle of it" cut. Both are canon; the
+  cheer stays because it is athletic and the high-school sorority in one word.
+- **509 clarity:** "a man whose last name her own sorority sisters did not know".

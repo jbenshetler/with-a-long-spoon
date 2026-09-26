@@ -41,6 +41,11 @@ models = [
   "gpt-6-sol",
   "glm-5.3",
   "gemini-3.8-flash",
+  # Trial lanes (author request 2026-09-26): newest Claude ids on the headless
+  # subscription lane, run alongside the standing seven to see how they read.
+  # Promote or retire after the trial; do not treat as standing until then.
+  "claude-opus-5-5",
+  "claude-fable-5-1",
 ]
 # Off the capture roster. `claude-fable-5` keeps its gates on disk as history
 # (author ruling 2026-09-26) but is not extended without being named; every

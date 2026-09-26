@@ -361,3 +361,67 @@ craftsmanship"*). **Author ruling: a bonus pickup, always going to be tough in
 a novel that is primarily hetero with a queer awakening.** It is a structural
 property of a one-aperture Pace chapter, not something trimming reaches. Do not
 re-flag as a regression and do not chase the scores.
+
+## Addendum — developmental pass, four panel rounds (2026-09-26)
+
+Four grounded cold rounds and four capture rounds on the same day against
+successive versions (prose 620f4c13 → db78667b → 8d71b321 → today's final).
+Reads in `reviews/` are the last round only; the earlier rounds' numbers are
+summarized here. Scores held throughout: cold Heat 3 / Romance 2 (one Opus 4.8
+Heat 2 on the compressed-loop version, back to 3 the next round); capture
+21/21 CONTINUE every round, mean NEXT 9.2 → 9.5. Edits are recorded in
+`meta-note-the-bench.md` (same date); this section records what was **left
+standing** and why.
+
+**Weighting rule (author, 2026-09-26): Opus lanes are down-weighted.** Opus
+(4.8 and 5) is the most critical model on both panels; consider its flags,
+weight them below the others. Removed models' reads are not consulted
+(glm-5.3-flash, qwen, sonnet, terra, astra were erased the same day).
+
+### Fixed this pass (see the note for the edits)
+- Stated unhurriedness (229 / 237 / 247) — the "told me four times" complaint
+  vanished from every lane after the cut.
+- Undressing inventory — four models named it; none did after compression.
+- Mirror anaphora — five models, then one, then none after the eyes paragraph
+  was compressed. What remained ("explains itself at slightly too high a
+  volume", GPT-5.5 / Sol / GLM) was the mechanism paragraph's restatement;
+  "It had worked on everyone. It had worked for years." cut.
+- "She was about to know." — GLM (full) and GLM-flash both called it the
+  author's thumb; it telegraphed; cut.
+- The right-please almost-stops (four to six consent lanes for three rounds)
+  fell to zero once the lead-up was compressed. Nothing in the passage changed.
+- Pace reading as rich (GPT-5.5 romance: "rich-man kink showroom") — gone after
+  the small-house paragraph; no fresh read mentions money, wealth or the
+  counters.
+- Bench reveal read as spec sheet (Fable, Opus 5, GPT-5.5) after the hip
+  support was added — rewritten as how it would hold her.
+- The walk — DeepSeek's "one line too many" cut; Fable's dance/cheer bump
+  folded.
+
+### Left standing — do not re-litigate
+- **The strike/soothe/check-in cycle at "Right, then left."** Opus 5's
+  romance-graduate stalls there in every round and forgives it in the same
+  breath ("a pattern I've read a lot of"). Same reader, same place, three
+  rounds; Opus down-weighted; the cycle is Pace. Stands.
+- **Daphne paragraph "inserted / a tidy lesson"** — Opus 4.8 only, three
+  rounds; Sol, GLM, Kimi, GPT-5.5 credit it as earned. Stands.
+- **"The orgasm was *hers*"** — Sol would rather feel it than be told; the
+  2026-07-27 ruling stands (Pace free indirect).
+- **Pace's coda ("All he had done was find it, and answer it"; "quietly happy
+  about her")** — consent lanes name it and read it as the designed irony
+  every round. Stands.
+- **Italic *hers* "hammered by the fifth"** (Opus 4.8) — there are two in the
+  chapter. Dismissed.
+- **The final paragraph** — cited by four to six of seven cold readers each
+  round as the source of forward pull; every "what I want next" is Vee and
+  what Randi does with the lock. Author ruling: not replaced with a concrete
+  hook; a hook would be a plan-tell, and chapter 2 ({{Standards}}) stays with
+  Randi.
+- **"the sea in it"** — Kimi blinked once. Stands.
+
+### Instrument notes
+- kimi-k3 failed validation three times on the 8d71b321 version (structured
+  block missing); not recorded. The cold harness now persists rejected output
+  under `<model-id>/.failed/` for diagnosis.
+- gpt-6-astra trialled on capture for one round and replaced by gpt-6-sol
+  (needs `CODEX_BIN`); astra's gates removed, never committed.

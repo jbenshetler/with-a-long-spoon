@@ -33,3 +33,4 @@ audits/reading-effort/cache.json
 # Calibration extracts from copyrighted epubs in ref/ — derived statistics
 # are committable, the extracted prose is not.
 audits/reading-effort/.calib/
+reviews/cold-read/*/.failed/

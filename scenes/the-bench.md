@@ -364,7 +364,7 @@ He slid his fingers back into her. This time he stayed. She was furnace-hot and 
 
 "I — please, please make me come, *please*."
 
-Three *pleases* in a row, which she had not done before. But it was not the right *please* yet. It was still her *please*. It was still being said in the voice she said *please* in when she asked a waiter for a glass of water. She did not yet know she was saying *please* like that. She was about to know.
+Three *pleases* in a row, which she had not done before. But it was not the right *please* yet. It was still her *please*. It was still being said in the voice she said *please* in when she asked a waiter for a glass of water.
 
 He straightened up. He did not start the edging again. He stood behind her, his hand on her back, and watched her.
 
@@ -498,7 +498,7 @@ She looked at her eyes. They had been somewhere they had not been before, and sh
 
 Under it, inseparable from it, was the other fact: she had been more alive on that bench than she could remember being anywhere, ever — the whole length of her awake at once, the aliveness ecstatic and terrifying in the same instant — and it had not come from her, and it had not come from anything he had done to her body. It had come from being seen. He had looked past the face — past the blue, past the surprise, past everything she had spent twenty-one years making sure was all there was to find — and found her, and what happened after that had happened to *her*.
 
-Nothing happened to her. That was what the face was for. The face took the being-looked-at, the being-wanted, the being-touched, and none of it reached any further than the face, because the face was not her, and what was not her could be given away all day and cost nothing. It had worked on everyone. It had worked for years. She had been perfect, and perfect was safe, and safe had held until a man watched her instead of the face and waited for her to come out from behind it.
+Nothing happened to her. That was what the face was for. The face took the being-looked-at, the being-wanted, the being-touched, and none of it reached any further than the face, because the face was not her, and what was not her could be given away all day and cost nothing. She had been perfect, and perfect was safe, and safe had held until a man watched her instead of the face and waited for her to come out from behind it.
 
 She had come out. She had begged. And he was in the next room right now, waiting to be tender with her — not with the face, with *her*, the one he had found — and that was the thing that could not happen. Tenderness was something the face received and passed inward, in amounts she decided. Out there tonight there would be no deciding. There would be being seen, and being held while seen, and she could not. She could not.
 
