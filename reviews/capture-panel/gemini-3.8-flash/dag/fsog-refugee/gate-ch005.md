@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch005 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 22330aaefd51 · 2026-09-19*
+*capture-dag-v2-rich · gate ch005 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha a56102b7d0d5 · 2026-09-26*
 
 REACTION:
 
-Oh, my god. Oh, my *god*. Watching this from Vee's side after being inside chapters 1 through 3 is absolute psychological torture in the most delicious, thrilling, agonizing way possible.
+Oh, god. My stomach is actually in knots. The dramatic irony here is suffocating in the absolute best, most terrifying way.
 
-I was sitting here with my stomach in my throat the entire scene. The dramatic irony is almost unbearable. We *know* Randi texted him to tell him where they were. We *know* this entire meet-cute was engineered down to the second. When Randi gave him her name as a single, cold, flat word—"Randi"—and he looked at her like "somebody's great-aunt," I felt a physical chill. The sheer *acting* happening at that table! Randi picking up her coffee cup and not sipping it, playing the bored, supportive friend while her own boyfriend is openly, courtly seducing the girl she hand-picked for their bed. It is so wicked. It feels dangerous, like watching someone walk onto ice they think is solid stone.
+Knowing what we know—that Randi was literally *texting him* from across the table to come over, that they stood on the quad together picking Vee out like a dish on a menu, that Randi has been facedown on that table in his bedroom crying and coming undone—and then watching Vee experience this meet-cute as pure, organic magic? It’s sickeningly brilliant.
 
-And yet—and this is the part that completely owns me—Pace's behavior toward Vee is *real*. That’s the devastating hook. It’s a setup, it’s a trap, but the man inside the trap isn't faking who he is. The way he helped her with that math problem! He didn't show off, he didn't solve it for her, he literally handed her the pencil back so that the victory remained *hers*. That is his dominance and his care in a nutshell: he makes room for her to be brilliant, to have agency, to be seen, all while guiding the framework around her.
+And Pace! Look, my whole thing is that I need dominance to come with real gentleness, and he executes that so cleanly it makes you understand completely why a smart girl like Vee is falling into the trap headfirst. The forearms, the quiet confidence, the way he gives her *back the pencil*. He doesn't swoop in and solve the problem to show off how brilliant he is; he gives her the tool so *she* gets the satisfaction of solving it. It’s so respectful, so attentive, so completely the opposite of every arrogant college boy she’s ever met. "May I call you?" Who says *may* anymore? It’s courtly and gorgeous, and if I didn't know about the table in his bedroom, I’d be swooning with zero reservations.
 
-And that *"May I call you?"* Oh, that did things to me. The courtliness of it! In a world of campus hookup culture and boys who text "u up," this man asks with her pencil, asks with his eyes, asks with the ancient manners that immediately bypass all her defenses. Vee's internal voice is so lovely, too—the way she noticed his forearms, the way she recognized his economy of motion, the way she is just *quietly starving* for someone to actually engage with her mind. Cassie pointing out that he left without his coffee just twists the knife even deeper, because to Vee, it's romantic proof of sudden infatuation. To us, it's proof of how completely deliberate he was.
+Instead, I’m swooning *while holding my breath*. Because the care feels real, but the architecture around it is a complete conspiracy. Randi sitting there playing the supportive girlfriend/friend, bringing the coffee cup to her mouth twice without drinking, acting like she doesn't know him—Randi’s performance is chilling. She’s giving him away, she’s setting the snare, and she’s already imagining Vee on that bench.
 
-I am completely hooked. The consent here is so fascinatingly complicated—she is giving every piece of it freely, enthusiastically, beautifully, and every step is genuine, but the chessboard under her feet was carved before she even entered the room. I need the next chapter immediately.
+And Vee’s inner life is rendered so beautifully here. Her little borrowed poise—using Randi’s exact joke about her name!—and the way she talks about economics: *"the gap between what they say they're doing and what they're doing."* The book is almost taunting her with her own insight. She’s studying the exact mechanism of her own seduction and has no idea.
+
+I need them in a room alone together yesterday. I need to see him look at her when Randi isn't there, and I need to see if that tenderness holds when the stakes get dark.
+
+***
 
 GATE 5 — Substitution
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The tension of watching this calculated trap spring shut while the actual connection between Pace and Vee feels so tender, intelligent, and real is completely intoxicating.
+WHY: The tension is excruciating because the seduction works on me just as well as it works on Vee—Pace's quiet, respectful competence is intensely appealing, which makes the trap they've laid for her all the more thrilling and terrifying to watch. I have to see what happens when he actually calls her.

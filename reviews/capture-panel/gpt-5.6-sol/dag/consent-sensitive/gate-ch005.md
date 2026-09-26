@@ -1,17 +1,16 @@
-*capture-dag-v2-rich · gate ch005 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~22330aaefd51 · 2026-09-07*
+*capture-dag-v2-rich · gate ch005 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha a56102b7d0d5 · 2026-09-26*
 
-REACTION — Oh, this is *sinisterly* good. I know Randi was texting Pace. I know that entrance was timed, I know the “chance” encounter is a setup, and watching Vee experience it as spontaneous recognition—*she felt, absurdly, chosen*—made my stomach turn in exactly the way I want this book to make it turn. The chapter absolutely knows what they are doing to her. It even shows me the machinery in Randi’s hands while Vee helpfully misreads every tell.
+REACTION — Oh, this is vicious. He gives her back the pencil while he and Randi are secretly taking authorship of the entire encounter. That got me. Every small courtesy is real—he asks with his eyes, listens properly, leaves her the pleasure of solving the problem herself, says *may I*—and the larger situation is completely engineered. He is exquisitely careful not to overpower her inside a choice she does not know has been manufactured for her. That is exactly the nightmare the jacket promised, and the book absolutely knows it.
 
-And unfortunately, yes, I get why Pace works on her. Giving her back the pencil at precisely the point where she can solve the problem herself is devastatingly effective. He doesn’t merely flatter her intelligence; he arranges for her to *feel* it. Then he asks what draws her to economics and listens to the real answer. That would get me too. It is also such an unnerving miniature of the larger seduction: he supplies one carefully chosen substitution, she completes the work, and the resulting answer feels wholly hers. Every yes freely given. There’s the problem.
+And Vee borrowing Randi’s little introduction routine hurt. She thinks she’s trying on confidence from her dazzling new friend, while Randi is sitting there watching the plan take hold. Then Vee wants her own name back almost immediately. That tiny “People call me Vee” made me feel terribly tender toward her. She is so hungry to be singled out, but she also has a real mind and real ambition; Pace doesn’t merely flatter her, he finds the specific experience she longs for—being understood without being diminished. Of course it works. It worked on me, and I know what he’s doing.
 
-Randi was fascinating here. The bare “Randi” to Pace, the untouched coffee, the little intervention about Bessel’s correction—she is performing her role while visibly activated by watching the plan succeed. Is that jealousy? Arousal? Anxiety because Pace’s attention to Vee already feels more real than anticipated? Some ugly, delicious mixture? Vee thinks Randi is bored while Randi is practically vibrating beside her, and that gap made me want to crawl out of my skin.
+Randi’s hands around the untouched coffee were wonderfully alarming. I can’t yet tell how much is nerves, jealousy, desire, or the strain of watching something imagined become real, but she is not remotely detached. And Cassie sees everything. She may not know the scheme, but she sees the social geometry and keeps naming the truth in those flat little sentences everyone else smooths over.
 
-Cassie sees far too much. She notices Randi texting, identifies Pace’s interest instantly, and describes his dismissal of Randi with surgical accuracy. I’m now extremely suspicious that her earlier “Goodbye, Vee” was not merely instinctive dislike. She may not know the scheme, but she knows Vee is being pulled somewhere and that Randi is not what Vee thinks she is.
+What I’d text at 1 a.m.: “He let her solve the equation herself while secretly substituting himself into her life, and I am FURIOUS that this is hot.”
 
-I’m hooked, but warily. Pace’s courtesy is real as behavior, and his restraint is intensely attractive; it is also being deployed inside a situation whose essential facts Vee does not possess. The book is not confusing permission at each step with informed consent to the whole design. So far, it sees the trap perfectly—and that is why I’m willing to walk farther into it.
-
-GATE 5 — Substitution  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: I can see exactly how Vee is being managed, and the book can see it too. The seduction is genuinely seductive while the concealed coordination remains genuinely alarming; that tension has me completely.
+GATE 5 — Substitution
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+ALMOST-STOPPED: none
+WHY: The deception is enormous, but the book’s awareness is sharper than mine needs it to be: every genuine act of respect is shown sitting inside a concealed manipulation. I desperately want to see when Vee notices the difference—and what Randi’s coffee-cup nerves actually mean.

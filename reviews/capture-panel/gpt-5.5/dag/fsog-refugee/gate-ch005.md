@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch005 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~22330aaefd51 · 2026-09-08*
+*capture-dag-v2-rich · gate ch005 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha a56102b7d0d5 · 2026-09-26*
 
-REACTION — 
+REACTION —
 
-Oh, I am *in*. This chapter is exactly the danger promised on the jacket, and I hate how well it works on me because I can see the machinery and still feel the pull.
+Oh no, I’m in.
 
-Pace entering like that, not flashy, not “alpha” in the plastic way, just quietly competent and completely focused on Vee, got me immediately. The math scene did more for me than a lot of books’ sex scenes, honestly. He doesn’t solve it for her. He doesn’t use his intelligence to diminish her or dazzle her into silence. He gives her the missing turn and then hands the pencil back. That is such a specific kind of erotic care: *I see what you can do, and I’m going to help you get there yourself.* That’s the thing I read for. Not a man taking over because he can, but a man precise enough to know where to stop.
+This chapter got me in such a specific way because it’s doing the seduction I want from the outside in and the inside out at the same time. Vee is not being dragged anywhere. She’s sitting there with her own stubborn little math problem, her own pride, her own wanting to solve it because she wants to solve it, and Pace walks in and somehow the sexiest thing he does is give her the pencil back. I mean. Come on. That is exactly the kind of dominance I’m weak for: he could take over, he could dazzle her, he could make the room about himself, and instead he arranges the moment so she gets to feel brilliant in her own hands.
 
-And Vee. God, Vee is so hungry to be chosen, but not stupidly written. I felt that horrible sweet little lift in her when he looked only at her. The borrowed Randi line made my stomach twist a little, because she’s already trying on Randi’s social magic like a dress, and it *works*, but then she wants her own name back right away. That tiny “Vee” after “Vivienne Thorne” got me. She wants to be shinier, but she still wants to be herself under it.
+And the way she clocks that! The body noticing first, then the mind catching up: yes. That’s the heat. Not “handsome man appears,” though obviously he does appear with his rolled cuffs and his ridiculous not-a-math-tutor forearms. It’s that she can feel the quality of his attention. He asks before touching even the pencil, basically. He sees the problem and he sees her relationship to the problem, and he respects both. That is so much more intimate than if he’d just solved it.
 
-Randi is the part making me nervous. Not because I don’t like her — I do, too much — but because I can now see her hands on the board. The coffee cup. The no-sip sips. The way she says “You should go out with him” like it’s generosity, and it is, but it is also placement. She is not just watching this happen. She and Pace have arranged this, and the chapter lets me enjoy Vee’s wonder while making me feel the trapdoor under it. That’s delicious and awful.
+Randi in this chapter is fascinating and unnerving in the best way. I kept watching her hands. She is performing friendship so beautifully, and also she is very much managing the room. The one-word “Randi” when Vee borrows her little intro bit made me sit up. Not cruel, exactly, but pointed. Possessive? Testing? A little flash of the real Randi underneath the warmth. And then she’s smiling, encouraging, letting Vee be charmed, except we know this whole thing has been staged or at least invited. That jacket is sitting in my peripheral vision like a lit match.
 
-Cassie is my little warning light. She sees too much. Her “great-aunt” line was funny, but also she’s the only one in the room who isn’t intoxicated by the glamour. I don’t think she knows the whole game, but she knows something is off in the texture of it. I’m clinging to her a little.
+Cassie is my little warning bell. “Goodbye, Vee” last chapter, and now she’s just there seeing too much, naming too much, not quite playing. I don’t know whether she knows anything or just has the immune system for falseness that Vee doesn’t, but I trust her discomfort. She makes the room colder every time in a way I appreciate.
 
-What scares me is that Pace’s consent language with Vee is beautiful here in isolation. “May I call you?” landed on me exactly like it landed on her. But he is also there because Randi brought him there, because Vee was selected before she knew she was being selected. So the book is giving me the man I want and then making me ask whether the frame around him poisons it. Which is, frankly, rude and effective.
+The thing that scares me, pleasantly and not pleasantly, is how good Pace is at this. Because I believe his care. I absolutely believe he is attending, asking, leaving room. And I also know enough now to know he has been brought to this table like a loaded instrument. The chapter makes me feel what Vee feels — chosen, steadied, lit up — while letting me see the frame around it. That is delicious and dangerous. I’m not mad yet because Vee’s yes is still blooming from inside her, but I am watching the hidden plan like a knife under a napkin.
 
-GATE 5 — Substitution  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: "You should go out with him."  
-WHY: That line made the manipulation feel suddenly colder, but the chapter has me completely: Pace’s attention, Vee’s awakening, Randi’s hidden tension, Cassie’s watchfulness. I’m worried, but I’m absolutely turning the page.
+Also: “May I call you?” Yes. I would fold. I’m sorry. I have principles and apparently also a pulse.
+
+GATE 5 — Substitution
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+ALMOST-STOPPED: none
+WHY: This chapter gave me the exact drug: focused male attention, real permission, a heroine feeling her own mind and body wake up at once, plus the dread of knowing Randi and Pace are arranging the room around her. I want the next chapter immediately because the call/date is coming, and I need to see whether the consent stays real once the plan tightens.

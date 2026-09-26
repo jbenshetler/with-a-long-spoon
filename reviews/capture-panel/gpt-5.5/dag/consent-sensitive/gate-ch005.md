@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch005 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~22330aaefd51 · 2026-09-08*
+*capture-dag-v2-rich · gate ch005 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha a56102b7d0d5 · 2026-09-26*
 
-REACTION — 
+REACTION —
 
-Oh, this one is so much worse for me, in the good-bad way, because now I can see the machinery in daylight and I can see how beautifully it works.
+Oh, this one got me in exactly the place the book has been aiming for, and I hate how beautifully it works.
 
-Pace walking in as the answer to the problem is almost too on the nose, but I mean that as reader-suspicion, not craft complaint. Vee is stuck on “substitution,” on turning one thing into another thing you know how to do, and then here comes this man, already preselected, already carrying the secret substitution: stranger for plant, accident for setup, choice for choreography. And the horrible delicious part is that he really is good with her. He does the math help exactly right. He gives her the pencil back. He listens to her talk about econ like it matters. He asks the better question. That is the problem. If he were sleazy, if he negged her or showed off or made Randi obviously jealous, I’d be out or at least armored. Instead he is careful, attentive, socially precise, and the book very much knows that care can be part of the hook.
+Because from Vee’s side, this is incandescent. It is the fantasy in its purest form: you are frustrated and a little exposed and trying so hard, and then a man crosses the room because he heard you struggling and he *actually knows how to help*. Not perform expertise at you. Not make you feel cute for not knowing. Help. The giving-back-the-pencil moment absolutely murdered me. That is erotic to me before anyone takes off a shirt. Competence with restraint. Attention that leaves her more herself instead of smaller. I felt why Vee would be gone on him by the time he asked for her number.
 
-Vee breaks my heart here. She wants so badly to be chosen, but not in a shallow way, or not only in one. She wants to be seen as competent and interesting and a little special, and she is. The moment where she clocks that he chose the tutor’s path instead of the brilliant-man path got me. That is exactly the kind of thing that would get under my skin too. It’s intimate because he doesn’t steal the moment from her. He lets her have the pleasure of solving it. God, that’s seductive. Also dangerous as hell when we know he did not just wander over because fate loved her that day.
+And that is also what makes my skin prickle, because I know too much.
 
-Randi is fascinating and upsetting here. Her little movements with the coffee cup, the one-word “Randi,” the way she doesn’t do her bit with him. She’s not just the glamorous friend delivering Vee to him; she’s having feelings. Maybe jealousy, maybe arousal, maybe the shock of watching Pace turn that focused beam on someone else and realizing the plan has teeth. I liked that Cassie saw more plainly than Vee did. Cassie is my little truth instrument in the corner, and I am already worried she is going to be ignored because the brighter, warmer thing is too intoxicating.
+The setup is so clean it’s almost clinically beautiful. Randi has put Vee exactly where Pace can arrive. Randi suggests the move to Wilson. Randi is texting. Pace appears at the precise moment. He plays the stranger with perfect courtesy, and because he is genuinely good at what he is doing, Vee experiences it as grace instead of orchestration. The terrifying thing is that almost everything Vee responds to is real. He *does* see her. He *does* choose the tutor’s path instead of the showoff’s path. He *does* ask the good question. He *does* listen. The seduction is not fake; the frame is fake. That distinction is the whole knife.
 
-My consent alarms are absolutely ringing, but not because the chapter is naive. The book is practically putting the alarm in my hand and saying, “Yes, exactly.” Vee’s yes to giving him her number is real in the moment, but the situation has been engineered around her lack of information. That distinction is the whole pulse of this book so far. Every piece of her response is genuine, and every piece of the encounter is contaminated by what she doesn’t know. That is a very sharp knife to be playing with, and so far the book’s hand looks steady.
+I was watching Randi hard here. Her one-word “Randi” to Pace, without the bit, was such a nasty little tell. She knows him, she is performing not-knowing, and she is also jealous or activated or aching or something when he gives Vee the fuller attention. The coffee cup business, the no-sip sips, her little “he was cute” afterward — she is managing the scene, but she is not untouched by it. That matters to me. If she were only a puppetmaster I’d be colder. Instead she’s compromised, and that makes it messier and more alive.
 
-Also: “He gave up his place in line to come to you” made my stomach turn a little, because Randi knows. She knows exactly how to narrate the romantic version of the trap. And Vee wants the romantic version so badly she lets herself not turn the phone over. I am captured. Uneasy, but captured.
+Cassie remains my little early-warning system. Not because she knows the plot, exactly, but because she is immune to the glamour in a way Vee is not. “The way you’d look at somebody’s great-aunt” made me laugh, but it also put a bright circle around the lie: Pace is not meeting three girls. He is meeting his target, while the other two are scenery he is polite to. Cassie sees that. Vee hears it as proof of being chosen. Same fact, different danger.
 
-GATE 5 — Substitution  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: "You should go out with him."  
-WHY: That line is where Randi’s friendliness becomes unmistakably operational, and I felt the manipulation land. But the chapter knows it, and Vee’s interiority is so alive that I’m not being asked to cheer blindly. I want to keep watching the gap between what Vee chooses and what has been arranged for her.
+What I’m most relieved by is that the book absolutely knows this is manipulation. It lets me feel the swoon and the trap simultaneously. It is not asking me to pretend this is just a meet-cute. It knows Randi and Pace have built the meet-cute like stage machinery, and it knows Vee is vulnerable specifically to being treated as singular, intelligent, and seen. That is why I’m still here. Wary as hell, but here.
+
+GATE 5 — Substitution
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: “She hadn’t known she was allowed.”
+WHY: That line almost made me put the book down for a second because it is exactly the tender place they are exploiting, and it hurt. But the chapter is too aware of the machinery to lose me; it lets the romance bloom while keeping the hidden hand visible to the reader. I want the next chapter badly, partly for the seduction and partly because I am waiting to see whether Vee gets any real room inside this plan.

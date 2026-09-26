@@ -1,0 +1,28 @@
+*capture-dag-v2-rich · gate ch005 · claude-opus-5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha a56102b7d0d5 · 2026-09-26*
+
+REACTION
+
+Oh, that was *lovely* and I hate it.
+
+Here's the thing: I've been reading this man for four chapters from the inside of his own head, watching him build a bench and slice an apple thin because she won't eat it thick, and I've been sitting here going, okay, this is the one, this is the guy — he asks, he waits, he gives the word back, he takes her hands out of his hair because he wants them empty for her own sake. And now I've had to sit in the *other* chair. I've had to watch him walk across a coffee shop toward a girl who has no idea she was pointed at on a lawn on Tuesday, and be exactly as good as I know he is, and be devastating with it, and I could feel my whole chest lean toward him the way Vee's did. That's the trick, isn't it. I'm ahead of her and it doesn't help me at all. I'm falling for it right alongside her, knowing.
+
+The pencil. God, the pencil. He picks it up — *asked for it with his eyes first* — writes one ugly memorizable formula and then basically says, don't carry that around, nobody should, and makes one little cross in the margin and says *you already know every piece of this,* and puts the pencil back in her hand at the exact line where she can finish it herself. I actually put my hand over my mouth. That is the whole thing I've been hunting for years, and it's not even sex. It's the same gesture as the bench. He does not solve her. He makes the room and then stands out of it. And she gets that private full-body elation of a person who just got handed something she'll use forever, and it's *hers*, and that's what he was after. "You already know every piece of this" is going to live in my head for a while.
+
+And "May I call you." *May.* And the book stops and lets her hear the word land, because she's never heard a man her age in possession of it. Yes. That. That's what I read for, and it took four sentences and no clothes came off and I was warmer than I've been in a lot of sex scenes.
+
+But — Euler's. Two things that won't give on their own, put at right angles, turning into one plain thing that's easy to name and easy to know what to do with. Sir. *Sir.* The chapter is called Substitution. You two are the right angle and Vee is the thing about to become easy to handle, and this book just told me so in a margin note and gave me the shiver for free. I'm suspicious of everything and delighted about being suspicious.
+
+Randi, though. Randi is killing me. That cup. Both hands around it, up to her mouth and down again, no sip, twice — and Vee, who reads rooms for a living, files it as *she's bored.* Randi's the one who pointed, Randi's the one who broke frame on the lawn and said the bare *yes* before she could dress it, Randi asked about Bessel's correction *just to get his eyes off Vee for a second* and I clocked it and Vee didn't. And then she turns around and does the smoothest, warmest, most generous lie to Vee's face — *he gave up his place in line, a man doesn't forget his coffee over a girl he isn't going to call* — steering her in, sweetly, the way she got steered into a shoulder-bump on the quad. That's the closest I came to putting the book down, and not because it was badly done. Because it was too well done. Randi went in that bathroom and decided *not ever*, and this is what "not ever" looks like out in the world: she can't have the being-seen, so she's going to hand someone else to it and stand there holding a cup she can't drink from. That's the saddest thing in the book so far and nobody in the scene knows it happened.
+
+And Cassie. Cassie is my girl and Cassie is doomed. She said *Goodbye, Vee* — the whole word — last chapter and I got a cold finger down my neck and now here she is again, headphones in, seeing it all, naming the look that slides off her every day of her life without a flicker of self-pity, and being overruled by Vee's own social reflex smoothing everything down. She's the only person in this book with clean vision and she's being managed out of the frame in real time.
+
+The other thing that got me, quietly: Vee doing the bit. Borrowing Randi's parents-had-a-sense-of-humor swerve because she'd tucked it away to try on later, and it *works*, and then she grabs her own name back — "Vee, people call me Vee" — because she doesn't want to be someone else in front of him. She's already copying Randi's poise and already flinching out of it. And the cardigan over the better shirt on purpose, and her mother's word arriving whole before she's finished looking at those girls, and the half-beat of looking underneath it that she doesn't let herself have. She's starving exactly the way the jacket said. Fine. Fine. I'm invested. Dammit.
+
+What I want now is the phone to ring and I want them in a room with nobody else in it. I've had four chapters of this man being alone with Randi and now I want one hour of him alone with Vee and I want to see whether the *may* holds when it's just the two of them.
+
+GATE 5 — Substitution
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+ALMOST-STOPPED: "A man doesn't forget his coffee over a girl he isn't going to call." — the sheer smoothness of Randi steering her with a lie, and Vee taking it like a gift.
+WHY: He was as good with a pencil as he was with the bench, which is the whole reason I'm here, and I got to feel it land in a woman who has never once been looked at like that. Two people at right angles turning her into something easy to name is the most elegantly sinister thing this book has done yet, and I want the phone to ring immediately.
