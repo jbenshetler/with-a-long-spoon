@@ -188,3 +188,49 @@ the effect), so this was a trim, not a recolor.
 - **"A hundred feet…still to close" vs. "across thirty feet"** (audit
   item 7) — the gap closes in rendered action (Randi dispatched, Pace
   relocating to the light pole); not a contradiction.
+
+## Addendum — developmental pass (2026-09-26)
+
+Source: author + human-reader flag (bed→walk transition abrupt; implied Pace
+already had a woman in mind), read against the eight-lane cold panel and the
+ch003 capture gates. Canon check: Vee is a first sight and the walk is
+improvised (chronology, condensed brief, pace-misread note).
+
+### Fixed
+
+- **Opening paragraph added** — Randi's ask at the door (*What are we doing
+  today. Something different.*), handed over rather than asked (the
+  {{The Bench}} "what are we doing tonight" mechanism); the callback to her
+  hiding is Pace-observable only: Saturday morning she walked past the table
+  with its top back on and did not look at it. Gives :9 "He had decided this
+  beforehand" its antecedent — her request.
+- **The game is invented in the moment** — bridge paragraph after *"Okay"*:
+  he lies there thinking and the idea arrives out of her *with you* — *All
+  right, then: with him. He could show her. They could find it together.*
+  Kept bare on author ruling (the campus/women/"a game, say" lines and the
+  gold light were cut): "she would not go toward it named" flagged a consent problem rather
+  than a fun game, and spelling the mechanism out here took away the surprise
+  the reader currently has alongside Randi. The two pre-namings of "the game" in bed (:29, :37) were trimmed so the
+  invention reads as invention; :59 "He had no name for the game yet" stands
+  and now follows from the bridge. Author ruling: do **not** render him
+  planless — the game is planned, generously, in the moment.
+- **:125 denial cut** — "He had not chosen the spot in advance" removed (a
+  denial plants what it denies); the object widened from "the doors" to "the
+  doors and everyone coming through them" — a stream, not a stakeout. The
+  operator-register wording of the sentence (declined recolor, 2026-08-02)
+  is otherwise untouched.
+- **Orphan repaired** — :129 "the closed camel-coat project" survived the
+  2026-09-14 candidate cut (claude-opus-5 cold read: "nobody on this quad wore
+  a camel coat"). Term dropped; condensed brief and chronology typology
+  trimmed to match.
+
+### Left standing
+
+- **"He took the body's answer for the true one. He usually did."** — the
+  convergent capture almost-stop (10 of 18 gates); every lane continues and
+  reads it as designed. Stands per the certainty-pass ruling.
+- **Candidate parade length** (five lanes, "one past necessary") — already
+  cut once; the *maybe* / *God, no* pair is the taste triangulation.
+- **"Go meet her" arriving fast** (three lanes) — the permission beat at
+  :143 answers it.
+
