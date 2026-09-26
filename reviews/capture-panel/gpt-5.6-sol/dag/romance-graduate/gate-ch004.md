@@ -1,17 +1,18 @@
-*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~3a52a74c7617 · 2026-09-07*
+*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 3a52a74c7617 · 2026-09-26*
 
-REACTION — Oh, this is catnip to me. Not sexually explicit catnip this time, but the seduction is absolutely happening. Vee isn’t being seduced with touch yet; she’s being seduced with belonging, and the precision of it made my stomach hurt. “The right pen” is such a tiny compliment, but of course it lands like that when someone has spent her life trying to earn admission to brighter rooms. Randi understands exactly how to make attention feel accidental, generous, and uniquely deserved. The fact that she extends the warmth to Cassie too somehow makes it more effective—Vee doesn’t feel targeted. She feels lucky.
+REACTION — Oh, Vee. This is exactly how you get someone who is starving: not by offering her sex first, but by remembering where she sits, admiring her pen, and acting as though seeing her again is already inevitable. I felt every tiny hit of validation land. The right pen. The high table. The casual hug. *See you later.* None of it would look consequential from outside, and to Vee it is practically a conversion experience.
 
-And knowing what I know makes every sweet beat sinister without making it fake. That’s the part I’m obsessed with. Randi really is delighted by Vee. Vee really does have the best hour she’s had in months. The coffee is good; the hug is warm; the invitation feels like rescue. Nobody has to counterfeit the pleasure for the manipulation to be real. That is so much more interesting—and more frightening—than some cartoon predator circling an innocent girl.
+And because I know Randi chose her before that “accidental” collision, the warmth is deliciously sinister. Not fake, exactly—that would be simpler and much less interesting. Randi really does want her. She’s also deploying a social fluency so powerful that Vee can’t retain the actual conversation, only the feeling of having been chosen. That blank transcript bothered me in the best way. Vee is not stupid; she’s overwhelmed by being given the exact belonging she has wanted so badly she can’t look directly at the wanting.
 
-Cassie’s “Goodbye, Vee” chilled me. She sees something, even if she can’t possibly see the whole machinery. More importantly, she’s a person who can simply say no and remain intact, while Vee experiences an invitation from the right woman as oxygen. That contrast told me everything. Vee is not stupid or passive; she’s perceptive as hell about clothes, bodies, status, rooms, and other women. She can read every signal except the one that says her own hunger is making her vulnerable.
+Cassie’s “Goodbye, Vee” made the back of my neck prickle. She sees something. Maybe not the plan, but she sees Vee being swept into an orbit and knows she can’t compete with it—or doesn’t intend to try. I wanted Vee to stop and look at her, and of course she couldn’t, because Randi was already saying *come on* and the brighter life was moving.
 
-Also: Vee looking at the nearly naked women, judging them in her mother’s voice, then immediately imagining how much better her own body would look in their clothes? Yes. There she is. That knot of desire, superiority, shame, and self-denial feels painfully real. And then Randi makes the entire room disappear. Vee does not remotely understand yet that part of what she wants is Randi herself, not merely Randi’s world, and I am extremely ready to watch those two wants become impossible to separate.
+The café scene also gave me the first real taste of Vee’s inner machinery, and yes, this is what I needed from her. The instant judgment of the half-dressed women, the mother’s voice living inside that judgment, and then the extra beat of looking underneath it: there she is. She wants visibility, flesh, women, status, permission—possibly all braided together so tightly she couldn’t separate them if she tried. The book isn’t coy about the desire, but it understands that Vee is coy with herself. That’s much hotter than simply having her announce an attraction.
 
-The blank transcript after coffee may be the most alarming thing here. She retained the feeling of being chosen, not what was said. That is exactly how someone gets led somewhere while believing every step originated inside her. I want to grab Vee by the shoulders; I also completely understand why she follows.
+No sex here, and I didn’t miss it. The seduction was happening the entire time. Honestly, “the queen having decided there would be a later” is more dangerous than a hand up her skirt at this stage. I’m watching Vee mistake precision targeting for miraculous recognition, while knowing Randi’s own desire is real enough to make the manipulation emotionally messy. That is absolutely my catnip.
 
-GATE 4 — See You Later  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: This chapter gave me psychological seduction with actual charge: Vee’s hunger is specific, Randi’s attention is both genuine and strategic, and I can feel the trap closing through pleasure rather than force. The heat has moved under the skin, and I’m absolutely following it.
+GATE 4 — See You Later
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+ALMOST-STOPPED: none
+WHY: This was a quiet chapter with a pulse under every sentence: Vee is being seduced through belonging, and she has no idea how expertly her hunger is being fed. Cassie’s “Goodbye” and Vee’s inability to remember the conversation have me deeply uneasy, while Randi’s genuine attraction keeps the whole thing from becoming a simple con.

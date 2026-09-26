@@ -1,23 +1,20 @@
-*capture-dag-v2-rich · gate ch004 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~3a52a74c7617 · 2026-09-08*
+*capture-dag-v2-rich · gate ch004 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 3a52a74c7617 · 2026-09-26*
 
-REACTION —
+REACTION — Oh no. Oh, Vee.
 
-Oh, this chapter is *dangerous* in exactly the way the jacket promised, and I mean that with my whole wary chest.
+This chapter is doing that horrible, delicious thing where nothing “happens” except the trap door opening under someone socially, and I felt every inch of it. Vee is so terribly ready to be chosen. Not in a stupid way, not in a naïve caricature way — in that very recognizable way where you’ve been orbiting rooms you weren’t invited into, and then someone beautiful turns the full beam on you and suddenly you can’t remember what caution was for.
 
-Because Vee. God. Vee is not just “lonely girl gets dazzled by glamorous girl,” though she is absolutely that. She is so exquisitely vulnerable to being chosen. The not-looking-at-the-door, the clean page, the right pen, the way one tiny remark from Randi lands like praise she has been training for without knowing it. I felt that in my stomach. She wants access, but not only social access. She wants permission to exist brighter, prettier, hungrier, more visible. And Randi, whether consciously in this moment or not, has walked straight into the exact shape of that hunger.
+Cassie saying “Goodbye, Vee” made my stomach drop. I love her immediately. She is not fooled, or at least not softened by Randi’s weather system, and because she’s so plain-spoken it lands like a warning bell nobody else can hear. And Vee brushing past it because the better thing is moving — yes. Painfully yes. That is exactly how it happens. The book knows this. The book knows the social mechanics of being separated from the person who might have anchored you.
 
-The Cassie thing made me cold. Not because Cassie is rude — Cassie is the only one in the room whose bluntness feels sane. “Goodbye, Vee.” That landed like a little omen. Cassie sees *something*. Maybe not the whole machinery, obviously, but she sees the velocity. She sees Vee being caught by a current and going with it. And Vee smoothing over the wrongness because Randi is already offering the better thing? Yes. That is exactly how you lose the quiet person who would have told you the truth.
+Randi is terrifying here because she is good. Not cartoon-villain good, not mean-girl good. She’s warm, she includes Cassie, she doesn’t visibly isolate Vee by being rude to the friend. She just makes herself the more radiant option and lets Vee step toward her. That is much scarier than if she’d been openly sharp. And Vee is already translating access into intimacy: the sign, the high table, the joke she’s “allowed in on,” the room she can now enter because Randi is the key. I know that feeling. I hate that I know that feeling.
 
-And Randi is terrifyingly good. The warmth “swinging over” to Cassie, the bit about her name, the invitation framed as not-an-invitation — “I’m not asking, I’ve decided” — the effortless way she turns every social object into a gift: the right pen, the coffee shop, the high table, the hug, “love you, girl,” “see you later.” I don’t think the book is naive about it. That’s what keeps me reading. It’s not just showing Randi as sparkly and irresistible; it’s showing how the sparkle works, how it enters Vee through all the little locked places. That blank transcript after the coffee hour is so sharp. Vee can’t remember what was said because the content was never the content. The content was being admitted.
+Also: “latent variables” just sitting there in the notebook like the chapter tapping the glass. Yes, thank you, I see you, book. Everything important here is inferred from what can’t be measured directly: Cassie’s goodbye, Randi’s touch, Vee’s blank transcript of the conversation, the way being chosen replaces content. That blankness especially got me. She can’t remember what Randi said because the actual drug was not the words. It was status. It was warmth. It was permission.
 
-I’m also increasingly uneasy because Pace and Randi have engineered this, and now we are inside Vee’s experience of the bait taking. And it is so tenderly rendered that I hate them a little more for knowing where to press. Vee doesn’t know she is already inside someone else’s game. She thinks the door opened because she was seen. And the worst part is that she *is* being seen, at least partly. That’s the trap. If Randi were fake, this would be easier to reject. But Randi’s attention has real heat in it, real pleasure, real appetite. Vee is not wrong to feel something happening. She is just missing the fact that the frame was built before she arrived.
+And I am very much still in because the authorial eye has not gone soft. This is tender toward Vee, but it is not pretending this is innocent. The title “See You Later” is such a little velvet hook. Randi says it like a promise, and Vee receives it like destiny, and I’m sitting here going: sweetheart, that’s not a calendar, that’s a leash being braided in real time.
 
-The Chi Latte scene also got me: the Greek joke, the high table, the girls in the room, Vee judging them in her mother’s voice while looking too long. The book knows her repression is not cute. It knows “floozies” is a borrowed weapon. It knows she is both jealous of exposure and starving for it. That makes me trust it more, even as I am side-eyeing everyone involved.
-
-So yes, I’m caught. Unhappily, but caught. This chapter pulled me harder than the sex scene, honestly, because this is the seduction at its most psychologically naked. No bench, no spanking, no obvious kink furniture. Just a seat in class, a coffee shop, a hand between the shoulder blades, and a girl thinking “later” like it’s salvation.
-
-GATE 4 — See You Later  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: "I'm not asking, I've decided."  
-WHY: That line is exactly the kind of charming override that can make me leave if the book treats it as harmless sparkle, but the chapter is too aware of Vee’s susceptibility and Randi’s social precision for me to think the author is asleep at the wheel. I’m deeply nervous for Vee, and I want to see whether the book keeps honoring how real her yes feels while not pretending the setup is clean.
+GATE 4 — See You Later
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: This was quiet and almost unbearably effective. I’m worried for Vee in exactly the way I want to be worried: not because the book is clueless, but because it understands how seduction can feel like rescue from the inside. Cassie’s “Goodbye, Vee” has me absolutely needing the next chapter.

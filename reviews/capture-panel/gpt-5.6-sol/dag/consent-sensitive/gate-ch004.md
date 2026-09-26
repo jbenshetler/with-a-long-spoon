@@ -1,15 +1,16 @@
-*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~3a52a74c7617 · 2026-09-07*
+*capture-dag-v2-rich · gate ch004 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 3a52a74c7617 · 2026-09-26*
 
-REACTION — Oh, this is terrifyingly effective. Vee is so hungry for admission into a world she’s been watching from outside that Randi barely has to do anything overt. The right pen, the preferred seat, the fashionable coffee shop, the high table—each tiny recognition hits Vee like intimacy. I felt how little nourishment she’s been living on, socially and emotionally, and how intoxicating it is when Randi serves her an entire feast of attention.
+REACTION — Oh, Vee. This is exactly how you get someone who has spent her life outside the room: you don’t merely invite her in, you make her feel as if her presence completes it. The right pen, the saved seat, the high table, the casual *love you, girl*—every tiny kindness is landing with the force of recognition because Randi has correctly read how hungry she is. And Vee experiences that accuracy as intimacy. I felt warm for her and sick for her at the same time.
 
-And Randi is *good* at this. The warmth that appears total, the invitations phrased as decisions, the instant intimacy of “love you, girl,” the casual certainty of “see you later”—she keeps removing the moments where Vee might have to risk asking for more. That can feel generous, but here it is also exquisitely controlling because Randi already knows what this meeting is for. Vee thinks she has been spontaneously chosen by the exact woman she would choose; I know she was selected, assessed, approached, and maneuvered into that chair. The book absolutely knows how alarming that is. “The transcript was blank” made my stomach drop: Vee retains the high and loses the substance. That is not friendship yet. That is induction.
+Cassie’s “Goodbye, Vee” scared me more than anything sexual has so far. She sees *something*. Maybe not the plan, but the velocity—the way Vee is already abandoning her own attention, her class, even the actual words Randi says, in exchange for the feeling Randi creates. That blank transcript is alarming. Vee comes away unable to remember the conversation, only the emotional hooks. That is not ordinary new-friend dazzlement anymore; that is someone being very expertly managed.
 
-Cassie’s “Goodbye, Vee” genuinely scared me. She sees something—maybe not the plan, but the social mechanism, the speed, the way Vee has vanished into Randi’s attention. And Vee smooths over the warning because the “better thing” is already moving. That is exactly how this kind of manipulation works: not by physically preventing someone from choosing, but by making one choice feel so radiant that everything else becomes background noise.
+And Randi is good. God, she is good. She absorbs Cassie’s refusal without losing warmth, keeps every gesture deniable, and makes inclusion feel spontaneous when we know Vee was selected in advance. Nothing she does would sound sinister if Vee described it afterward. That’s the trap. Pace may have started the pointing game, but Randi is not merely carrying out his idea—this is her native terrain, and watching her work is both intoxicating and frightening.
 
-I’m also very aware that Vee’s attraction to Randi is already there, unnamed and displaced into aspiration. She doesn’t merely want to be Randi or belong beside her. That “flat helpless want” is doing a lot more than Vee can currently permit herself to know. Knowing that Randi wants her too—and is using Pace’s permission and their secret plan to pursue it—makes this hot, but in the way standing too near an open flame is hot. I’m captured and deeply uneasy. This book knows exactly where the knife is.
+What keeps me in is that the book absolutely knows. It gives me Vee’s pleasure without asking me to mistake it for informed choice, and it lets her social hunger be real rather than making her stupid. I understand completely why this is the best hour she’s had in months. I would want the later too. That’s what hurts.
 
-GATE 4 — See You Later  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: The manipulation is escalating, but the narrative is looking straight at it, especially in the gap between Vee’s experience of being chosen and my knowledge that she was targeted. I need to see whether Vee eventually gets enough truth to make a choice that actually includes what Randi and Pace have withheld.
+GATE 4 — See You Later
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+ALMOST-STOPPED: none
+WHY: Cassie’s “Goodbye” put ice down my spine, and the empty space where Vee’s memory of the conversation should be made the whole seduction suddenly feel much more dangerous. The book still sees every lever being pulled, so I’m not leaving—I need to know whether Cassie pushes back and how deliberately Randi means to use this new power.

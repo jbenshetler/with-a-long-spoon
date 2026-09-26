@@ -1,24 +1,25 @@
-*capture-dag-v2-rich · gate ch003 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 63687c9c6bee · 2026-09-26*
+*capture-dag-v2-rich · gate ch003 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 6721d82ffe86 · 2026-09-26*
 
-REACTION
+REACTION:
 
-*Oh.* Oh, holy shit.
+Oh, *wow*. Wow. My heart is actually pounding a little bit.
 
-My stomach just completely dropped out. When I picked this up and read the jacket, I thought the book was going to be Vee’s story from page one. I thought we were watching Vee get drawn into their orbit, watching her meet Pace, watching the seduction happen to *her*. But we’re getting the architecture of the trap being built first—and seeing it from Pace’s point of view, watching him orchestrate this with Randi, is giving me absolute chills.
+I was not expecting this book to be structured this way. I went in thinking we’d be in Vee’s shoes from page one, getting drawn into the web—and instead, we are *inside the spider*. And seeing how the web is being spun is so much more thrilling and unsettling than I could have imagined.
 
-Because look at what Pace is doing. On the surface, it has everything I look for and usually can't find in this genre: he’s so attentive it borders on forensic, he reads her body, he’s exquisitely tender, he checks in, he pulls back to give her room to breathe, he doesn't rush her. The scene in bed where he brings up tasting another woman and her body betrays her with that immediate, helpless orgasm—it’s scorching hot. And the way he reads her emotional armor! He knows she has to package her queer desire as a "gift" for her boyfriend in a threesome because her sorority, pristine, hyper-controlled world can't stomach the truth of what she wants. He sees right through the "sex-kitten" performance. That should feel like the ultimate intimacy.
+The beginning of the chapter in bed—Pace is just... he’s terrifyingly attentive. That’s the exact phrase for it. *Terrifyingly attentive.* He reads Randi like sheet music. When he asked her about tasting another woman and her whole body came before her brain could stop it, and he just *held* that truth—he sees through every single layer of her armor. And what makes it so fascinating is that it’s wrapped in this immense, unhurried gentleness. He isn’t cruel to her; he wants to give her appetite air, he wants to make it safe for her to want things. But the way he plays her like an instrument is staggering.
 
-Except it’s utterly chilling, because he’s steering her like a precision instrument. He takes her out on that quad, plays this little "pointing game" wrapped in a walk and a breeze, and feeds her hunger until she spots Vee. And the way Randi executes that "accidental" collision—my god. It’s predatory, but it’s dressed in cashmere, good manners, and afternoon sunlight. Vee has no idea. She’s just a lush, gorgeous girl laughing with her whole throat bare to the sky, dropping her guard, and these two are standing by a lamppost mapping out her future.
+And then the walk. *God*, the walk. The psychology of him giving her the power—"I point. You pick"—so she doesn’t feel forced, so she gets to own her desire, while he quietly maneuvers the whole thing. And Randi’s predatory grace! That collision by the dining hall was breathtakingly cold and completely brilliant. The dance training, the sorority polish, making this poor, gorgeous, uncurated girl feel like *she* was the clumsy one bumping into the glamorous senior. The jacket promised us that it began as a game between them, but watching the game actually start on the pavement, in broad daylight, over autumn leaves? Chills.
 
-And that final line from Randi: *"Do you think she'll like the bench?"*
+And then that final line. *"Do you think she'll like the bench?"*
+I literally gasped. It’s so wicked. Randi, who felt so exposed and undone on that bench three days ago that she had to lock herself in the bathroom to stop from shattering, is now already planning to put this innocent, laughing redhead onto it. Hurt people hurting people, but make it insanely hot and psychological.
 
-My jaw actually hit the floor. After Chapter 1, where Randi was shattered on that bench, sobbing into the leather, locking herself in his bathroom because she couldn't handle being stripped bare and truly seen—her instinct isn't to run from the fire, it's to pull this innocent girl into it with them.
+I need Vee's entrance now. I need to see her walk into this trap with her eyes wide open, completely unaware of what these two have already decided for her.
 
-I’m completely hooked, and I’m terrified for Vee. Pace feels dangerous precisely because he *isn't* a brute. He doesn't bully. He doesn't force. He just opens the door and makes walking through it feel like your own idea. I need to see what happens when Vee actually steps inside.
+***
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The reveal of the game from the jacket snapping into real-time focus gave me genuine chills; the psychological manipulation is so quiet, tender, and mercilessly precise that I couldn't look away if I tried.
+WHY: The psychological interplay between Pace and Randi is razor-sharp, and watching the trap snap open for Vee was totally electrifying. I have to see Vee walk into this.

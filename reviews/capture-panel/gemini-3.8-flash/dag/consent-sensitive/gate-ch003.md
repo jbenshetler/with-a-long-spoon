@@ -1,23 +1,26 @@
-*capture-dag-v2-rich · gate ch003 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 63687c9c6bee · 2026-09-26*
+*capture-dag-v2-rich · gate ch003 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 6721d82ffe86 · 2026-09-26*
 
-REACTION
+REACTION:
 
-Oh, god. Oh, *god*.
+Oh, *wow*. My stomach just completely dropped.
 
-The jacket told me, but seeing it click together in real time made my stomach drop into my shoes. "Two people have planned the best year of her life. She doesn't know there's a plan." Seeing the origin of that plan—watching it engineered on a sunny Tuesday afternoon between a guy who thinks he is practicing enlightened, tender psychological excavation and a deeply armored girl who is redirecting her terrifying shame into an engineered hunt—is chilling.
+When I started Chapter 1, I naturally assumed the woman on the bench was Vee—because the jacket blurb puts Vee front and center as the girl being orchestrated into their world. Then at the end of Chapter 1, he whispers, *"There you are, Randi,"* and it completely upended the board. But *this* chapter? Seeing the origin of the "invitation" from the other side of the looking glass is chilling in the most exquisitely calculated way.
 
-What makes this chapter so sickeningly gripping is that Pace truly, deeply believes he is being *gentle*. He thinks he is liberating her! In his head, he is this generous, observant maestro who gives her room to breathe, who translates her involuntary physical reactions into "truth," who lets her wrap her panic in the socially safe wrapper of "a gift for him." And he is completely, utterly blind to the fact that he is steering a damaged, hyper-controlled woman into hunting an unsuspecting third person just to survive her own vulnerability. The terrifying part is that the *prose* isn't blind to it. The prose lets us sit right inside Pace’s patronizing, god-complex tenderness while making the horror of what they are doing to Vee crystal clear.
+Look at how Pace operates. He is terrifyingly observant. He uses his mouth, his weight, his timing, and the exact moment her defenses are down from an orgasm to drop a psychological depth charge: *"Would you like to taste another woman?"* He bypasses her conscious mind, registers the physical response as "truth," and then—under the guise of infinite patience, gentleness, giving her "room to choose"—he systematically manufactures a game to shepherd her toward acting on it. He knows she can't own the desire as a queer woman in her rigid, policing sorority world, so he lets her costume it as a generous threesome for *him*. And then he takes her out like a bird dog, walking her through campus, pointing at women, slowly desensitizing her until she spots the prey.
 
-Randi's psychology here is fascinating and dreadful. She was so profoundly shaken by breaking down on that bench in Chapter 1, and so suffocated by her sorority house's panopticon in Chapter 2, that when Pace brings up tasting a woman, her internal circuitry just shorts out. Her body betrays her again. So what does she do? She weaponizes it. She takes the thing that makes her feel helplessly exposed and turns it outward. She turns *herself* into the director. The way she executes that bump into Vee—the calculated, dancer-precise physical engineering to make the victim apologize—showed exactly what Randi is capable of when she feels cornered. She takes control by orchestrating someone else’s loss of it.
+And the prey is Vee.
 
-And that ending line: *"Do you think she'll like the bench?"*
-Chills. Absolute chills. Because Randi hated and loved being broken on that bench, and now she wants to put this lush, unmanaged, laughing redheaded girl on it. To see her broken, too? To share it? To watch Pace do to Vee what he did to her, so Randi doesn't have to be the only one naked and begging?
+The description of Vee coming out of the dining hall—uncurated, loud, laughing with her throat bare, utterly unmanaged—contrasted against Randi’s starved, hyper-policed, calorie-counting, image-conscious existence is brilliant. Randi doesn't just want Vee sexually; she wants to devour that freedom. And the way Randi executes that "accidental" collision? Pure predatory mastery disguised as feminine grace. She made *Vee* apologize.
 
-Pace’s paternalistic "Let's go feed you" right after that sociopathic question felt like a masterclass in sinister coziness. The trap is built, the bait is chosen, and poor Vee was just laughing in the sun, having no idea the machinery of these two messed-up people has already locked onto her. I am horrified, deeply uncomfortable, and completely hooked.
+Then that final line. Holy hell.
+*"Do you think she'll like the bench?"*
+*"Let's go feed you."*
+
+The grooming of Randi into becoming a groomer herself. Pace feeding Randi’s starved ego and suppressed desires by offering her another human being as a meal. The jacket warned me: *"Two people have planned the best year of her life. She doesn't know there's a plan."* Seeing the trap snap into place before Vee even knows she's stepped into the clearing is breathtakingly dark, but the prose is so psychologically acute. It knows *exactly* what Pace is doing. It knows the exact mechanics of Randi's rationalizations. The author isn't asking me to think Pace is just a sweet, attentive boyfriend; the tension is electric because the manipulation is so patient, so quiet, and so devastatingly effective. I am completely hooked.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The transition from intimate psychological manipulation in the bedroom to predatory social engineering on the quad was seamless, chilling, and completely understood by the narrative framing. The horror of Vee's impending entrapment works precisely because the book fully comprehends how sick and tender Pace and Randi's dynamic actually is.
+WHY: The reveal of how Vee was selected and targeted—framed through Pace subtly manipulating Randi's repressions until she hunts a girl for them both—is masterfully dark, chillingly precise, and impossible to put down.

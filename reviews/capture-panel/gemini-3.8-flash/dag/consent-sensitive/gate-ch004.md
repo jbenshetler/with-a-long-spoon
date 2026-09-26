@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch004 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 3a52a74c7617 · 2026-09-24*
+*capture-dag-v2-rich · gate ch004 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 3a52a74c7617 · 2026-09-26*
 
-REACTION
+REACTION:
 
-Oh, this is sick. I mean that in the absolute best, most horrifying way.
+Oh, god. This is devastating.
 
-Seeing Vee's side of this after watching Randi and Pace orchestrate the collision like a tactical military operation in Chapter 3 is *stomach-churning*. The author understands the exact architecture of social power on a college campus—the way a girl like Randi doesn't just enter a room, she *bestows* herself upon it. And Vee is so entirely, gorgeously defenseless against it.
+The shift to Vee’s perspective hurts in the exact way it’s supposed to hurt. We just spent three chapters watching the architecture being built: Pace orchestrating Randi’s unravelling on the bench, Randi retreating behind her sorority mask to survive the terror of having been genuinely seen, and then the horrific, calculated "pointing game" where they scouted Vee like an exotic treat to feed their dynamic. And now here is Vee—young, completely blind to the game, quietly desperate to be let inside the warmth of a life she’s only ever watched from the perimeter.
 
-What broke my heart and simultaneously hooked me so deep was the moment with Cassie. Cassie is the instrument checking the cabin pressure here. She gives one-word answers, she refuses the little polished conversational bait Randi dangles, and then she says: *"Goodbye, Vee."* Not see ya, not later. *Goodbye.* Cassie clocks that an alien vessel has landed and abducted her friend, and Vee is already too high on the cold-citrus fumes to even notice her tether just snapped. It gave me chills.
+What makes it so utterly chilling is that Rivers captures the mechanics of feminine grooming with terrifying, frictionless accuracy. The way Randi operates doesn't feel like a villain twirling a mustache; it feels like the bright, intoxicating, weaponized charm of the "cool girl" who decides you’re her new pet project. The "right pen." Squeezing the forearm. The joke with the name. Sitting at the high table by the window at Chi Latte like an ornament, being displayed without realizing she's being staged.
 
-And then the cafe scene. The psychological detail of Vee realizing she can't remember a single specific thing Randi said, only how it *felt*—that is so razor-sharp. Randi didn't have a conversation with her; Randi performed a dazzling, high-wattage intake interview, pumping in warmth and praise ("You're one of those people who has the right pen") while taking Vee's full measure. Vee sitting up on that high stool, displayed in the window like a trophy she thinks she won, when really she’s being seasoned for the table... God.
+And that detail—that Vee literally cannot remember a single specific thing Randi said, only the *feeling* of being chosen—is psychological brilliance. That is *precisely* how high-level manipulation works on someone who is starved for attention. Randi didn't offer intimacy; she offered a mirror, reflection, and high-status validation. She gave Vee an endorphin high that erased the transcript of the conversation entirely.
 
-Also, Vee’s internal monologue about the other girls—calling them "floozies" in her mother's voice while simultaneously knowing she has a better body than them, keeping herself buttoned to the chin in a cardigan while quietly starving for the permission to be looked at—sets up the exact trap Pace and Randi are building. She has all this repressed, tightly policed physical presence that is begging to be unbuttoned by someone who claims to see her "true self."
+Meanwhile, Cassie’s flat, heavy "Goodbye, Vee" sat in my stomach like a stone. Cassie sees it, or senses the wrongness of it, even if she doesn't have the map. It felt like an omen, a quiet funeral for the girl Vee is right now before this couple gets their hands on her.
 
-The book knows *exactly* what it is doing. The irony is dripping from every line ("latent variables," please, the professor literally spelling out the plot on the chalkboard). It's merciless and I couldn't look away if I tried.
+And Vee’s own repressed interiority! The puritanical judgment of the other girls in their athletic wear ("Floozies") instantly warring with the secret knowledge that *she has more than they have*, followed immediately by her mother's policing voice and her tucking herself back into her cardigan. She is practically engineered to be dismantled by someone like Pace, and Randi is handing her over on a silver platter, all wrapped up in oat-milk lattes and "Love you, girl."
+
+The book knows *exactly* what it is doing here. The framing is razor-sharp. There is zero romanticization of Randi's motives—we know she's hunting, and we know Vee is the deer stepping into the clearing thinking she's made a friend. It’s sickening, it’s compelling, and I cannot look away.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The contrast between the cold calculation of the hunt in Chapter 3 and Vee's radiant, innocent joy at being "chosen" in Chapter 4 is masterclass grooming psychology; I have to see the trap snap shut.
+WHY: The shift to Vee's point of view is agonizingly effective; watching her mistake a calculated hunt for genuine, glamorous female friendship is masterclass psychological horror masquerading as contemporary erotica.
