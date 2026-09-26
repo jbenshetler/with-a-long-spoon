@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch001 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha dcad3bf2a6ac · 2026-09-26*
+*capture-dag-v2-rich · gate ch001 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha db78667b9255 · 2026-09-26*
 
-REACTION:
+REACTION
 
-Holy shit. Holy *shit*.
+Holy shit.
 
-I started this chapter assuming—naturally, from the jacket—that I was watching Pace with Vee. The whole beginning, the quiet confidence, the way he cut the apple thin for her, the way he was so careful not to rush her, the dominance that was so profoundly *gentle* and attentive. I was melting into it. The consent here wasn’t a clipboard; it was his absolute focus on her, backing off to let her choose the kiss, checking in, giving her room to set the pace. And then the bench—God, the bench was intense, the slow build, the psychological precision of him making her drop the performance and just *beg* for what she actually needed. It was gorgeous, hot, incredibly tender erotica.
+I went into this expecting the jacket's setup—Vee starving, Vee walking toward Pace, Randi engineering the whole thing from the wings. I was settling in for the slow seduction of the heroine. And then—the reveal. *"There you are, Randi."*
 
-And then he says her name.
+My jaw actually dropped. I had to stop and reread the sentence.
 
-*"There you are, Randi."*
+This isn't Vee. This is *Randi*. The glamorous, untouchable girl who later steers Vee into his path. Pace completely unmade *her* first. And the way it was written—God, it hit every single note I look for. The absolute control balanced with deep, attentive tenderness. The way he checks in ("Tell me your word," checking her shoulders, kissing her forehead), the unhurried patience, the fact that he doesn't touch her clit just to get it over with, but reads her body, watches her breathing, respects the space she needs afterward. When he stayed outside the locked bathroom door because of what he learned with Daphne? That is a Dominant who actually understands care.
 
-My jaw literally dropped. I had to stop and stare at the wall. *Randi.* The glamorous friend! The one who, according to the jacket, "steers her lightly, laughing, as if by accident, into the path of a young mathematician named Pace." This isn't the beginning of Vee's story. This is the prelude. This is the *trap being built*, or worse—this is Randi having her soul cracked wide open by this man, completely terrified of the vulnerability he just pulled out of her, retreating behind her perfect sorority-girl mask in the bathroom and deciding *he will never get that close to her again.*
+And Randi's internal panic in the bathroom was breathtaking. The sheer terror of having the performance stripped away, of being *seen* when your whole armor is being desired from a distance. The way she realizes he broke through the mask, and how utterly intolerable that tenderness feels to someone who relies on control. "He could have the face... The one he had found was going back behind it, and she was not coming out again."
 
-The psychological turn in that bathroom made the hair on my arms stand up. Randi realizing she was completely undone, that she gave away the real girl behind the face, and the deadbolt turning in her mind: *"The one he had found was going back behind it, and she was not coming out again."*
+And then the ending, where she realizes she has to figure out what to do about this—and knowing the jacket! She brings him *Vee*. Is Vee an offering? A deflection? A way to keep him occupied so he stops looking so deeply at *her*, while still letting her stay close to the heat of it?
 
-And now I know what the jacket meant. "It began as a game between the two people now closest to her, a secret choice made about her." Randi can't bear the heat of being seen by Pace, but she can't walk away from it either. Is she going to offer up Vee as a buffer? As a project? As a way to keep Pace close without having to be the one on the bench?
-
-The control, the care, the terrifying tenderness of Pace, paired with the chilling, heartbreaking armor Randi just slammed shut—I am completely hooked. This is so smart, so dark, and so deeply, wickedly compelling. I need chapter two immediately.
+The psychological architecture here is incredible. The sex was blistering, but the emotional stakes are what hooked me by the throat. I am completely in.
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The absolute masterclass of a twist revealing this was Randi, not Vee, recontextualized an already breathtakingly hot, psychologically tender scene into something brilliant and chilling. I cannot open the next chapter fast enough.
+WHY: The twist of this being Randi completely rewired the book's premise in the most brilliant way, and Pace's brand of patient, profoundly observant dominance is the exact thing I spend years hunting for in this genre.
