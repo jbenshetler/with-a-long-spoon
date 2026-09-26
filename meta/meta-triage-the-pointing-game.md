@@ -245,4 +245,22 @@ improvised (chronology, condensed brief, pace-misread note).
   {{Vee Tells Randi About the Bench}}. "The fact of her pleasure stayed
   bright in him" cut to make room; no Pace interior sits between the
   question and the answer.
+- **Second ask grounded in bed (third pass, same day)** — before *"Do you
+  actually want to taste another woman?"*: her head on his chest, her
+  fingers idle on him, chest to stomach and back; *Her breath had come
+  all the way down* (the :39 condition met — he waits for the heat to
+  leave the room; the prior waiting and framing stand); *He asked it into
+  her hair* (rhymes the first ask's *into the warm disorder of her*). :43
+  "said in bed" kept (a "said in the heat" recast was tried and reverted on
+  author ruling — the grounding sentence now does that work). The flinch re-opened on author ruling: a flinch is
+  instantaneous, a shiver takes time — the "shiver under the skin" gloss
+  cut; the flinch is *felt*, not seen (her body against his going tight
+  for an instant and letting go), a shock to her, not a literal lifting of
+  her fingers. The kept comprehension clause (:41 ruling above) untouched.
+- **Word-level (same pass)** — :91 "the frame snapped into place" →
+  "the picture", reserving *frame* for the dance hold at :137; "register"
+  thinned 4 → 1 (:45 "the low warm voice", :71 noun dropped, :123 "the
+  trailing voice"; :163 "the register she only used in his bed" kept as
+  the load-bearing one). Rec-center pair paragraph: trim proposed on the
+  detail-versus-verdict argument, **declined** by the author; stands.
 

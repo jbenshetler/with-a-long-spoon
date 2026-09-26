@@ -5821,6 +5821,13 @@ text = "He watched it work through her in stages."
 note = "reviewed in style pass — accepted to stand"
 
 [[ok]]
+fp   = "adf0eb4a7f4c"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "He felt grateful for the glimpse and wanted to give that wanting air without making her pin it beneath a solemn name."
+note = "author ack 2026-09-26: re-armed by the pointing-game developmental pass; sentence stands"
+
+[[ok]]
 fp   = "b70af9a629db"
 rule = "filter-verbs"
 file = "scenes/the-pointing-game.md"
@@ -5847,6 +5854,20 @@ rule = "filter-verbs"
 file = "scenes/the-pointing-game.md"
 text = "He felt the small recoil of that in her hand, the propriety offended."
 note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "fb63aebee883"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "He got up and started pulling on his clothes, and she watched him from the bed, taking inventory as she always did, and after a moment she reached for hers too."
+note = "author ack 2026-09-26: re-armed by the pointing-game developmental pass; sentence stands"
+
+[[ok]]
+fp   = "3116c4642da5"
+rule = "held-past"
+file = "scenes/the-pointing-game.md"
+text = "Then Randi's hand went to the girl's arm — *no, no, my fault, it's fine* — light, warm, settling, the hand staying a half-beat longer than the apology required, and the redhead's shoulders came back down out of their fluster, and they were laughing."
+note = "author ack 2026-09-26: the hand staying a half-beat longer than the apology required — designed"
 
 [[ok]]
 fp   = "1ad13377ec6b"
@@ -5959,6 +5980,13 @@ rule = "the-way"
 file = "scenes/the-pointing-game.md"
 text = "The wind came down off the ridge and got at her hair the way it got at everything else on the quad and found almost nothing to move — black and fine and gathered back into a sleek ponytail, a scrunchie at the crown the one allowed flourish, the tail swinging clean when she turned her head and not otherwise; she had decided that morning exactly how much of her the day would be permitted to touch, and bound the rest."
 note = "kept — wind treats her hair like everything else, finds nothing to move"
+
+[[ok]]
+fp   = "fa9488467455"
+rule = "the-way"
+file = "scenes/the-pointing-game.md"
+text = "She was walking with another girl and she had her head thrown all the way back, laughing — balanced even in that, throat bare to the sky, laughing at something with her whole body the way the polished girls and the matched pairs would never laugh at anything in public, would never let go of the wheel that completely — laughing like a person who had genuinely forgotten, for the length of the laugh, that she could be seen."
+note = "author ack 2026-09-26: re-armed by the pointing-game developmental pass; sentence stands"
 
 [[ok]]
 fp   = "ff66199ee7c0"
