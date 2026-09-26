@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha db78667b9255 · 2026-09-26*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 8d71b32196ef · 2026-09-26*
 
-REACTION
+REACTION — Oh. Oh, that name.
 
-Oh. Oh, this book knows exactly what it is doing.
+“There you are, Randi” made the whole chapter drop out from under me. I had been reading this as the promised seduction of Vee, already watching Pace very carefully: the meticulous food management, the custom-built bench, the way he controls time and attention while defining whatever survives that control as her “real” response. It was intensely hot, but it was also setting off every instrument I have. He asks, checks, gives her a safeword, watches her body closely, and respects the locked bathroom door. None of that changes the fact that he is deliberately dismantling her practiced self and treating what emerges under pressure as a truth he has uncovered. That is incredibly intimate, incredibly erotic, and not remotely neutral.
 
-For most of the scene I was caught between being intensely turned on and keeping one hand on the alarm bell. Pace is so careful in all the recognizable ways: he waits, checks her body, gives her a safeword, reminds her he will honor it, monitors her physically, tends her afterward, respects the locked bathroom door. And yet he is also deliberately taking her toward a psychological destination she has not agreed to because she does not know it exists. He isn’t merely edging her body; he is waiting for her social self to fail. That distinction matters enormously to me, and the chapter absolutely sees it.
+Then she is Randi, and suddenly this is not simply the origin of a woman being opened. It is the origin of one of the two people who will choose and steer Vee.
 
-The reveal that this is Randi made my stomach drop. I had been reading her as Vee because the jacket trained me to, then suddenly the whole thing rotated: this is one of the planners before—or during—the plan, and she is nowhere near as invulnerable or informed as her future role suggests. She is already hiding something foundational from Pace while he believes he has met the real her. So the people who will engineer Vee’s choices are themselves operating through false assumptions about each other. That is delicious and frightening.
+What keeps me here—what has me absolutely staying—is that the book sees the wound. It does not let Pace’s tenderness settle the question of whether he has done something good. He thinks he has fed her; she experiences being found as something ecstatic and intolerable, and immediately decides to put the face back on and never let him see her again. The difference between his warm certainty and her silent retreat is terrifying. He does everything a conscientious dominant is supposed to do at the level of procedure, yet he still misunderstands what happened because he believes access equals revelation and revelation equals benefit. That is exactly the sort of power problem books so often wave away with “but he knows her better than she knows herself.” This one has put a knife straight through that fantasy.
 
-“There you are” was the emotional knife. Pace experiences it as recognition; Randi experiences it as exposure. His tenderness is not fake, which makes it worse. He genuinely believes he has freed and fed her, while she experiences the same event as being found somewhere she cannot survive being found. Neither reading cancels the other. I believe her desire completely, and I also believe the terror. Her yes was real. Her pleasure was real. Her decision to lock herself away afterward was real too.
+And Randi locking the bathroom door after Pace has noticed she always locks the front door—God. Her boundaries are architectural. He respects the literal door while failing to recognize the person rebuilding herself behind it. The self-harmish pressure of the bottle cap under her thumbnail frightened me more than the spanking did. So did her flinch at “You’re beautiful.” The scene gave her pleasure, but pleasure did not make the aftermath safe or simple, and I trust the book much more for knowing that.
 
-I’m especially relieved that the bathroom section refuses to turn her tears into automatic proof of healing or catharsis. The chapter lets pleasure destabilize her without claiming that destabilization is therefore good for her. And the final stretch, with Pace quietly congratulating himself while she reconstructs the face he thinks he has penetrated, is exactly the kind of dramatic irony that tells me the author sees the danger. I do not trust Pace’s confidence about what he has “found,” but I currently trust the book’s awareness of that confidence.
+I’m also now deeply suspicious of what Randi will do with Vee. If she later helps Pace recreate this experience for another young woman—especially while withholding the plan—then is she offering Vee the awakening she cannot bear to own, trying to regain control by standing on the knowing side, or both? The jacket’s “two people have planned” feels much darker now. I expected Randi to be the glamorous recruiter. I did not expect her to be the first person Pace found behind a face.
 
-Also: the apple slices. Him learning the exact presentation that gets food past her internal police is tender, observant, and potentially terrifying—the whole novel in miniature, apparently. He knows how to make wanting easier for a woman, and that can be care or leverage or both.
-
-I am absolutely continuing. I want to know how this wounded, armoured Randi becomes the laughing woman who steers Vee toward him, and whether she is recruiting Vee into pleasure, into danger, into a structure that protects Randi from being the one exposed—or all three.
+Text to a friend at 1 a.m.: “The dom did everything ‘right,’ the scene was scorching, and then the woman went into the bathroom and decided he must never see her again. Also SHE’S RANDI. I am unwell.”
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-ALMOST-STOPPED: “But it was not the right *please* yet. It was still her *please*.”
-WHY: That line put me on immediate high alert because Pace was deciding which version of her desire counted as authentic. But the chapter then gave Randi full, devastating interiority and showed the cost of his certainty, so I feel the book understands the problem rather than asking me to applaud it.
+ALMOST-STOPPED: none
+WHY: The heat pulled me in, but the bathroom aftermath earned my trust: the book unmistakably understands that consent, pleasure, tenderness, and psychological danger can all occupy the same room. I need to know how this wounded, hidden version of Randi becomes the woman who helps choose Vee.

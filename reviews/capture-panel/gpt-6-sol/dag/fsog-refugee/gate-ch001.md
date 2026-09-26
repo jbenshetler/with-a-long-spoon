@@ -1,12 +1,14 @@
-*capture-dag-v2-rich · gate ch001 · gpt-6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha db78667b9255 · 2026-09-26*
+*capture-dag-v2-rich · gate ch001 · gpt-6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 8d71b32196ef · 2026-09-26*
 
-REACTION — Oh, I was *in* that room. The apple slices got me almost as much as the bench: he notices what she’ll actually eat, and he likes it when she tells him where to sit. Then he takes charge, but keeps coming back to her face, her breathing, whether she’s still with him. That combination is exactly why I pick up books like this.
+REACTION — Oh. Randi. I spent the whole evening thinking I was watching Pace with Vee, and then he said her name and I had to stop for a second.
 
-The name stopped me cold. **Randi.** I had to think back over everything I’d just felt, because the jacket has me waiting for Vee, and now I’m watching Randi come apart with Pace. I loved that he stayed with her afterward and let the locked bathroom door be hers. I’m also frightened by how sure he is that the night was beautiful while she’s in there deciding he can never see that part of her again. Her “yes” to staying hurt. I want to know how someone can be held so gently and feel so alone in it.
+I was very into the way he noticed her: the apple slices, her hands, the moment she needed him at her face instead of behind her. The forehead kiss in the middle of it got me more than the spanking. And when she was crying afterward, he held her and let her be quiet. That is exactly the combination I keep looking for.
+
+But the bathroom hurt. He thinks he found her and gave her something; she feels found and immediately decides to hide from him forever. I believe both of them, which makes their last little “hi” unbearable. I’m also less sure what to do with his “no” when she begged. She had agreed to the scene and had a word she knew she could use, but he was so certain he understood what she needed that I wanted him to notice how much more than pleasure was happening to her. Now he’s holding her so tenderly while missing the thing she most needs him to see. I need to know what happens when he finally does.
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The heat pulled me in, and Randi’s retreat made me need the next chapter. I trust his care in the room; I don’t trust what either of them thinks happened afterward.
+WHY: The tenderness and intensity had me completely, and Randi’s retreat behind that smile has me reaching for the next chapter. I want to see whether Pace can make room for what she actually feels, once it stops looking like the beautiful night he thinks they had.

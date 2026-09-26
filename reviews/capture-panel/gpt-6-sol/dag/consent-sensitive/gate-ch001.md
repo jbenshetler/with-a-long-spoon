@@ -1,16 +1,14 @@
-*capture-dag-v2-rich · gate ch001 · gpt-6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha db78667b9255 · 2026-09-26*
+*capture-dag-v2-rich · gate ch001 · gpt-6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 8d71b32196ef · 2026-09-26*
 
-Oh. It’s Randi.
+REACTION — Oh, Randi. I was so ready to believe that crying on the bench meant she’d found something she wanted and could bring it back into the room with him. Then she locked the bathroom door, and I felt my stomach drop. She *did* want it. She was more alive there than she knows what to do with. And now she’s decided he can never see that part of her again.
 
-I spent the first stretch thinking I knew which woman I was watching, and then he said her name and I had to stop. The apple slices had felt tender and a little too knowing already. Now I’m thinking about how carefully he notices what she’ll accept, how he can give her exactly that, and how much he enjoys waiting until she gives him what he wants.
+The scene got to me. I liked that she climbed onto the bench herself, that he checked in, that she had a word, and that the pleasure was hers. I also kept noticing how much he knew and arranged: the apple slices, the waiting, the moment he refused her because he wanted a different voice from her. That refusal was hot, and it scared me a little. He thinks he’s found and answered her hunger. He has no idea what being found has cost her.
 
-I was with them on the bench. The check-ins felt real to me; so did her desire. But when she said please and he decided it wasn’t the *right* please yet, I went cold for a second. He wanted a part of her she hadn’t agreed to show him, and he knew how to get there. I don’t need him to be harmless. I need the book to know what he just did.
-
-The bathroom gave me that. Her trying to put her face back on hurt more than the spanking did. And then she comes out, curls against him, and he’s quietly pleased with himself while she’s privately deciding he can never see her like that again. I believe his tenderness. I also believe she’s hiding inside it. I’m absolutely reading on.
+I’d text a friend: *He heard her crying behind a locked door and respected the lock. I believed he meant well. She came out smiling and he believed that too, and I am absolutely reading on.*
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-ALMOST-STOPPED: “But it was not the right *please* yet.”
-WHY: That was the moment I feared the book would call his judgment intimacy and leave it there. Randi’s private recoil tells me the book sees the cost, even while Pace doesn’t.
+NEXT: 10
+ALMOST-STOPPED: none
+WHY: I was deep in the scene, and the bathroom made me need the next chapter. I want to know whether Pace ever sees the difference between Randi’s yes and the face she puts on after it.

@@ -1,18 +1,22 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha db78667b9255 · 2026-09-26*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 8d71b32196ef · 2026-09-26*
 
-REACTION — Oh, this has me. The apple slices got me almost as hard as the bench did, which is exactly the problem—in the best way. He notices how she’ll eat them. He notices when her body is asking for his hands. He notices the difference between her polished *please* and the ugly real one underneath it. That level of attention is hotter than any interchangeable growling alpha grabbing a throat on page twelve.
+REACTION
 
-And then the chapter turned the orgasm into an emotional catastrophe. Her crying didn’t feel like decorative “subspace”; it felt frighteningly intimate, especially when he called her beautiful and she flinched. The bathroom scene hurt. I know that face—the socially perfected woman who can accept being desired as long as nobody reaches the person doing the performing. Watching Randi put herself back together and decide, silently, that he will never get the real version again made me feel sick for both of them. He thinks he fed her. She thinks he breached her. Neither interpretation is false, which is deliciously awful.
+Oh. Oh, this is vicious.
 
-Pace is walking a very narrow line for me. His patience, check-ins, and refusal to invade the locked bathroom make me trust him more than I expected to, but his confidence that he understands what her body means can still feel ominous. “No, you said it was a table. I didn’t correct you” raised every little warning hair I own. So did his private satisfaction at having taken her further than expected. But the chapter knows those moments are charged; it isn’t asking me to swallow him as uncomplicated boyfriend perfection.
+I spent almost the entire chapter thinking I was meeting Vee through Pace’s eyes, and then “There you are, Randi” landed like the floor disappearing. I actually had to go back and check the jacket. So this is the glamorous friend before she becomes the glamorous friend—the woman who will eventually help him draw Vee into this, already locking away the part of herself he reached. That changes the whole promised seduction. Whatever game they later make of Vee is apparently growing out of this wound between them, and now I desperately need to know how.
 
-Also: Randi. Not Vee. So this is the glamorous friend before she becomes the woman steering Vee toward Pace, and now I desperately need to know how *this* terrified, exposed girl becomes his co-conspirator. The jacket’s “game between two people” just acquired teeth. I thought I was opening a seduction plot; apparently I’ve opened the origin story of the woman who will help construct one.
+The heat absolutely worked for me because it wasn’t interchangeable spanking-scene choreography. The apple slices got me almost more than the bench did: he has noticed the exact shape in which she permits herself to be hungry. That is intimacy so specific it feels both loving and dangerous. And the waiting—the way he keeps refusing to rush past her performance to the orgasm—made the scene feel genuinely exposing. “It was still her please” is such an unnerving thought for him to have, but the chapter earns the distinction. I understood exactly what he was listening for, and when the other voice finally came out, I felt the release.
 
-And yes, the heat absolutely worked. It was explicit without becoming a mechanical inventory, because every touch altered who Randi understood herself to be. That is precisely what I’ve been starving for. I would text a friend: “The spanking bench is somehow about dissociation and I am UNWELL.”
+And then the bathroom scene turned everything inside out. Pace believes he has freed and fed her; Randi experiences the same tenderness as a threat to the entire structure that keeps her safe. Neither reading feels fake. That is the grown-up psychological trouble I keep wanting erotic books to risk: not “was consent technically obtained?”—it plainly was—but what happens when a freely chosen experience reveals something you cannot bear to know about yourself. Her deciding he can have the face but never her again hurt far more than I expected in a first chapter.
+
+I’m wary of Pace, but not in the lazy dark-romance way where the book calls control devotion and hopes I won’t notice. He is observant, patient, careful about her word, and capable of respecting the locked bathroom door because he once failed someone named Daphne. He also takes a warm private pleasure in having pushed Randi further than expected and completely misreads the silence afterward. That combination is much more interesting—and much scarier—than a stock alpha. He sees extraordinarily well, except where believing himself tender keeps him from seeing.
+
+Text to a friend at 1 a.m.: “The first chapter is an entire explicit BDSM scene about a woman being genuinely seen once and immediately deciding never to let it happen again, and THEN you realize she isn’t even the heroine on the jacket.”
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: This gave me the heat, interiority, and genuine psychological danger the jacket promised, then revealed that Randi’s composure is something she built to survive being seen. I need to know how she goes from locking herself away from Pace to helping him open Vee.
+WHY: This gave me the heat, specificity, and emotional damage I was promised, then revealed that the apparent beginning is actually the hidden origin story of the jacket’s conspiracy. I need to know how Randi goes from silently locking herself away from Pace to helping him invite Vee in.

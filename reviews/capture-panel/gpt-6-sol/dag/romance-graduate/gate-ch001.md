@@ -1,12 +1,12 @@
-*capture-dag-v2-rich · gate ch001 · gpt-6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha db78667b9255 · 2026-09-26*
+*capture-dag-v2-rich · gate ch001 · gpt-6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 8d71b32196ef · 2026-09-26*
 
-REACTION — Oh, I was in this. The apple slices got me before the bench did. He knows how she’ll eat them; she climbs onto his lap because she wants to. Then she sees what he’s built, says “show me,” and I wanted to know what she would find there. The heat worked on me because I could feel her wanting more even while she was trying to keep that polished little grip on herself.
+I was completely in it while she was on that bench. The apple first, though—him knowing how she’ll actually eat it, and her climbing into his lap and turning it into a game. That got me. Then the way he kept checking on her, and went around to her face in the middle of it: I could feel why she trusted him enough to let go. I also felt how deliberately he was taking her somewhere she couldn’t anticipate. That was hot, and a little frightening.
 
-And then: *Randi.* I actually stopped and went back to the jacket. I’d been reading that promise about Vee while watching Randi come apart, and now I’m much more interested in what Randi has been bringing to those lunches. Her bathroom scene hurt. He thinks he’s finally reached her and is being so careful with what he’s found; she’s already deciding he can never see it again. I don’t know how I feel about him yet. I believe his tenderness, but his satisfaction at having taken her further made me uneasy once I knew what it cost her. I would text a friend: “The bench scene is hot, and the *aftermath* is the part I can’t stop thinking about.”
+Oh, *Randi*. I knew from the jacket that she and Pace had a secret, but I didn’t know I was watching **her** come undone. I had to go back in my head and rethink the whole scene. And the bathroom hurt. He thinks he’s found someone he can be tender with; she’s decided he must never see that person again. I believe both of them, which makes the last cuddle almost unbearable. I’d text a friend: “She says yes to staying while privately locking herself away. I am in trouble with this book.”
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 9/10
+NEXT: 10/10
 ALMOST-STOPPED: none
-WHY: I got the explicitness I came for, and the reveal changed how I understood both the scene and the jacket. I need to see what Randi does with that locked door, especially when Vee enters the picture.
+WHY: The heat held me, but Randi putting her smile back on is what makes me need the next chapter. I want to know whether Pace notices, and what this means for Vee when she enters their lives.
