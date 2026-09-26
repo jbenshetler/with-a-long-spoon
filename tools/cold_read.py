@@ -344,9 +344,16 @@ def make_codex_agent_fn(*, system_prompt, effort):
     protects the blind-reader boundary even though the harness runs from the
     novel repository.
     """
-    from openai_codex import Codex, Sandbox
+    from openai_codex import Codex, CodexConfig, Sandbox
 
-    codex = Codex()
+    # The SDK pins its own bundled codex binary (0.147.0 as of 2026-09-26), whose
+    # model allowlist lags the installed CLI: gpt-6-sol is rejected by the bundled
+    # runtime and accepted by codex-cli 0.157.1 on the same ChatGPT account. Set
+    # CODEX_BIN=/path/to/codex to route through a newer binary; unset keeps the
+    # SDK default.
+    import os as _os
+    _bin = _os.environ.get("CODEX_BIN")
+    codex = Codex(CodexConfig(codex_bin=_bin)) if _bin else Codex()
     workdir = tempfile.TemporaryDirectory(prefix="cold-reader-codex-")
     account = codex.account(refresh_token=True)
     if not getattr(account, "account", None):
