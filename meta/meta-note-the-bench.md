@@ -247,3 +247,18 @@ Rulings only; the readings behind them are in `meta-triage-the-bench.md` (same d
   cheer"); "years of cheer written into the muscle of it" cut. Both are canon; the
   cheer stays because it is athletic and the high-school sorority in one word.
 - **509 clarity:** "a man whose last name her own sorority sisters did not know".
+- **Coda mid-aftercare line (2026-09-26, later session):** "the small warm pleasure
+  of having taken her further than he had thought she would go" → "of how much
+  further she had gone than he had thought she would, and that he had helped her
+  there." *Helped* is the ruling: his arrogance stays (a 22-year-old's), moved from
+  the acquisition column to the benefactor column per `meta-craft-pace.md`
+  §Pride-in-effect. Four models beyond Opus had read "taken" as proprietary.
+- **"ass" thinned 17 → 11** by cutting instances, never by synonym (213, 223, 271,
+  285, 305, 331); 229, 257, 277, 339, 349 kept. "cheek" stays its single use.
+- **Scent arc fixed as two notes and one handoff:** perfume on arrival (11) and at
+  her throat (145); the bench's own wood-and-leather (189, kept as contrast); her
+  own scent arriving at the reveal (193 — **"the sea in it" is deliberate: a
+  mineral note against Vee's hothouse smell in {{The Reach}}, Vol. 2; do not
+  vary**); the handoff "the animal scent of her rising under the fading perfume"
+  (259). Cut: the 223 smell clause, 225's "first ungoverned smell", 257's "the
+  smell of her coming up", 339's "her wetness now smelling faintly in the room".

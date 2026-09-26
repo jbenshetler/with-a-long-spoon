@@ -210,7 +210,7 @@ He laid his palm against the round of her ass — not striking, just resting —
 
 He moved his hand up to her back, the palm flat, and ran it slowly the whole length of her. He could feel the muscle beside her spine, dense and warm under his palm, his hand running from the small of her back to her shoulders.
 
-At the base of her neck, where the hair began, he found the first dampness: a hot patch where the sweat had started, darkening the fine black hair at the nape, the salt of it on the air. He let his fingers move through her hair to her scalp — lighter and smoother than he had expected, the smell of something expensive and clean in it — and worked his fingers through her scalp for a long moment, the small sound of her breathing changing with the scratching, a slight deepening that came from somewhere in her chest. She let her head hang from the grips. He ran his hand back down her spine to her ass — the skin warmer now than when he had first touched it — and stayed there.
+At the base of her neck, where the hair began, he found the first dampness: a hot patch where the sweat had started, darkening the fine black hair at the nape, the salt of it on the air. He let his fingers move through her hair to her scalp — lighter and smoother than he had expected, the smell of something expensive and clean in it — and worked his fingers through her scalp for a long moment, the small sound of her breathing changing with the scratching, a slight deepening that came from somewhere in her chest. She let her head hang from the grips. He ran his hand back down her spine to the same place — the skin warmer now than when he had first touched it — and stayed there.
 
 She had been on the bench for perhaps two minutes. He could feel, in the small movements of her body under his hand, that she was already starting to find this difficult — not the position, the position was easy, but the *waiting*, the slowness, the not knowing when. He could see it in her shoulders, which had climbed a quarter-inch toward her ears and were holding there. He could feel it in her back, the muscle under his palm not releasing between strokes as it had released earlier. He could hear it in her breathing, which had gone shallow — the small quick rise and fall, the held space between exhale and inhale where she was waiting for the strike.
 
@@ -220,9 +220,9 @@ She had been in scenes before where the first strike came fast. He knew this bec
 
 She breathed.
 
-He kept his hand on her. He moved it slowly across the heat of her skin — the small of her back first, the shallow concave there still faintly damp from where his mouth had been earlier, then down to the right hip, the bone under the muscle, the lean line where the waist dipped in and the curve began. His palm slid around the outer thigh where the long muscle sat firm under the soft skin, the skin there cooler than the skin of her ass, catching faintly against his palm on the down-stroke. He brought the hand around the front, sliding between the leg support and her body, and let his fingers travel up the inside of her thigh until the tips found the wetness — the slick heat of it, the small sound as his fingers parted the lips and registered the slick of her, the frank female smell of her rising between her legs and mixing with the warmer smell of her skin. He did not linger. He brushed the place and moved on, hand rising to the left hip, the outside of the left thigh, the back of the leg.
+He kept his hand on her. He moved it slowly across the heat of her skin — the small of her back first, the shallow concave there still faintly damp from where his mouth had been earlier, then down to the right hip, the bone under the muscle, the lean line where the waist dipped in and the curve began. His palm slid around the outer thigh where the long muscle sat firm under the soft skin, the skin there cooler than the skin he had just left, catching faintly against his palm on the down-stroke. He brought the hand around the front, sliding between the leg support and her body, and let his fingers travel up the inside of her thigh until the tips found the wetness — the slick heat of it, the small sound as his fingers parted the lips and registered the slick of her. He did not linger. He brushed the place and moved on, hand rising to the left hip, the outside of the left thigh, the back of the leg.
 
-He bent at her side and kissed the back of her neck where the hair had already begun to dampen. The skin there was hot. He tasted salt. She made a sound that was not the first sound she had made — lower, from farther down in her chest, a sound that carried hunger without knowing it yet. He let the kiss linger. The heat of her neck against his mouth. The first ungoverned smell of her rising from the skin under the perfume.
+He bent at her side and kissed the back of her neck where the hair had already begun to dampen. The skin there was hot. He tasted salt. She made a sound that was not the first sound she had made — lower, from farther down in her chest, a sound that carried hunger without knowing it yet. He let the kiss linger. The heat of her neck against his mouth.
 
 "Good," he said, against her skin.
 
@@ -254,7 +254,7 @@ He did not go behind her yet. He moved to the far end of the bench, where her fe
 
 "Okay," she said.
 
-He went back behind her. He hit her again — harder, the first real one, the palm landing clean on the high point of the right side where the skin was already pink. The sound was sharper. Her whole body took the strike and gave it back. She gasped. He hit her again on the same place, then twice on the left, quick athletic strikes with almost no pause between them. The skin was hot now, the dampness under his palm real, the smell of her coming up. Her ass was a deep pink, almost red on the high points. She was no longer fighting the position; she had let the bench have her.
+He went back behind her. He hit her again — harder, the first real one, the palm landing clean on the high point of the right side where the skin was already pink. The sound was sharper. Her whole body took the strike and gave it back. She gasped. He hit her again on the same place, then twice on the left, quick athletic strikes with almost no pause between them. The skin was hot now, the dampness under his palm real. Her ass was a deep pink, almost red on the high points. She was no longer fighting the position; she had let the bench have her.
 
 He bent and kissed the small of her back just above where his hand had been working — the skin hot and faintly slick, the kiss landing on the salt of her. He felt her shiver, the ripple that ran up her spine and into her shoulders. He kissed his way up her back, left, right, the skin hotter between her shoulder blades, the animal scent of her rising under the fading perfume, and found the hollow behind her ear where the hair was damp and her pulse was working against his mouth, and stayed there.
 
@@ -268,7 +268,7 @@ He kissed the place again. Her body had stopped bracing and was waiting.
 
 He straightened.
 
-He hit her, hard, on the high point of her ass where the skin was already the hottest, and the sound she made was the sharpest yet.
+He hit her, hard, on the high point, where the skin was already the hottest, and the sound she made was the sharpest yet.
 
 ---
 
@@ -282,7 +282,7 @@ The wet sound was immediate, thick and soft. She stopped breathing for a moment,
 
 She gripped the hand supports and pushed herself back into the empty space where his fingers had been — chasing what her body had just lost, before she'd decided to chase it. Then her thighs loosened against the leg supports and she slumped back into position.
 
-He soothed her ass with his other hand. He came around to her face again. He crouched. He stroked her hair.
+He soothed the place with his other hand. He came around to her face again. He crouched. He stroked her hair.
 
 "How's your back?" he said.
 
@@ -302,7 +302,7 @@ He went back behind her. He hit her three times in quick succession — left, ri
 
 The wet warmth of his fingers pressed against her spine — her own heat, returned to her in the wrong place. She made a sound — not a word and not a moan, the complaint of a body that had been given something and had it taken back. He didn't think she knew she'd made it.
 
-He kissed the spot where his hand had been on her ass. She inhaled sharply.
+He kissed the spot where his hand had been. She inhaled sharply.
 
 "Pace," she said.
 
@@ -328,7 +328,7 @@ The sound she made this time was different. Lower. Something from further down i
 
 "Not yet."
 
-He hit her — hard, on the high point of her ass where it would sting brightest — and she cried out, the cry stretching into something past surprise, and he soothed the place with his palm and bent and kissed it. She had begun to push against his hand with her hips, the small involuntary motion of a woman who could not stay still anymore, and the bench's slight tilt did its work — every push pressed her further forward into the head-down position the bench had been designed for.
+He hit her — hard, on the high point, where it would sting brightest — and she cried out, the cry stretching into something past surprise, and he soothed the place with his palm and bent and kissed it. She had begun to push against his hand with her hips, the small involuntary motion of a woman who could not stay still anymore, and the bench's slight tilt did its work — every push pressed her further forward into the head-down position the bench had been designed for.
 
 He came around to her side and put one hand at the back of her neck, holding her there, and reached the other hand under her, into the space the bench had been built to leave below her, and found her breast — small, soft in his palm, the nipple hard against his thumb. He stroked it. She shuddered.
 
@@ -336,7 +336,7 @@ He came around to her side and put one hand at the back of her neck, holding her
 
 "Yes," he said.
 
-He worked her there for a long minute — his hand at her neck, his thumb on her nipple, her body pressed forward into the bench, her ass red and hot in the air behind her, her wetness now smelling faintly in the room. He kissed the side of her face, the soft place in front of her ear. He breathed against her cheek.
+He worked her there for a long minute — his hand at her neck, his thumb on her nipple, her body pressed forward into the bench, her ass red and hot in the air behind her. He kissed the side of her face, the soft place in front of her ear. He breathed against her cheek.
 
 "You're doing so well," he said.
 
@@ -454,7 +454,7 @@ After a while he reached over to the bedside table and got the water bottle he h
 
 The crying tapered finally. She was very quiet against him, her face against the side of his neck, her hair against his collarbone, her body warm in the blanket. He could feel her breathing slow. She did not seem to want to talk. He did not push her to. He kissed the top of her head again. He stroked her hair.
 
-He looked at the wall opposite and felt the small warm pleasure of having taken her further than he had thought she would go — and he sat with that, quietly, while she sat with whatever she was sitting with, and the two of them shared the silence in the warm room.
+He looked at the wall opposite and felt the small warm pleasure of how much further she had gone than he had thought she would, and that he had helped her there — and he sat with that, quietly, while she sat with whatever she was sitting with, and the two of them shared the silence in the warm room.
 
 After perhaps fifteen minutes she stirred. She lifted her head from his shoulder. She did not look at him. She looked at the floor.
 
