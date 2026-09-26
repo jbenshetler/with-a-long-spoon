@@ -139,3 +139,32 @@ authorial decisions — do not re-flag these without new evidence.**
   named by format in narration and flavor in Randi's mouth; line 117 fuses
   them; the split is Randi curating Vee's experience. Do not collapse the
   names.
+
+## Addendum — structural review (2026-09-26)
+
+Source: fresh eight-lane cold panel + 24-gate capture run against
+fb27fff0 (ch3 revised the same day; ch4 text unchanged), read for an
+editorial structural review.
+
+### Fixed
+
+- **Latent-variables definition cut** (:59). The 2026-08-05 ruling said do
+  not re-open without a cohort re-converging; five of eight cold lanes
+  (claude-fable-5, claude-opus-4-8, claude-opus-5, kimi-k3,
+  deepseek-v4-pro-0813) now flag the defining clause as the author's thumb,
+  plus a gpt-5.5 capture gate ("the chapter tapping the glass"). The term
+  stays, Vee's underlining-once-going-nowhere stays; the professor's line
+  now ends on *latent variables* and "Read the chapter. It's shorter than
+  it looks."
+
+### Left standing
+
+- **Blank-transcript passage** (:123) — four capture almost-stops, all the
+  fsog-refugee persona (appetite for the intimacy on the page); every cold
+  lane names it the chapter's smartest move. Designed elision; stands.
+- **Collision recalled as "both people apologize… forgotten to"** (:11) —
+  read against ch3's Pace-side account; author ruling: interpretation, not
+  a continuity problem. Do not re-flag.
+- **:109 closing clause, :125 "best hour," room-reading length** — single
+  lanes each; no action.
+

@@ -38,11 +38,11 @@ Afterward they lay tangled and quiet. She was wrung out and heavy against him, c
 
 The question could wait for the heat to leave the room, her breath to come down, and the afternoon to go ordinary around them. He wanted her gathered back into herself when he asked, free to weigh it and choose; that mattered more to him than the answer did. He hoped there was a way for her to say something true without having to sit up and put a name to it — let it come out laughing, dressed as play, before she had to look it full in the face. She deserved that gentleness. He wanted it for her.
 
-She had her head on his chest and her fingers moving on him, idle, a slow line from his chest to his stomach and back. Her breath had come all the way down. He asked it into her hair.
+She had her head on his chest and one leg over him, her hand lying where it had come to rest on his stomach. He asked it into her hair.
 
 "Do you actually want to taste another woman?"
 
-He watched her understand it. He saw the precise instant the words stopped being something said in bed and became something asked — and she flinched. Barely. He felt it rather than saw it, her body against his going tight for an instant and letting go, the kind of thing he might have missed entirely if he had not been paying attention. The want had shown itself before she could dress it as anything.
+He watched her understand it. He saw the precise instant the words stopped being something said in bed and became something asked — and she flinched. Barely. He felt it rather than saw it, her body against his going tight for an instant and letting go, the kind of thing he might have missed entirely if he had not been paying attention. The tip of her tongue touched her lip and was gone. The want had shown itself before she could dress it as anything.
 
 Then she came back. He admired it, a little, even as he saw through it: she gathered herself and reached for the low warm voice, trailed one finger down his chest, tilted into him and pressed a slow kiss to his jaw. It was good. It was practiced and it was warm and it was not cartoonish, and on another man it would have worked completely; he'd have felt seduced and forgotten he'd asked anything at all.
 

@@ -263,4 +263,16 @@ improvised (chronology, condensed brief, pace-misread note).
   trailing voice"; :163 "the register she only used in his bed" kept as
   the load-bearing one). Rec-center pair paragraph: trim proposed on the
   detail-versus-verdict argument, **declined** by the author; stands.
+- **Heat slip diagnosed and repaired (fourth pass, same day)** — the round
+  on fb27fff0 dropped Heat to 2 in four cold lanes (fable, opus-4-8, kimi,
+  deepseek) with only the bed-panel spans changed. Cause: the grounding
+  sentence pre-spent the recovery's finger-down-the-chest move (her fingers
+  were already tracing chest to stomach) and stated the cooldown outright
+  ("Her breath had come all the way down"). Recast: head on his chest, one
+  leg over him, her hand lying still on his stomach; the breath sentence
+  cut (:39 already carries the waiting). Added, after the flinch and before
+  the comprehension clause: *The tip of her tongue touched her lip and was
+  gone.* — appetite after recoil, her own taste on her mouth at the
+  question; no gloss (author's "as if searching for another taste" dropped
+  as decoding). Retest ordered.
 
