@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 6f2b38a05b7f · 2026-09-14*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha dcad3bf2a6ac · 2026-09-26*
 
-REACTION — Oh. Oh, this is Randi.
+REACTION
 
-That landed like a trapdoor. I spent the whole chapter believing I was meeting Vee inside the promise the jacket made, and then “There you are, Randi” changed the shape of everything. This isn’t the seduction yet. This is the wound—and the hunger—of the woman who is eventually going to help engineer it.
+Oh. Oh, that was Randi.
 
-And God, Pace. The apple slices almost got me more than the bench did. He knows she’ll eat them thin. He asks to keep the lights up rather than simply deciding. He notices the exact moment her weight comes honestly into him. He checks her word, her back, her hands, her shoulders; when she locks the bathroom door, he understands that the door belongs to her. That is precisely the kind of control I keep looking for: absolute attention without the assumption that attention grants access. Even his desire being set aside—“That’s not what this night was for”—made the dominance feel warmer, not weaker.
+I had settled so completely into believing this was Vee that the name hit like a hand closing around the back of my neck. Suddenly the whole chapter changed shape. Randi isn’t merely the glamorous friend arranging Vee’s seduction from a safe, knowing distance. She has already been here. She has already been opened by Pace, frightened by how much she wanted it, and then locked that part of herself away so thoroughly that she can presumably help lead another woman toward the same door. That is delicious and awful, and now I need to know whether she’s offering Vee something she secretly treasures, using Vee to recover what she lost, or doing to Vee what she cannot bear having had done to herself.
 
-The scene was extremely hot, but the part that got under my skin was her begging becoming recognizably hers. I did have one flash of unease when he decided her first plea was not the “right” one and said no. That can become a very ugly dynamic in other books: the dominant man appointing himself sole authority over what the woman really means. Here, though, she had a safeword, he kept checking her body and her presence, and the chapter let her experience be complicated afterward instead of declaring that his interpretation had magically cured her. So I stayed with it.
+And Pace—God. The apple slices nearly got me more than the bench did. He knows which thickness she’ll eat. He understands the ugly machinery around her hunger without shaming her or making a speech about it; he simply feeds her in the form she can accept. Then he lets her climb onto him, lets her put his hands where she wants them, lets her hand him the evening. That is exactly the control I want: all that attention and certainty, but with room inside it for her choices. Even when he takes her hands from his hair, there is no sense that her resistance is irrelevant. He watches, checks, gives her the safeword back, checks her body, checks her attention, and actually respects the locked bathroom door afterward. The Daphne memory mattered to me enormously. He has crossed a boundary before, understands that love does not grant access, and has made that lesson part of how he behaves now.
 
-Her reaction afterward hurt. Being genuinely seen is more frightening to her than being exposed, spanked, or made to beg. The flinch at “You’re beautiful” was brutal. And Pace sitting outside that locked door, remembering the time he mistook love for permission, is the exact evidence I needed that the book understands the line it is walking.
+The bench scene was intensely hot because he was so patient. Not merely patient as technique—patient enough to keep finding her inside the performance. The upside-down “Hi” absolutely undid me. So did taking off her shoes, checking her shoulders, and stopping to stroke her hair. That tenderness didn’t interrupt the dominance; it made the dominance possible.
 
-What I would text at 1 a.m.: “THE GLAMOROUS FRIEND HAS ALREADY BEEN BROKEN OPEN BY HIM AND SHE IS GOING TO PUT ANOTHER WOMAN IN HIS PATH RATHER THAN LET HIM SEE HER AGAIN. This is going to be a disaster and unfortunately I’m obsessed.”
+But the emotional ending hurt. He thinks he found her and that being found was a gift. For one ecstatic moment, she thinks so too. Then “You’re beautiful” lands in the exact wound he cannot see, and she decides he can never have the real woman again. He does everything right in the room and still does not understand what happened inside her. That is so much more frightening than a plainly cruel man would be. He is holding her tenderly while she is already leaving him behind her face, and neither of them knows they are having two entirely different endings to the same night.
 
-I’m frightened of what Randi will do now. Not because I think she’s cold, but because she’s terrified, very good at lying, and has just decided never to be real with the one man who recognized her. That final image of the bench disguised as an ordinary table is basically her: polished surface fitted back over the dangerous truth. I absolutely need to see how Vee enters this.
+I’m also deeply suspicious of his confidence that the orgasm was more truly hers than anything before it. I believe he reached something real. I believe she wanted what happened. But his certainty that he knows which version of her is authentic is dangerous, even when it comes wrapped in extraordinary care. He is not coercing her body; he may still be telling himself a story about her soul. And now the jacket’s “every yes was freely given” feels less reassuring than ominous.
+
+I would text a friend: “THE WOMAN ON THE BENCH IS RANDI, NOT VEE, and the man is considerate enough to ruin your life.”
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-ALMOST-STOPPED: “But it was not the right *please* yet. It was still her *please*.”
-WHY: That moment briefly made me worry Pace’s attentiveness was turning into authority over whether her desire counted. The care before and after held the line for me, and the reveal that this was Randi made the emotional stakes snap into place so hard I’m already reaching for Chapter 2.
+ALMOST-STOPPED: none
+WHY: The heat, care, and consent were exactly what I came for, and then the Randi reveal turned the entire encounter into an emotional trapdoor. I need to see how this woman, who has decided never to be seen by Pace again, becomes the person who guides Vee toward him.
