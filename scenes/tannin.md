@@ -46,7 +46,7 @@ She drank again, a longer swallow, and kissed him again, and this time she staye
 
 Randi went quiet under his hands.
 
-Not the ease of a minute ago, and not the readiness either — something she was holding level. Her thighs did not tighten now; they set. The flat of her hands stopped in his hair. Her face gave him almost nothing — a thing at the corner of her mouth, a fraction late, like a smile put on a beat after it was called for. He read it. He read it as he read everything on her: the wanting, held. Held harder than it had been on the lawn, because there was more of it to hold. It moved him — Randi, who gave the world nothing it had not been rationed, sitting on him in his front room with a want too big for her face, and keeping the face over it anyway.
+Not the ease of a minute ago, and not the readiness either — something she was holding level. Her thighs did not tighten now; they set. The flat of her hands stopped in his hair. Her face gave him almost nothing — a thing at the corner of her mouth, a fraction late, like a smile put on a beat after it was called for. He read it: the wanting, held. Held harder than it had been on the lawn, because there was more of it to hold. It moved him — Randi, sitting on him in his front room with a want too big for her face, and keeping the face over it anyway.
 
 He put his hands flat on her back and drew her down against him.
 
