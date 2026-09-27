@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 2888278eb31d · 2026-09-14*
+*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha fde22a7a2583 · 2026-09-26*
 
-REACTION
+REACTION — Oh, this is the dangerous part. Not the bench, not Pace choosing dinner, not even the kiss. This. Randi giving Vee exactly the kind of public choosing she has been starving for, in the exact room designed to make her feel inadequate first.
 
-Oh, this got me. The boot undressing should have been mortifying, and instead he simply fixed what hurt—no teasing, no making her embarrassment part of his pleasure, not even letting her feel foolish for wearing the wrong shoes. “He walked at the speed of her not knowing how” is exactly why I’m falling for him. His competence never seems designed to prove that she is incompetent. He makes room for her to learn without being diminished.
+I believe the hand-holding cost Randi something. That is what makes it hit. Brooke was measuring them, Randi knew she was measuring them, and “Vee’s my dear friend” was not socially neutral. Randi spent a little of her own safety to shelter Vee, and I felt Vee understand that without understanding any of the machinery around it. God, yes, that got me. I wanted that warmth for her even while I could see how perfectly it bound her closer.
 
-And the cherry pit. God. That tiny correction could so easily have become one more voice telling Vee she is common and badly taught. Instead he quietly put his own pit beside hers and let her join him there. *She had it and he hadn’t made her small to give it to her.* That may be the most erotic thing about him, honestly. Even before the truck. Especially before the truck.
+But I am frightened by how Randi keeps editing Vee’s own account of her desire. Vee says, proudly, “I kissed him.” Randi turns it into “because you couldn’t not. Because of him.” No. Vee could have chosen otherwise; the whole beauty of the kiss was that she did choose. It matters that Pace stopped and she called him back. Randi’s version is more intoxicating, but it quietly transfers the authorship from Vee to Pace—and Vee accepts it because Randi makes the surrender feel like a secret truth about herself. That is exactly the kind of manipulation that can wear tenderness’s face.
 
-I noticed the dress, too. He heard the wanting and didn’t seize it. He didn’t promise to buy it, turn it into a debt, or tell her what she ought to wear. He just said it sounded beautiful and left the desire belonging to her. Given the larger secret plan around Vee, I am watching every moment when Pace could reach into her life and arrange it. Here, he didn’t. That mattered.
+And “Paul?” Please. I do not believe for one second that Randi forgot Pace’s name. Nor do I believe that glossy Friday-date catastrophe without suspicion. She invented or reshaped a man who failed to listen so Vee would tell her how wonderfully Pace listens, and then she sat there feeding Vee the meanings she wanted attached to every detail. This is seduction by interpretation. Randi isn’t merely hearing the story; she is teaching Vee how to understand it.
 
-Then the truck absolutely destroyed me.
+Cassie walking away hurt. Worse was Vee deciding the smoothie place “isn’t really her place” and then soothing herself with the idea that everyone has separate people. That is how an anchor gets displaced without anyone ever explicitly cutting the rope. Cassie saw Randi reaching before Vee even looked up, folded her feelings away, and left. I wanted Vee to notice. She didn’t.
 
-He gives her the only dry shirt and gets back into the rain so she can change privately. He does not assume that because her clothes are wet, or because they have kissed, or because he wants her, he is entitled to look. And she calls him back. She asks him in without having to form a perfect sentence, holds his eyes where she wants them, and deliberately gives him the sight of her. Her shame-voice is still there, but this time it doesn’t stop her; it becomes heat she owns and uses. She isn’t being exposed. She is exposing herself, choosing what he sees and how he sees it. That difference is everything I read for.
+And still—I cannot make myself reject Randi. That public hand on Vee’s hand was both effective and real. Her desire to claim Vee is escaping the boundaries of the game, and Vee felt the weight of it before she could name it as desire. “A warmth that came with weight on it” is the first genuinely mutual flicker I’ve been waiting for. Vee thinks she wants admission into Randi’s world, but what undid her was Randi risking position to stand beside her. That is much more intimate.
 
-And Pace just stays still. Want and gladness, but no hand reaching before she asks for one. I could feel his control as something he was exercising over himself for her sake, not over her. That is the exact combination—dominance, attention, restraint, tenderness—that I have spent years trying to find.
+What I’d text at one in the morning: Randi is love-bombing her with actual love and I’m afraid that may be worse.
 
-Then she reaches for his hand to begin the next thing and discovers it shaking. I nearly made a noise. She stops because she sees *him*. She puts his freezing hand against her warmth, and suddenly this isn’t only about a man perfectly attending to a woman’s awakening. She can care for him too. He isn’t an inexhaustible apparatus built to give her experiences; he stood in cold rain for her privacy, and she notices the cost and brings him back into his own body. That warmth went straight through me.
-
-The interruption at the dorm frustrated me in the best way. That unfinished “Pace—” is sitting there alive, and so is everything that didn’t happen after she reached for his hand. I desperately want them alone again. I also have a small ache about Cassie: Vee is walking into the dorm transformed, wearing Pace’s shirt, and I want to know who sees her and whether she can say what this meant without reducing it to getting half-naked in a truck.
-
-The hidden plan still troubles me. None of this tenderness erases it. But this chapter made Pace’s care feel so particular and so real that the eventual truth is going to hurt much worse. I am not merely waiting to see whether Vee will forgive him anymore. I’m afraid of what it will do to her to discover that the man who so carefully leaves each immediate choice in her hands once helped choose *her* without asking.
-
-GATE 11 — Leave No Trace
+GATE 11 — Dear
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: This was almost precisely the heat I want: he protects her choice so completely that she becomes bold enough to summon his gaze herself, and then she sees and cares for him in return. The siren stole the words and the next touch, and I am already following those taillights.
+WHY: There was almost no overt heat here, and I was pinned anyway. Randi’s manipulation and genuine tenderness are becoming impossible to separate, Vee has begun excluding Cassie for her, and that cool hand over hers felt like both a promise and a trap.

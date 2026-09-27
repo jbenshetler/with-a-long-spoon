@@ -1,26 +1,20 @@
-*capture-dag-v2-rich · gate ch011 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 2888278eb31d · 2026-09-14*
+*capture-dag-v2-rich · gate ch011 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha fde22a7a2583 · 2026-09-26*
 
-REACTION:
+REACTION — Oh, this book. This book. I sat down for what I thought was a bridge chapter and it put a knife in the fruit bowl.
 
-Okay. *Okay.* I set my tea down during the button scene and it went cold and I don't care.
+Because do you understand what this chapter IS? Vee is sitting across from Randi — the woman who *ran* the dining-hall collision, who texted Pace mid-coffee-shop, who asked "do you think she'll like the bench" — and she is handing over the whole seduction, piece by piece, narrating "may I choose" back to the person who designed it. "You let him choose for you. And you liked it." Randi is holding Vee's own confession up to the light like a jeweler while Vee thinks she's just being listened to. That's not a smoothie date, that's the con receiving its own progress report. And the truly sick part is it still got me — my heart was in my throat at "the whole night went soft. I stopped keeping track of myself" and I was feeling warm about the LISTENING, and then I remembered who I was watching and felt dirty about the warm. This book keeps making me complicit and I keep saying thank you.
 
-This is the chapter I've been waiting for since the bench, and it's better than what I was waiting for, because the book keeps doing this thing where the sex scene isn't the sex scene. The dinner was eating; this one was a blister kit and a sandwich and a shirt. He cut moleskin for her heel with his thumb holding it warm and I felt that in places Horace and his horseradish couldn't reach. "He walked at the speed of her not knowing how" — that line is going to live in me. That's the whole man in nine words.
+The Cassie thing at the top nearly wrecked me and it was four lines. The look going past Vee to Randi, "already reaching for her," then folded away — and Vee doesn't watch her go *because Randi has her by the wrist.* "Goodbye, Vee" from my carry-forward is sitting there like a headstone and now the book is confirming it: Vee explaining why the smoothie place "isn't really her place." "It was fine to have your own people. The thought settled her comfortably down into herself. Underneath it something turned over, small, and she let it lie." NO, VEE. That small turning-over thing is your last friend leaving. The book is doing the fattening in real time and I'm watching it happen to Cassie and I'm furious on her behalf.
 
-And then SHE took the wheel. That's what wrecked me. I've read four hundred of these scenes and it's always the man peeling the woman open while she trembles prettily. Here she gets a dry shirt and a man who steps OUT into the rain so she can change in private — and she goes up on her knees and crooks her finger at him through the glass. She called him back. She unbuttoned it herself, eyes up, and the mother-voice was there the whole time and it *became the heat* — "wanted to be the very thing the voice said" — yes, that, that's exactly what shame does when it finally finds a container you trust, and I've never seen a book say it out loud before. The fourth button. She looked down ON PURPOSE to let his eyes go with hers. That's a woman directing. I put the Kindle down for a second and just breathed.
+"Dear friend." The cool damp hand on the white table in front of Brooke. I don't know what it cost Randi — yes I do, I've seen the bench, I know exactly what currency she's spending — and it's the most romantic thing in a chapter with no romance in it. Meanwhile Brooke does the smile that "took her measure, top to bottom, and stayed warm the whole way" and I got actual chills, that's a filing system with lipstick. And the tall silent one drinking coffee while she clocks Vee like inventory — Brooke files everything and now Vee's in the drawer.
 
-And then the hand shaking. God. She reaches for his hand to start "the next thing" and his hand is *shivering* — he gave her his only dry shirt and stood in the rain so she'd have privacy and he never said a word about it, and she finds out by touch. "He'd been a long way from the question of whether he was cold." I nearly cried. That's the tenderness this book keeps promising and keeps actually delivering — it's not technique here, or if it is, the technique dissolved into something true, and even my suspicious ass softened.
+Small things I'm keeping: the oat milk Vee ordered because Randi was standing there ("she let herself not look at that either" — the book keeps tracking exactly what Vee won't look at and someday that ledger comes due). The pilled cardigan that "covered her like an apology." The bruise-colored smoothie Randi orders "as though it were her usual" — nothing about that woman isn't performance. And "she felt picked" — that word, that's the whole con and the whole love story in one verb and Rivers knows it.
 
-Because yes — I clocked him watching her face instead of the valley, and letting her catch him. The collector collecting. But the flannel scene cut both ways: whatever game he and Randi set up, this man stood in cold rain for her dignity. I can hold both. That's the book.
+No heat this chapter, no Pace at all, and I do not care. This is the two-people-talking best-scene-in-the-book thing I'm always telling people about. The dread is the charge.
 
-The russet dress. That hurt in a way I wasn't braced for. "You put a thing back on the shelf and you keep walking" — and he heard it, the whole wanting, and said only "That sounds like a beautiful dress," and didn't pick it up again. I know that dress is coming back. Either he buys it (which lands sweet and creepy, given the plan) or she earns it herself. I'm tense about which.
-
-The cop siren stealing her sentence — that was almost cruel, in the good way. She was about to put "a small thing where the big thing went" and the book wouldn't even let her have the small thing. And him pulling away with the lights strobing behind him... she never finished the sentence. That's a held note and Rivers knows it.
-
-Cassie wasn't here and I missed her — she's my canary and I wanted her to see Vee come in soaked, in a man's flannel, glowing. Next chapter, please.
-
-GATE 11 — Leave No Trace
+GATE 11 — Dear
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-ALMOST-STOPPED: none
-WHY: The truck scene gave me what the blurb promised — a woman choosing her own want with the shame still ringing in it — and the shaking hand underneath it all made me care about him against my own judgment. I'd follow this off a cliff; I just need Cassie in the next chapter.
+ALMOST-STOPPED: "the room came apart on the words, sixty people deciding at once that the hour was over" — a cold open on a professor's phone-bill voice, and for about a page I was braced for a filler chapter. Wrong. It earned everything after.
+WHY: The smoothie scene is Vee unknowingly reporting the con back to its author, and the writing never once winked — it let me feel the warmth AND the vertigo. The hike is still sitting there like a loaded gun and I need the house with the bench in it yesterday.

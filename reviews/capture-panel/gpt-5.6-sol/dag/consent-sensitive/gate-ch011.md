@@ -1,18 +1,26 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 2888278eb31d · 2026-09-14*
+*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha fde22a7a2583 · 2026-09-26*
 
-REACTION — Oh, this got me. The foot scene first, absurdly: her mother’s whole sexual tribunal arriving because a man is taking off her damp sock, and Pace simply fixing the problem without touching the shame. “He hadn’t made her small to give it to her” is the governing seduction here. He keeps giving her experiences she hasn’t been taught how to have, and he does it without extracting embarrassment as payment. Of course she is falling. I am falling, and I know more than she does.
+REACTION
 
-The pit correction mattered enormously. It could so easily have become one of those miniature class humiliations where the sophisticated man teaches the unsophisticated girl how civilized people behave. Instead he puts his own pit beside hers and lets the lesson become shared practice. Then the dress: he hears the wanting and doesn’t offer to buy it, solve it, or turn her poverty into an opportunity to possess her. I was braced for exactly that move. His restraint felt both kind and ominously expert.
+Oh, this is how Randi gets her. Not through Pace, not ultimately. Through belonging.
 
-And then the truck. Jesus. Him stepping back into the rain so she can change privately, followed by her realizing that privacy is not what she wants—that she wants to summon him and make him look—is genuinely hot because the escalation belongs to her in the immediate moment. He doesn’t interpret her body for her or advance past what she has actually asked. She calls him in. She directs his eyes. She opens her own shirt. And when she reaches for more, she notices his shaking hand and changes course because he is cold. That tiny reversal saved the scene from turning him into the all-seeing caretaker and her into nothing but the cared-for body. She sees him. She makes a decision for his welfare. The current between them is reciprocal, however unequal the information behind it remains.
+The tiny betrayal of Cassie hurt immediately: Vee catches something in Cassie’s face, watches her fold it away, and then helps make the exclusion feel natural. *It isn’t really her place.* That is such a plausible little sentence, and such a dangerous one. Nobody orders Vee to abandon her safest person. She simply begins sorting Cassie into one world and Randi into another, then tells herself that separate worlds are healthy. The book absolutely knows what is happening underneath that comforting explanation. I wanted to reach backward and catch Cassie by the bag strap.
 
-But I cannot forget that he knew the weather was coming, had a dry shirt waiting, and is very, very good at creating conditions in which need becomes pleasure and pleasure becomes trust. “The hike had made her hungry first. That was the trick of it. That was what it was for.” Yes, Vee. Yes. The book absolutely knows. Whether Pace consciously designed every element is almost beside the point now; this is how his presence works on her. Exertion, hunger, instruction without humiliation, exposure, shelter, choice. He makes surrender feel like finding the competence she already had. That is a devastatingly effective courtship, and it is happening inside a larger deception.
+And Randi’s performance is terrifyingly good. Pretending to forget Pace’s name was almost obscene. Inventing the bad Friday date—apparently while she is still Pace’s girlfriend—lets her extract the comparison she wants without revealing that she already knows every answer. She gives Vee a safe little template: my man did not listen, yours does; my date was empty, yours was intimate. Then she carefully edits Vee’s account as Vee speaks. “You let him choose for you.” “Because you couldn’t not. Because of him.” She takes Vee’s proud *I kissed him* and subtly relocates the cause of that choice into Pace. Vee feels understood because Randi is always half a step ahead, but Randi is ahead because she has the answer key.
 
-The interrupted goodbye has me itchy. She was about to try to name something, and now she is carrying his flannel inside like a flag. I am thrilled for her and frightened by how perfectly the day met every starvation in her. This chapter made Pace considerably harder for me to dismiss and no easier to trust—which is exactly where I want the book to keep me.
+That “let her have it” chilled me. Randi knows exactly when not to press. She makes restraint feel like kindness while still planting the interpretation. Pace does this too: they are both exquisitely skilled at leaving the final inch to Vee after arranging everything before it. No wonder she experiences them as miraculous.
 
-GATE 11 — Leave No Trace
+But God, the hand. “Vee’s my dear friend.” I felt that. I believe it cost Randi something, and I believe she spent it genuinely. That is what makes this work on me instead of merely making me furious. Randi is manipulating Vee and also choosing her, defending her, perhaps staking a claim on her in front of Brooke, and perhaps surprising herself with how much she means it. The social protection is real. So is the possessiveness. So is Vee’s hunger for precisely this public declaration. Randi finds the wound and puts warmth directly into it, and I cannot separate tenderness from technique because Randi probably cannot either.
+
+Brooke’s warmth remains reptilian. The unnamed taller woman silently turning Vee over made my skin crawl, and Vee making herself smaller “to leave nothing of herself worth holding against Randi” broke my heart. She is already protecting Randi’s standing by disappearing. Then Randi restores her with one phrase and a visible touch. That is an enormous emotional lever to acquire over someone, especially when you arranged the friendship in the first place.
+
+“Love you, girl” this early should feel cheap. To Vee it doesn’t, because it completes the whole operation: Randi creates social peril, rescues her inside it, names her as chosen, then leaves before the glow can cool. I don’t know how conscious every part is. I do know Vee walks home feeling picked instead of scrutinized, while Cassie has quietly walked out of the chapter. That exchange frightens me more than the hidden bench.
+
+I am completely in. The book’s awareness has not blinked. It sees the pleasure, the genuine feeling, the social engineering, and the cost of Vee’s not knowing—all at once.
+
+GATE 11 — Dear
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 9
-ALMOST-STOPPED: none
-WHY: The truck scene had me completely, but the quieter corrections and withheld gestures are what convinced me the book still understands the power at work. I need to see what Vee says this day meant—and what Randi does when she hears about it.
+ALMOST-STOPPED: “And it isn't really her place, the smoothie one.”
+WHY: Watching Vee begin to sort Cassie out of this dazzling new life made me heartsick, but the narrative sees every rationalization and every concealed lever. I need to know whether Randi’s increasingly real attachment makes her confess, tighten her hold, or both.

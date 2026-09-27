@@ -1,16 +1,22 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 2888278eb31d · 2026-09-14*
+*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha fde22a7a2583 · 2026-09-26*
 
-REACTION — Oh, this got me. The foot care, the sandwich, the cherry pit—Pace keeps finding these tiny places where Vee expects ignorance to be punished and simply teaches her without making her ashamed. “She had it and he hadn’t made her small to give it to her” is basically the entire seduction in one sentence. That is exactly why I’m gone for him, and exactly why the secret plan remains so dangerous. He knows how to make being guided feel like becoming more fully yourself.
+REACTION
 
-And the truck. Jesus. Him silently handing her his only dry shirt and going back into the rain so she could change privately was already painfully sexy. Then Vee calling him back because she wants to be seen—not caught, not persuaded, not technically permitted, but deliberately seen—and holding his gaze while she unbuttons that wet shirt? Yes. That is the heat I’ve been waiting for, because it could only belong to her. Even her mother’s voice becomes fuel instead of a brake. She isn’t merely defying the shame; she is discovering that the forbidden version of herself is the one she wants to give him.
+Oh, this is insidious. Randi inventing an entire terrible date so Vee can tell her about Pace as if they are two girlfriends comparing men—while Randi already knows exactly how he listens, exactly how he chooses, exactly what he sounds like when he gets excited—is such an intimate lie. And she doesn’t merely collect the report. She gently edits Vee’s understanding of it. Vee says she chose to make an exception; Randi gives it back as “Because you couldn’t not. Because of him.” Just a tiny transfer of authorship from Vee to Pace, so warmly done that Vee experiences it as being understood.
 
-His reaction nearly finished me: the tiny shift in his face, the stillness, the gladness, his refusal to grab at what she offered. And then she reaches for his hand expecting to make the moment hotter and discovers he is shaking. Bringing his cold hand under the flannel against her belly is somehow more intimate than if she had taken it to her mouth. She sees him back. For one beat, he isn’t the composed man arranging the conditions of her awakening; he is a freezing, overwhelmed person she can care for. I badly needed that reversal.
+And God, Vee wants to put everything into Randi’s hands. That landed harder than the Pace material for me. She watches Randi to see whether the little-boy voice story pleases her, sits up when it does, and feels fascinating beneath her attention. This isn’t only friendship hunger, however determined Vee is not to name the rest. The hand on the table had actual erotic weight for me—cool and damp, publicly claiming, costing Randi something. “Dear friend” is doing approximately six kinds of work, and Vee feels every one except the one she most needs to recognize.
 
-The cop’s lights made me genuinely furious—not because it felt like manufactured romantic miscommunication, but because Vee had finally found the edge of words for what happened and the world physically barked over her. Now she is inside wearing his shirt, carrying an unfinished sentence, while he may be getting pulled over soaking wet because he gave her his dry clothes. I am absolutely not stopping here.
+I’m angry with Vee about Cassie, which means I’m worried for her. “It isn’t really her place” is exactly how the separation starts: not with a fight, just Vee deciding on Cassie’s behalf that the shiny new world isn’t for her. Worse, she catches the discomfort underneath that thought and deliberately lets it lie. Cassie saw Randi reaching and folded her own expression away. I felt that. Cassie is already learning that there may not be room for her beside this new, dazzling version of Vee’s life.
 
-GATE 11 — Leave No Trace
+The smoothie shop made my skin crawl because I know that room. The high chair, the dangling feet, the cardigan suddenly becoming an apology, the oat milk chosen because Randi is watching—Vee’s body understands the hierarchy instantly. Then Brooke arrives and performs warmth like a weapon. Of course Randi’s public choice feels like rescue. She brought Vee into a space designed to make her feel inadequate, then became the person who made the inadequacy stop mattering. I don’t even know how consciously calculated that part was, which somehow makes it worse.
+
+And Randi may genuinely have risked something by calling Vee dear in front of Brooke. That’s what keeps me helplessly attached to her. The manipulation is real, but so is the flash of courage and possessiveness in that hand closing over Vee’s. She wants Vee seen as hers. Vee wants to be hers badly enough that she walks home carrying the claim like a gift.
+
+I would text a friend: “She’s isolating her from the sane best friend, lying about dating her own boyfriend, and publicly holding her hand, and unfortunately I am having a GREAT time.”
+
+GATE 11 — Dear
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: This delivered explicit charge without turning into generic sex-scene choreography; Vee choosing his gaze was hotter than plenty of full encounters I’ve read. The interrupted goodbye, the flannel, and that unfinished “Pace—” have my thumb already moving.
+WHY: The romantic charge and the moral dread are now the same sensation, which is exactly what I wanted this book to do. I need to see whether Cassie speaks before Vee drifts farther away—and how long Randi can keep pretending that what she wants from Vee belongs to Pace.

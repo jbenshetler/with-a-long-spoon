@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 2888278eb31d · 2026-09-14*
+*capture-dag-v2-rich · gate ch011 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha fde22a7a2583 · 2026-09-26*
 
-REACTION —
+REACTION — Oh, this chapter made my stomach do that horrible little pleased-and-afraid twist. Quiet chapter, yes, but not harmless. This is exactly the kind of quiet where the book shows whether it knows what it is doing, and it very much still knows. I felt Vee being warmed, fed socially, clothed in Randi’s attention, and I felt the machinery under it the whole time.
 
-Oh, I am in trouble with this one.
+Cassie leaving at the start hurt more than it should have. That tiny look, folded away. Vee not watching her go because Randi has her by the wrist. Oof. Not melodramatic, not “friendship breakup,” just the first small shift of gravity. And Vee’s rationalization about everyone having their own people is so painfully plausible. That is how isolation starts when it isn’t a villain locking a door. It starts with a thought that is basically true.
 
-This chapter got under my skin because it is so quiet and so bodily and so exact about care. Not grand care. Not romance-movie care. The little humiliations of having the wrong boots, not knowing trail etiquette, being cold and wet and wanting to be seen anyway. And Pace is maddening here because every single thing he does is the right thing. He fixes the boot without making her disgusting to herself. He corrects the cherry pit without making her ignorant. He hears the dress wanting and does not pounce on it. He gives her privacy to change. He is careful, careful, careful.
+Randi is terrifying here because she is good. Not cartoon good, socially good. She gives Vee exactly enough pressure and exactly enough room. The way she says “And you let him” and then “And you liked it” made my whole reader-body sit up. She is not just listening; she is labeling Vee’s desire for her, beautifully, gently, with the same hand Pace uses. And then she stops. That stop is the seduction. She lets Vee feel unjudged, which makes Vee want to give her more. It is intimate and generous and predatory-adjacent in the exact way this book promised.
 
-And still. Still. The jacket is sitting beside me like a lit match.
+The smoothie shop scene was almost physically uncomfortable for me. The high chair, the dangling feet, the cardigan turning into an apology, the bright room of matched girls. I have been in that room. I have been too much body and not enough uniform in that room. So when Randi calls her “my dear friend” and takes her hand publicly, I completely understand why it lands like rescue. That’s what makes it dangerous. It is not fake. It costs Randi something. Vee isn’t wrong to feel chosen. The problem is that the moment is also recruitment, and Vee cannot see that the “place” being offered to her was selected before she arrived.
 
-Because Vee is falling in love with the feeling of being handled well. That is the drug. He makes her body less shameful by attending to it practically first: heel, hunger, cold, dry shirt. Then when she chooses to make the looking sexual, it feels like it comes from her deepest self, and honestly I believe that it does. I believed her on that bench in the truck. I believed the finger crook. I believed the buttons. That moment was hot as hell because it wasn't him pushing; it was her discovering that the shame-voice can be used as fuel instead of a cage. That is very much my lane.
+Brooke made my skin prickle. She barely does anything, which is exactly why she works. “We should all get dinner sometime” is such a perfect social nothing with a blade in it. And Vee making herself smaller “to leave nothing of herself worth holding against Randi” just gutted me. She is already protecting Randi’s position, already adapting herself around a world she has not been honestly invited into.
 
-But what scares me is that his competence is becoming an environment. He is making the world feel safer around her, and she is starting to confuse safe with true, maybe because it is true in the moment. That is the trap this book understands, thank God. He is not faking the tenderness. The tenderness is real. The manipulation is also real. Those two facts are allowed to sit in the same cab, wet and shivering.
+I’m also watching Randi’s “love you, girl” very closely. Earlier it had sorority gloss; here it is both gloss and spell. Vee carries it home like a token. I don’t think Randi is only using her. I think Randi means more than she can admit, and that may make her worse, not better, because sincerity is still being routed through concealment.
 
-The detail that really pierced me was his hand shaking. I needed that. I needed him not to be an infinitely controlled erotic machine. He had been cold, and he had stayed out there for her, and he was also thrown by what she gave him. That made him more human and, unfortunately, more dangerous to me as a reader because now I want him too. I hate when the book does this well. Affectionate hate. 1 a.m. text: “The man put moleskin on her heel and then she stripped in his truck and I am being professionally compromised.”
+So yes, I’m captured. Not by heat, by dread and recognition. The book has not switched its awareness off. It knows that being chosen can be a form of pressure. It knows public tenderness can be a hook. I’m still wary, but I’m not leaving.
 
-The dress moment is where my alarm bell went soft but did not turn off. He could buy it. He probably will. Or Randi will. Or it will become another door Vee thinks she opened herself because she once said aloud that she wanted it. The book knows the difference between hearing a desire and harvesting it. I am watching.
-
-And the cop interruption: deliciously cruel. Not because I care about the cop, but because Vee is left wearing his shirt, physically marked by the day, not able to complete the sentence. She has to walk back into ordinary dorm life in the evidence. That is exactly the kind of aftershock that keeps a seduction alive without anyone needing to touch her again.
-
-GATE 11 — Leave No Trace
+GATE 11 — Dear
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-ALMOST-STOPPED: "The hike had made her hungry first. That was the trick of it. That was what it was for."
-WHY: That line made me sit up because it is both innocent and not innocent: the book is telling me it knows how need can be created before it is satisfied. I am deeply hooked, and still tense in the right way, because Vee’s choices feel real while the architecture around them keeps showing through.
+CAPTURE: 8
+NEXT: 8
+ALMOST-STOPPED: "And Vee thought, easily, that it was fine to have your own people."
+WHY: That sentence scared me because it is the clean little lie that lets Cassie move farther away without anyone having to betray anyone loudly. But the chapter knows it is a lie, or at least knows it has something buried underneath it, and that keeps me in the book’s hands. Vee being called “dear friend” in public hit exactly where it was meant to hit, and I both loved it for her and wanted to pull her gently backward by the sleeve.

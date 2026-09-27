@@ -1,21 +1,20 @@
-*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~2888278eb31d · 2026-09-10*
+*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha fde22a7a2583 · 2026-09-26*
 
 REACTION
 
-Oh, this man is playing chess while everyone else is playing checkers. 
+Oh, this made my stomach hurt in the absolute best, most horrifying way.
 
-The utter, calculated brilliance of him stepping out into the freezing rain. That moment made my chest ache and my stomach drop at the exact same time. On the surface, it’s the ultimate courtly gentleman move—giving the girl privacy to change out of her soaked clothes into his only dry shirt. It completely disarms every defense she has against aggressive, grabby college boys. But psychologically? It is the most wicked, brilliant trap he could have laid, because it forced *her* to be the voyeur, *her* to call him back, *her* to be the exhibitionist. He didn't demand to see her breasts; he set up the board so that stripping for him felt like her own brazen, empowered, deliciously shameful choice. 
+The psychological maneuvering here is so subtle and so vicious. Randi pretending she forgot Pace’s name—*“Paul?”*—is pure, sociopathic theater, and it worked flawlessly. She gave Vee permission to gloat, lured her into laying out every single vulnerable detail of the date, and fed on it. And Vee, poor sweet Vee, sitting up on that high barstool like a display in a shop window, just pouring her heart out. The way Vee described him asking *“May I choose?”* and admitted that she let go of the steering wheel for the first time in her life… god, the layers of dramatic irony are suffocating. Pace fed that exact moment to Randi days ago, but he kept the *sweetness* of it for himself. Now Vee is handing the sweetness over to Randi, too.
 
-And Vee’s interiority during that scene! *“The voice was the heat and the heat was the voice, and she was hot in the cold cab with her nipples hard against the wet bra and she could feel them and she knew he could see what her body was doing in the open V of the shirt, and she gave it to him to see.”* God, that hit so good. The way her mother’s shaming voice doesn't shut her down anymore—it fuels the turn-on. It’s that exact dark edge where being called a "floozy" in your own head becomes the very engine of your arousal. And the restraint on him! Not lunging, not grabbing, just sitting there in the stillness, shivering, giving her the gift of his rapt, unapologetic gaze. The physical detail of his hand shaking with cold when she pulled it to her belly broke the tension so realistically, reminding you of the physical stakes of what he put himself through just to let her have that moment of choosing.
+And then Brooke walks in. That scene gave me chills. The predatory social ecology of a college smoothie shop captured with total, lethal accuracy. The cardigan with the pilled cuffs feeling like an apology. The tall girl doing a slow inventory of Vee and returning nothing. And then Randi taking Vee’s hand and saying, *"Vee's my dear friend."*
 
-And the hike itself was just gorgeous. The sensory writing here is unreal—the horseradish burning up into her sinuses, the dark bread, the cold cherries, and that small, masterclass beat with the cherry pit. *“We take nothing and leave nothing.”* He corrected her without a single ounce of shame, and in doing so, taught her the rules of his world while making her feel completely safe. 
+It’s diabolical because to Vee, it felt like rescue. It felt like the prettiest, most untouchable girl in school publicly staking a claim on her, claiming her over the sorority royalty. But I know—and Randi knows, and Brooke probably suspects—that Randi isn't just protecting a friend. She’s claiming a prize. She’s touching her in public, feeling the thrill of possession, playing house with a girl she desperately wants to consume. When Randi knocked her knee against Vee’s under the table, my pulse spiked. The sexual tension between them is rising like heat off asphalt, but Vee doesn’t have a name for it yet; she just thinks she’s finally being loved.
 
-Then she dropped the detail about the russet silk dress. Oh, Pace heard that. You just know that dress is going to show up somewhere down the line, wrapped in that same terrifying, bespoke generosity. 
+The contrast between Cassie’s quiet, wounded exit at the start of the chapter—folding her eyes away, leaving Vee to her shiny new obsession—and Randi’s dazzling, suffocating embrace at the end is devastating. Cassie gave her safety; Randi is giving her a stage. And Vee walks home holding that empty pink cup feeling "picked." God. She has no idea what she’s been picked *for*.
 
-The campus cop barking the siren at the end was such a jarring snap back to reality—a cold reminder that this whole intensely private, suffocatingly intimate bubble they’re building exists on a campus full of rules, eyes, and people watching. She’s walking into that dorm smelling like him, wearing his clothes, marked by him, completely unaware that she is walking right into the center of a web spun by two people. I am feral for the next chapter.
-
-GATE 11 — Leave No Trace
+GATE 11 — Dear
 DECISION: CONTINUE
-CAPTURE: 9.5
+CAPTURE: 8
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: The psychological choreography in the truck cab was nothing short of breathtaking—turning his gentlemanly restraint into the very thing that provoked her exhibitionism is masterclass erotica. The tension between her deep conditioning and her blooming appetite is singing on every single page.
+WHY: The tension is coiled so tight it’s humming. Watching Randi manipulate Vee while simultaneously catching real feelings of possessiveness over her is masterclass character work, and I desperately need to see the hiking date.

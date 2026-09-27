@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 2888278eb31d · 2026-09-14*
+*capture-dag-v2-rich · gate ch011 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha fde22a7a2583 · 2026-09-26*
 
-REACTION —
+REACTION — Oh, this chapter knew exactly where to put the knife.
 
-Oh, this got me.
+I’m so pulled by how small and enormous it is at the same time. Nothing “happens,” technically: class ends, smoothie place, girl talk, Brooke appears, Randi claims Vee. But my whole body was tense through that high-table scene. I know that room. I know the particular violence of beautiful, socially fluent women smiling warmly while measuring whether you belong. And Vee knows it too, instantly, physically, before she can make language out of it. The cardigan becoming “an apology” hurt me. Her feet not reaching the floor hurt me. That feeling of being displayed and wrong-sized? God.
 
-Not in the “finally, sex scene” way exactly, though yes, obviously, the truck scene had my whole nervous system by the throat. But what really worked on me here was how the chapter let wanting build out of competence and care and embarrassment before it ever became exhibition. The blister. The cherry pit. The boots. The sandwich. The way he corrects without making her feel stupid. That is such a specific kind of erotic for me: not grand dominance, not barking orders, but a man who notices the practical problem and solves it with his hands while leaving her dignity intact. I am weak for that when it’s done this precisely.
+And Randi. Damn her. Damn her because it works. “Vee’s my dear friend” got me exactly the way it got Vee, even though I can see the machinery around it. I don’t think it’s fake. That’s what makes this book dangerous in the good way. Randi is absolutely managing the room, managing Brooke, managing Vee, probably managing herself, and still I believe she meant it. The hand on the table in public felt like a social risk and a possessive mark and a gift all at once. Vee thinks Randi spent something on her, and I think she’s right. I just don’t know whether Randi spent it generously or strategically or because she couldn’t help herself. Probably all three, which is why I’m chewing glass.
 
-And Vee, God. The poor thing has her mother’s voice installed in her like malware, and every time it shames her, her body turns toward the shame like a heat source. That could be cheap in a lesser book, but here it feels painfully true. She doesn’t just want Pace to see her body. She wants him to see her choosing to be the kind of girl she was taught to despise, and to answer it with reverence instead of contempt. That is the live wire. That is why the unbuttoning in the truck landed so much harder than if he’d just pulled her shirt off himself.
+The Pace report through Randi was also so charged. Vee wants to tell Randi everything, not just because Randi is a friend, but because telling Randi is part of the pleasure now. She wants Randi to receive it, name it, hold it up to the light. The way Randi repeats “you let him choose for you” is not innocent. She is teaching Vee what to notice about her own desire. And Vee keeps saying “that’s all it was” while practically glowing with the exact opposite.
 
-Also, the hike was not filler. I was worried for maybe half a second when I realized we were doing outdoorsy chapter after dinner chapter, because I am not here for scenic campus-adjacent self-improvement, thank you. But then the landscape opened and it actually did something to her. It gave her a world bigger than being looked at, and then Pace looked at her inside that world. That difference matters. He doesn’t replace the valley. He sees her seeing it. That’s intimate in a way I believe.
+I’m worried about Cassie. That opening little fold-away look from her was quiet but loud to me. Vee is already editing her life into compartments and telling herself that’s healthy. And maybe it is, in normal life. But here it feels like the first little brick in a wall Cassie won’t be able to see over until it’s too late.
 
-The food again, too. This book knows appetite. The horseradish, the shared bottle, the cherries, the “leave no trace” lesson: everything is bodily, but not just sexy-body. Hunger, cold, soreness, wet cloth, embarrassment, relief. By the time she’s kneeling on the truck bench, her body is not an abstract hot-girl body. It’s tired and freezing and scraped and hungry and alive. So when she opens her shirt, I feel the whole day inside it.
+This chapter is basically social eroticism. No sex, but so much appetite: for being chosen, named, displayed, protected, included. It made me want the heat, yes, but not because I’m impatient. Because the emotional voltage is getting so specific that when bodies finally enter the room again, it’s going to matter.
 
-Pace remains exactly my problem. He is so careful. He gives her privacy by standing in the rain. He lets her call him back. He keeps his eyes where she puts them. He doesn’t grab. And yet he has absolutely engineered the conditions where being cared for becomes being opened. I don’t even think he’s lying to himself moment by moment, which makes it more dangerous. He genuinely cares. He genuinely wants her yes. He also knows how to build a yes a room to bloom in.
-
-The end with the campus cop was almost cruel, but in the good thumb-moving way. I wanted that sentence. I wanted whatever tiny impossible thing she was going to say in the truck. Instead she’s left in his flannel, wet and interrupted, with the foam still on her heel like proof that he touched the vulnerable place and fixed it. That image is going to stick.
-
-GATE 11 — Leave No Trace
+GATE 11 — Dear
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-ALMOST-STOPPED: "They sat on the rock at the edge of it."
-WHY: I had one little wary moment where I wondered if we were going to stay in scenic quiet for too long, but then the food, the cherry pit, and the truck scene turned the whole hike into foreplay with emotional teeth. I want the next chapter badly, partly for heat and partly because Vee is now carrying his flannel, his care, and that unfinished sentence back into her life.
+ALMOST-STOPPED: none
+WHY: This was quiet, but not stalled; it moved the Randi/Vee charge forward in a way I felt in my throat. I want the hike, but now I also badly want the next private moment after Randi has publicly claimed Vee as “dear,” because that word is loaded and everyone in the room knew it.

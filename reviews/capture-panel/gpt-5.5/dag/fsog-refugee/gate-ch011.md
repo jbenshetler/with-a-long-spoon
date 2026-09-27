@@ -1,32 +1,26 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 2888278eb31d · 2026-09-14*
+*capture-dag-v2-rich · gate ch011 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha fde22a7a2583 · 2026-09-26*
 
 REACTION —
 
-Oh, this one got me. Quietly at first, and then not quietly at all.
+Oh, this chapter knew exactly where to put its thumb.
 
-The boot scene is exactly the thing I read for when I say I want care with heat under it. He takes her foot because it needs taking care of, not because he is making a production of intimacy. And the way her shame starts up before she can even name it, and he just fixes the problem, cleanly, practically, with that little “Should’ve done that at the lot. I’m sorry” — that went straight through me. Not sexy in the obvious way, but more dangerous than sexy because it says: I will notice your body without humiliating you for having one.
+I felt that awful little social shrinking so sharply. The smoothie place, the high chair, the girls who all look like they were issued from the same beautiful machine, Vee suddenly aware of her cardigan and her feet not touching the floor. That is not dramatic danger, but it is so familiar and so bodily. I hated how fast her glow could be dimmed by a room. Not because she is weak, but because she has been trained to understand rooms as verdicts.
 
-And then the summit. I liked that the world swallowed him for a second. I needed that, honestly. Vee gets a moment that is not Pace, not Randi, not being selected or watched or socially placed. Just the huge indifferent beauty of something that does not want anything from her. But of course he is watching her see it, and because he turns away after she catches him, I forgive it. More than forgive it. That restraint is the whole spell with him. He looks, he lets himself be seen looking, and then he gives the experience back.
+And Randi. God. Randi is doing the thing I both want and distrust. She is feeding Vee the exact kind of attention Vee is starving for, but she is also genuinely moved by her. That’s what keeps catching me. If Randi were just manipulating her, I’d be colder. But when Vee talks about Pace going six years old over the bridge, Randi lights up too. She likes him being loved properly. She likes Vee seeing him. She likes being the person Vee tells. It is intimate in a way that almost sneaks around the sexual tension and becomes worse.
 
-The food was obscene in the best way. The sandwich, the horseradish, the shared bottle, the cherries. I could feel her becoming someone who is allowed to need and be fed. And the cherry pit made me ache because it could have been such a small mortification, the kind that ruins a girl like Vee for an hour, and he just folds her into the rule without making it about her ignorance. He teaches without punishing. My whole body relaxes around that kind of man, which is of course why I am worried.
+The “you let him choose for you, and you liked it” moment made me sit up. Because yes, that is the core wire of this whole thing: Vee wants to hand over control when she trusts the hands. And I love that for her, I do, because the book keeps making it feel like relief instead of erasure. But Randi knowing that, naming it, collecting it... mm. Hot and dangerous. She is learning Vee’s locks while smiling.
 
-The dress. Oh, the dress. I absolutely saw him register it. He is going to do something with that information, isn’t he? Maybe buy it, maybe arrange it, maybe make it appear in some way that will make me both swoon and tense up. Because if he gives it to her openly and lets her decide, I’m gone, I’m sold. If he uses it as part of the hidden design around her, I’m going to feel that consent debt ringing like a glass.
+Then Brooke arrives and the temperature changes. I remembered her immediately, that perfect friendly threat. And Vee trying to make herself smaller not even for herself, but so Randi won’t be embarrassed by her? That hurt. That is the sort of sentence that makes me want to put the book down for a second and look at the ceiling.
 
-And then the truck.
+But then Randi says, “Vee’s my dear friend,” and takes her hand in public.
 
-The truck scene is maybe the clearest this book has been yet about what I want from this whole genre. She wants him to see her. She calls him in. She holds his eyes. He does not pounce, does not take the invitation farther than she has made it, does not even pretend not to understand that this is a real erotic act. He receives it. That’s the word. He receives her. His stillness is so hot because it is full of want and discipline at once.
+I am in trouble, because I know the setup is compromised, and still that got me. It got Vee too, obviously. Being chosen out loud, in front of the women who could judge the choice, is not nothing. For Randi especially, it cost something. Not everything, maybe not enough, but something. And Vee can feel that without understanding the whole machine behind it.
 
-And Vee, God, Vee. I loved that her shame voice doesn’t disappear. It becomes part of the heat, which is painfully honest to me. Desire doesn’t always arrive purified of everything that made you afraid of it. Sometimes the bad old words are still in the room, and the miracle is choosing yourself anyway, with someone watching who doesn’t make you smaller. When she looks down and makes him look too, I actually had that little stomach drop of, oh, she is doing this. Hers. Hers.
+The “Love you, girl” at the end made me flinch and melt at the same time. Too fast, too easy, too sorority-casual to trust completely, and yet Vee walks home picked. That is exactly the drug. Not just Pace’s courtly attention, but Randi giving her a place beside her in public. I’m suspicious as hell, but I absolutely wanted to keep reading.
 
-What saves Pace, again, is the shaking hand. Not because he is vulnerable in a cute way, but because the scene suddenly remembers he has a body too, and she sees it. She stops the next thing. She chooses care back. That mattered to me enormously. She is not just being acted upon by his beautiful attention. She can interrupt the erotic current because he is cold. She can bring his hand under the flannel and warm him. That made the whole scene warmer than if they’d done anything more.
-
-The campus cop interruption annoyed me in that “no, come back here, I wasn’t finished” way, but also it landed. The world rushes in, stupid and loud and blue-white, and she is left in his flannel with all of it still on her skin. I wanted one sentence between them. I wanted her to get to say his name properly. But maybe that’s why I want the next chapter now.
-
-Under all this, though, I have not forgotten the jacket. This chapter was almost too perfect in his favor. He is so careful moment to moment that I can feel myself wanting to acquit him of the larger lie. That is exactly how this book is going to get me if it hurts me. Every yes in this chapter felt real. Every yes felt hers. And still, he knows there is a larger game. I am very, very aware that I am falling for him the same way she is, and I resent and appreciate the book for making that my problem.
-
-GATE 11 — Leave No Trace
+GATE 11 — Dear
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-ALMOST-STOPPED: “That sounds like a beautiful dress.”
-WHY: Not because I wanted to stop from boredom — because I felt the trap-door under the tenderness right there. He heard the want, and I trust his immediate silence, but I do not trust what he and Randi may do with what they hear. Still, the truck scene was so consensual, so charged, so full of care both ways, that I’m absolutely reading on.
+CAPTURE: 8
+NEXT: 8
+ALMOST-STOPPED: “And Vee thought, easily, that it was fine to have your own people.”
+WHY: That little self-soothing around Cassie made me uneasy because I can feel Vee drifting from the one person not involved in the arrangement. But the chapter pulled me hard: Randi’s attention is becoming its own seduction now, and the public hand-holding/dear-friend moment had real emotional voltage.

@@ -30,7 +30,7 @@ And Vee thought, easily, that it was fine to have your own people. Cassie had th
 
 ---
 
-The weather had decided to be kind to Blacksburg. The light came long and clean off the brick and the mountains had gone that hard high blue, and Vee walked out into it next to Randi feeling, frankly, like a person things happened to. Good things. A man who looked at her as though she were the answer to a question he'd been carrying around. A girl who could have spent her forty minutes on anyone, her arm warm against Vee's as they walked, spending them on her. Vee had been fine for two years. This was not fine. This had color in it.
+The weather had decided to be kind to Blacksburg. The light came long and clean off the brick and the mountains had gone that hard high blue, and Vee walked out into it next to Randi feeling, frankly, like a person things happened to. Good things. A man who looked at her as though she were the answer to a question he'd been carrying around. A girl who could have spent her forty minutes on anyone, her arm warm against Vee's as they walked, spending them on her. Randi walked with her face turned to her the whole way, talking, two small skies where her eyes should have been, and by the second block that side of Vee's face was hot. The sun was on that side. Vee had been fine for two years. This was not fine. This had color in it.
 
 The Smoothie Bird sat on its corner with the windows full of orange. The first thing was the cold of the air conditioning, the second was the noise of it, blenders and voices all pitched a little up, and the third was that the room was full of girls who looked as though they had all gotten dressed in the same room. Leggings, hair up, faces done light and exact. She had worn the cardigan over the better shirt, the way she did most mornings, the soft one gone a little pilled at the cuffs, and in a room of bare arms and cropped quarter-zips it covered her like an apology. The walls ran white up to a band of hot citrus near the ceiling, and the place smelled of fruit and someone's hairspray and someone's perfume over that, and Vee, who had come in lit, felt some of the light go out of her in the doorway without understanding why, underdressed before she had looked at a single person.
 
@@ -60,9 +60,11 @@ It wasn't a question. "…Yeah." It came out small, and Vee felt her own face st
 
 "Mm," said Randi, warm, and let her have it, and went no further, and Vee felt the letting-go as one more kindness in a day that had been full of them.
 
-She wanted to keep telling it. That was the strange part, how much she wanted to put all of it into Randi's hands. "And after, we talked. Or he talked and I listened, and I liked listening to him. He gets this thing in his voice when he's excited, he goes about six years old, the way a little boy tells you about dinosaurs, like it's the most magic thing anyone ever got to know about. All of it over, I don't know, some bridge. Who built it, why it still stands." She was smiling down at her drink. "I felt good just sitting there listening to him."
+She wanted to keep telling it. That was the strange part, how much she wanted to put all of it into Randi's hands. "And after, we talked. Or he talked and I listened, and I liked listening to him. He gets this thing in his voice when he's excited, he goes about six years old, the way a little boy tells you about dinosaurs, like it's the most magic thing anyone ever got to know about. All of it over, I don't know, some bridge. Who built it, why it still stands." She was watching Randi while she said it, to see it land. "I felt good just sitting there listening to him."
 
-"Six years old," Randi said, grinning.
+Randi's smile went brighter. It came up a whole notch at that, the full wattage of it turned on her, and Vee sat up a little under it, and was glad she'd said the last part out loud.
+
+"Six years old," Randi said.
 
 "Not six years old when I kissed him." It came out flat and proud. "I kissed him. Two days I'd known him. I do not do that, I have never once in my life done that, and I just did it."
 

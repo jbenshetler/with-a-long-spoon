@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 2888278eb31d · 2026-09-19*
+*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha fde22a7a2583 · 2026-09-26*
 
 REACTION
 
-God, my stomach was in knots the entire time they were climbing that trail, and then my heart just broke open in that truck.
+Oh, this is sickeningly good and it is absolutely turning my stomach in knots.
 
-The boots. The absolute perfection of the boot scene. Every single girl who has ever felt like she was clumsy, or too much, or unpolished knows that exact sick terror in the pit of the stomach—*what kind of girl lets a man take off her sweaty sock after forty minutes of hiking?* The voice of her mother screaming *floozy, unkempt, common.* And what does Pace do? He doesn't make a creepy, heavy thing out of it, and he doesn't shame her. He just puts his thumb on the moleskin to warm the glue, fixes the laces so they don't pinch, pats her toe to say *done*, and apologizes that *he* didn't think to ask. That is dominance through profound, unshakeable competence and care. It takes away all the frantic, buzzing noise in her head and replaces it with solid ground.
+First of all, Cassie. My god, my heart broke in the first two paragraphs. The way Cassie just looked at Vee, saw Randi already reaching for her wrist, and *folded whatever was in her eyes away*. And then Vee making that little excuse about why they shouldn't invite Cassie to the smoothie place—telling herself it's healthy to have separate friends while underneath something turns over and she just lets it lie. That is so real and so painful. We have all done that when a shiny, intoxicating new person walks into our lives, and watching Vee drift away from her anchor while thinking she's just "settling comfortably down into herself" hurts so bad.
 
-And the cherry pit! The sheer grace of him picking up her pit, laying his beside it on the wax paper, and saying *we take nothing and leave nothing* without a single ounce of scolding. He teaches her the world without making her feel small for not already knowing it. That’s what’s killing me. Because if this were just a straight romance, I would be sobbing with how utterly, desperately romantic it is. But the shadow is always there: *The hike had made her hungry first. That was the trick of it. That was what it was for.* The psychological precision of how he leads her into wanting, step by calculated step.
+And then Randi. Randi is a masterclass in psychological horror wrapped in lip gloss and oat milk. The fake bad date story she tells just to prime the pump! Pretending she forgot Pace’s name—*"Paul?"*—are you kidding me?! She is Pace's girlfriend! She knows his name! But she plays the ditzy, supportive bestie so effortlessly that Vee just spills *everything*.
 
-And then the truck. *Lord have mercy.*
+The way Randi mines her. She zeroes right in on the exact thing that matters: *"You let him choose for you. And you liked it."* She isn't just gossiping; she is gathering data for the machine she and Pace built. And Vee is so starved for a girlfriend to confide in, so high on the romance of having let a man feed her and kissing him against a tree, that she hands it all over. She rewrites her own agency right there at the table: she went from shouting in her room that she kissed him on purpose to whispering, *"Because of him."* Randi steered her right into that surrender.
 
-When he stepped out into the pouring rain just to give her privacy to change into his only dry shirt? He gave her complete safety, complete room to retreat. And what does she do? She takes that safety and uses it to call him back. She crooks her finger. She unbuttons that shirt in front of him *on purpose*. The absolute erotic brilliance of taking the shameful voice—her mother’s sneering *what kind of girl, floozy, three dates*—and leaning directly into it, weaponizing it as fuel for her own desire. She isn't being pressured. She isn't being coerced. She is entirely in the driver's seat of her own exhibitionism, putting her eyes on his and forcing him to watch her claim her own body.
+And the scene with Brooke. Helen Rivers writes social violence better than almost anyone I’ve ever read. The way a room of sorority girls can make a grown woman feel "the wrong size" in a pilled cardigan—it made my skin crawl with visceral memory. But what Randi does next is what terrifies me most. When she grabs Vee's hand on the table, in front of Brooke, and says, *"Vee's my dear friend"*—she isn't defending Vee out of pure kindness. She is staking a claim. She is playing the protector so that Vee will feel irrevocably indebted to her, safe with her, *chosen* by her. It gives Randi a thrill to claim the outsider in front of her pristine sisters, and it cements Vee's trust completely.
 
-And his reaction! He doesn't pounce. He doesn't grab. He just looks at her with *want and gladness and stillness*, shivering because he gave her his only shirt, vibrating with cold and restraint. When she realizes he’s freezing and pulls his shaking hand against her warm stomach under the flannel? The intimacy of that is twenty times hotter than any cheap grope in an alley. It felt earned, heavy, real.
+"She did not feel, now, like a thing the room could turn and look at. She felt picked."
 
-I cursed out loud when the campus cop hit the siren at the dorm curb. I wanted that quiet moment between them before she got out. But seeing her stand under the overhang, wearing his oversized flannel, smelling like his gym bag and her own damp hair, with the moleskin still holding on her heel... she is completely, beautifully ruined for any ordinary boy. She's in deep water now.
+God. She *was* picked. But not like this. She was picked off the quad like an apple off a tree by two people playing a game. The seduction isn't just Pace; it's Randi. Vee is falling in love with both of them at the exact same time, and she doesn't even realize she's inside the walls of the maze already. I feel sick with anticipation for the hike.
 
-GATE 11 — Leave No Trace
+GATE 11 — Dear
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The tension in the truck cab was breathless—watching her take the space he gave her and use it to deliberately show him her body was pure, consensual fire. The tenderness of him fixing her boot and giving her his only dry shirt makes the trap they're building around her almost agonizingly seductive. I have to see what happens when she walks back into that dorm room.
+WHY: The psychological manipulation here is suffocatingly brilliant—watching Randi actively groom Vee's loyalty while Vee just feels the pure, melting relief of being defended and chosen makes me desperate to see what happens when the three of them finally collide.
