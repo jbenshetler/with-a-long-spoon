@@ -1,19 +1,26 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 578546d8a374 · 2026-09-14*
+*capture-dag-v2-rich · gate ch012 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 2bcd8a499e1e · 2026-09-27*
 
 REACTION —
-Oh, this little chapter got me. Not because anything “happened,” exactly, but because Cassie got to receive the story, and thank God. Thank God Vee still has a person she can come home to wearing the evidence and say the whole thing out loud to.
 
-I love Cassie here. I love her “blood type” joke, and I love that she is suspicious in the practical, loving way without making Vee feel stupid or dirty. She lets Vee be triumphant. She lets her be horny. She lets her be proud that she got up the mountain on her own legs. And then when the flannel part comes, Cassie knows enough to stop performing. That soft “Vee” landed right in my chest.
+Oh, this one got me. The title alone had me braced, and then the chapter kept doing that maddening thing this book does where every immediate moment is almost unbearably careful, and the larger situation is still a trap with flowers growing over it.
 
-And Vee. She is so lit from inside here. The chapter lets her tell it, which matters. She is not just being watched by Pace or handled by Randi; she is narrating her own wanting to the person who knows her best. I’m still alarmed by the larger structure, absolutely, but this chapter actually reassures me in a weird way because Vee’s interiority is intact. She understands pieces of what she chose. She knows she called him back in. She knows “on purpose.” That does not solve the missing-information problem, but the book is not erasing her agency to make the trap work.
+The hike scared me less in the way I expected and more in the way that matters. I was ready for isolated-place-with-man alarm bells, but Pace was almost scrupulously decent on the trail. The boot scene could have been so loaded, and instead he just fixes the problem. No little humiliation, no eroticizing her embarrassment, no making her ignorance cute for his pleasure. Same with the cherry pit. He corrects her without shrinking her. That matters to me a lot, because Vee is so tender around not knowing things. She is basically one exposed nerve ending when it comes to class and girlhood and being “common,” and he keeps meeting those moments with competence instead of contempt.
 
-The flannel is devastating. I am weak for “he gave it and did not ask for it back,” yes, fine, guilty. But I also noticed the chapter does not have Cassie swoon on command. She doesn’t say “oh my god marry him” or fold into the fantasy. She says borrow real boots next time. That is exactly the kind of ballast I need this book to keep giving me.
+But God, the competence is the danger. Because he is so good at letting her feel safe while he has brought her exactly where he wanted her: hungry, cold, awed, bodily open, alone with him, dependent on his pack and his knowledge and his dry shirt. I don’t think he caused the rain, obviously, but the book knows how erotic dependency is here. It knows. The sandwich, the water bottle, the moleskin, the flannel. The whole chapter is Vee being taught that being cared for can make her want to undress herself.
 
-Also: “And then we ate” like other girls say “and then we kissed” is such a Vee sentence emotionally. This girl wants to be fed, seen, admitted, and not shamed for appetite. Pace is aiming directly at that, and Randi is helping, and I am still sitting here with both hands on the rail. But this chapter made me want to keep going, because the book still knows why I’m nervous.
+And the summit. I loved that the world got bigger than him. That felt like oxygen. His blue shirt disappearing against the valley was maybe the first time in a while that something has swallowed Pace instead of Pace arranging everything else. Vee gets an encounter that is not only him. I needed that. I needed her to have beauty that wasn’t made by him, even if he brought her there.
 
-GATE 12 — Rye
+The truck scene... yeah. That was hot, and it was also extremely clear about what was happening inside her. I don’t feel like the book is asking me to pretend this is just cute. Vee is using the shame-voice as fuel. She is not simply “liberated” from it; she is aroused by disobeying it while still hearing it. That is psychologically exact in a way I trust, even when I’m clutching the railing. And Pace, for once, is not fully ahead of her. That mattered. He doesn’t know what she has called him back for. She stages it. She keeps his eyes. She decides when to look down and bring his eyes with her. There is agency there, real agency, even inside the engineered larger pattern.
+
+The moment that actually undid me was his hand shaking. Because it punctures the spell in the right way. Not morally, exactly, but bodily. She suddenly sees him as wet and cold and not just the receiver of her offering. Her desire was about to go forward, and then care interrupts it. That made me like her so much. That made me trust the book with her a little more.
+
+I am still watching the russet dress like it has a flashing light on it. He heard it. He did not pick it up. Which means, probably, he will pick it up later. If he buys that dress without telling her the truth of what game she’s in, I am going to have complicated feelings and possibly throw a pillow. Because it will be beautiful, and it will also be another piece of architecture.
+
+And that ending with the campus cop was such a nasty little cut-off. Not melodramatic, just mundane authority slicing through the thing before it can become a conversation. She leaves in his flannel, unfinished, warmed and marked and not able to say whatever she was going to say. That’s very effective. I want the next chapter badly, but I want it with my shoulders up.
+
+GATE 12 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-ALMOST-STOPPED: none
-WHY: This was quiet, but it deepened my trust because Cassie stayed present as witness instead of being made into a scold or a joke. I’m still wary of Pace and the hidden setup, but Vee telling the story in her own delighted, embarrassed, hungry voice pulled me hard toward the next door.
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: "The hike had made her hungry first. That was the trick of it. That was what it was for."
+WHY: That line made my whole consent-alarm panel light up, because it names the design underneath the tenderness. But the chapter kept showing me Vee’s interiority and the book’s awareness, especially in the truck when her desire and her care both mattered. I’m very in, very wary, and already reaching for the next page.

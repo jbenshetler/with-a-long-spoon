@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch012 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 578546d8a374 · 2026-09-24*
+*capture-dag-v2-rich · gate ch012 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha d4b4398316b0 · 2026-09-27*
 
-REACTION:
+REACTION
 
-Oh, this hurt. This hurt in a completely different way than the last chapter.
+My stomach is in absolute knots. The terrifying brilliance of this book is how it makes the snare feel like an act of mercy.
 
-In Chapter 11, I was holding my breath watching Pace engineer every single beat—the moleskin, the leave-no-trace demonstration, giving up his dry flannel, and then deliberately stepping out into the freezing rain so Vee would feel the *burden* of his chivalry and the thrill of breaking her own modesty rule to call him back. It was an absolute masterclass in benevolent manipulation: make the girl feel so safe, so protected, so indebted to your self-sacrificing gentleness that strip-teasing for you in a cold truck feels like *her* triumphant act of liberation. "I did it on purpose. Me." God, it turns my stomach because it works so well.
+Look at what Pace did. He doesn't lunge. He doesn't push. He steps out of the truck into the freezing downpour to "give her privacy," knowing full well she is a girl starved of autonomy, hyper-vigilant about being judged, and carrying a lifetime of maternal shame. And because he creates that absolute vacuum—because he steps outside and turns his back—he forces *her* to be the one to knock on the glass. He forces *her* to crook her finger. He orchestrates a scenario where stripteasing in a freezing truck feels like the ultimate, defiant assertion of her own desire. *“I want him to see me.”* It made my chest ache. The line between being liberated from her mother’s voice and being played like a cheap violin is razor-thin here, and the book knows every millimeter of that line.
 
-And then we get Chapter 12. A short, quiet debrief. And what breaks my heart into absolute pieces is that Cassie—dry, skeptical, protective Cassie, who had her blood type ready, who looked at him like someone's great-aunt—*buys it*.
+And the moleskin! The cherry pit! "We take nothing and leave nothing." He is training her. He's teaching her how to be handled by him, how to be corrected without being humiliated, how to let him manage her body piece by piece. He bandages her foot and it feels like holy grace to a girl whose mother only ever scrutinized her flesh for flaws. Then, when she reveals the russet silk dress she wants for the induction ceremony, he just files it away. We all know that dress is going to show up. He is collecting data, tailoring the trap to the exact shape of her unfulfilled longings.
 
-Cassie isn't Randi. Cassie isn't pumping Vee for data to report back to a handler. Cassie genuinely loves her. And because Vee is telling the truth of her *experience*—that he didn't grab, that he didn't push, that he stood in the rain, that he looked at her like she handed him something precious—Cassie’s defenses drop. Cassie softens. When Cassie says *"Vee"*—soft, setting something down where it wouldn't break—and tells her to keep the shirt, the last line of defense in Vee's real life just stood down.
+The cop car at the end was an incredible, jarring intrusion of the real world—the mundane reality of college campus rules cutting through the intoxicating, cinematic bubble they were building. She's standing under the dorm overhang, drenched, wearing his oversized shirt, smelling of his soap, with Cassie waiting upstairs. Cassie is going to see her walk in like that. Cassie is going to ask questions, and Vee is riding a high of manufactured agency that is going to make any voice of reason sound like an attack.
 
-That is horrifying. The one person who could have pulled the fire alarm just heard the story and thought, *Maybe he really is good for her.* Because from the outside, stripped of the context of Chapter 1 (the spanking bench, Randi’s breakdown, the quad hunting game), Pace *does* sound like an absolute dream. He sounds like the exact opposite of every campus creep who ever cornered Vee at a party. The trap is so well-built that even the smart, cynical roommate just gave it her blessing.
+I feel sick for her, and I am completely glued to the page.
 
-This was short, but it did massive psychological damage. The isolation is almost complete now, not because Cassie was pushed away, but because Cassie has been disarmed.
-
-GATE 12 — Rye
+GATE 12 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 ALMOST-STOPPED: none
-WHY: The trap just closed around Cassie, too. Watching the one person who truly loves Vee get disarmed by Pace's manufactured chivalry made my stomach drop—the psychological architecture of this book is terrifyingly good.
+WHY: The psychological architecture of Pace's manipulation is devastatingly precise—he gives her just enough silence and space that she convinces herself she is the architect of her own unraveling. The book's awareness of power dynamics remains razor-sharp.

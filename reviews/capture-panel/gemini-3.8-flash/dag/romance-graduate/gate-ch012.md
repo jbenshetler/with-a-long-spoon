@@ -1,21 +1,22 @@
-*capture-dag-v2-rich · gate ch012 · gemini-3.8-flash · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~578546d8a374 · 2026-09-10*
+*capture-dag-v2-rich · gate ch012 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha d4b4398316b0 · 2026-09-27*
 
 REACTION
 
-God, this was a tiny, gorgeous little exhale of a chapter, and it hit me right in the chest. 
+Holy shit. The truck scene. My heart was pounding so hard in my throat I felt it in my teeth.
 
-After the sheer, soaking tension of Chapter 11—Vee stripped to her wet bra in the cab of that truck, calling him in, daring him to look, holding his freezing shaking hand against her stomach—we needed this debrief. And having it be with *Cassie*, not Randi, was such a masterstroke. Randi would have listened with that manicured, predatory gleam, cataloging every detail for her own sick little game with Pace. But Cassie? Cassie had her blood type ready. Cassie is the real thing. 
+The whole hike had this incredible, thick, sensory weight to it—the burn in the thighs, the raw heel, the dark bread and sharp horseradish making her eyes water, the cherry pits (and that quiet, absolute dominance of *“We take nothing and leave nothing”*—god, the man teaches her how to behave without ever making her feel dirty or small). He manages her so completely, but it feels like the gentlest shelter in the world.
 
-The banter between them made me smile so hard ("No van." "No van. He took you up a mountain nobody can see from the road... and brought you back. With your shoes on."), but then it completely pivoted into this stunning, tender gravity. Watching Vee try to explain what happened without quite having the vocabulary for how big it feels to her—how eating a sandwich felt like a kiss, how getting up that rock made her feel capable for the first time in her life, and then admitting, with her cuffs rolled up, *I knocked on the glass and I called him back in.* 
+And then the rain. When he stepped out of the truck to give her privacy, and she realized he was standing out in the freezing downpour just so she could change without shame? The psychological flip that happened in her head was pure, uncut romance crack. She didn’t want to be protected from him. She wanted him to *look*.
 
-She's so proud of herself for being brave. She thinks she claimed her own sexuality in that truck. She thinks she made an autonomous choice to be seen, to shed the shame her mother handed her, to offer herself to a man who proved he wouldn't snatch at her. And it *was* brave, within her own skin! That's the heartbreak of this book: Vee's personal awakening is real and earned and beautiful, but it's occurring inside a maze built by two people who are studying her through a two-way mirror. 
+Tapping on the glass. Crooking her finger to call him back into the cab. Getting up on her knees on that old bench seat and unbuttoning her soaked shirt one agonizing button at a time while staring right into his eyes—*that* is the heat I am starving for. It wasn’t just physical; it was her whole repressed, mother-policed, good-girl history weaponized into pure exhibitionism. The shame becoming the fuel. And Pace—the discipline on that man! Sitting there, letting her command the moment, his jaw tight, shivering from the cold, letting her offer herself up and not grabbing, not lunging, just taking every drop of what she gave him. Bringing his freezing hand under her flannel to press against her bare, warm belly? Jesus. The intimacy of that hit harder than a full-blown blowjob scene in any of the five hundred KU books I’ve read this year.
 
-And Cassie's reaction just broke me. She didn't lecture. She didn't roll her eyes. She just dropped the dry act and said her name—*"Vee"*—softly, like setting down glass. Cassie knows Vee is in way too deep to be pulled back now. "Borrow real boots next time." It’s total surrender to the inevitable. She's letting Vee have her joy while it lasts. 
+And then that campus cop barking the siren at the end—the absolute tension-breaker, forcing her to scramble out, leaving her standing on the dorm curb wrapped in his flannel, smelling like him, dripping wet, completely ruined for any normal boy forever.
 
-Short chapter, zero overt action, but pure emotional payoff. My heart is already aching for the crash that's coming.
+I need the next chapter immediately. I need to know what happens when she walks past Cassie looking like that, and I need to see him pull her all the way in.
 
-GATE 12 — Rye
+GATE 12 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 8/10
+CAPTURE: 10
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The contrast between Vee's genuine, glowing vulnerability and Cassie's quiet, protective realization that her friend is completely gone on this man was understated and emotionally devastating. I need to see what happens when Randi finds out about this hike.
+WHY: The striptease in the truck was a masterpiece of erotic psychology—intense, deliberate, and deeply earned. The tension between his rigid control and her waking appetite is suffocatingly good, and I couldn't stop reading right now if I tried.

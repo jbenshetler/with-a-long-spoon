@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch012 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 578546d8a374 · 2026-09-19*
+*capture-dag-v2-rich · gate ch012 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha d4b4398316b0 · 2026-09-27*
 
-REACTION:
+REACTION
 
-*God.* Cassie is the anchor of my whole life right now.
+Holy shit. My heart is actually pounding in my chest right now.
 
-Look, this is a tiny, quiet chapter—barely two pages of two roommates talking in a dorm room with the window cracked two inches. Normally, after the sheer electric shock of that truck scene in Chapter 11 (where my heart was in my throat the entire time she unbuttoned that shirt, *holy shit*), a debrief could feel like hitting the brakes. But it didn't. Not even a little. Because this conversation does something so few books ever bother to do: it gives the heroine a safe harbor to process her own desire out loud, without shame, to a friend who actually loves her.
+That truck scene. *That truck scene.*
 
-"I had your blood type." I love Cassie so much. She is every good, fierce, cynical best friend who keeps your location pinned when you go out with a guy from a different world. And the way she listened to Vee—she started with the protective armor up, ready to file the report, and then as Vee talked, Cassie just went *still*. Because she heard the truth in Vee’s voice.
+I need to talk about what just happened, because this is the exact alchemy I have been dying for in romance for ten years. It wasn’t him cornering her. It wasn’t him using the rain or the cold as an excuse to strip her down or grope her or play the aggressive alpha who just "can't control himself." He literally *stepped out into the freezing downpour* to give her absolute privacy, sacrificing his own only dry piece of clothing, offering her complete safety. He made zero assumptions. He left her entirely in control of her own space.
 
-*"And I knocked on the glass and I called him back in. And I took my wet shirt off in front of him. On purpose. Me. And he looked at me like I'd handed him something."*
+And because he made it that safe? *She* was the one who called him back. She tapped on the glass. She crooked her finger. She got up on her knees on that bench and unbuttoned her shirt one by one, looking right into his eyes, weaponizing her own mother’s shaming voice and turning it straight into pure, incandescent heat. She *wanted* to be seen. She claimed her own desire with both hands. And when the shirt came off, what did he do? He didn't pounce. He didn't turn it into a grab. He sat there in complete, reverent stillness, looking at her with "want and gladness." The control it took for him to just *receive* her gift without taking more than she offered... God, it is so wildly, impossibly hot.
 
-That line broke my heart and repaired it all at once. Vee owning it. "On purpose. Me." That is everything I read for. That feeling of a woman who has spent her entire adolescence feeling like her body is an awkward, oversized, hyper-sexualized burden to be covered up, suddenly realizing that her desire is *hers*. That she can invite a man to look at her, that she can strip down not because she's being cornered or coerced or sweet-talked into it, but because she wants to be seen by *him*. And that Pace honored that invitation with stillness and reverence instead of lunging at her.
+And then the tenderness immediately following—when she reaches for his hand to pull him in for more, and realizes *he is shivering*. That he stood out in the freezing mountain rain so long he's shaking, and instead of pushing for sex, she pulls his freezing hand under the dry flannel against her warm bare stomach to warm him up. "You're freezing." The care between them is so thick you could choke on it.
 
-And then Cassie’s reaction: "Vee... Just her name, like setting something down where it wouldn't break."
+Every single detail in this chapter worked on me. The hiking boot—him crouching down, peeling off her sweaty sock, not an ounce of disgust, completely matter-of-fact as he warms the moleskin with his thumb and relaces her boot so it doesn't hurt. The cherries and the wax paper ("We take nothing and leave nothing") teaching her without a shred of condescension. Him quietly listening to her talk about the russet silk dress she thinks she's not good enough or rich enough to have, and just saying, *"That sounds like a beautiful dress"*—and you just *know* that man is going to find a way to get her that dress, or at least it’s lodged in his brain forever.
 
-The sheer tenderness of that moment makes me ache, mostly because the shadow is still hanging over all of it. Cassie is revising her file, thinking Pace might actually be the real deal—a good man who builds furniture, packs horseradish sandwiches, carries moleskin, and stands in the freezing rain to give her privacy. And the sick, twisted tragedy is that *he is that man*, but he's also the man who laid this trap with Randi. Every step Vee takes toward him feels like pure, radiant sunlight, and my stomach is in absolute knots waiting for the other shoe to drop.
+And the ending! The campus cop barking the siren right when they were about to have their moment at the curb. The frustration of it was so real, but honestly, it left the tension strung so tight it’s humming. She's walking into her dorm soaked, wearing his flannel, smelling like him.
 
-"Keep the shirt." God. Yes. Keep the shirt. Now please, get them back together.
+The tragedy underneath all this warmth is almost sickening now. He is being so good to her. He is treating her with more dignity, patience, and real consent than any man she's ever known. And in the back of my mind, I'm screaming because I know Randi is sitting somewhere waiting for the debrief, and the walnut bench is sitting out in his house off 614. How is this going to survive when the truth comes out? I am so deep in this book right now I can barely stand it.
 
-GATE 12 — Rye
+GATE 12 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: It’s a short exhale after the incredible heat of the truck scene, but Cassie and Vee’s bond is so grounded and real that the conversation felt completely vital. Watching Vee claim her own agency—*"On purpose. Me."*—while Cassie quietly softens her defenses is breathtaking, even as the dramatic irony makes my chest ache for what’s coming next.
+WHY: The absolute peak of what I read this genre for—immense, breathless erotic heat born entirely out of profound respect and genuine, enthusiastic female agency. The truck scene was perfection, the care between them aches, and I need the next chapter this second.

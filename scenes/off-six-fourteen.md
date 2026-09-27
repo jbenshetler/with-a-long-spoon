@@ -46,13 +46,13 @@ Cassie considered her from the edge of the bed, sock feet, chin on her knees.
 
 Vee threw a pillow at her, which Cassie took on the shoulder without unfolding.
 
-"His name is Pace, he is *lovely*, and I am not going to go missing." But she was already answering it, already happy to, because being able to answer it was its own small proof of something — that she had this, that there was a *this* to have. "He lives out west of town, off six-fourteen, past where it goes to gravel. There's a trail he goes to out there. He'll have water, he's not going to walk me off a cliff." She counted it off like a dossier, like plenty. "See. I know where he lives and everything."
+"His name is Pace, he is *lovely*, and I am not going to go missing." But she was already answering it, already happy to, because being able to answer it was its own small proof of something — that she had this, that there was a *this* to have. "He lives out west of town, off six-fourteen, past where it goes to gravel. There's a trail he goes to, somewhere. He'll have water, he's not going to walk me off a cliff." She counted it off like a dossier, like plenty. "See. I know where he lives and everything."
 
 "Off six-fourteen," Cassie repeated. "That's the whole address."
 
 "It's a *road*, Cassie, it's not — you go out past where the —" Vee gestured at the wall in the approximate direction of west, and gave it up, laughing.
 
-"Is he rich?" Cassie said. "Rich people hike. Poor people walk. Out there with a trail he *goes to* — is he rich?"
+"Is he rich?" Cassie said. "Rich people hike. Poor people walk. A trail he *goes to* — is he rich?"
 
 Vee opened her mouth and found she didn't have it. "I don't — I haven't been out there yet. To the house." It hadn't occurred to her until just now that she didn't know, and it didn't trouble her now that it had; it went into the pile of things she'd get to find out, which was the best pile there was. "I'll tell you when I've seen it. Either way I have to wear real shoes — that's the one thing he said. Real shoes."
 

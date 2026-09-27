@@ -26,7 +26,7 @@ The trail eased in, like he'd said. The trees came close on both sides. The worl
 
 Pace went ahead. She followed. He'd said *I'll set a pace, tell me if it's wrong,* and the pace he set was slower than she'd braced for. He walked at the speed of her not knowing how. He didn't make her feel slow.
 
-His shirt was bright blue. Synthetic, fitted close — cobalt against all that brown and gray, the only bright thing in the woods. It moved with him the way cotton never did. It showed his back as he climbed. The long line of him, shoulder to waist, the muscle working under the cloth. She hadn't seen his back before. She'd had a sense of it.
+His shirt was bright blue. Synthetic, fitted close — cobalt against all that brown and gray, the only bright thing in the woods. It moved with him the way cotton never did. It showed his back as he climbed. The long line of him, shoulder to waist, the muscle working under the cloth. She hadn't seen his back before. She'd had a sense of it. And Randi's word came up the trail behind her. *Ravish.* Randi at the white table, delighted with it, and the picture she'd hung up for Vee, which Vee had walked home under and had not taken down since: him handing her up over rock to someplace high, the two of them out of breath at the top of it, and him turning, and asking. And then. She watched the muscle work under the blue and put her foot where his had been.
 
 They talked at first. Small things. The trail, where it went, how long. He'd been here before. He liked it because it didn't take all day and the top was worth it. He didn't sell her the top. He said it was worth it and left her to find out.
 
@@ -166,13 +166,13 @@ He got to her door a step ahead of her and opened it and she climbed in and haul
 
 She was shivering. She hadn't known it until she sat still and the cold caught up to her.
 
-He reached behind the seat. The bench ran the width of the cab and behind it on the narrow shelf was his gym bag — she hadn't seen it on the way up. Now he pulled it forward by the strap and unzipped it on his knee. He took out a flannel shirt. Folded. Clean. Dry. He held it out to her and didn't say anything.
+He reached behind the seat. The bench ran the width of the cab and behind it on the narrow shelf was his gym bag, the strap gone soft with use, a thing that lived back there. He pulled it forward by the strap and unzipped it on his knee. A zip bag with a razor in it and a bar of soap worn thin at the edges, a rolled pair of socks, gray briefs folded square, and under them a flannel shirt. Folded. Clean. Dry. He drew it out from under the rest and held it out to her and didn't say anything.
 
 She took it.
 
 It was soft, and it was warm — not warm from a body, warm the way dry folded cloth is warm against wet skin, the *dry* of it almost a heat. Thick flannel. It would drink the wet off her like a towel. She held it in both hands in her lap and looked at it.
 
-His only dry shirt. The one he'd packed for himself, for after, because he showered at the gym and had no house here to go to.
+His only dry shirt.
 
 He opened his door and got out.
 

@@ -34,7 +34,8 @@ entries are authorial decisions — do not re-flag without new evidence.**
   flat sentence-end enacts the tact; trailhead's "didn't make anything of it"
   is the phrase's only owner.
 - F11: cut "— and he'd put it in her hands instead." from the dry-shirt
-  paragraph (:175) — kept the cost accounting (gym shower, no house), removed
+  paragraph (:175) — kept the cost accounting (gym shower, no house; itself
+  cut 2026-09-27, see Left standing), removed
   the clause that pre-chewed "His shirt, and then the truck. Both."
   (opus-praised).
 - F12: cut "the two run together inside her now" — the chiasmus ("The voice
@@ -78,6 +79,12 @@ entries are authorial decisions — do not re-flag without new evidence.**
 - **"no house here to go to" (:175)** — gpt-5.6-sol (2026-08-06 re-read)
   couldn't parse "here" (= in town, vs. his house off six-fourteen). One
   reader in four; logic is sound; left as is (author ruling 2026-08-06).
+  **Superseded 2026-09-27:** the explaining sentence is cut. :175 is now
+  "His only dry shirt." alone; the gym habit is shown at :169 instead — as
+  he unzips the bag she sees the razor, the worn soap, socks, briefs, and the
+  flannel under them, and the bag "lived back there." Author ruling: the
+  spare kit is an ordinary gym-rat habit, not a setup, and Vee's close third
+  cannot explain what she doesn't know; the reader infers from the kit.
 - **Truck color** — two readers misremembered a gray truck; canon is white
   (`standards.md:53`). No issue.
 - **Linter acks 2026-08-06:** all `warm` hits (cold-to-warm chapter;
