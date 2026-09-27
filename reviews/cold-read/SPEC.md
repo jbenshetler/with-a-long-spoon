@@ -334,8 +334,9 @@ After Volume 1, a checkpoint at boundary B is exactly one consolidation hop
 from the frozen final native checkpoint of the prior volume: the extractor gets
 that seed plus all raw clean prose from the current volume's opening through B.
 Every decade checkpoint in one volume uses the **same** frozen prior-volume
-seed. For example, `ck-ch060` is native `ck-ch050` + raw ch 51..60; a later
-`ck-ch070` is again `ck-ch050` + raw ch 51..70, never `ck-ch060` + raw
+seed. For example, `ck-ch060` is native `ck-ch<S>` + raw ch S+1..60; a later
+`ck-ch070` is again `ck-ch<S>` + raw ch S+1..70, never `ck-ch060` + raw
+(S = the live position of the slug in `ensemble-config.toml` `[checkpoint_seeds]`)
 ch 61..70. Thus there is no within-volume checkpoint chain, while the explicitly
 bounded one-hop-per-volume consolidation preserves the prior volume's frozen
 memory.
@@ -344,8 +345,8 @@ The current Volume 2 seam is minted with:
 
 ```
 tools/checkpoint_extract.py --reader-sequence \
-  --seed-checkpoint reviews/cold-read/<model-id>/checkpoints/ck-ch050.md \
-  --from 51 --to 60 \
+  --seed-checkpoint reviews/cold-read/<model-id>/checkpoints/ck-ch<S>.md \
+  --from <S+1> --to 60 \
   --model <native-model> \
   --out reviews/cold-read/<model-id>/checkpoints/ck-ch060.md
 ```

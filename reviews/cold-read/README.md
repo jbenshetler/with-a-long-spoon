@@ -63,8 +63,10 @@ Volume 1 native checkpoints are high-effort cold passes over the complete raw
 clean source through the boundary. After Volume 1, every in-volume checkpoint
 is one consolidation hop from the same frozen final native checkpoint of the
 prior volume plus all raw prose in the current volume through that boundary.
-Thus Volume 2 `ck-ch060` uses `ck-ch050` + raw ch 51..60, while `ck-ch070`
-again uses `ck-ch050` + raw ch 51..70, not `ck-ch060`. Qwen and DeepSeek are
+Thus Volume 2 `ck-ch060` uses `ck-ch<S>` + raw ch S+1..60, while `ck-ch070`
+again uses `ck-ch<S>` + raw ch S+1..70, not `ck-ch060` — where S is the live
+position of Volume One's last drafted chapter, named once in
+`ensemble-config.toml` `[checkpoint_seeds]` and printed by `checkpoint_plan`. Qwen and DeepSeek are
 donor-memory readers: both use the quote-backed, cross-vendor `core` ensemble
 and cannot mint native checkpoints. Their review headers pin the ensemble hash.
 
@@ -81,8 +83,8 @@ flattened.
 tools/cold_read_grounded.py --check --model-id <id> --scope <slug>
 tools/checkpoint_extract.py --model <native-model> --to 50
 tools/checkpoint_extract.py --reader-sequence \
-  --seed-checkpoint reviews/cold-read/<model-id>/checkpoints/ck-ch050.md \
-  --from 51 --to 60 \
+  --seed-checkpoint reviews/cold-read/<model-id>/checkpoints/ck-ch<S>.md \
+  --from <S+1> --to 60 \
   --model <native-model> \
   --out reviews/cold-read/<model-id>/checkpoints/ck-ch060.md
 tools/checkpoint_ensemble.py build --ensemble core --through <B>

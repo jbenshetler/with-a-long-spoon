@@ -53,8 +53,8 @@ the tree on 2026-09-26 (git history keeps them).
 
    ```
    tools/checkpoint_extract.py --reader-sequence \
-     --seed-checkpoint reviews/cold-read/<model-id>/checkpoints/ck-ch050.md \
-     --from 51 --to 60 \
+     --seed-checkpoint reviews/cold-read/<model-id>/checkpoints/ck-ch<S>.md \
+     --from <S+1> --to 60 \
      --model <native-model> \
      --out reviews/cold-read/<model-id>/checkpoints/ck-ch060.md
    ```

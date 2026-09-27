@@ -1,4 +1,8 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.11"
+# dependencies = []
+# ///
 """Emit spec-blind CLEAN source for checkpoint extraction.
 
 Volume One checkpoints read raw prose from the opening. Later-volume checkpoints
@@ -10,8 +14,9 @@ used for provenance and the exact current-volume window used for that hop.
 The cleaner below MIRRORS cold_read_batch.clean_scene_text (kept in sync by
 hand — it is imported there for the reader harness). It strips the H1 and the
 leading italic POV/purpose header (a spoiler) so the bundle is byte-identical
-to what a blind reader sees. Duplicated only because cold_read_batch imports
-tomllib (py3.11+) at module load and this tool must run on py3.10.
+to what a blind reader sees. (Historically duplicated so this tool could run
+on py3.10; it now requires 3.11 via its uv shebang, and the copy is kept in
+sync by hand until someone folds it back.)
 
 Usage:
   tools/checkpoint_bundle.py                 # all drafted Volume One chapters
@@ -27,6 +32,7 @@ import hashlib
 import json
 import re
 import sys
+import tomllib
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -162,29 +168,31 @@ def build_bundle(start: int = 1, end: int | None = None, jacket: bool = True,
     return "\n".join(out).rstrip() + "\n"
 
 
-CHECKPOINT_SEEDS = {
-    # boundary -> the SLUG whose checkpoint seeds it.
-    #
-    # The key is a decade boundary, which is a memory-windowing position and is
-    # legitimately numeric. The value is a volume seam, which is a story
-    # landmark and must be a name: a chapter inserted earlier renumbers every
-    # position after it but leaves the slug alone. Recorded as a number until
-    # 2026-09-17, when `strokes` and `not-enough` moved Volume One's end from
-    # ch050 to ch052 and this seam silently stopped meaning "end of Volume One".
-    #
-    # `not-enough` is what the shipped ck-ch050 artifact actually covers through.
-    # It is NOT Volume One's last chapter any more, so `checkpoint_plan` fails
-    # closed below until the seam is cut over to `volume_last_slug(1)` and the
-    # affected checkpoints are reminted atomically.
-    60: "not-enough",
-}
+CONFIG_PATH = REPO / "reviews" / "cold-read" / "ensemble-config.toml"
+
+
+def _load_checkpoint_seeds(path: Path = CONFIG_PATH) -> dict[int, str]:
+    """Read `[checkpoint_seeds]` from the shared ensemble config.
+
+    The seam lives in ONE file shared by every tool (author ruling 2026-09-26);
+    it was a literal dict here until then. Keys are decade boundaries, values
+    are slugs (a story landmark must be named, never numbered — see
+    volume_scenes.volume_last_slug).
+    """
+    with path.open("rb") as handle:
+        raw = tomllib.load(handle).get("checkpoint_seeds") or {}
+    return {int(k): str(v) for k, v in raw.items()}
+
+
+# boundary -> the SLUG whose checkpoint seeds it; sourced from ensemble-config.toml.
+CHECKPOINT_SEEDS: dict[int, str] = _load_checkpoint_seeds()
 
 
 def checkpoint_plan(end: int) -> tuple[int | None, int]:
     """Return the explicit `(seed_boundary, raw_start)` policy for `end`.
 
     Volume One boundaries are raw passes from chapter 1. Later-volume boundaries
-    must be named in ``CHECKPOINT_SEEDS``; future seams are not inferred from
+    must be named in ``[checkpoint_seeds]`` (ensemble-config.toml); future seams are not inferred from
     mutable drafted-scene counts or decade arithmetic.
     """
     slugs = reader_slugs()
@@ -198,7 +206,7 @@ def checkpoint_plan(end: int) -> tuple[int | None, int]:
     if seed_slug is None:
         raise ValueError(
             f"no explicit checkpoint seed policy for boundary {end}; "
-            "add an author-approved CHECKPOINT_SEEDS entry"
+            "add an author-approved [checkpoint_seeds] entry in ensemble-config.toml"
         )
     first_seeded_boundary = min(CHECKPOINT_SEEDS)
     if end == first_seeded_boundary and seed_slug != volume_one_last:
@@ -206,7 +214,7 @@ def checkpoint_plan(end: int) -> tuple[int | None, int]:
             f"checkpoint seed policy for boundary {end} seeds from {seed_slug!r} "
             f"(ch{volume_scenes.chapter_number(seed_slug):03d}), but drafted Volume One "
             f"ends at {volume_one_last!r} (ch{volume_one_end:03d}); "
-            "update CHECKPOINT_SEEDS and remint affected checkpoints atomically"
+            "update [checkpoint_seeds] in ensemble-config.toml and remint affected checkpoints atomically"
         )
     seed_boundary = volume_scenes.chapter_number(seed_slug)
     return seed_boundary, seed_boundary + 1

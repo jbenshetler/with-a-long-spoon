@@ -40,8 +40,8 @@ restate the table here.
 
    ```
    tools/checkpoint_extract.py --reader-sequence \
-     --seed-checkpoint reviews/cold-read/<model-id>/checkpoints/ck-ch050.md \
-     --from 51 --to 60 \
+     --seed-checkpoint reviews/cold-read/<model-id>/checkpoints/ck-ch<S>.md \
+     --from <S+1> --to 60 \
      --model <provider/model> \
      --out reviews/cold-read/<model-id>/checkpoints/ck-ch060.md
    ```
@@ -72,7 +72,8 @@ tools/cold_read_grounded.py \
   --max-output-tokens 18000
 ```
 
-For every Volume 2 decade boundary, use native `ck-ch050` as the seed and raw
+For every Volume 2 decade boundary, use native `ck-ch<S>` (S from `[checkpoint_seeds]`
+in `ensemble-config.toml`, via `checkpoint_plan`) as the seed and raw
 ch 51 through that boundary; never seed one Volume 2 checkpoint from another.
 Reader reactions still use the resolved decade checkpoint plus the raw
 since-decade window, and remain independent. Independent chapters may use

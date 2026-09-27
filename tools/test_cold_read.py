@@ -407,12 +407,14 @@ class CheckpointPolicyTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "drafted Volume One ends at 'vol1-51'"):
                 self.bundle.checkpoint_plan(60)
 
-    def test_live_seam_is_currently_stale_and_fails_closed(self):
-        """Documents real repo state: ck-ch050 covers through `not-enough`,
-        but Volume One now ends at `nothing-underneath`. Deferred by the author
-        2026-09-17; this test flips to the happy path at cutover."""
-        with self.assertRaisesRegex(ValueError, "nothing-underneath"):
-            self.bundle.checkpoint_plan(60)
+    def test_live_seam_resolves_to_volume_one_end(self):
+        """Documents real repo state after the 2026-09-26 cutover: the seam in
+        ensemble-config.toml `[checkpoint_seeds]` names Volume One's last
+        drafted chapter, so the first seeded boundary resolves to that
+        chapter's live position + 1 (no literal — insertions renumber it)."""
+        vol1_last = self.bundle.volume_scenes.volume_last_slug(1, drafted_only=True)
+        seam = self.bundle.volume_scenes.chapter_number(vol1_last)
+        self.assertEqual(self.bundle.checkpoint_plan(60), (seam, seam + 1))
 
     def test_checkpoint_metadata_reads_first_and_middle_fields(self):
         raw = (
@@ -744,16 +746,11 @@ class HarnessParsingTests(unittest.TestCase):
         html = importlib.import_module("chronology_html")
         qa = importlib.import_module("checkpoint_qa")
         augment = importlib.import_module("chronology_augment")
-        expected = {
-            "claude-fable-5",
-            "claude-opus-4-8",
-            "gpt-5.6-sol",
-            "gpt-5.5",
-            "claude-opus-5",
-            "kimi-k3",
-            "glm-5.3",
-            "deepseek-v4-pro-0813",
-        }
+        # The roster is never restated (author ruling 2026-09-26): the consumers
+        # must load exactly what [panel].models says, whatever it says today.
+        config = importlib.import_module("cold_read_config")
+        expected = set(config.panel_models())
+        self.assertTrue(expected, "config panel is empty")
         self.assertEqual(html.PANEL_MODELS, expected)
         self.assertEqual(augment.PANEL_MODELS, expected)
         active, _sources = qa._panel_config()

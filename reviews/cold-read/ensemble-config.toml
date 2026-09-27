@@ -67,6 +67,29 @@ retired = [
 ]
 
 # ---------------------------------------------------------------------------
+# VOLUME SEAM FOR CHECKPOINT SEEDING — the single shared definition (author
+# ruling 2026-09-26; it used to be a dict inside tools/checkpoint_bundle.py).
+# Every tool that plans a checkpoint goes through checkpoint_bundle.checkpoint_plan
+# (cold_read_grounded, checkpoint_extract, checkpoint_ensemble, checkpoint_context),
+# and checkpoint_plan reads THIS table. Keys are decade boundaries (memory-
+# windowing positions, legitimately numeric); values are SLUGS — a volume seam
+# is a story landmark, and a chapter inserted earlier renumbers every position
+# after it but leaves the name alone. Volume One boundaries need no entry (raw
+# pass from chapter 1). Every later-volume boundary seeds from the frozen native
+# checkpoint through the PRIOR volume's last drafted chapter, never decade to
+# decade; the first seeded boundary's slug must equal that chapter or
+# checkpoint_plan fails closed. A boundary with no entry fails closed too
+# ("no explicit checkpoint seed policy") — add ch070 here, same slug, when
+# Volume 2 reads past chapter 70 are wanted.
+#
+# Cut over 2026-09-26 from `not-enough` (ch051) to `nothing-underneath` (now
+# ch053). Every shipped ck-ch060 (seed-boundary 50) is therefore stale until
+# reminted; the remints and the core-ensemble rebuild on claude-fable-5-1 are
+# deferred by the author.
+[checkpoint_seeds]
+"60" = "nothing-underneath"
+
+# ---------------------------------------------------------------------------
 # OpenRouter provider routing + per-use policy.
 #
 # `[openrouter]` is the routing floor applied to EVERY OpenRouter call, from

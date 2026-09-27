@@ -1,4 +1,8 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.11"
+# dependencies = []
+# ///
 """Assemble the AUTHORING CONTEXT for drafting a chapter: the most-recent decade
 memory checkpoint (projected to the authoring keep-set) + the full clean prose of
 every chapter since that checkpoint.
