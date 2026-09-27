@@ -1,47 +1,47 @@
-*capture-dag-v2-rich · carry-forward ck-ch010 · gemini-3.8-flash · romance-graduate · prompt-sha db93395517a5 · 2026-09-10*
+*capture-dag-v2-rich · carry-forward ck-ch010 · gemini-3.8-flash · romance-graduate · prompt-sha 9f29a94a7098 · 2026-09-26*
 
 WHO'S WHO
 
-- **Vee (Vivienne Thorne):** Twenty-one, college junior, econ major. Tall, built on a lush, athletic scale (copper hair, cinnamon freckles, former synchro swimmer) that she’s spent her life feeling ashamed of and trying to hide under baggy cardigans. Starving—literally and emotionally. Raised on her mother's policing voice, used to transactional boys who want an immediate return, and completely, blissfully blind to the fact that she’s been targeted. She thinks she's finally being seen and loved for who she is; she has no idea she's stepping into a bespoke psychological cage.
-- **Pace:** The PhD math student living off a gravel road on Route 614. Terrifyingly patient, courtly, exact, and hyper-observant. Not an aggressive alpha, which makes him a hundred times more dangerous. He builds his own furniture (including that custom spanking bench), reads women down to their bone-marrow appetites, and orchestrates seductions like proofs. He's sleeping with Randi, broke her completely open in chapter one, and is now running a slow-burn, masterclass courtship on Vee—feeding her, asking permission ("May I choose?"), and making her feel like every surrender is her own empowered idea.
-- **Randi:** Sorority royalty (Standards chair), hyper-curated, dark hair, blue eyes, lives on the surface because the surface keeps her safe. In chapter one, Pace stripped that armor off on the bench until she was sobbing and begging from her guts. Terrified of her own deep, desperate attraction to women, so she reframed it during sex as a "gift" for Pace: a threesome. She picked Vee out on the quad like prize livestock, orchestrated the meet-cute, and is now playing the intoxicating, high-wattage big sister/bestie to Vee while pumping her for intel and secretly getting off on the whole hunt.
-- **Cassie:** Vee's roommate. The only person in this book living in reality. Boxy frame, doesn't play the campus social games, swims in an ugly old navy suit, says four words a day and makes them count. Sees Randi's high-gloss act for what it is and is already quietly, sadly stepping back because she knows Vee is too drunk on the attention to be saved.
-- **Brooke & Sloane:** The sorority panopticon. Brooke is chapter president—sharp, smiling social violence wrapped in silk and administrative warmth. Clocked Pace's truck, filed his name, and keeps Randi's leash tight.
+- **Vee (Vivienne Thorne):** Twenty-one, junior, econ major. Tall, curvy, auburn hair, freckles. Gorgeous in a way that feels heavy to her—policed by her mother, leered at by frat boys, used to managing everyone else's gaze while keeping herself wrapped up tight. Starving for someone to actually see *her* mind and feed her without judgment. Falling hard, fast, and completely blind into a trap she thinks is freedom.
+- **Pace:** Finishing a math PhD. Not flashy, drives a white pickup, builds his own furniture (including the kink bench disguised as a bedroom table). Terribly, quietly observant. Courtly, patient, and bespoke-tailoring his seductions to the exact psychological starvation of the woman in front of him. With Randi, he's the strict, dismantling top who breaks her armor; with Vee, he's the respectful, unhurried gentleman who leaves every choice in her hands. Already keeping little secrets from Randi about Vee.
+- **Randi:** The sorority queen bee (Standards board), but utterly hollowed out inside. Terrified of her own appetites, terrified of being real. She dissociates, counts apple slices, and panicked after Pace thoroughly broke her down on his bench. Wanted to taste another woman so badly it shook her, but had to disguise it as "a threesome for Pace." Engineered the meet-cute with Vee, but now seems caught between voyeuristic thrill and a weird, quiet spike of possessiveness.
+- **Cassie:** Vee's roommate. Blunt, dry, grounded, immune to bullshit and sorority polish. The only person in this whole book who sees the shadows, even if she doesn't know the shape of them yet. Loves Vee fiercely and protects her without making a production of it.
 
 WHERE THINGS STAND
 
-- Pace and Randi have an established, intense, kinky dynamic. After Pace shattered Randi’s composure in Ch 1, she deflected her terrified homosexual panic into a "game" with Pace to scout a third for a threesome. Pace spotted Vee outside the dining hall, Randi fully locked onto her, and they staged an "accidental" collision to hook her.
-- Randi brought Vee into her orbit (Chi Latte, the stats lecture), then texted Pace to ambush them at a coffee shop on Wilson. Pace swooped in, helped Vee solve a calculus challenge problem by teaching her to combine two seemingly unrelated concepts (Euler's formula—pure thematic foreshadowing for the threesome), and asked for her number with old-school formality.
-- Pace took Vee on an innocent daylight froyo date, then a dinner at a cozy, hidden Middle Eastern place. He disarmed her lifelong food-policing by asking "May I choose?" and ordering for her, letting her completely zone out and stop managing herself. When he walked her home and didn't press for a kiss, Vee felt so in control that *she* stopped him and initiated it.
-- Cassie warned Vee that she doesn't know this man or where he actually lives, but Vee agreed to go hiking with him out at his place off 614.
-- In Ch 10, Randi took Vee to Smoothie Bird, staged a fake story about a bad date to draw Vee out, and Vee spilled *everything* about Pace—the choosing, the soft feeling, the kiss. When Brooke cornered them, Randi publicly claimed Vee as her "dear friend" and held her hand, sending Vee soaring while giving Randi total psychological collateral.
+- Randi and Pace picked Vee out like game on the quad after Randi broke down on Pace's bench and confessed a repressed hunger for women.
+- Randi orchestrated an "accidental" bump into Vee, charmed her into friendship, sat with her in stats, and set up the ambush at the coffee shop on Wilson.
+- Pace swept in, helped Vee with an econ calculus problem without showing off, and asked for her number.
+- Pace and Vee have had two dates: froyo (daylight, easy, where she admitted he was the nicest person to her in forever) and dinner (Middle Eastern food, where he ordered for her, let her feast, and made her pull him back to give him their first kiss).
+- Between dates, Pace went back to his house, where Randi rode his lap, drank his red wine mouth-to-mouth, and demanded every detail about Vee. Pace fed her report, but secretly held back Vee's most vulnerable confession.
+- Pace just invited Vee out to his place "off six-fourteen" to go hiking. Vee is floating, completely convinced she is the one in the driver's seat.
 
 HOW I FEEL ABOUT EACH OF THEM
 
-- **Pace:** God help me, he is devastating. The sheer restraint. Licking the dip off the side of his hand at dinner and making Vee short-circuit? Giving her the pencil back so she could finish the math herself? He is so gentle and so deadly. He thinks he’s an enlightened guide giving these women the room to find their authentic appetites, but he's also running a cold, calculated campaign. I want to see him push her onto that bench, but I also dread the moment the mask slips.
-- **Randi:** Fascination mixed with pure dread. She is a psychological disaster zone. Watching her dissociate after Pace broke her, lying in bed with her shoes on under that thin duvet, made me ache for her—and then watching her expertly reel Vee into the slaughterhouse made me want to slap her. She is using Vee as a human buffer between herself and Pace's demands, while simultaneously craving Vee's body and hiding it behind sorority sisterhood. 
-- **Vee:** My poor, sweet, starving girl. She is so raw and so real. Her mother's voice ringing in her ears every time she eats, the exhausting labor of just *having a body* that frat boys holler at—it makes her vulnerability to Pace's quiet, respectful feeding totally understandable. She owes Pace her autonomy, she owes Randi her secrets, and she owes Cassie an apology she doesn't even know she needs to make yet.
-- **Cassie:** Protect her at all costs. The only sane, grounded woman in the valley. That moment when she splashed Vee in the pool just to break her sad spiral was perfection.
+- **Vee:** My heart hurts for her. She is so real, so sweet, and so dangerously naive because she’s never had a grown man pay attention to her soul instead of just her tits. Watching her spin around the dorm room celebrating her "free will" while walking directly into a spiderweb makes me want to scream and cheer at the same time.
+- **Pace:** I am terrified of him and completely obsessed with him. The emotional intelligence on this man is lethal. He is a predator, but his predation looks like absolute courtesy, patience, and tender care. That moment he kept Vee's confession to himself instead of feeding it to Randi? Delicious. He’s already slipping off the leash.
+- **Randi:** She is a fascinating, toxic mess. I should hate her for serving up Vee like a side dish, but her own terror and self-loathing are so raw that I can't look away. She thinks she's directing this play, but the second Pace started talking about how easy Vee was to listen to, Randi froze. She’s going to get burned by the fire she lit.
+- **Cassie:** Protect her at all costs. The flat "Goodbye, Vee" in chapter four gave me chills. She knows something is off, but she's giving Vee room to breathe because Vee is so happy.
 
 WHAT I'M CARRYING
 
-- *"There you are, Randi."* The chilling, jaw-dropping reveal in Ch 1 when you realize the girl weeping and begging on the custom bench isn't the innocent heroine from the jacket, but the architect herself.
-- The bench. Oiled walnut, new hide, peaked at the hips, completely open in the middle, head-down, leaving a woman nowhere to brace and nothing to hide behind.
-- Randi pressing the sharp edge of the water bottle cap into her thumbnail after sex, needing pain she could control because Pace just took all her control away.
-- The two of them hunting on the quad, Pace whispering *"What about her?"* in her ear, and Randi coming violently around his cock just at the spoken thought of tasting another woman.
-- Vee floating at the bottom of the rec pool in the green silence, thinking she had loved swimming before she had a body that was a problem.
-- *"May I choose?"* Three words over a Middle Eastern menu that completely unlatched Vee's defenses and let her stop keeping track of herself.
-- Randi’s cool, damp hand closing over Vee's in front of Brooke, calling her "my dear friend," spending social capital to claim her while Vee sat there on a high stool with her feet dangling, feeling chosen.
+- The bench hidden under the removable tabletop in Pace's bedroom—waiting.
+- *"There you are, Randi."* The sheer horror of being seen that made Randi lock the bathroom door and dig her thumbnail into a plastic bottle cap.
+- The cold, smiling violence of Brooke in the sorority common room while Randi stood there in last night's clothes.
+- Vee underwater at the rec pool, doing the synchro scull, remembering a time before her body was a problem for other people to manage.
+- Pace licking the dip off the side of his hand at dinner and Vee completely losing the thread of her sentence.
+- "May I choose?"—three small words that felt like the sweetest surrender in the world.
+- Cassie's deadpan warning: "Rich people hike. Poor people walk. Out there with a trail he *goes to*—is he rich?"
 
 WHAT I'M WAITING FOR
 
-- The hike out off Route 614. Pace's house. Vee seeing the quartersawn oak furniture, the laminate counters, and whatever he keeps in the bedroom. How long does the courtly gentleman routine hold before he starts introducing her to the real weight of his hands?
-- When the physical chemistry between Randi and Vee boils over. Vee is already fixated on Randi’s smell, her touch, her approval; when does the cover of "girlfriends" snap?
-- Cassie’s breaking point. She’s watching the train leave the station. When does she finally confront Vee, and how bad is the fallout going to be?
-- The moment Vee finds out this wasn't fate, wasn't an accidental collision, wasn't a sweet guy in line at a coffee shop—that it was planned before she ever knew their names.
+- The hiking date off six-fourteen. Is she going inside the house? Is she going to see the table/bench?
+- When does the kink start with Vee? He broke Randi with physical discipline because Randi hides behind a polished mask; how is he going to handle Vee, whose shame is all about her body and being "too much"?
+- The crack between Pace and Randi widening. Pace is already holding back pieces of Vee; when does Randi realize she didn't just find a plaything, she invited in a rival?
+- The moment Vee realizes Randi and Pace already know each other. That reveal is going to be an extinction-level event.
 
 WHAT'S FADING
 
-- The exact sorority politics—the specific names of all the girls in the common room besides Brooke, and the minor chatter about Raptors and pickup trucks.
-- The granular details of the econ project Vee blabbed about to Pace at the coffee shop.
-- The name of the girl Vee was walking with when Randi first bumped into her outside the dining hall (Meg? Someone from her hall).
+- The exact math behind the calculus problem (something about Euler's formula and Bessel's correction—don't care, it just showed he's smart).
+- The secondary sorority girls' names besides Brooke (Sloane? Kinsey?). They're just background noise in Randi's gilded cage.
+- The details of the walk to the restaurant, except the fact that it was hidden in plain sight.

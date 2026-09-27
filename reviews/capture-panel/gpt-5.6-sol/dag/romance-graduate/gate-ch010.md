@@ -1,17 +1,16 @@
-*capture-dag-v2-rich · gate ch010 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~2ce78e0e23d6 · 2026-09-07*
+*capture-dag-v2-rich · gate ch010 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b011ff26b790 · 2026-09-26*
 
-REACTION — Oh, this is getting dangerous in exactly the way I wanted.
+REACTION — Oh, Vee. “Nobody did anything to me. I wasn’t talked into it. I did it because I wanted to and I did it on purpose.” That should feel purely triumphant—and to her it does—but knowing what I know, it made my stomach turn over. Not because the kiss wasn’t hers. It absolutely was. That’s what makes this whole thing so wicked: her agency is real, her happiness is real, and the secret machinery around her is also real.
 
-Randi pretending she couldn’t remember Pace’s name made my skin prickle. She engineered their meeting. She knows perfectly well who he is. So now I’m reading every warm little prompt—“you let him choose for you,” “because you couldn’t not”—as both genuine intimacy and deliberate pressure applied to the softest parts of Vee. And the awful, delicious thing is that Randi may truly care about her. That hand over Vee’s on the table felt protective, possessive, strategic, and emotionally real all at once. I don’t know which interpretation scares me most.
+Her spinning around that tiny room and collapsing into the beanbag got me. She isn’t performing being desired; she’s delighted by having wanted something and acted on it. That feels enormous for her. I’m happy for her, and meanwhile I want to grab Cassie by both shoulders and say, yes, keep asking for the address. Cassie’s dry little safety check is the only thing in this book currently standing between Vee and two people who have already discussed whether she’ll like the bench.
 
-Also: Cassie sees it. I am increasingly certain Cassie sees enough to know she is losing Vee, even if she doesn’t know what she’s losing her *to*. Vee casually deciding the smoothie place “isn’t really her place” hurt because that is how displacement actually happens—not through some ridiculous friendship blowup, but through tiny revisions of who belongs where until your oldest friend has been edited out. Vee supplied the excuse herself. Nobody even had to ask her to.
+And “Off six-fourteen” is suddenly creepy as hell. Vee thinks knowing that much means she knows where he lives. Cassie immediately hears how little it actually is. I love Cassie more every time she appears because she doesn’t puncture Vee’s joy, but she also doesn’t surrender her judgment to it. “Borrow good ones” is affectionate and practical and faintly ominous all at once.
 
-The scene with Brooke was excruciating. Vee becoming smaller so she wouldn’t embarrass Randi, then experiencing “dear friend” as rescue, is exactly the sort of emotional mechanism that could make her walk willingly anywhere Randi points. She felt the hierarchy, felt the threat, and Randi immediately soothed it by choosing her publicly. Of course Vee leaves feeling cherished instead of handled. I would too. That’s the trap.
+This was quiet, but I didn’t need heat here. I needed to see what that kiss meant once Vee carried it home, and apparently it meant enough to make her dance badly in a room too small for it. That sweetness is precisely why I’m scared for her.
 
-There wasn’t physical heat here, but the charge absolutely held. Randi is teaching Vee how to narrate her own surrender while making the narration feel like friendship. I want to shake Vee, protect Cassie, interrogate Randi, and then keep reading because this is so much more psychologically intimate than another interchangeable billionaire growling “mine.”
-
-GATE 10 — Dear  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: Randi “forgetting” Pace’s name and then guiding Vee toward the exact meaning she wanted made the entire conversation hum with concealed intent. The tenderness is real enough to make the manipulation more potent, and I desperately need to see when—or whether—Vee recognizes the difference.
+GATE 10 — Off Six-Fourteen
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: It’s a short bridge, but it tightens the trap beautifully: Vee’s joy is completely sincere, and the sentence she uses to claim it echoes the jacket’s warning almost word for word. I’m going hiking with her now, obviously, while mentally putting Cassie on speed dial.

@@ -1,17 +1,18 @@
-*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~0149553a3cd5 · 2026-09-07*
+*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha b0e38f522c99 · 2026-09-26*
 
-REACTION — Oh, this got me. The food did it more than the kiss, honestly—the sheer intimacy of being hungry, handing someone the choice, and discovering he has chosen abundantly and well. Vee eating without monitoring herself made me ache. She isn’t only hungry because she skipped lunch; she is starving for the relief of not having to manage every second of her own existence. Pace recognizes that with frightening precision.
+REACTION — Oh, Cassie. Thank God for Cassie.
 
-And yes, frightening. “She was already learning she could trust where he was taking her” set every alarm off because I know this meeting was arranged. He has information she doesn’t; he knows she was selected, and she experiences his careful orchestration as miraculous compatibility. The right-hand detail especially made me wonder how much of this meal is cultural courtesy and how much is another deliberately built scene. Her drifting so far into his voice that the restaurant disappears sounds lovely, but it also brushes against dissociation, and the book absolutely knows that. “She let him carry it” is romantic and perilous in exactly equal measure.
+This made me ache in a completely different place than the previous chapters. Vee’s body has already been made into a public object before Pace and Randi ever begin their project: the boys feel entitled to comment on it, her mother lives inside her head policing it, and Vee has learned to perform being untouched by all of that. Then she gets underwater and, for a minute, her body belongs only to her. “She had loved this before she had a body to be a problem” absolutely gutted me. So did the tiny grief when she stays down there. The book knows exactly what is being endangered by this seduction: not some abstract innocence, but the few places where Vee can exist without being watched, graded, wanted, or managed.
 
-The kiss works for me because he accepts her no immediately. No bargaining, no wounded performance, no strategic pause. She has to stop him and reopen the door herself. That is genuinely her choice in the moment—and the awful delicious problem is that the whole road bringing her to that moment has been engineered. I’m not being asked to confuse those two truths. I’m being asked to feel both, and I do.
+And Cassie’s care is so clean. She sees Vee’s face come back wrong and doesn’t interrogate her, doesn’t demand disclosure, doesn’t turn concern into another claim on her. She shoots a deliberately inadequate splash at her and gives her a way home to herself. That ridiculous water fight felt more intimate to me than a lot of sex scenes do. Cassie keeps offering Vee exits without announcing that they’re exits, and I am now terribly afraid that Vee will mistake that lack of pressure for a lack of love while Randi’s exquisitely engineered attention feels like being chosen.
 
-Also: Cassie saying “That’s not a boy. That’s a man” made me wince because Pace’s apparent maturity is part of what makes him so effective, and Cassie doesn’t have the information I have. I trust Cassie’s instincts about ordinary men; I do not trust anyone inside this story to see the larger mechanism yet.
+This is exactly the quiet chapter I needed. The book’s awareness is fully on. It isn’t confusing Vee’s hunger to be seen with permission for other people to construct her life behind her back, and it isn’t pretending that Pace’s attentiveness and Randi’s warmth make their manipulation harmless. Worse—in the good, compelling sense—it’s showing me why their attention will be almost impossible for her to resist. They are going to offer language and heat to needs she can barely admit, while Cassie offers ordinary, unglamorous safety. I know which one is going to feel like destiny.
 
-And then Vee says she’s making an exception. Of course she is. That is the sexiest possible ending and also the thesis tightening around her: he respects the boundary so perfectly that she experiences crossing it as entirely her own idea. I would absolutely text a friend at 1 a.m.: “He took her somewhere warm, fed her until she forgot to police herself, accepted her no, and now I’m both swooning and staring directly at the trap.”
+Also: that earlier “Goodbye, Vee” is ringing in my head now. Cassie sees more than Vee thinks she does. I want to protect this friendship, and I have a sick feeling the plan is going to separate Vee from the one person who looks at her without trying to turn the looking into leverage.
 
-GATE 8 — May I Choose  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “she was already learning she could trust where he was taking her.”  
-WHY: That trust is being earned through real attentiveness while also being cultivated inside a secret plan, and the book plainly understands how dangerous that combination is. I’m deeply captured—and deeply unwilling to relax.
+GATE 8 — Water Wings
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: This chapter proved the book understands both Vee’s vulnerability and the difference between seeing someone and using what you see. Cassie’s quiet, noninvasive love has me fiercely attached now—and deeply worried about what Randi and Pace’s plan will cost Vee outside the bedroom.

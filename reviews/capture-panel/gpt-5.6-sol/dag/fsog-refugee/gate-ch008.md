@@ -1,15 +1,18 @@
-*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~0149553a3cd5 · 2026-09-07*
+*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b0e38f522c99 · 2026-09-26*
 
-REACTION — Oh, this is exactly the thing I’m always looking for. “May I choose?” should not be that hot, and yet it absolutely is—because he isn’t taking the choice away from her. He asks, she gets to hand it over, and then he treats what she’s entrusted to him with care. That distinction matters so much to me. He doesn’t just order whatever he likes; he checks what she won’t eat and pays attention to how the choices fit together. It makes his control feel like shelter instead of pressure.
+REACTION
 
-And Vee eating without watching herself eat nearly undid me. The way her hunger is obviously older and larger than one missed lunch, and he feeds her without staring at her appetite or congratulating himself for permitting it—God. He gives her somewhere she can stop performing. That’s more intimate to me than half the sex scenes I’ve read. Even when she loses the thread of the conversation, nothing is demanded of her. She can simply sit there, full and warm, while he carries the evening. I felt my own shoulders come down.
+Oh, Cassie. I love her. She sees exactly when Vee is hurting and doesn’t make her explain it, doesn’t drag the hurt into the light so she can congratulate herself for helping. She just gets her with the water. That is such real tenderness—giving Vee a way back into herself without demanding access to whatever happened underwater.
 
-I did notice that he takes her hand without asking. Normally that wording would put my guard up, especially with a book promising me consent so loudly. But then the kiss happens, and he proves the hand wasn’t a claim on her: she says she doesn’t kiss men this soon, and he immediately accepts it. No bargaining, no teasing her rule apart, no treating her no as the opening move in negotiations. He is already walking on when she stops him. That is the fantasy for me—not that she secretly wants him despite saying no, but that his respect leaves her free enough to discover what she wants next and act on it herself.
+And Vee thinking, “She had loved this before she had a body to be a problem” hurt me horribly. The boys in the bleachers made me furious, but it’s bigger than them: she can’t simply inhabit her body anymore without anticipating what everyone else will make of it. Underwater is the one place she belongs wholly to herself. I felt the relief of that silence, and then the grief underneath it.
 
-And that final “But”? Yes. Yes, that got me. She isn’t worn down. She has to physically call him back after he has genuinely let the moment go. The exception belongs completely to her. I would absolutely text a friend at one in the morning: *He accepted her no so completely that she finally felt safe changing her mind.*
+The ugly shriek-laugh got me. I want so much more of that Vee—the one who forgets to arrange herself, who is physical and joyful and ridiculous because she feels safe. It also makes me more protective of her now that I know Randi and Pace chose her and are quietly building a path around her. Pace’s attention has felt genuinely tender, and Randi’s desire is real, but Cassie is the only person here whose care has no hidden destination. That distinction is starting to feel enormous.
 
-GATE 8 — May I Choose  
-DECISION: CONTINUE  
-CAPTURE: 10  
-ALMOST-STOPPED: none  
-WHY: This gave me tenderness, control, appetite, and an unmistakably real choice all in the same chapter. Pace makes room for Vee’s no, and that room is exactly where her desire finally gets to become hers.
+I’m also uneasy about “back before any of it.” It feels like the book just showed me the intact place in Vee that this whole seductive plan may reach. I’m still desperately curious—especially because I want the heat and I believe Pace can give her something she truly wants—but now I need the book to understand what could be lost, too.
+
+GATE 8 — Water Wings
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: This was quiet but it went straight through me. Cassie’s unintrusive care made me love her, and seeing Vee briefly become free inside her own body makes me urgently want to know whether Pace and Randi will help her keep that freedom—or turn it into something that belongs to them.

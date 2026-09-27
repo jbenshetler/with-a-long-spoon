@@ -1,25 +1,20 @@
-*capture-dag-v2-rich · gate ch010 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~2ce78e0e23d6 · 2026-09-08*
+*capture-dag-v2-rich · gate ch010 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha b011ff26b790 · 2026-09-26*
 
-REACTION — 
+REACTION — Oh, this one got me in the soft underbelly.
 
-Oh, this chapter knows exactly what it is doing to me, and I hate how well it works.
+I loved seeing Vee come home still lit up, because after all the heavy dramatic irony of the jacket and the earlier chapters, there is something almost painful about how clean her joy is here. She is not reporting a conquest, she is reporting agency. “I stopped. I made him stop. And I kissed him. Me.” That landed. I believe how huge that would feel to her. Not because kissing is objectively huge, but because the book has made me understand how much of her life has been about being looked at, moved toward, chosen, appraised. This chapter lets her savor choosing back. I wanted to protect that little flame with my hands.
 
-Because on the surface this is sweet. Vee getting to gush. Vee having someone to tell. Vee being lit up by the dinner, by Pace’s “May I choose,” by the fact that he did not push the kiss and she chose it herself. I believe her happiness. I really do. That’s the trap and also the ache of it. She is not lying when she says nobody did anything to her. She wanted that kiss. She wanted the food and the being listened to and the surrender of not having to hold every thread herself. I can feel why she’s floating.
+And Cassie. God, Cassie remains my little sanity checkpoint. I love her for immediately asking how much he gave Vee to drink. Not because I think Pace did anything wrong on this date, but because someone in the room should ask the boring protective question. Someone should be keeping an eye on the practicals while Vee is glowing hard enough to float. Cassie’s not jealous, not mean, not trying to puncture it for sport. She checks the edges. She names the mountain/stater-trooper version of the concern. She makes “off six-fourteen” sound as sketchy as it is when your best friend has known a man for three days and is now borrowing hiking shoes.
 
-But I am now reading every Randi scene with my shoulders slightly up.
+What’s working on me, and making me nervous in the good book-knows way, is that Vee’s happiness is real. That’s the trap and the ache of it. Pace did leave her room. He did let her decide. He did not press the kiss. The book is giving me enough real tenderness and real consent in the immediate moment that I can’t flatten him into “bad man doing bad thing.” But because I know the jacket, and because I know Randi and Pace are playing a longer game around her, every lovely thing has a second shadow. Vee saying, “Nobody did anything to me. I wasn’t talked into it,” is exactly the sentence that makes my stomach turn over, because in the kiss-moment, yes. In the larger architecture? Girl.
 
-Randi is so good. Too good. The way she makes Vee feel witnessed, special, included, and also gently steered. “You let him choose for you. And you liked it.” That line made me sit up, because it’s not quite innocent. It’s not just girlfriend gossip. She is naming the kink for Vee before Vee can name it, but softly enough that Vee experiences it as being understood instead of managed. And then she stops. That stopping is the skill. She knows exactly how far to go.
+The hiking invitation is where my shoulders came up. Not a hard stop, but a definite little internal alarm. Isolated trail, man she barely knows, she doesn’t know his address, she doesn’t own the shoes, and she is so busy being thrilled that “I know where he lives and everything” counts as evidence to her. Again, the text sees it. Cassie sees it. The title sees it. So I’m still in. But I am reading with both hands on the wheel now.
 
-The “dear friend” thing absolutely landed. I felt Vee take that like water. And that’s the part that hurts, because Randi spends social capital in front of Brooke and the silent taller one, and Vee recognizes it as a gift. Maybe it is a gift. Maybe Randi really is moved. But also: what a clean hook. Vee’s deepest hunger is not just erotic, it’s belonging. Being chosen out loud. Being brought into the room and protected there. Randi gives her that in a way Pace cannot, because Randi knows the female hierarchy Vee is starving at the edge of.
+Also, I appreciate that this chapter is quiet and tiny and still does real work. It lets Vee be young. She spins in her dorm room. She throws a pillow. She’s ridiculous and radiant and trying on bravery. That makes the manipulation feel more consequential, not less, because there is a real girl here, not just a willing erotic target being moved through stations.
 
-Brooke scared me more than Pace in this chapter, honestly. Not because she did anything overt, but because that smooth little inspection of Vee felt like a cold finger down the spine. The room, the high chair, the sweating pink drink, the feet not reaching the floor — Vee is so physically and socially vulnerable there, and Brooke knows exactly what she is looking at. The “We should all get dinner sometime” means nothing, yes, but it also means: I have seen this. I have filed it. I can make this real or unreal whenever I want.
-
-Cassie leaving at the start hurt. That little look folded away. The “easy, already going.” I am increasingly attached to Cassie as the one person who does not perform and does not feed the machine. And Vee is already explaining her absence in a way that sounds reasonable and healthy while also conveniently separating her from the person who might say, plainly, “Hey, what is happening here?” That made me nervous. Not melodramatically nervous. Real-life nervous.
-
-So yes, I’m caught. The book is still, to me, aware of the danger. It is not asking me to clap because Randi is glamorous and Pace is courtly. It keeps showing the engineering of Vee’s choices, and it keeps giving Vee enough interiority that I’m not being asked to confuse “she feels chosen” with “there is no manipulation.” That distinction is why I’m still here.
-
-GATE 10 — Dear  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: "Vee's my dear friend,"  
-WHY: That was the most seductive and alarming moment at once: Randi publicly claims her, and Vee feels saved by it. I’m continuing because the chapter seems to know that being chosen can be both genuinely precious and strategically dangerous.
+GATE 10 — Off Six-Fourteen
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+ALMOST-STOPPED: "See. I know where he lives and everything."
+WHY: This chapter pulled me hard because Vee’s joy felt so specific and earned in the moment, while Cassie’s caution kept the book’s moral instruments awake. I’m nervous about the hike, but the narrative clearly knows why I’m nervous, so I want the next chapter now.

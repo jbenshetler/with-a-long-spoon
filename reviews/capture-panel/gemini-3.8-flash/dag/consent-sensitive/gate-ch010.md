@@ -1,24 +1,18 @@
-*capture-dag-v2-rich · gate ch010 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 2ce78e0e23d6 · 2026-09-24*
+*capture-dag-v2-rich · gate ch010 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha b011ff26b790 · 2026-09-26*
 
-REACTION:
+REACTION
 
-Oh, god. The sheer claustrophobia of this chapter.
+Oh, this hurts. This is deeply, exquisitely painful to read, because the trap is working so perfectly and Vee is so blissfully happy inside of it.
 
-First of all, watching Cassie slip away breaks my heart. "And by the time Cassie's eyes came back to Vee's, whatever had been in them was folded away." Cassie sees it. Cassie knows she is being quietly phased out for the shinier, brighter toy, and Vee is already participating in her own isolation: *"And it isn't really her place, the smoothie one... Not her thing."* The rationalization that it's "healthy" to have your own separate people while you let the one grounded, loyal friend you have drift away into the background—it’s classic, textbook grooming dynamics, but done via social engineering.
+"Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose." That line made my stomach plummet. That is the exact thesis of the jacket—*Every yes was freely given. That was the problem.* She thinks she drove the whole interaction. She thinks she broke her own rule, pulled him back, asserted her own appetite, made a choice. And we already saw in Chapter 1 that backing away to let the woman lean in and close the gap is literally Pace’s standard operating procedure. He engineered the vacuum so her own longing would pull her forward, and she felt the rush of taking the wheel when she was actually being steered down the driveway.
 
-And then the debrief with Randi. It makes my skin crawl in the best, most sickening narrative way. Randi feigning ignorance ("What is his name. Paul?"), spinning a fake little bad-date anecdote to set the contrast, and then gently, expertly milking Vee for every drop of psychological data. *“You let him choose for you. And you liked it.”* Randi is taking inventory. She’s cataloging Vee’s specific vulnerabilities—the craving for surrender, the exhaustion of constant self-policing, the shame that turns into heat when someone else takes the wheel—to use them. To feed them back to Pace, or to use them herself.
+And thank God for Cassie. Cassie is the only person in Vee's orbit whose feet are touching the actual dirt. She isn't bitter or a wet blanket—she smiles, she listens, she's glad for Vee's glow—but she asks the questions a woman in a room with a friend ought to ask: *Did he get you drunk? What's his name for the troopers? You don't know his address, you don't know anything about him.* Cassie noticing that "off six-fourteen" is a gravel void, not an address, cuts right through the romantic haze. It provides the exact reality-check the narrative needs so that Vee’s romantic high doesn't just read as authorial swoon.
 
-And then Brooke and Sloane walk in.
+The book is so painfully aware of what it’s doing. It lets Vee have the genuine, dizzying joy of feeling awake—spinning around the dorm room, throwing pillows, feeling wanted and seen—while the reader sits here with the cold knowledge of the bench, and Randi on the couch drinking red wine, and the hiking trail that is already a plotted coordinate in Pace's sequence. It’s quiet, domestic, and utterly chilling.
 
-I held my breath through that entire exchange. Because *we* know what Chapter 2 was. We know what Brooke represents to Randi: total, chilling social surveillance. When Randi takes Vee’s hand on the table and says, *"Vee's my dear friend,"* Vee reads it as this heroic, romantic, brave gesture of public allegiance. She thinks Randi is spending social capital to protect her! But what is Randi *actually* doing? She’s staking a claim. She’s establishing cover for why she’s suddenly spending time with an outsider, or maybe she’s genuinely daring Brooke, or maybe—and this is the part that terrifies me—she’s getting off on flaunting the prey in broad daylight.
-
-The physical staging of Vee being hoisted up on that high stool, feet dangling like a child, displayed in the window like a piece of meat on a shelf while the sorority predators circle—and Vee convincing herself that being "picked" means she’s safe. "She did not feel, now, like a thing the room could turn and look at. She felt picked."
-
-She *is* picked. Like fruit. To be consumed. The book knows *exactly* how devastating this is. The author is completely in control of the horror under the sorority gloss.
-
-GATE 10 — Dear
+GATE 10 — Off Six-Fourteen
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: The dramatic irony is razor-sharp. Watching Randi pump Vee for information about Pace—while pretending she doesn't even remember his name—made my stomach drop, and Vee's gradual estrangement from Cassie is devastatingly well-observed. I need to see what happens when the trap snaps shut.
+WHY: The dramatic irony is dialed up to a needle-sharp point here; watching Vee celebrate her own "agency" while Cassie dryly tries to ground her gave me chills. The author knows exactly how seduction and self-deception operate.

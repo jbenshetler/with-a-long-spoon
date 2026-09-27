@@ -1,5 +1,42 @@
 # Triage — Off Six-Fourteen
 
+## Panel re-read after the {{May I Choose}} kiss went on the page, 2026-09-26
+
+Source: fresh grounded cold reads from all seven panel models and 21 capture
+gates (7 models × 3 personas), the chapter now at reader position 10 behind
+{{Tannin}} and the rendered kiss. Cold: Heat 1 (glm 0), Romance 2, all seven —
+the September baseline. Capture: 21/21 CONTINUE, CAPTURE 5–8, NEXT 7–9; against
+the same lanes' September read of this chapter, 12 scores identical, 2 up one,
+3 down one. The on-page kiss did not move the retelling.
+
+### Fixed
+
+- **"Off six-fourteen" ×4 in seven lines** (fable-5-1 romance-graduate
+  ALMOST-STOPPED: "repeated itself once past where it was funny"; echo harvest's
+  only candidate). Author ruling: thin to two. Vee's flat echo and the italic
+  third cut; Cassie's repeat and verdict fused — *"Off six-fourteen," Cassie
+  repeated. "That's the whole address."* Echo harvest now clear.
+
+### Left standing — do not re-litigate
+
+- **Borrowed shoes as a repeat** (claude-opus-5 cold: "the second borrowed-shoes
+  exchange in three chapters"). Author ruling: designed. Vee borrows shoes
+  throughout all three volumes — a motif of her trying on other roles, and
+  what real college girls did. Not a repetition to thin, here or elsewhere.
+- **The quiet run** (five lanes across four models: third Vee chapter after
+  {{Tannin}}, "I want Randi back"). Author: the next chapter in the chronology
+  is the Randi smoothies chapter, not yet drafted, so the reader sequence
+  currently skips it. Placement appetite, answered by the plan; nothing to
+  change in this chapter.
+
+### Open — flagged, no ruling yet
+
+- **Irony density** (claude-opus-4-8: every reassurance doubles as trap
+  evidence, "a hair less would have trusted me more"; deepseek: the dossier
+  count-off "a touch on-the-nose," the closing window image "almost too neat").
+  Two models. Note the dossier line and the window frame are reader-protected
+  spans below.
+
 ## Line-edit pass, 2026-08-05
 
 Source: `audits/line-edit/off-six-fourteen.md` (5 findings), reviewed item-by-item

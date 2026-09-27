@@ -1,19 +1,18 @@
-*capture-dag-v2-rich · gate ch010 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~2ce78e0e23d6 · 2026-09-08*
+*capture-dag-v2-rich · gate ch010 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b011ff26b790 · 2026-09-26*
 
-REACTION —
+REACTION — I am smiling like an idiot, honestly. This chapter is tiny compared to the others, but it gives me exactly the afterglow I wanted after that first kiss. Not sex, not even really escalation, but that fizzing, can’t-keep-it-in, “I came home and must tell my best friend every single molecule of it” feeling. It felt so young in the best way, not immature, but that specific first-date giddiness where your body cannot contain the news.
 
-Oh, this chapter was sneaky. It looked like a little smoothie-date gossip chapter and then it slid a blade under the ribs. I felt Vee getting lit up by being allowed to tell the story, and honestly I was right there with her. The “May I choose?” still works on me. It works because it isn’t a fake alpha move. It’s not “I know better than you, baby,” it’s him making room for her relief, and her realizing she wants to hand something over. That is exactly the kind of charge I’m here for: not just dominance pasted on top, but the psychological hinge of why it makes her body and heart open.
+And Cassie. God, I love Cassie. I love that she immediately asks the protective, suspicious question without making Vee feel dirty for wanting him. “How much did he give you to drink?” could have curdled, but it doesn’t, because it’s Cassie being Cassie: blunt, loyal, already mentally filing the police report if needed. And Vee’s answer matters so much: “Nobody did anything to me.” That line rang. In this book, with this setup, that’s not casual. That’s practically the whole moral pressure point humming under the floorboards.
 
-Randi in this one is so dangerous because she is giving Vee something real. That’s what makes me nervous. If she were just manipulating her, I could keep my guard up. But she listens beautifully. She names the thing Vee can barely admit: “Because you couldn’t not. Because of him.” That is intimate. That is skilled. And then the “dear friend” moment genuinely got me. I know the jacket has already told me there’s a plan, so I’m reading with dread, but Vee doesn’t know, and I hated how much I wanted to let her have that feeling. To be chosen out loud by the girl whose world she wants entrance to? Devastating.
+The chapter also made me ache a little because Vee is so lit up by having chosen. She is not just excited that Pace kissed her. She is excited that she stopped him, that she pulled him back, that she did something on purpose because she wanted to. That is delicious and sad at the same time, because I know from the jacket and from the earlier chapters that this choosing is going to be complicated by the fact that there is already a game around her she doesn’t know about. So I’m happy for her, but I’m also watching the little shadow move behind the happiness.
 
-The smoothie place was so good at making me feel Vee’s social body come online. The high chair, the pink drink, the cardigan feeling like an apology, the room full of girls who know the rules without saying them. I’m thirty-something and still felt that old nauseous “am I wrong in this room?” thing. And then Brooke and the silent taller one walking up, smiling warmly while somehow making Vee smaller. God. That was worse than open cruelty because Vee can’t object to it. There’s nothing to point to. It’s all manners and warmth and tiny rank signals.
+The hiking invitation worked on me more than it should have. “Real shoes” is such a small intimate practical thing. It makes him feel solid. It makes the date feel like a world opening, not just romance logistics. And “off six-fourteen” is funny and a little ominous. Cassie hearing it as not enough information is exactly right, and Vee hearing it as proof she knows plenty is also exactly right. I’m in that awful reader position of wanting to crawl into the room and say, baby, please send Cassie the actual address, while also fully understanding why Vee is glowing too hard to be cautious.
 
-I’m also watching Cassie now with my whole chest. The way she leaves, the look folded away, the fact that Vee keeps explaining why Cassie isn’t part of this new bright world. Cassie is the one person whose goodbye feels like it knows something. She’s not glamorous, she’s not “lit,” she’s not seductive, but she sees clearly. And Vee is drifting away from her toward Randi, toward Pace, toward this whole arranged hunger. I’m anxious.
+This is a bridge chapter, but it does its job. It lets the kiss land inside Vee’s life. It gives Cassie her place. It lets me feel how warm Vee is before the book moves her farther into Pace and Randi’s orbit. I’m not clawing the walls, but my thumb would absolutely move.
 
-Still, I’m absolutely continuing. The heat hasn’t even had to be explicit in these last chapters because the charge is everywhere: in choosing food, in telling the story, in Randi’s hand on Vee’s hand, in the word dear. This is feeding the exact part of me that got bored with romances where everyone says the trope out loud and then has mechanically competent sex. This has teeth.
-
-GATE 10 — Dear  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: This pulled me hard because the seduction widened from Pace to Randi in a way that feels emotionally erotic before anyone takes a stitch off. I’m scared for Vee, but I want the next door opened.
+GATE 10 — Off Six-Fourteen
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: Quiet chapter, but it gave me emotional charge instead of filler. Vee’s delight in her own agency pulled me in hard, and Cassie’s protective deadpan makes the danger feel grounded rather than melodramatic. I want the hike now, partly because it sounds romantic and partly because I am deeply suspicious of every soft, perfect opening door in this book.

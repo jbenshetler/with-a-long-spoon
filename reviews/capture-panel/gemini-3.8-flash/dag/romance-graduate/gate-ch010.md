@@ -1,21 +1,18 @@
-*capture-dag-v2-rich · gate ch010 · gemini-3.8-flash · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch010 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b011ff26b790 · 2026-09-26*
 
-REACTION:
+REACTION
 
-Oh, this is devilish. Genuinely wicked. The dramatic irony is humming so loud it makes my teeth itch. 
+God, this is physically hurting me to read in the best possible way.
 
-Vee is sitting on that high stool feeling so *seen* and so *defended* by Randi taking her hand in front of Brooke and calling her "my dear friend." And because I read Chapter 2, I know *exactly* who Brooke is and what that sorority dynamic actually costs Randi. But more than that, I know Randi isn't just defending her new little friend from the campus mean girl—Randi is actively grooming her, curating her, claiming her for the game she and Pace cooked up on the quad. 
+"Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose." *Every yes was freely given. That was the problem.* The jacket copy is just tolling like a bell behind every single line of this chapter and my stomach is in absolute knots. She’s spinning around the dorm room like a girl in a rom-com, throwing pillows at Cassie, completely high on the feeling of having agency, having *chosen* him, having broken her own silly rule because *she* wanted to—and we’re sitting here holding the knowledge of the bench, the pointing game, the fact that Randi and Pace literally walked the quad picking her out like a prize heifer.
 
-And the psychological maneuvering Randi pulls here! Setting up her fake "disaster" date so Vee feels safe and prompted to pour out every intimate detail of her night with Pace? Brilliantly executed. Vee handing over the fact that she loved letting Pace choose for her, that she kissed him after two days, that she stopped keeping track of herself... she is giving Randi the entire emotional roadmap, completely unaware that Randi is going to take that data straight back to the man who built the spanking bench.
+Cassie is the only one with two eyes in her head, and even Cassie’s dry, skeptical grounding ("That's the whole address. *Off six-fourteen*.") is completely powerless against the absolute tidal wave of Vee's longing to be chosen, to be special, to be swept up into something that feels grown-up. The sheer psychological terror of watching someone experience the genuine, unforced euphoria of falling in love, knowing the foundation was poured in concrete before she even dropped her pencil in that coffee shop... it's masterclass seduction writing.
 
-What really gets me, though—what makes this so deliciously uncomfortable—is the physical charge between Vee and Randi. The way Vee watches Randi, the way Randi's cool, damp hand over hers hits Vee with "a warmth that came with weight on it." Vee doesn't even realize how badly she's drawn to this woman. She thinks she's just a girl in awe of the cool, glamorous sorority queen, but the bodily awareness, the craving for approval, the way she leans into the hug—it’s pure latent heat. 
+And now he's taking her hiking. "Real shoes." The bench was hidden under a table; what's out off six-fourteen? I am stressed, I am completely hooked, and I need to see the next move immediately.
 
-Meanwhile, poor Cassie is just quietly stepping off the tracks because she sees the train coming, even if she doesn't know what kind of train it is. The contrast between Cassie's grounded, quiet friendship and Randi's intoxicating, high-wattage seduction is stark. Vee is being utterly dismantled from both sides by Pace and Randi, and she is walking into it with an empty pink cup and a full heart. I'm hooked. I need the trap to start snapping shut.
-
-** · prose-sha ~2ce78e0e23d6*
-
-GATE 10 — Dear
+GATE 10 — Off Six-Fourteen
 DECISION: CONTINUE
 CAPTURE: 8
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: The psychological architecture here is razor-sharp. Watching Vee willingly hand Randi all the ammunition Pace is going to use on her, while entirely missing the homoerotic undertow of her own obsession with Randi, is delicious agony.
+WHY: The dramatic irony is dialed up to a suffocating level; Vee’s innocent joy is heartbreaking when set against what we know, and the hiking invitation sets up the exact escalation I'm dying to see.

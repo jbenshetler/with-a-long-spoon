@@ -1,15 +1,16 @@
-*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~0149553a3cd5 · 2026-09-07*
+*capture-dag-v2-rich · gate ch008 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b0e38f522c99 · 2026-09-26*
 
-REACTION — Oh, this got me. Not because anything conventionally “spicy” happened yet, but because the entire dinner is erotic. He asks, “May I choose?” and then takes her hunger seriously. He feeds her without monitoring her, listens without extracting anything, lets silence exist, and gives her back every choice without making her manage his feelings about it. That is hotter to me now than another growling billionaire pinning somebody to a wall could ever be.
+REACTION — Oh, Cassie. This made me love her, and it also made me afraid for Vee in a completely different way. Randi makes Vee feel chosen; Pace makes her feel seen; Cassie is the person who already knows her. She sees Vee come up with her face wrong and doesn’t interrogate her, flatter her, or turn it into a meaningful conversation. She just shoots water at her until Vee is back inside her own life. That is intimacy. Honestly, that may be the most emotionally intelligent thing anyone has done in this book so far.
 
-And Vee’s hunger is doing so much here. She hasn’t eaten since breakfast, but obviously it isn’t only food she’s starving for. Watching her stop policing herself at the table—stop tracking the conversation, stop performing attentiveness, stop waiting for the evening’s hidden cost—made me ache for her. The line about always being braced for the bill to come due hit especially hard. She is twenty-one and already so exhausted by being correctly desirable. Pace letting her rest is both tender and dangerous, because I know this is arranged, and she doesn’t. I’m falling for the seduction while watching the trap close, exactly as promised.
+The line about loving the water before she had “a body to be a problem” got me. Not because it’s pretty—because I know exactly what it means to remember inhabiting your body before you learned to watch it from outside. And then the boys immediately making her body public property, while Cassie keeps her joke private, just for Vee? Yes. I noticed that distinction all the way down.
 
-The hand-holding nearly undid me. That feeling of something not beginning but resolving could have been cheap soulmate language in another book; here it feels frightening because I understand how precisely he is meeting needs she barely knows she has. And then her rule. He accepts it immediately—actually accepts it, doesn’t perform acceptance as another seduction tactic—and that gives her enough room to discover what she wants and act on it herself. “I’m making an exception” is hotter than the kiss we don’t even get to see.
+There’s no heat here, but I didn’t miss it. We just came off Randi straddling Pace and getting turned on by hearing about Vee; the book has plenty of charge in the bloodstream. This chapter gave Vee a whole private country that neither of them created, and gave her someone whose love doesn’t depend on seducing, improving, or decoding her. Which means I am now extremely worried that the plan is going to cost her Cassie. That strange “Goodbye, Vee” is still sitting there like a tiny prophecy, and now it hurts more.
 
-Also: I have not forgotten Randi. That makes every lovely moment hum with unease. Pace seems emotionally intelligent enough to deserve Vee and observant enough to dismantle her, while also participating in a plan she never consented to know about. I want him; I distrust him; I desperately want to see the kiss. Fine. I’m completely in.
+My 1 a.m. text would be: “Cassie is the only person here who loves Vee without wanting to make her into anything, so obviously I’m terrified.”
 
-GATE 8 — May I Choose  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: This is exactly the depth-and-heat combination I’ve been looking for: appetite made psychological, consent made genuinely charged, and tenderness carrying a threat I can already feel. You cannot stop on “I’m making an exception” unless you have considerably more self-control than I do.
+GATE 8 — Water Wings
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: This was quiet, but it moved something essential: I understand what Vee already has to lose. I need to know whether Cassie sees the trap forming—and whether Vee will mistake being intensely wanted for being more truly loved.

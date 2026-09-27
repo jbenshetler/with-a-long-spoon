@@ -48,11 +48,7 @@ Vee threw a pillow at her, which Cassie took on the shoulder without unfolding.
 
 "His name is Pace, he is *lovely*, and I am not going to go missing." But she was already answering it, already happy to, because being able to answer it was its own small proof of something — that she had this, that there was a *this* to have. "He lives out west of town, off six-fourteen, past where it goes to gravel. There's a trail he goes to out there. He'll have water, he's not going to walk me off a cliff." She counted it off like a dossier, like plenty. "See. I know where he lives and everything."
 
-"Off six-fourteen," Cassie repeated.
-
-"Off six-fourteen."
-
-"That's the whole address. *Off six-fourteen*."
+"Off six-fourteen," Cassie repeated. "That's the whole address."
 
 "It's a *road*, Cassie, it's not — you go out past where the —" Vee gestured at the wall in the approximate direction of west, and gave it up, laughing.
 

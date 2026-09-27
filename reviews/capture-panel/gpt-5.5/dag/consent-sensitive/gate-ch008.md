@@ -1,19 +1,18 @@
-*capture-dag-v2-rich · gate ch008 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~0149553a3cd5 · 2026-09-08*
+*capture-dag-v2-rich · gate ch008 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha b0e38f522c99 · 2026-09-26*
 
-REACTION —
+REACTION — Oh, this one got me in the ribs.
 
-Oh, this one got me. This is exactly the kind of chapter where my alarm system stays on, but instead of blaring it sort of… leans forward.
+After all the heat and strategy and watching-people-watch-each-other, I needed this so badly: Vee in a place that predates all of it. The pool felt like one of the first truly uncontaminated spaces she’s had. Not innocent exactly, because the body is still there and the boys in the bleachers are still gross in that casual ambient way, but the water itself is hers. That line about loving it before she had a body to be a problem, and the water being the one part that had never been taken? Yeah. That landed.
 
-Because yes, Pace is choosing so much here. He chooses the timing, the place, the food, the walking route, the tempo. And Vee is so hungry for someone competent to take a choice off her hands that I can feel how dangerous that could become. “May I choose?” is hot because he asks, and because she wants to hand it over. It is also the whole book’s live wire. I’m not relaxed about it.
+And Cassie. God, Cassie. I am getting very protective of her role in this book. She sees so much and refuses to make a production out of seeing it. She doesn’t interrogate Vee, doesn’t turn the moment into A Talk, doesn’t try to possess the vulnerability by naming it. She just sends water at her like, *come back here, idiot, I love you.* That is such a specific kind of friendship, and it made me ache because Vee is about to be pulled into this whole velvet machine of Randi and Pace and appetite and being chosen, and Cassie is standing there like an ordinary human handrail. Blunt, funny, ungilded, real.
 
-But I don’t feel like the chapter is naive. Vee’s relief is being watched very closely. The book knows that “I’ll choose for you” can be care or control or both. It lets me sit inside the pleasure of not having to manage herself for once, while also making me aware that this is a woman whose appetite has been trained out of her. The food scenes did more to me than the sexual scenes so far, honestly. Her eating without monitoring herself, following his hands, discovering hunger as something larger than lunch — that was intimate in a way that made my chest hurt.
+The boys’ comments didn’t make me want to stop because the chapter knows exactly what they are. They’re not eroticized; they’re noise. Annoying weather. And Vee’s performance in response — chin up, entrance-walk, eyeroll — tells me so much about how practiced she is at turning being looked at into something she can survive. Then underwater, when the room switches off, she’s suddenly not performing for anyone. That contrast did more for me than a louder scene would have.
 
-And Cassie. God, Cassie. “That’s not a boy. That’s a man.” She keeps being the little plainspoken witness on the edge, and I trust her more than anyone. I’m scared for Vee partly because Cassie sees enough to pause, but not enough to stop this. And how could she? From the outside this looks like a considerate older/older-feeling man taking her to dinner and not pushing for a kiss. That’s the trap and the seduction both.
+This chapter also sharpens my dread. Because now I’ve seen Vee with Cassie, and Vee with the water, and Vee with some older, unselfconscious self still reachable. So when Randi and Pace start arranging entrances and invitations and “choices,” I’m not only thinking about consent in the abstract. I’m thinking: what happens to *this* Vee? The one who can shriek-laugh ugly in a pool because her friend splashed her. The book is giving her enough interior life that I trust it more, but also fear the seduction more. Which is exactly the dangerous little wire I want this book walking.
 
-The ending absolutely worked on me. He accepts the boundary. He starts walking. And that makes her want to choose the exception. That is hot. It is also engineered by his restraint, and I think the book knows that, which is why I’m still here instead of slamming the cover shut.
-
-GATE 8 — May I Choose  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: “she was already learning she could trust where he was taking her.”  
-WHY: That line made my whole consent-and-power brain sit straight up, because trusting the destination this early is exactly how someone gets led. But the chapter is too aware of Vee’s hunger, her relief, and the erotic charge of surrendered choice for me to think the author is asleep at the wheel. I’m worried, invested, and very much turning the page.
+GATE 8 — Water Wings
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+ALMOST-STOPPED: "You won't need floaties with *those*!"
+WHY: I tensed at the bleacher harassment, but the chapter framed it as gross background noise and then gave Vee something deeper and freer than being looked at. Cassie’s quiet loyalty is doing a lot of moral work for me right now, and Vee’s underwater self made me want, badly, to see what survives the invitation.
