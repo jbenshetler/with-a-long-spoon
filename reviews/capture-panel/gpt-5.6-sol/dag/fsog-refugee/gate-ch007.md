@@ -1,14 +1,14 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b0e38f522c99 · 2026-09-14*
+*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 1a457484e0b1 · 2026-09-26*
 
-REACTION — Oh, Cassie. I love her. She sees Vee’s face go wrong and doesn’t demand an explanation or make Vee perform her hurt—she just splashes her. That tiny act of care got me more than a speech would have. “Asking was for people who wanted the sad version to get bigger” is exactly the kind of friendship tenderness I believe.
+REACTION — Oh, this worked on me. Randi arriving already hungry for every detail, climbing straight into his lap and making him tell her about Vee while she puts his hands exactly where she wants them—yes. That is the intensity I came for. She isn’t passively enduring Pace’s control here; she is directing him, teasing him, using what she knows he likes, and plainly getting turned on by Vee’s appetite. That feels deliciously hers even while she is trying to hide the size of it.
 
-And Vee underwater hurt. The idea that she loved swimming before she had “a body to be a problem,” and that the water is the one part nobody has taken from her—I felt that in my chest. I’m furious at how practiced she is at walking past men’s comments as if they cost nothing. Her body is already becoming the battleground of this book: wanted by strangers, disciplined by her mother’s voice, and briefly just *hers* underwater. Then that ugly shriek-laugh with Cassie felt like getting to see the real girl before Pace and Randi begin drawing her out for their own purposes.
+And Pace keeping Vee’s confession to himself mattered enormously to me. “It was hers” may be the most reassuring thing he could have thought. He and Randi are already keeping the much larger, uglier secret from Vee, so I’m watching him very closely for whether he treats her as a person or merely as their shared toy. Here, at least, he protects something Vee gave only to him. That distinction does not erase the setup, but it makes me trust the tenderness between them more.
 
-I do want Pace back now. The froyo chapter left me soft over him, and this one made me understand more sharply what it could mean for Vee to meet a man who looks at her without turning her body into public property. But I’m also watching the trap under all this warmth. Cassie already feels like the person most likely to notice that Vee is being moved somewhere—and possibly the person Vee will stop hearing because Randi makes being chosen feel so intoxicating.
+Randi’s reaction to “She’s easy to listen to” got me. That little flare of jealousy—or fear, or recognition that Pace has encountered something real in Vee without her—made this stop feeling like a naughty threesome fantasy and start feeling emotionally dangerous. Randi wants Vee, Pace is already seeing Vee, and Randi cannot quite bear either fact nakedly. Then she says, “I already do,” finishes the wine, and takes his hand. I would absolutely text someone at one in the morning: she is jealous of the girl she picked for him, turned on by hearing about her, and about to drag him to bed over it. This is going to hurt all three of them, and unfortunately I need to watch.
 
-GATE 7 — Water Wings
+GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: This was quiet, but Vee’s underwater grief and Cassie’s wordless care held me completely. Now I badly want Vee and Pace alone together again—and I’m already afraid of what she may surrender simply because being truly attended to feels so rare.
+WHY: Randi’s hunger for Vee and her flicker of jealousy made the whole arrangement suddenly feel intimate, unstable, and extremely hot. Pace protecting Vee’s private confession kept me with him; now I need to know what Randi does with that hand she’s holding out.

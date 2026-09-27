@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch006 · claude-fable-5-1 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha c7525ec1c0b8 · 2026-09-26*
+
+REACTION
+
+Okay so that's the two-page chapter. That's the thing I've never read before. And I'm sitting here with it going — huh.
+
+Let me back up. Because Chapter 5 ended on the phone facedown on the table and I *let herself want it to light up* was the line that made my thumb move, and then this opens with it lighting up, and I actually felt the stair-drop with her. Good. The book knows where it left me. And the little three-way about the rule — "you wait a day, you don't answer the first one" — is exactly the kind of thing I've read a thousand times done badly, and here it's done in about eight lines and Randi ends it with "You're not unsure," which is the whole book in three words, isn't it. Because she's not unsure and she's not *allowed* to be unsure, Randi's already decided, and Vee doesn't know that the girl telling her to text back is the girl who picked her off a lawn.
+
+That's the part that's making me itchy in a way I like. Every warm thing Randi says to Vee now has a second meaning I can hear and Vee can't. "He wants to see you naked" — Randi, honey, *you* want to see her naked, you asked him if she'd like the bench. And the hand on the coffee cup in Chapter 5, the sip that didn't happen twice — I've got the jacket, I know Randi's watching Pace turn that whole slow attention on someone else and I'm supposed to feel for her too and I *do*, which is annoying, because a week ago she was crying on a bench and locking a bathroom door and now she's brokering. She's doing to Vee what he did to her. The cheerful cruelty of it. Except it isn't cruel, quite. That's the merciless part the jacket promised.
+
+Cassie. I'm keeping an eye on Cassie. "Goodbye, Vee" last chapter, and now "as long as he doesn't make you roll a healer again" — she's the only one in the room who knows Vee's actual history, the one who keeps business majors alive until two a.m. for love. Cassie's the dog that barks at the right person. Nobody's listening to her. I am.
+
+And then the froyo. It's a *nothing* scene and it worked on me. "Tart on the bottom holds up under the heavy ones" — he's talking about her, he's talking about the whole architecture of how he does what he does, and he's also just a man with an opinion about frozen yogurt. She builds a cup too big and *her mother doesn't show up in her head*. That's the line. That's the actual event of the chapter, dressed up as a girl overfilling a cup. Her mother's voice went quiet for the first time and she noticed the silence. I know where that's going and I still felt it.
+
+"Your tart's holding up." I'm not going to pretend I didn't go soft at that. He took her embarrassing true thing and didn't pat it and didn't inflate it, he just — let it stand and pointed at the cup. Grown-up. That's what I keep saying I want and never get.
+
+Here's my actual problem, and I'm going to be honest about it. After Chapter 1 — which was one of the hottest, most *specific* things I've read in a year, a spanking scene where every sentence knew what it was doing and the aftermath was better than the sex — I've now had four chapters of daylight in a row. Two was Randi under the duvet, three had a real sex scene but was mostly the walk, four was coffee, five was calculus, six is frozen yogurt. Each one moved the couple an inch. Each one I'd defend on its own. But I'm counting now, and the book should know I'm counting. And this one's *two pages*. Two pages that read like the first two pages of a chapter that then stops. It's not that nothing happened — the mother going quiet is a lot — it's that I got handed a beautiful sip and then the cup was empty. I don't know yet if that's a technique or if somebody didn't finish writing it. I genuinely can't tell, and I've never had to wonder that before.
+
+What I'd text at 1 a.m.: *the book that opened with a bench is now doing froyo and I'm still reading, help.* Because I am. The prose is real. The wanting is real. Vee has more inside her head than most heroines have in an entire series — the cardigan-over-the-better-shirt thing last chapter was so exact it hurt. But I bought this book on "wickedly explicit" and I've had one explicit chapter, and I know the shape well enough to know we're in the long slow approach and Vee's first night with Pace is coming and it's going to be incredible *if the book gets there before I put it down.*
+
+GATE 6 — The Long Way
+DECISION: CONTINUE
+CAPTURE: 6
+NEXT: 7
+ALMOST-STOPPED: "and then he said, 'Your tart's holding up,' and she looked down and it was, the whole stack of it, still standing." — not because it was bad, because it was the end, and I turned the page and there wasn't any more.
+WHY: The mother going silent in her head over a froyo cup is a real event and I felt it, and Randi's every warm line now has a blade in it I can hear and Vee can't, which is exactly the pleasure I was promised. But this is the fourth quiet chapter running and the shortest thing I've ever read called a chapter, and I'm continuing on credit from the bench — the book needs to put Vee in that house soon, or the credit runs out.

@@ -1,20 +1,18 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b0e38f522c99 · 2026-09-14*
+*capture-dag-v2-rich · gate ch007 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 1a457484e0b1 · 2026-09-26*
 
-REACTION — Oh, I loved this. Quietly, unexpectedly, really loved it.
+REACTION — Oh, I am *in* this now. This chapter is tiny, but it has that dangerous little click I love, where the heat is not actually in what happened with Vee but in Randi needing to hear it and Pace knowing exactly what parts are hers to hear and what parts are not. That mattered to me. He could have made Vee into material for Randi, could have served up the vulnerable line from the froyo walk like a treat, and he doesn’t. He keeps that back because it belongs to Vee. That one choice did a lot of work for me.
 
-After the bench and the plotting and Pace/Randi/Vee machinery, this felt like a breath I did not know I needed. Vee with Cassie is so different from Vee with Randi already, and it makes my chest ache a little. Randi makes her feel chosen, lit up, invited into the room. Cassie makes her safe enough to be ugly-laughing in a pool. That is not as shiny, but God, it is intimate.
+And Randi. God. Her coming in without the door ritual, straight into his mouth, already hungry for the story. The wine in her mouth, the word “Tell,” climbing onto him like she has a right to the report. That is hot because it’s *hers* now, not just him steering her around campus. She came for the telling. She wants the girl, she wants him having seen the girl, she wants the triangle before it has even properly become one.
 
-The suit stuff got me immediately because of course Vee can walk the length of those bleachers like she meant to arrive, and of course it still costs her something. The boys yelling should have made me more annoyed than it did, but Cassie catching it and making it private instead of public saved the whole moment for me. “They will never know the love of a woman” is exactly the kind of stupid-perfect best friend line that lets you exhale before you realize you were holding your breath.
+But the best part is the little bruise in her when he says Vee is easy to listen to. That’s the first moment where it isn’t just sexy play. Randi can handle wanting Vee as long as wanting is dressed up as a game with Pace. But Pace having a private, gentle experience of Vee? Pace knowing something about Vee that he won’t hand over? That catches. I felt her face go on. I felt the threat of tenderness moving in a direction she didn’t fully authorize.
 
-And then the underwater passage. That hit. Vee having had this whole older self before the body became something to manage, before other people’s wanting and judging got installed in her head, before every entrance had to be performed. The water as the one place nobody is looking at her right. Nobody wanting anything. Nobody grading. Nobody inviting. Nobody seducing. Just her, competent and weightless and temporarily returned to herself. I felt protective of her there in a way I haven’t quite before.
+I also like that Pace is still warm and careful without being bland. He is manipulating a situation, yes, absolutely, the jacket told me that and the book keeps letting me feel it. But the distinction matters to me: he’s not careless with Vee’s softness here. He’s aroused by Randi’s appetite, but he’s not turning Vee’s embarrassment or loneliness into party chatter. That’s the kind of line I’m watching like a hawk, and this chapter stayed on the right side of it for me.
 
-It also made me more suspicious of the larger seduction, honestly. Not in a “stop reading” way, but in a tightening-my-grip way. Because now I have seen a version of Vee that belongs to herself, not to Randi’s attention and not to Pace’s gaze. And that matters. If the book is going to take her into appetite, I need it to remember this girl under the water. I need it to know she has places in herself no one gave her.
+Would I text a friend at 1 a.m.? “SHE CAME OVER TO GET THE DEBRIEF AND HE WOULDN’T GIVE HER THE PART THAT BELONGED TO VEE.” That’s the hook. That’s the thing that makes me trust the book a little more even while I know this is going to get morally thorny as hell.
 
-Cassie is becoming very important to me. She is plain, flat, unglamorous, emotionally exact, and she knows how to help without making a shrine out of helping. I trust her more than anyone right now. Maybe that is unfair, but I do. She does not pull. She does not dazzle. She just stays in the water up to her ribs and knows when to splash.
-
-GATE 7 — Water Wings
+GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
+CAPTURE: 8
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: This did not have the erotic charge of the earlier chapters, but it gave Vee more selfhood, and I badly needed that. I’m continuing because the book just reminded me she exists outside the plan, and now I want to see whether the plan can survive the parts of her that are already whole.
+WHY: Short, sharp, and loaded. I want the next chapter badly now because the triangle has stopped being an idea and started being an emotional mechanism, and I’m watching for whether Pace’s care can hold under the weight of what he and Randi are building.

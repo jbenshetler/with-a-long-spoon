@@ -1,14 +1,18 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b0e38f522c99 · 2026-09-14*
+*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 1a457484e0b1 · 2026-09-26*
 
-REACTION — Oh, Cassie. I knew that weird little “Goodbye, Vee” mattered, and now I’m fully attached to the friend who sees the damage happening without demanding that Vee explain it for her benefit. Keeping the insult for Vee instead of yelling it at the guys, watching her come up with her face wrong, then shooting that pathetic little sheet of water at her—this is love. Actual, observant love.
+REACTION — Oh, Randi is in trouble.
 
-And Vee underwater got me. “Before she had a body to be a problem” is the nerve of her, isn’t it? She likes being looked at, she knows exactly what her body can do to a room, and she’s also so tired of never getting to simply inhabit it. That contradiction feels painfully real rather than like the book is tidying her into a body-positive lesson. The tiny grief under the water, followed by the ugly shriek-laugh, made me care about her more than another charged scene would have right now.
+That tiny freeze at “She’s easy to listen to” was jealousy, and Pace read it as appetite. Or maybe it’s both, which is so much worse and so much more interesting. She wants Vee, she wants Pace wanting Vee, and she absolutely does not want to discover that he might find something emotionally easy with Vee that he doesn’t have with her. Her breasts and thighs react to Vee eating without restraint, but the listening is where she goes still. That got me.
 
-This is the second quiet chapter in a row, and this one is almost startlingly short, but I didn’t feel stalled. I felt the book protecting a little untouched piece of Vee before Randi and Pace get further inside her life—which, given Cassie’s earlier “goodbye,” makes me nervous as hell. I’m now scared that becoming more alive with them will cost Vee the one person around whom she already knows how to be unperformed.
+And Randi coming through the door demanding the story while climbing straight onto him? Extremely hot. She’s using sex to make him tell, but it doesn’t feel like generic seductress behavior; it feels like the only language she trusts when she wants something badly. The wine passed mouth to mouth was filthy in exactly the elegant, intimate way this book promised me.
 
-GATE 7 — Water Wings
+I also noticed that Pace protects the tender thing Vee told him. That should make me like him—and it does—but the whole setup makes even his kindness frightening. He can be exquisitely respectful of one private truth while participating in the enormous lie surrounding her. That contradiction has teeth.
+
+This is the first two-page-ish chapter shape I’ve encountered here, and it worked. It felt like a pressure chamber, not a shortcut. It caught one emotional misreading at exactly the moment it mattered and then cut away before anyone could name it. I’m already reaching for the next chapter because Randi saying “I already do” is not nearly as simple as Pace thinks it is.
+
+GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: No heat, but plenty of intimacy, and Cassie’s precise, undemanding care hit me hard. Two short, quiet chapters have put me on alert for movement, but that ominous sense that Vee may lose something real while gaining everything she thinks she wants has my thumb moving.
+WHY: The heat was immediate, but the jealousy hiding inside the desire is what hooked me hardest. Pace thinks he understands Randi perfectly, and I badly need to see what happens when that confidence meets the part of her he has just misread.

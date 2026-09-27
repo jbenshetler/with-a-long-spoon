@@ -1,18 +1,18 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha b0e38f522c99 · 2026-09-14*
+*capture-dag-v2-rich · gate ch007 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 1a457484e0b1 · 2026-09-26*
 
-REACTION — Oh, this one got me in the ribs in a completely different way.
+REACTION — This one made my shoulders come up, in a good-and-not-good way. I am still very much reading, but oh, I felt the temperature change here. Randi coming in with no hello, no little ritual, just *give it to me* has such a hungry snap to it, and I believe it. I believe her jealousy/desire/curiosity has been fermenting all day and she needs Pace to pour it into her mouth.
 
-After all the engineered heat and social chess, this felt like the book taking Vee somewhere Pace and Randi don’t own. And thank God. I needed to see her somewhere that predates being looked at, chosen, managed, appraised, invited. The pool is hers. Not glamorous, not curated, not sexy-for-someone, just hers in this old bodily way. That line about loving it before she had “a body to be a problem” made me ache, because yes, that is exactly the wound with her: she has been trained to experience her own body as public property and private liability at the same time.
+And the wine is hot. I mean, unfortunately for my composure, yes: the wine going from glass to Randi to Pace, the way he only wants it through her, the couch echoing the earlier kitchen straddle, her taking his hands and placing them where she wants them. That all works on me. It’s intimate and decadent and a little mean without anyone saying the mean thing out loud.
 
-The bleacher boys were gross in the most ordinary way, which somehow made it worse. Not dramatic danger, just the ambient tax of being shaped like something people feel entitled to comment on. And Vee’s response is so practiced: the long blink, the ceiling eyeroll, the little performance of unbotheredness. I believed every inch of that. But what I loved was Cassie. Cassie keeping “Tossers” low just for Vee, not turning it into a confrontation Vee would then have to manage, felt like such a clean act of friendship. Cassie’s love is not shiny, but it is exact.
+But the thing that really got me is what he *doesn’t* tell her. He gives Randi the froyo image because that belongs to the game they’re playing together: Vee’s appetite, Vee letting herself have too much, Vee as a shared erotic text. But he keeps Vee’s vulnerable sentence back. “This is the nicest a person has been to me…” stays hers. I needed that. I needed to see whether he was going to bring Vee’s softness home like a trophy, and he doesn’t. That is the book keeping its hands steady for me.
 
-And then underwater. Honestly, I relaxed for her. No one watching, no one wanting, no one pulling the strings. The quiet wasn’t empty; it was relief. The grief surprised me, but it felt earned. She isn’t just enjoying swimming, she’s briefly touching a version of herself that existed before shame colonized everything.
+I’m still wary, obviously. Randi wanting to hear about Vee while sitting on him is delicious and also morally radioactive, because Vee has no idea she is already inside their erotic circuit. That remains the central alarm bell. But the chapter knows it. The chapter is making me feel the seduction and the trespass at the same time, and that is exactly the narrow bridge I bought the book for.
 
-This chapter also makes me more nervous about Randi and Pace, because Cassie’s presence throws them into harsher relief. Cassie sees Vee and does not immediately try to use the seeing. She notices the face “wrong” and gives Vee a game instead of a probe. That is care. That is what makes me trust the book’s moral eyesight right now: it knows the difference between being seen and being handled.
+Also: Randi going still at “She’s easy to listen to.” Yes. That little bruise. She wanted Vee as appetite, spectacle, prize, maybe even offering; she was not prepared for Pace to have a private tenderness toward Vee that isn’t just fuel for Randi. That is where I sat up. I don’t know if Randi is jealous of Pace, jealous of Vee, jealous of the part of herself that wants Vee, or furious that there is already something between them she can’t stage-manage. Probably all of it. Excellent, terrible news.
 
-GATE 7 — Water Wings
+GATE 7 — Tannin
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
 ALMOST-STOPPED: none
-WHY: This was quiet, but it held me hard because it gave Vee a self outside the seduction machine, and Cassie’s friendship landed like oxygen. I want the next chapter because now I’m invested not just in the trap, but in whether Vee has enough real ground under her to feel when it starts shifting.
+WHY: This was short, sharp, and it deepened the triangle without pretending it’s innocent. I’m staying because Pace’s withheld detail about Vee tells me the book still understands privacy and power, even while letting Randi and Pace make Vee into heat between them.

@@ -1,22 +1,18 @@
-*capture-dag-v2-rich · gate ch007 · claude-opus-4-8 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b0e38f522c99 · 2026-09-14*
+*capture-dag-v2-rich · gate ch007 · claude-opus-4-8 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 1a457484e0b1 · 2026-09-26*
 
 REACTION
 
-Oh, I needed this chapter and I didn't know it. After the bench — after Randi's whole face coming apart on that thing and then getting reassembled in the mirror, after four chapters of watching two people run a beautifully lit con on a girl who thinks she just got lucky — this dropped me somewhere clean. No Pace. No Randi. Just Vee and Cassie and a pool that smells like every rec pool I've ever been in.
+Okay so this is the chapter where the trap I was handed on the back cover clicks shut, and I felt it click. I fell for that froyo walk. I *fell* for it — the "may I call you," the tart holding up, him waiting out her sentences like the sentence was worth waiting for. I let myself have chapters 5 and 6 straight, no chaser, because that's exactly the man I've been hunting for. And now here's chapter 7 turning the whole afternoon into *intel*. He walks in the door and she's got her knees around his thighs and a mouth full of wine going "Tell. Tell. *Tell*," and what she wants told is the girl. The date was a report. I was reading a report.
 
-And God, the walk down the bleachers. "You won't need floaties with those." "Legs for days." The way Vee *puts her face on* to survive fifty yards — chin level, towel rolled tight and carried down at her side, not shielding, because shielding would tell them they landed. I know that walk. Every woman knows that walk. And then Cassie, low, just for the two of them: "Tossers. They will never know the love of a woman." I actually laughed out loud, the same way Vee did — the game face cracking, fifty yards of held breath going out at once. That line is the whole chapter. Cassie could have pitched it up into the bleachers to fight them. She kept it for Vee. That's the difference between someone performing care and someone *being* it.
+And the awful thing — the thing that keeps me from throwing it across the room — is that it's *hot*, and the book knows it's hot, and it isn't pretending the plotting is harmless. That wine kiss got me. Him not pouring his own glass, taking all of it off her tongue, "everything he was going to have of it he was going to have like this" — that's the intensity I read for, a man wholly inside one woman. And Randi. God, Randi. "Randi, who gave the world nothing it had not been rationed, sitting on him with a want too big for her face, and keeping the face over it anyway." I keep being *moved* by her when I should be scared of her. That's the merciless part the jacket promised and I didn't believe it would actually land on me.
 
-The underwater passage got me somewhere tender. "She had loved this before she had a body to be a problem." That sentence. The one place that was never taken from her, the weightlessness, the sculling her hands remember without being asked, the grief she lets herself have for one beat at the bottom and then Cassie shoots that low sheet of water across the gap — barely gets her, and that's the genius of it, outrage out of all proportion — and you cannot grieve and fight your best friend for a mouthful of pool at the same time. The splashing won. It always did.
+But here's my 1 a.m. text: *they are hunting that girl and I like watching it and I don't know what that makes me.* "She's fun. You'll like her." / "I already do." That exchange went cold down my spine. Vee thinks she got chosen by the queen. She got *assigned*. And the froyo — the one thing that felt clean and real, him not making her embarrassment large, letting the true thing have its space — he deliberately keeps that from Randi. "It was hers." Which is either the one decent line he's holding, or the con inside the con. I can't tell yet and I *need* to.
 
-Here's what this chapter actually did to me, though, underneath the warmth: it made me trust Cassie completely and it made me *afraid*. Because Cassie is the only person in this book who sees Vee and wants nothing. She's the control group. She read Pace right — "the way you'd look at somebody's great-aunt" about Randi. She said "Goodbye, Vee" like a longer parting than a Wednesday. And now she's the one who never asks, never makes the sad version bigger, just closes the ten-foot gap without moving her feet. Every warm thing Cassie does is a measuring stick I'm going to be holding up against Randi's warmth and Pace's *may I*, and finding them wanting. The book knows exactly what it's doing putting this chapter here. It's showing me what real, unagenda'd love looks like right before it keeps asking me to fall for the other thing.
+What I'm suspicious of: whether the book is going to make me watch Vee's real, tender yeses get spent on a game she never agreed to play, and whether it's going to keep being honest about that or start winking. Right now it's being honest. That's the only reason I trust it enough to turn the page.
 
-What I'd text a friend at 1 a.m.: *Cassie is the only honest person in this entire book and I am terrified for what happens to her, or worse, for the moment Vee chooses the shiny people over her.*
-
-I missed Pace and Vee in a room together — I'll admit that, the froyo was the last time and it was over quick — but I didn't resent the gap. The care here was real and on the page. That buys a lot of patience from me.
-
-GATE 7 — Water Wings
+GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 7
-ALMOST-STOPPED: none
-WHY: This was a quiet chapter that pulled harder than some of the hot ones, because for once the tenderness had nobody's plan inside it — Cassie's care is the realest thing this book has shown me. I'm not desperate for the next page the way I was after the bench, but I want to see who Vee walks toward next, and I want it to be Cassie.
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: "She's fun," he said, into her hair. "You'll like her." / "I already do," Randi said, and it came out easy and bright.
+WHY: That's where the froyo date I loved curdled into a scouting report and I felt genuinely used-by-proxy — but the book isn't styling the manipulation as harmless, it's showing me every real thing it costs Randi to hold, and I have to know whether it stays that honest once Vee's inside it.

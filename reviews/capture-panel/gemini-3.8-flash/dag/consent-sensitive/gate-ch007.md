@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch007 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha b0e38f522c99 · 2026-09-24*
+*capture-dag-v2-rich · gate ch007 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 1a457484e0b1 · 2026-09-26*
 
-REACTION
+REACTION:
 
-This chapter broke my heart a little, and it did it in the quietest, cleanest way possible.
+Oh, the air in this room is getting so thin.
 
-The contrast between what Pace and Randi are doing to Vee and what Cassie gives her is becoming almost agonizing to watch. With Pace, Vee is constantly managing: performing poise, absorbing his "courtly" attention, feeling that intoxicating hook of being *seen* by a man who is secretly orchestrating her appetite and her exposure. With Randi, it’s the glittering trap of social validation and covert appraisal. But here, with Cassie at the rec pool, there is no performance. There’s no trapdoor.
+The prose is so quiet and assured, and underneath it, the psychological trap is snapping shut tooth by tooth. What is devastating here is the complete divergence between what Pace thinks is happening and what is actually happening to both women. Pace genuinely believes he is a benevolent shepherd of hidden desires. He sits on his couch feeling *moved* by Randi's "want too big for her face," completely convinced that her tightening thighs and that flat, late smile are just suppressed erotic appetite for Vee. He doesn't see the terror. He doesn't see the jealousy, or the desperate, frantic management Randi is doing to keep herself from shattering after what happened on that bench in Chapter 1.
 
-"She had loved this before she had a body to be a problem, and the water was the one part of it that had never been taken." That sentence hit like a physical weight. We’re watching a twenty-one-year-old girl whose physical self has been turned into a weapon, a currency, and a target—by her mother, by the bleacher creeps, by a culture that expects her to apologize for having hips, and, worst of all, by the two people currently conspiring to peel her open. Under the water, nobody wants anything from her. She isn't an erotic project. She isn't an engineered seduction. She’s just a person who used to do synchronized swimming, weightless and entirely herself.
+Randi is spiraling. We saw her alone in her room in Chapter 2, lying in her clothes with the breath held in her chest. She is using Vee as a buffer, as an offering, as a proxy, and Pace is taking it as simple, growing lust. And then that beat—that magnificent, awful beat—where Pace holds something back: *"He thought of what she had said after, on the walk — the true thing she had asked him to pretend she hadn't — and did not hand it over. It was hers."*
 
-And Cassie. God, I love Cassie. Cassie is the anchor Vee doesn't even realize she’s drifting away from. Cassie sees the "face on wrong" when Vee surfaces from that grief, and she doesn't probe or therapize or use it as an intimacy lever the way Pace would; she just splashes her in the face to snap her out of the spiral. That shriek-laugh—the "ugly one"—is the most real sound Vee has made in this entire book so far.
+He is already keeping Vee's vulnerability private from Randi. He thinks he's being courtly, honoring a confidence. What he's actually doing is creating an triangulated intimacy where Randi is suddenly the outsider to the very thing she orchestrated. And Randi *feels* it instantly. The thighs don't tighten in arousal; they *set*. The smile is a fraction late. She downs the rest of the wine like medicine and pulls him toward the bedroom because sex is the only lever she has left to assert control over him.
 
-What scares me is knowing what’s coming. The jacket told us: *every yes was freely given.* Vee is quietly starving, and Pace and Randi are preparing a feast designed to consume her, while the only genuine, safe harbor she has is this blunt, unglamorous friendship that she's already starting to slip away from to sit at high tables with Randi. The prose knows exactly how tragic this is. It isn't romanticizing the predatory dynamic; it's giving Vee a rich, aching interior life so that when the trap finally snaps, we feel the full cost of what's being stolen.
+The book knows. That’s the oxygen in this. The author isn't high on Pace's supposed enlightenment; the narrative gives us every microscopic tell of Randi’s distress, juxtaposed against Pace's complacent, paternalistic misreadings. And poor Vee is out there eating her frozen yogurt, completely unaware that she is being consumed in pieces by two people who are using her to negotiate a catastrophic unspoken power struggle between themselves. It's wickedly sharp.
 
-GATE 7 — Water Wings
+GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 ALMOST-STOPPED: none
-WHY: The interiority here is stunning. Giving Vee this quiet, uncommodified pocket of grief and genuine friendship makes the surrounding manipulation feel appropriately chilling rather than cheap or naive. I am fully invested.
+WHY: The tension is coiled so tight now—Pace completely misinterpreting Randi's panic as pure lust, Randi using sex to drown out the fact that she's losing the wheel, and Vee completely unprotected between them. The book has absolute command of the psychological horror running beneath the erotica.
