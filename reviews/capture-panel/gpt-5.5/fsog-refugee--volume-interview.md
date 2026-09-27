@@ -1,41 +1,41 @@
 # Capture panel — fsog-refugee · volume-interview
 
-*model: gpt-5.5 · persona: fsog-refugee · arm: volume-interview · chapters: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: b4c164753d00 · run: 2026-09-07*
+*model: gpt-5.5 · persona: fsog-refugee · arm: volume-interview · input: single-go volume record · input-sha: e989c8bf8eac · protocol: capture-panel-v1 · prompt-sha: 6ffc9a3d66eb · run: 2026-09-27*
 
 T1
 
-Vee leaves me protective and proud and worried. I feel so much tenderness for her because I watched her go from someone almost apologizing for having a body to someone who can stand in a doorway and choose what she wants. That matters to me. I buy her desire. I buy her hunger. I buy the way Pace’s attention and Randi’s permission each unlock something different in her.
+Vee leaves me protective and fond in that almost painful way, where I want to wrap her up and also not take a single spark of her wanting away from her. She isn’t naive in a silly way; she’s hungry, and lonely, and so ready to believe that being chosen can mean being safe. I love that the book lets her desire be hers. She’s not just reacting to Pace or orbiting Randi. She feels things in her whole body and then tries to understand herself afterward, which is very real to me. Right now I feel tender toward her, and nervous on her behalf.
 
-But I also feel scared for her, because she is still making choices inside a room where other people know more than she does. That matters too. Her wanting is real, and I don’t want the truth, when it comes, to make her feel stupid for wanting.
+Pace leaves me in the most complicated place, because privately, in the room with Vee, he is almost exactly what I read for. The asking. The patience. The way he corrects without shaming. The way he makes dominance feel like attention instead of entitlement. I believe his care when it is happening. I believe the warmth. I believe why Vee falls.
 
-Pace: I’m attached to him, which annoys me because I am also angry at him. His physical care for Vee is exactly my weakness. He asks. He waits. He notices. He can be dominant without flattening her, and that is so rare in this genre that part of me clings to it. The fitting, the food, the shirt, the stopping when she says don’t, the way he gives her room to answer with her own body — all of that worked on me.
+But I do not trust his silence. Not anymore. Not after a whole volume. I can still want him, still feel the pull of him, still think, yes, that is my type, and also be angry that he has let Vee keep giving herself inside a frame she doesn’t understand. So where he leaves me is: enthralled, suspicious, and waiting for him to become as honest as he is careful.
 
-But his silence is no longer just damage or restraint. It has become something he is choosing at her expense. I trust his hands more than I trust his honesty. That is a horrible sentence, but it’s where I am.
+Randi is the one I can’t settle. I care about her. I do. Her hunger is so alive, and the book understands the ache of wanting something you don’t know how to ask for cleanly. But she scares me more than Pace does, because she can make taking look like giving. She knows Vee’s soft places. She knows exactly how to light her up, flatter her, steer her, soothe her. Sometimes that feels like love. Sometimes it feels like appetite wearing love’s perfume.
 
-Randi is the hardest. I love her, and I distrust her. She gives Vee language for desire, forgiveness for wanting, a kind of female permission that Vee desperately needed. Some of my favorite emotional moments are Randi seeing Vee too clearly and saying the thing Vee cannot say yet.
-
-But Randi is also shaping Vee from behind the curtain. She is wounded and generous and manipulative, sometimes in the same breath. Right now I feel pulled toward her exactly the way Vee is pulled toward her, and that makes me uneasy. I believe her feelings. I do not trust her choices.
+Right now, I don’t hate Randi. I’m too fascinated by her for that. But I do not trust her hands on Vee’s life.
 
 T2
 
-Yes. I wanted the truth to land in this volume.
+Yes. I wanted the truth to come sooner.
 
-Not necessarily the whole aftermath, not necessarily every answer, but I wanted Vee to be given the dignity of knowing the original game she was inside. Pace and Randi began something around her before she understood it, and by the end she has given so much of herself — sexually, emotionally, socially — while still not knowing the frame. That is the thing the book still owes me.
+Not because I needed everything resolved in Volume One. I can live with a blade under the pillow. Honestly, I kept reading because of it. But by the end, Vee has given so much of herself: sexually, emotionally, socially, financially, imaginatively. She has built this whole glowing inner world around being chosen by Pace and being seen by Randi, and the book still has not let her know what room she is actually standing in.
 
-I also wanted Pace to spend the words. Not because I think words solve everything, and not because I don’t believe his actions. I do believe many of them. But “words are cheap” became unbearable because Vee was begging for something very specific: to be named, to know whether she was loved or just privately cherished in ways he could deny in daylight. The book made me feel that wound too clearly for me to shrug it off.
+So what it owes me is not punishment exactly. It owes Vee dignity.
 
-So yes, the book owes Vee truth. It owes her a scene where her anger is allowed to be as real as her desire. And it owes me proof that all this care was not a beautiful way of avoiding accountability.
+It owes her the chance to react with full knowledge. It owes her anger if she has anger. Hurt if she has hurt. It owes her the space not to be instantly soothed out of her own betrayal because the sex was beautiful or because everyone meant well. That’s the line for me. I can forgive mess. I can forgive desire making people stupid. I can even forgive secrecy for a while if the book knows it is dangerous. But I need the book to understand that being careful with her body does not cancel out managing her reality.
+
+I also wanted more alone time after the deepest turns. That’s my selfish reader answer. When Pace and Vee are alone, the book catches fire for me. I never begrudged the wider cast, because Cassie especially matters, and Randi matters a lot. But I could feel the gaps when it had been too long since Pace and Vee were in a room together.
 
 T3
 
-It sits badly with me. It does.
+It sits badly. Deliciously badly for most of the volume, and then honestly badly by the end.
 
-Pace’s consent inside the sexual moments is real to me, and I don’t want to pretend otherwise. That is why I kept reading. He is not the usual bulldozer hero dressed up as romantic. He does stop. He does ask. He does make room for Vee’s answer. That matters enormously to me.
+That’s the distinction for me. While I was reading, the deception created tension I absolutely felt. I was hooked. I am not pretending I floated above it morally with clean hands. I kept turning pages because I wanted the heat and the tenderness and the secret all pressing against each other. But once the volume ends with Pace still loved, still trusted, still unexposed, I do feel the imbalance.
 
-But consent to a scene is not the same as informed consent to the whole arrangement. Pace knows there is a hidden history and a hidden setup around Vee, and he lets her keep giving herself without telling her. By the end, he is loved and trusted while still protected by the secret. That is not nothing. Something has not landed on him yet, and it needs to.
+Because Pace has received all the benefits of being trusted without taking the risk of being known.
 
-Does it change whether I buy Book Two? No, but it changes what I need from Book Two.
+And that matters more because he is otherwise so good at consent. That’s what makes it sting. If he were just some swaggering alphahole, I’d be gone. But he knows how to ask. He knows how to wait. He knows how to read a woman’s body without overruling her mind. So the fact that he has not extended that same respect to the larger truth feels like a real failure, not a genre technicality.
 
-I said yes because I need the reckoning. I am not buying because I think Pace got away with it and that’s romantic. I’m buying because the book has been too aware of Vee’s consent, shame, hunger, and anger for me to believe it doesn’t know this bill is due. But my patience depends on that being true. If Book Two treats the deception as harmless because everybody meant well, or because the sex was beautiful, I’ll feel betrayed.
+Does it change whether I buy Book Two? No. I still buy it. Immediately.
 
-So yes, I buy it. But I buy it with my arms crossed a little. Pace has earned my heat. He has not yet earned my forgiveness.
+But I buy it with conditions in my heart. Book Two has to land this. It has to let something fall on him. Not necessarily public ruin, not theatrical punishment, but consequence. Vee has to get to know, and feel, and decide. If the book treats the deception as romantic strategy because Pace is tender and everyone was turned on, I’ll feel cheated. But if it lets his care and his wrongdoing exist in the same man, and makes him answer for both, then I’m all in.

@@ -1,45 +1,37 @@
 # Capture panel — romance-graduate · volume-interview
 
-*model: gpt-5.6-sol · persona: romance-graduate · arm: volume-interview · chapters: the-bench, standards, the-pointing-game, see-you-later · protocol: capture-panel-v1 · prompt-sha: d45a9a6f526a · run: 2026-09-07*
+*model: gpt-5.6-sol · persona: romance-graduate · arm: volume-interview · input: single-go volume record · input-sha: 268cb595c4c6 · protocol: capture-panel-v1 · prompt-sha: 62e3ce120f4c · run: 2026-09-27*
 
-T1
+**T1**
 
-Vee is the one I’m most tender toward. I don’t think she’s naïve or weak; I think she’s perceptive, hungry, and increasingly honest about what she wants. The cruelty is that the people teaching her to trust her desire are also quietly taking away the information she would need to judge the situation for herself. By the end, she has found real sexual agency, real pleasure, and what feels like real love—but she is still outsourcing too much of her interpretation to Randi, and she has just accepted sex and care in place of the words she actually asked Pace for. I’m proud of her for leaving when he evaded her. I’m heartsore that she came back without the question being answered.
+Vee: I love her. Not abstractly, not because she is wounded and therefore easy to root for—I love the particular person she is becoming when shame loosens its grip. Her appetite, her humor, her competence, the startling boldness that appears when she feels safe enough to want something. Watching her discover that pleasure does not make her ridiculous or common has been genuinely moving. But I also feel fiercely protective of her, because so much of this new freedom has developed inside circumstances she does not understand. Her choices are real. Her joy is real. The withheld context is real too. She deserves to know which parts of her life have been arranged around her.
 
-Pace is harder. I love him in dozens of particulars. The pencil. The cherry pit. The dress made for Vee’s actual body. The drawer. The way he receives desire without mocking it. Even after hundreds of romance heroes, he feels unusually attentive and genuinely erotic to me because his care is concrete rather than announced.
+Pace: This is the painful one, because I am very susceptible to him. His attention is the most erotic thing in the book. He notices without making Vee feel inspected; he creates structure without crushing her agency; he can receive embarrassment, desire, anger, and apology without turning any of them into a tax she has to pay. The pencil, the cherry pit, the silk, the untouched last inch, the question underneath her polished apology—those things worked on me completely. I believe his tenderness. I believe he sees Vee.
 
-But right now I’m angry with him. His tenderness is sincere; that almost makes it worse. He understands the value of consent in the immediate sexual moment—he stops, asks, waits—but seems unwilling to recognize that informed consent also depends on knowing what situation you are in. He has let Vee promise never to share him while sharing intimate knowledge of her with Randi. Then, when Vee asks for emotional clarity, he gives her comparisons, gestures, food, and sex. Those things are love-shaped, perhaps even love, but they are also evasions. I feel attracted to him, moved by him, and profoundly irritated with him.
+And I am angry with him. He knows enough about consent and boundaries that ignorance is not available as an excuse. He is giving Vee beautifully handled choices inside a situation whose essential facts he is withholding. That does not make every intimate moment false, but it contaminates my trust in him. Right now I feel both seduced and morally braced around him, which is much more interesting than simply liking or disliking him.
 
-Randi is the person I feel most conflicted about and least safe with. I believe she loves Vee. I believe Vee has awakened something real in her, and the fairytale chapter made her loneliness and cowardice painfully human. But she has installed herself as Vee’s trusted interpreter while secretly steering her. She advises Vee when to wait, what things mean, how to approach Pace, and finally how to use sexual access to get around an emotional impasse. She is not merely hiding an old mistake anymore. She is continually exploiting privileged knowledge while presenting that guidance as intuitive friendship.
+Randi: I believe she loves Vee, and I do not currently feel safe with that love. She understands Vee’s hunger to be chosen and is extraordinarily good at making manipulation feel like permission. Again and again, she creates the opening, draws out the disclosure, then lets Vee experience the result as self-discovery. Sometimes it genuinely is self-discovery—that is what makes Randi so difficult to dismiss. Vee has become freer with her. But Randi keeps treating the truth of Vee’s desire as retroactive permission for the machinery surrounding it.
 
-So I ache for Randi, I’m intensely drawn to her, and I’m furious with her. Her care is real. Her manipulation is real. I refuse to let the first fact erase the second.
+I feel tenderness for Randi’s jealousy and pain, and I understand why Pace reaching Vee touches the place in her that feels unreachable. I also resent her more cleanly than I resent Pace. She uses friendship—the relationship in which Vee believes herself safest—as an instrument. Loving Vee makes that worse, not better.
 
-T2
+**T2**
 
-Yes. I wanted consequence.
+Yes. I wanted Vee to receive the truth before the volume ended, and I wanted to see what remained hers after she had it.
 
-I didn’t necessarily need the entire design exposed and adjudicated before the end of Volume One. I can accept a series withholding the full explosion. What I did need was some meaningful shift in the moral balance—some cost, rupture, near-discovery, or unmistakable recognition from Pace that what he and Randi are doing cannot be made ethical simply by proceeding gently and producing pleasure.
+The book has given me an enormous amount: heat with actual emotional intelligence, explicit scenes that change the characters, conversation carrying as much voltage as sex, and a heroine whose interior life is the point rather than decorative tissue around male desire. It absolutely fulfilled the promise that made me open it.
 
-Instead, the volume ends with Vee returning, naked under her clothes, and receiving spectacular sex, food, tenderness, and “I missed you.” All of that matters. None of it answers what she asked him for. The book knows that—its own language makes the absence visible—but it still lets the erotic satisfaction function as the ending’s emotional release.
+But it has not yet paid the moral bill it has been carefully itemizing. The secrecy is not incidental anymore. The book repeatedly shows me that Randi is orchestrating, that Pace knows he is proceeding, and that Vee is making meaningful choices without access to the meaning those choices have for the other two. I wanted this volume to let her know and then give her room to be furious, humiliated, aroused, grateful, bereft—whatever is actually hers once nobody else is curating the emotional options.
 
-The book owes Vee the truth. Not because wanting Pace or Randi would become false once she knew, but because her wanting cannot absolve choices she was never allowed to evaluate. It owes her the chance to decide what this was, in her own moral vocabulary, without Pace’s certainty or Randi’s interpretation preloaded into her.
+I also feel owed a fuller reckoning with Daphne. Pace’s account may be factually careful, but the book itself made me feel the missing moral shape around it. I do not need him exposed as secretly monstrous; I do need his capacity for self-explanation tested by someone who is not already enthralled by how well he pays attention.
 
-It also owes me the words Pace withheld. Not necessarily the exact three words Vee wants, on demand, as though declarations are vending-machine purchases. But he must eventually explain why refusing language matters more to him than giving her security. His gestures are exquisite; they cannot be allowed to remain a permanent exemption from speech.
+So yes: the volume gave me emotional and erotic satisfaction, but it withheld consequence. That feels less like an accidental omission than a deliberately unpaid debt.
 
-And I want Cassie restored to the emotional field. She is the only person who consistently cares without harvesting, steering, or requiring disclosure. By the end, Vee has been trained away from her clean questions and toward Randi’s loaded answers. That feels deliberate, and I need the book to reckon with it.
+**T3**
 
-T3
+It sits badly with me. Very badly, because the book has made Pace’s ethics part of his erotic appeal. His restraint, his precision, his respect for a stated no—those are not side virtues. They are why I trusted him enough to find the power exchange hot. So when he maintains the deception while continuing to receive Vee’s trust, the contradiction cannot be waved away as ordinary romance secrecy. He understands the importance of consent at the level of an inch, a word, a pause. He should understand it at the level of the whole situation.
 
-Badly. It sits badly with me.
+And yes, he ends the volume rewarded. Vee loves what she has found with him. She trusts his care. He has not had to stand in front of her without the advantage of information and ask whether she still chooses him. Nothing has landed on him yet—not exposure, not loss of control, not even the requirement to explain himself. That frustrates me more than Randi’s manipulation because the book has presented Pace as the person most capable of knowing better.
 
-Pace does not feel innocent because he is gentle, sexually conscientious, wounded, or genuinely in love with Vee. He participates in the deception from the beginning. He benefits from Randi’s access to Vee. He accepts information Vee does not know is being shared. He permits Randi to help shape Vee toward him. And he receives Vee’s trust—including that painfully ironic promise about never sharing him—without giving her the truth that would complicate it.
+Does it change whether I buy Book Two? It changes *why* I buy it. I am no longer buying purely because I want more of this intoxicating relationship. I am buying because the book now owes Vee the truth and owes me the consequences. My appetite is still a ten; there is no honest version of me that finishes this volume and walks away. But Book Two is not getting unlimited credit from the tenderness of Book One. If the reveal happens and the story protects Pace—if Vee’s pleasure is used to argue that no real violation occurred, or if her forgiveness arrives before her anger has room to become fully hers—I will feel cheated.
 
-What especially bothers me is that the volume gives him nearly every reward available: Vee’s desire, her vulnerability, her photograph, her trust, her return, and the apparent restoration of their intimacy. Even the breakup lands mainly as pain for him, not accountability. Then she comes back before he has answered her original need, much less confessed the larger deception.
-
-So no, I don’t think “nothing lands on him” is an unfair reading. Nothing proportionate lands on him. Yet.
-
-And yes, I still buy Book Two—immediately, exactly as I wrote in my verdict. Not because I’m satisfied, and definitely not because the final sex scene made the ethics disappear. I buy it because the book has shown too much awareness of the contradiction for me to believe it stumbled into it accidentally. Vee repeatedly feels the gap between bodily satisfaction and emotional truth. The narration keeps exposing how care can also control, how nourishment can manipulate, how technically careful consent can coexist with a concealed design. I’m willing to pay to see whether the author follows that knowledge all the way through.
-
-But this is not unconditional loyalty. Book Two is where the bill comes due. If Vee learns the truth and the answer is essentially, “But look how happy we made you,” I’m out. If Pace’s tenderness is treated as proof that he could not have violated her trust, I’m out. If Randi’s love converts grooming into destiny, I’m out.
-
-I’m buying because I need the reckoning and because I care about all three of them. But irritation is part of the purchase. Heat got Pace through Volume One; heat cannot be his acquittal.
+So yes, I buy it. Immediately. But with my arms crossed.
