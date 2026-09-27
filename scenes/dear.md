@@ -16,7 +16,7 @@ Cassie was already up, cap on, bag on one shoulder, with the readiness of a pers
 
 "Pace."
 
-"Pace." She said it back, already past it. "How is it going with Pace, because you have had a look on your face for fifty minutes and you think I can't read it but I read it from across the room when I walked in."
+"Pace." She said it back, already past it. "How is it going with Pace, because you have had a look on your face for fifty minutes and you think I can't read it but I read it from across the room when I walked in?"
 
 Vee felt the look go warm and spread on her face. "It's going," she said, which was nothing, a door held not quite shut.
 

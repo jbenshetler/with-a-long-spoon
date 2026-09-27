@@ -1362,6 +1362,13 @@ text = "\"I felt good just sitting there listening to him.\""
 note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
 
 [[ok]]
+fp   = "d24b9455ccc5"
+rule = "filter-verbs"
+file = "scenes/dear.md"
+text = "And for one whole giddy second she felt like the most interesting girl in the loud bright room, like her life had finally tipped over into the kind of life that happened to people."
+note = "author ruling 2026-09-27: the protected 'most interesting girl' refrain keeps its own subject; the hard stop before 'And for one whole giddy second' is the beat"
+
+[[ok]]
 fp   = "204192d4e1b3"
 rule = "the-way"
 file = "scenes/dear.md"
@@ -2473,6 +2480,13 @@ rule = "filter-verbs"
 file = "scenes/leave-no-trace.md"
 text = "\"I saw a dress.\""
 note = "129 = dialogue, not narration; 131 = self-hearing the want as the tell registering (load-bearing); author-blessed keeps"
+
+[[ok]]
+fp   = "b2350b451244"
+rule = "filter-verbs"
+file = "scenes/leave-no-trace.md"
+text = "She watched the muscle work under the blue and put her foot where his had been."
+note = "author ruling 2026-09-27: 'She watched the muscle work' stands — the watching is the beat (Randi's picture over the real back), not a filter"
 
 [[ok]]
 fp   = "bba092c8cb7c"
