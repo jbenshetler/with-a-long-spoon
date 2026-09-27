@@ -1,12 +1,12 @@
-*capture-dag-v2-rich · gate ch007 · gpt-6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 1a457484e0b1 · 2026-09-26*
+*capture-dag-v2-rich · gate ch007 · gpt-6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha e27492614e32 · 2026-09-26*
 
-REACTION — Oh, Randi came over *hungry* for the details. The wine kiss got me, and so did the way she put his hands where she wanted them while making him talk about Vee. She wants this, and I love that she gets to be bold about it for a minute.
+REACTION — Oh, Randi came straight over to hear about Vee. The way she climbs into his lap and makes him tell her is hot, and I love that she isn’t pretending this is just about giving Pace a threesome anymore. She wants the details for herself. Then he says Vee built a cup like nobody had ever told her when to stop, and Randi’s whole body answers. I felt that.
 
-But “she’s easy to listen to” changed the temperature completely. Randi asked for the date report; she wasn’t ready to hear him sound fond of Vee. I think Pace missed that. He saw Randi’s face go still and read it as more desire, when I felt jealousy in it too. And I was relieved he kept Vee’s little confession to himself. She gave him that, not Randi. I’m worried about all three of them now, which is absolutely why I’m turning the page.
+The little change when he says Vee is easy to listen to got me more than the kissing did. Randi can enjoy hearing that Vee ate what she wanted; hearing that Pace liked *listening* to her lands somewhere much less manageable. I can’t tell how much is jealousy and how much is Randi realizing there’s already a real person inside their game. I’m glad he keeps Vee’s vulnerable confession to himself. After that entrance, though, I wanted a little more before Randi took his hand and the chapter ended. I’m still following her down the hall.
 
 GATE 7 — Tannin
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
+NEXT: 8
 ALMOST-STOPPED: none
-WHY: The scene was hot, but the shift when Randi went quiet is what’s sticking with me. I want to know what she does with that feeling, and whether Pace realizes he may have read her wrong.
+WHY: Randi’s hunger is out in the open for me now, even while she’s trying to keep her face composed. I want to see what she does when Vee stops being a story Pace brings home and starts wanting things back.

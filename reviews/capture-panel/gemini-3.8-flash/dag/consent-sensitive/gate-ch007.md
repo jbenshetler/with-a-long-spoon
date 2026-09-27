@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch007 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 1a457484e0b1 · 2026-09-26*
+*capture-dag-v2-rich · gate ch007 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha e27492614e32 · 2026-09-26*
 
-REACTION:
+Oh, this book is so wickedly smart about the lies these people tell themselves.
 
-Oh, the air in this room is getting so thin.
+Pace thinks he is the absolute master reader of women. He sits there in his warm house with his Steely Dan, holding Randi while she straddles him, and he genuinely believes he understands every twitch of her nervous system. When she asks about the date, she gets turned on by the idea of Vee eating the froyo—that voyeuristic, consuming appetite they’re both cultivating toward this girl. But then she asks if Vee made him laugh. And Pace keeps Vee’s little confession to himself—*“It was hers”*—and tells Randi, *“She’s easy to listen to.”*
 
-The prose is so quiet and assured, and underneath it, the psychological trap is snapping shut tooth by tooth. What is devastating here is the complete divergence between what Pace thinks is happening and what is actually happening to both women. Pace genuinely believes he is a benevolent shepherd of hidden desires. He sits on his couch feeling *moved* by Randi's "want too big for her face," completely convinced that her tightening thighs and that flat, late smile are just suppressed erotic appetite for Vee. He doesn't see the terror. He doesn't see the jealousy, or the desperate, frantic management Randi is doing to keep herself from shattering after what happened on that bench in Chapter 1.
+And Randi freezes. The thighs set. The hands stop in his hair. The smile is a beat too late.
 
-Randi is spiraling. We saw her alone in her room in Chapter 2, lying in her clothes with the breath held in her chest. She is using Vee as a buffer, as an offering, as a proxy, and Pace is taking it as simple, growing lust. And then that beat—that magnificent, awful beat—where Pace holds something back: *"He thought of what she had said after, on the walk — the true thing she had asked him to pretend she hadn't — and did not hand it over. It was hers."*
+And Pace—god, Pace’s hubris!—reads her freezing as *desire*. He thinks she’s holding back a wanting too big for her face. He thinks she’s just overwhelmed by how much she hungers for Vee. He doesn’t see the terror, the prick of jealousy, or the sudden, icy realization that Pace might actually *like* this girl, that a private intimacy is already forming between Pace and Vee that excludes Randi. Randi downs the rest of the wine in one hard swallow, snaps the mask back on—*“I already do,” easy and bright*—and leads him to the bedroom to fuck away the feeling.
 
-He is already keeping Vee's vulnerability private from Randi. He thinks he's being courtly, honoring a confidence. What he's actually doing is creating an triangulated intimacy where Randi is suddenly the outsider to the very thing she orchestrated. And Randi *feels* it instantly. The thighs don't tighten in arousal; they *set*. The smile is a fraction late. She downs the rest of the wine like medicine and pulls him toward the bedroom because sex is the only lever she has left to assert control over him.
+The author knows *exactly* what is happening here. That is the lifeline that keeps me riveted. If this were a naive erotica where Randi was just a panting, uncomplicated bisexual plaything thrilled to share a girl with her boyfriend, I would have thrown the book across the room. But Rivers is writing a psychological house of cards. Pace thinks he’s orchestrating a benevolent awakening for both of them, but he’s already keeping secrets, misreading Randi’s defenses, and engineering Vee’s emotional dependency. The triangulation is getting poisoned before Vee has even stepped through his front door.
 
-The book knows. That’s the oxygen in this. The author isn't high on Pace's supposed enlightenment; the narrative gives us every microscopic tell of Randi’s distress, juxtaposed against Pace's complacent, paternalistic misreadings. And poor Vee is out there eating her frozen yogurt, completely unaware that she is being consumed in pieces by two people who are using her to negotiate a catastrophic unspoken power struggle between themselves. It's wickedly sharp.
+I am glued to the page.
+
+***
 
 GATE 7 — Tannin
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight now—Pace completely misinterpreting Randi's panic as pure lust, Randi using sex to drown out the fact that she's losing the wheel, and Vee completely unprotected between them. The book has absolute command of the psychological horror running beneath the erotica.
+WHY: Pace’s blind spot is finally showing: he completely misreads Randi’s sudden chill as heightened lust, entirely blind to the fact that his private protection of Vee just tripped Randi’s alarms. The book knows its characters are playing with fire, and the psychological precision is breathtaking.

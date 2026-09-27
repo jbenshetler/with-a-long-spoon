@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch007 · claude-opus-4-8 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 1a457484e0b1 · 2026-09-26*
+*capture-dag-v2-rich · gate ch007 · claude-opus-4-8 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha e27492614e32 · 2026-09-26*
 
 REACTION
 
-Oh, this is the chapter I stay for. No heat to hide inside — well, a little, the wine-kiss is doing work — but mostly this is two conspirators alone in a room, and that's exactly where I get to check whether the book still knows what it's doing. It does. God, it does.
+Okay so this is the chapter where the book confirms it's playing the long game with its own structure, and I'm — genuinely a little thrilled by how controlled it is. Chapter 7 is basically a debrief that's also foreplay. Randi comes in, bolts the door, doesn't even do their little ritual, and just *needs* it — needs him to feed her the report about Vee. And the book keeps its eyes open the whole time, which is the only reason I'd let a scene like this near me.
 
-Randi coming in with the deadbolt and no hello, climbing him, *"Tell me"* — she's not here for him, not really, she's here to eat the date. To have Vee secondhand, through his mouth, through the wine she keeps passing into his. And the book knows that's what she's doing. "She built a cup like nobody had ever told her when to stop" — and I felt it land in Randi's *thighs* before her face, the want arriving a half-beat ahead of the management, same as Vee's *yes* on the quad landed ahead of her. These two women are built the same way and the book keeps rhyming them on purpose. That's not an accident, that's the thesis.
+What I keep circling: Randi is the one being handled now, and she doesn't fully clock it. He reads the want coming up under his hands before her face catches up — same tell as the quad, "a half-beat behind," the smile arriving after it's called for. That's the exact grammar the book used on Vee in chapters 5 and 6, and now it's turned on Randi. So the person who thinks she's the co-conspirator is getting run through the same instrument. I like that the book knows that. It's not asking me to think Randi's safely on the outside of this.
 
-What got me, actually got me, cold: Pace withholding the thing Vee said on the walk. "It was hers. He did not hand it over." He's *collecting* her. He took Vee's one embarrassed true thing — the froyo confession, the nicest anyone's been to her in ages — and he's holding it back from Randi, deciding what of Vee's actual interior he trades and what he keeps. That's the tell that this book is not naive. A naive version of this book would have him share it, would play it as intimacy between the couple. This one knows that a man who curates a girl's confessions is doing something predatory, and it lets the detail sit there being quietly awful without underlining it.
+And the detail that actually got me sitting up straight — he *withholds Vee's confession.* The froyo thing, the "this is the nicest a person's been to me in a long time, and it's froyo" — he doesn't hand that to Randi. "It was hers." He's protecting the mark's soft underbelly from his own partner, mid-hunt. That's a chilling, precise little move and the book plants it without underlining it. Who has information, who's managing whom — Pace is now sitting on a piece of Vee that Randi doesn't get, which means he's managing *both* of them, and the two women each think they're the one with him. That's the whole engine, laid bare in a shrug of a sentence.
 
-And then Randi going flat when he says "I made her laugh." The want held *harder* than on the lawn because there's more of it now — and she puts the smile on a beat late, and drinks the whole glass, and gets up. She's terrified. The thing she started as a game about Vee is turning real *in her*, exactly like the jacket warned, and she is managing it with the same apparatus she used in the bathroom mirror in chapter one. The book sees her. "Randi, who gave the world nothing it had not been rationed." That line moved me and I don't fully want it to, because she is one of the two people ruining a 21-year-old who thinks she found a friend.
+The jealousy beat too — "did she make you laugh?" / "No, I made her laugh." Randi goes *level.* Sets instead of tightens. The want held harder than on the lawn "because there was more of it to hold." The book is watching Randi be a person with a fault line right where the game is supposed to be pure play, and it's not cheering her, it's noting her. Same as ch1's bathroom, the face going back on, the bottle cap under the nail. This book has never once switched the awareness off, and a quiet debrief chapter is exactly where I'd catch it if it did. It didn't.
 
-That last line — "He had not had a drop of it. He could taste nothing else." He consumed the entire date without touching the yogurt. He ate it through Randi's mouth. That's the whole machine in one sentence and it's genuinely chilling and genuinely hot and I hate that it's both, which is precisely what this book keeps earning.
-
-I'm in. The instruments read clean. The book is ahead of everyone including me, and it knows it.
+What keeps me from a higher number: I've now seen the "want too big for the face, held behind it" move three times, and this chapter is mostly that move plus the tannin-kiss staging. Pretty, but I clocked the pattern. The froyo-cup / "nobody told her when to stop" line is the actual meat, and it's tiny. Still — I'm in good hands, warily, and I want the Vee thread to move.
 
 GATE 7 — Tannin
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
+CAPTURE: 6
+NEXT: 7
 ALMOST-STOPPED: none
-WHY: A quiet two-hander that's all machinery and it never once loses its own eye — the withheld confession and Randi's held want are the book proving, again, that it knows exactly how ugly its tenderness is. I want the next one badly; I need to see where Vee gets pulled and whether Randi's want cracks the face.
+WHY: It's a short heat-and-debrief chapter and I've seen the "held want behind the face" beat before, so it didn't grip like the bench did — but the withheld-confession detail ("It was hers") is the book telling me Pace is managing both women, and I trust the framing enough that I want to watch that fault line open.

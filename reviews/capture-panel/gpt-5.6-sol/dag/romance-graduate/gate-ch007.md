@@ -1,18 +1,18 @@
-*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 1a457484e0b1 · 2026-09-26*
+*capture-dag-v2-rich · gate ch007 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha e27492614e32 · 2026-09-26*
 
-REACTION — Oh, Randi is in trouble.
+REACTION
 
-That tiny freeze at “She’s easy to listen to” was jealousy, and Pace read it as appetite. Or maybe it’s both, which is so much worse and so much more interesting. She wants Vee, she wants Pace wanting Vee, and she absolutely does not want to discover that he might find something emotionally easy with Vee that he doesn’t have with her. Her breasts and thighs react to Vee eating without restraint, but the listening is where she goes still. That got me.
+Oh, this is *nasty* in exactly the way I wanted. Randi practically climbing him at the door because he has been out with Vee, then demanding every detail while putting his hands on her—it’s jealousy and arousal and hunger all tangled together, and she cannot admit which woman she wants or what she wants from either of them. “Did she eat all of it?” nearly took me out. Of course that is the detail she needs. Vee’s appetite is already erotic to her, whether she can bear to know it or not.
 
-And Randi coming through the door demanding the story while climbing straight onto him? Extremely hot. She’s using sex to make him tell, but it doesn’t feel like generic seductress behavior; it feels like the only language she trusts when she wants something badly. The wine passed mouth to mouth was filthy in exactly the elegant, intimate way this book promised me.
+And Pace saying Vee is “easy to listen to” was so much more dangerous than telling Randi she was beautiful. Randi can eroticize him wanting Vee; she came prepared to do exactly that. But him genuinely *liking* Vee, protecting something Vee told him instead of feeding it into their game—that landed where Randi has no costume ready. Her body goes from tightening to setting, and suddenly this isn’t a sexy report anymore. There are three real people in the room now even though Vee isn’t physically there.
 
-I also noticed that Pace protects the tender thing Vee told him. That should make me like him—and it does—but the whole setup makes even his kindness frightening. He can be exquisitely respectful of one private truth while participating in the enormous lie surrounding her. That contradiction has teeth.
+I’m also watching Pace very closely. His discretion with Vee’s vulnerable confession mattered to me, but “you’ll like her” is chilling when Randi already does and he still thinks he understands the whole shape of this. He’s tender, attentive, and absolutely participating in a secret design around a woman who thinks she met them by chance. That contradiction is the hook for me. I don’t trust the situation at all, but unfortunately I want everyone involved.
 
-This is the first two-page-ish chapter shape I’ve encountered here, and it worked. It felt like a pressure chamber, not a shortcut. It caught one emotional misreading at exactly the moment it mattered and then cut away before anyone could name it. I’m already reaching for the next chapter because Randi saying “I already do” is not nearly as simple as Pace thinks it is.
+This chapter was tiny, but it didn’t feel like a shortcut. It felt like a match struck in a dark room. I would text a friend: *Randi is turned on by Vee eating frozen yogurt and jealous that Pace likes listening to her. We are in trouble.*
 
 GATE 7 — Tannin
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The heat was immediate, but the jealousy hiding inside the desire is what hooked me hardest. Pace thinks he understands Randi perfectly, and I badly need to see what happens when that confidence meets the part of her he has just misread.
+WHY: This gave me heat, jealousy, restraint, and actual emotional danger in a handful of pages. I need to see what happens when Randi can no longer disguise wanting Vee as something she is generously arranging for Pace.
