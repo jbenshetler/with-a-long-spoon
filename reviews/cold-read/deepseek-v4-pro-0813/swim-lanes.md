@@ -1,6 +1,6 @@
-# Cold read (grounded) — Underneath
+# Cold read (grounded) — Swim Lanes
 
-*scene: scenes/underneath.md · model: deepseek-v4-pro-0813 · memory: ensemble core ck-ch010@7eb6f315dc22 + raw ch011..ch013 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/swim-lanes.md · model: deepseek-v4-pro-0813 · memory: ensemble core ck-ch010@7eb6f315dc22 + raw ch011..ch013 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 

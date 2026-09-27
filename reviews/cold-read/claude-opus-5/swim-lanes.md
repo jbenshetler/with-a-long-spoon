@@ -1,6 +1,6 @@
-# Cold read (grounded) — Underneath
+# Cold read (grounded) — Swim Lanes
 
-*scene: scenes/underneath.md · model: claude-opus-5 · memory: ck-ch010 + raw ch011..ch013 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/swim-lanes.md · model: claude-opus-5 · memory: ck-ch010 + raw ch011..ch013 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
