@@ -35,6 +35,10 @@ DECISION: CONTINUE or STOP
 CAPTURE: <0–10, how hard this chapter pulled YOU while you were inside it>
 NEXT: <0–10, how much you want the next chapter *right now* — 0 = you'd set
   the book down for a month without a pang, 10 = you're already reading on>
+HEAT: <0–3 — felt erotic charge, not a count of acts: 0 none · 1 simmer · 2 hot ·
+3 peak; a clothed chapter can be a 3>
+ROMANCE: <0–3 — the bond: 0 none · 1 faint warmth · 2 clear tenderness · 3 a turn
+in the bond; scored on the strongest beat, independently of HEAT>
 ALMOST-STOPPED: <the moment you came closest to leaving, quoted — or "none">
 WHY: <one to three sentences, your voice>
 

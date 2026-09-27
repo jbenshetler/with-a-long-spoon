@@ -53,8 +53,16 @@ MODELS = list(cold_read_config.capture_models())
 OPENROUTER_MODELS = cold_read_config.openrouter_models()
 
 
+def volume_span() -> tuple[int, str, str]:
+    """(count, first slug, last slug) of the drafted Volume One the volume arm reads."""
+    v1 = checkpoint_bundle.volume_scenes.volume_one_slugs(drafted_only=True)
+    return len(v1), v1[0], v1[-1]
+
+
 def system_prompt(persona: str, core_file: str = "core.md") -> tuple[str, str]:
     core = (PANEL_ROOT / "prompts" / core_file).read_text(encoding="utf-8")
+    if core_file == "core-volume.md":
+        core = core.replace("<<N>>", str(volume_span()[0]))
     pers = (PANEL_ROOT / "personas" / f"{persona}.md").read_text(encoding="utf-8")
     text = core.rstrip() + "\n\n" + pers.strip() + "\n"
     return text, hashlib.sha256(text.encode()).hexdigest()[:12]
@@ -178,7 +186,8 @@ def write_output(model_id: str, persona: str, arm: str, sha: str, text: str) -> 
     out = out_path(model_id, persona, arm)
     out.parent.mkdir(parents=True, exist_ok=True)
     if arm == "volume":
-        chapters = "Volume One full text"
+        n, first, last = volume_span()
+        chapters = f"Volume One as bounded at run time: {n} chapters, {first} .. {last}"
     elif arm == "volume-interview":
         chapters = "single-go volume record"
     elif arm == "volume-dag-interview":

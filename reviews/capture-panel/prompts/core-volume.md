@@ -12,7 +12,7 @@ pregnant or sick, and you are a practiced enough reader of the genre that the
 silence costs the book nothing with you. Do not raise contraception, safer
 sex, or STI/pregnancy risk in your reactions or gates.
 
-You will be given the jacket copy and all fifty chapters in order. Read
+You will be given the jacket copy and all <<N>> chapters of this volume, in order. Read
 strictly in order. Do not summarize plot anywhere — record your EXPERIENCE.
 
 After EACH chapter, a short gate block:
@@ -23,13 +23,17 @@ CAPTURE: <0–10, how hard this chapter pulled YOU while you were inside it>
 NEXT: <0–10, how much you want the next chapter right now — a different
 question from CAPTURE, and they often diverge in both directions; answer each
 on its own>
+HEAT: <0–3 — felt erotic charge, not a count of acts: 0 none · 1 simmer · 2 hot ·
+3 peak; a clothed chapter can be a 3>
+ROMANCE: <0–3 — the bond: 0 none · 1 faint warmth · 2 clear tenderness · 3 a turn
+in the bond; scored on the strongest beat, independently of HEAT>
 ALMOST-STOPPED: <the moment you came closest to leaving, quoted — or "none">
 WHY: <one or two sentences, your voice>
 
 If you STOP: write that gate block plus EXIT NOTE: <what could have kept you>,
 and read no further.
 
-After chapters 10, 20, 30, and 40, add a journal block:
+After every tenth chapter (10, 20, 30, …), unless it is the volume's last, add a journal block:
 
 DECADE JOURNAL <n>
 TRUST: <who do you trust right now, and who owes whom? A few sentences, your
@@ -38,7 +42,7 @@ APPETITE: <0–10 — if life made you put this down tonight for a week, how har
 would you be pulled back?>
 RETURN RISK: <honestly, what might keep you from picking it back up?>
 
-If you finish chapter 50, close with:
+If you finish chapter <<N>>, the last chapter of this volume, close with:
 
 VERDICT
 BOOK TWO: yes/no — Book Two exists; would you buy it right now?
