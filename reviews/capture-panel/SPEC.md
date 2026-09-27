@@ -519,8 +519,9 @@ needs explicit author approval.
 
 **2026-09-26 — her data erased from the tree (author ruling).** Her gates,
 checkpoints and STOPPED markers under every `<model>/dag/dark-romance-control/`
-were deleted, along with every other off-roster model's capture directory except
-`claude-fable-5` (kept as history). Git history before that date holds the record;
+were deleted, along with every other off-roster model's capture directory
+(`claude-fable-5` was kept as history for a few hours, then erased with
+`gpt-6-sol` later that day by author ruling). Git history holds the record;
 `--assemble` can no longer rebuild her. The findings above stand as recorded.
 
 **Rosters (same ruling).** The capture roster now lives ONLY in

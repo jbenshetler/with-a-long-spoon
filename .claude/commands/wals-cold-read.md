@@ -89,7 +89,7 @@ Run the two Claude readers concurrently through the harness's headless clean
 lane:
 
 ```
-tools/cold_read_grounded.py --model claude-fable-5  --scope <slug>
+tools/cold_read_grounded.py --model claude-opus-5   --scope <slug>
 tools/cold_read_grounded.py --model claude-opus-4-8 --scope <slug>
 ```
 

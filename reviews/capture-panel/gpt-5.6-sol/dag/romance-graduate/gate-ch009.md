@@ -1,14 +1,18 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b011ff26b790 · 2026-09-14*
+*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0149553a3cd5 · 2026-09-26*
 
-REACTION — Oh, Vee. “See. I know where he lives and everything” when what she knows is *off six-fourteen* made my stomach drop. She is so incandescently happy that I want to protect her from the book I already know I’m reading. She keeps experiencing her own agency as this gorgeous revelation — *I did it because I wanted to and I did it on purpose* — and that would be uncomplicatedly lovely if I didn’t know two people deliberately arranged the path beneath her feet.
+REACTION — Oh, this got me. Not because dinner and hand-holding are inherently thrilling, but because the whole chapter understands that being relieved of vigilance can be intensely erotic. “May I choose?” absolutely landed on me. He doesn’t turn choosing for her into dominance theater; he treats it as care, pays attention, and gives her somewhere safe to put down the exhausting little machinery that monitors every appetite and every social beat. That is precisely the grown-up charge I keep looking for and almost never get.
 
-I love Cassie. Her joking questions are also real questions, and she manages to check whether Vee was sober, get Pace’s name and approximate location, and tell her to wear proper shoes without puncturing her joy. That is actual friendship, not romance-novel “best friend” wallpaper. Meanwhile Vee’s spontaneous little spin nearly taking out the closet door got me right in the chest. She isn’t merely attracted to him; she’s delighted by the person she gets to be when she chooses something for herself.
+And the food. God. Watching her eat until she stops watching herself eat was hotter and more intimate than most books’ first sex scenes. The right-hand detail made me lean forward too—not because I know what it means yet, but because she’s studying him physically while experiencing all this safety, and those two currents are finally starting to meet. The book keeps making hunger bodily without pretending hunger is only sexual. I’m fully in its hands there.
 
-This is absolutely a bridge chapter, but it moves the knife. Vee thinks the crucial fact is that nobody talked her into the kiss, and she’s right — locally, literally, beautifully right. But Randi chose Pace, Pace chose the approach, and now Vee is cheerfully giving Cassie the cover story’s flimsiest coordinates while believing she has established her safety. The book keeps making freedom and manipulation occupy the same inch of ground, and I am very much not putting it down before this hike.
+Cassie saying, “That’s not a boy. That’s a man,” could have been cheesy in another book, but here I understood exactly what she meant: he leaves Vee time. He doesn’t manufacture uncertainty to gain leverage. And then the ending—she states the rule, he accepts it immediately, and that acceptance is what lets her discover what she actually wants. That is consent made genuinely sexy instead of displayed like a certificate.
 
-GATE 9 — Off Six-Fourteen
+My only small flicker of unease is that I know this whole encounter is engineered and Vee doesn’t. The tenderness is real, but it is also being used with unnerving precision. I’m swooning and watching the trap close at the same time, which is apparently exactly where this book wants me.
+
+And yes, ending before the kiss is cruel. I am already turning the page.
+
+GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: Vee’s joy pulled me in, while “I know where he lives” turned that joy quietly ominous. I need the hike now, both because I want more of Pace and Vee together and because I no longer trust any apparently innocent destination he gives her.
+WHY: This gave me emotional intelligence, appetite, and erotic charge without rushing any of them. She chose the exception only after he genuinely accepted her no, and I urgently need to see what happens when she closes that distance.

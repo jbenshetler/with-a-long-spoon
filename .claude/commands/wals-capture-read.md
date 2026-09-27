@@ -67,10 +67,9 @@ Lane is derived from the id: `claude-*` headless on Claude subscription OAuth;
 block); any id with a `provider_model` in its reader block is **paid
 OpenRouter**.
 
-**`claude-fable-5` is retired from capture but its gates are kept** (author
-rulings 2026-09-14 and 2026-09-26): the call is expensive and `claude-opus-5`
-covers that slot. Every other retired model's capture directory was erased on
-2026-09-26. Fable stays on the cold-read panel, a different instrument.
+**Retired models' capture directories are erased, not kept** (author ruling
+2026-09-26; `claude-fable-5` and `gpt-6-sol` included). Git history holds the
+record. `claude-opus-5` covers the fable slot.
 
 **Token rule (standing):** never launch an OpenRouter model without specific
 author authorization. Membership in the roster is **not** that authorization —

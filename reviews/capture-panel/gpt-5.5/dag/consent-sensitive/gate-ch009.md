@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha b011ff26b790 · 2026-09-14*
+*capture-dag-v2-rich · gate ch009 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 0149553a3cd5 · 2026-09-26*
 
-REACTION —
+REACTION — Oh, this one got me.
 
-Oh, this one made me breathe out.
+This chapter is quiet, but it is absolutely not neutral. It’s doing that dangerous early-romance thing where every courtesy feels erotic because Vee has been so starved of being treated with spaciousness. And honestly, I felt it with her. The text that doesn’t demand an answer immediately. The showered-and-shaved care of him in the lobby. The way he doesn’t explain the menu at her like she’s stupid, but also doesn’t leave her stranded. “May I choose?” hit exactly where it was meant to hit. I understand why she hands it over. I understand why that feels like rest.
 
-After all that heat and choreography and hidden machinery, I loved getting Vee in her room with Cassie, just fizzing. This chapter is tiny, but it matters because Vee is not narrating herself as conquered or dazzled into something she didn't choose. She's practically vibrating with the fact that she *stopped him*. That distinction landed hard for me. She wants Cassie to understand: nobody did anything to me. I did it on purpose. And honestly, I needed to hear her say that as much as Cassie did.
+And that is also where my little consent-and-power dashboard lights up, because the jacket means I know this is not just a man being naturally considerate. He is part of a plan. So every beautiful thing he does has a double edge: it is truly beautiful to Vee, and also being deployed. The chapter knows that, I think. It lets me feel the pleasure and the danger in the same mouthful. The food scene is so sensual without needing to be “sex scene” sensual: hunger, unfamiliar names, him ordering, her copying his hands, the right hand, the fullness, the drifting out of vigilance. I was very aware of how much relief she is taking in not having to steer.
 
-Cassie remains my anchor. Bless her blunt little vigilance. "How much did he give you to drink?" is exactly the question someone should ask, and the book lets it be loving rather than mood-killing. That is the kind of consent-awareness I trust: not a lecture, not a neon sign, just the best friend doing the quick perimeter check before she celebrates. And once Vee answers, Cassie believes her. That felt so good.
+That line about stopping waiting for the evening to go wrong hurt me. That’s exactly the vulnerable place. Pace is not pressing on a no; he is doing something more frighteningly effective, which is giving her enough room that she walks toward him herself. The kiss moment is a perfect example: she states a rule, and he accepts it. That would normally be green-flag city for me. Here, because I know the larger architecture, it is also a hook baited with respect. And the book seems to know that. It is not asking me to ignore the power of the move. It is showing me why it works.
 
-The "off six-fourteen" bit made me laugh and tense up at the same time. Vee is high on being chosen, and her idea of having practical information is... not robust. "See. I know where he lives and everything" when she absolutely does not know where he lives made my little internal alarm sit upright. But the chapter knows that. Cassie knows that. The humor is covering a real concern, and that makes me trust the book more, not less.
+I also loved Cassie here. “That’s not a boy. That’s a man.” Cassie is still seeing, even if she can’t see the whole trap. Her presence steadies the book for me because Vee is not floating in an all-male fantasy vacuum. She has someone who notices tone and stakes. I keep worrying about Cassie being edged out, and that worry sharpened here, because Vee’s world is clearly narrowing toward Randi/Pace, but Cassie still has weight.
 
-What pulled me most was how happy Vee is in her own agency. The kiss is important because he didn't press, didn't hover, didn't make the refusal into a negotiation. He honored the no so thoroughly that she had room to discover the yes. That is dangerous catnip for me as a reader, because yes, I see the larger trap from the jacket, I see Randi and Pace's plan circling her, but inside this scene the emotional fact is clean: Vee experienced herself choosing, and it lit her up.
+The almost scary thing is that I wanted the kiss too. I wanted her to make the exception. That’s the book doing its job, and also the book proving the jacket’s threat: every yes freely given, and that being the problem. I’m still in. Wary, but very in.
 
-I am still wary. Very. The hike is a classic intimacy escalator: isolated, physical, dependent on his preparation, his terrain, his knowledge. And Vee is already converting unknowns into romance. But this chapter keeps Cassie's dry little flashlight on the path, and for now, that is enough for me to keep walking.
-
-GATE 9 — Off Six-Fourteen
+GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 8
 NEXT: 8
-ALMOST-STOPPED: "See. I know where he lives and everything."
-WHY: Vee's joy got me, especially because the chapter frames her kiss as her own choice after a real retreat from him. I'm worried about the hike and how little she actually knows, but Cassie's presence tells me the book sees the danger signs too, so I want the next chapter now.
+ALMOST-STOPPED: "She let him carry it. It hadn't occurred to her that she could."
+WHY: That line is both swoony and alarming, which is exactly the contract I’m here for. The chapter made his restraint feel genuinely seductive while keeping me aware that “rest” can be engineered, and I want to know whether the book keeps honoring that tension.

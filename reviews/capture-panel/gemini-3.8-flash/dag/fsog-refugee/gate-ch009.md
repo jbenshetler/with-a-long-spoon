@@ -1,20 +1,23 @@
-*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b011ff26b790 · 2026-09-19*
+*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0149553a3cd5 · 2026-09-26*
 
-REACTION
+REACTION:
 
-God, my heart aches for her. It really does.
+Oh, god. This chapter ruined me in the best possible way, but I have a knot the size of a fist in my stomach.
 
-This is the exact high of coming back from a date where someone finally treated you like a person—when you've spent your whole life being a decorative object or a target, and a man simply *steps back* and lets you exist, and it feels like the heavens opened up. The way she spins in the tiny dorm room, nearly taking out the closet door, so full of it she can’t even sit in her skin... it’s so sweet, and because I know about the bench, and the pointing game, and Randi’s calculated little swerves, it just feels like watching someone dance barefoot toward a bear trap.
+First of all: *“May I choose?”*
+That right there is the entire reason I read romance. That is the exact thing I have been hunting for through fifty different badly written billionaire books. It wasn't him taking over because he knows better or because he's an arrogant prick who thinks a woman can't read a menu; it was him seeing that she was overwhelmed, asking for the surrender, and waiting for her *yes* before he moved an inch. And the way she just melted into that? The relief of handing the wheel over to someone who is actually looking out for you? The hunger! When she tore the bread and ate without policing herself, without her mother’s voice in her head, without the endless Greek-life calorie counting—it was so sensual, and it was just *dinner*. He feeds her. He fed Randi the thin-sliced apples, and he’s feeding Vee the warm, smoky, bright food she didn’t even know how to ask for.
 
-What hits me hardest is what she tells Cassie: *"Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose."* That line is everything. That’s the entire thesis of the trap, isn’t it? The jacket said it: *Every yes was freely given. That was the problem.* Pace makes the space so wide, so polite, so completely free of pressure, that stepping across it feels like an act of radical personal power. She genuinely thinks she's the one steering. She pulled him back! She made the exception! She's glowing with the triumph of her own desire, not realizing the entire field was tilted before she even sat down in that coffee shop.
+And the end, under the tree. When she put up her little defensive wall—*“I don’t kiss a man I’ve known a couple of days”*—and he didn't push. He didn't pout, he didn't lean in anyway to "prove" her wrong, he didn't do the gross alpha-male smirk. He accepted her boundary immediately and without punishment. *That* is why she broke it. Because a woman can only safely choose to surrender when she knows her *no* actually has teeth. The fact that he gave her the space made her pull him back and say *I’m making an exception.* It’s so gorgeous. It’s the hottest thing in the world to me.
 
-And Cassie. God bless Cassie. Cassie is the only grounded, sharp, suspicious thing in this girl's orbit. *"That's the whole address. Off six-fourteen."* Cassie with the flat little questions, asking about the alcohol, clocking the vagueness, being the good friend who teases but actually worries. It’s such a relief to have her in the story as a counterweight to all of Randi’s polished, perfumed orchestration.
+*Except.*
 
-Now he’s taking her out to the woods. To the gravel road. To the trails. Every instinct in me screams *don't go to the house off six-fourteen*, but at the exact same time, I am dying for them to be alone together again. I want to see them on this hike. I want to see how he handles her when it’s just the two of them out in the open, away from the campus.
+I know what Chapter 1 was. I know Chapter 3 happened. I know he and Randi plotted this whole damn thing on the quad while looking at her like a prize. Pace is being so utterly, exquisitely tender with her, and it feels completely genuine on his side—I don't think he's faking the care, which somehow makes it a thousand times more dangerous—but it is built on a foundation of absolute deceit. Vee is falling into this feeling like she’s finally found the one safe place in the universe where she can let her guard down, where she doesn't have to perform. And she’s walking straight into the jaws of a trap set by him and the glamorous girl she thinks is her new best friend.
 
-GATE 9 — Off Six-Fourteen
+It makes my chest ache. I want them to kiss so badly, I want her to have this warmth, and at the exact same time I want to yell at her to run back to Cassie’s bunk and lock the door. God, I am completely hooked.
+
+GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The contrast between Vee’s pure, spinning joy at having agency and the dreadful knowledge of how thoroughly she's being set up is excruciating in the best way. I need to see this hike.
+WHY: The consent dynamics here are absolute perfection—him stepping back the second she sets a boundary is what makes her step forward, and it’s breathless. The terrifying irony of how tender he is while carrying this massive secret is completely addictive. I need to see that kiss.

@@ -49,7 +49,7 @@ the same memory the cold-read panel trusts:
   `tools/checkpoint_context.py --scene <slug>` (checkpoint + recent raw window), and
   additionally read the checkpoint *after* N if one exists — place-in-novel
   needs what follows, not just what precedes.
-- Use a Claude-family checkpoint (`claude-fable-5` or `claude-opus-4-8` under
+- Use a Claude-family checkpoint (`claude-opus-4-8` or `claude-opus-5` under
   `reviews/cold-read/<model>/checkpoints/`) as the memory of record.
 
 Then read `scenes/$1.md` itself, last, inside all of that.

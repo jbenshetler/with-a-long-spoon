@@ -1,14 +1,20 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha b011ff26b790 · 2026-09-14*
+*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 0149553a3cd5 · 2026-09-26*
 
-REACTION — Oh, this is exactly the exhale I needed after knowing the machinery behind their meeting. Vee is incandescent here. The spin, the pillow, “*Look at me*”—she isn’t merely pleased that Pace kissed her; she’s thrilled because she chose the kiss after he accepted her no. That distinction matters enormously to her, and therefore to me. “Nobody did anything to me” is almost painfully on-theme given what I know, but the chapter lets her mean it fully. Her choice was real. The concealed setup is also real. The book is still holding both truths without using one to erase the other, which is why I’m still willing—eager, actually—to follow it somewhere dangerous.
+REACTION — Oh, this got me. The food nearly undid me more than the kiss. Vee eating without the watcher in her head, discovering that her hunger goes back much further than noon, was so tender that I could feel the trap closing and still wanted to lie down inside it with her. That is exactly the dangerous promise here: Pace doesn’t merely give her pleasure; he gives her relief from the exhausting labor of managing herself. Of course she is going to trust him. Of course handing him a choice feels like rest.
 
-And Cassie. I love her. She doesn’t puncture Vee’s happiness, but she checks the instruments: alcohol, name, location, terrain, shoes. She gives Vee room to glow while quietly collecting the information someone would need if the glow turned bad. I’m paying very close attention to “off six-fourteen,” because the title makes that vagueness feel deliberately ominous, and because Vee thinks knowing approximately where Pace lives counts as knowing where she’ll be. It doesn’t. Cassie knows it doesn’t. The book knows it doesn’t. Good.
+And I am watching every inch of that trust accumulate. “She was already learning she could trust where he was taking her” made every alarm in me quietly light up, because she does not possess the information that would make that trust meaningful. He chose the restaurant, the food, the route, the pace of the evening—and outside her sight, he and Randi chose her. None of those individual acts is coercive. Most are lovely. Together they are an architecture she cannot see.
 
-I’m also increasingly heartsick about how perfectly Pace’s restraint answers Vee’s hunger. He respects the spoken boundary, and that gives her the safety to reverse it herself; on the level of this date, that is genuinely lovely. But he and Randi engineered the encounter that brought him within reach of her choices at all. The trap—if I can call it that while Vee is this happy—is built out of doors she sincerely wants to walk through. That is so much more disturbing than simple coercion, and so much more compelling.
+The chapter knows this, though. It absolutely knows. Her pleasure in surrendering choice is not being presented as proof that Pace is entitled to make choices for her. It’s showing me why being managed will feel like care to a woman who is tired of managing every breath. That distinction is why I’m still here and very much caught.
 
-GATE 9 — Off Six-Fourteen
+The hand-holding snagged me: “No ceremony, no question in it.” I noticed. After all the careful asking, that tiny assumption matters. But then she gives him an actual no about the kiss, and he accepts it instantly—no sulk, no persuasion, no eroticized pressure. And that respect creates the space in which she changes her own mind. I believed her exception was hers. Which is, horribly and beautifully, the whole thesis of this book: her choices are real, and the conditions around them are being cultivated.
+
+Also: “That’s not a boy. That’s a man.” Cassie, sweetheart, you have correctly identified the appeal and have no idea what else you’ve identified.
+
+I would text a friend: *He fed the hungry girl until she stopped monitoring herself, respected her no, and now I’m furious because obviously I want her to kiss him too.*
+
+GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-ALMOST-STOPPED: none
-WHY: Vee’s joy got me, Cassie’s quiet vigilance reassured me, and the vague road address put a cold little edge under all that warmth. I want the hike immediately, especially because Vee believes she has enough information and the book very clearly knows she doesn’t.
+ALMOST-STOPPED: “He took her hand. No ceremony, no question in it — he simply did it, like it was already settled between them and always had been.”
+WHY: The chapter made surrender feel like profound rest without letting me forget that Vee’s trust is being cultivated inside a plan she cannot see. His immediate acceptance of her no kept me convinced the book understands the difference between creating desire and overriding choice—and that final “exception” has me reaching for the next page.

@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha b011ff26b790 · 2026-09-24*
+*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 0149553a3cd5 · 2026-09-26*
 
 REACTION
 
-"Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose."
+God, the velvet on this trap is inches thick.
 
-Oh, Vee. *God.*
+Look at what he does under the tree on the walk back. She puts up the wall—the good-girl rule, the mother’s script, *I don’t kiss a man I’ve known a couple of days*—and he doesn’t push. He doesn’t wheedle, he doesn’t tease, he doesn’t do the boy thing of leaning in anyway to see if she really means it. He just smiles, respects it entirely, and starts walking. And in doing that, he makes the rule feel small, silly, and entirely *hers* to discard. He leaves her holding the boundary like an embarrassing coat she brought to a party where it’s seventy degrees inside. So what does she do? She drops it herself. She calls him back. She makes the exception. *She* chooses it.
 
-This chapter is tiny, quiet, and completely devastating. It hits that exact note the jacket warned about: "Every yes was freely given. That was the problem." Vee feels so triumphant, so autonomous, so in control of her own waking desire because she was the one who pulled him back and made him kiss her. She genuinely thinks she took the wheel. And we, the readers, are sitting here with the awful, heavy knowledge of Chapter 1 and Chapter 3, watching the trap close around a girl who thinks she's just stepped out into the sunlight.
+*Every yes was freely given. That was the problem.* The jacket warned us, but seeing the mechanics run in real time is breathtaking and horrifying.
 
-The framing here is doing exactly what I need it to do. Rivers isn't asking us to swoon naively; the prose is intensely aware of the dread. It’s written with this heartbreaking warmth—Vee spinning clumsy in the dorm room, nearly taking out the closet door, Cassie being the pragmatic, grounding friend asking for a name for the state troopers—while underneath it, every single detail is a landmine. "Off six-fourteen." We know what's off six-fourteen. We know what's in that bedroom. We know who helped put her on that road.
+And the food. Oh, the food. After seeing Randi in chapter one with her thin-sliced apple, counting every calorie, and Randi in chapter three looking at a cheeseburger and saying flatly *I can’t eat that*, watching Pace sit across from Vee and just… feed her. Not with judgment, not with rush, but with that courtly, terrifyingly soft *“May I choose?”* Vee has been starving in every possible sense—socially, emotionally, physically, sexually—policing her own lush body because her mother taught her that taking up space was vulgar. And Pace just quietly hands her permission to be an animal with an appetite. He orders the rich, dark, smoky things. He uses his right hand, eating without self-consciousness, letting a drip fall on his skin and licking it off without breaking stride. He models unashamed consumption, and Vee falls into it like a child falling into a feather bed.
 
-Cassie's dry, protective presence is such a necessary anchor. She represents the unvarnished real world that Vee is slowly detaching from—Cassie asking the basic logistical questions ("That's the whole address?") that Vee laughs off because she's drunk on being attended to. It’s so true to being twenty-one and dazzled by a slightly older guy who feels like an adult compared to the boys around you.
+The most insidious part is how utterly, genuinely *good* it feels from inside her head. The exhaustion of having to manage men, of having to manage her own appetite, of having to stay on guard—he just lifts the whole weight off her shoulders and sets it on the floor. She stops hearing the restaurant clatter; she loses the thread of the conversation; she feels the relief of total surrender before she even realizes she’s surrendered anything. It’s predatory, but it’s predatory in the exact shape of what she needs to heal. That is the darkest kind of manipulation there is: the kind where the trap is lined with the exact medicine you’re dying for.
 
-It’s psychological horror disguised as the sweetest morning-after college debrief. I’m completely hooked, and I’m terrified for her.
+Even Cassie bought it. Cassie, who clocked Randi immediately as an empty sorority shell, hears about the text with no immediate demand for a reply and says, *“That’s not a boy. That’s a man.”* Everyone around Vee is ushering her toward this edge because from the outside, Pace looks like the gold standard of healthy, mature masculinity.
 
-GATE 9 — Off Six-Fourteen
+I’m riveted. The book isn’t naive to a single millimeter of this. It knows precisely what Pace is doing, it knows how an engineered choice operates, and it’s letting us watch the cage assemble piece by piece out of pure tenderness.
+
+GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 ALMOST-STOPPED: none
-WHY: The dramatic irony is agonizing in the best way; Vee's fierce defense of her own agency ("I did it on purpose") while walking straight into a manufactured trap is brilliant, chilling character work.
+WHY: The psychological mechanics of how Pace engineers her consent—giving her all the room in the world until she chooses to give up her own boundaries—are executed with chilling, breathtaking precision.
