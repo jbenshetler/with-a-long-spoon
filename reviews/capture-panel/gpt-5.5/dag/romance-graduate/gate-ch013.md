@@ -1,19 +1,16 @@
-*capture-dag-v2-rich · gate ch013 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~25b7bedbae77 · 2026-09-08*
+*capture-dag-v2-rich · gate ch013 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 60685a587d38 · 2026-09-27*
 
-REACTION — 
+REACTION — Oh, I loved this little exhale. After the rain-truck scene, I needed someone sane in the room, and Cassie being sane without flattening the magic is exactly why I keep trusting her. She clocks the flannel instantly, of course she does, but she doesn't sneer, doesn't panic, doesn't turn Vee's shining thing into a lecture. She lets Vee tell it. That matters.
 
-Oh, I liked this. Not in the truck-chapter way where my whole nervous system sat up, but in the delicious aftershock way, where the thing that happened is still alive because Vee is telling it to other women and getting to feel herself become the girl it happened to.
+And Vee. God. The way she says “And then we ate” like it’s sex is so her now, and I’m completely bought in. The food, the body, the being taught without being shamed — it’s all braided together. She sounds changed but not erased. She’s not just mooning over a man; she is coming home with proof that her body can climb a mountain, get hungry, be seen, be cared for, and want. That’s potent.
 
-This chapter understands one of my favorite romance pleasures: the debrief. The cafeteria table, the friends leaning in, the story getting hotter because she’s finally saying it out loud. And Vee knows she’s performing a little. She knows the shirt story is becoming shinier in the telling, but it’s also true, so who cares. That’s such a real young-woman thing: turning a private erotic charge into a social object and watching your friends confirm, yes, that was insane, yes, that meant something.
+The chapter is tiny, which I noticed hard. Like, I turned the page and went, wait, that’s it? But it doesn’t feel lazy to me here. It feels like a held breath after the big scene. It lets the truck scene land through Cassie’s eyes, and it quietly reassures me that Vee still has a witness outside Pace and Randi’s orbit. Cassie saying “Keep the shirt” did something to me. It’s permission, but clean permission. Not Randi’s glittering permission that always has a hook in it. Cassie’s is just: yes, have your want, but for God’s sake get real boots.
 
-Kayla is fun. She’s loud and messy and exactly the right audience for “his house, Saturday, two o’clock.” Meg is a quieter pleasure, too, because she doesn’t flatten Vee’s feelings but she also keeps one foot on earth: “Sometimes they even are.” That line did a lot for me. It doesn’t kill the romance. It just lets adulthood breathe in the room for a second.
+I am still worried. Maybe more worried, honestly, because Cassie being moved by the story means Pace’s care is persuasive even to my anchor. He really did do the beautiful thing. He really did stand in the rain. The danger is that the beautiful thing is true.
 
-And Pace not even being present but still absolutely controlling the temperature of the chapter? Annoying man. Effective man. “Would you come to my house Saturday. Two o’clock.” Sir, that is barely a text, and unfortunately I would also read it a thousand times. The two o’clock of it is filthy by implication. Not dinner. Not drinks. Not an errand. Afternoon. A whole bright block of time where nobody can pretend they don’t know why she’s going through that door.
-
-I am impatient now, though. In a good way, mostly, but also with a little warning light. We’ve had the mountain, the shirt, the almost-kiss, the friends reacting. The book has earned anticipation, but it cannot keep feeding me the smell of bread forever. Saturday needs to matter. I don’t need instant sex if the charge is this good, but I do need the door to open onto actual heat, not more elegant orbiting.
-
-GATE 13 — What to Wear  
-DECISION: CONTINUE  
-CAPTURE: 7  
-ALMOST-STOPPED: "He's asking me to his house."  
-WHY: That line didn’t almost stop me because it was bad; it almost stopped me because if the book had ended the chapter there and then stalled again, I’d be annoyed. But the girlfriend-table energy worked, Vee’s anticipation is contagious, and two o’clock at his house has me seated.
+GATE 13 — Rye
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: "Borrow real boots next time."
+WHY: I almost stopped there only because the chapter ended so abruptly that I felt the page drop out from under me. But emotionally it worked: Cassie kept the book grounded, Vee got to glow without being made foolish, and I absolutely want the next charged move now.

@@ -1,23 +1,22 @@
-*capture-dag-v2-rich · gate ch013 · gemini-3.8-flash · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch013 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 60685a587d38 · 2026-09-27*
 
 REACTION
 
-I am sitting here with my stomach in absolute knots. 
+Oh, Cassie. My chest aches.
 
-First of all, the contrast between Vee telling Cassie about the truck in Chapter 12 versus the sanitized, rom-com version she dishes out to Meg and Kayla here is *so* telling. To the dorm girls, it’s the standard, swoony college courtship play-by-play: the boy selflessly gave her his shirt, he took her up a mountain, she's climbing the walls because they've only kissed once, tee-hee! She leaves out the fact that she deliberately undid every single button and exposed herself to him in the freezing cab, just like she leaves out the heavy, choking silence of his gaze. She has to keep it light and palatable for the dining hall table because if she said what actually happened—the raw exhibitionism, the shivering, the way he *looks* at her like he's measuring her soul—they’d look at her like she was crazy. Or worse, dangerous.
+This chapter is barely two pages long—literally a breath, a tiny exhale after the soaking, shivering intensity of the truck in chapter 12—and yet it did something so delicate to me that I stared at the last line for a full minute before I could blink.
 
-And Kayla’s running commentary is hilarious, but God, it makes my skin prickle: *"That's not a message, that's a ransom note."* *"Two in the afternoon is not dinner... He wants you for the afternoon."*
+First of all, I am obsessed with how Vee reports her dates to people. When she told Randi about the dinner, Randi turned it into a performance, a thrill, an erotic dare (*"let your mountain man ravish you against a tree"*). But with Cassie, Vee tells the raw, unvarnished truth: the blister, the sandwich eaten with pure animal joy, the sheer pride of getting up a mountain on her own two legs, and then... the stripping. And look at what Cassie does with it. Cassie is the only person who doesn't treat Vee like a game piece or a spectacle. She doesn't tease, she doesn't press for salacious details. She just listens. And when Vee confesses to knocking on that glass and taking her shirt off—exposing the very shame and flesh she’s spent years hiding—Cassie doesn’t judge her. She just says her name softly: *"like setting something down where it wouldn't break."*
 
-They think it’s just the classic college milestone: *ooh, you’re finally going over to the guy’s apartment, shave your legs and pick out cute underwear.* But I know what's in that house. I know about the gravel road off Route 614, I know about the custom-built oiled walnut bench peaked at the hips with nowhere to brace, and I know Randi wept on it until she broke. 
+God. That line ruined me. Because Vee *is* going to break. We know she is. The trap is so tight now. She’s wearing his flannel, she thinks she chose every single second of it, she thinks she claimed her own sexual agency by calling him back into that truck—and she did, in a way, which is what makes the horror of Pace and Randi's plan so magnificent and terrible. Every yes *is* freely given.
 
-Vee thinks she’s stepping into an afternoon date. She has no idea she's walking straight into the inner sanctum of the trap. The courtly restraint, the twelve days of waiting, the strict diet of tiny permissions—he has starved her out so thoroughly that an unadorned text saying *"would you come to my house Saturday. Two o'clock"* feels like an intoxicating revelation instead of a summons.
+I usually get annoyed when chapters are this short—I’m trained on meaty, twenty-page romance chapters where scenes have a beginning, middle, and an end—but this didn't feel like a lazy shortcut. It felt like the quiet, sacred landing after a jump. Cassie telling her, *"Keep the shirt."* A blessing on something that is secretly a curse.
 
-I am vibrating. The slow burn is agonizing in the best possible way, but now the door is finally open. Saturday at two. I need to be in that truck with her when she pulls into his driveway.
+I need to see where this goes next. Is Randi going to see her in that flannel? Does Pace go back to Randi now to report on the hike, the way he did after the froyo? Because if Pace tells Randi that Vee stripped for him in the truck... Randi is going to lose her absolute mind.
 
-** · prose-sha ~25b7bedbae77*
-
-GATE 13 — What to Wear
+GATE 13 — Rye
 DECISION: CONTINUE
-CAPTURE: 8.5
+CAPTURE: 8
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The tension is suffocating because her friends think this is a cute normal college hookup, while I know exactly what kind of house and furniture she's walking into. The restraint of Pace's text is terrifyingly brilliant. I have to see Saturday at two o'clock.
+WHY: It was short as a whisper, but the emotional intimacy between Vee and Cassie gave me chills. The contrast between Cassie’s tender grounding and the spiderweb Vee is tangled in makes me desperate for the next chapter.

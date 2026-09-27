@@ -1,15 +1,14 @@
-*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~25b7bedbae77 · 2026-09-07*
+*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 60685a587d38 · 2026-09-27*
 
-REACTION — Oh, I loved getting Vee in a room with ordinary girlfriends who aren’t managing her. This is the first time she’s been able to turn Pace into a story, embellish it a little, blush over it, and enjoy being the girl everyone crowds around. After so much secrecy and orchestration, that felt wonderfully normal. And “They’re all nice until you don’t want them and then they’re wonderful” made me laugh because yes, exactly.
+REACTION — Oh, Cassie. “Just her name, like setting something down where it wouldn’t break” got me. She doesn’t interrogate Vee, tease the tenderness out of her, or turn the confession into entertainment. She just understands that something enormous happened and handles Vee accordingly. I trust her more every time she opens her mouth.
 
-But the retelling also made me uneasy in a very specific way: she leaves out that she undressed because she wanted him to watch. She replaces her own charged, transgressive choice with the safer story of his chivalry, then tells them she didn’t kiss him because he was cold. That isn’t false, but it hides the most important thing that happened—the thing she did. I don’t think she’s deliberately lying to her friends. I think she still lacks language for her appetite unless she is alone inside it, and that makes her frighteningly easy for Randi or Pace to narrate back to herself.
+And Vee saying “And then we ate” with the emotional weight another heroine would give a kiss—yes. That’s her real intimacy. Pace fed her after her body had earned its hunger, taught her something without humiliating her, then looked when she chose to be looked at. She isn’t dazzled only by him; she is dazzled by herself. “I got up a mountain” may actually matter more than the wet-shirt moment, which is saying something, because the wet-shirt moment absolutely worked on me.
 
-I was glad Meg gently punctured the “he’s different” bubble without sneering at her. She lets Vee keep her happiness but reminds me that attention at the beginning is not proof of anything. Meanwhile Pace’s invitation absolutely got me. Two o’clock, no explanation, no clothes guidance, just his house: it is almost comically engineered to leave the empty space filled entirely by Vee’s wanting. The jacket has already told me there is a bench waiting beyond that door, so Kayla’s “He’s not asking you over to eat” landed like someone striking a match.
+This was tiny, but it didn’t feel empty. It felt like Vee coming home still lit from inside and placing the experience in the hands of the one person who isn’t trying to steer her. Also: “Borrow real boots next time.” Cassie’s blessing, in Cassie language. I want to hug her and warn her that she is about to become the person Vee tells less and less precisely because she sees too clearly.
 
-Yes, I am going through that door. I’m excited, turned on, and deeply suspicious of how perfectly Pace understands that anticipation itself can make Vee arrive already halfway surrendered.
-
-GATE 13 — What to Wear  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: This was lighter than the hike, but it sharpened something important: Vee can confess that Pace is driving her wild while still editing her own desire out of the story. And now the house—and whatever that unexplained two o’clock invitation contains—is finally here.
+GATE 13 — Rye
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: This was a warm little aftershock rather than forward motion, but Cassie’s quiet care made it land. Now I desperately want to know what happens when Pace sees Vee in his shirt again—and how long Vee can keep telling Cassie the truth before the secret architecture around her begins separating them.

@@ -1,23 +1,20 @@
-*capture-dag-v2-rich · gate ch013 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 25b7bedbae77 · 2026-09-24*
+*capture-dag-v2-rich · gate ch013 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 60685a587d38 · 2026-09-27*
 
-REACTION:
+REACTION
 
-Look at the difference between the story Vee tells Cassie in private and the story she tells the girls over fries in the dining hall.
+Oh, Cassie. God, I love her so much it physically hurts.
 
-In chapter 12, with Cassie, she confessed: *I knocked on the glass, I called him back, I took my shirt off on purpose.* But here with Kayla and Meg, it gets smoothed out into standard dorm-room banter: *He stood in the rain like a gentleman so I could change, and then the cop interrupted our almost-kiss!* She edits out her own exhibitionism, her shame, the raw vulnerability of stripping in that cab, and leaves only the shiny romantic comedy beat. It’s so painfully real—how college girls curate the messy, dark, humiliating edges of desire into neat little triumphs for the lunch table.
+This chapter is tiny—barely a scene, just the exhale after the storm—and it is doing massive, heavy-lifting structural work. Look at what Cassie does here. She doesn’t scold. She doesn’t pop the bubble with some cynical prick of suspicion. When Vee tells her about getting out of the truck, about Pace standing in the freezing rain to give her modesty, and then Vee *calling him back in* to strip for him, Cassie doesn’t say *Oh, Vee.* She just says *Vee.* Softly. Laying it down like glass.
 
-And then the dread creeps back in. *“He’s not pushing. It’s the opposite. He asks me first. The small things... And I’m the one who can’t think straight, climbing the walls over a man asking me what I want for dinner.”* Oh, Vee. You think the absence of obvious pressure is freedom. You think because he doesn't shove you against a wall, he isn't steering you. He has engineered a vacuum so total that your own starving appetite is doing all his work for him.
+Cassie knows. She might not know about Randi’s blueprint or the bench disguised as a kitchen table, but she knows what falling completely, defenselessly off a cliff looks like. And instead of wrestling Vee back from the edge—which would only make Vee defend him, isolate her, drive her straight into Randi’s waiting arms—Cassie just validates the human reality of it. *Look at you.* *Borrow real boots next time.* *Keep the shirt.* She keeps the door open. She stays the safe harbor.
 
-And now: the text. *Would you come to my house Saturday. Two o'clock.*
-Kayla is completely right: *"That’s not a message, that’s a ransom note."* It’s the exact, chilling lack of information Pace always uses. He leaves the canvas blank so she spends four days obsessing, filling it in with her own longing. And we know what’s waiting out off 614. We know about the quartersawn oak. We know about the custom spanking bench where Randi came undone.
+And Vee’s sheer, ecstatic belief that she is the author of her own undoing is heartbreaking: *"I called him back in. And I took my wet shirt off in front of him. On purpose. Me."* That is the trap, right there. Pace didn't have to touch her. He didn't have to push. He just stepped out into the rain, creating a vacuum so loud and honorable that Vee practically threw her clothes off to pull him into it.
 
-The warmth of this chapter—the golden light in the athletic dining hall, the fries, the girls arguing about what to wear—is such a brilliant, cruel contrast to the trap that’s about to spring. The book knows *exactly* how domestic and sweet a snare can look right before the door shuts.
+Every yes was freely given. It’s breathtaking how well Rivers is executing that promise. Vee feels powerful, chosen, daring, and competent. She climbed the mountain on her own legs. She called the man back. She kept the shirt. And the reader is sitting here with their stomach in freefall because we know the invisible walls of the maze are already six feet high.
 
-***
-
-GATE 13 — What to Wear
+GATE 13 — Rye
 DECISION: CONTINUE
-CAPTURE: 8/10
-NEXT: 10/10
+CAPTURE: 8
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: The contrast between the bright, giggly dorm banter and the suffocating dread of what's waiting at his house on Saturday is agonizing in the best way. Kayla calling his text a "ransom note" was brilliant—the book completely understands the calculated blankness Pace uses to make Vee unravel herself.
+WHY: The quiet aftermath with Cassie is the exact kind of emotional grounding I read for—Cassie's steady, unjudging presence proves the book knows precisely how fragile and terrifying Vee's manufactured agency really is.

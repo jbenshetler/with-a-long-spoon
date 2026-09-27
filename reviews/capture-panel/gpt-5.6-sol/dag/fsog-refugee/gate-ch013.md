@@ -1,13 +1,16 @@
-*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~25b7bedbae77 · 2026-09-07*
+*capture-dag-v2-rich · gate ch013 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 60685a587d38 · 2026-09-27*
 
-REACTION — Oh, she is gone for him, and I am delighted by how completely she knows it. Twelve days without counting. Telling the shirt story until it shines. Casually announcing the powerlifting as if she has not spent serious time thinking about what is under his clothes. And then admitting that his restraint is what has her climbing the walls—I felt so understood by that. Yes. A man hearing the small answers and treating them as real can be unbearably hot when you are used to men assuming access.
+REACTION — Oh, this made me ache in the nicest way. Vee tells Cassie the whole charged, vulnerable thing, and Cassie neither shames her nor makes her defend it. She listens closely enough to understand that Pace’s restraint is the important part: Vee called him back, Vee chose to undress, he received what she offered, and he did not turn her offering into permission for anything else. “He looked at me like I’d handed him something” is exactly it. That is the heat I want—the looking means something because he knows it was a gift.
 
-I loved seeing Vee loud and easy with Meg and Kayla. She isn’t being pulled away from everyone into some sealed little romance-world; she has friends teasing her, questioning the invitation, helping her enjoy the wanting. That makes me breathe easier after worrying about Cassie being displaced. Also: “That’s not a message, that’s a ransom note” is exactly right. Pace, sir, “Would you come to my house Saturday. Two o’clock” is criminally little information to give a woman who is already half-feral over you.
+And “Then we ate,” delivered like another woman might say they kissed, made me grin. Yes, sweetheart. The mountain, the sandwich, learning how to leave no trace without being humiliated: it all belongs to her pleasure. She’s becoming proud of wanting things, not only sexually but bodily, openly. She got herself up that mountain, and Cassie immediately gives that accomplishment back to her with “Look at you.” Pace may have set the pace and tended the blister, but neither he nor the chapter gets to steal the climb.
 
-And now the house. The door the whole book has been walking toward. I know what is inside it that Vee doesn’t, and the excitement has a dark thread running straight through it. She thinks this is the next spontaneous step between them; I know two people have imagined her crossing that threshold since before she knew his name. I want Saturday desperately, but Pace needs to let her choose what happens there with the same precision she is praising to her friends. The bench waiting inside his beautiful handmade world has me both hot and genuinely nervous.
+Mostly, though, I love Cassie so much I could cry. She had his location and Vee’s blood type mentally ready, but once Vee comes home glowing and tells her exactly what happened, Cassie believes her. No interrogation, no jealous little puncture, no warning inserted just to prove she was right to worry. Just that soft “Vee,” placed carefully under her happiness. Cassie’s suspicion has always been about hidden danger, not about controlling her friend, and this chapter confirms the difference beautifully.
 
-GATE 13 — What to Wear  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: This was mostly delicious anticipation, but it sharpened everything: Vee is frantic because Pace leaves room for her desire, and now she is about to enter the place where his care, control, and secret plan all meet. There is absolutely no chance I’m not going to that house with her.
+“I’m keeping the shirt.” “Keep the shirt.” That is friendship as shelter. And yes, keep it. I want her sleeping in it tonight, surrounded by the evidence that a man wanted desperately and still waited for what she chose to give.
+
+GATE 13 — Rye
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: This was quiet, but it let Vee’s happiness survive contact with the person I trust most. Now I badly want her alone with Pace again—and I want to see what happens when he finds her still wearing his shirt.

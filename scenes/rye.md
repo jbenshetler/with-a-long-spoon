@@ -6,31 +6,21 @@ Cassie's eyes went straight to the flannel — three sizes too big, not Vee's, a
 
 "I'm alive." Vee lowered herself into her desk chair like a much older woman, both hands bracing, a small wounded sound escaping. "Barely. My legs are going to file a complaint."
 
-Cassie swiveled her chair around, warm and dry in her sweats, her brown shag untangled, and took her in. "So," she said. "No windowless van."
+"No windowless van."
 
-"No van."
+"No van. Up a mountain and back. With my shoes on."
 
-"No van. He took you up a mountain nobody can see from the road, on a Sunday, and brought you back. With your shoes on." Cassie nodded slowly, like she was revising a file. "I had questions."
+"I had your blood type ready." Cassie swiveled her chair around, warm and dry in her sweats, and took her in. "And he, what. Carried you."
 
-"You had a whole witness statement ready."
-
-"I had your blood type."
-
-Vee laughed and then winced, because laughing used something that hurt. "Cass, it was *so much*. It's straight up. The whole first part is just trees, this tunnel of trees, you can't see anything, you just go up and up and your lungs quit, and the boots didn't fit." She lifted one foot a careful inch off the floor. "I have a blister like a second toe."
-
-"And he, what. Carried you."
-
-"He fixed it. Right there on the trail — he just had a kit, of course he had a kit, and he knelt down and took my shoe off and did the whole thing, the moleskin, the little scissors, and he didn't make it weird. Didn't make me feel like I'd wrecked the day." Something moved across her face that she didn't bother to hide. "His hands, though. And he's got these forearms. Cass. I think he's built. Under the jacket. I think there's a whole situation under there."
+"The boots didn't fit and I got a blister like a second toe, and he fixed it. Knelt down right there on the trail and took my shoe off and did the whole thing, and he didn't make it weird." Something moved across her face that she didn't bother to hide. "His hands, though. And he had this shirt on, this tight blue thing, and I was behind him the whole way up. Cass. I think there's a whole situation under there."
 
 "You think."
 
-"I'm reporting what I observed."
-
-"And then the top." Vee's voice lifted. "You come up out of the trees and there's a *lake*. This whole silver lake way down, and the rock at the top is almost black, and you can see everything, you can see for miles. And I got up there. Me. I have never gotten anywhere on my own legs in my life and I got up a mountain."
+"I'm reporting what I observed. And then the top." Her voice lifted. "You come out of the trees and there's a *lake*, and I got up there. Me. I have never gotten anywhere on my own legs in my life and I got up a mountain."
 
 "Look at you," Cassie said, and meant it.
 
-"And then we ate." She said it the way other girls said *and then we kissed.* "He packed lunch. Rye bread and this horseradish, and we passed the water back and forth, and there were cherries. Cass, that sandwich. I think you have to almost die on a mountain first. We didn't leave a crumb. We didn't leave a pit. You carry out what you carried in."
+"And then we ate." She said it the way other girls said *and then we kissed.* "Rye bread and horseradish and cherries. Cass, that sandwich. We didn't leave a pit. You carry out what you carried in."
 
 She slowed then, as she'd slowed at the tree the other night, and Cassie, who had been doing the dry thing, the file-revising thing, went still and stayed that way.
 
