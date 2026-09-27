@@ -74,7 +74,27 @@ And Vee, who had meant to say *I made an exception,* who had the dignified versi
 
 "…Yeah," she said. "Because of him."
 
-"You little minx." Randi reached over and swatted her on the arm, delighted, and Vee laughed, and for one whole giddy second felt like the most interesting girl in the loud bright room, like her life had finally tipped over into the kind of life that happened to people.
+"You little minx." Randi reached over and swatted her on the arm, delighted, and Vee laughed.
+
+"And he asked me hiking." It came out on the end of the laugh, the afterthought it had been walking back, and wasn't now. "Sunday. There's a trail he goes to."
+
+"Hiking." Randi said it like a word from another language, and then the smile came up under it. "Oh, that's *good*. That's a man who wants you to himself. Tell me you're going full nature girl up there. Hair down, no bra, let your mountain man ravish you against a tree."
+
+"No bra is not an option for me." Vee said it flat, and put a hand under one breast and lifted, once, to make the case. "I'd black my own eye."
+
+Randi laughed, a real bark of it that turned a head at the counter, and Vee laughed with her, and it was easy, the easiest thing yet, the two of them up on their shelf laughing at Vee's chest in a room full of girls who had all gotten dressed in the same room.
+
+"Tell me you've done this before," Randi said, when she could. "Hiking."
+
+"…No." Small. "I don't — no. Never."
+
+"*Vee*." Randi leaned in over the white table. "Even better. You're going up a mountain for the first time in your life with a man who knows the trail. Do you know how romantic that is? He's going to hand you up over the rocks and you're going to be out of breath at the top and it is going to be *spectacular*." She sat back and took her in as if someone had handed her a present. "You're going hiking. With your man."
+
+*Your man.* Vee let it sit on her, and it fit, and she did not take it off. And for one whole giddy second she felt like the most interesting girl in the loud bright room, like her life had finally tipped over into the kind of life that happened to people.
+
+"He'd ask, though," she said, quieter, when it had gone by. Her hands had gone to her thighs and were running slow down the tops of them and back, and she let them, and the picture Randi had hung up came back on its own, and this time she let it too — the trail, the top of something, him — and her voice went down after it. "Before he ravished me."
+
+"Ask and then ravish," Randi said. It came a beat late and low, the first thing she had said all day at Vee's own volume, and Vee, half up the trail still, felt her there in it beside her.
 
 "Randi!"
 

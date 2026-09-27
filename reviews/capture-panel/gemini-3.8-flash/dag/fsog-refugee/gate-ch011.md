@@ -1,24 +1,18 @@
-*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha fde22a7a2583 · 2026-09-26*
+*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha e651e6e0a867 · 2026-09-27*
 
 REACTION
 
-Oh, this is sickeningly good and it is absolutely turning my stomach in knots.
+Oh, God. My stomach is in absolute knots. This chapter was almost entirely dialogue over smoothies and yet it felt like watching someone walk barefoot across a frozen pond, completely enchanted by how smooth the ice is, while I’m screaming from the shore.
 
-First of all, Cassie. My god, my heart broke in the first two paragraphs. The way Cassie just looked at Vee, saw Randi already reaching for her wrist, and *folded whatever was in her eyes away*. And then Vee making that little excuse about why they shouldn't invite Cassie to the smoothie place—telling herself it's healthy to have separate friends while underneath something turns over and she just lets it lie. That is so real and so painful. We have all done that when a shiny, intoxicating new person walks into our lives, and watching Vee drift away from her anchor while thinking she's just "settling comfortably down into herself" hurts so bad.
+First of all: Randi. What a terrifying, masterclass performance. The sheer, chilling audacity of her pretending she forgot his name—*“Paul?”*—I actually gasped out loud. She is so slick, so utterly brilliant at playing the flighty, glamorous sorority sister who just wants the gossip, when every single question she asks is designed to take the temperature of the trap she set. And the worst part is, she’s not even just doing it maliciously; she is genuinely getting high off of it. When Vee tells her about Pace saying *“May I choose?”* and how she stopped keeping track of herself, you can see Randi practically drinking it down like a vampire. Randi knows *exactly* what that feeling is, because Pace did it to her on that walnut bench. She’s feeding Vee to him, but she’s also using Vee to experience the surrender she was too terrified to stay inside of herself.
 
-And then Randi. Randi is a masterclass in psychological horror wrapped in lip gloss and oat milk. The fake bad date story she tells just to prime the pump! Pretending she forgot Pace’s name—*"Paul?"*—are you kidding me?! She is Pace's girlfriend! She knows his name! But she plays the ditzy, supportive bestie so effortlessly that Vee just spills *everything*.
+And then Vee. My heart is just breaking for her. When she lifted her breast and joked about blacking her own eye, and they laughed together—it felt so human, so warm, so desperately needed. Vee has been an outsider for so long, suffocated by her mother’s rules and her own lush body, and here comes this golden girl pulling her into the inner circle. When Brooke and the other sorority girl came over and gave Vee that horrific, pristine, assessing once-over—that terrible social meat-market glare—and Randi just reached out, took Vee’s hand, and said, *“Vee’s my dear friend”*... God help me, I melted right alongside Vee. In that moment, even knowing the game, Randi *did* spend real social capital to protect her. Randi didn't flinch. She claimed her. That’s what makes this book so devastatingly good: it would be so easy if Randi were just an evil cartoon villain, but the affection and the defense are *real*, even inside the lie. Vee felt picked. She felt seen and chosen and safe.
 
-The way Randi mines her. She zeroes right in on the exact thing that matters: *"You let him choose for you. And you liked it."* She isn't just gossiping; she is gathering data for the machine she and Pace built. And Vee is so starved for a girlfriend to confide in, so high on the romance of having let a man feed her and kissing him against a tree, that she hands it all over. She rewrites her own agency right there at the table: she went from shouting in her room that she kissed him on purpose to whispering, *"Because of him."* Randi steered her right into that surrender.
-
-And the scene with Brooke. Helen Rivers writes social violence better than almost anyone I’ve ever read. The way a room of sorority girls can make a grown woman feel "the wrong size" in a pilled cardigan—it made my skin crawl with visceral memory. But what Randi does next is what terrifies me most. When she grabs Vee's hand on the table, in front of Brooke, and says, *"Vee's my dear friend"*—she isn't defending Vee out of pure kindness. She is staking a claim. She is playing the protector so that Vee will feel irrevocably indebted to her, safe with her, *chosen* by her. It gives Randi a thrill to claim the outsider in front of her pristine sisters, and it cements Vee's trust completely.
-
-"She did not feel, now, like a thing the room could turn and look at. She felt picked."
-
-God. She *was* picked. But not like this. She was picked off the quad like an apple off a tree by two people playing a game. The seduction isn't just Pace; it's Randi. Vee is falling in love with both of them at the exact same time, and she doesn't even realize she's inside the walls of the maze already. I feel sick with anticipation for the hike.
+And the dramatic irony is like a vise tightening on my ribs. Randi nudging her toward the hike: *“A man who wants you to himself... Ask and then ravish.”* Vee sitting there, tracing her own thighs, blushing over the idea of Pace asking before he takes her against a tree. The consent is so paramount to Vee—she literally specifies, *“He’d ask, though. Before he ravished me”*—and the tragedy is that Pace *will* ask. He *will* be gentle. He *will* make her feel like a queen. The consent on the mountain will be flawless, and it will be wrapped inside the most calculated setup imaginable. I need the hike immediately. I need her to get to that cabin.
 
 GATE 11 — Dear
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8/10
+NEXT: 10/10
 ALMOST-STOPPED: none
-WHY: The psychological manipulation here is suffocatingly brilliant—watching Randi actively groom Vee's loyalty while Vee just feels the pure, melting relief of being defended and chosen makes me desperate to see what happens when the three of them finally collide.
+WHY: The psychological tension here is suffocating in the best way; watching Randi seamlessly weave Vee deeper into the web while genuinely claiming her as a "dear friend" gave me full-body chills. Now that Randi has successfully hyped up the hike, I am dying to see Vee alone in the woods with Pace.

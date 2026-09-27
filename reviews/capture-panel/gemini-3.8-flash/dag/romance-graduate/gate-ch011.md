@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha fde22a7a2583 · 2026-09-26*
+*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha e651e6e0a867 · 2026-09-27*
 
 REACTION
 
-Oh, this made my stomach hurt in the absolute best, most horrifying way.
+God, my stomach hurts. I mean that in the absolute best, most twisted, gripping way possible. This chapter didn't have a single zipper unzipped, Pace wasn't even in the room, and it was suffocatingly intimate.
 
-The psychological maneuvering here is so subtle and so vicious. Randi pretending she forgot Pace’s name—*“Paul?”*—is pure, sociopathic theater, and it worked flawlessly. She gave Vee permission to gloat, lured her into laying out every single vulnerable detail of the date, and fed on it. And Vee, poor sweet Vee, sitting up on that high barstool like a display in a shop window, just pouring her heart out. The way Vee described him asking *“May I choose?”* and admitted that she let go of the steering wheel for the first time in her life… god, the layers of dramatic irony are suffocating. Pace fed that exact moment to Randi days ago, but he kept the *sweetness* of it for himself. Now Vee is handing the sweetness over to Randi, too.
+The social violence of this world is so exquisitely observed. The Smoothie Bird—the bare arms, the cropped quarter-zips, the pilled cuffs of Vee’s cardigan covering her "like an apology"—I felt that in my bones. Every woman has been in that room at twenty-one, feeling thick, wrong, underdressed, and exposed. And then Randi puts her right up on a display shelf in the window! Randi’s drink being the color of a literal bruise, while Vee sheepishly asks for oat milk just to perform for her. It’s so subtle, so humiliating, and so deeply real.
 
-And then Brooke walks in. That scene gave me chills. The predatory social ecology of a college smoothie shop captured with total, lethal accuracy. The cardigan with the pilled cuffs feeling like an apology. The tall girl doing a slow inventory of Vee and returning nothing. And then Randi taking Vee’s hand and saying, *"Vee's my dear friend."*
+And the way Randi works her! Pumping her for details about Pace, pretending she didn't even remember his name ("Paul?"), and then feeding on Vee's confessions like a vampire. "You let him choose for you. And you liked it." Randi knows *exactly* what that means because Pace does the exact same dismantling to her, just with a leather belt instead of Middle Eastern appetizers. The voyeurism of Randi getting off on Vee falling into the trap—and Vee just basking in the warmth of being listened to, totally unaware that she’s reciting a script written for her.
 
-It’s diabolical because to Vee, it felt like rescue. It felt like the prettiest, most untouchable girl in school publicly staking a claim on her, claiming her over the sorority royalty. But I know—and Randi knows, and Brooke probably suspects—that Randi isn't just protecting a friend. She’s claiming a prize. She’s touching her in public, feeling the thrill of possession, playing house with a girl she desperately wants to consume. When Randi knocked her knee against Vee’s under the table, my pulse spiked. The sexual tension between them is rising like heat off asphalt, but Vee doesn’t have a name for it yet; she just thinks she’s finally being loved.
+Then Brooke walks in. Holy shit, the temperature drop. The absolute mastery of female hierarchy. Vee immediately shrinking herself to protect Randi, and Randi—god, what a move—taking Vee’s hand, cool and damp, right in front of them: *"Vee’s my dear friend."* It’s a defense, yes, but it’s also marking territory. It cost Randi social capital to claim this "wrong-sized" girl in front of the Standards board, and Vee felt the weight of that cost and mistook it for pure love.
 
-The contrast between Cassie’s quiet, wounded exit at the start of the chapter—folding her eyes away, leaving Vee to her shiny new obsession—and Randi’s dazzling, suffocating embrace at the end is devastating. Cassie gave her safety; Randi is giving her a stage. And Vee walks home holding that empty pink cup feeling "picked." God. She has no idea what she’s been picked *for*.
+The tragic, heartbreaking irony of Vee walking home feeling "picked." She *was* picked! She was hunted, stalked, and selected like a prize heifer on the quad, and now she’s floating because the popular girl held her hand and the brilliant man wants to take her into the woods. She thinks she’s finally stepping into the sun, and the door is clicking shut behind her. I am sweating.
+
+***
 
 GATE 11 — Dear
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight it’s humming. Watching Randi manipulate Vee while simultaneously catching real feelings of possessiveness over her is masterclass character work, and I desperately need to see the hiking date.
+WHY: The psychological tension between Vee and Randi is just as erotic and terrifying as the sex scenes; watching Randi claim her as a "dear friend" while slowly reeling her into the net made my chest ache. I need this hiking date immediately.
