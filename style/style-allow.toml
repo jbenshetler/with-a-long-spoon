@@ -3056,11 +3056,25 @@ text = "She wrapped her hands around the little brass cage and the heat came thr
 note = "idiom (tea going 'all the way down'), not the 'the way he…' construction — false positive"
 
 [[ok]]
+fp   = "b2faff0943aa"
+rule = "the-way"
+file = "scenes/may-i-choose.md"
+text = "This time he met her all the way."
+note = "author 2026-09-26: 'all the way' is the idiom, not the filtered construction"
+
+[[ok]]
 fp   = "870ab4662ff2"
 rule = "unhurried"
 file = "scenes/may-i-choose.md"
 text = "He looked at the page a moment longer, not because he needed it but to weigh what he was choosing for her, and then he asked her only one thing — was there anything she wouldn't eat — and when she shook her head he ordered, unhurried, deliberate, building it as he went."
 note = "Line-edit pass 2026-08-05: chapter's one sanctioned 'unhurried' — on Pace, at the may-I-choose hinge; other two occurrences cut (finding 4)."
+
+[[ok]]
+fp   = "3f239f264e56"
+rule = "warm"
+file = "scenes/may-i-choose.md"
+text = "He was warm."
+note = "author 2026-09-26: first-contact sensation in the kiss; load-bearing warm"
 
 [[ok]]
 fp   = "2d83871911bc"

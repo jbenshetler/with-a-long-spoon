@@ -1,23 +1,18 @@
-*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0149553a3cd5 · 2026-09-26*
+*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha f261fc6f0775 · 2026-09-26*
 
 REACTION:
 
-Oh, god. This chapter ruined me in the best possible way, but I have a knot the size of a fist in my stomach.
+*God.* Oh, this broke me open in the best and most terrifying way.
 
-First of all: *“May I choose?”*
-That right there is the entire reason I read romance. That is the exact thing I have been hunting for through fifty different badly written billionaire books. It wasn't him taking over because he knows better or because he's an arrogant prick who thinks a woman can't read a menu; it was him seeing that she was overwhelmed, asking for the surrender, and waiting for her *yes* before he moved an inch. And the way she just melted into that? The relief of handing the wheel over to someone who is actually looking out for you? The hunger! When she tore the bread and ate without policing herself, without her mother’s voice in her head, without the endless Greek-life calorie counting—it was so sensual, and it was just *dinner*. He feeds her. He fed Randi the thin-sliced apples, and he’s feeding Vee the warm, smoky, bright food she didn’t even know how to ask for.
+This is the exact feeling I’ve spent years hunting for in romance. That moment when she says, "I don't kiss a man I've known a couple of days," and he *doesn't push*. He doesn't do the charming lean-in, he doesn't pout, he doesn't make a joke to wear her down. He just takes it as a true, fine thing, respects it completely, and starts walking. And because he gives her the space, because he makes her "no" entirely safe, it leaves her the room to actually want him. To dig her heels in, pull him back, and choose it for herself. "He left the last inch where it was." That one sentence! That is the purest, hottest form of control and care I have ever read. It makes her desire entirely *hers*.
 
-And the end, under the tree. When she put up her little defensive wall—*“I don’t kiss a man I’ve known a couple of days”*—and he didn't push. He didn't pout, he didn't lean in anyway to "prove" her wrong, he didn't do the gross alpha-male smirk. He accepted her boundary immediately and without punishment. *That* is why she broke it. Because a woman can only safely choose to surrender when she knows her *no* actually has teeth. The fact that he gave her the space made her pull him back and say *I’m making an exception.* It’s so gorgeous. It’s the hottest thing in the world to me.
+And the feeding! The dinner was so achingly tender. The parallel between Randi and Vee is hitting like a freight train right now. With Randi, it was the thin-sliced apple, portioned and calculated and guarded, a woman living under a microscope. With Vee, she’s starving—literally and emotionally—and he just quietly orders a table full of warm, rich food and lets her eat without making her feel watched or ashamed. "May I choose?" Yes. A thousand times yes. The relief of being able to surrender the small, exhausting decisions to someone who will take care of you without taking advantage of you.
 
-*Except.*
-
-I know what Chapter 1 was. I know Chapter 3 happened. I know he and Randi plotted this whole damn thing on the quad while looking at her like a prize. Pace is being so utterly, exquisitely tender with her, and it feels completely genuine on his side—I don't think he's faking the care, which somehow makes it a thousand times more dangerous—but it is built on a foundation of absolute deceit. Vee is falling into this feeling like she’s finally found the one safe place in the universe where she can let her guard down, where she doesn't have to perform. And she’s walking straight into the jaws of a trap set by him and the glamorous girl she thinks is her new best friend.
-
-It makes my chest ache. I want them to kiss so badly, I want her to have this warmth, and at the exact same time I want to yell at her to run back to Cassie’s bunk and lock the door. God, I am completely hooked.
+What is killing me, what is keeping me on absolute edge, is the shadow of what we know. We know the bench. We know Randi is at home, burning with some messed-up proxy-desire, sending him out to bring this girl into their orbit. Vee is falling into this with her whole, trusting, hungry heart because he is genuinely giving her what she needs—but the foundation of it is a trap. It’s breathtakingly gentle on the surface, and underneath, it’s a spiderweb. I am completely hooked.
 
 GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The consent dynamics here are absolute perfection—him stepping back the second she sets a boundary is what makes her step forward, and it’s breathless. The terrifying irony of how tender he is while carrying this massive secret is completely addictive. I need to see that kiss.
+WHY: The consent and pacing here are absolute perfection; he gives her total agency to step forward or walk away, which makes her stepping forward devastatingly sexy. The tension between his genuine gentleness and the secret scheme hanging over them makes this impossible to put down.

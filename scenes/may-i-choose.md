@@ -74,7 +74,7 @@ He moved on to the other one, a new piece of bread, and scooped a little of the 
 
 It was the right hand again, a pattern now, enough times over to be one: always the right, never the other, some consistent rule he kept without seeming to think about it, one more thing he knew that she didn't.
 
-Somewhere in there she stopped waiting for the evening to go wrong. She didn't notice she'd been waiting until she wasn't — that low background readiness she carried everywhere, the part of her always braced for the bill of a thing to come due, and it just wasn't there, and she let it not be there.
+Somewhere in there she stopped waiting for the evening to go wrong — that low background readiness she carried everywhere, the part of her always braced for the bill of a thing to come due, and it just wasn't there, and she let it not be there.
 
 A little later a drip of the smoky one slipped off his bread and caught the side of his hand, and he brought it to his mouth without a pause in what he was saying — quick, unthinking, the food was meant for hands and needed no ceremony — and went on.
 
@@ -96,7 +96,7 @@ He walked her back the long way, and the softness came with her, the night doing
 
 "I don't kiss a man I've known a couple of days," she said. It was out — a rule that had never been breached before. She heard how it sounded, and half meant it.
 
-It was the old reflex, the part of her that always caught the thread before it could drop, that knew where the lines were and stayed inside them. The same part that had gone quiet at the table without her noticing. It came back now, here, at the worst possible moment, with its rule already in her mouth. She'd done it an hour ago over warm bread and the world hadn't ended. She had liked it. She had liked it more than almost anything.
+It was the old reflex, the part of her that always caught the thread before it could drop, that knew where the lines were and stayed inside them. The same part that had gone quiet at the table. It came back now, here, at the worst possible moment, with its rule already in her mouth. She'd done it an hour ago over warm bread and the world hadn't ended. She had liked it. She had liked it more than almost anything.
 
 He didn't argue. He didn't do anything she'd braced for — no lean, no charm turned up, no patient little wait for her to change her mind. He just smiled, like she'd told him something true and fine about herself, and let it close, and started them gently back along the path, her hand drawn along with his.
 
@@ -107,3 +107,17 @@ Her feet stayed where they were. The hand he was holding stayed too, and a few i
 The quiet held a beat past comfortable. She let it.
 
 "But," she said, and let the thread go, and closed the distance he'd already given up, "I'm making an exception."
+
+She was close enough now. Close enough for what she'd been promised across a lobby: soap, and the shave still on him, and the pressed shirt with the restaurant's smoke caught in it, and under those, plain and close, something that was only him and that she had no name for either.
+
+He didn't move. He stood in the shadow with her and left the last inch where it was.
+
+She kissed him.
+
+She kept it small — her mouth to his, light, hardly there, and held. He was warm. He answered her, a little, no more than she'd brought, and then he eased back — not away; a breath of space, her hand still in his — and waited.
+
+He wasn't going to take it any further than she had. Whatever came next was hers too.
+
+She stood in it — the shadow, the quiet, the smell of him a few inches off, the space he'd left her — and let herself want it, longer than she'd have thought she could bear to. Then she leaned in and took it.
+
+This time he met her all the way. He put his hand to her face, and the mint was still in both their mouths, and it was slow, and it went on. The grin came up in her before she could do anything about it, and she went back for more with it still on her mouth, and felt him smile inside the kiss.
