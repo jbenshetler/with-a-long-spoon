@@ -24,10 +24,9 @@ the same lanes' September read of this chapter, 12 scores identical, 2 up one,
   throughout all three volumes — a motif of her trying on other roles, and
   what real college girls did. Not a repetition to thin, here or elsewhere.
 - **The quiet run** (five lanes across four models: third Vee chapter after
-  {{Tannin}}, "I want Randi back"). Author: the next chapter in the chronology
-  is the Randi smoothies chapter, not yet drafted, so the reader sequence
-  currently skips it. Placement appetite, answered by the plan; nothing to
-  change in this chapter.
+  {{Tannin}}, "I want Randi back"). Author: the next chapter is {{Dear}} —
+  Randi at the Smoothie Bird, drafted, reader position 11. Placement appetite,
+  answered by the chapter that follows; nothing to change in this one.
 
 ### Open — flagged, no ruling yet
 
