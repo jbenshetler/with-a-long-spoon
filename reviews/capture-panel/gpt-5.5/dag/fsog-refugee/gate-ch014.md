@@ -1,19 +1,18 @@
-*capture-dag-v2-rich · gate ch014 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~67e76ab36d89 · 2026-09-08*
+*capture-dag-v2-rich · gate ch014 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0f3d67fba425 · 2026-09-27*
 
-REACTION — Oh my god, this chapter is absolutely built to get me.
+REACTION — Oh, Randi. Oh, honey. That was not the triumphant “tell me everything” chapter I thought I wanted; that was wanting something so badly you turn it into sex because sex is the only place you’ve given yourself permission to hold it.
 
-The house tour did something quiet and devastating to me. I expected “his house” to mean seduction, the bedroom door, the satin, the afternoon turning sexual right away. And it *was* sexual, because everything about Pace is sexual to Vee now, but instead the book made the house itself intimate. The shoes. The kitchen. The office paper. The tools outlined on the garage wall. The furniture he made with his hands. I felt her reading him, and I loved that she got to want him through competence, through care, through the evidence of a whole private life.
+This got me in a colder way than the truck chapter. The truck was all wet flannel and care and Vee discovering she can invite his gaze and still be safe inside it. This is the aftershock, and Randi comes in like she’s starving, but not for Pace exactly. For the report. For proof. For the piece of Vee she can get secondhand without having to admit she wants it firsthand. And Pace knows. That may be the thing making my stomach twist. He knows what she is asking for, knows it is not the trail, and he feeds her just enough: hair, chlorine, softness. He even withholds the most private part, that Vee gave him the looking in the truck. I noticed that. I appreciated it. I still felt the whole arrangement humming under the bed like a live wire.
 
-And then that closed bedroom door. I felt the drop with her. She came prepared. She wanted to be wanted that way. I love that the book lets her disappointment be real, not coy. But also: he is not just taking the easiest door. He could have walked her straight into that bedroom and she would have gone. He knows that, I think. Instead he turns her toward the light.
+The sex was hot, yes, but not cozy-hot. It was hungry and angled and a little desperate. Randi riding him while making him describe Vee could have felt cheap in another book, but here it felt like pain trying to pass as appetite. “I want us” is the line. Not “I want her,” not even “I want you to bring her to me,” but us. The three-person shape is already in her body before she can bear it in her mouth. And because I know Vee is out there in his flannel, probably glowing and aching and telling Cassie, this scene made me feel protective of all three of them in completely incompatible directions.
 
-The dress. The dress ruined me a little. Not just buying it. Not even commissioning it. Making it. Remembering the thing she named once and already denied herself. Seeing the color she thought she wanted and choosing the color that actually belongs to her. That is the exact romance pressure point for me: attention as appetite, attention as devotion, attention as a kind of dominance because he is saying, *I have seen you more accurately than you have allowed yourself to be seen.*
+Pace also worried me more here than he has in a while. Not because he was cruel. He wasn’t. He was attentive, he read Randi, he protected Vee’s privacy at least somewhat, and he noticed the empty chair, noticed the leaving. But he is so comfortable setting things aside. Empty chair: set aside. Randi leaving differently: set aside. The fact that this is getting real and strange and maybe past the game: set beside the other things. I trust his hands. I am less sure I trust what he does with his knowing.
 
-But the danger is still screaming underneath it. Because this is also enormous. The warm house, the good light, the silk, the measuring tape, the line about “down to what you'd wear under it.” It is a gift, but it is also a scene. He has prepared the room before she arrived. He asks, yes. He leaves the choice open, yes. And I believe her yes. I felt her yes. But I am not forgetting the jacket or the plan. This kind of tenderness is exactly why the secret frightens me, because if the care is this real, the betrayal will have teeth.
+And Randi leaving without staying after hurt. That felt like panic in a cardigan. She got the hit, said the unbearable true thing during orgasm, and then zipped herself back into the girl who can say “See you” and drive away. I don’t think she is okay at all. I also don’t know whether she is capable of being okay without making Vee pay for it.
 
-Still, this chapter pulled me hard. I am weak for a man who can stop a kiss, build a table, explain math without making her small, and ask to measure her in daylight like her body is something worthy of craft. This is the fantasy I keep looking for: control that does not flatten her, intensity that waits for permission, desire made practical and almost domestic. I am scared, but I am absolutely not leaving.
-
-GATE 14 — Two Towels  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: The secret plan still makes me wary, but this chapter is almost unfairly tailored to me: tenderness, restraint, competence, and a yes that feels hot because it is actually asked for. The dress offer is intimate enough to feel dangerous, but right now I’m caught completely.
+GATE 14 — Underneath
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+ALMOST-STOPPED: “He had known since the quad what she wanted to hear about and had watched it grow in her”
+WHY: This chapter was uncomfortable in exactly the way the jacket promised: hot, intimate, and morally needling. Pace protecting one piece of Vee’s privacy kept me with him, but the secrecy is starting to feel less like a wicked setup and more like something with teeth. I absolutely want the next chapter, partly for the heat and partly because Randi is beginning to scare me.

@@ -1,17 +1,18 @@
-*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~67e76ab36d89 · 2026-09-07*
+*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0f3d67fba425 · 2026-09-27*
 
-REACTION — Oh, this man is terrifying. Not because of the bedroom door, although when he left it shut after she had dressed for it, I felt that drop with her and briefly wanted to shake him. He is terrifying because he listens to the things she says after she has already dismissed them as impossible, then quietly builds them into reality.
+REACTION — Oh, this is exactly the mess I wanted.
 
-The fabric matching *her* instead of the magazine dress absolutely got me. That is the fantasy here: not wealth, not grand gestures, but somebody paying such exact attention that he distinguishes the thing she asked for from the thing that would truly suit her. And the dress is also an exquisitely engineered reason to get her nearly naked in bright light, measured down to her underwear, while making the exposure necessary for something she desperately wants. I see the mechanism. I see him standing beside the mechanism with his hands in his pockets, leaving the lever entirely to her. I would still say yes.
+Randi riding him while making him describe Vee should be straightforwardly hot—and it is—but she is so emotionally split that the scene hurts underneath the heat. “I want us” absolutely got me, because I don’t know whether she means herself and Pace, all three of them, or some impossible version where wanting Vee doesn’t threaten anything she already has. I’m not sure Randi knows either. She can say the truth only when it’s torn out of her mid-orgasm, and then she is dressed and gone before either of them can ask what she meant.
 
-The house made him much more dangerous to me. The worn cookbooks, the ridiculous competence, the cracked fantasy paperbacks, the furniture, the MRI patent whose value to him is frightened people spending less time trapped in the machine—none of it feels like billionaire-romance résumé stacking because every detail points toward the same person. He finds signal in noise. He notices what matters. He makes structures that hold without visible screws. That is practically a confession of what he believes he is doing with Vee, and she has no idea she is hearing it.
+And Pace. God. “Her stomach is soft” was devastatingly intimate, especially because he deliberately withholds how he knows. I’m glad he keeps the truck moment private from Randi; Vee gave that to him, not to their game. But he is still feeding a detail from Vee’s body into sex with the woman who secretly selected her. So I’m turned on and furious in exactly equal measure. His discretion is real, but it is happening inside a betrayal he still apparently considers tender.
 
-Also: two towels. I noticed. Vee noticed the bedroom and the silk; I noticed the evidence of another person already built into this supposedly private house. Randi is everywhere here while being absent from Vee’s version of it. That makes the warmth of the house feel less cozy than prepared.
+Randi leaving immediately frightened me more than any overt jealousy scene could have. She arrived hungry for Vee, used Pace to get as close to Vee as she currently permits herself, came, and fled before tenderness could catch her. The empty chair, the skipped aftercare, not asking again about the hike—Pace sees all of it and “sets it aside,” which is apparently his preferred method of walking past emotional doors while congratulating himself for respecting physical ones. Sir, pick the thing back up.
 
-And after all this psychological foreplay, “down to what you’d wear under it, in good light” landed harder than a generic sex scene would have. He has turned looking at her into attention, craft, and service—the three things most capable of getting past every defense she has. This is exactly the kind of seduction I wanted: deeply tender, unmistakably erotic, and ethically making my scalp prickle. Yes, measure her. I am seated and extremely worried.
+And then he eats and is still hungry. Of course he is. Everybody in this book is starving and trying to feed the hunger through somebody else.
 
-GATE 14 — Two Towels  
-DECISION: CONTINUE  
-CAPTURE: 10  
-ALMOST-STOPPED: none  
-WHY: He is about to make exposure feel like being understood, and I need to see whether the measuring scene delivers on that charge. The hidden Randi-shaped space inside his beautiful, carefully ordered life also has me watching every doorway.
+GATE 14 — Underneath
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+ALMOST-STOPPED: none
+WHY: This gave me explicit heat that actually changed how I understand the people having it. Randi’s “I want us,” followed by her immediate escape, has me already reaching for the next chapter.

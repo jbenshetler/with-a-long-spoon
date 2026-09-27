@@ -1,17 +1,20 @@
-*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~67e76ab36d89 · 2026-09-07*
+*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0f3d67fba425 · 2026-09-27*
 
-REACTION — Oh, this man is going to ruin me with competence. The shoes for each kind of life, the used kitchen, the cracked fantasy paperbacks, the handmade joints, the MRI patent whose part he loves is getting frightened people out faster—I am helpless. Not because he’s secretly brilliant or secretly rich, but because everything he can do seems organized around attention. He makes things fit. He removes pain without making anyone feel foolish for having it. That is exactly my weakness.
+REACTION
 
-And then the bedroom door stays shut. Vee came wearing satin for him, she visibly leaned toward the door, and he still did not interpret her hope as permission. I felt her disappointment, but I trusted him more for disappointing her. Even stopping the kiss worked on me: she initiated, he wanted her, and he still remained capable of stopping. His desire doesn’t turn her into an object already in his possession.
+Oh, Randi. “I want us” absolutely broke me, because it is the truest thing she has said and she could only force it out while riding Pace and making him describe Vee. She wants all three of them, yes, but she also wants a version of herself that can stay afterward. She came there already planning her escape—the empty chair, nothing set down, every garment ready to go back on—and Pace saw it without yet understanding what he was seeing. She wanted to hear about the hike, but not really. She wanted Vee translated into something sexual she could survive wanting.
 
-But: two towels. Two towels. I noticed them immediately, and Vee didn’t. Randi is in this house even while absent from the chapter, and suddenly every beautiful domestic detail has a blade tucked inside it. The warmth was deliberate because he planned to ask Vee to undress. The cloth was waiting. He has prepared a scene around knowledge she doesn’t have, and although the immediate choice is genuinely open, the larger situation still isn’t. This book knows exactly how to give me what I want and make me afraid of wanting it.
+And I was turned on. God, I was. Randi taking control, making Pace watch her take him, knowing exactly what she had earned from him—that worked on me completely. So did Pace recognizing the size of her want and meeting it without mocking or taming it. But the heat curdled around “Her stomach is soft.” That softness was something Vee chose to show Pace in a private, astonishing moment. He protected the circumstances, but he still gave Randi a piece of Vee’s body to come around, and Vee does not know she is in this bed with them. That is the problem in one awful, perfect little sentence.
 
-The dress absolutely got me. He didn’t buy the dress she described; he understood why the dress mattered, saw that its color would be wrong for her, found the silk that would make *her* beautiful, and offered to spend weeks making the thing around her particular body. That is almost indecently intimate. “He’d matched *her*” made my chest hurt. And now he has clearly explained what saying yes entails: not a coy surprise, not hands wandering under the excuse of fitting, but measurements down to her underwear, in light, because that is what the work requires. She knows what she is agreeing to and wants it. More than that, the satin tells me she arrived wanting to be seen before he ever offered her this reason.
+I also cannot stop thinking about Randi asking, “How was it?” and then refusing to let him answer. She couldn’t bear the actual day: the mountain, the sandwich, the blister, Vee calling him back into the truck, the tenderness of it. She could bear selected pieces of Vee as fuel. Then “I want us” escaped, she came, and she fled before Pace could feed her or warm her or ask what she meant. This is not casual jealousy anymore. She is frightened enough to abandon the aftercare she has always accepted from him.
 
-I am vibrating over what comes next. I want every measurement rendered from inside her: the exposure, the shame turning hot, his exactness, his hands waiting until invited. But I also want to grab her gently by both shoulders and say, sweetheart, ask why there are two towels.
+And Pace is beginning to see the pattern—empty chair, immediate departure, no interest in his real answer—but he keeps setting the evidence aside. I need him to stop doing that. His attention is supposed to be his great gift; if he only uses it when someone is open enough to be read, then Randi’s polished face is going to defeat him completely.
 
-GATE 14 — Two Towels  
-DECISION: CONTINUE  
-CAPTURE: 10  
-ALMOST-STOPPED: none  
-WHY: Handmade burgundy silk, an explicitly requested yes, and a man preparing to look at her body in order to make something precisely for it—this is almost scientifically engineered for me. The hidden second towel keeps the tenderness from feeling safe, and I desperately need to see whether the next chapter can preserve her ownership of this desire inside the deception.
+What I would text at one in the morning: Randi said “I want us” during sex and then ran away before he could make her dinner, and I am UNWELL.
+
+GATE 14 — Underneath
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+ALMOST-STOPPED: “Her stomach is soft.”
+WHY: The sex pulled me in, but Randi’s naked want and immediate flight are what have me already turning the page. I need Pace to understand that she is disappearing in front of him—and I need Vee to become a person Randi can face, not a secret she can only consume through him.

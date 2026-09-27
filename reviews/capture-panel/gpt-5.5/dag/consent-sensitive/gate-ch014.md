@@ -1,25 +1,22 @@
-*capture-dag-v2-rich · gate ch014 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~67e76ab36d89 · 2026-09-08*
+*capture-dag-v2-rich · gate ch014 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 0f3d67fba425 · 2026-09-27*
 
-REACTION — 
+REACTION — Oh. Oh, Randi.
 
-Oh no. Oh, this is gorgeous and I am in trouble.
+This chapter did that thing where the heat is absolutely there, but what I’m feeling under it is grief and alarm. Not because the sex is bad on the page. It’s hot in the exact wrong-right way: her arriving already lit, already wanting the report, using Pace’s body as the place she can spend what she can’t admit to wanting from Vee. “Tell me” twice like a confession with the wrong priest. I felt that. I believed it. I also winced all the way through it.
 
-I spent the first half of this chapter just sinking into the house with her, and I hate how much I liked it. The shoes by purpose. The kitchen that actually cooks. The office chaos. The handmade oak. The fantasy paperbacks. The patent, which should have made him ridiculous and instead made him more dangerous because it gives him a whole moral glow: he made something that helps scared people get out of machines faster. That is very hard to resist. It makes him feel not just competent but fundamentally attentive to distress, to noise, to hidden signal. Which is, of course, exactly the problem.
+What got me most is that Pace knows. He knows what she is really asking for, and he gives it to her, but withholds the thing that matters: “He did not say how he knew.” That line made my whole reader-body sit up. Because yes, there’s discretion there, maybe even tenderness toward Vee. But also: the two people who already arranged Vee are now erotically processing her body and her scent and her softness in a room she doesn’t know exists. The book knows that is intimate theft. Thank God. I would be gone if it didn’t.
 
-Because this chapter is Pace as curated environment. Not in a fake way, maybe; I believe the house is truly him. But Vee is being given more and more evidence that every part of him is skill, patience, provision, restraint. He can cook, hike, repair, build, sew, solve medical imaging, explain error-correcting codes in a way that makes language itself erotic. He is basically a cathedral of “I noticed.” And for a girl like Vee, who has been seen too much in the wrong ways and not seen enough in the real ways, that is like a drug.
+And Randi is so much sadder here than she maybe wants to be. She doesn’t come in triumphant. She comes in hungry and almost panicked. No coat on the chair, straight to his mouth, no room for “how was it” to be answered except as fuel. “I want us” wrecked me a little because that is the truest thing she has said and also the most evasive. Us who? Her and Pace? Her and Pace and Vee? Her and the version of herself who can want a woman without having to stand alone in that wanting? She says it into sex because she cannot say it into daylight.
 
-The closed bedroom door got me. That little drop in her when he does not open it. She came dressed for that door. She wanted it. And he diverts her, gently, toward the den and the porch and the silk. I felt the manipulation there like a hand at the small of my back. It is not that he forced anything. It is that he knows how to let want sharpen itself by not feeding it immediately. He stops the kiss. He leaves the bedroom shut. He lets her disappointment happen privately. Then he brings her to the real offering.
+Pace, meanwhile, is tender and dangerous in the same breath as always. He’s cold, hungry, keyed up from the hike, and still able to read Randi with almost clinical precision. I don’t think he’s cruel here. I think he’s moved. But I am not letting him off the hook, because his restraint keeps looking clean moment to moment while the larger container gets filthier. “Her stomach is soft” is not his to use with Randi, even if Vee offered him the sight of herself. Vee offered it to him. Not to their hidden third.
 
-And the dress. God. The dress is devastating. Not the magazine color, but the color for her. That is so intimate it almost frightened me more than if he had taken her to bed. He heard a discarded wish, understood the wish better than she did, spent money and time, and built an entire scene around giving it back. I can feel why Vee says yes with her whole body. I can feel why “to be measured in good light” becomes not a technical requirement but an invitation to be looked at, known, handled through cloth before skin.
+The ending landed hard: Randi leaves, for the first time, and Pace files that away beside the empty chair. He notices. He is not oblivious to consequence. The warmth has gone wrong. The house is warm and he is still hungry. That’s not subtle, and I don’t mind. I felt the loneliness in it, and the appetite still running after the sex is over.
 
-But my consent-brain is screaming quietly. He bought the silk before asking. He prepared the porch, the heat, the towels maybe, the whole afternoon. He has already imagined her body down to what she’ll wear under it. He frames it as open, and technically it is: “If you want it.” But how free is a no after someone offers you the exact impossible thing you confessed and abandoned? How free is a no when the offer is custom-built out of your hunger?
+I’m still in because the chapter is not asking me to clap for the conspiracy. It is letting the erotic charge and the moral wrongness occupy the same bed, which is basically the only way I can keep reading this. But my trust is not casual trust. My hand is on the rail.
 
-That said, the book knows. I still feel the book knows. Vee’s “She was the hard part” at the opening, the bedroom door drop, the absurdity of realizing he made the shirt, the way the yes comes before she has fully absorbed the scale of the thing — none of that feels naive. The chapter lets me be dazzled and alarmed at the same time. That is why I’m staying. This is seduction as craftsmanship, and I mean that both erotically and as an indictment.
-
-Also: two towels. I saw them. The title put a pin in them. I do not know yet whether they are innocent bathroom detail or whether the house has been prepared for her body in ways she hasn’t reached yet, but I am watching those towels like evidence.
-
-GATE 14 — Two Towels  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: "To do it right I'd measure you first — down to what you'd wear under it, in good light, so I can see how it'll fall."  
-WHY: That line is incredibly hot and incredibly engineered, and it is exactly the place I needed the book to understand the danger. It does. I’m nervous, but I’m captured.
+GATE 14 — Underneath
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+ALMOST-STOPPED: “Her stomach is soft.”
+WHY: That was the line where Vee’s private offering to Pace became material between Pace and Randi, and I felt the violation sharply. But the chapter knows exactly how charged and compromised that is, and Randi’s cracked hunger makes the danger more legible, not less. I want the next chapter badly, but with my shoulders up.
