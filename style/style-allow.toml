@@ -4715,13 +4715,6 @@ text = "Her eyes went over Cassie's bunk — made tight and square, the corners 
 note = "Group B (2026-08-07): ruled at item 15 of the line-edit review. :13 is the paragraph's best figure; :81 is the class observation the boutique section rests on; :7 sits in reader-quoted territory (Cassie's bed); :95 completes the designed three-beat mirror callback to Peekaboo. Only the opening-nine-lines density was the problem, and :9/:15 fixed it."
 
 [[ok]]
-fp   = "c7bf17e246a6"
-rule = "the-way"
-file = "scenes/sorority.md"
-text = "It came out of her the way the tears had, without asking."
-note = "author ruling 2026-09-28: the leak sentence stands as proposed"
-
-[[ok]]
 fp   = "1598a3aadf20"
 rule = "there-was-were"
 file = "scenes/sorority.md"
@@ -4755,13 +4748,6 @@ rule = "warm"
 file = "scenes/sorority.md"
 text = "Randi had just said out loud, easy and offhand, the thing Vee had been running behind her own eyes all week, and hearing it in someone else's mouth made it real, and made her face go warm, and she followed her out."
 note = "Group F (2026-08-07): load-bearing warmth. :17 is the cool/warm tactile contrast, :65 is the delight folding into something surer, :71 is Vee's face answering Randi saying her secret out loud. The reflex instance (:7 'came back to Vee warm') was cut."
-
-[[ok]]
-fp   = "3d3e1108bc56"
-rule = "without-asking"
-file = "scenes/sorority.md"
-text = "It came out of her the way the tears had, without asking."
-note = "author ruling 2026-09-28: 'without asking' kept in Vee's leak sentence"
 
 [[ok]]
 fp   = "4bcfbd8a561a"

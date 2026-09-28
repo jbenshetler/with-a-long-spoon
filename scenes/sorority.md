@@ -96,13 +96,7 @@ And Vee, who had stood in his sun porch and cried over precisely this without a 
 
 "No. Don't. I know exactly what it is." She came back in and lifted a strand of Vee's hair off her face. "You're going to walk in there and the whole room is going to stop. Every one of those girls in the one dress she owns that has to do for everything — graduations, funerals, this. They're going to forget their own names."
 
-Vee laughed and said she'd settle for not tripping, and Randi said tripping was for girls who didn't have the right shoes, which was the whole reason for the day.
-
-"He was up all night finishing it," Vee said. It came out of her the way the tears had, without asking. "He fell asleep after. I watched him sleep."
-
-Randi's hand was still at the shoulder seam. It stayed, and for a breath Randi was somewhere else, behind her own face. Vee saw it and her heart went out to her. Randi, with her beautiful boys in a hurry and her dinners ahead of time, and nobody who had ever sat up a night over anything of hers.
-
-Then she was back, and clapped once, brisk, glamour gone businesslike. "Okay. Off, carefully. We are not buying shoes for a dress we're *guessing* at. It comes with us. We match the real thing or we don't bother."
+Vee laughed and said she'd settle for not tripping, and Randi said tripping was for girls who didn't have the right shoes, which was the whole reason for the day, and then clapped once, brisk, glamour gone businesslike. "Okay. Off, carefully. We are not buying shoes for a dress we're *guessing* at. It comes with us. We match the real thing or we don't bother."
 
 Vee took it off in the bathroom and slid it back into the bag and drew the zip up the length of it, the burgundy disappearing tooth by tooth behind the gray nylon until it was only a bag again.
 
