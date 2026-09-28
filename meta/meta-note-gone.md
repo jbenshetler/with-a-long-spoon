@@ -40,7 +40,7 @@ Fall Randi/Pace material was once *deliberately* relocated to spring (→ `in-he
 
 ## Placement
 
-Mon Oct 19, a weeknight, after {{Sorority}} (Sat Oct 17), before {{Rock}} (Tue Oct 20), and eight days after {{Portion}} (Sun Oct 11) — the one pointer to it on the page is *"not the thing it had been a week ago."* Sits just before Rock, so the two backstage/frontstage warmths bracket each other; his undershirt on Randi tonight, his robe on Vee tomorrow — not pointed at.
+Mon Oct 19, a weeknight, after {{Sorority}} (Sat Oct 17), before {{Rock}} (Tue Oct 20), and eight days after {{Portion}} (Sun Oct 11) — the one pointer to it on the page is *"not the thing it had been a week ago."* The week itself is visible once, from Vee's side: {{Sorority}}'s dorm leak (Sat Oct 17), where Vee's *"He was up all night finishing it… I watched him sleep"* takes Randi somewhere else for a breath and Vee misreads it as loneliness. Monday's warmth has that Saturday behind it. Sits just before Rock, so the two backstage/frontstage warmths bracket each other; his undershirt on Randi tonight, his robe on Vee tomorrow — not pointed at.
 
 ## Beat order (as drafted, sixth draft, 2026-09-27; opener and dress beat 2026-09-28)
 
