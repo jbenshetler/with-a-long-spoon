@@ -10,7 +10,7 @@ He had one hand in her hair and the other flat on the small of her back, and the
 
 "Vee was here yesterday," he said, into her hair. "Sounds like you two had a day."
 
-"God, Saturday. Best time I've had in a store in years." He felt the laugh start low in her. "She's ragging on my feet all afternoon — yeti this, sasquatch that — so she finds the biggest, ugliest shoe in the place, a canoe, a sole like a snow tire, and gets it *on*, and does the whole walk for me. The stomping, arms out, the little growl. The full bigfoot." The laugh climbed. "And there's an older couple stopped dead at the end of the aisle the whole time, watching, and she has no idea — she's mid-stomp — and then she turns around and *sees them*." Randi pushed her face into his chest. "She went so red I thought she'd go up. Hand over her mouth, wanting the floor to take her." A beat, fond. "It was so cute. She was *so* embarrassed." Softer. "That was kind of hot."
+"God, Saturday. Best time I've had in a store in years." He felt the laugh start low in her. "She's ragging on my feet all afternoon, so she finds this canoe of a shoe and gets it *on* and does the whole bigfoot for me. And there's an older couple at the end of the aisle watching the entire time, and she turns around and *sees them*." Randi pushed her face into his chest. "She went so red I thought she'd go up. Hand over her mouth." A beat, fond. "She was *so* embarrassed." Softer. "That was kind of hot."
 
 He felt her smiling, and after a moment she went on, quieter.
 
