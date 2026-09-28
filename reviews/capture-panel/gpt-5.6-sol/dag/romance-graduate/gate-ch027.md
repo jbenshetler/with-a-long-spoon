@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch027 · gpt-5.6-sol · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 719f6182adbd · 2026-09-27*
+*capture-dag-v2-rich · gate ch027 · gpt-5.6-sol · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 525973292e42 · 2026-09-28*
 
-REACTION
+REACTION — Oh, Randi. She stayed down. She asked to be fed. She put on his shirt from the drawer she knew without looking, sat curled inside it, and actually ate the meal he made her. That feels more naked than either round of sex. Last week she rejected his careful bowl and used his body with her eyes shut; tonight she let herself need something, received it, and stayed. I felt every inch of that change.
 
-Oh, Randi. She is absolutely, helplessly in love with both of them, and she still thinks she can keep this inside the shape of a game.
+And then she admitted Vee got past her. Finally. Not as strategy, not as the glamorous friend dispensing permission, but face-down on Pace’s chest, laughing about Vee being ridiculous in a shoe store and confessing that she found her embarrassment hot. “I keep waiting to get bored” is such a sad little window into how Randi survives people. Of course she turns everyone into a story and leaves before the story can matter. Vee refuses to become disposable because she listens and makes Randi laugh and tells her tiny Tuesdays. Randi is in love enough to be frightened, and she still can’t quite say it without calling Vee pathetic two breaths later.
 
-Her asking whether there was anything to eat nearly undid me. After that untouched bowl last week, she stays down on his chest, admits Vee got past her, puts on his undershirt, sits bundled inside it by the stove, and eats everything he gives her. That is not casual intimacy. That is surrender in Randi’s language—and Pace notices every morsel without making the noticing into pressure. I am furious with these two and terribly gone on them, which I suppose is the entire trap.
+Pace imagining Vee at that table in his sheet while Randi sits opposite in his shirt nearly did me in. That is the shape, isn’t it? Not a performance, not two women arranged around his appetite: the intimate domestic picture his mind supplies before he can censor it. Food, borrowed clothes, all three of them smiling because they already love one another separately. And he wants to tell Vee. I need him to understand that wanting to tell her and not telling her are now on opposite sides of an increasingly dangerous line.
 
-And finally, finally Pace knows. Maybe not about the kisses, and maybe not the full extent of it, but he knows Randi finds Vee hot. He hears her call the embarrassment hot; he watches her turn Vee’s hidden body into sex in his kitchen. His refusal to “take up the rest” is so Pace: tender restraint, possibly willful blindness, and also one more way these people avoid saying the sentence that might force the whole structure into daylight.
+But good God, this man can read the sound of chicken cooking and cannot read the woman in front of him. Randi hands back his exact sentence about Vee and he decides she has “come round,” as though the problem has been resolved. Then he describes Vee as the person who makes a room brighter—almost the same language Randi uses to make Vee feel chosen—and Randi goes absolutely still. That hurt. She asked him to tell her, and what she got was proof that his gaze has moved somewhere she has always desperately wanted it to rest. Then she turned the hurt into sex because that is the language these two can use without admitting they are bleeding.
 
-The moment that hurt was Pace describing what Vee does to a room. Randi goes still because he is describing Randi too—or the Randi he once saw before she learned to keep “a hand on every ounce of herself.” Vee is not just the girl they chose. She is the mirror showing Randi the alive, excessive, unashamed woman she might have been, and now Pace is falling for that light in Vee while Randi sits there loving it and grieving it. That tiny “Yeah. She is.” had more ache in it than most entire breakup chapters.
+Her describing Vee’s body while rubbing her own against him was intensely hot, but it was also almost unbearable. She is showing him Vee with herself. Offering herself as the instrument of his desire for someone else, while also letting her own desire for Vee out under cover of his. And Pace sees that she is wanting out loud, which matters, but deliberately leaves the rest “hers to hold.” Sir, no. Sometimes leaving a door open is gentleness; sometimes it is watching someone stand in the doorway because you are afraid to ask why she cannot enter. His restraint is becoming a hiding place too.
 
-Also: Randi kept his sentence. She listened, came back, stayed, ate, and accepted his pace with Vee. That is a real turn between her and Pace, not a tidy resolution. Their sex afterward is scorching precisely because it isn’t a generic jealous reclaiming. Randi uses her own body to tell him what she wants from Vee, and he wants her because she has finally let the wanting show. They are speaking through Vee because direct speech is still too exposing, and it is intimate and dangerous and wildly hot.
-
-The title has me by the throat. Vee is gone over Pace. Randi says Vee got past her. Pace is gone watching Vee brighten rooms. And Randi, who thought she was managing everyone, is the most gone of them all.
-
-My 1 a.m. text would be: *She ate the whole plate in his shirt and then got naked in the kitchen because he said Vee lights up a room. This is no longer anybody’s little game.*
+The second time she stayed afterward and slept, though. That got me. Randi, who is always composed and always leaving some essential part of herself elsewhere, let herself be fed, warmed, held, and unconscious on him. She is gone. Pace is gone. Vee is spectacularly gone. They are all imagining the same table and nobody will say who is supposed to sit around it. I am aching for them and furious with them, which is exactly where I want this book to have me.
 
 GATE 27 — Gone
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me the emotional interior of the triangle without sacrificing an ounce of heat. Randi’s hunger is finally visible to Pace, Pace and Randi have made a real repair, and every tenderness now tightens the secret around Vee—I need the collision immediately.
+WHY: Randi finally let need become visible—food, warmth, Vee, Pace—and the chapter made her emotional exposure hotter than the sex. The three-person shape is now alive in Pace’s mind, and his continued silence has become urgent enough that I’m already turning the page.

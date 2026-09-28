@@ -8,11 +8,13 @@ The house was warm the way he kept it when she was there, the lamp low, and Rand
 
 He had one hand in her hair and the other flat on the small of her back, and the wanting had gone quiet in both of them, and he let it stay quiet. She talked less here than anywhere. Whatever she ran on out in the world, she set it down at his door.
 
-"I didn't think I'd like her this much," she said, into his chest.
+"Vee was here yesterday," he said, into her hair. "Sounds like you two had a day."
 
-He waited.
+"God, Saturday. Best time I've had in a store in years." He felt the laugh start low in her. "She's ragging on my feet all afternoon — yeti this, sasquatch that — so she finds the biggest, ugliest shoe in the place, a canoe, a sole like a snow tire, and gets it *on*, and does the whole walk for me. The stomping, arms out, the little growl. The full bigfoot." The laugh climbed. "And there's an older couple stopped dead at the end of the aisle the whole time, watching, and she has no idea — she's mid-stomp — and then she turns around and *sees them*." Randi pushed her face into his chest. "She went so red I thought she'd go up. Hand over her mouth, wanting the floor to take her." A beat, fond. "It was so cute. She was *so* embarrassed." Softer. "That was kind of hot."
 
-"Vee. I keep waiting to get bored of her — you always get bored — and it doesn't come." A breath. "She got past me before I could help it."
+He felt her smiling, and after a moment she went on, quieter.
+
+"I didn't think I'd like her this much. I keep waiting to get bored of her — you always get bored — and it doesn't come." A breath. "She got past me before I could help it."
 
 The chill found her then, as it always did after. He felt it start along her back under his hand, the first fine shiver, and reached down for the blanket at the foot of the bed, and she caught his wrist.
 
@@ -25,12 +27,6 @@ He got up and found his jeans.
 In the kitchen he put the kettle on and took a chicken breast out of the refrigerator, and the asparagus, and got the couscous down. She took the chair nearest the stove and drew her feet up onto the lacquered seat and pulled the shirt down over her knees, so that all of her was inside it but her face and her hands and the blue of her toes.
 
 He split the breast along its length and laid the halves on the board and leaned the flat of the heavy pan on them until they were even. Salt from the dish by the stove. Oil in the skillet, and when it was ready the chicken went in, and he turned it by the sound. The kettle came up. Water over the couscous and the lid on it, and the asparagus into the small pan with an inch of water under it and the lid on that. Fifteen minutes, all of it, and nothing in it he had to think about.
-
-"You went shopping," he said, with his back to her.
-
-"God, Saturday. Best time I've had in a store in years." He heard the laugh start low in her. "She's ragging on my feet all afternoon — yeti this, sasquatch that — so she finds the biggest, ugliest shoe in the place, a canoe, a sole like a snow tire, and gets it *on*, and does the whole walk for me. The stomping, arms out, the little growl. The full bigfoot." The laugh climbed. "And there's an older couple stopped dead at the end of the aisle the whole time, watching, and she has no idea — she's mid-stomp — and then she turns around and *sees them*." He heard her put her face down on her knees. "She went so red I thought she'd go up. Hand over her mouth, wanting the floor to take her." A beat, fond. "It was so cute. She was *so* embarrassed." Softer. "That was kind of hot."
-
-He could hear the smile in it, and after a moment she went on, easy again.
 
 "And she'll listen to you like you're the only thing in the room. Actually listen. And then she'll tell you some tiny nothing about her Tuesday and you're wiping your eyes. Nobody does both. She does both."
 
@@ -52,7 +48,11 @@ It was his sentence. She had kept it exactly and handed it back to him in his ow
 
 She turned the water glass on the table.
 
-"I don't know why she hides in that cardigan," she said, after a while.
+"She's stunning in it, Pace." Quieter. "I'm around beautiful girls every day. She's extraordinary. How she looks. Who she is."
+
+He could see her in it. Vee, glowing, coming through the den to him with the slit swinging open on her leg. And then, before he had decided to, he had her here, at this table, wrapped in his sheet, and Randi across from her in his shirt, and both of them smiling, all three of them, the way they already smiled about each other. He wanted to tell Vee. He could not, not yet.
+
+"I don't know why she hides in that cardigan," Randi said.
 
 "She's ashamed." He said it low, certain, without heat. "Somebody taught her to be ashamed of her body."
 
