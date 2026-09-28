@@ -1,23 +1,20 @@
-*capture-dag-v2-rich · gate ch018 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~8611b8522702 · 2026-09-10*
+*capture-dag-v2-rich · gate ch018 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bca2ed17019a · 2026-09-28*
 
-REACTION — Oh. Oh, this is what I have been waiting for.
+REACTION — Oh, I needed Cassie for this. I needed Vee to come home full to bursting and put the whole impossible afternoon into the hands of someone who loves her without wanting to steer her anywhere. Cassie lets her be overwhelmed, filthy-minded, tender, ridiculous—all of it. “I was on a box” made me laugh every single time, and then “He left me a door” went straight through me.
 
-The question on his knees absolutely undid me: “Would you be bothered if I was too hard?” Because he sees the exact place where her shame is trying to swallow her, and he doesn’t pretend not to see it or offer some polite reassurance that would leave the shame intact. He asks whether she can bear proof that he wants her. He makes his desire something she is permitted to choose too. That is the tenderness and dominance together—that is it.
+Because yes. That is exactly the thing I have been waiting for Vee to understand about Pace. He did not technically phrase every moment as a question, but he made space for an answer. She could feel the opening. And “It was like his eyes asked, *May I look*” might be the most erotic description of consent I’ve read in ages. He wants her ferociously, and somehow the wanting does not crowd her out. It gives her somewhere to stand—literally, apparently, on her custom-built pedestal.
 
-And Vee is so gloriously, unmistakably active in this. She buys the green satin. She paints her toes. She kisses him first, pulls off his apron, asks for his bedroom, puts her hand in his hair, pulls him up, pulls him in, says yes. Even when her hips answer before she can arrange the answer into words, he pauses and waits instead of treating her body as permission. I noticed that very sharply because of my worry about Pace trusting bodies too much. Here, he does read her body, but only after she has taken him to the bedroom, undressed him, drawn him close, and repeatedly chosen forward. The whole scene belongs to her desire.
+The heat turned up before she arrived nearly undid me again. That sort of care is my weakness: not grand declarations, but a man thinking hours ahead about the temperature of the room because he knows what he’ll ask of her body. Then she tells Cassie she felt “like I was supposed to be there,” and I’m gone. That isn’t just Vee discovering she likes being looked at. She likes being elevated, attended to, and obeyed by a man on his knees. She is finding the exact shape of her desire from inside herself, and it is not making her smaller.
 
-And God, the moment “the careful thing in him let go.” Yes. That is precisely why his restraint has been so erotic: when he finally stops governing himself, it means something. She hasn’t been overwhelmed into surrender; she has been asking and asking until he trusts the answer enough to give her his full weight, his strength, his hunger. His helpless sound mattered to me too. He isn’t performing control from some untouchable height. She gets to undo him.
+And thank God for the laughter. Vee solemnly clarifying that Pace is a powerlifter, not a bodybuilder, before presenting evidence of his heterosexuality like an expert witness—and then confessing that *she* was grinding on *him*—is precisely the kind of joy I want around the heat. She isn’t merely enduring his attention beautifully. She is mischievous, active, delighted by her own power. She gets to come home and laugh until she can’t speak about something that once would have drowned her in shame.
 
-What moved me most, though, was that her shame never magically disappeared. It ran beside the pleasure and failed, for the first time, to close her. That feels enormous. Pace doesn’t cure her with one worshipful look; he gives her somewhere safe enough to discover that shame can speak without getting the final vote. I felt that in my chest.
+I’m still watching the hidden plan. None of this makes that debt disappear. But this chapter made me fiercely happy for her. Also: he has now seen her half naked twice, she has deliberately rubbed herself against him, and they have kissed once in twelve days. I am climbing the walls right alongside her.
 
-Then they eat in companionable silence, and somehow that was almost as intimate as the sex. No abrupt tonal switch, no conquest completed, no awkward reassurance campaign. He feeds the hungry woman who has just discovered she is allowed to be famished. “The evening had used her well” is exactly the feeling I wanted this book to give me.
-
-And the trade. The panties she chose for him, folded with the evidence of her wanting deliberately centered, offered without apology in exchange for his shirt. I nearly screamed. She takes the very thing that terrified her during the fitting and turns it into a gift she chooses to give. “Something in his shoulders was private and she let it be private” is such a tender reversal too: he has spent all this time making room for what belongs to her, and she gives him the same grace.
-
-I am extremely gone over them now—which makes the secret plan more dangerous, not less. This was real. Her desire was real, his care was real, and that means the eventual discovery can actually break something precious. Pace has earned so much trust inside the room while still withholding the truth outside it. I need him to understand that consent to every touch does not retroactively become consent to being selected and arranged. But tonight? Tonight he gave her exactly the room she needed, and she filled every inch of it herself.
-
-GATE 18 — Famished
+GATE 18 — Turned Up
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This delivered the heat, control, tenderness, and unmistakably self-owned female desire I have been reading toward. Vee’s shame remained real but lost its power to close her, and Pace waited for her choices until she actively pulled the restraint out of him.
+WHY: “He left me a door” is the whole reason I came back to this genre: intensity that makes room for her choice instead of swallowing it. Vee naming what she wants, then laughing with Cassie about actively tormenting him, has me completely invested—and now I need that finished dress and the next time she and Pace are alone.
