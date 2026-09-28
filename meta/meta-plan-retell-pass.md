@@ -26,7 +26,7 @@ Recount = words re-narrating a seen event. Safe cut = what the inventory judged 
 
 | # | Chapter | Words | Recount | Safe cut | Status |
 |---|---|---|---|---|---|
-| 18 | {{Turned Up}} | 2,012 | ~970 | 170–200 | **in progress** |
+| 18 | {{Turned Up}} | 2,012 → 1,852 | ~970 | 160 cut | **cut on branch; panel flat** — see log |
 | 22 | {{Fed}} | 2,179 | 544 | ~170 (ll. 17–19: the recap of the Cassie telling — the one retell of a retell) | open |
 | 19 | {{How It's Done}} | 5,179 | ~530 | ~130 (l. 71 provenance; l. 90 evasive recount) | open |
 | 41 | {{All the Time}} | 3,287 | tenor summary | 150–200 (ll. 37, 41 enumeration; l. 57 overlaps {{School Nights}}) | open |
@@ -60,3 +60,4 @@ Estimated total recoverable ≈ 1,100–1,300 words. Under one percent of the vo
 ## Log
 
 - 2026-09-28 — doc opened; branch `retell-pass` created; {{Turned Up}} first.
+- 2026-09-28 — {{Turned Up}} −160 words (hike setup, silk, run-up to the bra, Cassie's rain recap, measuring rhythm, hem geometry). Panel on the cut: cold 4 models Heat 1–2 / Romance 2–3, no friction, unprimed readers warm to it. Capture 15 lanes: the five clean before/after pairs (relationship-first) moved 0, 0, 0, +1, −1 — noise. The two opus-4-8 lanes still call it a recap chapter, and the objection fires at the *first beat* ("He just." / the bag on the chair), before any mechanics: "seventeen told a second time," "the flannel-debrief structure over again." **Reading:** trimming mechanics does not touch what that reader feels; that is shape and distance, not proportion. Options: (a) accept — the unprimed instrument likes the chapter and the sort is the design; (b) change the shape (approach 3): the *can't-tell* debrief — Vee comes home and cannot tell it; Cassie gets the shirt, the heat, and the grinding, and the fitting itself stays untold until Randi extracts it the next day. Not ruled.

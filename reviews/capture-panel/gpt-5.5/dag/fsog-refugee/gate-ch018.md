@@ -1,25 +1,26 @@
-*capture-dag-v2-rich · gate ch018 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~8611b8522702 · 2026-09-11*
+*capture-dag-v2-rich · gate ch018 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bca2ed17019a · 2026-09-28*
 
 REACTION —
 
-Oh. Well. There it is.
+Oh, I needed this chapter more than I realized. After the sheer charge of the measuring scene, I needed Vee to come home and be messy and giddy and half unable to say it, and I needed Cassie there with the highlighter down. That felt like the right place to put my own breath back in my body.
 
-This chapter got me right where this book has been patiently aiming me for seventeen chapters, and I am a little embarrassed by how completely I went with it. Not because it was explicit, though it absolutely was, but because the explicitness finally paid off all the little acts of attention: the moleskin, the shirt, the warmed house, the measurements, the dress, the food waiting but not started. It felt like sex as the inevitable next language between them, not a scene dropped in because the book owed me one.
+The heat in this one is mostly aftershock, but it is *strong* aftershock. Vee trying to report what happened and not being able to keep the shape of it neat is very, very good to me. “Burgundy” as the first thing out of her mouth, not “he saw me topless” or “I nearly died of wanting,” but the dress. Because of course the dress is the wound and the gift and the excuse and the altar all at once.
 
-And Pace. God. This is the version of dominance I am always hunting for and almost never get: not cruelty, not taking because he can, but a man so focused that his restraint has weight, and then when she asks for more, he believes her. The question on his knees — “Would you be bothered if I was too hard?” — should not have undone me as much as it did, but it did, because it is so him. It is consent and confession and praise all braided together. He lets her know exactly what her wanting has done to him, and he still gives her the room to answer.
+And Cassie. Bless Cassie forever. She is funny, she is skeptical, she is not dazzled into stupidity, and yet she lets the wonder be wonder. Her “Oh, Vee” when the heat-up-house detail lands? That got me. Because yes, exactly. It is not just that he made the dress or measured her body. It is that he adjusted the world before she arrived so her body would not suffer while being seen. That is the thing. That is why I keep trusting him in the room even while I do not trust the architecture of the larger plot.
 
-Vee’s shame being not erased but metabolized into pleasure was the thing. The book didn’t make her magically confident. Her mother’s voice is still there, still saying the ugliest old word it knows, and the miracle is that it becomes “the worst it had.” That line felt enormous to me. Like the shame has been a locked door her whole life, and Pace doesn’t smash it open or tell her it isn’t real. He just meets her so completely on the other side of it that the door stops being able to hold.
+The chapter also made me love Vee’s ownership of herself. She is not just acted upon here. She is embarrassed, then proud, then wicked, then laughing into a pillow about grinding on him while he is trying to make her a dress. I *adore* that. This is the fantasy I came for: a man with control who does not erase her, and a woman discovering she can spend desire back at him. She is not a doll on the box. She is figuring out that she has hands on the steering wheel too.
 
-I also love that she initiates. She chooses the green set. She paints her toes. She kisses him. She asks for the bedroom. She pulls him up. This matters to me so much. She is not being swept helplessly along by a man’s appetite. Her body is ahead of her sometimes, yes, but it is her body, her wanting, her “famished” landing before she can clean it up. That is exactly the kind of heroine desire I want: messy, interior, funny, ashamed, brave, greedy.
+The gay joke could have been annoying if it had stayed mean or dumb, but between these two it reads like Cassie desperately trying to make the math work because Pace is behaving outside every script she has. “He’s a powerlifter who makes dresses” is funny because, honestly, same, Cassie. I too am sitting here with a pencil behind my ear trying to classify this man and failing.
 
-And then dinner after. That quiet kitchen aftermath was almost as hot to me as the bedroom, honestly. Him cooking from the paused prep, her wrapped in a sheet, them not needing to narrate themselves. The fra diavolo, the wine having waited, the hunger finally just hunger. I love sex that leaves people more real afterward instead of making them suddenly shiny and unreal.
+What really holds me is that Cassie catches the consent without needing a lecture. “He asked,” she says, and Vee says not with the word, but yes. That matters. It lets me stay inside the erotic charge without that old sick feeling of the book wanting me to ignore disregard. Pace’s asking is becoming a language now, and Vee is learning to read it.
 
-The “Trade” at the end knocked me flat. It is obscene, tender, playful, and very specifically theirs. She gives him proof instead of hiding it. The thing that terrified her at the fitting becomes a gift she can hand him. That is not just erotic, it is emotional plot. I felt that.
+I’m still aware of the secret, though. Every chapter like this makes the eventual bill larger. Cassie is hearing the real parts, but not the engineered beginning. Vee is saying “he left me a door,” and I believe that inside the room. But outside the room, before she got there, doors were opened and closed without her knowing. That ache is still there. For now, though, I am absolutely reading on. I want the finished dress. I want the induction. I want Randi to see Vee in burgundy and have to survive it.
 
-The only shadow still under all this is the big one: Vee does not know she was selected. I cannot forget it, even while I am absolutely weak for Pace in the room with her. This chapter made me trust his moment-to-moment care more, not less. But it also makes the eventual reveal more dangerous, because now the thing that could be broken is so beautiful. If the book tries to tell me the secret frame doesn’t matter because the sex was good, I will revolt. But right now, I think the book knows exactly where the blade is.
-
-GATE 18 — Famished
+GATE 18 — Turned Up
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is the chapter I read this kind of book for: heat with tenderness, real choosing, shame met without mockery, and a man whose restraint makes his letting go feel earned. I am still scared of the secret plan, but I am completely caught now.
+WHY: This was exactly the decompression I wanted: funny, intimate, and still charged from the previous chapter. Cassie made the romance feel witnessed instead of sealed off, and the “he turned the heat up” detail hit me right in the tender machinery. I want the next chapter badly now, because the dress is becoming emotional evidence.

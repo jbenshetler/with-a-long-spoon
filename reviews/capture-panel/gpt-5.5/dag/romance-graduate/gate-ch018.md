@@ -1,23 +1,22 @@
-*capture-dag-v2-rich · gate ch018 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~8611b8522702 · 2026-09-11*
+*capture-dag-v2-rich · gate ch018 · gpt-5.5 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha bca2ed17019a · 2026-09-28*
 
 REACTION —
 
-Oh. Well. There it is.
+Oh, this got me in the soft place after all that heat. Chapter 17 was a whole lit match held under my ribs, and this one is the exhale afterward, but not a boring exhale. It’s Vee trying to carry this enormous private transformation back into an ordinary dorm room with a radiator clicking and Cassie highlighting a textbook, and I loved that. I loved that the book didn’t skip the telling. In a lesser book, this would be filler. Here, the retelling is part of the seduction because it shows what Vee thinks happened to her after she’s had a little distance from it.
 
-This chapter did exactly what I’ve been waiting for the book to prove it could do: not just “finally, sex,” but finally sex that belongs to the psychological machinery already built. The heat didn’t feel parachuted in. It came out of the flannel, the fitting, the riser, the shame-voice, the way he asks, the way she answers before she can bear knowing she’s answered. I felt almost relieved, honestly. Like, yes, this is the book I bought.
+And Cassie. God, Cassie is so necessary. She makes me breathe easier. She’s funny without puncturing the thing, protective without yanking Vee out of her own desire. The “I was on a box” bit made me laugh because Vee keeps using it like a legal defense, like the platform changes the charge of being topless in front of him. And Cassie lets her be ridiculous. That is friendship. Real friendship, not romance-novel “best friend as applause machine.” She clocks the tenderness of the heated house, she hears the consent in “he waited,” she can tease Vee about not getting any and still understand that something serious happened there.
 
-The thing that got me wasn’t just Pace going down on her, though yes, obviously, thank you, finally. It was the way he meets her wetness as confirmation instead of accusation. That question — “Would you be bothered if I was too hard?” — is such a Pace move it almost made me laugh and clench at once. It’s consent, but it’s also a mirror. He’s giving her a way to understand her own arousal as mutual, not humiliating. He keeps taking the thing she thinks condemns her and making it evidence that she is wanted correctly.
+What got me hardest was Vee translating it into “It was like his eyes asked, May I look.” That is exactly why Pace is working on me against my better judgment. He is terrifyingly good at making restraint feel more intimate than taking. And I am not immune. I’m sitting here with all my alarms still alive because, hello, the hidden plan is still the hidden plan, but when she says she felt like she was supposed to be there? I felt that. I hate how much I felt that.
 
-And Vee. God. Vee buying the green set, painting her toenails plum, pretending the ballet flats mean she isn’t making choices. Sweetheart, you are writing the invitation in calligraphy. I loved that the shame doesn’t vanish. It runs through the whole thing, but for once it doesn’t shut her down. That feels truer and hotter than some miraculous “body positivity” flip where one good lover fixes a lifetime. Pace doesn’t cure her. He gives her a place where the shame can burn as part of the heat and not become a cage.
+Also: this chapter knew exactly when to let the pressure turn comic. After the almost sacred “on his knees / on the box” moment, Cassie asking if he’s gay could have flattened the whole thing, but instead it gave Vee a way to own her own wickedness. “I was grinding on him” is such a delicious little turn because she’s not only the trembling chosen girl anymore. She’s starting to enjoy having power. Not fake power, not girlboss cosplay. Erotic power. The kind that scares her and delights her at the same time.
 
-I also really liked the after. The dinner after, the quiet, the sheet, the fra diavolo, the wine finally drunk. That mattered. So many books would climax the chapter and then cut away, but here the hunger is literal too. She is fed after being used, and that fed/used pairing is absolutely the point of the whole thing. It’s domestic and filthy and tender, which is apparently my exact damage.
+I did notice Randi’s absence. Not in a bad way. More like a shadow in the corner. Vee has this whole incandescent thing with Pace, then brings it to Cassie, and Randi isn’t in the room. But I know Randi is coming for this story somehow, and I’m newly nervous because the thing between Pace and Vee is not just flirtation now. It has substance. A dress. A ritual. Measurements. A private grammar. If Randi thinks she can hold this like a game piece, she may be very wrong.
 
-The “Trade” at the end? I made an actual small noise. Because that is Vee choosing to give him the evidence instead of hide it. The same thing that would have annihilated her at the fitting becomes an offering. Not a coy souvenir, not a tropey billionaire keepsake, but a green satin thesis statement. I am not immune.
-
-I’m still side-eyeing the architecture, because Pace is still Pace and every perfect staging detail is also control. The stopped dinner prep, the wine breathing, the warm house, the bedroom waiting plain and white: gorgeous, yes, but arranged. He is not improvising nearly as much as Vee feels he is. And I’m thinking hard about Randi now, because Vee has just crossed a threshold Randi helped build and also clearly had feelings about. The next lunch is going to be radioactive.
-
-GATE 18 — Famished
+GATE 18 — Turned Up
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter paid off the slow burn without abandoning the emotional precision that made me trust it. It was explicit, charged, psychologically specific, and afterward it left Vee changed in a way I believe.
+WHY: This was a bridge chapter, but it was alive because Cassie’s presence let Vee process the erotic and emotional meaning of what just happened instead of simply recapping it. The heat was mostly afterglow and confession, but the bond deepened hard: Pace thinking to turn up the house heat, Vee naming the way his eyes “asked,” and Cassie receiving all of it without making Vee smaller. I want the finished dress badly, and I want Randi’s reaction even more.
