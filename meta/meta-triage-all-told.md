@@ -1,5 +1,7 @@
 # Triage — All Told (line-audit pass, 2026-08-01)
 
+*Note (2026-09-28): All Told was folded into `sorority.md` as its Friday movement; line refs below point at the pre-fold file (`git show b39d810f:scenes/all-told.md`).*
+
 Source: `audits/line-audit/all-told.md`, reviewed with the author.
 **The "Left standing" section records authorial decisions — do not re-flag
 these without new evidence** (a new reader cohort snagging on the same spot,
@@ -13,7 +15,7 @@ or an edit that re-opens the passage).
 - **":53 Vee's body had been keeping the night's account"** (was "Her body")
   — the prior sentence's subject is Randi; same referent pattern as the
   {{Fed}} curbside fix.
-- **Chronology `present:` fields** — Cassie added to {{All Told}} and, per
+- **Chronology `present:` fields** — Cassie added to {{Sorority}} (Friday movement, formerly All Told) and, per
   the author's broader directive (Cassie pill coming to `chronology.html`),
   to every already-reviewed entry where she is physically on-page:
   {{Water Wings}}, {{May I Choose}}, {{Off Six-Fourteen}}, {{Rye}},
@@ -236,7 +238,7 @@ Everything else in this chapter's prior passes stands. The professor's own
 material is **protected** and must not be stripped by a later reviewer: `:35`
 ("the flat unbothered voice of a man reading the back of a cereal box"), `:37`
 ("the smile of a man who had laid the same trap a hundred times"), and `:65`
-(the little red dot) are the prop's signature, and the {{All Told}} walk-on
+(the little red dot) are the prop's signature, and the {{Sorority}} (Friday movement, formerly All Told) walk-on
 principle — *a signature gesture spent on a walk-on is an argument for cutting
 it* — has a **recorded carve-out** for this character
 (`meta-note-stats-professor.md`, "Carve-out against the walk-on principle").

@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.5 · relationship-first · prompt-sha 36ce75fcf3e4 · prose-sha b727880313ed · 2026-09-27*
+*capture-dag-v2-rich · gate ch025 · gpt-5.5 · relationship-first · prompt-sha 4d4fde415301 · prose-sha d47ba6c6da73 · 2026-09-28*
 
 REACTION —
 
-Oh, this chapter made me ache in a quieter way than the dress chapter did. After all that silk and heat and ridiculous, laughing sex, this is the morning after as social weather: Vee carrying the night around campus like a fever, not even minding being late because ordinary time cannot quite touch her. I loved that. I believed that exact stupid invincibility of being twenty-one and underslept and sexually remade and still having to go to statistics.
+Oh, this one got me in the social-money nerve. Not the sex nerve first, though Randi on one knee with Vee’s foot in her hands absolutely knew what it was doing to me. The money. The debit card going back into the wallet. The credit card coming out. That little private collapse of “I can’t afford this” into “the dress is owed this” felt so horribly, gorgeously true that I wanted to put the book down and stare at the wall for a minute.
 
-And the seating. God. Cassie and Randi on either side of her, the seat left open between them, is such a small arrangement and such a huge one. That is the whole book’s current shape: Vee in the middle, held by the plain friend who sees the person and the brilliant friend who sees the opportunity, and Vee feeling only lucky because both kinds of attention feel like love from inside the warm center of it.
+And I loved the opening, Vee between Cassie and Randi in stats, because that is exactly the triangle now. Cassie watching Vee, not the dress. Randi naming and intensifying the fantasy. Vee happy in the middle, not yet having to understand that one friend is keeping track of her and the other is feeding the fire. The Simpson’s paradox lecture was almost too neat, but I didn’t mind it because the book has earned that sort of little bell: same numbers, different grouping, reversal. Vee thinks she’s living one story when you isolate each part. Put the parts together and the answer changes.
 
-Cassie just about broke me here. “Your bed’s made” is so perfectly her: no drama, no moralizing, just the fact on the table. And then the moment where Vee realizes Cassie never cared about the dress as an object, only what the dress has done to Vee. That felt true in my chest. Cassie is still the one I trust because her attention doesn’t inflate Vee or consume her. She watches for damage. When Vee says, “Oh, yes,” and something eases in Cassie’s face, I felt that ease too. She can let Vee be happy once she has checked that it is happiness.
+Cassie’s “Was it a good night?” just about undid me. She doesn’t need the details, doesn’t want ownership of the erotic confession, doesn’t perform sophistication. She just wants to know whether her friend is well. And Vee gets to say yes twice. I am clinging to Cassie like furniture in a flood.
 
-Randi, meanwhile. “You lucky slut” is so exactly the kind of thing that can be affectionate and hot and also land right on the bruise. I don’t think she meant to hurt her. I almost wish she had, because accidental precision is scarier. Randi has a genius for finding the next opening. Vee says one practical little worry — shoes — and Randi instantly turns it into a date, into more access, into another private female ritual around the dress and the body and being seen. And I wanted to go! That’s the terrible thing. I want the shoe-shopping chapter. I want Randi choosing the impossible heel and kneeling at Vee’s foot or watching her ankle in a mirror. I know exactly why Vee doesn’t say no.
+Randi, though. God. She is so good in this chapter that it’s frightening. “He made it to you” is exactly the thing, and of course she can say it because she understands both the dress and the seduction. Then the shopping trip becomes this almost perfect friendship afternoon: jokes in the cheap store, Randi actually laughing, Vee feeling funny and seen, the shared shoe size intimacy, the sudden “we can share” that sounds like a joke and absolutely is not only a joke. It made me warm toward Randi in the most inconvenient way. I could feel why Vee would think, I have never had a friend like this. Because she hasn’t.
 
-The statistics lecture is maybe too on the nose and also I don’t care because it works on me. Same numbers, different grouping, different truth. Pace alone with Vee is one story. Randi alone with Vee is another. Cassie’s facts are one thing. Put them together and the shape reverses. Nobody touched the numbers. The meaning changes anyway. That is the whole trap of the book right now: every individual yes is real, but the aggregate might tell a different story.
+But the boutique scene is where the chapter turned its key. Randi kneeling to put the shoe on her is not just shopping. It is service, staging, claiming, erotic instruction, class initiation, all of it hidden under “I’ve got her.” And Vee’s body knows before her mind does. The thumb over the polished toe is small enough to deny and intimate enough to change the air. Randi is getting access through the exact route Pace used: care that makes Vee more herself. That is the most dangerous kind of care in this book.
 
-And that last image: Vee walking out between them, happy and starving, the dress still unseen. I’m so keyed up by the public future of the dress now. It has been made, tried, eroticized, hidden, bagged. Now it needs witnesses. I can feel the book moving toward a room where everyone sees a different dress.
+I also felt a tiny sourness, not at the writing but at the situation, when Vee bought the shoes. Randi doesn’t force her, doesn’t offer to pay, doesn’t say “put it back,” doesn’t say “this is too much.” She creates the room where Vee cannot bear to choose the sensible thing. And then she buys her own shoes at some impossible multiple without looking. That contrast hurt. It isn’t villainy. It’s worse than villainy because it is mixed with real delight and real tenderness and maybe real desire. Randi can give Vee the afternoon of her life and still leave her holding debt against her chest.
 
-GATE 25 — All Told
+I’m still continuing, very much. But my delight has a bruise on it now. The dress was Pace making Vee visible to herself. The shoes are Randi teaching her what that visibility costs.
+
+GATE 25 — Sorority
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-HEAT: 1
+HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: This pulled me less by event than by arrangement: Vee physically between Cassie and Randi, loved in two incompatible languages, and not yet able to read the difference. I want the shoe date badly, and I want the induction even more, because the dress has become a loaded object now, not just a beautiful one.
+ALMOST-STOPPED: "and put it back, and took out the other one, the credit card she kept for emergencies and gas and the months that ran long"
+WHY: I was completely inside this chapter: the girl-talk, the dress, the cheap-store laughter, the boutique dread. Randi’s attention is intoxicating and dangerous in exactly the right proportion, and the money made the seduction feel suddenly material, not just psychological. I want the induction badly now, but I’m also afraid of who is going to be watching Vee walk in.

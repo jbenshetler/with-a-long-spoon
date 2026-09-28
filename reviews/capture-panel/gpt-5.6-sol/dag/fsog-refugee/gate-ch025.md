@@ -1,18 +1,24 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b727880313ed · 2026-09-27*
+*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d47ba6c6da73 · 2026-09-28*
 
-REACTION — Oh, Cassie. She asks one question—“Was it a good night?”—and waits only long enough to know her friend is happy. She doesn’t need the dress, the details, or access to the locked room. That tiny easing in her face made me love her more than all Randi’s warm attention and gorgeous plans put together. Randi makes Vee feel fascinating; Cassie simply sees Vee. There is such a difference, and Vee is sitting physically between them without understanding it yet.
+REACTION
 
-And yes, I felt the pull of Randi immediately. Of course shoe shopping with her sounds irresistible. Of course she can turn a lack into a date before Vee has time to feel embarrassed about money or say no. “Don’t you dare tell me no” would be harmlessly bossy from almost anyone else, but from Randi it carries the whole secret machinery underneath it. She keeps making Vee’s world brighter and larger while quietly removing the moments in which Vee might choose something different. I’m dreading how much fun Saturday will be, because I know I’m going to enjoy it too.
+Oh, Vee. The shoes made my stomach drop.
 
-The lecture made my stomach drop. Same numbers, nobody touched one of them, opposite truth depending on what frame you put around them. That is the entire trap. Every yes is real. Every act of care is real. Vee really did choose Pace, and she really is beginning to choose Randi. Put those moments together without the hidden arrangement and they tell one beautiful story; add the missing category and they may tell another. Nobody has to falsify a single fact to deceive her.
+I was so happy for her at first—actually happy. Cassie asking only, “Was it a good night?” and visibly relaxing at the answer is exactly why I trust her. She sees Vee, not the spectacle around Vee. And having Cassie and Randi together showed the difference between them so cleanly: Cassie watches to make sure Vee is all right; Randi finds the next want and turns it into momentum.
 
-And that last line—“still shown to not one living soul”—felt almost cruel. Pace made the dress, Vee wore it for him, he saw her in it, and yet the sentence is true because she does not know the whole living person she showed it to. She is so happy between “both her girls,” carrying the best night of her life, and I am happy for her while wanting to shake the walls. Tell her. Please tell her before the induction, before the shoes, before Randi becomes part of the finished picture too.
+And the awful thing is that I loved Randi here. I loved them being ridiculous in the cheap shoe store. That real laugh, Randi folded over the bench, Vee feeling funny and easy and chosen—I understand completely why Vee thinks she has never had a friend like this. Then Randi sees her in the dress and goes still, and “He made it *to* you” is so precise and intimate that it almost hurt. She knows exactly how to name the thing Vee cannot name for herself. That gift is real. So is the wanting when she touches the dress on Vee’s body. So is the charge when she kneels, holds Vee’s foot, strokes the plum-painted toenail, and looks up. God. Yes. I felt that all the way up too. Vee wants her. There is no explaining that one away as sophistication or a French goodbye.
 
-GATE 25 — All Told
+But Randi also knows exactly what she is doing. “Don’t you dare tell me no” sounds playful until the afternoon ends with Vee putting shoes she cannot afford on an emergency credit card. Randi sees the silence in that boutique. She sees everything. She may not know the balance in Vee’s account, but she knows Vee is out of her depth, and instead of giving her room to say so, she supplies a beautiful justification: the dress deserves these, this is who you are becoming, don’t apologize. Then she casually buys shoes costing several times more, making Vee’s terror feel gauche and unsayable. I wanted her to stop. I wanted her to say, “These are perfect, but we’ll find your version somewhere else.” That would have been care.
+
+And Vee’s thought that the shoes were “not a want she had to own as a want” frightened me more than the purchase itself. That is the machinery. Her own desire gets renamed as obligation, so she can act on it without admitting its cost. The dress is “owed” shoes; Randi is owed the outing; Pace is becoming her “lover”; every choice remains technically hers while the frame around it keeps narrowing. Same numbers, nobody touched one of them—and the conclusion reverses depending on how they are arranged. That lecture was sitting there like a warning siren.
+
+I’m continuing because I am completely caught, but I am not floating in Vee’s happiness anymore. The dress is gorgeous, the shoes are right, Randi’s desire is hot and increasingly unmistakable—and I can see the bill coming in every sense.
+
+GATE 25 — Sorority
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: Cassie’s quiet love warmed me, while Simpson’s paradox turned the whole chapter into an alarm bell. I need the next chapter because Vee’s happiness is now resting openly between the two people who built its hidden frame, and the truth feels closer even though she cannot see it.
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: “The shoes were not a want she had to own as a want. They were what the dress was owed.”
+WHY: Randi and Vee together are warm, funny, intimate, and dangerously charged, which makes Randi’s manipulation harder—not easier—to dismiss. I need to see when Vee finally recognizes both her desire for Randi and the cost of being guided by someone who always knows where the day is going.

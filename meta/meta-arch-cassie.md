@@ -129,15 +129,15 @@ Standard double with Vee — **bunk beds (Vee took the top without being asked)*
 
 **The quiet chapters are by design and Cassie stays passive.** Do not promote Cassie to an actor to lift a capture dip — it crowds. Her job is the honest friend who wants nothing from Vee, who warns (Cassandra) and is not heeded, and who is the audience surrogate at the very end. Cassandra is a speech act, not an action.
 
-**Read the capture instrument by the standing rule, CAPTURE against NEXT.** In the 2026-09-27 whole-volume run (`reviews/capture-panel/split-experiments/recognized-method-seam/`, 21 readers), every Cassie chapter carries NEXT above CAPTURE ({{Off Six-Fourteen}} 7.1/8.1, {{Rye}} 6.6/7.5, {{Turned Up}} 7.2/7.6, {{Toenails}} 6.8/7.6, {{All Told}} 6.7/7.5): working breathers, not stalls. The ALMOST-STOPPED field is not a near-stop count — readers put the highest-impact line there with an explanation — so it is not a stall diagnostic for these chapters. What the readers name is being told the same event twice in a row, not the talk and not the quiet.
+**Read the capture instrument by the standing rule, CAPTURE against NEXT.** In the 2026-09-27 whole-volume run (`reviews/capture-panel/split-experiments/recognized-method-seam/`, 21 readers), every Cassie chapter carries NEXT above CAPTURE ({{Off Six-Fourteen}} 7.1/8.1, {{Rye}} 6.6/7.5, {{Turned Up}} 7.2/7.6, {{Toenails}} 6.8/7.6, {{Sorority}} (Friday movement, formerly All Told) 6.7/7.5): working breathers, not stalls. The ALMOST-STOPPED field is not a near-stop count — readers put the highest-impact line there with an explanation — so it is not a stall diagnostic for these chapters. What the readers name is being told the same event twice in a row, not the talk and not the quiet.
 
 **Agreed approaches (author, 2026-09-27), in the order to try them:**
 1. **Elide the recount, keep the reception.** *She told her* in a sentence; then only what Cassie says back and what Vee leaves out. The reader already has the event.
 2. **One unheeded true sentence per Cassie chapter.** Not a warning speech — one plain observation Vee laughs off, so the surrogate at the end has a record behind her.
 3. **Vary the shape across the Cassie chapters:** told · told deeper · can't tell · silence (*Hmm.*) · Cassie's own ordinary evening with the news arriving sideways · the warning. Three of the fall six currently share the first shape.
-4. **Distance.** Not the chapter directly after the scene it retells ({{Rye}}, {{Turned Up}}, {{All Told}} each sit one chapter after theirs).
+4. **Distance.** Not the chapter directly after the scene it retells ({{Rye}}, {{Turned Up}}, {{Sorority}} (Friday movement, formerly All Told) each sit one chapter after theirs).
 
-**{{All Told}} — not a retell of a retell (author correction, 2026-09-27):** Vee has seen neither confidante since she got the dress. **Candidate, not decided:** fold it into an abbreviated preface to {{Sorority}}, which needs it to bridge.
+**{{Sorority}} (Friday movement, formerly All Told) — not a retell of a retell (author correction, 2026-09-27):** Vee has seen neither confidante since she got the dress. **Candidate, not decided:** fold it into an abbreviated preface to {{Sorority}}, which needs it to bridge.
 
 ## Continuity Flags
 

@@ -4,11 +4,11 @@
 
 ## Summary
 
-The second showing-to-Randi scene — a warm triptych: the finished gown's first unveiling to Randi (Vee's dorm room), a giggling strike-out at Vee's own cheap store, then the boutique fitting. Structured as the contrast to Vee showing Cassie in {{All Told}} (Cassie watches the *person*; Randi runs *appraisal-as-interest*). **Played straight:** the dark is **reread-only**, carried by Randi's appraisal and the deniable physical installation — **not** by any planted secret. Establishes shopping-together as a format Randi excels at.
+The second showing-to-Randi scene — a warm triptych: the finished gown's first unveiling to Randi (Vee's dorm room), a giggling strike-out at Vee's own cheap store, then the boutique fitting. Structured as the contrast to Vee showing Cassie in {{Sorority}} (Friday movement, formerly All Told) (Cassie watches the *person*; Randi runs *appraisal-as-interest*). **Played straight:** the dark is **reread-only**, carried by Randi's appraisal and the deniable physical installation — **not** by any planted secret. Establishes shopping-together as a format Randi excels at.
 
 ## Form
 
-Triptych, close-third Vee, three movements split by `---` (dorm → bypass store → boutique), **match-cut on the dress** (worn → bag-zip → carried → hook). Opens in medias res (the outing set by Randi's velvet order in {{All Told}}).
+Triptych, close-third Vee, three movements split by `---` (dorm → bypass store → boutique), **match-cut on the dress** (worn → bag-zip → carried → hook). Opens in medias res (the outing set by Randi's velvet order in {{Sorority}} (Friday movement, formerly All Told)).
 
 ## Panel I — Vee's room (the unveiling)
 

@@ -14,7 +14,7 @@
 |---|---|---|---|
 | 4 | {{See You Later}} | residuals → *latent variables* | slides forward and back, *"a man checking that the road was still there"*; mic clipped to his collar; over-used laser pointer; *"Read the chapter. It's shorter than it looks."* |
 | 10 | {{Dear}} | drops a thread at the bell | *"the voice of a man reading aloud from a phone bill"* |
-| 22 | {{All Told}} | Simpson's paradox | *"the flat unbothered voice of a man reading the back of a cereal box"*; *"the smile of a man who had laid the same trap a hundred times"*; the little red dot |
+| 22 | {{Sorority}} (Friday movement, formerly All Told) | Simpson's paradox | *"the flat unbothered voice of a man reading the back of a cereal box"*; *"the smile of a man who had laid the same trap a hundred times"*; the little red dot |
 | 30 | {{The Practice Room}} | additive vs. innovational outliers | slides forward and back, *"a man making sure the road was still there"*; *"the flat voice of a man reading a course catalog aloud"* |
 | 39 | {{The Outlier}} | the semester project | *"clicking the slide forward and then back… like a man checking the pressure in a tire"*; *"flat, weatherless"* |
 
@@ -42,7 +42,7 @@ This is where every reader complaint about the device actually lives — not wit
 
 ## Carve-out against the walk-on principle
 
-The {{All Told}} review established: *"a character's signature gesture spent on a walk-on is an argument for cutting it, not for protecting it"* (echo ledger, Pace's smile / *unhurried*).
+The {{Sorority}} (Friday movement, formerly All Told) review established: *"a character's signature gesture spent on a walk-on is an argument for cutting it, not for protecting it"* (echo ledger, Pace's smile / *unhurried*).
 
 **That principle does not apply to the stats professor's own appositions.** The `a man who…` frame and the rotating flat similes are *his* signature, not a register leak from Pace, and the reread design requires them to accumulate. Without this carve-out a later reviewer will strip precisely the material that makes the device work. The principle still governs any *Pace* vocabulary that drifts onto him.
 
