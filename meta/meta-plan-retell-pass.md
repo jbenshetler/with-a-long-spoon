@@ -6,6 +6,8 @@
 
 **Processing is different from retelling.** Vee working out what an event meant — *it was like his eyes asked, May I look*; *like I was supposed to be there*; the heat turned up hours before — is processing and stays. The listener's reaction, probe, reframe, or refusal is reception and stays. **Retelling** is the prose re-narrating the mechanics of an event the reader has already seen (the sequence, the procedure, the inventory). That is what gets cut or reduced to a sentence, unless a reception beat depends on the reader hearing it again in Vee's voice.
 
+**Second clause (author ruling 2026-09-28): the gap is the arc.** *What and how Vee tells Cassie versus Randi is the shape of Randi's influence and grooming, the gap growing over time.* Each Cassie/Randi pair is a reading on that gauge, and the gauge only works if the early readings are full. A cut may never change what one confidante receives relative to the other at that date. Cuts that remain safe are the ones *inside* one telling (a recap of a telling, a pre-summary that the dialogue then re-narrates, enumeration), never across the pair.
+
 Standing discipline this pass applies: `meta-arch-cassie.md` §The Retell Chapters (elide the recount, keep the reception; one unheeded true sentence; vary the shape; distance) and `meta-plan-satc-tracks.md` §The Cassie/Randi Sort (the same event told to both confidantes is SORTED, never duplicated).
 
 ## The finding: three stacks, not the venues
@@ -20,13 +22,30 @@ Three times the volume runs *event → Cassie → Randi* in consecutive chapters
 
 The double tellings stay — the divergences are the payload (*I did it on purpose, me* → *because of him*; *a few days* → *two days*; brass cages → *May I choose*; *he just looked* → *I let him look*). The dates are fixed, so distance is not available inside a stack; **proportion is the lever**, and {{Turned Up}} (48% recount, same afternoon as its event) is the heaviest. {{Portion}} now breaks the Friday stack's tail.
 
+## The gauge — what each confidante is given, by date
+
+| When | Cassie gets | Randi gets | Gap |
+|---|---|---|---|
+| Dinner, Sep ({{Off Six-Fourteen}} / {{Dear}}) | The kiss as her own act, the tree, the tea | *May I choose*, *I let him*, *because of him* | Same facts, a reframe |
+| Fitting, Oct 3–4 ({{Turned Up}} / {{How It's Done}}) | Nearly everything: *the bra too*, *he asked*, the grinding as triumph | The wet-spot ladder; the platform secret never told Cassie, which Randi refuses | One secret |
+| Friday night, Oct 9–11 ({{Toenails}} / {{Fed}}) | The dinner whole, the middle lifted out with the ladle | The sheet hour, *I wanted it and I took it* | The middle |
+| The dress, Oct 16–17 ({{Sorority}}) | *Oh, yes*, read off her face | The shoe date, her feet in Randi's hands | The body |
+| The dance, Oct 23 ({{Broken In}}) | Feigned sleep and *Hrm* | The whole fight, the wardrobe, the plan | Everything |
+| Heels and kitchen, Oct 26 ({{The Practice Room}}) | *See you in the room*, to the side of her head | The re-enactment in the practice room | Cassie is not told |
+| Spanking, Nov 1–9 ({{One Bite}} / {{School Nights}}) | The shape of her weeks; Cassie deduces *not enough on* | The full ladder, and Vee's hand in the bathroom | Cassie deduces what Randi is told |
+| Photos, Nov 14–29 ({{All the Time}} / {{Cropped}}) | The cropped photo for her parents; *can't say what he is* | *I gave him all of it* | Cassie gets the crop |
+| December ({{Bare}}) | She hides the shirt from Cassie; can tell no one | | Silence |
+| January ({{My Friend Randi}}) | Cassie's bed stripped, family in another state | Everything, and Randi writes the plan | Cassie is gone |
+
+**Consequence for {{Turned Up}} (ruled 2026-09-28):** it stays full. Its fullness is the early reading; a can't-tell shape there would put December's reading in October. Accepted with the 160-word mechanics trim; the shape-change option is withdrawn.
+
 ## Inventory and status
 
 Recount = words re-narrating a seen event. Safe cut = what the inventory judged removable without losing anything carried only there.
 
 | # | Chapter | Words | Recount | Safe cut | Status |
 |---|---|---|---|---|---|
-| 18 | {{Turned Up}} | 2,012 → 1,852 | ~970 | 160 cut | **cut on branch; panel flat** — see log |
+| 18 | {{Turned Up}} | 2,012 → 1,852 | ~970 | 160 cut | **done** — accepted with the trim; stays full (the gauge) |
 | 22 | {{Fed}} | 2,179 | 544 | ~170 (ll. 17–19: the recap of the Cassie telling — the one retell of a retell) | open |
 | 19 | {{How It's Done}} | 5,179 | ~530 | ~130 (l. 71 provenance; l. 90 evasive recount) | open |
 | 41 | {{All the Time}} | 3,287 | tenor summary | 150–200 (ll. 37, 41 enumeration; l. 57 overlaps {{School Nights}}) | open |
@@ -60,4 +79,4 @@ Estimated total recoverable ≈ 1,100–1,300 words. Under one percent of the vo
 ## Log
 
 - 2026-09-28 — doc opened; branch `retell-pass` created; {{Turned Up}} first.
-- 2026-09-28 — {{Turned Up}} −160 words (hike setup, silk, run-up to the bra, Cassie's rain recap, measuring rhythm, hem geometry). Panel on the cut: cold 4 models Heat 1–2 / Romance 2–3, no friction, unprimed readers warm to it. Capture 15 lanes: the five clean before/after pairs (relationship-first) moved 0, 0, 0, +1, −1 — noise. The two opus-4-8 lanes still call it a recap chapter, and the objection fires at the *first beat* ("He just." / the bag on the chair), before any mechanics: "seventeen told a second time," "the flannel-debrief structure over again." **Reading:** trimming mechanics does not touch what that reader feels; that is shape and distance, not proportion. Options: (a) accept — the unprimed instrument likes the chapter and the sort is the design; (b) change the shape (approach 3): the *can't-tell* debrief — Vee comes home and cannot tell it; Cassie gets the shirt, the heat, and the grinding, and the fitting itself stays untold until Randi extracts it the next day. Not ruled.
+- 2026-09-28 — {{Turned Up}} −160 words (hike setup, silk, run-up to the bra, Cassie's rain recap, measuring rhythm, hem geometry). Panel on the cut: cold 4 models Heat 1–2 / Romance 2–3, no friction, unprimed readers warm to it. Capture 15 lanes: the five clean before/after pairs (relationship-first) moved 0, 0, 0, +1, −1 — noise. The two opus-4-8 lanes still call it a recap chapter, and the objection fires at the *first beat* ("He just." / the bag on the chair), before any mechanics: "seventeen told a second time," "the flannel-debrief structure over again." **Reading:** trimming mechanics does not touch what that reader feels; that is shape and distance, not proportion. Options: (a) accept — the unprimed instrument likes the chapter and the sort is the design; (b) change the shape (approach 3): the *can't-tell* debrief — Vee comes home and cannot tell it; Cassie gets the shirt, the heat, and the grinding, and the fitting itself stays untold until Randi extracts it the next day. **Ruled 2026-09-28: (a).** The gauge (above) settles it.
