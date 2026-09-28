@@ -88,7 +88,7 @@ She went off him at once.
 
 No staying down. The chill took her, as it did, and she slid off him and found the cashmere blanket at the foot of the bed and rolled herself in it and lay on her side with her back to him, and did not say anything, and did not move.
 
-He lay there. He went over it. The speed of her, and the eyes shut, and no tell me, and now the back. He had all of it. He set each piece beside the next and they would not go together into anything he could name; it was the want, he thought, with an edge on it tonight, from somewhere. He did not put his hand in her hair. He lay behind her and listened to her breathing not change for a long time, and then change.
+He lay there. He went over it. The speed of her, and the eyes shut, and no *tell me*, and now the back. He had all of it. He set each piece beside the next and they would not go together into anything he could name; it was the want, he thought, with an edge on it tonight, from somewhere. He did not put his hand in her hair. He lay behind her and listened to her breathing not change for a long time, and then change.
 
 When it had, he got up.
 
