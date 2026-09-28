@@ -1,21 +1,26 @@
-*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~0b647a05ad40 · 2026-09-10*
+*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 0894d4db7f65 · 2026-09-27*
 
-REACTION — Oh, there it is. There is the second towel.
+REACTION
 
-I knew seeing Randi in Pace’s bed would hurt, but I wasn’t prepared for how *established* they would feel: her playlist in his front rooms, her body going loose in the one place she puts the performance down, his hands knowing exactly how to hold her afterward. This is not some casual arrangement orbiting Vee. This is a real, lived-in intimacy, and Vee has just bought emergency-credit-card shoes while thinking she has never had a friend like Randi and imagining Pace as her lover. I feel sick for her.
+Oh, this is exactly what I keep begging spicy romance to be: filthy, funny, emotionally specific, and so tender the tenderness makes the sex more dangerous.
 
-And Randi lied about the shopping trip. Not polished it, not simplified it—she took the ridiculous performance *she* did and gave it to Vee, then made Vee’s supposed humiliation cute and hot. Why? So Pace would see Vee as adorable and vulnerable? So Randi could tell him how attracted she is without admitting she was the one making a spectacle of herself? Even here, naked and postcoital in the safest place she has, she is still editing. That landed hard. She gives neither of them the unaltered version.
+The dress destroyed me before anyone even touched anyone. Pace staying up to finish it, hanging it in the window, adding the mirror, hiding every trace of labor so Vee could simply encounter herself as beautiful—there is no billionaire purchase that could compete with that. And when she sees a body the dress was made to honor rather than correct? “She looked like a lot of woman who knew exactly how much she was.” Yes. That is the fantasy. Not becoming thinner or cooler or less hungry, but being rendered so exactly that apology becomes impossible.
 
-“She’s not ready” made every hair on me stand up. Ready for *what*, precisely? Randi? Both of them? The truth? Whatever next stage these two have already discussed while Vee thinks she is moving through an ordinary new friendship and romance? And Pace’s “I want her to get there on her own” would be achingly lovely if she actually had the information required to know where “there” is. You cannot secretly choose the destination, arrange the road, and then congratulate yourself because she walks the final stretch voluntarily. I am furious with him in the exact place I’m still helplessly attracted to him.
+Then she takes off her own underwear because it interrupts the line. I nearly cheered. Pace doesn’t instruct her, coax her, or praise her into boldness. She looks, wants, chooses, and walks out with that slit opening to her bare hip because she wants him to see what she has decided to show. Her agency is so erotically alive here. She isn’t merely receiving his gaze now; she is composing it.
 
-But God, Randi. Pace describes Vee as the person who brightens a room while believing she is too much, and Randi goes *still*. Because that is what Vee does to her too. Because perhaps Pace has just described the woman Randi used to be, or the woman she cannot let herself be anywhere except on top of him in a dark room. Then she turns the feeling into sex before either of them has to name it. That is the emotional intelligence and damage I came for. Her riding him slowly after they have both confessed love for Vee without using the word felt intimate, erotic, and deeply ominous—not a detachable sex scene, but three people’s entire problem happening through two bodies.
+And thank God the sex is playful. The absurd logistical crisis of trying to protect the silk while she’s holding his erection in both hands, “There’s a lot of you covered in a lot of me,” his involuntary response, her laughing until they can barely manage the dress—this feels like actual sex between people who are ravenous for each other, not another polished sequence of interchangeable commands. Then he cleans her fingers with his mouth while still holding the dress up, and, yes, that got me. Completely obscene, completely attentive, completely *them*.
 
-Also: Pace deliberately refuses to claim the image of Vee that Randi offers him. He sees Randi wanting Vee and leaves that desire in her hands. Tender, perceptive—and maddening, because apparently both of these people can recognize every truth except the one they owe Vee.
+But chapter 23 is sitting underneath all of this like a blade. Pace has just had that cold, wounded encounter with Randi, failed to understand what she needed, and apparently stayed up through the night sewing for Vee. Now Vee wakes beside him and reads his exhaustion as proof that he spent the night thinking only of her. She is not foolish; she is drawing the most loving conclusion available from the facts she has. That is what hurts. Her happiness is real, the dress is real, his care is real—and the missing woman is real too.
 
-My 1 a.m. text is: THE SECRET GIRLFRIEND IS NAKED IN HIS BED TALKING ABOUT HOW HOT VEE IS, SHE LIES TO HIM TOO, AND THEY ARE BOTH FALLING IN LOVE WITH HER WHILE CALLING THE TRAP “HER OWN PACE.” I am absolutely not sleeping.
+The final fantasy frightened me more than the sex thrilled me, which is saying something. Vee imagines entering the induction and letting the whole room look because Pace has made looking feel safe. She thinks it costs her nothing. But I know there is a cost already accruing outside her sight, in Randi’s untouched bowl and Pace’s bewilderment and the secret structure holding all three of them. “Getting away with something” is such a wicked final note because Vee thinks the transgression is her bare, unapologetic body. She has no idea what the actual hidden thing is.
 
-GATE 24 — Gone
+I would text a friend: *The custom dress made her finally see herself as expensive, then they nearly ruined it having sex, and somehow the hottest chapter is also making me feel impending doom.*
+
+GATE 24 — Peekaboo
 DECISION: CONTINUE
 CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is the collision I’ve been waiting for: established intimacy, explicit heat, genuine feeling, and manipulation woven so tightly together I can’t pull one strand without tightening the others. I’m furious, turned on, and now certain neither architect of this plan is remotely in control of it.
+WHY: This gave me the explicitness, laughter, interiority, and devastating tenderness I want in the same scene. Vee has never felt more fully herself, which makes the concealed truth feel more dangerous than ever, and I need to see her wear that dress into the world.

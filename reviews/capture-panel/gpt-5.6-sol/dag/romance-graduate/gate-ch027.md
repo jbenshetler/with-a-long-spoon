@@ -1,21 +1,26 @@
-*capture-dag-v2-rich · gate ch027 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~08b46669b5c5 · 2026-09-10*
+*capture-dag-v2-rich · gate ch027 · gpt-5.6-sol · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 719f6182adbd · 2026-09-27*
 
-REACTION — Oh, this is deliciously wrong.
+REACTION
 
-Vee comes to Randi wanting help repairing something she genuinely regrets, and within minutes Randi has taken custody of the entire apology: when Vee may go, how she should feel, what she should wear, even what Pace’s silence means. And Vee’s panic releases “because Randi had said so.” That chilled me. Randi gives excellent advice—waiting a day probably *will* make Vee steadier—but she cannot seem to help turning care into direction and direction into control. She knows Pace well enough to predict him because he is her boyfriend, and Vee hears that secret knowledge as almost magical emotional intelligence. I wanted to shake her and keep reading at exactly the same time.
+Oh, Randi. She is absolutely, helplessly in love with both of them, and she still thinks she can keep this inside the shape of a game.
 
-Also, Randi’s version of the fight quietly lets Vee off too easily. Yes, jealousy proves investment, but Vee didn’t merely reveal that she cared; she deliberately wounded Pace and felt glad when it landed. She knows that. I respect her for knowing it. Randi immediately turns the injury into evidence of romantic seriousness and then starts styling the reconciliation like an entrance. That is such an intoxicating thing to do for a ashamed twenty-one-year-old—and such a dangerous substitution for actually sitting inside what she did.
+Her asking whether there was anything to eat nearly undid me. After that untouched bowl last week, she stays down on his chest, admits Vee got past her, puts on his undershirt, sits bundled inside it by the stove, and eats everything he gives her. That is not casual intimacy. That is surrender in Randi’s language—and Pace notices every morsel without making the noticing into pressure. I am furious with these two and terribly gone on them, which I suppose is the entire trap.
 
-And then the shoe fitting. Good God. Vee standing there unable to see, Randi’s hands under the skirt, bracing high on her thigh, the thumb behind her knee, the whole architecture of the shoe holding her more securely by deciding where her foot goes—this book knows exactly what it is doing to me. That is not friendly dress-up with an accidental spark. It’s an erotic lesson in submission conducted under cover of wardrobe advice, and Randi is absolutely aware of it. “Maybe you just haven’t met your Evil Queen yet” is practically a confession delivered in costume.
+And finally, finally Pace knows. Maybe not about the kisses, and maybe not the full extent of it, but he knows Randi finds Vee hot. He hears her call the embarrassment hot; he watches her turn Vee’s hidden body into sex in his kitchen. His refusal to “take up the rest” is so Pace: tender restraint, possibly willful blindness, and also one more way these people avoid saying the sentence that might force the whole structure into daylight.
 
-The money bothered me again, though differently this time. Vee recognizes that those shoes cost more than a semester of books and simply refuses to finish the arithmetic. Randi lending rather than steering her into another credit-card purchase is kinder, but it also puts Vee literally into Randi’s structure: her shoes, her scarf, her instructions, her image of the woman Vee should be when she goes to Pace. Pace made the dress *to* her; Randi is now making the reconciliation to her. Vee experiences both as becoming more herself. That is the trap, and it’s a gorgeous one.
+The moment that hurt was Pace describing what Vee does to a room. Randi goes still because he is describing Randi too—or the Randi he once saw before she learned to keep “a hand on every ounce of herself.” Vee is not just the girl they chose. She is the mirror showing Randi the alive, excessive, unashamed woman she might have been, and now Pace is falling for that light in Vee while Randi sits there loving it and grieving it. That tiny “Yeah. She is.” had more ache in it than most entire breakup chapters.
 
-The kiss landing as “only what they did” made my stomach flip. That is how a boundary disappears—not with one dramatic crossing, but through repetition until Vee stops bracing before her mind has named what her body agreed to. She kissed Randi back freely. I believe that completely. I also believe Randi has carefully taught the kiss to feel inevitable.
+Also: Randi kept his sentence. She listened, came back, stayed, ate, and accepted his pace with Vee. That is a real turn between her and Pace, not a tidy resolution. Their sex afterward is scorching precisely because it isn’t a generic jealous reclaiming. Randi uses her own body to tell him what she wants from Vee, and he wants her because she has finally let the wanting show. They are speaking through Vee because direct speech is still too exposing, and it is intimate and dangerous and wildly hot.
 
-My 1 a.m. text would be: **Randi just dressed her secret girlfriend in her own shoes and scarf to send her back to their shared boyfriend, and Vee thinks she received friendship advice. I am unwell.**
+The title has me by the throat. Vee is gone over Pace. Randi says Vee got past her. Pace is gone watching Vee brighten rooms. And Randi, who thought she was managing everyone, is the most gone of them all.
 
-GATE 27 — broken-in
+My 1 a.m. text would be: *She ate the whole plate in his shirt and then got naked in the kitchen because he said Vee lights up a room. This is no longer anybody’s little game.*
+
+GATE 27 — Gone
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The emotional manipulation and the erotic charge are now the same action, which is exactly what I came for. I need to see Vee arrive at Pace’s door wearing Randi’s instructions—and whether Pace recognizes whose hands dressed her.
+WHY: This gave me the emotional interior of the triangle without sacrificing an ounce of heat. Randi’s hunger is finally visible to Pace, Pace and Randi have made a real repair, and every tenderness now tightens the secret around Vee—I need the collision immediately.

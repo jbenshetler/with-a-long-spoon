@@ -1,0 +1,30 @@
+*capture-dag-v2-rich · gate ch023 · claude-fable-5-1 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 7771371ad221 · 2026-09-27*
+
+REACTION
+
+I was braced for *tell*. I've been braced for it for three chapters. She'd drive out, wine in her mouth, and he'd give her the toes and the green and the fold in thirds, and I'd know what he was. And instead she walked in and said "You cooked. You shouldn't have," like a woman talking to a man she's about to leave, and said "it's wonderful" to a stew she then didn't eat, and I sat up in bed because *he* heard it. He heard the waiter voice. He knew she'd never said it to him before and he didn't know where to put it and neither did I.
+
+He didn't ask what Vee said. *That was Vee's.* Two lines, and the whole thing I'd been dreading just — didn't come. And it's not that he passed a test. Nobody set the test. She came to him with "she told me about Friday" in her mouth and stopped there, and he let her stop, and I realised the two of them are both keeping Vee's things now, separately, without telling each other, and that's a thing that can't hold. That was the moment I knew this wasn't the chapter I'd been waiting for; it was a worse one.
+
+The small bowl. He gave Randi Vee's bowl — the one he slices her apples into — and he "set it aside" that she put her bag on the chair by the door, the chair that's always had nothing on it, and I don't think he clocked that he'd set Vee's bowl in front of the woman who just spent a morning hearing "I wanted it and I took it, for once" across a white cloth. Randi clocked it. She drew one line through the sauce and put the spoon down. She ate the salad, all of it, down to the leaves with the most dressing, and I don't know why that undid me except that it's the opposite of Vee at the smoothie shop pricing Thursday — Randi could have anything on the table and chose the leaves. The jacket says Vee is starving. Randi's the one not eating.
+
+And then "How long, Pace." I've been waiting twenty chapters for someone to ask Randi what she's doing and instead she asked *him*, and she asked it wrong on purpose, because the thing she wants isn't the schedule. "You've got her Friday to Sunday." That's not a woman impatient for the plan. That's a woman jealous of the man who has the girl. She's not in a hurry to get to *us*. She's in a hurry because *us* is the only door to Vee she's built, and every weekend he has her alone is a weekend Randi is sitting in a sun porch getting the painting instead of the girl. He can't see it. He sees the want "with an edge on it tonight, from somewhere," and lays the pieces side by side like he lays tools in their outlines, and they won't go together, and I'm sitting here able to name it and he can't, and that's the first time in this book I've been ahead of *him*. It's a cold feeling. I didn't like it. I think it's the point.
+
+Now the part that split me down the middle. "How do I get her from where she is to us, on your schedule?" *Us.* He said it. Out loud, in a sentence, the destination — and then, one breath later, "She chooses it, Randi. Every step of it. Or it isn't anything." And God help me, that's my sentence. That's the sentence I left the whole shelf to go find. The man who kneels an hour at the pedestal and finishes the hem. And he's saying it about a road he's already paved to a house she doesn't know is there. I believe he means it. I believe he'd stop the whole thing at her first real no. And it doesn't make the *us* not an *us*. I've had the jacket's last line in my head since chapter one, and this is the chapter where I felt it in my stomach instead of understanding it: every yes freely given, up a staircase two people built. He's not lying to her. He's just deciding what she doesn't know, again, and calling it her pace.
+
+She poured her own glass. He'd poured every one. It "went in somewhere and stayed" and he couldn't say where, and I could: that's the one thing in his house she's ever taken without letting him hand it to her, and she did it right after he said *she chooses it*. Fine. Then Randi chose.
+
+The sex — I don't want to call it that. She didn't say *tell me*. She rode him with her eyes shut and her hair over her face and I kept thinking of Vee, eyes shut, blood loud, and his face already up waiting at her eyes, and here's Randi doing the same shut eyes and there's no face waiting, there's a man with his hands on her hips waiting for a word that's not coming, and eventually he "stopped waiting and gave her what she was taking." That's not heat. That's a woman doing to him what she heard Vee say she'd done — *I took it* — and finding it's nothing, from the other side. Then the blanket, the back, and he didn't put his hand in her hair. He *thought* about it. He lay behind her and didn't. I'd have forgiven him almost anything for that hand and he kept it, and I'm furious at him for the right reason for the first time.
+
+And then he covered the bowl and put it in the fridge for her. For *her*. Randi. Still hungry after, made more — that's what he did after the night she rode him for the girl, and this is the same man doing the same thing, and it's the only kind thing in the chapter and it's the kind of thing you do for a woman you've already lost. I'd text at 1 a.m.: *he put her bowl in the fridge and I'm crying about a bowl.*
+
+It's been three chapters since he and Vee were alone in a room. I feel it. I'm not worried about it. This one earned every page of the gap; it's the door in the middle of the house I've been trying to see behind, and it opened, and the room was cold.
+
+GATE 23 — Portion
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: "How do I get her from where she is to us, on your schedule?" — the *us*, said aloud in his own voice, one breath before my favourite sentence in the book.
+WHY: He kept Vee's things and I saw him keep them on the page, which is what I asked for — and the same chapter showed me the road he's kept them for. Randi's breaking and he can't read her and I can, and I have to know what she does with a fridge full of the bowl she wouldn't eat from.

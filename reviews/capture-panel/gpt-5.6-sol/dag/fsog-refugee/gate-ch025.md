@@ -1,21 +1,18 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~178a1c64010d · 2026-09-11*
+*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b727880313ed · 2026-09-27*
 
-REACTION — Oh, this got me. Not because anything conventionally dramatic happened, but because they sat half-dressed under a quilt and let each other become people. His hand simply holding her breast while he listens to her talk about casseroles and unopened saffron—yes. That is exactly the warmth I want alongside the sex. Her body is not a performance he switches on and off; it is part of the ordinary tenderness between them.
+REACTION — Oh, Cassie. She asks one question—“Was it a good night?”—and waits only long enough to know her friend is happy. She doesn’t need the dress, the details, or access to the locked room. That tiny easing in her face made me love her more than all Randi’s warm attention and gorgeous plans put together. Randi makes Vee feel fascinating; Cassie simply sees Vee. There is such a difference, and Vee is sitting physically between them without understanding it yet.
 
-And Vee is so good with him here. “They took the thing you loved and made it the punishment” went straight through me. She sees beneath his careful little factual sentences because she knows what it is to have shame fastened onto something alive in you. More importantly, she doesn’t pry once she sees it. She offers her shoulder, trades a story when she asks a vulnerable question, and accepts “not tonight” without turning wounded or coy. That hand held over the scar—question, boundary, continued closeness—is almost painfully intimate. This is consent outside sex, and I needed to see that from them.
+And yes, I felt the pull of Randi immediately. Of course shoe shopping with her sounds irresistible. Of course she can turn a lack into a date before Vee has time to feel embarrassed about money or say no. “Don’t you dare tell me no” would be harmlessly bossy from almost anyone else, but from Randi it carries the whole secret machinery underneath it. She keeps making Vee’s world brighter and larger while quietly removing the moments in which Vee might choose something different. I’m dreading how much fun Saturday will be, because I know I’m going to enjoy it too.
 
-Peter. God. Pace is the name of forward motion, the self he built once he escaped that hallway; Peter is the child whose desk was put outside. Hearing it made him feel terribly young to me for the first time.
+The lecture made my stomach drop. Same numbers, nobody touched one of them, opposite truth depending on what frame you put around them. That is the entire trap. Every yes is real. Every act of care is real. Vee really did choose Pace, and she really is beginning to choose Randi. Put those moments together without the hidden arrangement and they tell one beautiful story; add the missing category and they may tell another. Nobody has to falsify a single fact to deceive her.
 
-And Daphne. No, sweetheart. Nineteen and fifteen, with her formally assigned to help him? The clean ugly grown-up word formed in my mouth too. His insistence that nothing happened and nobody did anything wrong, followed by “I didn’t feel young,” made my stomach drop because that is exactly how a fifteen-year-old survives making sense of it. Of course it felt like the best two years he had—he had been isolated, displaced, and then one older person made him feel chosen. The fact that it felt precious to him does not make the imbalance disappear. I’m relieved the chapter understands that and lets Vee understand it without forcing a label into his mouth before he is ready.
+And that last line—“still shown to not one living soul”—felt almost cruel. Pace made the dress, Vee wore it for him, he saw her in it, and yet the sentence is true because she does not know the whole living person she showed it to. She is so happy between “both her girls,” carrying the best night of her life, and I am happy for her while wanting to shake the walls. Tell her. Please tell her before the induction, before the shoes, before Randi becomes part of the finished picture too.
 
-It also rearranges Pace for me. The man who asks, waits, and treats closed doors as sacred was once a boy whose assigned caretaker crossed a boundary he still cannot recognize as a boundary. His exquisite restraint may not just be gentlemanliness or remorse over Daphne; it may be something he built out of having his own youth misread as maturity. That makes me ache for him. It does not excuse what he and Randi are hiding from Vee. In fact, it sharpens the irony almost unbearably: Vee gives him exactly the gentle, unforced room he needs to tell his history in his own time, while he is still denying her the facts she needs to understand her own present.
-
-The math passage should not have worked on me as hard as it did, but watching him light up absolutely did. “Most people walk around inside the poem and never get to read a line of it” is the kind of thing that makes you fall for somebody because, for one minute, they lend you their eyes. And Vee recognizes his total presence with her as the same state lifting gives him—the single heartbeat, nowhere else. That is intensely erotic to me even with both of them sitting still.
-
-I’m in deeper now, which means the secret is becoming less forgivable by the page. This is no longer merely a spectacular seduction. They are giving each other their childhoods. He has let her hold Peter against her palm, figuratively and almost literally, while she still doesn’t know whose robe she is wearing or who else was in that bed. I believe the tenderness completely. That is precisely why the betrayal is going to hurt.
-
-GATE 25 — Rock
+GATE 25 — All Told
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The quiet intimacy, Vee’s instinctive care, Peter’s history, and that beautifully honored “Not tonight” pulled me in completely. I’m desperate for more—and increasingly furious that Pace accepts this depth of trust from Vee while withholding the truth that would let her trust him knowingly.
+WHY: Cassie’s quiet love warmed me, while Simpson’s paradox turned the whole chapter into an alarm bell. I need the next chapter because Vee’s happiness is now resting openly between the two people who built its hidden frame, and the truth feels closer even though she cannot see it.

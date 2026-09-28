@@ -1,23 +1,24 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~178a1c64010d · 2026-09-11*
+*capture-dag-v2-rich · gate ch025 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b727880313ed · 2026-09-27*
 
 REACTION —
 
-Oh. This one got quiet and then reached straight under my ribs.
+Oh, this one made me nervous in that delicious, stomach-tight way.
 
-I love when an erotic book trusts aftercare and conversation to be as intimate as sex. This chapter barely needs to move because they are already so naked. Not just physically, though yes, the robe open and his hand simply resting over her breast like it belongs there absolutely did something to me. But emotionally this is the chapter where Vee starts touching the places in him that are not polished. And she is so careful. That matters to me so much. She doesn’t pry like she’s owed his pain because they’ve slept together. She asks, she notices the shut doors, she lets them stay shut when they need to.
+Vee being late and not caring because she is that happy, that full, that carried by the night before, is exactly the kind of afterglow I wanted for her. I love her “underslept and overfull.” I love that she has two girls waiting for her and a seat between them, like she has accidentally become the center of a little world. That would have melted me completely if the chapter weren’t also quietly turning the knife.
 
-And Pace. Peter. God, that name landing in the room. I felt exactly what Vee felt, that sudden plainness of him, like “Pace” is the shaped, chosen self and “Peter” is the boy before all the armor and appetite and competence. The math monologue should maybe be impossible to make sexy, but it is sexy because it’s him becoming alive in front of her. Not performing brilliance. Letting her see what saved him. “Most people walk around inside the poem and never get to read a line of it” is the sort of thing I would text someone at 1 a.m. with no context except “oh no, I’m in trouble.”
+Cassie got me. Cassie watching Vee instead of the dress, instead of the lecture, instead of the performance of it all. She is such a good friend because she keeps looking at the actual girl, not the glamour around the girl. “Was it a good night?” is such a plain little question, but it felt like somebody putting a hand under Vee’s chin and checking her eyes. And Vee’s “Oh, yes” felt earned. I believed it. I wanted Cassie to hear it and be able to rest for one more minute.
 
-The Daphne part made my stomach drop. Fifteen and nineteen. Two years. I hate that he can’t call it what it was, and I also completely believe that he can’t. That was the sharpest, saddest thing: him protecting the memory because it was the best thing he had then, because it felt like rescue, because he was too young and too alone to have any clean category for being wanted by someone older who had power over his belonging. And Vee understands enough not to steal the naming from him. She thinks the ugly word and doesn’t say it. I respected her so much there. She gives him “You were so young,” which is almost all the truth he can bear.
+Randi, though. God. “You lucky slut” is exactly where the heat and danger live with her. From someone else I might have hated it outright, but from Randi it hits both ways: it turns Vee on, it names her, it blesses the dirtiness, and also it puts a finger right into that bruise Randi knows is there. She is so good at giving permission that I keep forgetting permission can also be leverage. And then she immediately owns Saturday. The shoes become a date before Vee has time to decide. It’s not ugly, it’s not coercive in the obvious way, but it’s Randi doing what Randi does: solving, steering, claiming the next step in Vee’s transformation.
 
-And then lifting as survival. Yes. Of course. The body he built as a place no one could push him out of. That slid beautifully into the way he is with her: total attention, no future, no past, only this body, this moment. That’s the dominance I want. Presence as control. Not cruelty, not disregard, not “I know better than you,” but focus so complete it makes her feel held in reality.
+And the stats lecture. I mean, come on. Same numbers, different grouping, and suddenly the truth reverses. That is not subtle, and I do not care because it worked on me. It made the whole chapter feel like a warning label under glass. Vee’s yeses are real. Her happiness is real. Pace’s care is real. Randi’s warmth is real. Put them together another way and what does it become? That’s the thing making me sit up.
 
-The scar coming back exactly when I’d been waiting for it made me sit up. And “Not tonight” was perfect. Truly perfect. Because it is a boundary, and the book lets it be tender without softening it into access. He doesn’t snatch her hand away. He holds it there. That is hotter and more moving than a confession would have been.
+I missed Pace in the room, but I didn’t mind missing him because he was everywhere in Vee’s body: soreness, nipples, the dress in the closet, the night still counting itself. The gap is starting to register, though. After how intimate and bright the last chapter was, this one smartly keeps him just offstage and lets the women orbit what happened. I’m still hungry for him and Vee alone again, but now I also very badly want this shoe date, because Randi with Vee in public, choosing the height she “needs,” sounds like trouble in heels.
 
-I am still carrying the hidden plan like a stone in my shoe. I can’t forget that Vee is sitting here giving him family stories and the name-shape of herself while there is still this enormous thing she doesn’t know. But this chapter made the danger more complicated, not less. Pace isn’t just the careful seducer now. He is someone who knows, maybe too intimately, what it is to be young and chosen inside unequal information and to remember it as luck. That scares me in a deeper way.
-
-GATE 25 — Rock
+GATE 25 — All Told
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: "She was nineteen."
-WHY: That moment chilled me, but the chapter didn’t ask me to find it romantic; it let Vee feel the wrongness and still honor Pace’s own experience of it. The consent and care here are so alive that I’m more invested than ever, even while I’m more afraid of what the hidden setup will do when it breaks.
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: This chapter didn’t have the physical heat of the last one, but it had afterglow, friendship, and dread braided together beautifully. Cassie’s care steadied me, Randi’s claim on Saturday worried me, and the Simpson’s paradox bit made me feel the hidden structure pressing closer. I want the shoe date immediately.

@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch025 · claude-fable-5-1 · relationship-first · prompt-sha 36ce75fcf3e4 · prose-sha b727880313ed · 2026-09-27*
+
+REACTION
+
+Well. There they are. All three in one room, and the book put her in the seat between them, and I've been asking for this since the fire lane and I got it in a stats lecture at eleven in the morning with a highlighter. Good. That's the right size for it. I'd have hated a dinner.
+
+The thing I keep going back to is that Cassie never went down into the numbers. Forty seconds Vee spends being a student, pen moving, and she comes back up and Cassie hasn't moved, hasn't looked at the front once, is just — on her. And then "Was it a good night?" and the second yes, the one with more in it, and something *eases* in Cassie's face and she picks the highlighter back up. That's the whole friendship in one gesture. She didn't need the dress. She needed the second yes, and she got it, and she went back to work. I asked for her to be wrong before the book spent her and she's been wrong twice and here she's right for the first time, right about the only thing she's ever tried to see, and I'm a little undone by it. The book did explain it to me afterward — "the friend was the only part of any of it Cassie had ever been able to see," and then the fleece a second time, and then "never once in her life cared what was on anyone's feet" — three sentences for a thing the highlighter already said. I noticed. I'm forgiving it because the highlighter was that good.
+
+And Randi. I've been in that kitchen. I watched her draw one line through the sauce and not eat, and pour her own glass, and ride him with her eyes shut and roll away in the cashmere, and I know what "you've got her Friday to Sunday" cost her to say. And here she is on a Friday morning being the lamp. "Vivienne Thorne. It is a Friday." Hand to her chest. She's magnificent and I couldn't breathe for her. Then "you lucky slut" — and the register tips, Vee's own body answers with the soreness, and I thought, that's the word Randi's been carrying since Sunday and she just set it down where it would look like a joke. And then Saturday. *Which was hers.* The one snag in the day and Randi's hand is already around Vee's wrist, the shoes solved, "don't you dare tell me no." I went straight back to the sun porch: *you paint the toes for a man who's going to have your feet bare in his hands.* Now who's going to have them. She's putting the last piece on the dress he made. She's taking the feet. I don't know if that's love or the ledger and I think it's both and I think Randi doesn't know either.
+
+Here's what I'm sore about, and it's my own kind of sore. "They'd both had the dress for weeks." A subordinate clause. I have been waiting since the fitting for Randi to hear the word *dress* — I wanted her face more than I wanted the bed — and the book tells me it already happened, off the page, sometime, and moves on. Either that's the book knowing exactly what it's not giving me, or it lost track. I've decided it's the first because the alternative ruins my night, but I want it noted that I decided.
+
+The Simpson's paradox is the book leaning over my shoulder, and I usually mind that. Each year on its own, one man wins. Put the years together and the other one does. Same numbers, nobody touched one of them. I sat with that longer than Vee did. Vee-and-Pace, one way. Vee-and-Randi, one way. All three at once and the sign flips. The professor reads it off a cereal box and the red dot sits on one number and then he lets them go, and nobody in the row heard it, and I did, and that's the kind of ahead-of-her I signed up for. It's a shape. It's not a stall. Tonight I believe that.
+
+And the last line. "Still shown to not one living soul." He had it off her in the hallway. He *made* it. So either he doesn't count as a living soul in this book's arithmetic — which, given the machine, given the tools in their painted outlines, I'd half believe on purpose — or the dress isn't *shown* until it's shown to a room, and Randi's the one who's going to walk it in. I'll take either. I'd text you at 1 a.m.: she's happy in the middle and both of them know something she doesn't and the one who knows more is buying her shoes.
+
+GATE 25 — All Told
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "Not the dress; they'd both had the dress for weeks" — the scene I'd been saving a night for, swallowed in a clause.
+WHY: The three of them in a row and Cassie never looking at the front gave me what I came to this book for, and Randi taking Saturday — taking the feet — is the next chapter I want in my hands right now. The explaining sentences are back, three of them where one gesture had already done it, and I'm carrying that on a card. But the paradox on the wall is the book telling me it knows the sign flips when you add the third column, and I trust the withholding tonight.

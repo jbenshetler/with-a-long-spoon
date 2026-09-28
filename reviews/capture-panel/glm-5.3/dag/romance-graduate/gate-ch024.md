@@ -1,23 +1,22 @@
-*capture-dag-v2-rich · gate ch024 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~0b647a05ad40 · 2026-09-10*
+*capture-dag-v2-rich · gate ch024 · glm-5.3 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 0894d4db7f65 · 2026-09-27*
 
-REACTION:
+REACTION
 
-I had to put my Kindle down. Actually put it in my lap and stare at the wall for a second.
+Okay, I'm just going to say it: I laughed out loud on a Tuesday night at a man stuck in a lifted dress asking "don't point down" and I am not even embarrassed. That middle stretch — the two of them physically unable to let go of anything they were holding, her with her elbows fending silk off him, him holding the dress up like a waiter while she's got both hands full of him — that's the funniest sex scene I've read in years, and somehow it was also hot, which almost nothing manages to be while it's being funny. The laugh and the heat in the same body. That's a whole skill.
 
-Okay. Okay. So it's real. Not implied, not winked at — Randi naked in his bed, her hair on his chest, her playlist in his front rooms. The two towels were her all along, and I did the math weeks ago and I still wasn't ready to see the two of them *talking*. That's what got me — not the sex, the *pillow talk*. This whole book I've been fed Vee's version of everything, her glowing patches of each person, and in one chapter the camera swings around behind the mirror and every lunch, every curb kiss, every "which hip?" is suddenly a different thing entirely. Randi debriefing the shoe trip in the same bed where Pace holds her. The tickle-story lunch happening hours — hours — after something like this. I feel like I've been reading a book with the margins full of invisible ink and somebody finally held it over the lamp.
+And the crying at the dress. I felt that one land before I understood why, and then the book said it for me: *he'd taken all that trouble and then taken the further trouble to hide the trouble.* God. That's the most Pace sentence this book has produced. It's also exactly what I keep being unable to split about him — the tenderness is real AND it's the technique, and here the book didn't even pretend to resolve it. She says "you made this" and he says "yes" and doesn't make it smaller, and I sat there doing my Randi math again: the mirror with the screw heads still bright. He hung a full-length mirror without telling her. For the reveal of a dress he built on her body. The house is always already at temperature.
 
-And the worst part, the part that's making my stomach hurt: I liked them. That's the trap and I walked straight into it. "She got past me before I could help it" — Randi saying the plan went real on HER side too, exactly like the blurb promised, and saying it undefended, in the one room where she puts the performance down. Pace not taking up what she set down about Vee's body because "that was hers to hold" — these two have actual intimacy, actual rules, actual tenderness between the sheets of their conspiracy. They're not cartoon villains laughing over a chessboard. They're two people in love with the same girl and using each other's hands to reach her.
+But the beat that got me deepest wasn't the sex, it was her in front of the glass with the slit open and the underwear crossing the line — and she took them off *hersself.* "She was the one who'd taken the edge away." The blurb's whole promise in one small act: nothing was taken from her that she did not hand over. And the induction daydream at the end — "the looking didn't cost her a thing. It just felt like what she was for" — that got a little chill up my arms, because that line is doing double duty and I know it, and I think the book knows I know. She's growing a spine made out of the thing that's going to be used on her. Every happy chapter she banks.
 
-But god, "she's not ready, though." The sentence that stopped my breath. She's not ready — for WHAT. That's the question this chapter plants and doesn't answer, and it reframes everything. The cardigan, the shame, the curriculum — Randi clocking Vee's embarrassment at the bigfoot walk as "kind of hot" while lying in the bed of the man who caused it. There's an appetite in that line that isn't soft at all. Pace's "I want her to get there on her own" is meant to reassure me — he's the conscience of the operation — and it half does, and half sounds like a man patient with a long recipe.
+Meanwhile I'm still carrying chapter 23 around like a bruise. Randi riding him with her eyes shut, no "tell me," the bowl with one line drawn through it that he covered and put in the fridge *for her* — and now this chapter comes along all gold light and laughter, and the shadow of it is that Pace finished this dress on a night he was probably not fine. The book didn't say it. It just let him go down hard and let me do the math. That's trust in the reader and I'm responding to it like a plant to sun.
 
-Also: "Somebody taught her to be ashamed of her body," said low and certain, and Randi going quiet and *softening past it* — quiet how? Did he hit something close to her? What taught RANDI her control? That little stillness on him after "she's the most alive person standing there" — she went still and then reached for his dick to change the subject. I saw that. I've DONE that. Randi is in love with Vee and will not survive this book and neither will I.
+The one flicker of doubt: the standing-sex logistics chapter. I've read versions of this in a hundred books and the "she took him in, drawing a groan out of him" beats are the closest this book has come to stock phrasing. But the comedy rescued it — the comedy is what made it *theirs* instead of anybody's.
 
-The credit card chapter already ached; now I know Randi drove her home from that purchase and then came here and reported on her like weather. Every happy chapter Vee banks is now officially an audited account. I know things my girl doesn't know and it's unbearable in exactly the way this book wants it to be.
-
-I'm in. All the way in. furious and in.
-
-GATE 24 — Gone
+GATE 24 — Peekaboo
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is the chapter the whole book was coiled for — the reveal behind the mirror, delivered through pillow talk instead of melodrama, and it made me feel complicit right alongside them. Randi's "she got past me before I could help it" plus "she's not ready, though" is a bomb with the pin still in it, and I cannot stop until it goes off.
+WHY: The dress reveal, the laughing sex, her stripping bare in front of the mirror on her own initiative — this is the book doing both things I'm here for at once, and the Randi-shaped hole under it means I need to know what's coming. I'd already be reading on.

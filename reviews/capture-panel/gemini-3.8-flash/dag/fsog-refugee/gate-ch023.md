@@ -1,24 +1,36 @@
-*capture-dag-v2-rich · gate ch023 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 8aff12752f2e · 2026-09-19*
+*capture-dag-v2-rich · gate ch023 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 7771371ad221 · 2026-09-27*
 
-**REACTION**
+REACTION
 
-I feel sick. I feel genuinely, physically sick to my stomach, and I mean that as the highest possible compliment to how terrifyingly good this writing is.
+Holy shit. Holy *shit*.
 
-That credit card moment. God, that broke my heart. Watching Vee put the debit card away—the card that keeps her safe, the card that represents her real life, her working-class caution, the boundaries of who she actually is—and pull out the emergency card for a pair of shoes she cannot afford, just so she won't look small in front of Randi. Just so she won't "apologize" for the dress. And the awful, seductive logic she uses on herself: *the shoes were not a want... they were what the dress was owed.* Pace spent a week sewing silk into the shape of her body, and now the sheer weight of his devotion is bankrupting her because she thinks she has to rise to meet this fantasy world they’ve constructed around her.
+I feel like the floor just dropped out from under me.
 
-And Randi! Randi dropping multiple times that amount on a pair of loafers she decided to wear out of the store on a whim, while Vee is hugging that shoebox to her chest like a frightened child holding a life raft. Randi didn't offer to buy them for her, which would have felt like charity and put Vee's guard up. Instead, she just steered her into the deep water and let Vee drown herself to keep up.
+We finally got behind the curtain, into the house with just the two of them, and it is so much more complicated, so much more twisted, and so much sadder than I ever could have prepared myself for.
 
-And then the physical touch. Randi dropping to one knee—just like Pace did on the sun porch, just like Pace did on the mountain—taking Vee’s bare foot, and running her thumb over the frosted plum nail polish. Randi *knows*. She knows Vee painted those toes for Pace. She knows Vee let Pace between her legs with that polish on. That thumb stroke wasn't about shoe sizing; it was Randi touching the exact point of Vee’s surrender to Pace and claiming a piece of it for herself. Vee feeling the whole room tilt and grabbing Randi’s shoulder just to stay upright... the sensual tension between them is becoming so thick it’s suffocating.
+Look at the table. Just look at the domesticity of it: he cooked for her, he knows the music she likes, he has a *small bowl* just for her that he usually slices apples into, he poured her wine from the bottle he cooked with. They have a routine. They have a life here. And she didn't touch the stew. She drew one single line through the cream sauce with her spoon and said "It's wonderful"—a line she gives to waiters, a line that put ten thousand miles of ice between them in his own kitchen.
 
-The closing line: *"Vee thought, as she had been thinking lately and could not stop, that she had never once in her life had a friend like this."*
+And then the argument. God, the *argument*.
 
-It’s psychological horror disguised as a chick-flick makeover scene. Vee is standing on the sidewalk in the golden afternoon, laughing until her ribs hurt, thinking she has finally found glamour, sisterhood, romance, and freedom. She has no idea she's being systematically enclosed in a glass box by two people who are passing her back and forth like a shared secret. I am terrified for the induction. She is going to walk in there looking like a masterpiece, wearing Pace's silk and Randi's shoes and all her own debt, completely primed for whatever trap they've laid.
+Randi is cracking wide open. She has been sitting across from Vee, touching Vee’s painted hands, kissing Vee at the curb, hearing Vee talk about how gentle and patient and hungry Pace was, and Randi is *starving*. She’s not just orchestrating this for Pace anymore—if she ever truly was. She is on the outside looking in, watching Pace get the weekends, the sheets, the bare skin, the adoration, while she gets to play the cool, detached mentor over mimosas. *"You've got her Friday to Sunday... You've got her all weekend, every weekend, and you're in no hurry, and I can't think why you would be."* She is jealous. She is furiously, bitterly jealous of him, and she is desperate for Vee, and it’s curdling into pure venom: *"It's selfish, Pace."*
+
+And Pace! The man stood ten toes down on his soul: *"She chooses it, Randi. Every step of it. Or it isn't anything."*
+
+My god, my heart nearly burst out of my chest right there. That is the entire ballgame. That is why I read this book. In the middle of this coordinated, terrifying little campaign, Pace’s dominance is entirely rooted in absolute reverence for Vee’s pace and Vee’s will. He refuses to drag her. He refuses to manufacture her surrender on someone else's timetable. He will wait until she walks through the door under her own power, or he doesn't want it at all. He looked at Randi—the woman who holds the reins to everything—and said: *How do I get her from where she is to us, on your schedule?*
+
+And then the bedroom. It made my throat tight. It was frantic, cold, and devastating. Randi riding him with her eyes squeezed shut, nails in his chest, desperate to feel something, desperate to take whatever piece of this whole sick mess she can actually hold in her hands. No teasing, no inching in, no *tell me*. She didn't want the debrief; she couldn't bear to hear it. And the second it was over, she rolled away into a cashmere blanket, turned her back to him, and shut down completely.
+
+And poor Pace. This brilliant, calculating man who can map out MRI algorithms and engineer the perfect seduction, completely out of his depth. Standing in the dark kitchen, putting a plate over her cold bowl of stew to save it for her, genuinely baffled by what just broke between them.
+
+The three-way collision is coming, and it is going to be an absolute bloodbath. I need the next chapter right now.
 
 ***
 
-GATE 23 — Sorority
+GATE 23 — Portion
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The slow-burn dread of watching Randi manipulate Vee into financial and emotional reckless abandon is utterly gripping. Randi kneeling to stroke that plum-polished toe was pure electric poison.
+WHY: Seeing the two puppet-masters alone in the house completely shattered the dynamic—Pace defending Vee's agency while Randi burns up with jealousy and starvation is the exact psychological tension I live for.

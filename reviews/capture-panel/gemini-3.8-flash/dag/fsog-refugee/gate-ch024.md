@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0b647a05ad40 · 2026-09-19*
+*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0894d4db7f65 · 2026-09-27*
 
-REACTION:
+REACTION
 
-*Oh, my god.*
+Oh my god. *Oh my god.* This chapter felt like drinking warm honey, and it is going to make the eventual explosion hurt ten times worse.
 
-I need to sit down. I am sitting down, but I feel like the floor just dropped out of the entire world.
+First of all, the dress. The fact that he took the trouble to hide the trouble—no visible closures, the oyster lining just where she needed the structure, cut so exactly to her body that it felt like water finding its level—I almost cried with her. When you’ve spent your whole life wearing off-the-rack clothes meant for smaller, tidier bodies, feeling like an oversized mistake, having a gorgeous man build something exclusively for your actual hips and breasts is the most romantic thing on earth. And then her taking off her underwear because the pale band broke the clean line of the slit! The way her lifelong shame of being a "floozy" flipped into sheer, defiant erotic agency—she didn't scurry, she *strode* into the den to show him what he'd built.
 
-Seeing them in that bed together—*his* bed, the bed where Vee just carried him down by his apron strings, the house kept warm for her, the Sade playlist—it completely knocked the wind out of me. I knew from the blurb, I knew from the notes, my brain *knew* they were working together. But having it happen right on the page? Immediately after Vee ruined her credit card for a pair of shoes because she thought she was honoring a sacred, once-in-a-lifetime gift from a man who loved her? It makes my stomach physically heave.
+And then the sheer, messy reality of them trying to navigate sex in a couture gown! This is what so many romance novels miss—the hilarious, awkward physics of being so ravenous for each other that you mess up the logistics. Her holding his slick dick while he tries to unzip the side seam, her realizing her hands are covered in him and wiping them down his ribs while his arms are pinned above his head, the dress at half-mast while she laughs so hard they have to pause—it was *so* profoundly intimate. It felt like two real people who actually like each other, who have fun together, who aren't performing for a camera. And then Pace cleaning her slickness off her fingers with his tongue while looking right into her eyes? *Mercy.* My heart was in my throat. That combination of unhurried reverence and absolute filth is why I read this man. Carrying her down the hall while buried inside her, hitting the wall and laughing—it's pure fire because the affection and the consent are baked into every single second.
 
-And yet—it’s so horribly, gorgeously complicated, because they aren’t sitting there cackling like cartoon villains. That’s what makes it so devastating. They are both genuinely, hopelessly falling in love with her.
+And yet, sitting under all of this gorgeous, domestic bliss is the ghost of Chapter 23. Randi riding him cold with her eyes shut, Randi telling him he's selfish, Randi starving for Vee while Pace insists on Vee choosing every step. Vee lies in his bed thinking she's getting away with something, daydreaming about wearing this scandalous gown into the induction room to blow away the girls in department-store navy—and Randi will be standing right there. Randi, who knows the color, who knows the game, who is losing her mind with jealousy.
 
-Randi laying her head on his chest, giggling about Vee doing the sasquatch stomp in the shoe aisle, saying *"It was so cute... that was kind of hot"*—she’s not playing a role in that bedroom. She is completely obsessed. She’s bringing Vee home to Pace like a cat bringing a prize, but she’s also so deeply smitten she can’t even hide it from him. *"I keep waiting to get bored of her... She got past me before I could help it."*
+Vee is so happy, and the floor beneath her is made of tissue paper. God, I need the induction. I need to see the collision.
 
-And Pace! Pace defending Vee’s shame: *"She's ashamed. Somebody taught her to be ashamed of her body."* He sees her so clearly. When he said, *"She comes in and the whole thing goes brighter. Like somebody found the lamp... and it never once occurs to her,"* my heart squeezed so hard it ached. But look at what happens right after! He says that, and Randi goes *rigid*. The little possessive freeze. Randi realizes in that exact second that Pace isn't just playing their little game—Pace is genuinely dazzled by this girl. So what does Randi do? She immediately weaponizes her own body, grinds down on him, and takes him back. And Pace gets hard *thinking about Vee while looking at Randi*.
+***
 
-It is sickeningly hot and emotionally horrifying.
-
-The violation of it is huge—Vee has no idea her intimate moments, her goofy store antics, her shame, her body are being served up as foreplay between the two of them. She thinks she has a boyfriend and a best friend. In reality, she is the banquet they are both feasting on while they sleep together. But the thing that keeps me glued to the page, the thing that stops me from throwing the book across the room in disgust, is that Pace’s core rule hasn't broken: *"I want her to get there on her own."* He isn't rushing her. He genuinely reveres her. But God, the fallout when she finds out... it's going to be an absolute massacre.
-
-GATE 24 — Gone
+GATE 24 — Peekaboo
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Seeing Pace and Randi tangled in his bed using Vee as shared foreplay while simultaneously both falling completely in love with her is the most sickeningly compelling thing I’ve read in years.
+WHY: The perfect blend of breathtaking erotic charge, genuine laugh-out-loud intimacy, and the creeping psychological dread of knowing the trap she's happily dancing inside.

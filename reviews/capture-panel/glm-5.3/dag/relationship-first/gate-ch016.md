@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch016 · glm-5.3 · relationship-first · prompt-sha 36ce75fcf3e4 · prose-sha 414026fd7d01 · 2026-09-27*
+
+REACTION — Okay. I put the book down after this one and just sat there for a minute, because I'm not sure this book is doing what I thought it was doing, and I mean that in the best way.
+
+The house. The whole tour of the house, and I kept reading it like Vee does — charmed, then unsettled, then charmed again before I could settle. The closet floor with the paired, squared shoes. The kitchen with only the knives a cook keeps reaching for. The shop cleaner than her kitchen at home. And I kept hearing my own note from chapter ten in my head: *he narrates everyone like weather.* This is the same man, and the house is the same gesture as the "may I choose" — everything exact, everything offered, everything *already decided about her before she walked in.* And the heat being on when she arrived. I clocked that. She clocked it and let it go, "walked past a wrapped box on the counter without asking who it's for" — that's the book teaching me how to read it, and I love being taught by a book that knows it's doing it.
+
+But here's the thing that got me, genuinely: the patent. "Somebody sick, somebody scared, a kid who can't lie still, they get the same picture and they're out of the tube in a fraction of it." And *that's the part I like.* I was as gone as Vee was. And then the error-correcting codes — *say it more than once so the noise can't kill it* — and I actually laughed, because the whole seduction is that. Every kindness in this book is a message sent with redundancy built in. The shirt on the mountain said it; the dress says it again; the noise of her mother's voice can't kill it. I don't know if Rivers means it as the novel's skeleton key or if I'm doing the thing I do where I find a metaphor and marry it, and I don't care, it worked on me.
+
+The bedroom door. Oh, that stopped my breath. She dressed in the satin *for that door* — "hoping the man won't hand her a reason not to show it to him" — and he said *my bedroom* the way he'd said the kitchen and just... left it shut. And her "something in her dropped" and she didn't let her face do a thing. This is what I mean about the withholding being a shape and not a stall. A lesser book — honestly, most books on this shelf — would have walked her through that door. He turned her back toward the light. And I felt the cruelty in the tenderness, or the tenderness in the cruelty, and the fact that I can't tell those apart in him anymore is exactly why I'm still here at midnight.
+
+And the dress. The cloth being burgundy and not the magazine red — that turn where he holds it up to her face and she realizes *he hadn't matched the dress she'd described, he'd matched her* — that undid me a little. Because it's the most romantic thing anyone's done in this book and it's also surveillance. He took an offhand confession from a mountaintop — a thing she'd already grieved and shelved — and he kept it. "He hadn't. He'd gone and found the cloth." Nobody has ever paid that kind of attention to me and I'm not sure anyone should. And she says yes before she's finished understanding what she's agreeing to — "her own willingness to be looked at" — which the book just states, plainly, in her own head, and lets sit there with the "If you'll let me" on top of it. If that isn't the whole thesis of the jacket — every yes freely given, that was the problem — landing in a bolt of silk, I don't know what is.
+
+Also: he made the shirt. The shirt she's been wearing into the ground for weeks, the one with no tag. I gasped. Actual gasp, alone in my kitchen. That's the kind of planted detail I live for — it was sitting there in an earlier chapter as texture and it was evidence the whole time.
+
+Where's Randi? I notice her absence like a missing stair. And I remember chapter 14 — the want she came and took and the leaving-after, the thing he couldn't figure out — and now this chapter, where he hands Vee a gift of almost unbelievable attention. The two scenes are talking to each other and I don't think Vee gets to hear it yet. I'm bracing for the lunch where she tells Randi about the dress, honestly. That's the next thing I'm reading toward.
+
+GATE 16 — Two Towels
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: none — maybe a flicker at "Are your parents rich?" being waved off with "a door easing shut two rooms away," but that pulled me *in*, not out
+WHY: Nothing hot happened and I couldn't put it down — the house tour as courtship, the dress as the whole book's argument in one bolt of cloth. The closed bedroom door and the burgundy-not-brick-red were the two beats that had me by the throat. I'm in this now for how the triangle pays, and I'd take the next chapter at 2 a.m. without hesitation.

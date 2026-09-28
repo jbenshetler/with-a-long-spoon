@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch024 · claude-opus-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0894d4db7f65 · 2026-09-27*
+
+REACTION
+
+Okay so I have to start with the thing that landed hardest, and it isn't the sex, it's this: *he'd taken all that trouble and then taken the further trouble to hide the trouble.* She's standing there crying at a dress in a window and she says the exact sentence that describes what has been done to her whole year. The dress is the book. Weeks of labor, invisible seams, no closure you can even find, and the only thing she's allowed to see is the part that looks like it arrived complete from somewhere with a name. She's admiring the technique on the object and she can't see she's *in* it. I actually put the book down for a second at that. Not to quit — to sit with it. Helen Rivers knew what she was doing putting that sentence in the girl's own mouth as a compliment.
+
+And then, damn it, I cried anyway. Because it's also just — he lined it. Bodice and hips only, oyster-pale, the two places she's spent her life apologizing for, a *soft wall set into the only parts of her the dress had decided not to give away.* He didn't cover them. He didn't hide her. He gave her a dress that shows everything and built armor exactly where she'd flinch, and said nothing about it, and let her find it with her hands. That's the whole man. That's tenderness as an engineering decision. And the mirror: *Floozy* flaring up automatic, the hot face — and she stays. She makes herself look. She stops being ashamed while standing still, in real time, by herself, with him out of the room. That's the payoff I've been waiting twenty-four chapters for and he wasn't even *there* for it. He left. He hung a mirror he'd screwed into the wall that week and then he went into the den so she could have it alone. Screw heads still bright. I noticed the screw heads.
+
+The underwear. She takes a step, sees the pale edge crossing the line, and the first thought is *keep the steps small* and the second thought comes up hot and doesn't care — and she takes them off. Nobody asked. Nobody was watching. She stripped herself for a mirror and the shame crossed into wanting before it was even finished being shame, and then she *strode* down the hall. That's the thing this book does that no other book on my shelf does: her want is hers, generated in an empty room, and the man is the audience she chooses for it. And his grin going off his face into "something quieter, harder to look at and impossible to look away from" — yes. Thank you. That's the reaction, not a smirk.
+
+Then it got *funny*, and I was not prepared to love that as much as I did. "There's a lot of you covered in a lot of me" and him twitching at it and her saying it again slower, deliberately, to make him do it again — I laughed out loud in bed. Two people mid-catastrophe with a wet silk gown between them and neither willing to let go of anything, elbows fending, "ow, don't point down." I have read so much erotica where the sex is solemn like a liturgy. This is two people who *like* each other. And then she dries her hands on his flanks because his arms are up and he can't stop her, and he inspects her fingers like a hem and puts two of them in his mouth — the joke turns filthy without breaking character, because of course he'd be thorough about it. Slow. Eyes on hers. That's the same man who held his thumb on the moleskin to warm the glue.
+
+What I'm sitting with, though, in the quiet after. She's alone awake in the warm house, she knows he was up all night finishing it, and then she runs the daydream: walking into the induction late, on purpose, and letting the room turn. *It just felt like what she was for.* And the last line — *getting away with something.* Honey. You are not the one getting away with something.
+
+Because Randi doesn't know about this dress. I've been waiting for that since the bolt of cloth, and the last chapter Randi sat in that kitchen and didn't eat the stew and drew one line through the sauce and poured her own wine for the first time and rode him with her eyes shut and no *tell me*. She's already bleeding out and she does *not* know that he has spent his nights building a gown onto that girl's body with his hands. A report is one thing. This is a trousseau. When she finds out — and she'll find out in a room full of people, at that induction, I'd bet the house — that's the detonation.
+
+Also: no debrief. Chapter 24 and nobody got told afterward. I asked for exactly one scene with just the two of them and no report filed, and I got it, and I felt the difference immediately — it breathed different, it was *theirs*. And there's a second pair of panties left on a chair in that house now. I'm keeping count.
+
+GATE 24 — Peekaboo
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: He built her a mirror and then left the room so she could stop being ashamed in private — and the dress is the whole scheme in miniature, all that labor hidden so the gift looks effortless, and she praised it to his face. It was hot and it was *funny*, which I didn't know I needed, and for once nobody reported it to anybody afterward. Now Randi doesn't know this dress exists and Vee wants to wear it into a room with her mother in it, and I need that room.

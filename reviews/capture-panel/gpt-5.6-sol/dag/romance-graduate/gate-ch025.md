@@ -1,27 +1,24 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~178a1c64010d · 2026-09-10*
+*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · romance-graduate · prompt-sha 64e37969bd33 · prose-sha b727880313ed · 2026-09-27*
 
 REACTION
 
-Oh, this is the chapter that would make me fall in love with him, which is deeply inconvenient because I am already furious at him for what he is hiding.
+Oh, Cassie. That forty seconds of watching Vee instead of the lecture got me right in the chest. She doesn’t need the sexual details, doesn’t need to pry open the missing night, doesn’t even care about the dress. She wants to know whether her friend is all right, and the instant she hears the second, fuller yes, she relaxes. I’ve been worried Vee was starting to interpret Cassie’s restraint as a lack of understanding, and this reminded me that Cassie sees plenty. She simply doesn’t turn seeing into access.
 
-The sex was hot, yes, but this—cold tea, his palm simply holding her breast, two people under a quilt explaining the private architecture of themselves—is the intimacy I’ve been waiting for. He listens to the hand underneath the thing. Of course he hears affection beneath the beige casseroles. And Vee listens just as beautifully back. “They took the thing you loved and made it the punishment” stopped me cold because she sees him with the same exactness he has been giving her. She isn’t merely the lucky girl illuminated by the brilliant man anymore. She can reach him. She can name something in him that he has reduced to a factual little sentence and hand it back with its pain restored.
+And then Randi says “you lucky slut,” and of course Vee thrills to it because Randi can give her appetite a name that feels celebratory instead of damning. Randi finds the physical truth immediately—the soreness, the outfit, the missing shoes—and converts the one snag in Vee’s happiness into another intimate date. She is so good at making herself necessary. I want that shopping trip badly, and I am also already nervous about the price tags, because Vee did not say she couldn’t find the right shoes. She said she doesn’t have them. Randi heard an aesthetic problem, not necessarily a money problem.
 
-And Peter. *Peter.* Pace is the man he constructed—the momentum, the competence, the person always already going somewhere. Peter is the fifteen-year-old moved into a hallway for being too hungry to learn. Her saying that name at the end felt more naked than half their sex.
+The seating made the whole emotional shape almost painfully clear: Vee happy in the middle, with one woman who sees her without taking and another who knows exactly how to make being taken feel like being chosen. I loved her there. I’m terrified for her there.
 
-The math absolutely got me, too. Not because I suddenly care about Newton, but because I care about watching somebody reveal the place where the world is alive to him. “Most people walk around inside the poem and never get to read a line of it” is exactly the kind of thing that can become unbearably pretentious in the wrong mouth, and from him it just hurt. That tiny grief that people think his great love is dry—God. And Vee doesn’t pretend to understand in order to impress him. She watches the stars become bodies because he has shown her how he sees them. That is romance. That is the good stuff.
+Simpson’s paradox is not subtle—each relationship viewed separately can look loving, consensual, generous; combine the hidden data and the conclusion reverses—but it worked on me because Vee is listening just enough to miss that her own life is on the board. “Same numbers. Nobody touched one of them” is ominous as hell in a story obsessed with whether freely given choices remain free once concealed context is added. Yes, every yes is still a yes. And the total may still mean something different.
 
-Then Daphne, and my stomach dropped.
+Also, “the dress…still shown to not one living soul” snagged me, because Pace absolutely saw her in it. I can make it mean nobody outside that sealed little world, nobody at school, but the wording briefly made me check myself.
 
-Nineteen and fifteen. She was assigned to help a profoundly isolated child who had been taken away from home and installed among adults, and it “went on” for two years. Pace’s insistence that nobody did anything wrong is not reassuring; it is the most alarming part. The careful accounting, the defense he doesn’t know is a defense, the way he calls the best thing that had happened to him luck because admitting harm might mean losing the tenderness too—I wanted to reach through the page. Vee holding the ugly word under her tongue was mercy, not denial. She understood that naming it for him in that moment would make him protect the memory from her instead of letting her stay beside him.
+This is a bridge chapter, but a loaded one. I’m already following Randi and Vee into that shoe store with my stomach tight.
 
-It also changes the emotional weather around his obsession with doors, permission, patience, and letting Vee arrive “on her own.” I don’t think it excuses the plan for one second. If anything, it makes the plan more frightening: he may genuinely believe that wanting something makes the structure around the wanting ethically clean, because that is how he has survived his own story. He felt grown. He loved her. It was the best two years he’d had. Therefore nobody did anything wrong. That belief is sitting under everything he is doing with Vee, and Vee is going to be the one who discovers how badly desire and informed choice can come apart.
-
-But she is not just being handled here. She notices the too-flat voice. She notices when the good order is a tell. She offers herself first when she realizes she has put him in a doorway. She recognizes that lifting and sex give him the same complete presence. I love her more after this chapter. She has actual emotional intelligence, not the romance-heroine version where being kind means asking one perfectly therapeutic question. She knows when not to press. And the scar—his hand covering hers without removing it, “Not tonight,” palms meeting over the thing he cannot open yet—that is consent made reciprocal. He leaves her a future door. She accepts the boundary without turning away.
-
-What I’d text at one in the morning: *His name is Peter, Daphne was nineteen when he was fifteen, and I am now emotionally trapped under this quilt with all three of them.*
-
-GATE 25 — Rock
+GATE 25 — All Told
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This gave me the grown-up intimacy I’ve been starving for without cooling the erotic charge for a second. Peter, Daphne, and the hand held over the scar just made Pace far more vulnerable—and made the secret plan far more psychologically dangerous.
+WHY: Cassie’s quiet attention gave me the tenderness I needed, while the lecture made the hidden arrangement feel newly dangerous without changing a single fact. I need the shoe-shopping date now, especially when Vee’s money problem and Randi’s desire are about to occupy the same room.

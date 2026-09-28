@@ -1,23 +1,26 @@
-*capture-dag-v2-rich · gate ch027 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~08b46669b5c5 · 2026-09-11*
+*capture-dag-v2-rich · gate ch027 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 719f6182adbd · 2026-09-27*
 
 REACTION —
 
-Oh, this chapter had me by the throat in a quieter way than the sex chapters do, which is almost worse because I can feel myself being led exactly where Vee is being led. Not by Pace this time. By Randi.
+Oh. Oh, this one got under my skin in a different way.
 
-I wanted Vee to go to Pace immediately. I wanted the raw, ugly, honest apology while the shame was still warm from the night before. That felt right to me: not polished, not staged, just her standing there saying, I hurt you because I was scared. And then Randi says no, wait, make it chosen, make it dressed, make it sure, and some part of me went, yes, that is good advice, actually. Which is exactly why Randi is dangerous. She is so often right in the small human ways. She understands presentation, timing, pride, the difference between flailing and arriving. She can give Vee back her dignity. But she also turns an apology into an entrance.
+I did not expect to feel this soft for Randi in Pace’s house. I’ve been watching her like she’s the beautiful loaded gun on the table, and she still is, but here she’s also hungry in a way that isn’t just sexual or strategic. The moment she asks if there’s anything to eat in the house, after stopping him from getting the blanket, felt huge to me. Not because food is food, but because she lets herself need something there. She puts on his shirt. She knows the drawer. She sits folded up in it with blue toes showing and tells him about Vee making her laugh. That is so domestic and intimate and almost sad.
 
-And God, Vee needing to be tended to. The shoes under the skirt almost got me more than if it had been openly sexual, because it was all unseen touch and trust and Vee discovering that being held can make her steadier. That is the book’s whole wicked little thesis, isn’t it? The right constraint doesn’t erase her, it lets her stand. Pace did it with the dance frame. Randi does it with shoes and scarf and instructions. I am very, very susceptible to that, and I hate that I am also nervous.
+And the fact that she eats. After the untouched bowl last time, I noticed every bite like Pace did. Chicken, asparagus, couscous to a line. It felt like some little treaty signed between them after that horrible “how long” dinner. Not fixed, exactly. But she heard him. “You want her to get there on her own.” She kept his sentence. That matters to me. It doesn’t erase the plan, but it makes her less flatly predatory than I was afraid of in that particular way. She can learn. Or at least she can be moved.
 
-The jealousy aftermath worked on me too. Vee is not being ridiculous in some shallow way; she is terrified of having believed she was singular. That blonde knew exactly where to cut. And what hurts is that Pace’s goodness became the weapon. “He gets girls home safe” should make me love him more, and it does, and Vee knows it does, so she punished him with the thing she most wants. That is painfully real. I wanted to crawl under the bar with her when the bartender told her the girls were jealous of her chair. Just brutal. Necessary, but brutal.
+But God, the triangle is fully awake now. Randi says Vee got past her, and I believe her. I believe she didn’t mean to like her this much, and that liking her has become part want, part tenderness, part envy, part ache. The hot little detail of Vee being embarrassed in the shoe store turning Randi on was so exactly right because it’s not just “Vee is sexy.” It’s Vee being Vee: funny, mortified, too alive to manage herself neatly. Randi wants the actual girl, not just Pace’s toy or their chosen project.
 
-Randi’s room did something to me. The robe, the freckles, the perfect closet, the private scent of bitter orange. Vee is so hungry for a woman like that to see her and choose her and fix her. And the kiss at the end: we are absolutely past “friendly.” Vee noticing she didn’t brace, that her mouth “just met Randi’s,” made my stomach drop. Not because I don’t want it. I do want it. I want it badly. But Vee is walking around with borrowed shoes, borrowed scarf, borrowed confidence, borrowed timing, and she thinks those are marching orders. That is not nothing.
+And Pace talking about Vee lighting up a room. Whew. That one went right through me. That is the kind of man I read for, honestly: not just “her body is hot,” but “she makes the world brighter and doesn’t know.” He sees the shame as something done to her, not something true about her. I loved him there. I really did. He is still in trouble with me because of the larger lie, but inside the room, inside the actual wanting, he keeps being almost painfully good.
 
-I’m also clocking that Pace is absent, and his absence matters. He did exactly what Randi predicted: left room. Didn’t chase, didn’t punish, didn’t demand. That makes me ache for him. But now the repair is being choreographed by someone who already has a secret with him. The larger lie is humming under this chapter so loudly. Every moment of tenderness is real, which makes the hidden setup feel more consequential, not less.
+The heat worked for me because it wasn’t just heat. Randi turning Vee’s body into a way to want Pace again, or to confess wanting Vee through Pace, or both, is messy and dangerous and very erotic. “What she keeps under there” is one of those lines that makes the whole room tilt because everybody is present even when only two people are in bed. And Pace not taking up the rest of it — not making it into his fantasy, not grabbing at Vee through Randi — I noticed that. I appreciated it. That restraint is still the thing keeping me with him.
 
-Still, I would read the next chapter right now. I need that door scene. I need to see if Vee can apologize as herself, not only as Randi’s finished work. And I need to know what Pace does when she arrives beautiful and sure and sorry.
+I am more worried now, not less, but in the way that makes me keep reading. Because Randi is not just using Vee. Pace is not just managing Vee. They are both falling for her, and she does not know the shape of the table she is sitting at. That is the knife. The tenderness is real, which makes the hidden setup worse, not better.
 
-GATE 27 — broken-in
+GATE 27 — Gone
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: "So don't you worry about a single piece of *how*. We're going to get you ready, and the rest takes care of itself."
-WHY: That line scared me because it is Randi taking custody of Vee’s repair, and Vee lets her. But the chapter pulled me hard: Vee’s shame, Randi’s tenderness/control, the shoes, the kiss becoming ordinary, and the ache of Pace waiting offstage all have me completely trapped.
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: This pulled me hard because Randi finally looked vulnerable without stopping being dangerous, and Pace’s tenderness toward Vee stayed alive even in a scene where Vee wasn’t there. I want the next chapter badly now because all three bonds feel real, and that means the secret is going to hurt.

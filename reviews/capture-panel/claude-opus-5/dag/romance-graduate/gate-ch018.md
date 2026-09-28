@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch018 · claude-opus-5 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 6b85b74f7cb8 · 2026-09-27*
+
+REACTION
+
+Okay so this is the third time in six chapters I've watched Vee hand the story to someone across a room, and I clocked it the second Cassie put the highlighter down. Rye was this. The dining hall with Meg and Kayla was this. Now this. And here's the thing I have to be honest about: I didn't resent it, but I felt the shape land, and the feeling was *oh, this is where we go after.* That's the first time this book has had a *where we go after*.
+
+What saves it — mostly — is what she does and doesn't hand over. She gives Cassie the box, the bra, the burgundy held up to her face, the riser, the kneeling. She gives her *he turned the heat up hours before* and I got it in the chest the second time same as the first. But she does not give her one single word of the actual hour. Not the thumbprint. Not the blanket and the maybes. Not the moment she screwed her eyes shut and counted three breaths waiting to find out whether she'd been a joke her whole life. She gives Cassie the *bit* — hands cupped, flew outward, "just *out*," "I was on a box," "I was grinding on *him*," pillow, laughing too hard to finish — and I understand exactly why a woman does that, I've done it, you convert the unbearable thing into the funny thing so you can keep it. But it means chapter seventeen got told to me at full pressure and then retold at about nine percent, and the retelling came right on top of it. Seventeen took the top of my head off. Eighteen is Vee putting it back on.
+
+The two places she couldn't keep it funny are the two places I felt her: "It was like his eyes asked, *May I look*" — that's the whole book in seven words and it's the only time she gets near what actually happened to her. And "Like I was supposed to be there." And she pulled her knees up, smaller than she usually sits, to say it. That's the real one. That's the thing she'll never be able to say out loud to anybody in a room with the lights on.
+
+Now. Cassie. I wrote in my own notes that Cassie is the only person in this book with working instincts, and I need to say what I saw here, which is that the instruments went quiet. She does the good version of the interrogation — *he asked*, she names it, she gets there without being told, she's the only one who'd even think to ask *was it weird* — and then she gets *charmed.* "Are you sure he's not gay?" is a genuinely funny line and it's also the sound of a smoke detector with the battery out. This is the woman who said **"Goodbye, Vee"** as a full flat finished sentence and is now catching a pillow. Two readings and I can't choose: either the book is softening its own alarm because it needs Vee to get all the way in, or Pace is so good that the *sensor converts too*, and Cassie being won over is the most frightening thing in the chapter. I want it to be the second one. I'm afraid it's the first. The one place she nearly got there — going back over it, the small frown, *walk me through this* — she ran the numbers and came out with a punchline instead of a question, and a week ago that frown would have found something.
+
+And Randi is not in this chapter at all, which I noticed like a missing tooth. Vee has now told the funny version to her roommate. The jacket promised me lunches too intimate to name. The *real* debrief hasn't happened yet — the one where Randi says *tell me* in that voice and Vee hands over the wet satin and the shut eyes and the man on his knees, and Randi has to sit there and hear it about a face she pointed at. *That's* the chapter. And she'll hear it, and then she'll go out to the gravel road and get on top of him and say *tell me*, and he'll hand her something and hold something back, because he's already started keeping the good ones. He kept the froyo line. He kept *she gave me herself in the truck.* He is going to keep the box.
+
+What I'd text at 1 a.m.: *she told her roommate the comedy version and it was still the best conversation in the book, and the fact that she can't say the true part to the only clean person she's got is going to be how they get her.*
+
+GATE 18 — Turned Up
+DECISION: CONTINUE
+CAPTURE: 6
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "You keep taking your shirt off in front of this guy," Cassie said, "and not getting any?"
+WHY: I came down off seventeen into a debrief I'd already read twice in another key, and for a page there it was a sitcom about a man who sews. It earned itself back with "it was like his eyes asked, *May I look*" and with Vee sitting smaller than usual to say she felt like she was supposed to be there — but I want Randi in the next room now, not Cassie with a pillow, and I want to hear what Pace does with an hour he can't hand over.

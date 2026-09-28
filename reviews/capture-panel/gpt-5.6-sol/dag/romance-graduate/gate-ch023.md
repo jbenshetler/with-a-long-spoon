@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~8aff12752f2e · 2026-09-10*
+*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 1054321fed62 · 2026-09-27*
 
-REACTION
+Oh, this hurt. The small bowl. *The one he sliced her apples into.* That single detail just blew open the whole hidden life: Randi has a place in this house so established that even the dishes know her, and Vee is walking through it seeing only two towels. Then Randi tastes only the surface of what he made, tells him it’s wonderful for possibly the first time, and cannot eat. Vee has been fed all book—food, attention, language, permission—and Randi is sitting in front of her portion starving.
 
-Oh, Randi knows. She knows exactly what she is doing with that foot in her hands, that one little “Mm,” the thumb over Vee’s painted toenail, the look up, the silence afterward. That was hotter than half the explicit scenes I’ve read this year because Vee’s body understands the moment perfectly even while her mind is still filing it under friendship. And Randi understands it at both levels. Pace gives Vee room to choose; Randi makes the room tilt until the choice feels inevitable. I want her terribly, and I do not trust her at all.
+And the band on her finger? Excuse me? I physically stopped there. What band? How bound are these two, exactly, and how much more enormous is the lie than Vee understands?
 
-“He didn’t make this *for* you. He made it *to* you” got me. Of course Randi has the exact words for the thing Vee cannot name. She always does. That is part of the seduction and part of the cruelty: Vee experiences herself more fully in Randi’s company because Randi keeps handing her language sharpened precisely to fit. Even “lover” is placed into Vee rather than merely said. Suddenly Pace is not a boy she slept with but an adult erotic fact in her life, and Randi gets to watch that recognition happen.
+This is the first time I’ve felt the plan from inside Pace and Randi as a wound between them rather than merely a wrong being done to Vee. Randi watched Pace’s happiness at hearing Vee had told her about Friday, and I could feel the jealousy without reducing it to sexual possession. He gets Vee’s whole weekends, her awakening, her unguarded happiness. Randi gets the report. She helped choose this woman and open her, and now she is trapped outside the intimacy she engineered while Pace congratulates himself on patience.
 
-The first shoe store made me genuinely happy. The yeti shoe, the busted flat, Randi’s ridiculous rhinestone platforms—that felt like real friendship pleasure, not merely strategy. Vee getting to be funny, and knowing she is funny, matters to me almost as much as her learning she is desirable. Then the older couple seeing “two girls being silly over shoes” put the ache right underneath it. Yes, that is what they look like. No, that is no longer all they are.
+But Pace’s answer made me furious even while I understood exactly why he believes it. “She chooses it, Randi. Every step of it. Or it isn’t anything.” Yes—and she cannot choose *it* because she does not know what *it* is. “How do I get her from where she is to us” is the whole moral obscenity in one sentence. He thinks the destination can remain concealed as long as every individual footstep is voluntary. His care is real; his ethic is catastrophically incomplete.
 
-But the boutique made my stomach clench. I have been waiting for the money wound to open, and here it is. Vee does not decide she can afford the shoes. She converts them into a debt she owes the dress, which lets her spend money she explicitly knows she cannot repay. That is shame doing drag as appetite. It is not the same liberation as taking off her underwear because she wants the slit clean or climbing onto Pace because she wants him. Randi sees bodies and clothes and hunger with frightening accuracy, yet either cannot see the quiet “exact shape” of Vee’s bank balance or chooses not to. Then she casually buys shoes costing several times more without looking at the total. I felt sick for Vee standing beside her, smiling so the price could not reach her face.
+The sex was hot in the way watching something break can be hot, and I hated it for them. Randi taking him without the inch, the stop, the eyes, or “tell me” felt like deliberate deprivation. She denied him the ritual in which he sees her and says her back to herself. She used his body while refusing his gaze, and he—this man who can pull signal out of noise—could identify every altered detail and still not name what she was saying. That is almost unbearably exact. He knows her breathing, her chill, how she pours wine, which bowl is hers. He does not know that she is starving right in front of him.
 
-And that ending is brutal because the happiness is real. Vee clutching the box is tender and funny; Randi’s delight in her is real; the laughter is real. “I have never had a friend like this” is also real. That does not erase the unpaid balance sitting invisibly inside the box. It makes it worse. Randi is teaching Vee not to apologize for herself, which Vee desperately needs, but she is also teaching her that belonging means never flinching where Randi can see. Those lessons are becoming tangled, and Randi can afford the tangle.
+And then he covers the untouched bowl and saves it *for her*. God. Care applied perfectly to the wrong problem.
 
-I am fully in now. Give me the induction, give me Randi seeing Vee in the completed dress and shoes, give me the moment someone finally notices that Vee is financing this awakening with money she does not have. Also, please let Vee consciously realize she wants Randi before Randi puts another beautifully chosen word into her mouth. Her body is already several chapters ahead.
+What I would text at one in the morning: **PACE CAN FIND A MEDICAL IMAGE INSIDE NOISE BUT CANNOT SEE HIS GIRLFRIEND IS JEALOUS, HUNGRY, AND IN LOVE WITH THE WOMAN THEY PICKED. ALSO WHAT IS THAT BAND.**
 
-GATE 23 — Sorority
+GATE 23 — Portion
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The foot scene had exactly the intelligent, dangerous charge I came for, and the credit-card purchase made the pleasure hurt instead of letting it float away as glamour. I’m desperate for Vee to recognize both what she wants from Randi and what this friendship is costing her.
+WHY: This finally opened the locked room between Pace and Randi, and it is worse, sadder, and more intimate than I expected. I need to know what “tell me” usually means, what that band means, and how long Pace can keep mistaking exquisitely managed steps for a freely chosen destination.

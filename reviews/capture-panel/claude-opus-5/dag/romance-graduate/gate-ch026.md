@@ -1,0 +1,32 @@
+*capture-dag-v2-rich · gate ch026 · claude-opus-5 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 8aff12752f2e · 2026-09-27*
+
+REACTION
+
+Oh, Randi got the first look. After twenty-five ended on *still shown to not one living soul* — a sentence I read as a loaded gun pointed at the induction — the dress comes out of the bag in a cinderblock double for an audience of one, and it isn't Cassie, and it isn't a mirror, and it isn't her mother. Vee didn't even hold it up on the hanger like a normal person; she went and *put it on*, because she wanted to be seen in it the way she'd been seen in his glass. Randi walked in, swept the room, clocked Cassie's bunk — made tight, square, nobody home — and then received the most beautiful thing Vee will ever own. That's not a shopping chapter. That's a transfer of custody.
+
+And then *he made it to you, not for you.* God. That's the third time Randi has handed Vee a word for something Vee was already living and couldn't name, and every single time it binds her tighter, and every single time the sentence is *true*. That's what makes her the most frightening person in this book — she isn't lying. She never lies about the important things. She just names them first, so the naming belongs to her.
+
+The shoe store. Okay, I laughed — the six-inch pink rhinestone platforms, taken to the light and weighed honestly, *do these go with burgundy* — and I want to be fair about why I laughed, which is that for the first time in twenty-six chapters Vee was the funny one. The canoe, the sandal joke, Randi actually folded over the bench giving up the laugh that costs her something. Vee standing in the wreckage of her own store feeling like the funniest woman in Virginia. That's a real gift to a character who has spent this whole book being *looked at*, and I noticed the book giving it to her in her own aisle, on her own ground, where she knows which rack lies about a size. Also noticed the older couple by the boots watching two girls being silly, because the book keeps letting strangers see them as a pair and keeps letting Vee not mind anymore.
+
+But the knife. *What size? Seven. That's me. That's me exactly.* Same feet, same size, same everything, we can share, *it's practically a marriage.* Said as a joke, on the way to the door, with her sunglasses in her hand. Randi is laying track in daylight and calling it a bit.
+
+And then — *this is the one* — she takes the box from the shopgirl herself, goes down on one knee on a pale floor in her own good clothes, lifts Vee's foot onto her knee, and instead of reaching for the shoe she just *holds it*, turns it to the light, and looks at the frosted plum. The polish Vee bought at Ulta to match a bolt of silk. The polish she painted Friday for a man who'd have her feet bare in his hands. The polish Randi already made her confess across a mimosa. *Mm.* One thumb across the nail of the big toe and the floor tips and Vee's hand shoots out and grabs her shoulder to stop the room, and Randi looks up, and *smiles, and says nothing at all, and bends back to the box.* She had it. She had the whole thing in her hand and she put it down, again, the way she put down *you don't have to tell me.* I don't think that's discipline anymore. I think that's a woman who cannot afford to hear what would come out of her own mouth.
+
+And the money. This is where I got genuinely cold. Randi did not offer to pay. She *never* offers, because she learned at the tomato soup that Vee will not be bought and that being bought is the one thing that would break the spell. So instead she stood there being charming about a coat woman while Vee put the debit card back — the card that only spends what's already behind it, the card that is her entire dignity — and took out the emergency card with *nothing under it*, and signed, and smiled, and let none of it reach her face, because the one thing she would not do in that room was flinch. Vee has learned Randi's rule. And then Randi's own shoes ring up at several times that and she doesn't look down, and she *wears them out of the store*, and Vee carries her box against her chest with both arms because the rope handle isn't enough, like it might get up and leave her. That image gutted me. That's a girl who has never bought a beautiful thing.
+
+*You can put it in the trunk, you know. It's not going to spoil.* — and it's funny, and Vee laughs the whole bent-in-half laugh, and I sat there thinking: you just watched her put a month she doesn't have on a card, and your joke is that she doesn't know how to own things. That's the most loving cruel sentence in this book so far and I don't think Randi knows it's either one.
+
+What I'd text at 1 a.m.: *SHE BOUGHT THE SHOES ON CREDIT AND RANDI KNELT DOWN AND TOUCHED HER TOENAIL AND SAID NOTHING.* Also: the shoes hold her. *Less like wearing a shoe than being stood up by one.* That's the whole book. Somebody holds you up and you feel tall and you do not think about who's underneath.
+
+What I'm braced for: Pace seeing those shoes and doing arithmetic he's good at. That statement next month. And the induction, where the dress and the shoes and the mother are going to be in one room, and where — I keep circling this — Vee is going to walk in late on purpose to stop a room, which is *Randi's* idea, installed in chapter twenty-six, planted in twenty-four as Vee's own private daydream. She's going to do the most Randi thing she's ever done in a dress Pace built, and think it was hers.
+
+One honest gripe: I flagged the shape last time and this is another Randi outing with Vee anxious about clothes, and the comedy stretch ran about a page longer than it needed to. But it paid for itself — the laugh was the anesthetic for the credit card, structurally, and the book knew that. Cross something new next, though. I want Cassie's mouth to open, or Pace and Randi in the same room as Vee, or that walnut table.
+
+GATE 26 — Sorority
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Careful. This one's one brisk walk from becoming a sandal."
+WHY: The comedy ran long enough that I felt the chapter spending time, and then it cashed every second of it — the kneeling, the thumb on the toenail, the debit card going back in the wallet. Randi has stopped being ahead of Vee and started being ahead of herself, and I want the next chapter because the dress, the shoes and the mother are converging on one room.

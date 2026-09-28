@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch026 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha d1b699df4c26 · 2026-09-19*
+*capture-dag-v2-rich · gate ch026 · gemini-3.8-flash · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 8aff12752f2e · 2026-09-27*
 
 REACTION:
 
-Oh, god. My stomach is in actual knots.
+I am actually sick to my stomach. My chest feels tight. The psychological horror in this chapter is operating at an absolute masterclass level, and the fact that it is dressed up as a bubbly, giggly *Legally Blonde* shopping montage makes it ten times more terrifying.
 
-The first half was pure, aching magic. That dance lesson on the empty concrete pad under the gym lights? Him telling her, *"You have a job here... Give me something to push back against. Otherwise you cannot feel my lead"*? That is the entire dynamic of their relationship laid bare. It is the theme of this whole damn book! The surrender only works if she has substance, if she gives him resistance so he can guide it. Watching her body fight the frame, fight the proximity because she’s terrified of being stepped on, and him telling her that keeping space is *what* gets you stepped on... it was so wildly erotic without a single stitch of clothing coming off. And then when it clicks, when she stops trying to outthink him and just feels the information coming through his hand at her shoulder blade—god, it made my chest tight.
+Look at what Randi just did. Look at how effortlessly she dismantled every single boundary and safety net Vee has left.
 
-And then. The Rusty Nail.
+First, she goes down on one knee. *Pace’s position.* She drops onto the pale boutique floor, takes Vee’s bare foot into her hands, runs her thumb over that frosted plum polish—the polish Vee put on for Pace, the polish Randi *knows* Vee put on for Pace—and Vee’s entire equilibrium tips so violently she has to brace herself against Randi’s shoulder. The heat between them isn't subtext anymore; it’s an electrical arc. Randi is touching the merchandise, claiming it, and Vee’s body is responding before her brain can catch up.
 
-I watched that train wreck happening in slow motion and I wanted to reach through the pages and physically clap my hand over her mouth. The sheer, excruciating agony of female insecurity! It was so painfully, humiliatingly real. The blonde sliding up, dropping that catty, poisonous little needle—*"He's so good about getting a girl home safe at the end of the night"*—and Vee just instantly spiraling into her worst, most toxic self-loathing. The mother’s voice flaring up: *floozie.* The panic of *I gave it up in three dates, I'm just another notch, I'm just a slut he's managing.*
+And then the trap snaps shut on Vee’s wallet. God, the money. As someone who grew up doing that exact "TJMaxx math"—standing there calculating what Thursday will look like if you buy the lunch, checking the clearance racks for the half-offs—watching Vee pull out the emergency credit card made my stomach genuinely drop. Vee is drowning financially. Randi *knows* Vee doesn't have money. Randi sat there and watched Vee drop a balance she can't pay onto high-interest plastic, while Randi casually dropped three times that amount on an impulse loafer without even breaking a sentence about tailoring. It’s sickening. Randi didn't offer to buy them, didn't offer to split it, didn't let Vee buy the sensible tan ones—she weaponized Vee’s pride, her shame, and her desperate need to be worthy of Pace’s bespoke dress to force Vee into debt.
 
-And the venom she spat at him: *"Does your service include getting the girls home safe from here, too?"* Oh, Vee. The way the light just drained out of his face. Not defensive, not shouting, just absolute, flat disappointment. And then he just *leaves*. He doesn't chase her. He doesn't play the manufactured romance-novel hero game of pinning her against a wall to explain himself. He respects her boundary, sets his beer down, and walks out the door into the cold. Devastating.
+*"The shoes were not a want she had to own as a want. They were what the dress was owed."* The sheer brilliance of that rationalization! Pace built the cage out of silk, and Randi just locked the door by convincing Vee that being reckless and broke is the only way to honor the art.
 
-The bartender delivering the brutal reality check made me wince so hard my teeth hurt. *"Wasn't him they were jealous of, honey."* Every single piece of evidence that this man is genuinely rare and decent, and she weaponized it against him because she felt cheap. Sitting there alone, paying for an overpriced, rattling cab, putting on his washed flannel that doesn't even smell like him anymore, hiding in the dark from Cassie because Cassie would actually make her face the truth... it's a gut punch.
+And that final line: *"Vee thought, as she had been thinking lately and could not stop, that she had never once in her life had a friend like this."*
 
-And that final line. The chilling, horrifying trap of that final line: *"go to Randi's."*
+No, Vee, you haven't. Because usually, the people who love you don't bleed you dry, isolate you from your real roommate, and groom you for a slaughterhouse while laughing on a sunlit sidewalk. I am sweating. I need the induction right now.
 
-She blew it with Pace, and instead of going to Cassie—the only pure, uncorrupted person in her life—she is walking straight into the jaws of the crocodile. Randi, who we literally just saw *riding Pace in his bed*, who wants Vee so bad she can taste it, who is orchestrating this entire psychological snare. Vee is running to the spider to ask how to fix the web. I am terrified.
-
-GATE 26 — Lesson
+GATE 26 — Sorority
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The dance lesson was breathtakingly charged, but watching Vee's shame detonate her dignity was painful, brilliant character work. And that ending—running straight to Randi to "fix" it with Pace—is setting up an absolute psychological bloodbath that I need to see immediately.
+WHY: The financial and psychological coercion masquerading as a fun best-friend shopping spree was suffocatingly tense. Randi on her knees stroking Vee's painted toe gave me full-body chills, and Vee signing that credit card slip felt like watching someone sign a deal with the devil. I cannot look away from this trainwreck.

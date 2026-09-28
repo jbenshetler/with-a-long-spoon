@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha d1b699df4c26 · 2026-09-14*
+*capture-dag-v2-rich · gate ch026 · gpt-5.5 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 8aff12752f2e · 2026-09-27*
 
 REACTION —
 
-Oh, this one got me in that very particular place where I’m embarrassed *with* her and also furious on her behalf and also furious *at* her, which is rude of a chapter to do before I’ve finished my coffee.
+Oh no, this got me.
 
-The dancing lesson itself was lethal. Not flashy-lethal. Worse. “Give me something to push back against.” “Being jelly doesn’t work.” Come on. That is exactly the kind of physical instruction that turns into emotional instruction without anyone having to point at it with a highlighter. And it’s so Pace: not seducing by performing romance, but by making a system she can enter, then letting her feel her own body become competent inside it. I could feel why that would undo Vee. The frame, the pressure, the lead coming through his body before her mind can interfere — yes. Yes, unfortunately, yes.
+Not in the same body-first way the dress chapter got me, though there is plenty of charge here. This one got me in the friendship place, which is almost worse, because Randi is doing the thing she does so beautifully: making Vee feel translated. Seen, elevated, brought into a room she wouldn’t have entered alone and then somehow made to feel like she belongs there because Randi’s hand is on her back. It is intoxicating. I understand exactly why Vee follows her out of the sensible shoe store. I would have followed her too, and I would have hated myself a little while handing over the credit card.
 
-And I loved that it wasn’t instantly easy. She’s late, she’s too eager, she’s in Meg’s borrowed shirt with the keyhole doing far more than keyhole duty, she’s trying to become the girl who can be taken dancing, and then the actual work of dancing requires her to stop guessing and stop managing. That is so much of her whole problem. She wants to anticipate the pain before it arrives. She wants to get ahead of the lead because trusting the lead means being visibly wrong for half a second. The chapter understands her body better than she does.
+The “made it to you” line landed. That is Randi’s gift and her danger in one sentence. She says the truest thing in the room before Vee has found the words, and then the truth belongs partly to Randi because she named it. I felt Vee’s throat close there. Pace made the dress out of attention, but Randi gives Vee the language to experience that attention without making herself smaller. That is real intimacy. Also: that is control with perfume on.
 
-Then the bar. God. The way being brought into his world should have been romantic and instead immediately became socially dangerous. Pace being known there, hugged there, loved there — not in some cartoon player way, but in a way that hits Vee’s rawest place anyway. I absolutely believed her spiral. I did not agree with her, but I believed every ugly inch of it. That “a man like that has girls, and you’d be one of them” mother-voice arrived like a poisoned little heirloom. She has been taught to distrust exactly the evidence of being chosen.
+And the shoe shopping at the cheap store was such a relief. I loved them laughing. I loved Vee being funny and knowing she was funny. That “funniest woman in Virginia” feeling is so specific and alive, and it made Randi less purely predatory for a minute. The real laugh costing her something — yes. I felt that. There is a version of this book where I could just read these two being girlfriends and menacing every shoe rack in town.
 
-The blonde was such a perfect little needle. Maybe malicious, maybe jealous, maybe half-true in the way women can be when they want to damage you without quite lying. “Knows how to get a girl to do just what he wants her to” is a nasty sentence because it attaches itself to the dancing lesson and ruins it retroactively. Suddenly the beautiful lead has teeth. Suddenly the thing that made Vee feel safe can be reread as control. And because the whole book has this secret architecture under it, I can’t even dismiss the sentence. That’s the delicious horrible part: Vee is wrong about this situation and also, in a larger sense, not wrong enough.
+But then the boutique. Whew. The foot on Randi’s knee. The thumb over the frosted plum toenail. That was hotter than a lot of actual sex scenes I’ve read, because the book knows exactly where the live wire is. Vee has coded those toes to Pace, to the silk, to her own secret readiness, and Randi touches the code like she knows the password. “Mm.” That’s all she has to say. I actually got a little mad at how effective it was.
 
-Her line to him hurt. The “service” thing. Oof. I wanted to grab her sleeve. Because Pace’s face draining, his straight answer, the untouched beer — that was the first time in a while I felt him as genuinely wounded instead of merely controlled. And I needed that. The book has made him almost impossibly competent, but this made him young. Twenty-two, suddenly. A man who brought a date to the place where he is known and trusted, and she throws the trust back at him as sleaze.
+The money made me anxious in a very grown-up, stomachy way. Not because I’m moralizing the shoes — honestly, the shoes are right, and the tan pair would have been a crime against the dress — but because Vee putting away the debit and taking out the credit card felt like another threshold disguised as glamour. She is learning to want without apologizing, which I love. She is also being moved into wants that cost more than she can safely pay, by someone who can spend multiples of that without looking. That difference in power is suddenly very loud. Randi buying her own loafers like breathing while Vee is white-knuckling the purchase hurt more than I expected.
 
-And then the bartender. Bless that woman. I am a sucker for an older bar woman who has seen everybody’s nonsense and has no interest in decorating the truth. “Wasn’t him they were jealous of, honey.” That landed. Not too clean, not too cute. Just enough to let Vee understand the room she’d misread, and understand herself inside it.
+And yet the ending still warmed me. Vee holding the box like it might spoil, Randi catching her, both of them laughing on the sidewalk with the dress between them — that is so tender and believable that I want to shake the book. Because this is why the betrayal will cut. If Randi were only manipulating her, fine, I could armor up. But she isn’t. She is giving Vee something Vee has wanted since she was fifteen. The problem is she is giving it with one hand while the other hand is still inside the plan.
 
-The ending made me ache more than if she’d cried theatrically. The cab smell, the fare costing money she needed, the washed flannel smelling like no one, Cassie asleep three feet away and Vee not waking her. That’s the part that scares me. Not the fight. Couples fight. It’s that she is still choosing the wrong confidante path. She could wake Cassie. Cassie would help her tell the truth without making it pretty. Instead she’s going to Randi. And I want Randi on page, obviously I do, but I do not trust what Randi will do with Vee’s shame when it arrives warm in her hands.
-
-Also: the chapter title, “Lesson,” is doing a lot without being obnoxious. Dance lesson, trust lesson, jealousy lesson, class lesson, and probably Randi lesson incoming. My thumb is absolutely moving.
-
-GATE 26 — Lesson
+GATE 26 — Sorority
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-ALMOST-STOPPED: “He made them feel safe, and like real people. He kept them safe. He could have had any one of them, and he hadn't. He'd chosen her.”
-WHY: This chapter put the heat into trust instead of just sex, then poisoned it with jealousy in a way that felt painfully real. I want the next chapter badly because Vee is going to Randi instead of Cassie, and that feels like walking toward a beautiful open flame.
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Not the debit."
+WHY: The money made me physically uneasy, but in the useful way: the book let the glamour turn expensive without blinking. Randi and Vee’s bond took a real turn here, because this wasn’t just shopping, it was Randi entering the dress/Pace fantasy and making herself necessary to it. I need the induction now, badly.

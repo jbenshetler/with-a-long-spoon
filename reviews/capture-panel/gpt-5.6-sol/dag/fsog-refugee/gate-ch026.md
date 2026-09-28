@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha d1b699df4c26 · 2026-09-14*
+*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8aff12752f2e · 2026-09-27*
 
-REACTION
+REACTION — Oh, Randi. This is the version of you that could ruin me.
 
-Oh, Vee. I spent the first half of this chapter practically melting and the second half wanting to reach into the book and stop her from hurting herself.
+The looking at the dress was almost unbearably intimate. “He made it *to* you” is exactly the kind of sentence Vee has been waiting her whole life for someone to give her: it names her feeling so perfectly that it seems like proof Randi knows her completely. And Randi does know her—she understands the hunger, the fantasy of walking in late, the difference between merely pretty and impossible to ignore. That is what makes all of this so delicious and so frightening. She keeps handing Vee her own desires with the labels already attached.
 
-That dance lesson was almost indecently tailored to me. “Give me something to push back against.” “Close it—come all the way in.” A firm frame that requires her resistance, a lead she can feel because he has taught her how to answer it, and then that moment when she stops anticipating and her body understands him before her mind does—yes. That is exactly the control I want: he doesn’t drag a passive woman around; he teaches her how to meet him so they can move together. Even his “Again” got me. Quiet, certain, not shaming her for getting it wrong. And “There’s no sorry unless you take off a foot” was so tenderly funny that I was completely gone.
+And I loved them being ridiculous together in the first shop. I loved Vee getting to be funny and confident on her own ground, and Randi’s real laugh, and the little discovery that they wear the same size. “It’s practically a marriage” landed exactly where Randi intended it to land, whether Vee knows that or not. This did not feel like Randi performing sophisticated friendship at Vee. For a while they were simply two women having a wonderful afternoon, and I wanted that friendship to be innocent because Vee is so happy inside it.
 
-Then the bar turned every insecurity she has against her. I could feel her starting that count of women before she admitted she was counting, and I knew one of them would put a knife exactly where Vee was already bruised. That blonde knew what she was doing. “Knows how to get a girl to do just what he wants her to” was exquisitely poisonous because it took the very thing that had made Vee feel safe and special—the legible lead—and made it sound like a routine Pace performs on interchangeable girls.
+Then Randi went onto one knee.
 
-Vee’s cruelty to him hurt, but her cruelty to herself hurt worse. Three dates, so she “spread her legs like a slut”—there is her mother, fully installed inside her, waiting to convert desire into evidence against her the instant she feels unsafe. She didn’t merely become jealous; she rewrote her own freely chosen pleasure as something cheap he had tricked out of her. I hate that for her. I also believe it completely.
+That thumb over the plum-painted toenail was hotter to me than most full sex scenes. She knows what the color means. She helped Vee confess what it means. Now she is holding the foot Pace has presumably already had in his hands, looking at the evidence of Vee’s preparation, and touching it just enough to make Vee sway. Randi looks up, sees exactly what she has done, and stops there. God. That is much closer to what I want from her: desire made unmistakable, but room left around Vee’s response. I still wish she had asked. I also cannot pretend I didn’t feel it everywhere.
 
-And Pace just answered the actual accusation. Yes, he takes intoxicated women home when needed. He leaves them safely at the door. Of course he does. Of course the thing she punished him for was another expression of the exact care she loves in him. Him leaving after she explicitly said she could get herself home felt awful, but I cannot condemn him for taking her boundary seriously when she delivered it like a weapon. He didn’t chase, corner, or overrule her because he thought she secretly wanted pursuit. That restraint costs something here.
+But the shoes made my stomach hurt. Randi sees almost everything about Vee except—or refuses to see—the humiliatingly obvious fact that they do not have the same money. Vee’s silence was not agreement; it was shame. Watching her turn a dangerous expense into something “the dress was owed” felt like watching the seduction reach her bank account. Then Randi casually bought shoes costing several times more without even checking the price. She did not mean to be cruel, which somehow made the gulf worse. Vee thinks this is what belonging beside Randi costs, and Randi gets to call the afternoon friendship without ever noticing the bill.
 
-The bartender telling her that everyone was jealous of *her* landed beautifully and terribly. Vee really was the exception in that room. Except I know the enormous exception she thinks she is rests inside the hidden plan, and Pace is still sleeping with Randi. So I cannot simply enjoy Vee learning that her jealousy was mistaken. Her specific conclusions about the women at the bar were wrong, but the instinct that there is a concealed join between the man and the Pace she has been allowed to see is horribly, horribly right. She even asked herself the exact dangerous question—how much is Pace, and how much is the Pace she has built out of wanting—and then danced past it.
+I kept thinking of Cassie’s raised eyebrow. Cassie would have seen the card switch. She might not understand the dress, but she understands Vee. Randi understands Vee’s appetite and keeps feeding it; Cassie understands where it hurts. I’m not willing to lose either kind of knowing yet, but only one of these women is currently safe.
 
-What scares me most is the last choice. She could call Cassie, who would come without extracting anything, and instead she is going to Randi—the one person who already knows the whole hidden structure of this fight and can guide Vee’s interpretation toward whatever serves the plan. Randi is Pace’s girlfriend. Vee is about to ask Pace’s secret girlfriend how to repair things with him, probably confessing every shameful detail along the way. I am already furious, already fascinated, and absolutely reading the next page.
+And still—the ending got me. Vee clutching that box because she has never trusted the world to let her keep a beautiful thing, then laughing until she bends when Randi sees her: that tenderness is real. That is the trap. I believe Randi’s pleasure in Vee completely. I believe Vee has never had a friend like her. I also believe Randi is teaching her to mistake being swept along for becoming free.
 
-GATE 26 — Lesson
+GATE 26 — Sorority
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-ALMOST-STOPPED: none
-WHY: The lesson gave me dominance as communication rather than erasure, then the jealousy turned that same intimacy inside out. Vee going to Randi with this—while still believing Randi is simply her safest, most worldly friend—is a trap door I cannot possibly stop above.
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: “They were what the dress was owed.”
+WHY: The foot scene lit me up, but Vee putting unaffordable shoes on an emergency credit card while Randi casually spent multiples beside her made me feel sick. I’m continuing because the warmth and danger are now so thoroughly braided together that I need to see whether Randi notices what her version of freedom is costing Vee.
