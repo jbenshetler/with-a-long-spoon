@@ -25,6 +25,7 @@ Harness: `tools/capture_dag.py`. Contract and results history:
 | `romance-graduate` | outgrown spicy romance, won't give up the heat (primary vector) | yes |
 | `fsog-refugee` | FSoG intensity with real consent and warmth (crossover) | yes |
 | `relationship-first` | came up through the friendship and college novel, wants the door open; reads for talk and texture, notices repetition (third seat, 2026-09-27) | yes |
+| `line-editor` | the 2026-09-27 relationship-first text kept whole: the reader who notices a phrase coming back, a feeling explained after it was given, a book deciding for her — on request only, a craft instrument not a tuning target (author ruling 2026-09-28) | **no** |
 | `consent-sensitive` | vigilant about predation-romanticizing; the con-misread instrument — **on request** since 2026-09-27: free-sample runs and any run touching the reveal chapters | **no** |
 | `romantasy-refugee` | series-literate fae/dragon reader who left over the mate bond; calibration lane for the volume-close test only (2026-09-27) | **no** |
 | `queer-woman` | on request only — sensitivity/representation check, **not a tuning target** (deprecated 2026-09-14) | **no** |
@@ -35,7 +36,7 @@ but deliberately **not** in the default set, so a bare invocation never silently
 opens a fresh 70-chapter read on a subscription lane.
 
 **The target matrix is roster × 3** (author ruling 2026-09-14; third seat changed 2026-09-27): `romance-graduate`,
-`fsog-refugee`, `relationship-first`. `consent-sensitive` on request. Never `dark-romance-control`.
+`fsog-refugee`, `relationship-first`. `consent-sensitive` and `line-editor` on request. Never `dark-romance-control`.
 
 **`queer-woman` is deprecated as a tuning target** (same ruling; full rationale in
 SPEC). She still *runs* — she is not in `RETIRED_PERSONAS` and naming her does not

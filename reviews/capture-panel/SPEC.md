@@ -866,3 +866,25 @@ the volume-close calibration only. (5) A persona trigger that fires on the book'
 carry history and habits, never verdict templates. (6) Requests to resolve the deception
 before the series end are out of scope by design: logged, never acted on.
 
+
+## `line-editor` persona; `relationship-first` trimmed (author ruling 2026-09-28)
+
+The first full run of `relationship-first` (188 gates, seven models, ch1–27, 2026-09-27)
+read sharp: her gates annotate the prose — a feeling explained a beat after it was given,
+the book narrating its own image, the same hour handed over a third time — and she quotes
+her own persona text back ("the withholding is a shape"). Scores were ordinary (8–10, no
+STOP); the sharpness was in the text. Three sentences of the persona drove it. The author
+found that text catching things within and across chapters that prior full editing passes
+had missed, and ruled:
+
+1. **`line-editor`** — the 2026-09-27 `relationship-first` text, cloned whole
+   (`personas/line-editor.md`; the same text is archived as
+   `personas/archive/relationship-first-v1.md`). A craft instrument, not a tuning
+   target: selectable, never in the default three. Read her gates as line-edit
+   candidates, as the cold-read lane's complaints are read.
+2. **`relationship-first`** loses the two line-editor sentences ("a sentence explaining
+   the feeling the previous sentence already gave you"; "when a book has decided how you
+   should feel about someone before you've decided yourself") and the phrase "that the
+   withholding is a shape and not a stall". She keeps repetition-noticing and "what women
+   talk about when the man isn't in the room". Applied forward from ch28; the 188 gates on
+   disk were read under v1 and record its persona hash. Not re-read.

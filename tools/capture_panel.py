@@ -50,7 +50,7 @@ PERSONAS = ["romance-graduate", "fsog-refugee", "relationship-first"]
 RETIRED_PERSONAS = ["dark-romance-control"]
 # `queer-woman` is selectable but NOT in the default panel — opt in with --personas,
 # so a bare --full never silently widens the run.
-ALL_PERSONAS = PERSONAS + ["consent-sensitive", "romantasy-refugee", "queer-woman"] + RETIRED_PERSONAS
+ALL_PERSONAS = PERSONAS + ["consent-sensitive", "line-editor", "romantasy-refugee", "queer-woman"] + RETIRED_PERSONAS
 ARMS = ("jacket", "cold")
 import cold_read_config  # noqa: E402  (single roster)
 MODELS = list(cold_read_config.capture_models())
