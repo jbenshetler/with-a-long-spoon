@@ -46,14 +46,14 @@ Recount = words re-narrating a seen event. Safe cut = what the inventory judged 
 | # | Chapter | Words | Recount | Safe cut | Status |
 |---|---|---|---|---|---|
 | 18 | {{Turned Up}} | 2,012 → 1,852 | ~970 | 160 cut | **done** — accepted with the trim; stays full (the gauge) |
-| 22 | {{Fed}} | 2,179 | 544 | ~170 (ll. 17–19: the recap of the Cassie telling — the one retell of a retell) | open |
+| 22 | {{Fed}} | 2,179 | 544 | ~60 (l. 17 dinner re-list only; Cassie's quoted line is a designed rhyme, `meta-note-fed.md`) | **skipped** (author 2026-09-28): the sheet hour is Randi's gauge reading |
 | 19 | {{How It's Done}} | 5,179 | ~530 | ~130 (l. 71 provenance; l. 90 evasive recount) | open |
 | 41 | {{All the Time}} | 3,287 | tenor summary | 150–200 (ll. 37, 41 enumeration; l. 57 overlaps {{School Nights}}) | open |
 | 11 | {{Dear}} | 3,277 | ~405 | 100–120 (l. 49 setup; l. 55 ordering; l. 63 bridge) | open |
 | 29 | {{Broken In}} | 3,944 | ~430 | ~110 (l. 55 scaffolding; l. 73 him leaving; l. 77 bartender setup) | open |
 | 32 | {{The Practice Room}} | 2,185 | 313 | ~90 (l. 43 porch summary; keep *leave them on*) | open |
 | 36 | {{One Bite}} | 3,077 | ~280 | 80–100 (l. 33 wrap skirt; merge one bet rung) | open |
-| 53 | {{My Friend Randi}} | 3,147 | ~350 | 70–80 (ll. 9, 11 pre-summary duplicates the dialogue) | open |
+| 53 | {{My Friend Randi}} | 3,147 | ~350 | 15 (l. 11 second recap) | **done** — l. 9 recap kept: five chapters from its source, the reader needs it; l. 11's re-list cut |
 | 10 | {{Off Six-Fourteen}} | 1,111 | ~290 | 60–80 (tree scaffolding l. 15/19; bare ask l. 37) | open |
 | 38 | {{School Nights}} | 643 | 198 | 50–60 (l. 13 generic cooked/watched clause) | open |
 | 44 | {{Cropped}} | 760 | ~85 | ≤20 | leave |
@@ -79,4 +79,5 @@ Estimated total recoverable ≈ 1,100–1,300 words. Under one percent of the vo
 ## Log
 
 - 2026-09-28 — doc opened; branch `retell-pass` created; {{Turned Up}} first.
+- 2026-09-28 — {{Fed}} skipped (the sheet hour is the gauge; l. 17's re-list would save 60 words and the Cassie line is a rhyme). {{My Friend Randi}}: distance earns its recap; only l. 11's second naming of the fight cut (−15).
 - 2026-09-28 — {{Turned Up}} −160 words (hike setup, silk, run-up to the bra, Cassie's rain recap, measuring rhythm, hem geometry). Panel on the cut: cold 4 models Heat 1–2 / Romance 2–3, no friction, unprimed readers warm to it. Capture 15 lanes: the five clean before/after pairs (relationship-first) moved 0, 0, 0, +1, −1 — noise. The two opus-4-8 lanes still call it a recap chapter, and the objection fires at the *first beat* ("He just." / the bag on the chair), before any mechanics: "seventeen told a second time," "the flannel-debrief structure over again." **Reading:** trimming mechanics does not touch what that reader feels; that is shape and distance, not proportion. Options: (a) accept — the unprimed instrument likes the chapter and the sort is the design; (b) change the shape (approach 3): the *can't-tell* debrief — Vee comes home and cannot tell it; Cassie gets the shirt, the heat, and the grinding, and the fitting itself stays untold until Randi extracts it the next day. **Ruled 2026-09-28: (a).** The gauge (above) settles it.
