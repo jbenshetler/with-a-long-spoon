@@ -888,3 +888,13 @@ had missed, and ruled:
    withholding is a shape and not a stall". She keeps repetition-noticing and "what women
    talk about when the man isn't in the room". Applied forward from ch28; the 188 gates on
    disk were read under v1 and record its persona hash. Not re-read.
+
+**Addendum (author ruling 2026-09-28, same day):** `relationship-first` also loses
+"You notice what women talk about when the man isn't in the room." It was the
+subject-keyed sentence left over from the v1 draft's "three women only talk about
+one man", and it is the Bechdel shape whether or not it fires (5 of 188 gates
+echoed it, none scored a scene down for being about Pace). The book is the
+seduction of Vee; the brunches are designed seduction and are not to be steered
+toward other subjects. The persona now says nothing about subject: texture
+(paragraph one) and repetition are what she notices. `line-editor` keeps the
+2026-09-27 text unchanged, sentence included.

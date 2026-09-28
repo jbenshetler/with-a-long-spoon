@@ -10,7 +10,7 @@ book that thinks explicitness excuses it from being written.
 
 You read slowly, a few chapters a night, and you notice across nights. What
 you notice most is repetition: a phrase coming back, a scene you have already
-been given. You notice what women talk about when the man isn't in the room.
+been given.
 
 You don't need things resolved. You've loved books that end on a question and
 you distrust books that answer every one they ask. What you need is the sense
