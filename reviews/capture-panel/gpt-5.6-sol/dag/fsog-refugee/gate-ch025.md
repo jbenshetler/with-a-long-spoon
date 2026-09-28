@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~178a1c64010d · 2026-09-11*
+*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d47ba6c6da73 · 2026-09-28*
 
-REACTION — Oh, this got me. Not because anything conventionally dramatic happened, but because they sat half-dressed under a quilt and let each other become people. His hand simply holding her breast while he listens to her talk about casseroles and unopened saffron—yes. That is exactly the warmth I want alongside the sex. Her body is not a performance he switches on and off; it is part of the ordinary tenderness between them.
+REACTION
 
-And Vee is so good with him here. “They took the thing you loved and made it the punishment” went straight through me. She sees beneath his careful little factual sentences because she knows what it is to have shame fastened onto something alive in you. More importantly, she doesn’t pry once she sees it. She offers her shoulder, trades a story when she asks a vulnerable question, and accepts “not tonight” without turning wounded or coy. That hand held over the scar—question, boundary, continued closeness—is almost painfully intimate. This is consent outside sex, and I needed to see that from them.
+Oh, Vee. The shoes made my stomach drop.
 
-Peter. God. Pace is the name of forward motion, the self he built once he escaped that hallway; Peter is the child whose desk was put outside. Hearing it made him feel terribly young to me for the first time.
+I was so happy for her at first—actually happy. Cassie asking only, “Was it a good night?” and visibly relaxing at the answer is exactly why I trust her. She sees Vee, not the spectacle around Vee. And having Cassie and Randi together showed the difference between them so cleanly: Cassie watches to make sure Vee is all right; Randi finds the next want and turns it into momentum.
 
-And Daphne. No, sweetheart. Nineteen and fifteen, with her formally assigned to help him? The clean ugly grown-up word formed in my mouth too. His insistence that nothing happened and nobody did anything wrong, followed by “I didn’t feel young,” made my stomach drop because that is exactly how a fifteen-year-old survives making sense of it. Of course it felt like the best two years he had—he had been isolated, displaced, and then one older person made him feel chosen. The fact that it felt precious to him does not make the imbalance disappear. I’m relieved the chapter understands that and lets Vee understand it without forcing a label into his mouth before he is ready.
+And the awful thing is that I loved Randi here. I loved them being ridiculous in the cheap shoe store. That real laugh, Randi folded over the bench, Vee feeling funny and easy and chosen—I understand completely why Vee thinks she has never had a friend like this. Then Randi sees her in the dress and goes still, and “He made it *to* you” is so precise and intimate that it almost hurt. She knows exactly how to name the thing Vee cannot name for herself. That gift is real. So is the wanting when she touches the dress on Vee’s body. So is the charge when she kneels, holds Vee’s foot, strokes the plum-painted toenail, and looks up. God. Yes. I felt that all the way up too. Vee wants her. There is no explaining that one away as sophistication or a French goodbye.
 
-It also rearranges Pace for me. The man who asks, waits, and treats closed doors as sacred was once a boy whose assigned caretaker crossed a boundary he still cannot recognize as a boundary. His exquisite restraint may not just be gentlemanliness or remorse over Daphne; it may be something he built out of having his own youth misread as maturity. That makes me ache for him. It does not excuse what he and Randi are hiding from Vee. In fact, it sharpens the irony almost unbearably: Vee gives him exactly the gentle, unforced room he needs to tell his history in his own time, while he is still denying her the facts she needs to understand her own present.
+But Randi also knows exactly what she is doing. “Don’t you dare tell me no” sounds playful until the afternoon ends with Vee putting shoes she cannot afford on an emergency credit card. Randi sees the silence in that boutique. She sees everything. She may not know the balance in Vee’s account, but she knows Vee is out of her depth, and instead of giving her room to say so, she supplies a beautiful justification: the dress deserves these, this is who you are becoming, don’t apologize. Then she casually buys shoes costing several times more, making Vee’s terror feel gauche and unsayable. I wanted her to stop. I wanted her to say, “These are perfect, but we’ll find your version somewhere else.” That would have been care.
 
-The math passage should not have worked on me as hard as it did, but watching him light up absolutely did. “Most people walk around inside the poem and never get to read a line of it” is the kind of thing that makes you fall for somebody because, for one minute, they lend you their eyes. And Vee recognizes his total presence with her as the same state lifting gives him—the single heartbeat, nowhere else. That is intensely erotic to me even with both of them sitting still.
+And Vee’s thought that the shoes were “not a want she had to own as a want” frightened me more than the purchase itself. That is the machinery. Her own desire gets renamed as obligation, so she can act on it without admitting its cost. The dress is “owed” shoes; Randi is owed the outing; Pace is becoming her “lover”; every choice remains technically hers while the frame around it keeps narrowing. Same numbers, nobody touched one of them—and the conclusion reverses depending on how they are arranged. That lecture was sitting there like a warning siren.
 
-I’m in deeper now, which means the secret is becoming less forgivable by the page. This is no longer merely a spectacular seduction. They are giving each other their childhoods. He has let her hold Peter against her palm, figuratively and almost literally, while she still doesn’t know whose robe she is wearing or who else was in that bed. I believe the tenderness completely. That is precisely why the betrayal is going to hurt.
+I’m continuing because I am completely caught, but I am not floating in Vee’s happiness anymore. The dress is gorgeous, the shoes are right, Randi’s desire is hot and increasingly unmistakable—and I can see the bill coming in every sense.
 
-GATE 25 — Rock
+GATE 25 — Sorority
 DECISION: CONTINUE
-CAPTURE: 10
-ALMOST-STOPPED: none
-WHY: The quiet intimacy, Vee’s instinctive care, Peter’s history, and that beautifully honored “Not tonight” pulled me in completely. I’m desperate for more—and increasingly furious that Pace accepts this depth of trust from Vee while withholding the truth that would let her trust him knowingly.
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: “The shoes were not a want she had to own as a want. They were what the dress was owed.”
+WHY: Randi and Vee together are warm, funny, intimate, and dangerously charged, which makes Randi’s manipulation harder—not easier—to dismiss. I need to see when Vee finally recognizes both her desire for Randi and the cost of being guided by someone who always knows where the day is going.

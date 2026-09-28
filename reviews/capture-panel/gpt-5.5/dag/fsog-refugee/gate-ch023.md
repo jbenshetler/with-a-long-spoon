@@ -1,25 +1,22 @@
-*capture-dag-v2-rich · gate ch023 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~8aff12752f2e · 2026-09-11*
+*capture-dag-v2-rich · gate ch023 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1054321fed62 · 2026-09-27*
 
 REACTION —
 
-Oh, Randi. Oh no. Oh *yes*. This chapter has me by the throat in exactly the way Randi has Vee by the wrist: laughing, easy, affectionate, and then suddenly you realize you’ve been moved three rooms deeper into wanting before you ever named the door.
+Oh. Oh, I did not expect to be put in Pace’s kitchen with Randi like that, and I’m unsettled in a way I actually like. Not comfortable, not exactly happy, but awake. Because suddenly the hidden machinery is not this smooth wicked game humming under Vee’s story. It has weather inside it. It has someone not eating the stew.
 
-The first part, with Vee putting the dress on for Randi, got me because it wasn’t just “friend sees pretty dress.” Randi looks at her like Pace looks at her, but differently. Pace makes a space where Vee can choose to be seen; Randi names what being seen means and makes it feel inevitable. “He made it *to* you” is such a dangerous, perfect sentence. I felt Vee’s throat close. I did too, a little. Because Randi is right. She keeps being right in ways that feel like gifts, and that is why I do not trust her cleanly.
+That small bowl got me. Hers is the small one, the one he slices her apples into. That is such an intimate domestic fact, and then she draws one line through the sauce and leaves the whole thing untouched. I felt that harder than if she had shouted. Randi is starving too, but not in Vee’s soft new way. She is starving with her jaw locked. She wants Pace to hurry Vee along because she is outside the door of something she helped build, and now she can’t stand that he gets Vee’s weekends, Vee’s firsts, Vee’s yeses, Vee’s happiness. And because her care for Vee is real, it makes her jealousy uglier and sadder, not simpler.
 
-And the shoe store scene where they’re ridiculous together? I loved it. I really did. Vee getting to be funny, loose, clever, not the hungry girl at the window but the girl making Randi absolutely lose it over a busted clearance flat. That made me happy for her. It felt like actual friendship, not just grooming or strategy or whatever ugly word I’m scared the book might eventually make me use. Randi gives her room to sparkle. That’s the part that makes this so complicated. She doesn’t flatten Vee. She draws her out.
+And Pace. God, Pace. “She chooses it, Randi. Every step of it. Or it isn’t anything.” That is exactly the line I needed from him, and also exactly the line that does not absolve him. He understands the moment-to-moment sanctity of her choosing. He understands it so much that he will fight Randi over it. But he is still saying this inside a larger arrangement Vee doesn’t know exists. That contradiction is the live wire of this whole book for me. I believe him when he says it. I also want to shake him and say, then tell her what she is choosing inside.
 
-But then the boutique. God. That turned the screw.
+The sex with Randi was hot in the wrong way, which is not a complaint. It was not romantic-hot. It was punishment-hot, grief-hot, possession turned sideways. Her not saying “tell me” felt enormous. I don’t even know exactly what “tell me” usually means between them, but I felt the missing word like a bruise. She didn’t want their ritual. She wanted to take something back from him or from the situation or from herself, and Pace, careful Pace, didn’t quite know what he was being used for until it was already done. That was maybe the first sex scene where his attention did not save the room.
 
-Randi on one knee with Vee’s foot in her hands was frankly more intimate to me than some sex scenes. The thumb over the plum polish, the silence, Vee’s hand flying to Randi’s shoulder because her body knows exactly what just happened even if her mind refuses to file the paperwork. I am sitting here like: baby, that was not shoe shopping. That was courtship with a receipt.
+And then the end, him putting the bowl away “for her,” because he does not know what he has done. That hurt. Not because he’s innocent exactly, but because he is slower than Randi in this particular emotional math. He can read Vee’s body like scripture, but Randi’s hunger has changed shape and he is behind it. I am very, very interested now. Also nervous, because Randi with hurt feelings and access to Vee’s tenderness is a dangerous combination.
 
-And the money part hurt. Not in a “bad choice, irresponsible girl” way, but in that deeply familiar class-shame way where the room is expensive enough to make you mute. Vee cannot say, “I can’t afford this,” because saying it would break the spell and expose her as someone visiting a world Randi inhabits without looking down at the price. And Randi may not even mean harm there, which almost makes it worse. She sees the aesthetic truth of the shoes and misses, or chooses not to touch, the financial truth of Vee buying them. The dress deserves them, yes. Vee deserves beauty, yes. But Vee putting it on the emergency card while Randi casually buys shoes worth multiples of that is the knife under the table sliding out a little.
-
-Still, I can’t pretend I wasn’t seduced. I was. The black straps, the arch holding her like a hand, the line finishing itself: that is my catnip. Vee getting to walk into a room and not apologize is the whole reason I’m here. I want that for her so badly that I almost don’t care what it costs, and then I immediately care what it costs.
-
-Randi is becoming a problem in the most pleasurable way. She’s not just arranging Pace anymore. She wants Vee’s transformation under her own hands. She wants to be the one who knows what Vee needs before Vee can bear to say it. And Vee, poor gorgeous starving Vee, thinks, “I have never had a friend like this,” while my entire nervous system is whispering, no, sweetheart, you absolutely have not.
-
-GATE 23 — Sorority
+GATE 23 — Portion
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: "Don't you dare tell me no."
-WHY: That line pricked me because Randi’s pressure is getting dressed up as sparkle, and I’m watching for whether the book knows the difference. But the chapter absolutely has me: the tenderness, the class ache, the laughter, the foot-touching, Vee wanting Randi without letting herself know it. I’m nervous, turned on, and very much still in.
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 1
+ALMOST-STOPPED: "It's selfish, Pace."
+WHY: That line almost made me afraid the book was going to ask me to side with pushing Vee faster, but Pace answered with the thing I most needed him to believe: that Vee has to choose every step. The chapter pulled me hard because it made Randi vulnerable and frightening at once, and now I badly want to see whether this jealousy makes her careless with Vee.

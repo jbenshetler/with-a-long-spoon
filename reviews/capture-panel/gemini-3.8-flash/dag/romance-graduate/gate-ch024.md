@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0b647a05ad40 · 2026-09-19*
+*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 0894d4db7f65 · 2026-09-27*
 
 REACTION
 
-Holy shit. Holy *shit*.
+*Oh my god.* This was incredible. I am breathless, I am grinning, and I am entirely undone.
 
-I knew it was coming—it’s right there on the damn jacket, it’s the entire premise—but seeing the curtain pulled back like this knocked the wind completely out of me. Randi naked, astride his chest, Sade playing, spent and smelling like him, casually debriefing their pet project while grinding against him. It is sickening, and it is hypnotic, and I feel like an absolute voyeur watching a car crash in slow motion.
+First of all, the sheer erotic competence of this chapter. The physical comedy mixed with absolute, unadulterated, filthy heat?! Having them get caught halfway through standing sex, realizing the custom silk gown is in danger of being ruined by bodily fluids, her having to hold his wet cock in both hands while he unzips the side closure, her wiping her sticky fingers down his flanks, and then him *taking her fingers into his mouth to clean her off them while holding the dress above her head*—I had to put my hand over my mouth. It was so real, so messy, so deeply playful and incredibly intimate. The line *"There’s a lot of you covered in a lot of me"* and him twitching in her hands? That is top-tier writing. It’s what you never get in standard romance: the realization that the best, hottest sex often involves laughing so hard your leg slips off a man’s hip, followed immediately by him carrying you down the hall buried completely inside you until you bounce off the drywall.
 
-What makes this chapter utterly brilliant—and deeply terrifying—is that they aren't cartoon villains cackling over a cauldron. They aren't sneering at Vee. *They both genuinely adore her.* Randi is actively falling for her ("I keep waiting to get bored of her... and it doesn't come... She got past me before I could help it"). Pace is speaking about her with this breathless, quiet reverie ("Like somebody found the lamp... she's the most alive person standing there"). They see her beauty, her shame, her warmth, and her humor with absolute, piercing clarity. They aren't trying to destroy her; they are tenderizing her, savoring her, curating her awakening like a piece of fine art they plan to consume together. The tenderness is what makes it so psychologically merciless.
+And the dress. God, the dress. The description of the burgundy silk lined with oyster-pale fabric, cut so exactly to her measurements that it felt like water finding its level, and then that lethal slit up to the jut of her hip. Watching Vee realize her cotton panties ruined the line, stripping them off right there in the sunlight, and then *striding* to him—strutting on purpose, leaning entirely into the brazenness of it—was pure triumph. She isn’t hiding anymore. She’s weaponizing the gaze.
 
-And that tiny fracture! Did you see it? Pace starts waxing poetic about how Vee lights up a room, how she doesn't even know how alive she is, and *Randi freezes*. That tiny, cold beat of pure female jealousy: "Randi went still on him. Not the loose stillness of after. A different one... 'Yeah,' she said, when she'd been quiet a beat too long." Oh, my god. Randi brought this stray home for them to play with, assuming she’d get bored like she always does, and now Vee has breached both their defenses. Pace is falling in love with her spirit, and Randi is getting possessive, insecure, and turned on all at once. The way Randi immediately weaponizes her own body right after that prick of jealousy—sliding down on his hard cock, reclaiming her territory, using their shared hunger for Vee as fuel to get fucked again—was scorching hot and chilling to the bone.
+Except... the dramatic irony is like a physical weight sitting on my chest. Because of Chapter 23, I know what Vee doesn’t. I know Pace didn't sleep because he was up finishing this gown, yes, but I also know Randi was in that very bed on Sunday night, riding him hard with her eyes shut, furious that he was taking too long to break Vee. I know this induction ceremony she’s daydreaming about—the grand entrance in this jaw-dropping gown, stunning the campus—is Randi’s sorority event. Randi *ordered* this dress. Randi wants Vee displayed like a prize heifer, prepped and packaged for their mutual game, and Vee is lying in his bed thinking she’s getting away with something, completely, blissfully in love with a man whose kitchen still has Randi’s untouched stew in the fridge.
 
-Vee is back at the dorm, probably looking at her ruined bank account, staring at those black strappy heels, hugging her box, thinking she has finally found real love and a true best friend. And meanwhile, the two people she worships are lying in the dark, naked, trading notes on her shame and fucking while talking about her breasts. I feel dirty for being this captivated. Turn the page right now.
+It is magnificent and terrifying. The tenderness between Pace and Vee feels so genuine—he truly looks at her with wonder, he fell asleep exhausted from making something beautiful for her—which makes the inevitable reckoning a thousand times worse. I couldn't put this down if the house were on fire.
 
-GATE 24 — Gone
+GATE 24 — Peekaboo
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The curtain finally dropped and it was everything the jacket promised—chilling, intimate, shockingly tender, and devastatingly hot. Seeing Randi and Pace together in bed, genuinely falling for Vee while plotting her gradual surrender, changed the entire gravity of the book.
+WHY: The perfect balance of exquisite, hilarious, high-heat physical intimacy and agonizing psychological dread—watching her fall completely in love while walking straight into the trap is utterly addictive.

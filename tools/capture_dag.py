@@ -41,7 +41,11 @@ import cold_read_config  # noqa: E402  (rosters + OpenRouter map — the single 
 
 PANEL_ROOT = REPO / "reviews" / "capture-panel"
 PROTOCOL = "capture-dag-v2-rich"
-PERSONAS = ["romance-graduate", "fsog-refugee", "consent-sensitive"]
+PERSONAS = ["romance-graduate", "fsog-refugee", "relationship-first"]
+# Standing three (author ruling 2026-09-27, persona calibration drafts-2026-09-27):
+# relationship-first took the third seat; consent-sensitive is ON REQUEST (free-sample
+# runs and any run touching the reveal chapters); romantasy-refugee is selectable for
+# the volume-close calibration only. v1 persona texts: personas/archive/.
 # RETIRED from running (author ruling 2026-09-12): `dark-romance-control` is the
 # WRONG reader — a book that captures her is failing the repel goal, so her STOPs
 # were the success condition. She has delivered it (opus STOPPED at ch021, sol at
@@ -54,7 +58,7 @@ RETIRED_PERSONAS = ["dark-romance-control"]
 # `queer-woman` is selectable but NOT in the default panel — opt in with
 # --personas, so a bare run never silently opens a fresh 70-chapter read on a
 # subscription lane.
-ALL_PERSONAS = PERSONAS + ["queer-woman"] + RETIRED_PERSONAS
+ALL_PERSONAS = PERSONAS + ["consent-sensitive", "line-editor", "romantasy-refugee", "queer-woman"] + RETIRED_PERSONAS
 DECADE = 10
 
 

@@ -46,12 +46,14 @@ DISQUALIFY_RE = re.compile(r"not that I'?d (quit|leave|stop)", re.I)
 
 
 class Gate:
-    __slots__ = ("model", "persona", "n", "capture", "next_", "almost", "why", "stop")
+    __slots__ = ("model", "persona", "n", "capture", "next_", "heat", "romance", "almost", "why", "stop")
 
     def __init__(self, model, persona, n, text):
         self.model, self.persona, self.n = model, persona, n
         self.capture = _int(text, r"CAPTURE:\s*\**\s*(\d+)")
         self.next_ = _int(text, r"NEXT:\s*\**\s*(\d+)")
+        self.heat = _int(text, r"HEAT:\s*\**\s*(\d+)")
+        self.romance = _int(text, r"ROMANCE:\s*\**\s*(\d+)")
         m = re.search(r"ALMOST[- ]STOPPED:\s*(.*)", text)
         self.almost = m.group(1).strip() if m else ""
         m = re.search(r"WHY:\s*(.*?)(?:\n[A-Z][A-Z -]{2,}:|\Z)", text, re.S)
@@ -128,7 +130,11 @@ def chapter_series(gates: list[Gate], z: dict) -> dict[int, dict]:
     out = {}
     for n, gs in by.items():
         nxt = [g.next_ for g in gs if g.next_ is not None]
+        heat = [g.heat for g in gs if g.heat is not None]
+        rom = [g.romance for g in gs if g.romance is not None]
         out[n] = {
+            "heat": st.mean(heat) if heat else None,
+            "romance": st.mean(rom) if rom else None,
             "n_readers": len(gs),
             "cap": st.mean(g.capture for g in gs),
             "z": st.mean(z[(g.reader, g.n)] for g in gs),
@@ -141,13 +147,15 @@ def chapter_series(gates: list[Gate], z: dict) -> dict[int, dict]:
 def report_chapters(series: dict, ti: dict) -> None:
     print("\nCHAPTERS — z is mean deviation from each reader's own average\n")
     print(f"  {'ch':>3s} {'title':30s} {'rdrs':>4s} {'cap':>5s} {'z':>6s} "
-          f"{'NEXT':>5s} {'exits':>5s}")
+          f"{'NEXT':>5s} {'heat':>4s} {'rom':>4s} {'exits':>5s}")
     for n in sorted(series):
         s = series[n]
         nx = f"{s['next']:.1f}" if s["next"] is not None else "—"
+        ht = f"{s['heat']:.1f}" if s.get("heat") is not None else "—"
+        rm = f"{s['romance']:.1f}" if s.get("romance") is not None else "—"
         mark = "  <" if s["z"] <= -1.0 else ""
         print(f"  {n:3d} {ti.get(n, '?')[:30]:30s} {s['n_readers']:4d} "
-              f"{s['cap']:5.2f} {s['z']:+6.2f} {nx:>5s} {len(s['exits']):5d}{mark}")
+              f"{s['cap']:5.2f} {s['z']:+6.2f} {nx:>5s} {ht:>4s} {rm:>4s} {len(s['exits']):5d}{mark}")
 
 
 def find_runs(series: dict, min_len: int, deadband: float) -> list[list[int]]:
@@ -248,6 +256,8 @@ def report_zoom(gates: list[Gate], lo: int, hi: int, ti: dict) -> None:
         print(f"  ── ch{n} {ti.get(n, '?')}")
         for g in gs:
             nx = f"/next {g.next_}" if g.next_ is not None else ""
+            if g.heat is not None or g.romance is not None:
+                nx += f"  heat {g.heat if g.heat is not None else '—'}/rom {g.romance if g.romance is not None else '—'}"
             tag = "EXIT" if g.real_exit else "none" if not g.almost else "—"
             print(f"     cap {g.capture}{nx}  [{tag}]  {g.reader}")
             if g.why:

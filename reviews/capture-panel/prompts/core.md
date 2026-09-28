@@ -28,6 +28,10 @@ down for a month without a pang, 10 = you're already reading on). This is a
 different question from CAPTURE and the two often diverge in both directions —
 a quiet chapter can leave you keen, a hot one can leave you tired of a pattern.
 Answer each on its own; do not average them toward each other.
+HEAT: <0–3 — felt erotic charge, not a count of acts: 0 none · 1 simmer · 2 hot ·
+3 peak; a clothed chapter can be a 3>
+ROMANCE: <0–3 — the bond: 0 none · 1 faint warmth · 2 clear tenderness · 3 a turn
+in the bond; scored on the strongest beat, independently of HEAT>
 ALMOST-STOPPED: <the exact moment or line where you came closest to leaving —
 quote it. Report this even when you continue. "None" only if there truly was
 no such moment.>

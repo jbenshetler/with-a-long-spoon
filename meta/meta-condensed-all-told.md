@@ -1,5 +1,7 @@
 # Condensed — All Told
 
+*Folded (author ruling 2026-09-28): this is now the **Friday movement of `sorority.md`** ({{Sorority}}); the text is unchanged inside the fold. Kept as the movement's detail doc.*
+
 *SCENE · Draft complete (`scenes/all-told.md`) · morning after {{Peekaboo}} · stats class day (MWF) · Vee POV*
 
 Absorbs the old standalone "Vee Shows Cassie the Dress." The dress-cluster's confidante beat, relocated to the statistics lecture, where Vee sits between both girls (Cassie | Vee | Randi). She comes in late and glowing off the overnight at Pace's; the finished gown is home at the dorm, zipped in its bag, shown to no one.

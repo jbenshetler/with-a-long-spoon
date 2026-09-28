@@ -36,7 +36,11 @@ import authorship_audit  # noqa: E402  (run_claude, OPENROUTER_MODELS, CLAUDE_PR
 PANEL_ROOT = REPO / "reviews" / "capture-panel"
 PROTOCOL = "capture-panel-v1"
 SAMPLE_SLUGS = ["the-bench", "standards", "the-pointing-game", "see-you-later"]
-PERSONAS = ["romance-graduate", "fsog-refugee", "consent-sensitive"]
+PERSONAS = ["romance-graduate", "fsog-refugee", "relationship-first"]
+# Standing three (author ruling 2026-09-27, persona calibration drafts-2026-09-27):
+# relationship-first took the third seat; consent-sensitive is ON REQUEST (free-sample
+# runs and any run touching the reveal chapters); romantasy-refugee is selectable for
+# the volume-close calibration only. v1 persona texts: personas/archive/.
 # RETIRED from running (author ruling 2026-09-12): `dark-romance-control` is the
 # WRONG reader — a book that captures her is failing the repel goal, so her STOPs
 # were the success condition. She has delivered it, and the lanes that didn't stop
@@ -46,15 +50,23 @@ PERSONAS = ["romance-graduate", "fsog-refugee", "consent-sensitive"]
 RETIRED_PERSONAS = ["dark-romance-control"]
 # `queer-woman` is selectable but NOT in the default panel — opt in with --personas,
 # so a bare --full never silently widens the run.
-ALL_PERSONAS = PERSONAS + ["queer-woman"] + RETIRED_PERSONAS
+ALL_PERSONAS = PERSONAS + ["consent-sensitive", "line-editor", "romantasy-refugee", "queer-woman"] + RETIRED_PERSONAS
 ARMS = ("jacket", "cold")
 import cold_read_config  # noqa: E402  (single roster)
 MODELS = list(cold_read_config.capture_models())
 OPENROUTER_MODELS = cold_read_config.openrouter_models()
 
 
+def volume_span() -> tuple[int, str, str]:
+    """(count, first slug, last slug) of the drafted Volume One the volume arm reads."""
+    v1 = checkpoint_bundle.volume_scenes.volume_one_slugs(drafted_only=True)
+    return len(v1), v1[0], v1[-1]
+
+
 def system_prompt(persona: str, core_file: str = "core.md") -> tuple[str, str]:
     core = (PANEL_ROOT / "prompts" / core_file).read_text(encoding="utf-8")
+    if core_file == "core-volume.md":
+        core = core.replace("<<N>>", str(volume_span()[0]))
     pers = (PANEL_ROOT / "personas" / f"{persona}.md").read_text(encoding="utf-8")
     text = core.rstrip() + "\n\n" + pers.strip() + "\n"
     return text, hashlib.sha256(text.encode()).hexdigest()[:12]
@@ -178,7 +190,8 @@ def write_output(model_id: str, persona: str, arm: str, sha: str, text: str) -> 
     out = out_path(model_id, persona, arm)
     out.parent.mkdir(parents=True, exist_ok=True)
     if arm == "volume":
-        chapters = "Volume One full text"
+        n, first, last = volume_span()
+        chapters = f"Volume One as bounded at run time: {n} chapters, {first} .. {last}"
     elif arm == "volume-interview":
         chapters = "single-go volume record"
     elif arm == "volume-dag-interview":

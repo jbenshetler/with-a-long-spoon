@@ -824,3 +824,77 @@ gates already on disk.
 
 This does not touch the **cold-read** panel, a different instrument with its own
 roster.
+
+## Persona calibration and roster change (author ruling 2026-09-27)
+
+**Why.** A 21-reader whole-volume run on a split experiment (31 chapters, branch
+`split-vol1-experiment`) tallied "abrupt ending" and "the deception is owed" at
+scale. Two frame defects were found first: `core-volume.md` told every reader the
+volume was fifty chapters (fixed: live `<<N>>`, journals every tenth chapter, header
+prints the span read), and the funnel's T3 asserts the reckoning it then asks about.
+The author then questioned whether the impatience was the readers' or the prompting's,
+and whether any roster reader came for the relationships rather than the heat.
+
+**Design.** `tools/capture_calibrate.py`: chapters 12–18 single-go (one scene, three
+retells, a Pace/Randi chapter, the fitting), jacket + the neutral `ensemble:core`
+`ck-ch010` as memory (a stated deviation: not persona-owned, so the persona is the only
+variable) + raw ch11, gates with the new HEAT/ROMANCE fields, a closing note to a
+friend. Four subscription models × seven personas: revised `romance-graduate` and
+`fsog-refugee` (history and habits, no numeric thresholds; the FSoG reader's dark-romance
+exit added), `consent-sensitive` unchanged, two new drafts (`romantasy-refugee`,
+`relationship-first`), and the two v1 texts as controls. 28 reads, all CONTINUE.
+Report: `calibration/drafts-2026-09-27/REPORT.md`.
+
+**Findings.** Personas do not move scores (every persona within tenths per chapter; the
+opus-4-8/sol lane offset of 1.06 exceeds any persona gap). Every persona treats the
+retells as breathers (NEXT − CAPTURE +0.9 to +1.7 on 13/15/18, ~0 on scenes). The
+complaint *mix* moves: the reckoning demand is a lens effect — `consent-sensitive` 17/32
+items, FSoG 5→9 with the consent history, romance graduate 3 either way,
+`relationship-first` 2. Removing the "third quiet chapter" rule made the romance
+graduate name retells *more* (4→12), not less — the rule had not scripted the complaint.
+`relationship-first` was the harshest and most distinct reader: 19/32 repetition/tic
+items (mother's-voice beat, the shirt on the pillow, over-explaining), highest praise for
+the talk texture, lowest demand for the reveal. `romantasy-refugee`'s scale risk never
+fired (0 "too small") and her distinct value, series patience, cannot show in a window.
+
+**Rulings.** (1) v2 texts replace v1 for `romance-graduate` and `fsog-refugee`; v1 kept in
+`personas/archive/`. (2) `relationship-first` takes the third standing seat. (3)
+`consent-sensitive` moves to on request: free-sample runs and any run touching the reveal
+chapters; never weigh her T3 answers as demand. (4) `romantasy-refugee` is selectable for
+the volume-close calibration only. (5) A persona trigger that fires on the book's design
+(a retell lane, a POV's rose-colored view of a man) is hostility, not reading — personas
+carry history and habits, never verdict templates. (6) Requests to resolve the deception
+before the series end are out of scope by design: logged, never acted on.
+
+
+## `line-editor` persona; `relationship-first` trimmed (author ruling 2026-09-28)
+
+The first full run of `relationship-first` (188 gates, seven models, ch1–27, 2026-09-27)
+read sharp: her gates annotate the prose — a feeling explained a beat after it was given,
+the book narrating its own image, the same hour handed over a third time — and she quotes
+her own persona text back ("the withholding is a shape"). Scores were ordinary (8–10, no
+STOP); the sharpness was in the text. Three sentences of the persona drove it. The author
+found that text catching things within and across chapters that prior full editing passes
+had missed, and ruled:
+
+1. **`line-editor`** — the 2026-09-27 `relationship-first` text, cloned whole
+   (`personas/line-editor.md`; the same text is archived as
+   `personas/archive/relationship-first-v1.md`). A craft instrument, not a tuning
+   target: selectable, never in the default three. Read her gates as line-edit
+   candidates, as the cold-read lane's complaints are read.
+2. **`relationship-first`** loses the two line-editor sentences ("a sentence explaining
+   the feeling the previous sentence already gave you"; "when a book has decided how you
+   should feel about someone before you've decided yourself") and the phrase "that the
+   withholding is a shape and not a stall". She keeps repetition-noticing and "what women
+   talk about when the man isn't in the room". Applied forward from ch28; the 188 gates on
+   disk were read under v1 and record its persona hash. Not re-read.
+
+**Addendum (author ruling 2026-09-28, same day):** `relationship-first` also loses
+"You notice what women talk about when the man isn't in the room." It was the
+subject-keyed sentence left over from the v1 draft's "three women only talk about
+one man", and it is the Bechdel shape whether or not it fires (5 of 188 gates
+echoed it, none scored a scene down for being about Pace). The book is the
+seduction of Vee; the brunches are designed seduction and are not to be steered
+toward other subjects. The persona now says nothing about subject: texture
+(paragraph one) and repetition are what she notices. `line-editor` keeps the
+2026-09-27 text unchanged, sentence included.

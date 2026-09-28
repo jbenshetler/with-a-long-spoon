@@ -1,19 +1,22 @@
-*capture-dag-v2-rich · gate ch027 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~08b46669b5c5 · 2026-09-11*
+*capture-dag-v2-rich · gate ch027 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 525973292e42 · 2026-09-28*
 
-REACTION — Oh, this is so hot and so wrong, and the fact that those two things are now completely braided together is making me frantic.
+REACTION — Oh, this is the chapter where Randi stopped looking like the glamorous architect of a game and started looking like a woman who is falling in love and cannot bear that she is falling second.
 
-Randi kneeling under Vee’s skirt to put shoes on her—Vee unable to see, only feeling the cool hands, the strap tightening, the hand high on her thigh holding her steady—absolutely got me. That is exactly the kind of controlled tending I want: the structure that steadies rather than traps, being handled with attention, her body responding from inside. And Randi wants her so badly. That flicker over Vee’s bare feet, the thumb behind her knee, “He doesn’t stand a chance,” watching Vee in the mirror like her own good work—I felt all of it. Vee joking about standing in Randi’s closet wearing nothing but her shoes was not remotely innocent, darling, and neither was “my very own shoe whore.” She is practically flirting in capital letters while still telling herself they are playing dress-up.
+Her wearing Pace’s undershirt and asking him to feed her got me badly. Especially after the untouched bowl last time. She ate what he made; he noticed and didn’t expose her by noticing aloud. That is the tenderness I keep wanting from him, and it matters that it exists with Randi too—not only with the shiny new girl he is courting. They have a real language, a real bed, drawers she knows by memory, habits built over time. Vee isn’t walking toward a fantasy couple whose relationship is merely a mechanism. She is walking toward something lived-in, and that makes the secret both more seductive and more unforgivable.
 
-But Randi is doing something awful here. Vee arrives ashamed because she hurt Pace, and the person comforting her is Pace’s girlfriend, who slept with him in that same warm house and knows exactly what his silence means. Randi gets to be the all-knowing friend because she possesses the facts Vee is being denied. Then she turns Vee’s apology into another stage-managed entrance: wait a day, wear this, tie that, arrive “sure.” Even Vee’s attempt to repair harm is being directed from behind the curtain.
+And Randi. “She got past me before I could help it.” There you are. Finally. No polished story, no lesson calculated to draw out a confession. She likes Vee’s ridiculousness, her listening, her tiny Tuesdays. She is turned on by her embarrassment, yes, but she is also moved by who Vee is. Then Pace calls Vee the lamp in every room, and Randi goes still because she knows he is gone in exactly the way she is—and perhaps because nobody has just described Randi that way. That hurt. Her “Yeah. She is” felt like love, jealousy, surrender, and grief packed into three words.
 
-“Because Randi had said so” chilled me. That is the danger in its purest form. Randi can make Vee feel better so completely that Vee stops needing her own judgment. And telling her not to go today felt less like wise friendly counsel than Randi moving a piece into the position she wants. Maybe the advice is good; that almost makes it worse. The control works because Randi understands her and often gives her exactly what she needs.
+The heat afterward worked on me, but it also unsettled me. Randi uses her own body to show Pace “what she keeps under there,” bringing Vee into their sex without Vee knowing she is in the room with them. Pace deliberately refuses to say the rest aloud, which is restraint of a kind, but it is nowhere near enough. They are eroticizing their shared knowledge of her behind her back. Vee’s choices with Pace are still hers; Vee’s growing desire for Randi is still hers. But this private third version of her—the one they pass between them—is not something she consented to become.
 
-And that goodbye kiss—Vee no longer bracing, just meeting her—should have been lovely. Part of me found it lovely. But Randi still has not once asked. “It was only what they did” is precisely how an unasked-for boundary crossing becomes normal without ever becoming an explicit choice. Vee is clearly attracted to her; I believe she would say yes. I need Randi to risk hearing the answer instead of quietly manufacturing a custom in which no answer is required.
+And still, God help me, the image of the three of them at that little table got me. Vee in Pace’s sheet, Randi in his shirt, everyone smiling because each already loves the other two in some incomplete, badly hidden way. That is exactly the promise I bought the book for. I want it fiercely. I just need them to tell her before they make that imagined table real. Pace thinking, “I wanted to tell Vee. I could not, not yet,” is no longer patience. It is fear wearing patience’s clothes.
 
-I’m going on because tomorrow at Pace’s door has me by the throat. I want Vee to apologize honestly, without performing a seduction in place of accountability. I want Pace to listen and make room for her. But she is walking toward him in Randi’s shoes, wearing Randi’s scarf, following Randi’s instructions, while neither of them tells her whose girlfriend dressed her. That image is gorgeous, intimate, and horrifying.
+Also: Randi stayed afterward. Twice. She ate, let herself be warmed, and slept on him. That is a turn in their bond, not merely sex. Vee is already changing the relationship she doesn’t know exists.
 
-GATE 27 — broken-in
+GATE 27 — Gone
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: “And the thing Vee had been holding clenched since last night let go of her, all at once — because Randi had said so.”
-WHY: The sensuality between these women is exactly the kind that gets under my skin, but Randi’s tenderness has become frighteningly authoritative. I have to see Vee walk into Pace’s house carrying Randi all over her—and whether either of them finally respects her enough to tell her why.
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Randi finally became emotionally naked, and now I am aching for all three of them while being furious at the secret holding them apart. Pace knows he wants to tell Vee; I need to see whether he finds the courage before their beautiful imagined future becomes one more choice made for her.

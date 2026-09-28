@@ -16,7 +16,7 @@ Cassie looked at her for a long moment. She was very still in the way she got wh
 
 "Okay," Cassie said. "Back up. When did he — how did he even know?"
 
-Vee sat on the edge of her desk. Got up again. "I told him. On the hike, up on the rocks with the cherries. I was tired and just talking, and it came out. The induction, and the dress in the magazine, and the color, and that I couldn't—" She stopped. Waved it away. "I'd already let it go. I was going to wear the black one."
+Vee sat on the edge of her desk. Got up again. "I told him. On the hike. I was tired and just talking, and it came out." She stopped. Waved it away. "I'd already let it go."
 
 "The induction," Cassie said softly. She'd screamed in the hall the day the letter came.
 
@@ -26,7 +26,7 @@ Vee sat on the edge of her desk. Got up again. "I told him. On the hike, up on t
 
 "Out of what?"
 
-"Silk. He bought silk, Cass. He found a bolt of it, this burgundy, not even the same color I described, he went *deeper*, he—" She stopped again, because the image had come back, the two of them caught in the mirror, and she needed a second with it. "He held it up next to my face. To see if it was right for me."
+"Silk. He bought silk, Cass. Not even the color I described, he went *deeper*, he—" She stopped again, because the image had come back, the two of them caught in the mirror, and she needed a second with it. "He held it up next to my face. To see if it was right for me."
 
 Cassie had her knees pulled up to her chest now, the textbook abandoned. She was quiet a second, working it. "He *sews*," she said, like she was setting the fact down somewhere. Then her eyes changed. "Vee. The shirt."
 
@@ -74,17 +74,9 @@ Vee leaned back against the edge of her desk, half sitting.
 
 Vee laughed, quickly. "Anyway. He measured first. To get the fit right."
 
-Cassie let the pivot happen. She was good at that. "Measured how? Like — all over? The whole—"
+Cassie let the pivot happen. She was good at that. "Measured how? Like — all over?"
 
-"Yes."
-
-"The whole—"
-
-"Yes, Cass. The whole dress. All of it."
-
-Cassie absorbed this. "Were you still dressed?"
-
-"He needed me in what I'd wear under it. For the fit, so he could see how the fabric was going to fall." Vee was up again, narrating with her hands. "So the shirt comes off, fine, no big deal, it's basically a swimsuit. I fold it, I put it on the chair, I'm standing there in my bra thinking, okay, I survived, that's the hard part — "
+"All of it." Vee was up again, narrating with her hands. "Shirt off, fine, it's basically a swimsuit. I'm standing there in my bra thinking, okay, I survived, that's the hard part — "
 
 "And then?"
 
@@ -120,17 +112,9 @@ Cassie was quiet. Vee could feel her thinking.
 
 Vee threw a pillow at her.
 
-Cassie caught it, laughing, and hugged it. "I'm serious! The rain — "
+Cassie caught it, laughing, and hugged it. "I'm serious! You took your shirt off in front of him in the *rain*, Vee."
 
-"That was different."
-
-"You knocked on the window, Vee."
-
-"He was standing in the rain."
-
-"You knocked on the window and took your shirt off in front of him!"
-
-"I locked eyes with him." A beat. "And then I let him look."
+"That was different." A beat. "I locked eyes with him." A beat. "And then I let him look."
 
 Cassie stopped laughing. The warmth in her voice had changed its key. "You did."
 
@@ -150,11 +134,11 @@ The room was quiet.
 
 "No," Cassie said. "I think I have it."
 
-Vee pulled her knees up, smaller than she usually sat. "And then he measured. He started at the top and worked down. He was very — he was careful. Close, and then not close. He'd take a measurement and step away and write it down and come back. Over and over." She paused. "It was — I don't know. It was a lot."
+Vee pulled her knees up, smaller than she usually sat. "And then he measured. Close, and then not close. Over and over." She paused. "It was — I don't know. It was a lot."
 
 Cassie's expression said she could imagine.
 
-"And then at the end, the hem," Vee said. "He had to do the hem, and that meant — " She was tracing it without thinking, one hand down her own hip. "He was on his knees. He had been since the side seam, but then the front, and the riser put me up, and he was—" She stopped. Let the geometry say itself.
+"And then the hem," Vee said. She was tracing it without thinking, one hand down her own hip. "He was on his knees for the hem, and the riser put me up, and he was—" She stopped. Let the geometry say itself.
 
 Cassie said nothing, which was the right thing.
 

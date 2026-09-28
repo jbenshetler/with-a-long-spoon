@@ -1,27 +1,26 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~178a1c64010d · 2026-09-10*
+*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · romance-graduate · prompt-sha 64e37969bd33 · prose-sha d47ba6c6da73 · 2026-09-28*
 
-REACTION
+REACTION — Oh, this made me feel wonderful and sick at the same time.
 
-Oh, this is the chapter that would make me fall in love with him, which is deeply inconvenient because I am already furious at him for what he is hiding.
+Cassie asking only, “Was it a good night?” nearly undid me. She does not need the erotic report or the dress or any of the glamorous evidence; she watches Vee because Vee is what she loves. And Vee finally sees that, at least for a second. The chapter putting Cassie and Randi on either side of her—one caring whether she is happy, the other knowing exactly how to make happiness feel brighter—hurt because I know which attention Vee currently finds intoxicating. I understand why. I would too.
 
-The sex was hot, yes, but this—cold tea, his palm simply holding her breast, two people under a quilt explaining the private architecture of themselves—is the intimacy I’ve been waiting for. He listens to the hand underneath the thing. Of course he hears affection beneath the beige casseroles. And Vee listens just as beautifully back. “They took the thing you loved and made it the punishment” stopped me cold because she sees him with the same exactness he has been giving her. She isn’t merely the lucky girl illuminated by the brilliant man anymore. She can reach him. She can name something in him that he has reduced to a factual little sentence and hand it back with its pain restored.
+And Randi with the dress. “He made it *to* you” is so perfectly the sentence Vee needed that I wanted to melt into it, except Randi has the answer key again. She knows Pace’s work, his eye, his whole private language of making. She can name what happened to Vee because she already knows the man who did it, and Vee has no idea how loaded that recognition is. Every time Randi understands her flawlessly, I fall for her and resent her more.
 
-And Peter. *Peter.* Pace is the man he constructed—the momentum, the competence, the person always already going somewhere. Peter is the fifteen-year-old moved into a hallway for being too hungry to learn. Her saying that name at the end felt more naked than half their sex.
+The shoe-shopping silliness was genuinely delicious. The yeti joke, the broken flat, Randi’s real laugh—I believe their friendship. That is what makes this whole thing merciless. Randi is not faking the pleasure she takes in Vee. Vee really is funny with her, freer with her, more socially daring. If this were only strategy, it would be simpler and much less painful.
 
-The math absolutely got me, too. Not because I suddenly care about Newton, but because I care about watching somebody reveal the place where the world is alive to him. “Most people walk around inside the poem and never get to read a line of it” is exactly the kind of thing that can become unbearably pretentious in the wrong mouth, and from him it just hurt. That tiny grief that people think his great love is dry—God. And Vee doesn’t pretend to understand in order to impress him. She watches the stars become bodies because he has shown her how he sees them. That is romance. That is the good stuff.
+Then Randi knelt, took Vee’s foot in both hands, noticed the frosted-plum polish, and ran her thumb over that nail. Excuse me. That “Mm” was filthier than pages of standard sex-scene choreography because she knew exactly what the polish meant. Vee’s hand flying to Randi’s shoulder because the room tipped was her body answering in language she still will not consciously speak. I am starving for the moment she finally admits that wanting Randi is not an eccentric form of friendship.
 
-Then Daphne, and my stomach dropped.
+But the money made my stomach drop. Vee did not buy those shoes because she could afford a rare extravagance. She put them on an emergency credit card while knowing she could not pay it, then converted the expense into something “the dress was owed” so she would not have to own the want—or the class humiliation driving it. And Randi stood beside her casually spending several times as much without noticing anything. Maybe she truly did not notice, which is awful. Maybe she noticed and let Vee do it because the shoes serve the fantasy they are building around her, which is worse. I wanted Randi to buy them for her, and I also know that might have made the power imbalance even more dangerous. There was no clean version once she brought Vee into that boutique and made the sensible shoe sound like self-betrayal.
 
-Nineteen and fifteen. She was assigned to help a profoundly isolated child who had been taken away from home and installed among adults, and it “went on” for two years. Pace’s insistence that nobody did anything wrong is not reassuring; it is the most alarming part. The careful accounting, the defense he doesn’t know is a defense, the way he calls the best thing that had happened to him luck because admitting harm might mean losing the tenderness too—I wanted to reach through the page. Vee holding the ugly word under her tongue was mercy, not denial. She understood that naming it for him in that moment would make him protect the memory from her instead of letting her stay beside him.
+Also: Simpson’s paradox was not subtle, and I did not care. Same numbers, different grouping, opposite conclusion. Vee’s individual choices are real; put them together inside the concealed plan and they may mean something entirely different. I see the knife waiting.
 
-It also changes the emotional weather around his obsession with doors, permission, patience, and letting Vee arrive “on her own.” I don’t think it excuses the plan for one second. If anything, it makes the plan more frightening: he may genuinely believe that wanting something makes the structure around the wanting ethically clean, because that is how he has survived his own story. He felt grown. He loved her. It was the best two years he’d had. Therefore nobody did anything wrong. That belief is sitting under everything he is doing with Vee, and Vee is going to be the one who discovers how badly desire and informed choice can come apart.
+By the end, Vee thinking she has never had a friend like Randi felt almost unbearable. She hasn’t. She has had something more intimate, more desirous, more expertly attentive—and much less honest. This is exactly the combination I came for: I’m warm, turned on, furious, and scared for her.
 
-But she is not just being handled here. She notices the too-flat voice. She notices when the good order is a tell. She offers herself first when she realizes she has put him in a doorway. She recognizes that lifting and sex give him the same complete presence. I love her more after this chapter. She has actual emotional intelligence, not the romance-heroine version where being kind means asking one perfectly therapeutic question. She knows when not to press. And the scar—his hand covering hers without removing it, “Not tonight,” palms meeting over the thing he cannot open yet—that is consent made reciprocal. He leaves her a future door. She accepts the boundary without turning away.
-
-What I’d text at one in the morning: *His name is Peter, Daphne was nineteen when he was fifteen, and I am now emotionally trapped under this quilt with all three of them.*
-
-GATE 25 — Rock
+GATE 25 — Sorority
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me the grown-up intimacy I’ve been starving for without cooling the erotic charge for a second. Peter, Daphne, and the hand held over the scar just made Pace far more vulnerable—and made the secret plan far more psychologically dangerous.
+WHY: Randi touching Vee’s painted toe sent a tiny electrical fire through the whole chapter, while the credit-card purchase made the seduction feel materially dangerous in a new way. I need to know whether Randi sees what Vee just spent to remain inside her world—and what she does with that knowledge.

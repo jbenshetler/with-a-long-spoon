@@ -1,23 +1,24 @@
-*capture-dag-v2-rich · gate ch023 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~8aff12752f2e · 2026-09-11*
+*capture-dag-v2-rich · gate ch023 · gpt-5.5 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 1054321fed62 · 2026-09-27*
 
-REACTION —
+REACTION
 
-Oh, I am in trouble with Randi now.
+Oh, that hurt in the exact place I’ve been waiting for.
 
-Because this chapter is doing the thing where nothing “happens” except a shopping trip, and yet my whole nervous system is leaning forward like somebody just put a hand on the back of my neck. This is exactly the kind of intimacy that gets underestimated because everyone keeps their clothes mostly on. Randi kneeling in the boutique and putting that shoe on Vee? That was not friendship. That was courtship with plausible deniability. That little thumb over the plum toenail was filthier than half the explicit scenes I’ve read this month, because Vee’s body knew before her brain was allowed to know. Her hand going to Randi’s shoulder to steady herself — yes, thank you, there it is. That’s the line lighting up.
+I did not expect to be inside Pace for this, and I liked that immediately because it finally puts pressure on the beautiful machine of him. Up to now he has been all competence from Vee’s angle: warm house, exact hands, the right fabric, the right food, the right waiting. Here we get the waiting from the other side, and it is not smooth. He is still careful, still principled, still maddeningly sincere about “every step,” but he is also a man with two women in motion around him and he cannot see everything he thinks he can see.
 
-And Randi. God. “He made it to you” is such a perfect Randi sentence because it’s generous and exact and also possessive in the strangest sideways way. She understands Pace’s gesture almost too well. She gives Vee the language for her own experience again, and I can feel why Vee keeps turning toward her. Randi makes her feel glamorous without making her feel silly for wanting glamour. That’s a powerful drug for a girl who has spent her life talking herself down into sensible shoes.
+And Randi. God. Randi not eating the bowl. Randi calling the food wonderful like a stranger. Randi pouring her own wine. That landed harder than if she’d thrown the glass. The whole chapter is domestic and quiet and I was tense through all of it because the intimacy has shifted into accusation before anyone says the real accusation. She is jealous, yes, but not in some cheap “other woman” way. She is hungry and scared and maybe furious that Pace gets to be the patient moral center because patience benefits him. “You’ve got her Friday to Sunday” is brutal because it’s true enough to draw blood.
 
-The expensive boutique scene made my stomach hurt in a good-bad way. Vee standing there doing the math silently, trying not to expose the shape of her bank account, and then the logic slowly shifting until the shoes become “what the dress was owed” — oof. I know that feeling. Not the exact shoes, but that moment where desire disguises itself as destiny because otherwise you’d have to admit you’re about to do something reckless. And the book knows it. It lets the purchase feel intoxicating and a little dangerous at the same time. That credit card coming out felt like a tiny moral cliff.
+The small bowl almost made me sit up. Hers is the small one, the one he slices apples into. That is so tender and so controlling at the same time, and this book knows it. Portion. Of course. What she is served, what she refuses, what she takes herself. She won’t eat what he ladled out for her, but she takes the wine, then takes him, fast and shut-eyed and without their usual ritual. That sex scene was not sexy in the lush way the Vee/Pace scene was sexy; it was hot because it was damaged. It felt like someone using the body to say “you don’t get to narrate me tonight.”
 
-Also, the class thing from last chapter is still echoing here: the numbers can be true separately and mean something else together. Randi’s warmth is true. Her taste is true. Her making Vee bigger is true. And also, put it together with what I know from the jacket, and it becomes something else. Nobody touched one of the numbers. Same numbers. Different truth. I hate that I’m watching Vee feel so chosen by someone who is helping arrange the cage.
+And the missing “tell me” broke my heart a little. I don’t even know their full history and I still felt the absence like a handprint. He waits for it, she withholds it, and suddenly I understand they have their own erotic language, their own structure, and Vee has entered something already built. Not just a scheme. A relationship. A real one, with habits and tenderness and rot starting at the edges.
 
-But I did love them laughing in the cheap shoe store. That mattered. The giant shoe, the rhinestone platforms, the busted flat becoming a sandal — that felt like real friendship, real chemistry, two women getting drunk on being funny together in public. It’s almost worse because it isn’t all manipulation. If Randi were only a villain in heels, I could relax. Instead she is alive, and Vee is alive around her, and I absolutely believe Vee has never had a friend like this.
+I am more worried now, not less. Pace’s ethics are real, but they are arranged around his pace. Randi’s hurt is real, but she is still talking about Vee like a destination they’re bringing her to. Nobody in that kitchen is clean. Which is why I’m still here, obviously.
 
-The heat here is stealth heat. Pace is physically absent but everywhere: lover, dress, body memory, the room turning. And Randi is the one dressing Vee for the gaze. That is the part that has me by the throat. Pace made the dress to her, but Randi chooses the shoes that make her able to walk into the world in it. This is becoming a triangle by touch, by permission, by staging, before Vee has any language for wanting both of them. I’m still reading with one hand over the alarm bell, but yes, I’m reading.
-
-GATE 23 — Sorority
+GATE 23 — Portion
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: "She knew that even while she did it — that she did not have the next part, the paying-it-back part, that it would be sitting there next month — and she signed her name and smiled and let none of it reach her face, because the one thing she would not do in this room was flinch."
-WHY: That purchase stressed me out because Vee’s desire is starting to spend money she does not have, which feels like another way this seduction can get its hooks in. But the Randi/Vee charge is so alive now, and the dress/shoes/induction fuse is lit. I’m absolutely continuing.
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: This yanked the hidden relationship into focus without flattening anyone into villain or victim. Randi refusing the stew and then taking sex without the old language was more revealing than any confession could have been, and now I need the next Vee scene with this knowledge burning under it.

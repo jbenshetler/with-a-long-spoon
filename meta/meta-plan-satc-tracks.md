@@ -230,6 +230,8 @@ Vee's two confidantes are sorted by **competence-to-receive** AND by **world**. 
 
 **The dark engine (thesis-compliant):** the credential is real, the relief is real, the intimacy is real — and the channel they open is the one that feeds the wound and the threesome arrangement. The very thing that makes Randi the right confidante (experience, unshockability, fluency, glamour-coded-as-*up*) is what makes her the dangerous one. Vee sorts her own secrets toward the person engineered to use them, for reasons that feel like intimacy. On reread: every time Vee chose Randi over Cassie for the real stuff, she routed her most vulnerable material to the wound's instrument — and built the wall with the friend who'd have kept her safe. This is rule 393 (Vee does harm by being a good friend, unable to see it) rendered as the most natural sorting imaginable.
 
+**The sort widens over the volume (author ruling 2026-09-28).** *What and how Vee tells Cassie versus Randi is the shape of Randi's influence and grooming, the gap growing over time* — from a reframe of the same facts (the dinner) to one secret (the fitting) to the middle (Friday night) to Cassie deducing what Randi is told (November) to silence (December) to Cassie gone (January). The matched pairs are the gauge; keep the early Cassie tellings full so the widening reads. (Working table: `meta-plan-retell-pass.md` §The gauge.)
+
 **Craft consequence:** the same Pace-event told to both confidantes should be SORTED, not duplicated. Cassie gets one register, Randi another (e.g., the fitting: Cassie gets grinding-as-triumph/agency; Randi gets bust-as-mortification/appetite). The matched-pair telling-scenes SHOW the sort. Never have Vee tell both the same way.
 
 -----

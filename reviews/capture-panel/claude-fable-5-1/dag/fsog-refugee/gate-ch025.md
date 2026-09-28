@@ -1,0 +1,30 @@
+*capture-dag-v2-rich · gate ch025 · claude-fable-5-1 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d47ba6c6da73 · 2026-09-28*
+
+REACTION
+
+No Pace in the room this whole chapter and I didn't miss him until the last line, which tells you what Randi did to me in there.
+
+Start with Cassie, because she got me first. Forty seconds of Simpson's paradox and Vee comes up for air and Cassie has never gone down — she's been sitting turned a few degrees, watching what the dress did to her friend, because the friend is the only part of any of this she's ever been able to see. "Was it a good night?" "Oh, yes." And something *eased*. That's my girl. That's the four words I keep hoping for and it wasn't them, but it was the version of them Cassie can afford right now, and she picked her highlighter back up. And then the eyebrow at the shoe date, up and down, and the book telling me she's never once cared what's on anyone's feet. She's clocked it. She's clocked Randi and she doesn't have the word either and she's going to a game.
+
+And then the professor puts the whole book on the board and I actually said "oh" out loud. Same numbers. Nobody touched one of them. Each year on its own, one answer; put them together, the other. Every yes freely given, that was the problem — that's the jacket, and this book just walked up and set it at the foot of a column with a red dot on it while Vee's pen was moving and she was thinking about shoes. I've been ahead of her the whole time and I've never felt it as a *cheat* until that dot. He's telling me straight to my face that the sum is going to read differently from the parts. I know. I know, and I'm still buying the mimosa.
+
+Now Randi. In the dorm, fingers on the seam, "charmeuse," following the bias up to the bare shoulder and *resting* there, and Vee held still under the hand — that's the fitting, redone, with a different hand. And "he didn't make this *for* you, he made it *to* you" — she handed Vee the word for her own tears, again, the way she always does, and it's the true word, and it's Randi's mouth it came out of, and I hate how good she is at it. Then "you lucky slut" landing lower than she meant it to, and the credit going through Vee's body while she's sure the whole room can read the soreness off her — Randi *knows* that bed. She's been in it. "Love nest." She put a plate over Randi's untouched bowl two chapters ago and now she's doing the whole warm-lamp routine over Vee's Friday, and I can't tell anymore which one of them she's punishing.
+
+The shoe store was the happiest I've been with these two. The yeti, the pink rhinestones, the sandal-in-waiting, Randi folded over the bench with the laugh that costs her something — and Vee feeling like the funniest woman in Virginia in her own store. That was hers. That whole bench was Vee's ground and she was *winning*. And then "seven." "That's me exactly." Same feet, same everything, practically a marriage — and she said it as a joke and then she turned back at the end of the aisle and it wasn't one.
+
+And then the boutique, and I went cold. Randi reads the left side of the menu and Vee reads the right; Randi *knows* that, I've watched her know it across three tables. And she walked her into a room with no prices on the blocks and said "I know just the place" and let Vee stand there holding a quiet the exact shape of her account. Then she went down on one knee. On the pale floor, in her own clothes, and patted the bench — that's *him*, that's the pedestal, the kneeling, and she did it on purpose or her body did — and she held the foot and looked at the toes and moved her thumb once across the big one and Vee's floor tipped and her hand shot out to Randi's shoulder to stop the room. And Randi *said nothing.* Looked up and smiled and bent back to the box. That's the thing I can't put down tonight. That silence was either the most careful thing she's done — leaving Vee the door, the way he does — or it was the most exact, because she'd already got what she came for. A thumb. One pass. And Vee's body answered before Vee did, the way it always does, and she's still not thought about the fire lane once, and now she's had it in her foot and she'll file that under the shoe too.
+
+The credit card. Not the debit. The one for the months that run long. "There was nothing under it." She knew and signed and didn't flinch because the one thing she wouldn't do in that room was flinch — and I've done that, I've done exactly that in exactly that hush, and I wanted to reach in and put the debit back in her hand. And beside her Randi rang up a multiple and never looked, mid-story, and wore them out the door. He built the dress so she wouldn't have to buy one. Randi just spent it back out of her in an afternoon. "The shoes were what the dress was owed" — that's the mimosa arithmetic with the rent taken out, and she talked herself into it the same way she talked herself comfortable about Cassie's door, and I heard the rhythm and it scared me more than anything in the sex has.
+
+But then — "you can put it in the trunk, it's not going to *spoil*." And the laugh, and I laughed. And "she had never once in her life had a friend like this," and it's true, that's what's unbearable. She hasn't. And the box against her chest with both arms like it might get up and leave her. The book knows exactly what it's doing to her and it's not winking. It's watching her hold the box.
+
+What I'd text at 1 a.m.: he kneels and asks. She knelt and didn't need to. Which one's the dangerous one.
+
+GATE 25 — Sorority
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "took out the other one, the credit card she kept for emergencies and gas and the months that ran long, and laid that on the counter instead" — not the book I wanted to leave, her.
+WHY: Cassie eased, Simpson's paradox put the jacket on the board, and Randi's thumb crossed the toenail and Vee's hand went to her shoulder and nobody said a word — I'm not setting this down. I need to see whether the shoes get told to him, and whether the toe does, and what it costs her next month.

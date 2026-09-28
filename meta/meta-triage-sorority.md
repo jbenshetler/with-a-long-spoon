@@ -15,7 +15,7 @@ or an edit that re-opens the passage).
 - **":5 Vee'd hung freshman year" (was "she'd")** — the sentence's governing
   subject at that point is Randi; one word keeps the poster in Vee's freshman
   year and lets the closing "she'd brought in with her" snap back to Randi.
-  Same referent pattern as the {{Fed}} and {{All Told}} fixes.
+  Same referent pattern as the {{Fed}} and {{Sorority}} (Friday movement, formerly All Told) fixes.
 
 ## Left standing — do not re-litigate
 
@@ -64,7 +64,7 @@ quoted.
   became "Randi had brought in with her" to preserve the 2026-08-01
   referent fix, which the split would otherwise have broken.
 - **`:7`** — "Randi stepped in, delighted." → "Randi stepped in." (the
-  dialogue is the delight; same ruling as {{All Told}} `:29`/`:57`).
+  dialogue is the delight; same ruling as {{Sorority}} (Friday movement, formerly All Told) `:29`/`:57`).
 - **`:9`** — "the way she'd been seen in his mirror" → "as she'd been seen".
 - **`:15`** — "Vee turned the way she'd turned" → "Vee turned as she'd turned".
 - **`:19`** — the abstract list and the telegraph cut: "The cool press of the
@@ -137,7 +137,7 @@ quoted.
   already doing it, is the sentence's whole subject. Body before mind working,
   not a filter.
 - **`:83` "in her own chest"** — the `in-her-chest` locus tic (13 book-wide,
-  logged at the {{All Told}} review). Reader-praised here by two models as the
+  logged at the {{Sorority}} (Friday movement, formerly All Told) review). Reader-praised here by two models as the
   exact phrasing for what *lover* does to Pace; stands pending the
   end-of-pass count.
 - **`:61` "Something delighted broke over Randi's whole face"** — an instance

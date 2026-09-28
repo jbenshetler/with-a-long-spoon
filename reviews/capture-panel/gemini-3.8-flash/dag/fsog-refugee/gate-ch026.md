@@ -1,28 +1,29 @@
-*capture-dag-v2-rich · gate ch026 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha d1b699df4c26 · 2026-09-19*
+*capture-dag-v2-rich · gate ch026 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8aff12752f2e · 2026-09-27*
 
-REACTION:
+REACTION
 
-Oh, god. My stomach is in knots. Actual knots.
+Oh, this chapter made my stomach plummet into my shoes. Literally.
 
-First of all: the lesson on the concrete pad behind the dark gym. Him bringing out that taped-up, beat-up old boom box, teaching her the three-step under the field lights, the absolute gravity and patience of how he teaches—it was so impossibly tender. And the *frame*. The way he told her she had to give him something to push against, that being jelly doesn’t work, that she had to close the distance to not get stepped on... it was so intensely sensual and psychologically exact. "Don't think. Just feel the lead." That is their entire dynamic distilled into a dance floor. I was melting.
+I was laughing out loud at the first shoe store—the big discount warehouse off the bypass, the yetis, the platform bedazzled pink monstrosity, the floppy sole about to become a sandal. The camaraderie between Vee and Randi felt so warm, so completely genuine and silly. For a second, I almost forgot what Randi was doing. I forgot the campaign. I forgot the sinister underbelly of it all and just thought, *God, every girl needs an afternoon like this.*
 
-And then they get to the Rusty Nail, and the sheer *drop* in my chest when all those girls swarmed him. I felt Vee’s insecurity flare up in real-time. Of course her mother's vile voice started whispering *floozie* the second she felt exposed. Of course she took that nasty, jealous little barb from the blonde at the bar and let it poison the well. She was terrified that the magic she’d felt in his arms was just an assembly line—that she was just the latest stray he was gentling and putting back together. It was such an ugly, defensive, painfully young reaction: snapping at him, calling it a "service," throwing all his decency back in his teeth.
+And then Randi drops to one knee.
 
-And Pace's face just going flat and still. He didn't chase her. He didn't make a scene. He just set down his beer and walked out into the cold because she told him to leave her alone, and he respected it even when it was cruel. God, that hurt.
+On the pale floor of that whisper-quiet boutique. She takes Vee’s bare foot into her hands—the frosted plum toenails she *knows* Vee painted for Pace—and she strokes Vee’s big toe with her thumb. Just once. *“Mm.”* That’s all she said! And Vee’s whole world tipped so hard she had to grab Randi’s shoulder to keep from falling out of her seat. The sexual tension between these two women is officially terrifying. It’s not just a game Randi is playing for Pace anymore; Randi is actively courting her, stroking her, claiming her, inch by inch, and Vee is too dazzled to see the hook in the bait.
 
-The bartender giving her the reality check was brutal: *"Wasn't him they were jealous of, honey."* The absolute wave of mortification that must have hit her! Sitting in that smelly cab, paying money she doesn't have, putting on his clean flannel that doesn't even smell like him anymore, lying in the dark three feet from Cassie and choking on her own shame.
+And then the register. My chest went absolutely tight. Watching Vee put the debit card away and pull out the emergency credit card—the card with *nothing behind it*—to buy four-hundred-dollar shoes she cannot afford, just so she won’t look poor in front of Randi, just so she can live up to this fantasy woman Pace’s dress turned her into. It made me feel sick. That is the exact trap of having a wealthy friend when you’re scraping by. Randi buys a pair of loafers that cost three times as much without even looking at the screen, and Vee is signing away her groceries for the next three months just to match the altitude.
 
-And then the final line: *go to Randi's.*
+"Baby. A dress your *lover* made you?"
+"He didn't make this *for* you. He made it *to* you."
 
-NO. NO, VEE, DO NOT GO TO RANDI.
-
-I literally put my hand over my mouth. Vee thinks she's running to her glamorous, wise big sister to help her fix a fight with her boyfriend. Meanwhile, WE just saw Randi riding Pace in that warm house two chapters ago! Randi is half in love with Vee herself, Randi is plotting every move, Randi is sleeping with him! Walking into Randi's apartment to cry about a fight with Pace is like walking right into the mouth of the wolf. Randi is going to feast on this. She is going to manipulate this fracture so masterfully, and Vee has no idea she's stepping onto a landmine. I need the next chapter immediately.
+Randi is giving her the language. Pace is giving her the silk. And Vee is going thousands of dollars into debt and handing over every single defense she has because she thinks she’s finally being seen. It's exhilarating and it's heartbreaking. That final sentence—*she had never once in her life had a friend like this*—felt like a knife twisting straight into my ribs. The drop from this height is going to destroy her.
 
 ***
 
-GATE 26 — Lesson
+GATE 26 — Sorority
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension is excruciating—Vee is heading straight into Randi's clutches to "fix" her fight with Pace, entirely unaware that the two of them are lovers running a game on her. The dance lesson was breathtakingly intimate, Vee's insecure self-sabotage felt agonizingly real, and I am desperate to see how Randi exploits this crack.
+WHY: The tension is incredible. Watching Randi drop to one knee, take Vee's bare foot, and stroke that frosted-plum toe gave me total full-body chills. But seeing Vee slide her emergency credit card across the counter to keep up with Randi's world genuinely hurt my heart—the psychological squeeze is getting so tight I can barely breathe.

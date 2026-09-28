@@ -1,28 +1,30 @@
-*capture-dag-v2-rich · gate ch027 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 08b46669b5c5 · 2026-09-19*
+*capture-dag-v2-rich · gate ch027 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 719f6182adbd · 2026-09-27*
 
-REACTION:
+REACTION
 
-I am screaming into my pillow. *Screaming.*
+Holy shit.
 
-First of all: Brooke at the door saying, *"Oh — you're the stats friend."* The absolute ice water down my spine! Vee has no idea that the entire sorority house, or at least the inner circle, has a file on her. She walks into that white-columned museum completely blind, thinking she's just visiting her glamorous bestie, while Brooke is clocking her like a marked mark.
+My stomach is literally in knots. I’m sitting here with my hand over my mouth, the exact way Vee stood in front of that mirror, except I am *sick* with how good and how terrifying this is.
 
-And then the absolute psychological sorcery of Randi in this chapter. God, she is terrifying! She takes Vee’s raw, sick shame—that horrible, churning hangover from having snapped at Pace and acted like a jealous fool—and she completely reframes it. *"That’s not the disaster, honey. That’s the only thing that matters, and you handed it to him for free."* It is so brilliant and so toxic because it’s *half-true*. Vee was jealous because she cares, but Randi isn't comforting her out of pure sisterhood; she is manicuring Vee like a weapon to aim right back at Pace’s front door. Delaying her by a day? *"Today you show up having decided it in a panic... Tomorrow night... you go in there sure."* She is literally directing the scene!
+Look at what they’re doing. They are sitting in his warm kitchen, eating chicken and couscous in their post-coital daze, trading notes on her like she’s a prize filly they’re both falling desperately in love with. Randi wearing his white undershirt, talking about Vee doing the bigfoot stomp in the shoe store, admitting—out loud—*“That was kind of hot.”* And Pace at the stove, talking about how Vee walks into a room like someone turned on a lamp, seeing right through the cardigan to the shame her mother gave her, saying *“I like taking my time with her.”*
 
-And that fitting on the floor. Holy *shit*.
+They aren’t just plotting a conquest anymore. The trap has snapped shut on the trappers. Randi thought she was running an operation, thought she’d get bored like she always gets bored, and instead Vee has completely dismantled her. Randi is *starving* for her. Dragging her bare breasts across Pace’s chest by the sink, using her own body to act out what Vee looks like under that dress, her voice going hoarse: *“What she keeps under there. It’s criminal, Pace.”* And Pace feeling it, letting Randi ride him while both of their heads are completely drowned in thoughts of Vee. They are having sex with each other *through* their obsession with her.
 
-When Randi reached up under the long skirt to steady her thigh? The thumb pressing into the hollow behind Vee's knee? The fact that Vee is standing there in her bra, half-naked, having her feet and legs handled while Randi talks about her being her *"shoe whore"* and needing a scarf for room inspection? The erotic tension between them is boiling over. And Vee is so dazzled by the glamour and the feeling of being *tended to*—that exact phrase, wanting to be tended to without having to watch or steer—that she doesn't even realize she's submitting to Randi just as deeply as she submits to Pace.
+It is so dark, so intensely erotic, and it breaks my fucking heart. Because while they are here, tangled up in Sade and white undershirts and shared possession, Vee is in her dorm clutching a shoe box to her chest, putting a pair of four-hundred-dollar heels on a credit card she can’t afford, genuinely believing she has found the first real female friend of her life and a lover who worships the ground she walks on.
 
-And then the kiss in the foyer. *"She hadn't braced. Hadn't tensed. Her mouth had just met Randi's. It was only what they did."*
+She thinks she’s being loved. And the sickest part is—they *do* love her! That’s the psychological kill shot of this book. If they were just cruel bullies, it would be easy to hate them and check out. But Pace genuinely reveres her. He’s taking his time so she won’t be hurt, so she can choose every step. And Randi is genuinely charmed, laughing until she folds over in a shoe aisle, eating dinner at his table for the first time because she’s so wrecked by Vee’s warmth. They are genuinely in awe of her.
 
-It's "only what they do" now?! Vee, open your eyes! You are kissing another woman on the mouth in the entryway of a sorority house and you don't even flinch because she has completely rewired your baseline!
+And they are still going to ruin her life.
 
-Randi is literally dressing Vee in her own clothes, her own shoes, her own silk scarf, kissing her on the mouth, and sending her off to Pace's bed—Pace, who was just in *Randi's* bed two chapters ago talking about how Vee lights up a room. The sheer density of the web around this poor girl is suffocating. I cannot look away. I need tomorrow night at Pace's house immediately.
+When Vee finds out that the two people holding her heart have been sleeping together this entire time, talking about her between rounds, orchestrating her shoes, her dress, her surrender... god, the fallout is going to level the entire county. I cannot look away. I need to be in that room when the door blows off.
 
 ***
 
-GATE 27 — broken-in
+GATE 27 — Gone
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The manipulation is at an absolute fever pitch—Randi reaching up under Vee's skirt to steady her thigh while dressing her in her own expensive shoes and silk scarf, sending her off like an emissary to Pace. The kiss at the door becoming "just what they do" gave me full-body chills; I need to see her arrive at his house.
+WHY: The tension is excruciating. Watching Pace and Randi unravel over their mutual obsession with Vee—using each other's bodies to process their hunger for her—is brilliant, suffocating, and terrifyingly hot. I have to see how Vee survives this.

@@ -1,44 +1,34 @@
 # Cold read (grounded) — Gone
 
-*scene: scenes/gone.md · model: gpt-5.5 · memory: ck-ch020 + raw ch021..ch023 · reader-protocol: v3-grounded-checkpoint · prose-sha ~a10661074dee*
+*scene: scenes/gone.md · model: gpt-5.5 · memory: ck-ch020 + raw ch021..ch026 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-I came into this chapter still warm from Vee and Randi’s shoe day, and the first turn hit like a cold-open into the secret room I always know is there but Vee does not. The title, “Gone,” felt immediate: Vee is gone over Pace, yes, but Randi is also gone farther than she planned. The chapter makes that plain before anyone names it. “She got past me before I could help it” is the line that moved the ground.
+I came into this chapter braced after “Portion,” because Randi’s last night with Pace had felt sharp and shut down, a taking rather than a meeting. Here, the first relief is bodily: she stays down. She asks for food. She wears his shirt. Those are small things, but they landed on me as huge, because Randi’s usual control has been so exact. The sight of her tucked inside his undershirt, knees drawn up, blue toes showing, felt more intimate than the sex at the start. I felt my guard lower with Pace there, too, because he notices everything and still does not pounce on it. He feeds her without making a triumph of it.
 
-Randi is the one who shifts most for me here. I already knew she was steering Vee, and that unease is still there, maybe sharper because she is literally in Pace’s bed reporting on Vee. But the warmth is not fake. That’s what makes it ache. Her telling the shoe-store story is so fond, so bodily pleased by Vee’s embarrassment and silliness, that I can’t reduce her to manipulation. “She was *so* embarrassed. That was kind of hot.” That lands as desire before strategy. And when she says, “I didn’t think I’d like her this much,” I believe her. I don’t trust what she is doing, but I believe what she feels.
+Randi moved me most in this one. Not because I suddenly trust her completely, but because the chapter lets me feel the realness under what she is doing. “I didn’t think I’d like her this much” is the first clean admission from her about Vee that doesn’t feel like performance or strategy. The way she laughs about the shoe store, the “full bigfoot,” and then admits Vee’s embarrassment was “kind of hot” has such a dangerous sweetness in it. She wants Vee; she likes Vee; she is also still talking about Vee with Pace in a bed and kitchen Vee does not know she shares. That double feeling is the whole ache of the chapter for me.
 
-Pace stays intensely dangerous in the way he has been dangerous all along: not because he feels cold, but because his tenderness is so exact while the secret is so large. His line, “I want her to get there on her own,” would be beautiful if Vee knew the situation she was “getting” through. Because she doesn’t, it has a double edge. I do still feel the swoon in him describing Vee: “She comes in and the whole thing goes brighter. Like somebody found the lamp.” That is gorgeous, and it feels true to the Vee I’ve been reading. But it is also said to Randi, in bed, as part of their shared possession of knowledge about Vee. So I melt and tense at the same time.
+Pace is warm here, and frustratingly easy to believe in. His care for Vee when he says she is ashamed, and that someone taught her to be, feels precise and kind. His description of her coming into a room — “Like somebody found the lamp” — absolutely got me. That is the swoon of the chapter, maybe more than the sex: he sees Vee’s aliveness so clearly, and he sees the tragedy that she does not. But it also pricks, because he is saying this to Randi, inside the secret. The tenderness is real; the secrecy is real. I can’t make one cancel the other.
 
-The erotic charge works for me because it is not just sex after sex; it is Randi becoming unable to keep Vee out of her body. The hottest part is not even the riding at the end, though that is clear and physical. It’s Randi dragging her breasts across Pace’s chest while talking about what Vee “keeps under there.” That feels like the desire rerouting through Pace because Randi can’t yet touch it directly. The scene peaks for me there: Randi wanting Vee aloud, Pace wanting Randi’s wanting, Vee absent and somehow filling the room.
+The erotic charge works best when desire for Vee moves between them like heat passed hand to hand. Randi saying, “God. What she keeps under there,” then using her own naked body to show Pace what she means, is very hot and very uneasy. It is not just Pace and Randi wanting each other; it is Randi wanting Vee through Pace, with Pace receiving that wanting and deliberately not taking what is not his to name. The second sex scene feels much warmer than the one in “Portion” because Randi is slower, present, setting the pace instead of trying to outrun herself. Her sleeping on him at the end felt like a quiet little surrender.
 
-My suspicion is fully earned by the setup, not by some abstract worry. Randi and Pace are discussing Vee’s readiness, shame, body, and progress while she is nowhere present and knows none of their connection. The tenderness is real, but the consent problem is glowing underneath it. “She’ll get there. You’ll want to take your time” sounds caring and managerial at once. That is the unease.
+My suspicion is not about whether Randi likes Vee anymore. The page earns the opposite: she likes her too much for the old game to stay neat. My suspicion is about what that liking will do when Vee finally has to understand the shape she is inside. Randi’s “She’s not ready” being returned in Pace’s own words felt like her coming around, yes, but also like the two of them still speaking over Vee’s life while Vee is elsewhere, innocent and glowing. The title, “Gone,” lands in several directions: Vee is gone over Pace, Randi is more gone over Vee than she meant to be, and maybe the old colder version of the plan is gone too. Or maybe the warning is that somebody is already past recall.
 
-I had almost no friction with the chapter. It is short and does exactly enough. If anything, I wanted one more beat after the sex began, but I also understand the choice to leave it as a closing swell instead of making the sex the whole point. The chapter’s point is the conversation turning into arousal.
+The book title on the cover board, **WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION**, keeps feeling less polite the deeper I get. “A Polite Invitation” promises manners, courtship, chosen entry, all those “may I” gestures — but the long spoon keeps making me think of dining with danger at a careful distance. The chapter title didn’t give away a plot event, but it colored the whole thing: not disappearance, exactly, but being emotionally carried off. What I want next is Vee in the dress, yes, but I also dread it now, because the more loved she feels, the more devastating the concealed triangle becomes. My guess from here is that Randi’s feelings are going to become the thing that breaks the plan open.
 
-The book title, *A Polite Invitation*, feels crueler now. The invitation is so “polite” because everyone keeps leaving room, asking, waiting, letting Vee choose; but behind that politeness is this private room where two people compare notes on how far she has come. The series title *With a Long Spoon* keeps suggesting distance from something tempting and dangerous. And the packet’s closing tagline, “Every yes was freely given. That was the problem,” feels more exact after this chapter than ever. Vee’s yes may be real; the problem is the room around it.
+**Cast present (in person):** Randi, Pace.  
+Mentioned-only: Vee.
 
-What I want next is Vee in the induction dress, because the dress has gathered so much force that I need to see the room stop. What I dread is that every triumph for her is also becoming material for Randi and Pace’s private intimacy. My guess from here: Randi is going to have a harder and harder time pretending this is Pace’s game with Vee rather than her own hunger.
+**Heat:** 2 — sustained, intimate charge, hottest when Randi’s desire for Vee moves through her body with Pace.
 
-**Cast Present (In Person):**  
-Randi, Pace.  
-Mentioned only: Vee.
+**Romance:** 2 — real tenderness in food, staying down, shared seeing of Vee, and Randi sleeping under the blanket.
 
-**Heat:** 3 — explicit sex frames the chapter, and the emotional center is sexual desire redirected through talk about Vee.
+**Motifs & images:** Food/fed repeats strongly: Randi finally asks for food and eats most of a plate, answering the uneaten bowl in “Portion.” Clothing repeats: Pace’s white undershirt echoes his flannel and the way garments carry intimacy. Blue toes repeat Randi’s composed surface. The lamp/light image returns through Pace’s “somebody found the lamp,” tying Vee to brightness and being seen.
 
-**Romance:** 2 — real tenderness and fondness, especially Randi’s softness after sex and Pace’s luminous description of Vee, but the secrecy keeps it from feeling cleanly romantic.
+**Symbolism:** The white undershirt feels like Randi stepping into domestic intimacy without announcing it. The eaten plate feels like a partial thaw after the untouched stew. The shirt left on the kitchen floor marks something shed and not immediately tidied away.
 
-**Motifs & Images:**  
-Repeat: warmth of Pace’s house; Randi’s looseness after sex; blue toes; being looked at; Vee brightening rooms; clothing/cardigan as hiding; music/playlist as atmosphere. First/strong instance: Randi narrating Vee’s silliness as erotic evidence.
+**Characterization:** Randi deepens most: hungry, jealous, amused, touched, and more honestly attached to Vee than she expected. Pace stays consistent: attentive, patient, exact, but still compromised by secrecy. Vee, though absent, feels vivid through both of them rather than flattened.
 
-**Symbolism:**  
-The cardigan stands for Vee’s shame and self-concealment. The lamp image makes Vee’s aliveness visible as something she cannot yet see in herself.
+**Pace — within the chapter:** Smooth and earned; the domestic middle gives the erotic return weight.
 
-**Characterization:**  
-Randi deepens most: manipulative, yes, but genuinely caught. Pace remains consistent: patient, perceptive, tender, and compromised. Vee, though absent, is vivid through their desire for her.
-
-**Pace — Within The Chapter:**  
-Tight and effective. It moves from afterglow to confession to erotic ignition without dragging.
-
-**Pace — Chapter To Chapter:**  
-Building. After Vee and Randi’s shopping intimacy, this chapter reveals the hidden echo chamber underneath it, making the momentum darker and more charged.
+**Pace — chapter to chapter:** Building again after the tension of “Portion”; this feels like a turn in Randi, not a repeat.
