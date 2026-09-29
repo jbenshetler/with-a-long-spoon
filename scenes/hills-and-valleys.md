@@ -36,10 +36,16 @@ Sheri laughed, pleased, and let it go.
 
 "What happened to the pale sorority chick?"
 
-"Randi. That's not finished."
+"Randi. She was here last night."
 
-"Huh." She filed it somewhere. The road went by.
+"Huh." The road went by. "She know about the redhead?"
 
-"Two of them at once." She shook her head, not at him, just running the arithmetic anybody could run. "If that's not already complicated, it will be."
+"She knows. She likes her."
+
+"And the redhead?"
+
+"Not yet."
+
+Sheri laughed, the real one, and it went off down the road ahead of them. "Two of them at once. How do you sleep?" She shook her head, not at him, just running the arithmetic anybody could run. "That must be better than your dreams." A few cranks. "If that's not already complicated, it will be. But I bet it's worth it."
 
 He didn't answer. Sheri wasn't waiting for one; she'd said her piece and was already looking down the road. He caught her up, and they rode on side by side, the cold going out of the morning, and that was the whole of it.
