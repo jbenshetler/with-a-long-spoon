@@ -4,6 +4,8 @@ Pace woke on his back with his tongue stuck to the roof of his mouth and an ache
 
 The smell of bleach had reached the bedroom.
 
+Randi's cashmere blanket, the one for the chill that took her after, had slid off the foot of the bed in the night. He folded it and put it back where it lived.
+
 He put his feet on the floor. The house tipped once and settled. When he stood, a pulse started behind his eyes, hard and regular. His stomach drew tight on nothing.
 
 The mop and bucket were where he had left them in the hall, outside the bathroom. A crust of white foam clung above the waterline. He stepped around them and shut the door.
@@ -29,6 +31,8 @@ He cut a piece of chicken and ate it. It went down because he told it to.
 There had been nights when he waited on the covered stoop for Vee. Her car would nose into the narrow drive, gravel ticking under the tires, her attention on the turn and the concrete pad and the unfamiliar edges of the house. Then she would find him. Her face would light into the smile she gave only him.
 
 He missed watching her arrive. He missed the moment she looked up from the turn and found him waiting.
+
+The last time, he had stood on the same stoop and watched the other end of it: her taillights going down through the cut and onto the road, and himself in the open door behind them, not moving.
 
 Once she was inside, the hours passed through the house in their ordinary order. At night she would get out of bed and walk barefoot toward the bathroom, wearing one of his shirts or nothing, her backside easy and unguarded, no performance in it. In the morning he would rise first and leave her sleeping in the middle of his bed, red hair over the white cotton, her face emptied of every question. Later she would come to the kitchen and sit at this table, and he would set something before her and watch the first bite reach her.
 
@@ -70,7 +74,7 @@ Then Vee came.
 
 He knew he loved her. He had known what she offered him on the porch and wanted to answer it. He had believed keeping it unspoken would limit the hurt if she left.
 
-He had hurt her because he was afraid of how much she could hurt him. He had believed that not saying it would make this hurt less.
+He had hurt her because he was afraid of how much she could hurt him.
 
 *Whiskey River* was a liar.
 
