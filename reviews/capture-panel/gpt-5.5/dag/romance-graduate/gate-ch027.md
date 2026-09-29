@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch027 · gpt-5.5 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 525973292e42 · 2026-09-28*
+*capture-dag-v2-rich · gate ch027 · gpt-5.5 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 2651a74cea0e · 2026-09-29*
 
-REACTION — Oh, this chapter got me in a different place than the last few. Not the fireworks place exactly, though it’s still charged as hell. More like the behind-the-curtain ache. Finally, Randi and Pace alone together after Vee has become real enough between them that neither of them can keep pretending she’s just the delicious project.
+REACTION — Oh, this one got under my ribs.
 
-Randi eating. Randi wearing his shirt. Randi asking if there’s food in the house. That did something to me. After the last Pace/Randi scene where she wouldn’t touch the stew and used sex like a blade, this felt like thawing. Not fixed, not simple, but changed. She is letting herself need something in his house again, and that matters. I hate how much I care about that woman being fed.
+Not in the loud way, not in the dress-slut-shoes way, not in the “I need to text somebody a screenshot of this paragraph” way. This was the chapter where the book finally put Pace down on the table as a person and not just an erotic delivery system with terrifying tailoring skills, and I felt my guard change shape. Not drop. Change. Because yes, he is still building the rooms. Yes, the whole Randi/Pace/Vee structure is still dishonest in a way that makes my stomach keep one hand on the banister. But this chapter made me feel the boy inside the man, and unfortunately I am not made of stone.
 
-And the way she talks about Vee. God. She’s trying to keep the tone light — the shoe story, the embarrassment, “that was kind of hot” — but then it slips out: “She got past me before I could help it.” There it is. There’s the bruise. Randi didn’t mean to fall for her own mark, basically, and now Vee is in the room even when she isn’t in the room. Maybe especially then.
+The food conversation was so intimate to me. Not sexy in the obvious way, but sexy because he listens to the first hand underneath a thing. She jokes about beige casseroles and unopened saffron, and he hears affection. That is the sort of attention that would ruin me faster than abs. And Vee noticing that telling him things becomes pleasurable because he receives them correctly — yes. That is exactly the drug here. Not just being desired. Being accurately held.
 
-Pace is still terrifyingly attractive to me in the exact way that is not good for my peace. Cooking shirtless-adjacent late-night chicken and couscous, noticing what Randi eats but not saying it, hearing her come around to “on her own” without making her kneel for it emotionally. And then his description of Vee lighting up a room — that got me. Because it isn’t just that he wants her body. He sees the thing she has been punished into hiding. He knows the shame has an origin. He is not confused about what he’s doing.
+And then Peter. God. The name landing like that. I loved that she didn’t push his mother open when he took her out of the answer. Vee has grown so much in these chapters; she’s not just reacting to being wanted anymore, she’s learning how to be careful with someone else. That little “Peter” at the end felt earned and private and almost more intimate than sex. A chosen name, but not the glamorous one. The plain one. The one with childhood still stuck to it.
 
-But the chapter also made the whole arrangement feel more dangerous, because now Randi and Pace are bonding over loving Vee. Not scheming in a cold villain way. Worse. Tenderly. Sexually. With awe. Vee is becoming the center of gravity in a house she does not know she is already inside.
+The Daphne thing made me physically still. Fifteen and nineteen, assigned tutor, two years. I could feel Vee doing the same thing I was doing: holding the word back because Pace is handing her his own memory and he is still protecting it. That was so sad and so smartly handled. It didn’t turn into a speech. It just let the arithmetic sit there being awful. And it reframes some of him without excusing everything. The precision, the waiting, the way he needs every yes to be chosen cleanly — I can see the wound under it now. Which is dangerous, because wounded men in romance are often just decorative trauma in a leather jacket, but this felt quieter and worse than that.
 
-The erotic charge here was weirdly less about the sex itself than about Randi becoming unable to keep Vee out of her body. “God. What she keeps under there.” Ma’am. MA’AM. That is not friendship. That is not even friendly flirtation. That is wanting so hard you have to borrow your boyfriend’s body to say it. And Pace not taking up “the rest of what she’d set down” felt important. He knows she’s exposed. He lets the exposure belong to her.
+The math passage should have lost me, honestly. I have DNF’d books for less “let me explain beauty to you through my special subject.” But this worked because Vee was watching him as much as listening, and because the chapter understood that the erotic thing was not the facts, it was him turning the world toward her. The stars becoming less like decoration because he knows how to read them — that is romance. That is a man giving a woman access to his interior life instead of just his damage.
 
-I’m very hooked, but also bracing. The title “Gone” is sneaky. Vee is gone over Pace, yes. Randi is gone over Vee. Pace may be gone in the way a careful man can still be gone while telling himself he’s being patient. And the scariest part is that all three of them are becoming more honest emotionally while the central lie remains untouched. That is exactly the kind of thing that makes the eventual reveal feel less survivable, not more.
+And the scar. Finally, the scar. The restraint there was perfect and annoying in the exact right way. “Not tonight” while keeping her hand on it? That is filthy emotional control. Not a slammed door, not a teaser box, but a boundary with contact still inside it. I wanted the answer and also respected the hell out of him not giving it yet.
 
-GATE 27 — Gone
+The only reason I am uneasy is the ending. Vee thinking she “stumbled into” Randi and Pace by luck made my whole body go cold. Because she didn’t. She did not stumble into this. Or not all of it. The chapter is so tender that the lie underneath got louder, not quieter. She is lying there thinking the universe handed her two miracles, and I know one of those miracles has a meeting room behind it. That hurts. That is the problem. Every yes was freely given, and now every yes has more soul in it.
+
+GATE 27 — Rock
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This wasn’t the chapter that made me gasp; it was the chapter that made the triangle real in the room without Vee present, and that is richer and scarier. Randi being fed, Pace naming Vee’s shame, and Randi wanting Vee through him all pulled me hard toward the next door.
+WHY: This was a quieter chapter and somehow one of the most intimate so far. Pace became Peter here, Vee became someone who can hold another person carefully, and the tenderness made the secret arrangement feel even more dangerous. I want the next chapter badly because I can feel the book tightening the emotional screws now.
