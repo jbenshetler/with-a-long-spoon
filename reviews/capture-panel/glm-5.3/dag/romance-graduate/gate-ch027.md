@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch027 · glm-5.3 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 719f6182adbd · 2026-09-27*
+*capture-dag-v2-rich · gate ch027 · glm-5.3 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 2651a74cea0e · 2026-09-29*
 
-REACTION — God, this chapter. I put the book down twice, not because I wanted to stop — because I wanted to hold the moment before it passed.
+**REACTION**
 
-This is the chapter I've been waiting twenty-six chapters for, and it's not Vee's. It's Randi, finally, at the point of no return, and the book gave it to me in the *kitchen*, over chicken and asparagus, wearing his undershirt with her chin on her knees. The two best scenes I've ever read in this genre were both in kitchens now.
+I had to put the book down.
 
-The bowl. I noticed it the second she picked up the fork. Last chapter, the one line drawn through the sauce and the whole bowl untouched — that was Randi after the "how long, Pace?" fight, starving herself at his table on principle. And now, after she says Vee's name into his chest unprompted — "I didn't think I'd like her this much" — she *eats*. Everything. "The couscous to a line he could have drawn with a ruler." He notices, and he doesn't say so, and I had to put the book down right there. Something unclenched in her, and the dinner was the evidence, and nobody said a word about it. That's the interiority I'm starving for — emotion done in objects, not announced.
+Not because it was bad — because it was the chapter the whole book has been promising me and I didn't expect it to arrive in a quilt by a fire with cold tea. I've been carrying "Daphne" around in my notes like a loose tooth since the one dropped line, and I'd braced for a reveal. What I got was worse and better: he just *hands it to her*. "She was nineteen. It went on two years." And the horror isn't in the telling — it's that he doesn't know what he told. He built the case for her leaving like a man filing a report, every reason in its slot, and Vee watching the good order be the tell — I've read a hundred trauma reveals and none of them did this, where the victim does the defending and the twenty-one-year-old across the couch has to hold the word under her tongue because it isn't hers to say. "You were so young" getting past her and the rest staying behind her teeth. That's the realest thing this book has done.
 
-And then the falling. "She got past me before I could help it." Randi, the operator, the one holding the ledger, the thumb on the water glass — gone. Talking about Vee's embarrassment going "kind of hot," telling him the bigfoot story with her face going down on her knees, "It's a little pathetic. I love it." That's not a handler anymore. That's a woman talking about the girl she wants and using the mission as cover, and Pace is sitting there knowing, and I'm knowing, and it's *delicious*.
+And then the thunk of the *rest* of it, the thing the book did to me and not to her: Daphne was nineteen when the arrangement started. Randi is — what, mid-twenties running a game with a twenty-two-year-old man. The structure rhymes. The tutor who was assigned to the boy. Somebody older, somebody helpful, somebody who knew the layout of the rooms. I don't know what to do with that rhyme yet, but I don't think I'm inventing it either. The scar — "more of it than she'd known" — and him pressing her hand *down onto it and holding it there* while saying not tonight. That's the most intimate thing in a book that's had sex in every chapter, and it's a hand on a thigh.
 
-But the beat that got me — the one I'll be rereading — is the stillness. He does his speech about what Vee does to a room ("like somebody found the lamp"), and behind him the chair makes no sound, and Randi has gone still "the kind that takes holding," and all she can produce is "Yeah. She is." And then she has to get up and come at him because she can't sit inside it. And when she touches him: "So soon?" — meaning *he's already half-hard from talking about Vee*, and she noticed, and instead of cracking, she makes it the hottest thing in the chapter, dragging herself down him describing what's under Vee's cardigan. She's channeling it. She can't have Vee, so she has Vee's effect on him, through him. "Criminal, Pace. But you already know." I was fanning myself and grieving her at the same time.
+Also, selfishly: the hallway. Trig worksheets in the hall for a year. "They took the thing you loved and made it the punishment" — and her not saying sorry, pressing her shoulder into his arm instead, because sorry would ask him to accept comfort he hadn't offered. That's the grown-up emotional intelligence I keep saying I'm starving for. And the math — the paint and the coastline and Newton's three sentences — I believed him. "Most people walk around inside the poem and never get to read a line of it." I read that twice.
 
-The two-towels math I kept doing for her? She put on his undershirt tonight. Opened the drawer "without looking for it." She's stopped keeping her absence itemized. She's moving in, in her body, while her head still runs the plan, and the gap between those two things is where this whole book is going to break.
+And it ends on her lying awake doing gratitude arithmetic. "She had never been so fortunate, or so happy." With the pointing game still coiled under it. The book keeps giving her the happiest nights of her life on top of the lie, and every banked one is going to be an exhibit later. The dramatic irony is almost cruel now — *he* almost told her at the end of 26 and couldn't. This chapter is the closest he's come to being the man she thinks he is.
 
-Also: "She's ashamed. Somebody taught her to be ashamed of her body," said low and certain, and Randi went quiet and softened past it. She *knows who taught her*, or she recognized something. That's a loaded gun on the table.
+Two-page-chapter fears from way back: gone. This is technique, not shortcut. This was the scene.
 
-The tragedy of the structure is becoming the whole point: the reader is ahead of Vee exactly the way the blurb promised, and now *everyone* is ahead of Vee except Vee. She's out there happy, sore, credit-carded to the heels, having the best weeks of her life — and the two people she loves most are in a kitchen confessing over her in the third person, both of them falling for her for real, both of them knowing how it started. When she finds out, it's going to take all three of them down. I can feel the book coiling.
+Texted my friend at 1 a.m.: "the boyfriend's backstory just landed and I need to lie down. also I think I have a crush on a conversation about infinity. is that legal"
 
-I did clock one thing: we're now two chapters deep in Pace-and-Randi's bed while Vee gets the happy-daylight chapters. The split is working because it's *information* — but if the shape repeats (Randi-sad-in-the-kitchen, Vee-happy-in-the-sun), I'll start feeling the machinery. Not yet. Tonight it earned everything.
-
-GATE 27 — Gone
+**GATE 27 — Rock**
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 2
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi finally tipping — eating the whole meal, wearing his shirt, going still at his speech about Vee — is the emotional payoff I've been reading toward, and it landed through objects and silence instead of announcement. The "So soon?" beat gave me heat and heartbreak in one motion. I need the next chapter like air.
+WHY: Nothing "happened" and I couldn't look away — the Daphne reveal reframed him and probably the whole Randi arrangement, and the hand-on-the-scar beat is the most intimate thing in the book so far. Heat near zero and I don't care; the bond turned a corner and I need to see what Vee does with what she's figured out.

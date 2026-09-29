@@ -1,46 +1,36 @@
 # Cold read (grounded) — Rock
 
-*scene: scenes/rock.md · model: gpt-5.5 · memory: ck-ch020 + raw ch021..ch024 · reader-protocol: v3-grounded-checkpoint · prose-sha ~178a1c64010d*
+*scene: scenes/rock.md · model: gpt-5.5 · memory: ck-ch020 + raw ch021..ch026 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-This one landed very quietly on me, and harder than I expected. After the heat and display of the dress and the shoes, this felt like being brought down into the warm interior of him: robe, quilt, cold glass, fire, old tea, his hand simply holding her breast like it belongs in the conversation rather than interrupting it. The erotic charge is there, but it’s not a scene of escalation so much as a scene of possession by tenderness. I felt the pull most in the ease of their nakedness: “his boxers and her skin and his robe over her shoulders,” the robe falling open and nobody making a performance of it. That felt deeply intimate.
+I came out of this chapter feeling very soft toward Vee and very protective of her, but in a different way than before. The heat here is not mainly in the sex we know happened before the scene opens; it is in the after, in the quilt and the robe and the way Pace’s hand rests over her breast “without pressing, without asking.” That landed on me as deeply erotic because it is so trusted. She is naked under his robe, half-open, and nothing in the scene feels grabbed from her. It feels like being kept warm.
 
-Vee is so open here, and I like her more for how she talks about home without flattening it into a joke. The Ohio food, the unopened saffron, the church basement casseroles: she can tease it, but she keeps the love in it. And Pace’s answer, “And affectionate,” moved me because it shows exactly why she trusts him. He doesn’t just hear the joke; he hears the hand under it. That is the kind of attention that would undo me too.
+Pace moved for me here. I have been uneasy about the hidden Randi/Pace arrangement, and that unease does not disappear, but this chapter gives me something more private in him than the competent, feeding, making, measuring man. “Peter” feels plain and young in a way “Pace” never has. The seventh-grade hallway hurt me: “They took the thing you loved, and made it the punishment.” Vee finding the exact wound without making a speech about it made me trust her tenderness even more. She does not rush to fix him. She knows when not to say sorry.
 
-Pace deepened a lot for me. I’ve trusted his care and been uneasy about the hidden plan, but here he becomes younger, stranger, more wounded, and more beautiful. The “Peter” reveal matters. “Pace” has always felt like his chosen shape: exact, forward, controlled. “Peter” sits there plainer, almost defenseless. When Vee says it once “to feel how it sat in her own mouth,” I felt the intimacy of that more than if they had kissed.
+Daphne is the part that disturbed me, and the text earned that disturbance. He tells it with so much careful order — nineteen and fifteen, then twenty-one and seventeen, “Nobody did anything wrong” — that I felt the wrongness underneath it more strongly. Vee feels it too and holds back “the clean ugly grown-up word,” and that restraint felt right. I do not know enough to name the whole of it, and he plainly loved her, or needed her, or both. But the arithmetic is heavy. It changes the earlier Daphne-door memory for me: not just a former lover whose boundary taught him care, but someone tied to his own too-young leaving, his hunger to be chosen, maybe his belief that hurt can still be called luck.
 
-The Daphne part is the place the chapter turns cold under the quilt. I felt Vee’s stomach-drop before she names it, or rather before she refuses to name it. “Nineteen and fifteen. Two years.” The chapter earns the unease completely. It doesn’t tell me what to think over his head, but it lets me feel the wrongness of that arithmetic and the ache of how he protects the memory: “he had handed her the thing that had hurt him and named it luck.” That line is devastating. I don’t think Pace is lying. I think he believes it exactly as he says it, and that is what makes it sadder.
+The erotic charge peaks for me in the quiet recognition that lifting, math, sex, and attention are all one kind of presence for him. Vee saying, “That’s how you are with me” felt intimate enough to blush at. The scar moment is also charged: her hand finding it, his hand covering hers, “Not tonight.” That could have become a shutdown, but it doesn’t. It is a deferred yes, a door with warmth still coming under it. I wanted to stay there.
 
-My trust in Pace is complicated by this, but not in the same way as the secrecy with Randi. This doesn’t make him feel predatory; it makes him feel marked. It also makes his rules, his patience, his care around doors and timing, feel less like abstract virtue and more like something built over a wound. When he says “Not tonight” about the scar and leaves her hand there, I trusted him intensely in that moment. He doesn’t slam the door. He puts a time on it. That is very Pace.
+My suspicion is still alive because Vee’s final thoughts are so heartbreakingly wrong in one specific way: she thinks Randi and Pace came to her “for no reason she had done anything to deserve,” as if it were grace, accident, fortune. I know it was arranged. The chapter lets me melt into her happiness and then quietly reminds me that the foundation underneath her memory is not what she thinks. That hurts more because the happiness itself feels real. I do not doubt that Pace is kind to her here. I doubt the cleanliness of the circumstances that brought her into his arms.
 
-The swoon here is not big romantic declaration, but it absolutely swoons. For me it peaks when she connects his lifting to sex: “It’s the lift. It’s the same face.” That made his attentiveness physical in a new way. Not just courtesy, not just technique: presence as discipline, as refuge. And then the hand over the scar, palms together, is the chapter’s real erotic intimacy. Not explicit sex, but charged as hell because it is about access.
+The title, “Rock,” feels like several things at once: the ridge and cold night outside the glass, the solidness of Pace/Peter, the weightlifting bar, the hard old scar under her hand, and maybe the thing she is resting on without knowing it can move. The volume-entry line, “WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION,” still promises manners around danger: warmth, etiquette, invitation, but with distance implied. “A Polite Invitation” now feels like Vee being invited in very gently, very beautifully, while the cost of accepting is still hidden from her.
 
-The chapter title, “Rock,” first points to the ridge, the hard stars, maybe the squat bar and the old scar, but after reading it I feel it most as solidity: the thing under everything. Pace’s inner weight. The hard facts he carries. The chapter is full of hard surfaces made warm: glass, ridge, scar, steel, math, the cold outside the window. The book title, *A Polite Invitation*, still feels more dangerous than polite because every threshold is so gently offered. The series title *With a Long Spoon* keeps feeling like distance from something tempting and possibly dangerous. The packet’s closing beat, “Every yes was freely given. That was the problem,” feels especially alive here: Vee’s yes to intimacy is real, but the larger hidden invitation is still waiting behind it.
+What I want next is almost painfully divided. I want Vee to have this: the robe, the stars, the man who can talk about math like a poem and touch her like he is fully there. I also want the truth to come. My guess from here is that the Randi/Pace/Vee triangle is tightening toward disclosure, because Vee is now naming both Randi and Pace as one miraculous arrival, “all of a piece,” and that is exactly the place where the hidden connection would break her open.
 
-What I want next is the scar story, badly. I also want to know whether Vee will keep Pace’s “Peter” as something private and precious, and whether this new knowledge of Daphne will change how she hears his care. My dread is still Randi and Pace together behind Vee’s back. The more real Pace and Vee feel, the more that hidden structure hurts.
+**Cast present (in person):** Vee, Pace.  
+Mentioned-only: Vee’s mother, Vee’s father, Vee’s brother, Pace’s mother, Pace’s father, Daphne, Randi, Cassie.
 
-**Cast Present (In Person):**  
-Vee, Pace.  
-Mentioned only: Vee’s mother, Vee’s father, Vee’s brother, Pace’s mother, Pace’s father, Daphne, Vee’s fifteen-year-old trumpet-player boyfriend.
+**Heat:** 2 — quiet, sustained afterglow and touch; the wanting is warm, bodily, and trusted.
 
-**Heat:** 1.5 — mostly clothed/naked intimacy and touch, not explicit sex, but the robe, breast, thigh, and scar are strongly charged.
+**Romance:** 3 — this is a deep intimacy chapter: names, childhood wounds, held silence, and “Peter” kept like a private gift.
 
-**Romance:** 3 — not a declaration, but a major deepening of trust: names, childhoods, wounds, and the private “Peter.”
+**Motifs & images:** Food/hunger repeats through cumin, casseroles, saffron, and Pace cooking for Vee. Doors repeat in Daphne and in the scar’s “not tonight” as a door with a time on it. Being held/covered repeats through robe, quilt, fire, and his hand. Math returns as beauty and language, now more openly tied to Pace’s inner life. The scar repeats from Vee’s first night seeing it.
 
-**Motifs & Images:**  
-Repeat: fire/warm house against cold outside; food/hunger/fed; names and being seen; doors, especially “not tonight” as a door with time on it; hands on breast, ankle, hip, scar.  
-Repeat: scar from earlier glimpsed in Pace’s bedroom, now touched but not explained.  
-First/expanded: math as beauty, stars/leaf/ball as one motion, unopened saffron.
+**Symbolism:** The glass/fire/cold arrangement reads as the whole chapter’s emotional shape: small made warmth against a huge cold outside. “Peter” stands for Pace before the finished campus/manly self. The scar is a sealed story, touched but not opened.
 
-**Symbolism:**  
-The glass feels like the boundary between cold and chosen warmth. The scar is clearly more than injury: a withheld history, a door not yet opened. “Peter” stands for the younger, less armored self under Pace.
+**Characterization:** Vee deepens beautifully: tender, perceptive, still naive about the setup but not foolish emotionally. Pace deepens the most; he becomes younger, lonelier, and more legible without losing his steadiness. Daphne becomes more complicated and troubling from the little we get.
 
-**Characterization:**  
-Vee deepens through her generosity: she sees home, Pace, and Daphne with nuance. Pace deepens sharply: brilliant, lonely, disciplined, wounded, careful. Daphne remains thin but intentionally so, a charged absence.
+**Pace — within the chapter:** Slow in the best way; the conversation earns its length because each disclosure opens naturally from the last.
 
-**Pace — Within The Chapter:**  
-Slow, but earned. The quiet accumulation is the point; I didn’t feel it drag.
-
-**Pace — Chapter To Chapter:**  
-Building inward after the outward glamour of dress/shoes and the hidden Randi/Pace chapter. Momentum holds because the intimacy changes shape instead of repeating the same erotic beat.
+**Pace — chapter to chapter:** Building. After the dress/shoes/Randi/Pace momentum, this holds the heat lower but moves emotional intimacy sharply forward.
