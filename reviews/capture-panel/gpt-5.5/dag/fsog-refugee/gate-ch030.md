@@ -1,33 +1,24 @@
-*capture-dag-v2-rich · gate ch030 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~5274d9c5fd04 · 2026-09-11*
+*capture-dag-v2-rich · gate ch030 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9947113d2a83 · 2026-09-28*
 
-REACTION —
+REACTION — Oh, this chapter made me feel complicated in exactly the way this book keeps making me feel complicated.
 
-Oh. Oh, this chapter got under my skin in that sneaky way where nothing “big” happens except everything moves one click closer to the thing I’ve been waiting for and dreading.
+I loved being in Pace’s aloneness at the start. The woodworking did for him what the dancing did for Vee: gave him a frame, a fit, a place where the mind can stop chewing itself. And then Randi arrives, and the whole Friday that was supposed to be empty gets filled by her, which should feel warm, and partly does. I do believe she cares. I believe she saw Vee wrecked and took her in. I believe Pace is relieved Vee had somewhere to go. That little triangular warmth is real, and it gets me.
 
-Vee walking into stats still wearing the weekend like a coat, yes. That felt exactly right. That dazed, overfull feeling after something private has rearranged your body and now you’re expected to sit in a lecture and write “outliers” like you are still the same student you were last week. And the professor talking about the kind of outlier that “comes in through the part that carries forward” — rude, honestly. The book did not need to look me in the eye like that.
+But God, Randi. Randi, Randi, Randi. She is so good at turning intimacy into fuel. I don’t mean that as a moral scold, because honestly the heat in this chapter works on me. It does. Her telling Pace about Vee in the bra and the shoes while she’s on top of him is hot in that dangerous, charged, secret-sharing way. It’s also the exact knife under the table. Vee went to her friend crying, ashamed, trusting her. And Randi brought that private morning into Pace’s bed as erotic material.
 
-The Pace part, retold through Vee, still has me. The porch with the heels could have gone so wrong for me if he’d been prickly about her being taller, or made her smaller so he could feel bigger. Instead he gives her that ridiculous, gorgeous line about beauty made for the gods and loaned out, and I just about folded. That is exactly the thing I read for: dominance that is not threatened by her magnificence. He can lead because he doesn’t need to diminish her. That line was so generous it hurt.
+That is where my stomach dropped. Not because Pace and Randi wanting Vee together is inherently a problem for me. The jacket told me the direction; I signed up for the appetite, the woman, the man, the whole charged table. But Vee does not know this part. She does not know that the sound she hoped Randi didn’t hear under the skirt is now being repeated to Pace while he’s inside Randi. She does not know that her apology outfit, her bare nervous standing in Randi’s room, is already part of their sex life.
 
-But then Randi.
+And Pace. I still love him in the moment-to-moment way. I do. He doesn’t text Vee because he leaves space, and that restraint feels so much like him. He doesn’t pry into what Vee said to Randi. He keeps what happened at the bar as partly his and partly hers. But then when Randi starts telling him, he doesn’t stop her. He lets it in. He is aroused by Randi’s wanting and telling, yes, but Vee is inside that arousal without having been asked. That matters to me. It doesn’t cancel his tenderness, but it stains the edge of it.
 
-Randi, Randi, Randi.
+The chapter pulled me hard because it finally made the hidden third game feel bodily, not just structural. Before, “they chose her together” was a warning in the blurb and a tension in the background. Here it’s in the bed. Here Vee’s absence is almost the third body in the room. That is hot, but it is also the first time I felt seriously protective in a way that made me sit up straighter.
 
-I am in trouble because I like her so much, and I do not trust what she is doing. The practice room is so intimate it’s practically a trap with a piano in it. Vee pulls Randi away this time, which matters — Vee wants to tell her, wants that attention, wants the naming. And Randi gives her the thing she always gives her: a frame. A way to understand the desire without drowning in shame. I can see why Vee needs it. I can feel the relief of having someone worldly say, oh baby, that thing your body did? There’s a map for that.
+And Randi saying, “Give her a day,” like she’s promising him the woman she’s preparing. Whew. That line is both delicious and chilling. I am absolutely reading the next chapter, because Vee walking in dressed by Randi to apologize to Pace has all the electricity in the world. But my trust is wobbling. The book had better know this is a violation of Vee’s trust, not just sexy triangulation. I think it does. I need it to.
 
-But Randi is also enjoying the hell out of watching Vee discover the map.
-
-That question — “So. Did you deserve it?” — made my whole body go still. Because it’s hot, yes, obviously it’s hot in the exact charged way this book knows how to make hot. But it’s also Randi placing a word in Vee’s mouth and letting Vee agree before she knows what she’s agreed to. That is the edge with Randi: she doesn’t force, but she arranges the room so beautifully that Vee walks where she wants her to walk. And because Vee’s desire is real, because Vee is burning alive with it, the arrangement works.
-
-I did love that Vee stopped herself in the bathroom. Not because I want her to be ashamed — I don’t, God, I don’t — but because that moment felt like hers. Her body is saying yes to something, but her mind is not ready to name it, and she does not let the story carry her over that line just because she’s wet and overwhelmed. “Not here. Not over a story. To do that would be to say yes to it, and she would not say yes to it.” That mattered to me. That kept me with her. Desire is not treated as automatic consent, and that is the whole reason I’m still reading this book with my guard halfway down.
-
-I’m also watching the triangle tilt. Vee is telling Randi things before they are even settled inside herself. Pace is the experience; Randi is becoming the interpreter of the experience. And now the thing Pace saw but did not press, Randi presses. Softly, gorgeously, plausibly deniably, but she presses. Pace held the door open and let Vee not name it. Randi put her hand right on the latch.
-
-And then the goodbye kiss being “so worn-in now that Vee barely clocked it” — girl. Girl. That is not nothing. The fact that she barely clocks it is the loudest possible version of something happening.
-
-I am very captured, but I am also tense. The consent in the room with Pace still feels real to me. The consent in the room with Randi feels realer than Vee understands and less clean than Randi is pretending. That is delicious and worrying, which I suspect is exactly where the book wants me.
-
-GATE 30 — The Practice Room
+GATE 30 — Space
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: “So. Did you deserve it?”
-WHY: That line made me nervous in the exact place this book lives, because Randi is not just comforting Vee now; she is shaping the meaning of Vee’s desire while Vee is too open to know what’s happening. But Vee stopping herself in the bathroom kept the chapter honest for me, and Pace’s remembered gentleness still anchors the heat. I’m absolutely continuing, but I have one hand on the doorframe.
+NEXT: 10
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "I had her standing in my room this morning,"
+WHY: This was intensely hot and genuinely unsettling: Randi’s desire finally came into the open through Vee, and Pace received it. I’m continuing because I desperately want the apology scene and because the book seems aware there is a debt building here, but this chapter pushed hardest on my consent alarm since the hidden plan first became clear.
