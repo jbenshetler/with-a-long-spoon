@@ -263,3 +263,13 @@ They stayed like that. The tea had gone fully cold. Past the glass the yard held
 "Peter," she said. Softly. No question in it this time. She was not asking him for anything, and she was not trying it on. She was only saying it, once, into the warm dark, the way you say a word to keep it.
 
 He let it sit. He did not answer it and did not need to. His hand closed around hers over the old scar, slow, and held, and the fire kept its small business behind them, and the cold stayed on its own side of the glass, and neither of them said anything else for a while.
+
+Later, in his bed, he went to sleep before she did. He went as he did everything, all at once and without fuss: one minute his hand was moving on her back and the next it had stopped where it was, and his breathing had changed under her ear, and he was gone.
+
+She stayed awake a while, not because anything kept her. She was wrapped around him, a leg over his, her arm across his chest, her face in the hollow of his shoulder, and the heat came off him as it always did, like a furnace banked for the night, so that the sheet was almost too much and she kept it anyway. She felt soft all through. Not tired. Soft.
+
+She thought about the semester. Six weeks ago she had walked into a stranger outside the dining hall and stood there apologizing to her with her hand over her mouth, and the stranger had laughed and touched her arm, and the next morning had been in the seat beside her in stats, and now she was Randi. Her glamorous friend, the one she laughed with until it hurt, the one she could bring the worst of herself to and be told it was nothing, girl, nothing at all. She had stumbled into her. Literally.
+
+And not ten days after that she had said out loud, to nobody, that she couldn't do an integral, and a man had crossed a coffee shop for it. That was all. She had complained about math to her own table, and now she was in his bed with her leg over him, and he was asleep, and he was the kindest man she had ever known, and she had not known, before him, that a man could be all the way here. She had not known it was a thing you could have.
+
+One piece, he'd said, about the leaf and the stars. It felt like that. It had come to her all of a piece, the one and then the other, in six weeks, for no reason she had done anything to deserve. She had never been so fortunate, or so happy.
