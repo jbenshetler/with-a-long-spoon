@@ -40,17 +40,21 @@ He waited.
 
 "Was she all right?"
 
-"She was a wreck. She cried." A beat, and her face went soft with it. "And then she pulled herself together in my desk chair and told it straight, all of it, the parts that made her look bad first. She didn't spare herself one thing. Pace, she knew what she'd said before she was done saying it. She knew it walking across campus to a house she'd never been inside, at nine in the morning, to fix it." Randi shook her head. "I wanted to keep her."
+"She was a wreck. She cried."
 
-He was glad she had gone to Randi. He was glad there had been somewhere for her to go, and that it was here, in a sense, that she had gone; it warmed him that the two of them had that between them without him. He did not say what Vee had said to him at the bar, or how his face had felt when it went; those were his, and that was Vee's. He said the shape of it.
+He felt that land. Vee, in a strange room, crying over what she had said to him. She had asked him to leave her alone and he had, and all day the leaving had been the hard part. Now he knew where the day had gone for her.
+
+A beat, and Randi's face went soft with it. "And then she pulled herself together in my desk chair and told it straight, all of it, the parts that made her look bad first. She didn't spare herself one thing. Pace, she knew what she'd said before she was done saying it. She knew it walking across campus to a house she'd never been inside, at nine in the morning, to fix it." Randi shook her head. "I wanted to keep her."
+
+He was relieved there had been somewhere for her to go, and that it was here, in a sense, that she had gone; it warmed him that the two of them had that between them without him. He was glad she had gone to Randi. He did not say what Vee had said to him at the bar, or how his face had felt when it went; those were his, and that was Vee's. He said the shape of it.
 
 "We'd had a lovely night to that point. She danced. She was good — she was good by the second song, and she knew she was, and she was lit with it." He turned his hands over. "When I went for drinks, everything was great. By the time I came back, everything was wrong."
 
-"That's what a blonde is for." Randi drank. "She knew she'd been wrong by the time she got to me. She knew it before she sat down." She turned the glass again. "She's so easy, that girl. It isn't fair."
+"That's what a blonde is for." Randi drank. "She knew she'd been wrong by the time she got to me. She knew it before she sat down." She turned the glass again. "The heart on her, Pace. She doesn't do anything halfway. Not even being sorry."
 
-Something in him let go that he had not known was held.
+He looked at the table for a moment, because he had to. When he looked up she was watching him with the glass stopped halfway.
 
-"That's a relief," he said.
+"I'm glad it was you," he said.
 
 "She'll come." Randi said it easily, as a thing already known. "Give her a day."
 

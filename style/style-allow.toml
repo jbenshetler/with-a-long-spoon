@@ -4778,6 +4778,20 @@ text = "\"Charmeuse,\" she said, not to Vee; to herself, or to the dress."
 note = "Group G (2026-08-07): three antitheses, well spread, none adjacent; :55 is in dialogue. No cluster."
 
 [[ok]]
+fp   = "d983e435cf82"
+rule = "filter-verbs"
+file = "scenes/space.md"
+text = "I saw her from the top of the stairs and that was the whole story.\""
+note = "author 2026-09-28: Randi speaking; the sense is the sentence"
+
+[[ok]]
+fp   = "da40c0a05603"
+rule = "filter-verbs"
+file = "scenes/space.md"
+text = "He felt that land."
+note = "author 2026-09-28: 'He felt that land' stands; the sentence is about him receiving it"
+
+[[ok]]
 fp   = "c9a4366ae728"
 rule = "register-verb"
 file = "scenes/standards.md"
