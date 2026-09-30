@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch027 · gpt-5.6-sol · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 2651a74cea0e · 2026-09-29*
+*capture-dag-v2-rich · gate ch027 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2651a74cea0e · 2026-09-29*
 
 REACTION
 
-Oh, this got me. This is the chapter where I stop being merely attracted to Pace’s attention and understand why being loved by him would rearrange a person. He doesn’t just listen to Vee; he lets her give him the meaning of his own life back. “They took the thing you loved and made it the punishment” is exactly the right thing to say, and she knows not to smother him with pity afterward. Then she sees that his presence during sex is the same presence he finds under a loaded bar. She is not just being seen now. She is seeing him accurately in return.
+Oh, this got me. Not by being flashy, but by letting them be naked and warm and actually know each other. His hand just holding her breast while they talk about casseroles and parents and childhood—that is so much more intimate to me than half the sex scenes I read. He isn’t performing tenderness for her, and she isn’t merely receiving it anymore. She is listening closely enough to find the hurt inside his careful little sentences. “They took the thing you loved and made it the punishment” was exactly the right thing to say. She sees him. That feels new.
 
-And Peter. God. The ordinary, stationary little name beneath “Pace” nearly undid me. Saying it at the end felt more intimate than most books’ declarations of love. His hand over hers on the scar—“not tonight,” but no withdrawal, no punishment for asking—was so tender I could barely stand it. That is what an actual boundary looks like: not coy withholding, not trauma dangled as bait, just trust with a time attached.
+And Peter. Of course Pace is Peter. I felt the whole constructed adult man flicker for a second and saw the fifteen-year-old underneath: brilliant, displaced, making himself physically formidable in a dorm full of men, finding salvation in rooms where people finally understood what he loved. The math did not feel like an impressive-man résumé. I understood why it feeds him. “Most people walk around inside the poem and never get to read a line of it” would absolutely work on me, especially because he means it with his whole chest.
 
-Daphne makes me feel sick for him. He was fifteen, she was nineteen, she was assigned to help a displaced child, and it lasted two years. Pace has arranged the memory so meticulously that nobody did anything wrong and he was lucky, because I think that is the only shape in which he can bear to keep the best two years he had known. Vee sees the ugly adult word and refuses to force it into his mouth. I love her for that. I am also newly suspicious that his whole devotion to choice—every step freely taken or it means nothing—grew out of something he still cannot recognize as a violation. That makes the hidden plan with Vee even more painful. He has built an ethic around never becoming the person who decides for someone else, while participating in a scheme that decided so much before Vee entered the room.
+Daphne made my stomach drop. Nineteen and fifteen, with her assigned to help him find his feet—and he still calls those years luck. I hate how recognizable that defense is: nothing happened, nobody did anything wrong, it was wonderful, she only left because leaving was sensible. He has organized the memory so neatly that he cannot see the wound except as abandonment. Vee sees enough not to rip the interpretation away from him, and thank God she does not turn it into a speech about what it “really” was. She simply tells him he was young and stays. That restraint made me trust her with him.
 
-And then that ending. Baby, no. Vee lying there thinking she literally stumbled into Randi and accidentally spoke Pace into her life, feeling blessed by a universe that handed her both of them “all of a piece,” when I know those encounters were arranged? That hurt. Her happiness is real. Her insight into Pace is real. Peter is real. None of that protects her from the fact that the origin story she is treasuring is a lie.
+The scar moment nearly undid me too. “Not tonight” without removing her hand is exactly the distinction this relationship keeps making at its best: a boundary that does not punish the asking. And Vee turning her palm beneath his so they are holding hands over the thing he cannot tell her yet? That is romance. That is the kind of intimacy I keep digging through mountains of interchangeable dirty talk to find.
 
-Also, this chapter understood exactly how erotic quiet can be. His palm simply holding her breast, her hand resting beneath his over the scar, her body wrapped around him while he sleeps—no performance, no formula, and I felt more charge in it than in plenty of mechanically explicit scenes. This is the combination I keep hunting for: sex still alive in the room, but intimacy deepening rather than merely pausing between orgasms.
+But that ending made all the warmth hurt. She is lying there thinking she stumbled into Randi and happened to be overheard by Pace, calling herself fortunate, folding the two engineered encounters into one miraculous piece. She is happiest precisely where the lie is deepest. I want to grab Pace and Randi by the shoulders. This woman is no longer just enjoying what they arranged; she is building a private theology of grace around it. Every day they wait, the truth gets crueler.
 
-I would text a friend: “She just called him Peter while holding his hand over the scar he isn’t ready to explain, and meanwhile she thinks fate introduced them. I am unwell.”
+And now I’m frightened by how Pace’s history may fit his certainty that choice can remain pure inside a secretly designed structure. He believes what happened with Daphne was good because he wanted it and felt loved. Is that why he cannot see what he and Randi are doing to Vee? Does “I chose every step” protect the whole situation in his mind because it has to protect his own past too? If so, this is going to break in exactly the place he believes himself most ethical.
+
+I’m completely in. Quiet chapter, enormous emotional movement. Also: Peter. I’m keeping that name too.
 
 GATE 27 — Rock
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The emotional intimacy landed as hard as the explicit chapters, and the final irony sharpened every tender thing instead of canceling it. I need the truth to break now precisely because Vee has begun loving the real man inside the engineered story.
+WHY: This gave me the grown-up intimacy I’ve been waiting for: desire still present in the room, but two people listening closely enough to touch the hidden structure of each other. And Vee’s final belief that she stumbled into both relationships by chance has made the concealed plan feel newly unbearable—I need the collision now.

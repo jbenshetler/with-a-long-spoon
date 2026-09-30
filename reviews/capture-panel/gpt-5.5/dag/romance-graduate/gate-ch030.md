@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch030 · gpt-5.5 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha f4bbb5872a6b · 2026-09-29*
+*capture-dag-v2-rich · gate ch030 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f4bbb5872a6b · 2026-09-29*
 
-REACTION — Oh. Oh, this chapter knew exactly where my nerves were and put a fingertip there.
+REACTION —
 
-I am still mad at Randi and Pace, but this one made me understand the machinery of them in a way that is embarrassingly hot. Not forgive. Understand. The whole opening with Pace in the shop, trying to plane himself into calm, was so him it hurt: no dramatic sulk, no needy text, just joinery and cold air and fitting one thing into another until his mind stops bleeding. And then Randi’s car arrives like a match being struck.
+Oh. Oh, this is nasty in exactly the way I meant when I said I wanted Randi and Pace in the same emotional frame. Not nasty as in cheap. Nasty as in: this book knows where the live wire is and then puts a hand around it.
 
-What got me first was not the sex, weirdly, but Randi telling him about Vee. “She didn’t spare herself one thing.” That feels true to Vee in a way I needed after the dance-night mess. Vee can spiral, Vee can lash out, Vee can humiliate herself with a bad jealous thought, but she does not stay slippery with herself forever. She walks to the house at nine in the morning and says the ugly part first. I love her for that.
+I am so tense about how much I liked this.
 
-And then the chapter turns, and Randi turns the whole morning with Vee into fuel. That is the part that made my stomach do the complicated thing. Because yes, it is hot. It is very hot. Randi describing Vee in her bra, walking around her, putting her in shoes, touching behind her knee, knowing she made a sound. That is not subtext anymore. That is Randi wanting Vee out loud through Pace’s body. And Pace is aroused by Randi wanting her, not just by the image of Vee. That triangle finally has heat running on all three sides, even with Vee absent.
+Because on the surface, yes, it is hot. Randi showing up on a Friday, sweeping wood shavings off him, drinking his wine, taking him to bed, stopping him before she comes so she can climb on top and tell him about Vee standing in her room in a bra? That is obscene, and very much my business. The “I heard it” nearly took the top of my head off. This is exactly the kind of triangulated heat most books fumble by either making it cartoon-villain manipulative or coyly tasteful. Here it is charged because all three people are real in it, even when only two are in the room.
 
-But the absent part matters. Vee thinks she has gone to Randi for help. She thinks she left with shoes, a scarf, a plan, and marching orders. Meanwhile Randi is in Pace’s bed that same night eroticizing the whole encounter for him. That is delicious and terrible. It’s not that Vee wouldn’t want to be wanted. I think she might, frighteningly much. It’s that she doesn’t know what room she is already in.
+But I am also sitting here with my whole face in my hands because Randi told Pace. She took Vee’s vulnerable morning, the crying, the dressing, the shoes, the bare legs under the skirt, the little sound behind the knee, and she turned it into sex with him. And Pace wants it. Of course he does. He doesn’t pretend otherwise. And the book doesn’t let me hide behind “well, they all want each other” because Vee does not know she is being shared like this. She went to Randi because Randi felt like the safest possible woman. And Randi really was safe, in the way Vee needed that morning. That’s the killer. She helped her. She steadied her. She made her laugh. She gave her courage. Then she carried the erotic residue of that straight into Pace’s bed.
 
-I’m also clocking that Randi is less in control than she thinks. “I wanted to keep her” is doing a lot of damage in me. That is not just game-planning. That is a woman saying the quiet thing before she can varnish it. And then she takes it to sex because of course she does, because where else is she going to put that wanting?
+I believe Randi loves her. I believe Randi wants her. I believe Randi is jealous and generous and predatory and undone, and I hate that those are not contradictions. She is not a flat schemer; she is worse than that. She is emotionally accurate. She knows precisely what Vee needs, gives it beautifully, and then takes a secret payment Vee never agreed to.
 
-Pace still unnerves me, but I respected him here. He does not text. He does not chase. He lets Vee have space even though it hurts him. And I believe that. The problem is that the space is inside a larger net Vee cannot see, and Randi is standing there arranging the lighting.
+Pace here is quieter but not innocent. His “that was Vee’s” boundary about the bar fight mattered to me; he doesn’t tell Randi the exact wound. But then he receives Randi’s account of Vee’s body and shame and little involuntary sounds, and he is lit by it. He is still the man who leaves room, who won’t text, who waits for Vee to choose. But the architecture is still there. The room is being built around Vee while she thinks she is walking alone through open doors. I’m not out, but I am absolutely gripping the railing.
 
-So yes, I am reading on immediately. The next chapter is the door. Vee in the black dress, Randi’s shoes, Randi’s scarf, walking into Pace’s house after hurting him. If the book has been setting a table, that plate is steaming.
+And God, the title. “Space.” He gives Vee space. Randi tells him to give her a day. He won’t text because that’s “what he is.” But meanwhile there is no space around Vee in the larger sense. Her absence is full of them. Her body is in the room even when she isn’t. That’s delicious and alarming.
+
+I want the next chapter badly because I need Vee at that door in the black dress, Randi’s shoes, Randi’s scarf, thinking she has gathered herself privately, while Pace knows more than he should about the gathering. That is such a loaded setup I can feel the whole floor humming.
 
 GATE 30 — Space
 DECISION: CONTINUE
@@ -22,5 +24,5 @@ CAPTURE: 9
 NEXT: 10
 HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "She was giving him a thing and taking a thing at the same time and he could feel both of them in her, and it fired him, and he let it."
-WHY: This was hot in the exact way that makes me nervous, because Vee’s intimate morning with Randi becomes erotic material between Randi and Pace without Vee knowing. But it also sharpened everything I want: the desire, the tenderness, the danger, and the unbearable pull toward Vee walking in tomorrow night.
+ALMOST-STOPPED: "I had her standing in my room this morning,"
+WHY: Hot as hell, but that line also made my stomach drop because Vee’s trust has become erotic currency between them. I’m continuing because the book has earned this danger, and because Vee walking in tomorrow while Pace knows what Randi did to prepare her is unbearable in the best and worst way.

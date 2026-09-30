@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · relationship-first · prompt-sha 4d4fde415301 · prose-sha 08b46669b5c5 · 2026-09-28*
+*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · relationship-first · prompt-sha c007a3a4585a · prose-sha 08b46669b5c5 · 2026-09-29*
 
-I am so frightened by how completely Randi can relieve Vee of herself. “Because Randi had said so” is the sentence that got me. Vee arrives wanting help making amends, and Randi turns guilt into proof of love, decides the timing, predicts Pace’s behavior, chooses the clothes, lends the shoes, teaches the knot, and sends her away with “marching orders.” Vee experiences this as care because it is care—lavish, attentive, intimate care—and that is exactly why the control works so beautifully.
+REACTION
 
-And, maddeningly, I loved them together. The sad clown, Edna Mode, the evil stepsisters: they are genuinely funny in a way that belongs to friendship, not plot machinery. Vee can make Randi lose composure laughing. Randi without makeup, in her robe, getting out of bed because Vee needs her, felt private in a new way. Then Vee standing in her bra while Randi circles her, Randi kneeling under the long skirt, the unseen hands fastening straps and bracing high on her thigh—yes, that was hot. Much hotter than Vee presently understands. The shoes holding her foot where it belongs is almost indecently perfect for what Randi is doing to the rest of her.
+Oh, Randi. This is exactly why I can’t stop being drawn to her and exactly why I don’t trust her for one second.
 
-But Randi’s advice is not innocent. Vee wants to go to Pace immediately because she hurt him immediately. Randi makes her wait so the return will “read” correctly. That is stage direction, not merely friendship. She even tells Vee what Pace’s silence means before Vee can encounter it herself. Once again, Randi is constructing both sides of Vee’s relationship with him while pretending only to translate. And Vee is exquisitely susceptible to being told that wanting is certainty and certainty is freedom.
+Vee comes to her ashamed, sleep-starved, and intending to repair something she actually did wrong. Randi gives her immediate warmth, correctly identifies the blonde’s cruelty, lets her tell the whole ugly story—and then takes possession of the repair. “Not today” frightened me more than I expected. Not because waiting a day is necessarily bad advice, but because Vee stops the instant Randi tells her to, and then feels her anguish release “because Randi had said so.” That is the whole dangerous mechanism in miniature. Randi doesn’t merely understand Vee; she converts understanding into authority. She even tells Vee how Pace will behave and what his silence means, as if she has access to him that Vee doesn’t know she has—which, of course, she does. I wanted to reach into the book and say: notice how certain she is. Ask yourself why.
 
-The kiss finally becoming “only what they did” made my stomach drop. It is a real turn, and tender, and I wanted it—and Randi has never once asked Vee what it means. Vee’s body has normalized the intimacy before her mind has named her desire, while Randi knows perfectly well what she is doing. That asymmetry is becoming unbearable.
+And then the dressing scene worked on me enormously, which is the problem. The laughter felt so real and easy. Edna Mode, the closet, the shoe-whore joke—this is the friendship texture I’m here for, two women making each other funnier in a private room. But it kept sliding, exquisitely and alarmingly, into something else. Vee standing in her bra while Randi circles her. Randi kneeling where Vee can’t see her, fastening shoes beneath the long skirt, putting a hand high on her thigh to steady her, pressing behind her knee. The fact that it can remain “dress-up” in Vee’s mind while her skin is plainly registering erotic attention is almost unbearable. Randi is touching her in exactly the language both Pace and Vee have already made meaningful: structure, tension, being held into the right position, surrender that produces steadiness. “Being given no say in where her foot went made her surer of it” is not remotely just about shoes.
 
-Also: the room full of sorority composites having a folder on Vee, Brooke knowing her as “the stats friend,” Randi’s immaculate private room, the invitation to “move in”—the whole house felt like another beautiful system ready to absorb her. Vee walked in to repair something she had done and walked out costumed for the next scene by the person secretly directing the entire play. I am absolutely reading on, but I want to grab her by the shoulders before she knocks on Pace’s door and say: sweetheart, whose choice is tomorrow night now?
+The scarf made me uneasy in a more specific way. Randi once invented being tied with a Hermès scarf to place helplessness in Vee’s imagination. Now she puts her own silk at Vee’s throat, teaches her tension, tells her it must hold, and sends her to Pace wearing it. That is not an innocent styling choice, even if Vee experiences it as one. Randi is inserting herself into Vee’s reconciliation with Pace, literally dressing Vee’s body for his gaze. Pace made the dress *to* her; Randi is now making this version of Vee *for* him—and perhaps for herself. The third game is suddenly so physically present that I could feel it in the room.
+
+I also hated the financial undertow. Randi has now helped Vee buy one pair of ruinously expensive shoes and lent her another pair whose cost Vee measures in textbooks. Beauty keeps arriving attached to Randi’s world of effortless money, and Vee keeps translating extravagance into what the occasion or the dress is “owed.” I don’t think the book has forgotten the credit-card bill. I certainly haven’t.
+
+And that kiss. Vee kissed her back without bracing, then filed it under “only what they did.” That is a real turn, even if Vee refuses to name it. The first kiss required the alibi of Frenchness; now repetition itself has become the alibi. Meanwhile Randi sends her away in Randi’s shoes, Randi’s scarf, and Randi’s instructions to go win back Randi’s lover. I would text a friend at one in the morning: *She is literally wearing the other woman’s clothes to apologize to the man, and she does not know they’re together. I am losing my mind.*
 
 GATE 29 — broken-in
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 2
+NEXT: 10
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: The friendship was funny, tender, and erotically alive, while the manipulation became almost frighteningly complete. I need to see whether Vee’s apology to Pace sounds like her—or like Randi speaking through the scarf knot.
+ALMOST-STOPPED: “Not today.”
+WHY: Randi’s tenderness, desire, and management have become impossible to separate, and Vee’s new ease in kissing her is both lovely and terrifying. I need to see Vee arrive at Pace’s door dressed according to instructions from the lover she still believes is merely her friend.

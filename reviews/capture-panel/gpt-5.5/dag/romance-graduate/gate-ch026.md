@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.5 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 8aff12752f2e · 2026-09-27*
+*capture-dag-v2-rich · gate ch026 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 41d61fc51e50 · 2026-09-29*
 
-REACTION —
+REACTION — Oh. Oh, this one got under my skin in a quieter way than the dress chapter, but maybe deeper because now I can feel Randi cracking.
 
-Oh no, this got me.
+The thing I keep coming back to is her eating. After that awful untouched bowl in “Portion,” this felt like a door opening that I didn’t even realize I’d been bracing beside. She asks if there’s food in the house. She puts on his shirt from the drawer like she lives there in some private version of herself. She eats what he makes her. Not performatively, not as a scene, not with glamour around it. She just eats. And because this book has made food so intimate from the beginning, that landed harder than half the sex scenes in other books. This woman who can buy shoes without looking at the price, who can walk into any room and make it behave, is sitting in his kitchen with her knees in his undershirt and admitting, without admitting, that she wants to be cared for.
 
-Not in the same body-first way the dress chapter got me, though there is plenty of charge here. This one got me in the friendship place, which is almost worse, because Randi is doing the thing she does so beautifully: making Vee feel translated. Seen, elevated, brought into a room she wouldn’t have entered alone and then somehow made to feel like she belongs there because Randi’s hand is on her back. It is intoxicating. I understand exactly why Vee follows her out of the sensible shoe store. I would have followed her too, and I would have hated myself a little while handing over the credit card.
+And then Vee is everywhere without being in the room. That was delicious and a little terrible. Randi talking about her like she’s trying to be amused by it and failing. “She got past me before I could help it” is the whole chapter for me. Because yes, that’s it. The game has gotten real, and not just in the obvious oh no, they both want the girl way. Randi likes her. Randi is moved by her. Randi is turned on by her embarrassment and her brightness and her ridiculousness and her listening. And Pace knows it, but he’s still so composed inside the plan that I want to shake him a little.
 
-The “made it to you” line landed. That is Randi’s gift and her danger in one sentence. She says the truest thing in the room before Vee has found the words, and then the truth belongs partly to Randi because she named it. I felt Vee’s throat close there. Pace made the dress out of attention, but Randi gives Vee the language to experience that attention without making herself smaller. That is real intimacy. Also: that is control with perfume on.
+The line that made my stomach drop was Pace imagining Vee at the table in his sheet and Randi across from her in his shirt. Because there it is: the fantasy of all three of them happy, already emotionally furnished, already lit and warm and fed. And Vee still doesn’t know the house she’s walking toward has been arranged. I want that room so badly, which is exactly why I’m afraid of it. The book is being mean to me in my preferred dialect.
 
-And the shoe shopping at the cheap store was such a relief. I loved them laughing. I loved Vee being funny and knowing she was funny. That “funniest woman in Virginia” feeling is so specific and alive, and it made Randi less purely predatory for a minute. The real laugh costing her something — yes. I felt that. There is a version of this book where I could just read these two being girlfriends and menacing every shoe rack in town.
+Also: Randi turning Pace’s description of Vee into sex. That was hot, but not simple-hot. It had an ache in it. Pace says Vee makes the room brighter, and Randi goes still because she knows it’s true and maybe because she knows Pace sees it, and maybe because some part of her wants to be the one seen that way. Then she takes off his shirt and uses her own body to speak Vee’s body into the room. That is messy, charged, jealous, generous, hungry, and a little self-punishing all at once. Extremely my problem.
 
-But then the boutique. Whew. The foot on Randi’s knee. The thumb over the frosted plum toenail. That was hotter than a lot of actual sex scenes I’ve read, because the book knows exactly where the live wire is. Vee has coded those toes to Pace, to the silk, to her own secret readiness, and Randi touches the code like she knows the password. “Mm.” That’s all she has to say. I actually got a little mad at how effective it was.
+I am still wary of both of them. Tenderness does not cancel conspiracy. But I’m more caught now, because the book isn’t letting Randi remain the elegant manipulator on the side. She has needs. She has damage. She can be jealous and sincere in the same breath. And Pace, annoyingly, remains very hot when he cooks without thinking and notices everything without pressing on it. “He did not say so” after she ate the food? Yes. Correct. That’s the kind of restraint that will make me forgive too much, and I know it.
 
-The money made me anxious in a very grown-up, stomachy way. Not because I’m moralizing the shoes — honestly, the shoes are right, and the tan pair would have been a crime against the dress — but because Vee putting away the debit and taking out the credit card felt like another threshold disguised as glamour. She is learning to want without apologizing, which I love. She is also being moved into wants that cost more than she can safely pay, by someone who can spend multiples of that without looking. That difference in power is suddenly very loud. Randi buying her own loafers like breathing while Vee is white-knuckling the purchase hurt more than I expected.
+This chapter was not about Vee’s body on-page, but it made Vee feel almost mythic in absentia. Everyone is arranging themselves around her glow. She thinks she’s being invited into their world, but she’s becoming the thing their world wants to orbit. I am absolutely reading on.
 
-And yet the ending still warmed me. Vee holding the box like it might spoil, Randi catching her, both of them laughing on the sidewalk with the dress between them — that is so tender and believable that I want to shake the book. Because this is why the betrayal will cut. If Randi were only manipulating her, fine, I could armor up. But she isn’t. She is giving Vee something Vee has wanted since she was fifteen. The problem is she is giving it with one hand while the other hand is still inside the plan.
-
-GATE 26 — Sorority
+GATE 26 — Gone
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 8
+NEXT: 9
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "Not the debit."
-WHY: The money made me physically uneasy, but in the useful way: the book let the glamour turn expensive without blinking. Randi and Vee’s bond took a real turn here, because this wasn’t just shopping, it was Randi entering the dress/Pace fantasy and making herself necessary to it. I need the induction now, badly.
+ALMOST-STOPPED: none
+WHY: This was a quieter chapter, but it changed the emotional weather: Randi eating, wearing his shirt, admitting Vee got past her, and then turning all that want back into Pace felt like the bond actually shifted. I want the next chapter badly because the triangle has stopped being theoretical; everyone but Vee is starting to feel the cost.

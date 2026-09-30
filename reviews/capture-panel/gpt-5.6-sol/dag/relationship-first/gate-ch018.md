@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch018 · gpt-5.6-sol · relationship-first · prompt-sha 4d4fde415301 · prose-sha bca2ed17019a · 2026-09-28*
+*capture-dag-v2-rich · gate ch018 · gpt-5.6-sol · relationship-first · prompt-sha c007a3a4585a · prose-sha bca2ed17019a · 2026-09-29*
 
-REACTION — Oh, thank God, Cassie gets the whole conversation. Not the cleaned-up version, not merely “he’s making me a dress,” but the heat turned up for her, the box, the looking, the kneeling, even Vee’s wicked little admission at the end. I’ve been afraid that Randi would become the person Vee handed every charged experience to while Cassie was quietly moved to the edge of the book. Instead Vee comes home and spills herself all over Cassie’s bed, and Cassie knows exactly when to laugh, when to let a pivot happen, and when to ask the one real question: how did it feel?
+REACTION
 
-“Like I was supposed to be there” got me. That is so much more dangerous and intimate than Vee saying she was aroused. She isn’t only discovering that Pace wants her body; she’s discovering a position of power and visibility that feels native to her. And Cassie hears it without shaming her, competing with it, or trying to claim the experience for herself. Her hand on Vee’s knee and then away—yes. That tiny withdrawal felt like love with good boundaries.
+Oh, I loved this. I needed Vee back in the room with Cassie, translating what happened into the language of an actual friendship—not Randi’s exquisitely leading questions, not Pace’s attentive silence, but Cassie laughing, worrying, making room, and reaching out once to touch her knee. That little touch nearly undid me. Cassie never tries to own the meaning of Vee’s experience. She asks, listens, and lets Vee arrive at “Like I was supposed to be there” herself.
 
-I’m also struck by how completely Pace has entered the room without being in it. The warm house does more work on Vee afterward than it did while she was standing inside it. She understands retroactively that he prepared for her body hours before her arrival, and I understand why that undoes her. The shirt on the pillow, the dress still unfinished: he has become an atmosphere.
+And Vee is so happy. Not merely aroused, though the sideways little confession about grinding on him is delicious; she’s delighted by herself. She has discovered she can affect this composed man, can want openly, can be ridiculous about it with someone who knows her. The laughter on the bed feels almost as intimate as the measuring did.
 
-The gay joke made me tense for half a second because it’s old and easy, but Vee’s correction—powerlifter, not bodybuilder—and then her delighted, appalling little reveal won me back. “I was grinding on him” is the first time she has told this story as someone with erotic agency rather than someone amazed to have survived being seen. She’s proud. She’s laughing. I loved her there.
+But I noticed what she didn’t tell Cassie. She tells her about being bare, being looked at, Pace kneeling, even pressing herself against him—but not the soaked satin, the terrible shame, or opening her eyes to find him waiting for her face. That is the center of what happened, and she keeps it. I don’t think the omission is dishonest. It feels private in the deepest sense: not yet language, perhaps, or not yet something she can survive hearing spoken aloud. Still, I’m watching the difference between what Cassie receives and what Vee can tell.
 
-And yet: she tells Cassie about the door Pace left her, but she still doesn’t know about the much larger door Randi and Pace have closed behind her. Every account of his exquisite permission makes that concealed structure worse. I’m not less seduced. I’m more seduced and more alarmed, which is exactly where this book has me.
+“The house was warm” landed all over again. Of course that is the detail she blurts out before she means to. Silk is spectacular; heat turned up hours earlier is care embedded in the room before she enters it. And Cassie understands immediately. Her “Oh, Vee” carries affection and apprehension together, which is exactly where I am.
+
+The gay joke is broad and a little tiresome, but Vee correcting “bodybuilder” to “powerlifter” while completely missing the point made me laugh despite myself. Mostly I’m left warm and frightened by how rapidly Pace is becoming evidence, to Vee, that she was always worth this degree of attention. That’s a gorgeous thing for someone to discover. It’s also an enormous amount of power for one secretive man to hold.
 
 GATE 18 — Turned Up
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 2
+CAPTURE: 8
+NEXT: 8
+HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: “Vee. Are you sure he's not gay?”
-WHY: This gave me the friendship conversation I’d been waiting for, and it let Vee become funny, proud, and consciously naughty inside her own desire. The shirt waiting on the pillow and the unfinished dress have me thoroughly caught—and the secret beneath all this tenderness is getting harder to bear.
+ALMOST-STOPPED: none
+WHY: The chapter gave me the conversation I’d been wanting: Vee and Cassie, funny and exact and tender, with Cassie neither puncturing the pleasure nor being dazzled out of noticing. I want the finished dress, but even more I want to know how long Vee can keep the most vulnerable part of that afternoon unspoken—and who she will eventually trust with it.

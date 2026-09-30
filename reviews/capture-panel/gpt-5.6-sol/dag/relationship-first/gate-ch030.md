@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch030 · gpt-5.6-sol · relationship-first · prompt-sha 4d4fde415301 · prose-sha f4bbb5872a6b · 2026-09-29*
+*capture-dag-v2-rich · gate ch030 · gpt-5.6-sol · relationship-first · prompt-sha c007a3a4585a · prose-sha f4bbb5872a6b · 2026-09-29*
 
 REACTION
 
-Oh, Randi. This is the first time her manipulation has felt less like a complicated byproduct of wanting Vee and more like possession.
+Oh, this is bad. Hot, yes—extremely—but bad in exactly the way I have been waiting for: Randi has begun treating Vee’s inner life as something she can carry between rooms, edit, schedule, and eroticize, while both she and Pace call that care.
 
-Vee did not cry in Randi’s room. She arrived wrecked and confessed and laughed and let herself be dressed, but she did not cry. That little alteration frightened me more than a large lie would have. Randi has taken charge of the meaning and timing of Vee’s apology, told Vee when she may go to Pace, then driven straight to Pace to tell him Vee will come when Randi has decided she will. “Give her a day” sounds caring from either side. From the middle, where Randi is secretly directing both of them, it sounds like stage management. Pace even notices that odd little assumption—“as if the day were his to give”—and then sets it down. Stop setting things down, Pace.
+“I wanted to keep her” went through me like a little knife. Because she does. She wants to keep Vee as friend, lover, discovery, gift to Pace, and proof of her own power to make someone legible. Then “Give her a day” made the whole chapter tilt. Randi has told Vee to wait a day and told Pace to give her a day, so each of them experiences the interval as private restraint when it is actually Randi’s arrangement. She has authored both sides of tomorrow night. And Pace notices the presumption—“as if the day were his to give”—but merely sets it beside the rest. He is so practiced at waiting for patterns to resolve that he can watch the machinery reveal itself and still not ask who is operating it.
 
-And then she spends Vee’s morning in his bed. The bra, the slow circuit around her, the hand under the skirt, the sound Vee hoped she hadn’t heard: those were intimacies Vee gave to Randi while believing she was safe with a female friend helping her prepare. Randi turns them into erotic material for Pace within hours. I was furious, and unfortunately it was hot. Randi finally says her desire without putting it inside a fictional man or pretending it belongs only to Pace: *I looked. I touched. I heard her.* That honesty between Randi and Pace is a real turn, but Vee is being made present in their bed without knowing she is in the room.
+The sex absolutely worked on me, which makes me angrier. Randi telling Pace about Vee in the bra and under the long skirt is the first time she has plainly used her own encounter with Vee as erotic material with him. Not an invented scarf, not a hypothetical, not Pace describing Vee while Randi rides him: this happened, Vee trusted her, and Randi brought the sound Vee hoped she hadn’t heard directly into Pace’s bed. “I heard it” is scorching and appalling. It is also the most honest Randi has been about wanting Vee. She isn’t outsourcing the desire to Pace anymore. She is excited by what she herself did, by Vee responding to her hands, and by making Pace feel it too. The three-person room is already happening; Vee is simply the only body absent from it.
 
-The table made my stomach drop. Of course Randi knows what is under it. Of course she has already been there. The sexual structure Pace is patiently leading Vee toward is not hypothetical; it is practiced, and Randi’s body carries the memory of it. Meanwhile Vee thinks she wandered into both these people by fortune. I wanted to text someone in all caps: THEY ARE REHEARSING HER ARRIVAL WHILE SHE IS HOME TYING RANDI’S SCARF.
+And Pace’s response matters. He knows it is Randi’s enjoyment, not merely the picture of Vee, that excites him. That felt like a genuine turn in their bond: he finally sees her wanting as hers and does not translate it away. But neither of them pauses over Vee’s ownership of the morning. Pace protects what Vee said to him at the bar as hers, yet accepts Randi’s intimate report of Vee half-undressed without a qualm. His ethics remain beautifully exact inside boundaries he chooses and strangely blank just beyond them.
 
-What gets me is that neither of them thinks of this as cruelty. Pace is genuinely glad Vee had Randi. Randi genuinely comforted her and genuinely wants her reconciliation to succeed. Pace protects the exact words Vee threw at him because he understands they are hers. Then he accepts Randi’s sexual report of Vee’s body without once asking whether that, too, might be Vee’s. Their tenderness is real; their ethics are appalling; the combination is much more compelling than either one alone.
+I cannot get over the shoes now. Vee left Randi’s room believing she had been lovingly prepared to make her own repair. Randi leaves that same room, drives straight to Pace, and turns the fitting into foreplay. Tomorrow Vee will walk into Pace’s house wearing Randi’s shoes and Randi’s scarf, on Randi’s timetable, believing that the presentation means only what she chose it to mean. The clothes are becoming a language spoken around her.
 
-I’m also noticing the repetition now: Randi rides Pace and narrates Vee until they come together. We have had this shape before. But this time the charge changed because Randi was no longer demanding that Pace supply Vee to her. She supplied Vee herself. That should feel like progress in Randi’s ability to own what she wants, and on one level it does. On another, she has simply become a more active thief.
-
-And poor Vee is preparing to walk into Pace’s house believing the clothes on her body express her own clear decision. The dress was made by Pace. The shoes and scarf were chosen by Randi. The timing was chosen by Randi. Her apology will still be hers—but God, they keep arranging the light around every choice and then admiring how freely she steps into it.
+The ending frightened me more than it soothed me. “She’s going to be so beautiful when she walks in. You wait.” Randi sounds tender, possessive, and like a director waiting for an entrance she has blocked herself. I need Vee to arrive, but I am almost afraid to watch her apologize while the two people receiving that apology know how thoroughly her supposedly private night has already been shared.
 
 GATE 30 — Space
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: “She rode him slow in the low lamplight”
-WHY: The familiar sexual choreography briefly made me fear the book was repeating itself, but Randi’s appropriation of Vee’s private morning changed its meaning completely. I need to see Vee arrive at that door—and whether anything in her can feel that the room has already been prepared without her.
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: The sex was genuinely hot, but “Give her a day” exposed how completely Randi is arranging both sides of Vee’s choices. I have to see Vee walk through that door in Randi’s shoes—and whether anything in the room tells her she is entering a scene already rehearsed without her.

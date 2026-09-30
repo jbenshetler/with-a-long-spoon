@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 8aff12752f2e · 2026-09-27*
+*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 41d61fc51e50 · 2026-09-29*
 
 REACTION
 
-Oh, no. The shoes made my stomach drop.
+Oh, Randi. She is absolutely gone, and the fact that the chapter gives it to me through eating undid me more than the sex did. Last time she carved a line through Pace’s food and left it untouched; this time she asks him to feed her, puts on his shirt, curls up at his table, and eats nearly everything. She stays down afterward. She stays in the bed afterward. She sleeps. For this woman, that is practically a declaration of love.
 
-For most of this chapter I was having exactly as much fun as Vee was. Randi in the dorm room, making everything look smaller and newly visible just by entering it. Vee choosing to put the dress on because she wants Randi to see her in it—not merely see the dress, see *her*. Randi going quiet before she speaks. Her fingers following the seam over Vee’s body. “He made it *to* you.” That is such an intimate piece of understanding to hand someone, and Randi knows exactly where to place it. Of course Vee keeps falling for her. I’m falling for her too, against my better judgment.
+“I keep waiting to get bored of her” is such a naked confession from someone who survives by making everything look disposable. Vee got past her defenses, and Randi can admit that much only while lying on Pace’s chest in the one place she sets herself down. I wanted to grab both of them when Pace said Vee talks about Randi, because these two are already carrying messages of love back and forth through the woman they are deceiving. It is tender and completely maddening.
 
-And the cheap shoe store was wonderful. Not glamorous, not orchestrated, just two women being absolute idiots together until Randi gives Vee the expensive, unguarded laugh. That may be the most convincing friendship beat they’ve had. Vee feeling like the funniest woman in Virginia made me ridiculously happy. For a little while I could almost forget that Randi entered this friendship already knowing where she wanted it to go.
+And Pace imagining Vee in his sheet and Randi in his shirt at the same table—yes, obviously, that is the shape all three of them want. But “I wanted to tell Vee. I could not, not yet” made my stomach tighten. No, sir. Not *could not*. Would not. He still believes patience inside the seduction compensates for keeping her outside the truth. The care is real, the dream is real, and the dishonesty is still real. That is exactly why I cannot relax.
 
-Then the foot in Randi’s hands. Good Lord. Pace held Vee’s bare foot to tend a blister; Randi holds it to admire what Vee did to make herself desirable. The thumb across the plum toenail, Vee grabbing her shoulder because the whole room tips, and Randi looking up with that silent smile—yes, that was hot. Not “girlfriends shopping” hot. Not remotely deniable anymore. Randi knows exactly what ran up Vee’s body, and she lets the knowledge sit between them without giving Vee language for it. Again.
+Randi going still when Pace describes how Vee brightens a room hurt. He is saying aloud what Randi sees too, but I heard jealousy there—not only jealousy of Vee being loved, but of Pace having language that tender for her. Then Randi turns the feeling sexual because that is the route she knows back to him. She uses her own naked body to show Pace what is hidden under Vee’s cardigan, and good God, that was hot: desire for Vee passing openly between them while neither of them names what Randi’s desire means.
 
-But the money. The money spoiled the sweetness on purpose, and I’m glad the book finally made the wound impossible to ignore. Randi watched Vee price a mimosa. She knows Vee shops clearance walls and does Thursday arithmetic. Maybe she didn’t literally see which card came out, but she brought Vee into a shop with no visible prices, chose the shoe, knelt at her feet, called Pace her lover, and turned buying it into what the dress was owed. Vee does not even permit herself to call the shoes a want. She converts them into an obligation so she can incur debt without admitting she has chosen something she cannot afford. That is frighteningly recognizable.
+What really has me is Pace recognizing that Randi is wanting out loud and “not able to stop it,” then deliberately leaving the rest for her to hold. That is his ethic again: he will not drag an admission out of her. It is respectful, and it is also becoming a gorgeous form of avoidance. Sometimes leaving someone a door means allowing her not to walk through it forever.
 
-And then Randi buys loafers costing several times as much without looking at the total. I wanted her to see Vee so badly, and she didn’t—or she saw and preferred not to interrupt the fantasy. That may be worse. She understands the exact shape of Vee’s desire but not the exact shape of her account. She can identify charmeuse by touch and miss white knuckles inches away.
+I would text a friend: Randi ate his food, wore his shirt, admitted she’s obsessed with Vee, got jealous when he described her like sunlight, fucked him while talking about Vee’s breasts, and then actually stayed asleep on him. The triangle is no longer a plan. It is already a relationship, except the person at its center still does not know it exists.
 
-The last laugh hurt because Vee thinks the afternoon proves she has finally found the friend she always wanted. It does prove there is real delight and affection here; Randi is not faking that laugh. But Vee is carrying debt against her chest while Randi carries a dress designed by Randi’s concealed boyfriend, and both beautiful things are pulling Vee further inside a world whose actual price only she is paying.
-
-I would text a friend: “The toe touch was obscene, the shoe purchase was a horror scene, and somehow they were the same scene.”
-
-GATE 26 — Sorority
+GATE 26 — Gone
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 2
+NEXT: 10
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The chapter gave me genuine female intimacy, unmistakable desire, and the first truly painful collision between Randi’s money and Vee’s need to belong. I need to know whether Randi ever notices what those shoes actually cost Vee—and whether Vee realizes she wanted Randi’s gaze almost as much as Pace’s.
+WHY: Randi finally let herself need food, warmth, Pace, and Vee in the same chapter, and it felt like watching a locked room open one inch. I need the moment Vee enters the domestic picture Pace just imagined—and I urgently need somebody to stop calling concealment patience.
