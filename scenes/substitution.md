@@ -208,7 +208,7 @@ What went through her at the glance made her want to fall through her seat — s
 
 She heard the *may.*
 
-She heard it the way you hear a word that does not belong to the room it has just been spoken in — a word from another vocabulary, a word her mother might use approvingly if she ever met this man, a word a man her age was not, in her experience, in possession of. *May I.* It was small and formal and not affected. It was, she understood, simply how he had asked. She had a fraction of a second to receive it and her body had already responded. She was nodding before her mouth caught up.
+She heard it the way you hear a word that does not belong to the room it has just been spoken in — a word from another vocabulary, a word her mother might use approvingly if she ever met this man, a word a man her age was not, in her experience, in possession of. *May I.* It was, she understood, simply how he had asked. She had a fraction of a second to receive it and her body had already responded. She was nodding before her mouth caught up.
 
 "Yes."
 

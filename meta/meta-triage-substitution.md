@@ -175,3 +175,11 @@ authorial decisions — do not re-flag these without new evidence.**
   for a plausible overhear — on the page, "He had a few steps to cover."
   "To the table, to nobody" names the addressee, not the volume. The overhear
   is plausible on first read; do not raise her volume or loosen his opener.
+
+## Line-editor pass (fable-5-1 whole-volume read, 2026-09-30)
+
+- **Fixed — "It was small and formal and not affected." cut** at the *May I* beat. The
+  line-editor flagged the paragraph's second gloss ("It was, she understood, simply how
+  he had asked" — *explains*, 0 of 162 other readers quoted it). Author ruling: cut the
+  *other* sentence — "small and formal and not affected" is the narrator's adjectives;
+  "she understood, simply how he had asked" is Vee's register and stays.

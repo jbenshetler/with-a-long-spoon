@@ -171,3 +171,11 @@ Cold: six models. Capture: 21 lanes through ch27. Records under
   people for a beat." Single reader; the three nights are built as a triangle
   (left / stayed cold / stayed warm). If varied, vary Gone's last movement, not
   {{Portion}}.
+
+## Line-editor pass (fable-5-1 whole-volume read, 2026-09-30)
+
+- **Fixed — the migrated-sentence gloss shortened.** "It was his sentence. She had kept
+  it exactly and handed it back to him in his own words, and he took that…" → "She had
+  handed him back exactly his own words, and he took that for what it was, that she had
+  come round to it." Line-editor flag (*explains*, 0 of 159 other readers quoted it);
+  author's wording.

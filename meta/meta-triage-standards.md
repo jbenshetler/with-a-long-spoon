@@ -41,3 +41,6 @@ cut from Brooke's third warmth. Durable rulings:
 
 - **Sloane connecting the white pickup to Pace** without on-page grounding —
   author ruling: fine as-is; reads as the-sisters-have-been-talking subtext.
+- **"The release was the cleanest hit."** — line-editor (fable-5-1, whole-volume
+  read 2026-09-30) tagged it *explains*; no other reader quoted it (0 of 162
+  files). Author ruling 2026-09-30: stands.

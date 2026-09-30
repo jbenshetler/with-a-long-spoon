@@ -189,6 +189,11 @@ the effect), so this was a trim, not a recolor.
   item 7) — the gap closes in rendered action (Randi dispatched, Pace
   relocating to the light pole); not a contradiction.
 
+- **"she had stopped being a good sport a quarter mile back. She was shopping."** —
+  line-editor (fable-5-1, whole-volume read 2026-09-30) tagged it
+  *told-after-shown*; no other reader quoted it (0 of 162 files). Author ruling
+  2026-09-30: stands — a designed line.
+
 ## Addendum — developmental pass (2026-09-26)
 
 Source: author + human-reader flag (bed→walk transition abrupt; implied Pace

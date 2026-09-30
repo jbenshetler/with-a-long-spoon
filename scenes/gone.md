@@ -40,7 +40,7 @@ She ate it. The chicken and every stalk of the asparagus, and the couscous to a 
 
 "She's not ready," Randi said. Not a question, and not the thing it had been a week ago. "You want her to get there on her own."
 
-It was his sentence. She had kept it exactly and handed it back to him in his own words, and he took that for what it was, that she had come round to it.
+She had handed him back exactly his own words, and he took that for what it was, that she had come round to it.
 
 "I like taking my time with her," he said.
 
