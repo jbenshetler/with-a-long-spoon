@@ -405,6 +405,21 @@ weight them below the others. Removed models' reads are not consulted
   rounds; Opus down-weighted; the cycle is Pace. Stands.
 - **Daphne paragraph "inserted / a tidy lesson"** — Opus 4.8 only, three
   rounds; Sol, GLM, Kimi, GPT-5.5 credit it as earned. Stands.
+  **2026-09-29, line-editor persona on fable-5-1** re-raised it as the
+  "pre-approved boyfriend" (the paragraph supplies the justification for the
+  not-knocking before the reader can judge it; "I haven't decided about Pace
+  and the book has"). Checked against the panel: the irony is *detected*, not
+  missed — capture lanes opus-4-8 consent-sensitive ("self-congratulation…
+  for half a second I worried the book agreed with him"), opus-5
+  romance-graduate ("*very* pleased with himself"), gemini consent-sensitive
+  ("self-satisfied benevolence… chilling precisely because he believes he's
+  being so purely good"), glm relationship-first ("respected the bathroom door
+  because of Daphne, and he's proud of himself for it"), glm romance-graduate
+  ("two people in the same bed with completely different evenings"); cold reads
+  opus-5 and kimi-k3 both land "quietly happy about her" as the cruelest beat.
+  Five lanes across four models plus two cold readers read the paragraph as
+  Pace's own framing, exposed. The "pre-approved" reading is the Claude-only
+  minority (opus-4-8 rounds 1–3, fable line-editor). Stands.
 - **"The orgasm was *hers*"** — Sol would rather feel it than be told; the
   2026-07-27 ruling stands (Pace free indirect).
 - **Pace's coda ("All he had done was find it, and answer it"; "quietly happy
