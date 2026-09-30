@@ -1,0 +1,51 @@
+*diagnostic seed (author ruling 2026-09-29): borrowed from claude-fable-5-1·relationship-first ck-ch010 for a ch14 chapter-alone comparison; not her own mint*
+
+*capture-dag-v2-rich · carry-forward ck-ch010 · claude-fable-5-1 · relationship-first · prompt-sha 3df693989b23 · 2026-09-27*
+
+WHO'S WHO
+
+Randi. Black hair, the blue eyes she's built a life on, the face with the permanent slight surprise. Sorority — sits on Standards, has the single room, the closet that runs bone to camel to oatmeal with one oxblood. Locks his front door first thing every time. Eats apples in thin slices because her mother lives on egg whites. Brought her own cashmere blanket to his house by week two because she gets cold there. Begged on the bench, cried without sobbing, and then stood at his bathroom mirror and decided he could have the face and the one he'd found was going back in — "not ever." That's who she is now, as far as I can tell: a woman who made that promise to a mirror and is keeping it by handing him a redhead.
+
+Pace. Small house off 614 where it goes to gravel, cheap laminate counters, quartersawn oak cabinet he built, a bench he built and hid under a table top. Math PhD, "more or less," young for it. Keeps the house too warm, Steely Dan always going low. Backs off at the door and lets her lean in. Reads women's bodies like scripture and is very sure. Was wrong about Randi after the bench and didn't know it. Once went through a door Daphne built and it cost him. Feeds people — apple, cheeseburger offered, froyo, the whole Lebanese table. "Let's go feed you." I don't know yet whether feeding is him or a technique. The book's answer seems to be: yes.
+
+Vee. Vivienne Thorne. Tall, lush, red hair that goes copper in wind, freckles, the body that "gave her nowhere to hide," covered to the collarbone over the better shirt. Econ, likes applied math, the structure under the numbers. Synchronized swimmer at sixteen, still knows the scull. Her mother lives in her mouth saying *floozies* and *that's plenty*. Reads every room like a ledger. Starving in a way that's older than lunch. Hasn't let herself notice a thing about Randi, and I'm watching her not notice.
+
+Cassie. Vee's roommate. Ball cap, boxy, four words a day, feet don't reach the floor from her chair, keeps the window cracked two inches. Said "Cassie," flat, and didn't take Randi's bit. Said "Goodbye, Vee." Said "great-aunt." Said "That's not a boy, that's a man." The only person at any table who doesn't want anything from Vee. Kept the tosser joke for her instead of throwing it up into the bleachers.
+
+Brooke. Chapter president. Warm voice like a perfume. Didn't stand up. Asked "you're not in one of his sections, are you" and I heard the knife. Sloane, Kinsey: the laughs Randi had to match at their pitch.
+
+Christine. Runs the restaurant. Eased when she saw who'd walked in. Said something at the door that made him duck his head. I want to know what.
+
+WHERE THINGS STAND
+
+He put Randi on the bench and got the real please out of her and she came back out of the bathroom with the face on. He didn't see. Then in bed he asked, with him inside her, whether she'd like to taste another woman, and she came on the question. "Only in a threesome. With you." They walked the quad and he pointed and she picked — passed on the mirror-girls, the matched pairs, the one who ran the room — and then Vee came out of the dining hall laughing with her throat to the sky and Randi said "Yes" with nothing around it and walked over and let herself be walked into. "Do you think she'll like the bench?"
+
+Randi sat next to Vee in stats. Chi Latte, the high table, the lavender thing, *love you, girl, see you later*. Vee can't remember a word of it. Then the coffee shop on Wilson — Randi texting under the table, Pace walking in, the pencil handed back, Euler's, "you already know every piece of this." Bessel's correction and the great-aunt answer. He left without his coffee because there never was one. Froyo the same day, the leaning cup, no mother's voice, "your tart's holding up." He went home and told it to Randi on the couch with the wine in her mouth. Kept back the one true thing she'd said. Dinner Saturday at Christine's — may I choose, the bread hot and last, Vee eating without watching herself, mint tea in brass cages, his hand, the tree, "I'm making an exception." Hiking next, out past the gravel, in borrowed real shoes.
+
+Vee knows "off six-fourteen." Randi knows the deadbolt.
+
+HOW I FEEL ABOUT EACH OF THEM
+
+Randi — I'm on her side and I don't trust her, and both are getting stronger. I've seen her laugh at Kinsey's pitch because she didn't have time to choose her own; I've seen her cup go up and down twice with no sip while he read Vee like a page. She's grieving something at that table and I don't think she's got a word for it either. When she went still on his lap at "she's easy to listen to," Pace read it as wanting held harder. I think it's that he *listened* to Vee for an afternoon and Randi has made sure he never gets to listen to her. That's my bet. If the book agrees with him instead of me, I'll be furious, and I won't know for chapters.
+
+Pace — I like him more since he was wrong. He's not the omniscient dom the register keeps flirting with; he misread the woman he loves and held her, quietly happy, not knowing. He's good at this, unbearably, and the goodness and the machine are the same motion — back off, let her lean in, leave the last inch — with Randi at the door and with Vee under the tree. The narration is too fond of him. "He usually did" was the book stepping half an inch away, and I'm holding onto that half inch.
+
+Vee — I'm ahead of her and I hate the seat and I'm not getting up. "Nobody did anything to me. I did it because I wanted to and I did it on purpose." Every word true, and I felt sick hearing her say it into a room where nobody's told her there's a game.
+
+Cassie — I love her and I'm suspicious of how easily the book got me to. If she's right about everything and never wrong, I'll start feeling steered. And I know she's going to lose, because Randi's warmth goes to the whole room and Cassie's goes to one person, and Vee is going to choose the warmth that comes *back* to her from the queen. I would have. That's why it hurts.
+
+Who owes whom: Pace owes Randi a listening she won't let him give. Randi owes Vee the truth and is paying her in lattes. Vee owes Cassie nothing and Cassie knows it and stays anyway. Nobody owes me anything except the nights, and so far they've been worth it.
+
+WHAT I'M CARRYING
+
+Apple slices cut-side up because she eats faster that way, and him sorry about the calculation behind her face. His wet fingers flat on her spine — her own heat, returned to her in the wrong place. Tears crossing the bridge of her nose to pool on the leather. The bottle cap pressed under her thumbnail where it would hurt, not knowing she's doing it. The lock on his bathroom door, a thing she'd never done. The deadbolt as an image for a decision. "He's hard to say no to," heard twice, once in a key she can't sing in. Brooke not standing. The laugh at Kinsey's pitch. Coming on the question. "Too expected." The kiss in front of the library with her own taste on his mouth. The shoulder-check where the redhead apologized. "Do you think she'll like the bench?" Χ ΛΑΤΕ — funny once you're allowed in on it. The blank transcript. "Goodbye, Vee." The cup up and down, no sip. The pencil given back at the exact line. "Tell." Him not pouring his own glass. The navy suit that insulted her family. Cassie in the shallow end, standing, like a person. The scull her hands still know, and "grieved, a little." The cup that got away from her and the mother's voice that didn't come. Bread last and hot. Brass cages. "That's the whole address." A girl spinning in a room too small to spin in, and the cold line coming in over both of them, and she didn't feel it.
+
+WHAT I'M WAITING FOR
+
+Vee's eyes on the laminate counters. What the bench looks like with the top on when she walks past it. The hike, the shoes, whether the house goes into the pile of things she gets to find out. Randi alone in her single room thinking about a redhead — I've been asking since chapter 3 and haven't been given it. What Randi and Vee say when neither man nor Cassie is there; the "lunches too intimate to name" the jacket promised. Whether the book has the nerve to make Cassie wrong about something before it spends her. Whether "she's easy to listen to" was what I think it was. Whether feeding is a technique or a man. What Christine said at the door. When Vee's mother's voice comes back, because it will. The moment Vee notices what she wants from Randi — or the moment she doesn't, and the book lets me watch it go by her. The first time the three of them are in a room and Randi has to hold the top.
+
+And the dread under all of it: that Randi is going to watch it happen to someone else and that watching is the whole point, and that the book knows more than it's telling and that the telling, when it comes, will be about her and not about him.
+
+WHAT'S FADING
+
+Chapter 1's mirror monologue — I know it ran long and explained the bottle cap, but the sentences themselves are gone; what stays is the cap and the lock. The quad girls: I couldn't tell you now which one wore lavender and which sage, or what the blazer girl looked like, only that there was a beanie on the library steps and Randi looked longest at her before Vee. The parking-ticket story Randi told — I never had it, Vee never had it. Most of the actual bench choreography — the pairs of strikes, the heel buckles — is a blur of walnut and leather and waiting; the order doesn't matter to me and I've let it go. What Pace and Vee talked about at froyo and at dinner: blank, twice, and I resent that the book gave me nothing there to lose. The dishes' names — I had them on the page and don't now, which is maybe the point. Brooke's exact sequence of questions is dissolving into one warm voice and a knife. The dance-metaphor pair, the "small" tic, the six "the way"s — I noticed them all and the noticing is fading faster than the irritation. And Daphne — one paragraph, a door he went through. I keep forgetting she exists until I go looking for a reason to trust him, and then there she is, like a reference letter.

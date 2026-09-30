@@ -1,0 +1,38 @@
+*capture-dag-v2-rich · gate ch030 · claude-fable-5-1 · line-editor · prompt-sha ad3a137331d2 · prose-sha f4bbb5872a6b · 2026-09-29*
+
+REACTION
+
+He was in the shop, on a Friday, with nobody coming, and the shavings had climbed to his shoulders, and I thought: oh — this is the single room. Not hers. His. The book has refused me Randi alone for twenty-seven chapters and instead it hands me Pace alone, truing tenons till the joint goes home under hand pressure and stays, and I'd have taken a whole chapter of that. Then the engine. "That was not a sound that belonged to a Friday." Friday is Vee's. She took it the way she takes a menu, left side only, and she came through the door pleased and let it show, and he clocked that it was the first time and "did not ask it anything," and I wanted to reach in and ask it for him. Because I know why she's pleased. She's pleased because a girl stood on her rug in black lace and let her walk all the way around. She's pleased because of the knee. She came to his house glowing off Vee and he read it as glowing at him, and the book let me be the only one in the house who knew, again, and that is the thing this book does to me that I keep coming back for.
+
+His own music was on. A trumpet over brushes, and "he did not think to change it and it did not occur to him that he might." The stew night he'd put on the synth thing she liked; last time it was her Sade under the door. Now it's his and he doesn't reach for hers. Quietest sentence in the chapter and I think it's the one that tells me where they've got to. He's stopped arranging the house around her. She's started staying down. They've swapped places and nobody said so.
+
+Then she told him about the morning and I sat up, because I was in that room yesterday and Vee did not cry. She pressed the heels of her hands into her eyes. That isn't crying. So either Randi is improving the story — a made-up sentence inside a true one, the mirror of what she does at lunch — or the author lost the thread between chapters, and I genuinely can't tell, and I resent not being able to. I'm going with Randi. "I wanted to keep her" is the truest thing she says all night and it comes right on the heels of the lie, which is her method. And she never tells him it was *her* who said not today, tomorrow, a whole day so it reads like something you chose. She hands him "Give her a day" like weather. He catches the edge of it — "as if the day were his to give" — and sets it down beside the rest, and I've stopped counting the pile beside his rest. She told Vee he wouldn't text. Last paragraph: he won't text, "It was only what he was." She has him to the letter. She has everyone to the letter. She's holding both ends of tomorrow night and neither end knows the other's in her hand.
+
+The table. Her hand flat on it and "it was not the look you give a table" — I flinched at the pointing for half a second and then the next paragraph paid it and I forgave it outright. So that's the bench. Not the riser — I've been asking about the riser for ten chapters and the book answered a different question, which is its habit — but the long low thing Vee crouched and put her fingers on the joint of, and Randi's been on it facedown at three weeks in saying please, and Vee has no idea what's under the top whose joinery she admired. That's the kind of knowing I read for. "Patience, paying attention." It's been sitting under a lid the whole time.
+
+And then the sex, which is the best sex in the book and not because of anything anyone does with their body. She pulls him off her before she goes — "Not like that. Not yet" — because she wants to come *telling*. She sits down onto him and says "I had her standing in my room this morning. In her bra." And what fires him isn't the picture, it's Randi enjoying the telling, and the book says so in a sentence I didn't need because her body had said it two sentences earlier — fine. Then: "She made a sound and hoped I didn't hear it." I had that from Vee's side yesterday — "did something she hoped wasn't out loud" — and here's the answer from the other room, in bed, wine still in her mouth. "I heard it." That's the whole book in three words. Everyone in it is hoping nobody heard and Randi hears everything, and now I know she was cataloguing while she knelt under that skirt. It should have made me cold. It made me hot and then cold, in that order, which is the order this book prefers.
+
+What cooled me a degree: "The tit goddess was generous with that girl." I know it's her register — she said shoe whore yesterday and meant it as a kiss — but it landed like a line that wanted to be crude and hot and managed only crude. Half a second. Then the blue toes clawed into the cotton, "the only color on the bed," and I remembered when the blue was "the last composed thing left of her," and here it's not composed at all. A sentence keeping a promise another chapter made. I'll take that trade.
+
+The after is the tender part and it's pointed at someone who isn't there. She stays down. His hand in her hair. "Give her a day," half asleep, and then — "She's going to be so beautiful when she walks in. You wait." She *dressed* that girl. Her shoes, her scarf, her ruling on the neckline. She's telling him to wait for a thing she built, in his bed, on Vee's Friday, and he lies there thinking Vee will come or she won't. Vee walks into his house tomorrow on her own nerve in the shoes of the woman who was under him tonight describing her knee. What I'd text at 1 a.m.: *she wears a seven. same feet. she called it practically a marriage and I laughed.*
+
+I'm worried for exactly one person and it isn't the one crying in the retelling. He kept Vee's words — "those were his, and that was Vee's," same as the stew night — and it protects nothing, because Randi had them first. His discretion is a door in a house with no walls. And he's happy. That's the terrible part. Everyone in that bed is happy.
+
+NOTES
+- "She made a sound and hoped I didn't hear it." — repeat — ch29 "Vee's breath did something she hoped wasn't out loud"; the book answering from the other room, the best repeat it's made
+- "She cried." — other — Vee didn't, I was there; Randi editing or the author slipping and I can't tell which
+- "Her hand stayed flat on the surface, and she looked at it, and it was not the look you give a table." — editorial — the finger points, but the next paragraph pays it
+- "the blue lacquer on them was the only color on the bed" — repeat — ch26 "the blue on her toes the last composed thing left of her"; now clawed, uncomposed, earned
+- "The chill took her, as it did" — repeat — ch23 "The chill took her, as it did, and she slid off him"; ch26 "the chill took her fast"; third time, it's a clock now
+- "The tit goddess was generous with that girl." — reach — Randi's mouth or the author's, either way it cost a degree
+- "and it fired him, and he let it" — explains — her body had already told me; also inverts ch26 "that was hers to hold"
+- "That was not a thing he had decided. It was only what he was." — told-after-shown — Randi already said it for him in ch29, "he doesn't sulk... waits to see what you walk in wearing"
+
+GATE 30 — Space
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "The tit goddess was generous with that girl."
+WHY: The withholding showed its shape tonight — the bench, the heard sound, the lie inside the true story — and the book proved it's been keeping a ledger I only suspected. Tomorrow a girl walks through a door in another woman's shoes believing it's her own nerve, and I'm already on the step with her.
