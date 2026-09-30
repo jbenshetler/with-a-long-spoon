@@ -65,14 +65,14 @@ def volume_span() -> tuple[int, str, str]:
 
 def system_prompt(persona: str, core_file: str = "core.md") -> tuple[str, str]:
     core = (PANEL_ROOT / "prompts" / core_file).read_text(encoding="utf-8")
-    if core_file == "core-volume.md":
+    if core_file in ("core-volume.md", "core-line-volume.md"):
         core = core.replace("<<N>>", str(volume_span()[0]))
     pers = (PANEL_ROOT / "personas" / f"{persona}.md").read_text(encoding="utf-8")
     text = core.rstrip() + "\n\n" + pers.strip() + "\n"
     return text, hashlib.sha256(text.encode()).hexdigest()[:12]
 
 
-def volume_user_prompt() -> str:
+def volume_user_prompt(line: bool = False) -> str:
     """Jacket + all drafted Volume One chapters (volume mode is jacket-arm by design)."""
     jacket = checkpoint_bundle.jacket_packet()
     if not jacket:
@@ -83,8 +83,13 @@ def volume_user_prompt() -> str:
         title = checkpoint_bundle.display_title(slug)
         body = checkpoint_bundle.clean_scene_text(slug)
         parts.append(f"===== CHAPTER {i}: {title} =====\n\n{body}\n")
-    parts.append("===== END OF VOLUME ONE =====\n\nBegin. Gate after each "
-                 "chapter, decade journals and verdict exactly per your instructions.")
+    if line:
+        parts.append("===== END OF VOLUME ONE =====\n\nBegin. One CHAPTER block per "
+                     "chapter in order, then ACROSS THE VOLUME and VERDICT, exactly per "
+                     "your instructions.")
+    else:
+        parts.append("===== END OF VOLUME ONE =====\n\nBegin. Gate after each "
+                     "chapter, decade journals and verdict exactly per your instructions.")
     return "\n".join(parts)
 
 
@@ -174,6 +179,10 @@ def validate(text: str, label: str, arm: str = "") -> str:
         if "T3" not in t:
             raise RuntimeError(f"malformed interview for {label}: no T3")
         return t
+    if "line-editor" in label:
+        if "CHAPTER 1 " not in t.upper() or "ACROSS THE VOLUME" not in t.upper():
+            raise RuntimeError(f"malformed line-editor volume read for {label}")
+        return t
     if "GATE 1" not in t.upper().replace("GATE  ", "GATE "):
         raise RuntimeError(f"malformed read for {label}: no GATE 1")
     if "VERDICT" not in t.upper() and "STOP" not in t.upper():
@@ -258,8 +267,12 @@ def main() -> None:
         prompts = {p: system_prompt(p, "funnel.md") for p in personas}
         user = None  # per-(model,persona), built lazily from the volume record
     elif args.volume:
-        prompts = {p: system_prompt(p, "core-volume.md") for p in personas}
+        # line-editor reads the volume through her own frame (author ruling 2026-09-29):
+        # per-chapter NOTES + ACROSS THE VOLUME, no gates.
+        prompts = {p: system_prompt(p, "core-line-volume.md" if p == "line-editor"
+                                    else "core-volume.md") for p in personas}
         user = {arms[0]: volume_user_prompt()}
+        user["volume:line"] = volume_user_prompt(line=True)
     else:
         prompts = {p: system_prompt(p) for p in personas}
         user = {a: user_prompt(a) for a in arms}
@@ -276,6 +289,8 @@ def main() -> None:
     task_set = set(tasks)
 
     def get_user(m, p, a):
+        if a == "volume" and p == "line-editor":
+            return user["volume:line"]
         if a == "volume-interview":
             return interview_user_prompt(m, p)
         if a == "volume-dag-interview":

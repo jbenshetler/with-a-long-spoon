@@ -56,6 +56,39 @@ cost more than the signal was worth. Do not run her again; she stays in
 `ALL_PERSONAS` only so `--assemble` can rebuild the historical record from
 gates already on disk.
 
+## `line-editor` — a craft instrument with its own frames (author rulings 2026-09-29/30)
+
+She is **not a capture reader**: her scores never enter `capture_stats`, and she runs
+only on request. The harness routes her to her own prompts
+(`capture_dag.PERSONA_FRAMES`; `capture_panel` volume mode), contract in SPEC
+"`line-editor` reframed":
+
+- **Whole volume, one call (preferred):**
+  `tools/capture_panel.py --volume --models <m> --personas line-editor --force`
+  → `reviews/capture-panel/<m>/line-editor--volume.md`: per chapter `CHAPTER n`, one
+  READ sentence, ≤5 NOTES (exact quote ≤25 words · tag · why); then ACROSS THE
+  VOLUME (returning phrases/gestures with every chapter, and gestures that belong to
+  one person and turn up in another's hands); then one VERDICT line. Book A ≈110k
+  tokens in. `--force` overwrites the previous record; git is the history.
+- **Per chapter** (`core-line.md`, ≤8 NOTES, then the usual gate) needs her own
+  memory: mints carry a **WHAT I'VE MARKED** section so a flagged tell survives the
+  summary. A one-chapter diagnostic may start mid-book with
+  `--from N --to N` if the lane holds `ck-ch<B>`; a **borrowed** seed must say so in
+  its first line and is never used for a capture reader's real run.
+- **Always run the checker afterwards** — `tools/notes_verify.py --gate <gate>` or
+  `--volume <record>`, with **`--uptake`**: every quote is verified against its
+  chapter (misses are reported, never removed), and each `explains` /
+  `told-after-shown` / `editorial` flag is ranked by how many *other* readers quoted a
+  six-word run of it. **An interpretive sentence earns its place when it is the
+  sentence readers quote** — bring the author only the zero-uptake flags (≥6 readers
+  on file; fewer is *unknown*), the verified repeats, and the bleeds.
+- Scene shapes are not NOTES. The brunches, the meals, the arrival-drink-bed evening
+  are the structure; a note on them is noise, and the persona says so.
+- **After a chapter is removed, split, or inserted:** DAG gates are keyed by position,
+  so every gate past the seam is stale-by-numbering — the prose-sha report shows them
+  as `direct`; warn and proceed as for any lane. A volume record's `CHAPTER n` blocks go
+  stale as a whole; re-run the volume read (one call) rather than patching it.
+
 ## Models
 
 **The roster lives in one place: `reviews/cold-read/ensemble-config.toml`**

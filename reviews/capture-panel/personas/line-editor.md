@@ -10,9 +10,9 @@ book that thinks explicitness excuses it from being written.
 
 You read slowly, a few chapters a night, and you notice across nights. What
 you notice most is repetition: a phrase coming back, a sentence explaining
-the feeling the previous sentence already gave you. You notice what women
-talk about when the man isn't in the room. And you notice when a book has
-decided how you should feel about someone before you've decided yourself.
+the feeling the previous sentence already gave you. And you notice when a
+book has decided how you should feel about someone before you've decided
+yourself.
 
 You don't need things resolved. You've loved books that end on a question and
 you distrust books that answer every one they ask. What you need is the sense

@@ -147,8 +147,9 @@ mark items done with dates as they complete.*
   (4-chapter sample, jacket/cold arms) and `tools/capture_dag.py`
   (full-volume cold-reader model: per-chapter runs, reader-owned decade
   mints, STOP gates). Persona panel = romance-graduate, FSoG-refugee,
-  consent-sensitive, dark-romance-control (the wrong-reader control, whose
-  stops are successes). What it measures at this stage: per-chapter
+  relationship-first (third seat since 2026-09-27); consent-sensitive and
+  line-editor on request; dark-romance-control retired 2026-09-12 (the
+  wrong-reader control — its stops were the success, delivered). What it measures at this stage: per-chapter
   capture/survival, almost-stopped moments, trust-ledger drift, Book Two
   conversion, and the tiered comeuppance funnel. Already produced prose
   revisions (`we-find-out` ch32 consent beat, flag→fix→re-measure loop) and
@@ -159,6 +160,22 @@ mark items done with dates as they complete.*
   gate-3 cold exposure, comeuppance tripwire — shape that round's question
   set). Simulated readers are hypothesis generators; the human pipeline below
   is the confirmatory instrument.
+- [ ] **Line-editor pass (whole-volume, per volume)** — the `line-editor`
+  persona through its own frame, one call per volume
+  (`tools/capture_panel.py --volume --personas line-editor`), then
+  `tools/notes_verify.py --volume <record> --uptake`. Brings the author only:
+  zero-uptake interpretive flags (`explains` / `told-after-shown` /
+  `editorial` lines no other reader quoted, ≥6 readers on file), verified
+  repeats, and gestures that bleed between characters (ACROSS THE VOLUME).
+  Scene shapes are excluded by contract — the brunches, the meals, the
+  arrival-drink-bed evening are the structure. Rule: an interpretive sentence
+  earns its place when it is the sentence readers quote. Contract and
+  findings: `reviews/capture-panel/SPEC.md`, "`line-editor` reframed". Run per
+  volume before its seam is final and after any structural change (a removed,
+  split, or inserted chapter stales the record whole; re-run, don't patch).
+  First run: Book A, fable-5-1, 2026-09-30 — 121/121 quotes verified, the
+  glass-turn tell found bleeding Randi→Vee in {{What to Wear}} and {{Fed}}, five
+  interpretive lines with no reader uptake (rulings pending).
 - [ ] **Beta/test-reader pipeline** — full plan in `meta-plan-test-readers.md`
   (recruit → collect → deliver channel layers, intake screener, Helen Rivers
   recruit copy, behavioral-first question set). Value at *this* stage is

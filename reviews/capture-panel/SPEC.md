@@ -898,3 +898,68 @@ seduction of Vee; the brunches are designed seduction and are not to be steered
 toward other subjects. The persona now says nothing about subject: texture
 (paragraph one) and repetition are what she notices. `line-editor` keeps the
 2026-09-27 text unchanged, sentence included.
+
+## `line-editor` reframed: NOTES, whole-volume reads, quote verification, reader uptake (author rulings 2026-09-29/30)
+
+**Why.** Two persona edits I made had taught the capture readers to track *scene shape*
+(romance-graduate's 09-27 "a shape coming back … started to rely on it"; relationship-first's
+09-28 "a scene you have already been given"), and the opus and fable lanes began spending
+paragraphs on the book's designed staging — the brunches, the meals, the arrival-drink-bed
+evening. That is the structure; it is not being changed. Both sentences were removed and the
+83 tainted gates re-read (2026-09-29). The `line-editor` was then rebuilt so her catches are
+*lines*, verifiable, and weighed against the readers the book is for.
+
+1. **Persona.** `line-editor.md` loses "You notice what women talk about when the man isn't
+   in the room" (it produced a Bechdel ledger on a one-woman chapter). She keeps the
+   told-after-shown and editorializing detectors.
+2. **Her own frames** (`capture_dag.PERSONA_FRAMES`, `capture_panel` volume mode):
+   - `core-line.md` (per chapter): the critic prohibition is lifted to "a reader who notices
+     the sentences"; a **NOTES** block sits between REACTION and the gate — up to eight
+     lines, each an *exact quote of ≤25 words*, one tag from `repeat · told-after-shown ·
+     explains · triad · filter · editorial · reach · other`, one clause of why. A *repeat*
+     may point back to an earlier chapter, naming it and quoting the earlier line. **Scene
+     shapes are not NOTES** ("a returning kind of scene is the book's business").
+   - `core-line-mint.md`: her carry-forward gains a seventh heading, **WHAT I'VE MARKED**
+     (quoted lines and gestures, with whose they were), so a flagged tell can live in
+     summary memory. Ruling: the tell must live in summary memory to be caught.
+   - `core-line-volume.md` (whole volume, one call): per chapter `CHAPTER n — title`, one
+     READ sentence, up to five NOTES; then **ACROSS THE VOLUME** — phrases/gestures that
+     return (every chapter, whose) and gestures that *belong to one person and turn up in
+     another's hands*; then one VERDICT line. No gates: she is not a capture reader and her
+     numbers never enter `capture_stats`.
+3. **Quote verification is mandatory** — `tools/notes_verify.py --gate <gate>` /
+   `--volume <record>`: every NOTES quote is a normalized substring of its chapter (italics,
+   curly quotes and dashes stripped; an ellipsis splits the quote into fragments that must
+   all appear); a miss walks back through earlier chapters; ACROSS THE VOLUME claims are
+   checked per named chapter, using the parenthetical variant quoted for that chapter when
+   she gives one. Misses are reported, never removed: the paraphrase rate is a finding about
+   the instrument. (A false "misquote" call by the assistant on The Bench's mirror triad —
+   the words were on the page, italicised — is what made this mechanical.)
+4. **Reader uptake rule** (`--uptake`). For every flag tagged `explains`,
+   `told-after-shown` or `editorial`, count the other readers' files (cold reads, capture
+   gates, whole-volume records; never the line-editor's own) that quote a six-word run of
+   the line, over the files that covered that chapter. **An interpretive sentence earns its
+   place when it is the sentence readers quote.** Zero uptake with ≥6 readers on file
+   surfaces the flag for the author; fewer than six reads as *unknown*, not zero. The
+   author's finding behind this: top-selling romance is simpler prose with interpretation
+   built in; pleasure readers read fast and keep the line that names what they felt. First
+   run over Book A (fable-5-1, 2026-09-30): 34 of 39 interpretive flags were quoted by other
+   readers (the most-quoted 53 of 162 files); five had no uptake.
+5. **Diagnostics allowed.** `capture_dag.py --from N --to N` starts a lane at a chapter; the
+   boundary checkpoint below it must exist. For a one-chapter diagnostic it may be
+   **borrowed** from the same model's parent persona and must say so in its first line
+   (`claude-fable-5-1/dag/line-editor/ck-ch010.md`, `ck-ch020.md`). Borrowed memory is
+   never used for a capture reader's real run.
+
+**Findings from the first runs (fable-5-1, low effort).** Whole-volume Book A: 121/121
+per-chapter quotes verified; ACROSS THE VOLUME 95/97 chapter attributions correct (two
+wrong: perfume in Tannin, the lamp in Dear); the glass-turn tell found bleeding from Randi
+to Vee inside Book A (What to Wear, Fed) where a regex sweep had found only the November
+instances. Attention is flat by position (~200 words per chapter block; the dips are the
+short chapters); the chapter-alone read of ch14 found two sentence-level items the
+volume block did not, and the volume block stopped at exactly its five-note cap, so the
+difference is the cap, not the middle. Chapter-alone ch30 (borrowed ck-ch020): the
+"She cried" continuity catch — Vee does not cry in Broken In; Randi's account in Space
+says she did (ruling pending). Whole-volume tokens: Book A ≈110k in, ≈9k out, one call;
+per-chapter with raw-all memory would be 1.6M per lane for Book A and 5.9M for A+B, so
+per-chapter reading keeps minting and whole-volume reading needs none below ~400k tokens.

@@ -81,6 +81,12 @@ def boundary(n: int) -> int:
     return ((n - 1) // DECADE) * DECADE
 
 
+# Personas that read through their own frame (author ruling 2026-09-29): the
+# line-editor keeps the reader voice but adds a verbatim NOTES block and a
+# WHAT I'VE MARKED section in her mint, so a flagged line can live in summary memory.
+PERSONA_FRAMES = {"line-editor": ("core-line.md", "core-line-mint.md")}
+
+
 def sysprompt(persona: str, frame: str) -> tuple[str, str]:
     core = (PANEL_ROOT / "prompts" / frame).read_text(encoding="utf-8")
     pers = (PANEL_ROOT / "personas" / f"{persona}.md").read_text(encoding="utf-8")
@@ -284,7 +290,7 @@ def write_doc(path: Path, header: str, body: str) -> None:
 
 
 def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
-               fresh: int | None = None) -> str:
+               fresh: int | None = None, start: int = 1) -> str:
     """Sequential chapters 1..to_n with decade mints. agent_fn(system, prompt, label).
 
     `fresh` names a single chapter whose existing gate (and decade mint, if it
@@ -293,9 +299,15 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
     whole range 1..to_n, so a blanket refresh would re-read the entire book."""
     d = dag_dir(model_id, persona)
     stopped = d / "STOPPED"
-    read_sys, read_sha = sysprompt(persona, "core-chapter.md")
-    mint_sys, mint_sha = sysprompt(persona, "core-mint.md")
-    for n in range(1, to_n + 1):
+    read_frame, mint_frame = PERSONA_FRAMES.get(persona, ("core-chapter.md", "core-mint.md"))
+    read_sys, read_sha = sysprompt(persona, read_frame)
+    mint_sys, mint_sha = sysprompt(persona, mint_frame)
+    if start > 1:
+        b0 = boundary(start)
+        if b0 and not ck_path(d, b0).exists():
+            return (f"{model_id}·{persona}: --from {start} needs ck-ch{b0:03d} in {d} "
+                    "(a diagnostic start borrows or pre-mints it; nothing was read)")
+    for n in range(start, to_n + 1):
         if stopped.exists():
             return f"{model_id}·{persona}: stopped earlier"
         gp = gate_path(d, n)
@@ -402,6 +414,9 @@ def main() -> None:
     ap.add_argument("--allow-retired", action="store_true",
                     help="permit a model listed in [capture].retired (an explicit author request)")
     ap.add_argument("--personas", nargs="*", default=PERSONAS, choices=ALL_PERSONAS)
+    ap.add_argument("--from", dest="start", type=int, default=1,
+                    help="diagnostic: start the sequential read at this chapter instead of 1; "
+                         "the lane must already hold the boundary checkpoint below it")
     ap.add_argument("--to", type=int, default=N_CH)
     ap.add_argument("--effort", default="low")
     ap.add_argument("--assemble", action="store_true")
@@ -455,7 +470,8 @@ def main() -> None:
         fn, close = make_agent(m, args.effort)
         try:
             results.append(run_reader(m, p, fn, args.to,
-                                      args.to if args.fresh else None))
+                                      args.to if args.fresh else None,
+                                      start=args.start))
         except Exception as e:  # noqa: BLE001
             failures.append(f"{m}·{p}: {e}")
             print(f"  FAIL {m}·{p}: {e}", flush=True)
