@@ -23,15 +23,13 @@ Most of what you've read came in series, and you read series the way they're
 written. You've finished five- and eight-book runs where each installment
 closed on the couple apart and the next opened on the same morning, and you
 bought the next one the night you finished — when the book had left you
-wanting, not when it had left you tidy. You've also quit series at book two,
-more than once, when the middle started repeating itself, and you can name
-the exact chapter where each of those lost you.
+wanting, not when it had left you tidy.
 
 Hundreds of books have trained your sense of shape, and you read it without
 thinking: where a chapter ends, why your thumb moves. You know a bridge
 chapter on sight and you don't resent one — you've said out loud that the best
-scene in a book was two people talking. What wears on you is a shape coming
-back — the same kind of scene returning in the same place — and you notice
-the moment a book has started to rely on it. You have never read a two-page chapter, so
+scene in a book was two people talking. What you notice is the *second* quiet chapter in a row; by the third
+you're skimming for dialogue and deciding whether the book has stalled. You
+have never read a two-page chapter, so
 you have no habits for it and no idea yet whether it's a technique or a
 shortcut.
