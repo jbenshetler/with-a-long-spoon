@@ -1,17 +1,24 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~b727880313ed · 2026-09-11*
+*capture-dag-v2-rich · gate ch022 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8429b6ba440f · 2026-10-01*
 
-REACTION — Oh, I loved this quieter little hinge of a chapter more than I expected to. It’s not a big sex chapter after “Peekaboo,” but it’s still humming from it, like Vee has walked into the day with his hands still on her. The whole “late to everything and it didn’t bother her a whit” feeling is so right after a night that has rearranged your private weather. She is not performing happiness. She is leaking it.
+REACTION —
 
-Cassie got me here. My heart did that little clutch when Vee realizes Cassie hasn’t been listening to the lecture at all, because Cassie doesn’t care about the dress, she cares about *Vee*. That is such a clean kind of love. Not dazzled by silk, not seduced by the myth, just watching her friend’s face and checking whether this man and this whole situation have left her glowing or hurt. “Was it a good night?” almost undid me. That’s the question from the one person who isn’t trying to use the story for heat.
+Oh, this chapter knew exactly where to press.
 
-Randi, though. God. “You lucky slut” is exactly the kind of thing that can be hot in the right mouth and dangerous in the wrong timing, and here it did both. It hits Vee’s body because Vee *is* feeling deliciously used and sore and transformed, but it also reminds me that Randi has such an instinct for where the seam is. She finds the exposed place instantly: the shoes. The incompletion. The next door. And then she turns it into a date before Vee can even breathe around it. “Don’t you dare tell me no” is flirtatious, yes, but because it’s Randi, because of everything we know and Vee doesn’t, I felt the little chill under the warmth. I don’t think Vee experienced it as pressure. I think she experienced it as being swept up by someone competent and glamorous who knows how to finish the fantasy. Which is precisely why I’m nervous.
+I was already soft from chapter 21, because Vee coming home happy and half-edited was such a real girl-after-the-night thing, but this one got me in the tender-dangerous place of Randi being the person Vee can tell. That is so seductive to me, maybe even more than if Randi had just come in overtly predatory. She doesn’t merely ask for the dirty details. She gives Vee language for herself. That is intimate. That is powerful. That is also, in Randi’s hands, not innocent.
 
-And the stats lecture! I am not usually here for classroom metaphor, but this one landed in my stomach. Same numbers, different grouping, different truth. That feels like the whole book quietly tapping the glass. Each yes on its own: real. Put them together with the plan behind them: something changes. Nobody touched one of the numbers. That is the problem. That is exactly the problem.
+The part that really landed was Randi catching the difference between “he did this to me” and “I prepared, I wanted, I went there already choosing.” That is exactly the kind of consent I am reading for, and I felt almost grateful to Randi for insisting on Vee’s agency. “You bought them hoping he’d give you no reason to keep them on” is funny and hot, yes, but underneath it is this gift: stop pretending your desire happened to you. You wanted it. You took it. And Vee saying, “I wanted it. And I took it. For once.” God. That felt like a little door opening inside her.
 
-So I’m continuing, absolutely. This chapter didn’t yank me by the throat, but it tightened the knot. Vee between Cassie and Randi in that lecture hall is such a clean picture of the book right now: one woman loving her plainly, one woman opening and steering her, and Vee in the middle, happy enough not to notice the shape of the hands on either side.
+But because it is Randi, I’m never only grateful. I’m sitting there thinking: you are feeding her selfhood, and you are feeding on it. The title is perfect and a little awful. Vee is being fed brunch and mimosas and recognition, and Randi is being fed the night with Pace. And honestly? I was fed too. The sheet at midnight, the wine, him cooking in jeans, her barefoot and wrapped in the bed — I wanted to keep that image exactly the way Randi told her to. That’s the warmth I want with the heat. Not just sex, but the after made holy by ordinary care.
 
-GATE 22 — All Told
+The second kiss got me. Last time Vee could still scramble for “French/social/whatever,” but this time she half-expects it and meets it. And she doesn’t scan the street afterward. That matters. That is not nothing. Randi is becoming part of the wanting, not just the listener to it. I am both thrilled and tense, because this triangle is getting emotionally real before Vee has the facts that would let her consent to the triangle itself. That’s the rub. Inside the chapter, I felt warm and seen and turned on. Outside it, I can feel the hidden premise getting heavier.
+
+Still, I would text a friend: “Randi kissed her AGAIN and Vee didn’t panic this time. Also Randi basically made her admit she chose the whole night with Pace and I am unwell.”
+
+GATE 22 — Fed
 DECISION: CONTINUE
-CAPTURE: 8
-ALMOST-STOPPED: none
-WHY: This chapter kept the heat alive without needing another explicit scene, and it made the larger consent problem sharper instead of softer. Cassie’s care steadied me; Randi’s “date” made me lean forward with a little dread.
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: “Give me something to live on. Be cruel. Tell me everything.”
+WHY: That line made me wary because Randi’s hunger for the story can feel like taking, but the chapter earned me back hard by making her name Vee’s desire instead of stealing it from her. The bond turns here: Vee trusts Randi with the truth of herself, and the second kiss is no longer deniable. I need the next chapter because this is getting more beautiful and more dangerous at the same time.

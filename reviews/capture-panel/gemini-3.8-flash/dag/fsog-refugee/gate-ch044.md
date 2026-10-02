@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 025d1b3f1ab8 · 2026-09-19*
+*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a3af5d5e997c · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh, this hurt. This hurt in a completely different way than the secret or the Randi stuff—this is the specific, hollow ache of loving someone with everything you have while realizing that all his incredible tenderness might still have a wall around it you can’t cross.
+God, my heart.
 
-I felt so deeply for her in that opening fight. It was messy and unfair—snapping at him about the Rusty Nail, accusing him of only wanting sex, dragging him to a Chili’s out of sheer, petty desperation to force him into the fluorescent light of the real world—and it was *so human*. When you’re terrified that the most intense thing in your life is just a private fantasy contained inside four walls, you pick a fight. You throw an ugly, loud daytime voice into the quiet room just to see if it bounces back or breaks something.
+*“I had to wash it. It stopped smelling like you.”*
 
-And Pace… God, Pace breaks my heart here too. The Chili’s scene was devastatingly observant. He wasn’t ignoring her because he was ashamed of her; he was visibly overstimulated and drowning in the chaos of four screens and blaring pop music, desperately trying to square his fork and bring his eyes back to her face. His explanation back at the house—*“In a room like that I listen as hard as I know how and I still can't hear you. Somewhere quieter, I can. And I do. I'm listening now”*—is so purely him. It’s why I love him. He doesn't do performative, glossy dates; his attention is quiet, deep, and singular.
+And then he pulls it right over the shirt he’s already wearing, without a single second of hesitation, without teasing her, without making her feel small or clingy or desperate. That right there is everything. That is the whole damn ballgame. In so many of the books I used to read, a moment like that would be turned into leverage. The hero would smirk, or mock her for being obsessed with him, or use it to extract some filthy little concession to prove how pathetic she was for needing him. Pace just hears a woman telling him she missed him so much she was sleeping in his scent, and his face goes soft, and he puts on two shirts in a warm kitchen just so she can have him with her when she leaves. I cannot even tell you what that kind of tenderness does to me. It makes the breath catch in my throat.
 
-And then the sex. When his patience finally broke—when she wanted him to stop being so careful, and he took her with that raw, urgent need, losing the control he guards so fiercely—it was breathtaking. The consent here isn't a checklist; it's the fact that he listens to her body's deepest, unspoken cries and answers them with everything he has.
+And the contrast between her urgency at the door and his absolute, immovable calm! She comes flying in like a storm, five days of pure starving denial breaking loose all at once—the boots kicked off, the coat dropped, the jeans stuck on one leg, hopping down the hallway in a green satin thong and white cotton socks—and he just anchors her. He stops her with one hand at her waist, takes her breasts in his hands, and lets all that manic rushing just bleed out into the room. *“You’re not helping.” / “I’m helping.”* It’s so playful and secure and real. When they finally fall into bed, it’s not an elaborate performance; it’s two people who belong to each other picking up right where they left off, her coming apart instantly because she’s safe enough to just let go.
 
-*Except* the word.
+Then the pizza. The way this book handles food as an act of absolute devotion is unmatched. The sauce cooking down for half an hour, the water buffalo cheese, the cornmeal hitting the stone—and Vee realizing he would have made it with that exact same meticulous care even if the house were totally empty. He doesn't perform. He just focuses. And watching him give that massive, precise focus to her, and then to a meal to nourish her, is pure romance.
 
-That ending is an absolute gut punch. Lying in the dark, marked all over by him, full of his warmth, and realizing that she has given him total ownership of her life while possessing nothing of his in return. He won't say *I love you*. He won't give it a name. And knowing what I know from the jacket—that this whole beautiful, all-consuming world was engineered behind her back, that Randi is pulling strings she can't see—makes her isolation in that bed terrifying. She’s completely untethered from her old life, her family, her friends, all for a man who gives her every drop of his body and his care, but still holds the lock on the door.
+It hurts, though. It hurts because behind this golden, domestic warmth, I know what’s out there. I know Randi is out there, I know the third game is out there, I know Sheri is coming for Thanksgiving, and I know that Pace and Randi orchestrated this. Every time he is this good to her, the drop gets ten feet higher. She is completely, utterly sunk in love with this man, bringing him his own shirt like a little offering to be blessed with his scent, completely unaware of the ground beneath her feet.
 
-***
-
-GATE 44 — Under the Rug
+GATE 44 — The New Ordinary
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological friction here is incredible—Vee’s messy, desperate need to name what they are clashing against Pace’s quiet, impenetrable boundaries. The heat was scorching, but the emotional ache of her lying awake in the dark beside him, utterly his while having no proof he's hers, is what has me completely hooked.
+WHY: The shirt scene broke me in the best possible way—Pace pulling it on over his clothes without an ounce of mockery is the exact gold standard of masculine tenderness I read this genre to find. I am utterly hooked, loving their domestic intimacy while quietly dreading the explosion I know is coming.

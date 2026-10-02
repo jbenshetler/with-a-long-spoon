@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 2a7036ffc678 · 2026-09-19*
+*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh, god. My chest actually physically hurts. That was sickening to read—not because it was bad, but because it was so excruciatingly, quietly devastating.
+*Oh, Randi.*
 
-Look at what he did. Look at what he actually said: *"I love how good we are together. I never had this either. What you do—what your body does—I've never. I'm glad you feel it too."*
+Seeing this chapter play out in real time after carrying the weight of that reveal in my head completely rewired how I see the dynamic between these two. I’ve spent weeks being terrified of Randi—watching her manipulate Vee, pry every intimate detail of her sex life out of her over eggs Benedict, drop that terrifying "Sticky fingers?" line, and bait her into handing over the nude photo. I thought Randi held all the cards, that she was this untouchable, glossy architect running rings around a sweet, naive girl.
 
-*What your body does.*
+And then this cold, sterile library room happens, and the entire power balance tilts on its axis.
 
-She gave him her soul in a metaphor—*"I had been eating crackers my whole life, and you fed me a meal"*—and he deflected the emotional weight of it and handed her back... physical compatibility. Performance. Satiation. He literally reduced her declaration of profound, life-altering gratitude down to *what her body does* in bed. And the awful, brilliant, horrifying thing is that he did it while kissing the top of her head, holding her tighter under the quilt, and being undeniably, exquisitely tender. He didn't mock her. He didn't pull away. He held her with all the domestic warmth in the world, and in doing so, he put a velvet pillow over the face of what she actually said and suffocated it.
+The detail of the tag on the graph—*MIRA*—and Randi hovering over it, so confident that her father’s business was going to be the noble exception to Cassie’s working-class reality, made my stomach drop. Watching her click, watching her realize in real time that her entire gilded life, the green Mercedes, the cashmere, the effortless confidence, was bought with stolen government money while real people like Cassie’s dad got tossed out into the cold… it broke something in her. That ragged, strangled *"Cheating bastards"* didn't come from the polished sorority standards chair. It came from a deeply betrayed daughter who just realized her dad named his fraud after her.
 
-And she felt it. That broke me. She felt the *wait* behind her breastbone. That instinctual, sickening little knot you get in your stomach when someone you adore says something that sounds nice on the surface, but underneath, you know—you *know*—you just exposed your soft underbelly and they casually stepped around it.
+And what does Vee do?
 
-I’m sitting here thinking about the jacket again. *Two people have planned the best year of her life. She doesn't know there's a plan.* He has a wall up. He has bolted doors to his past, he has Sheri, he has Randi, and he has whatever this grand scheme was. When she pushed right up against the border of real love, he had to stop. He held her, but he couldn't step across that line with her. He pulled back into the safety of "how good we are together" and "what your body does."
+This is why I love Vee. This is why I am so fiercely protective of her. Any other girl—especially someone who has felt small and judged her whole life—might have seized that moment, or frozen, or let Cassie twist the knife. But Vee’s instinct is pure, protective tenderness. She doesn't gawk. She doesn't pry. She slides the laptop over, invents logistical busywork, and builds an emotional ramp for Randi to climb back up on so she doesn't have to bleed out in front of Cassie. She shields her.
 
-And then watching her in the laundry room, running the tape back while the dryers spin... that is the loneliest feeling on earth. Sitting on a folding table realizing that the best, most vulnerable sentence you have ever assembled just landed in a man and didn't echo. She's putting it in the pile of things she has to do "small repair work" on to keep the dream alive. That phrase—*the place was not empty*—chilled me to the bone. She's already doing maintenance on the illusion. The cracks are forming. I want to pull her off that folding table and hug her. I need the next chapter right now.
+It’s heartbreaking because Vee is protecting the very woman who is actively managing her life behind her back. But it also changes the romance completely. The jacket promised that Vee’s awakening runs in more directions than one, and that Randi is caught in this web just as deeply as Vee is. A moment like this proves it. Randi isn't just an untouchable predator; she’s hollowed out, trapped in her own ugly familial reality, and Vee just handed her grace without demanding a single thing in return.
 
-GATE 43 — Seconds
+There was no Pace in this chapter, and it was entirely about a stats project in a freezing lecture hall, but the psychological tension was electric. Now they both have each other's absolute deepest secrets—Randi holds Vee's naked surrender to Pace, and Vee holds the rotten truth of the Miranda empire. I need to see what happens when the two of them are alone again.
+
+GATE 43 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological precision of that emotional miss was absolute perfection; it hurt so deeply because the tenderness was real, yet the wall between them was unmistakable. Vee's quiet realization in the laundry room is the exact kind of emotional intelligence I read this genre for. I am desperate to see the fallout.
+WHY: Even though it was a quiet, clothes-on academic chapter with no Pace, the emotional stakes were massive. Watching Vee quietly step in to protect Randi's dignity after uncovering her family's fraud added an incredible layer of tenderness to their dynamic, and I am dying to see how this shifts their private moments.

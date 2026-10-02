@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch022 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b727880313ed · 2026-09-19*
+*capture-dag-v2-rich · gate ch022 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8429b6ba440f · 2026-10-01*
 
-REACTION
+REACTION:
 
-Oh, this gave me chills. Actual chills.
+Oh, god. My stomach is in knots. It is an absolute, physical ache in the pit of my stomach watching this car crash unfold in slow motion.
 
-The contrast between the two women flanking Vee in that lecture hall is just devastating. On one side you have Cassie, who doesn’t give a single damn about silk or hemlines or high heels, who literally ignores the entire lecture just to watch Vee’s face to make sure she is safe, cared for, and whole. When Vee says that second *"Oh, yes"*—unplanned, full of everything Pace gave her—you watch the tension leave Cassie’s shoulders. Cassie loves *her*. Unconditionally. Cleanly.
+Randi is terrifying. She is *brilliant*, and seductive, and terrifying. The way she feeds Vee—literally with the mimosa she can’t afford, emotionally with the validation she has been starving for her whole life—it’s sinister because it feels *so good*. That’s the genius of it. When Randi says, *"You keep saying he... Did you do anything to get ready for him?"* and forces Vee to see her own agency, to admit she bought the panties, to admit she *planned* it, to say out loud: *"I wanted it. And I took it. For once"*... I wanted to cheer and cry at the same time. Because Vee *needs* to hear that. She needs to own her desire, to step out from under her mother’s shaming thumb. But it’s being handed to her by the serpent in the garden. Randi is validating Vee’s hunger only so she can map every inch of it, feed on it, and wedge herself right into the center of it.
 
-And then on the other side you have Randi, turning on that high-beam charm like a predatory spotlight. "You lucky slut." Finding the exact, precise gap in the armor—the shoes—and immediately moving in to claim Saturday. *"That's not a problem, that's a date... Don't you dare tell me no."* It’s so smooth, so intoxicating, wrapped in that fun, conspiratorial girl-solidarity that makes you feel chosen. Vee is just soaking it in, blissfully unaware that Randi is dressing her for a stage Randi built.
+And then the curb. The first kiss in Chapter 19 left Vee reeling, checking the windows, trying to convince herself it was European. Here? *"Vee had half-expected it this time, and met it, and when Randi let her go she didn't look down the street for who might have seen them."* It’s normalized now. The hook is in. Randi holds her by the jaw, kisses her twice on the mouth, calls her "gorgeous," and Vee drives away with the radio up, feeling lighter, completely blind to the fact that she is being swallowed whole.
 
-And that lecture! Simpson’s paradox. Rivers is not subtle with the thematic knives here and I loved every second of it. *Look at the pieces separately and one person is winning; put the whole dataset together and the entire truth inverts.* That is this whole book. Vee thinks she's living three separate, wonderful storylines: an intensely caring, protective lover who sews her dresses and worships her body; a dazzling, wealthy older friend taking her under her wing; and a loyal roommate grounding her. But when the whole dataset is viewed together? She is inside a mapped trap. "Same numbers. Nobody touched one of them."
+I missed Pace in this chapter—I am always tracking how long it’s been since the two of them were alone in a room, and I need them back together immediately—but this triangle is so tight, so suffocating, that every beat with Randi *is* about Pace. Randi is consuming them both. I am terrified of what happens when the floor drops out, and I cannot put this book down.
 
-It’s quiet after the absolute, unhinged filth and joy of the bedroom/dress relay in chapter 21, but the psychological tension is ticking so loud it practically hums. I need Saturday. I need to see what Randi does to her when they’re alone picking out heels that are meant to leave her completely exposed.
-
-GATE 22 — All Told
+GATE 22 — Fed
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
+HEAT: 1
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The contrast between Cassie’s pure, protective love and Randi’s predatory claiming of Vee in that lecture hall was masterfully done, and using Simpson’s paradox as the backdrop for Vee’s blindness gave me actual goosebumps. I can’t wait to see what happens on this shoe-shopping "date."
+WHY: The psychological grip of this story is suffocating in the best way; watching Randi dismantle Vee's defenses while validating her deepest desires is utterly hypnotic. I need Pace and Vee back in a room together before this web tightens any further.

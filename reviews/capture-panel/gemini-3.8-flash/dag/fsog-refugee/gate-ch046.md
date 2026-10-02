@@ -1,26 +1,29 @@
-*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha eeeec469236e · 2026-09-19*
+*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-01*
 
-REACTION
+REACTION:
 
-*“Words are cheap, and you still won’t spend them on me.”*
+Oh, god. My stomach just completely dropped out.
 
-God. *God.* That line hit me right in the center of the chest. I felt the air leave my lungs.
+That was agonizing. Absolutely agonizing. You know that exact, sickening physical sensation when you step out onto what you thought was solid ice, you put your whole weight down, and you hear the hair-thin *crack* right beneath your boots? That is this entire chapter.
 
-I have been waiting for this shoe to drop since she sat in that laundry room two chapters ago turning over his careful, evasive *“I love how good we are together.”* Pace is brilliant, he is tender, he is the most attentive lover imaginable, but this right here is the exact flaw in the armor: he wants to build a pristine, soundproof kingdom inside his four walls where he controls every variable—the heat, the wine, the sourdough, the cadence of her breath—and he wants that to exempt him from ever having to name what they are out in the daylight.
+*“I had been eating crackers my whole life,” she said. “And you fed me a meal. I didn't know what a meal was until you fed me one. And now I know.”*
+She gave him her heart on a plate. She built an entire poetic, vulnerable architecture just to hand him *I love you* without breaking her internal rule, without scaring him off, trusting him to meet her. And what did he say?
 
-And his response when she corners him? *“Do any of your friends have a relationship you’d rather have than this one?”* What an arrogant, cowardly, intellectual dodge! It made me furious at him. It’s a mathematician’s answer to a bleeding human question. It doesn't matter if her friends' boyfriends are dorks or half-hearted; her friends have lives that exist in the open air, where a girl doesn't have to feel like a kept secret or an unspeakable habit.
+*“I love how good we are together.”*
+*“What you do — what your body does — I've never. I'm glad you feel it too.”*
 
-And then he has the nerve to say, *“Words are cheap. Believe what I do.”* Pace, you fool. Words *aren't* cheap when they cost you your pride, your privacy, and your walls. Words are the only currency that counts right now because words are what give her something she can hold outside of his bed.
+Look at where his mind went. Look at the words he picked. *What your body does.* She was talking about her soul, about being starved as a human being and finally nourished, and his brain immediately filed it under *physical compatibility and sexual performance*. He deflected the emotional weight of a lifetime of starvation into: *Yeah, we have incredible sex, I love how good our bodies fit.* And the worst, most gut-wrenching part of it all is that he wasn't trying to be cruel! He was being *tender*. He held her, kissed her hair, pulled her into his warmth, wrapped her in the quilt, refreshed her coffee. It was *warmly received*—and that title punch (*Seconds* / *A Warm Reception*) is sickening now. A warm reception isn't love. It's polite, comfortable hospitality.
 
-The moment she turned and saw him reaching for her—*“to settle her with the hands that settled everything, to make it right the only way he had. Not the hand in place of the word”*—I wanted to stand up and cheer for her through my tears. That is *everything* to me. In so many trashy romances, the hero reaches out with his big, commanding hands and pulls her in, kisses her until she forgets her own name, and the narrative calls it romance while completely erasing her dignity. Not here. Vee recognized the touch for what it was: an anesthetic. A substitute for truth. And she refused to let him use her own body's hunger to silence her mind.
+And Vee felt it. Her body registered the blow long before her brain would admit the truth. That scene in the laundry room with the clothes thumping in the dryer broke me: *“The place was not empty. There were other things in it already — small flickers, moments across the fall when what she knew about him had had to do small repair work to keep functioning.”*
+That single line gave me chills. The uncropped picture. The wall around his past. The silence. The fact that she was chosen. She’s keeping a running tab of tiny compromises, tucking away the discrepancies because the warmth is too addictive to forfeit.
 
-She walked out into the cold with nothing in her hands. It hurts so bad, but I have never respected her more. Now where does she go? She’s shivering, she’s raw, and Randi is out there waiting.
+He didn't give the sentence back. She will never say it again. The absolute heartbreak of watching a woman close a door inside herself because the man she worships couldn't—or deliberately wouldn't—meet her there. I am in agony and I need the next chapter immediately.
 
-***
-
-GATE 46 — Believe Me
+GATE 46 — Seconds
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: Vee drawing a line and refusing to let his physical comfort replace the emotional truth she asked for was breathtakingly good writing. She defended her own dignity, Pace got cracked wide open, and I need to see what happens the second she turns the ignition.
+WHY: The psychological precision of that missed connection was devastating. Watching her give him her heart and have him reduce it to "what your body does," all wrapped in tender domestic warmth, was breathtaking and terrifying.

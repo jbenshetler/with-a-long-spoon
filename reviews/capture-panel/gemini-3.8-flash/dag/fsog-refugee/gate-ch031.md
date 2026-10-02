@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch031 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 230524645ef4 · 2026-09-19*
+*capture-dag-v2-rich · gate ch031 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a45f79a49a6c · 2026-10-01*
 
 REACTION
 
-Oh, God. My chest is actually tight.
+*Oh.*
 
-Look at what they’ve done to her, and look at how *thrilling* it feels from the inside out. That second step—*“She took a breath, and made the second step long”*—I held my breath so hard my ribs ached. It’s that exact, terrifying razor’s edge I’m always chasing in these books: a woman stepping into her own skin, refusing to slouch or shrink or hide her height, feeling powerful and gorgeous and electric... while completely, hopelessly tangled in a web she can't even see.
+My stomach dropped when Sheri asked, *"And the redhead?"* and Pace just said, flat out, without blinking: *"Not yet."*
 
-Because on the one hand, *yes*. Yes! Fuck the safe department-store navy, fuck the mother calling her a floozie, fuck the black dress she used to hide in. To have Cassie look at her and see a movie star, to stalk across that stage and wake up a whole dull room just by daring to take up space with her own body—that desire belongs entirely to Vee. The heat rising to meet a choice she made a half-second before her head was sure of it? That’s her. That’s her appetite waking up.
+"Not yet." That hit me like cold water to the face.
 
-And then the chill hits, because you remember how she got to that stage. Randi on her knees fastening the ankle straps of shoes Vee can’t afford. Pace cutting the silk so high she literally couldn't wear underwear, engineering the exact physics of her exposure down to the millimeter, and then being conveniently out of town so she’s left performing the script he built for her *all on her own*. She thinks the secret is hers—*“He would have no idea what else was in the frame. That part was hers.”* Oh, Vee. Honey. He built the frame! He knows exactly what’s in it!
+Look, I knew it from the jacket, I knew it from his apartment, I knew Randi was in his bed the night before—I *know* the setup. But hearing Pace say it aloud to an outsider, out on a bike ride on a cold Saturday morning, made the reality of the deception land with a sickening thud. Vee was in that bar Thursday night drowning in humiliation and insecurity, sitting alone staring at the floor because of this very blonde woman, then running to Randi to confess her deepest, rawest vulnerabilities—and here is Pace, talking about Vee like she's a piece of walnut wood he admires, admitting so casually that she doesn't know she's being shared.
 
-That final line wrecked me: *“...whether that was pride or only the same heat still running, or whether, by now, the two came to the same thing.”* That is the whole trap of the book in one sentence. Her pride and her submission have become completely braided together. She feels most powerful at the exact moment she is most completely obedient to the design they laid out for her.
+"Two of them at once. How do you sleep?" Sheri laughs. It’s treated like a high-five, like a guy getting away with something enviable. "I bet it's worth it."
 
-He’s in Berkeley. She just sent him that photo. I need to see what happens when his phone buzzes. I need to see him look at what he created.
+I didn't hate the chapter—honestly, seeing Pace run his mouth about how Vee touched the walnut joint and didn't drop the math book was sweet, because it shows how deeply she’s actually gotten under his skin. He couldn't help himself. He sounded completely smitten, to the point where his friend instantly clocked it ("Listen to you"). But the tenderness doesn't erase the knife he's holding behind his back.
 
-GATE 31 — The Induction
+He protects Vee from Sheri ("She couldn't take your heat"), but who is protecting Vee from *him* and Randi? The consent I cling to with him inside his bedroom—the way he watches her, asks her, waits for her—is built on a foundation where the most important door in the house is kept locked and hidden from her sight. "Not yet." God. That answer chilled me. I need Vee back on the page, and I need her to start seeing the corners of this frame, because the longer this goes, the worse the break is going to be when that shoe drops.
+
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-ALMOST-STOPPED: none
-WHY: The tension of that long step across the stage took my breath away—the triumph of her confidence and the slow horror of the trap closing around her are balanced on a knife's edge. I need to see his reaction to that picture.
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "And the redhead?" / "Not yet."
+WHY: It’s chilling to hear him so casually state that Vee is completely in the dark while he and Randi orchestrate her life. But his blurted-out softness about her touching his woodwork proves she isn't just an experiment to him, and the narrative tension around when the truth breaks is pulling me hard.

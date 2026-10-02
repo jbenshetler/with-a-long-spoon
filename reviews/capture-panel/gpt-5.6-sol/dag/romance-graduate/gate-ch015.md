@@ -1,19 +1,22 @@
-*capture-dag-v2-rich · gate ch015 · gpt-5.6-sol · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~13cbb0faa7b7 · 2026-09-07*
+*capture-dag-v2-rich · gate ch015 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 25b7bedbae77 · 2026-10-01*
 
-REACTION — Oh, this is exactly what I’ve been starving for. Not just that it’s hot—and it is obscenely hot—but that the heat is inseparable from Vee’s interior life. Her soaked panties aren’t treated as some automatic porn signal that means “proceed.” They’re the visible evidence of a desire she has been trained to experience as humiliation. And Pace’s response isn’t to ignore it politely or pounce on it. He waits for her eyes. God.
+REACTION
 
-That image absolutely destroyed me: him on his knees, perfectly positioned to see what she is most ashamed of, deliberately looking up instead. Then smiling as though she has given him something precious. Her body physically rearranging itself under that look—shoulders back, chin up, rising onto her toes—felt more intimate than most full sex scenes I’ve read. He doesn’t reassure her with a speech. He gives her a different experience of being seen, and her posture understands before her mind can.
+Oh, I am already at his house in my head. I know exactly what is waiting behind that door, and Vee is sitting in a dining hall debating outfits while I am internally screaming about the innocent-looking table in his bedroom. “There’s no meal at two” nearly made me laugh out loud. Kayla, you have no idea how correct you are.
 
-Also: the measuring rhythm. Touch, withdrawal, pencil. Touch, withdrawal, pencil. That is weaponized patience, and I am extremely susceptible. The nipple-measurement joke was perfect because it let Vee become funny and intelligent inside her own exposure instead of merely being a trembling object. She makes him laugh. She stumps him. Then she discovers she can fluster him and immediately starts spending that power. Her deliberately pressing her breast to his cheek and saying “Oops. Sorry” made me grin like an idiot. There she is.
+I loved seeing Vee with girls who aren’t trying to maneuver her. Meg and Kayla are nosy and delighted and turning the whole thing into an event, but it feels normal—warm, uncomplicated, ordinary-friend normal. She gets to boast about Pace, get teased for knowing it has been twelve days, and admit that his restraint is making her lose her mind. That last part got me, because yes. It isn’t nothing. He asks, listens for the real answer, and then honors it precisely. Of course a woman whose wants have always been monitored or corrected is climbing the walls over that. She understands the effect even if she doesn’t yet understand how deliberately suited to her it all is.
 
-And Pace choosing to finish the dress properly while allowing those tiny, mutually understood violations of neutrality—his hand down her spine, the finger behind her knee, the breath against her stomach—is so much hotter than if he’d simply thrown her onto the table. “Keep still” worked because we saw what it cost him. His restraint isn’t lack of appetite; it gives the appetite shape.
+And she is so proudly, helplessly gone over him. The powerlifting brag disguised as a shrug. The smile arriving at “the shirt.” “Then I backed him into a tree and we made out.” She is enjoying her own desire now, not merely surviving being desired, and I love that for her so much that the secret underneath it hurts worse every time.
 
-I’m still watching him. The heated house, the riser, the arrangement of the light: this experience was prepared. He knew exactly how exposed the fitting would make her, even if he couldn’t have predicted every response. That’s both caring and unnerving given the larger secret. But Vee is not passive here. By the end she is teasing him, testing him, and discovering her effect on him in real time. That matters enormously.
+But that text is pure Pace: formal, spare, specific, and leaving an enormous blank for her imagination to fill. “Would you come to my house Saturday. Two o’clock.” Sir. You built specialized furniture and selected this woman with another woman before she knew either of you. I am not capable of treating this as a casual afternoon invitation.
 
-Honestly, if a friend texted me at 1 a.m. asking where I was, the answer would be: “A mathematician is kneeling at a soaked woman’s hem and refusing to make her shame ugly, do not disturb me.”
+I also notice that Vee is telling more people about Pace now, while Pace is apparently keeping Randi’s involvement entirely outside Vee’s reality and Randi is extracting erotic reports from both sides. The wider Vee’s innocent world becomes around this romance, the more catastrophic the eventual truth feels. Still: Saturday. The door. The house. The table. I’m already turning the page.
 
-GATE 15 — A Round  
-DECISION: CONTINUE  
-CAPTURE: 10  
-ALMOST-STOPPED: none  
-WHY: This delivered the exact combination I wanted: explicit bodily reality, unbearable restraint, and a woman’s shame transforming into agency without becoming magically simple. I need to see what happens when all this exquisitely earned trust collides with the fact that Pace and Randi engineered her arrival.
+GATE 15 — What to Wear
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 10
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: The chapter itself is mostly warm anticipation, but it points straight at the scene I’ve been waiting for since the bench was revealed. Vee thinks she is choosing an outfit for an undefined afternoon; I know she is about to walk willingly into the physical center of the secret, and there is no chance I’m stopping here.

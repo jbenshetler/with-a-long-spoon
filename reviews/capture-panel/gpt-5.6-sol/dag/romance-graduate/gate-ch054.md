@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~bb2635a8b1b0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha f6c081c5e67c · 2026-10-01*
 
-REACTION —
+REACTION
 
-Oh, Vee. “We talked.” Girl, you absolutely did not.
+Oh, Randi. You beautiful, starving liar.
 
-I laughed at the sweater story because it is such a transparent, panicked little fiction, and Cassie’s quiet forensic repetition—“He burned the toast.” “Pace shrank your sweater.”—is perfect. She knows. Maybe not the precise coat-and-heels mechanics, but she knows Vee has replaced the actual story with one she can bear to tell, and she lets her keep it without pretending to believe it. That is what care looks like when it isn’t steering someone.
+That first hug got me. Vee breathing her in, both of them holding past the point where a hug should end, Randi throwing those expensive new things onto the floor without even looking because Vee is there and hurting—that is real. Randi loves her. I felt it in my chest, and that somehow makes everything she does next so much worse.
 
-But the lie also made me sadder than I expected. Vee is radiant, and the weekend was genuinely wonderful, and yet the first thing she does with the safest person in her life is rewrite it: sex becomes “talking,” nakedness becomes ruined laundry, and the question Pace never answered disappears entirely. She drove out believing her body could succeed where her words failed, and now she is remembering the result as proof that the words worked. They didn’t. The tent did not come down; she just furnished it beautifully.
+Because Vee finally asked the right question. She stood at Pace’s door and refused to let warmth and dinner and sex answer it for him. And Randi takes that brave, clean act and teaches her to see it as cruelty. “You backed him into a corner in his own house” made me furious. She did not corner him. She asked what she was to him. Randi knows why he froze, knows he loves Vee, knows there is another woman because she is the other woman—and still looks into this exhausted girl’s face and says, “That is not a man with another woman.” That isn’t careful concealment anymore. It is a lie designed to make Vee distrust her own completely accurate alarm.
 
-And then Cassie’s mother thanking her for the card got me right in the chest. That tiny invitation into an ordinary family is more emotionally naked than almost anything Vee can currently say aloud. Cassie hears the true size of her “Oh” and, unlike Randi, does not pry it open or tell Vee what it means. She stops exactly before kindness could become leverage. I love her.
+And God, the manipulation works because Randi knows her so intimately. She knows exactly how to turn Vee’s shame into heat, exactly how to make bodily exposure feel like courage, exactly where to stop the sentence so Vee completes it herself. Naked under the coat is extremely hot to me. I want the doorstep so badly I can practically feel the cold on her legs. But Vee is being sent there to apologize with her body for having asked for honesty. That poisons the fantasy without killing the charge, which is almost unbearably effective on me.
 
-The ending is quiet but it earns its quiet. Vee can tolerate the narrow bunk and the cold wall because she believes Pace is hers again and Friday is coming. I’m glad she feels safe. I’m also watching that word “hers” with both eyes, because she still has no answer, no name, and no idea that the woman she plans to tell everything is already inside the relationship she thinks she repaired.
+The shoes made my stomach drop. Randi choosing what Vee wears to Pace’s door feels like a signature meant for him, whether Vee knows it or not. If Pace recognizes them, I may actually throw something. If he opens that coat and accepts this offering before telling her he loves her—and before telling her about Randi—I am going to be incandescent.
 
-GATE 54 — Unpacking
+Then Vee asks for Randi’s real New Year and gets another immaculate edit. Randi gives her the public fairytale Vee is most vulnerable to wanting and hides the only emotionally true part: that John could not reach her, that Pace did, that Vee does. And Vee, sweetheart, hears John naming imaginary children and thinks this is what ease and certainty look like. She has no idea both people she loves are curating reality around her.
+
+I am completely hooked and deeply uneasy. The tenderness between these women is not fake. The desire is not fake. Vee laughing at the end is not fake. That is what makes Randi frightening: she isn’t pretending to care while manipulating Vee. She is manipulating Vee because she cares and is too afraid to let care become a choice Vee gets to make. I would text a friend at one in the morning: “The secret girlfriend just sent her girlfriend to their boyfriend naked in her shoes, and the girlfriend thinks she’s apologizing. I’m unwell.”
+
+GATE 54 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
+CAPTURE: 10
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Cassie made this quiet chapter feel necessary, and Vee’s ridiculous cover story was funny, tender, and alarming all at once. I want Tuesday now: Randi is about to receive Vee’s edited confession while carrying the much larger edit herself.
+WHY: I need that door opened immediately. The coat and heels have me by the throat, but what I’m really desperate to know is whether Pace accepts Vee’s body as an apology—or finally becomes brave enough to refuse the false terms and tell her the whole truth.

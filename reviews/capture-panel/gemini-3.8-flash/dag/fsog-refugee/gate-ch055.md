@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 213059ecdcb4 · 2026-09-19*
+*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 122f2504f31e · 2026-10-01*
 
 REACTION
 
-Oh, this chapter gave me the biggest, warmest ache in my chest.
+Oh God. Oh *God*. My pulse is still pounding.
 
-First of all: *“Pace shrank your sweater.” “To a doll size.”* And Cassie just sitting there with the highlighter, knowing damn well that the meticulous craftsman who sews couture gowns did not shrink a sweater in the wash, and just letting Vee have her ridiculous cover story. That full belly-laugh between them on the floor of the overheated dorm was pure gold. That’s what real female friendship feels like—Cassie doesn’t interrogate her, doesn’t demand a play-by-play of the sex, doesn’t judge her for walking back into it. She just makes space for Vee to be radiant and silly and bursting with it.
+I was terrified at the start of this. When Randi gave her that advice in the previous chapter, my stomach dropped because it felt like a trap—like Randi was sending Vee out as pure sexual bait, reducing her back down to an object, encouraging her to surrender every ounce of daylight ground she had fought so hard to claim on that doormat in December. I was bracing myself to be furious. I was bracing myself to watch Vee humiliate herself.
 
-And then the moment with Cassie’s mom. *God.* “My mother says thank you for the card. She wants to know when she gets to see you again.” I almost teared up. After the cold, pinched misery of Vee’s own parents over Christmas—where she had to literally scissor her life out of photographs so her mother wouldn’t judge her—here is Cassie’s family, just quietly, casually loving her. Keeping a place for her. It hit Vee right in the solar plexus, that little warm hand at the back of her neck.
+And then Vee owned it.
 
-What I loved most about this, though, is the contrast. We just spent chapters inside the absolute sensory feast of Pace’s house—the bread, the fire, the cashmere, the intense, slow-burn physical worship. And instead of coming back to the dorm and feeling like it’s a prison or looking down on it, Vee genuinely loves the trickle of the dorm shower. She loves the draft from Cassie’s cracked window. She loves the stacks of plain athletic socks. Her life isn’t being erased by Pace; it’s being filled out.
+The absolute *heat* of that mirror scene. Watching her take off the practical clothes, take off the safe choices, and touch herself—building that ache, leaning into the fullness of her own body, and then deliberately *stopping* because she wanted to hand the unfinished edge to him. That wasn't coercion. That wasn't a girl doing tricks to keep a man from straying. That was pure, unadulterated female desire, claimed from the inside out, terrifying and thrilling and entirely hers. And the drive out there! The sheer reckless, heart-in-throat panic when the siren whooped—I gasped out loud in my room.
 
-She thinks they “talked.” She told Cassie, *“we talked, and the whole stupid month just came down.”* But Vee… honey. You didn’t talk. You opened a coat, and he went down on his knees. The physical bond is back and stronger than ever, and Pace wanting to host all her friends is a massive, beautiful step toward bringing her into the daylight—but the words are still hanging out there unsaid.
+And then the threshold. When Pace opened that door with that polite, agonized, formal mask on—the wall he hides behind to keep from breaking—and she didn't argue, didn't plead, didn't beg for words. She just unbuttoned the wool and gave him the truth of her body.
 
-Right now, she’s so safe in the flannel and the top bunk, counting down the days until Friday. But Tuesday is tomorrow. Anthro class is tomorrow. Randi is waiting with that sharp, beautiful gaze, ready to dissect the weekend, and Randi is *in love with her*. The peace feels so sweet right now, but the air is humming.
+And Pace broke. He didn't gloat; he didn't take it as a victory. He looked at her like a starving man who had just been granted mercy. The sheer desperation of that reunion—him dropping to his knees in the freezing draft of an open front door, the contrast of the biting January wind on her wet breasts while his mouth devoured her, his jeans tangled around his knees as he tried and failed to carry her to the bed—it was messy, raw, and completely unchoreographed. It was everything the polite, calculated society sex Randi had with John was not.
 
-GATE 55 — Unpacking
+And the aftercare. *The aftercare.* Making her midnight pancakes from scratch, telling her to leave the ridiculous heels on, and then dropping to his knee beside her chair with his voice literally cracking: *"I missed you so much."*
+
+He still hasn't said "I love you." He still hasn't named what they are in the daylight. The trap is still waiting for them, and the secret pact with Randi is still ticking like a bomb beneath the floorboards. But for tonight, the warmth is so real, and the mutual adoration is so overwhelming, that I was crying right along with her into those pancakes. And Cassie's single, dry "Hmm" at the dorm desk on Sunday night was the absolute perfect punctuation mark.
+
+GATE 55 — Nothing Underneath
 DECISION: CONTINUE
-CAPTURE: 8/10
-NEXT: 9/10
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: A gorgeous, cozy exhale of a chapter that grounded the emotional stakes through Cassie's quiet loyalty, while the unspoken truth about how Vee actually got Pace back hangs deliciously in the air.
+WHY: The tension from the mirror to the doorstep was agonizingly hot, and the emotional payoff of Pace crumbling onto his knees at her chair was everything I read this genre for.

@@ -1,23 +1,24 @@
-*capture-dag-v2-rich · gate ch039 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~97724b44da95 · 2026-09-11*
+*capture-dag-v2-rich · gate ch039 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · 2026-10-01*
 
 REACTION —
 
-Oh, this one got me in the ribs in a completely different place.
+Oh, this got me in the ribs because it is so small and so huge. After all the heat and the staged bravery and the dress and the spanking and Randi making the air itself feel rigged, this is just Vee coming home glowing and Cassie sitting there like the last normal lamp in the world. And I loved it. I needed it.
 
-After all that heat and silk and food and bodies, this chapter comes in fluorescent-cold and makes the triangle sit under ordinary daylight, and somehow that is more dangerous. I felt Vee in the middle so sharply here: physically in the middle seat, socially in the middle of the group, emotionally between Cassie’s hard-earned bitterness and Randi’s expensive certainty. And for once the charged thing is not sex, exactly. It’s knowledge. It’s who knows what, who sees what, who decides not to say.
+Cassie is such a relief to me. She does not have Pace’s courtly intensity or Randi’s glamour-pressure. She just looks at Vee and tells the truth sideways. “You don’t come home school nights.” God. Not accusation, not drama, just a pin in the map. Vee has been living this like a beautiful fever and Cassie is the person who notices the actual calendar. Her own bed empty more nights than not. That is not nothing. That is a life changing shape.
 
-Cassie broke my heart with one flat sentence. “My dad got laid off in 2020.” That is so Cassie: no tremble, no performance, just the whole wound set down like a coffee cup. And she is right, or right enough, and she has been carrying that rightness alone. I love that she doesn’t gloat when the aggregate proves her. She is not trying to win a classroom argument; she is trying to make the world admit the shape of something that happened to her family.
+And Vee trying to explain Pace by listing the food and the care and the burn. That felt exactly right to me, because of course the sex is not the only thing swallowing her. It’s the house warm enough that she forgets what she’s wearing. It’s the cold cloth on a tiny burn. It’s being watched while she eats, in a way that makes appetite feel adored instead of embarrassing. He is making ordinary life erotic and safe at the same time, which is frankly lethal. I believe completely that this would make her stupid with happiness.
 
-And Randi. God. Randi finally gets touched by a truth she did not arrange. That stillness when MIRH comes up, the complete stopping of all her little alive movements, made me sit forward. Because she is always the person who frames, manages, seduces, turns the room toward the best angle. Here the data catches her with her own family name on the ugly point, and she has no prepared face for it. “Cheating bastards” felt real in a way that almost hurt. Not polished Randi. Not brunch Randi. Not Randi turning Vee’s shame into a toy and then a gift. A daughter finding out, maybe not everything, but enough.
+The little burn on her breast from the tomato, too. That is such a domestic-sexy detail without having to perform anything. Cassie’s “there’s only one way that burn happens” made me laugh because yes, Cassie, thank you, somebody please keep count of the obvious facts in this room.
 
-And Vee seeing it and choosing silence. That is the chapter’s whole pulse for me. She notices before she decides to notice. She protects Randi before Randi even knows she needs protecting. That’s love, or something close enough to scare me. But it also made my stomach tighten, because Vee is learning the grammar of secrets from the people who are keeping the largest one from her. She thinks kindness is not making Randi carry this in front of anyone. And yes, maybe. But also: this book keeps making secrecy feel tender right up until I remember the jacket and want to shake everybody.
+But the “Do you love him” stopped me cold. Because Vee does. She already let herself say it in the dark beside him, and now here it is in daylight, in the dorm, in Cassie’s flat voice, and she can only say maybe. I don’t blame her. The whole thing is too fast. It is too fast and also not shallow, which is the terrifying part. If it were shallow I could roll my eyes and move on. But this has roots already. He has a drawer for her. He has scrunchies. He has meals and hands and rituals. And meanwhile Randi is still over there holding half the wiring behind the wall.
 
-The title is mean in the best way. Randi is the outlier on the graph, yes, but Vee is also becoming one: the point between Cassie and Randi, between ordinary friendship and erotic devotion, between seeing and not saying. And the “invisible if you didn’t” ending made me cold, because that is exactly what has been happening to Vee. The plan around her is easy to see if you know to look for it. She doesn’t.
+This chapter is quiet, but not stalled. It feels like a breath taken in the right room. Cassie doesn’t know everything, but she knows enough to worry me better than anyone else does. I want Vee to keep talking to her. I want Cassie to stay awake in this book. Because when the third game finally shows itself, Vee is going to need somebody who isn’t dazzled.
 
-No sex in this chapter and I did not mind for one second, which is saying something from me. The charge is still there. It’s in the glass room, the latched door, the three laptops, the name on the page, Vee sliding the laptop toward herself like she is covering a body. I’m very, very in.
-
-GATE 39 — The Outlier
+GATE 39 — School Nights
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
+NEXT: 8
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter traded explicit heat for social and emotional exposure, and it still felt charged as hell. Randi getting caught by reality, Cassie being quietly right, and Vee choosing protective silence all tightened the trap in a way I trust.
+WHY: This was a quiet chapter, but it landed because Cassie names the shape Vee has been too lit up to count. The heat is mostly afterglow and domestic charge, but the romance turns hard here: Vee admitting, even softly, that this may be love makes me want the next chapter immediately.

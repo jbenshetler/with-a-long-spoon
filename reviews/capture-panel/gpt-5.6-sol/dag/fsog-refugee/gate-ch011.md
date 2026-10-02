@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha e651e6e0a867 · 2026-09-27*
+*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1d8b07a3a421 · 2026-10-01*
 
-REACTION — Oh, this made me ache in about six directions at once.
+REACTION — Oh, Randi. You are breaking my heart while I watch you do something I may not forgive.
 
-Randi pretending not to remember Pace’s name is so coldly accomplished that I wanted to reach through the page and stop Vee from giving her anything—and then Vee wanted so badly to give her everything that I understood exactly why she did. That is the frightening part. Randi barely has to pull. She makes herself into the place where Vee’s happiness can be spoken and admired, and Vee arrives carrying it in both hands.
+Vee dismissing Cassie so casually hurt immediately. “Not her thing” is such a neat little justification for leaving behind the person who has never made her earn her place. Worse, Vee feels the unease underneath and deliberately lets it lie. I wanted to reach into the page and make her watch Cassie go. This is how isolation happens without anyone issuing an order: the dazzling new person becomes the one who gets the stories, while the old friend is quietly recast as belonging somewhere else.
 
-I noticed the tiny theft in the way Randi retold the kiss: “Because you couldn’t not. Because of him.” No. Vee kissed him because she chose to, and she was so proud of that. She came home insisting, “I did it because I wanted to and I did it on purpose.” Randi shifted the center of the story from Vee’s desire to Pace’s irresistible power, and Vee let the “truer thing” replace her own version. That scared me more than anything overt would have. This book knows exactly where the consent problem is, and it is not in whether Pace asks before touching her. It is in these two people quietly teaching her how to interpret her own yes.
+And Randi is so good at this. The invented disastrous date gives her cover, makes Vee feel lucky, and lets her ask for every intimate detail without exposing anything of herself. She is sitting there listening to Vee describe Pace—the man Randi knows in ways Vee cannot imagine—and performing surprise. That is not harmless matchmaking. It is an enormous lie told warmly.
 
-And still—God, Randi. “Ask and then ravish” came down into Vee’s private register, and suddenly they were together inside the fantasy. That was the first moment I felt Vee experience Randi as something more charged than a beautiful girl choosing her, even if she still cannot name it. Randi did not just listen to the picture; she entered it. I felt that.
+The line that truly chilled me was “Because you couldn't not. Because of him.” No. Vee’s joy after the kiss was specifically that she could have chosen otherwise and chose him on purpose. Randi gently rewrites that into inevitability, and Vee accepts the smaller version because Randi says it tenderly. That is exactly the danger here: nobody has to force Vee when they are this skilled at giving her a story she wants to inhabit.
 
-Then “Vee’s my dear friend” absolutely got me, against my better judgment. I believe it cost Randi something. I believe the hand on the table was partly social theater and partly protection and partly possession and partly a real declaration she had not planned to make. That is why I cannot simply hate her manipulation and walk away. She is lying to Vee while also becoming emotionally truthful in ways that may wreck her. She spent something on Vee in front of Brooke, and Vee felt the cost without knowing the currency. That is intimacy, even inside the trap.
+And still—God—the low “Ask and then ravish.” That got me. Not only because of Pace, though yes, absolutely because of Pace. It was the way Randi entered the fantasy at Vee’s volume, suddenly there beside her. Vee felt it too. The chapter gave me one second of the thing I’ve been waiting for: their desire occupying the same charged space before Vee knows what she is feeling. Simmer, unmistakably.
 
-But Cassie leaving while Vee hardly watches, followed by Vee explaining that the smoothie place is not really Cassie’s place, made my stomach drop. That is how isolation begins when nobody ever explicitly asks you to abandon anyone: the new world becomes brighter, the old friend supposedly has her own things, and soon exclusion feels healthy and self-evident. Cassie folded away whatever was in her face because she will not compete for Vee, and that hurts. Her care does not make Vee feel chosen in this intoxicating public way, so it is becoming easier not to see.
+Then “Vee’s my dear friend,” with Randi taking her hand in front of Brooke, nearly undid me. I believe it cost Randi something. I believe she spent something real on Vee. I also believe Randi understands perfectly what being chosen publicly will do to a woman who has been starving to belong. That is what makes this so merciless: the gesture is not fake, but it is useful to the seduction, and Randi can mean it while also using it. Vee making herself smaller so there would be “nothing of herself worth holding against Randi” frightened me more than Brooke did. She is already protecting her place beside Randi by disappearing inside it.
 
-The whole smoothie shop made me feel trapped in Vee’s body—the cardigan as apology, the high chair as a shelf, her feet not touching the floor. And when Brooke arrived, Vee made herself smaller not even to protect herself, but to ensure there was nothing in her that could embarrass Randi. That is devastating. Randi answering by naming her dear and holding her hand was exactly the rescue Vee needed, which also means it bound her tighter.
-
-I would text a friend: “Randi is manufacturing the entire conversation while accidentally falling in love with her, and I am furious and completely doomed.”
+The hug and “Love you, girl” would have swept me right along if I didn’t know. Vee walks home feeling picked; I’m sitting here thinking, yes, darling, you were picked long before you knew there was a choice. I want the next chapter badly, but now I need Cassie back on the page almost as much as I need the hike. Someone has to keep hold of the version of Vee who does not have to become smaller to be loved.
 
 GATE 11 — Dear
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-ALMOST-STOPPED: none
-WHY: The manipulation is getting quieter and therefore more frightening, while Randi’s feeling for Vee is becoming real enough to hurt. I need to see whether the hike gives Vee more ownership of her desire—or whether Pace and Randi keep lovingly rewriting it for her.
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: “Because you couldn't not. Because of him.”
+WHY: Randi’s tenderness is real enough to make her manipulation more dangerous, and I am completely caught between wanting Vee to have that public choosing and wanting to drag her back toward Cassie. The hand on the table was a genuine turn in their bond—and also another strand tightening around her.

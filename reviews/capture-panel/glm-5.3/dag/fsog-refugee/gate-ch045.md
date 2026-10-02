@@ -1,21 +1,20 @@
-*capture-dag-v2-rich · gate ch045 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch045 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-01*
 
-**REACTION* · prose-sha ~d6bbb290a65b*
+REACTION — A whole chapter of two girls at a cafeteria table and it got me more than half the "eventful" ones this stretch, because it's all undercurrent. Vee laying out exactly what she shows her father and what she crops — the dress stopping at the waist, "the parts that fit" — and realizing alongside me that her whole family lives inside the cropped version now. That's the photo motif paying off in a way I didn't see coming: chapter 41 she sends the uncropped self to Pace, chapter 45 her parents get the cropped one. The book is quietly telling me who gets the real Vee and who gets the world's copy, and I felt that in my chest.
 
-I had to put the book down after she walked out, and then I picked it right back up because I couldn't stand leaving her in that driveway.
+The "boyfriend?" with a question mark out loud, like she was asking them — that's the "maybe" breaking open in public, and it ached. She says "Peter" to the dark and "maybe" to Cassie and "boyfriend?" to her parents, and the distance between those three words is the whole love story right now. I want her to get to the real word and I'm bracing for what it costs.
 
-Three chapters of this ache building — the porch, the laundry room, the dark of chapter 43, the shirt she put on bare and then couldn't bear — and I felt every layer of it because the book made me feel what she couldn't name. And then she walks in and *names it anyway*, badly, angrily, at the wrong volume, and I was so proud of her I could have cheered. "What am I to you?" Five chapters ago this girl couldn't tell Cassie "maybe" without shrinking. Now she's standing on the mat with her coat buttoned to the throat and her hands in her pockets, refusing the hello, refusing the wine that was already poured, and she will not let him hand her a nice evening instead of an answer.
+Also: Pace made the dress. On a machine. On his sun porch. Because she mentioned a magazine once. Of course he did — he's the drawer man, he makes places instead of talking — and Vee's right that her dad would handle "he undresses you" better than "he sewed for you." That's the truest observation about tenderness this book has made: the care is the thing that doesn't fit anywhere, and weird IS worse than wrong to people who've never seen it. I loved that laugh it pulled from Cassie because I laughed too.
 
-And here's the thing that's killing me: his answer is *true*. "Do any of your friends have a relationship you'd rather have than this one?" — that's not a deflection from a man who doesn't care, that's the truest sentence he has, and it's *still not enough*, and the book knows it's not enough, and she knows it's not enough, and "that's not what I asked" is her holding the line against her own longing to just accept it and sit down to the chicken. "Believe what I do." / "Words are cheap, and you still won't spend them on me." I actually gasped. That's the whole book in two lines. He's a man whose love language is construction without words — the drawer, the scrunchies, the dress he sewed — and she's a woman drowning in a warmth she can't hold up to anyone. Both of them are right. That's the unbearable part.
+And Cassie. She's so careful here — "Is it that you can't say, or that you don't want to?" — and doesn't push, and I'm sitting there with my stomach tight the whole scene because she's the clean table and she's now one question from the edge of everything. She still doesn't know about Randi. She doesn't know about the weekends. And the day she finds out is still the day I cry in public. Nothing happened and I was on edge the entire time anyway, which is the book working.
 
-What I'm suspicious of, and what I keep going back and forth on: how much of his not-saying is wound and how much is the plan? "I don't go back." The parents. The man who builds and never explains. And underneath all of it, the con — I know something was decided about her before she walked toward him, and I can't tell anymore whether the word he won't say is being withheld because he can't or because the game never budgeted for it. The jacket said "every yes was freely given. That was the problem." I'm starting to understand that sentence is about *this*, not the sex. She gave everything freely and the one thing she asked for in return he wouldn't hand over, and she walked out into the cold rather than take the hand instead of the word. That's the most agency she's shown in the whole book. She didn't get soothed. "Not the hand in place of the word." Yes. YES. That's her saying I will not be managed, I will be *answered* — and the book let her mean it.
+Cassie's "they don't quite see me as an adult yet" and Vee editing herself for her dad — these two are both living cropped lives, and neither of them said so to the other. That's friendship as real as this book does.
 
-Also: she kept her coat buttoned. The bag stayed in the car. She'd decided before she ever got there that she could leave. That's not the girl who lasted five school nights. That's a woman who packed for the possibility of not staying, and that detail gutted me more than the crying.
-
-I'm terrified of the next chapter. I want them to work it out and I want him to have to *bleed* a little to do it — I don't want her walking back into that heat and the chicken and the poured wine and having the warmth dissolve the question again, because it will, that house is a machine built to dissolve questions. If she goes back through that door without the word, or at least without a real crack in him, I don't know what I'll do. But for the first time in forty-five chapters the book has made the *not-saying* the thing at stake instead of the everything-else, and I can't look away.
-
-**GATE 45 — Believe Me**
+GATE 5 — Cropped
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 7
+NEXT: 7
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: She asked the exact question I've been carrying since chapter one, out loud, at cost, and the book didn't flinch or hand her a comfort. Both of them being right at the same time is the most honest thing this story has done, and I have to know whether he cracks or whether she stays in the cold.
+WHY: No heat at all and I didn't miss it — the care is all on the page, and the cropped/uncropped idea landed like a quiet bell. I'm keen for the next one because the Cassie thread just got pulled tighter and I can feel the book winding something.

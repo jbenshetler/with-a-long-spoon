@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch054 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~bb2635a8b1b0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch054 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f6c081c5e67c · 2026-10-01*
 
-REACTION — Oh, I needed this little exhale more than I knew.
+REACTION — Oh, Randi. Oh no. Oh yes. I am absolutely in the trap with Vee, because while I can see Randi steering her with both hands, I also felt how badly Vee needed somebody to take the awful freefall of the break and make it into a plan. That girl came in from the airport hollowed out. The no-radio drive, the empty dorm, Cassie gone, the whole town containing Pace but not containing him *for her* — that hit me right in the old romance-reader gut. Silence is such a brutal answer even when it isn’t meant as one.
 
-After the coat and the bed and the food and the whole “pleasure princess” weekend, this could have felt like a letdown, but it didn’t. It felt like getting Cassie’s air back into the room. Thank God. The dorm room is ordinary in the best possible way: overheated radiator, bad shower, socks in stacks, Cassie’s window cracked open like a tiny act of war. And Vee comes back glowing so hard she can barely lie properly, which is adorable and also telling, because she *does* lie. She edits the story.
+And Randi is so good here it’s frightening. She doesn’t just comfort Vee; she reorders reality for her. She takes the panic apart piece by piece: what did he actually do, what did he actually say, what did you invent at three in the morning. And some of it is right. Vee *did* build Sheri out of fear. Pace *did* warm the house and pour the wine and call her the most important thing in his life. But Randi also very neatly moves the problem away from Pace’s refusal and onto Vee’s delivery. “You backed him into a corner” made me bristle, because no, asking what you are to a man who has remade your life is not some ambush. But it also landed because Vee heard it as a door back to him, and she is starving for a door.
 
-That sweater-and-laundry nonsense made me laugh because Cassie is not stupid for one second, and Vee is just flinging props around like stage scenery. “Pace shrank your sweater” is Cassie seeing the whole naked weekend through a pinhole and deciding to let Vee have her privacy. I love that. I love a friend who can clock the lie, enjoy it, and not make you pay for it.
+The coat idea is hot. I hate that it’s hot. I hate that Randi knows exactly how to light the shame fuse and turn it into want. The long coat, nothing under it, black heels, showing up as the answer with no words — yes, my thumb would already be moving. That is the kind of grand erotic gesture this book has absolutely earned. But the danger in it is screaming. Vee needed words. Now she’s being sent to solve the word problem with her body. And because this book knows that, I’m not annoyed; I’m tense. If Pace receives her and still doesn’t speak, I may actually throw something soft but meaningful.
 
-And the card. Oof. That got me. Cassie’s mother thanking Vee, wanting to see her again — that tiny warmth hit harder than a bigger sentimental scene would have. Vee’s “Oh” being small because the feeling is not small? That’s exactly the kind of emotional interiority I’m here for. It reminds me that Vee is not only hungry for sex or Pace’s house or Randi’s glamour. She is hungry for being kept in people’s minds. Cassie’s family remembered her. Cassie brought that back like it was no big deal, and then mercifully closed the door before Vee had to stand there naked emotionally too.
+The hug was the real heat for me, honestly. Vee breathing Randi in, not wanting to stop, Randi holding past where a hug stops — that had more charge than half the explicit scenes in other books. And then Randi giving her shoes like a fairy godmother with an agenda. Delicious. Suspicious. Deeply not neutral.
 
-I also noticed how happy Vee is in the lesser shower. That mattered to me. She can compare Pace’s abundance to dorm life without despising the dorm. She’s not just being absorbed into his rich, sensual little kingdom. She comes back to Cassie and the ugly practical world and still loves it. That makes me trust her more, or maybe trust the book more.
+The John retelling tucked inside this chapter did something sharp, too. Vee hearing the fairytale and feeling exactly what she lacks — the future spoken aloud like a game, the daughter-story dress, the man who can build a whole life in public in the first hour — oof. And Randi closing the bedroom door in the telling while pretending the bedroom was the problem? Vee reads it as discretion because she needs Randi to stay clean in her mind. I don’t. I remember the sandwich. I remember Pace reaching her further. Randi is lying with grace, and I am watching the silk move over the knife.
 
-The ending is quiet, but it works on me: the one-girl-wide bunk, her hand hitting cinderblock instead of Pace, the shirt still carrying him but fading. Friday is already glowing ahead. It’s a bridge chapter, absolutely, but a good bridge: Cassie restored, Vee’s social world breathing again, and the secret editing pattern still humming under the floorboards.
+I want tonight badly. I want Pace to open that door and fall apart. I want him to say the thing before he touches her. I want Vee to get the erotic courage without having to pay for it by swallowing her own need. And I want Randi kept ten feet from my girl and also never off the page, which is exactly the problem.
 
-GATE 54 — Unpacking
+GATE 54 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-ALMOST-STOPPED: none
-WHY: This was quiet, but it gave me Cassie back and let Vee be funny, loved, and evasive all at once. I’m not panting for the next page the way I was at the doorstep, but I’m comfortably hooked, especially because Vee’s little edits are starting to matter.
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: “You backed him into a corner in his own house. Name it or lose me — the one thing he can't do.”
+WHY: I almost rebelled there because it edges too close to making Vee responsible for Pace’s silence, and I am not letting him off that easily. But the chapter knows how dangerous Randi’s comfort is, and the coat plan has me feral for the next door-opening.

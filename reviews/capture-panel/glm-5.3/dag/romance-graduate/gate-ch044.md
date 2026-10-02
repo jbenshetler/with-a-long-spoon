@@ -1,17 +1,20 @@
-*capture-dag-v2-rich · gate ch044 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~025d1b3f1ab8 · 2026-09-10*
+*capture-dag-v2-rich · gate ch044 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-01*
 
-REACTION:
+REACTION — God, the flannel. I thought the drawer was the moment this book had saved up for me and then she hands him back a washed shirt because it stopped smelling like him and asks him to *wear it for her all weekend and give it back Sunday full of him*, and I had to put the Kindle down. That's the most naked thing she's said all book and she said it about laundry. "It stopped smelling like you" — she's been sleeping in a dead shirt five nights a week and she told him. And his face going puzzlement → hurt → that smile "that seemed to cost him something" — he thought she was returning it, he decided not to ask, he's SO good at not asking things and the book knows that's both his beauty and his problem and it said it right out this time.
 
-That last image is going to live in me a while — the shirt in a heap, "not folded, not set back on the pillow, down in the dark where a dropped thing lands," and the girl lying bare in the cold on purpose because warm-with-her-own-heat was worse than cold. God. That's the whole book in one gesture: she takes off the comfort because she finally clocked that she's the one generating it. The flannel relay was one of my favorite things this book ever did, and now it's broken — "it was warm because she was warm. That was the thing she couldn't stop feeling once she'd felt it." That line actually hurt.
+Also: the five nights were HER call. She needed school nights and he said of course and didn't fight, and the book named the thing I've been circling for forty chapters — "some unreasonable corner of her had wanted him to fight." That's the most psychologically true sentence about wanting I've read in months. He never asks her for anything out loud; he just builds a drawer and waits. She's starving for one sentence of wanting and he gives her everything except the sentence. I felt that in my chest.
 
-And the phone. The empty text field where nothing she could type would come back as what she needed — that's the most 1 a.m. true thing this book has written. "The ones she thought of were all small, and would be answered small and warm, and would leave her exactly here." She knows him well enough to know exactly the size of the answer she'd get, and that knowledge is the loneliest thing in the chapter. She's not even hoping anymore; she's auditing the hope before she spends it.
+The hallway undressing was hot and funny and hers — her towing him by two fistfuls of shirt while he "just came slowly," the jeans defeated, the thong thrown at the table that is DEFINITELY going to matter later (a "long, unusually proportioned table in the middle of his bedroom"?? I see you, Helen Rivers, that's Chekhov's spanking bench and I'm side-eyeing it hard). "Shamefully fast... her body having just published the number she'd gone to such trouble to keep private" — the book keeps doing this thing where her body files a report her mouth never authorized and it never stops landing.
 
-Two small things I want to flag. Cassie sleeping below her, slow and easy — the girl who asked "is it that you can't say or that you don't want to" is RIGHT THERE, and Vee can't use her, and the book knows we know. And I keep noticing this book never lets Pace be a villain in these scenes; he's across town asleep "easy as a man with nothing grinding in him." Whether that's peace or the wall being a wall, I genuinely can't tell, and that's the ache. Chapter 42 gave him that double-breath when she said the cracker sentence — he heard SOMETHING. But three chapters of her starving for one word and him answering everything-but is starting to feel like a slow bleed, and I need it to be building to something and not just the weather of the book.
+The pizza chapter inside the sex chapter — him not performing the cooking, "he'd have made the pizza exactly like this for an empty house," her not minding which of them got the larger share of his attention — that's the interiority I'm here for. And the flavor inventory walking down the tongue... I wanted dinner. I wanted a man. I wanted both.
 
-This one pulled me hard. It's short and it's basically one woman lying in the dark, and it did more to me than most full plot chapters because every sentence is load-bearing. The treaty she made at Halloween — the everything-he-does without the saying — has officially collapsed. She's bare in the cold and the book made me lie there with her.
+I'm noticing the heat pattern came back exactly on schedule, the MIRA grenade from last chapter hasn't gone off yet — that's two live wires (Randi's secret, the third game) being held while the book feeds me the warm middle. It's earning it. But the timer's running and I know it knows.
 
-GATE 44 — Bare
+GATE 44 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 8
-ALMOST-STOPPED: "He was across town in his own bed, gone down easy as he always went" — the thought that this un-nameable ache might just be the book's permanent weather, that we're circling the wound instead of heading anywhere.
-WHY: The flannel was my favorite thread and this chapter broke it honestly, with the exact reason it had to break. If the word-starvation goes on much longer with no movement, I'll get restless — but the shirt in a heap tells me the book knows exactly what it's doing.
+CAPTURE: 9
+NEXT: 8
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The flannel scene is the tenderest beat of the whole series so far and it's built on real psychology, not sentiment — her wanting him to fight, the shirt as a battery for the nights he doesn't get. Heat and tenderness firing on the same page, which is the whole reason I'm still reading this book. Docking NEXT slightly only because I now NEED either the MIRA fallout or the Randi escalation next; another pure-warm chapter and I'll start feeling the book stalling its own bombs.

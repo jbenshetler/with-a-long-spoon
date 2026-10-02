@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch005 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha a56102b7d0d5 · 2026-09-26*
+*capture-dag-v2-rich · gate ch005 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ba0f4b39c8e6 · 2026-10-01*
 
 REACTION
 
-Oh, the sheer *audacity* of these two. I am losing my mind.
+Oh, the sheer *audacity* of watching this trap snap shut in broad daylight. My stomach was in knots the entire time.
 
-The dramatic irony in this chapter was dialed so high my teeth were practically vibrating. Watching Randi sit there, frantically texting him under the table to get his ass over to Wilson, and then pulling that absolute ice-cold, deadpan "Randi" when he walks up? *Masterclass.* She didn't do her little routine, she didn't bat an eye, she just played the bored, gracious sorority sister watching her little charity-case friend get hit on. Except she wasn't bored at all—she was fidgeting with that damn coffee cup the entire time, barely holding it together, watching the trap spring shut. And asking about *Bessel's correction* just to toss him a bone and hear him talk? God, she is so sick and twisted and I am obsessed with her.
+Seeing this encounter purely through Vee's eyes—knowing everything we know from Chapters 1 through 3—is genuinely thrilling and deeply unsettling. When she looked up and saw Randi texting with that "private, absorbed focus," my heart dropped. She's literally texting the hunting dog to tell him where to drop the net! "The place on Wilson" that Randi casually steered them toward in Chapter 2, now revealed as the exact ambush site. It’s so sociopathically smooth.
 
-And Pace! The man is terrifying in the quietest, most lethal way possible. The way he approached that table was pure psychological surgery. He didn't come in hot; he came in as the gentle, competent tutor. Handing her back the pencil at the exact line so the triumph belonged to *her*? Asking "What's drawing you to it?" instead of the usual throwaway lines? The "May I call you?"—the courtly, formal precision that makes a twenty-one-year-old girl feel like she's the only real thing in a room full of noise? He is feeding her exact starvation. He mapped out her specific intellectual and social vanity in ten minutes flat and served it to her on a silver platter. It’s erotic before they’ve even brushed knuckles, because it is *so deliberate*.
+And then the execution from both of them. Randi giving him *one flat syllable* for her name—no cute "like the adjective" bit, just absolute icy restraint to sell the lie that they’re total strangers. The faux-innocent stats question about Bessel's correction to establish the baseline of a curious bystander while subtly making him look brilliant. And her cup going to her mouth twice without drinking! The physical tension in Randi is bleeding through the edges of Vee's narration, but Vee is so dazzled by Pace's laser-focused attention that she misinterprets it completely as boredom.
 
-And then the comedy of the peanut gallery: Cassie sitting there, completely immune to the glamour, observing that Pace looked at Randi "like somebody's great-aunt," while Randi plays the ultimate supportive wingwoman, pointing out the forgotten coffee to ensure Vee is thoroughly hooked. *“A man doesn’t forget his coffee over a girl he isn’t going to call.”* Randi, you absolute devil.
+And Pace. God, he is terrifyingly good at this. The calculated modesty of his clothes, the forearms (which Vee immediately clocks, because of course she does), and the way he guides her through Euler's formula without ever taking the victory away from her. "On their own these two are a struggle... put them together, at right angles, and they turn into a single thing that's suddenly plain." The double meaning practically vibrated off the page. He is already setting the terms of her surrender, teaching her that being guided by him feels like autonomy. And that courtly, deliberate *"May I call you?"*—a word designed to bypass modern college defenses like a skeleton key.
 
-Poor Vee is completely cooked. She has no idea she's stepping onto that walnut bench, but her body is already leaning toward the drop. I am seated. I am strapped in. Give me the date.
+Cassie's line, though—"He looked at her the way you'd look at somebody's great-aunt"—was the sharpest little knife in the whole scene. Cassie sees the mechanics of the room better than anyone, but the premise is completely inverted because of what she can't know.
 
-***
+The heat here was entirely psychological, an absolute masterclass in dramatic irony and seduction. I need to see the first phone call, the first date, the moment he starts carving away the layers.
 
 GATE 5 — Substitution
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
+HEAT: 1
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension of the trap being sprung in broad daylight was delicious—Pace's calculated gentleness paired with Randi's silent, twitchy performance across the table had me holding my breath the entire scene.
+WHY: The tension of watching Pace and Randi orchestrate the meet-cute while Vee drinks it in as pure, serendipitous romance is deliciously torturous. Rivers balances the intellectual back-and-forth of the math with the predatory undercurrent so flawlessly that you can't look away.

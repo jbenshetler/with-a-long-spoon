@@ -1,24 +1,30 @@
-*capture-dag-v2-rich · gate ch019 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 1f134f523a50 · 2026-09-19*
+*capture-dag-v2-rich · gate ch019 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6c8bd3bde2d5 · 2026-10-01*
 
-REACTION
+REACTION:
 
-Oh, Vee. My heart just aches for her in the most delicious, terrifying way.
+Oh my god. My stomach is in actual knots.
 
-There is something so painfully true about the morning-after walk back into your normal life when something monumental has shifted in you. Coming back to the dorm smelling like another person, with no bag because packing a bag would mean admitting you knew you were going to hand yourself over, waking up bare-faced with your clothes tangled on the floor—it’s so real. And the details! *Frosted plum.* Painted on her toes in October because she was secretly dressing her body for a man’s eyes even while lying to herself that she wasn’t.
+The *manipulation* here is so subtle and so terrifyingly effective I feel like I need a cold shower. Randi is a masterclass in psychological extraction. The way she sets up the environment—the dark green velvet booth, the intimate alcove, the expensive ease of the convertible, the wine—and then immediately disarms Vee with her own "vulnerability." Telling that story about getting tied up with the Hermès scarf and tickled to the point of crying? It’s brilliant, it’s completely unhinged, and it immediately sets the conversational permission structure to: *We talk about our wildest, most humiliating, most submissive bedroom secrets here, girlie.*
 
-What killed me here was the editing. With Cassie, Vee has always had an open channel. But now, she has to lift the middle out clean, "the way a ladle takes soup from the pot and the surface closes without a hole." Because how do you tell your roommate, your anchor, that you walked in, pulled him by the neck of his apron straight to the bedroom, and let him eat you alive while your mother’s voice screamed *floozie* in your head and you loved every second of it? How do you tell someone that you stood up naked, dropped your towel, folded your soaked satin panties in thirds, and handed them to him like a trophy, saying *"Trade"*? You can't. You can't say that out loud to the real world without sounding completely out of your mind. So she gives Cassie the fra diavolo and the Chianti.
+And Vee, who is so deeply, desperately starved to be known and accepted, just walks right into the parlor. Watching Randi steer her from the dress to the measuring, to *“Nobody measures over a bra,”* to drawing out the exact physical geometry of Pace on his knees in front of the platform... it made my chest tight. Randi knows *exactly* how Pace works because Pace did it to her, or because they planned it together, and she is feeding on Vee’s experience like oxygen.
 
-And stopping the zipper halfway down her hip because she suddenly remembers she’s bare underneath—god. That hit me right in the chest. That moment of almost exposing the sheer physical reality of what she’s become right there in the daylight of their dorm room. She zips it back up. The secret is sealed inside her now.
+And then the moment Randi pulled the brake:
+*“You don’t have to tell me.”*
+That wasn't mercy. That was Randi suddenly hitting her own absolute limit of what she could bear to hear Pace doing to another woman, or it was the absolute masterstroke of control, pulling the rug out right when Vee was about to hand over her deepest shame. The whiplash! Leaving Vee with her soul completely bared and hanging out over the tomato soup, and Randi just casually checking her watch and looking for the bill. It is *merciless*.
 
-She thinks she’s never been happier. She is practically floating on air, intoxicated by the fact that for the first time in her life, her wild, greedy, soaking appetite wasn't shamed—it was met, matched, and celebrated by a man who looked her dead in the face while he wrecked her. But we know. We know the pointing game. We know Randi is out there with her French kisses and her silk camisoles and her little trap door waiting to spring. Vee thinks she's in the greatest love story of her life, and she is so utterly defenseless because she gave every single piece of it away on purpose.
+And THEN. The kiss in the car.
+*“Not the dry tight press Vee gave her grandmother. Soft, and in no hurry... a second press that had something in it the first one hadn't...”*
+My jaw hit the floor. Randi didn't just cross a line; she blew right through it. The sheer predatory thrill of it, mixed with whatever real, terrifying, suppressed queer hunger Randi is clearly harboring—it’s intoxicating and deeply unsettling. And poor Vee, standing on the curb in the dying light, frantically trying to convince herself it was *French*, while her body is entirely electric and terrified that someone in the dorm saw her.
 
-I'm breathless. I need to see what happens when the other shoe drops. I need to see where those green panties end up.
+Pace makes Vee feel seen and safe. Randi makes her feel seen and entirely destabilized. I am sick with anticipation for what happens when these two currents smash into each other.
 
 ***
 
-GATE 19 — Toenails
+GATE 19 — How It's Done
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological honesty of the morning after—having to edit the truth for your best friend because the reality of your surrender is too raw to speak aloud—was utterly captivating. I am completely hooked on Vee's unraveling and desperate to see what Pace and Randi do next.
+WHY: The psychological tension between Vee and Randi is wound so tight it feels like a piano wire; that slow, lingering kiss in the convertible pushed this whole triangle into an entirely new, dangerous gear.

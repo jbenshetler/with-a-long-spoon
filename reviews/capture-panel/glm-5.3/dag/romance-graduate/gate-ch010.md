@@ -1,14 +1,20 @@
-*capture-dag-v2-rich · gate ch010 · glm-5.3 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b011ff26b790 · 2026-09-26*
+*capture-dag-v2-rich · gate ch010 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha f1da455fc255 · 2026-10-01*
 
-REACTION: This is the smallest chapter yet and honestly the most disarming. I know what it is — a bridge chapter, all aftermath, no heat — but the book has earned it. After that kiss, coming home and spilling it to Cassie in a dorm room with the window cracked two inches is *exactly* the right beat, and Vee spinning in the too-small room and landing in the bean bag is the first time she's been a full-body happy girl instead of a managed one. That's the whole engine of this book working: her joy is the explicit content now, and I'm not even mad that nobody took their clothes off.
+REACTION — Okay, this chapter is basically a big grin from start to finish, and I resented it a tiny bit and then gave in completely. The spinning-in-the-bean-bag thing? I did that. In my dorm, over a boy named after a river, twenty years ago. The specificity of that — "over before it was really a dance at all," the room too small to hold what she has to do with it — that's the detail that gets me, because it's not "she twirled, so happy!" It's the body outrunning the room. Rivers writes joy like it's a physical event, which honestly nobody in my Kindle library does.
 
-And of course Cassie is becoming my favorite person in it. "How much did he give you to drink?" — because Cassie is the only character who's allowed to ask what I'm quietly asking. "Rich people hike. Poor people walk." She's doing the math the book won't let Vee do. And "off six-fourteen" being the entire address — the dramatic irony is doing its slow work: I know what's out past the gravel. There's a bench in that house. There's a girlfriend in that house, one who knows Vee's name and her class schedule, and Vee is planning to borrow shoes to go hiking with a man and doesn't know she's already been chosen at a dining-hall door weeks ago. The blurb promised me this — "the invitation reached her long before she knew there was one" — and the innocence of this chapter is what makes it hurt. "Nobody did anything to me. I wasn't talked into it. I did it because I wanted to" — yes, and that's exactly the problem, sweetheart. That's the whole epigraph.
+And Cassie. I'm now fully attached to Cassie in a way that's going to hurt later, I can feel it. "Borrow good ones." Four words and I know everything about that friendship — the dry floor under the gladness, the way she took the pillow on the shoulder *without unfolding*. She's the one person in this whole book asking the safety questions — how much did he give you to drink, what do I tell the state troopers — and doing it as a joke, because that's how love looks when it's armored. And "Goodbye, Vee" back in chapter 4 is sitting there in my memory like a loaded gun. I don't know what Rivers is doing with that yet — whether Cassie knows something, or whether it was just Cassie being terminal about everything — but it hums.
 
-Also the re-read value is genuinely sinister: I keep catching myself enjoying the tenderness and then remembering Randi asked "Do you think she'll like the bench?" and getting a chill. That's craft. That's a book doing two things at once.
+What's doing the complicated work underneath the fluff: "Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose." That's Vee insisting on her own agency — to her best friend, urgently — while I, the reader, know the pointing game happened, know Randi walked into her on purpose, know Pace asked "may I choose" and chose. And the horrifying-sweet thing is Vee is *also telling the truth*. Both things are true at once. She pulled him back. She kissed him. And the whole thing was set in motion by two people who picked her off a quad like a piece of fruit. The book keeps making me hold those two truths in one hand and I keep doing it because the prose earns it.
+
+Also, small chill: "he lives off six-fourteen, past where it goes to gravel" is the exact house with the bench in it. She's so happy and I know what's in that bedroom. The dramatic irony is doing me in.
+
+No heat this chapter, obviously, and I didn't miss it — that's the part that's surprising me about this book. Though I'll be honest: two cozy chapters in a row after the coffee-shop stretch. I'm fine, the Cassie material is real, but I notice the pattern forming. One more quiet one and I'm skimming for dialogue.
 
 GATE 10 — Off Six-Fourteen
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 7
 NEXT: 8
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Nothing charged happened and I still read it grinning — that's aliveness on the page, not filler. And I need to see the hike, need to see her walk toward the house off six-fourteen with no idea what's waiting there. The dramatic irony is loaded now; the next chapter is where it starts to spring.
+WHY: Zero heat, all warmth — the bean bag spin got me and Cassie's "borrow good ones" got me more, and the dramatic irony of where six-fourteen leads is pulling me forward harder than any sex scene would right now. The hike to the house is next and I know what's out there; I want to watch her walk toward it.

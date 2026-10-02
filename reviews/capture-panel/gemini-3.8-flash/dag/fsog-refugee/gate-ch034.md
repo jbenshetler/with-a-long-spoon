@@ -1,25 +1,26 @@
-*capture-dag-v2-rich · gate ch034 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 702b7231d0c3 · 2026-09-19*
+*capture-dag-v2-rich · gate ch034 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 230524645ef4 · 2026-10-01*
 
-REACTION:
+REACTION
 
-I feel sick. Genuinely, physically uneasy in my stomach, and I can't look away.
+Oh, Vee. *Look at you.*
 
-This chapter is a masterclass in psychological horror dressed up as brunch, and it terrifies me precisely because of how *good* it is. Randi is horrifying. She doesn’t need physical restraints or a safe word; she has built a cage out of mimosas, false intimacy, and "girls' talk," and Vee is walking right into the center of it with her heart completely open.
+I have chills. That moment where she stood up, took the first tiny, safe, obedient step to keep the slit shut—and then just said *to hell with it* and took the long stride? To bare that leg all the way to the hip, wearing nothing underneath, in a room full of parents and department-store navy dresses? That is pure, unadulterated female defiance and blooming. Her mother's voice has been whispering *floozie* into her spine her entire life, telling her to tuck herself in, be small, don't take up space, don't show what you have. And Vee just walked across that stage like an absolute goddess and let the room wake up to her.
 
-The manipulation here is breathtakingly vile. Randi knows *everything*. She prods Vee to confess the deepest, most raw, intensely private moments of submission and pleasure she shared with Pace—moments that, when Pace handled them, felt genuinely tender and asked-for—and turns them into brunch fodder. But she doesn't just extract the details; she turns the emotional dials. She calls Pace "vanilla" specifically to provoke Vee into defending him, knowing Vee will give up the spanking. Then, once Vee is already vibrating with remembered heat, Randi drops that lethal, perfectly calibrated story about getting herself off in an empty Greek house bedroom. It wasn't an accident. She knew *exactly* what that image would do to Vee.
+What gets me so hard right in the chest is the absolute ownership of it. This wasn't Pace telling her to be bare, and it wasn't Randi pushing her out on a ledge. Randi helped her with the shoes, yes, and Pace built the dress, but *Vee* was the one who looked at the slit, saw what it required, took off her underwear, and chose to walk long. The heat in her body agreeing with her own audacity—that line about her body coming up to meet a decision a half-second before her head was sure of it—that is why I read romance. That is the exact feeling of coming into your power.
 
-And then the bathroom. God. The bathroom broke my heart. Seeing Vee in that stall, desperate and burning, finally reaching for her own release—only for Randi’s face to intrude and freeze her out of pure shame and submission? That’s not liberation. That’s psychological invasion. Vee stopping an inch before the edge, pulling her clothes back up over that unfulfilled ache, felt worse than a denial scene in an actual dungeon.
+And sending the uncropped photo to Pace in his hotel room in Berkeley! God, the ache of him not being there to see it in person, but the absolute intimacy of her sending it to him, knowing he made it for this exact room, knowing he'll see the silk doing what his hands shaped it to do, while the secret of what's *under* it belongs entirely to her.
 
-And the psychological warfare when she walked back out: *"Sticky fingers?"*
-My heart literally stopped. The sheer cruelty of that double-entendre! To dangle the absolute exposure of Vee's secret, watch her choke on her own terror, and then casually pivot to the glazed pastries on the table? *"Vee could not tell whether her friend had just handed her a door or shown her there had never been one."* That line is going to haunt me.
+I missed Pace in this chapter—I always track when they're apart, and him being in California makes my chest ache a little because they just had that earth-shattering breakthrough on Sunday with the spanking and the dishes. But this chapter *needed* him to be absent. If he had been in the front row, she might have done the walk for him. Because he was gone, she did it entirely for herself.
 
-And the end. Oh, the end makes me want to scream at Vee to run. Randi feeding her the "best friend in the whole world" line, reeling her in with that counterfeit sisterhood, and then the kiss. Not a friendly peck. A deliberate, testing, boundary-eroding kiss that leaves the taste of the pastry on Vee's mouth—the pastry only *Randi* had taken a bite of. *One bite.* Just like the title. Randi took a bite out of her, and Vee is standing on the sidewalk in the cold, utterly enchanted by the wolf that's about to eat her alive.
+Now... Randi is still lingering in the background like a storm system, and Pace is coming back from Berkeley eventually, and Vee is walking around completely transformed, fully awake to her own appetite and her own nerve. I am vibrating. I need the next chapter immediately.
 
-It’s diabolical. I hate Randi with every fiber of my being, and I am in awe of how completely the trap is closing. I have to see what happens next.
+***
 
-GATE 34 — One Bite
+GATE 34 — The Induction
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension is agonizing and Randi is a brilliantly terrifying villain; I felt every second of Vee's humiliation, heat, and absolute blindness. I need to see when the floor finally drops out.
+WHY: Vee stepping out of her shame and taking that long stride across the stage was breathtaking character growth, and sending the uncropped photo to Pace while he's away at his conference killed me.

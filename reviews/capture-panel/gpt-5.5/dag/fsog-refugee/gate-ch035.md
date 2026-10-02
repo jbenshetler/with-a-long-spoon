@@ -1,25 +1,30 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~3fae9b31dd45 · 2026-09-11*
+*capture-dag-v2-rich · gate ch035 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 13e407d9f33a · 2026-10-01*
 
 REACTION —
 
-Oh. Oh, this got me.
+Oh. Oh, this one got me.
 
-Not in the fireworks way, though the beginning has plenty of that, that week-apart hunger where they don’t even make it into the house properly. What undid me was the drawer. Of course it was the drawer. This book knows exactly where I live: not just the taking, but the place made afterward. The top drawer. The easy one. He moved his own careful little life down and cramped it so hers could be reached first.
+This is exactly the thing I keep reading for and almost never get cleanly: dominance that has a hand on the door the whole time. The second she says “Don’t,” his hand is gone. Not sulking, not negotiating, not turning it into “but you want it.” Gone. And then the entire heat of the chapter comes from her realizing she wants it back and choosing to say so. I felt my whole body unclench at that, which is ridiculous because the scene itself is so charged, but that is the hinge for me. That is the difference between the books I left and the book I’m still in.
 
-That is such a devastatingly Pace love language that I’m sitting here with my hand over my mouth a little. He doesn’t say things. He builds the dress. He cooks the salmon. He buys the ridiculous abundance of scrunchies. He sees the counter chaos, says nothing, and then makes room for her chaos to become part of the house. Not tolerated. Placed. Given an address.
+And God, Vee. She is so embarrassed by her own wanting, and I believe every inch of it. The wetness shame, the “too easy,” the awful exposure of her body having an answer before her mouth has a language. That could have gone somewhere mean so easily, and instead Pace looks at it like it is true and fine and hers. I almost got teary there, honestly. Not because it was soft exactly — it is very, very not soft — but because the care is holding the whole thing up. He doesn’t make her confess in some courtroom way. He gives her chances. He asks. He slows her down when she’s trying to rush past herself. “For me” absolutely did me in because she hears the ask inside the command, and so did I.
 
-And Vee realizing she loves him in the dark felt painfully right to me. I believe her. I believe it because it isn’t just sex-drunk, though she absolutely is sex-drunk and food-drunk and being-cared-for-drunk. It’s the accumulation: he comes back to her, he feeds her, he gives her pleasure first like it’s natural law, he makes domestic tenderness feel erotic because it’s attention. The “Peter” into his sleeping ear hurt in the sweetest way, because she still doesn’t quite dare put the whole thing where he can answer it. She gives it to the sleeping version of him first. I know that move. God.
+The spanking itself was hotter than I expected because it wasn’t performance. Randi’s story made me nervous — counting, humiliation, the naughty-little-girl thing, that whole little theater — and Vee is bracing for that too. Then Pace does something quieter and more intimate and more dangerous, honestly, because it is tuned to her instead of to a script. He soothes after each one. Kisses after some. It’s not cruelty dressed up as dominance; it is attention sharpened into dominance. That is my drug. That is the thing.
 
-But the ache underneath is getting louder. He never says. She is now making a whole cathedral out of what he does not say. I don’t think she’s wrong about his feeling, exactly. I think he does love her, or something so close that the distinction may not matter to his body. But the silence is dangerous because the biggest silence is still sitting under the floorboards: Randi, the plan, the invitation that started before Vee knew she was invited. Every tender unsaid thing makes that future reveal heavier, not lighter. The top drawer made me melt, and then immediately made me afraid, because now when the truth comes out she isn’t losing a fantasy man. She is losing, or risking, a home.
+I also loved the beginning, the silly clothes-stealing game, because Vee is so alive in it. Fast, bratty, flashing him like she can hardly believe she’s the woman doing it. I love seeing her become playful with her own power, not just awed by his. And I love that he flinches. Not in a bad way — in a human way. He isn’t only the wall. She can land on him. She can affect him. That matters to me more than I would have guessed.
 
-The bathroom scene with the counter also hit this tiny old shame place in me. Vee’s disorder in his clean house, her waiting to see if she’s too much, if her bottles and pins and face cream have somehow exposed that she doesn’t belong. And he doesn’t reassure her with a speech. He kisses her shoulder. Then later he reorganizes his life around her. That is so intimate I almost can’t stand it.
+The aftercare nearly finished me. Juice. Of all things, juice. That is so Pace it hurts: practical, unshowy, bodily care first. Then her head in his lap, hair stroked back, “wonderful” like he’s writing it into the record. I believe she falls asleep treasured. I believe it because the chapter earned it in touch after touch.
 
-I’m also noticing how much her body is becoming a record of him: eating more, clothes looser, hair wrecked, his robe, his deodorant earlier, now her things living in his drawer. The sex is still hot, yes, but the book is making domesticity filthy in the best way. A man giving you storage space should not be this erotic, and yet here we are.
+And then the scrunchies. The abundance of them. No note, just “I expect you here enough to need these.” That is somehow more romantic than a speech. I am very vulnerable to the domestic claim that is also useful. He is not just making her hot; he is making room for her life to happen in his house. Dangerous to my judgment, frankly.
 
-Still, I am tense. Beautifully tense, but tense. Because Vee has just named love to herself. Randi is still kissing sugar onto her mouth. Pace is still not saying the thing out loud. And the secret arrangement is now not just a consent problem in theory; it is attached to green scrunchies in a top drawer. That is going to hurt.
+But I’m still watching the machinery. “No Randi to be told” jumped out at me because yes, exactly, and also: will there be? The chapter gives Vee this private, sacred-feeling experience with him, and I am already tense about whether it becomes material for Randi. Because if Pace takes this particular thing — this new, raw, named-by-the-body-before-the-mouth thing — and lets Randi have it before Vee is ready, I will be angry. Not mildly. This felt like a trust scene. It has to stay trusted.
 
-GATE 35 — Above Him
+Still, right now? I’m in. I’m badly in. This chapter gave me the heat I came for and the consent I have been starving for.
+
+GATE 35 — We Find Out
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: The drawer got me completely. This chapter didn’t need a big confrontation because it made the tenderness feel like a vow, and that makes me both softer toward Pace and much more scared of what his silence is going to cost.
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "You enjoy this," he said. Not a question.
+WHY: For one second I was afraid the book was going to slide into him declaring her desire over her refusal, but then he stopped cold at “Don’t,” and that saved everything. After that, the chapter had me completely: her wanting, his restraint, the quiet aftercare, the scrunchies. I want the next chapter badly, though I am braced about whether this stays between them.

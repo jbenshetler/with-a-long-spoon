@@ -1,23 +1,26 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~c1f15218cc12 · 2026-09-11*
+*capture-dag-v2-rich · gate ch049 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-01*
 
 REACTION —
 
-Oh, Pace.
+Oh, that hurt in exactly the place I was afraid it was going to hurt.
 
-I have been angry with him, and I still am, but this chapter got under my ribs because it finally gives me the thing I needed from his side: not an excuse, exactly, but the shape of the fear. He knew. That matters so much. He knew on the porch that she had offered him something huge, and he knew his answer was smaller, and he chose it anyway because he was scared. That is awful, and it is also so painfully human that I can’t hold it at a clean distance.
+I’m proud of her. I’m actually so proud of her I’m sitting here with my chest tight, because she did the thing I kept wanting her to do and also dreading: she stood in the doorway and did not let the house take her. The warmth, the food, the wine already poured, the music, him coming out with the towel over his shoulder like the whole life she wants is already waiting. That would get me. That has gotten her every time. And this time she stayed on the mat. No bag. Coat still buttoned. Hands in pockets. God.
 
-The whiskey and bleach at the start made me wince. Not melodramatic, not sexy broken-man nonsense, just ugly and physical and useless. I believed every bit of that misery: the shower that doesn’t help, the chicken and broccoli that is technically food and spiritually punishment, the body needing things the mouth doesn’t want. And then, of course, he remembers feeding Vee. Not just having her, not just sex, but the first bite. That made me ache because it’s so exactly how he loves. He watches pleasure arrive in her before words. He has been fluent in her body and her hunger from the beginning, and somehow still acted like words were beneath the real thing. No, sir. The words are part of the meal.
+And Pace. I’m furious with him, but not in a “throw the book” way yet. More in the way where I want to put both hands on his shoulders and say: do you understand what you are doing to her? “You’re the most important person in my life” should have been enough, almost. In another chapter it would have melted me. But he keeps giving her these almost-answers, these gorgeous not-quite answers, and each one is starting to feel like a door with no handle. He can make a room warm for her. He can hear her body. He can remember every small thing. He can do devotion in action until it makes me weak. But when she asks for words, for a public shape, for something she can carry outside the house, he goes philosophical on her. “Words are cheap.” No. No, Peter Pace, not here. Not when the whole wound is that everything real between you stops at the threshold.
 
-Daphne finally explains a lot without letting him off the hook. I can see how a young Pace would decide language itself was the fuse. Say it and the loss becomes unsurvivable. Don’t say it and you can get up the next day. It’s tragic logic, but it is still logic built around protecting himself while Vee stands outside the house crying. And I’m glad the chapter knows that. It doesn’t romanticize his silence. It calls it weakness. He calls it weakness. Thank God.
+“Words are cheap, and you still won’t spend them on me” absolutely gutted me. That is the sentence. That is the whole last several chapters coming due. Because yes, his actions matter. They matter so much I’m still reading. But words are not cheap when someone is starving for a name. They are not cheap when they are the bridge between the warm private room and the rest of her life. She is twenty-one and trying to explain the best thing that has ever happened to her without making herself sound used. He has to understand that. Or he has to learn it very fast.
 
-The line that really got me was him hearing an engine and becoming all body toward it before he even knows he’s moved. That is love. Not the polished kind, not the controlled kind, not the little “believe what I do” speech. Just helpless hope. And then the truck going past. I hated how much I wanted Vee to be in that driveway, and I hated even more that I don’t think she should have been. He needs to come to her awake, not be rescued by her arrival.
+The part that scared me most was him folding his arms and shutting. There it is. There’s the line. He has one, and it is right where the word should be. That doesn’t feel like simple awkwardness anymore. It feels like history, damage, Daphne, family, whatever scarred place he won’t let her touch. But her pain is not made less dangerous because his comes from somewhere real. That’s the trap with men like this in books and maybe in life: the wound explains the withholding, and suddenly the woman is supposed to live on scraps because he bleeds if she asks for bread. I don’t want that for Vee.
 
-I am still worried about the bigger secret. This chapter makes me softer toward Pace, but it does not erase the original arrangement with Randi. If anything, it sharpens the problem: he knows what hiding does. He knows what withholding costs. So he has fewer places to hide from that now.
+And still, because I am who I am, the tenderness almost kills me. The heat brought up hours early. The unlocked door. The chicken going. The wine poured. The porch planned because it’s clear and she can see everything. He has made loving her into an entire environment and then refuses to call it love. That contradiction is the most compelling and maddening thing in the book right now.
 
-But yes, I’m captured. I’m mad and sad and very much still here. The book has finally put him on the hook from inside himself, and I needed that.
+I’m also relieved she left. Not because I want them apart. I absolutely do not. I want him to go after her, but correctly. Not with hands first. Not with sex. Not with food. Not by making the house so warm she forgets the cold. I need him to spend the word, or tell her why he can’t, or at least stop pretending actions answer every question. Her walking out is the first thing in a while that feels like it might force the truth into the room.
 
-GATE 49 — Not Enough
+GATE 49 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: This is exactly the kind of emotional payment I needed after Vee’s hurt: not instant repair, but Pace understanding that his silence was fear and that it harmed her. I’m still holding him accountable, but now I’m desperate to see what he does with that knowledge.
+NEXT: 10
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: "Words are cheap."
+WHY: That line from him made me cold, because it turned his beautiful care into a defense against giving her what she plainly needs. But Vee standing there and asking for a name, then leaving when he would not give it, is exactly the kind of earned fracture that makes me need the next chapter immediately.

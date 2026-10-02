@@ -1,17 +1,20 @@
-*capture-dag-v2-rich · gate ch031 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~230524645ef4 · 2026-09-10*
+*capture-dag-v2-rich · gate ch031 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-01*
 
-REACTION — Oh, she did it. She actually gave herself the entrance she’d imagined—not by arriving late and making everyone wait for her, but by changing one careful step into one long one. That got me. The choice is tiny from outside and enormous inside: she could mince across safely, then decides the room may have her leg all the way to the hip. And her body answers her decision with heat. Pride and arousal becoming the same current is exactly the awakening I wanted for her.
+REACTION
 
-The crucial thing is that neither Pace nor Randi is there. Pace made the dress, Randi found the shoes, but neither gets to direct or even witness this moment. Vee chooses the long step herself. She keeps something from Pace, too—not dishonestly, but privately. He’ll see the photograph and understand what his dress did; he won’t know everything she felt while wearing it. “That part was hers” made me want to cheer. After so much of her transformation has been interpreted for her, she owns an experience nobody else can name.
+Oh, Peter. “Listen to you” indeed. He cannot hear that he is in love while he is pouring out the walnut joint, the math book, the exact way Vee looked at things he made. That got me. Not because it is a grand declaration, but because he has chosen the details that prove she sees him—not the polished host or the body or the competence, but the workmanship and the mind underneath it. He thinks he is describing her. He is exposing himself completely.
 
-And Cassie, God. She doesn’t style Vee or pry her open or tell her what the moment means. She holds the phone, takes the perfect photograph, gets misty about the actual honor, calls her streetlight, and offers her a terrible sandwich. That is love without an agenda. Vee asking only “How did I look?” made me ache a little, because Cassie is looking at the whole person while Vee is still hungry for confirmation of the image—but Cassie gives her the answer without making the hunger shameful.
+And then: “She knows. She likes her.” / “And the redhead?” / “Not yet.” There it is, stripped of every beautiful argument Pace makes to himself. An uninvolved woman needs about five seconds to identify the complication, and Pace can state the information imbalance in two words without apparently feeling the moral weight of it. Sheri laughs because from outside this sounds like enviable romantic chaos. I wanted to reach into the book and say, no, ask him what *not yet* means. Ask who gets to decide when.
 
-Also: this was hot without a hand laid on her. The secret choreography of holding the slit closed among everyone’s parents, then deliberately letting the silk open and feeling the entire room understand something it cannot say aloud? Yes. That is charge built from choice, exposure, and interiority, not a reheated sex-scene template. And the final uncertainty—whether she’s walking that way from pride or heat, and whether those have become the same thing—is the book feeding me exactly what I came for.
+I liked Sheri immediately, though I am watching her. The backside comment is crude in a familiar, unthreatening way, and her offer to dislike Vee on Pace’s behalf tells me more about the life he has outside these rooms than another polished confession would. She is loyal enough to become an enemy on request, and he specifically refuses that comfort. Good. He doesn’t want Vee punished for hurting him. He wants her back.
 
-I’m still terrified about the price under those beautiful shoes and the secrets under everything else. But for one chapter, Vee got to be entirely, privately hers. Let her have it.
+This is barely a chapter—it feels like one clean breath between the rupture and the return—but it earns the smallness. The ride keeps moving; Peter accidentally says too much; one outsider spots the coming collision; done. I’m not frustrated yet. I am absolutely turning the page because Vee is supposed to arrive tonight wearing Randi’s choices, and now I know Pace spent the morning talking about her like a man who has already lost any hope of being casual.
 
-GATE 31 — The Induction
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 7
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Vee claimed the room with one deliberate step, and nobody else got to author what it meant. The chapter gave me real interior change and genuine erotic charge at once—and Cassie’s terrible sandwich afterward made the whole thing feel loved rather than merely displayed.
+WHY: The chapter itself is a quick, quiet bridge, but Peter helplessly cataloguing the tiny ways Vee sees him landed hard. “Not yet” also made the concealed structure sound newly indefensible, and I need to see what happens when she walks back through his door.

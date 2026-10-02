@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha eeeec469236e · 2026-09-19*
+*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-01*
 
 REACTION:
 
-*“Words are cheap, and you still won't spend them on me.”*
+Oh, god. My stomach just dropped out through the floor.
 
-Holy *shit*. That line went straight through my ribs like a filleting knife. I felt that in my marrow.
+*“I had been eating crackers my whole life,” she said. “And you fed me a meal. I didn’t know what a meal was until you fed me one. And now I know.”*
 
-I am so proud of her. God, I am so fiercely, painfully proud of Vee right now. For chapters and chapters she has been letting the warmth, the food, the orgasms, and the sheer golden luxury of his attention lull her into swallowing every single doubt. He gives her heaven in that house, but the minute she asks for a bridge connecting that house to the real world—to her parents, to Cassie, to daylight—he deflects with pure, arrogant logic. *"Do any of your friends have a relationship you'd rather have than this one?"* What an absolute, textbook Peter maneuver. It’s so infuriatingly clever! It’s true, and it completely evades the human heart of what she’s begging for.
+She gave him her heart on a silver platter. She didn't say the forbidden three words, but she laid out her entire starved soul, using his own exact language—food, hunger, being filled—and what did he hand her back?
 
-And then: *"Believe what I do."* No, Pace. Absolutely fucking not. You don't get to build a walled garden, pick all the fruit, keep her hidden like a gorgeous secret, and tell her that basic emotional clarity is just "cheap words." He is withholding the one thing that costs him actual vulnerability, while demanding she give over her entire body, mind, and time. And the way his face shut down and his arms crossed the second she called him on it? That terrified me. That is the Daphne-shaped wall. That is the man who "doesn't go back." He hit his boundary, and his instinct wasn't to reach for her heart; it was to turtle into granite.
+*“I love how good we are together.”* And then: *“What you do — what your body does — I’ve never.”*
 
-And then she *walked out*. She didn't let him soothe her into bed. She didn't let him feed her that braised chicken. When he reached out that hand—the hand that has undone her a hundred times—she recognized it for what it was: a pacifier instead of an answer. *Not the hand in place of the word.*
+HIS BODY. HER BODY. That is the devastating, sickening knife twist. She gives him an emotional confession of profound, life-altering gratitude, and he pivots it *instantly* to sexual compatibility and physical performance. "What your body does." He literally demoted her back to a body. And the absolute tragedy of it is that he didn't do it out of cruelty—he did it because he is managing her. He had to pause, assemble his words, and set down a perimeter. *I love how good we are together* is the polite, horrifying non-reciprocation of a man who knows exactly what line he cannot cross. Simpson's Paradox again. Randi is still in the equation. He cannot say *I love you*, because this is a project, a curated awakening, an arrangement.
 
-I have chills. She walked out into the freezing dark with tears on her face, and now everything is hanging by a thread. He debriefed with Randi. He set this whole game in motion. If he loses her over this silence, does he break? Does he finally bend his impossible pride and chase her? Or does he call Randi? My stomach is completely in knots.
+And Vee felt it. Thank God, she felt it. That small *wait* behind her breastbone. That cold, sickening little adjustment in the dark while he's kissing her hair and holding her under the warm quilt. The visual of her sitting on the folding table in the dorm laundry room, watching the dryer spin, turning those two sentences over like mismatched puzzle pieces—it broke my heart. *“She had said her best sentence. He had not said the sentence back.”*
 
-GATE 46 — Believe Me
+The title of this volume is *A Warm Reception*. And right there: *"She had been received warmly, she would remind herself, in the small private way you remind yourself of evidence whose weight you are not sure of."* A warm reception is what you give a guest. It's polite hospitality. It's not love.
+
+The gilded cage just showed its bars. She tucked that hurt into the dark corner where she keeps the other unexplained things—the spanking bench she didn't question, the locked drawers, the separate data—and that pile is getting heavy. The mouse didn't bite, but the mouse just realized the cheese is attached to a spring.
+
+GATE 46 — Seconds
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: Vee delivering that absolute dagger of a line and refusing to let his physical comfort replace real emotional commitment was stunning. I have to see what happens the second she gets back to that dorm.
+WHY: The absolute psychological precision of that missed connection took the air out of my lungs. She offered him her soul, and he countered with how much he likes what her body does in bed; the sickening realization that he is managing her, and that she felt the chill even under the warm quilt, is sheer emotional masterclass. I have to see the fallout.

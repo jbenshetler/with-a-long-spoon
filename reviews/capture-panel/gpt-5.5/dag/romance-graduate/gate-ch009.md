@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha f261fc6f0775 · 2026-09-26*
+*capture-dag-v2-rich · gate ch009 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3cfa40cceb07 · 2026-10-01*
 
-REACTION — Oh, this is exactly the chapter I wanted after the pool. Not louder. Not kinkier. Just that quiet, dangerous competence of Pace arranging an evening where Vee gets to stop managing herself for five minutes, and somehow that is erotic as hell.
+REACTION — Oh, this got me. This is exactly the kind of chapter that makes me understand why the book is taking its time, because nothing “big” happens and yet I felt my whole body leaning forward.
 
-The restaurant got me. The “May I choose?” absolutely got me. Because it’s not just “dominant man orders for woman,” which would bore me or make me twitchy in a lesser book. It’s that he has earned the tiny surrender by being attentive first. He asks what she won’t eat. He weighs it. He gives her something she didn’t know how to ask for, and then the food itself becomes this whole language of appetite. Vee eating without watching herself eat felt almost more intimate than a sex scene. Maybe *because* it’s not coy about what it is doing. It knows eating is body, trust, hunger, permission.
+The dinner did something very sneaky to me. It wasn’t just romantic in the obvious way, though yes, the man showered and shaved and came to get her and held the street side, and I am not made of stone. It was the food. The choosing. The way he asks, “May I choose?” and she says yes, and it isn’t about domination in the loud genre-stamped way, it’s about relief. She is so tired of managing herself. So tired of being watched by the wrong eyes, by her mother’s voice, by the little internal accountant of girlhood. And then he chooses for her, carefully, and she gets to just receive.
 
-And I love that Vee’s hunger is never just one thing. She is hungry for food, for being chosen, for competence, for a man who doesn’t yank on her, for unfamiliar words in her mouth, for not having to perform. The chapter keeps letting her discover relief and desire at the same time. That “it kept going down and down into something that had been empty a lot longer than since noon” is basically the book’s whole spell for me.
+I loved that the hunger is literal and not literal at the same time, but the chapter doesn’t elbow me about it. She’s hungry because she skipped lunch. She’s hungry because she has been starving for attention that doesn’t demand a performance. She’s hungry because she doesn’t even know what she likes until someone gives her a safe enough table to find out. That line about wanting things she had no names for, yes, okay, fine, just put me down gently.
 
-Pace is working for me because he’s so careful without being bloodless. The shower, the shave, the kept boots, the hand on the street side, the ordering, the way he does not press at the kiss and then does meet her when she comes back for it. He’s courtly in a way that could become insufferable if it were just aesthetic, but here it has heat because the restraint is specific. He is watching where the choice lives in her and leaving it there. That is catnip. Dangerous catnip, because I know from the jacket and from Randi that there’s a machinery around Vee she doesn’t understand, so every tender thing is also making me go: oh honey, you are walking beautifully into a room someone else lit for you.
+And Pace is working for me hard here. Not because he’s flashy. He is not doing the billionaire-romance “I ordered for you because I am arrogant and hot” thing. He asks. He weighs. He watches without making her feel watched. He gives her room and then lets her discover she likes the room. That is intensely sexy to me, in the adult way. I don’t need him to throw her against a wall yet; I need exactly this kind of control, where the erotic charge is in restraint and attention and letting the woman come to herself.
 
-Also, Cassie. “That’s not a boy. That’s a man.” Cassie continues to be the person I trust most in the room, and the fact that even she clocks the difference matters. I’m scared for her friendship with Vee in that low-grade way where you can feel the book quietly moving Vee away from her, not through villainy, but through intoxication.
+The hand-holding got me more than I expected. “It felt less like something beginning than something resolving” is dangerous, dangerous stuff, because I believe her. That’s the kind of romance I miss in so many spicy books: not just chemistry, but the unsettling sensation of recognition.
 
-The kiss was lovely. Truly lovely. I didn’t miss explicit sex here because the whole chapter is physical: chlorine hair, hunger, bread, smoke, mint, his hand, her hand. It still has charge. It fed the exact part of me that gets impatient with “slow burn” when slow burn means nothing is happening. Something is very much happening.
+And the kiss. God. The kiss is hot because he doesn’t take the extra inch. She says the rule, he accepts it, and that acceptance is what makes her able to cross her own line. That is the entire point of this book’s erotic language so far, and it still works on me. It’s consent as appetite, not paperwork; choice as seduction. I am absolutely still in.
 
 GATE 9 — May I Choose
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was a quiet chapter, but it pulled me hard because the erotic center was trust and appetite instead of choreography. I want the next chapter immediately because Vee is falling in that terrifying sweet way, and I need to see how Randi’s invisible hand starts showing again.
+WHY: This chapter was quiet, but it was charged all the way through: food, hands, permission, restraint, the first kiss. I want the next chapter badly now, because Vee has crossed one little line herself and the book has made that feel more intimate than half the explicit scenes I’ve read this year.

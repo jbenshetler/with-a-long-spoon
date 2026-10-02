@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch037 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0f8a1c3bd12a · 2026-09-19*
+*capture-dag-v2-rich · gate ch037 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 51b3205f6eee · 2026-10-01*
 
 REACTION
 
-This was the first time in what feels like fifteen chapters that I took a breath with Vee outside the bubble of Peter’s kitchen or Randi’s convertible, and it hit me like a slap of cold pool water.
+Jesus Christ. *Jesus Christ.*
 
-*“...she could not tell, for about four strokes, whether the man she was turning over was Pace or was somebody she had built out of wanting him — whether he was that good or she had made him that good, out of wanting, out of two months of being looked at like that.”*
+"Sticky fingers?"
 
-God. That stopped me dead. That is the most terrifying, honest, grown-up thought she has had in the entire book. When you are starving and someone finally feeds you a four-course meal on real china, you don’t question the ingredients; you just revere the chef. But here, stripped down to her chlorine-scented, green-and-white worn-out suit, away from his linen sheets and his heavy hands and the silk dress that cost a rent check, the illusion flickered for four seconds. Just four strokes. And then the turn came and she let the water wash it away because looking directly at that question is too dangerous. If he isn’t real, what is she doing? If she built him out of her own desperate hunger, who is the stranger she’s handing her keys to?
+I think my soul actually left my body for three full seconds when that line hit the page. The sheer, diabolical cruelty and thrill of it—Helen Rivers is playing with dynamite here. Randi is an absolute master class in psychological predation, and the worst (or best?) part is how utterly, intoxicatingly sweet she makes the poison taste.
 
-It’s a very quiet chapter—no sex, no spanking, no Randi purring double entendres over mimosas—and normally a quiet chapter right after a string of bridge beats makes me twitchy. But this didn't feel like filler. It felt like the eye of the hurricane. The absolute physical exhaustion of swimming laps until your brain stops screaming is so specific, so true to what a girl does when her life is spinning out of her control and she refuses to admit it.
+First of all, watching Vee completely crack under the sunlight and the mimosas and just *spill* the intimate details of her and Pace to Randi was like watching a lamb walk directly onto a silver carving platter and lie down. The way Vee doesn’t just tell the story, but re-lives the physical humiliation and heat of it right there in the bistro booth—pressing her thighs together under the table, sweating through her clothes, practically confessing to a priest who she doesn't realize is the devil—was blistering. The heat in this chapter was off the charts, and nobody even took their clothes off in front of another person.
 
-She thinks her head is quiet. She thinks she’s walking up the hill safe in her damp sweats. But the clock is ticking so loudly now I can practically hear it in the echo of the natatorium. Cassie asked the question, Vee flinched, and now the doubt is in the water with her. Give me the next chapter immediately.
+And then the bathroom. God. The agonizing psychological block where Vee is literally touching herself in a restaurant stall, soaked and desperate, and Randi’s face pops into her head—not just turning her on, but *stopping* her. That dynamic where Randi’s perceived judgment and gaze is so towering that Vee literally feels cowed, ashamed, and forced to deny her own release? That is top-tier kink writing without an ounce of leather or rope. It’s pure, distilled power exchange happening completely inside Vee’s naive little head.
 
-GATE 37 — Strokes
+Then the gut punch at the end. "You're my best friend in the whole world, you know that?" Randi looked at her with that manufactured sincerity, kissed her with the pastry glaze still on her lips—a literal physical transfer of the temptation Vee fled from—and Vee just melted. She has no idea. She is entirely engulfed. The contrast between Cassie’s quiet, steady, undemanding presence and Randi’s total emotional consumption of Vee makes my stomach twist. I am glued to this. I need to see when the floor finally gives out.
+
+***
+
+GATE 37 — One Bite
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: It’s a quiet reset, but that flash of self-awareness—wondering if she invented the man she loves out of sheer desperation—was a masterstroke of psychological tension. The ground is finally shaking under her feet.
+WHY: The sheer psychological tension in the restaurant—from the confession to the bathroom stall to "sticky fingers"—was suffocatingly hot and brilliantly cruel. I couldn't tear my eyes away if I tried.

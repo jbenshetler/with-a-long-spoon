@@ -1,21 +1,22 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~025d1b3f1ab8 · 2026-09-11*
+*capture-dag-v2-rich · gate ch044 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a3af5d5e997c · 2026-10-01*
 
-REACTION —
+REACTION — Oh, this one got me in the softest, most embarrassing place. Not because it was the hottest chapter, though it absolutely had heat, but because it understood the awful sweetness of missing someone you chose not to see. That little irrational ache in Vee, wanting Pace to fight her on needing school nights, while also knowing that if he had fought her it would have ruined the very thing she loves about him. That is so painfully true. She wants to be wanted enough to be unreasonable over, but he loves her by leaving the door open and letting her come back through it herself. That is exactly the kind of dominance-with-room I keep reading for.
 
-Oh, this one hurt in the quietest, cleanest way. Not dramatic hurt. The kind where you are awake at four in the morning and the object that comforted you yesterday suddenly turns into evidence against you.
+And then the door. God. No porch light, just him filling the frame, and she goes straight into him. I loved that she was the hungry one here. She is not being swept along; she is practically dragging him down the hall by his shirt, furious at denim, making a wreck of the entryway, losing dignity and loving it. The comedy of the jeans and socks made the sex feel more intimate, not less. It is not staged-perfect. It is two people who have gotten ordinary enough with each other that the wanting can be messy and still beautiful.
 
-The shirt getting stripped down to skin should have been exactly my thing. It has been my thing, honestly. His smell on her, the private wearing of him, the way she has made his clothing into almost a sacrament. But the chapter turns it on her, and on me. Because the shirt can only give back what it has. It can smell like his care, his body, his work, his house, his hands. It cannot answer. It cannot choose her out loud. It cannot say what he will not say.
+The “five nights” coming out of her body before she could keep her pride together was almost too good. I felt for her so hard there, because she is so used to managing the evidence of herself, and Pace keeps receiving it like good news. He does not tease the vulnerability raw. He just knows. That is the difference. The heat works for me because there is care under it, and because her desire keeps being hers even when he is controlling the pace.
 
-And I hated, in a very specific aching way, that line of thought where she realizes the warmth is hers. God. That is such a small devastating betrayal: not that he did anything cruel, but that the comfort she was using as proof becomes only her own body heating an absent cloth. That is the exact nightmare of loving someone who is generous in every language except the one you need most. You start wondering how much of the warmth is actually them and how much is you, wanting so hard that anything can become an altar.
+The pizza section should not be romantic and somehow it is deeply romantic. I’m apparently a woman who can be undone by dough and water buffalo mozzarella now, fine. But really, it’s the attention. Vee watching him cook and realizing he is not performing care, he simply has care as a way of moving through the world. That matters. It makes the sexual attention feel less like a trick and more like one expression of the same man.
 
-I am still not off Pace. I’m not. I can’t pretend I am. He has earned too much with me in the rooms where he is present. But the book is making me feel the cost of his not-saying now, not as coyness, not as masculine restraint, but as a real deprivation. Vee is naked in the cold because wearing him has become worse than being bare. That is not a tantrum. That is her body refusing the substitute.
+And then the shirt. The shirt nearly did me in. I was braced for him to misunderstand, and he did, for half a second, and then she fixes it so quickly because she cannot let him think she’s returning it. “This is still my shirt” made me grin like an idiot. But the part after, asking him to wear it all weekend so she can take his smell back with her, is so naked in a way that has nothing to do with being undressed. It is need, domestic and bodily and a little ridiculous, and he takes it seriously. He puts it on immediately. Over another shirt. No speech, no making her pay for asking. Just yes.
 
-And Cassie sleeping underneath makes it worse somehow. Vee is not in some gothic mansion, abandoned by the world. She’s in a dorm room with another girl breathing below her, ordinary heat in the pipes, ordinary college life around her, and she is alone inside this enormous unnamed thing. I wanted her to wake Cassie. I wanted her to climb down and say, “I don’t know what I am to him.” But of course she doesn’t. She goes bare instead. She lets the cold tell the truth because nobody else will.
+I am still carrying the secret, though. This chapter made the home feeling stronger, which makes the old “not yet” more dangerous. The drawer, the shirt cycle, the house, the feeding, the weekends becoming a rhythm — all of it says she is moving further in. If he lets her build this much life there before telling her what he and Randi arranged, I am going to be hurt on her behalf. But tonight? Tonight I was embarrassingly happy for her.
 
-This chapter did not turn me on. It made all the erotic charge of the shirt curdle into loneliness. And I respect that. I’m scared now in a more intimate way, because this is not about whether Pace can touch her beautifully. He can. We know he can. This is about whether he can meet her where language is required. And if he can’t, all that tenderness starts to become a room with no door.
-
-GATE 44 — Bare
+GATE 44 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: It pulled me hard because it took one of the most intimate symbols between them and made it fail her. I’m staying because Vee’s need has become too clear to look away from, and because I need to know whether Pace can answer in words before the secret arrangement detonates everything.
+WHY: This chapter had exactly the combination I want: Vee’s desire loud and self-owned, Pace’s restraint still intact, and tenderness showing up in concrete acts instead of speeches. The shirt request was a turn in the bond for me; it made the ordinary feel intimate enough to ache.

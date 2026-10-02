@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch005 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha a56102b7d0d5 · 2026-09-26*
+*capture-dag-v2-rich · gate ch005 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ba0f4b39c8e6 · 2026-10-01*
 
-REACTION —
+REACTION — Oh, I liked this one. I liked it in that dangerous, page-tilting way where I can feel the machinery of the setup and still want to step right into it. This is exactly the kind of chapter that makes me both happy and nervous, because Pace is doing the thing I read for: focused attention. Not swagger, not “look how dominant I am,” but that almost unbearable courtesy of noticing where Vee is stuck and giving her just enough, then putting the pencil back in her hand. That got me. That got me more than if he’d solved the problem in some brilliant show-off flourish.
 
-Oh no, I’m in.
+And Vee. Oh, sweetheart. She is so hungry to be chosen. Randi choosing the coffee shop, the high table, the whole new life was one kind of intoxication, and Pace looking only at her is another. The way she tries on Randi’s little introduction bit and then immediately wants “Vee” back made me ache for her. She wants to be more dazzling than she thinks she is, but she also wants to be known as herself. That is catnip to me.
 
-This chapter got me in such a specific way because it’s doing the seduction I want from the outside in and the inside out at the same time. Vee is not being dragged anywhere. She’s sitting there with her own stubborn little math problem, her own pride, her own wanting to solve it because she wants to solve it, and Pace walks in and somehow the sexiest thing he does is give her the pencil back. I mean. Come on. That is exactly the kind of dominance I’m weak for: he could take over, he could dazzle her, he could make the room about himself, and instead he arranges the moment so she gets to feel brilliant in her own hands.
+I am also watching Randi very closely now. Her hand on the coffee cup, not drinking. The one-word “Randi.” The fact that Pace gives Vee the kind of attention Randi knows very well and maybe did not expect to feel from the outside. I don’t know if I’m supposed to trust Randi’s smile, and I absolutely don’t. But I also don’t hate her. That’s the problem. I can feel her wanting this for Vee and also wanting to control the shape of it, and that combination is deliciously unsafe.
 
-And the way she clocks that! The body noticing first, then the mind catching up: yes. That’s the heat. Not “handsome man appears,” though obviously he does appear with his rolled cuffs and his ridiculous not-a-math-tutor forearms. It’s that she can feel the quality of his attention. He asks before touching even the pencil, basically. He sees the problem and he sees her relationship to the problem, and he respects both. That is so much more intimate than if he’d just solved it.
+Cassie saying “He looked at her the way you’d look at somebody’s great-aunt” made me bark-laugh. Cassie is the little cold clean window in the room, and every time she speaks I believe her.
 
-Randi in this chapter is fascinating and unnerving in the best way. I kept watching her hands. She is performing friendship so beautifully, and also she is very much managing the room. The one-word “Randi” when Vee borrows her little intro bit made me sit up. Not cruel, exactly, but pointed. Possessive? Testing? A little flash of the real Randi underneath the warmth. And then she’s smiling, encouraging, letting Vee be charmed, except we know this whole thing has been staged or at least invited. That jacket is sitting in my peripheral vision like a lit match.
-
-Cassie is my little warning bell. “Goodbye, Vee” last chapter, and now she’s just there seeing too much, naming too much, not quite playing. I don’t know whether she knows anything or just has the immune system for falseness that Vee doesn’t, but I trust her discomfort. She makes the room colder every time in a way I appreciate.
-
-The thing that scares me, pleasantly and not pleasantly, is how good Pace is at this. Because I believe his care. I absolutely believe he is attending, asking, leaving room. And I also know enough now to know he has been brought to this table like a loaded instrument. The chapter makes me feel what Vee feels — chosen, steadied, lit up — while letting me see the frame around it. That is delicious and dangerous. I’m not mad yet because Vee’s yes is still blooming from inside her, but I am watching the hidden plan like a knife under a napkin.
-
-Also: “May I call you?” Yes. I would fold. I’m sorry. I have principles and apparently also a pulse.
+The math metaphor was almost too on the nose and then it worked on me anyway. Two things at right angles becoming one thing you can solve. Yes, fine, book, I see you. I’m letting you have it because the scene earned the warmth underneath it. Pace’s “May I call you?” would have made me roll my eyes in a lesser book, but here I felt exactly what Vee felt: the little formal door opening, the sense of a man asking instead of assuming. That is the stuff. That is why I’m here.
 
 GATE 5 — Substitution
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This chapter gave me the exact drug: focused male attention, real permission, a heroine feeling her own mind and body wake up at once, plus the dread of knowing Randi and Pace are arranging the room around her. I want the next chapter immediately because the call/date is coming, and I need to see whether the consent stays real once the plan tightens.
+WHY: This chapter was all charge without needing to be explicit: the attention, the pencil, the “may,” Randi watching it happen. I want the next chapter badly because Vee has now been chosen by both of them in different registers, and I need to see whether the book keeps that consent-and-care line real once the game tightens.

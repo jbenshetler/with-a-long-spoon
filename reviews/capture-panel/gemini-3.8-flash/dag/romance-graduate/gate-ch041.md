@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch041 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha a3af5d5e997c · 2026-09-19*
+*capture-dag-v2-rich · gate ch041 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 38dcf8e44cd8 · 2026-10-01*
 
 REACTION
 
-God, my heart. This chapter just completely disarmed me.
+God, the sheer, agonizing *dissonance* of this chapter. It is utterly delicious and makes my stomach hurt with pure anxiety.
 
-After all the mounting tension, the sordid fraud in the stats lab, the dirty brunch confessions, and that dizzying, exhibitionist spiral Vee has been on, this was an absolute sanctuary of a chapter. It felt like walking into a warm room after hours out in the freezing sleet.
+*“He’s all mine,” she thought.* Oh, Vee. Oh, you poor, sweet, utterly ruined girl. My heart literally sank when that line hit the page. She is lying there in his bed, sated down to the marrow, thinking she’s the center of his universe, while he is meticulously staging her body like a vintage pinup. And the way he posed her! It wasn't just taking a naked picture; he literally rearranged her limbs, kissing every joint as he set it—the shoulder, the hip, the knee—turning her into an object d'art. He has her so totally, completely compliant that she doesn't even realize she’s being curated. And then the chilling irony: *“Only if you promise you’ll never share me with anyone.”* / *“Never. I’d never share your photograph.”* The technical truth of that answer! He won't share the *photograph*, maybe, but he and Randi literally arranged her like a chess piece before she even knew his name. It’s devastating.
 
-The frantic, clumsy, undignified rush at the front door was *perfection*. Real, desperate heat isn't graceful. It’s hopping on one foot trying to kick a pair of cold jeans off your ankle; it’s standing in a hallway in green satin and dorky white cotton socks, laughing until you can't breathe; it’s your body giving away every single secret your pride tried to keep safe. Her trying to hold out for five days to prove she had autonomy, and then coming apart in his hands the absolute second his mouth touched her—it’s so painfully, gorgeously human.
+And then the kitchen. The sheer sensory overload of his cooking never gets old—the hiss of the pan, grating the yellow off the lemons, crushing the garlic under the heel of his hand, swirling butter off the heat into silk. He has trained her palate the exact same way he’s trained her body: she can’t just *eat* anymore, she has to taste every distinct layer. He has made her sensitive to everything, and she credits him for all of it.
 
-And then the pizza. I swear to god, this author writes food the way other people write foreplay, and it works every single time. The detail of his attention—that he isn't putting on a show for her, that he would make a meal with that exact ferocious, quiet precision for an empty house—is the most devastatingly attractive thing about him. He doesn't perform. He just *attends*. That contrast between "cotton candy and a bowl of cut strawberries," realizing that real taste has texture and sting and separate notes instead of just one loud blast of sweetness... that is the whole metaphor for what he's doing to her life, isn't it? He’s waking up every single nerve ending she has, sensory and emotional, and she’s ruined for anything less.
+Then that little tripwire at the end: *“I don’t go back.”* That flat, shut door about his family. For a split second, the master puppeteer showed the cold, reinforced steel underneath the warmth. There’s genuine damage there. And bringing up Sheri for Thanksgiving! Vee feels that tiny prick of territorial jealousy, only to instantly fold it away into pure pity because “she’s alone.” Vee has no idea Sheri knows *everything*. Sheri knows about Randi, Sheri laughed at the disaster coming for Pace’s two-timer life, and now Sheri is going to sit at that exact table eating store-bought pie while Vee is away. The web is so thick around her now, and she is so happy inside it.
 
-But the flannel shirt. Oh, the flannel shirt just broke me wide open.
-Watching her hand it over, watching that tiny, split-second flicker of hurt cross his face because he thought she was returning it, and then her blurting out the mortifying truth: *“I need you to wear it for me. The whole weekend. And give it back to me Sunday so it smells like you again.”*
-To admit that you are actively starving for a person, to lay yourself that bare and pathetic in front of a man, and have him simply pull it over his own shoulders right that second without teasing, without gloating, without an ounce of weaponized pride? "Smelling like me."
-
-It’s intoxicating. It’s romantic on a level that hurts, because I know—we both know—what the foundation of this house is. I know Randi is out there. I know there was an invitation, a plan, a debrief. But sitting in that kitchen with him wearing two shirts just to infuse one with his scent for her dorm bed, you completely understand why she would let this man dismantle her entire world. If this is a cage, she’s locking the door from the inside and throwing the key down the drain.
-
-GATE 41 — The New Ordinary
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The clumsy, desperate hallway reunion was genuinely hot, but the quiet intimacy of him making pizza and instantly putting on his old shirt just to scent it for her was absolute romance perfection. It makes the looming fallout feel ten times more lethal.
+WHY: The absolute masterclass in dramatic irony is suffocating in the best way. She thinks she owns him completely while promising nudes to a man who is actively concealing an entire shared life with Randi.

@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~2a7718a6147b · 2026-09-11*
+*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha c1f15218cc12 · 2026-10-01*
 
-REACTION — Oh, this got me. The pleasure-princess turn is exactly the kind of erotic power shift I wanted for Vee: not some abrupt personality transplant into a flawless dominatrix, but her discovering she can make this immensely controlled man burn toast, follow her down the hall, strip on command, and wait for one pointing finger. She is playful. She is greedy. She is enjoying her body instead of merely enduring being desired in it. Her naked at the counter with one scrunchie on, Pace walking in with groceries and managing only “I got mushrooms”—that is absolutely the text I would send a friend at one in the morning.
+REACTION
 
-And the food still gets me because it is never just decorative rich-man competence. “Even his absence had been cooked in advance” nearly undid me. He has thought about her waking alone, timed the bread, made the coffee, laid out warm clothes. Then the blood orange with every membrane removed—nothing between anybody and the fruit—made me feel the whole dangerous promise of him again. He knows how to remove every barrier except the one made of truth.
+Oh, Sheri. Thank God for one person in this book who can hear a beautiful evasion and still call it an evasion.
 
-The sex was ferocious precisely because Vee was conducting it until she wasn’t. Pointing to her wrist, arranging herself on the cashmere, making him travel every inch while she plays princess—I was completely in. And then her command turns into a shaking plea, and he knows the difference without humiliating her for it. That matters enormously to me. Even more: the instant she says “wrong,” he stops inside her and begins to withdraw. No bargaining, no wounded male performance, no eroticized boundary-testing. When she clarifies, he accepts the exact boundary and leaves her mouth for her to reclaim. That is the grown-up attentiveness I keep wanting from him, and it makes the larger deception hurt worse, because he is so exquisitely trustworthy inside the boundaries she can see.
+Pace listing the weekends, the weeknights he “gave” Vee, the way nothing else exists when she is with him—I believe every word, and I also felt exactly what Sheri felt: none of that is the answer. He keeps laying down true things as if enough of them will eventually make the missing truth unnecessary. “Every brick was true and the true things were supposed to come to something” is Pace’s entire problem. He has built Vee a gorgeous house out of acts and left out the door she asked for.
 
-Her disgust at tasting herself, followed by her tongue secretly going back to look for the taste, was painfully Vee. Her body says yes first; the old installed voice slams down afterward; then she builds a tidy explanation that lets her remain the woman she thought she was. I don’t read her “gross” as coyness. I felt the childhood rule arrive like a trapdoor. And Pace’s gentleness afterward made the curiosity possible instead of killing it. That faint hunt for salt is hotter to me than a dozen instantly enthusiastic scenes would have been, because it belongs specifically to her shame, appetite, and dawning self-knowledge.
+And then Sheri says it cleanly: “Then not saying it matters more to you than having her.” That landed hard. No diagnosing him, no praising him for being better than men who lie, no letting his pain turn into virtue. Just the cost of the choice. I wanted to put her in the car and send her directly to Vee.
 
-But Jesus Christ, “That’s the plan.” I know he means keeping her naked and fed. I also know there is an actual plan she does not know about, and the line dropped ice straight through the warmth. Same with the cashmere: another perfect gift silently appearing, another act meant to replace a conversation. She experiences his unspoken provision as safety because she still believes silence means tenderness rather than concealment.
+I loved the ordinary intimacy between Pace and Sheri—the switched plates, her stealing his fries immediately after gutting him, her refusing to be impressed by the philosophy of his food. She makes him feel like a person instead of the controlled erotic oracle he can become around Vee. His laughter mattered because she didn’t earn it by soothing him. She got there by refusing his performance.
 
-And now she is going to tell Randi. Of course she is. The woman secretly sleeping with Pace is about to hear Vee describe discovering the taste of herself on his mouth, and Vee trusts her to interpret it because “Randi always did.” That last line is a knife. I am already imagining Randi understanding far too much—possibly understanding Vee’s desire before Vee does, certainly becoming aroused by details she engineered, and once again guiding Vee without disclosing her own stake. I want Tuesday immediately. I also want to reach into the book, take Vee by both shoulders, and tell her that the two people who make her feel most seen are sharing the one fact that would let her see them.
+But “She find out about the brunette, then?” made my whole body go cold. So he can discuss Vee’s demand for a declaration while the actual brunette remains safely unnamed. Sheri knows enough to identify the concealed fault line in one sentence, and Pace knows enough to answer around it. His love for Vee is real—I’m no longer remotely unsure of that—but so is the structure trapping her outside the truth.
 
-GATE 52 — Missed a Spot
+And, yes, the charge was there. His blush when Sheri teased him, the “long legs feel like Christmas,” the way he says the air crackles and then tries to explain that Vee sees the philosophy beneath what he makes—that got me. Not because I needed another report that their sex is good, but because his desire for her body and his hunger to be understood are fused. He doesn’t merely want Vee back in his bed. He wants her particular mind at his table. Which makes his refusal to say the words even more maddening.
+
+At one in the morning I’d text: “Pace is catastrophically in love with her, his tiny lesbian diner friend just verbally killed him, and HE STILL HASN’T DEALT WITH THE SECRET GIRLFRIEND.”
+
+GATE 52 — The Usual
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me the explicitness, play, emotional specificity, and complicated interiority I picked up the book for. The heat was extraordinary, but “Randi always did” turned all that satisfied warmth back into dread, and there is no chance I’m stopping before Tuesday.
+WHY: Sheri stripped Pace’s excuses down to the choice underneath them, and the chapter made me feel both his love and the inadequacy of it. Now I need to see whether he acts before Vee arrives offering her naked body as an apology for asking him to tell the truth.

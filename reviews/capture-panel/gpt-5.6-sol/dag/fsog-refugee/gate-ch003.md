@@ -1,18 +1,20 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 6721d82ffe86 · 2026-09-26*
+*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b05684281622 · 2026-10-01*
 
-REACTION — Oh, this is exactly the kind of thing that gets me into trouble with a book, because so much of it is exquisitely tuned to what I want and one sentence is flashing red in the middle of it.
+REACTION — Oh, this got me. The question making her come before she could hide from her own wanting, and then Pace waiting until she was fully back in herself to ask again—that is exactly the distinction I need this kind of book to understand. I did tense at “He took the body’s answer for the true one,” because no, a physical response is information, not consent. But then he gives her time, asks plainly, and accepts the shape of the yes she can actually manage. I could breathe again.
 
-Pace giving Randi the choosing — “I point. You pick.” God. Yes. Watching her taste emerge in real time, watching him notice that she doesn’t want a mirror or another polished woman performing perfection, watching her light up over someone warm and lush and unguarded: that got me. And Randi’s bare first “Yes” when she sees Vee felt almost indecently intimate. Not because she’s exposed physically, but because for one second she wants without converting the want into a gift for a man. After the last chapter, that landed hard. Her delighted little foot movement afterward might have been the sexiest moment in the chapter because it was so involuntary and happy.
+And God, the pointing game. Watching Randi move from pretending to indulge him to actively looking was delicious. “I point. You pick” did an absurd amount for me. He’s controlling the frame, but the choice stays hers, and you can feel how much he enjoys not choosing for her. That is the exact flavor of dominance I came here hoping for.
 
-But: “He took the body’s answer for the true one. He usually did.” Absolutely not, Pace. A body’s response can tell you there is desire in the room; it cannot give you permission or settle what a person has chosen. The chapter does partly pull him back from that edge—he deliberately waits until she is calm, asks again, accepts the shape of her answer, gives her control of the game, and waits for her to go—but I noticed the sentence and I am not forgetting it. His tenderness is real, yet he is also much too confident that seeing through someone means he gets to decide which version of her is true.
+Then Vee. I knew it had to be Vee and still felt the whole chapter tip when she appeared. Randi’s naked little “Yes” before she could turn it into an offering for Pace—that was hotter than anything explicit here. Her delight afterward made it tender too. Pace isn’t merely excited to acquire another woman; he’s happy because Randi has found something she wants. That matters enormously to me.
 
-And poor Vee. The jacket means I know what that perfect little “accidental” collision actually begins. Watching Randi manufacture it so beautifully was thrilling and chilling at once. Vee has not agreed to be selected for their game. She thinks she has met a charming woman from stats. That distinction matters enormously to me, and the final bench question made my stomach drop: Randi and Pace are already imagining Vee inside an intimate scene before Vee knows either of them wants her there. I’m turned on by their shared appetite; I’m frightened by how effortlessly they turn a person into a destination.
+But I am watching the trap now. Randi manufactured that collision beautifully, and Vee has no idea she has just been selected by two people already imagining her on that bench. The jacket promised that her eventual yeses are real, so I’m not leaving, but this is the dangerous line: I need Vee’s choices to remain genuinely hers once she enters the game. I can enjoy secret desire and orchestration. I cannot enjoy them treating her consent as a conclusion they’ve already reached.
 
-I would text a friend: “This is insanely hot and I do not trust either of them with that girl yet.”
+And then “Do you think she’ll like the bench?” followed by “Let’s go feed you.” Wicked, intimate, caring, ominous. I would absolutely text a friend at one in the morning: *Randi just picked Vee out of a crowd like she was starving, and Pace’s response was basically yes, darling, now eat dinner. I’m doomed.*
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: “He took the body's answer for the true one. He usually did.”
-WHY: That line nearly lost me, because bodily response is not consent and I will not accept Pace treating it as such. But Randi’s choosing felt genuinely hers, and now that Vee has walked into their plan I urgently need to see whether the book understands the moral danger as clearly as the jacket promises it does.
+WHY: That sentence hit my consent alarm hard, but his later choice to wait until Randi was gathered, ask directly, and leave the choosing to her kept me with him. Now Vee has entered the frame, Randi is gloriously awake, and I need to see whether their tenderness survives the secrecy of what they have planned.

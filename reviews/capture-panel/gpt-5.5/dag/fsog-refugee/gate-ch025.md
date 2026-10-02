@@ -1,32 +1,24 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d47ba6c6da73 · 2026-09-28*
+*capture-dag-v2-rich · gate ch025 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f934b961beeb · 2026-10-01*
 
 REACTION —
 
-Oh, this one got under my skin in a different way.
+Oh no, this chapter got me in exactly the place Randi always gets me: the friendship place first, and then the little electric betrayal underneath it. Because I was so happy for Vee. I was happy in that classroom with Cassie on one side and Randi on the other, both of them seeing different true things about her. Cassie clocking the made bed and then asking only, “Was it a good night?” nearly undid me. That is love. That is someone checking the person, not the performance.
 
-I loved Vee in the middle seat between Cassie and Randi. I really did. That tiny little triangle in stats felt almost too perfect for what this book is doing: Cassie watching Vee, not the dress, not the gossip, but her friend; Randi immediately making it brighter and dirtier and more glamorous; Vee happy enough to be late and not care. Cassie asking, “Was it a good night?” did more to me than half the explicit scenes could, because she is so plainly checking whether Vee is still herself in this. And Vee’s “Oh, yes” made me smile like an idiot.
+And then Randi. God. Randi is intoxicating here. She is so good at making Vee bigger. “He made it to you” is maybe the truest thing anyone could have said about that dress, and I hate how much I love that she is the one who found the words for it. She does not just flatter Vee; she translates her. She takes the hidden, private, blushing thing and hands it back as permission. That is such a powerful kind of seduction because it feels like care, and sometimes it is care. That is the problem. I believe she means it. I also believe she knows exactly what she is doing.
 
-But the chapter kept tipping me, gently at first and then harder, toward worry.
+The shoe shopping was so alive to me. The first store was relief: silly, ordinary, two girls laughing too hard in public, Vee getting to be funny and bold and not just the awestruck girl in the expensive car. I loved that. I loved the limp shoe joke. I loved Randi actually breaking open laughing. For a minute it felt clean.
 
-Randi in the dorm room seeing the dress was intoxicating. I cannot pretend otherwise. “He made it to you” is exactly the kind of sentence that would undo me if I were Vee. It names the thing so precisely, and it feels like care because it is care, in the moment. Randi really does see the shape of Vee’s wanting. She gives her language for it. That is the dangerous miracle of her. If she were only predatory, I’d be out. But she is not only that. She is the friend Vee needed at fifteen, and that is why I am scared.
+Then the boutique made my stomach tighten. Not because Randi did anything overtly cruel, but because the class difference came roaring back in. Vee cannot afford those shoes. She knows it. I know it. Randi knows it, or should. And the way the book makes the purchase feel inevitable is so dangerous because I felt it too. I wanted the right shoes. I wanted the dress not to be lowered by the sensible tan pair. I wanted Vee to walk in and stop the room. But watching her put that on a credit card she cannot pay off made me want to reach into the page and take her wrist very gently.
 
-The shoe shopping started so sweetly. The ugly shoes, the same-size feet, the two of them laughing in Vee’s kind of store — I loved that. I loved Vee feeling funny and easy and equal for a minute. There was a looseness there that felt real, not staged. I almost relaxed.
+And Randi on her knees with Vee’s foot. That was hot. Not peak-hot like Pace and the dress, but intimate in a way Vee is not prepared to name. The thumb over the toenail, the “Mm,” Vee grabbing her shoulder because the room tilted — come on. That is not just friends shopping. Vee knows it in her body before she knows it in language, and Randi absolutely knows it.
 
-And then the boutique. Whew. That was where my stomach tightened.
-
-Not because Randi touched her foot. Honestly, that was hot. The frosted plum toe, Randi kneeling, the thumb over the nail, Vee feeling it all the way up her body — yes, the book knows exactly what it is doing to me there. That was charged as hell, and Vee’s body is absolutely ahead of her mind with Randi now. The desire is not theoretical anymore. It’s sitting in a boutique with its hand on Randi’s shoulder trying not to fall over.
-
-But the money. The money made me uneasy in a way I could not shake off. Vee crossing from debit to credit, knowing she does not have the paying-it-back part, while Randi casually buys shoes that cost multiples more and walks out wearing them like weather changed — that hurt. Not in a “she shouldn’t have nice things” way. I want her to have the shoes. I want her to walk in and stop the room. I want the dress honored. But I felt the class gap open under her feet, and Randi was the one leading her across it. Softly. Lovingly. With perfect taste. That almost makes it worse.
-
-Because Randi didn’t buy them for her, which would have been its own claim. She made Vee buy them herself. She made the want feel inevitable, righteous, almost moral: the dress is owed this. And Vee took that permission and turned it into debt. That is such a clean little trap I wanted to put the book down for a second and stare at the wall.
-
-Still, I’m not leaving. Not even close. I am too caught. Vee has never had a friend like this, and that line landed with both sweetness and dread. Cassie is the friend who sees her. Randi is the friend who transforms her. Pace is the lover who makes things to her. Vee is walking into a room soon in a dress and shoes bought partly with borrowed money and wholly with borrowed courage, and I need to see whether she owns it or whether the bill comes due emotionally before the credit card one does.
+So I’m still in. Very in. But I’m uneasy now in a new way. Pace’s hidden debt is the original danger, but Randi’s power is becoming more immediate because she can make Vee confuse being seen with being led. And I do not want Vee punished for wanting beauty. I just want someone in this triangle to notice the cost before the bill comes due.
 
 GATE 25 — Sorority
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
+NEXT: 8
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: “Not the debit. She stood there a half-second with the debit between her fingers, the card she paid her own way with, the one that only ever spent what was already behind it, and felt the last careful thing in her give way”
-WHY: I was happy-drunk on Vee being seen and adored, especially by Cassie in the lecture and by Randi over the dress, but the boutique made the manipulation feel materially real. The erotic charge with Randi is delicious; the money pressure is the first thing in a while that made me truly afraid for Vee.
+ALMOST-STOPPED: "the credit card she kept for emergencies and gas and the months that ran long"
+WHY: I was pulled hard by the girls-together pleasure of it, especially Cassie’s quiet care and Randi naming the dress so perfectly. But the boutique made me anxious in a real way: Vee being swept into debt for the fantasy feels like another kind of consent pressure, softer than sexual coercion but still pressure. I want the next chapter because the induction is loaded now — dress, shoes, Randi watching, Pace’s work on Vee’s body in public.

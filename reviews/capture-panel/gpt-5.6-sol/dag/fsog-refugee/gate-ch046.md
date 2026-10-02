@@ -1,25 +1,22 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~eeeec469236e · 2026-09-11*
+*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-01*
 
-Oh, Randi. This hurt in exactly the place I needed it to.
+Oh, that hurt. She gave him the bravest version of *I love you* she could manage, and he answered, “I love how good we are together.” Not *you*. Together. Then he made it about what her body does.
 
-John is the entire approved fairytale handed to her gift-wrapped: handsome, accomplished, rich, direct, attentive, thrilling, socially perfect. He keeps pace without humiliating her, leads her beautifully, makes her laugh, gives her the ball and the sleigh and the snow. For a while I wanted it for her. I wanted one uncomplicated, dazzling night in which she didn’t have to scheme or hide or earn anything. And then the hotel steps came, and he simply took her destination for granted.
+I felt that little *wait* behind her breastbone immediately. She knows. She may not be willing to finish knowing it, but she knows those sentences were not the same shape. And I hate that she has already decided she cannot ask him, because “the words go through him first.” She is living in his house half the week, sleeping in his shirt the other half, carrying his smell back and forth, and still believes he owns the right to set the emotional terms. That is not Pace commanding her beautifully in bed. That is Vee making herself smaller because she is afraid to discover whether he will meet her.
 
-Her finding that attractive because Pace always makes her say yes stopped me cold. I understand the relief of not having to expose desire every single time. I understand why being swept along can feel delicious. But she is comparing the ease of assumption with the vulnerability of consent, and calling ease better because tonight it happened to align with what she wanted. That is a dangerous lesson, especially for someone who already builds her life around never risking a direct answer.
+The tenderness almost makes it worse. He listened. He was moved. He held her deliberately and kissed her hair, and I believe every bit of that warmth was real. But he also knew she had handed him something enormous. Those two breaths tell me it did not simply go past him. He chose his answer carefully—and the careful answer avoided the thing she was offering. Maybe he is frightened. Maybe his family history has locked that word behind the same door as “I don’t go back.” But Vee is the one left doing the repair work inside herself, telling herself she was “received warmly” as if she is presenting evidence in court.
 
-And then the sex meant nothing. Not because John was cruel or incompetent, but because he never found her. “This man had taken a beautiful woman to bed, brought her pleasure, but never found her underneath” absolutely gutted me. That is the distinction I read for. Her body can respond; the encounter can be objectively good; she can still remain absent from it. Pace reaches the hidden person. Vee reaches her over eggs on an ordinary Tuesday. The most perfect fantasy in the acceptable world cannot touch either of them.
+And God, that pile. The small moments she has had to tuck away so what she knows about him can keep functioning. This is exactly what I have been afraid of: her doubts are not disappearing; she is quietly training herself not to look at them because the warmth is so good. Meanwhile the largest fact of all—Randi, the arrangement, the choosing—is waiting to fall directly onto that pile.
 
-But the chapter’s real knife is that Randi understands herself perfectly and still chooses concealment. She knows she loves Vee. She knows she means “I love you” in two ways while allowing Vee to hear only the safe one. She knows telling the truth would give Vee a decision to make, and that is precisely why she refuses to do it. “Let Vee arrive at it on her own” sounds romantic until I remember how carefully Randi is arranging the route. She wants Vee’s freely given choice, but she wants to control the information under which Vee makes it. That is the whole moral sickness of this book concentrated into one thought.
+I am still desperately in this romance, which is why I am so upset. I want him to love her. I think he does love her. But loving her privately while refusing the words—and while withholding the truth that would let her understand what “together” even means—is not enough. She gave him her best sentence. He heard it, and he stepped sideways.
 
-“Vee was her gorgeous” made my heart turn over anyway. I believe Randi’s love completely now. Her terror is real. She has built herself into someone who can manage every room, invent every boyfriend, repair every face, and never place anything precious where another person could reject it. Vee is the first person she cannot treat purely as currency—and instead of making Randi brave, that has made her manipulation more desperate. She would rather preserve a counterfeit version of their closeness than risk asking whether the real thing is possible.
+What I would text at one in the morning: *She told him “I love you” in food language and this man said he loves their sexual compatibility. I need to bite something.*
 
-And Vee’s message—God. She offers presence without pressure: talk or don’t. Randi answers with an entirely truthful lie. That contrast is unbearable. Vee keeps giving other people room to choose while Pace and Randi keep deciding what she is ready to know.
-
-I’m also furious that we leave Vee outside Pace’s house in tears and come here, but it worked on me because Randi’s memories make Pace’s silence look even more ominous. Randi knows the man underneath his reserve. She knows what it means to be found by him. So how much of his refusal to name Vee is fear, and how much is the hidden arrangement? His worst night reaches deeper than John’s best—but that only makes what Pace is withholding from Vee more devastating.
-
-I would text a friend: “Randi just got the literal billionaire-princess snow-globe fantasy, discovered it was emotionally a sandwich, admitted she’s in love with Vee, and then consciously chose plausible deniability because honesty would let Vee decide. I am unwell.”
-
-GATE 46 — Fairytale
+GATE 46 — Seconds
 DECISION: CONTINUE
-CAPTURE: 10
-ALMOST-STOPPED: “She found, tonight, that she liked not being asked. She let John take her up.”
-WHY: That moment frightened and repelled me, but the chapter did not ask me to mistake it for a universal romantic ideal; it showed exactly why effortless assumption seduces Randi and exactly how empty the resulting perfection leaves her. Now that she has consciously chosen concealment over giving Vee an informed choice, I need the reckoning.
+CAPTURE: 9
+NEXT: 10
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: This was a painful turn in the bond, and I need to know whether Pace’s answer came from fear, evasion, or something worse. Vee has started storing hurt instead of asking for what she needs, and with the Randi truth still hidden, I cannot put this book down now.

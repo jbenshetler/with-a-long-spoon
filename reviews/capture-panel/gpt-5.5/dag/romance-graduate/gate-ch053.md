@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~ec1574909bf3 · 2026-09-11*
+*capture-dag-v2-rich · gate ch053 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha bff68c2a8905 · 2026-10-01*
 
 REACTION —
 
-Oh. Oh, that got me in a completely different place than the coat did.
+Oh. This got me.
 
-After the last two chapters, which were basically a match thrown into gasoline, I was ready for this to be a come-down chapter, and it is, but not in the empty way. It’s the aftercare of the aftercare. It’s Vee sitting naked in the kitchen, yes, delicious, obviously, but the real charge is that she’s talking and he has been keeping every scrap of her life. Not just her body, not just her appetite, not just the parts of her that belong to his house and his bed. Her people. Her little lines. Meg’s boots. Kayla talking the paint off a wall. That landed so hard for me because this is exactly the wound from Chili’s, isn’t it? She thought he didn’t want the public world of her, and now he says, almost casually, I want to meet your people.
+I wanted Pace punished a little, honestly. I wanted him to sit in the cold spot he left Vee in, and the book gave me that, but not in a cheap “look, he suffers too” way. It made him gross and human first: hungover, bleach in the house, showering twice, eating chicken and broccoli like a sentence. I could smell that horrible clean-after-sick bathroom. That is not glamorous male suffering. That is a man who has finally run out of ways to make discipline look like virtue.
 
-And the Cassie correction. God, that was quietly brutal in the best way. Vee goes immediately to Randi, because of course she does, because Randi has become the charged center of disclosure and glamour and planning and danger. And Pace says Cassie. Not as a rebuke. Not with a sermon. Just: bring Cassie too. And suddenly I felt the book itself put a hand on Vee’s shoulder. Yes, girl, remember the person who loved you before this got ornate.
+And then, damn it, he knows. He knows exactly what he did. That’s the part that got under my ribs. Not “I don’t understand why she needs this,” not “women want labels,” not any of the usual romance-hero dodge. He understood the crackers and meal speech when she gave it. He felt the right answer rise and chose the smaller truth. That makes me angrier at him and softer toward him at the same time, which is exactly the painful place this book keeps putting me. He is not emotionally stupid. He is scared. But Vee still paid for his fear.
 
-I love that Vee’s first fantasy is a dinner with “real napkins,” and then she realizes the problem isn’t logistics, it’s translation. There is no table where nobody is being translated badly. That is grown-up social thinking, and I ate it up. She isn’t ashamed of Cassie exactly, and she isn’t ashamed of Randi exactly, but she understands class and comfort and performance enough to know a wrong room can make somebody spend two hours being “fine.” That little “She’d watched somebody be fine about it before. She wasn’t going to look at when.” Mm. There’s a whole bruise under that sentence.
+Daphne helps. Not as an excuse, thank God, but as a key in the lock. I believe a young Pace would have made one person his whole world and then built a whole private religion around never saying the fatal words again. It’s sad and it’s also wrong. The line about teaching himself the words were the difference made me want to shake him because baby, no. The love was the difference. The loss was the loss. The words were just where you put the truth down.
 
-And Pace. I am annoyed by how much I softened. I still have my arms crossed about the word, sir. I have not forgotten December. But this chapter gave me the thing I kept wanting: not a speech, but evidence that he understands her life extends past his door. He doesn’t just agree to meet the glamorous friend. He expands the frame. Cassie, Meg, Kayla, Theo. Theo! And he doesn’t puff up or do the jealous male nonsense, which thank God, because I would have thrown a pillow. “Bring Theo” is such a small adult miracle in this shelf of books.
+The truck moment undid me. His whole body answering before his mind can stop it. That tiny second where the house gives him Vee again, and then takes her back. I didn’t need a grand gesture yet; I needed to see whether the absence reached him. It does. It absolutely does. But I’m also sitting here like: good, now what are you going to do with that? Because crying into cold broccoli is not a declaration. Missing her is not enough. Knowing you love her is not enough. Being devastated is not enough. The chapter title is cruel and perfect.
 
-The best part is that Vee remembers the Chili’s lesson. She doesn’t drag him back into the kind of room that hurt them both and call it progress. She asks him to pick the place. That is not submission in the flattened way. That is care. She is learning the shape of him as much as he has learned the roster of her. And “Let me handle it” hit me as sexy in the competent way, but also emotionally soothing. Not “I’ll hide us.” Not “don’t ask me for public.” It’s: I’ll make a room your people can actually be in.
+Also the little Randi blanket detail at the start. Excuse me. That cashmere blanket “for the chill that took her after” just sitting there in his bedroom before we move into Vee grief? The architecture is still in the room. Even when Randi isn’t in the chapter, she is physically folded at the foot of his bed. I noticed, book. I noticed.
 
-I’m very aware Randi is glowing offstage in this chapter like a lit fuse. Vee’s delight at “You could meet Randi” is so pure and so catastrophically uninformed that I’m sitting here with my hand half over my face. Pace and Randi in a room with Vee’s friends? With Cassie there? With Kayla, who notices everything and talks until the walls confess? Yes please, immediately, and also I’m nervous. Because the whole book’s secret is made of people in rooms not knowing who already knows whom, and now Pace is basically building a room.
-
-GATE 53 — Back
+GATE 53 — Not Enough
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was quiet, but it moved the emotional plot exactly where I needed it to go: out of the bedroom without losing the charge. Pace wanting her people, remembering them, and letting her trust him with the room pulled me hard, and now I badly want the gathering because it sounds like tenderness with a bomb under the table.
+WHY: This was the chapter I needed from him: not a fix, not a speech, but the admission under the admission. He knows he loves her, knows he failed her, and now I’m ravenous to see whether he can actually cross the distance instead of making another beautiful meal out of avoidance.

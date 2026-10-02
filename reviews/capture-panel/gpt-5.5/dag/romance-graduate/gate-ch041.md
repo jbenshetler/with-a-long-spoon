@@ -1,23 +1,24 @@
-*capture-dag-v2-rich · gate ch041 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~a3af5d5e997c · 2026-09-11*
+*capture-dag-v2-rich · gate ch041 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 38dcf8e44cd8 · 2026-10-01*
 
-REACTION —
+REACTION — Oh, this one got under my skin in that very specific way this book keeps managing, where I am warm and worried at the same time and neither feeling cancels the other out.
 
-Oh, this one got me in the quiet place.
+The photograph. God. I am so primed to flinch at erotic photos in books because usually it’s either cheap drama bait or some “oops it got leaked” nonsense, but here the whole thing is about trust before it’s about the image. Her sane cold thought is exactly right. Any girl knows that thought. And then she sends it anyway because she believes him. That is intimate in a way the sex almost isn’t. Not hotter than the sex, but more dangerous. She gave him a kept version of herself, and because he is Pace, because he looks at her like that and poses her with all that reverent control, I wanted her to. Which makes me nervous about myself, honestly.
 
-Not because anything huge happened, exactly, but because this is the chapter where Vee has to hold two photographs of herself in her head: the cropped daughter version, waist-up, parents-safe, honor society girl, and the full version she has already given to Pace and shown to Randi. And I felt that so hard. Not shame, not exactly. More like: once your body becomes true to you, the old people who love you still love the cropped file.
+And the way he photographs her is so perfectly him: not a grab, not a dirty trophy, but arranging light, shoulder, knee, hair, making her into the woman she wants to be seen as and then handing her back to herself. That is the drug of him. He doesn’t just want her body; he makes her feel more real inside it. “A girl who had a body, not a body that happened to have a girl attached to it” is exactly why I keep forgiving him more than I should.
 
-The detail of her mom touching her collarbone made me ache. That is such a mother thing, saying everything with one tiny touch and no actual sentence. And her dad looking at the dress, trying to do the math on the man behind it, the cost, the danger, the pride, the catch. I believed every second of that. Vee knows him. She knows exactly which truths would make sense to him and which truths would just sit in the room like furniture from another planet.
+The kitchen after was lush. I could smell that pan. I am such a sucker for this book’s food because it isn’t decorative, it’s appetite teaching appetite. Vee has learned to taste. She knows whose doing that was. That line made me ache a little because it’s beautiful and because it’s also the whole problem. He is changing her senses. He is making the world richer. He is giving her tools for pleasure. How do you leave, or even question, the person who taught you that?
 
-And god, Pace making the dress. I knew it, but hearing Vee imagine telling her father made it land differently. “Sex he understands. The sewing he never would.” That is funny, but it’s also a whole social diagnosis in one line. Pace is erotic partly because he is specific. Not just hot professor-ish math boy with good hands. He makes things. He notices. He translates wanting into labor. That is so much more dangerous than a man buying her something expensive, honestly. A bought dress can be explained as money. A made dress is attention with a pulse.
+Then: “I don’t go back.” Finally, that door. Or the edge of it. And I loved that she didn’t pry. That felt grown-up from her, and tender, and also maybe another way she is learning his rules: when a door closes, be kind and step back. I don’t know yet whether that’s wisdom or training.
 
-Cassie, though. Cassie is killing me, gently. “So what is he. Not to your dad. To you.” That is the question, isn’t it? And Cassie asks it without making herself the judge. She gives Vee a door, and Vee still can’t quite walk through it. I loved that Cassie didn’t push, and I also loved that Vee wanted her to, a little. That tiny disappointment in being respected. Because sometimes you want your friend to save you from your own privacy.
+Sheri coming for Thanksgiving made me tense for half a second, then relieved. I like that Vee had the flicker and then corrected herself. It felt honest: she’s not magically above jealousy, but she can think past it. And I am oddly excited for Sheri to be physically in the domestic space, because she knows enough to make the room different. She has the outside-eye bluntness I want near this whole arrangement.
 
-This chapter also made me nervous in a more domestic, less thriller-y way. Vee is learning to crop herself for everyone. Parents get the waist-up version. Cassie gets “both, probably both.” Pace gets the body. Randi gets the confession-glow and the almost-too-much. And Vee gets... what? The whole self, maybe, but only in pieces across other people’s hands.
+But the whole time I kept hearing the jacket in my head: he promised never to share her photograph. Not “you.” Not “anything.” Her photograph. Maybe that’s just exactness. Maybe that’s Pace being Pace. But this book has trained me to listen when the wording gets exact, and I am sitting here with my thumb hovering because Randi is still out there, and Vee keeps giving things to one person inside a room that is secretly built for three.
 
-I’m still continuing, obviously. This didn’t have heat on the page in the usual sense, but it had charge. The dress is basically a live wire now. Every time it comes back, it carries another meaning.
-
-GATE 41 — Cropped
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
+NEXT: 8
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter pulled me through recognition more than lust, but the erotic undertow was still there because the dress, the cropping, and Pace’s making of it all feel intimate as hell. Cassie asking the clean question kept the book emotionally honest, and I want the answer Vee still can’t say.
+WHY: This was hot in the way I actually want: explicit, bodily, but braided right through with trust and self-recognition. The photo should have scared me off, and instead it made the bond feel deeper, which is exactly why I’m nervous and absolutely reading on.

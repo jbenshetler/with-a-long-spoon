@@ -1,18 +1,20 @@
-*capture-dag-v2-rich · gate ch010 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b011ff26b790 · 2026-09-26*
+*capture-dag-v2-rich · gate ch010 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f1da455fc255 · 2026-10-01*
 
-REACTION — This one just made me happy. It's a small chapter — nothing happens but a girl landing on her bean bag chair telling her best friend about a kiss — but it might be my favorite one since the bench. Because this is the whole book in miniature, isn't it: Vee spinning in the room going "I did it. Me." Nobody did anything to me. I did it on purpose. She's so proud of herself for wanting something and taking it, and she doesn't even know yet how carefully that wanting was grown in her. And I know. I've known since the jacket. That's the ache of this book — I get to be glad for her *and* terrified for her at the same time, and somehow the gladness doesn't cancel out.
+REACTION:
 
-The thing that got me most was the kiss retold in her own small voice — "he was already walking away and I pulled him back and I did it. Me." After chapters of watching her be looked at, be chosen, be steered — by her mother's voice, by the sorority scale, by Randi's warmth, even by Pace's beautiful asking — her *doing* something is the event. And the fact that she needs Cassie to know nobody talked her into it. Oh, sweetheart. You weren't talked into it. You were *arranged toward* it, which is different, and worse, and you won't find that out for a long time.
+God, this chapter is just... happy. I'm sitting here grinning like an idiot, honestly. Vee spinning in the middle of the room and landing in the bean bag — that's me at twenty-one, that's the whole animal joy of a new thing, and I felt it in my chest. And the part that got me most, the part I'd underline: "I wasn't talked into it. I did it because I wanted to and I did it on purpose." Cassie asking how much she had to drink — thank GOD for Cassie, honestly, she's doing the reader's job out loud, she's the one person in this book asking the questions nobody in the sorority house would — and Vee gets to say *no, this was mine.* After everything I know from Chapter 1 — that Pace and Randi picked her, that the whole thing was aimed at her before she knew there was a plan — there's a knife under this warmth that I'm not supposed to be feeling yet, and I do feel it, and I almost don't want to.
 
-Cassie remains my moral compass in this whole thing. "How much did he give you to drink?" — flat, instant, not joking. Cassie's the only person in Vee's life doing actual safety checks without knowing she needs to. And that earlier "goodbye," the whole word — I went back to check if I'd imagined the ominousness of it. I didn't. I'm now genuinely braced for something to happen to Cassie, or for Cassie to see something she shouldn't, and I hate that I'm braced because I love her flat little dry floor under everything.
+Because here's the thing: the kiss under the tree WAS clean. He backed off, he let her close the distance, he left the last inch hers. That's the version of this I've been hunting for since Fifty Shades — a man who wants you desperately and still makes the yes yours. And it's landing. It's landing on me the way it's landing on Vee.
 
-And "off six-fourteen." That's the whole address she has. The man knows her class schedule, her body's hunger rhythms, and she's got "off six-fourteen, past where it goes to gravel." The gap in information is enormous and she's lying in the bean bag not feeling the cold. That's the genre working exactly the way I both love and fear.
+But I keep thinking about Randi holding her wine and saying "I already do" and texting him while Vee struggled with her integral. The collision on the lawn wasn't a collision. And this chapter — which is all Cassie and glow and borrowed shoes — is the first chapter where Vee is genuinely, uncomplicatedly happy, and I know things she doesn't. The "off six-fourteen, that's the whole address" bit made me laugh and then made my stomach hurt a little, because she has no idea what's out that road. The bench is out that road.
 
-But god, the warmth is real. "Real shoes." He told her to wear real shoes and she's going to borrow them and go hiking for the first time in her life for a man, and I remember being twenty-one and that exact drunk-on-someone, and I just want the next chapter.
+Also, "rich people hike, poor people walk" — Cassie gets a line in every chapter that I want to put on a shirt.
 
 GATE 10 — Off Six-Fourteen
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 7
 NEXT: 8
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Quiet chapter, no heat, but the care is on every page — Vee's joy, Cassie's dry protecting, the dramatic irony humming underneath. I want the hike badly; I want to see the house, and whether the table has its top on when Vee walks in.
+WHY: Nothing happened and I loved every minute of it — the joy is real and Cassie is the best character I've met in a book this year. The only thing pulling me harder than the warmth is the dread ticking under it: I want the hiking chapter, and I want to see her face when she learns what the plan was.

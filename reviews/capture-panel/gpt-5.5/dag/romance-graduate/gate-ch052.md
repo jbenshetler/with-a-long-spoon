@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch052 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~2a7718a6147b · 2026-09-11*
+*capture-dag-v2-rich · gate ch052 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c1f15218cc12 · 2026-10-01*
 
-REACTION — Oh this chapter knew exactly what I wanted after the coat scene: not another rupture, not a coy reset, but the morning-after paradise with teeth in it.
+REACTION —
 
-I was embarrassingly happy for her at first. Naked in his house, coffee too sweet, bread timed for her waking, those sweats folded like permission and her choosing not to take it. That whole “pleasure princess” reversal got me completely. Because yes, this is the thing the book keeps doing that KU alpha books almost never manage: it lets the surrender fantasy turn inside out until care is the domination. He isn’t “keeping” her by withholding; he’s keeping her fed, warmed, touched, watched. The man burns toast because she has breasts. I’m only human.
+Oh thank God, Sheri.
 
-And I loved Vee getting playful. Not just desired, not just grateful, but wicked. Making him lose his sequence in the kitchen, pointing out the fake spot, walking down the hall like she invented being followed. That felt like growth in her body, not just in her head. She has gone from being shown what she is to staging herself, commanding the tempo, discovering how much power there is in being adored by someone disciplined enough to obey. Delicious. Absolutely delicious.
+I didn’t realize how badly I needed Pace in a room with someone who would not be enchanted by him. Not Vee, hungry and wounded and trying to translate every plate and touch into proof. Not Randi, with all that hidden architecture and sophistication. Just Sheri in a diner, eating the bigger burger because obviously, stealing fries, saying the thing cleanly enough that it actually lands: if you can’t say it, then not saying it matters more than having her.
 
-But then the chapter did the thing. The *mouth* thing. And I mean this in the best, most squirmy way: I recoiled right with her and then immediately got interested in my own recoil. Because the book didn’t play it as shock value. It made the taboo happen after this whole long breakfast of fruit, mushrooms, salt, cream, bread, appetite, tasting, being taught to taste. So when his mouth comes back to hers carrying her, it is not random filth; it is the next psychological door. Her body says yes before her installed voice says no, and that split is exactly where this book lives.
+That got me. Because I have been circling Pace with so much patience, giving him credit for tenderness, for presence, for doing. And he does do. He really does. The line about “when I’ve got her, there’s nothing else in the room” is exactly why I’m still in this. He is not careless. He is not playing at devotion. But hearing him stack up all his evidence out loud made the problem sharper, not softer. Every brick true, and still not a house she can stand in.
 
-Also Pace. God. The stillness, checking which no is which. Wiping his mouth once and not making her pay for being startled. Leaving her mouth alone until she chooses it back. That was hotter to me than any possessive growl would have been. He is so careful when he is good, and that care is devastating because it makes the dangerous parts feel invited rather than shoved.
+And the diner itself worked on me more than I expected. This is the place he should have taken Vee. Not Chili’s, not punishment-by-chain-restaurant, but this odd warm county-road place where he can hear, where the food is plain and alive, where the jukebox hurts but doesn’t swallow her voice. I felt that little ache when he thought she might love it or never see it at all. That is the exact fork in the book right now. He has a whole version of himself Vee hasn’t been allowed into yet, and it isn’t because she couldn’t fit. It’s because he keeps deciding things can keep.
 
-I am side-eyeing Vee’s tidy little explanation, though. “He must have forgotten to wipe” is such a sweet little blanket over a much bigger animal. She knows. Or her body knows. And now she’s taking this strange small question to Randi, which means Randi gets to translate the next door for her. I am both thrilled and worried, because Randi “always knows what to make of it” is not a comfort anymore. It’s a loaded weapon in a silk handbag.
+Sheri talking about Paige also did something sneaky and painful. It makes Pace’s closed door less isolated: not as an excuse, but as a shared wound. “Call your mama, Sheri, it’s Christmas” is such a tiny brutal sentence. People who still have functional families really do act like estrangement is a stubbornness problem, and I liked that Pace knew exactly what not to say there. He can be emotionally exact. That’s part of why I want to shake him harder.
 
-GATE 52 — Missed a Spot
+Also: the heat in this chapter is almost entirely secondhand and still alive. Sheri clocking Vee’s body in four seconds, Pace blushing, “the air’s different,” the legs joke, the philosophy of food. It reminded me that his desire for Vee is not generic at all. He is gone on her. Sheri sees it. I see it. Vee cannot feel it from Ohio because he has not crossed the one bridge she asked him to cross.
+
+And now I’m tense in the best-worst way, because Sheri has put the moral math where it belongs. No more “words are cheap” little temple of masculine restraint. Say it, or admit the silence has become the thing you are protecting.
+
+GATE 52 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-ALMOST-STOPPED: none
-WHY: This chapter was indulgent in exactly the way I wanted after the reunion: food, warmth, naked play, and Pace’s service turning into erotic structure. Then it slipped in a new psychological hinge with the kiss-after moment, and now I badly want the Randi dinner because I do not trust her with this information and I absolutely need to see what she does with it.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "I'm there. Every weekend, I'm there — the weeknights were hers, she wanted them for her school and I gave her that."
+WHY: I almost bounced off Pace making his case again, because I am tired of his evidence binder, but Sheri cut straight through it before my patience curdled. This chapter made me want the next one badly because someone finally said the truth to him without dressing it up: if he wants Vee, he has to spend the word.

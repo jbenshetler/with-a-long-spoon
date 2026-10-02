@@ -1,19 +1,20 @@
-*capture-dag-v2-rich · gate ch015 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~13cbb0faa7b7 · 2026-09-08*
+*capture-dag-v2-rich · gate ch015 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 25b7bedbae77 · 2026-10-01*
 
-REACTION — Oh, this chapter got me. This is the exact dangerous beautiful thing I came for, and also exactly why I’m still holding my breath about the larger lie.
+REACTION — Oh, I liked this one more than I expected to, because it let Vee be a girl with girlfriends again. Not just Pace’s almost-lover, not just Randi’s chosen project, but Vee at a loud dining hall table laughing with her whole body, stealing fries, getting teased, telling the story better because it deserves to be told better. I needed that. I needed proof she has witnesses who are not in on the plan.
 
-The measuring scene could have gone so wrong for me. A dressed man, a nearly naked woman, his house, his tools, his control over the room, the light, the temperature, the riser. On paper that is a flashing red consent setup. But inside the scene, with Vee choosing and then choosing again, and him not pretending the erotic charge isn’t there but also not exploiting her panic, I felt completely caught. The heat is in the pauses. The stepping back. The writing down. The fact that his restraint is not coldness. It costs him, and she can see that it costs him, and that makes it so much hotter than if he just pounced.
+And the way she tells the shirt story. God. She knows it is romantic. She knows exactly where the ache is. But she also understands the restraint as the point: he didn’t kiss her, not because he didn’t want to, but because he was freezing, because the moment needed care more than conquest. That is exactly the thing I came to this book hoping for. The not-taking is hotter than taking would have been.
 
-And Vee. God. The wet satin nearly killed me. Not because it was “sexy embarrassment” in the cheap way, but because it went straight into that old female shame place: your body betraying you, your wanting becoming visible before you have given anyone permission to know it. I was so afraid the book was going to make her humiliation the toy. But then he looks up. He waits for her eyes. He smiles like she is a gift, not a joke. That was the chapter for me. That was the whole promise of the jacket suddenly delivered in one image: her most ashamed self, seen and not punished.
+Kayla and Meg feel different from Cassie in a good way. Cassie is the anchor, the person watching for danger. These two are the delighted chorus, and Vee deserves that too. I loved Meg’s “Sometimes they even are,” because it’s not cynical exactly, just adult enough to leave a pin in the balloon without popping it. Kayla is hilarious and useful because she says the thing: two o’clock is not dinner. His house is a threshold. We all know it. Vee knows it. I am basically sitting at that table with them, pretending to be normal while rereading the text in my head.
 
-I loved that after that she changes. Not into some slick seductress, but into a woman realizing she has effect. She can make him laugh. She can stump him. She can make him blush. She can almost topple him. That “Oops. Sorry.” made me grin like an idiot because it’s hers. It’s not him dragging desire out of her while she lies there stunned. She starts playing back. Clumsily, warmly, wickedly, with her own body.
+What got me most is how little Pace has to say to set the whole chapter humming. “Would you come to my house Saturday. Two o’clock.” That is barely a message, and because he has been so careful before, it lands like a hand at the back of my neck. Not coercive. Not explicit. Just a door opening. And I want her through it so badly I’m annoyed the chapter ended.
 
-And Pace kissing the pinprick, then catching himself with “Keep still” — yes. That is my weakness. The tenderness and the command in the same breath. The little illicit touches afterward are right on the edge, but they worked for me because the scene has become mutual by then. He is not using her helplessness; she has been inviting him into the charge, and he is answering in these controlled, deniable ways while still finishing the thing he promised to make for her.
+The Randi-shaped absence is loud, though. Vee is moving toward Pace’s house while Randi is somewhere wanting “us” and running out of Pace’s bed afterward. I can feel the book tightening the triangle even when Randi isn’t on the page. That secret plan is still the wire under everything. But right now? I’m gone. I want Saturday. I want the door, the house, the first private afternoon, and I want him to keep being the man who asks.
 
-But the secret frame is still there. That’s the splinter. I am swooning over his care while remembering he and Randi picked her. This chapter made me trust him in the room more than ever, and distrust the structure around the room more sharply. Because if this is who he can be with her, then the lie is not some small genre contrivance. It is a real betrayal waiting under something genuinely tender.
-
-GATE 15 — A Round  
-DECISION: CONTINUE  
-CAPTURE: 10  
-ALMOST-STOPPED: "The bra too,"  
-WHY: That was the moment I tensed, because it could have tipped into clinical objectification or coercive erotic staging. But the chapter earned me back almost immediately: he made room for her shame without making shame the point, and the heat came from her being seen, answered, and still free.
+GATE 15 — What to Wear
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 10
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: This was delicious anticipation: Vee being teased by friends, admitting how undone she is by being asked instead of pushed, and then that tiny text opening the next door. The chapter itself is mostly table talk, but it made me want the next chapter immediately.

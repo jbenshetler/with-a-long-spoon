@@ -1,33 +1,26 @@
-*capture-dag-v2-rich · gate ch051 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~79b4d57f1ee0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch051 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · 2026-10-01*
 
 REACTION —
 
-Oh, I was braced so hard for the door that I almost forgot she still had to get there. And the getting there did me in. The mirror, the shoes first, the coat over nothing, her talking herself into becoming the woman brave enough to do it — that was exactly the kind of erotic I want, because it is all hers before it is his. She is not being dressed or positioned or persuaded in that room. She is choosing, and frightening herself with the size of her own choice, and then choosing again.
+Oh, this one hurt in the exact lonely place.
 
-The part where she starts touching herself in the mirror and then stops? That got me. Not just in the obvious way, though yes, good Lord. It was the discipline of it, the offering of it, but not in a helpless way. She denied herself because she knew what she wanted, and that made her feel powerful. That is the difference for me. The surrender is not emptying her out. It is her gathering herself up.
+I could feel that childhood bedroom closing around her. Not in a dramatic way, just that awful holiday-home way where everything is familiar and loving and somehow proof that no one there knows you now. The trophies, the clarinet, the old friends on the board, her legs too long for the bed — that got me. She is not unsafe there, exactly. She is loved there. But she cannot breathe there. And the thing that makes me ache is that she has been made bigger by Pace and Randi, by appetite and being seen, and now she is back in a room that only knows the smaller version.
 
-And then the car scene nearly killed me. I was laughing and clutching my chest and also yelling at her like an insane person. The police lights were a perfect little heart attack. I honestly thought, for half a second, the book was going to humiliate her, and I was ready to be furious, but instead it turned the fear into even more voltage. By the time she reached his door I was almost sick with wanting her to get what she came for.
+And Pace’s silence is maddening because it is so plausible for him. I believe he thinks he is leaving her room. I believe he does not sulk. I believe he might be sitting in his own house devastated and still not reaching because she walked away and he respects doors. But from inside Vee’s body, that respect feels indistinguishable from abandonment. That is the knife. His best quality has turned cold in her hands.
 
-And Pace. Pace, Pace, Pace.
+The jealousy spiral with the imagined blonde was painful because it felt so young and so real. I hated watching her lose her own memory, the fra diavolo night, to this invented woman. That was one of their sacred warm places, and now her fear can contaminate even that. I wanted to climb into the book and shake Pace by the shoulders. Not because I think he has actually replaced her, but because he has left enough blank space for her to put a nightmare there.
 
-He opens with the formal voice, and I felt my whole body go cold. “It’s late. Is everything alright?” Sir. No. Do not do this to me. Do not make this girl stand there in a coat and terror while you perform emotional furniture. But then she opens the coat and the wall just vanishes. I loved that she sees it happen. I loved that she watches what her choice does to him. Not because his desire validates her entirely, but because this particular shame in her has always needed to be met by someone who sees the whole of it and goes reverent.
+Randi’s text made me flinch, too, because I know what’s under it now. Vee reads it as proof that Randi is fine and glamorous and loved by the world, and I know Randi sent back the shiny version on purpose. It is tender that Vee reached out with an open hand and protected the PPP wound even in her own misery. But it also made the whole triangle feel worse: everyone is withholding something, even when they’re trying to be kind. Vee hides what she knows. Randi hides what she feels and what happened. Pace hides the name. They are all standing around these covered dishes and Vee is the one starving.
 
-The doorstep sex was wild, and it worked for me because it felt like both of them breaking in the same direction. He goes to his knees immediately. Immediately. I am not immune. The open door, the cold, the ridiculousness of trying to make it to the bed and failing because his jeans are around his thighs — it was desperate and funny and filthy and tender all at once. That is such a narrow target, and this chapter hit it.
+There wasn’t heat here, not really, but there was longing. The memory of his arms, the kitchen, the sheet, the way cooking and sex are braided for her — that still has charge because it means something. But mostly I felt cold. I felt her wanting not sex first but certainty. A time. A place. A sentence. Someone coming after her with words.
 
-But here is where I am split: he still did not say it.
+And the ending, with Randi as the sure date on the calendar and Pace as nothing she can circle, made me very nervous in a good, terrible way. Because I understand why she would reach toward Randi. Randi answers. Randi calls her gorgeous. Randi will physically reappear. Pace, right now, is a room with the lights off. I still want him, I still believe in the care, but this chapter made me feel how dangerous silence is when someone has finally learned to ask for more.
 
-I know, I know. He said “I missed you so much,” and his voice cracked, and he went down on one knee by her chair after making her pancakes at midnight, and if I pretend that did not move me I am lying. It moved me terribly. The food after the frenzy was almost more intimate than the sex. The blanket. The “those stay on.” The pancakes from scratch because she is hungry. His care is so embodied and exact that I understand why Vee feels, in that moment, that she has everything.
-
-But I am still carrying the sentence he did not spend.
-
-The chapter almost seduced me into forgetting that, which is honestly the point and the danger. Because Vee forgot too, or at least she had no room for wanting it right then. And I believe her happiness. I am not rolling my eyes at it. She drove there to get back inside his care, and she did. He did not punish her, did not make her beg, did not hold himself apart once she crossed the threshold. He met her offering with hunger and relief and then warmth. That counts. It counts a lot.
-
-Still. The wound was about words. This repaired the body of it, maybe even the trust of it, but not the name. Maybe the book knows that. I think it does, because the chapter lets me feel the relief so completely that the missing word becomes quieter but not gone. Like a splinter under velvet.
-
-And Cassie at the end, with one eyebrow and “Hmm,” was perfect. Thank God she is back in the room. Randi made the plan, Pace received the offering, but Cassie sees the evidence walking in on Sunday evening wearing the whole weekend like a confession. I want that daylight test now more than ever.
-
-GATE 51 — Nothing Underneath
+GATE 51 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: “It’s late,” he said. “Is everything alright?”
-WHY: For one awful second I thought Pace was going to hide behind manners again and let her stand there exposed in every possible way. But the chapter gave me Vee’s choice from the inside, then gave her hunger, welcome, sex, food, warmth, and a little daylight witness at the end. I am still waiting for “I love you,” though. The pancakes are not the word.
+CAPTURE: 8
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "He left you the room. He always left you the room — a thing she'd appreciated once, and hated now."
+WHY: This was lonely and painful, but it deepened the exact rupture I care about: love without a name turning into fear. I am angry with Pace, aching for Vee, and very aware that Randi is becoming the reachable warmth while Pace stays silent. I need the next chapter because somebody has to move, and if Pace doesn’t, the book is making that absence count.

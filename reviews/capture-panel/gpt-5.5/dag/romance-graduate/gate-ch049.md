@@ -1,19 +1,30 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~c1f15218cc12 · 2026-09-11*
+*capture-dag-v2-rich · gate ch049 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · 2026-10-01*
 
-REACTION — Oh. Well, there it is. Pace finally alone with himself, and it is both satisfying and awful, because yes, I wanted inside him, and yes, I wanted proof that he knew exactly what he did wrong. And the book gives it to me without letting him off. He knew. He knew on the porch. He felt the real answer rise and chose the smaller truth. That is the sentence I have been waiting to hear and also the one that makes me want to throw something soft at him very hard.
+REACTION —
 
-The bleach got me first. Not even the whiskey, the bleach. This man who manages rooms, food, heat, bodies, edges, consent, sequence, sensation, has been sick and then cleaned it up like discipline can mop grief off a floor. And then he sous-vide reheats chicken and broccoli like a sad astronaut because his body requires inputs. Prison food, exactly. Without Vee, his whole beautiful food language collapses into nutrition. That hurt more than if he’d just stared at a wall.
+Oh, this hurt. This hurt in the exact place the last few chapters have been pressing with one finger until I wanted to slap the hand away.
 
-And Daphne. Finally Daphne. Not all of it, but enough to make the locked room crack open. I believe this wound. I believe a young brilliant boy who knew math and not life, being shown the world by an older woman, making her his whole map, and then losing not only the lover but the person he would have told about losing her. That line was brutal. “There had been no one to tell that Daphne was gone. Daphne was the person he would have told.” I had to sit with that one. That is grown-up romance pain. Not “my ex cheated so now I’m mean in a tailored suit,” but a psychological mechanism I can actually feel forming: say the words once, lose everything; never say them again, survive.
+I am so proud of her I could cry. Not because she was perfectly composed or because she found the ideal language, but because she walked into that house and did not let the warmth eat the question. That house is basically built to dissolve her. Heat already up, wine poured, food going, music on, all the thousand little proofs of care that have made me weak for him for forty chapters. And she still stayed on the mat. She didn’t bring the bag in. That killed me. That was her body saying: I am not already yours tonight. You have to answer me first.
 
-But, Pace, my love, my infuriating careful man: trauma is an explanation, not a hall pass. And the chapter knows it. He hurt Vee because he was afraid she could hurt him. He believed not saying it would make it hurt less. Then he gets the truck fake-out and absolutely breaks, and I am sorry, I ate that with a spoon. I wanted him miserable enough to understand the cost. Not punished, exactly, but brought down into the truth of it. And he is.
+And he almost makes it worse by being exactly himself. “I thought we’d have the evening.” God. Of course he did. Of course the evening is beautiful. Of course the chicken is going and the porch is clear and there are stars. He is offering her the whole thing she loves, but she is asking for the one thing it has started to cost her to go without. And he cannot, will not, put a name on it.
 
-The thing that keeps this from being just satisfying male suffering is that his longing is so specific. He misses her arriving. He misses the first bite reaching her. He misses her unguarded body in the hallway, her asleep with the questions gone from her face. He doesn’t miss “having a girlfriend.” He misses Vee, in the exact places where she changed the air in his house. So yes, I still believe him. I am still furious. I am also leaning forward hard enough to dent the table, because now he knows the words matter, and I need to see whether he can spend them before Randi gets back into Vee’s bloodstream and the whole triangle catches fire.
+“Do any of your friends have a relationship you’d rather have than this one?” made me furious in a way that was worse because it isn’t nothing. It’s a real question. It’s even probably true. She wouldn’t trade this for anyone else’s little boyfriend dinner-and-a-movie life. But it is also such a maddening dodge. He turns her need for a name into a comparison chart, and she’s too honest not to answer it inside herself. That is the trap with him: he says true things that do not answer the question.
 
-Also: “Whiskey River was a liar” made me laugh in the bleakest way. Sir, Willie Nelson cannot save you from emotional accountability.
+And then “Words are cheap. Believe what I do.” I understand him, and I still wanted to throw something. Because yes, Pace, your actions are eloquent. We have all been over here drowning in your actions. The heat, the drawer, the food, the shirt, the careful hands, the stopping when she says stop, the way you see her body with her inside it. But words are not cheap when someone is starving for one. Words are not cheap when withholding them lets you keep the relationship unprovable outside the room where you control the weather.
 
-GATE 49 — Not Enough
+Her answer was perfect. “Words are cheap, and you still won’t spend them on me.” That’s the line. That’s the whole wound opened clean.
+
+And the thing is, I don’t even think he doesn’t love her. That is what makes this unbearable. I think he does, or something very close to it, and I think he has some locked room in himself marked I Don’t Go Back where love-language goes to die. But Vee cannot live on forensic evidence forever. She cannot keep building a case out of wine glasses and porch heaters and the smell of a flannel shirt. She is twenty-one and in love and being asked to trust everything except the thing he refuses to say.
+
+Also, the concealed Randi/Pace structure is screaming louder now. Because he won’t name Vee, but there is already another named reality somewhere behind her back. That makes his silence feel less like wounded reserve and more like architecture. Maybe that is unfair. I don’t care right now. She left crying in the cold because he would not spend a word.
+
+I would absolutely keep reading. My thumb is already moving. I need to know whether he lets her go, whether he follows, whether Randi gets her hands on this, whether Cassie finally hears the whole shape. This chapter did the terrible, delicious thing where the erotic charge is almost entirely gone and I’m still more caught than I was during some of the sex. Because this is the bill coming due.
+
+GATE 49 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: This chapter gave me the thing I needed: Pace’s interior reckoning, not as excuse but as exposure. The heat isn’t on-page sex here, but the charge is absolutely alive because every remembered bite, shirt, bed, and arrival is eroticized by absence. I am fully back in.
+NEXT: 10
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: "Words are cheap. Believe what I do."
+WHY: That line made me almost put the book down out of anger, but Vee’s answer snapped me upright. This is exactly the confrontation I’ve been waiting for: not the big secret yet, but the emotional debt underneath it finally named.

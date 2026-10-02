@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b247f2c75c88 · 2026-09-19*
+*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · 2026-10-01*
 
 REACTION
 
-God, that hurt. That was an ache right in the sternum.
+Oh, this hurt. This was a tiny, sharp blade of a chapter.
 
-Having the text from Chapter 47 land in this chapter, but from *Vee’s* perspective, was an absolute masterclass in dramatic irony. In Chapter 47, we watched Randi standing cold and numb in a luxury bathroom, having faked her way through a gilded, hollow night with a rich boy she didn't care about, desperately texting Vee because Vee is the only real, warm thing in her miserable, fraudulent life. And here is Vee, curled up in her childhood bed with her feet jammed against the footboard, smelling lavender plug-ins and laundry soap, projecting an entire fantasy of effortless billionaire glamour onto Randi’s text. *"Randi, the only girl she could talk to about real things."* The knife twists so deep! Vee thinks Randi is living the dream and tossing her crumbs of affection, completely blind to the fact that Randi is actually clinging to her like a life raft.
+It’s two pages, but God, what a devastating two pages. The progression with that damn flannel shirt—from asking him to wear it and infuse it with himself, to wearing it over a t-shirt so Cassie won’t pity her, to stripping down so it touches her bare skin, to that brutal, agonizing realization: *the heat in the shirt was her own, given back.*
 
-And then the spiral over Pace. It’s so brutally, humiliatingly relatable. Anyone who has ever loved someone without having a clear label—who left an argument unresolved and went home for the holidays into radio silence—knows that exact midnight madness. You take the memory that used to keep you warm, the kitchen smelling like garlic and crushed red pepper, and your own brain betrays you by putting another woman in your chair. The tan legs, the model body, the blonde hair. It's so sickeningly self-destructive, but it’s *exactly* what your mind does at 11:52 p.m. when the house is dark and you feel small, unchosen, and outgrown.
+That line hit me right in the chest. That is the exact anatomy of a woman slowly coming out of a spell. He didn’t give her that warmth; she generated it, shoved it into the fabric, and tricked herself into thinking he was holding her. And then the sheer despair of whipping it off, choosing the freezing dorm room air over the lie of his phantom comfort, and just lying there naked and shivering while Cassie sleeps below her.
 
-The detail of the synchronized swimming trophies and the ribbons on the corkboard—the bedroom keeping watch over "Vivienne," a girl who doesn't live there anymore—felt so real it bruised. She has expanded so much in Pace's bed and under Randi's gaze that she literally doesn't fit in her twin mattress anymore, yet she walked away from Pace because he wouldn't give her the pedestrian vocabulary she needed to appease her parents.
+She asked for a meal, and he gave her an adjective. *I love how good we are together.* Now the high of the weekend and the post-orgasmic glow of his bed have completely evaporated, and she's left with the cold math: he has swallowed her whole, he has given her an orgasm for every doubt, but he has not given her *one single word* that anchors her to him in the daylight. He’s got her neatly compartmentalized, and she is finally, finally starting to freeze to death inside the box.
 
-She's clinging to Randi as the "one sure thing" for the spring semester, totally unaware of the landmines buried under both of these relationships. I am practically vibrating to see what happens when they all get back to campus.
+It’s quiet, it’s short, there’s no plot movement, but emotionally? It’s a massive turning point. The flannel was her security blanket, and she just discarded it on the mattress like trash.
 
-GATE 48 — Old Acquaintances
+GATE 48 — Bare
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The matching perspective on Randi's text was agonizingly good, and Vee’s lonely, late-night spiral over Peter felt utterly true to life. I need them back on campus immediately; the suspense is killing me.
+WHY: The gut-punch realization that the heat in his shirt was just her own warmth reflected back at her was pure emotional brilliance. It’s short, but it cleanly breaks the spell of his physical comfort. I need to see what she does when she wakes up from this.

@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch036 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~9782a926aac2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch036 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · 2026-10-01*
 
-REACTION —
+REACTION — Oh. This one got me in the throat and then lower, which is exactly the problem with this book and also why I am still here at nearly indecent speed.
 
-Oh, Cassie. Finally. This chapter is quieter than the last few, but it hit me right in that little ache I’ve been carrying about her, because Cassie is the only person in Vee’s orbit right now who isn’t turning the screw. She is not glamorous, not eroticized, not part of the machinery, and because of that she can say the plainest, scariest thing in the room: you don’t come home school nights.
+I love that the induction walk gets brought home to the person who made the dress. That mattered to me more than I expected. Pace missing the ceremony could have felt like plot logistics, but here it becomes this private correction: the world saw the dress, but he gets the dress *understood*. He gets the completed line, the shoes, the walk. And Vee knows he deserves that. That is tenderness. That is grown-up, specific tenderness, not just “he bought her flowers” shorthand.
 
-That landed. Not as accusation, exactly. More like a hand on the dashboard before the car goes too fast. Cassie isn’t trying to own Vee or shame her or compete with Pace. She is just noticing. And Vee, lit up and spilling over, cannot even feel the cold, cannot hear herself until Cassie makes her count the nights. That scared me more than a dramatic confrontation would have.
+And then the second costume. God. The way she makes the joke give her permission, but the joke isn’t the point. Halloween means costume, costume means showing, showing means she can choose to become exactly what she has been learning she is. I am very weak for “she uses a social excuse to do the thing she actually wants,” especially when the book doesn’t flatten it into coyness. She knows. She is pink and exposed and still walking. That is such a turn for Vee: not being caught naked, not being coaxed naked, but making him sit there and wait while she comes down the hall in only the heels.
 
-The “streetlight” thing is such a Cassie love language. Dry, affectionate, worried but not needy. She sees Vee glowing, and she’s glad for her, but she also sees the empty bed. She sees the pattern before Vee can bear to call it a pattern. I love that she asks “Do you love him” flat, without making it sentimental. That is exactly the kind of friend question that can cut through a fog because it doesn’t dress itself up.
+The phrase “this is what I had on under it” is lethal. Because it’s funny, and bold, and also such a Vee sentence: technically true, emotionally radioactive. She’s offering him the secret version of the public triumph. The world got the burgundy, the leg, the murmur. Pace gets the truth under it. And he answers perfectly. “The other is for the world. This is just for me.” I melted a little, I admit it. I also clocked the possessiveness in it, obviously, but in this moment it felt earned because she staged the whole thing. She handed him the private viewing. He didn’t take it.
 
-And Vee’s “Maybe. I think so. It’s all so fast.” Oh honey. Yes. That’s the whole problem and the whole drug. It *is* fast, but it also feels earned because the book has made me live inside the appetite with her. I believe she loves him. I also believe she is being absorbed into a life he and Randi have prepared around her without telling her the shape of the room. The top drawer, the warm house, the food, the scrunchies, the school nights: it is all so tender, and it is also all infrastructure.
+What really worked for me is that he doesn’t pounce. After last chapter, with the spanking and the bet and the “we find out,” this could have escalated immediately into a pattern: Vee provokes, Pace claims, scene repeats. Instead he stays in the chair because she put him there. That restraint is hot. The looking being the touch is hot. And emotionally, it lets her remain the author of the moment. She is not swept away from her own entrance. She gets to stand in the light and be seen until she decides what happens next.
 
-The burn detail got me too, in a sneaky domestic-sexual way. The house is warm enough now that she forgets how little she has on. Of course it is. Of course the environment itself has adjusted to her nakedness. That is hot, yes, but also: girl, your habitat is being changed. You are living differently before you have admitted you live there.
+I am still uneasy about the larger Randi/Pace machinery, because how could I not be. The heels are Randi’s work in the world as much as Pace’s dress is. Even when Randi is absent, she is in the costume. She buckled those shoes; she taught Vee how clothing can operate; she helped train this new confidence. So this private “just for me” moment with Pace is not actually cleanly just for him, which is delicious and alarming. Vee thinks she’s bringing him the finished thing, but the finished thing has Randi’s hands all over it too.
 
-This chapter didn’t have Randi on page, and I missed her charge, but I also think I needed the oxygen of Cassie. She makes the book feel less like Vee is just floating downstream in a beautiful erotic dream. Someone on shore is watching the water rise.
+But as a chapter? Yes. Short, concentrated, no wasted throat-clearing. It’s a bridge, technically, but it burns. It lets Vee own the room, then the hall, then her nakedness. I would absolutely keep reading.
 
-GATE 36 — School Nights
+GATE 36 — Made-Up
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
+NEXT: 8
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was a quieter pull, but a strong one: Cassie naming the pattern made the romance feel more dangerous and more real. I’m deeply invested now in whether Vee can keep any part of herself outside Pace and Randi’s gravity.
+WHY: This was private, charged, and beautifully chosen by Vee. The heat is not only that she comes out naked in heels; it is that she makes him wait, makes him look, and discovers she can stand there without covering herself. The romance lands because he understands the offering: the dress belongs partly to the world, but this unveiling is hers to give him.

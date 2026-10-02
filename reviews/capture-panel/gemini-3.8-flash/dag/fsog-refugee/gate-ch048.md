@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b247f2c75c88 · 2026-09-19*
+*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d6bbb290a65b · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh, this hurt. This physically hurt to read.
+Oh, God. My chest actually hurts.
 
-I know this exact feeling in the pit of my stomach—lying in a childhood bed that doesn’t fit your body anymore, in a room that only knows a previous, smaller version of you, while the clock ticks down toward midnight on New Year’s Eve. That profound, hollow ache of not knowing if the person who completely woke your body up is even *yours* anymore. When she looked back at her induction photo and realized she was the one who cut her own leg off—scissoring away the very part of herself that Pace built that gown to celebrate, just so her parents could stomach a safe, castrated version of her—I almost cried. She has outgrown that house, she has outgrown the safe girl who collected synchronized-swimming ribbons, but out in the world, she has no anchor.
+When she took that flannel off and threw it in a heap, I felt that right in my stomach. Think about what that shirt meant to her! She literally begged him to wear it for an entire weekend just so it would soak him up, so she could survive the nights away from him breathing in his skin, and now... *“the heat in the shirt was her own, given back. He wasn’t in it.”* That is so devastatingly, brutally perceptive. It’s the horrifying clarity that hits you at three in the morning when the romantic fog burns off and you realize you’ve been doing all the emotional heavy lifting with a ghost.
 
-And the silence from Pace is killing me. "He left you the room. He always left you the room — a thing she'd appreciated once, and hated now." *God.* That hit like a truck. In a romance novel, you want the man who respects boundaries, who doesn't crowd, who doesn't stalk or harass you after a fight. That’s the dream! But when you walk out of a house after crying your eyes out, and that infinite patience and restraint turns into absolute silence for days over the holidays? It feels less like respectful room and more like an abyss. It makes you feel like you never mattered enough to chase.
+This whole sequence of chapters—from her offering that gorgeous, vulnerable line about the meal and him answering with *“I love how good we are together”* (a lethal dodge, the kind of corporate relationship speak that makes your stomach drop), to her blowing up at him after sex and begging to be seen in the light of day, to this—is tearing me apart.
 
-And seeing the other side of that text exchange between her and Randi made me feel sick with dramatic irony. Vee is lying there imagining Randi living this dazzling, effortless fairy tale with a billionaire, while we *just saw* Randi in Chapter 47 feeling hollow, cold, and dead inside, clutching her phone just to send a crumb of fake gloss to Vee while secretly thinking of Pace and Vee. Vee envies Randi's performance, and Randi is quietly suffocating inside it.
+Pace is killing me right now. I love him, I really do, but his walls are turning into a prison for her. His absolute calm, his steady, unhurried care—it’s the very thing that made him safe, and now it’s the thing that’s starving her. When she lashed out about being hidden away, he didn't fight back, he just calmly took her to Chili’s. And he hated it! The fluorescent lights, the noise, the TV over her head pulling his eyes away—he was miserable, and she realized he only truly functions when he has her trapped in his curated, quiet terrarium in the woods. Out in the real world, under bad lighting with cheap food, they have nothing to say to each other. That terrified her, and it terrified me.
 
-The spiral into jealousy broke my heart—watching her take her absolute best, sacred memory (him cooking fra diavolo while she sits in the sheet) and literally torturing herself by pasting a fantasy blonde into it. She is so starved for certainty. I am begging them to get back to campus. They need to be in the same room. Pace needs to open his mouth, and they need to collide, because this distance is poison.
+And then back at the house, the sex was incredible—it was desperate and he finally lost that iron control, which she’s been aching for—but even when he was totally undone, shaking and spilling himself inside her, *he still didn’t say it.* He gave her his body, his sweat, his hands, his food, his quiet domestic routine... and withheld the one single word that would make her an equal partner instead of an exquisite hobby.
 
-GATE 48 — Old Acquaintances
+She is so lonely. She's up in that top bunk, freezing, staring at her phone, realizing there isn't a text message in the universe that can fix this because the problem isn't that he forgot to say something. The problem is what's missing at the center. When she took the shirt off and chose to just lie there shivering in the dark rather than take comfort in a hollow scent, she grew up a little bit. She stopped letting the sensory luxury numb the emptiness.
+
+I am terrified for what happens next. She's raw, she's disillusioned, and Randi is right there waiting with an open ear, a private class, and a mouth that already knows how to cross lines. Pace is losing her, and he’s so wrapped up in his quiet, self-contained world that he probably doesn’t even know the clock is ticking.
+
+GATE 48 — Bare
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological agony of being suspended in relationship limbo over New Year's Eve felt brutally real, and now I desperately need them back on campus to face the aftermath.
+WHY: The emotional ache in this chapter was staggering—watching her finally reject the comfort of his shirt because the man himself won't give her a name for what they are was devastating and completely earned. I need to see what she does in the morning.

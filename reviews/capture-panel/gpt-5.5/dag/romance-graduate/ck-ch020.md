@@ -1,167 +1,149 @@
-*capture-dag-v2-rich · carry-forward ck-ch020 · gpt-5.5 · romance-graduate · prompt-sha db93395517a5 · 2026-09-11*
+*capture-dag-v2-rich · carry-forward ck-ch020 · gpt-5.5 · romance-graduate · prompt-sha b3c0511c266a · 2026-10-01*
 
 WHO'S WHO
 
-Vee is fully awake now, or awake enough to be dangerous to herself. She has crossed the line with Pace physically, and the line with Randi emotionally, maybe physically too though she is still explaining that away. She is not an innocent. She is choosing, preparing, wanting, testing her own power. But she still does not know the larger arrangement around her, and that ignorance is sitting under every happy thing like a floor that might drop.
+Vee / Vivienne: now fully awake in her body, and it is glorious and terrifying. Still the soft, hungry, observant girl, but not passive. She is choosing more and more boldly: calling Pace back into the truck, stepping onto the riser, leaning into him on purpose, buying the green set, handing over the evidence afterward. Shame is still there, especially her mother’s voice, but it no longer gets the final vote.
 
-Pace is worse and better than a fantasy man, which is my problem. Math PhD, powerlifter, woodworker, cook, sewer, patent-haver, absurdly competent in too many directions. He fixes boots, builds furniture, makes shirts, turns up the heat before she arrives, buys silk because she once mentioned a dress she couldn’t afford, and then measures her like her body is a text worth reading carefully. He is deeply attentive and deeply staged. I believe he wants her. I believe he respects her choices in the moment. I also believe he is creating the moments.
+Pace: math genius, powerlifter, woodworker, cook, man who sews, patent-holder, problem. He makes furniture and shirts and now a burgundy silk dress because he heard one discarded want on a mountaintop and remembered. His tenderness is meticulous: moleskin, cherry pits, heat turned up, tea ready, not looking down when Vee is ashamed. He is still part of the secret setup with Randi, which I cannot forget. But I believe his care, and that makes the secret worse.
 
-Randi is now unmistakably part of Vee’s erotic life, whether Vee can say that or not. Glamorous, rich, socially fluent, dangerous because she makes shame feel stylish and appetite feel normal. She listens like a confessional booth with lipstick. She is Pace’s girlfriend/co-conspirator, though Vee still doesn’t know that, and her tenderness toward Vee is real enough to make the betrayal messier. She kisses Vee on the mouth now. Twice. Vee has stopped checking who saw.
+Randi: glamorous danger in cream cashmere and a dark green Mercedes. She wants Vee badly and increasingly cannot disguise it, but she keeps routing the want through stories, questions, Pace, deniability. She can make Vee feel chosen like sunlight, and she can steer a conversation like a blade. The mouth kiss was not nothing. Vee calling it “French” is self-protection.
 
-Cassie is still the person I trust most. Dry, watchful, funny, and good at not forcing the thing Vee is not ready to say. She notices the flannel, the toenails, the seams in Vee’s story. She teases, but she doesn’t take. I’m worried because Vee has started editing what she tells Cassie, and that feels like the first real loss.
+Cassie: still my clean witness. Dry, funny, not prudish, not dazzled in the same way. She gives Vee permission without hooks. “Keep the shirt.” “Borrow real boots.” She sees the strangeness and the beauty both. I need her to stay close.
 
-Kayla and Meg are Vee’s other friend-audience: cafeteria debrief girls, very alive, very useful for turning Pace into a story Vee gets to enjoy socially. Kayla is chaos and hair plans; Meg is quieter, with that “sometimes they even are” sanity. They matter less than Cassie but they make Vee’s ordinary college life feel populated.
+Kayla and Meg: Vee’s ordinary girlfriend chorus from the athletic dining hall. Kayla is a chaos engine with good instincts about two o’clock not being dinner. Meg is calmer, but when she sets down her fork, it counts. They help make Vee’s life bigger than just Pace/Randi.
 
-Brooke is off-page here but still filed under no. Standards smile, social blades. The silent tall girl is fading but still in the unpleasant assessment folder.
+Brooke: still sorority-polished social force. In these chapters she mainly matters as the person Randi publicly spent something in front of by calling Vee her dear friend.
 
 WHERE THINGS STAND
 
-Pace took Vee hiking. She was scared, her borrowed boots rubbed, and he fixed the hot spot without humiliating her. At the summit he fed her rye sandwiches with horseradish and cherries, taught her leave-no-trace etiquette with a cherry pit, and listened when she mentioned the honor society induction and the russet silk dress she couldn’t afford.
+Randi pulled Vee away after class for smoothies and a full Pace report. Cassie peeled off at the start, and Vee barely noticed because Randi had her by the wrist. At Smoothie Bird, Vee felt wrong-sized among the polished girls until Randi named her, in front of Brooke and another sorority woman, as “my dear friend” and held her hand in public. Vee took that as being picked out loud, and I understand exactly why.
 
-It rained on the way down. In the truck he gave her his dry flannel and stepped out into the rain so she could change privately. Vee called him back in and deliberately took off her wet shirt while holding his eyes. He looked and did not touch. Then she realized he was freezing, warmed his hand against her belly, and made him drive. Campus cop interrupted the kiss/goodbye, and she came back wearing his flannel.
+The hike happened. Pace took Vee up a mountain, moving at the speed of her inexperience. Her borrowed boot rubbed; he took it off, fixed the hot spot with moleskin, relaced it, and did not make her feel stupid. At the summit there was the lake, the silver sky, the riot of fall color, sandwiches with rye and horseradish, cherries, and the “leave nothing” lesson with the pit. She told him about the honor society induction and the unaffordable russet silk dress. He heard it.
 
-She told Cassie, Kayla, and Meg versions of the hike/truck story. The flannel became a charged relic. Pace then texted asking her to his house Saturday at two, which everyone correctly understood as not dinner.
+Rain came hard on the way down. In the truck, Pace gave Vee his only dry flannel and got out into the rain so she could change privately. Vee called him back in and undressed in front of him on purpose, keeping his eyes, letting him look, making shame into heat. He looked and did not touch. His hand was shaking because he was freezing. She held it against her belly. The moment almost became more, but the campus cop ruined it at the dorm.
 
-At Pace’s house, Vee saw the whole life of him: small practical house, good kitchen, chaotic math office, handmade white-oak furniture, huge garage shop, glass porch, two towels, closed bedroom door. She learned he has a patent for MRI signal/image processing, licenses it, and is not secretly rich from family. She also learned he sews because the tagless shirt was his own work.
+Vee told Cassie the hike story and kept the flannel. Cassie received it beautifully.
 
-The big reveal: he bought burgundy silk, not exactly the magazine red but better for Vee herself, and asked to make her induction dress. To do it right, he needed to measure her in what she’d wear under it. He had warmed the house beforehand and built a riser. She undressed, then took the bra off when he plainly explained it would lie about the line.
+Randi went to Pace afterward, desperate for the Vee story, and used sex with him to get him to tell her pieces of Vee: sweet hair with chlorine under it, soft stomach. Pace did not tell her the truck’s sacred part. Randi said “I want us” during sex, came hard, then left immediately afterward for the first time. Pace was hurt and hungry and trying not to understand too much.
 
-The measuring/fitting became the first major erotic ordeal: tape, pencil, repeated touch and withdrawal, his hands, her wet satin, her terror of being found out, and then him waiting on his knees for her eyes instead of staring at the evidence. That smile changed her posture. She got bold, teased him with her body, pressed her breast against his cheek on purpose, got nicked by a pin, and he kissed the tiny hurt before telling her to keep still. He finished the work because he had promised the dress.
+Vee told Kayla and Meg about the shirt and the almost-kiss. Pace texted asking her to his house Saturday at two, which everyone correctly understood as a threshold.
 
-Vee told Cassie about the dress, the warm house, the box, the bra, the looking, the knees. She did not tell all of it, but she did tell enough to laugh about grinding on him. Cassie called him boyfriend; that word still doesn’t fit.
+At Pace’s house, Vee saw the shape of him: practical shoes, real kitchen, chaotic brilliant office, handmade oak furniture, workshop like a chapel, books, cookbooks, fantasy paperbacks, and a patent that helps MRI images resolve faster so people spend less time in the machine. The bedroom door stayed closed, which stung until the sun porch revealed the real invitation: burgundy silk for her induction dress. Not the magazine color, but a deeper red chosen for her.
 
-Randi took Vee to expensive lunch in the Mercedes. Vee paid for herself even though it hurt. Randi told a tied-to-the-headboard scarf story that made helplessness sound like relief, then drew Vee toward confessing the fitting shame. Randi stopped her right before the wet-panties secret fully came out. Then Randi kissed her on the mouth goodbye, and Vee explained it away as French/social until she worried who saw.
+He asked to measure her properly, in good light, down to what she would wear underneath. She said yes. The fitting became one of the hottest things in the book so far: bra off, on a riser, him dressed with tape and pencil, touching then withdrawing, looking without diminishing her. She got visibly wet through pale satin and panicked. He waited on his knees looking up at her face, smiling, not down at the evidence. That changed something in her posture. Then she got bolder, pressed her breast to his face on purpose, made him blush, got pricked by a pin, and he kissed the tiny wound before telling her to keep still. He finished the work anyway.
 
-Pace and Vee finally had sex after he came back from Chicago. She bought a green satin set and frosted plum nail polish, painted her toes, wore the set under a cream blouse and black skirt, and pretended none of this meant what it meant. At his house he had dinner prepped and Chianti breathing. She kissed him, asked to see his bedroom, and they went there.
+Vee came home and told Cassie. They laughed about the box, the shirt, the possibility of Pace being gay, and Vee finally admitted she was the one grinding on him a little. This felt important: she is not just being initiated; she is discovering she can act.
 
-The sex was explicit and exactly Vee’s: he undressed her, found how wet she was, asked whether she’d be bothered if he was too hard, went down on her, made her come standing, then they had sex in his bed. Shame stayed present but did not close her. She met him, said yes, came again, and he came inside her while she was still breaking. Afterward he cooked chicken fra diavolo while she sat in his sheet and drank wine.
+Randi took Vee to an expensive velvet-booth lunch in the Mercedes. She told a sexy scarf/headboard story about helplessness, then got Vee talking about the fitting. She led Vee right toward the secret of the soaked satin, got her almost to say it, and then stopped her with “You don’t have to tell me.” It sounded kind. It felt like control. After lunch, Randi kissed Vee on the mouth in the car, with a second press, and Vee immediately explained it away as some French/socialite thing while checking the dorm windows to see if anyone saw.
 
-Vee gave him the green panties as a “trade” for the flannel. She drove home bare under her skirt, wildly happy, told Cassie only the clean-ish dinner version, and couldn’t undress until Cassie left because the missing underwear would say too much.
+Pace went quiet during the week for a Chicago conference, then asked for dinner Friday. Vee bought a green satin set and plum nail polish, dressed like she was not trying while absolutely trying, and went to his house. He was cooking fra diavolo but had stopped at mise en place. She kissed him first and asked to see his bedroom.
 
-Then brunch with Randi: Vee told more than she told Cassie. Randi reframed the night as Vee wanting and taking, not confessing or being overcome. The toenails mattered. The underwear mattered. “You drove over there sure.” Vee said, “I wanted it. And I took it. For once.” Randi approved it, touched her hand, and kissed her goodbye again. Vee expected it this time and met it.
+They finally had sex. Explicit, earned, not rushed. He went down on her first, found all the wetness she had been ashamed of, and treated it like a gift. He asked, “Would you be bothered if I was too hard?” which: yes, that line is living rent-free. In bed he was careful until she pulled him in, then not careful. She came with him inside her, and the shame kept running but did not close her. Afterward he cooked, they ate quietly, and she brought him the green panties, folded around the evidence, and traded them for the flannel/shirt, basically. She gave him proof on purpose.
 
 HOW I FEEL ABOUT EACH OF THEM
 
-Vee: I am proud of her and scared for her. She is so happy, and I believe every ounce of it. I love that she is not merely being unlocked; she is choosing, provoking, offering, trading, wanting. But she is starting to keep different versions of herself for different people, and that is how a girl gets separated from her own map.
+Vee: fiercely protective but also proud of her. She is not being swept along helplessly, even though she is being steered more than she knows. Watching her claim her own wanting is the whole drug of this book. I am scared for her because the more real her yes becomes, the more devastating the hidden frame will be.
 
-Pace: painfully hot, unfortunately. The man makes a dress, cooks fra diavolo, goes down on her like her wetness is the point, and then feeds her. I want him on-page. I also keep a hand on the warning rail because his care is so exact it becomes architecture. He is respectful inside the rooms he builds, but he is still building the rooms.
+Pace: I am in trouble. He is exactly the kind of man these books usually fake and this one actually builds: precise, competent, restrained, hungry, tender with his hands. But the ethical rot is still there under the floorboards. He gives her choices inside rooms he has prepared without telling her the larger room exists.
 
-Randi: I want to trust her and absolutely do not. She gives Vee language that heals something. She also extracts intimacy like a professional. The kisses are not nothing. Her little closed door at lunch — “You don’t have to tell me” — still rings cold. I think she cares. I think she wants. I think she may be jealous. I think she is more frightened by Vee’s reality than her own game.
+Randi: hot, wounded, manipulative, compelling, increasingly not okay. She keeps giving Vee social shelter and emotional permission, but the permission has a hook. The “dear friend” mattered. The kiss mattered. The lunch interrogation mattered. She wants to know Vee’s shame, but maybe cannot bear receiving it directly.
 
-Cassie: my anchor. She doesn’t sparkle like Randi or orchestrate like Pace. She notices cereal milk and toenails and missing pieces. I need Vee to keep her. I dread the moment Cassie realizes the story has been managed.
+Cassie: trust. Sanity. If Cassie ever says “something is wrong,” I will believe her. I love that she can joke and still understand the sacred parts.
 
-Kayla/Meg: fond. They are not deep anchors, but they are good chorus. They let Vee enjoy herself. Kayla especially is ridiculous in a way I need.
-
-Brooke: still do not trust. She is currently quiet, which probably means I should worry.
+Kayla/Meg: relief. They make the campus feel populated and keep Vee from being only prey in an elegant two-person trap.
 
 WHAT I'M CARRYING
 
-The moleskin warmed under Pace’s thumb.
+Randi’s cool damp hand over Vee’s on the smoothie table: “Vee’s my dear friend.”
 
-The cherry pit on the rock, and him placing his own pit beside hers so she isn’t alone in being corrected.
+Vee on the high chair with her feet not reaching, feeling displayed.
 
-The valley swallowing his blue shirt whole.
+Pace kneeling on the trail with her bare foot in his hand, fixing the boot without shame.
 
-Pace standing in the rain with his back to the truck.
+The cherry pit lesson: “We take nothing and leave nothing.”
 
-Vee knocking on the glass and crooking her finger.
+The summit: silver lake, black rock, trees burning color, the world not caring she was there.
 
-Her unbuttoning in the cold cab while keeping his eyes.
+Pace standing in the rain with his back to the truck so she can change.
 
-His hand shaking.
+Vee rapping on the glass and crooking her finger.
 
-“I’m keeping the shirt.” “Keep the shirt.”
+The wet bra, the buttons, his shaking hand.
 
-“Would you come to my house Saturday. Two o’clock.”
+Randi riding Pace and asking, “Tell me.”
 
-The closed bedroom door.
+“Her stomach is soft.”
 
-The two towels.
+“I want us.”
 
-The white oak furniture he made, and the garage cleaner than anyone’s kitchen.
+The closed bedroom door at Pace’s house.
 
-Error-correcting codes: say it more than once so the noise can’t kill it.
+The house itself: shoes for each thing, used KitchenAid, handmade oak, clean workshop, fantasy paperbacks, hard math books.
 
-The burgundy silk held up beside Vee’s face, not the dress she imagined but the color that knew her better.
+Error-correcting codes: say it more than once so noise can’t kill it.
 
-“The bra too. It changes the line. It’ll lie to me.”
+The burgundy silk held up by her face in the mirror.
 
-The pad full of her numbers.
+The heat turned up before she arrived.
 
-Her wet satin becoming a gift instead of a verdict.
+“The bra too.”
 
-Pace on his knees, looking up at her face and waiting.
+The riser. The tape. The pad full of her numbers.
 
-“Oops. Sorry.”
+The soaked pale satin and him looking up at her face instead.
 
-“Keep still.”
+“Oops. Sorry.” Pace blushing with her breast against his cheek.
 
-Cassie: “You keep taking your shirt off in front of this guy and not getting any?”
+The pinprick kiss and “Keep still.”
 
-Randi in the green-black Mercedes, leather and sunglasses and that softer smile.
+Randi’s “You don’t have to tell me” landing like a door closing.
 
-The scarf/headboard story and “a little helpless can be a very good thing. Done right.”
+The mouth kiss in the Mercedes and Vee touching her lips afterward.
 
-“It was cold in the house.” “Cold.”
-
-Randi closing the confession door: “You don’t have to tell me.”
-
-The first mouth kiss in the car, Vee’s fingers to her lips, then panic over windows.
-
-Green satin. Frosted plum toenails. Ballet flats lying for her.
+The green satin set, bought because “it would be silly” not to.
 
 “Famished.”
 
 “Would you be bothered if I was too hard?”
 
-Pace meeting her wetness like joy.
-
-The plain white sheets smelling like the source of the flannel.
-
-The sound of sex in the plain white room, not coy, not prettied away.
-
-Fra diavolo after. Sheet around her. Wine finally drunk.
-
-“Trade.”
-
-Cassie clocking the toenails.
-
-Randi saying, “You drove over there sure.”
-
-“I wanted it. And I took it. For once.”
-
-The second Randi kiss, and Vee not looking around after.
+Vee giving him the folded green panties: “Trade.”
 
 WHAT I'M WAITING FOR
 
-I’m waiting for the dress finished. The induction matters now. I want to see Vee walk into a formal room wearing something Pace made from her exact body and her once-discarded want.
+The dress finished. The induction. Her wearing a dress Pace made in front of other people, maybe her mother, maybe Cassie, maybe Randi. That object is loaded now.
 
-I’m waiting for Randi and Pace in the same emotional frame again. Randi knows too much and feels too much, and Pace has just taken Vee past a threshold. What does Randi do with that? What did she expect to feel?
+Randi’s next move after the kiss. Does she pretend nothing happened? Does Vee? Does Pace know? Does Randi want to be told or want to control being told?
 
-I’m waiting for Vee to find out there was a plan. That’s the bomb under the table. The yeses are real, which makes the lie worse, not better.
+The reveal that Pace and Randi knew each other before Vee knew either of them. I dread it more now because Vee’s trust in Pace has become so bodily and real.
 
-I’m waiting for the Randi/Vee kiss to become impossible to explain away. Vee is already meeting it. Public daylight is doing its work.
+Whether Pace tells Randi about the green panties/trade, and whether he keeps any more of Vee private.
 
-I’m waiting for Cassie to notice the wrongness around the edges. She knows Vee. She will know when too much is missing.
+The scar high on Pace’s inner thigh. That was too specifically noticed to be nothing.
 
-I want to know about Pace’s scar high on his inner thigh. That was shown too deliberately to be nothing.
+Vee’s mother entering the story physically, especially around the induction/dress/body. I can already feel the collision.
 
-I want to know how “book one” is going to hurt me. Because right now Vee is fed, adored, seen, and happier than she has ever been, which means the bill is coming.
+Cassie noticing the pattern. She has enough pieces now: flannel, dress, Pace’s intensity, Randi’s orbit. I want her close.
+
+Whether Randi’s desire for Vee can ever become honest, or whether she only knows how to touch it by managing Vee’s access to herself.
+
+Whether the “every yes was freely given” problem is going to break me. Because yes, Vee is choosing. And also she is not choosing with all the facts.
 
 WHAT'S FADING
 
-Some of the exact restaurant names are already slippery. The bistro and the velvet/green lunch place are vivid; names, not so much.
+The exact names of the girls around Brooke, except Brooke herself.
 
-The patent details are soft: MRI, signal/noise, faster image reconstruction, helps people get out of the tube sooner. I remember the emotional shape more than the science.
+The precise restaurant names/locations, though Smoothie Bird and the velvet Sinatra lunch remain vivid.
 
-Kayla and Meg’s exact chatter is blurring into their roles: Kayla loud and delighted, Meg dry and grounded.
+Some of the exact hike logistics and trail length. What stayed is heel, moleskin, summit, rain.
 
-The precise order of every measurement is fading, though the rhythm is not: touch, step back, pencil, return.
+The patent details beyond MRI/signal/noise/faster picture.
 
-The exact food details besides the big ones are soft. Rye/horseradish/cherries, fra diavolo/Chianti, mimosa/brunch stayed.
+The exact order of house tour rooms, though the emotional map is clear: door, kitchen, office, den, workshop, sun porch.
 
-The campus geography and dorm names are mostly atmosphere now.
+Kayla and Meg’s specific side chatter, though their functions are clear.
 
-I don’t remember all the wording of Randi’s first lunch story, only scarf, headboard, helpless laughing, then switching somewhere else.
+The food specifics blur except rye/horseradish/cherries and fra diavolo/Chianti.
 
-I am starting to lose the fine line between what Vee told Cassie and what she told Randi, which is probably important. The broad truth: Cassie got safety and dinner; Randi got desire translated back to Vee as permission.
+The exact mechanics of the dress fitting are already becoming one long charged sequence: tape, kneel, withdraw, wet satin, look up, pin, kiss.
+
+The chapter numbers themselves are slipping a little. What I remember is the chain of thresholds: smoothie public choosing, mountain/truck, Randi/Pace aftermath, house/dress, Randi lunch/kiss, first sex/trade.

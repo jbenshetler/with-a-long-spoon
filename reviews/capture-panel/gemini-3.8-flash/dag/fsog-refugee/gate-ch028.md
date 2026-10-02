@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch028 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 630e5e2d2504 · 2026-09-19*
+*capture-dag-v2-rich · gate ch028 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d1b699df4c26 · 2026-10-01*
 
-REACTION
+REACTION:
 
-Oh, this little chapter is doing something quiet and dangerous, and my stomach is doing that slow, sick drop.
+Oh, *Vee*. Oh no, no, no. My stomach completely dropped the second that blonde leaned over her drink at the bar.
 
-First of all: *Sheri.* Who the hell is Sheri? A riding buddy who looks after him, knows his history, climbs hills faster than him, and watches the room for him like a hawk. When she said, *"After you left Thursday, I kept an eye on her,"* my heart squeezed. Because of course. He didn't just walk out into the cold and abandon Vee to the wolves; he had someone in the room making sure she didn't get hurt or dragged off by some creep, even while he gave her the space she demanded. That is so violently *him*. He doesn't smother, he doesn't retaliate, he just quietly makes sure the perimeter is secure while his own feelings are taking the beating. And hearing him talk about Vee to an old friend—rambling about how she touched the joint of the walnut chair, how she held the math book—he is completely, helplessly gone on her. He's talking about her like she's a miracle that wandered into his house.
+This hurt so bad to read because it was so completely, brutally *earned*. The author didn't invent some ridiculous contrived misunderstanding; she just let Vee’s deepest, most toxic wiring take the wheel. Vee has spent her entire life having *floozie* drilled into her head by her mother, hiding her body in oversized cardigans, terrified that being hungry and wanting to be looked at makes her dirty. And she just spent a week being treated like a queen, bloomed open, had him sew a silk gown to her bare skin, slept in his bed—and the second she’s in a public room and sees other women smiling at him, the old poison flares up like gasoline on a fire. *“Three dates, and she’d spread her legs like a slut.”* That line made my chest ache. The viciousness of her turning on him wasn't really about him at all—it was the terror of having handed her whole heart over without armor, desperate to strike first before she could be made a fool of.
 
-And then Sheri drops the blade:
-*"What happened to the pale sorority chick?"*
-*"Randi. That's not finished."*
+And Pace! God, his reaction broke my heart. No yelling, no defending himself, no chasing her down to aggressively dominate her into listening. Just that terrible, quiet stillness when the venom hit him, the light completely going out of his face, and then setting his untouched beer down and walking out into the cold. He gave her the space she demanded because that’s who he is. He doesn't trap.
 
-*God.* Hearing him say it so baldly out loud just ripped the air right out of my lungs. In chapter 24 we saw him and Randi in bed together, but seeing it confirmed from an outside perspective—someone who knows him, who sees them as an ongoing thing—makes the reality of this trap so sharp it cuts. *"Two of them at once. If that's not already complicated, it will be."*
+The bartender giving her the reality check was medicine, but the real agony is at the end: she's going to *Randi* to fix it. *NO.* Vee, call Cassie! Wake Cassie up! Cassie is three feet away in the dark, Cassie loves you, Cassie has no skin in this game! Going to Randi—who literally uses Pace as a proxy for her own twisted obsession with Vee, who is seething with jealousy over how slow and tender Pace is being with her—is like walking straight into a combine harvester. Randi is going to weaponize this fight so fast Vee won't know what hit her.
 
-It’s already complicated, Sheri! It’s an absolute psychological minefield! Randi is literally dressing Vee up right now—kneeling between her bare thighs, tying silk around her neck, kissing her on the mouth—and sending her over to Pace's house tonight like an exquisitely wrapped present that Randi took a bite out of first. And Pace is out here riding bikes, in love with Vee, still entangled with Randi, waiting to see what Vee walks in wearing.
+I feel sick. I need the next chapter immediately.
 
-I need them in that house tonight. I need Vee to knock on that door in that little black dress with Randi's shoes on her feet and Randi's silk at her throat. I need to see Pace's face when he sees what she's wearing to make it right.
+***
 
-GATE 28 — hills-and-valleys
+GATE 28 — Lesson
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 10
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: A short breath of fresh air that actually made the tension ten times tighter. Hearing Pace gush about Vee to a friend while casually admitting things with Randi aren't finished makes the sheer velocity of what's coming tonight almost unbearable.
+WHY: Vee's self-sabotaging lash-out felt heartbreakingly true to her trauma, Pace's dignified retreat wrecked me, and the impending car crash of her going to Randi for help has me by the throat.

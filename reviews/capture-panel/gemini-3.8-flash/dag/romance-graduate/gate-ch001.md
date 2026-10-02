@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch001 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 30f62c11943b · 2026-09-26*
+*capture-dag-v2-rich · gate ch001 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 0b45bf3de07d · 2026-10-01*
 
-REACTION:
+REACTION
 
 *Holy shit.*
 
-When I bought this off the blurb, I thought I was getting a story about Vee—the college girl being orchestrated into something dark and exquisite. I went into this chapter entirely assuming the girl on the bench was Vee. The college bags, the sorority dinner, the thin apple slices, the dancer's body—I was right there with her, sweating through the agonizing, slow-burn discipline Pace was laying down. And Pace! A man who builds the furniture, who leaves Steely Dan playing low, who isn't rushing to stick his dick in because he's entirely consumed by the psychological demolition of her control? Yes. God, yes. That is the adult heat I've been starving for. It wasn’t just spanking; it was an unpeeling. The detail of him noticing she eats apple slices faster if the cut side is facing up made my stomach flip.
+When I started reading, I thought the girl walking through the door was Vee. We get the sorority hand, the food restriction, the quiet perfection, the hesitation, and Pace slowly, meticulously dismantling her on this custom-built spanking bench. The writing had me by the throat from the honeycrisp apple scene—the deliberate pacing, the way he isn't in a rush, the utter lack of cheesy contemporary romance filler. It was heavy, dark, beautifully controlled erotica with actual psychological weight behind every single strike of his hand.
 
-And then he whispered, *"There you are, Randi."*
+And then he says: *"There you are, Randi."*
 
-I gasped out loud. The hair on my arms literally stood up.
+My jaw literally dropped. It gave me chills. The jacket told me Randi was the glamorous friend who steers Vee toward Pace as some kind of calculated game. But this isn't Vee at all. This is *Randi's* vulnerability. This is the woman who is supposedly orchestrating things, being utterly broken open, begging until her polished sorority-girl mask completely shatters on the floor.
 
-It wasn't Vee. It’s *Randi*. The "glamorous new friend." The architect. The other half of the game from the jacket copy.
+The bathroom scene made the entire chapter legendary. The realization that being truly seen terrified her so badly that she locked the door, dissociated in the mirror, and instantly put the mask back on—deciding right there that she will *never* let him see that raw part of her again. And the jacket says they steer Vee to him? Oh, this is sick, twisted, and brilliant. Is Randi going to offer up Vee so Pace stops looking so deeply at *her*? To deflect that unbearable tenderness onto someone else while still keeping a piece of it?
 
-That shift gave me absolute whiplash in the best way possible. Suddenly the whole scene in the bathroom isn't just standard aftercare vulnerability—it’s an identity crisis of catastrophic proportions. Randi is terrifyingly real to me now. That mask she wears, the "face" that takes the hunger of the world so the real girl inside stays starved and untouchable—she just broke it open for him, and instead of feeling free, she is *panicking*. That cold little click of her locking the door, the sharp edge of the bottle cap pressing into her thumbnail just to anchor herself back into physical control—I know that girl. I’ve read a thousand bratty submissives, but I have never read a woman so horrified by her own submission because it cracked the only armor that keeps her alive.
-
-And the ending! The fact that he thinks he just gently brought her into the light, completely blind to the fact that she just slammed the deadbolt shut inside her own mind and decided *never again*? The tension is sickeningly good. If she's locking herself away from him, how does Vee become the project? Does Randi serve Vee up to him to deflect his gaze off herself? To keep him fed without having to bleed for him again?
-
-I am vibrating. The prose is gorgeous, muscular, completely devoid of purple romance fluff, and the kink is treated with dead-serious psychological weight. I'm not putting this down.
-
-***
+I am completely hooked. The prose is gorgeous, the heat is blistering and psychological, and the dynamic between them is already an absolute powder keg.
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The twist of her identity hit like a freight train, turning an exquisitely written, deeply scorching scene into a psychological thriller of control and intimacy. I need the next chapter immediately.
+WHY: The twist of revealing this was Randi completely rewired the book's premise in the best way possible. The erotic pacing was masterful, the interiority was devastating, and I have to know what she's about to do next.

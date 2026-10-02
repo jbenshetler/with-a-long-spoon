@@ -1,23 +1,26 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~ca7450e92130 · 2026-09-11*
+*capture-dag-v2-rich · gate ch047 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-01*
 
 REACTION —
 
-Oh, this one hurt in that very ordinary-home way that can almost be worse than the big dramatic pain. Not knives, just the ceiling too close and the bed too short and your parents loving the version of you they still have preserved like a pressed flower. I felt so bad for her. That room loving Vivienne and not knowing Vee is such a specific ache. The trophies, the clarinet, the girls who don’t text anymore — god. That is exactly the horror of going home changed and having nowhere to put the changed self.
+Oh, this one got under my ribs in the worst best way.
 
-And I was so aware of how trapped she is between two kinds of invisibility. With Pace, all the heat and tenderness are private, almost sacred, but also unprovable. With her parents, the public version is cropped. Literally cropped. The part of the induction photo that made her feel most like herself is the part she cut away for them. That got me. She is doing some of the hiding herself, and she knows it, but knowing doesn’t give her a way out.
+Because at first I was almost relieved she finally said *something*. Not the thing, not the dangerous naked thing, but something with teeth in it. “Is this what we are now?” is clumsy and unfair and exactly the kind of question that comes out when the real question is too humiliating to ask. I felt her shame before I even knew what he’d do with it. And of course he does the maddening Pace thing: he doesn’t punish the bad delivery, he just answers the need underneath it. Where do you want to go tonight. God. I hate that I love him for that.
 
-The Randi overlap was delicious and cruel because I had just seen the other side of that text. Vee imagines Randi in the fairytale, and Randi is lying beside the “perfect nothing” borrowing warmth and texting back the glittering version. Neither of them knows the other is lonely. Neither of them knows the other is reaching. And Vee calling Randi “the one sure thing” while Randi is in her own chapter deciding not to risk telling her the truth made me want to shake both of them gently by the shoulders. Affectionately. Desperately.
+And then Chili’s was quietly devastating. Not because Chili’s is the villain here, but because she can’t unknow what he’s taught her. That plate being dead in her mouth hurt me more than I expected. It’s not snobbery, exactly; it’s grief. He’s expanded her senses and now the old world has gone flat, which should be romantic except it also means she is losing places to stand that aren’t him. That’s the thing this chapter keeps doing: every beautiful thing he’s given her casts this second shadow.
 
-The Pace jealousy spiral was awful because it was irrational and completely believable. The blonde girl at the table, stealing even the fra diavolo memory — that is exactly what fear does. It vandalizes your best proof. And because Pace has given her so much but not the word, she has no fence around any of it. No claim. No place to stand. I don’t think Pace is off cooking for another girl, but the book made me feel why she can’t use that knowledge. Trust needs a name right now, or at least a bridge, and he has left her with atmosphere.
+The restaurant scene also made me soften toward him in a way I didn’t see coming. I thought, for one hot second, oh no, he really is irritated at being public with her. And then the fork, the screens, the sound, the whole room being too much — that explanation felt so specifically him that I believed it. Not polished. Not convenient. Just true. “In a room like that I listen as hard as I know how and I still can’t hear you” is almost unbearably tender. Almost. Because it is also not “I love you.” And the book knows it. Vee knows it in her body even when she keeps trying to fold the evidence into a shape she can survive.
 
-Also: I am mad at Pace. Still attracted, still invested, still yes, but mad. “He left you the room” used to feel erotic and respectful. Here it curdles. Because if someone is drowning in the room you left them, at some point you have to come looking. Silence as restraint is one thing; silence as abandonment is another. And Vee having to console herself with “maybe he thinks nothing happened at all” made my chest go tight.
+The sex after the fight was hot, but it was hot in a way that made me anxious instead of purely fed. I wanted the loss of control too, embarrassingly badly. I wanted him to break because she wanted proof that she can reach him somewhere no one else does. And when he does finally go urgent, when patience drops out of him, yes, that hit. That was the charge I come to this shelf for. But the chapter refuses to let the heat solve the problem, which is exactly why I’m still here. Her body gets the answer it wanted and her heart still doesn’t. That is such a nasty, grown-up truth.
 
-This chapter did not have the explicit heat, obviously, but it had the erotic architecture of the whole book pressing in from absence: his shirt, his food, his hands, the photo, the bed, the wanting. The ache is charged because the body remembers what the scene with Pace would feel like and can’t have it. I don’t feel cheated by that. I feel wound tighter.
+And now I’m worried in a new way. Not just about the hidden Randi/Pace arrangement, though that’s still sitting there like a knife under the table. I’m worried about the way Vee is using sex as a translation device for every unsaid thing. If he wants her body enough, maybe that means he loves her. If he loses control, maybe that means he belongs to her. If he listens, maybe that is near enough. Except “near enough” is starting to bruise.
 
-I’m very caught by the fact that Randi is now emotionally safer to Vee than Pace, at least structurally. There’s a date circled. A class. A face. A script. Pace, who has had her body more completely than anyone, has become the uncertain one. That is dangerous in such a quiet, plausible way.
+The last stretch was the chapter for me: she belongs to him, but does he belong to her? That’s the whole ache. And the fact that she cannot name him — not boyfriend, not lover, not love — while everyone else in this book is already operating with names and maps she doesn’t have? I’m sick over it. Deliciously sick, but sick.
 
-GATE 47 — Old Acquaintances
+GATE 47 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: This chapter had no physical scene and still had me by the throat because the emotional consequences finally have teeth. Vee alone in the childhood room, unable to keep even her own best memories from being invaded by fear, is exactly the grown-up interiority I’m here for. I need the next collision: Pace, Randi, the lie, the word, all of it.
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: “If we’re just sex, I’d like to know.”
+WHY: This chapter gave me exactly the combination I want: explicit heat that does not erase the emotional problem, and tenderness that is not allowed to pass as a full answer. I’m angry, turned on, worried, and absolutely not putting the book down now.

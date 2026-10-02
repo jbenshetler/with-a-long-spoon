@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ca7450e92130 · 2026-09-19*
+*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-01*
 
 REACTION:
 
-Oh my God. Oh my *God*.
+Oh, god. This hurt. This one got right under my ribs and twisted.
 
-First of all, I am still practically shaking from Chapter 46—Vee standing in her heavy coat by the door, refusing to cross his threshold, refusing to let him substitute another incredible meal or a slow, worshipful hand on her skin for a single honest word. *"Words are cheap, and you still won't spend them on me."* That shattered me. It was the purest, most agonizingly necessary confrontation. And then to jump straight from that raw wound into Gstaad, inside *Randi’s* head?
+Because she is so entirely, painfully human here. She picks a fight because she's terrified. She throws an ugly, petty, unfair tantrum—demanding Chili's, of all the absurd, defensive things—just to see if he'll push back, just to test the walls of the cage. And what does he do? He doesn't yell. He doesn't get defensive. He just quietly, patiently meets her where she says she wants to be, even when the sensory overload of that fluorescent, screeching restaurant clearly tortures him. When he explained *why* he hated it—*"In a room like that I listen as hard as I know how and I still can't hear you"*—my heart physically cracked for him. He isn't hiding her out of shame! He’s a man who lives in his head, who needs silence and focus, who wants to hear her without fighting three televisions and bad pop music.
 
-I didn't expect this chapter at all, and it completely took my breath away.
+And yet... Vee’s terror isn't unjustified. She’s spiraling because of what happened in Chapter 46. She laid her whole bleeding heart on the line with that crackers-and-a-meal speech, and he parried it with *"I love how good we are together."* He deflected. He gave her warmth and physical devotion and held back the one word she was begging for. So of course she's lashing out! Of course she feels like a dirty secret kept behind closed doors, because when you are twenty-one and in love, if a man won't say it and won't take you out where people can see you, the only conclusion your brain can reach is: *I am just a warm body in his bed.*
 
-Seeing Randi from the inside makes everything so much more tragic and so much more terrifying. She gets the absolute pinnacle of what the "acceptable" romance genre usually sells: the gorgeous, wealthy, flawless Ivy League boy in white tie, the private ski slopes, the literal horse-drawn sleigh through falling snow, the effortless high-society fairytale where the man takes complete charge and doesn't even have to ask. On paper, it’s what every girl is taught to want. And it was *completely dead*. It was a sandwich eaten fast on a busy afternoon. "This man had taken a beautiful woman to bed, brought her pleasure, but never found her underneath." God, what a line. What a brutal, brilliant indictment of all that hollow, glossy romance where dominance is just smooth choreography without any real soul or sight behind it.
+The nachos scene was brilliant and tragic. The sudden realization that the cheap, comforting things she used to settle for don't work anymore—that he's ruined her for the ordinary world, but hasn't given her a secure place in his.
 
-And the way Pace haunts her thoughts! She’s comparing John to Pace on the dance floor, John to Pace in bed. Pace makes her work for it; Pace makes her say what she wants out loud every single time; Pace *sees* through the armor into the person she hides. John just assumed he was taking her up to his room, and Randi let him because it was easy, because it asked nothing of her heart.
-
-But the real gut-punch of this entire chapter—the thing that makes my throat tight—is what Randi feels for Vee.
-
-Randi is in love with her. Real, terrifying, unqualified love. Not as a game, not as a mark, not as a currency. When she said she has never told anyone she loved them without it being a transaction, except with Vee? That she’s terrified of losing the most important hour of her week? My heart broke for her, even as my stomach plummeted knowing what a dangerous corner she’s backed them all into. Vee is back in Ohio, having just walked out on Pace into the freezing night, texting Randi with that pure, generous warmth—*“i'm here if you want to talk. or not.”*—and Randi puts the glossy mask right back on and sells her the fairytale lie.
-
-Everyone is lying to survive, everyone is terrified of the one true word, and the collision that’s coming when these three people end up back in the same town is going to be monumental. I need the next chapter immediately.
+And the sex. God, the sex was electric because the emotional stakes were so raw. She wanted him to lose that iron control, wanted the proof that she could break him, and when he finally snapped—coming into her with that desperate, unhurried patience finally shattered—it was intoxicating. But the comedown in the dark afterward made me want to cry. She’s lying there soaked in his sweat, filled with him, held by him, and she has never felt more completely alone. He will give her his body, his house, his cooking, his hands, his absolute physical worship... but he will not give her a name. He won't say *I love you*, and he won't let her know where she stands. She traded all her collateral away—her heart, her body, her secrets, her boundaries—and she is left holding empty air. I need to know what happens next so badly it's making my teeth ache.
 
 ***
 
-GATE 47 — Fairytale
+GATE 47 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Getting inside Randi's head completely blew open the emotional landscape of the book. Seeing the empty, glossy "fairytale" contrasted against the terrifying, demanding depth of both Pace and Vee was breathtaking, and Randi's unspoken love for Vee adds an unbearable, thrilling tension to everything that's about to explode.
+WHY: The emotional ache of her needing him to say the words while he gives her literally everything else is devastating and so true to life; I'm completely hooked on their friction.

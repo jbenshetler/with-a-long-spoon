@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 30f62c11943b · 2026-09-26*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 0b45bf3de07d · 2026-10-01*
 
-REACTION — Oh. Oh, that’s Randi.
+Oh. Oh, this is Randi.
 
-I spent the entire chapter assuming this was Vee’s future with Pace, and then “There you are, Randi” landed like a hand closing around the back of my neck. So now I know exactly what kind of secret Vee is going to walk into—and that Randi isn’t some cool, untouchable architect standing outside it. She has already been opened by him, terrified by it, and apparently decided the answer is to put herself back behind the face and involve another woman. That is so much messier and more psychologically dangerous than simple predatory scheming. I am absolutely in.
+I spent that whole scene assuming I was meeting Vee and feeling almost smugly pleased that the book had delivered exactly what the jacket promised—Pace’s patience, the erotic precision, a woman being given enough room to discover what she actually wants—and then he said her name. That landed like a hand closing around the back of my neck. So this is what happened before they chose Vee. This is the private wound inside the woman who is going to smile over lunch and coax another girl open.
 
-The heat worked for me because the real action wasn’t the spanking or the edging; it was Pace patiently waiting out her performance until she asked in a voice she couldn’t curate. That is precisely the kind of explicitness I’m starving for: body and psyche doing the same thing at once. The apple slices almost got me more than the bench. Him knowing which thickness she’ll eat, noticing the whole food-policing machine behind her face, feeding her without making her discuss it—that tenderness is invasive in a way I find wildly compelling. And then the horror of his being so attentive, so careful, so convinced he has found her, while completely failing to see that she is locking herself away from him in real time. He respects the literal bathroom door and misses the emotional deadbolt. That hurts.
+And yes, the bench was extremely hot. Not because it was elaborate furniture, but because Pace had paid attention to every inch of her: the apple slices, the waiting, the way she braces, the false please versus the real one, the moment she disappears behind performance. “Longer than a spanking transition was supposed to be” is exactly the kind of thing I’m starving for. He is not interchangeable-alpha dominant. His control is attention. Even when I could see the emotional danger in that attention, I wanted it.
 
-Randi’s mirror scene is the point where this stopped being merely hot and became the book the jacket promised. Her realization that beauty is a face she can hand over without giving anyone herself—that is actual interior life, not a trauma label pasted onto a sex scene. The praise making her flinch was worse than anything on the bench. I believed both that she had never felt more alive and that she would rather bury the woman who felt it than endure being tenderly seen again.
+The aftercare nearly undid me more than the spanking. Him deciding his job was simply to be what she sat against; the water already waiting; the blanket she had brought because he had noticed she got cold. Then “You’re beautiful” making her flinch. Jesus. That is romance and horror occupying the same square inch.
 
-I’m suspicious of Pace, despite liking him. “No, you said it was a table. I didn’t correct you” is sexy inside their established trust and also very clearly tells me how he thinks about disclosure. His care is real, but so is his appetite for getting further inside someone than they know how to allow. Daphne is a warning flare. And the jacket means he and Randi are going to make a “secret choice” about Vee while presumably telling themselves that every choice afterward belongs to her. I can already see the moral trap: they may honor every spoken boundary while arranging the entire world in which she makes her decisions.
+What scares me is that Pace thinks he found her and fed her, while Randi experiences being found as an emergency she has to lock down forever. He respects the literal locked door perfectly and still has no idea she has built another one while he waits. That gap between his tenderness and her panic is vicious. Neither of them is faking the intimacy, but they leave the night holding completely different versions of what happened.
 
-Also, Randi deciding “not ever” while the jacket tells me she’ll be having intimate lunches with Vee and drawing her open? Ma’am. You are not going to stay behind that face. You are going to build a whole other woman into the door and then discover you’re trapped on the same side of it with her. I need to see this happen.
+The bathroom interior did push a little too hard for me. Once I understood that her face was armor, I did not need every implication translated. But I was too emotionally caught to leave, and some of it hurt in exactly the right place—especially her realizing that the unbearable thing wasn’t what he did to her body, but that it happened to *her*.
+
+My 1 a.m. text would be: “The glamorous best friend from the blurb is already secretly wrecked by the hero, he thinks he healed her, she has decided never to let him see her again, and apparently they are now going to involve another woman. I am absolutely doomed.”
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-ALMOST-STOPPED: none
-WHY: This gave me full heat and then made the tenderness more frightening than the pain. The Randi reveal, her retreat behind the face, and Pace’s devastating confidence that the evening went beautifully have me already reaching for Chapter 2.
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “Nothing happened to her. That was what the face was for.”
+WHY: The bathroom passage came close to explaining an emotional truth I had already felt, but the reveal that this was Randi—and the catastrophic mismatch between what she and Pace believe just happened—has me completely trapped. I need to know how these two turn this wound into a plan for Vee.

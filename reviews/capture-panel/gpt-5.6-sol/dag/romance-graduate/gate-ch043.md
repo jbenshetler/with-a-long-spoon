@@ -1,23 +1,22 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~2a7036ffc678 · 2026-09-10*
+*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-01*
 
 REACTION
 
-Oh, Vee. This hurt because she finally asked the right question and then let him answer a different, easier one.
+Oh, Vee. You sweet, decent girl. The instant she understood that Randi had just discovered something awful about her own father, she stopped looking. She gave her work, questions she could answer, somewhere to put her hands. She protected Randi’s dignity so quietly that Randi never even knew she’d been seen.
 
-“Where do you want to go tonight?” is attentive, calm, immediately responsive—and absolutely not an answer to “Is this what we are now?” Pace solves the restaurant because he can solve the restaurant. He explains the noise because he can explain the noise. He listens beautifully to everything except the actual question underneath her words: *Do you claim me? Do I get to claim you?* And she is so frightened of losing him that each act of care becomes permission to sweep the unanswered part under the rug. The title is cruelly perfect.
+And that makes me furious, because Vee has just demonstrated exactly the grace Randi and Pace have refused to give her: she sees a secret that could humiliate someone she loves, understands it is not hers to expose, and carries the knowledge carefully. Meanwhile, those two have built whole rooms of her life around a secret she actually has a right to know. Vee is already emotionally capable of handling complicated truth. They are not protecting her because she is too young or too fragile. They are protecting the arrangement.
 
-The restaurant scene made me ache for both of them. His distraction and fork-squaring read immediately as sensory overload, so watching Vee translate it into rejection was awful. But I also understand why she did. She has no secure definition of them to lean on, so every small change becomes evidence. Pace may be superb at reading her body, but he has left her emotionally guessing, and that uncertainty is making her mean in ways she knows are unfair even while she says them. I hated the false accusation about the dance. I also hated how quickly his very real explanation allowed the larger issue to disappear again.
+Randi’s “Cheating bastards” got me. That was the first time I’ve seen her completely without choreography—no polished confession, no teasing ambiguity, no expertly placed story. Just the daughter finding her father inside the ugliest point on the graph. I felt for her enormously. I also noticed how quickly she came back brighter than before, and now I understand another part of her: presentation may not simply be how she manipulates people. It may be how she survives knowing things.
 
-And then the sex—yes. That was hot. Not interchangeable-romance hot, either: her wanting his discipline to crack because she needs proof that she can overwhelm him, his mouth lingering at her breasts like he is taking comfort rather than merely performing a route toward penetration, then the sudden collapse of his control when he enters her. I completely understand why she experiences his urgency as possession, reciprocity, almost an answer. But it still isn’t the answer. She gets him undone and thinks that must mean she gets him whole. We know she does not even possess the basic facts of his life.
+The three of them in that room were painful in such a grown-up way. Cassie is right and has no idea her truth has cut directly into Randi. Randi is wrong because she trusted her father’s version of himself. Vee loves them both and immediately becomes the keeper of what neither knows about the other. That middle seat is starting to look less like belonging and more like a job.
 
-The final question—*She was his; but did he belong to her?*—is the knife. Because the answer under the current conditions is no. Not in the way she means. He belongs partly to Randi, and both of them know Vee is making increasingly explicit bids for exclusivity and definition. Pace heard her offering love in the previous chapter and carefully substituted “I love how good we are together.” Now he hears “Are we just sex?” and substitutes a night out. These are not accidental evasions anymore. He is intelligent, exact, and frighteningly good at language. He knows the difference between answering a request and addressing the fear that produced it.
+And yes, the outlier is doing very obvious symbolic labor. The ending underlined it after I already had it—the largest ugly fact, invisible until you know where to look, hello Pace and Randi—but I was too emotionally caught to resent it much. Mostly I’m sitting here thinking: Vee knows how to keep a secret out of kindness. What happens when she learns what their secrecy has actually cost her?
 
-What I would text at 1 a.m.: *This man will listen to every sound her body makes except the sentence that would require him to tell the truth.*
-
-I’m still completely in, but I’m no longer merely impatient for the reveal. I’m angry. Vee has now given him two openings wide enough to walk through, and he has chosen the rug both times.
-
-GATE 43 — Under the Rug
+GATE 43 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: The emotional evasion and the sex are now doing exactly the same work—giving Vee enough genuine intimacy to survive without an honest name for it. I need to see what happens when her need for that name finally becomes stronger than her fear of the answer.
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: “the biggest one, off on its own in the white, easy to see if you knew to look for it, invisible if you didn't.”
+WHY: The last line explained the metaphor after I had already felt it, but the emotional reversal is excellent: Vee extends Randi more intelligent care in one hour than Randi and Pace have extended her across an entire relationship. I need the hidden point to become visible now.

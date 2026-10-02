@@ -1,27 +1,20 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~2a7036ffc678 · 2026-09-11*
+*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-01*
 
-REACTION
+REACTION — Oh, Vee. The instinct to notice Randi’s humiliation, understand it without forcing her to confess, and immediately give her somewhere safe to put her hands—that is such clean, loving care. She doesn’t demand the secret because she has earned it. She doesn’t turn Randi’s pain into intimacy for herself. She simply protects her friend and lets her keep her dignity. That made me love Vee more.
 
-Oh, Vee. No. She didn’t forgive him; she mistook relief for forgiveness because relief let her get back into his arms. And then sex did what sex with Pace always does—it made every unanswered question disappear from her mind without actually answering a single one. This chapter hurt because she can finally feel that happening. “Whether all that steady, astonishing attention to her body was showing her the truth or keeping her from it” is exactly the fear I’ve been carrying, and now she has found it from inside.
+And it made me furious on her behalf, because she is extending to Randi exactly the grace Randi has refused to extend to her. Vee discovers something private and potentially life-altering, then chooses not to use it. Randi has been collecting Vee’s intimate truths, drawing them out, passing them into the hidden arrangement with Pace, and steering her toward desires Randi already knows she has a stake in. Vee thinks friendship means sheltering the vulnerable thing until its owner chooses to speak. Randi has treated friendship as permission to keep opening drawers. The contrast is brutal.
 
-The restaurant made me ache for both of them. She chose Chili’s almost as a test: take me somewhere ordinary, somewhere public, somewhere that proves I exist outside your beautiful private house. Then she read his sensory distress as rejection because Pace, once again, had left her without enough words to interpret him safely. I believed his explanation completely. The fork, the screens, his eyes returning to her with effort, the instant his shoulders dropped in the truck—that was overload, not shame about being seen with her. And “Somewhere quieter, I can. And I do. I’m listening now” got me. Of course it did. That is such a Pace answer: precise, tender, and true.
+I did feel for Randi. “Cheating bastards” sounded like the bottom falling out of her childhood story in two words. She defended those loans because she believed her father had done what the money was meant for; now she has government data telling her he was the clearest bad example in the county. I don’t think she knew. Her shock felt real, and for once all that polish and interpretive control deserted her. Seeing her become the person who cannot explain what is happening—and seeing Vee refuse to press—moved me.
 
-But it is also not the answer she needs, and I am done pretending his beautiful near-answers are enough.
+Cassie hurt me too. Her father’s layoff was placed on the table so flatly because that is apparently how she carries injuries: no performance, no request that anyone comfort her, just the fact. She was right, but she had no idea that her vindication was cutting directly into Randi beside her. Nobody in that room had the entire picture except Vee, and Vee used that advantage kindly. That matters tremendously to me.
 
-Vee was unfair when she accused him of punishing her, especially when she rewrote the dance afterward to make him the cold one. I’m glad he didn’t accept that false version just to soothe her. “You know what happened after the dance” was firm without being cruel, and I loved him for respecting both of them enough to keep the truth in the room. But I hated the way Vee immediately made herself the forgiven party in reverse—as if his explanation meant he had committed the offense and she had magnanimously released him. That wasn’t clarity. It was a story she could wear long enough to cross the room and get the drug back.
+But the irony is screaming. Vee tells herself Randi had no hand in her father’s deception and should not be made to carry it publicly. True. Soon Vee is going to learn that Randi did have a hand in the deception done to *her*. She may remember this hour—how carefully she protected Randi from exposure, how easily Randi accepted that protection without even knowing it was being given—and realize that nobody offered her the same mercy or choice. I want the next chapter because this did not feel like a detour. It felt like the book quietly setting a moral standard and showing me that Vee already meets it.
 
-And yes, the sex got me. Completely. His mouth on her breasts as though he was taking comfort there, her wanting his control to break, and then his patience finally giving way because he wanted her too much—that is exactly the intensity I came for. The crucial thing is that she wanted the roughness before it arrived. It wasn’t cruelty imposed on her; it was the loss of control she was aching to cause in him. Feeling that she could undo him, that her pleasure pulled him over with her, was incredibly hot because it gave her power inside his urgency.
-
-But the morning-after emotional logic is becoming unbearable. Her body “couldn’t lie,” except bodies absolutely do not answer the questions she is asking. Her arousal tells her that she wants him. It cannot tell her whether he loves her, whether he considers himself hers, or whether he will claim her in daylight. And Pace’s skill at bringing her pleasure keeps becoming a substitute for the conversation he will not have. I don’t think he is consciously using sex to silence her. That almost makes it worse: this is simply how they function now. She reaches toward the wound, he offers the most exquisite care imaginable, and by the time her mind returns, the wound is still there and she is even more deeply attached.
-
-“He had the whole of her” frightened me, because he doesn’t merely have more of her heart. He has information she does not. He knows what this began as. He knows Randi is standing inside the supposedly private edges of their relationship. Vee is lying there wondering whether he belongs to her while he is concealing the fact that he already belongs, in some fashion, to someone else. The dramatic irony has crossed from wicked into agonizing.
-
-I would text a friend: He listened to every word except the one underneath all of them, then gave her two orgasms so good she almost managed not to notice. Almost.
-
-She is noticing now, though. That is why I’m staying. The sex no longer seals the crack. It opens again as soon as he sleeps. Vee cannot keep living inside a relationship that has no name and no daylight, and Pace cannot keep answering existential questions by making practical adjustments. I still believe he loves her. I also think he understood the cracker-and-meal sentence perfectly and deliberately stepped around it. Whatever he is afraid of, his silence is hurting her now. Drawers and meals and listening are love, but if he keeps making her infer everything while withholding the truth that would let her interpret it, they also become a maze.
-
-GATE 43 — Under the Rug
+GATE 43 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: “reading her by the one language her body couldn't lie in”
-WHY: Her body can truthfully express desire, but it cannot answer whether Pace loves her or whether this hidden arrangement is fair. I’m furious and heartsick, but Vee has finally recognized that even the best sex of her life cannot give their relationship a name, and I need to see what she does with that.
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: none
+WHY: Vee’s silent protection of Randi was deeply tender, and the contrast with what Randi is hiding from Vee sharpened the betrayal without anyone naming it. I need to know whether this discovery cracks Randi open—or merely gives her one more secret Vee will lovingly carry while being denied her own truth.

@@ -1,29 +1,26 @@
-*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 2a7036ffc678 · 2026-09-19*
+*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-01*
 
 REACTION
 
-Oh, God. Oh, *ouch*.
+Holy shit. *Holy shit.*
 
-That physically hurt to read. That was the most agonizing, precise, quiet car crash of a scene this book has handed me yet.
+This was completely clothed, zero sex, and my stomach was in absolute freefall the entire second half. When people talk about "quiet" chapters, *this* is the standard. This wasn't throat-clearing; this was an emotional landmine disguised as a college stats project.
 
-Look at what she gave him: she crafted a whole damn metaphor, rehearsed it like a poem, laid her bleeding, starving heart at his feet without technically breaking her rule—*“I had been eating crackers my whole life. And you fed me a meal.”* It was her giving him her entire soul.
+The division of labor in that library room tells you everything you need to know about this trio: Cassie digging in the unglamorous dirt because her dad got discarded by the system; Vee doing the elegant math; Randi turning raw reality into something palatable and beautiful for people to look at. And then the sheer dramatic irony of Randi—so untouchable, so casually wealthy, so dismissive with her *“The country isn't my county”*—driving the cursor straight into her own family’s dirty laundry.
 
-And what does he do? He takes two whole breaths, calculates the geometry of the trap, and pivots directly to her *flesh*.
-*“I love how good we are together... What you do — what your body does — I've never.”*
+Seeing the tag *MIRA*. Watching her click it. And then the horrifying realization: her dad named the holding company or the fraud vehicle *after her*. *Miranda.* Taking out massive federal loans in his daughter's name, laying everybody off anyway, pocketing the cash, and leaving her name permanently stamped on the crime. That two-word reaction from Randi—*"Cheating bastards"*—was chilling. Not smooth, not performed. Pure, ragged, caught-off-guard grief and fury. For the first time in this entire book, the golden sunglasses slipped off Randi’s face and we saw the wound underneath the predator. She isn't just rich and bored; she is living inside a gilded cage of corruption built with her own name.
 
-He literally reduced her declaration of profound, life-altering emotional rescue down to: *You’re great in bed.*
+And God, Vee’s emotional intelligence here. The way Vee watches her, clocks the color draining from her skin, and instead of prying, instead of making a scene or letting Cassie twist the knife without knowing it, Vee just... steps into the gap. She slides the laptop over. She gives Randi busywork. She offers her dignity back to her on a silver platter without asking for a single explanation.
 
-It was so gentle, so tender, kissing the top of her head, wrapping her in the warm quilt, doing all the physical choreography of a devoted lover—and completely dodging her soul. He heard her. He took two breaths because he knew *exactly* what she was laying down, and he deliberately chose not to meet it. He kept the fence up. He gave her warmth to drown out the chill of the rejection so she wouldn't scream, and it worked in the moment because his quilt smelled like him and his chest was solid. But the absolute devastation of her sitting on that folding table in the dorm laundry room, watching her clothes spin, realizing *the shapes didn't match*... my throat closed up.
+*“The kindest thing a friend could do was not make her carry it in front of anyone.”*
 
-*"She had said her best sentence. He had not said the sentence back."*
+Vee loves her. She really, genuinely loves Randi. And the tragedy of it is breathtaking, because while Vee is silently protecting Randi’s deepest shame in that library, Randi is still holding the secret keys to Vee's entire romantic life. The power dynamic just shifted, even if Randi doesn't know Vee saw it. The mouse just saw the lion bleed.
 
-That line is a knife. And what kills me is that she’s already doing the woman-thing, the terrible, familiar emotional bargaining: putting it in the mental pile of things she can't look at because looking at it means blowing up the dream. She’s locking it away in the closet with the other little cracks.
-
-Pace, you bastard. You beautiful, gentle, terrifying bastard. He loves having her, he loves what she does to him, he loves tending to her—but the second she asked for parity, for a real exchange of hearts instead of a masterclass in pleasure, he slid right out of reach. The trap is so deep now. She loves him, and she just realized she's alone in it.
-
-GATE 43 — Seconds
+GATE 43 — The Outlier
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The emotional intelligence of that quiet deflection was absolute perfection and completely gut-wrenching. He dodged her heart and offered her good sex instead, and watching her realize it two days later over a dryer broke me. I need the fallout immediately.
+WHY: The tension in that glass study room was suffocating. Watching Randi's untouchable armor shatter over a public record—and watching Vee silently protect her dignity without embarrassing her in front of Cassie—was magnificent, mature character work. I am dying to see how this crack in Randi's veneer ripples outward.

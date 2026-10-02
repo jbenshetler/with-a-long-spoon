@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch016 · gemini-3.8-flash · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~6b85b74f7cb8 · 2026-09-10*
+*capture-dag-v2-rich · gate ch016 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 414026fd7d01 · 2026-10-01*
 
 REACTION
 
-God, my heart aches for her. It physically aches. 
+Oh. My. God.
 
-Chapter 15 was an absolute masterclass in slow, agonizing, exquisite tension—the kind of scene where you forget to breathe because the psychological stakes are towering—and this chapter is the exact emotional payoff it needed. Not another ambush, not Randi hovering like a beautiful vulture, but *Cassie*. Grounded, dry, fiercely loving Cassie, who actually knows Vee down to her bones.
+The title of the chapter is literally "Two Towels" and my stomach completely dropped the second she walked past that bathroom. Two towels on the rod. The closed bedroom door with the bench sitting under that removable oak top. The heat turned up too high in the house—he didn't leave it on by accident, he kept it warm because he knew she’d be stripping down. And Vee, sweet, completely undone Vee, just filing it away as "the small mysteries of him." I feel sick and utterly thrilled at the exact same time. The dread in this book is so thick you could carve it with one of those worn kitchen knives.
 
-Watching Vee try to explain what happened on that riser is devastating because *we* know the scaffolding, and she only knows the euphoria of the architecture. She thinks she was wielding power. *"I was grinding on him."* She is so proud of herself! She thinks she’s the one who tipped him off balance, thinks she was the seductress who almost broke this austere, disciplined man, when in reality he orchestrates control like a goddamn symphony. He *let* her press her breast against his cheek. He *let* her feel the boundary just so he could be the man of restraint who stayed on his knees finishing her hem. 
+And Pace. Jesus Christ, Pace. The sheer, terrifying genius of this man. He doesn’t push her into the bedroom. He lets her lean toward the door, lets her wonder, and then gracefully steers her right back into the light. He denies her the cheap, easy hookup she braced herself for—the one she wore her good satin for—and instead offers her something infinitely more intimate, more exposing, and ten thousand times more dangerous: *I want to look at you, touch you, measure every inch of your body in broad daylight under a wall of glass, and make you something to wear.*
 
-And that detail about the heat—my god. When Vee tells Cassie, *"He turned the heat up before I got there. So I wouldn't be cold,"* and Cassie goes completely still? That gave me full-body chills. Because to Vee, it’s the most breathtakingly courtly, thoughtful, romantic gesture an insecure girl could ever dream of: a man preparing a warm room so her shame won't freeze her. But to Cassie—and to me—there’s that split-second beat of: *Wait. He turned the heat up hours before she arrived? That means he knew she was going to be half-naked before she ever stepped through the door.* 
+He tailored the color to her hair and skin, not the magazine clipping. He remembered the throwaway wish she made on a mountain while spitting cherry pits. That is a bespoke psychological trap. It’s romantic enough to make a girl weep, and it’s a masterclass in breaking down every single defense she has against being seen. She spent her whole life hiding her curves in oversized cardigans, terrified of being "too much," and he’s going to have her stand in her underwear in the middle of a sunlit sunroom while he runs a tape over her ribs.
 
-The writing here is just so wonderfully true to female friendship. The pillow-throwing, the teasing about whether he's gay, the deep breath where Cassie realizes Vee is genuinely falling into something profound and lets the cynicism drop—it makes the dorm room feel like an actual sanctuary before the trap snaps shut. Vee’s confession that on that box she felt *"like I was supposed to be there"* nearly made me tear up. For a girl who has spent her entire life apologizing for being too tall, too curved, too loud, too hungry, being put on a literal pedestal and treated as an aesthetic triumph is pure, uncut heroin. 
+When she realized *he made the flannel shirt*—the one she’s been sleeping in, the one without a tag—I actually gasped out loud. The level of care, the quiet obsession disguised as simple competence... it is lethal. He builds the redundancy in so the message survives the noise. He literally told her his whole methodology over a math book and she thought it was just a cute conversation about dogs barking.
 
-She has no chance. None. She is walking straight into whatever he and Randi have built for her, and she’s doing it with a smile on her face and his stitches against her skin. 
+The bedroom door stayed shut today, but the trap just clicked closed around her ankle and she smiled while it happened. I need chapter seventeen immediately. I need to see how he touches that tape to her skin.
 
-GATE 16 — Turned Up
+GATE 16 — Two Towels
 DECISION: CONTINUE
-CAPTURE: 8.5
+CAPTURE: 10
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The decompression with Cassie was pitch-perfect—funny, warm, and deeply chilling under the surface as Vee completely misinterprets who held the control on that riser. The pacing is letting every emotional beat breathe, and I'm totally hooked.
+WHY: The tension between the domestic, courtly romance Vee thinks she's experiencing and the cold, voyeuristic architecture we know is waiting for her is practically unbearable. The measuring tape gambit is absolute psychological genius, erotic without a single stitch of clothing coming off yet. I cannot turn the page fast enough.

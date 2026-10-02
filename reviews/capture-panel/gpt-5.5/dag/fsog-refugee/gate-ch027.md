@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch027 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2651a74cea0e · 2026-09-29*
+*capture-dag-v2-rich · gate ch027 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3e3674d6874c · 2026-10-01*
 
-REACTION — Oh, this one got under my ribs.
+REACTION — Oh. This one got me in the ribs in a quieter place.
 
-This is the chapter where Pace stops being only the beautiful careful man who cooks and asks and sees her body correctly, and becomes someone Vee can actually hold. Not fix, not rescue, not simply admire. Hold. I felt that shift so strongly. The whole room with the cold outside the glass and the fire behind them felt like one of those rare safe pockets where people say things they didn’t know they were ready to say, and the book let it be quiet instead of making it theatrical.
+I was so ready for more heat after the dress chapter, and then the book gave me this instead: naked under a robe, quilt, fire, cold glass, his hand just resting on her breast like it belongs there but does not own her. That is exactly the kind of intimacy I stay for. Not the big ravishing moment, but the after-place where bodies are already allowed and now the real exposure is talking.
 
-I loved Vee here. I loved her so much. She is still hungry, still dazzled, still calling herself lucky in a way that scares me because we know there’s a structure underneath she doesn’t know about. But she is also listening. Really listening. Not just basking in being wanted, though God knows I want that for her too. She hears him. She hears the hallway, and the math, and the too-youngness of him, and Daphne. Especially Daphne. That whole section made me go cold in the middle, because Pace is so composed about it, so careful to make it sound reasonable, and Vee understands more than he does without taking the memory away from him. “You were so young” was exactly right. Anything harder would have made him defend it more. Anything softer would have lied.
+Pace being Peter did something to me. “Pace” has always sounded like a chosen name, sleek and exact and a little unreal, and “Peter” is so plain it almost hurt. Vee saying it once, softly, not taking it from him, just holding it in her mouth, felt more intimate than half the sex in other books. And I loved that she understood when to press and when not to. She sees the careful flatness in him now. She can hear where he has made a story orderly because the hurt underneath is not orderly at all.
 
-And Pace. Peter. Oh, the name. I did not expect that to hit me as hard as it did, but it did. Pace is the man he made of himself, the composed one, the exact one, the man who can hold still on his knees and finish a hem. Peter is the boy in the hallway with the long-division worksheets, the fifteen-year-old in the dorm full of men, the boy who thought being chosen by a nineteen-year-old was luck because it was the best tenderness he had. That is painful in a way that makes his care with Vee feel even more meaningful and more dangerous. Meaningful because he knows what it is to be young around someone with more power. Dangerous because I’m not sure he has fully connected that knowledge to what he and Randi have done by choosing Vee in secret.
+The Daphne part made my stomach drop. I do not love that he still calls it the best two years and defends it as luck. I believe him that it was tender to him. I also believe Vee’s body knew the other word for it before her mind would let it speak. That was handled in a way I trust: the book did not make it sexy, did not wink, did not ask me to applaud it. It let me feel the wrongness and the tenderness tangled together, and let Vee not rip the memory out of his hands. That is a hard line to walk, and for me it walked it.
 
-The math part should not have worked on me and absolutely did. I am not a math girl, but I understood why she fell a little more in love watching him love it. The coastline, the paint, the leaf and the stars — it wasn’t a lecture, it was him opening a door into the world as he sees it. And Vee seeing the stars differently because he sees them differently was romantic to me in the deep way, not the glossy way.
+And the math. God help me, the math worked on me. The coastline and the stars and the leaf, because it wasn’t a lecture, it was him finally opening the locked room inside him and showing her what the world looks like from there. I love that Vee does not suddenly become a math girl. She just sees him seeing it, and that is enough to change the stars for a second. That is romance to me.
 
-The scar came back, and I am glad it didn’t get explained yet. “Not tonight” was such a good answer because it wasn’t a rejection. He kept her hand there. That mattered. He let her touch the closed door without making her pretend it wasn’t there.
+The scar is now lodged in my head. “Not tonight” was perfect. That could have felt like a shutdown, but it didn’t. He held her hand there. Door, not wall. I am very aware, though, that this book is making me trust the shape of his consent and care more and more while the original secret is still sitting under the floorboards. The better these two are together, the more afraid I am of the bill coming due.
 
-But the last part made my stomach twist because Vee is lying there thinking all of this came to her for no reason, as fortune, as grace, as one piece. And I know it wasn’t random. Randi was not random. Pace was not random. The book keeps giving me these beautiful yeses, and they are beautiful, and then it quietly reminds me there is a falseness under the meeting itself. I want to stay in that bed with her and believe in the warmth. I do believe in the warmth. That’s the problem. The warmth is real, and so is the secret.
+Also: Vee lying there afterward thinking she “stumbled into” Randi and Pace, “for no reason she had done anything to deserve.” No, baby. No. That line made me ache because I know more than she does. She did not stumble into them. They aimed themselves at her. And yet everything she is feeling is real. That is the trap of this book, and it is working on me exactly as advertised, which is rude.
 
 GATE 27 — Rock
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 8
-HEAT: 1
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "She had never been so fortunate, or so happy."
-WHY: This chapter pulled me hard because it gave Pace an inner history and let Vee meet him with real tenderness instead of just desire. The almost-stop was not boredom; it was dread, because her happiness is now attached to the belief that this all simply happened to her, and I know better. I need the next chapter, but I’m bracing.
+ALMOST-STOPPED: “She had stumbled into her.”
+WHY: The chapter was quiet, but it pulled me hard because it let Vee and Pace be naked in the emotional sense without making either of them perform. I am deeply in now, but that last happy misunderstanding about how she “stumbled into” them made the hidden plan feel like a rock under the mattress.

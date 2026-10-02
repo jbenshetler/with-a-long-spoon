@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch048 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~b247f2c75c88 · 2026-09-11*
+*capture-dag-v2-rich · gate ch048 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d6bbb290a65b · 2026-10-01*
 
 REACTION —
 
-Oh, this one got me because it finally let me sit inside Pace without making him easier than he is. And I needed that. I needed to know whether he was being cruel, avoidant, principled, frightened, or just emotionally illiterate in a very expensive apron, and the answer is somehow yes to several of those and no to the worst one. He misses her. He wants her. He is not casually withholding. But my God, Sheri is right: from this seat, it feels pretty shitty.
+Oh, this one hurt me. Not in the dramatic betrayal way, not yet, but in that small awful middle-of-the-night way where the thing that used to comfort you suddenly proves it is only an object. The shirt has been one of my favorite tenderness tokens in the whole book. Him wearing it all weekend for her, without making her explain herself twice, was exactly the kind of care that keeps me reading this. And now the shirt fails her. Not because he failed in that moment, exactly, but because cloth cannot answer the question he will not answer.
 
-I loved Sheri immediately in the way I love anyone who can puncture Pace’s solemn architecture with a fry. She is exactly the kind of friend he needs because she does not worship him. She likes him, and she gives him hell, and she sees the shape of the problem in about six seconds. “Then not saying it matters more to you than having her” is the cleanest knife this book has put on the table in a while. Bless her. No velvet, no philosophy, just: say it or own what the silence costs.
+That line about the warmth being her own, given back. God. That got under my ribs. Because yes, that is the fear, isn’t it? That all the heat she feels between them is something her own body is making and then mistaking for proof. I don’t think that is true, or not wholly true, because Pace has shown care in a hundred concrete ways. But I understand why she cannot trust the concrete things anymore when the word is missing. Food and drawers and shirts and hands and patience are real, but they are not the same as being named.
 
-And I felt so relieved, weirdly, about the diner. Not because Vee isn’t in pain, she is, and I am still mad on her behalf. But because Chili’s wasn’t about not wanting to be seen with her. It was sensory, and this place proves there are public rooms where Pace can exist and listen. He *thought* of her there. He wanted to know if she’d love it. That hurt in the good way. There is a whole possible ordinary life there if he would open his hand enough to let her into it: the booth, the glass tabletop, the dark jukebox, the griddle smell, the county road gone black outside. I want her in that booth so badly now.
+I’m not angry at Vee here. I’m scared for her. She is doing the thing where she has made a whole religion out of signs because she cannot ask directly for the doctrine. And I hate that for her because she has been brave in so many other places. She can stand naked in a hallway. She can ask for a spanking. She can send the photo. She can say the cracker-and-meal sentence, which was basically her heart on a plate. But this she cannot ask, because if he does not answer right, it breaks the room.
 
-But the chapter also sharpened the thing I am most afraid of: Pace can make true things into a wall. “Every weekend, I’m there” is true. “She is the most important person in my life” is true. “When I’ve got her, there’s nothing else in the room” is wildly true. And none of it answers the question she asked. This is what scares me about him: not that he doesn’t care, but that he can mistake the force of his care for honesty while leaving the exact needed word untouched.
+And honestly, Pace’s silence is starting to cost me. Not enough to leave, because the book knows it costs. It is not trying to sell me neglect as romance. But I am shifting from “he is slow and wounded” to “sir, you are making a very young woman freeze herself in a dorm bed because she cannot locate herself in your life.” That is not nothing. The dominance only works for me because he watches her. So now I need him to watch this too. Not her body. Her.
 
-And then Randi, quietly detonating from the side: Sheri knows about “the brunette.” Knows enough to call her a lot. Knows Randi looked at her like competition. Pace does not explain. He does not correct the frame in any useful way. That secret is still alive, and everyone keeps walking around it like it’s a table they’ve all agreed not to bump.
+The bare coldness at the end felt like a little self-punishment, and that frightened me more than any big fight would have. She takes off the shirt because the comfort has turned false, but then she does not put anything else on. She stays cold because the cold at least tells the truth. That is miserable, and so beautifully, horribly Vee: if she cannot have the thing named, she will strip away the pretending.
 
-I’m still captured. Absolutely. But I’m less swoony than sore right now. The tenderness is real, the wanting is real, and the damage is real. That is exactly the kind of mess I came for, as long as the book does not ask me to pretend the mess isn’t a mess.
+I would text a friend: “The shirt stopped working. I’m unwell.”
 
-GATE 48 — The Usual
+GATE 48 — Bare
 DECISION: CONTINUE
 CAPTURE: 8
-ALMOST-STOPPED: "Then not saying it matters more to you than having her."
-WHY: That line almost made me throw the book because it is so plainly true, but it also made me trust the chapter. Sheri names the wound without flattering Pace, and now I need to see whether he can do anything with being seen that clearly.
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: “He wasn't in it.”
+WHY: This chapter pulled hard because it turned one of the tenderest objects in the book into evidence of absence, and I felt Vee’s loneliness sharply. I want the next chapter badly because this cannot just sit under the rug now; Pace needs to know, or Randi will get there first, and either way something is about to give.

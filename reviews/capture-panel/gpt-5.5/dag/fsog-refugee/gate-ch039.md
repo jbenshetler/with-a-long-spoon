@@ -1,21 +1,22 @@
-*capture-dag-v2-rich · gate ch039 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~97724b44da95 · 2026-09-11*
+*capture-dag-v2-rich · gate ch039 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9782a926aac2 · 2026-10-01*
 
-REACTION —
+REACTION — Oh, Cassie. Thank God for Cassie.
 
-Oh, this one got me in a different place.
+This chapter is tiny, but it hit me right in the ribs because it is the first time in a while that Vee comes home glowing and somebody outside the whole Pace/Randi current just quietly counts the nights. Not in a scolding way. Not jealous, not moralizing, not trying to take the shine off her. Just: you don’t come home school nights. That is exactly why I trust her. She sees the pattern before Vee does.
 
-Not hot this time, not exactly, but sharp. The book has been teaching me to watch rooms and little shifts in bodies, so when Randi freezes over MIRH, I froze with her. That sudden “withdrawal of motion” felt so exposed. For once Randi is not the one interpreting, arranging, making the room prettier and more manageable. She is the one caught by a fact she didn’t build, and Vee sees her before Randi can turn herself back into Randi.
+And Vee is so gone. The “streetlight thing” made me smile because yes, that is her now, lit from inside and incapable of hiding it. I loved her sitting backward on the chair and spilling over with not one event but the whole new shape of her life: food, warmth, his attention, the house becoming the place she lives emotionally even when she doesn’t live there. It’s domestic in a way that would bore me with the wrong man, but with Pace it feels intimate because the care is so specific. The burn on her breast from being greedy over baked tomatoes, and him tending it for days? That is absolutely the stuff that gets under my skin. Not just sex, not just dominance, but this close daily tenderness where her body matters to him even in its smallest accidents.
 
-And I loved Vee here. I really did. This is maybe the most grown-up she has been with Randi so far, because she doesn’t grab the secret for intimacy, doesn’t use it to get closer, doesn’t make Randi confess so Vee can be the special one who knows. She just sees the wound and quietly gives Randi somewhere to put her hands. That felt like real care, not dazzled friendship, not erotic confession, not “tell me everything.” Just mercy.
+But I felt the unease too. The house “stayed warm now,” warm enough she doesn’t think about how much she has on. That’s lovely, and also: he has rearranged the climate around her. He gave her the drawer. He feeds her. She’s sleeping there on school nights. It’s all so seductive because it is care, real care, and I believe in it. But it is also becoming a life before she has looked straight at what it means.
 
-Cassie is still my ballast, but this chapter makes her dangerous too, in the best and worst way. She is right, probably. Her anger has data now. But because she doesn’t know what Vee sees, her certainty lands right on Randi’s bruise. Nobody is wrong in that room, which is the kind of tension I trust this book to handle because it keeps making the clean individual yes or fact look messier in aggregate. Yes, Randi’s family may be part of exactly the harm Cassie is naming. Yes, Randi may also be horrified. Yes, Vee loves them both and is caught in the middle.
+Cassie asking “Do you love him” in that flat way was perfect. No drama, no swoon, just the question sitting there like a glass of water. And Vee’s “Maybe. I think so. It’s all so fast.” Yes. Finally. She knows enough to feel the speed. That made me breathe easier and ache more at the same time.
 
-The title is doing too much in my head now. “The Outlier” is the data point, sure, but it is also Randi suddenly becoming visible as something other than the smooth glamorous center of the world. She has been the girl who knows things, the girl with the Mercedes and the right restaurants and the perfect questions. Here she is someone’s daughter, implicated by inheritance in something ugly and maybe newly understanding it. I didn’t expect to feel protective of her this way, but I do.
+What I wanted, selfishly, was more Pace on the page, because it has been such a charged run and I am greedy now. But I didn’t mind the quiet because this felt like a needed porch light chapter: Vee coming back from the warm house into the dorm, being witnessed by the one person I trust to notice the difference between happiness and disappearance.
 
-And I am noticing, hard, that Vee can see more than she thinks she can. The whole book has me worried about what she doesn’t see, especially the plan around her, but this chapter says: no, she is not stupid, she is not merely enchanted. She can read a person. She can choose kindness. Which makes the hidden betrayal sharper, honestly, because when she finally has enough data, she is going to know what she is looking at.
-
-GATE 39 — The Outlier
+GATE 39 — School Nights
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This wasn’t the chapter I was craving, but it widened the emotional map in a way I needed. Randi became more human and less untouchable, Vee showed real moral tenderness, and the book’s whole obsession with “what the data means when you see the whole set” keeps tightening around the secret plan.
+WHY: Quiet, but it mattered. Cassie clocking the school nights and asking if Vee loves him pulled the whole domestic spell into focus, and I’m very ready for the book to make Vee look at how fast this is moving.

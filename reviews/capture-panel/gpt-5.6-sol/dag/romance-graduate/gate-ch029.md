@@ -1,21 +1,26 @@
-*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~6e62cd46bbc6 · 2026-09-10*
+*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 08b46669b5c5 · 2026-10-01*
 
-REACTION — Oh, this got me. The apology especially. Vee arrives costumed in Randi’s certainty—her shoes, her scarf, her instructions, even that little theory about how to make forgiveness inevitable—and Pace quietly refuses the performance without punishing her for it. He doesn’t accept the polished “I behaved badly” and let her escape with dignity intact. He asks what happened because he actually wants to know her. And she tells him. Messily, specifically, without laundering the jealousy into something prettier. That is the grown-up intimacy I keep begging these books for.
+REACTION
 
-The height panic hurt in exactly the Vee place: she genuinely thinks being taller in heels might be an insult to him. Then he answers with “beauty like yours made for the gods and loaned out,” and somehow it isn’t corny because he says it as fact, not charm. I would have dissolved on the porch. I nearly dissolved reading it.
+Oh, Randi. You gorgeous, dangerous bitch.
 
-And then the kitchen. Good God. One accidental smack, her body answering before she has language, and suddenly the whole scene is charged by what neither of them says. That silence worked for me because it wasn’t coyness. The physical truth was completely explicit; the unnamed part was her own astonishment. She keeps talking to keep the question from existing, hides her face, climbs onto him to control what he can see—and Pace sees anyway, then gives her the smallest possible experiment: not another strike, just his palm covering the tender place. “This?” That is exactly the combination I’m here for: heat inseparable from attention. Her second “please” coming without explanation absolutely wrecked me.
+I was completely with Vee walking over there in the cold, scrubbed raw by shame and determined to repair what she broke. That felt adult. Not glamorous, not erotic, just: I hurt someone good, I understand how, and I’m going to face him. Then Randi took that clean impulse and styled it. She didn’t merely comfort Vee; she postponed the apology, chose its timing, prescribed the emotional posture, and started dressing her for maximum effect. “He leaves you the room and waits to see what you walk in wearing” is such a perfect Randi sentence because it sounds like wisdom while quietly turning an honest conversation into an entrance.
 
-I’m also relieved he did not immediately make her define a new appetite while she was still inside it. He lets the discovery belong to her before it becomes a conversation or a negotiated identity. But the conversation does need to come. “Unnamed, hers” is beautiful for one morning; if they turn silence into their permanent method, I’ll start worrying.
+And Vee obeyed immediately. “Because Randi had said so” scared me more than anything in the chapter. Randi can take the fist out of her chest, yes. She can name jealousy without shaming her and make her feel survivable again. That is real care. But she can also replace Vee’s judgment with her own so smoothly that Vee experiences it as relief. Pace leaving Vee room to choose and Randi telling her exactly when to walk into it, what to wear, and how to understand his silence—that contrast is not subtle to me, even if it is to Vee.
 
-The domestic aftermath got me almost as badly as the sex. Two unplanned nights, his clothes, his soap, his shampoo, her scent disappearing under his—it is cozy and possessive and faintly alarming in the best way. She is slipping into his life so easily that Monday has to remind her she still has one elsewhere. And then “You’re always beautiful.” Rude. Unfair. Effective.
+Unfortunately, the shoe scene absolutely got me. The skirt hiding Randi’s hands, the cool touch, the hand high on the thigh, the thumb behind the knee, Vee discovering that being held in place makes her steadier—come on. That is not girlfriends playing dress-up anymore, however cheerfully Vee files it there. And Randi knows. The moment she looked at Vee’s bare feet, the pair she chose not to try, the tending she could perform under cover of the skirt: she knows exactly where the charge is. Maybe she isn’t admitting the full truth even to herself, but her body is conducting this scene with complete fluency.
 
-Meanwhile Randi is everywhere without physically entering the house: on Vee’s feet, at her throat, inside the timing of the apology, teaching her how to present herself to Randi’s own boyfriend while Vee knows none of that. Pace recognizes the shoes. Of course he does. That tiny look downward felt electrically dangerous. I cannot tell whether he merely knows they are Randi’s style or knows the exact pair, but either possibility made my stomach tighten. Vee walked into his house wearing evidence of the hidden relationship, and the two people who could read it still haven’t given her the alphabet.
+What makes it work on me is that the friendship is also delightful. The Edna Mode bit, the evil stepsisters, the scarf, Vee in the closet in nothing but Randi’s shoes—I believe their laughter. I believe Randi loves making Vee feel beautiful, and I believe Vee has never had a woman look at her this way and hand her back to herself shining. That is precisely why the manipulation hurts. If Randi were only predatory, I could dismiss her. Instead she is giving Vee something precious while making herself indispensable to Vee’s ability to see and interpret her own life.
 
-I’m extremely in. The book just gave me sincere repair, explicit sex that revealed character rather than pausing it, and a new desire arriving through Vee’s body before shame could organize a defense. This is the depth-and-heat combination I wanted.
+And that kiss. Vee finally kissed her back without bracing and only noticed afterward. “It was only what they did” is the kind of sentence that makes me want to shake the book. No, darling, it is not only what you do. It is what you want, and it has become ordinary in your body before your mind has permitted it a name.
 
-GATE 29 — A Recognized Method
+I need tomorrow night immediately. Not because I want the black dress reveal—though obviously I do—but because Vee owes Pace an apology that comes from her, not a performance directed by Randi. If she walks in “sure” and seduces him before saying the plain painful thing, I’m going to be furious. And I cannot ignore that Randi has now cost them a day: Pace is sitting with the injury while Vee is being taught to make its repair beautiful.
+
+GATE 29 — broken-in
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: “This?” followed by that second, lower “Please” had me by the throat. The erotic discovery, the honest apology, and the increasingly dangerous presence of Randi inside Vee and Pace’s intimacy make stopping impossible.
+WHY: The concealed shoe-fitting was intensely charged, but the real hook is Randi turning comfort, control, friendship, and desire into one seamless thing while Vee’s body quietly accepts the kiss as normal. I need to see whether Vee gives Pace an honest apology or delivers the beautifully staged version Randi has put in her mouth and on her feet.

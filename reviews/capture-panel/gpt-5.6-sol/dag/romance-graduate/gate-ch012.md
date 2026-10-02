@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha d4b4398316b0 · 2026-09-27*
+*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2bcd8a499e1e · 2026-10-01*
 
 REACTION
 
-Oh, that truck scene got me. Not because she took her shirt off—although yes, absolutely because she took her shirt off—but because he had already gone back into the rain to give her privacy, and she called him in. She wanted the looking. She placed his eyes where she wanted them and then opened her shirt under them. That is exactly the distinction this book keeps making, and for once I wasn’t braced against the secret scheme while it made it. That moment was hers. Completely, thrillingly hers.
+Oh, that truck scene. That is exactly the thing I keep begging spicy books to understand: the hottest possible choice was not Pace stripping her. It was him getting back out into the rain so she could change unseen—and Vee realizing she wanted to be seen, calling him back, and making him watch. She takes the privacy he gives her and turns it into exhibition on her own terms. I was holding my breath through every button.
 
-And the wet bra, the cold-pink skin, the drop between her breasts, her mother’s word becoming part of the heat instead of killing it—finally. This is the explicitness I’ve been waiting for, because it isn’t just body inventory pasted over generic arousal. I was inside the particular shame she was choosing to eroticize. His shaking hand stopped me cold in the best way. He had been so focused on her that she genuinely hadn’t understood he was freezing, and then she changed direction: no automatic escalation, no required reward for the striptease. She warmed him. I loved her for that. I loved both of them for it, unfortunately.
+And then his hand is shaking because he is freezing. That absolutely undid me. She reaches for him because she wants more, discovers what his care has physically cost him, and changes course—not from shame or fear, but because now she is caring for him. Bringing his hand under the flannel against her warm belly felt more intimate than whatever sexual thing she had been about to begin. That is the combination I want: explicit desire that reveals character instead of pausing it.
 
-The whole day worked on me before that, too. Pace fixing her boot without turning her embarrassment into either flirtation or a lesson; correcting the cherry pit so gently that his own pit joined hers; hearing about the russet dress and refusing to seize her wanting—that is grown-up care, and it’s incredibly hot to me. He keeps offering her dignity in the exact places where she expects humiliation. I can see why she is falling. I am falling, and I know what he and Randi did.
+The foot scene got me first, though. Her mother’s voice can sexualize and shame even the simple vulnerability of a bare, sweaty foot in a man’s hand, and Pace just fixes the problem. No teasing her for not knowing, no making her embarrassment into a production. The cherry pit does the same thing in miniature: he corrects her without making her feel common, then quietly puts his own pit beside hers. God. He keeps giving her ways to learn without making ignorance a debt she owes him.
 
-But Cassie’s brief presence from the last chapter is still needling me. Vee is already explaining why Cassie doesn’t belong in these new rooms, while Randi is extracting intimate details about a boyfriend she pretends not to know. That lie is getting uglier in direct proportion to how real this becomes. Pace can give Vee the most beautifully spacious choices in the world, but she still doesn’t know the frame around them was built before she arrived.
+I also noticed that he listened to the dress and left it alone. I am now absolutely convinced that russet silk is going to return, and I’m already uneasy about it, because a gift can be tender and still expose how closely he has been collecting her wants. With the secret plan hanging over everything, every beautiful act has a blade tucked inside it. He is making her feel safe enough to become more fully herself while withholding the one fact that might change whether she feels safe with him at all.
 
-Also: the dress. He is going to buy her that russet dress, isn’t he? If he does it without care, I’ll hate it. If he finds some maddeningly exact way to let her choose it, I’ll probably dissolve.
+But Vee is not passive here. That matters enormously to me. She steps onto the trail scared. She eats. She learns. She tells him about wanting the dress instead of erasing the desire before it reaches her mouth. And in the truck, she authors the entire charged moment. Her mother’s contempt is still speaking, but Vee converts it into heat and chooses what to do with that heat. Pace’s restraint is devastating because it leaves the scene hers.
 
-And then the siren stole her goodbye. I’m annoyed in the useful way, because the interruption didn’t feel like fake romantic conflict; it left all that charged silence trapped in the cab and sent her inside wearing his shirt. I need to know what she was going to say. More urgently, I need to know what she tells Randi—and what Randi does when she hears that Vee deliberately undressed for Pace without Randi there.
+Then that stupid little siren steals the sentence. I wanted to howl. Whatever she was about to give him remains trapped in the cab, and now she is standing in his shirt looking like visible evidence of something she does not yet have language for. If Cassie sees her walk in like that, soaked through and glowing and wearing Pace’s flannel, I need the next chapter immediately.
 
 GATE 12 — Leave No Trace
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me the heat and the interiority at the same time: Vee wasn’t merely displayed, she discovered that she wanted to display herself and made him witness it. I’m already reaching for the next chapter because the tenderness is making the hidden arrangement more dangerous by the minute.
+WHY: This gave me the exact fusion of interiority, tenderness, shame, agency, and explicit charge I came for. Vee calling Pace back to watch her—and then stopping the escalation when she realizes he is cold—turned the bond as much as it turned me on, and the interrupted goodbye has my thumb already moving.

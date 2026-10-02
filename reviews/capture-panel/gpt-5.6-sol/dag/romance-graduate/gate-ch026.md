@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 41d61fc51e50 · 2026-09-29*
+*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 1889af8db5c0 · 2026-10-01*
 
 REACTION
 
-Oh, Randi. She is absolutely gone, and the fact that the chapter gives it to me through eating undid me more than the sex did. Last time she carved a line through Pace’s food and left it untouched; this time she asks him to feed her, puts on his shirt, curls up at his table, and eats nearly everything. She stays down afterward. She stays in the bed afterward. She sleeps. For this woman, that is practically a declaration of love.
+Oh, Randi. She stayed down. She asked to be fed. She put on his shirt, knew which drawer it was in, ate almost everything he gave her, and slept under his blanket. For anyone else those are ordinary domestic beats; for her they are practically a declaration written in blood. She has been using sex to flee intimacy, and tonight she used it to stay near it. I felt every tiny surrender.
 
-“I keep waiting to get bored of her” is such a naked confession from someone who survives by making everything look disposable. Vee got past her defenses, and Randi can admit that much only while lying on Pace’s chest in the one place she sets herself down. I wanted to grab both of them when Pace said Vee talks about Randi, because these two are already carrying messages of love back and forth through the woman they are deceiving. It is tender and completely maddening.
+And she finally said it: Vee got past her. Not a game, not a useful girl, not merely somebody Pace wants whom Randi can eroticize at one remove. She likes listening to Vee talk about Tuesday. She thinks Vee is extraordinary. She is turned on by Vee’s embarrassment, by her body, by what she keeps hidden under the cardigan—and the second Pace named the thing Randi loves about her, Randi nearly came apart sitting at the table. That stillness was jealousy and recognition and terror all at once. He sees Vee the way Randi sees her, and Randi cannot decide whether that makes him her safest person or her rival.
 
-And Pace imagining Vee in his sheet and Randi in his shirt at the same table—yes, obviously, that is the shape all three of them want. But “I wanted to tell Vee. I could not, not yet” made my stomach tighten. No, sir. Not *could not*. Would not. He still believes patience inside the seduction compensates for keeping her outside the truth. The care is real, the dream is real, and the dishonesty is still real. That is exactly why I cannot relax.
+What wrecked me was Pace imagining the three of them at that table: Vee in his sheet, Randi in his shirt, everyone smiling. That is such a tender, possible picture, and it is built over a trapdoor. He wants to tell Vee. He knows he cannot tell her “yet.” That one word is the entire knife. He still thinks patience inside the seduction is enough, while the concealed premise keeps getting larger and more unforgivable. And Randi handing back “she’s not ready” as though she has accepted his ethics—when she has just spent a day steering Vee into debt for the perfect shoes—made me want to shake both of them.
 
-Randi going still when Pace describes how Vee brightens a room hurt. He is saying aloud what Randi sees too, but I heard jealousy there—not only jealousy of Vee being loved, but of Pace having language that tender for her. Then Randi turns the feeling sexual because that is the route she knows back to him. She uses her own naked body to show Pace what is hidden under Vee’s cardigan, and good God, that was hot: desire for Vee passing openly between them while neither of them names what Randi’s desire means.
+But God, the feeding worked on me. Pace did not remark on how much she ate; the chapter did not make him congratulate her or pry her open. He noticed and let her keep the dignity of not being observed. That is exactly his devastating trick: his care is so intelligent that I want to trust him even while I know better.
 
-What really has me is Pace recognizing that Randi is wanting out loud and “not able to stop it,” then deliberately leaving the rest for her to hold. That is his ethic again: he will not drag an admission out of her. It is respectful, and it is also becoming a gorgeous form of avoidance. Sometimes leaving someone a door means allowing her not to walk through it forever.
+Also, Randi turning her desire for Vee into sex with Pace is now almost unbearably charged. He understands that the wanting belongs to her and refuses to name it for her, which is respectful and also possibly cowardly. She is practically confessing through her breasts in his kitchen, and he lets the confession remain encoded. I’m torn between wanting someone to say the obvious and knowing that forcing the name onto it would violate the very thing the book keeps pressing.
 
-I would text a friend: Randi ate his food, wore his shirt, admitted she’s obsessed with Vee, got jealous when he described her like sunlight, fucked him while talking about Vee’s breasts, and then actually stayed asleep on him. The triangle is no longer a plan. It is already a relationship, except the person at its center still does not know it exists.
+She slept. She actually slept there. My 1 a.m. text would be: “Randi ate his food, wore his shirt, admitted she’s gone on Vee, and stayed the night—this woman is in love and fighting for her life.”
 
 GATE 26 — Gone
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 3
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi finally let herself need food, warmth, Pace, and Vee in the same chapter, and it felt like watching a locked room open one inch. I need the moment Vee enters the domestic picture Pace just imagined—and I urgently need somebody to stop calling concealment patience.
+WHY: This was the emotional turn I’ve been waiting for: Randi’s armor did not shatter theatrically; she simply stayed, ate, spoke too honestly, and slept. Now I desperately need to know whether she can admit what she wants before the three of them build anything more on Vee’s ignorance.

@@ -1,21 +1,22 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~c1f15218cc12 · 2026-09-11*
+*capture-dag-v2-rich · gate ch049 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-01*
 
 REACTION
 
-Oh, Pace. There you are.
+Oh, that hurt. “You’re the most important person in my life” should have been everything, and instead it was another beautiful answer shaped precisely around the answer she needed. He understood enough to say that. He understood “out there.” He understood what she meant by asking who she was to him. And then he hid behind actions as though words are merely decorative, when words are the one thing his actions cannot provide.
 
-I have been begging him to understand that his actions do not magically make words unnecessary, and the revelation that he understood Vee’s cracker-and-meal sentence perfectly—that he had the true answer ready and deliberately chose the smaller one—hurt worse than if he had simply missed it. He watched his answer fail her. He knew. That makes me angry with him, but it is finally an anger I can put my hands around, because now I know what he is protecting and why: he loved Daphne, lost her, and taught himself the superstition that saying the words was what made the loss destroy him.
+“Words are cheap, and you still won’t spend them on me.” God. Yes. That is the whole wound, and I am so proud of her for finding the sentence and making him stand in front of it. She did not let the warm house, the waiting wine, the food, or his careful hands dissolve her question this time. She came without her bag. She did not cross into the room. She would not let him touch the pain quiet. That matters enormously to me because his touch has been able to carry them past every other uncertainty, and she finally recognized that being soothed is not the same as being answered.
 
-It is heartbreaking, and it is still not good enough. Fear explains the silence; it does not excuse making Vee live inside it. She offered him the bravest sentence she had, and at precisely the moment she needed his courage, he chose his own safety. I’m glad he can name that without dressing it up as restraint or principle: he was afraid, and he was weak. That honesty matters to me.
+And I am furious with him. Not because he couldn’t say “I love you” on command—if he genuinely cannot say it yet, then that truth would hurt, but it would still be a truth she could choose around. I’m furious because he turned her direct question back on her: what do you want, do your friends have anything better, believe what I do. Those answers make her prove the relationship is good instead of requiring him to define what he is offering. Worse, he already knows the definition is incomplete because Randi exists inside it. He cannot honestly name Vee’s place without revealing the structure he and Randi have kept from her, and suddenly his silence feels less mysterious and much more culpable. “Words are cheap” is not romantic reticence anymore. Words would expose him.
 
-And yes, this got me. The bleach in the hall, the shower that cannot wash the night off, the food containing everything a body needs and nothing a mouth wants—then remembering Vee’s face over the first bite. He doesn’t merely miss having her there or miss the sex. He misses her arrival. He misses her unguarded walk to the bathroom, her hair in his bed, the exact sequence of surprise and pleasure on her face when she understands what he made. That is the particular-person warmth I need. He loves *Vee*, down to the tiny domestic motions no one performs for an audience.
+His arms folding absolutely chilled me. That was the closest he has come to showing her a hard boundary, and the boundary was not around pain or family history—it was around giving her enough truth to understand her own relationship. Then the instant she cried, the tenderness came rushing back, and I hated the offered hand even though I know that hand and love what it has meant. She was exactly right: not the hand in place of the word. Care cannot be used as a substitute for honesty.
 
-The passing truck absolutely broke me. His whole body believed in her before his mind could stop it, and when it wasn’t her, he sobbed. This contained man, who can survive everything by ordering it, measuring it, feeding the machine, finally cannot contain this. I wanted the crack in him and I got it—but God, I do not want him merely suffering beautifully in an empty house. Pick up the phone. Go to her. Say the words. Tell her about Daphne. And then tell her the far more dangerous truth about Randi and the plan, because “I love you” cannot become another warm thing used to keep her inside a reality she still has not been allowed to see.
+And Vee walked out. I wanted to stand up and cheer while also feeling sick for her. She loves him, she came into that house already wanting to be persuaded by every warm thing in it, and she still left when he would not answer. That is her desire being hers in the hardest possible direction—not reaching for more, but refusing to accept less. I am already turning the page because he has finally been made to feel the door close, and now I need to know whether he follows her with the truth or retreats into believing his dinners should have spoken for him.
 
-Sheri was right: if not saying it matters more than having Vee, then he has made his choice. This chapter makes me believe he finally understands the price. Now he has to do something brave while sober.
-
-GATE 49 — Not Enough
+GATE 49 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
+NEXT: 10
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Pace’s grief reached me because it was specific, unguarded, and finally honest about the harm his silence caused. I need to see whether this recognition produces confession and action—not only tears in an empty house.
+WHY: Vee finally asked the question all his tenderness could not answer, refused to let his touch replace the answer, and walked out when he chose silence. I am devastated, furious with Pace, fiercely proud of her, and already reading on.

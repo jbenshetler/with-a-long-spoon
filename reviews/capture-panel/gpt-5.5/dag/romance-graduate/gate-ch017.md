@@ -1,23 +1,26 @@
-*capture-dag-v2-rich · gate ch017 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~d92de80cac99 · 2026-09-08*
+*capture-dag-v2-rich · gate ch017 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-01*
 
-REACTION — 
+REACTION —
 
-Oh, Randi is dangerous. Not in the cartoon-villain way, not in the Brooke way. Worse. She knows exactly how to make a girl feel ordinary enough to confess the thing she was going to take to the grave.
+Oh, this one got me. This is exactly the thing I keep reading for and almost never get: not just “he sees her body and wants it,” but he sees the whole awful knot of want and shame and hope and ridiculous satin panties and does not mishandle it. The erotic charge here is insane because the actual event is so technically innocent. Measuring. Fitting. Cutting silk. A man making a dress. And somehow I was more lit up by a tape measure across her bust than I am by whole explicit scenes in other books.
 
-This chapter had me practically holding my breath because it starts so deliciously: the car, the leather, Randi’s softer smile, the way Vee gets to feel briefly like she belongs in that world. I get why Vee is helpless around her. Randi doesn’t just flatter her; she translates shame into style. She looks at Vee’s body and says “tit goddess” and suddenly the thing Vee has been punished by her whole life becomes abundance, luck, power. That is intoxicating. I would absolutely have followed her into that booth too.
+The bra moment made my stomach drop with hers. Because of course the bra has to come off, and of course she “knew” that without letting herself know, and of course the humiliation is not nudity exactly but the asymmetry: him dressed, her undressed, the daylight, the pencil, the work table. That is so specific and so adultly terrifying. And the house being warm because he thought ahead? I’m gone. I am embarrassingly vulnerable to competence when it is actually care.
 
-But oh my god, the lunch. The lunch is a seduction scene. Not sex, but absolutely a seduction scene. Randi telling the scarf story first, offering helplessness as pleasure, “done right,” and then turning that key in Vee. She gets Vee laughing, gets her warm, gets her feeling worldly and safe, then walks her right up to the wet-panties confession without ever having to say what she’s asking. I hated and loved how expertly it happened. “It was cold in the house” made me bark-laugh because girl, no. And Randi catching it with just “Cold” was so sharp I wanted to throw my Kindle.
+The wet satin almost killed me. I mean that in the best way. That could so easily have been crude, or humiliating in a cheap way, but it stayed inside her panic so closely that I felt it as catastrophe before I felt it as heat. The “hope was visible” line, essentially, is devastating. She dressed herself wanting to be wanted, and then her body tells on her before she has consented to being known that completely. That is the old wound and the erotic center in the same place.
 
-The part that really got me, though, was Randi stopping her. “You don’t have to tell me.” That was the most chilling kindness. Because she had gotten Vee there. She had opened the door, dimmed the lights, put her hand on the small of Vee’s back emotionally, and then when Vee was about to step through, Randi shut it. Maybe because even Randi knew it was too much. Maybe because she suddenly felt the reality of Vee giving her something Pace hadn’t even been given in words. Maybe because she wanted the power of almost more than the confession itself. I don’t know, but it made me trust her less and want her more, which is extremely inconvenient.
+And Pace. God, Pace. My problem man remains a problem, but this chapter made him almost lethally attractive. The choice to look up at her face instead of down when she shuts her eyes? That is the whole chapter. He knows exactly where the power is, and he refuses the easiest version of it. He waits for her eyes. I actually had to sit with that. It felt like him handing her body back to her instead of taking the advantage her shame had just given him.
 
-And then the kiss. Of course Vee explains it away instantly. French thing, social thing, rich-girl thing, anything but what it was. But that was not nothing. That was a kiss placed exactly where the chapter had been going the whole time, after Randi had fed on the story of Pace looking at Vee and then sent Vee away with her own mouth touched. And Vee’s panic afterward — not “did I like it?” but “did anyone see?” — that felt so true. Her desire is moving faster than her permission structure can handle.
+Then the shift after, when she realizes she has power too, is so good. Not coy, not sanitized. She gets bold. She presses her breast to his face on purpose and says “Oops. Sorry.” I laughed and also kind of put my hand over my mouth. And he blushes. He actually blushes. The control is hotter because it visibly costs him something. I do not want a marble statue of restraint; I want a man with blood in him choosing restraint while the whole room knows what he wants.
 
-I’m also noticing the money more now. Vee paying for her own soup, refusing to be bought, tipping well even when it hurts. Randi letting her. Pace makes gifts that feel impossibly personal; Randi gives access, glamour, permission, and then withholds rescue at the check. Different kinds of power, both sexy, both not innocent.
+The pinprick and the kiss: filthy, tender, perfect. And “Keep still” doing all that work without making the book underline it to death. I could feel the line between craft and seduction just dissolving, where every touch is technically about the dress and also absolutely not only about the dress. This is the kind of heat I mean when I say I don’t want closed-door literary restraint, I want intelligence with its hands on somebody.
 
-This chapter pulled me hard because it finally made the Randi/Vee charge undeniable while keeping Vee believably unable to name it. I wanted heat, and I got it, but sideways: confession as foreplay, lunch as trap, a goodbye kiss as plausible deniability. This book knows exactly what it’s doing to me.
+I’m still not forgetting the larger ethical bomb under the floorboards. Randi exists. The plan exists. Vee does not know. But inside this room, inside this chapter, I believed the tenderness so much it made the secret worse, not less. Because this is not a hollow manipulation. This is real enough to hurt everyone.
 
-GATE 17 — How It's Done  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: Randi just became much more real and much more dangerous, and the kiss landed exactly where I needed this thread to go. I’m fully in now because the book is giving me heat without flattening anybody into a trope, and Vee’s self-deception is painful in the best way.
+GATE 17 — A Round
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "The bra too,"
+WHY: That was the moment I braced for the book to mishandle her, but it didn’t. This chapter gave me full heat through attention, shame, craft, and restraint, and it changed something between them without needing to rush to sex. I need the next chapter immediately, partly because I’m wrecked and partly because this dress now feels like a loaded object.

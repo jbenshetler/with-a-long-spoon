@@ -1,19 +1,27 @@
-*capture-dag-v2-rich · gate ch016 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~6b85b74f7cb8 · 2026-09-08*
+*capture-dag-v2-rich · gate ch016 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 414026fd7d01 · 2026-10-01*
 
-REACTION — 
+REACTION —
+Oh. Oh, he got me.
 
-Oh, I loved this because it let the air back in after that chapter without cooling it off. It feels so true that Vee would come home almost vibrating and not know where to put any of it, and Cassie is exactly who I wanted her to tell. Cassie makes it safer for me somehow. She can tease the sex out of it without cheapening it, and she can go still when the important thing shows itself. I trust her tenderness.
+I was ready for the house to be the danger room, honestly. The closed bedroom door had me braced so hard, because she came dressed for it, wanting it, and I was right there with her leaning toward that door. And then he just... left it closed. Not coyly. Not as a punishment. He redirected her into his life instead of into his bed, and somehow that was more intimate. Infuriating, a little, in the good way, because my body wanted the bedroom and the book gave me his coat closet, his kitchen knives, his office, his tools, his shelves, his porch. And then I realized that was the point: he is showing her the whole man before he asks to see the whole woman.
 
-The heat being turned up got me. That is so precisely my weakness: not the grand gesture by itself, but the thought before the moment. He didn’t just want to see her. He made the room ready for her body. That’s the kind of care that makes the exposure feel chosen instead of consumed. And Vee noticing it later, almost against her will, made me melt a little.
+The two towels got me early. I noticed them like she did, and I immediately clocked Randi even though Vee doesn't know to. That little domestic proof of someone else in the house is sitting there in plain sight, and it made the warmth go a little sharp. I hate how much this book can make an ordinary bathroom object feel like evidence. He is so careful with Vee and still there is this secret life already hanging on the towel rod. I don't forgive that just because he can cook and make furniture and explain error-correcting codes like poetry.
 
-I also really liked that Vee is telling the story partly as comedy because she has to. “I was on a box” made me laugh, but it also says so much. She keeps needing Cassie to understand the geometry of it, the ritual of it, the way it changed the meaning of being half naked. It wasn’t just “he saw my breasts.” It was height and light and kneeling and waiting and the feeling that she belonged there. That sentence, “Like I was supposed to be there,” is the one I’d text someone with no context and just say: I’m in trouble.
+But God, the furniture. The shoes. The kitchen. The garage. The fantasy paperbacks. I love a competent man in erotic fiction when it isn't just “he is rich and owns things,” but “he has made a life with his hands and habits.” The house made him more real to me. Not glossy, not billionaire-coded, not a showroom. Used. Ordered. Warm because he made it warm for her, I think, and I absolutely saw that wrapped box on the counter feeling she had. The heat was on for a reason. The reason was her being measured nearly naked in good light. Reader, I leaned forward.
 
-And the consent is still doing the thing I came for. He says “the bra too,” but the chapter lets Vee feel the door he leaves her. That matters to me. It matters a lot. I’m still carrying the bigger secret, obviously. Every time he is perfect with her in the room, the hidden setup gets sharper around the edges. But in the immediate scene, in the body-to-body truth of it, he is not taking her no away. He is making space so her yes can become real and hot and a little reckless.
+And the patent. I did not expect to be emotionally undone by an MRI algorithm, but here we are. It matters that the genius in him points toward getting frightened people out faster. That is such a clean little window into him. It made his attention to Vee feel of a piece with the rest of him: he wants to find the true signal inside the noise. Which is beautiful and also dangerous, because Vee is all signal to him and she doesn't know who else is listening.
 
-The ending with Cassie asking if he’s gay could have annoyed me if it felt like a stale joke, but here it works because it lets Vee say the wicked part out loud. And I love that Vee is not just acted upon. She is starting to spend her power. She is embarrassed and ashamed and laughing and turned on and proud. That last little reveal, “I was grinding on him,” made me grin because it is hers. Her wanting is hers.
+The dress wrecked me. Not because it is extravagant, though it is. Because he remembered the thing she put away as impossible, and he did not just buy it, he thought about her coloring, her body, what would actually become hers. The “he matched her” moment hit exactly where this kind of book is supposed to hit me. That is the fantasy I still want from the genre: not money thrown at a woman, but attention. Specific, almost unbearable attention. A man saying, without making a speech of it, I heard what you wanted when you were trying not to want it.
 
-GATE 16 — Turned Up  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: This chapter gave me the afterglow and the confidante scene I needed, and it deepened the tenderness instead of just replaying the heat. Cassie’s presence keeps me grounded, and Vee’s desire keeps getting more embodied and more her own.
+And then the measuring. Whew. That is hot because it is not sex pretending not to be sex. It is formal, practical, almost courtly, and charged all the way through. “Down to what you'd wear under it, in good light” is a sentence with its gloves still on and its hands absolutely on your skin. And he asks. He lays out exactly what would happen. He leaves the rest open. That is my weakness in its purest form: permission as the door, not as decoration.
+
+Still, the secret is getting louder. Randi is in the towels, in the house, in everything Vee is not being told. This chapter made me fall harder for Pace and trust the situation less. Which is honestly rude of the book, because now I want the measuring scene like oxygen and I am also sitting here thinking, girl, ask about the second towel.
+
+GATE 16 — Two Towels
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "A bathroom, plain, clean, two towels on the rod."
+WHY: The chapter gave me exactly the intensity I want without making him push her: the closed bedroom door, the house tour, the dress, the explicit ask for permission. But that second towel is a cold little truth sitting in the warmth, and I am very aware Vee is choosing from inside a room whose shape she still does not know.

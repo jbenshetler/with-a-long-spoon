@@ -1,15 +1,18 @@
-*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~1d8fca279859 · 2026-09-11*
+*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0f8a1c3bd12a · 2026-10-01*
 
-REACTION — This is exactly the domestic, ravenous intimacy I wanted from them, and it made me ache. Vee asks for five nights, and Pace simply gives them to her—no sulking, no punishment, no making her prove that school matters. Then she comes back because she wants to, practically shedding clothes down the hallway, laughing in her socks, entirely the engine of her own return. That is the intensity I read for: he can stop her body with one hand, but he never turns that strength against her choice.
+REACTION
 
-And God, the shirt. Asking him to wear it all weekend so she can sleep in his smell when they’re apart is so embarrassingly tender and particular that it nearly got me. Then he puts it on immediately, over the shirt he is already wearing, because her strange little need is enough reason. No teasing, no making her defend it. “Smelling like me.” I would absolutely text someone at one in the morning about that.
+Oh, I needed her to have somewhere that belonged only to her. Not Pace’s house, not Randi’s table, not Cassie watching clearly from across the room—just Vee in a lane her body has known since she was twelve, doing something nobody arranged for her. Even the fact that she chose lane three once and everyone else quietly learned to move around her felt important. She is so constantly being looked at now, interpreted, desired, dressed, guided. Here her body has no opinion and no audience. It only works. What a relief.
 
-But the line that caught under my ribs was: “He decided not to ask. He was good at not asking things.” Vee experiences his silence as grace because his actions are so loving, and often it is grace. Here, though, he nearly accepts the shirt back while quietly hurt rather than risk asking what she means. She wanted him to fight for those five nights—not override her, just say that he missed her—and he never did. His restraint leaves room for her, which I love, but it also keeps him concealed while she becomes more and more exposed. She tells him she counted the nights by breathing his scent out of a shirt. She has silently named her love. He still answers almost everything without words, including truths she desperately needs spoken.
+And I’m glad the book let the doubt exist without turning it into a warning siren or immediately answering it for her. “Is he really this good, or have I made him this good because I want him?” is exactly the question she should be able to ask when she is this happy and moving this fast. I don’t think Pace is imaginary—his care is in the scrunchies, the drawer, the food, the way he stops—but Vee is living almost entirely inside the force of his attention now. Her own bed is becoming the exception. Love may be true, and “too fast” may also be true. I want her to keep enough of herself outside his house that she can tell the difference.
 
-The food and the sex felt almost narcotically warm, but that is making the hidden plan feel worse, not better. She now has a drawer, a ritual, a shirt that travels back to be filled with him. This is becoming a life. Pace’s immediate care remains exquisite; his larger silence is becoming unbearable.
+The swimming not answering anything worked on me. It didn’t solve her; it returned her to herself. By the end she can carry the shape of the question without having to surrender it to somebody else for interpretation. Especially Randi. Especially now. I’m not desperate because this was quiet, but I am very ready for the next door to open—and increasingly frightened by how much happiness is accumulating before Vee learns the frame around it.
 
-GATE 40 — The New Ordinary
+GATE 40 — Strokes
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The hallway hunger and the flannel ritual gave me exactly the combination of heat, freedom, and tenderness I came for. But “He was good at not asking things” feels like the hairline crack through all this warmth, and I need to see whether Pace finally chooses honest words before Vee builds her whole home inside what he has not told her.
+WHY: This gave Vee back to herself for seventy-five minutes, and I badly needed that for her. The doubt under her happiness makes me more invested, not less: she loves Pace, but she is finally asking whether love and being wholly absorbed are the same thing.

@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ca7450e92130 · 2026-09-19*
+*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh, wow. What an unexpected, pitch-perfect detour. After leaving Vee bleeding out on Peter’s doorstep in chapter 46, dropping us into Randi’s head in Gstaad could have felt like agonizing narrative whiplash—except it did the exact opposite. It illuminated the entire architecture of this book.
+God, my stomach hurts. This is the first time the gilded cage felt cold, completely cold, from the inside out.
 
-Seeing Randi from the inside broke my heart in a way I was not prepared for. Up until now, she’s been the untouchable sorority queen, the psychological apex predator toying with Vee like a cat with a mouse. But here? Eating her revulsion at breakfast with her corrupt father, sitting across from an ice-pick mother in a tennis bracelet, keeping her own plain gold band out of the light—she is living in an absolute emotional cryogenic chamber.
+That disaster at Chili's was physically painful to read. It was so agonizingly, humiliatingly real. When you're starving for someone to claim you in the daylight, you pick a fight just to throw yourself against the bars, and then when he calmly says *okay* and takes you to the loud-ass chain restaurant you blurted out, you realize you've walked yourself right into your own trap. Watching Pace unravel in that booth—not throwing a fit, but that tiny, devastating flicker of irritation, squaring his fork with the edge of the table, his eyes sliding up to the muted TV because the noise was scrambling his hyper-calibrated brain—it made me want to crawl under the table. And the nachos! The soggy chips and the sour orange bag-cheese tasting like muddy brown cardboard because he has literally ruined ordinary life for her. He has educated her palate and her nerve and her body to expect bespoke perfection, and now she can’t even choke down the cheap comfort food she grew up on.
 
-And then John. God, the execution of the "fairytale" was ruthless. He is the ultimate romance-novel hero on paper: towering, tanned jaw, New Haven law degree, cotillion-trained, conjuring sleighs and Michelin-starred venison with truffle shavings, skiing with effortless aristocratic grace. It’s the exact billionaire/alpha fantasy my Kindle has been choking on for years. And this chapter guts that fantasy with a scalpel. Randi gets the grand romantic climax, the white-tie ball, the New Year's kiss in the falling snow, the hot sex in the luxury suite—and she wakes up in the middle of the night feeling like she just ate a dry sandwich on a busy afternoon.
+And then the fight at the house, where she tries to rewrite history and claim *he* went cold on *her* after the Rusty Nail. The absolute mastery of Pace just setting down: *"You know what happened after the dance."* He doesn't raise his voice, he doesn't insult her, he just holds up the mirror. And then explaining his sensory overload: *"In a room like that I listen as hard as I know how and I still can't hear you."* It’s so reasonable, so intensely intimate, and so profoundly evasive all at the exact same time.
 
-*"This man had taken a beautiful woman to bed, brought her pleasure, but never found her underneath."*
+Because she is so desperate for it to be fine that she tells herself she's "forgiven" him just to give herself permission to let him strip her. That whole sequence in bed had a desperate, frantic undertone that almost made the heat hurt. She wanted him to break his control so badly, thinking that if he lost his head and took her rough, the truth would spill out with it. She got the rough—she got him finally losing his breath and snapping, driving into her and shaking apart—and even completely shattered, empty, with his seed running down her thighs in the dark, he *still didn't say it*.
 
-That line hit like a physical slap. Because that is Peter. Peter is the only one who actually looks at people, who sees the terrified, ugly, beautiful truth of them and doesn't flinch. Randi knows John is "safe" because he will never see her, while Peter terrifies her because he sees right through the veneer.
+That ending is an absolute punch in the throat. She is lying in the cooling sweat of a man who just gave her two earth-shattering orgasms, his arm heavy over her, and she has never been more completely alone. She can't call him a boyfriend, she can't call it love, she can't prove a single second of it outside the perimeter of those woods. He has swallowed her whole, and she doesn't even have a word to hold onto.
 
-And then the turn to Vee. Jesus. The realization that Randi isn't just playing a cruel game of voyeurism; she is violently, desperately, hopelessly in love with Vee. Vee is the only person in Randi’s entire manufactured life who isn't currency. But Randi is a coward—she admits she’s built her life never to have to be brave—so she feeds Vee emojis and "fairytale" texts while lying cold next to a hollow trophy man, protecting the brunches because it's the only way she gets to have her.
-
-This chapter didn't have Peter in the room, but his absence defined every single sentence. And it sets up the second half of the book with terrifying emotional stakes. Randi loves Vee. Vee loves Peter. Peter loves Vee (in a language he refuses to translate into words). And the whole gilded house of cards is about to implode when they all get back to Virginia.
-
-***
-
-GATE 47 — Fairytale
+GATE 47 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Giving Randi an interior life this rich and tragic completely re-contextualizes the entire triangle, exposing the "fairytale" trope for the empty shell it is while making the emotional collision course between her, Vee, and Peter unbearable to wait for.
+WHY: The psychological friction here is breathtaking. The horror of getting exactly the physical devotion you begged for, only to realize in the quiet afterward that you're totally nameless to him outside that bed, was absolute perfection. I have to see who cracks first.

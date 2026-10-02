@@ -1,30 +1,22 @@
-*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha bb2635a8b1b0 · 2026-09-19*
+*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f6c081c5e67c · 2026-10-01*
 
-**REACTION**
+REACTION:
 
-Oh, my chest hurts. In the absolute best, most terrifying way.
+Oh my god. My stomach is in absolute knots. The psychological layers in this chapter are so suffocating and brilliant I can barely breathe.
 
-This is the bridge chapter to end all bridge chapters. It’s quiet, nobody takes their clothes off, no one is coming on a cashmere blanket, and yet it feels more dangerously intimate and seismic than the last three chapters combined.
+We know what Randi felt in Gstaad. We sat with her in the mirror while she felt hollow, sickened by the "sandwich" of that golden-boy lawyer, looking at her reflection and realizing she would burn down the whole approved fairytale world just to sit across a table from Vee. And here she is, back in her room, listening to Vee sob her heart out over Pace. Randi could have sabotaged it. She had Vee completely shattered, entirely vulnerable, weeping into her neck, ready to believe Pace threw her away for a blonde. A manipulative monster would have fed that poison and swept Vee up right there on the bed.
 
-Pace standing at the sink, casually cataloging her entire life from memory—Meg’s boots slipping at the heel in October, Kayla talking the paint off the wall—completely took the wind out of me. It’s the ultimate female fantasy, honestly, not just the billionaire in the sleigh or the guy who eats you out until you can't walk, but the man who *listens to your chatter and files every single scrap away as sacred data.* He didn't just hear her; he built a mental map of her entire universe while standing over dish soap.
+Instead, Randi did the absolute opposite—and it is so much more tragic, so much more twisted. She builds Pace back up for Vee. She defends him, breaks down his psychology with devastating accuracy (*"That's a boy holding himself still so it won't show how much you got him"*), and literally scripts Vee’s reconciliation. Why? Because Randi is so pathetically terrified of losing Vee, and so locked into this sick triangular dynamic they started, that she would rather orchestrate Vee offering herself up naked on Pace’s doorstep than risk Vee walking away from the table entirely. She literally hands Vee the black heels from her closet. *Randi always knew the shoes.* God, the dramatic irony is sharp enough to bleed on.
 
-And then the emotional intelligence on both sides in this tiny scene! When she immediately pictures a three-person dinner with Randi, he gently checks it: *"Bring Cassie, too."* He knows. He knows Cassie is her anchor, and he won't let her leave her real friend behind to play golden-girl with Randi. And then Vee’s internal panic—realizing that putting Cassie and Randi at the same table is a social bomb, seeing the class divide, realizing someone will have to "be a good sport"—was so sharp and real. But even better was her sudden flash of Chili's: remembering him trapped under four blaring TVs, turning his fork over and over because the noise was drowning him out, and quietly handing him the reins: *"Will you pick the place?"* That is pure love. That is her protecting his sensory limits without shaming him for them.
+And Vee! Poor, sweet, starving Vee. She had all that righteous spine in December, walking out into the cold, demanding words, demanding a name—and after five weeks of silence in her childhood bedroom with *Wheel of Fortune* and lavender air freshener, the withdrawal broke her. She completely surrendered her ground. *"Words are the whole war,"* Randi tells her, and Vee just... folds. She’s going to show up on his stoop in a winter coat with nothing underneath, completely erasing the question she walked out over. It’s devastating because I *know* Pace is sitting in that cold house, having thrown up whiskey and cried over an empty bowl of prison chicken, but handing him her naked body on a platter is giving him the exact out he always wanted: sex instead of speech.
 
-And his reaction! *"Tables have ends. Somebody ends up at one."* He doesn't want a stiff, performative dinner where he's backed into a corner or someone feels lesser; he wants a real gathering. *"Bring Theo."* Zero petty jealousy, zero posturing. Just complete, solid ground.
+The tension heading into tonight is unbearable. Pace is raw and grieving; Vee is stripped bare under a coat; and Randi is sitting alone in a sorority house holding the strings to both of them. Turn the page right now.
 
-Except... oh God. *The convergence.*
-
-He wants to meet her people. The jacket told me from page one: *"Two people set the table... Vee is a willing player in two games. She doesn't know there are three."* Randi and Pace chose her together. Randi has been keeping them in separate boxes, feeding Vee scripts, living vicariously through their sex life while hiding her own heartbreak and her family's dirty money. And now Pace is actively tearing down the walls between Vee's compartments. He wants Randi, Cassie, the college friends, all in one room with him, looking at Vee.
-
-If Cassie is there, the PPP loan spreadsheet is in the room. If Randi is there, the secret architect of their whole relationship is sitting right across from Peter, in front of the girl they both love. And Vee thinks she's just planning a cute mixer.
-
-The bomb is being carried into the dining room right now, set on a timer, and Peter is the one carrying it with a smile on his face. I am vibrating. I need the next chapter immediately.
-
-***
-
-GATE 54 — Back
+GATE 54 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 8/10
-NEXT: 10/10
+CAPTURE: 9
+NEXT: 10
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The quiet emotional depth here floored me—Pace casually proving he remembered every stray detail she ever told him was pure romance, but the terror of knowing this party will force Randi, Cassie, and Pace into the exact same room makes waiting for the next chapter physically painful.
+WHY: The dramatic irony of Randi packaging Vee up to send her back to Pace—while secretly being in love with her—is absolute top-tier psychological drama. I need to see what happens when Pace opens that door.

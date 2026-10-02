@@ -1,21 +1,28 @@
-*capture-dag-v2-rich · gate ch020 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~8429b6ba440f · 2026-09-11*
+*capture-dag-v2-rich · gate ch020 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8611b8522702 · 2026-10-01*
 
 REACTION —
 
-Oh, this chapter fed me too.
+Well. There it is.
 
-What I loved here is that the sex didn’t just happen and then vanish into “well, they did it.” The after is still erotic. The sheet, the wine, him cooking at midnight, her sitting there used and happy and hungry in every possible way — honestly, that may have hit me harder than the bed itself. Not hotter, maybe, but deeper. That image has staying power. A man making fra diavolo while she’s wrapped in his sheet and nobody needs to perform? Yes. Keep that one, exactly like Randi says.
+I feel like I’ve been waiting for this chapter with one hand over my mouth since the truck, and it did not cheat me. It gave me the thing I wanted, but more importantly it understood *why* I wanted it. Not just “finally they have sex,” but finally Vee’s body gets to be the loudest truthful thing in the room and nobody punishes it. Nobody corrects it. Nobody makes it smaller. Pace does not just tolerate the excess of her wanting; he receives it like it is evidence in her favor. I am a very simple woman in some respects and “Would you be bothered if I was too hard?” may have taken me clean out.
 
-And Randi. God. Randi is becoming more dangerous by becoming more necessary. She isn’t just prying for gossip; she is teaching Vee how to understand her own desire without flinching. “You drove over there sure” is such a good, clean knife. She takes the shame-language out of Vee’s mouth and gives her a new version: not confession, not accident, not something that happened to her, but wanting, preparing, choosing. I felt Vee get bigger in that conversation.
+The green set. The plum toenails hidden in flats. Her trying to dress like none of it means anything while every single choice is screaming. That is exactly the kind of erotic realism I want: not coy, not clinical, not detached. The book knows that buying the matching bra because “it would be silly” is foreplay if you’re inside the right head. It knows that smelling his shirt until the smell fades is more exposing than a lot of nakedness.
 
-But I also do not trust the shape of it, because Randi knows exactly what she’s doing. She leads Vee one step at a time, warm hand on the back, and Vee follows because every step feels like relief. The chapter lets me enjoy that relief and still feel the trap of it. Randi is making herself the priestess of Vee’s appetite: tell me, I’ll absolve you, I’ll name it, I’ll make it beautiful. That is intimate as hell. It is also power.
+And the shame. God. The shame being not an obstacle the scene “solves,” but part of the current. That felt painfully right for Vee. The mother’s word is still there, still vile and sticky, but this time it doesn’t shut the door. It runs alongside the heat and somehow the heat eats it alive without pretending it was never there. That’s the grown-up thing I’ve been starving for: the book isn’t like, “She was liberated now, hooray.” It lets the old voice keep talking and then lets Vee keep going anyway.
 
-The money stuff still pinches beautifully. Vee pricing the mimosa, calculating Thursday, then later having the second without pricing it — tiny, huge. That’s how this book keeps making the seduction material, not just emotional. Randi’s world is expensive and effortless, and Vee is being invited into it sip by sip, kiss by kiss, language by language.
+Pace on his knees was already lethal in the fitting chapter, but this made the promise pay off. He has this maddening patience, this way of not rushing that makes everything more filthy, not less. And then when the careful thing in him finally lets go? Yes. Thank you. That is the exact delayed-collapse structure I wanted from him. The heat worked because the tenderness had been built plank by plank before it.
 
-And the kiss at the end. The second time she expects it. The second time she meets it. The second time she doesn’t scan for witnesses. That’s the real movement of the chapter for me. Pace has opened one door in her body, and Randi is quietly opening another one in public daylight with lipstick and brunch and “gorgeous.” Vee is so happy she can’t see the architecture yet. I can, and I am absolutely still reading.
+Also: she sees the scar. Just that little snag. I noticed. I am tucking that away.
 
-GATE 20 — Fed
+The after was almost as good as the sex for me. Sheet around her, hungry, quiet kitchen, he cooks from the place he stopped because the whole evening had been waiting there. And then the trade. Oh, the trade. That was wicked and intimate and so Vee: giving him the evidence on purpose this time. Not being found out. Handing it over. That felt like an actual turn in her, not just a sexy button.
+
+I am fully in. Annoyingly in. This book knows exactly which doors it opened and it walked through them with its hands steady.
+
+GATE 20 — Famished
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter gave me the afterglow, the confession, the reframing, and the Randi/Vee charge getting less deniable by the page. It didn’t have explicit sex on-page, but it kept the heat alive through memory, language, and that soft dangerous kiss, so I’m very much still caught.
+WHY: This was the chapter cashing the check the book has been writing since “May I choose?” and it paid in heat and feeling both. Vee’s shame didn’t magically vanish; she moved through it, with him meeting her there, and that made the sex feel like a real emotional event instead of just the next spicy milestone. I want the next chapter badly, partly because I’m glowing and partly because Randi is still out there like a lit match near curtains.

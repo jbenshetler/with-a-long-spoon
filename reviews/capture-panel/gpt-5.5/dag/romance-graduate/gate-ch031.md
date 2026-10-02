@@ -1,15 +1,22 @@
-*capture-dag-v2-rich · gate ch031 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~230524645ef4 · 2026-09-11*
+*capture-dag-v2-rich · gate ch031 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-01*
 
-REACTION — Oh, that landed exactly where I wanted the induction to land, and I’m almost annoyed by how cleanly it got me. Not fireworks, not some overblown public scandal, just Vee in the good room making one private decision in public. That second step. God. The first step safe, the second one chosen. That is the whole book in a shinier knife.
+REACTION — Oh, this was a tiny chapter, but it did not feel like filler to me. It felt like one of those cold-air chapters where the book opens a side window and lets me see the shape of the house from outside.
 
-I love that Pace isn’t there. I thought I wanted him there to see it, and then the chapter made me realize it’s hotter and better that he isn’t. He made the dress, yes, and his hands are all over the conditions of this moment, but the actual step belongs to her. The photo goes to him, but the secret inside the photo doesn’t. “That part was hers” gave me such a hard little jolt of relief. I’ve been worried about her becoming only a thing made by other people, and here she’s still being shaped, absolutely, but she also surprises herself. She takes the room.
+Sheri immediately works for me. She is blunt in a way I trust more than all the polished carefulness around Vee. “Hell of a backside” made me laugh because of course she says it, and because Pace correcting her to *Vee* tells me exactly where he is. Not “the redhead.” Not “her.” Vee. He is already guarding the name, even with someone who knows him well enough to ride beside him in the cold.
 
-And Cassie. Cassie, my beloved normal-person tether, quietly doing the most. Holding the phone. Taking the picture. Seeing the whole of Vee fast. “Honor student” made me laugh because it’s so Cassie: dry, fond, slightly scandalized, and more protective than she’ll admit. I needed Cassie to have this moment with her, not Randi. Randi would have known what the slit meant too quickly. Cassie lets it be accomplishment and glamour and mischief without immediately turning it into a lesson.
+And then he starts talking about Vee touching the walnut chair and asking the right question, pulling the math book down and not being afraid of it, and I just sort of softened despite myself. This is the Pace I want to believe in: not just aroused by her, not just proud of shaping her, but lit up because she notices the made thing, the real thing, the mind behind it. Sheri’s “Listen to you” lands because yes, exactly. He is gone. He may not know how audible he is, but we do.
 
-The heat here worked for me because it was not just “ooh, no underwear in public.” It was the way shame, pride, exposure, and authorship all folded into the same body-signal. The room can’t say what it saw. Vee can’t even fully separate pride from arousal anymore. That scares me a little, but in the delicious way, because the book knows it’s scary. She’s learning that being looked at can be a kind of power, and I’m sitting here thinking: yes, baby, and also please notice who taught you where to stand.
+But the chapter also sharpens the wrongness. “Randi knows. She likes her.” “And the redhead?” “Not yet.” There it is in the cleanest possible form. No erotic fog, no beautiful room, no Randi’s scarf, no Vee’s blush to make it feel complicated and lush. Just the fact sitting on the road in daylight: two people know, one person does not. And Sheri runs the arithmetic immediately. Better than his dreams, worth it, complicated later. She is not scandalized, which I appreciate, but she also doesn’t give him absolution. She names the complication and lets it sit.
 
-GATE 31 — The Induction
+I’m weirdly glad this chapter stayed outside Vee right before the apology. I wanted to get to the door, yes, but this gave me the temperature of Pace’s world: he has friends, routines, women who speak plainly to him, history outside the bedroom. And Sheri not liking Randi enough to call her “the pale sorority chick” is a little delicious. I want more of that friction.
+
+Did it yank me by the throat? No. It’s a bridge chapter, and a short one. But it’s a good bridge because it adds pressure instead of simply moving pieces. I still have my thumb hovering over the next page because Vee is walking into a room where Pace has just been externally told the thing we all know: this is already complicated, and it will be worth it until it hurts.
+
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: This was the public payoff I’d been waiting for, but sharper because it let Vee own the decisive instant herself. Pace made the dress, Randi found the shoes, but that long second step was Vee’s, and I am very much still in.
+CAPTURE: 7
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "and that was the whole of it."
+WHY: It’s very short, so part of me did hit the end and think, wait, already? But Sheri’s outside-eye bluntness made the whole triangle feel newly exposed in daylight, and Pace talking helplessly about Vee absolutely got me. I want the apology scene now, badly.

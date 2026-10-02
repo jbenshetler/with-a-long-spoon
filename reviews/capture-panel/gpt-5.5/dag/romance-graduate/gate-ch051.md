@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch051 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~79b4d57f1ee0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch051 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · 2026-10-01*
 
-REACTION — Oh my God, yes. This is exactly the sort of chapter that makes me sit up like, okay, you do know what you’re doing to me.
+REACTION —
 
-The thing I loved most is that it understood the eroticism was not just “woman in coat, nothing underneath,” though obviously, yes, I am alive and have a pulse. It was the choosing. The mirror. The heels first. The drawer closing on all the underwear not invited. Her literally dressing herself in decision. That is so much hotter to me than just a lingerie reveal because it’s Vee taking the body she has spent years apologizing for and deciding, tonight, I am going to use this instead of hide it. That hit me right in the grown-woman romance reader place. Not coy. Not clinical. Fully embodied.
+Oh, this one hurt in that very particular holiday-break way, where you go back to the bedroom that used to be yours and suddenly your own life feels like something you have to hide under the covers. I know this room. Not literally, but emotionally: the trophies, the old hobbies, the friends who were once everything, the parents asking normal loving questions that become unbearable because none of the real answers can survive the air in that house.
 
-And the denial before she leaves? Cruel in the best way. I felt that whole chapter as one long tightening: mirror, coat, hallway, Kayla talking about laundry while Vee is practically vibrating out of her skin, the drive, the police lights. I laughed and clenched at the same time. The chapter lets the ridiculousness exist without deflating the heat, which is harder than it looks. Vee standing there under wool while someone chats about socks is so mortifying and so hot because she knows exactly what she is carrying under that respectable coat.
+And Vee spiraling over Pace made complete sense to me, which is what made it so awful. I didn’t want her to go there, but of course she goes there. He has left her with nothing but evidence and silence, and silence is an acid. It eats through even the good evidence. The bartender’s reassurance, Randi’s reassurance, the whole record of his care — none of it can hold once she doesn’t know what she is to him. I wanted to shake him through the book. This is what words are for, Peter. This exact cold room. This exact midnight. This is the place your beautiful actions cannot reach.
 
-The porch worked for me hard. I was braced for Pace to ruin it with the formal voice, and he almost did. “It’s late. Is everything alright?” made my whole body go oh no, don’t you dare. But then she doesn’t argue. She doesn’t plead. She opens the coat. And his face doing what his mouth has failed to do? I know, I know, this is still not the word. But in that moment I believed the force of it. He looked glad and wrecked and forgiven, and I wanted that for her so badly that I let it count for now.
+The part where she tries to climb into the memory of that first night and even that gets stolen from her by the imaginary blonde? Brutal. That felt so true to jealous panic. Not sexy jealousy, not cute possessive romance jealousy, but the miserable little brain-theater where you cast your own replacement and then believe in her because you’re lonely enough. And the blonde being “fashion model” where Vee thinks of herself as “stripper” made me ache, because she still doesn’t understand that her body being excessive and specific and hungry is part of what made her visible to him. She knows it sometimes, then loses it the second she’s alone.
 
-The sex was filthy and tender and actually specific to them. Thank you. The cold, the open door, his mouth on her on the porch, her wet nipples in the January air, the coat flapping around them while he’s inside her standing up like neither of them has a single civilized thought left. That is not interchangeable KU sex-scene paste. That is these two, at this exact breaking point, doing the only thing their bodies can do before language catches up.
+Randi’s text landed strangely, too. Sweet, yes. I believe Randi means the warmth. But because I just came from Randi’s chapter, I know Vee is reading fairytale where Randi is also hiding emptiness. They are both lying in different rooms envying each other’s visible life. Vee thinks Randi is living out loud; Randi is performing gorgeousness over a hollow place. That’s delicious and sad and very dangerous, because Vee is starting to assign Randi the reliable future. A class. A face. A date she can circle. Pace has become the unmarked space.
 
-But. But but but. He still did not say “I love you.” And the chapter knows it, because it gives me that forehead kiss and “I missed you so much,” voice cracking, pancakes at midnight, him on one knee beside her chair. It almost makes me forget. Almost. I’m full right along with her, and I believe that she feels she got what she came for. But I am watching the timing now. I am not mad at the chapter for letting pleasure rescue the night; that was the promise on the tin. I am mad at Pace, a little, because the word is still sitting unpaid on the counter beside the syrup.
+No heat here, but the erotic shadow is everywhere: the dress cut in half for her mother, the photo whole for Pace, Randi buckling the shoe, the memory of the sheet slipping at the table. It’s not sex on-page, but it’s all about which version of her body gets to exist in which room. That’s the good stuff for me. That’s adult heat even when nobody is touching.
 
-Randi’s heels being the shoes Vee comes home in is delicious and ominous. Cassie taking in the whole outfit with one eyebrow and saying “Hmm” is exactly the plain air I wanted back in the room. Please let Cassie keep looking. Because Vee is glowing, and I’m glowing for her, but those heels are not just shoes. They are Randi’s handprint on the whole reconciliation.
+I’m still reading. Absolutely. But I am now officially angry at Pace in a way that tenderness cannot immediately fix. If he comes back with only food and eyes and hands, I may throw something soft but meaningful.
 
-GATE 51 — Nothing Underneath
+GATE 51 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 10
-ALMOST-STOPPED: "tonight there was no room in her for wanting anything he hadn't given"
-WHY: I was completely taken by this chapter: hot, funny, exposed, emotionally loaded, and absolutely Vee. That line is where I got nervous, because there *is* still something he hasn’t given, and I do not want the book to let good sex and pancakes permanently bury it. But I’m nowhere near stopping; I’m locked in.
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "Nothing from him. She hadn't thought there would be, and there wasn't."
+WHY: This was a cold, lonely bridge chapter, but it did exactly the bridge job I needed: it let the consequences of Pace’s silence actually live in Vee’s body instead of skipping to the reunion. I want the next chapter badly because someone has to answer for this room, and because Randi has just become the thing Vee can count on in a way Pace is not.

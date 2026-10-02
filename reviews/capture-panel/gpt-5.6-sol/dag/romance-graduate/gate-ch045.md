@@ -1,25 +1,22 @@
-*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~d6bbb290a65b · 2026-09-10*
+*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-01*
 
 REACTION
 
-Oh, thank God she asked. She asked the whole question, clearly, to his face, before letting him warm her and feed her and touch the doubt quiet again. She left the bag in the car. She refused the kiss. She stayed on the mat. I am so fiercely proud of her.
+Oh, *cropped*. Not only the photograph. Vee has cropped Pace for her parents, cropped herself for Cassie, cropped the relationship until only the respectable pieces fit inside “boyfriend”—and then she’s unsettled that nobody can see the whole thing. That title landed harder with every paragraph.
 
-And Pace’s answer made my blood run cold.
+The thing about Pace sewing the dress being harder for her father to absorb than Pace taking it off her is painfully true. Sex can be filed under fathers-and-daughters discomfort; a twenty-two-year-old mathematician building a dress for her by hand refuses every available box. And I felt Vee’s protectiveness flare there. She isn’t hiding the sewing because she’s ashamed. She’s hiding it because she knows her father’s limited reading would cheapen something precious.
 
-“You’re the most important person in my life” should be enormous, but here it is another exquisitely shaped evasion. Important *how*, Peter? Because she asked him twice. She gave him every possible opening to say girlfriend, partner, lover, beloved—anything that would place her in his life outside the locked house—and he answered first with a comparison to other people’s relationships, then with a philosophy designed to make her distrust the legitimacy of her own question.
+But Cassie’s question is the one I’ve wanted someone to ask: not “Do you love him?” this time, but *what is he to you?* And Vee still cannot answer. That matters. She can tell Randi exactly how Pace uses his hands, mouth, strength, bed, kitchen, camera. She can tell her parents the approved biography. But with the safest person she has, she cannot name the relationship itself. “Both” is honest, at least, but it also made me lonely for her.
 
-“Believe what I do” is especially vicious because what he does has been his strongest evidence all along. The heat raised before she arrives. The wine poured. The meal waiting. The care. He has taught her to read those things as his language, and now, when she asks for one actual noun, he tells her she is shallow for needing speech. But words are not cheap here. A word would make a claim, and a claim would expose the lie underneath it. He cannot call her his girlfriend without confronting the fact that he already has one. He cannot offer exclusivity. He cannot define the relationship honestly without bringing Randi into the room. His silence is not some principled, masculine faith in deeds. It is where he is hiding her.
+And yes, I noticed that tiny ache when Cassie respected the boundary. Vee was grateful Cassie didn’t push and also wished she would. She wants someone clean to help her look at this, but she won’t hand Cassie enough of the truth to do it. Meanwhile Randi gets the uncropped nude. That contrast is enormous and not flattering to where Vee is putting her trust.
 
-“Words are cheap, and you still won’t spend them on me” nearly took my head off. That is the first time Vee has answered one of his beautiful evasions without repairing it for him. She saw the move. She refused to be diverted by the fact that nobody else has what they have. Of course she would not trade it—but she is not asking whether it is pleasurable or exceptional. She is asking whether it is hers in the way she has been led to believe. And when his face shut and his arms folded, there it was: not inability, not confusion, but a line he had already decided he would not cross.
+This was the third quiet chapter, technically, but it didn’t feel like another pause. It put a finger directly on the missing definition at the center of everything. I’m continuing because now the book has named the problem without explaining it to death: Vee has built a nearly domestic life with a man she can’t describe to her best, safest friend—and “boyfriend” comes out sounding like a question.
 
-I hated his reaching hand more than I expected to. Those hands have been the safest thing in this book. I have trusted them with her body even while distrusting the man’s larger choices. But she understood instantly that if he touched her, he could regulate the pain without answering the question. “Not the hand in place of the word.” Yes. Exactly. Do not let exquisite care become anesthesia.
-
-And then he called her name—as though naming *her* could substitute for naming what he has made her to him. She walked out anyway. I am heartbroken, furious, and so relieved I could scream. This is the most adult thing she has done: not withdrawing the question just because the answer hurts, not accepting warmth as proof, not staying because the cold outside is worse.
-
-I need the next chapter immediately. I need to know whether Pace follows her with the truth or lets her drive away because protecting the concealed structure still matters more than protecting her. And if Randi gets the wounded version of this before Vee gets the truth, I may actually combust.
-
-GATE 45 — Believe Me
+GATE 45 — Cropped
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Vee finally demanded the meaning of what she has been consenting to, recognized care used as a substitute for an answer, and walked out before Pace could soothe her into silence. I am furious with him, ferociously proud of her, and there is no possibility I stop here.
+WHY: Cassie asked the exact grown-up question Vee has been avoiding, and Vee’s inability to answer pulled me closer rather than frustrating me. I need the next chapter to press on the relationship’s missing name—or finally bring the hidden structure into the room.

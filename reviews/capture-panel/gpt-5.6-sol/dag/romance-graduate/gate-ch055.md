@@ -1,16 +1,24 @@
-*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~213059ecdcb4 · 2026-09-11*
+*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 122f2504f31e · 2026-10-01*
 
-REACTION — Oh, Vee. “We talked all night”? No, sweetheart, you fucked on the doorstep, ate pancakes, and let his care fill the space where the answer should have gone. I understand why it feels true to her—her body stopped hurting, he said he missed her, and now he wants to meet her friends—but hearing her confidently rewrite the weekend made my stomach drop. Randi’s version has settled all the way in: the coat was an apology, the fight was Vee’s fault, and spectacular sex was Pace’s language of forgiveness. Meg’s maple-bacon comparison innocently seals it. Nobody at that table knows Vee was apologizing for asking what she is.
+Oh, this got me. The heels going on first, the respectable church coat over absolutely nothing, Vee looking at herself and deciding she was ready instead of dirty—I was completely inside her nerves. And the denial in front of the mirror was viciously hot. Carrying herself to him wound that tight, then nearly getting pulled over? I would have died. Kayla’s laundry monologue while Vee stood there naked under wool was exactly the kind of unbearable, funny humiliation that makes the heat feel lived rather than staged.
 
-And yet: Pace wanting to meet her people got me. Not merely Randi—the whole untidy constellation, including Cassie, Kayla, Meg, and even Theo. Remembering names and details, accepting the former almost-date without a flicker, finding a gathering where nobody sits at the end: that is real movement out of the sealed house. “Meet the boyfriend” goes by without Vee’s question mark, and I felt how much she needed that. This is the first time their private world seems to be crossing into her public life.
+The doorstep absolutely delivered. Pace’s formal little “Is everything alright?” made my stomach drop, and then watching the wall vanish when she opened the coat was enormously satisfying. Him going to his knees in the cold, the open door banging, her nipples wet in the January air while his mouth was between her legs—yes. That is the explicitness I came for. It was frantic without becoming generic, because it belonged specifically to their month apart, his patience, her shame, her body, that doorway. Even the graceless attempt to make it to the bed felt more intimate than a perfectly choreographed scene would have.
 
-But Wednesday has alarm bells all over it. Pace knows Randi already. Vee is glowing over the prospect of introducing her two favorite people while they share an entire concealed history. The dramatic irony is almost unbearable. Cassie will be there, thank God, but I’m now intensely suspicious that this dinner is not merely a sweet gesture. Pace said “let me handle it,” and with this book that can mean tenderness, orchestration, or both.
+And afterward, his head on her breasts, the pancakes, “I missed you so much” with his voice cracking—I felt all of that. I believe his love. I believe her relief. I believe that for one night the food, warmth, sex, and care genuinely filled every space in her.
 
-The breakfast itself made me happy: Vee spending her Christmas money without panic, rescuing the morning, sitting among friends with ease. She has “the middle of it all,” which is lovely—and terrifying, because she still doesn’t know what the middle actually contains. I’d text a friend: SHE JUST TOLD EVERYONE THEY TALKED. THEY DID NOT TALK. ALSO THE SECRET COUPLE IS ABOUT TO BE “INTRODUCED” OVER DINNER AND I AM UNWELL.
+But “nothing needed saying now” made me want to throw the Kindle.
 
-GATE 55 — Across
+Everything needed saying. That is the whole wound. Vee asked for words, held the boundary, and left; Randi persuaded her that asking was an injury she should repair with her naked body; and Pace accepted that repair without answering the question or admitting that Randi exists. The chapter is so hot that I understand exactly why Vee feels restored—and that makes the manipulation worse, not better. She thinks she took this into her own hands, while wearing the shoes chosen by the woman who lied to her. Pace even noticed enough to order that they stay on, and I am now wildly suspicious that he recognized them.
+
+“I missed you so much” is beautiful. It is also still the smaller sentence. Once again he gives her something true, tender, and devastatingly effective just beside the truth she requested. And Vee deciding there is “no room” to want anything else reads less like resolution than temporary satiation. Of course there is no room: she has been orgasmed, fed, warmed, tucked in, and shown his grief. This man knows how to make every unmet need go quiet without ever naming it.
+
+Cassie seeing the outfit at the end made me laugh, but I wanted her clean question immediately. Vee is incandescently happy, and I’m happy for her body while terrified for her heart. I am absolutely continuing because this cannot be allowed to stand as the repair. The eventual revelation about Randi is now going to detonate inside a reconciliation Vee believes she chose freely, and I need to see whether the book knows how morally ugly that is.
+
+GATE 55 — Nothing Underneath
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-ALMOST-STOPPED: none
-WHY: This was a bright, social bridge chapter, but the cheerful lie Vee now believes and the approaching dinner tightened everything underneath it. I absolutely need to see Pace and Randi pretend to meet—and whether Cassie notices the air change.
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “and said nothing, because nothing needed saying now.”
+WHY: I was completely consumed by the heat and genuinely moved by Pace’s cracked-open tenderness, but the chapter’s erotic triumph is also Vee surrendering the demand that made her leave. I need the next chapter now because the sex repaired the feeling, not the lie, and Randi’s shoes are still on Vee’s feet.

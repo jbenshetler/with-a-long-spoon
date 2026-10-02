@@ -1,19 +1,20 @@
-*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~d6bbb290a65b · 2026-09-11*
+*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-01*
 
-REACTION — Oh, this hurt. “Words are cheap, and you still won’t spend them on me” went straight through me. She finally asked the exact question, clearly and without hiding inside a joke or offering him an easier version, and he still tried to answer around it. The warm house, the food, the wine, the care—everything that has made me love him suddenly felt like part of the trap, because he keeps offering her a thousand beautiful proofs while refusing the one answer she is explicitly asking him to risk.
+REACTION — Oh, that last “She was also, a little, not” got me. Cassie is so careful with Vee that Vee can feel the empty space where being pressed might have let her finally say something true. Everyone else in her life draws things out of her because they want something from the answer. Cassie asks because she wants to understand, then accepts that Vee may not be ready. And somehow that clean respect is almost harder to bear.
 
-And no, “Do any of your friends have a relationship you’d rather have?” is not an answer. It almost made me furious. She isn’t comparing amenities. She needs to know whether he will claim her in the world, whether she belongs in the truth of his life and not merely inside this exquisitely tended house. His question asks her to accept that because the relationship feels better than other people’s, she has no right to ask what it is. That is not the Pace I want. Or maybe it is the part of Pace I have been afraid of all along: the man who believes his conduct is so careful that he should never have to submit himself to being questioned.
+“Cropped” is the whole ache of it. She cropped the photograph for her parents, cropped Pace down to the pieces her father could approve of, cropped the dress’s making out of its own story, and then discovered she cannot fit what Pace is to her inside “boyfriend” without putting a question mark on it. I don’t think the question mark means she doubts how much she loves him. I think it means the ordinary word is too small for the intensity and too simple for a relationship she still cannot fully define—even before she knows how much has been withheld from her.
 
-Vee was magnificent here. She named every good thing without letting gratitude erase her need. She even protected him in the middle of confronting him—made sure he understood she wasn’t repudiating the sex, the care, or what he has awakened in her. And then she gave him the simplest possible opening: *Who am I to you?* He could have said girlfriend. Partner. Beloved. He could have said he didn’t know the word but wanted to find it with her. He could have admitted that words frighten him. Instead he folded his arms and chose silence.
+The dress detail hurt in a lovely way. Pace making it is more intimate than buying it precisely because he listened to one passing want, learned the shape of it, and made it with his own hands. Vee understands that her father could categorize sex more easily than that kind of male tenderness. “Weird is worse than wrong” rang painfully true: wrong can be argued with, but weird gets treated as though it has no legitimate place in the world. I wanted Vee to defend Pace aloud, and I also understood why she protected the private thing by leaving it out.
 
-That folded-arms moment scared me more than if he had shouted. He was not confused anymore. He understood that she needed words, understood that withholding them was hurting her, and held the line anyway. His reaching for her once she cried did not soften it for me. Of course he knows how to comfort her body. That is exactly the problem. She saw it too: *not the hand in place of the word.* Thank God she left before his touch could make the pain bearable enough to bury again.
+But I’m uneasy that her instinct with everyone outside Pace’s house is increasingly to edit. She gives her parents the acceptable Pace, gives Cassie almost nothing, and returns every weekend to the man who has become too large to explain. Pace may be worthy of the love she is giving him, but secrecy is accumulating around that love from both directions. He is keeping Randi from her; Vee is keeping the true scale and shape of him from the people who might help her see clearly. Those silences are not morally equal, but together they are isolating her.
 
-And beneath all this is the fact that even the answer “you’re the most important person in my life” is poisoned by the secret. Is she? Where is Randi in that sentence? What does “my life” mean when Pace has hidden an entire architecture of that life from her? He is asking Vee to believe what he does while making sure she cannot see everything he is doing. That is breathtakingly unfair.
+And Cassie—God, Cassie. “Not to your dad. To you.” No interpretation, no seduction, no answer supplied in advance. Just the exact question Vee needs. I wanted Cassie to ask once more, even though the reason I trust her is that she didn’t. I’m very ready for Vee to stop living in cropped versions of her own life.
 
-I am not leaving this book. I am far too emotionally caught, and Vee walking back into the cold instead of accepting another wordless repair is exactly the choice I needed from her. But Pace has finally lost the benefit of my romantic interpretation. His drawers and meals and warm rooms are real love to me; they are no longer enough. He must go after her with truth, not dinner, not sex, not those devastating hands. Truth—and soon.
-
-GATE 45 — Believe Me
+GATE 45 — Cropped
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Vee finally refused to let tenderness substitute for an answer, and I am fiercely with her. Pace’s silence has stopped being merely frustrating and become an active choice that wounds her; now I need to see whether he can risk the truth before he loses her.
+WHY: This was quiet, but it put a finger directly on the problem: Vee cannot name what Pace is to her, even to the safest person she has. I want the next chapter because all these carefully cropped truths are becoming impossible to keep separate.

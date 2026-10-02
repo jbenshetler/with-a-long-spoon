@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch052 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 122f2504f31e · 2026-09-19*
+*capture-dag-v2-rich · gate ch052 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c1f15218cc12 · 2026-10-01*
 
 REACTION:
 
-Oh, god. My stomach is in absolute knots, and I am torn straight down the middle between being utterly, breathlessly turned on and wanting to scream at the top of my lungs.
+I needed this scene like oxygen. After watching Vee freeze in her childhood bedroom, spiraling in the dark and imagining Pace at the stove whipping up gourmet meals for some nameless, leggy fantasy replacement, getting inside his actual, unglamorous reality was pure catharsis.
 
-Because as pure erotic romance? That sequence was off the charts. The build-up in the dorm—her realizing she was putting her shoes on *first*, the unbearable masturbation in front of the mirror where she denied herself the finish just to carry that electric tension through the freezing night, the cop car scare on the highway, the dark stain soaking into the satin lining of her good coat—it was magnificent. And then the payoff on the porch: the front door swinging and banging in the January wind, him dropping straight to his knees on the freezing deck to eat her out while she stands there in those ridiculous strappy heels, carrying her into the den with his jeans tangled around his thighs... holy hell. The sheer, feral physical relief of their bodies colliding after a month of starving was everything I wanted from a reunion bang. It was filthy, desperate, and beautiful.
+He isn't lounging in silk or effortlessly moving on; he’s sitting in a greasy double-wide diner off a country road, eating a cheeseburger across from a scrappy, foul-mouthed lesbian who sees straight through his polished intellectual armor and calls him out on his absolute nonsense. Sheri is the best thing that could have happened to this book right now. Watching her pop his balloon—laughing directly in his face when he started waxing poetic about the "philosophy" of his cooking—was deeply satisfying.
 
-And *then* the trap snapped shut.
+Pace builds these elaborate, pristine walls of competence and care, convinced that doing everything right on paper exempts him from ever having to bleed. He truly thought laying out a tidy list of his domestic virtues and saying she’s the most important thing in his life was enough. And Sheri cuts right to the bone with surgical precision: if you won't say the words, then your stubborn, self-protective silence matters more to you than keeping her.
 
-Because the morning after—the pancakes, the gentle teasing, him dropping to his knee to say his voice-cracking "I missed you so much"—is so exquisitely tender that Vee completely forgot the war she was fighting. She thinks she won. She thinks she took control, made an offering, and broke through his walls. But look at what actually happened: she surrendered every single scrap of the emotional ground she bought with her tears in December. She demanded words, he refused them, they starved for a month, and then she showed up naked on his porch, fed his cock, let him cook her breakfast, and walked away completely satisfied without him *ever having to say the words.*
+He knows it, too. You can feel the quiet terror in him when he admits he can't say it. He misses her, he’s miserable, and his own emotional cowardice is a prison he built with his own two hands. He couldn't handle Chili's because the noise drowned out her voice, but here in the quiet of an empty diner, the only thing deafening him is his own refusal to bend. The contrast between Vee's terrified fantasies of him moving on and his actual, lonely reality of nursing a glass of tea while someone tells him to get over himself is devastating.
 
-Randi's advice worked like a charm, but it worked to *Peter's* rules, not Vee's. Vee traded her pride and her boundary for a plate of homemade pancakes and an orgasm. He didn't say "I love you." He said "I missed you." And because her belly is full and her cunt is sore, she thinks that's enough. She walked back into that dorm room on Sunday in his oversized sweats and Randi's heels—literally wearing the skins of the two people orchestrating her life—and Cassie's little "Hmm" spoke volumes. Cassie knows. Cassie sees a girl who just folded completely.
-
-I am sweating. The book gave me the high-heat reunion I was desperate for, but it didn't cheat the psychological tragedy to do it. Peter still hasn't cured his Daphne sickness; he just got rewarded with a naked girl on his doorstep for staying silent. The collision when the semester starts is going to be brutal.
-
-GATE 52 — Nothing Underneath
+GATE 52 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The masturbation sequence and porch reunion were extraordinarily hot, but the sinking realization that Vee just surrendered all her leverage for pancakes and sex makes the psychological tension agonizingly good.
+WHY: The outside perspective of a blunt friend stripping away Pace's intellectual rationalizations was desperately needed, providing essential emotional movement after the walkout.
+
+Would you like to discuss the next chapter?

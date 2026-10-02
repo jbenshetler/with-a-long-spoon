@@ -1,28 +1,20 @@
-*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ec1574909bf3 · 2026-09-19*
+*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bff68c2a8905 · 2026-10-01*
 
 REACTION
 
-Oh. Oh, this is the good stuff. This is *exactly* the chapter I have been waiting for, and it hit every single note I care about so hard I could scream.
+Oh, Peter.
 
-First of all: the consent in this chapter made my whole chest ache in the best way possible. When they are in the absolute middle of it—she’s had two massive orgasms, he’s deep inside her, moving, the heat is unbelievable—and he goes to kiss her with her own wetness on his mouth, and she freaks out. The old conditioning flares up, she puts her hand up, pulls away, and says, *"Ugh — gross. That's — no. Wrong."*
+I’ve been so angry with him since the porch, and then furious after he let her walk down the drive into the dark, but watching him wake up in that silent, sterile house with the mop bucket still in the hall and the cheap smell of bleach in the air completely wrecked me. When an alpha hero who prides himself on absolute physical competence, iron discipline, and feeding people like an act of devotion is reduced to gagging down steamed plain chicken out of a plastic pouch over the sink just to keep his hands from shaking… that is a man in utter ruin.
 
-Look at what Pace does. In ninety-nine percent of books on this shelf, the dominant hero would hold her back of the head, smirk, tell her she's being a bad girl, and force the kiss on her anyway while the narration calls it "overwhelming passion." I would have thrown my phone across the room. But Pace? Pace stops *dead*. He immediately starts to pull out of her. He gives her the power instantly. And when she clamps her legs and tells him not to stop the sex, just the kiss, he reads the distinction, wipes his mouth, and gives her that gentle, unoffended *"Okay."* No pouting. No bruised ego. No dominance game where her boundary is a challenge to be conquered. He respects her *no* immediately, leaves her mouth alone, and moves to her jaw and throat until *she* decides she wants him back. That is what real control looks like. That is what a man wholly focused on a woman actually does. He makes room for her even when he's out of his mind with desire. God, it made me love him so much.
+And the reveal about Daphne explains the entire locked box of his chest. It doesn’t excuse what he did to Vee—Sheri was dead right in the diner when she told him that choosing his fear over her was a terrible thing to do—but it makes psychological sense. He convinced himself that withholding the sentence was what kept him alive when a woman left, like the word itself was the detonator instead of the feeling. He thought he was protecting his boundaries, when all he was really doing was starving the one person who actually saw through the food to his soul.
 
-And Vee in this chapter! Watching her step into her own power, flipping the script from "kept woman" to "pleasure princess"—calling the shots, wagging her finger at him at the sink, pointing where she wants his mouth, demanding to be fed first—was an absolute feast. She spent so long shrinking herself, hiding in big sweaters, feeling like her appetite was a dirty secret. Seeing her prance down that hall naked, owning her body, making him burn toast because he literally cannot look away from her... it was joyful and funny and unbelievably hot. The sex was stunning—not just physical mechanics, but full of that deep, heavy, domestic tenderness where every kiss is laid down like a tile and the cashmere blanket takes the ruin of her.
+The moment the truck went by on the road—when his whole body tensed toward the driveway, expecting her little car, and then the sound just carried on down the highway—felt like taking a hit straight to the ribs. Having him break down sobbing alone over cold, rubbery chicken and tepid black coffee hurt worse than any screaming match could have. He knows exactly what he threw away. He knows he traded the real thing for safety, and the safety tastes like cardboard. Now the question is whether his pride will let him stay broken in that kitchen or if this finally forces him into the daylight to find her.
 
-And then... the chill at the very end. The way the trap door quietly clicked open.
-
-Vee is lying there, completely sated, floating in the warm glow of victory, thinking Pace just "forgot to wipe" this once. But she’s already wondering: *Why does he like it so much? Has he always brought it to me?* Her tongue is literally hunting for the taste of herself on her own lips, and she doesn't even realize she's crossing the exact threshold the jacket promised.
-
-And who is she going to tell about it on Tuesday? *Randi.*
-
-"Randi would know what to make of it. Randi always did."
-
-I had chills. Vee thinks Randi is her big sister, her fairy godmother who lent her the heels and the coat to get her man back. She has NO IDEA Randi is completely in love with her, sitting across that table in their private two-person class, waiting for every single detail. Vee is going to bring this specific, intimate confusion—tasting a woman, tasting herself—straight to the woman who is starving to kiss her. It is so psychologically brilliant, so messy, and so dangerous. I am vibrating.
-
-GATE 53 — Missed a Spot
+GATE 53 — Not Enough
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The consent in the middle of that scene—Pace instantly stopping, reading her boundary, and respecting it without a drop of sulking or coercion—was masterclass romance. And ending on her planning to tell Randi about the taste on his mouth? I need Tuesday immediately.
+WHY: Seeing his immovable, controlled exterior completely shatter over the sound of a passing truck gave his silence the devastating emotional weight it desperately needed, and now I need to see what he does when he stands back up.

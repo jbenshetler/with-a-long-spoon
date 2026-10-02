@@ -1,28 +1,32 @@
-*capture-dag-v2-rich · gate ch049 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha c1f15218cc12 · 2026-09-19*
+*capture-dag-v2-rich · gate ch049 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-01*
 
-REACTION:
+**REACTION**
 
-Oh, thank God. Thank *God*.
+Oh, my chest actually aches. I’m sitting here with my hand pressed against my ribs because that hurt so much worse than a screaming fight ever could. That was brutal. That was the exact, quiet car crash I’ve been dreading for ten chapters, and it played out with every single millimeter of agony it deserved.
 
-I was in absolute agony through chapters 44, 45, and 46. Watching Vee spiral in the dark, watching her pull off his flannel shirt because the warmth was just her own heat reflected back, watching her march into his house and demand a name only for him to say *“Words are cheap, believe what I do”*—I wanted to scream at him! It was so painful because he wasn't being cruel, but that stubborn, stoic silence of his was starving her in the exact way she couldn't bear to be starved. And then Vee lying in her childhood bed on New Year's Eve, torturing herself imagining Pace with some gorgeous tan blonde at the stove...
+Vee walking in and leaving the bag in the car—keeping the coat buttoned—that was everything. She walked across that threshold knowing she couldn't let his house swallow her up this time. Because that house is an absolute cocoon. The turned-up heat, the wine waiting on the counter, the slow piano, the food simmering—it is paradise, but it’s a paradise behind a closed door. And she finally looked at him and said what has been poisoning her from the inside out: *What am I to you out there?*
 
-And where is he actually? He is sitting in a rusted tin-roof double-wide diner off a dark county road, drinking sweet tea across from a five-foot-tall, foul-mouthed country girl with two-toned hair and too much makeup, who steals his fries and calls him on his absolute bullshit.
+When she laid out all the good things—the way he feeds her, the care, the unbelievable sex, how he makes her feel like a girl with a body rather than just a body—and then showed him how ugly and hollow it sounds when you have to explain it without a title? God. It cut right to the bone. Because she’s right! If you strip away the words, if there’s no commitment you can speak in the daylight to your father or your roommate, then all that breathtaking intimacy starts feeling like an elaborate gilded cage.
 
-I *love* Sheri. I love her so much I could hug her. Vee was terrified Sheri was a lover; Sheri is actually a lesbian bike mechanic from a fractured family who hugs him like a brother and tells him straight to his stubborn, intellectual face: *"Then not saying it matters more to you than having her. And I'll tell you—from this seat, that feels pretty shitty."* YES! Preach it, Sheri! Hit him with a wrench!
+And Pace. God damn it, Peter. When he asked her if any of her friends had a relationship she’d rather have, my stomach just dropped. It was so completely *him*—rational, analytical, holding up the undeniable quality of his devotion like a mathematical proof. He really thinks the evidence speaks for itself. He thinks chopping the wood and warming the sheets and giving her his whole weekend is enough. But then he said it: *"Words are cheap. Believe what I do."*
 
-Getting Pace’s point of view here did something huge for me. If this chapter hadn't happened, his refusal to say "I love you" or give her a title in Chapter 46 would have started looking like classic romance-novel emotional withholding—that fake, toxic control where the hero refuses to give the heroine basic security just to keep the upper hand. But seeing inside his head, seeing how much he genuinely misses her (*"I want Vee. I miss her."*), and seeing how *incapable* he feels—not smug, but backed into a corner by his own damage—changes everything. He has walls made of iron. *"People who've never lost anything think grief is a choice."* There is so much unresolved trauma around his family and whatever broke him before he built this hyper-controlled, hyper-competent life.
+And her answer—I swear I stopped breathing. *Words are cheap, and you still won't spend them on me.*
 
-And seeing how he defends her! He corrects Sheri immediately: *"Her name is Vee."* And the way he talks about her—not just the sex, but how she understands the intention behind the things he builds for her, how she sees the care. He is down so bad for this girl.
+That line destroyed me. It completely gutted him, too—you could see the iron come down behind his eyes when he folded his arms and took that step back. He shut down because she hit the exact place where his control fails. He can build her a dining table with his bare hands, he can bring her to her knees in his bed, he can clear his drawers for her, but he cannot—or will not—give her the verbal vow of who she is to him. And we know why! That’s the sickening dramatic irony hanging over this whole thing: he *can't* name it cleanly because he and Randi set this entire dynamic up before Vee ever crossed his threshold. He is trapped by his own unexploded lie, and watching Vee take the shrapnel for it is tearing me in half.
 
-Also, Sheri casually dropping that he brought Randi dancing before Thanksgiving?! *"She looked at me like I was one more of your harem applicants. Never did learn my name."* That little thread reminds me of the bomb ticking under the whole book. Pace and Randi have history, Randi looked down her nose at Sheri, and Vee is in the middle of all of it, completely blind.
+And then the ending—when she started crying, and his instinct was to reach out with those big, capable hands to physically soothe her, to pull her into his chest and let the warmth smooth it over like he always does? And she walked out into the freezing night instead. *Not the hand in place of the word.*
 
-Pace knows what he has to do now. Sheri stripped away all his high-minded excuses about "brick on brick" actions. He either has to spend the words, or he's going to lose the girl who makes the air crackle. Go get her, you stubborn, beautiful idiot.
+Yes, Vee. YES. God, it broke my heart to watch her drive away into the dark, but I have never been prouder of her. A heroine who refuses to let physical comfort and incredible touch substitute for genuine, open-air emotional clarity is everything I read for. She didn't let him soothe away her boundaries. She stood on her own two feet, demanded to know her place in the daylight, and when he couldn't give it to her, she walked.
+
+I’m frantic. I need to know what happens next. Does he chase her? Does he finally break his silence, or does he run to Randi? If this book thinks I can go to sleep right now, it’s out of its mind.
 
 ***
 
-GATE 49 — The Usual
+GATE 49 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Sheri was the absolute breath of fresh air this book desperately needed. Having an outsider look Pace dead in the eye and tell him his stoic refusal to say the words is "pretty shitty" completely redeemed his character for me after the heartbreak of Chapter 46. I need to see what he does when term starts.
+WHY: The emotional integrity of this confrontation was astonishing; Vee refusing to let his physical tenderness overwrite her need for daylight clarity is the absolute peak of why I love this book.

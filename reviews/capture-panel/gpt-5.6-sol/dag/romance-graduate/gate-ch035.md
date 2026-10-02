@@ -1,21 +1,26 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~3fae9b31dd45 · 2026-09-10*
+*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 13e407d9f33a · 2026-10-01*
 
-REACTION — Oh, hell. The top drawer got me worse than the spanking.
+REACTION — Oh, this got me. Not just the spanking—the play before it, Vee discovering she can be quick and wicked and ridiculous with him, flashing him because she wants him to chase her. That freedom was hotter than any rehearsed dominance routine could have been. And when she said “Don’t,” his hand was simply gone. Then she had to feel the wanting that remained and call him back herself. *Yes. We find out.* There she is. That is exactly the combination I’ve been starving for: explicit, psychologically alive, and built around a choice that actually belongs to her.
 
-She loves him. She has finally let herself know it, privately and without bargaining, and I should be floating with her—but I can’t forget that he goes to sleep beside another woman carrying a truth that would change the meaning of this entire happiness. Vee is counting the door, the salmon, the tomatoes, the scrunchies as all the ways he says love without saying it, and she isn’t wrong. That is what hurts. He does love her. The tenderness is real. He is also letting her build a future out of gestures while withholding the one fact she would need to understand what future he is actually offering.
+The finger held between them nearly killed me. Not because she was wet—I have read that scene approximately eight hundred times—but because he looked at the evidence of her appetite as something true and fine. He doesn’t merely permit the part of her she thinks is shameful; he receives it with pleasure and without surprise. Then “Slow. For me.” God. He gives the undressing back to her as an offering she can make, and she loves being asked. That distinction matters enormously with these two.
 
-And Peter in the dark absolutely ruined me. She uses the name no one else gets, whispers it only when he cannot hear, and thinks of his scar as something she means to keep. That is such a naked little act of love. I wanted him to wake up, and I was relieved he didn’t, because I cannot bear for him to receive that gift while Randi still exists in the locked room of their life.
+And I loved that the spanking was nothing like Randi’s story. Vee arrives expecting someone else’s theater—counting, humiliation, punishment—and Pace pays attention to *her*. Quiet, touch after every strike, kisses, enough space for her body to answer before he asks for more. It felt intimate rather than like the book pulling a kink scene off the standard KU shelf and slotting their names into it.
 
-The bathroom sequence hit my exact domestic-romance weak spot. Vee sees her things spread over his immaculate counter and immediately assumes her presence might be too much. Then when they disappear, she doesn’t imagine welcome; she imagines that a quiet man has quietly corrected her. Of course she does. She has spent her life reading accommodation as danger and abundance as excess. And then: her things in the top drawer, his own orderly life compressed into the inconvenient one below. God. He didn’t reassure her. He rearranged the house around her existence.
+That said, the “debt,” “payment,” and “offered up to her own wanting” language pressed a little too hard on the meaning for me. I was already there. The scene did not need to turn and explain its own gorgeous machinery. But then the juice absolutely wrecked me. Not some immaculate alpha aftercare speech: juice, because she needs something, followed by her head in his lap and “wonderful” becoming indistinguishable from his hand in her hair. “Treasured” is a dangerous word to use this directly, but the scrunchies earned it. A whole card of them, no note, enough for a future. That is romance to me.
 
-That is exquisitely loving and also not enough. “He never said” is starting to throb. His actions are beautiful, but silence is currently doing two jobs: giving his care its lovely, unshowy shape and protecting him from telling her the truth. Vee is learning that she can trust what he does instead of needing words, and that lesson could destroy her when she discovers what his actions never disclosed.
+Her deciding to bring a bag felt enormous. That is not just planning for sex. That is Vee allowing herself to expect a next time, to occupy space in advance, to arrive with needs instead of repeatedly washing herself in whatever he has available. She is beginning to believe she can be kept.
 
-Also, the sex being mostly aftermath here worked on me because the charge hasn’t gone anywhere. The door, the coats on the floor, him still taking his time after a week apart, then wanting her again after dinner—that feels like actual appetite rather than a scheduled genre scene. And her eating hungrily at his table made me happy, though the casual “sex is burning the weight off her” explanation gave me a small sideways look. Please don’t turn her becoming fully alive into becoming smaller. Her body was never the problem.
+And then the sentence that froze me: “no Randi to be told.” Oh, Vee. There is absolutely a Randi to be told. There has been a Randi being told this entire time. Vee experiences that bed as a country without witnesses while Pace’s hidden lover has already supplied the fantasy vocabulary running through her head. The scene is genuinely hers; every yes is hers; the tenderness is real. And the concealed structure is now unbearable. If Vee tells Randi about this—and of course she will—I am going to be reading through my fingers, because Randi helped plant the idea and Pace knows she did.
 
-But the drawer. The easy drawer. The one a hand reaches for first. I would be texting someone at one in the morning: HE GAVE HER THE TOP DRAWER AND I AM FURIOUS WITH HIM.
+Also: he flinched when she poked his thigh. The scar is in that thigh. I noticed. Vee didn’t ask, and I understand why she didn’t ask in that moment, but I am not letting it go.
 
-GATE 35 — Above Him
+The curry at the end made me almost indecently happy. Of course after opening a new appetite in her, he feeds her something abundant, unfamiliar, hot, and impossible to confuse with home. I want to stay at that table. I also want the truth to arrive before every act of care curdles retroactively.
+
+GATE 35 — We Find Out
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: Vee’s happiness is so complete that I feel protective panic underneath every tender detail. The top drawer is exactly the kind of grown-up, domestic intimacy that owns me—and the secret has made it a lit fuse.
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “She was being offered up to her own wanting, and both of them knew it”
+WHY: The prose briefly explained a scene that was already doing its work, but the heat, consent, play, and devastatingly ordinary tenderness were exactly what I came for. Now the line about there being “no Randi to be told” has put a blade under all that safety, and I need the next chapter immediately.

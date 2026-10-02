@@ -1,19 +1,24 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~b727880313ed · 2026-09-10*
+*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 8429b6ba440f · 2026-10-01*
 
 REACTION
 
-Oh, Cassie. That forty seconds of her not looking at the professor because she is looking at Vee—not for gossip, not for proof, not even for the story, just checking whether her friend had a good night—got me right in the chest. And then she hears the real yes, sees Vee is happy, and simply goes back to her highlighter. No excavation. No making Vee perform intimacy to earn her care. I need Vee not to lose sight of what a rare thing that is just because Randi’s attention burns hotter.
+Oh, this is dangerous. Not because Vee told Randi about the sex—she still kept the actual center for herself—but because Randi just became the person who can take Vee’s shame, turn it in her hands, and give it back as agency. Cassie gives Vee safety. Pace gives her attention. Randi gives her a version of herself she wants to believe. That may be the most intimate power anyone has over her.
 
-And Randi does burn. “You lucky slut” is exactly the word Vee wants transformed, delivered by exactly the woman whose approval goes straight into her body. Then the shoes become a date before Vee can even frame them as a money problem. I’m excited because shoe shopping with Randi is obviously going to be charged beyond reason, but I’m already tense about the price tags. “We are not quitting” sounds playful when Vee hears it; to me it sounds like Randi taking possession of the day, the outfit, and the version of Vee who will walk into that induction. Randi keeps making herself indispensable at every threshold.
+And the awful thing is that Randi did something genuinely good here. Last time she translated “I chose him” into “you couldn’t help it because of him,” and I hated her for it. This time she caught Vee making Pace the subject of every sentence and returned Vee to herself: you painted your toes, you bought the underwear, you knew, you drove there, you wanted it, you took it. That is exactly what Vee needs to understand about the night. It’s true. It’s healing. It also came from a woman who already knew half the answers and staged the man. I cannot separate the gift from the trap, and apparently neither can the book.
 
-And good God, Simpson’s paradox. Same untouched facts, opposite conclusion depending on how they’re grouped. That is the whole trap sitting openly on the board while Vee is literally between the honest friend who lacks the facts and the deceptive friend who possesses all of them. Nobody has to falsify a single yes for the total story to reverse. Nobody touched one of the numbers. I felt the floor tilt.
+“You’re not caught, sweetheart. You’re lucky” made my entire stomach tighten. Vee is caught. Not by her desire for Pace—that part is hers, and Randi is right that she doesn’t need to fear it—but by two people who have arranged themselves as the answer to every hunger she has. And Randi knows perfectly well that “caught” is the precise danger. Whether she is consciously soothing Vee away from suspicion or speaking from her own desperate belief that love makes the deception permissible, I don’t know. Possibly both, which is worse.
 
-The final image should be uncomplicated happiness: Vee between “both her girls,” full of sex and silk and anticipation. Instead it scares me because she really is happy, and because every component of that happiness is real. That is what will make the eventual accounting vicious. At one scale Pace made her a dress, Randi gave her language, and Vee chose everything. Put the years—or the people—together, and we may discover she has been living inside a different story without one fact changing.
+Also: “because I love you.” Excuse me? Smuggled into the sentence as girlfriend shorthand, safely deniable, while Randi sits there hearing about Pace and touching Vee’s hand. She can say it if it arrives wearing a joke. She can kiss Vee if it arrives wearing a goodbye. She can want this whole arrangement as long as every piece has another name.
 
-Also: the dress has still been shown to “not one living soul,” when Pace has seen it and made it. That tells me the person Vee means to reveal in that dress is herself. I desperately want her to get that moment before the secret poisons it.
+And Vee met the second kiss. That is the turn for me. No frantic scan of the windows, no French-custom nonsense, no recoil into explanation. She expected Randi’s mouth and answered it, then drove home happy. She still isn’t naming her desire, but her body has stopped pretending it was an accident. I would text a friend at one in the morning: *Randi is grooming her and loving her and teaching her to claim herself, all at once, and I am losing my mind.*
 
-GATE 22 — All Told
+The brunch itself had charge without needing to become explicit. Randi teasing out the toenails and the new underwear felt almost more exposing than Vee describing mechanics would have. “That’s a campaign” delighted me. But it’s the emotional triangulation that has me by the throat: Vee thinks Randi is the one safe person to tell about Pace, while Randi is secretly listening to an account of the man she already shares and the woman she wants for herself. Every true tenderness makes the eventual reveal less survivable.
+
+GATE 22 — Fed
 DECISION: CONTINUE
 CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Cassie’s quiet love made me ache, Randi’s “date” made me want the next chapter immediately, and that classroom reversal turned Vee’s happiest morning into a warning she cannot yet hear. I’m fully caught between wanting her joy to last and needing the hidden total exposed.
+WHY: Randi gave Vee her own agency back while quietly fastening herself more deeply into Vee’s emotional life, and I can’t look away from that combination of care and violation. Vee meeting the second kiss without fear is a real turn in the bond; now I desperately want to know who first becomes unable to keep calling this friendship.

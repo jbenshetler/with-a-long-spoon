@@ -1,21 +1,26 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~0511a4346bd0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-01*
 
-REACTION — Oh, Randi. You breathtaking, loving monster.
+REACTION — Oh, Randi. You gorgeous, calculating coward. I have wanted inside her head for so long, and now that I’m here I’m somehow more in love with her and less willing to excuse her.
 
-Vee arrives destroyed because she asked for the most reasonable thing in the world—*tell me what I am to you*—and Randi takes every true fact, arranges it beautifully, and somehow turns Pace’s refusal to answer into something Vee did to him. “You backed him into a corner in his own house” made me furious. She didn’t demand a proposal at gunpoint. She asked the man who has accepted her body, her weekends, her photograph, her drawerful of belongings, and every unnamed piece of her love to name their relationship. Pace’s history explains why he froze; it does not make Vee cruel for needing words.
+That breakfast told me everything before she admitted any of it: the invented boys, the bracelet kept out of the light, the parents who can accommodate every polished version of her and none of the real ones. Then John gives her the full fantasy she was trained to want—mountain, ball, perfect dress, perfect lead, sleigh, approved husband-shaped man—and she feels nothing lasting. Not because he fails. Because he succeeds without ever reaching her. “This was the best the acceptable world could do for her” is brutal. I felt the cold of that room.
 
-And Randi knows. She knows Pace loves Vee. She knows why he is silent. She knows Sheri is no threat. Most unforgivably, she knows there *is* another woman because she is the other woman, and she looks directly at this crying girl and says, “That is not a man with another woman.” I actually had to sit with that. It is such an intimate lie, delivered in the voice Vee trusts to distinguish fear from reality.
+And Pace. *Pace on his worst night reached further than this man had managed at his best.* So this is the root of it: he is the person who found her underneath, and Vee is the person who makes that hidden self come alive. The contrast in the dancing got me too. John’s certainty is easier; Pace leaves room for her. Randi can surrender to John without risking herself because he never asks for the self she protects. Pace does. Vee does without even knowing she’s doing it.
 
-Then she takes Vee’s legitimate demand for clarity and prescribes a sexual apology. No words, because “words are the whole war.” Of course Randi wants words removed: words are where the hidden structure might become visible. So instead Vee is supposed to arrive naked under a coat, in shoes Randi selected, and offer Pace everything again without requiring him to answer anything. It’s hot—I am not immune, unfortunately—but it’s also horrifyingly precise. Vee believes she is taking the situation into her own hands while Randi is literally scripting the scene and supplying the costume. The fact that Vee completes the idea herself is exactly how this trap works.
+The sex had charge, but the aftermath was the part that really got under my skin: her lipstick left on a man while she remains untouched in every way that matters. That is exactly the kind of explicitness I want—the body can have had a genuinely good time while the person inside it is still starving. No coyness, no pretending an orgasm solves the scene.
 
-And still: Randi clearing the bed without looking twice at her expensive new things, holding Vee past the natural end of the hug, letting Vee breathe her in, missing her just as fiercely—I believe all of that. She loves Vee. That no longer comforts me. Her love is making her manipulation more tender and therefore more effective.
+But I am furious at the conclusion she draws about Vee. She knows she loves her. She knows the friendship is being preserved under false pretenses. And instead of telling her, she consciously chooses the arrangement: say it in two meanings, let Vee hear only one, keep applying pressure until Vee “arrives at it on her own.” There it is. Not accidental flirtation. Not uncertainty. A strategy. Her fear is heartbreakingly real, but fear does not make this fair. Vee’s kindness has become something Randi counts on while withholding the information Vee would need to choose freely.
 
-The New Year story nearly hurt worse than the lie about Sheri. Randi tells Vee the polished fairytale and quietly removes the emptiness afterward, while Vee hears in John everything Pace will not give her: a future spoken easily, public display, unmistakable leading, a story with a name and shape. Then Randi edits the bedroom into a joke and gets Vee laughing. Vee protected Randi’s devastating truth in the library; Randi responds by giving Vee another beautifully curated false version of herself.
+And that New Year’s text nearly killed me. Vee, from the warm honest house, reaching out because she senses Randi might need her. Randi sends back the glittering lie made entirely of true sentences. That is her whole life in miniature. Then she gives Vee the one line she actually means and hides it among emojis where it can’t demand an answer.
 
-I’m completely pulled in, but I am walking into tonight furious. If Vee opens that coat and Pace accepts the offering without giving her the truth—or even the words she originally asked for—I may combust. And those shoes had better not be carrying some secret significance known to Pace and Randi, because Randi sending Vee to him naked in *her* heels already feels like placing a private signature on Vee’s surrender.
+I would text a friend: “Randi just got the fairytale, fucked Prince Charming, felt absolutely nothing, and then knowingly decided to seduce her best friend under cover of friendship because honesty might cost her. I’m obsessed with her. I’m also preparing the guillotine.”
 
-GATE 50 — My Friend Randi
+And meanwhile Vee has just walked out of Pace’s house crying. I am not taking a breath. I need to know whether this memory is about to determine what Randi does now—and whether the two people who love Vee are finally going to stop treating silence as tenderness.
+
+GATE 50 — Fairytale
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is exactly the psychologically merciless heat I bought the book for: I want the doorstep scene desperately, and I’m sick over the concealed machinery creating it. Randi just turned Vee’s demand to be named into instructions to surrender without words, while lying straight to her face about the existence of another woman—and I cannot look away.
+WHY: Randi’s interior life finally opened, and it made her more sympathetic without making her less culpable. The chapter confirmed that her double meanings with Vee are deliberate, and after Vee’s break with Pace I need the hidden arrangement dragged into daylight immediately.

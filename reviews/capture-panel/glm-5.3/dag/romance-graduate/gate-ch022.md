@@ -1,17 +1,22 @@
-*capture-dag-v2-rich · gate ch022 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~b727880313ed · 2026-09-10*
+*capture-dag-v2-rich · gate ch022 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8429b6ba440f · 2026-10-01*
 
-REACTION:
+REACTION — The brunch chapter. The talking chapter. And I'd been half-braced for a stall — two quiet ones in a row would've had me skimming — but this isn't quiet, this is the whole engine running in daylight.
 
-That professor. I see exactly what the book did there — a whole lecture on Simpson's paradox, the same numbers telling you the man is better and worse depending only on how you group them, "nobody touched one of them," while Vee sits between the two women running her life from opposite sides of the plan she can't see. And she gives it forty honest seconds! She's a good student! She almost gets away with not noticing, and so did I, until Cassie's flat stare pulled me out of the numbers too. Nothing was taken from her that she did not hand over — same data, different grouping, different conclusion. I put my Kindle down and said a word my roommate would've asked about.
+Randi's opening story, though. I caught it before I caught myself catching it. "He was so nervous, and in such a hurry, like the building's on fire." That's not an old boyfriend. She's running Pace's night with Vee through the blender — or she's testing what Vee knows, or she's telling herself the story where some man was merely adequate so she doesn't have to sit with what she actually wants. Either way it chilled me for a second under all the sunshine. And Vee just laughed. Vee has no idea she's sitting across from the other half of the plan, telling her everything, exactly as designed — and the horror of it is that the telling is *real*. That's the book's whole thesis playing out over mimosas.
 
-Cassie in this chapter wrecked me more than anything. The made bed, "it's the same bed you made," and then the reveal that she never once watched the lecture OR the dress — she watched what the dress did to Vee. "Was it a good night?" with that second unplanned "Oh, yes," and something in her face easing. She's the only person in this book who loves the girl and not the story about the girl. Which is going to make whatever she finds out about the story — the pointing game, all of it — so much worse. Or make her the one who can hold Vee together after. I keep flip-flopping.
+The toenail scene. God. "You paint the toes for a man who's going to have your feet bare in his hands. You did those Friday. For him." Randi reading her like sheet music, again, and Vee's whole body confessing what her mouth won't. And then the underwear interrogation — "that's a campaign" — Randi delighted, genuinely delighted, and me remembering she's heard the actual details of this man in bed, she's *ridden* him while he narrated Vee's hair. She already knows the answer to every question she's asking. She's not extracting information. She's making Vee *say it out loud to her*, over and over, and getting to watch the face. That's the kink, hiding in plain sight in a glass sunroom, and the book knows I know, and doesn't blink. I had to put the book down for a minute at "You drove over there sure. So why are you telling me like it's a confession?"
 
-And Randi. "Leave nothing out" while knowing already, probably, that the dress is finished — she and Pace built this thing, she has to know the timeline — and she still runs the interrogation for the pleasure of hearing it. The wrist grab, the Saturday shopping date she didn't ask for. Randi's spending time alone with Vee, escalating, and she took "slut" low and got the body inventory (the soreness, the nipples against the bra — Vee's whole night kept in her body all class long, and I loved the book for keeping it there instead of fading it). And I caught the snag nobody said out loud: the induction dress needs shoes, Randi's assigning herself the shopping trip, Randi's dressing Vee for the room that Pace dressed Vee for. Two people planning her outfit, one of whom loves her for free and one of whom helped point the arrow.
+"I wanted it. And I took it. For once." — that's the character arc landing in one line, and Randi handing it back to her clean: "Good." The friend-as-absolution thing is doing exactly what the jacket promised, tenderness with a mechanism inside it.
 
-Also — small thing that got me — the daydream from last chapter ("getting away with something") now literally true: dress zipped in the closet, shown to not one living soul. The secret's still hers. For now. The audit clock ticks under every happy chapter and I keep feeding the account anyway.
+The kiss at the curb again, two presses, and this time Vee didn't scan the windows. The book just quietly moved the needle on the wanting-Randi layer while I was busy watching the dialogue. That's the good stuff — that's a writer who trusts me.
 
-GATE 22 — All Told
+The one shadow I keep poking: Randi went still when Vee described the midnight kitchen. "That's not a story, honey. That's a painting. Keep that one." Stillness from Randi is never free. And she still hasn't heard "Trade." When she hears about the panties — the folded-in-thirds — what happens to her face. That's still loaded.
+
+GATE 22 — Fed
 DECISION: CONTINUE
 CAPTURE: 8
-ALMOST-STOPPED: none
-WHY: The Simpson's paradox lecture laid over the love triangle is the kind of writing I came here for — the plot happening in the subtext of a stats class — and Cassie watching Vee instead of the dress is the tenderest gut-punch yet. Heat in the body-memory, dread in the structure, both at once. I'm in until the detonation.
+NEXT: 8
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: none — the low-heat brunch risk was there in theory but the chapter never let me feel it
+WHY: Nothing physical happens but everything underneath moved: Vee owned her wanting out loud, Randi's wanting-for-Vee got less deniable, and the dramatic irony is now so thick I can taste it. The next thing that cracks — Randi's stillness, Cassie's day, the dress — I need to be there for it.

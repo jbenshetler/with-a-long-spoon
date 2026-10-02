@@ -1,21 +1,20 @@
-*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~9782a926aac2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d4837de434ed · 2026-10-01*
 
-REACTION
+REACTION — Oh, this is what I wanted. Just the two of them in his house, the dishes and the wine and his back under his shirt—and then Vee deciding, entirely for herself, that she wants to show him. Not because Randi arranged the entrance, not because Pace requested a performance. She invents the game, puts him in the chair, tells him to wait, and makes him obey. I loved every second of that reversal. His control makes room for hers without becoming less powerful.
 
-Oh, Cassie. Thank God somebody is counting the nights.
+And the restraint nearly killed me. His hand starting toward her and then being put away. Him staying exactly where she placed him while she walks naked down that hall. He wants her unmistakably, but wanting does not become entitlement. He lets looking be the touch because looking is what she has offered. That is the intensity I came here for: not less consuming because he waits, but more.
 
-“You don’t come home school nights” landed harder than any accusation could have, precisely because she doesn’t turn it into one. She isn’t jealous, prudish, or trying to pull Vee away from happiness. She sees her glowing and is glad for her. She also sees that Vee is disappearing into Pace’s house so quickly she hasn’t even noticed the shape of her own week. Cassie remains the only person who can point at the pattern without steering Vee toward a preferred answer.
+The dress walk felt triumphant, but the second entrance felt intimate in a way the induction never could. She isn’t merely enduring being seen now. She is constructing the sight, carrying it to him, standing inside his attention, and refusing to cover herself. Her desire is doing the directing. Even the blush belongs to her; it doesn’t send her running.
 
-And Vee is so gone. The way she can’t describe Pace except by throwing both hands up at the totality of him—that is love, or close enough that the distinction has become academic. I believe her happiness completely. I understand why “fine” can’t compete with being watched, fed, tended, and wanted like this. The cold cloth on the tiny burn, then fussing over it for days, is exactly the sort of tenderness that gets me: his attention doesn’t switch on only when sex does. She feels precious to him all the time.
+“The other is for the world. This is just for me” absolutely got me. Yes, it is possessive, and yes, I wanted it—because he says it after she has chosen what is his to see. He doesn’t claim what she gave the room. He recognizes the private gift as private. I would text a friend at one in the morning: *He stayed in the chair. She told him to wait, walked in wearing only heels, and he stayed in the chair.*
 
-But the line about the house being warm enough that she never thinks about how much she has on gave me a little chill. On its face, lovely. In the larger pattern, Vee’s whole life is quietly reorganizing around a man who has not told her he loves her and has not told her the truth. Her clothes are there. Her bathroom things have a drawer. She sleeps there most school nights. She is losing weight, eating differently, spending beyond her means, and coming home only to report how thoroughly he cares for her. None of those things is sinister separately. Simpson’s paradox again: combine them with the secret plan and the picture reverses.
+Randi is still present at the edges through those shoes, and the buried deception has not become less dangerous. But this moment between Vee and Pace is theirs. I believe that completely. And after so much arranging done around Vee, watching her arrange him was delicious.
 
-I also noticed that Cassie asks the question directly and then lets Vee own the answer. No suggestive story, no seductive phrasing, no “maybe this means you…” She asks, Vee says maybe, and Cassie leaves the maybe untouched. That is what respect for Vee’s interior life looks like. It makes Randi’s methods look even worse by contrast.
-
-I’m happy with Vee, frightened for her, and furious all over again that Pace is letting her fall this deeply inside a false frame. She is reaching the point where the revelation won’t merely injure a romance. It may take away the home she thinks she has found and make every act of care feel retroactively staged. Tell her. Tell her now.
-
-GATE 36 — School Nights
+GATE 36 — Made-Up
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Cassie’s quiet “You don’t come home school nights” finally put a clean outline around how completely Vee’s life is moving into Pace’s. I believe the love and the tenderness, which is exactly why the concealed plan now feels unbearable.
+WHY: Vee authored every part of this encounter, and Pace’s visible desire was matched by equally visible restraint. I am already turning the page because she is standing naked in his light, he has just named the difference between public display and private offering, and neither of them has moved yet.

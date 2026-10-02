@@ -1,15 +1,16 @@
-*capture-dag-v2-rich · gate ch002 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~f388da9c70ea · 2026-09-07*
+*capture-dag-v2-rich · gate ch002 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 17f83d064d79 · 2026-10-01*
 
-REACTION — Oh, Randi. This hurt in such a quiet, familiar way. That whole smiling interrogation downstairs made my skin crawl—not because anyone said anything openly vicious, but because every “friendly” question was really a little measurement, and Randi knew exactly what each one meant because she helps enforce the same system. “I love that you don’t care about cars” was especially poisonous. Pace’s truck, his height, his status: they reduced the man who just saw more of her than anyone ever has to whether he meets house standards, and she immediately helped them do it. I wanted to grab her by the shoulders when she agreed he was “cute.”
+REACTION — Oh, Randi. This is the morning-after crash that hurts because nothing visibly happens to her and absolutely everything is happening to her. The questioning downstairs made my skin crawl: all smiles, all concern, every answer gently inspected for whether Pace is socially acceptable. “Short-cute” was especially vicious. They reduced the man who saw her more clearly than anyone ever has to a slightly embarrassing little category, and she helped them do it because that is how she survives in that house.
 
-But the part that really got me was her hearing her own line—“He’s hard to say no to”—in a different key. Because he actually gave her room to say no. That’s almost the horror of it for her: she can’t blame coercion, can’t dismiss what happened as something a man imposed on her. She wanted it. She asked for it. She was safe enough to become real, and now being real feels more dangerous than anything he did. That is exactly the sort of consent-centered intensity I want, but it also makes me ache because his care cannot protect her from her own shame.
+And now “he’s hard to say no to” has turned poisonous in her head, even though what shook her last night was precisely that he gave her room to choose. I’m scared she is going to rewrite being seen as something he did wrong because admitting she wanted it would cost her the self she knows how to be. The detail that really got me was the duvet. She knows what Pace’s blanket and Pace’s body felt like, and this one is merely “adequate,” exactly like the fine-but-never-enough life on the jacket. She is already missing him while trying not to know she is missing him.
 
-And then the duvet. God. “It was a duvet.” After his warm house, the cashmere blanket she brought because he noticed what happened to her afterward, being alone beneath something merely adequate felt unbearable. She’s gone from terrifying tenderness straight back into a world of surfaces and standards, and she is shutting herself down so completely that she can’t even experience the shutdown as a choice. I don’t think she’s frightened of Pace. I think she’s frightened that he made her impossible to hide from herself.
+I want to reach into the book and stop whatever she is about to do. I also suddenly understand how the later plan involving Vee could begin somewhere ugly and defended: if Randi cannot bear being the hungry girl Pace found, perhaps she decides to put another girl in that position and stand safely outside it. That possibility is making me ache for all three of them already. The chapter wasn’t hot, but last night’s intimacy is still humming underneath every frozen thing she does. I’m absolutely reading on.
 
-I desperately want her to pick up the phone. I’m also afraid she’s about to punish him for seeing her, because he has no idea she left that bathroom determined never to let him see her again. He thinks he fed something starving in her. She thinks he discovered the one part of her that has to be buried. That mismatch has me by the throat.
-
-GATE 2 — Standards  
-DECISION: CONTINUE  
-CAPTURE: 9  
-ALMOST-STOPPED: none  
-WHY: This is the emotional consequence I needed after all that heat: not regret manufactured by violated consent, but terror at having freely wanted and been tenderly seen. I’m hurting for her, suspicious of what she’ll do next, and completely unable to leave them here.
+GATE 2 — Standards
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: Randi lying under that inadequate duvet, unable even to reach her own crying, made me feel how much Pace’s tenderness has frightened her. I need to know whether she runs from him, hurts him, or turns this unbearable exposure into the game the jacket promised.

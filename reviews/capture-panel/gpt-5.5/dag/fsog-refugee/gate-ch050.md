@@ -1,25 +1,24 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~0511a4346bd0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch050 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ca7450e92130 · 2026-10-01*
 
-REACTION —
+REACTION — Oh. Oh, Randi.
 
-Oh, this one got me in a very specific soft, dangerous place.
+I didn’t expect to be taken fully inside her like that, and it hurt in a very clean place. Not because John is terrible. Almost worse because he isn’t. He is exactly the fantasy version: handsome, capable, socially approved, good at everything, the sleigh, the ball, the white tie, the champagne, the story a woman is supposed to want to tell her daughter someday. And the chapter lets it be gorgeous. It doesn’t cheapen the fairytale so she can reject it easily. That made the emptiness land harder.
 
-Because I came into it raw from Vee’s cold little childhood room and Pace sobbing over chicken like a man who finally understood the price of his own silence, and then the book gives me Vee walking straight to Randi. Not Pace. Randi. Her sure place. Her door that opens. And I felt that relief before I had time to be suspicious of it.
+The skiing did get me. I’m not immune. The way he could have shown her up and didn’t, the way he stayed just off her shoulder with power in reserve — yes, that is the old catnip. A man competent enough not to need to prove it. And then the dancing, too, that firm lead, her body going where he sent it. I understand why she liked not being asked for once. I even understand the relief of it, for a woman who is always performing and calculating. But the instant she thinks “Pace has never assumed anything in his life,” I felt the book turn the knife. Because that’s the difference, isn’t it? John assumes and the world calls it romance. Pace asks, waits, makes the woman say the want out loud. That is the thing I came to this genre starving for.
 
-Randi is so good here it almost makes me angry. She does exactly what Vee needs: gets her out of the public hall, holds her, lets her cry, makes the bed clear like none of the glittering Gstaad trophies matter next to Vee wrecked in her coat. And then she is brilliant with her. She doesn’t just soothe her with nonsense. She separates fear from fact. She makes Vee look at what Pace actually did: the heat, the wine, the meal, the “most important person in my life.” She knows how Pace works, maybe too well, but God, she uses it tenderly here.
+And then afterward: nothing. That was brutal. “A good sandwich eaten fast” is such a devastating way to describe technically good sex with no reaching in it. I know that cold. The body says yes, the life says yes, the mother would say yes, the hotel says yes, and some deeper self is sitting there untouched with her lipstick still on someone else’s skin. I believed every inch of her horror at realizing the acceptable life can offer her its best version and still not find her.
 
-And then, of course, the coat.
+The Pace comparison scared me and moved me both. “Pace on his worst night reached further than this man had managed at his best.” That tells me so much about Randi. It also makes the secret heavier, because Randi has been measuring Vee and Pace against this private cold, and Vee doesn’t know she is being brought into a hunger that old and that defended. I have sympathy for Randi here. Real sympathy. But I’m also watching her choose concealment in real time. She knows she loves Vee in two ways. She knows Vee hears one. And instead of risking the truth, she decides to let Vee “arrive at it on her own.” That is exactly the Randi problem in its purest form: she feels deeply, she may even love truly, and then she manages the room so she does not have to stand naked in the truth.
 
-That was so hot to me because it is exactly my weakness when done right: not humiliation as cruelty, but shame being turned carefully in Vee’s hands until it becomes courage. Randi doesn’t say “go beg.” She says: take this into your own hands. Don’t fight him in the language where both of you are bleeding. Show him. And Vee finishing the thought herself, “And nothing under it,” made my whole stomach drop. That is the kind of erotic surrender I actually believe because it comes from her wanting. It is outrageous, yes, but it is also active. She is choosing the door, the cold, the coat, the risk.
+The text from Vee nearly got me. Vee in Ohio, warm family kitchen, offering “or not” because she is good like that, because she knows how to leave a door open without pushing. And Randi gives her the fairytale. Every word true, none of it the thing. That is such a perfect little moral dodge. I wanted to shake her and hold her at the same time.
 
-Still. Still. Randi is arranging her again. That’s the splinter. She is loving Vee and steering Vee at the same time, and the book knows both things are true. “You’ve got the goods” and “Pace is not going to open his own door… and say no” is a little too certain, a little too much Randi enjoying the image of Vee as an offering. I trusted the care in it, but I did not forget the original game. I can feel the old machinery under the warmth.
+I’m still continuing, absolutely, but with my guard up. This chapter made Randi more human to me, not less. It also made her more dangerous. Not villain dangerous. Lonely-person-with-tools dangerous. She has learned to survive by letting everyone see the version they can use, and now Vee is the first person she doesn’t want to use as currency. But wanting not to use someone is not the same as telling them the truth.
 
-And Randi telling the “fairytale” back to Vee while cutting out the emptiness afterward hurt more because Vee hears romance where Randi lived disappointment. Vee envies the future John could name in an hour, while Randi is quietly choosing the unnameable thing with Vee instead. That is such a cruel little mirror: Vee wants Pace to say the word; Randi wants Vee not to need the word from her yet. Everyone is hiding behind the exact door they’re asking someone else to open.
-
-I am absolutely continuing. I need the doorstep scene now with my whole body. But I am also braced, because if Pace receives the coat and still can’t say anything, I may have to get up and walk around the room like a lunatic.
-
-GATE 50 — My Friend Randi
+GATE 50 — Fairytale
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: “You backed him into a corner in his own house. Name it or lose me — the one thing he can't do.”
-WHY: That line made me flinch because Randi is right enough to help and wrong enough to be dangerous. But Vee choosing the coat, choosing to go back with her shame turned into nerve, has me completely caught.
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Let Vee arrive at it on her own."
+WHY: This pulled me hard because it finally opened Randi from the inside, and the ache of the perfect fairytale meaning nothing was sharp and persuasive. But that line is also exactly where my stomach tightened: she understands enough to know she is hiding, and she still chooses the prettier version of manipulation. I want the next chapter badly, because now I need to see whether Vee gets protected from that or fed into it.

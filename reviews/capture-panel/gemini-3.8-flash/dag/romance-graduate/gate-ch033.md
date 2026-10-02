@@ -1,18 +1,24 @@
-*capture-dag-v2-rich · gate ch033 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha d4837de434ed · 2026-09-19*
+*capture-dag-v2-rich · gate ch033 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 5274d9c5fd04 · 2026-10-01*
 
 REACTION
 
-Oh, she is *feeling herself* now. The girl who spent twenty-one years shrinking, clutching her collar, terrified that anyone might notice her body or realize she had an appetite, just marched down a hallway in a quiet house wearing four-inch stilettos and absolutely nothing else and made a grown man sit in an armchair and stare at her.
+*Oh, my God.* I am sitting here with my hand over my mouth.
 
-And what gets me—what makes this work so violently well—is that it isn’t cheap exhibitionism. It’s her claiming the game. She took the weapon he made for her (that dress, cut so high it dictated she be bare beneath it) and the finishing touch Randi bought her, and she orchestrated the entire viewing. "Put your hand out, flat, sit back down." She put him in that chair! She dictated the pace!
+First of all: the stats lecture opening with *outliers*. “The second kind comes in through the part that carries forward. It’s in everything that comes after.” This author is downright cruel with the subtext and I love it. Vee literally ditching Cassie—poor, sweet, innocent Cassie with her wrong textbook and granola bar—towing *Randi* by the wrist into a soundproof piano closet to debrief about the weekend? Vee thought she was taking the lead! She thought she was just gossiping with her cool, worldly best friend!
 
-The tragedy, of course, the dark little hum running under the whole scene, is that she thinks this is all her idea. She thinks she’s surprising him. *“And this is what I had on under it.”* God, the audacity. The gorgeous, brazen, trembling nerve of that line. She is performing the exact fantasy they designed for her, down to the millimeter, and she feels so completely, utterly in power while doing it. When he said, *“The other is for the world. This is just for me,”* my stomach dropped through the floor. It’s so romantic, and so tender, and so completely terrifying because *we know what he’s doing*. We know Randi is out there. We know this entire transformation was drawn up like a blueprint.
+And Randi. Jesus Christ, Randi is a masterclass in psychological manipulation. The way she draws it out of Vee—not letting her slide past the slap, drilling right down into it: *“His hand was wet... so his hand was wet.”* She knows *exactly* how Pace operates, but she plays it so effortlessly, painting Vee into a corner until Vee admits she "deserved it."
 
-And yet, his restraint! A lesser book would have had him lunge out of the chair, pin her to the wall, and rip straight into round two. Having him stay seated, having him let the *looking* be the contact while the blush runs down her entire body—that’s where the real heat lives. It’s mature, it’s agonizingly controlled, and it gives her the absolute dignity of her own display. I’m feral for what happens the second that restraint snaps.
+And then the story Randi tells. *“Oh, baby. Sometimes it's the mouse that roars.”* Calling him a “slight little thing, soft-spoken,” fabricating this entire alternate-universe persona of a meek guy who put her over his knee, forced her to count, turned her red, and slid his hand between her thighs until she was bucking. Randi is planting the exact blueprints of what Pace does, what he built the walnut bench for, normalizing it, eroticizing it, and feeding it to Vee like candy. It’s so breathtakingly dirty because there is no skin-to-skin sex happening in that room, yet it’s one of the hottest scenes in the entire book. Just words in a quiet, carpeted closet, and Vee is literally soaking through her underwear listening to another woman talk about getting spanked.
 
-GATE 33 — Made-Up
+That bathroom scene broke me a little bit. Vee locking the door, her hand moving on instinct toward her jeans, and having to physically pin her own hand to her knee: *“Not over a story. To do that would be to say yes to it, and she would not say yes to it.”* The absolute denial! She thinks she’s being faithful to the high of Pace’s weekend, but she is so hopelessly turned on by Randi that she had to flee the room to keep from touching herself.
+
+And then Randi just... breezes off. Bag on her shoulder, easy kiss on the mouth, leaving Vee stranded in the hallway holding onto a hug that’s already over, buzzing with an arousal she can’t even name. Randi wound the key in her back, set her down, and walked away. The trap is closing so fast and Vee is practically running into it with a smile on her face. I need the next chapter yesterday.
+
+GATE 33 — The Practice Room
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
+HEAT: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The absolute nerve of her walking out in just the heels, combined with his agonizing restraint in that chair, had me holding my breath—I need to see what he does next.
+WHY: The psychological tension in that tiny soundproof room was suffocatingly hot. Randi planting the exact blueprint of the spanking bench into Vee’s head while Vee soaked through her clothes without being touched was sheer genius.

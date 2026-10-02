@@ -1,17 +1,22 @@
-*capture-dag-v2-rich · gate ch002 · gpt-5.5 · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~f388da9c70ea · 2026-09-08*
+*capture-dag-v2-rich · gate ch002 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 17f83d064d79 · 2026-10-01*
 
-REACTION —
+REACTION — Oh, this chapter made my stomach knot in a completely different way than the bench did.
 
-Oh, I felt this one in my stomach more than anywhere else.
+Last chapter was so hot I almost forgot the jacket had warned me there was a blade under all the velvet. This one is the blade. Not because Brooke is some cartoon villain — worse, honestly, because she’s *fluent*. The smiling, the tiny pauses, the way she can make “Pace” into a file label and “math” into a social recalculation without ever sounding mean. I know that room. I know that kind of woman. The house doesn’t have to shout at Randi to put her back in her box; it just asks three little questions over coffee.
 
-After all that heat and tenderness in the first chapter, this is the morning-after chapter that makes the whole thing hurt. Not because Pace did anything careless in the room, exactly — he was careful, almost painfully careful — but because Randi is back inside the machinery that made her need that carefulness in the first place. The sorority house is so pretty and cold and lethal. Everyone smiling. Everyone watching. Everyone knowing just enough to make her perform. Brooke especially made my skin tighten. That soft, friendly interrogation where every question has a hook in it. I know that voice. I hate that voice.
+And Randi walking in after that night, after being cracked open and held, and immediately having to become the girl who can answer correctly — it hurt. The thing that really got me was how little actually “happened.” Nobody accused her. Nobody even really mocked him outright. But every sentence pressed on the bruise. The pickup, his name, whether he teaches, “short-cute” — all of it reducing this enormous private thing into something she has to manage socially. Pace saw her, and now the house sees the wrong thing on purpose.
 
-And Randi lying on the bed in last night's clothes, shoes still on — that got me. The whole first chapter was about him getting past the face, and this chapter is about watching the face lock itself back into place. It made the tenderness from before feel more dangerous, not because tenderness is bad, but because being truly seen is the thing she can’t survive yet. That line turning in her head, “He’s hard to say no to,” scared me, because I don’t think the book is letting me enjoy the fantasy lazily. It’s making me sit with the difference between desire and pressure, between chosen surrender and the social scripts women use to make their choices acceptable afterward.
+I’m still very drawn in, but I’m also anxious in the exact way the jacket promised. Because last chapter I trusted Pace with her body, mostly. I believed his care in the room. But now I’m seeing how dangerous it is that Randi can lie this well, and that Pace thinks he knows what happened. He does not know what happened. He thinks she rested against him because she was safe. She was hiding in his arms. That is miserable and intimate and so good.
 
-I’m still deeply pulled in, but I’m also wary now. Not of Pace so much as of the setup from the jacket — Randi steering Vee, Pace and Randi having a plan, everyone being so exact about everyone else’s hunger. This chapter reminded me Randi is not just glamorous temptation. She is wounded and controlled and maybe much less okay than Pace thinks. And that makes me more interested in her, honestly. I thought I was here for Vee and Pace, but now I want to know what Randi is going to do with the part of herself Pace found and whether she’s going to use Vee to avoid it.
+The line that keeps ringing is “He’s hard to say no to” turning into another key. That scared me. Not because I think the book is suddenly saying he coerced her — I don’t think that, and the chapter is more precise than that — but because Randi’s own fear can’t yet tell the difference between being overwhelmed by desire, being socially cornered, and being genuinely known. That’s the live wire for me. I want intensity with consent, and this is making consent feel real by showing how complicated the inside of “yes” can be after the fact. That’s dangerous territory, but I’m still with it.
 
-GATE 2 — Standards  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: "He's hard to say no to,"  
-WHY: That line made me tense because it brushes right up against the exact thing I don’t want eroticized, but the chapter knows it is dangerous instead of winking at it. I’m continuing because Randi suddenly feels real, not just stylish and manipulative, and the book is still treating consent, shame, and wanting with frightening seriousness.
+Also: I miss Pace already. Which is probably the point. After the heat of chapter one, being trapped in the sorority house with Brooke’s perfectly manicured surveillance felt cold in my bones. I wanted the warm house back. I wanted the apple slices. I wanted him to notice. And I’m worried he won’t, because Randi is very, very good at disappearing in plain sight.
+
+GATE 2 — Standards
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "He's hard to say no to," she heard, in her room, in a different key.
+WHY: That line made me tense because it brushes right up against the consent wound I’m always watching for, but the chapter earns the discomfort by putting me inside Randi’s fear instead of asking me to find disregard sexy. I want the next chapter badly because I need to know whether Pace can meet the woman who came back from the bathroom, not just the one he thinks he held.

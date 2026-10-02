@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch012 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha d4b4398316b0 · 2026-09-27*
+*capture-dag-v2-rich · gate ch012 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2bcd8a499e1e · 2026-10-01*
 
 REACTION
 
-Holy shit. The truck scene. My heart was pounding so hard in my throat I felt it in my teeth.
+Holy shit. My pulse is still hammering in my ears.
 
-The whole hike had this incredible, thick, sensory weight to it—the burn in the thighs, the raw heel, the dark bread and sharp horseradish making her eyes water, the cherry pits (and that quiet, absolute dominance of *“We take nothing and leave nothing”*—god, the man teaches her how to behave without ever making her feel dirty or small). He manages her so completely, but it feels like the gentlest shelter in the world.
+*That* is how you write an erotic charge. That truck scene took ten years off my life. It wasn't just hot; it was psychologically brilliant. The absolute genius of Pace knowing *exactly* who he’s dealing with. He steps out into the freezing mountain downpour to give her privacy—which is both a deeply chivalrous move and the most devastating piece of bait he could have possibly dangled in front of a girl like Vee. A lesser man would have hovered, or made a joke, or tried to help her out of her shirt. Pace just gave her the truck, gave her his only dry clothes, and walked out into the storm.
 
-And then the rain. When he stepped out of the truck to give her privacy, and she realized he was standing out in the freezing downpour just so she could change without shame? The psychological flip that happened in her head was pure, uncut romance crack. She didn’t want to be protected from him. She wanted him to *look*.
+And Vee! God, Vee stepping directly into her own power, or what she *thinks* is her own power. Coming up onto her knees on that unbroken bench seat, rapping on the glass, crooked finger: *come in.* That entire sequence where she strips for him while keeping his eyes locked—and the internal battle where her mother’s voice is spitting the word *floozy* at her, and instead of shrinking, Vee uses that exact shame as fuel to press her thighs together and pull the fifth button open? *Exquisite.* That is the deepest, most honest understanding of female exhibitionism and the kink of transgressing good-girl conditioning I have ever read. She didn't want him to just see her body; she wanted him to see her *being bad.*
 
-Tapping on the glass. Crooking her finger to call him back into the cab. Getting up on her knees on that old bench seat and unbuttoning her soaked shirt one agonizing button at a time while staring right into his eyes—*that* is the heat I am starving for. It wasn’t just physical; it was her whole repressed, mother-policed, good-girl history weaponized into pure exhibitionism. The shame becoming the fuel. And Pace—the discipline on that man! Sitting there, letting her command the moment, his jaw tight, shivering from the cold, letting her offer herself up and not grabbing, not lunging, just taking every drop of what she gave him. Bringing his freezing hand under her flannel to press against her bare, warm belly? Jesus. The intimacy of that hit harder than a full-blown blowjob scene in any of the five hundred KU books I’ve read this year.
+And his reaction! He didn't pounce. He didn't ruin the gift by grabbing. He sat there shivering, stunned by the gladness of it, his hand trembling when she reached for it. Pulling his freezing hand under the dry flannel and pressing it against her warm, bare belly? I gasped out loud. The sheer intimacy of that gesture felt filthier and sweeter than actual penetration.
 
-And then that campus cop barking the siren at the end—the absolute tension-breaker, forcing her to scramble out, leaving her standing on the dorm curb wrapped in his flannel, smelling like him, dripping wet, completely ruined for any normal boy forever.
+And the hike itself—Pace is terrifyingly good. Tending to her blister with moleskin without an ounce of pity or condescension. Teaching her the "leave no trace" rule with the cherry pits by quietly modeling it instead of scolding her. Feeding her horseradish that clears her sinuses and watching her eyes run. The man is systematically dismantling every single defensive wall she has built since puberty, and he’s doing it by feeding her, protecting her feet, and letting her lead the sexual pace.
 
-I need the next chapter immediately. I need to know what happens when she walks past Cassie looking like that, and I need to see him pull her all the way in.
+And then that campus cop cock-block at the very end! Dropping her off in the red zone, the siren squawking, him having to pull away before she can even speak the thing she was holding. She’s left standing under the dorm overhang, drenched, wearing his oversized flannel, smelling like his soap and his bag, clutching her soaked shirt in her fist like a trophy. She is completely, utterly ruined for anyone else now. She belongs to this dynamic.
 
 GATE 12 — Leave No Trace
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The striptease in the truck was a masterpiece of erotic psychology—intense, deliberate, and deeply earned. The tension between his rigid control and her waking appetite is suffocatingly good, and I couldn't stop reading right now if I tried.
+WHY: The tension in the truck when she stripped for him while actively using her mother's shame-voice as an aphrodisiac was absolute perfection. The psychological calibration between his patient restraint and her desperate hunger to be seen made this one of the hottest scenes I've ever read. I need the next chapter right this second.

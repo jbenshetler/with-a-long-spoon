@@ -1,18 +1,20 @@
-*capture-dag-v2-rich · gate ch010 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b011ff26b790 · 2026-09-26*
+*capture-dag-v2-rich · gate ch010 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f1da455fc255 · 2026-10-01*
 
-REACTION — I am smiling like an idiot, honestly. This chapter is tiny compared to the others, but it gives me exactly the afterglow I wanted after that first kiss. Not sex, not even really escalation, but that fizzing, can’t-keep-it-in, “I came home and must tell my best friend every single molecule of it” feeling. It felt so young in the best way, not immature, but that specific first-date giddiness where your body cannot contain the news.
+REACTION —
 
-And Cassie. God, I love Cassie. I love that she immediately asks the protective, suspicious question without making Vee feel dirty for wanting him. “How much did he give you to drink?” could have curdled, but it doesn’t, because it’s Cassie being Cassie: blunt, loyal, already mentally filing the police report if needed. And Vee’s answer matters so much: “Nobody did anything to me.” That line rang. In this book, with this setup, that’s not casual. That’s practically the whole moral pressure point humming under the floorboards.
+Oh, I loved this little exhale. This is exactly the kind of after-date chapter I don’t resent because it’s not marking time; it’s letting me watch the experience metabolize in Vee. She comes in lit up, and not in that generic “squee he kissed me” way. It’s the specificity of what she needs Cassie to understand: that nobody moved her around like a chess piece, nobody poured wine into her or talked her past herself. She did it. She wanted, and then she acted. For this girl, that’s not small. That’s a door opening.
 
-The chapter also made me ache a little because Vee is so lit up by having chosen. She is not just excited that Pace kissed her. She is excited that she stopped him, that she pulled him back, that she did something on purpose because she wanted to. That is delicious and sad at the same time, because I know from the jacket and from the earlier chapters that this choosing is going to be complicated by the fact that there is already a game around her she doesn’t know about. So I’m happy for her, but I’m also watching the little shadow move behind the happiness.
+And Cassie. God, Cassie is such a relief. I trust her in a way I do not trust anyone else in the room. She’s dry and blunt and funny, but the bluntness isn’t cruelty; it’s a kind of safety rail. “How much did he give you to drink?” made me laugh and also made me sit up, because yes, thank you, someone in this book is keeping a grounded eye on the situation. And when Vee says no, nothing, I wanted that for her so badly. I wanted the kiss to stay hers.
 
-The hiking invitation worked on me more than it should have. “Real shoes” is such a small intimate practical thing. It makes him feel solid. It makes the date feel like a world opening, not just romance logistics. And “off six-fourteen” is funny and a little ominous. Cassie hearing it as not enough information is exactly right, and Vee hearing it as proof she knows plenty is also exactly right. I’m in that awful reader position of wanting to crawl into the room and say, baby, please send Cassie the actual address, while also fully understanding why Vee is glowing too hard to be cautious.
+The chapter also did that sneaky ominous thing with such a light hand. Vee is absolutely floating, and I’m floating with her, and then Cassie asks for enough information to identify him if needed and suddenly I remember the jacket. I remember Randi. I remember the plan. “Off six-fourteen” feels like nothing and like a pin dropped on a map at the same time. Vee thinks knowing “where he lives and everything” means she has enough of the shape. We know she very much does not.
 
-This is a bridge chapter, but it does its job. It lets the kiss land inside Vee’s life. It gives Cassie her place. It lets me feel how warm Vee is before the book moves her farther into Pace and Randi’s orbit. I’m not clawing the walls, but my thumb would absolutely move.
+I’m not hot-hot from this chapter, but I’m emotionally pulled. The erotic charge is mostly in the residue of her choosing the kiss, the fact that it’s still warming her body after she gets back. And I like that the book is letting her have joy before it tightens the screws. That little spin in the dorm room got me. It’s young in the best and most breakable way.
 
 GATE 10 — Off Six-Fourteen
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Quiet chapter, but it gave me emotional charge instead of filler. Vee’s delight in her own agency pulled me in hard, and Cassie’s protective deadpan makes the danger feel grounded rather than melodramatic. I want the hike now, partly because it sounds romantic and partly because I am deeply suspicious of every soft, perfect opening door in this book.
+WHY: This was quiet, but it deepened Vee for me and made Cassie feel essential. I’m very ready for the hike because Vee’s happiness is real, Cassie’s caution is real, and the book has me watching the space between those two things like a lit fuse.

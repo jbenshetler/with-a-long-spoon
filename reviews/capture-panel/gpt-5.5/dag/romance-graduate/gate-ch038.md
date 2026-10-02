@@ -1,21 +1,28 @@
-*capture-dag-v2-rich · gate ch038 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~38dcf8e44cd8 · 2026-09-11*
+*capture-dag-v2-rich · gate ch038 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · 2026-10-01*
 
-REACTION — Oh, this chapter got me in the exact soft dangerous place.
+REACTION —
 
-What I love is that it isn’t a “big scene” chapter, except it absolutely is. It’s Vee trying to explain abundance. Not one spectacular night, not one new kink discovery, but the terrifying ordinary fact that she has become a woman whose life is organized around appetite now. Sex, food, sleep, being looked at, being fed, being listened to. The phrase “finally hungry out loud” landed on me hard because yes, that is exactly what this book has been doing to her. Not making her want. Proving she already did.
+Oh, this one got me in the ribs.
 
-And Randi. God. Randi is so good at absolution that I can feel myself wanting to be absolved by her, which is exactly why I do not trust her. She says the perfect thing. She makes Vee’s shame feel not only acceptable but chosen, special, beloved. And then she gets visibly hit by Vee’s “he wants me, with the body attached,” and for one second the mask slips enough that I believe she is starving too. That was the part that made my stomach flip more than the picture-sharing, honestly. Randi wanted something in that booth. Not just the gossip. Not just the control. Something.
+Not because it was the hottest chapter, exactly, though the opening has that post-week-apart charge I absolutely want from this book. The lift at the door, the not making it to the kitchen, the way he still slows down and makes her pleasure the center even when they’re both frantic: yes, thank you, finally a man written like desire is attention and not just appetite. I also really felt her realizing there can be an after. That he can want her again after food, after wine, after the first urgency is spent. That is such a specific erotic safety, and the book knows it.
 
-The picture scene was delicious and so alarming. Vee thinks she is showing her best friend proof of her transformation, which she is. But also she is handing Randi erotic access to something Pace made with her and for her. And the way Randi pushes, lightly, almost jokingly, from cropped to full-length? “Legs like yours… and you only gave him half?” That is a dare dressed as friendship. And Vee takes it because she cannot bear being seen as less brave by Randi. That is not nothing. That is the mechanism, glowing.
+But the real thing here is domestic. Dangerous, gorgeous domestic. Her saying “Peter” into his sleeping ear just about knocked me flat, because it’s so intimate and private and she isn’t performing it for him. She lets herself know she loves him before she asks him to know it. And I believed her. I believed every inch of it: the salmon, the tomatoes, the robe, the bathroom counter, the scrunchies. This is how a person in love starts reading every household object as evidence.
 
-Also: Vee paying her own check, ordering the Benedict, tipping well. I noticed. She is expanding in real ways, not just sexually. She’s becoming someone who can take the expensive yes. But the expansion is so tangled with them that I don’t know what part of her could stand alone if either one stepped back.
+And then the drawer. God. The drawer is obscene in the way this book keeps making care obscene. Not dirty-obscene, but intimate-obscene. He doesn’t make a speech. He doesn’t reassure her in words. He silently gives her the first drawer, the reachable drawer, and compresses himself into the lower one. That is more devastating to me than an “I love you” would have been right now, because of course Vee would hear the sentence and be happy, but the drawer goes under her defenses. It says: you are expected here. You are not clutter. You have a place.
 
-And then the kiss. Finally Vee reaches for more. Not accidentally, not confusedly. She leans after Randi and takes another second because she wants it. She notices it and chooses not to examine it. Reader, I examined it. I am examining it with a miner’s lamp and a clipboard. That was not friendship. That was a woman crossing a little white line and then deciding the line was probably never important anyway.
+I am swooning, and I am scared.
 
-I’m very caught. I’m also bracing. Because Vee is glowing so hard right now, and every warm thing has a hook in it. Pace has her weekends, Randi has her confessions, Cassie has the shrinking leftovers, and Vee thinks this is balance because everyone is still smiling.
+Because this is exactly how the book makes the trap soft. Vee is not being conned emotionally in some cheap way; the love is real, the care is real, the scrunchies are real, the drawer is real. That’s what makes the hidden Pace-and-Randi machinery worse. If he were simply predatory, I could put the book in the freezer emotionally. But he is giving her a home while still living inside a lie by omission, and she is starting to build her whole heart in that house.
 
-GATE 38 — All the Time
+The weight-loss note made me uneasy too. Not in a moralizing way. More like: oh, sweetheart, you are watching your body change under his care and interpreting all of it through being fed, desired, housed, remade. The bras keeping the secret, the clothes getting loose, the body “burning down whole weekends of him” — that is beautifully written and also a little alarming. Her selfhood is blooming, yes, but it is also reorganizing around him with frightening speed.
+
+And Randi being absent from the chapter made her louder somehow. No “Randi to be told” is such a little flare. Vee notices the absence as a relief, almost. This night is theirs, this drawer is hers, this love is hers. Except I know Randi is in the architecture even when she’s not in the room. I hate how badly I want to live in the drawer with Vee and ignore the third game. I hate that the book knows I want that.
+
+GATE 38 — Above Him
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is exactly the blend I’m here for: explicit heat, emotional texture, and that slow creeping dread of being loved into a shape before you can see the hands doing it. Randi’s tenderness is getting more erotic and more suspect by the page, and Vee reaching back into the kiss means we are no longer pretending.
+WHY: The chapter didn’t need a big event because the drawer was the event. It made me ache for her and trust him and distrust the whole situation harder at the same time, which is exactly the vise this book has me in.

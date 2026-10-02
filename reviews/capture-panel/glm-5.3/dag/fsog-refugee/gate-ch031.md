@@ -1,25 +1,20 @@
-*capture-dag-v2-rich · gate ch031 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~230524645ef4 · 2026-09-10*
+*capture-dag-v2-rich · gate ch031 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a45f79a49a6c · 2026-10-01*
 
-REACTION
+REACTION — A whole chapter with nobody's hands on anybody, and I still liked it, mostly because of what it did to *him*. "Listen to you," Sheri says, and she's right — he's past the name before he's decided to be, telling her about a thumb on a chair joint, about a girl pulling a math book off the shelf, and he *hears himself going and doesn't stop*. That's the man I'm in love with, undone by walnut grain and a book not put back. He has no idea what Sheri is looking at. Nobody in this book can see their own love except Vee, apparently.
 
-I've been waiting for the induction for chapters, braced for it to be the con's harvest — the room turning, the choreography he built playing out on schedule — and instead the book did the thing I should have learned by now it always does: it gave the moment to *her*, and let it be hers all the way down.
+Sheri I liked immediately — women the way other people remark on the weather, faster on every climb and never once letting it go unmentioned. "Hell of a backside on her, though," about the woman who picked a fight with him in front of half a bar. That's a friend. And "No, she couldn't take your heat" was the exact right answer to the wrong question — Sheri can turn it on and keep it burning for years, and he defused it with flattery and honesty at once, which is very him.
 
-The picture she'd built — the late entrance, the room turning — she walked in and *dismantled it herself*. "The actual room was warm and dull and kind, full of nobody's late entrance." And instead of disappointment, we got the better thing: the small managed step, the hand at the hip, the slit lying shut — and then *she* decided. "She took a breath, and made the second step long." Half a second before her head was sure. That's the whole book in one stride. Nobody made her. The con built the stage and she authored the walk, and I felt it in my own chest, the heat coming up to meet a thing she'd decided.
+But here's the line that stopped my pedaling: "She knows. She likes her." — "And the redhead?" — "Not yet." He's running the same arithmetic Randi runs, out loud to a third party, and he's still lying by omission in the same direction. Randi knows Vee doesn't know. Sheri now knows Randi doesn't know Pace is... whatever Pace is doing. Everyone is narrating everyone to someone else. Vee remains the only person in the book who tells the truth only sometimes. And Sheri — sharp, outside, running the arithmetic anybody could run — said it plainly: "If that's not already complicated, it will be." That's the blurb's third game showing a heel under the curtain.
 
-The murmur through the room. "The sound a dull room makes when it wakes up." And her face giving away *nothing*. I put the book down at that. That's what I read this genre for — not a man bestowing hotness on her, but a woman picking it up and wearing it and keeping her chin level while she does. The blonde at the Rusty Nail wanted to say he knows how to get a girl to do just what he wants her to. Here's the answer the book's been building: yeah — but the girl wanted to do it, and would have, and did, and kept the part that mattered for herself.
+My one honest complaint: it's Saturday morning, and I was promised Friday night. The chapter is good and the voice is good and the cold in his fingers is good, but I turned the page wanting the black dress and the deadbolt and his face when she walks in, and I got a bike ride with a friend. The book has earned a slow beat, so I'm not mad — but the account is now one chapter of delay against the entrance I've been dressed-by-committee waiting for since ch 30. One more and I start tapping my foot.
 
-Because that's the dagger in this chapter, the thing I'll be chewing on until the next one: the photo. She sent him the frame, uncropped, so he'd see the dress do the thing he built it to do and didn't get to watch — "He would have no idea what else was in the frame. That part was hers." That's not a girl being harvested. That's a girl who knows she's in a conversation with the man who made the dress and is choosing what she shows him. I keep waiting for the con to steamroll her and she keeps *out-authoring* it.
-
-Pace's absence was so right it hurt — sorry in the quiet way, no performance, and she tried "it's only a dress" and it came out thin, because it isn't, and they both know it. And the bare-under-it detail: she discovered the constraint herself in his mirror, and wearing it became "a private joke she was in on" — until three rows from a microphone in a room full of somebody's parents, when it became a secret she was keeping, and the difference between those two feelings is the whole engine of her arousal in this book. Secrets that are hers. Not secrets kept from her.
-
-Cassie. My girl got her chapter time and it was the repair the book owed her — walked her to the doors, held the phone, "You look—" unfinished, a standing ovation. "Honor student," dry, meaning it, eyes bright at the corners, which she'd deny to the grave. And *she took the photo*. The one person who wants nothing from Vee is the one who documented her at her most radiant, and Vee got to be famous *at* her over a terrible sandwich. I've been grieving Cassie getting edited out, and the book just spent a chapter proving she's still in the wings of every big moment. Still my price. But not today.
-
-The ending — the slit swinging, "whether that was pride or only the same heat still running, or whether, by now, the two came to the same thing" — that's the thesis, isn't it. That's the question the blurb promised and I'm still not sure which answer the book is arguing. The scariest and best thing is I don't think *Vee* knows yet, and neither do I, and that's why I can't stop.
-
-One flicker of unease, filed honestly: the con is still running. Berkeley is three days of a conference he "couldn't move" — and I've read enough of this book to wonder whether a man who plans a year plans a business trip. But even if the stage was built for her, the walk was hers, and the book has earned the benefit of the doubt chapter after chapter. It hasn't winked once.
-
-GATE 31 — The Induction
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 6
+NEXT: 8
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The moment I feared would be the harvest turned out to be Vee's own authorship — she made the second step long, she kept the part of the photo that was hers, and Cassie was standing right there in the wings. Restraint plus heat plus a heroine deciding: everything I read for, in one walk across a stage.
+WHY: No heat, nobody touches, but the care is on the page sideways — a man in love, narrated by a friend who can see it and a reader who's been watching it build. I'm staying because tomorrow night is still loaded and this chapter ended with the safety off.
+
+ALMOST-STOPPED correction if needed: the closest I came was realizing it was a bike ride instead of Friday night — a flicker of impatience, not a quit.

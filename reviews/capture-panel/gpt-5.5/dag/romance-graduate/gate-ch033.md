@@ -1,19 +1,26 @@
-*capture-dag-v2-rich · gate ch033 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~d4837de434ed · 2026-09-11*
+*capture-dag-v2-rich · gate ch033 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5274d9c5fd04 · 2026-10-01*
 
-REACTION — Oh, this got me. Not because it’s the hottest chapter in isolation, exactly, but because it’s the chapter where Vee starts *staging herself*. Not being staged by Pace, not being styled by Randi, not accidentally discovering that the dress works on her body. She brings the dress. She invents the Halloween loophole. She orders him into the recliner. She decides the terms of the looking. That felt huge to me.
+REACTION — Oh no. Oh no, this chapter knows exactly where to put its fingers.
 
-And God, the dress finally being shown to its maker. I had been waiting for the induction as the public room, but I didn’t realize I also needed this quieter second debut: not the room’s murmur, but Pace having to sit still and swallow his hands. That did more for me than if he’d just grabbed her. The restraint is the charge. His “They complete it” about the shoes is such a Pace line: exact, not flattering in the cheap way, seeing the whole construction. I felt Vee feel seen there, and I liked that the chapter let her know she’d gotten it exactly right.
+I was already primed from the last one, obviously, because the spanking/not-spanking thing in the kitchen was so intimate and so accidental and so much more dangerous because nobody named it. And now Vee takes it to Randi, not even as a confession exactly, more like a woman carrying a live coal in both hands and asking, is this supposed to burn like this? And Randi just breathes on it.
 
-The second “costume” could have tipped silly or porn-logic so easily, but it didn’t, because the book has earned what nakedness means to her. The heels staying on as the entire costume is filthy and psychologically neat. She isn’t just naked; she is wearing the thing he asked her to leave on when she was bent over his bed. So the whole hallway is carrying Friday night inside it. That made my stomach drop a little, in the good way.
+The stats lecture made me laugh in the bad way, because yes, of course, outliers. The first kind you lift out and pretend the line goes on. The second kind gets into everything that carries forward. This is not a one-off. This is going to be in everything now. The slap, her body’s answer, Pace seeing it, Randi seeing her retell it, Vee trying to hide under language and then losing even that. It has entered the data set, babe.
 
-I also love how Halloween is doing real work without becoming cute. Everyone in town is “out being somebody else,” and Vee is inside this house becoming more herself by pretending it’s a costume. That is exactly the kind of emotional kink logic I’m here for. She still needs the frame, the excuse, the ritual. But she’s choosing the ritual now. She’s giving him the image and making him wait inside it.
+And Randi. God. I do not trust her with a butter knife and I also want her in every scene. She is so good at this. Too good. “Did you deserve it?” is such a tiny little loaded gun of a question, and Vee just walks right into it because of course she does, because she is honest and aroused and embarrassed and still trying to make sense of the shape of herself. Randi doesn’t even need to touch her. She just gives her a story. A little tailored story. “Skirt up. Panties down.” Counting. The hand slipping. “Welcome.” I actually had to sit back at welcome. That word was not accidental. That word was a key in a lock.
 
-My unease is quieter this chapter, but not gone. Randi is in the room through the shoes even when she isn’t there, and that little detail of “Randi had knelt to buckle” means Vee’s private offering to Pace is still braided with Randi’s hands. And Vee says “the other is for the world. This is just for me,” through Pace, basically, and I believe him and also feel the trap door under it. Because what is “just for him” in a story where Randi is always listening later? Is Vee going to tell her this? Of course she is. Or she’ll try not to, which may be worse.
+And Vee going to the bathroom and stopping her own hand, my heart. That did more to me than if she’d just gone ahead. Because she knows, dimly, that there is a yes in there she isn’t ready to give. Not to the act, exactly, but to being this woman. To wanting what the story made her want. To admitting Randi can do this to her with words in a practice room at lunch. The restraint was so charged it almost hurt.
 
-But for now? I was fed. This is the grown-up heat I keep chasing and almost never get: looking as action, consent as choreography, a woman getting brave in a way that is erotic because it is emotionally specific. No euphemism, no coyness, no dead mechanical sex-scene autopilot. Just a lamp, a hallway, a dress in a bag, and a man staying in the chair because she told him to.
+The goodbye kiss being “so worn-in now that Vee barely clocked it” made me want to yell. Vee, honey, that is the whole alarm bell. You are wet from this woman’s story, you are slow letting go of her, and you are filing the kiss under weather. I know you’re tired. I know Pace is still all over your skin. But Randi is not background music. Randi is actively composing the score.
 
-GATE 33 — Made-Up
+Also Cassie getting left on the other side again. It’s small, but it’s accumulating. Vee chooses Randi’s wrist. Cassie gets “see you in the room” from the side of Vee’s head. I’m not mad at Vee, but I felt that little social pivot. Cassie is being slowly moved out of the room where Vee becomes legible.
+
+So yes, this chapter absolutely had me. It’s quiet in the literal sense, two women in a practice room talking, but it’s not remotely a bridge. It’s a door opening inside Vee before any actual door opens in the plot. And it is hot in that specific grown-up way I’m starving for: not just the content, but the terrible precision of someone discovering a kink as a psychological event, not a menu item.
+
+GATE 33 — The Practice Room
 DECISION: CONTINUE
 CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This chapter gave me Vee actively authoring the seduction, and that is exactly the escalation I wanted after the spanking chapter. It’s hot because it knows what the looking costs her, and because Pace’s restraint lets her feel the power of offering herself without being rushed out of it.
+WHY: This was exactly the combination I’m here for: explicit charge, emotional danger, and Vee’s interior life treated like the main event. Randi talking Vee into recognition without touching her was hotter than half the sex scenes I’ve read this year, and much more worrying. I need the next chapter immediately because this thing is no longer dormant; it is carrying forward.

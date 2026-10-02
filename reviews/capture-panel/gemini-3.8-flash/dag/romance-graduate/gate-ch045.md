@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha d6bbb290a65b · 2026-09-19*
+*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-01*
 
 REACTION
 
-God, that hurt. That was a gut-punch of a micro-chapter.
+God, Cassie is such a surgical instrument in this girl’s life. Every single time Vee starts floating off into the stratosphere of bespoke silk, Nebbiolo wine, and secret three-way setups, Cassie just sits down across a plastic tray in an athletic cafeteria and drops a plumb line straight to the earth.
 
-Two pages, maybe three hundred words, and it completely stripped the romance down to the raw bone. That image of her pulling the flannel off because *the heat was only her own body heat reflected back at her*—whew. That is stunning, devastating writing. "He was across town in his own bed, gone down easy as he always went, easy as a man with nothing grinding in him, and she was here holding a smell in the dark." That line wrecked me. Because that is the exact, miserable reality of being the person in a situationship (or whatever gilded cage this is) who fell completely, stupidly in love while the other person is resting comfortably inside their own impenetrable routine.
+*“I cropped it before I sent it. The version they have stops at the waist.”*
 
-She has spent forty-four chapters letting him feed her, dress her, photograph her, spank her, give her a drawer, reshape her entire palate and sexual identity—and she's finally realizing that an immaculate plate of food and an orgasm aren't the same thing as being claimed. He gives her everything he *does*, but he won't give her *himself*. He won't give her the word.
+That line hit me right in the chest. Because that is the entire tragedy and thrill of Vee’s life right now: she has to crop herself for everyone. For her parents, she stops at the waist—no bare hip, no four-inch heels, no four-nights-a-week fever in the woods. For Randi, she gives the uncropped pinup, but Randi doesn't get to see the part where Vee sits on the floor begging for a sweaty flannel shirt to sleep in. And with Pace, he gets the body and the appetite, but he’s keeping his own life cropped behind closed doors and Simpson’s Paradox.
 
-And shedding the flannel—the very flannel she begged him to wear just a few days ago so it would smell like him—and just lying there bare and freezing in her narrow twin dorm bed while Cassie sleeps below her? That feels like a massive emotional pivot. It’s the first time Vee has actively rejected the comfort he offers because she recognizes the hollow center of it.
+And then that observation about her dad: *“Sex he understands. The sewing he never would.”* That is so profoundly true about a certain kind of working-class father that it made my teeth ache. A boy taking off your daughter's clothes is a hazard of nature, something you can process with a scowl; a boy sitting down at a machine to painstakingly craft silk to fit the exact slope of her waist is an intimacy so deep, so foreign, that it curdles into "weird." And "weird" means dangerous. Because too good *is* suspicious.
 
-I don't normally love super-short chapters, but this didn't feel like a lazy shortcut; it felt like an exhale after the claustrophobia of Chili's and that desperate, frantic sex in 44. It’s a clean break. The honeymoon haze is officially dead. Now, what does she do when morning comes?
+Then Cassie, with zero malice, just sets the trap: *“So what is he... Not to your dad. To you.”*
 
-GATE 45 — Bare
+And Vee’s admission: *“Both. Probably both.”* That she can’t say, and she doesn't want to. That broke my heart a little. Because to name it means you have to look at the reality of it. If he’s just her "boyfriend," then why does another girl have the key to his house? Why does she have to hide half of who she is? If he’s not just a boyfriend, what is he? Her keeper? Her patron? Her lover who shares a calendar with an apex predator?
+
+It was a short chapter, but god, the quiet ones with Cassie do so much heavy lifting. It reminds you that outside the bubble of Route 614, there is a real world where people eat burned rolls and wonder why a twenty-one-year-old girl is suddenly wearing custom-fitted silk.
+
+GATE 45 — Cropped
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: It was short, but it hit like a truck. Watching her realize the flannel is only warm because *she's* warming it was a devastating metaphor, and I need to see how she acts around him now that the illusion is cracking.
+WHY: The emotional honesty in this short exchange between Cassie and Vee is stunning. Vee realizing she has to "crop" herself depending on who is looking at her cuts right to the psychological core of what this affair is doing to her identity. I need to see what happens when the crop finally fails.

@@ -1,18 +1,24 @@
-*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 97724b44da95 · 2026-09-19*
+*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · 2026-10-01*
 
 REACTION
 
-*Oh, Vee.* My stomach literally dropped into my shoes when she turned that phone around.
+God, Cassie hurts my heart. She really is the only pure, clean mirror in this whole damn book, and watching Vee sit backward in that dorm chair, completely lit up from the inside out, bubbling over like champagne while Cassie just *watches* her… it physically aches.
 
-Last chapter, she made Peter swear: *"Only if you promise you’ll never share me with anyone."* And he swore it. And not even forty-eight hours later, she sits in a booth with Randi, gets baited by the tiniest, flicked-out suggestion that she only gave him half—that she *flinched*—and she hands over the entirely uncropped, naked length of herself to the very woman who engineered the whole setup. Randi didn't even have to ask Peter for the photograph. Vee handed it over willingly, chasing the high of being the girl who gives *all of it*, chasing Randi’s approval, chasing that hot little hit of being seen. It is so psychologically sharp it cuts. Every single trap in this book is sprung by Vee pulling the wire herself because she refuses to be small, refuses to be prudent, refuses to be the girl left behind in department-store navy.
+Because we know what Cassie is seeing. Cassie is seeing her best friend slowly, completely slip away into an obsession. Not just a boyfriend—an orbit. Vee isn't coming home on school nights anymore. She’s living in an oversized house off Route 614, eating warm tomatoes half-naked at a handmade table, getting her own bathroom drawer cleared out, and she thinks she’s just… stumbled into a fairy tale.
 
-And Randi’s reaction when Vee started spilling about how Peter treats her—*"Like he wants me. With the body attached. Not — the other way around"*—and Randi just *froze*? The glitz slipping off her face, the catch in her breath, the eyes unfixed? God. Because Peter doesn't look at Randi like that. Peter takes Randi casually, or as an old habit, or whatever that transactional, unfinished mess between them is. Vee thinks Randi is just vicariously thrilled by the steaminess; what Vee actually did was hand Randi a mirror showing how Peter treats the girl he’s genuinely falling for, versus the girl he’s playing the game with. Randi felt that. And Vee, completely blind in her golden haze, read it as "pride, that a Saturday of hers could do that to a woman like Randi."
+And that moment right there: *"Cassie listened with no face on at all and let Vee talk herself out. Then she said, 'You don't come home school nights.'"*
 
-Then that kiss on the sidewalk. Vee chased it. Vee leaned into that last half-inch because she couldn't stand for it to end. The lines are blurring so completely now. She’s completely addicted to Peter, she’s physically hooked on Randi, and she’s actively leaving Cassie behind to sign up for classes that isolate her with Randi even further. The web is entirely spun, and Vee is practically weaving herself into the center of it with a smile on her face.
+No accusation, just a fact laid down on the dorm rug. Cassie isn't judging her, she isn't even trying to claw her back, she’s just marking the tally. Vee had boyfriends before who were "fine," and now she’s being completely consumed by a man whose real name she whispers to his sleeping back, unaware that his sorority queen ex/partner has a key to the front door and her clothes folded over the spanking bench.
 
-GATE 39 — All the Time
+When Cassie asks, *"Do you love him,"* and Vee goes quiet—that got me. After the huge, sweeping internal declaration at the end of the last chapter where Vee admitted it to herself in the dark, she can’t quite give the whole word over to Cassie. *"Maybe... I think so... It's all so fast."* Because saying it out loud under the harsh, unromantic dorm fluorescent lights makes the danger real. It admits that she’s over the cliff.
+
+It’s a short, quiet bridge of a chapter, but honestly, after the sheer frantic heat of the spanking bet, the pastry confession with Randi, and the drawer reveal, this little pocket of dorm reality felt necessary. It grounds the tragedy. Vee is glowing like a streetlight, and Cassie is turning the page of her textbook, just waiting for the bulb to shatter.
+
+GATE 39 — School Nights
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension here is agonizingly good—watching Vee gleefully hand over the exact intimate photo she forbade Peter from sharing, completely oblivious to what she's actually feeding to Randi. I need to see what happens when these two worlds inevitably collide in the open.
+WHY: It’s a quiet breath between storms, but Cassie’s grounded, no-bullshit presence provides the exact emotional reality check Vee needs right now. The dramatic irony is humming so loud it practically vibrates off the page.

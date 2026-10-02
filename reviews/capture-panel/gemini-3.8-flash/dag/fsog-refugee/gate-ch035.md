@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch035 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 3fae9b31dd45 · 2026-09-19*
+*capture-dag-v2-rich · gate ch035 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 13e407d9f33a · 2026-10-01*
 
-REACTION
+**REACTION**
 
-*Oh.* Oh, my god. My chest actually aches.
+Oh, this chapter completely got me. My heart is still beating fast.
 
-After the absolute psychological warfare of Chapter 34—Randi practically waterboarding her with sensory manipulation and that predatory, glazed-pastry kiss on the curb—walking into this chapter felt like taking the first full, clean breath of air in days. I needed this. Vee needed this so badly.
+First of all: *that* is how you do consent in a high-heat, high-intensity scene. When she said "Don't" as his hand moved up her thigh, and his hand didn't just pause, didn't hesitate, but *instantly left her*—palm up, empty, giving her back the whole room—I physically exhaled. That is the exact line between a man who is genuinely safe to surrender to and a man who is just taking what he wants under the guise of a game. And because he gave her that absolute exit, her coming back with "Yes. We find out" was entirely *hers*. It had teeth. It had nerve. It wasn't him wearing her down; it was her stepping up to the ledge because she actually wanted to jump.
 
-The drawer. God, *the drawer*. When she opened the top drawer expecting to find her things shoved away like a reprimand, and instead found he had literally condensed his entire life, crammed his neat little masculine essentials into the bottom drawer just so she could have the top one—the easy one, the one your hand reaches for first without looking? That is the quietest, most devastating act of devotion I have read in this genre in a very long time. It’s not a billionaire buying a woman a car to mark his territory; it’s an intensely private, meticulous man carving out actual physical and emotional territory for her in his sanctuary. Without a note. Without demanding credit. He saw her mess, saw her insecurity in the mirror, and instead of reassuring her with cheap words, he made her a home.
+And the scene that followed was so deeply tender. It wasn't the performative, punishing degradation Randi described in that closet. There was no counting, no cruelty, no making her feel small. It was just his big, rough, woodworking hand, soothing the sting after every strike, kissing the warm pink of her skin, holding her through the shame until the shame just burned away into pure sensation. He didn't mock her for being wet; he looked at her wetness like it was "true and fine and hers." God. That line almost made me cry. Every woman who has ever felt like too much, or too hungry, or secretly dirty for wanting it, felt that line straight in the chest.
 
-And Vee admitting she loves him! It’s terrifying, because the dramatic irony hanging over this book is like a guillotine. The jacket blurb is always there in the back of my head: *every yes was freely given, that was the problem.* We know there’s an ugly blueprint under all of this, we know Randi is circling like a shark, we know Pace has Daphne in his past and Randi in his present. But sitting in this chapter, watching him spin her around at the door, seeing him whisk together mustard in a glass and feed her salmon, watching him bring her over the edge multiple times before he ever takes a thing for himself—you cannot convince me this man doesn’t feel it. If this is purely a manipulation game for him, he is an absolute sociopath. But the way it’s written, it feels like the exact opposite: the game is slipping out of their control because *he* is falling, too. He crammed his things into a smaller drawer for her. You don't fake that.
+Then the aftercare! Bringing her cold juice in bed? Stroking her hair until she fell asleep and telling her she's wonderful on repeat? And the *scrunchies*. A whole pack of green and white scrunchies sitting on the bathroom counter because he remembered her standing in his bathroom on Monday morning near tears over her wild hair. He doesn't say "I love you," he doesn't make a big speech; he buys a dozen hair ties to tell her he plans on her waking up in his bed a hundred more times.
 
-She’s losing weight from how completely she’s expending herself on him. She’s whispering his real name into the crook of his neck while he sleeps. It’s so tender, so overwhelmingly domestic and safe, that it makes the coming fallout feel a hundred times more lethal. I am completely locked into this.
+And then he cooks her a rich vegetable curry with toasted spices and opens Chinese beers for them. She is admitting to herself in the mirror that she needs to stop pretending—stop the "Victorian LARPing"—and just pack a bag. She's moving in, emotionally, piece by piece.
 
-GATE 35 — Above Him
-DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-ALMOST-STOPPED: none
-WHY: The quiet emotional intimacy of this chapter was breathtaking. Seeing him surrender his own space for her—giving her the top drawer without a single word of performance—balanced out the heavy manipulation from earlier and made me fall right alongside her.
+I know the dark cloud is still out there. I know Randi is pulling strings and that Pace and Randi have an arrangement that Vee has no clue about, and when that drop comes it's going to hurt like hell. But seeing Pace be this genuinely devoted, careful, and adoring with her when they are completely alone makes me believe that whatever happens, his feelings for Vee have outgrown the scheme entirely. He is in deep. I couldn't put this down if I tried.
+
+***
+
+**GATE 35 — We Find Out**
+**DECISION:** CONTINUE
+**CAPTURE:** 10
+**NEXT:** 10
+**HEAT:** 3
+**ROMANCE:** 3
+**ALMOST-STOPPED:** none
+**WHY:** Flawless balance of heavy erotic charge, absolute rock-solid consent, and exquisite tenderness. When he instantly pulled his hand away at "Don't," and then gave her the gentlest aftercare imaginable—juice, hair-stroking, and that pack of scrunchies on the counter—the book completely won me over.

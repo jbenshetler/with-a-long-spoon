@@ -1,17 +1,26 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~025d1b3f1ab8 · 2026-09-11*
+*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a3af5d5e997c · 2026-10-01*
 
 REACTION
 
-Oh, Vee. This hurt in exactly the quiet, lonely place the last two chapters have been pressing. The shirt used to feel like devotion made tangible—something she could carry away full of him—and now she can feel that its warmth is only her own warmth coming back to her. That absolutely gutted me. She has become unable to live on evidence she has to interpret. The drawers and meals and scrunchies and kisses are all still real, but they cannot answer the question she is finally asking.
+Oh, the shirt. The stupid enormous shirt absolutely undid me.
 
-And Pace’s silence is no longer merely reserved or romantic to me. It is hurting her. He might have reasons; I’m sure he does. But she offered him that beautiful cracker-and-meal sentence as safely as she possibly could, and he answered the part about their bodies because that was the part he could bear to answer. Now she is freezing herself rather than ask again. This is what his carefulness costs when it becomes avoidance: Vee does all the emotional risking, then privately convinces herself that whatever he gave back was enough.
+Her asking him to wear it all weekend so she can take his smell back to the dorm could have felt desperately embarrassing, and for one terrible second I thought she was going to retreat when she saw that flash of hurt on his face. But he understood. He didn’t tease her, didn’t make her explain why she needed him, didn’t turn her need into leverage. He just put the flannel on over the shirt he was already wearing and promised to fill it back up with himself. That is exactly the kind of possession I want: she wants to carry him away, she tells him how, and he gives himself to the ritual. “Smelling like me” got me right in the chest.
 
-I wanted to reach down into that bunk and wake Cassie. She is right there, breathing below Vee, and Vee is wearing Pace’s shirt partly to conceal from her how far gone she is. That feels like the whole narrowing of her life in one image: the safe friend close enough to touch, the beloved man across town, and Vee alone between them because she cannot say the truth to either one.
+And yes, five nights apart made the reunion scorching. I loved that she was the impatient one, dragging him down the hall while he came slowly because of course he did. Him catching the bra without pulling, making her turn herself out of it, was almost unbearably hot. It’s control without force—he creates the shape and lets her choose to keep moving through it. Her body “publishing the number” she had tried to keep private made me laugh because, sweetheart, nobody believes you weren’t counting. Certainly not me.
 
-The nakedness here did nothing erotic for me. It felt desolate—almost like she was stripping away her last comforting interpretation and making herself endure the cold because false comfort had become unbearable. I’m not leaving, but I am frightened for her now. Pace needs to speak. Not cook, not arrange a drawer, not hold her beautifully, not answer a question with a practical solution. Speak. And if he cannot tell her he loves her, he at least owes her an honest name for what he believes they are.
+But the part before that mattered just as much: she told him school had to come first for a few nights, and he said, essentially, yes, go, I’ll still be here. No punishment, no sulking, no withdrawal of affection. I understood the unreasonable little part of her that wanted him to fight for the nights, though. I want him to say he misses her. I want him to risk needing her out loud instead of always making his love into a beautifully completed task. His grace makes her safe, but sometimes it also leaves her doing all the emotional exposing.
 
-GATE 44 — Bare
+“He was good at not asking things” landed like a knife because yes, he is—and that trait is not innocent anymore. He didn’t ask about the shirt because he was prepared to accept her choice even if it hurt him. That is lovely. He also isn’t asking whether she would choose the whole truth of his life because he and Randi have decided she doesn’t get the question yet. The same restraint can be tenderness in one room and concealment in another, and I cannot stop seeing both now.
+
+I’m also staring very hard at that “long, unusually proportioned table” in the bedroom. The book practically rang a little bell beside it, then tossed her green thong on top. I remember the jacket’s unopened door. I do not believe that table is merely furniture, and apparently I am now waiting for a table to become a threat and a promise.
+
+The ordinary domestic happiness here is what makes me most vulnerable. Sex, robe, wine, pizza, unpacking into her drawer: she isn’t visiting anymore. She has habits in this house. She has belongings there and a system for surviving the nights away. She thinks his unspoken acts are “the whole of his answer,” and God, they almost are. I believe he loves her. That certainty is making the secret worse, not better.
+
+GATE 44 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This hurt terribly, but it feels like Vee’s need for an answer has finally become too sharp to keep soothing back into silence. I need to see whether she asks plainly—or whether Pace notices what his refusal to speak is doing to the woman he claims to see so completely.
+WHY: The reunion gave me exactly the consensual control and ravenous female desire I came for, and the shirt exchange finished me emotionally. I’m deeply happy inside their new ordinary—and increasingly afraid of how much Vee has built her home inside a truth Pace still will not tell her.

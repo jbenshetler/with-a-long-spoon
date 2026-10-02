@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch015 · gemini-3.8-flash · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~13cbb0faa7b7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch015 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 25b7bedbae77 · 2026-10-01*
 
-REACTION:
+REACTION
 
-I am sitting here with my hand flat against my sternum because my heart is beating so hard it feels bruised. 
+Oh, the sheer *dread* sitting right under the surface of this chapter is exquisite.
 
-This chapter. *This fucking chapter.* 
+On the outside, this is the most normal, bubbly, recognizable college-girl dining hall scene imaginable. The stolen fries, the girl talk, the dissection of texts, the friend calling out that a two-word invite is basically a ransom note ("That’s not a message, that’s a ransom note" made me snort out loud). It’s so light, so warm, so completely grounded in Vee’s everyday life. But because of where we just were in Chapter 14—watching Randi ride Pace until she broke, hearing Pace feed Randi the sensory details of Vee’s hair and body like raw meat, seeing Randi unravel from the inside out—every single laugh in this dining hall feels like a bell tolling.
 
-I have read hundreds of spicy books where a man pins a woman to a wall or growls some canned possessive nonsense, and not a single one of those manufactured alphas has half the raw, terrifying, erotic voltage of Pace kneeling on that floor with a mouthful of pins, looking up at Vee like she is an answered prayer. The restraint is what makes it completely unbearable. The fact that he *could* have taken her right there—that she was practically begging for it, standing on that box in soaked pale satin with her breasts bare in the afternoon sun—and instead he stayed on his knees and kept pinning the hem because he promised to make her something for a night that belongs to her? It is so profoundly tender, so utterly validating to every starved, ashamed inch of Vee’s psyche, that it feels almost violent. 
+I love what Vee keeps for herself, too. Notice how she edits the story for Meg and Kayla? She tells Cassie the truth about stripping in the truck, but for the dining hall friends, it’s the clean, movie-version meet-cute: *He gave me his shirt and stood in the rain.* She’s hoarding the real heat, keeping it close to her chest. And the fact that she’s "climbing the walls over a man asking me what I want for dinner"—god, that speaks so directly to the kind of emotional deprivation she’s lived with. It’s not just that he’s hot; it’s that his courtesy feels like a kink all on its own.
 
-And that is what makes this book so devastatingly good: the reader knows what she doesn’t. We know that Ch 1 exists. We know that somewhere in that house is the oiled walnut bench. We know that Randi is out there waiting for the report. So while Vee is standing there having this magnificent, soaring awakening—realizing she has power, realizing her body isn't an ugly, excessive mistake, feeling that awful maternal policing voice finally get drowned out by a man’s quiet adoration—I am watching the trap spring shut around her, and the trap is made entirely of pure, golden sunlight and burgundy silk. He isn't coercing her. He is giving her back to herself, piece by piece, so that when the surrender comes, she will hand over the keys to the castle with tears of gratitude in her eyes. 
+And now, Saturday. Two o'clock.
+"He's not asking you over to eat. He wants you for the afternoon."
+Kayla has no idea how right she is, and neither does Vee. She thinks she's going over for some domestic next step. I am sitting here sweating because *we* know what's in that house. We know the bench disguised as a bedroom table. We know Randi’s tire tracks are barely cold on the gravel cut. We know he's inviting her into the lion's den, and he gave her literally zero instructions so she has to arrive completely exposed, entirely at his mercy.
 
-The physical mechanics of the scene were exquisite. The soaked satin. God, the agonizing, humiliating reality of a woman’s body betraying her when she’s trying so hard to be polite and composed, and then the sheer mercy of him craning his neck up to look at her *eyes* instead of looking down at the wet spot. When she leaned down and pressed her bare breast against his cheek on purpose, and he flushed red and laughed through his nose? And then kissed the pinprick on her ribs? *“Keep still.”* Just two words, low and rough, and the air got completely sucked out of the room. It’s the kind of heat that makes your stomach drop because it feels earned down to the marrow. 
+This was a classic bridge chapter, but it worked like gangbusters because the dramatic irony is ratcheted so tight you could play a tune on it. My stomach is in knots for Saturday.
 
-I’m completely undone by them. I want her to have the dress. I want him to finish it. And I am terrified of the moment that bedroom door finally opens.
-
-GATE 15 — A Round
+GATE 15 — What to Wear
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 8
+NEXT: 10
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological and physical tension in this room was suffocatingly hot, brilliant, and completely merciless; I wouldn't stop reading this right now if the building caught fire.
+WHY: The contrast between the breezy, funny dining hall chatter and the absolute freight train Vee is walking directly into is pure tension. Kayla pointing out that two in the afternoon isn't lunch or dinner made my stomach drop—I need Saturday to happen immediately.

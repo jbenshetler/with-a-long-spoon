@@ -1,25 +1,26 @@
-*capture-dag-v2-rich · gate ch041 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~a3af5d5e997c · 2026-09-10*
+*capture-dag-v2-rich · gate ch041 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 38dcf8e44cd8 · 2026-10-01*
 
-REACTION
+REACTION — Oh, this is cruel in exactly the way I want now. *He’s all mine.* Baby, no. And then she asks him to promise he will never share her with anyone, and he answers the photograph instead of the woman. The wording is technically clean and emotionally filthy. I felt the trap close around her trust even while I believed completely that he would guard that image with his life.
 
-Oh, Cassie. She asks one clean question and suddenly every drawer, shirt, meal, orgasm, and withheld fact is standing behind Vee demanding a name.
+And God, the picture worked on me. Not merely because he arranged her naked body with that calm competence—although yes, absolutely that—but because she goes away and makes herself into the version she wants preserved, then he takes over without erasing that choice. Shoulder, hip, knee, a kiss after every placement. That is precisely the combination I keep wanting from them: she decides to be looked at; he makes looking feel like care. The photograph gives her back a self she can recognize as beautiful. Sending it is genuinely brave, which makes the concealed relationship underneath that trust feel worse, not better.
 
-What got me is that Vee can explain Pace beautifully through particulars—he made the dress because she once wanted something she couldn’t afford; he taught her to dance before taking her dancing—but cannot say what he is to her. Not because her feelings are vague. They’re enormous. The relationship itself is vague, because Pace has let it become domestically and erotically profound without ever giving her the plain information that would let her name it. She told her parents “boyfriend” with a question mark because no one has actually offered her the declarative sentence. That made me sadder and angrier than another overtly sinister clue would have.
+“No man had ever wanted her body like this one did” could have been standard romance mush, but the distinction that follows is the whole book for me: with him she is a girl who has a body, not a body dragging a girl behind it. Yes. That is why I believe her love, and why I cannot dismiss Pace as simply a manipulative man with excellent manners. He sees her personhood constantly. He is also withholding the fact that will make her question every instance of being seen.
 
-And the cropping motif hurts. She cropped the induction photograph for her parents, cropped the nude for Randi, and keeps giving Cassie the parts of Pace that fit. Meanwhile Pace and Randi have cropped the whole structure of her life before presenting it to her. Everyone receives a tailored version; Vee is the person missing the most consequential part.
+The sex had real charge without feeling like another scheduled performance, and I loved that she could be spent, sore, greedy, vain, composed, hungry, and then greedy again. She is not being purified into some tasteful literary heroine. Thank God. “Again” changing from a question to an instruction got me.
 
-Her father’s suspicion also landed. He doesn’t know enough to identify the catch, but he correctly feels that “too good” can conceal one. Except the dress really is that loving. Pace really did hear an idle wish, remember it, acquire the skill, and make beauty precisely for her body. I refuse to flatten that into mere grooming machinery—and that is exactly why the deception is going to be catastrophic. The good facts are good. They just don’t add up to the story Vee thinks she is living.
+The kitchen afterward was almost indecently domestic. Water first, wine after. Her in his shirt, his whole attention sinking into the food, his pleasure when she takes the first bite. She has learned to taste because he fed her closely enough to teach her attention. That is romance to me, much more than a speech would be—though I still want the speech.
 
-I loved Vee’s thoughts about weird being worse than wrong. That is actual interior life: she understands how her father sorts the world, and she has begun to understand that Pace has awakened something in her that cannot survive inside those categories. “I’m not ashamed of it. The opposite” felt quietly huge. She isn’t protecting the sewing because she finds it emasculating; she is protecting something precious from being diminished by a person who lacks the language for it.
+And then, finally, she touches his past and he turns into a locked door. “This is my home” warmed me for half a second before I realized it meant *do not ask where I came from.* Vee’s choice to let the quiet be kind is tender, but I’m uneasy that she so quickly interprets his boundary as something she must never approach. She is putting more and more of herself into his hands while whole regions of him remain inaccessible.
 
-But then Cassie asks, “So what is he?” and Vee has no language either. That parallel is brutal.
+Sheri coming to Thanksgiving made my stomach tighten. Not because I think Pace and Sheri are sexual, but because here comes yet another woman who knows the real arrangement while Vee sits outside it. Vee’s flash of jealousy was sane information, and she extinguished it the instant Pace supplied a sympathetic explanation. She trusts his framing so readily. Now Sheri is actually approaching the table, and I need to see whether Vee feels the imbalance when she is face-to-face with someone else who has been briefed on her life.
 
-Cassie remains the only person who leaves silence unexploited. She asks whether Vee can’t answer or won’t, accepts “both,” and returns to her food. No lever, no teasing challenge, no interpretation planted for Vee to mistake as her own. And Vee is grateful and disappointed because she wanted someone safe to press until the truth—or at least the question—came out. I wanted Cassie to press too, while knowing her refusal is precisely why I trust her.
+What I’d text at 1 a.m.: “She made him promise not to share her and he promised not to share the PHOTO. I am unwell.”
 
-This chapter wasn’t hot, but it tightened the emotional vise. I’m still absolutely in. I need Vee to take Cassie’s question to Pace and make him answer it without a beautifully precise substitution.
-
-GATE 41 — Cropped
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: “So what is he… To you” exposed the central absence beneath all that intimacy, and the repeated cropping made Vee’s partial understanding ache. Cassie’s restraint only sharpened it: she is the one person who won’t manufacture Vee’s answer for her.
+WHY: The naked photograph was intensely erotic and genuinely tender, while its carefully narrowed promise made the hidden arrangement feel newly poisonous. Pace’s past finally showed a locked edge, and Sheri is about to enter the domestic space carrying knowledge Vee does not have; I’m already turning the page.

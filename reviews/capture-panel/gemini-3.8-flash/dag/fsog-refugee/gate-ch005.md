@@ -1,18 +1,16 @@
-*capture-dag-v2-rich · gate ch005 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha a56102b7d0d5 · 2026-09-26*
+*capture-dag-v2-rich · gate ch005 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ba0f4b39c8e6 · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh, god. My stomach is actually in knots. The dramatic irony here is suffocating in the absolute best, most terrifying way.
+*Oh*, the chill that went down my spine reading this. My stomach literally dropped.
 
-Knowing what we know—that Randi was literally *texting him* from across the table to come over, that they stood on the quad together picking Vee out like a dish on a menu, that Randi has been facedown on that table in his bedroom crying and coming undone—and then watching Vee experience this meet-cute as pure, organic magic? It’s sickeningly brilliant.
+Knowing what Pace and Randi did in chapters 1 and 3—the bench, the pointing game on the quad, the deliberate stalk-and-steer—and then watching Vee sit there so sweet and earnest, genuinely struggling with her math problem, thinking she just met a handsome stranger who *happened* to hear her across a coffee shop? It's breathtakingly devious.
 
-And Pace! Look, my whole thing is that I need dominance to come with real gentleness, and he executes that so cleanly it makes you understand completely why a smart girl like Vee is falling into the trap headfirst. The forearms, the quiet confidence, the way he gives her *back the pencil*. He doesn't swoop in and solve the problem to show off how brilliant he is; he gives her the tool so *she* gets the satisfaction of solving it. It’s so respectful, so attentive, so completely the opposite of every arrogant college boy she’s ever met. "May I call you?" Who says *may* anymore? It’s courtly and gorgeous, and if I didn't know about the table in his bedroom, I’d be swooning with zero reservations.
+And the execution is what's killing me. Pace didn't come over like an arrogant prick or some smooth-talking frat boy. He came over and was *gentle*. He asked with his eyes before touching her pencil. He didn't show off; he gave her the exact key to solve it herself, handed her back the control, and listened to her talk about her real passions for five whole minutes without interrupting or looking at his phone. That is *lethal*. It’s everything a smart, guarded girl wants, and it’s being deployed with absolute, calculated precision. When he asked, *"May I call you?"* my heart squeezed. To her, it’s courtly, rare respect. To me, knowing the architecture behind it, it’s the trap door sliding open under her feet while she smiles.
 
-Instead, I’m swooning *while holding my breath*. Because the care feels real, but the architecture around it is a complete conspiracy. Randi sitting there playing the supportive girlfriend/friend, bringing the coffee cup to her mouth twice without drinking, acting like she doesn't know him—Randi’s performance is chilling. She’s giving him away, she’s setting the snare, and she’s already imagining Vee on that bench.
+And Randi! God, Randi sitting there playing the bored, supportive friend, nursing a cold coffee she never actually drinks, dropping the little line about him leaving without his cup just to plant the seed deeper in Vee’s head! It's so wicked. Randi is orchestrating her own boyfriend seducing this girl, feeding Vee right into the path of the bench, and Vee thinks she's just making a cool older friend and having a movie-moment meet-cute.
 
-And Vee’s inner life is rendered so beautifully here. Her little borrowed poise—using Randi’s exact joke about her name!—and the way she talks about economics: *"the gap between what they say they're doing and what they're doing."* The book is almost taunting her with her own insight. She’s studying the exact mechanism of her own seduction and has no idea.
-
-I need them in a room alone together yesterday. I need to see him look at her when Randi isn't there, and I need to see if that tenderness holds when the stakes get dark.
+The consent question here is wound so tight it’s humming. Vee is choosing every single millimeter of this—she wants him to look at her, she wants to solve the problem, she gives the number freely, she wants the phone to light up. She has total agency in the moment, and zero context for the game being played around her. It’s intoxicating and deeply unsettling in the best possible way. I cannot wait to see them alone in a room together.
 
 ***
 
@@ -20,5 +18,7 @@ GATE 5 — Substitution
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension is excruciating because the seduction works on me just as well as it works on Vee—Pace's quiet, respectful competence is intensely appealing, which makes the trap they've laid for her all the more thrilling and terrifying to watch. I have to see what happens when he actually calls her.
+WHY: The dramatic irony is absolute crack. Watching Pace deploy pure, respectful gentleness as the opening move of a calculated seduction made my pulse race; I need to see their first date immediately.

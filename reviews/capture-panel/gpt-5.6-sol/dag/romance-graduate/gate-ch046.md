@@ -1,23 +1,22 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~eeeec469236e · 2026-09-10*
+*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-01*
 
-REACTION — Oh, Randi. This is the first time I’ve been allowed all the way inside her, and somehow she is both more human than I feared and more culpable than I hoped.
+REACTION — Oh, that hurt. She handed him the closest thing to *I love you* she could survive handing over, beautifully and unmistakably, and he answered the safer question. “I love how good we are together” is what you say when you want to preserve the warmth without accepting the meaning. Then he made it about what her body does. She offered him the whole meal—food, home, sleep, attention, the changed texture of her life—and he answered with sexual compatibility.
 
-That breakfast explains so much without excusing anything. The invented boys, the correctly portioned salmon, the bracelet kept out of the light, the mother made of edges, the father cheerfully demanding a version of her he can enjoy: of course Randi learned to make truth technically flawless and emotionally false. Of course every confession has cover. She has spent her whole life giving people fairytales made entirely of accurate details.
+And “I never had this either” made me go cold, because Randi exists. Maybe he means this exact bond, this exact bodily abundance, and perhaps that is technically true. I do not care. He knows there is an entire concealed relationship sitting inside the word *never*. Vee is searching his sentences for love while lacking the information required to understand them.
 
-And John is the perfect fantasy of not having to choose. Gorgeous, approved, effortless, decisive. He can ski better without humiliating her, dance her around a room, produce champagne and a sleigh and the entire life her parents ordered for her. I understood why she wanted the assumption after Pace’s relentless asking—why being carried by someone else’s certainty could feel like relief. But then the sex leaves her untouched underneath, and that is the distinction I’ve been hungry for this book to make. Good technique is not intimacy. Pleasure can be absolutely real and still fail to reach the person having it.
+The most painful part is that her body catches the evasion immediately. That little *wait* behind her breastbone is the same intelligence she keeps suppressing whenever warmth follows quickly enough. And Pace knows how to provide warmth. He pulls her close, kisses her hair, gives her every physical sign of reception except the answer she asked for. I don’t think he is cold or consciously cruel. I think he loves her and is frightened or damaged or protecting the hidden structure he built with Randi. But the effect on Vee is the same: she offered herself, then had to construct the phrase “received warmly” as evidence for the defense.
 
-“Pace on his worst night reached further than this man had managed at his best” hurt. So did her realizing that Pace finds the self she hides while being completely impossible inside the life built to hide it. That makes her and Pace feel less like two glamorous conspirators playing with a girl and more like two people who already recognize each other’s exile. It makes their plan sadder, more comprehensible—and still not remotely acceptable.
+Her certainty that the words “go through him first” made me furious and sad. No, sweetheart. There is no rule. There is only the rule you invented because you already know, somewhere, that you are less safe in this love than his tenderness makes you feel.
 
-But Vee. Finally. Randi knows exactly what comes off Vee across a table. She loves her without a private qualifier. She has the noun, the desire, the whole terrifying truth—and then she deliberately chooses the loophole: “Let Vee arrive at it on her own.” That is the same moral rot at the heart of everything. She calls it cowardice and friendship preservation, but she is still arranging the conditions while reserving Vee’s choices for later. She wants Vee’s unguarded love more than she wants Vee informed.
+The chapter did explain the mismatch a little longer than I needed; I understood it at “something else was beginning to move.” But I was too emotionally caught to leave. The pile of “small repair work” is the real alarm. This is how a woman begins editing her own perception to preserve a man she loves. I want Cassie in that laundry room. I want Vee to say both sentences aloud to someone who won’t help her make them match.
 
-“Vee was her gorgeous” absolutely got me. So did that text arriving while Randi is reconstructing her face beside the perfect nothing. Vee offers presence with no demand—talk or don’t—and Randi answers with a true lie, then slips one naked sentence inside it. I believe “miss your face” completely. I also want to shake her. Vee is already feeling the ache of Pace refusing words, and here is Randi doing precisely the same thing in a prettier dialect: saying enough to keep the warmth, never enough to let Vee decide what it means.
+Text to a friend at 1 a.m.: **HE SAID “I LOVE HOW GOOD WE ARE TOGETHER.” That is not the same sentence and her body knows it. Also this man has a secret girlfriend. I am unwell.**
 
-Also, that bracelet is screaming at me. Plain white gold, locked on, never removed, catching against her hand while she dances with another man—I need to know who put it there. If Pace did, I may actually combust.
-
-The sex with John didn’t turn me on much, but I don’t think it was supposed to; its vacancy was the point, and the lipstick ring gave it enough bodily reality that I didn’t feel coyly ushered past the bedroom. What did turn me on was Randi being matched on the mountain, then led on the floor, and the dangerous clarity of her comparing both experiences to Pace. This woman’s appetite is as exact as her manipulation. Now that I know how frightened and lonely she is, I want her more and trust her no further.
-
-GATE 46 — Fairytale
+GATE 46 — Seconds
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: Randi finally admitted to herself that she wants Vee and then consciously chose concealment, which is exactly the emotional knife I’ve been waiting for. I’m furious, aching for her, and desperate to know what the bracelet means—and whether Vee’s kindness will save Randi or make her cowardice worse.
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: “She had told him something. He had told her something back. He had pulled her close and kissed her hair. The morning had continued. She had been received.”
+WHY: The repeated explanation came close to doing Vee’s emotional work for me, but the wound itself landed hard. This is the first time Pace’s tenderness has felt not merely incomplete but actively useful as cover, and I need to see whether Vee’s little *wait* survives him.

@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch034 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 702b7231d0c3 · 2026-09-19*
+*capture-dag-v2-rich · gate ch034 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 230524645ef4 · 2026-10-01*
 
 REACTION
 
-*Holy fucking shit.* I am sitting here with my jaw genuinely on the floor.
+God, the *nerve*.
 
-Randi is terrifying. She is an absolute, breathtaking apex predator and I cannot look away from her. The level of psychological manipulation happening across that sunlit brunch table made my stomach drop while simultaneously setting my entire body on fire. She knows *exactly* what she is doing. Calling him "vanilla" just to bait Vee into blurting out the spanking? Flawless. Then leaning in, extracting every single humiliating, explicit detail of Peter checking how wet she was, demanding the play-by-play, and then immediately pivoting to that filthy, fabricated-or-not story about masturbating in a stranger's fraternity bedroom just to push Vee entirely over the edge? She practically shoved Vee's hand into her own panties by remote control.
+I was holding my breath through that entire walk. You could feel the exact split-second where she had the choice: take the tiny, shuffling, church-girl steps, keep the silk pinned to her leg, play it safe in front of the parents and the navy-dress crowd—or *own* the creature she’s becoming. And she chose to lengthen her stride. She gave them the whole damn bare leg to the hip bone, with nothing underneath it, in broad daylight, in front of God and the economics faculty.
 
-And then the sheer psychological cruelty of "Sticky fingers?" when Vee walks back from the stall. I gasped out loud. My heart actually stopped for a second right along with Vee's. The brilliant, sickening ambiguity of it—giving her the out with the pastries while simultaneously letting her know she is utterly, completely transparent. Vee couldn't even finish herself off in that stall because the specter of Randi watching her, judging her, possessing her, was so loud it paralyzed her.
+What makes it so utterly intoxicating isn't just the exhibitionism—though, let’s be honest, the exhibitionism is top-tier delicious—it’s that sickening, gorgeous friction between her inner life and what the world sees. To the room, she’s just an astonishingly beautiful girl in a stunning gown having an accidental (or bold) high-fashion moment. To Cassie, taking that picture, it’s just her gorgeous roommate looking like an absolute star. But to *Vee*, every inch of that silk is steeped in Pace’s hands, Randi’s calculated styling, the hidden spanking bench she doesn't know about yet, the lingering sting from the kitchen, the total erotic reprogramming she’s undergoing. The fact that she texted that exact uncropped picture straight to Pace while he’s sitting in some dry-ass math conference in Berkeley? Cruel. Brilliant. Devastating. He is going to lose his absolute mind when he looks at his phone.
 
-And that ending. "You're my best friend in the whole world." The dagger wrapped in powdered sugar. Cassie is completely gone from Vee's mental landscape now, replaced entirely by this glittering monster who feeds on her. And then the kiss on the mouth at the curb, lingering, taking what she wants, leaving the taste of the pastry on Vee's lips. *One neat bite.* The title of the chapter isn't just about the food, is it? Randi took her one bite of Vee and left the rest to sweat.
+And Cassie, man. Cassie calling her "streetlight" and offering to buy her a terrible sandwich while she's secretly vibrating from the inside out with no panties on. The sheer density of the dramatic irony is so thick you could cut it with a knife. Vee thinks this is all *her* nerve, *her* pride, *her* blossoming. And it is, in a way! She’s the one taking the stride. But she is wearing a uniform designed by two predators who are seasoning her for the main course, and watching her lean into the flavor of it with so much genuine joy and heat makes my stomach do backflips.
 
-I need the trap to snap shut so badly it hurts. I need to see what happens when Peter and Randi are in the same room with her, because Vee is so hopelessly drowned in this web she doesn't even realize she's the meal.
-
-GATE 34 — One Bite
+GATE 34 — The Induction
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension between Vee and Randi is suffocating, brilliant, and completely unmatched; Randi is orchestrating Vee's unraveling with surgical precision and I need the next chapter this second.
+WHY: The tension during that walk across the stage was absolute perfection—Vee choosing to lengthen her stride and show the whole bare leg, fully aware of what she was doing. The psychological layering of her texting that photo to Pace while Cassie just sees a proud best friend is so good it hurts.

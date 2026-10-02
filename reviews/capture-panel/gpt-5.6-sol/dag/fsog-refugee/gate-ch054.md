@@ -1,16 +1,26 @@
-*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~bb2635a8b1b0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f6c081c5e67c · 2026-10-01*
 
-REACTION — Oh, Vee. “We talked”? No, you absolutely did not. You opened your coat, and he gave you sex and food and “I missed you,” and it was beautiful and real and still not the conversation you went there to have. Then the invented sweater disaster came pouring out so easily that I felt cold. She isn’t just keeping the sex private; she has to falsify the entire shape of the reconciliation because telling Cassie the truth might let Cassie see what Vee cannot bear to see yet.
+REACTION — Oh, Randi. No. No, no, no.
 
-And Cassie would see it. That held beat after “Pace shrank your sweater” was her giving Vee every possible chance to revise the story, then choosing affection over interrogation. I love her for laughing and letting Vee keep her cover, but I desperately want Vee to tell her something true. Cassie is the one person who might return Vee’s question to her intact instead of explaining why she was wrong to ask it.
+“That is not a man with another woman, gorgeous.” I nearly put the book down. She says it while being the other woman. She looks directly at Vee’s terror, knows the terror is substantially true, and uses everything Pace has told her to dismantle it piece by piece. His phone in the other room. His hunger. The meaning of his silence. She can interpret his face because she knows him intimately, and she presents that knowledge as feminine intuition and friendship. This is not merely withholding anymore. It is a lie designed to send Vee back into the arrangement without knowing the arrangement exists.
 
-Still, this chapter made me happy in that soft, home-from-break way. The room switching back on because Cassie is in it; the stupid snowshoes; the terrible cookies eaten out of civic duty; Cassie’s mother saving a place for Vee in her mind. That tiny “Oh” hurt beautifully. Vee has been starving for belonging in more places than Pace’s house, and here is this ordinary family wanting to see her again without requiring her to perform or seduce or be magnificent.
+And worse, Vee arrived asking for a name. She left because she finally understood that food and sex and warmth could not answer the question. Randi has now persuaded her to apologize with her body—to turn up naked under a coat and make sex the answer again. “Words are the whole war.” Yes, because the words would expose both of you. I feel sick. The coat is exactly the kind of daring I would normally adore: Vee choosing it, blushing through the shame, discovering that she wants the boldness. In honest circumstances I would be beside myself waiting for Pace to open that door. Here it feels like Randi has taken Vee’s genuine desire and weaponized it against Vee’s need for truth.
 
-I’m also relieved that she can come back from Pace’s abundance and still love the cramped dorm, the weak shower, the draft, and Cassie turning pages below her. She hasn’t vanished completely into his house. But the lie is now sitting right in the middle of the safest relationship she has, and the flannel shirt is comforting her again because she believes Friday is guaranteed. I’m warm, worried, and very aware that Pace still has not spent the words.
+Vee did not “blindside him with a fight.” She asked a necessary question. She did not demand “name it or lose me”; she kept asking because he kept refusing. And Pace’s fear is real—I know that now, and I ache for the boy who lost Daphne and taught himself that saying love makes loss unsurvivable. But Vee does not know any of that. Randi does not tell her. Instead she makes Vee responsible for cornering him and casts his month of silence as proof of helpless devotion. Pace chose silence every day of that month. Vee is allowed to be hurt by that.
 
-GATE 54 — Unpacking
+The hugs got me before the manipulation fully showed its teeth. Vee breathing Randi in, both of them holding past the natural end, the new clothes swept aside because Vee mattered more—I felt the exact thing I have been waiting for. They missed each other. They want each other. Randi’s care is real, which somehow makes this worse rather than better. She can hold Vee while she breaks and then steer her straight back toward the secret that caused the breaking.
+
+And those shoes. Randi has just dressed Vee for Pace again, knowing exactly what will happen when the coat opens. That is unbearably charged and unbearably wrong. Vee thinks her friend is helping her reclaim her lover. Randi knows she is arranging a sexual reconciliation with their shared lover. Vee’s choice is hers in the narrowest possible sense, but Randi has manufactured the conditions around it.
+
+Then Vee asks for the real New Year, and Randi gives her another cropped truth. Vee has protected Randi’s secret without being asked; Randi lies to her face twice in one room. “Everywhere but the bedroom” is especially ugly because it converts emotional emptiness into a joke Vee can laugh at, while hiding that Pace and Vee were the reason John could not reach her.
+
+I am continuing because I need to see Pace open that door, and because his last chapter proved he knows he failed her. But if he accepts the naked apology without stopping to give Vee the words she asked for, I may be done with him. The heat is there—I can feel it—but I resent being made to want the scene when Vee has been maneuvered into it. At one in the morning I would text: “Randi just gaslit the woman she loves into apologizing to their secret shared boyfriend with sex, and I am FURIOUS.”
+
+GATE 54 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-ALMOST-STOPPED: none
-WHY: The Cassie warmth gave me somewhere to breathe, but Vee rewriting sex as “we talked” made the unresolved problem louder, not quieter. I need to see whether Cassie keeps letting that lie stand—and whether Pace’s plan to meet Vee’s people finally brings the hidden worlds close enough to collide.
+CAPTURE: 10
+NEXT: 10
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: “That is not a man with another woman, gorgeous.”
+WHY: She is the other woman, and she used Vee’s trust to erase a true fear and redirect a demand for honesty into sexual surrender. I have to see what Pace does when the door opens, but the book has brought me right to my coercion line.

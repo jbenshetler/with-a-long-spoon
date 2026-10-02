@@ -1,23 +1,30 @@
-*capture-dag-v2-rich · gate ch038 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 38dcf8e44cd8 · 2026-09-19*
+*capture-dag-v2-rich · gate ch038 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha efddca81bfc1 · 2026-10-01*
 
 REACTION:
 
-Oh, god. My stomach actually dropped when the phone came out.
+Oh, this chapter just completely wrecked me in the best possible way.
 
-*“Only if you promise you’ll never share me with anyone.”*
-*“Never. I’d never share your photograph.”*
+I was carrying so much tension after the last chapter with Randi—that weird, slick, manipulative energy over pastries and bathroom stalls had me feeling almost sick for Vee. And then to walk into this chapter and have it be pure, unhurried, devoted shelter. The contrast hit like a physical wave.
 
-I felt sick reading those words, because I remember the jacket. I remember that Randi and Pace started this as a game, that they share everything, that she’s sleeping with him too. And here is Vee, completely glowing, entirely in love, actively giving him this vulnerable, naked, arranged piece of herself on the absolute trust that it belongs only to him. When the text said *Delivered*, it felt like watching someone hand over the deed to their own heart without reading the fine print. It’s so brilliantly, agonizingly written because from the inside, from *her* perspective, it is the safest she has ever felt. The tenderness of him posing her, the kiss on her shoulder, the kiss on her hip, adjusting the lamp so the glare wouldn't wash her out... it’s so intimate, so deeply erotic, and so utterly steeped in an impending betrayal that it makes my chest ache.
+First of all: the door opening and him lifting her clean off the floor. That whole reunion, dropping their coats where they stood, the fact that he *always* brings her over the edge first before he even thinks about taking anything for himself. That’s what I read this genre for. That exact thing. It’s not just dominance; it’s an obsession that manifests as absolute, meticulous care. The cooking, the cold wine, the salmon, the coming back to her an hour later on the couch—the ordinary domestic poetry of a man who is completely, hopelessly in love with a woman and showing it through every single sense.
 
-And that’s what makes Pace so completely fascinating to me. He isn't a cartoon villain. He genuinely cares for her. Look at the kitchen—the way he watches her take that first bite, the chicken piccata (or whatever gorgeous lemon-butter concoction that was), giving her water before the wine because he knows her body needs it, the absolute physical reverence he has for her. When he lays his head on her breast and just breathes her in, that isn't fake. But then there’s that wall: *"I don't go back."*
+And then the admission: she loves him. She whispers his real name while he’s asleep. My heart was in my throat, because on one hand, it is the most earned, beautiful feeling in the world, and on the other, I am still terrified of the secret between him and Randi that sits under this whole book like a landmine. When Vee counts all the ways he says it without saying it—"a man didn't do all of that for a girl he was only passing a season with"—I wanted to cry, because she is right. Whatever game they started, he is not just passing a season anymore. He's down in it.
 
-The absolute chill in that line. He gave her his real name, but he keeps the door to his past bolted shut. Just like that surgical scar she traces and never asks about. And then casually mentioning Sheri coming over for Thanksgiving—which Vee generously brushes off because she's so high on being loved.
+But the ending. *The drawers.*
 
-The heat between them when they're in that house is unreal. It’s domestic, it’s thick with real sexual satisfaction, it’s everything Fifty Shades tried to be with the "dominant takes care of the naive girl" dynamic, except Pace actually *sees* her, actually feeds her, actually pays attention to whether she's thirsty. But the trap is so deep now. She’s swimming in it.
+When she saw the bare counter, my stomach dropped right alongside hers. That awful, familiar panic of a woman who has spent her whole life feeling too big, too loud, too messy, suddenly thinking she’s taken up too much space and worn out her welcome. And then she pulls that top drawer open.
 
-GATE 38 — In His Hands
+He didn't just tidy up. He didn't leave an exasperated sticky note or put her things in a basket on the floor. He crammed his own life into the bottom drawer—the cramped one, the inconvenient one—and gave her the top one. The easy one. The one your hand goes to first. He made a home for her mess inside his neatness. He carved out permanent, physical room for her.
+
+No words, just the quietest, most devastating act of devotion. If a man did that for me, I would lay down on the floor and weep. I don't care that there wasn't a whip or a spanking bench in this chapter; the intimacy here was completely breathtaking.
+
+***
+
+GATE 38 — Above Him
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The contrast between the sheer, delicious intimacy of their domestic bubble and the ticking time-bomb of that photograph had me completely hooked. I need to see what happens when the edges of this private world start colliding with Randi and the outside reality.
+WHY: The quiet devotion of this chapter completely cleared out the bad taste of the brunch from before; the gesture with the bathroom drawer was one of the most tender, heart-melting moments of domestic intimacy I've ever read in romance.
