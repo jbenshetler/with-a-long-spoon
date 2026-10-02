@@ -21,3 +21,12 @@ Diction to favor on revision: *buckle · fasten · strap · held · gave way.* K
 ## Reserve
 
 **Buckled** was the runner-up title and stays on the shelf for the **first literally-restrained threshold** — it lands harder where the restraint is real than here where it's only figured. Don't spend it on this step.
+
+## Randi's two quiets (author ruling 2026-10-01)
+
+The dress draws the same reaction from Randi twice, and the chapter holds both:
+
+1. **Friday, in class** — Vee says it is finished and that she stood in the window failing to find the word. Randi is turned toward Vee as Cassie is, not the board, with nothing on her face; Vee reads both friends as caring about her over a dress and sees no contrast between them — the reader does. "You lucky slut" is the recovery.
+2. **Saturday, the shoulder seam** — at "He was up all night finishing it … I watched him sleep," the same quiet, and this time the breath runs long. Vee notices it is the same quiet as yesterday and wonders if it is jealousy — not of her, of him, a man who sits up nights and pays attention — and wants that for Randi. The loneliness read (beautiful boys in a hurry, dinners ahead of time) stays as what Vee lands on.
+
+Guards: Vee never says it; Randi's recovery is brisk and businesslike both times; no third instance in this chapter. Rule exception recorded in `meta-craft-randi.md` (the never-envious rule) and `meta-arch-randi.md` (leak calibration).
