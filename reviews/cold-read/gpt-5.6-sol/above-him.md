@@ -1,46 +1,34 @@
 # Cold read (grounded) — Above Him
 
-*scene: scenes/above-him.md · model: gpt-5.6-sol · memory: ck-ch030 + raw ch031..ch034 · reader-protocol: v3-grounded-checkpoint · prose-sha ~3fae9b31dd45*
+*scene: scenes/above-him.md · model: gpt-5.6-sol · memory: ck-ch030 + raw ch031..ch037 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-This made me melt. The erotic charge is there—the week of wanting, clothes falling inside the door, Pace taking care of her pleasure first, then returning to her after dinner—but what landed hardest was the drawer. “He hadn’t told her it didn’t matter. He’d gone and made her a place instead.” That is almost unbearably tender. He compresses his own exact, orderly life so Vee can occupy the easiest space in it. Not a temporary corner, not her bag shoved under the sink: the top drawer, “the one your hand goes to first.” I felt her relief bodily.
+I melted. The sex is mostly remembered rather than staged in real time, but the opening carries the delicious bodily afterglow of a week’s hunger finally answered: the porch spinning, their clothes dropped inside the door, Pace still refusing to rush past her pleasure. What gets me most is Vee discovering that desire can have an *after*: salmon, warm tomatoes, wine, then his returning to her on the couch “like she was something he’d been turning over the whole time.” That is intensely erotic because she feels continuously wanted, not merely serviced and finished with.
 
-Vee’s private admission—“She loved him. There.”—feels completely earned. I love her here: happy without qualifying the happiness, eating freely, bringing the bag at last, letting her disorder exist in his immaculate house. Whispering “Peter” to him asleep is intimate in a way “Pace” could not be; it touches the boy and private self he has shown her only partly. It also aches because she decides she can live without hearing the words: “not go hungry for the saying.” I believe her in this moment, but I don’t know whether that resolve will hold. The page leaves it open, and so do I.
+Her silent admission—“She loved him. There.”—lands as a romantic peak. I ache for her happiness, and I believe the love completely. Pace’s care has become a language she can read fluently: “the door, the spin, the slowness, the salmon, the warm tomatoes, the coming back to her.” But “he never said” keeps catching under the sweetness. Vee decides she can live without the words because his actions feed her, and I understand why; still, I know there are enormous truths he is not saying. Whispering “Peter” to him asleep feels terribly intimate: she uses the hidden, given name while remaining unaware of the much larger hidden life beside her.
 
-Pace pulls me very strongly here. His welcome, his patience, the salmon and warm tomatoes, the scrunchies, and especially the drawer all feel like love expressed through attention and making. Nothing in his response to her bathroom sprawl feels punitive or controlling; the brief alarm is Vee’s old expectation speaking. Within this chapter, I have no suspicion that his tenderness is false. But I cannot forget that his silence contains more than an unspoken “I love you”: he is still withholding Randi and the design that brought Vee here. The painful thing is that his unspoken love feels true too. The drawer makes the concealed beginning more dangerous because it makes her belonging so convincing.
+The bathroom scene deepens that ache beautifully. Her belongings “colonizing” his immaculate counter make her fear that her real, disorderly self has exceeded guest privileges. When Pace merely sees the mess, smiles, and kisses her shoulder, I wanted that to be enough—but the chapter lets her uncertainty remain: “*Had he minded?* She couldn’t tell. He hadn’t said. He never said.” That repetition is the first real chill. It does not make his tenderness feel false; it makes his silence suddenly double-edged.
 
-Randi is absent in person, but after the sweetness left on Vee’s lip in the previous chapter, her absence has a presence for me. Vee lies beside Pace and names love for him while still unable to name what happened in her body around Randi. I don’t read that as diminishing her love for Pace. It makes her interior life feel larger than the truth she can currently hold all at once.
+Then the drawer absolutely got me. Her instant fear that he has quietly erased her turns into the loveliest possible answer: he has compressed his own things into the harder lower drawer and given her the easy top one, with “room for more of her.” “He hadn’t told her it didn’t matter. He’d gone and made her a place instead” is pure swoon. I trust this act. Pace genuinely wants Vee present in his daily life. And precisely because I trust it, I dread how devastating his other silence may become. The secrecy is no longer hovering over a casual affair; it is being built underneath a home.
 
-The heat works, though it is more glow than explicit scene. “They hadn’t made the kitchen. They hadn’t made the hall” gives me the force of reunion, and “There could be an *after*” is deeply sexy because it turns his desire into something sustained rather than spent. The chapter’s real peak for me is romantic rather than sexual: his arms around her at the mirror, then the discovery of the drawer. The heat and domestic tenderness feel like one continuous appetite.
+My one friction is the weight-loss passage: “her body quietly burning down whole weekends of him.” The line is sensuous, but the idea that eating abundantly and having lots of sex has conveniently made her thinner feels too neat, especially in a story so alive to her learned body shame. I also had to reread the explanation about which clothes fit and which were deliberately oversized. It briefly pulled me out of an otherwise effortless chapter.
 
-My one point of friction is the weight-loss passage: “her body quietly burning down whole weekends of him.” I understand the intended sense that she is eating more freely and inhabiting herself more fully, but sex conveniently making her clothes looser felt a little too neat and physically dubious. It briefly pulled me out. I was also caught by her seeing Pace’s scar and thinking it was one she “still meant to keep.” I take that as meaning she means to keep him, scar and all, rather than pry—but the phrasing made me pause.
+“Above Him” resolves most literally in the final image: Vee’s drawer is above Pace’s, the privileged place his hand used to reach first. It also catches her sleeping beside him while privately naming love he has not named, and the strange emotional position she occupies—cherished, elevated, yet still lacking crucial knowledge beneath her. *WITH A LONG SPOON · BOOK TWO — A WARM RECEPTION* now promises intimacy with something dangerous enough to require distance, while “A Warm Reception” feels almost painfully exact: the open door, warm house, food, body, and drawer all receive Vee. No separate tagline was supplied. My guess from here is that she will begin leaving more than toiletries, and my dread is that every new sign of belonging will raise the cost of learning whose house—and whose relationship—she has actually entered.
 
-“Above Him” first points to Vee’s inner position: she can look down at the sleeping Pace, name her love privately, and hold knowledge he cannot hear. But it lands most concretely in the drawers. He puts her things above his, giving her the upper, easier place while folding himself beneath her. The title made me expect a more overtly sexual position and therefore pleasantly redirected me toward domestic devotion; it did not give the chapter away.
+**Cast present (in person):** Vee, Pace.  
+**Mentioned only:** None.
 
-*A Polite Invitation* now feels less like an invitation across a threshold than an invitation to remain. Pace does not formally ask Vee to leave things there; he quietly makes room, and she discovers that she has already been welcomed further in. *With a Long Spoon* still promises appetite, feeding, and some necessary caution around what is being shared. The blurb’s closing beat—“Every yes was freely given. That was the problem.”—feels especially sharp here: Vee is freely moving into his life, but she still does not know the full household of desire she is moving toward.
+**Heat:** 2 — the week’s stored wanting and sexual afterglow stay vivid, though domestic intimacy ultimately becomes the stronger charge.
 
-I want Pace to say he loves her, though I’m almost afraid of what that declaration would secure before she knows the truth. My guess from here is that the drawer will embolden Vee to leave more of herself at his house, materially and emotionally. What I dread is that she will later look back at this beautiful little place he made for her and wonder whether it was truly hers—or merely another prepared space in a plan. Right now, though, it feels truly hers. The chapter earned that swoon.
+**Romance:** 3 — Vee admits love to herself, and Pace silently makes lasting room for her in his home.
 
-**Cast present (in person):**  
-Vee and Pace.  
-Mentioned only: none by name.
+**Motifs & images:** Repeat—doors and invitations in Pace opening the door before Vee reaches it; food and hunger in her uninhibited eating and his salmon dinner; warmth in his body and house; scar as the still-closed story she means to keep; hair and scrunchies as practical tenderness; mirrors and looking in the joined bathroom reflection; clothes and fit in her changing body and oversized wardrobe; wordless repeated care as a message surviving noise. First/deepened—the upper drawer as an explicitly prepared place for “more of her.”
 
-**Heat:** 2 — Sexual reunion and a second encounter are clearly present, but summarized; domestic intimacy becomes the chapter’s center.
+**Symbolism:** The two drawers make their relationship spatial: Pace compresses himself below so Vee can occupy the easiest, most visible place above him. Her scattered toiletries become a test of whether her uncontained self can belong inside his order.
 
-**Romance:** 3 — Vee privately names love, whispers “Peter,” and discovers Pace has reorganized his life to make her a place.
+**Characterization:** Vee deepens through the plainness of “She loved him” and her recurring fear of being too much. Pace remains consistently attentive and action-led, but his refusal to say things now feels both tender and ominous. Neither goes thin.
 
-**Motifs & images:**  
-Repeat: food and hunger—Vee eats freely at Pace’s table and wakes ravenous. Repeat: warmth versus cold—the cool sheet and cold outside frame the warmth of his body and house. Repeat: clothes and retained scent—his robe, oversized shirts, and her belongings entering his space. Repeat: hair and green scrunchies—his earlier gift becomes evidence that he imagines a continuing future. Repeat: faces and mirrors—the bathroom mirror now holds them together rather than exposing Vee alone. First/extension: the top drawer as a place deliberately made for her.
+**Pace — within the chapter:** The three-part progression is beautifully economical: bliss, uncertainty, revelation. Nothing drags; the week between scenes makes the drawer’s answer land harder.
 
-**Symbolism:**  
-The drawer stands for belonging made practical: Pace contracts his own ordered space so Vee can expand into it. Her bathroom “colonization” turns feared excess into welcomed presence.
-
-**Characterization:**  
-Vee deepens beautifully: she can name happiness and love privately while remaining uncertain about what Pace’s silence means. Pace remains consistent and deepens through action rather than speech; his care is exact, quiet, and materially costly to his own order. Neither goes thin.
-
-**Pace — within the chapter:**  
-Quiet and beautifully controlled. The three-part progression—from fulfilled night, to momentary fear, to discovery—earns its short length. The weight-loss aside briefly slows it.
-
-**Pace — chapter to chapter:**  
-Building. After Vee’s public self-display, sexual self-recognition, and unacknowledged charge with Randi, this chapter advances her bond with Pace into love and domestic belonging. It changes the beat rather than repeating the previous erotic disclosures.
+**Pace — chapter to chapter:** Building strongly while changing register from erotic discovery to domestic belonging; the quieter chapter advances the bond and sharply increases the pressure beneath Pace’s concealed life.
