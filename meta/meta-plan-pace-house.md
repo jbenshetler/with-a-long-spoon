@@ -222,6 +222,16 @@ two people move through without calling out to each other.
   same knack as the dressmaking). Its construction timing and original dedicatee are **left deliberately open**: the "seven months / before he knew Randi" line was cut in the Pace-warming pass (2026-08-11; see `meta-triage-the-bench.md`) — do not assert when or for whom it was built. (Committing to *built for Randi* would make `vee-on-the-bench` a re-gift; non-committal keeps that scene open.) In the novel it is **used on only two women — Randi, then Vee** — and what
   makes each capitulate is the load-bearing difference between them. Its top leans
   against the wall when the bench is in use.
+  **Geometry (author ruling 2026-09-24): it folds at the waist — the hips are
+  the highest point, head and feet lower.** the reveal says so in her own reading
+  (`the-bench.md`: *Past it the thing rose to meet her — where her hips would
+  lie, the highest point of her, held up. Her knees would go out and down from
+  there. Her head would be down.*); the leg rests pivot **out**
+  (`the-bench.md:203`, `vee-on-the-bench.md:331`) and sit **down** from the
+  peak. **OPEN FLAG:** `vee-on-the-bench.md:87` describes the leg arms as *"two
+  padded arms lying flat and close together, level with the rest"* — either a
+  contradiction of *legs down* or a loose phrase for level-with-the-low-end.
+  Not adjudicated; not touched. Rule it before Vee's chapter is called done.
 - **Cashmere blanket** `[PAGE]` at the foot of the bed — **Randi brought it**, after
   the second week, when she registered that she got cold after sex even in his
   too-warm house (`the-bench.md`; the chill is Randi's trait, not Vee's).

@@ -101,7 +101,7 @@ CACHE = AUDITS / "cache.json"          # machine scratch, gitignored
 RULINGS = AUDITS / "rulings.toml"      # author decisions, tracked in git
 # Bump when a metric or threshold changes: cached rows computed under the old
 # rules must not be mixed into a new baseline.
-ALGO = "v14"
+ALGO = "v15"
 
 # ---------------------------------------------------------------------------
 # Thresholds. Each is the point at which a structure starts costing enough to
@@ -534,6 +534,17 @@ def measure(doc, slug: str, line: int) -> Sent:
             continue
         if len(list(t.subtree)) < T_STRAND_SPAN:
             continue  # a one- or two-word tail is cheap to reattach
+        # A reader never reaches BACK across a colon, or into a dash that
+        # opened an appositive and has not closed: what follows a colon-dash
+        # attaches forward from it. Only a modifier that comes AFTER a closed
+        # pair (an even number of dashes between head and modifier) is a real
+        # resumption that must find its head again. the-bench :69, :137, :255
+        # were all false strands of this kind (2026-10-04).
+        span = [v for v in doc if h.i < v.i < t.i]
+        if any(v.text == ":" for v in span):
+            continue
+        if sum(1 for v in span if v.text in ("—", "–")) % 2 == 1:
+            continue
         ancestors = {a.i for a in t.ancestors}
         h_ancestors = {a.i for a in h.ancestors} | {h.i}
         between = [

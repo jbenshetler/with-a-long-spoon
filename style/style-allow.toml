@@ -5513,6 +5513,13 @@ text = "She turned on the tap and washed her face quickly and patted it dry on h
 note = "not the appreciation beat — mirror-scene avoidance of her own eyes; kept"
 
 [[ok]]
+fp   = "cf02c1958dc7"
+rule = "look-at-her"
+file = "scenes/the-bench.md"
+text = "By the end of that night she had begun to understand that he wanted to look at her as she had not been looked at before."
+note = "Author ruling 2026-10-04 (reading-effort pass): stands. 'he wanted to look at her as she had not been looked at before' — the first-night lights beat; the phrase is the point here. Re-acked after merge; same ruling, same phrase."
+
+[[ok]]
 fp   = "d1ed795ed182"
 rule = "look-at-her"
 file = "scenes/the-bench.md"

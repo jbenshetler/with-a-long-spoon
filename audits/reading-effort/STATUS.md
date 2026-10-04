@@ -23,6 +23,22 @@ inside the drafting loop would swamp it.
 
 ## Discipline: flags, never findings
 
+**The test for a single suspension (author ruling 2026-10-02).** A single
+dash interruption is *earned* when what sits inside the dashes belongs to the
+noun the sentence is holding — the foot → its arch and toes (`:269`), the
+blanket → its provenance (`:465`), *her* → *not the face, with her* (`:521`).
+The reader is still looking at the thing, not carrying it across something
+else. It *costs* when the interruption is about something other than the held
+clause, or when the resumption restates what was already said — the hair
+(`:223`: held clause about his fingers, interruption about the hair, resumption
+re-saying *her scalp*) and the shudder (`:447`: the material after the dash was
+a separate verdict, not the clause's completion). The dash is the mechanism of
+the hold, not a feature a fix "costs"; when the suspension is not justified,
+removing the dash *is* the fix. Where a sentence is rebuilt, vary the structure
+against its neighbours — `:223` sits in a run of nine *He + verb* openers, so
+the hair led. The panel cannot see any of this (zero votes on every single
+suspension); it is the author's test, applied by eye.
+
 **High effort is frequently earned.** Suspension is a real device — the reader
 holds the sentence the way the character holds still — the short verbless
 sentence is this book's registering-beat, and the accretive tail is deliberate
@@ -288,6 +304,29 @@ the book *and* densest — and is the obvious next sweep.
 | 2026-09-20 | `the-bench.md:9` (bag) | 4/5 readers. Two stacked interruptions → one, closed at a full stop; "and came into him" made its own sentence; nothing cut; effort 219 → 145, suspend 2× → 0 |
 | 2026-09-20 | `the-bench.md:9` (face) | 4/5 readers. *which … which* chain broken at the eyes; stranded "being looked at for" given its object ("for them"); chain cleared; total effort flat by design — the fix resolves a tail, not load |
 | 2026-09-20 | `the-bench.md:41` | 3/5 readers, tool-invisible. "a thing she said with a knife in it" → "a thing she had told him with a knife in it": the ambiguous *she* (mother or daughter) now resolves through *him*; the knife kept compressed by author ruling; *the one scale* left standing |
+| 2026-09-24 | `the-bench.md:95` | 3/5 readers, tool-invisible. Bench geometry. **Superseded on merge (2026-10-04):** a parallel session rewrote the reveal (`102115c3`) so the geometry is read by *her* — *where her hips would lie, the highest point of her, held up. Her knees would go out and down from there. Her head would be down* — same shape the author ruled (fold at the waist, hips highest), better placed; my sentence dropped. Open flag on `vee-on-the-bench:87` (*level with the rest*) still stands |
+| 2026-09-24 | `the-bench.md:95` | 3/5 readers, tool-invisible. Bench geometry. **Superseded on merge (2026-10-04):** a parallel session rewrote the reveal (`102115c3`) so the geometry is read by *her* — *where her hips would lie, the highest point of her, held up. Her knees would go out and down from there. Her head would be down* — same shape the author ruled (fold at the waist, hips highest), better placed; my sentence dropped. Open flag on `vee-on-the-bench:87` (*level with the rest*) still stands |
+| 2026-10-01 | `the-bench.md:517` (looked past the face) | suspend 22w, 0 readers. Split at "— and": the *past/past/past* figure keeps its reach, then "And found her." stands alone and the italic *her* closes its own sentence. Suspension cleared; `pp` remains and is the figure |
+| 2026-10-01 | `the-bench.md:517` (under the smile) | suspend 17w + 2/5 readers (glm: could not resolve *Under it*). Referent: "Under it" → "Under the smile" — continues the previous sentence's stacking image; *disjunction* kept once (twice read stiff; *gap* read body-spatial; *seam* is spent on her sex). Suspension released at the dash: "…in the same instant. And it had not come from her…"; the *ever —* breath kept |
+| 2026-10-01 | `the-bench.md:223` | suspend 11w, open 9 — **standing** (author ack; see rulings.toml) |
+| 2026-10-01 | `the-bench.md:521` | suspend 11w — **standing** (author ack: the interruption is the sentence's meaning) |
+| 2026-10-01 | `the-bench.md:447` | suspend 18w, 0 readers. Split at the second dash: the shudder's path completes the withheld noun, then "It was not anything she could have produced…" takes the verdict as its own sentence; *shudder* no longer doubled |
+| 2026-10-02 | `the-bench.md:223` (hair) | suspend 16w, 0 readers; the resumption restated *her scalp*. Dash removed (author: the dash IS the suspension, not a feature to preserve). Chosen for local variety — the surrounding run is nine *He + verb* openers and the prior sentence already has *he found* — so the hair leads: "Her hair was lighter and smoother than he had expected, …, as he let his fingers move through it to her scalp. He worked them there…" |
+| 2026-10-02 | `the-bench.md:269` | suspend 16w — **standing** (author ack: arch and toes belong to the held foot) |
+| 2026-10-03 | `the-bench.md:349` | suspend 13w — **standing** (author ack: the interruption is the hit itself; the chapter's strike shape) |
+| 2026-10-03 | `the-bench.md:147` | suspend 12w, earned (the skin of the sides being swept) — left intact. The 73-word sentence seamed after the clasp: the sweep and the unhooking become two sentences; nothing cut |
+| 2026-10-03 | `the-bench.md:149` | suspend 21w → 16w. Interruption earned (what he finds at the kiss); trimmed the excursion to the throat — "where she had dabbed it at the base of her throat" → "from the base of her throat" |
+| 2026-10-03 | `the-bench.md:197` | suspend 10w — **standing** (author ack: the dashes are his reading of the held unsteadiness; the mounting is one motion) |
+| 2026-10-03 | `the-bench.md:547` | chain 6 + strand, 0 readers. Seamed at the *and* (lying / thinking each get one subject) and the recursive tail unwound a turn: "what she was going to do about this" → "what to do about this" |
+| 2026-10-04 | `the-bench.md:133` | strand ×2 + an unjustified 24w suspension, 0 readers. Dash removed; three sentences. **Fact fix found on the way:** "soft and heavy … the dense particular weight of real cashmere" had cashmere backwards (famously light and warm) and contradicted `missed-a-spot:207` (*almost no weight at all*) — now "soft and almost weightless in his hands, the particular lightness of real cashmere". "as he removed it" cut as redundant with *took off* |
+| 2026-10-04 | `the-bench.md:295` | chain 5 + a 24w suspension the parser missed, 0 readers. Away / except / purpose were three things on one dash pair; now three sentences, the middle opening *Between strikes* for variety; *wetter* triple kept |
+| 2026-10-04 | `the-bench.md:7` | chain 5 — **standing** (author ack: the opening sentence; right-branching, the tail is Pace by provision) |
+| 2026-10-04 | `the-bench.md:69` | strand — **standing** (author ack: parser mis-attachment; the dash is a colon) |
+| 2026-10-04 | `the-bench.md:137` | strand — **standing** (author ack: parser mis-attachment across a colon) |
+| 2026-10-04 | `the-bench.md:157` | chain 5, 0 readers. Double relative on a stranded preposition (*a way … that she had not been looked at in before*) → "as she had not been looked at before"; paragraph's third *way* gone |
+| 2026-10-04 | `the-bench.md:255` | strand (appositive pair across a colon-dash), 0 readers. Author's own cut: "…caught and then released. It was the laugh of a woman…" — the dash keeps the sound, the judgment gets its sentence, the period enacts the release |
+| 2026-10-04 | `the-bench.md:471` | chain 4 on the smile — **standing** (self-correction, thought → known). Reader catch in the same paragraph, tool-invisible (sonnet, cost 1): *the sharp inner edge of it* — *it* read as the bottle, meant the cap → "of the cap" |
+| 2026-10-04 | `the-bench.md:527` | chain 4, 93w, 2/5 readers (her smile held through his). One seam at the look: her sentence, then his; the performed/genuine contrast now one smile per sentence |
 
 ## Rulings
 
