@@ -28,7 +28,9 @@ He put both hands on her then, properly, his palms moving slowly down her back t
 
 "It's not due until Thursday."
 
-She turned away from him and moved through his kitchen as she did every time — a small kitchen in a small house, the white laminate counters plain and cheap, the shine long gone off them. Her eyes went over the counters and said nothing. What was good in the room he had built: the table, the two chairs that flanked it, the glass-fronted cabinet in quartersawn oak.
+She turned away from him and moved through his kitchen as she did every time — a small kitchen in a small house, the white laminate counters plain and cheap, the shine long gone off them. He had watched her clock them the first night, and the second night, and the third, and had watched her never say anything about them. She took in the table and the tall oak cabinet beyond it, and looked at the wood the way a person looks at something whose price tag she cannot read.
+
+He had told her, when she toured the house, that he had built the furniture. She had not really heard it.
 
 He took the small bowl out of the refrigerator, the one he had sliced the apple into before she got there. The apple was a honeycrisp. He had sliced it thin because she would eat thin slices and would not eat thick ones, and he had laid the slices in the bowl with the cut sides up because he had noticed that she ate them faster when the cut sides showed.
 
