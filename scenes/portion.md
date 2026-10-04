@@ -24,7 +24,7 @@ He heard it and did not know where to put it. She did not say things like that t
 
 "How was this morning?"
 
-"Good." She turned the glass by the stem, a quarter turn, and back. "She's happy."
+"Good." She set the rim of the glass in under her thumbnail and pressed. "She's happy."
 
 He waited. He did not ask what Vee had said. That was Vee's.
 

@@ -36,7 +36,7 @@ She had taken the couch in the den and pulled her feet up under her, the skirt t
 
 He waited.
 
-"Nine o'clock. Brooke let her in." Randi shook her head, fond. "She'd put her face back on over the top of last night and done a decent job of it, and she had her coat buttoned to the throat like she was hiding a body under it. I saw her from the top of the stairs and that was the whole story." She turned the stem of the glass without lifting it. "Oh, honey. Come up."
+"Nine o'clock. Brooke let her in." Randi shook her head, fond. "She'd put her face back on over the top of last night and done a decent job of it, and she had her coat buttoned to the throat like she was hiding a body under it. I saw her from the top of the stairs and that was the whole story. Oh, honey. Come up."
 
 "Was she all right?"
 
@@ -50,7 +50,7 @@ He was relieved there had been somewhere for her to go, and that it was here, in
 
 "We'd had a lovely night to that point. She danced. She was good — she was good by the second song, and she knew she was, and she was lit with it." He turned his hands over. "When I went for drinks, everything was great. By the time I came back, everything was wrong."
 
-"That's what a blonde is for." Randi drank. "She knew she'd been wrong by the time she got to me. She knew it before she sat down." She turned the glass again. "The heart on her, Pace. She doesn't do anything halfway. Not even being sorry."
+"That's what a blonde is for." Randi drank. "She knew she'd been wrong by the time she got to me. She knew it before she sat down." The glass came down against her knee, and she worked the rim in under her thumbnail until it bit. "The heart on her, Pace. She doesn't do anything halfway. Not even being sorry."
 
 He looked at the table for a moment, because he had to. When he looked up she was watching him with the glass stopped halfway.
 
@@ -58,7 +58,7 @@ He looked at the table for a moment, because he had to. When he looked up she wa
 
 "She'll come." Randi said it easily, as a thing already known. "Give her a day."
 
-The day was in it, as if the day were his to give, and he set that down beside the rest. She finished the glass in one long swallow and set it on the table, and took his face in both hands and kissed him with the wine still in her mouth, dry and green, and got up off the couch and held out her hand.
+The day was in it, as if the day were his to give, and he set that down beside the rest. She set the glass down half full and put her hand along his jaw and held it there until he turned his face into it, and then she got up off the couch and held out her hand.
 
 ---
 

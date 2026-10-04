@@ -4792,6 +4792,13 @@ text = "\"Charmeuse,\" she said, not to Vee; to herself, or to the dress."
 note = "Group G (2026-08-07): three antitheses, well spread, none adjacent; :55 is in dialogue. No cluster."
 
 [[ok]]
+fp   = "b3f2558c1316"
+rule = "filter-verbs"
+file = "scenes/space.md"
+text = "I saw her from the top of the stairs and that was the whole story."
+note = "Randi's dialogue; author ruling 2026-10-04, re-acked after the glass-tell pass merged the following speech and re-armed the fingerprint"
+
+[[ok]]
 fp   = "d983e435cf82"
 rule = "filter-verbs"
 file = "scenes/space.md"

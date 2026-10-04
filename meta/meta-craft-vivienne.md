@@ -64,7 +64,10 @@ The reader inhabits her. Her interior should be felt *with* her, not observed fr
 ## Behavioral Signatures
 
 - Body responds before mind permits. Render response, then cognition — never cognition first.
-- **Tell:** hand to collarbone when something surprises her emotionally.
+- **Tells — bodily, and hers alone (author ruling 2026-10-03).** Her tells live in her own body. The glass fidget belongs exclusively to Randi (`meta-craft-randi.md`, The Cup) and is never Vee's.
+  - **Hand to collarbone** — when something surprises her emotionally, **and** when her mother would judge her. The second meaning *sits beside* the first; it does not replace it. **The gesture is her mother's:** `cropped.md:17`, her mother looking at the dress's shoulders — "She didn't say anything, just touched her own collarbone while she looked. You know how she does." `a-round.md:186` is the keystone instance: exposed on the riser, the inherited reflex to cover, and then the hand lowered and the posture refused. Not every hand at a collarbone is the tell firing — Vee's over Sheri's coming-out (`another-round.md:107`) is ordinary empathy and stands.
+  - **Hands pressed to her lap or thighs** — when she is sexually aroused (`one-bite.md:101`, `the-bench.md:135`, `between.md:109`, `what-to-wear.md:101`, `covering.md:149`).
+  - **Hugging herself** — when she is insecure (`on-her-floor.md:7`, `between.md:67`, `what-to-wear.md:65`); **one-armed when the feeling is jealousy** (`among-friends.md:57`). Vee's jealousy is not mother-judgment and does not take the collarbone. `practice-room.md:89` is both at once — concealment and insecurity.
 - Goes still and inward when processing something real.
 - When she meets something real she has no toolkit for, she makes a joke.
 - Extends grace before it's earned. (This same quality stops her from becoming a stalker; drives toward his neighborhood once, turns back.)

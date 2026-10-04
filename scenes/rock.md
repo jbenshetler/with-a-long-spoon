@@ -30,7 +30,7 @@ The food she had grown up with had been good. She said that first, because it wa
 
 That stopped her a little, because it was not the answer she would have expected from anyone else. Anyone else would have laughed with her, or made a face, or said something about cream of mushroom soup. Pace went first to the hand underneath the thing.
 
-"Yes," she said. "It was. It just never tried to surprise anybody." She turned the mug in her hands. "Even when I was hungry, it was never quite the thing I wanted. I didn't know food could be the thing you wanted. Then you cooked for me."
+"Yes," she said. "It was. It just never tried to surprise anybody." She looked down into the mug. "Even when I was hungry, it was never quite the thing I wanted. I didn't know food could be the thing you wanted. Then you cooked for me."
 
 The fire settled behind them. A line of light moved along the porch floor and went still.
 
@@ -198,7 +198,7 @@ He said it without self-pity. She could picture him at fifteen, too young and no
 
 He didn't answer at once, and it was the second kind of quiet.
 
-She hadn't meant to stand him in a doorway, so she went first, to make it a trade. "I had a boyfriend at fifteen. A trumpet player. I played clarinet, he played trumpet, we sat three rows apart in band, and I was certain that was the whole mechanism of love — proximity and brass. It lasted one marching season. He took up with a girl from the Methodist church over the summer, I heard it from somebody else, and I lay on my bed being sad to the same four songs until my mother took the headphones off my head." She turned the mug. "I was sure it was love at the time. It turned out to be smaller than it felt. But I did feel it."
+She hadn't meant to stand him in a doorway, so she went first, to make it a trade. "I had a boyfriend at fifteen. A trumpet player. I played clarinet, he played trumpet, we sat three rows apart in band, and I was certain that was the whole mechanism of love — proximity and brass. It lasted one marching season. He took up with a girl from the Methodist church over the summer, I heard it from somebody else, and I lay on my bed being sad to the same four songs until my mother took the headphones off my head." She swirled what was left in the mug. "I was sure it was love at the time. It turned out to be smaller than it felt. But I did feel it."
 
 "That's how it's meant to go," he said. "At fifteen."
 
@@ -214,7 +214,7 @@ The flatness in it reminded her of how he'd sounded when she asked about his par
 
 Vee went still. She didn't choose it. She simply stopped moving.
 
-"It went on two years," he said. He was looking at the black glass, not at her, and his voice had changed — each word set down separately and precisely in its place, as though the placing of them were what held the sentence up off the floor. "She left the year she turned twenty-one. Nothing happened. Nobody did anything wrong. She was twenty-one and I was seventeen, and the rooms she was walking into by then were rooms they wouldn't let me stand in for four more years. Bars. The ordinary places. The distance that had been nothing at nineteen and fifteen was, all at once, the entire thing." He turned the cold mug a quarter-turn against his knee. "So she went on. Which was only sensible. It would have been stranger if she'd stayed."
+"It went on two years," he said. He was looking at the black glass, not at her, and his voice had changed — each word set down separately and precisely in its place, as though the placing of them were what held the sentence up off the floor. "She left the year she turned twenty-one. Nothing happened. Nobody did anything wrong. She was twenty-one and I was seventeen, and the rooms she was walking into by then were rooms they wouldn't let me stand in for four more years. Bars. The ordinary places. The distance that had been nothing at nineteen and fifteen was, all at once, the entire thing." He set the cold mug down on the floor beside his foot. "So she went on. Which was only sensible. It would have been stranger if she'd stayed."
 
 He laid it out in good order, every reason accounted for and set in its slot, and the good order was the tell. All evening she had heard him undersell things — the hall, the fifteen — and this was that same voice gone one degree flatter, held the careful way a person carries a full glass so it won't go over the rim.
 

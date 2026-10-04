@@ -97,7 +97,14 @@ The guard: **Pace owns the seeing-register lines; Randi never borrows them.** In
 
 The nail-press/cup is the **only external, present-tense, recurring rendering of the bottom-Randi** in scenes where she is ostensibly in command.
 
-**The gesture:** whenever Randi is in a venue where the need is running and she has no operational lever to discharge it through, her hands find the nearest hard-edged object — a cup, a glass, a wine stem, the rim of a plate — and she presses its edge up under a fingernail, into the quick. Not a grip; a point of applied pressure. Under the table, in her lap, at the side of the plate where no one sees.
+**The gesture:** whenever Randi is in a venue where the need is running and she has no operational lever to discharge it through, her hands find the nearest hard-edged object — a cup, a glass, a wine stem, the rim of a plate — and she presses its edge up under a fingernail, into the quick. **The direction is one way only:** the sharp edge goes *under the nail*, down into the quick — never the nail pressed onto the rim. **The finger varies** (thumb, index) so the gesture recurs without the sentence recurring. Not a grip; a point of applied pressure. Under the table, in her lap, at the side of the plate where no one sees.
+
+**Two gestures, not one — and the glass is Randi's alone (author ruling 2026-10-03).** The glass fidget belongs **exclusively to Randi**: never Vee, whose tells are bodily (`meta-craft-vivienne.md`, Behavioral Signatures), and never Pace, who has his own fidgets — the fork squared to the edge of the table (`back.md:61`, `the-usual.md:101`).
+
+- **The nail-press** — the rim's thin edge up under the nail — fires when she is **jealous or insecure**, particularly about **Vee enjoying being truly seen**: the thing Randi craves and cannot tolerate the vulnerability of.
+- **Turning the glass** is the other, lesser charge — e.g. when she is aroused. It is not the press and does not carry its meaning.
+
+**The press is normally rendered on the page, and seen.** Vee's close third is no exception — she sees the hand and does not read the meaning, which is the point. Visible instances: `the-bench.md:453` (the debut, seen by Pace), `covering.md:63`, `covering.md:107`, `all-the-time.md:63`, `portion.md:27`, `clean-plate.md:191`, `space.md:53`. **`among-friends.md:77` is the single hidden instance** (author ruling 2026-10-04): the hand goes down off the table into her lap and Vee reads only the glaze. Turn retained as the arousal register: `covering.md:121`, `clean-plate.md:143`, `one-bite.md:15`.
 
 **Why the nail-press and not a grip.** A grip is containment — reading as ordinary stress. The nail-press is self-administered sensation — the hand producing a precise private sting. That is the bottom's gesture in miniature: when the helplessness-charge runs and there is no one to administer the sensation, she administers a small one to herself.
 

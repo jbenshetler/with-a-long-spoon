@@ -4,7 +4,7 @@ Chi Latte was full of girls, bright as a kitchen — the long window table all s
 
 "Wanna go to a party with me?" Randi said.
 
-"Yes." It was out before the question had finished, fast, a yes with no floor under it, and Vee heard how it sounded and felt the heat come up. She turned her cup a quarter-turn on the table. "What party?"
+"Yes." It was out before the question had finished, fast, a yes with no floor under it, and Vee heard how it sounded and felt the heat come up. She crossed one arm over herself and took hold of her own arm. "What party?"
 
 "My sorority's throwing a mixer Saturday night." Randi tipped a shoulder. "I get a plus-one."
 

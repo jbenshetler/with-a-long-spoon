@@ -146,7 +146,7 @@ Randi sat up. "You *didn't* wear your man's clothes all weekend."
 
 So Vee went back — all the way back, to her dorm room at seven o'clock — and told it the way it had actually gone.
 
-"I'm getting ready," she said. "I've got the underwear drawer open, and a hand on the black everyday bra, and I catch myself — no. Pace deserves the pretty one. So I pick up the good lace instead. And then I'm standing there holding it, and I start laughing, because he isn't getting that one either. He isn't getting any of them." She turned her glass by the stem. "I put it back and I shut the drawer on all of it. Every neat little row of everything that wasn't invited."
+"I'm getting ready," she said. "I've got the underwear drawer open, and a hand on the black everyday bra, and I catch myself — no. Pace deserves the pretty one. So I pick up the good lace instead. And then I'm standing there holding it, and I start laughing, because he isn't getting that one either. He isn't getting any of them." Her hand went flat on her own thigh under the table. "I put it back and I shut the drawer on all of it. Every neat little row of everything that wasn't invited."
 
 "Oh, I *like* you," Randi said.
 

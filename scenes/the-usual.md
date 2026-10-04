@@ -98,7 +98,7 @@ He said nothing to that, and she dropped it.
 
 "Yeah. The one with the big tits." Around the straw, and pleased with herself. "So why. What's she got."
 
-He turned the glass, looking for the true shape of it. "The air's different when she's in the room. It — crackles."
+He squared his fork to the edge of the table, looking for the true shape of it. "The air's different when she's in the room. It — crackles."
 
 Sheri looked at him flat. "You mean the sex is good."
 
