@@ -1,0 +1,30 @@
+*capture-dag-v2-rich · gate ch043 · claude-opus-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-02*
+
+REACTION
+
+Oh, she *built the thing that convicted him.*
+
+That's what I can't get past. Randi walked into that glass room certain — my county isn't the country, my father took the loans and kept people on, that's what the money was *for*, I'll show you — and she said *we'll see* and let it go with that little rich-girl ease, and then she plotted home herself, driving, leaning in, aiming the whole picture at the one bright counterexample that was going to soften Cassie's sad flat story. And the counterexample was a point alone in the white, up and to the right, with her own four-letter shorthand sitting on it. Her own tag. Her own color scheme. Her own clean fast graph that said its one thing at a glance. She made the instrument and then put her hand on the trackpad and the instrument read her name out.
+
+And the name. MIRA, and then she clicks and the first word is MIRANDA. The company is named *after her*. Somebody looked at a newborn and then years later looked at a filing form and put her on it. Several loans, one company under another — I read that line twice the way she read the column twice. And the second thing that came up my spine, slower, was the green Mercedes and the cab fare and the card with nothing behind it and the cognac heels Vee can't pay for and has never once asked about. I've been waiting for the bill since chapter thirty-something and I was braced for it to come due as *best friend in the whole world*, and instead the author just quietly showed me where the money came from. Every gift Randi has ever pressed on that girl came out of a payroll that went the other way.
+
+*Cheating bastards.* Low, to the screen, two words with no clause after them to fold the plural down into strangers. That's the best-written moment in the chapter and it's four syllables. She can't say *he*. She reaches for the plural because the plural is the only thing a person can say out loud in a room with her friends in it, and it comes out ragged, unworn, first-time, aimed too near. And Cassie — who can't see the screen, who's on the wrong side of Vee, who has a father who got laid off in 2020 and set that on the table flat with no handle on it — hears *agreement*. Takes it as her own vindication. Says *that's just the one that's easy to see* and goes back to her laptop. Cassie, again, is the last one in the room who doesn't know. Three times now. I'm going to start a tally and then I'm going to stop, because it hurts.
+
+And here's where my own suspicion lives: I don't entirely trust a book that hands its architect a wound at the exact moment I'd started adding up her debts. Give me sympathy for Randi right when I'm tightening the screws — that's a move, and I clocked it as a move. But I bought it anyway, and I know why: the book made her *wrong in public first*. She didn't get to be a tragic daughter; she got to be the girl who defended her dad to a laid-off man's kid and then got beaten by her own data in front of two witnesses. Nobody buys sympathy that expensively on purpose. And *going still* — the withdrawal of motion, all the small unconscious sitting-movements gone at once — is the exact same stillness Pace does when he's seen something, and I don't think that echo is an accident.
+
+But the thing I'm actually going to be thinking about tonight is Vee. Because what Vee does in that room is *the move*. She sees it, she looks at the person and not the page, and then she slides the laptop over and hands Randi somewhere to put her hands. Logistics. Busywork. A small stack of decisions a person can be grateful to be holding. She asks Randi only the things Randi can answer. She doesn't say the name. And then — *she didn't tell Randi, then or after, what she'd seen.* And she decides, walking out into the gray between her two friends, that the kindest thing a friend can do is not make her carry it in front of anyone.
+
+Vee just became the third person in this book who does enormous things in the dark and doesn't sign them. She learned that from him. She's been living inside it for two volumes — the drawer, the scrunchies, the never-a-note — and now she's doing it, to the woman who's been doing a version of it *to* her, and she experiences it as tenderness, and I think it genuinely *is* tenderness, and it's also the floor of her own house getting poured a little deeper. She has a secret she's keeping *for* Randi now. That's not a debt anymore. That's a bond, and it's a bond made out of exactly the material the whole lie is made of. Outlier of the second kind. *It's in everything that comes after.* The professor said it in a cold room, bored, clicking a slide back and forth like a man checking tire pressure, and the author has been loading that word since the fold-out desk and Randi's knee.
+
+And she's the *only one who looked at Randi's face.* The whole series is about who's being watched and by whom, and for one afternoon it was Vee doing the watching, and she saw the thing cross a face and *left it hers* — which is Pace's one unbreakable rule, performed by Vee, on Randi, in a library.
+
+What I'd text at 1 a.m.: THE SHELL COMPANY IS NAMED AFTER HER. Also I think Randi now has to go home to that man for Thanksgiving while Vee flies to Ohio and Pace feeds the cyclist, and all three of them are going to be at a table with somebody they can't say the true thing to.
+
+GATE 43 — The Outlier
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: "In industry they called all of it exploratory data analysis. He clicked back a slide. Then forward." — a page and a half of syllabus before anything happened, and for a second I thought I was being asked to care about a group project.
+WHY: The one word I wrote down in my own notes three chapters ago came back carrying a name, and I actually sat up. No heat, barely a hand touched, and I want the next chapter more than I did after the photograph — because Vee just learned the family trade, kept her first real secret, and called it kindness.

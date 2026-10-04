@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch034 · claude-opus-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 230524645ef4 · 2026-10-02*
+
+REACTION
+
+She didn't get the entrance she rehearsed. I'd written down that this book never lets a woman have the thing she rehearsed, and I was braced for the humiliation version of that — and instead the room was just *warm and dull and kind*, nobody's late arrival, navy girls crossing and coming back and nobody watching them longer than the walking took. Which is worse than a disaster in a way, and then it's not, because she stands up and she has one step of small careful mincing in her and then she takes a breath and makes the second step long. *I gave the room my leg on purpose.* God. She made the room turn. Not by arriving late, not by being produced — she did it inside the walk, with four inches of strap and a decision made a half-second before her head caught up. That murmur going through the crowd is the best sound in this book so far and it has no man in it at all.
+
+And he isn't there. That's the thing I keep going back to. He made the dress *for exactly this* and he's in Berkeley, and he was sorry about it in the quiet way with no performance in it, and she didn't tell him it was only a dress because it was the most anyone had ever made for her and they both knew it. That's a love scene conducted across two thousand miles with nobody in the room. Two chapters ago she was in his undershirt arguing about soaking and now the gap has opened and I can feel it exactly the way I always feel it — there's a hollow where he should be, and the dress is standing in for him, doing his looking.
+
+Randi isn't there either. Randi is a *memory* in this chapter — knelt, two fingers on the ankle strap, sat back to look. Both of the people who set this table were somewhere else when the dish came out, and the one who walked her to the doors was **Cassie**. Cassie, who took her phone out of her hand to hold, who said "You look—" and couldn't finish it, whose eyes went bright at the corners and would deny it to the grave, who called her *streetlight*, who had the sense to photograph the one moment of her friend's life that was worth photographing, and who's buying her a terrible sandwich. Nobody arranged Cassie. Nobody staged her. She just came and stood at the door and held the phone. I got a lump in my throat over a girl in the same fleece two winters, and I want to shake Vee, and I don't think the book is going to let me off with that.
+
+Because then she sends Pace the photo uncropped and keeps the rest. *He would have no idea what else was in the frame. That part was hers.* That's the second time this book has handed me that exact move — Pace keeping back what he felt at the bar because *that was Vee's*, the fence in the wrong place — and now she's doing it, and she's doing it on purpose and it feels *great* to her, it reads as sovereignty. She's keeping it as a private treasure instead of a shared one. She has a whole second life now built out of things she decided not to say, and she built every brick of it freely, and the awful part is that from inside her it feels like coming into her own. The professor's two kinds of outliers are sitting right there two chapters back: the kind you lift out and the line goes on, and *the kind that comes in through the part that carries forward.* She's carrying forward.
+
+And the heat is hers, which is what I came for and keeps being delivered. Bare under the silk, the slit, the short managed steps and the hand low at her hip holding the seam over her thigh — *the small choreography of a woman with a secret keeping it* — and that whole private joke curdling into something else at three rows from a microphone in a room full of somebody's parents. Then she spends it instead of hiding it. The last line is the honest one and I love that the book won't resolve it for me: pride, or the same heat still running, or whether by now those are the same thing. They're the same thing. They've been the same thing since the mirror, and I think they might be the same thing *since Sunday*, since the wet hand in the kitchen — that new fact he put in her body is out walking around in public now, generalized, driving her across a stage, and she hasn't connected the two and I have.
+
+What I'd text at 1 a.m.: *she took the long step.* And then: *he wasn't there, Randi wasn't there, CASSIE was there, and Cassie still doesn't know anything.*
+
+GATE 34 — The Induction
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 8
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: She got no late entrance, no mother, no man in the room, and made the room turn anyway on one decided step — that's the whole argument I've been waiting six years for a book to make, and it made it with her clothed and alone. Cassie at the doors with the phone gutted me. Now I want Berkeley, I want his face when he opens that photo, and I want to know what Randi does when she sees it.

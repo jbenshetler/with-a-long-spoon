@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch033 · claude-fable-5-1 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5274d9c5fd04 · 2026-10-02*
+
+REACTION
+
+Okay. I said the next chapter had to be a door and somebody walking through it, and 32 gave me the door, and now the book has handed me a *fourth* debrief and I'm not even mad, because this is the one where the debrief stops being a debrief. Randi didn't listen to a story in that piano closet. She ran one.
+
+"So. Did you deserve it?" I actually put the Kindle down on my chest. That's the line. Not the mouse, not the panties, not the hand slipping — *that*. Because Vee had the whole thing filed under slap-and-tickle, love tap, we were being stupid, and Randi let her say all of it and then asked one question in that warm interested voice, and Vee said *probably I deserved it* with a laugh, and a beat later heard what she'd agreed to. And Randi's smile *brightened*. That's a woman watching a key turn. Then — "his hand was wet." Randi reached into Vee's kitchen and found the one physical detail that would put her back on the spot, and Vee's voice went down an octave on the carpet and she said *I'm sure he saw it*, and Randi said *I bet he did*. He did. Randi knows he did because she's the one who's been on the bench with him, facedown, the color of the wine, saying *please* in the voice he's never heard since. She knows exactly what his face does when he sees that. She didn't have to imagine the kitchen. She's been the kitchen.
+
+And the mouse story. I don't know if it's true. I didn't believe the Hermès and I half don't believe this one either — "apologized to the furniture," counting out loud, the hand that slips "toward the end" — it's too perfectly shaped, it's a story built to be *delivered*, and she delivered it in the exact order that would walk Vee down the stairs: humiliating, then *it made me buck*, then *welcome*. And on *welcome* Vee had to leave the room. That's the hottest thing in this book so far and nobody took off a stitch. The nipples under the jersey and the arms crossed like she's cold. The bolt being loud. Her hand knowing the way and her catching it and putting it flat on her own knee — *not over a story, to do that would be to say yes to it* — and I believed her and I also know she's already said yes, in the kitchen, twice, into his neck, and the bathroom was just her last clean thing like the bra on the chair. She came back and Randi said *all better?* I had to go walk around my apartment. Randi KNEW. "So pleased to see her." Of course she was.
+
+The thing that scares me, in the good way and the bad way: Vee towed her. Two fingers on Randi's wrist, *walk me out*, only to Randi, Cassie getting "see you in the room" said to the side of a head. For weeks it was Randi cutting her out of the herd and this time the girl walked herself over. "The most interesting person she knew." She thinks she's the one reaching, and she is, and that's the whole jacket, isn't it. And at the top of the stairs the second press she "barely clocked" and then her arms were slow coming down and she *noticed*. Put it down to the weekend. Honey. That's the held note.
+
+Smaller things I'm chewing on at 1 a.m.: she brought the shoes to give back and I don't think she gave them back — she pulled them out, held them, set them down an inch, and then the story ate the room, and now the cognac heels are in a bag that went home with Vee again. Randi's shoes in Vee's closet is a lease, and Randi knows what a lease is. Also: Randi's got "I'm sure he saw it" now, and she's got Saturdays, and I would bet money that drive up the gravel this week ends with her telling him what Vee's face did on a carpet in a practice room, and him getting the thing he's been not-asking-for handed to him by the person he never has to ask. He'll have it before Vee's ever said it out loud. Which is the plan. Which is the problem.
+
+One grumble, and it was fast: the outlier lecture. "The second kind comes in through the part that carries forward." Third thing on a board, and this one was looking right at me while it said it. I let it through because it was short and because the knee under the fold-out desk landed on the next line and I forgot to be annoyed. But I'm counting it.
+
+And the quiet thing under all of it — Vee's bare feet on his cold floor Monday, smelling of him head to foot, and him saying *always* — that's still in me from the last chapter, and this one made it worse, because the girl who stood inside *always* a few seconds too long is now the girl who held a hug too long with the other one. She's got two of them and she's starting to be the same kind of hungry for both, and she's calling it no sleep.
+
+GATE 33 — The Practice Room
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "The second kind comes in through the part that carries forward. It's in everything that comes after." — the board explaining the jacket to me again; it cost the book about four seconds.
+WHY: A fully clothed chapter that got me as hot as the bench did, and a question — *did you deserve it?* — that Vee answered before she knew what it was. Randi has the kitchen now and a drive up the gravel to spend it on, and Vee held a hug too long and called it tiredness. I'm reading on tonight.

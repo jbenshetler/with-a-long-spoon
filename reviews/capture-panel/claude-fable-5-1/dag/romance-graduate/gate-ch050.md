@@ -1,0 +1,28 @@
+*capture-dag-v2-rich · gate ch050 · claude-fable-5-1 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-02*
+
+REACTION
+
+Okay. Okay okay okay. I walked out of that house with Vee last chapter, crying into the cold, and I turned the page expecting the morning after — the truck in the drive, the unanswered phone, something — and instead the book picked me up by the collar and set me down at a breakfast table in Gstaad with a steak-and-eggs father and a mother who hugs "all edges and points," and I was *furious* for about four sentences. And then I read "eating her revulsion" and sat up. Because I have been asking for Randi for nine chapters and I meant across a brunch table, through Vee's eyes, and the book said no, you've had enough of the outside of her, here's the inside, and I didn't know how badly I wanted it until I had it.
+
+I almost put it down at the ski lift. "What's your name, my dear wife?" — the three fake kids at ski camp, the tall tanned stranger, the pretend-marriage meet-cute — I have read that book forty times and it is *exactly* the book I came to this one to get away from. My thumb actually twitched. And then I understood that was the point: Randi is standing inside a Kindle Unlimited romance and the book is letting me feel how good it is — the champagne, the white tie, "she walks in beauty," a *sleigh*, I laughed out loud with her — so that when she lies down in the middle of the whole perfect thing and feels nothing, I'd feel it with her. It's a trope being performed by a woman who knows every step and can't make it land. She does the fairytale *perfectly*. That's the horror. "Nothing had happened to her eyes."
+
+And the thing I'd text at 1 a.m., all caps: *Pace made her say it, out loud, every time.* That sentence unlocked the entire last chapter for me. Vee walked out into the cold because he wouldn't spend a word on her, and here's the other woman, a thousand miles off, explaining his whole lead — the lightest pressure, "left the rest of the way to her," more work — and saying it from the inside of her own body on a dance floor. He runs them both the same way. He makes you say it. He will not assume. Randi's been in his bed long enough to know that's the rule and she's running from it toward a man who *takes her up the steps without asking* — and that's what her body feels nothing for. I've been reading "believe what I do" as the wall for forty chapters. Randi just told me it's the door, and she's the one who can't walk through it either. "Pace on his worst night reached further than this man had managed at his best. She wished it wasn't true." Girl. Same.
+
+The bracelet. Locked on her wrist. Never comes off. She keeps it out of the light at her mother's table, and it catches on the heel of her hand when John reels her in. Nobody says the word and nobody needs to and I'm a little ashamed of how fast my stomach dropped. Vee's got a drawer. Randi's got something that doesn't unlock. I don't know which one of them I'd rather be and that's the first time this book's made me ask it from Randi's side.
+
+MIRA paid off exactly as quietly as it was planted — "the invented ones were safer than the real ones; they always had been, at this table" — and I took back every eye-roll I spent on Robert Redford. She wasn't lying to Vee at brunch, not really. She was doing what she does at her father's table: true words, none of them the thing. "Every word of it true. None of it the thing." The book said it right out, about the New Year's text, and I didn't feel explained to; I felt caught.
+
+And then Vee, from Ohio, with minutes left in the year — "i'm here if you want to talk. or not." — which is Vee, who just walked out on the man, *reaching for Randi*. And Randi, lipstick on another man's chest, giving her the fairytale back and one true line under it. "Miss your face most though, gorgeous." I made a noise. "Vee was her gorgeous." The scenario she can't run to the end is Vee's *face*. She's spent fifty chapters as the one who runs every scene to the end and the one thing she can't model is the girl across the table. I don't trust her one inch more than I did, and I would now walk into traffic for her, and the book has stopped pretending those are two feelings.
+
+One thing, and I'm saying it because it's my line: "he drew her in, and she went. Afterward—" is the first closed door in this whole book. I felt it close. I'll allow that it's closed because Randi wasn't in the room either — the lipstick ring, "felt her own mouth do it from a long way off," that's the sex scene, and it's told as evidence on a body, after — and it worked on me. But I noticed, and the book has now spent that card.
+
+Where's Vee. Where's Pace. What did he do when the door shut. And — oh — she's decided to let the thing "keep the shape it was already taking," which means Randi is going to *wait for Vee to arrive at it on her own*, which is exactly what Pace is doing to Vee with the other word. They're both standing in a doorway waiting for her to say it first. And she just walked out of one.
+
+GATE 50 — Fairytale
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "What's your name, my dear wife?"
+WHY: The chapter I've been begging for, delivered the one way I didn't ask — inside her, not across from her — and it handed me the key to Pace through Randi's body on a dance floor. A fairytale performed flawlessly by a woman who can't feel it, and under it the one line she meant, sent to a girl who just walked out into the cold. I'm already reading on; I need to know what Vee does with a phone in Ohio and two people waiting for her to speak first.

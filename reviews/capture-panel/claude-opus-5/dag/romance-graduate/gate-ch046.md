@@ -1,0 +1,32 @@
+*capture-dag-v2-rich · gate ch046 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-02*
+
+REACTION
+
+Okay. "I had been eating crackers my whole life. And you fed me a meal." She built that for *weeks*. She rehearsed it in different orders. She engineered a sentence that would carry the freight of the words without being the words, because she'd worked out — from the inside, by bumping into it — that he says it first or nobody says it. And she laid it down on the porch in the cold with her legs across his lap and the moon going thin over the mountains, and she didn't breathe.
+
+And he said *I love how good we are together.*
+
+I actually put my hand over my mouth. That is the word deployed as a wall. He reached for the exact noun she was reaching for and hung it on the *arrangement* instead of on her. And then — this is the part that got me — "What you do. What your body does. I've never. I'm glad you feel it too." She handed him *you woke me up, you made me a person who can taste* and he handed back *the sex is unprecedented.* He answered a different sentence. He answered the sentence a man can answer.
+
+But he *heard* her. That's what's killing me. Two breaths — she's never heard him take two breaths. And the hand on her shin that started two responses and put both of them down before either finished. That's a man with a locked drawer rattling. He knew exactly what she'd just done and he could not get to the other side of it, and what came out was the least he could say that was still true. Which, from this man — the man of objects, the man who answers with a drawer and a scrunchie and a flannel he'll wear all weekend because she asked — is the first time an object hasn't been available to him. There was nothing to hand her. So he handed her nothing and then kissed her hair a beat longer than usual, which is *also* an answer, and the cruelest thing about it is that it's a warm one. He held her. The sun came up. It was lovely. And it was a miss.
+
+The small *wait* behind her breastbone that she lets go into the body where small waits go when the quilt is warm — yes. God, yes. That's exactly how it happens. You feel the wrongness arrive and you are too comfortable to pick it up, and it waits for you in a laundry room two days later. And then: "She had said her best sentence. He had not said the sentence back." And "the cracker-and-meal would not return to her speech." She *retired* it. She spent the thing and it didn't buy anything, and she won't spend it twice. That's a real loss, and the book knew it was a loss.
+
+So here's my problem, and it's not small. Everything I just said — the book said it to me too. At length. In the laundry room it stops being a novel and becomes a seminar on itself: *the two things had not been the same shape. She let the not-the-same-shape form in her and then she did not finish the thought, because either end of it hurt. Maybe he understood and chose to say it like that. Maybe it had gone past him entirely.* I had all of that at "I love how good we are together." I had it instantly, in my body, the way you're supposed to get it. The dryer section took a bruise and turned it into a paragraph explaining what a bruise is. And "She had been received warmly, in the small private way you remind yourself of evidence whose weight you are not sure of" — that's a beautiful line that I'd have liked better if the chapter had trusted me enough to let it be the *only* one. This book has been so good at the unexplained thing. One bite of a pastry. The arms slow coming down. The scarf put back a half-second too long. It never once told me what those meant. Why is it holding my hand *now*, on the most legible beat in forty-six chapters?
+
+Also the whole chapter is in that stacked past-perfect — *she had been thinking, she had run the words, she had decided, she had not said them* — and it's lovely for about a page and then it's gauze. Everything's behind glass, including the glass, which gets its own sentence. It kept me at arm's length on the one morning I wanted to be sitting on that couch.
+
+And it's two quiet ones back to back now — Cassie in the cafeteria, and this. I'm not mad about either; the cafeteria one was good (*weird is worse than wrong*, and her father pricing the dress). But I can feel the book settling into a rhythm of Vee explaining her own life to a succession of listeners, and I've now had the brunch, the bean bag, the tray, the quilt. If the next one is a third chair facing her, I'm going to start thumbing.
+
+What's actually holding me isn't this chapter, it's the one three back. Randi hovering a point in the white and it says MIRA and then it says MIRANDA, and *cheating bastards* comes out of her ragged and aimed too close, and Cassie takes it as agreement because Cassie can't see the screen. And Vee looked at the person instead of the page, and then never said a word, and *Randi has no idea she was seen.* Vee has Randi's worst thing now and is keeping it the way she keeps everything, and she thinks that's kindness, and it's the same muscle that let her put the inside of the photograph in a drawer. Those two are going to find out what they've each been holding and it's going to be a bloodbath. That's the gun on the table, not the crackers.
+
+What I'd text at 1 a.m.: *he said "I love how good we are together" and I have to go lie down. he reached for the word and put it on the wrong noun ON PURPOSE and the book then wrote me a three-paragraph footnote about it like I'm concussed.* Also: he hasn't said one single word about either photograph, still. And Thanksgiving happened entirely offscreen with Sheri alone at his table bringing a pie she'll pretend she made, and I noticed we didn't get that dinner, and I want it more than I wanted this porch.
+
+GATE 46 — Seconds
+DECISION: CONTINUE
+CAPTURE: 6
+NEXT: 6
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: "She let the *not the same shape* form in her and then she did not finish the thought, because either end of it hurt."
+WHY: The porch itself is a knife — she spent her best sentence and he paid her in the wrong currency while holding her the whole time — but the laundry room sat me down and explained the knife, and this book has never needed to do that before. Two hushed chapters running and no Randi since the library, so I'm continuing on the MIRA fuse and the shirt-and-scrunchie man finally having nothing to hand her, not on the promise of another table and another listener.

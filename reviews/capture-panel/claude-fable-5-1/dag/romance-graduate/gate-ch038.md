@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch038 · claude-fable-5-1 · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · 2026-10-02*
+
+**REACTION**
+
+Okay. The drawer got me. I'm not going to pretend it didn't — I read the three sections on my phone in bed and when she pulled the second drawer and found all of him crammed into it, "pressed in and fitted too tight together," I actually put the phone face-down on my chest for a second. That's the move. Not the salmon, not the spin at the door, not the scrunchies — those are a man being good at a thing. The drawer is a man taking the space his own hand goes to first and giving it away without a word and then *squeezing himself* to make it work. In this book, in this house where everything is arranged, that's the first thing I've seen him do that I can't file under the plan. Or I can't yet. Give me a chapter.
+
+And here's the thing that makes it land harder than it would in any other book: she said "Peter" to him asleep. She wouldn't say it where he could hear. She said *I love him* to herself in the dark and then counted the ways he'd said it without saying it, and I was sitting there going honey, honey, I have the notes, I know about Daphne and the calendar and "she chooses it, Randi, every step of it," and "a man didn't do all of that for a girl he was only passing a season with" is the exact sentence a girl writes in a season. The book let her have that paragraph clean. It didn't wink. And then two sections later it handed her a drawer and now I don't know either. I genuinely don't. That's the best thing a chapter's done to me in this book — it took the thing I was sure of and put a question in it from *his* side.
+
+Section ii is the one I'll remember as craft without wanting to call it craft: her watching his eyes go off her face in the mirror and down to her mess on his counter and *hold*, and him doing nothing, smile, mouth back on her shoulder. "He never said." That's the whole man in four words and she's just now finding out it's a problem. He doesn't say. He didn't text. He left her in the lot. He honored "not tonight" into a scar she still hasn't asked about — and I noticed she called it "still never asked about and still meant to keep," which is her making a virtue out of his silence, which is what you do when you've fallen in love with a quiet man. I'd text a friend: *she's learning to read him by what he moves and doesn't say and that is going to break her when she finds out how much he's moved.*
+
+Now the thing I'm actually chewing on at 1 a.m. and it's not in the chapter, it's under it: Randi has Saturdays. Randi goes to the second drawer without looking. Randi sleeps there. And now the top bathroom drawer is Vee's — green scrunchies, face cream, "room for more of her." Randi is going to open that drawer. Or already has. Or he told her, in bed, Friday, the way he tells her everything, and she said something I'd pay to hear. "Sticky fingers" and a stranger's glaze on her mouth last chapter, and this chapter she's not in the room at all and I felt her absence like a draft. One drawer, Pace. He pictured three at breakfast. Does Randi get a drawer? Does Randi *want* one, or does she want to open Vee's and touch the pins?
+
+Small flinches. The weight-loss bit — "her body quietly burning down whole weekends of him" — is the one line where I felt the author lean on the dimmer switch; the bra band riding higher was already enough, and the size-up-because-the-racks-don't-believe-her-build thing sat right next to the budget thread, which is still the only thing in this book that scares me for her more than the people do. And section i is the first time the book summarized sex at me instead of giving it to me. I'll allow it, once, because the week off and the door-and-coats-and-floor was the point and the actual scene was the dill sauce. But I clocked it. "There was no note. There was never a note" is a callback to the scrunchies and I half-wish it had trusted me with just the first sentence.
+
+Three short sections, a chapter that's really three held breaths. I've decided I'm fine with that shape in this book. It's a bridge and I'm on it and I can see the other side, and the other side is a Saturday.
+
+GATE 38 — Above Him
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: "her body quietly burning down whole weekends of him, and she'd never asked it to." — a flinch, not a foot out the door.
+WHY: Quiet chapter, and the first quiet one in a while, so I'm not counting it against the book — and it did the thing I keep asking this series for, which is make me unsure of him in the direction of *tenderness* for once. She said *Peter* to a sleeping man and *love* to no one, he gave her the drawer his hand goes to first, and Randi has Saturdays and a key to that bathroom. I want the next chapter to be the woman beside her opening that drawer.
