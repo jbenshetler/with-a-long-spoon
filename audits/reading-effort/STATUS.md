@@ -248,7 +248,7 @@ later pass does not re-litigate it.
 
 | Chapter | Swept | Tool, default classes | Panel convergent (2+ of 5) | State |
 |---|---|---|---|---|
-| the-bench | 2026-09-20 | 24 open · 1 standing | 18 open (2 at 4/5, 4 at 3/5) | **swept, 3 ruled** |
+| the-bench | 2026-09-20 → 10-04 | 12 open · 5 standing (6 rulings detached by the parallel rewrite) | 18 open (2 at 4/5, 4 at 3/5) | **swept, 3 ruled** |
 | the-pointing-game | 2026-09-20 | 16 open | 13 open (3 at 4/5, 4 at 3/5) | **swept, 1 ruled** |
 
 Panel: `claude-fable-5-1`, `claude-sonnet-5`, `glm-5.3`, `gpt-5.6-sol`,
@@ -315,7 +315,7 @@ the book *and* densest — and is the obvious next sweep.
 | 2026-10-02 | `the-bench.md:269` | suspend 16w — **standing** (author ack: arch and toes belong to the held foot) |
 | 2026-10-03 | `the-bench.md:349` | suspend 13w — **standing** (author ack: the interruption is the hit itself; the chapter's strike shape) |
 | 2026-10-03 | `the-bench.md:147` | suspend 12w, earned (the skin of the sides being swept) — left intact. The 73-word sentence seamed after the clasp: the sweep and the unhooking become two sentences; nothing cut |
-| 2026-10-03 | `the-bench.md:149` | suspend 21w → 16w. Interruption earned (what he finds at the kiss); trimmed the excursion to the throat — "where she had dabbed it at the base of her throat" → "from the base of her throat" |
+| 2026-10-03 | `the-bench.md:149` | suspend 21w → trimmed. **Superseded on merge (2026-10-04):** the parallel session removed the dash and ran the sentence on to her ear, so the throat is no longer an excursion; trim dropped |
 | 2026-10-03 | `the-bench.md:197` | suspend 10w — **standing** (author ack: the dashes are his reading of the held unsteadiness; the mounting is one motion) |
 | 2026-10-03 | `the-bench.md:547` | chain 6 + strand, 0 readers. Seamed at the *and* (lying / thinking each get one subject) and the recursive tail unwound a turn: "what she was going to do about this" → "what to do about this" |
 | 2026-10-04 | `the-bench.md:133` | strand ×2 + an unjustified 24w suspension, 0 readers. Dash removed; three sentences. **Fact fix found on the way:** "soft and heavy … the dense particular weight of real cashmere" had cashmere backwards (famously light and warm) and contradicted `missed-a-spot:207` (*almost no weight at all*) — now "soft and almost weightless in his hands, the particular lightness of real cashmere". "as he removed it" cut as redundant with *took off* |
