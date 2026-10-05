@@ -28,7 +28,7 @@ He waited.
 
 "Know what?"
 
-"To point at her." She had gone still in the way she did when the question was the one she'd come with. "Out of a whole set of doors, in the middle of a Thursday afternoon. How did you know to pick her."
+"To point at her." She had gone still in the way she did when the question was the one she'd come with. "Out of a whole set of doors, in the middle of a Tuesday afternoon. How did you know to pick her."
 
 He gave it a moment. It was a fair question and it deserved the true answer rather than the quick one.
 
