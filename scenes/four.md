@@ -28,7 +28,15 @@ He waited.
 
 "Know what?"
 
-"To point at her." She had gone still in the way she did when the question was the one she'd come with. "Out of a whole set of doors, in the middle of a Tuesday afternoon. How did you know to pick her."
+"To point at her." She had gone still in the way she did when the question was the one she'd come with. "September. Second week of term. You'd been showing me girls the whole way across campus — this one, that one, not that one — and I thought I was being such a good sport."
+
+"You were wet by the time we got to the fields."
+
+"You could not possibly know that."
+
+"Am I wrong?" He looked at her, and she held it a second, and then she didn't.
+
+"I'm not denying it." The laugh came up out of her, low and pleased. "I was had, and ready to be had. You clever bastard — you had me picking women off a lawn in broad daylight, and I was delighted with myself the whole way. We'd been together a month and it already felt like longer." A beat. "Out of all of them. How did you know to pick her?"
 
 He gave it a moment. It was a fair question and it deserved the true answer rather than the quick one.
 
