@@ -1,32 +1,37 @@
-*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 4380a14de9b1 · 2026-10-05*
+*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha fd15ae22052d · 2026-10-05*
 
 REACTION
 
-HOLY. SHIT.
+*Holy. Fucking. Shit.*
 
-I feel sick. I feel sick, I feel totally electrified, I feel like I just got hit by a truck, and I need a cigarette even though I don't smoke.
+I feel like somebody just grabbed the collar of my shirt and jerked me backward off a cliff. My heart is beating so fast I can barely get my thumbs to hit the screen.
 
-I knew it was coming. The jacket told me, the hints were there, I literally wrote in my notes *when does the false top come off the spanking bench*—and yet seeing it, actually being shoved into the room for it, made the air leave my lungs.
+For forty-two chapters, we have been living in the warm, golden, buttery haze of Vee’s point of view. We bought the soft playlists, the seared chicken, the cold water pitcher, the green scrunchies, the mimosas. We knew—intellectually, because of the blurb and the cycling scene—that Pace and Randi were a thing, but experiencing it *like this*? Seeing the actual machinery behind the curtain?
 
-The POV shift to Pace. The deadbolt. "They had already had each other three times." And the casual, bone-chilling realization that Randi isn't just a partner-in-crime or a puppetmaster—she is in his bed, taking him four times in an afternoon, dripping his come onto the same white couch where Vee sits drinking wine, talking about Vee’s wet hair in stats class while he has her bent over the white oak rail.
+It’s completely devastating. And it is scorchingly, uncomfortably, breathtakingly hot.
 
-*“She sat down next to me failing to hide her grin, being modest about it, still full of your come.”*
+The cold calculation of it made my stomach drop. The deadbolt going over in the middle of the afternoon. Pace heating the house up hours ahead of her arrival—the exact same routine he has with Vee. Randi walking around in the dark red silk, her wrists clinking on the furniture, breaking down Vee’s entire life like game film. *"She sat down next to me failing to hide her grin, being modest about it, still full of your come."* The absolute venomous intimacy of that.
 
-The absolute depravity of that sentence. The filth of it. Randi sitting there in stats, playing the protective, admiring best friend, tucking Vee’s hair behind her ear just to inhale the scent of the man she himself fucked over the weekend, and then coming back out to Route 614 on Monday night to fuck him four times while debriefing the brunch! And the way they talk about her: "Out of a whole set of doors... How did you know to pick her." They literally hunted her. They stood on campus, two predators looking at the herd, and Pace watched Randi's face until he saw the exact prey that would make her mouth water.
+And then the reveal of the quad: Randi’s hand going cold, Pace watching her face, Pace pointing at Vee like choosing a prize horse at an auction because Randi’s breath hitched. They *hunted* her. They sat there and picked her out of a crowd together.
 
-And then the psychological rot underneath it! Because it isn't just a clinical setup. Randi is unraveling. She’s spiraling into an obsession she can’t control, desperately lying to herself and to Pace that she’s just "doing the work" for the eventual threesome, while her body is literally seizing up around his cock just *describing* the way Vee leaned in for the goodbye kiss on the sidewalk. *"Saturday she wouldn't let it end, Pace. I went to come off her and she came after me. She took it."* Randi is completely, hopelessly gone for Vee, and she's trying to disguise her own desperate, starving lust as a team effort. And Pace sees right through her. He checks the gauge, asks the terrifyingly exact questions (*"Is she happy? That isn't the same answer." / "Do you like it? Kissing her."*), and breaks Randi down until she has to admit: *"God, I want her."*
+But what completely stopped my breath—what makes this brilliant instead of just gross—is the friction between them. Randi is unraveling. She’s trying so desperately to maintain her cool, puppet-master, sociopath detachment, pretending she’s just "doing the work" to get Vee ready for their bed, and Pace just quietly dismantled her whole defense on the back of that couch. He *knows*. He sees that Randi has fallen completely, helplessly in love with Vee, and he uses it to shatter her.
 
-And the fourth time. "That's more than three." Randi counting the orgasms like a tally sheet because Vee bragged about three over the weekend. The petty, desperate competition!
+*"I'm doing it for you," Randi said.*
+*"I didn't ask who it was for."*
+*"It's not — Pace — it's not a treat, it's work—"*
+*"Sounds grueling."*
 
-Poor, sweet, doomed Vee. Thirty minutes after leaving that brunch, Vee was floating home to Pace, thinking she is the luckiest, most cherished girl alive, completely oblivious to the fact that her best friend and her lover are sharing her like a private feast. When that deadbolt turns for all three of them in the same room, it is going to be an absolute bloodbath. I cannot tap the screen fast enough.
+God in heaven. The psychological brutality of having him inside her, ruthlessly pinning her down on what that sidewalk kiss actually meant, while she’s gripping the sofa rail and coming apart. Randi trying to rationalize it—*"I'm doing the work"*—and climaxing right on the lie! And then Pace, so clinical, so gentle, so terrifyingly observant, pulling her onto him for round four while she admits into the wood: *"God, I want her."*
 
-***
+And the competition! Randi noting that four times is "more than three"—because Vee bragged at brunch that Pace took her three times in one night. Randi literally kept count on the couch just to beat Vee's record. She’s competing with the girl she’s grooming.
+
+I feel sick for Vee. Vee is driving back from brunch floating on a cloud of female friendship and romance, completely oblivious that her precious confessions—her sleep, her awakened palate, her kisses—are being fed straight into Pace’s ear as dirty talk while he bends Randi over the very furniture Vee sits on. It's monstrous. It's brilliant. It's the most high-stakes, deeply twisted adult dynamic I’ve read in years. I cannot look away.
 
 GATE 43 — Four
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The absolute audacity to drop us directly into Pace and Randi fucking on the white oak couch while talking about Vee's mouth and his come. The psychological horror mixed with pure, unapologetic filth completely ruined me; I am utterly hooked.
+WHY: The sheer psychological audacity of this chapter knocked the wind out of me. Pulling the curtain back to show Pace and Randi systematically consuming Vee's confessions as foreplay while Randi completely unravels with real, terrifying desire for her is masterful storytelling. The heat was filthy, dark, and utterly loaded with emotional carnage—I am completely hooked.

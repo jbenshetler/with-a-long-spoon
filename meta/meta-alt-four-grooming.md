@@ -56,3 +56,33 @@ So the question is not whether the line works. It is whether the dread should ar
 **spoken** or **inferred**. Standing pat keeps the most-flagged sentence in the book;
 the alternate moves the same dread back into inference, where the craft rules put it,
 at the cost of the measured spike.
+
+
+## Outcome (2026-10-05) — the alternate is NOT needed; fixed upstream instead
+
+The grooming read turned out to be caused not by this clause but by the **pointing-game
+method beat** forty lines earlier, which framed the chapter as two operators reviewing a
+procedure ("by what you showed me about the other girls"). Relocating that evidence onto
+Randi's own body — her hand going cold, the laugh, the breath changing — and adding
+*"I'd have taken you right there on the quad, if you'd let me"* restored the heat the
+clause had supposedly cost.
+
+Measured across three capture runs of the same 16 lanes (`--from 43 --to 43 --fresh`,
+so true before/after on identical readers):
+
+| | run 1 | run 2 (revisions) | run 3 (method beat relocated) |
+|---|---|---|---|
+| mean CAPTURE | 9.44 | 9.38 | **9.56** |
+| fsog-refugee HEAT | — | `[2,2,2,3,2,3,3,0]` | `[2,3,3,3,3,3,3,2]` |
+
+Four of eight fsog lanes recovered HEAT, none lost any, and gemini came off 0 to 2. The
+grooming read did **not** soften — it sharpened, and now runs *alongside* full heat
+rather than displacing it, which is the two-note effect the thesis wants. gpt-5.6-sol:
+*"the confession I wanted — 'God, I want her' — inside sex hot enough to make me feel it,
+then poisoned it with the fact that Vee is being secretly prepared rather than openly
+asked."*
+
+**Ruling: stand pat on the live text.** The clause is the chapter's engine, every reader
+who names it keeps reading, and the problem it was blamed for had a different cause. This
+alternate is kept only as the record of a diagnosis that turned out to be aimed at the
+wrong sentence — do not re-open it without new evidence.

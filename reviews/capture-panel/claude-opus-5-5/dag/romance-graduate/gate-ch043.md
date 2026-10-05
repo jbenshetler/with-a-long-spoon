@@ -1,32 +1,32 @@
-*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 4380a14de9b1 · 2026-10-05*
+*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha fd15ae22052d · 2026-10-05*
 
 **REACTION**
 
-Okay. *Okay.* I've been asking for Randi for three chapters and the book gave her to me in Pace's den, in dark red silk, the same week Vee asked him to promise he'd never share her. I put the phone down, walked around my kitchen, and came back.
+Oh. *Oh.* So that's what the book was saving her for.
 
-First, the point of view. We're in *his* head. Forty-two chapters of watching him from outside, reading him by what he moves, and the first time I get inside him it's with the other woman, on a Monday, with a scratch coming up on his shoulder from her. The book held his interior back until it could give it to me here. I'm furious at how well that works.
+I've spent three chapters whining that Randi was off the page. She was. She was on his couch, in dark red silk, with her feet tucked up. And the first thing she does is say the line I'll be carrying all week: *"still full of your come."* She leaned over in stats on Monday morning and whispered that into Vee's wet hair. I went cold and hot at once. Vee put her hands in her lap "like she was hiding something" and went "the most beautiful color." In my notes that was a nice private moment between two friends. Now I know it was a report, delivered to him that same afternoon. Every Saturday Vee drives thirty minutes out to give her week to a woman who drives it straight back up the gravel. I knew that already, in the abstract. Reading it in Randi's voice, with his hands under her silk, is something else.
 
-"Still full of your come." She said that to Vee's *face*, in stats, and then tucked her hair behind her ear "because it was an excuse and I took it." Vee put her hands in her lap and went the most beautiful color. I'm reading it through Randi, so I get her pleasure in the color and not Vee's shame, and I sat with how much that turned me on and how much it made me want to reach through the page. Then: "I got my hand in it once in October, before I knew better, and I have not been the same about it since." Since October. She's been gone since October and calling it a plan.
+And it isn't even the betrayal that got me. It's that Randi is coming apart and calling it work. "I'm doing it for *you*." "Somebody has to get her used to my mouth." "It's not a treat, it's *work*." Then she comes on *"I'm doing the work,"* which is the funniest and saddest orgasm I've read in years. Then "God, I want her," into the wood, and you can feel the second where she hears herself. Then she tries to take it back with "for us." The clench on the word *mouth*, which she didn't decide on. She thought she'd turned her face away from him and forgot the mirror. That's the whole character in one staging choice, and the book didn't explain it to me. It just put the mirror on the wall and let me notice it. That's what I've been begging for.
 
-The doors. "How did you know to pick her." "You taught me. By what you showed me about the other girls." So there were other girls, there was a lineup, and he pointed and watched her face. "That part was all you." He handed her own wanting back to her as a fact, and she said "Hm" and started running again. That's the jacket's "chose her together" with the lights on, and it's colder and sadder than I expected. He picked Vee by reading *Randi*.
+Pace in this chapter is maybe the scariest he's been and also the kindest, and I hate that I can't separate them. "Is she happy?" "That isn't the same answer." He's the one checking on Vee's welfare in that room. And the origin story finally lands. *Out of a whole set of doors*, he read *Randi's* face, not Vee's, and pointed. "That part was all you." So Vee was picked as a gift for Randi. Or as a way to reach her. I don't know yet which, and I think Pace doesn't either. "You don't have to do it for me" is the cruelest kind thing anyone's said in forty-three chapters, and he meant it kindly, and it went through her like a blade.
 
-Then the actual scene, which is the hottest thing in the book so far, and it's built out of talk. She tells him about the goodbye kiss while he works her, and every time she gets near the true thing her body says it before her mouth does. The clench lands on "and then I kiss her mouth." She turned her face away from him and forgot the mirror. "It looks good wet," his own line, aimed straight back at her hair story, and she answers with two fingers instead of a laugh. I'm not going to pretend I was cool about any of it. And "Does she want it?" / "That isn't what I asked" / "Do you like it?" / "I didn't ask who it was for." He keeps asking the right question and she keeps answering the wrong one, until "You don't have to do it for me," said *kindly*, and she comes on "but I'm doing the work." That's the best line in two books. Erotic and psychologically exact in the same breath, which is what the jacket promised and what I came for.
+The heat: yes. Finally, a scene where the sex *is* the conversation. He keeps asking "does she want it" and "do you like it" while he's inside her. She keeps answering about the goodbye kiss while her body answers the real question. It's explicit and it's filthy ("it looks good wet," and that callback to Vee's hair made me put the Kindle face-down for a second). And it's never just choreography. "Somewhere near the end it crossed over and began to hurt, and he stayed in it anyway." The book finally gave me someone's hands on someone. They just weren't the hands I was waiting for.
 
-"That's more than three." She's counting against Vee's "two, three" from the brunch, out loud, in his house, and the book doesn't explain it to me. Thank God. And he's "not sorry to hear her counting," which tells me exactly how much he understands and how little he'll say. "God, I want her." "For us." "Aren't you?" "I am." I believe him, and I believe she doesn't fully believe herself.
+Things that made me wince:
+- "That's more than three." Randi is counting against Vee's "two, three" from brunch. She took Vee's bragging home and beat it on his couch. Petty and heartbreaking.
+- The photo. Last chapter Pace promised Vee he'd never share it, and then Vee handed the uncropped one to Randi herself. Randi didn't bring it up tonight. She's holding it.
+- "She told me first." Little girl at a sleepover.
+- Twenty-one years old and Vee found out this autumn that a person can sleep. Randi says "that's the one that got me," and it got me too, from the other side.
 
-What wrecked me was after. "Is she all right?" was Pace checking the gauge on Vee, and Randi snapped at the voice. By the end she's the one saying "some nights it frightens me" and "say something nice to me," and he thinks about it "because she would know the difference." He's careful with both of them in exactly the same way, and the book has finally let me see it costs him. I've spent ten chapters calling his gentleness manners over an arrangement. It's love for Randi, and it's real, and it's pointed at a girl who believes she pulled out her own chair.
+And the ending. "Then I'll be careful with you." "Say something nice to me." *Extraordinary*, chosen because "she would know the difference." He's tender with both of them, and he's arranging both of them. Randi frightened by being seen is the first time she's had an inside, not just a performance. I don't trust her and I'd die for her.
 
-A few things I'm holding. Vee showed Randi the photo herself, right after making him swear never to share it, and Randi didn't mention it here. Randi's "Two hours in a booth and I don't think about one other thing" is the truest thing she's said. And the deadbolt "went over before her coat was off, the way it always did." Always. Vee's been at brunch thinking she's the lucky one.
-
-At 1 a.m. I'd text: *Randi's in love with Vee and is fucking Pace to tell him about it. and he KNOWS. and he's being nice about it. I can't.*
-
----
+1 a.m. text: *the friend is in love with the girl and is using the boyfriend's bed to say it out loud and he KNOWS. also the anthro class is Tues/Thurs SEVEN PM. she said "just us" softer than the plan called for. I'm not sleeping.*
 
 GATE 43 — Four
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Somebody has to get her used to my mouth." For half a second Vee was a project and I hated everyone at that table, me included. Then he said "Sounds grueling" and I saw it was a lie she was telling herself, and I was back in.
-WHY: Three quiet chapters paid off in one door, the explicitness and the interiority came in the same lines, and Randi's slip ("God, I want her") turned the game into something nobody's in control of. Now I need Vee, awake, in a room with both of them, and I'm not sure I want to watch it.
+ALMOST-STOPPED: "still full of your come." It's the one line where I flinched for Vee hard enough to wonder if I wanted to watch this. Two pages later I was in too deep to care.
+WHY: The book took the Randi-shaped hole and filled it with a sex scene that's also an interrogation and a confession, and nobody in it says the true thing on purpose. Every brunch I've read gets rewritten backwards, and now "God, I want her" is out of the bag in front of the man who set the table. I need Tuesday at seven.

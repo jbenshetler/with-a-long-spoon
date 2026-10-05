@@ -1,34 +1,28 @@
-*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 4380a14de9b1 · 2026-10-05*
+*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fd15ae22052d · 2026-10-05*
 
 **REACTION**
 
-Oh no. Oh, Peter.
+I had to put it face-down on my chest for a minute.
 
-I've known since the jacket. *She doesn't know there are three.* I've been tracking the empty spaces for forty chapters: "not yet," "she likes her," the shelf, Randi gone from the page since "give her a day." I thought I was braced for it, and I wasn't. I wasn't ready for the deadbolt going over in the afternoon "the way it always did." I wasn't ready for the heat turned up two hours ahead, which is the exact care he gives Vee, the thing I've been calling the man I came for. Or the blanket over her before she reaches for it. "The chill found her about a minute after he came out of her, the way it always did." *Always.* That's my word, the hair-tie word, the one I kept, and here it is in Randi's mouth on his couch on a Monday.
+He pointed at her. I've known since the jacket and I've been circling it for forty chapters, and it's still a different thing to hear it in his own level voice on his own couch: *a whole set of doors, the middle of a Thursday afternoon*. And he wasn't even really looking at the doors. He was reading Randi's breath, her cold hand, her *maybe*. Vee was picked because of the effect she had on another woman's face. "I pointed at her and watched your face." Then "I'd have taken you right there on the quad." So the moment Vee was chosen turned him on, and Vee wasn't the one he wanted in it. That's the closest I came to leaving. My stomach went cold, the way it did in the old books when the man smirks.
 
-The second I read "Monday" I did the math. Vee left that morning with wet hair and his coffee in the steel cup, and by afternoon Randi's at his door and they've had each other three times before nine. Then the scratch on his shoulder, and I thought of Vee in the lamplight in chapter 41, "He's all mine," and I had to put the book face down on my chest for a minute.
+Two chapters ago, though, she asked him to promise he'd never share the photo. He said never and he meant it, and in this chapter he hasn't. Randi hasn't either, and I noticed. She's had the uncropped picture since Saturday and didn't bring it to him. She brought him the hair, the coffee cup, "still full of your come," the kiss, the sidewalk. She kept the legs and the toes for herself, and that tells me more than "God, I want her" did.
 
-Here's what's making it worse and also keeping me in: the book isn't winking. Pace asks. "Is she all right?" "Is she happy?" "That isn't the same answer." "Does she want it?" "That isn't what I asked." He keeps going back for consent, *Vee's* consent, through the one person who will never give him a straight answer. He's the conscience in the room. Then "she *took* it" lands, and "After that there was no slow left in him." That's my answer from the notes. Yes, he gets hard on Vee's yes when it's told in Randi's mouth. Her leaning up that last half-inch on the sidewalk, the most private, unplanned thing she's done, the thing she "decided was what she wanted and didn't bother about again," got carried across town and used as fuel on his couch. That's my almost-stop. Not the sex. The thing that was hers getting spent by other people.
+What keeps me in the chair is that this is the first time I've been inside him, and he spends the whole chapter asking the one question I'd ask. "Is she all right?" "Is she happy?" "That isn't the same answer." "Does she want it?" "That isn't what I asked." He asks about Vee's consent through the only witness he has, and he doesn't take the pretty answer. Then he finds the thing that actually breaks Randi: "You don't have to do it for me." That wasn't a cruel line or a tactic. It was kind, and it went through her like a blade, and she came arguing that it was *work*. I laughed out loud and then felt sick that I'd laughed. The book isn't winking at me about what they're doing to Vee. It's letting me see two people who are both, in different ways, in love with her and can't admit it. One calls it a project. The other calls it "you taught me."
 
-And "You taught me. By what you showed me about the other girls... a whole set of doors." Doors. What doors? A catalogue? Dorm rooms? A Thursday afternoon scrolling through girls? I'm cold all over. He pointed and watched her face. "Your face said yes before the rest of you got there." That's the practice room again, the yes harvested ahead of the understanding. Except this time it was Randi saying yes, to *him*, and he names it to her, gently, like he's handing her her own evidence.
+But I was turned on, and I'm not going to pretend otherwise. The mirror she forgot. Her face the whole time he couldn't see it, which he could. Her clenching on "and then I kiss her mouth" without deciding to. That's real desire, rendered from the inside of a body, and it's hers and it's aimed at Vee. It's the hottest chapter in the book and it's built out of Vee's private Saturday. I can't untangle those two facts and I don't think I'm meant to.
 
-Randi broke my heart and I hate her a little. "Still full of your come," said into a girl's ear in a stats class, with the hair tuck as the excuse. That's the cruelty I left three subgenres ago. But then there's "I'm doing it for *you*," "it's *work*," and him saying "You don't have to do it for me," kindly, into her neck. She comes on that. She comes on being let off the hook she put herself on. "God, I want her." Then "For us." Then "Aren't you?" And he says "I am," two words, and I don't know if that's the truth or the management voice. She told me first. She keeps score of who Vee told first. And she didn't give him the photo, which I noticed. She's keeping the uncropped one for herself. That's the only secret anyone kept for Vee in this whole chapter, and Randi kept it for the wrong reason.
+So here's where I am with Pace. Column one is still full: the care, "Then I'll be careful with you," "Say something nice to me" and him actually thinking about it because she'd know the difference. Column two has gone from three words on a road to a whole couch. He's tender with both women and fully honest with neither, and Vee is the only one at the table who doesn't know how many chairs there are. "Nothing is taken from Vee that she does not hand over." Fine. She handed it to Randi. She never agreed to Randi handing it to him with his hands under her silk.
 
-The mirror. She hid her face from him and forgot the mirror, and he watched her the whole time. That's *exactly* what he did to Vee at the counter. He's the same man in every room, and that's the worst part. The tenderness isn't fake. "Then I'll be careful with you." "You are extraordinary," which he thought about first, because she'd know the difference. He's real with both of them. Vee thinks she's the only one with the drawer.
+And Randi. "Twenty-one years old and she found out this autumn that a person can sleep." She stopped looking at him to say it. And "She told me first," with something in the pause. She's gone, completely, and calling it the threesome so the floor holds. I wanted to hate her more than I do.
 
-Was it hot? Yes, God help me, and I'm furious about it. Randi running it, "Here. Like this," him lying back and letting her have him, the fourth that crossed over into hurting. It's two adults who know exactly what they're doing to each other, and every word of it is consent. It's just not Vee's. That's the knife the book chose, and it isn't pretending otherwise.
-
-What I'd text at 1 a.m.: *he asked "does she want it" twice and still let it happen and i don't know if that makes him better or worse*
-
-I'm not leaving. I can't leave her alone with these two now.
-
----
+Text to a friend at 1 a.m.: *he asked "does she want it" TWICE and I don't know if that makes it better or worse.*
 
 GATE 43 — Four
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "After that there was no slow left in him." Vee's half-inch on the sidewalk, the one thing that was purely hers, turned into his fuel secondhand.
-WHY: The book showed me the third game and didn't ask me to find it cute. He keeps asking whether she wants it, and Randi keeps refusing to answer, and that pull between them is the most alive thing in the book. I'm reading on scared for Vee, and less sure of Pace than I've been since chapter one.
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "So by the time the doors came up I knew. I pointed at her and watched your face."
+WHY: The choosing finally has his name on it, and I nearly put the book down. What held me was that he spends the whole chapter pressing on whether Vee actually wants this, and he won't take "radiant" for an answer. The heat is real and it's built on Vee's private brunch with Randi, and I'm staying because I need to see whether one of them tells her before she pulls out her own chair at that table.
