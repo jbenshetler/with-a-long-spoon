@@ -32,7 +32,11 @@ He waited.
 
 He gave it a moment. It was a fair question and it deserved the true answer rather than the quick one.
 
-"You taught me," he said. "By what you showed me about the other girls. By the time the doors came up I knew what you were looking for — so I pointed at her and watched your face."
+"You taught me," he said. "Not with anything you said. Your hand went cold on mine at the two that went everywhere together. You laughed at the one running the room. And when I got to the quiet one your breath changed and you gave her a *maybe*." He had been reading her and not them by the end of it. "So by the time the doors came up I knew. I pointed at her and watched your face."
+
+A beat.
+
+"I'd have taken you right there on the quad, if you'd let me."
 
 Something happened to her mouth and was gone again.
 
