@@ -4,7 +4,7 @@
 
 The deadbolt had gone over in the middle of the afternoon, before her coat was off, the way it always did. The house had been warm a long while by then; he had put the heat up a couple of hours ahead of her.
 
-It was past nine now. The lamp stood at its lowest click and left the book wall in the dark, and something was going low in the front rooms that he had started hours ago and stopped hearing. They had already had each other three times. The first was her idea, against the kitchen counter with her skirt up, and it finished quickly the way a start does; then they had taken themselves to his bed and gone slowly, once and then again, with a long warm nothing in between. He had a long scratch coming up on his shoulder from the second one.
+It was past nine now. The lamp stood at its lowest click and left the book wall in the dark, and music was going low in the front rooms, something he had put on hours ago and stopped hearing. They had already had each other three times. The first was her idea, against the kitchen counter with her skirt up, and it finished fast because she would not have it any other way; then they had taken themselves to his bed and gone slowly, once and then again, with a long warm nothing in between. He had a long scratch coming up on his shoulder from the second one.
 
 She had come out of his bathroom in the thing she'd brought in her bag — a short silk, dark red, going almost black where it moved on her — and taken the end of the couch with her feet up under her. The white gold on her wrist came to rest against the wood of the frame and made a small sound he felt more than heard.
 
@@ -14,15 +14,15 @@ He waited.
 
 "Eleven o'clock, and she comes in still lit." Randi's painted mouth did the slow thing at one corner. "Hair barely put together — wet down her back in November, half of it pinned and the other half given up on, which is a girl who left somewhere late and did the rest in the car. She'd missed everything before mine. And she's got one of your coffees with her, in that steel cup, the good stuff — which is not a thing a girl buys for herself." A beat. "She never says it. Not one Monday all term. But that minx cannot keep her own face. She sat down next to me failing to hide her grin, being modest about it, still full of your come."
 
-"What did you tell her?"
+"What did you do?"
 
-"I tucked her hair back behind her ear, because it was an excuse and I took it. And then I leaned over and told her she'd come to class still full of you." Something pleased went through her and she let it. "She put her hands down in her lap like she was hiding something, and she went the most beautiful color. And it does look good wet — it goes three shades darker and you can see the gold come up in it." She turned further into the arm of the couch. "I got my hand in it once in September, before I knew better, and I have not been the same about it since."
+"I tucked her hair back behind her ear, because it was an excuse and I took it. And then I leaned over and told her she'd come to class still full of you." Something pleased went through her and she let it. "She put her hands down in her lap like she was hiding something, and she went the most beautiful color. And it does look good wet — it goes three shades darker and you can see the gold come up in it." She turned further into the arm of the couch. "I got my hand in it once in October, before I knew better, and I have not been the same about it since."
 
-"Since September."
+"Since October."
 
-"Since September." She pointed at him without lifting her hand off the couch. "Don't you look at me like that. You get to put your hands all the way in it."
+"Since October." She pointed at him without lifting her hand off the couch. "Don't you look at me like that. You get to put your hands all the way in it."
 
-"I have."
+"I do."
 
 "Then you know." She let a beat go. "How did you know, that day?"
 
@@ -32,11 +32,11 @@ He waited.
 
 He gave it a moment. It was a fair question and it deserved the true answer rather than the quick one.
 
-"I didn't," he said. "I pointed. I watched your face."
+"You taught me," he said. "By what you showed me about the other girls. By the time the doors came up I knew what you were looking for — so I pointed at her and watched your face."
 
 Something happened to her mouth and was gone again.
 
-"And your face said yes before you did," he said. "That was all the method there was."
+"And your face said yes before the rest of you got there," he said. "That part I didn't do. That part was all you."
 
 "Hm," Randi said, and let it lie, and after a moment she was running again. Everywhere else she filled the air. He had watched her do it: handing out her approval across a room like a woman passing a tray, making whoever she was looking at the whole subject of the hour. In his house the machine switched off and she went quiet and sat with her feet up and let him be the one to talk. But tonight it had been running since the kitchen counter.
 
@@ -148,7 +148,7 @@ After that there was no slow left in him.
 
 He had her hips in both hands and he went, and she took it with her head down and her arms braced and gave it back, shoving herself onto him on every stroke, and the room filled with the sound of it — the wet of them, which was three times' worth and loud, and her breath going out of her in pieces, and the white oak under their weight. He could see all of her from where he was. The narrow back working under the bunched silk. The two pale freckled wings of her shoulder blades. Her hips in his hands, which he could nearly span. The room smelled of her perfume gone hours old, and of their sweat, and under those of what they had been doing all day, which had its own smell and was in the room with them now and on both of them.
 
-She did not look back at him once, and in the glass he had her face the whole time.
+She did not look back at him once.
 
 "Do you like it?" he said.
 
@@ -174,7 +174,7 @@ He meant it kindly. He said it into the side of her neck with his hand flat on h
 
 He felt the whole length of her seize and pulse around him with her forehead down on the top rail and a sound coming out of her that had no shape to it, and whatever she had been going to add to her argument did not get added, then or after.
 
-He was nowhere near. Three times in a day takes the hurry out of a man and leaves the rest of him going, and she knew it, had known it about him for a year. She came up off the rail while she was still coming down and put a hand back to take hold of his hip and stop him, and got her knees wider and her back lower, and said, "Here. Like this," and after that it was hers to run.
+He was nowhere near. Three times in a day takes the hurry out of a man and leaves the rest of him going, and she knew it, and had known it about him since nearly the beginning. She came up off the rail while she was still coming down and put a hand back to take hold of his hip and stop him, and got her knees wider and her back lower, and said, "Here. Like this," and after that it was hers to run.
 
 It took a while and she did not hurry it. She set the angle she wanted and the depth she wanted and worked back onto him in a rhythm he had not chosen, slow and then not slow, and she talked the whole way through it — not about Vee now, not about anything, only the low filthy run of it in the voice she kept for his bed. He put his hands flat on her back and let her have him.
 
@@ -203,6 +203,16 @@ She heard it leave her. He felt her hear it.
 She turned over under his arm after that and looked up at him, and whatever had been pleased in her face had finished and gone somewhere while he wasn't watching, and he thought she looked tired, and went and got the blanket off the back of the chair.
 
 The chill found her about a minute after he came out of her, the way it always did, and he had the blanket over her before she had put a hand out for it. He got her down lengthwise on the cushions and himself behind her and his arm over her ribs, and she took hold of his forearm with both hands and pulled it in tighter than he had put it, and then tighter again, and he let her have as much of his weight as she wanted.
+
+"The way you knew me on the walk." She said it into his arm. "Nobody does that."
+
+He didn't answer that. He put his hand in her hair.
+
+"You see more of me than anybody ever has." A long breath went out of her. "It makes me feel—" and she went after the word and came back without it. "Real. It makes me feel real. And some nights it frightens me."
+
+"Then I'll be careful with you," he said.
+
+He meant it entirely. She lay still a while with that.
 
 "Say something nice to me," she said.
 
