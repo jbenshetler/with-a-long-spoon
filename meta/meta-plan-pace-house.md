@@ -172,7 +172,23 @@ waits; {{Made-Up}}'s room-music is "something low on the speakers"). The `no-rec
 style rule (error) enforces it. `[PAGE]` A **lamp** ({{Made-Up}} — "the lamp throwing its circle," with a click-stop
 switch) and a **recliner** ({{Made-Up}} — his chair, where Vee seats him for the
 two-costume show; reads naturally as a built **Morris chair**, the A&C recliner,
-consistent with the furniture-he-built canon).
+consistent with the furniture-he-built canon). **A couch** `[PAGE]` — settled
+furniture in four drafted chapters ({{Tannin}}, {{Space}}, {{Nothing Underneath}}, {{Four}})
+but never inventoried here until now, which is how it stayed unspecified for a year. Its
+**frame is his own work, white oak, dowelled** ({{Four}}: it takes their weight and
+"spoke, low, and went on speaking"), with a **low table** in front of it sharing the lamp;
+upholstery deliberately unspecified. Distinct from the sun porch's own couch (below) —
+two couches, two rooms, two registers: the porch's is the quilt-and-herbal-tea confessional,
+the den's is where Randi is received. A **blanket** lives on the back of a nearby chair
+({{Nothing Underneath}}, {{Four}}) — the den's answer to the porch quilt and the bedroom's
+cashmere, and what Pace reaches for when the post-sex chill takes Randi. A **framed mirror**
+`[PAGE]` on the wall past the end of the couch ({{Four}}) — new 2026-10-05. It is *not* the
+{{Two Towels}} mirror, which is on the **sun porch** (where he holds the burgundy cloth up
+beside Vee's face and she sees the two of them together); these are two framed mirrors in
+two rooms, and the pairing is an inversion worth protecting — the porch mirror **gives a
+woman herself**, the den mirror **gives Pace a woman's face when she believes she has hidden
+it** (Randi turned away from him over the back of the couch, her face in the glass the whole
+time).
 
 ### Sun porch `[PAGE]`
 Through an archway at the far end of the den — an **enclosed porch at the back, mostly

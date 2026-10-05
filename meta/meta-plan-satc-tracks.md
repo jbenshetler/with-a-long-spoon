@@ -49,6 +49,27 @@ Decomposes the two staircases above into the axes you actually plan a scene agai
 **Ordering constraints (get these wrong and the book goes legible too early, or rings false):**
 1. **Object-migration is the keystone — it falls LAST, at the threshold.** Every other wall's deniability leans on "it's about Pace": while the object is Pace, every transgression files under loving her boyfriend. If it falls early the whole cover collapses at once and Vee (and the reader) sees the machine. It advances only in increments each individually deniable, until the Dress Entrance crack ("the writing-off needs effort"), which is correctly placed late. The slowest ladder, on purpose.
 2. **Overtness lags — language only names what behavior already did.** Randi cannot say "I know you don't have to pee" before the bathroom trips exist, or "show me" before the masturbation. Naming is the *second* strip of a wall behavior already took; it never leads.
+2a. **The fall's overtness high-water mark is claimed off-page, in {{Four}} (2026-10-05).**
+   Randi tells Pace that Vee came to Monday's eleven-o'clock lecture straight from his bed —
+   hair half-pinned, his coffee in a steel cup, grinning — and that she *"tucked her hair
+   back behind her ear, because it was an excuse and I took it,"* leaned over and **told Vee
+   she'd come to class still full of him.** Vee *"put her hands down in her lap like she was
+   hiding something"* and went scarlet. Three things to hold:
+   - **It does not breach the lag rule.** The behavior being named — Vee having a great deal
+     of sex with Pace — is the most thoroughly established fact on the track; Vee volunteered
+     the whole of it two days earlier at {{All the Time}} (*"We have so much sex, Randi"*).
+     Randi is handing Vee's own report back to her in blunter words, not naming ahead of it.
+   - **It is bluntness, not a new axis.** The move is the established grenade-and-frame:
+     outrageous content delivered as affection, filed by Vee as sorority talk. But it is the
+     **crudest thing Randi has said to Vee in the fall**, and nothing after it may be less
+     blunt without reading as a retreat.
+   - **It is reported, never dramatized.** We have only Randi's account, to Pace, in his
+     POV. Vee's side is off-page, and {{Four}} is a Pace/Randi scene — so any later Vee-POV
+     scene that touches the Monday lecture-hall habit must be consistent with this having
+     happened and with Vee having filed it without alarm. Vee's hands-to-lap is **her own
+     arousal tell** (`meta-craft-vivienne.md`), reported by a woman who does not know what
+     she is looking at; the reader holds the key and Randi does not.
+
 3. **Body before object.** Response-migration (she acts) precedes object-migration (the want reattaches): she does the deed while still filing it under Pace, and only later does the object move.
 
 **Per-scene rules:**
