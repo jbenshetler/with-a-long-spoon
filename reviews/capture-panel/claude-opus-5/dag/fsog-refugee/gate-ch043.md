@@ -1,0 +1,38 @@
+*capture-dag-v2-rich · gate ch043 · claude-opus-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3c5bf21ec9e8 · 2026-10-05*
+
+REACTION
+
+So that's the floor. I've been standing on it for two volumes and I've just been shown the underside, and the thing I didn't expect is that it's *sad*. I came in braced for a villain reveal and what I got was a woman folded over the back of a couch with her forehead on the wood saying *say something nice to me*.
+
+Let me start where it actually got me, which is not the sex. "How did you know to pick her." / "I didn't. I pointed. I watched your face." He didn't choose Vee. **Randi** chose Vee and doesn't know she did, and he read it off her face in a hallway on a Thursday and pointed and let her believe it was his. Of all the machinery I imagined behind that door, I never once imagined that *Randi* was the one who got handled, by the man she thinks she's running the operation with, in the first five seconds of it. And look at what she does with the answer: "Something happened to her mouth and was gone again," and then "Hm," and then she runs for the rest of the night and never stops running until he's got his hands under the silk. She came to his house with that one question in her bag. It's the only thing she's ever asked anybody for straight out, and the answer was *your face said yes before you did*, and she couldn't hold it.
+
+And then she asked for a second thing. Out loud. *Say something nice to me.* The woman nobody ever asks — my own note, from two volumes of watching her never once say *may I* — finally asks, and what she asks for is a kind word from a man who has to *think about it because she would know the difference*. And he gives her "you are extraordinary," which is a performance review. And she says "Mn" in the voice of a thing landing where she wanted it, and then holds onto his forearm, and pulls it tighter than he put it, and then **tighter again**, and doesn't let go for a long time. He has never told Vee he loves her. He didn't tell Randi either. Two women in that house and neither of them has the sentence, and one of them has stopped asking and one of them has started.
+
+The mirror. She turned around and put her face in the couch *on purpose* — "she had put her face where he could not get at it" — and forgot the framed mirror, and he had her face the whole time. He has done this before. He screwed a mirror into the sun porch wall and walked away from it; he watched Vee's whole kit in the mirror and held one second too long and said nothing. The man's entire epistemology is *look in the glass and don't tell them you looked.* And what he watched in it tonight was a woman confessing with her face hidden and no idea she was broadcasting. If he ever does that to Vee I will throw this book, and he will, and I'll pick it back up.
+
+Now the part I'm genuinely churned up about. *Somebody has to get her used to my mouth.* For about four seconds I thought this book was going to hand me the goodbye kiss back as grooming and I was ready to be done — because that kiss is in my notes as one of the tenderest things in the series, the arms slow coming down, the held note after the song moved on. And then it did the opposite. "It's not a treat, it's *work*—" and he says, kindly, *you don't have to do it for me*, and **she comes on it.** Not on the thrust. On being let off the hook she built herself. "Oh, but I'm *doing the work,*" and comes. That is the most ruthless thing I have ever watched a novel do to a character's own alibi and it did it with an orgasm instead of an argument. She isn't kissing Vee to prepare her. She's kissing Vee because she's in love with her and *work* is the only paperwork she's allowed to file it under. "Two hours in a booth with that girl and I don't think about one other thing the whole time." "That's the one that got me. Twenty-one years old and she found out this autumn that a person can sleep." She's not reporting. She's **confiding**, and the only confessional available is a man's body.
+
+And then: *God, I want her.* Said down into the wood with nothing around it, heard leaving her mouth, and retracted inside two seconds — "For us. When she's ready. That's all I meant." She can't even keep it for the length of a breath.
+
+So: I'm not leaving. I'm further in than I was an hour ago, and I want to be honest that the heat here was the hottest thing in this book for me and that it's the heat that's bothering me, because what was getting fucked was the confession. He went slower *because he wanted the rest.* "That isn't what I asked." "I didn't ask who it was for." He extracted it, by degrees, with his hands, the exact way Randi extracts Vee across a tablecloth with her chin on her hand. Same move. Different chair. The difference is Randi knows she's being worked and wants it and takes the controls back — "Here. Like this," and after that it was hers to run, and he put his hands flat on her back and let her have it. Consent between the two of them is fine. It's clean, even. It's the third person in the room who wasn't in the room.
+
+Things I'm sitting with, in order of how much they hurt:
+
+She will not let Randi pay. Hand flat down on the check, nicely, laughing, but *flat*, and Randi has not got near it since. I had the bill in my notes as a debt coming due and it turns out Vee closed that account in the first hour on instinct and has no idea what she was refusing. She pays her own and tips too much and never says one word about the number. God.
+
+The photograph. He said *I'd never share your photograph* and he hasn't. She did. She showed Randi the cropped one and then got needled about her nerve — "you only gave him *half*?" — and handed over the whole uncropped length of herself to prove she wasn't a girl who flinched. *I gave him* ***all*** *of it.* That was dared out of her in a dark booth with a smile on it, and she drove home happy, and I was happy with her, and I am not happy now.
+
+*Still full of your come*, said into a twenty-one-year-old's ear in an eleven o'clock stats class by a woman tucking her hair back because it was an excuse and she took it. And he asked *what did you tell her* and then let it pass. And in 41 Vee's one flicker about a woman at his table on Thanksgiving went out "as fast as it had come," and the horror is that the flicker was *right* and she keeps blowing out her own matches.
+
+And "Is she all right?" / "Is she happy?" / "**That isn't the same answer.**" He's the one checking the gauge, and she snapped at him for the voice he asked it in — *I have always known what I'm doing*, said twice, which is what a person says when they don't. He knows something is wrong. Four strokes of doubt in a swimming pool and one man on a couch going *that isn't the same answer*. Those are the only two honest instruments in the whole house and neither one of them is Vee's.
+
+What I'd text at 1 a.m.: *she asked him to say something nice to her. she had to ASK. and she still pulled his arm in tighter after he said it.*
+
+GATE 43 — Four
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "Somebody has to get her used to my mouth."
+WHY: This is the chapter I've been waiting forty-three for and it didn't play the reveal as a gotcha — it played it as two people's loneliness, and it made the woman running the con the one I pity most. I've got Randi in love with Vee, Pace having picked Vee off Randi's face, a threesome with a date pencilled in that Vee hasn't been told about, and Vee's own hand flat on a restaurant check. I'm not putting this down until somebody in that house says a true sentence to her.

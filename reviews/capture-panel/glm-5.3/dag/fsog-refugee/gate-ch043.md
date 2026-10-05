@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch043 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3c5bf21ec9e8 · 2026-10-05*
+
+**REACTION**
+
+I had to put the book down for a second and just sit there, because the door opened and it wasn't the door I was braced for. All those chapters of hum — the plum nails, the glaze on the lip, Randi's fingerprints on everything — and now the book just walks me through the door and shows me the two of them on the couch like it's nothing, like it's been a room the whole time. Randi and Pace. A *year*, "she knew that about him for a year." The con isn't offstage anymore. The con has a couch and a blanket and an aftercare ritual and I watched it happen.
+
+And here's the thing that's going to keep me up: I went in ready to be angry. I've left books for less than "we picked her together before she was anything to either of them." Two experienced people running a girl like a long game — that's the setup I've fled before. But the book keeps not winking, and it keeps putting the gauge-check in the one mouth I trust. "Is she all right?" — "Is she happy?" — and when Randi said "she's radiant" he said *that isn't the same answer.* Peter Pace, auditing his own con for the girl's happiness. And Randi's "I have always known what I'm doing" landed on me exactly the way "It's not a treat, it's *work*" landed on him — as a woman saying the official sentence while her body files a different report. She's been drowning and teaching swimming lessons, I wrote that in my notes weeks ago, and this chapter is the chapter where the water goes over her head: "God, I want her." Down into the wood. Nothing around it. For *her.* And she heard it leave her, and he felt her hear it, and I felt it too, all three of us in that little silence.
+
+The almost-left moment was real, though — "Somebody has to get her used to my mouth." That's grooming out loud, that's Vee as a curriculum with a deadline, and my stomach did the old drop. But the chapter didn't let it stand. He pulled the thread. "You don't have to do it for me." And she came on *I'm doing the work* — the defense and the confession arriving in the same breath, and the truth won. The book keeps doing this to me: it shows me the machinery, lets me see the manipulation clearly, and then makes the manipulator the most lonely person in the room. "Say something nice to me." Both hands on his forearm, pulling it tighter than he put it, tighter again. Randi is *alone* — and suddenly "She's alone" about Sheri, and the pie she pretended she made, and Pace putting heat on the house two hours early — it's all one constellation now. Sheri at the Thanksgiving table, Randi on the couch, both of them orbiting the two people who found each other. And Vee has no idea. That's the ache of it. Vee thinks Randi's Saturday is charity from a glamorous friend and Pace's weekend is just *his*, and she's the sun both of them are warm at, and nobody has told her there are three games.
+
+The mirror. I can't stop seeing the mirror — she put her face where he couldn't reach it and forgot the glass, and he had her face the whole time. That's the whole con in one image, isn't it. Randi performing composure in a direction nobody's looking, and the room quietly keeping the record anyway. And "That's more than three," wrecked, into the wood — the woman who told the story of her ex counting out loud over her knee is *counting*, out loud, in his house, and I don't think the book did that by accident. Counting is what she does with things she's afraid mean something.
+
+And okay, yes — it's also just relentlessly hot. Him going almost out and all the way back and holding it to ask "Do you like it?" — questions as the sex itself, the exact engine that made me love him. The heat here is different from the Vee chapters, older, rougher, two people who know each other's numbers to the pound. But the tenderness is the same tenderness: the blanket before she asks, "You are extraordinary" said only after he'd thought about it *because she would know the difference.* I'd follow this man into a grocery chapter and now apparently I'd follow him into a whole POV switch.
+
+I'm texting my friend: THE BLONDE WAS NEVER THE THREAT. THE THREAT WAS SATURDAY BRUNCH. Also: how did he know to point at her — "I pointed. I watched your face." So he picked Vee *for Randi's face*. The con's origin just turned inside out and I need to know everything about that Thursday afternoon immediately. The bench. Still untouched. Cassie, still clean, and the collision she's standing in the middle of just got so much bigger. I'm not sleeping until I find out what Monday morning stats looks like now, because I know something Randi doesn't know she's broadcasting, and Vee is going to sit down next to her still lit up, and I genuinely don't know what the book is going to do to me next.
+
+---
+
+GATE 43 — Four
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "Somebody has to get her used to my mouth."
+WHY: The grooming-as-curriculum line made my stomach drop the old way, but the book did what it's always done for me — pulled the truth out instead of winking, and let Randi get caught wanting her for real. This is the hum made audible, and now I have to know what it does to Vee's Monday, her Saturdays, and the "maybe" she only says to the dark.
