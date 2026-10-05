@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch034 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 51b3205f6eee · 2026-09-24*
+*capture-dag-v2-rich · gate ch031 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 230524645ef4 · 2026-09-24*
 
 REACTION
 
-God. *God.* I feel like I need to go hold my wrists under freezing water right along with Vee. My heart is beating right in my throat.
+Oh, Vee. My stomach hurts.
 
-Randi is an absolute, terrifying apex predator. The cruelty, the psychological precision, the sheer *artistry* of what she just did over a pair of cheap mimosas—it is breathtaking. Calling Pace "vanilla" because she knew, with surgical certainty, that Vee’s pride wouldn’t be able to bear it. Drawing every single sordid, beautiful detail out of her: the pantsing, the bet, the finger, the wetness, the bare bottom in four-inch heels. And Vee, thinking this is "girls' brunch," thinking this is sisterhood and intimacy, handing over every scrap of her private life, completely unaware that she is giving Randi an inventory of how well the training is taking.
+This chapter is a masterclass in the absolute tragedy of a woman believing she is seizing her own power at the exact moment she pulls the cage door shut and turns the key from the inside.
 
-And then Randi's move with the Radford story. It wasn't just dirty talk; it was a remote-control detonation. She fed Vee that image of herself—dress hiked, knees wide, touching herself in a stranger's bed—knowing *exactly* what it would do to Vee's over-primed nervous system. And then to watch Vee bolt for the bathroom, knowing precisely where she was going and why?
+*“Every yes was freely given. That was the problem.”* The jacket’s tagline was ringing in my ears through this entire walk. Look at the mechanics of what just happened: Pace engineered the dress so that wearing underwear would "ruin the line," hung a full-length mirror so she could discover that fact "on her own," and then—brilliantly, devilishly—conveniently had a math conference in Berkeley so he wouldn't even be there. He didn't force her. He didn't even ask her to do it for him. He just left the bespoke silk instrument in her closet, and Randi strapped the four-inch debt onto her feet, and Vee stepped out onto that stage and *chose* to take the long step. She gave the room her bare hip because she thought it was her own audacity. She thought the heat was her own liberation.
 
-That stall scene made me want to weep. The utter violation of Vee having her own hand inside herself, desperate for relief, and having *Randi's face* appear behind her eyes. Randi has moved into her head. She has colonized Vee’s sexuality so thoroughly that Vee can’t even masturbate without feeling watched, judged, and cowed by her. She stops an inch from the peak—frustrated, ashamed, obedient. She is a dog waiting for permission to eat.
+And then she sends him the photo. Uncropped. A digital offering to the architect who built the exhibition, sent straight to his hotel room so he can sit back and see that his conditioning worked perfectly in his absence. She thinks, *"He would have no idea what else was in the frame. That part was hers."* God, the dramatic irony is sickening. He knows *exactly* what was in the frame. He cut the fabric with shears to make sure it was there!
 
-And the pastry. *"Sticky fingers?"* That almost stopped my pulse. Rivers plays the ambiguity so exquisitely: did she say it because of the sticky buns, or did she say it because she knows Vee was just with her hand in her pants? And Vee drowning in the horror of the double meaning, unable to ask, unable to know. But Randi knew. Of course Randi knew. That's why she took *one* neat bite of the pastry, left the sugar on her mouth, and then transferred it directly to Vee's lips in that lingering goodbye kiss at the curb.
+And Cassie. Sweet, steady, loyal Cassie, holding her phone, getting teary-eyed with genuine pride for her friend's academic achievement, taking the picture, offering to buy her a terrible sandwich. Cassie is looking at her honor-student roommate; Vee is looking at herself through the eyes of the man who tailored her into an exhibitionist.
 
-*"You're my best friend in the whole world, you know that?"*
+That closing line gave me chills: *"...couldn't have told you, if you'd stopped her in the doorway and asked, whether that was pride or only the same heat still running, or whether, by now, the two came to the same thing."*
 
-It’s poison. Pure, sweet, paralyzing venom. Cassie is sitting back in their apartment being a real friend, and Vee is standing on a freezing sidewalk tasting glaze off the mouth of the woman who is gutting her like a fish. The trap is shut. The lock has clicked. I am terrified for what happens when the three of them finally converge.
+They don't come to the same thing. They really, really don't, but she can no longer tell the difference between feeling proud of her mind and feeling electric from being consumed. The book knows this. The framing is chillingly, perfectly aware of the horror underneath the silk.
 
-GATE 34 — One Bite
+GATE 31 — The Induction
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The psychological devastation in this chapter is master-class erotica; Randi’s manipulation is so horrifyingly precise, and the book's total awareness of the trap makes it impossible to look away.
+WHY: The absolute psychological precision of watching her mistake her own engineered submission for feminist swagger is breathtaking, horrifying, and impossible to put down.

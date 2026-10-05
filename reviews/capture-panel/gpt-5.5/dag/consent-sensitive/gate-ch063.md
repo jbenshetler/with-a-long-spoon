@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch063 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~f6415b9043be · 2026-09-12*
+*capture-dag-v2-rich · gate ch058 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~80491aa34d7b · 2026-09-12*
 
 REACTION —
 
-Oh, I am mad.
+Ohhh, this chapter knew exactly where to put the quiet knife.
 
-Not book-throwing mad in the “the author doesn’t know” way. The book knows. The book absolutely knows, and that is why I am sitting here with my shoulders up around my ears. This chapter is such a clean little trap: pretty front room, wine, soft voices, Randi’s breezy certainty, Pace’s beautiful dangerous asking voice, and then the bright room where every romantic phrase gets stripped down to what it actually costs Vee’s body.
+I was all warmed up for another Randi/Vee debrief chapter, and I got it, but the book did that thing I trust it for: it let the erotic charge stay delicious while making the frame more dangerous, not less. The anthropology lecture is almost too on-the-nose in the best way: grooming, gifts, who touches whom, what social debt is hiding inside care. I am sitting there with Vee sharing wintergreen Lifesavers and knee contact and saved seats, and the whole class is basically saying, *look at the systems of intimacy, look who tends whom, look what gets exchanged under the name of kindness.* Yes, professor. We are looking.
 
-The “barely stings” of it. Randi, I am looking directly at you. Because yes, technically Vee chooses. Pace asks, Vee says yes, Randi gives the name, Vee goes, Vee can leave. But the whole chapter is about what “yes” is worth when someone has made ignorance feel like trust. Randi did not tell her what the service involved. Pace did not tell her why, or what exactly he meant, or what she should expect. Vee fills the blank with erotic obedience because that is the language they have taught her. And then she is on a table discovering, piece by piece, that she consented to more than she understood.
+Randi is terrifyingly good in this chapter. Not cartoon-villain good. Worse: socially, erotically, emotionally exact. She knows when Vee has made the story smaller, and she refuses the edited version — “Give me the real one — the harder one” — and part of me thrilled because yes, Vee deserves somebody who can hear the whole thing without flinching. But also: Randi keeps training Vee to bring her the unfiltered interior. She keeps making herself the place where shame becomes heat and confession becomes reward. That is intimacy, and it is also leverage. Both. Always both.
 
-And god, the book is sharp about the difference between erotic surrender and bureaucratic/institutional surrender. Sondra is not predatory. That almost makes it worse. She is competent, neutral, doing a service Vee requested, and the impersonality throws Pace’s erotic grammar into horrifying relief. The hand on the thigh: “Don’t move.” I felt Vee’s whole body translate that into him and then crash on the fact that it was not him. That was awful and hot and lonely and so precisely wrong-handed.
+The wet-mouth conversation got me because it is so recognizably Vee: the body says yes, the installed rule says no, then the mouth tries to turn panic into a joke. And Randi does not mock her, exactly. She also does not soothe her. She just places one clean counter-fact on the table: “I don’t.” And Vee’s body immediately recognizes that the supposed disgust is not the whole truth. That is hot, yes. It is also Randi opening a door inside Vee and then stepping back like she didn’t just pick the lock.
 
-The mother voice, too. “The kind of girl who.” That one got me. Vee’s shame is not gone; it is being routed. Sometimes beautifully, sometimes dangerously. She can turn shame into heat with Pace and permission with Randi, but alone in that room it is still her mother’s kitchen voice waiting to name her. That makes the final touch after Sondra leaves land hard. I wanted that moment for her, and I also did not trust how we got there. Her touching herself and discovering the smoothness is genuinely hers for a second. Then immediately it becomes Pace’s future hand. That is the pattern right now: she gets a flash of self-possession, and it is almost instantly folded back into being for him.
+And the ending. God. The neck kiss is now officially not nothing. Vee thinks she is being playful with a ticklish spot, but Randi’s body gives more than the line admits. The book knows it. I know it. Randi knows it. Vee does not know it yet, except with her mouth, which seems to be a few chapters ahead of her brain.
 
-I am still continuing because the book is not naive. It is practically underlining the informed-consent problem without becoming didactic. But my patience with Randi in particular just took a hit. “Barely stings” is not cute now. It is management. Maybe loving management, maybe erotic management, but management. And Pace asking for “bare” without giving her the map feels less courtly than it wants to feel. The chapter let that discomfort breathe, thank god. If it had played this as uncomplicated sexy pampering, I would be gone.
+I am still enjoying Pace, and “you picked well” warmed me even as it pricked, because no, she did not pick in the ordinary sense. That tiny internal correction matters. Vee can feel the technicality under the compliment, and the book has not forgotten the original engineering of her choices. Thank you. That is the consent-in-the-dark wire still humming under all this lushness.
 
-GATE 63 — Barely Stings
+So yes, captured. Uneasy in the right way. The author is very much awake.
+
+GATE 58 — A Clean Plate
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 8
-ALMOST-STOPPED: “as though this were a thing everyone knew, a thing that went without saying, a thing only Vee had somehow failed to understand she'd been agreeing to.”
-WHY: This chapter pulled me hard because it made the consent gap physical, not theoretical. I trust the book more because it let Vee feel the cost of an uninformed yes, but I trust Pace and Randi less, especially Randi, and I need the story to make them answer for this exact kind of sweetness-as-control.
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: This chapter fed me exactly the kind of danger I stay for: erotic intimacy turning into social debt, confession, influence, and wanting, while the prose keeps its eyes open. Randi’s pull on Vee is getting stronger and less deniable, and the book is still letting Vee’s pleasure be real without pretending her choices are untouched.

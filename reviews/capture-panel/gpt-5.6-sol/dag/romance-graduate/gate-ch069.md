@@ -1,18 +1,20 @@
-*capture-dag-v2-rich · gate ch069 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~c10b93dddd9c · 2026-09-12*
+*capture-dag-v2-rich · gate ch063 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~f6415b9043be · 2026-09-11*
 
-REACTION — Oh, this got me. The gym should not have been hotter than the actual sex scenes, and yet Pace treating her tiny weights as real weights, setting every collar, arranging the entire workout so she was never responsible for more than she could safely hold—yes. That is exactly the grown-up competence I keep begging these books for. He takes her seriously without pretending she is less vulnerable than she is. “Everything gets a collar” went directly into the permanent file.
+REACTION — Oh, this made me squirm in about six different directions, and only half of them were pleasurable.
 
-And then he turned terrifyingly cold on those boys without performing masculinity all over the room. “Apologize to the woman you hurt.” God. I felt that. Though I also noticed Vee’s forgiveness did not actually release them until Pace’s face did, and that little imbalance matters. He protects her so completely that he can quietly become the authority over a situation that happened to her. The book knows that, I think. It keeps making his care and his control occupy the same pair of hands.
+The wrong hand/right hand passage got me. That is exactly the kind of erotic interiority I keep looking for and almost never get: her body responding not because some generically sexy thing is happening, but because it recognizes a syntax Pace taught it and aches when the meaning is missing. That is hot, lonely, specific, and so completely Vee. Then her touching the new smoothness herself and immediately imagining his hand discovering it—yes. I felt that want.
 
-The massage absolutely wrecked me because her desire isn’t separate from being tended—it comes alive inside the tending. Her body cannot tell care from sex because with him both mean being read closely, and honestly, neither can I anymore. Her pulling his hand back was crucial. He stopped at the accidental contact; she deliberately made it an act. Then he still asked. That is the Pace contradiction in its purest form: scrupulous about every yes he can hear while sitting on the truth that would change the meaning of the whole arrangement.
+But I am deeply bothered by the sentence that her yes “couldn’t be called back.” It absolutely could. Pace would stop if she changed her mind; we have watched him do it. Yet Vee experiences agreement as something that spends her right to reconsider, and apparently neither Pace nor Randi has helped her understand otherwise. That gap is becoming terrifying. Pace asks cleanly and waits for an answer, but he also withholds the reason for a deadline that plainly means something is planned for this weekend. Once again, she is freely choosing the visible act while the people around her retain the context that would let her understand what she is choosing toward.
 
-The burn was viciously hot. Not because pain magically equals eroticism, but because she watched it coming, became afraid, and kept choosing it second by second. And then the denial—Christ. “We need to wait” did more to me than an orgasm would have. He is hard, she is begging, and he refuses because her injured neck would pay for the finish. That is care with teeth. He leaves the wanting in her because protecting her matters more than relieving either of them, and she goes home carrying it. I am carrying it too.
+And Randi—Jesus. “Barely stings.” Of course she gives Vee the wine, the luxury, the promised feeling afterward, and omits the moment where she will be asked to roll over. It is the entire book in miniature. Randi does not technically lie about the destination; she simply leaves out the part most likely to make Vee pause before setting out. Then Vee reaches the undisclosed threshold and reasons that because she already said yes to “everything,” she has no meaningful lines left. That chilled me far more than the waxing hurt.
 
-Also, excuse me: “while you have your girl time.” Pace knows exactly what Saturday brunch means now. He knows what Randi wants, knows what Vee wants before she can name it, and has just helped turn all that unspent wanting into a live wire. I do not believe the canceled brunch is incidental, and I am already suspicious of what these two have arranged—or are about to arrange—around her.
+I’m also suspicious as hell of “by the weekend.” There is a dance next Saturday, but this request feels too precisely timed and too sexually purposeful to be only about Pace privately enjoying her afterward. Are Pace and Randi preparing another stage without telling her what play she’s in? Does Randi know exactly why the appointment had to happen now? Given that Pace asked and Randi supplied her own preferred technician with almost gleeful familiarity, I cannot believe those facts are unconnected.
 
-GATE 69 — Burn
+Still, the ending worked on me. Vee walks out feeling expensive rather than humiliated, and that feeling belongs to her before Pace ever touches her. I love that for her even while I’m furious about the concealed machinery producing it. This book keeps making the appetite unquestionably hers and the circumstances around it ethically poisonous. I’m already braced for the weekend.
+
+GATE 63 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-ALMOST-STOPPED: none
-WHY: This fused competence, danger, consent, pain, restraint, and actual emotional meaning into one unbearably charged scene. Vee is going home unfinished while Saturday and Randi are still hanging there, and there is no chance I am putting the book down now.
+NEXT: 9
+ALMOST-STOPPED: “once the yes was spent and couldn't be called back”
+WHY: That idea frightened me because Vee is learning to treat consent as irrevocable while Pace and Randi keep withholding context. But the chapter knows exactly how frightening that is, and the timed request has me desperate to see what they have arranged for the weekend.

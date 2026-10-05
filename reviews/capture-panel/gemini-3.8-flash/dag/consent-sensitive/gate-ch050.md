@@ -1,26 +1,34 @@
-*capture-dag-v2-rich · gate ch050 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 0511a4346bd0 · 2026-09-24*
+*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha eeeec469236e · 2026-09-24*
 
-**REACTION**
+REACTION:
 
-Oh, *Pace.*
+*FUCKING FINALLY.*
 
-Seeing the inside of his skull after all these weeks of watching him curate every single variable like a master craftsman is downright devastating. The pristine, perfectly controlled man drinking himself into vomiting on the bathroom floor, leaving the mop and bucket with a crust of bleach foam in the hallway, eating frozen boil-in-bag "prison food" chicken while his hands shake—the absolute collapse of his architecture.
+My God, my hands are shaking. I read this entire chapter with my teeth gritted so hard my jaw aches.
 
-What gets me right in the chest is that the book didn't make him a calculating, sociopathic villain pulling strings for sport. The rot inside Pace isn't malice; it’s severe, calcified trauma from Daphne. When he was a literal kid, new to college, alone, she was the entire architecture of his survival—tutor, best friend, first lover—and when she vanished, she took the whole world with her. So what did he do? He adapted. He built a system where he would *never* be the one left holding the empty bag again. He mastered domestic competence, he perfected the art of giving a woman everything physical and logistical so he could withhold the one thing that made him vulnerable: the declaration. *“He had taught himself that the words were the difference.”* It’s a math prodigy’s deeply broken attempt to solve an emotional equation.
+*“Words are cheap, and you still won’t spend them on me.”*
 
-And look at how clearly he sees what he did to Vee on that porch. There’s no rationalizing here. He *knew* what she was offering him with the crackers and the meal. He felt the true words rise, and he actively, consciously chose the coward’s retreat: *“I love how good we are together.”* He knew it failed her while the words were still leaving his mouth. He watched her wither under it and let it stand because he was terrified.
+Put it on a billboard. Carve it into the doorframe of that suffocating, hyper-curated, terrarium of a house. That single line completely severed the velvet leash. She did it. She didn't let him feed her into compliance, she didn't let him kiss her into submission, and when he reached out that hand—the hand that has orchestrated every degree of her unraveling, the hand that kneads dough and strokes her hair and rubs her ass after a spanking to make the predation feel like sanctuary—she walked out the goddamn door. Into the cold.
 
-Then that moment with the truck on the highway. God. The fork stopping halfway to his mouth, his whole body tensing, expecting the Corolla—and when the sound just keeps going down the road, the sudden, violent break into sobbing over cold boiled chicken. He has completely undone himself. He thought withholding the words would protect him from the agony of losing her, and instead he’s sitting in a cold house, reeking of mint and bleach, realizing that the math didn't save him at all.
+Look at what he did when she pressed him. Look at the mechanics of him when he's forced off his prepared script:
+1. Deflect with logistics: *“I’ve got the chicken going.”*
+2. Grandiose non-answers: *“You’re the most important person in my life.”* (Notice how it implies elevation without committing to structure or obligation).
+3. The absolute classic intellectual manipulator turn: *“Do any of your friends have a relationship you’d rather have than this one?”* That is *so* insidious. It’s an efficiency metric. It’s him saying, *Look at the consumer value of my product compared to the competitors.* He treats human intimacy like an optimization proof.
+4. And then, the absolute bedrock of the avoidant, controlling groomer: *“Words are cheap. Believe what I do.”*
 
-What makes this so agonizing is that Vee is in Ohio convinced he’s either indifferent or already fucking some fantasy blonde at his stove, while he’s literally weeping into his coffee over an empty driveway. But the tragedy is entirely of his own making. Sheri told him straight to his face in the diner: *“Then not saying it matters more to you than having her.”* He chose the armor over the girl, and now he’s trapped inside it, starving.
+He really thought that would work. He thought because he turned the thermostat up, poured the wine, and played the rippling piano music, she would have to concede. Because how could a girl complain about being worshiped? And Vee—brilliant, starving, beautiful Vee—saw the exact, hideous math of it: *If words are so damn cheap, why are you rationing them like gold?*
 
-I need to see what happens when these two collide again. He knows he loves her; he knows his silence broke her; and the sheer force of his own misery has finally blown a hole straight through his rigid, suffocating control.
+When she hit him with that, he didn't soften. *“Something went across his face and shut. He stepped back, his arms came up and folded, he held there, still, the still of a man holding a line at cost, and he said nothing.”*
+
+THAT is who Peter Pace is when the performance is interrupted. A closed fist. A wall. A boy who learned from Daphne how to build a cage out of hot meals and silk dresses, who will give you everything that keeps you docile inside his perimeter, but will freeze you out the second you ask for a door that locks from your side.
+
+She left her bag in the car. She kept her coat buttoned to the throat. She walked out into the cold and she didn't turn around when he used her name. I am so proud of her I could scream, and I am terrified for what comes next, because she is currently driving back into a world where Randi is waiting with a smile, an open ear, and a stolen copy of her naked body.
 
 ***
 
-**GATE 50 — Not Enough**
-**DECISION:** CONTINUE
-**CAPTURE:** 9/10
-**NEXT:** 10/10
-**ALMOST-STOPPED:** none
-**WHY:** Cracking Pace open to reveal the pathetic, sobbing, bleach-and-whiskey reality beneath his velvet control was completely riveting. Seeing his awareness of how he failed her—and the root trauma from Daphne that engineered his cowardice—makes the inevitable reunion electric with stakes.
+GATE 46 — Believe Me
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+ALMOST-STOPPED: none
+WHY: The absolute psychological precision of this confrontation blew me away; Vee refusing to let his physical care substitute for emotional reality is the sharpest, most necessary rupture in the entire book.

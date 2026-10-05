@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 122f2504f31e · 2026-10-01*
+*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f6c081c5e67c · 2026-10-01*
 
-REACTION
+REACTION — Oh, Randi. No. No, no, no.
 
-Oh, that was hot. The heels going on first because they were almost the only thing she was wearing, Vee looking at herself and seeing “ready” where she used to see shame, winding herself up and deliberately leaving it for Pace—yes. That is her desire from the inside, chosen and enjoyed and almost playful. I loved her giggling alone in the dorm. I loved that she could finally look at all the “too much” of her body and think, I am going to use this because I want to. That part belonged completely to her.
+“That is not a man with another woman, gorgeous.” I nearly put the book down. She says it while being the other woman. She looks directly at Vee’s terror, knows the terror is substantially true, and uses everything Pace has told her to dismantle it piece by piece. His phone in the other room. His hunger. The meaning of his silence. She can interpret his face because she knows him intimately, and she presents that knowledge as feminine intuition and friendship. This is not merely withholding anymore. It is a lie designed to send Vee back into the arrangement without knowing the arrangement exists.
 
-And when he opened the door—God. The formality falling straight off his face. “Like a starving man” and “like a man just told he is forgiven” being the same look absolutely got me. Him pulling her bodily into the house, going to his knees in the open doorway, the cold on her wet nipples while his mouth was hot between her legs: that is exactly the kind of overwhelming, wholly focused intensity I read these books for. Then the frantic, graceless sex because neither of them could possibly make it to the bed felt earned after all that absence. I believed every second of how badly they had missed each other.
+And worse, Vee arrived asking for a name. She left because she finally understood that food and sex and warmth could not answer the question. Randi has now persuaded her to apologize with her body—to turn up naked under a coat and make sex the answer again. “Words are the whole war.” Yes, because the words would expose both of you. I feel sick. The coat is exactly the kind of daring I would normally adore: Vee choosing it, blushing through the shame, discovering that she wants the boldness. In honest circumstances I would be beside myself waiting for Pace to open that door. Here it feels like Randi has taken Vee’s genuine desire and weaponized it against Vee’s need for truth.
 
-His head on her breasts afterward nearly undid me. Again, that is where he goes for comfort, not merely where he goes because her body excites him. And then pancakes at midnight, the blanket tucked around her, the shoes ordered to stay on, his cracked “I missed you so much”—I melted. He finally gave her an unqualified emotional sentence. Not the sentence she asked for, but a true and vulnerable one, and I felt what it gave her.
+Vee did not “blindside him with a fight.” She asked a necessary question. She did not demand “name it or lose me”; she kept asking because he kept refusing. And Pace’s fear is real—I know that now, and I ache for the boy who lost Daphne and taught himself that saying love makes loss unsurvivable. But Vee does not know any of that. Randi does not tell her. Instead she makes Vee responsible for cornering him and casts his month of silence as proof of helpless devotion. Pace chose silence every day of that month. Vee is allowed to be hurt by that.
 
-But I am also furious, because the chapter knows exactly what bargain just got made and lets Vee call it enough.
+The hugs got me before the manipulation fully showed its teeth. Vee breathing Randi in, both of them holding past the natural end, the new clothes swept aside because Vee mattered more—I felt the exact thing I have been waiting for. They missed each other. They want each other. Randi’s care is real, which somehow makes this worse rather than better. She can hold Vee while she breaks and then steer her straight back toward the secret that caused the breaking.
 
-She did not go there because she independently decided her demand for a name was mistaken. Randi took a devastated, sleep-deprived Vee, concealed everything she knew, falsely assured her that Pace could not have another woman, recast Vee’s entirely legitimate request as an ambush, and told her to answer the conflict with her naked body because “words are the whole war.” That is not friendly reassurance. It is Randi steering Vee back into the arrangement Randi wants while withholding the fact that she herself is the other woman. “That is not a man with another woman” is an outrageous thing for her to say when she knows Pace does, in fact, have her.
+And those shoes. Randi has just dressed Vee for Pace again, knowing exactly what will happen when the coat opens. That is unbearably charged and unbearably wrong. Vee thinks her friend is helping her reclaim her lover. Randi knows she is arranging a sexual reconciliation with their shared lover. Vee’s choice is hers in the narrowest possible sense, but Randi has manufactured the conditions around it.
 
-And Vee’s body worked exactly as Randi knew it would. Pace never had to answer. He never apologized for folding his arms, never named what she is to him, never told her about Randi, and never even had to say that he wanted to try. She showed up naked, and he read it as forgiveness. Worse, she read his desire and care as the answer to the question she had finally been brave enough to ask. “There was no room in her for wanting anything he hadn’t given” made my heart sink, because there absolutely should still be room. She can have the sex and pancakes and his cracked-open face and still deserve the truth.
+Then Vee asks for the real New Year, and Randi gives her another cropped truth. Vee has protected Randi’s secret without being asked; Randi lies to her face twice in one room. “Everywhere but the bedroom” is especially ugly because it converts emotional emptiness into a joke Vee can laugh at, while hiding that Pace and Vee were the reason John could not reach her.
 
-So yes, I was intensely turned on. Yes, I cried when he said he missed her. Yes, I am delighted that she came home glowing in his enormous sweats and those absurd heels. But I am not fooled by the happy landing. The reconciliation is emotionally real and relationally counterfeit. Vee offered her whole naked self as a peace sign for asking a fair question, while Pace and Randi kept the decisive truth between them. I want the next chapter badly because this cannot be allowed to stand as the solution.
+I am continuing because I need to see Pace open that door, and because his last chapter proved he knows he failed her. But if he accepts the naked apology without stopping to give Vee the words she asked for, I may be done with him. The heat is there—I can feel it—but I resent being made to want the scene when Vee has been maneuvered into it. At one in the morning I would text: “Randi just gaslit the woman she loves into apologizing to their secret shared boyfriend with sex, and I am FURIOUS.”
 
-GATE 55 — Nothing Underneath
+GATE 54 — My Friend Randi
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: “You don't do it with words. Words are the whole war.”
-WHY: The doorway scene gave me the heat, hunger, tenderness, and total focus I came for, and Pace’s broken “I missed you so much” reached me completely. But Randi maneuvered Vee into apologizing with her body so Pace could receive forgiveness without giving truth, and I need to see the book reckon with that.
+NEXT: 10
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: “That is not a man with another woman, gorgeous.”
+WHY: She is the other woman, and she used Vee’s trust to erase a true fear and redirect a demand for honesty into sexual surrender. I have to see what Pace does when the door opens, but the book has brought me right to my coercion line.

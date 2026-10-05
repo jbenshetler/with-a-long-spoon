@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch062 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0262c804492d · 2026-09-19*
+*capture-dag-v2-rich · gate ch058 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 80491aa34d7b · 2026-09-19*
 
-REACTION
+REACTION:
 
-Oh, this chapter took the wind right out of me in the best possible way.
+Oh my god. *Oh my god.* This chapter felt like watching a masterclass in tension, social dynamics, and raw, feral heat, all while standing on top of an emotional landmine that nobody—except the reader—knows is ticking.
 
-First of all, Chapter 61 almost melted my Kindle—Pace and Randi fucking while talking about Vee, Randi taking him into her mouth to clean him off and then riding him again, the absolute filth mixed with this devastating, aching confession of love. Coming off that absolute five-alarm fire, I was primed for Vee to walk right into a buzzsaw of jealousy. And the setup was *so* painfully accurate to being twenty-one: borrowing the aggressive keyhole top, strapping on the four-inch induction heels in dead-ass January, inventing a golden Amazonian rival named Sheri just to have a shape to fear. Every woman who has ever felt insecure has put on that armor.
+First of all, Peter showing up to this country roadhouse and introducing himself to every single person as "Vee's boyfriend." The sheer emotional whiplash from December! The man who choked on those exact words, who literally let her walk out into the freezing night rather than spend a single syllable of commitment, just dropping it like a casual, undisputed fact over loaded plates of brisket. And watching him work the room? It was mesmerizing. It wasn't arrogant; it was pure, attentive care. He didn't dominate; he asked Danny about his bench, he unlocked Theo with jazz, he gave Cassie the exact unvarnished respect she requires to lower her guard. When Cassie gave him that dry, half-eyebrow "You can stay," I exhaled a breath I didn't even know I was holding. That was the blessing. That was the fortress wall coming down.
 
-And then Sheri turns out to be a five-foot-nothing, permed, loudmouthed country lesbian who immediately looks down Vee's shirt, checks out her legs, and asks Pace if he gets to motorboat them?! I screamed. I literally barked out a laugh. Seeing Pace—unshakeable, dominant, master-of-all-trades Pace—blush all the way to the tips of his ears? *God.* Put it in an IV. That blush did more for his character than ten chapters of him being effortlessly competent.
+And then there's Randi. God, the undercurrent with Randi at that round table made my chest physically tight. Sitting there in her chambray and too-nice heels, drinking beer, locking hands with Vee so hard the bones clicked when Peter claimed the title. That glazed, quiet look when she toasted Vee—*"What I didn't tell him is that meeting Vee was the highlight of my year"*—turning the wine glass by a slow quarter at a time. It breaks my heart because Vee thinks Randi is just moved by the romance of it all, but we know the truth: Randi is drowning. She loves Vee so desperately, and she's sitting at a table watching the man she secretly arranged this with play the perfect, devoted boyfriend, entirely cut out of the intimacy except as an audience.
 
-Sheri is an absolute gift. She’s funny, she’s brash, she sees right through the posturing, but then Helen Rivers pulls that trick she does so well and drops the trapdoor straight into your chest. The story about her coming out—the Marine Corps dad, the church, the entire life ripped away in a month—and Pace just showing up. Not with empty platitudes, but with donuts, fixing her lock, fixing the leak, taking her biking, giving her a ride home from the dance hall where he dances just to dance and never makes a "down payment." And then the quiet bomb: *He hasn't been home since he was sixteen.*
+And then the truck. *Jesus.*
 
-It makes the dark underbelly of this whole book hurt so much worse. Because Pace isn't just an erotic architect or a calculating math brain. He’s a deeply wounded, intensely loyal boy who builds safety for the people he loves because nobody built it for him. And Vee is sitting there in the cab of his truck, slightly buzzed, resting her head on his shoulder, falling completely, irrevocably in love with him—totally unaware that he just spent the previous chapter inside Randi, being told that Vee loves him, carrying Randi's mouth on him.
+The shift from the wholesome warmth of the roadhouse to Vee practically crawling out of her skin with lust was incredible. Going across the bench seat, blowing him right there in the dark lot while his hand went stunned in her hair, and then—before they even get home—wrestling her jeans down to her knees at fifty miles an hour so he can drive with one hand and make her come with the other? The callback to her lonely, desperate, terrified drive on that same county road just a few days ago was pure narrative perfection. On Friday she was touching herself in terror of getting caught, starving and unfinished. On Wednesday she’s dragging her own thong aside in the passenger seat of his truck, completely claimed, coming so hard her boots are braced on the floorboards while he casually steers with his wrist.
 
-The warmth of this chapter is suffocating because the dramatic irony is a loaded freight train bearing down on them. I felt safe and terrified all at once.
+The heat was blistering, the character beats were flawless, and the tragic, beautiful irony of this triangle is winding tighter and tighter. I am utterly hooked.
 
-GATE 62 — Another Round
+GATE 58 — Among Friends
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The character work here is phenomenal—Sheri could have been a cheap joke, but instead she gave us the missing piece of Pace's soul, all while the secret triangle ticks like a time bomb under Vee's feet.
+WHY: The balance between rich, intelligent social observation (Pace winning over every single friend) and pure, unhinged carnal heat (the truck scene) was absolute perfection. The dramatic irony surrounding Randi's quiet devastation is killer. I need the next chapter immediately.

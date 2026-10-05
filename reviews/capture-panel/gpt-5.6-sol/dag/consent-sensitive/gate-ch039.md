@@ -1,23 +1,21 @@
-*capture-dag-v2-rich · gate ch039 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~97724b44da95 · 2026-09-11*
+*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~9782a926aac2 · 2026-09-11*
 
 REACTION
 
-Oh, Vee. She sees Randi’s face change by half a degree, understands immediately that something private and terrible has happened, and—without demanding a confession, without forcing her to perform pain—quietly gives her useful work until she can put herself back together. That is such exquisitely decent care. It is exactly the kind of room Vee herself is almost never given. And she does it instinctively.
+Oh, Cassie. There you are.
 
-Which makes me want to shake Randi until her teeth rattle.
+This is the first conversation in a while that feels like Vee is standing on solid ground. Cassie doesn’t extract a confession, eroticize it, interpret it for her, or tell her what comes next. She notices the plain material fact Vee has managed not to count—“You don’t come home school nights”—and then waits. That tiny act of reality-checking feels almost radical now.
 
-Vee protects her from one moment of unwanted exposure while Randi has spent months arranging Vee’s exposures, collecting her confidences, drawing out sexual details, and passing curated versions of her to Pace. Vee notices that Randi doesn’t know she has been looked at, and treats that ignorance as something sacred. Randi knows Vee doesn’t know she is being watched and managed, and treats that ignorance as part of the mechanism. The asymmetry is brutal.
+And Vee’s happiness is so lovely that it scares me. I believe every glowing inch of it. Pace sees her, feeds her, tends a little burn as if her pain matters, makes room for her things, warms the house around her. She isn’t being foolish to love him. That is precisely why the concealed arrangement is becoming unbearable. She is building a life-shaped understanding from his acts while he withholds the fact that Randi is already inside the life she thinks she is discovering privately.
 
-And now I understand Cassie’s stake in the project differently too. Her flatness is not lack of feeling; it is how she carries feeling without making other people hold it for her. Her father lost his job while families like Randi’s took money meant to prevent exactly that. Cassie is correct, and Vee’s kindness to Randi requires leaving Cassie unknowingly beside the daughter of the people whose fraud embodies the harm done to her family. Vee doesn’t know enough to solve that moral collision. Once again, she has been placed in the middle with only part of the map.
+The burn detail snagged me, too: not enough clothes, the house now kept warm enough that she never thinks about covering herself, Pace immediately tending the hurt. It is tender and domestic and sexy—and it also shows how thoroughly his space has become the climate she lives in. More nights there than in her own bed, her belongings in his drawer, her appetite and routines reorganized around him, and she hasn’t counted any of it until Cassie does.
 
-The outlier metaphor is making me deeply uneasy in the best way. Vee believes Randi is innocent because she had “no hand in it,” and on this evidence she may be. But that is also the charitable interpretation Vee keeps giving people she loves: the individual act can be set aside and accounted for; the person can be separated from the pattern. Meanwhile the pattern is sitting right there, enormous and visible if you know where to look. This book absolutely knows what it is doing.
+Then Cassie asks the actual question with no pressure attached, and Vee can answer “maybe.” Nobody upgrades it for her. Nobody tells her what her body has proved. Nobody turns hesitation into a door she has already walked through. I could kiss Cassie for letting the maybe remain a maybe.
 
-Also: Randi saying “Cheating bastards” genuinely shook me. That did not feel like a polished deflection. It felt like discovery, betrayal, and possibly the first crack in whatever story she tells herself about her family and the authority that comes with their money. I’m furious with her, but I felt for her. Worse, I suspect Vee’s silent protection will matter to her profoundly if she ever learns about it—and Vee may never use that goodness as leverage, because that isn’t how Vee loves.
+But “It’s all so fast” is Vee hearing herself. Finally. Quietly, without yet understanding that two people have been controlling the speed while making it feel organic. That sentence put a chill straight through all the warmth.
 
-I’m completely caught. The sexual conspiracy is still the loaded gun, but now the book has placed a financial and class betrayal underneath the friendship too, and made Vee’s compassion the thing that keeps the truth hidden. That hurts beautifully.
-
-GATE 39 — The Outlier
+GATE 36 — School Nights
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 ALMOST-STOPPED: none
-WHY: Vee extending exactly the privacy and unengineered care that Randi denies her is devastating. The book sees every layer of that imbalance, and the outlier sitting visibly outside the pattern feels like a warning about all three of them.
+WHY: Cassie’s calm attention gives Vee—and me—a desperately needed point of reference outside Pace and Randi’s closed system. Vee naming the speed herself makes me feel the reckoning drawing closer, and I absolutely need to see what happens when her radiant private story meets the hidden one.

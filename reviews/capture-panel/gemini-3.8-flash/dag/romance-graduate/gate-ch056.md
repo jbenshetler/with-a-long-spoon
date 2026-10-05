@@ -1,31 +1,30 @@
-*capture-dag-v2-rich · gate ch056 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha c23f4d1deeee · 2026-09-19*
+*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 122f2504f31e · 2026-10-01*
 
-REACTION
+REACTION:
 
-Oh, man. This chapter went down so sweet and bright, like that fresh orange juice, but the *dread* sitting right under the surface of it is unbelievable.
+Oh, my god. My pulse is still pounding in my ears.
 
-First of all, I love Kayla and Meg. In so many romance books, female friends are either brainless hype squads or walking exposition dumps, but this felt so deeply, humiliatingly real to being twenty-one in college. Kayla screaming over waffles, having an existential crisis because the dining hall is locked on a Monday morning, and then literally vibrating out of her chair on the sun porch when Vee admits she flashed him in January? Pure gold. "You were standing there *talking to me about my socks*!" I laughed out loud. It’s hilarious and grounding and it gives Vee an actual world outside of Pace’s kitchen and Randi’s velvet trap.
+When Vee stood in front of that closet mirror in only Randi’s strappy black stilettos, touching herself and winding the tension up until she deliberately pulled her own fingers out unspent—I was holding my breath. That entire build-up was magnificent, reckless, and so unbelievably hot. The mundane terror of running into Kayla in the dorm hallway while wearing absolutely nothing under that wool coat, the satin lining shifting against raw skin, touching herself on the highway in the pitch black until the police siren almost made her heart stop—the sheer sensory charge of her desperation was visceral. It wasn't just a sexy stunt; it was a woman completely out of moves, wagering every last scrap of herself because words had failed them both.
 
-And then Meg drops the hammer without even knowing she’s doing it:
-*"That's a big apology."*
-*"It was a big fight."*
-*"No, I respect it... Sometimes you have to make it right in their language."*
+And then the front door. The contrast between the freezing January wind rushing through the dark porch and the scorching heat of his mouth when he went straight to his knees on the cold wood—it was absolute peak erotic writing. The desperation in both of them was breathtaking. He wasn't the slow, unflappable, artisanal chef orchestrating a three-course seduction; he was a starving man whose polite wall got vaporized the second that wool parted. He couldn't even make it to the bed! Stumbling through the hall with his jeans around his knees, carrying her while still buried inside her—that was the exact, graceless, desperate honesty they’ve both been avoiding for fifty chapters.
 
-My stomach dropped right into my boots. *Apology.* That is how the outside world hears this story. Vee told them she picked a fight, went out there bare under a wool coat to win him back, and it worked. But we know—*I* know, because I was inside Pace’s head when he was sobbing on his bleached kitchen floor—that Peter was the one who failed. Peter was the one who starved her out of emotional cowardice because of Daphne. And Vee just completely surrendered her ground! She thinks she was being powerful—a "pleasure princess," taking control of the board—but to anyone looking from the outside, she just did the ultimate grovel for a man who wouldn't even spend the words "you're my girlfriend" on her. Meg comparing Vee standing naked in the freezing wind on high heels to... buying Danny maple bacon because she was grumpy on her period? Oh, honey. The disparity is terrifying.
+And yet.
 
-And now Wednesday night is set.
-"Meet the boyfriend."
-Except he *isn't* the boyfriend! He refused to say the words! And she has invited Kayla, Meg, Danny, Cassie, Theo (the boy who asked her out!), and *Randi*. All into one room. With Peter.
-Peter, who gets sensory overload and dissociates when there are too many TVs at Chili's.
-Peter, who thinks Randi is just an acquaintance from a coffee shop and has no idea she's been orchestrating Vee's sexual awakening and staring at a nude picture of Vee on her phone.
-Randi, who is wildly in love with Vee and has no idea Vee and Peter reconciled by Vee standing naked on his porch in Randi's own shoes!
-And Cassie, who is sitting on a spreadsheet with Randi's family's fraudulent PPP loans!
+Underneath all that searing heat and the midnight pancakes from scratch, my stomach is in a complete knot for her. Because Randi was right: Vee walked through the snow to give him unconditional surrender. She gave up the words. She traded her legitimate, agonizing demand for emotional clarity in exchange for warm butter, a blanket, and him sinking to his knees to say he missed her. And while my romantic heart melted when his voice cracked at her knee, my brain is screaming because *the core problem didn't move an inch*. He still hasn't spent the cheap words. He still hasn't named her. The spanking bench is still under that false table, Randi is still holding that uncropped nude, and now Vee has walked straight back into the trap on the exact terms Pace wanted all along: hospitality and sexual devotion without daylight accountability.
 
-"Tables have ends. Somebody ends up at one." Peter said that, and Vee thought it was sweet and democratic. But putting all these volatile chemicals into one room with a man who couldn't even handle a noisy restaurant booth is going to be an absolute trainwreck. It’s an ambush, whether Vee realizes she’s setting it or not. I am sweating just thinking about Wednesday.
+Cassie’s single raised eyebrow at the end was perfection. She saw the whole damn surrender in a five-second glance at the oversized sweats and the stilettos. Tuesday is coming, classes are starting, and Vee is blissfully happy on borrowed time.
 
-GATE 56 — Across
+***
+
+GATE 55 — Nothing Underneath
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: It was a classic "morning after" debrief bridge chapter, but the comedic dialogue with Kayla was pitch-perfect, and the dramatic irony of setting up this Wednesday dinner—putting Peter, Randi, and Cassie at the same table—has me practically clawing at the screen for the disaster to begin.
+WHY: The sheer erotic tension of the preparation and the frantic, doorstep reunion had me completely locked in, even while the emotional stakes under their reconciliation made my stomach churn.
+
+***
+
+Would you like to discuss the next chapter or look at an overview of how the semester begins?

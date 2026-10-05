@@ -1,30 +1,22 @@
-*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 122f2504f31e · 2026-10-01*
+*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f6c081c5e67c · 2026-10-01*
 
 REACTION:
 
-Oh, my god. My pulse is still pounding in my ears.
+Oh my god. My stomach is in absolute knots. The psychological layers in this chapter are so suffocating and brilliant I can barely breathe.
 
-When Vee stood in front of that closet mirror in only Randi’s strappy black stilettos, touching herself and winding the tension up until she deliberately pulled her own fingers out unspent—I was holding my breath. That entire build-up was magnificent, reckless, and so unbelievably hot. The mundane terror of running into Kayla in the dorm hallway while wearing absolutely nothing under that wool coat, the satin lining shifting against raw skin, touching herself on the highway in the pitch black until the police siren almost made her heart stop—the sheer sensory charge of her desperation was visceral. It wasn't just a sexy stunt; it was a woman completely out of moves, wagering every last scrap of herself because words had failed them both.
+We know what Randi felt in Gstaad. We sat with her in the mirror while she felt hollow, sickened by the "sandwich" of that golden-boy lawyer, looking at her reflection and realizing she would burn down the whole approved fairytale world just to sit across a table from Vee. And here she is, back in her room, listening to Vee sob her heart out over Pace. Randi could have sabotaged it. She had Vee completely shattered, entirely vulnerable, weeping into her neck, ready to believe Pace threw her away for a blonde. A manipulative monster would have fed that poison and swept Vee up right there on the bed.
 
-And then the front door. The contrast between the freezing January wind rushing through the dark porch and the scorching heat of his mouth when he went straight to his knees on the cold wood—it was absolute peak erotic writing. The desperation in both of them was breathtaking. He wasn't the slow, unflappable, artisanal chef orchestrating a three-course seduction; he was a starving man whose polite wall got vaporized the second that wool parted. He couldn't even make it to the bed! Stumbling through the hall with his jeans around his knees, carrying her while still buried inside her—that was the exact, graceless, desperate honesty they’ve both been avoiding for fifty chapters.
+Instead, Randi did the absolute opposite—and it is so much more tragic, so much more twisted. She builds Pace back up for Vee. She defends him, breaks down his psychology with devastating accuracy (*"That's a boy holding himself still so it won't show how much you got him"*), and literally scripts Vee’s reconciliation. Why? Because Randi is so pathetically terrified of losing Vee, and so locked into this sick triangular dynamic they started, that she would rather orchestrate Vee offering herself up naked on Pace’s doorstep than risk Vee walking away from the table entirely. She literally hands Vee the black heels from her closet. *Randi always knew the shoes.* God, the dramatic irony is sharp enough to bleed on.
 
-And yet.
+And Vee! Poor, sweet, starving Vee. She had all that righteous spine in December, walking out into the cold, demanding words, demanding a name—and after five weeks of silence in her childhood bedroom with *Wheel of Fortune* and lavender air freshener, the withdrawal broke her. She completely surrendered her ground. *"Words are the whole war,"* Randi tells her, and Vee just... folds. She’s going to show up on his stoop in a winter coat with nothing underneath, completely erasing the question she walked out over. It’s devastating because I *know* Pace is sitting in that cold house, having thrown up whiskey and cried over an empty bowl of prison chicken, but handing him her naked body on a platter is giving him the exact out he always wanted: sex instead of speech.
 
-Underneath all that searing heat and the midnight pancakes from scratch, my stomach is in a complete knot for her. Because Randi was right: Vee walked through the snow to give him unconditional surrender. She gave up the words. She traded her legitimate, agonizing demand for emotional clarity in exchange for warm butter, a blanket, and him sinking to his knees to say he missed her. And while my romantic heart melted when his voice cracked at her knee, my brain is screaming because *the core problem didn't move an inch*. He still hasn't spent the cheap words. He still hasn't named her. The spanking bench is still under that false table, Randi is still holding that uncropped nude, and now Vee has walked straight back into the trap on the exact terms Pace wanted all along: hospitality and sexual devotion without daylight accountability.
+The tension heading into tonight is unbearable. Pace is raw and grieving; Vee is stripped bare under a coat; and Randi is sitting alone in a sorority house holding the strings to both of them. Turn the page right now.
 
-Cassie’s single raised eyebrow at the end was perfection. She saw the whole damn surrender in a five-second glance at the oversized sweats and the stilettos. Tuesday is coming, classes are starting, and Vee is blissfully happy on borrowed time.
-
-***
-
-GATE 55 — Nothing Underneath
+GATE 54 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
+HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The sheer erotic tension of the preparation and the frantic, doorstep reunion had me completely locked in, even while the emotional stakes under their reconciliation made my stomach churn.
-
-***
-
-Would you like to discuss the next chapter or look at an overview of how the semester begins?
+WHY: The dramatic irony of Randi packaging Vee up to send her back to Pace—while secretly being in love with her—is absolute top-tier psychological drama. I need to see what happens when Pace opens that door.

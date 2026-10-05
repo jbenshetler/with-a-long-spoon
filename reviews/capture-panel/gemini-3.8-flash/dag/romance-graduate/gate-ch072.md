@@ -1,37 +1,20 @@
-*capture-dag-v2-rich · gate ch072 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 156376f693c5 · 2026-09-19*
+*capture-dag-v2-rich · gate ch068 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b11de8d9a5ce · 2026-09-19*
 
-REACTION
+REACTION:
 
-My god. I am sitting here in the dark with my heart hammering against my ribs.
+Holy *shit*.
 
-First of all: the sheer, staggering *heat* of this. The blindfold, standing in the cold gray daylight while he dissects every single piece of her body like it’s scripture, and then *stepping back*. When she tipped her hips forward expecting his hands and he just said, “Go ahead”—I literally gasped out loud. Forcing her to touch herself while blind, listening to her own wet sounds in the quiet room, and then that lethal question right at the edge: *"What are you thinking about?"* And the way she broke on *"You, you, you"*—it is so filthy, so psychologically intimate, and so intensely hot it made my vision blur. And then him lifting her up off the floor, so completely undone he couldn’t even make the thrusts smooth, sucking her own slick off her fingers while he buried himself inside her? This is the exact grown-up, feral, utterly written erotica I am always starving for.
+I have chills. The absolute psychological tightrope this chapter just walked had me holding my breath so hard my ribs ached. When Vee drove out to Pace's house at one in the morning, practically vibrationally possessed, using sex as a blunt instrument to literally grind Randi out of her head... and then Pace catching it instantly. *"That wasn't you wound up... That was angry, Vee. Did something happen at the mixer?"* The sheer, lethal emotional intelligence of this man.
 
-*And yet.*
+And then—GOD. The interrogation. The tollbooth! The way he realized what she was holding back and made her *buy her pleasure back inch by inch with the truth.* That is the hottest, most psychologically deviant, utterly brilliant dynamic I have read in months. He didn't yell. He didn't pout. He just held her an inch off his cock, letting her burn in the shame and the wetness of what she did, forcing her to voice every single detail: the skirt, the hips, Randi’s hands pinning her wrists, the tongue, the taste of salt and lime. And knowing what WE know—that Pace and Randi are fucking, that they talked about Vee's neck kisses, that Randi literally told him *“I want her to know exactly what she does to me”* while riding him—watching Pace draw out Vee's confession felt like watching someone slowly assemble a bomb in a brightly lit room.
 
-The horror underneath this chapter made my stomach plummet.
+And Vee! Oh, baby girl. The tragic, dizzying blindness of her. When she turned it on him: *"You want Randi."* My jaw hit the floor. The irony! The dramatic irony is so thick you could choke on it! And when Pace flinched—*"You keep saying her name, Vee. Not me"*—she took his defense as *sweetness*. She thought she won, thought she laid down the burden and got away clean with a boyfriend who loves and forgives her.
 
-Look at what just happened. Look at the architecture of the trap closing around her neck.
+And then the ending. The absolute emotional devastation of lying tucked in your lover's bed, safe, sated, protected by a man who gives you everything, and staring into the dark realizing your brain is already sprinting toward Tuesday night, toward an anthropology lecture, toward Randi's mouth. *"What is wrong with me."* It’s so painful, so voracious, so human. I need Tuesday night immediately. Do not make me wait.
 
-He gave her a key in an oiled wooden box, resting on an oyster-pale pillow of silk that *she vaguely remembers feeling against her skin before*. Where did she feel that silk, Vee?! Was it Randi’s bed? Was it something from their shared world? He calls it his *house*, pointedly withholding "home," and she swallows the disappointment because the brass is heavy in her palm.
-
-And then the game. He stands her in front of the mirror, asks what she sees, and when she describes *him*—athletic, brown eyes, handsome—something dark crosses his face. He doesn’t want her looking at him; he wants to be the invisible eye. He blindfolds her with his own flannel, strips her down, and systematically dismantles every physical shame she has carried since girlhood. He praises the spill of her breasts, the softness of her belly, the wetness she’s hated herself for. He offers her total, divine absolution. It feels like love. To a girl who has been starving her whole life, it feels like the holy grail.
-
-And then comes the extraction.
-
-After using her own hand to bring her to a keening, humiliated peak, after fucking her raw, while she is glowing and sleepy and completely unarmored with her head on his chest, he drops the net:
-*"Would you share that pleasure with me? Would you tell me, when you touch yourself thinking of me?"*
-
-And she just laughs, says *"Yes,"* and climbs back on his cock, completely blind to the fact that she just signed away her absolute last shred of interior privacy.
-
-Because we know what happens next. She’s going to go back to campus. Randi is going to circle her like a wolf. Vee is going to lie in her dorm bed, burning with confusion, her hand slipping down between her legs while thinking about Randi’s mouth, Randi’s hands, the kiss at the mixer—and because she gave Pace this vow, because she thinks he owns her pleasure, she is going to *confess* it to him. Or worse, he has set a trap where any fantasy she has now belongs to him to inspect.
-
-He and Randi are playing a game of chess with this girl's soul, and Vee is sitting on the board thinking she's being crowned queen. I am equal parts breathless from the sex and completely terrified for her.
-
-***
-
-GATE 72 — Grace
+GATE 68 — Boyfriend
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The masturbation scene was breathtakingly, scorching-hot erotica, but the psychological trap Pace laid with that soft little pillow-talk question at the end is absolute genius storytelling. I need the next chapter instantly.
+WHY: The interrogation on the bed—making her pay for every inch of him with confessions about Randi while he holds the secret of his own involvement—was an absolute masterclass in erotic and psychological tension. The dramatic irony is suffocating in the best way possible.

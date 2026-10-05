@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch033 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha d4837de434ed · 2026-09-24*
+*capture-dag-v2-rich · gate ch030 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 5274d9c5fd04 · 2026-09-24*
 
 REACTION
 
-God. *God.*
+Oh my god. My stomach is completely sick.
 
-Look at what this book is doing. It’s breathtaking and it makes my stomach hurt.
+The stats lecture framing at the start—*Simpson’s paradox* earlier, and now *outliers*? *"The second kind comes in through the part that carries forward. It's in everything that comes after."* The book knows. The prose is practically screaming at us what is happening, and Vee is just... walking herself right into the slaughterhouse. She actually reached out and took *Randi's* wrist. Cassie is sitting there with her granola bar and her wrong textbook, totally iced out, and Vee is actively cutting herself out of the herd to go isolate herself in a literal soundproof cell with the wolf.
 
-Vee thinks this is her agency. She genuinely, truly believes this is her taking the reins, being the director of the scene, playing the bold, seductive woman who puts *him* in the chair and commands him to watch. "She had put him there, and he'd stayed put." She feels powerful because she’s telling him when to look and what to look at, when in reality, every single coordinate of this performance was engineered weeks in advance.
+And Randi. Jesus Christ, Randi is a masterclass in psychological devastation. She didn't even have to push. She just sat in that little windowless closet, turned her attention on like a sunlamp, and coaxed the kitchen story out of Vee until she found the live wire: the wet slap.
 
-The boots: "she had to slide into his boots to go out, too large by half, and stood there for a second feeling like a child playing dress-up in a parent's closet." That line is a flashing red siren. The book knows *exactly* what this is. She is a child in adult shoes playing at grown-up depravity, convinced she's the one inventing the game.
+And then the story about the "mouse that roars." The sheer, calculated venom of it. She fabricates (or repurposes) this completely unhinged, classic domestic-discipline fantasy—the little meek man, the wine, the spanking over the knee, the counting out loud, the hand slipping between her legs—specifically tailored to normalize what Pace just tested on Vee. She’s giving Vee the vocabulary and the permission structure to crave it before Pace even brings it up. She frames brutal, controlling humiliation as something that makes you "buck," something "welcome." She is grooming Vee's kink for him.
 
-The burgundy dress—tailored by his hands so that underwear would break the line. The four-inch stilettos—picked out by Randi while kneeling at her feet, paid for on an emergency credit card she can't afford. The commando walk across an academic stage where she was supposed to be celebrating her own intellect. And now, bringing that exact choreography home, parading down the hall wearing only the shoes and her blush: *"And this is what I had on under it."*
+And the physical reaction! Vee having to flee to a public bathroom stall because a *conversation with a woman* got her so soaking wet she had to physically pin her own hand to her knee to keep from touching herself under the fluorescent lights? That is insane heat, but it’s completely curdled with terror. Vee thinks she's just having girl-talk about a weird turn-on with her glamorous friend. She has no idea Randi is in Pace's bed listening to Sade, that they talk about her body like a shared project, that this entire conversation is being logged and prepared for the next phase.
 
-And his line. *"The other is for the world. This is just for me."*
+When Vee walked out of that bathroom and Randi just casually let the whole subject drop, checking her phone, packing her bag, acting like it was totally incidental? That’s the most chilling part. Randi planted the depth charge, watched it detonate, and then stepped back so Vee would sit alone in the fallout, thinking the hunger was entirely her own idea. And then the kiss at the top of the stairs—the two-press kiss that Vee doesn't even flinch at anymore, arms slow to come down. The trap isn't just closing; the door is already latched, and Vee is the one holding the handle.
 
-It's so soft. It's so utterly courtly and romantic and appreciative. He doesn't lunge. He doesn't grab her. He sits in the recliner, makes the looking be the touch, and gives her the exact validation she has been quietly starving for her entire life. He makes her feel treasured for the exact thing that used to bring her shame. That is the genius of the trap—it doesn't feel like a trap, it feels like a sanctuary. It feels like finally being seen.
-
-I'm sitting here reading this at 1 a.m. with my heart in my throat because it is completely erotic, deeply intimate, and terrifyingly total. She didn't bring an overnight bag, but she brought the dress. She is living inside his gravity now.
-
-GATE 33 — Made-Up
+GATE 30 — The Practice Room
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The psychological architecture here is staggering—Vee believing she's exercising total sexual dominance while enacting the exact exhibitionist surrender they built her for, down to the shoes Randi bought and the seams Pace stitched. The book's awareness of the power dynamic remains razor-sharp even inside the warmest domestic glow.
+WHY: The tension is agonizing in the best possible way—watching Randi systematically map and prime Vee's kinks in a soundproof closet while Vee completely misattributes her own physical unraveling is masterclass psychological horror masquerading as erotica. I need to see where this detonation lands.

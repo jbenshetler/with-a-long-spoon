@@ -1,18 +1,24 @@
-*capture-dag-v2-rich · gate ch037 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 0f8a1c3bd12a · 2026-09-24*
+*capture-dag-v2-rich · gate ch034 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 51b3205f6eee · 2026-09-24*
 
 REACTION
 
-God, I needed this chapter like air. After the sheer claustrophobic sensory overload of the last few chapters—the exhibitionism in the red dress, the spanking bet, the grotesque and thrilling psychological dissection over mimosas with Randi—having Vee alone in a freezing pool smelling of chlorine and tile soap was a total reset. This is exactly what I look for in the quiet stretches. When the heat gets turned off and nobody is actively orchestrating her arousal, who is she?
+God. *God.* I feel like I need to go hold my wrists under freezing water right along with Vee. My heart is beating right in my throat.
 
-What got me right in the chest was that four-stroke window around the seventh hundred. For just a few seconds, while her body is doing honest, unsexualized labor, the fog clears enough for her to ask the terrifying question: is Pace actually this good, or did she invent him out of her own desperate, starving appetite? That is *huge*. It proves her interiority isn't dead; she isn't just an empty vessel being molded by Pace's patience and Randi's grooming. She knows, somewhere under the noise, that she was starving before they found her, and that starvation makes everything taste like a feast.
+Randi is an absolute, terrifying apex predator. The cruelty, the psychological precision, the sheer *artistry* of what she just did over a pair of cheap mimosas—it is breathtaking. Calling Pace "vanilla" because she knew, with surgical certainty, that Vee’s pride wouldn’t be able to bear it. Drawing every single sordid, beautiful detail out of her: the pantsing, the bet, the finger, the wetness, the bare bottom in four-inch heels. And Vee, thinking this is "girls' brunch," thinking this is sisterhood and intimacy, handing over every scrap of her private life, completely unaware that she is giving Randi an inventory of how well the training is taking.
 
-And then, heartbreakingly, the wall comes, she rolls, and she lets the mechanics of the stroke push the thought away because facing it would mean looking at the entire drop-off beneath her life. Cassie’s voice ringing in her head—*Do you love him*—haunting her down the lane lines. Cassie really is her only tether to reality, the only voice asking the simple, grounding questions that cut right through the theatrical romance Pace and Randi have staged for her.
+And then Randi's move with the Radford story. It wasn't just dirty talk; it was a remote-control detonation. She fed Vee that image of herself—dress hiked, knees wide, touching herself in a stranger's bed—knowing *exactly* what it would do to Vee's over-primed nervous system. And then to watch Vee bolt for the bathroom, knowing precisely where she was going and why?
 
-This chapter showed me the instruments are working. The book isn't drunk on its own seduction; it knows Vee is participating in her own illusion to keep from having to look at what's really happening. She walks away in the cold with damp hair, thinking about a sandwich and stats homework, and for an hour she gets to just be a twenty-one-year-old girl again. I am so glad I stayed for this.
+That stall scene made me want to weep. The utter violation of Vee having her own hand inside herself, desperate for relief, and having *Randi's face* appear behind her eyes. Randi has moved into her head. She has colonized Vee’s sexuality so thoroughly that Vee can’t even masturbate without feeling watched, judged, and cowed by her. She stops an inch from the peak—frustrated, ashamed, obedient. She is a dog waiting for permission to eat.
 
-GATE 37 — Strokes
+And the pastry. *"Sticky fingers?"* That almost stopped my pulse. Rivers plays the ambiguity so exquisitely: did she say it because of the sticky buns, or did she say it because she knows Vee was just with her hand in her pants? And Vee drowning in the horror of the double meaning, unable to ask, unable to know. But Randi knew. Of course Randi knew. That's why she took *one* neat bite of the pastry, left the sugar on her mouth, and then transferred it directly to Vee's lips in that lingering goodbye kiss at the curb.
+
+*"You're my best friend in the whole world, you know that?"*
+
+It’s poison. Pure, sweet, paralyzing venom. Cassie is sitting back in their apartment being a real friend, and Vee is standing on a freezing sidewalk tasting glaze off the mouth of the woman who is gutting her like a fish. The trap is shut. The lock has clicked. I am terrified for what happens when the three of them finally converge.
+
+GATE 34 — One Bite
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 10
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The solitary, unperformed space of the pool was exactly what the narrative needed to prove Vee still has an independent pulse. Watching her almost clock the illusion before letting the water wash it away shows the author is completely in control of the psychological stakes.
+WHY: The psychological devastation in this chapter is master-class erotica; Randi’s manipulation is so horrifyingly precise, and the book's total awareness of the trap makes it impossible to look away.

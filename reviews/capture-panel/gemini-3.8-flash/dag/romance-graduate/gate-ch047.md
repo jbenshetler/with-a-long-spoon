@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-01*
 
-REACTION
+REACTION:
 
-God, my stomach hurts. This is the first time the gilded cage felt cold, completely cold, from the inside out.
+Oh, god. My stomach just dropped out through the floor.
 
-That disaster at Chili's was physically painful to read. It was so agonizingly, humiliatingly real. When you're starving for someone to claim you in the daylight, you pick a fight just to throw yourself against the bars, and then when he calmly says *okay* and takes you to the loud-ass chain restaurant you blurted out, you realize you've walked yourself right into your own trap. Watching Pace unravel in that booth—not throwing a fit, but that tiny, devastating flicker of irritation, squaring his fork with the edge of the table, his eyes sliding up to the muted TV because the noise was scrambling his hyper-calibrated brain—it made me want to crawl under the table. And the nachos! The soggy chips and the sour orange bag-cheese tasting like muddy brown cardboard because he has literally ruined ordinary life for her. He has educated her palate and her nerve and her body to expect bespoke perfection, and now she can’t even choke down the cheap comfort food she grew up on.
+*“I had been eating crackers my whole life,” she said. “And you fed me a meal. I didn’t know what a meal was until you fed me one. And now I know.”*
 
-And then the fight at the house, where she tries to rewrite history and claim *he* went cold on *her* after the Rusty Nail. The absolute mastery of Pace just setting down: *"You know what happened after the dance."* He doesn't raise his voice, he doesn't insult her, he just holds up the mirror. And then explaining his sensory overload: *"In a room like that I listen as hard as I know how and I still can't hear you."* It’s so reasonable, so intensely intimate, and so profoundly evasive all at the exact same time.
+She gave him her heart on a silver platter. She didn't say the forbidden three words, but she laid out her entire starved soul, using his own exact language—food, hunger, being filled—and what did he hand her back?
 
-Because she is so desperate for it to be fine that she tells herself she's "forgiven" him just to give herself permission to let him strip her. That whole sequence in bed had a desperate, frantic undertone that almost made the heat hurt. She wanted him to break his control so badly, thinking that if he lost his head and took her rough, the truth would spill out with it. She got the rough—she got him finally losing his breath and snapping, driving into her and shaking apart—and even completely shattered, empty, with his seed running down her thighs in the dark, he *still didn't say it*.
+*“I love how good we are together.”* And then: *“What you do — what your body does — I’ve never.”*
 
-That ending is an absolute punch in the throat. She is lying in the cooling sweat of a man who just gave her two earth-shattering orgasms, his arm heavy over her, and she has never been more completely alone. She can't call him a boyfriend, she can't call it love, she can't prove a single second of it outside the perimeter of those woods. He has swallowed her whole, and she doesn't even have a word to hold onto.
+HIS BODY. HER BODY. That is the devastating, sickening knife twist. She gives him an emotional confession of profound, life-altering gratitude, and he pivots it *instantly* to sexual compatibility and physical performance. "What your body does." He literally demoted her back to a body. And the absolute tragedy of it is that he didn't do it out of cruelty—he did it because he is managing her. He had to pause, assemble his words, and set down a perimeter. *I love how good we are together* is the polite, horrifying non-reciprocation of a man who knows exactly what line he cannot cross. Simpson's Paradox again. Randi is still in the equation. He cannot say *I love you*, because this is a project, a curated awakening, an arrangement.
 
-GATE 47 — Under the Rug
+And Vee felt it. Thank God, she felt it. That small *wait* behind her breastbone. That cold, sickening little adjustment in the dark while he's kissing her hair and holding her under the warm quilt. The visual of her sitting on the folding table in the dorm laundry room, watching the dryer spin, turning those two sentences over like mismatched puzzle pieces—it broke my heart. *“She had said her best sentence. He had not said the sentence back.”*
+
+The title of this volume is *A Warm Reception*. And right there: *"She had been received warmly, she would remind herself, in the small private way you remind yourself of evidence whose weight you are not sure of."* A warm reception is what you give a guest. It's polite hospitality. It's not love.
+
+The gilded cage just showed its bars. She tucked that hurt into the dark corner where she keeps the other unexplained things—the spanking bench she didn't question, the locked drawers, the separate data—and that pile is getting heavy. The mouse didn't bite, but the mouse just realized the cheese is attached to a spring.
+
+GATE 46 — Seconds
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 2
-ROMANCE: 2
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological friction here is breathtaking. The horror of getting exactly the physical devotion you begged for, only to realize in the quiet afterward that you're totally nameless to him outside that bed, was absolute perfection. I have to see who cracks first.
+WHY: The absolute psychological precision of that missed connection took the air out of my lungs. She offered him her soul, and he countered with how much he likes what her body does in bed; the sickening realization that he is managing her, and that she felt the chill even under the warm quilt, is sheer emotional masterclass. I have to see the fallout.

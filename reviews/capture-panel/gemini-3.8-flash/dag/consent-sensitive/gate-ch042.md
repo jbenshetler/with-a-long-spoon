@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch042 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha d75264abed57 · 2026-09-24*
+*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 97724b44da95 · 2026-09-24*
 
-REACTION:
+REACTION
 
-Oh, this chapter gave me the exact kind of cold sweat I read this book for.
+I feel sick to my stomach. Genuinely, physically sick.
 
-It’s so short, so deceptively quiet—just two girls sitting over hard plastic cafeteria trays under fluorescent lights after Thanksgiving break—and it does more brutal psychological damage than ten chapters of explicit kink. The title alone: *Cropped.*
+This chapter is the trap snapping completely shut, and Vee is practically purring as the bars click into place around her.
 
-Look at what Vee has to do to survive her own life now. To show her family the induction, she has to literally cut her own body in half. The parents get the waist-up version: the dutiful, brilliant, modest daughter, while the slit that went to her hipbone, the bare skin, the four-inch heels, and the fact that she wore no underwear into a room full of parents is edited out of existence. And the sickening genius of the callback is that *Randi* is the one who shamed her for cropping: *"you only gave him half?"* Randi got the raw, uncropped, full-frontal naked reality, and her parents get the sanitized, safe portrait. Vee is living in the split.
+Look at what just happened here. In chapter 38, Pace laid her out "like a woman in an old calendar," took naked pinup photos of her on her own phone, and swore—*swore*—on his life: *"Never. I'd never share your photograph."* And he didn't have to. *He didn't have to.* Because the architecture of this grooming is so immaculate, so utterly fiendish, that they don't need to steal her dignity or leak her photos: they have engineered Vee to hand them over herself, smiling, begging for approval.
 
-And then the dialogue about her father. *God.* "Too good is its own kind of suspicious." Her dad, working-class, grounded, burning the rolls on purpose, looks at that silk dress and immediately starts doing the math. A father's instinct is trying to reach her through the photograph: *Who gives a girl a dress like that?* And Vee has to curate him, manage him, feed him the narrative scraps that keep him proud—"math PhD," "hiking," "boom box"—while violently suppressing the reality. Because the reality isn't just that Pace buys her things; it’s that Pace *built* the dress to fit her skin on his sun porch.
+Randi played her like a cheap fiddle at that table. The calculated little nudge—*"Legs like yours, though—and you only gave him half?"*—knowing *exactly* what nerve to strike. Knowing that Vee’s fatal flaw is her terror of being seen as "a girl who flinched," a girl who is too small, too safe, too prudish for this glamorous new world. So Vee whips out the full, uncropped, totally naked photograph Pace took of her and puts it right into the hands of the woman who is sleeping with him, who is dissecting her with him, who scouted her for him. And Randi looks at it and says, *"Showing him your toes, eh?"* Because Randi remembers kneeling on the floor of that boutique, touching those exact frosted plum toes. It's an inside joke between the wolves, and the sheep is laughing along with them.
 
-"Honestly, my dad would take it better if I told him Pace takes that dress off me than that he made it. Sex he understands. The sewing he never would... In some ways weird is worse than wrong."
+And then the Cassie erasure. It’s almost casual now, which makes it ten times more horrifying. *"So it's just us."* Next semester, locked in. Cassie—who sits in their dorm room offering steady, quiet, unglamorous sanity, who makes sure she’s safe, who gently clocked that Vee hasn't slept in her own bed on school nights—is completely bypassed. Vee is voluntarily signing up to isolate herself further with Randi.
 
-That line hit me right in the chest. Because "weird" is the domestic entrapment. "Weird" is Daphne's fingerprints all over Pace, which Pace is now pressing into Vee. A normal father understands an eager young man trying to get into his daughter's pants. He does *not* understand a 22-year-old boy who acts like a 19th-century patron, tailoring silk to her bare measurements, feeding her water buffalo mozzarella and Nebbiolo, and slowly, silently absorbing her entire material life into his drawers. Vee *knows* it sounds insane. She knows it so deeply that she can't even articulate it to Cassie.
+And that kiss at the curb! The fact that Vee is the one leaning in now, chasing Randi’s mouth for that extra half-second, totally oblivious to the fact that her desire is being cultivated, watered, and pruned by two master gardeners who plan to harvest her. She thinks she's waking up. She thinks the eggs Benedict and the mimosas and the naked calendar shots and the mouth-kisses are her "finally being hungry out loud."
 
-And Cassie. Sweet, steady, unblinking Cassie. "Is it that you can't say, or that you don't want to?" And Vee's absolute white-flag surrender: "Both. Probably both."
+The horror in this book doesn't come from violence or cruelty; it comes from this suffocating, golden-lit, velvet-smooth compliance. Every single boundary she had two months ago has been dissolved, not by force, but by making her feel *special* for giving it up. I need to see the bill come due. I am dreading it, but I cannot look away.
 
-That closing sentence is the whole tragedy of grooming and psychological isolation: *Vee was grateful. She was also, a little, not.* Part of her is desperate for Cassie to grab her by the shoulders, shake her, demand the uncropped picture, and pull her out of the water before she drowns. But Cassie is too respectful, too polite to pry. And because Cassie doesn't pull, Vee gets to drift right back out to sea. Terrifying, quiet, pitch-perfect work.
+***
 
-GATE 42 — Cropped
+GATE 39 — All the Time
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The absolute psychological precision of Vee having to crop her own life in half to show it to her parents, juxtaposed against Cassie quietly offering her a lifeline she is too terrified to take. The book's awareness of Vee's creeping isolation is razor-sharp.
+WHY: The absolute psychological terror of watching Vee hand over her own naked photos to Randi—the very betrayal Pace promised never to commit—proves the book's framing remains brutally, mercilessly aware of the trap being sprung.

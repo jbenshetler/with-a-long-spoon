@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a3af5d5e997c · 2026-10-01*
+*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-01*
 
 REACTION
 
-God, my heart.
+*Oh, Randi.*
 
-*“I had to wash it. It stopped smelling like you.”*
+Seeing this chapter play out in real time after carrying the weight of that reveal in my head completely rewired how I see the dynamic between these two. I’ve spent weeks being terrified of Randi—watching her manipulate Vee, pry every intimate detail of her sex life out of her over eggs Benedict, drop that terrifying "Sticky fingers?" line, and bait her into handing over the nude photo. I thought Randi held all the cards, that she was this untouchable, glossy architect running rings around a sweet, naive girl.
 
-And then he pulls it right over the shirt he’s already wearing, without a single second of hesitation, without teasing her, without making her feel small or clingy or desperate. That right there is everything. That is the whole damn ballgame. In so many of the books I used to read, a moment like that would be turned into leverage. The hero would smirk, or mock her for being obsessed with him, or use it to extract some filthy little concession to prove how pathetic she was for needing him. Pace just hears a woman telling him she missed him so much she was sleeping in his scent, and his face goes soft, and he puts on two shirts in a warm kitchen just so she can have him with her when she leaves. I cannot even tell you what that kind of tenderness does to me. It makes the breath catch in my throat.
+And then this cold, sterile library room happens, and the entire power balance tilts on its axis.
 
-And the contrast between her urgency at the door and his absolute, immovable calm! She comes flying in like a storm, five days of pure starving denial breaking loose all at once—the boots kicked off, the coat dropped, the jeans stuck on one leg, hopping down the hallway in a green satin thong and white cotton socks—and he just anchors her. He stops her with one hand at her waist, takes her breasts in his hands, and lets all that manic rushing just bleed out into the room. *“You’re not helping.” / “I’m helping.”* It’s so playful and secure and real. When they finally fall into bed, it’s not an elaborate performance; it’s two people who belong to each other picking up right where they left off, her coming apart instantly because she’s safe enough to just let go.
+The detail of the tag on the graph—*MIRA*—and Randi hovering over it, so confident that her father’s business was going to be the noble exception to Cassie’s working-class reality, made my stomach drop. Watching her click, watching her realize in real time that her entire gilded life, the green Mercedes, the cashmere, the effortless confidence, was bought with stolen government money while real people like Cassie’s dad got tossed out into the cold… it broke something in her. That ragged, strangled *"Cheating bastards"* didn't come from the polished sorority standards chair. It came from a deeply betrayed daughter who just realized her dad named his fraud after her.
 
-Then the pizza. The way this book handles food as an act of absolute devotion is unmatched. The sauce cooking down for half an hour, the water buffalo cheese, the cornmeal hitting the stone—and Vee realizing he would have made it with that exact same meticulous care even if the house were totally empty. He doesn't perform. He just focuses. And watching him give that massive, precise focus to her, and then to a meal to nourish her, is pure romance.
+And what does Vee do?
 
-It hurts, though. It hurts because behind this golden, domestic warmth, I know what’s out there. I know Randi is out there, I know the third game is out there, I know Sheri is coming for Thanksgiving, and I know that Pace and Randi orchestrated this. Every time he is this good to her, the drop gets ten feet higher. She is completely, utterly sunk in love with this man, bringing him his own shirt like a little offering to be blessed with his scent, completely unaware of the ground beneath her feet.
+This is why I love Vee. This is why I am so fiercely protective of her. Any other girl—especially someone who has felt small and judged her whole life—might have seized that moment, or frozen, or let Cassie twist the knife. But Vee’s instinct is pure, protective tenderness. She doesn't gawk. She doesn't pry. She slides the laptop over, invents logistical busywork, and builds an emotional ramp for Randi to climb back up on so she doesn't have to bleed out in front of Cassie. She shields her.
 
-GATE 44 — The New Ordinary
+It’s heartbreaking because Vee is protecting the very woman who is actively managing her life behind her back. But it also changes the romance completely. The jacket promised that Vee’s awakening runs in more directions than one, and that Randi is caught in this web just as deeply as Vee is. A moment like this proves it. Randi isn't just an untouchable predator; she’s hollowed out, trapped in her own ugly familial reality, and Vee just handed her grace without demanding a single thing in return.
+
+There was no Pace in this chapter, and it was entirely about a stats project in a freezing lecture hall, but the psychological tension was electric. Now they both have each other's absolute deepest secrets—Randi holds Vee's naked surrender to Pace, and Vee holds the rotten truth of the Miranda empire. I need to see what happens when the two of them are alone again.
+
+GATE 43 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The shirt scene broke me in the best possible way—Pace pulling it on over his clothes without an ounce of mockery is the exact gold standard of masculine tenderness I read this genre to find. I am utterly hooked, loving their domestic intimacy while quietly dreading the explosion I know is coming.
+WHY: Even though it was a quiet, clothes-on academic chapter with no Pace, the emotional stakes were massive. Watching Vee quietly step in to protect Randi's dignity after uncovering her family's fraud added an incredible layer of tenderness to their dynamic, and I am dying to see how this shifts their private moments.

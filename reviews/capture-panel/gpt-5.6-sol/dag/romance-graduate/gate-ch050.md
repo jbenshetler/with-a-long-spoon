@@ -1,26 +1,20 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-01*
+*capture-dag-v2-rich · gate ch049 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · 2026-10-01*
 
-REACTION — Oh, Randi. You gorgeous, calculating coward. I have wanted inside her head for so long, and now that I’m here I’m somehow more in love with her and less willing to excuse her.
+REACTION — Oh, that hurt exactly where it was supposed to. “Words are cheap, and you still won’t spend them on me” is the sentence I would be texting a friend at one in the morning with twelve exclamation points, because yes. Yes. She finally made him stand in the missing center of everything he has built for her, and he still tried to answer with the architecture.
 
-That breakfast told me everything before she admitted any of it: the invented boys, the bracelet kept out of the light, the parents who can accommodate every polished version of her and none of the real ones. Then John gives her the full fantasy she was trained to want—mountain, ball, perfect dress, perfect lead, sleigh, approved husband-shaped man—and she feels nothing lasting. Not because he fails. Because he succeeds without ever reaching her. “This was the best the acceptable world could do for her” is brutal. I felt the cold of that room.
+And I am so proud of her for not accepting the warm house as an answer this time. Not the heat brought up for her, not the waiting wine, not the dinner, not the porch, not “the most important person in my life,” not even the question designed to make her admit that no relationship she knows is better than theirs. All of those things are true. They are also evasions. He keeps handing her beautiful evidence and asking her to infer a verdict he refuses to state. Worse, she still doesn’t know the evidence is incomplete because Randi exists inside the same structure. “Most important” is doing viciously careful work there. It sounds enormous while promising nothing exclusive and disclosing nothing.
 
-And Pace. *Pace on his worst night reached further than this man had managed at his best.* So this is the root of it: he is the person who found her underneath, and Vee is the person who makes that hidden self come alive. The contrast in the dancing got me too. John’s certainty is easier; Pace leaves room for her. Randi can surrender to John without risking herself because he never asks for the self she protects. Pace does. Vee does without even knowing she’s doing it.
+I felt the old pull of him anyway. Of course I did. The house already warm, the wine poured, his face opening when she arrives—every bit of it still gets me. That is why this isn’t a clean righteous exit where I can simply hate him. He loves her in every language he trusts, and apparently distrusts the one language she has finally told him she needs. But once she asked plainly, his refusal stopped being reserve and became a choice. He understood enough to fold his arms and hold the line. That image changed something for me. He wasn’t merely failing to find the words; he was defending the silence.
 
-The sex had charge, but the aftermath was the part that really got under my skin: her lipstick left on a man while she remains untouched in every way that matters. That is exactly the kind of explicitness I want—the body can have had a genuinely good time while the person inside it is still starving. No coyness, no pretending an orgasm solves the scene.
+And God, her leaving without the bag. That landed before a single word did. She came prepared not to be absorbed into the evening. Then she would not let his hands soothe her out of the question. That may be the most grown-up thing she has done: recognizing that comfort can be real and still keep her from an answer.
 
-But I am furious at the conclusion she draws about Vee. She knows she loves her. She knows the friendship is being preserved under false pretenses. And instead of telling her, she consciously chooses the arrangement: say it in two meanings, let Vee hear only one, keep applying pressure until Vee “arrives at it on her own.” There it is. Not accidental flirtation. Not uncertainty. A strategy. Her fear is heartbreakingly real, but fear does not make this fair. Vee’s kindness has become something Randi counts on while withholding the information Vee would need to choose freely.
+I need the next chapter immediately, but I am afraid of what I want. I do not want him to chase her, say “I love you,” and have the secret remain buried under the grand declaration. The word alone is no longer enough. If he wants her back, he has to tell her about Randi. All of it. Otherwise he is just spending the cheap word at the last possible second to preserve an arrangement she never agreed to.
 
-And that New Year’s text nearly killed me. Vee, from the warm honest house, reaching out because she senses Randi might need her. Randi sends back the glittering lie made entirely of true sentences. That is her whole life in miniature. Then she gives Vee the one line she actually means and hides it among emojis where it can’t demand an answer.
-
-I would text a friend: “Randi just got the fairytale, fucked Prince Charming, felt absolutely nothing, and then knowingly decided to seduce her best friend under cover of friendship because honesty might cost her. I’m obsessed with her. I’m also preparing the guillotine.”
-
-And meanwhile Vee has just walked out of Pace’s house crying. I am not taking a breath. I need to know whether this memory is about to determine what Randi does now—and whether the two people who love Vee are finally going to stop treating silence as tenderness.
-
-GATE 50 — Fairytale
+GATE 49 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi’s interior life finally opened, and it made her more sympathetic without making her less culpable. The chapter confirmed that her double meanings with Vee are deliberate, and after Vee’s break with Pace I need the hidden arrangement dragged into daylight immediately.
+WHY: She finally asked the exact question, refused every beautiful substitute, and walked out before his touch could make silence feel like an answer. I am already turning the page because Pace’s next move has to reveal whether his care can survive the truth.

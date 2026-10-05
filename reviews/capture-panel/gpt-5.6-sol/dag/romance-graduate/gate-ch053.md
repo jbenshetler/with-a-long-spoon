@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha bff68c2a8905 · 2026-10-01*
+*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha c1f15218cc12 · 2026-10-01*
 
 REACTION
 
-Oh, Pace. The truck absolutely wrecked me. His whole body believed in her arrival before his mind could intervene, and then he still ate the cold chicken because nobody was coming to take care of him. That is exactly the kind of suffering that gets me—not glamorous anguish, not a beautifully brooding man with a whiskey glass, but vomit, bleach, shaking hands, food swallowed by command. The whiskey didn’t blur Vee at all. Of course it didn’t.
+Oh, Sheri. Thank God for one person in this book who can hear a beautiful evasion and still call it an evasion.
 
-And I believe him now, completely, about the words. Daphne wasn’t just the woman who left; she was the person through whom he learned how to exist in the world, and then the person he would have needed in order to survive losing her. That is a vicious little emotional trap. He took the fact that later losses were survivable and made a superstition out of his silence. It makes terrible, human sense.
+Pace listing the weekends, the weeknights he “gave” Vee, the way nothing else exists when she is with him—I believe every word, and I also felt exactly what Sheri felt: none of that is the answer. He keeps laying down true things as if enough of them will eventually make the missing truth unnecessary. “Every brick was true and the true things were supposed to come to something” is Pace’s entire problem. He has built Vee a gorgeous house out of acts and left out the door she asked for.
 
-But the line I cannot get past is that he knew his answer was smaller before he gave it. He watched it fail in Vee’s face and let it stand. That hurts worse than if he had misunderstood her. She gave him the best sentence she had, and he deliberately rationed himself because he wanted protection from the possibility of losing her. Now he has hurt her first so she cannot hurt him later. I ache for him; I am still furious with him.
+And then Sheri says it cleanly: “Then not saying it matters more to you than having her.” That landed hard. No diagnosing him, no praising him for being better than men who lie, no letting his pain turn into virtue. Just the cost of the choice. I wanted to put her in the car and send her directly to Vee.
 
-Also: folding Randi’s cashmere blanket before doing anything else. There she is, physically present in the room where he is grieving Vee, while Vee is inventing a faceless blonde because neither of them will tell her the truth. The chapter’s tenderness toward Pace does not let him off that hook. Saying *I love you* would be a real act of courage, but it would still be only the smaller truth if he leaves Randi out.
+I loved the ordinary intimacy between Pace and Sheri—the switched plates, her stealing his fries immediately after gutting him, her refusing to be impressed by the philosophy of his food. She makes him feel like a person instead of the controlled erotic oracle he can become around Vee. His laughter mattered because she didn’t earn it by soothing him. She got there by refusing his performance.
 
-I am desperate for Vee to arrive, and I hate that she is going to arrive believing she owes him an apology. If that engine finally turns into the drive and Pace sees her in that coat and those heels, he had better understand what is being handed to him—and speak before he touches the belt.
+But “She find out about the brunette, then?” made my whole body go cold. So he can discuss Vee’s demand for a declaration while the actual brunette remains safely unnamed. Sheri knows enough to identify the concealed fault line in one sentence, and Pace knows enough to answer around it. His love for Vee is real—I’m no longer remotely unsure of that—but so is the structure trapping her outside the truth.
 
-GATE 53 — Not Enough
+And, yes, the charge was there. His blush when Sheri teased him, the “long legs feel like Christmas,” the way he says the air crackles and then tries to explain that Vee sees the philosophy beneath what he makes—that got me. Not because I needed another report that their sex is good, but because his desire for her body and his hunger to be understood are fused. He doesn’t merely want Vee back in his bed. He wants her particular mind at his table. Which makes his refusal to say the words even more maddening.
+
+At one in the morning I’d text: “Pace is catastrophically in love with her, his tiny lesbian diner friend just verbally killed him, and HE STILL HASN’T DEALT WITH THE SECRET GIRLFRIEND.”
+
+GATE 52 — The Usual
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 0
+NEXT: 9
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The passing truck and the cold chicken gutted me, and Pace’s fear finally feels fully human rather than like standard emotionally unavailable-man machinery. Now I need the doorstep immediately, because his next choice—words first or body first—will tell me whether this pain has changed him at all.
+WHY: Sheri stripped Pace’s excuses down to the choice underneath them, and the chapter made me feel both his love and the inadequacy of it. Now I need to see whether he acts before Vee arrives offering her naked body as an apology for asking him to tell the truth.

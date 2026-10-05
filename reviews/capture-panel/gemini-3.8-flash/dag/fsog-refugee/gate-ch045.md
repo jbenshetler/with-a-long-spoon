@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-01*
+*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a3af5d5e997c · 2026-10-01*
 
 REACTION
 
-That line hit me right in the ribs: *"Honestly, my dad would take it better if I told him Pace takes that dress off me than that he made it. Sex he understands. The sewing he never would."*
+God, my heart.
 
-God, that is so painfully, perfectly true to a certain kind of family, a certain kind of father. Sex is an ordinary, transactional, slightly dirty thing a young man wants from a girl—it fits into the tidy little patriarchal box her dad has lived in his whole life. But a twenty-two-year-old powerlifting math genius who quietly, painstakingly builds a bespoke silk gown on a sun porch just because she looked at a picture in a magazine? That’s devotion. That’s intimacy so deep and strange and tailor-made that it terrifies anyone looking in from the outside. You can't explain that to a parent without exposing your entire soul.
+*“I had to wash it. It stopped smelling like you.”*
 
-And the title—*Cropped*. The way Rivers uses that single concept to show the fractured lives Vee is living right now is brilliant. She cropped the photo to the waist for her mom so she wouldn’t look like a floozie; she cropped her life to the "safe" milestones for her dad so he wouldn’t look for the catch; she handed the completely uncropped, raw, naked truth over to Randi at brunch; and now here she is with Cassie, the one person who actually loves her for nothing, realizing she has to crop her heart in front of her too.
+And then he pulls it right over the shirt he’s already wearing, without a single second of hesitation, without teasing her, without making her feel small or clingy or desperate. That right there is everything. That is the whole damn ballgame. In so many of the books I used to read, a moment like that would be turned into leverage. The hero would smirk, or mock her for being obsessed with him, or use it to extract some filthy little concession to prove how pathetic she was for needing him. Pace just hears a woman telling him she missed him so much she was sleeping in his scent, and his face goes soft, and he puts on two shirts in a warm kitchen just so she can have him with her when she leaves. I cannot even tell you what that kind of tenderness does to me. It makes the breath catch in my throat.
 
-*"Is it that you can't say," Cassie asked, "or that you don't want to?"*
-*"Both," Vee said. "Probably both."*
-*Cassie nodded and went back to her plate. She didn't push at it. Vee was grateful. She was also, a little, not.*
+And the contrast between her urgency at the door and his absolute, immovable calm! She comes flying in like a storm, five days of pure starving denial breaking loose all at once—the boots kicked off, the coat dropped, the jeans stuck on one leg, hopping down the hallway in a green satin thong and white cotton socks—and he just anchors her. He stops her with one hand at her waist, takes her breasts in his hands, and lets all that manic rushing just bleed out into the room. *“You’re not helping.” / “I’m helping.”* It’s so playful and secure and real. When they finally fall into bed, it’s not an elaborate performance; it’s two people who belong to each other picking up right where they left off, her coming apart instantly because she’s safe enough to just let go.
 
-That ending ache! Cassie is such a good friend that she gives Vee the grace to keep her secrets, and Vee is drowning in that grace because some part of her *wants* to be shaken, wants someone to demand the truth, wants an anchor to pull her out of this deep, beautiful, terrifying whirlpool before the floor drops out.
+Then the pizza. The way this book handles food as an act of absolute devotion is unmatched. The sauce cooking down for half an hour, the water buffalo cheese, the cornmeal hitting the stone—and Vee realizing he would have made it with that exact same meticulous care even if the house were totally empty. He doesn't perform. He just focuses. And watching him give that massive, precise focus to her, and then to a meal to nourish her, is pure romance.
 
-It was a short, quiet chapter after the blistering domestic intimacy of 44, but it did so much quiet heavy lifting. She’s drifting away from the shore, and she knows it.
+It hurts, though. It hurts because behind this golden, domestic warmth, I know what’s out there. I know Randi is out there, I know the third game is out there, I know Sheri is coming for Thanksgiving, and I know that Pace and Randi orchestrated this. Every time he is this good to her, the drop gets ten feet higher. She is completely, utterly sunk in love with this man, bringing him his own shirt like a little offering to be blessed with his scent, completely unaware of the ground beneath her feet.
 
-GATE 45 — Cropped
+GATE 44 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 2
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological honesty here is just stunning. Watching Vee realize how completely isolated she is by the sheer depth and strangeness of what she has with Pace—that it's too big, too tender, and too weird to explain to the real world—made my chest ache. I need to see what happens when she gets back to him.
+WHY: The shirt scene broke me in the best possible way—Pace pulling it on over his clothes without an ounce of mockery is the exact gold standard of masculine tenderness I read this genre to find. I am utterly hooked, loving their domestic intimacy while quietly dreading the explosion I know is coming.

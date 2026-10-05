@@ -1,30 +1,26 @@
-*capture-dag-v2-rich · gate ch056 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~c23f4d1deeee · 2026-09-11*
+*capture-dag-v2-rich · gate ch055 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 122f2504f31e · 2026-10-01*
 
-REACTION —
+REACTION — Oh my god, yes. This is exactly the kind of chapter that makes me forgive a book for making me sit in the ache, because the payoff was not polite. It was not symbolic. It was not some tidy “we talked it through over tea” reconciliation. She woke up, chose her body on purpose, scared herself, turned herself on, denied herself, drove through the dark like a woman carrying a lit match in both hands, and then opened the coat. I was feral.
 
-Oh, this chapter is trouble in lipstick.
+What got me most was that it wasn’t just “naked under a coat,” which could so easily be cheap in another book. Here it’s the whole history of her shame and appetite and too-much body turned inside out. The underwear drawer moment killed me. Her hand going automatically to the sexy bra and then realizing no, even that is too much clothing for the sentence she’s trying to say. That is so embarrassingly, specifically female to me: the body moving by habit before the new self catches up.
 
-I came in expecting the Randi debrief, and yes, I wanted that because after the coat scene I needed the pleasure of telling it. There is a whole erotic afterlife in getting to narrate a thing to the person who helped stage it, and the book knows that. Vee telling the story becomes its own sex scene before the restroom ever happens. The coat lining. The way she *shows* Randi the evidence. Randi’s “Wow,” going hoarse. I felt that land. Not just because it’s hot, though God yes, but because Vee is feeding off being seen by Randi now almost as much as she feeds off being taken by Pace.
+And the mirror scene worked because it was not coy. It let her want herself through wanting him. That’s the missing ingredient in so much spicy romance: the heroine is desirable, sure, but she isn’t always allowed to experience herself becoming deliberate. Vee looking at her own breasts, wondering if they’re enough even though Pace worships them, touching herself and then stopping because she wants to bring that unfinished charge to him — that is hot because it is character. That’s her learning power in real time.
 
-And Randi. Randi, Randi, Randi. The scarf! The hand on Vee’s chest, “This did it,” and that tiny adjustment of the wrap blouse like she has rights there. I am now reading every touch of hers with a lit match in my hand. She can make approval feel like a hand under Vee’s chin. She is so generous and so hungry and so practiced at turning a room so no one notices she’s steering. That “hmm” when Vee gave her the line she’d rehearsed hurt me more than I expected. It was such a perfect little withholding. Vee wanted applause from her and got analysis instead, and then had to go deeper, dirtier, truer to win Randi back. That’s dangerous. Delicious, but dangerous.
+The police lights almost took me out from sheer secondhand panic. I had my whole stomach in my throat. And then when the cruiser passed and she was left more wound up than before? Filthy and funny and psychologically exact. The coat lining mark too. Once upon a time that would have destroyed her. Here it becomes evidence. “I mean it.” God.
 
-The anthropology lecture was almost too on the nose and then immediately not, because yes, gifts. The scarf, the heels, the coat, the cashmere blanket, the food, the shirt, the dress, the stories themselves. Everything in this book carries somebody back toward somebody else. A gift is never free? Ma’am, apparently neither is a neckline. I love that Vee sits there not realizing she is basically in a class about her own life.
+And Pace. Pace, you absolute difficult man. The formal “It’s late. Is everything alright?” made me want to throw something, and then she just silently opens the coat and deletes his entire defensive operating system. Perfect. I don’t even need him eloquent there. His face says it before his mouth can ruin it. Starving man and forgiven man in one look — yes, that’s the line. That’s the entire chapter.
 
-Randi’s underwear story gutted me. That mother. Laundered, folded, waited for the boy. Publicly making Randi’s body into evidence at dinner. Suddenly so much of Randi’s shine has a hard seam under it: she learned presentation as armor because humiliation in her world is served on china. And the boy leaving, not because he was cruel but because he was mortified out of the room forever — that hurt. It also made Randi’s current behavior with Vee more frightening to me. She knows exactly what it is to have intimacy staged by someone else for someone else’s purposes. And yet here she is, staging.
+The doorstep sex should have been absurd and instead it was glorious because it had all the missing in it. His mouth on her in the open doorway, the cold on her wet nipples, the front door banging in the wind like neither of them has the brain cells to shut it — I mean. Thank you, book. Thank you for not fading to black. Thank you for letting it be urgent and graceless and still tender afterward.
 
-The bathroom orgasm absolutely got me. Not in a “here’s another explicit bit” way, but because the center of gravity shifted while Vee was insisting it hadn’t. She tells herself it’s Pace, obviously, all of it about Pace, while the thing that pushes her over is Randi’s face and Randi’s voice and the sentence becoming command. I actually said “oh honey” in my head. We are well past harmless admiration now. Her body knows. Her mind is still filing paperwork.
+And then the pancakes. That transition is why I’m still here. If it were only the hot scene, fine, I’d enjoy it and move on. But him feeding her at midnight after, going to one knee, cracking on “I missed you so much” — that is the emotional sex after the physical sex. It doesn’t solve the word problem, and I notice that. She says there’s no room tonight for wanting anything he hasn’t given, which means there will be room later. But tonight? I believed her relief. I wanted her to have it. I wanted them to get this one warm room back.
 
-And then Randi knowing/not knowing at the table was exquisite. “It’s a good thing you got relief” made my stomach drop with Vee’s. For one second I thought, oh, she sees all of it, she is going to name it. But no, she gives Vee the Pace explanation, or lets Vee take it, and that may be worse. Randi knows how to make a door and also how to leave it apparently closed.
+Cassie at the end made me cackle. The outfit as confession: coat, his sweats, Randi’s heels. “Hmm.” Perfect roommate response. Also: Randi’s shoes are now basically accomplices, and Randi absolutely knows it.
 
-The goodbye kiss and the neck kiss. My entire attention sharpened. The mouth kiss is already “as they do,” which is insane and also perfectly believable because Vee has normalized it under friendship. Then Vee kisses the neck where she cried, and Randi flinches and laughs it off as ticklish, but I do not trust that flinch. That felt like contact hitting the real wire.
-
-I am a little itchy that Vee still hasn’t told Randi about the kiss-after-oral moment with Pace. Not because I need her to report every detail like homework, but because she has made “telling Randi everything” part of the erotic structure, and now the first withheld thing has weight. She says Thursday. Sure, girl. Thursday is where all innocent things go to become plot.
-
-Mostly, I’m pulled hard again. This is exactly the kind of chapter that makes the sex hotter by making the emotional geometry worse. Pace isn’t even present, and he’s everywhere; Randi is present, and Vee cannot admit how much. The semester is going to be a bonfire.
-
-GATE 56 — Covering
+GATE 55 — Nothing Underneath
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 9
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This had everything I want from this book: heat, aftermath, social danger, and Vee’s self-deception getting thinner by the page. The Randi/Vee current is now openly alive to me, even if Vee keeps calling it Pace, and I need the Wednesday dinner like I need gossip and oxygen.
+WHY: This was the chapter I wanted after all that cold silence: Vee acting, risking, wanting, and being received with heat and tenderness both. I still know the naming problem is not actually solved, and the Randi/Pace secret is sitting under the floorboards, but right now I am absolutely turning the page.

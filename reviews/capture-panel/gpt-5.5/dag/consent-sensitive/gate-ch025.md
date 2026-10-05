@@ -1,31 +1,27 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~178a1c64010d · 2026-09-11*
+*capture-dag-v2-rich · gate ch023 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~8aff12752f2e · 2026-09-11*
 
 REACTION —
 
-Oh, this one got under my ribs.
+Oh no. Oh, this one got under my skin in a different way.
 
-I was braced after the Randi/Pace chapter, honestly. Chapter 24 put the machinery right in front of me: they are talking about Vee in bed, they are both wanting her, they are assessing her readiness, and Pace says he wants her to get there on her own while sitting inside a plan she still doesn't know exists. So I came into this waiting for the book to either soften him too conveniently or show me the rot. And instead it did something more interesting and more dangerous: it gave him history that makes him legible without excusing him.
+Because the first half is delicious. I mean, *delicious*. Randi walking into Vee’s dorm room and making the ordinary room visible to Vee again by being too bright for it, too worldly for it. I felt that little class/social ache immediately: Vee’s own space suddenly looking smaller because Randi is inside it. Not ugly-small, but exposed-small. And Vee wanting to be seen in the dress, not just show the dress, felt so true to where she is now. She wants witnesses. She wants the woman in the mirror to exist outside Pace’s house.
 
-The food talk almost undid me in the gentlest way. Vee describing casseroles and church basements and Cool Whip containers, and Pace immediately finding the affection inside it instead of making her feel provincial. That is exactly why he works on her. He doesn't sneer at where she came from. He notices the hand under the thing. I hate how much I love him for that, because yes, that is care, and yes, that care is also part of why she is open to him.
+And Randi looking at her in it. God. That “He didn’t make this for you. He made it to you.” I hate how good that is. I hate that Randi is exactly the person who can name the thing Vee needs named. That’s why she’s dangerous. She doesn’t just flatter Vee, she translates Vee to herself. She gives Vee language that feels like rescue. And sometimes it is rescue. That’s the awful part.
 
-And then Peter. His real name being Peter felt like a little trapdoor. Not because “Pace” is fake exactly, but because suddenly there is a boy under the beautiful competence. The hall during math class made me furious in that quiet adult way where you want to go back in time and remove a child from a room. “They took the thing you loved and made it the punishment” is Vee seeing him with the same precision he uses on her, and I loved that. I loved that she did not make a performance of sympathy. She touched the place and did not grab it.
+The cheap shoe store scene almost made me relax completely. I loved them there. Vee on her own ground, funny and quick and not intimidated, making Randi lose it over the busted flat. That was the most mutual they’ve felt in a while, like actual girls being idiots together in public, with Vee getting to be the charming one. I wanted to live there longer. I wanted that friendship to be clean.
 
-But Daphne. Yeah. There it is. There’s the old wound with the ugly shape. Nineteen and fifteen, assigned to him, “to help the child find his feet,” and he still calls it the best two years. The book knows. Thank God, the book knows. Vee knows enough to go still; she knows enough to do the arithmetic; she knows enough to nearly form the word and not say it. And the sentence that really mattered to me was that he “had handed her the thing that had hurt him and named it luck.” That is the book looking straight at the problem. Not coyly, not with a wink, not asking me to sigh over Daphne as first love. It understands that his template for intimacy may have been built inside something exploitative before he had language for it.
+Then the boutique. Whew. The second they walk in, the floor tilts. Not sexually at first, financially. Vee cannot afford to be in the room, and Randi knows exactly how to make that unsayable. And she does it with beauty, with certainty, with the dress as moral logic: the shoes aren’t a want, they’re what the dress is owed. That is such a nasty, perfect little trap because it doesn’t feel like pressure from outside. It becomes Vee’s own thought. Randi supplies the weather, and Vee breathes it.
 
-Which makes him scarier, not safer. His obsession with exact consent, with letting Vee choose locally, with not pressing the scar story, with doors instead of walls — all of that suddenly has a source. He knows what it is to be young and out of place and grateful to be chosen by someone older who has the map. Does he understand that he is now, in some ways, holding the map for Vee? Or has he built a whole ethics around the wrong lesson: that if the vulnerable person feels lucky, then nothing has been taken?
+The foot scene was hot. I’m not pretending it wasn’t. Randi on one knee, “I’ve got her,” touching the polish, that tiny thumb over the big toe, Vee grabbing her shoulder because it shoots through her. That is charged as hell, and Vee is absolutely not imagining it. Randi knows what she is doing. She may be playing it socially deniable, but her body language is not neutral. She is touching Vee like someone who wants her and like someone who knows Vee does not yet have the categories to defend herself from wanting back.
 
-That is the live wire for me.
+But the credit card moment is where my stomach dropped. Not enough to quit, because the book knows. It knows. It lets me feel the exact humiliation and thrill and self-betrayal of the purchase. Vee knows she doesn’t have “the next part.” That phrase is the whole bruise. The chapter lets the shoes be beautiful and still lets the money be real. It doesn’t pretend luxury is harmless just because desire is pretty.
 
-The lifting parallel worked on me too. I believe him when he says presence frees him. I believe Vee when she recognizes that same total attention in sex. That is the erotic center of this book for me: not just dominance, not just competence, but being met by someone whose attention does not wander. I get why she is gone. I’m gone a little too, against my better judgment, which is exactly the uncomfortable delicious place this book keeps putting me.
+And Randi buying her own wildly more expensive shoes beside her without looking? That was brutal. Not villain-cackling brutal. Socially brutal. She doesn’t even have to offer to pay to create the imbalance; honestly, offering might have been cleaner. Instead Vee gets to stand there bleeding private panic while Randi performs effortless abundance. And Vee still leaves thinking she’s never had a friend like this. Which is true. It’s just not only true in the way Vee means.
 
-And the scar: “Not tonight.” I loved that boundary. I loved that he did not yank her hand away, did not make her ashamed for touching, did not tell her and did not refuse her forever. A door with a time on it. That felt genuinely intimate.
+I am very captured, and very wary. This chapter moved Randi from “dangerous confessor” into something sharper: she can spend Vee’s money without touching her wallet. She can get Vee to choose extravagance and feel like the choice came from dignity. That is the pattern of this book in miniature, and I am still here because the chapter absolutely sees it.
 
-But I am also more worried now, not less. Because this chapter made Pace tender and wounded and ethically careful in the immediate moment, while deepening the possibility that his whole private morality has a blind spot shaped like his own survival. He may not think Daphne did anything wrong because admitting it would rearrange him. And if he cannot admit what missing power and missing context did to him, how is he going to admit what missing information is doing to Vee?
-
-So yes. Captured. Uneasy. Softened toward him and more afraid of him. That’s a nasty little combination, and I mean that admiringly.
-
-GATE 25 — Rock
+GATE 23 — Sorority
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: “She was nineteen.”
-WHY: I almost recoiled there, but the chapter did not romanticize past the danger; it let Vee feel the wrongness and let Pace’s defense of it reveal him. This is exactly the difference I’m reading for: the darkness is not invisible to the book, and now I badly need to see what Pace does when that same logic points back at him.
+CAPTURE: 8
+ALMOST-STOPPED: “She knew that even while she did it — that she did not have the next part, the paying-it-back part, that it would be sitting there next month — and she signed her name and smiled and let none of it reach her face, because the one thing she would not do in this room was flinch.”
+WHY: That hurt in a way the sex hasn’t, because money is such a clean instrument of power here. But the book knows exactly what Randi has done and exactly what Vee is swallowing, so I’m not leaving. I’m leaning forward, worried.

@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-01*
+*capture-dag-v2-rich · gate ch045 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-01*
 
-REACTION — Oh. Oh, that hurt in the quietest possible way.
+REACTION — my stomach did that little sink-and-tighten thing here, because this is the chapter where the outside world brushes the edge of the dream and Vee has to start translating Pace into normal-people language. And he does not translate. Not cleanly. Not to parents, not even to Cassie, maybe not yet to herself.
 
-I was so ready for that porch to be another one of their holy little domestic rooms: quilt, cool glass, moon over the mountains, coffee already waiting for her. It’s exactly the kind of Pace scene that usually gets me, because he has made such a place for her body and her mornings. And then she finally, finally finds a way to hand him the shape of *I love you* without saying it, and he… doesn’t meet her there.
+The cropped photo got me immediately. Of course her mother has the safe version in her purse, proud and crying, and of course the real version is somewhere else entirely, belonging to Pace and Vee and that whole private weather between them. I felt the tenderness of her parents so much here, actually. They are not monsters. They love her. They are proud. Her dad burning the rolls on purpose is such an ordinary-family detail that it made the hidden parts feel sharper. Vee is not escaping some cartoon awful home. She is loved there, and still there is no room in that house for the whole shape of what is happening to her.
 
-Not cruelly. That’s almost worse for me. If he had brushed her off, I could be angry cleanly. But “I love how good we are together” is warm enough to keep her from leaving and wrong enough to lodge under the ribs. It answers the sex, the chemistry, the miraculous fit of their bodies. It does not answer *her*. It does not answer the little girl who had been eating crackers her whole life. And I felt Vee feel that before she could think it, that tiny body-level *wait*. That was painfully exact.
+And I loved, painfully, that she understands her father so well. She knows exactly which facts would please him, which would unsettle him, which would send him hunting for the catch. “Too good is its own kind of suspicious” is exactly the kind of thought a daughter has when she knows her dad’s mind from the inside. It made me feel how practiced she is at editing herself for safety, not because anyone is cruel, but because whole parts of her life don’t fit the forms her family recognizes.
 
-This chapter scared me more than an obvious fight would have. Because this is how a woman teaches herself not to ask. She gave him her best sentence. He gave her something adjacent, something true maybe, but smaller, safer, less exposed. And then the quilt is warm and his hand is on her shin and she files it away with the other unreconciled things. That pile. God, that pile. The secret about Randi is in there. The family door is in there. The moments where she has to do “small repair work” on what she knows about him are in there. Now this is in there too.
+The dress-making part hit differently than I expected. Pace sewing that dress has always been intimate, but here, placed beside “sex he understands,” it becomes almost more exposing than the sexual truth. That’s the weirdly sacred thing about him: the care is too specific. It’s not just that he desires her. It’s that he listened once to something she couldn’t afford and then made it with his hands. I can see why she can’t tell her father. How do you explain a man who spanks you and feeds you and sews you into beauty and gives you drawers and wears a shirt all weekend so you can sleep in his smell? You sound insane. Or owned. Or adored. Or all three.
 
-I’m still not ready to quit, because the book knows this is wrong. It is not asking me to swoon over the mismatch. It let Vee’s body notice. It let the disappointment survive the tenderness. But my trust in Pace took a hit. Not because he failed to say the exact magic words on command, but because she risked something huge and he answered only the part of it that flattered the arrangement they already have. If he really “never had this either,” then I need him to stop hiding inside careful sentences and meet the girl who is all but standing there with her heart in her hands.
+Cassie was perfect here, and I mean that in the way I trust her. “So what is he. Not to your dad. To you.” That question is clean as a blade. No judgment, no gossip hunger, no Randi-ish shaping. Just: say the real thing if you can. And Vee can’t. Or won’t. And then Cassie does not push, which is right, but I completely understood Vee being grateful and also a little not. Because part of her wants someone to press the bruise. Part of her wants to be made to say it.
 
-GATE 46 — Seconds
+This was quiet, but it tightened everything. The cropped induction picture, the boyfriend question mark, the facts that fit, the facts that don’t. Vee has all these compartments now: parents get the waist-up version, Cassie gets the careful version, Randi gets the hot version, Pace gets the body and the sleeping and the drawer. And underneath all that, there is still the version nobody has yet: the one where Vee knows what this is and what she wants to call it.
+
+GATE 45 — Cropped
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 7
+NEXT: 8
 HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: “I love how good we are together.”
-WHY: That sentence made my stomach drop, because it was tender and insufficient at the same time. I want the next chapter badly now, not for heat, but because this is the first real crack in the warm house, and I need to know whether he sees it before she teaches herself to live around it.
+ALMOST-STOPPED: none
+WHY: This didn’t give me Pace in the room, but it made his absence press on everything, which is almost as good in a quieter way. I want the next chapter badly because Cassie has now asked the plain question, and Vee’s inability to answer feels like it’s bringing the secret, the relationship, and the naming of all this closer to the surface.

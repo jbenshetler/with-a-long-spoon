@@ -1,21 +1,19 @@
-*capture-dag-v2-rich · gate ch036 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~9782a926aac2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch033 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~d4837de434ed · 2026-09-11*
 
-REACTION —
+REACTION — Oh no, this got me.
 
-Oh, Cassie. God, I missed Cassie.
+Not in the “oh no, I’m worried the book doesn’t know what it’s doing” way. In the “oh, Vee is starting to perform desire on purpose and I am in trouble” way. This chapter feels like a little chamber piece after the big induction and the spanking chapter, but it has that dangerous afterglow where a woman realizes she can make an erotic event happen instead of only being overtaken by one. She brings the dress. She brings no overnight bag, because of course she is still playing that little denial game with herself, but she brings the dress. Ma’am. Your subconscious packed the overnight bag.
 
-This chapter felt like someone opening a window in a room that has gotten too warm and too perfumed and too full of Pace-and-Randi air. Not because Cassie kills the glow. She doesn’t. That’s what I love about her. She sees Vee lit up and she lets her be lit. She calls her a public utility and lets her gush and doesn’t make the happiness embarrassing. But then she places one clean hand on the actual shape of it: “You don’t come home school nights.”
+What I loved is that this is not Pace staging her. This is Vee staging Pace, just a little. She gives him instructions. “Go to the den. Wait for me in the recliner.” And he does. That matters to me. He stays where she put him. He waits outside the bathroom. He brightens the lamp but doesn’t come down the hall. The looking is charged, obviously, but it is also bounded by her direction. That made the heat feel clean to me, or at least clean inside the bigger dirty premise.
 
-That landed harder on me than any big confrontation would have. Because Vee hasn’t counted. Of course she hasn’t counted. She is inside the warmth, the food, the sex, the drawer he gave her, the way his house keeps becoming a place for her body before her mind has caught up. And Cassie, blessedly outside the spell, doesn’t say he’s bad, doesn’t sneer, doesn’t compete. She just notices that Vee’s life has tilted.
+And the dress finally coming back to its maker: yes. The induction walk was hers, and the secret of being bare under it was hers, and I liked that she didn’t send Pace that whole truth in the photo. But now she decides he deserves to see the finished thing, and also decides she wants him to know exactly what the world didn’t know. That second “costume” is filthy and vulnerable and funny and brave. “And this is what I had on under it” is the kind of line I would text a friend at 1 a.m. with no context except screaming.
 
-And I felt Vee’s happiness here. I really did. The baked tomatoes, him watching her eat, the burn on her breast because she wasn’t wearing enough, the house warm enough that clothing stops being a concern. It’s domestic and erotic in this soft fused way that absolutely would make a twenty-one-year-old lose her footing. I believe she loves him, or is falling into something that feels indistinguishable from love while she’s in it. The problem is that the book knows “fast” is not a small word. Vee says it herself. That steadied me.
+I am also still watching the Randi thread pulse under everything. The shoes are not neutral. Randi is literally on Vee’s feet while Vee shows Pace the finished self. Pace says “They complete it,” and yes, they do, and he does not know the full charge of that completion unless Randi has told him. Maybe she has. Maybe he knows enough. Either way, Randi is in the room without being in the room, which has become this book’s favorite form of haunting.
 
-Cassie asking “Do you love him” in that flat practical way made me want to hug her. She isn’t dazzled by Pace’s care, and she isn’t dismissing it either. She’s making Vee hear herself. That’s the thing Randi almost never does unless the hearing serves the direction Randi wants her to go. Cassie gives no interpretation, no wardrobe, no erotic script, no instruction. Just the question. Just the mirror.
+But this chapter gave Vee agency in a way I badly needed after how engineered everything has been. Not full knowledge, no. The hidden plan is still a black hook in the ceiling. But within what she knows, she is choosing with real appetite. She makes the erotic frame, she controls the reveal, she asks him to choose, and then she stands there and does not cover herself. I believed her pride. I believed her blush. I believed the heat.
 
-I’m worried, though. Not less worried. More, maybe, because this is how enclosure can look when it’s pleasurable: not chains, but heat; not orders, but habit; not “move in,” but a drawer, a warm house, school nights disappearing one by one. Pace’s care remains almost unbearably attractive, and the book is still letting me feel why Vee would want all of it. But Cassie being present again reminds me that someone outside the plan can see the outline. I badly need her to keep seeing it.
-
-GATE 36 — School Nights
+GATE 33 — Made-Up
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 ALMOST-STOPPED: none
-WHY: This was quiet but it pulled me hard because Cassie is exactly the kind of witness I’ve been needing back in the room. Vee’s happiness is real, and so is the speed and enclosure of it; the chapter knows both, which keeps me trusting the book.
+WHY: This chapter pulled hard because Vee got to be the one arranging the scene, and Pace’s restraint made the looking feel earned instead of taken. The hidden manipulation is still alive under the floorboards, especially through Randi’s shoes, but the book knows that and keeps letting the charge be complicated.

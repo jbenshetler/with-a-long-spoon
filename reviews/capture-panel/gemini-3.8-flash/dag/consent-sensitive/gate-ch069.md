@@ -1,30 +1,20 @@
-*capture-dag-v2-rich · gate ch069 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha be90efe95687 · 2026-09-24*
+*capture-dag-v2-rich · gate ch065 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 022d1f399ba9 · 2026-09-24*
 
 REACTION
 
-God, my stomach is in absolute knots.
+God, the *mechanics* of this chapter made my stomach drop, and I mean that in the most devastatingly appreciative way. This is Rivers operating at the absolute peak of her psychological precision.
 
-The quiet chapters really are where the instruments show, and Rivers is playing this like a cello. Chapter 69 is an absolute masterclass in the agony of an emotional trap snapping shut from the *inside*. Vee isn’t being dragged kicking and screaming into Randi’s orbit; she is frantically building the ramp herself while her conscious mind screams that she’s just tripping.
+The transition from the hothouse sex of 61 and the domestic sweetness of 62–64 into the brutal, fluorescent reality of an aesthetician’s table on Draper Street is harrowing. Pace didn't have to force her. He never forces her. He just uses the flat syntax of a fact: *"I'd like you waxed. By the weekend. Bare. Will you?"* And Vee, so hopelessly addicted to the intoxicating currency of his attention, hands over her blank-check *yes* before she even knows what the invoice contains.
 
-Look at the progression here. On Saturday night, she panicked, ran to Pace, and let him milk the confession out of her like venom from a snakebite—convinced that by turning it into a "game" with her *boyfriend*, she had neutralized it. She thought having rough, possessive sex with Pace would crowd Randi out of her head. And what happened? Sunday was just an echo chamber. Monday was an open nerve. She lay in the dark with her hands pinned to her stomach like a chastity belt because she knew—she *knew*—that touching herself meant touching the memory of Randi’s mouth.
+And then Randi. *Randi.* "Barely stings." The sheer, calculated cruelty disguised as sisterly pampering! Randi omitted the back. She omitted the posture. She omitted the sheer indignity of presenting yourself face-down on crinkling butcher paper to a stranger with a wax pot, because Randi needed Vee to cross that threshold without armor. When Sondra said, *"Okay. Roll over for me, hon. Onto your front,"* my chest seized. That moment of the "false floor"—realizing you agreed to a totality you didn't understand, and that refusing the last ten percent feels impossible because you already gave up the first ninety—is the most terrifyingly accurate anatomy of soft coercion I have ever read.
 
-And then Tuesday hits, and the psychological mechanics are just breathlessly good. Dr. Marsh is up there talking about Mauss and the three obligations: *to give, to take, and to pay back. A gift is a debt you lay on someone whether they wanted it or not.* And what has Randi been doing since October? Giving, giving, giving. Outfits, wine, attention, intimacy, touches, "handling" her. Vee is drowning in erotic and emotional debt, and she doesn't even realize the bill has come due.
+What broke me was Vee’s body confusing the aesthetician's clinical hand pinning her thigh with Pace’s hand. *"The wrong hand. It held her the exact way she wanted to be held and it did not want her at all, and what it did, pinning her under the flat of its palm, was open a hole in her a mile across where the right hand should have been."* That is sickeningly good writing. She is so conditioned now, so deeply wired to turn physical submission and exposure into erotic anticipation, that she dissociates right into a fantasy of his approval to survive the tearing of her own skin.
 
-The moment on the sidewalk outside the dorm made my hair stand on end. Vee thinks she's setting a boundary by dodging the kiss on the mouth—*I'm sick, I'm protecting her, I'm holding the line*—and Randi just ruthlessly, effortlessly pivots and takes the hollow of her neck. The exact soft hollow Vee had kissed before. It's a retaliatory strike, an erotic claim, and a pure power move wrapped in flirtatious sorority laughter: *"See? How do you like it?"*
+And the ending! The pure, tragic delusion of it. She touches herself, feels the freakish, plucked smoothness, and immediately reframes the whole humiliating violation as an offering for her monarch: *"the most expensive thing in the room."* She thinks she bought herself power. She thinks she bought his love. In reality, she just paid out of pocket to groom herself into the exact stripped-down fantasy Pace and Randi mapped out while fucking in Chapter 61. She is being prepped like a feast, and she’s tipping the waitress.
 
-And what does Vee do under the electric shock of that violation/invitation? Her brain short-circuits, the shame and the craving collide, and instead of pulling back, she *offers up Saturday.* She doubles down. She cancels dinner to escape the heat, gets branded on the neck on her own doorstep, and immediately buys another ticket for the weekend.
-
-Then she walks into the room, and there is Cassie.
-
-Thank god for Cassie. Cassie, sitting on the lower bunk with the winter cold still coming off her coat, asking the one question that cuts right through the perfume and the hothouse steam: *"What was that with you and Randi?"* Cassie *saw* them. Cassie watched that neck-kiss on the stoop. And Vee—who always has an economics metaphor, who always has a self-deprecating sorority joke, who can spin Pace's entire domestic fortress into a romantic comedy—has *nothing*. The silence at the end of the chapter is deafening.
-
-The author knows *exactly* what is happening here. The framing isn't naive; it's horrifyingly lucid. Vee is trapped between two prodigies of manipulation who are quietly dismantling her life, and her only anchor to sanity is a roommate who just watched the mask slip. I need the next chapter immediately.
-
-***
-
-GATE 69 — Coming Due
+GATE 65 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The tension here is exquisite and terrifying. Rivers executes the psychological claustrophobia of Vee's denial with surgical precision, and ending on Cassie's cold-eyed outside perspective is the exact reality check this arc needed.
+WHY: The psychological horror of the "false floor"—realizing she consented to something she didn't fully understand and feeling too stripped of boundaries to say no to the rest—was depicted with agonizing, pitch-perfect clarity. Rivers understands every millimeter of how bodily autonomy gets eroded under the guise of eager submission. I need to see what happens when Pace actually lays hands on what he ordered.

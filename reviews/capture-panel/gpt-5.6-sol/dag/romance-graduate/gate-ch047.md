@@ -1,32 +1,22 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-01*
 
-REACTION
+REACTION — Oh, that hurt. She handed him the closest thing to *I love you* she could survive handing over, beautifully and unmistakably, and he answered the safer question. “I love how good we are together” is what you say when you want to preserve the warmth without accepting the meaning. Then he made it about what her body does. She offered him the whole meal—food, home, sleep, attention, the changed texture of her life—and he answered with sexual compatibility.
 
-Oh, Vee. She finally asks the right question and then lets him answer a different, easier one.
+And “I never had this either” made me go cold, because Randi exists. Maybe he means this exact bond, this exact bodily abundance, and perhaps that is technically true. I do not care. He knows there is an entire concealed relationship sitting inside the word *never*. Vee is searching his sentences for love while lacking the information required to understand them.
 
-“Where do you want to go tonight?” is not an answer to “Is this what we are now?” It is Pace doing what he always does: translating an emotional need into a solvable physical arrangement. Restaurant too loud? Pick another restaurant. Vee feels insecure? Listen harder, touch her better, bring her home. It is loving. It is also becoming infuriating. He keeps making the room perfect so neither of them has to name what is happening inside it.
+The most painful part is that her body catches the evasion immediately. That little *wait* behind her breastbone is the same intelligence she keeps suppressing whenever warmth follows quickly enough. And Pace knows how to provide warmth. He pulls her close, kisses her hair, gives her every physical sign of reception except the answer she asked for. I don’t think he is cold or consciously cruel. I think he loves her and is frightened or damaged or protecting the hidden structure he built with Randi. But the effect on Vee is the same: she offered herself, then had to construct the phrase “received warmly” as evidence for the defense.
 
-The restaurant hurt because I could see the misunderstanding forming and neither of them had enough language to stop it. His distraction plainly wasn’t rejection, and I was desperate for her to notice the fork, the screens, the music, the sheer assault of the room. But of course she couldn’t, because she arrived already frightened that he only wants her in private. Every glance at the television became evidence for the case she had brought with her. Then he explained it so simply—“In a room like that I listen as hard as I know how and I still can’t hear you”—and I melted despite myself. That is such a profoundly intimate thing to say. “I’m listening now” is nearly devastating.
+Her certainty that the words “go through him first” made me furious and sad. No, sweetheart. There is no rule. There is only the rule you invented because you already know, somewhere, that you are less safe in this love than his tenderness makes you feel.
 
-Nearly. Not enough.
+The chapter did explain the mismatch a little longer than I needed; I understood it at “something else was beginning to move.” But I was too emotionally caught to leave. The pile of “small repair work” is the real alarm. This is how a woman begins editing her own perception to preserve a man she loves. I want Cassie in that laundry room. I want Vee to say both sentences aloud to someone who won’t help her make them match.
 
-The sex was extremely hot because for once I wanted exactly what Vee wanted: I wanted his control to crack. When it did, I felt the satisfaction of it right along with her. She can move him out of that immaculate patience; she can make him urgent and helpless. That matters. But the chapter refuses to let sexual surrender stand in for emotional surrender, thank God. She gets proof that he wants her and still lies awake knowing desire is not the answer she asked for. That distinction is precisely why I’m still here. A lesser spicy romance would call the rougher sex the resolution and send everyone to sleep glowing.
+Text to a friend at 1 a.m.: **HE SAID “I LOVE HOW GOOD WE ARE TOGETHER.” That is not the same sentence and her body knows it. Also this man has a secret girlfriend. I am unwell.**
 
-Her deciding she had “forgiven” him made me want to grab her shoulders. Forgiven him for what? Having sensory limits he explained the moment she accused him? That word lets her restore herself as the generous one and tuck her original question back under the rug. Some part of her knows it, too. The forgiveness feels good only until the sex wears off. Then the actual question returns untouched.
-
-And now I’m more suspicious of Pace’s silence than ever. He heard the meal sentence. He heard “Are we just sex?” He heard her ask whether they would ever be seen together. This is no longer a man innocently failing to interpret hints. Vee has not said “I love you,” no, but she has laid the entire shape of it in his hands twice, and both times he has carefully answered around the center. Maybe he is frightened. Maybe his past has made names intolerable. Maybe he believes his acts are clearer than words. But he is too perceptive for me to believe he simply doesn’t know what she is asking.
-
-The ending made me ache for her. She is finally separating “he desires me,” “he cares for me,” and “he has chosen me,” instead of letting the first two automatically prove the third. Pace may in fact love her—I think he does—but she cannot build security out of evidence he refuses to label, especially when there is an entire hidden relationship waiting to detonate beneath her. Her thought that she belongs to him while not knowing whether he belongs to her is the danger in one sentence.
-
-Also: the food metaphor started pushing too hard. I understood that the nachos tasted dead because Pace had awakened her senses; I did not need the billboard, painting, palette, and muddy brown to explain it again. But that was a brief irritation inside a chapter that finally made contact with the central wound.
-
-I am already turning the page. The disclosure cannot be postponed much longer. Vee has begun asking what they are, which means Pace’s secret is now sitting directly inside the question he declined to answer.
-
-GATE 47 — Under the Rug
+GATE 46 — Seconds
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: “It was to food what a billboard is to a painting.”
-WHY: This finally forced Vee’s fear into the room, then showed me exactly how sex can soothe it without resolving it. I’m furious with Pace’s beautiful near-answers, aching for Vee, and desperate for the hidden structure to break open.
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: “She had told him something. He had told her something back. He had pulled her close and kissed her hair. The morning had continued. She had been received.”
+WHY: The repeated explanation came close to doing Vee’s emotional work for me, but the wound itself landed hard. This is the first time Pace’s tenderness has felt not merely incomplete but actively useful as cover, and I need to see whether Vee’s little *wait* survives him.

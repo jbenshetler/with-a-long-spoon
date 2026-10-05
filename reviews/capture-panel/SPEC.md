@@ -963,3 +963,48 @@ difference is the cap, not the middle. Chapter-alone ch30 (borrowed ck-ch020): t
 says she did (ruling pending). Whole-volume tokens: Book A ≈110k in, ≈9k out, one call;
 per-chapter with raw-all memory would be 1.6M per lane for Book A and 5.9M for A+B, so
 per-chapter reading keeps minting and whole-volume reading needs none below ~400k tokens.
+
+## Gate renumbering: the filename is the only chapter key (repair 2026-10-05)
+
+**The hazard.** A gate's chapter identity lives in its **filename** and nowhere else that
+the tools read — `capture_dag.py` locates gates with `gate-ch{n:03d}.md` and
+`capture_stats.py` parses the number out of `gp.name`. Reader-sequence numbers come from
+the chronology, so **drafting a chapter into the middle of the chronology renumbers every
+later chapter** and silently invalidates every gate filename above the insertion. Nothing
+in the harness notices.
+
+**What was found.** Inserting `{{Four}}` at reader-sequence 43 (2026-10-04) was expected to
+shift gates ≥43 by one. A verification pass against each gate's own recorded chapter
+title instead found **accumulated, un-propagated drift from earlier insertions**: bands of
++2 through +6 in `gpt-5.6-sol`, `gpt-5.5`, `claude-opus-4-8`, `glm-5.3` (gates ~57–70) and
+`gemini-3.8-flash` (+4), with every `consent-sensitive` lane carrying bands at +2/+3/+4/+5/+6.
+`claude-opus-5` and `claude-fable-5-1` were clean. Consequence: for the four older lanes,
+every `capture_stats` aggregate above ch56 had been attributing reads to the wrong
+chapters, and `--check-stale` had been comparing those gates' `prose-sha` to the wrong
+chapter text. (Reads at ch31–56 were unaffected, so the 2026-10-04 ch31–56 cross-model
+report stands.)
+
+**How it was repaired — by recorded identity, never by arithmetic.** Each gate was renamed
+to where its *own content* says it belongs, in this order of keys: the `GATE n — Title`
+line matched to the chronology; a normalized/slug fallback (models sometimes write
+`broken-in` or a truncated title); the header's `· gate chNNN ·`; `prose-sha` matched
+against `chapter_sha(n)`; and for one file, identifying detail in the reaction text.
+698 files moved across 29 lanes; 820 were already correct; nothing was left unplaced.
+
+**Two residues to know about.**
+
+- **The internal `GATE n — Title` line was deliberately not edited** — it is the model's
+  own output and part of the record. In a renumbered gate it reports the number that was
+  current when the read happened, so it will disagree with the filename. **The filename is
+  authoritative; the title on that line is the reliable field.** Six gates also carry a
+  model-mistyped title (e.g. `GATE 26 — Sorority` on a read of {{Gone}}); they are in the
+  correct slot.
+- **Decade checkpoints were not re-minted** (author ruling: no mints). In the previously
+  drifted lanes, `ck-ch050` and above consolidate a span that no longer matches their
+  name, and **none of them contains {{Four}}**. Gates at 43–50 are clean (boundary 40, and
+  the raw window covers 43); anything built above 50 on those checkpoints carries a hole
+  where {{Four}} is. Those lanes cannot be extended past 50 without re-minting.
+
+**Standing rule.** After drafting a chapter into any position but the end, re-run the
+identity-keyed repair before trusting `capture_stats` or the staleness tiers. Arithmetic
+shifts are not safe, because the drift is not uniform across lanes.

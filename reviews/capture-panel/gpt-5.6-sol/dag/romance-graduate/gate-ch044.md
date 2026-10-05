@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-01*
+*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-01*
 
 REACTION
 
-Oh, the shirt got me. Absolutely got me. Not because sniffing your man’s flannel is new-romance territory—I have read that scene in fourteen fonts—but because she brings it back to be refilled. Because he misunderstands for half a second and she sees the hurt before he hides it. Because she has to confess the humiliating full size of her need, and he does not tease her, soothe her with a speech, or make her regret showing it. He just puts the ridiculous thing on over the shirt he is already wearing. That is exactly the kind of tenderness I’m here for: specific, faintly absurd, and so intimate it makes her cry.
+Oh, Vee. You sweet, decent girl. The instant she understood that Randi had just discovered something awful about her own father, she stopped looking. She gave her work, questions she could answer, somewhere to put her hands. She protected Randi’s dignity so quietly that Randi never even knew she’d been seen.
 
-And yes, the reunion worked on me. Her trying to tow him faster while he calmly dismantles her pace, her hopping out of the jeans, the bra caught from behind so she has to unwind herself out of it—hot. Playful, bodily, undignified in the best way. Nothing felt like a prefabricated “five days apart” sex scene. Her first orgasm publicly betraying the count she refused to admit was especially delicious. Her body keeps telling on her, but here it didn’t feel like somebody else was interpreting her into a desire. It was simply hers, loud and obvious and welcome.
+And that makes me furious, because Vee has just demonstrated exactly the grace Randi and Pace have refused to give her: she sees a secret that could humiliate someone she loves, understands it is not hers to expose, and carries the knowledge carefully. Meanwhile, those two have built whole rooms of her life around a secret she actually has a right to know. Vee is already emotionally capable of handling complicated truth. They are not protecting her because she is too young or too fragile. They are protecting the arrangement.
 
-The emotional snag is still Pace’s silence. She wanted him to say he missed those nights. He didn’t. Then he briefly believed she was returning the shirt and “decided not to ask,” because apparently this man can make space for every toiletry and appetite she owns except a direct question. His gestures are beautiful; they are also doing an alarming amount of work that words should eventually share. Vee keeps reading his actions correctly until the day she won’t, and the book has already shown us how quickly a cleared counter can become rejection in her mind.
+Randi’s “Cheating bastards” got me. That was the first time I’ve seen her completely without choreography—no polished confession, no teasing ambiguity, no expertly placed story. Just the daughter finding her father inside the ugliest point on the graph. I felt for her enormously. I also noticed how quickly she came back brighter than before, and now I understand another part of her: presentation may not simply be how she manipulates people. It may be how she survives knowing things.
 
-I also noticed that strange table again. “Long, unusually proportioned” is the prose putting a fingertip on it, and after this much domestic softness I am very aware that another door is standing inside the bedroom waiting to be opened. I want it. I also want the much more dangerous door—the truth about Randi—opened first. This chapter fed me beautifully, but Pace wearing two shirts does not buy him another ten chapters of “not yet.”
+The three of them in that room were painful in such a grown-up way. Cassie is right and has no idea her truth has cut directly into Randi. Randi is wrong because she trusted her father’s version of himself. Vee loves them both and immediately becomes the keeper of what neither knows about the other. That middle seat is starting to look less like belonging and more like a job.
 
-GATE 44 — The New Ordinary
+And yes, the outlier is doing very obvious symbolic labor. The ending underlined it after I already had it—the largest ugly fact, invisible until you know where to look, hello Pace and Randi—but I was too emotionally caught to resent it much. Mostly I’m sitting here thinking: Vee knows how to keep a secret out of kindness. What happens when she learns what their secrecy has actually cost her?
+
+GATE 43 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: The reunion was genuinely hot, and the flannel exchange gave me the precise grown-up tenderness I keep waiting for. I’m turning the page eagerly, but with one hand still tapping the disclosure clock: his eloquent acts cannot keep substituting for the truths he refuses to say.
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: “the biggest one, off on its own in the white, easy to see if you knew to look for it, invisible if you didn't.”
+WHY: The last line explained the metaphor after I had already felt it, but the emotional reversal is excellent: Vee extends Randi more intelligent care in one hour than Randi and Pace have extended her across an entire relationship. I need the hidden point to become visible now.

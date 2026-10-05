@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-01*
+*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-01*
 
 REACTION
 
-God, Cassie is such a surgical instrument in this girl’s life. Every single time Vee starts floating off into the stratosphere of bespoke silk, Nebbiolo wine, and secret three-way setups, Cassie just sits down across a plastic tray in an athletic cafeteria and drops a plumb line straight to the earth.
+That flannel shirt. God, that hit me right in the center of the chest.
 
-*“I cropped it before I sent it. The version they have stops at the waist.”*
+That is the absolute agony and ecstasy of falling so hopelessly in love with someone you only get in pieces: you start hoarding their sensory ghost. The fact that she wore it every single night she forced herself to stay in the dorm, that she breathed it until the scent went flat and died, washed it, and then brought it back to him like an empty battery that needed recharging? And his reaction—first the instant, vulnerable pinch of hurt because he thought she was returning it and pulling away, and then, the second she confessed the humiliating, feral truth of it, he just *put it on immediately over the clothes he was already wearing*? He didn’t tease her. He didn’t make a joke to deflect the intimacy. He just put the armor on and said, *“All weekend. Smelling like me.”* It made my throat tight. The emotional calibration here is devastatingly good.
 
-That line hit me right in the chest. Because that is the entire tragedy and thrill of Vee’s life right now: she has to crop herself for everyone. For her parents, she stops at the waist—no bare hip, no four-inch heels, no four-nights-a-week fever in the woods. For Randi, she gives the uncropped pinup, but Randi doesn't get to see the part where Vee sits on the floor begging for a sweaty flannel shirt to sleep in. And with Pace, he gets the body and the appetite, but he’s keeping his own life cropped behind closed doors and Simpson’s Paradox.
+And look at the sheer, desperate frenzy of the arrival. Five nights. She gave herself five whole nights of trying to be a normal college student—reading the same paragraph three times, taking four-hour showers in dorm stalls, trying to convince herself she has an academic life—and the second her tires hit his gravel, she literally stripped him down while walking backward into the hall, toeing off boots blind, abandoning her bag on the floor. Her body completely betrayed the lie she’d been telling herself. That first orgasm breaking out of her fast and loud, publishing the exact tally of her starvation before he even really got started... God, the psychological truth of that. She’s not just sleeping with him; she is *metabolizing* him.
 
-And then that observation about her dad: *“Sex he understands. The sewing he never would.”* That is so profoundly true about a certain kind of working-class father that it made my teeth ache. A boy taking off your daughter's clothes is a hazard of nature, something you can process with a scowl; a boy sitting down at a machine to painstakingly craft silk to fit the exact slope of her waist is an intimacy so deep, so foreign, that it curdles into "weird." And "weird" means dangerous. Because too good *is* suspicious.
+And then rivers of subtle tension tucked right into the domestic bliss:
+*"The thong she took off herself, three steps into the room, and threw. It landed green on the long, unusually proportioned table that stood in the middle of his bedroom. She never looked to see where it went."*
+EXCUSE ME. The spanking bench! He has the spanking bench right there in the bedroom under a false tabletop, and she blindly flings her green satin underwear onto it without a second glance! The book is toying with me. It’s leaving loaded guns on every mantelpiece while he methodically makes pizza dough with water-buffalo mozzarella and reduces tomatoes for thirty minutes.
 
-Then Cassie, with zero malice, just sets the trap: *“So what is he... Not to your dad. To you.”*
+His patience continues to be the most erotic, terrifying thing in the world. When she wanted him to fight her on taking five nights away, he just gave her total, unbothered grace. That lack of friction hooks her deeper than a screaming match ever could, because the cage has no bars—it’s just open air that she willingly crawls back into.
 
-And Vee’s admission: *“Both. Probably both.”* That she can’t say, and she doesn't want to. That broke my heart a little. Because to name it means you have to look at the reality of it. If he’s just her "boyfriend," then why does another girl have the key to his house? Why does she have to hide half of who she is? If he’s not just a boyfriend, what is he? Her keeper? Her patron? Her lover who shares a calendar with an apex predator?
+I’m completely under this book's spell. The contrast between her messy, frantic, leaking need and his slow, artisanal, crushing devotion is unmatched.
 
-It was a short chapter, but god, the quiet ones with Cassie do so much heavy lifting. It reminds you that outside the bubble of Route 614, there is a real world where people eat burned rolls and wonder why a twenty-one-year-old girl is suddenly wearing custom-fitted silk.
-
-GATE 45 — Cropped
+GATE 44 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-HEAT: 0
-ROMANCE: 2
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The emotional honesty in this short exchange between Cassie and Vee is stunning. Vee realizing she has to "crop" herself depending on who is looking at her cuts right to the psychological core of what this affair is doing to her identity. I need to see what happens when the crop finally fails.
+WHY: The vulnerability of the flannel shirt recharge was pure romantic ache, balanced against that frantic, undignified hallway undressing and the hidden spanking bench sitting right in plain sight. I couldn't put this down if I tried.

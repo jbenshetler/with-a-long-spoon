@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha bff68c2a8905 · 2026-10-01*
+*capture-dag-v2-rich · gate ch052 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c1f15218cc12 · 2026-10-01*
 
 REACTION —
 
-Oh. This got me.
+Oh thank God, Sheri.
 
-I wanted Pace punished a little, honestly. I wanted him to sit in the cold spot he left Vee in, and the book gave me that, but not in a cheap “look, he suffers too” way. It made him gross and human first: hungover, bleach in the house, showering twice, eating chicken and broccoli like a sentence. I could smell that horrible clean-after-sick bathroom. That is not glamorous male suffering. That is a man who has finally run out of ways to make discipline look like virtue.
+I didn’t realize how badly I needed Pace in a room with someone who would not be enchanted by him. Not Vee, hungry and wounded and trying to translate every plate and touch into proof. Not Randi, with all that hidden architecture and sophistication. Just Sheri in a diner, eating the bigger burger because obviously, stealing fries, saying the thing cleanly enough that it actually lands: if you can’t say it, then not saying it matters more than having her.
 
-And then, damn it, he knows. He knows exactly what he did. That’s the part that got under my ribs. Not “I don’t understand why she needs this,” not “women want labels,” not any of the usual romance-hero dodge. He understood the crackers and meal speech when she gave it. He felt the right answer rise and chose the smaller truth. That makes me angrier at him and softer toward him at the same time, which is exactly the painful place this book keeps putting me. He is not emotionally stupid. He is scared. But Vee still paid for his fear.
+That got me. Because I have been circling Pace with so much patience, giving him credit for tenderness, for presence, for doing. And he does do. He really does. The line about “when I’ve got her, there’s nothing else in the room” is exactly why I’m still in this. He is not careless. He is not playing at devotion. But hearing him stack up all his evidence out loud made the problem sharper, not softer. Every brick true, and still not a house she can stand in.
 
-Daphne helps. Not as an excuse, thank God, but as a key in the lock. I believe a young Pace would have made one person his whole world and then built a whole private religion around never saying the fatal words again. It’s sad and it’s also wrong. The line about teaching himself the words were the difference made me want to shake him because baby, no. The love was the difference. The loss was the loss. The words were just where you put the truth down.
+And the diner itself worked on me more than I expected. This is the place he should have taken Vee. Not Chili’s, not punishment-by-chain-restaurant, but this odd warm county-road place where he can hear, where the food is plain and alive, where the jukebox hurts but doesn’t swallow her voice. I felt that little ache when he thought she might love it or never see it at all. That is the exact fork in the book right now. He has a whole version of himself Vee hasn’t been allowed into yet, and it isn’t because she couldn’t fit. It’s because he keeps deciding things can keep.
 
-The truck moment undid me. His whole body answering before his mind can stop it. That tiny second where the house gives him Vee again, and then takes her back. I didn’t need a grand gesture yet; I needed to see whether the absence reached him. It does. It absolutely does. But I’m also sitting here like: good, now what are you going to do with that? Because crying into cold broccoli is not a declaration. Missing her is not enough. Knowing you love her is not enough. Being devastated is not enough. The chapter title is cruel and perfect.
+Sheri talking about Paige also did something sneaky and painful. It makes Pace’s closed door less isolated: not as an excuse, but as a shared wound. “Call your mama, Sheri, it’s Christmas” is such a tiny brutal sentence. People who still have functional families really do act like estrangement is a stubbornness problem, and I liked that Pace knew exactly what not to say there. He can be emotionally exact. That’s part of why I want to shake him harder.
 
-Also the little Randi blanket detail at the start. Excuse me. That cashmere blanket “for the chill that took her after” just sitting there in his bedroom before we move into Vee grief? The architecture is still in the room. Even when Randi isn’t in the chapter, she is physically folded at the foot of his bed. I noticed, book. I noticed.
+Also: the heat in this chapter is almost entirely secondhand and still alive. Sheri clocking Vee’s body in four seconds, Pace blushing, “the air’s different,” the legs joke, the philosophy of food. It reminded me that his desire for Vee is not generic at all. He is gone on her. Sheri sees it. I see it. Vee cannot feel it from Ohio because he has not crossed the one bridge she asked him to cross.
 
-GATE 53 — Not Enough
+And now I’m tense in the best-worst way, because Sheri has put the moral math where it belongs. No more “words are cheap” little temple of masculine restraint. Say it, or admit the silence has become the thing you are protecting.
+
+GATE 52 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This was the chapter I needed from him: not a fix, not a speech, but the admission under the admission. He knows he loves her, knows he failed her, and now I’m ravenous to see whether he can actually cross the distance instead of making another beautiful meal out of avoidance.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "I'm there. Every weekend, I'm there — the weeknights were hers, she wanted them for her school and I gave her that."
+WHY: I almost bounced off Pace making his case again, because I am tired of his evidence binder, but Sheri cut straight through it before my patience curdled. This chapter made me want the next one badly because someone finally said the truth to him without dressing it up: if he wants Vee, he has to spend the word.

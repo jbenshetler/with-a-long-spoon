@@ -1,25 +1,25 @@
-*capture-dag-v2-rich · gate ch041 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha a3af5d5e997c · 2026-09-24*
+*capture-dag-v2-rich · gate ch038 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 38dcf8e44cd8 · 2026-09-24*
 
 REACTION
 
-My god. The tragedy of this chapter is that it is so profoundly, devastatingly tender, and that tenderness is the exact mechanism of her undoing.
+I feel sick. That quiet, curdling, hollow nausea where you watch someone sign over their life with a bright, adoring smile on their face.
 
-Look at what he did when she pulled away for five days. A clumsy, bad-faith manipulator pouts, or blows up her phone, or gives her the cold shoulder when she comes back to punish her. Pace? He gave her *infinite* room. *"Take the time you need, I'll be here."* And the author understands precisely how that works psychologically: *"the plain grace of that had cost her more than a fight would have."* By making her five-day boundary entirely free of friction, he made the boundary feel like a personal failure on *her* part. He let the vacuum pull her in. He didn't have to lift a finger to drag her back; her own hunger, starved against the cold dormitory reality of four hours of sleep and shared showers, did all the work.
+*"Only if you promise you'll never share me with anyone."*
+*"Never. I'd never share your photograph."*
 
-And then the frantic peeling off of clothes in the hall—she’s practically clawing her way into his skin, hopped on one foot, kicking denim, shedding all dignity—while he just stands there, slow, unhurried, absorbing her frenzy. He lets her publish her own tally. He doesn't even have to brag about having won; she gives him the confession with her own throat before he's even inside her.
+He doesn't have to share it! He and Randi are sleeping in the same bed, debriefing Vee like an assigned project, probably passing his phone back and forth over morning coffee while Sade plays in the background! And the sinister brilliance of the framing—Vee *offers* it. She suggests it! She taps her tooth, she cleans her face to look like an arranged calendar girl, and then he *literally physically poses her limbs*, kissing each joint into place like he’s arranging a mannequin, adjusting the lampshade, angling the camera. He constructs the artifact of her, hands her phone back, and lets her have the illusion of the brave, empowering choice of hitting "send." *Every yes was freely given.* That jacket copy is ringing like a funeral bell.
 
-And the pizza. Oh, the pizza. The prose here is stunning, but what terrified me was Vee's realization while watching him reduce the sauce and hand-knead the dough: *"The care was only the shape his attention took when it came down on a thing, and tonight some of it had come down on her and some on a ball of dough, and she could not have said, watching him, which of them got the larger share, and found she didn't mind."*
-Read that again. *She didn't mind.* She sees, for a split second, that she is an ingredient in his pursuit of total domestic perfection. She is an object under his formidable, hyper-focused attention, just like the yeast, the buffalo mozzarella, the reduction. And because it tastes so good—because it's the opposite of "flat orange sameness"—she swallows it whole.
+And then she thinks: *"He's all mine."* Oh, Vee. Oh, honey, no.
 
-Then the shirt. She brings him his flannel, not to return it, but to ask him to recharge the battery of his scent because she literally cannot sleep without inhaling him. The detail of him putting it on *immediately*, over the shirt he’s already wearing, standing there double-shirted in an overheated kitchen just to marinate cloth in his sweat for her to take away on Sunday... it made my stomach drop. It’s framed as the sweetest, most chivalrous romance beat imaginable, but structurally, it’s an IV drip. She is curating her own tether. Even when she’s physically away from him, she is training her nervous system to only rest when she’s breathing his scent.
+The domesticity is what terrifies me most right now. The chicken piccata, the lemon zest, the wine reduction, the way he feeds her off a wooden spoon and watches her face. It is so achingly tender. It feels like real love, tastes like real love, smells like real love, and Vee is starving for it. She is letting herself believe that being managed, fed, photographed, and physically orchestrated is the definition of being cherished. The detail about his parents—*"I don't go back"*—was a sudden, stark glimpse of the iron rebar inside the velvet. The little prodigy who was handed to a nineteen-year-old at fifteen and severed from his family, now building his own little sealed terrarium where he controls the heat, the food, the clothes, the pictures, and the women.
 
-She thinks she’s winning little domestic concessions. She thinks having a drawer and getting her shirt "scented" are acts of agency. In reality, she’s just writing the user manual for her own enclosure.
+And Sheri coming for Thanksgiving! Sheri, who told him outright that having two women at once was complicated. Vee feels a momentary twitch of jealousy, and Pace smooths it away with that devastating, flat benevolence: *"She's alone."* He gathers up the strays, feeds them, and makes himself indispensable.
 
-***
+The trap is so beautiful. That's what makes it horrific. There are no bruises, no raised voices, no sneering villains. Just melted butter, silk sauce, a warm bed, and a digital photograph sitting in the camera roll of a boy who is already dissecting her soul with his other partner. I want to pull the fire alarm.
 
-GATE 41 — The New Ordinary
+GATE 38 — In His Hands
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The psychological precision of Pace's non-resistance is terrifyingly good—he gives her all the rope in the world because he knows she'll just tie herself to him with it. The flannel shirt exchange was heart-wrenching in its warped tenderness.
+WHY: The tension is agonizing because the manipulation is entirely velvet-wrapped—watching her willingly hand over a nude photograph while thinking "he's all mine" when we know Randi is on the other side of that phone is absolute psychological horror.

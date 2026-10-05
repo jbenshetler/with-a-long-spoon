@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bff68c2a8905 · 2026-10-01*
+*capture-dag-v2-rich · gate ch052 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c1f15218cc12 · 2026-10-01*
 
-REACTION
+**REACTION**
 
-Oh, Peter.
+Oh, Peter. You stubborn, heartbreaking, infuriating man.
 
-I’ve been so angry with him since the porch, and then furious after he let her walk down the drive into the dark, but watching him wake up in that silent, sterile house with the mop bucket still in the hall and the cheap smell of bleach in the air completely wrecked me. When an alpha hero who prides himself on absolute physical competence, iron discipline, and feeding people like an act of devotion is reduced to gagging down steamed plain chicken out of a plastic pouch over the sink just to keep his hands from shaking… that is a man in utter ruin.
+I needed this chapter so badly after watching Vee freeze in her childhood bed. In chapter 51, Vee was tearing herself apart imagining him moving on with some effortless blonde at a stove, but the reality is this dingy, quiet diner on a dark country road, eating a cheeseburger across from Sheri. And thank God for Sheri. Sheri is the cold bucket of water he desperately needed thrown directly into his face. Every other person in his orbit is tiptoeing around his stoicism, his courtly manners, his immovable domestic paradise—and Sheri just sits there, steals his fries, laughs at his pretension, and cuts straight through his intellectual fortress.
 
-And the reveal about Daphne explains the entire locked box of his chest. It doesn’t excuse what he did to Vee—Sheri was dead right in the diner when she told him that choosing his fear over her was a terrible thing to do—but it makes psychological sense. He convinced himself that withholding the sentence was what kept him alive when a woman left, like the word itself was the detonator instead of the feeling. He thought he was protecting his boundaries, when all he was really doing was starving the one person who actually saw through the food to his soul.
+When he starts laying down his neat, methodical bricks—*I give her every weekend, I cook, I said she's the most important thing in my life*—and Sheri just looks at him and says, essentially: *Cut the crap. If you won't say the word, then your stubborn silence matters more to you than having her, and that's awful.* She named the exact cruelty of his withholding. Because he really believes his actions should excuse him from having to give her the daylight name. He genuinely thought his dedication was enough currency to buy his way out of emotional exposure.
 
-The moment the truck went by on the road—when his whole body tensed toward the driveway, expecting her little car, and then the sound just carried on down the highway—felt like taking a hit straight to the ribs. Having him break down sobbing alone over cold, rubbery chicken and tepid black coffee hurt worse than any screaming match could have. He knows exactly what he threw away. He knows he traded the real thing for safety, and the safety tastes like cardboard. Now the question is whether his pride will let him stay broken in that kitchen or if this finally forces him into the daylight to find her.
+And then seeing his defenses crack! He corrects Sheri immediately on Vee's name. His face goes hot when she teases him about her body. And the way he tries to explain why Vee has completely wrecked his equilibrium—not just that the sex is out of this world, though he admits it is, but that she *understands* him. She sees beneath the surface. She understands what he's building when he cooks for her. He is down so bad for this girl, and he is sitting in a double-wide diner miserable and lonely because he trapped himself behind his own iron wall.
 
-GATE 53 — Not Enough
-DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: Seeing his immovable, controlled exterior completely shatter over the sound of a passing truck gave his silence the devastating emotional weight it desperately needed, and now I need to see what he does when he stands back up.
+He wants her. He misses her. But he still said *"I can't."* That *"I can't"* is the chain around his neck, tied right back to the secret he and Randi started this whole thing with. He can't say it because saying it makes the lie impossible to carry. Sheri made him face the mirror, but he still hasn't picked up the phone. I am dying to see what happens when the semester starts and they are breathing the same air again.
+
+***
+
+**GATE 52 — The Usual**
+**DECISION:** CONTINUE
+**CAPTURE:** 9
+**NEXT:** 9
+**HEAT:** 1
+**ROMANCE:** 2
+**ALMOST-STOPPED:** none
+**WHY:** Sheri calling him out on his self-righteous silence and dismantling his intellectual excuses was pure satisfaction, and seeing how deeply haunted and in love Pace actually is makes the heartbreak worth every mile.

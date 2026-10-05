@@ -1,18 +1,25 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~ec1574909bf3 · 2026-09-11*
+*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~b247f2c75c88 · 2026-09-11*
 
-REACTION — Oh, this is cruel. This is exactly the public-life gesture I wanted from Pace, and I cannot receive it innocently because he is letting Vee imagine introducing him to Randi. “Properly.” My stomach dropped there. He knows Randi. Vee’s happiness depends on believing they have exchanged nine forgettable words, and he lets that belief stand while she builds her lovely little dinner around it.
+REACTION — Oh, Sheri, thank God. Finally someone inside Pace’s confidence who loves him enough not to be seduced by his stack of technically true evidence. “She didn’t ask you for reasons” is exactly it. Vee did not ask him to prove that he behaves lovingly; she already knows he does. She asked him to make himself vulnerable in language, and he is treating every beautiful thing he does as an exemption from having to answer.
 
-And then he makes the invitation bigger—Cassie, Meg, Kayla, Theo—and every addition is so genuinely attentive that I keep wanting to soften. He remembers Meg’s boots, right down to which heel slipped. He has stored Kayla’s name and Vee’s exact joke about her. He welcomes the man who once asked Vee out without jealousy or interrogation. This is the Pace I love: listening to the apparently disposable parts of her life and quietly treating none of them as disposable.
+And then: “Then not saying it matters more to you than having her.” There it is. Clean, brutal, impossible to wriggle out of. Pace looks down because he knows she has found the equation he’s been refusing to solve.
 
-It matters enormously that Vee remembers Chili’s and asks him to choose a place he can actually inhabit. That isn’t her surrendering the desire to have him in public; it is her understanding what went wrong and making room for his real needs. And he, finally, is offering a version of public belonging instead of treating her request as a logistical assignment. This could have been such clean repair.
+His “When I’ve got her, there’s nothing else in the room” made me furious, because he means it and it is still constructed around possession and compartmentalization. When he’s got Vee, Randi disappears. When he’s with Randi, Vee presumably disappears. His total attention feels like total devotion to the woman receiving it, but it may actually be his ability to close every other door in his mind. Vee experiences that attention as evidence that she is the only one. Pace knows she does. “The most important person in my life” sounds enormous, but with the undisclosed brunette sitting inside the sentence, it is another answer designed to feel complete without actually being complete.
 
-But Randi is sitting inside the center of it like a concealed blade. Pace says he wants to meet “the ones you tell me about” while one of those people is already his lover and co-conspirator. Is he planning to stage a first meeting? Is this the long table? Is “bring Cassie too” generosity, camouflage, or both? The book knows exactly why this scene feels warm and sickening at once. Vee thinks her worlds are about to join. They are already joined everywhere except in her knowledge.
+I’m also newly suspicious that his refusal to say love is not simple emotional incapacity. “I can’t” has history in it. Maybe Daphne taught him that declarations are coercive or cheap; maybe his parents weaponized the word; maybe he has some private ethic about actions being safer than language. I believe the blockage is real. I do not believe its reality entitles him to make Vee live around it without explanation. If he cannot say the word, he owes her the truth about why—and considerably more truth than that.
 
-And that last line—“Let me handle it”—would be deeply comforting from almost anyone else. From the man who has helped handle Vee’s reality without her knowing, it made the hair rise on my arms. Yes, I’m reading on immediately.
+Sheri is abrasive in exactly the way this closed system needs. Her comments about Vee’s body made me roll my eyes, but she isn’t extracting intimacy from him or helping him polish his self-image. She calls him grandiose when he starts talking about the philosophy of his food, makes him laugh, and refuses to convert his pain into proof that he is right. She may be the only person besides Cassie who can puncture the romance’s atmosphere.
 
-GATE 53 — Back
+I hurt for Sheri, too. “People who’ve never lost anything think grief is a choice” tells me there is a whole graveyard beneath both of them, and Pace knows its map. That line also makes his silence with Vee sadder and less forgivable at once: he plainly possesses the language to see someone’s hidden wound and name it exactly. He is not a man without words. He is withholding these particular words from this particular woman.
+
+And the revelation that Sheri has met Randi matters. Randi looked at her like competition, while Vee accepted Sheri’s Thanksgiving presence with compassion because Pace presented her as someone alone. Again Vee is extending trust inside a reality everyone else understands better than she does. Sheri knows about “the brunette.” Randi knows about Vee. Pace knows everything. Vee alone is forced to invent blondes at midnight because no one will give her the facts. That asymmetry is becoming unbearable.
+
+The tenderest, most damning thing is that Pace thinks of bringing Vee to this quiet diner and desperately wants to know whether she would love it. She probably would. This is the public date she was actually asking for—not Chili’s specifically, but entry into his real world. He could bring her somewhere he can hear her whisper. He could introduce her to Sheri by name. He could let her exist outside the curated house. Instead he instantly divides the future into “love this place” or “never see it at all,” as if disclosure and compromise are not available to him.
+
+I still believe he loves her. Unfortunately, I now believe he knows it, too. That makes “I can’t” the bruise I need the book to press next.
+
+GATE 48 — The Usual
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
 ALMOST-STOPPED: none
-WHY: Pace’s attention to Vee’s ordinary life melted me, while the false premise of his “meeting” Randi made the whole tenderness throb with dread. I need to know what exactly he intends to handle—and whether this gathering opens Vee’s world or completes the trap around her.
+WHY: Sheri finally said the exact truth Pace’s tenderness keeps obscuring, and he could not deny it. I need to know what makes the word impossible for him—and whether he will choose his silence over Vee now that someone has forced him to see that this is the choice.

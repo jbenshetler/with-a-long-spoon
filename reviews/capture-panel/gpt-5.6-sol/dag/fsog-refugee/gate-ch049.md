@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-01*
+*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d6bbb290a65b · 2026-10-01*
 
 REACTION
 
-Oh, that hurt. “You’re the most important person in my life” should have been everything, and instead it was another beautiful answer shaped precisely around the answer she needed. He understood enough to say that. He understood “out there.” He understood what she meant by asking who she was to him. And then he hid behind actions as though words are merely decorative, when words are the one thing his actions cannot provide.
+Oh, Vee. This hurt. The shirt used to be proof that she could carry him home with her, and now it has become proof that she has to. That realization—that its warmth is only her own warmth coming back—is vicious. I felt the loneliness of that right down to my ribs.
 
-“Words are cheap, and you still won’t spend them on me.” God. Yes. That is the whole wound, and I am so proud of her for finding the sentence and making him stand in front of it. She did not let the warm house, the waiting wine, the food, or his careful hands dissolve her question this time. She came without her bag. She did not cross into the room. She would not let him touch the pain quiet. That matters enormously to me because his touch has been able to carry them past every other uncertainty, and she finally recognized that being soothed is not the same as being answered.
+And I am angry with Pace now. Not because he owes her “I love you” before he feels it, but because he has accepted almost every practical privilege of love while refusing even the smaller clarity she needs. He lets her sleep in his bed, gives her a drawer, feeds her, photographs her, holds her, takes her body apart tenderly, wears his scent back into a shirt so she can sleep wrapped in him—and still she cannot name what she is to him. After her cracker-and-meal confession, he knew she was reaching for something enormous. “I love how good we are together” was not an answer, and I think some part of him knew it wasn’t.
 
-And I am furious with him. Not because he couldn’t say “I love you” on command—if he genuinely cannot say it yet, then that truth would hurt, but it would still be a truth she could choose around. I’m furious because he turned her direct question back on her: what do you want, do your friends have anything better, believe what I do. Those answers make her prove the relationship is good instead of requiring him to define what he is offering. Worse, he already knows the definition is incomplete because Randi exists inside it. He cannot honestly name Vee’s place without revealing the structure he and Randi have kept from her, and suddenly his silence feels less mysterious and much more culpable. “Words are cheap” is not romantic reticence anymore. Words would expose him.
+This is exactly why all his acts of care cannot substitute for words forever. Usually I melt for the man who answers with deeds, and Pace has made those deeds almost unbearably beautiful. But Vee is lying naked and freezing herself because the thing that once comforted her now feels like a counterfeit presence. That isn’t her being needy or greedy. She has tried so hard to accept whatever he gives without asking for more that her body is finally refusing the bargain.
 
-His arms folding absolutely chilled me. That was the closest he has come to showing her a hard boundary, and the boundary was not around pain or family history—it was around giving her enough truth to understand her own relationship. Then the instant she cried, the tenderness came rushing back, and I hated the offered hand even though I know that hand and love what it has meant. She was exactly right: not the hand in place of the word. Care cannot be used as a substitute for honesty.
+The image of Cassie sleeping below her got me too. The one person who asks clean questions and leaves Vee room is right there, close enough to hear if Vee made a sound, and Vee is still stranded alone above her. I wanted her to climb down. I wanted her to wake Cassie and say, “I don’t know what I am to him.” Instead she stays bare in the cold, and that feels like the first tiny withdrawal from Pace that she has not yet admitted is a withdrawal.
 
-And Vee walked out. I wanted to stand up and cheer while also feeling sick for her. She loves him, she came into that house already wanting to be persuaded by every warm thing in it, and she still left when he would not answer. That is her desire being hers in the hardest possible direction—not reaching for more, but refusing to accept less. I am already turning the page because he has finally been made to feel the door close, and now I need to know whether he follows her with the truth or retreats into believing his dinners should have spoken for him.
+And meanwhile he is keeping a truth that makes the missing name even uglier. Vee thinks she cannot prove that he belongs to her. She has no idea that in one crucial sense he doesn’t—that there is already another woman, and both of them have decided Vee can learn later. The shirt on the mattress beside her feels like the whole relationship tonight: saturated with care, undeniably real, and still unable to hold her because of the silence inside it.
 
-GATE 49 — Believe Me
+I’m reading the next chapter immediately. Something has broken open in her, even if all she has done outwardly is take off a shirt.
+
+GATE 48 — Bare
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 HEAT: 0
-ROMANCE: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: Vee finally asked the question all his tenderness could not answer, refused to let his touch replace the answer, and walked out when he chose silence. I am devastated, furious with Pace, fiercely proud of her, and already reading on.
+WHY: The moment she realizes the shirt’s warmth is only her own warmth returned absolutely gutted me. I need to know whether she finally asks Pace for a name—or starts pulling away before he understands what his silence has cost.

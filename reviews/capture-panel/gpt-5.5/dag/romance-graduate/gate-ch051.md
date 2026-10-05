@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch051 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · 2026-10-01*
+*capture-dag-v2-rich · gate ch050 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-01*
 
 REACTION —
 
-Oh, this one hurt in that very particular holiday-break way, where you go back to the bedroom that used to be yours and suddenly your own life feels like something you have to hide under the covers. I know this room. Not literally, but emotionally: the trophies, the old hobbies, the friends who were once everything, the parents asking normal loving questions that become unbearable because none of the real answers can survive the air in that house.
+Oh, Randi. Oh, *Randi.*
 
-And Vee spiraling over Pace made complete sense to me, which is what made it so awful. I didn’t want her to go there, but of course she goes there. He has left her with nothing but evidence and silence, and silence is an acid. It eats through even the good evidence. The bartender’s reassurance, Randi’s reassurance, the whole record of his care — none of it can hold once she doesn’t know what she is to him. I wanted to shake him through the book. This is what words are for, Peter. This exact cold room. This exact midnight. This is the place your beautiful actions cannot reach.
+I knew she was dangerous. I knew she was practiced and glossy and setting things up six moves ahead. But this chapter just cracked the lacquer and let me see the girl underneath it, and I am not okay. That breakfast with her parents made my skin crawl in such a quiet expensive way. The father making her invent boys for him, the mother all bracelet and omelette and label, Randi performing daughterhood like sorority small talk with knives under it. Suddenly every polished thing about her has a source. Of course she knows how to make a room believe what it wants to believe. She learned at that table.
 
-The part where she tries to climb into the memory of that first night and even that gets stolen from her by the imaginary blonde? Brutal. That felt so true to jealous panic. Not sexy jealousy, not cute possessive romance jealousy, but the miserable little brain-theater where you cast your own replacement and then believe in her because you’re lonely enough. And the blonde being “fashion model” where Vee thinks of herself as “stripper” made me ache, because she still doesn’t understand that her body being excessive and specific and hungry is part of what made her visible to him. She knows it sometimes, then loses it the second she’s alone.
+And then John. I hated how much I loved the first half of him, because the fairytale *works*. The lift-line wife bit, the invented children, the black run, him staying just behind her and not proving himself. Champagne, the dress, white tie, Byron at the stairs, sleigh in the snow. It is all engineered for a woman like Randi to say yes to the life she is supposed to want. And for a while I did feel the seduction of it. Not sexually, exactly, more narratively. Like: here is the version that would photograph beautifully. Here is the story you tell at dinner parties for forty years.
 
-Randi’s text landed strangely, too. Sweet, yes. I believe Randi means the warmth. But because I just came from Randi’s chapter, I know Vee is reading fairytale where Randi is also hiding emptiness. They are both lying in different rooms envying each other’s visible life. Vee thinks Randi is living out loud; Randi is performing gorgeousness over a hollow place. That’s delicious and sad and very dangerous, because Vee is starting to assign Randi the reliable future. A class. A face. A date she can circle. Pace has become the unmarked space.
+But the second they get to the hotel door and she realizes he has assumed, the book does something mean and smart. Because part of her likes the assumption. She’s tired of Pace making everything conscious, of being required to want out loud. And then the actual sex lands as this awful perfect vacancy. Good, competent, pleasurable, and absolutely unable to touch her. That “good sandwich” line hurt because it was so bleakly adult. I have read so many romance scenes where “he knows what he’s doing” is supposed to be enough. Here he knows what he’s doing and that is exactly the tragedy. He can do everything right to the beautiful woman and never meet Randi at all.
 
-No heat here, but the erotic shadow is everywhere: the dress cut in half for her mother, the photo whole for Pace, Randi buckling the shoe, the memory of the sheet slipping at the table. It’s not sex on-page, but it’s all about which version of her body gets to exist in which room. That’s the good stuff for me. That’s adult heat even when nobody is touching.
+And Pace. God. Pace is not even in the room and he is the gravitational problem. “Pace on his worst night reached further than this man had managed at his best.” That sentence rearranged the chapter for me. It makes Randi’s danger make more sense and makes it worse. She is not just playing with Vee because she is bored or predatory or turned on by power. She is starving too. She knows what it is to be found, and she knows Pace can find her, and now Vee can do something even John’s whole snow-globe prince act can’t counterfeit. That doesn’t absolve her. It makes her much harder to hate cleanly.
 
-I’m still reading. Absolutely. But I am now officially angry at Pace in a way that tenderness cannot immediately fix. If he comes back with only food and eyes and hands, I may throw something soft but meaningful.
+The Vee text just killed me. Sweet, open, yellow heart, “I’m here if you want to talk. or not.” And Randi gives her the fairytale. Every word true, none of it true. That is exactly the disease of this triangle: the truth is always technically present and emotionally withheld. Pace does it with Vee. Randi does it with Vee. Vee keeps walking around offering whole plain sentences to people who answer around the thing.
 
-GATE 51 — Old Acquaintances
+I am furious that Randi decides not to tell her, and I also understand it so completely that I’m mad at myself. She is protecting the hour at brunch. She is protecting “gorgeous.” She is protecting the first love she has not made into currency. But “let Vee arrive at it on her own” is such a seductive little moral loophole. That is the same concealed-map feeling as Pace and Randi choosing her before she knew. Let her arrive, let her choose, but keep the doors labeled wrong until she does.
+
+This chapter pulled me hard because it finally gave Randi interiority deep enough to be dangerous in a new way. She is not the sexy friend with the raised eyebrow anymore. She is a woman who has felt the acceptable life press its mouth to her and leave nothing behind. And now Vee, poor Vee, has no idea that her little text from Ohio is the live wire in a hotel room in Gstaad.
+
+GATE 50 — Fairytale
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "Nothing from him. She hadn't thought there would be, and there wasn't."
-WHY: This was a cold, lonely bridge chapter, but it did exactly the bridge job I needed: it let the consequences of Pace’s silence actually live in Vee’s body instead of skipping to the reunion. I want the next chapter badly because someone has to answer for this room, and because Randi has just become the thing Vee can count on in a way Pace is not.
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Let Vee arrive at it on her own."
+WHY: This made Randi heartbreakingly legible without making her safe, which is exactly the kind of mess I came for. The fairytale seduction had sparkle, but the real turn was Randi realizing the approved dream cannot touch her, while Vee can from another continent with one open little text.

@@ -1,26 +1,30 @@
-*capture-dag-v2-rich · gate ch058 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 80491aa34d7b · 2026-09-24*
+*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha bb2635a8b1b0 · 2026-09-24*
 
-REACTION:
+**REACTION**
 
-Oh, god. The dramatic irony in this chapter was an absolute vice around my chest.
+Oh, this chapter gave me chills, and not the fun kind. On the surface, it’s written as this tender, domestic milestone: the hyper-isolated, private man finally volunteering to enter her world and meet her friends. Vee is glowing, interpreting his sudden desire to integrate as the ultimate proof of care. He remembered the boots! He remembered her throwaway comment about Kayla! He isn't even jealous about Theo! To Vee, this feels like standing. It feels like the opposite of the porch where he shut down and refused to name them.
 
-Watching Pace work that room was completely mesmerizing—and chilling in the exact way this book excels at. Because on the surface, it’s a fairy-tale domestic triumph: he picked the absolute perfect, unpretentious pine-paneled roadhouse where nobody feels out of place (no screens, no Chili's sensory hell, just warm honey wood and brisket). He fed her friends. He gave every single one of them the exact conversational key they needed—Danny’s lifting plateau, Theo’s jazz history, Kayla’s sister's wedding—and he never, not once, made it about himself. He was the invisible, hyper-competent architect of their comfort. And that recurring refrain: *"Vee's boyfriend."* God, to Vee, who spent all of December starving for a single scrap of standing, hearing him introduce himself as *Vee's boyfriend* six times over like a man with only one credential must have felt like water in a desert. Even Cassie—my girl Cassie, who watches suitors like a goalkeeper defending a corner kick—softened enough to tell him, *"You can stay."* He conquered her entire fortress in three hours.
+Except we know what happened over the break. We watched him sob over bleach and cold chicken, terrified he had lost her forever. We watched Sheri read him for filth about withholding the words. Pace *still* hasn't said the words—he didn't say them when she showed up bare under the coat, and he hasn't said them since—so what is he doing instead? He is constructing a grand, logistical gesture of accommodation. He is doing what he always does: substituting engineering and totalizing focus for emotional vulnerability.
 
-And yet.
+And then there is the chilling asymmetry of who knows what.
 
-Underneath that warmth, the machinery is humming so loud it makes my teeth itch. When Pace looked at the sky like a man checking the weather while Randi kissed Vee on the mouth... and then that line in the truck. *"We get along... They share an interest... You."* The hair on my arms stood up. Vee takes it as this sweet, blindingly romantic compliment—*oh, my friends and my boyfriend all love me!*—because she has no idea she is sitting in the center of a collaborative web. She doesn't know Randi and Pace *conspired* to build this cage around her. When Pace and Randi were laughing together at the buffet, they weren't just two people getting along for Vee's sake; they were two co-conspirators who are *both violently, secretly obsessed with her*, performing their roles while dancing on a live wire.
+Vee thinks she’s planning a sweet gathering where her two separate spheres finally overlap: her beloved mentor/friend Randi, and her devoted lover Pace. She has *no idea* they already share a secret history. She doesn't know they scouted her together. She doesn't know Randi is secretly in love with her. She thinks Pace and Randi exchanged "about nine words at the coffee shop." The sheer dramatic irony hanging over this proposed party is suffocating.
 
-And Randi! Sitting at that table, her knuckles white around her glass, watching Pace claim Vee out loud, watching Vee blush for him, and having to force out: *"To my beautiful best friend."* Then going totally silent, spinning that glass a slow quarter-turn at a time. Randi is drowning in her own self-inflicted poison. She pushed Vee back into Pace's bed with that long coat and those heels, and now she has to sit across from them and choke on the sight of Pace having everything she’s too cowardly to ask for.
+Look at his subtle management of the situation, too. The moment Vee suggests an intimate dinner with just Randi, Pace immediately diverts the stream: *"Bring Cassie, too."* And then Meg. And then Kayla. And then Theo. He intentionally explodes the three-person dinner into a chaotic, sprawling group event. Why? Because a three-person dinner with Randi forces an unbearable, high-stakes collision of their mutual secret and their respective claims on Vee. A crowd provides cover. A crowd diffuses tension.
 
-Then the ride home. The raw, messy, frantic truck-cab sex was such a stark, animal contrast to the choreographed social performance of the roadhouse. Vee is completely drunk on relief. She is offering herself up—mouth, breasts, jeans shucked to her knees on the cold vinyl bench—because she feels *claimed*. The image of Pace driving one-handed while his other hand works her through soaked lace, navigating the dark country road without missing a beat, is peak erotica, but it’s also the whole relationship in a single image: he has one hand on the wheel steering the entire apparatus of her life, and the other keeping her body utterly dependent on his touch.
+And notice who gets the final lever of control: *"Will you pick the place?... Let me handle it."*
 
-The author knows *exactly* what this is. The book isn't naive to the trap; it's showing us every bolt being tightened while the golden light makes it look like heaven. Thursday’s debrief dinner with Randi is going to be a bloodbath of subtext.
+Even as he steps out into her world, he makes sure the territory is chosen by him. He controls the setting, the acoustic parameters, the logistics. Vee thinks she’s stepping into an expansive new freedom where she gets to have her whole life in one room. In reality, she’s walking straight toward a social and psychological minefield that the other two players in the room have built around her. The prose captures her sweet, naive relief with such devastating accuracy that I felt sick for her. The author knows *exactly* how treacherous this ground is.
 
 ***
 
-GATE 58 — Among Friends
-DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-ALMOST-STOPPED: none
-WHY: The tension is practically unbearable in the best way; watching Pace flawlessly charm her entire support system while Randi silently suffocates across the table is psychological erotica at its absolute peak.
+**GATE 54 — Back**
+**DECISION:** CONTINUE
+**CAPTURE:** 8/10
+**NEXT:** 9/10
+**ALMOST-STOPPED:** none
+**WHY:** The sheer tension of this setup is agonizing in the best way; Vee is entirely oblivious to the fact that Pace and Randi already share a covert dynamic, and watching her innocently orchestrate their collision while Pace quietly manages the blast radius makes the upcoming gathering an absolute powder keg.
+
+***
+
+Would you like the summary or analysis of the next reasonably large segment of the work?

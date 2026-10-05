@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~78023057031c · 2026-09-12*
+*capture-dag-v2-rich · gate ch057 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~b9d0068c9a3c · 2026-09-12*
 
-REACTION
+REACTION — Oh, this is exquisitely awful. Pace finally spends the word Vee needed—*boyfriend*—and he spends it directly in front of Randi, the one person who knows how radically incomplete it is. Of course Vee experiences that as safety. Of course she interprets Randi crushing her hand as fierce happiness for her. I felt the relief with Vee and, underneath it, absolute dread. Pace and Randi are standing on either side of her participating in the same lie while she thinks her worlds have finally joined.
 
-Oh, Vee. This made me ache for both of them, and then made me furious about why aching for Pace is so dangerous for her.
+And Pace was wonderful with her friends. Damn him. Remembering the boots, Kayla’s sister, the Bricklayers; asking Danny about his progress instead of displaying his own strength; giving Theo a question with “no wrong answer built into it”; drawing Cassie all the way into speech. I understand why Vee was overwhelmed watching him. This is the public-life answer she asked for, beautifully and thoughtfully given. Cassie’s “You can stay” got me. But he is also performing intimate knowledge gathered through Vee, exactly the skill that makes his private management of her so powerful. The chapter knows both things are true.
 
-His loneliness feels real. Not decorative wounded-man loneliness, not a tragic backstory dropped to make him irresistible: an actual structural loneliness, built out of being too young everywhere, unsafe at home, and then permanently out of step with the people who might otherwise have become his peers. “The window opens once” hurt. So did those ordinary friendship questions with gaps underneath them. I understand why Sheri loves him. I understand why Vee crosses the kitchen instead of offering him some useless consoling sentence. That hug—her whole weight committed, consciously echoing Sheri—felt deeply loving and entirely hers.
+The three-person ending at the table made my skin prickle. “My weekends weren’t the same before you” is a declaration delivered to Vee at his volume for three, while Randi’s “highlight of my year” is almost a confession delivered under cover of friendship. They are saying true things around the concealed truth, and Vee is glowing because she thinks she is hearing the whole conversation. Her hand over Randi’s bracelet nearly broke me. She sees Randi go quiet, recognizes real feeling, loves her for it—and still cannot know what she is witnessing.
 
-And the book absolutely has its instruments on.
+Then the kiss in the parking lot, right in Pace’s sight, and his blankness about it. He does not need to react because he already knows. That is the horror. Vee wonders what it looks like to him, while he and Randi possess the meaning she is trying to infer.
 
-Because Pace tells her Sheri is his one friend while Randi exists. It is presumably technically true in whatever private taxonomy he uses: Randi is lover, conspirator, perhaps beloved, but not “friend.” Vee cannot know that. She hears an empty space in his life and immediately begins filling it with devotion. Worse, she decides Sheri is the only woman the world has ever let him keep because Sheri “could never want him,” while Pace’s actual female lover is sitting just outside the disclosed map. That sentence nearly made me shout. Vee is building a compassionate explanation from deliberately incomplete evidence, and Pace lets her.
+“We get along” was almost vicious in its understatement. And then: “They share an interest.” “Who does?” “Randi. Your friends. All of them.” “You.” Sir. That is a private joke disguised as a tender observation, and Randi is the hidden antecedent that makes it obscene. Vee hears herself as the cherished center of a newly integrated circle. Pace knows she is the shared object of his and Randi’s desire and plan. I wanted to throw the book and immediately keep reading.
 
-I don’t think he manufactured this disclosure to manipulate her. I think everything he said was painfully sincere, which is almost worse. He can give her a true, vulnerable piece of himself and still control the frame so completely that her tenderness carries her farther into the lie. She does enormous emotional labor here: reconstructing his childhood, college years, isolation, Daphne, and heartbreak, then protecting him from pity by refusing to name what was done to him. She is so careful with his dignity. Meanwhile he is still denying her the dignity of understanding her own relationship.
+The sex worked on me less than the table did, partly because the moving-truck business had me clenched for the wrong reason. Pull over. Please. But emotionally I understood Vee’s hunger: she has just watched him earn admission to her life, publicly claim her six times, and charm the people who protect her. Her desire is entirely hers. That is what makes the concealment so merciless. She is choosing every touch from inside a reality they have jointly falsified.
 
-Her refusal to name Daphne’s abuse also frightened me. The chapter knows exactly what she is refusing to see—“the ugly grown-up word” is right there under her tongue—so I still trust the book. But Vee’s instinct is to honor Pace’s account by suppressing her own moral perception. That same instinct is already helping her turn unanswered questions into answers and deception into tenderness. She keeps believing love means seeing events as the beloved needs them seen. That can become a terrible trap.
+And that last sentence confirms I am still in good hands. The little sentence in Vee watching Randi turn her glass has not vanished; it has merely been drowned out for tonight. The book sees the alarm light. I am desperate for it to get loud enough that Vee can hear it.
 
-The domestic care got me anyway: the water placed exactly where she would reach, the shirt, the forehead kiss after he thought she was asleep, bread baked while she recovered. I believe his care. I believe his pain. I believe her love. None of that makes the missing Randi-shaped fact smaller. This chapter made Pace more human and the concealment more obscene at the same time, which is precisely why I’m still here.
-
-GATE 62 — Hangover
+GATE 57 — Among Friends
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-ALMOST-STOPPED: none
-WHY: The quietness made the hidden structure scream: Pace offered genuine vulnerability while Vee unknowingly reasoned around the absent fact of Randi. I’m aching for him, terrified for her, and desperate for the disclosure before her compassion becomes another tool keeping her inside the lie.
+CAPTURE: 10
+NEXT: 10
+ALMOST-STOPPED: “the truck ran on steady under his one wrist the whole time like the road itself was something he was doing to her.”
+WHY: The driving made me furious, but the concealed conversation among the three of them is unbearable in exactly the way I came for. Pace and Randi have now stood together in public, called Vee his girlfriend, exchanged layered truths over her head, and let her mistake conspiracy for belonging; I need the disclosure immediately.

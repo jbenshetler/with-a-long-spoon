@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-01*
+*capture-dag-v2-rich · gate ch043 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-01*
 
 REACTION —
 
-Oh, this one got me in the soft place. Not because it was dramatic, exactly, but because it was the most dangerous possible kind of ordinary: the kind that makes a life. The bag, the drawer, the brush already living there, the green scrunchies, the relief of not packing everything. That is not sexy in the obvious way and it is absolutely sexier than half the “claiming” scenes I’ve read, because it’s domestic possession without the cartoon chest-beating. Her space. Hers. And I can feel how much that word is doing to her.
+Oh, this got me in a different place.
 
-The five nights apart were so well-calibrated to hurt me. She is trying to be a student again, a person with a life and work and obligations, and he is good about it in the exact way that both comforts and wounds her. “Take the time you need, I’ll be here” is mature and generous and also, yes, Vee, I get it, some hungry little unreasonable part wants him to say no, miss me, come back. I did not judge her for that for one second. I’ve been reading romance too long not to recognize the ache of wanting to be wanted inconveniently.
+I was braced for more heat after the last two chapters, honestly. The photo, the brunch, Randi looking too long, Vee taking that second of the kiss for herself — I came into this chapter with my little reader-body leaning toward the next charged thing. And then the book gave me a statistics project. Which, normally, would be where I start side-eyeing the ceiling. But damn it, this worked on me.
 
-And then the hallway. God. This is why I’m still here. It’s explicit and physical and funny and needy, but it never drops her mind out of the scene. The jeans around one thigh, the socks, him catching the bra and making her turn out of it herself — it’s hot because it feels lived-in now. They have rituals and momentum and little private competitions. She is not performing some abstract porn-girl script; she is a woman who lasted five nights and then all her careful self-command fell apart in the doorway. Her body “publishing the number” made me laugh and wince because yes, unfortunately, the body is a snitch.
+Because it’s still the same book. It’s still appetite and looking and being seen, just turned sideways into data. Vee between them physically, emotionally, morally: Cassie on one side with her laid-off dad and the flat truth of the thing, Randi on the other with family money and the beautiful confidence of someone who thought she knew what kind of people raised her. And Vee in the middle, again, loving both sides before she has the full map.
 
-The pizza scene almost undid me more than the sex. I know the book keeps returning to food, but it hasn’t gone stale for me because Vee’s palate is waking in parallel with everything else. It’s not “mmm he cooks, swoon.” It’s that she can now distinguish the world. Tomato from onion from mushroom from heat from yeast. She used to eat the blur. Now she can count the parts. That is such a clean image of what he’s done to her, and also maybe what makes him frightening: he has trained her into appetite so completely that ordinary life without him is becoming thinner.
+Randi getting hit by her own name in the data made my stomach drop. Not because I care about PPP loans as plot, exactly, but because the chapter made it feel like watching someone’s expensive, polished story crack in real time. “Cheating bastards” was so ugly and small and perfect. That is the first time in a while Randi has felt young to me. Not dangerous-glittering, not managing the room, not leaning over Vee with a line already loaded. Just a daughter seeing the family machine from the outside for maybe the first time.
 
-And then the shirt. The shirt, the shirt, the shirt. I’m furious at how tender that was. The way he thinks for one second she’s giving it back and chooses not to ask — that little start of hurt almost killed me. And then she has to explain that it stopped smelling like him, and she needs him to wear it all weekend so she can take him away with her again. That is intimate in a way that feels almost too naked. More naked than the hallway, honestly. She is admitting dependence, ritual, loneliness, the whole embarrassing animal truth of missing someone through fabric. And he doesn’t tease her. He doesn’t make her defend it. He just puts it on.
+And Vee. God, Vee. Her tenderness here is so instinctive it hurts. She sees enough to understand, and then she immediately protects Randi from being seen. That little move of sliding the laptop toward herself and giving Randi tasks — that is love, or friendship, or both, in the most adult form Vee currently has. No dramatic confrontation, no “are you okay,” no making Randi perform pain because Vee noticed it. Just: here, hold this manageable thing until you can come back.
 
-This chapter made me want to trust him, which is rude of the book, frankly. Because the whole time I’m melting over the flannel, the drawer, the food, the gentleness, I also know the locked door is still locked. The more real the domestic tenderness gets, the worse the concealed Randi/Pace thing becomes. A casual situationship can survive withheld context. This? The top drawer and the shirt rotation and “I’ll be here”? This is roots going down. If she finds out later that the two people she’s making a home out of have had a map she never saw, it will not matter that they loved her. It will matter, but it won’t save them.
+But of course I’m also suspicious, because this book has trained me to be. Vee thinks privacy is kindness here, and in this moment I think she’s right. But the larger book is full of secrets being treated like care. Pace and Randi have been doing a much bigger version of “don’t make her carry it yet,” and that is exactly the trap. So I’m sitting with this uncomfortable echo: Vee protects Randi beautifully by not naming what she saw. Pace and Randi are not telling Vee something enormous, probably with their own private logic of tenderness and timing. The chapter doesn’t explain that parallel to me, bless it, but I felt it.
 
-Still: I loved this. I hated how much I loved this. It’s the new ordinary, exactly, and the problem is that the ordinary is gorgeous.
+Also, Cassie stays Cassie: blunt, unsentimental, and carrying a real wound without turning it into theater. I loved that she “didn’t gloat.” She was right, but the rightness cost her something before this room. That line about Cassie not carrying things into rooms she meant to walk out of is such a clean little Cassie portrait. I trust her more every time she appears, even when she doesn’t have the full scene.
 
-GATE 44 — The New Ordinary
+No heat, really, but not dead air. This was a bridge chapter with a live wire in it. It made Randi less purely intoxicating and more breakable, which unfortunately makes me want her more on the page, not less. I am still hungry for the triangle reveal, but now I also want to know what Randi does with being ashamed of her own last name.
+
+GATE 43 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 7
 NEXT: 8
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This pulled me hard because the intimacy is no longer just erotic discovery; it’s becoming habit, home, and private need. The shirt request was a full turn in the bond for me, tender enough to make the secrecy underneath feel even more dangerous.
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: "The professor was talking about the semester project."
+WHY: I had one second of “please don’t make me read a fake school-project chapter,” and then it turned into an emotional trapdoor for Randi and a beautiful little test of Vee’s care. It didn’t give me heat, but it deepened the danger and made me want the next private scene with Randi badly.

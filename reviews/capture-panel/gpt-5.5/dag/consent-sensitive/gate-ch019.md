@@ -1,21 +1,25 @@
-*capture-dag-v2-rich · gate ch019 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~1f134f523a50 · 2026-09-11*
+*capture-dag-v2-rich · gate ch017 · gpt-5.5 · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~d92de80cac99 · 2026-09-08*
 
-REACTION —
+REACTION — 
 
-Oh, this one got me in that quiet aftershock place.
+Oh, this chapter made my stomach drop in exactly the way I was afraid Randi would make it drop.
 
-It’s such a small chapter, and that’s exactly why it works on me. We don’t get the sex again; we get the morning after trying to walk back into ordinary life with the body still singing. Vee comes in grinning so hard Cassie can read the whole night off her face, and I believed that happiness. I felt it. The no bag, the wild hair, no makeup, no brush, the smile coming back at red lights — that is the realest little comet-tail of first huge sex with someone who has just rewritten your relationship to your own shame.
+Not because it isn’t hot. It is hot. Randi in the Mercedes, Randi in the booth, Randi saying “baby,” Randi making helplessness sound like permission to exhale — yes, I get why Vee would follow that voice straight into traffic. I get why Vee is lit up by her. The car alone is a little seduction machine: the leather, the wind, being seen riding beside her. And Randi’s attention is so good at making Vee feel upgraded. Not just liked. Transformed.
 
-And then, of course, my consent/power brain is still sitting upright in the corner with a notebook. Because Vee edits. She tells Cassie the dinner, the apron, the garlic, the Chianti, all the wholesome parts she can pass across the room, and she “lifts out” the middle. That phrasing made my stomach tighten. Not because she owes Cassie explicit details — she absolutely does not — but because the book knows she is starting to keep a private chamber around Pace, and that matters. Cassie has been the witness, the brake, the sane pair of eyes. Vee isn’t lying exactly, but she is preserving the spell. And preserving the spell is where girls get alone.
+But God, the manipulation here is so much more naked because Randi is doing it in the language of female intimacy. She takes Vee’s shame, recognizes the exact pressure point, and then normalizes it just enough to get the next disclosure. “Nobody measures over a bra” is such a devastating move because it’s partly kind and partly surgical. She gives Vee relief from shame, and Vee immediately pays for that relief with more truth.
 
-The panties trade hit differently here than in the last chapter. Last chapter it felt incandescent and mutual and weirdly ceremonial: she gives him proof, not as humiliation but as a trophy she chooses. Here, the absence of them becomes social fact. She cannot undress in front of Cassie because the truth is literally missing from her body. That is sharp. It turns the erotic secret into a separation from her friend in one tiny zipper movement.
+And I hate how well it works on me, too. Because a woman saying, essentially, no, sweetheart, this isn’t dirty, this is how bodies and clothing work — that could be healing. That could be exactly what Vee needs. The problem is Randi knows more than Vee does. Randi knows Pace. Randi knows the pattern. Randi is not a neutral older friend helping a younger woman metabolize a charged experience. She is a participant in the original setup, and she is gathering the fruits of it over lunch.
 
-I also notice Cassie calling him “your boyfriend.” Sweet, ordinary, wrong. Vee has no language for what he is yet. Boyfriend is too small and too normal and maybe safer than the truth, so Cassie reaches for it. And Vee lets it pass. That worries me a little, because the relationship is acquiring intensity faster than it is acquiring shared daylight.
+The worst moment for me was not even Randi leading her down to “what did he see?” It was Randi stopping her. “You don’t have to tell me.” Because that sounds ethical. It sounds like mercy. But it comes after she has already brought Vee right to the edge, after she has gotten enough to know, enough to feel it, enough to confirm whatever she needed confirmed. It’s a beautiful little consent-shaped door closing after the room has already been arranged. I do think the book knows that, thank God. The silence after it is too clean and ugly for the author not to know.
 
-But emotionally? I was with her. Completely. “She had never in her life been so happy” landed, and I didn’t roll my eyes. I wanted to protect her from it and let her have it at the same time. That’s the book’s sweet awful trick: I believe the joy, and because I believe it, I am more scared.
+I’m also very alert to Randi’s jealousy or hurt in this chapter. That tightness when Vee says she was fine being looked at by Pace — that was not simple happiness for her friend. That was something pinching. Maybe envy, maybe possessiveness, maybe the pain of hearing Pace give Vee something Randi needed from him and couldn’t survive cleanly. Randi is not just a sleek predator here. She is compromised and hungry and maybe already losing control of the game. That keeps me in, even while I’m side-eyeing her hard.
 
-GATE 19 — Toenails
-DECISION: CONTINUE
-CAPTURE: 8
-ALMOST-STOPPED: none
-WHY: This chapter is tiny but potent: the morning-after happiness feels earned, and the little act of editing Cassie out of the sexual truth made me wary in exactly the way I want to be wary. The book still knows what secrecy costs, even while letting Vee glow.
+And then the kiss. Oh, Vee. Of course she explains it away instantly. Of course she calls it French and worldly and nothing. And then the panic about being seen comes in like cold water. That last beat made me ache for her, because the desire is so obvious and so forbidden to herself that she can only process the social danger, not the want. She knows something happened, but she refuses to know what kind of thing.
+
+I’m still reading. I’m more worried than ever, but I do not feel like the book is asleep at the wheel. It knows Randi’s “kindness” is doing work. It knows Vee is being managed. It knows the erotic charge and the ethical alarm are not separate tracks. They are the same track.
+
+GATE 17 — How It's Done  
+DECISION: CONTINUE  
+CAPTURE: 9  
+ALMOST-STOPPED: “You don't have to tell me.”  
+WHY: That line almost made me shut the book because it is such a consent-mask move after Randi has already maneuvered Vee open. But the chapter’s silence around it felt knowingly sinister, not naive, and Randi’s own jealousy/need makes the danger more psychologically alive than simple grooming-glamour.

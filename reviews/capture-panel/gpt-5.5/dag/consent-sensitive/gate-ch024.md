@@ -1,23 +1,21 @@
-*capture-dag-v2-rich · gate ch024 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~0b647a05ad40 · 2026-09-11*
+*capture-dag-v2-rich · gate ch021 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~0894d4db7f65 · 2026-09-11*
 
-REACTION —
+REACTION — Oh. Oh, I loved this one, and I am annoyed about how much I loved it, because this book keeps giving me exactly the kind of delicious thing that makes my wary little consent brain sit forward with its clipboard and then, inconveniently, my body goes yes, yes, the dress, the mirror, the bare leg, go on.
 
-Oh.
+The dress got me. Not just because it’s beautiful, though it is, but because it’s such a perfect Pace object: made from listening, measurement, memory, patience, sleeplessness, and control. He has turned her private exposure into a public skin. That is wildly romantic and wildly loaded. The fact that he moved the pedestal, hung the mirror, staged the reveal in the same room where she had been nearly naked and ashamed and then seen — my god. He knows exactly what room he is reopening. He is making an altar out of her previous surrender. And Vee feels that, even if she doesn’t have the sinister half of the sentence available to her.
 
-So there they are. Finally. Pace and Randi in the same bed, with Vee between them even when she is not in the room. And I hate how much I liked parts of it, which is exactly the point, I think. This chapter is short and it is a blade.
+But I did not feel like the book was naive about it. That matters. The chapter lets the dress be a gift and a device. It lets Vee receive it with real joy, real wonder, real bodily authorship. She chooses the no-underwear moment herself, and that was important to me. He didn’t suggest it. He didn’t catch her and smirk her into it. She sees the line broken, she decides what the dress wants, and she removes the obstacle. That is sexy as hell because it’s hers. Also, “the shame of having stripped herself bare on purpose to be looked at” crossing almost immediately into wanting — yes, unfortunately, that is the good stuff. That is the shame-to-heat alchemy this book promised, and here it lands clean.
 
-The thing that saves it for me, immediately, is that the book is not pretending this is neutral. Randi saying “I didn't think I'd like her this much” is the entire dangerous little heart of it. She is not just the smooth handler anymore; she is losing the clean distance that would let her keep calling this a game. And Pace hears her. He does not pounce on the information. He does not turn Vee into dirty talk when Randi offers him the picture of what Vee keeps under the cardigan. That mattered to me. A lot. He lets Randi’s wanting belong to Randi. That restraint is hot, yes, but more than that, it tells me the book knows where the live wire is.
+The sex was hotter to me because it got ridiculous. I loved that the dress, this almost sacred object, immediately becomes a logistical crisis. They are both frantic and horny and stupid with it, trying not to ruin the silk while she is literally holding him in her hands. That little comic tangle made them feel alive together, not just staged in some perfect erotic tableau. Vee laughing at his reaction to “covered in a lot of me” was such a breakthrough of ease. She is not just awed by him now. She can tease him. She can find power in making him lose composure. I liked her so much there.
 
-And Randi. God, Randi. Her fondness for Vee is getting so real it is making her unsteady. The shopping story made my stomach twist because I love Vee being funny and free with her, but then Randi’s delight in Vee’s embarrassment has that edge. “It was so cute. She was so embarrassed. That was kind of hot.” There she is: charmed, aroused, and not entirely safe. Not evil. Worse and better than evil. Compromised.
+And then the finger-cleaning. I mean. Rude. Effective. I am only human.
 
-Pace saying “I want her to get there on her own” should reassure me, and it does, locally. But structurally? Sir. She cannot get “there” on her own if you and Randi built the road, marked the exits, and are lying naked together after discussing her progress. Still, the chapter seems to know that contradiction. It lets the sentence be tender and damning at once. That’s the bargain I’m here for.
+The ending is where the larger dread came back in. Vee imagining the induction, imagining entering late and letting the room turn toward her, is gorgeous and terrible because I know the dress is not just a dress. It is Pace’s hand on her body in public form. It is private knowledge made wearable. It is also maybe bait, maybe a debut, maybe a signal to Randi, maybe a fuse like I was already afraid. Vee thinks she is getting away with something, and my stomach went cold there, because the jacket has already told me: no, sweetheart, something is getting away with you.
 
-The bit that got me hardest was Pace describing Vee making the room brighter. Because yes. That is why I’m protective of her. She thinks she is excess, appetite, embarrassment, too much body, too much want, and these two people are looking at the exact same material and seeing radiance. That could be healing. It could also be capture. The title “Gone” lands both ways: Randi gone on Vee, Vee gone on Pace, Pace maybe gone on both of them, and all of them maybe past the point where anyone can cleanly stop.
+Still continuing. The author knows exactly why this is dangerous. That’s why I’m still here with my face warm and my suspicions fully awake.
 
-I am very, very nervous now. But I’m not leaving. The author knows this is alarming. The chapter practically breathes through the alarm.
-
-GATE 24 — Gone
+GATE 21 — Peekaboo
 DECISION: CONTINUE
-CAPTURE: 8
-ALMOST-STOPPED: "She's not ready, though,"
-WHY: That line made the whole hidden machinery show its teeth, because Randi and Pace are literally assessing Vee’s readiness without Vee in the room. But the chapter knows how charged and dangerous that is, and Randi’s feelings getting messier makes the trap more emotionally honest, not flatter.
+CAPTURE: 9
+ALMOST-STOPPED: “The pedestal he'd built for her to stand on at the fitting had been moved across the room, set in front of a full-length mirror that hadn't been there before — newly hung, the screw heads still bright. He'd set the whole thing up for her.”
+WHY: That staging is so controlled it made my scalp prickle, but the chapter keeps Vee’s desire active and embodied, not erased. The dress is a gift, a seduction tool, and a future complication all at once, and I trust the book knows all three.

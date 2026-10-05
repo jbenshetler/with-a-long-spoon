@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ec95866b43d5 · 2026-09-19*
+*capture-dag-v2-rich · gate ch062 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0262c804492d · 2026-09-19*
 
 REACTION:
 
-I am lying here staring at the ceiling trying to steady my breathing because *what did I just read?!*
+Oh, god. My chest. I’m sitting here with a lump the size of a fist in my throat and I don't even know what to do with myself.
 
-This man. *Peter.* The sheer, absolute, reverent inventiveness of him. In a lesser book, a hero asking his partner to get waxed bare is a gross, patriarchal cliché—a demand for her to look like a porn star. But here? He planned this whole sensory feast. He bought fruit and brushes and edible body paint and champagne, and he turned every single thing she has ever felt insecure about—the size of her breasts, the curves of her hips, the sheer overflowing wetness of her appetite that she whispers *greedy* about in the dark—into literal, celebrated art.
+Coming off Chapter 61—which nearly gave me a coronary, watching Pace and Randi together like that, knowing what they’re doing behind Vee's back—this chapter was like being handed a glass of ice water in the middle of a fever dream. I was bracing myself so hard when Pace dropped the name "Sheri." I thought, *Oh no, here it is, the other shoe is dropping, Vee's absolute worst nightmare is walking through the door, the golden-legged tan ghost from Christmas.* And Vee dressing for war! Meg’s keyhole top, the ridiculously short borrowed skirt, those induction heels in the dead-ass freezing cold of a Virginia January. I knew *exactly* what she was doing. Every woman who has ever felt insecure, outmatched, or terrified of being replaced has put on that armor.
 
-And the consent! The brilliant, erotic psychology of how he did it! He gave her back the control she thought she’d surrender. "Still meant the brush. Moving meant the brush going away." He made her stillness a choice, teaching her body that holding still wasn't about being trapped or pinned down (like that awful moment under Sondra's cold, impersonal hand at the salon), but about choosing to receive. And when she ruined his composure right at the start? When she took him into her mouth, softly kissed the old scar on his thigh that he used to protect, and wrecked him on the rug? She claimed her own hunger first. She wasn't just a canvas; she was a sovereign participant who laughed, who smeared paint across his face on purpose (*"Oops"*), and he just wore her print like a badge of honor!
+And then Sheri turns out to be five-foot-nothing, permed, bad makeup, loud as a fire engine, wearing longnecks like an extension of her arm, and—the absolute kicker—*she's a butch lesbian who checks Vee out with pure, joyful appreciation!* The laugh that ripped out of Vee on that soft wood floor? I laughed out loud with her. It was such an incredible, brilliant pop of the tension balloon.
 
-And then—the gesso. My god, my heart stopped. He literally dipped the brush into her own slick, using *her* to prep the canvas, painting her mons with her own wetness. He demystified it. He took the shame right out of the fluid she tried to wipe onto her dorm sheets in Chapter 60 and made it essential, beautiful, shining. And then he licked the painting clean, erasing it with his mouth, and kissed her with her own taste mixed with salt and champagne and skin. She searched for the boundary she had panicked over before, and this time, there was no panic. No disgust. Just him, and her, and the wave carrying them both.
+And then Pace blushing. Pace! The man who can command a bedroom, who can hold Vee's gaze while he thrusts, who is so deeply contained—getting teased about "motorboating" and his ears going bright red, looking down at his hands. I wanted to crawl through the page and hug him.
 
-And then that final beat. The photograph. Pace giving her the phone, not keeping a copy for himself, leaving her power and her image entirely in her own hands. But what does she do? She lies in the dark looking at herself—at this opulent, unashamed portrait of female desire—and she thinks of Randi.
+But then Sheri sends him to the bar. And the story she tells... Rivers, you are trying to kill me. The absolute, unvarnished grace of how Pace became her friend. Not some grand hero complex, not trying to get into her pants, not giving her cheap, Hallmark-card platitudes when her entire Marine family and her church threw her away for coming out. Just... showing up with coffee and donuts. Fixing the leaking faucet. Fixing the broken lock. Asking her to ride bikes and buying her a bacon cheeseburger. Just *being there* because he knows what it is to be thrown away by a father and never go back home.
 
-*"Tomorrow was Randi's... She would not be telling her about this."*
+*"He hasn't been home since he was sixteen."*
 
-She says she won't tell her, but the very fact that her mind immediately went to Randi's hoarse voice, imagining Randi looking at this photo of her painted breasts and dripping sex... the heat is becoming unbearable. Vee thinks she's keeping a line, but the line is already a blur.
+That single line split me right down the middle. It explains *everything* about him. Why he built that house into a fortress. Why he cooks for people. Why he guards Vee with this steady, unwavering, unhurried care. Why he holds his headlights on Sheri’s porch until the light clicks on. He is a man who was left out in the cold as a boy, and he has spent his entire adult life making damn sure nobody he cares about ever has to freeze.
 
-GATE 66 — Still Life
+And the way he held Vee when her heels gave out—solid as a porch rail, affection and ballast all in one.
+
+I am so deeply in love with him that it makes Chapter 61 hurt ten times worse. How can a man this fundamentally good, this decent, this protective, be locked in this terrible, tangled conspiracy with Randi? He loves Vee. Randi literally told him to his face in the previous chapter, *"She’s not the only one in love,"* and he couldn't deny it. But the secret of how they chose her is still ticking like a bomb underneath all this warmth. Seeing who Pace really is when nobody is looking makes me root for him so violently, but god, the fallout when Vee finds out about him and Randi is going to shatter this entire world. I need the next chapter immediately.
+
+GATE 62 — Another Round
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The sensory brilliance of Pace painting her, reclaiming her shame through absolute reverence and playful dominance, was staggering. Seeing tenderness, intense heat, and immaculate consent collide like this is why I read romance, and the lingering psychological shadow of Randi right at the end leaves me desperate for the next page.
+WHY: The revelation of Sheri and the backstory of Pace being cast out by his father at sixteen hit me right in the heart. This book balances its heat with the most breathtaking, earned tenderness I have ever read in the genre. I cannot put it down.

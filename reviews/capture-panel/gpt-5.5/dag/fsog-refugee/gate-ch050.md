@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ca7450e92130 · 2026-10-01*
+*capture-dag-v2-rich · gate ch049 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-01*
 
-REACTION — Oh. Oh, Randi.
+REACTION —
 
-I didn’t expect to be taken fully inside her like that, and it hurt in a very clean place. Not because John is terrible. Almost worse because he isn’t. He is exactly the fantasy version: handsome, capable, socially approved, good at everything, the sleigh, the ball, the white tie, the champagne, the story a woman is supposed to want to tell her daughter someday. And the chapter lets it be gorgeous. It doesn’t cheapen the fairytale so she can reject it easily. That made the emptiness land harder.
+Oh, that hurt in exactly the place I was afraid it was going to hurt.
 
-The skiing did get me. I’m not immune. The way he could have shown her up and didn’t, the way he stayed just off her shoulder with power in reserve — yes, that is the old catnip. A man competent enough not to need to prove it. And then the dancing, too, that firm lead, her body going where he sent it. I understand why she liked not being asked for once. I even understand the relief of it, for a woman who is always performing and calculating. But the instant she thinks “Pace has never assumed anything in his life,” I felt the book turn the knife. Because that’s the difference, isn’t it? John assumes and the world calls it romance. Pace asks, waits, makes the woman say the want out loud. That is the thing I came to this genre starving for.
+I’m proud of her. I’m actually so proud of her I’m sitting here with my chest tight, because she did the thing I kept wanting her to do and also dreading: she stood in the doorway and did not let the house take her. The warmth, the food, the wine already poured, the music, him coming out with the towel over his shoulder like the whole life she wants is already waiting. That would get me. That has gotten her every time. And this time she stayed on the mat. No bag. Coat still buttoned. Hands in pockets. God.
 
-And then afterward: nothing. That was brutal. “A good sandwich eaten fast” is such a devastating way to describe technically good sex with no reaching in it. I know that cold. The body says yes, the life says yes, the mother would say yes, the hotel says yes, and some deeper self is sitting there untouched with her lipstick still on someone else’s skin. I believed every inch of her horror at realizing the acceptable life can offer her its best version and still not find her.
+And Pace. I’m furious with him, but not in a “throw the book” way yet. More in the way where I want to put both hands on his shoulders and say: do you understand what you are doing to her? “You’re the most important person in my life” should have been enough, almost. In another chapter it would have melted me. But he keeps giving her these almost-answers, these gorgeous not-quite answers, and each one is starting to feel like a door with no handle. He can make a room warm for her. He can hear her body. He can remember every small thing. He can do devotion in action until it makes me weak. But when she asks for words, for a public shape, for something she can carry outside the house, he goes philosophical on her. “Words are cheap.” No. No, Peter Pace, not here. Not when the whole wound is that everything real between you stops at the threshold.
 
-The Pace comparison scared me and moved me both. “Pace on his worst night reached further than this man had managed at his best.” That tells me so much about Randi. It also makes the secret heavier, because Randi has been measuring Vee and Pace against this private cold, and Vee doesn’t know she is being brought into a hunger that old and that defended. I have sympathy for Randi here. Real sympathy. But I’m also watching her choose concealment in real time. She knows she loves Vee in two ways. She knows Vee hears one. And instead of risking the truth, she decides to let Vee “arrive at it on her own.” That is exactly the Randi problem in its purest form: she feels deeply, she may even love truly, and then she manages the room so she does not have to stand naked in the truth.
+“Words are cheap, and you still won’t spend them on me” absolutely gutted me. That is the sentence. That is the whole last several chapters coming due. Because yes, his actions matter. They matter so much I’m still reading. But words are not cheap when someone is starving for a name. They are not cheap when they are the bridge between the warm private room and the rest of her life. She is twenty-one and trying to explain the best thing that has ever happened to her without making herself sound used. He has to understand that. Or he has to learn it very fast.
 
-The text from Vee nearly got me. Vee in Ohio, warm family kitchen, offering “or not” because she is good like that, because she knows how to leave a door open without pushing. And Randi gives her the fairytale. Every word true, none of it the thing. That is such a perfect little moral dodge. I wanted to shake her and hold her at the same time.
+The part that scared me most was him folding his arms and shutting. There it is. There’s the line. He has one, and it is right where the word should be. That doesn’t feel like simple awkwardness anymore. It feels like history, damage, Daphne, family, whatever scarred place he won’t let her touch. But her pain is not made less dangerous because his comes from somewhere real. That’s the trap with men like this in books and maybe in life: the wound explains the withholding, and suddenly the woman is supposed to live on scraps because he bleeds if she asks for bread. I don’t want that for Vee.
 
-I’m still continuing, absolutely, but with my guard up. This chapter made Randi more human to me, not less. It also made her more dangerous. Not villain dangerous. Lonely-person-with-tools dangerous. She has learned to survive by letting everyone see the version they can use, and now Vee is the first person she doesn’t want to use as currency. But wanting not to use someone is not the same as telling them the truth.
+And still, because I am who I am, the tenderness almost kills me. The heat brought up hours early. The unlocked door. The chicken going. The wine poured. The porch planned because it’s clear and she can see everything. He has made loving her into an entire environment and then refuses to call it love. That contradiction is the most compelling and maddening thing in the book right now.
 
-GATE 50 — Fairytale
+I’m also relieved she left. Not because I want them apart. I absolutely do not. I want him to go after her, but correctly. Not with hands first. Not with sex. Not with food. Not by making the house so warm she forgets the cold. I need him to spend the word, or tell her why he can’t, or at least stop pretending actions answer every question. Her walking out is the first thing in a while that feels like it might force the truth into the room.
+
+GATE 49 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 8
-HEAT: 2
+NEXT: 10
+HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: "Let Vee arrive at it on her own."
-WHY: This pulled me hard because it finally opened Randi from the inside, and the ache of the perfect fairytale meaning nothing was sharp and persuasive. But that line is also exactly where my stomach tightened: she understands enough to know she is hiding, and she still chooses the prettier version of manipulation. I want the next chapter badly, because now I need to see whether Vee gets protected from that or fed into it.
+ALMOST-STOPPED: "Words are cheap."
+WHY: That line from him made me cold, because it turned his beautiful care into a defense against giving her what she plainly needs. But Vee standing there and asking for a name, then leaving when he would not give it, is exactly the kind of earned fracture that makes me need the next chapter immediately.

@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · 2026-10-01*
+*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-01*
 
 REACTION
 
-Oh, this hurt. This was a tiny, sharp blade of a chapter.
+God, my stomach hurts. This is the first time the gilded cage felt cold, completely cold, from the inside out.
 
-It’s two pages, but God, what a devastating two pages. The progression with that damn flannel shirt—from asking him to wear it and infuse it with himself, to wearing it over a t-shirt so Cassie won’t pity her, to stripping down so it touches her bare skin, to that brutal, agonizing realization: *the heat in the shirt was her own, given back.*
+That disaster at Chili's was physically painful to read. It was so agonizingly, humiliatingly real. When you're starving for someone to claim you in the daylight, you pick a fight just to throw yourself against the bars, and then when he calmly says *okay* and takes you to the loud-ass chain restaurant you blurted out, you realize you've walked yourself right into your own trap. Watching Pace unravel in that booth—not throwing a fit, but that tiny, devastating flicker of irritation, squaring his fork with the edge of the table, his eyes sliding up to the muted TV because the noise was scrambling his hyper-calibrated brain—it made me want to crawl under the table. And the nachos! The soggy chips and the sour orange bag-cheese tasting like muddy brown cardboard because he has literally ruined ordinary life for her. He has educated her palate and her nerve and her body to expect bespoke perfection, and now she can’t even choke down the cheap comfort food she grew up on.
 
-That line hit me right in the chest. That is the exact anatomy of a woman slowly coming out of a spell. He didn’t give her that warmth; she generated it, shoved it into the fabric, and tricked herself into thinking he was holding her. And then the sheer despair of whipping it off, choosing the freezing dorm room air over the lie of his phantom comfort, and just lying there naked and shivering while Cassie sleeps below her.
+And then the fight at the house, where she tries to rewrite history and claim *he* went cold on *her* after the Rusty Nail. The absolute mastery of Pace just setting down: *"You know what happened after the dance."* He doesn't raise his voice, he doesn't insult her, he just holds up the mirror. And then explaining his sensory overload: *"In a room like that I listen as hard as I know how and I still can't hear you."* It’s so reasonable, so intensely intimate, and so profoundly evasive all at the exact same time.
 
-She asked for a meal, and he gave her an adjective. *I love how good we are together.* Now the high of the weekend and the post-orgasmic glow of his bed have completely evaporated, and she's left with the cold math: he has swallowed her whole, he has given her an orgasm for every doubt, but he has not given her *one single word* that anchors her to him in the daylight. He’s got her neatly compartmentalized, and she is finally, finally starting to freeze to death inside the box.
+Because she is so desperate for it to be fine that she tells herself she's "forgiven" him just to give herself permission to let him strip her. That whole sequence in bed had a desperate, frantic undertone that almost made the heat hurt. She wanted him to break his control so badly, thinking that if he lost his head and took her rough, the truth would spill out with it. She got the rough—she got him finally losing his breath and snapping, driving into her and shaking apart—and even completely shattered, empty, with his seed running down her thighs in the dark, he *still didn't say it*.
 
-It’s quiet, it’s short, there’s no plot movement, but emotionally? It’s a massive turning point. The flannel was her security blanket, and she just discarded it on the mattress like trash.
+That ending is an absolute punch in the throat. She is lying in the cooling sweat of a man who just gave her two earth-shattering orgasms, his arm heavy over her, and she has never been more completely alone. She can't call him a boyfriend, she can't call it love, she can't prove a single second of it outside the perimeter of those woods. He has swallowed her whole, and she doesn't even have a word to hold onto.
 
-GATE 48 — Bare
+GATE 47 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 1
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The gut-punch realization that the heat in his shirt was just her own warmth reflected back at her was pure emotional brilliance. It’s short, but it cleanly breaks the spell of his physical comfort. I need to see what she does when she wakes up from this.
+WHY: The psychological friction here is breathtaking. The horror of getting exactly the physical devotion you begged for, only to realize in the quiet afterward that you're totally nameless to him outside that bed, was absolute perfection. I have to see who cracks first.

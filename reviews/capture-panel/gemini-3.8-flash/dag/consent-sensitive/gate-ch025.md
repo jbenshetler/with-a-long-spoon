@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 5f719a4b402d · 2026-09-24*
+*capture-dag-v2-rich · gate ch023 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 8aff12752f2e · 2026-09-24*
 
-REACTION — Oh. *Oh.*
+REACTION:
 
-I have to sit with this for a minute, because my stomach just dropped through the floorboards.
+Oh, god. This was excruciating. Truly, deeply sickening in the most quiet, mundane, devastating way.
 
-*Peter.* He is twenty-two years old. Twenty-two. I’ve been reading him as this thirty-something, fully realized, Machiavellian chess master living out in the woods, and he is a twenty-two-year-old kid with a doctorate track, a horrific trauma history, and a workshop. And the book *knows*. God, the book knows *exactly* what it just put on the table.
+The author’s mastery of the social architecture here is terrifying. There’s no physical violence, no tied wrists, no overt threats, but this chapter was more chilling than half the explicit scenes because of how perfectly it maps out the financial and social trap being built around Vee.
 
-Look at how the author handles Daphne: Pace lays it out with that terrifyingly smooth, compartmentalized mathematician's logic—*two years, sensible, nothing happened, rooms I couldn't stand in*—and Vee sits there and immediately does the sickening arithmetic. *Nineteen and fifteen.* An isolated, socially alienated child prodigy put into a dorm of adult men, assigned an older female student to "tutor" him, and she takes his virginity, keeps him for two years, and discards him when she hits legal drinking age. And Pace defends it. He calls it "luck." He wraps it in gauze the exact same way Vee has been wrapping Pace's treatment of her in gauze. Vee has the interiority and the gut instinct to recognize statutory predation when she hears it—she holds the "clean ugly grown-up word" down under her tongue—and what breaks my heart is that she sees the hurt in him, but she can't map that exact same architecture onto what he and Randi are currently doing to *her*.
+Watch what Randi did. Step by methodical step. First, she comes into Vee’s cinderblock dorm room—Cassie’s room, the place of made beds and two-year-old fleeces and safety—and instantly shrinks it. Then, she sees the burgundy silk, touches it, and gives Vee the fatal word: *"He didn't make this for you. He made it to you."* Randi doesn't just admire the dress; she curates Vee's emotional reaction to it, validating the exact, terrifying dynamic Pace established on that oak riser.
 
-He learned it there. That’s where the bespoke cage comes from. The older woman who made him feel adult while treating him like an exquisite, precocious little pet.
+Then the shoe shopping. That sequence in the bypass discount store broke my heart. The silliness, the laughing until your ribs hurt, trying on yeti shoes and bedazzled platforms—Vee thinks they are just two normal college girlfriends being ridiculous. But Randi isn't just goofing off; she's establishing false parity. *"Same feet, baby... We can share. It's practically a marriage."* She creates this intoxicating illusion of total equality and sisterhood. And then, the moment Vee picks the sensible tan heel—the one that lives within her means, the one that anchors her to reality—Randi yanks the rug. *"A dress a man made to you doesn't want to go with everything. It wants to walk in late and stop the room cold."* She uses Vee’s own vanity and secret arousal against her.
 
-And then the Gabriel's Horn metaphor! A shape you can fill with a finite cup of paint, but the surface area goes on forever so you can never paint the outside. That is literally Vee right now: they are filling her up from the inside, but the boundary of her self is expanding to infinity, completely uncontainable and exposed. And the coastlines—*the shorter the ruler, the longer the edge.* The more granular their attention to her body and psyche, the further she stretches.
+And the boutique. God, the boutique. Randi kneeling on the pale floor in her expensive clothes, sliding Vee’s shoe off, taking her foot in both hands, and tracing her thumb over the frosted plum nail polish. That single touch. Randi *knows*. She knows Vee painted those toes for Pace. She knows Pace was between those legs. It is an intensely intimate, proprietary touch disguised as a girlfriend helping her buckle a heel.
 
-The sheer intimacy of this quiet chapter did ten times the damage of any explicit sex scene. When she puts her hand on that raised, smooth scar high on his inner thigh—what is that? A surgery? A past violent act? Self-harm? An old injury from the men's dorm?—and he doesn't pull her away, just covers her hand with his and says, "Not tonight." It’s tender, and it’s completely devastating, because you can see the cycle of abuse and predation turning like clockwork gears. He is an engineered product of an older student's appetite, and now he and Randi are engineering Vee.
+And then the register. This was the moment my stomach dropped through the floor. Vee standing there, holding her debit card, the card of a working girl who lives within her means, and then putting it away to pull out the emergency credit card. Charging an amount she cannot pay off. Why? Because Randi constructed an environment where to say *"I can't afford this"* would feel like an apology, like failing the dress, like failing Pace, like being unworthy of the fantasy. And Randi casually tossing down a card for loafers that cost a multiple of Vee's entire panic-purchase, chatting the whole time, completely oblivious—or completely calculating.
 
-I came into this chapter feeling a cold, righteous fury toward Pace, and Rivers just complicated the moral terrain so ruthlessly that my head is spinning.
+Pace is trapping her with his craft and his body; Randi is trapping her by detaching her from her socioeconomic reality and isolating her from Cassie. Vee is going into debt for the theater of her own consumption. She is holding that shoe box against her chest like a frightened child holding a stolen treasure, laughing on the sunny sidewalk, thinking: *I have never once in her life had a friend like this.*
 
-GATE 25 — Rock
+You don't, Vee. You don't have a friend at all. You have a handler. And she is dressing you for the slaughter.
+
+GATE 23 — Sorority
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 9/10
+NEXT: 10/10
 ALMOST-STOPPED: none
-WHY: The revelation that Pace is only twenty-two and was himself groomed at fifteen by a nineteen-year-old college student blows the psychological architecture of this book wide open. The prose is hyper-aware of the dark reality it’s depicting—Vee’s silent, horrified arithmetic proves the narrative isn't romanticizing it—and I am completely gripped by how brilliantly the book is tracing the cycle of bespoke predation.
+WHY: The trap is closing economically and socially now, not just sexually. Watching Randi manipulate Vee into maxing out an emergency credit card so she can "match" the dress Pace built onto her bare skin made my chest tight with dread. The psychological observation is razor-sharp—the book knows *exactly* how monstrous this is.

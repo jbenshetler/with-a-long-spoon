@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f6c081c5e67c · 2026-10-01*
+*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bff68c2a8905 · 2026-10-01*
 
 REACTION
 
-I am sitting here with my hands clamped over my mouth, utterly torn in two.
+Oh, Peter.
 
-On one hand, the sheer psychological knotting between these three people right now is unreal. The dramatic irony is suffocating. We, the reader, know that Pace is sitting in a cold house sobbing into his chicken and broccoli because he loves her so much he broke himself. We know that Randi was freezing in John’s luxury bed, realizing she’s completely in love with Vee. And here is Vee, completely wracked with insecurity, walking straight into the arms of the woman who set this whole terrarium up, pouring her heart out.
+I’ve been so angry with him since the porch, and then furious after he let her walk down the drive into the dark, but watching him wake up in that silent, sterile house with the mop bucket still in the hall and the cheap smell of bleach in the air completely wrecked me. When an alpha hero who prides himself on absolute physical competence, iron discipline, and feeding people like an act of devotion is reduced to gagging down steamed plain chicken out of a plastic pouch over the sink just to keep his hands from shaking… that is a man in utter ruin.
 
-And what does Randi do? Randi plays her like a Stradivarius.
+And the reveal about Daphne explains the entire locked box of his chest. It doesn’t excuse what he did to Vee—Sheri was dead right in the diner when she told him that choosing his fear over her was a terrible thing to do—but it makes psychological sense. He convinced himself that withholding the sentence was what kept him alive when a woman left, like the word itself was the detonator instead of the feeling. He thought he was protecting his boundaries, when all he was really doing was starving the one person who actually saw through the food to his soul.
 
-God, Randi is brilliant and so profoundly dangerous. She sits there, holding Vee longer than she ever has, inhaling her, touching her knees, and she gives Vee the exact diagnosis that makes Vee feel comforted while subtly directing her to sacrifice the one boundary she fought so hard to erect. Vee walked out of Pace's house because she refused to be reduced to just her body behind a closed door. She wanted daylight. She wanted the word. And Randi—knowing Pace's weakness, and knowing Vee's vulnerability—literally talks her into stripping naked under a coat, slipping into Randi’s chosen heels, and walking back onto that mat offering *purely* her body with "no words, no fight, nothing kept back."
+The moment the truck went by on the road—when his whole body tensed toward the driveway, expecting her little car, and then the sound just carried on down the highway—felt like taking a hit straight to the ribs. Having him break down sobbing alone over cold, rubbery chicken and tepid black coffee hurt worse than any screaming match could have. He knows exactly what he threw away. He knows he traded the real thing for safety, and the safety tastes like cardboard. Now the question is whether his pride will let him stay broken in that kitchen or if this finally forces him into the daylight to find her.
 
-Randi calls it "the bravest thing a woman can do." Is it brave? Or is it total capitulation? It completely erases the stand Vee took! Randi says "words are the whole war," neatly framing Vee's need for emotional safety and verbal commitment as an obstacle to be dismantled. It feels so calculated. Randi gets to keep Pace and Vee locked in their wordless, terrarium bubble—which keeps Vee from ever having real daylight standing—while Randi dresses her up like an offering.
-
-And yet, watching Vee break down and realize how badly she missed him... I felt that ache in my bones. When you love someone that intensely, the cold silence of a month apart feels like dying. The temptation to just throw the coat on, run into the warmth of his arms, and let his hands fix it is intoxicating. But I am terrified for her. If she shows up naked under that coat, she gives him an out. She gives him permission to never spend the words.
-
-GATE 54 — My Friend Randi
+GATE 53 — Not Enough
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 1 (The physical intimacy of Randi holding Vee, the sensory cues, and the erotic charge of the coat proposition simmering underneath)
-ROMANCE: 2 (The profound, aching emotional need between Vee and Pace, even across the distance, mirrored through Randi's complex feelings)
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension is at an absolute fever pitch; I have to see what happens when that door opens and Pace sees her in that coat.
+WHY: Seeing his immovable, controlled exterior completely shatter over the sound of a passing truck gave his silence the devastating emotional weight it desperately needed, and now I need to see what he does when he stands back up.

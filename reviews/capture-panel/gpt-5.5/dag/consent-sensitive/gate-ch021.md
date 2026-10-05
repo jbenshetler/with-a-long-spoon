@@ -1,21 +1,21 @@
-*capture-dag-v2-rich · gate ch021 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~0894d4db7f65 · 2026-09-11*
+*capture-dag-v2-rich · gate ch019 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~1f134f523a50 · 2026-09-11*
 
-REACTION — Oh. Oh, I loved this one, and I am annoyed about how much I loved it, because this book keeps giving me exactly the kind of delicious thing that makes my wary little consent brain sit forward with its clipboard and then, inconveniently, my body goes yes, yes, the dress, the mirror, the bare leg, go on.
+REACTION —
 
-The dress got me. Not just because it’s beautiful, though it is, but because it’s such a perfect Pace object: made from listening, measurement, memory, patience, sleeplessness, and control. He has turned her private exposure into a public skin. That is wildly romantic and wildly loaded. The fact that he moved the pedestal, hung the mirror, staged the reveal in the same room where she had been nearly naked and ashamed and then seen — my god. He knows exactly what room he is reopening. He is making an altar out of her previous surrender. And Vee feels that, even if she doesn’t have the sinister half of the sentence available to her.
+Oh, this one got me in that quiet aftershock place.
 
-But I did not feel like the book was naive about it. That matters. The chapter lets the dress be a gift and a device. It lets Vee receive it with real joy, real wonder, real bodily authorship. She chooses the no-underwear moment herself, and that was important to me. He didn’t suggest it. He didn’t catch her and smirk her into it. She sees the line broken, she decides what the dress wants, and she removes the obstacle. That is sexy as hell because it’s hers. Also, “the shame of having stripped herself bare on purpose to be looked at” crossing almost immediately into wanting — yes, unfortunately, that is the good stuff. That is the shame-to-heat alchemy this book promised, and here it lands clean.
+It’s such a small chapter, and that’s exactly why it works on me. We don’t get the sex again; we get the morning after trying to walk back into ordinary life with the body still singing. Vee comes in grinning so hard Cassie can read the whole night off her face, and I believed that happiness. I felt it. The no bag, the wild hair, no makeup, no brush, the smile coming back at red lights — that is the realest little comet-tail of first huge sex with someone who has just rewritten your relationship to your own shame.
 
-The sex was hotter to me because it got ridiculous. I loved that the dress, this almost sacred object, immediately becomes a logistical crisis. They are both frantic and horny and stupid with it, trying not to ruin the silk while she is literally holding him in her hands. That little comic tangle made them feel alive together, not just staged in some perfect erotic tableau. Vee laughing at his reaction to “covered in a lot of me” was such a breakthrough of ease. She is not just awed by him now. She can tease him. She can find power in making him lose composure. I liked her so much there.
+And then, of course, my consent/power brain is still sitting upright in the corner with a notebook. Because Vee edits. She tells Cassie the dinner, the apron, the garlic, the Chianti, all the wholesome parts she can pass across the room, and she “lifts out” the middle. That phrasing made my stomach tighten. Not because she owes Cassie explicit details — she absolutely does not — but because the book knows she is starting to keep a private chamber around Pace, and that matters. Cassie has been the witness, the brake, the sane pair of eyes. Vee isn’t lying exactly, but she is preserving the spell. And preserving the spell is where girls get alone.
 
-And then the finger-cleaning. I mean. Rude. Effective. I am only human.
+The panties trade hit differently here than in the last chapter. Last chapter it felt incandescent and mutual and weirdly ceremonial: she gives him proof, not as humiliation but as a trophy she chooses. Here, the absence of them becomes social fact. She cannot undress in front of Cassie because the truth is literally missing from her body. That is sharp. It turns the erotic secret into a separation from her friend in one tiny zipper movement.
 
-The ending is where the larger dread came back in. Vee imagining the induction, imagining entering late and letting the room turn toward her, is gorgeous and terrible because I know the dress is not just a dress. It is Pace’s hand on her body in public form. It is private knowledge made wearable. It is also maybe bait, maybe a debut, maybe a signal to Randi, maybe a fuse like I was already afraid. Vee thinks she is getting away with something, and my stomach went cold there, because the jacket has already told me: no, sweetheart, something is getting away with you.
+I also notice Cassie calling him “your boyfriend.” Sweet, ordinary, wrong. Vee has no language for what he is yet. Boyfriend is too small and too normal and maybe safer than the truth, so Cassie reaches for it. And Vee lets it pass. That worries me a little, because the relationship is acquiring intensity faster than it is acquiring shared daylight.
 
-Still continuing. The author knows exactly why this is dangerous. That’s why I’m still here with my face warm and my suspicions fully awake.
+But emotionally? I was with her. Completely. “She had never in her life been so happy” landed, and I didn’t roll my eyes. I wanted to protect her from it and let her have it at the same time. That’s the book’s sweet awful trick: I believe the joy, and because I believe it, I am more scared.
 
-GATE 21 — Peekaboo
+GATE 19 — Toenails
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: “The pedestal he'd built for her to stand on at the fitting had been moved across the room, set in front of a full-length mirror that hadn't been there before — newly hung, the screw heads still bright. He'd set the whole thing up for her.”
-WHY: That staging is so controlled it made my scalp prickle, but the chapter keeps Vee’s desire active and embodied, not erased. The dress is a gift, a seduction tool, and a future complication all at once, and I trust the book knows all three.
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: This chapter is tiny but potent: the morning-after happiness feels earned, and the little act of editing Cassie out of the sexual truth made me wary in exactly the way I want to be wary. The book still knows what secrecy costs, even while letting Vee glow.

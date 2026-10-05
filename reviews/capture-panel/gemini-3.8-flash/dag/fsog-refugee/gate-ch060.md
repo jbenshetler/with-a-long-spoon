@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch060 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha f697ae9ef8f2 · 2026-09-19*
+*capture-dag-v2-rich · gate ch056 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha c23f4d1deeee · 2026-09-19*
 
 REACTION
 
-Oh, God. Oh, my heart.
+Oh, this chapter felt like taking a deep, clean breath of cold winter air after being locked in a hot room. I loved every single second of it.
 
-This chapter made me feel like I was holding my breath in that suffocating, radiator-baked dorm room right alongside her. It is so rare—so shockingly rare in romance or erotica—to see female desire and female shame handled with this level of surgical, tender honesty. Usually, if a heroine explores herself, it’s either glossy and effortlessly empowered, or it’s played as dirty for cheap titillation. This was neither. This was a girl alone in the dark, caught between the conditioning of an entire lifetime—that quiet, venomous voice from Ohio telling her that her appetite, her wetness, her "plenty" is a shameful, excessive mess—and the wild, terrifying awakening she’s experiencing through Pace and Randi.
+After the sheer, breathless intensity of Chapter 52 (her flashing him in the cold, him dropping straight to his knees—good *Lord*) and the slow, luxurious intimacy of Chapter 53 with the persimmons and the cashmere and him wiping his mouth so respectfully after she panicked, seeing Vee back in the real world with her girls is pure medicine. It’s what Fifty Shades and all its knockoffs *always* forgot: the heroine needs a life outside the man's orbit, or the romance suffocates under its own weight.
 
-That moment where she brings her own fingers to her mouth. The sheer psychological precision of that near-miss. *A breath’s width remained.* My chest literally seized up. She wanted to cross that threshold so badly. She had Pace’s total, untroubled acceptance of her body on one side—a man who groans into her like a meal, who drinks her down and brings her own taste back to her lips without an ounce of hesitation or disgust—and Randi’s cool, sophisticated permission on the other (*"It was powerful. It turned me on"*). She has two people showing her that who she is and what she produces is good, is delicious, is entirely worthy of devotion. And yet, that invisible, ingrained wall of shame still stopped her tongue behind her teeth.
+Watching Vee take Kayla and Meg out to a gorgeous, sunlit breakfast—treating them like the grown, confident woman she’s becoming—was just wonderful. Kayla clutching her heart over peanut butter crackers and then shrieking so loud the whole restaurant turned around when Vee admitted she flashed him? Pure gold. "You were standing there *talking to me about my socks!*" I actually laughed out loud in bed reading that. It’s so real. That’s exactly what your loud, chaotic friend does when you drop a bomb like that over mimosas.
 
-And then she wipes it on the sheet. That broke me. She wipes her own desire away like a stain, finishes herself off in a solitary, airless frenzy, and then forces the window open to let the freezing January air scrub away the evidence of her own life before Cassie gets back. And that final image—lying in the dark, deliberately settling her hip over the cold, damp spot on the bed, whispering *Greedy* to herself, her mouth still empty... it’s devastating. It’s gorgeous.
+And Meg—god, bless Meg. "That's a big apology... Sometimes you have to make it right in their language." Hearing Meg validate it, framing it not as a woman degrading herself, but as a bold, intentional gesture to bridge a fight, grounded the whole crazy coat stunt in something deeply human.
 
-What gets me so deep in my gut is how safe she is with Pace’s memory even while she’s warring with herself. When she remembered him stopping the kiss—the way he stilled, the way he immediately began to pull out the moment she objected, reading which "no" was which without sulking, without forcing himself on her, without an ounce of cruelty—that is the exact heartbeat of what I read for. His dominance isn't an erasure of her boundaries; it’s an absolute reverence for them.
+But what's really making my heart beat fast is Wednesday night. Pace—stoic, exact, intensely private Pace who broke down and couldn't handle Chili's—is voluntarily stepping out of his sanctuary to take *all* her people to dinner. Kayla, Meg, Cassie, Theo... and Randi.
 
-She is coming alive, inch by painful inch, but the jacket's warning is humming louder than ever in the background. She thinks of Pace's mouth; she wonders about Randi's fingers. Both of them are pulling her out of her old, cramped life, feeding an appetite that was always hers, but she’s still so terribly fragile underneath it all. I need to see her get through this. I need to see her back in that warm house, at that table, being held.
+Randi.
 
-GATE 60 — The Reach
+My stomach just did a hard flip. Randi, who is secretly, silently in love with Vee. Randi, who gave Vee those absurd heels specifically to send her into Pace's bed. Randi, who went dancing with Pace before Thanksgiving. And now Pace is bringing them all together into one room, under the lights, to claim Vee publicly as the center of his life. It’s the ultimate gesture of him tearing down his walls for her—and at the exact same time, it’s an absolute powder keg. Wednesday is going to be magnificent or catastrophic, and I need to be seated for it immediately.
+
+GATE 56 — Across
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The psychological honesty of her shame warring with her appetite was breathtaking; watching her hover a breath away from her own mouth completely gripped me. I desperately need to see where this awakening takes her next.
+WHY: The banter with the girls was absolute perfection, and the anticipation for this Wednesday dinner with Pace, Randi, and all her friends in one room has me practically vibrating.

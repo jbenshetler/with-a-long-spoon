@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch059 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~8348ecb548e4 · 2026-09-12*
+*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~bb2635a8b1b0 · 2026-09-12*
 
-REACTION
+REACTION — Oh, Vee. “We talked” made my stomach drop, because they absolutely did not. She offered her body, he answered with hunger and tenderness and food, and now she has converted that into the conversation she needed. The lie about the ruined clothes is almost funny enough to float—until I remember she is telling it to Cassie, the one person who asked the clean question and would immediately know that the question still has no answer. Vee isn’t merely protecting a sexy secret. She is protecting the reconciliation from examination.
 
-Oh, Vee. This hurt in exactly the quiet, intimate place it meant to.
+And the book knows. “The record stood exactly where Vee had left it, corrected by nobody” is such a cold little sentence beneath all that laughter. This is precisely the awareness I needed after two chapters of ecstatic warmth. It has not forgotten that nothing was resolved; it is showing Vee actively rewriting what happened because she is happy and cannot bear to put that happiness back at risk.
 
-What got me was that she genuinely wants to cross that last inch. Nobody is forcing her hand upward; the curiosity is hers, her body has already answered twice, and she wants to know what Pace and Randi know. But wanting does not magically erase the old prohibition. She can bring her fingers to within a breath of her mouth and still cannot complete the reach. That felt painfully honest—not coyness, not a tease, not the book manufacturing a taboo so someone else can conquer it for her. Her body, desire, shame, and choice all remain separate enough to disagree.
+Cassie breaks my heart a little here. She gives Vee her full attention, hears the evasions, and still refuses to seize authorship. I suspect she knows far more than she says—the held-breath pause after Pace supposedly shrank the sweater felt like her clocking the story and choosing not to expose Vee. That restraint is loving, but I’m frightened Vee is learning how easy it is to keep the safest person outside the truth.
 
-And Pace’s remembered response matters enormously. He stopped the instant her “wrong” became a no, distinguished it from her legs asking him not to withdraw, and left her mouth alone until she chose it again. In her private reconstruction, what draws her forward is not pressure from him but his complete lack of disgust. He has made curiosity possible. He has not made it compulsory. That is the distinction I keep needing this book to understand, and it does.
+The message from Cassie’s mother got me unexpectedly hard. Vee’s tiny “Oh,” Cassie hearing its true size, and then releasing her before the feeling demanded explanation—that is care without engineering. It throws Randi into even harsher relief. Cassie and her family make space for Vee to arrive; Randi decides where arrival should be and furnishes the costume.
 
-Randi is in the room without being there, of course. “It was powerful. It turned me on” has become another carefully placed stepping-stone, and Vee is already wondering whether Randi meant a lover’s mouth or her own fingers. That ambiguity is intensely erotic because Vee is not only trying to understand the act; she is trying to imagine Randi doing it. She still cannot let herself name that part. Pace’s face gets to occupy the fantasy openly. Randi’s experience sits underneath it, quietly supplying permission and heat.
+I’m also relieved that Vee can come back from Pace’s lavish private world and still love the draft, the cramped shower, the ridiculous family stories, the room switching back on when Cassie enters it. She has not been wholly absorbed into him. But the flannel is comforting her again, and “Friday would come” has replaced the question she fought so hard to ask. The shirt’s warmth may still be hers, but right now she is willing to call it his.
 
-But the end made my chest ache. Vee closes the window to keep the warmth in, explores herself, then opens it again because her own smell feels like evidence that must be erased before Cassie returns. She buttons Pace’s shirt and makes herself respectable. She lies down deliberately over the damp patch as if accepting punishment: her mess, hers to lie in. And that poisonous little “Greedy” survives everything—pleasure, consent, curiosity, orgasm—because the deepest shame here is not what she does but that she wants more after already being given so much.
+What I’d text at 1 a.m.: SHE TOLD CASSIE THEY TALKED. THEY DID NOT TALK. The author knows, thank God, but Vee is now helping maintain the crop.
 
-Her mouth still being empty is devastating. It is not failure, though Vee experiences it as one. She approached a boundary and discovered that it was still a boundary tonight. She stopped herself. Nothing bad happened. The desire remained. The door remained open. I desperately want her to learn that an unfinished reach is still hers, not a debt she owes to Pace, Randi, or the braver woman she thinks she ought to become.
-
-GATE 59 — The Reach
+GATE 54 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 8
+NEXT: 8
 ALMOST-STOPPED: none
-WHY: This is the book at its most trustworthy: intensely erotic while letting desire, shame, and refusal coexist without forcing any of them into a false answer. Vee’s unfinished reach toward her own fingers—and, beneath that, toward Randi—has me completely.
+WHY: This quiet chapter checked the instruments and confirmed the book’s awareness is still fully on: Vee’s happiness is real, and so is the lie she has built around it. I need to see what happens when she tells Randi “everything,” especially now that Vee has begun concealing the unresolved question from Cassie herself.

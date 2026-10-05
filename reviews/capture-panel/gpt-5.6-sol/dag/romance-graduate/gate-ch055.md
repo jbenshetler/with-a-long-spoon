@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 122f2504f31e · 2026-10-01*
+*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha f6c081c5e67c · 2026-10-01*
 
-Oh, this got me. The heels going on first, the respectable church coat over absolutely nothing, Vee looking at herself and deciding she was ready instead of dirty—I was completely inside her nerves. And the denial in front of the mirror was viciously hot. Carrying herself to him wound that tight, then nearly getting pulled over? I would have died. Kayla’s laundry monologue while Vee stood there naked under wool was exactly the kind of unbearable, funny humiliation that makes the heat feel lived rather than staged.
+REACTION
 
-The doorstep absolutely delivered. Pace’s formal little “Is everything alright?” made my stomach drop, and then watching the wall vanish when she opened the coat was enormously satisfying. Him going to his knees in the cold, the open door banging, her nipples wet in the January air while his mouth was between her legs—yes. That is the explicitness I came for. It was frantic without becoming generic, because it belonged specifically to their month apart, his patience, her shame, her body, that doorway. Even the graceless attempt to make it to the bed felt more intimate than a perfectly choreographed scene would have.
+Oh, Randi. You beautiful, starving liar.
 
-And afterward, his head on her breasts, the pancakes, “I missed you so much” with his voice cracking—I felt all of that. I believe his love. I believe her relief. I believe that for one night the food, warmth, sex, and care genuinely filled every space in her.
+That first hug got me. Vee breathing her in, both of them holding past the point where a hug should end, Randi throwing those expensive new things onto the floor without even looking because Vee is there and hurting—that is real. Randi loves her. I felt it in my chest, and that somehow makes everything she does next so much worse.
 
-But “nothing needed saying now” made me want to throw the Kindle.
+Because Vee finally asked the right question. She stood at Pace’s door and refused to let warmth and dinner and sex answer it for him. And Randi takes that brave, clean act and teaches her to see it as cruelty. “You backed him into a corner in his own house” made me furious. She did not corner him. She asked what she was to him. Randi knows why he froze, knows he loves Vee, knows there is another woman because she is the other woman—and still looks into this exhausted girl’s face and says, “That is not a man with another woman.” That isn’t careful concealment anymore. It is a lie designed to make Vee distrust her own completely accurate alarm.
 
-Everything needed saying. That is the whole wound. Vee asked for words, held the boundary, and left; Randi persuaded her that asking was an injury she should repair with her naked body; and Pace accepted that repair without answering the question or admitting that Randi exists. The chapter is so hot that I understand exactly why Vee feels restored—and that makes the manipulation worse, not better. She thinks she took this into her own hands, while wearing the shoes chosen by the woman who lied to her. Pace even noticed enough to order that they stay on, and I am now wildly suspicious that he recognized them.
+And God, the manipulation works because Randi knows her so intimately. She knows exactly how to turn Vee’s shame into heat, exactly how to make bodily exposure feel like courage, exactly where to stop the sentence so Vee completes it herself. Naked under the coat is extremely hot to me. I want the doorstep so badly I can practically feel the cold on her legs. But Vee is being sent there to apologize with her body for having asked for honesty. That poisons the fantasy without killing the charge, which is almost unbearably effective on me.
 
-“I missed you so much” is beautiful. It is also still the smaller sentence. Once again he gives her something true, tender, and devastatingly effective just beside the truth she requested. And Vee deciding there is “no room” to want anything else reads less like resolution than temporary satiation. Of course there is no room: she has been orgasmed, fed, warmed, tucked in, and shown his grief. This man knows how to make every unmet need go quiet without ever naming it.
+The shoes made my stomach drop. Randi choosing what Vee wears to Pace’s door feels like a signature meant for him, whether Vee knows it or not. If Pace recognizes them, I may actually throw something. If he opens that coat and accepts this offering before telling her he loves her—and before telling her about Randi—I am going to be incandescent.
 
-Cassie seeing the outfit at the end made me laugh, but I wanted her clean question immediately. Vee is incandescently happy, and I’m happy for her body while terrified for her heart. I am absolutely continuing because this cannot be allowed to stand as the repair. The eventual revelation about Randi is now going to detonate inside a reconciliation Vee believes she chose freely, and I need to see whether the book knows how morally ugly that is.
+Then Vee asks for Randi’s real New Year and gets another immaculate edit. Randi gives her the public fairytale Vee is most vulnerable to wanting and hides the only emotionally true part: that John could not reach her, that Pace did, that Vee does. And Vee, sweetheart, hears John naming imaginary children and thinks this is what ease and certainty look like. She has no idea both people she loves are curating reality around her.
 
-GATE 55 — Nothing Underneath
+I am completely hooked and deeply uneasy. The tenderness between these women is not fake. The desire is not fake. Vee laughing at the end is not fake. That is what makes Randi frightening: she isn’t pretending to care while manipulating Vee. She is manipulating Vee because she cares and is too afraid to let care become a choice Vee gets to make. I would text a friend at one in the morning: “The secret girlfriend just sent her girlfriend to their boyfriend naked in her shoes, and the girlfriend thinks she’s apologizing. I’m unwell.”
+
+GATE 54 — My Friend Randi
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: “and said nothing, because nothing needed saying now.”
-WHY: I was completely consumed by the heat and genuinely moved by Pace’s cracked-open tenderness, but the chapter’s erotic triumph is also Vee surrendering the demand that made her leave. I need the next chapter now because the sex repaired the feeling, not the lie, and Randi’s shoes are still on Vee’s feet.
+ALMOST-STOPPED: none
+WHY: I need that door opened immediately. The coat and heels have me by the throat, but what I’m really desperate to know is whether Pace accepts Vee’s body as an apology—or finally becomes brave enough to refuse the false terms and tell her the whole truth.

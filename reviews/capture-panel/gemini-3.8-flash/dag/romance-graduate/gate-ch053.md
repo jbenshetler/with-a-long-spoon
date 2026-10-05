@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha bff68c2a8905 · 2026-10-01*
+*capture-dag-v2-rich · gate ch052 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c1f15218cc12 · 2026-10-01*
 
-REACTION
+REACTION:
 
-Oh, Pace. You absolute, stubborn, terrified fool.
+I needed this scene like oxygen. After watching Vee freeze in her childhood bedroom, spiraling in the dark and imagining Pace at the stove whipping up gourmet meals for some nameless, leggy fantasy replacement, getting inside his actual, unglamorous reality was pure catharsis.
 
-Seeing him completely wrecked—hungover, miserable, choking down bland boiled meal-prep chicken out of plastic bags just to stay functional—broke something in me. After dozens of chapters watching him move through that kitchen like an untouchable high priest of control, seeing his hand shake over a bowl while he listens for a car engine on the highway was devastating. He thought building a fortress of routines and domestic perfection would keep him safe from being destroyed, and instead he just built a very clean, very quiet cage to starve in.
+He isn't lounging in silk or effortlessly moving on; he’s sitting in a greasy double-wide diner off a country road, eating a cheeseburger across from a scrappy, foul-mouthed lesbian who sees straight through his polished intellectual armor and calls him out on his absolute nonsense. Sheri is the best thing that could have happened to this book right now. Watching her pop his balloon—laughing directly in his face when he started waxing poetic about the "philosophy" of his cooking—was deeply satisfying.
 
-The explanation about Daphne clicked everything into place without excusing a single damn thing. He convinced himself that the *word* "love" was the grenade, that withholding four letters would somehow cap the blast radius if she walked. So when Vee bared her entire soul on that porch, offering him everything, he panicked, locked up, and handed her an insult about her body. And the irony is killing him: by trying to protect himself from the pain of losing her, he literally engineered the loss.
+Pace builds these elaborate, pristine walls of competence and care, convinced that doing everything right on paper exempts him from ever having to bleed. He truly thought laying out a tidy list of his domestic virtues and saying she’s the most important thing in his life was enough. And Sheri cuts right to the bone with surgical precision: if you won't say the words, then your stubborn, self-protective silence matters more to you than keeping her.
 
-And that ending. Freezing when a truck drives by on the asphalt, his body leaning toward the gravel driveway before his brain can stop it, thinking it might be her—and then just breaking down at the kitchen table. It’s the exact kind of mature, agonizing emotional consequence I am always begging for in romance. He doesn’t get to cook a fancy pasta to fix this. He doesn't get to smooth it over. He is alone with a mop bucket, cold coffee, and the terrifying realization that he loves her and he threw her away.
+He knows it, too. You can feel the quiet terror in him when he admits he can't say it. He misses her, he’s miserable, and his own emotional cowardice is a prison he built with his own two hands. He couldn't handle Chili's because the noise drowned out her voice, but here in the quiet of an empty diner, the only thing deafening him is his own refusal to bend. The contrast between Vee's terrified fantasies of him moving on and his actual, lonely reality of nursing a glass of tea while someone tells him to get over himself is devastating.
 
-I need them back on the same campus immediately.
-
-GATE 53 — Not Enough
+GATE 52 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 0
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Seeing Pace's arrogant control shatter into an ugly-cry over boiled chicken and a passing car gave his emotional constipation the exact devastating reckoning it deserved. I need to see what he does now that the armor is gone.
+WHY: The outside perspective of a blunt friend stripping away Pace's intellectual rationalizations was desperately needed, providing essential emotional movement after the walkout.
+
+Would you like to discuss the next chapter?

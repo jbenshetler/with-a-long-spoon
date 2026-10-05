@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch065 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~fda4df0f276c · 2026-09-11*
+*capture-dag-v2-rich · gate ch060 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~f697ae9ef8f2 · 2026-09-11*
 
-REACTION — Oh no. Oh *no*. This chapter did the thing where I’m reading with one hand over my mouth and the other hand absolutely not turning the page slowly.
+REACTION — Oh.
 
-I knew Randi and Vee were going to cross something, but I was not ready for how perfectly nasty and tender and plausible the cover story would be. “Make him wish he were me” is exactly the kind of social camouflage that lets Vee survive wanting what she wants for five more minutes. The joke is the permission slip. The performance is the alibi. And then the kiss immediately becomes too real for the container it came in. That held inch before their mouths touch? Murder. Actual murder.
+Well, there it is. The blade did not fall on Vee yet, but it flashed hard enough that I felt my whole stomach go cold.
 
-And Vee. God, Vee. She is so starved for being chosen by women, not just men, and the party gives it to her in this glittering, dangerous form: Randi’s skirt, Randi’s hand on her back, Randi saying “she’s here with me,” Randi’s world letting her inside. The whole chapter is Vee being inducted again, but this time the altar is a dance floor and the sacrament is being looked at. I loved how the skirt becomes both shield and trap. Because she can tell herself the boldness belongs to Randi, borrowed with the clothes, right up until her own body betrays that it likes being seen.
+I knew Pace and Randi were involved in the original “plan,” obviously. The jacket told me that from page one. I knew there was a game. I knew they knew each other. I even knew, intellectually, that the book was going to make their private world real and hot, not just villainous scheming in a corner. But this chapter still knocked the air out of me because it wasn’t a reveal in dialogue or a wink across a table. It was them together, fully embodied, already fluent, already intimate enough to use Vee’s name as fuel. That is so much worse and so much more compelling than a simple conspiracy.
 
-Cassie’s eyebrow deserves its own novella. “Tonight I’m Randi’s date” and Cassie just silently filing that under: yes, I heard what you said. I need Cassie with a flashlight and a clipboard at the eventual emotional crash site.
+And God, I hate that it worked on me. I mean that honestly. Part of me wanted to sit there with my arms crossed like, absolutely not, you two do not get to be hot while my girl is lying in a dorm room one breath from tasting herself because of what Randi said. But they were hot. The mouth thing, after Vee’s whole unfinished reach, landing here with Randi absolutely untroubled by it? Cruel. Effective. The book knew exactly what it was doing. Vee could not cross that last inch alone, and Randi is over here licking the sentence clean and making it look easy.
 
-Randi is terrifying here because she knows exactly how to make the room excuse the intimacy. The ass grab, the boy across the room, the “show” of it — all of that is socially legible as party-girl nonsense, which means Vee can’t grab it afterward and say, Wait, that mattered. And then Randi does the worst/best thing possible: kisses her like it mattered, then hands it back as a performance. “I almost believed it” made me want to throw the book and also bite it. Because that sentence is a cage. It tells Vee the right answer before Vee can ask the question.
+What really got me, though, was not the sex as sex. It was the way they talk about Vee inside it. Not like a prize. Not quite like prey, either, which is the maddening part. They both sound in love with her. Pace saying, “She makes me happy” was such a plain little arrow. Randi saying she wants Vee to know exactly what she does to her — that one hurt. Because yes, I want Vee to know. I want her to know that Randi wants her. I do not want her to find out that everyone closest to her has been standing in a room she didn’t know existed.
 
-And yet I believe Randi faltered. That little moment after, where she doesn’t speak, just breathes and blinks and shakes her head? That is not nothing. She felt it too. She just recovered first and chose the lie that keeps the game intact. Which is exactly why I’m furious with her. Not because the kiss happened. The kiss needed to happen. Because Vee is left alone inside the truth of it while Randi gets to fold it back into “we were teasing a boy.”
+Randi saying, “She’s not the only one in love” is the sentence that changed the temperature for me. Because it names what has been moving under everything. Pace loves Vee. Vee loves Pace. Randi loves Vee. Pace and Randi have something too, whether love is the word or not, and their intimacy is not theoretical. It is not past tense. It is right now, while Vee is trusting both of them separately.
 
-Also: this chapter is hot in a different register from Pace’s chapters, and thank god. It isn’t replacing him; it’s revealing a different hunger in Vee. With Pace, she is being opened and known and arranged until shame turns into ceremony. With Randi, it’s recognition by a woman who already knows the codes, the prices, the clothes, the room, the performance — and can make Vee feel both protected and exposed. That is dangerous as hell.
+I’m angry. I’m also ravenous. That is the honest and embarrassing truth. This is the exact kind of emotional danger I want from erotica: not fake drama, not one missed text, but desire that implicates everyone. The heat is not detachable from the betrayal. That makes it harder to read and harder to put down.
 
-I am completely captured, but I am also getting anxious in the good/bad way. The book has now made the secret triangle active on all three sides. Pace and Randi are lovers. Randi and Vee have kissed for real under a fake excuse. Vee and Pace are at full erotic trust. The longer nobody tells her, the more every beautiful thing starts ticking.
-
-GATE 65 — On Her Floor
+GATE 60 — My Pleasure
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-ALMOST-STOPPED: "You really did a great job putting on a show. I almost believed it."
-WHY: That line hurt in exactly the place the chapter had spent the whole night opening. I’m desperate for the next chapter because Vee now knows something her life has no room for yet, and Randi knows she knows, even if she’s pretending she doesn’t.
+ALMOST-STOPPED: “Randi came against his mouth with one heel digging into his back and her fingers closed hard at the roots of his hair.”
+WHY: I almost stopped at the first line because I felt ambushed in the way Vee is going to feel ambushed, and I needed a second to decide whether I was mad at the book or thrilled by it. I’m continuing because this chapter finally opened the locked room, and now I need Vee to reach the door.

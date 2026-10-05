@@ -1,25 +1,23 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~0511a4346bd0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~d6bbb290a65b · 2026-09-11*
 
-REACTION — Oh, Randi. You absolute fucking menace.
+REACTION — Oh, thank God she left.
 
-“That is not a man with another woman” made me go cold. Not because the book has lost the plot—quite the opposite. That is a conscious, direct lie from the woman who knows perfectly well there is another woman because she is the other woman. And she says it while stroking Vee’s fear into a manageable shape, sorting real evidence from imagined detail so expertly that Vee has no reason to notice the one false conclusion slipped among all the truths. This is gaslighting in its most seductive form: Randi genuinely steadies her, genuinely loves her, correctly recognizes Pace’s terror, and uses all of that real insight to guide Vee straight back into the concealed arrangement.
+I felt sick the moment she noticed the two poured glasses. All that care waiting for her—the heat, food, wine, music—used to make me melt, and now I understand why she hates that it still reaches her. Pace has built an environment that answers every need except the one requiring him to surrender control of the story. He can anticipate her temperature hours in advance, but when she asks a direct question about her own life, suddenly he cannot understand language.
 
-The cruelty of making Vee reinterpret Pace’s refusal as something she did to him—“You backed him into a corner in his own house”—really got under my skin. Pace did love her. He was frightened. He did hide behind his face. But Vee asked a fair, necessary question, and Randi turns her entirely reasonable demand into an injury she must repair. Vee arrives devastated because Pace withheld the truth, and leaves preparing to apologize with her naked body. That is so exquisitely engineered I want to bite something.
+“You’re the most important person in my life” should have been enormous. Instead it landed as another exquisitely warm non-answer, because he knows a fact she does not: her relationship is already entangled with his other lover. He cannot give Vee an honest name without opening the locked door behind it. This is not a man philosophically indifferent to labels. This is a man for whom the truthful label would force disclosure.
 
-And of course the coat plan is hot. That’s the trap for me too. Vee wants it almost as soon as she understands it; the shame ignites her exhibitionistic courage exactly as it has before, and walking bare beneath a coat to the man she loves could be a gorgeous act she authored. But Randi knows precisely how to turn Vee’s sexual daring into surrender without ever issuing an order. She leaves the sentence unfinished so Vee has to supply “nothing under it,” reframes the act as bravery, sends her away to beautify herself, and even chooses the heels. Vee will experience this as taking the situation into her own hands while carrying out Randi’s composition down to the shoes. I hate how effective it is. I am also ferociously compelled.
+And then: “Do any of your friends have a relationship you’d rather have than this one?” Absolutely not. That is such a revealing maneuver. She asks whether she knows what relationship she is in, and he asks her to compare its quality with worse relationships. Pleasure is not informed consent. Being treated better than her friends does not mean she has been told what she is participating in. He makes a true thing pull against her question, and I was furious that she felt the pull—but so proud that she named it: “That’s not what I asked.”
 
-The Sheri portion is almost obscene in its dishonesty. Vee invented Sheri’s body, yes, and Randi dismantles that fantasy with perfect tenderness—but she uses the falseness of those details to erase the true instinct beneath them. There is another woman. Pace has been with her throughout this entire relationship. Vee’s fear is not a liar; it has found the wrong face.
+“Words are cheap, and you still won’t spend them on me” went straight through me. Because yes. He has money, a house, food, skill, endless bodily attention, and all the beautiful gestures in the world. Words are the one currency that would make him accountable outside the sealed room, so words are what he withholds. “Believe what I do” is particularly poisonous when what he does includes secretly sleeping with Randi and helping maintain Vee’s false understanding. If actions are the evidence, Pace, then she needs access to all the evidence.
 
-Then Vee, because she is Vee, tries to give something back. She asks for Randi’s real New Year and receives another curated truth: almost every detail, none of the wound. The repetition is brutal. Both women are in love, both afraid disclosure will destroy what they have, both telling partial stories—and only Randi possesses the information that would let Vee make an informed choice.
+His face shutting and his folded arms scared me more than shouting would have. That felt like a boundary—not an emotional incapacity, but a line he has decided he will not cross. Perhaps the plan requires Vee to reach some point before disclosure; perhaps he and Randi agreed on timing; perhaps naming Vee would demand naming Randi. Whatever it is, he chose the hidden structure over relieving the woman crying in front of him.
 
-Randi calling John perfect everywhere except the bedroom made me laugh, then hurt. John offers the explicit future and cannot reach her. Pace and Vee reach her without knowing they are being held inside her secret. Randi is not arranging these people because she feels nothing. She is arranging them because they are the only people who make her feel anything, and she has decided that fear entitles her to keep control.
+And Vee would not let his hands replace the answer. That is the chapter for me. Those hands have given her extraordinary pleasure, fed her, soothed her, made shame bearable, and repeatedly settled questions her mind was trying to ask. This time she recognized the substitution while it was happening. She did not accept touch as resolution. She did not let the warm house make her doubt the cold fact. She walked out without even bringing in her bag.
 
-The double hug nearly undid me. I believe every second of it. She missed Vee terribly. She puts Vee ahead of the expensive new things without hesitation. She loves her. And while holding the crying woman she loves, she lies directly to her and prepares her as a sexual peace offering for their shared lover.
+I want to text someone at one in the morning: SHE FINALLY ASKED HIM WHO SHE IS, HE STILL WOULDN’T TELL HER, AND SHE LEFT.
 
-Yes, the book knows. God, it knows.
-
-GATE 50 — My Friend Randi
+GATE 45 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 10
-ALMOST-STOPPED: “That is not a man with another woman, gorgeous.”
-WHY: That lie is monstrous, intimate, and fully intentional—and the book understands exactly why. I’m furious, aroused, heartsick, and desperate to see Vee arrive at Pace’s door carrying a choice that is authentically hers and meticulously Randi’s.
+ALMOST-STOPPED: none
+WHY: Vee finally demanded an answer no amount of tenderness could impersonate, recognized his attempt to answer with everything except the truth, and left. The book sees the manipulation with terrifying clarity, and I need to know whether Pace follows her with honesty—or merely another beautiful gesture.

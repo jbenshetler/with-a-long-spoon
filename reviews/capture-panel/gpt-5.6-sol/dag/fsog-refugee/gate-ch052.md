@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c1f15218cc12 · 2026-10-01*
+*capture-dag-v2-rich · gate ch051 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · 2026-10-01*
 
-REACTION — Oh, Sheri, thank God. Finally somebody who loves Pace enough not to let him build a beautiful little courthouse out of technically true things and acquit himself inside it.
+REACTION
 
-“Every brick was true and the true things were supposed to come to something” is exactly his problem. He genuinely believes the weekends, the attention, the cooking, the space he gave Vee, and “most important person in my life” should add up to the word she asked for. But Vee did the arithmetic and found the missing term. Sheri sees it instantly: Vee did not ask him to prove that he behaves lovingly. She asked him to say what he wants and what they are. “Then not saying it matters more to you than having her” hurt because it is so clean, and because he has no answer. I wanted someone to say precisely that to him.
+Oh, Vee. This was loneliness with nowhere to put its legs.
 
-And he misses her. I needed that embarrassingly badly. Chapter 51 left Vee freezing in her childhood bed, inventing another woman in her place because Pace had given her no way to know whether he was hurting too. Here he is carrying something in from the truck, deciding to bury it, thinking immediately about whether Vee would love this diner, wondering whether she would let him bring her somewhere quiet enough to hear her whisper. He is absolutely gone over her. The air crackles; she understands the philosophy under his food. That is such a Pace-shaped declaration—overthought, slightly ridiculous, completely sincere—and of course Sheri punctures it before he can turn it into another refuge. I laughed when she told him to get over himself, and I loved him for laughing too.
+That childhood bed absolutely got me: the room loving Vivienne perfectly while having no idea who Vee is now. She has outgrown the girl her parents know, but the life she grew into with Pace may have vanished because she asked one necessary question. She cannot go backward, and he has given her no honest way forward. That is such a frightening place to leave her.
 
-But no, his longing does not clear him. “I want Vee. I miss her” is apparently sayable to Sheri while whatever Vee needs is still impossible to say to Vee. That makes the refusal worse, not better. He can name his desire when the person affected is absent. And he still let “the brunette” sit there as information Sheri has and Vee does not. “She find out about the brunette?” made my whole body tighten. Pace’s “No. Not like that” is another surgical answer: no, the rupture was not caused by discovery, because Vee still has not discovered anything. He knows perfectly well that Randi is relevant.
+I hated watching her own memories become unsafe. Pace’s kitchen used to be the place nobody could take from her—the first place her hunger was understood and answered—and now she cannot even revisit that first night without imagining another woman in her chair. That hurt more than ordinary jealousy. His silence has reached backward and contaminated what she thought she knew. And the cruelest thing is that Pace probably believes he is respectfully leaving her room, because that is what he does. But she asked him to fill one specific silence. Leaving that silence untouched is not kindness.
 
-I also feel newly protective of Sheri. Paige sounds like she touched a real, ordinary life Sheri wanted—seven people shouting at the table, that enormous laugh—and then kept treating estrangement like a stubborn little misunderstanding Sheri could repair for Christmas. “People who’ve never lost anything think grief is a choice” went straight through me. Pace knew exactly what to say because this is shared ground between them. His “I don’t go back” is sitting underneath that conversation like a grave. I want to know what happened, but for once the secrecy here felt like privacy rather than manipulation: neither of them demanded the other excavate it for the reader.
+I wanted to reach into the book when she decided he could be anyone’s because she had “no standing” to ask. She should have standing because of everything they have been to each other, named or not. Yet I understand exactly how he made her feel she doesn’t. “Most important person in my life” should have steadied her; without a name or a promise, it has become almost useless.
 
-The crude comments about Vee’s body irritated me, especially “the one with the big tits,” but Sheri’s voice is deliberately abrasive and Pace corrects her name. More importantly, when asked what Vee has, he reaches past her body immediately. The sex is good, yes, and he blushes like a human being about it—but what distinguishes Vee is that she sees him. She understands what he means beneath what he makes. That is why this is tragic: they recognize each other with extraordinary precision in some languages and are failing catastrophically in another.
+Her message to Randi made me ache in a different, angrier way. Vee knows Randi is hiding something painful and offers her presence without exposing what she saw, without demanding a confession, without steering her. Meanwhile Randi answers with a cropped truth and calls her gorgeous from the morning after another man’s bed, while withholding the much larger truth about Pace. Vee is doing for Randi exactly what Randi claims she is doing for Vee—leaving room—but Vee’s version is actually clean. She protects Randi’s ownership of her secret. Randi is using secrecy to shape Vee’s choices.
 
-Also, what did he carry in from the truck that he decided not to bring down today? That opening feels ominous. Bad news, family news, something he came specifically to tell Sheri and then withheld because of the season? Pace has “long practice” deciding things can keep, and that habit is now costing him Vee. The chapter is showing me that his silence is old and wounded, not casual. I understand him more. I am not letting him off.
+And still, yes, I felt the pull when Vee held onto the certainty of getting Randi back. A class, a face lighting up, “gorgeous” said as though it means only friendship when it absolutely does not. Vee is already reaching toward her as more than a consolation. That longing is hers. I want it for her so badly, and the hidden arrangement is poisoning even this before she knows it.
 
-I would text a friend: SHERI JUST TOLD HIM THAT NOT SAYING IT MATTERS MORE THAN HAVING HER, AND HE LOOKED DOWN. FINALLY. NOW MAKE HIM GO SAY THE WHOLE TRUTH.
+No heat here, but I was completely inside the ache of it. I would text a friend: *He let the entire Christmas break pass without one word after she walked out crying, and now she can’t even keep her own first night with him.* Pace needs to move. Not cook, not touch, not prepare a beautiful evening and wait behind his door. Move toward her and tell the truth.
 
-GATE 52 — The Usual
+GATE 51 — Old Acquaintances
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 1
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Pace finally admitted that he wants Vee and misses her, and Sheri refused to let his loving actions serve as an answer to a question he is choosing not to answer. I understand the wound beneath his silence better now, but “the brunette” is still hidden, and I need to know whether Sheri’s blunt truth sends him after Vee with actual truth—or only deeper into himself.
+WHY: This chapter made Pace’s silence feel active without pretending Vee’s midnight fears were facts. I am already reaching for the next chapter because I need to know whether he finally comes after her with words—and because Vee’s certainty about Randi is heartbreaking when I know what that certainty is built on.

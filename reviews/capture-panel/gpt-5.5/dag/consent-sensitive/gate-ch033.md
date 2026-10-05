@@ -1,19 +1,27 @@
-*capture-dag-v2-rich · gate ch033 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~d4837de434ed · 2026-09-11*
+*capture-dag-v2-rich · gate ch030 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~5274d9c5fd04 · 2026-09-11*
 
-REACTION — Oh no, this got me.
+REACTION —
 
-Not in the “oh no, I’m worried the book doesn’t know what it’s doing” way. In the “oh, Vee is starting to perform desire on purpose and I am in trouble” way. This chapter feels like a little chamber piece after the big induction and the spanking chapter, but it has that dangerous afterglow where a woman realizes she can make an erotic event happen instead of only being overtaken by one. She brings the dress. She brings no overnight bag, because of course she is still playing that little denial game with herself, but she brings the dress. Ma’am. Your subconscious packed the overnight bag.
+Oh. Oh, this chapter knew exactly where my pulse was and pressed there with two fingers.
 
-What I loved is that this is not Pace staging her. This is Vee staging Pace, just a little. She gives him instructions. “Go to the den. Wait for me in the recliner.” And he does. That matters to me. He stays where she put him. He waits outside the bathroom. He brightens the lamp but doesn’t come down the hall. The looking is charged, obviously, but it is also bounded by her direction. That made the heat feel clean to me, or at least clean inside the bigger dirty premise.
+I am so caught between heat and alarm right now, which is probably the book doing its job. Because Vee’s discovery here is not just “spanking is hot,” and thank God the chapter is not treating it that crudely. It’s worse and better than that. It’s the terror of realizing your body has already answered a question your conscious self has not even admitted exists. The kitchen moment from last chapter was already ringing, but this one turns it into a secret she has to carry into another woman’s gaze, and I felt how humiliatingly intimate that was. She isn’t confessing an event. She is being read while she re-experiences it.
 
-And the dress finally coming back to its maker: yes. The induction walk was hers, and the secret of being bare under it was hers, and I liked that she didn’t send Pace that whole truth in the photo. But now she decides he deserves to see the finished thing, and also decides she wants him to know exactly what the world didn’t know. That second “costume” is filthy and vulnerable and funny and brave. “And this is what I had on under it” is the kind of line I would text a friend at 1 a.m. with no context except screaming.
+And Randi. My God, Randi is dangerous in such a delicious, surgical way. “Did you deserve it?” is the whole chapter for me. That question is not neutral. It opens a door in Vee and then stands there smiling like it only mentioned the weather. Randi knows what she’s doing. She absolutely knows. She is giving Vee vocabulary, permission, fantasy structure, and a little test all at once. And because I already know Randi is not just a friend, the tenderness of it is laced with poison. I believe Randi likes her. I believe Randi is turned on. I believe Randi is helping. I also believe she is planting flags in Vee’s nervous system.
 
-I am also still watching the Randi thread pulse under everything. The shoes are not neutral. Randi is literally on Vee’s feet while Vee shows Pace the finished self. Pace says “They complete it,” and yes, they do, and he does not know the full charge of that completion unless Randi has told him. Maybe she has. Maybe he knows enough. Either way, Randi is in the room without being in the room, which has become this book’s favorite form of haunting.
+The practice room as a location made my skin prickle. Tiny, soundproof, historically used for exactly the kind of furtive private heat Vee is trying not to name. It’s almost too perfect, but I bought it because Vee buys it: the door shuts, the world goes away, and suddenly Randi’s attention is the only weather. That “quiet you could hear your own blood in” feeling is exactly right for a confession you don’t yet know is a confession.
 
-But this chapter gave Vee agency in a way I badly needed after how engineered everything has been. Not full knowledge, no. The hidden plan is still a black hook in the ceiling. But within what she knows, she is choosing with real appetite. She makes the erotic frame, she controls the reveal, she asks him to choose, and then she stands there and does not cover herself. I believed her pride. I believed her blush. I believed the heat.
+I loved, painfully, that Vee stops herself in the bathroom. That mattered to me. Her body wants; her hand starts; she catches it. Not because desire is wrong, but because she knows doing it there, immediately after Randi’s story, would mean admitting something she is not ready to admit. That gives her interiority. She is not just being erotically programmed by the plot. She is struggling with her own consent to her own appetite.
 
-GATE 33 — Made-Up
+But I am watching Randi hard now. “It would have been a terrible thing, if I weren’t already warm. But by then it’s welcome.” That is hot, yes, but it is also a loaded little doctrine to hand to a woman who is already confused about what her body’s welcome means. And in this book, “welcome” is never innocent. Randi is introducing the exact moral trap of the whole jacket: every yes can be real and still be engineered.
+
+The thing keeping me with the book is that I do not think the author is naive. The professor’s outlier lecture is practically waving a lantern: some shocks don’t stay isolated; they enter the part that carries forward. That’s Vee. That’s the first swat. That’s Randi’s question. That’s the plan. The chapter knows this is becoming part of everything after.
+
+Also: Vee asking Randi to walk her out. That reversal gave me a little thrill. She is no longer only being harvested from the group; she is reaching. She wants Randi specifically. She just cannot bear to file it under desire yet, so she files it under tiredness, Pace, weekend, anything else. Sweetheart, no. You held on too long after the kiss because you wanted to.
+
+I would text a friend: “She got wet from Randi telling her a spanking story in a music practice room and then tried to pretend the real issue was lack of sleep. We are not serious people, but the BOOK is serious and I am doomed.”
+
+GATE 30 — The Practice Room
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: This chapter pulled hard because Vee got to be the one arranging the scene, and Pace’s restraint made the looking feel earned instead of taken. The hidden manipulation is still alive under the floorboards, especially through Randi’s shoes, but the book knows that and keeps letting the charge be complicated.
+ALMOST-STOPPED: “So. Did you deserve it?”
+WHY: That question is manipulative as hell, and I felt my guard slam up, but the chapter knows it is manipulative. Vee’s arousal, panic, refusal to touch herself, and denial afterward all kept her human and self-protective enough for me to trust the darkness. Randi is playing with matches in a room full of silk, and I absolutely need to see whether the book lets that burn.

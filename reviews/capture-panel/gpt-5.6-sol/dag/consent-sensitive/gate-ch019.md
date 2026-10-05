@@ -1,15 +1,19 @@
-*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~1f134f523a50 · 2026-09-11*
+*capture-dag-v2-rich · gate ch017 · gpt-5.6-sol · consent-sensitive · prompt-sha 46406c793b0a · prose-sha ~d92de80cac99 · 2026-09-07*
 
-REACTION — Oh, Vee. That last line got me, because I believe her. She really has never been so happy. The sex wasn’t something she endured or got maneuvered through in the moment; she wanted him, initiated, kept choosing, and came home incandescent. I’m happy for her. I’m also sitting here with my stomach slightly clenched.
+REACTION — Oh, Randi is terrifying. Not because she pushed Vee into confessing—the push was almost unbearably intimate—but because she knew exactly when to stop. She opened every door herself, made each disclosure feel ordinary, flattering, even inevitable, then closed the final door just as Vee was stepping through it. “You don’t have to tell me” is technically permission, technically kindness, and in practice it leaves Vee aching to finish. That is manipulation with a jeweler’s precision. The book absolutely knows it. I felt the trap tighten sentence by sentence, especially when Vee could no longer remember how she had been caught.
 
-Because the missing middle with Cassie matters. Vee can call it kindness, but she told Randi the most vulnerable detail she couldn’t tell her actual best friend—and Randi extracted it by leading her almost word by word. Now Vee is editing Cassie’s access to her while Cassie, characteristically, refuses to pry. That difference is enormous. Randi manufactures the feeling that disclosure is irresistible; Cassie leaves Vee ownership of what she keeps. And Vee is rewarding the first intimacy with secrets while quietly starving the second one.
+And Randi is jealous. That tightness when Vee says Pace looked at her and she was fine—after Pace’s looking broke Randi open and sent her behind a locked bathroom door—is not friendly emotion on Vee’s behalf. Randi is hearing that Pace gave Vee the same kind of exposure and Vee experienced it as safety. That has to hurt like hell. Then she reconstructs the fitting with eerie specificity: the platform, the knees, the route around Vee’s body, even starting at the hip. She knows how Pace works. Vee thinks she is being understood by an experienced woman; actually she is reporting the results of a shared experiment to one of its designers. God.
 
-The “boyfriend” moment hurt for the same reason. Cassie says it easily and Vee lets the wrong word stand because correcting it would require saying what she actually knows about this relationship—which is almost nothing. She knows his hands, his appetite, his attentiveness, his house. She does not know he and Randi selected her together. She doesn’t even know what Pace believes they are now. Her happiness is absolutely real, and the hidden architecture underneath it is still there.
+But Randi wants Vee herself now. That is no longer subtext I’m willing to politely ignore. The story about being tied up was chosen to put an image of helpless, undone Randi into Vee’s head, and it worked. The kiss was exploratory and deliberate: hand at the jaw, mouth, pause, then a second press with more in it. Randi gives Vee exactly enough ambiguity to explain it away, because plausible deniability is where Randi lives. She can seduce Vee while making Vee feel solely responsible for ever naming it as seduction.
 
-Also: driving home bare, with the plum toenails and her mother’s voice finally failing to land? Yes. That is hot, and more than hot—it feels like a genuine little liberation. I loved that she could hold the memory privately without immediately converting it into shame. I just desperately want privacy to remain something she chooses, not the means by which Randi and Pace separate her from the one person who might see the whole shape.
+The money hurt, too. Randi watches Vee pay for the privilege of being drawn out—watches her choose soup, refuse the wine, surrender money she will feel missing later—and lets her. Maybe she is respecting Vee’s insistence, but given how exquisitely Randi reads people, she knows. It adds another ugly little layer: Vee needs to prove she cannot be bought while Randi is engineering forms of indebtedness far more powerful than lunch.
 
-GATE 19 — Toenails
-DECISION: CONTINUE
-CAPTURE: 8
-ALMOST-STOPPED: none
-WHY: Vee’s happiness pulled me in hard, but the cleanly removed “middle” in her story to Cassie frightened me more than any explicit manipulation could. The book still plainly knows that her joy and her increasing isolation are happening at the same time, so I trust it enough to keep going.
+And poor Vee putting her fingers to her mouth, immediately inventing “French” as an explanation, then panicking that someone saw. There it is: desire arriving before she has language sturdy enough to hold it, followed instantly by surveillance and shame. I want her awakening so badly, and I hate that it is being cultivated by someone who already knows far more about the situation than she does.
+
+My 1 a.m. text would be: Randi just emotionally edged her over tomato soup and then kissed her goodbye, and Vee thinks this was the best lunch of her life. I am completely doomed.
+
+GATE 17 — How It's Done  
+DECISION: CONTINUE  
+CAPTURE: 10  
+ALMOST-STOPPED: none  
+WHY: This is exactly the dangerous distinction I’m here for: Randi’s tenderness, jealousy, desire, and manipulation are all real at once, and the book sees every mechanism. I need to know what happens when Vee finally understands that “how it’s done” describes much more than dressmaking.

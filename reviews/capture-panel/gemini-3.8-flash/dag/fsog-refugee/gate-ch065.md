@@ -1,20 +1,30 @@
-*capture-dag-v2-rich · gate ch065 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0b898fc22a01 · 2026-09-19*
+*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ad99119c213f · 2026-09-19*
 
 REACTION:
 
-Oh, god. This chapter hurt in a way that was entirely too real, and yet it was so psychologically acute I couldn't look away for a single second. Anyone who has ever gotten a full Brazilian for the first time *knows* that exact feeling of walking in thinking you're just doing a slightly painful beauty treatment, only to realize you are about to be spread, rearranged, and physically humbled by a total stranger under fluorescent lighting.
+I feel like the floor just dropped completely out from under me.
 
-What broke my heart—and what makes Rivers so terrifyingly brilliant at writing this dynamic—is how Vee processed the whole thing. Pace asked for it. In his typical way, he asked it as a question, leaving the choice to her, but without explaining the reality of what he was asking for. And Vee, so hungry to be the woman he wants, threw her *yes* out ahead of her before she even understood the cost. But the real betrayal, the quiet, toxic little omission, belonged to Randi. *“Barely stings.”* Randi giving her the recommendation, laughing over the pastry, acting like it's a pampered spa day, and completely leaving out the searing agony and the humiliating command to *roll over onto your front*. Randi sets these little traps with a smile, ushering Vee across thresholds without warning her of the sting, just to watch her come out the other side changed.
+I am sitting here with my hand over my mouth, staring at the screen, genuinely shaken. *They are sleeping together.* Right now. In the middle of all of this. While Vee is back in her dorm room, lying awake on sheets where she wiped her own wetness because she felt too dirty and ashamed to taste herself—Pace is eating Randi out, letting Randi taste herself on his tongue without a single second of hesitation, and then fucking her on white sheets while they talk about *Vee*.
 
-And that moment on the table when Sondra's hand pinned her thigh and told her *“Don't move”*—jesus. That was the most devastating beat in the chapter. Vee’s body recognizes that grammar of restraint, but having it applied impersonally, by a stranger who doesn't care about her at all, made the absence of Pace feel like a physical wound. It captured the exact difference between true erotic submission and sheer bodily compliance. When Pace holds her down, it’s reverence; here, it’s just meat on a paper roll.
+God. Oh, my god.
 
-Yet, by the end, when she touches herself in the quiet room and realizes the sheer, electrifying newness of her own skin, the desire rushes right back in to fill the void. She didn't do it because she was forced; she endured it because she wants the moment where *his* hands find it. It's intense, it's a little messed up, it's deeply honest about the things women put their bodies through in the name of love and desire, and now I am desperate for him to see what she did.
+I knew from the jacket that they had "set the table" together. I knew they had some shared history, some arrangement. But to see it—to watch Pace, the man who was so infinitely gentle, who stopped the millisecond Vee flinched, who introduced himself as "Vee's boyfriend" to an entire room of people—driving up into Randi while Randi talks about wanting to put her mouth on Vee's nipple? And Pace *gets harder* hearing it? *"You like hearing me want her." "Yes." "Why?" "She makes me happy."*
 
-***
+It is so dark. It is so breathtakingly messed up. And the worst part—the part that is making my stomach knot up in the most complicated, twisted way—is how completely intimate and tender Pace and Randi actually are with each other. This isn't cold, mechanical plotting. Randi is teasing him ("subtle," "elegant"), cleaning him with her mouth, holding his hands, pointing out that Vee loves him and that *he* is in love with Vee. And Pace can't deny it. He softens. He looks at her and lets her see him completely stripped bare.
 
-GATE 65 — Barely Stings
+There is genuine history here. Real affection, real trust, real playfulness between the two of them. They aren't villains twirling mustaches; they are two people who are both desperately, dangerously obsessed with the same girl, using each other's bodies as a conduit to reach her. When Randi cupped her own breast and closed her eyes, imagining it was Vee's, and Pace took her nipple into his mouth right at that moment—it was electric, and it made me feel completely sick for Vee.
+
+Vee thinks she is navigating this tender, exclusive romance with an awkward, devoted mathematician who is coming out of his shell for her. She thinks Randi is her sophisticated older mentor who is just a little worldly and maybe a tiny bit ticklish. She has no idea. She is literally the fuel inside their engine. She is the ghost in the room while they sweat on each other.
+
+And the consent issue—god, it's walking the razor's edge here. Pace and Randi have immaculate consent with each other. Every shift, every command ("my turn," "stick that inside me"), the pacing, the check-ins—it's that exact mutual, dominant-tender interplay I crave. But the massive, looming betrayal of Vee's *informed* consent hangs over every single drop of sweat on that mattress. She doesn't know she's in an open triad where the other two are already fucking. She thinks she has a boyfriend.
+
+I'm terrified for what happens when the glass shatters. Because it has to shatter. Pace loves Vee—Randi called it right to his face, and he didn't fight it. But Vee is going to be utterly destroyed if she finds out this was happening behind her back before she ever gave permission for it.
+
+I cannot look away. My heart is beating so fast I can barely breathe.
+
+GATE 61 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The psychological precision of the salon scene was devastating and brilliant, showing the exact line between cold compliance and loving submission. The anticipation for Pace to finally touch what she went through all that pain for has me completely gripped.
+WHY: The sheer psychological audacity of this chapter knocked the wind out of me. It's horrifying, deeply intimate, and wildly complicated, and I need to see how Vee survives the collision that is coming.

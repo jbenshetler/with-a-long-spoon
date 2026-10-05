@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · 2026-10-01*
+*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · 2026-10-01*
 
-REACTION — Oh, that hurt exactly where it was supposed to. “Words are cheap, and you still won’t spend them on me” is the sentence I would be texting a friend at one in the morning with twelve exclamation points, because yes. Yes. She finally made him stand in the missing center of everything he has built for her, and he still tried to answer with the architecture.
+REACTION
 
-And I am so proud of her for not accepting the warm house as an answer this time. Not the heat brought up for her, not the waiting wine, not the dinner, not the porch, not “the most important person in my life,” not even the question designed to make her admit that no relationship she knows is better than theirs. All of those things are true. They are also evasions. He keeps handing her beautiful evidence and asking her to infer a verdict he refuses to state. Worse, she still doesn’t know the evidence is incomplete because Randi exists inside the same structure. “Most important” is doing viciously careful work there. It sounds enormous while promising nothing exclusive and disclosing nothing.
+Oh, this hurt. The shirt was one of the most romantic things in the book—the ridiculous two-shirt weekend, him understanding exactly what she was asking for, her carrying his smell back to the dorm—and now she has worried straight through the comfort of it. First it’s him, then it’s only evidence of him, then it’s cloth warmed by her own body. That progression is vicious. The moment she realizes “the heat in the shirt was her own, given back” made my stomach drop.
 
-I felt the old pull of him anyway. Of course I did. The house already warm, the wine poured, his face opening when she arrives—every bit of it still gets me. That is why this isn’t a clean righteous exit where I can simply hate him. He loves her in every language he trusts, and apparently distrusts the one language she has finally told him she needs. But once she asked plainly, his refusal stopped being reserve and became a choice. He understood enough to fold his arms and hold the line. That image changed something for me. He wasn’t merely failing to find the words; he was defending the silence.
+And Pace has earned this. I’m done letting the cooking and the listening and the beautiful sex soften the fact that Vee tried to tell him she loved him in the only language she could bear, and he answered about how well their bodies work together. Maybe he genuinely didn’t understand. Maybe he understood and would not answer. From inside her lonely little bunk, those possibilities hurt exactly the same. He can read every change in her breathing with his mouth between her legs, but somehow the emotional sentence goes past him? No. I don’t buy innocence indefinitely.
 
-And God, her leaving without the bag. That landed before a single word did. She came prepared not to be absorbed into the evening. Then she would not let his hands soothe her out of the question. That may be the most grown-up thing she has done: recognizing that comfort can be real and still keep her from an answer.
+What scares me is how efficiently Vee turns the question inward. She still isn’t angry enough at him. She isn’t thinking, *Why won’t he tell me?* She’s lying naked in the cold as if wanting an ordinary word has made her foolish, excessive, impossible to reassure. And Cassie is right there beneath her, the safest person she has, but Vee would rather freeze silently than wake her and admit that the magnificent relationship may not have a name. That is bleak in a way the sex cannot touch.
 
-I need the next chapter immediately, but I am afraid of what I want. I do not want him to chase her, say “I love you,” and have the secret remain buried under the grand declaration. The word alone is no longer enough. If he wants her back, he has to tell her about Randi. All of it. Otherwise he is just spending the cheap word at the last possible second to preserve an arrangement she never agreed to.
+The dropped shirt feels enormous. Not a breakup, not even a decision—just the first object of his care that has stopped working on her. Pace’s love language has carried this relationship almost by itself, and now she needs actual language. He cannot build a drawer, cook a meal, or scent a shirt deeply enough to answer this.
 
-GATE 49 — Believe Me
+I’m absolutely reading on. Somebody needs to speak, and for once I do not want Vee’s body soothed before her mind gets an answer.
+
+GATE 48 — Bare
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 1
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: She finally asked the exact question, refused every beautiful substitute, and walked out before his touch could make silence feel like an answer. I am already turning the page because Pace’s next move has to reveal whether his care can survive the truth.
+WHY: This was short, but it changed the meaning of one of their tenderest objects and left Vee literally bare once Pace’s acts could no longer substitute for words. I need the next chapter immediately because the silence has finally become more painful than the comfort built around it.

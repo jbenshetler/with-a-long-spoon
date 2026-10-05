@@ -1,0 +1,20 @@
+*capture-dag-v2-rich · gate ch070 · claude-opus-4-8 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~2db97916f454 · 2026-09-12*
+
+REACTION
+
+Okay. So he took her up a mountain and I spent the drive up bracing for the con to click — a laminated card of rules, a cabin that's secretly Randi's, *something* — and instead I got tikka masala in a thermos and a cider pairing and my chest going soft against my will like some sucker. Which is the trick, isn't it. It's always the trick. The book knows I'm braced now, sixty-nine chapters in, and it just... feeds me. Warm food, a fire, a man who planned which drink goes with dinner while she wasn't even in the room. "I wanted to please you." God. I hate how well that works on me even knowing exactly what it is.
+
+The key gutted me a little, I'll admit it. The box he made with his hands, the oyster-pale silk under it — and *she* half-recognizes the silk and can't place it and it slides off her, and I can place it, I've read those laundered panics, "they're your color," and I felt the cold of that when she couldn't. And then "house." Not home. He hands her *house* and some small part of her waits half a beat for the hearth-word and it doesn't come and she's *learned to let it go*. Sixty chapters and he's still spending everything except the word, and now he's trained her to stop expecting it and call the training peace. That's the sickest, saddest thing in the whole chapter and it's dressed up as a gift.
+
+The inventory. Fine — the blindfold, the mirror, "tell me what you see" and she gives herself one flat line and then he takes twenty minutes. And I'll be honest: about the little toe, about "peach gone into milk," I felt my thumb get restless. I've *been* in this scene. It's the worship crawl again, just standing up and blindfolded — the man who does six things down to zero, her body voting yes ahead of her, the shame turning to heat under being-seen. It's beautifully done and it is the *shape I already have*, and knowing the choreography made the middle drag. I was skimming for where it would turn.
+
+And then it turned, and I sat back up. "Go ahead" — and no hands come. Making her do it herself, blind, in the light, while he watches and asks *what are you thinking about* and drags "you, you, you" out of her at the exact break. That's the good cruelty. That's the thing this book does that no hockey player ever did to me. And *then* the last ask, dropped idle like he's clearing a plate: *would you tell me when you touch yourself thinking of me.* And she says yes breathy and barely-attending because his cock's already in her hand — and I went cold, because I know where her reports *go*. He debriefs. He and Randi trade her in that bed. He just opened a live feed to her most private room and she signed off on it mid-reach. That's the invitation reaching her again before she knew there was one.
+
+What I'm cross about: this was a Pace chapter, top to bottom, and 65 through 68 lit the Randi fuse — the mixer kiss, "you, you," the turned cheek, Cassie's flat *is this what you want*, the neck-flinch finally becoming thunder. I wanted that to keep burning. Instead the book walked me up a quiet mountain and gave me a gorgeous long worship setpiece and left the Randi bomb ticking offscreen. Marsh got one line of reciprocity and the spring clock ticked a millimeter. I came for the shoe to drop and got a key instead.
+
+GATE 70 — Grace
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 6
+ALMOST-STOPPED: "somebody ought to have told it, that ridiculous perfect last small toe... that he was telling it" — right in there, the inventory going long, I felt the fifth explicit chapter in a row and my thumb wandering for a plot beat that wasn't coming.
+WHY: The ending ask reconnected the whole con and chilled me the way this book chills me best, so I'm in — but I'm keen for the Randi fallout, not another Pace worship crawl, and this chapter spent its length on choreography I already own. The key and the withheld "home" bought back a lot; the middle spent it.

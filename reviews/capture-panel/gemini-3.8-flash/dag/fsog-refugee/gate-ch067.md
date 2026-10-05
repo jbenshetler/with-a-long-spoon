@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch067 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 00dbf427b44c · 2026-09-19*
+*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0ba818fcba40 · 2026-09-19*
 
 REACTION:
 
-I am sitting here with my jaw completely on the floor and my pulse hammering in my throat. Holy *shit*.
+Oh, god. My throat actually aches right now.
 
-Randi. God, Randi is playing the most brilliant, heartbreaking, utterly devastating game I have ever seen on a page. The calculated genius of putting Vee in that scrap of a skirt, telling her she has "a foot of leg and an ass she hasn't got," taking her onto the floor, lifting Vee's arms so her body is entirely exposed, and then using a random frat boy across the room as an excuse to finally, *finally* take the thing she has been starving for since October.
+Coming right off chapter 61—which left me practically vibrating with anxiety and rage watching Pace and Randi casually fuck and talk about Vee like she’s an exquisite piece of fruit they’re ripening together—this morning felt like a punch to the chest. Because here he is. The *real* Pace. The man who bakes cinnamon raisin bread while she sleeps off three ciders, puts the paper towel under the water glass so the ring won't mark the wood, steers her gently into his oversized undershirt, and puts his mouth to her forehead in the dark. The tenderness in him isn't an act. It isn't a tactic. It is so bone-deep and so quiet, and seeing him stand at that sink and lay out the stark, barren landscape of his life broke me.
 
-"The joke and the thing were not going to be the same size." That line hit me like a physical blow. Because Vee knows. Underneath all the sorority theater and the giggling and the "putting on a show for Harrison," Vee’s body was not doing a bit. She leaned down into that kiss, she parted her mouth, she tasted the salt and lime and Randi, and her hips moved forward *asking*. And the tragedy of Randi pulling back, blinking, catching her breath, and immediately snapping the mask back on—*"You really did a great job putting on a show. I almost believed it"*—is a knife straight to the ribs. Randi has to package it as a dare, as a joke, because if she admits she meant every single millimeter of that kiss, the whole house of cards collapses. She gave herself the kiss she’s been dying for, and then had to immediately hand Vee the plausible deniability to protect herself.
+"Sheri's my friend. My one friend. There isn't anyone else."
 
-And Vee is left standing there, soaking wet, completely electrified, with the taste of her best friend on her tongue and nowhere to put a single drop of it.
+To hear him say that so flatly, without a shred of self-pity or theatrical drama—just presenting it as a settled mathematical equation—was devastating. The window opens once, and he was a fifteen-year-old child among grown men who "weren't safe or weren't welcoming." God, the Daphne horror, the father who drove him out at sixteen, the campus emptying out around him on Thanksgiving because he had no home to go back to. Vee seeing it, finally really *seeing* the terrifying, beautiful vacuum of his life, made the bond between them feel ten times heavier. She didn't offer cheap pity. She didn't say she was sorry. She just walked around that counter and threw her whole weight against him the way Sheri did. That is real love. That is two specific, damaged, aching human beings holding onto each other in a cold kitchen.
 
-I can't even breathe thinking about tomorrow. Vee has to walk from this dance floor straight back to Pace. Pace, who just painted her whole body like fruit and loved every inch of her bareness on Friday. Pace, who *knows* how Randi feels about her. The sheer psychological tension Rivers is weaving between these three people is absolute masterclass erotica. I am practically vibrating waiting to see what happens when Vee realizes this wasn't a game.
+And that is exactly what makes the secret so utterly sickening.
 
-GATE 67 — On Her Floor
+Because Vee is sitting there mourning his isolation, thinking *Randi* is her safe harbor, thinking how lucky she is to have a girlfriend to do the triage on her heartbreak, completely blind to the fact that Pace and Randi are sleeping together. She literally thinks: "His one friend on this earth a five-foot woman who could never want him — the only kind, she was sure now, the world had ever quite let him keep." The irony is like a razor blade sliding under your ribs. She doesn't know Randi *does* want him, has had him, is sharing him, and that the two of them are whispering about her while they come.
+
+It makes the care feel so pure on one level and so deeply tragic on another. When this bomb goes off, it's not just going to break her heart—it's going to vaporize the entire architecture of safety he has built for her, and she is going to realize that the boy who has no friends had one other person all along, and they kept it in the dark. I am terrified for both of them.
+
+GATE 63 — Hangover
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The kiss was everything I have been waiting thirty chapters for—pure, electric heat that meant something profound to both women, balanced on the razor's edge of a lie. I need the next chapter right this second.
+WHY: The quiet domestic intimacy between them broke my heart wide open; seeing the stark reality of Pace's childhood trauma laid bare makes the trap hanging over Vee feel ten times more suffocating. I have to see Tuesday.

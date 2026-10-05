@@ -1,16 +1,24 @@
-*capture-dag-v2-rich · gate ch070 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha c10b93dddd9c · 2026-09-19*
+*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ec95866b43d5 · 2026-09-19*
 
 REACTION:
 
-Oh, Cassie. God bless Cassie. That one line—*"Do you want some of my Cocoa Pebbles?"*—almost made me burst into tears. It’s so quintessentially *her*. Cassie isn't stupid; she saw whatever she saw down on that walk, she knows the score, and she asked the only question that actually matters: *"Is this what you want?"* Not *what are you doing*, not *how could you*, just cutting straight through all the rationalizations, the sorority excuses, the panic, right to Vee's actual desire. And Vee couldn't answer it because the answer is terrifying. The fact that Cassie saw Vee try to pick a fight to deflect, completely stepped over the trap without taking the bait, and just offered her comfort cereal in a cold dorm room... that is real love. That is the kind of friendship that anchors you when your entire world is spinning out of control.
+I am lying here staring at the ceiling trying to steady my breathing because *what did I just read?!*
 
-And Vee is spinning so fast she's completely dizzy. She is utterly coming apart at the seams. Chapter 68 was an absolute masterclass in psychological and erotic tension—Pace rationing her pleasure stroke by stroke, using her own confession to draw the truth out of her, while secretly being aroused by it himself—and Chapter 69 showed the inescapable hangover of that. She tried to wash it off in the pool, she tried to convince herself it was just "static" on her skin, and then the second Randi touched her wrist for a damn Lifesaver, her whole body betrayed her again.
+This man. *Peter.* The sheer, absolute, reverent inventiveness of him. In a lesser book, a hero asking his partner to get waxed bare is a gross, patriarchal cliché—a demand for her to look like a porn star. But here? He planned this whole sensory feast. He bought fruit and brushes and edible body paint and champagne, and he turned every single thing she has ever felt insecure about—the size of her breasts, the curves of her hips, the sheer overflowing wetness of her appetite that she whispers *greedy* about in the dark—into literal, celebrated art.
 
-Now, standing in her coat, unable to lie to Cassie because she can't even lie to herself anymore. She reached for the answer, touched the edge of it, and realized her whole body is screaming *yes*. The tension is coiled so tight right now. She pushed brunch to Saturday, which means she's deliberately setting up the next collision. Pace knows. Cassie knows. Randi is circling. Vee is the only one pretending there's still a floor under her feet.
+And the consent! The brilliant, erotic psychology of how he did it! He gave her back the control she thought she’d surrender. "Still meant the brush. Moving meant the brush going away." He made her stillness a choice, teaching her body that holding still wasn't about being trapped or pinned down (like that awful moment under Sondra's cold, impersonal hand at the salon), but about choosing to receive. And when she ruined his composure right at the start? When she took him into her mouth, softly kissed the old scar on his thigh that he used to protect, and wrecked him on the rug? She claimed her own hunger first. She wasn't just a canvas; she was a sovereign participant who laughed, who smeared paint across his face on purpose (*"Oops"*), and he just wore her print like a badge of honor!
 
-GATE 70 — Some of Mine
+And then—the gesso. My god, my heart stopped. He literally dipped the brush into her own slick, using *her* to prep the canvas, painting her mons with her own wetness. He demystified it. He took the shame right out of the fluid she tried to wipe onto her dorm sheets in Chapter 60 and made it essential, beautiful, shining. And then he licked the painting clean, erasing it with his mouth, and kissed her with her own taste mixed with salt and champagne and skin. She searched for the boundary she had panicked over before, and this time, there was no panic. No disgust. Just him, and her, and the wave carrying them both.
+
+And then that final beat. The photograph. Pace giving her the phone, not keeping a copy for himself, leaving her power and her image entirely in her own hands. But what does she do? She lies in the dark looking at herself—at this opulent, unashamed portrait of female desire—and she thinks of Randi.
+
+*"Tomorrow was Randi's... She would not be telling her about this."*
+
+She says she won't tell her, but the very fact that her mind immediately went to Randi's hoarse voice, imagining Randi looking at this photo of her painted breasts and dripping sex... the heat is becoming unbearable. Vee thinks she's keeping a line, but the line is already a blur.
+
+GATE 66 — Still Life
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The grounding reality of Cassie offering Cocoa Pebbles after cutting straight to the core of Vee's denial was absolute perfection. The psychological knot is tightening so beautifully that I can't look away.
+WHY: The sensory brilliance of Pace painting her, reclaiming her shame through absolute reverence and playful dominance, was staggering. Seeing tenderness, intense heat, and immaculate consent collide like this is why I read romance, and the lingering psychological shadow of Randi right at the end leaves me desperate for the next page.

@@ -1,23 +1,22 @@
-*capture-dag-v2-rich · gate ch028 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~630e5e2d2504 · 2026-09-11*
+*capture-dag-v2-rich · gate ch026 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha d1b699df4c26 · 2026-09-14*
 
 REACTION —
 
-Oh. I liked this little side-window more than I expected to.
+Oh, this one got me in exactly the place the book knows I’m watching.
 
-Not because it gave me comfort, exactly. Pace having a woman cycling friend who knows him well enough to say the hard thing and not decorate it is useful to me. Sheri reads as somebody outside the charged little triangle, and I needed that. She is not dazzled by him in the same way, not being seduced, not confessing over lunch, not standing in a dress or kneeling with a shoe. She is just there on the road with cold fingers, calling him on the weather. That steadies the book.
+At first I was all in. The dancing lesson is basically a consent-and-power miniature, and the book absolutely knows it. “Give me something to push back against” is such a loaded, perfect sentence for Vee: not collapse, not perform, not guess, but meet the lead with enough self that there can be communication. I loved that. I loved that the closeness she’s scared of is what makes her safer. That is the kind of erotic power dynamic I can read forever when the book is awake to it: structure as something that can hold you, not erase you.
 
-And it matters that he talks about Vee like that. Not about her body first, though Sheri certainly gets there. He tells Sheri about Vee touching the walnut chair and noticing the joint, about her pulling down a math book and not recoiling from it. That got me. Pace likes being seen in his making and his mind, and Vee did that without knowing it was a key. I believe his affection more because of what he chooses to report when Vee is not in the room.
+And then the bar. Whew. The room full of women who know Pace is exactly the right destabilizer. Because yes, of course a man like that has a whole social wake behind him. Of course Vee isn’t the first woman he’s made feel suddenly graceful. I felt her humiliation hard, and I understood the nasty snap of it even while I hated watching her do it. The blonde’s line was poison wrapped in plausibility: “Knows how to get a girl to do just what he wants her to.” That is the line of the chapter for me, because it names the thing I’m both turned on by and worried about. Is it a lead, or is it control? Is Vee learning to feel, or learning to obey? The chapter knows those are not simple questions.
 
-But I also sat up hard at “Randi. That’s not finished.” Sir. Excuse me. That is a very small sentence with a very large locked door behind it. He knows the Randi piece is active. He knows there are two women in motion here. He is not pretending it is just happening around him. And when Sheri says, “Two of them at once,” the book lets that complication sit there in adult daylight. Good. Thank you. I needed somebody to name the math.
+I was proud of the book for letting Vee be ugly here. Not “cute jealous,” not adorably insecure, but actually unfair. She weaponizes the good thing about him. And then, thank god, the bartender doesn’t let the misunderstanding become cheap soap opera for too long. Pace gets drunk girls home safely. He leaves them at the door. People notice. People would know if he didn’t. That mattered to me. Not because it makes him spotless, because no, the bigger hidden setup is still sitting under the whole book like a trapdoor. But it means this specific suspicion was Vee’s shame talking, not the book trying to make predation sexy while pretending not to see it.
 
-I’m interested in Sheri immediately. Faster than him on climbs, blunt, loyal in a dangerous way, and apparently capable of disliking someone forever as an act of protection. “She couldn’t take your heat” tells me Pace knows Sheri’s intensity and also knows Vee’s softness, or maybe Vee’s current vulnerability. I don’t know yet whether that is tenderness or management. Probably both, because this man is allergic to being simple.
+What I really liked is that Vee’s spiral after is not just “oh no, he’s popular with women.” It’s shame logic. She sees other women as “floozies,” then turns the same knife on herself. She thinks she was “just next.” She thinks sex made her foolish. That old machinery is still right there under the new silk and the new shoes and the heat. Pace has helped her out of it, but he hasn’t cured it. Randi has helped too, but Randi is also part of the larger problem. Cassie is three feet away and Vee doesn’t wake her, and that hurt. The private chamber is working.
 
-This chapter also made me feel the network around Pace. The bar was not a harem. It was a community, and Sheri seems like part of the older, tougher layer of it. That helps repair some of the blonde-poison from the dance chapter while not erasing Vee’s jealousy. Vee was wrong about what she saw, but she wasn’t crazy to feel the size of his life before her.
+The last turn — going to Randi’s — made me tense in my whole body. Because yes, emotionally, it makes sense. Randi is the one who will receive the charged confession. But Randi is not neutral. Vee thinks she’s going for repair; I’m scared she’s walking straight into further management. Delicious, awful, very effective.
 
-So yes, I’m still in. The thing I’m watching now is whether all these people who know more than Vee become witnesses, accomplices, or both. Sheri knows enough to say “complicated.” Randi knows far more than she has any right to. Pace knows the shape of the whole board. Vee is still walking in wearing borrowed shoes.
-
-GATE 28 — hills-and-valleys
+GATE 26 — Lesson
 DECISION: CONTINUE
-CAPTURE: 7
-ALMOST-STOPPED: none
-WHY: This was quiet, but it widened the world in exactly the right way. Sheri gives me an outside pressure point on Pace, and “Randi. That’s not finished” keeps the book’s awareness alive instead of letting the triangle blur into dreamy inevitability.
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: “Knows how to get a girl to do just what he wants her to.”
+WHY: That line made every instrument in me light up, but the chapter did not fumble it. It let the fear be real, let Vee be wrong in a human way, and kept the power dynamic under examination instead of using jealousy as glitter. I want the next chapter immediately because Vee is going to Randi, and Randi with a wounded, ashamed Vee is exactly where this book’s danger lives.

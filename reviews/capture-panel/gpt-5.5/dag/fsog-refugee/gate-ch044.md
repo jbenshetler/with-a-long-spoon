@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a3af5d5e997c · 2026-10-01*
+*capture-dag-v2-rich · gate ch043 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-01*
 
-REACTION — Oh, this one got me in the softest, most embarrassing place. Not because it was the hottest chapter, though it absolutely had heat, but because it understood the awful sweetness of missing someone you chose not to see. That little irrational ache in Vee, wanting Pace to fight her on needing school nights, while also knowing that if he had fought her it would have ruined the very thing she loves about him. That is so painfully true. She wants to be wanted enough to be unreasonable over, but he loves her by leaving the door open and letting her come back through it herself. That is exactly the kind of dominance-with-room I keep reading for.
+REACTION — Oh, that one got me in a quieter place.
 
-And then the door. God. No porch light, just him filling the frame, and she goes straight into him. I loved that she was the hungry one here. She is not being swept along; she is practically dragging him down the hall by his shirt, furious at denim, making a wreck of the entryway, losing dignity and loving it. The comedy of the jeans and socks made the sex feel more intimate, not less. It is not staged-perfect. It is two people who have gotten ordinary enough with each other that the wanting can be messy and still beautiful.
+This is exactly the kind of chapter that would make me keep reading even without Pace in the room, because it lets Vee be loving in a way that is not sexual and still feels deeply intimate. She *sees* Randi here. Not just the glossy Randi who orders without a menu and knows what to say and turns every charged silence into something clever, but the girl under it who can be hit by a fact so hard she stops moving. And Vee does not pounce. She does not ask for the story. She does not make Randi perform the wound for her. She just slides the laptop over and gives her hands somewhere to go. That is such a clean little act of care.
 
-The “five nights” coming out of her body before she could keep her pride together was almost too good. I felt for her so hard there, because she is so used to managing the evidence of herself, and Pace keeps receiving it like good news. He does not tease the vulnerability raw. He just knows. That is the difference. The heat works for me because there is care under it, and because her desire keeps being hers even when he is controlling the pace.
+I also felt Cassie differently here. I still trust her, but this chapter made her hardness make sense in a way that hurts. “My dad got laid off in 2020” is one of those sentences with all the doors shut on it. No pleading, no explanation, just: here is why I know what I know. And then of course she can’t see what Vee sees, because she is right and because being right is protecting something for her. I don’t blame her. But I felt the room split around Vee: Cassie’s pain on one side, Randi’s shame or shock or betrayal on the other, and Vee in the middle loving them both.
 
-The pizza section should not be romantic and somehow it is deeply romantic. I’m apparently a woman who can be undone by dough and water buffalo mozzarella now, fine. But really, it’s the attention. Vee watching him cook and realizing he is not performing care, he simply has care as a way of moving through the world. That matters. It makes the sexual attention feel less like a trick and more like one expression of the same man.
+Randi saying “Cheating bastards” landed hard because for once she isn’t managing the scene. She isn’t steering Vee, isn’t teasing, isn’t holding the upper hand. She is caught. And I liked her more for being caught, honestly. I needed to see something in her that wasn’t all appetite and orchestration. This doesn’t absolve her of the secret with Pace, not even close, but it gives her a bruise I believe in.
 
-And then the shirt. The shirt nearly did me in. I was braced for him to misunderstand, and he did, for half a second, and then she fixes it so quickly because she cannot let him think she’s returning it. “This is still my shirt” made me grin like an idiot. But the part after, asking him to wear it all weekend so she can take his smell back with her, is so naked in a way that has nothing to do with being undressed. It is need, domestic and bodily and a little ridiculous, and he takes it seriously. He puts it on immediately. Over another shirt. No speech, no making her pay for asking. Just yes.
+The chapter also made me suspicious in a broader way. The outlier image is too pointed not to matter: the visible point nobody understands until the name opens, the thing easy to set aside if you can “account for it.” That feels like Randi, but also like Vee, and Pace, and the whole third game. Everybody has some point sitting off in the white. Vee is getting better at seeing them. I’m waiting for when the point is herself.
 
-I am still carrying the secret, though. This chapter made the home feeling stronger, which makes the old “not yet” more dangerous. The drawer, the shirt cycle, the house, the feeding, the weekends becoming a rhythm — all of it says she is moving further in. If he lets her build this much life there before telling her what he and Randi arranged, I am going to be hurt on her behalf. But tonight? Tonight I was embarrassingly happy for her.
+I missed Pace a little, in the bodily-reader way. After that last chapter, I would have happily gone back to the house in the trees. But I’m not annoyed. This was a friendship chapter with teeth, and it moved Randi from gorgeous trouble to actual person. That matters to me because if Vee is going to want her, I need there to be a woman there, not just a lure.
 
-GATE 44 — The New Ordinary
+GATE 43 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 7
 NEXT: 8
-HEAT: 2
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This chapter had exactly the combination I want: Vee’s desire loud and self-owned, Pace’s restraint still intact, and tenderness showing up in concrete acts instead of speeches. The shirt request was a turn in the bond for me; it made the ordinary feel intimate enough to ache.
+WHY: No heat, no Pace, but I was fully inside the glass room once Randi froze. Vee’s kindness here made me trust her more, and Randi’s crack made me want the next chapter badly because now I need to know what else she has been carrying under all that shine.

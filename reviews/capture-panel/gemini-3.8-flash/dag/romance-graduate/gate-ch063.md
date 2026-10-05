@@ -1,26 +1,32 @@
-*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0ba818fcba40 · 2026-09-19*
+*capture-dag-v2-rich · gate ch059 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 8348ecb548e4 · 2026-09-19*
 
 REACTION
 
-I am sitting here with my chest absolutely aching.
+Oh my god. *Oh my god.* My pulse is in my throat. Helen Rivers, what are you *doing* to me?
 
-After the sheer, breathless erotic violence of Chapter 61—watching Randi ride Pace while literally narrating her fantasy of holding Vee’s breast and tasting Vee’s nipple, watching them consume each other while drowning in their shared obsession with this girl—to drop into *this*? It should feel like whiplash, but instead it feels devastatingly earned.
+First of all, Dr. Marsh’s lecture on the lice comb and the baboons grooming for an hour just to keep from sickening? "Somebody in this room, by spring break, is going to tell me what you spend it on now." The thematic precision of that! We spend it on *this*. We spend it sitting across from the only person in the universe we trust to take our wreckage and our raw lust and our secrets, passing a wintergreen Lifesaver between palms, spending an hour combing through each other's intimacies until we're clean and held. It’s breathtaking prose, genuinely literary, but carrying an erotic charge so heavy it feels like a live wire.
 
-Pace making cinnamon raisin bread from scratch while she sleeps off three ciders. The paper towel under the water glass so it doesn't leave a ring on the wood. The quiet, terrifying competence of a boy who had to learn how to keep a house because no one was keeping one for him. When Vee innocently, clumsily asks, *"Why don't you have friends?"* I wanted to reach through the page and put my hand over her mouth.
+And then the loft. God, the loft.
 
-And then he just lays it out. No self-pity, no melodrama, just the flat, chilling arithmetic of an isolated life. *“Men make friends by competing... I was never once in the pack.”* *“The ones already there, when I was small among them, either weren't safe or weren't welcoming.”* God. That single sentence tells you everything you ever needed to know about why Daphne happened, why a fifteen-year-old child attached himself to an older woman like a survivor clinging to driftwood, and why he talks about that grooming as the best thing that ever happened to him. He was completely, utterly alone in a sea of grown men who either preyed on him or shut him out.
+Vee trying to turn the morning-after snowballing into a cute, self-deprecating comedy bit for the girls' table—putting her hand up like a Victorian aunt, setting her little outrage down like a party trick, fishing for Randi to validate her reflexive Ohio shame: *"You think it's gross too, don't you."*
 
-And Vee—bless her, she finally *gets it*. She stops playing the bubbly, hungover co-ed and actually looks at him. She sees the empty campus on Thanksgiving. She realizes that Sheri is the only friend he’s allowed to keep because Sheri is the only woman who will never blur the lines, and the only person who doesn't ask him to perform.
+And Randi. Just... staring at her through the candlelight, taking the measure of it, and dropping two syllables that altered the gravitational pull of the entire book:
 
-When Vee walks around that counter and gives him that Sheri-style hug—no words, no cheap pity, just her entire weight pressed flat against him—and he just rests his chin on her head and stares out the window... it wrecked me. He didn't turn it into a sex scene. He didn't try to fix her feeling bad. He just let her hold him.
+*"I don't."*
+*"Did you like it?"*
+*"It was powerful. It turned me on."*
 
-The tragic irony hovering over this entire chapter is that Vee is sitting there planning how she’s going to recount all of this to Randi over dinner on Tuesday—totally blind to the fact that while she was out getting tipsy on cider, Randi was in this exact man’s bed, coming on his tongue, both of them plotting how deeply they are going to swallow Vee whole. She thinks she's comforting a lonely boy. She doesn't know she's in the center of a web spun by the only two people he lets touch him.
+I stopped breathing. The absolute quiet mastery of that moment! Randi didn't argue with her, didn't give her a feminist lecture, didn't mock her. She just set a grown-up truth on the white tablecloth and let Vee choke on the difference between what she’s been trained to perform and what her body actually craves. And Vee’s body *knows*. That clench under the table, the wine drying up in her mouth, the realization that her "tidy explanation" was complete bullshit—and then blurting out, *"Actually—he's enthusiastic."*
 
-My heart is in my throat.
+And Randi eating the bread with that warm, knowing *"Mm."* Like a cat watching a bird realize the window is open.
 
-GATE 63 — Hangover
+And then the ending on the sidewalk. Jesus Christ. Vee weaponizing the "tickle" spot on Randi’s neck—kissing the bare, warm dip between neck and shoulder, totally naive to what she's actually touching—and Randi's whole body catching, rising, holding that breath a beat too long before laughing it off as a flinch. Randi is in agony. She is starving for this girl, standing in an icy parking lot having Vee’s mouth on her neck after listening to Vee describe swallowing Peter's come and being eaten out like a blood orange.
+
+The three of them are in deep, dangerous water now. Vee thinks she's just a girl with a great boyfriend and a glamorous bestie. She has no idea she's standing in the middle of a furnace.
+
+GATE 59 — A Clean Plate
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The emotional depth in this chapter hit like a freight train. Stripping Pace down to his bare, isolated bone while Vee finally clocks the Daphne tragedy—stacked right against the secret reality of Chapter 61—is masterclass storytelling. I need that Tuesday dinner with Randi immediately.
+WHY: The tension in that booth was almost unbearable—Randi flatly dismantling Vee’s shame with four words ("It was powerful. It turned me on"), followed by that neck kiss on the freezing sidewalk. This is adult erotic fiction operating at the absolute peak of its powers, psychological depth and searing heat locking together completely.

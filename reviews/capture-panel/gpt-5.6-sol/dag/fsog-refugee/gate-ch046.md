@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-01*
+*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-01*
 
-Oh, that hurt. She gave him the bravest version of *I love you* she could manage, and he answered, “I love how good we are together.” Not *you*. Together. Then he made it about what her body does.
+REACTION — Oh, that last “She was also, a little, not” got me. Cassie is so careful with Vee that Vee can feel the empty space where being pressed might have let her finally say something true. Everyone else in her life draws things out of her because they want something from the answer. Cassie asks because she wants to understand, then accepts that Vee may not be ready. And somehow that clean respect is almost harder to bear.
 
-I felt that little *wait* behind her breastbone immediately. She knows. She may not be willing to finish knowing it, but she knows those sentences were not the same shape. And I hate that she has already decided she cannot ask him, because “the words go through him first.” She is living in his house half the week, sleeping in his shirt the other half, carrying his smell back and forth, and still believes he owns the right to set the emotional terms. That is not Pace commanding her beautifully in bed. That is Vee making herself smaller because she is afraid to discover whether he will meet her.
+“Cropped” is the whole ache of it. She cropped the photograph for her parents, cropped Pace down to the pieces her father could approve of, cropped the dress’s making out of its own story, and then discovered she cannot fit what Pace is to her inside “boyfriend” without putting a question mark on it. I don’t think the question mark means she doubts how much she loves him. I think it means the ordinary word is too small for the intensity and too simple for a relationship she still cannot fully define—even before she knows how much has been withheld from her.
 
-The tenderness almost makes it worse. He listened. He was moved. He held her deliberately and kissed her hair, and I believe every bit of that warmth was real. But he also knew she had handed him something enormous. Those two breaths tell me it did not simply go past him. He chose his answer carefully—and the careful answer avoided the thing she was offering. Maybe he is frightened. Maybe his family history has locked that word behind the same door as “I don’t go back.” But Vee is the one left doing the repair work inside herself, telling herself she was “received warmly” as if she is presenting evidence in court.
+The dress detail hurt in a lovely way. Pace making it is more intimate than buying it precisely because he listened to one passing want, learned the shape of it, and made it with his own hands. Vee understands that her father could categorize sex more easily than that kind of male tenderness. “Weird is worse than wrong” rang painfully true: wrong can be argued with, but weird gets treated as though it has no legitimate place in the world. I wanted Vee to defend Pace aloud, and I also understood why she protected the private thing by leaving it out.
 
-And God, that pile. The small moments she has had to tuck away so what she knows about him can keep functioning. This is exactly what I have been afraid of: her doubts are not disappearing; she is quietly training herself not to look at them because the warmth is so good. Meanwhile the largest fact of all—Randi, the arrangement, the choosing—is waiting to fall directly onto that pile.
+But I’m uneasy that her instinct with everyone outside Pace’s house is increasingly to edit. She gives her parents the acceptable Pace, gives Cassie almost nothing, and returns every weekend to the man who has become too large to explain. Pace may be worthy of the love she is giving him, but secrecy is accumulating around that love from both directions. He is keeping Randi from her; Vee is keeping the true scale and shape of him from the people who might help her see clearly. Those silences are not morally equal, but together they are isolating her.
 
-I am still desperately in this romance, which is why I am so upset. I want him to love her. I think he does love her. But loving her privately while refusing the words—and while withholding the truth that would let her understand what “together” even means—is not enough. She gave him her best sentence. He heard it, and he stepped sideways.
+And Cassie—God, Cassie. “Not to your dad. To you.” No interpretation, no seduction, no answer supplied in advance. Just the exact question Vee needs. I wanted Cassie to ask once more, even though the reason I trust her is that she didn’t. I’m very ready for Vee to stop living in cropped versions of her own life.
 
-What I would text at one in the morning: *She told him “I love you” in food language and this man said he loves their sexual compatibility. I need to bite something.*
-
-GATE 46 — Seconds
+GATE 45 — Cropped
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 7
+NEXT: 8
 HEAT: 0
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was a painful turn in the bond, and I need to know whether Pace’s answer came from fear, evasion, or something worse. Vee has started storing hurt instead of asking for what she needs, and with the Randi truth still hidden, I cannot put this book down now.
+WHY: This was quiet, but it put a finger directly on the problem: Vee cannot name what Pace is to her, even to the safest person she has. I want the next chapter because all these carefully cropped truths are becoming impossible to keep separate.

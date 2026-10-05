@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch052 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c1f15218cc12 · 2026-10-01*
+*capture-dag-v2-rich · gate ch051 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · 2026-10-01*
 
 REACTION —
 
-Oh, Pace. I needed to be in his head, and I’m glad I got it, but I am also sitting here with my arms crossed a little because the man knows. He knows. He can make a whole private theology out of a cheeseburger and Vee understanding “the philosophy of it,” but he still can’t say the one word she asked for. That is exactly the problem, and the chapter knows it, and Sheri bless her sharp little diner heart says it clean: then not saying it matters more than having her. I actually said “yes” out loud.
+Oh, this one hurt in the exact lonely place.
 
-I loved Sheri more here than I expected. She could have been comic relief or jealous-woman furniture, and instead she’s this prickly, lonely, honest person who can sit across from him and not need him to perform. I liked that she sees through his stack of true excuses. Because they are true. That’s what makes me ache. Pace *is* there. He *does* give Vee room. He *does* miss her. He is not one of the men who would say anything to get laid and then vanish. But the truth of his care does not cancel the truth of her need, and I am relieved somebody in the book finally told him that without making Vee sound needy or childish.
+I could feel that childhood bedroom closing around her. Not in a dramatic way, just that awful holiday-home way where everything is familiar and loving and somehow proof that no one there knows you now. The trophies, the clarinet, the old friends on the board, her legs too long for the bed — that got me. She is not unsafe there, exactly. She is loved there. But she cannot breathe there. And the thing that makes me ache is that she has been made bigger by Pace and Randi, by appetite and being seen, and now she is back in a room that only knows the smaller version.
 
-The diner did something to me, too. After Vee’s cold little childhood room, this warm, plain, griddle-smelling place felt like one of Pace’s possible worlds that Vee hasn’t been allowed into yet. Not his controlled house, not the too-loud Chili’s, but somewhere public and intimate where he could hear her whisper. That line hurt me because I can see the date they almost had, the version where he brings her here and she understands him out loud and he understands that taking her into the world doesn’t have to mean drowning. I want that so badly it made me mad all over again.
+And Pace’s silence is maddening because it is so plausible for him. I believe he thinks he is leaving her room. I believe he does not sulk. I believe he might be sitting in his own house devastated and still not reaching because she walked away and he respects doors. But from inside Vee’s body, that respect feels indistinguishable from abandonment. That is the knife. His best quality has turned cold in her hands.
 
-And yes, the Sheri teasing about Vee’s body made me laugh, but it also worked because Pace doesn’t reduce Vee to that even when he admits the sex is good. He blushes, then reaches for the real thing: the air changing, the way she sees the intention underneath what he does. That’s the Pace I still love. That’s why I’m not leaving. But he is on probation with me now. Missing her is not enough. Laughing in a diner is not enough. Go spend the word.
+The jealousy spiral with the imagined blonde was painful because it felt so young and so real. I hated watching her lose her own memory, the fra diavolo night, to this invented woman. That was one of their sacred warm places, and now her fear can contaminate even that. I wanted to climb into the book and shake Pace by the shoulders. Not because I think he has actually replaced her, but because he has left enough blank space for her to put a nightmare there.
 
-GATE 52 — The Usual
+Randi’s text made me flinch, too, because I know what’s under it now. Vee reads it as proof that Randi is fine and glamorous and loved by the world, and I know Randi sent back the shiny version on purpose. It is tender that Vee reached out with an open hand and protected the PPP wound even in her own misery. But it also made the whole triangle feel worse: everyone is withholding something, even when they’re trying to be kind. Vee hides what she knows. Randi hides what she feels and what happened. Pace hides the name. They are all standing around these covered dishes and Vee is the one starving.
+
+There wasn’t heat here, not really, but there was longing. The memory of his arms, the kitchen, the sheet, the way cooking and sex are braided for her — that still has charge because it means something. But mostly I felt cold. I felt her wanting not sex first but certainty. A time. A place. A sentence. Someone coming after her with words.
+
+And the ending, with Randi as the sure date on the calendar and Pace as nothing she can circle, made me very nervous in a good, terrible way. Because I understand why she would reach toward Randi. Randi answers. Randi calls her gorgeous. Randi will physically reappear. Pace, right now, is a room with the lights off. I still want him, I still believe in the care, but this chapter made me feel how dangerous silence is when someone has finally learned to ask for more.
+
+GATE 51 — Old Acquaintances
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
+NEXT: 8
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: “I can't.”
-WHY: This pulled me hard because Sheri finally said the thing I needed said, and Pace’s love for Vee is painfully obvious even while he’s failing her. I want the next chapter badly because now he has been named to himself, and if he still does nothing, that becomes a choice.
+ALMOST-STOPPED: "He left you the room. He always left you the room — a thing she'd appreciated once, and hated now."
+WHY: This was lonely and painful, but it deepened the exact rupture I care about: love without a name turning into fear. I am angry with Pace, aching for Vee, and very aware that Randi is becoming the reachable warmth while Pace stays silent. I need the next chapter because somebody has to move, and if Pace doesn’t, the book is making that absence count.

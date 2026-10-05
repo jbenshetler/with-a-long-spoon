@@ -1,30 +1,28 @@
-*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ec95866b43d5 · 2026-09-24*
+*capture-dag-v2-rich · gate ch062 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 0262c804492d · 2026-09-24*
 
 REACTION
 
-My chest is so tight I can barely breathe. What an unbelievable, suffocating, devastating chapter.
+I feel like I just got whiplash, but in the best, most clarifying way possible. After the absolute nightmare fuel of Chapter 61—watching Pace and Randi systematically use each other’s bodies while obsessing over Vee like two spiders coordinating over an entangled fly—we get this.
 
-First of all: the sensory craft here is utterly hypnotic, but what makes it genuinely terrifying is how completely Helen Rivers understands the architecture of this trap. Vee thinks she's a "pleasure princess." She thinks she won a victory by blowing him first and setting her own pace. And then Pace—courtly, terrifyingly controlled, logistical Pace—turns her into a literal canvas. An object of still life.
+And *this* is the quietest, cleanest, most devastating chapter of the entire book.
 
-*“Still meant the brush. Moving meant the brush going away.”*
+First of all: Sheri. Oh, thank *god* for Sheri. The entire apparatus of Vee’s insecurity—the golden, model-tall country-club ghost she built to torment herself with all through December, the armor of Meg’s borrowed keyhole shirt and Randi’s predatory induction stilettos—just evaporates the second a five-foot-nothing bleached-perm powerhouse in a dive bar looks her up and down. And not to price her, not to rank her, but just genuinely, openly *appreciating* her. Vee’s helpless laugh in the middle of that taproom broke my heart and stitched it back together at the same time. For the first time all spring, Vee is in a room with a woman who has zero hidden angles, zero debt-traps, zero grooming instincts. Sheri is just solid earth.
 
-Read that again. That is the entire dynamic of their relationship laid out in eight words. If she holds still, if she complies, if she surrenders her agency to his aesthetic, she gets rewarded with touch and sugar. The moment she moves, asserts herself, reaches, or flinches, the contact vanishes. He literally trained her like an animal on that bed: hold the rail, don’t move, let me paint you with your own arousal. Calling her wetness "gesso"—using her own natural lubrication, the bodily evidence of her desire and shame, as primer to paint fruit over her bare, newly-waxed mons—is so profoundly kinky and psychologically fraught. It took every single piece of her that her Puritan background taught her to hide (her large breasts, her wetness, her appetite) and "celebrated" it by turning it into food for him to consume and erase.
+And then we get the truth about Pace. And this is where Rivers proves she is operating on a whole different level of psychological acuity.
 
-And the erasure! He paints the cherry, and then he *eats it off her*. He licks the paint, the primer, her fluid, all of it clean. And when she kisses him afterward, hunting for the taste of herself that she couldn't cross the threshold to reach on her own in Chapter 60, she finds only a faint trace mixed with him and champagne, and lets the question go.
+I’ve been terrified of Pace. I’ve seen him as this hyper-competent logistical machine, substituting control for exposure, setting up public titles so he never has to bleed. And then Sheri drops the floor out from under that: *“Went bad with his daddy. He hasn’t been home since he was sixteen.”*
 
-Then we get to the real emotional landmine, the thing that made my stomach drop through the floorboards: *the photograph.*
+Suddenly the entire architecture of Peter makes horrifying, tragic sense. Why does he fix locks? Why does he bring donuts? Why does he cook the pancakes, control the acoustic environment, drive one-handed, stand his headlights on a dark porch until the light clicks on? Because he learned at sixteen that the world is a violent, unmoored place where nobody catches the dishes when the tablecloth gets pulled, and the *only* way he knows how to keep people safe—how to keep *himself* safe from abandonment—is through absolute, flawless, unannounced domestic service. He dances with his hands strictly where the dance puts them because he refuses to take what isn't freely given. He doesn't say *I love you* with his mouth because words are cheap ("strangers will say that for free"), so he says it by standing as ballast against the cold.
 
-Vee is lying there in the dark, coated in dried, cracking paint, looking at this completely exposed, debased, magnificent photo on her phone, and who does her mind go to? Not Pace. *Randi.* She is lying under the arm of the sleeping man who just painted her, mentally bringing the offering to the woman who groomed her to do it. *“Not that she’d ever show her. God, no. This one was too much... She would not be telling her about this.”*
+Seeing him *blush*—actually turn scarlet to his ears because Sheri teased him about motorboating Vee—was the first time in sixty-two chapters that the mask slipped and showed the awkward, earnest boy underneath the master-planner.
 
-Oh, Vee. Sweetheart. You are *absolutely* going to show her. Or Randi is going to extract it from you piece by piece over white linen. The fact that Vee tells herself "she would not be telling her" is the universal narrative neon sign that this photograph is the bullet currently chambered in the gun on the mantelpiece. When Randi sees that photo—knowing Pace painted Vee’s bare cunt after Randi herself sent Vee to Sondra to be stripped smooth—it is going to ignite whatever sick, triangular fuel they've been pouring over each other since November.
+Which makes Chapter 61 ten times more sickening in retrospect. Randi is playing a sick, manipulative game of conquest and voyeurism, and Pace is tangled up in it—partly complicit, partly feeding his own dark appetites—while simultaneously being this quiet, broken kid who takes care of people who have been discarded. Vee is falling in love with the real man, the man who brings bacon cheeseburgers and holds his headlights on your door. But she has *no idea* that the man who holds the wheel with two steady hands is also letting Randi crawl over him in the dark, using Vee's name as fuel.
 
-The horror here isn't that Rivers doesn't see what's happening; it's that Rivers sees it with surgical, microscopic precision. Vee is so profoundly intoxicated by feeling worshipped that she doesn't realize she has been thoroughly depersonalized into an art piece and an erotic conduit between two people who used her to talk to each other in Chapter 61. It’s gorgeous, it’s deeply dark, and the suspense is unbearable.
+The contrast between the clean, cold reality of Sheri’s world and the suffocating, perfumed rot of Randi’s orbit is unbearable. Vee feels safe right now. She feels anchored. And the drop that’s coming is going to completely shatter her.
 
-***
-
-GATE 66 — Still Life
+GATE 62 — Another Round
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The psychological choreography here is staggering—Pace turning her body into literal still-life fruit using her own wetness as primer, followed immediately by Vee clutching the photograph and thinking of Randi. The narrative awareness of how deeply Vee is being conditioned and contained is breathtaking, and I have to see what happens when Randi gets her hands on that picture.
+WHY: Giving Pace a real, deeply humanizing backstory through an uncompromised third party like Sheri completely reframes his need for control, making the looming collision with Randi's web infinitely more tragic and urgent.

@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 97724b44da95 · 2026-09-24*
+*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 9782a926aac2 · 2026-09-24*
 
 REACTION
 
-I feel sick to my stomach. Genuinely, physically sick.
+Cassie. God, Cassie.
 
-This chapter is the trap snapping completely shut, and Vee is practically purring as the bars click into place around her.
+This short, quiet chapter hurt more than the high-wire sexual humiliation of brunch or the calculated ceremony of the burgundy dress. Because here is the anchor, sitting in a bean bag with the window cracked two inches against the building’s radiator heat, quietly logging the days her best friend doesn't come home. Cassie doesn’t yell, she doesn’t cross-examine, she doesn’t judge. She just holds up a totally flat, unarguable mirror: *"You don't come home school nights."*
 
-Look at what just happened here. In chapter 38, Pace laid her out "like a woman in an old calendar," took naked pinup photos of her on her own phone, and swore—*swore*—on his life: *"Never. I'd never share your photograph."* And he didn't have to. *He didn't have to.* Because the architecture of this grooming is so immaculate, so utterly fiendish, that they don't need to steal her dignity or leak her photos: they have engineered Vee to hand them over herself, smiling, begging for approval.
+And look at Vee. She’s spinning backward in a desk chair like a teenager, so flooded with dopamine and gourmet salmon and bespoke worship that she doesn't even realize what she's describing is total enclosure. She tells Cassie about the tomato burn on the side of her breast—completely blind to the fact that she’s casually confessing to sitting half-naked at his dining table on a weeknight—and Cassie instantly catches it (*"Not enough on"*). And the detail about how *the house stays warm now, warm enough that she never once thought about how much she had on*? That chilled me to my bones. Pace turned up the thermostat so she would naturally, willingly shed her clothes inside his walls. Every single comfort is an engineered removal of her defenses. He made her the top drawer in chapter 35, he keeps the house tropical, he cooks food so rich she eats like a field hand while her clothes fall off her shrinking waist, and she thinks it’s devotion.
 
-Randi played her like a cheap fiddle at that table. The calculated little nudge—*"Legs like yours, though—and you only gave him half?"*—knowing *exactly* what nerve to strike. Knowing that Vee’s fatal flaw is her terror of being seen as "a girl who flinched," a girl who is too small, too safe, too prudish for this glamorous new world. So Vee whips out the full, uncropped, totally naked photograph Pace took of her and puts it right into the hands of the woman who is sleeping with him, who is dissecting her with him, who scouted her for him. And Randi looks at it and says, *"Showing him your toes, eh?"* Because Randi remembers kneeling on the floor of that boutique, touching those exact frosted plum toes. It's an inside joke between the wolves, and the sheep is laughing along with them.
+What broke my heart was Vee's vocabulary running out. Applied econ, top of her class, articulate, sharp—and she is reduced to waving her hands in the air because she doesn't have words for what Pace is. *"The ones before him had been fine."* She was quietly starving, just like the jacket said, and when someone finally set a banquet in front of her, she didn't care that the dining room door was locked from the outside.
 
-And then the Cassie erasure. It’s almost casual now, which makes it ten times more horrifying. *"So it's just us."* Next semester, locked in. Cassie—who sits in their dorm room offering steady, quiet, unglamorous sanity, who makes sure she’s safe, who gently clocked that Vee hasn't slept in her own bed on school nights—is completely bypassed. Vee is voluntarily signing up to isolate herself further with Randi.
+And then Cassie asks the only question that matters: *"Do you love him."*
 
-And that kiss at the curb! The fact that Vee is the one leaning in now, chasing Randi’s mouth for that extra half-second, totally oblivious to the fact that her desire is being cultivated, watered, and pruned by two master gardeners who plan to harvest her. She thinks she's waking up. She thinks the eggs Benedict and the mimosas and the naked calendar shots and the mouth-kisses are her "finally being hungry out loud."
-
-The horror in this book doesn't come from violence or cruelty; it comes from this suffocating, golden-lit, velvet-smooth compliance. Every single boundary she had two months ago has been dissolved, not by force, but by making her feel *special* for giving it up. I need to see the bill come due. I am dreading it, but I cannot look away.
+In chapter 35, alone in the dark while Pace slept, Vee told herself firmly that she loved him. But under Cassie’s steady, unglamorous, daylight gaze, the truth hesitates: *"Maybe. I think so. It's all so fast."* That tiny fracture—that instinctive awareness that she is moving at terrifying, breakneck speed—is the last surviving piece of Vee's real self. And Cassie just lets it hang there. She doesn't fight her. She just says, *"Go to sleep, streetlight. Some of us have class."* Cassie is the reality principle, and the distance between her world and Pace’s velvet house is widening by the hour. The fall is going to be catastrophic.
 
 ***
 
-GATE 39 — All the Time
+GATE 36 — School Nights
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8/10
+NEXT: 9/10
 ALMOST-STOPPED: none
-WHY: The absolute psychological terror of watching Vee hand over her own naked photos to Randi—the very betrayal Pace promised never to commit—proves the book's framing remains brutally, mercilessly aware of the trap being sprung.
+WHY: A masterclass in quiet dread. Watching Vee try to explain her total psychological enclosure to Cassie—and having Cassie gently, flatly point out that Vee is barely living in her own life anymore—was devastatingly well-observed.

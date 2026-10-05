@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch067 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~b11de8d9a5ce · 2026-09-12*
+*capture-dag-v2-rich · gate ch062 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~78023057031c · 2026-09-12*
 
 REACTION —
 
-Oh, this one got me in the quiet place. This is exactly the kind of chapter where I trust or distrust the book, and I am still in it, but I am sitting very forward now.
+Oh, this one got under my ribs.
 
-Vee trying to muscle this back into being about Pace is painful because it is so recognizable and so doomed. The Sunday sex, the Monday hand-on-stomach refusal, the pool clearing her head only until the closet: all of that felt like a woman trying to keep a door closed by leaning her whole body against it. And the door is not even locked anymore. It is just waiting for her to get tired.
+I expected the hangover chapter to be cozy aftermath, and it is that for about three minutes: water by the bed, paper towel under the glass because of course he thinks of the wood, his old shirt on her body, cinnamon raisin bread like some impossible domestic spell. It’s unbearably attractive. I am not made of stone. A man quietly taking care of your drunk self without turning it into either a joke or a debt? Yes. Absolutely yes.
 
-The Randi class scene made my skin prickle. Not because anything enormous happens, technically. Knee against knee. A Lifesaver. A fingertip at the wrist. “Having you.” A normal hug. A deflected kiss. But every tiny old ritual has changed charge, and Vee knows it now. That is the thing. The book is not pretending this is cute best-friend fuzziness anymore. Vee’s body has passed the point where it can hide behind “that’s just Randi,” and her mind is still trying to file everything under friendship because the alternative would reorganize her whole life.
+But then the chapter does the thing I trust this book for: it lets the warmth open a trapdoor.
 
-Randi, though. God. Randi is still dangerous in the exact way that makes me tense. She notices Vee turning away from the kiss. She asks what’s up. Vee gives the plague excuse. And then Randi kisses her neck anyway, in the precise place that has already become charged between them, and jokes, “How do you like it?” That is hot, yes, but it is also a boundary test. Vee moved her mouth away. Randi found another route. The book knows that, I think. It lets the goosebumps and the want happen, but it also leaves me with the discomfort of how smoothly Randi converts refusal into play.
+Pace having one friend should maybe feel melodramatic, but it doesn’t. It lands horribly because the book has been laying the pieces forever. His competence with people has always had this strange loneliness in it. He can make a room bloom, but he’s not *in* the room the way everyone else is. And Vee seeing that, seeing the difference between being socially gifted and being socially held, hurt me. Her catalog of her own people — Meg, Kayla, Cassie, Randi — almost undid me, because she suddenly understands friendship as infrastructure. Not bonus decoration. Load-bearing.
 
-And then Vee asks for brunch. Not because she has resolved anything, but because the neck kiss pulls the want right out of her before she can govern it. That made me wince. Randi lights up like she’s been handed a present, and I believe her joy, but I do not trust her with the present.
+And Daphne. God. I hate how this chapter made me more tender toward the old Daphne story without ever excusing it. That is the exact hard line I want from the book. Vee still will not say the word, and I felt her fighting the word, because she loves him and because he remembers it as salvation. But the book knows. It knows that “the best two years” can also be the wrong shape. It knows that a lonely gifted boy with nowhere to go is not a romantic origin story just because he survived it grateful. That sentence about Daphne having that much of him because of the part that was wrong — yes. There. That’s the awareness. That’s why I’m still here.
 
-Cassie at the end. Finally. Finally my handrail is looking at the actual shape in the room, not just Pace, not just Vee’s glow. “What was that with you and Randi?” is so plain and so needed that I almost exhaled out loud. And Vee having no answer is the best possible last beat, because the book does not let her escape into cleverness. She does not know. That is terrifying and honest.
+I also loved, warily, that Vee doesn’t try to comfort him with performance. She doesn’t “fix” it. She doesn’t make him narrate more than he gave. She gives him Sheri’s hug back. That felt like one of her cleanest instincts in the whole book. Not eroticized, not strategic, not trying to be the perfect woman. Just: I understand what that hug meant now, and I can give you one.
 
-I am very captured, but not soothed. The bill is coming due in the title, and I can feel it: the gifts, the secret plan, the appetites, the lies by omission, the little rituals that were never little. This chapter is all pressure, no release, and I want the next one badly.
+And still, because I apparently cannot unclench anymore with these people: this chapter made Pace even more dangerous as a romantic figure. Not because he does anything wrong here. He doesn’t. But because his wounds are now enormous, and Vee’s tenderness is enormous, and the book is putting her in a position where loving him will feel like being entrusted with a cathedral key. That is intoxicating. It also makes the secret with Randi heavier. Because now if the truth comes out, Vee is not only betrayed by lovers; she is betrayed by someone whose loneliness she has just taken into her own body as sacred knowledge.
 
-GATE 67 — Coming Due
+Randi is barely here and somehow everywhere by contrast. Vee thinks of Randi as one of the people who holds her life, and I flinched, because yes, Randi does hold her, but Randi also files her away. This chapter makes the friendship economy clearer: who receives truth, who gives care, who gets access. And Randi’s access still has a locked room behind it.
+
+I would text someone: “The hangover chapter made me cry about male friendship and now I’m mad because the betrayal is going to hurt worse.”
+
+GATE 62 — Hangover
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-ALMOST-STOPPED: "Randi's mouth found the side of her neck, soft, a wet bloom of heat right where the neck goes down into the shoulder"
-WHY: I almost balked there because Vee had just turned away from the kiss, and Randi rerouted around it with a charged touch she knew would land. But the chapter feels aware of the danger; Cassie’s final question confirms the book is watching the same thing I am.
+ALMOST-STOPPED: none
+WHY: This is exactly the kind of quiet chapter where the book proves it knows what it’s doing. It deepened Pace without laundering him, let Vee be tender without making her naive, and made the larger secret feel more morally urgent instead of softer.

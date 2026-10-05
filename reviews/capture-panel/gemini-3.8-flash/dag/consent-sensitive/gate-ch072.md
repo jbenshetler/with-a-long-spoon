@@ -1,34 +1,30 @@
-*capture-dag-v2-rich · gate ch072 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 156376f693c5 · 2026-09-24*
+*capture-dag-v2-rich · gate ch068 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha a5634386be0d · 2026-09-24*
 
 REACTION
 
-Oh, this chapter is chilling. It is wrapped in velvet, warmed by cedar and spices, scented with dried apples and chicken tikka masala, and it is absolute, terrifying psychological horror.
+I am sitting here in the quiet with my jaw clenched so hard my molars ache.
 
-Because the prose is so beautiful and tender, it almost seduces you into forgetting what's happening. The cabin. The handmade wooden box. The key resting on an "oyster-pale" scrap of silk—which Vee thinks she has felt against her skin before. *Because it’s the silk from Randi’s aqua-silk nightshirt or mixer dress, isn’t it?* Or some scrap of the fabric of the trap they’ve wrapped her in. And Vee notices the word: he says *house*, not *home*. He gives her an object—metal, cold, unyielding, an instrument of access—instead of the emotional declaration she is silently starving for. Just like Randi’s Love bracelet that requires a screwdriver, Pace gives her a key with the burrs still on the teeth. An engineered token of inclusion that keeps the emotional boundary utterly fortified.
+The psychological architecture of this chapter is breathtaking and absolutely horrifying. Knowing what happened in Chapter 61—knowing that Pace and Randi are sleeping together, that Pace literally came while hearing Randi talk about wanting to put her mouth on Vee’s nipple, that Randi looked him in the eye and said *“She’s not the only one in love”*—watching Pace play Vee in this bed made my stomach drop into my shoes.
 
-And then the bedroom. My god. The "blazon"—the erotic cataloging of her body part by part. On the surface, it’s the ultimate romance fantasy: the withholding, hyper-competent, hyper-controlled man kneeling before the insecure heroine, methodically dismantling her lifetime of body shame, naming every curve, every freckle, the soft belly, the heavy breasts, calling her wetness "the most honest thing I’ve ever stood in front of." It is deeply hot, and the prose is devastatingly good.
+He didn't get mad. Of course he didn't get mad. He used her confession as erotic currency. He held her just off his cock, rationing out friction like an operant conditioning experiment, literally training her to confess the deepest, most humiliating details of her desire for Randi in exchange for an orgasm. And Vee—God, poor, blind Vee—thinks *she* is the one working an angle! She thinks she’s using him as an anchor to ground herself in heterosexuality, thinks she’s a clever little "pleasure princess" paying a small toll, when in reality he is systematically mining her for the exact data he and Randi trade like contraband.
 
-*Until you see the architecture of what he is actually doing.*
+And then that conversation after. The sheer, chilling brilliance of his manipulation:
+*"Do you want to sleep with a woman, Vee?"*
+Not *do you want to sleep with Randi.* He gives her the wide, safe abstract exit so she can panic and retreat into *"I'm not gay."*
+And when she turns on him, desperate, trying to shove the heat off herself—*"You're the one who wants this... you want Randi"*—and he says:
+*"You keep saying her name, Vee. Not me."*
 
-First: he blinds her. In a strange, remote cabin miles from anyone. He removes her sight, stands her in the center of the room in broad daylight, and makes her endure being observed while utterly powerless to manage her own image.
-Second: he works her into a state of sheer, soaking desperation, and when she expects him to finish her—when she tilts her hips up for mercy—he steps back. *"Go ahead."* He forces her to masturbate for him. He makes her cross the final boundary of her private, solitary shame, right there in the cold afternoon light on the rug, while he watches.
-Third: the trap snaps shut. While she is sobbing and masturbating, right at the precipice of orgasm, when her psyche is entirely blown open and defenseless, he demands: *"What are you thinking about?"*
-He did this in bed after the mixer, trading strokes for Randi's name. Here, he extracts the confession of *him*. He makes her scream "You, you, you" like a prayer, breaking her down into a keening animal. He needs her complete mental submission.
+I felt physically sick. The gaslighting is so smooth, so velvet-lined, it should be registered as a lethal weapon. He *literally* had Randi’s mouth on his cock a few days ago, talking about Vee, and here he is gently, sorrowfully telling Vee that *she’s* the one bringing Randi up, letting her believe that his gentle correction is proof of how much he loves her. *"It was the sweetest thing she had ever seen him do, and it settled over her like a warm blanket."* A warm blanket that is suffocating her while two people hold down the corners.
 
-And fourth—the most sickening, insidious beat of all, arriving in the cozy afterglow when she is lazy, sated, and completely off-guard:
-*"Would you share that pleasure with me? Would you tell me, when you touch yourself thinking of me?"*
-*"Yes," she said... the way you say yes to something small.*
+The tragedy of Vee’s interiority here is so sharp. She’s clinging to the word *boyfriend* like a life raft, doing the frantic mental math of a girl raised on purity culture and neat categories, completely unaware that the man holding her and the woman haunting her are the two halves of the very same trap. She thinks she "got away with it." She has no idea she just delivered the exact progress report they’ve both been waiting for.
 
-HE HAS JUST EXTRACTED SURVEILLANCE OVER HER PRIVATE MASTURBATION.
-Remember Chapter 69? Vee was lying in her dorm bed, wanting to touch herself, and she was terrified because she couldn't get Randi's face out of her head. Pace knows she is torn between them. So what does he do? He conditions her to associate touching herself with *him*, and then extracts a casual, post-coital agreement that she must report her solitary orgasms to him. He has installed a surveillance camera inside her private masturbatory life, and she treated it like agreeing to pass the salt!
+Tuesday is coming. Marsh’s class is coming. The boxwood comb is running right through her fur, and she’s purring because she thinks it’s love.
 
-The book knows. That’s what keeps me glued to the page with a racing pulse instead of throwing it across the room. The prose explicitly flags the false floor: *"the way you say yes to something small."* The narrative *knows* it wasn't small. It knows she gave away a fortress wall while half-asleep and horny. It knows the oyster silk is an echo of something outside this room. It knows he gave her a *house* instead of a hearth.
+***
 
-Pace is terrifying because he doesn't use fists or cruelty; he uses chicken tikka masala, handmade joinery, hot showers, and reverent worship of her thighs. He makes total psychological annexation feel like the safest, warmest harbor in the world. I am riveted and completely terrified for her.
-
-GATE 72 — Grace
+GATE 68 — Boyfriend
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The exquisite craft makes the sheer psychological terror of Pace's control hit twice as hard; watching him casually annex her private masturbation under the guise of an afterglow cuddle made my blood run cold.
+WHY: The tension is agonizing in the best possible way. Rivers is writing an absolute masterclass in psychological manipulation where the author’s hand is completely steady, the framing is razor-sharp, and the dramatic irony is almost too painful to bear. I have to see what happens when she sits next to Randi on Tuesday.

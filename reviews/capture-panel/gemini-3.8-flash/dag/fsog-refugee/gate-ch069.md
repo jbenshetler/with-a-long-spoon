@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch069 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha be90efe95687 · 2026-09-19*
+*capture-dag-v2-rich · gate ch065 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0b898fc22a01 · 2026-09-19*
 
 REACTION:
 
-Oh, god. My stomach is in absolute knots.
+Oh, god. This chapter hurt in a way that was entirely too real, and yet it was so psychologically acute I couldn't look away for a single second. Anyone who has ever gotten a full Brazilian for the first time *knows* that exact feeling of walking in thinking you're just doing a slightly painful beauty treatment, only to realize you are about to be spread, rearranged, and physically humbled by a total stranger under fluorescent lighting.
 
-The psychological tension in this chapter was so thick I could barely breathe through it. That is *exactly* how panic and desire work when you’re terrified of your own appetite: you try to swim laps to drown it, you get stuck inside your own sweater in the closet unable to figure out if you're dressing to be seen or dressing to hide, you count the seconds during a lecture while your skin is practically humming off your bones. Every single touch—the graze of Randi’s fingers over her pulse point for a damn wintergreen Lifesaver—felt like an electric shock.
+What broke my heart—and what makes Rivers so terrifyingly brilliant at writing this dynamic—is how Vee processed the whole thing. Pace asked for it. In his typical way, he asked it as a question, leaving the choice to her, but without explaining the reality of what he was asking for. And Vee, so hungry to be the woman he wants, threw her *yes* out ahead of her before she even understood the cost. But the real betrayal, the quiet, toxic little omission, belonged to Randi. *“Barely stings.”* Randi giving her the recommendation, laughing over the pastry, acting like it's a pampered spa day, and completely leaving out the searing agony and the humiliating command to *roll over onto your front*. Randi sets these little traps with a smile, ushering Vee across thresholds without warning her of the sting, just to watch her come out the other side changed.
 
-And then that word: *Having.* Randi just drops it so casually—*"Having you at the dance was so great. I've wanted to do that for the longest time"*—and Vee is totally pinned by it. Because Randi *does* want to have her. And Vee *wants* to be had. She’s trying so desperately to cling to the safety of Pace, but she couldn't even use him on Sunday to put the fire out. She’s waking up with her nipples aching against her nightshirt, holding her hand flat on her stomach like a lid on a boiling pot, terrified of what she’ll do if she touches herself. The shame is right there, side by side with this massive, beautiful, terrifying hunger.
+And that moment on the table when Sondra's hand pinned her thigh and told her *“Don't move”*—jesus. That was the most devastating beat in the chapter. Vee’s body recognizes that grammar of restraint, but having it applied impersonally, by a stranger who doesn't care about her at all, made the absence of Pace feel like a physical wound. It captured the exact difference between true erotic submission and sheer bodily compliance. When Pace holds her down, it’s reverence; here, it’s just meat on a paper roll.
 
-And Randi kissing the side of her neck! *“See? How do you like it?”* She knows. Randi completely knows what she’s doing, turning Vee's own innocent little affectionate gesture back on her like a live wire. And what does Vee do when her body is ringing and she's panicking? She immediately bargains for *more.* *"Brunch. Let's have brunch this weekend."* It's an addiction. She can't help reaching toward the stove even while she's blowing on the burn.
-
-And then—thank God for Cassie. Cassie sitting on that lower bunk with the cold still coming off her coat, seeing straight through the wreckage on Vee's face, and asking the only question that matters: *"What was that with you and Randi?"* No cover stories left. No doll-sized shrunken sweaters. Just the naked truth of a best friend who loves her and is watching the train leave the tracks. I need chapter 70 immediately.
+Yet, by the end, when she touches herself in the quiet room and realizes the sheer, electrifying newness of her own skin, the desire rushes right back in to fill the void. She didn't do it because she was forced; she endured it because she wants the moment where *his* hands find it. It's intense, it's a little messed up, it's deeply honest about the things women put their bodies through in the name of love and desire, and now I am desperate for him to see what she did.
 
 ***
 
-GATE 69 — Coming Due
+GATE 65 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The psychological claustrophobia was suffocatingly real—Vee trying to hold a lid on her own desire while Randi methodically dismantles her defenses. And Cassie dropping that direct question at the very end is the exact grounded intervention this whole runaway train desperately needs.
+WHY: The psychological precision of the salon scene was devastating and brilliant, showing the exact line between cold compliance and loving submission. The anticipation for Pace to finally touch what she went through all that pain for has me completely gripped.

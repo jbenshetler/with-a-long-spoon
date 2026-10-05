@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch067 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~b11de8d9a5ce · 2026-09-12*
+*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~78023057031c · 2026-09-12*
 
-REACTION — Oh, Vee. This hurt in that horribly recognizable way where your body has already told the truth and your mind is exhausting itself trying to keep the truth from becoming real. She can have Pace all Sunday, reach for him again and again, be genuinely satisfied by him, and still not be *filled*, because this is not a shortage Pace can solve. It is Randi she wants. Not “a woman,” not some stray drunken curiosity, not a fantasy Pace planted in her. Randi, particularly: her perfume, her knee, her mouth, her little hard body against hers. At last there is nowhere left to charge that desire except to Vee herself.
+REACTION
 
-The hand held motionless on her stomach absolutely got me. Nobody is forbidding her pleasure, but she is withholding it from herself because she believes touching herself while thinking of Randi will turn wanting into evidence. As though desire only becomes true when she consents to feel it. That made me ache for her. She is trying so hard to remain the girl she understands that she cannot even let her own hand move.
+Oh, this got me. Not sexually at all, and I didn’t miss the sex for one second. The water on the folded paper towel, the pills, his old shirt pulled over her, the bread somehow existing by morning—this is exactly the ordinary tenderness that makes me helpless with him. He takes care of her when there is nothing glamorous in it, when she is barely conscious and cannot admire him for doing it. And that remembered kiss on her forehead, after he thought she was asleep, may be more intimate to me than half the things they’ve done naked.
 
-And then Randi made me furious. Vee turned her mouth away. Yes, she hid the real reason behind being sick, but Randi still watched her refuse the usual kiss and then put her mouth on Vee’s neck—the exact place she knows undoes her, the place she has already called a weapon. “How do you like it?” is not cute to me here. It feels like Randi testing whether she can make Vee’s body overrule the boundary Vee just tried to set. That is precisely the kind of control I do not trust: not asking what Vee wants, but engineering a response and treating the response as permission.
+Then he told her he has one friend, and my heart broke—and immediately afterward my suspicion sat straight up.
 
-What makes it worse is that Vee immediately gives her Saturday. Randi gets rewarded for pushing past the turned-away mouth, and she lights up because another private appointment has been secured. I believe Randi’s delight and desire are real; that does not make the maneuver tender. Vee is falling toward her, yes, but Randi keeps arranging the floor.
+Because I believe him about the loneliness. Completely. That account of missing the one brief window when boys learn friendship through ordinary competition felt horribly true for this particular strange, brilliant, displaced man. And the innocent questions with gaps under them—Christmas, parents, somewhere to go—hurt terribly. He has made a philosophy out of not calling deprivation tragic, just as he made Daphne into luck because admitting what it cost might undo the only love he had. Vee sees that now. She sees the beloved experience and the wrong adult shape of it at the same time, and I’m so glad she does not flatten either truth to make the other easier.
 
-Thank God for Cassie. “What was that with you and Randi?” landed like someone finally switching on a light. She saw enough from outside to be worried, and Vee’s usual explanation does not arrive. That silence matters. For once she cannot put Pace’s name over the wanting or call Randi merely glamorous and affectionate. She simply does not know what story could make what Cassie saw harmless.
+Her hug was perfect. She didn’t pity him, didn’t demand disclosure, didn’t make him reassure her. She simply crossed the distance and held him with her whole weight. That is love, whether either of them will say the word or not. And the echo of Sheri’s hug absolutely finished me: Vee understood what that embrace meant and answered it in the same language.
 
-I am absolutely reading brunch, but with my shoulders up around my ears. Vee’s desire is real and I desperately want her to claim it. I do not want Randi to keep exploiting that desire while Vee is frightened and uninformed—especially when Randi knows Pace is waiting behind every door she opens.
+But, Pace. “My one friend”? Where is Randi inside that sentence?
 
-GATE 67 — Coming Due
+Maybe he truly does not classify Randi as a friend. Maybe she is lover, partner, co-conspirator, some category so foundational or dangerous that “friend” would be inaccurate. But Vee hears “one person in the world,” and he knows she hears it. She is grieving that he had nobody after Daphne while Randi is presently in his bed, sharing his secrets and helping shape Vee’s life. He lets Vee build an entire emotional understanding around an absence that is not actually empty. That makes this exquisitely tender chapter feel almost cruel underneath.
+
+And Vee’s certainty that Sheri is safe because she “could never want him” made my stomach turn—not because Sheri secretly does, but because Vee is unknowingly identifying the exact condition under which she thinks Pace can keep a woman close without romantic complication. Randi blows that condition apart. The revelation is going to reach backward and contaminate this beautiful morning: the bread, the loneliness, the hug, all of it. Not because his pain is false, but because he accepted comfort generated by a false picture he chose not to correct.
+
+I would text a friend: “This man baked her cinnamon-raisin bread while she slept off cider, confessed he has one friend, and let her hold him—and I am crying while also yelling WHERE THE HELL DID YOU PUT RANDI IN THAT SENTENCE?”
+
+GATE 62 — Hangover
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-ALMOST-STOPPED: “How do you like it?”
-WHY: Vee’s dawning recognition had me completely, but Randi deliberately using the neck kiss after Vee turned her mouth away came perilously close to the coercive pattern I read this genre to avoid. I’m continuing because the chapter does not let that moment pass unseen: Cassie is worried, Vee cannot explain it, and brunch now feels like the place something must finally come due.
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: The care between them was so real that I would happily have stayed in this quiet kitchen all chapter. But “Sheri’s my friend. My one friend” is an enormous, suspicious omission, and now I urgently need to know what Pace believes Randi is—and how much truth he knowingly let Vee replace with tenderness.

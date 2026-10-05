@@ -1,25 +1,21 @@
-*capture-dag-v2-rich · gate ch051 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~79b4d57f1ee0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch046 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~eeeec469236e · 2026-09-11*
 
-REACTION —
+REACTION — Oh, Randi.
 
-Oh, I was caught. Completely. This is exactly the scene I was reading toward, and it did not blink.
+This chapter did exactly the thing I’ve been waiting for and dreading: it let me inside her without sanding off a single sharp edge. I don’t forgive her, but I understand her so much more intimately now, and that is honestly worse for my blood pressure. The whole Gstaad fairytale is such a trap because it is not fake. It’s beautiful. It’s expensive and glittering and cinematic and exactly the kind of story a girl like Randi was trained to want. The sleigh, the white tie, the dress, the way John looks at her on the stairs — I could feel how badly she wanted to step into the version of herself that world had prepared for her.
 
-The thing that matters to me is that the chapter lets the coat be Vee’s act, not just Randi’s planted fantasy. Randi is still in the room with her, absolutely; I can feel the handprint of “you’ve got the goods” all over the mirror scene, and I am not pretending otherwise. But once Vee is alone with herself, putting the bra back, looking in the mirror, stopping herself before she finishes, driving there with the ache wound up inside her — that becomes hers in a way I believe. Not cleanly hers, not untouched by manipulation, but genuinely inhabited. That distinction is doing a lot of work for me.
+And then the sex means nothing.
 
-And God, the terror of Kayla in the hallway. That was so funny and so mortifying and so exactly the kind of social horror that makes the erotic feel more real instead of more staged. I loved that Vee could laugh. I loved that her body didn’t stay only tragic or sacrificial. She is scared, horny, ridiculous, brave, embarrassed, turned on by herself, and that is the interiority I need from a book doing this much steering around a young woman’s vulnerability.
+Not bad. Not coercive. Not disappointing in the ordinary way. Just nothing. That chilled me more than if he’d been awful, because awful would have given her a clean story. Instead he is the acceptable man doing the acceptable thing well, and she still can’t make herself appear inside it. That line of thinking landed hard: “This was the best the acceptable world could do for her.” God. Yes. That is the kind of revelation that turns a person dangerous, because it doesn’t just tell her what she wants; it tells her the whole life she was sold won’t touch her.
 
-The police lights nearly took me out of my body. Not because I thought the book would make it into some cheap humiliation set piece, but because I suddenly realized how exposed she really was, how much danger sits around a woman doing something sexually reckless in public space even before the actual relationship danger comes back in. And then when the cruiser passed her by, I felt the same horrible relief she did. The chapter keeps letting the erotic and the panic share a pulse, which is exactly my weak spot when I trust the author knows the difference.
+And then Pace. Of course Pace. “Pace on his worst night reached further than this man had managed at his best.” I physically reacted to that. Because this is where the book keeps earning my trust: it knows Pace’s gift is also the danger. He finds the hidden person. That is erotic as hell and terrifying as hell, and Randi knows both. She knows he reaches too far in a way John never could. And she knows Vee gives off something no faultless room can counterfeit. So now Randi isn’t just a glamorous operator. She is a woman starving in a different but related way, watching Vee eat.
 
-Pace opening with “It’s late. Is everything alright?” made me furious for half a second. That formal wall, again. That same gentlemanly withholding. And then she opens the coat and he breaks. I am not made of stone. Him looking at her “like a starving man” and “like a man just told he is forgiven” absolutely got me. The kneeling at the threshold worked on me because it answered the power of her reveal: she comes as an offering, but he goes down. There is something almost liturgical about it, and yes, I ate it up.
+The scary part is that the chapter gives us her calculation in full daylight. She can tell Vee. She can picture almost every outcome. The one thing she can’t picture is Vee’s face, which means that is the actual risk. And instead of risking it, she chooses cover. She chooses the double meaning. She chooses to let Vee “arrive at it on her own,” which is such a soft, poisonous phrase. That is exactly the manipulation pattern: don’t force, don’t confess, don’t give the other person enough information to make a clean choice. Just keep arranging the room so their own desire feels like discovery.
 
-But I am also uneasy in the exact place I should be uneasy: “nothing needed saying now.” Oh, Vee. Baby. It did need saying. It still needs saying. The sex was incandescent, the pancakes were devastating, the forehead kiss with his voice cracking was so tender it almost made me forget myself, but I did not forget. He still has not said love. He still has not told her what he and Randi did. He has given her his body, his hunger, his care, his midnight pancakes, his cracked voice. He has still not given her the full truth.
+So yes, I’m still in. More in, unfortunately. This chapter made Randi both more human and more culpable. The author absolutely sees the problem. The fairytale is not being sold to me as romance; it’s being used to show why Randi can’t survive on approved romance, and why she is going to cling harder to the illicit, unsaid, triangulated thing with Vee and Pace. I hate that I want her in the room with them even more now. I hate that I believe her when she calls Vee gorgeous. I hate that the lie is getting warmer.
 
-And that is why I’m staying: the book seems to know that the relief is partial even while Vee can’t hold that in the moment. “Tonight there was no room in her for wanting anything he hadn’t given” is not presented to me as the end of the question. It lands as afterglow, as temporary mercy, as the kind of fullness that can make a woman stop asking for a while. That is emotionally true and also dangerous. I am thrilled and wary, which is the correct temperature for this book.
-
-Cassie at the end, with one eyebrow and “Hmm,” was perfect. Please keep her in the room. She sees outfits as evidence. She doesn’t consume Vee’s confession. She lets the story sit there, ridiculous and obvious and glowing. I trust her eyebrow more than half the tender speeches in this house.
-
-GATE 51 — Nothing Underneath
+GATE 46 — Fairytale
 DECISION: CONTINUE
-CAPTURE: 10
-ALMOST-STOPPED: “because nothing needed saying now”
-WHY: This chapter absolutely pulled me under: erotic, funny, scary, tender, and very alive in Vee’s body. I almost stopped at the emotional danger of sex and care substituting for the words and truth she asked for, but the framing still feels aware enough that I trust the book knows this is not actually resolved.
+CAPTURE: 9
+ALMOST-STOPPED: “Let Vee arrive at it on her own.”
+WHY: That sentence made my consent alarms go off so loudly, but the chapter knows exactly why it is alarming. Randi’s hunger is real, her loneliness is real, and her choice to preserve access to Vee through ambiguity is real manipulation. I’m furious and hooked.

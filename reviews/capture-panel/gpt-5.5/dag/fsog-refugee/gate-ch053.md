@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bff68c2a8905 · 2026-10-01*
+*capture-dag-v2-rich · gate ch052 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c1f15218cc12 · 2026-10-01*
 
 REACTION —
 
-Oh. There it is.
+Oh, Pace. I needed to be in his head, and I’m glad I got it, but I am also sitting here with my arms crossed a little because the man knows. He knows. He can make a whole private theology out of a cheeseburger and Vee understanding “the philosophy of it,” but he still can’t say the one word she asked for. That is exactly the problem, and the chapter knows it, and Sheri bless her sharp little diner heart says it clean: then not saying it matters more than having her. I actually said “yes” out loud.
 
-I needed this so badly from him, not because it fixes anything yet, because it doesn’t, but because the book finally let me inside the locked room and he knows. He knows he failed her. He knows the “I love how good we are together” was the coward’s answer, even if it was true. That matters to me. I have been so angry at him for standing there with all that tenderness and still letting her leave empty-handed, and this chapter didn’t excuse him, exactly. It made the wound make sense.
+I loved Sheri more here than I expected. She could have been comic relief or jealous-woman furniture, and instead she’s this prickly, lonely, honest person who can sit across from him and not need him to perform. I liked that she sees through his stack of true excuses. Because they are true. That’s what makes me ache. Pace *is* there. He *does* give Vee room. He *does* miss her. He is not one of the men who would say anything to get laid and then vanish. But the truth of his care does not cancel the truth of her need, and I am relieved somebody in the book finally told him that without making Vee sound needy or childish.
 
-The Daphne piece landed. Not melodramatic, not some grand tragic monologue, just: he said it once, she left, and his mind built a superstition around the words. I believed that completely. And I hated it for Vee, because she is not asking for magic. She is asking not to be made private and nameless. But I could feel the scared logic in him, and that pulled me right back toward him even while I’m still mad.
+The diner did something to me, too. After Vee’s cold little childhood room, this warm, plain, griddle-smelling place felt like one of Pace’s possible worlds that Vee hasn’t been allowed into yet. Not his controlled house, not the too-loud Chili’s, but somewhere public and intimate where he could hear her whisper. That line hurt me because I can see the date they almost had, the version where he brings her here and she understands him out loud and he understands that taking her into the world doesn’t have to mean drowning. I want that so badly it made me mad all over again.
 
-The part that got me was the truck. His whole body believing for one second that it might be her. That was such a clean little knife. And then he sobs, and then he eats anyway. God. That’s Pace all over: the body must be tended, even when the heart is on the floor. Chicken and broccoli as punishment, as survival, as “everything a body could need and nothing his mouth wanted.” It made me miss Vee at that table almost as much as he did.
+And yes, the Sheri teasing about Vee’s body made me laugh, but it also worked because Pace doesn’t reduce Vee to that even when he admits the sex is good. He blushes, then reaches for the real thing: the air changing, the way she sees the intention underneath what he does. That’s the Pace I still love. That’s why I’m not leaving. But he is on probation with me now. Missing her is not enough. Laughing in a diner is not enough. Go spend the word.
 
-Also, Randi’s cashmere blanket being there first thing. I saw it. I don’t know what happened last night, but bleach and whiskey and sickness and Randi’s after-blanket all in the same room is a whole bad weather system. I am not letting that detail go. The book is making me hold both things at once: Pace loves Vee, truly, and there is still this third game under the table that could wreck her.
-
-But yes, I’m relieved. Not comfortable. Relieved. He loves her. He knows he loves her. He knows silence was not noble. Now he has to get up and spend the word where she can hear it.
-
-GATE 53 — Not Enough
+GATE 52 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: "Randi's cashmere blanket, the one for the chill that took her after, had slid off the foot of the bed in the night."
-WHY: That blanket made me tense because the secret arrangement is still breathing right there in his bedroom, but the chapter gave me the thing I needed most: Pace admitting, to himself, that he loves Vee and that he hurt her out of fear. I’m absolutely reading on because now the only question that matters is whether he can say it to her before the hidden game ruins the ground under her.
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: “I can't.”
+WHY: This pulled me hard because Sheri finally said the thing I needed said, and Pace’s love for Vee is painfully obvious even while he’s failing her. I want the next chapter badly because now he has been named to himself, and if he still does nothing, that becomes a choice.

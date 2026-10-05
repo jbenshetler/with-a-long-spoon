@@ -1,21 +1,19 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~b727880313ed · 2026-09-11*
+*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~8429b6ba440f · 2026-09-11*
 
-REACTION
+REACTION — Oh, Randi. “You’re not caught, sweetheart. You’re lucky” is such a perfectly horrifying thing for the woman who helped set the trap to say. I actually went cold. Vee’s little thread of fear is accurate—she understands for one second that she is further gone than she consciously chose to be—and Randi immediately soothes that perception out of her. The comfort is real, the advice isn’t even wholly wrong, and it also serves the secret plan exquisitely. This is exactly the darkness I came for: nobody has to force Vee because Randi is teaching her how to interpret every movement toward them as self-discovery.
 
-Oh, this is exquisitely ominous. Simpson’s paradox sitting there in plain sight while Vee is blissfully between Cassie and Randi: every individual yes can be true, every individual moment can be good, and the aggregate can still tell a different story. “Same numbers. Nobody touched one of them.” Yes. Exactly. The book knows. I felt my shoulders drop at that—not because Vee is safe, but because I am safe with the book.
+And the maddening part is that Randi gives Vee something genuinely valuable. She refuses to let Vee narrate herself as merely acted upon. The toenails, the new underwear, the certainty before she drove over: Vee did want it, prepare for it, and take it. “Why are you telling me like it’s a confession?” is precisely the question Vee needs somebody to ask. I loved the relief of her saying, “I wanted it. And I took it. For once.” That belongs to Vee. Randi did not manufacture that desire. But Randi is extracting the most intimate evidence of it while Vee still has no idea she is reporting back to Pace’s partner—or that the listener helped put Pace in her path. The asymmetry is brutal.
 
-Cassie watching Vee instead of the dress nearly broke me. She asks one question—“Was it a good night?”—gets the answer that matters, and releases her. No excavation, no demand for access, no converting Vee’s happiness into entertainment. Randi immediately says “Tell me everything. Leave nothing out,” and then finds the next opening: shoes. Of course she does. Vee names one lack and Randi has her wrist, her Saturday, and the entire solution before Vee can decide how she wants to solve it. It feels wonderful to Vee because being anticipated and swept along genuinely does feel wonderful to her. That’s what makes Randi so dangerous and so compelling.
+I also do not believe Randi’s sad little old-boyfriend story at face value for one second. Maybe it happened, but it feels tailored: she arrives with a sexual disclosure calculated to make reciprocal disclosure feel natural, then says she is “running on fumes” and needs Vee’s story. She is opening the exchange by apparently making herself vulnerable while actually giving away nothing that matters. After last chapter’s invented-sounding tickling fantasy and now this convenient disappointing man, I am watching every anecdote she offers as bait.
 
-And I noticed that Vee is “happy in the middle” of these women while only one of them knows the hidden architecture of her happiness. Cassie and Randi may occupy equivalent seats beside her; they are not remotely working with equivalent information. The statistics lecture is practically screaming this, while Vee experiences the arrangement as perfect symmetry.
+Meanwhile, Vee is starting to spend money as part of admission: first mimosa priced carefully, second mimosa not priced at all. That tiny progression frightened me more than a lecture about class ever could. Randi picks every place, sets the current, and Vee experiences keeping up as becoming the woman she longs to be. Nobody orders the second drink for her. That is the entire mechanism.
 
-The shoe trip thrills and alarms me. Randi is about to help complete Pace’s vision of Vee, dressing her feet for the gown he made, and Vee will experience it as two separate acts of loving attention from her two closest new people. But Pace and Randi are the two people who chose her together. Whether or not they explicitly coordinated this particular step, the closed system is closing beautifully around her. Meanwhile Cassie’s raised eyebrow is tiny, ordinary, and therefore precious: she registers Randi’s pressure without hijacking Vee’s joy.
+And then the kiss. The first time Vee explained it away and searched the windows in fear. This time she expects it, meets it, and does not check who saw. That is enormous. I am thrilled because yes, finally, her wanting Randi is moving out of aspiration and into her body—even if she still won’t name it. I’m also alarmed because Randi knows exactly what she’s doing and Vee doesn’t even know there is a “doing” to know about.
 
-Also, “still shown to not one living soul” is such a sharp little sting. Pace has seen it. Pace made it. Yet in Vee’s mind that somehow does not count as being shown, because his gaze has already become part of the dress itself. She cannot see the object outside his attention—or his attention outside the object.
+I would text a friend: SHE TOLD THE GIRL SHE SECRETLY SELECTED, “YOU’RE NOT CAUGHT.” I am unwell. The book absolutely knows where the knife is.
 
-I would text a friend: *The author just used Simpson’s paradox to tell me every yes can remain true while the whole relationship is a lie. I am absolutely not sleeping now.*
-
-GATE 22 — All Told
+GATE 20 — Fed
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 ALMOST-STOPPED: none
-WHY: This chapter quietly confirmed that the book understands the exact consent problem it has built: truthful individual moments can combine into a profoundly misleading whole. I am frightened for Vee, deeply moved by Cassie, and absolutely going shoe-shopping with Randi even though I know better.
+WHY: This gave Vee a real, necessary claim on her own desire while showing how expertly Randi folds that truth into the concealed machinery around her. The tenderness, manipulation, class seduction, and dawning attraction are now so tightly braided that I need the reckoning.

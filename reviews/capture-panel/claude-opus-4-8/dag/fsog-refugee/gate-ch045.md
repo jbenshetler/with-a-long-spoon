@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch045 · claude-opus-4-8 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-01*
+*capture-dag-v2-rich · gate ch044 · claude-opus-4-8 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a3af5d5e997c · 2026-10-01*
 
 REACTION
 
-Oh, this one's a cropped chapter about a cropped photo, and the book knows exactly what it's doing with that word. She sent her mother a picture that stops at the waist. She tells her father "the parts that fit." She puts a question mark on the word *boyfriend* out loud, to her own parents, like she's asking *them* what he is because she can't tell herself. The whole chapter is her holding up the thing she can't say and turning it in the light, and every edge of it is something she's had to trim off before anyone's allowed to look.
+Okay so after chapter 43 dropped MIRANDA on the lecture-hall floor like a dead bird, I came into this one braced — and it just... poured me a Nebbiolo and undressed me in the hallway. A whole chapter of nobody but the two of them. And I'm of two minds, hard.
 
-And I love that it's Cassie across the table, because Cassie is me, and Cassie just does the thing I've been begging someone in this book to do for forty-five chapters — she asks it plain and then she asks the *better* version of it. "So what is he. Not to your dad. To you." And then, when Vee flounders: "Is it that you can't say, or that you don't want to?" God. That's the whole book in one line. Because the honest answer is *both*, and Vee says *both*, and that's the closest this book has let her come to naming the trap from inside it. She can't say what he is because there's no word, and she doesn't want to say it because saying it would make her look at it.
+The undressing bit got me, I won't lie. The jeans cold and tight and her hopping one-legged with no dignity anywhere, and him not helping, just *holding* her and enjoying it so plainly she starts laughing — that's the good stuff, that's two particular people and not two bodies. "You're not helping." "I'm helping." I'd text that to a friend. And her throat publishing the number she'd gone to such trouble to keep private — five nights coming out of her in one rush and her face going hot because her own body outed her — that's her desire rendered from inside, which is the thing I stay for. He never made her pay for the five nights. Said *of course, take the time, I'll be here.* No cold shoulder, no tax. That's the man I left the genre hunting for.
 
-The detail that gutted me — the one I'll text Cassie about at 1 a.m. if I had a Cassie — is the sewing. Her dad would take it *easier* if she said Pace takes the dress off her than that he made it. Sex he gets. A man who sits at a machine on a sun porch and builds a dress onto a girl because she mentioned once she couldn't afford one in a magazine — that's the thing that doesn't fit anywhere, and she knows it, and she's not ashamed of it, she says, "the opposite." But listen to what she's actually telling me: the most devoted thing he's ever done is the one thing she can't let a soul see. That's not romance that fits in the world. That's the plan. A normal good man's love you can hand to your father. This she has to crop.
+And the shirt. God, the shirt. She washed his flannel because it stopped smelling like him — she's been sleeping in a dying shirt every night she's not here, breathing him down to nothing — and she hands it back not to return it but to make him *refill* it, wear it all weekend so it smells like him again. And he pulls it on right there, over the shirt he's already wearing, stands in his own kitchen in two shirts because she told him to, and doesn't make her defend one word of it. That's the turn. That's the bond doing something real and mutual. The foolish prick of tears — I had them too, a little.
 
-And underneath it all, her mother touching her own collarbone, looking at the shoulders of that dress. Not saying anything. That's the weight. That's the vanishing, showing up in a printed photo in a woman's purse, and even her mother can only touch her own neck and go quiet. Nobody in the frame will name it. But the mother *saw*.
+BUT. Here's what's sitting cold under all that warmth: this is a woman who now keeps a drawer of herself in his house, who can't sleep without breathing him, who's shrinking, who lasted five nights before she caved — and the book served me all of that as romance, with *no* counter-voice anywhere in the room. No Cassie, no Randi, nothing dry. That's exactly the shape of my exit line — tender, alone, asked to be happy for her vanishing. The only reason I'm not gone is the dread didn't get *dropped*, it got moved into me, and worse: chapter 43 just handed me a loaded gun. Randi is the outlier. Randi is the fraud. Vee *saw her face do it* and said nothing and kept it. That fuse is burning right now and this cooldown chapter didn't touch it — which is fine, series do this, the door-closing quiet — but it means every tender thing here is happening over a trapdoor I can see and she can't.
 
-What keeps me from leaving is exactly what kept me the last time it got close: the counter-voice is right there in the chair across from her. Cassie didn't pull the seam, but she pressed it, and she didn't push when Vee flinched, and Vee was *grateful and also, a little, not* — that last half-line is the best thing in the chapter, because it's Vee wishing, somewhere, that someone would push harder than she can ask for. The day Cassie's not at that table and the book just asks me to be happy for all this cropping — that's the day I'm gone. She was at the table today.
+So: lovely, and I'm scared, and I want the next one not because of the pizza but because I need to know what Vee does with what she's carrying.
 
-It's a quiet one. No heat, nobody alone in a room, no movement on the three-way thing I'm reading toward. But it's the kind of quiet I pay for gladly, because the dread did its work in daylight over a cafeteria tray.
-
-GATE 45 — Cropped
+GATE 44 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 6
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: none — it's a safe chapter, the slackest patch was the Thanksgiving-roundup small talk before Cassie got to the real question, and even that I didn't want to leave
-WHY: Cassie's "can't say or don't want to — both" is the first time the trap got named from inside Vee, and the sewn dress she has to crop out of her own life told me more about the danger than any scene has; a holding chapter, but the counter-voice is still in the chair, so I stay.
+CAPTURE: 7
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "a whole chapter of nobody but the two of them... tender, alone, no dry voice anywhere — the exact shape of the thing that walks me out"
+WHY: The shirt ritual is a genuine turn in the bond and it got me, but this was pure cooldown with no counter-voice, which is my danger zone — what saves it is chapter 43's reveal still live and unspent, and I can't leave with that fuse lit.

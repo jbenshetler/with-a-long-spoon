@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha f6c081c5e67c · 2026-10-01*
+*capture-dag-v2-rich · gate ch053 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha bff68c2a8905 · 2026-10-01*
 
 REACTION
 
-Oh, Randi. You beautiful, starving liar.
+Oh, Pace. The truck absolutely wrecked me. His whole body believed in her arrival before his mind could intervene, and then he still ate the cold chicken because nobody was coming to take care of him. That is exactly the kind of suffering that gets me—not glamorous anguish, not a beautifully brooding man with a whiskey glass, but vomit, bleach, shaking hands, food swallowed by command. The whiskey didn’t blur Vee at all. Of course it didn’t.
 
-That first hug got me. Vee breathing her in, both of them holding past the point where a hug should end, Randi throwing those expensive new things onto the floor without even looking because Vee is there and hurting—that is real. Randi loves her. I felt it in my chest, and that somehow makes everything she does next so much worse.
+And I believe him now, completely, about the words. Daphne wasn’t just the woman who left; she was the person through whom he learned how to exist in the world, and then the person he would have needed in order to survive losing her. That is a vicious little emotional trap. He took the fact that later losses were survivable and made a superstition out of his silence. It makes terrible, human sense.
 
-Because Vee finally asked the right question. She stood at Pace’s door and refused to let warmth and dinner and sex answer it for him. And Randi takes that brave, clean act and teaches her to see it as cruelty. “You backed him into a corner in his own house” made me furious. She did not corner him. She asked what she was to him. Randi knows why he froze, knows he loves Vee, knows there is another woman because she is the other woman—and still looks into this exhausted girl’s face and says, “That is not a man with another woman.” That isn’t careful concealment anymore. It is a lie designed to make Vee distrust her own completely accurate alarm.
+But the line I cannot get past is that he knew his answer was smaller before he gave it. He watched it fail in Vee’s face and let it stand. That hurts worse than if he had misunderstood her. She gave him the best sentence she had, and he deliberately rationed himself because he wanted protection from the possibility of losing her. Now he has hurt her first so she cannot hurt him later. I ache for him; I am still furious with him.
 
-And God, the manipulation works because Randi knows her so intimately. She knows exactly how to turn Vee’s shame into heat, exactly how to make bodily exposure feel like courage, exactly where to stop the sentence so Vee completes it herself. Naked under the coat is extremely hot to me. I want the doorstep so badly I can practically feel the cold on her legs. But Vee is being sent there to apologize with her body for having asked for honesty. That poisons the fantasy without killing the charge, which is almost unbearably effective on me.
+Also: folding Randi’s cashmere blanket before doing anything else. There she is, physically present in the room where he is grieving Vee, while Vee is inventing a faceless blonde because neither of them will tell her the truth. The chapter’s tenderness toward Pace does not let him off that hook. Saying *I love you* would be a real act of courage, but it would still be only the smaller truth if he leaves Randi out.
 
-The shoes made my stomach drop. Randi choosing what Vee wears to Pace’s door feels like a signature meant for him, whether Vee knows it or not. If Pace recognizes them, I may actually throw something. If he opens that coat and accepts this offering before telling her he loves her—and before telling her about Randi—I am going to be incandescent.
+I am desperate for Vee to arrive, and I hate that she is going to arrive believing she owes him an apology. If that engine finally turns into the drive and Pace sees her in that coat and those heels, he had better understand what is being handed to him—and speak before he touches the belt.
 
-Then Vee asks for Randi’s real New Year and gets another immaculate edit. Randi gives her the public fairytale Vee is most vulnerable to wanting and hides the only emotionally true part: that John could not reach her, that Pace did, that Vee does. And Vee, sweetheart, hears John naming imaginary children and thinks this is what ease and certainty look like. She has no idea both people she loves are curating reality around her.
-
-I am completely hooked and deeply uneasy. The tenderness between these women is not fake. The desire is not fake. Vee laughing at the end is not fake. That is what makes Randi frightening: she isn’t pretending to care while manipulating Vee. She is manipulating Vee because she cares and is too afraid to let care become a choice Vee gets to make. I would text a friend at one in the morning: “The secret girlfriend just sent her girlfriend to their boyfriend naked in her shoes, and the girlfriend thinks she’s apologizing. I’m unwell.”
-
-GATE 54 — My Friend Randi
+GATE 53 — Not Enough
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 2
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: I need that door opened immediately. The coat and heels have me by the throat, but what I’m really desperate to know is whether Pace accepts Vee’s body as an apology—or finally becomes brave enough to refuse the false terms and tell her the whole truth.
+WHY: The passing truck and the cold chicken gutted me, and Pace’s fear finally feels fully human rather than like standard emotionally unavailable-man machinery. Now I need the doorstep immediately, because his next choice—words first or body first—will tell me whether this pain has changed him at all.

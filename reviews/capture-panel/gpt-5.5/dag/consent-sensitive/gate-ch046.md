@@ -1,21 +1,21 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~eeeec469236e · 2026-09-11*
+*capture-dag-v2-rich · gate ch041 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~a3af5d5e997c · 2026-09-11*
 
-REACTION — Oh, Randi.
+REACTION —
 
-This chapter did exactly the thing I’ve been waiting for and dreading: it let me inside her without sanding off a single sharp edge. I don’t forgive her, but I understand her so much more intimately now, and that is honestly worse for my blood pressure. The whole Gstaad fairytale is such a trap because it is not fake. It’s beautiful. It’s expensive and glittering and cinematic and exactly the kind of story a girl like Randi was trained to want. The sleigh, the white tie, the dress, the way John looks at her on the stairs — I could feel how badly she wanted to step into the version of herself that world had prepared for her.
+Oh, this one got me in the quiet place.
 
-And then the sex means nothing.
+Not because anything huge “happened,” but because the chapter puts Vee back beside Cassie and suddenly the whole thing has oxygen again. I missed this. I missed someone asking a clean question without wanting to use the answer. Cassie’s care has such a different texture from Randi’s care. Randi opens Vee like she’s good with locks. Cassie just sits there with her cafeteria tray and asks, “So what is he.” And somehow that is more dangerous.
 
-Not bad. Not coercive. Not disappointing in the ordinary way. Just nothing. That chilled me more than if he’d been awful, because awful would have given her a clean story. Instead he is the acceptable man doing the acceptable thing well, and she still can’t make herself appear inside it. That line of thinking landed hard: “This was the best the acceptable world could do for her.” God. Yes. That is the kind of revelation that turns a person dangerous, because it doesn’t just tell her what she wants; it tells her the whole life she was sold won’t touch her.
+The cropped photo is perfect and awful. Of course her parents get the waist-up version. Of course the full truth is divided into acceptable family pride, erotic self-knowledge, Pace’s artistry, and the whole hidden machinery no one in her real life can name. The title is doing a lot to me, because Vee is cropped everywhere right now. Her parents get the honorable daughter. Cassie gets more than most, but still not enough. Pace gets her body and her trust. Randi gets the confessions and the wanting Vee won’t name. And Vee herself is still seeing cropped versions of the situation because the people closest to her have made sure she can’t see the full frame.
 
-And then Pace. Of course Pace. “Pace on his worst night reached further than this man had managed at his best.” I physically reacted to that. Because this is where the book keeps earning my trust: it knows Pace’s gift is also the danger. He finds the hidden person. That is erotic as hell and terrifying as hell, and Randi knows both. She knows he reaches too far in a way John never could. And she knows Vee gives off something no faultless room can counterfeit. So now Randi isn’t just a glamorous operator. She is a woman starving in a different but related way, watching Vee eat.
+I loved the bit about her father possibly handling sex better than sewing. That felt so painfully true and funny in that family way where “weird” is more threatening than “wrong” because wrong at least has a drawer to go in. And Vee defending the dress inwardly matters to me. She is not ashamed. That is real growth. Pace making it for her is still one of the most intimate things in the book, and I hate that the intimacy is welded to the larger secret because I want to simply swoon and I can’t. Very rude of the book to keep making me hold two truths at once, but also, that is why I’m still here.
 
-The scary part is that the chapter gives us her calculation in full daylight. She can tell Vee. She can picture almost every outcome. The one thing she can’t picture is Vee’s face, which means that is the actual risk. And instead of risking it, she chooses cover. She chooses the double meaning. She chooses to let Vee “arrive at it on her own,” which is such a soft, poisonous phrase. That is exactly the manipulation pattern: don’t force, don’t confess, don’t give the other person enough information to make a clean choice. Just keep arranging the room so their own desire feels like discovery.
+Cassie asking whether Vee can’t say or doesn’t want to is the chapter’s little blade. Because it’s both, yes, but it’s also worse than both: Vee doesn’t have all the information necessary to say what this is. She can’t narrate herself cleanly because the real story has missing pages. That makes me ache for her. It also makes me appreciate that the book is absolutely aware of the problem. It is not letting the secrecy sit there as just sexy mystique. It is showing the cost in ordinary conversation, in the gap between a daughter and her parents, between best friends over cafeteria food.
 
-So yes, I’m still in. More in, unfortunately. This chapter made Randi both more human and more culpable. The author absolutely sees the problem. The fairytale is not being sold to me as romance; it’s being used to show why Randi can’t survive on approved romance, and why she is going to cling harder to the illicit, unsaid, triangulated thing with Vee and Pace. I hate that I want her in the room with them even more now. I hate that I believe her when she calls Vee gorgeous. I hate that the lie is getting warmer.
+And Cassie not pushing. I both loved her for it and wanted to shake the table. Vee being grateful and “also, a little, not” is so honest it hurts. Part of her wants to be found out. Not exposed, exactly. Found. She wants someone who is not Pace or Randi to put a hand on the outline and say, there, that’s the shape.
 
-GATE 46 — Fairytale
+GATE 41 — Cropped
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: “Let Vee arrive at it on her own.”
-WHY: That sentence made my consent alarms go off so loudly, but the chapter knows exactly why it is alarming. Randi’s hunger is real, her loneliness is real, and her choice to preserve access to Vee through ambiguity is real manipulation. I’m furious and hooked.
+CAPTURE: 8
+ALMOST-STOPPED: none
+WHY: This chapter made the secrecy feel consequential without melodrama, and Cassie remains the person I most trust to see Vee whole. The title landed hard: everyone has a cropped version of Vee, including Vee, and I need the full image to come due.

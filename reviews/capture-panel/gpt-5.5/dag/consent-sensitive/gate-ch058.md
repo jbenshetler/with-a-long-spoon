@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch058 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~80491aa34d7b · 2026-09-12*
+*capture-dag-v2-rich · gate ch053 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~ec1574909bf3 · 2026-09-11*
 
 REACTION —
 
-Ohhh, this chapter knew exactly where to put the quiet knife.
+Oh, this one got me in the soft animal place. Not the spectacular sex place, though obviously the naked-at-the-table domestic aftermath is still humming underneath everything. This is the quiet check-in chapter I needed, and it matters to me that the book knows the difference between being kept and being known.
 
-I was all warmed up for another Randi/Vee debrief chapter, and I got it, but the book did that thing I trust it for: it let the erotic charge stay delicious while making the frame more dangerous, not less. The anthropology lecture is almost too on-the-nose in the best way: grooming, gifts, who touches whom, what social debt is hiding inside care. I am sitting there with Vee sharing wintergreen Lifesavers and knee contact and saved seats, and the whole class is basically saying, *look at the systems of intimacy, look who tends whom, look what gets exchanged under the name of kindness.* Yes, professor. We are looking.
+Because he is listening. Not just to her body, not just to what makes her gasp or melt or open. He knows Meg’s boots. He knows Kayla’s talkiness. He knows Cassie belongs in the shape of Vee’s life even when Vee, dazzled and immediately thinking “Randi,” forgets to widen the circle. That landed hard. I have been watching Pace’s care with one eye narrowed because his care is also a cage if the unnamed thing underneath stays hidden. But here, the care breathes outward. He wants to meet “your people,” plural. He is not just trying to pull Vee deeper into his house, his food, his bed, his private weather. He is asking for her context.
 
-Randi is terrifyingly good in this chapter. Not cartoon-villain good. Worse: socially, erotically, emotionally exact. She knows when Vee has made the story smaller, and she refuses the edited version — “Give me the real one — the harder one” — and part of me thrilled because yes, Vee deserves somebody who can hear the whole thing without flinching. But also: Randi keeps training Vee to bring her the unfiltered interior. She keeps making herself the place where shame becomes heat and confession becomes reward. That is intimacy, and it is also leverage. Both. Always both.
+And the Cassie correction. God. That was the whole chapter for me. Vee hears “your people” and fills the room with Randi first, because of course she does, because Randi is bright and central and dangerous and already woven through the erotic machinery of this whole thing. Pace says Cassie. Calmly. Like a plate in his hand. And suddenly I trusted him a little more than I did before. Not completely. The original plan is still sitting there with its teeth in the dark. But he sees the unglamorous friend, the grounding friend, the person who would come in yesterday’s shirt and be fine about it, and Vee immediately understands enough not to force Cassie into a room where she has to perform comfort.
 
-The wet-mouth conversation got me because it is so recognizably Vee: the body says yes, the installed rule says no, then the mouth tries to turn panic into a joke. And Randi does not mock her, exactly. She also does not soothe her. She just places one clean counter-fact on the table: “I don’t.” And Vee’s body immediately recognizes that the supposed disgust is not the whole truth. That is hot, yes. It is also Randi opening a door inside Vee and then stepping back like she didn’t just pick the lock.
+That is growth from Vee too. Small, but real. She has been so hungry to have all the beautiful parts of her life touch that she could easily make everyone bend around the fantasy. Instead she thinks: no, not a dinner, not if someone has to be fine. That sentence made me weirdly proud of her. She remembers being “fine” as a violence, almost. She doesn’t name it, but she won’t do it to Cassie. Good girl. Good, good girl.
 
-And the ending. God. The neck kiss is now officially not nothing. Vee thinks she is being playful with a ticklish spot, but Randi’s body gives more than the line admits. The book knows it. I know it. Randi knows it. Vee does not know it yet, except with her mouth, which seems to be a few chapters ahead of her brain.
+And Pace saying “Bring Theo” without flinching. I did not know I needed that little non-reaction until it happened. It is not possessive theater. It is not a test. He does not make her reassure him for having had a life before him. He just absorbs the information and keeps washing the pan. The man’s restraint can be maddening when it is emotional cowardice, but here it is grace.
 
-I am still enjoying Pace, and “you picked well” warmed me even as it pricked, because no, she did not pick in the ordinary sense. That tiny internal correction matters. Vee can feel the technicality under the compliment, and the book has not forgotten the original engineering of her choices. Thank you. That is the consent-in-the-dark wire still humming under all this lushness.
+Still. I am not fooled by pancakes and memory. I am moved, but not fooled. This is a chapter of earned warmth, and I think the book knows there is a danger in how good it feels. “Let me handle it” is romantic as hell in context, because he is choosing a place that will hold all her people and not hurt him the way Chili’s did. But that line also prickles, because so much of this book is people arranging rooms before Vee knows what room she is entering. Pace handling the place is probably kind. It may even be necessary. But I am still watching the hands on the architecture.
 
-So yes, captured. Uneasy in the right way. The author is very much awake.
+The big relief is that this chapter did not feel like the awareness switched off. It felt like the book quietly placing instruments on the table: Randi as first thought, Cassie as necessary balance, Pace’s listening as evidence, Vee’s “fine” alarm beginning to work on behalf of someone else. That is exactly the kind of lull I stay for.
 
-GATE 58 — A Clean Plate
+GATE 53 — Back
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-ALMOST-STOPPED: none
-WHY: This chapter fed me exactly the kind of danger I stay for: erotic intimacy turning into social debt, confession, influence, and wanting, while the prose keeps its eyes open. Randi’s pull on Vee is getting stronger and less deniable, and the book is still letting Vee’s pleasure be real without pretending her choices are untouched.
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: "Let me handle it"
+WHY: I loved the domestic intimacy here because it widened instead of narrowing: Pace wants Vee’s people, not just Vee sealed inside his house. But “let me handle it” still rings against the whole secret-invitation machinery, so I’m warm and wary at once.

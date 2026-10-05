@@ -1,28 +1,23 @@
-*capture-dag-v2-rich · gate ch059 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 8348ecb548e4 · 2026-09-24*
+*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 213059ecdcb4 · 2026-09-24*
 
 REACTION:
 
-God, the sheer *craft* of this trap. I have to just sit here for a second and catch my breath, because the psychological architecture of what Randi is doing to Vee is both breathtaking and utterly terrifying.
+Oh, Cassie. God bless Cassie. The minute Vee started that completely unhinged, rapidly improvised cover story about Pace shrinking her cranberry sweater in the wash to explain why she was wandering around in an oversized t-shirt, I was holding my breath. Cassie didn't challenge it. She didn't cross-examine her. She just looked at her, let the sheer, magnificent absurdity of *Pace*—the man who measures salt by three individual grains and tailors bespoke silk gowns—accidentally felting wool in hot water hang in the air, and then laughed. Because Cassie knows. She knows Vee is omitting 90% of the truth, she knows Vee showed up in men's sweats and high heels on Sunday night, and she lets the girl have her ridiculous, transparent lie without humiliating her.
 
-First of all, Dr. Marsh’s lecture on the grooming habits of baboons and the *hau*—the spirit of the giver that lives inside an object and demands return—is such an exquisite framing device. Marsh literally tells the room: *a baboon spends a fifth of its waking life grooming. The fleas are gone in ten minutes; the fleas were never the point. It sits with another baboon and puts its hands in the fur, and if you take it away, they sicken. Watch who grooms whom in a troop and you can draw the whole politics of it.* And then cut immediately to Randi and Vee. Randi isn’t just listening to Vee’s sex life like a fun sorority big sister; she is *grooming* her. She is budgeting that fifth of her day to run her hands through Vee’s psychic fur, picking out the shame, mapping the troop politics, establishing an intimacy so thick and woven that Vee doesn't even realize she’s being completely rewired.
+What absolutely gutted me in this quiet little chapter, though, was the mother's card.
+*"My mother says thank you for the card. She wants to know when she gets to see you again."*
 
-And look at the sheer genius of Randi’s move at the table. Vee brings this intimate, vulnerable, slightly panicked detail from her weekend—the snowballing/kissing after oral—hoping to wrap it in a tidy bow of Midwestern modesty. She serves it up as a farce, a punchline: *"Gross. Wrong. Somebody had to say it... You think it's gross too, don't you."* She is *begging* Randi to validate her shame, to give her permission to shut that door and put the Victorian modesty back on.
+That hit Vee right in the solar plexus, and it hit me too. Look at the contrast the book is drawing so delicately here: on one hand, you have the sensory intoxication of Pace’s kingdom—the acreage of the king bed, the bespoke jewels of blood orange, the sheer luxury of being petted and cooked for. But that kingdom is completely isolated from normal human context. Then on the other hand, you have Cassie’s world. Cassie’s family saves boxes in closets, bakes Play-Doh Christmas cookies, scratches floors with snowshoes, and—crucially—Cassie’s mom remembers Vee, appreciates a simple card, and wants to see her again. It’s real, un-engineered, un-glamorous warmth. It doesn't cost an emotional toll. It doesn't require stripping bare under a wool coat to earn.
 
-And what does Randi do? She doesn't mock her, and she doesn't push. She just drops a single, level, devastating stone into the pool: *"I don't."* And then: *"It was powerful. It turned me on."*
+And notice Vee's reflex: she immediately has to touch her collar, goes small, and defers it. Because she feels the pull of that healthy, grounding warmth, but she is so addicted to the velvet cage west of town that she can't fully turn toward it. She climbs up into her single-wide bunk, hits the cold cinderblock wall, and reassures herself that Friday is coming.
 
-It’s diabolical. By refusing to agree that a woman tasting herself is disgusting, Randi accomplishes two massive things at once: she validates Pace’s hunger (making him seem even more like an incredible, generous lover, which keeps Vee feeling secure and expansive), while simultaneously planting her *own* erotic flag directly in Vee’s head. Now, Vee isn't just remembering Pace's wet mouth on hers; she is walking back to her dorm with Randi’s voice echoing in her ears: *It turned me on.* Randi is literally teaching Vee how to want, expanding Vee’s sexual appetite, but doing it in a way where Randi herself becomes the horizon of that appetite.
+She thinks everything is fixed. She told Cassie, *"We talked... and the whole stupid month just came down."* Except they *didn't* talk! That’s the tragic irony. She took Randi's advice, flashed him on the porch, bypasses the "cheap words" entirely with raw physical appeasement, and now she’s pretending they had a grand communication breakthrough. The core crack—*what am I to you?*—was never repaired; it was just paved over with mushrooms, persimmons, and breathless oral sex. And Pace is now offering to meet all her friends (a massive move, clearly meant to give her the "standing" she demanded without having to say the terrifying words *I love you*), while Tuesday looms with Randi.
 
-And then the neck. Oh, my god, the neck. Randi claims she’s "ticklish," but Vee kisses that hollow again, and under her lips, *Randi’s whole body does a small quick thing, a catch and then a rise, and the rise went on a beat too long.* Randi is starving for her. She is playing this long, exquisite, predatory game of chess, but her own body is betraying her every time Vee innocently leans in.
+It's the calm before the semester really starts moving, and every instrument is reading true.
 
-The book knows *exactly* what it is doing here. The consent line is being stretched on a velvet rack: Vee thinks she is confiding in her glamorous best friend; in reality, she is performing an erotic striptease of her own private life for a woman who is secretly in love with her and using every single scrap of information to dismantle her defenses. And Vee’s small, quiet, instinctive realization at the end—*"she hadn't picked Pace so much as looked up from her books one afternoon... to find him already halfway across the floor at her, the whole thing decided before she'd known there was a thing to decide"*—the subconscious is knocking on the glass! She knows, deep down, that she was selected. She just doesn't know both of them were holding the shears.
-
-I am completely hooked. The tension between the overt narrative (two college girls having wine after class) and the subterranean current (predation, grooming, hunger, and concealed love) is vibrating at an unbearable pitch.
-
-***
-
-GATE 59 — A Clean Plate
+GATE 55 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 9/10
-NEXT: 10/10
+CAPTURE: 8/10
+NEXT: 9/10
 ALMOST-STOPPED: none
-WHY: The psychological interplay between Randi's calculated grooming and Vee's unwitting compliance is masterclass dark romance. The narrative framing via Dr. Marsh's lecture proved beyond a doubt that the book is fully conscious of the manipulation taking place, which makes reading it an absolute thrill rather than an ordeal. I need to see where this Tuesday/Thursday ritual leads.
+WHY: The contrast between the high-wire erotic drama of Pace's house and the mundane, grounding safety of Cassie's dorm room is where this book's framing shines brightest. Vee lying to Cassie about Pace "shrinking a sweater" while Cassie just laughs and lets her have the lie was perfection, and the quiet weight of Cassie's mom asking about Vee proved the narrative knows exactly what real belonging looks like. I'm desperate to see Tuesday's anthro class and dinner with Randi.

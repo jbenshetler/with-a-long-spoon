@@ -1,22 +1,23 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha d1b699df4c26 · 2026-09-14*
+*capture-dag-v2-rich · gate ch024 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~0b647a05ad40 · 2026-09-11*
 
 REACTION —
 
-Oh, this one got me in exactly the place the book knows I’m watching.
+Oh.
 
-At first I was all in. The dancing lesson is basically a consent-and-power miniature, and the book absolutely knows it. “Give me something to push back against” is such a loaded, perfect sentence for Vee: not collapse, not perform, not guess, but meet the lead with enough self that there can be communication. I loved that. I loved that the closeness she’s scared of is what makes her safer. That is the kind of erotic power dynamic I can read forever when the book is awake to it: structure as something that can hold you, not erase you.
+So there they are. Finally. Pace and Randi in the same bed, with Vee between them even when she is not in the room. And I hate how much I liked parts of it, which is exactly the point, I think. This chapter is short and it is a blade.
 
-And then the bar. Whew. The room full of women who know Pace is exactly the right destabilizer. Because yes, of course a man like that has a whole social wake behind him. Of course Vee isn’t the first woman he’s made feel suddenly graceful. I felt her humiliation hard, and I understood the nasty snap of it even while I hated watching her do it. The blonde’s line was poison wrapped in plausibility: “Knows how to get a girl to do just what he wants her to.” That is the line of the chapter for me, because it names the thing I’m both turned on by and worried about. Is it a lead, or is it control? Is Vee learning to feel, or learning to obey? The chapter knows those are not simple questions.
+The thing that saves it for me, immediately, is that the book is not pretending this is neutral. Randi saying “I didn't think I'd like her this much” is the entire dangerous little heart of it. She is not just the smooth handler anymore; she is losing the clean distance that would let her keep calling this a game. And Pace hears her. He does not pounce on the information. He does not turn Vee into dirty talk when Randi offers him the picture of what Vee keeps under the cardigan. That mattered to me. A lot. He lets Randi’s wanting belong to Randi. That restraint is hot, yes, but more than that, it tells me the book knows where the live wire is.
 
-I was proud of the book for letting Vee be ugly here. Not “cute jealous,” not adorably insecure, but actually unfair. She weaponizes the good thing about him. And then, thank god, the bartender doesn’t let the misunderstanding become cheap soap opera for too long. Pace gets drunk girls home safely. He leaves them at the door. People notice. People would know if he didn’t. That mattered to me. Not because it makes him spotless, because no, the bigger hidden setup is still sitting under the whole book like a trapdoor. But it means this specific suspicion was Vee’s shame talking, not the book trying to make predation sexy while pretending not to see it.
+And Randi. God, Randi. Her fondness for Vee is getting so real it is making her unsteady. The shopping story made my stomach twist because I love Vee being funny and free with her, but then Randi’s delight in Vee’s embarrassment has that edge. “It was so cute. She was so embarrassed. That was kind of hot.” There she is: charmed, aroused, and not entirely safe. Not evil. Worse and better than evil. Compromised.
 
-What I really liked is that Vee’s spiral after is not just “oh no, he’s popular with women.” It’s shame logic. She sees other women as “floozies,” then turns the same knife on herself. She thinks she was “just next.” She thinks sex made her foolish. That old machinery is still right there under the new silk and the new shoes and the heat. Pace has helped her out of it, but he hasn’t cured it. Randi has helped too, but Randi is also part of the larger problem. Cassie is three feet away and Vee doesn’t wake her, and that hurt. The private chamber is working.
+Pace saying “I want her to get there on her own” should reassure me, and it does, locally. But structurally? Sir. She cannot get “there” on her own if you and Randi built the road, marked the exits, and are lying naked together after discussing her progress. Still, the chapter seems to know that contradiction. It lets the sentence be tender and damning at once. That’s the bargain I’m here for.
 
-The last turn — going to Randi’s — made me tense in my whole body. Because yes, emotionally, it makes sense. Randi is the one who will receive the charged confession. But Randi is not neutral. Vee thinks she’s going for repair; I’m scared she’s walking straight into further management. Delicious, awful, very effective.
+The bit that got me hardest was Pace describing Vee making the room brighter. Because yes. That is why I’m protective of her. She thinks she is excess, appetite, embarrassment, too much body, too much want, and these two people are looking at the exact same material and seeing radiance. That could be healing. It could also be capture. The title “Gone” lands both ways: Randi gone on Vee, Vee gone on Pace, Pace maybe gone on both of them, and all of them maybe past the point where anyone can cleanly stop.
 
-GATE 26 — Lesson
+I am very, very nervous now. But I’m not leaving. The author knows this is alarming. The chapter practically breathes through the alarm.
+
+GATE 24 — Gone
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-ALMOST-STOPPED: “Knows how to get a girl to do just what he wants her to.”
-WHY: That line made every instrument in me light up, but the chapter did not fumble it. It let the fear be real, let Vee be wrong in a human way, and kept the power dynamic under examination instead of using jealousy as glitter. I want the next chapter immediately because Vee is going to Randi, and Randi with a wounded, ashamed Vee is exactly where this book’s danger lives.
+CAPTURE: 8
+ALMOST-STOPPED: "She's not ready, though,"
+WHY: That line made the whole hidden machinery show its teeth, because Randi and Pace are literally assessing Vee’s readiness without Vee in the room. But the chapter knows how charged and dangerous that is, and Randi’s feelings getting messier makes the trap more emotionally honest, not flatter.

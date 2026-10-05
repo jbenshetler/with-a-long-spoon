@@ -1,35 +1,21 @@
-*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~178a1c64010d · 2026-09-11*
+*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~8aff12752f2e · 2026-09-11*
 
 REACTION
 
-Oh. Oh, Peter.
+Oh, Randi is dangerous in exactly the way that works on Vee: she makes being managed feel like being exquisitely understood.
 
-This is the chapter that makes me trust the book.
+The dress scene got me because Randi’s desire is no longer hiding particularly well. That first stunned silence, “Turn for me—slow,” her fingers reading the seam up Vee’s body, “He made it *to* you”—that is not girlfriend enthusiasm with a little French seasoning. She wants her. And the moment with Vee’s foot was intensely hot: Randi on one knee, holding her still, recognizing the plum polish and saying only “Mm,” then touching her once and watching the reaction travel through her. She knows exactly what she just did. Vee knows in her body and still hasn’t permitted herself to know in words. I am absolutely caught by that tension.
 
-Not trust Pace—not yet, and absolutely not Randi—but trust that the book knows exactly what has been living underneath his immaculate patience and his theology of open doors. He was fifteen. Daphne was nineteen, assigned to help “the child find his feet,” and it lasted two years. He tells Vee nobody did anything wrong, calls those years the best he had, and defends the memory from the accusation she is careful not to voice. And Vee understands the truly awful part: he has handed her the thing that hurt him and named it luck.
+And yet the money made my stomach hurt. Randi never technically tells Vee to buy the shoes. She doesn’t offer to pay, pressure her at the register, or even mention the price. She does something more effective: she takes Vee somewhere Vee cannot afford, chooses the perfect object, and supplies a moral language in which the purchase stops being a desire and becomes something the dress is *owed*. By the time Vee uses the emergency credit card without any plan for repayment, the choice feels wholly hers. That is the entire book in miniature, and this chapter knows it. I don’t think the narrative is applauding the debt just because Vee feels glamorous; “There was nothing under it” is too cold and precise. The author sees the trap.
 
-That hit me like a rock to the chest.
+“I’ve got her” nearly made me hiss aloud. To the saleswoman it means *I’ll fit the shoe*. In the larger story it is simply true. Randi has her—in the shop, in the friendship, in the private erotic current Vee cannot name, and increasingly inside Randi’s version of what Vee deserves. Even their shared shoe size becomes “practically a marriage,” a coincidence instantly converted into intimacy and permission.
 
-Because of course this is where his beliefs come from. Of course the man obsessed with literal permission, who wants Vee to “get there on her own,” may have built an entire moral system capable of preserving his own first relationship as consensual and precious. He didn’t feel young. It was the best two years he’d had. Nothing happened that he names as force. Every yes may have been freely given. I can suddenly see the shape reproducing itself—not identically, because Vee is twenty-one and he is twenty-two, but psychologically. He knows how to make room for choice while controlling context because that may be the only way he can understand what Daphne did without losing the first person who made him feel less alone.
+What keeps this from feeling like pure predation is that the joy between them seems real. Their idiotic shoe-store laughter delighted me; Randi’s unguarded laugh felt costly and genuine, and Vee got to feel funny, socially easy, equal. That matters. Randi isn’t merely performing friendship as bait. I think she is falling for Vee while continuing to engineer her, which is much messier and worse.
 
-And thank God Vee sees what he cannot. She does the arithmetic. She feels the ugly adult word forming. The narration does not blink, sentimentalize, or ask me to accept Pace’s interpretation as truth. It lets his tenderness toward the memory coexist with the fact that he was a profoundly isolated fifteen-year-old and she was the nineteen-year-old explicitly assigned responsibility for him. This is exactly the distinction I needed the book to understand.
+And poor Cassie’s absence is practically a presence. Cassie would have seen Vee, seen the price, and asked one plain question. Randi sees what Vee longs to become and builds a runway toward it, whether there is ground beneath the far end or not. Vee leaves thinking she has never had a friend like this. No, baby, you certainly haven’t.
 
-Vee was wonderful here. She does not pry, diagnose him to his face, or force him to accept her version of his life. “They took the thing you loved and made it the punishment” is such an exquisitely Vee insight: immediate, emotionally exact, and offered without making his hurt into her performance. And then, with Daphne, “You were so young.” Just enough truth to place a hand against the story without ripping it away from him. She gives Pace the conversational consent Cassie has always given her. That matters enormously.
-
-I am also more in love with him than I wanted to be. The math passage got me completely—not because I suddenly care about Newton, but because this terrifyingly composed man lights up and shows her the living thing inside him. “Most people walk around inside the poem and never get to read a line of it, and I got to read some” would have had me staring at him exactly as Vee does. This is what capture feels like: she sees the world differently for a moment because he has turned his understanding toward her like light. I get why she is gone. I am a little gone myself.
-
-But the mirroring is brutal. Pace says college was the first year he wasn’t in the hall; Daphne was the person assigned to bring the child inside. Now he and Randi are bringing Vee inside—into sex, wealth, beauty, appetite, a world she watched from outside. Pace experienced admission as rescue, so how could he easily recognize admission being used as leverage? He has been building Vee open doors because a woman once opened one for him, and he still cannot name what it meant that she controlled the building.
-
-Even his age rearranges him. Twenty-two. He isn’t the older, fully established man I had unconsciously made him into; he is only one year older than Vee, accelerated so violently through life that competence disguises how young he still is. That doesn’t absolve his deception. It does make his impossible self-sufficiency feel less like fantasy perfection and more like armor built by a child who learned early that adults would organize his whole life around what he could do.
-
-The scar answer was perfect for me: “Not tonight.” A clean boundary, no punishment for asking, no false intimacy, and no promise extracted beyond the quiet implication that another time exists. Vee turning her hand beneath his so they are palm to palm over the scar nearly undid me. She accepts the closed door without abandoning him outside it. That is tenderness.
-
-And then “Peter.” Not a sexy reveal, not a claim. She says the ordinary name simply to keep it. I felt the whole chapter close around that gesture.
-
-What I’d text at one in the morning: *PACE WAS FIFTEEN. THE BOOK KNOWS. THE BOOK FUCKING KNOWS.*
-
-GATE 25 — Rock
+GATE 23 — Sorority
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 ALMOST-STOPPED: none
-WHY: This answered my most important question without resolving the danger: the book fully recognizes the grooming pattern Pace himself cannot yet name. I am emotionally wrecked, newly tender toward him, fiercely impressed by Vee, and more frightened than ever by what Pace and Randi are repeating around her.
+WHY: The foot scene was scorching, the friendship felt genuinely joyous, and the credit-card purchase made the hidden manipulation suddenly material. The book unmistakably understands that Vee freely chose the shoes while Randi engineered the meaning that made an unaffordable choice feel inevitable.

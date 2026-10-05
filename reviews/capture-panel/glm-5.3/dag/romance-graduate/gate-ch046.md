@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch046 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-01*
+*capture-dag-v2-rich · gate ch045 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-01*
 
-REACTION — Oh, this one hurt. This one hurt in the way I actually like being hurt by a book, which is the only reason I'm not throwing my Kindle across the room.
+REACTION:
 
-I've been waiting for the maybe to become yes for ten chapters, and the book knew it, and it gave me the yes — except it gave it to me like a gift with the wrong person's name on the card. "I had been eating crackers my whole life. And you fed me a meal." That's her sentence. That's a better love confession than most books manage with the actual words, and it's HERS, built in secret, memorized like a poem, carried for weeks. And I sat there under the quilt with her feeling so proud and so ready and then he opened his mouth and said "I love how good we are together" and my stomach dropped through the floor. The *how*. "I love HOW good we are together." That's a man saying I love the us-shaped thing, the arrangement, the mechanism — not the woman. And then "what your body does — I've never." Her body. In the same breath as her one attempt to be more than the body.
+The title got me before the chapter did. "Cropped." After forty-four chapters of me tracking every crop and every uncropped frame — the induction photo, the "That part was hers," the full version handed to Randi — the book hands it back and says: her parents got the waist-up version, and Vee is the one doing the cropping now. She's learned to manage her own image. I don't know whether to be proud of her or scared for her, and the chapter won't tell me, which is why I love it.
 
-And the book KNOWS it landed wrong — that's what's killing me. The *wait* behind her breastbone. His hand starting two responses and putting both down. The two breaths she'd never heard him take. Helen Rivers wrote his deflection as deliberate-feeling, and then wrote her not being able to tell if it was deliberate or deaf, and that unresolvable question is the cruelest and truest thing in the whole book so far. "Testing it meant saying the words, and the words went through him first." She can't even check whether she was rejected without risking the real rejection. That's a trap with no floor.
+Dad pricing the dress. Mom touching her own collarbone instead of saying anything. That's the truest parent-writing I've read in a hundred of these books — nothing said, everything transmitted. And then Vee's read on it: "Sex he understands. The sewing he never would." I actually put the book down. Because she's RIGHT, and the fact that she's right means Pace stays illegible to everyone outside the house — a man who can't be translated into any father's vocabulary. She's protecting him with the crop the same way the crop protects her. She's become a person who curates reality for each audience — waist-up for Mom, uncropped for Pace, all of it for Randi. Do you see what I see? Everybody gets a different Vee, and the only person who gets to see all of her at once is the one behind the door. That's either intimacy or fragmentation and the book keeps refusing to sort it for me.
 
-The laundry room is where I had to put the book down for a minute. The pile. "The place was not empty. There were other things in it already." So there's a ROOM IN HER now where all his closed doors live — the parents, the scar, whatever happened with the not-saying — and she just doesn't look at it, and the book said so out loud. And her sentence "retired into her body." Retired. Like a jersey number. God.
+Cassie. "Is it that you can't say, or that you don't want to?" — "Both." That's the maybe-question from the pool, surfacing again, this time with a witness sitting across the tray. Cassie didn't push, and Vee was "also, a little, not" grateful for that. That little not is the whole spring in six words — some part of her WANTS to be made to say it, and nobody in her life will make her, because Pace never asks for anything and Randi only asks about the parts that entertain her. Cassie is the only one who asks the real question and then has the manners to stop at the answer.
 
-And I can't stop noticing the shape of this against the jacket: "two games... she doesn't know there are three." A man this exact, who takes a breath before answering properly, who said "wonderful, wonderful" like a fact for the record — that man does not bumble a confession. Either it went past him (which I don't buy, not from him) or "I love how good we are together" is precisely the sentence a man says when he's been told — by someone, by some arrangement — not to let it become the words. Randi's Friday reports. "Not yet." The not-yet has no date on it. I'm doing the math again and it's so much worse now.
+Two quiet-ish chapters in a row counting 44's back-half of tenderness, but this one is doing load-bearing work — the boyfriend question mark, "can't say or won't say," the father's suspicion being the outside world's first real cross-examination of Pace. My pulse is up even though nothing happened but dinner in an athletic cafeteria. That's craft.
 
-Also — Cassie asked "is it that you can't say or that you don't want to" and Vee said both, and two chapters later she built an end-run around the can't, and the end-run got swallowed. Cassie's case file just got its biggest exhibit and she doesn't even know it.
-
-I'm wrecked, and it's the good kind of wrecked, and I notice the book has now earned the right to make me dread Randi's next scene AND Pace's next "I love"-shaped sentence, and I'm already reading on.
-
-GATE 46 — Seconds
+GATE 45 — Cropped
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 7
+NEXT: 8
 HEAT: 0
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Zero heat and it's the most gripping chapter in ten — the confession deflection, the pile of unlooked-at things, the trap where she can't test it without risking it. This is exactly the grown-up emotional damage I read these books to feel, and the third-game suspicion just went from paranoia to live ammunition.
+WHY: No heat at all and I don't care — the cropping motif came home, the "can't say or won't say" pushed the love-question right up against the surface, and Cassie is tightening like wire. I'm waiting for the word Vee keeps not saying, and this chapter moved her closer to it than anything since the pool.

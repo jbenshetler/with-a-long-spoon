@@ -1,23 +1,35 @@
-*capture-dag-v2-rich · gate ch027 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~08b46669b5c5 · 2026-09-11*
+*capture-dag-v2-rich · gate ch025 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~178a1c64010d · 2026-09-11*
 
 REACTION
 
-Oh, this is exquisitely sinister. Randi takes Vee at her most exhausted and ashamed, gives her exactly the comfort she needs, and then quietly assumes command of the entire reconciliation: not today, tomorrow; not sorry, sure; not the cardigan, the black dress; these shoes, this scarf, this neckline. Vee arrives intending to repair something she did, and leaves with “marching orders.” That phrase landed like the book looking directly at me. It knows.
+Oh. Oh, Peter.
 
-And Randi’s prediction that Pace will not text is setting off every alarm I have. Is she merely reading him accurately, or does she already know what he intends to do? Has he told her about the fight? The chapter never answers, but the possibility hangs over the whole scene. Pace creates the charged experience, Randi receives Vee afterward and tells her what it means, and now she is literally costuming Vee for her next move toward him. The system has become almost offensively complete.
+This is the chapter that makes me trust the book.
 
-What makes it hurt is that Randi’s consolation is not false. Vee was jealous because she cares. She did lash out at one of Pace’s best qualities. She does need to apologize and make repair. But Randi takes a true emotional insight and uses it to seize authority over the how, when, and presentation. “Because Randi had said so” chilled me more than any overt threat could have. Vee’s panic doesn’t vanish because she has thought her way through it; it vanishes because Randi has supplied the interpretation she is now permitted to inhabit.
+Not trust Pace—not yet, and absolutely not Randi—but trust that the book knows exactly what has been living underneath his immaculate patience and his theology of open doors. He was fifteen. Daphne was nineteen, assigned to help “the child find his feet,” and it lasted two years. He tells Vee nobody did anything wrong, calls those years the best he had, and defends the memory from the accusation she is careful not to voice. And Vee understands the truly awful part: he has handed her the thing that hurt him and named it luck.
 
-And, damn it, the dressing scene is hot. Randi under the skirt, tending to Vee where she cannot see; the hand high on her thigh; the thumb behind her knee; the shoe that holds without binding. That is Vee’s whole erotic language now: structure as freedom, control as steadiness, being placed precisely and feeling more powerful for it. Randi understands that language at least as well as Pace does. Possibly because they invented the lesson together. “Maybe you just haven’t met your Evil Queen yet” is not remotely a joke, and Vee is laughing because she still cannot hear the confession inside it.
+That hit me like a rock to the chest.
 
-I’m also sad about Cassie. Vee begins the morning actively pretending to sleep so she won’t have to let the one person who asks nothing of her see what happened. She could have called Cassie, but chooses Randi because Randi will transform shame into glamour—and charge for the service in access, obedience, and disclosure. Cassie’s little “Hrm” leaves Vee free. Randi’s “Tell me everything” opens the extraction, and by the end Vee has surrendered a class, a day, her clothes, her timing, and her plan while feeling magnificently restored. That contrast is brutal.
+Because of course this is where his beliefs come from. Of course the man obsessed with literal permission, who wants Vee to “get there on her own,” may have built an entire moral system capable of preserving his own first relationship as consensual and precious. He didn’t feel young. It was the best two years he’d had. Nothing happened that he names as force. Every yes may have been freely given. I can suddenly see the shape reproducing itself—not identically, because Vee is twenty-one and he is twenty-two, but psychologically. He knows how to make room for choice while controlling context because that may be the only way he can understand what Daphne did without losing the first person who made him feel less alone.
 
-The attraction between Vee and Randi is now undeniable to everyone except Vee. She strips on command, stands glowing under Randi’s gaze, makes the naked-in-her-shoes fantasy out loud, responds bodily to being handled, and kisses her back without bracing. “It was only what they did” is exactly the kind of sentence that makes me want to shake her and protect her and keep reading all at once. Habit has naturalized the intimacy before Vee has consciously named or chosen its meaning.
+And thank God Vee sees what he cannot. She does the arithmetic. She feels the ugly adult word forming. The narration does not blink, sentimentalize, or ask me to accept Pace’s interpretation as truth. It lets his tenderness toward the memory coexist with the fact that he was a profoundly isolated fifteen-year-old and she was the nineteen-year-old explicitly assigned responsibility for him. This is exactly the distinction I needed the book to understand.
 
-I’m completely in because the book is not confused about any of this. It lets the friendship be real, the desire be real, the comfort be real, and the manipulation be real at exactly the same time. Randi genuinely loves this woman, I think. She is also grooming the path under Vee’s feet and then lending her the shoes to walk it.
+Vee was wonderful here. She does not pry, diagnose him to his face, or force him to accept her version of his life. “They took the thing you loved and made it the punishment” is such an exquisitely Vee insight: immediate, emotionally exact, and offered without making his hurt into her performance. And then, with Daphne, “You were so young.” Just enough truth to place a hand against the story without ripping it away from him. She gives Pace the conversational consent Cassie has always given her. That matters enormously.
 
-GATE 27 — broken-in
+I am also more in love with him than I wanted to be. The math passage got me completely—not because I suddenly care about Newton, but because this terrifyingly composed man lights up and shows her the living thing inside him. “Most people walk around inside the poem and never get to read a line of it, and I got to read some” would have had me staring at him exactly as Vee does. This is what capture feels like: she sees the world differently for a moment because he has turned his understanding toward her like light. I get why she is gone. I am a little gone myself.
+
+But the mirroring is brutal. Pace says college was the first year he wasn’t in the hall; Daphne was the person assigned to bring the child inside. Now he and Randi are bringing Vee inside—into sex, wealth, beauty, appetite, a world she watched from outside. Pace experienced admission as rescue, so how could he easily recognize admission being used as leverage? He has been building Vee open doors because a woman once opened one for him, and he still cannot name what it meant that she controlled the building.
+
+Even his age rearranges him. Twenty-two. He isn’t the older, fully established man I had unconsciously made him into; he is only one year older than Vee, accelerated so violently through life that competence disguises how young he still is. That doesn’t absolve his deception. It does make his impossible self-sufficiency feel less like fantasy perfection and more like armor built by a child who learned early that adults would organize his whole life around what he could do.
+
+The scar answer was perfect for me: “Not tonight.” A clean boundary, no punishment for asking, no false intimacy, and no promise extracted beyond the quiet implication that another time exists. Vee turning her hand beneath his so they are palm to palm over the scar nearly undid me. She accepts the closed door without abandoning him outside it. That is tenderness.
+
+And then “Peter.” Not a sexy reveal, not a claim. She says the ordinary name simply to keep it. I felt the whole chapter close around that gesture.
+
+What I’d text at one in the morning: *PACE WAS FIFTEEN. THE BOOK KNOWS. THE BOOK FUCKING KNOWS.*
+
+GATE 25 — Rock
 DECISION: CONTINUE
 CAPTURE: 10
 ALMOST-STOPPED: none
-WHY: Randi turning Vee’s crisis into an authored performance is exactly the beautiful, frightening machinery I came for. The book sees every compromised layer, and I need to know whether Vee is walking into Pace’s house to make her own repair or to deliver the scene Randi has just directed.
+WHY: This answered my most important question without resolving the danger: the book fully recognizes the grooming pattern Pace himself cannot yet name. I am emotionally wrecked, newly tender toward him, fiercely impressed by Vee, and more frightened than ever by what Pace and Randi are repeating around her.

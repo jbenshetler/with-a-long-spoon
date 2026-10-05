@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · relationship-first · prompt-sha 36ce75fcf3e4 · prose-sha b727880313ed · 2026-09-27*
+*capture-dag-v2-rich · gate ch026 · gemini-3.8-flash · relationship-first · prompt-sha 36ce75fcf3e4 · prose-sha 8aff12752f2e · 2026-09-27*
 
 REACTION
 
-God, the seating chart of that lecture hall is the entire book in one row of desks. Vee literally sandwiched between her two worlds—Cassie in the two-year-old fleece who doesn't give a damn about silk but is watching Vee's eyes to make sure she isn't hurt, and Randi on the aisle, already sinking her claws into the one missing piece of the armor. *“That’s not a problem, that’s a date.”* The speed with which Randi claims territory! The moment Vee admits a deficiency—the shoes, the fact that her closet stops where this grand new life begins—Randi swoops in to supply it.
+Oh, this chapter made me so sick with anxiety. That horrible, tight-throated feeling in the pit of your stomach when you watch a friend pull out the *wrong* card. The emergency credit card. For four-hundred-dollar shoes she will wear once. That moment at the counter where Randi casually drops three times that amount on an everyday pair of loafers while chattering about some tailor, not even glancing at the terminal—it was just suffocatingly real. The class divide in female friendships is so rarely written with this kind of quiet, predatory accuracy. Randi didn't offer to buy them, which would have been an insult Vee might have refused; she simply created an aesthetic reality where not buying them was impossible, and left Vee to swallow the debt alone so she wouldn't have to look poor.
 
-And using Simpson’s paradox as the classroom backdrop was almost too pointed, but I’ll forgive it because it works so damn well. You look at the data points individually—Pace being infinitely patient and building a dress to her exact ribs, Randi buying mimosas and offering sisterly style advice—and each piece looks like pure benevolence, pure luck. But aggregate the sets? Put the two years together, put the two conspirators in the same frame, and the entire reality flips. Vee is sitting there soaking in the afterglow, physically tender and sore from a man who spent half the night fitting silk to her hips and the other half taking her against a wall, completely blind to the arithmetic.
+And the shoe store scene before that! Randi kneeling on the floor, slipping off the flat, and touching the frosted plum on Vee’s big toe with her thumb. God. That was filthier and more intimate than half the sex scenes in other books. Randi knew *instantly*. She looked at that pedicure and she saw Pace kneeling at the riser; she read the entire secret language of that weekend off the curve of Vee's foot. And Vee grabbing Randi's shoulder because the room tilted—Vee doesn't even realize she is being courted by both of them simultaneously.
 
-Cassie breaks my heart here. That beat where Vee realizes Cassie hasn't looked at the board once, that she was just waiting to hear if it was *good*—not glamorous, not impressive, just safe and happy—and the second Vee gives that unplanned second *yes*, Cassie picks up her highlighter and lets her have it. Cassie isn't fighting for custody of Vee, and that dignity is precisely what makes watching her lose ground so devastating.
+What's terrifying is how completely Randi has usurped Cassie's place while offering the exact opposite of Cassie's care. Cassie looks at Vee and asks, *Was it a good night?* Cassie sees the human being inside the skin. Randi looks at Vee and sees a weapon, a project, a sculpture. "He didn't make this *for* you, he made it *to* you." The sheer psychological brilliance of that line, handing Vee the exact profound realization she’d been crying over, but weaponizing it so that the only logical conclusion is ruinous vanity.
 
-Meanwhile, Randi calling her a "lucky slut" cuts right to the quick because Vee’s shame-engine is already humming from the night before, still feeling Pace's mouth on her slick fingers, still feeling the draft from that hip-high slit. And now Randi is taking her shopping on Saturday. Randi is going to buy the shoes that force Vee to walk the way the dress demands. It’s an assembly line, and Vee thinks she’s just being loved.
+And that image at the end: Vee clutching the shoebox to her chest with both arms like a little girl who thinks it might spoil, laughing on the sunny sidewalk while the dress hangs between them in its shroud. It’s devastating. She thinks she's living in a movie. She thinks she's finally the girl who gets to have the glamorous friend and the devoted lover. The trap is so pretty she's paying for the privilege of stepping into it.
 
-GATE 25 — All Told
+GATE 26 — Sorority
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 1
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension in that three-seat lecture row is excruciatingly good. Watching Cassie quietly take Vee's temperature while Randi instantly pounces to script Saturday's shoe-shopping gave me chills; the trap is closing in broad daylight.
+WHY: The tension in the boutique was masterclass writing—watching Vee swap her debit card for the emergency credit card made my stomach drop harder than any thriller. Randi's thumb on her painted toe was electric, predatory, and gorgeous. I need to see this honors induction; the stage is set for a bloodbath.

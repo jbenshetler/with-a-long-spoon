@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-01*
+*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh, god. My stomach just dropped out through the floor.
+God, Cassie is such a surgical instrument in this girl’s life. Every single time Vee starts floating off into the stratosphere of bespoke silk, Nebbiolo wine, and secret three-way setups, Cassie just sits down across a plastic tray in an athletic cafeteria and drops a plumb line straight to the earth.
 
-*“I had been eating crackers my whole life,” she said. “And you fed me a meal. I didn’t know what a meal was until you fed me one. And now I know.”*
+*“I cropped it before I sent it. The version they have stops at the waist.”*
 
-She gave him her heart on a silver platter. She didn't say the forbidden three words, but she laid out her entire starved soul, using his own exact language—food, hunger, being filled—and what did he hand her back?
+That line hit me right in the chest. Because that is the entire tragedy and thrill of Vee’s life right now: she has to crop herself for everyone. For her parents, she stops at the waist—no bare hip, no four-inch heels, no four-nights-a-week fever in the woods. For Randi, she gives the uncropped pinup, but Randi doesn't get to see the part where Vee sits on the floor begging for a sweaty flannel shirt to sleep in. And with Pace, he gets the body and the appetite, but he’s keeping his own life cropped behind closed doors and Simpson’s Paradox.
 
-*“I love how good we are together.”* And then: *“What you do — what your body does — I’ve never.”*
+And then that observation about her dad: *“Sex he understands. The sewing he never would.”* That is so profoundly true about a certain kind of working-class father that it made my teeth ache. A boy taking off your daughter's clothes is a hazard of nature, something you can process with a scowl; a boy sitting down at a machine to painstakingly craft silk to fit the exact slope of her waist is an intimacy so deep, so foreign, that it curdles into "weird." And "weird" means dangerous. Because too good *is* suspicious.
 
-HIS BODY. HER BODY. That is the devastating, sickening knife twist. She gives him an emotional confession of profound, life-altering gratitude, and he pivots it *instantly* to sexual compatibility and physical performance. "What your body does." He literally demoted her back to a body. And the absolute tragedy of it is that he didn't do it out of cruelty—he did it because he is managing her. He had to pause, assemble his words, and set down a perimeter. *I love how good we are together* is the polite, horrifying non-reciprocation of a man who knows exactly what line he cannot cross. Simpson's Paradox again. Randi is still in the equation. He cannot say *I love you*, because this is a project, a curated awakening, an arrangement.
+Then Cassie, with zero malice, just sets the trap: *“So what is he... Not to your dad. To you.”*
 
-And Vee felt it. Thank God, she felt it. That small *wait* behind her breastbone. That cold, sickening little adjustment in the dark while he's kissing her hair and holding her under the warm quilt. The visual of her sitting on the folding table in the dorm laundry room, watching the dryer spin, turning those two sentences over like mismatched puzzle pieces—it broke my heart. *“She had said her best sentence. He had not said the sentence back.”*
+And Vee’s admission: *“Both. Probably both.”* That she can’t say, and she doesn't want to. That broke my heart a little. Because to name it means you have to look at the reality of it. If he’s just her "boyfriend," then why does another girl have the key to his house? Why does she have to hide half of who she is? If he’s not just a boyfriend, what is he? Her keeper? Her patron? Her lover who shares a calendar with an apex predator?
 
-The title of this volume is *A Warm Reception*. And right there: *"She had been received warmly, she would remind herself, in the small private way you remind yourself of evidence whose weight you are not sure of."* A warm reception is what you give a guest. It's polite hospitality. It's not love.
+It was a short chapter, but god, the quiet ones with Cassie do so much heavy lifting. It reminds you that outside the bubble of Route 614, there is a real world where people eat burned rolls and wonder why a twenty-one-year-old girl is suddenly wearing custom-fitted silk.
 
-The gilded cage just showed its bars. She tucked that hurt into the dark corner where she keeps the other unexplained things—the spanking bench she didn't question, the locked drawers, the separate data—and that pile is getting heavy. The mouse didn't bite, but the mouse just realized the cheese is attached to a spring.
-
-GATE 46 — Seconds
+GATE 45 — Cropped
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
 HEAT: 0
-ROMANCE: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The absolute psychological precision of that missed connection took the air out of my lungs. She offered him her soul, and he countered with how much he likes what her body does in bed; the sickening realization that he is managing her, and that she felt the chill even under the warm quilt, is sheer emotional masterclass. I have to see the fallout.
+WHY: The emotional honesty in this short exchange between Cassie and Vee is stunning. Vee realizing she has to "crop" herself depending on who is looking at her cuts right to the psychological core of what this affair is doing to her identity. I need to see what happens when the crop finally fails.

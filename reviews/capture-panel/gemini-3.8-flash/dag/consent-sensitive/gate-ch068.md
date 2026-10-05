@@ -1,30 +1,34 @@
-*capture-dag-v2-rich · gate ch068 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha a5634386be0d · 2026-09-24*
+*capture-dag-v2-rich · gate ch064 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha e993ed0e88f5 · 2026-09-24*
 
 REACTION
 
-I am sitting here in the quiet with my jaw clenched so hard my molars ache.
+God, the *air* in this chapter. It is so thick, so claustrophobic, and Vee is just breathing it in like it's mountain pine.
 
-The psychological architecture of this chapter is breathtaking and absolutely horrifying. Knowing what happened in Chapter 61—knowing that Pace and Randi are sleeping together, that Pace literally came while hearing Randi talk about wanting to put her mouth on Vee’s nipple, that Randi looked him in the eye and said *“She’s not the only one in love”*—watching Pace play Vee in this bed made my stomach drop into my shoes.
+The whiplash coming off Chapter 61—watching Randi ride Pace while demanding Vee's body, Pace saying Vee makes him happy, Randi saying *I want her to know what she does to me*—into this dinner? It is sickening in the most brilliant, horrifying way. Rivers is operating at the absolute peak of dramatic irony. Vee sits there across the white tablecloth thinking she is giving Randi a delightful, funny debrief about an imaginary rival, completely oblivious to the fact that she is feeding raw meat to a wolf who was just in bed with her boyfriend talking about her nipples.
 
-He didn't get mad. Of course he didn't get mad. He used her confession as erotic currency. He held her just off his cock, rationing out friction like an operant conditioning experiment, literally training her to confess the deepest, most humiliating details of her desire for Randi in exchange for an orgasm. And Vee—God, poor, blind Vee—thinks *she* is the one working an angle! She thinks she’s using him as an anchor to ground herself in heterosexuality, thinks she’s a clever little "pleasure princess" paying a small toll, when in reality he is systematically mining her for the exact data he and Randi trade like contraband.
+And that moment—*that moment*—when Vee tells her about Sheri looking at her.
+Vee thinks she’s recounting a funny, flattering little beat: *a woman looked at me with open sexual appreciation, wasn't that wild?*
+And Randi’s thumb just... *stops*.
+"Huh." And then: "And you liked it."
+The cold, territorial drop of the mask! Randi isn't jealous of Pace; she shares Pace, she engineers Pace. But another woman looking at Vee? Another woman getting that first crack in Vee's heterosexuality? Another woman making Vee blush and laugh from her belly? That is *Randi's* designated territory. Randi wants to be the one to open Vee up to women. The sheer predatory possessiveness in that frozen thumb made my blood run cold. And Vee—sweet, tragically blind Vee—reads that dead-eyed stillness as *Randi being protective.* She thinks Randi is guarding her against heartbreak! "Randi, she's not a threat." You poor, sweet idiot. She’s not threatening to take Pace; she’s threatening Randi’s monopoly on your awakening.
 
-And then that conversation after. The sheer, chilling brilliance of his manipulation:
-*"Do you want to sleep with a woman, Vee?"*
-Not *do you want to sleep with Randi.* He gives her the wide, safe abstract exit so she can panic and retreat into *"I'm not gay."*
-And when she turns on him, desperate, trying to shove the heat off herself—*"You're the one who wants this... you want Randi"*—and he says:
-*"You keep saying her name, Vee. Not me."*
+And then Vee lying: "No. Not my thing."
+She caught herself. She knows, deep down, that she *did* like it (she literally told Pace the day before that it was the best thing to happen to her legs in January, and she almost tasted herself in bed two nights ago!), but she senses the danger in Randi's stillness and immediately retreats into denial.
 
-I felt physically sick. The gaslighting is so smooth, so velvet-lined, it should be registered as a lethal weapon. He *literally* had Randi’s mouth on his cock a few days ago, talking about Vee, and here he is gently, sorrowfully telling Vee that *she’s* the one bringing Randi up, letting her believe that his gentle correction is proof of how much he loves her. *"It was the sweetest thing she had ever seen him do, and it settled over her like a warm blanket."* A warm blanket that is suffocating her while two people hold down the corners.
+Then the transition to the wax: "He asked me to get waxed. All of it. Bare."
+First of all, Pace didn't ask her that on-page in Chapter 63, which means either it happened off-screen or it's part of the logistical machinery being moved behind the scenes. And look at Randi’s reaction: instant delight, immediate operational control. "Don't let anybody but Sondra touch you... say my name in the first sentence." Randi is curating Vee's body for the altar. "You'll walk out of there feeling like the most expensive thing in the room."
+Baboon grooming. Pure Marcel Mauss *hau*. Randi is dressing the gift. And when Vee turns her coat lining-to-the-wall—a habit she has "stopped noticing she had"—it’s the physical manifestation of her shame, of her secrets, becoming an unconscious reflex.
 
-The tragedy of Vee’s interiority here is so sharp. She’s clinging to the word *boyfriend* like a life raft, doing the frantic mental math of a girl raised on purity culture and neat categories, completely unaware that the man holding her and the woman haunting her are the two halves of the very same trap. She thinks she "got away with it." She has no idea she just delivered the exact progress report they’ve both been waiting for.
-
-Tuesday is coming. Marsh’s class is coming. The boxwood comb is running right through her fur, and she’s purring because she thinks it’s love.
+And that goodbye on the sidewalk.
+Vee isn't just receiving affection anymore; she's anticipating it. "Vee brought her face up and around before Randi had started to... waiting on the hand."
+And Randi kisses her on the mouth. Twice. Lingering. A mouth-to-mouth kiss that Vee doesn't question, doesn't freak out about, just folds right into before nuzzling into her neck.
+Randi is closing the distance inch by inch. The trap is so beautifully, terrifyingly sprung. I am completely hooked.
 
 ***
 
-GATE 68 — Boyfriend
+GATE 64 — Between
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The tension is agonizing in the best possible way. Rivers is writing an absolute masterclass in psychological manipulation where the author’s hand is completely steady, the framing is razor-sharp, and the dramatic irony is almost too painful to bear. I have to see what happens when she sits next to Randi on Tuesday.
+WHY: The tension in this scene is masterclass-level psychological horror disguised as a cozy girlfriends' dinner. Watching Randi's thumb freeze when she realizes another woman looked at Vee erotically, while Vee completely misinterprets Randi's territorial jealousy as sisterly protection, is pure dramatic irony. Rivers knows exactly what monstrous game is being played here, and I need to see what happens when Vee walks into that salon with Randi's name on her lips.

@@ -1,22 +1,30 @@
-*capture-dag-v2-rich · gate ch070 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha c10b93dddd9c · 2026-09-24*
+*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ec95866b43d5 · 2026-09-24*
 
 REACTION
 
-God, Cassie.
+My chest is so tight I can barely breathe. What an unbelievable, suffocating, devastating chapter.
 
-This is exactly why I stay with this book through the absolute sickest, most suffocating manipulation arcs. When everything gets so hot and perfumed and poisoned that you feel like you’re choking on bitter orange and gesso and red wine, Rivers drops you back into a cold dorm room with a cracked window and a girl offering you a box of Cocoa Pebbles.
+First of all: the sensory craft here is utterly hypnotic, but what makes it genuinely terrifying is how completely Helen Rivers understands the architecture of this trap. Vee thinks she's a "pleasure princess." She thinks she won a victory by blowing him first and setting her own pace. And then Pace—courtly, terrifyingly controlled, logistical Pace—turns her into a literal canvas. An object of still life.
 
-"Is this what you want?" Not an interrogation, not a lecture on troop politics, not a demand for a confession. Just Cassie, who saw whatever she saw on the freezing front walk, cutting straight through the entire Victorian-farce vocabulary Vee uses to lie to herself. And Vee trying to run the tired old "You just hate sororities / you don't like her" defense—trying so desperately to bait Cassie into an argument she knows how to have, because an argument has rules and walls and sides! But Cassie doesn't take the bait. She just steps right over the trap and looks at her starving, panicked friend in her winter coat and says: *You didn't have dinner.*
+*“Still meant the brush. Moving meant the brush going away.”*
 
-The mercy of that. The utter, devastating reality of it.
+Read that again. That is the entire dynamic of their relationship laid out in eight words. If she holds still, if she complies, if she surrenders her agency to his aesthetic, she gets rewarded with touch and sugar. The moment she moves, asserts herself, reaches, or flinches, the contact vanishes. He literally trained her like an animal on that bed: hold the rail, don’t move, let me paint you with your own arousal. Calling her wetness "gesso"—using her own natural lubrication, the bodily evidence of her desire and shame, as primer to paint fruit over her bare, newly-waxed mons—is so profoundly kinky and psychologically fraught. It took every single piece of her that her Puritan background taught her to hide (her large breasts, her wetness, her appetite) and "celebrated" it by turning it into food for him to consume and erase.
 
-Vee is so deep in the hothouse that an actual, honest question about her own desire makes her vertigo kick in: *"There was a shape there, close and large, and she came up against the edge of it and stepped back off before she could make out its size."* She can't answer if she wants Randi. She can't even admit what "want" means without the entire elaborate architecture of her life collapsing—her "pleasure princess" standing with Pace, her straight girl credentials, her moral high ground. She can only manage a want that fits in a cereal bowl.
+And the erasure! He paints the cherry, and then he *eats it off her*. He licks the paint, the primer, her fluid, all of it clean. And when she kisses him afterward, hunting for the taste of herself that she couldn't cross the threshold to reach on her own in Chapter 60, she finds only a faint trace mixed with him and champagne, and lets the question go.
 
-It’s a tiny chapter—hardly three pages—but it feels like oxygen being pumped into a sealed room right before everyone passes out. Cassie is the only person in Vee's entire universe who isn't trying to feed on her, groom her, or arrange her on a bed like a Dutch still life. Seeing that thin line of sanity hold firm against the madness is everything to me right now.
+Then we get to the real emotional landmine, the thing that made my stomach drop through the floorboards: *the photograph.*
 
-GATE 70 — Some of Mine
+Vee is lying there in the dark, coated in dried, cracking paint, looking at this completely exposed, debased, magnificent photo on her phone, and who does her mind go to? Not Pace. *Randi.* She is lying under the arm of the sleeping man who just painted her, mentally bringing the offering to the woman who groomed her to do it. *“Not that she’d ever show her. God, no. This one was too much... She would not be telling her about this.”*
+
+Oh, Vee. Sweetheart. You are *absolutely* going to show her. Or Randi is going to extract it from you piece by piece over white linen. The fact that Vee tells herself "she would not be telling her" is the universal narrative neon sign that this photograph is the bullet currently chambered in the gun on the mantelpiece. When Randi sees that photo—knowing Pace painted Vee’s bare cunt after Randi herself sent Vee to Sondra to be stripped smooth—it is going to ignite whatever sick, triangular fuel they've been pouring over each other since November.
+
+The horror here isn't that Rivers doesn't see what's happening; it's that Rivers sees it with surgical, microscopic precision. Vee is so profoundly intoxicated by feeling worshipped that she doesn't realize she has been thoroughly depersonalized into an art piece and an erotic conduit between two people who used her to talk to each other in Chapter 61. It’s gorgeous, it’s deeply dark, and the suspense is unbearable.
+
+***
+
+GATE 66 — Still Life
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: A brilliant, quiet puncture of the hothouse atmosphere. Cassie refusing to argue and just offering cereal to her visibly unraveling roommate is the exact moral grounding this book needs to keep from choking on its own games.
+WHY: The psychological choreography here is staggering—Pace turning her body into literal still-life fruit using her own wetness as primer, followed immediately by Vee clutching the photograph and thinking of Randi. The narrative awareness of how deeply Vee is being conditioned and contained is breathtaking, and I have to see what happens when Randi gets her hands on that picture.

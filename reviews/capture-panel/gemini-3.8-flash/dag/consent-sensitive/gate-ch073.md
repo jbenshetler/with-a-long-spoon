@@ -1,24 +1,30 @@
-*capture-dag-v2-rich · gate ch073 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 535f0119d805 · 2026-09-24*
+*capture-dag-v2-rich · gate ch069 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha be90efe95687 · 2026-09-24*
 
-**REACTION**
+REACTION
 
-I feel like I just watched someone casually step onto a bear trap because the moss covering it looked particularly soft and inviting.
+God, my stomach is in absolute knots.
 
-My god. The absolute structural horror of this chapter.
+The quiet chapters really are where the instruments show, and Rivers is playing this like a cello. Chapter 69 is an absolute masterclass in the agony of an emotional trap snapping shut from the *inside*. Vee isn’t being dragged kicking and screaming into Randi’s orbit; she is frantically building the ramp herself while her conscious mind screams that she’s just tripping.
 
-First of all, the operant conditioning. It is sickening how effortlessly Pace operates the levers. Vee is terrified that she’s going to be caught in betrayal, terrified that she said *“It wasn't you,”* and Pace doesn’t yell, doesn’t pout, doesn’t demand. He just systematically withholds friction. He trades inches of his cock for confessions, exactly the way he did in Chapter 68 after the mixer. *“He drew her down a long way for that, most of the length of him... Then he stopped again, and held her, and asked nothing.”* He is literally training her like an animal: complete, agonizing sensory and emotional honesty buys penetration; evasion buys suspension in midair.
+Look at the progression here. On Saturday night, she panicked, ran to Pace, and let him milk the confession out of her like venom from a snakebite—convinced that by turning it into a "game" with her *boyfriend*, she had neutralized it. She thought having rough, possessive sex with Pace would crowd Randi out of her head. And what happened? Sunday was just an echo chamber. Monday was an open nerve. She lay in the dark with her hands pinned to her stomach like a chastity belt because she knew—she *knew*—that touching herself meant touching the memory of Randi’s mouth.
 
-And Vee—poor, completely outmatched Vee—thinks his reaction is just the simple, dumb, predictable greed of a straight guy getting turned on by two girls. *“It was, she thought, going warm all over with the ordinariness of it, a relief to be with somebody so simple about it.”* God, that line made my stomach drop through the floorboards. She has no idea. She thinks she’s managing a sweet, simple boyfriend whose dick twitched at a topless photo, completely blind to the fact that Pace has had his own mouth on the exact breast she was just masturbating to, and that he and Randi planned this entire banquet together.
+And then Tuesday hits, and the psychological mechanics are just breathlessly good. Dr. Marsh is up there talking about Mauss and the three obligations: *to give, to take, and to pay back. A gift is a debt you lay on someone whether they wanted it or not.* And what has Randi been doing since October? Giving, giving, giving. Outfits, wine, attention, intimacy, touches, "handling" her. Vee is drowning in erotic and emotional debt, and she doesn't even realize the bill has come due.
 
-And the shift in Vee’s appetite! *“I wanted to be the one doing it... I wanted her in my mouth. Her nipple. I wanted to lean down and take it in my mouth and hear the noise she'd make.”* That is monumental. In January, it was passive, it was a thing done to her, a confusing rush of submissive arousal. Now it’s hunger. It’s active, predatory, possessive desire. Randi’s little postcard—sent from an island with blue water, timed to hit like a depth charge—worked with absolute, surgical precision. Randi didn't even have to be in the state to shatter Vee's domestic peace.
+The moment on the sidewalk outside the dorm made my hair stand on end. Vee thinks she's setting a boundary by dodging the kiss on the mouth—*I'm sick, I'm protecting her, I'm holding the line*—and Randi just ruthlessly, effortlessly pivots and takes the hollow of her neck. The exact soft hollow Vee had kissed before. It's a retaliatory strike, an erotic claim, and a pure power move wrapped in flirtatious sorority laughter: *"See? How do you like it?"*
 
-The quiet ending gutted me. Vee lying there, realizing she can’t brush it off as “my sex brain” anymore, remembering January when she lied smoothly, and feeling the *choice* to withhold the full truth settle into her bones like lead. The trap isn't just springing shut; Vee is actively helping them tighten the screws, entirely convinced she’s guarding her own little secret, while both of the people manipulating her already hold all the cards. Tuesday is ten days off, and I am dreading it and panting for it in equal measure.
+And what does Vee do under the electric shock of that violation/invitation? Her brain short-circuits, the shame and the craving collide, and instead of pulling back, she *offers up Saturday.* She doubles down. She cancels dinner to escape the heat, gets branded on the neck on her own doorstep, and immediately buys another ticket for the weekend.
+
+Then she walks into the room, and there is Cassie.
+
+Thank god for Cassie. Cassie, sitting on the lower bunk with the winter cold still coming off her coat, asking the one question that cuts right through the perfume and the hothouse steam: *"What was that with you and Randi?"* Cassie *saw* them. Cassie watched that neck-kiss on the stoop. And Vee—who always has an economics metaphor, who always has a self-deprecating sorority joke, who can spin Pace's entire domestic fortress into a romantic comedy—has *nothing*. The silence at the end of the chapter is deafening.
+
+The author knows *exactly* what is happening here. The framing isn't naive; it's horrifyingly lucid. Vee is trapped between two prodigies of manipulation who are quietly dismantling her life, and her only anchor to sanity is a roommate who just watched the mask slip. I need the next chapter immediately.
 
 ***
 
-**GATE 73 — Postcard**
-**DECISION:** CONTINUE
-**CAPTURE:** 9
-**NEXT:** 10
-**ALMOST-STOPPED:** none
-**WHY:** The sheer psychological tension of watching Pace extract that confession inch by inch, while Vee remains utterly blind to his complicity with Randi, was breathtaking. Rivers understands every single micro-shift in power and manipulation happening in that dark bedroom, and the impending collision when all three of them are in the same room again is irresistible.
+GATE 69 — Coming Due
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+ALMOST-STOPPED: none
+WHY: The tension here is exquisite and terrifying. Rivers executes the psychological claustrophobia of Vee's denial with surgical precision, and ending on Cassie's cold-eyed outside perspective is the exact reality check this arc needed.

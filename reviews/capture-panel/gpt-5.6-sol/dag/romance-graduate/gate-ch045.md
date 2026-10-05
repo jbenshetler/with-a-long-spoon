@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-01*
+*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-01*
 
 REACTION
 
-Oh, *cropped*. Not only the photograph. Vee has cropped Pace for her parents, cropped herself for Cassie, cropped the relationship until only the respectable pieces fit inside “boyfriend”—and then she’s unsettled that nobody can see the whole thing. That title landed harder with every paragraph.
+Oh, the shirt got me. Absolutely got me. Not because sniffing your man’s flannel is new-romance territory—I have read that scene in fourteen fonts—but because she brings it back to be refilled. Because he misunderstands for half a second and she sees the hurt before he hides it. Because she has to confess the humiliating full size of her need, and he does not tease her, soothe her with a speech, or make her regret showing it. He just puts the ridiculous thing on over the shirt he is already wearing. That is exactly the kind of tenderness I’m here for: specific, faintly absurd, and so intimate it makes her cry.
 
-The thing about Pace sewing the dress being harder for her father to absorb than Pace taking it off her is painfully true. Sex can be filed under fathers-and-daughters discomfort; a twenty-two-year-old mathematician building a dress for her by hand refuses every available box. And I felt Vee’s protectiveness flare there. She isn’t hiding the sewing because she’s ashamed. She’s hiding it because she knows her father’s limited reading would cheapen something precious.
+And yes, the reunion worked on me. Her trying to tow him faster while he calmly dismantles her pace, her hopping out of the jeans, the bra caught from behind so she has to unwind herself out of it—hot. Playful, bodily, undignified in the best way. Nothing felt like a prefabricated “five days apart” sex scene. Her first orgasm publicly betraying the count she refused to admit was especially delicious. Her body keeps telling on her, but here it didn’t feel like somebody else was interpreting her into a desire. It was simply hers, loud and obvious and welcome.
 
-But Cassie’s question is the one I’ve wanted someone to ask: not “Do you love him?” this time, but *what is he to you?* And Vee still cannot answer. That matters. She can tell Randi exactly how Pace uses his hands, mouth, strength, bed, kitchen, camera. She can tell her parents the approved biography. But with the safest person she has, she cannot name the relationship itself. “Both” is honest, at least, but it also made me lonely for her.
+The emotional snag is still Pace’s silence. She wanted him to say he missed those nights. He didn’t. Then he briefly believed she was returning the shirt and “decided not to ask,” because apparently this man can make space for every toiletry and appetite she owns except a direct question. His gestures are beautiful; they are also doing an alarming amount of work that words should eventually share. Vee keeps reading his actions correctly until the day she won’t, and the book has already shown us how quickly a cleared counter can become rejection in her mind.
 
-And yes, I noticed that tiny ache when Cassie respected the boundary. Vee was grateful Cassie didn’t push and also wished she would. She wants someone clean to help her look at this, but she won’t hand Cassie enough of the truth to do it. Meanwhile Randi gets the uncropped nude. That contrast is enormous and not flattering to where Vee is putting her trust.
+I also noticed that strange table again. “Long, unusually proportioned” is the prose putting a fingertip on it, and after this much domestic softness I am very aware that another door is standing inside the bedroom waiting to be opened. I want it. I also want the much more dangerous door—the truth about Randi—opened first. This chapter fed me beautifully, but Pace wearing two shirts does not buy him another ten chapters of “not yet.”
 
-This was the third quiet chapter, technically, but it didn’t feel like another pause. It put a finger directly on the missing definition at the center of everything. I’m continuing because now the book has named the problem without explaining it to death: Vee has built a nearly domestic life with a man she can’t describe to her best, safest friend—and “boyfriend” comes out sounding like a question.
-
-GATE 45 — Cropped
+GATE 44 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 9
 NEXT: 8
-HEAT: 0
-ROMANCE: 2
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Cassie asked the exact grown-up question Vee has been avoiding, and Vee’s inability to answer pulled me closer rather than frustrating me. I need the next chapter to press on the relationship’s missing name—or finally bring the hidden structure into the room.
+WHY: The reunion was genuinely hot, and the flannel exchange gave me the precise grown-up tenderness I keep waiting for. I’m turning the page eagerly, but with one hand still tapping the disclosure clock: his eloquent acts cannot keep substituting for the truths he refuses to say.

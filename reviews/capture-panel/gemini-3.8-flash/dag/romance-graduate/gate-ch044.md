@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-01*
+*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-01*
 
 REACTION
 
-That flannel shirt. God, that hit me right in the center of the chest.
+Holy shit. *Holy shit.*
 
-That is the absolute agony and ecstasy of falling so hopelessly in love with someone you only get in pieces: you start hoarding their sensory ghost. The fact that she wore it every single night she forced herself to stay in the dorm, that she breathed it until the scent went flat and died, washed it, and then brought it back to him like an empty battery that needed recharging? And his reaction—first the instant, vulnerable pinch of hurt because he thought she was returning it and pulling away, and then, the second she confessed the humiliating, feral truth of it, he just *put it on immediately over the clothes he was already wearing*? He didn’t tease her. He didn’t make a joke to deflect the intimacy. He just put the armor on and said, *“All weekend. Smelling like me.”* It made my throat tight. The emotional calibration here is devastatingly good.
+This was completely clothed, zero sex, and my stomach was in absolute freefall the entire second half. When people talk about "quiet" chapters, *this* is the standard. This wasn't throat-clearing; this was an emotional landmine disguised as a college stats project.
 
-And look at the sheer, desperate frenzy of the arrival. Five nights. She gave herself five whole nights of trying to be a normal college student—reading the same paragraph three times, taking four-hour showers in dorm stalls, trying to convince herself she has an academic life—and the second her tires hit his gravel, she literally stripped him down while walking backward into the hall, toeing off boots blind, abandoning her bag on the floor. Her body completely betrayed the lie she’d been telling herself. That first orgasm breaking out of her fast and loud, publishing the exact tally of her starvation before he even really got started... God, the psychological truth of that. She’s not just sleeping with him; she is *metabolizing* him.
+The division of labor in that library room tells you everything you need to know about this trio: Cassie digging in the unglamorous dirt because her dad got discarded by the system; Vee doing the elegant math; Randi turning raw reality into something palatable and beautiful for people to look at. And then the sheer dramatic irony of Randi—so untouchable, so casually wealthy, so dismissive with her *“The country isn't my county”*—driving the cursor straight into her own family’s dirty laundry.
 
-And then rivers of subtle tension tucked right into the domestic bliss:
-*"The thong she took off herself, three steps into the room, and threw. It landed green on the long, unusually proportioned table that stood in the middle of his bedroom. She never looked to see where it went."*
-EXCUSE ME. The spanking bench! He has the spanking bench right there in the bedroom under a false tabletop, and she blindly flings her green satin underwear onto it without a second glance! The book is toying with me. It’s leaving loaded guns on every mantelpiece while he methodically makes pizza dough with water-buffalo mozzarella and reduces tomatoes for thirty minutes.
+Seeing the tag *MIRA*. Watching her click it. And then the horrifying realization: her dad named the holding company or the fraud vehicle *after her*. *Miranda.* Taking out massive federal loans in his daughter's name, laying everybody off anyway, pocketing the cash, and leaving her name permanently stamped on the crime. That two-word reaction from Randi—*"Cheating bastards"*—was chilling. Not smooth, not performed. Pure, ragged, caught-off-guard grief and fury. For the first time in this entire book, the golden sunglasses slipped off Randi’s face and we saw the wound underneath the predator. She isn't just rich and bored; she is living inside a gilded cage of corruption built with her own name.
 
-His patience continues to be the most erotic, terrifying thing in the world. When she wanted him to fight her on taking five nights away, he just gave her total, unbothered grace. That lack of friction hooks her deeper than a screaming match ever could, because the cage has no bars—it’s just open air that she willingly crawls back into.
+And God, Vee’s emotional intelligence here. The way Vee watches her, clocks the color draining from her skin, and instead of prying, instead of making a scene or letting Cassie twist the knife without knowing it, Vee just... steps into the gap. She slides the laptop over. She gives Randi busywork. She offers her dignity back to her on a silver platter without asking for a single explanation.
 
-I’m completely under this book's spell. The contrast between her messy, frantic, leaking need and his slow, artisanal, crushing devotion is unmatched.
+*“The kindest thing a friend could do was not make her carry it in front of anyone.”*
 
-GATE 44 — The New Ordinary
+Vee loves her. She really, genuinely loves Randi. And the tragedy of it is breathtaking, because while Vee is silently protecting Randi’s deepest shame in that library, Randi is still holding the secret keys to Vee's entire romantic life. The power dynamic just shifted, even if Randi doesn't know Vee saw it. The mouse just saw the lion bleed.
+
+GATE 43 — The Outlier
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 2
-ROMANCE: 3
+NEXT: 10
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The vulnerability of the flannel shirt recharge was pure romantic ache, balanced against that frantic, undignified hallway undressing and the hidden spanking bench sitting right in plain sight. I couldn't put this down if I tried.
+WHY: The tension in that glass study room was suffocating. Watching Randi's untouchable armor shatter over a public record—and watching Vee silently protect her dignity without embarrassing her in front of Cassie—was magnificent, mature character work. I am dying to see how this crack in Randi's veneer ripples outward.

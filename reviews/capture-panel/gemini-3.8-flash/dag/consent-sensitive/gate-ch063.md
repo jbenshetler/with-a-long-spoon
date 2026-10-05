@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha fc6ed94829c1 · 2026-09-24*
+*capture-dag-v2-rich · gate ch059 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 8348ecb548e4 · 2026-09-24*
 
 REACTION:
 
-Oh, god. This is the quiet chapter where all the instruments line up and give you a reading so bleak your stomach drops out.
+God, the sheer *craft* of this trap. I have to just sit here for a second and catch my breath, because the psychological architecture of what Randi is doing to Vee is both breathtaking and utterly terrifying.
 
-Look at the contrast between Chapter 61 and this. In 61, Randi and Pace are fucking—raw, calculated, almost clinical in how they pass Vee’s body back and forth between their mouths like a joint asset. Pace is inside Randi while Randi describes holding Vee’s breast and sucking Vee’s nipple, and Pace *loves* hearing it, and Randi forces him to admit he’s in love with Vee. They are two adults playing chess on a board Vee doesn’t even know exists.
+First of all, Dr. Marsh’s lecture on the grooming habits of baboons and the *hau*—the spirit of the giver that lives inside an object and demands return—is such an exquisite framing device. Marsh literally tells the room: *a baboon spends a fifth of its waking life grooming. The fleas are gone in ten minutes; the fleas were never the point. It sits with another baboon and puts its hands in the fur, and if you take it away, they sicken. Watch who grooms whom in a troop and you can draw the whole politics of it.* And then cut immediately to Randi and Vee. Randi isn’t just listening to Vee’s sex life like a fun sorority big sister; she is *grooming* her. She is budgeting that fifth of her day to run her hands through Vee’s psychic fur, picking out the shame, mapping the troop politics, establishing an intimacy so thick and woven that Vee doesn't even realize she’s being completely rewired.
 
-And then you come into 63, and Vee is waking up hungover in his oversized undershirt, drinking the ice water he left on a paper towel so it wouldn't ring the wood, eating warm homemade cinnamon raisin bread, completely drowning in tenderness.
+And look at the sheer genius of Randi’s move at the table. Vee brings this intimate, vulnerable, slightly panicked detail from her weekend—the snowballing/kissing after oral—hoping to wrap it in a tidy bow of Midwestern modesty. She serves it up as a farce, a punchline: *"Gross. Wrong. Somebody had to say it... You think it's gross too, don't you."* She is *begging* Randi to validate her shame, to give her permission to shut that door and put the Victorian modesty back on.
 
-And then he tells her the truth—or rather, the architecture of his isolation. *“Sheri’s my friend. My one friend. There isn’t anyone else.”*
+And what does Randi do? She doesn't mock her, and she doesn't push. She just drops a single, level, devastating stone into the pool: *"I don't."* And then: *"It was powerful. It turned me on."*
 
-The brilliance—and the absolute tragedy—of what the narrative is doing here is that Pace isn't lying to her to manipulate her; he is laying out the genuine, scarred-over truth of his life, and Vee’s enormous, generous, loving heart does the rest of the trap’s work for him. The book is so psychologically exact about this. He tells her, without pity, why he has no pack. College at fifteen. A boy among men who "either weren't safe or weren't welcoming." A father who made it so he couldn't go home after sixteen. Accelerating through summers on an empty campus just to have nowhere else to go. And Vee—because she is twenty-one, because she has a dorm full of friends who steal her fries and loan her skirts, because she loves him—looks at the staggering arithmetic of his loneliness, stacks it against the Daphne trauma that she still can't bring herself to name out loud, and just... wraps her whole body around him to fill the void.
+It’s diabolical. By refusing to agree that a woman tasting herself is disgusting, Randi accomplishes two massive things at once: she validates Pace’s hunger (making him seem even more like an incredible, generous lover, which keeps Vee feeling secure and expansive), while simultaneously planting her *own* erotic flag directly in Vee’s head. Now, Vee isn't just remembering Pace's wet mouth on hers; she is walking back to her dorm with Randi’s voice echoing in her ears: *It turned me on.* Randi is literally teaching Vee how to want, expanding Vee’s sexual appetite, but doing it in a way where Randi herself becomes the horizon of that appetite.
 
-*"She came around the counter... and put herself against him, both arms, all the way around, her cheek flat to his chest, the way Sheri had held him in the doorway of the taproom, with her whole weight committed."*
+And then the neck. Oh, my god, the neck. Randi claims she’s "ticklish," but Vee kisses that hollow again, and under her lips, *Randi’s whole body does a small quick thing, a catch and then a rise, and the rise went on a beat too long.* Randi is starving for her. She is playing this long, exquisite, predatory game of chess, but her own body is betraying her every time Vee innocently leans in.
 
-She is giving him everything. She thinks she is comforting a solitary, brilliant boy who was never allowed to be young. And she *is*, partly. But she has no idea that this same boy went straight from her bed to Randi's sheets, getting his cock sucked while talking about how Vee kisses him first now. She doesn't know that she isn't just his girlfriend; she is a shared obsession being managed by him and the best friend she plans to confess everything to on Tuesday.
+The book knows *exactly* what it is doing here. The consent line is being stretched on a velvet rack: Vee thinks she is confiding in her glamorous best friend; in reality, she is performing an erotic striptease of her own private life for a woman who is secretly in love with her and using every single scrap of information to dismantle her defenses. And Vee’s small, quiet, instinctive realization at the end—*"she hadn't picked Pace so much as looked up from her books one afternoon... to find him already halfway across the floor at her, the whole thing decided before she'd known there was a thing to decide"*—the subconscious is knocking on the glass! She knows, deep down, that she was selected. She just doesn't know both of them were holding the shears.
 
-The tragedy of Vee Thorne is that her instincts about people are so deep and so right—she clocks the Daphne wrongness, she clocks Pace's father wound, she genuinely appreciates Sheri—and yet every single piece of good, true empathy she possesses is being weaponized against her by her own lack of information. She is walking right into the center of the web with an open heart and two arms full of love. It broke my heart.
+I am completely hooked. The tension between the overt narrative (two college girls having wine after class) and the subterranean current (predation, grooming, hunger, and concealed love) is vibrating at an unbearable pitch.
 
-GATE 63 — Hangover
+***
+
+GATE 59 — A Clean Plate
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 9/10
+NEXT: 10/10
 ALMOST-STOPPED: none
-WHY: The narrative knows *exactly* what it is doing here. Juxtaposing the terrifying, explicit complicity of Pace and Randi in Chapter 61 with this quiet, devastating morning of domestic tenderness and Pace's childhood trauma lays bare the absolute tragedy of Vee's position: she is falling completely in love with a man whose fortress is built out of genuine, unhealed wounds she cannot possibly fix. I am on the edge of my seat waiting for Tuesday's dinner with Randi.
+WHY: The psychological interplay between Randi's calculated grooming and Vee's unwitting compliance is masterclass dark romance. The narrative framing via Dr. Marsh's lecture proved beyond a doubt that the book is fully conscious of the manipulation taking place, which makes reading it an absolute thrill rather than an ordeal. I need to see where this Tuesday/Thursday ritual leads.

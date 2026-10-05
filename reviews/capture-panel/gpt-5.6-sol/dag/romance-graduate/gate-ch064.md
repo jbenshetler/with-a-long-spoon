@@ -1,22 +1,16 @@
-*capture-dag-v2-rich · gate ch064 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~0b898fc22a01 · 2026-09-12*
+*capture-dag-v2-rich · gate ch059 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~8348ecb548e4 · 2026-09-11*
 
-REACTION
+Oh, this got me. Not because she managed to taste herself—she didn’t—but because the wanting was real and the refusal was real, and neither one canceled the other. That breath’s width between her tongue and her fingers felt more intimate than half the sex scenes I’ve read this year. She wasn’t performing bravery for Pace or following one of Randi’s scripts. She was alone, trying to discover where her own boundary actually lived, and her body could want past the point her mind could cross. That is exactly the kind of interiority I’ve been starving for.
 
-Oh, this is exactly why I’m still awake reading this book. It gave me an explicit scene I genuinely have not read two hundred times already, and the novelty wasn’t some acrobatic stunt—it came directly out of who Vee is, what she is ashamed of, and what Pace understands about her. Painting her as abundance rather than correcting or disguising her nearly undid me. “His paint only said where to look” is the whole erotic relationship at its most beautiful.
+And Randi is inside this awakening now. Not metaphorically, not only as Vee’s glamorous friend who gives her permission: Vee is wondering what Randi did, picturing Randi’s fingers or Randi’s mouth, using Randi’s answer to push at the edge of herself. She still won’t name that as desire for Randi, but come on. Pace supplied the wet kiss; Randi made it powerful. Both of them are in the bed with her while she is physically alone.
 
-And Vee! Kneeling there pleased with herself, making *him* lose control first, sipping champagne over the aftermath like she’d won a medal—I love her growing appetite for power. She isn’t just bravely submitting to Pace’s inventions. She interrupts them, smears herself onto his face, tells him to wait, asks for the photograph, and leaves her body completely open for it. The old Vee would have tried to crop herself out of her own image. This one looks at herself painted, wet, unmistakably sexual, and feels pride before shame can even get through the door. That got me almost as hard as the actual sex.
+The window absolutely undid me. She shuts it because she wants the room warm enough to open herself, then throws it up because Cassie might smell the evidence. That respectable oversized flannel buttoned over her nakedness is Vee’s whole problem in one image: everything underneath is abundant, hungry, alive, and she still believes she has to air herself out before someone safe comes home. “Her mess. Hers to lie in” hurt. She can accept Pace’s appetite more easily than her own; she can let him treat her plenty as a feast, but alone she still calls it excess and greed.
 
-The brush dipped into her own wetness was filthy in the most psychologically exact way. Of course her shame surges precisely where her body produces more. Of course Pace turns the thing she calls excessive into the necessary ground of the art. And of course the missing kiss becomes louder than all the kisses before it. I was holding my breath waiting to see whether he would put that brush to her mouth. He doesn’t push her across the threshold—but after he cleans her with his mouth, she reaches for his kiss herself. She gets the faint trace, searches for it, and then lets herself stop needing a verdict. That is not the full crossing I’m waiting for, but it is movement, and importantly it is *her* movement.
+Also: her mouth is empty, and that feels ominously unfinished rather than defeated. She failed the reach tonight, but the reach exists now. And I know exactly who is going to be sitting across from her when she finally understands what she was reaching toward.
 
-The photo detail may be the most intimate thing Pace does here. He makes this gloriously obscene image, gives the phone back, and never acts as if her image naturally belongs to him. That landed because his larger behavior is the exact opposite: he handles every visible piece of her autonomy so beautifully while withholding the reality in which she is exercising it. I can’t forget that contradiction even at peak heat. He can understand that the photograph is hers without understanding—or allowing himself to understand—that the map of her own relationship is hers too.
-
-And then that ending turned the knife. Vee deciding this is the one thing she won’t tell Randi should feel like healthy privacy, and part of it does. She is allowed to keep something. But she is lying beside the man who tells Randi things about her while imagining Randi’s hoarse reaction to the photograph and insisting she could never show her. Honey. You want Randi to see you so badly you’re trying to summon her voice in the dark. Meanwhile Randi likely knows more about what happens in this bed than Vee knows about Randi’s place in it.
-
-Also: tomorrow is Randi’s. The skirt, the mixer, “whatever Randi had decided.” After this much sexual surrender and pride with Pace, Vee is walking straight into a Randi-directed evening while actively carrying a secret erotic image she wants Randi to behold. I am already reaching for the next chapter.
-
-GATE 64 — Still Life
+GATE 59 — The Reach
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: This gave me inventive, genuinely explicit heat that changed Vee from the inside instead of merely decorating the page. Then it ended with her hiding the photograph from Randi while aching to hear Randi react to it, and I need to know what tomorrow does to that denial.
+WHY: This was quiet, solitary, explicit, and psychologically loaded—the exact combination I want. Vee’s unfinished reach toward her own appetite, with Pace in the image and Randi inside the question, has me already reaching for the next chapter.

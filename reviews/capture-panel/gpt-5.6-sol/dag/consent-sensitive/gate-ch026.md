@@ -1,22 +1,25 @@
-*capture-dag-v2-rich · gate ch026 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha d1b699df4c26 · 2026-09-14*
+*capture-dag-v2-rich · gate ch024 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~0b647a05ad40 · 2026-09-11*
 
-REACTION
+REACTION — Oh. Oh, that lying little detail.
 
-Oh, the dance metaphor is not subtle, and I mean that as praise and warning. Pace teaches Vee that pleasure comes when she stops anticipating, stops thinking, gives him a firm connection, and lets his body put hers where it needs to go. “The decision pulled from her somehow.” “It held her in the one place the next step could come from.” That is gorgeous on the dance floor. It is also the entire hidden architecture of this book. The chapter knows. Thank God, the chapter knows.
+Vee did not put on the giant shoe and do a Bigfoot walk. She brought Randi the canoe-sized shoe as a joke; Randi was the one who modeled the ridiculous platforms. The older couple watched them laughing, and Vee noticed them, but she didn’t collapse in mortification. Randi has taken a genuinely lovely afternoon and rewritten it for Pace so Vee becomes cuter, more innocent, more easily embarrassed—and then called that imagined embarrassment hot.
 
-I loved Vee being bad at something, getting irritated, laughing, then suddenly finding the physical language of it. I loved that Pace corrected her without making failure embarrassing. I even loved her jealousy at first, because of course she wants to be singular to him now, and discovering he has a whole social existence full of women would hit every bruise her mother left. But the blonde’s remarks were exquisitely calibrated to turn his decency into evidence against him: he “gets girls to do what he wants,” he gets them home safely, all the girls love him. Every true thing poisoned by arrangement and emphasis. That made my skin crawl, especially because Vee is already living inside a larger version of exactly that maneuver.
+That chills me more than a straightforward report would have. Randi isn’t merely passing along Vee’s confidences. She is curating a Vee for Pace, editing her into the shape that pleases their shared appetite. And apparently withholding things too: she tells him Vee talked about him for an hour, but not that she touched Vee’s polished foot and watched the reaction go through her body. She is reporting to Pace and running her own private track at the same time.
 
-And then Pace simply left. I respect that enormously and still don’t quite know what to do with it. He did not pursue her after she explicitly rejected his help. He did not make a scene, enlist his friends, force a conversation, or wait outside to ambush her with forgiveness. That is a real boundary honored at real emotional cost. But I am also aware that his leaving guarantees she spends the night alone converting anger into shame. Whether he intended that is almost beside the point; the result is that she wakes desperate to repair things and goes straight to Randi, the person least safe to referee any question about Pace.
+So yes, this is the confirmation I’ve been waiting for, and it’s worse and more emotionally complicated than I expected. Pace and Randi are current lovers. Randi goes straight from steering Vee into expensive shoes to Pace’s bed, tells him how Vee is progressing, explicitly says she “isn’t ready” but “will get there,” and he understands exactly what destination she means. They are discussing the pace of a seduction whose target believes these relationships arose separately and naturally.
 
-The part that frightened me most was Vee deciding she had “punished him for being the man she wanted him to be.” That conclusion is too complete. Yes, she was cruel to him. Yes, the bartender’s account matters. But the blonde was needling her, Pace has never defined their relationship, and Vee has just encountered evidence that there are dimensions of his life she knows nothing about. She owes him an apology for the venom, not retroactive surrender of every uneasy instinct she has. Those are not the same thing. Right now she cannot distinguish “I behaved badly” from “my suspicion itself was immoral,” and that is precisely how a bright woman learns to distrust her own alarm system.
+“I want her to get there on her own” made me want to bite something. Sir, she cannot get there “on her own” while the two people she is getting there *to* secretly compare notes in bed. That sentence is the whole moral fraud: they want her choices to remain technically hers while controlling the map, the lighting, and what she knows exists at the destination. The book absolutely knows this. It put the line in his mouth immediately after letting us see the machinery.
 
-Also: she could have called Cassie. Cassie would have come. Instead Vee hides beside her and chooses Randi in the morning. I wanted to reach into the room and shake her—not because she owes Cassie every detail, but because the information pipeline is now catastrophically tilted. The safest person gets silence; the woman co-managing the seduction gets the crisis.
+And yet neither of them feels emotionally counterfeit. That’s what has me trapped. Randi’s “I didn’t think I’d like her this much” is frightening because I believe her. Vee has gotten past the polished social self Randi sets down only at Pace’s door. Then Pace describes Vee as the person who makes a room brighter while believing she is too much, and Randi goes still because he has named something true—and perhaps because that light is what she wants for herself, or fears Pace loves more in Vee than in her. They aren’t predators coolly operating a toy. They are falling for her while continuing to treat her ignorance as part of the erotic structure.
 
-My 1 a.m. text would be: SHE LEARNED TO STOP THINKING AND FOLLOW HIS LEAD, THEN A WOMAN MADE HER DOUBT HIM, AND NOW SHE’S TAKING THE WHOLE MESS TO HIS SECRET LOVER. I am unwell.
+The sex between Pace and Randi was hot, but it made the conspiracy bodily real in a way the jacket hadn’t yet. Randi talks about Vee’s hidden body, displays that hunger with her own body, Pace gets hard, and then they have sex inside the desire they have just built around Vee. She is absent from the room and completely inside it. That is intimate, violating, and horribly compelling.
 
-GATE 26 — Lesson
+Also: “He didn’t take up the rest of what she’d set down; that was hers to hold.” Pace can recognize Randi’s unspoken boundary and leave it untouched. He is not incapable of subtle ethical perception. That makes his willingness to preserve Vee’s larger ignorance less forgivable, not more.
+
+I would text a friend at one in the morning: THEY ARE LITERALLY DISCUSSING HER SEDUCTION WHILE NAKED, RANDI IS LYING IN THE REPORTS, AND PACE THINKS SECRETLY MANAGING THE CONDITIONS COUNTS AS LETTING HER ARRIVE ON HER OWN. I am furious. I am riveted. I need the explosion.
+
+GATE 24 — Gone
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-ALMOST-STOPPED: “She'd done it to a good man.”
-WHY: I nearly recoiled from how totally Vee turns legitimate uncertainty into self-condemnation, but the dance language and her choice of Randi make it clear the book sees the danger. I need to know what Randi does with an ashamed Vee arriving ready to be taught how to understand Pace.
+CAPTURE: 10
+ALMOST-STOPPED: “I want her to get there on her own.”
+WHY: That hypocrisy nearly made me throw the book, but the chapter sees it with terrifying precision. The conspiracy is now explicit, emotionally real, and internally unstable—and I have to know what happens when Vee discovers that her two safest-feeling intimacies have been sharing a bed and discussing her progress.

@@ -1,19 +1,21 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~025d1b3f1ab8 · 2026-09-11*
+*capture-dag-v2-rich · gate ch039 · gpt-5.5 · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~97724b44da95 · 2026-09-11*
 
-REACTION — Oh, this hurt in that cold, plain, private way that feels almost more naked than the sex chapters.
+REACTION —
 
-The shirt finally failed her. That is the thing that got me. Up until now, Pace’s objects have been magic: the dress, the drawer, the flannel, the food, the house, the quilt. They carried him into places where he wasn’t physically there. They made absence feel chosen and warm. And here the shirt turns back into cloth. Not because she loves him less, but because she needs something no object can carry for him. She needs a named reciprocal place in his life, and the smell of sawdust and salt cannot answer.
+Oh. Oh, that was good. Quiet-good, not heat-good, but the kind that makes the whole room of the book shift a few inches.
 
-I felt so protective of her here. Not because she is silly or needy. She is not. She is doing the exact thing people do when they’ve been given intimacy without clarity: trying to derive commitment from residue. From laundry. From warmth. From how carefully he touches her. From how easily he sleeps afterward. And the awful little line is that the warmth in the shirt is hers. God. That is such a cruelly true realization. The comfort she thought was coming from him is partly her own body warming the evidence of him.
+I loved this chapter because it finally let Vee be the one who sees. Not perfectly, not with the whole conspiracy shape, but she catches something real that Randi does not mean to show her, and she protects it. That mattered to me so much. Vee has spent so long being looked at, interpreted, arranged, gently pushed into meanings other people are holding for her. Here she is in the middle again, literally between Cassie and Randi, but she is not just the soft center being pulled by two stronger women. She observes. She notices the color go out of Randi’s face. She hears the words land wrong. And then she does something emotionally intelligent and merciful: she gives Randi “somewhere to put her hands.” That is such a grown-up kindness.
 
-And Cassie sleeping underneath her makes it worse in the best way. Cassie is right there, steady, normal, available in theory, but Vee is alone because this particular loneliness is sealed around the thing she cannot say. The top bunk feels like a little ledge. She is above the one person who might actually hold reality still for her, and she still cannot reach down.
+And Randi. God. The book has been letting her be dangerous and glamorous and controlling, and now here is this sudden bare place in her. “Cheating bastards” got me because it did not feel like performance. It felt like a girl finding out something about her own father’s world, maybe her own family money, maybe the floor under her. And because she is Randi, she recovers. Of course she recovers. She puts the beam back on. But Vee saw the light go out first.
 
-Consent-wise, this chapter keeps me with the book because it knows. It knows that Vee’s yeses are real and still not enough to make this emotionally clean. It knows the ache is not solved by tenderness, sex, competence, or gifts. It is letting the lack of a word become a wound. That matters to me enormously. I am still angry at Pace’s silence, and increasingly less willing to let his carefulness at the local level excuse the larger withholding. But the book is not asking me to clap for the silence. It is making me lie awake in it with her.
+Cassie being right hurt in a very Cassie way. She doesn’t gloat because why would she? Being right just means the thing happened. Her dad lost his job. The numbers say what she already knew in her body. I love her flatness. I also felt that sharp little dread because Cassie doesn’t see that this particular outlier is Randi’s. Vee does, and now Vee is holding a secret from Cassie on Randi’s behalf. That triangulation is still there, just in a new register.
 
-Also: “there was no name in her for it, not the big one and not the small one” is exactly the trap. She cannot say love, cannot comfortably say boyfriend, and cannot text her way into either. She is bare because the shirt is gone, yes, but also because all the beautiful structures have stopped covering the central uncertainty. I’m captured. Miserable, but captured.
+The stats metaphor is doing exactly what I want it to do without waving a flag in my face. Outliers, what gets excluded if you can “account for” it, the one point off by itself that explains too much. Randi has been an outlier socially and erotically in Vee’s life, and now her family is the outlier in the data, and Vee herself is becoming someone who can read the point and the person at once. That’s deliciously ominous.
 
-GATE 44 — Bare
+This chapter did not soothe my consent worries, but it did soothe my author-trust worries. The book knows about hidden information. It knows about framing. It knows what it means to sit between two versions of the truth and have both be emotionally real. Randi can be manipulative and wounded. Cassie can be right and incomplete. Vee can be kind and still be further bound into secrecy. That complexity is exactly why I’m still here.
+
+GATE 39 — The Outlier
 DECISION: CONTINUE
 CAPTURE: 8
 ALMOST-STOPPED: none
-WHY: This chapter made the emotional cost finally go cold instead of erotic, and I needed that. Vee’s distress is being treated as real information, not an obstacle to more heat, so I still trust the author even while I do not trust the situation.
+WHY: This pulled me hard because Vee finally saw something Randi did not hand her, and her response was tender without being stupid. The hidden-plan dread is still alive, but this chapter made me trust the book more, because it understands that data, intimacy, money, shame, and secrets all change depending on who gets to frame them.

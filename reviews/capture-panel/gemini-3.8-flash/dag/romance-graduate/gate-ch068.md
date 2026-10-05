@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch068 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b11de8d9a5ce · 2026-09-19*
+*capture-dag-v2-rich · gate ch064 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha e993ed0e88f5 · 2026-09-19*
 
-REACTION:
+REACTION
 
-Holy *shit*.
+Oh, Vee. *Oh, honey.*
 
-I have chills. The absolute psychological tightrope this chapter just walked had me holding my breath so hard my ribs ached. When Vee drove out to Pace's house at one in the morning, practically vibrationally possessed, using sex as a blunt instrument to literally grind Randi out of her head... and then Pace catching it instantly. *"That wasn't you wound up... That was angry, Vee. Did something happen at the mixer?"* The sheer, lethal emotional intelligence of this man.
+The absolute agonizing tragic irony of her sitting across from Randi, fully convinced she is reading the room, when she is actually blind, deaf, and illiterate to what is happening right in front of her face. When she told Randi about Sheri looking at her, and Randi's thumb stopped on her knuckles—that icy, dead little drop where Randi goes, *"And you liked it"*—my stomach fell through the floor. Vee panic-lies (*"No. Not my thing"*) because she is still so terrified of her own expanding skin, and then, in the most painful misread in the history of romance, she thinks Randi went quiet because she’s *worried about Pace.* She genuinely thinks Randi is guarding her relationship! The naivety is breathtaking.
 
-And then—GOD. The interrogation. The tollbooth! The way he realized what she was holding back and made her *buy her pleasure back inch by inch with the truth.* That is the hottest, most psychologically deviant, utterly brilliant dynamic I have read in months. He didn't yell. He didn't pout. He just held her an inch off his cock, letting her burn in the shame and the wetness of what she did, forcing her to voice every single detail: the skirt, the hips, Randi’s hands pinning her wrists, the tongue, the taste of salt and lime. And knowing what WE know—that Pace and Randi are fucking, that they talked about Vee's neck kisses, that Randi literally told him *“I want her to know exactly what she does to me”* while riding him—watching Pace draw out Vee's confession felt like watching someone slowly assemble a bomb in a brightly lit room.
+And Randi. Knowing what we know from chapter 61—the sheer, ferocious, possessive depravity between Randi and Pace, the way they use each other's bodies to worship and consume Vee in absentia—watching Randi here is like watching someone play with a live grenade while smiling over white wine. Randi didn't freeze because she was worried about Sheri taking Pace; Randi froze because *another woman looked at Vee's body.* Another woman appreciated the bare legs and the keyhole top and the induction shoes that Randi paid for. And then Vee claims she didn't like it, closing the door in Randi's face without even knowing she's doing it.
 
-And Vee! Oh, baby girl. The tragic, dizzying blindness of her. When she turned it on him: *"You want Randi."* My jaw hit the floor. The irony! The dramatic irony is so thick you could choke on it! And when Pace flinched—*"You keep saying her name, Vee. Not me"*—she took his defense as *sweetness*. She thought she won, thought she laid down the burden and got away clean with a boyfriend who loves and forgives her.
+And then the waxing. The transition from the tension of Sheri to Pace asking for her to be completely bare, and Randi instantly taking over the logistics like a high-end madam prepping a debutante: *"You'll walk out of there feeling like the most expensive thing in the room."* Randi sending her to *her* aesthetician, choreographing Vee's body down to the skin for Peter—while Peter is eating Randi alive on white sheets and Randi is fantasizing about Vee's breasts. It’s so layered, so sick, so unbelievably erotic and psychologically claustrophobic.
 
-And then the ending. The absolute emotional devastation of lying tucked in your lover's bed, safe, sated, protected by a man who gives you everything, and staring into the dark realizing your brain is already sprinting toward Tuesday night, toward an anthropology lecture, toward Randi's mouth. *"What is wrong with me."* It’s so painful, so voracious, so human. I need Tuesday night immediately. Do not make me wait.
+That kiss on the sidewalk. That wasn't a friendly goodbye peck anymore. Fingers at the hinge of the jaw, drawing back *just a breath*, and going in a second time to linger. And Vee tilting her head up, *waiting for it*, mouth pressed into the bitter orange of Randi's neck.
 
-GATE 68 — Boyfriend
+They are tightening the net around her, and she is happily skipping straight into the center of it with Sondra's address inked on the back of her hand. God, I need Friday to get here.
+
+GATE 64 — Between
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9/10
+NEXT: 10/10
 ALMOST-STOPPED: none
-WHY: The interrogation on the bed—making her pay for every inch of him with confessions about Randi while he holds the secret of his own involvement—was an absolute masterclass in erotic and psychological tension. The dramatic irony is suffocating in the best way possible.
+WHY: The dramatic irony is agonizingly good—knowing the depravity Pace and Randi shared two chapters ago makes every quiet touch and micro-expression at this dinner hit like an emotional gut-punch. Vee is walking straight into their hands, completely bare.

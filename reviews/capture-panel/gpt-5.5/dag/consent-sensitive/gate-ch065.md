@@ -1,30 +1,22 @@
-*capture-dag-v2-rich · gate ch065 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~fa13475bf6b9 · 2026-09-12*
+*capture-dag-v2-rich · gate ch060 · gpt-5.5 · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~f697ae9ef8f2 · 2026-09-12*
 
-REACTION —
+REACTION — Oh. Oh, that changes the air in the room.
 
-Oh. Oh no. This is exactly the chapter I was waiting for and exactly the version of it that makes my stomach do the bad-hot twist.
+I knew, obviously, that Randi and Pace had their own private axis. The jacket told me. The book has told me. But being inside it like this, with Vee absent and absolutely present, is different from knowing. This is the machinery with the casing off.
 
-Because yes, on the surface: finally. Vee wants Randi. Not as a theory, not as a brunch-confession undertow, not as some bathroom flicker she can launder through Pace. She wants her with her mouth open and her whole body answering, and the chapter lets that be gorgeous. The first half has that delicious charge of girls getting ready together, the borrowed skirt, Randi in the aqua, Vee being seen and styled and chosen. I felt Vee’s little glow so hard when she says she’s Randi’s plus-one. She’s not tagging along; she’s wanted there. That matters to her in the exact soft underfed place where all of this book keeps getting its hands.
+And honestly? It worked on me, which annoys me and impresses me in equal measure. The scene is filthy and intimate and very, very them: Randi making the thing Vee couldn’t yet do look not just possible but delicious; Pace being almost unbearably controlled until the exact sentence that breaks him is not about sex, really, but about Vee knowing what she does. That got me. It got me because their desire for Vee is not casual. It’s not “third person as spice.” She is the charged center of the room even when she is not there.
 
-But god, Randi.
+But I am also sitting bolt upright now, because this chapter makes the deception feel newly physical. They are using Vee’s awakenings as erotic material with each other before she knows the frame. Randi tells Pace “she kissed my neck again,” and he asks where she wanted to touch Vee, and then that fantasy is carried through Randi’s body. Hot, yes. Also: there is Vee, innocently walking home in the cold, thinking she has two separate beloved intimacies, while the two people who know better are literally building a shared erotic language out of her almost-knowing.
 
-This is the chapter where my distrust of her stopped being a background hum and put both feet on the table. The skirt is the warning light. Cassie sees it immediately: it won’t stay put. And Vee knows, kind of. But it’s Randi’s skirt, Randi’s certainty, Randi’s permission, so Vee uses that borrowed glamour to step over her own discomfort. That’s not automatically sinister — friends lend clothes, friends hype each other up — but with Randi it’s never just one thing. She knows what the skirt will do. She knows what Vee’s body does in a room. She knows Vee is susceptible to being told “this is who you are tonight.”
+The book knows. Thank God, the book knows. I don’t feel like I’m being asked to clap blindly. That “She doesn’t have to” / “She’s not the only one in love” stretch is not tidy or cute. It’s tender and damning. Randi gives Pace no rescue, and the chapter gives me none either. The love is real. The betrayal is real. That is exactly the flavor I came for, and exactly the flavor that makes my stomach hurt.
 
-And then on the dance floor, the chapter gets terrifyingly good at the difference between permission and being carried past yourself. Randi moves Vee’s hips bigger, takes her hands, lifts her arms so she can’t manage the hem, lets the room see more than Vee meant to show, and only tells her afterward. That little “Your panties are showing” made my blood go cold, because it’s playful on the face of it and absolutely not innocent underneath. Randi created the conditions, watched it happen, then delivered the knowledge as intimacy. That is such a precise manipulation pattern I could feel my reader-self sitting up straight.
+Also, Randi tasting them both from Pace and then bringing it back to his mouth after Vee’s whole chapter of the unfinished reach? That is wicked structural cruelty. Vee is alone in Pace’s flannel, unable to close one breath of distance; Randi crosses that distance like she owns the country. I can feel the book setting Vee’s shame beside Randi’s ease and saying: look what Vee wants, look who already knows how to want it, look who is waiting with the door open and a lie under the mat.
 
-And then she catches Vee’s panic and turns it. Not “are you okay,” not “do you want to get off the floor,” not even “sorry, I should’ve told you.” She gives Vee a rescue that is also another escalation: let’s make him wish he were me. It’s brilliant and awful. She turns shame into performance, then performance into cover, then cover into a kiss she herself very much wants. And Vee wants it too. That’s the knife. Vee wants it so much. The kiss is not deadened or coerced inside Vee’s body; it’s alive, mutual, shattering. I believed every second of Vee forgetting the room. I believed the want breaking loose. I wanted it for her.
+I’m not stopping. But I am no longer luxuriating without my hand on the rail. This is the chapter where “the plan” stops being backstory and becomes active, ongoing consent weather. Every yes Vee gives from here on is glowing, but the room around the yes is getting more and more rigged.
 
-And then Randi takes it away from her.
-
-“You really did a great job putting on a show. I almost believed it.” That line is vicious. Maybe Randi needs the plausible deniability too, maybe she scared herself, maybe she is shoving the door closed because if she names it, the whole architecture collapses. I can hold that. But what it does to Vee is still cruel. Vee has just had one of the clearest moments of desire in her life, and Randi folds it back into a joke for a boy. She gives Vee the only script available and Vee has to take it, because asking for the truth would require more courage than anyone has left her room for.
-
-Cassie’s eyebrow is my anchor here. Thank god the book gave me that eyebrow. It knows. The chapter knows. The author absolutely knows that this is not just sexy college-girl experimentation at a party. This is Randi managing the story while Vee’s body is still standing there telling the truth.
-
-I’m still in. I’m very in. But my warmth toward Randi has shifted. I still want her; I still believe she loves Vee; I still believe the kiss knocked her sideways too. But she is not merely dangerous now in the elegant long-game sense. She hurt Vee in the immediate room and called it play.
-
-GATE 65 — On Her Floor
+GATE 60 — My Pleasure
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-ALMOST-STOPPED: “You really did a great job putting on a show. I almost believed it.”
-WHY: This chapter had me by the throat: Vee’s wanting finally becomes undeniable, and it is hot and sad and humiliating and real. I nearly recoiled at Randi’s post-kiss cover story, but the book clearly understands how cruel and self-protective that move is, so I’m not leaving — I’m leaning forward, furious and hooked.
+NEXT: 9
+ALMOST-STOPPED: “She’s not the only one in love.”
+WHY: That line pulled the whole hidden structure tight: love, desire, and betrayal all occupying the same bed. I’m deeply hooked because the book clearly understands the danger of what Randi and Pace are doing, but I need the reckoning to keep growing in proportion to the intimacy they’re taking from Vee without her full knowledge.

@@ -1,24 +1,29 @@
-*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-01*
 
 REACTION:
 
-Oh, god. This hurt. This one got right under my ribs and twisted.
+Oh, god. My stomach just completely dropped out.
 
-Because she is so entirely, painfully human here. She picks a fight because she's terrified. She throws an ugly, petty, unfair tantrum—demanding Chili's, of all the absurd, defensive things—just to see if he'll push back, just to test the walls of the cage. And what does he do? He doesn't yell. He doesn't get defensive. He just quietly, patiently meets her where she says she wants to be, even when the sensory overload of that fluorescent, screeching restaurant clearly tortures him. When he explained *why* he hated it—*"In a room like that I listen as hard as I know how and I still can't hear you"*—my heart physically cracked for him. He isn't hiding her out of shame! He’s a man who lives in his head, who needs silence and focus, who wants to hear her without fighting three televisions and bad pop music.
+That was agonizing. Absolutely agonizing. You know that exact, sickening physical sensation when you step out onto what you thought was solid ice, you put your whole weight down, and you hear the hair-thin *crack* right beneath your boots? That is this entire chapter.
 
-And yet... Vee’s terror isn't unjustified. She’s spiraling because of what happened in Chapter 46. She laid her whole bleeding heart on the line with that crackers-and-a-meal speech, and he parried it with *"I love how good we are together."* He deflected. He gave her warmth and physical devotion and held back the one word she was begging for. So of course she's lashing out! Of course she feels like a dirty secret kept behind closed doors, because when you are twenty-one and in love, if a man won't say it and won't take you out where people can see you, the only conclusion your brain can reach is: *I am just a warm body in his bed.*
+*“I had been eating crackers my whole life,” she said. “And you fed me a meal. I didn't know what a meal was until you fed me one. And now I know.”*
+She gave him her heart on a plate. She built an entire poetic, vulnerable architecture just to hand him *I love you* without breaking her internal rule, without scaring him off, trusting him to meet her. And what did he say?
 
-The nachos scene was brilliant and tragic. The sudden realization that the cheap, comforting things she used to settle for don't work anymore—that he's ruined her for the ordinary world, but hasn't given her a secure place in his.
+*“I love how good we are together.”*
+*“What you do — what your body does — I've never. I'm glad you feel it too.”*
 
-And the sex. God, the sex was electric because the emotional stakes were so raw. She wanted him to lose that iron control, wanted the proof that she could break him, and when he finally snapped—coming into her with that desperate, unhurried patience finally shattered—it was intoxicating. But the comedown in the dark afterward made me want to cry. She’s lying there soaked in his sweat, filled with him, held by him, and she has never felt more completely alone. He will give her his body, his house, his cooking, his hands, his absolute physical worship... but he will not give her a name. He won't say *I love you*, and he won't let her know where she stands. She traded all her collateral away—her heart, her body, her secrets, her boundaries—and she is left holding empty air. I need to know what happens next so badly it's making my teeth ache.
+Look at where his mind went. Look at the words he picked. *What your body does.* She was talking about her soul, about being starved as a human being and finally nourished, and his brain immediately filed it under *physical compatibility and sexual performance*. He deflected the emotional weight of a lifetime of starvation into: *Yeah, we have incredible sex, I love how good our bodies fit.* And the worst, most gut-wrenching part of it all is that he wasn't trying to be cruel! He was being *tender*. He held her, kissed her hair, pulled her into his warmth, wrapped her in the quilt, refreshed her coffee. It was *warmly received*—and that title punch (*Seconds* / *A Warm Reception*) is sickening now. A warm reception isn't love. It's polite, comfortable hospitality.
 
-***
+And Vee felt it. Her body registered the blow long before her brain would admit the truth. That scene in the laundry room with the clothes thumping in the dryer broke me: *“The place was not empty. There were other things in it already — small flickers, moments across the fall when what she knew about him had had to do small repair work to keep functioning.”*
+That single line gave me chills. The uncropped picture. The wall around his past. The silence. The fact that she was chosen. She’s keeping a running tab of tiny compromises, tucking away the discrepancies because the warmth is too addictive to forfeit.
 
-GATE 47 — Under the Rug
+He didn't give the sentence back. She will never say it again. The absolute heartbreak of watching a woman close a door inside herself because the man she worships couldn't—or deliberately wouldn't—meet her there. I am in agony and I need the next chapter immediately.
+
+GATE 46 — Seconds
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 3
-ROMANCE: 2
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The emotional ache of her needing him to say the words while he gives her literally everything else is devastating and so true to life; I'm completely hooked on their friction.
+WHY: The psychological precision of that missed connection was devastating. Watching her give him her heart and have him reduce it to "what your body does," all wrapped in tender domestic warmth, was breathtaking and terrifying.

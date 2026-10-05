@@ -1,17 +1,21 @@
-*capture-dag-v2-rich · gate ch033 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~d4837de434ed · 2026-09-11*
+*capture-dag-v2-rich · gate ch030 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~5274d9c5fd04 · 2026-09-11*
 
-REACTION — Oh, this got me. Vee built the entire scene herself: brought the dress, invented the game, put Pace in the chair, stopped him when he rose, and chose both revelations. After so much watching Randi and Pace construct experiences around her, I needed the fierce pleasure of seeing Vee construct one around him—and seeing him obey the terms she set. His hand starting toward her and then being put away was almost unbearably hot. He wanted; she had not invited touch; he stayed seated. That distinction is the whole book for me right now.
+REACTION — Oh, Randi, you terrifyingly beautiful liar.
 
-And I love that the induction remains hers. Pace gets the reenactment, but not the secret heat of the original walk. The room saw what she elected to show it; the photograph did not tell him everything; now she gives him a different performance because she wants his gaze specifically. The dress may have been made to her by Pace, and the shoes chosen through Randi’s manipulation, but what she does with them here is unmistakably authored by Vee. She has taken objects loaded with other people’s intentions and made a private theater out of them.
+“So. Did you deserve it?” made every alarm in me go off. She took a spontaneous, playful swat—something Vee’s body unexpectedly loved—and quietly rewrote it as punishment Vee had earned. Then she got Vee to agree before Vee understood the proposition. That is not innocent kink talk. That is Randi installing a frame.
 
-The naked walk down the hall absolutely worked on me because the exposure is not sprung on her, extracted from her, or inferred from her body. She knows she is blushing, knows exactly what she is offering, and opens the door anyway. “He hadn’t left the chair. She’d put him there, and he’d stayed put” is the sentence. That is the power arrangement I can relax into: she commands the frame, and his restraint makes it safe enough for her to be gloriously vulnerable inside it.
+And then the wet hand. Yes, Vee mentioned the dishes, so Randi could infer it—but the speed and precision are still unnerving. She knows exactly which sensory detail will put Vee back inside her body. She asks for “his” swat, strips away Vee’s minimizing language, watches the physical response arrive, and only then supplies the fantasy Vee cannot yet name for herself. The story about the slight apologetic man may be true, but I don’t trust it for one second. It is too perfectly engineered: punishment, humiliation, counting, involuntary arousal, then the crucial word—*welcome*. Randi is giving Vee an erotic vocabulary and smuggling a permission structure inside it.
 
-“The other is for the world. This is just for me” gave me both the swoon and the tiny warning prickle. In this moment it feels earned, because she has explicitly made this second costume for him alone. But exclusivity is precisely the story Vee thinks she is living while Pace is secretly sleeping with Randi. So his answer is gorgeous at the local level and poisoned at the aggregate. This book knows that, which is why I’m still very much here.
+And, God, it worked. The practice room is such an intimate little trap: soundproof, clandestine by reputation, face-to-face, with nowhere for Vee’s body to disappear. Vee getting wet from Randi’s voice alone is hot as hell, and it matters that this is specifically Randi doing it—not merely a story about spanking, but Randi watching her receive every detail. Vee is attracted to her. Thoroughly. Her conscious mind can keep filing those kisses under “what we do,” but her body has stopped pretending.
 
-Also: Randi’s shoes completing both costumes while Randi remains absent from Vee’s conscious account is doing wicked things beneath the scene. Vee is staging herself for Pace in the posture and heels another woman taught her to inhabit. She thinks this is a private circuit between two people. It is not. I am turned on, tender, and furious all at once—which is apparently exactly where this book wants me.
+What saved this for me—what keeps me trusting the book even while I absolutely do not trust Randi—is Vee stopping her own hand. Her arousal is real; her refusal to convert it automatically into consent is equally real. “To do that would be to say yes to it, and she would not say yes to it” is the distinction I have been begging this story to preserve. Bodies can reveal appetite without granting anyone ownership of it. Vee may not have the word yet, but some part of her knows the difference.
 
-GATE 33 — Made-Up
+Then Randi has her bag packed, her phone out, and her innocence restored before Vee returns. Of course she does. She leaves Vee alone with the heat and makes the whole encounter deniable. That warm “All better?” nearly made me hiss aloud. She knows. I think she knows every single thing she did, including exactly when to stop.
+
+And Vee reaches after her during the kiss without meaning to. Baby, that is not lack of sleep. You are gone on both of them, and one of them is patiently teaching you to misunderstand how you got there.
+
+GATE 30 — The Practice Room
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 ALMOST-STOPPED: none
-WHY: Vee’s authorship of the scene and Pace’s visible restraint made this intensely hot without erasing the larger deception. The secret underneath “just for me” is tightening like a wire, and I need to see when it snaps.
+WHY: This is exactly the dangerous line I’m here for: Vee’s desire is blazing and authentic, while Randi’s manipulation is becoming unmistakably deliberate. The book sees the difference, and so does Vee’s body in the one way that matters—she wants, but she still withholds the yes.

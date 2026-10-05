@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch073 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 535f0119d805 · 2026-09-19*
+*capture-dag-v2-rich · gate ch069 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha be90efe95687 · 2026-09-19*
 
 REACTION:
 
-Holy. Shit.
+Oh, god. My stomach is in absolute knots.
 
-My stomach was in absolute knots the entire time I was reading this. When Pace kissed the first hand and Vee thought she got away with it, my heart actually dropped into my feet because I knew—I *knew*—he was going to ask for the other one. And then: *"Now let me kiss your other fingers. So they don't feel left out."* I gasped out loud in an empty room. The absolute, breathtaking calculation and devastating intimacy of that man. He knew the second he woke up. He probably knew before he opened his eyes.
+The psychological tension in this chapter was so thick I could barely breathe through it. That is *exactly* how panic and desire work when you’re terrified of your own appetite: you try to swim laps to drown it, you get stuck inside your own sweater in the closet unable to figure out if you're dressing to be seen or dressing to hide, you count the seconds during a lecture while your skin is practically humming off your bones. Every single touch—the graze of Randi’s fingers over her pulse point for a damn wintergreen Lifesaver—felt like an electric shock.
 
-And then Vee saying out loud, *"But it wasn't you."* To his face! In his bed! While straddling him! The sheer, agonizing courage of her pulling out that phone and turning the screen toward him because she couldn't bear the thought of him imagining another man, only to step right into the jaws of the real trap.
+And then that word: *Having.* Randi just drops it so casually—*"Having you at the dance was so great. I've wanted to do that for the longest time"*—and Vee is totally pinned by it. Because Randi *does* want to have her. And Vee *wants* to be had. She’s trying so desperately to cling to the safety of Pace, but she couldn't even use him on Sunday to put the fire out. She’s waking up with her nipples aching against her nightshirt, holding her hand flat on her stomach like a lid on a boiling pot, terrified of what she’ll do if she touches herself. The shame is right there, side by side with this massive, beautiful, terrifying hunger.
 
-And the trap was so, so hot, but it was also chilling. When he made her trade the truth for inches of his cock—again—and forced her to admit what she wanted... it wasn't just wanting to be touched by Randi anymore. It wasn't passive. It was: *"I wanted her in my mouth. Her nipple. I wanted to lean down and take it in my mouth and hear the noise she'd make. I wanted to be the one doing it."*
+And Randi kissing the side of her neck! *“See? How do you like it?”* She knows. Randi completely knows what she’s doing, turning Vee's own innocent little affectionate gesture back on her like a live wire. And what does Vee do when her body is ringing and she's panicking? She immediately bargains for *more.* *"Brunch. Let's have brunch this weekend."* It's an addiction. She can't help reaching toward the stove even while she's blowing on the burn.
 
-Do you know what that did to me?! That is the EXACT phrasing Randi used when she was riding Pace in Chapter 61. *"Her nipple in my mouth."* Randi said that to Pace on white sheets weeks ago, and now here is Vee, weeping into Pace's neck, confessing the mirror image of the exact same fantasy. And Pace just *drives into her* the second she says it. He got what he wanted. The two women he is obsessed with are vibrating at the exact same frequency, hungering for the exact same thing, and he is the pivot point holding all the strings.
-
-The dominance here is so quiet, so patient, so utterly attentive. He isn't cruel; he doesn't get mad, he doesn't shame her, he holds her through the climax and pets her back while she tries to scramble for a lie and lets the lie fail on its own. It's the kind of control that leaves room for her truth, which is what I crave... but the fact that he is keeping the monster secret that he's already sleeping with Randi makes it feel like walking a tightrope over an active volcano.
-
-And that ending. Vee lying on his chest, remembering January when she lied and said there was nothing else about Randi, realizing she is actively choosing to keep a piece of this back now, staring at that blinking cursor on Randi's text with ten days until Tuesday. The psychological tension is suffocating in the best way possible. I need the next chapter immediately.
+And then—thank God for Cassie. Cassie sitting on that lower bunk with the cold still coming off her coat, seeing straight through the wreckage on Vee's face, and asking the only question that matters: *"What was that with you and Randi?"* No cover stories left. No doll-sized shrunken sweaters. Just the naked truth of a best friend who loves her and is watching the train leave the tracks. I need chapter 70 immediately.
 
 ***
 
-GATE 73 — Postcard
+GATE 69 — Coming Due
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The tension in that dark bedroom was almost unbearable, blending psychological interrogation, intense sexual heat, and tragic dramatic irony into absolute perfection.
+WHY: The psychological claustrophobia was suffocatingly real—Vee trying to hold a lid on her own desire while Randi methodically dismantles her defenses. And Cassie dropping that direct question at the very end is the exact grounded intervention this whole runaway train desperately needs.

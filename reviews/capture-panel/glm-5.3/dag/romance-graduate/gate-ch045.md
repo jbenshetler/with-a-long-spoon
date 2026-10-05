@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch045 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-01*
+*capture-dag-v2-rich · gate ch044 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-01*
 
-REACTION:
+REACTION — God, the flannel. I thought the drawer was the moment this book had saved up for me and then she hands him back a washed shirt because it stopped smelling like him and asks him to *wear it for her all weekend and give it back Sunday full of him*, and I had to put the Kindle down. That's the most naked thing she's said all book and she said it about laundry. "It stopped smelling like you" — she's been sleeping in a dead shirt five nights a week and she told him. And his face going puzzlement → hurt → that smile "that seemed to cost him something" — he thought she was returning it, he decided not to ask, he's SO good at not asking things and the book knows that's both his beauty and his problem and it said it right out this time.
 
-The title got me before the chapter did. "Cropped." After forty-four chapters of me tracking every crop and every uncropped frame — the induction photo, the "That part was hers," the full version handed to Randi — the book hands it back and says: her parents got the waist-up version, and Vee is the one doing the cropping now. She's learned to manage her own image. I don't know whether to be proud of her or scared for her, and the chapter won't tell me, which is why I love it.
+Also: the five nights were HER call. She needed school nights and he said of course and didn't fight, and the book named the thing I've been circling for forty chapters — "some unreasonable corner of her had wanted him to fight." That's the most psychologically true sentence about wanting I've read in months. He never asks her for anything out loud; he just builds a drawer and waits. She's starving for one sentence of wanting and he gives her everything except the sentence. I felt that in my chest.
 
-Dad pricing the dress. Mom touching her own collarbone instead of saying anything. That's the truest parent-writing I've read in a hundred of these books — nothing said, everything transmitted. And then Vee's read on it: "Sex he understands. The sewing he never would." I actually put the book down. Because she's RIGHT, and the fact that she's right means Pace stays illegible to everyone outside the house — a man who can't be translated into any father's vocabulary. She's protecting him with the crop the same way the crop protects her. She's become a person who curates reality for each audience — waist-up for Mom, uncropped for Pace, all of it for Randi. Do you see what I see? Everybody gets a different Vee, and the only person who gets to see all of her at once is the one behind the door. That's either intimacy or fragmentation and the book keeps refusing to sort it for me.
+The hallway undressing was hot and funny and hers — her towing him by two fistfuls of shirt while he "just came slowly," the jeans defeated, the thong thrown at the table that is DEFINITELY going to matter later (a "long, unusually proportioned table in the middle of his bedroom"?? I see you, Helen Rivers, that's Chekhov's spanking bench and I'm side-eyeing it hard). "Shamefully fast... her body having just published the number she'd gone to such trouble to keep private" — the book keeps doing this thing where her body files a report her mouth never authorized and it never stops landing.
 
-Cassie. "Is it that you can't say, or that you don't want to?" — "Both." That's the maybe-question from the pool, surfacing again, this time with a witness sitting across the tray. Cassie didn't push, and Vee was "also, a little, not" grateful for that. That little not is the whole spring in six words — some part of her WANTS to be made to say it, and nobody in her life will make her, because Pace never asks for anything and Randi only asks about the parts that entertain her. Cassie is the only one who asks the real question and then has the manners to stop at the answer.
+The pizza chapter inside the sex chapter — him not performing the cooking, "he'd have made the pizza exactly like this for an empty house," her not minding which of them got the larger share of his attention — that's the interiority I'm here for. And the flavor inventory walking down the tongue... I wanted dinner. I wanted a man. I wanted both.
 
-Two quiet-ish chapters in a row counting 44's back-half of tenderness, but this one is doing load-bearing work — the boyfriend question mark, "can't say or won't say," the father's suspicion being the outside world's first real cross-examination of Pace. My pulse is up even though nothing happened but dinner in an athletic cafeteria. That's craft.
+I'm noticing the heat pattern came back exactly on schedule, the MIRA grenade from last chapter hasn't gone off yet — that's two live wires (Randi's secret, the third game) being held while the book feeds me the warm middle. It's earning it. But the timer's running and I know it knows.
 
-GATE 45 — Cropped
+GATE 44 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 9
 NEXT: 8
-HEAT: 0
-ROMANCE: 2
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: No heat at all and I don't care — the cropping motif came home, the "can't say or won't say" pushed the love-question right up against the surface, and Cassie is tightening like wire. I'm waiting for the word Vee keeps not saying, and this chapter moved her closer to it than anything since the pool.
+WHY: The flannel scene is the tenderest beat of the whole series so far and it's built on real psychology, not sentiment — her wanting him to fight, the shirt as a battery for the nights he doesn't get. Heat and tenderness firing on the same page, which is the whole reason I'm still reading this book. Docking NEXT slightly only because I now NEED either the MIRA fallout or the Randi escalation next; another pure-warm chapter and I'll start feeling the book stalling its own bombs.

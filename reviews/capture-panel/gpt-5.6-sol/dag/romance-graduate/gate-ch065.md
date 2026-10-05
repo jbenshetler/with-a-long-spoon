@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch065 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~fda4df0f276c · 2026-09-11*
+*capture-dag-v2-rich · gate ch060 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~f697ae9ef8f2 · 2026-09-11*
 
-REACTION — Oh, there it is. Finally. Vee’s body has been trying to tell her this for half the book, and the second Randi actually kisses her, every little “friendly” touch and neck kiss and dressed-for-her dinner comes due at once. That suspended inch before their mouths met nearly killed me. And Vee realizing she has been privately cataloguing Randi’s perfume for months? Yes. That is the interiority I’ve been starving for—the body keeping an honest record while the mind files everything under friendship.
+REACTION — Oh. Oh, this is the room Vee has been locked out of, and I am incandescent.
 
-The kiss was scorching because it was unmistakably specific. Not generic two-girls-at-a-party titillation, not curiosity, not a performance once they were inside it. Vee wanted *Randi*: her smell, her particular taste, her hand in Vee’s hair, her mouth elsewhere. She pressed into her and asked with her hips. She forgot Harrison existed. That want is hers, however engineered the opportunity was, and I’m relieved the book let it become enormous rather than coy.
+It’s extremely hot. I can’t pretend otherwise. Randi taking her own taste from Pace’s mouth without hesitation, making it “mutual,” turning the whole thing into play instead of shame—after Vee got within a breath of tasting herself and couldn’t—hit exactly where the book meant it to. And the two of them talking about wanting Vee while they’re having sex is viciously effective. Randi imagining Vee’s breast in her hand and mouth, Pace losing control when she says she wants Vee to know what she does to her: yes, fine, I was completely gone.
 
-And then Randi broke my heart and made me furious. “I almost believed it” is vicious—not because she means to wound Vee, but because she needs deniability so badly that she immediately abandons Vee inside the experience they just shared. She felt that kiss. She came back blinking and breathless. She knows Vee stopped performing. But instead of risking one honest question, she folds the whole thing into a joke and gives Vee nowhere to put her shaking hands. It is exactly Randi’s pathology: control the reveal, name the meaning first, make the truth impossible to use against her. I understand why she does it, and I wanted to shake her.
+But God, the emotional obscenity of it. Vee is alone in a dorm bed trying to cross one inch toward her own appetite, using Randi’s confidence as permission, while Randi is living that permission with Pace and discussing Vee as their shared beloved. They know she loves him. They know she wants Randi. They exchange pieces of her that she has told each of them separately, then turn those pieces into intimacy with each other. Vee thinks she just introduced them.
 
-Also: the Love bracelet that requires tools to remove? Absolutely not an incidental fashion note. That thing is practically handcuffed to her, and after all the book’s attention to gifts carrying their givers, I am now staring directly at Pace. If he gave it to her, Vee has been admiring evidence of their relationship while Randi wears it openly and explains it in technical truths. I feel sick in the best way.
+“She’s not the only one in love” is enormous. Randi finally says it where it costs her almost nothing—to the one person who already knows and wants the same woman. Pace cannot tell her she’s wrong, which means I’m now looking at love across all three sides of the triangle, while only Vee is denied the shape. That is unbearable. They aren’t merely hiding an arrangement anymore; they are actively building a shared emotional life out of her disclosures while she thinks she has two separate safe relationships.
 
-Cassie’s raised eyebrow deserves its own candlelit shrine. She saw “Tonight I’m Randi’s date,” saw the skirt, and chose not to force Vee into an interpretation before Vee could reach it herself. Meanwhile Randi got Vee tipsy, physically took her hands away from the climbing hem, turned exposure into excitement, and then used Harrison as an excuse to take what she already wanted. Vee’s desire is real. So is the manipulation surrounding the moment. The book is making me hold both without letting either cancel the other, which is precisely why I’m still here.
+Also: the “mess,” the cleanup, the kiss carrying both of them—this is the exact appetite Vee is circling without knowing whose footprints are already all over the path. Randi told her it turned her on because she knows firsthand what Pace tastes like mixed with herself. That mild little restaurant verdict has become almost cruel in retrospect.
 
-What I’d text at one in the morning: THEY FINALLY KISSED, IT WAS FILTHY, RANDI IMMEDIATELY CALLED IT A JOKE, AND I AM CLIMBING THE WALLS.
+I would text a friend: THEY ARE IN BED TALKING ABOUT HER AND SHE THINKS THEY JUST MET YESTERDAY. Then I’d keep reading with my jaw clenched, because this is both the hottest and most damning confirmation the book could have given me.
 
-GATE 65 — On Her Floor
+GATE 60 — My Pleasure
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The kiss paid off months of wanting and then made the emotional problem worse in a single sentence. Vee finally knows she wants Randi again, Randi has denied her any honest way to ask, and that Love bracelet may be the secret sitting visibly on her wrist.
+WHY: The concealed triangle is finally physically and emotionally real on the page, and it is scorching, intimate, and appalling in exactly the combination I came for. I need to know how long they have been doing this—and how Vee survives learning that both people she loves have been sharing her behind her back.

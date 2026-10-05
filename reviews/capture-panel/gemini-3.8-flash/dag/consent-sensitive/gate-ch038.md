@@ -1,25 +1,26 @@
-*capture-dag-v2-rich · gate ch038 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 38dcf8e44cd8 · 2026-09-24*
+*capture-dag-v2-rich · gate ch035 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha efddca81bfc1 · 2026-09-24*
 
 REACTION
 
-I feel sick. That quiet, curdling, hollow nausea where you watch someone sign over their life with a bright, adoring smile on their face.
+Oh, this is sick. This is so quiet and domestic and profoundly, gorgeously sickening.
 
-*"Only if you promise you'll never share me with anyone."*
-*"Never. I'd never share your photograph."*
+She loves him. She looked at him sleeping, counted all the ways he feeds her and touches her and comes back to her, and named it love in her chest. And then—the masterstroke of the whole chapter, the thing that makes the hair on my arms stand up—the bathroom drawer.
 
-He doesn't have to share it! He and Randi are sleeping in the same bed, debriefing Vee like an assigned project, probably passing his phone back and forth over morning coffee while Sade plays in the background! And the sinister brilliance of the framing—Vee *offers* it. She suggests it! She taps her tooth, she cleans her face to look like an arranged calendar girl, and then he *literally physically poses her limbs*, kissing each joint into place like he’s arranging a mannequin, adjusting the lampshade, angling the camera. He constructs the artifact of her, hands her phone back, and lets her have the illusion of the brave, empowering choice of hitting "send." *Every yes was freely given.* That jacket copy is ringing like a funeral bell.
+Any reader reading this naively is melting right now. *He gave her the top drawer! The easy one! He crammed all his own things into the bottom one so she wouldn't feel like a burden!* It is textbook, high-grade romance catnip. It’s the kind of gesture women screenshot and post with crying emojis. And because Rivers has let us see behind the curtain—because we were in bed with him and Randi while they dissected Vee like an exotic specimen, because we know this man was trained by a statutory predator to build velvet cages—it reads like watching someone happily settle down inside an iron maiden because the velvet lining smells like dill and Greek wine.
 
-And then she thinks: *"He's all mine."* Oh, Vee. Oh, honey, no.
+Look at what’s actually happening to her: *“She’d been losing weight since she met him, her body quietly burning down whole weekends of him, and she’d never asked it to.”* Her clothes are falling off her. She is literally diminishing, physically shrinking into the contours he and Randi are carving out for her, and she thinks it’s just the healthy byproduct of a great appetite. She’s swimming in her own life.
 
-The domesticity is what terrifies me most right now. The chicken piccata, the lemon zest, the wine reduction, the way he feeds her off a wooden spoon and watches her face. It is so achingly tender. It feels like real love, tastes like real love, smells like real love, and Vee is starving for it. She is letting herself believe that being managed, fed, photographed, and physically orchestrated is the definition of being cherished. The detail about his parents—*"I don't go back"*—was a sudden, stark glimpse of the iron rebar inside the velvet. The little prodigy who was handed to a nineteen-year-old at fifteen and severed from his family, now building his own little sealed terrarium where he controls the heat, the food, the clothes, the pictures, and the women.
+And the total absence of words! *“He never said. There was no note. There was never a note.”* He never has to speak, because silence lets her do all the work of projecting her own salvation onto him. If he tells her "I cleared a drawer for you," it’s an ordinary domestic negotiation. By doing it silently, by taking her chaotic mess and curating it into neat, lined-drawer perfection, he becomes something omnipotent and paternal and terrifyingly safe. He doesn't punish her for making a mess; he subsumes her mess into his architecture. He makes her feel *treasured* precisely as he encloses her.
 
-And Sheri coming for Thanksgiving! Sheri, who told him outright that having two women at once was complicated. Vee feels a momentary twitch of jealousy, and Pace smooths it away with that devastating, flat benevolence: *"She's alone."* He gathers up the strays, feeds them, and makes himself indispensable.
+And where is Randi? Nowhere in the chapter, yet Randi’s mouth from Chapter 34—that stolen glaze on Vee’s lip—is still practically hovering in the air. Vee is running back and forth between the woman who fingers her mind in daylight bistros and the man who folds his life down to give her the top drawer.
 
-The trap is so beautiful. That's what makes it horrific. There are no bruises, no raised voices, no sneering villains. Just melted butter, silk sauce, a warm bed, and a digital photograph sitting in the camera roll of a boy who is already dissecting her soul with his other partner. I want to pull the fire alarm.
+The book isn't flinching. Rivers knows exactly what that top drawer is. It’s not a promise of marriage; it’s an intake procedure.
 
-GATE 38 — In His Hands
+***
+
+GATE 35 — Above Him
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: The tension is agonizing because the manipulation is entirely velvet-wrapped—watching her willingly hand over a nude photograph while thinking "he's all mine" when we know Randi is on the other side of that phone is absolute psychological horror.
+WHY: The absolute psychological precision of that bathroom drawer gave me chills. It’s written with such devastating warmth that you understand entirely why Vee falls into it, even while the trap audibly clicks shut around her ankles.

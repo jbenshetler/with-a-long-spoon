@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch018 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 8611b8522702 · 2026-09-24*
+*capture-dag-v2-rich · gate ch016 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 6b85b74f7cb8 · 2026-09-24*
 
-REACTION
+REACTION:
 
-God. *God.*
+Oh, god. This hurt.
 
-I need a minute. That chapter made my heart hammer and made me sick to my stomach, and I mean that in the exact, terrible way the book intended. It was breathtakingly hot, exquisitely tender, and chilling down to my marrow.
+The contrast between Vee debriefing with Randi over smoothies versus Vee debriefing with Cassie in their dorm room is night and day, and it breaks my heart. With Randi, it’s an interrogation disguised as gossip—Randi fishing for data, feeding the machine, managing the perimeter. But here with Cassie, it’s just real, luminous female friendship. Cassie having her blood type ready, Cassie cracking up about the bra, Cassie throwing pillows, Cassie gently clocking the weirdness (*"He’s had you standing in his living room in your underwear, and he picked up a tape measure"*). It’s so warm, so normal, and so completely tragic because Cassie is slowly buying into it.
 
-"Every yes was freely given. That was the problem." That line from the jacket has never landed harder than it did right here. Because look at her. Look at Vee. She drives the entire encounter. She initiates the kiss. She pulls the apron strap. She asks to see the bedroom. She strips his shirt off. She is so completely, entirely convinced that she is the actor here—that she is claiming her appetite, that she is boldly toppling his monastic control, that she is taking what she's been starving for. And every single millimeter of that runway was paved, heated, and lit for her by two people who have been calculating her exact psychological pressure points since chapter one.
+That’s the horror of what Pace is doing. He is so impeccably, terrifyingly *good* at this. Turning up the heat hours in advance so she wouldn't freeze while he stripped her. Leaving her the "door" so she feels like she's walking through it on her own two feet. Even Cassie—pragmatic, sharp, protective Cassie, who literally had Vee's blood type ready—goes soft when Vee explains the heat: *"Oh, Vee."* Pace is managing to disarm Vee’s only real security system without ever being in the room with her.
 
-Pace didn't even have to push. He just set out the minced garlic, the measured pepper flakes, the breathing Chianti, and stood there in his canvas apron waiting for her to do the work. He knows her so well it's terrifying. He knows the "floozie" voice in her head; he knows that her shame and her arousal run on the exact same wire; he knows that the quickest way to own a woman who has been starved and policed her whole life is to greet her excessive, leaking, desperate want not with disgust, but with *gratitude*.
+And look at what Vee tells her, and what she *doesn't* tell her. She tells Cassie about the bra, she jokes about grinding on him, she laughs about being on the box. But she doesn't mention the soaked satin. She doesn't mention the sheer panic of having her arousal exposed, or the way she stood there waiting for the blow of disgust. She keeps the darkest, most vulnerable shame-core locked away, translating it into a triumph: *"I was grinding on him."* She genuinely believes she’s the one driving the heat, that she's pushing *his* limits, when he has engineered every single millimeter of that room, from the height of the riser to the temperature of the air.
 
-When he looked up at her from her knees and asked, *"Would you be bothered if I was too hard?"* my skin turned to absolute gooseflesh. It sounds like consideration. It wears the clothes of consent. But it's an ambush—it mirrors her own arousal back to her as something mutual, something invited, an absolute permission structure that completely dismantles whatever defenses she had left. And then he tastes her, and he holds her up, and he watches her face the whole time she breaks. He doesn't take his eyes off her. He consumes her completely while making her feel like *she* is the one consuming *him*.
+*"Like I was supposed to be there."* That line made my stomach drop. That is the exact psychological mechanism of a master manipulator: making an extreme, non-normative power dynamic feel like absolute homecoming.
 
-And then the ending. Jesus, the ending.
+The prose knows what it's doing here. It lets Cassie be a good friend, it lets Vee feel the high of being desired, and it lets the reader sit in the absolute agony of knowing that every single "green flag" Cassie is hearing was pre-calculated in a math PhD's workshop. The bench is still in that house. The closed bedroom door is still there. And Randi is waiting in the wings.
 
-She walks back into the kitchen, lets the sheet drop completely, naked under the bright kitchen light, folds her soaked green satin panties with the spot centered, and hands them to him: *"Trade."*
-
-Trading for the flannel shirt. She thinks she's making a cheeky, intimate, mutually erotic exchange. She thinks she's playing the game. She doesn't know she just handed a trophy to the man who hunted her on the quad. And the book *knows*. That single line—*Something in his shoulders was private and she let it be private*—is the chill of the blade sliding right between her ribs while she's smiling. The author knows *exactly* what Pace is feeling in that private stillness. He has her. The trap didn't just snap shut; the prey walked in, locked the door, and handed him the key wrapped in silk.
-
-I'm terrified for her. I'm dreading the moment Randi re-enters this. I'm dreading the moment Vee finds out. But the sheer psychological mercilessness of this writing is staggering. It didn't flinch, it didn't cheat, and it didn't let Pace off the hook for a second.
-
-GATE 18 — Famished
+GATE 16 — Turned Up
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 8/10
+NEXT: 9/10
 ALMOST-STOPPED: none
-WHY: The absolute pinnacle of what this book promised: an exquisitely written, intensely erotic consummation that feels entirely triumphant to the heroine while being, for the reader, an agonizing masterclass in engineered surrender. The sheer psychological horror wrapped inside that tenderness is unbelievable.
+WHY: Watching Cassie—the only person who truly loves Vee for who she is—slowly get charmed by proxy into letting Vee's guard down is brilliant, suffocating dramatic irony. The trap is closing, and it's being padded with silk.

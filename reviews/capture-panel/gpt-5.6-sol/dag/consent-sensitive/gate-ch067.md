@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch067 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~b11de8d9a5ce · 2026-09-12*
+*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ~78023057031c · 2026-09-12*
 
-REACTION — Oh, Vee. The fact that she keeps reaching for Pace not because she wants *him* in those moments, but because she wants him to extinguish what she feels for Randi, is awful in the most painfully recognizable way. She can have as much sex as her body can hold and still come away unfilled, because this is no longer displaced arousal. She knows where the wanting goes now. She just refuses to let herself finish the sentence.
+REACTION
 
-And then she does something genuinely difficult and important: she turns her mouth away. She takes the miss on purpose. That is a boundary. It may be disguised as illness because she cannot yet name the real reason, but it is still a deliberate no to the kiss she desperately wants. I felt fiercely protective of that tiny turn of her head.
+Oh, Vee. This made me ache for both of them, and then made me furious about why aching for Pace is so dangerous for her.
 
-Randi’s response made my stomach drop. Vee closes one door, and Randi—who knows perfectly well what Vee’s neck does to her, because they have discussed those kisses and because Randi has reported them to Pace—immediately enters through another. “How do you like it?” is not innocent teasing. It is retaliation disguised as reciprocity, and it converts Vee’s attempt to create distance into fresh erotic pressure. Of course Vee blurts out brunch while her whole body is ringing. Randi has engineered another yes out of the aftermath of a touch Vee was actively trying to avoid. The book absolutely knows what just happened; “some reflex” and “not sorry at all” leave no comforting interpretation available.
+His loneliness feels real. Not decorative wounded-man loneliness, not a tragic backstory dropped to make him irresistible: an actual structural loneliness, built out of being too young everywhere, unsafe at home, and then permanently out of step with the people who might otherwise have become his peers. “The window opens once” hurt. So did those ordinary friendship questions with gaps underneath them. I understand why Sheri loves him. I understand why Vee crosses the kitchen instead of offering him some useless consoling sentence. That hug—her whole weight committed, consciously echoing Sheri—felt deeply loving and entirely hers.
 
-The lecture on gifts as debts was almost unbearable underneath all this. Vee has been given friendship, glamour, inclusion, clothes, language, permission—and now every gift is coming due. She cannot refuse dinner without owing Randi an explanation. She cannot refuse the walk home because care becomes the reason Randi gets more access. She cannot refuse the kiss honestly because honesty would expose the desire she is trying to control. Every generous thing Randi has built around her has made the clean no harder to say.
+And the book absolutely has its instruments on.
 
-And Cassie. Finally. Thank God. Not merely noticing that Vee dresses for Randi or joking about “Randi’s date,” but seeing something happen between them and asking the plain question with worry in her voice. I am already lunging into the next chapter because Vee has reached the point where the easy story will not assemble itself. She cannot answer because she genuinely does not understand how much of this was chosen, how much was invited, and how much Randi arranged around the choices.
+Because Pace tells her Sheri is his one friend while Randi exists. It is presumably technically true in whatever private taxonomy he uses: Randi is lover, conspirator, perhaps beloved, but not “friend.” Vee cannot know that. She hears an empty space in his life and immediately begins filling it with devotion. Worse, she decides Sheri is the only woman the world has ever let him keep because Sheri “could never want him,” while Pace’s actual female lover is sitting just outside the disclosed map. That sentence nearly made me shout. Vee is building a compassionate explanation from deliberately incomplete evidence, and Pace lets her.
 
-I’m still completely in the book’s hands, but I am furious with Randi. Love does not make this gentler. Knowing Vee wants her does not give her the right to route around a boundary. That turned-away mouth mattered.
+I don’t think he manufactured this disclosure to manipulate her. I think everything he said was painfully sincere, which is almost worse. He can give her a true, vulnerable piece of himself and still control the frame so completely that her tenderness carries her farther into the lie. She does enormous emotional labor here: reconstructing his childhood, college years, isolation, Daphne, and heartbreak, then protecting him from pity by refusing to name what was done to him. She is so careful with his dignity. Meanwhile he is still denying her the dignity of understanding her own relationship.
 
-GATE 67 — Coming Due
+Her refusal to name Daphne’s abuse also frightened me. The chapter knows exactly what she is refusing to see—“the ugly grown-up word” is right there under her tongue—so I still trust the book. But Vee’s instinct is to honor Pace’s account by suppressing her own moral perception. That same instinct is already helping her turn unanswered questions into answers and deception into tenderness. She keeps believing love means seeing events as the beloved needs them seen. That can become a terrible trap.
+
+The domestic care got me anyway: the water placed exactly where she would reach, the shirt, the forehead kiss after he thought she was asleep, bread baked while she recovered. I believe his care. I believe his pain. I believe her love. None of that makes the missing Randi-shaped fact smaller. This chapter made Pace more human and the concealment more obscene at the same time, which is precisely why I’m still here.
+
+GATE 62 — Hangover
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-ALMOST-STOPPED: “See? How do you like it?”
-WHY: Randi deliberately answered Vee’s disguised refusal by touching the one place she knew would overwhelm her, and I hated it—but the book unmistakably understands why it is alarming. Cassie has finally asked the question Vee cannot evade even inside herself, and I need the answer now.
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: The quietness made the hidden structure scream: Pace offered genuine vulnerability while Vee unknowingly reasoned around the absent fact of Randi. I’m aching for him, terrified for her, and desperate for the disclosure before her compassion becomes another tool keeping her inside the lie.

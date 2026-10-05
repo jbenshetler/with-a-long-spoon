@@ -1,34 +1,34 @@
-*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha ad99119c213f · 2026-09-24*
+*capture-dag-v2-rich · gate ch057 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha b9d0068c9a3c · 2026-09-24*
 
-REACTION
+REACTION:
 
-*Holy fucking shit.*
+Oh, the air is getting so thin in here I can barely draw a breath. This chapter is a masterclass in psychological pressure, and it genuinely made my stomach turn over in the best, most terrifying way.
 
-I need a minute. I need to set my phone face down on the table, walk to the window, and breathe in cold air just like Cassie’s room, because my chest is completely caved in.
+First: the anthropology class. Dr. Marsh dropping Marcel Mauss on them right out of the gate is brilliant, venomous foreshadowing. *A gift carries what they call hau — the spirit of the one who gave it. And the hau wants to go home. The thing you were given is inhabited, and it pulls back toward its giver, and that pull is why a gift can never really be free.* Look at everything Vee is carrying, wearing, inhabiting right now. She’s wearing the heels Randi gave her. She’s wrapped in the coat she opened for Pace. She’s holding the memory of the cashmere blanket Pace set at the foot of his bed. She’s wearing a wrap blouse to impress Randi, who is wearing the green-and-gold scarf she used to bind Vee to her in October. Every single gift in this novel is a hook with invisible line attached, reeling her back to the source. Vee sits there leaning forward, fascinated, completely blind to the fact that she is an economy of debt and possession between two people who engineered her appetite.
 
-I knew there was a conspiracy. The jacket told me; Pace’s terrifying *"You"* told me; Randi’s predatory little debriefs told me. But seeing the actual mechanics of it—watching Pace and Randi *fucking each other* while talking about Vee like she’s a feast they’re basting together—is sickening, brilliant, and completely devastating.
+And then the dinner. The sheer, predatory finesse of Miranda.
 
-Look at what Rivers just did with the framing. In chapter 60, Vee is alone in the dorm dark, paralyzed by shame, unable to cross the one-breath width of air to put her own wet fingers into her mouth. She wipes herself on the sheets like a dirty secret. And then chapter 61 opens, and what does Randi do after Pace goes down on her? *"She catches him behind the neck... her mouth opened under his. No hesitation. Her tongue met his, tasting herself from him... Her thumb wiped the wet from the corner of his mouth. She put it between her lips."* It’s an exact, brutal mirror. Randi moves with absolute, shameless erotic sovereignty through the exact threshold that broke Vee an hour earlier.
+Randi's story about the lawn boy and the robin's-egg blue underwear was a surgical strike. It laid bare the patrician rot of her mother—the clinical, humiliating cruelty of laundering the underwear, waiting for Sunday dinner, and setting them beside her plate: *"They're not mine. They're your color."* That is generational pathology at its finest. It explains so much of Randi’s desperate need to manage, to control, to never be caught without her armor. But look at what she did immediately after: she used that vulnerability to pry open Vee’s entire weekend.
 
-And then the dialogue. Jesus Christ, the dialogue.
-*"I miss her during the day. More at night."*
-*"She kisses me first now."*
-*"She kissed my neck again."*
-They are literally using each other’s bodies as a proxy for Vee. When Randi holds her own breast, describes Vee’s softness, and offers her nipple to Pace saying *"And her nipple in my mouth"*—and Pace takes it—they aren't cheating on Vee in the traditional sense; they are *consuming* her together in effigy. It is so deeply kinky, so psychologically fucked, and so utterly transparent about what it is.
+Vee literally showed her the stain on the satin lining of the coat. She gave her the drive, the heels, the porch, the apron, the mushrooms, the chair. Randi sat there feeding on it like a vampire, fueling her own private obsession while playing the supportive best friend. And Vee—God, Vee—getting so worked up from narrating it, from Randi’s dark, liquid eyes and that relentless, suggestive prodding (*"Could he see you were ready?"*), that she had to excuse herself to the bathroom stall to come.
 
-And then the emotional blade drops.
-*"You know she loves you, right?"*
-*"She hasn’t said it."*
-*"She doesn’t have to."*
-And Randi looks at Pace’s face softening, looks at the Prodigy of Logistics who wouldn’t give Vee a scrap of emotional validation on the porch, and cuts right through his armor: *"She's not the only one in love."* Pace couldn't tell her she was wrong. Pace loves Vee. Randi is in love with Vee. And Vee is sitting in a cold dorm room thinking she’s a "pleasure princess" pulling the strings of an awkward math boy and having cozy girl-talk with her sorority mentor.
+And who did she see when she went over the edge? *Randi’s face.*
 
-Vee has no idea she’s the sun these two terrifying planets are orbiting. She thinks she’s managing them; she’s actually the sacrament they’re taking together behind closed doors.
+The absolute psychological gymnastics Vee has to perform right after: *"Because that had been about Pace, obviously. All of it. About Pace."* Sweet girl. You are drowning in the current, and you’re still telling yourself you’re just swimming laps.
 
-The prose knows *everything*. The author isn't asking me to think this is a sweet polyamorous misunderstanding. This is dark, predatory, profoundly intimate engineering, and the fact that genuine love has infected both handlers makes it a powder keg. If this blew up before, it would have been bad. When it blows up now—knowing they are both in love with her, fucking each other while invoking her name like an incantation—it’s going to level the entire campus.
+Then the gut-drop when she walked back up the stairs: *"Things were really heated. It's a good thing you got relief."* My heart stopped. For one second, I thought the trapdoor had opened. But Randi is too slick; she threw the velvet blanket right back over the cage: *"After driving out to see Pace. He took care of you, but good."* She gave Vee the exit ramp, and Vee grabbed it with both hands.
 
-GATE 61 — My Pleasure
+And that ending. That tiny, exquisite crack:
+Randi pointing to her neck where Vee cried over Christmas. Vee, acting on pure, unconscious affection, leaning in and kissing the spot. And Randi *flinching*.
+Randi can orchestrate stealth-grooming campaigns, she can buy cashmere and pay for expensive wine, she can mentally undress Vee across a table, but the moment Vee gives her genuine, unscripted tenderness—a soft, voluntary kiss on the neck—Randi’s system short-circuits. She laughs it off as a tickle, but that flinch was real. It terrified her.
+
+And Vee walking back in the cold, carrying that "little unweighable stone of relief" that she didn't have to tell Randi about the post-oral kiss. That instinct—that quiet, protective reservation deep down in her gut—is the only part of Vee that isn't entirely colonized yet. She thinks she’ll tell her Thursday. But the fact that she held back *one* thing, that one weird, intimate boundary with Pace, proves the containment isn't total.
+
+Tomorrow is the dinner. Pace, Randi, Cassie, Kayla, Meg. The whole apparatus colliding in one room. I need that next chapter right now.
+
+GATE 57 — Covering
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The curtain was completely ripped back, revealing the exact, chilling machinery connecting Pace and Randi, and it’s ten times more emotionally tangled than I anticipated. The narrative awareness is knife-sharp, the mirroring of Vee's shame against Randi's ease is devastating, and I am entirely hooked.
+WHY: The tension is suffocating in the most thrilling way. Between the lecture on inhabited gifts pulling their receivers toward the giver, Vee coming in a bathroom stall to the memory of Randi’s face while swearing it was about Pace, and Randi physically flinching when Vee kissed her neck, this book is operating at peak psychological precision. I cannot wait for tomorrow night's group dinner.

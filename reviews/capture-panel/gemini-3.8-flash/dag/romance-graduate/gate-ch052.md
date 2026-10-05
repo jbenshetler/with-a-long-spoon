@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch052 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c1f15218cc12 · 2026-10-01*
+*capture-dag-v2-rich · gate ch051 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · 2026-10-01*
 
-REACTION:
+REACTION
 
-I needed this scene like oxygen. After watching Vee freeze in her childhood bedroom, spiraling in the dark and imagining Pace at the stove whipping up gourmet meals for some nameless, leggy fantasy replacement, getting inside his actual, unglamorous reality was pure catharsis.
+God, this ache. Anyone who has ever outgrown their childhood bedroom knows this exact, suffocating flavor of grief. Going home from college after your body and your mind have crossed a point of no return, trying to fold long limbs back into a twin mattress under childhood sports trophies, surrounded by parents who love a ghost—it is so quietly brutal.
 
-He isn't lounging in silk or effortlessly moving on; he’s sitting in a greasy double-wide diner off a country road, eating a cheeseburger across from a scrappy, foul-mouthed lesbian who sees straight through his polished intellectual armor and calls him out on his absolute nonsense. Sheri is the best thing that could have happened to this book right now. Watching her pop his balloon—laughing directly in his face when he started waxing poetic about the "philosophy" of his cooking—was deeply satisfying.
+The contrast between this chapter and the last one in Switzerland is stunning. Randi is in Gstaad feeling utterly hollow, looking at Vee’s text like it’s the only real, clean fire in the world, while Vee is lying awake in the dark projecting a dazzling, carefree movie onto Randi’s life. Neither of them sees the truth of the other. Vee thinks Randi is thriving in luxury; Randi is dying inside. Vee thinks Pace has already replaced her with an effortless blonde at the stove; Pace is probably sitting in that dark house suffocating on his own pride.
 
-Pace builds these elaborate, pristine walls of competence and care, convinced that doing everything right on paper exempts him from ever having to bleed. He truly thought laying out a tidy list of his domestic virtues and saying she’s the most important thing in his life was enough. And Sheri cuts right to the bone with surgical precision: if you won't say the words, then your stubborn, self-protective silence matters more to you than keeping her.
+What broke my heart the most was the memory turning against her. When she tries to comfort herself by remembering their first night—the fra diavolo, the falling sheet, the warmth—and her own anxiety literally replaces her in the fantasy with another woman. That is the exact horror of being kept secret. When a man refuses to claim you in daylight, the second you step out of his sanctuary, you don't just lose the future; you lose the right to your own memories. You realize you have no standing, no ground beneath your feet, and the room goes cold.
 
-He knows it, too. You can feel the quiet terror in him when he admits he can't say it. He misses her, he’s miserable, and his own emotional cowardice is a prison he built with his own two hands. He couldn't handle Chili's because the noise drowned out her voice, but here in the quiet of an empty diner, the only thing deafening him is his own refusal to bend. The contrast between Vee's terrified fantasies of him moving on and his actual, lonely reality of nursing a glass of tea while someone tells him to get over himself is devastating.
+She held her ground, but the cost is devastating. And the only sure thing she has on the calendar is a classroom seat next to Randi, completely unaware of the bomb waiting under that table.
 
-GATE 52 — The Usual
+***
+
+GATE 51 — Old Acquaintances
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
-HEAT: 1
+HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The outside perspective of a blunt friend stripping away Pace's intellectual rationalizations was desperately needed, providing essential emotional movement after the walkout.
-
-Would you like to discuss the next chapter?
+WHY: The depiction of outgrowing your girlhood home while mourning an unnamed relationship was so psychologically precise it hurt to read. Seeing Vee and Randi misread each other across text messages while Pace's silence hangs over everything makes me desperate to see them back on campus.

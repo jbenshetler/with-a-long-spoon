@@ -1,21 +1,23 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~025d1b3f1ab8 · 2026-09-11*
+*capture-dag-v2-rich · gate ch039 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~97724b44da95 · 2026-09-11*
 
 REACTION
 
-Oh, Vee. The shirt failing her absolutely gutted me. That ritual had been one of the sweetest things in the book—she asks him to put himself back into it, he wears it all weekend, she carries his scent home—and now she discovers that a preserved trace of someone is not the same as having them. Worse: its warmth is hers. She is supplying the comfort herself and mistaking it for his presence. That is such a lonely realization I almost couldn’t bear it.
+Oh, Vee. She sees Randi’s face change by half a degree, understands immediately that something private and terrible has happened, and—without demanding a confession, without forcing her to perform pain—quietly gives her useful work until she can put herself back together. That is such exquisitely decent care. It is exactly the kind of room Vee herself is almost never given. And she does it instinctively.
 
-And this is not Vee manufacturing trouble because she is needy or insufficiently grateful. She has correctly perceived an absence. She offered Pace the most vulnerable declaration she could manage, and he answered beside it. She asked what they are, and he solved the logistical version of the problem by taking her out. He can answer every need that can be translated into an action—cook, listen, make room, touch, hold, obey—but when she needs him to define his own heart and place her knowingly inside it, he disappears behind tenderness. Of course every possible text feels doomed to come back “small and warm.” Small and warm is exactly how he keeps meeting the surface of questions whose depths would require him to tell the truth.
+Which makes me want to shake Randi until her teeth rattle.
 
-That empty message field frightened me because it shows how thoroughly she has learned the limits of what she can ask. Pace has never forbidden the question. He has made himself so reliably kind that Vee already knows any indirect question will receive a lovely, technically adequate answer that leaves the central fact untouched. She cannot force clarity without exposing herself completely, and she now believes the rule is that love must go through him first. That is power, even if he never consciously imposed the rule.
+Vee protects her from one moment of unwanted exposure while Randi has spent months arranging Vee’s exposures, collecting her confidences, drawing out sexual details, and passing curated versions of her to Pace. Vee notices that Randi doesn’t know she has been looked at, and treats that ignorance as something sacred. Randi knows Vee doesn’t know she is being watched and managed, and treats that ignorance as part of the mechanism. The asymmetry is brutal.
 
-Taking off her own shirt so his can touch her bare skin felt painfully intimate; taking his off and refusing to put it back on felt like the first tiny bodily refusal of the whole arrangement. Not a rejection of him. Not even anger she can name. Just her body finally declining a substitute that no longer works. I wanted to climb into that freezing bunk and hold her, and I also wanted her to stay bare long enough to understand what the cold is telling her: she is already alone inside something she experiences as belonging.
+And now I understand Cassie’s stake in the project differently too. Her flatness is not lack of feeling; it is how she carries feeling without making other people hold it for her. Her father lost his job while families like Randi’s took money meant to prevent exactly that. Cassie is correct, and Vee’s kindness to Randi requires leaving Cassie unknowingly beside the daughter of the people whose fraud embodies the harm done to her family. Vee doesn’t know enough to solve that moral collision. Once again, she has been placed in the middle with only part of the map.
 
-I’m furious with Pace because I believe he loves her. If he did not, this would be simpler. But he is letting her lie awake starving for a word while he possesses the information that would explain why he keeps choosing formulations like “I love how good we are together.” He cannot name her cleanly without naming Randi and the plan. His silence is no longer merely emotional reserve; it is structural maintenance.
+The outlier metaphor is making me deeply uneasy in the best way. Vee believes Randi is innocent because she had “no hand in it,” and on this evidence she may be. But that is also the charitable interpretation Vee keeps giving people she loves: the individual act can be set aside and accounted for; the person can be separated from the pattern. Meanwhile the pattern is sitting right there, enormous and visible if you know where to look. This book absolutely knows what it is doing.
 
-The image I’m carrying is the shirt in a heap beside her. That feels like the first beloved object in this relationship to lose its magic. Something has cracked, however quietly. Please, book, let her trust the crack.
+Also: Randi saying “Cheating bastards” genuinely shook me. That did not feel like a polished deflection. It felt like discovery, betrayal, and possibly the first crack in whatever story she tells herself about her family and the authority that comes with their money. I’m furious with her, but I felt for her. Worse, I suspect Vee’s silent protection will matter to her profoundly if she ever learns about it—and Vee may never use that goodness as leverage, because that isn’t how Vee loves.
 
-GATE 44 — Bare
+I’m completely caught. The sexual conspiracy is still the loaded gun, but now the book has placed a financial and class betrayal underneath the friendship too, and made Vee’s compassion the thing that keeps the truth hidden. That hurts beautifully.
+
+GATE 39 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 ALMOST-STOPPED: none
-WHY: This hurt exactly where it should. The book understands that exquisite care can become a mechanism of avoidance, and Vee’s loneliness is finally becoming too concrete for scent, warmth, or sex to soothe away.
+WHY: Vee extending exactly the privacy and unengineered care that Randi denies her is devastating. The book sees every layer of that imbalance, and the outlier sitting visibly outside the pattern feels like a warning about all three of them.

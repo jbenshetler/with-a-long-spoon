@@ -1,17 +1,17 @@
-*capture-dag-v2-rich · gate ch041 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · prose-sha ~a3af5d5e997c · 2026-09-11*
+*capture-dag-v2-rich · gate ch037 · gpt-5.6-sol · consent-sensitive · prompt-sha 24d094fd74c2 · 2026-09-11*
 
-REACTION — Oh, “cropped” is doing a lot here. Vee cropped the photograph for her parents, cropped Pace into the respectable pieces her father could understand, and then discovered she cannot fit the actual relationship into a frame even for Cassie. “I told Dad the parts that fit” made my stomach tighten. That is precisely how Pace and Randi have been giving Vee her own life: only the parts that fit the story they want her to see. She is starting to practice the same kind of selective truth without recognizing the resemblance.
+REACTION — Oh, honey. “He’s all mine” hurt, because he is actively, presently not—and then she asks who does this to him when she isn’t around, giving him the cleanest possible opening to tell her, and he answers with masturbation and thoughts of her. That is not merely allowing an assumption anymore. That is an evasive answer designed to preserve it. I believe every tender thing he says about wanting her, and I also think he knowingly lied.
 
-The dress hurts differently now. Pace making it from a remembered longing is so much more intimate than buying something expensive, and Vee knows it. She isn’t ashamed of the sex or even the exhibitionism; what feels almost unspeakably vulnerable is that he listened, remembered, and made the impossible thing for her with his own hands. I understand why “boyfriend” comes out with a question mark. The ordinary word is too small for what he has become—and tragically too definite for an arrangement she still does not understand.
+The photograph made me hold my breath. She raises the sane fear herself, asks for a promise, chooses the version of herself she wants preserved, reviews the image, sends it from her own phone, and watches it deliver. Her consent is unusually deliberate. But “I’d never share your photograph” is narrower than “never share me with anyone,” and this entire book has trained me to hear the width of that gap. He is already sharing her stories, her reactions, her progress, and the intimate fact of her with Randi. Perhaps not the photograph—but her, yes. She handed him something vulnerable on the strength of a promise whose meaning they do not share.
 
-Her father looking for the catch landed hard because, sir, there absolutely is one. It is not that Pace is young, owns a house, cooks, sews, or seems too good. The catch is the woman Vee has just spent this entire conversation leaving out because she does not know Randi belongs inside the answer.
+And damn it, the rest is so seductive. His head on her breast for comfort, his boyish delight, the drawer he made for her, the food, the way he watches her taste what he has taught her to taste: I understand completely why she translates all this care into love and exclusivity. The pleasure is real. The domesticity is real. That is exactly why the deception is becoming unbearable.
 
-And Cassie. God, Cassie. She asks the exact clean question: what is he *to you*? Then the even cleaner one: can’t say, or don’t want to? She accepts Vee’s “both” without turning uncertainty into permission to pry. I love her for stopping. I also completely understood Vee being “a little, not” grateful. Vee wants someone to help her say the thing—but Cassie will not manufacture the answer or engineer the confession. That empty room around Vee’s choice remains the clearest contrast in the book.
+“I don’t go back” landed hard. I was glad Vee recognized the boundary and didn’t pry. Then Sheri at Thanksgiving gave me another little jolt—not because Pace cannot have a woman friend, but because Vee immediately feels jealousy and talks herself out of it using the incomplete story he has given her. Meanwhile Pace names Sheri and still does not name Randi. The absences are doing active work now.
 
-This was quiet, but it left me uneasy in a useful way. Vee can now feel that the available story does not fit her life. She just doesn’t know that the missing language is not merely emotional or erotic. It is factual.
+I would text a friend at one in the morning: *He let her send him a nude right after dodging a direct question about other women, and she thinks he’s all hers. I am sick because he genuinely cherishes her.*
 
-GATE 41 — Cropped
+GATE 37 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 ALMOST-STOPPED: none
-WHY: That final “Both” opened exactly the pressure seam I care about: Vee knows her life cannot be cleanly told, even if she does not yet know why. I’m still desperate for disclosure, and the book still very clearly understands the moral significance of selective truth.
+WHY: The deception crossed into something sharper here, but the book unmistakably knows it: “He’s all mine,” the evasive answer, and the narrowed promise are all knives placed where I can see them. I’m furious with Pace, frightened for Vee, and completely caught.

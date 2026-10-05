@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch067 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~b11de8d9a5ce · 2026-09-11*
+*capture-dag-v2-rich · gate ch062 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~78023057031c · 2026-09-11*
 
 REACTION —
 
-Oh this chapter made me ache in that specific, deliciously awful way where the room is quiet and nothing “happens” except everything comes due inside her body.
+Oh. This one got under my ribs in that quiet way where nothing “happens” and then suddenly I’m sitting there with my hand over my mouth.
 
-This is the first time Vee can’t outsource the wanting. That’s what got me. With Pace, she could turn Randi into heat for him, tell herself it was part of their sex, part of the game, part of being wound up. But Tuesday in class strips that excuse away. There’s no bed, no boyfriend under her, no dirty retelling to convert it into something straight and manageable. There’s just Randi’s knee against hers, Randi’s wrist-brush over the Lifesaver, Randi saying “having you,” and Vee’s whole body going yes while her mind stands there with a clipboard going absolutely not.
+The hangover beginning was so domestic it almost tricked me. Water waiting where she’d find it. Paper towel under the glass because of course he thought of the wood. The undershirt. The forehead kiss after he thought she was gone. Bread. Cinnamon raisin bread, because apparently this man processes care by becoming a one-person recovery ward with yeast. I am extremely vulnerable to competent tenderness and this chapter knows it.
 
-And God, the Lifesaver thing. This book has made me feral about tiny objects. A wintergreen candy should not feel like contraband, but it does, because now every little ritual has a charge. Their friendship has all these established gestures that used to be safely deniable, and now Vee is trapped inside them awake. That is such a mean pleasure to read. The intimacy was already there; the only thing that changed is that she can feel it.
+But then the friend thing. God. “Sheri’s my friend. My one friend.” That made the whole kitchen go cold for me too. Because it isn’t melodramatic. He doesn’t give a tragic speech. He gives the cleanest, most practical explanation of loneliness I’ve read in ages, and somehow that is worse. Women misunderstand it. Men form friendships through competition and he missed the window. Ordinary questions have gaps under them. That last part especially hurt me. The little social doorways everyone else tosses back and forth without thinking, and every one of his opens over air.
 
-I also loved and hated the way she dodges the kiss and gets punished by something worse. Not because Randi is cruel exactly, though Randi is absolutely playing too close to the edge and knows more than she admits. But Vee turns her mouth away, finally tries to make one clean boundary, and Randi just kisses her neck, the place Vee herself has already made charged between them. “How do you like it?” Girl. GIRL. That is not innocent. That is a match struck under a curtain.
+And Vee seeing it. That’s what I loved. She doesn’t rush to make it cute or fix him or smother him in pity. She actually understands the scale of what he didn’t have because she can measure it against what she does have: Meg, Kayla, Cassie, Randi. Even the thought that one person can’t be all of that for somebody landed hard, especially because we know the “one person” was Daphne, and that whole thing is still sitting there like a beautiful wrong shape under glass. I keep wanting to be allowed one clean feeling about him, and the book keeps refusing. Correctly. Infuriatingly.
 
-And then Vee blurting brunch. That killed me. She escapes the kiss, gets hit in the neck instead, and immediately asks for another private date. She is so bad at protecting herself because half of her does not want protection. I felt that. The want and the apprehension holding hands up the stairs is exactly the shape of this part of the book.
+Also: the Randi shadow is still in the room even when she isn’t. Vee naming Randi as one of the people who carries her heartbreak made me flinch because yes, true, and also no, not safe, not clean. Randi is part of Vee’s support system and part of the secret machinery. I hate how much that duality works on me.
 
-Cassie at the end was such a relief and such a threat. Finally, someone outside the spell says the plain thing: what was that? And Vee has no answer. That’s the scariest honest place she’s been in yet. Not denial with a clever explanation. Not “my dumb body.” Just nothing. No usable lie rising to meet her. That feels like a threshold.
+No sex here, barely even touch until the end, and I did not care. That hug was intimate. Vee crossing the counter instead of saying sorry was exactly right. The Sheri echo in the hug made me ache. Cheek to chest, whole weight committed. That is the kind of quiet chapter I trust because it moves the relationship somewhere sex alone couldn’t. It makes Pace more lovable and more frightening, because now I understand better how much of his emotional life got built around scarcity. And that makes the current lie with Randi feel even more dangerous. He knows what abandonment costs. He knows what being left alone costs. So what, exactly, does he think this secret will cost Vee?
 
-This was quieter than the painted fruit chapter, obviously, but it pulled hard because it changed the map. Randi is not a fantasy leaking into Pace anymore. Randi is becoming the problem in daylight.
-
-GATE 67 — Coming Due
+GATE 62 — Hangover
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
-ALMOST-STOPPED: "Monday was worse for having nothing in it."
-WHY: This was a bridge chapter, but a loaded one: all internal recoil, denial, and tiny touches turning radioactive. I’m desperate for brunch now, and also for Cassie to keep asking questions, because Vee has officially run out of clean compartments.
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: This was a bridge chapter, yes, but the kind that earns its quiet. It deepened Pace in a way that made me more attached and more worried, and Vee’s response felt grown-up and emotionally exact. I want the next chapter badly now, because the tenderness is making the eventual reveal feel less like drama and more like a structural load-bearing disaster.

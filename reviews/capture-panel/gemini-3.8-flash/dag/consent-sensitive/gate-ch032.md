@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 13e407d9f33a · 2026-09-24*
+*capture-dag-v2-rich · gate ch029 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 6e62cd46bbc6 · 2026-09-24*
 
-REACTION:
+**REACTION**
 
-God, the sheer, suffocating weight of this chapter. I feel sick and completely transfixed at the exact same time.
+I feel sick to my stomach, and I couldn't tear my eyes away for a single sentence.
 
-Look at the trap snapping shut—not with steel jaws, but with warm palms, juice, coconut curry, and bespoke green-and-white polka-dot scrunchies laid out on the counter. The domesticity is the most terrifying weapon in this entire book. The way Rivers contrasts what Randi primed her for versus what Pace actually delivered is an absolute masterclass in psychological manipulation. Vee was braced for Randi’s story—the performance, the counting aloud, the clinical, theatrical severity. Instead, Pace gave her absolute quiet. He gave her a tap, a question, a mouth pressed against the stinging pink skin, infinite patience. And because it didn't look like Randi's horror story, Vee walked right into it, thinking *she* was the one choosing it, thinking *he* was just meeting her where she secretly lived.
+Look at what they did to her. Randi handed her the shoes, Randi tied the silk at her throat, Randi coached her on how to walk in "sure" instead of sorry—and Vee literally walked up to the door carrying a novelty pie to apologize for having a totally accurate, self-protective gut instinct. She apologized to the wolf for suspecting he might have teeth! And the heels—she actually had a split second of panicked shame because she was *taller* than him, like taking up physical space was another insult she needed to beg pardon for. And Pace, of course, plays it with that horrifying, immaculate courtliness: *"Leave them on. Beauty like yours made for the gods and loaned out..."* It’s verbal chloroform. He doesn't just disarm her; he makes her feel cherished for dropping the knife.
 
-"He asked. It was hers now, give or keep, and she loved it." That sentence broke my heart. The whole illusion of agency that this entire novel is built upon, right there. He gave her back the choice to take off her clothes slowly, so that her submission felt like a gift she was offering up rather than a demand he was enforcing.
+And then the kitchen. God. The transition from playful domestic banter about soaking the pan to that single, flat-handed crack across her backside was breathless. The book tracks the psychological physiology so ruthlessly: the immediate, autonomic wiring between physical sting and sexual surrender. Her nipples going to aching points, her face going slack, the absolute terror of being seen having that reaction in broad daylight. What broke my heart was her desperate, babbling attempt to cover it up—riding him, talking non-stop about dish soap, performing normal enthusiastic sex just to build a wall of sound so he wouldn't ask what he'd seen.
 
-And then the physical reality of her arousal—the wetness, the shame. Rivers writes Vee's interiority with such brutal, excruciating precision. That old, deep-seated disgust Vee carries about her own body's appetite, the "shameful plenty of the wet," and Pace treating it not as dirty, but as "true and fine" and "good." How could a twenty-one-year-old girl, starved for real intimacy and choking on her own repressed desires, ever stand a chance against that? He isn't just taking her clothes off; he is dismantling her defenses by playing the role of the only person in the universe who sees her darkness and blesses it.
+And he just waited. He didn't force the issue. He just placed his warm palm right over the print of where he'd struck her, pressed down into the soreness, and waited for her to break. That shattered little *"Please"* tore right through me. She thinks she's discovering a secret kink inside the safest love of her life. She has no idea that every boundary she owns is being methodically dismantled.
 
-The detail of the juice. "Sweet and cold and faintly ridiculous." Aftercare. The man understands aftercare down to the cellular level because *he was trained by an older woman who perfected it on him.* It makes him feel entirely safe to her. "For the first time she could remember, treasured."
-
-And then she stands in front of the mirror, puts on his deodorant, wears his scrunchie, and says out loud: *"I'm going to start bringing a bag."*
-
-She is moving in. She doesn't even realize she just made the decision to move into the trap. The outside world—Cassie, classes, her mother—is evaporating into background noise. The enclosure is ninety-nine percent complete, and she is the one closing the latch from the inside.
+By the end of the chapter, she’s wearing his rolled-up sweatpants, washed in his shampoo, smelling like his soap, with *"nothing of her own left anywhere on her skin, and she had not minded it."* The enclosure is almost complete. She doesn't even belong to herself anymore, and she’s smiling through it. I am in agony for her, and this narrative knows *exactly* how devastating every single inch of this is.
 
 ***
 
-GATE 32 — We Find Out
+GATE 29 — A Recognized Method
 DECISION: CONTINUE
-CAPTURE: 9.5
-NEXT: 9.5
+CAPTURE: 10
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The psychological precision of the trap closing under the guise of tenderness, aftercare, and domestic warmth is brilliant and genuinely chilling. The author completely understands the dark mechanics of this grooming, and watching Vee surrender to it while believing she is finding her truest self is breathtakingly good fiction.
+WHY: The psychological precision here is terrifying, tracking every micro-beat of Vee rationalizing her own capitulation. Watching her dismantle her own defenses while wrapped in Randi's clothes and Pace's scent is an absolute masterclass in dark, knowing craft.

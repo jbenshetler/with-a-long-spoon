@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 0b647a05ad40 · 2026-09-24*
+*capture-dag-v2-rich · gate ch021 · gemini-3.8-flash · consent-sensitive · prompt-sha 8285d9b2c531 · prose-sha 0894d4db7f65 · 2026-09-24*
 
 REACTION
 
-*Oh, my god.*
+Oh, this chapter is insidious. It is *breathtakingly* insidious.
 
-I knew it was coming—it’s on the jacket, it’s in every greasy, terrifying calculation Randi has made since day one—but having the door kicked open to show them actually in his bed, *after*, post-coital, talking about Vee like she’s an exotic stray they took in together? It made the hair on my arms stand straight up. It made me feel sick to my stomach in the absolute best, most horrifying way a book can do it.
+If you just read the mechanics of it on the surface, it’s playfully domestic, sexy, and utterly charming. The whole sequence where they’re laughing, tangled up trying not to get her wetness on the silk, her hands full of him, wiping her fingers on his flanks, him sucking her own slickness off her knuckles to "clean" them—it’s hot, it’s tactile, and it feels completely human. They feel like a real couple tumbling into bed with zero pretense. Vee thinks she is entirely in the driver’s seat. She’s the one who ripped her own panties off, she’s the one who strode into the den, she’s the one unbuckling his belt and hoisting herself onto his hips.
 
-Look at how they handle her. Look at how Randi describes the shoe shopping. Vee walked away from that TJMaxx aisle feeling like the funniest, most charming, most empowered girl in the world, clutching her chest from laughing—and to Randi, she was just an adorable little pet doing a dance. *"She was so embarrassed. That was kind of hot."* And then the cold, strategic analysis: *"She’s not ready, though... You’ll want to take your time."* *"I want her to get there on her own."*
+And that is precisely why my skin is crawling.
 
-They are hunting her. They are literally pacing the trap so that she walks into the center of the cage completely of her own volition. *"I want her to get there on her own"*—the sheer, staggering malignancy of Pace phrasing his predation as benevolent patience. He doesn't want to force her because the entire kink, the entire high of his control, is engineering an environment where she *begs* for it. And they know her wounds! *"Somebody taught her to be ashamed of her body."* They know her mother’s voice in her head, they know the oversized cardigans, they know the shame, and they are using that exact knife to carve her out.
+Look at what he built for her. He engineered a dress that *mechanically forces exposure*. He didn't tell her to take off her underwear; he cut a slit up to the jut of her hip so that the only way to wear the line cleanly is to go commando. He didn't tell her to expose her breasts; he lined only the bare minimum and cut the bias to thrust her forward. And then—the detail that made my stomach drop—he literally hung a new, full-length mirror, screw heads still bright, and moved the pedestal right in front of it. He set a stage for her to look at herself through the exact lens he designed.
 
-And then—the crack. The tiny, magnificent hairline fracture in the predator alliance.
+The psychology here is so exact it hurts. Vee’s whole life has been poisoned by the ghost of her mother whispering *floozy*. Pace doesn't try to tell her she isn't one; he takes the shame of being "too much woman" and turns it into an bespoke, expensive aesthetic. He makes her feel like an Italian film star precisely *because* she’s stripped bare. And Vee's internal reaction at the end is the scariest part of the whole book so far: *"It just felt like what she was for."*
 
-Pace didn't just agree that Vee is hot. Pace described her with genuine, breathless wonder: *"She comes in and the whole thing goes brighter. Like somebody found the lamp... she's the most alive person standing there."*
-And Randi *froze*.
-Randi went totally still on his chest. That wasn't in the game plan. The jacket said, *What none of them saw coming was how real it would get.* Randi thought she was bringing home a delicious plaything they could both consume, a little project, and suddenly she's hearing the man who usually commands her talk about this college girl like she's the sun. That tight, delayed, *"Yeah. She is,"* before immediately grinding her hips down to reclaim his erection, to take him back, to prove she still has him? God, that was incredible. That was a masterclass in psychological tension.
+Read that line again. *What she was for.* She isn't an economics student anymore; she's an ornament being shaped for display. She is fantasizing about walking into her academic induction—an event meant to celebrate her intellect—dressed like high-end couture sin, arriving late *on purpose* so a room full of people can look at her bare hip and bare shoulder. And she thinks that’s *her* triumph. She thinks she's getting away with something.
 
-The sheer dramatic irony is unbearable now. Vee is sitting in her dorm, having blown her emergency credit card on four-inch stilettos because she thinks she owes it to the romance of a handmade dress, thinking Randi is the truest, most glamorous sister-friend she's ever had, while Randi is literally riding Pace on the exact same sheets Vee soaked a few days ago, listening to Sade.
+He didn't force her into that dress. He just left it hanging in the sun, stepped out of the room, and let her own engineered appetite do the rest. The author's control over the dramatic irony here is terrifyingly steady. Every single yes is hers, and the cage is already locked.
 
-I feel physically tense. I want to scream at Vee to look at her bank account and pack a bag, and at the same time, I cannot turn the page fast enough. The book knows *exactly* what it is doing. The horror is totally intentional, totally controlled, and completely merciless.
-
-GATE 24 — Gone
+GATE 21 — Peekaboo
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: The reveal of Pace and Randi in bed together dissecting Vee's psyche like a shared meal is chilling, but the flash of genuine jealousy from Randi when Pace admits how bright Vee is elevates the entire dynamic from cruel manipulation to a powder keg. I am completely hooked.
+WHY: The sheer psychological brilliance of the dress as a trap—engineered to make her strip her own underwear off to preserve the line—is dark romance writing at its absolute peak. The book knows *exactly* how horrifying that final line ("It just felt like what she was for") really is, and I am entirely hooked waiting for the trap to spring.

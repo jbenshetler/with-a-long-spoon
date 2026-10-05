@@ -1,28 +1,30 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-01*
+*capture-dag-v2-rich · gate ch049 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · 2026-10-01*
 
 REACTION —
 
-Oh, Randi. Oh, *Randi.*
+Oh, this hurt. This hurt in the exact place the last few chapters have been pressing with one finger until I wanted to slap the hand away.
 
-I knew she was dangerous. I knew she was practiced and glossy and setting things up six moves ahead. But this chapter just cracked the lacquer and let me see the girl underneath it, and I am not okay. That breakfast with her parents made my skin crawl in such a quiet expensive way. The father making her invent boys for him, the mother all bracelet and omelette and label, Randi performing daughterhood like sorority small talk with knives under it. Suddenly every polished thing about her has a source. Of course she knows how to make a room believe what it wants to believe. She learned at that table.
+I am so proud of her I could cry. Not because she was perfectly composed or because she found the ideal language, but because she walked into that house and did not let the warmth eat the question. That house is basically built to dissolve her. Heat already up, wine poured, food going, music on, all the thousand little proofs of care that have made me weak for him for forty chapters. And she still stayed on the mat. She didn’t bring the bag in. That killed me. That was her body saying: I am not already yours tonight. You have to answer me first.
 
-And then John. I hated how much I loved the first half of him, because the fairytale *works*. The lift-line wife bit, the invented children, the black run, him staying just behind her and not proving himself. Champagne, the dress, white tie, Byron at the stairs, sleigh in the snow. It is all engineered for a woman like Randi to say yes to the life she is supposed to want. And for a while I did feel the seduction of it. Not sexually, exactly, more narratively. Like: here is the version that would photograph beautifully. Here is the story you tell at dinner parties for forty years.
+And he almost makes it worse by being exactly himself. “I thought we’d have the evening.” God. Of course he did. Of course the evening is beautiful. Of course the chicken is going and the porch is clear and there are stars. He is offering her the whole thing she loves, but she is asking for the one thing it has started to cost her to go without. And he cannot, will not, put a name on it.
 
-But the second they get to the hotel door and she realizes he has assumed, the book does something mean and smart. Because part of her likes the assumption. She’s tired of Pace making everything conscious, of being required to want out loud. And then the actual sex lands as this awful perfect vacancy. Good, competent, pleasurable, and absolutely unable to touch her. That “good sandwich” line hurt because it was so bleakly adult. I have read so many romance scenes where “he knows what he’s doing” is supposed to be enough. Here he knows what he’s doing and that is exactly the tragedy. He can do everything right to the beautiful woman and never meet Randi at all.
+“Do any of your friends have a relationship you’d rather have than this one?” made me furious in a way that was worse because it isn’t nothing. It’s a real question. It’s even probably true. She wouldn’t trade this for anyone else’s little boyfriend dinner-and-a-movie life. But it is also such a maddening dodge. He turns her need for a name into a comparison chart, and she’s too honest not to answer it inside herself. That is the trap with him: he says true things that do not answer the question.
 
-And Pace. God. Pace is not even in the room and he is the gravitational problem. “Pace on his worst night reached further than this man had managed at his best.” That sentence rearranged the chapter for me. It makes Randi’s danger make more sense and makes it worse. She is not just playing with Vee because she is bored or predatory or turned on by power. She is starving too. She knows what it is to be found, and she knows Pace can find her, and now Vee can do something even John’s whole snow-globe prince act can’t counterfeit. That doesn’t absolve her. It makes her much harder to hate cleanly.
+And then “Words are cheap. Believe what I do.” I understand him, and I still wanted to throw something. Because yes, Pace, your actions are eloquent. We have all been over here drowning in your actions. The heat, the drawer, the food, the shirt, the careful hands, the stopping when she says stop, the way you see her body with her inside it. But words are not cheap when someone is starving for one. Words are not cheap when withholding them lets you keep the relationship unprovable outside the room where you control the weather.
 
-The Vee text just killed me. Sweet, open, yellow heart, “I’m here if you want to talk. or not.” And Randi gives her the fairytale. Every word true, none of it true. That is exactly the disease of this triangle: the truth is always technically present and emotionally withheld. Pace does it with Vee. Randi does it with Vee. Vee keeps walking around offering whole plain sentences to people who answer around the thing.
+Her answer was perfect. “Words are cheap, and you still won’t spend them on me.” That’s the line. That’s the whole wound opened clean.
 
-I am furious that Randi decides not to tell her, and I also understand it so completely that I’m mad at myself. She is protecting the hour at brunch. She is protecting “gorgeous.” She is protecting the first love she has not made into currency. But “let Vee arrive at it on her own” is such a seductive little moral loophole. That is the same concealed-map feeling as Pace and Randi choosing her before she knew. Let her arrive, let her choose, but keep the doors labeled wrong until she does.
+And the thing is, I don’t even think he doesn’t love her. That is what makes this unbearable. I think he does, or something very close to it, and I think he has some locked room in himself marked I Don’t Go Back where love-language goes to die. But Vee cannot live on forensic evidence forever. She cannot keep building a case out of wine glasses and porch heaters and the smell of a flannel shirt. She is twenty-one and in love and being asked to trust everything except the thing he refuses to say.
 
-This chapter pulled me hard because it finally gave Randi interiority deep enough to be dangerous in a new way. She is not the sexy friend with the raised eyebrow anymore. She is a woman who has felt the acceptable life press its mouth to her and leave nothing behind. And now Vee, poor Vee, has no idea that her little text from Ohio is the live wire in a hotel room in Gstaad.
+Also, the concealed Randi/Pace structure is screaming louder now. Because he won’t name Vee, but there is already another named reality somewhere behind her back. That makes his silence feel less like wounded reserve and more like architecture. Maybe that is unfair. I don’t care right now. She left crying in the cold because he would not spend a word.
 
-GATE 50 — Fairytale
+I would absolutely keep reading. My thumb is already moving. I need to know whether he lets her go, whether he follows, whether Randi gets her hands on this, whether Cassie finally hears the whole shape. This chapter did the terrible, delicious thing where the erotic charge is almost entirely gone and I’m still more caught than I was during some of the sex. Because this is the bill coming due.
+
+GATE 49 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 2
+NEXT: 10
+HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: "Let Vee arrive at it on her own."
-WHY: This made Randi heartbreakingly legible without making her safe, which is exactly the kind of mess I came for. The fairytale seduction had sparkle, but the real turn was Randi realizing the approved dream cannot touch her, while Vee can from another continent with one open little text.
+ALMOST-STOPPED: "Words are cheap. Believe what I do."
+WHY: That line made me almost put the book down out of anger, but Vee’s answer snapped me upright. This is exactly the confrontation I’ve been waiting for: not the big secret yet, but the emotional debt underneath it finally named.
