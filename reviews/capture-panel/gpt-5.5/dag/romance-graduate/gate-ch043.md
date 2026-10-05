@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha fd15ae22052d · 2026-10-05*
+*capture-dag-v2-rich · gate ch043 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 02df4ce5ce94 · 2026-10-05*
 
 REACTION —
 
-Oh. Oh, that was nasty in the way I came here for and emotionally awful in the way that makes me sit up straighter.
+Oh. Oh, I am very much not calm.
 
-I knew, obviously, that Pace and Randi were together. The jacket told me. The notes told me. But knowing it and being inside it are different things. This chapter makes the third game breathe. It is not abstract anymore, not a secret offstage. It is their couch, their old rhythm, their bodies already used to each other, and Vee moving through the room between them without being there. And I hate how electric it is. I hate that I was hooked.
+This chapter felt like the book finally turned the lamp toward the room I knew was there and let me see how the machinery works when Vee isn’t in it. And it is worse and better than I expected, which is exactly the problem. I knew Pace and Randi talked about her. I knew they must. But hearing them pass pieces of Vee between them like this — her wet hair, her coffee, her Saturday happiness, the goodbye kisses — made my stomach go tight. Not because it wasn’t hot. It was brutally hot. Because it was hot *and* intimate *and* not hers to know.
 
-Randi telling Pace about Vee coming into stats still wet-haired and glowing from him made my stomach flip and tighten at the same time. Because yes, it is hot. I am not going to pretend it isn’t. Randi clocking every detail, getting to tuck Vee’s hair behind her ear, saying that to her in class like she owns the knowledge of it. But also: Vee thinks these are separate intimacies. She thinks Monday stats is her friend seeing her. She has no idea her morning is being carried back to Pace’s couch and turned into fuel.
+Randi is killing me. She is absolutely using the brunches, the kisses, the attention, the “my sex pervert” softness. She is also absolutely gone on Vee. That “well” when Pace tells her Vee waits all week for Saturdays? I felt that. She wants to pretend she’s conducting a campaign for the eventual threesome, doing the noble preparatory mouth-work like some extremely depraved volunteer coordinator, and then the truth just slips out of her: “God, I want her.” There it is. No garnish. And then she scrambles to put the “for us” frame back around it, but the chapter already heard her.
 
-And then Pace. God, Pace. “That isn’t what I asked.” There he is, the man I keep wanting to trust, asking the consent-shaped question under the erotic machinery. Does Vee want it? Not does it work, not is it useful, not will it lead where we want. Does she want it. And Randi’s dodge was so telling I wanted to grab her by the shoulders. “She’d be sad if we stopped” is not the same answer, and Pace knows it. He knows exactly where the ethical bruise is. Which somehow makes him better and worse, because he can see it and he is still in the room doing this.
+And Pace. God. I hate how much I still like him in the very scene where he is part of the betrayal. He’s not cartoonishly smug about it. He is watching Randi too closely, asking the actual consent-shaped question under all the heat: does Vee want it? He notices the difference between radiant and all right. He tells Randi that Vee leaves his house for *her*. He is not careless. Which makes the not-telling worse, not better. These two are so emotionally intelligent with each other and so precise about Vee’s responses that the omission starts to feel like a deliberate room they keep walking around.
 
-Randi broke my heart a little here, and I did not expect to feel that much softness for her in a chapter this predatory. The “doing the work” lie is so transparent it’s almost sweet, except the work is Vee’s mouth and Vee’s trust. She wants Vee. Not just for the fantasy, not just for the eventual threesome, not just because Pace wants it. She wants her in that hungry, bodily, almost humiliating way, and saying it out loud scared her. That little scramble afterward — “For us. When she’s ready.” Honey, no. That horse left the barn sometime around “God, those legs.”
+The sex between Pace and Randi worked on me in a very adult, uncomfortable way. It wasn’t just “look, the established couple is hot.” It was their whole private language: his hands knowing how rough she wants it, her talking herself into and out of the truth, him reading her body before she can revise the sentence. The hottest thing in the chapter might honestly be him saying, “I didn’t ask who it was for.” That line stripped her bare harder than the silk did.
 
-The sex itself worked on me because it wasn’t generic. It had history in it. The nipple pressure he knows she wants, the couch position like punctuation, the mirror catching her face, the fourth time being harder and thinner and almost painful. That is the exact thing I’m always complaining books don’t do: bodies with memory, sex as character rather than choreography. It was filthy, yes, but the filth had emotional teeth.
+But the aftercare at the end did something colder and sadder to me. Randi saying nobody knows her like that, that being seen makes her feel real and frightens her — now I can’t keep her in the clean villain box even a little. She is dangerous because she is hungry too. She and Vee are both being made real by attention, and Pace knows how to give that attention like a sacrament. Which is very sexy and also maybe a loaded weapon.
 
-And then the last page turns the whole chapter inside out. Randi saying he makes her feel real? That actually got me. Because now it is not just Vee being brought awake by Pace. Randi is too. Randi, who has seemed so smooth and in control and always one move ahead, is also being seen by him in a way that frightens her. Which makes the triangle more dangerous, not less. These are not two bored sophisticated people playing with a girl. They are emotionally caught. All three of them are. That is much worse.
-
-What I’d text at 1 a.m.: “The secret couple finally got a chapter and it is HOT and I am MAD and also I think Randi is in actual trouble.”
+I’m mad, turned on, worried, and completely caught. The reveal is going to hurt worse now because Vee isn’t just going to discover a conspiracy. She’s going to discover that the feelings she thought were separate — Pace’s house, Randi’s booth, the kisses, the photos, the being seen — have been touching each other behind her back the whole time.
 
 GATE 43 — Four
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 9
+NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "She sat down next to me failing to hide her grin, being modest about it, still full of your come."
-WHY: That line nearly knocked me out because it made Vee’s private happiness feel exposed in a way she never agreed to. But the chapter absolutely had me by the throat: erotic, morally tense, and suddenly tender toward Randi in a way I did not see coming. I need the reveal more than ever now, because the book just made the secret feel alive in the room.
+ALMOST-STOPPED: "still full of your come"
+WHY: That line nearly made me recoil because it put Vee’s private body straight into their shared dirty talk without her in the room. But the chapter knew exactly how ugly-hot that was, and then it kept opening Randi until I couldn’t look away. I need the next chapter immediately, because the triangle just stopped being an abstract dread and became a living thing with teeth.

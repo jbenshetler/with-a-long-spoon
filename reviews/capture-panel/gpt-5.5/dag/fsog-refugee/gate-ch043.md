@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fd15ae22052d · 2026-10-05*
+*capture-dag-v2-rich · gate ch043 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 02df4ce5ce94 · 2026-10-05*
 
-REACTION —
+REACTION — Oh. Well. That was the chapter where the book finally lets me sit in the room with the secret instead of only feeling it under the floorboards, and it is exactly as charged as I was afraid it would be.
 
-Oh. Oh, I do not know if I’m pleased or furious or both, which is probably exactly where this chapter wanted me.
+I am so torn, because the heat here absolutely works on me. It does. Pace with Randi is not the same Pace as with Vee, and that difference matters: sharper, rougher, more knowing, less ceremonious. Randi is not fragile in his hands the way Vee sometimes is; she is sparring and counting and lying through her teeth while her whole body confesses. And I liked seeing that Pace can read her too, maybe even better than anyone has. The walk across campus, him choosing Vee by watching Randi want her — that is creepy and intimate and hot and morally thorny all at once. Very this book.
 
-Being inside Pace and Randi together changes the temperature of everything. I knew they had arranged her. I knew there was a third game. But seeing them in his house, after a whole day in bed, talking about Vee like she is the flame they both keep warming their hands over... it made the secret feel less theoretical and more bodily. They are not casual about her. That helps. It also makes it worse.
+But the chapter also made my old warning lights come on hard. “I know exactly what I’m doing” from Randi is not comforting. It is the sentence people say right before I stop trusting them. And the goodbye kisses, my God. Vee has been experiencing those as this sweet private friend-ritual she waits for all week, and here Randi and Pace are eroticizing it together on the couch, with Vee absent and unaware of the real frame around it. I believe Vee wants Randi. I believe Saturday she did “take it.” I believe she would be sad if the kisses stopped. But I also believe she does not know the game she is in, and that difference is becoming impossible to tuck away.
 
-The consent thread here mattered to me more than the sex, honestly, though the sex was absolutely there. Pace asks the one question I needed someone to ask: “Does she want it?” And then he does not let Randi wriggle out with “it would hurt her feelings” or “I’m doing it for you.” Thank God. That was the cleanest breath in the room for me. Because Randi is so good at making her own wanting into a service, a plan, a clever little bridge to the future, and Pace just holds the question still until the truth has to come nearer.
+The most devastating thing is that Randi’s feelings are real. If she were just predatory, I could close the book cleanly. But “She told me first” hurt in such a human way. Her being moved by Vee sleeping, by Vee paying her own check, by Vee waiting all week for brunch — that got me. She is not only using Vee as bait for a threesome. She wants to be wanted by Vee, specifically. And then she says, finally, plainly, “God, I want her,” and immediately tries to stuff it back into the approved box: for us, when she’s ready. No, babe. That was not what left your mouth.
 
-And the truth is: she wants Vee. Not theoretically, not tactically, not “for the threesome.” She wants her. The line “God, I want her” felt like the chapter cracking open. I wanted that admission so badly, and then when it came I immediately felt the danger of it, because Randi still tried to dress it back up as “for us.” No, honey. That one came out naked.
+Pace is complicated for me here. I liked that he asks the only question that matters: “Does she want it?” I liked that he doesn’t let Randi’s first answer stand. That is the man I’ve been reading for. But he is also inside this thing. He knows enough to know the difference, and he still lets the arrangement keep going. His care is real, but his honesty is late. Too late? I don’t know yet, but the book has moved from “not yet” to “now you are making choices around her ignorance.”
 
-I did like seeing Randi vulnerable with Pace. I didn’t expect to feel tender toward her here, but I did. The way she talks about Vee sleeping, about being twenty-one and only now learning she can rest, that got to me. And later, when she says Pace seeing her makes her feel real and frightened — that made her less like a glamorous manipulator and more like someone who is also starving, just with better lipstick and more dangerous habits. I believe Pace loves her carefully. I believe he knows her. That makes him asking the hard question sharper, not colder.
+The aftercare with Randi quietly wrecked me. Not erotically, exactly — emotionally. “It makes me feel real” is the soft underbelly of the whole chapter. Randi, who is all performance and appetite and control, wants to be held down by being seen. Pace saying “Then I’ll be careful with you” should have soothed me, and it did, but it also sharpened the ache because Vee deserves that same carefulness in the full truth, not only in his bed.
 
-But I am worried. I am very worried. Because Vee is out there thinking Saturday brunch kisses are “one of our things,” and Randi and Pace are in his house turning those kisses over between them while Vee does not know they are together. That is the rot under the warmth. Not because the wanting is wrong. The wanting is delicious. Vee wanting Randi back is real; Saturday she chased the kiss, and I was thrilled when it happened. But Vee does not know what room she is walking toward. She thinks she is giving separate pieces of herself to two separate people. They know those pieces meet.
-
-Pace still has me, damn him. “Then I’ll be careful with you” is exactly the kind of dominance I came here for: seeing, holding, not mocking the fear. But I need him to be careful with Vee too, and care now means telling her. Not someday. Not when she’s ready according to the two people already ahead of her. Soon.
-
-And Randi. Beautiful trouble, yes, still. More beautiful and more trouble than ever. I want Vee to kiss her again. I want Vee to choose her with her eyes open. I do not want Randi getting to keep calling the manipulation “work” because it gets her off and happens to serve the plan.
+I am absolutely reading on, but I am reading with my arms crossed now. The book has earned enough trust that I’ll follow it into this mess. But it has also put the consent question right in the center, and I need it to know that. I need Vee to get the truth before this becomes something done around her and then explained afterward as what she secretly wanted.
 
 GATE 43 — Four
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: “She’d be sad if we stopped. If I just waved and got in the car. It would hurt her feelings.”
-WHY: That line made me stiffen hard, because Randi was very close to using Vee’s attachment as permission. But Pace challenged it, and Randi’s wanting finally broke through its little disguise. I am absolutely reading on, but now I’m reading with my hand on the secret like a hot pan.
+ROMANCE: 2
+ALMOST-STOPPED: “I know exactly what I’m doing. I have always known what I’m doing.”
+WHY: This was hot in a way that made me uncomfortable because the desire is so real and the secrecy is so active. Randi wanting Vee landed hard, and Pace questioning whether Vee wants it kept me in the chair, but the book is on very thin ice with the “game” around Vee now.

@@ -1,28 +1,32 @@
-*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fd15ae22052d · 2026-10-05*
+*capture-dag-v2-rich · gate ch043 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 02df4ce5ce94 · 2026-10-05*
 
 **REACTION**
 
-I had to put it face-down on my chest for a minute.
+Oh God. There it is. I've been carrying "not yet" around since a bicycle road thirty chapters ago, and here's what was under it: Randi on his couch in dark red silk on a Monday night, three times already that day, with the heat turned up for her two hours ahead the same way it gets turned up for Vee. The deadbolt "the way it always did." *Always.* That's the word he gave Vee about her hair.
 
-He pointed at her. I've known since the jacket and I've been circling it for forty chapters, and it's still a different thing to hear it in his own level voice on his own couch: *a whole set of doors, the middle of a Thursday afternoon*. And he wasn't even really looking at the doors. He was reading Randi's breath, her cold hand, her *maybe*. Vee was picked because of the effect she had on another woman's face. "I pointed at her and watched your face." Then "I'd have taken you right there on the quad." So the moment Vee was chosen turned him on, and Vee wasn't the one he wanted in it. That's the closest I came to leaving. My stomach went cold, the way it did in the old books when the man smirks.
+I put the book face-down after "still full of your come." Not because it's filthy. It's because Vee walked into stats with wet hair and his coffee and that grin she can't hide, and it was the happiest Monday of her life, and Randi turned it into a report and carried it up the hill to him. Everything Vee has handed across a glass table, the food, the sleeping, "my mouth had been asleep," has been going straight into this room. "She told me first." Randi is keeping score with him over a girl who thinks she's the one who got picked.
 
-Two chapters ago, though, she asked him to promise he'd never share the photo. He said never and he meant it, and in this chapter he hasn't. Randi hasn't either, and I noticed. She's had the uncropped picture since Saturday and didn't bring it to him. She brought him the hair, the coffee cup, "still full of your come," the kiss, the sidewalk. She kept the legs and the toes for herself, and that tells me more than "God, I want her" did.
+She was picked. He pointed at her on a lawn in September while Randi was wet, and he wasn't even reading Vee. He was reading Randi's breath. Vee was chosen off another woman's *maybe*. That's the jacket's line made flesh and it's colder than I braced for. He liked it, too: "I'd have taken you right there on the quad."
 
-What keeps me in the chair is that this is the first time I've been inside him, and he spends the whole chapter asking the one question I'd ask. "Is she all right?" "Is she happy?" "That isn't the same answer." "Does she want it?" "That isn't what I asked." He asks about Vee's consent through the only witness he has, and he doesn't take the pretty answer. Then he finds the thing that actually breaks Randi: "You don't have to do it for me." That wasn't a cruel line or a tactic. It was kind, and it went through her like a blade, and she came arguing that it was *work*. I laughed out loud and then felt sick that I'd laughed. The book isn't winking at me about what they're doing to Vee. It's letting me see two people who are both, in different ways, in love with her and can't admit it. One calls it a project. The other calls it "you taught me."
+What I can't get past, and what's keeping me in the chair, is that the book won't let me hate him cleanly. "Does she want it?" "That isn't what I asked." "I didn't ask who it was for." "You don't have to do it for me." He's checking on Vee's consent from inside the arrangement that makes her consent impossible. He's the only one in the room asking the right question, and he's asking it while the answer turns him on. "After that there was no slow left in him." That came straight off Vee leaning up the last half-inch on a sidewalk. Her real, unguarded wanting, the thing I cheered last chapter, is fuel for them. It made me feel a little sick, and the book didn't wink at it. It let me feel it was wrong.
 
-But I was turned on, and I'm not going to pretend otherwise. The mirror she forgot. Her face the whole time he couldn't see it, which he could. Her clenching on "and then I kiss her mouth" without deciding to. That's real desire, rendered from the inside of a body, and it's hers and it's aimed at Vee. It's the hottest chapter in the book and it's built out of Vee's private Saturday. I can't untangle those two facts and I don't think I'm meant to.
+And Randi. "I'm doing it for *you*." "It's *work*." Then she comes on him saying she's doing the work, and then into the wood: "God, I want her." She heard it leave her. Then "For us." Then "Aren't you?" She is drowning, exactly like I wrote. The brightening smile in the practice room and this broken woman pulling his arm tighter and tighter are the same person, and I hate that I believe it. "Some nights it frightens me." "Then I'll be careful with you." He's tender with her too. I asked for a man with dominance and tenderness in the same hands, and I got him, given equally to two women, and one of them doesn't know the other exists in this way.
 
-So here's where I am with Pace. Column one is still full: the care, "Then I'll be careful with you," "Say something nice to me" and him actually thinking about it because she'd know the difference. Column two has gone from three words on a road to a whole couch. He's tender with both women and fully honest with neither, and Vee is the only one at the table who doesn't know how many chairs there are. "Nothing is taken from Vee that she does not hand over." Fine. She handed it to Randi. She never agreed to Randi handing it to him with his hands under her silk.
+The sex itself was hot and I resent that. He reads Randi the way he reads Vee: unhurried, climbing toward the not-gentle she taught him without saying it, letting her run it at the end. It's careful and it's consensual between the two people in the room. The third person whose life is being said out loud during it wasn't asked.
 
-And Randi. "Twenty-one years old and she found out this autumn that a person can sleep." She stopped looking at him to say it. And "She told me first," with something in the pause. She's gone, completely, and calling it the threesome so the floor holds. I wanted to hate her more than I do.
+The photo. "Only if you promise you'll never share me." He kept that promise, and Vee broke it herself at brunch to look brave. I wanted to reach into the book.
 
-Text to a friend at 1 a.m.: *he asked "does she want it" TWICE and I don't know if that makes it better or worse.*
+1 a.m. text: *he asked "does she want it" TWICE while fucking the woman who's grooming her and I don't know if that makes him better or worse.*
+
+I'm not leaving. I can't, now. But Thanksgiving with Sheri and a pie is a quiet I don't trust anymore. And I need Vee back in a room with him, alone, so I can see what his face does now that I know what it's carrying.
+
+---
 
 GATE 43 — Four
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 3
+HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "So by the time the doors came up I knew. I pointed at her and watched your face."
-WHY: The choosing finally has his name on it, and I nearly put the book down. What held me was that he spends the whole chapter pressing on whether Vee actually wants this, and he won't take "radiant" for an answer. The heat is real and it's built on Vee's private brunch with Randi, and I'm staying because I need to see whether one of them tells her before she pulls out her own chair at that table.
+ALMOST-STOPPED: "She sat down next to me failing to hide her grin, being modest about it, still full of your come."
+WHY: The confirmation I've feared for twenty chapters, and the book doesn't find it cute. It makes me sit in the cost while the man still asks "Does she want it?" as if that question could fix the room. Randi's "God, I want her" is the first true thing she's said, and I have to see who pays for it.

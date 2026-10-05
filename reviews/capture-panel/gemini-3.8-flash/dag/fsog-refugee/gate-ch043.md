@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fd15ae22052d · 2026-10-05*
+*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 02df4ce5ce94 · 2026-10-05*
 
 REACTION
 
-I feel sick. I actually feel physically sick to my stomach.
+I feel like someone just dropped an anvil on my chest. I have to physically sit with this for a minute because my stomach is churning.
 
-I knew it was coming. The jacket told me, the carry-forward told me, the bike ride with Sheri told me. But seeing it—reading this absolute gut-punch of a chapter—made it a hundred times worse than I ever imagined.
+All this time, I knew. The jacket told me, the carry-forward notes warned me, the conversation with Sheri proved it. But seeing it—actually *being in the room* while Pace and Randi fuck four times in a single day, on the very couch, in the very bed where Vee thinks she’s found holy ground—makes it a completely different kind of sickening.
 
-He didn't just sleep with Randi. They spent the entire day fucking in the exact same house where Vee sleeps, against the kitchen counter where he cooks for Vee, on the bed where he holds Vee. *Four times.* And what broke me, what made me want to throw my tablet across the room, was the petty, competitive tallying. "That's more than three." Randi was literally counting to beat the three times Vee had him on Friday. She came into his house to erase Vee's weekend.
+Vee sat across from Randi on Saturday, practically glowing, confessing that she sleeps whole nights now, that her mouth was asleep until Pace, showing the calendar photo she made Pace *promise* never to share. And here is Randi, bringing every sacred, tender confession to Pace’s house like gossip, using it as foreplay to get bent over his couch. And Pace—my god, Pace. The man who cleared his top drawer, who kissed her knee, who held her through her spanking—is standing behind Randi, driving into her, asking, *"Do you like it? Kissing her."*
 
-And the way they talk about her! "Still full of your come." Like Vee is just a cup they pass between them. Randi standing there gloating about kissing her on the mouth, using Vee's absolute, starving, innocent devotion as foreplay to get herself wet on his couch. "I'm doing the work," she says. "For the threesome." It is so cynical, so deeply ugly, so stripped of the pure, breathtaking tenderness that made me fall in love with this book.
+It makes the dominance I loved about him suddenly feel so cold, so calculated. He read Randi on the quad. He picked Vee out of a crowd like choosing a cut of meat to share. When he asked Randi, *"Does she want it?"* and *"Is she happy?"*—I heard the thread of care, I did, but it’s twisted into this grotesque architecture of grooming. Randi claiming, *"I'm doing it for you... for the threesome... it's work,"* while coming apart on the wood, and then admitting, *"God, I want her."* They are two predators talking about how delicious their prey is while passing her back and forth.
 
-And Pace. God, *Pace*. The man who cleared his top drawer for her hairpins. The man who gently stopped the second she said "Don't." He's in on it. He's actively pumping Randi for details about Vee's mouth while he's fucking her from behind. He asks, "Is she happy?" like he cares, but then he tells Randi, "You don't have to do it for me," right as she's coming off the thrill of manipulating Vee. He is managing both of them like an arithmetic problem. "With the right encouragement." He was proud of getting to four.
+And yet—what makes this chapter utterly brilliant and horrifying is that Randi and Pace’s dynamic is just as intensely written, just as complicated and tender and messed up as his dynamic with Vee. When Randi says, *"You see more of me than anybody ever has... it makes me feel real,"* and Pace covers her with the blanket because he knows the chill finds her a minute after he pulls out—it’s not a cheap hookup. They have a real, powerful, vulnerable bond. Which makes it ten times worse for Vee! When the floor drops out from under Vee, it won't just be finding out her boyfriend cheated; it’s that her boyfriend and her best friend are deeply intimate partners who orchestrated her entire emotional and sexual awakening as an elaborate appetizer for themselves.
 
-Vee is in her dorm right now, completely besotted, glowing, thinking she's found a prince and a soulmate of a best friend. She told Randi *everything*—she handed over her whole heart, the miracle of finally being able to sleep through the night—and Randi literally brought those exact words to Pace's house to use as dirty talk while she rode him on the sofa.
+I’m furious, I’m sick for Vee, and I am completely, helplessly hooked on the trainwreck. I need to see how they ever think they're going to bring Vee into this without destroying her.
 
-It's monstrous. It is brilliant, masterclass psychological horror masquerading as erotica, and I am in agony. But I cannot look away. I need to see the reckoning. I need to see what happens when the house of cards comes down, because if Vee finds out what they've done to her, it will burn them both to ash.
+***
 
 GATE 43 — Four
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 HEAT: 2
-ROMANCE: 0
-ALMOST-STOPPED: "She sat down next to me failing to hide her grin, being modest about it, still full of your come."
-WHY: It made my skin crawl with pure betrayal—the sheer violation of Vee's privacy and trust being turned into dirty talk between the two people she adores most. But the sheer narrative velocity and the sheer dread of the impending explosion make it impossible to put the book down.
+ROMANCE: 1
+ALMOST-STOPPED: none
+WHY: It made my stomach knot up in pure horror on Vee's behalf, but the psychological tension is so suffocatingly high I couldn't look away if I tried.
