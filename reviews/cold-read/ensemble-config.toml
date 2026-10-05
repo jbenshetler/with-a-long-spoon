@@ -47,6 +47,13 @@ models = [
   # romance-graduate the persona was written for, and it is cheap on the
   # subscription lane.
   "claude-fable-5-1",
+  # Reinstated 2026-10-05 (author ruling), reversing the 2026-09-26 retirement.
+  # The earlier trial was dropped as "not different enough from the other Opus
+  # lanes"; this lane is a different instrument because its memory is
+  # BOOTSTRAPPED FROM claude-fable-5-1 rather than minted natively — it reads
+  # with fable's carry-forward, not its own. Bootstrap checkpoint: a copy of
+  # claude-fable-5-1/dag/<persona>/ck-ch040.md, provenance recorded in the file.
+  "claude-opus-5-5",
 ]
 # Off the capture roster. Every retired model's gates were erased from the tree
 # (`claude-fable-5` was kept as history for part of 2026-09-26, then erased with
@@ -61,9 +68,6 @@ retired = [
   "kimi-k3",
   "glm-5.3-flash",
   "gpt-6-astra",
-  # Trialled one round 2026-09-26; not different enough from the other Opus
-  # lanes to keep (author ruling). Its gates were erased with the ruling.
-  "claude-opus-5-5",
 ]
 
 # ---------------------------------------------------------------------------
