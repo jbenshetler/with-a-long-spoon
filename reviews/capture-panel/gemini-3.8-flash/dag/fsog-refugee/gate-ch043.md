@@ -1,26 +1,32 @@
-*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3c5bf21ec9e8 · 2026-10-05*
+*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 4380a14de9b1 · 2026-10-05*
 
 REACTION
 
 I feel sick. I actually feel physically sick to my stomach.
 
-This entire time, in the back of my head, I kept clinging to the hope that maybe the "arrangement" between Pace and Randi was something older, something cooled off into a weird, distant co-conspiracy, or that Pace was pulling away from it because he was falling for Vee. But no. He puts the heat up hours ahead of time for Randi just like he does for Vee. He takes Randi against the kitchen counter, takes her in the bed, takes her over the couch until they're slick with four rounds of sex, and all the while they are *talking about Vee*.
+I knew the jacket said there was a third game. I knew Pace and Randi had set this up. But seeing it happen—seeing them in *his* house, in the exact same rooms where he just fed Vee and cleared a drawer for her hairpins, fucking on the furniture while talking about her like a prize heifer they’re grooming for slaughter—is sickening. It completely poisons everything that came before it.
 
-"For the threesome. For when she's ready. Somebody has to get her used to my mouth."
+"That minx cannot keep her own face. She sat down next to me failing to hide her grin, being modest about it, still full of your come."
+"What did you do?"
+"I leaned over and told her she'd come to class still full of you."
 
-God. It’s so dirty, and not in the way that makes your skin flush—in the way that makes you want to scrub yourself raw. Randi sitting there bragging that Vee came to class "still full of your come," recounting the kiss on the sidewalk to get Pace hard, treating Vee's heart and her fragile, blooming, twenty-one-year-old hunger like prep work. "It’s not a treat, it’s *work*." She literally called kissing this sweet, trusting girl *work* to get her primed for their bed.
+They are laughing at her. They are getting off on her innocence, on her total, defenseless trust. Vee sat in that booth in chapter 42 pouring her whole bruised, starved heart out—talking about how she finally sleeps, how his attention makes her feel like a person instead of just a body—and Randi immediately brought all of those sacred, agonizing confessions straight back to Pace so they could use them as dirty talk while he bent Randi over the back of the couch.
 
-And Pace! Pace, who I loved, who cleared his top drawer, who kissed every spot he placed her on the bed, who held her through the spanking—Pace is right there pumping into Randi, asking "Do you like it? Kissing her?" like it’s a spectator sport, enjoying the arithmetic of it. "I pointed. I watched your face." They picked her out like a sweater on a rack.
+And Pace. God, Pace. The man who lifted his hand the second Vee said *don't*. The man who made sure the wine and the lemon went into the pan just right. He stands there fucking Randi from behind, asking her "Do you like kissing her?" and "Does she want it?" while Randi admits she's doing "the work" to get Vee ready for their bed. "For the threesome. For when she's ready."
 
-What breaks my heart into absolute pieces is that Vee *just* told Randi, with tears in her eyes over eggs Benedict, that she felt looked at for *herself*, not like a body with a girl attached. She told Randi about sleeping whole nights for the first time in her life. And Randi turns around, brings that exact tender confession into Pace's living room, and uses it as dirty talk while she’s on her knees on his couch.
+This isn't dominance. This isn't tender care. It’s a con. It is an elaborate, calculated emotional ambush. Vee thinks she found a man who loves her and a glamorous friend who sees her, and neither of them is real. They are hunting her. They picked her out of a crowd—"By the time the doors came up I knew what you were looking for"—and they are systematically conditioning her body and breaking down her boundaries without her having a single clue what she's actually agreeing to.
 
-I’m terrified for Vee. She has no idea she's swimming in a tank with two sharks who are comparing notes on how tender the meat is getting. It is masterfully written, it is undeniably intense, but the sheer betrayal sitting on that living room couch makes me want to scream at her to pack her bags and run back to Cassie.
+Where is her consent in this? She doesn't have any! She is giving enthusiastic consent to a ghost, to a fiction they manufactured between the two of them. You cannot have "real consent" when the entire premise of the relationship is a staged lie.
+
+I am disgusted by Pace. "Then I'll be careful with you," he tells Randi, wrapping her in a blanket on the couch. He is tender with the woman holding the scalpel, while the girl who literally just promised him she’d give him all of herself is driving home humming, utterly clueless. It’s vile. I want to look away, but I also desperately need to see the moment Vee finds out and burns their entire smug, manipulative world to the ground.
+
+***
 
 GATE 43 — Four
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 2
+HEAT: 0
 ROMANCE: 0
-ALMOST-STOPPED: "For the threesome. For when she's ready. Somebody has to get her used to my mouth."
-WHY: Seeing the premeditated grooming laid completely bare between the two of them made my stomach turn; it borders on the exact kind of engineered disregard I hate. But the dramatic tension is so suffocating, and the need to see Vee survive this collision is so high, that there is no way I'm putting the book down now.
+ALMOST-STOPPED: "'For the threesome. For when she's ready. Somebody has to get her used to my mouth.' She was shoving back onto him and not waiting to be given it. 'It's not — Pace — it's not a treat, it's work—'"
+WHY: The sheer calculated betrayal of this made me want to throw the book across the room; they are treating a starved, vulnerable girl's emotional awakening as a team-building exercise and foreplay. I am furious, but my NEXT is a 10 purely because I cannot stop until the truth detonates and Vee sees what they've done.
