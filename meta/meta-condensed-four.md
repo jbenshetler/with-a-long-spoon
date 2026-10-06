@@ -22,10 +22,15 @@ Vee talked for twenty minutes about his cooking, said her mouth had been asleep 
 was born, and said she *sleeps* out here, whole nights, having not known she could.
 
 **The pointing game, reopened.** Randi asks how he knew to point at Vee. He didn't — he
-read *her*: the hand going cold at the two who went everywhere together, the laugh at the
-one running the room, the breath changing and the *maybe* at the quiet one. *"I'd have
-taken you right there on the quad, if you'd let me."* And the part that was not method:
-her face said yes before the rest of her got there.
+read *her*: the hand going slack at the two who went everywhere together, the breath
+changing and the *maybe* at the girl on the library steps, the fast *God, no* at the one
+running the room. He knew when Vee came out of the doors laughing. But the reading was
+never the whole of it, and the rest he keeps: he had never once pointed at a woman he did
+not want, and the picture that arrived on the quad was the two of them in his bed — Randi
+bound and sleek against Vee's sprawl, himself kissing the redhead with his hand on Randi's
+face. He had already chosen; the pointing was to learn whether they had chosen the same.
+*"I'd have taken you right there on the quad, if you'd let me."* And the part that was not
+method: her face said yes before the rest of her got there.
 
 **The leak.** Pace says Vee waits all week for the brunches — the only thing she will
 leave the house for on a weekend — and the compliment opens Randi up. He asks whether Vee

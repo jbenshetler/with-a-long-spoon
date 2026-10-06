@@ -82,6 +82,43 @@ that detail is what makes the threesome's redirect-the-mouth choreography possib
   precisely."* Ten weeks of Randi wanting Vee were being compressed into four. **Both months
   must stay named**; the mention order is reverse-chronological (hair, then quad) because
   each is anchored to its topic, and naming both is what makes the sequence legible.
+- **Pace's recap of the game must end on a refusal, and Vee is named by her laugh
+  (author 2026-10-05).** The first version listed the candidates out of canon order and
+  closed on the *maybe* — *"when I got to the quiet one your breath changed"* — so the
+  only positive signal in the list sat directly in front of *"I pointed at her,"* and all
+  six capture models read the library-steps girl as Vee (`claude-fable-5-1`: *"when he got
+  to the quiet one her breath changed. That's Vee"*; `gemini-3.8-flash` went to *"the
+  quiet redhead"*). The antecedent genuinely pointed wrong. Three standing requirements:
+  the candidates run in `{{The Pointing Game}}` order so the list **ends on the fast *God,
+  no*** at the room-runner; the *maybe* girl is tagged by **location** (the library steps),
+  never by temperament; and Vee is identified by **the laugh** — *"her head thrown all the
+  way back, laughing"* — because that is who she was on the quad (`the-pointing-game.md:135`:
+  laughing "like a person who had genuinely forgotten... that she could be seen"), and
+  *quiet* is not. **"Quiet" is barred as a descriptor of Vee here.** Randi's hand goes
+  **slack**, not cold: interest draining, not withdrawal.
+- **Pace's own lust must be in the choice (author 2026-10-06).** The first version had him
+  answer *"I was reading you and not them,"* and stopped there — which makes him select a
+  woman for a threesome he will be in with no appetite of his own, and the con only means
+  something if his choices are where Randi's want and his own land on the same girl. The
+  rule: **he never pointed at a woman he did not want.** Rendered as withheld interiority,
+  never as dialogue — out loud he keeps giving Randi the generous answer (*"That part was
+  all you"*), which on reread is a gift he hands her while sitting on the fact that he chose
+  first. Two constraints on the private picture: it is of **the two of them together**, so
+  the lust is for the configuration rather than for Vee (this is what protects
+  `meta-arch-vivienne.md:119` — his blindness is to the cost, never the want; a Pace who
+  imagines himself *alone* with Vee has begun preferring her, which is a different book
+  arriving early); and **Randi must stay tactile in the final clause** — his hand on her
+  face, which is `the-pointing-game.md:33` surfacing from that same afternoon, and which is
+  him being tender to the made surface (*"put her face back on,"* `the-pointing-game.md:83`)
+  believing it is her. The two-part shape — the girls together, then him with the
+  redhead — is the series arc in miniature and is a plant, not a foreshadow: nothing in it
+  decodes forward, and *"nothing at all between them"* turns **ironic** at the reveal rather
+  than prophetic.
+- **Contrast axes for the pair: narrow/lavish, sleek/loose, black/red, bound/uncontained**
+  (`meta-craft-randi.md:140`). Skin is **not** an axis — Randi is pale, Vee is warm peach
+  (`meta-arch-vivienne.md:49`); there is no contrast to spend there. And **copper is
+  sun-only** (same line: the highlights spark to copper *only in direct sun*), so copper
+  belongs to the daylight sighting and plain red to any indoor picture.
 - **Nothing here may touch the PPP/MIRA discovery** — that is {{The Outlier}}, two days
   later.
 

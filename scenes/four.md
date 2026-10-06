@@ -40,9 +40,9 @@ He waited.
 
 He gave it a moment. It was a fair question and it deserved the true answer rather than the quick one.
 
-"You taught me," he said. "Not with anything you said. Your hand went cold on mine at the two that went everywhere together. You laughed at the one running the room. And when I got to the quiet one your breath changed and you gave her a *maybe*." He had been reading her and not them by the end of it. "So by the time the doors came up I knew. I pointed at her and watched your face."
+"You taught me," he said. "Not with anything you said. Your hand went slack on mine at the two that went everywhere together. The girl on the library steps changed your breath — you gave her a *maybe*. Then I pointed at the one running the room and you said *God, no*, fast." He had been reading her more than them by the end of it. He did not add that he had taken his own time over every one of them, or that he had never once pointed at a woman he did not want. "So when she came out of those doors with her head thrown all the way back, laughing, I knew. I pointed at her and watched your face."
 
-A beat.
+What he left out was the rest of it. The wind had been in all that hair, striking copper out of it in the four-o'clock sun, and she had taken the whole quad with her. Then the picture came whole: the two of them in his bed, Randi narrow and sleek and bound against all that sprawl of height and curve and loose dark red, her black hair and all that red together on his pillows — and himself kissing the redhead with his hand on Randi's face, nothing at all between them. He had gone hard on a public lawn with Randi's hand in his. He had already chosen; the pointing was only to find out whether they had chosen the same.
 
 "I'd have taken you right there on the quad, if you'd let me."
 
