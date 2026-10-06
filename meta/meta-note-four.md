@@ -119,6 +119,30 @@ that detail is what makes the threesome's redirect-the-mouth choreography possib
   (`meta-arch-vivienne.md:49`); there is no contrast to spend there. And **copper is
   sun-only** (same line: the highlights spark to copper *only in direct sun*), so copper
   belongs to the daylight sighting and plain red to any indoor picture.
+- **Pace does not fold on consent (author 2026-10-06).** The chapter has two consent
+  challenges and they must resolve the same way. The first version had him win the later
+  one (*"That isn't what I asked"*) and lose the earlier one — Randi's *"stop checking the
+  gauge… don't ask me in that voice"* was met with silence and she closed the subject "as
+  though it had been a draft she had thrown out." Spine without argument: he states a
+  **limit**, not a counter-argument, so there is nothing to argue with — *"She consents —
+  every step of the way — or I'm done"* — then takes her out of the line of fire
+  (*"It isn't you I'm checking on"*). He **takes his voice down, not up**. `consents` is a
+  deliberate one-time register break: it is the only place he speaks the rule instead of
+  applying it, everywhere else his grammar is *"Does she want it?"* — and it is the thesis
+  in the mouth of the man it convicts, since he demands moment-to-moment consent while
+  standing inside a structural deception he will not look at (`meta-arch-vivienne.md:119`).
+  `or I'm done` takes **no object**; the vagueness is the force, and by the time it would
+  cost him Vee he will not be able to say it. Randi then yields the true answer plainly
+  (*she wants it, she's happy, she's choosing it*) and comes back **solicitous — chastened
+  and physically apologetic, never fawning**: she does not apologize in words (she cannot
+  ask and cannot receive-as-needing), she puts her mouth to his jaw once and lays two
+  fingers alongside the scratch she made that afternoon. And she gave the answer to the
+  Saturdays, not to him, and he takes it anyway — **stated once and not glossed.** The
+  first version added *"he thought"* and *"He knew the difference"*, and
+  `claude-opus-5`/romance-graduate and `claude-opus-5-5`/romance-graduate both read the
+  explanation as the book checking on them (*"I'd have had it without the footnote"*;
+  *"I'd have got there on my own"*) while `claude-fable-5-1`/fsog took the perception
+  itself as the chapter's cruelest honest move. The content lands; narrating it is the tax.
 - **Nothing here may touch the PPP/MIRA discovery** — that is {{The Outlier}}, two days
   later.
 

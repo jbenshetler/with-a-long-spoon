@@ -78,7 +78,25 @@ Randi's head came around.
 
 "Then don't ask me in that voice."
 
-He said nothing, which was the only thing there was to say, and after a moment her shoulders came down off it, and she got up off her end of the couch and came and sat down against him — he had turned sideways with his back to the arm and his legs along the cushions, and she settled in between them with her spine against his chest and the back of her head under his jaw, and pulled his arms around her low and left them there, his hands on her stomach through the silk. The thing was over as though it had been a draft she had thrown out.
+He took his voice down, not up.
+
+"She consents — every step of the way — or I'm done." He let it sit, looking at her. "It isn't you I'm checking on."
+
+Randi said nothing for a moment. Her hand opened on the end of the couch arm and lay there.
+
+"She wants it," she said, and the gloss was off it. "She's happy. And she's choosing it — every Saturday she chooses it."
+
+"All right," he said.
+
+She got up off her end of the couch then and came to him — he had turned sideways with his back to the arm and his legs along the cushions, and she settled in between them with her spine against his chest and the back of her head under his jaw, and pulled his arms around her low and left them there, his hands on her stomach through the silk. On the way down she put her mouth once to the line of his jaw, which was as near as she came to saying it. She had not given the answer to him. She had given it to the Saturdays, and he took it anyway.
+
+Then she reached up behind her without looking, found the scratch she had put on his shoulder that afternoon, and laid two fingers alongside it.
+
+"Does that hurt?"
+
+"No."
+
+"Good," Randi said, and left her hand where it was.
 
 "She waits all week for those," he said.
 

@@ -28,7 +28,10 @@ Every item below was raised by exactly one reader.
   Named as earned by the reader who named it. One reader. Stands. **This is the note to
   act on if a later pass ever wants to loosen a joint** — not any single line.
 - **"like a hand laid down on a table" / "like a draft she had thrown out" stack close** —
-  `claude-opus-4-8`, who adds *"I didn't resent it."* One reader. Stands.
+  `claude-opus-4-8`, who adds *"I didn't resent it."* One reader. Stood. **Now moot** — the
+  draft simile was cut 2026-10-06 when the gauge exchange was recast so Pace holds the
+  consent line instead of going silent; the stack no longer exists. Not acted on; resolved
+  incidentally.
 - **The title primes counting** — `gpt-5.5`, who files it himself as *"friction, not a
   flaw."* Stands.
 
