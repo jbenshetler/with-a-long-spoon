@@ -21,7 +21,6 @@ models = [
   "claude-opus-5",
   "gpt-5.6-sol",
   "gpt-5.5",
-  "kimi-k3",
   "glm-5.3",
   "deepseek-v4-pro-0813",
 ]
@@ -33,7 +32,14 @@ fast = ["claude-opus-4-8", "gpt-5.6-sol"]
 # `reviews/cold-read/claude-fable-5/checkpoints/` is KEPT until the `core`
 # ensemble is rebuilt on claude-fable-5-1 — the shipped manifests still hash
 # against them.
-retired = ["claude-sonnet-5", "gpt-5.6-terra", "qwen3.8-max-0902", "glm-5.3-flash", "claude-fable-5"]
+# `kimi-k3` deprecated from the cold panel 2026-10-06 (author ruling): the model
+# has to be retried too often to be worth a lane. Its last two runs on `four`
+# both returned with ALL structured fields missing and the harness correctly
+# refused to write them, leaving the review two revisions stale. Unlike the
+# other retirees its reads on disk are KEPT (`reviews/cold-read/kimi-k3/`) —
+# they are a valid record of what it read, just not current. It was already off
+# the `[capture]` roster.
+retired = ["claude-sonnet-5", "gpt-5.6-terra", "qwen3.8-max-0902", "glm-5.3-flash", "claude-fable-5", "kimi-k3"]
 
 [capture]
 models = [

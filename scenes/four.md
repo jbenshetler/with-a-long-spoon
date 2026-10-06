@@ -80,7 +80,7 @@ Randi's head came around.
 
 He took his voice down, not up.
 
-"She consents — every step of the way — or I'm done." He let it sit, looking at her. "It isn't you I'm checking on."
+"She consents — every time — or I'm done." He let it sit, looking at her. "It isn't you I'm checking on."
 
 Randi said nothing for a moment. Her hand opened on the end of the couch arm and lay there.
 

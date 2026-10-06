@@ -1,18 +1,22 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 96a367c31a8b · 2026-10-06*
+*capture-dag-v2-rich · gate ch043 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 94eb3254bb6a · 2026-10-06*
 
 REACTION —
 
-Oh, this chapter made my stomach drop in the best/worst way. Finally being inside Pace and Randi together is exactly as charged and morally complicated as I wanted, and worse than I wanted, because they are not casual about Vee. They are not playing with a doll. They are both undone by her, and that almost makes it scarier.
+Oh. Oh, I am in trouble with this book.
 
-Randi saying Vee came to class still full of him is filthy, yes, but it’s also the whole problem in one sentence: Vee thinks she is carrying private afterglow into stats, and Randi is reading her like a marked page because Pace is already part of the conversation. That makes me hot and furious at the same time. My exact toxic-reader disease is that I was absolutely lit up by it while also wanting to drag Vee out of the booth and ask her if she understands who is watching.
+I knew intellectually that Pace and Randi were together, obviously. The jacket told me, the notes told me, the whole book has been letting me feel the outline of it like a hand under a cloth. But being inside the room with them is different. It is worse. It is hotter. It is much, much sadder than I expected.
 
-And Randi. God. Randi has been performing control for so long that watching it crack is delicious. “I’m doing it for you” was such a liar’s fig leaf I almost laughed. She wants Vee. Not theoretically, not as prep, not as a service to Pace’s threesome fantasy. She wants that girl’s warm body and mouth and trust and she has been keeping herself fed on Saturday goodbyes. The way she tries to stuff it back into the “for us” box after saying it plain is so revealing. Too late, babe. We all heard you.
+Because they are not scheming like villains. That would be easier. They are lovers who know each other terrifyingly well, and they are talking about Vee like she is a shared hunger, yes, but also like she is a real person whose sleep matters. That “Is she all right?” from Pace stopped me cold. I hated that I believed him. I hated that his ethical line is real and insufficient at the same time. “She consents every time or I’m done” is exactly the kind of sentence that makes him harder to dismiss, and also: she cannot consent to the third game if she does not know it exists, Peter. Sir. I am gripping the book.
 
-Pace is still the impossible one. He is the one asking the consent questions, and I believe him. I do. “That isn’t what I asked” is exactly the kind of line that keeps me from writing him off. He is policing the edge Randi is blurring. But he is also inside Randi while they talk about Vee’s mouth and whether she wants the kisses, so let’s not hand him a medal and go home. He sees the ethical shape and still keeps moving inside it. That is the book’s whole electric fence.
+And Randi. God, Randi. This chapter cracked her open in a way I have been waiting for and dreading. She keeps saying it is work, it is strategy, it is for the threesome, someone has to get Vee used to her mouth, and meanwhile she is coming apart because Vee came after the kiss. I almost laughed and then absolutely did not laugh. “I’m inspired by her. God, I want her.” There it is. There it finally is, naked before she can dress it again. For us. When she’s ready. Sure, babe. Sure.
 
-The sex here worked for me because it wasn’t just bodies doing hot things. It was confession under pressure. Randi’s orgasm coming when Pace tells her she doesn’t have to kiss Vee for him? Nasty, perfect, devastating. That’s the real pressure point: permission to want her for herself. And then the softness after, Randi admitting being seen makes her feel real and afraid, nearly got me. I did not expect to feel protective of Randi in the same chapter where I’m also mentally yelling at her to stop stealing kisses from a girl who doesn’t have the whole map.
+The heat in this chapter is feral, but not in the usual romance-novel “look how explicit we can be” way. It is hot because it is emotionally incriminating. Pace asking “Do you like it?” while he’s inside Randi, and Randi trying to lawyer her way out of the truth with her whole body answering for her — that is exactly the thing I keep reading for and almost never get. The sex is doing character work without turning into a thesis. Bless.
 
-I’m also very aware that Vee is absent and everywhere. She is the ghost in the room, except alive and trusting and smiling in her Corolla. This chapter made the third game fully visible, and now I’m just sitting here with my thumb hovering because the reveal is going to hurt. It has to. There is no way to keep the heat and not pay the bill.
+And the cruelty of Vee being absent and completely present. She is at brunch, in the classroom, in Randi’s hands, in Pace’s imagination, in the wet hair, the coffee cup, the goodbye kiss. She thinks those Saturdays are hers. Randi thinks they are hers. Pace knows they are Randi’s and tells her so, which is somehow tender and awful. They are both loving Vee through a one-way mirror.
+
+The last section got me harder than I expected. Randi saying nobody knows her like Pace does, that it makes her feel real and frightens her — now I understand why she is so dangerous. She is not just bored and predatory and glamorous. She is starving too, just in a sharper dress. Pace sees her, and Vee makes her feel. That is a disastrous combination. Delicious. Terrible.
+
+I would text a friend: “THE WOMAN SAID IT WAS WORK AND THEN CAME. I need to lie down.”
 
 GATE 43 — Four
 DECISION: CONTINUE
@@ -20,5 +24,5 @@ CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "She consents — every step of the way — or I'm done."
-WHY: That line almost made me put the book down for one second because it names the exact lie-adjacent place they are standing in: yes, Vee consents to each visible step, but not to the hidden architecture. But the chapter is too alive to leave. Randi finally broke open, Pace finally showed the machinery from his side, and I need the next chapter immediately.
+ALMOST-STOPPED: "She consents — every time — or I'm done."
+WHY: That line almost made me throw the book because it is so nearly right and so catastrophically incomplete. But the chapter knows that; it lets the tenderness and the ethical failure sit in the same room, sweating. I need the next chapter immediately because now Randi’s wanting is out loud, even if she tried to stuff it back into “for us,” and Vee is the only one who doesn’t know what room she’s already in.

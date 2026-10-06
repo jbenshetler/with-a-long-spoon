@@ -120,7 +120,11 @@ that detail is what makes the threesome's redirect-the-mouth choreography possib
   sun-only** (same line: the highlights spark to copper *only in direct sun*), so copper
   belongs to the daylight sighting and plain red to any indoor picture.
 - **Pace does not fold on consent (author 2026-10-06).** The chapter has two consent
-  challenges and they must resolve the same way. The first version had him win the later
+  challenges and they must resolve the same way. **`every time`, never `every step`**
+  (author 2026-10-06): *step* read as a step in a program — `gpt-5.6-sol`/rg turned it into
+  *"She consents to the steps she can see"* — which puts Pace in the register of the thing
+  he is guarding against. And not *all of it*: that would have him demanding **structural**
+  consent, moving him off the moment-to-moment demand the architecture defeats. The first version had him win the later
   one (*"That isn't what I asked"*) and lose the earlier one — Randi's *"stop checking the
   gauge… don't ask me in that voice"* was met with silence and she closed the subject "as
   though it had been a draft she had thrown out." Spine without argument: he states a
