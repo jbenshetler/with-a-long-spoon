@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch073 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 535f0119d805 · 2026-09-19*
+*capture-dag-v2-rich · gate ch077 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha d281dca7ae5b · 2026-09-19*
 
-REACTION
+REACTION:
 
-I feel like I need to smoke a cigarette and I don't even smoke. My god.
+Holy. Shit.
 
-First of all: *holy shit.* The sheer psychological audacity of this chapter. Helen Rivers is writing circles around every erotic thriller and contemporary romance on the market right now. This is a masterclass in tension, in dramatic irony so thick you can barely breathe through it.
+My jaw literally dropped. The sheer, breathless, diabolical AUDACITY of this chapter. I feel sick to my stomach and utterly electrified at the exact same time. This is dark, twisted, psychological high-wire erotica at its absolute peak.
 
-Vee is lying in the dark, touching herself to a topless picture of Randi—to the *tan lines*, to the *boundaries*, to the white space where the sun didn’t touch—and she gets caught red-handed. Literally wet-handed. And the way Pace catches her? He doesn't yell. He doesn't get frantic. He plays her like a cello. *“May I kiss your fingers?”* and then going for the hand she had inside herself. The absolute ice-water control of this man!
+First of all, the structure of this ambush: Pace putting on Vee’s green sheets, waiting for Vee's barefoot surprise, and in walks *Randi*, completely naked, brazen, posing on the bed meant for the other girl. And the way she manipulates him! Setting the fake ticking clock—*you have one hour before she gets here*—to force him into a brutal, hasty, high-stakes scene. She didn't just want him to fuck her; she walked in there begging to be *punished* for what she's doing to Vee, for what she's feeling for Vee. The clamps, the spanking, the tears—Randi coming apart because she can't bear the weight of her own obsession. And then Pace dropping the absolute hammer: *"She's perfect... For your first woman."* God, the way that shattered Randi completely! He gave her the exact wound she was clawing him for.
 
-And because we, the readers, know chapter 61—because we know Pace and Randi have fucked, because we know Randi rode him while describing holding Vee’s breasts, because we know this entire trap was co-engineered—watching Pace extract this confession is sickening and scorching in equal measure. He brings back the tollbooth! But this time, it’s not just Vee admitting she liked a kiss Randi gave her. He holds her an inch off his cock and forces her to confess *active, predatory desire*. *“I wanted to be the one doing it... I wanted her in my mouth. Her nipple.”*
+And then the reveal that there was never a clock at all. Randi got Vee drunk on four mimosas, tucked her sweet, trusting ass into bed, and drove straight to Pace's house to take her place on her sheets. It is so feral, so predatory, and yet so completely desperate. Randi is literally drowning in her feelings for Vee, and the only life raft she has is fucking the man who shares the obsession.
 
-The absolute *shift* in Vee’s appetite right there! It’s not "I'm a passive girl who got swept up in a sorority bit." She wants to consume Randi. She wants to be the one leaning down. And the second she gives him that truth, he buries himself in her and drives them both over the edge. He gave her the orgasm only when she owned her hunger for the woman they are both obsessed with. It’s diabolical.
+But the morning scene... I felt like I couldn't breathe. Vee calling him, hungover, sweet, utterly blind, genuinely gushing about how *good* Randi was to her—*"I don't know what I'd do without her"*—while Randi is literally under the covers, taking him into her mouth. And not just blowing him, but *cleaning her own night off of him so he's washed and ready for Vee.* That is so profoundly twisted. It's degrading, it's reverent, it's horrifying. Pace lying there holding the phone away, catching his breath while the girl he cherishes praises the girl who is swallowing him whole.
 
-And then the quiet afterward. That is where the writing elevates from incredible erotica to brilliant literature. The sudden, suffocating realization that her old excuses don't work anymore. *“It was a picture, Pace... my sex brain...”* and it just dies in the air. Because you can't laugh off *"it wasn't you"* when you said it with your fingers soaked in your own arousal while staring at your best friend’s bare chest.
+Pace turning the knob to "Speed Wash" to erase the night from the green sheets before Vee gets there... I have chills. Vee has no idea what kind of sharks she is swimming with. She thinks she's in a sweet, tender college romance, and she is at the center of an absolute psychological bloodbath. I need the next chapter immediately.
 
-Pace giving her that quiet *“Okay.”* Giving her no wall to hide behind, but no anger to push against either. He just leaves her out in the open with her own appetite. And that ending—Vee staring at the blinking cursor, turning the phone face-down, feeling the permanent weight of the lie she chose to keep, counting the ten days until Tuesday.
-
-The bomb is built. The fuse is lit. When Randi gets back from that island, the tectonic plates under these three are going to shatter.
-
-***
-
-GATE 73 — Postcard
+GATE 74 — In Her Place
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The absolute psychological perfection of this scene—the finger-kissing, the tollbooth extraction, and Vee finally admitting she wants an active mouth on Randi—left me completely breathless. The dramatic irony is dialed to pure nuclear heat.
+WHY: The tension is unbearable in the best way possible; Randi blowing Pace to literally wash her scent off him while Vee is on the phone thanking her for being such a good friend was jaw-droppingly depraved and brilliant.

@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch056 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha c23f4d1deeee · 2026-09-19*
+*capture-dag-v2-rich · gate ch060 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b9d0068c9a3c · 2026-09-19*
 
-REACTION
+REACTION:
 
-Oh, this chapter felt like taking a deep, clean breath of cold winter air after being locked in a hot room. I loved every single second of it.
+I need to scream into a pillow. I am genuinely, violently stressed out right now.
 
-After the sheer, breathless intensity of Chapter 52 (her flashing him in the cold, him dropping straight to his knees—good *Lord*) and the slow, luxurious intimacy of Chapter 53 with the persimmons and the cashmere and him wiping his mouth so respectfully after she panicked, seeing Vee back in the real world with her girls is pure medicine. It’s what Fifty Shades and all its knockoffs *always* forgot: the heroine needs a life outside the man's orbit, or the romance suffocates under its own weight.
+First of all: Dr. Marsh’s opening lecture about *hau*—the spirit of the giver that lives inside a gift, pulling it back toward its source so that no gift is ever truly free? That is the most menacing, brilliant thematic shot across the bow this author has ever fired. You’re telling me that while Vee is sitting there wearing the coat, talking about the cashmere blanket, and letting Randi buy her wine, she’s literally studying the invisible ropes tying her to two people who orchestrated her entire life? Terrifying. Absolutely chilling.
 
-Watching Vee take Kayla and Meg out to a gorgeous, sunlit breakfast—treating them like the grown, confident woman she’s becoming—was just wonderful. Kayla clutching her heart over peanut butter crackers and then shrieking so loud the whole restaurant turned around when Vee admitted she flashed him? Pure gold. "You were standing there *talking to me about my socks!*" I actually laughed out loud in bed reading that. It’s so real. That’s exactly what your loud, chaotic friend does when you drop a bomb like that over mimosas.
+And then this dinner. God, this dinner.
 
-And Meg—god, bless Meg. "That's a big apology... Sometimes you have to make it right in their language." Hearing Meg validate it, framing it not as a woman degrading herself, but as a bold, intentional gesture to bridge a fight, grounded the whole crazy coat stunt in something deeply human.
+I was having so much fun watching Vee finally get to brag about her weekend. The "pleasure princess" bit, the midnight pancakes, the absolute sheer bravado of flashing him on the porch—Vee is so happy, so glowing, so entirely in her element. But watching her feed every single private, sacred millimeter of her and Pace’s intimacy to Randi is like watching someone casually hand over the launch codes. And Randi! Sitting there in her cashmere and lace, drinking red wine, gently stoking the fire, pulling every detail out of Vee like a master interrogator—and knowing what *we* know from Chapter 47, that Randi is hopelessly, obsessively in love with her!
 
-But what's really making my heart beat fast is Wednesday night. Pace—stoic, exact, intensely private Pace who broke down and couldn't handle Chili's—is voluntarily stepping out of his sanctuary to take *all* her people to dinner. Kayla, Meg, Cassie, Theo... and Randi.
+The bathroom scene made my stomach completely drop. Vee going into a cold restaurant stall to get off because she is so wound up from retelling the story—and right at the peak, it isn’t Pace’s face she sees behind her eyes, it’s *Randi’s*. *"Because that had been about Pace, obviously. All of it. About Pace."* Oh, Vee. Oh, honey. You are in so much deeper than you know. You are swimming in an ocean with two sharks who both adore you, and you think you’re just having a fun semester.
 
-Randi.
+Then the walk outside. When Randi pointed to her neck, and Vee just—casually, affectionately—bent down and kissed it, and Randi *flinched*? My jaw hit the floor. That wasn't a tickle! That was a woman who is hiding an agonizing, burning torch for her best friend getting touched exactly where she wants to be touched, completely unexpectedly, and having her entire nervous system short-circuit! Randi almost dropped the mask right there on the sidewalk!
 
-My stomach just did a hard flip. Randi, who is secretly, silently in love with Vee. Randi, who gave Vee those absurd heels specifically to send her into Pace's bed. Randi, who went dancing with Pace before Thanksgiving. And now Pace is bringing them all together into one room, under the lights, to claim Vee publicly as the center of his life. It’s the ultimate gesture of him tearing down his walls for her—and at the exact same time, it’s an absolute powder keg. Wednesday is going to be magnificent or catastrophic, and I need to be seated for it immediately.
+And now tomorrow is Wednesday. Tomorrow night is the dinner. Pace, Randi, Cassie, Kayla, Meg—all of them in the same room. Pace, who knows Randi is lethal and saw her look at Sheri like a "harem applicant." Randi, who is quietly unraveling with longing for Vee. And Vee, floating in the middle, completely blind to the bomb ticking under the table. I can't breathe. I need the next chapter right this second.
 
-GATE 56 — Across
+***
+
+GATE 57 — Covering
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The banter with the girls was absolute perfection, and the anticipation for this Wednesday dinner with Pace, Randi, and all her friends in one room has me practically vibrating.
+WHY: The tension is coiled so tight it’s humming. The psychological layers—Vee getting off to the memory of Randi’s face while swearing it’s about Pace, Randi flinching when Vee kissed her neck, and the giant group dinner looming tomorrow—make it completely impossible to put this book down.

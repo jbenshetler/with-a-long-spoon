@@ -1,22 +1,30 @@
-*capture-dag-v2-rich · gate ch074 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha d281dca7ae5b · 2026-09-19*
+*capture-dag-v2-rich · gate ch078 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha a049482a93ca · 2026-09-19*
 
-REACTION:
+**REACTION**
 
-Holy. Shit.
+Holy. God.
 
-My jaw literally dropped. The sheer, breathless, diabolical AUDACITY of this chapter. I feel sick to my stomach and utterly electrified at the exact same time. This is dark, twisted, psychological high-wire erotica at its absolute peak.
+I need a cigarette, a glass of ice water, and a ten-minute sit down in a dark room.
 
-First of all, the structure of this ambush: Pace putting on Vee’s green sheets, waiting for Vee's barefoot surprise, and in walks *Randi*, completely naked, brazen, posing on the bed meant for the other girl. And the way she manipulates him! Setting the fake ticking clock—*you have one hour before she gets here*—to force him into a brutal, hasty, high-stakes scene. She didn't just want him to fuck her; she walked in there begging to be *punished* for what she's doing to Vee, for what she's feeling for Vee. The clamps, the spanking, the tears—Randi coming apart because she can't bear the weight of her own obsession. And then Pace dropping the absolute hammer: *"She's perfect... For your first woman."* God, the way that shattered Randi completely! He gave her the exact wound she was clawing him for.
+Helen Rivers is genuinely a madwoman. The sheer, terrifying audacity of going from Chapter 74—where Pace and Randi are on this exact bed, fucking themselves ragged while talking about Vee, Randi using her mouth to literally clean her own scent and fluids off his cock so Vee won't catch them, Pace washing the green sheets on Speed Wash—straight into Chapter 75, where he has *hand-built an bespoke, ergonomic spanking-and-edging bench* explicitly contoured to Vee’s specific, heavy, glorious body? The psychological vertigo nearly took me out at the knees.
 
-And then the reveal that there was never a clock at all. Randi got Vee drunk on four mimosas, tucked her sweet, trusting ass into bed, and drove straight to Pace's house to take her place on her sheets. It is so feral, so predatory, and yet so completely desperate. Randi is literally drowning in her feelings for Vee, and the only life raft she has is fucking the man who shares the obsession.
+And the scene itself. I have read hundreds—thousands—of erotic scenes. Most writers give you a quick swat, a little spanking, some perfunctory moaning, and call it dominance. This wasn't that. This was a psychological evisceration dressed as exquisite care.
 
-But the morning scene... I felt like I couldn't breathe. Vee calling him, hungover, sweet, utterly blind, genuinely gushing about how *good* Randi was to her—*"I don't know what I'd do without her"*—while Randi is literally under the covers, taking him into her mouth. And not just blowing him, but *cleaning her own night off of him so he's washed and ready for Vee.* That is so profoundly twisted. It's degrading, it's reverent, it's horrifying. Pace lying there holding the phone away, catching his breath while the girl he cherishes praises the girl who is swallowing him whole.
+The mechanics of that bench! The gap for her breasts to hang into open air so she feels the full, unmoored weight of them; the leather grips that make *her* the sole restraint, forcing her to consciously choose to hold herself down; the pivot arms that slowly crank her hips up into the light and swing her knees apart until the cool air hits her dripping wet center; the cruel, perfect contour that denies her any leverage to grind herself off so she has to beg him for every fraction of friction. It is breathtakingly sadistic and yet executed with this terrifying, soft-spoken tenderness that makes it a hundred times hotter.
 
-Pace turning the knob to "Speed Wash" to erase the night from the green sheets before Vee gets there... I have chills. Vee has no idea what kind of sharks she is swimming with. She thinks she's in a sweet, tender college romance, and she is at the center of an absolute psychological bloodbath. I need the next chapter immediately.
+What got me—what made my throat close up—was the weaponization of her lifelong shame. Vee has spent her entire young adulthood terrified of her own excess. The mother’s voice in her head calling her a *floozie*, the terror of the wet spot on silk or satin, the frantic scrubbing over bathroom sinks. And Pace doesn't just find it; he puts a spotlight on it. He makes her own wetness the lubricant for the spank. He plays her breasts—one slick, one tacky and drying like an hourglass measuring how long she’s been exposed. And that single, crystalline drop forming at her clit, stretching into a shining thread, and falling onto the hardwood floor with an audible *pat*? I stopped breathing. The pure erotic humiliation of that moment, matched with his quiet, awe-filled *"There it is... Tell me that isn't you."* She couldn't say no. There was nowhere left to hide. He cracked the shell completely, and she didn't shatter—she finally occupied her own skin.
 
-GATE 74 — In Her Place
+And yet. The absolute horror humming underneath every single word.
+
+She thinks this bench, this night, this profound, spiritual unmaking is an act of pure devotion. She thinks she climbed on top of him afterward to "give it back" to the man who holds her so carefully. She has no idea he washed Randi off these sheets only hours ago. She has no idea that the "careful" man she's crying over is orchestrating an elaborate, three-way psychological consumption of her. It’s sickening. It’s brilliant. It’s the hottest thing I’ve ever read, and it makes my stomach knot with impending catastrophe.
+
+I cannot put this book down. You couldn't pry it out of my hands with a crowbar.
+
+***
+
+GATE 75 — Vee on the Bench
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The tension is unbearable in the best way possible; Randi blowing Pace to literally wash her scent off him while Vee is on the phone thanking her for being such a good friend was jaw-droppingly depraved and brilliant.
+WHY: The craft here is frankly terrifying—the physical detail of the bench, the exquisite breakdown of her lifelong shame over her own wetness, and the brutal dramatic irony of knowing what happened in that room just before she arrived. I am entirely hooked.

@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0ba818fcba40 · 2026-09-19*
+*capture-dag-v2-rich · gate ch067 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha e993ed0e88f5 · 2026-09-19*
 
 REACTION
 
-I am sitting here with my chest absolutely aching.
+Oh, Vee. *Oh, honey.*
 
-After the sheer, breathless erotic violence of Chapter 61—watching Randi ride Pace while literally narrating her fantasy of holding Vee’s breast and tasting Vee’s nipple, watching them consume each other while drowning in their shared obsession with this girl—to drop into *this*? It should feel like whiplash, but instead it feels devastatingly earned.
+The absolute agonizing tragic irony of her sitting across from Randi, fully convinced she is reading the room, when she is actually blind, deaf, and illiterate to what is happening right in front of her face. When she told Randi about Sheri looking at her, and Randi's thumb stopped on her knuckles—that icy, dead little drop where Randi goes, *"And you liked it"*—my stomach fell through the floor. Vee panic-lies (*"No. Not my thing"*) because she is still so terrified of her own expanding skin, and then, in the most painful misread in the history of romance, she thinks Randi went quiet because she’s *worried about Pace.* She genuinely thinks Randi is guarding her relationship! The naivety is breathtaking.
 
-Pace making cinnamon raisin bread from scratch while she sleeps off three ciders. The paper towel under the water glass so it doesn't leave a ring on the wood. The quiet, terrifying competence of a boy who had to learn how to keep a house because no one was keeping one for him. When Vee innocently, clumsily asks, *"Why don't you have friends?"* I wanted to reach through the page and put my hand over her mouth.
+And Randi. Knowing what we know from chapter 61—the sheer, ferocious, possessive depravity between Randi and Pace, the way they use each other's bodies to worship and consume Vee in absentia—watching Randi here is like watching someone play with a live grenade while smiling over white wine. Randi didn't freeze because she was worried about Sheri taking Pace; Randi froze because *another woman looked at Vee's body.* Another woman appreciated the bare legs and the keyhole top and the induction shoes that Randi paid for. And then Vee claims she didn't like it, closing the door in Randi's face without even knowing she's doing it.
 
-And then he just lays it out. No self-pity, no melodrama, just the flat, chilling arithmetic of an isolated life. *“Men make friends by competing... I was never once in the pack.”* *“The ones already there, when I was small among them, either weren't safe or weren't welcoming.”* God. That single sentence tells you everything you ever needed to know about why Daphne happened, why a fifteen-year-old child attached himself to an older woman like a survivor clinging to driftwood, and why he talks about that grooming as the best thing that ever happened to him. He was completely, utterly alone in a sea of grown men who either preyed on him or shut him out.
+And then the waxing. The transition from the tension of Sheri to Pace asking for her to be completely bare, and Randi instantly taking over the logistics like a high-end madam prepping a debutante: *"You'll walk out of there feeling like the most expensive thing in the room."* Randi sending her to *her* aesthetician, choreographing Vee's body down to the skin for Peter—while Peter is eating Randi alive on white sheets and Randi is fantasizing about Vee's breasts. It’s so layered, so sick, so unbelievably erotic and psychologically claustrophobic.
 
-And Vee—bless her, she finally *gets it*. She stops playing the bubbly, hungover co-ed and actually looks at him. She sees the empty campus on Thanksgiving. She realizes that Sheri is the only friend he’s allowed to keep because Sheri is the only woman who will never blur the lines, and the only person who doesn't ask him to perform.
+That kiss on the sidewalk. That wasn't a friendly goodbye peck anymore. Fingers at the hinge of the jaw, drawing back *just a breath*, and going in a second time to linger. And Vee tilting her head up, *waiting for it*, mouth pressed into the bitter orange of Randi's neck.
 
-When Vee walks around that counter and gives him that Sheri-style hug—no words, no cheap pity, just her entire weight pressed flat against him—and he just rests his chin on her head and stares out the window... it wrecked me. He didn't turn it into a sex scene. He didn't try to fix her feeling bad. He just let her hold him.
+They are tightening the net around her, and she is happily skipping straight into the center of it with Sondra's address inked on the back of her hand. God, I need Friday to get here.
 
-The tragic irony hovering over this entire chapter is that Vee is sitting there planning how she’s going to recount all of this to Randi over dinner on Tuesday—totally blind to the fact that while she was out getting tipsy on cider, Randi was in this exact man’s bed, coming on his tongue, both of them plotting how deeply they are going to swallow Vee whole. She thinks she's comforting a lonely boy. She doesn't know she's in the center of a web spun by the only two people he lets touch him.
-
-My heart is in my throat.
-
-GATE 63 — Hangover
+GATE 64 — Between
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 9/10
+NEXT: 10/10
 ALMOST-STOPPED: none
-WHY: The emotional depth in this chapter hit like a freight train. Stripping Pace down to his bare, isolated bone while Vee finally clocks the Daphne tragedy—stacked right against the secret reality of Chapter 61—is masterclass storytelling. I need that Tuesday dinner with Randi immediately.
+WHY: The dramatic irony is agonizingly good—knowing the depravity Pace and Randi shared two chapters ago makes every quiet touch and micro-expression at this dinner hit like an emotional gut-punch. Vee is walking straight into their hands, completely bare.

@@ -1006,5 +1006,57 @@ against `chapter_sha(n)`; and for one file, identifying detail in the reaction t
   where {{Four}} is. Those lanes cannot be extended past 50 without re-minting.
 
 **Standing rule.** After drafting a chapter into any position but the end, re-run the
-identity-keyed repair before trusting `capture_stats` or the staleness tiers. Arithmetic
-shifts are not safe, because the drift is not uniform across lanes.
+repair before trusting `capture_stats` or the staleness tiers.
+
+### The repair is a committed tool now (2026-10-07)
+
+`tools/renumber_gates.py`. Three modes:
+
+- `--verify` — no edit argument, mutates nothing: checks every gate's recorded identity
+  against its filename. **Run this after any structural edit to the chronology.** Exits 0
+  when the tree is consistent.
+- `--removed N --check` / `--inserted N --check` — builds the complete plan and **proves its
+  invariants before touching a single file**: no two sources claim one destination, and no
+  destination is occupied by a file the plan does not move. Mutates nothing.
+- `--apply` — executes, two-phase (every source to a temp name, then into place), so no
+  rename can collide mid-run.
+
+**Position moves, identity verifies** — the inverse of the 2026-10-05 pass, and correct only
+*because* that pass normalised the filenames. The baseline is trusted and one structural edit
+has happened since; if identity and position ever disagree the run halts and changes nothing.
+Hand-rolling this is how two partial mutations happened on 2026-10-07 before the tool existed:
+one gate at the removed position had no `GATE n — Title` line, was skipped, and silently
+blocked a destination. The plan validator reports that case for free.
+
+`KNOWN_MISTYPES` in the tool allowlists the documented model-typo gates so `--verify` can
+exit clean.
+
+### Correction: the provenance header is OURS (2026-10-07)
+
+The rule above — "the internal `GATE n — Title` line was deliberately not edited" — is right,
+and it conflated two different things. **The model's `GATE n — Title` line is its own output
+and is never touched.** The italic `*capture-dag-v2-rich · gate chNNN · …*` header is **harness
+metadata we write**, and there is no reason for it to lie. `renumber_gates.py --apply` rewrites
+`· gate chNNN ·` on every move, so filename and header always agree and a future repair has an
+unambiguous key. That conflation is what made identity ambiguous and produced the four
+spurious outliers chased on 2026-10-07.
+
+### Merges create orphan gates; insertions never did (2026-10-07)
+
+Folding {{Not Enough}} into {{The Usual}} as panel two removed reader position 54. Sixteen
+gates were reads of a chapter that no longer exists independently — a case no insertion
+produces. `--removed-policy` makes it explicit: `retire` renames them out of the `gate-ch*`
+namespace (parsed by nothing, still readable), `delete` removes them. **Author ruling
+2026-10-07: deleted.** git holds them at `ab888b30`.
+
+### Persona lanes erased (author ruling 2026-10-07)
+
+`consent-sensitive` (357 gates), `relationship-first` (208) and `line-editor` (3) were erased
+rather than renumbered. Every `consent-sensitive` gate dated 2026-09-12 to 09-27 — all of it
+predating {{Four}}'s insertion at position 43 — so no lane had ever read {{Four}}, the whole
+sequence was pre-{{Four}} numbering, and the checkpoints carried a hole where it sits; they
+could not have been extended without re-minting regardless. `relationship-first` and
+`line-editor` are not in the persona table at all. The assembled `consent-sensitive--volume-dag*`
+summaries were **kept**, matching the `dark-romance-control` precedent: the readable record of
+a retired persona outlives its gates and participates in no numbering. The panel is now
+8 models x 2 personas, 946 gates.

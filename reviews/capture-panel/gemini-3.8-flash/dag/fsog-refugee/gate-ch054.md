@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bff68c2a8905 · 2026-10-07*
+*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1011072a47a5 · 2026-10-07*
 
 REACTION:
 
-Oh, god. *Look at him.* Look at this arrogant, meticulous, brilliant man completely shattered over a bowl of unseasoned boiled chicken, waiting for a car that isn't coming.
+Oh my god. *Oh my god.* My jaw is literally on the floor.
 
-I have spent so many chapters wanting someone to hit him with a two-by-four for his cowardice, for the way he used his incredible physical care as a shield to keep from giving Vee the one thing she actually begged him for. And now we get inside his head the morning after, surrounded by the smell of bleach and stale whiskey vomit, and the sheer, pathetic reality of him just breaks open.
+First of all: Vee taking Randi’s face in both hands and kissing her in that foyer. *Vee initiated it.* After four months of Randi circling her, choreographing the steps, leaning in, calculating every inch—Vee turned around from the door, walked back, and kissed her out of sheer, overflowing emotion because she couldn't leave without giving something back. And Randi standing there alone with the back of her hand pressed to her mouth like a stunned teenager, laughing an idiotic little laugh in an empty hallway? That cracked Randi wider open than anything in Gstaad. The sheer erotic charge of that moment didn't come from nudity or dirty talk; it came from the fact that Vee did it purely on her own nerve, and Randi's entire polished, manipulative game plan just blew up in her face because her heart (and her body) actually caught up to the scheme.
 
-*Daphne.* Of course. It’s always the first one, isn't it? The one who taught you where to stand when you didn't belong anywhere, the one who took the whole world with her when she walked out. And because he’s a mathematician, he built an entire emotional formula out of that trauma: *Saying the words = fatal destruction. Keeping silent = survivable loss.* He honestly convinced himself that withholding three words would keep the walls intact if Vee ever walked away. And instead, the silence itself is the exact hammer that shattered everything.
+And then—Brooke. Holy shit. That was chilling. Brooke standing by the matcha, wearing that impenetrable sorority-president smile, wrapping a velvet garrote around Randi’s neck: *"Play all you want... I'm asking whether you want to keep your position."* That is terrifying. Standards chair, the spotless reputation, the family expectations—the trap is closing in from the outside world now, too.
 
-Seeing him admit it—that when Vee gave him the "crackers and a meal" metaphor on the porch, the true answer was right there, whole and ready on his tongue, and he *deliberately* chose the smaller, safer answer because he was terrified—made my chest ache. He knew he failed her right in the moment. He watched the light die in her eyes and let it happen because he was weak.
+And then there's the tragedy of what just happened in that bedroom. Randi gave Vee incredible, perceptive, deeply loving comfort—she read Pace's shut-down silence to absolute perfection (she knows him, after all), dismantled Vee’s 3 a.m. terror about Sheri, and rebuilt Vee’s confidence from the ash heap. But she also handed Vee a loaded gun and pointed it straight back at Pace: *Show up bare under a coat.*
 
-And then that truck on the highway. God. The fork freezing halfway to his mouth. His whole body pulling toward the driveway, projecting her headlights into the room, imagining her smile—and then the truck just drives on by, and this huge, controlled, dominant man just breaks over his kitchen table and sobs like a child.
+My stomach is twisted in knots. On one hand, the romance reader in me is screaming because Pace has been literally weeping over cold chicken and broccoli, half out of his mind with misery, and when he opens that door tonight and sees Vee standing there in that coat and Randi's black heels, it is going to be explosive, tender, gut-wrenching heat. But on the other hand... Vee walked out because she wanted words. She wanted to exist in the daylight. And Randi just talked her into capitulating entirely with her body: *"You don't do it with words. Words are the whole war."* Randi is sending Vee to Pace's bed as a peace offering, and Vee is terrified and thrilled and walking right back into the sanctuary without solving the core wound—all while carrying Randi's taste on her lips and Randi's shoes on her feet! The dramatic irony is so thick I can barely breathe. Pace is going to break when he sees her. I need to see him open that door right now.
 
-I needed to see this. If he had stayed smug, if he had just run to Randi or stood on his high horse about how his actions should speak for themselves, I don't know if I could have forgiven him. But seeing him down in the dirt, recognizing that his control was just cowardice, makes me want to scream at him to get in his truck and drive to Ohio.
+***
 
-Except... there is still the bomb ticking under the floorboards. The cashmere blanket at the foot of his bed—Randi's blanket. The mop and bucket. He’s weeping over Vee, realizing he loves her with his whole soul, and he *still hasn't faced what the Randi arrangement actually is.* He thinks the only barrier between them was his fear of saying "I love you." He has no idea the nuclear fallout that's waiting when Vee inevitably discovers the other game. But right now? In this cold, quiet kitchen? I felt every single tear.
-
-GATE 54 — Not Enough
+GATE 55 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 0
-ROMANCE: 3
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Watching this fortress of a man completely unravel over the realization that his fear of love cost him the only woman who mattered was devastating and completely earned. Pace admitting his cowardice on the porch gave me back the tender heart of this book, and I need to see what he does now that he's broken.
+WHY: The tension is coiled so tight it's vibrating—Vee kissing Randi in the foyer blew the emotional stakes wide open, Brooke's threat just raised the real-world cost, and now Vee is heading to Pace's doorstep bare under a coat while he's completely wrecked inside. I couldn't stop reading now if my life depended on it.

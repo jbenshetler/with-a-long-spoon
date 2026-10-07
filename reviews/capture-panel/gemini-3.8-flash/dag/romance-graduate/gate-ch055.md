@@ -1,31 +1,30 @@
-*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1011072a47a5 · 2026-10-07*
+*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 122f2504f31e · 2026-10-01*
 
 REACTION:
 
-*Oh my god.* My chest is pounding. I have so much to say I don’t even know which wire to grab first.
+Oh, my god. My pulse is still pounding in my ears.
 
-First of all: Randi. The sheer, terrifying brilliance of Miranda. Watching her sit on that messy bed, pushing the designer clothes from Gstaad onto the floor like trash because *Vee* is what matters, and meticulously disassembling Vee’s panic—it was masterclass manipulation wrapped in genuine, desperate love. She took Vee’s very real, very legitimate boundary (*“Words are cheap and you still won’t spend them on me”*) and reframed it as Vee "blindsiding" a poor, devoted boy who was just freezing behind a wall because he was so cornered. She convinced Vee that her demand for self-respect was just "fear talking," and walked her straight into the ultimate submissive sacrifice: show up naked under a coat, bring him peace, give him your body so he doesn't have to give you words. It is so diabolical, and yet—Randi is doing it because she *needs* Vee back in Pace’s orbit. Because Pace’s house is where Randi gets to have her too.
+When Vee stood in front of that closet mirror in only Randi’s strappy black stilettos, touching herself and winding the tension up until she deliberately pulled her own fingers out unspent—I was holding my breath. That entire build-up was magnificent, reckless, and so unbelievably hot. The mundane terror of running into Kayla in the dorm hallway while wearing absolutely nothing under that wool coat, the satin lining shifting against raw skin, touching herself on the highway in the pitch black until the police siren almost made her heart stop—the sheer sensory charge of her desperation was visceral. It wasn't just a sexy stunt; it was a woman completely out of moves, wagering every last scrap of herself because words had failed them both.
 
-And then—the kiss in the foyer. *Holy shit.*
+And then the front door. The contrast between the freezing January wind rushing through the dark porch and the scorching heat of his mouth when he went straight to his knees on the cold wood—it was absolute peak erotic writing. The desperation in both of them was breathtaking. He wasn't the slow, unflappable, artisanal chef orchestrating a three-course seduction; he was a starving man whose polite wall got vaporized the second that wool parted. He couldn't even make it to the bed! Stumbling through the hall with his jeans around his knees, carrying her while still buried inside her—that was the exact, graceless, desperate honesty they’ve both been avoiding for fifty chapters.
 
-Four months. Four months of Randi carefully engineering touches, leaning in, kissing Vee on the cheek, testing the water, and Vee turns around from the doorknob, takes Randi’s face in *both hands*, and kisses her mouth until her chest stops hurting. The way Randi reacted after Vee walked out—standing alone in that foyer, touching her own bottom lip, making that "short idiotic sound" of pure shock and triumph—I had absolute chills. Vee didn't just accept it; Vee initiated it. The monster just got everything she dreamed of, handed to her on a silver platter.
+And yet.
 
-And then Brooke walks in and drops a concrete slab on the whole thing.
+Underneath all that searing heat and the midnight pancakes from scratch, my stomach is in a complete knot for her. Because Randi was right: Vee walked through the snow to give him unconditional surrender. She gave up the words. She traded her legitimate, agonizing demand for emotional clarity in exchange for warm butter, a blanket, and him sinking to his knees to say he missed her. And while my romantic heart melted when his voice cracked at her knee, my brain is screaming because *the core problem didn't move an inch*. He still hasn't spent the cheap words. He still hasn't named her. The spanking bench is still under that false table, Randi is still holding that uncropped nude, and now Vee has walked straight back into the trap on the exact terms Pace wanted all along: hospitality and sexual devotion without daylight accountability.
 
-*“You always say goodbye under the composites.”*
-*“Play all you want, privately, or for the boys... I'm asking whether you want to keep your position.”*
+Cassie’s single raised eyebrow at the end was perfection. She saw the whole damn surrender in a five-second glance at the oversized sweats and the stilettos. Tuesday is coming, classes are starting, and Vee is blissfully happy on borrowed time.
 
-I stopped breathing. The ice in Brooke’s polite, sorority-president warmth! Brooke saw it. She’s probably seen all of it. In this world of gilded reputations, you can play "for the boys" (performative college-girl bisexuality to turn men on), but the moment it’s real—the moment a girl grabs your face and kisses you under fifty years of framed alumni—it threatens the house. The threat wasn't even veiled. It was an absolute checkmate.
+***
 
-So now look at the board: Vee is going back to her dorm to shower, put on Randi’s heels, and drive to 614 naked under a coat, completely unaware that Pace just spent the morning weeping over cold chicken because he loves her and can’t say it. She thinks she's surrendering; he’s already broken. And Randi is upstairs behind a shut door, her lips still buzzing from the girl she is desperately in love with, holding the loaded gun Brooke just put to her head.
-
-Turn the page. I need tonight. I need the door at 614 opening *right now.*
-
-GATE 55 — My Friend Randi
+GATE 55 — Nothing Underneath
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 3
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight it’s vibrating. Vee taking Randi’s face and kissing her on the mouth, followed immediately by Brooke’s chilling, velvet-gloved sorority blackmail, took this book to an absolute boiling point. And now Vee is heading to Pace naked under a coat while he’s still shattered from losing her—I cannot turn the page fast enough.
+WHY: The sheer erotic tension of the preparation and the frantic, doorstep reunion had me completely locked in, even while the emotional stakes under their reconciliation made my stomach churn.
+
+***
+
+Would you like to discuss the next chapter or look at an overview of how the semester begins?

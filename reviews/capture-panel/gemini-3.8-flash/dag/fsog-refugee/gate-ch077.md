@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch073 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 535f0119d805 · 2026-09-19*
+*capture-dag-v2-rich · gate ch077 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha d281dca7ae5b · 2026-09-19*
 
 REACTION:
 
-Holy. Shit.
+Oh my god. I feel completely sick to my stomach.
 
-My stomach was in absolute knots the entire time I was reading this. When Pace kissed the first hand and Vee thought she got away with it, my heart actually dropped into my feet because I knew—I *knew*—he was going to ask for the other one. And then: *"Now let me kiss your other fingers. So they don't feel left out."* I gasped out loud in an empty room. The absolute, breathtaking calculation and devastating intimacy of that man. He knew the second he woke up. He probably knew before he opened his eyes.
+I feel physically dirty having read that, and not in the good, hot way. I mean cold, nauseous, horrified. The betrayal here is so monstrous that it completely retroactively poisons every single beautiful, tender thing Pace has ever done or said.
 
-And then Vee saying out loud, *"But it wasn't you."* To his face! In his bed! While straddling him! The sheer, agonizing courage of her pulling out that phone and turning the screen toward him because she couldn't bear the thought of him imagining another man, only to step right into the jaws of the real trap.
+On *her green sheets*. The sheets she bought him. Randi purposely showed up naked on Vee’s sheets, dared him, lied about Vee being on the road so they’d have a panic-fueled, rushed, kinky scene where he puts clamps on her nipples, spanks her clit swollen, and comes deep inside her while Vee’s name is in the room. And then—and then!—Randi laughs and reveals she basically roofied Vee with mimosas, tucked her into bed helpless and unconscious, just to steal her afternoon and fuck her boyfriend. And Pace isn’t disgusted! He isn’t horrified that his lover just incapacitated the girl he supposedly cherishes! No, *it charmed him*. He finds it a cute, thrilling little game.
 
-And the trap was so, so hot, but it was also chilling. When he made her trade the truth for inches of his cock—again—and forced her to admit what she wanted... it wasn't just wanting to be touched by Randi anymore. It wasn't passive. It was: *"I wanted her in my mouth. Her nipple. I wanted to lean down and take it in my mouth and hear the noise she'd make. I wanted to be the one doing it."*
+And then the morning. That morning scene is pure, unadulterated nightmare fuel. Randi goes down on him under the sheets, sucking him clean to "wipe herself off him" for Vee, while Vee is on the phone—sweet, hungover, trusting, completely innocent Vee—apologizing for ruining their date and literally *praising Randi for being such a good friend*. "I don't know what I'd do without her."
 
-Do you know what that did to me?! That is the EXACT phrasing Randi used when she was riding Pace in Chapter 61. *"Her nipple in my mouth."* Randi said that to Pace on white sheets weeks ago, and now here is Vee, weeping into Pace's neck, confessing the mirror image of the exact same fantasy. And Pace just *drives into her* the second she says it. He got what he wanted. The two women he is obsessed with are vibrating at the exact same frequency, hungering for the exact same thing, and he is the pivot point holding all the strings.
+I can’t. I actually felt a knot of genuine grief in my chest for Vee. She has nobody. She is surrounded by two absolute psychopaths who are getting off on wearing her down, lying to her face, gaslighting her, and orchestrating her entire life like she’s a doll they share. The contrast between Vee crying in chapter 73 because she felt guilty over touching herself to a *photo*—confessing to Pace, letting him interrogate her, feeling like she was a bad person—while Pace has literally been raw-dogging her best friend on the very same mattress? It makes me want to scream.
 
-The dominance here is so quiet, so patient, so utterly attentive. He isn't cruel; he doesn't get mad, he doesn't shame her, he holds her through the climax and pets her back while she tries to scramble for a lie and lets the lie fail on its own. It's the kind of control that leaves room for her truth, which is what I crave... but the fact that he is keeping the monster secret that he's already sleeping with Randi makes it feel like walking a tightrope over an active volcano.
+This isn't dominance. It’s not an intense romance. It is pure, calculated emotional abuse masquerading as an erotic arrangement. The only reason I am turning the page right now is because I am waiting for the bomb to go off. I need the explosion. I need Vee to find out, and I need Cassie to help her burn their whole entire world to the ground. If Vee just blithely accepts this when it comes out, I will throw my Kindle across the room.
 
-And that ending. Vee lying on his chest, remembering January when she lied and said there was nothing else about Randi, realizing she is actively choosing to keep a piece of this back now, staring at that blinking cursor on Randi's text with ten days until Tuesday. The psychological tension is suffocating in the best way possible. I need the next chapter immediately.
-
-***
-
-GATE 73 — Postcard
+GATE 74 — In Her Place
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-ALMOST-STOPPED: none
-WHY: The tension in that dark bedroom was almost unbearable, blending psychological interrogation, intense sexual heat, and tragic dramatic irony into absolute perfection.
+ALMOST-STOPPED: "Beside him Randi listened, sleepy, and a smile came up on her face soft and almost tender — and then it woke the rest of the way and turned, and she slid down under the green and took him in her mouth."
+WHY: The sheer level of betrayal and violation made my stomach turn, but the sick, horrific momentum of this train wreck has me completely gripped. I have to see how Vee walks into this house and when the truth finally destroys them.

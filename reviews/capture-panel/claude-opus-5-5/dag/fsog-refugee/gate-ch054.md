@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch054 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bff68c2a8905 · 2026-10-07*
+*capture-dag-v2-rich · gate ch054 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1011072a47a5 · 2026-10-07*
 
-## REACTION
+**REACTION**
 
-There it is. "He knew he loved her." He knew it on the porch, with his hand stopped on her shin, and he picked the smaller truth because he was scared. I've been saying that in my notes for chapters, and having the book confirm it from inside his head is a relief and a gut-punch together. He wasn't built without the word. He had it ready and put it back.
+I'm so glad I read 54 before this. I know he sobbed over a cold bowl of chicken when a truck went past. I know he thinks "Whiskey River" lied to him. Vee spent a whole drab day on her dorm bed building him a blonde, and I wanted to reach through the page and tell her. So when Randi took that blonde apart piece by piece, *"How do you know any of that?"*, I was grateful. It's the best thing Randi has ever done for her. "Fear needs a face to point at, so you gave it one." That's true and it's kind, and she pushed the hair off Vee's face. She swept the Gstaad dresses onto the floor without a glance. For a while I let myself just love her.
 
-I'm still a little wary of Daphne. "He had taught himself that the words were the difference" is very tidy, one dead love doing all the explaining. But I believe the shape of it. Daphne was his tutor and his best friend, the one who knew which dining hall stretched a meal plan. When she left there was nobody to tell, because she was the person he'd have told. That hit me. Then I put it next to the boy in the loud room at Chili's, and it holds together. It also makes "Words are cheap. Believe what I do" look like a wall he built, not a creed. He said the line to protect himself and called it honesty, and I bought it for him. Now I feel a little had.
+Then I started listening to how she knows all this. "That's a boy holding himself still so it won't show how much you got him." She knows because she's on his couch on Mondays. She's reading him to Vee from the inside and Vee thinks it's wisdom. Then the turn I didn't like: *"You don't do it with words. Words are the whole war."* No, Randi. The words are the whole point. Vee walked out of that warm house because he wouldn't spend one word on her. Now the one person she trusts tells her to stop asking, to turn up as the answer in a coat with nothing under it. That gives him a pass, and it keeps the frame Randi lives inside nice and quiet. Then the heels, hooked on two fingers, "just the thing for tonight," and "Randi always knew the shoes." I don't trust those shoes. Will he recognize them? Is that a message to him that Vee is carrying without knowing it?
 
-He was flat-out wrecked: whiskey, bleach on the bathroom floor, the mop still in the hall. He ate prison-food chicken because his body needed it, and he sobbed over the table because a truck didn't turn in. That broke me a bit. He's a man who finally knows exactly what he did. "He had hurt her because he was afraid of how much she could hurt him." Good. Now go say it to her face.
+Here's the thing, though. The coat scene didn't play as coercion with a wink, and I'd have left if it had. The shame came up in her mother's voice, and the wanting came up right behind it, sharper for it. "She was going to do it. She'd known it since the coat, maybe." That's her own wanting, written from inside her. Randi walked her past the part of her that would rather die, but the want was already Vee's. I believed it. I'm a little turned on by it and a little furious about who handed it to her, both at once.
 
-The thing I'd text at 1 a.m.: Randi's cashmere blanket, "the one for the chill that took her after," has a place in his bed. It lives there, and he folded it and put it back without a thought. That's the bed Vee sleeps in the middle of, red hair on the white cotton. It's a small detail, and it's the whole problem. Even in his own grief the three-chair table is in the room, and he doesn't count it as anything to grieve.
+The New Year story: "Everywhere but the bedroom." I read 51, so I know that's a lie. The bedroom was fine. *She* felt nothing, and Pace and Vee were the two names that came to her in the dark. Vee laughing at it hurt a bit.
 
-The gap is getting to me. They haven't been alone together since the door, four chapters back now. Every one of those chapters has been somebody alone missing somebody: Randi cold in a perfect bed, Vee in her childhood room, Pace with Sheri, Pace with a bowl. It's earned and I'm not angry about it. I'm just hungry. I want her car on the gravel and him on the stoop.
+Then the kiss. Vee went BACK. Hand on the latch, turned around, took Randi's face in both hands. Four months of Randi leaning in, and Vee started one. Randi's hands closing on the back of the coat. Randi touching her own mouth like she's fifteen, laughing alone in the hall. For one paragraph Randi was just a girl who got kissed, and it was lovely, and I wanted her to have it.
 
----
+Then Brooke, warm the whole way down. "Play all you want, privately, or for the boys." That's ugly. Brooke isn't confused about anything. She's telling Randi what Vee is allowed to be in that house. The empty mug was perfect. The last thing Randi was holding on to got taken off her in the kitchen.
 
-GATE 54 — Not Enough
+What I'd text at 1 a.m.: *she's going to his door tonight in a coat and Randi's heels, and he's been sobbing at his kitchen table, and Randi just told her to stop asking for the word right when he was ready to say it. I can't put it down.*
+
+It's five chapters since the two of them were alone in a room, and that one was the door closing. I feel every one of them. Tonight is the next chapter. I'm going.
+
+GATE 55 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-HEAT: 0
+CAPTURE: 8
+NEXT: 10
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "He never told any of them he loved them." For a second the Daphne story felt like the book handing him an alibi.
-WHY: This is the turn I was waiting for, even if it happens only inside his head. He knows, he named his own cowardice, and he's crying over a truck that drove past. Now I want him to spend the word on her, and the blanket in his bed tells me Randi will still be standing between them when he does.
+ALMOST-STOPPED: "You don't do it with words. Words are the whole war." For a second I thought the book was going to agree with her.
+WHY: Vee kissed Randi on her own nerve, and the shame-then-want under the coat was hers, from the inside, so I'm not leaving. Randi steering her away from the one thing she actually asked Pace for is exactly what I'm afraid of. I need to see his face when he opens the door, and whether he says it anyway.

@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch055 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1011072a47a5 · 2026-10-07*
+*capture-dag-v2-rich · gate ch055 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 122f2504f31e · 2026-10-01*
 
-REACTION — Oh, this one got me. It hit that very specific post-break limbo so hard: the plane, the frost on the car, the same Friday road with nowhere for the wanting to land. Vee thinking she’s fine until the drive knows better than she does — yes. That is exactly how grief works when your body has a route memorized.
+REACTION — Oh my god, yes. This is exactly the kind of chapter that makes me forgive a book for making me sit in the ache, because the payoff was not polite. It was not symbolic. It was not some tidy “we talked it through over tea” reconciliation. She woke up, chose her body on purpose, scared herself, turned herself on, denied herself, drove through the dark like a woman carrying a lit match in both hands, and then opened the coat. I was feral.
 
-And then Randi. God. I am so mad at how good she is at this, because she *is* good. She meets Vee where she is, wipes the panic clean, separates fear from fact, gives her back Pace not as a fantasy but as someone wounded and stubborn and probably still hers. I could feel myself being persuaded right alongside Vee. The “fear needs a face” thing was almost too accurate. And then Randi steers her straight toward the coat-and-heels move, and my whole body went yes/no/yes. It is manipulative. It is also exactly the kind of sexual bravery Vee has been learning to want. That is the horrible deliciousness of Randi: she can be wrong ethically and still dead right about what will unlock Vee.
+What got me most was that it wasn’t just “naked under a coat,” which could so easily be cheap in another book. Here it’s the whole history of her shame and appetite and too-much body turned inside out. The underwear drawer moment killed me. Her hand going automatically to the sexy bra and then realizing no, even that is too much clothing for the sentence she’s trying to say. That is so embarrassingly, specifically female to me: the body moving by habit before the new self catches up.
 
-The coat plan is hot, obviously. Not just because of the image, though yes, absolutely because of the image. It’s hot because Vee has to walk herself through shame to get there. The book understands that the charge is not “woman wears nothing under coat,” it’s “woman who has been trained to call that degradation chooses it as courage.” That’s the thing I keep coming for.
+And the mirror scene worked because it was not coy. It let her want herself through wanting him. That’s the missing ingredient in so much spicy romance: the heroine is desirable, sure, but she isn’t always allowed to experience herself becoming deliberate. Vee looking at her own breasts, wondering if they’re enough even though Pace worships them, touching herself and then stopping because she wants to bring that unfinished charge to him — that is hot because it is character. That’s her learning power in real time.
 
-But the real turn was the kiss. Vee coming back because thank you was not enough, taking Randi’s face in both hands, kissing her under the composites — I actually sat up. That was not Randi coaxing one more inch. That was Vee initiating. Messy, grateful, erotically confused, emotionally overflowing, but hers. And Randi alone afterward, touching her mouth like a teenager? I loved that too much. It made her naked in a way the Gstaad bedroom didn’t. She is not cool-girl-ing her way through this anymore. Vee has power over her now.
+The police lights almost took me out from sheer secondhand panic. I had my whole stomach in my throat. And then when the cruiser passed and she was left more wound up than before? Filthy and funny and psychologically exact. The coat lining mark too. Once upon a time that would have destroyed her. Here it becomes evidence. “I mean it.” God.
 
-Then Brooke walked in and the room chilled. Not because she was cruel — she wasn’t — but because she named the social machine Randi lives inside. “Play all you want” is such a pretty little knife. It made the sorority house suddenly feel like Randi’s parents’ table in another dress: warmth, manners, surveillance, acceptable versions of desire. And Randi’s “She’s my friend” landed as defense, lie, prayer, and trap all at once.
+And Pace. Pace, you absolute difficult man. The formal “It’s late. Is everything alright?” made me want to throw something, and then she just silently opens the coat and deletes his entire defensive operating system. Perfect. I don’t even need him eloquent there. His face says it before his mouth can ruin it. Starving man and forgiven man in one look — yes, that’s the line. That’s the entire chapter.
 
-I want tonight with Pace so badly I’m almost annoyed the chapter ended before it. But I’m also carrying dread, because if Vee arrives bare under a coat trying to say “peace” with her body, and Pace still cannot spend words, I may throw the book across the room. Also: when Vee finds out Randi helped shape this reconciliation while wanting her herself, and while Pace and Randi have their own hidden arrangement? Oh, that reveal is now loaded with explosives.
+The doorstep sex should have been absurd and instead it was glorious because it had all the missing in it. His mouth on her in the open doorway, the cold on her wet nipples, the front door banging in the wind like neither of them has the brain cells to shut it — I mean. Thank you, book. Thank you for not fading to black. Thank you for letting it be urgent and graceless and still tender afterward.
 
-GATE 55 — My Friend Randi
+And then the pancakes. That transition is why I’m still here. If it were only the hot scene, fine, I’d enjoy it and move on. But him feeding her at midnight after, going to one knee, cracking on “I missed you so much” — that is the emotional sex after the physical sex. It doesn’t solve the word problem, and I notice that. She says there’s no room tonight for wanting anything he hasn’t given, which means there will be room later. But tonight? I believed her relief. I wanted her to have it. I wanted them to get this one warm room back.
+
+Cassie at the end made me cackle. The outfit as confession: coat, his sweats, Randi’s heels. “Hmm.” Perfect roommate response. Also: Randi’s shoes are now basically accomplices, and Randi absolutely knows it.
+
+GATE 55 — Nothing Underneath
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "You backed him into a corner in his own house. Name it or lose me — the one thing he can't do."
-WHY: I bristled there because Randi was reframing Vee’s legitimate need as something done *to* Pace, and I don’t fully trust her mercy when it benefits her game. But the chapter absolutely had me: Vee choosing the kiss, Randi being knocked breathless by it, and the coat plan pointing straight at Pace made my thumb move on its own.
+ALMOST-STOPPED: none
+WHY: This was the chapter I wanted after all that cold silence: Vee acting, risking, wanting, and being received with heat and tenderness both. I still know the naming problem is not actually solved, and the Randi/Pace secret is sitting under the floorboards, but right now I am absolutely turning the page.

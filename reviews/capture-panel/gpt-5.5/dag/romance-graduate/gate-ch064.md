@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch059 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~8348ecb548e4 · 2026-09-11*
+*capture-dag-v2-rich · gate ch064 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~f697ae9ef8f2 · 2026-09-11*
 
-REACTION — Oh. Okay. This one got under my skin in a quieter, nastier way than the porch did.
+REACTION — Oh.
 
-Because it isn’t really about masturbation, not exactly. It’s about Vee being alone with the evidence of herself. No Pace there to sanctify it with his hunger. No Randi across the table to make it wicked and clever and survivable. Just her, his shirt, her own body making more than she knows what to do with, and the thought of that wet kiss she pretended was simply gross until Randi very calmly failed to agree.
+Well, there it is. The blade did not fall on Vee yet, but it flashed hard enough that I felt my whole stomach go cold.
 
-I loved how small the chapter is physically: one dorm room, one shut window, one radiator making everything too warm. It feels almost airless in the right way. She closes Cassie’s window like she’s choosing privacy, choosing heat, choosing to make the room into Pace’s house for a minute, and then by the end she has to open it again because she has made the room too full of herself. That got me. The hothouse smell, the sweat, the damp patch on the sheet. The book is so good at making Vee’s shame not abstract. It lives in fluids and fabric and laundry and coat linings and now sheets.
+I knew Pace and Randi were involved in the original “plan,” obviously. The jacket told me that from page one. I knew there was a game. I knew they knew each other. I even knew, intellectually, that the book was going to make their private world real and hot, not just villainous scheming in a corner. But this chapter still knocked the air out of me because it wasn’t a reveal in dialogue or a wink across a table. It was them together, fully embodied, already fluent, already intimate enough to use Vee’s name as fuel. That is so much worse and so much more compelling than a simple conspiracy.
 
-And the almost-taste. God. That was the whole chapter for me. I was leaning forward like, is she going to? And she doesn’t, and I’m not frustrated exactly, because that refusal feels truer than a clean “growth” beat would have. Her body is ahead of her, but not magically liberated. She can want the power of it, want Randi’s ease with it, want Pace’s gladness, and still stop one breath away. That breath-width distance is so intimate it’s almost worse than if she’d done it.
+And God, I hate that it worked on me. I mean that honestly. Part of me wanted to sit there with my arms crossed like, absolutely not, you two do not get to be hot while my girl is lying in a dorm room one breath from tasting herself because of what Randi said. But they were hot. The mouth thing, after Vee’s whole unfinished reach, landing here with Randi absolutely untroubled by it? Cruel. Effective. The book knew exactly what it was doing. Vee could not cross that last inch alone, and Randi is over here licking the sentence clean and making it look easy.
 
-Also: Randi is not in the room and is somehow everywhere. “I don’t.” “It was powerful.” “It turned me on.” Vee is alone in Pace’s flannel thinking about Pace’s mouth, but the permission she keeps circling is Randi’s. That is delicious and alarming. Randi is becoming an interior voice. Not just a friend she reports to. A lens Vee is starting to use on herself.
+What really got me, though, was not the sex as sex. It was the way they talk about Vee inside it. Not like a prize. Not quite like prey, either, which is the maddening part. They both sound in love with her. Pace saying, “She makes me happy” was such a plain little arrow. Randi saying she wants Vee to know exactly what she does to her — that one hurt. Because yes, I want Vee to know. I want her to know that Randi wants her. I do not want her to find out that everyone closest to her has been standing in a room she didn’t know existed.
 
-Cassie’s absence matters again too. The open window is Cassie’s territory. Vee shuts it, uses the room, then opens it back up before Cassie comes home. There’s something almost heartbreaking in that: Vee can make Pace’s house into a kingdom where her mess is luxury, but in the dorm she has to air herself out before her roommate returns. And then she chooses to lie over the damp spot. That last turn is filthy and sad and triumphant all at once. Her mouth is empty, but she won’t move away from the evidence anymore. Not all the way.
+Randi saying, “She’s not the only one in love” is the sentence that changed the temperature for me. Because it names what has been moving under everything. Pace loves Vee. Vee loves Pace. Randi loves Vee. Pace and Randi have something too, whether love is the word or not, and their intimacy is not theoretical. It is not past tense. It is right now, while Vee is trusting both of them separately.
 
-This chapter didn’t have the explosive heat of 51 or 52, but it pulled hard because it felt like a hinge. Vee didn’t cross the line, but now the line has a body. It’s one breath from her mouth. And I absolutely want to know what happens the next time Pace kisses her after, or the next time Randi says something mild and devastating across a table.
+I’m angry. I’m also ravenous. That is the honest and embarrassing truth. This is the exact kind of emotional danger I want from erotica: not fake drama, not one missed text, but desire that implicates everyone. The heat is not detachable from the betrayal. That makes it harder to read and harder to put down.
 
-GATE 59 — The Reach
+GATE 60 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-ALMOST-STOPPED: none
-WHY: This was quiet, but not stalled; it moved Vee inward in a way that feels sexually and psychologically live. The almost-reach is doing serious work, and Randi’s invisible presence in the room has me very, very interested.
+CAPTURE: 9
+NEXT: 10
+ALMOST-STOPPED: “Randi came against his mouth with one heel digging into his back and her fingers closed hard at the roots of his hair.”
+WHY: I almost stopped at the first line because I felt ambushed in the way Vee is going to feel ambushed, and I needed a second to decide whether I was mad at the book or thrilled by it. I’m continuing because this chapter finally opened the locked room, and now I need Vee to reach the door.

@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ad99119c213f · 2026-09-19*
+*capture-dag-v2-rich · gate ch065 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0262c804492d · 2026-09-19*
 
 REACTION
 
-*Holy fucking shit.*
+Oh, this chapter took the wind right out of me in the best possible way.
 
-I knew. The jacket told me, the subtext told me, my own damn notes said they chose her together—but reading the absolute reality of it? Watching Pace eat Randi out until she comes, watching her kiss him with her own slick on his mouth without an ounce of Vee’s Ohio hesitation, watching them fuck while talking about Vee like a shared fever dream? My jaw was on the floor.
+First of all, Chapter 61 almost melted my Kindle—Pace and Randi fucking while talking about Vee, Randi taking him into her mouth to clean him off and then riding him again, the absolute filth mixed with this devastating, aching confession of love. Coming off that absolute five-alarm fire, I was primed for Vee to walk right into a buzzsaw of jealousy. And the setup was *so* painfully accurate to being twenty-one: borrowing the aggressive keyhole top, strapping on the four-inch induction heels in dead-ass January, inventing a golden Amazonian rival named Sheri just to have a shape to fear. Every woman who has ever felt insecure has put on that armor.
 
-The whiplash from chapter 60 is sickening and genius. Last chapter, Vee was shivering in her dorm, clutching Pace’s flannel, terrified to put her own wet fingers in her mouth. And here, in the very next breath, Pace and Randi are trading fluids, sliding around in each other’s mess, completely unbothered, while Randi holds her own breast and fantasizes aloud about Vee’s weight and nipple in her mouth while Pace fucks her into the mattress. The sheer *contrast*. Vee thinks she’s entering this daring, transgressive world of adult appetite, and meanwhile the two people managing her are casually doing varsity-level psychological sex gymnastics while planning how to consume her.
+And then Sheri turns out to be a five-foot-nothing, permed, loudmouthed country lesbian who immediately looks down Vee's shirt, checks out her legs, and asks Pace if he gets to motorboat them?! I screamed. I literally barked out a laugh. Seeing Pace—unshakeable, dominant, master-of-all-trades Pace—blush all the way to the tips of his ears? *God.* Put it in an IV. That blush did more for his character than ten chapters of him being effortlessly competent.
 
-"She’s not the only one in love." Randi pinning Pace with that, stripping the smugness right off his face. They aren't just using Vee as an erotic pet project. They both fell in. Pace admitting she makes him happy, Randi admitting she's dying to touch her—it’s twisted, it’s intensely hot, and it is a complete emotional minefield.
+Sheri is an absolute gift. She’s funny, she’s brash, she sees right through the posturing, but then Helen Rivers pulls that trick she does so well and drops the trapdoor straight into your chest. The story about her coming out—the Marine Corps dad, the church, the entire life ripped away in a month—and Pace just showing up. Not with empty platitudes, but with donuts, fixing her lock, fixing the leak, taking her biking, giving her a ride home from the dance hall where he dances just to dance and never makes a "down payment." And then the quiet bomb: *He hasn't been home since he was sixteen.*
 
-And then the dialogue! The sudden drop into that weirdly flat, porn-script cadence—*"Look at you, using me like your fuck doll,"* and *"I better clean up that mess before you stick it inside me"*—pulled me up short for a second. It felt oddly stiff compared to how they usually talk, like someone switched the track to a generic script mid-scene. But the raw dynamic between the two of them carried it anyway. They are co-conspirators who are hopelessly, carnally bound to each other while being utterly derailed by the girl they brought into their orbit.
+It makes the dark underbelly of this whole book hurt so much worse. Because Pace isn't just an erotic architect or a calculating math brain. He’s a deeply wounded, intensely loyal boy who builds safety for the people he loves because nobody built it for him. And Vee is sitting there in the cab of his truck, slightly buzzed, resting her head on his shoulder, falling completely, irrevocably in love with him—totally unaware that he just spent the previous chapter inside Randi, being told that Vee loves him, carrying Randi's mouth on him.
 
-If Vee ever finds out about this, it won't just break her heart; it will shatter her reality into a million jagged pieces. I need the fallout like I need air.
+The warmth of this chapter is suffocating because the dramatic irony is a loaded freight train bearing down on them. I felt safe and terrified all at once.
 
-***
-
-GATE 61 — My Pleasure
+GATE 62 — Another Round
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-ALMOST-STOPPED: “Look at you, using me like your fuck doll.” and “I better clean up that mess before you stick it inside me.”
-WHY: Seeing the third game laid completely bare on the sheets was electrifying, even if a couple of lines of dialogue sounded like bad erotica Mad Libs out of nowhere. The psychological entanglement here is monstrous and fascinating, and I am desperate to see Vee walk into the crosshairs.
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: The character work here is phenomenal—Sheri could have been a cheap joke, but instead she gave us the missing piece of Pace's soul, all while the secret triangle ticks like a time bomb under Vee's feet.

@@ -1,16 +1,18 @@
-*capture-dag-v2-rich · gate ch067 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~b11de8d9a5ce · 2026-09-11*
+*capture-dag-v2-rich · gate ch073 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~be90efe95687 · 2026-09-11*
 
-REACTION — Oh, Vee. She is so far past “confused by one hot kiss” now, and watching her spend an entire day physically containing herself because touching herself while thinking of Randi would make the desire *true* absolutely got me. That hand held flat on her stomach like a lid—Jesus. She knows. Her body knows, her behavior knows, her closet knows. Only the part of her that assigns acceptable names is still fighting for its life.
+REACTION — Oh, Cassie. Thank God for Cassie.
 
-And Randi is killing me, because every gesture works in two completely different books. To Vee, the saved chair, the knee, the Lifesaver, the hug, the neck kiss are ordinary friendship suddenly made electrically dangerous by Saturday. To me, Randi is walking around with full knowledge, enjoying every response, and nudging again. “How do you like it?” is hot as hell and also outrageous when Randi already knows exactly how Vee likes it. She can keep pretending this is playful reciprocity because Vee hasn’t named the stakes, while privately discussing those stakes with Pace in bed. I wanted the neck kiss. I felt the neck kiss. I also wanted to shake her.
+“Is this what you want?” is the first honest question anyone has asked Vee about Randi, and of course Vee cannot answer it because the answer is already living everywhere except in the language she permits herself. Her neck says yes. Her body says yes. She asked for brunch the instant Randi kissed her. But looking directly at the wanting would mean admitting this is not a drunken joke, not “sex brain,” not something Pace can fuck out of her. It belongs to her.
 
-The anthropology lecture barely landing while reciprocity and debts are literally tightening around Vee made my stomach hurt. She thinks she escaped dinner, but Randi converts the refusal into a walk home, the avoided mouth kiss into a kiss on the neck, and Vee converts the panic into brunch. Every attempt to retreat creates another obligation. That is the book’s whole trap in miniature, and the terrible part is that Vee genuinely wants every extra inch of it.
+And I love that Cassie refuses the decoy argument. Vee throws out the old *you just don’t like her* fight because she needs something familiar enough to stand on, and Cassie simply steps around it. Then she feeds her. No interrogation, no humiliation, no forcing Vee to confess before she has words—just Cocoa Pebbles and the quiet knowledge that Vee skipped dinner. This is what care looks like when it does not have an agenda.
 
-Then Cassie. Thank God, Cassie. “What was that with you and Randi?” felt like somebody finally switching on the overhead light. She didn’t ask whether Vee is attracted to Randi; she asked what was happening *between them*. That distinction matters. Cassie has apparently seen enough from outside the sealed little world to be worried, and Vee’s easy explanation finally fails to arrive. I am already turning the page because I need to know what Cassie saw and whether Vee can tell one honest sentence to the one person who has never steered her.
+That last beat got me badly. Vee can’t answer the enormous want, but she can answer the bowl-sized one. “Yeah. Thanks.” It’s tiny, but it feels like Cassie giving her solid ground until she can bear to find the rest herself.
 
-GATE 67 — Coming Due
+And yes, this is basically a two-page chapter, which I still don’t have instincts for, but it didn’t feel like a shortcut. It felt like one held breath. I’m already worried about brunch.
+
+GATE 68 — Some of Mine
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: This chapter had me trapped inside Vee’s wanting and dread so completely that the tiniest touches felt enormous. Cassie’s final question is the first clean opening toward reality Vee has had in ages, and I need her answer immediately.
+WHY: Cassie asked the exact question the entire book has been circling and then loved Vee without demanding an answer. Now brunch is coming, Vee’s defenses are collapsing, and I need to know what Randi does with the opening.

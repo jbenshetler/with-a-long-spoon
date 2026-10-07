@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch058 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~80491aa34d7b · 2026-09-11*
+*capture-dag-v2-rich · gate ch063 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~8348ecb548e4 · 2026-09-11*
 
-REACTION —
+REACTION — Oh. Okay. This one got under my skin in a quieter, nastier way than the porch did.
 
-Oh, this chapter got under my skin in exactly the way this book is best at. It starts so clean and ordinary: swim, shower, choosing the outfit, the pleasure of having something saved up for Randi. And then it does that very particular thing where Vee thinks she is going to tell a story and slowly realizes she is the story being opened. Not by force, not even by argument. By Randi asking the question with one finger on the exact soft place.
+Because it isn’t really about masturbation, not exactly. It’s about Vee being alone with the evidence of herself. No Pace there to sanctify it with his hunger. No Randi across the table to make it wicked and clever and survivable. Just her, his shirt, her own body making more than she knows what to do with, and the thought of that wet kiss she pretended was simply gross until Randi very calmly failed to agree.
 
-The anthropology class is almost too on the nose and somehow I loved it anyway. Gifts carrying the giver, grooming as politics, touch as social order — yes, yes, fine, I see the scaffolding, and I am eating it with a spoon. The Lifesaver passed palm to palm without either of them looking at each other? That was so intimate I almost wanted to look away. One lecture, one flavor. That is the kind of tiny physical language I came here for.
+I loved how small the chapter is physically: one dorm room, one shut window, one radiator making everything too warm. It feels almost airless in the right way. She closes Cassie’s window like she’s choosing privacy, choosing heat, choosing to make the room into Pace’s house for a minute, and then by the end she has to open it again because she has made the room too full of herself. That got me. The hothouse smell, the sweat, the damp patch on the sheet. The book is so good at making Vee’s shame not abstract. It lives in fluids and fabric and laundry and coat linings and now sheets.
 
-And Randi. God. Randi is terrifying because she is not doing “villainess” things. She is holding the bookmark. She remembers exactly where Vee stopped. She does not let Vee sand the story down. “Don’t you fade to firelight” is basically the book turning to me and saying, yes, we know what genre promises were made here. And I appreciate that deeply. But the more she coaxes, the more I feel the imbalance: Vee thinks she is sharing with the one friend who can receive her whole self, and Randi is also actively training the shape of what Vee can say, what she can admit, what she can find arousing without dying of shame.
+And the almost-taste. God. That was the whole chapter for me. I was leaning forward like, is she going to? And she doesn’t, and I’m not frustrated exactly, because that refusal feels truer than a clean “growth” beat would have. Her body is ahead of her, but not magically liberated. She can want the power of it, want Randi’s ease with it, want Pace’s gladness, and still stop one breath away. That breath-width distance is so intimate it’s almost worse than if she’d done it.
 
-The whole “gross/wrong” conversation was so good because it did not let Vee keep the joke she came in with. She had polished it into a funny anecdote, a safe little scandal. Then Randi just says, “I don’t,” and the room changes temperature. That is the adult erotic psychological stuff I am starving for: not just the act, but the aftershock of somebody else calmly not sharing your taboo, and your body betraying that it might not share it either. Vee saying “he’s enthusiastic” and then having to walk home with the sentence keeping pace beside her — yes. That is exactly the kind of little crack that becomes a door.
+Also: Randi is not in the room and is somehow everywhere. “I don’t.” “It was powerful.” “It turned me on.” Vee is alone in Pace’s flannel thinking about Pace’s mouth, but the permission she keeps circling is Randi’s. That is delicious and alarming. Randi is becoming an interior voice. Not just a friend she reports to. A lens Vee is starting to use on herself.
 
-Also, I am now fully uncomfortable with how much Vee uses “I tell Randi everything” as both intimacy and excuse. The fact that she was relieved Tuesday not to tell this part, then tells it here and still feels like she is holding it afterward? That is new. Or not new, but newly conscious. There is now one private thing between Vee and Pace that Randi touched and did not resolve for her. She did not explain it, bless and curse her. She just put her own desire next to it and left Vee alone with the echo.
+Cassie’s absence matters again too. The open window is Cassie’s territory. Vee shuts it, uses the room, then opens it back up before Cassie comes home. There’s something almost heartbreaking in that: Vee can make Pace’s house into a kingdom where her mess is luxury, but in the dorm she has to air herself out before her roommate returns. And then she chooses to lie over the damp spot. That last turn is filthy and sad and triumphant all at once. Her mouth is empty, but she won’t move away from the evidence anymore. Not all the way.
 
-And then the neck kiss. Listen. Vee is absolutely playing now. She thinks it is a joke because Randi gave her the ticklish label, but we all know that was not just ticklish. Randi’s “catch and rise” went on too long. Vee’s mouth is learning a path. The book is letting her do it under cover of friendship the same way it let her do everything else under cover of “telling the story.” It is delicious and dangerous and I am screaming quietly into my hands.
+This chapter didn’t have the explosive heat of 51 or 52, but it pulled hard because it felt like a hinge. Vee didn’t cross the line, but now the line has a body. It’s one breath from her mouth. And I absolutely want to know what happens the next time Pace kisses her after, or the next time Randi says something mild and devastating across a table.
 
-I did miss Pace on the page, but not in a bad way. His presence was everywhere: in the story, in the body-memory, in the clean plate, in the sentence she has to carry home. That is a neat trick. He does not need to be in the room for the room to be full of him. But Randi is in the room too, and Vee is starting to feel both gravitational pulls at once, even if she still insists the second one is just weather.
-
-GATE 58 — A Clean Plate
+GATE 59 — The Reach
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 8
+NEXT: 8
 ALMOST-STOPPED: none
-WHY: This chapter did exactly what I want: explicit heat braided into actual psychological movement. The taboo didn’t just spice the scene; it changed what Vee knows about Pace, Randi, and herself, and that neck kiss at the end has me absolutely locked in for whatever Tuesday does to them next.
+WHY: This was quiet, but not stalled; it moved Vee inward in a way that feels sexually and psychologically live. The almost-reach is doing serious work, and Randi’s invisible presence in the room has me very, very interested.

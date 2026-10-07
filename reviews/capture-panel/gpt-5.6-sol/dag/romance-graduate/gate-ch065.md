@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch060 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~f697ae9ef8f2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch065 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~ad99119c213f · 2026-09-11*
 
-REACTION — Oh. Oh, this is the room Vee has been locked out of, and I am incandescent.
+REACTION
 
-It’s extremely hot. I can’t pretend otherwise. Randi taking her own taste from Pace’s mouth without hesitation, making it “mutual,” turning the whole thing into play instead of shame—after Vee got within a breath of tasting herself and couldn’t—hit exactly where the book meant it to. And the two of them talking about wanting Vee while they’re having sex is viciously effective. Randi imagining Vee’s breast in her hand and mouth, Pace losing control when she says she wants Vee to know what she does to her: yes, fine, I was completely gone.
+Oh, Sheri. I was braced for another secret lover and instead got this tiny loud lesbian who looked Vee up and down like she’d just been handed dessert, made Pace blush over her breasts, and then quietly showed us an entire room inside him he has never opened for Vee. I love her already. I also do not trust the relief this chapter gave me, because this book has trained me to inspect every gift for the string tied around it.
 
-But God, the emotional obscenity of it. Vee is alone in a dorm bed trying to cross one inch toward her own appetite, using Randi’s confidence as permission, while Randi is living that permission with Pace and discussing Vee as their shared beloved. They know she loves him. They know she wants Randi. They exchange pieces of her that she has told each of them separately, then turn those pieces into intimacy with each other. Vee thinks she just introduced them.
+Vee dressing for combat against the blonde she knew she had invented hurt in exactly the right place. Knowing jealousy is irrational does not make the body stop having it. And then Sheri’s look doesn’t rank her or price her—it enjoys her. That laugh bursting out of Vee felt like a month of poison leaving. Also: yes, Sheri is attracted to her. Obviously. The appreciative pause at the keyhole, the legs, the shoes, “you get to motorboat them things”—please. Vee has now walked into yet another relationship where a woman’s desire for her is perfectly visible to me and being filed by her under something safer.
 
-“She’s not the only one in love” is enormous. Randi finally says it where it costs her almost nothing—to the one person who already knows and wants the same woman. Pace cannot tell her she’s wrong, which means I’m now looking at love across all three sides of the triangle, while only Vee is denied the shape. That is unbearable. They aren’t merely hiding an arrangement anymore; they are actively building a shared emotional life out of her disclosures while she thinks she has two separate safe relationships.
+But the real damage was Pace off duty. The nearly untouched beer. Letting Sheri mock him. The blush. Waiting with the headlights on until her porch light came on. Showing up after her family abandoned her with coffee and doughnuts, fixing what needed fixing, giving her no consoling lie, and simply being there. That is the man Vee keeps falling in love with, and frankly I am falling with her despite being furious at him. He does care with astonishing precision. He makes care physical and useful without making the recipient pay him back emotionally. “Affection” and “ballast” never being different things with him—yes. That is his whole unbearable appeal.
 
-Also: the “mess,” the cleanup, the kiss carrying both of them—this is the exact appetite Vee is circling without knowing whose footprints are already all over the path. Randi told her it turned her on because she knows firsthand what Pace tastes like mixed with herself. That mild little restaurant verdict has become almost cruel in retrospect.
+And then: “He hasn’t been home since he was sixteen.” Excuse me? Pace has apparently told Sheri more about his father in two years than he has told Vee while inviting her into his bed, house, food, and public life. I understand why Sheri got those words: she was living through family rejection, and he gave her the one piece that proved he wasn’t offering sympathy from shore. But Vee is sitting beside a man whose history keeps arriving through other women. Randi knows one Pace, Sheri knows another, and Vee is being introduced to him in installments by people who already possess him in ways she doesn’t. That ache under her happiness is warranted.
 
-I would text a friend: THEY ARE IN BED TALKING ABOUT HER AND SHE THINKS THEY JUST MET YESTERDAY. Then I’d keep reading with my jaw clenched, because this is both the hottest and most damning confirmation the book could have given me.
+Sheri’s disclosure also sharpened my suspicion about Pace’s father considerably. “Went bad” is deliberately broad, but leaving home at sixteen and never returning is not ordinary estrangement. Sheri came out and lost her family; she says Pace understood. I’m wondering whether the parallel is simply expulsion and abandonment, or whether there is something about Pace himself—his sexuality, someone he loved, something his father discovered—that we still cannot see. I do not think Sheri knows much more, which makes her restraint feel clean rather than strategic. Two years, two sentences, and she treats those sentences as his—not as material she is entitled to mine. Randi could take notes.
 
-GATE 60 — My Pleasure
+That difference matters. Sheri tells Vee something private because it explains an act of friendship and lets Vee see Pace more truthfully. Pace does not ask what Sheri shared. Vee says she is keeping it, and he accepts that immediately. This is what ethical intimacy looks like in the same book where Pace and Randi trade Vee’s private awakenings during sex. The contrast is brutal. He plainly understands that a confidence belongs to the person who gave it. So what excuse does he imagine he has with Vee?
+
+I would text a friend: “The suspected hot ex is a five-foot lesbian who wants the heroine, Pace blushes when she mentions Vee’s tits, and then she reveals he rescued her after her family rejected her and hasn’t spoken to his own father since sixteen. I am delighted, horny, and somehow angrier at him.”
+
+And I absolutely want the dance hall. Vee bringing her opinions, Sheri watching women, Pace dancing because dancing is the point, and Vee trying to two-step while her attraction to everybody in the room becomes increasingly impossible to mislabel? Give it to me immediately.
+
+GATE 61 — Another Round
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: The concealed triangle is finally physically and emotionally real on the page, and it is scorching, intimate, and appalling in exactly the combination I came for. I need to know how long they have been doing this—and how Vee survives learning that both people she loves have been sharing her behind her back.
+WHY: Sheri gave me immediate charge, genuine tenderness, and a new angle on Pace that made me love him harder while worsening the case against him. I need the dance hall—and I need to know why a man who understands the ownership of secrets so perfectly keeps violating Vee’s.

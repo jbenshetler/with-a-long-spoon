@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1011072a47a5 · 2026-10-07*
+*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 122f2504f31e · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh my god. *Oh my god.* My jaw is literally on the floor.
+Oh God. Oh *God*. My pulse is still pounding.
 
-First of all: Vee taking Randi’s face in both hands and kissing her in that foyer. *Vee initiated it.* After four months of Randi circling her, choreographing the steps, leaning in, calculating every inch—Vee turned around from the door, walked back, and kissed her out of sheer, overflowing emotion because she couldn't leave without giving something back. And Randi standing there alone with the back of her hand pressed to her mouth like a stunned teenager, laughing an idiotic little laugh in an empty hallway? That cracked Randi wider open than anything in Gstaad. The sheer erotic charge of that moment didn't come from nudity or dirty talk; it came from the fact that Vee did it purely on her own nerve, and Randi's entire polished, manipulative game plan just blew up in her face because her heart (and her body) actually caught up to the scheme.
+I was terrified at the start of this. When Randi gave her that advice in the previous chapter, my stomach dropped because it felt like a trap—like Randi was sending Vee out as pure sexual bait, reducing her back down to an object, encouraging her to surrender every ounce of daylight ground she had fought so hard to claim on that doormat in December. I was bracing myself to be furious. I was bracing myself to watch Vee humiliate herself.
 
-And then—Brooke. Holy shit. That was chilling. Brooke standing by the matcha, wearing that impenetrable sorority-president smile, wrapping a velvet garrote around Randi’s neck: *"Play all you want... I'm asking whether you want to keep your position."* That is terrifying. Standards chair, the spotless reputation, the family expectations—the trap is closing in from the outside world now, too.
+And then Vee owned it.
 
-And then there's the tragedy of what just happened in that bedroom. Randi gave Vee incredible, perceptive, deeply loving comfort—she read Pace's shut-down silence to absolute perfection (she knows him, after all), dismantled Vee’s 3 a.m. terror about Sheri, and rebuilt Vee’s confidence from the ash heap. But she also handed Vee a loaded gun and pointed it straight back at Pace: *Show up bare under a coat.*
+The absolute *heat* of that mirror scene. Watching her take off the practical clothes, take off the safe choices, and touch herself—building that ache, leaning into the fullness of her own body, and then deliberately *stopping* because she wanted to hand the unfinished edge to him. That wasn't coercion. That wasn't a girl doing tricks to keep a man from straying. That was pure, unadulterated female desire, claimed from the inside out, terrifying and thrilling and entirely hers. And the drive out there! The sheer reckless, heart-in-throat panic when the siren whooped—I gasped out loud in my room.
 
-My stomach is twisted in knots. On one hand, the romance reader in me is screaming because Pace has been literally weeping over cold chicken and broccoli, half out of his mind with misery, and when he opens that door tonight and sees Vee standing there in that coat and Randi's black heels, it is going to be explosive, tender, gut-wrenching heat. But on the other hand... Vee walked out because she wanted words. She wanted to exist in the daylight. And Randi just talked her into capitulating entirely with her body: *"You don't do it with words. Words are the whole war."* Randi is sending Vee to Pace's bed as a peace offering, and Vee is terrified and thrilled and walking right back into the sanctuary without solving the core wound—all while carrying Randi's taste on her lips and Randi's shoes on her feet! The dramatic irony is so thick I can barely breathe. Pace is going to break when he sees her. I need to see him open that door right now.
+And then the threshold. When Pace opened that door with that polite, agonized, formal mask on—the wall he hides behind to keep from breaking—and she didn't argue, didn't plead, didn't beg for words. She just unbuttoned the wool and gave him the truth of her body.
 
-***
+And Pace broke. He didn't gloat; he didn't take it as a victory. He looked at her like a starving man who had just been granted mercy. The sheer desperation of that reunion—him dropping to his knees in the freezing draft of an open front door, the contrast of the biting January wind on her wet breasts while his mouth devoured her, his jeans tangled around his knees as he tried and failed to carry her to the bed—it was messy, raw, and completely unchoreographed. It was everything the polite, calculated society sex Randi had with John was not.
 
-GATE 55 — My Friend Randi
+And the aftercare. *The aftercare.* Making her midnight pancakes from scratch, telling her to leave the ridiculous heels on, and then dropping to his knee beside her chair with his voice literally cracking: *"I missed you so much."*
+
+He still hasn't said "I love you." He still hasn't named what they are in the daylight. The trap is still waiting for them, and the secret pact with Randi is still ticking like a bomb beneath the floorboards. But for tonight, the warmth is so real, and the mutual adoration is so overwhelming, that I was crying right along with her into those pancakes. And Cassie's single, dry "Hmm" at the dorm desk on Sunday night was the absolute perfect punctuation mark.
+
+GATE 55 — Nothing Underneath
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 2
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight it's vibrating—Vee kissing Randi in the foyer blew the emotional stakes wide open, Brooke's threat just raised the real-world cost, and now Vee is heading to Pace's doorstep bare under a coat while he's completely wrecked inside. I couldn't stop reading now if my life depended on it.
+WHY: The tension from the mirror to the doorstep was agonizingly hot, and the emotional payoff of Pace crumbling onto his knees at her chair was everything I read this genre for.

@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch065 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0b898fc22a01 · 2026-09-19*
+*capture-dag-v2-rich · gate ch069 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ec95866b43d5 · 2026-09-19*
 
 REACTION:
 
-Oh, god. This chapter hurt in a way that was entirely too real, and yet it was so psychologically acute I couldn't look away for a single second. Anyone who has ever gotten a full Brazilian for the first time *knows* that exact feeling of walking in thinking you're just doing a slightly painful beauty treatment, only to realize you are about to be spread, rearranged, and physically humbled by a total stranger under fluorescent lighting.
+I am lying here staring at the ceiling trying to steady my breathing because *what did I just read?!*
 
-What broke my heart—and what makes Rivers so terrifyingly brilliant at writing this dynamic—is how Vee processed the whole thing. Pace asked for it. In his typical way, he asked it as a question, leaving the choice to her, but without explaining the reality of what he was asking for. And Vee, so hungry to be the woman he wants, threw her *yes* out ahead of her before she even understood the cost. But the real betrayal, the quiet, toxic little omission, belonged to Randi. *“Barely stings.”* Randi giving her the recommendation, laughing over the pastry, acting like it's a pampered spa day, and completely leaving out the searing agony and the humiliating command to *roll over onto your front*. Randi sets these little traps with a smile, ushering Vee across thresholds without warning her of the sting, just to watch her come out the other side changed.
+This man. *Peter.* The sheer, absolute, reverent inventiveness of him. In a lesser book, a hero asking his partner to get waxed bare is a gross, patriarchal cliché—a demand for her to look like a porn star. But here? He planned this whole sensory feast. He bought fruit and brushes and edible body paint and champagne, and he turned every single thing she has ever felt insecure about—the size of her breasts, the curves of her hips, the sheer overflowing wetness of her appetite that she whispers *greedy* about in the dark—into literal, celebrated art.
 
-And that moment on the table when Sondra's hand pinned her thigh and told her *“Don't move”*—jesus. That was the most devastating beat in the chapter. Vee’s body recognizes that grammar of restraint, but having it applied impersonally, by a stranger who doesn't care about her at all, made the absence of Pace feel like a physical wound. It captured the exact difference between true erotic submission and sheer bodily compliance. When Pace holds her down, it’s reverence; here, it’s just meat on a paper roll.
+And the consent! The brilliant, erotic psychology of how he did it! He gave her back the control she thought she’d surrender. "Still meant the brush. Moving meant the brush going away." He made her stillness a choice, teaching her body that holding still wasn't about being trapped or pinned down (like that awful moment under Sondra's cold, impersonal hand at the salon), but about choosing to receive. And when she ruined his composure right at the start? When she took him into her mouth, softly kissed the old scar on his thigh that he used to protect, and wrecked him on the rug? She claimed her own hunger first. She wasn't just a canvas; she was a sovereign participant who laughed, who smeared paint across his face on purpose (*"Oops"*), and he just wore her print like a badge of honor!
 
-Yet, by the end, when she touches herself in the quiet room and realizes the sheer, electrifying newness of her own skin, the desire rushes right back in to fill the void. She didn't do it because she was forced; she endured it because she wants the moment where *his* hands find it. It's intense, it's a little messed up, it's deeply honest about the things women put their bodies through in the name of love and desire, and now I am desperate for him to see what she did.
+And then—the gesso. My god, my heart stopped. He literally dipped the brush into her own slick, using *her* to prep the canvas, painting her mons with her own wetness. He demystified it. He took the shame right out of the fluid she tried to wipe onto her dorm sheets in Chapter 60 and made it essential, beautiful, shining. And then he licked the painting clean, erasing it with his mouth, and kissed her with her own taste mixed with salt and champagne and skin. She searched for the boundary she had panicked over before, and this time, there was no panic. No disgust. Just him, and her, and the wave carrying them both.
 
-***
+And then that final beat. The photograph. Pace giving her the phone, not keeping a copy for himself, leaving her power and her image entirely in her own hands. But what does she do? She lies in the dark looking at herself—at this opulent, unashamed portrait of female desire—and she thinks of Randi.
 
-GATE 65 — Barely Stings
+*"Tomorrow was Randi's... She would not be telling her about this."*
+
+She says she won't tell her, but the very fact that her mind immediately went to Randi's hoarse voice, imagining Randi looking at this photo of her painted breasts and dripping sex... the heat is becoming unbearable. Vee thinks she's keeping a line, but the line is already a blur.
+
+GATE 66 — Still Life
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The psychological precision of the salon scene was devastating and brilliant, showing the exact line between cold compliance and loving submission. The anticipation for Pace to finally touch what she went through all that pain for has me completely gripped.
+WHY: The sensory brilliance of Pace painting her, reclaiming her shame through absolute reverence and playful dominance, was staggering. Seeing tenderness, intense heat, and immaculate consent collide like this is why I read romance, and the lingering psychological shadow of Randi right at the end leaves me desperate for the next page.

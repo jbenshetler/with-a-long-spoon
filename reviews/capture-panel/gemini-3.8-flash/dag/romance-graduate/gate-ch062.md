@@ -1,22 +1,32 @@
-*capture-dag-v2-rich · gate ch058 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 80491aa34d7b · 2026-09-19*
+*capture-dag-v2-rich · gate ch062 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 8348ecb548e4 · 2026-09-19*
 
-REACTION:
+REACTION
 
-Oh my god. *Oh my god.* This chapter felt like watching a masterclass in tension, social dynamics, and raw, feral heat, all while standing on top of an emotional landmine that nobody—except the reader—knows is ticking.
+Oh my god. *Oh my god.* My pulse is in my throat. Helen Rivers, what are you *doing* to me?
 
-First of all, Peter showing up to this country roadhouse and introducing himself to every single person as "Vee's boyfriend." The sheer emotional whiplash from December! The man who choked on those exact words, who literally let her walk out into the freezing night rather than spend a single syllable of commitment, just dropping it like a casual, undisputed fact over loaded plates of brisket. And watching him work the room? It was mesmerizing. It wasn't arrogant; it was pure, attentive care. He didn't dominate; he asked Danny about his bench, he unlocked Theo with jazz, he gave Cassie the exact unvarnished respect she requires to lower her guard. When Cassie gave him that dry, half-eyebrow "You can stay," I exhaled a breath I didn't even know I was holding. That was the blessing. That was the fortress wall coming down.
+First of all, Dr. Marsh’s lecture on the lice comb and the baboons grooming for an hour just to keep from sickening? "Somebody in this room, by spring break, is going to tell me what you spend it on now." The thematic precision of that! We spend it on *this*. We spend it sitting across from the only person in the universe we trust to take our wreckage and our raw lust and our secrets, passing a wintergreen Lifesaver between palms, spending an hour combing through each other's intimacies until we're clean and held. It’s breathtaking prose, genuinely literary, but carrying an erotic charge so heavy it feels like a live wire.
 
-And then there's Randi. God, the undercurrent with Randi at that round table made my chest physically tight. Sitting there in her chambray and too-nice heels, drinking beer, locking hands with Vee so hard the bones clicked when Peter claimed the title. That glazed, quiet look when she toasted Vee—*"What I didn't tell him is that meeting Vee was the highlight of my year"*—turning the wine glass by a slow quarter at a time. It breaks my heart because Vee thinks Randi is just moved by the romance of it all, but we know the truth: Randi is drowning. She loves Vee so desperately, and she's sitting at a table watching the man she secretly arranged this with play the perfect, devoted boyfriend, entirely cut out of the intimacy except as an audience.
+And then the loft. God, the loft.
 
-And then the truck. *Jesus.*
+Vee trying to turn the morning-after snowballing into a cute, self-deprecating comedy bit for the girls' table—putting her hand up like a Victorian aunt, setting her little outrage down like a party trick, fishing for Randi to validate her reflexive Ohio shame: *"You think it's gross too, don't you."*
 
-The shift from the wholesome warmth of the roadhouse to Vee practically crawling out of her skin with lust was incredible. Going across the bench seat, blowing him right there in the dark lot while his hand went stunned in her hair, and then—before they even get home—wrestling her jeans down to her knees at fifty miles an hour so he can drive with one hand and make her come with the other? The callback to her lonely, desperate, terrified drive on that same county road just a few days ago was pure narrative perfection. On Friday she was touching herself in terror of getting caught, starving and unfinished. On Wednesday she’s dragging her own thong aside in the passenger seat of his truck, completely claimed, coming so hard her boots are braced on the floorboards while he casually steers with his wrist.
+And Randi. Just... staring at her through the candlelight, taking the measure of it, and dropping two syllables that altered the gravitational pull of the entire book:
 
-The heat was blistering, the character beats were flawless, and the tragic, beautiful irony of this triangle is winding tighter and tighter. I am utterly hooked.
+*"I don't."*
+*"Did you like it?"*
+*"It was powerful. It turned me on."*
 
-GATE 58 — Among Friends
+I stopped breathing. The absolute quiet mastery of that moment! Randi didn't argue with her, didn't give her a feminist lecture, didn't mock her. She just set a grown-up truth on the white tablecloth and let Vee choke on the difference between what she’s been trained to perform and what her body actually craves. And Vee’s body *knows*. That clench under the table, the wine drying up in her mouth, the realization that her "tidy explanation" was complete bullshit—and then blurting out, *"Actually—he's enthusiastic."*
+
+And Randi eating the bread with that warm, knowing *"Mm."* Like a cat watching a bird realize the window is open.
+
+And then the ending on the sidewalk. Jesus Christ. Vee weaponizing the "tickle" spot on Randi’s neck—kissing the bare, warm dip between neck and shoulder, totally naive to what she's actually touching—and Randi's whole body catching, rising, holding that breath a beat too long before laughing it off as a flinch. Randi is in agony. She is starving for this girl, standing in an icy parking lot having Vee’s mouth on her neck after listening to Vee describe swallowing Peter's come and being eaten out like a blood orange.
+
+The three of them are in deep, dangerous water now. Vee thinks she's just a girl with a great boyfriend and a glamorous bestie. She has no idea she's standing in the middle of a furnace.
+
+GATE 59 — A Clean Plate
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The balance between rich, intelligent social observation (Pace winning over every single friend) and pure, unhinged carnal heat (the truck scene) was absolute perfection. The dramatic irony surrounding Randi's quiet devastation is killer. I need the next chapter immediately.
+WHY: The tension in that booth was almost unbearable—Randi flatly dismantling Vee’s shame with four words ("It was powerful. It turned me on"), followed by that neck kiss on the freezing sidewalk. This is adult erotic fiction operating at the absolute peak of its powers, psychological depth and searing heat locking together completely.

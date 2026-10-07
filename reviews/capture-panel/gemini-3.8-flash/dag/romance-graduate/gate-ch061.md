@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch057 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b9d0068c9a3c · 2026-09-19*
+*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 80491aa34d7b · 2026-09-19*
 
 REACTION:
 
-Holy *shit*. My hands are actually shaking. This chapter was an absolute masterclass in psychological tension, voyeurism, and sheer erotic audacity.
+Oh my god. *Oh my god.* This chapter felt like watching a masterclass in tension, social dynamics, and raw, feral heat, all while standing on top of an emotional landmine that nobody—except the reader—knows is ticking.
 
-First of all, Vee showing Randi the actual *stain* on the satin lining of her coat?! The dark bloom of her own arousal from the drive?! I gasped out loud in an empty room. That is so filthy, so intimate, so completely past any normal boundary of female friendship that it borders on ritualistic offering. And Randi just staring at it, breathing hard, taking it in like holy communion. The dynamic between these two has jumped the tracks completely.
+First of all, Peter showing up to this country roadhouse and introducing himself to every single person as "Vee's boyfriend." The sheer emotional whiplash from December! The man who choked on those exact words, who literally let her walk out into the freezing night rather than spend a single syllable of commitment, just dropping it like a casual, undisputed fact over loaded plates of brisket. And watching him work the room? It was mesmerizing. It wasn't arrogant; it was pure, attentive care. He didn't dominate; he asked Danny about his bench, he unlocked Theo with jazz, he gave Cassie the exact unvarnished respect she requires to lower her guard. When Cassie gave him that dry, half-eyebrow "You can stay," I exhaled a breath I didn't even know I was holding. That was the blessing. That was the fortress wall coming down.
 
-And then the restaurant bathroom. Vee having to excuse herself because Randi's questions—deliberate, forensic, teasing every drop of detail out of her—got her so soaked she literally couldn't sit in her chair anymore. The sheer dirtiness of Vee sliding her hand in against the cold stall partition, coming undone while Randi's *face* is the thing that pushes her over the edge? *"He could see you were ready. There's no way he couldn't."* And Vee having that frantic, desperate mental defense: *Because that had been about Pace, obviously. All of it. About Pace.* Honey. Darling. You just masturbated in an Italian restaurant bathroom to your best friend grilling you about your sex life. The level of self-delusion is staggering and deliciously tragic.
+And then there's Randi. God, the undercurrent with Randi at that round table made my chest physically tight. Sitting there in her chambray and too-nice heels, drinking beer, locking hands with Vee so hard the bones clicked when Peter claimed the title. That glazed, quiet look when she toasted Vee—*"What I didn't tell him is that meeting Vee was the highlight of my year"*—turning the wine glass by a slow quarter at a time. It breaks my heart because Vee thinks Randi is just moved by the romance of it all, but we know the truth: Randi is drowning. She loves Vee so desperately, and she's sitting at a table watching the man she secretly arranged this with play the perfect, devoted boyfriend, entirely cut out of the intimacy except as an audience.
 
-And Randi knowing! *"Things were really heated. It's a good thing you got relief."* My stomach dropped straight through the floor. The cruel, playful, razor-sharp power Randi holds over her. And the kiss on the neck on the sidewalk outside—Randi *flinching* and laughing it off as a tickle. Randi is playing with absolute dynamite and she knows it, but she can't resist pulling the pin.
+And then the truck. *Jesus.*
 
-Tomorrow is the dinner. Pace, Vee, Randi, Cassie, all in one room. Pace is going to see Randi; Randi is going to see Pace; Cassie is going to sit there with her radar spinning at maximum velocity. And Vee is walking into it thinking she’s a "pleasure princess" who has everything figured out. I need chapter 58 right now. Turn the page immediately.
+The shift from the wholesome warmth of the roadhouse to Vee practically crawling out of her skin with lust was incredible. Going across the bench seat, blowing him right there in the dark lot while his hand went stunned in her hair, and then—before they even get home—wrestling her jeans down to her knees at fifty miles an hour so he can drive with one hand and make her come with the other? The callback to her lonely, desperate, terrified drive on that same county road just a few days ago was pure narrative perfection. On Friday she was touching herself in terror of getting caught, starving and unfinished. On Wednesday she’s dragging her own thong aside in the passenger seat of his truck, completely claimed, coming so hard her boots are braced on the floorboards while he casually steers with his wrist.
 
-GATE 57 — Covering
+The heat was blistering, the character beats were flawless, and the tragic, beautiful irony of this triangle is winding tighter and tighter. I am utterly hooked.
+
+GATE 58 — Among Friends
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The tension is strung so tight it’s humming. The erotic charge of Vee confessing to Randi, the bathroom scene, and the impending collision of the entire cast at tomorrow’s dinner makes put-down impossible.
+WHY: The balance between rich, intelligent social observation (Pace winning over every single friend) and pure, unhinged carnal heat (the truck scene) was absolute perfection. The dramatic irony surrounding Randi's quiet devastation is killer. I need the next chapter immediately.

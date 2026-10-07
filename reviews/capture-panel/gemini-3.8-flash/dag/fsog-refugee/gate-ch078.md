@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch074 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha d281dca7ae5b · 2026-09-19*
+*capture-dag-v2-rich · gate ch078 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha a049482a93ca · 2026-09-19*
 
-REACTION:
+REACTION — My god. My absolute god. My hands are literally shaking typing this.
 
-Oh my god. I feel completely sick to my stomach.
+First of all: *the bench.* The craftsman, the mathematician, the man who built an entire custom piece of furniture designed around the exact topography of her body, leaving a deliberate drop for her breasts, angled supports to lift her hips, grips instead of ropes so *she* has to choose to stay. That is so outrageously, brilliantly hot, and so entirely *Pace*. But what made this chapter transcend into something utterly unforgettable was the psychological demolition of Vee’s shame.
 
-I feel physically dirty having read that, and not in the good, hot way. I mean cold, nauseous, horrified. The betrayal here is so monstrous that it completely retroactively poisons every single beautiful, tender thing Pace has ever done or said.
+Since the very beginning of this book, Vee’s defining wound has been her "too-muchness"—the terror of her appetite, the wetness that betrayed her, the voice of her mother in her head telling her she’s a dirty, broken floozie. And what does Pace do? He doesn't just soothe it; he builds a cathedral around it. He makes her hold her own lies up—*"I'm not enjoying it," "that's just the cold," "tell me it rained"*—and then systematically, exquisitely lets her body dismantle them until there is no shield left to hide behind. When she broke and dripped onto the floor—*Pat. Pat.*—and he asked, *"Tell me that isn't you,"* and she finally, wholly gave up the defense and whispered *"Please"*... I had tears in my eyes. He broke her surface without breaking *her*. He brought her all the way through the fire and left her living, breathing, and adored on the other side.
 
-On *her green sheets*. The sheets she bought him. Randi purposely showed up naked on Vee’s sheets, dared him, lied about Vee being on the road so they’d have a panic-fueled, rushed, kinky scene where he puts clamps on her nipples, spanks her clit swollen, and comes deep inside her while Vee’s name is in the room. And then—and then!—Randi laughs and reveals she basically roofied Vee with mimosas, tucked her into bed helpless and unconscious, just to steal her afternoon and fuck her boyfriend. And Pace isn’t disgusted! He isn’t horrified that his lover just incapacitated the girl he supposedly cherishes! No, *it charmed him*. He finds it a cute, thrilling little game.
+And the consent! The absolute mastery of consent in this scene! Checking her safeword before they even started. He didn't buckle her down; he gave her grips to hold. When she faltered, he stopped, walked to the end of the table, crouched to eye level, stroked her cheek, and asked, *"You still with me?"* It wasn't cruelty; it was an intensely rigorous, breathtakingly tender excavation of her desire. And then, when she was totally wrung out, she claimed her agency right back. She didn't let him just be the benevolent top; she pushed him onto the bed, rode him, and watched the master of control completely unravel inside her.
 
-And then the morning. That morning scene is pure, unadulterated nightmare fuel. Randi goes down on him under the sheets, sucking him clean to "wipe herself off him" for Vee, while Vee is on the phone—sweet, hungover, trusting, completely innocent Vee—apologizing for ruining their date and literally *praising Randi for being such a good friend*. "I don't know what I'd do without her."
+...Which makes the looming catastrophe of Chapter 74 feel like a physical sick feeling in the pit of my stomach.
 
-I can’t. I actually felt a knot of genuine grief in my chest for Vee. She has nobody. She is surrounded by two absolute psychopaths who are getting off on wearing her down, lying to her face, gaslighting her, and orchestrating her entire life like she’s a doll they share. The contrast between Vee crying in chapter 73 because she felt guilty over touching herself to a *photo*—confessing to Pace, letting him interrogate her, feeling like she was a bad person—while Pace has literally been raw-dogging her best friend on the very same mattress? It makes me want to scream.
+I was soaring reading this, but underneath every single paragraph, I couldn't stop thinking about what happened in the chapters right before this. In Chapter 74, Randi was in that exact house, on the bed, taking clamps and spanks, crying on his chest, and then literally going down on him to *lick her own scent off his cock* so he'd be clean for Vee. Pace stripped those sheets and washed them on "Speed Wash" to erase Randi. And here is Vee, completely, incandescently in love, utterly bare and undefended, believing this sanctuary belongs solely to them.
 
-This isn't dominance. It’s not an intense romance. It is pure, calculated emotional abuse masquerading as an erotic arrangement. The only reason I am turning the page right now is because I am waiting for the bomb to go off. I need the explosion. I need Vee to find out, and I need Cassie to help her burn their whole entire world to the ground. If Vee just blithely accepts this when it comes out, I will throw my Kindle across the room.
+Pace gave her the single most profound, healing, transcendent erotic experience of her entire life—and he is standing on a foundation of radioactive deceit. It is going to destroy her when it breaks. It is going to shatter her into a million pieces. I am in awe of this writing, I am sweating, and I am utterly terrified.
 
-GATE 74 — In Her Place
+***
+
+GATE 75 — Vee on the Bench
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-ALMOST-STOPPED: "Beside him Randi listened, sleepy, and a smile came up on her face soft and almost tender — and then it woke the rest of the way and turned, and she slid down under the green and took him in her mouth."
-WHY: The sheer level of betrayal and violation made my stomach turn, but the sick, horrific momentum of this train wreck has me completely gripped. I have to see how Vee walks into this house and when the truth finally destroys them.
+ALMOST-STOPPED: none
+WHY: An absolute masterpiece of high-heat psychological dominance and fierce tenderness that dismantled Vee's core shame, made agonizingly intense by the ticking bomb of what Pace is hiding from her.

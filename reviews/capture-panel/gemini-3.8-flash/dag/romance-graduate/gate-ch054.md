@@ -1,24 +1,31 @@
-*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha bff68c2a8905 · 2026-10-07*
+*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1011072a47a5 · 2026-10-07*
 
-REACTION
+REACTION:
 
-Oh, Pace. *Oh, Pace.*
+*Oh my god.* My chest is pounding. I have so much to say I don’t even know which wire to grab first.
 
-I am sitting here with my chest aching. The mop bucket with the foam crust from throwing up his guts, the lingering smell of bleach, the cold boiled chicken and broccoli he forces down just to keep his machine of a body running—and then Willie Nelson's *Whiskey River* playing softly while he realizes the alcohol washed out everything except the memory of her.
+First of all: Randi. The sheer, terrifying brilliance of Miranda. Watching her sit on that messy bed, pushing the designer clothes from Gstaad onto the floor like trash because *Vee* is what matters, and meticulously disassembling Vee’s panic—it was masterclass manipulation wrapped in genuine, desperate love. She took Vee’s very real, very legitimate boundary (*“Words are cheap and you still won’t spend them on me”*) and reframed it as Vee "blindsiding" a poor, devoted boy who was just freezing behind a wall because he was so cornered. She convinced Vee that her demand for self-respect was just "fear talking," and walked her straight into the ultimate submissive sacrifice: show up naked under a coat, bring him peace, give him your body so he doesn't have to give you words. It is so diabolical, and yet—Randi is doing it because she *needs* Vee back in Pace’s orbit. Because Pace’s house is where Randi gets to have her too.
 
-Seeing him completely shattered like this completely reframes the silence. All this time, I thought his refusal to say the words was cold calculation—that he was protecting his arrangement with Randi, that he was playing the board. And sure, the Randi complication is still an unexploded bomb sitting right there in his hall (folded neatly into that cashmere blanket he puts away). But the core of his paralysis isn't malice or even arrogance. It’s trauma. It’s an autistic young man whose first love, Daphne, was his entire map of the human world, and when she walked, he had no one left to even tell that she was gone. He built a fortress out of routine, seared salmon, and unsaid words because he convinced himself that if you don't say *I love you*, the loss remains "survivable."
+And then—the kiss in the foyer. *Holy shit.*
 
-And then Vee walked in, starving and generous and brave enough to lay her whole heart out on his porch in code, and he choked. He knew the true answer, and he chose the small, safe lie because he was terrified.
+Four months. Four months of Randi carefully engineering touches, leaning in, kissing Vee on the cheek, testing the water, and Vee turns around from the doorknob, takes Randi’s face in *both hands*, and kisses her mouth until her chest stops hurting. The way Randi reacted after Vee walked out—standing alone in that foyer, touching her own bottom lip, making that "short idiotic sound" of pure shock and triumph—I had absolute chills. Vee didn't just accept it; Vee initiated it. The monster just got everything she dreamed of, handed to her on a silver platter.
 
-That moment with the truck on the highway broke me. The fork freezing halfway to his mouth, his whole body leaning toward the sound of tires on gravel, waiting for that beat where her headlights hit the drive and her face lights up just for him—and then the engine doesn't slow. It just keeps going. And the master of control, the man who measures out his life in vacuum-sealed bags and precise temperatures, just drops his fork and weeps over his cold prison food.
+And then Brooke walks in and drops a concrete slab on the whole thing.
 
-It doesn't excuse the fact that he let her walk out into the freezing dark. It doesn't fix the mess he's made. But God, it makes him so deeply, devastatingly human. He finally knows what he did: *He had hurt her because he was afraid of how much she could hurt him.* Now what the hell is he going to do about it?
+*“You always say goodbye under the composites.”*
+*“Play all you want, privately, or for the boys... I'm asking whether you want to keep your position.”*
 
-GATE 54 — Not Enough
+I stopped breathing. The ice in Brooke’s polite, sorority-president warmth! Brooke saw it. She’s probably seen all of it. In this world of gilded reputations, you can play "for the boys" (performative college-girl bisexuality to turn men on), but the moment it’s real—the moment a girl grabs your face and kisses you under fifty years of framed alumni—it threatens the house. The threat wasn't even veiled. It was an absolute checkmate.
+
+So now look at the board: Vee is going back to her dorm to shower, put on Randi’s heels, and drive to 614 naked under a coat, completely unaware that Pace just spent the morning weeping over cold chicken because he loves her and can’t say it. She thinks she's surrendering; he’s already broken. And Randi is upstairs behind a shut door, her lips still buzzing from the girl she is desperately in love with, holding the loaded gun Brooke just put to her head.
+
+Turn the page. I need tonight. I need the door at 614 opening *right now.*
+
+GATE 55 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Pace finally breaking down over his cold chicken after mistaking a passing truck for Vee's car tore my heart out. Understanding the Daphne wound explains his pathological silence, and watching his absolute composure completely shatter was magnificent.
+WHY: The tension is coiled so tight it’s vibrating. Vee taking Randi’s face and kissing her on the mouth, followed immediately by Brooke’s chilling, velvet-gloved sorority blackmail, took this book to an absolute boiling point. And now Vee is heading to Pace naked under a coat while he’s still shattered from losing her—I cannot turn the page fast enough.

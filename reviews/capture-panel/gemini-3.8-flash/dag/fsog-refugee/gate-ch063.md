@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch059 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 8348ecb548e4 · 2026-09-19*
+*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha f697ae9ef8f2 · 2026-09-19*
 
-REACTION —
+REACTION
 
-My jaw is on the floor. I need to scream into a pillow, take a cold shower, and then call someone at two in the morning to dissect every single syllable of this chapter.
+Oh, God. Oh, my heart.
 
-First of all: the anthropology class. Dr. Marsh talking about the grooming budget, about taking fleas off someone not because of the fleas, but because our species literally sickens and dies without an hour of hands in the fur every single day? *“Somebody in this room, by spring break, is going to tell me what you spend it on now.”* I felt that like a physical blow. Because the answer was sitting right in that booth three blocks away. That entire dinner *was* the grooming. It was two women sitting across a table, one handing over the raw, unwashed, intimate truth of her body, and the other picking through every single detail, grooming her, shaping her appetite, holding her open.
+This chapter made me feel like I was holding my breath in that suffocating, radiator-baked dorm room right alongside her. It is so rare—so shockingly rare in romance or erotica—to see female desire and female shame handled with this level of surgical, tender honesty. Usually, if a heroine explores herself, it’s either glossy and effortlessly empowered, or it’s played as dirty for cheap titillation. This was neither. This was a girl alone in the dark, caught between the conditioning of an entire lifetime—that quiet, venomous voice from Ohio telling her that her appetite, her wetness, her "plenty" is a shameful, excessive mess—and the wild, terrifying awakening she’s experiencing through Pace and Randi.
 
-And God, the absolute tension between Vee and Randi is getting unbearable. It is suffocating. It’s so thick you couldn’t cut it with a cleaver. Vee is so completely, innocently oblivious, riding high on her love for Pace, thinking she’s just having a saucy debrief with her glamorous worldly bestie—and Randi is practically vibrating out of her skin, drinking Vee in like water in a desert. When Vee tells the story of the truck, of Pace coming, and Randi asks, hoarse and low: *"Did you take it all? Didn't spill a drop?"* I stopped breathing. Randi isn’t just listening; she is *there*. She is tasting it through Vee. She’s living in Vee’s skin.
+That moment where she brings her own fingers to her mouth. The sheer psychological precision of that near-miss. *A breath’s width remained.* My chest literally seized up. She wanted to cross that threshold so badly. She had Pace’s total, untroubled acceptance of her body on one side—a man who groans into her like a meal, who drinks her down and brings her own taste back to her lips without an ounce of hesitation or disgust—and Randi’s cool, sophisticated permission on the other (*"It was powerful. It turned me on"*). She has two people showing her that who she is and what she produces is good, is delicious, is entirely worthy of devotion. And yet, that invisible, ingrained wall of shame still stopped her tongue behind her teeth.
 
-And then the moment with the kiss after oral sex. I knew—I *knew* when I read Chapter 53 that Vee was carrying that home to Randi to get permission, to figure out if she was supposed to be disgusted or turned on. And the way she laid it out as a joke, performing the prudish little Victorian outrage for laughs, expecting Randi to back her up so she could safely put her shame back in its box—and Randi just looked at her, deadpan, and said, *"I don't. It was powerful. It turned me on."*
+And then she wipes it on the sheet. That broke me. She wipes her own desire away like a stain, finishes herself off in a solitary, airless frenzy, and then forces the window open to let the freezing January air scrub away the evidence of her own life before Cassie gets back. And that final image—lying in the dark, deliberately settling her hip over the cold, damp spot on the bed, whispering *Greedy* to herself, her mouth still empty... it’s devastating. It’s gorgeous.
 
-The absolute mastery of that. In four words, Randi completely dismantled Vee’s childhood programming. She didn't argue. She just took away the shame and left Vee standing there holding the naked truth: that her body had *loved* it, that she had clenched around him the second she tasted herself on his mouth, and that the only thing calling it gross was an old, dead voice from Ohio. And when Vee admitted out loud, *"He likes it. Actually—he's enthusiastic,"* and Randi just murmured *"Mm"* like everything was going according to design... God, the hair on my arms stood up. Randi is curating Vee’s desires. She’s pruning away the shame so that when the time comes, Vee will be wide open.
+What gets me so deep in my gut is how safe she is with Pace’s memory even while she’s warring with herself. When she remembered him stopping the kiss—the way he stilled, the way he immediately began to pull out the moment she objected, reading which "no" was which without sulking, without forcing himself on her, without an ounce of cruelty—that is the exact heartbeat of what I read for. His dominance isn't an erasure of her boundaries; it’s an absolute reverence for them.
 
-And that ending on the sidewalk. Jesus Christ. Vee kissing the hollow of Randi’s neck—the exact place Randi told her not to touch, playing it off as a cute callback—and feeling Randi’s entire body catch, hitch, and rise against her mouth. Randi’s breath shaking in her ear. Vee thinks it’s ticklishness. She thinks it’s a joke. She has no idea she just pressed her lips to a live wire.
+She is coming alive, inch by painful inch, but the jacket's warning is humming louder than ever in the background. She thinks of Pace's mouth; she wonders about Randi's fingers. Both of them are pulling her out of her old, cramped life, feeding an appetite that was always hers, but she’s still so terribly fragile underneath it all. I need to see her get through this. I need to see her back in that warm house, at that table, being held.
 
-The jacket warned me: *she is a willing player in two games; she doesn't know there are three.* Pace fed her breakfast, Pace claimed her as his girlfriend in front of the whole world, but Randi is the one holding the mirror. I am terrified for the moment the trap springs, but sweet God, I cannot look away.
-
-***
-
-GATE 59 — A Clean Plate
+GATE 60 — The Reach
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The psychological and erotic tension between Vee and Randi across that table was breathtaking. Watching Randi quietly obliterate Vee's lingering sexual shame with just four words, while secretly coming undone every time Vee touches her, is absolute perfection. I have to read the next chapter right now.
+WHY: The psychological honesty of her shame warring with her appetite was breathtaking; watching her hover a breath away from her own mouth completely gripped me. I desperately need to see where this awakening takes her next.

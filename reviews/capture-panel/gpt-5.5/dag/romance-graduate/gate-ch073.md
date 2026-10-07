@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch067 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~b11de8d9a5ce · 2026-09-11*
+*capture-dag-v2-rich · gate ch073 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~be90efe95687 · 2026-09-11*
 
 REACTION —
 
-Oh this chapter made me ache in that specific, deliciously awful way where the room is quiet and nothing “happens” except everything comes due inside her body.
+Oh, Cassie. God, I needed her so badly here.
 
-This is the first time Vee can’t outsource the wanting. That’s what got me. With Pace, she could turn Randi into heat for him, tell herself it was part of their sex, part of the game, part of being wound up. But Tuesday in class strips that excuse away. There’s no bed, no boyfriend under her, no dirty retelling to convert it into something straight and manageable. There’s just Randi’s knee against hers, Randi’s wrist-brush over the Lifesaver, Randi saying “having you,” and Vee’s whole body going yes while her mind stands there with a clipboard going absolutely not.
+This chapter is tiny and it absolutely knew where to put the knife. After all that heat and denial and Pace turning confession into sex and Randi turning danger back into a joke, Cassie asks the one clean question nobody else is asking Vee: *Is this what you want?* Not “are you being bad,” not “what are you doing,” not even “are you into her.” Just want. And Vee cannot answer. That landed harder than if she’d lied smoothly, because she *does* look. For one second she actually goes toward the truth, and then backs away like it’s too bright to put her eyes on.
 
-And God, the Lifesaver thing. This book has made me feral about tiny objects. A wintergreen candy should not feel like contraband, but it does, because now every little ritual has a charge. Their friendship has all these established gestures that used to be safely deniable, and now Vee is trapped inside them awake. That is such a mean pleasure to read. The intimacy was already there; the only thing that changed is that she can feel it.
+I love that Cassie does not let Vee drag them into the old “you don’t like Randi” fight. That is such a roommate-love move, and such a real friend move: refusing the decoy argument. She sees Vee flailing and doesn’t punish her for it, but she also doesn’t pretend the flailing is an answer. The silence in this room felt colder than the walk outside.
 
-I also loved and hated the way she dodges the kiss and gets punished by something worse. Not because Randi is cruel exactly, though Randi is absolutely playing too close to the edge and knows more than she admits. But Vee turns her mouth away, finally tries to make one clean boundary, and Randi just kisses her neck, the place Vee herself has already made charged between them. “How do you like it?” Girl. GIRL. That is not innocent. That is a match struck under a curtain.
+And then Cocoa Pebbles. I nearly melted. Not because it’s cute, exactly, but because it’s mercy. Cassie clocks that Vee cannot answer the big thing tonight, so she gives her a small thing she can answer. A bowl-sized want. A safe want. “Do you want some of my Cocoa Pebbles?” is somehow more intimate than another speech would have been. It says: I see you. I’m worried. I’m not leaving. Eat something.
 
-And then Vee blurting brunch. That killed me. She escapes the kiss, gets hit in the neck instead, and immediately asks for another private date. She is so bad at protecting herself because half of her does not want protection. I felt that. The want and the apprehension holding hands up the stairs is exactly the shape of this part of the book.
+I’m also scared now in a different register. Pace is in the lie with Randi, Randi is actively pulling Vee closer while pretending she isn’t, and Vee is starting to lie to Cassie too, or at least trying and failing. Cassie may be the only unglamorous truth-teller in the room, and Vee just bounced off the truth so hard she hid in cereal. Which, honestly, I get. But oh, baby. This is coming due.
 
-Cassie at the end was such a relief and such a threat. Finally, someone outside the spell says the plain thing: what was that? And Vee has no answer. That’s the scariest honest place she’s been in yet. Not denial with a clever explanation. Not “my dumb body.” Just nothing. No usable lie rising to meet her. That feels like a threshold.
-
-This was quieter than the painted fruit chapter, obviously, but it pulled hard because it changed the map. Randi is not a fantasy leaking into Pace anymore. Randi is becoming the problem in daylight.
-
-GATE 67 — Coming Due
+GATE 68 — Some of Mine
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 9
-ALMOST-STOPPED: "Monday was worse for having nothing in it."
-WHY: This was a bridge chapter, but a loaded one: all internal recoil, denial, and tiny touches turning radioactive. I’m desperate for brunch now, and also for Cassie to keep asking questions, because Vee has officially run out of clean compartments.
+ALMOST-STOPPED: none
+WHY: This was barely a page, but it punched above its weight because Cassie’s question cut through all the erotic fog with terrifying clarity. Not a hot chapter, but it made me desperate for the next one because Vee has now failed to answer the real question out loud, and Cassie has seen that failure.

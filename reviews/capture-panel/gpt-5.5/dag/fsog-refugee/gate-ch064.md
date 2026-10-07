@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch059 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~8348ecb548e4 · 2026-09-12*
+*capture-dag-v2-rich · gate ch064 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~f697ae9ef8f2 · 2026-09-12*
 
 REACTION —
 
-Oh. Oh, this one got under my skin in a quieter way than the porch or the truck, and almost more dangerously because nobody else is in the room. It’s Vee alone with the thing that won’t stay where she filed it, and I could feel her trying to make a clean little category for it and failing. The whole chapter is just that one inch between her fingers and her mouth, and somehow that inch felt enormous.
+Oh. Oh, that was a turn of the knife.
 
-What I loved, fiercely, is that Pace is present here as care even in memory. The thing that’s making her curious is not humiliation from him, not pressure, not some man smirking at her shame. It’s his calm. His enthusiasm. The way he liked her without asking her to become less first. That’s exactly the difference I read for. He makes her look at the part of herself she has always flinched from because he doesn’t flinch. And now Randi has made it worse, or better, by not flinching either. “I don’t.” God. That mild little fact is still echoing.
+I knew Pace and Randi had history, obviously. I knew there was a game before Vee knew there was a game. I knew they were intimate in some way, or had been, or could be. But being put straight into them like this, not as backstory but as a living bed, while Vee is still walking around with her mouth empty and her sheet damp and her trust so open it hurts — that hit differently. I felt my whole body go alert.
 
-And Vee not being able to do it yet felt so true to me. I didn’t feel disappointed in her. I felt protective of her. She wants it, or wants to know whether she wants it, but there’s still a whole installed lifetime between wanting and doing. The book lets that be erotic without making it a cheap “aha, she secretly likes dirty things” moment. She reaches, can’t reach, finishes anyway, and then has to open the window because the room is full of her. That is so intimate it almost made me look away.
+And the awful thing is, the chapter is hot. It is. I can’t pretend it isn’t. Pace is still Pace here: he listens, he waits, he checks without making a show of checking, he uses strength in that exact way that makes me stupid, where control is attention. “I heard you” got me, because yes, he did, and then he still made the moment slower and more chosen. Randi is not being erased either. She’s wicked and self-possessed and alive in her own desire. I believed every inch of her. I believed that she likes the taste and the power and the mess and the command of it. I believed that this is a woman Vee could want.
 
-Also: the closing of Cassie’s window at the start and opening it again after. That did something to me emotionally, not just sensually. She shuts out Cassie’s air so the room can become all hers, all heat, all body, all Pace’s flannel and the question Randi left in her. Then afterward she has to let the world back in before Cassie comes home. She can’t quite live openly in the hothouse yet. But she also lies down over the damp place. That is not nothing. That is Vee not cleaning herself completely away.
+But God, Vee is not in the room and she is everywhere in the room. That’s what made me squirm emotionally more than erotically by the end. They are using Vee’s name, Vee’s kisses, Vee’s almost-knowledge, Vee’s body imagined through Randi’s hands, as fuel between them. And I can feel how real their love for her is, which almost makes it worse. It is not cruel. It is not empty. It is full of feeling. But it is still happening over Vee’s head.
 
-I am now deeply nervous about Randi, because this chapter made Randi’s absence feel like a hand in the room. “A mouth carrying it back. Or Randi’s own fingers.” Excuse me. Vee is not just thinking about whether this act is gross or powerful. She is thinking about Randi’s body doing it. That is a door. A big one. And she still thinks the whole question belongs safely to Pace. It does not.
+“She kisses me first now” made my stomach drop. Because that is so private. That is a little bright piece of Vee’s becoming, and Pace spends it in bed with Randi. Not maliciously, but intimately, knowingly. Then Randi saying she wanted to put her hand on Vee’s breast — I felt the heat of it, yes, but I also wanted to grab Vee by the shoulders from the other chapter and say, sweetheart, there is a whole conversation happening about your body and your yeses that you are not present for.
 
-GATE 59 — The Reach
+And then: “She’s not the only one in love.” That line. That one made the air change. Randi is braver with Pace than she is with Vee, and Pace not denying it tells me this triangle is not just desire anymore, not even arrangement. It is already emotionally binding all three of them, except one of the three is still reading the map upside down. Vee thinks Tuesday dinner is friendship with sparks she won’t name. Pace and Randi are in bed naming the weather.
+
+I am not stopping. I’m too caught. But I am now reading with my hand on the brake. The consent I care about is not only sexual mechanics, and this chapter knows that, which is why it’s so uncomfortable. Everyone in this room consents to what is happening in this room. Vee has not consented to being made the secret center of it. That distinction is glowing red for me.
+
+GATE 60 — My Pleasure
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 8
-ALMOST-STOPPED: "She could not close the distance."
-WHY: This was quiet, but it pulled hard because it made Vee’s desire feel genuinely hers and genuinely frightening to her, not performed for anyone. I want the next chapter badly because the Randi part has moved from shimmer to shape, and Vee is still pretending she doesn’t see it.
+NEXT: 9
+ALMOST-STOPPED: “She kisses me first now.”
+WHY: This pulled me hard because the desire is alive and specific, but it also made the hidden arrangement feel suddenly much more dangerous. I want the next chapter badly because Vee needs to get closer to the truth, and I need to know whether the book is going to honor her when she does.

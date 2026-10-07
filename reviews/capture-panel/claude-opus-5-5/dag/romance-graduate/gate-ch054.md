@@ -1,22 +1,30 @@
-*capture-dag-v2-rich · gate ch054 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha bff68c2a8905 · 2026-10-07*
+*capture-dag-v2-rich · gate ch054 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1011072a47a5 · 2026-10-07*
 
 **REACTION**
 
-Okay. So he loves her. He knows he loves her, he had the words right there on the porch, and he picked the smaller ones because a woman named Daphne left and it nearly killed him. I'd half-guessed it from "I don't go back" and the scar, and it still landed. It landed hardest in the one line where the book didn't push: *There had been no one to tell that Daphne was gone. Daphne was the person he would have told.* That one I read twice. With "people who've never lost anything think grief is a choice" from the diner still in my head, I don't think "left" means she moved to Denver. I think the book is holding back a death, or something close to one, and I'm suspicious in the good way.
+Finally. She left the house and the book left with her. After four chapters of people alone in cold rooms (the chalet, the twin bed, the diner, the bleach), somebody actually goes to somebody's door.
 
-Then it went and explained itself. "He had hurt her because he was afraid of how much she could hurt him." "He had taught himself that the words were the difference." I GOT IT. I got it from the arms folding three chapters ago. Most of this chapter is so stripped down, short flat sentences like a man moving carefully because his head hurts, and then it stops to read me the moral like I might miss it. Twice. That's where I nearly put it down, not over boredom.
+The plane opening hit me harder than I expected. "She had not gone home. She had visited." Then the fields outside Roanoke giving him back to her within ten minutes, because her hands know the Friday drive. I've cried on that exact kind of drive. I didn't need a word of it explained.
 
-The truck is what saved it. His head coming up before he knew he'd moved, the fork stopping, the whole body leaning toward gravel that never comes. Then the sob, and then he picks the fork back up and eats the cold prison chicken anyway. That's Pace: grief handled like a procedure. It hurt. The man who cooks *for the philosophy of it* eating vacuum-sealed broccoli because his body needs it is a quiet, devastating picture, and the book trusted me with it. The bleach and the mop by the bathroom too. Nobody had to say he threw up.
+Then the sorority house. The blonde with wet hair deciding whether a crisis was hers. Brooke's warmth showing up "ahead of the chapter president," and I clocked that, because it's the tell of the whole chapter. Randi gets her up the stairs, and the hug went past where a hug stops. Vee breathing in bitter orange off her neck and not wanting to stop got me more than half the sex scenes I've read this year.
 
-And then there's Randi's cashmere blanket, "the one for the chill that took her after," which he folds and puts back *where it lived*. In his bed. Meanwhile Vee's in Ohio building a blonde out of spite, and the woman who actually lives in his sheets is the one texting her *gorgeous 💋*. That one sentence did more to me than the whole Daphne section. I'm frightened for Vee.
+What really got under my skin is that Randi is *right*. I sat with Pace sobbing over cold chicken last chapter, and here's Randi, who hasn't seen any of that, reading him perfectly: "a boy holding himself still so it won't show how much you got him." Dramatic irony with a scalpel. She's also right about the made-up blonde, and I loved "fear needs a face to point at."
 
-But honestly, that's four in a row now: Randi alone in Gstaad, Vee alone in Ohio, Pace at the diner, Pace alone hungover. All four are the same ache from a different chair, and nobody has touched anybody since Randi's ski-lawyer, which got an "Afterward." This book promised me *warmer and more explicit*, and I've been reading about sadness in cold rooms for four chapters. Each one is good. Together it's a stall, and my notes literally begged for no fourth chapter on the unsaid word. This was it, just from his side. I needed it to know he loves her. Now I need term to start and the two of them in the same room, and I need it next chapter.
+And then she hands Vee a plan, and I went cold for a second. Coat, nothing under it, and *her* heels. "Just the thing for tonight." Randi always knows the shoes. Randi built the induction night too, kneeling to buckle Vee's heel. Now Vee is walking back to Pace in Randi's shoes, on Randi's idea, and Randi's fingerprints will be on whatever happens behind that door. Is this "for us"? Is this love? Is it both, and does Randi even know which? The coat trick is pure BookTok cliché, and normally I'd roll my eyes. But the scene earned it. Vee forces out "it's such a slutty thing to do," burning, in her mother's voice, and then the wanting turns over under the shame and gets sharper. That's the heroine I signed up for. The trope stopped being a trope because I was inside her when she got there.
 
-GATE 54 — Not Enough
+The John retelling dragged for me. I'd read it two chapters ago. But Vee's reactions saved it: "naming children on the first day" going into her sideways, a man who isn't afraid of one word. Then Randi, who narrates everything, stops at "we went up." And "everywhere but the bedroom" is a lie that's almost true backwards. The bedroom was fine. *She* was the cold thing in it. Vee hears it as discretion. I know better, and that gap is delicious.
+
+Then the kiss. VEE KISSED HER. She turned around from the latch and went back and took Randi's face in both hands. Randi's breath stopped and her hands shut on the back of the coat. Then Randi's half: the back of her hand to her own mouth like she's fifteen, the stupid laugh in an empty hall, "she came back." I was grinning at my Kindle at 1 a.m. like an idiot.
+
+And then Brooke. Oh, I *hate* Brooke. "Play all you want, privately, or for the boys." She delivered that threat in a voice like a warm bath and walked off to talk about a form. Randi putting the empty mug back in the cupboard without anything in it is the saddest small gesture in this book. Now there's a price on the thing she just started to let herself have, and she has a pact with Pace and a best friend walking toward his door in her heels tonight.
+
+Text to my friend: *the redhead kissed the brunette first and the sorority president basically said "be gay quietly or lose your title" and now the redhead is going to her boyfriend's house naked under a coat IN THE BRUNETTE'S SHOES. I'm not sleeping.*
+
+GATE 55 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 5
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him."
-WHY: The truck, the sob and the cold chicken eaten anyway are real, and Daphne finally makes his silence make sense. I'm grateful for that and annoyed the book spelled it out. Randi's blanket in his bed is the hook keeping me here. But this is the fourth solo, no-touch chapter in a row, and if the next one isn't Vee back on campus facing one of them, I'm done.
+CAPTURE: 8
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "He'd been the better skier and spent none of it proving so." That's where the John retelling started repeating chapter 51 back to me, and I skimmed.
+WHY: After four solitary chapters, people finally touched each other, and Vee started the kiss herself, which is the turn I've been waiting fifty-five chapters for. Brooke put real stakes on Randi, and the coat with Randi's heels has me suspicious and turned on at once. The next chapter is that door, so I'm already reading.

@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bff68c2a8905 · 2026-10-07*
+*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1011072a47a5 · 2026-10-07*
 
-REACTION
+REACTION — I am furious. Randi just took Vee at her most exhausted, frightened, and alone and carefully turned Pace’s failure into Vee’s fault. “You backed him into a corner.” No. She asked the man she loves what she was to him. She gave him every opportunity to answer. Randi knows exactly why he could not honestly name the relationship, because Randi is the missing truth inside it, and she sat there stroking Vee’s hair while teaching her to apologize for having asked.
 
-Oh, Pace. There you are.
+And then: “That is not a man with another woman.” Randi. You are the other woman. You know about Sheri too. You know Sheri is not the imaginary blonde Vee tortured herself with, and you know Pace spent the break wrecked over Vee. Every comforting fact Randi supplies is selected from information Vee does not know she possesses. This is not miraculous intuition from a best friend. It is intelligence gathered from both sides and used to steer Vee toward the outcome Randi and Pace wanted from the beginning.
 
-I have been furious with him for hiding inside precision, and now he names exactly what he did: Vee gave him the brave, whole truth, and he deliberately handed her the smaller truth because he was afraid. He watched it fail. He knew it failed. That hurts almost more than if he had simply misunderstood—but it also means I finally believe we are going somewhere. No more letting his tenderness speak in his defense. He knows he was weak. He knows he hurt her to protect himself from the possibility that she might someday hurt him.
+The coat plan is exactly what I was afraid of: not information, but anesthesia. Vee left because she would not accept his hands in place of the word, and Randi has now persuaded her to arrive as a naked answer so Pace never has to supply one. “Words are the whole war” made my stomach turn. Words are only dangerous because words would expose the structure. And telling Vee that baring herself is brave is so perfectly aimed at her shame and pride that I could practically see Randi pressing the concealed button. Vee does want to do it; that desire is real. But Randi manufactured the meaning around it and sent her back without the truth.
 
-And yes, Daphne explains him. She does not excuse him, but she explains him in the place I have been waiting to see. Of course he decided the words caused the devastation. Of course a man like Pace would mistake correlation for a rule he could live by: say love, become destructively vulnerable; withhold love, keep loss survivable. It is heartbreaking and so specifically him. But Vee has already disproved the rule. He withheld the words and lost her anyway, and now the pain has come through every defense intact.
+Which makes the kiss almost unbearable, because I wanted it so badly and it was absolutely Vee’s. She turned around. She put both hands on Randi’s face. She stayed because she was not finished. Nobody can take that wanting away from her, and Randi’s stunned, foolish happiness got me right in the chest. Four months of Randi initiating, and now Vee came back for her. That is a real turn. I was lit up by it—and sickened that Vee was kissing Randi in gratitude for being manipulated back toward the man Randi secretly shares. The feeling is genuine; the conditions around it are poisoned.
 
-The truck absolutely broke me. His whole body answering before his mind could intervene, believing for one second that she was coming back—and then the engine passing. Him sobbing over that cold, joyless bowl after feeding Vee all those meals and living for her first bite. God. I wanted him to suffer enough to understand, and apparently I did not want it to look quite this lonely.
+Then Brooke walked in and made the whole house feel dangerous. “Play all you want, privately, or for the boys” was ice-cold precisely because she said it warmly. She is willing to tolerate Randi’s desire only as spectacle or secrecy, never as something that might be true, and “do you want to keep your position?” is a threat with perfect manners. Randi has built her entire life around never being exposed, and Brooke just showed her the price of honesty. I understand much more sharply why Randi hides. I also fear this will make her cling harder to the threesome plan, because Pace can make wanting Vee socially legible as play for a man.
 
-The folded cashmere blanket stopped me, too. Randi is still physically present in the house even when she is absent, still built into his rituals, while Vee is grieving a relationship whose real structure she cannot see. Pace has reached the truth about loving Vee, but he has not yet reached the whole truth he owes her. Daphne is not the only reason he could not answer. “I love you” cannot be the grand repair if he still conceals Randi, their history, and their plan. I will melt when he finally says it—I know myself—but I will not let the book make those three words sufficient.
+I am already terrified of tonight. Pace loves Vee; now I know that beyond doubt, and I know he is suffering. But if he opens that coat and accepts her body as the peace offering without finally telling her the truth, I will want to throw the book. Vee is walking back believing she caused the rupture by asking too much. She did not. She asked for the minimum.
 
-Still: he loves her. Plainly, consciously, terrifyingly. Not merely how good they are together, not her body, not her understanding of his food. Her. And now he knows silence did not keep him safe; it only made him stand still while she drove away.
-
-Go after her, Pace. Sober up, eat your prison food, and then go spend the words. All of them.
-
-GATE 54 — Not Enough
+GATE 55 — My Friend Randi
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This gave me the confession I needed from Pace—not to Vee yet, but to himself, without an evasive inch left in it. I am already turning the page because loving her is only the first truth; now he has to tell her everything.
+ALMOST-STOPPED: “You backed him into a corner in his own house. Name it or lose me — the one thing he can't do.”
+WHY: The manipulation made me furious enough to leave, but Vee initiating that kiss was the honest, electric turn I have been waiting for, and Brooke’s threat changed the stakes instantly. I have to see whether Pace accepts the coat instead of giving Vee the truth—and whether Randi lets him.

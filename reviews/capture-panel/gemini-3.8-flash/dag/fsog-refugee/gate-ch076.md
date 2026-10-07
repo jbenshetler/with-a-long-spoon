@@ -1,38 +1,26 @@
-*capture-dag-v2-rich · gate ch072 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 156376f693c5 · 2026-09-19*
+*capture-dag-v2-rich · gate ch076 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 535f0119d805 · 2026-09-19*
 
 REACTION:
 
-My god. *My god.*
+Holy. Shit.
 
-I am sitting here in the dark with my heart hammering against my ribs, and I feel like I just got hit by an emotional freight train. That was… I don’t even know what to call that. It was the most breathtakingly erotic, tender, agonizingly beautiful, and utterly sinister thing I have ever read.
+My stomach was in absolute knots the entire time I was reading this. When Pace kissed the first hand and Vee thought she got away with it, my heart actually dropped into my feet because I knew—I *knew*—he was going to ask for the other one. And then: *"Now let me kiss your other fingers. So they don't feel left out."* I gasped out loud in an empty room. The absolute, breathtaking calculation and devastating intimacy of that man. He knew the second he woke up. He probably knew before he opened his eyes.
 
-Let’s start with the warmth, because this chapter laid out a feast of the exact thing I starve for in this genre. The cabin. The chicken tikka masala carried up the mountain in a thermos, the dry spiced cider, him taking her frozen hands and pressing them flat against his bare chest under his flannel without flinching—*that* is romance. That is devotion. And the handmade wooden box with his house key on a bed of oyster silk? (Wait—oyster silk? Where has she felt that silk before? Was that from Randi? Or Chapter 61? My brain snagged on that like a splinter, and then slipped away just like Vee’s did.)
+And then Vee saying out loud, *"But it wasn't you."* To his face! In his bed! While straddling him! The sheer, agonizing courage of her pulling out that phone and turning the screen toward him because she couldn't bear the thought of him imagining another man, only to step right into the jaws of the real trap.
 
-And then the bedroom.
-When he stood her in front of the spotted glass, tied the soft flannel around her eyes, and walked her through that blazon—naming every single inch of her body, not as cold marble, but as *hers*—it undid me. The shame Vee carries about her fullness, her breasts, her wetness, her "too-muchness," and him meeting every single hidden insecurity not with dismissal, but with absolute reverence. "A peach with a bite out of it." "Your body heard itself talked about and wept for it, and there's so much of it, and it's the most honest thing I've ever stood in front of." Anne Rice could never. Fifty Shades wishes it had a tenth of this soul. To be seen like that, wholly and without disgust, is every woman’s deepest erotic wish.
+And the trap was so, so hot, but it was also chilling. When he made her trade the truth for inches of his cock—again—and forced her to admit what she wanted... it wasn't just wanting to be touched by Randi anymore. It wasn't passive. It was: *"I wanted her in my mouth. Her nipple. I wanted to lean down and take it in my mouth and hear the noise she'd make. I wanted to be the one doing it."*
 
-And then he didn't touch her. He made her do it.
+Do you know what that did to me?! That is the EXACT phrasing Randi used when she was riding Pace in Chapter 61. *"Her nipple in my mouth."* Randi said that to Pace on white sheets weeks ago, and now here is Vee, weeping into Pace's neck, confessing the mirror image of the exact same fantasy. And Pace just *drives into her* the second she says it. He got what he wanted. The two women he is obsessed with are vibrating at the exact same frequency, hungering for the exact same thing, and he is the pivot point holding all the strings.
 
-The psychology of that scene made the hair on my arms stand up. Standing blind in the gray afternoon light, trembling, having to touch herself while the man she adores listens to her slick fingers and goes ragged breathing in the dark. And when she cried out *"You, you, you"*—shattering into a million pieces—and he caught her, lifted her off her feet, entered her with that desperate, graceless, feral urgency and sucked her own come off her fingers... I was gripping my kindle so hard my knuckles went white. It had the wild heat, the total consent, the absolute surrender of a woman coming entirely into her own power.
+The dominance here is so quiet, so patient, so utterly attentive. He isn't cruel; he doesn't get mad, he doesn't shame her, he holds her through the climax and pets her back while she tries to scramble for a lie and lets the lie fail on its own. It's the kind of control that leaves room for her truth, which is what I crave... but the fact that he is keeping the monster secret that he's already sleeping with Randi makes it feel like walking a tightrope over an active volcano.
 
-*Except.*
-
-Except I know what Vee doesn't know.
-I know about Chapter 61. I know about the pact. I know that Randi is sitting back in town, having bitten Vee's neck on a freezing sidewalk just days ago. And that ending—sweet, soft, afterglow pillow talk by the fire—made my blood run totally cold.
-
-*"Would you share that pleasure with me? Would you tell me, when you touch yourself thinking of me?"*
-*"Yes," she said... the word came out of her easy and breathy and barely attended at all, the way you say yes to something small.*
-
-HE JUST TRAPPED HER.
-Oh, Pace, you brilliant, terrifying, manipulative bastard. He didn't just ask for a cute piece of dirty talk. He just laid a tripwire across her entire psyche. Because what happens the next time Vee touches herself? Is she going to be thinking only of Pace? No. She’s going to be thinking of Randi’s mouth on the dance floor, Randi’s teeth on her neck, Randi’s hands on her waist. And now, she has given Pace her solemn, loving promise to *report* every time she touches herself. If she tells him she thought of him, she’s lying. If she admits she thought of Randi, she delivers the exact erotic confession Pace and Randi are hungering for. He extracted a contract from her while she was still wet and floating on the high of being loved.
-
-It is dominance wrapped in pure cashmere. It is so tender it makes you weep, and so calculating it makes you shiver. I cannot put this book down. I am terrified for her, I am completely under his spell right alongside her, and I need the next chapter right this second.
+And that ending. Vee lying on his chest, remembering January when she lied and said there was nothing else about Randi, realizing she is actively choosing to keep a piece of this back now, staring at that blinking cursor on Randi's text with ten days until Tuesday. The psychological tension is suffocating in the best way possible. I need the next chapter immediately.
 
 ***
 
-GATE 72 — Grace
+GATE 73 — Postcard
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The blindfolded adoration scene was absolute erotic perfection, but that closing question—extracting a promise about her private masturbation while she was still dazed—is a masterclass in psychological suspense that makes me desperate to see the trap snap shut.
+WHY: The tension in that dark bedroom was almost unbearable, blending psychological interrogation, intense sexual heat, and tragic dramatic irony into absolute perfection.

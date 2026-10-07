@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch067 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 00dbf427b44c · 2026-09-19*
+*capture-dag-v2-rich · gate ch071 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b11de8d9a5ce · 2026-09-19*
 
 REACTION:
 
-I am sitting here with my jaw completely on the floor and my pulse hammering in my throat. Holy *shit*.
+I am sitting here in the dark with my jaw on the floor.
 
-Randi. God, Randi is playing the most brilliant, heartbreaking, utterly devastating game I have ever seen on a page. The calculated genius of putting Vee in that scrap of a skirt, telling her she has "a foot of leg and an ass she hasn't got," taking her onto the floor, lifting Vee's arms so her body is entirely exposed, and then using a random frat boy across the room as an excuse to finally, *finally* take the thing she has been starving for since October.
+First of all: *Chapter 61.* I knew it from the jacket, I’ve known it intellectually for sixty chapters, but seeing Pace and Randi together—seeing them fuck, hearing them talk about Vee while he’s inside her, hearing Randi say *“Her breast in my hand... Her nipple in my mouth”* and Pace losing his mind over it—made my stomach drop into my shoes. It is so hot it makes you feel sick, because you know the freight train that is barreling down the tracks straight at Vee’s heart.
 
-"The joke and the thing were not going to be the same size." That line hit me like a physical blow. Because Vee knows. Underneath all the sorority theater and the giggling and the "putting on a show for Harrison," Vee’s body was not doing a bit. She leaned down into that kiss, she parted her mouth, she tasted the salt and lime and Randi, and her hips moved forward *asking*. And the tragedy of Randi pulling back, blinking, catching her breath, and immediately snapping the mask back on—*"You really did a great job putting on a show. I almost believed it"*—is a knife straight to the ribs. Randi has to package it as a dare, as a joke, because if she admits she meant every single millimeter of that kiss, the whole house of cards collapses. She gave herself the kiss she’s been dying for, and then had to immediately hand Vee the plausible deniability to protect herself.
+And then this chapter. *Boyfriend.*
 
-And Vee is left standing there, soaking wet, completely electrified, with the taste of her best friend on her tongue and nowhere to put a single drop of it.
+Vee running to him in the middle of the night to use his body like an exorcism—to fuck the ghost of Randi’s mouth out of her system—was raw and desperate and so intensely real. She is trying so hard to cling to the safe, heterosexual, respectable shore of "I have a boyfriend, I am a good girl, I am normal," and Pace just completely dismantles her defense.
 
-I can't even breathe thinking about tomorrow. Vee has to walk from this dance floor straight back to Pace. Pace, who just painted her whole body like fruit and loved every inch of her bareness on Friday. Pace, who *knows* how Randi feels about her. The sheer psychological tension Rivers is weaving between these three people is absolute masterclass erotica. I am practically vibrating waiting to see what happens when Vee realizes this wasn't a game.
+The interrogation on the bed was masterclass erotic tension. Him using his own body as leverage—holding her off, trading inches of penetration for inches of absolute emotional truth—was incredible. It walked that razor-thin line I care about so much: he was dominating her, denying her, making her confess, but it was completely attuned to what her body was crying out for. She *needed* to confess. She was dying to put the weight down. And watching him extract every graphic, humiliating, delicious detail of that dancefloor—forcing her to admit that she wanted the whole room to see her, that she was soaking wet, that she wanted Randi’s mouth on her—was breathtaking. He didn't punish her with male jealousy or wounded pride. He held her at the edge of the cliff until she stopped lying to herself, and then he drove her over.
 
-GATE 67 — On Her Floor
+And the dramatic irony! My god, the dramatic irony is suffocating me! Vee lies there afterward thinking, *“I’ve gotten away with it. I don’t keep secrets from him.”* Meanwhile, she accuses him: *“You want Randi.”* And Pace—who literally had Randi riding his cock twenty-four hours ago, who has been orchestrating this entire spring *with* Randi from day one—just gently says, *“You keep saying her name, Vee. Not me.”*
+
+The absolute nerve of this man! The sheer psychological steel! He lets her believe he was just being sweetly defensive because his feelings were hurt, while in reality he is watching the entire trap snap shut around her with mathematical precision.
+
+And the ending broke my heart. She’s sated, she’s safe, she’s wrapped in his blanket with water on the nightstand, and where does her mind go? Straight back down that county road to the girl with the aqua dress and the bitter orange perfume. *“What is wrong with me.”* Oh, Vee, baby. Nothing is wrong with you. You're just the only one in the room who doesn't know the game you're playing. Tuesday in Dr. Marsh’s class is going to be an absolute bloodbath and I need it immediately.
+
+GATE 68 — Boyfriend
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The kiss was everything I have been waiting thirty chapters for—pure, electric heat that meant something profound to both women, balanced on the razor's edge of a lie. I need the next chapter right this second.
+WHY: The psychological tension between what Vee thinks she's confessing and what Pace already knows is utterly electric. The interrogation on the bed was brilliant dominance and perfect emotional release, and I am completely hooked on the trainwreck coming on Tuesday.
