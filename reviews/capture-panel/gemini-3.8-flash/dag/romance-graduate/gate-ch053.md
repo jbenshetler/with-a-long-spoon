@@ -1,30 +1,28 @@
-*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ec1574909bf3 · 2026-09-19*
+*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 29213b289a6d · 2026-10-07*
 
 REACTION
 
-*Oh.* Oh my god.
+THANK GOD FOR SHERI. God bless this foul-mouthed, five-foot country lesbian in her two-toned perm and chambray shirt, inhaling a double cheeseburger and doing what literally no one else in this book has had the guts to do: taking a hammer to Pace’s precious, over-engineered bullshit.
 
-First of all, the shift in her head from “pleasure slave” to “pleasure princess” had me grinning like an idiot. Watching Vee realize that she holds all the cards in that kitchen—walking around completely naked in a scrunchie, making him burn the damn toast just by lifting her foot to look at her toes—was glorious. The domesticity mixed with that absolute, unhurried sensory gluttony is why I read this book. The blood oranges, the persimmon with the salt, the mushrooms in butter and sherry—Rivers writes food like foreplay and foreplay like a multi-course meal.
+*"Then not saying it matters more to you than having her. And I’ll tell you—from this seat, that feels pretty shitty."*
 
-And then the bedroom. That whole sequence on the cashmere blanket was scorching, but it was scorching because of the psychological balance of power. She thinks she’s commanding him, and he’s happily playing the loyal subject while completely taking over her nervous system. When he held her open and just *breathed* on her? Jesus.
+Put it on a billboard. Carve it into the walnut bench. Frame it and hang it right over his stove.
 
-But then the kiss happened, and my stomach completely dropped.
+Watching Pace sit in that greasy-spoon booth and try to lay out his little bricks—*I was there, I gave her the weeknights for her school, I told her she was the most important thing in my life*—was agonizing because you can see his brilliant, autistic brain desperately trying to balance an emotional ledger that doesn't run on math. He really thought he could pay her in presence and call it even. And Sheri just immediately snorts, steals a fistful of his fries, and tells him to get over himself. *"The philosophy of your food. Lord almighty."* I barked out a laugh in an empty room. He needed that so badly. *We* needed that so badly after chapters of him floating around like an untouchable, benevolent sensuality guru.
 
-The immaculate, horrifying psychological accuracy of that moment: her body reacting first, tasting herself on him, and that instant knee-jerk religious/purity shame kicking in with "Ugh—gross. That's—no. Wrong." And Peter, God help him, just wipes his mouth, completely gentle, completely unbothered, giving her room. But it’s the aftermath that made the hairs on my arms stand up.
+He’s miserable. He misses her. He’s sitting there in a diner where he can actually hear himself think, wishing he could bring Vee there, terrified because he knows the silence that protects his arrangement with Randi is the exact silence that just broke Vee's heart.
 
-Vee lying there under the blanket, rationalizing it: *Oh, he just forgot to wipe this once.*
+And then the casual, lethal little bomb Sheri dropped about Randi: *"She looked at me like I was one more of your harem applicants."* Randi really thought she was the queen bee playing 4D chess, strutting into that dance hall, while Sheri just clocked her from ten feet away as high-maintenance drama.
 
-No, honey. Oh no, sweetheart. He didn't forget.
+This was the bridge we needed before the term starts. We saw Randi freeze in Gstaad realizing the "acceptable" life is dead to her; we saw Vee freezing in Ohio realizing she can't fit into her childhood bedroom anymore; and now we have Pace, stripped of his apron and his high-thread-count sheets, sitting across from the only person who doesn't want anything from him, admitting out loud that he is completely, utterly gone on this girl—and knowing he is the one starving her. The spring term is going to be an absolute bloodbath.
 
-The terrifying, brilliant tragedy of Vee is that she has no idea she’s living inside a triangle. She thinks Peter just "loves going down on her" and happens to kiss her after. She doesn't know about Randi. She doesn't know Randi has been coaching him, that Randi wants Vee’s taste carried to her, that the whole damn architecture of her awakening was blueprinted by two people who chose her like an exquisite project. And the sheer dramatic irony of her lying there thinking, *I’ll tell Randi at dinner on Tuesday. Randi will know what to make of it.*
+***
 
-I felt physically sick and completely electrified at the same time. You are walking straight into the spider’s parlor, Vee. Randi is going to sit across from her at that table, hear about the wet mouth and the kiss, and she is going to lose her absolute mind.
-
-This is the exact heat-and-depth sweet spot I live for. It gave me the filthiest, most tender oral sex scene I’ve read in months, and then turned it into a ticking emotional landmine in the last five paragraphs.
-
-GATE 53 — Missed a Spot
+GATE 53 — The Usual
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The transition from indulgent, gorgeous aftercare to the slow, horrifying realization that she is about to go tell Randi about the kiss is absolute narrative crack. The dramatic irony is wound so tight it's humming, and I need that Tuesday dinner scene immediately.
+WHY: Sheri dragged Pace's emotional cowardice into the harsh fluorescent light of a double-wide diner and made him choke on it. He admitted out loud how hard he's gone on Vee, and seeing his airtight logic get utterly dismantled over a chocolate shake was immensely satisfying.

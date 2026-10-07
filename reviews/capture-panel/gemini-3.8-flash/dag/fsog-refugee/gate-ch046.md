@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha eeeec469236e · 2026-09-19*
+*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-07*
 
 REACTION
 
-*“Words are cheap, and you still won’t spend them on me.”*
+Oh, Vee. My chest aches for her after this.
 
-God. *God.* That line hit me right in the center of the chest. I felt the air leave my lungs.
+That title—*Cropped*—is so painfully perfect. It’s what she did to the photo of the burgundy dress so her parents wouldn't see the slit up to her hip, but it’s also what she’s doing to her entire life right now. She’s cropping herself to fit into her family’s neat little midwestern frame, cropping the parts her dad can handle (the math PhD, the hiking, the wholesome slow dancing on concrete) and snipping out the parts that would terrify him: the house, the unhurried cooking, the fact that this massive, gorgeous man sat at a sewing machine on a sun porch to make her a silk dress just because she wanted it.
 
-I have been waiting for this shoe to drop since she sat in that laundry room two chapters ago turning over his careful, evasive *“I love how good we are together.”* Pace is brilliant, he is tender, he is the most attentive lover imaginable, but this right here is the exact flaw in the armor: he wants to build a pristine, soundproof kingdom inside his four walls where he controls every variable—the heat, the wine, the sourdough, the cadence of her breath—and he wants that to exempt him from ever having to name what they are out in the daylight.
+"Too good is its own kind of suspicious." God. That line stopped me cold. Her dad looking for the catch is the most tragic dramatic irony in the world, because *there actually is a catch.* She thinks the catch is just that she was starved for twenty-one years and finally found an impossible fairytale man who treats her like a queen. She doesn't know that the real catch is Randi, and a plan made on a campus lawn in September, and a threesome they're slowly grooming her for while she's busy falling deeply, hopelessly in love.
 
-And his response when she corners him? *“Do any of your friends have a relationship you’d rather have than this one?”* What an arrogant, cowardly, intellectual dodge! It made me furious at him. It’s a mathematician’s answer to a bleeding human question. It doesn't matter if her friends' boyfriends are dorks or half-hearted; her friends have lives that exist in the open air, where a girl doesn't have to feel like a kept secret or an unspeakable habit.
+And Cassie. I love Cassie so much. Cassie is the only mirror Vee has that isn't warped by lust or manipulation. Sitting in that cold athletic cafeteria with plastic trays, Cassie asks the only question that matters: *"So what is he... Not to your dad. To you."* And Vee can't answer. *"Is it that you can't say, or that you don't want to? / Both. Probably both."*
 
-And then he has the nerve to say, *“Words are cheap. Believe what I do.”* Pace, you fool. Words *aren't* cheap when they cost you your pride, your privacy, and your walls. Words are the only currency that counts right now because words are what give her something she can hold outside of his bed.
+It’s quiet, but it’s so heavy. Vee is living in this high-intensity, technicolor bubble between Pace’s bed and Randi’s booths, and every time she has to step back into the real, gray world—into a college cafeteria, or her childhood home where her dad burns the rolls—she realizes that the woman she's becoming doesn't fit anywhere outside of that house in the woods. She’s keeping secrets from her family, she’s keeping secrets from Cassie, and meanwhile, the two people she thinks she’s safest with are keeping the biggest secret of all from her. The isolation is creeping in, even if it feels like devotion right now. I just want to wrap her in that oversized flannel and brace for the impact.
 
-The moment she turned and saw him reaching for her—*“to settle her with the hands that settled everything, to make it right the only way he had. Not the hand in place of the word”*—I wanted to stand up and cheer for her through my tears. That is *everything* to me. In so many trashy romances, the hero reaches out with his big, commanding hands and pulls her in, kisses her until she forgets her own name, and the narrative calls it romance while completely erasing her dignity. Not here. Vee recognized the touch for what it was: an anesthetic. A substitute for truth. And she refused to let him use her own body's hunger to silence her mind.
-
-She walked out into the cold with nothing in her hands. It hurts so bad, but I have never respected her more. Now where does she go? She’s shivering, she’s raw, and Randi is out there waiting.
-
-***
-
-GATE 46 — Believe Me
+GATE 46 — Cropped
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Vee drawing a line and refusing to let his physical comfort replace the emotional truth she asked for was breathtakingly good writing. She defended her own dignity, Pace got cracked wide open, and I need to see what happens the second she turns the ignition.
+WHY: The contrast between Vee's secret, saturated world with Pace and the grounded reality of her family and Cassie hits so hard. Watching her realize she has to "crop" the truth about him because "too good is its own kind of suspicious" broke my heart, especially knowing the shoe that's waiting to drop.

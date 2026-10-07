@@ -60,7 +60,7 @@ The plates came, the Benedict glossy under a hollandaise gone slack and shining,
 
 "Yeah." The word came out small. "Yeah. That's it exactly."
 
-Randi turned her glass a slow quarter-turn and back and said nothing for a second, letting Vee have it.
+Randi worked the rim in under her index nail and said nothing for a second, letting Vee have it.
 
 "And it's—" She reached for it, because this one had no shape at all. "Talking to him is the easiest thing in the world. It just comes out of me, all of it — I'd confess anything, honest, just to have him hear me. But that's not even the strange part. Half the time we don't talk at all. I'll be sitting in his kitchen while he cleans up and neither of us has made a sound in I couldn't tell you how long, and it's not the kind of quiet you're supposed to hurry up and fill. I'm just there. Floating off."
 

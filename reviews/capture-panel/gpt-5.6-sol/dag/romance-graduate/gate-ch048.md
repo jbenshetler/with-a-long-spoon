@@ -1,25 +1,28 @@
-*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~b247f2c75c88 · 2026-09-10*
+*capture-dag-v2-rich · gate ch048 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
 REACTION
 
-Oh, Pace. You absolute emotionally constipated disaster.
+Oh, Vee. Honey. You finally asked the right question and then accepted an answer to a different one because he touched the terror underneath it without answering the question itself.
 
-I have spent so long defending the difference between his silence and the usual romance-man bullshit because his actions really are so attentive, so specific, so full of care. And now, finally inside his head, I can see that he is using every beautiful thing he does as a wall against saying the one thing Vee actually asked for. “Every brick was true and the true things were supposed to come to something” is exactly his problem. He thinks enough true bricks automatically make an honest house, while Vee is standing outside asking why the door has no name on it.
+“Is this what we are now?” is not really about Chili’s. “If we’re just sex, I’d like to know” is not a request for nachos. Pace heard a practical complaint and solved it practically—of course he did—but then she gave him another opening in the front room, and he still only explained why the restaurant overwhelmed him. That explanation felt completely true to me. The screens, the music, his eyes being pulled away, the fork squared and resquared: he wasn’t ashamed to be seen with her; he was overloaded and working hard to stay present. I was aching for her to notice the evidence instead of building a rejection out of it.
 
-Thank God for Sheri. “Then not saying it matters more to you than having her” went straight through him, and it needed to. No teasing, no interpretation, no letting him hide inside how good he is on weekends. She sees that he already has the girl and is still producing a legal brief for why he shouldn’t have to answer her. Also, her stealing his fries immediately afterward is perfect. That is actual friendship: tell him he is being shitty, then eat off his plate.
+But Pace saying “I’m listening now” is not enough anymore. It is tender. It is intimate. It is exactly the kind of sentence that would have melted me ten chapters ago. Now it is also an exquisitely effective way to soothe her without telling her what she is to him. He listened to the hurt and answered the least dangerous part. Whether he did that consciously or because emotional definition is the one language he genuinely cannot speak, I don’t know. Either way, she remains unnamed.
 
-And he loves Vee. Obviously. Not merely because he misses her or because the sex is good, but because he wants to know what she would think of the old diner, because the air changes around her, because she understands the idea beneath his food. That last one is so unbearably Pace—pretentious enough that Sheri is morally obligated to tell him to get over himself, but also completely sincere. He does not just want Vee’s body. He wants her particular mind receiving what he makes. So what the hell is inside the word that makes him choose losing her over saying it?
+And then the sex—God, yes, hot, because her wanting his control to snap and then feeling it actually go was exactly the escalation I wanted. His comfort at her breasts, the patience becoming almost unbearable, her second orgasm pulling him over with her: none of that felt generic. It was specifically their bodies and their pattern, and the loss of his control mattered because control is so central to who he is.
 
-That is no longer romantic reticence. It is damage. The chapter puts his locked family door right beside Sheri’s estrangement and grief without explaining his, and now I’m convinced “I can’t” is literal in his emotional world, not coyness or lack of feeling. But understanding that does not make it acceptable. Vee asked for a declaration while he is secretly involved with another woman. He should be giving her vastly more truth than she requested, not congratulating himself for saying she is “the most important person” as though importance and exclusivity are remotely the same thing.
+But the title is merciless. They put the whole question under the rug with excellent sex. Her body “drowned it clean, as it always did, as she let it” made me want to shake her and kiss her forehead at the same time. She knows this is happening now. She knows pleasure gives her temporary relief from the question, and she is participating in using it that way.
 
-And Sheri knows about “the brunette.” Of course she does. Pace can speak about Vee and Randi as recognizable fixtures in his life to Sheri while Vee still does not know they occupy the same map. That casual “She find out about the brunette?” made me feel sick. His “No. Not like that” is slippery as hell. He knows the discovery is waiting. He knows Vee’s demand for a name is happening inside a reality she has not been allowed to see. Yet he is treating the crisis as if the only missing piece is three words.
+The line that really got me was: “She was his; she’d not dispute a word of it. But did he belong to her?” That is the actual wound. Not whether he wants her, because nobody could doubt that. Not whether he cares for her, because his care is everywhere. She cannot prove she has any recognized place in his life because he refuses—or fails—to put language around it. And the horror is that she thinks she forgave him, as though she was the one generously resolving the evening, while her real need went unanswered again.
 
-Also: Sheri was absolutely the woman at the dance, and Vee apparently never even learned her name before constructing a threat out of her. That hurts because Sheri would probably have been good for Vee. She is unpolished, funny, queer, estranged from family, entirely unimpressed by Pace, and capable of seeing his failures without denying his goodness. She could have widened Vee’s world. Instead, the concealed structure turned her into one more phantom rival.
+I’m glad the chapter did not let the sex settle the matter. I’m also furious that Vee has apparently learned to accept every form of devotion except the one she explicitly needs. Pace can heat the house before she arrives, make room in his drawers, listen to her body with terrifying precision, and still leave her lying awake wondering whether “boyfriend” applies. That is not a tiny semantic insecurity. It is the space where Randi and the entire hidden arrangement are living.
 
-I would text a friend: *His lesbian cycling friend just told him to stop bullshitting and say he loves her, while casually confirming she knows about his secret brunette. I need to shake this man until the entire truth falls out.*
+I need the next chapter immediately. The secret has become even uglier now that Vee has asked, however sideways, what they are. Pace cannot keep claiming patience while she is actively suffering from the absence of truth.
 
-GATE 48 — The Usual
+GATE 48 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Pace’s interiority gave me the infuriating confirmation I needed: he loves Vee, knows exactly what she wants, and still cannot say it. Sheri cutting through his pile of technically true excuses was enormously satisfying, and “the brunette” has tightened the trap another turn.
+WHY: This finally forced Vee’s unnamed fear into the room, then showed exactly how their tenderness and sexual compatibility can soothe it without resolving it. I’m furious, turned on, and completely unwilling to stop before the hidden relationship collides with the name Pace still will not give her.

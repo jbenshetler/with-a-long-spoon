@@ -1,27 +1,30 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~3fae9b31dd45 · 2026-09-11*
+*capture-dag-v2-rich · gate ch035 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 13e407d9f33a · 2026-10-01*
 
-REACTION —
+REACTION — Oh. Well. There it is.
 
-Oh. This one got me in the soft ribs.
+This chapter got under my skin in exactly the way I’ve been waiting for and afraid of. Not because spanking is new to me, please, I have a Kindle library full of men who say “count” like they learned dominance from a laminated menu. This worked because it wasn’t prefab. It came out of *her*. Out of that kitchen moment, out of her body betraying her before her mind had a label, out of the shame of being wet and being seen and then the even deeper relief of not being made wrong for it.
 
-After the big bright filthy voltage of the last few chapters, this is the chapter that walks in barefoot and ruins me with a drawer. Not because nothing erotic is happening, because obviously the sex is still everywhere in the air, in her hair, in the looseness of her clothes, in the way her body has started living differently. But the charge here is domestic, and I am such a sucker for when a book understands that a woman being given a real place can be as intimate as being undressed.
+The den game was so alive. Vee poking him because she finally found a place she can land on him, discovering she’s quicker, flashing him and shocking herself with her own nerve — that felt like appetite growing legs. I loved that she’s playful here, almost bratty, not as some trope costume but because she’s giddy with access. She has been looked at, fed, dressed, kissed, forgiven, and now she’s starting to test the room: what happens if I push? what happens if I run? what happens if I ask without asking?
 
-The opening did exactly what I wanted after a week apart: not a perfunctory reunion, not “and then they had sex,” but the door flying open and him lifting her before she even gets there. I felt her giddy little noise. I felt the relief of being wanted that openly. And then the part that really kept landing for me was her realizing, again and again, that his desire does not make him selfish. He feeds her first sexually, feeds her literally, comes back to her later like she’s still on his mind. That is the grown-up heat I keep hunting for: not just stamina, not just dominance, but attention with hands.
+And Pace. God help me. He is lethal when he’s gentle. “Either you admit you lost, or we find out” is hotter than a dozen barked commands because he leaves the door visibly open. The instant she says “Don’t,” his hand is gone. Not teasing-gone, not prove-you-want-it-gone. Gone. And then she has to feel the shape of wanting it back. That is the adult version of this scene. That is the thing I keep hunting for and usually don’t get: heat that is psychologically exact enough to make the body part matter.
 
-And then she says, privately, that she loves him. I believed it. I also immediately got scared, because girl. Girl. The reader knows the floorboards are rigged. She’s lying there counting salmon and tomatoes and scrunchies as love language, and I am with her, because yes, yes, those are real gestures. But he is also still not telling her the largest truth in the room. The tenderness is real and the concealment is real, and this book keeps making me hold both until my hands hurt.
+The finger held up between them nearly killed me, honestly. Her shame about “the shameful plenty of the wet” is so specific and so sad and so erotic because he refuses to collude with the shame. He looks at it like it’s true and fine. That is romance to me. Not sanitized softness. Not him being blandly worshipful. The romance is that he can look directly at the thing she thinks disqualifies her and receive it like evidence in her favor.
 
-The “Peter” whisper worked on me more than an actual love confession would have. That name is private, wounded, younger, the part of him she thinks she’s being trusted with. Her using it while he sleeps felt almost unbearably intimate, and also a little lonely. She can say it to his sleeping body but not to his waking face. He can make her a drawer but not tell her what game she entered. These two are communicating in objects and bodies and meals because the actual words would detonate the house.
+I also loved that the spanking itself wasn’t Randi’s story. I was braced for the book to let Randi define the script for Vee, and it didn’t. Vee carries Randi’s story into the room, but Pace gives her something quieter, more intimate, less theatrical. No counting. No performance. His hand, then soothing, then kissing. It made the whole thing feel discovered rather than enacted. That matters so much, because otherwise Randi would have been in that bedroom like a director.
 
-And then the bathroom. I swear I got more emotionally invested in that counter than I have in entire romance third acts. Her mess on his clean surface: brush, pins, bottles, the whole evidence of a woman taking up space. My heart clenched because I know that feeling, the sudden shame of “oh god, I’m too much, I’ve spilled into someone else’s order.” And he sees it. He notices. The book lets that little silence be terrifying because with Pace silence can mean reverence or evasion or decision, and Vee has learned to read him like weather but not always correctly.
+But the line “no Randi to be told” rang like a bell in a bad way. Vee thinks it as freedom, as privacy, as a world shrunk down to the bed where shame has no witness. And I’m sitting here going: baby, there *is* a Randi to be told. Or there has been. The book knows I know. That sentence scared me more than anything else here, because this scene felt so earned and tender and private that if Pace takes it back to Randi, or even lets Randi take it out of Vee later, I may actually throw the book at the wall and then retrieve it immediately because I’m weak.
 
-So when the scrunchies were gone, I had that same drop she did. I thought, oh no, he cleaned her away. Quietly. Neatly. Like maybe she was a weekend pleasure but not a permanent disruption. And then the drawer opened and I absolutely folded. The top drawer. Not a basket under the sink, not a corner, not “I cleared you some space” in words that would let him feel generous. He moved himself down. He made room where her hand would naturally reach. I hate how much that got me, honestly. I am not immune to competent domestic devotion, apparently.
+The aftercare got me. Juice is so stupidly perfect. Juice and hair-stroking and “wonderful” said until she falls asleep. That is exactly the kind of mundane care that makes the explicitness land harder, not softer. And the scrunchies? I’m not made of stone. The abundance of them, no note, just quiet proof that he expects her future there. That is such a devastating little domestic claim.
 
-But because I’m ahead of her, the drawer also scared me. It’s beautiful, and it’s also another custom fit. The dress was made to her. The shoes finished it. The house has scrunchies now. The bathroom has a drawer. Every gesture says, “You belong here,” and every gesture also makes leaving harder. This is the trap at its most merciless because it doesn’t feel like a trap. It feels like care. It is care. That’s the problem.
+And then curry. Of course he feeds her. Of course the chapter ends in spice and beer and a bowl that looks like childhood but isn’t. That’s Vee all over now: recognizable ingredients, different heat, late burn. I am embarrassingly bought in.
 
-I am still all in. Maybe especially because this chapter barely needed explicit on-page sex to feel charged. The heat is in the aftermath, in appetite, in being welcomed into routines, in a man compressing his own order to give her the easy drawer. That’s the kind of intimacy that makes the eventual reveal feel like it’s going to take skin with it.
+Still, I’m tense. Because this chapter gave Vee a private erotic discovery that feels sacred in the tiny country of that bed, and the whole book’s loaded gun is that privacy has not always stayed private. I want to trust Pace here. I really do. But I remember Randi telling him about the sound behind Vee’s knee. I remember “no Randi to be told.” I am glowing and braced at the same time.
 
-GATE 35 — Above Him
+GATE 35 — We Find Out
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: The drawer got me. This chapter made domestic space feel erotic and emotionally dangerous at the same time, and I’m completely hooked by how real his care feels while the secret underneath it keeps getting worse.
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "no Randi to be told"
+WHY: This was scorching because it was discovery, not a stock scene, and the tenderness afterward made the heat feel more dangerous and more earned. I want the next chapter badly, but I’m also afraid of what happens if this private thing becomes currency between Pace and Randi.

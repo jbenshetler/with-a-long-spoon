@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch052 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 122f2504f31e · 2026-09-19*
+*capture-dag-v2-rich · gate ch052 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · 2026-10-07*
 
-REACTION:
+REACTION
 
-Oh, god. My stomach is in absolute knots, and I am torn straight down the middle between being utterly, breathlessly turned on and wanting to scream at the top of my lungs.
+Oh, this hurt. This was the quiet, brutal mirror to Randi’s chapter, and it just carved me out.
 
-Because as pure erotic romance? That sequence was off the charts. The build-up in the dorm—her realizing she was putting her shoes on *first*, the unbearable masturbation in front of the mirror where she denied herself the finish just to carry that electric tension through the freezing night, the cop car scare on the highway, the dark stain soaking into the satin lining of her good coat—it was magnificent. And then the payoff on the porch: the front door swinging and banging in the January wind, him dropping straight to his knees on the freezing deck to eat her out while she stands there in those ridiculous strappy heels, carrying her into the den with his jeans tangled around his thighs... holy hell. The sheer, feral physical relief of their bodies colliding after a month of starving was everything I wanted from a reunion bang. It was filthy, desperate, and beautiful.
+Seeing the exact same text exchange from the other side—God, the dramatic irony in this book is almost unbearable. Randi standing in a cold Swiss bathroom after letting a generic golden-boy fuck her numb, putting on her armor and texting back the “fairytale” because she thinks it protects Vee. And then here is Vee, shivering in her childhood twin bed smelling like lavender plugins and Downy, looking at that text and picturing a glamorous billionaire while her own heart eats itself alive.
 
-And *then* the trap snapped shut.
+What broke me was the way her childhood bedroom doesn’t fit her anymore. That is so violently true to being twenty-one and coming home from college after your body and your mind have been utterly rewired. The ribbons, the clarinet in the closet, the little gold synchronized swimming trophies frozen mid-lift—that room loves *Vivienne*, the obedient, sweet girl who ate saltines and smiled, but it has no room for Vee. And that moment where she looks at the photo of herself in the burgundy induction dress—sending the whole, magnificent, bare-legged line of herself to Pace, but scissoring it off at the waist for her mother? *“Same picture, one house, and she was the one who had divided it.”* That is gorgeous, devastating writing.
 
-Because the morning after—the pancakes, the gentle teasing, him dropping to his knee to say his voice-cracking "I missed you so much"—is so exquisitely tender that Vee completely forgot the war she was fighting. She thinks she won. She thinks she took control, made an offering, and broke through his walls. But look at what actually happened: she surrendered every single scrap of the emotional ground she bought with her tears in December. She demanded words, he refused them, they starved for a month, and then she showed up naked on his porch, fed his cock, let him cook her breakfast, and walked away completely satisfied without him *ever having to say the words.*
+And then the spiral. When you’re alone at midnight on New Year’s Eve, your brain will build the absolute worst execution chamber it can conceive of, and Vee built hers out of spite: a tan, blonde girl sitting at Pace’s table wrapped in the top sheet while he cooks fra diavolo. The fact that her own memory betrayed her—that she couldn't even keep the memory of the best night of her life without her insecurity replacing herself with someone else—was a physical gut-punch.
 
-Randi's advice worked like a charm, but it worked to *Peter's* rules, not Vee's. Vee traded her pride and her boundary for a plate of homemade pancakes and an orgasm. He didn't say "I love you." He said "I missed you." And because her belly is full and her cunt is sore, she thinks that's enough. She walked back into that dorm room on Sunday in his oversized sweats and Randi's heels—literally wearing the skins of the two people orchestrating her life—and Cassie's little "Hmm" spoke volumes. Cassie knows. Cassie sees a girl who just folded completely.
+She has no standing to even ask. That’s what Pace’s silence bought them. By refusing to give it a name, he left her with no right to mourn, no right to reach out, no right to ask if he’s alone on Christmas. She’s clinging to Randi as the only solid shore in her life, totally blind to the fact that Randi is drowning in the exact same water, tied to the exact same man. When winter break ends and they all end up back in the same town, the blast radius is going to be catastrophic.
 
-I am sweating. The book gave me the high-heat reunion I was desperate for, but it didn't cheat the psychological tragedy to do it. Peter still hasn't cured his Daphne sickness; he just got rewarded with a naked girl on his doorstep for staying silent. The collision when the semester starts is going to be brutal.
-
-GATE 52 — Nothing Underneath
+GATE 52 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The masturbation sequence and porch reunion were extraordinarily hot, but the sinking realization that Vee just surrendered all her leverage for pancakes and sex makes the psychological tension agonizingly good.
+WHY: The ache of outgrowing your childhood home while agonizing over an undefined relationship was rendered with absolute perfection. Seeing the other end of Randi's text message was agonizingly good dramatic irony, and I need to see what happens when they all collide back at school.

@@ -1,28 +1,31 @@
-*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ca7450e92130 · 2026-09-19*
+*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-07*
 
 REACTION:
 
-Oh my God. Oh my *God*.
+Oh, god. My stomach is in my throat.
 
-First of all, I am still practically shaking from Chapter 46—Vee standing in her heavy coat by the door, refusing to cross his threshold, refusing to let him substitute another incredible meal or a slow, worshipful hand on her skin for a single honest word. *"Words are cheap, and you still won't spend them on me."* That shattered me. It was the purest, most agonizingly necessary confrontation. And then to jump straight from that raw wound into Gstaad, inside *Randi’s* head?
+*“I had been eating crackers my whole life. And you fed me a meal. I didn’t know what a meal was until you fed me one. And now I know.”*
 
-I didn't expect this chapter at all, and it completely took my breath away.
+She laid her bare heart down on that porch like an offering. She spent weeks building that sentence out of the scrap-iron of her whole starved life because she loved him too much to stay silent, but was too terrified of the rule to say the three words out loud. And what did he give her back?
 
-Seeing Randi from the inside makes everything so much more tragic and so much more terrifying. She gets the absolute pinnacle of what the "acceptable" romance genre usually sells: the gorgeous, wealthy, flawless Ivy League boy in white tie, the private ski slopes, the literal horse-drawn sleigh through falling snow, the effortless high-society fairytale where the man takes complete charge and doesn't even have to ask. On paper, it’s what every girl is taught to want. And it was *completely dead*. It was a sandwich eaten fast on a busy afternoon. "This man had taken a beautiful woman to bed, brought her pleasure, but never found her underneath." God, what a line. What a brutal, brilliant indictment of all that hollow, glossy romance where dominance is just smooth choreography without any real soul or sight behind it.
+*“I love how good we are together.”*
+*“What you do — what your body does — I’ve never. I’m glad you feel it too.”*
 
-And the way Pace haunts her thoughts! She’s comparing John to Pace on the dance floor, John to Pace in bed. Pace makes her work for it; Pace makes her say what she wants out loud every single time; Pace *sees* through the armor into the person she hides. John just assumed he was taking her up to his room, and Randi let him because it was easy, because it asked nothing of her heart.
+I felt physically sick reading that. He categorized her. He took her soul-level confession of emotional resurrection and shoved it right into the box labeled *great sexual chemistry.* She said *you saved me from starving,* and he answered *your body does amazing tricks.* And then he pulled her in and kissed her hair and gave her that heavy, deliberate, suffocating comfort, and she just had to sit there in the warm quilt feeling that sickening little *wait* punch her in the sternum.
 
-But the real gut-punch of this entire chapter—the thing that makes my throat tight—is what Randi feels for Vee.
+And the worst part—the part that is making me want to scream at the wall—is that Pace isn’t dumb. He is a mathematician who measures every word, every gram of flour, every millimeter of her skin. He didn’t misunderstand her. *He dodged it.* He deliberately parried her emotional declaration with physical appreciation because he is holding the door open for Randi, because he thinks this is an arrangement, because he’s sleeping with her best friend on his couch and telling her “she’s radiant” while planning a threesome Vee doesn’t even know exists.
 
-Randi is in love with her. Real, terrifying, unqualified love. Not as a game, not as a mark, not as a currency. When she said she has never told anyone she loved them without it being a transaction, except with Vee? That she’s terrified of losing the most important hour of her week? My heart broke for her, even as my stomach plummeted knowing what a dangerous corner she’s backed them all into. Vee is back in Ohio, having just walked out on Pace into the freezing night, texting Randi with that pure, generous warmth—*“i'm here if you want to talk. or not.”*—and Randi puts the glossy mask right back on and sells her the fairytale lie.
+Seeing her sitting alone in that ugly dorm laundry room, listening to the dryer thump, replaying the arithmetic of it—*hers had been about, and his had been about, the two things had not been the same shape*—nearly broke me. She put it into the little dark pile of things that don't fit, the things she has to actively ignore so the fairy tale doesn't crack. She is making excuses for him, burying her hurt in her own body just like she used to bury her hunger.
 
-Everyone is lying to survive, everyone is terrified of the one true word, and the collision that’s coming when these three people end up back in the same town is going to be monumental. I need the next chapter immediately.
+It is so masterfully, brutally written. The title of this book is *A Warm Reception,* and that line—*“She had been received warmly, she would remind herself, in the small private way you remind yourself of evidence whose weight you are not sure of”*—just shredded me. Warmth isn't love. Warmth is what a fire gives off before it burns the house down. I am in agony for her. I need the next chapter immediately.
 
 ***
 
-GATE 47 — Fairytale
+GATE 47 — Seconds
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: Getting inside Randi's head completely blew open the emotional landscape of the book. Seeing the empty, glossy "fairytale" contrasted against the terrifying, demanding depth of both Pace and Vee was breathtaking, and Randi's unspoken love for Vee adds an unbearable, thrilling tension to everything that's about to explode.
+WHY: The absolute heartbreak of her offering him her heart wrapped in a metaphor and him deliberately deflecting it into sexual compatibility was agonizing, gripping, and deeply true to who they both are right now. I have to see when the crack in her foundation finally splits wide open.

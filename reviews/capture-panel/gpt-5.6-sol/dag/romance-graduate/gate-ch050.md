@@ -1,21 +1,20 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~0511a4346bd0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · 2026-10-07*
 
-REACTION — Oh, Randi. You breathtaking, loving monster.
+REACTION — Oh, thank God she finally asked him. Properly asked him, coat still buttoned, bag left in the car, refusing to be softened first by the heat and the wine and his mouth. I was so proud of her for staying at the door. She knew exactly how this house works on her, how his care gets into her body before her questions can keep their shape, and she did not let it happen this time.
 
-Vee arrives destroyed because she asked for the most reasonable thing in the world—*tell me what I am to you*—and Randi takes every true fact, arranges it beautifully, and somehow turns Pace’s refusal to answer into something Vee did to him. “You backed him into a corner in his own house” made me furious. She didn’t demand a proposal at gunpoint. She asked the man who has accepted her body, her weekends, her photograph, her drawerful of belongings, and every unnamed piece of her love to name their relationship. Pace’s history explains why he froze; it does not make Vee cruel for needing words.
+And he failed her. Completely. “You’re the most important person in my life” should have been enormous, but he used it to answer a different, safer question. Then he did it again with the friends’ relationships, making her defend wanting a name by proving somebody else has something better. No. She was not asking whether this is pleasurable or enviable or even precious. She was asking whether he will stand inside it with her where other people can see.
 
-And Randi knows. She knows Pace loves Vee. She knows why he is silent. She knows Sheri is no threat. Most unforgivably, she knows there *is* another woman because she is the other woman, and she looks directly at this crying girl and says, “That is not a man with another woman.” I actually had to sit with that. It is such an intimate lie, delivered in the voice Vee trusts to distinguish fear from reality.
+“Words are cheap, and you still won’t spend them on me” absolutely gutted me. That is the whole wound in one sentence. He can make a dress, clear a drawer, warm a house, cook a meal, learn her body, and arrange a future-shaped space around her—but the second she asks him to define that space, he folds his arms. And “Believe what I do” is almost obscene when he is hiding Randi. His actions are not the clean evidence he thinks they are. Some of them are beautiful; some of them are an organized deception. Vee just doesn’t have the second column yet.
 
-Then she takes Vee’s legitimate demand for clarity and prescribes a sexual apology. No words, because “words are the whole war.” Of course Randi wants words removed: words are where the hidden structure might become visible. So instead Vee is supposed to arrive naked under a coat, in shoes Randi selected, and offer Pace everything again without requiring him to answer anything. It’s hot—I am not immune, unfortunately—but it’s also horrifyingly precise. Vee believes she is taking the situation into her own hands while Randi is literally scripting the scene and supplying the costume. The fact that Vee completes the idea herself is exactly how this trap works.
+I don’t think he’s merely emotionally inarticulate anymore. He found “most important person in my life” easily enough. He is holding a line. Whether that line is because naming Vee would make what he is doing to her indefensible, because naming anyone threatens whatever arrangement he has with Randi, or because there is something buried in the family history he refuses to touch, I don’t know. But he knew what she wanted. He watched her cry and still did not give it.
 
-And still: Randi clearing the bed without looking twice at her expensive new things, holding Vee past the natural end of the hug, letting Vee breathe her in, missing her just as fiercely—I believe all of that. She loves Vee. That no longer comforts me. Her love is making her manipulation more tender and therefore more effective.
+And her leaving before he could put his hands on her—yes. Finally. His touch has been true, but it has also repeatedly ended the inquiry. She understood that in the moment: not the hand in place of the word. I wanted to stand up and cheer, except I’m too heartsick for her. Now tell her the rest. She has earned the whole ugly truth.
 
-The New Year story nearly hurt worse than the lie about Sheri. Randi tells Vee the polished fairytale and quietly removes the emptiness afterward, while Vee hears in John everything Pace will not give her: a future spoken easily, public display, unmistakable leading, a story with a name and shape. Then Randi edits the bedroom into a joke and gets Vee laughing. Vee protected Randi’s devastating truth in the library; Randi responds by giving Vee another beautifully curated false version of herself.
-
-I’m completely pulled in, but I am walking into tonight furious. If Vee opens that coat and Pace accepts the offering without giving her the truth—or even the words she originally asked for—I may combust. And those shoes had better not be carrying some secret significance known to Pace and Randi, because Randi sending Vee to him naked in *her* heels already feels like placing a private signature on Vee’s surrender.
-
-GATE 50 — My Friend Randi
+GATE 50 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 10
+NEXT: 10
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is exactly the psychologically merciless heat I bought the book for: I want the doorstep scene desperately, and I’m sick over the concealed machinery creating it. Randi just turned Vee’s demand to be named into instructions to surrender without words, while lying straight to her face about the existence of another woman—and I cannot look away.
+WHY: This is the collision I have been waiting for, and Vee held onto her own question all the way out the door. Pace’s refusal is no longer tender silence; it is an active choice, and now I need to know what he is protecting more than he is protecting her.

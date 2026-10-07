@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch054 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~bb2635a8b1b0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch054 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1011072a47a5 · 2026-10-07*
 
-REACTION — Oh, I needed this little exhale more than I knew.
+REACTION — Oh, this one got me. It hit that very specific post-break limbo so hard: the plane, the frost on the car, the same Friday road with nowhere for the wanting to land. Vee thinking she’s fine until the drive knows better than she does — yes. That is exactly how grief works when your body has a route memorized.
 
-After the coat and the bed and the food and the whole “pleasure princess” weekend, this could have felt like a letdown, but it didn’t. It felt like getting Cassie’s air back into the room. Thank God. The dorm room is ordinary in the best possible way: overheated radiator, bad shower, socks in stacks, Cassie’s window cracked open like a tiny act of war. And Vee comes back glowing so hard she can barely lie properly, which is adorable and also telling, because she *does* lie. She edits the story.
+And then Randi. God. I am so mad at how good she is at this, because she *is* good. She meets Vee where she is, wipes the panic clean, separates fear from fact, gives her back Pace not as a fantasy but as someone wounded and stubborn and probably still hers. I could feel myself being persuaded right alongside Vee. The “fear needs a face” thing was almost too accurate. And then Randi steers her straight toward the coat-and-heels move, and my whole body went yes/no/yes. It is manipulative. It is also exactly the kind of sexual bravery Vee has been learning to want. That is the horrible deliciousness of Randi: she can be wrong ethically and still dead right about what will unlock Vee.
 
-That sweater-and-laundry nonsense made me laugh because Cassie is not stupid for one second, and Vee is just flinging props around like stage scenery. “Pace shrank your sweater” is Cassie seeing the whole naked weekend through a pinhole and deciding to let Vee have her privacy. I love that. I love a friend who can clock the lie, enjoy it, and not make you pay for it.
+The coat plan is hot, obviously. Not just because of the image, though yes, absolutely because of the image. It’s hot because Vee has to walk herself through shame to get there. The book understands that the charge is not “woman wears nothing under coat,” it’s “woman who has been trained to call that degradation chooses it as courage.” That’s the thing I keep coming for.
 
-And the card. Oof. That got me. Cassie’s mother thanking Vee, wanting to see her again — that tiny warmth hit harder than a bigger sentimental scene would have. Vee’s “Oh” being small because the feeling is not small? That’s exactly the kind of emotional interiority I’m here for. It reminds me that Vee is not only hungry for sex or Pace’s house or Randi’s glamour. She is hungry for being kept in people’s minds. Cassie’s family remembered her. Cassie brought that back like it was no big deal, and then mercifully closed the door before Vee had to stand there naked emotionally too.
+But the real turn was the kiss. Vee coming back because thank you was not enough, taking Randi’s face in both hands, kissing her under the composites — I actually sat up. That was not Randi coaxing one more inch. That was Vee initiating. Messy, grateful, erotically confused, emotionally overflowing, but hers. And Randi alone afterward, touching her mouth like a teenager? I loved that too much. It made her naked in a way the Gstaad bedroom didn’t. She is not cool-girl-ing her way through this anymore. Vee has power over her now.
 
-I also noticed how happy Vee is in the lesser shower. That mattered to me. She can compare Pace’s abundance to dorm life without despising the dorm. She’s not just being absorbed into his rich, sensual little kingdom. She comes back to Cassie and the ugly practical world and still loves it. That makes me trust her more, or maybe trust the book more.
+Then Brooke walked in and the room chilled. Not because she was cruel — she wasn’t — but because she named the social machine Randi lives inside. “Play all you want” is such a pretty little knife. It made the sorority house suddenly feel like Randi’s parents’ table in another dress: warmth, manners, surveillance, acceptable versions of desire. And Randi’s “She’s my friend” landed as defense, lie, prayer, and trap all at once.
 
-The ending is quiet, but it works on me: the one-girl-wide bunk, her hand hitting cinderblock instead of Pace, the shirt still carrying him but fading. Friday is already glowing ahead. It’s a bridge chapter, absolutely, but a good bridge: Cassie restored, Vee’s social world breathing again, and the secret editing pattern still humming under the floorboards.
+I want tonight with Pace so badly I’m almost annoyed the chapter ended before it. But I’m also carrying dread, because if Vee arrives bare under a coat trying to say “peace” with her body, and Pace still cannot spend words, I may throw the book across the room. Also: when Vee finds out Randi helped shape this reconciliation while wanting her herself, and while Pace and Randi have their own hidden arrangement? Oh, that reveal is now loaded with explosives.
 
-GATE 54 — Unpacking
+GATE 55 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-ALMOST-STOPPED: none
-WHY: This was quiet, but it gave me Cassie back and let Vee be funny, loved, and evasive all at once. I’m not panting for the next page the way I was at the doorstep, but I’m comfortably hooked, especially because Vee’s little edits are starting to matter.
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "You backed him into a corner in his own house. Name it or lose me — the one thing he can't do."
+WHY: I bristled there because Randi was reframing Vee’s legitimate need as something done *to* Pace, and I don’t fully trust her mercy when it benefits her game. But the chapter absolutely had me: Vee choosing the kiss, Randi being knocked breathless by it, and the coat plan pointing straight at Pace made my thumb move on its own.

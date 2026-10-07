@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch070 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~2db97916f454 · 2026-09-12*
+*capture-dag-v2-rich · gate ch070 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~fda4df0f276c · 2026-09-11*
 
-REACTION —
+REACTION — Oh no. Oh *no*. This chapter did the thing where I’m reading with one hand over my mouth and the other hand absolutely not turning the page slowly.
 
-Oh, this one got me in the ribs.
+I knew Randi and Vee were going to cross something, but I was not ready for how perfectly nasty and tender and plausible the cover story would be. “Make him wish he were me” is exactly the kind of social camouflage that lets Vee survive wanting what she wants for five more minutes. The joke is the permission slip. The performance is the alibi. And then the kiss immediately becomes too real for the container it came in. That held inch before their mouths touch? Murder. Actual murder.
 
-After all the noise and danger and social static of the last few chapters, the cabin felt like being carried somewhere the book could finally breathe. I could feel Vee unclenching before she could admit she was unclenching. The quiet, the food in thermoses, the cider chosen like a private language, the fire warming the room while they ate outside — that is exactly the grown-up romance thing I am always starving for. Not flowers because a man is supposed to buy flowers. A whole environment made around her comfort and pleasure because he has been thinking about her when she wasn’t there.
+And Vee. God, Vee. She is so starved for being chosen by women, not just men, and the party gives it to her in this glittering, dangerous form: Randi’s skirt, Randi’s hand on her back, Randi saying “she’s here with me,” Randi’s world letting her inside. The whole chapter is Vee being inducted again, but this time the altar is a dance floor and the sacrament is being looked at. I loved how the skirt becomes both shield and trap. Because she can tell herself the boldness belongs to Randi, borrowed with the clothes, right up until her own body betrays that it likes being seen.
 
-And the key. God. The key almost hurt. It is not “I love you,” and the book knows I know that, and Vee knows it too. That little ache of the word not arriving is still alive, but this was not nothing. A key to his house in a box he made with his hands? For Pace, that is practically a vein opened. I love that she can feel both things at once: the huge gladness of being trusted into his private place, and the tiny waiting silence where the word still has not landed.
+Cassie’s eyebrow deserves its own novella. “Tonight I’m Randi’s date” and Cassie just silently filing that under: yes, I heard what you said. I need Cassie with a flashlight and a clipboard at the eventual emotional crash site.
 
-The mirror scene absolutely worked on me. It could have gone corny so fast, but it didn’t, because it wasn’t generic body worship. He isn’t just saying “you’re beautiful” until it turns into wallpaper. He is naming her specifically, almost anatomically, but with devotion instead of clinical distance. Her breasts, her waist, the back of her, the softness, the wetness, the parts she has spent years treating like evidence against her — he takes each one out into the light and makes it not only desirable but hers. I believed why it undid her. I felt her shame trying to survive being adored that precisely, and losing its footing.
+Randi is terrifying here because she knows exactly how to make the room excuse the intimacy. The ass grab, the boy across the room, the “show” of it — all of that is socially legible as party-girl nonsense, which means Vee can’t grab it afterward and say, Wait, that mattered. And then Randi does the worst/best thing possible: kisses her like it mattered, then hands it back as a performance. “I almost believed it” made me want to throw the book and also bite it. Because that sentence is a cage. It tells Vee the right answer before Vee can ask the question.
 
-And then the blindfold plus “go ahead.” Whew. Mean in the best way. Not cruel. But devastating. Because after all that looking, all that naming, he makes her become the one touching the body he has just taught her how to see. That is such a smart erotic turn. He doesn’t just give her pleasure; he gives her back her own hands. And of course she thinks about him. Of course the answer is “you.” I liked that so much more than I expected, because it could have been merely hot, but instead it felt like a little interior door opening: Vee seeing that her private desire is not dirty because it exists without him physically doing it to her. It can still belong to them.
+And yet I believe Randi faltered. That little moment after, where she doesn’t speak, just breathes and blinks and shakes her head? That is not nothing. She felt it too. She just recovered first and chose the lie that keeps the game intact. Which is exactly why I’m furious with her. Not because the kiss happened. The kiss needed to happen. Because Vee is left alone inside the truth of it while Randi gets to fold it back into “we were teasing a boy.”
 
-The finger-cleaning after nearly killed me. Pace finally losing some of that immaculate control, needing her, not executing the perfect scene anymore — yes, please. I love him most when the careful man breaks because she has gotten under the machinery. And I like that Vee knows exactly what that proof means to her. She wants to see him undone. She wants evidence that she can make him need. Same, frankly.
+Also: this chapter is hot in a different register from Pace’s chapters, and thank god. It isn’t replacing him; it’s revealing a different hunger in Vee. With Pace, she is being opened and known and arranged until shame turns into ceremony. With Randi, it’s recognition by a woman who already knows the codes, the prices, the clothes, the room, the performance — and can make Vee feel both protected and exposed. That is dangerous as hell.
 
-The last ask is the little barb under the velvet. “Tell me when you touch yourself thinking of me” sounds intimate and tender in the moment, and I believe he means it that way. But after everything with Randi, after the lie under the whole book, that request is going to matter. Because what happens when the thought is not him? What happens when she has promised a category of truth she does not yet understand she cannot keep clean? The chapter leaves me warm and worried, which is very much this book’s favorite knife.
+I am completely captured, but I am also getting anxious in the good/bad way. The book has now made the secret triangle active on all three sides. Pace and Randi are lovers. Randi and Vee have kissed for real under a fake excuse. Vee and Pace are at full erotic trust. The longer nobody tells her, the more every beautiful thing starts ticking.
 
-GATE 70 — Grace
+GATE 65 — On Her Floor
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 8
-ALMOST-STOPPED: none
-WHY: This was lush and quiet and deeply erotic without feeling like a pause button on the larger danger. The cabin gave me emotional payoff with Pace, but the promise at the end has teeth, and I can already feel Randi waiting just off-page.
+NEXT: 10
+ALMOST-STOPPED: "You really did a great job putting on a show. I almost believed it."
+WHY: That line hurt in exactly the place the chapter had spent the whole night opening. I’m desperate for the next chapter because Vee now knows something her life has no room for yet, and Randi knows she knows, even if she’s pretending she doesn’t.

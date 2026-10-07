@@ -1,17 +1,26 @@
-*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · fsog-refugee · prompt-sha 5884379c460b · prose-sha ~6b85b74f7cb8 · 2026-09-07*
+*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 414026fd7d01 · 2026-10-01*
 
-REACTION — Oh, “He left me a door.” Yes. That is exactly why I’m still here. Vee can feel the difference between being instructed and being cornered, and Cassie immediately names it: he asked. Not perfectly—I would still rather Pace actually say, *Is that okay?* before requesting the bra—but he waits, and she experiences the choice as open. Her sense of her own agency matters more than the sexy tableau does.
+REACTION
 
-I loved coming back into this room with Cassie. She lets Vee spill everything at the speed she can bear, lets her dodge when something is too tender, and understands when not to turn the moment into a joke. “Like I was supposed to be there” could have been embarrassingly grand said to almost anyone else. Cassie just touches her knee. God, keep this friendship safe.
+Oh, this man. The bedroom door stays shut, and somehow that makes the room he *does* bring her into ten times more intimate. She arrived wearing satin for him, ready to be invited across the obvious threshold, and he has prepared an entirely different kind of undressing—one that begins with something she wanted, remembered correctly, and improved because he was looking at *her*, not merely following instructions. I am gone.
 
-But Vee is still telling a curated version. She tells Cassie she was topless, tells her about Pace kneeling, even gleefully confesses that she ground against him—but leaves out the soaked panties, the terror that he would see and despise her, and the way his smile changed how she held her body. That was the real center of the afternoon, and she cannot hand it over yet. I don’t think Cassie would shame her for it. I think Vee is protecting the new self Pace saw because it still feels too fragile to expose to daylight twice.
+And the kiss! She takes it because she wants it, he meets her fully, and then *he stops*. I felt exactly what she felt there: the shock of discovering that restraint does not always have to be her job. He can want her enough to lose his breath and still be the person who decides they should come inside and keep choosing. That is so much hotter to me than a man who treats the first kiss as permission for every subsequent thing.
 
-The heat being turned up beforehand absolutely got me again. This man prepares a room for a woman’s vulnerability hours before she enters it. That is the fantasy: not simply control, but control used to make space for her. And Vee sleeping in the shirt he made without knowing he made it is so intimate it almost hurts.
+The house made me fall for him in a dangerous domestic way. The used cookbooks, the battered fantasy novels, the hand-cut joints, the tools outlined on the wall, the patent whose favorite application is getting frightened people out of an MRI faster—none of that feels like a résumé because Vee is seeing the shape of his private life and loving what she finds. When he says the trick is “Patience. Paying attention,” I nearly laughed, because yes, that is his whole seduction. He is building this woman’s undoing with the same care he builds furniture, and she has no idea the larger structure was designed before she walked into it.
 
-The gay joke made me wince; it felt dated and cheap beside everything subtler happening here. But Vee’s wicked little “*I* was grinding on *him*” recovered me immediately because it is hers. She isn’t merely the beautiful body on Pace’s platform. She tested her power, enjoyed affecting him, and now gets to laugh about her own appetite with someone safe. I’m smiling—but I’m also watching the distance between what she tells Cassie and what she keeps for Pace. That distance could become privacy, which is healthy, or isolation, which absolutely is not.
+I did notice the two towels. I noticed them very loudly. Vee walked straight past them, but I have not forgotten Randi, and I am suddenly looking at every domestic detail for the outline of the woman who has already been here. Nor did I miss the overly warm house, the good light, or the measuring tape already waiting. Pace has planned today down to the atmosphere. That would frighten me more if he weren’t so explicit about what the measuring requires and so cleanly leaving the choice with her. Still: he knows what he is offering. This is not an innocent sewing appointment.
 
-GATE 16 — Turned Up  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: “Vee. Are you sure he's not gay?”  
-WHY: The joke irritated me, but Cassie’s warmth and Vee’s delighted ownership of what she did carried me through. “He left me a door” is practically the sentence I came to this book hoping to feel.
+The burgundy destroyed me. He did not buy the dress, which could have felt like a rich man casually solving her problem. He intends to spend weeks making it to her body. And he didn’t reproduce the magazine fantasy badly; he saw that the color she thought she wanted was not the color that would honor her. That is the exact fantasy I read for: a man who sees past what a woman has permitted herself to ask for and then asks permission before giving her more. “If you’ll let me” is doing extraordinary things to me.
+
+But the secret plan is now hurting more, not less. Every genuinely tender thing he does makes the eventual revelation worse, because Vee is not merely getting seduced—she is trusting the moral meaning of his attention. She thinks his remembering proves she can safely hand him more of herself, and honestly, so do I, moment by moment. Yet Randi exists in those two towels and in everything Pace is not telling her. I need the book to understand that freely consenting to be measured nearly naked is not the same as consenting to participate unknowingly in somebody else’s erotic design.
+
+And yes, I am already turning the page. He has just told this hungry, ashamed woman that he wants to look at her body in full light not to judge it, use it, or correct it, but to make something beautiful fit *her*. If the next chapter is the measuring, I have nowhere else to be.
+
+GATE 16 — Two Towels
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The closed bedroom door, the stopped kiss, and the dress all made his restraint feel inseparable from his desire, which is exactly what I came for. The two towels and the hidden plan keep a blade under all that tenderness, but right now that tension is pulling me harder, not pushing me away.

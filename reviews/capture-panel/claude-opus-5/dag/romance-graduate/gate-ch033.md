@@ -1,0 +1,32 @@
+*capture-dag-v2-rich · gate ch033 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5274d9c5fd04 · 2026-10-02*
+
+REACTION
+
+Oh, she *farmed* her. That's what that was. Randi walked into a soundproof closet with forty-five minutes and a girl who had already compressed the entire weekend into "he sort of swatted me back. And then we, you know," and she came out the other side with the whole thing laid open, the wet hand, the exact spot, the face Vee made — and then she handed the girl the next door with a shrug and a story about a soft-spoken little man who apologized to the furniture. *Sometimes it's the mouse that roars.* She even picked the room. Two minutes away, empty at this hour, the cells nobody uses at lunch, and let's not forget Vee's own flinch on the threshold — *those are where everybody used to* — and Randi's flat, unhelpful *I do know,* which is the single filthiest line in the chapter and nothing happens in it at all.
+
+And I don't believe the mouse. I'm sorry, I don't. This is the woman who has invented two entire bad dates with a beautiful boy in a hurry to cover Fridays she spent in Pace's bed. The counting out loud, the skirt up, the hand that slips *toward the end* — that's not a memory, that's a blueprint, delivered in the one register Vee can't refuse anything in, which is Randi being generous with her own embarrassment first. *It was humiliating. And God, it made me buck.* She gave Vee the permission slip and the instructions and the reassurance that the hand slipping is *welcome, believe me,* and then she had her phone out and her bag on her shoulder like none of it happened. *And Vee couldn't tell whether she had.* Neither can I, and I've been watching her for thirty-three chapters, which is the whole trick.
+
+But here's what got me and here's why I'm not mad about being played: the "did you deserve it?" Not asked as a taunt. Asked like a nurse asking where it hurts. And Vee going *probably I deserved it* and then realizing a half-beat late what she'd just signed, and Randi's smile brightening, *and it went down through her like a swallow of something warm.* That's the mechanism of this entire book in four lines. Nobody takes anything. Vee hands it over and the handing is the pleasure.
+
+The bathroom is the best thing in the chapter and it's the thing I'll still be carrying in ten chapters. Bolt loud, hard white light, soaked through *by nothing but a woman talking in a chair*, and her hand already moving and her other hand catching it and pinning it flat to her own knee. *Not here. Not over a story. To do that would be to say yes to it, and she would not say yes to it.* She's not refusing the wanting, she's refusing the paperwork. She knows that if she does it in that bathroom there's no version of Tuesday where she gets to not know. I have read a hundred heroines who "didn't know what they were feeling." This one knows precisely and declines to file it. That's the interiority I came here for and nobody's explaining it to me.
+
+Then she comes back and Randi is *so pleased to see her* and Vee feels it land, warm all through, and that's crueler than anything Randi could have said.
+
+Cassie. Cassie saved the seat with her backpack. Cassie asked whether it was the odd ones or all of them and got answered by a girl already turned a few degrees away, and then said *see you in the room* **to the side of Vee's head.** And Vee's two fingers went to Randi's wrist and the direction of this friendship reversed in public — for weeks it was Randi cutting her out of the herd, and now it's Vee towing *the most interesting person she knew* toward the door past the one person in the building who has never once wanted anything from her. I wrote down months ago that my dread wasn't the reveal, it was the morning Cassie stops cracking the window. We're closer. *To the side of her head.* God.
+
+And the last paragraph is the chapter's actual event. The goodbye kiss is so worn-in she barely clocks it — fine, that's established, that's the frog in the pot — but her arms were *slow coming down.* She hadn't meant to hold on. *She noticed it the way you notice a held note after the song has already moved on.* And then she put it down to not sleeping. The jacket told me she'd stop being able to keep from knowing it, and this is the exact centimeter where the not-knowing starts costing her effort. She reached first, she held on last, and she filed it under tired.
+
+What I almost got annoyed by: the lecture. Simpson's paradox worked because it was a joke the book made over Vee's head and never touched again. Outliers-that-contaminate-everything-downstream is the same move but with the volume up — *it's in everything that comes after*, two minutes before a chapter about one slap in a kitchen reorganizing a woman's entire nervous system. I don't need the chalkboard to tell me what the hand did. That's the second time the stats professor has been handed the thesis and if there's a third I'm going to start reading his slides as footnotes instead of plot. Saved by the fact that nobody in the room notices — Randi's knee arrives against Vee's under the fold-out desk and Vee gives the board "another honest minute," which is funny and true and let me off.
+
+Also, quietly: Sheri two chapters back still has a hook in me, because she's the only person who's looked at this arrangement from outside and said *if that's not already complicated, it will be.* And Pace said *not yet* about Vee knowing. He's been saying *not yet* about everything — the scar, Randi, the bar. The not-yets are stacking and Randi is spending them.
+
+Text at 1 a.m.: *she told her a spanking story in a piano closet on purpose and the girl had to go sit in a bathroom and HOLD HER OWN HAND DOWN. I'm feral. also Cassie said bye to the side of her head and I need to lie down.*
+
+GATE 33 — The Practice Room
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "The second kind comes in through the part that carries forward. It's in everything that comes after."
+WHY: A clothed chapter in a closet-sized room got me harder than most books' sex scenes, and it did it by having one woman talk and the other refuse to touch herself over it. The reversal is complete — Vee reached first, held on last, and blamed the weekend — and Cassie got spoken past into open air. I'm not setting this down; I want the debrief where Randi tells him what she planted.

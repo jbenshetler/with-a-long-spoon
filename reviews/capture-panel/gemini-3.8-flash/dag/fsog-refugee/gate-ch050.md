@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch050 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0511a4346bd0 · 2026-09-19*
+*capture-dag-v2-rich · gate ch050 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-07*
 
-REACTION:
+REACTION
 
-Oh, god. My throat literally closed up reading this.
+*“Words are cheap, and you still won’t spend them on me.”*
 
-Pace. This massive, unshakable, hyper-competent man who can build furniture, who cooks with the absolute precision of a master chef, who gentles every touch so he never bruises her—bent completely double over a bowl of steamed broccoli and chicken, sobbing so hard he can’t breathe because a strange truck just drove past on the highway and didn't turn into his drive.
+God. *God.* That hit like a physical slap to the chest. I felt the air leave my lungs.
 
-Seeing him hungover, smelling the bleach where he clearly had to scrub his own sick off the bathroom floor after trying to drown her out with cheap whiskey... it completely broke me. He is in absolute agony. And it makes me furious at him and breaks my heart into a million pieces at the exact same time. Sheri called it in the diner—he was treating not saying the words as more important than having her, hoarding his safety like an armor, and now he's sitting in an empty house realizing the armor didn't save him from a damn thing. It just ensured he'd suffer alone.
+This is the exact breaking point I have been waiting for, dreading, and needing with every fiber of my being. Fifty chapters in, and Vee finally looked at this gorgeous, warm, impeccably curated cage and refused to just lie down and be petted. She didn't let the heat of the house or the spiced chicken or the poured wine seduce her into silence. She stood in her coat, left her bag in the car, and demanded to know who she is to him.
 
-The reveal about Daphne hurts so much because it makes total, devastating psychological sense. He was a kid with no family to back him up, completely adrift in the world, and Daphne was his *everything*—his guide, his best friend, his first love. When she walked away, he had no floor left. So he built this rigid, mathematical rule in his head: *The words are what give them the power to destroy you. If I don't say the words, it stays survivable.*
+And his answer broke my damn heart in two different directions. *“Do any of your friends have a relationship you’d rather have than this one?”* It’s so arrogant, so typical of a dominant, brilliant man who thinks providing an exquisite sanctuary is a substitute for emotional vulnerability. He really thinks building her a haven excuses him from declaring her. *“Believe what I do.”* Oh, Pace. You blind, arrogant, beautiful idiot. She *does* believe what you do—that’s why it’s killing her! What you *do* is keep her in a box with the deadbolt turned, while Randi is on your couch after hours talking about your three-way scheme and you tell cycling buddies "Not yet."
 
-Except Vee broke the math. He *knows* he loves her. He admitted it to himself right there on the page: *He had known what she offered him on the porch and wanted to answer it.* He chose to give her that sanitized, gutless *“I love how good we are together”* because he was terrified. He was a coward in the one moment she laid her whole heart bare and practically begged him to meet her. He knew she gave him a meal and he handed her a cracker.
+When she fired back that words are cheap and he *still won't spend them on her*, and I watched him physically fold his arms and shut down—holding a line at cost—I wanted to scream. That is the wall. That is the secret keeping him from giving her the words. He *can't* give her the title, he can't say "You are my girlfriend and I love you and you are my only future," because the entire premise of how he started this with Randi forbids it. He has trapped himself in his own clever mathematics, and now the woman he is clearly, desperately falling for is walking out into the freezing night because he won't give her the one thing a human heart needs: to be claimed out loud.
 
-And now he's sitting there with the silence he bought. It’s sickening because the communication between them is so utterly stalled, both of them freezing in their own corners—Vee in Ohio thinking she was just a body to him, that he’s already moved on to some pretty dance-hall girl, and Pace dry-heaving over cold meal-prep chicken, weeping into his hands.
+When he dropped his arms and reached for her—trying to use touch, the physical comfort, the hands that solve everything, to bypass the word—and she walked out anyway? I cheered through my tears. That is what real self-respect looks like. When I read that Fifty Shades ending years ago, Ana walking out because the pain crossed a line she couldn't accept, I felt that exact same hollow, electrified ache. This was better. This wasn't about a belt; it was about the agony of being profoundly cherished in the dark and completely unacknowledged in the sun.
 
-He has to go get her. He has to drive to Ohio, or stand on her dorm steps, or break his own stupid rule and call her. If he lets this sit until the semester starts, if he lets Randi get her claws in deeper while Vee is this bruised and unguarded... I swear to god I won't survive it.
+She walked. She left him standing there with two glasses of wine and the chicken on the stove. Good. Let him choke on the silence of that warm house.
 
-***
-
-GATE 50 — Not Enough
+GATE 50 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Seeing Pace completely dismantled by his own terror—sobbing over his kitchen table because a passing truck wasn't her car—is the exact kind of earned, agonizing emotional depth I live for. He finally admitted he loves her and that his silence was cowardice, and I desperately need to see him break his own rules to win her back.
+WHY: Vee demanding to be named and refusing to let his physical tenderness substitute for real emotional commitment was breathtaking; her walking out the door was devastating and completely earned.

@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch040 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha a03ea01d3f8f · 2026-09-19*
+*capture-dag-v2-rich · gate ch040 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · 2026-10-01*
 
 REACTION
 
-Oh, wow. What an absolute pivot from the syrupy, sex-drenched heat of the last few chapters straight into a razor-sharp emotional knife fight. No nakedness, no Peter, no bedroom games, but my pulse was hammering just as hard.
+God, I felt this in my lungs.
 
-First off, the sheer psychological precision of placing Vee literally in the middle of Cassie and Randi—Cassie with her laid-off working-class dad, Randi with her Mercedes bought on the backs of forgiven PPP loans, and Vee just desperately wanting to keep the fantasy of both worlds alive. That glass-walled library room was pure claustrophobia.
+After the absolute sensory overload of the last few chapters—the brunch confessions, the sticky fingers, getting spanked over a bet in four-inch heels, flashing him in the hallway, the dress debut—we needed this breath of pure chlorine. And Vee needed it even more than we did.
 
-Watching Randi hit that outlier—*MIRA*—and watching the mask slip in real time was incredible. Randi’s whole persona is effortlessly untouchable, polished, post-scarcity wealth. And right there, laid bare in raw government data: her family’s businesses took the cash, cut the workers anyway, and she’s driving the proceeds. When she muttered *"Cheating bastards,"* it wasn't about abstract corrupt executives; that was a girl staring at her father’s signature. That was a ragged, bleeding wound.
+What a brilliant, grounding chapter. The physical rhythm of swimming laps—breathe every third, the black line on the floor, the cold tile, the bad butterfly swimmer—is such a specific, unglamorous, solitary kind of labor, and it’s the exact antidote to the high-gloss, scented web Randi and Pace are weaving around her. Down here in the pool, her body isn’t a performance, it’s not an appetite to be fed or dressed up in silk or spanked until it’s pink. It’s just an *engine*.
 
-And Vee’s reaction! God, Vee is so hopelessly, tenderly, dangerously protective of Randi now. Instead of letting Cassie see, instead of confronting it, Vee instantly jumps in to manage the room, to smooth the gravel, to give Randi a lifeline of logistics so Randi doesn't have to crack in front of Cassie. Vee tells herself she’s just being kind to a friend who got dealt a bad hand by a crooked father, but the reality is Vee *needs* Randi to stay golden. If Randi’s foundation is built on theft and exploitation, what does that say about the shiny, intoxicating world Vee is actively trading Cassie away to join?
+And of course, the second she gets into that mindless, rhythmic rhythm, Cassie’s voice drops right into the lane. *Do you love him.* Cassie is the only mirror in Vee's life that doesn’t have a funhouse tint to it. And Vee’s panic—that brief, terrifying wobble around the seventh hundred where she wonders: *is he actually that good, or did I build him out of wanting?*—that gave me genuine chills. That is the smartest, most psychologically astute thought Vee has had in this entire book. She’s finally brushing up against the edges of the illusion. She senses, even if she can't name it, that the Pace she loves might be a bespoke construction tailored to her deepest hungers.
 
-This chapter did so much heavy lifting without a single line wasted. It grounded the erotica in cold, brutal class reality. The collision course between these three is ticking so loudly I can practically hear it in my teeth.
+It’s quiet, it’s completely clothed, there is zero sex, and yet the emotional stakes are ratcheting up so fast. She swam it out just to quiet the question, but the question is in the water now. It’s not going away.
 
-***
-
-GATE 40 — The Outlier
+GATE 40 — Strokes
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension in that library study room was suffocating, and cracking open Randi's gilded family armor through cold, hard stats data was an absolute stroke of genius. I have to see how Vee carries this secret and what happens when the veneer finally shatters.
+WHY: A masterclass in pacing; dropping Vee into the solitary, unvarnished discipline of swimming laps gave her the exact quiet space she needed to finally ask the most dangerous question in the novel—whether Pace is real, or just something she built out of pure starvation.

@@ -1,24 +1,18 @@
-*capture-dag-v2-rich · gate ch041 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha a3af5d5e997c · 2026-09-19*
+*capture-dag-v2-rich · gate ch041 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 38dcf8e44cd8 · 2026-10-01*
 
-REACTION
+REACTION — Wait, what just happened? I had to stop reading, scroll up, and stare at my own notes because I genuinely thought I was losing my mind. This isn’t a new chapter—or rather, it’s a scene I already watched happen!
 
-Oh, my god. Oh, my absolute heart.
+In my notes from Chapter 37/38, Vee already offered him the picture (*"Would a picture help?"* / *"Only if you promise you'll never share me with anyone"*), he arranged her like an old calendar pinup, took the shot on her phone, she watched it go to *Delivered*, and then he cooked her the lemon chicken piccata with the capers and paper-thin lemons, shut down the talk about his parents with *"I don't go back,"* and brought up Sheri coming over for Thanksgiving. Hell, in Chapter 39 she *already took that picture to brunch and showed it to Randi!*
 
-This chapter felt like finally being able to take a full, deep breath of clean air after being underwater for three chapters. After the library, after the sickening PPP loan reveal, after Randi’s endless mental games and the creeping dread of knowing what’s coming—to just have them alone together in that house, without an audience, without a performance, without an angle? God, I needed this. *They* needed this.
+Why am I reading the exact same scene again under the title "In His Hands"? Word for word, beat for beat, from the tapping of the nail on her front tooth to the knob of butter swirled into the pan to Sheri bringing the fake homemade pie. Did the author accidentally duplicate a chapter? Is this an alternate draft that got dropped in by mistake?
 
-The desperation at the front door was so real it made me laugh out loud. The undignified, clumsy, one-legged hop trying to peel tight denim off while kissing him, the socks, the fact that he just held the strap of her bra and let her unspool herself like ribbon—it was so playful and warm and starving. That’s what I love so fiercely about how she writes them. Dominance doesn't have to mean solemn, humorless cruelty; it can be a massive man who could snap you in half standing there in his hall grinning at your absolute impatience, taking his time because he knows he doesn't have to rush to own the room. And the fact that he never punished her for taking five nights for herself! No guilt trip, no cold shoulder, no childish sulking. Just: *Take the time you need, I’ll be here.* Fifty Shades would have had Christian stalking her or freezing her out to punish her for daring to study. Pace just opened the door and waited.
+The scene itself, when I read it the first time, was gorgeous. The tenderness, him arranging her limbs, the food, the tension over his past—it hit all the right notes. But getting handed the exact same text I read three chapters ago, completely out of sequence after we *already* moved past it to the PPP loan revelation in the library, completely jerks me out of the story. I'm not in Vee's head right now; I'm sitting here as a confused reader wondering what happened to the file. I want to see what happens *after* the library, not reread the chicken piccata!
 
-And then the shirt. *The shirt.*
-
-When she pulled it out folded at the bottom of the bag, and he looked hurt because for two seconds he thought she was returning it? My stomach dropped right with his. But the confession—telling him flat-out that it had stopped smelling like him, that she needed him to recharge it for her, standing there feeling so foolish and exposed—and the way he looked at her? He didn't tease her, he didn't mock her vulnerability. He pulled it right on over the clothes he was already wearing. Wearing two shirts in a warm kitchen just so she could sleep in him next week.
-
-I know the floor is going to drop out eventually. I know the game was real, I know Randi is out there like a landmine, I know Thanksgiving with "Sheri" is coming. But chapters like this are why the inevitable heartbreak is going to destroy me: because this isn't a game to them anymore. You can’t fake the way he looks at her, and you can’t fake him standing over a ball of dough making a sauce from scratch with romas and cream. I am so deep in his corner it's terrifying.
-
-***
-
-GATE 41 — The New Ordinary
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-ALMOST-STOPPED: none
-WHY: The absolute tenderness of the shirt scene wrecked me; this was pure warmth, deep domestic heat, and everything I read this genre to find.
+CAPTURE: 2
+NEXT: 5
+HEAT: 1
+ROMANCE: 1
+ALMOST-STOPPED: The moment I realized, halfway through the photo setup, that I was reading the exact text of a chapter I’d already finished several beats ago.
+WHY: This is a straight-up duplicate of the scene from around Chapter 37/38—the bed, the pinup photo, the chicken piccata, the Sheri conversation—which we already moved way past (she already showed Randi the photo and saw the PPP loan!). I'm only continuing because I want to see where the actual plot went, but reading a carbon-copy rerun completely killed the momentum.

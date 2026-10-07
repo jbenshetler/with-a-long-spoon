@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~00dbf427b44c · 2026-09-12*
+*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~78023057031c · 2026-09-12*
 
-REACTION — Oh, this is awful. Hot, tender, devastatingly hot—and morally awful.
+REACTION
 
-Vee driving to Pace because she needs him to crowd Randi out of her head broke my heart before she even reached his door. She is not choosing between two desires yet; she is using the desire she understands to punish and erase the one she doesn’t. And of course it doesn’t work. Randi remains “the third one she’d carried in on her mouth.” That line lodged under my ribs. Pace can fill her body, but he cannot make her stop wanting Randi, because the wanting is hers.
+Oh, this got me. Not sexually at all, and I didn’t miss the sex for one second. The water on the folded paper towel, the pills, his old shirt pulled over her, the bread somehow existing by morning—this is exactly the ordinary tenderness that makes me helpless with him. He takes care of her when there is nothing glamorous in it, when she is barely conscious and cannot admire him for doing it. And that remembered kiss on her forehead, after he thought she was asleep, may be more intimate to me than half the things they’ve done naked.
 
-The confession game would have destroyed me under any other circumstances. Being held just off what she wants, having to replace each tidy little euphemism with the truth, receiving more of him when she finally admits what she actually felt—that is exactly the kind of dominance I read for. She likes the rule. She tests it. She chooses to keep answering. Her pleasure and her honesty become tangled until she finally says, “I wanted it.” I felt that with her.
+Then he told her he has one friend, and my heart broke—and immediately afterward my suspicion sat straight up.
 
-But Pace already knows. Worse, he knows because Randi has been telling him, and he has already used Vee’s attraction to Randi in bed with Randi. So this isn’t a man helping his girlfriend confess a frightening new desire in a protected space. It is one conspirator erotically extracting her account of what the other conspirator did. He makes Vee pay for information he already possesses, then comes with her while she describes his secret lover’s mouth. I cannot separate the heat from the betrayal now. The scene gives me precisely what I want while making the context poison it, and I am furious because Pace’s attentive control is so real. He could have made this safe. He chose secrecy instead.
+Because I believe him about the loneliness. Completely. That account of missing the one brief window when boys learn friendship through ordinary competition felt horribly true for this particular strange, brilliant, displaced man. And the innocent questions with gaps under them—Christmas, parents, somewhere to go—hurt terribly. He has made a philosophy out of not calling deprivation tragic, just as he made Daphne into luck because admitting what it cost might undo the only love he had. Vee sees that now. She sees the beloved experience and the wrong adult shape of it at the same time, and I’m so glad she does not flatten either truth to make the other easier.
 
-“You keep saying her name, Vee. Not me” may be the most exquisitely dishonest true sentence he has spoken. Vee reads his tiny self-defense as proof that he does not want Randi, when he is actively sleeping with her. She calls it the sweetest thing he has ever done. I wanted to reach into the book and shake all three of them.
+Her hug was perfect. She didn’t pity him, didn’t demand disclosure, didn’t make him reassure her. She simply crossed the distance and held him with her whole weight. That is love, whether either of them will say the word or not. And the echo of Sheri’s hug absolutely finished me: Vee understood what that embrace meant and answered it in the same language.
 
-And then she feels she has “gotten away with it.” Oh, sweetheart. She is torturing herself over goodbye kisses and one private fantasy while lying in the arms of a man who is concealing an entire relationship and a planned seduction. She believes fidelity means telling him everything, and he lets her believe she has achieved that intimacy while offering none of the same honesty back. Even his “Anything else you want to tell me?” made me cold. He knows there is more. He knows more than she does. He is asking her to expose herself while remaining perfectly covered.
+But, Pace. “My one friend”? Where is Randi inside that sentence?
 
-I’m not leaving, because Vee has finally crossed the internal line even if she cannot name it. She wanted Randi. Not as a joke, not for Harrison, not because Pace wanted to hear it. She wanted Randi’s mouth on her, and after all that sex with Pace her mind still goes straight back to Tuesday. Nothing is wrong with her. Something is profoundly wrong with the structure around her—and I need her to see it.
+Maybe he truly does not classify Randi as a friend. Maybe she is lover, partner, co-conspirator, some category so foundational or dangerous that “friend” would be inaccurate. But Vee hears “one person in the world,” and he knows she hears it. She is grieving that he had nobody after Daphne while Randi is presently in his bed, sharing his secrets and helping shape Vee’s life. He lets Vee build an entire emotional understanding around an absence that is not actually empty. That makes this exquisitely tender chapter feel almost cruel underneath.
 
-GATE 66 — Boyfriend
+And Vee’s certainty that Sheri is safe because she “could never want him” made my stomach turn—not because Sheri secretly does, but because Vee is unknowingly identifying the exact condition under which she thinks Pace can keep a woman close without romantic complication. Randi blows that condition apart. The revelation is going to reach backward and contaminate this beautiful morning: the bread, the loneliness, the hug, all of it. Not because his pain is false, but because he accepted comfort generated by a false picture he chose not to correct.
+
+I would text a friend: “This man baked her cinnamon-raisin bread while she slept off cider, confessed he has one friend, and let her hold him—and I am crying while also yelling WHERE THE HELL DID YOU PUT RANDI IN THAT SENTENCE?”
+
+GATE 62 — Hangover
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-ALMOST-STOPPED: “Tell me the real story, and I'll give you what you want.”
-WHY: The immediate consent held, but Pace’s secret knowledge made the erotic bargain feel horribly exploitative. I’m already turning the page because Vee finally knows the desire is real, and Tuesday with Randi now feels unavoidable.
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: The care between them was so real that I would happily have stayed in this quiet kitchen all chapter. But “Sheri’s my friend. My one friend” is an enormous, suspicious omission, and now I urgently need to know what Pace believes Randi is—and how much truth he knowingly let Vee replace with tenderness.

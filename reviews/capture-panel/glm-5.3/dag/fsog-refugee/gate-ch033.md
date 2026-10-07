@@ -1,21 +1,25 @@
-*capture-dag-v2-rich · gate ch033 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch033 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 5274d9c5fd04 · 2026-10-01*
 
-**REACTION* · prose-sha ~d4837de434ed*
+REACTION
 
-Oh, this chapter. This is the one I'd text someone about at 1 a.m. with no punctuation.
+Well. That happened. I'm sitting here with my tea gone cold.
 
-The induction was her taking the dress out into the world — but this is her bringing it *home to its maker*, and the fact that it's entirely her idea, her choreography, her two costumes, makes it the warmest thing the book has done. She planned this. She carried the dress out to the car in the cold. She made him sit in the recliner and *wait*, and he did — and that's the part that undoes me. "He hadn't left the chair. She'd put him there, and he'd stayed put." This man who could lift her over his shoulder choosing to sit with his wine untouched while she walks a hallway naked in four-inch heels, because the whole gift is the *letting* — the looking is the touch, and he takes his time about the taking. That's the exact thing I've been hunting in this genre for years: his restraint is the heat, and her power is real. She held up one hand, flat, and he sat back down. And she *watched him make himself do it.* I felt that in my sternum.
+The practice room chapter is the exact flavor of this book that makes me crazy — nothing "happens" in it, two women in a soundproof closet and a pair of heels on a music stand, and I had to put the book down twice. When Vee said "Walk me out?" and took *Randi's* wrist — after weeks of it going the other way — I actually said "there it is" out loud to nobody. That's her reaching. That's hers, and the jacket promised me the reaching would be hers, and here it is, in her hand, unembarrassed. The freshman-year blush about what the practice rooms are "used for," the unfinished sentences, the hug she didn't mean to hold on to at the end. She's falling and she doesn't have the word yet. I have the word. I've had it since the shoe fitting. It's agony in the best way.
 
-And "this one. The other is for the world. This is just for me" — I actually put the book down. Because that's the counter to everything the con has been telling us about her. The plan wanted her displayed, harvested, watched — the induction entrance she rehearsed was the con's own choreography. But *this* viewing is hers, off the books, for an audience of one, and he names it exactly right: the public one is the costume, the naked one in his lamplight is the real. She beat the machine at its own game by making the truest moment in the book so far the one nobody staged.
+But — and this is the ache under the whole chapter — I cannot read Randi clean anymore and I hate that I can't. Because the Randi I love would be sitting there lit up for Vee, and she IS, that's real, "so pleased to see her that Vee felt it land, warm all through." But the Randi I've been watching since chapter 30 also just did it again. Vee skids past the middle of the weekend, and Randi doesn't let her. "Did you deserve it?" — and my girl, underslept and glowing and with no armor in that little room, says *probably, yeah* — a beat late, and knows a moment too late what she agreed to. Randi walked her straight into saying it. Then the story. Over his knee, count out loud, "it made me buck." She fed it in perfect pieces, watching Vee's face take each one, and Vee ended up in a hallway bathroom with her hand on her own knee *refusing to say yes to it.* That refusal is the most Vee thing in the whole chapter — the book keeps letting her own her yes, even when the yes is being grown in her by somebody else's story, and I love the book for that even as it's breaking my heart.
 
-The "costume" framing is perfect Halloween logic too — everyone out being somebody else, and her walking down a hallway being, for the first time, only herself. The blush going down and down and her refusing to cover one inch of it. The hip cocking out before she knew about it. That's a heroine whose desire is *hers*, rendered from the inside, exactly what I read for.
+And here's the thing the book knows and Randi half-knows: Randi's spanking story is a *confession.* "If I'd had too much wine and gotten flirty with other men at dinner" — she's told Vee, on the record, what she does when she cares and gets scared. She just dressed it as erotica. The mouse that roars. And Pace still doesn't know his partner is drowning. The gap between what Randi told Vee in that closet and what Vee told Cassie (nothing, ever) and what Pace knows (nothing) is getting so wide I can hear wind through it.
 
-Small note in the margin I can't help: "he started up out of the recliner and she put out one hand, flat, and he sat back down" — the book keeps proving the consent runs both directions, and it never winks. Even the chapter title, *Made-Up* — Halloween, yes, but also the making-up of a self, and the making-up between people. God. And the scrunchies last chapter, the "bag" she meant to start bringing, the shoes that stayed at his house — she's moving in by inches and calling it a wardrobe.
+The outliers lecture is doing exactly what I suspected this author's lectures do — the first kind you lift out and the line goes on; the second kind is in everything that comes after. Randi is the second kind. Vee is the dot flung off the line. I see you, professor.
 
-The only shadow is the one I carry anyway: he still hasn't seen what's in the frame of that photo she sent. Randi still holds the "did you deserve it" harvest. The plan is still out there. But tonight — tonight was hers, all hers, and I'm going to sit in the glow of it a while before the book makes me pay.
+The kiss at the stairs — "so worn-in now that Vee barely clocked it" — and then Vee's arms slow coming down. She didn't hold on to Cassie's goodbyes. She held on to that one. I put it down to that too, sweetheart. We all do.
 
-**GATE 33 — Made-Up**
+GATE 33 — The Practice Room
 DECISION: CONTINUE
-CAPTURE: 10
-ALMOST-STOPPED: none
-WHY: Her idea, her staging, his patience — the full heat with her holding the pen the whole way. "The other is for the world. This is just for me" is the tenderest, most exact thing he's said yet, and she authored every second that earned it.
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "Did you deserve it?" — the manipulation landed for a second and I felt the old Fifty-Shades chill, but the book framed Vee's late awareness of what she'd agreed to, and her bathroom refusal, so clearly that it stayed honest.
+WHY: The reaching is finally Vee's — she towed Randi out of that lecture — and her "no, not here, not over a story" is the consent line I stay for. But Randi's harvest and her disguised confession are compounding, and I'm reading toward the crash more than the sweetness now.
+NEXT-focus note: two chapters from Vee's POV alone with Pace still hum in me; the next one needs to move either the bench, Cassie, or Vee naming the thing she has no word for — any of the three and I'm up past midnight again.

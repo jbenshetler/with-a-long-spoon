@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch063 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~f6415b9043be · 2026-09-12*
+*capture-dag-v2-rich · gate ch063 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~8348ecb548e4 · 2026-09-12*
 
 REACTION —
 
-Oh, Vee.
+Oh. Oh, this one got under my skin in a quieter way than the porch or the truck, and almost more dangerously because nobody else is in the room. It’s Vee alone with the thing that won’t stay where she filed it, and I could feel her trying to make a clean little category for it and failing. The whole chapter is just that one inch between her fingers and her mouth, and somehow that inch felt enormous.
 
-This chapter made me curl up in myself and lean forward at the same time, which is exactly the dangerous little trick this book keeps pulling. Because on the surface it’s this very ordinary sexy errand: he asked, she said yes, she goes and does the thing, and afterward she feels transformed. But inside it, it is so much more complicated than that. It’s choice and ignorance braided together so tightly I kept wanting to put my hand over hers and say, wait, baby, ask one more question before you give yourself away.
+What I loved, fiercely, is that Pace is present here as care even in memory. The thing that’s making her curious is not humiliation from him, not pressure, not some man smirking at her shame. It’s his calm. His enthusiasm. The way he liked her without asking her to become less first. That’s exactly the difference I read for. He makes her look at the part of herself she has always flinched from because he doesn’t flinch. And now Randi has made it worse, or better, by not flinching either. “I don’t.” God. That mild little fact is still echoing.
 
-The thing that got me hardest was how much this was still hers and how much it wasn’t. Pace asks. He asks cleanly. He looks right at her and gives her the room to say yes, and that is still the heat for me. “I’d like you waxed. By the weekend. Bare. Will you?” That absolutely did something to me, I won’t pretend it didn’t. That directness, that specificity, the fact that he wants her prepared for something he knows and she doesn’t yet know. I felt the pull of it exactly the way Vee did. My body-reader brain went: yes, yes, what’s the weekend, what is he planning, let him find her like that.
+And Vee not being able to do it yet felt so true to me. I didn’t feel disappointed in her. I felt protective of her. She wants it, or wants to know whether she wants it, but there’s still a whole installed lifetime between wanting and doing. The book lets that be erotic without making it a cheap “aha, she secretly likes dirty things” moment. She reaches, can’t reach, finishes anyway, and then has to open the window because the room is full of her. That is so intimate it almost made me look away.
 
-But then the chapter makes me sit in the cost of the yes. Not in a punishment way, not moralizing, but in the actual lived humiliation of not knowing what you’ve agreed to. The front was one thing: scary, painful, intimate, embarrassing, but still connected to Pace in her mind. She can eroticize that. She can keep it for him. The wrong hand pressing her thigh down nearly wrecked me, because it was such a perfect little cruelty of sensation: her body knows the grammar, but the meaning is gone. That is exactly the kind of psychological specificity I came here for, and also exactly the kind that makes me nervous because Vee is so porous right now. She can turn almost anything into devotion if Pace is standing behind it somewhere.
+Also: the closing of Cassie’s window at the start and opening it again after. That did something to me emotionally, not just sensually. She shuts out Cassie’s air so the room can become all hers, all heat, all body, all Pace’s flannel and the question Randi left in her. Then afterward she has to let the world back in before Cassie comes home. She can’t quite live openly in the hothouse yet. But she also lies down over the damp place. That is not nothing. That is Vee not cleaning herself completely away.
 
-And Randi. Randi, Randi, Randi. “Barely stings” is a crime. A pretty, glittery, coffee-date crime. I don’t think she meant to hurt Vee, exactly, but she absolutely softened the door and let Vee walk through without knowing what room was on the other side. That is becoming the Randi pattern: she gives Vee the language and the glamour and the permission, but not always the full map. And because Vee trusts her so much, being told by Randi is restful. That line hurt. Restful can be so dangerous when the person soothing you is also steering.
+I am now deeply nervous about Randi, because this chapter made Randi’s absence feel like a hand in the room. “A mouth carrying it back. Or Randi’s own fingers.” Excuse me. Vee is not just thinking about whether this act is gross or powerful. She is thinking about Randi’s body doing it. That is a door. A big one. And she still thinks the whole question belongs safely to Pace. It does not.
 
-The roll-over moment was the closest the chapter came to losing me emotionally, not because Vee continued, but because I could feel the difference between chosen surrender and momentum. She could say no, yes. The word is there. But the way she thinks, “I’d already said yes to the whole of it,” when she did not actually understand the whole of it, made my chest go tight. That is the book’s central wound in miniature. Every yes freely given. That was the problem. I am still reading because the book knows that’s a problem. If it were playing that as simple hot obedience, I’d be gone. But it isn’t. It lets the false floor drop.
-
-And still, shamefully or not, the ending got me. Alone in the room, touching the smoothness, realizing what she has made of herself, wanting his hand there. That was hot. Not polished-hot, not easy-hot, but intimate and bodily and a little trembling. I believed completely that she walked out feeling expensive, secret, altered. I wanted him to see her. I wanted the weekend. I wanted the right hand too, which is why I’m mad at all of them, because they keep making me want the thing before I’m sure it’s fair to her.
-
-GATE 63 — Barely Stings
+GATE 59 — The Reach
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-ALMOST-STOPPED: "She'd already said yes to the whole of it, in a bright kitchen three nights back, without once asking what the whole of it was"
-WHY: This chapter was almost unbearably Vee: brave, ashamed, turned on, underinformed, and still reaching for what she wants. I’m uneasy about Pace asking without explaining and angry at Randi for making it sound smaller than it was, but the book is showing me the unease instead of asking me to ignore it, so I’m absolutely reading on.
+CAPTURE: 8
+NEXT: 8
+ALMOST-STOPPED: "She could not close the distance."
+WHY: This was quiet, but it pulled hard because it made Vee’s desire feel genuinely hers and genuinely frightening to her, not performed for anyone. I want the next chapter badly because the Randi part has moved from shimmer to shape, and Vee is still pretending she doesn’t see it.

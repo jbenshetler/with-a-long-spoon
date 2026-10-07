@@ -1,21 +1,26 @@
-*capture-dag-v2-rich · gate ch048 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~b247f2c75c88 · 2026-09-11*
+*capture-dag-v2-rich · gate ch048 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
 REACTION —
 
-Oh, this one got me in a different place. I needed Pace outside Vee’s ache for a minute, and the book knew it. Not because I wanted him let off the hook. Absolutely not. But because I needed to see whether there was anything in him besides this beautiful, maddening refusal, and yes, there is, and somehow that makes me more upset.
+Oh, Vee. This one hurt in that ugly familiar way where the fight you pick is not the fight you mean, and then you hate yourself for having picked it, and then the other person is decent enough that you almost hate them more for not giving you a clean villain.
 
-Sheri. Thank God for Sheri. She is exactly what I wanted her to be: five feet of no-bullshit, too much makeup, stealing fries, looking straight at the wound and saying the thing nobody else is saying. “Then not saying it matters more to you than having her.” I mean. There it is. Put it on the wall. Pace can build a whole cathedral of acts, food, heat, attention, restraint, presence, and Sheri just walks in with ketchup on her plate and knocks out the load-bearing sentence. I loved her instantly.
+The Chili’s thing got me because I knew before she did that the restaurant was wrong for him, not her, but I also completely understood why she couldn’t hear it yet. She is so scared that all of this only exists inside his house, inside his bed, inside the ritual and privacy and food and trees, that she needs the dumb fluorescent proof of being chosen in public. And then the proof comes back muddy: he comes with her, he says yes, he tries, but the room takes him apart. His attention, the thing she lives on, visibly fails in public for reasons that are not about her, and of course she translates it into not wanting her. Because what else is the terrified part of her supposed to do?
 
-And Pace, Pace, Pace. I believe him when he says Vee is the most important person in his life. I believe him when he says the air crackles. I believe his body is already living in a devotion his mouth will not ratify. But that almost makes it worse, because this is not a man who doesn’t know what she means to him. This is a man refusing a specific form of speech as if the word itself is a loaded weapon. And maybe it is, for him. Fine. I am sympathetic. I am also on Vee’s side. Say it or lose her, sir.
+And I love that he explains it without making it her job to soothe him. “I’m listening now” really did land. It’s not the word, and the book knows it is not the word, but it’s such a Pace answer: concrete, exact, completely sincere, and still somehow one room to the left of what she needs. That is making me crazy in the best/worst way. He keeps giving her proof in the language he speaks, and she keeps needing a language he either won’t speak or doesn’t understand he’s being asked to speak.
 
-The diner did something lovely and painful too. He immediately thinks Vee might love it or never see it, and I felt that. This quieter, griddle-warm, Elvis-under-glass place is exactly the kind of public he might actually survive with her. Not Chili’s, not screens and noise and punishment by sensory overload. A booth where he can hear her whisper. There’s a future sitting right there between the mustard and the fogged window, and he can picture it, and he still can’t cross the one inch she needs.
+The sex after the fight was hot, yes, very, because the emotional stakes are all tangled up in it. Her wanting him to lose control, wanting evidence that she can undo him, and then getting it, and then realizing even that isn’t the name. God. That’s the thing. She can make him urgent. She can make him shake. She can be fed, touched, heard, held, given a drawer and a shirt and a place in his bed. But she cannot point to any of it in daylight and say, “This is mine.” That is brutal.
 
-Also, the Randi mention. Sheri calling her “the brunette” and saying Randi looked at her like harem competition made me hiss a little. Because yes. Of course Randi clocked Sheri. Of course she did. Randi’s possessiveness is everywhere, even when Vee isn’t there. And Pace saying “No. Not like that” about Vee finding out about Randi made my stomach do the bad little dip because sir, “not like that” is doing Olympic-level evasion.
+And the “forgiven” business made me wince, because that is exactly how she keeps surviving these little internal collapses: she finds a shape that lets her move toward him. She decides the problem was solved because he explained the restaurant. But the deeper problem is still under the rug, exactly. The chapter title is mean in a good way. She has not forgiven him because she has not named the real wound. She has just tucked it away so she can get back to the warmth.
 
-I’m still captured. Maybe more than before, because this chapter widens the emotional map without cooling anything down. There’s no sex here, but the charge is still all over it: Vee absent and yet erotically present in Pace’s mouth, Sheri making him blush about Vee’s legs, Pace trying and failing to explain that Vee understands the philosophy of his food. Embarrassing man. Gorgeous man. Infuriating man. I want to shake him until the word falls out.
+I’m also newly scared because the secret triangle is not even the active problem in this chapter, and that somehow makes it worse. There is already enough here to hurt her badly without Randi/Pace being revealed. The silence around love has its own pressure now. Add “they chose her together” to this, and I genuinely do not know how she doesn’t feel made into an experiment, even if every individual touch has been tender and consensual and real.
 
-GATE 48 — The Usual
+I am still in. Absolutely. But I’m not floating anymore. I’m tense. The book has moved from appetite into consequence, and I can feel Vee starting to notice the bill.
+
+GATE 48 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: Sheri walked in and said the unsayable with a stolen fry in her hand, and I am hers now. Pace’s refusal is still painful, but seeing him exposed to someone who actually pushes back made the whole thing hotter, sadder, and more alive.
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "If we're just sex, I'd like to know."
+WHY: This chapter caught me hard because the erotic charge and the emotional ache were the same engine. Pace’s care still works on me, but Vee needing a name for what they are is now louder than all the tenderness, and I need to see whether he can meet her anywhere outside the bedroom.

@@ -27,7 +27,7 @@ Rock now carries the **contained** half of the two-register first-love telling (
 - **Vee clocks it and holds it.** She does the arithmetic and registers the wrong — but as **protective ache for the boy he was**, not condemnation — and **says nothing, or almost nothing.** Body-only, private, unspoken. (A smart 21-year-old *will* clock 15/19; the guard is the grace not to say so, not that she fails to notice — `meta-note-first-love.md`, no-blame.)
 - **The name — Daphne, given then guarded (added).** She *is* named on the page here (`rock.md:207`), the one place her name touches Volume One outside the bench seed — a deliberate override of "the tutor / she." He answers *"And yours?"* with the bare name and stops; Vee, who gave a whole marching season, has to ask *"How did you know her?"* to get the rest. **The dig is the point** — it's the tell of the guard around her, and it deliberately *inverts* the Peter mechanic above: **Peter is received-not-extracted (freely given in the calm); Daphne must be asked for (guarded).** That contrast is a feature — Peter is the name he *chose* to put down, Daphne the person he *lost*. Do not "correct" the dig back to unforced; do not un-name her. His single-word answer is guardedness, never coldness (Vee reads *he wasn't keeping it back to be unkind*) — and to him the name is the whole answer, compressed (first-read bruise / reread core).
 - **What it's for.** It supplies the **felt why** for his armor that readers carry into {{Believe Me}}'s rupture — the wall reads as fear/pain, not cruelty (endorsed misattribution; `meta-arch-bible.md`, Stress tell) — and it arms the reader-ahead irony. It **motivates** the wall; it doesn't explain it.
-- **Two hard guards.** (1) **Keep the leak a hairline** — if the feeling *breaks* here, it steals {{Excavations}}. (2) **Keep the warm close intact** — the ache is private and unspoken, never a rift; the scene still closes warm on *Peter* + his hand over hers.
+- **Two hard guards.** (1) **Keep the leak a hairline** — if the feeling *breaks* here, it steals {{Excavations}}. (2) **Keep the warm close intact** — the ache is private and unspoken, never a rift; the scene still closes warm on *Peter* + his hand over hers, then the bed coda (beat 18).
 
 ## Accepted decisions / surface materials
 
@@ -66,6 +66,7 @@ Rock now carries the **contained** half of the two-register first-love telling (
 15. Vee realizes this is how he attends to her in conversation and sex.
 16. Scar deferral: "This?" / "Not tonight." Boundary held gently, hand not removed.
 17. Vee says **Peter** softly near the end, with no question in it. He lets it sit; his hand closes around hers. Warm close, no unresolved cloud.
+18. Coda in his bed (added 2026-09-28, Book A close): he falls asleep first; she is wrapped around him and counts the semester — Randi, whom she stumbled into (the collision, from her side), then Pace nine days later crossing a coffee shop for an integral — as one piece of luck. Closes on *She had never been so fortunate, or so happy.* (deliberate echo of {{Toenails}}' last line). She does not call Randi her best friend here; that title arrives from Randi at {{One Bite}} and lands as news.
 
 ## The name permitted here — the riser this builds
 

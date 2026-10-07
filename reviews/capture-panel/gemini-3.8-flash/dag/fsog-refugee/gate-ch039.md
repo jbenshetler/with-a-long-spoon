@@ -1,18 +1,24 @@
-*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 97724b44da95 · 2026-09-19*
+*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9782a926aac2 · 2026-10-01*
 
 REACTION
 
-Oh, Vee. My stomach dropped right through my shoes.
+Oh, god, my chest hurts.
 
-"Only if you promise you'll never share me with anyone." That was what she said to him in bed just one chapter ago! And now, here she is, handing the exact same photo over the brunch table to the *one* person who is actively running a game on her. The psychological trap is so seamless it makes me want to scream at the page. Randi didn't even have to pry with a crowbar; she just applied that tiny, lethal touch of peer pressure—*"Legs like yours, though—and you only gave him half?"*—and Vee folded instantly because she’s so desperate not to look prudish or small to this glamorous older girl. She thinks she’s claiming her own power, her own sexual awakening, but she’s just serving herself up on a silver platter.
+This chapter is tiny, barely a couple of pages, but it hit me right in the center. Cassie calling her a "public utility" because she's glowing like a streetlight—Cassie is such a good, grounding friend. She doesn't judge, she doesn't pry like Randi does with those sharp little velvet claws, she just leaves the door open and lets Vee spill. And what Vee spills is so heartbreakingly sweet: the baked tomatoes, the cold cloth pressed to her skin before she even finished swearing, him keeping the house warm so she doesn't have to think about being bare, the way he watches her eat like *she* is the entire show.
 
-And that kiss at the curb! The shift where Vee leaned *in* for more, chasing Randi's mouth instead of just letting it happen to her—God, the heat between them is getting so heavy and tangled. The way Randi looked at her after, just holding her gaze too long... Randi is feeling the reality of it now, too, exactly like the jacket warned us: *What none of them saw coming was how real it would get.* Randi was genuinely affected in that booth hearing about Vee and Pace. You could see the crack in the armor when Vee talked about how Pace wants *her*, with the body attached, and Randi actually had to catch her breath and clear her head. Is it jealousy? Is it hunger? Is it guilt? It's probably all three.
+That is what I read this genre for. That total, focused, unhurried care. A man whose entire world narrows down to tending to this one woman, making her feel safe, making her feel fed. It’s what Fifty Shades promised in between the helicopters, but here it’s just warm tomatoes and a top drawer cleared out for her hairpins.
 
-I loved hearing Vee articulate what Pace does for her, though. When she asked, "Am I turning into some kind of sex pervert?" and Randi told her she's just finally hungry out loud—that hit so deep. That is the exact struggle of growing up with shame around your appetite, thinking that wanting to be touched, wanting to be held and filled and consumed, makes you dirty. Pace’s care and his slowness have completely rewired her, and seeing her own that hunger is glorious, even while watching the trap close around her breaks my heart. She's cutting Cassie out of the schedule to take an Anthro elective with Randi; she's running her credit card up for eggs Benedict and expensive shoes; she's living completely in their orbit. She is floating so happily into the net. I need the next chapter immediately.
+And then Cassie drops the anchor: *"You don't come home school nights."* And then: *"Do you love him."*
 
-GATE 39 — All the Time
+The way Vee shrinks into "Maybe. I think so. It's all so fast." When we literally just watched her whisper *Peter* to his sleeping back in the dark the chapter before! She knows she loves him. But saying it out loud in the cold, fluorescent reality of a dorm room makes it real, and making it real makes it terrifying. Because it *is* fast. And the reader's dread is sitting right beside her, because we know what's underneath this foundation. We know about Randi. We know about the setup, the bench by the wall, the third game Vee doesn't even know is being played.
+
+Every time Pace is this tender, this domestic, this breathtakingly good to her, I fall more in love with him, and I get more terrified of the glass shattering. She is falling with both hands open, completely defenseless, trusting him down to her bones. I need them back in a room together immediately.
+
+GATE 39 — School Nights
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension is unbearable in the best way—watching Vee freely hand over the nude photo she promised Pace she'd never share, while her crush on Randi crosses from passive to active, has me completely hooked.
+WHY: It’s a brief breather chapter, but the emotional weight of Vee trying to explain what Pace is to someone on the outside—and realizing she's in over her head—is gorgeous and aching. The romance here is absolute, earned through all the domestic care she's carrying back to her dorm. I need to see where this momentum goes next.

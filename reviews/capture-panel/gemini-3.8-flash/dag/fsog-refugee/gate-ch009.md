@@ -1,18 +1,22 @@
-*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha f261fc6f0775 · 2026-09-26*
+*capture-dag-v2-rich · gate ch009 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3cfa40cceb07 · 2026-10-01*
 
-REACTION:
+REACTION
 
-*God.* Oh, this broke me open in the best and most terrifying way.
+Oh, God. This is ruining me.
 
-This is the exact feeling I’ve spent years hunting for in romance. That moment when she says, "I don't kiss a man I've known a couple of days," and he *doesn't push*. He doesn't do the charming lean-in, he doesn't pout, he doesn't make a joke to wear her down. He just takes it as a true, fine thing, respects it completely, and starts walking. And because he gives her the space, because he makes her "no" entirely safe, it leaves her the room to actually want him. To dig her heels in, pull him back, and choose it for herself. "He left the last inch where it was." That one sentence! That is the purest, hottest form of control and care I have ever read. It makes her desire entirely *hers*.
+The contrast between what he does with Randi and what he is doing here with Vee—it is so calculated, so incredibly deliberate, and yet inside Vee’s perspective it feels like pure grace. She has been starving her whole life. Literally starving—we saw it with the egg-white mother and the sorority scale, and now here she is with a hollow in her that’s been open for years, and he sits across from her and says, *"May I choose?"*
 
-And the feeding! The dinner was so achingly tender. The parallel between Randi and Vee is hitting like a freight train right now. With Randi, it was the thin-sliced apple, portioned and calculated and guarded, a woman living under a microscope. With Vee, she’s starving—literally and emotionally—and he just quietly orders a table full of warm, rich food and lets her eat without making her feel watched or ashamed. "May I choose?" Yes. A thousand times yes. The relief of being able to surrender the small, exhausting decisions to someone who will take care of you without taking advantage of you.
+That line. The absolute drop in my stomach when he asked that. Because in any other romance novel, a man ordering for a woman is this clunky, aggressive alpha-jerk move that makes me want to throw the book across the room. But Pace *asks permission to relieve her of the burden of deciding*. He sees that she’s overwhelmed, he asks, she gives it to him, and then he feeds her. He watches her hands, he watches her mouth, he feeds that massive, uncurated appetite she’s spent her life hiding under oversized cardigans and synchronized-swimming discipline.
 
-What is killing me, what is keeping me on absolute edge, is the shadow of what we know. We know the bench. We know Randi is at home, burning with some messed-up proxy-desire, sending him out to bring this girl into their orbit. Vee is falling into this with her whole, trusting, hungry heart because he is genuinely giving her what she needs—but the foundation of it is a trap. It’s breathtakingly gentle on the surface, and underneath, it’s a spiderweb. I am completely hooked.
+And then the ending on the walk back. The rule: *"I don't kiss a man I've known a couple of days."* And what does he do? He doesn't pout, he doesn't wheedle, he doesn't use his size or his charm to push past it. He just accepts it. Completely. He turns to keep walking. And because he gives her the absolute safety of a boundary respected, she’s the one who pulls the leash taut. She’s the one who breaks her own rule. That is *real* dominance. It’s dominance through complete, unshakeable restraint. When he leaves that last inch between their mouths and forces her to cross it herself? Holy shit.
+
+My heart hurts for her, though, because I have Chapter 1 and Chapter 3 burned into my brain. I know what he built in his bedroom. I know Randi asked, *"Do you think she'll like the bench?"* I know this entire evening, down to the way he shaved and the way he walked her down that specific street, is part of a trap. But it doesn't feel like a trap of cruelty—it feels like a trap of total indulgence. He is giving her the exact medicine she needs, and the fact that it's an orchestration makes the intimacy almost unbearable to read. I cannot stop.
 
 GATE 9 — May I Choose
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The consent and pacing here are absolute perfection; he gives her total agency to step forward or walk away, which makes her stepping forward devastatingly sexy. The tension between his genuine gentleness and the secret scheme hanging over them makes this impossible to put down.
+WHY: The tension of his absolute restraint paired with her desperate, blooming hunger is suffocatingly good. Watching him give her space so she can willingly step forward into his hands is the exact kind of control I read this genre for.

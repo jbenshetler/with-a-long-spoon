@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b727880313ed · 2026-09-27*
+*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0a2a45bceefc · 2026-10-01*
 
-REACTION
+**REACTION**
 
-God. *God.*
+Oh, this chapter made my stomach hurt in the absolute best, most horrifying way.
 
-That lecture hall scene made the hairs on my arms stand straight up. Putting Vee literally between the two of them—Cassie on her left, Randi on her right—while the professor lectures on *Simpson’s paradox*? "Put the two years together and the second man is. Same numbers. Nobody touched one of them." What a terrifying, brilliant metaphor for what’s happening to her. Each piece of her life looks totally fine and wonderful on its own: her sweet, clean friendship with Cassie; her intoxicating, courtly romance with Pace; her glamorous, validating older sister/mentor in Randi. But when you put the data sets together, the truth of the whole picture completely reverses. She thinks she’s steering, but she’s the only one in the dark.
+The stats lecture in the beginning was almost physically painful to read. Simpson’s paradox—*look at each year on its own, then put them together and the entire truth reverses without changing a single number.* What an unbelievable, terrifying piece of foreshadowing. And sitting Vee right between Cassie and Randi to hear it! Cassie, who doesn’t give a single damn about a silk dress or high heels, who only looks at Vee’s face to see if her soul is safe and happy. And on the other side, Randi—completely closed off, tracking Vee like a hawk, waiting to sink her claws into the next opening.
 
-And the contrast between those two women sitting on either side of her made my throat tight. Cassie doesn't give a damn about the silk or the heels. She doesn't need the gossip or the show. She just watched Vee's face for forty solid seconds, completely ignoring the board, because all Cassie has ever cared about is whether Vee is safe and loved. *"Was it a good night?"* Just checking on her friend's soul.
+And God, the shopping trip. I watched Vee take out that emergency credit card and I wanted to scream through the page, *Vee, no, don't do it!* It is so masterfully, ruthlessly observed. The way Randi doesn't just push her into buying shoes she can't afford—she maneuvers Vee into feeling like buying sensible shoes would be an *insult* to what Pace made her. It’s so insidious because Randi is using Vee’s own love and awe for Pace as the weapon to make her reckless. And then Randi casually dropping three or four times that amount on loafers she wears out of the store while Vee is literally clutching her box against her ribs like a child with a stolen loaf of bread. The class divide, the subtle grooming, the absolute blindness of Vee thinking, *I've never had a friend like this.* My heart is in my throat for her.
 
-And then on the other side, Randi immediately swoops in with *"You lucky slut"*—which, wow, felt so sharp and heavy after the stew incident with Pace in Chapter 23! Randi is completely starving, eating Vee up with her eyes, finding the one thing Vee feels inadequate about (the shoes) and sinking her claws right into it: *"That's not a problem, that's a date."* Randi claiming Saturday. Randi making sure she has her hands on the presentation of this girl just as much as Pace does.
+And that moment in the boutique where Randi kneels on the pale floor. Randi taking Vee’s bare foot, turning it to the light, stroking her thumb over the frosted-plum polish she *knows* Vee painted for Pace... the erotic tension between them is becoming suffocating. It wasn’t a shoe fitting; it was Randi laying hands on the exact parts of Vee that Pace touched, staking a claim, tipping Vee off-balance. Randi is playing such a dangerous, hungry game. She’s jealous of Pace, she’s obsessed with Vee, and she is steering Vee right toward a cliff edge while holding her hand and making her laugh. I am desperate to see the night of this induction.
 
-Vee is walking out into the noon sun flanked by pure unconditional love on one side and a gorgeous, calculating predator on the other, vibrating from the night Pace gave her, completely oblivious. She feels so held, so lucky, and the ground beneath her is made of tissue paper over a pit. I am so tense for Saturday.
+***
 
-GATE 25 — All Told
-DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: The tension of having Cassie and Randi flanking her in that lecture hall, right after Pace spent the night worshiping her, was incredible. The Simpson's paradox lecture was an absolute masterclass in quiet dread. I need to see this Saturday shoe trip with Randi immediately.
+**GATE 25 — Sorority**
+**DECISION:** CONTINUE
+**CAPTURE:** 9
+**NEXT:** 10
+**HEAT:** 1
+**ROMANCE:** 2
+**ALMOST-STOPPED:** none
+**WHY:** The psychological tension is wound so tight it's humming. Watching Randi maneuver Vee into financial ruin and total emotional vulnerability while pretending to be her fairy godmother is utterly gripping, and the dread of the upcoming event is unbearable.

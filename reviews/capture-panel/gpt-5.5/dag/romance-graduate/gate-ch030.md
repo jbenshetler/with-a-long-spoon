@@ -1,29 +1,28 @@
-*capture-dag-v2-rich · gate ch030 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~5274d9c5fd04 · 2026-09-11*
+*capture-dag-v2-rich · gate ch030 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f4bbb5872a6b · 2026-09-29*
 
 REACTION —
 
-Oh. Oh no, this one got its fingers right under the hinge.
+Oh. Oh, this is nasty in exactly the way I meant when I said I wanted Randi and Pace in the same emotional frame. Not nasty as in cheap. Nasty as in: this book knows where the live wire is and then puts a hand around it.
 
-I knew Randi was dangerous, but this chapter made me feel the actual mechanism of her. Not cartoon villain dangerous. Worse. Intimate dangerous. She doesn’t shove Vee through doors; she stands beside the door and makes the room on the other side sound like home. And Vee is so, so susceptible to being named correctly. That is the whole tender awful thing. Pace gives her a body she can live in. Randi gives her language for the body after it happens. Between them, Vee is becoming more herself and less protected at the same time.
+I am so tense about how much I liked this.
 
-The classroom outlier thing hit me harder than I wanted it to. “The second kind comes in through the part that carries forward.” Yes, thank you, professor ominous cereal-box voice, I am now staring directly at the structure of the book. The slap was not a single point. It carries forward. The shopping carries forward. The shoes carry forward. Randi’s knee against hers carries forward. Every little “harmless” thing is in the model now.
+Because on the surface, yes, it is hot. Randi showing up on a Friday, sweeping wood shavings off him, drinking his wine, taking him to bed, stopping him before she comes so she can climb on top and tell him about Vee standing in her room in a bra? That is obscene, and very much my business. The “I heard it” nearly took the top of my head off. This is exactly the kind of triangulated heat most books fumble by either making it cartoon-villain manipulative or coyly tasteful. Here it is charged because all three people are real in it, even when only two are in the room.
 
-And the practice room. God. Of course they go to a tiny soundproof room with a piano and bad carpet where girls used to hook up freshman year. Of course Vee blushes at even saying that. Of course Randi sits down like a therapist, priest, stylist, older sister, and predator of opportunity all at once. I do not mean predator in a simple way, because I believe her fondness. That is what makes me keep reading with one hand over my mouth. She cares about Vee. She also knows exactly where to press.
+But I am also sitting here with my whole face in my hands because Randi told Pace. She took Vee’s vulnerable morning, the crying, the dressing, the shoes, the bare legs under the skirt, the little sound behind the knee, and she turned it into sex with him. And Pace wants it. Of course he does. He doesn’t pretend otherwise. And the book doesn’t let me hide behind “well, they all want each other” because Vee does not know she is being shared like this. She went to Randi because Randi felt like the safest possible woman. And Randi really was safe, in the way Vee needed that morning. That’s the killer. She helped her. She steadied her. She made her laugh. She gave her courage. Then she carried the erotic residue of that straight into Pace’s bed.
 
-The moment that really undid me was Randi noticing the missing part of the story. Vee tries to skip over it: “he sort of swatted me back.” And Randi hears the locked drawer. She doesn’t force it open with violence. She just says: his hand was wet. She takes the mundane fact Vee accidentally gave her and makes it tactile. Warm from the dishwater. Suddenly Vee is back in her body, and honestly so was I.
+I believe Randi loves her. I believe Randi wants her. I believe Randi is jealous and generous and predatory and undone, and I hate that those are not contradictions. She is not a flat schemer; she is worse than that. She is emotionally accurate. She knows precisely what Vee needs, gives it beautifully, and then takes a secret payment Vee never agreed to.
 
-I’m embarrassed by how hot I found it, which means the book is doing the thing. Not because spanking as a category is novel to me. Please. I have read the Kindle swamp. But this is not trope-button spanking. This is Vee discovering a humiliating private circuit in herself in real time and trying not to know what it is called. And Randi telling her a story that is both confession and demonstration. “Skirt up. Panties down.” I felt Vee’s whole nervous system blink awake.
+Pace here is quieter but not innocent. His “that was Vee’s” boundary about the bar fight mattered to me; he doesn’t tell Randi the exact wound. But then he receives Randi’s account of Vee’s body and shame and little involuntary sounds, and he is lit by it. He is still the man who leaves room, who won’t text, who waits for Vee to choose. But the architecture is still there. The room is being built around Vee while she thinks she is walking alone through open doors. I’m not out, but I am absolutely gripping the railing.
 
-Also: Vee almost touches herself in the bathroom and stops herself because “to do that would be to say yes to it.” That is exactly the kind of interiority I came for. Not coy, not clinical. She is wet because a woman told her a story in a chair, and she can’t decide yet what that means, so she refuses to certify the evidence. Delicious. Terrible. Alive.
+And God, the title. “Space.” He gives Vee space. Randi tells him to give her a day. He won’t text because that’s “what he is.” But meanwhile there is no space around Vee in the larger sense. Her absence is full of them. Her body is in the room even when she isn’t. That’s delicious and alarming.
 
-I am now fully worried about Cassie. The opening image of Vee asking Randi, only Randi, to walk her out while Cassie is right there gathering her granola bar and wrong textbook? That hurt in a tiny ordinary way. Vee is choosing the person who feeds the new appetite over the person who knows the old self. I get it. I hate it. I believe it completely.
+I want the next chapter badly because I need Vee at that door in the black dress, Randi’s shoes, Randi’s scarf, thinking she has gathered herself privately, while Pace knows more than he should about the gathering. That is such a loaded setup I can feel the whole floor humming.
 
-And Randi’s kiss at the end being “so worn-in now that Vee barely clocked it” is insane. That is the quietest alarm bell in the chapter. A woman can make you soak through your underwear with a story, kiss you on the mouth in a stairwell, and you file it under “normal friend goodbye” because the normal has been moved one inch at a time.
-
-I’m not stopping. Are you kidding. I’m in trouble now.
-
-GATE 30 — The Practice Room
+GATE 30 — Space
 DECISION: CONTINUE
-CAPTURE: 10
-ALMOST-STOPPED: none
-WHY: This chapter took Vee’s private new shame and handed it to Randi like a live wire. It was hot, psychologically sharp, and scary because Randi understands Vee’s desire maybe half a step before Vee does. I need the next page immediately.
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "I had her standing in my room this morning,"
+WHY: Hot as hell, but that line also made my stomach drop because Vee’s trust has become erotic currency between them. I’m continuing because the book has earned this danger, and because Vee walking in tomorrow while Pace knows what Randi did to prepare her is unbearable in the best and worst way.

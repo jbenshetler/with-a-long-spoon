@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch040 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha a03ea01d3f8f · 2026-09-19*
+*capture-dag-v2-rich · gate ch040 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0f8a1c3bd12a · 2026-10-01*
 
-REACTION
+**REACTION**
 
-Oh, wow. Talk about the air getting sucked completely out of a room.
+Oh, this hit somewhere so specific and honest. After the absolute emotional whip-wielding of the last few chapters—the intense shame and arousal tangled up with Randi at brunch, the domestic high of moving into Pace’s drawers, and Cassie calling her out in the dorm—we finally just get Vee inside her own skin, doing something purely physical that has nothing to do with performing for anyone else.
 
-I didn’t expect a statistics project about PPP loans to hit like a sledgehammer, but seeing Randi—untouchable, cashmere-draped, driving the green Mercedes, always in complete control of every conversation and every person—just *freeze* like that gave me absolute chills. All that gloss, all that easy wealth and effortless confidence, and it turns out her daddy is a corporate grifter who took the government money meant to keep people fed and fired everybody anyway. And the fact that the company is named *Miranda*? It’s named after *her*. That has to feel like being branded. When she choked out *“Cheating bastards,”* it was the first time in this entire book she didn’t sound scripted. She sounded devastated, furious, and cornered.
+I loved this quiet breath. In romance, especially when things are moving at lightspeed and the intensity is cranked up to eleven, you almost never get to see a heroine just *in her body* without a lover there to evaluate it. Swimming laps is the perfect vehicle for that. The rhythm of it, the breathing count, the sheer unglamorous mechanics of an old suit and chlorine—it clears out the noise. And the thought that surfaces when she finally tires herself out? That four-stroke panic of wondering whether Pace is actually that good, or if she just built him out of her own desperate wanting because she’s never been looked at like that in her life? God, that felt so piercingly real. That’s the Fifty Shades hangover right there: when a man seems too carefully constructed, too attentive, too much like a fantasy designed to take over your life, there's that terrifying flash where you wonder if you’re inventing him—or if you’re being managed.
 
-And Vee’s immediate, instinctive reaction broke my heart in two different ways. Her first impulse isn't judgment or curiosity—it's pure protective warmth. She instantly steps in front of the blow, shields Randi so Cassie won't notice, and gives her a lifeline with the project busywork so Randi doesn't have to crumble. Vee is just so inherently *good*. That’s the tragedy of her, isn’t it? She loves so generously, with both hands wide open. She has no idea what game Randi and Pace are playing with her life, but when Randi gets hurt, Vee protects her without a second thought.
+Of course, as the reader, having the jacket and the Sheri chapter in my back pocket, I’m sitting here screaming because she *is* being managed, even if the tenderness between them is genuinely taking over. But watching her feel the weight of *loving* him—and catching the dread attached to that word—gives her so much agency. She isn't just an empty vessel being swept along; she's processing, she's cautious underneath the intoxication, and she uses the physical discipline of swimming to hold herself together. It’s quiet, it’s grounded, and it makes me root for her even harder.
 
-It makes the whole web feel so much heavier. Randi isn't just some cartoon villain pulling strings; she’s a girl whose shining pedestal just cracked right beneath her feet, and Vee was the only one who saw it and chose to be kind.
+***
 
-Pace wasn't in this chapter, and normally two chapters away from him would make me restless to get them back alone in a room together, but the character work here was so tight I didn't even mind. Though God, I do want to see how this shifts things between Vee and Randi now.
-
-GATE 40 — The Outlier
-DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-ALMOST-STOPPED: none
-WHY: The sudden crack in Randi's glossy armor was riveting, and Vee's immediate instinct to protect her friend shows just how deeply good and caring she is. Even without Pace in the room, the psychological stakes between these women just jumped through the roof.
+**GATE 40 — Strokes**
+**DECISION:** CONTINUE
+**CAPTURE:** 7
+**NEXT:** 8
+**HEAT:** 0
+**ROMANCE:** 1
+**ALMOST-STOPPED:** none
+**WHY:** A necessary, beautifully grounded palate cleanser that lets Vee exist as a person outside of Pace's bed and Randi's games. That brief, quiet moment where she questions whether he's real or built from her own starved wanting was razor-sharp and keeps me completely hooked on where this emotional knot goes next.

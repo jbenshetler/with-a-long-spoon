@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch068 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b11de8d9a5ce · 2026-09-19*
+*capture-dag-v2-rich · gate ch068 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0b898fc22a01 · 2026-09-19*
 
-REACTION:
+REACTION
 
-Holy *shit*.
+Oh, this was *filthy* in the absolute smartest way possible.
 
-I have chills. The absolute psychological tightrope this chapter just walked had me holding my breath so hard my ribs ached. When Vee drove out to Pace's house at one in the morning, practically vibrationally possessed, using sex as a blunt instrument to literally grind Randi out of her head... and then Pace catching it instantly. *"That wasn't you wound up... That was angry, Vee. Did something happen at the mixer?"* The sheer, lethal emotional intelligence of this man.
+I’ve read a hundred romance novels where a heroine gets waxed, and it’s always played as either a slapstick comedy bit (screaming, cursing, eating gummy bears) or completely glossed over in a single sentence ("she made sure she was freshly smooth for him"). Nobody writes the actual, humiliating, clinical *visceralness* of it. But more than that—nobody writes the psychological twistedness of what happens when you take a girl who has tied her entire erotic awakening to submission, control, and being pinned, and you put her in a cold aesthetician’s room where an uninterested woman uses that exact same physical grammar on her.
 
-And then—GOD. The interrogation. The tollbooth! The way he realized what she was holding back and made her *buy her pleasure back inch by inch with the truth.* That is the hottest, most psychologically deviant, utterly brilliant dynamic I have read in months. He didn't yell. He didn't pout. He just held her an inch off his cock, letting her burn in the shame and the wetness of what she did, forcing her to voice every single detail: the skirt, the hips, Randi’s hands pinning her wrists, the tongue, the taste of salt and lime. And knowing what WE know—that Pace and Randi are fucking, that they talked about Vee's neck kisses, that Randi literally told him *“I want her to know exactly what she does to me”* while riding him—watching Pace draw out Vee's confession felt like watching someone slowly assemble a bomb in a brightly lit room.
+That moment where Sondra puts the flat of her palm down on Vee's thigh to keep her from squirming and says *"Don't move"*? Jesus Christ. My stomach completely dropped. Because Vee’s body recognizes the shape of that command—she's learned to melt and bloom under that command from Pace—and to feel that exact gesture stripped of worship, stripped of desire, just a mechanical instruction from a stranger with a clock running... that is an insane piece of character psychology. It exposes just how completely Pace has colonized her nervous system. She isn't just horny for him; her body has reorganized its entire response system around his rules, to the point where an esthetician pinning her down makes her want *him* so hard it makes her nauseous.
 
-And Vee! Oh, baby girl. The tragic, dizzying blindness of her. When she turned it on him: *"You want Randi."* My jaw hit the floor. The irony! The dramatic irony is so thick you could choke on it! And when Pace flinched—*"You keep saying her name, Vee. Not me"*—she took his defense as *sweetness*. She thought she won, thought she laid down the burden and got away clean with a boyfriend who loves and forgives her.
+And Randi. God, Randi leaving out the part where you have to roll over onto your front. That is so classically, exquisitely Randi. Randi operates on this polished, untouchable, high-society plane where of course your entire ass is smooth, of course you get everything stripped, *darling, it barely stings*—setting Vee up to step onto yet another trapdoor of exposure. Vee laying face-down in the crinkling sanitary paper, staring into nothing while a stranger waxes between her cheeks, stripped of every ounce of modesty her small-town Ohio brain spent twenty-one years constructing... it’s so humiliating and so profoundly erotic because she *knows* she gave up the right to say no three nights ago in his kitchen.
 
-And then the ending. The absolute emotional devastation of lying tucked in your lover's bed, safe, sated, protected by a man who gives you everything, and staring into the dark realizing your brain is already sprinting toward Tuesday night, toward an anthropology lecture, toward Randi's mouth. *"What is wrong with me."* It’s so painful, so voracious, so human. I need Tuesday night immediately. Do not make me wait.
+And then that final beat. The sting fading, the quiet room, sitting on the edge of the table and touching the raw, alien smoothness herself. She isn't mad at him for asking. She isn't even mad at Randi for setting her up. She is just entirely, terrifyingly possessed by the anticipation of his hands finding it.
 
-GATE 68 — Boyfriend
+I need him to see it. Immediately. Take me to the weekend.
+
+GATE 65 — Barely Stings
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The interrogation on the bed—making her pay for every inch of him with confessions about Randi while he holds the secret of his own involvement—was an absolute masterclass in erotic and psychological tension. The dramatic irony is suffocating in the best way possible.
+WHY: The psychological insight of her body confusing the aesthetician's clinical touch with Pace's sexual dominance was absolute genius, intensely erotic, and made my skin prickle. Now that she's bare and walking around like a loaded gun, I have to see his reaction when he gets his hands on her.

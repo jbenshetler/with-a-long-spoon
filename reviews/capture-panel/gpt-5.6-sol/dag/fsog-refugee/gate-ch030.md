@@ -1,19 +1,22 @@
-*capture-dag-v2-rich · gate ch030 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~5274d9c5fd04 · 2026-09-11*
+*capture-dag-v2-rich · gate ch030 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f4bbb5872a6b · 2026-09-29*
 
-REACTION — Oh, Randi knows exactly what she is doing, and I am furious because it is working on me almost as efficiently as it works on Vee.
+Oh, this made me feel complicit in exactly the way I’ve been dreading.
 
-“So. Did you deserve it?” was the moment my whole body put the brakes on. No. Being bratty does not create consent, and jealousy does not entitle a man to pull down a woman’s underwear and punish her. Randi took the startling, accidental thing Vee’s body liked and immediately supplied it with the ugliest possible moral frame: you were bad, therefore you deserved what he did. Then she wrapped that frame in a story engineered precisely to make Vee ache. I don’t believe that story for a second—or if some version happened, I don’t trust the version Randi is telling. She is teaching again. She saw the opening and put an entire fantasy through it.
+It was hot. Randi astride Pace, telling him about Vee in the bra, about walking around her, about touching her under the skirt—yes, that got me. The fact that Randi’s desire is finally spilling out of her instead of being disguised as sophisticated friendship got me badly. She wanted Vee’s little sound. She kept it. Then she brought it home and put it between herself and Pace while he was inside her. That is absolutely the intensity I came for, and it is also such a violation that I couldn’t relax into it.
 
-And God, the intimacy of the setting made it worse and hotter: the soundproof little room, Vee choosing Randi and pulling her away, Randi’s total attention becoming almost physical, Vee realizing she isn’t merely reporting her arousal but reenacting it under Randi’s gaze. That is exactly the kind of heat I want—desire happening inside her, embarrassing and specific and undeniable. “Made by nothing but a woman talking in a chair” is the truth Vee still cannot let herself possess. She is wildly attracted to Randi now. Not admiration, not glamour, not a French custom. Randi’s voice made her soak through her underwear, and Vee knows it well enough to flee and check.
+Vee thought she was safe in Randi’s bedroom. She thought she was being comforted and dressed by a friend. She did not consent to having those vulnerable details turned into erotic material for Pace. Worse, Randi deliberately instructed her to wait a day before apologizing, then came here and reassured Pace that Vee would return—as though Vee’s movements belong to Randi because she arranged them. “Give her a day” chilled me both times. That isn’t confidence in Vee. It’s confidence in the mechanism.
 
-But “To do that would be to say yes to it, and she would not say yes to it” hurt. Her body wants; her mind is not ready to choose. That distinction matters enormously to me, and Randi is the last person I trust to honor it. She let Vee escape without following or demanding an admission, which is something—but she also designed the need to escape, then greeted her with such easy warmth that Vee couldn’t tell whether any of it had been deliberate. I can tell. Of course it was deliberate.
+And Pace disappointed me here. He has this beautiful instinct that some things Vee tells him are hers, yet he accepts Randi’s report of her crying, her underwear, her body, her involuntary sound. He stops when Randi says she had her hands on Vee’s legs, but only because it arouses him—not because he recognizes he has just been handed something Vee never offered. Immediate consent remains sacred to him while informational consent apparently doesn’t even register. That contradiction is no longer background dread. It is the center of the bed.
 
-The goodbye kiss being so habitual Vee “barely clocked it” is not reassuring. It feels like Randi has normalized access to Vee’s mouth without ever risking the clean vulnerability of asking. And Vee’s arms lingering afterward would have been tender if the ground beneath it were honest. Instead it made me ache for her. She wants Randi. I think she may already want Randi nearly as badly as Randi wants her. But she is being led toward naming that desire by someone who knows the destination and keeps pretending they are merely wandering.
+Still, Randi staying down afterward, sleeping against his heart, affected me. She is becoming softer and more at home with him at precisely the moment her conduct toward Vee becomes hardest to forgive. That is what hurts: none of this feels fake. Their tenderness is real. Their desire for Vee is real. Their care may even be real. But they are using Vee’s trust as shared intimacy before she knows there is a “they.”
 
-I am absolutely continuing, because this is the psychological trap the jacket promised, and the book is not asking me to mistake Randi’s manipulation for innocence. But I need Pace’s next move to be exquisitely clear. A single playful swat unexpectedly revealed something; that does not authorize a second one, much less a whole punishment scene. If he wants to explore it, he has to ask. And Vee needs the chance to want submission without first being taught that she deserves pain for misbehaving.
+I’m continuing because Vee is about to walk through that door believing the clothes, the timing, and the reconciliation are hers alone, while both people waiting behind it have already discussed and eroticized the entire morning. I need the book to understand how grave that is. If it treats the eventual threesome as proof that the deception was harmless, I’m gone.
 
-GATE 30 — The Practice Room
+GATE 30 — Space
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: “So. Did you deserve it?”
-WHY: That question tied desire to deserved punishment in exactly the way I distrust, and Randi’s jealousy-spanking story made it worse. But Vee’s unchosen bodily response, her refusal to convert arousal into consent, and her increasingly undeniable desire for Randi have me completely caught.
+NEXT: 10
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: “She’ll come. Randi said it easily, as a thing already known. ‘Give her a day.’”
+WHY: This was intensely hot and deeply violating at the same time. I’m racing onward because the trap is now fully visible, but the reckoning must honor that Vee never consented to being made into their shared secret and sexual material.

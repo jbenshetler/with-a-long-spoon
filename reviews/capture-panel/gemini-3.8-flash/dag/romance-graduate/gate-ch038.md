@@ -1,23 +1,24 @@
-*capture-dag-v2-rich · gate ch038 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 38dcf8e44cd8 · 2026-09-19*
+*capture-dag-v2-rich · gate ch038 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · 2026-10-01*
 
 REACTION
 
-Oh, Vee. Oh, honey, no.
+Oh, my God. My chest actually hurts.
 
-"Never. I'd never share your photograph."
-The absolute pit that just dropped into my stomach reading that line. It made me physically cold. Because you *know*—you know the premise, you know the jacket, you know Randi is sitting on the other end of this entire web. He didn’t say "I'd never show it to Randi," he said "I'd never share your photograph," and the technicality, the razor-thin lawyerly precision of these people is going to tear my heart out. And Vee, sweet, trusting, completely drunk on feeling cherished, literally goes to the mirror to put on poppy-red lipstick and pose like a pinup so he can keep her in his pocket. She *handed* it to him. "Every yes was freely given." God, that tagline haunts every single page of this book.
+"He'd folded his whole ordered self down into a single drawer. He'd given her the top one. The easy one. The one your hand goes to first."
 
-And the way he arranged her! "He smiled at her as if she'd offered something else entirely. 'No, not like that. You'll have to wait.' Then he did it himself." He literally sculpts her into the image he wants, kissing every spot he adjusts—the knee, the hip, the shoulder—making the choreography feel like worship instead of direction. It’s breathtakingly erotic, and at the exact same second, it is terrifyingly clinical. He tilts the lampshade to cut the glare. He checks the frame. He is a mathematician composing a proof, and she is just floating in the warmth of being chosen.
+That is so devastatingly, heartbreakingly tender. In any normal romance, this would be the peak, the grand gesture, the moment you close the Kindle, hug it to your chest, and sigh because the brooding, hyper-controlled man just quietly gave up his territory to make a home for the girl he loves. And Pace *does* adore her. That’s what makes this so excruciating. It isn’t fake! The way he lifts her at the door, the way he cooks the salmon and the warm tomatoes off the sill, the way he gives her all of her pleasure before taking an ounce for himself, the way he cleared the top drawer... he genuinely treasures her. She whispers "Peter" into his sleeping ear and lets herself know she loves him.
 
-The whiplash from that intimacy straight into the kitchen is what keeps me so helplessly glued to this. The chicken piccata, the sensory heaven of the lemon and the wine hissed into the pan, feeding her off the wooden spoon... and then she taps the glass on his past. "I don't go back." The door just *slams* shut, polite and immovable. We know from our peek into his head that he was out in the hall at twelve, in college at fifteen, groomed by a nineteen-year-old Daphne, and completely severed from whatever childhood he was supposed to have. She feels the cold edge of the wall, realizes she touched a live wire, and respectfully backs off.
+And she has *no idea* that Randi's cashmere blanket is at the foot of that bed, that Randi's bowl is in his kitchen, that Randi has a key, that Randi was riding him right there while describing how wet Vee gets.
 
-And then Sheri. "She's alone." Vee’s tiny flash of jealousy that instantly gets dismantled by her own generous nature. It’s so real. She wants to be the only one at his table, but she loves that he's the kind of man who takes care of people.
+The dramatic irony in this book is becoming an actual physical ache to read. Every single domestic grace note—the scrunchies, the drawer, the quiet domesticity of his house—feels like a silk thread wrapping around her wrists. She thinks she's taking up space, building a sanctuary away from the cold dorm and her judgmental mother, and all I can think about is the stats lecture. Simpson's paradox. When you look at Vee and Pace, it’s pure romance, pure healing, an intensely observant craftsman cherishing a starved girl. When you look at Vee and Randi, it’s intoxicating mentorship and queer awakening. But when you combine the data sets... oh God.
 
-The domesticity here feels so fragile, like glass spun so thin you can’t even breathe on it without it shattering. I am practically vibrating waiting for the floor to drop out from under her, and yet every time they have a quiet evening together, I catch myself almost wishing the trap wasn't real. That's the sickness of this book: it makes you want the fantasy just as badly as Vee does, right before it reminds you of the teeth.
+The detail about her clothes getting looser because her body is quietly burning down whole weekends of him? The fact that she was terrified she was being "too much" of a guest, only to find he made a permanent home for her? This is grown-up, emotionally devastating writing. It makes me want to scream at her to run, and at the exact same time, I never want her to leave that house.
 
-GATE 38 — In His Hands
+GATE 38 — Above Him
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The sheer psychological dread wrapped in utter luxury and tenderness is agonizing in the best way. Her giving him that photo makes my chest ache because I know the architectural trap she's stepping into, and I can't look away.
+WHY: The quiet domestic intimacy of him clearing out his top drawer to hold her things—while knowing what Randi shares in that exact same house—is absolute psychological perfection. I am completely hooked and terrified for her.

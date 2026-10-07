@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch062 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0262c804492d · 2026-09-19*
+*capture-dag-v2-rich · gate ch062 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 8348ecb548e4 · 2026-09-19*
 
-REACTION:
+REACTION —
 
-Oh, god. My chest. I’m sitting here with a lump the size of a fist in my throat and I don't even know what to do with myself.
+My jaw is on the floor. I need to scream into a pillow, take a cold shower, and then call someone at two in the morning to dissect every single syllable of this chapter.
 
-Coming off Chapter 61—which nearly gave me a coronary, watching Pace and Randi together like that, knowing what they’re doing behind Vee's back—this chapter was like being handed a glass of ice water in the middle of a fever dream. I was bracing myself so hard when Pace dropped the name "Sheri." I thought, *Oh no, here it is, the other shoe is dropping, Vee's absolute worst nightmare is walking through the door, the golden-legged tan ghost from Christmas.* And Vee dressing for war! Meg’s keyhole top, the ridiculously short borrowed skirt, those induction heels in the dead-ass freezing cold of a Virginia January. I knew *exactly* what she was doing. Every woman who has ever felt insecure, outmatched, or terrified of being replaced has put on that armor.
+First of all: the anthropology class. Dr. Marsh talking about the grooming budget, about taking fleas off someone not because of the fleas, but because our species literally sickens and dies without an hour of hands in the fur every single day? *“Somebody in this room, by spring break, is going to tell me what you spend it on now.”* I felt that like a physical blow. Because the answer was sitting right in that booth three blocks away. That entire dinner *was* the grooming. It was two women sitting across a table, one handing over the raw, unwashed, intimate truth of her body, and the other picking through every single detail, grooming her, shaping her appetite, holding her open.
 
-And then Sheri turns out to be five-foot-nothing, permed, bad makeup, loud as a fire engine, wearing longnecks like an extension of her arm, and—the absolute kicker—*she's a butch lesbian who checks Vee out with pure, joyful appreciation!* The laugh that ripped out of Vee on that soft wood floor? I laughed out loud with her. It was such an incredible, brilliant pop of the tension balloon.
+And God, the absolute tension between Vee and Randi is getting unbearable. It is suffocating. It’s so thick you couldn’t cut it with a cleaver. Vee is so completely, innocently oblivious, riding high on her love for Pace, thinking she’s just having a saucy debrief with her glamorous worldly bestie—and Randi is practically vibrating out of her skin, drinking Vee in like water in a desert. When Vee tells the story of the truck, of Pace coming, and Randi asks, hoarse and low: *"Did you take it all? Didn't spill a drop?"* I stopped breathing. Randi isn’t just listening; she is *there*. She is tasting it through Vee. She’s living in Vee’s skin.
 
-And then Pace blushing. Pace! The man who can command a bedroom, who can hold Vee's gaze while he thrusts, who is so deeply contained—getting teased about "motorboating" and his ears going bright red, looking down at his hands. I wanted to crawl through the page and hug him.
+And then the moment with the kiss after oral sex. I knew—I *knew* when I read Chapter 53 that Vee was carrying that home to Randi to get permission, to figure out if she was supposed to be disgusted or turned on. And the way she laid it out as a joke, performing the prudish little Victorian outrage for laughs, expecting Randi to back her up so she could safely put her shame back in its box—and Randi just looked at her, deadpan, and said, *"I don't. It was powerful. It turned me on."*
 
-But then Sheri sends him to the bar. And the story she tells... Rivers, you are trying to kill me. The absolute, unvarnished grace of how Pace became her friend. Not some grand hero complex, not trying to get into her pants, not giving her cheap, Hallmark-card platitudes when her entire Marine family and her church threw her away for coming out. Just... showing up with coffee and donuts. Fixing the leaking faucet. Fixing the broken lock. Asking her to ride bikes and buying her a bacon cheeseburger. Just *being there* because he knows what it is to be thrown away by a father and never go back home.
+The absolute mastery of that. In four words, Randi completely dismantled Vee’s childhood programming. She didn't argue. She just took away the shame and left Vee standing there holding the naked truth: that her body had *loved* it, that she had clenched around him the second she tasted herself on his mouth, and that the only thing calling it gross was an old, dead voice from Ohio. And when Vee admitted out loud, *"He likes it. Actually—he's enthusiastic,"* and Randi just murmured *"Mm"* like everything was going according to design... God, the hair on my arms stood up. Randi is curating Vee’s desires. She’s pruning away the shame so that when the time comes, Vee will be wide open.
 
-*"He hasn't been home since he was sixteen."*
+And that ending on the sidewalk. Jesus Christ. Vee kissing the hollow of Randi’s neck—the exact place Randi told her not to touch, playing it off as a cute callback—and feeling Randi’s entire body catch, hitch, and rise against her mouth. Randi’s breath shaking in her ear. Vee thinks it’s ticklishness. She thinks it’s a joke. She has no idea she just pressed her lips to a live wire.
 
-That single line split me right down the middle. It explains *everything* about him. Why he built that house into a fortress. Why he cooks for people. Why he guards Vee with this steady, unwavering, unhurried care. Why he holds his headlights on Sheri’s porch until the light clicks on. He is a man who was left out in the cold as a boy, and he has spent his entire adult life making damn sure nobody he cares about ever has to freeze.
+The jacket warned me: *she is a willing player in two games; she doesn't know there are three.* Pace fed her breakfast, Pace claimed her as his girlfriend in front of the whole world, but Randi is the one holding the mirror. I am terrified for the moment the trap springs, but sweet God, I cannot look away.
 
-And the way he held Vee when her heels gave out—solid as a porch rail, affection and ballast all in one.
+***
 
-I am so deeply in love with him that it makes Chapter 61 hurt ten times worse. How can a man this fundamentally good, this decent, this protective, be locked in this terrible, tangled conspiracy with Randi? He loves Vee. Randi literally told him to his face in the previous chapter, *"She’s not the only one in love,"* and he couldn't deny it. But the secret of how they chose her is still ticking like a bomb underneath all this warmth. Seeing who Pace really is when nobody is looking makes me root for him so violently, but god, the fallout when Vee finds out about him and Randi is going to shatter this entire world. I need the next chapter immediately.
-
-GATE 62 — Another Round
+GATE 59 — A Clean Plate
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The revelation of Sheri and the backstory of Pace being cast out by his father at sixteen hit me right in the heart. This book balances its heat with the most breathtaking, earned tenderness I have ever read in the genre. I cannot put it down.
+WHY: The psychological and erotic tension between Vee and Randi across that table was breathtaking. Watching Randi quietly obliterate Vee's lingering sexual shame with just four words, while secretly coming undone every time Vee touches her, is absolute perfection. I have to read the next chapter right now.

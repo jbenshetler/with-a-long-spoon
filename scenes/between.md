@@ -64,7 +64,7 @@ Which is how she got to the last of it without deciding to.
 
 "Course she did."
 
-"No — she *looked* at me. She came around the table and planted herself in front of me and started at my face, and I stood there and took it, because I know that look. Every woman alive knows that look. She's adding up the outfit — is the makeup too much, is the shirt hers or borrowed, what are the shoes supposed to be saying — and she'll have a number on you before the door's finished closing." Vee turned her glass by the base. "So there I am, waiting for my number."
+"No — she *looked* at me. She came around the table and planted herself in front of me and started at my face, and I stood there and took it, because I know that look. Every woman alive knows that look. She's adding up the outfit — is the makeup too much, is the shirt hers or borrowed, what are the shoes supposed to be saying — and she'll have a number on you before the door's finished closing." Vee's arm came across her middle, her hand finding her own elbow. "So there I am, waiting for my number."
 
 "And?"
 
@@ -106,7 +106,7 @@ The other thing she'd brought, she'd been saving for the end on purpose, because
 
 "Did he?" Randi's chin came up an inch.
 
-"Sunday. In the kitchen, out of nowhere, in the voice he uses for facts." Vee turned her glass by the base. "He asked me to get waxed. All of it. Bare."
+"Sunday. In the kitchen, out of nowhere, in the voice he uses for facts." Vee pressed her hands flat into her lap under the table. "He asked me to get waxed. All of it. Bare."
 
 Randi put her wine down and came forward onto her forearms, and Vee felt the small lift of having brought her something good.
 

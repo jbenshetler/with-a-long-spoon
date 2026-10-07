@@ -1,23 +1,20 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~eeeec469236e · 2026-09-10*
+*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-07*
 
-REACTION — Oh, Randi. This is the first time I’ve been allowed all the way inside her, and somehow she is both more human than I feared and more culpable than I hoped.
+REACTION — Oh, Cassie. Thank God for one person who asks the ordinary question that is actually the enormous question: *What is he to you?* Not what does he do to you, not how happy are you, not what new appetite has he uncovered. What is this relationship? Vee can describe every exquisite thing Pace’s hands do and every ingredient in his dinners, but she still cannot name the place she occupies in his life. She can tell her parents he is her boyfriend only with a question mark in her voice. That snagged hard.
 
-That breakfast explains so much without excusing anything. The invented boys, the correctly portioned salmon, the bracelet kept out of the light, the mother made of edges, the father cheerfully demanding a version of her he can enjoy: of course Randi learned to make truth technically flawless and emotionally false. Of course every confession has cover. She has spent her whole life giving people fairytales made entirely of accurate details.
+And I completely understand why the dress is harder to explain than the sex. Pace making it is so intimate and so specifically *him*. It contains his attention, skill, money, time, and his private knowledge of how Vee wants to feel in her body. Saying “my boyfriend bought me a dress” belongs to a recognizable story. Saying “this barely older man I can’t define built the dress on his sun porch and knows exactly how to reveal me” opens the door onto the entire strange, consuming reality. Her father would look for the catch because there is a catch. It just isn’t the one he would imagine.
 
-And John is the perfect fantasy of not having to choose. Gorgeous, approved, effortless, decisive. He can ski better without humiliating her, dance her around a room, produce champagne and a sleigh and the entire life her parents ordered for her. I understood why she wanted the assumption after Pace’s relentless asking—why being carried by someone else’s certainty could feel like relief. But then the sex leaves her untouched underneath, and that is the distinction I’ve been hungry for this book to make. Good technique is not intimacy. Pleasure can be absolutely real and still fail to reach the person having it.
+The cropped photograph is doing a lot to me too. Vee keeps producing versions of herself for different audiences: waist-up for her parents, cropped for Randi until Randi nudges her, completely bare for Pace, almost honest for Cassie. Everyone gets the parts that fit. Meanwhile Pace and Randi possess the one uncropped account of her life, and she is the only person who does not.
 
-“Pace on his worst night reached further than this man had managed at his best” hurt. So did her realizing that Pace finds the self she hides while being completely impossible inside the life built to hide it. That makes her and Pace feel less like two glamorous conspirators playing with a girl and more like two people who already recognize each other’s exile. It makes their plan sadder, more comprehensible—and still not remotely acceptable.
+Cassie’s “Is it that you can’t say, or that you don’t want to?” is exactly why I trust her. No interpretation supplied. No seduction disguised as reassurance. Just a clean distinction Vee has to answer for herself. And that final feeling—grateful Cassie did not push, and disappointed she did not—is painfully true. Vee wants someone to make her say it while also needing the choice to remain hers. Cassie refuses to extract. That makes her safer than either of the people Vee is in love with, but perhaps less intoxicating.
 
-But Vee. Finally. Randi knows exactly what comes off Vee across a table. She loves her without a private qualifier. She has the noun, the desire, the whole terrifying truth—and then she deliberately chooses the loophole: “Let Vee arrive at it on her own.” That is the same moral rot at the heart of everything. She calls it cowardice and friendship preservation, but she is still arranging the conditions while reserving Vee’s choices for later. She wants Vee’s unguarded love more than she wants Vee informed.
+This was quiet, but it made contact where I needed it to. It also sharpened my impatience. Pace has made her a dress, a drawer, a home-shaped routine, and a shirt-scent ritual; Vee still cannot confidently call him her boyfriend. We are past the point where the unnamed quality feels merely romantic. The secret relationship underneath theirs makes that question mark dangerous.
 
-“Vee was her gorgeous” absolutely got me. So did that text arriving while Randi is reconstructing her face beside the perfect nothing. Vee offers presence with no demand—talk or don’t—and Randi answers with a true lie, then slips one naked sentence inside it. I believe “miss your face” completely. I also want to shake her. Vee is already feeling the ache of Pace refusing words, and here is Randi doing precisely the same thing in a prettier dialect: saying enough to keep the warmth, never enough to let Vee decide what it means.
-
-Also, that bracelet is screaming at me. Plain white gold, locked on, never removed, catching against her hand while she dances with another man—I need to know who put it there. If Pace did, I may actually combust.
-
-The sex with John didn’t turn me on much, but I don’t think it was supposed to; its vacancy was the point, and the lipstick ring gave it enough bodily reality that I didn’t feel coyly ushered past the bedroom. What did turn me on was Randi being matched on the mountain, then led on the floor, and the dangerous clarity of her comparing both experiences to Pace. This woman’s appetite is as exact as her manipulation. Now that I know how frightened and lonely she is, I want her more and trust her no further.
-
-GATE 46 — Fairytale
+GATE 46 — Cropped
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Randi finally admitted to herself that she wants Vee and then consciously chose concealment, which is exactly the emotional knife I’ve been waiting for. I’m furious, aching for her, and desperate to know what the bracelet means—and whether Vee’s kindness will save Randi or make her cowardice worse.
+WHY: Cassie finally asked the plain structural question all the erotic and domestic intimacy has allowed Vee to avoid, and Vee’s inability to answer pulled me harder than another sex scene would have. I want the next chapter now because the book has made “boyfriend?” untenable, and somebody needs to stop letting Vee live inside a relationship no one will define.

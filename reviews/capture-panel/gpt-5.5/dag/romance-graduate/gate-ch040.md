@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch040 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~1d8fca279859 · 2026-09-11*
+*capture-dag-v2-rich · gate ch040 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · 2026-10-01*
 
 REACTION —
 
-Oh, I am in trouble with this chapter because it is quiet and domestic and still somehow filthier than half the “spicy” books that put a riding crop on the cover. The sex is hot, yes, but the part that got under my skin was how ordinary it has become without becoming dull. The new ordinary is not bland. It is a drawer. It is his door opening before she knocks. It is her half-undressing herself down a hallway because five nights away from him has turned her into a match head. It is pizza made with that same exacting attention he gives her body. It is the shirt.
+Oh, this one got me in a totally different muscle.
 
-The shirt absolutely ruined me. Because she is needy here in a way that could so easily be made embarrassing, and the book refuses to humiliate her for it. She has been sleeping in his flannel like a girl with a secret altar, counting down the smell until it disappears, and then she brings it back not to return it but to have him refill it with himself. That is insane. That is also so intimate I had to sit back for a second. And Pace, bless and damn him, does not tease, does not make her explain the need until it curdles. He just puts the shirt on. Over the shirt he is already wearing. Like of course. Like yes, I understand the ritual you are inventing for us, and I will perform my part.
+After all the heat and danger and tablecloth-confession madness, I actually needed to see Vee somewhere nobody was touching her. Not Pace, not Randi, not even Cassie asking the right question. Just Vee in a lane, with her body doing something it has known since before any of them. And the book is so smart about that: swimming doesn't solve her. It doesn't give her a revelation with a bow on it. It just strips the words off until she can carry the shape without being devoured by it.
 
-Vee is getting braver and more dependent at the exact same speed. That’s the hook in my mouth. She can say she needs school nights, and he lets her have them, which matters. He doesn’t punish the boundary. But she also lasts five nights and comes back half-feral, dragging him by the shirt through his own house. Her independence is real, and her hunger is real, and they are not enemies yet, but I can feel how easy it would be for one to start feeding on the other.
+I loved that she still cannot say love cleanly out loud, even though inside herself she basically already has. That feels painfully true. Cassie asks one flat question and suddenly all the romance-light turns practical: your bed is empty, your life has shifted, your things are in his house, what is this? And Vee's “maybe” is not because she doesn't love him. It's because saying it would make the whole structure visible, and visibility is becoming the book's scariest erotic and emotional engine.
 
-The food writing keeps working on me because it is not lifestyle porn; it’s sensual education. She is learning to taste. She is learning that attention changes the thing being attended to. That line about him maybe giving the larger share of attention to her or the dough, and her not minding? Whew. That is such a grown woman’s erotic problem: wanting to be the center, but also being turned on by watching someone love a craft enough not to perform it for you.
+The bathroom drawer is still haunting her, which I love. Because of course it is not just “he made room for her things.” It's also: he did not say what it meant. Pace's great tenderness is also his great fog machine. He acts instead of explaining, and when you're starving for being cared for, actions can feel like scripture. But now she's asking, for four strokes only, whether he is actually that good or whether she has built him out of wanting. That is such a tiny, enormous crack. Four strokes! Then the wall comes. But she had the thought.
 
-And Randi’s absence is loud. Which is wild, because this is a Pace/Vee chapter top to bottom, but I kept feeling the Randi-shadow at the edges. Vee now has “her space” in his house and “best friend” in Randi’s mouth and school nights slipping through her fingers. The triangle isn’t actively moving here, but the grooves are deepening. The private rituals are becoming infrastructure.
+And the swimming itself made me weirdly tender toward her. This is maybe the first chapter in a while where her body is not humiliating her or betraying her or blooming under someone else's gaze. Her body is work. Breath. Hands. Count. Engine. “Her body... had none at all down here. It only worked.” God, I wanted that for her. I wanted her to have seventy-five minutes where nobody could read her.
 
-I also noticed Pace’s not-saying again. He answers in acts. It is beautiful and maddening. Vee wanted him to fight for the nights, or at least confess he hated losing them, and he only gave her grace. I respect it. I also want to shake him a little because this girl is building a whole religion out of what he does not say.
+It's a bridge chapter, obviously, but not an empty one. It feels like the book exhaling before something comes for her. I am very alert to the fact that the quiet is piling up around the question of love, around Pace's silence, around Vee's private self trying to get one clean minute to hear itself think. I don't need every chapter to burn the room down. This one cooled the glass enough that I can see the crack.
 
-GATE 40 — The New Ordinary
+GATE 40 — Strokes
 DECISION: CONTINUE
-CAPTURE: 8
-ALMOST-STOPPED: none
-WHY: This chapter made the relationship feel lived-in without cooling it down, which is exactly the rare trick I’m here for. The shirt request got me hard in the feelings, and I’m still uneasy in the best/worst way about how much of Vee’s self is now stored in Pace’s house, Pace’s food, Pace’s smell, Pace’s hands.
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "It never answered anything, the swimming."
+WHY: Quiet, but earned quiet. I felt Vee getting one bodily space that belongs to her alone, and the four-stroke doubt about Pace made me sit up hard. I want the next chapter because the book just reminded me she has an interior life outside being wanted, and that may be the thing that saves or breaks her.

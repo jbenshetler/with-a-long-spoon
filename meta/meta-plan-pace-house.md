@@ -93,6 +93,8 @@ Front door (left unlocked for the expected guest; Randi bolts it behind her). A
 ### Kitchen `[PAGE]` + `[PLAN]`
 `[PAGE]` **white-laminate**-topped **counter** (plain white, no pattern, the shine worn off, still good to work on); **kettle**/burner; two mugs; the teas she likes, kept on hand — **black tea** (taken with **honey**) by day, **herbal tea** at night — never green tea (ascetic; that register is Randi's, as matcha); a **coffee pot** (drip) and good beans — he has **opinions about beans** and pulls a pained, entirely-for-show face at how sweet Vee takes hers, and keeps the sugar full for her anyway ({{Missed a Spot}}); **real cream** in the fridge; a small **dish of sea salt** kept by the stove; a **bread machine**; a **baking stone** that lives in the oven, with its **wooden peel**; a **cold-water filter pitcher** in the fridge; an old **white KitchenAid stand mixer**, bought secondhand, the wear showing. **No stools.** The **kitchen is small**, too small for two to work in at once; a small **table with chairs** sits in it — **his own work, built in the shop; hardwood, lacquered seats** (`back.md`) — where meals happen and where she watches him cook (he sits people down to eat, never feeds them standing at the counter). `[PLAN]` A few good **knives** and a few good **pans and skillets** (**not the full set**); the small tools a serious cook keeps (microplane, peeler, hand juicer, and the like), assumed present and not inventoried; a small bench of guest wines. He cooks here.
 
+`[PAGE]` A **light over the stove** — the last thing he turns off in the kitchen at night ({{Portion}}: *turned the light off over the stove*; {{Gone}}: *He shut off the light over the stove* before the hall).
+
 **Sightline (committed to the page, {{Believe Me}}):** the **counter is visible from the
 entry mat through the kitchen doorway** — standing at the front door looking right, past
 someone coming through, the counter is in view. **Window (canon, author ruling
@@ -119,6 +121,7 @@ this single space (the bathroom is off the hall, not in the room). **There is no
 - A **bed**, ~three steps from the bench; **cashmere blanket** at its foot; a
   **bedside table** (water bottle pre-staged for aftercare).
 - A **chair** he folds her clothes onto.
+- A **chest of drawers** `[PAGE]` — his clothes; the **white undershirts are in the second drawer down** ({{Gone}}: Randi *opened the second one down without looking for it*). Distinct from the bathroom drawer where his toiletries live (below).
 - A **closet**; his **toy box** kept at the bottom, under the bottom shelf (`in-her-place.md`) — Randi's eyes go to it before the bench (`the-bench.md`).
 - Lit by **lamplight**, not overhead.
 - A framed **Klimt *Danaë* giclée** on the wall `[PLAN]` — Pace's summer gift to Vee, in a frame he built; hung here once his bedroom becomes theirs. Meaning and arc owned by `meta-note-danae.md`.
@@ -169,7 +172,23 @@ waits; {{Made-Up}}'s room-music is "something low on the speakers"). The `no-rec
 style rule (error) enforces it. `[PAGE]` A **lamp** ({{Made-Up}} — "the lamp throwing its circle," with a click-stop
 switch) and a **recliner** ({{Made-Up}} — his chair, where Vee seats him for the
 two-costume show; reads naturally as a built **Morris chair**, the A&C recliner,
-consistent with the furniture-he-built canon).
+consistent with the furniture-he-built canon). **A couch** `[PAGE]` — settled
+furniture in four drafted chapters ({{Tannin}}, {{Space}}, {{Nothing Underneath}}, {{Four}})
+but never inventoried here until now, which is how it stayed unspecified for a year. Its
+**frame is his own work, white oak, dowelled** ({{Four}}: it takes their weight and
+"spoke, low, and went on speaking"), with a **low table** in front of it sharing the lamp;
+upholstery deliberately unspecified. Distinct from the sun porch's own couch (below) —
+two couches, two rooms, two registers: the porch's is the quilt-and-herbal-tea confessional,
+the den's is where Randi is received. A **blanket** lives on the back of a nearby chair
+({{Nothing Underneath}}, {{Four}}) — the den's answer to the porch quilt and the bedroom's
+cashmere, and what Pace reaches for when the post-sex chill takes Randi. A **framed mirror**
+`[PAGE]` on the wall past the end of the couch ({{Four}}) — new 2026-10-05. It is *not* the
+{{Two Towels}} mirror, which is on the **sun porch** (where he holds the burgundy cloth up
+beside Vee's face and she sees the two of them together); these are two framed mirrors in
+two rooms, and the pairing is an inversion worth protecting — the porch mirror **gives a
+woman herself**, the den mirror **gives Pace a woman's face when she believes she has hidden
+it** (Randi turned away from him over the back of the couch, her face in the glass the whole
+time).
 
 ### Sun porch `[PAGE]`
 Through an archway at the far end of the den — an **enclosed porch at the back, mostly

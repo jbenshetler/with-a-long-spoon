@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch046 · claude-fable-5-1 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-07*
+
+REACTION
+
+He made the dress.
+
+I've been reading this book for forty-six chapters and I had him down for salmon and a top drawer and a cold cloth on a burn, and she drops it at a cafeteria table over a tray, sideways, as the thing she *couldn't* tell her father — he sewed it. On a machine. On his sun porch. Because she mentioned a magazine once. I put the book face down on my chest and stared at the ceiling. That's the induction with the floor moved under it: she walked bare under the burgundy taking the long step with nobody's hand on her, and the whole time the burgundy was his hands. Every seam of it. And he was in Berkeley. He built the thing that held her and then got on a plane so she'd do it without him, and the only part of him in the room was pressed against her skin. I don't know whether that's the most tender thing a man's done in this book or the most *him* thing — the control that makes room instead of erasing, except the room is literally cut to her measurements — and I think the answer is both, and I think Vee's father would be right to go quiet.
+
+Because her dad's instinct is mine. "Too good is its own kind of suspicious." He's pricing the dress and I'm pricing the whole arrangement, and I've got more data than he does — I've got chapter forty-three sitting in me like a stone I swallowed. I've got "I'd have taken you right there on the quad." I've got her counting out loud in his own house, "That's more than three," and the two of them talking about my girl's *mouth* while he's in her from behind. And I've got "She consents — every time — or I'm done," which is the sentence I've wanted some man in this genre to say for ten years, and he said it to the wrong woman, in bed, about a girl who doesn't know there's a gauge. So when Vee says *weird is worse than wrong* I heard it twice. Her dad can't file a man who sews. I can't file a man who sews and points.
+
+And "cropped." She gave her parents the waist. She gave Randi the whole uncropped length of her on a sidewalk because Randi raised one eyebrow at "half." She gave him the whole frame and kept the second step. And Cassie — Cassie, who has counted the empty bed, who asked "Do you love him" in the only voice she has and let the maybe stand — Cassie gets a question mark. Out loud. "I told them he was my boyfriend. I think I put a question mark on it." That's Vee at a table with the one person who knew her before, and she can't find the word, and Cassie asks it straight — not to your dad, *to you* — and then does the thing I've been begging someone in this book to do, which is ask whether it's can't or won't. "Both." And Cassie goes back to her plate. I wanted her to push. Vee wanted her to push — "she was also, a little, not" — and that line is the chapter. The one friend who'd take it without harvesting it is the one who won't reach for it, and the friend who'd harvest it has her standing in the sun with her eyes shut waiting to be kissed again. I'm so tired of being right about who she tells first.
+
+Mom wasn't at the induction. I've been waiting on that for fifteen chapters and the book handed it to me in a purse — she printed the picture, she keeps taking it out to show people who've already seen it. So Vee walked that room alone, in Randi's heels, in Pace's seams, and sent her parents the half that stops where the honor society does. And Thanksgiving's gone — Sheri's pie, "I don't go back," whatever that table looked like with the two people who have nowhere else — the book skipped it and I felt the skip. Not angry. Just noting that I was promised a pie and got a cafeteria.
+
+I'm not scared of him this chapter. That's what I'd text at one in the morning: *he made the dress and I'm not scared and I should be.* The flannel's still on him. The drawer's still hers. Her father burned the rolls on purpose and her mother touched her own collarbone and Vee sat there knowing the one thing that would've explained all of it and chose the question mark instead. She's getting good at cropping. That's the part that worries me. Not what she hides — what she's starting to be able to hide from, and from whom, and how easily.
+
+GATE 46 — Cropped
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: A clothed cafeteria chapter with him off the page entirely, and it still landed the dress on me like a hand on the back of the neck — and Cassie asked the question straight and Vee said "both," which is the first honest word she's given anyone about what he is. I want to see what she does with it now that it's been said out loud, and I want to be in that house again before the count from chapter forty-three gets any longer.

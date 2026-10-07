@@ -1,23 +1,22 @@
-*capture-dag-v2-rich · gate ch021 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~0894d4db7f65 · 2026-09-10*
+*capture-dag-v2-rich · gate ch021 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 1f134f523a50 · 2026-10-01*
 
 REACTION
 
-Oh, this got me. Not just the sex—though “There’s a lot of you covered in a lot of me” making him visibly twitch, followed by her delightedly testing the phrase again, was filthy and funny and specific in exactly the way most romance sex never manages. They’re not performing polished erotic competence at each other. They’re trying to keep silk out of the splash zone while she’s holding his cock in both hands and laughing too hard to stand. It feels like two actual people being ravenous together, which is so much hotter than another flawlessly choreographed scene.
+Oh, that smile. The one that survives the mirror, the wild hair, the drive home, every red light. I felt absurdly happy with her for about thirty seconds—and then Cassie’s face changed before she could hide it, and my stomach dropped.
 
-But the dress. God. Pace hiding all the labor so Vee gets to encounter only the beauty is so perfectly him that it hurts—and also perfectly expresses what frightens me about him. He keeps building structures around her that she experiences as effortless freedom. The heated house, the pedestal, the new mirror, the invisible seams, the invitation with no stated purpose: everything is arranged before she arrives, and then he leaves her to choose inside it. Her choices are absolutely real. She chooses the bare skin under the slit. She strides into the den. She opens his clothes and takes him into herself. Nobody could read this and pretend she’s passive. But he has composed the room in which she becomes that woman, while she still doesn’t know how much larger the composition is. It’s gorgeous, and it is making the eventual truth feel more dangerous by the chapter.
+Because Vee didn’t just keep the explicit details private. She edited out the emotional center. She gave Cassie the safe old vocabulary—sweet, good kisser, good cook—when what happened was that Vee’s body finally became a place she could live inside without apologizing. Cassie is exactly the person who would understand the difference, and Vee knows it. Calling the omission a kindness twice made it feel like the first little locked door between them. Randi’s world is already teaching Vee that intimacy means selective disclosure, and I hate that Cassie can feel the seam but loves her enough not to pull at it.
 
-Her taking off her underwear alone in front of the mirror may have affected me more than anything they did together. That first instinct—make herself smaller, keep her steps short, conceal the imperfect line—and then the hotter second thought arriving behind it. She removes the apology herself. Pace isn’t even there. That matters desperately. The transformation is hers even if he made the dress.
+And yet: driving home bare beneath her skirt, purple toenails out of season, hearing her mother’s imaginary verdict and discovering she simply does not care? That got me. It isn’t only that Pace wanted her. She did something shameless by her own old definition, woke up happy, and remained happy in daylight. The panties weren’t taken; she gave them away and likes that they are gone. I’m grinning with her even while I’m scared for her.
 
-And the word *floozie* appearing without winning? Yes. That is the emotional payoff I needed. The shame hasn’t been magically cured; it still fires on contact, but now it passes through her and changes state. She can remain in front of the mirror. She can look expensive and abundant and know exactly how much woman she is. I felt absurdly proud of her.
+“You need to get your brain back from your boyfriend” hurt in two directions. Boyfriend is sweet and hopeful and probably not wrong emotionally—but it may be disastrously wrong factually, because Vee still doesn’t know what relationship she has entered. And Cassie saying it “kindly, certainly, wrong” makes me think the book knows exactly how alone Vee has become inside the happiest experience of her life.
 
-I also loved that Pace’s restraint has not become his one-note sexual personality. Last time he gave her slowness because that was what she needed; here she comes through the doorway with her bare hip flashing and takes him before they’ve even reached the bedroom, and he meets her there. The finger-cleaning almost killed me because it turns his meticulousness into pure obscenity without making him into Generic Dominant Man. Of course he inspects them “with the care he’d give a hem.” Of course his precision is the thing that ruins her knees.
+That final happiness landed like a threat. Not because it isn’t real. Because it is completely real, and Pace and Randi are letting her build it on a fact pattern they know is false. I want to stay in this glowing morning with her. I also want to shake both of them until the truth falls out.
 
-Then the ending made my heart squeeze and my stomach drop simultaneously. Vee imagining the induction is beautiful because she can finally imagine being looked at without paying for the gaze in shame. But “fitted to her by a man who’d thought about nothing else” is such an innocent fantasy when I know there is another woman threaded through this entire relationship. And “getting away with something” nearly made me laugh from nerves. Darling, you are getting away with nothing. You are happy inside a secret whose owners are asleep beside you and lunching across from you.
-
-I’m deeply in now. The book has given me explicit sex that is playful, bodily, and character-specific, while making a finished dress feel like tenderness, self-creation, and evidence at the scene of a future emotional crime. This is exactly the combination I keep looking for and almost never get.
-
-GATE 21 — Peekaboo
+GATE 21 — Toenails
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The dress awakened something in Vee before Pace ever laid a hand on her, and then the sex was funny, messy, explicit, and intensely theirs. I’m thrilled by who she is becoming and increasingly terrified by the invisible structure Pace and Randi built around that becoming.
+WHY: Vee’s happiness is intoxicating, but the first real seam opening between her and Cassie frightened me more than any overt manipulation has. I need to know whether Pace treats this as the beginning of something named—and how long Vee can keep calling edited intimacy a kindness.

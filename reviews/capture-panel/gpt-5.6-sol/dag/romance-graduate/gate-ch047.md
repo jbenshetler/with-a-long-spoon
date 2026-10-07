@@ -1,21 +1,24 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~ca7450e92130 · 2026-09-10*
+*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-07*
 
 REACTION
 
-Oh, Vee. That childhood bedroom still loving a version of her she has outgrown absolutely got me. Her knees bent because the bed has been too short since middle school, the trophies and ribbons preserving a girl everyone understood, and this ravenous new self lying there with nowhere to put her body or her feelings—I know that particular loneliness. Going home and discovering you can still perform your old part perfectly while privately taking up more space than the whole house allows.
+Oh, that hurt.
 
-And I am furious with Pace now. Not because he couldn’t say “I love you” on command, but because she walked out crying after asking the most reasonable question in the world and he let the entire holiday pass in silence. “He always left you the room” has curdled completely. Space is not automatically respect when you know someone is hurting. Sometimes it is simply abandonment with impeccable manners. All his exquisite attention means he should be able to understand that much. If he is waiting for her to choose her way back to him, he is protecting his preferred idea of consent while leaving her to endure consequences he helped create.
+She gave him the bravest sentence she could manage, and he answered the part of it that was safest for him. Worse: he answered with her body. “What your body does.” She was telling him he had changed the scale of her life, and he told her they have unusually good sex. Tenderly, sincerely, while holding her exactly right—and still not answering her. I felt that little *wait* behind her breastbone like a dropped step.
 
-The blonde taking Vee’s place inside her own memory was horrible. That is exactly what uncertainty does: it doesn’t merely threaten the future, it repossesses the past. She can’t even keep the fra diavolo night as hers because Pace has refused to give her enough truth to defend it. And meanwhile the reader knows the imagined woman is wrong but the underlying fear is right. He is already someone else’s. Just not in the shape Vee can picture.
+“I love how good we are together” is such a devastating counterfeit. It contains the right words in the wrong order. He cannot possibly be too emotionally unintelligent to hear what she offered; the whole book has shown me how minutely he reads her. So either he panicked and deflected, or he is deliberately keeping the relationship inside language that asks nothing binding of him. I don’t know which is worse. He gives her drawers and shirts and warm coffee and future-shaped habits, but when she reaches for the meaning of those things, he hands her compatibility.
 
-The paired New Year’s messages hurt even more from this side. Vee offers Randi the gentleness Randi cannot bring herself to offer her: *I’m here if you want to talk. Or not.* She knows something is wrong with Randi’s family, sees through the fairytale enough to understand that the money is poisoned, and leaves an honest door open without forcing her through it. Randi responds with a perfectly edited lie made entirely of true details. Then Vee reads “miss your face” as the one dependable thing in her year—and the awful part is that Randi does mean it. I believe Randi loves her. I also want to shake her until her teeth rattle.
+And Vee doing the repair work for him—*I was received warmly*—made me want to grab her. That is not reassurance; that is a woman arguing a case against her own hurt. The pile of “small flickers” scared me more than one dramatic revelation would have. She has already been noticing the gaps and quietly using everything good she knows about him to plaster over them. Now this joins the pile, and she has decided in advance never to ask. That is how a relationship becomes a beautiful room where one person is slowly trained not to touch the locked door.
 
-And now Randi feels safer than Pace because she comes with a date on the calendar. That made my stomach drop. Vee is not choosing between the trustworthy woman and the untrustworthy man; she is orienting toward whichever concealed person gives her less uncertainty in the moment. Randi’s consistency is part of the trap. Pace’s silence is doing Randi’s work for her without either of them having to coordinate a thing.
+I’m frustrated with her rule that he has to say it first, yes. She built an elaborate sentence to avoid the plain one, and he technically could have misunderstood. But I don’t really believe he did. Not Pace. Not the man who can read a slackened hand on a public lawn and build an entire sexual future from it. He heard enough to take two breaths. He knew something enormous had been placed in his hands, and he set it down without naming it.
 
-There’s no sex here, but I didn’t miss it. This is the emotional bill for all that heat, and it is finally arriving. I’m not bored for one second. I’m heartsick, angry, and desperate for the first day of term, because Vee is about to run gratefully toward the woman who spent the same midnight lying beside a man and consciously deciding not to let Vee choose.
+This was the consequence I wanted after the quieter stretch, and now I am fully alarmed. The hidden arrangement was already rotten; this makes it worse, because Vee isn’t just being denied facts about Randi. She is being allowed to build a life-shaped expectation while Pace carefully refuses the words that would make him answerable for it. I need the next chapter immediately. Somebody has to touch the pile.
 
-GATE 47 — Old Acquaintances
+GATE 47 — Seconds
 DECISION: CONTINUE
 CAPTURE: 9
+NEXT: 10
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee losing possession of her own best memory hurt more than most betrayals on the page, and the midnight message connecting her loneliness to Randi’s deliberate concealment is vicious. I need the reunion now, even though I dread how safe Randi is going to feel.
+WHY: That wrong-shaped answer lodged under my breastbone exactly where it lodged under Vee’s. Pace’s tenderness no longer reassures me when he uses it to close the moment she was trying to open, and I need to know whether she keeps repairing the gap or finally looks directly into it.

@@ -30,7 +30,7 @@ The food she had grown up with had been good. She said that first, because it wa
 
 That stopped her a little, because it was not the answer she would have expected from anyone else. Anyone else would have laughed with her, or made a face, or said something about cream of mushroom soup. Pace went first to the hand underneath the thing.
 
-"Yes," she said. "It was. It just never tried to surprise anybody." She turned the mug in her hands. "Even when I was hungry, it was never quite the thing I wanted. I didn't know food could be the thing you wanted. Then you cooked for me."
+"Yes," she said. "It was. It just never tried to surprise anybody." She looked down into the mug. "Even when I was hungry, it was never quite the thing I wanted. I didn't know food could be the thing you wanted. Then you cooked for me."
 
 The fire settled behind them. A line of light moved along the porch floor and went still.
 
@@ -198,7 +198,7 @@ He said it without self-pity. She could picture him at fifteen, too young and no
 
 He didn't answer at once, and it was the second kind of quiet.
 
-She hadn't meant to stand him in a doorway, so she went first, to make it a trade. "I had a boyfriend at fifteen. A trumpet player. I played clarinet, he played trumpet, we sat three rows apart in band, and I was certain that was the whole mechanism of love — proximity and brass. It lasted one marching season. He took up with a girl from the Methodist church over the summer, I heard it from somebody else, and I lay on my bed being sad to the same four songs until my mother took the headphones off my head." She turned the mug. "I was sure it was love at the time. It turned out to be smaller than it felt. But I did feel it."
+She hadn't meant to stand him in a doorway, so she went first, to make it a trade. "I had a boyfriend at fifteen. A trumpet player. I played clarinet, he played trumpet, we sat three rows apart in band, and I was certain that was the whole mechanism of love — proximity and brass. It lasted one marching season. He took up with a girl from the Methodist church over the summer, I heard it from somebody else, and I lay on my bed being sad to the same four songs until my mother took the headphones off my head." She swirled what was left in the mug. "I was sure it was love at the time. It turned out to be smaller than it felt. But I did feel it."
 
 "That's how it's meant to go," he said. "At fifteen."
 
@@ -214,7 +214,7 @@ The flatness in it reminded her of how he'd sounded when she asked about his par
 
 Vee went still. She didn't choose it. She simply stopped moving.
 
-"It went on two years," he said. He was looking at the black glass, not at her, and his voice had changed — each word set down separately and precisely in its place, as though the placing of them were what held the sentence up off the floor. "She left the year she turned twenty-one. Nothing happened. Nobody did anything wrong. She was twenty-one and I was seventeen, and the rooms she was walking into by then were rooms they wouldn't let me stand in for four more years. Bars. The ordinary places. The distance that had been nothing at nineteen and fifteen was, all at once, the entire thing." He turned the cold mug a quarter-turn against his knee. "So she went on. Which was only sensible. It would have been stranger if she'd stayed."
+"It went on two years," he said. He was looking at the black glass, not at her, and his voice had changed — each word set down separately and precisely in its place, as though the placing of them were what held the sentence up off the floor. "She left the year she turned twenty-one. Nothing happened. Nobody did anything wrong. She was twenty-one and I was seventeen, and the rooms she was walking into by then were rooms they wouldn't let me stand in for four more years. Bars. The ordinary places. The distance that had been nothing at nineteen and fifteen was, all at once, the entire thing." He set the cold mug down on the floor beside his foot. "So she went on. Which was only sensible. It would have been stranger if she'd stayed."
 
 He laid it out in good order, every reason accounted for and set in its slot, and the good order was the tell. All evening she had heard him undersell things — the hall, the fifteen — and this was that same voice gone one degree flatter, held the careful way a person carries a full glass so it won't go over the rim.
 
@@ -263,3 +263,13 @@ They stayed like that. The tea had gone fully cold. Past the glass the yard held
 "Peter," she said. Softly. No question in it this time. She was not asking him for anything, and she was not trying it on. She was only saying it, once, into the warm dark, the way you say a word to keep it.
 
 He let it sit. He did not answer it and did not need to. His hand closed around hers over the old scar, slow, and held, and the fire kept its small business behind them, and the cold stayed on its own side of the glass, and neither of them said anything else for a while.
+
+Later, in his bed, he went to sleep before she did. He went as he did everything, all at once and without fuss: one minute his hand was moving on her back and the next it had stopped where it was, and his breathing had changed under her ear, and he was gone.
+
+She stayed awake a while, not because anything kept her. She was wrapped around him, a leg over his, her arm across his chest, her face in the hollow of his shoulder, and the heat came off him as it always did, like a furnace banked for the night, so that the sheet was almost too much and she kept it anyway. She felt soft all through. Not tired. Soft.
+
+She thought about the semester. Six weeks ago she had walked into a stranger outside the dining hall and stood there apologizing to her with her hand over her mouth, and the stranger had laughed and touched her arm, and the next morning had been in the seat beside her in stats, and now she was Randi. Her glamorous friend, the one she laughed with until it hurt, the one she could bring the worst of herself to and be told it was nothing, girl, nothing at all. She had stumbled into her.
+
+And not ten days after that she had said out loud, to nobody, that she couldn't do an integral, and a man had crossed a coffee shop for it. That was all. She had complained about math to her own table, and now she was in his bed with her leg over him, and he was asleep, and he was the kindest man she had ever known, and she had not known, before him, that a man could be all the way here. She had not known it was a thing you could have.
+
+One piece, he'd said, about the leaf and the stars. It felt like that. It had come to her all of a piece, the one and then the other, in six weeks, for no reason she had done anything to deserve. She had never been so fortunate, or so happy.

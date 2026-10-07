@@ -234,6 +234,8 @@ We have almost no interior POV on Randi (`meta-craft-randi.md`: never inside her
 
 **Calibration.** Rare and escalating — the leaks get harder to wrap as the real thing grows and the irreversible point nears (staircase-shaped, never mechanical). Never dwelt on — a flicker, then gone; underlining it sentimentalizes her, which is the mirror failure (the author reassuring us she's good, softening the cold too far). And distinct in flavor from {{Scalding Jealousy Ignition}}'s cost/jealousy/body-voting register — this one is *love and tenderness for Vee* specifically.
 
+**2026-10-01 — a hurt leak, on the record (author ruling; the arch is being made more vulnerable on purpose).** The dress in {{Sorority}} draws the same reaction from Randi twice — hearing it is finished, then seeing it on Vee — and the second time she struggles to hide it. Vee misreads the first (care, the same as Cassie's) and half-reads the second (jealous, of a man who pays attention). The leak here is not the warm one above; it is hurt, and it is the first time Vee's reading of Randi touches it. Keep it to those two beats; the escalation staircase still governs anything after.
+
 ---
 
 ## Fairytale — The Chosen-Not-to-Throttle Moment

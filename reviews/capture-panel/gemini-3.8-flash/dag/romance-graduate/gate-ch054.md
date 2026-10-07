@@ -1,30 +1,31 @@
-*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha bb2635a8b1b0 · 2026-09-19*
+*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1011072a47a5 · 2026-10-07*
 
-**REACTION**
+REACTION:
 
-Oh, my chest hurts. In the absolute best, most terrifying way.
+*Oh my god.* My chest is pounding. I have so much to say I don’t even know which wire to grab first.
 
-This is the bridge chapter to end all bridge chapters. It’s quiet, nobody takes their clothes off, no one is coming on a cashmere blanket, and yet it feels more dangerously intimate and seismic than the last three chapters combined.
+First of all: Randi. The sheer, terrifying brilliance of Miranda. Watching her sit on that messy bed, pushing the designer clothes from Gstaad onto the floor like trash because *Vee* is what matters, and meticulously disassembling Vee’s panic—it was masterclass manipulation wrapped in genuine, desperate love. She took Vee’s very real, very legitimate boundary (*“Words are cheap and you still won’t spend them on me”*) and reframed it as Vee "blindsiding" a poor, devoted boy who was just freezing behind a wall because he was so cornered. She convinced Vee that her demand for self-respect was just "fear talking," and walked her straight into the ultimate submissive sacrifice: show up naked under a coat, bring him peace, give him your body so he doesn't have to give you words. It is so diabolical, and yet—Randi is doing it because she *needs* Vee back in Pace’s orbit. Because Pace’s house is where Randi gets to have her too.
 
-Pace standing at the sink, casually cataloging her entire life from memory—Meg’s boots slipping at the heel in October, Kayla talking the paint off the wall—completely took the wind out of me. It’s the ultimate female fantasy, honestly, not just the billionaire in the sleigh or the guy who eats you out until you can't walk, but the man who *listens to your chatter and files every single scrap away as sacred data.* He didn't just hear her; he built a mental map of her entire universe while standing over dish soap.
+And then—the kiss in the foyer. *Holy shit.*
 
-And then the emotional intelligence on both sides in this tiny scene! When she immediately pictures a three-person dinner with Randi, he gently checks it: *"Bring Cassie, too."* He knows. He knows Cassie is her anchor, and he won't let her leave her real friend behind to play golden-girl with Randi. And then Vee’s internal panic—realizing that putting Cassie and Randi at the same table is a social bomb, seeing the class divide, realizing someone will have to "be a good sport"—was so sharp and real. But even better was her sudden flash of Chili's: remembering him trapped under four blaring TVs, turning his fork over and over because the noise was drowning him out, and quietly handing him the reins: *"Will you pick the place?"* That is pure love. That is her protecting his sensory limits without shaming him for them.
+Four months. Four months of Randi carefully engineering touches, leaning in, kissing Vee on the cheek, testing the water, and Vee turns around from the doorknob, takes Randi’s face in *both hands*, and kisses her mouth until her chest stops hurting. The way Randi reacted after Vee walked out—standing alone in that foyer, touching her own bottom lip, making that "short idiotic sound" of pure shock and triumph—I had absolute chills. Vee didn't just accept it; Vee initiated it. The monster just got everything she dreamed of, handed to her on a silver platter.
 
-And his reaction! *"Tables have ends. Somebody ends up at one."* He doesn't want a stiff, performative dinner where he's backed into a corner or someone feels lesser; he wants a real gathering. *"Bring Theo."* Zero petty jealousy, zero posturing. Just complete, solid ground.
+And then Brooke walks in and drops a concrete slab on the whole thing.
 
-Except... oh God. *The convergence.*
+*“You always say goodbye under the composites.”*
+*“Play all you want, privately, or for the boys... I'm asking whether you want to keep your position.”*
 
-He wants to meet her people. The jacket told me from page one: *"Two people set the table... Vee is a willing player in two games. She doesn't know there are three."* Randi and Pace chose her together. Randi has been keeping them in separate boxes, feeding Vee scripts, living vicariously through their sex life while hiding her own heartbreak and her family's dirty money. And now Pace is actively tearing down the walls between Vee's compartments. He wants Randi, Cassie, the college friends, all in one room with him, looking at Vee.
+I stopped breathing. The ice in Brooke’s polite, sorority-president warmth! Brooke saw it. She’s probably seen all of it. In this world of gilded reputations, you can play "for the boys" (performative college-girl bisexuality to turn men on), but the moment it’s real—the moment a girl grabs your face and kisses you under fifty years of framed alumni—it threatens the house. The threat wasn't even veiled. It was an absolute checkmate.
 
-If Cassie is there, the PPP loan spreadsheet is in the room. If Randi is there, the secret architect of their whole relationship is sitting right across from Peter, in front of the girl they both love. And Vee thinks she's just planning a cute mixer.
+So now look at the board: Vee is going back to her dorm to shower, put on Randi’s heels, and drive to 614 naked under a coat, completely unaware that Pace just spent the morning weeping over cold chicken because he loves her and can’t say it. She thinks she's surrendering; he’s already broken. And Randi is upstairs behind a shut door, her lips still buzzing from the girl she is desperately in love with, holding the loaded gun Brooke just put to her head.
 
-The bomb is being carried into the dining room right now, set on a timer, and Peter is the one carrying it with a smile on his face. I am vibrating. I need the next chapter immediately.
+Turn the page. I need tonight. I need the door at 614 opening *right now.*
 
-***
-
-GATE 54 — Back
+GATE 55 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 8/10
-NEXT: 10/10
+CAPTURE: 10
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The quiet emotional depth here floored me—Pace casually proving he remembered every stray detail she ever told him was pure romance, but the terror of knowing this party will force Randi, Cassie, and Pace into the exact same room makes waiting for the next chapter physically painful.
+WHY: The tension is coiled so tight it’s vibrating. Vee taking Randi’s face and kissing her on the mouth, followed immediately by Brooke’s chilling, velvet-gloved sorority blackmail, took this book to an absolute boiling point. And now Vee is heading to Pace naked under a coat while he’s still shattered from losing her—I cannot turn the page fast enough.

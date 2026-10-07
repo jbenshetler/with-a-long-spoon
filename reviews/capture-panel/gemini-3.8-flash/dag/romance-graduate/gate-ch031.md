@@ -1,26 +1,29 @@
-*capture-dag-v2-rich · gate ch031 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 230524645ef4 · 2026-09-19*
+*capture-dag-v2-rich · gate ch031 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-01*
 
 REACTION
 
-*“She took a breath, and made the second step long.”*
+Oh, wow. That was… quiet, but it hit like a cold splash of water to the face.
 
-God, my stomach dropped straight through the floor. That was magnificent. That was pure, unadulterated exhibitionist adrenaline, and the psychological truth of it gave me actual chills.
+First of all, who the hell is Sheri? A cycling buddy, someone outside the hermetically sealed bubble of Pace’s house and Randi’s sorority orbit. It is wild seeing Pace from the outside, stripped of the woodsmoke, the hearth, the silk, and the heavy sexual fog he wraps around Vee. Out here on the asphalt, pushing pedals in the cold, he’s just a twenty-two-year-old math guy getting dropped on the climbs by a woman with a bleached ponytail on a small-frame bike.
 
-What gets me—what is so brilliant and twisted and sad—is that Vee thinks this is *hers*. She’s sitting there in a custom gown Pace drafted to force her bare, strapped into expensive heels Randi practically knelt and buckled onto her feet, carrying out an induction ceremony she wanted so badly to be legitimate proof of her intellect and independence... and she turns it into an erotic performance. And she thinks, *“That part was hers.”* Honey, oh honey, no. They built the cage, they tailored the bars, and they handed her the mirror to admire how pretty she looked locked inside it.
+And seeing him *spill*? That got me. Pace never spills. Pace measures every millimeter, controls every breath, holds his cards so tight they leave bruises on his chest. But the second Sheri gives him an opening, he’s rambling about Vee touching the walnut grain where the arm meets the leg, how she took the math book down. Sheri’s immediate *"Listen to you"* caught him dead to rights. He is smitten. Not just calculating an elaborate domme/sub seasoning project with Randi—he is genuinely, hopelessly taken with Vivienne.
 
-Yet at the same exact time, it *is* hers! That’s the genius of this book! Her agency isn't erased just because she’s being steered; she genuinely chose to take the long step instead of the safe mincing one. She wanted the room to look. She wanted to feel the air on her bare hip and see the dull, safe people in navy choke on their polite applause. The shame and the arousal are completely fused now: *"whether that was pride or only the same heat still running, or whether, by now, the two came to the same thing."* That line is the entire thesis of the book tattooed on her thigh.
+Then came the knife.
 
-And Cassie. Cassie holding her phone, Cassie capturing the exact split second of Vee’s private debauchery while being the only person in the room who loves her cleanly, without a hidden agenda. *"I'll buy you a terrible sandwich and you can be famous at me."* It breaks my heart a little bit. Cassie is the tether to reality that Vee is slowly, inevitably going to burn through, because a "terrible sandwich" and dry sisterly loyalty can’t compete with the narcotic high Randi and Pace are feeding her.
+*"And the redhead?"*
+*"Not yet."*
 
-Sending that picture uncropped to Pace while he's in Berkeley... oh, she thinks she’s gifting him something. He’s going to look at that photograph and know *instantly*. He knows the cut of that silk down to the millimeter. He’s going to know she went bare, he’s going to know she showed the room, and he is going to debrief it with Randi the second he gets back.
+God. God. Just right there, plain as day, between two pedal strokes. *"Not yet."* Not "I'm going to tell her," not "it's none of your business," just the cold factual reality that Vee is the only person on this entire campus who doesn't know she's in a throuple. Even this random cyclist buddy knows. Sheri laughs, thinks it's a hell of a flex ("Two of them at once. How do you sleep?"), and Pace just absorbs it. The sheer, terrifying casualness of it. It’s not malicious on the surface—it’s just this absolute, towering arrogance. He thinks he can manage the arithmetic.
 
-It was a short, sharp shock of a chapter—a breath held and released. Deliciously tense, psychologically razor-sharp, and quietly filthy without a single touch.
+Sheri’s line—*"If that's not already complicated, it will be. But I bet it's worth it"*—hung in the air like exhaust. It is going to detonate. It has to. Vee is stressing over a pair of expensive strappy heels and falling in love with this courtly, damaged boy, and meanwhile, he's out on a Saturday morning ride admitting out loud to a third party that Vee is in the dark.
 
-***
+It was a tiny, brisk chapter, barely two pages, completely devoid of heat in the physical sense, but the tension underneath was humming like high-voltage wire.
 
-GATE 31 — The Induction
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension of that single long step across the stage had my heart in my throat; the way her vanity, shame, and arousal are completely tangling together is utterly addictive.
+WHY: Pace rambling about Vee touching the grain of his chair while getting dropped on a bike climb gave him an incredible flash of real vulnerability—right before the chilling reality of his *"Not yet"* snapped the trap shut. I need to see what happens when these two worlds collide.

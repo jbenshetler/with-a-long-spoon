@@ -71,3 +71,179 @@ The goodbye-kiss staircase does **not** escalate here: the **usual settled kiss*
 - **The coat is Randi's idea** — the door-two costume traces here; the umbrella note records the fingerprint.
 - **Randi hasn't met Sheri** — she can't hold the fact; soothe emotionally only.
 - **Precedes {{Among Friends}} and {{Another Round}}** (both "soon after"): the confidante bond and the scent vector are already live when Randi crosses into Vee's world at {{Among Friends}} and when Vee crosses into Pace's at {{Another Round}}.
+
+---
+
+## Panel two — the Brooke beat (author 2026-10-07)
+
+The chapter is now a diptych. Panel one runs past the counsel to a second
+goodbye kiss in the foyer that **Vee starts**; panel two is Randi POV from the
+closed door through Brooke in the kitchen.
+
+**The kiss is a new rung, and it must stay distinct from the old one.** The
+November goodbye had Vee *extending* a kiss — reported to Pace at {{Four}},
+*"I went to come off her and she came after me. She took it."* This is the
+first she **initiates**, and it lands after the first kiss of the afternoon
+was already finished two floors up. Randi's own frame for the four months
+before it is *"held still for it and was sweet about it and thanked her and
+never once started it"* — initiation, not extension. The ladder is: Randi leans
+in → Vee extends (Nov) → Vee starts one (Jan) → in front of the house at the
+{{On Her Floor}} mixer.
+
+**Vee gets the need, the reader gets the passion.** Her motive is relief and
+gratitude with want inside it, and **she does not examine any of it** — *"she
+only knew she wasn't finished."* This is load-bearing downstream: her
+*what-we-do* framing has to survive, poorly held, for {{On Her Floor}} to work.
+The gap between what the prose shows and what she files is the instrument.
+
+**The foyer, not the landing.** It is where their goodbye kiss already happens
+({{Broken In}}, *"In the foyer, under all those framed faces"*), so it is
+genuinely *what they do* — a private landing would make Brooke's sighting a
+contrivance and would prove nothing about the training. It also puts both of
+Brooke's sightings in one room of her own house, and gives the public ladder its
+middle rung (foyer → dance floor).
+
+**Brooke is exacting, not cruel, and not personally homophobic.** She enforces a
+code she did not write and takes no pleasure in it; her weapon is warmth. She
+never claims a sighting — *"You always say goodbye under the composites"* does
+the work, and *always* is the word that means twice. She offers Randi one true
+safe answer (*"A boy, isn't it?"* — the {{Standards}} construction) and goes
+straight past it. Then she grants the attraction as reasonable before the single
+threat, framed as concern: *"I'm asking whether you want to keep your
+position."* The permitted category she names — *privately, or for the boys* — is
+**the exact alibi Randi runs on herself** at {{Four}} (*"I'm doing it for you.
+For the threesome"*): the house's code and her self-deception are one sentence,
+and neither woman hears it.
+
+**Randi is defiant, not compliant — and that makes {{Inversion}} a progression.**
+She is flush from the kiss with the machine off, so she pushes back here; by the
+February docket she *"absorbs it without flinching,"* because she learned in this
+kitchen what defiance costs. Two scenes, same room-container, opposite postures.
+
+**She must not disown the kiss.** Denying it would be her saying it did not
+matter, and it mattered enormously. So she asserts instead — *"We do. She's my
+friend"* — reaching for **Vee's own inadequate frame** to defend her with, which
+is the only word either of them can use. And *"Don't,"* cut across *tempted*, is
+a refusal of the **sex-only frame**: the one time in the book she defends Vee as
+a person, against the exact reduction she performs for Pace. Placement is
+load-bearing — *"I've seen how that girl looks at you"* must land **whole and
+unopposed**, so that the reader sees she did not object to being seen, only to
+Vee being wanted. Unseen by her, the flinch is the confession: if it were play
+it would have cost her nothing, which is why Brooke goes straight to the
+position question.
+
+**The matcha is the mechanism.** She wants a mug in both hands and twenty
+minutes to sit with what just happened. She never gets it poured; the mug goes
+back in the cupboard unfilled. Nothing in the scene releases the tension, and
+Brooke's exit costs Brooke nothing.
+
+**POV discipline:** see the flag 15 exception recorded in the chronology — the
+foyer is a third container, opened once, for joy rather than wound. It reverts to
+managed surface the moment Brooke is present, and the panel stops at Randi's own
+door without going in, so {{Fairytale}} remains the first time the book is inside
+with her.
+
+---
+
+## The plane opening (author 2026-10-07)
+
+`claude-opus-5-5`/romance-graduate almost-stopped on the old first line — *"She'd
+cried most of the way in from the airport… that was the fifth lonely-and-hurting
+opening in a row, and my thumb was ready to swipe away."* The run was then ch051–055
+({{Fairytale}}, {{Old Acquaintances}}, {{The Usual}}, *Not Enough*, here); after the
+2026-10-07 merge of the last two of those into one diptych it is four chapters,
+ch051–054. And
+**an up chapter inside it was ruled out: there is nobody to give one to** — Vee is
+shattered, Randi is empty, Pace is in grief, and handing any of them a good time
+would damage the arc. The fix is the opening only.
+
+**This makes the chapter the volume's turn rather than the fifth down-chapter that
+happens to end well** — the reader feels it on the first page instead of
+three-quarters through. The run stays four chapters long and the fifth opens with
+lift.
+
+**The register is ascendant, not triumphant.** Relief, breath, and a life she built
+for the person she is now. The melancholy is present and **subordinated** — *she
+had not expected that to come with a grief in it* — turned over once and set down,
+because the sentence it yields to is the thesis: *there was somewhere to go back
+to, and it was hers, and she had made it.* This advances {{Old Acquaintances}}'
+beige-life thread one turn: there she was *"somewhere else without knowing she's
+left"*; here she knows, and is glad of it.
+
+**The list is unmarked and ascends: Kayla, Meg, Cassie, Randi.** Weighting is done
+by word count, never by statement — no *most of all*. The charge is that Randi
+outranks Cassie, Vee's own roommate, and that **Pace is not on the list at all.**
+She omits one and crowns the other and notices neither. *After that came one more,
+and she did not get to it* is the whole avoidance; it works because the list
+ascends, so the reader does the arithmetic on who comes next. No interiority, no
+resolution — her face goes back to the glass. **No tell fires here**: the nearest
+candidates (collarbone, hands to the lap) both carry the wrong meaning for this
+beat.
+
+**The pool gets the longest beat and is the one item that is not about being seen.**
+Nobody timing her, nothing riding on it, her body an engine with no opinions about
+itself — her own formulation from `strokes` returning fifteen chapters on, close but
+not verbatim. The third-lane territory and the butterfly man were cut: that is
+`strokes`' business and re-listing it reads as inventory. Note `strokes` already
+owns *"asked her for nothing"*, so the altitude line uses **space** (the quality
+Pace gives her, never named) and **cared** instead.
+
+**The coffee is the absence made physical, and nothing points at it.** She buys the
+biggest cup the open counter has with too much sugar, because she wants it — the
+appetite is hers and she provisions herself without a thought. Against {{Four}}
+(*"one of your coffees… in that steel cup, the good stuff — which is not a thing a
+girl buys for herself"*) it is the single Pace-shaped object on the page and she
+handles it absently. Reread-only; **never gesture at it.**
+
+**Altitude is the container, which is why it fails at ground level.** Thirty
+thousand feet asks nothing of her; the car is the first place she is alone *and*
+back in the world. The red-eye makes the holding finite — she has been up all night
+doing it — and gives the stretch its only light gradient: dark cabin, gray at
+Roanoke, the road.
+
+**The road gets her through the body, not the theme.** Frost on the fields going
+past the window the same as they go past on a Friday, and her hands knowing the
+drive — four months of Friday afternoons with the bag on the back seat and her
+whole body already at the end of it. Two of the chapter's own lines were cut as
+redundant once the panel existed: the *picture of coming home* summary (the fields
+**are** the picture going by) and *"not one inch of him for her"* (states what the
+body has just done). And the old *"she'd told herself on the plane that silence
+wasn't an answer"* inverts to **"She had kept him out of the whole flight. The road
+gave him back to her inside ten minutes"** — she did not reason badly about him; she
+held a door shut for six hours and then couldn't.
+
+## The John retelling, compressed (author 2026-10-07)
+
+Two lanes flagged it as a repeat and both said they skimmed — `claude-opus-5-5`/rg
+(*"That's where the John retelling started repeating chapter 51 back to me, and I
+skimmed"*) and `claude-opus-5`/rg (*"I'd read it one chapter ago"*). Checking
+{{Fairytale}} confirmed it: that chapter **dramatizes the lift-line on the page**
+(*"I could see you were skiing alone"*; *"By the time they reached the front they
+had three children, all sent off to ski camp for the day… neither of them missed a
+beat"*), plus the skiing, the leading and the dress. So the retelling was almost
+entirely recap.
+
+**Keep every one of Vee's three reactions whole; compress Randi's telling.** The
+only phrases that must stay in her mouth are the ones Vee quotes back (naming
+children, the dress you tell your daughter about, letting him lead). Cut: the
+dry-cleaning production, the better skier, the window table, the marble floor,
+the Christmas trees.
+
+**The compression has a motive, not just fewer words.** *She told it well. It came
+out in order with the pauses in the right places* turns the passage from
+information into **performance**, which is where the reader's attention belongs;
+*and did not spend long on it* is Randi **hurrying as she nears the thing she
+can't say**, so the brevity is characterization. The withheld bedroom and the
+quip are untouched — they are the part {{Fairytale}} cannot contain.
+
+## Brooke demands, and does not wait (author 2026-10-07)
+
+*"I'm asking whether you want to keep your position"* was a question, and Randi
+answered it — which **spent the beat**: she complied aloud and nothing was owed.
+Replaced with a demand that cannot be answered in the room: *"You've got a
+position in this house. You need to choose."* **Brooke leaves on the line without
+pausing for a reply** — the not-waiting is the move, exactly like the not-standing
+at {{Standards}}, and the silence afterward is Randi's. The choice stays **loaded
+for thirteen chapters** and she answers it at the {{On Her Floor}} mixer: *"I
+chose."*
+

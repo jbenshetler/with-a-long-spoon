@@ -1,21 +1,20 @@
-*capture-dag-v2-rich · gate ch021 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~0894d4db7f65 · 2026-09-11*
+*capture-dag-v2-rich · gate ch021 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1f134f523a50 · 2026-10-01*
 
-REACTION —
+REACTION — Oh, this one got me in that soft, ridiculous afterglow place. Not the heat of the bedroom, exactly, but the morning-after shock of it: walking around with your own secret body under your clothes, smiling at red lights like an idiot, trying to tell your best friend enough and not too much. I know that feeling. The whole chapter is basically Vee trying to carry something enormous in a paper cup.
 
-Oh, this chapter got me. It got me in the embarrassingly precise place, the one where a man making something for a woman is not just sweet but erotic because the attention has weight. He didn't buy her a dress. He *studied* her, remembered her, stayed up late with his hands on fabric, and made something that only her body could complete. That is exactly the kind of devotion that makes my brain go quiet.
+And Cassie, bless her, sees almost everything. “Was he worth painting your toenails?” is exactly the kind of best-friend line that makes you want to die and laugh at the same time. I love that she clocks the toenails as evidence. Not lingerie, not flushed cheeks, not hair, but October toenails. That feels so intimate and so ordinary.
 
-And I loved that the dress gave Vee back to herself before Pace even touched her. That mirror scene, where “floozy” comes up and she doesn't collapse under it, she stays and looks anyway? Yes. That is what I want from this book. Not shame magically erased, but shame transmuted while I can feel her choosing. The underwear coming off was such a perfect little private decision. Nobody ordered it. Nobody even saw it first. She wanted the line clean. She wanted the woman in the mirror to be fully herself. I was basically sitting there whispering, good girl, but in the proudest possible way.
+What hurt a little, in a good way, is Vee editing the story. I don’t mean I’m angry at her. I understand it completely. Some things are yours before they are language. But I also felt the tiny loneliness of it. Cassie has been the safety valve, the normal air in the room, and now Vee is keeping the middle out. Not because Cassie isn’t safe, but because the thing is too bright, too bodily, too hers. That is tender, but it also makes me nervous, because secrets are starting to layer: Pace and Randi have the big hidden plan, Randi has the kiss, Vee has the missing green panties and the actual shape of the night. Everyone is holding something back now.
 
-The sex was chaotic in a way I really liked. It wasn't polished fantasy-man choreography. It was funny and hot and ridiculous and physical, and that made it feel more intimate, not less. “Covered in a lot of me” turning Pace inside out was so good because it showed her discovering power in her own explicitness. She's not just being overwhelmed by him anymore. She's playing. She's making him twitch. She's laughing with him while holding him in her hands. That is a woman entering her own appetite with both feet.
+The “boyfriend” line landed harder than I expected. Cassie says it kindly, and Vee knows it is wrong. That one word opens the gap between what this looks like from outside and what it actually is. He is not just a boyfriend. Maybe he should be. Maybe he wants to be. But there are two towels, and Randi, and the invitation, and the word “boyfriend” feels almost too simple for a room this rigged with silk and secrets.
 
-And Pace. God help me, Pace. The finger-cleaning almost took me out. Not because it was outrageous, but because it was so *him*: exact, slow, attentive, making filth feel ceremonial without making it cold. He can be so careful and then so gone, and the contrast is doing terrible things to me. I also liked that he broke the doorway kiss not to deny her, but because he was too excited to show her the gift. That kind of boyish pride inside this controlled man is very dangerous to my continued dignity.
+But then that last line. I’m helpless to it. “She had never in her life been so happy.” That should make me purely happy, and it mostly does, because Vee’s happiness feels earned in her body. She chose, she wanted, she gave, she came home lit from inside. But because I know the jacket, because I know there was a plan, that sentence also scares me. It feels like a glass ornament held up to the sun. Beautiful, and I’m already afraid of the floor.
 
-But the hidden plan is still sitting there. Maybe even heavier now, because the chapter made me love him more. This is what worries me: every visible choice Vee makes here is hers. The book is being very fair to that. She walks to him. She initiates. She strips the underwear off. She practically climbs him. And yet all of this is happening inside a larger frame she still doesn't know about. The better the consent feels moment by moment, the more I need the eventual truth to matter. I am not willing to let “but she loved it” be the book's final defense. I need Pace to know better than that.
-
-The ending made me ache a little. Her imagining the induction in the dress, letting the room turn toward her and not shrinking, felt like such a win. She wants to be seen now. Not endured, not approved of, not secretly apologized for. Seen. And Pace asleep behind her with his arm coming around her without waking is such a soft landing after all that heat. I hate how happy I am for her, because the knife is still under the table, but yes, I am absolutely still here.
-
-GATE 21 — Peekaboo
+GATE 21 — Toenails
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: "hot and hard and past any asking"
-WHY: That line made me tense for half a second because asking is part of why I trust him, but Vee's desire and initiation were so alive around it that I stayed with her. The chapter pulled hard: the dress, the mirror, the laughter, the sex, the tenderness afterward. I am nervous about the secret plan, but emotionally I am very, very caught.
+CAPTURE: 8
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: This chapter kept me completely because it understood the intimacy after sex: not more explicitness, but the private glow and the impossible problem of telling your best friend. I miss Pace on the page already, but Vee’s happiness is powerful enough to carry me, and the little wrongness around “boyfriend” has me very awake.

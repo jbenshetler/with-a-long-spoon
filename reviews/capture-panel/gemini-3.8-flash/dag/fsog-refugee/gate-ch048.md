@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b247f2c75c88 · 2026-09-19*
+*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
-REACTION:
+REACTION
 
-Oh, this hurt. This physically hurt to read.
+God, this hurt. This actually made my chest ache.
 
-I know this exact feeling in the pit of my stomach—lying in a childhood bed that doesn’t fit your body anymore, in a room that only knows a previous, smaller version of you, while the clock ticks down toward midnight on New Year’s Eve. That profound, hollow ache of not knowing if the person who completely woke your body up is even *yours* anymore. When she looked back at her induction photo and realized she was the one who cut her own leg off—scissoring away the very part of herself that Pace built that gown to celebrate, just so her parents could stomach a safe, castrated version of her—I almost cried. She has outgrown that house, she has outgrown the safe girl who collected synchronized-swimming ribbons, but out in the world, she has no anchor.
+Vee picking a fight because she’s practically vibrating with panic over how much she loves him—and how asymmetrical it feels—is so painfully, brutally real. She’s spiraling because she gave him her “best sentence” on the porch two chapters ago, the most vulnerable thing she had, and he gave her back *“I love how good we are together.”* An evasion! A careful, terrifying evasion! So of course she picks at him. Of course she demands to go to a damn Chili’s on Route 460 just to force him into the harsh fluorescent daylight, just to test if she’s only a dirty secret or a body he keeps locked up in the woods.
 
-And the silence from Pace is killing me. "He left you the room. He always left you the room — a thing she'd appreciated once, and hated now." *God.* That hit like a truck. In a romance novel, you want the man who respects boundaries, who doesn't crowd, who doesn't stalk or harass you after a fight. That’s the dream! But when you walk out of a house after crying your eyes out, and that infinite patience and restraint turns into absolute silence for days over the holidays? It feels less like respectful room and more like an abyss. It makes you feel like you never mattered enough to chase.
+And then the Chili’s scene was so excruciatingly well observed. The sensory overload hitting him, the screens, the sports, the cheap salt-and-yellow-dye nachos tasting like literal cardboard and ash to her now because *he* ruined her palate for anything less than real attention and real care. She wanted to prove he didn't want to be seen with her, but what she actually proved was that the outside world is loud and stupid and doesn't know how to hold them. When he told her, *"In a room like that I listen as hard as I know how and I still can't hear you... I'm listening now,"* I nearly put my hand over my mouth. That’s him. That’s the core of why I love Pace: he doesn’t get defensive, he doesn’t posture, he just tells the absolute, quiet truth and listens.
 
-And seeing the other side of that text exchange between her and Randi made me feel sick with dramatic irony. Vee is lying there imagining Randi living this dazzling, effortless fairy tale with a billionaire, while we *just saw* Randi in Chapter 47 feeling hollow, cold, and dead inside, clutching her phone just to send a crumb of fake gloss to Vee while secretly thinking of Pace and Vee. Vee envies Randi's performance, and Randi is quietly suffocating inside it.
+*Except.*
 
-The spiral into jealousy broke my heart—watching her take her absolute best, sacred memory (him cooking fra diavolo while she sits in the sheet) and literally torturing herself by pasting a fantasy blonde into it. She is so starved for certainty. I am begging them to get back to campus. They need to be in the same room. Pace needs to open his mouth, and they need to collide, because this distance is poison.
+Except the lie of omission is poisoning the well, and she can feel the poison even if she doesn't know the name of it yet! That’s the tragedy of that ending. She gets the incredible, breathless sex—she gets him losing his legendary control, undone by her, pouring into her—and instead of floating, she lies there in his drying sweat feeling the cold dread of having no name for him. She’s realizing that great sex and tender attention can still be a cage if you don't know where you stand. She’s his, but does she have *him*?
 
-GATE 48 — Old Acquaintances
+She doesn’t know about Randi. She doesn’t know about the setup. But her gut is screaming at her that something foundational is missing, that he’s holding the ultimate door shut. She thinks it’s just the words *I love you* or *boyfriend*. She has no idea the real secret sitting in the dark of that house. It makes the tenderness between them feel so fragile and tragic, like glass about to shatter. I need to be there when the hammer falls.
+
+***
+
+GATE 48 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological agony of being suspended in relationship limbo over New Year's Eve felt brutally real, and now I desperately need them back on campus to face the aftermath.
+WHY: The emotional ache of her wanting the words he won't say—and her intuition warning her that something is fundamentally unbalanced—makes the intense heat and the looming secret almost unbearably gripping.

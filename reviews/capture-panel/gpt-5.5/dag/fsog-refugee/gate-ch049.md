@@ -1,23 +1,23 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~c1f15218cc12 · 2026-09-11*
+*capture-dag-v2-rich · gate ch049 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d6bbb290a65b · 2026-10-07*
 
 REACTION —
+Oh, this one hurt in that very small-hours way where nothing technically happens and somehow everything happens.
 
-Oh, Pace.
+The shirt has been such a tender object up to now. I loved it when she asked him to wear it again. I loved that he understood and didn’t tease her. And now the book turns it, not cruelly, but honestly: the shirt can hold his smell, his care, all the proof of what he does, and still not answer the thing she needs answered. That got me. Because that is exactly the trap, isn’t it? Evidence everywhere, and no name for it. Warm rooms, food, attention, sex, the drawer, the shirt, all of it real. But when she is alone in the bunk bed, it cannot stand in for the words.
 
-I have been angry with him, and I still am, but this chapter got under my ribs because it finally gives me the thing I needed from his side: not an excuse, exactly, but the shape of the fear. He knew. That matters so much. He knew on the porch that she had offered him something huge, and he knew his answer was smaller, and he chose it anyway because he was scared. That is awful, and it is also so painfully human that I can’t hold it at a clean distance.
+And I was so proud of her for not texting. Not because she shouldn’t want him, but because she knows, even half-wrecked and sleepless, that a text would only get her another small warm answer. It would soothe and fail her at the same time. That felt painfully adult, actually. The part of her that understands she cannot beg a definition out of him by sending some little “are you awake?” into the dark.
 
-The whiskey and bleach at the start made me wince. Not melodramatic, not sexy broken-man nonsense, just ugly and physical and useless. I believed every bit of that misery: the shower that doesn’t help, the chicken and broccoli that is technically food and spiritually punishment, the body needing things the mouth doesn’t want. And then, of course, he remembers feeding Vee. Not just having her, not just sex, but the first bite. That made me ache because it’s so exactly how he loves. He watches pleasure arrive in her before words. He has been fluent in her body and her hunger from the beginning, and somehow still acted like words were beneath the real thing. No, sir. The words are part of the meal.
+Taking the shirt off was devastating. Not dramatic, not thrown, not a breakup gesture. Just: this comfort has become another kind of loneliness. The line about the warmth being her own, given back, made my stomach drop. That is the whole fear. That she is making a home out of reflections. That he gives her so much, but the meaning might be something she is supplying alone.
 
-Daphne finally explains a lot without letting him off the hook. I can see how a young Pace would decide language itself was the fuse. Say it and the loss becomes unsurvivable. Don’t say it and you can get up the next day. It’s tragic logic, but it is still logic built around protecting himself while Vee stands outside the house crying. And I’m glad the chapter knows that. It doesn’t romanticize his silence. It calls it weakness. He calls it weakness. Thank God.
+I still love Pace, which is making me mad at him now. Because the care is there. The care has been there in ways I believe. But this chapter made me feel the cost of his silence in Vee’s body. Not as some abstract communication problem, but as a naked girl lying cold on a top bunk because wearing his shirt hurts more than being bare. That is a brutal image. And it is worse because I can’t even say she’s overreacting. She has tried to tell him. He didn’t meet the shape of it. Now the ache has gone private, and private aches grow teeth.
 
-The line that really got me was him hearing an engine and becoming all body toward it before he even knows he’s moved. That is love. Not the polished kind, not the controlled kind, not the little “believe what I do” speech. Just helpless hope. And then the truck going past. I hated how much I wanted Vee to be in that driveway, and I hated even more that I don’t think she should have been. He needs to come to her awake, not be rescued by her arrival.
+Also Cassie sleeping below her just killed me a little. Cassie is right there, the good witness, and Vee is alone anyway. I wanted her to climb down. I wanted her to wake Cassie. I wanted someone in that room to know she was bare and freezing and heartbroken over a shirt.
 
-I am still worried about the bigger secret. This chapter makes me softer toward Pace, but it does not erase the original arrangement with Randi. If anything, it sharpens the problem: he knows what hiding does. He knows what withholding costs. So he has fewer places to hide from that now.
-
-But yes, I’m captured. I’m mad and sad and very much still here. The book has finally put him on the hook from inside himself, and I needed that.
-
-GATE 49 — Not Enough
+GATE 49 — Bare
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: This is exactly the kind of emotional payment I needed after Vee’s hurt: not instant repair, but Pace understanding that his silence was fear and that it harmed her. I’m still holding him accountable, but now I’m desperate to see what he does with that knowledge.
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: "He wasn't in it."
+WHY: This pulled hard because it finally made the missing words feel like a real injury, not just a future problem. I’m anxious now in exactly the way that keeps me reading: Pace needs to either come forward or lose the right to all this tenderness.

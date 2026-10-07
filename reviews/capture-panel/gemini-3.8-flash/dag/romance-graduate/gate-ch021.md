@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch021 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0894d4db7f65 · 2026-09-19*
+*capture-dag-v2-rich · gate ch021 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1f134f523a50 · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh, this chapter was *filthy* in the absolute best, most joyful, human way imaginable.
+Oh, my chest hurts. My actual, physical chest hurts.
 
-Romance so often treats sex like a choreographed gymnastics routine where nobody ever trips, nobody giggles, and everyone’s fluids vanish into thin air. The logistical panic of *"Wait, the dress!"*—her hooked on his hip, completely soaking wet, having to back him out of her, holding a massive, dripping cock in both hands while he tries to peel silk over her head without getting a single drop of her on the custom fabric? And then her realizing he *twitches* when she talks about him being covered in her, and she just keeps saying it to make him jump until she’s laughing so hard she’s sliding off his waist? *God.* That is so real, so hot, and so absurdly charming.
+This was barely three pages, practically a vignette, but it hit like a freight train because of the contrast. That sunny, crisp October morning, the smell of brown-milk cereal, the familiar stick of the dorm door—the pure, mundane safety of college life—and Vee standing right in the middle of it, completely colonized by the night before.
 
-And then the fingers. Wiping her hands on his ribs, asking if they’re clean enough to touch the dress, and this massive, terrifyingly disciplined man taking her wet fingers into his mouth to lick her off him, looking her dead in the eye until her knees turn to water. I had to put my hand over my mouth. The heat in this book is just on another plane because it lives inside the details.
+The detail of the zipper at her hip made my breath catch. She reaches to unzip her skirt to grab a shower, pulls it halfway down, and suddenly remembers: *there is nothing underneath.* She literally gave her wet underwear away to a man she met two weeks ago, drove home completely bare under her clothes with frosted plum polish on her toes, and now she can’t even undress in front of Cassie—her anchor, the girl who holds her secrets so they don't break.
 
-The dress itself is a masterpiece of psychological bait. The way it’s cut—built so perfectly to her actual dimensions that the only way to wear it without ruining the line is to take off her underwear. He didn't tell her to go commando; he just built a slit up to the jut of her hip that made panties look like an apology, and let her own vanity and desire do the rest. She thinks stripping off her underwear to walk to him is *her* bold, brazen choice. And her daydream at the end—picturing walking into the sorority induction, outshining every girl in safe navy, being looked at and reveling in it—she is totally drunk on the high of being chosen, being transformed, being worshiped.
+Watching Vee lie to Cassie by omission—lifting the middle out "clean as she went, the way a ladle takes soup from the pot and the surface closes without a hole"—made me feel so sick and so tender toward her at the same time. She tells herself editing the truth is a "kindness" to Cassie, but it’s not. It’s Vee hoarding the heat, protecting the delusion, keeping the raw, shameful, intoxicating reality of what she did locked away where no one can shine a sensible light on it. Cassie calling him her "boyfriend" was such a knife twist. *Boyfriend.* Cassie thinks this is a sweet little romance where a guy cooked chicken fra diavolo and they shared a nice bottle of wine. She has no idea Vee was on her knees, being dismantled, handing over trophies.
 
-He didn't just make her a dress. He tailored her ego. He handed her a costume for the woman she desperately wants to be, and she is marching right into the trap with a smile on her face, feeling like she's "getting away with something."
+And that final image: Cassie leaving for her game, the room going cold and quiet, and Vee dropping the skirt to stand there totally naked, the smile refusing to come down. "She had never in her life been so happy."
 
-I am simultaneously melting over how sweet and funny they are together, and sweating because I know whose hands that dress is ultimately going to end up in.
+God, that last line is pure tragedy disguised as triumph. It is the highest drop of the roller coaster before the bottom falls out. She is so high on her own perceived liberation, totally unaware that the trap has snapped completely shut around her. Give me the next chapter right now.
 
-GATE 21 — Peekaboo
+GATE 21 — Toenails
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The clumsy, hilarious, intensely hot logistics of saving the dress while already half-fucking had me grinning, and the sheer psychological craft of how he made her strip herself bare without saying a word is breathtaking.
+WHY: The tension of the zipper stopping halfway down when she remembers she's bare-assed under her skirt was absolute perfection. It’s a tiny bridge chapter, but the psychological shift—Vee starting to actively keep secrets from Cassie to protect her delusion—hit hard. I'm desperate to see who she runs into next.

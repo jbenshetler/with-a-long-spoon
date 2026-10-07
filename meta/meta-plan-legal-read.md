@@ -61,7 +61,7 @@ the dorm/undergrad framing — it **explains** it, closing the "why is an
 undergraduate 21" inference that the Bible guards in canon but no reader could
 reach. The lettered dorm/bunk/school-night rows need no individual mitigation.
 
-Secondary, indirect: `across.md:23` (ch056) — Vee orders mimosas while Kayla,
+Secondary, indirect: `across.md:23` — Vee orders mimosas while Kayla,
 *"who was not twenty-one,"* gets orange juice.
 
 Note the boy/man framing at `may-i-choose.md:27` (*"That's not a boy. That's a
@@ -108,7 +108,7 @@ this before Volume 2 goes to any platform.
   nature is rendered only as **tenderness**: *"the one person in it who was his,
   who was tender with him, who was the soft middle of those two years"* (`:221`).
   No sexual act is stated, described, or narrated.
-- `not-enough.md:57` carries **the sexual naming and no ages**: *"She had been
+- `the-usual.md:207` carries **the sexual naming and no ages**: *"She had been
   his tutor, then his best friend, his first girlfriend, his first lover, his
   first love."* One word — *lover*. No age, no scene, no description; pure
   retrospective summary in Pace's interiority. **Volume 1, Draft complete**
@@ -128,14 +128,18 @@ lover / first love / older student across all 52 Volume 1 entries:
 | Chapter | Daphne | "tutor" | "lover" | ages |
 |---|---|---|---|---|
 | `rock.md` | :207 | :213 | — | **:213–221 explicit (15/19, 17/21)** |
-| `not-enough.md` | :51, 53, 55, 61, 67 | :53, 57 | **:57** | — (only *"He had been young"*, :53) |
+| `the-usual.md` (panel two) | :201, 203, 205, 211, 217 | :203, 207 | **:207** | — (only *"He had been young"*, :203) |
 | `the-bench.md` | :497 | — | — | — |
 
 **The concern set is two chapters.** Refinement to the claim above: the book
-never puts the sexual naming and the ages on one page, but `not-enough.md` does
-put *tutor* and *lover* together four lines apart (:53, :57), so **"tutor" is the
+never puts the sexual naming and the ages on one page, but `the-usual.md` does
+put *tutor* and *lover* together four lines apart (:203, :207), so **"tutor" is the
 hinge** a reader or a keyword scan would use to join that chapter to `rock.md`'s
-ages. Within `not-enough.md` alone there is no number — only "young."
+ages. Within `the-usual.md` alone there is no number — only "young."
+
+*(Line numbers re-pointed 2026-10-07: this audit scanned `not-enough.md`, which was
+merged into {{The Usual}} as panel two the same day. The prose is unchanged; the
+offset is +150.)*
 
 False positives, recorded so later passes don't re-flag them: `substitution.md:101,137`
 (Pace tutoring Vee in *math* — "not a math tutor's forearms", "a tutor's path")

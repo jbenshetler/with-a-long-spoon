@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 9782a926aac2 · 2026-09-19*
+*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · 2026-10-01*
 
 REACTION
 
-God, this gave me that hollow, sinking feeling in the pit of my stomach.
+*Oh, Vee.* My heart hurts for her, and at the exact same second, my neck is blazing hot.
 
-Cassie is the only anchor left in Vee’s entire life that isn’t rigged, and Vee doesn’t even realize she’s drifting completely out to sea. The contrast between this conversation and the brunch with Randi is sickening. With Randi, it’s all breathless, high-voltage confessions that push Vee deeper into the trap, weaponizing her arousal and her shame. With Cassie, it’s just the cold draft from a cracked dorm window, a beanbag chair, and the plain, brutal truth: *“You don’t come home school nights.”*
+The sheer, dizzying intimacy of this chapter almost makes you forget the guillotine hanging over her head. *Almost.* But that’s the trick, isn’t it? That’s why this book is ruining me. Because on the surface, this is an exquisitely sexy, deeply romantic, breathtakingly tender scene between a young woman stepping into her own brazen sexual power and a man who treats her like a work of art. The staging! Putting him in the recliner, turning the lamp up one click, walking down that dark hallway first in the silk and the four-inch heels—giving him the stride she gave the room—and then stripping it all off, hanging the dress carefully on the hook, and walking back out wearing *only* the shoes? *"And this is what I had on under it."* Jesus. The confidence, the playful, daring brat in her that only he has ever unlocked. She’s giving it to him like a gift.
 
-And Vee’s little slip—touching her own breast where the hot tomato dropped, revealing without meaning to that she’s walking around his house half-naked all the time, totally unguarded, completely consumed. He gave her a drawer. He keeps the house warm so she doesn't put clothes on. He cooks for her, watches her eat, nurses her tiny burns like she’s made of spun glass. It looks like absolute devotion. If you didn’t know the premise, if you didn’t know Daphne and the debriefs in his sheets with Randi, you would be swooning into a puddle right alongside her. It has every hallmark of the ultimate romance fantasy: the hyper-competent, utterly obsessed man carving out a sanctuary just for you.
+And Pace—god help me, the restraint of this man. Sitting back down when she puts her flat palm out. Staying in the chair. Letting the looking *be* the touch. He’s so impossibly good to her in these quiet domestic spaces. The dinner, the curry, washing the dishes so she can talk to his back, telling her that choosing between the silk and her bare skin is like choosing between sunrise and sunset. You want so desperately for this to just be a romance novel where the big, quiet, prodigy woodworker loves the brilliant, insecure redhead.
 
-Which makes Cassie’s quiet, flat *“Do you love him”* land like a slap.
+Except you *know*.
 
-Vee finally admits it out loud—or gives the terrified, breathless *“Maybe... I think so”*—and the tragedy is that her love is entirely real. Her awakening is real. Her hunger is real. But it’s blooming inside a terrarium built by two people who haven’t shown her the walls yet. Cassie knows something is off, not because Peter is doing anything overtly monstrous, but because Vee is vanishing. She’s becoming a "public utility," burning all her wattage somewhere else, letting her college life, her classes, and her roommate just recede into background noise.
+You know the shoes were picked out and buckled onto her feet by Randi on her knees in a boutique. You know the dress was constructed to force her to be bare underneath. You know that while Vee thinks she’s doing this brazen, private, autonomous striptease just for the two of them, she is literally performing the exact design Randi and Pace engineered for her. Every thread of silk, every inch of heel, every exposed curve of her hip. When he says, *"The other is for the world. This is just for me,"* the double meaning cuts like a straight razor. It’s *not* just for him. It’s for him and Randi. Randi is sitting like a ghost in the dark corners of that den, watching every move Vee makes.
 
-It’s a short chapter, but it’s the quiet reality check the pacing desperately needed after the high heat of the spanking, the costume reveal, and the sheer erotic humiliation of the bistro bathroom. It makes the walls feel like they’re closing in.
+The tragic, intoxicating beauty of it is that Vee really *is* choosing it. Nobody forced her to bring that garment bag from the car. Nobody told her to take off the dress and leave the shoes on. Her appetite is waking up, stretching its limbs, demanding to be seen and worshiped, and she feels so safe, so entirely cherished. The fall is going to shatter her into a million pieces, and I am strapped in until the bitter end.
 
-GATE 36 — School Nights
+GATE 36 — Made-Up
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Cassie is the only genuine tether Vee has left, and watching Vee try to explain a terrifyingly orchestrated consumption as "he makes the house warm" is deeply compelling dramatic irony. The trap is shut, she loves him, and the floor is eventually going to give way.
+WHY: The tension between Vee’s genuine, heart-swelling sexual awakening and the invisible, predatory trap she’s dancing inside of is peak psychological erotica. It’s devastatingly tender, scorching hot, and so tightly wound I couldn't put it down if I tried.

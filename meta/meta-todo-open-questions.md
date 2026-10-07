@@ -520,8 +520,8 @@ Both items land in the same chapter, so they want the same sitting.
 Volume One was exactly 50 chapters, so `ck-ch050` was simultaneously the last
 decade boundary *and* the volume terminus, and the cold-read harness pinned the
 Vol1→Vol2 feedforward seed to it (`SPEC.md`, "the ch-050 checkpoint is the
-frozen Volume One → Volume Two feedforward boundary"). Drafting {{Strokes}} and
-{{Not Enough}} moved Volume One's end to **ch052**, and those two roles came
+frozen Volume One → Volume Two feedforward boundary"). Drafting {{Strokes}} and *Not Enough* (merged 2026-10-07 into
+{{The Usual}} as panel two) moved Volume One's end to **ch052**, and those two roles came
 apart: `ck-ch050` now stops two chapters short of the volume, missing
 {{My Friend Randi}} and {{Nothing Underneath}}.
 
@@ -533,6 +533,12 @@ the drafted Volume Two chapters were read against it.
 
 > checkpoint seed policy for boundary 60 seeds from 'not-enough' (ch050), but
 > drafted Volume One ends at 'nothing-underneath' (ch052)
+
+*(Quoted verbatim as the harness emitted it. As-of note 2026-10-07: that slug no
+longer exists — *Not Enough* was merged into {{The Usual}} as panel two — and
+both numbers are two shifts stale (+1 at 43, −1 at 54). The seam is now
+`nothing-underneath` at ch055. **The open question is unaffected**; it is about
+volume length and decade boundary having come apart, not about these numbers.)*
 
 **The decision is the rule, not this instance** — volume length and decade
 boundary have permanently come apart and will diverge again on the next
@@ -593,8 +599,7 @@ What the tool should do:
 
 Existing material: `audits/timeline/report.md` is a whole-book agent-driven
 sweep (734 claims, 9 findings) — good as a spec for what the tool should
-reproduce deterministically, but **stale**: it predates {{Strokes}} and
-{{Not Enough}}, so its chapter numbers are off by the insertion drift.
+reproduce deterministically, but **stale**: it predates {{Strokes}} and *Not Enough*, so its chapter numbers are off by the insertion drift.
 
 Open leads for it to consume: `audits/timeline/pending-from-fact-audit.md`.
 

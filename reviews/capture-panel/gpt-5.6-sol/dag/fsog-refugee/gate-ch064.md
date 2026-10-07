@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch064 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~0b898fc22a01 · 2026-09-12*
+*capture-dag-v2-rich · gate ch064 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~f697ae9ef8f2 · 2026-09-12*
 
-REACTION — Oh, this is the thing I have been hunting for. This exact impossible combination: he makes her hold still, makes her wait, turns obedience into sensation—and the whole time her desire remains visibly, noisily hers. She opens her own legs. She teases him on purpose. She ruins his solemn little artwork with her breast and he laughs. She asks for the photograph. Even the stillness isn’t her disappearing; it’s her discovering that she can stop fighting to manage every second because she trusts him to hold the shape of it. I was completely gone.
+REACTION
 
-And the painting. God. Not because it was elegant—it sounds wonderfully ridiculous—but because he made abundance the subject. He didn’t merely reassure her that her body wasn’t “too much.” He looked directly at everything she has been trained to minimize and said, essentially, *more is the point*. “His paint only said where to look” nearly undid me. Then he photographed her only because she asked, showed her the image, and left it entirely in her possession. That tiny fact may have been the most intimate thing in the chapter. He created an image of her at her most exposed and treated ownership of it as unquestionably hers.
+Oh. Oh, this is so much worse than I was prepared for, because it is also exactly the kind of sex I have been waiting for this book to give me.
 
-The brush between her legs was almost unbearably hot, especially once she understood he was using her own wetness as the ground for the painting. It hit exactly where her shame lives, but he wasn’t humiliating her or treating her response as evidence against her. He made what she cannot contain useful, beautiful, necessary. And when she couldn’t hold herself still by force, she found surrender instead—not surrender of consent, but surrender of effort. That distinction matters enormously to me. I believed the safety of it because this is the man who stops when she moves, waits for her to settle, and has already shown that he can hear which no is which.
+Pace stopping after every shift, watching Randi, hearing her, making her wait without ever making her disappear—yes. That is the control I want. “I said all right.” “I heard you.” That got me. He can dominate a woman who is already fully present and fully choosing, and Randi can hand him her weight without surrendering her personhood. Even the turn at the end, when she takes his hands off her waist and moves under her own command, feels like two people who know each other’s power intimately. I felt all of it.
 
-I loved her taking care of him first, too. Her pleasure in his pleasure did not make her secondary; she felt powerful, delighted, almost triumphant. His hands stayed gentle in her hair. Her mouth was directing the scene. Then later he took her hard because they had both arrived there together, and she reached for his mouth herself. This chapter made me feel her desire from the inside rather than arranging her body for me to inspect, even though the entire chapter was literally about looking at her.
+And I am furious.
 
-But there is one splinter I cannot ignore: his original request that she be waxed. He asked, yes, and waited for an answer—but he gave her no reason, and she experiences her own yes as something that “couldn’t be called back.” I do not accept that. A yes can always be called back. The salon experience hurt and exposed her far beyond what she understood she had agreed to, and tonight’s beauty does not retroactively make that fine. Pace does not know what the afternoon cost her. I need this book, eventually, to understand that asking once is not magical absolution when she is so eager to please him that her mouth says yes before she knows the question.
+They are in bed together talking about Vee. Not vaguely. Not reminiscing. Randi is confessing what she wanted to do to Vee’s breast, and Pace is using that confession to bring her off. Pace tells her Vee looks at her too. He knows. Of course he knows. They are sharing Vee’s awakening between them while Vee is alone in a dorm room trying to cross the last inch to her own fingers, believing Randi is merely the wise friend who somehow always understands.
 
-And then Randi entered the bed without entering the room. Of course Vee reaches for the phone. Of course her first instinct after seeing herself magnificent is to imagine Randi seeing her. She cannot summon Randi’s words, only the breath before them, and that is so nakedly desire that I wanted to shake her. This is not merely wanting best-friend approval. She wants that low, hoarse voice. She wants to know what this image would do to Randi.
+“She kisses me first now” made my stomach drop. That is Vee’s tender, confusing discovery, and Pace hands it to Randi as erotic information. Then “She makes me happy” breaks his control—as if their shared love of Vee makes what they are doing beautiful enough to excuse the fact that Vee does not know this room exists. It doesn’t. Their feelings are real. Their sex is warm, mutual, playful, and intensely consensual between the two people actually present. Vee is still being used as the third person in it without informed consent.
 
-“She would not be telling her about this” guarantees she is going to carry it into tomorrow like a live coal. And tomorrow belongs to Randi: the skirt, the mixer, whatever Randi has arranged. After an entire chapter about Vee becoming a still life under Pace’s gaze, I am suddenly very alert to who is arranging whom. I am ecstatic, suspicious, and absolutely not putting this book down.
+And Randi saying, “I want her to know exactly what she does to me”—I believe her. I ache for her. I want Vee to know too. But wanting Vee to know is not telling her. Randi keeps taking the emotional and sexual pleasure of confession while refusing to give the confession to the one woman whose choice it would change.
 
-GATE 64 — Still Life
+Then the ending deliberately answers Vee’s unfinished reach. Randi does everything Vee could not quite do, easily and proudly, and carries the taste of both of them back into Pace’s mouth. That is brutally intimate, and yes, it turned me on. It also makes Randi’s mild little “I don’t” at dinner feel almost cruel now. She knew exactly what she was placing inside Vee’s mind. She did not offer a neutral alternative; she quietly opened another door and stood behind it with Pace.
+
+What I would text at 1 a.m.: THEY ARE HAVING LOVING, CONSENSUAL SEX ABOUT HER WHILE SHE DOESN’T EVEN KNOW THEY’RE TOGETHER. I AM SO TURNED ON AND SO ANGRY I COULD BITE THROUGH THE BOOK.
+
+GATE 60 — My Pleasure
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-ALMOST-STOPPED: none
-WHY: This gave me dominance, tenderness, play, explicit heat, and a heroine whose pleasure and pride remained wholly her own. Now Vee is taking the private image Pace returned to her into a day that “belongs” to Randi while insisting she will keep it secret, and I need to watch that secret fail inside her.
+ALMOST-STOPPED: “You like hearing me want her,” she said.
+WHY: This gave me the tenderness, dominance, mutuality, and heat I read for, then made every bit of it morally unbearable by putting Vee’s secret self between two people who are still deceiving her. I need the truth to reach her now; I cannot look away before I see what she does with it.

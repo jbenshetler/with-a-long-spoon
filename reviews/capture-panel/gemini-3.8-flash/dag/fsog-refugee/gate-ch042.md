@@ -1,18 +1,28 @@
-*capture-dag-v2-rich · gate ch042 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha d75264abed57 · 2026-09-19*
+*capture-dag-v2-rich · gate ch042 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 97724b44da95 · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh, this chapter gave me chills for a totally different reason than the bedroom scenes. It’s quiet, it’s just the two of them over dining hall trays, but the psychological ache here is massive.
+Wait a second. What just happened?
 
-The title—*Cropped*—is brilliant and devastating. In chapter 39, she cropped the pinup photo for Randi and got laughed at for being a prude, so she gave Randi the full, naked truth. Here, she crops the picture of the burgundy dress for her parents so they only see her shoulders, and even *that* gets a disapproving collarbone-touch from her mother. She has to crop her whole life down to fit whatever frame the person in front of her is holding. For her parents, she edits out the sewing, the house, the sheer domestic weight of him, because "too good is its own kind of suspicious" and a man who sews silk gowns is "weird." For Cassie, she literally can't find the words at all.
+I am sitting here with my heart hammering, but half of it is pure, sickening deja vu. I read this exact brunch scene already. I literally wrote notes about it after Chapter 40! The eggs Benedict with the yolk running everywhere, the "sex pervert" absolution, the "hungry out loud" line, showing the cropped photo, Randi baiting her with *“Legs like yours, though—and you only gave him half?”*, handing over the full uncropped pinup to Randi, locking in the private Anthro class without Cassie, and chasing Randi's mouth at the curb—I *already saw this*.
 
-That line: *"Honestly, my dad would take it better if I told him Pace takes that dress off me than that he made it. Sex he understands. The sewing he never would."* That hit me right in the chest. Because the sewing *is* the intimacy. The sewing is the fact that this massive, brilliant man sat on a sun porch and tailored silk to the curve of her hip without asking for a thing in return. It’s the tenderness that terrifies people, not the sex.
+Did the timeline just snap backward to fill in the conversation after we saw the pinup being taken in Chapter 41? In 41, Pace was taking the picture and cooking the lemon chicken pasta. And now in 42, we are back at the Saturday brunch right after it, but the beats are so identical to what I was carrying from Chapter 40 that for three whole pages I felt like I was losing my mind, wondering if I was reading a revised draft or if Vee’s life is an endless loop of confessing her sex life over hollandaise sauce.
 
-And Cassie. God, I love Cassie so much. *"Is it that you can't say," Cassie asked, "or that you don't want to?" / "Both," Vee said. "Probably both."* And that final beat—Vee being grateful Cassie didn't push, and simultaneously wishing she had. Because Vee knows she’s in deep water. She knows that what she has with Pace can't be explained to the normal world without sounding insane or unbelievable. But underneath that, the terrible irony of the whole book is humming: her dad would be looking for the catch because "too good is its own kind of suspicious," and *there is a catch.* She just doesn't know it yet. She thinks she's keeping a beautiful, sacred secret from a skeptical world, when really the foundation of the secret was built by Pace and Randi. The isolation is setting in. She can’t tell her parents, she won’t tell Cassie, she gives pieces to Randi, and all the rest lives in that house with Pace. It’s breathtakingly sad and completely gripping.
+Putting the structural whiplash aside: god, Vee is walking straight into the blades.
 
-GATE 42 — Cropped
+*"Only if you promise you'll never share me with anyone."* That is what she told Pace in 41. She made him swear an oath to protect her, because having that picture out in the world is the most vulnerable, terrifying thing she could do. And then she sits across from Randi, gets nudged with *one* tiny little swipe at her pride—*“Legs like yours, though—and you only gave him half?”*—and she just hands it over. She betrays her own boundary, she hands over the exact collateral that keeps her exposed, all because she cannot stand the thought of Randi thinking she flinched.
+
+And Randi's reaction when Vee described how Pace loves her? That bright, unfixed look in her eyes, that catch in her breath she couldn't smooth over—that was *not* just a friend getting vicariously turned on. Randi is caught in the middle of whatever game she and Pace started. She knows Pace. Did she expect Pace to treat Vee like a project, only to hear Vee say he looks at her like she’s a girl with a body attached, not just an object? Is Randi jealous of Vee, or is she jealous of *Pace* having Vee?
+
+And then Vee chasing Randi’s mouth at the curb. *Leaning up the last half-inch after Randi as she started to draw back, taking a second of it for herself.* The book promised me an appetite that runs in more directions than one, and here it is. Vee is falling for both of them, and she thinks she's orchestrating every single step. "It's just us," she says about the Anthro class. Cassie is getting frozen out, Pace is waiting back at the house with dinner and unhurried hands, and Randi is driving off in the green Mercedes with a full-frontal nude photo of Vee in her head.
+
+The tension is unbearable because the trap is entirely set. Every single piece is in place. When this bomb goes off, the shrapnel is going to tear her to ribbons.
+
+GATE 42 — All the Time
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 9
-ALMOST-STOPPED: none
-WHY: The emotional honesty between Vee and Cassie is just as riveting as the bedroom scenes. Watching Vee realize how completely isolated she is—how she has to crop her life to make it fit anyone else's frame—amps up the tension for the inevitable fallout so well. I need to see what happens when she goes back to him.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: The profound sense of repetition in the first half—I genuinely thought I was rereading a chapter I'd already finished.
+WHY: The timeline looping back over the brunch conversation and the photo reveal felt repetitive after the notes I carried forward, but the psychological tension of Vee handing over her own secrets while chasing Randi's mouth has me hooked. I need to see the collision.

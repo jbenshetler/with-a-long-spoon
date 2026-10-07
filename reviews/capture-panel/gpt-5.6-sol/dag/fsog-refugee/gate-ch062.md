@@ -1,26 +1,18 @@
-*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~78023057031c · 2026-09-12*
+*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~80491aa34d7b · 2026-09-12*
 
-REACTION
+REACTION — Oh, Vee. She is dressing for Randi with “the same keyed-up gladness” she saves for Pace, skipping dinner because she knows Randi will feed her, carrying the story around like a gift—and she still cannot let herself put those facts in the same sentence. Meanwhile I am sitting here practically vibrating because her body has already worked it out. The shared wintergreen, the knee left against hers, the breathless walk with their arms linked, Randi’s hands on her waist, Vee kissing that exposed place on her neck because she simply wants to: none of that is friendship accidentally looking sexy anymore. Not to me.
 
-Oh, this got me. Not sexually at all, and I didn’t miss the sex for one second. The water on the folded paper towel, the pills, his old shirt pulled over her, the bread somehow existing by morning—this is exactly the ordinary tenderness that makes me helpless with him. He takes care of her when there is nothing glamorous in it, when she is barely conscious and cannot admire him for doing it. And that remembered kiss on her forehead, after he thought she was asleep, may be more intimate to me than half the things they’ve done naked.
+And Randi’s “I don’t” absolutely got me. The mildness of it was hotter than a performance would have been. She didn’t shame Vee or push her into agreeing; she just put her own desire on the table, plainly, and Vee’s body answered before the old rule in her head could get its shoes on. That is exactly the awakening I’ve been waiting for—the realization that what she called gross may actually have frightened her because it turned her on, and now that realization is tied to Randi’s voice. The two sentences following Vee home were perfect: Pace’s enthusiasm and Randi’s desire beginning to touch inside her.
 
-Then he told her he has one friend, and my heart broke—and immediately afterward my suspicion sat straight up.
+But I do not trust the route, and the grooming lecture made it impossible not to see what is happening. Touch creates bonds; gifts carry obligations; service is never merely service; watch who tends whom and you can map the power. Fine, Dr. Marsh, I am watching. Randi is taking Vee’s erotic stories and refusing every euphemism until Vee hands over the raw experience. She knows exactly how aroused Vee is. She knows how to keep her there. Then she offers a tiny personal confession calibrated to lodge in Vee’s body, and finishes by praising her choice of the man Randi helped place in front of her. “You picked well” made my skin crawl because Randi knows Vee did not pick from an honest field—and Vee nearly notices that herself before politely waving it away.
 
-Because I believe him about the loneliness. Completely. That account of missing the one brief window when boys learn friendship through ordinary competition felt horribly true for this particular strange, brilliant, displaced man. And the innocent questions with gaps under them—Christmas, parents, somewhere to go—hurt terribly. He has made a philosophy out of not calling deprivation tragic, just as he made Daphne into luck because admitting what it cost might undo the only love he had. Vee sees that now. She sees the beloved experience and the wrong adult shape of it at the same time, and I’m so glad she does not flatten either truth to make the other easier.
+That is the torment: I want Randi and Vee so badly. I felt that neck kiss. I felt Randi’s uneven breath and that involuntary rise she disguised as ticklishness. I believe her tenderness, her desire, and her delight in Vee completely. But Randi is still enjoying access to a woman who does not know what she is consenting her way toward. “That’s my girl” thrilled me and alarmed me in exactly equal measure.
 
-Her hug was perfect. She didn’t pity him, didn’t demand disclosure, didn’t make him reassure her. She simply crossed the distance and held him with her whole weight. That is love, whether either of them will say the word or not. And the echo of Sheri’s hug absolutely finished me: Vee understood what that embrace meant and answered it in the same language.
+And underneath all this, I have not forgotten that Pace still did not answer the question that broke Vee. She says they “talked all night,” but what I saw was sex, pancakes, “I missed you,” and such exquisite care that she no longer had room to want the missing words. Now “boyfriend” has soothed another layer of the wound. It means something, and I loved him saying it publicly—but he still owes her the truth. The book is giving Vee everything that feels like an answer while withholding the answer itself, and I am helplessly, angrily hooked.
 
-But, Pace. “My one friend”? Where is Randi inside that sentence?
-
-Maybe he truly does not classify Randi as a friend. Maybe she is lover, partner, co-conspirator, some category so foundational or dangerous that “friend” would be inaccurate. But Vee hears “one person in the world,” and he knows she hears it. She is grieving that he had nobody after Daphne while Randi is presently in his bed, sharing his secrets and helping shape Vee’s life. He lets Vee build an entire emotional understanding around an absence that is not actually empty. That makes this exquisitely tender chapter feel almost cruel underneath.
-
-And Vee’s certainty that Sheri is safe because she “could never want him” made my stomach turn—not because Sheri secretly does, but because Vee is unknowingly identifying the exact condition under which she thinks Pace can keep a woman close without romantic complication. Randi blows that condition apart. The revelation is going to reach backward and contaminate this beautiful morning: the bread, the loneliness, the hug, all of it. Not because his pain is false, but because he accepted comfort generated by a false picture he chose not to correct.
-
-I would text a friend: “This man baked her cinnamon-raisin bread while she slept off cider, confessed he has one friend, and let her hold him—and I am crying while also yelling WHERE THE HELL DID YOU PUT RANDI IN THAT SENTENCE?”
-
-GATE 62 — Hangover
+GATE 58 — A Clean Plate
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: The care between them was so real that I would happily have stayed in this quiet kitchen all chapter. But “Sheri’s my friend. My one friend” is an enormous, suspicious omission, and now I urgently need to know what Pace believes Randi is—and how much truth he knowingly let Vee replace with tenderness.
+WHY: Vee’s attraction to Randi is finally becoming impossible to keep outside her own body, and I need the next inch of recognition immediately. I’m deeply uneasy about how deliberately Randi is guiding it—and about Pace’s unanswered silence—which is exactly why there is no chance I’m putting this down.

@@ -1,21 +1,26 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~025d1b3f1ab8 · 2026-09-11*
+*capture-dag-v2-rich · gate ch044 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-07*
 
 REACTION —
 
-Oh, this one hurt in the quietest, cleanest way. Not dramatic hurt. The kind where you are awake at four in the morning and the object that comforted you yesterday suddenly turns into evidence against you.
+Oh, Vee. I loved her so much here.
 
-The shirt getting stripped down to skin should have been exactly my thing. It has been my thing, honestly. His smell on her, the private wearing of him, the way she has made his clothing into almost a sacrament. But the chapter turns it on her, and on me. Because the shirt can only give back what it has. It can smell like his care, his body, his work, his house, his hands. It cannot answer. It cannot choose her out loud. It cannot say what he will not say.
+This chapter is not sexy in the obvious way, but it hit the exact part of me that has been waiting for Vee to become not just desired but *discerning*. She sees Randi. Not the performance, not the gorgeous beam, not the woman who always knows more and has the line ready. She catches the blank space behind the face. And the thing that really got me is that she does not pounce on it. She does not make it a scene, does not demand confession, does not turn Randi’s hurt into intimacy she can collect. She just gives her something to do with her hands. That felt so quietly grown-up and tender that I almost had to put the book down and stare at the wall.
 
-And I hated, in a very specific aching way, that line of thought where she realizes the warmth is hers. God. That is such a small devastating betrayal: not that he did anything cruel, but that the comfort she was using as proof becomes only her own body heating an absent cloth. That is the exact nightmare of loving someone who is generous in every language except the one you need most. You start wondering how much of the warmth is actually them and how much is you, wanting so hard that anything can become an altar.
+And that is new between them, or newly balanced. Randi has been the one drawing Vee out, naming Vee, steering the little doors open before Vee knows they are doors. Here Vee protects Randi’s privacy before Randi even knows she needs protecting. I have been needing Randi to be less all-powerful in this triangle, less the beautiful woman with all the information, and this chapter finally tipped her into vulnerability without humiliating her. It made her more real to me.
 
-I am still not off Pace. I’m not. I can’t pretend I am. He has earned too much with me in the rooms where he is present. But the book is making me feel the cost of his not-saying now, not as coyness, not as masculine restraint, but as a real deprivation. Vee is naked in the cold because wearing him has become worse than being bare. That is not a tantrum. That is her body refusing the substitute.
+Cassie, too, was so Cassie in a way I respect and flinch from. Her dad got laid off in 2020, and there it is, a stone on the table. She is right, and she has earned her rightness, but because she does not know what Vee knows, that rightness almost cuts Randi open. Nobody is wrong here, which is the awful little ache of it.
 
-And Cassie sleeping underneath makes it worse somehow. Vee is not in some gothic mansion, abandoned by the world. She’s in a dorm room with another girl breathing below her, ordinary heat in the pipes, ordinary college life around her, and she is alone inside this enormous unnamed thing. I wanted her to wake Cassie. I wanted her to climb down and say, “I don’t know what I am to him.” But of course she doesn’t. She goes bare instead. She lets the cold tell the truth because nobody else will.
+And the title, *The Outlier*, yes, obviously the data point, but also Randi. She is the outlier in Vee’s life, the glamorous impossible exception. And then suddenly she is attached to a grubby, ugly number. Not above the mess after all. Not just the girl who orders without looking at prices, but the daughter of people who may have done something cruel and called it business.
 
-This chapter did not turn me on. It made all the erotic charge of the shirt curdle into loneliness. And I respect that. I’m scared now in a more intimate way, because this is not about whether Pace can touch her beautifully. He can. We know he can. This is about whether he can meet her where language is required. And if he can’t, all that tenderness starts to become a room with no door.
+I’m also very aware that Vee notices “There could be no other Miranda,” and chooses silence. That is love, or close enough to scare me. Not romantic confession love, not yet, but the kind where another person’s shame becomes something you cover with your coat before anyone else sees it. For me, that is a bond turn. That is heat of another kind.
 
-GATE 44 — Bare
+Did I miss Pace? A little, yes. I am always tracking how long since she and Pace have been alone in a room, because I am me. But I did not resent the absence. This was the kind of quiet chapter that earns its place because it changes how I feel about the women. Vee is not only being awakened now. She is awake enough to be kind.
+
+GATE 44 — The Outlier
 DECISION: CONTINUE
 CAPTURE: 8
+NEXT: 8
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: It pulled me hard because it took one of the most intimate symbols between them and made it fail her. I’m staying because Vee’s need has become too clear to look away from, and because I need to know whether Pace can answer in words before the secret arrangement detonates everything.
+WHY: This pulled me hard through emotional attention, not erotic charge. Vee seeing Randi’s hurt and choosing discretion instead of possession made me trust Vee more and want the next chapter badly, because now the Randi thread has real tenderness under the danger.

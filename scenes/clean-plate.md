@@ -128,7 +128,7 @@ Then, quieter, from behind the glass, the part she could stand to give: "I told 
 
 "So he drove me home." The sanded version again, her eyes going soft on it. "One wrist on the wheel the whole county road, never a word. And I couldn't wait. I put his hand where I needed it."
 
-"Where you needed it." Randi turned her glass a slow quarter. "Over your jeans."
+"Where you needed it," Randi said. "Over your jeans."
 
 "…I'd gotten them open." Barely out.
 
@@ -188,7 +188,7 @@ Randi's mouth curved.
 
 "After I started it, entirely. And Randi." She leaned in. "He looked *puzzled.* I have been looking at that man's face since September and I have seen it do maybe nine things, and I have never seen it puzzled. It was like catching an eclipse."
 
-"So you have the wet hands, the apron, the puzzled look." Randi turned her glass a slow quarter where it stood. "And a decision to make."
+"So you have the wet hands, the apron, the puzzled look." Randi fed the edge of the glass in under a nail and bore down on it. "And a decision to make."
 
 "I'd made it. I got off the stool and walked out of the kitchen. Didn't say a word, didn't look back."
 

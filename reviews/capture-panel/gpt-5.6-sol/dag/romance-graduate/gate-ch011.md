@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha e651e6e0a867 · 2026-09-27*
+*capture-dag-v2-rich · gate ch011 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 1d8b07a3a421 · 2026-10-01*
 
 REACTION
 
-Oh, this is how you steal a girl from the person who actually loves her: not by making her choose, but by giving her a flattering explanation for why the other friend doesn’t belong. Vee did that work herself—“not her place”—and Randi barely had to touch it. Cassie seeing Randi reach for Vee, folding whatever she felt away, and leaving without making Vee pay for it hurt horribly. I am already mourning a friendship Vee doesn’t realize she’s neglecting.
+Oh, Randi is *good*. Pretending not to remember Pace’s name when she selected Vee for him, inventing the disastrous date, then drawing Vee’s experience out of her one careful admission at a time—she is conducting this conversation while making it feel like intimacy. And the most frightening part is that it *is* intimacy. She isn’t faking the pleasure she takes in Vee. She is lying inside something real.
 
-And Randi’s invented disastrous date? Chillingly good. She gives Vee a blank romantic life to confide into while quietly describing the exact quality that makes Pace powerful: he listens, therefore he’ll take care of you “anywhere else.” She is priming Vee to eroticize what Pace does, then letting Vee experience every conclusion as her own discovery. That “And you let him” landed like a fingertip pressed directly onto a bruise. So did “Because you couldn’t not. Because of him.” Vee keeps trying to claim her choice—*I made an exception; I kissed him*—and Randi gently revises it into inevitability. That distinction is going to matter so much.
+I caught the little theft when Vee proudly said, “I kissed him,” and Randi translated it into “Because you couldn’t not. Because of him.” No. Vee’s version was that she wanted to and did it on purpose. Randi subtly moved the agency back onto Pace’s irresistible power, and Vee accepted the smaller story. That chilled me more than anything overtly predatory could have. This is how the trap works: not by forcing her, but by helping her narrate her own choices in the shape they want.
 
-The heat here was brief but real. “He’d ask, though,” with Vee’s hands moving over her thighs, followed by Randi dropping into her volume for “Ask and then ravish”—yes. There you are. That was the first instant I felt Vee and Randi knowingly inhabit the same erotic picture, even though Vee still thinks they’re only talking about Pace. Randi was beside her in it. Vee felt her there. I absolutely did too.
+And meanwhile Cassie is quietly being put outside. Vee deciding the smoothie place “isn’t really her place” hurt because that is exactly how social separation begins: nothing dramatic, every individual thought defensible, and suddenly your oldest friend belongs to the life you’ve outgrown. Cassie saw Randi holding Vee’s attention, folded whatever she felt away, and left without Vee watching. I absolutely watched.
 
-But the social stuff was even more exposing than the sexual charge. That smoothie shop is basically Vee’s entire wound turned into a room: elevated, visible, physically uncomfortable, covered like an apology, holding the safer imitation of Randi’s order. Then Brooke arrives and Vee instantly diminishes herself to protect Randi from the embarrassment of claiming her. God, that got me. And Randi knows exactly how powerful it is to contradict her publicly. “Vee’s my dear friend,” hand held in plain view, is both genuinely brave and an exquisitely placed hook. I believe it cost Randi something. I believe she spent it because she cares about Vee. I also believe she understood, down to the molecule, what that public choosing would do to a woman who is starving to belong. None of those truths cancel the others, which is why I’m still so caught.
+But then the hand. Damn it. Randi calling Vee her “dear friend” in front of Brooke was not part of some frictionless seduction script. It cost her social capital, Vee felt the cost without understanding its source, and Randi paid it gladly. That landed as romantic for me, full stop. Maybe disastrously romantic, but romantic. The whole chapter keeps making Randi’s manipulation and Randi’s genuine desire occupy the same inch of skin, and I cannot separate them cleanly anymore.
 
-Also: Brooke’s invitation meant nothing, and Vee knew it. She is not socially stupid. She reads the room accurately; she just cannot resist the relief Randi offers afterward. That makes this so much more painful than a naïve-girl seduction. Vee feels the deep water. Randi simply keeps being the boat.
+“Ask and then ravish” was hot precisely because Randi dropped into Vee’s private register for one beat and joined her inside the fantasy. Vee felt her there. I felt her there. This is the first time their shared erotic current seemed almost perceptible to Vee—not named, not consciously recognized, but bodily present between them.
 
-I would text a friend: “Randi just publicly called her a dear friend and held her hand in front of the sorority queen, and somehow it was tender, hot, manipulative, and possibly sincere all at once. Also Cassie is being edged out so quietly Vee thinks it’s healthy.”
+I would text a friend: *The glamorous girlfriend is secretly grooming the heroine for her boyfriend while falling in love with her in public, and I’m now emotionally compromised by the word dear.*
 
 GATE 11 — Dear
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was a bridge chapter doing predatory little miracles under the cover of smoothies and girl talk. I need the hike now, but I’m almost more desperate to see when Vee realizes that being picked by Randi is not separate from being picked by Pace.
+WHY: Randi is terrifying because every manipulation contains real tenderness, and the public “dear friend” was a genuine turn in their bond. I’m also watching Cassie get edged out one reasonable little choice at a time, and I need to know who notices first.

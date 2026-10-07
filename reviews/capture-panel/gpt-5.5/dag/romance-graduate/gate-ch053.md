@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~ec1574909bf3 · 2026-09-11*
+*capture-dag-v2-rich · gate ch053 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 29213b289a6d · 2026-10-07*
 
-REACTION —
+REACTION — Oh thank God, Sheri.
 
-Oh. Oh, that got me in a completely different place than the coat did.
+I needed somebody who knows Pace and is not dazzled by him to sit across from him with a burger and say the thing plainly. Not Cassie on Vee’s side, not Randi with all her hunger tangled up in strategy, but Sheri: small, sharp, wounded, funny, chewing through his defenses like fries. “Then not saying it matters more to you than having her” is the sentence. That’s it. That’s the whole indictment. I actually felt my shoulders drop when she said it, because finally the book let someone not be seduced by the beauty of his care.
 
-After the last two chapters, which were basically a match thrown into gasoline, I was ready for this to be a come-down chapter, and it is, but not in the empty way. It’s the aftercare of the aftercare. It’s Vee sitting naked in the kitchen, yes, delicious, obviously, but the real charge is that she’s talking and he has been keeping every scrap of her life. Not just her body, not just her appetite, not just the parts of her that belong to his house and his bed. Her people. Her little lines. Meg’s boots. Kayla talking the paint off a wall. That landed so hard for me because this is exactly the wound from Chili’s, isn’t it? She thought he didn’t want the public world of her, and now he says, almost casually, I want to meet your people.
+And of course I still loved him in this chapter, which is deeply inconvenient. The diner is exactly the kind of place where he makes sense: quiet, warm, old, sensory-manageable, unfussy. The thought that Vee might love it or never see it hurt me more than I expected, because it tells me he is still imagining her into his real life, just not saying the words that would let her stand there. He misses her. He wants her. He is not pretending. But he can lay out every brick of devotion and still refuse the one she asked for, and the book is not letting that be romantic anymore. Good.
 
-And the Cassie correction. God, that was quietly brutal in the best way. Vee goes immediately to Randi, because of course she does, because Randi has become the charged center of disclosure and glamour and planning and danger. And Pace says Cassie. Not as a rebuke. Not with a sermon. Just: bring Cassie too. And suddenly I felt the book itself put a hand on Vee’s shoulder. Yes, girl, remember the person who loved you before this got ornate.
+Sheri is such a relief because she loves him without serving him. She can say filthy things about Vee’s body, clock Randi instantly, steal his fries, and then land the knife exactly where it belongs. I also liked how her own heartbreak slid in without turning the chapter into a detour: Paige, the family thing, the Christmas call. It made her more than “truth-telling side character.” She knows what estrangement costs. She knows people can ask for the wrong kind of repair while thinking they’re being kind. So when she tells Pace he’s choosing not-saying over Vee, it has weight.
 
-I love that Vee’s first fantasy is a dinner with “real napkins,” and then she realizes the problem isn’t logistics, it’s translation. There is no table where nobody is being translated badly. That is grown-up social thinking, and I ate it up. She isn’t ashamed of Cassie exactly, and she isn’t ashamed of Randi exactly, but she understands class and comfort and performance enough to know a wrong room can make somebody spend two hours being “fine.” That little “She’d watched somebody be fine about it before. She wasn’t going to look at when.” Mm. There’s a whole bruise under that sentence.
+And Randi being called “the brunette” by Sheri made me sit up. Sheri noticed the harem-applicant look, and Pace saying nothing there is loud. He knows the third game is still hidden. He knows “not like that” is not innocence. I’m still waiting for that explosion, and every scene like this tightens the wire.
 
-And Pace. I am annoyed by how much I softened. I still have my arms crossed about the word, sir. I have not forgotten December. But this chapter gave me the thing I kept wanting: not a speech, but evidence that he understands her life extends past his door. He doesn’t just agree to meet the glamorous friend. He expands the frame. Cassie, Meg, Kayla, Theo. Theo! And he doesn’t puff up or do the jealous male nonsense, which thank God, because I would have thrown a pillow. “Bring Theo” is such a small adult miracle in this shelf of books.
+This was not a hot chapter in the physical sense, but it had charge because Pace had to sit still and be known. Honestly, watching a man who can do everything with his hands be unable to do one thing with his mouth is more gripping to me than another polished sex scene would have been right here. I am absolutely reading on. He has been diagnosed. Now I need to know whether he does anything with it.
 
-The best part is that Vee remembers the Chili’s lesson. She doesn’t drag him back into the kind of room that hurt them both and call it progress. She asks him to pick the place. That is not submission in the flattened way. That is care. She is learning the shape of him as much as he has learned the roster of her. And “Let me handle it” hit me as sexy in the competent way, but also emotionally soothing. Not “I’ll hide us.” Not “don’t ask me for public.” It’s: I’ll make a room your people can actually be in.
-
-I’m very aware Randi is glowing offstage in this chapter like a lit fuse. Vee’s delight at “You could meet Randi” is so pure and so catastrophically uninformed that I’m sitting here with my hand half over my face. Pace and Randi in a room with Vee’s friends? With Cassie there? With Kayla, who notices everything and talks until the walls confess? Yes please, immediately, and also I’m nervous. Because the whole book’s secret is made of people in rooms not knowing who already knows whom, and now Pace is basically building a room.
-
-GATE 53 — Back
+GATE 53 — The Usual
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was quiet, but it moved the emotional plot exactly where I needed it to go: out of the bedroom without losing the charge. Pace wanting her people, remembering them, and letting her trust him with the room pulled me hard, and now I badly want the gathering because it sounds like tenderness with a bomb under the table.
+WHY: Sheri walking straight through Pace’s beautiful excuses gave me exactly the pressure-release I needed after Vee’s cold room. The chapter is quiet, but it moves the emotional machinery hard: Pace misses Vee, Sheri names the cost, and Randi’s hidden place in the story gets brushed by someone outside the arrangement. I want the next chapter now because this finally feels like it might force him to act.

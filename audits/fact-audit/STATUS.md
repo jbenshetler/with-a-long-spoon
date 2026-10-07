@@ -44,12 +44,18 @@ Epub order. All reports below are **audited, none reviewed with the author yet.*
 | 9 | off-six-fourteen | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 10 | dear | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 15 | a-round | — | — | — | — | ✓ |
-| 50 | not-enough | — | — | — | — | ✓ |
+| 53 | the-usual | — | — | — | — | ✓ |
 
 **Chapters 11–52 are `pending`** (except the two sol-only rows above).
-`not-enough` is the pass's worked case — Pace waits and "his body gathered
-itself toward … a truck turning in" four lines before "her car finding the
-narrow drive," and Vee drives a car.
+{{The Usual}}'s second panel is the pass's worked case — Pace waits and "his
+body gathered itself toward … a truck turning in" four lines before "her car
+finding the narrow drive," and Vee drives a Corolla. **RESOLVED 2026-10-07**
+(`ca3a96c3`): the body now moves first, the wrongness lands whole and
+unspecific, and "he did not let go of it" holds the hope four lines past the
+knowledge. Scanned as `not-enough` at reader position 50; that chapter was
+merged into {{The Usual}} as panel two on 2026-10-07 and the row is renumbered
+to 53 — see `reviews/capture-panel/SPEC.md` on resolving old numbers through
+the title.
 
 Only two reports come back clean: `claude-opus-5/dear.md` and
 `claude-opus-5/may-i-choose.md`. **Every other report carries at least one

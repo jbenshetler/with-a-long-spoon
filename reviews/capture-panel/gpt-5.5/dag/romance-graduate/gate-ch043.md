@@ -1,17 +1,28 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~2a7036ffc678 · 2026-09-11*
+*capture-dag-v2-rich · gate ch043 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 94eb3254bb6a · 2026-10-06*
 
-REACTION — Oh, this one hurt me in exactly the grown-up place. Not melodrama-hurt, not “why won’t he just text her back” hurt, but that awful adult feeling of lying next to someone who has given you so much that you feel ungrateful for needing the one thing he has not given. I know that room. I know the way a body can be satisfied past reason and the mind still sits up in the dark like, yes, gorgeous, thank you, but what am I to you?
+REACTION —
 
-And I loved that the chapter didn’t let Vee be clean. She picks Chili’s like a little punishment, like a test she can deny is a test, and then the test becomes miserable for both of them. Her old “fine” life is dead in her mouth now, and that is devastating in a way I did not expect. Pace has not just awakened her sexually; he has ruined cheap nachos. Rude, honestly. But also: that whole restaurant sequence did something very precise to me, because at first I was mad with her. Look at him not looking at her. Look at him proving the fear. And then the fork, the screens, the noise, the effort of bringing his eyes back... oh. Oh, he is overstimulated. He is trying. And she is too scared to read him generously.
+Oh. Oh, I am in trouble with this book.
 
-Pace’s explanation was very him: not defensive, not flowery, just exact. “I’m listening now” got dangerously close to the thing without being the thing, and that is the whole torment. He keeps giving her near-enough warmth. Near-enough devotion. Near-enough language. I believe him, which is what makes it worse. If he were obviously withholding as a power play, I could plant my flag. But this feels more like damage or training or some private rule of his own, and Vee keeps trying to live on translations.
+I knew intellectually that Pace and Randi were together, obviously. The jacket told me, the notes told me, the whole book has been letting me feel the outline of it like a hand under a cloth. But being inside the room with them is different. It is worse. It is hotter. It is much, much sadder than I expected.
 
-The sex scene worked on me because it was not just heat pasted over conflict. It was the conflict, metabolized badly. Her wanting him to lose control because maybe that would prove something. His care becoming unbearable. Then he finally does lose control, and it is hot, yes, absolutely, but the book is mean enough to ask: okay, and after the orgasm, did that solve the language problem? No. Of course not. Her body gets the proof her heart asked for, and then her heart wakes up afterward and refuses the receipt.
+Because they are not scheming like villains. That would be easier. They are lovers who know each other terrifyingly well, and they are talking about Vee like she is a shared hunger, yes, but also like she is a real person whose sleep matters. That “Is she all right?” from Pace stopped me cold. I hated that I believed him. I hated that his ethical line is real and insufficient at the same time. “She consents every time or I’m done” is exactly the kind of sentence that makes him harder to dismiss, and also: she cannot consent to the third game if she does not know it exists, Peter. Sir. I am gripping the book.
 
-That last stretch is the reason I’m still fully caught. “She belonged to him... But did he belong to her?” That is the ache under this whole arrangement. Consent and appetite and care are all real here, but they are not the same thing as mutual claim. And the central secret is starting to feel radioactive now, because she is already drowning in namelessness without even knowing about the planned invitation. When she finds out there was a whole other name for what this was before she had one? I may need to walk around the room.
+And Randi. God, Randi. This chapter cracked her open in a way I have been waiting for and dreading. She keeps saying it is work, it is strategy, it is for the threesome, someone has to get Vee used to her mouth, and meanwhile she is coming apart because Vee came after the kiss. I almost laughed and then absolutely did not laugh. “I’m inspired by her. God, I want her.” There it is. There it finally is, naked before she can dress it again. For us. When she’s ready. Sure, babe. Sure.
 
-GATE 43 — Under the Rug
+The heat in this chapter is feral, but not in the usual romance-novel “look how explicit we can be” way. It is hot because it is emotionally incriminating. Pace asking “Do you like it?” while he’s inside Randi, and Randi trying to lawyer her way out of the truth with her whole body answering for her — that is exactly the thing I keep reading for and almost never get. The sex is doing character work without turning into a thesis. Bless.
+
+And the cruelty of Vee being absent and completely present. She is at brunch, in the classroom, in Randi’s hands, in Pace’s imagination, in the wet hair, the coffee cup, the goodbye kiss. She thinks those Saturdays are hers. Randi thinks they are hers. Pace knows they are Randi’s and tells her so, which is somehow tender and awful. They are both loving Vee through a one-way mirror.
+
+The last section got me harder than I expected. Randi saying nobody knows her like Pace does, that it makes her feel real and frightens her — now I understand why she is so dangerous. She is not just bored and predatory and glamorous. She is starving too, just in a sharper dress. Pace sees her, and Vee makes her feel. That is a disastrous combination. Delicious. Terrible.
+
+I would text a friend: “THE WOMAN SAID IT WAS WORK AND THEN CAME. I need to lie down.”
+
+GATE 43 — Four
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: This chapter gave me heat with consequences, which is exactly why I bought the ticket. Vee’s fear is no longer decorative; it is starting to grind against the pleasure in a way that feels emotionally serious and dangerously readable.
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "She consents — every time — or I'm done."
+WHY: That line almost made me throw the book because it is so nearly right and so catastrophically incomplete. But the chapter knows that; it lets the tenderness and the ethical failure sit in the same room, sweating. I need the next chapter immediately because now Randi’s wanting is out loud, even if she tried to stuff it back into “for us,” and Vee is the only one who doesn’t know what room she’s already in.

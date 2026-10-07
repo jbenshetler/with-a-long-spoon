@@ -1,18 +1,22 @@
-*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha f261fc6f0775 · 2026-09-26*
+*capture-dag-v2-rich · gate ch009 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3cfa40cceb07 · 2026-10-01*
 
-REACTION
+REACTION — Oh, this is exactly the thing I came here for. Not the kiss by itself—the room he keeps leaving around her. The text she doesn’t have to answer immediately. The menu he chooses only after she asks him to. The way he asks what she won’t eat, takes her yes seriously, and then gives her something better than she knew how to request. Even the first kiss: she says no, and he simply accepts it. No coaxing, no wounded performance, no treating her rule as foreplay. He is genuinely leaving. So when she stops him, it is unmistakably hers.
 
-Oh, this got me. The food got me almost as much as the kiss, honestly. “May I choose?” and then his taking the choice seriously—asking what she wouldn’t eat, paying attention, giving her something better than she knew how to order—was exactly the kind of control I want to read. She gets to hand something over; he understands that as care, not entitlement. And watching her eat until she wasn’t watching herself eat anymore felt incredibly intimate after everything we know about how she restricts herself. That line about the hunger being older than noon hurt.
+And then he leaves her that last inch. God. That is the whole promise of this book in one tiny space: he could close it, she wants him to close it, and he still waits. Her wanting gets to become an action rather than something he extracts from her. The second kiss got me far more than a more explicit scene might have, because she chooses it twice—first the exception, then more.
 
-Then she says she doesn’t kiss men she’s known only a couple of days, and he simply accepts it. No coaxing, no wounded performance, no “you know you want to.” He starts walking again. That is what makes her stopping him so hot: the exception is genuinely hers. He leaves her the last inch twice, and each time she crosses it. I have been looking for this exact combination of intensity and room to choose for years.
+The dinner made me ache, too. She isn’t merely hungry because she skipped lunch. She is exhausted from monitoring every appetite she has, and for one evening she gets to say, “May I let you choose?” and discover that surrender can feel like rest when the person holding it is careful. Watching her eat without watching herself eat felt intimate enough to make my throat tighten. Pace’s attention is so focused without being invasive; he notices what lets her open and doesn’t grab at the opening.
 
-His taking her hand without asking gave me the tiniest flicker, especially because the chapter itself calls it “no question,” but it didn’t become pressure, and what followed settled me completely. I believed she wanted his hand. More importantly, the second she drew a verbal line, he respected it so cleanly that she could discover what she wanted without having to defend herself from him.
+I did tense when he took her hand “with no question in it,” because this book has trained me to care about every inch of consent. But then she states a boundary at the kiss and he releases the entire moment without testing her, which tells me the hand wasn’t the book sneaking past her no—it was the easy confidence of something she was already participating in. That distinction matters enormously to me.
 
-I’m very gone for them now, which is terrible because I know the setup. Vee thinks she is being discovered by chance, and I’m watching Pace execute a plan with Randi. The tenderness is real—I believe that—and somehow that makes the concealed arrangement more frightening, not less. But right now? That mint kiss, his hand on her face, both of them smiling into it. I would absolutely text a friend at one in the morning: “HE LEFT HER THE LAST INCH.”
+And because I know the jacket and what Randi and Pace have already done, there is a deliciously sick little shadow under all this tenderness. Vee believes she has stumbled into a man who somehow answers hungers she can’t name. I know he was placed in her path, and I know Randi helped choose the path. So I’m falling for Pace right alongside Vee while also wanting to grab her shoulders and tell her the room around her was built before she entered it. That tension is working on me hard.
+
+My 1 a.m. text would be: “HE RESPECTED HER NO SO COMPLETELY THAT SHE HAD TO PULL HIM BACK, AND THEN HE STILL MADE HER TAKE THE LAST INCH. I am unwell.”
 
 GATE 9 — May I Choose
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me the precise fantasy I read for: a man who can lead, choose, and care for her without stealing a single meaningful choice. I’m already turning the page because I want them alone together again—and because the secret underneath all this sweetness is starting to feel like a blade.
+WHY: This gave me dominance as care: he chooses when invited, stops when told, and makes her desire belong visibly to her. I’m deeply invested in the tenderness now—and increasingly nervous about what it will mean when Vee learns that this apparently effortless courtship was arranged.

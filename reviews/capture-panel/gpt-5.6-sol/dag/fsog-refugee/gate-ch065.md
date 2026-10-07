@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch065 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~fa13475bf6b9 · 2026-09-12*
+*capture-dag-v2-rich · gate ch065 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~ad99119c213f · 2026-09-12*
 
-REACTION — Oh, Vee. She finally knows. Her body cannot be filed under Pace anymore, cannot be explained away as excitement borrowed from him or the safety of telling Randi stories. She wanted Randi’s mouth. She wanted her hands under the skirt. She tasted this particular woman and wanted more. That recognition hit me like a door flying open, because I have been waiting so long for Vee’s desire to become undeniable to Vee herself.
+REACTION
 
-And the kiss was devastating. That held inch, Vee moving toward her, Randi’s tongue offered as a *please* rather than taken—I was completely inside it. This is exactly the heat I wanted between them: not generic experimentation for a watching man, but months of catalogued perfume, neck kisses, private longing, and the shock of discovering that the person matters more than the category. Vee’s hand going into Randi’s hair and pulling her deeper was hers. Her body asking was hers. Nothing about that desire is counterfeit.
+Oh. Sheri. I love her. I had built the blonde too—I knew Vee had invented her, but apparently some ugly little part of me was still waiting to compare bodies on Vee’s behalf—and then this five-foot whirlwind turned around and looked at Vee like she was dessert. The sheer relief of that laugh coming out before Vee could stop it got me right in the chest. And then Sheri made Pace blush. Twice. I would happily have stayed at that table all night watching his ears turn red while she announced Vee’s breasts to the room.
 
-Which makes me absolutely furious with Randi.
+But what undid me was seeing Pace through the one person who seems to know him without being entangled in the plan. Sheri’s account of the dance hall is the clearest confirmation yet that his care is not a seduction technique he invented for Vee. He dances because dancing is the point. His hands stay where they belong. He takes women back to their seats without treating attention as a purchase. When Sheri was abandoned, he did not offer promises he couldn’t keep or make her pain into an interrogation. He drove her home, came back, fixed what was broken, fed her, invited her into the next day, and stayed. God. That is the man I have wanted him to be.
 
-She engineered the entire evening so Vee could be exposed without ever having to name a want: the tiny skirt she already knew would fit this way, the untracked drinks, the hands directing Vee’s hips, lifting her arms, leaving her unable to manage the hem, then announcing that her underwear had been showing after the room had already seen it. Vee did choose to stay on the floor and keep holding Randi’s hands, and the exhibitionism inside her response was real—but Randi cultivated that surrender while holding information Vee did not have. “Let’s put on a show” was not an invitation innocent enough to cover what followed.
+And it makes everything worse.
 
-Then that kiss becomes real for both of them—Randi comes back from it shaken too—and she immediately stuffs it into a lie. “I almost believed it” is cruel precisely because she did believe it. She knows Vee meant it. She felt Vee open, heard her moan, felt her hips ask and her hand pull. And instead of risking one honest question, she hands Vee an escape hatch that is also a locked room: it was only a performance, and now Vee cannot ask for another kiss without being the one who changes the meaning.
+Because now I believe his goodness even more completely, and I still know what he is withholding from Vee. He can understand what it means when the people you love keep essential truth from you. Something went so badly with his father that he left home at sixteen, and when Sheri’s family rejected her, he recognized the shape of it without explanation. So how can he not understand what this secret will do? How can a man so exact about never making a woman feel that three dances bought access to her body fail to see that Vee cannot meaningfully choose the relationship she is in while he and Randi conceal what that relationship actually is?
 
-That is Randi’s cowardice doing harm in real time. She says she wants Vee to know what Vee does to her, but when she finally has Vee trembling in front of her, she denies it to Vee’s face. She gets the kiss, preserves the secret, preserves her deniability, and leaves Vee carrying all the frightening meaning alone. I want them together so badly, and right now I do not trust Randi to deserve her.
+I’m also very aware that Sheri knows more than Vee knows. “The redhead.” “Bet those legs feel like Christmas.” Pace was talking about Vee to Sheri in December, and Sheri knows enough to understand his happiness and his desire, though I don’t yet know whether she knows about Randi or the original game. She seems observant enough that I’m instantly wondering what she sees and what she has been told. I trust her instincts more than I trust anyone’s explanations right now.
 
-Also: the Love bracelet that requires tools to remove? I do not believe for one second that this is merely a glamorous detail. Somebody put that bracelet on her, and after chapter sixty I am looking straight at Pace. If it came from him, Vee just admired a visible declaration of their bond while neither of them told her what she was seeing. That possibility makes the whole night feel even more calculated.
+The ride home nearly finished me. Pace refusing Sheri’s keys, waiting with the headlights on until she was safely inside, then driving Vee with both hands at ten and two while she leaned against him—affection and ballast, care without display. After the reckless earlier truck scene, those steady hands mattered enormously to me. And Vee realizing that he does these things “for everyone he kept” made his tenderness feel larger, not cheaper. She isn’t special because he withholds basic goodness from everyone else; she is special because this profoundly caring man has opened parts of himself to her that he does not open easily.
 
-Cassie’s raised eyebrow is the only sane witness in the chapter. She sees that “Tonight I’m Randi’s date” means more than Vee can say. I need someone who loves Vee without steering her to remain close, because the two people she wants most are making her awakening beautiful and trapping her inside false explanations at the same time.
+But “he hasn’t been home since he was sixteen” is now burning a hole through the book. I need that story. I need to know whether Daphne is connected to it. I need Pace to trust Vee with the pain that explains him instead of only feeding her, touching her, and arranging safety around her. He carries everyone else so carefully. Who has ever been allowed to carry him?
 
-I would text a friend at one in the morning: SHE FINALLY KISSED RANDI AND IT WAS EVERYTHING, AND THEN RANDI GASLIT HER BEFORE THEIR LIPS WERE EVEN DRY.
-
-GATE 65 — On Her Floor
+GATE 61 — Another Round
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-ALMOST-STOPPED: “You really did a great job putting on a show. I almost believed it.”
-WHY: I was completely consumed by Vee finally recognizing that she wants Randi, but Randi’s instant denial turned the release into a wound. I have to know what Vee does with a desire that can no longer be mistaken—and how much longer Randi thinks she can call real intimacy a joke.
+CAPTURE: 9
+NEXT: 9
+ALMOST-STOPPED: none
+WHY: Sheri made me laugh, then quietly broke my heart, and she showed me that Pace’s tenderness is the deepest truth about him—which only makes his deception more unbearable. Now that his father and leaving home at sixteen are on the table, I need the next piece immediately.

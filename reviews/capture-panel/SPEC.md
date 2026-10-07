@@ -898,3 +898,179 @@ seduction of Vee; the brunches are designed seduction and are not to be steered
 toward other subjects. The persona now says nothing about subject: texture
 (paragraph one) and repetition are what she notices. `line-editor` keeps the
 2026-09-27 text unchanged, sentence included.
+
+## `line-editor` reframed: NOTES, whole-volume reads, quote verification, reader uptake (author rulings 2026-09-29/30)
+
+**Why.** Two persona edits I made had taught the capture readers to track *scene shape*
+(romance-graduate's 09-27 "a shape coming back … started to rely on it"; relationship-first's
+09-28 "a scene you have already been given"), and the opus and fable lanes began spending
+paragraphs on the book's designed staging — the brunches, the meals, the arrival-drink-bed
+evening. That is the structure; it is not being changed. Both sentences were removed and the
+83 tainted gates re-read (2026-09-29). The `line-editor` was then rebuilt so her catches are
+*lines*, verifiable, and weighed against the readers the book is for.
+
+1. **Persona.** `line-editor.md` loses "You notice what women talk about when the man isn't
+   in the room" (it produced a Bechdel ledger on a one-woman chapter). She keeps the
+   told-after-shown and editorializing detectors.
+2. **Her own frames** (`capture_dag.PERSONA_FRAMES`, `capture_panel` volume mode):
+   - `core-line.md` (per chapter): the critic prohibition is lifted to "a reader who notices
+     the sentences"; a **NOTES** block sits between REACTION and the gate — up to eight
+     lines, each an *exact quote of ≤25 words*, one tag from `repeat · told-after-shown ·
+     explains · triad · filter · editorial · reach · other`, one clause of why. A *repeat*
+     may point back to an earlier chapter, naming it and quoting the earlier line. **Scene
+     shapes are not NOTES** ("a returning kind of scene is the book's business").
+   - `core-line-mint.md`: her carry-forward gains a seventh heading, **WHAT I'VE MARKED**
+     (quoted lines and gestures, with whose they were), so a flagged tell can live in
+     summary memory. Ruling: the tell must live in summary memory to be caught.
+   - `core-line-volume.md` (whole volume, one call): per chapter `CHAPTER n — title`, one
+     READ sentence, up to five NOTES; then **ACROSS THE VOLUME** — phrases/gestures that
+     return (every chapter, whose) and gestures that *belong to one person and turn up in
+     another's hands*; then one VERDICT line. No gates: she is not a capture reader and her
+     numbers never enter `capture_stats`.
+3. **Quote verification is mandatory** — `tools/notes_verify.py --gate <gate>` /
+   `--volume <record>`: every NOTES quote is a normalized substring of its chapter (italics,
+   curly quotes and dashes stripped; an ellipsis splits the quote into fragments that must
+   all appear); a miss walks back through earlier chapters; ACROSS THE VOLUME claims are
+   checked per named chapter, using the parenthetical variant quoted for that chapter when
+   she gives one. Misses are reported, never removed: the paraphrase rate is a finding about
+   the instrument. (A false "misquote" call by the assistant on The Bench's mirror triad —
+   the words were on the page, italicised — is what made this mechanical.)
+4. **Reader uptake rule** (`--uptake`). For every flag tagged `explains`,
+   `told-after-shown` or `editorial`, count the other readers' files (cold reads, capture
+   gates, whole-volume records; never the line-editor's own) that quote a six-word run of
+   the line, over the files that covered that chapter. **An interpretive sentence earns its
+   place when it is the sentence readers quote.** Zero uptake with ≥6 readers on file
+   surfaces the flag for the author; fewer than six reads as *unknown*, not zero. The
+   author's finding behind this: top-selling romance is simpler prose with interpretation
+   built in; pleasure readers read fast and keep the line that names what they felt. First
+   run over Book A (fable-5-1, 2026-09-30): 34 of 39 interpretive flags were quoted by other
+   readers (the most-quoted 53 of 162 files); five had no uptake.
+5. **Diagnostics allowed.** `capture_dag.py --from N --to N` starts a lane at a chapter; the
+   boundary checkpoint below it must exist. For a one-chapter diagnostic it may be
+   **borrowed** from the same model's parent persona and must say so in its first line
+   (`claude-fable-5-1/dag/line-editor/ck-ch010.md`, `ck-ch020.md`). Borrowed memory is
+   never used for a capture reader's real run.
+
+**Findings from the first runs (fable-5-1, low effort).** Whole-volume Book A: 121/121
+per-chapter quotes verified; ACROSS THE VOLUME 95/97 chapter attributions correct (two
+wrong: perfume in Tannin, the lamp in Dear); the glass-turn tell found bleeding from Randi
+to Vee inside Book A (What to Wear, Fed) where a regex sweep had found only the November
+instances. Attention is flat by position (~200 words per chapter block; the dips are the
+short chapters); the chapter-alone read of ch14 found two sentence-level items the
+volume block did not, and the volume block stopped at exactly its five-note cap, so the
+difference is the cap, not the middle. Chapter-alone ch30 (borrowed ck-ch020): the
+"She cried" continuity catch — Vee does not cry in Broken In; Randi's account in Space
+says she did (ruling pending). Whole-volume tokens: Book A ≈110k in, ≈9k out, one call;
+per-chapter with raw-all memory would be 1.6M per lane for Book A and 5.9M for A+B, so
+per-chapter reading keeps minting and whole-volume reading needs none below ~400k tokens.
+
+## Gate renumbering: the filename is the only chapter key (repair 2026-10-05)
+
+**The hazard.** A gate's chapter identity lives in its **filename** and nowhere else that
+the tools read — `capture_dag.py` locates gates with `gate-ch{n:03d}.md` and
+`capture_stats.py` parses the number out of `gp.name`. Reader-sequence numbers come from
+the chronology, so **drafting a chapter into the middle of the chronology renumbers every
+later chapter** and silently invalidates every gate filename above the insertion. Nothing
+in the harness notices.
+
+**What was found.** Inserting `{{Four}}` at reader-sequence 43 (2026-10-04) was expected to
+shift gates ≥43 by one. A verification pass against each gate's own recorded chapter
+title instead found **accumulated, un-propagated drift from earlier insertions**: bands of
++2 through +6 in `gpt-5.6-sol`, `gpt-5.5`, `claude-opus-4-8`, `glm-5.3` (gates ~57–70) and
+`gemini-3.8-flash` (+4), with every `consent-sensitive` lane carrying bands at +2/+3/+4/+5/+6.
+`claude-opus-5` and `claude-fable-5-1` were clean. Consequence: for the four older lanes,
+every `capture_stats` aggregate above ch56 had been attributing reads to the wrong
+chapters, and `--check-stale` had been comparing those gates' `prose-sha` to the wrong
+chapter text. (Reads at ch31–56 were unaffected, so the 2026-10-04 ch31–56 cross-model
+report stands.)
+
+**How it was repaired — by recorded identity, never by arithmetic.** Each gate was renamed
+to where its *own content* says it belongs, in this order of keys: the `GATE n — Title`
+line matched to the chronology; a normalized/slug fallback (models sometimes write
+`broken-in` or a truncated title); the header's `· gate chNNN ·`; `prose-sha` matched
+against `chapter_sha(n)`; and for one file, identifying detail in the reaction text.
+698 files moved across 29 lanes; 820 were already correct; nothing was left unplaced.
+
+**Two residues to know about.**
+
+- **The internal `GATE n — Title` line was deliberately not edited** — it is the model's
+  own output and part of the record. In a renumbered gate it reports the number that was
+  current when the read happened, so it will disagree with the filename. **The filename is
+  authoritative; the title on that line is the reliable field.** Six gates also carry a
+  model-mistyped title (e.g. `GATE 26 — Sorority` on a read of {{Gone}}); they are in the
+  correct slot.
+- **Decade checkpoints were not re-minted** (author ruling: no mints). In the previously
+  drifted lanes, `ck-ch050` and above consolidate a span that no longer matches their
+  name, and **none of them contains {{Four}}**. Gates at 43–50 are clean (boundary 40, and
+  the raw window covers 43); anything built above 50 on those checkpoints carries a hole
+  where {{Four}} is. Those lanes cannot be extended past 50 without re-minting.
+
+**Standing rule.** After drafting a chapter into any position but the end, re-run the
+repair before trusting `capture_stats` or the staleness tiers.
+
+### The repair is a committed tool now (2026-10-07)
+
+`tools/renumber_gates.py`. Three modes:
+
+- `--verify` — no edit argument, mutates nothing: checks every gate's recorded identity
+  against its filename. **Run this after any structural edit to the chronology.** Exits 0
+  when the tree is consistent.
+- `--removed N --check` / `--inserted N --check` — builds the complete plan and **proves its
+  invariants before touching a single file**: no two sources claim one destination, and no
+  destination is occupied by a file the plan does not move. Mutates nothing.
+- `--apply` — executes, two-phase (every source to a temp name, then into place), so no
+  rename can collide mid-run.
+
+**Position moves, identity verifies** — the inverse of the 2026-10-05 pass, and correct only
+*because* that pass normalised the filenames. The baseline is trusted and one structural edit
+has happened since; if identity and position ever disagree the run halts and changes nothing.
+Hand-rolling this is how two partial mutations happened on 2026-10-07 before the tool existed:
+one gate at the removed position had no `GATE n — Title` line, was skipped, and silently
+blocked a destination. The plan validator reports that case for free.
+
+`KNOWN_MISTYPES` in the tool allowlists the documented model-typo gates so `--verify` can
+exit clean.
+
+### Chapter numbers in this document are as-of-run (2026-10-07)
+
+Every chapter number in the results history above is the reader-sequence position **at the
+time that run happened**, and the sequence has shifted twice since: **+1 at position 43**
+(drafting {{Four}}, 2026-10-05) and **−1 at position 54** (merging {{Not Enough}} into
+{{The Usual}}, 2026-10-07). Do not renumber historical findings — they are facts about a
+report. Resolve an old number through the chapter **title** the entry names.
+
+**Corollary for any doc citing a gate:** cite by **reader + chapter title**, never by
+`gate-chNNN.md:LINE`. The number moves on every structural edit and `--fresh` overwrites a
+gate in place, so number+line citations rot twice over. Three such citations in
+`meta-note-vol2-consequences.md` had rotted by two renumberings before anyone noticed;
+repaired 2026-10-07.
+
+### Correction: the provenance header is OURS (2026-10-07)
+
+The rule above — "the internal `GATE n — Title` line was deliberately not edited" — is right,
+and it conflated two different things. **The model's `GATE n — Title` line is its own output
+and is never touched.** The italic `*capture-dag-v2-rich · gate chNNN · …*` header is **harness
+metadata we write**, and there is no reason for it to lie. `renumber_gates.py --apply` rewrites
+`· gate chNNN ·` on every move, so filename and header always agree and a future repair has an
+unambiguous key. That conflation is what made identity ambiguous and produced the four
+spurious outliers chased on 2026-10-07.
+
+### Merges create orphan gates; insertions never did (2026-10-07)
+
+Folding {{Not Enough}} into {{The Usual}} as panel two removed reader position 54. Sixteen
+gates were reads of a chapter that no longer exists independently — a case no insertion
+produces. `--removed-policy` makes it explicit: `retire` renames them out of the `gate-ch*`
+namespace (parsed by nothing, still readable), `delete` removes them. **Author ruling
+2026-10-07: deleted.** git holds them at `ab888b30`.
+
+### Persona lanes erased (author ruling 2026-10-07)
+
+`consent-sensitive` (357 gates), `relationship-first` (208) and `line-editor` (3) were erased
+rather than renumbered. Every `consent-sensitive` gate dated 2026-09-12 to 09-27 — all of it
+predating {{Four}}'s insertion at position 43 — so no lane had ever read {{Four}}, the whole
+sequence was pre-{{Four}} numbering, and the checkpoints carried a hole where it sits; they
+could not have been extended without re-minting regardless. `relationship-first` and
+`line-editor` are not in the persona table at all. The assembled `consent-sensitive--volume-dag*`
+summaries were **kept**, matching the `dark-romance-control` precedent: the readable record of
+a retired persona outlives its gates and participates in no numbering. The panel is now
+8 models x 2 personas, 946 gates.

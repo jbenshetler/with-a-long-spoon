@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch021 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0894d4db7f65 · 2026-09-19*
+*capture-dag-v2-rich · gate ch021 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1f134f523a50 · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh, god. *This* is what I have been begging for from this genre for ten straight years.
+Oh, my heart just cracked in half for her. That last line felt like a physical blow to the chest. *"She had never in her life been so happy."* God. Knowing what is ticking underneath this floorboards while she stands bare in her cold dorm room, riding that high, just hurts. It is so deliciously, terribly painful.
 
-Do you know how rare it is for erotica to let sex be *funny* without completely killing the heat? That entire middle sequence—trying not to ruin the silk, her leg hooked over his hip, her holding his dripping cock while he tries to undo the zipper, the absolute practical logistical nightmare of two desperate people trying to save an expensive custom dress—I was laughing out loud and my face was burning off at the exact same time. The way he twitched in her hands when she said *"a lot of you covered in a lot of me,"* and then her wiping her wet hands down his bare flanks because his arms were pinned holding the silk over her head? And then him taking her slick fingers into his mouth to "clean" them, slow, watching her eyes until her knees gave out? Jesus. *Jesus.* It’s so wickedly hot because it feels completely, utterly human. It’s not a sterile fantasy sequence; it’s two people who want each other so badly they are tripping into walls and giggling while their bodies are literally shaking.
+This chapter was so short, but every single beat landed with utter perfection. The detail about not packing a bag because packing a bag would mean admitting what she went there to do? That is *so* Vee, so intensely true to the psychological war she’s been fighting with herself her whole life. And the unbrushed hair, the bare face in his mirror, laughing at red lights—she is completely glowing, undone in the best possible way.
 
-And the warmth of it. He stayed up all night to finish that dress. He didn't brag about it; he hung a brand new mirror with bright screws just so she could see herself properly, and he broke that first kiss at the front door because he was grinning like a little kid who couldn't wait to give someone a present. That right there is why I read. A man who has all that quiet power and restraint, but whose biggest tell is that he literally cannot hold back his delight in her. When she pulled off her underwear so the slit would run clean from calf to hip, she wasn't doing it because he commanded her to degrade herself; she did it because *she* wanted to see how gorgeous and dangerous she could be. Her shame flaring up (*"Floozy"*) and then transforming into this quiet, proud heat—it makes me want to cry for her. She is blooming.
+And then Cassie. I love Cassie so much, and that’s why watching Vee start to keep secrets from her makes me want to scream. Vee editing the middle out like ladling soup from a pot where the surface just closes up—*"telling herself it was a kindness"*—is such a brilliant, heartbreaking observation of how we justify hiding our depths from the people who love us most. Cassie is the safe harbor, the girl with the cereal milk and the soccer cleats who keeps Vee anchored in the real world. But Vee’s world has tilted off its axis. When she reached for that skirt zipper and froze because she remembered she literally traded her soaked underwear to him in his kitchen? Pure, breathtaking tension. Cassie saying *"You need to get your brain back from your boyfriend"* while being so completely in the dark about what actually happened... it kills me.
 
-...And that is the exact reason my stomach dropped into ice water at the end of the chapter.
+She thinks she’s safely in love. She thinks she finally found the place where she can be hungry, messy, unbrushed, bare, and wholly adored. And she *is* adored—Pace truly loves her, you can feel it in the Chianti and the fra diavolo and the sheets—which makes the inevitable car crash of Randi and the bet feel ten times worse. I don't want this morning-after haze to end for her, but I also need to turn the page immediately.
 
-Her lying there in his bed, looking at him asleep, daydreaming about walking into the induction in front of the whole sorority. The high room, the girls in their safe navy dresses, the slit up to her hip, making them all look. She thinks this is her secret triumph. She thinks she’s "getting away with something."
-
-She has no idea that Randi and Brooke and the rest of them are the ones who set the trap. Randi is going to be standing right there in that room, watching her walk in wearing the dress Pace built, knowing *every single detail* of how it got made and what happened on that sun porch. Vee thinks she's walking in as a queen who finally owns her own body; she is walking straight into a public arena wearing the brand they put on her. It is so tender, and so psychologically terrifying, I can barely breathe. Give me the next chapter right now.
-
-GATE 21 — Peekaboo
+GATE 21 — Toenails
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The awkward, hilarious, intensely hot scramble to get out of the silk without ruining it was pure perfection—sexy and real and grounded in absolute mutual desire. And that closing daydream of the induction gives me chills, knowing the public ambush she is unwittingly walking toward.
+WHY: The contrast between the mundane dorm room with cereal milk and the intense, lingering shockwaves of what Pace did to her was utterly pitch-perfect. Seeing Vee edit herself with Cassie while standing there secretly bare under her skirt made my heart ache. I need the next chapter right now.

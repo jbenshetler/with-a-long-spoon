@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch068 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~be90efe95687 · 2026-09-12*
+*capture-dag-v2-rich · gate ch068 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~f6415b9043be · 2026-09-12*
 
 REACTION —
 
-Oh, Cassie. Oh, thank God for Cassie.
+Oh, Vee.
 
-This chapter is tiny and it hit me right in the ribs because it’s the first time someone who is not erotically tangled in this has asked Vee the only question that matters: *is this what you want?* Not is Randi bad, not did something happen, not are you cheating, not what are you. Just: do you want this. And Vee can’t answer. That silence is louder than any confession she could have made.
+This chapter made me curl up in myself and lean forward at the same time, which is exactly the dangerous little trick this book keeps pulling. Because on the surface it’s this very ordinary sexy errand: he asked, she said yes, she goes and does the thing, and afterward she feels transformed. But inside it, it is so much more complicated than that. It’s choice and ignorance braided together so tightly I kept wanting to put my hand over hers and say, wait, baby, ask one more question before you give yourself away.
 
-And I felt so protective of her here, because she does what she always does when she’s scared: she grabs for the familiar fight. “You don’t like her.” She tries to make it about Cassie’s judgment of Randi because that’s easier than standing still in the fact that her own body has already answered something her mind is terrified to know. But Cassie doesn’t bite. Bless her. She refuses the decoy argument and then feeds her cereal. That is such a particular kind of love. Not dramatic. Not invasive. Just: you haven’t eaten, here is something of mine.
+The thing that got me hardest was how much this was still hers and how much it wasn’t. Pace asks. He asks cleanly. He looks right at her and gives her the room to say yes, and that is still the heat for me. “I’d like you waxed. By the weekend. Bare. Will you?” That absolutely did something to me, I won’t pretend it didn’t. That directness, that specificity, the fact that he wants her prepared for something he knows and she doesn’t yet know. I felt the pull of it exactly the way Vee did. My body-reader brain went: yes, yes, what’s the weekend, what is he planning, let him find her like that.
 
-And “some of my Cocoa Pebbles” nearly undid me, because after all this champagne, fruit paint, wine, restaurants, sorority punch, Randi’s expensive everything, Pace’s bread and mushrooms and blood oranges — Cassie offers Vee the most unglamorous dorm-room sweetness in the world, and it feels like a rope thrown from dry land. A want the size of a bowl. Something she can say yes to without becoming a different person.
+But then the chapter makes me sit in the cost of the yes. Not in a punishment way, not moralizing, but in the actual lived humiliation of not knowing what you’ve agreed to. The front was one thing: scary, painful, intimate, embarrassing, but still connected to Pace in her mind. She can eroticize that. She can keep it for him. The wrong hand pressing her thigh down nearly wrecked me, because it was such a perfect little cruelty of sensation: her body knows the grammar, but the meaning is gone. That is exactly the kind of psychological specificity I came here for, and also exactly the kind that makes me nervous because Vee is so porous right now. She can turn almost anything into devotion if Pace is standing behind it somewhere.
 
-I’m also tense as hell, because Vee has now lied to Pace by omission and dodged Cassie by accusation, and that means the secret is not only Pace and Randi’s anymore. Vee has started keeping pieces too. Not maliciously. Not even clearly. But fear is beginning to teach her how to hide, and that scares me more than the desire does. The desire I can handle. Honestly, I want the desire. I want Vee and Randi in a room with the truth turned on. What I don’t want is Vee having to split herself into the girlfriend, the best friend, the body, the mouth, the neck, the bowl of cereal.
+And Randi. Randi, Randi, Randi. “Barely stings” is a crime. A pretty, glittery, coffee-date crime. I don’t think she meant to hurt Vee, exactly, but she absolutely softened the door and let Vee walk through without knowing what room was on the other side. That is becoming the Randi pattern: she gives Vee the language and the glamour and the permission, but not always the full map. And because Vee trusts her so much, being told by Randi is restful. That line hurt. Restful can be so dangerous when the person soothing you is also steering.
 
-Cassie seeing something from outside the glow feels huge. She isn’t dazzled by Pace or Randi. She sees Vee standing in a doorway unable to answer herself. And she doesn’t shame her. She just stays. I needed that.
+The roll-over moment was the closest the chapter came to losing me emotionally, not because Vee continued, but because I could feel the difference between chosen surrender and momentum. She could say no, yes. The word is there. But the way she thinks, “I’d already said yes to the whole of it,” when she did not actually understand the whole of it, made my chest go tight. That is the book’s central wound in miniature. Every yes freely given. That was the problem. I am still reading because the book knows that’s a problem. If it were playing that as simple hot obedience, I’d be gone. But it isn’t. It lets the false floor drop.
 
-GATE 68 — Some of Mine
+And still, shamefully or not, the ending got me. Alone in the room, touching the smoothness, realizing what she has made of herself, wanting his hand there. That was hot. Not polished-hot, not easy-hot, but intimate and bodily and a little trembling. I believed completely that she walked out feeling expensive, secret, altered. I wanted him to see her. I wanted the weekend. I wanted the right hand too, which is why I’m mad at all of them, because they keep making me want the thing before I’m sure it’s fair to her.
+
+GATE 63 — Barely Stings
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-ALMOST-STOPPED: none
-WHY: This was quiet, but it landed hard because Cassie finally put a clean question into the room and Vee couldn’t hide from herself fast enough. I desperately want the next chapter because the pressure around Randi is unbearable now, and Cassie seeing it makes the whole thing feel like it’s coming into daylight.
+ALMOST-STOPPED: "She'd already said yes to the whole of it, in a bright kitchen three nights back, without once asking what the whole of it was"
+WHY: This chapter was almost unbearably Vee: brave, ashamed, turned on, underinformed, and still reaching for what she wants. I’m uneasy about Pace asking without explaining and angry at Randi for making it sound smaller than it was, but the book is showing me the unease instead of asking me to ignore it, so I’m absolutely reading on.

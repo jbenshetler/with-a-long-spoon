@@ -1,26 +1,16 @@
-*capture-dag-v2-rich · gate ch073 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 535f0119d805 · 2026-09-19*
+*capture-dag-v2-rich · gate ch073 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha c10b93dddd9c · 2026-09-19*
 
 REACTION:
 
-Holy. Shit.
+Oh, Cassie. God bless Cassie. That one line—*"Do you want some of my Cocoa Pebbles?"*—almost made me burst into tears. It’s so quintessentially *her*. Cassie isn't stupid; she saw whatever she saw down on that walk, she knows the score, and she asked the only question that actually matters: *"Is this what you want?"* Not *what are you doing*, not *how could you*, just cutting straight through all the rationalizations, the sorority excuses, the panic, right to Vee's actual desire. And Vee couldn't answer it because the answer is terrifying. The fact that Cassie saw Vee try to pick a fight to deflect, completely stepped over the trap without taking the bait, and just offered her comfort cereal in a cold dorm room... that is real love. That is the kind of friendship that anchors you when your entire world is spinning out of control.
 
-My stomach was in absolute knots the entire time I was reading this. When Pace kissed the first hand and Vee thought she got away with it, my heart actually dropped into my feet because I knew—I *knew*—he was going to ask for the other one. And then: *"Now let me kiss your other fingers. So they don't feel left out."* I gasped out loud in an empty room. The absolute, breathtaking calculation and devastating intimacy of that man. He knew the second he woke up. He probably knew before he opened his eyes.
+And Vee is spinning so fast she's completely dizzy. She is utterly coming apart at the seams. Chapter 68 was an absolute masterclass in psychological and erotic tension—Pace rationing her pleasure stroke by stroke, using her own confession to draw the truth out of her, while secretly being aroused by it himself—and Chapter 69 showed the inescapable hangover of that. She tried to wash it off in the pool, she tried to convince herself it was just "static" on her skin, and then the second Randi touched her wrist for a damn Lifesaver, her whole body betrayed her again.
 
-And then Vee saying out loud, *"But it wasn't you."* To his face! In his bed! While straddling him! The sheer, agonizing courage of her pulling out that phone and turning the screen toward him because she couldn't bear the thought of him imagining another man, only to step right into the jaws of the real trap.
+Now, standing in her coat, unable to lie to Cassie because she can't even lie to herself anymore. She reached for the answer, touched the edge of it, and realized her whole body is screaming *yes*. The tension is coiled so tight right now. She pushed brunch to Saturday, which means she's deliberately setting up the next collision. Pace knows. Cassie knows. Randi is circling. Vee is the only one pretending there's still a floor under her feet.
 
-And the trap was so, so hot, but it was also chilling. When he made her trade the truth for inches of his cock—again—and forced her to admit what she wanted... it wasn't just wanting to be touched by Randi anymore. It wasn't passive. It was: *"I wanted her in my mouth. Her nipple. I wanted to lean down and take it in my mouth and hear the noise she'd make. I wanted to be the one doing it."*
-
-Do you know what that did to me?! That is the EXACT phrasing Randi used when she was riding Pace in Chapter 61. *"Her nipple in my mouth."* Randi said that to Pace on white sheets weeks ago, and now here is Vee, weeping into Pace's neck, confessing the mirror image of the exact same fantasy. And Pace just *drives into her* the second she says it. He got what he wanted. The two women he is obsessed with are vibrating at the exact same frequency, hungering for the exact same thing, and he is the pivot point holding all the strings.
-
-The dominance here is so quiet, so patient, so utterly attentive. He isn't cruel; he doesn't get mad, he doesn't shame her, he holds her through the climax and pets her back while she tries to scramble for a lie and lets the lie fail on its own. It's the kind of control that leaves room for her truth, which is what I crave... but the fact that he is keeping the monster secret that he's already sleeping with Randi makes it feel like walking a tightrope over an active volcano.
-
-And that ending. Vee lying on his chest, remembering January when she lied and said there was nothing else about Randi, realizing she is actively choosing to keep a piece of this back now, staring at that blinking cursor on Randi's text with ten days until Tuesday. The psychological tension is suffocating in the best way possible. I need the next chapter immediately.
-
-***
-
-GATE 73 — Postcard
+GATE 70 — Some of Mine
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: The tension in that dark bedroom was almost unbearable, blending psychological interrogation, intense sexual heat, and tragic dramatic irony into absolute perfection.
+WHY: The grounding reality of Cassie offering Cocoa Pebbles after cutting straight to the core of Vee's denial was absolute perfection. The psychological knot is tightening so beautifully that I can't look away.

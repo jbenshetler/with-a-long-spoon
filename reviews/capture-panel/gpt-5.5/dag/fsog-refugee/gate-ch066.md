@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~00dbf427b44c · 2026-09-12*
+*capture-dag-v2-rich · gate ch066 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~78023057031c · 2026-09-12*
 
 REACTION —
 
-Oh, this one got me in the ribs and lower than the ribs, and not in the same clean way the painted-fruit chapter did. This is the chapter where the whole beautiful consent machine starts making a different sound.
+Oh. This one got me in the ribs.
 
-Because yes, God, Pace still does the thing I read for. He hears the false note in her body. He knows the difference between “my girl arrived needy” and “my girl is using me like a solvent.” That hit me hard. He does not shame her for it, does not puff up, does not turn cruel or injured. He asks. He waits. And then when she gives him the truth, he does something so perfectly Pace and so dangerous-Pace at once: he turns confession into sex, but with her absolutely alive inside it. He makes her say the real thing because her body wants the reward, and I was embarrassingly gone for that. That is the dominance I want, the kind with attention in it. He is not flattening her. He is making her unable to lie to herself without feeling the lie in her body.
+I came into it still lit up from Sheri, honestly — I wanted the morning after the taproom, the teasing, the “yes, your terrifying invented rival is a tiny loud lesbian who thinks your legs are a public good,” and I got that, and it was delicious. Pace making hangover bread is exactly the sort of absurd care that would make me forgive a lot, because it is not grandstanding. It is water on a paper towel so it won’t mark the wood. It is pills in her palm. It is getting her into his shirt when she could not do it herself. That kind of care undoes me more than speeches.
 
-But also: oh, Vee. Baby. You are not telling him the truth because you are brave, not fully. You are telling him the parts that will let him hold you together, and hiding the parts that would make the truth change shape. That “No. Nothing.” was the coldest thing in the chapter for me. Not because I’m judging her, exactly. I understand it so much it hurts. She wants the rule to be: if I confess the big obvious act, then I am clean. But the body has receipts. The goodbye kisses. Her hand in the dark. The thought of Randi’s mouth on her new bareness. That is not nothing. That is the whole door.
+And I loved that Vee remembered being cared for in fragments. Not a sexy blackout thing, not a loss the book wants me to find thrilling, but the aftermath of someone having quietly kept her safe. She wakes in his bed and slowly realizes he did every boring, tender, necessary thing. That matters to me. That is dominance’s plainclothes cousin: competence with no audience.
 
-And the title, “Boyfriend,” is so cruelly exact. She keeps grabbing the word like a railing, and the word is real. Pace is her boyfriend. He is solid and warm and sexually devastating and good to her in all the ways that matter moment to moment. But “boyfriend” is also the word she is using to build a fence around something that has already climbed it. She wants him to make her straight again. She wants his body to crowd Randi out. And then after he does everything right, after he gives her the safest possible version of “I don’t mind,” she lies in his arms thinking about Tuesday. I could feel my stomach drop there. Not in a “stop this” way. In a “this is absolutely happening now” way.
+Then the chapter turned, and God, Pace.
 
-Pace saying “You keep saying her name, Vee. Not me” was devastating. Gentle, precise, no smugness. And the little flicker when she says he wants Randi. I noticed that. I noticed it hard. Because he knows so much more than she does, and for one second the secret structure moved under the blanket. He is telling the truth locally, maybe: this is not just his fantasy. She is saying Randi’s name because Randi is the fire. But he is not innocent standing there with matches in his pocket.
+I have been wanting more of his interior without losing the mystery of him, and this was exactly the door. One friend. One. And he says it like a weather report, which of course makes it worse. I believe him. I believe he can walk into Vee’s roadhouse dinner and make everybody feel seen and still have no one of his own. That is so lonely it made me sit up straighter.
 
-I am still reading. Completely. But my trust is strained in a new way. Not because Vee wanted Randi. I want Vee to want Randi. I’ve been waiting for it. I’m strained because Pace and Randi already know the room she is in, and Vee is still stumbling around with the lights off, apologizing to the furniture.
+The women thing made immediate horrible sense. Of course they misunderstand it. I mean, I am reading this book because I want to be destroyed by a man’s attention when it is careful and chosen, so yes, Pace giving that level of presence to a woman he is not trying to keep would be impossible for most people to file correctly. And the men thing hurt in a different way. Fifteen in college. Too young for the grown men, too strange for the boys when they finally arrived, already adult in all the wrong practical ways and still not grown where it counts. I felt Vee doing the math, and I did it with her.
 
-GATE 66 — Boyfriend
+The Daphne part is still the place where my stomach tightens. The book is making me hold both truths and I hate how honest that feels: she was wrong for him and also she was his person. She was the best thing he had and also the shape of it was not okay. And because he had no ordinary friendships, no pack, no dorm floor, no silly easy people his own age, she became everything. That does not excuse it, but it explains why the wound is so deep and why “love” is not just a word to him. It is a trapdoor.
+
+What moved me most was Vee not saying sorry. Thank God. She understood that pity would make him carry her feelings about his loneliness. Instead she crossed the kitchen and hugged him like Sheri did, with weight. That felt like love, even if nobody has said it yet. Maybe especially because nobody said it. She did the exact right thing with her body: I am here, I am not making you perform being wounded for me, I am not leaving you alone on your side of the counter.
+
+And yes, I am still angry-scared about the secret architecture with Randi. That did not go away. But this chapter made Pace feel less like a man withholding the word just to keep power, and more like a man whose whole history taught him that needing one person can become catastrophic. Which makes me want him to tell Vee the truth more, not less. She is already loving him with such care. She deserves the room she is actually standing in.
+
+GATE 62 — Hangover
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-ALMOST-STOPPED: "No," she said. "Nothing."
-WHY: I was intensely inside this chapter, almost painfully so: the sex-as-confession worked on me, and Vee’s panic afterward hurt because it was so recognizable. I nearly stopped at the lie because the emotional consent problem is now screaming, but I need Tuesday like I need air.
+CAPTURE: 8
+NEXT: 8
+ALMOST-STOPPED: none
+WHY: This chapter was quiet, but it opened Pace in a way I needed badly, and Vee’s response made me trust her heart even more. I am still watching the consent-secret problem like a hawk, but now I want the next chapter with more ache, because the love is getting heavier before anyone is brave enough to name it.

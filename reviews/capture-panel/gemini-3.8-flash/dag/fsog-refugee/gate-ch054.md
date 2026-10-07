@@ -1,32 +1,24 @@
-*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha bb2635a8b1b0 · 2026-09-19*
+*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1011072a47a5 · 2026-10-07*
 
 REACTION:
 
-I am sitting here with my hand pressed against my chest, completely undone.
+Oh my god. *Oh my god.* My jaw is literally on the floor.
 
-*"I want to meet your people."*
+First of all: Vee taking Randi’s face in both hands and kissing her in that foyer. *Vee initiated it.* After four months of Randi circling her, choreographing the steps, leaning in, calculating every inch—Vee turned around from the door, walked back, and kissed her out of sheer, overflowing emotion because she couldn't leave without giving something back. And Randi standing there alone with the back of her hand pressed to her mouth like a stunned teenager, laughing an idiotic little laugh in an empty hallway? That cracked Randi wider open than anything in Gstaad. The sheer erotic charge of that moment didn't come from nudity or dirty talk; it came from the fact that Vee did it purely on her own nerve, and Randi's entire polished, manipulative game plan just blew up in her face because her heart (and her body) actually caught up to the scheme.
 
-He said it into the sink. Just tossed it out while washing a pot, like he hadn't just handed her the absolute world on a silver platter. After everything in December—after her standing on his mat begging him to acknowledge what they were outside his four walls, after him hiding behind his stoic silence and letting her walk away—he is finally, actively tearing down the perimeter of his house. And he didn't just ask to meet Randi. He remembered *Meg's boots*. He remembered that her right heel slipped on a hike in *October*. He remembered her exact phrasing about Kayla talking the paint off a wall.
+And then—Brooke. Holy shit. That was chilling. Brooke standing by the matcha, wearing that impenetrable sorority-president smile, wrapping a velvet garrote around Randi’s neck: *"Play all you want... I'm asking whether you want to keep your position."* That is terrifying. Standards chair, the spotless reputation, the family expectations—the trap is closing in from the outside world now, too.
 
-Fifty Shades could never. Christian Grey would have bought the restaurant, isolated her from her friends, stalked her emails, and sneered at the guy who once asked her out. Pace? Pace hears about Theo—a guy who actually asked her out—and says, *"Bring Theo."* Zero insecurity. Zero toxic territorial posturing. Just absolute, quiet solidity. He is saying: *Bring your whole life to me. I want the loud girl, I want the blunt best friend in yesterday's shirt, I want the boy from English class. I have room for all of it, because I love you and you belong to the world, not just my bedroom.*
+And then there's the tragedy of what just happened in that bedroom. Randi gave Vee incredible, perceptive, deeply loving comfort—she read Pace's shut-down silence to absolute perfection (she knows him, after all), dismantled Vee’s 3 a.m. terror about Sheri, and rebuilt Vee’s confidence from the ash heap. But she also handed Vee a loaded gun and pointed it straight back at Pace: *Show up bare under a coat.*
 
-And the tenderness of Vee catching herself! She started to plan a fancy dinner with Randi, realized Cassie would have to sit there being a "good sport" under a pendant light, and then the memory of the Chili's disaster rose up. She remembered Pace squaring his fork on the table, trying desperately to hear her through the noise. She realized *he* was the one who had spent an entire evening being a good sport for her sake. So she gives the reins to him: *"Will you pick the place?"* That is real care. That is two people actually learning how to love each other in public.
-
-Except... my stomach has a terrible, icy knot right in the center of it.
-
-*Randi.*
-
-Vee is sitting there happily imagining her "two favorite people at one small table finally getting to find out about each other." She thinks they exchanged nine words over coffee. She has *no idea* that Pace and Randi met before she ever entered the picture. She doesn't know Randi has been quietly orchestrating her life, doesn't know Pace took Randi out dancing before Thanksgiving, doesn't know Randi sat in Gstaad whispering that she loves Vee.
-
-Pace and Randi are going to be in the same room. With all of Vee's college friends. Under the bright lights of a local spot Pace chooses.
-
-They are building a bomb shelter out of sheer domestic sweetness, and the jacket is ticking right beneath the floorboards. Pace looked happy leaning against that counter, and I love him so much I could cry, but God help all three of them when this dinner happens.
+My stomach is twisted in knots. On one hand, the romance reader in me is screaming because Pace has been literally weeping over cold chicken and broccoli, half out of his mind with misery, and when he opens that door tonight and sees Vee standing there in that coat and Randi's black heels, it is going to be explosive, tender, gut-wrenching heat. But on the other hand... Vee walked out because she wanted words. She wanted to exist in the daylight. And Randi just talked her into capitulating entirely with her body: *"You don't do it with words. Words are the whole war."* Randi is sending Vee to Pace's bed as a peace offering, and Vee is terrified and thrilled and walking right back into the sanctuary without solving the core wound—all while carrying Randi's taste on her lips and Randi's shoes on her feet! The dramatic irony is so thick I can barely breathe. Pace is going to break when he sees her. I need to see him open that door right now.
 
 ***
 
-GATE 54 — Back
+GATE 55 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Pace casually pulling Meg's boots out of his memory from an offhand sentence in October made me completely melt. He is deliberately choosing to step out of his safe, isolated bubble and integrate her entire world into his life, with zero toxic jealousy over Theo. It is breathtakingly sweet, but the looming trainwreck of Randi and Pace having to look each other in the eye in front of Cassie and Vee's friends has me desperate for the next page.
+WHY: The tension is coiled so tight it's vibrating—Vee kissing Randi in the foyer blew the emotional stakes wide open, Brooke's threat just raised the real-world cost, and now Vee is heading to Pace's doorstep bare under a coat while he's completely wrecked inside. I couldn't stop reading now if my life depended on it.

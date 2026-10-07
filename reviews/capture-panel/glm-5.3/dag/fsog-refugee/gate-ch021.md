@@ -1,23 +1,18 @@
-*capture-dag-v2-rich · gate ch021 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-10*
+*capture-dag-v2-rich · gate ch021 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1f134f523a50 · 2026-10-01*
 
-**REACTION* · prose-sha ~0894d4db7f65*
+REACTION — God, this little chapter. Nothing "happens" and everything happens. The zipper stopping halfway down is the whole book in one gesture — Vee realizing that the night isn't a story she can edit anymore, it's on her body, and the person who'd see it is Cassie, the only clean pair of eyes in this whole thing. And she *zips back up.* She keeps the middle. I felt that like a held breath, because I've been waiting all along for whether Vee ever gets to keep a secret that isn't kept FROM her — and here it is, her first one, and it's hers, kept for love and not for con. The ladle-and-soup line is going to live in me for a while. That's exactly what she does with Randi too, and she knows it, and she lets herself believe it's kindness.
 
-Okay. I had to put the book down twice in this chapter — once because I was laughing too hard, and once because of the screw heads. "Newly hung, the screw heads still bright." That's this man in one image: he hangs a mirror for her and the book lets me see the fresh screws, so I know he did it *recently*, *for this*, and she'll never ask. He takes all the trouble and then takes the further trouble to hide the trouble. That line wrecked me. That's love the way I actually believe in it — effort made invisible so the gift looks effortless.
+Cassie's half-second — something crossed her face and was gone before it found a name. I don't think the canary is done singing. "He cooked. A man made you dinner." with that flat Mm. Cassie clocked the scale of it, clocked the grin, clocked the parts that didn't add up, and chose to let it stand because her friend is happy. That's love, and it's also the door closing on the one person who might have seen the plan, and the book knows it, and so do I.
 
-The dress itself — I want to be careful not to just gush, but the lined bodice detail is the sexiest piece of tailoring I've ever read. He built the dress to give her away *and* to keep parts of her back: "a soft wall set into the only parts of her the dress had decided not to give away." The dress has opinions about her. He made it with opinions. And her on the pedestal rising onto her toes to give it the height it wanted, grinning at the woman that made — that's her whole arc in one paragraph. The word *floozy* flaring up and her staying anyway, making herself look until the looking stopped being shame. I've read a hundred heroines conquered by shame in scenes like this. She conquered the shame.
+And the ending — driving home bare under the skirt with her mother's word coming and finding she doesn't much mind. The shame-wire, the thing I keep bracing over, and for one morning it just... doesn't hurt. "Never in her life been so happy." I'm suspicious of that sentence the way I'm suspicious of every perfect thing in this book — the con is still running underneath, Randi is somewhere alone with a torn-out page of a notebook — but Vee's happiness is real on the page and I'm not made of stone. Also: he ate twice, alone, after Randi left — and last night he had Vee, and the morning smile came back at every red light. The two of them are converging on something and I still don't know if it lands soft.
 
-And the underwear moment — I actually cheered a little. She doesn't take them off for him. She takes them off *for the line in the mirror*, for herself, because the dress deserved the clean length of her, and the wanting comes in behind the decision almost as an afterthought. "She was the one who'd taken the edge away." The book keeps handing me exactly the thing I came here for: her desire authored by her, rendered from inside, and him just — the grateful witness, at first, before he's anything else.
+No Pace on the page, no Randi, no bench. A whole chapter of just Vee in a cold dorm room being happy, and it cost me nothing, because the care is everywhere in it.
 
-Then the standing-up scene, and look, I've read enough of this genre to have sat through a hundred "he pressed her against the wall, overcome" scenes where the heroine is basically luggage. This one is a *comedy of logistics* and it's the hottest thing in the book so far precisely because it's ridiculous. "Ow. Don't point down." "There's a lot of you covered in a lot of me." The twitch. The laughing so hard he has to stop undressing her. They can't let go of a single thing they're holding — the dress, each other, the whole afternoon — and the sex is inside the laughing instead of instead of it. That's warmth and heat in the same body. That's the whole grail for me.
-
-The fingers. Him studying her hands "with the care he'd give a hem" and then cleaning them slowly with his eyes on hers — I went weak. It's dirty and it's *tender* at the same time, it's the tenderness that makes it dirty.
-
-The ending is quieter and it's where my dread lives. Her daydream of the induction — walking in late, on purpose, letting the room turn, "it just felt like what she was for" — that's glorious and it's also the con's harvest ripening. She's rehearsing the exact entrance they planned for her, and she thinks it's her own idea. "Getting away with something." Oh, sweetheart, you have no idea how many people are in on the something. And him finishing the dress at some hour with no business being awake in it — I love him and I'm keeping the ledger. The mirror was newly hung. Everything in that house is newly hung for her.
-
-Also: the green panties from last time — now he has her walking-in underwear too, left "on the chair with everything else she'd walked in wearing." My question about the evidence is now twice asked and twice unanswered, book. I see you.
-
-**GATE 21 — Peekaboo**
+GATE 21 — Toenails
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 7
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The dress reveal plus the laughing-while-joined scene is the best blend of tenderness, heat, and two actual people I've gotten all book — every yes hers, every joke shared. And the ending quietly advanced the con's shadow without cheapening a single thing she felt. I'm not going anywhere.
+WHY: Quiet but full — the kept secret and the zip going back up did more to me than a hot chapter would have. I want the dress, the induction, and all three of them in one room, and the bench, and I'm not waiting a month for any of it.

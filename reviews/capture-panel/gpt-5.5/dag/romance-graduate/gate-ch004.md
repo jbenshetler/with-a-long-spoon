@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch004 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 3a52a74c7617 · 2026-09-26*
+*capture-dag-v2-rich · gate ch004 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3a16f5932850 · 2026-10-01*
 
-REACTION — Oh no. Oh *no*, this got me.
+REACTION — Oh, I liked this more than I expected after the sheer molten intensity of chapter one and the nasty-bright little campus hunt in chapter three. This is quieter, but it is not slack. It has that awful delicious thing where you can feel the trap not as a trap-door but as warmth. A hand on the arm. The right coffee shop. A seat at the high table. *See you later.* God, that got me.
 
-Because after three chapters of being inside Pace and Randi's charged little conspiracy, suddenly being inside Vee is almost unbearably vulnerable. She is so ready to be chosen. Not stupid, not empty, not some blank innocent wandering into traffic — she’s alert, observant, hungry, socially fluent in her own way — but the hunger is right at the surface. Randi touches her arm twice and she is basically glowing from the bones out. I could feel how little it takes, when someone glamorous and warm gives you the full beam.
+Vee is immediately so painfully legible to me, and not in a cheap “poor insecure girl” way. She’s not stupid. She’s reading everything. She knows status, clothes, rooms, who belongs where, how invitation works. The whole chapter is her being incredibly socially intelligent and still completely defenseless against being chosen. That is such a good nerve to press. I could feel her trying to make herself normal-sized in the lecture hall, trying not to look at the door, trying not to want too obviously, and then Randi comes in from the back like a magic trick and says “There you are.” I mean. Cruel. Gorgeous. Effective.
 
-Cassie made my stomach tighten. That “Goodbye, Vee” was such a weird clean little cut. I don’t know if she sees something, or just feels herself losing Vee to a room Cassie has no interest in entering, but I loved/hated it. It made the coffee invite feel like a threshold, not just coffee.
+And Cassie! I do not trust how much I already trust Cassie. Her “Goodbye, Vee” chilled me. It’s such a flat little bell tolling in the middle of all that social sparkle. I don’t know if she sees Randi more clearly, or if she just sees Vee disappearing into something, but that goodbye felt like the first person in the book actually saying: this is not nothing.
 
-And Randi is terrifyingly good. That’s the thing. She’s not being cartoon-villain fake; the warmth works because some part of it is real, or at least embodied enough to feel real. She can aim it. She knows how to make the bit, open the door, rescue a stalled beat, flatter without seeming to flatter. Watching Vee receive that as salvation while I know Randi and Pace picked her out like prey is delicious and awful.
+The coffee shop scene made me ache. The Greek-letter joke landing only once Vee is walking in with Randi is exactly the kind of social hunger this book is so good at. It understands that exclusion is not always someone being mean to you. Sometimes it’s just a sign you don’t know how to read yet. And then suddenly someone beautiful is holding the door and the whole world translates itself.
 
-The Chi Latte scene hit the exact nerve of wanting to belong somewhere that has been quietly telling you no. The sign, the joke finally becoming legible because Randi brought her under it — ugh. That is so precise. Vee’s whole body is translating social access into erotic charge before she has any idea that’s what’s happening. And then her looking at the underdressed girls, judging them in her mother’s voice while wanting and comparing and covering herself up anyway? Yes. That is the interiority I’m here for.
+Heat-wise, this is not bodily explicit, but it is charged as hell. Not sex-scene charged; seduction charged. Vee’s looking at the girls in Chi Latte, judging them with her mother’s voice while also wanting and measuring and imagining her own body in those clothes — yes. That’s the wire. And then Randi eclipses all of it, because Vee doesn’t even have a framework yet for wanting Randi. She just wants *with her*, *near her*, *chosen by her*. That’s almost worse. Better. Worse.
 
-No sex in this chapter, but it did not feel cold. It’s seduction as atmosphere, as social oxygen, and honestly that can be hotter than bodies when the need is this exposed. I ended the chapter worried for Vee and also completely understanding why she’d follow Randi anywhere. Which is the trap, obviously. The book knows it’s the trap. I’m in.
+Randi scares me here in the most readable way. She’s so good. Too good. The warmth is real enough to work, which is the problem. If she were fake, this would be easy to resist. But she is generous, funny, attentive, socially dazzling, and she knows exactly how to make Vee feel like the room has opened just for her. I can feel Pace behind this chapter even though he isn’t on-page, which is unnerving. The machinery has moved from bench and body to coffee and friendship, and honestly that may be more dangerous.
+
+I would absolutely keep reading. This chapter did not give me the erotic payoff of the first one, but it gave me the shape of the seduction landing in Vee, and I’m very in. I want to see when the warmth turns, or when Vee notices it has a hand around her.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This is exactly the kind of quiet chapter that still moves like a hand on the back of your neck. I missed the explicit heat a little, but Vee’s hunger to be chosen is so charged that I’m more anxious for the next chapter, not less.
+WHY: This was a quiet chapter, but it was loaded: status, hunger, female attention, and that terrifying sweetness of being chosen. I missed Pace’s direct heat a little, but Vee’s emotional susceptibility grabbed me hard, and Cassie’s “Goodbye, Vee” made me want the next chapter immediately.

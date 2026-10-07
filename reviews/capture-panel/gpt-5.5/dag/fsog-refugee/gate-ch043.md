@@ -1,27 +1,22 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~2a7036ffc678 · 2026-09-11*
+*capture-dag-v2-rich · gate ch043 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 94eb3254bb6a · 2026-10-06*
 
-REACTION — God, this chapter hurt in exactly the place I was already touching after “I love how good we are together.” The book knows the wound is open and just presses one careful finger into it.
+REACTION — Oh. Well. I am officially not breathing normally.
 
-I was so relieved, at first, that Vee finally snapped. Not gracefully, not adorably, not in the polished version of herself she keeps trying to present to him, but too loud and sharp and unfair. Honestly, good. I needed her to be ugly for a second, because the not-saying has been making her smaller in the dark. “If we’re just sex, I’d like to know” is not really what she means, and I knew it the second she said it, but it is close enough to the fear underneath that it made me sit up. She is trying to ask, “Am I loved?” and every other sentence is the rug she shoves it under.
+This chapter did the thing I have been waiting for and dreading: it let me into the room where Pace and Randi talk about Vee, and it was so much hotter than I expected because it was also more dangerous than I expected. Not danger like violence. Danger like: these two are terribly good at reading people, and Vee is the soft bright thing between them, and they both know more than she does. I could feel my old alarm system going off, but I could not look away.
 
-And Pace. Oh, Pace. The way he doesn’t punish the question, doesn’t make her pay for the tone, just says, “Where do you want to go tonight?” That is so good it almost makes me angry, because it gives her the thing she asked for while completely missing, or refusing to touch, the thing she meant. He is so competent at the solvable problem. Take her out. Get dressed. Drive. Sit in public. But the actual problem is sitting across from him with nachos going cold: she needs the relationship to exist somewhere it can be named.
+Pace asking, again and again, “Does she want it?” is the reason I am still here. That is the line holding the whole chapter up for me. He is turned on, yes, obviously, wildly, but he is not letting Randi’s arousal become proof. He keeps separating “she likes being adored” from “she has chosen this.” Thank God. That is exactly the distinction I need this book to care about.
 
-The Chili’s scene made me wince because I recognized both of them. Vee choosing the gloppy normal-date place almost defiantly, like she wants proof they can survive ordinary public couplehood. Pace trying, visibly trying, and being overwhelmed by the whole bright loud sensory assault of it. I don’t think he was irritated with her. I believe him when he says he couldn’t hear her. And I loved that explanation because it was vulnerable in his weird exact way. But I also understand why she read it as rejection. When you’re starving for a word, every flicker looks like evidence.
+And Randi. God help me, Randi. She is not cold. She is not a villain twirling a plan. She is in it. She is so in it she can barely admit it to herself. “I’m doing it for you” was almost funny because, girl, no you are not. Or not only. The fact that Pace gives her permission not to make it a service to him and she immediately comes? That was brutal and revealing and honestly kind of magnificent. She wants Vee. She wants to be seen by Pace wanting Vee. She wants the story to still be controlled enough that she can call it work. I understand her and I do not trust her.
 
-The food ruining her was such a quietly devastating little betrayal. I felt that. He has changed her appetite. Not just sexually, not just emotionally, literally. Fine used to be enough because she didn’t know better, and now fine tastes dead. That should be romantic, and it is, but it’s also terrifying because it means she can’t just go back to herself if this ends. He has made her larger. He has also made the old world smaller.
+The heat in this was fierce, but what really got under my skin was the tenderness after. Randi saying being known makes her feel real and frightens her. Pace answering, “Then I’ll be careful with you.” That is the exact nerve this whole genre keeps missing when it thinks dominance means disregard. He can be rough with her body and careful with her self. That distinction matters to me more than almost anything.
 
-And then the fight back at the house. I was braced for him to get defensive, and he didn’t. “You know what happened after the dance” was perfect and awful because yes, she does. She knows. She lied with the shape of the accusation, and he didn’t humiliate her for it. He just put the truth down where she could see it. That’s the Pace I trust with her body and almost trust with her heart. Almost.
+But the secret is now screaming. They chose Vee together. They are actively getting off together on the progress of her wanting. Even with all the consent checks, Vee still does not know the whole shape of the room she is walking toward. I am turned on, I am emotionally caught, and I am also sitting here with my hand hovering over the brake. The book has earned my trust chapter by chapter, but it is spending that trust now.
 
-The sex worked on me because it was not just heat pasted over a fight. It came out of the fight. Her wanting him to lose control after he has been careful all night, wanting proof that he needs her beyond discipline and service, felt so painfully hers. And when he finally does lose patience, when he comes into her like he cannot keep himself arranged anymore, I understood why that would feel like proof. It nearly is proof. It is the kind of proof this book knows how to make irresistible.
-
-But it still isn’t the word. And that is the whole terrible genius of the chapter. He can listen. He can explain. He can take her out, endure the restaurant, come home, make her feel wanted, lose control inside her, sleep with his arm around her. He can give her everything except the thing that would let her carry him into daylight. The sex means something, I believe that completely. I do not think he is using her. But he is letting her live inside an unnamed thing, and the unnamedness is becoming a form of loneliness.
-
-What scared me most is that she decided she had forgiven him before she had actually understood what hurt. That word, “forgiven,” is another rug. Warm, large, easy to wear, yes, but false-shaped. She wants the night to have a clean story so badly that she lets herself have one for about five minutes. Then the dark gives her the truth back.
-
-I am still reading, absolutely, but my trust is changing texture. Pace’s tenderness is real. His dominance is still my exact weakness. His care is not fake. But the silence is no longer just private or shy or wounded. It is doing damage now. Vee is not asking for a public performance. She is asking for a name. And if he cannot give her one, he needs to say why before the hidden plan breaks her open from the outside.
-
-GATE 43 — Under the Rug
+GATE 43 — Four
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: “He’d given her all of it and not the name.”
-WHY: This pulled me hard because it turned the heat into the wound instead of using heat to avoid it. I believe Pace’s care, which is why his silence hurts so much; I’m continuing because Vee is finally feeling the cost of being cherished in private and unnamed in daylight.
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “She consents — every time — or I'm done.”
+WHY: That was the closest I came to leaving because it named exactly the fear: that Vee is being handled by two people who already decided something around her. But Pace naming consent as the condition kept me in, and Randi’s naked little “God, I want her” has me desperate for the next chapter.

@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch055 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~213059ecdcb4 · 2026-09-11*
+*capture-dag-v2-rich · gate ch055 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 122f2504f31e · 2026-10-01*
 
-REACTION —
+REACTION — Oh, this got me. It got me in the exact embarrassing place this genre taught me to have and then kept punishing me for having. The coat. The heels. The whole long private ritual of getting brave enough to be the woman who arrives like that. I was grinning and holding my breath and also wanting to cover her with a blanket myself because the stakes felt so naked before she ever opened the coat.
 
-Oh, I loved this. Not in the grab-the-headboard way of the last two chapters, obviously, but in the deep exhale way. This is the kind of ordinary social daylight chapter I needed after all that doorframe heat, because it proves the weekend didn't just vanish back into the private house. Vee is carrying it into the world now. Not all of it, not the parts that belong under the coat, but enough. She is sitting in the sun with her friends and saying: we fought, I went to him, I chose something outrageous and brave, and it worked.
+What I loved is that it stayed hers. Randi absolutely steered her there, and I still have my eye on that, but once Vee is alone in the room this becomes Vee’s own act. The mirror scene could have felt like performance for him, but it didn’t; it felt like her reclaiming the body she has spent years apologizing for. The “last thing, only thing” shoes made me laugh out loud. Kayla with the laundry basket nearly killed me. And the police lights? I almost threw the book. That was mean in the best way.
 
-And Kayla, bless her enormous mouth, is exactly the right person for this version of the story. She makes it funny instead of fragile. Vee gets to confess the front-porch flashing and have it become a shriek, a toast, a friendship story. Nobody scolds her, nobody makes her small, nobody turns her desire into shame. Meg's “Sometimes you have to make it right in their language” landed for me because yes, that is exactly what the coat was. It was also dangerous, and I still know it didn't answer every question, but here, among women who love her in normal non-mysterious ways, it becomes a gesture instead of a collapse. I needed that.
+And Pace. God. This is what I came for. He does not answer with a speech, which I still need eventually, but he answers with being wrecked. The formal “Is everything alright?” hurt because I recognized that wall immediately, and then she opens the coat and the wall just goes. That look, starving and forgiven at once, was everything. That is the possession/intensity I want when it is met by her choice. He doesn’t coax her into this. She comes to him already decided, and he receives her like a man who knows what she has risked.
 
-I also really liked that Vee didn’t tell them about the drive. Good. Some things can stay private, or at least stay waiting for Randi, because Randi is the person who knows how to hear the erotic weirdness without flattening it. Kayla gets the coat. Randi will get the other thing. That distinction feels true.
+Was it emotionally solved? Not fully. The word is still missing. The secret with Randi is still sitting under the table. And part of me knows sex and pancakes can become the old problem again if Pace lets them stand in for language forever. But in this chapter I believed Vee when she felt she had everything she came for. After that month of cold and silence, I wanted her warmed and fed and wanted, and I got it.
 
-The money moment was small but good too: Vee knows the prices, checks them, then chooses the occasion. She is not suddenly a rich girl, not suddenly Randi, not pretending cost doesn't exist. But she has Christmas money and she spends it on her friends in sunlight. That felt like growth in a quiet little way. Pace has taught her appetite, but this chapter lets her have appetite socially, not just sexually: waffles, mimosas, the right side of the menu, first breakfast back.
+The heat was wild, but the tenderness is what undid me: his head on her breasts afterward, the joking, the blanket, the pancakes, “I missed you so much” cracking open on one knee. That was more romantic to me than any declaration would have been if it had come cheaply. I still need the words one day. Tonight, I bought the reprieve.
 
-And then Wednesday. Oh, Wednesday is suddenly deliciously loaded. Pace wants to meet her people, and Vee gets to say “he’s handling it,” and I felt her pleasure in that all the way down. But I am also alert now. Randi and Cassie and Kayla and Meg and maybe Theo in one room with Pace? That is a combustion engine. Cassie is going to watch. Randi is going to perform being merely the glamorous friend. Pace is going to be quiet and precise and probably remember everyone’s food preferences by minute ten. And Vee is going to sit there with all her worlds touching for the first time.
-
-I want it badly. This chapter didn’t give me Pace on the page, but it made his next appearance bigger by making him public. That matters to me. After all my worrying about the warm house being the only place she had a name, now he is moving toward her life, her people, her outside world. He still has not said the word I am waiting for. I have not forgotten. But “I want to meet your people” is not nothing. It is him crossing toward her.
-
-GATE 55 — Across
+GATE 55 — Nothing Underneath
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-ALMOST-STOPPED: none
-WHY: This was warm, funny, and socially satisfying, and it let Vee be desired and brave without being isolated inside sex. I am very ready for Wednesday because Pace meeting Randi, Cassie, Kayla, Meg, and maybe Theo feels like the private spell finally walking into a lit room.
+CAPTURE: 10
+NEXT: 8
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “You don't do it with words. Words are the whole war.”
+WHY: I was nervous this would let Pace off the hook by making Vee’s body solve what his words wouldn’t, but the chapter made the choice feel like hers, not a surrender. The sex was scorching because it was loaded with missing and relief, and the care afterward landed hard. I still want the naming, but I am absolutely reading on.

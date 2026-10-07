@@ -4092,6 +4092,13 @@ text = "He took up with a girl from the Methodist church over the summer, I hear
 note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
 
 [[ok]]
+fp   = "f3664ce9d1c0"
+rule = "filter-verbs"
+file = "scenes/rock.md"
+text = "She felt soft all through."
+note = "author 2026-09-29: 'She felt soft' stands"
+
+[[ok]]
 fp   = "455b390338ed"
 rule = "learn"
 file = "scenes/rock.md"
@@ -4125,6 +4132,13 @@ rule = "not-x-but-y"
 file = "scenes/rock.md"
 text = "The world shifted very slightly around her, not because she understood the mathematics, but because he did, and he had turned the understanding toward her like light."
 note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "0550e73fe500"
+rule = "the-way"
+file = "scenes/rock.md"
+text = "She had complained about math to her own table, and now she was in his bed with her leg over him, and he was asleep, and he was the kindest man she had ever known, and she had not known, before him, that a man could be all the way here."
+note = "author 2026-09-29: her own porch line echoed"
 
 [[ok]]
 fp   = "423e7972c35a"
@@ -4715,6 +4729,13 @@ text = "Her eyes went over Cassie's bunk — made tight and square, the corners 
 note = "Group B (2026-08-07): ruled at item 15 of the line-edit review. :13 is the paragraph's best figure; :81 is the class observation the boutique section rests on; :7 sits in reader-quoted territory (Cassie's bed); :95 completes the designed three-beat mirror callback to Peekaboo. Only the opening-nine-lines density was the problem, and :9/:15 fixed it."
 
 [[ok]]
+fp   = "c7bf17e246a6"
+rule = "the-way"
+file = "scenes/sorority.md"
+text = "It came out of her the way the tears had, without asking."
+note = "author ruling 2026-09-28: the leak sentence stands as proposed"
+
+[[ok]]
 fp   = "1598a3aadf20"
 rule = "there-was-were"
 file = "scenes/sorority.md"
@@ -4750,6 +4771,13 @@ text = "Randi had just said out loud, easy and offhand, the thing Vee had been r
 note = "Group F (2026-08-07): load-bearing warmth. :17 is the cool/warm tactile contrast, :65 is the delight folding into something surer, :71 is Vee's face answering Randi saying her secret out loud. The reflex instance (:7 'came back to Vee warm') was cut."
 
 [[ok]]
+fp   = "3d3e1108bc56"
+rule = "without-asking"
+file = "scenes/sorority.md"
+text = "It came out of her the way the tears had, without asking."
+note = "author ruling 2026-09-28: 'without asking' kept in Vee's leak sentence"
+
+[[ok]]
 fp   = "4bcfbd8a561a"
 rule = "x-not-y"
 file = "scenes/sorority.md"
@@ -4762,6 +4790,27 @@ rule = "x-not-y"
 file = "scenes/sorority.md"
 text = "\"Charmeuse,\" she said, not to Vee; to herself, or to the dress."
 note = "Group G (2026-08-07): three antitheses, well spread, none adjacent; :55 is in dialogue. No cluster."
+
+[[ok]]
+fp   = "b3f2558c1316"
+rule = "filter-verbs"
+file = "scenes/space.md"
+text = "I saw her from the top of the stairs and that was the whole story."
+note = "Randi's dialogue; author ruling 2026-10-04, re-acked after the glass-tell pass merged the following speech and re-armed the fingerprint"
+
+[[ok]]
+fp   = "d983e435cf82"
+rule = "filter-verbs"
+file = "scenes/space.md"
+text = "I saw her from the top of the stairs and that was the whole story.\""
+note = "author 2026-09-28: Randi speaking; the sense is the sentence"
+
+[[ok]]
+fp   = "da40c0a05603"
+rule = "filter-verbs"
+file = "scenes/space.md"
+text = "He felt that land."
+note = "author 2026-09-28: 'He felt that land' stands; the sentence is about him receiving it"
 
 [[ok]]
 fp   = "c9a4366ae728"

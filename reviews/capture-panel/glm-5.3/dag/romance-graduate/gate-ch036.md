@@ -1,15 +1,20 @@
-*capture-dag-v2-rich · gate ch036 · glm-5.3 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~9782a926aac2 · 2026-09-10*
+*capture-dag-v2-rich · gate ch036 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · 2026-10-01*
 
-REACTION — Okay, this one's a breather, and honestly I needed it after the bistro chapter wrung me out. But leave it to this book to make even a roommate-at-midnight chapter have a knife in it. The tomato story — Vee's hand going to the side of her breast while she tells it, not knowing it moved — that's the whole book in one gesture. Her body keeps narrating what her mouth won't. And Cassie clocking "not enough on" — Cassie sees EVERYTHING. She's doing the math Vee won't do: warm house, never thinks about how much she has on, gone more nights than not. Cassie is the reader's proxy in that room, quietly counting deposits into the audit ledger.
+REACTION — God, okay. The second costume. I actually put the book down for a second when she came back down that hallway in just the heels, because I knew it was coming and it still landed. "And this is what I had on under it" — she's got the line ready, she's got the walk ready, and then her hip cocking out "before she knew a thing about it" and I love that the book keeps doing this: her plans are hers, and her body runs a half-step ahead of them and that's where the real heat lives.
 
-The thing that got me most was Vee saying "maybe, I think so" about loving him — after we just watched her say it plainly in the dark in ch. 35. She can say it to his sleeping body, she can't say it to her best friend awake. And it's the wrong best friend! That's what aches. She gives the real confession to Cassie and the curated version to Randi; Randi gets the spanking story over mimosas, Cassie gets the baked tomatoes and the "maybe." Neither friend gets the whole girl. Nobody gets the whole girl except maybe the reader, and that's exactly what the jacket promised and it keeps delivering.
+But what got me isn't the nakedness, it's the *pacing of him*. He doesn't leave the chair. She tells him to sit, he makes himself sit, and then he stays there through BOTH viewings — and the moment where his hand comes partway up and he puts it away, and she can *see what it costs him* — that's the whole chapter. A lazier book would've had him out of the recliner and on her by costume two. This one makes the looking be the touch. "The other is for the world. This is just for me." I reread that twice. After the induction — where the dress performed for a room and only she knew the secret in the frame — this is her taking the secret and handing it to the one person who built the dress. The maker finally gets the debut. And the detail that undid me quietly: she brought the dress in her car and told herself she wasn't planning the night. Vee, honey, the dress *was* the bag you didn't pack.
 
-"It's all so fast" — YES, Vee, it is. Eleven weeks-ish of chapters and she's basically living there. The drawer in the last chapter was an engagement announcement written in scrunchies, and Cassie's "You don't come home school nights" is the first voice outside the bubble saying the water's rising fast. Cassie didn't push. I love her so much for not pushing. "Go to sleep, streetlight. Some of us have class" — that's the honest friend holding the door open and leaving it unlocked.
+Also — she left her heels at his house. "Sitting together by the bedroom wall where she'd finally been let out of them — after, and only after, her bet was paid." The shoes live there now. She's keeping a wardrobe there without admitting it, one strap at a time, and the book said it in a clause and moved on. That's the grown-up version of the trope and I'll take it.
 
-No heat this chapter, and I didn't miss it — it's the counterweight that makes the heat land. Though "warm enough that she never once thought about how much she had on" is doing quiet, filthy work as a callback.
+The Halloween framing is doing quiet work too — "everyone out being somebody else on the one night a year nobody had to explain it," and there she is in a house with no doorbell traffic, being more herself than she's ever been in her life. She doesn't need the excuse. She used it anyway. That's her — every door on her own nerve, wearing someone else's holiday as a fig leaf.
 
-GATE 36 — School Nights
+It's a short chapter and it's basically one scene, and I don't mind at all — it's not throat-clearing, it's a held breath. My only flicker of caution: the pattern of these scenes is always the same rhythm now — her escalating dare, him staying exquisitely still, the unnamed thing glowing in the corner. It works every single time, but I've noticed it three times in a row, and I'm watching for the book to break its own pattern before I get bored of watching it execute perfectly.
+
+GATE 36 — Made-Up
 DECISION: CONTINUE
-CAPTURE: 6
-ALMOST-STOPPED: none
-WHY: A down-tempo chapter, but it did the one thing I stay for: it let a quiet scene carry real weight. Cassie asking "do you love him" and Vee going small — that's the grown-up emotional intelligence I can't get anywhere else on my Kindle, and the heat chapters have banked enough trust that I'll happily take a breath before whatever's coming. I still need the fuse chapters to pay off — the pointing game, Randi's grenade — and I trust they're coming.
+CAPTURE: 8
+NEXT: 8
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none — though "sunrise and sunset" got one raised eyebrow from me before "this is just for me" cashed it.
+WHY: The hallway walk in the heels and his hand going partway up and being put away — that's the charge I read these books for, earned by the whole induction arc. She chose every inch of it and so did he, and the chapter ends on a held note that makes me want the next one immediately.

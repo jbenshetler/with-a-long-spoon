@@ -1,23 +1,24 @@
-*capture-dag-v2-rich · gate ch034 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~702b7231d0c3 · 2026-09-11*
+*capture-dag-v2-rich · gate ch034 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 230524645ef4 · 2026-10-01*
 
-REACTION —
+REACTION — Oh, this one got me in that very specific place where the book knows the difference between being looked at and choosing to be seen.
 
-Oh, Randi is going to be the death of me.
+I have been waiting for this induction like a little maniac, and I love that the room isn’t the fantasy version she built. Nobody gasps when she enters, nobody magically orients around her because she has finally become beautiful. It’s a dull, warm, institutional room with folding seats and navy dresses and parents and bad coffee, which makes what she does feel so much more hers. The room does not give her the moment. She takes the second step.
 
-This chapter made me feel like I was watching Vee sit in the prettiest little sunlit trap in town, and the awful thing is that the trap is brunch. Mimosas, glass, butter, citrus, tablecloths, Randi with sunglasses in her hair looking effortless and saying “There’s my girl.” I hate how completely I understand why Vee warms to that. Same drink, same morning, the little ritual of being included. Randi doesn’t have to shove. She just makes the chair beside her feel like a chosen place.
+That second step. God. The first careful step, the possible life where she could have worn the dress modestly and secretly and safely, and then deciding, no, I am going to let this dress do what it was made to do. I am going to let my leg out. I am going to give the room something and not apologize for knowing I have it. That is exactly the Vee I want and fear: awake in her body, making a choice before she has language cleaned up around it.
 
-And then Vee tells her. God, of course she tells her. I knew she would, but watching it happen in daylight was somehow dirtier than the spanking itself. With Pace it was private and contained and almost holy in that dangerous way he has. With Randi, it becomes performance and confession and flirtation and a second seduction layered over the first. Randi asks exactly the right questions. Not crude, not rushed. “Walk me.” That is the whole problem. Vee is walking herself right back into the scene, piece by piece, and Randi is holding the door.
+And the fact that Pace is absent works on me more than I expected. I thought I wanted him in the room watching, but him not being there makes the act cleaner. The dress is his making, yes, and the shoes are Randi’s finding, and Cassie is holding the phone, so all three of them are still somehow in the scene. But the walk itself is Vee’s. Nobody tells her to take the long step. Nobody catches her eye. Nobody narrates it into permission. She does it and then has to sit back down like a perfectly respectable girl with a scroll, with the whole private thunderstorm still going under the dress. Delicious.
 
-What got me is that Vee is aroused less by the facts than by being known through them. Randi’s attention is not passive. It touches. She doesn’t lay a hand on Vee in the restaurant and still somehow gets her across the table, into the bathroom, hand in her underwear, almost over the edge. I was genuinely tense in that stall. Not because of the public-place thing, though yes, that too, but because Randi’s face arriving in Vee’s mind stopped her. That was enormous. Pace can make Vee’s body say yes before her mouth does. Randi can make her body stop. That is power, and Vee has no vocabulary for it yet.
+Cassie also made me weirdly emotional here. “You look—” and stopping? That’s more sincere than a paragraph from anyone else. And “Honor student” after seeing exactly what Vee did, dry and proud and a little tearful, is why I keep clinging to her. Cassie sees Vee without converting her into material. Even taking the photo feels like witness, not harvest. I trust Cassie with that picture in a way I do not trust Randi with a story.
 
-“Sticky fingers?” I nearly threw the book. That is exactly the kind of line that could be either nothing or everything, and Randi knows that ambiguity is a leash. The pastry excuse is plausible. The glaze on Randi’s mouth later makes it worse, because now Vee is literally tasting the thing she never touched. Sugar by transfer. Desire by plausible deniability. Friendship with a mouth-shaped loophole.
+And then Vee sends it to Pace uncropped. I did make a noise there. Because he deserves to see the dress, and because he made it for this, and because it is hot as hell to imagine him opening it in a Berkeley hotel. But also: “He would have no idea what else was in the frame. That part was hers.” Thank you. Thank you. After the practice-room chapter, after Randi turning Vee’s private discoveries into heat between adults who know more than she does, I needed one thing that stayed inside Vee. Even if she sends the image, the meaning is not fully sent. She keeps the charge. She keeps the walk.
 
-And then “You’re my best friend in the whole world.” Cruel? Maybe. True? Maybe. Both? That is what keeps me in this book. Randi is not just playing a part. She wants Vee, and she wants to keep Vee close, and she is feeding Vee’s hunger while also becoming part of the hunger. The kiss after that felt so much more intimate than if she’d just grabbed her in the bathroom. Soft, normalized, almost socially invisible, and completely not innocent.
+This chapter is short and it absolutely is a bridge, but it’s the bridge I wanted. It pays off the dress without over-explaining it. It doesn’t give me sex, but it gives me erotic self-possession, which is sometimes hotter because it changes the person. Vee walking out with the slit swinging because the dread is gone and maybe pride and heat are the same now? Yes. Yes, exactly. I am still worried sick, but I am not bored for one second.
 
-I am a little mad at Vee, but in the way I’m mad at someone walking barefoot toward music in a dark room. Cassie is vanishing by the chapter. Pace is being metabolized into stories Vee brings to Randi. And Randi is sitting there, black coffee, one bite of pastry, full control, while Vee is soaked and aching and grateful to be chosen. That is sinister and hot and emotionally precise enough that I cannot pretend I’m above it.
-
-GATE 34 — One Bite
+GATE 34 — The Induction
 DECISION: CONTINUE
 CAPTURE: 9
+NEXT: 8
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was the Randi/Vee chapter I was waiting for: no overt crossing, but absolutely a sexual event. The bathroom stop, “Sticky fingers?”, and the pastry-glaze kiss all made me feel like Vee is being seduced through uncertainty itself, and I am embarrassingly hooked.
+WHY: This was the payoff I wanted for the dress: not a public Cinderella fantasy, but Vee deciding to be visible on purpose. Pace’s absence, Cassie’s witness, and Vee keeping the deepest part of the photo for herself made it feel like an actual turn in her, not just another staged unveiling.

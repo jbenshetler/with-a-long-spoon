@@ -20,7 +20,7 @@ Three times the volume runs *event → Cassie → Randi* in consecutive chapters
 | Fitting | {{A Round}} | {{Turned Up}} | {{How It's Done}} | 6,440 · 2,012 · 5,179 |
 | Friday night | {{Famished}} | {{Toenails}} | {{Fed}} | 2,179 · 789 · 2,179 |
 
-The double tellings stay — the divergences are the payload (*I did it on purpose, me* → *because of him*; *a few days* → *two days*; brass cages → *May I choose*; *he just looked* → *I let him look*). The dates are fixed, so distance is not available inside a stack; **proportion is the lever**, and {{Turned Up}} (48% recount, same afternoon as its event) is the heaviest. Portion (on branch `split-vol1-experiment`) breaks the Friday stack's tail there.
+The double tellings stay — the divergences are the payload (*I did it on purpose, me* → *because of him*; *a few days* → *two days*; brass cages → *May I choose*; *he just looked* → *I let him look*). The dates are fixed, so distance is not available inside a stack; **proportion is the lever**, and {{Turned Up}} (48% recount, same afternoon as its event) is the heaviest. {{Portion}} now breaks the Friday stack's tail.
 
 ## The gauge — what each confidante is given, by date
 

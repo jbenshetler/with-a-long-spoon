@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 025d1b3f1ab8 · 2026-09-19*
+*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-07*
 
-REACTION:
+REACTION
 
-Oh, this hurt. This hurt in a completely different way than the secret or the Randi stuff—this is the specific, hollow ache of loving someone with everything you have while realizing that all his incredible tenderness might still have a wall around it you can’t cross.
+I am still vibrating from the whiplash of what came right before this. Coming off Chapter 43—where Pace and Randi are literally fucking each other raw on his couch, talking about Vee’s wet hair, dissecting her kisses, confirming that they *stalked her on the quad in September and marked her like an animal*—and then stepping directly into this cold library study room? God, my stomach hurts for Vee. It physically hurts.
 
-I felt so deeply for her in that opening fight. It was messy and unfair—snapping at him about the Rusty Nail, accusing him of only wanting sex, dragging him to a Chili’s out of sheer, petty desperation to force him into the fluorescent light of the real world—and it was *so human*. When you’re terrified that the most intense thing in your life is just a private fantasy contained inside four walls, you pick a fight. You throw an ugly, loud daytime voice into the quiet room just to see if it bounces back or breaks something.
+Watching Vee sit in the middle of that desk, wanting so badly to love both these girls, doing the classic "protect the glamorous friend" routine because she thinks Randi is this fragile, wounded creature whose daddy let her down... Vee, honey, she is playing chess with your entire life. Randi isn't just a victim of her father's dirty money; she's an architect of your whole autumn. The sheer dramatic irony is suffocating. Cassie is sitting right there, completely pure and uncompromising with her working-class dad and her zero-bullshit radar, and Randi is quietly sweating through her silk over a fraudulent PPP loan, and Vee just steps right in to shield Randi from feeling embarrassed. That is who Vee is. She takes the hit, she smooths the edges, she covers for people. She did it her whole life to take up less space, and now she’s doing it for the woman who is literally coordinating her bedroom schedule with her boyfriend.
 
-And Pace… God, Pace breaks my heart here too. The Chili’s scene was devastatingly observant. He wasn’t ignoring her because he was ashamed of her; he was visibly overstimulated and drowning in the chaos of four screens and blaring pop music, desperately trying to square his fork and bring his eyes back to her face. His explanation back at the house—*“In a room like that I listen as hard as I know how and I still can't hear you. Somewhere quieter, I can. And I do. I'm listening now”*—is so purely him. It’s why I love him. He doesn't do performative, glossy dates; his attention is quiet, deep, and singular.
+And yet, I couldn't look away from Randi cracking here. For all her terrifying control, she genuinely believed her family was the noble exception. She actually thought the data would back up her golden-girl narrative, and seeing the "MIRA" point blow up in her face—watching the blood drain out of her while she mutters *"Cheating bastards"*—was the first time we've seen Randi truly exposed and humiliated. Not sexy-vulnerable like she pretends to be with Pace, but genuinely, uglily cornered by reality.
 
-And then the sex. When his patience finally broke—when she wanted him to stop being so careful, and he took her with that raw, urgent need, losing the control he guards so fiercely—it was breathtaking. The consent here isn't a checklist; it's the fact that he listens to her body's deepest, unspoken cries and answers them with everything he has.
+It’s a quiet chapter, zero heat, all plot architecture, but the tension is thick enough to choke on. Vee thinks she's holding a secret that protects Randi. She has no idea Randi is holding a secret that will burn Vee's entire world to the ground.
 
-*Except* the word.
-
-That ending is an absolute gut punch. Lying in the dark, marked all over by him, full of his warmth, and realizing that she has given him total ownership of her life while possessing nothing of his in return. He won't say *I love you*. He won't give it a name. And knowing what I know from the jacket—that this whole beautiful, all-consuming world was engineered behind her back, that Randi is pulling strings she can't see—makes her isolation in that bed terrifying. She’s completely untethered from her old life, her family, her friends, all for a man who gives her every drop of his body and his care, but still holds the lock on the door.
-
-***
-
-GATE 44 — Under the Rug
+GATE 44 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological friction here is incredible—Vee’s messy, desperate need to name what they are clashing against Pace’s quiet, impenetrable boundaries. The heat was scorching, but the emotional ache of her lying awake in the dark beside him, utterly his while having no proof he's hers, is what has me completely hooked.
+WHY: The dramatic irony after Chapter 43 is almost unbearable, and watching Randi's polished armor crack over real-world data was deeply satisfying. I need to see how long Vee can keep making excuses for people who are actively plotting around her.

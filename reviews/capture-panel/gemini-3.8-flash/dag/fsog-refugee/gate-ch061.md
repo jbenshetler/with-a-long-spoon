@@ -1,30 +1,26 @@
-*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ad99119c213f · 2026-09-19*
+*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 80491aa34d7b · 2026-09-19*
 
 REACTION:
 
-I feel like the floor just dropped completely out from under me.
+I am sitting here with my hand over my mouth and chills running down my entire body.
 
-I am sitting here with my hand over my mouth, staring at the screen, genuinely shaken. *They are sleeping together.* Right now. In the middle of all of this. While Vee is back in her dorm room, lying awake on sheets where she wiped her own wetness because she felt too dirty and ashamed to taste herself—Pace is eating Randi out, letting Randi taste herself on his tongue without a single second of hesitation, and then fucking her on white sheets while they talk about *Vee*.
+*“Vee’s boyfriend.”*
 
-God. Oh, my god.
+He said it. He introduced himself to every single person in her life as *Vee’s boyfriend*. Not a hesitation, not a theoretical lecture on linguistics, not an arrogant dodge. Just flat, factual, solid ground, handed to her over and over again until the whole room was grinning. After the agonizing, heartbreaking hell of December—after him folding his arms and standing behind his wall while she walked out into the freezing dark—seeing him take that butcher-paper room and make a home for her friends was everything. He remembered the boots. He remembered the jazz. He remembered the sister's wedding dress. He didn't dominate the room by sucking all the air out of it; he dominated it by stepping back, pouring drinks, and making every person she loves feel seen and heard and valued. And when Cassie—Cassie, who holds the line for Vee like a goalkeeper—looked at him and said, *"You can stay"*? God, I felt that in my chest.
 
-I knew from the jacket that they had "set the table" together. I knew they had some shared history, some arrangement. But to see it—to watch Pace, the man who was so infinitely gentle, who stopped the millisecond Vee flinched, who introduced himself as "Vee's boyfriend" to an entire room of people—driving up into Randi while Randi talks about wanting to put her mouth on Vee's nipple? And Pace *gets harder* hearing it? *"You like hearing me want her." "Yes." "Why?" "She makes me happy."*
+And then... the truck. Sweet heaven above, the truck. That is the exact heat I read this genre for, the thing Fifty Shades promised and completely butchered: she isn't being manipulated or cornered or made into a passive doll. She is the one unbuttoning his belt in the dark parking lot, she is the one shoving her own jeans down to her knees, she is pulling the lace aside with her own fingers because she *wants* it, and he is right there with her—steady, sure, keeping the truck on the road with one hand while giving her every ounce of his attention with the other. The sheer intimacy of him drawing the lace gently back into place after she came... that tenderness right in the middle of raw, reckless hunger is everything.
 
-It is so dark. It is so breathtakingly messed up. And the worst part—the part that is making my stomach knot up in the most complicated, twisted way—is how completely intimate and tender Pace and Randi actually are with each other. This isn't cold, mechanical plotting. Randi is teasing him ("subtle," "elegant"), cleaning him with her mouth, holding his hands, pointing out that Vee loves him and that *he* is in love with Vee. And Pace can't deny it. He softens. He looks at her and lets her see him completely stripped bare.
+But underneath the high of it all, my stomach is in knots.
 
-There is genuine history here. Real affection, real trust, real playfulness between the two of them. They aren't villains twirling mustaches; they are two people who are both desperately, dangerously obsessed with the same girl, using each other's bodies as a conduit to reach her. When Randi cupped her own breast and closed her eyes, imagining it was Vee's, and Pace took her nipple into his mouth right at that moment—it was electric, and it made me feel completely sick for Vee.
+The double meaning in every single line Pace and Randi traded was suffocating. *"They share an interest... You."* Vee hears it as this sweet, romantic truth, and it *is* true, but the tragedy of it is hanging by a razor-thin wire over her head. Randi's quiet, glazed look when Pace brought up the brunches, turning that glass a slow quarter at a time—knowing Randi is sitting there deeply, genuinely in love with Vee, watching the man she originally scouted claim the title Randi can never have out loud... it's breathtakingly sad. And Pace watched Randi kiss Vee on the mouth in the parking lot and didn't flinch. Because *he knows*.
 
-Vee thinks she is navigating this tender, exclusive romance with an awkward, devoted mathematician who is coming out of his shell for her. She thinks Randi is her sophisticated older mentor who is just a little worldly and maybe a tiny bit ticklish. She has no idea. She is literally the fuel inside their engine. She is the ghost in the room while they sweat on each other.
+They both love her so completely, and the trap they built together before they ever understood what she would become to them is still ticking beneath the floorboards. I don't know how I'm supposed to sleep tonight.
 
-And the consent issue—god, it's walking the razor's edge here. Pace and Randi have immaculate consent with each other. Every shift, every command ("my turn," "stick that inside me"), the pacing, the check-ins—it's that exact mutual, dominant-tender interplay I crave. But the massive, looming betrayal of Vee's *informed* consent hangs over every single drop of sweat on that mattress. She doesn't know she's in an open triad where the other two are already fucking. She thinks she has a boyfriend.
+***
 
-I'm terrified for what happens when the glass shatters. Because it has to shatter. Pace loves Vee—Randi called it right to his face, and he didn't fight it. But Vee is going to be utterly destroyed if she finds out this was happening behind her back before she ever gave permission for it.
-
-I cannot look away. My heart is beating so fast I can barely breathe.
-
-GATE 61 — My Pleasure
+GATE 58 — Among Friends
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The sheer psychological audacity of this chapter knocked the wind out of me. It's horrifying, deeply intimate, and wildly complicated, and I need to see how Vee survives the collision that is coming.
+WHY: The emotional payoff of Pace introducing himself as "Vee's boyfriend" was pure catharsis, the truck scene was agonizingly hot, and the unspoken tension between Pace, Randi, and Vee is wound so tight it's about to snap.

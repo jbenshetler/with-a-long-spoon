@@ -1,19 +1,20 @@
-*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~702b7231d0c3 · 2026-09-10*
+*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 230524645ef4 · 2026-10-01*
 
-REACTION — Oh, Randi knows. She absolutely knows. “Sticky fingers?” was a knife slipped in so delicately Vee still thanked her for the door afterward. And I am losing my mind over the fact that Randi can make her flee a public table to touch herself, apparently identify exactly what happened, then meet her terror with pastries, best-friend devotion, and that soft practiced kiss. This woman could weaponize a brunch napkin.
+Oh, this got me. She finally had the room she’d been imagining, discovered it wasn’t going to turn for her by magic, and made it turn. Not because Pace was watching. Not because Randi told her how to walk. She took that second step herself. That matters enormously to me right now.
 
-Vee stopping with her own hand barely inside herself because Randi’s face appeared—not Pace, not the spanking, not even the invented woman in the bedroom, but Randi looking at her with fond attention—is the conscious sentence I’ve been waiting for, even though Vee still cannot say it. Her desire is no longer hiding in incidental bodily reactions. She was masturbating to being seen by Randi, and the wanting became “ashamed and obedient” under an imagined look. That word *obedient* scares me badly. Randi has acquired authority inside Vee’s head without ever admitting she asked for it.
+And yes, it was hot. Not coyly “she felt beautiful” hot: she was bare under silk in a room full of parents, deliberately opened the slit to her hip, felt everyone understand without being allowed to say what they understood, and got turned on by her own nerve. That is exactly the collision I want from this book—interiority and explicit charge occupying the same act. I loved that pride and arousal became impossible for her to separate. Why should she have to separate them?
 
-And Randi’s story is bullshit. I no longer give it even the courtesy of “probably.” Once again she produces an exquisitely tailored sexual anecdote at precisely the moment Vee needs one, this time borrowing Pace’s own erotic grammar—force followed by room to choose—then placing herself spread and touching herself where anyone might see. It is built directly out of Vee’s new exhibitionism, her arousal at confession, and the thing she failed to finish in the practice-room bathroom. Randi is not sharing. She is feeding Vee one bite at a time and watching to see what her body does.
+The picture going to Pace uncropped while the deepest meaning of it remained hers was perfect. He made the dress and gave her the possibility, but he does not own what she did inside it. For once, there is a secret in this book that belongs to Vee because she chose to keep it, not because two other people withheld the architecture of her life.
 
-Which makes “You’re my best friend in the whole world” almost unbearable. I believe her. That is the problem. I believe the warmth, the fear of something between them, the genuine pleasure when Vee arrives. Randi is not faking intimacy; she is using real intimacy as the delivery system. Vee experiences being chosen as a miracle because she still cannot imagine that a woman like Randi might choose her with desire, so every escalation gets filed under friendship even while she is wet, shaking, and unable to breathe.
+And Cassie. “Go make your mother cry again.” Taking the phone. The unfinished “You look—.” Catching the exact photograph Vee needed without turning the moment into a production. Then buying her a terrible sandwich and letting her be famous at someone who loves her cleanly. I could cry. Cassie gives Vee witness without directing her, and that distinction is becoming almost unbearably important.
 
-That final sweetness on Vee’s lip is obscene in the quietest possible way. Randi takes one deliberate bite, leaves the rest, closes the subject—and then puts the taste into Vee’s mouth without telling her. One bite. Of course. This entire seduction is one bite, then another, each small enough that Vee can refuse to name the meal.
+I did feel the shadow under the triumph: Randi chose the unaffordable shoes and knelt to fasten them; Pace built the dress; Vee is still walking inside structures other people supplied. But the walk was hers. The long step was hers. That murmur was hers. Whatever comes when all the hidden planning is exposed, nobody gets to take this moment away from her.
 
-What I would text at 1 a.m.: SHE MADE HER MASTURBATE AT BRUNCH, MADE HER STOP JUST BY EXISTING IN HER HEAD, MAYBE TOLD HER SHE KNEW, THEN KISSED PASTRY GLAZE INTO HER MOUTH. I need Randi exposed immediately and I also need her to kiss Vee again immediately, which is exactly the trap and I resent how willingly I am in it.
-
-GATE 34 — One Bite
+GATE 34 — The Induction
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
+NEXT: 8
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This is exactly the combination I came for: explicit enough to make me hot, psychologically exact enough to make the heat frightening. Randi now lives inside Vee’s desire as lover, witness, best friend, and authority, and Vee still cannot name even one of those contradictions.
+WHY: Vee made the room turn instead of waiting to be chosen by it, and the charge came from her own deliberate visibility. I’m elated for her—and increasingly desperate for the book to let her keep this ownership when the concealed structure finally comes apart.

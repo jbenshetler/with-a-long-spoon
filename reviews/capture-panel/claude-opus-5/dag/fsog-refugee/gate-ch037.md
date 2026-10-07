@@ -1,0 +1,34 @@
+*capture-dag-v2-rich · gate ch037 · claude-opus-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 51b3205f6eee · 2026-10-02*
+
+REACTION
+
+Okay. The pastry.
+
+She took *one bite.* One neat bite, said "Delicious" in the voice that closes a subject, set it down, didn't touch it again, drank her coffee black — and then at the curb she kissed Vee with a little more in it the second time, and there was sugar and butter on Vee's lip from a pastry she never touched. She ate that bite to *have something to hand over with her mouth.* The woman who drew one line through the sauce and ate nothing in his kitchen took exactly one bite of a glazed pastry and spent it. That is the single most calculating thing anybody has done in two books and it's also the most starving, and I don't know what to do with my hands.
+
+And I believed the brunch while I was in it, that's the thing. It opened so *nice.* The glass porch, the good light, "there's my girl," and then — God — the mimosa. She ordered the cheapest yes on the card and made it sound like she orders a thousand of them, and Randi said "two" without opening the wine list, and Vee's little animal heart warmed itself at *we're the same.* We are not the same. Randi matched her so Vee would feel matched. Everything in this woman's hands is a tool and every tool is also, somehow, a kindness. I cannot get them apart. I've stopped trying; I think that's the book's whole point.
+
+Then the extraction. "He's vanilla" — one word, perfectly placed, and Vee spent the whole weekend across a tablecloth to prove it wasn't true. *He is not vanilla. He spanked me.* She got walked through it question by question — *walk me* — the bet, the checking, the stripping, the heels, the face in the covers, "I'll bet he could see everything," "there was no way he couldn't." And the telling was doing it to her *again,* live, in the sun, over the cloth, and she had to press her thighs together with a napkin for cover. I've read a hundred books where a woman gets interrogated about her sex life by another woman and it's girl-talk filler. This was a hand under the table. Randi never touched her once and got her off the chair.
+
+And then Randi takes the floor and tells her a story about a blond boy who kisses forcefully but knows to ease off and leave you room to come after him — oh, does he — and who gets two phone calls and *conveniently has to go,* leaving her alone in a strange upstairs room with the engine running, dress up, panties aside, knees wide, "doing a private dance." Come on. That's the third fake man. Switzerland, the mouse that roars, now a young Robert Redford. These men do not exist. They are built, each one, with a single purpose and then disposed of, and this one was built as a masturbation instruction delivered at eleven in the morning with a straight face. And the mouse-that-roars one — I noticed, and I'm sitting with it — that story *didn't match what Pace actually did.* No counting, no theatre, no hand slipping. Randi wasn't remembering. She was *priming.* She wrote the script a week early so Vee would walk into that bedroom already wanting the thing, already braced for a version worse than what she got, so the real thing would land as mercy. Pace was gentle on his own. But the wanting got installed.
+
+Then the stall. And this is where the book earned me all over again, because Vee *stopped.* She had her own hand on herself, already given, already soaked, and Randi's face came up behind her eyes — clear and fond and near, *as though Vee were the best thing in the room* — and she couldn't be looked at like that and keep her hand where it was. "The two would not hold in one body." She stopped, barely breached, an inch off, and it curdled into something low and ashamed and *obedient.* Frustrated and cowed in the same breath. That's the most honest sentence about wanting something you haven't admitted yet that I've read in this genre. She didn't get a revelation. She got sent back to the table with her pulse in her ears and nothing resolved, and she blotted herself with dry paper and pulled her underwear up over all of it and went back out.
+
+And Randi said *sticky fingers?*
+
+I made a noise. I actually made a noise in my chair. And the book does the cruelest, most perfect thing available, which is to hand her the pastry plate a half-second later and let her never find out. *She could not tell whether her friend had just handed her a door or shown her there had never been one.* Randi knew. Randi absolutely knew, she's known since the practice room, she's been running this for weeks, and she said it out loud in a way that can never be proven and left the exit standing open so Vee could walk back into her own chair and keep being the girl who doesn't know. That's the most frightening line in two volumes and nothing in it is a threat.
+
+And then — *and then* — on the sidewalk, in the cold, with Vee shaking, "I couldn't bear it if there was something between us. You're my best friend in the whole world." Delivered at the exact moment of maximum rawness, to a girl from Ohio with casseroles and a spice rack with the seals unbroken who has never once in her life been *picked.* The cold morning went briefly luminous. Of course it did. She'd have gone anywhere after that sentence. That's the bill coming due in a currency that isn't money, and it isn't even punishment — it's a gift, and the gift is the hook.
+
+What I'd text a friend at one in the morning: *she ate one bite of the pastry so the sugar would be on her mouth for the kiss.* That's it. That's the whole text. I wouldn't need to explain.
+
+What I'm sitting with, cold: Randi is the only person in this book nobody has ever asked. She can't ask for the table. She can't ask Vee for anything. So she builds a world where Vee reaches, and reaching is real, and it's *hers,* genuinely — the jacket's not lying, the wanting is Vee's, it predates both of them — and Randi still gets to stay the one who never said *may I.* She said it the other way. She said *best friend,* and meant it, and that's the terrible part. I don't think she's lying about the loving. I think the loving is why the machine is this good.
+
+GATE 37 — One Bite
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "there's this blond boy, a young Robert Redford, I swear it, and we just *caught*" — third invented man, and I was briefly impatient with the device before I understood it was doing something worse than filler.
+WHY: A fully clothed brunch with no hand ever laid on her was hotter than the bedroom chapter, and then it closed on a thread of glaze from a pastry she never touched — I had to put the book down and stare at the wall. "Sticky fingers?" and the door that may never have been there is the best scare this series has given me. I need the next chapter and I need somebody, eventually, to ask Vee one honest question.

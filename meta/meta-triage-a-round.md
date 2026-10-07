@@ -223,3 +223,9 @@ See echo ledger #61, which also records the rule that governs this whole area:
 **never ration the move.** Exceeding a pretext by a fraction is the book's
 subject; duration, degree and excess are three grammars for one idea. Only the
 phrasing is ever negotiable.
+
+## Line-editor pass (fable-5-1 whole-volume read, 2026-09-30)
+
+- **"What she'd gotten was — she hunted for the word — *admired*."** — tagged
+  *told-after-shown*; no other reader quoted it (0 of 159 files). Author ruling
+  2026-09-30: stands — "admired is strong."

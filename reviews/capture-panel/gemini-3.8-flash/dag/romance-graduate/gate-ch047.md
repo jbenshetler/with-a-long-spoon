@@ -1,26 +1,27 @@
-*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ca7450e92130 · 2026-09-19*
+*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-07*
 
-REACTION:
+REACTION
 
-Oh, wow. What an unexpected, pitch-perfect detour. After leaving Vee bleeding out on Peter’s doorstep in chapter 46, dropping us into Randi’s head in Gstaad could have felt like agonizing narrative whiplash—except it did the exact opposite. It illuminated the entire architecture of this book.
+*“I love how good we are together.”*
+*“What you do — what your body does — I’ve never. I’m glad you feel it too.”*
 
-Seeing Randi from the inside broke my heart in a way I was not prepared for. Up until now, she’s been the untouchable sorority queen, the psychological apex predator toying with Vee like a cat with a mouse. But here? Eating her revulsion at breakfast with her corrupt father, sitting across from an ice-pick mother in a tennis bracelet, keeping her own plain gold band out of the light—she is living in an absolute emotional cryogenic chamber.
+I felt that in my chest like a physical blow. The air just completely left the room.
 
-And then John. God, the execution of the "fairytale" was ruthless. He is the ultimate romance-novel hero on paper: towering, tanned jaw, New Haven law degree, cotillion-trained, conjuring sleighs and Michelin-starred venison with truffle shavings, skiing with effortless aristocratic grace. It’s the exact billionaire/alpha fantasy my Kindle has been choking on for years. And this chapter guts that fantasy with a scalpel. Randi gets the grand romantic climax, the white-tie ball, the New Year's kiss in the falling snow, the hot sex in the luxury suite—and she wakes up in the middle of the night feeling like she just ate a dry sandwich on a busy afternoon.
+She gave him her heart disguised as a metaphor because she was too terrified to violate the unspoken rule of waiting for him to say *I love you* first. She built that sentence like a little glass shrine—*I had been eating crackers my whole life, and you fed me a meal*—and handed it to him in the dark under his quilt. And what did he do? He took two breaths. Two calculated, deliberate breaths, the mathematician running the ledger in his head, making damn sure he didn't cross a line he couldn't take back. And then he redirected the entire emotional weight of her offering straight into her *flesh*.
 
-*"This man had taken a beautiful woman to bed, brought her pleasure, but never found her underneath."*
+*What your body does.*
 
-That line hit like a physical slap. Because that is Peter. Peter is the only one who actually looks at people, who sees the terrified, ugly, beautiful truth of them and doesn't flinch. Randi knows John is "safe" because he will never see her, while Peter terrifies her because he sees right through the veneer.
+God, it’s sickening. It’s so gentle, so wrapped in warm quilts and kisses on the crown of the head, and it is a brutal, calculated dodge. He didn't say *I love you*. He didn't even say *I love who you are*. He said he loves how good they are *together*, and then immediately reduced the miracle of what she feels down to *what your body does*. Because if it's about her body, it fits into the roster. If it's about her body, it's something Randi can share. If it's about her body, it keeps the cage clean.
 
-And then the turn to Vee. Jesus. The realization that Randi isn't just playing a cruel game of voyeurism; she is violently, desperately, hopelessly in love with Vee. Vee is the only person in Randi’s entire manufactured life who isn't currency. But Randi is a coward—she admits she’s built her life never to have to be brave—so she feeds Vee emojis and "fairytale" texts while lying cold next to a hollow trophy man, protecting the brunches because it's the only way she gets to have her.
+And the book title! *A Warm Reception.* "She had been received warmly, she would remind herself, in the small private way you remind yourself of evidence whose weight you are not sure of." That title was never a promise of hospitality—it was the verdict on a polite, devastating deflection. A *warm reception* instead of a return of love. It’s ice water disguised as hot coffee.
 
-This chapter didn't have Peter in the room, but his absence defined every single sentence. And it sets up the second half of the book with terrifying emotional stakes. Randi loves Vee. Vee loves Peter. Peter loves Vee (in a language he refuses to translate into words). And the whole gilded house of cards is about to implode when they all get back to Virginia.
+And Vee’s interiority here is just staggering. That scene in the laundry room with the clothes thumping in the dryer broke me. That realization that *she had said her best sentence, and he had not said the sentence back.* Watching her quietly take that rejection, wrap it up, and tuck it into the little dark drawer in her mind where she keeps all the other small flickers of doubt she can't afford to look at... it hurts so bad because it is so profoundly, painfully true to being twenty-one and desperately in love with someone who is managing you. She knows. Her body registered the *wait* before her brain did. The hairline fracture is officially in the foundation now. The illusion held through the spankings, through the loose bras, through the five nights away—but it couldn't survive her asking, in code, to be loved back, and receiving a performance review of her arousal instead.
 
-***
-
-GATE 47 — Fairytale
+GATE 47 — Seconds
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: Giving Randi an interior life this rich and tragic completely re-contextualizes the entire triangle, exposing the "fairytale" trope for the empty shell it is while making the emotional collision course between her, Vee, and Peter unbearable to wait for.
+WHY: The psychological precision of this gut-punch is masterclass writing. Watching Vee offer her heart in code, only for Pace to deliberately deflect it into a compliment about her body, makes the whole impending trainwreck feel sick, tragic, and utterly unputdownable.

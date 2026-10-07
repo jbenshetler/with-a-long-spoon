@@ -1,19 +1,24 @@
-*capture-dag-v2-rich · gate ch041 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~a3af5d5e997c · 2026-09-11*
+*capture-dag-v2-rich · gate ch041 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 38dcf8e44cd8 · 2026-10-01*
 
-REACTION — Oh, this one got me in the quieter place. Not the hot place exactly, though Pace sewing that dress is still a kind of erotic violence against my common sense. A man listening once, remembering the unaffordable magazine dress, then making it with his own hands? That is the sort of thing that would make me stupid too. I would also be standing in my childhood dining room unable to explain that the dress is not just a dress, it is evidence. It is being seen, measured, imagined, labored over. It is his attention made wearable.
+REACTION — Oh, this one got me exactly where I live.
 
-And I really felt the crop here. The picture her mother carries is literally the version that can survive family. Waist up. Proud daughter. Honor society. Pretty shoulders. Nothing of the slit, the bare thigh, the second step, the private knowledge underneath. Vee is living in layers now: the family version, the Cassie version, the Pace version, the Randi version, and the one she can barely tell herself. That is delicious, but also lonely. Because every crop protects her and cuts something off.
+The photograph. God. The photograph could have gone so wrong for me, because a naked picture is one of those genre things where my whole body goes on alert, like, are we about to pretend trust is the same thing as recklessness? But it didn’t. It stayed so beautifully inside her choosing. She offers it. She gets ready because she wants to decide what version of herself he keeps. He arranges her, yes, but it feels like being made beautiful by someone who knows how to look at her, not being handled like an object. And then he gives the phone back. That mattered so much. The picture is hers first. The sending is hers. “Believing him was the brave part” just about undid me, because yes, that is exactly the line this whole book keeps walking: not fearlessness, not naivete, but her choosing to trust because he has earned a little more of it.
 
-Her dad quietly pricing the dress hurt me more than I expected. Not because he is wrong to worry. He is not wrong. An expensive gift from a man does mean something, even if the something here is not exactly what he thinks. And I love that Vee understands him so precisely: sex he could categorize, sewing he could not. That is so true to family life, that sometimes tenderness is harder to confess than desire because desire at least has a drawer in people’s heads.
+And Pace here is almost unfair. His head on her breast after, taking comfort there, the soft kisses, the way he can be spent and still want her again because it’s *her* body and not just a body. That sentence about her being “a girl who had a body, not a body that happened to have a girl attached to it” is basically my whole reason for still reading erotic romance after all the books that made women into furniture and called it devotion. He wants her so plainly, but she is still inside herself. She is funny and pleased and greedy and proud. “You’ve used me terribly” made me laugh because it has the charge, but it’s not a cover for harm. She is luxuriating in being wanted.
 
-Cassie, bless her, asked the actual question: “So what is he… to you.” Not “is he your boyfriend,” not “are you being careful,” not “is this serious.” What is he. And Vee cannot answer because “boyfriend” is both true and ridiculously too small. He is lover, feeder, maker, watcher, almost-home, possible trapdoor, the man who stops when she says don’t, the man who still hasn’t told her the original sin. How do you say all that over cafeteria trays?
+And then the cooking. I know I keep saying this, but feeding is the other sex scene in this book. The lemon, the wine, the spoon, the first bite. He has changed how she tastes the world. That’s intimacy to me. Not just “he’s a good cook,” but that her senses have been educated awake by being cared for. And the quiet at the counter with their hands together? I could live in that for chapters. That’s the warmth I need alongside the heat, or the heat starts feeling hollow.
 
-I also noticed how much I wanted Cassie to push and how grateful I was that she didn’t. Same as Vee. That little “grateful, and also, a little, not” is exactly the ache. She wants to be known, but the knowing would require her to bring the uncropped version into daylight. And once she does that, someone like Cassie might see the whole shape before Vee is ready.
+But then: the parents. There it is. A shut door so clean I could hear the latch. “I don’t go back.” I liked Vee so much in that moment because she *felt* the boundary and didn’t pry. She can be hungry and still gentle. And Pace, who is so careful with her thresholds, has one of his own. I want that story badly now, but I’m also a little afraid of it, because Daphne and the scar and “Peter” are all still waiting behind that door.
 
-This chapter didn’t grab me by the throat, but it tightened the thread. It made the secret feel domestic. Not just sexy-secret anymore, but father-at-the-table secret. Purse-photo secret. Best-friend-asking-without-pushing secret. That is the kind that lasts until it breaks.
+Sheri coming over for Thanksgiving actually softened me. I had the tiniest jealous twitch with Vee, because yes, another woman at his table, family-day food, the whole domestic little sting. But “she’s alone” fixed it. Pace feeding strays of the heart, honestly. I believe that about him. It also makes me trust Sheri more, somehow. She isn’t a threat in that scene; she’s proof that Pace has made a chosen-family life around the places he will not go back to.
 
-GATE 41 — Cropped
+Still, the secret with Randi is now glowing hotter because this chapter is so trusting. The more he earns, the more dangerous the omission feels. He can hold her phone, her body, her image, her appetite, her quiet, and he still hasn’t handed her the truth. I am not stopping, obviously, but I am bracing.
+
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 9
+NEXT: 8
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was quiet, but it deepened the cost of all the cropping Vee is doing to keep her worlds from touching. I’m still very much in, because Cassie asking “what is he… to you” feels like the book moving one clean inch closer to the truth.
+WHY: This was nearly everything I want from the genre: explicit, possessive, tender, and consent-rooted down to the phone being put back in her hand. The only shadow is the old one, sharper now because the trust is so intimate: Pace is giving her so much care while still withholding the Randi truth.

@@ -18,9 +18,16 @@ The session that produced this started from the author's worry that Volume Three
 
 **But CAPTURE is a lagging indicator, and {{Grace}} proved it.** {{Grace}} scored 8.93 and simultaneously produced the most explicit forward-looking fatigue language in the corpus — a high score carrying a warning the score cannot encode:
 
-- *"these setpieces are becoming the unit. He orchestrates an elaborate scene of total control, frames it as care, she dissolves, something gets installed… I can feel the shape."* (`reviews/capture-panel/claude-opus-4-8/dag/queer-woman/gate-ch070.md:15`)
-- *"third grand set-piece in a row where the engine is 'he directs, she's kept at the edge of her own control'… if the next chapter is another elaborate extended-tease set piece with no plot movement, I might feel the groove. The collision is loaded; I want this book to remember it's holding a gun."* (`.../glm-5.3/dag/romance-graduate/gate-ch070.md:17`)
-- *"The key is the key is the word-substitute again. I clocked it. I'm tired of that specific move."* (`.../claude-opus-4-8/dag/romance-graduate/gate-ch070.md:13`)
+*Citations below are by **reader + chapter title**, not by gate number or line.
+Gate filenames are reader-sequence positions and shift on every structural edit to
+the chronology (+1 at 43 on 2026-10-05, −1 at 54 on 2026-10-07), and `--fresh`
+re-reads overwrite a gate in place, so number+line citations rot twice over. Two of
+the three quotations below no longer exist on disk for that reason and are cited to
+the commit that holds them.*
+
+- *"these setpieces are becoming the unit. He orchestrates an elaborate scene of total control, frames it as care, she dissolves, something gets installed… I can feel the shape."* — `claude-opus-4-8` / `queer-woman` on {{Grace}}; that persona's gates have since been erased, text at `529d70a5`.
+- *"third grand set-piece in a row where the engine is 'he directs, she's kept at the edge of her own control'… if the next chapter is another elaborate extended-tease set piece with no plot movement, I might feel the groove. The collision is loaded; I want this book to remember it's holding a gun."* — `glm-5.3` / `romance-graduate` on {{Grace}} (currently `dag/romance-graduate/gate-ch075.md`).
+- *"The key is the key is the word-substitute again. I clocked it. I'm tired of that specific move."* — `claude-opus-4-8` / `romance-graduate` on {{Grace}}; superseded on disk by a later `--fresh` re-read, text at `529d70a5`.
 
 Four readers independently called {{Grace}} a *cold compress*, a *detour*, an *oasis*, a *breather*. All four forgave it explicitly once, conditionally. Signal concentrated in two models of four (`claude-opus-4-8` across all personas; `glm-5.3` romance-graduate); `gpt-5.6-sol` gave it 10/10/10 and `gpt-5.5` 9/9/9 with no shape complaint.
 
@@ -103,7 +110,7 @@ The problem being solved: as designed, the spring crisis is **escalation wearing
 - **{{The Peaches}}** (`meta-plan-chronology.md:518`) — beat 1 is "unresolved conflict over emotional unavailability (no *I love you*, no monogamy)." That wound becomes monogamy-only, or something else. Real rework on a Volume Three scene.
 - **{{Excavations}}** (`:522`) — turns on *"Have you ever said it?" — **"Once."***, the silence where his whole pattern says sealed. If he has said it to Vee, this is a direct collision. Fixable (the question becomes *before me*), but it is an edit to a scene whose architecture is complete and whose "Once" is doing precise work.
 - **`meta-note-outlier.md`** — its payoff ruling needs revisiting if the fraud fires further.
-- **Unaffected:** {{Grace}} stays as drafted under the recommended placement; the Volume One word-withholding through {{Believe Me}} / {{Not Enough}} / {{Nothing Underneath}} is untouched — the word is spent in Volume Two, which is where the credit line says it belongs.
+- **Unaffected:** {{Grace}} stays as drafted under the recommended placement; the Volume One word-withholding through {{Believe Me}} / {{The Usual}} / {{Nothing Underneath}} is untouched — the word is spent in Volume Two, which is where the credit line says it belongs.
 
 ---
 

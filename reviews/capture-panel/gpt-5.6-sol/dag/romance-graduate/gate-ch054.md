@@ -1,20 +1,34 @@
-*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~bb2635a8b1b0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 1011072a47a5 · 2026-10-07*
 
-REACTION —
+REACTION
 
-Oh, Vee. “We talked.” Girl, you absolutely did not.
+Oh, Randi. No. Absolutely not.
 
-I laughed at the sweater story because it is such a transparent, panicked little fiction, and Cassie’s quiet forensic repetition—“He burned the toast.” “Pace shrank your sweater.”—is perfect. She knows. Maybe not the precise coat-and-heels mechanics, but she knows Vee has replaced the actual story with one she can bear to tell, and she lets her keep it without pretending to believe it. That is what care looks like when it isn’t steering someone.
+For about thirty seconds I was so relieved Vee had gone to her. The hug was everything I wanted for both of them: Vee breathing her in, Randi sweeping expensive new clothes onto the floor because Vee mattered more, neither of them letting go when a normal hug would have ended. And then Randi used every intimate thing she knows—things Vee trusted her with, things Pace told her, things she knows because she is literally the other woman—to dismantle Vee’s completely justified anger and send her back to Pace naked.
 
-But the lie also made me sadder than I expected. Vee is radiant, and the weekend was genuinely wonderful, and yet the first thing she does with the safest person in her life is rewrite it: sex becomes “talking,” nakedness becomes ruined laundry, and the question Pace never answered disappears entirely. She drove out believing her body could succeed where her words failed, and now she is remembering the result as proof that the words worked. They didn’t. The tent did not come down; she just furnished it beautifully.
+I am furious.
 
-And then Cassie’s mother thanking her for the card got me right in the chest. That tiny invitation into an ordinary family is more emotionally naked than almost anything Vee can currently say aloud. Cassie hears the true size of her “Oh” and, unlike Randi, does not pry it open or tell Vee what it means. She stops exactly before kindness could become leverage. I love her.
+“She wants me to say it” has somehow become Vee “blindsiding” him and backing him into a corner. No. She asked the man she loves what she is to him after months of giving him every possible softer opening. He knowingly gave her a smaller truth. We just watched him admit that to himself. Vee did not make words “the whole war.” Pace made them the war by withholding the one he knew she needed, and Randi has now turned his cowardice into Vee’s aggression.
 
-The ending is quiet but it earns its quiet. Vee can tolerate the narrow bunk and the cold wall because she believes Pace is hers again and Friday is coming. I’m glad she feels safe. I’m also watching that word “hers” with both eyes, because she still has no answer, no name, and no idea that the woman she plans to tell everything is already inside the relationship she thinks she repaired.
+And “that is not a man with another woman”—Randi, while being the other woman. I actually had to stop there. The nerve of using his total attention during Vee’s allotted time as proof of monogamy when Randi knows the schedule because she occupies the other part of it. Then “don’t you dare hand him to a woman who doesn’t even have a face.” She has a face. It is yours. This is such an intimate, expert gaslighting that it makes the tenderness worse, because I believe Randi loves her. She is not coldly running a con. She is protecting the shape that lets her keep both Pace and Vee without risking Vee’s informed answer.
 
-GATE 54 — Unpacking
+And the coat plan is hot in isolation. Of course it is. Naked under the long coat, borrowed black heels, showing up as a wordless peace offering—I know exactly why Vee’s shame flips into want, and yes, I want to see Pace open that door. But Randi is sending Vee’s body in to settle a dispute about whether Vee is allowed to ask for language and truth. She is teaching her to apologize for needing an answer by offering sex so overwhelming that nobody has to answer it. That is not reconciliation. That is using the most effective machinery in this book to close Vee’s mouth.
+
+Then the kiss, damn it. Vee came back. Vee took Randi’s face in both hands and kissed her because she had too much feeling and needed somewhere to put it. I have waited so long for Vee to initiate without being dared or led, and it landed: Randi’s breath stopping, her hands closing on the coat, the stunned little hand to her own mouth afterward. That was a real turn. Vee does want her, and for one beautiful second the wanting was entirely Vee’s action.
+
+But even that is poisoned by what immediately preceded it. Vee thinks she is kissing the friend who saved her from an imaginary rival and helped her get Pace back. She does not know she is kissing Pace’s lover, who has just deliberately talked her out of the truth.
+
+And Brooke—quiet, warm, lethal Brooke. “You always say goodbye under the composites” made my stomach drop. She has seen them. The whole house may have seen them. Her threat is polished enough to pass as concern, and that makes it uglier: play privately, play for men, but do not let loving a woman become real enough to threaten the institution’s image. Randi has just had the kiss she wanted for four months, and within minutes she is reminded that wanting Vee openly may cost her the position she built her identity around.
+
+That pressure explains Randi. It does not excuse what she did upstairs.
+
+I am reading the next chapter immediately because Vee is about to arrive at Pace’s door dressed as surrender, and he now knows perfectly well that he loves her and failed her. If he accepts the body and still withholds the truth, I may throw the book. If he tells her he loves her but not about Randi, it still will not be enough.
+
+GATE 55 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-ALMOST-STOPPED: none
-WHY: Cassie made this quiet chapter feel necessary, and Vee’s ridiculous cover story was funny, tender, and alarming all at once. I want Tuesday now: Randi is about to receive Vee’s edited confession while carrying the much larger edit herself.
+CAPTURE: 10
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: “You backed him into a corner in his own house. Name it or lose me — the one thing he can't do.”
+WHY: Randi’s manipulation made me furious enough to want out, but Vee initiating that kiss and Brooke immediately putting a velvet-covered knife to Randi’s position changed everything. I need to see what happens when Pace opens the door—and whether anyone finally gives Vee truth instead of turning her desire against her.

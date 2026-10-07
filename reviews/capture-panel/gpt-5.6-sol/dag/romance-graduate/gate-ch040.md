@@ -1,21 +1,18 @@
-*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~1d8fca279859 · 2026-09-10*
+*capture-dag-v2-rich · gate ch040 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · 2026-10-01*
 
-Oh, the shirt got me. That is such a naked little need—to admit she spent five nights breathing him out of the fabric, noticed the exact day his scent disappeared, and brought it back to be filled again. I would have expected that confession to trip every alarm I have about how fast she is disappearing into this relationship, and it did, a little. But Pace immediately putting the flannel on over the shirt he was already wearing is so perfectly him that I went soft anyway. No teasing, no making her wish she had not asked, just: *all weekend*. I understand exactly why she loves him.
+REACTION — I needed this. Not because it answered whether she loves him—she already knows she does—but because for once Vee went somewhere neither Pace nor Randi could interpret her to herself. Nobody watched her body, praised it, dressed it, fed it, tested it, or told her what its reactions meant. It simply worked. That felt almost shockingly private after so many chapters of her becoming legible to other people.
 
-And I do think she loves him. This is past infatuation now, or at least infatuation has grown roots and started moving furniture in. Her things live in his drawer. Her body treats five nights apart like deprivation. She sleeps in his smell when she cannot sleep beside him. She is building a rhythm in which the nights away are merely the intervals between returns. It is romantic as hell, and also—given the lie underneath everything—quietly horrifying. Pace keeps answering her devotion with actions so tender and exact that every answer draws her deeper, while never saying the thing plainly enough for her to ask what, precisely, they are promising each other. “He was good at not asking things” landed like a warning disguised as affection. Yes, he is. That is increasingly the problem.
+The four strokes where she wonders whether Pace is truly that good or whether she has built him into that goodness caught me. Yes, Vee. Finally. Not because I think she invented his tenderness; the man surrendered the top drawer and packed himself into the lower one. But she is so flooded by being cherished that she has stopped examining the structure around the cherishing. I’m relieved the question exists in her at all, even if swimming strips the words off it before she can follow it anywhere dangerous.
 
-I was relieved that Vee was the one who called for five nights to study. She is not completely abandoning the life outside him, and he respected the boundary immediately. But her secretly wanting him to fight her on it hurt because it shows how much she still needs resistance as proof of desire. His grace makes her feel safe; his silence makes her hungry. She keeps translating what he does into what he will not say, and so far she has always translated generously.
+And I understood the *maybe* completely. She can admit love alone in his bed while he sleeps. Saying it to Cassie would make it a fact in the world, and facts can be tested. Then she might have to ask whether he loves her, what exactly they are building, why he never says anything, and whether the place he has made for her is really hers when she still knows so little about the house she is entering. “It’s all so fast” isn’t false. It’s the warning underneath the happiness finally getting one sentence.
 
-The sex still worked for me because it felt like reunion rather than another interchangeable round: the ridiculous jeans, the white socks, the bra unwinding off her because he simply held on, her body announcing exactly how badly she had missed him. I loved the lack of elegance. But the sentence that really stayed with me was her thinking her orgasm had “published the number” she meant to keep private. That is Vee’s whole awakening: her body keeps releasing information before her conscious mind approves the report.
+This is the second quiet chapter in a row, and I noticed. But I wasn’t restless inside it. The physical repetition gave her interior life somewhere to exist without the book turning it into another erotic revelation, and honestly, thank God. Still, I want the next chapter to put another person in the room. Preferably Randi, because Vee has now privately named love for Pace while remaining one glazed-pastry kiss away from having to name what her body knows about Randi.
 
-And hello, the underwear landing on the “long, unusually proportioned table” in his bedroom? I saw that. The book does not get to mention a strange bedroom table so pointedly and expect me not to put a red circle around it. Future door. Possibly a very literal piece of furniture waiting for Vee to discover what it is for.
-
-The cooking nearly became too much of the now-familiar ritual for me, but the pizza comparison pulled me back in because it is also the emotional structure of her life: she used to accept one flat, undifferentiated taste called *fine*, and now she can distinguish every separate thing she wants. I just need her new palate eventually to recognize the taste of a lie.
-
-At one in the morning I would text: “She brought his shirt back so he could recharge it with his smell and he PUT IT ON OVER HIS OTHER SHIRT. I’m unwell. Also this is going to destroy her.”
-
-GATE 40 — The New Ordinary
+GATE 40 — Strokes
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: “He'd have made the pizza exactly like this for an empty house.”
-WHY: The extended cooking ritual briefly felt like territory I already knew, but the shirt confession absolutely finished me. Their new ordinary is intimate enough to ache and dependent enough to frighten me, especially because Vee is making a home inside a truth Pace still has not given her.
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: This was quiet in a way that deepened Vee instead of merely delaying the next event. I’m continuing eagerly, but the book has now spent two chapters in reflective stillness, so I want the next one to make contact—with Pace, Randi, or the concealed truth.

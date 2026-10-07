@@ -1,21 +1,26 @@
-*capture-dag-v2-rich · gate ch028 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~630e5e2d2504 · 2026-09-11*
+*capture-dag-v2-rich · gate ch028 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d1b699df4c26 · 2026-10-01*
 
 REACTION —
 
-Oh. I liked this more than I expected to, maybe because it is such a small chapter and still it quietly changes the air.
+Oh, this one hurt me in the exact place the book has been training me to be tender.
 
-We finally get Pace away from Vee and Randi, with someone who knows him in a different weather. Sheri feels like the kind of friend who has earned the right to be blunt because she has stayed. I immediately trusted the bike ride as a place where people tell the truth sideways. No big dramatic confession, just cold fingers, hills stealing breath, and somebody saying the thing that needs saying without making a meal of it.
+At first I was just gone on the lesson. Truly gone. The way he says, “If you want to, I’ll teach you,” and then actually means it. The dancing was almost embarrassingly perfect for me: his hand at her shoulder blade, the frame, “give me something to push back against,” the fact that she has to participate for the lead to work. That is the whole thing I keep wanting from this book in miniature. Dominance that requires her presence. Control that doesn’t erase her, it gives her something to feel against. I felt my whole reader-self lean forward.
 
-And Pace talking about Vee. That got me. Not sexually first, not even romantically in the obvious way, but the walnut chair, the math book, the fact that she touched what mattered to him and didn’t treat it like some alien male hobby. He is gone enough that he starts telling Sheri before he has decided to tell her, and I am weak for that. “Listen to you” is exactly the friend line that makes me smile because he doesn’t know he’s showing his whole hand.
+And then, God, of course the room full of women hit every bruise she has. I believed every ugly second of it. I did not like watching her turn on him, but I understood it so much I hated understanding it. She has been made to feel “too much” and “floozy” and replaceable for so long that one pretty blonde with a poisoned little smile can undo an entire night. And the worst part is the blonde used the truth. Pace does get girls home safe. Pace is loved there. Pace has been kind before Vee existed. And Vee, in that raw place, makes his goodness into evidence against him.
 
-Sheri’s “hell of a backside” made me laugh, partly because it is so blunt after Vee has spent pages turning herself into shame and light and silk. Sheri just sees the girl and says it like weather. But what I liked more is Pace correcting her to Vee. Not possessively, exactly. More like: she is a person, and that is her name. Little thing, but I noticed.
+What saved me, and kept me from being furious with the book, is that it does not make the jealousy sexy. It does not wink and say, possessive tantrum, how cute. It lets it be humiliating and human and wrong. Vee knows by the end that she punished him for being exactly the man she wants. That sentence landed. I wanted to crawl under the covers with her and also shake her gently by the shoulders.
 
-The Randi mention made my stomach tighten again. “That’s not finished.” Sir. SIR. I know it isn’t finished, but hearing him say it plainly to someone outside the triangle makes the whole hidden architecture feel colder. Sheri sees the shape immediately: two of them at once is going to become complicated if it isn’t already. And Pace just lets that sit. That silence is not comforting.
+I am very attached to the bar woman now, weirdly. “Wasn’t him they were jealous of, honey.” Bless her. She punctured the whole fantasy in one clean line. And I loved that Pace left. Not because I wanted him hurt, I didn’t, but because he did not chase her around the room trying to manage her feelings or force a reconciliation. He answered honestly, and when she threw it back at him, he went. There is a dignity in that I trust.
 
-I am still with him, weirdly, because the chapter gives me his quiet seriousness and his friendships and the fact that he isn’t swaggering around about any of this. But the book keeps making the exact problem sharper: he can be decent moment to moment, tender even, and still be participating in something Vee hasn’t consented to because she doesn’t know the full room she’s standing in. This chapter didn’t make me stop. It made me brace.
+Also: Randi at the end. Vee going to Randi first feels both right and dangerous. Right because Randi is the person who can translate shame into action for her. Dangerous because Randi is not neutral. I want Randi to help her fix this. I also don’t trust Randi not to receive all that hurt and use it, even accidentally, to move the pieces closer to where she wants them. The hidden third game is humming under the floorboards now.
 
-GATE 28 — hills-and-valleys
+But my main feeling is: I need Vee to apologize. Not prettily. Not with sex. I need her to say what she did. And I need Pace to be allowed to have been hurt. If the book gives me that, I’m still all in.
+
+GATE 28 — Lesson
 DECISION: CONTINUE
-CAPTURE: 7
-ALMOST-STOPPED: "Randi. That's not finished."
-WHY: The chapter pulled me because Pace talking about Vee to an old friend felt unguarded and real, and Sheri’s bluntness gave the whole situation a needed outside eye. But that one line about Randi reminded me hard that Vee is still walking toward a structure she can’t see, and I need the book to keep treating that as dangerous, not cute.
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: “Does your *service* include getting the girls home safe from here, too?”
+WHY: The dance lesson was everything I want from this dynamic: firm, intimate, and built on her active consent. The jealousy spiral hurt, but the chapter knew it was wrong and let Vee know it too, which makes me desperate for the repair instead of ready to quit.

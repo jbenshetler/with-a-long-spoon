@@ -1,15 +1,20 @@
-*capture-dag-v2-rich · gate ch028 · glm-5.3 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~630e5e2d2504 · 2026-09-10*
+*capture-dag-v2-rich · gate ch028 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d1b699df4c26 · 2026-10-01*
 
-REACTION — Okay, so we've never been inside his head away from Vee before, not like this, and the first thing I learn is that his away-game face is... basically the same face. That's either deeply reassuring or deeply suspicious and I genuinely can't tell which, which is very this book.
+REACTION — Okay, the first half of this chapter is everything I read this book for. "If you want to, I'll teach you." Word for word, she repeated it to Meg twice because she couldn't believe it either. And the lesson itself — "Give me something to push back against... Being jelly doesn't work" — I got a full-body flash of why I love this man. The lead isn't him dragging her around; it's information that only works if she gives her weight to it. The book is not being subtle about what the dancing is a metaphor for and I don't care, it landed anyway. When the decision "got pulled from her somehow" and her feet landed right — I felt that. I felt it in my feet.
 
-The chair-and-the-bookstore bit wrecked me a little — "the joint he'd spent a weekend on" and he heard himself rambling and *didn't stop*. That's the first time we've seen him carry Vee out into the rest of his life where she isn't present, and it's the same undressed devotion the sun porch was. Sheri clocking it — "Listen to you" — is the book letting a stranger do what I've been doing alone for twenty-eight chapters. Felt seen, honestly.
+And then the blonde. God, that woman. "Knows how to get a girl to do just what he wants her to" — that's a scalpel, aimed exactly at the seam Vee already worries about (how much of this is Pace, how much is the Pace she's built out of wanting him — the book let her think that thought on the dance floor, one beat, and I knew it'd come back). What got me was how fast Vee went down, and where she went down: not to "he's a player" but to "I've spread my legs like a slut." That's her mother's voice, arriving right on schedule, in her own mouth, aimed at herself. The bar gave him a clean bill and the bartender's "wasn't him they were jealous of, honey" was the correct, satisfying reversal — but the thing that hurt was Vee lying awake cataloguing every good thing about him and realizing she'd punished him for being it. "She'd done it to a good man." That's shame with the gears actually visible, which is what I've been asking this book to do since the green satin. It finally put the wire on the table instead of just zapping her with it.
 
-But then the cold drip: "Randi. That's not finished." Two of them at once, Sheri says, and he doesn't answer. So whatever Randi is to him — and chapter 24 already showed me they're still sleeping together, which I've been carrying like a stone — he files it as *unfinished business*, not closed. And I notice the book slipped that confirmation in sideways, through a friend, the way Pace would want it: not a confession, an accounting. Also — Randi's his ex or his ongoing thing, and she's mid-fall for Vee, and Vee's mid-fall for both of them, and the schemers' game is "not finished" in his mouth like a project. The triangle just got its third edge confirmed from inside his head.
+The cab fare eating money meant for other things, right after the credit-card shoes — the book is quietly keeping an account of what this spring is costing her, and I notice it, and I'm a little scared of that ledger.
 
-Sheri herself I liked instantly — remarking on women like weather, faster on the climbs and never letting it go unmentioned, the two-year handlebar friendship. "Hell of a backside on her, though" made me laugh out loud. And "She couldn't take your heat" — that's Pace saying Sheri's love runs hot and mean and Vee's doesn't, which is also him telling me exactly what he protects Vee *from*. Small chapter, quiet chapter, but it moved the deepest thing I'm tracking: nothing here contradicts the ledger. He rambles about the girl who touched his chair. The debt's still the debt, but the man is the man.
+Also: he left. Set the beer down untouched and walked out into the cold without a scene. I don't know yet whether that's wounded decency or a man with three-moves-ahead discipline, and the book is doing that thing again where I can't split his tenderness from his control. And I'll be honest — after that bartender vouched for him, part of me still wonders if this whole night was survivable-by-design. He knew the room was full of women who adore him. He brought her anyway. On a Thursday. I'm choosing to read that as trust and watching to see if the book makes me pay for it.
 
-GATE 28 — hills-and-valleys
+She's going to Randi's to fix it. Randi, who is coming apart with wanting her, and who gets to be the one who puts Vee back together after a fight with Pace — that's going to be a chapter. I'm braced and I want it.
+
+GATE 28 — Lesson
 DECISION: CONTINUE
-CAPTURE: 6
-ALMOST-STOPPED: none
-WHY: Nothing much "happens," but a two-page bike ride just confirmed the man from inside his own head, and "that's not finished" about Randi is the kind of quiet detonation I'm reading this book for. I'd forgive a breather chapter after the Rusty Nail anyway — and this one wasn't even empty.
+CAPTURE: 8
+NEXT: 8
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: "three dates, and she'd spread her legs like a slut" — the self-slut-shaming always makes my jaw tighten; it's meant to, but it's the thing I watch closest in this genre
+WHY: The dance lesson is the best consent writing in the series so far — the lead as a conversation she has to give weight to — and the fight landed like a real fight between two people I care about, with her shame examined instead of just eroticized. She's walking to Randi's and I need to be there when the door opens.

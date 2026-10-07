@@ -1,24 +1,30 @@
-*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 025d1b3f1ab8 · 2026-09-19*
+*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-07*
 
 REACTION
 
-God, the *agony* of this chapter. The absolute, suffocating, brilliant emotional claustrophobia of it.
+Oh, wow. What an absolute knife-twist of a chapter.
 
-I felt every single inch of Vee’s spiral here. That awful, prickly, reckless energy when you are so deeply, overwhelmingly in love with a man who holds all the cards, and the vulnerability is making you sick, so you pick a stupid, petty fight just to see if you can make a dent in him. Her snapping at him about being "just sex" and demanding to go to Chili's—*Chili's!*—was so painfully real, so humiliatingly twenty-one. She wanted to drag his pristine, elevated, artisanal world down into the fluorescent glare and the greasy, processed muck just to prove to herself that they exist in the real world.
+Coming off chapter 43—where Randi and Pace are literally fucking on the sofa, counting their conquests, obsessing over Vee's wet hair and her open mouth, running this sociopathic little masterclass in grooming—this study session in the library felt like walking a tightrope over broken glass. You think the trap is going to spring from the sex or the key to Route 614. You think the secret that blows up their dynamic will be the bed or the spanking bench.
 
-And then the Chili’s scene itself was a quiet masterclass in misery. The nachos tasting like salty mud because his cooking has ruined her for the ordinary; Peter getting visibly overstimulated and twitchy under the four blaring TVs, his eyes darting to the screen behind her head, squaring his fork with the edge of the table. She reads it as shame and coldness toward *her*, because her insecurity is screaming so loud she can’t hear anything else.
+And instead, the author hits Randi with the real world, and it hits her right in the teeth.
 
-And then his explanation back at the house: *"That restaurant—places like it—they're too loud. Not the sound of it. The whole of it, all at once. In a room like that I listen as hard as I know how and I still can't hear you. Somewhere quieter, I can. And I do."*
+*MIRA.* Her father’s companies, named after her, taking millions in government handouts while laying off everyone, right under Cassie's flat, unyielding stare. The absolute humiliation of that. Randi, who swans through life in a green Mercedes and gold sunglasses, whose whole terrifying power over Vee is built on being effortless, untouchable, and cosmically above the fray—and here she is, exposed in gray government type as the gilded product of a common corporate crook.
 
-Jesus. It broke my heart. It’s the most tender, specific, neurodivergent/introverted confession of devotion, and yet—and *yet*—it is also the exact architecture of her cage. He can only love her in a vacuum. He can only hold her in the quiet, isolated sanctuary of the house he owns, where he controls the lighting, the food, the pace, the music. She tells herself she has "forgiven" him just so she can crawl back into his warmth, because being angry at him requires standing outside in the cold, and she can't bear the cold anymore.
+*"Cheating bastards."*
 
-The sex was phenomenal because the psychological stakes were through the roof. Her begging for his control to snap, getting that raw, un-gentle, urgent drive out of him where he finally loses his mind, thinking *this is it, I took him apart, I have him*—only to lie there in the dark with his come cooling inside her, realizing that even stripped raw, even undone, he still didn't say the words. He didn't give her the name.
+Two words. Ragged, ugly, completely unpolished. For the first time in this entire book, the predator's mask slipped, and the little girl whose dad bought her silence with stolen money stood right there in the glass room.
 
-The tragic irony is choking me: she thinks the danger is that he only wants her body and won't make her his "girlfriend." She has *no idea* that the silence, the secrecy, the isolation isn't just about his quirks or his emotional walls—it’s because this whole thing started as an orchestrated game with Randi. She’s lying there agonizing over a label while sitting on an unexploded bomb. The writing here is so grown-up, so psychologically brutal about how women lie to themselves to keep the best thing they've ever had from breaking. I couldn't look away if I tried.
+And what does Vee do? Vee doesn't gloat. Vee doesn't even point it out to Cassie. She covers for her. She pulls the laptop toward herself, she gives Randi busywork so her shaking hands have somewhere to go, and she decides in her sweet, starving, generous heart that the kindest thing to do is protect Randi from the shame.
 
-GATE 44 — Under the Rug
+It broke my heart. Vee is so profoundly decent. She sees someone wounded and immediately steps into the line of fire to shield them, completely oblivious to the fact that the person she is protecting is spending her Sunday afternoons plotting how to bend Vee over a sofa with her boyfriend.
+
+The dramatic irony is so thick you could choke on it. Randi thinks she’s playing 4D chess with a naive little country girl, but Vee’s emotional intelligence—her pure, instinctual grace—just saved Randi from being obliterated in front of Cassie. It shifts the power dynamic in a way Randi doesn't even know happened. Vee is no longer just the lamb. She’s the only real adult in the room, and none of them see it yet. God, this book is so smart.
+
+GATE 44 — The Outlier
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension here is agonizingly good—she is starting to suffocate under the weight of his absolute control and emotional silence, even while lying in his arms. The Chili's scene was devastatingly human, and watching her realize that mind-blowing sex can't fill the void of a man who won't name what you are was heartbreaking. I have to see who breaks first.
+WHY: The sudden collision of Cassie's working-class reality with the dirty truth of Randi's gilded life was masterfully handled, and watching Vee instinctively protect Randi without realizing the predator she's sheltering was breathtaking. It completely reframes Randi's untouchable armor.

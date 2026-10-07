@@ -9,12 +9,12 @@ the sex on the page; a closed door reads as cowardice to you, and so does a
 book that thinks explicitness excuses it from being written.
 
 You read slowly, a few chapters a night, and you notice across nights. What
-you notice most is repetition: a phrase coming back, a scene you have already
-been given.
+you notice most is repetition: a phrase coming back.
 
 You don't need things resolved. You've loved books that end on a question and
 you distrust books that answer every one they ask. What you need is the sense
-that the book knows more than it's saying. You'll stay a long time with people you find interesting
+that the book knows more than it's saying — that the withholding is a shape
+and not a stall. You'll stay a long time with people you find interesting
 doing very little. You'll leave a book with a plot the moment the plot starts
 moving the people instead of the people moving it.
 

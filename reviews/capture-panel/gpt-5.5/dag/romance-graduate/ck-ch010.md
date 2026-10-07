@@ -1,107 +1,109 @@
-*capture-dag-v2-rich · carry-forward ck-ch010 · gpt-5.5 · romance-graduate · prompt-sha 9f29a94a7098 · 2026-09-26*
+*capture-dag-v2-rich · carry-forward ck-ch010 · gpt-5.5 · romance-graduate · prompt-sha b3c0511c266a · 2026-10-01*
 
 WHO'S WHO
 
-Vee / Vivienne Thorne: twenty-one, econ/stats girl, tall/lush/redheaded, formerly synchro/swim, painfully hungry to be chosen but not dumb. She notices everything socially and bodily, then often misnames it to keep herself safe. Best friend is Cassie. Already lit up by Randi, already falling for Pace.
+Vee / Vivienne Thorne: the actual heroine, finally in motion. Big warm redheaded girl, beautiful in a way she does not know how to inhabit safely. Econ/stats brain, socially observant, hungry for belonging, kindness, being chosen. Cassie’s roommate/best friend. Already falling hard for both Randi’s glow and Pace’s attention, in different compartments she does not yet know are connected.
 
-Pace: math PhD, careful, courtly, exact, erotic menace wrapped in genuine tenderness. Built the hidden bench/table. With Randi already. Now courting Vee by making room for her appetite, intelligence, choice. He really listens, and that is the trap.
+Randi: sorority Standards girl, black hair, blue eyes, perfect face as armor. Pace’s girlfriend/lover/accomplice, though that word feels too simple. He broke something open in her on the bench and she immediately locked it back up. She wants Vee badly, but can only let herself want Vee through Pace, through “a threesome,” through the game. Dangerous because her warmth is real and her control is excellent.
 
-Randi: glamorous sorority Standards girl, blue-eyed, black-haired, controlled to the bone. Pace cracked her open on the bench and she locked herself back behind the face. Wants Vee badly, but can only survive wanting her if it’s “with Pace” / for the threesome / as a game. Dangerous because her warmth is real enough to work.
+Pace: math PhD, precise, courtly, handmade-bench man. Observant to an almost terrifying degree. With Randi he is erotic pressure and patient control; with Vee he is gentleness, attention, permission, food, listening, the first man in ages who doesn’t seem to need her to shrink or perform. I believe his tenderness. I also believe he is orchestrating something secret with Randi, and that makes every kindness shimmer wrong at the edges.
 
-Cassie: Vee’s blunt best friend, socially immune, protective, dry as hell. Sees more than Vee credits. “Goodbye, Vee,” “great-aunt,” “how much did he give you to drink,” “off six-fourteen” all feel like warning lights. I trust her most.
+Cassie: Vee’s blunt, dry, loyal roommate. Not glamorous, not trying. She sees more than she says. She loves Vee by not making the sad thing bigger, by asking practical questions, by throwing water, by saying “Goodbye, Vee” like a little warning bell. My trust anchor.
 
-Brooke/Sloane/Kinsey: sorority house ecosystem around Randi. Brooke especially is smiling power with a laptop. Standards, surveillance, hierarchy, all pretending to be friendliness.
+Brooke: Randi’s sorority president, soft-voiced social assassin. Only on page briefly, but memorable. Warm interrogation as governance. Makes Randi look less like the apex predator and more like someone formed by a whole ecosystem of polished surveillance.
+
+Vee’s mother: not physically present, but very present in Vee’s head around clothes, food, attention, nice-girl rules, body shame.
 
 WHERE THINGS STAND
 
-The book opened with Pace and Randi already together, and the bench scene was huge: spanking/edging/being made to beg, then Randi crying because Pace found the person behind her perfect face. He thinks it was beautiful and successful. She privately decides never to let him see that person again.
+The book opened not with Vee but with Randi and Pace already deep in their thing. Pace revealed the disguised table/bench he built for Randi, put her on it, spanked and edged her until her performed self cracked. She begged in a voice that felt like her real self. He called her beautiful afterward and that frightened her more than the sex. In the bathroom she decided the “face” would go back on and the found part of her would not come out again. She stayed the night anyway.
 
-Next morning Randi returns to the sorority house in last night’s clothes and gets gently interrogated by Brooke et al. She survives it socially, then collapses into numb not-crying in her room.
+Next morning Randi had to pass through sorority-house judgment in last night’s clothes. Brooke gently interrogated her about Pace. Randi escaped to her room and lay in last night’s clothes, not crying. The bench did not end when the scene ended; it left a hum in her ribs.
 
-In bed later, Pace asks if Randi wants to taste another woman. Her body says yes before she can manage it. She redirects the desire into “only in a threesome, with you.” They go to campus and play the pointing game. Randi rejects a bunch of girls until Vee comes out of the dining hall laughing with her whole body. Randi says yes. She “accidentally” meets Vee and gets her name/class.
+Then Pace asked Randi in bed if she wanted to taste another woman, and her body answered before her mouth could protect her. She redirected the want into “only in a threesome, with you.” Pace accepted that shape. They went walking campus, playing the pointing game, with Pace pointing at women and Randi judging. She pretended to be a good sport and then started hunting. When Pace pointed at Vee, Randi’s answer was naked: “Yes.” She engineered a collision, met Vee, learned they had stats together, came back lit up, and asked if Vee would like the bench.
 
-Vee meets Randi in stats and is immediately dazzled. Randi takes her to Chi Latte, makes her feel chosen and included. Vee barely remembers the actual conversation, only the feeling.
+Randi then sat by Vee in stats, dazzled her, took her to Chi Latte, made her feel chosen and translated into a world she’d watched from outside. Cassie did not take to Randi and said a weirdly final “Goodbye, Vee.”
 
-Randi then engineers Pace’s entrance at the Wilson coffee shop while Vee is stuck on a math problem. Pace helps without taking over, gives her back the pencil, asks about econ like it matters, asks for her number. Vee is gone.
+Pace entered Vee’s life at the Wilson coffee place by helping with a math problem. He did it perfectly: asked, listened, gave her back the pencil, let the solution stay hers. He took her number with “May I call you?” and Vee was gone. Randi and Cassie both saw it, though Vee read Randi’s tension as boredom.
 
-Pace texts fast, asks frozen yogurt. Randi encourages it. Froyo date is small and devastating: appetite, being listened to, her tart holding up.
+Pace texted quickly for frozen yogurt. Vee went. He listened to her, made her laugh, treated ordinary kindness like it could be enough, and she confessed it was the nicest anyone had been to her in a long time. He did not sentimentalize it.
 
-Randi comes to Pace after and demands he tell her about Vee. She gets turned on by Vee eating freely and by Pace’s attention to her. Pace withholds Vee’s vulnerable “nicest anyone has been” line from Randi because he thinks it belongs to Vee.
+Randi came to Pace afterward demanding the Vee story, drinking wine and kissing it into his mouth. She was turned on by Vee’s appetite and shaken by Pace saying Vee was easy to listen to. Pace protected one private thing Vee had said from Randi, which I noticed and care about.
 
-Vee has pool time with Cassie: body shame, boys yelling, underwater sanctuary, Cassie splashing her back into herself. Important because Vee exists outside the seduction machine.
+Vee had a pool chapter with Cassie: body shame, boys heckling, underwater as the one place her body belongs only to her. Cassie rescued her with silliness, not therapy.
 
-Pace asks Vee to dinner. Takes her to a small restaurant where he knows Christine. “May I choose?” Food becomes surrender/appetite/trust. Vee eats without monitoring herself. Mint tea, walk back, first hand-holding, first kiss. He doesn’t press; she chooses, stops him, pulls him back, kisses him.
+Pace asked Vee to dinner. He picked her up properly, took her to a small restaurant where Christine knew him, asked “May I choose?” and ordered for her. Vee let herself be fed, literally and emotionally. She ate without monitoring herself. He held her hand after. Under a tree she said she doesn’t kiss men she’s known a few days; he accepted it and began walking on, and that made her choose the kiss herself. She kissed him. Then she kissed him again.
 
-Vee comes home glowing and tells Cassie. Cassie checks safety. Vee insists nobody did anything to her: she chose it. Pace has asked her hiking off 614, and Cassie clocks that as extremely vague, while Vee thinks she knows enough.
+Vee came home glowing and told Cassie. The important thing to Vee: nobody made her, nobody talked her into it, she did it on purpose. Pace asked her hiking. Cassie asked practical missing-person questions. Vee knows almost nothing useful except “off six-fourteen,” but she is too warm to feel the cold.
 
 HOW I FEEL ABOUT EACH OF THEM
 
-Vee: I’m tender and worried. She is so alive right now, and so proud of choosing. That makes the hidden plan feel worse. I don’t want her protected from desire; I want her protected from being lied to about the frame around it.
+Vee: protective, achey, very invested. She is not dumb; she is starving. That difference matters. I love watching her discover appetite, but I hate that she is walking into a setup arranged by the two people making her feel most alive.
 
-Pace: painfully effective. I like him, which is the problem. He has real restraint, real care, real erotic intelligence. Also he and Randi chose Vee before Vee knew she was inside anything. His belief that attention equals safety is the moral danger.
+Randi: I do not trust her, but I cannot look away from her. She is both predator and wound. Her desire for Vee feels real, maybe humiliatingly real, and that makes her more dangerous because she can call manipulation generosity if it also feeds her.
 
-Randi: I don’t trust her and I can’t look away. She’s cracked, hungry, jealous, excited, ashamed. I think she may hurt Vee partly because wanting Vee honestly would destroy her self-story.
+Pace: my problem man. Extremely attractive to me in the exact adult-control, permission, attention, restraint way. Also morally alarming. He keeps asking, he keeps leaving room, he keeps protecting privacy, and yet he and Randi secretly selected Vee before Vee knew the game existed. I am reading him with heat and suspicion braided together.
 
-Cassie: my anchor. She’s not sparkly, not seductive, not socially powerful, but she loves Vee in the plainest, least possessive way. I am afraid Vee will drift from her because intoxication is louder than safety.
+Cassie: trust. Relief. Necessary. I want her close to Vee. I am afraid the story will move Vee away from her, because Cassie is the person most likely to see the shape before Vee can.
 
-Brooke/the house: social knives in cashmere. Randi belongs to this world and is wounded by it, but also uses its tools beautifully.
+Brooke: social danger. Not central yet, but she explains the air Randi breathes.
 
 WHAT I'M CARRYING
 
-Thin honeycrisp slices Pace cut because Randi would eat them that way.
+The apple slices cut thin because Pace knows what Randi will allow herself to eat.
 
-The table becoming the bench. The hidden purpose under the ordinary surface.
+The bench as a table, and the awful intimacy of realizing it had been there all along.
 
-“There you are, Randi” and then Randi in the bathroom putting the face back on.
+Randi in the bathroom mirror, trying the smile over the face that begged.
 
-Randi’s first naked “Yes” at seeing Vee laughing by the dining hall.
+“He’s hard to say no to” changing key.
+
+The campus pointing game turning from creepy to scorching because it is really Randi watching her own denial fail.
+
+Vee laughing with her whole body outside the dining hall, then Randi’s bare “Yes.”
 
 Cassie’s “Goodbye, Vee.”
 
-Chi Latte’s Greek sign becoming legible because Randi brought Vee under it.
+Chi Latte as a joke Vee only gets once she is allowed inside.
 
-Pace giving Vee the pencil back.
+Pace handing Vee back the pencil.
 
-“He wants to see you naked” as Randi’s friendship/permission/manipulation in one line.
+“May I call you?” and then “May I choose?” Apparently I am very vulnerable to may.
 
-The wine only through Randi’s mouth.
+Randi kissing wine into Pace’s mouth and wanting the Vee story like a bedtime story for something feral.
 
-Vee underwater, where nobody wants anything from her.
+Vee underwater, where nobody wants anything from her body.
 
-“May I choose?”
+The first kiss working because Pace lets her no stand, and then she crosses the line herself.
 
-Vee stopping Pace after he accepted her no, then kissing him because she wanted to.
-
-“Nobody did anything to me.”
-
-Off six-fourteen. Real shoes.
+Vee spinning in the dorm room: “Look at me.”
 
 WHAT I'M WAITING FOR
 
-The hike. I want it romantically and I distrust it completely.
+The hike. Obviously. Pace’s house, off six-fourteen, the terrain where he has home-field advantage. I want it and I’m nervous.
 
-When Vee goes to Pace’s house and eventually sees the table/bench. That object is loaded like a weapon.
+The moment Vee realizes Randi and Pace know each other. That is going to detonate something.
 
-When Randi and Vee’s friendship turns more explicitly charged. Vee already wants Randi but can’t name it; Randi wants Vee and is pretending Pace owns the wanting.
+The moment Vee realizes her want for Randi is not just friendship/aesthetic worship/social hunger. Or maybe the moment Randi makes that realization impossible to avoid.
 
-Cassie finding out more, or being pushed out. I dread Vee choosing the glittering danger over the blunt friend who actually sees her.
+Whether Pace and Randi are actually in control of this plan, or whether they only think they are. My bet: Randi is already less in control than she thinks, and Pace may be too.
 
-The first moment Vee realizes there was a plan before she arrived. That is the bomb.
+What the bench becomes when Vee is in the story for real. The book has put that object on the mantelpiece with leather straps.
 
-Whether Pace’s care holds when Vee’s actual autonomy conflicts with what he and Randi want.
+Whether Cassie gets sidelined, recruited as witness, or becomes the person who can still call Vee back to herself.
 
-Whether Randi breaks the game because she wants Vee for herself, not as a gift for Pace.
+Whether Pace’s ethics have a hard boundary or just a beautiful vocabulary. He protects some things. He also planned a seduction with a girl who doesn’t know there’s a plan. I need to see which fact wins.
 
 WHAT'S FADING
 
-The exact math problem and formula details. I remember the feeling: substitution, Euler, right angles, pencil returned.
+Some of the exact sorority names and side girls: Sloane, Kinsey, Brooke’s spreadsheet details. I remember the social texture more than the specifics.
 
-Most of the actual Chi Latte conversation is gone, fittingly. I remember the feeling, not the transcript.
+The exact math problem and formula. I remember Euler/right angles/pencil-back more than the actual content.
 
-Names of minor sorority girls beyond Brooke/Sloane/Kinsey are slippery.
+The restaurant food names, except hummus, baba ghanoush, tabbouleh, mint tea in brass cages. Mostly I remember hunger and letting him choose.
 
-Restaurant dish names: baba ghanoush/tabbouleh, bright green, smoky dark, bread, mint tea. The menu specifics matter less than Vee letting Pace choose.
+The details of the froyo flavors. What stayed is the cup getting away from her and her mother’s voice not stopping it.
 
-Details of campus geography are blurring: quad, dining hall, library, Wilson coffee place, Draper/Chi Latte, off 614.
+The precise sequence of the bench scene is already becoming impressionistic: red, waiting, please, tears, bathroom mirror, face back on.
 
-The exact order of the short bridge chapters is a little hazy, but the emotional progression is clear: Randi chooses Vee, Vee is chosen by Randi, Pace meets Vee, Pace feeds/listens to Vee, Vee chooses Pace back.
+I’m also losing some exact dialogue between Randi and Vee at Chi Latte, which feels appropriate because Vee herself lost it. What stayed is the feeling of being chosen.

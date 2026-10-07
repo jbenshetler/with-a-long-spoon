@@ -62,7 +62,7 @@ Vee laughed, caught out. "Twelve." She hadn't even had to count, and that set th
 
 "Once." Kayla sat back and stared at her. "All that, and it's been once. Vee, that's insane."
 
-"It's making me lose my mind, is what it is." Vee said it into the table. "And I can't even explain why, that's the worst part. He's not pushing. It's the opposite. He asks me first. The small things. What I want to order, and he waits for the real answer, and then that's exactly what happens, the way I said it." She turned the glass a slow half-turn. "It sounds like nothing. I can hear it sounding like nothing. And I'm the one who can't think straight, climbing the walls over a man asking me what I want for dinner." She lifted her head. "He's different. I know how that sounds."
+"It's making me lose my mind, is what it is." Vee said it into the table. "And I can't even explain why, that's the worst part. He's not pushing. It's the opposite. He asks me first. The small things. What I want to order, and he waits for the real answer, and then that's exactly what happens, the way I said it." She had hold of her own arm, up near the shoulder, without knowing it. "It sounds like nothing. I can hear it sounding like nothing. And I'm the one who can't think straight, climbing the walls over a man asking me what I want for dinner." She lifted her head. "He's different. I know how that sounds."
 
 Meg smiled into her cheese, not unkindly. "Everybody's different at the start. I said it about Danny. Word for word, I think. He's different." She shrugged, a girl easy in her own thing. "Sometimes they even are."
 
@@ -98,7 +98,7 @@ A beat, and then the table came apart.
 
 "I don't know for what." Vee was laughing now, the flustered kind, naming it before they could get there first. "That's what I'm telling you. It doesn't say for what. It doesn't say anything. It's the least information a human being has ever sent me and I have read it a thousand times."
 
-And that was the truth of it, under the noise. She'd had the dinners and the trail. She'd had the shirt, folded on her pillow at this exact hour. She'd had every piece of him she'd been handed, and never once been through his door, and now there was a door, and Saturday behind it, and not one word about what it was for. She turned the glass again. Her heart was doing something quick and light and stupid, and she let it.
+And that was the truth of it, under the noise. She'd had the dinners and the trail. She'd had the shirt, folded on her pillow at this exact hour. She'd had every piece of him she'd been handed, and never once been through his door, and now there was a door, and Saturday behind it, and not one word about what it was for. She pressed her palms down the tops of her thighs. Her heart was doing something quick and light and stupid, and she let it.
 
 "Saturday," Kayla announced, to the table, to the gold room, to the whole athletic dorm. "We're doing hair Saturday. I'm coming to your room. This is happening."
 

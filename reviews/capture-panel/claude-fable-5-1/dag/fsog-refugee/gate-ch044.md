@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch044 · claude-fable-5-1 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-07*
+
+REACTION
+
+No Pace, no bed, a cold lecture hall and a stats project, and I was braced to coast through it — and then four letters on a trackpad tag and I sat up in my chair.
+
+MIRA. I read it a half-second before Vee did and a half-second after Randi did, and that's the exact order the book wanted, because I've been carrying the stats professor's outliers since chapter thirty-something — the one you lift out and the one that comes in through the part that carries forward — and here it finally is, up and to the right, alone in the white, and it's got her name on it. Her *father's* name, in the long version nobody uses. The woman who drew one line through his sauce, who orders without opening the menu, who's "grown up inside the thing they were about to graph" — and the thing is a hundred thousand points and the worst one is hers. "Cheating bastards." Ragged, first time said, aimed too near. I believed it completely and I don't know who it was for. Her father, I think. I also think a girl who's been inside that money her whole life knows exactly how the loan that didn't do the thing it was for gets forgiven on somebody's say-so, and that's the whole book, isn't it. Nothing taken that isn't handed over, gladly, on somebody's say-so.
+
+But that's not what got me. What got me is Vee. She turned from the screen and looked at Randi *before she chose to*, and she read the whole face — the color going, the breath with work in it, two words with no clause after them — and then she did the thing I didn't know she had in her yet: she slid the laptop over and gave Randi somewhere to put her hands. She kept her in it. She asked her the things she could answer. She never said the name, then or after. That's what Randi does to her every Saturday — reads her face, lets the unfinished thing finish itself, "and to" — except Randi reads to harvest and Vee read to protect. Same instrument, opposite hand. I'd text that to a friend at one in the morning and not say anything else.
+
+And I was *sick* about it the whole time, because I was on that couch Friday night. I watched Randi work herself back onto him describing how Vee's lipstick goes soft at the edge, "I'm doing the work," "God, I want her," and here's Vee four days later thinking the kindest thing a friend can do is not make her carry it in front of anyone. She's right. It *is* the kindest thing. She's kind to a woman who's been shown her toes. And the book knows I know and doesn't wink, doesn't let Vee suspect a thing, just lets her be good at Randi in the one room where Randi isn't running the room. Randi had no idea she'd been looked at. For once. I'd like to see what that does to her when she finds out, and she will, because Vee's going to need to say it sometime and she doesn't know how to carry a thing in silence for long.
+
+Cassie and Randi in a room, finally, and it's Vee in the middle with her coffee, loving them both, "the laid-off father on her right, the loans on her left," and "the room had stepped somewhere she couldn't follow." That's the first time the book's made her feel the gap between the people who pick her — Randi's Mercedes and Cassie's dad in 2020 — and she looks at her coffee. Cassie couldn't see the screen. Cassie took "cheating bastards" as agreement. Cassie's going to be the one who's right about this and never knows how right, and the only person with data on who Vee was before is sitting on the far side of a canted laptop. "You do the smart part." And drank nothing. God, I love her.
+
+Two chapters now without him and her alone in a room — Saturday was Randi's, Friday night was *Randi's*, and this one's a glass box on the fourth floor — and I felt it this time, a little, the way you feel a draft before you find the window. But the care was on every page of this, it was just Vee's care going out instead of coming in, and I'll take that. Thanksgiving's coming. She flies home; Sheri brings a pie and pretends she made it; "I don't go back," set down clean and apart. And Randi's cover has a crack in it that Vee put her own hand over, and Randi doesn't know whose hand it was.
+
+GATE 44 — The Outlier
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: The outlier metaphor paid off with her name on it, and Vee read a face and covered for it without being asked — the first time she's held the instrument instead of being played on it — while I sat there knowing what Randi did with that same face on Friday. No heat, no Pace, and I'm reading on anyway, because somebody's going to have to say that name out loud and I need to know who, and because it's been two chapters and the draft is starting to find me.

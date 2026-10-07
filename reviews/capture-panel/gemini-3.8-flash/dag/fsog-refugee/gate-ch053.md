@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ec1574909bf3 · 2026-09-19*
+*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 29213b289a6d · 2026-10-07*
 
-REACTION
+REACTION:
 
-Oh. Oh, this is the good stuff. This is *exactly* the chapter I have been waiting for, and it hit every single note I care about so hard I could scream.
+God, I love Sheri. I need Sheri to follow him around with a bullhorn for the rest of this novel.
 
-First of all: the consent in this chapter made my whole chest ache in the best way possible. When they are in the absolute middle of it—she’s had two massive orgasms, he’s deep inside her, moving, the heat is unbelievable—and he goes to kiss her with her own wetness on his mouth, and she freaks out. The old conditioning flares up, she puts her hand up, pulls away, and says, *"Ugh — gross. That's — no. Wrong."*
+Pace is sitting there in this beat-up diner, completely miserable because his perfect little sanctuary blew up in his face, trying to build his little mathematical wall of logic. *I’m there every weekend! I give her the weeknights! I told her she’s the most important thing!* He sounds just like every controlling man who thinks that providing good service and high-grade physical devotion substitutes for giving a woman real, equal standing in his life. He really thought he could lawyer his way out of a broken heart.
 
-Look at what Pace does. In ninety-nine percent of books on this shelf, the dominant hero would hold her back of the head, smirk, tell her she's being a bad girl, and force the kiss on her anyway while the narration calls it "overwhelming passion." I would have thrown my phone across the room. But Pace? Pace stops *dead*. He immediately starts to pull out of her. He gives her the power instantly. And when she clamps her legs and tells him not to stop the sex, just the kiss, he reads the distinction, wipes his mouth, and gives her that gentle, unoffended *"Okay."* No pouting. No bruised ego. No dominance game where her boundary is a challenge to be conquered. He respects her *no* immediately, leaves her mouth alone, and moves to her jaw and throat until *she* decides she wants him back. That is what real control looks like. That is what a man wholly focused on a woman actually does. He makes room for her even when he's out of his mind with desire. God, it made me love him so much.
+And Sheri just cuts his legs right out from under him: *"Then not saying it matters more to you than having her. And I'll tell you—from this seat, that feels pretty shitty."*
 
-And Vee in this chapter! Watching her step into her own power, flipping the script from "kept woman" to "pleasure princess"—calling the shots, wagging her finger at him at the sink, pointing where she wants his mouth, demanding to be fed first—was an absolute feast. She spent so long shrinking herself, hiding in big sweaters, feeling like her appetite was a dirty secret. Seeing her prance down that hall naked, owning her body, making him burn toast because he literally cannot look away from her... it was joyful and funny and unbelievably hot. The sex was stunning—not just physical mechanics, but full of that deep, heavy, domestic tenderness where every kiss is laid down like a tile and the cashmere blanket takes the ruin of her.
+BAM. Dead center. Thank you! It *is* shitty. Because he *can't* say it, and we know exactly why he can't say it—because saying it blows up the little threesome game he cooked up with Randi back in September. He has painted himself into this disgusting corner where he actually misses Vee, he's actually in love with her, he can't even stand a crowded room without wishing she was there so he could hear her whisper—and he’s still letting his own stubborn cowardice keep him from her.
 
-And then... the chill at the very end. The way the trap door quietly clicked open.
+What broke my heart, though, is the contrast between Chapter 52 and Chapter 53. Vee was lying in her childhood bed in Ohio, literally torturing herself imagining him cooking for some tanned, blonde fantasy girl, feeling completely discarded and small. And here he is, miles away, sitting across from a tomboy friend who's stealing his french fries, telling her straight out: *"I want Vee. I miss her."* He is completely gone on her. When Sheri teased him about her body and he snapped back, *"Her name is Vee,"* my stomach flipped. That tenderness, that absolute fierce protectiveness—it’s why I can't quit him, even when I want to strangle him.
 
-Vee is lying there, completely sated, floating in the warm glow of victory, thinking Pace just "forgot to wipe" this once. But she’s already wondering: *Why does he like it so much? Has he always brought it to me?* Her tongue is literally hunting for the taste of herself on her own lips, and she doesn't even realize she's crossing the exact threshold the jacket promised.
+He’s an idiot, but he’s an idiot who is genuinely in love with her. He's suffering. Good. Let him suffer a little more, and then let him figure out how to grovel.
 
-And who is she going to tell about it on Tuesday? *Randi.*
-
-"Randi would know what to make of it. Randi always did."
-
-I had chills. Vee thinks Randi is her big sister, her fairy godmother who lent her the heels and the coat to get her man back. She has NO IDEA Randi is completely in love with her, sitting across that table in their private two-person class, waiting for every single detail. Vee is going to bring this specific, intimate confusion—tasting a woman, tasting herself—straight to the woman who is starving to kiss her. It is so psychologically brilliant, so messy, and so dangerous. I am vibrating.
-
-GATE 53 — Missed a Spot
+GATE 53 — The Usual
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The consent in the middle of that scene—Pace instantly stopping, reading her boundary, and respecting it without a drop of sulking or coercion—was masterclass romance. And ending on her planning to tell Randi about the taste on his mouth? I need Tuesday immediately.
+WHY: Sheri calling Pace out on his absolute bullshit was pure satisfaction, and seeing how genuinely miserable he is without Vee makes me desperate to see them collide when the new semester starts.

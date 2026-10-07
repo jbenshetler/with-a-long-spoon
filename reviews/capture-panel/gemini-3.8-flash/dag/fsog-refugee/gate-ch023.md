@@ -1,36 +1,28 @@
-*capture-dag-v2-rich · gate ch023 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 7771371ad221 · 2026-09-27*
+*capture-dag-v2-rich · gate ch023 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6a8d1d1bf63a · 2026-10-01*
 
 REACTION
 
-Holy shit. Holy *shit*.
+Oh, god. My stomach just completely dropped.
 
-I feel like the floor just dropped out from under me.
+I’m sitting here with my hand over my mouth. That conversation over the stew—that was the ugly, terrifying underbelly of this entire arrangement being dragged out into the harsh kitchen light. *"How do I get her from where she is to us, on your schedule?"*
 
-We finally got behind the curtain, into the house with just the two of them, and it is so much more complicated, so much more twisted, and so much sadder than I ever could have prepared myself for.
+*To us.*
 
-Look at the table. Just look at the domesticity of it: he cooked for her, he knows the music she likes, he has a *small bowl* just for her that he usually slices apples into, he poured her wine from the bottle he cooked with. They have a routine. They have a life here. And she didn't touch the stew. She drew one single line through the cream sauce with her spoon and said "It's wonderful"—a line she gives to waiters, a line that put ten thousand miles of ice between them in his own kitchen.
+There it is. The blurb told us from the beginning, but seeing Pace say it out loud, seeing him acknowledge that the endgame of all this tenderness and care is bringing Vee to *both* of them—it makes me want to throw up and it makes me want to read ten chapters in a row. It’s sickening because Vee is at home right now, floating on air, thinking she’s found the love of her life and the best friend of her life, and they are sitting at this table negotiating the timeline of her seduction like a project milestone.
 
-And then the argument. God, the *argument*.
+And Randi. Jesus, Randi. She is spiraling so fast she’s practically leaving skid marks. The cruelty dressed as politeness (*"It's wonderful"*), pouring her own wine because she can’t stand being served by him anymore, leaving the food he made her because she knows he just spent Friday night cooking for Vee in that exact same kitchen. She’s jealous. She’s so furiously, violently jealous of what Pace and Vee have, but she’s also furious that she’s being left out of it. *"You've got her Friday to Sunday... and you're in no hurry, and I can't think why you would be."* She feels sidelined. She pushed Vee into his arms thinking it would be a shared game, a proxy she could taste, and instead Pace has fallen into deep, unhurried devotion with this girl and left Randi standing out in the cold.
 
-Randi is cracking wide open. She has been sitting across from Vee, touching Vee’s painted hands, kissing Vee at the curb, hearing Vee talk about how gentle and patient and hungry Pace was, and Randi is *starving*. She’s not just orchestrating this for Pace anymore—if she ever truly was. She is on the outside looking in, watching Pace get the weekends, the sheets, the bare skin, the adoration, while she gets to play the cool, detached mentor over mimosas. *"You've got her Friday to Sunday... You've got her all weekend, every weekend, and you're in no hurry, and I can't think why you would be."* She is jealous. She is furiously, bitterly jealous of him, and she is desperate for Vee, and it’s curdling into pure venom: *"It's selfish, Pace."*
+And then that sex. God, that was awful and brilliant and devastating. It was hollow, frantic, angry punishment. No *"tell me"*, no inch-by-inch savoring, her eyes slammed shut because she couldn't bear to look at him, using him like an object to silence whatever agony is screaming inside her head. And Pace just... took it. He let her use him because he knows, somewhere underneath all his courtly control, that he is deeply guilty.
 
-And Pace! The man stood ten toes down on his soul: *"She chooses it, Randi. Every step of it. Or it isn't anything."*
+He thinks he’s being noble by saying *"She chooses it, Randi. Every step of it. Or it isn't anything."* He really believes that! He genuinely thinks that because he doesn't force Vee's body, because he leaves the door wide open, her consent is pure. But you set up the maze, Pace! You and Randi built the walls of the maze, and just because she's walking through it on her own two feet doesn't mean she chose the destination.
 
-My god, my heart nearly burst out of my chest right there. That is the entire ballgame. That is why I read this book. In the middle of this coordinated, terrifying little campaign, Pace’s dominance is entirely rooted in absolute reverence for Vee’s pace and Vee’s will. He refuses to drag her. He refuses to manufacture her surrender on someone else's timetable. He will wait until she walks through the door under her own power, or he doesn't want it at all. He looked at Randi—the woman who holds the reins to everything—and said: *How do I get her from where she is to us, on your schedule?*
-
-And then the bedroom. It made my throat tight. It was frantic, cold, and devastating. Randi riding him with her eyes squeezed shut, nails in his chest, desperate to feel something, desperate to take whatever piece of this whole sick mess she can actually hold in her hands. No teasing, no inching in, no *tell me*. She didn't want the debrief; she couldn't bear to hear it. And the second it was over, she rolled away into a cashmere blanket, turned her back to him, and shut down completely.
-
-And poor Pace. This brilliant, calculating man who can map out MRI algorithms and engineer the perfect seduction, completely out of his depth. Standing in the dark kitchen, putting a plate over her cold bowl of stew to save it for her, genuinely baffled by what just broke between them.
-
-The three-way collision is coming, and it is going to be an absolute bloodbath. I need the next chapter right now.
-
-***
+The plate over the cold bowl in the fridge. That killed me. He still cares for Randi, he still tends to her, but he has no idea how deep the rot goes. The sheer psychological mess of these three people is intoxicating. I am terrified for Vee. I need the next chapter right now.
 
 GATE 23 — Portion
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 3
+HEAT: 1
+ROMANCE: 0
 ALMOST-STOPPED: none
-WHY: Seeing the two puppet-masters alone in the house completely shattered the dynamic—Pace defending Vee's agency while Randi burns up with jealousy and starvation is the exact psychological tension I live for.
+WHY: The tension is coiled so tight it feels like a piano wire about to snap. Seeing the reality of the game laid bare between Pace and Randi while Vee is entirely in the dark is devastating, addictive, high-stakes drama.

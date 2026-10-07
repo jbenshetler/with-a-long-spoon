@@ -1,23 +1,24 @@
-*capture-dag-v2-rich · gate ch016 · gpt-5.5 · romance-graduate · prompt-sha 310ad900a72a · prose-sha ~6b85b74f7cb8 · 2026-09-08*
+*capture-dag-v2-rich · gate ch016 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 414026fd7d01 · 2026-10-01*
 
-REACTION — 
+REACTION — Oh, this got me.
 
-Oh, this was exactly the exhale I needed after that fitting room pressure cooker.
+Not in the “finally, house, bed, clothes off” way I was braced for, which is almost worse, because I had completely dressed myself for that door with her. I felt that little drop when he said “my bedroom” and then did not open it. I actually felt annoyed on her behalf for half a second, like sir, you invited her to your house at two in the afternoon, do not pretend you don’t know what satin is for. But then the chapter turned, and of course he knew. He knew exactly. He just wasn’t taking her through the obvious door.
 
-I loved that this chapter lets Vee *tell* it and not quite tell it. She comes in vibrating, trying to lead with the dress because “he’s making me a burgundy silk dress” is already insane enough, and Cassie keeps calmly finding the trapdoors underneath it. The shirt. The heat turned up. The box. The bra. The fact that Pace planned the room around her comfort before she even arrived. Cassie is so good here because she doesn’t flatten it into “girl, he wants you” or “girl, run.” She lets Vee hear herself.
+The house did something to me. I love a competent man in romance, but competence is so often just money with abs. This was different. The shoes for each thing. The kitchen that cooks. The office with the hard brain in it. The furniture he made. The garage-workshop clean enough to feel almost devotional. It made him feel more real and more dangerous, because now his attention isn’t just a bedroom technique. It’s how he lives. He makes the world fit the thing he wants from it. He learns the material. He waits. That is extremely attractive and also, hello, terrifying in the context of Vee being one of the materials he is learning.
 
-And God, Vee. She is so proud and embarrassed and turned on and emotionally scrambled that she can barely stay in one place. I believed every single little dodge: “I was on a box” as if that explains anything, as if being elevated topless in afternoon light is somehow less naked because there was carpentry involved. That made me laugh out loud, but it also got me because she keeps returning to the same fact: he looked at her and she didn’t feel reduced. That is the drug. Not just his restraint. Not just his desire. The combination. He wants her badly and still makes room for her to become someone inside that wanting.
+And the patent. I hate how much I liked that. I hate how completely I would have folded at “it helps sick scared people get out of the machine faster.” He lit up, and I went soft right along with her. The book knows exactly where my defenses are rotten: not billionaire, not alpha posturing, but a man who can explain signal in noise and then make you a dress.
 
-This chapter is less physically explicit than the last one, obviously, but it keeps the heat alive because Vee is still reliving it in her body. The “I was grinding on him” reveal is delicious because it proves the shame has shifted into mischief. She is not just being awakened by Pace now; she is starting to enjoy her own effect. That matters to me. That keeps this from being just a man expertly unlocking a woman. She’s beginning to *play*.
+The dress. God. The dress got me by the throat. Because it wasn’t the magazine color. That tiny disappointment mattered so much, and then the mirror corrected her. He didn’t reproduce the fantasy; he understood her better than the fantasy did. That is obscene, honestly. More intimate than if he’d taken her straight to bed. He heard a discarded want on a mountaintop and brought it home and made space for it before she even knew she was allowed to keep wanting it.
 
-Cassie asking if he’s gay was so dumb and so real, in the way friends reach for the wrong obvious joke when a man refuses the script. And Vee’s correction — powerlifter, not bodybuilder — killed me. She is already defending the exact taxonomy of him. Girl, you are gone.
+And then: “down to what you’d wear under it, in good light.” There it is. There is the heat. Not coy, not fake-innocent, not “oops, measurements are sexy.” It is absolutely sexual because it is practical. He needs to see how the silk will fall. He needs her body as information. He is offering her the dress and the looking in the same open hand, and she says yes before she can make fear respectable. That landed hard for me.
 
-I’m also feeling the danger differently now. The secret plan is still there, and it is still going to hurt. But Cassie being allowed this much of the story makes me breathe easier. Vee still has one relationship outside the spell where she can be ridiculous and honest and not managed. I don’t want her to lose that. I’m terrified she will start editing these reports once things get more complicated with Randi.
+I am still uneasy. Maybe more uneasy. He is so good at giving her choices inside rooms he has prepared. That’s the central poison apple, isn’t it? She is choosing. She is incandescently choosing. And also he bought the silk before asking. He arranged the light, the table, the heat, the whole afternoon. I don’t think the book is missing that; I think it wants me in exactly this knot. I am in it.
 
-But right now? I’m in. The book gave me heat, then gave me the afterglow with a best friend on a dorm bed, and somehow the afterglow made the heat more intimate.
-
-GATE 16 — Turned Up  
-DECISION: CONTINUE  
-CAPTURE: 8  
-ALMOST-STOPPED: none  
-WHY: This pulled me by letting Vee metabolize what happened instead of rushing to the next escalation. Cassie’s presence keeps the story emotionally grounded, and Vee’s shame turning into laughter and sexual nerve is exactly the grown-up erotic progression I came for.
+GATE 16 — Two Towels
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "It didn't. He said *my bedroom* like he'd said the kitchen and the office — no weight on it, nothing withheld and nothing offered — and left the door shut."
+WHY: I almost balked there because I was so primed for the obvious escalation that the closed bedroom door felt like a dodge. But the dress reveal made the whole chapter snap into place: the seduction is not delayed, it’s more specific. I want the measuring scene immediately.

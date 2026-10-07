@@ -1,17 +1,22 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~025d1b3f1ab8 · 2026-09-10*
+*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-07*
 
 REACTION
 
-Oh, this hurts. The shirt ritual was one of the tenderest things in the book, and now she has worried it all the way down to its terrible fact: the warmth is hers. The shirt smells like him, carries everything he does for her, and still cannot tell her what she is to him. When she takes it off and chooses the cold, I felt something in her finally refuse consolation. She would rather lie bare inside the unanswered question than keep using his scent to pretend she has an answer.
+Oh, this is nasty in exactly the way I mean as a compliment. Vee finally sees something Randi didn’t mean to show her, reads the whole human truth underneath two words, and then—crucially—doesn’t pry, doesn’t expose her, doesn’t demand intimacy as payment for noticing. She just slides the laptop over and gives Randi some work to hold. That is such a grown-up act of tenderness. It made me love Vee more than any of the daring dresses or sexual discoveries have. She is not merely the young woman being read by two sophisticated people. She can read someone too, and she can be gentle with what she finds.
 
-And the empty text field—yes. She knows he would respond. She even knows he would respond warmly. That is no longer enough, because Pace can answer every small question beautifully while avoiding the only question that matters. This is not manufactured conflict from an unsent text; the text remains unsent because she understands with awful precision that language cannot extract a truth someone has chosen not to offer.
+And now I am furious all over again, because the moral imbalance is almost obscene. Vee sees Randi’s hidden wound for perhaps thirty seconds and immediately protects it. Randi has spent months deliberately reaching into Vee’s appetite while withholding the fact that she is Pace’s lover. Vee thinks friendship means not making Randi carry an inherited shame in public. Randi apparently thinks friendship permits engineering Vee toward a threesome she cannot knowingly consent to yet. The comparison is sitting there like that huge point in the white, and I cannot unsee it.
 
-I’m angry with Pace now in a less complicated way. His care is real, but Vee is losing sleep trying to determine whether she belongs in the life his behavior has invited her to build. Meanwhile he already possesses the answer—and an entire concealed relationship—and lets her treat his omissions as puzzles in her own inadequacy. She keeps searching for the perfect sentence, the right restaurant, the right interpretation, as though better asking might earn clarity. It won’t. The problem is not that she has failed to communicate.
+Cassie hurt me too. “My dad got laid off in 2020,” with no handle left on it—yes. And then she has to sit there unknowingly identifying her best friend’s father as the visible proof of exactly what happened to hers. Nobody is being theatrically cruel. Nobody even knows the whole room they’re in. That makes it worse.
 
-That final image got me: Cassie sleeping below, physically close and honest, while Vee freezes above her inside Pace’s absence. The shirt in a heap feels like the first tiny collapse of the spell. Not liberation yet. Just the moment an object that used to comfort her stops being able to perform the lie.
+I also noticed how easily Vee decided that Randi had “no hand in it.” That instinct is loving, but it is also Vee’s dangerous habit: she supplies the kindest explanation before the other person has had to tell her the truth. She does it with Pace. Now she is doing it with Randi. Maybe she is right about the loans; Randi’s reaction certainly felt like genuine discovery. But Vee protects people so quickly that she may never give them the chance—or the obligation—to be honest with her.
 
-GATE 44 — Bare
+The title landed hard. Randi’s family is the outlier in the project. Randi herself is the glittering exception Vee thinks she was lucky enough to be chosen by. And Vee is still the only point in this whole arrangement without the full dataset. Now she carries one of Randi’s secrets with exquisite care while Randi and Pace carry the secret that could split her life open. I am absolutely reading on. Somebody has to make that asymmetry visible, and I need it to be soon.
+
+GATE 44 — The Outlier
 DECISION: CONTINUE
 CAPTURE: 9
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The heat disappeared, but the emotional charge absolutely did not. Vee choosing the cold over counterfeit closeness feels like the first real movement toward seeing what Pace’s tenderness cannot make true, and I need to know what she does when morning comes.
+WHY: Vee sliding the laptop toward herself and giving Randi ordinary decisions to hold was more intimate than a confession would have been. The chapter gave me the contact I needed, and the new secret makes the old one feel even less tolerable.

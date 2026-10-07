@@ -1,0 +1,40 @@
+*capture-dag-v2-rich · gate ch054 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1011072a47a5 · 2026-10-07*
+
+REACTION
+
+Okay so I just watched the jacket's first sentence happen in real time and I think I need to lie down.
+
+"Two people set the table for Vee's spring. She believes she pulled out the chair herself." I've had that line in my head for fifty-five chapters and this is the chapter where I *saw* it done, move by move, and the book never once leaned over and explained it to me. Randi doesn't tell Vee to show up naked under a coat. She says *you've got that good long coat*, and then — I'm quoting because it gutted me — "She stopped there, and let the rest hang in the room, and waited for Vee to find it." And Vee finds it, and *hears herself finish it*, and because the words came out of her own mouth it's hers. That's the chair. That's the whole architecture of this woman and the book just let me watch it without a single wink.
+
+And here's what has me pacing: **Randi has met Sheri.** I've got it from two chapters ago in Sheri's own words — came in dancing, hugged him hello, got looked at like a harem applicant, *never did learn my name*. Randi knows that the woman Vee has spent a month building out of spite is five feet tall with two inches of grown-out root. She could have ended Vee's agony with one sentence. Instead she ran a Socratic dismantling — *how do you know any of that, let's use the parts that are real* — and let Vee take the blonde apart with her own hands while keeping the actual fact in her pocket. It worked better that way. It also worked for *her*. God, every single person in this book is sitting on a fact and handing over a technique instead. Pace has the mirror. Vee has MIRA. Randi has Sheri's face. Nobody in this novel ever just *says the thing* and I've stopped reading that as politeness.
+
+And then she said it. **"That is not a man with another woman, gorgeous."** Said by the other woman. In her own bedroom. To the girl she wants. While telling her *don't you dare hand him to a woman who doesn't even have a face.* Honey, she has a face, you've been kissing it across a table since September. I actually put the book down and said something out loud.
+
+The shoes. The *shoes*. "Just the thing for tonight," pressed into her hands while Vee's too wrecked to look at them, and Vee grateful that one piece of tonight got decided for her. So Vee is going to walk through the cold to that door wearing nothing but a coat and Randi's heels, and when he opens it, Randi will be in the room. She was in the room for the induction dress too — knelt and buckled the shoe to her foot. She keeps getting herself into these frames and nobody ever notices her there.
+
+But — and this is the thing that's keeping me honest — *the advice is correct.* That's what makes it unbearable instead of just sinister. "A boy holding himself still so it won't show how much you got him." I came into this chapter having just watched that man sob over a truck that didn't turn in, so I *know* she's right, and she's right the way only someone who's been on his couch could be. She read him perfectly and used it perfectly and the thing she's steering Vee toward is also the thing Vee desperately wants. She asked the one question Cassie asked — *what do you actually want, underneath all of it* — and then she helped. Both things. All the way down. I can't hate her and I can't trust her and I've given up trying to pick.
+
+The shame negotiation was the best-written stretch of the chapter and it's the reason the coat doesn't read like a stock move off a thousand covers. Vee's mother's voice coming up "worn smooth into her own." *It's such a slutty thing to do* — she had to be made to say it, and it cost her, and then: the wanting coming up hand in hand with the mortification and *sharper for it*. That's the mechanism. That's why she keeps crossing these thresholds. The book has known since autumn that shame is her accelerant and it finally said so flat out.
+
+And then the kiss. **Four months of being the one who leaned in** — and Vee came back from the door. Got her hand on the latch, couldn't leave with only thank you, turned around, took Randi's face in both hands. *She only knew she wasn't finished.* Under fifty years of composites, all those girls photographed looking slightly to the left. Vee thinks that was gratitude. Randi's hands shutting on the back of her coat — I remember her hands shutting on his forearm and pulling it tighter, twice. Same hands, same tell. And the apology after, *sorry, God, I'm such a mess* — and Randi filing it as the least interesting part of four months.
+
+Then: the back of her hand to her own mouth, a thing she hasn't done since she was fifteen. One idiotic laugh in an empty hall. The sentence with *means* in it that she wouldn't let assemble. The matcha nobody drinks and twenty minutes to hold on to this, and she *never got them*, because Brooke was at the counter.
+
+Brooke. BROOKE. The only person in this entire book who has looked at a thing and said it out loud, and she did it wrapped in so much warmth you could serve it at brunch. *You always say goodbye under the composites.* *I've seen how that girl looks at you.* *I might be tempted myself — * and Randi's "Don't," which is the single most naked syllable that woman has produced since *cheating bastards*. And then the kindest knife in the world: play all you want, privately, or **for the boys**, and nobody will say a word — I'm asking whether you want to keep your position. And Randi heard herself say that she did. *Heard herself.* She answered before she was there for it, same as she laughed on the lift.
+
+So the one hour where Randi finally got something real handed to her freely, the house put a price on it inside ten minutes. She put the empty mug back in the cupboard. She never drank anything. She went up and shut her door. I'm not over that detail and I don't think I'm meant to be.
+
+What I'd text at 1 a.m.: *she gave her the SHOES. and she's met sheri. SHE'S MET SHERI.* And then immediately: *also the girl walked out of that house thinking the plan was her own idea and it was and it wasn't and I don't know how to hold both.*
+
+One tiny drag: the Gstaad retelling. I read that chapter an hour ago and getting the lift line and the dress and the marble floor again in summary is the only place my eye picked up speed. It's doing work — Vee hearing *the kind you tell your daughter about* and going quiet, Vee envying *easy* because easy is the one thing she's never gotten to be, and Randi's whole magnificent dodge, *and then it got very late, and we went up*, from the woman who narrates everything. *Everywhere but the bedroom, and the bedroom's the room I actually live in* is a hell of a cover story. Still skimmed a paragraph of it.
+
+And now she's going to that door tonight. And I know what's behind it: a man with bleach in the hall and a mop in the bucket and a bowl of chicken he ate because he told himself to. She's bringing him everything with no words on it, and he's a man who can't spend words, and I genuinely do not know whether that solves it or detonates it. If he opens that door and takes the coat off her and still won't say it, she's going to be more alone than she was in the cold.
+
+GATE 55 — My Friend Randi
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "And the ball," Randi said. The marble floor, the Christmas trees down the length of the room in silver and white against all that black — I'd read it one chapter ago and my eye sped up through the recap.
+WHY: This is the jacket's thesis performed instead of announced — a woman steered into a plan she'll swear she invented, by someone who's withholding a fact and giving her a method, and who is also genuinely, measurably *right*. Vee initiating that kiss after four months of holding still, and then Brooke pricing it within the hour, is the best one-two this book has landed. She's walking to that door tonight in another woman's shoes and I am not setting this down.

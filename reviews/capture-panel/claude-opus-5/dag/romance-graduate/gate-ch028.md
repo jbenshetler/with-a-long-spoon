@@ -1,0 +1,32 @@
+*capture-dag-v2-rich · gate ch028 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d1b699df4c26 · 2026-09-29*
+
+REACTION
+
+Okay so this is the fight chapter, and I clocked the machinery about nine seconds before Vee did, which is the whole problem and also not fatal.
+
+Let me do the good part first, because the good part is a lot. The concrete pad outside the dark gym, field lights, a boom box with electrical tape on the handle — I was *there*. And the lesson is real teaching. Not "he put his hand on her waist and electricity shot through her," actual instruction: give me something to push back against, being jelly doesn't work, the information goes through here. *Smaller steps are easier, it's not a race.* And the thing I liked most, the thing that's genuinely his: **the space you're keeping is what gets you stepped on.** Close the gap and my feet can't land anywhere but past yours. That's a man who thinks in mechanisms handing her a mechanism, and it's *also* obviously about everything else, and for about a page the book trusted me to hold both. Then it didn't. "The frame she'd fought on the pad as too close, too fixed, too much rule, was the thing doing it now" — I *had* that. I had it three pages earlier. Don't walk me back through it with a pointer. Same with the little stack of her thoughts on the floor: *I'm doing well. He's making me. I wonder how many of them he's taught.* That's the book laying out the trigger sequence like a flow chart so I don't miss the turn. You didn't need to. She'd already started a count she hadn't meant to start — that sentence did the entire job.
+
+And then: the blonde. The other woman with makeup that's doing a lot of work, planting the poison line and gliding off before Vee can answer. *He's so good about getting a girl home safe at the end of the night.* I have read this exact woman in maybe forty books. My heart sank about an inch. And then Vee snapped at him and I actually said out loud "no, don't" — not because I was scared for her, because I was tired. Three dates and we're doing the misunderstanding? This is the conflict-from-one-insinuation thing, it's the oldest engine on the lot, and the book drove it right out of the garage.
+
+*Here's what saved it.* Two things. One: the bartender. The book does not let Vee sulk her way through a long dark night and then get the truth from Pace at his most wounded. It makes her sit there until the lights come up and *ask a stranger*, out loud, the humiliating question — and gets back the flattest, best paragraph in the chapter. He leaves them at the door. Not that plenty haven't tried, hoping he would. And he don't bring dates, as a rule. **"Wasn't him they were jealous of, honey."** That landed like a slap with a hand open. The misunderstanding got *dismantled in the same chapter*, by a woman with a rack of glasses to finish, and Vee had to pay full price for it in embarrassment with nobody watching. That's not the trope. That's somebody who knows the trope and refuses the 200 pages of moping that usually come attached.
+
+Two: *floozie* came back. I had written in my own notes that the shame stopped closing her, that it ran the whole length of the thing and didn't work anymore, and I was proud of her for it — and here it is, at four in the morning, in his laundered shirt, in her own mouth and pointed at herself: *three dates and she'd spread her legs like a slut.* Of course. Of *course* it wasn't cured. It just got rerouted. She turned it on him because holding it pointed at herself was unlivable, and the second she got home it came back around and found her anyway. That's the most honest thing in the chapter and the book didn't flag it once. Good. That's the trade I'll take for the blonde.
+
+Also, quietly, the line that made me sit up: *how much of this was Pace, and how much was the Pace she'd been building out of wanting him, wish laid over man so neatly she couldn't find the join.* She thought that in the middle of a dance floor, one beat, and let the turn take it. Nobody in a Kindle Unlimited book has ever thought that. Keep doing that.
+
+Things I'm side-eyeing. Pace is getting close to a competence collage — PhD at twenty-two, powerlifter, cabinetmaker with screwless joints, cook, tailor, and now he taught two semesters of country dance and half the bar can two-step because of him. Each one individually I bought. Stacked up on a Thursday night it's starting to feel like a build rather than a man. The saving grace is that all of it is *the same* skill — take a body, tell it exactly where to be, make the effort invisible — but I noticed the ledger this time and I hadn't before.
+
+And Cassie. **She didn't wake Cassie.** Three feet away, would have sat up for this, would have come to the bar in whatever she sleeps in — and Vee paid a cab fare she didn't have instead, money that was meant for other things, which is also the shoes she put on the credit card with nothing behind it and I have not forgotten. She chose debt over being known. That's four for four now: the smoothie place, the wet, the dorm, and now this. The friendship is being spent down to the studs and I don't think Vee has looked at the balance once.
+
+And then the last four lines. *She was going to fix it.* Great. **She's going to Randi's.** She's taking her first fight with the man to the woman who pointed at her on the quad, and Randi is going to get to *hold* it, and there is no version of that room I don't want to be in. That's it. That's the reason my thumb's already moving.
+
+What I'd text at 1 a.m.: "book pulled the jealous-blonde-at-the-bar bit and I almost threw it, and then a bartender with a glass rack fixed the entire thing in four sentences and the girl went home in a cab she can't afford in a shirt she washed the smell out of and I'm not okay"
+
+GATE 28 — Lesson
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "He's such a great lead, isn't he? Knows how to get a girl to do just what he wants her to." — the second that woman's hand came off his forearm I knew exactly which book I was in for a page, and I was so close to being done.
+WHY: It ran the oldest conflict engine there is and then refused to milk it — the truth arrived from a bartender the same night, and Vee paid for it in shame instead of in chapters. The dance is the best physical writing since the fitting, the subtext got explained to me twice when once would have been never, and she's walking into Randi's with this in her hands, so no, I am not putting it down.

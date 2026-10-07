@@ -1,32 +1,31 @@
-*capture-dag-v2-rich · gate ch059 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 8348ecb548e4 · 2026-09-19*
+*capture-dag-v2-rich · gate ch059 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha c23f4d1deeee · 2026-09-19*
 
 REACTION
 
-Oh my god. *Oh my god.* My pulse is in my throat. Helen Rivers, what are you *doing* to me?
+Oh, man. This chapter went down so sweet and bright, like that fresh orange juice, but the *dread* sitting right under the surface of it is unbelievable.
 
-First of all, Dr. Marsh’s lecture on the lice comb and the baboons grooming for an hour just to keep from sickening? "Somebody in this room, by spring break, is going to tell me what you spend it on now." The thematic precision of that! We spend it on *this*. We spend it sitting across from the only person in the universe we trust to take our wreckage and our raw lust and our secrets, passing a wintergreen Lifesaver between palms, spending an hour combing through each other's intimacies until we're clean and held. It’s breathtaking prose, genuinely literary, but carrying an erotic charge so heavy it feels like a live wire.
+First of all, I love Kayla and Meg. In so many romance books, female friends are either brainless hype squads or walking exposition dumps, but this felt so deeply, humiliatingly real to being twenty-one in college. Kayla screaming over waffles, having an existential crisis because the dining hall is locked on a Monday morning, and then literally vibrating out of her chair on the sun porch when Vee admits she flashed him in January? Pure gold. "You were standing there *talking to me about my socks*!" I laughed out loud. It’s hilarious and grounding and it gives Vee an actual world outside of Pace’s kitchen and Randi’s velvet trap.
 
-And then the loft. God, the loft.
+And then Meg drops the hammer without even knowing she’s doing it:
+*"That's a big apology."*
+*"It was a big fight."*
+*"No, I respect it... Sometimes you have to make it right in their language."*
 
-Vee trying to turn the morning-after snowballing into a cute, self-deprecating comedy bit for the girls' table—putting her hand up like a Victorian aunt, setting her little outrage down like a party trick, fishing for Randi to validate her reflexive Ohio shame: *"You think it's gross too, don't you."*
+My stomach dropped right into my boots. *Apology.* That is how the outside world hears this story. Vee told them she picked a fight, went out there bare under a wool coat to win him back, and it worked. But we know—*I* know, because I was inside Pace’s head when he was sobbing on his bleached kitchen floor—that Peter was the one who failed. Peter was the one who starved her out of emotional cowardice because of Daphne. And Vee just completely surrendered her ground! She thinks she was being powerful—a "pleasure princess," taking control of the board—but to anyone looking from the outside, she just did the ultimate grovel for a man who wouldn't even spend the words "you're my girlfriend" on her. Meg comparing Vee standing naked in the freezing wind on high heels to... buying Danny maple bacon because she was grumpy on her period? Oh, honey. The disparity is terrifying.
 
-And Randi. Just... staring at her through the candlelight, taking the measure of it, and dropping two syllables that altered the gravitational pull of the entire book:
+And now Wednesday night is set.
+"Meet the boyfriend."
+Except he *isn't* the boyfriend! He refused to say the words! And she has invited Kayla, Meg, Danny, Cassie, Theo (the boy who asked her out!), and *Randi*. All into one room. With Peter.
+Peter, who gets sensory overload and dissociates when there are too many TVs at Chili's.
+Peter, who thinks Randi is just an acquaintance from a coffee shop and has no idea she's been orchestrating Vee's sexual awakening and staring at a nude picture of Vee on her phone.
+Randi, who is wildly in love with Vee and has no idea Vee and Peter reconciled by Vee standing naked on his porch in Randi's own shoes!
+And Cassie, who is sitting on a spreadsheet with Randi's family's fraudulent PPP loans!
 
-*"I don't."*
-*"Did you like it?"*
-*"It was powerful. It turned me on."*
+"Tables have ends. Somebody ends up at one." Peter said that, and Vee thought it was sweet and democratic. But putting all these volatile chemicals into one room with a man who couldn't even handle a noisy restaurant booth is going to be an absolute trainwreck. It’s an ambush, whether Vee realizes she’s setting it or not. I am sweating just thinking about Wednesday.
 
-I stopped breathing. The absolute quiet mastery of that moment! Randi didn't argue with her, didn't give her a feminist lecture, didn't mock her. She just set a grown-up truth on the white tablecloth and let Vee choke on the difference between what she’s been trained to perform and what her body actually craves. And Vee’s body *knows*. That clench under the table, the wine drying up in her mouth, the realization that her "tidy explanation" was complete bullshit—and then blurting out, *"Actually—he's enthusiastic."*
-
-And Randi eating the bread with that warm, knowing *"Mm."* Like a cat watching a bird realize the window is open.
-
-And then the ending on the sidewalk. Jesus Christ. Vee weaponizing the "tickle" spot on Randi’s neck—kissing the bare, warm dip between neck and shoulder, totally naive to what she's actually touching—and Randi's whole body catching, rising, holding that breath a beat too long before laughing it off as a flinch. Randi is in agony. She is starving for this girl, standing in an icy parking lot having Vee’s mouth on her neck after listening to Vee describe swallowing Peter's come and being eaten out like a blood orange.
-
-The three of them are in deep, dangerous water now. Vee thinks she's just a girl with a great boyfriend and a glamorous bestie. She has no idea she's standing in the middle of a furnace.
-
-GATE 59 — A Clean Plate
+GATE 56 — Across
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 7
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: The tension in that booth was almost unbearable—Randi flatly dismantling Vee’s shame with four words ("It was powerful. It turned me on"), followed by that neck kiss on the freezing sidewalk. This is adult erotic fiction operating at the absolute peak of its powers, psychological depth and searing heat locking together completely.
+WHY: It was a classic "morning after" debrief bridge chapter, but the comedic dialogue with Kayla was pitch-perfect, and the dramatic irony of setting up this Wednesday dinner—putting Peter, Randi, and Cassie at the same table—has me practically clawing at the screen for the disaster to begin.

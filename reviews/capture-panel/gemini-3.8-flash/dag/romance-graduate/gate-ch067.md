@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch067 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 00dbf427b44c · 2026-09-19*
+*capture-dag-v2-rich · gate ch067 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha e993ed0e88f5 · 2026-09-19*
 
-REACTION:
+REACTION
 
-*I am screaming into a pillow.*
+Oh, Vee. *Oh, honey.*
 
-Randi, you absolute, calculated, devastating *menace*.
+The absolute agonizing tragic irony of her sitting across from Randi, fully convinced she is reading the room, when she is actually blind, deaf, and illiterate to what is happening right in front of her face. When she told Randi about Sheri looking at her, and Randi's thumb stopped on her knuckles—that icy, dead little drop where Randi goes, *"And you liked it"*—my stomach fell through the floor. Vee panic-lies (*"No. Not my thing"*) because she is still so terrified of her own expanding skin, and then, in the most painful misread in the history of romance, she thinks Randi went quiet because she’s *worried about Pace.* She genuinely thinks Randi is guarding her relationship! The naivety is breathtaking.
 
-Look at what she just did! She dressed Vee up in her own scrap of an iridescent skirt—knowing damn well it would ride up Vee’s hips the second she moved—set her loose on a dance floor, held her wrists in the air so her thong was on display to the entire room, and then used some random boy holding a beer as an excuse to grab a handful of Vee’s ass and *kiss her senseless*.
+And Randi. Knowing what we know from chapter 61—the sheer, ferocious, possessive depravity between Randi and Pace, the way they use each other's bodies to worship and consume Vee in absentia—watching Randi here is like watching someone play with a live grenade while smiling over white wine. Randi didn't freeze because she was worried about Sheri taking Pace; Randi froze because *another woman looked at Vee's body.* Another woman appreciated the bare legs and the keyhole top and the induction shoes that Randi paid for. And then Vee claims she didn't like it, closing the door in Randi's face without even knowing she's doing it.
 
-And the kiss wasn’t a sloppy, giggly sorority-girl peck for an audience. It was slow. It was deliberate. The description of Randi holding that inch of distance, letting the perfume and the expensive hair and the warm breath sink into Vee until Vee was literally leaning into it—god, the tension was unbearable. And then the tongue. The salt and lime and the taste of Randi, and Vee’s hips instinctively bucking forward, asking for *more*, her body doing the exact same helpless soaking-wet response she gives Pace, but this time entirely for a woman.
+And then the waxing. The transition from the tension of Sheri to Pace asking for her to be completely bare, and Randi instantly taking over the logistics like a high-end madam prepping a debutante: *"You'll walk out of there feeling like the most expensive thing in the room."* Randi sending her to *her* aesthetician, choreographing Vee's body down to the skin for Peter—while Peter is eating Randi alive on white sheets and Randi is fantasizing about Vee's breasts. It’s so layered, so sick, so unbelievably erotic and psychologically claustrophobic.
 
-And then Randi pulls the neatest, cruelest trick in the book: she immediately folds it up, labels it a "show" for Harrison, and hands it back. *"You really did a great job putting on a show. I almost believed it."*
+That kiss on the sidewalk. That wasn't a friendly goodbye peck anymore. Fingers at the hinge of the jaw, drawing back *just a breath*, and going in a second time to linger. And Vee tilting her head up, *waiting for it*, mouth pressed into the bitter orange of Randi's neck.
 
-BULLSHIT, MIRANDA. You didn't almost believe it, you planned this whole damn night from the second you ordered that unsweetened matcha! But by framing it as a prank, she gives Vee cover for her small-town panic while simultaneously setting a fire inside her that Vee has zero idea how to put out. Vee's hands are literally shaking. Her body is completely turned on, completely unhandled, and she has to pretend it was all just a joke for a frat boy.
+They are tightening the net around her, and she is happily skipping straight into the center of it with Sondra's address inked on the back of her hand. God, I need Friday to get here.
 
-Meanwhile, back in Chapter 61, we watched Randi ride Pace into the mattress while telling him she wants Vee's breast in her mouth, and here she is, slowly closing the net around this poor, gorgeous, oblivious girl. The layering here is insane. Pace on Friday, Randi on Saturday, and Vee thinks she’s just having the most fun college semester ever while she is being psychologically and erotically consumed from both sides. Give me the next chapter immediately.
-
-GATE 67 — On Her Floor
+GATE 64 — Between
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9/10
+NEXT: 10/10
 ALMOST-STOPPED: none
-WHY: The slow-burn explosion between Randi and Vee finally happened, and Randi's calculated retreat right back into "just teasing a boy" left Vee—and me—completely stranded and starving for what happens when they get back to that room.
+WHY: The dramatic irony is agonizingly good—knowing the depravity Pace and Randi shared two chapters ago makes every quiet touch and micro-expression at this dinner hit like an emotional gut-punch. Vee is walking straight into their hands, completely bare.

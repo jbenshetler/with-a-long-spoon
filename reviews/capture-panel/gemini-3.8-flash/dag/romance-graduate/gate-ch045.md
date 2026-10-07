@@ -1,20 +1,28 @@
-*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha d6bbb290a65b · 2026-09-19*
+*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-07*
 
 REACTION
 
-God, that hurt. That was a gut-punch of a micro-chapter.
+I am coming completely undone over this book.
 
-Two pages, maybe three hundred words, and it completely stripped the romance down to the raw bone. That image of her pulling the flannel off because *the heat was only her own body heat reflected back at her*—whew. That is stunning, devastating writing. "He was across town in his own bed, gone down easy as he always went, easy as a man with nothing grinding in him, and she was here holding a smell in the dark." That line wrecked me. Because that is the exact, miserable reality of being the person in a situationship (or whatever gilded cage this is) who fell completely, stupidly in love while the other person is resting comfortably inside their own impenetrable routine.
+Look at what this bastard author just did to me. We just had Chapter 43, where Pace is taking Randi over the back of that exact couch, pulling her nipples until she gasps, listening to her talk about kissing Vee’s mouth, both of them fully aware they are grooming this girl for a three-way, Randi admitting she wants her, Pace holding her while she cries because she feels "real." It was dark, it was calculated, it was terrifyingly intimate.
 
-She has spent forty-four chapters letting him feed her, dress her, photograph her, spank her, give her a drawer, reshape her entire palate and sexual identity—and she's finally realizing that an immaculate plate of food and an orgasm aren't the same thing as being claimed. He gives her everything he *does*, but he won't give her *himself*. He won't give her the word.
+And then Vee walks through the door in 45, and it is pure, heartbreaking, achingly soft romance.
 
-And shedding the flannel—the very flannel she begged him to wear just a few days ago so it would smell like him—and just lying there bare and freezing in her narrow twin dorm bed while Cassie sleeps below her? That feels like a massive emotional pivot. It’s the first time Vee has actively rejected the comfort he offers because she recognizes the hollow center of it.
+The flannel shirt. God help me, *the flannel shirt.* Bringing it back in a neat little washed square because "it stopped smelling like you," and demanding he wear it all weekend so she can take his scent back to her cold dorm room like an addict carrying a fix. And the way his face cracked—that split second where he thought she was returning it, the flicker of hurt, and then the pure warmth when he realized she was just desperately, helplessly in love with him. He puts it on *immediately*. Over the shirt he’s already wearing. In a hot kitchen. No teasing, no smirking, no making her feel small or foolish for her colossal, humiliating vulnerability. Just: *"All weekend... You'll have it back Sunday."*
 
-I don't normally love super-short chapters, but this didn't feel like a lazy shortcut; it felt like an exhale after the claustrophobia of Chili's and that desperate, frantic sex in 44. It’s a clean break. The honeymoon haze is officially dead. Now, what does she do when morning comes?
+I wanted to throw my Kindle across the room and then sob into the carpet. How does he do this? How does this author make me melt into absolute mush over a man I *know* is setting a trap? Because it’s not fake! That’s the genius of it, and the absolute horror of it. Pace isn't faking the care. He’s not putting on an act. He truly cherishes her. He cooks for her with that holy, absorbed reverence, feeds her pizza where every ingredient is distinct—*the difference between cotton candy and cut strawberries*—catches her bra off her back, and worships her body.
 
-GATE 45 — Bare
+And right there in the middle of all that tender domesticity: *"The thong she took off herself, three steps into the room, and threw. It landed green on the long, unusually proportioned table that stood in the middle of his bedroom."*
+
+THE SPANKING BENCH. The walnut bench disguised with a false tabletop! She threw her neon green thong right onto the very instrument of her future ruin, totally blind to what it is, and tumbled into bed. The dramatic irony is practically choking me.
+
+She lasted five days. Five days of trying to be a normal college student, and she broke. She's completely addicted to him, he's filling her drawers and her senses, and the house in the trees has swallowed her whole. I am terrified for the drop, but God, I never want to leave this kitchen either.
+
+GATE 45 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: It was short, but it hit like a truck. Watching her realize the flannel is only warm because *she's* warming it was a devastating metaphor, and I need to see how she acts around him now that the illusion is cracking.
+WHY: The transition from the feverish hallway strip to the utter emotional ruin of the washed flannel shirt destroyed me; the romance between them feels devastatingly real even with the shadow of the bench and Randi hanging over it.

@@ -1,21 +1,26 @@
-*capture-dag-v2-rich · gate ch041 · claude-opus-4-8 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~a3af5d5e997c · 2026-09-10*
+*capture-dag-v2-rich · gate ch041 · claude-opus-4-8 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 38dcf8e44cd8 · 2026-10-01*
 
 REACTION
 
-Oh, the title. "Cropped." I clocked it before I even got to the photo — and then there it was, the version her parents have stops at the waist, and I felt the whole chapter fold shut around that one word. She's not just cropping the picture. She's cropping herself for everyone at that table. The dress her father can price but can't be told was *made*. The man she can't name. The self "that stood up cleanly in the telling" — she doesn't have one.
+Okay so this is the photo chapter again, except it isn't — the first one was the nude, the real-as-she-was one, "never share me," shoulder-hip-knee. This one she goes and *puts her face back on.* That's the part that got me and not in the good way. She comes up off him wrecked and sated and real and lovely, and then she goes to the mirror and builds "the version of herself she wanted him to keep." A girl who decided to be looked at. And I know what the book wants me to feel — that's she's claiming it, reaching for it, it's hers, the brave part is believing him — and I *did* feel the warm thing when he grinned over the phone like a boy who got away with something. That landed. I'm not made of stone.
 
-What got me is that this is a Cassie chapter, and Cassie is still my canary, and she did the thing again. She asked the exact right question — "So what is he. Not to your dad. To you." — careful, exact, not prying, I can hear her keeping her hands off it. And then "Is it that you can't say, or that you don't want to?" That's the seam. That's Cassie's fingernail right on the seam. And Vee says "Both. Probably both," and Cassie *nods and goes back to her plate.* She doesn't pull it. She never pulls it.
+But underneath. She makes an artifact of herself and sends it into a house that runs a plan, and the word under the bar goes to Delivered, and my whole stomach went cold reading "gave him herself to keep." Because that's the second photo now living on a phone in that house, and the jacket told me there's a third game. I can't unhear it. The better the tenderness, the louder the dread — it's the exact trap I wrote down after chapter 40. He posed her with a kiss at every joint. He also *posed* her. Both are true and the book keeps serving me both on one spoon and I keep tasting each piece apart, which is the whole grim joke of this book, isn't it — he taught her to taste instead of just eat, and I've learned to taste his tenderness apart from his handling and I can't go back to just swallowing it either.
 
-But here's the line I'll be carrying: "Vee was grateful. She was also, a little, not." That undid me a bit. Part of her *wanted* Cassie to push. Part of her is standing at the edge of the thing she can't say, hoping someone will reach in and make her say it — and Cassie, out of love and respect, won't. That's the loneliest thing in the book so far, lonelier than any of the withholding-from-Dad stuff. She's built a life she can't describe to the two people who raised her or the friend who sees her clearest, and the not-being-pushed is its own small grief.
+The "you do this to me," the taking care of himself thinking of her — that's genuinely hot, the man wholly focused, that's my drug and the book knows it. "Remembering you is a pale thing next to you being here." Fine. Yes. Good.
 
-The dad detail is doing real work too — "an expensive gift from a man means his daughter is in deeper than he'd pictured." That's the counter-voice again, but for once it's not the book whispering dread over her shoulder, it's *her* running her own father's read of the situation and finding it accurate. She knows she's in deep. She's pricing it herself.
+But then the kitchen, the chicken piccata basically, and I'm watching him cook like it's a love language because it is, and then she asks about his parents. "I don't go back." The face going level and exact, each word set down clean and apart. That's the scar again in a different register — the thing with no door. And she takes her hand off it and lets the quiet be kind, and I love her for it, and I'm also screaming a little because *nobody in this book has a past you're allowed into* and that is never, ever an accident in a book that's running a con.
 
-And no — the book still hasn't done the thing that would make me leave. I keep watching for the sweet touch with the dread scrubbed out of the room, and this chapter is *nothing but* the dread: cropping, withholding, "too good is its own kind of suspicious," the word she can't find. It's the counter-voice at full volume with no sex to soften it. So it's not my exit. It's the opposite — it's the book being honest with me about the cost, which is exactly why I'm still here.
+And Sheri at Thanksgiving. "She's alone." The flicker of another woman at his table and then it goes out because of course, two strays, feed them both. I noticed my own flicker go out right alongside Vee's and I didn't like how smoothly it happened. That's the book doing to me what it does to her.
 
-What I'd text a friend at 1 a.m.: *she wanted her roommate to make her say it out loud and the roommate loved her too much to. that's the scariest chapter and nobody even took their clothes off.*
+What I'm actually tracking: it has still not crossed my line. This was close to a tender chapter — but the counter-voice didn't go quiet, it just moved fully inside me. The dread wasn't dropped. There was no Cassie, no Randi, no next room — and still I couldn't be simply happy for her, because "I don't go back" and the delivered photo did the dread's work without anyone having to say it. The day it's genuinely dropped I'm gone. Today it held.
 
-GATE 41 — Cropped
+1 a.m. text: *he put makeup on her memory and she helped. and he has no parents he'll name. I'm not okay.*
+
+GATE 41 — In His Hands
 DECISION: CONTINUE
 CAPTURE: 7
-ALMOST-STOPPED: none
-WHY: A quiet, clothes-on chapter that scared me more than the sex does — Cassie asked the one true question and let it go, and Vee was "a little, not" grateful, which means part of her is starving to be made to confess. It's the counter-voice at full strength with no sweetness to hide behind, so it's the furthest thing from my exit line. I need to know if Cassie ever stops respecting the closed door.
+NEXT: 6
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "She was composed, arranged, a girl who had decided to be looked at." — the second photo going out, Delivered, into that house, was the closest I came to setting it down in disgust at myself for still being moved.
+WHY: It gave me real heat and a real warm beat and then immediately salted it with "I don't go back" and a delivered artifact nobody in that house should hold — the tenderness and the dread arrived on the same spoon, which is exactly why I can't quit yet. It hasn't crossed my exit line: no outside counter-voice, but the wound and the photo did the dread's work on their own, so I'm still reading toward the third game cashing.

@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch070 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha c10b93dddd9c · 2026-09-19*
+*capture-dag-v2-rich · gate ch070 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 00dbf427b44c · 2026-09-19*
 
-REACTION
+REACTION:
 
-Cassie is an absolute treasure.
+*I am screaming into a pillow.*
 
-*“Do you want some of my Cocoa Pebbles?”*
+Randi, you absolute, calculated, devastating *menace*.
 
-I literally exhaled a breath I didn't realize I was holding. That is the most devastatingly accurate depiction of female friendship I have read in months. Cassie didn't take the bait. When Vee tried to throw up the old, tired wall—*“You just don’t like her, you’ve never liked her”*—Cassie didn't get dragged into an argument about Randi. She just looked at her wreck of a roommate standing in her coat, clocked the raw, terrified panic radiating off her, and offered her cereal. It’s an olive branch, it’s a life raft, and it’s Cassie saying, *I see you spiraling, you’re not ready to look at it, so eat something.*
+Look at what she just did! She dressed Vee up in her own scrap of an iridescent skirt—knowing damn well it would ride up Vee’s hips the second she moved—set her loose on a dance floor, held her wrists in the air so her thong was on display to the entire room, and then used some random boy holding a beer as an excuse to grab a handful of Vee’s ass and *kiss her senseless*.
 
-And the question itself: *“Is this what you want?”*
+And the kiss wasn’t a sloppy, giggly sorority-girl peck for an audience. It was slow. It was deliberate. The description of Randi holding that inch of distance, letting the perfume and the expensive hair and the warm breath sink into Vee until Vee was literally leaning into it—god, the tension was unbearable. And then the tongue. The salt and lime and the taste of Randi, and Vee’s hips instinctively bucking forward, asking for *more*, her body doing the exact same helpless soaking-wet response she gives Pace, but this time entirely for a woman.
 
-God, that cut straight to the marrow. Not *Are you cheating?* Not *Are you a lesbian?* Not even *What did I just see?* Just the terrifying, bottom-line question that Vee has spent four chapters running from. Vee can handle rules and games and Pace rationing out orgasms for confessions; she can handle Randi scripting her wardrobe and playing the voyeuristic fairy godmother. What she cannot handle is being asked what *she* wants. Because the second she looks at what she wants, the whole house of cards—the "straight girl" defense, the "it was just a bit for a boy" excuse, the safe shelter of Pace's bed—crumbles to absolute dust.
+And then Randi pulls the neatest, cruelest trick in the book: she immediately folds it up, labels it a "show" for Harrison, and hands it back. *"You really did a great job putting on a show. I almost believed it."*
 
-This was a short chapter, basically a beat of pure aftermath, but it didn't feel like filler. It felt like the air getting sucked out of the room right before the lightning strikes. We are heading into this Saturday brunch with Randi, and Vee has zero emotional armor left.
+BULLSHIT, MIRANDA. You didn't almost believe it, you planned this whole damn night from the second you ordered that unsweetened matcha! But by framing it as a prank, she gives Vee cover for her small-town panic while simultaneously setting a fire inside her that Vee has zero idea how to put out. Vee's hands are literally shaking. Her body is completely turned on, completely unhandled, and she has to pretend it was all just a joke for a frat boy.
 
-GATE 70 — Some of Mine
+Meanwhile, back in Chapter 61, we watched Randi ride Pace into the mattress while telling him she wants Vee's breast in her mouth, and here she is, slowly closing the net around this poor, gorgeous, oblivious girl. The layering here is insane. Pace on Friday, Randi on Saturday, and Vee thinks she’s just having the most fun college semester ever while she is being psychologically and erotically consumed from both sides. Give me the next chapter immediately.
+
+GATE 67 — On Her Floor
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 ALMOST-STOPPED: none
-WHY: It was short, but Cassie cutting through Vee's bullshit with seven words and a box of Cocoa Pebbles was pure emotional gold. The tension leading into Saturday brunch is strung so tight it's vibrating.
+WHY: The slow-burn explosion between Randi and Vee finally happened, and Randi's calculated retreat right back into "just teasing a boy" left Vee—and me—completely stranded and starving for what happens when they get back to that room.

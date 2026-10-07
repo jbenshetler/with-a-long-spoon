@@ -1,19 +1,22 @@
-*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~702b7231d0c3 · 2026-09-11*
+*capture-dag-v2-rich · gate ch034 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 230524645ef4 · 2026-10-01*
 
-REACTION — Oh, Randi knows. She knows exactly what she did, and “Sticky fingers?” made my stomach drop. The pastry gives her plausible innocence, but that is what she always does: builds the innocent explanation into the trap so Vee can never prove she was handled. I don’t believe for one second that the timing was accidental. “Do what you need to” was practically an instruction, delivered with enough casualness that Vee has to carry all the shame alone.
+REACTION
 
-And Vee wanted Randi. Not abstractly, not merely because the story was sexy: when Vee touched herself, it was Randi’s face that came. Her fondness. Her gaze. Vee’s desire is unmistakably her own now, and that should have thrilled me. Instead it hurt, because the instant Randi appeared in the fantasy, Vee stopped—not because she stopped wanting, but because being seen by Randi turned the wanting “ashamed and obedient.” That word, *obedient*, scared me. Randi has got so deep inside Vee’s erotic life that even an imagined look can command her body.
+Oh, I loved this for her. I loved that the grand entrance she had imagined did not conveniently present itself, so she made the moment happen. That second, longer step was entirely Vee’s. Nobody instructed it, nobody coaxed it out of her, nobody was even there to reward her for it. She chose to let the room see her, felt her body answer the choice, and kept walking. That is exactly the distinction I have been desperate for this book to protect: desire can be influenced, dressed, encouraged, even awakened by other people, and still become genuinely hers.
 
-I did love Vee telling the story of Pace. She was glowing with what he gave her, and the spanking itself still feels tender, attentive, and particular to them. He rubs, waits, kisses the places he strikes, and cares for her afterward with juice and praise. But I’m not letting the bet entirely off the hook. He respected her “don’t” instantly and resumed only after her yes; that matters enormously. Still, she said no to liking it more than once, and he treated her body as evidence against her words. I need the promised explicit conversation, because “your wetness proves you want this” is dangerous ground even when this particular scene lands safely.
+And God, the secret of nothing beneath the dress worked on me. Her hand keeping the slit closed, the careful first step, then deliberately opening her stride—it was hot because she had complete control over what the room received. Everyone saw the leg; only Vee knew the full truth. Even Pace does not get all of it when she sends the photograph. I especially loved that. She gave him the image of his dress doing what he made it to do, but kept the private charge for herself. For once, information flowed exactly where Vee chose to send it.
 
-Randi listening to Vee describe it was intensely hot, which makes me resent her more. She draws the confession out one precise question at a time, enjoys every blush, then replaces Pace’s intimate image with an image of herself: dress up, knees wide, touching herself where someone might walk in. Of course Vee fled burning. Randi designed that outcome as cleanly as Pace designed the dress.
+I missed Pace. I wanted him in that room almost painfully, because the dress is his attention made physical and because he would have understood what it cost her to cross that stage without shrinking. But his absence did not hollow the chapter out. In a strange way it made the triumph cleaner: she was not performing only for the man she wants. She wanted the room’s eyes for herself.
 
-Then “You’re my best friend in the whole world” nearly broke my heart. Vee receives it as the miracle of being chosen, while I know Randi literally did choose her—but first as the subject of a game. The friendship has become real, perhaps desperately real for Randi, yet she uses the declaration at the exact moment Vee might otherwise ask what just happened. And then another kiss without asking, now unmistakably doubled: the second press, the sweetness left on Vee’s mouth, Randi giving her one bite of the pastry by kissing it onto her. That is gorgeous and intimate and absolutely not innocent. I want them together so badly. I want Randi to stop taking tiny permissions Vee never knowingly gave her even more.
+And Cassie—“somebody had to document it” nearly got me. No prying, no interpretation, no trying to own the moment. She simply saw that Vee had done something important and preserved it for her. Then “you can be famous at me,” which is such a Cassie way of loving her: dry enough not to embarrass her, warm enough that I felt it anyway.
 
-This chapter is the whole book in miniature: Vee freely tells, freely touches herself, freely returns the kiss—and Randi has arranged the light, the temperature, the story, and the exit door around every choice. I’m completely caught, but I feel like I’m watching someone I love walk farther into a beautiful room while the lock turns softly behind her.
+The heels still put a little stone in my stomach because I remember the emergency card even when Vee is letting herself forget it. Randi’s kneeling is embedded in this look, Pace’s labor is embedded in the dress, and Vee believes she assembled the whole transformation herself. But this particular walk belongs to her. Nobody gets to take that away later—not even the truth.
 
-GATE 34 — One Bite
+GATE 34 — The Induction
 DECISION: CONTINUE
-CAPTURE: 10
-ALMOST-STOPPED: “Sticky fingers?”
-WHY: That line made Randi’s manipulation feel almost cruel, but the uncertainty is precisely what has me trapped: I need to know whether Vee was seen, baited, or both. Vee’s desire for Randi is now undeniable, and I cannot leave before she gets to name it—and before Randi is forced to risk an actual answer.
+CAPTURE: 9
+NEXT: 8
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: Vee’s long second step was the most purely self-authored thing she has done in chapters, and it thrilled me. I want to stay with the woman who walked back to her chair carrying a secret even Pace did not own.

@@ -1,20 +1,16 @@
-*capture-dag-v2-rich · gate ch063 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~f6415b9043be · 2026-09-11*
+*capture-dag-v2-rich · gate ch063 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~8348ecb548e4 · 2026-09-11*
 
-REACTION — Oh, this made me squirm in about six different directions, and only half of them were pleasurable.
+Oh, this got me. Not because she managed to taste herself—she didn’t—but because the wanting was real and the refusal was real, and neither one canceled the other. That breath’s width between her tongue and her fingers felt more intimate than half the sex scenes I’ve read this year. She wasn’t performing bravery for Pace or following one of Randi’s scripts. She was alone, trying to discover where her own boundary actually lived, and her body could want past the point her mind could cross. That is exactly the kind of interiority I’ve been starving for.
 
-The wrong hand/right hand passage got me. That is exactly the kind of erotic interiority I keep looking for and almost never get: her body responding not because some generically sexy thing is happening, but because it recognizes a syntax Pace taught it and aches when the meaning is missing. That is hot, lonely, specific, and so completely Vee. Then her touching the new smoothness herself and immediately imagining his hand discovering it—yes. I felt that want.
+And Randi is inside this awakening now. Not metaphorically, not only as Vee’s glamorous friend who gives her permission: Vee is wondering what Randi did, picturing Randi’s fingers or Randi’s mouth, using Randi’s answer to push at the edge of herself. She still won’t name that as desire for Randi, but come on. Pace supplied the wet kiss; Randi made it powerful. Both of them are in the bed with her while she is physically alone.
 
-But I am deeply bothered by the sentence that her yes “couldn’t be called back.” It absolutely could. Pace would stop if she changed her mind; we have watched him do it. Yet Vee experiences agreement as something that spends her right to reconsider, and apparently neither Pace nor Randi has helped her understand otherwise. That gap is becoming terrifying. Pace asks cleanly and waits for an answer, but he also withholds the reason for a deadline that plainly means something is planned for this weekend. Once again, she is freely choosing the visible act while the people around her retain the context that would let her understand what she is choosing toward.
+The window absolutely undid me. She shuts it because she wants the room warm enough to open herself, then throws it up because Cassie might smell the evidence. That respectable oversized flannel buttoned over her nakedness is Vee’s whole problem in one image: everything underneath is abundant, hungry, alive, and she still believes she has to air herself out before someone safe comes home. “Her mess. Hers to lie in” hurt. She can accept Pace’s appetite more easily than her own; she can let him treat her plenty as a feast, but alone she still calls it excess and greed.
 
-And Randi—Jesus. “Barely stings.” Of course she gives Vee the wine, the luxury, the promised feeling afterward, and omits the moment where she will be asked to roll over. It is the entire book in miniature. Randi does not technically lie about the destination; she simply leaves out the part most likely to make Vee pause before setting out. Then Vee reaches the undisclosed threshold and reasons that because she already said yes to “everything,” she has no meaningful lines left. That chilled me far more than the waxing hurt.
+Also: her mouth is empty, and that feels ominously unfinished rather than defeated. She failed the reach tonight, but the reach exists now. And I know exactly who is going to be sitting across from her when she finally understands what she was reaching toward.
 
-I’m also suspicious as hell of “by the weekend.” There is a dance next Saturday, but this request feels too precisely timed and too sexually purposeful to be only about Pace privately enjoying her afterward. Are Pace and Randi preparing another stage without telling her what play she’s in? Does Randi know exactly why the appointment had to happen now? Given that Pace asked and Randi supplied her own preferred technician with almost gleeful familiarity, I cannot believe those facts are unconnected.
-
-Still, the ending worked on me. Vee walks out feeling expensive rather than humiliated, and that feeling belongs to her before Pace ever touches her. I love that for her even while I’m furious about the concealed machinery producing it. This book keeps making the appetite unquestionably hers and the circumstances around it ethically poisonous. I’m already braced for the weekend.
-
-GATE 63 — Barely Stings
+GATE 59 — The Reach
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-ALMOST-STOPPED: “once the yes was spent and couldn't be called back”
-WHY: That idea frightened me because Vee is learning to treat consent as irrevocable while Pace and Randi keep withholding context. But the chapter knows exactly how frightening that is, and the timed request has me desperate to see what they have arranged for the weekend.
+ALMOST-STOPPED: none
+WHY: This was quiet, solitary, explicit, and psychologically loaded—the exact combination I want. Vee’s unfinished reach toward her own appetite, with Pace in the image and Randi inside the question, has me already reaching for the next chapter.

@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch060 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha f697ae9ef8f2 · 2026-09-19*
+*capture-dag-v2-rich · gate ch060 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b9d0068c9a3c · 2026-09-19*
 
-REACTION
+REACTION:
 
-Oh, God. Oh, my heart.
+I need to scream into a pillow. I am genuinely, violently stressed out right now.
 
-This chapter made me feel like I was holding my breath in that suffocating, radiator-baked dorm room right alongside her. It is so rare—so shockingly rare in romance or erotica—to see female desire and female shame handled with this level of surgical, tender honesty. Usually, if a heroine explores herself, it’s either glossy and effortlessly empowered, or it’s played as dirty for cheap titillation. This was neither. This was a girl alone in the dark, caught between the conditioning of an entire lifetime—that quiet, venomous voice from Ohio telling her that her appetite, her wetness, her "plenty" is a shameful, excessive mess—and the wild, terrifying awakening she’s experiencing through Pace and Randi.
+First of all: Dr. Marsh’s opening lecture about *hau*—the spirit of the giver that lives inside a gift, pulling it back toward its source so that no gift is ever truly free? That is the most menacing, brilliant thematic shot across the bow this author has ever fired. You’re telling me that while Vee is sitting there wearing the coat, talking about the cashmere blanket, and letting Randi buy her wine, she’s literally studying the invisible ropes tying her to two people who orchestrated her entire life? Terrifying. Absolutely chilling.
 
-That moment where she brings her own fingers to her mouth. The sheer psychological precision of that near-miss. *A breath’s width remained.* My chest literally seized up. She wanted to cross that threshold so badly. She had Pace’s total, untroubled acceptance of her body on one side—a man who groans into her like a meal, who drinks her down and brings her own taste back to her lips without an ounce of hesitation or disgust—and Randi’s cool, sophisticated permission on the other (*"It was powerful. It turned me on"*). She has two people showing her that who she is and what she produces is good, is delicious, is entirely worthy of devotion. And yet, that invisible, ingrained wall of shame still stopped her tongue behind her teeth.
+And then this dinner. God, this dinner.
 
-And then she wipes it on the sheet. That broke me. She wipes her own desire away like a stain, finishes herself off in a solitary, airless frenzy, and then forces the window open to let the freezing January air scrub away the evidence of her own life before Cassie gets back. And that final image—lying in the dark, deliberately settling her hip over the cold, damp spot on the bed, whispering *Greedy* to herself, her mouth still empty... it’s devastating. It’s gorgeous.
+I was having so much fun watching Vee finally get to brag about her weekend. The "pleasure princess" bit, the midnight pancakes, the absolute sheer bravado of flashing him on the porch—Vee is so happy, so glowing, so entirely in her element. But watching her feed every single private, sacred millimeter of her and Pace’s intimacy to Randi is like watching someone casually hand over the launch codes. And Randi! Sitting there in her cashmere and lace, drinking red wine, gently stoking the fire, pulling every detail out of Vee like a master interrogator—and knowing what *we* know from Chapter 47, that Randi is hopelessly, obsessively in love with her!
 
-What gets me so deep in my gut is how safe she is with Pace’s memory even while she’s warring with herself. When she remembered him stopping the kiss—the way he stilled, the way he immediately began to pull out the moment she objected, reading which "no" was which without sulking, without forcing himself on her, without an ounce of cruelty—that is the exact heartbeat of what I read for. His dominance isn't an erasure of her boundaries; it’s an absolute reverence for them.
+The bathroom scene made my stomach completely drop. Vee going into a cold restaurant stall to get off because she is so wound up from retelling the story—and right at the peak, it isn’t Pace’s face she sees behind her eyes, it’s *Randi’s*. *"Because that had been about Pace, obviously. All of it. About Pace."* Oh, Vee. Oh, honey. You are in so much deeper than you know. You are swimming in an ocean with two sharks who both adore you, and you think you’re just having a fun semester.
 
-She is coming alive, inch by painful inch, but the jacket's warning is humming louder than ever in the background. She thinks of Pace's mouth; she wonders about Randi's fingers. Both of them are pulling her out of her old, cramped life, feeding an appetite that was always hers, but she’s still so terribly fragile underneath it all. I need to see her get through this. I need to see her back in that warm house, at that table, being held.
+Then the walk outside. When Randi pointed to her neck, and Vee just—casually, affectionately—bent down and kissed it, and Randi *flinched*? My jaw hit the floor. That wasn't a tickle! That was a woman who is hiding an agonizing, burning torch for her best friend getting touched exactly where she wants to be touched, completely unexpectedly, and having her entire nervous system short-circuit! Randi almost dropped the mask right there on the sidewalk!
 
-GATE 60 — The Reach
+And now tomorrow is Wednesday. Tomorrow night is the dinner. Pace, Randi, Cassie, Kayla, Meg—all of them in the same room. Pace, who knows Randi is lethal and saw her look at Sheri like a "harem applicant." Randi, who is quietly unraveling with longing for Vee. And Vee, floating in the middle, completely blind to the bomb ticking under the table. I can't breathe. I need the next chapter right this second.
+
+***
+
+GATE 57 — Covering
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The psychological honesty of her shame warring with her appetite was breathtaking; watching her hover a breath away from her own mouth completely gripped me. I desperately need to see where this awakening takes her next.
+WHY: The tension is coiled so tight it’s humming. The psychological layers—Vee getting off to the memory of Randi’s face while swearing it’s about Pace, Randi flinching when Vee kissed her neck, and the giant group dinner looming tomorrow—make it completely impossible to put this book down.

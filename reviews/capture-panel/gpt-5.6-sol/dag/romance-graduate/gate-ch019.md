@@ -1,17 +1,28 @@
-*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~1f134f523a50 · 2026-09-10*
+*capture-dag-v2-rich · gate ch019 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 6c8bd3bde2d5 · 2026-10-01*
 
-Oh, she is incandescent. That stupid, unstoppable smile at every red light got me—I know that exact private, body-deep happiness where the ordinary world looks slightly altered because you’re carrying what happened underneath it. And “the evening had used her well” from last chapter is still humming here. The heat hasn’t vanished just because the sex is over; it’s in her bare face, her wrecked hair, the missing underwear, those hidden plum toenails. That is exactly the aftermath I want: not coy, not a mechanical postcoital glow, but her whole relationship to her own supposed “badness” changing by degrees. Her mother’s word can come, and for once Vee doesn’t particularly care. God, good for her.
+REACTION — Oh, Randi, you dangerous, heartsick liar.
 
-But I felt the Cassie-shaped ache immediately. Cassie reads her whole, sees the grin, and then politely accepts the hollowed-out version Vee offers. Vee calling the omission a kindness twice made me distrust it twice as hard. She could tell Randi the humiliating, electrically private truth about how wet she got on that pedestal, but she gives Cassie “he’s a good kisser” and dinner. That isn’t because Cassie is unsafe. It’s because Cassie hasn’t learned to draw disclosures out of her—and because Vee has already started reserving her deepest self for the people engineering access to it. I hate that, not because Cassie is entitled to sexual details, but because Vee is quietly rewriting secrecy as generosity.
+That lunch had me so wound up I was practically holding my breath with her. She knew how the fitting went. She knew the order of it, the hip, the pedestal, Pace on his knees—she wasn’t guessing. “All the best ones start at the left hip” is nonsense spoken with enough confidence to keep Vee dreamy and compliant, and it worked because Randi understands exactly how to make shame feel like sophistication. *Anybody who’s had something made knows.* That was so deft it frightened me. She took the thing Vee could barely admit, renamed it ordinary, and then walked her right back into the heat one yes at a time.
 
-And then “your boyfriend.” Oh, honey. Wrong in more ways than Cassie knows. Vee hasn’t had any conversation defining Pace that way, and the fact that she doesn’t correct it because Cassie is already leaving feels like one more tiny unchecked assumption accumulating around this relationship. Pace has made her feel wanted without shame, which is enormous and real. He has also helped build a situation whose actual shape she still cannot see.
+And Vee wanted to tell her. That’s what hurts. Not merely because she was maneuvered into it, but because she genuinely wanted Randi to have the secret. She’d kept the wet satin even from Cassie, who is safe, and was seconds from handing it to Randi because Randi had made that booth feel like the one place it could be received without disgust. That’s intimacy, even with all the manipulation inside it. Maybe especially with it.
 
-The skirt zipper nearly undid me. The missing panties are delicious as a private token—yes, absolutely, keep that charged little trade alive—but they also become physical proof that Vee cannot keep her edited story perfectly sealed. She has to wait until Cassie leaves before she can undress. That is such a small, sad cost beside her enormous happiness, and I’m frightened precisely because she’s too happy to feel it yet.
+Then Randi closed the door.
 
-Text to a friend at 1 a.m.: She gave him her soaked green panties and came home glowing, but she’s already telling the wrong woman everything and the right woman almost nothing. I am thrilled and deeply unwell.
+I actually felt the absence when she said, “You don’t have to tell me.” That wasn’t mercy—not entirely. Randi had been steadily turning herself on with Vee’s story, and she reached the point where hearing the answer would have made something undeniable. Vee’s desire for Pace, Randi’s desire for Vee, Randi’s knowledge of Pace’s exact methods, the whole secret structure: all of it was about to occupy one sentence. She couldn’t bear it, so she snapped the spell and went looking for the check. I’m furious with her, aching for her, and wildly attracted to her. Extremely inconvenient.
 
-GATE 19 — Toenails
+Also, that invented headboard story was not casual girl talk. It was Randi offering Vee a disguised piece of herself: helpless, laughing, control gone, pleasure arriving through surrender. Whether it literally happened or whether she built it out of what Pace once did to her, she was testing Vee with it. And Vee’s heat went straight to the image of *Randi*, not the faceless man. There you are, Vee. You can call it fascination for maybe another five minutes.
+
+The kiss was the kill shot. Hand at the hinge of her jaw, mouth soft, pulling back and returning with more—absolutely not a French social goodbye, babe. And Vee’s first private response is to touch her mouth. Her second is to explain it away. Her third is terror that someone saw. That sequence told me everything. She wanted it before she feared what it meant.
+
+Meanwhile, I cannot ignore the money. Vee reading prices first, ordering soup, paying for her own place at Randi’s table, and knowing she’ll feel it on Thursday made me protective in a completely different direction. Randi knows how to create a world in which Vee feels elevated, selected, newly visible. Vee is paying admission materially and emotionally while Randi knows the whole game. I need someone to understand the size of that imbalance before it breaks her.
+
+I would text a friend: “THE WOMAN KISSED HER, VEE CALLED IT FRENCH, AND I AM GOING TO BITE THROUGH MY KINDLE.”
+
+GATE 19 — How It's Done
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is the explicit scene’s emotional afterburn, and it matters: Vee’s shame has loosened, but so has her openness with Cassie. I’m very happy for her, very worried for her, and completely hooked on the widening gap between those feelings.
+WHY: Randi seduced a confession out of Vee, stopped precisely where her own feelings became unbearable, and then kissed her goodbye like a woman finally losing control of the plan. I need the next chapter immediately, because Vee has just felt desire, denial, and fear arrive in that exact order—and she still thinks nothing happened.

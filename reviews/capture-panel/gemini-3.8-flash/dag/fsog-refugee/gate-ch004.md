@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch004 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 3a52a74c7617 · 2026-09-26*
+*capture-dag-v2-rich · gate ch004 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3a16f5932850 · 2026-10-01*
 
 REACTION
 
-Oh, God. Oh, this makes my stomach drop in the most complicated, intoxicating way.
+Oh, Cassie. *Goodbye, Vee.* That chilled me right to the bone. That was the only person in this entire chapter seeing the board for what it actually is, even if Cassie doesn't have the words for it yet—she just felt the door close on who Vee used to be.
 
-We finally meet Vee from the *inside*, and she is so heartbreakingly, completely undefended. Seeing her sitting there with her right pen, counting down the seconds at the door, hoping this impossibly golden girl actually meant it... it’s so tender and young. And then Cassie! Cassie gave me absolute chills. That flat, quiet, *"Goodbye, Vee."* Not "see you," not "bye." Cassie knows, on some instinctual, gut level, that whatever Vee is walking toward, it’s a threshold she’s not coming back across. It felt like an omen.
+Seeing Vee from the inside is heartbreaking and breathtaking. She is so hungry. She’s built on this lavish, athletic scale, smothered in cardigans to hide from her mother’s voice calling her a floozy, so deeply starved for someone to tell her she’s beautiful, to pull her up into the light. And here comes Randi, who is essentially the devil in perfectly applied makeup and a cashmere sweater, handing her an oat-milk latte and an entire social architecture where Vee finally gets to be the chosen one.
 
-And then the contrast between what Randi actually did in Chapter 3 and what Vee experienced here is just breathtakingly brutal. In Chapter 3, Randi literally *hunted* her. She calculated the collision on the quad to the exact inch, went home and asked Pace breathlessly, *"Do you think she'll like the bench?"* But to Vee? To Vee, it’s just the miraculous warmth of an open door. She thinks she’s finally being invited to sit at the high table of a world she’s only ever pressed her nose against the glass of.
+The manipulation is terrifying precisely because Rivers renders it as pure warmth. There’s no sneer, no mustache-twirling villainy. Randi is just deploying sheer, radiant focus—and Vee’s internal transcript goes completely blank because she isn’t listening to the words, she’s just basking in the heat of being seen. It’s intoxicating and sinister. Knowing the jacket—knowing that Pace is waiting on the other end of this, that the bench is already built, that Randi asked *“Do you think she’ll like the bench?”* just a day ago—makes every single drop of warmth in this coffee shop feel like honey smeared over a trap.
 
-What gets me—what really gets me right in the chest—is Vee's inner landscape. That internalized voice of her mother whispering *floozies*, the shame she carries about her own lush, spectacular body, wrapping herself in a cardigan to hide what she secretly knows is better than what the other girls have. She is *so* primed for Pace, and she doesn't even know his name yet. A girl who starves herself of attention because she thinks her desire makes her "not a nice girl"—when a man like Pace looks at that body and demands it, asks for it, strips away the cardigan with that terrifying, patient gentleness... it is going to utterly unmake her.
-
-And Randi! Randi deployed the full charm offensive, but the book notes so brilliantly that Vee can't remember a single actual word—just the *feeling* of being chosen. Randi gave her nothing of herself, just the performance of warmth, but Vee is drinking it down like water in a desert. And that little thrum of wanting between them—Vee staring at Randi's mouth, feeling the cold citrus, the *"Love you, girl"*—it's so wicked because Vee has no idea she's stepping into a spiderweb woven by two people who are already designing her surrender.
-
-I am completely hooked. The consent question here is going to be fascinating and terrifying, because every single step Vee takes is one she desperately, genuinely wants to take—she's practically running into the trap with her arms open.
+I’m on the edge of my seat. I need the consent here to stay as real as the blurb promised, but god, watching the spider weave the web around this sweet, eager girl is impossible to look away from.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 1
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The contrast between Vee's sweet, starving vulnerability and the predatory web Randi and Pace are weaving around her is pure psychological crack. Cassie's "Goodbye, Vee" gave me actual goosebumps. I need to see when Pace enters her orbit.
+WHY: The tension is incredible. Shifting to Vee’s perspective and seeing just how genuinely, tragically starved she is to be chosen makes the trap that Pace and Randi are laying feel breathtakingly sharp. I have to see how Pace enters this frame.

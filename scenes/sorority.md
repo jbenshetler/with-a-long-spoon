@@ -48,6 +48,8 @@ Cassie was turned a few degrees in her seat, as she had been since Vee sat down,
 
 Something eased in Cassie's face, and she picked her highlighter back up.
 
+Randi had not gone down into them either. She was turned in the aisle seat as Cassie was, toward Vee and not the board, the pen capped, and for once there was nothing at all on her face. Vee took it the only way there was to take it. Both of them. Both her friends turned toward her and not the professor, over a dress.
+
 "You lucky slut." Randi, low and delighted from the aisle, and the register of the whole thing tipped over. Then, in the same breath, already turning the dress over in her hands without a hand on it, "I'll bet you've had the whole outfit planned since the second you got it on."
 
 "Slut" landed lower than Randi meant it to. Vee's body had been keeping the night's account since eight, a good soreness no gym had ever given her, down low, and up the inside of both thighs, and in her nipples where they sat against her bra. For a second she was sure the whole room could read it off her.
@@ -96,7 +98,13 @@ And Vee, who had stood in his sun porch and cried over precisely this without a 
 
 "No. Don't. I know exactly what it is." She came back in and lifted a strand of Vee's hair off her face. "You're going to walk in there and the whole room is going to stop. Every one of those girls in the one dress she owns that has to do for everything — graduations, funerals, this. They're going to forget their own names."
 
-Vee laughed and said she'd settle for not tripping, and Randi said tripping was for girls who didn't have the right shoes, which was the whole reason for the day, and then clapped once, brisk, glamour gone businesslike. "Okay. Off, carefully. We are not buying shoes for a dress we're *guessing* at. It comes with us. We match the real thing or we don't bother."
+Vee laughed and said she'd settle for not tripping, and Randi said tripping was for girls who didn't have the right shoes, which was the whole reason for the day.
+
+"He was up all night finishing it," Vee said. It came out of her the way the tears had, without asking. "He fell asleep after. I watched him sleep."
+
+Randi's hand was still at the shoulder seam. It stayed, and for a breath Randi was somewhere else, behind her own face, and this time the breath ran long. Vee saw it, and saw it was the same quiet as yesterday in the lecture hall, and it came to her that it might be jealousy. Not of her. Of him, of a man who sat up nights and paid attention, and she found she wanted that for Randi so much it hurt. Randi, with her beautiful boys in a hurry and her dinners ahead of time, and nobody who had ever sat up a night over anything of hers.
+
+Then she was back, and clapped once, brisk, glamour gone businesslike. "Okay. Off, carefully. We are not buying shoes for a dress we're *guessing* at. It comes with us. We match the real thing or we don't bother."
 
 Vee took it off in the bathroom and slid it back into the bag and drew the zip up the length of it, the burgundy disappearing tooth by tooth behind the gray nylon until it was only a bag again.
 

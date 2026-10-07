@@ -62,8 +62,8 @@ window, but removes the reader framing and current chapter and projects the chec
 to the authoring keep-set (dropping `Impression` by default).
 
 Trust those tools rather than calculating or composing extra checkpoint commands. For
-example, `--scene not-enough --check` resolves chapter N=49, boundary B=40,
-`ck-ch040`, and full clean prose ch41–48. No `ck-ch050` belongs in that topology.
+example, `--scene the-usual --check` resolves chapter N=53, boundary B=50, `ck-ch050`, and
+full clean prose ch51–52. Nothing above `ck-ch050` belongs in that topology.
 
 If the required boundary checkpoint is missing, follow the missing-checkpoint protocol
 below — offer to mint it; do not silently skip it or substitute another checkpoint.

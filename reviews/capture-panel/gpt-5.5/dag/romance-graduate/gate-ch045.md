@@ -1,25 +1,24 @@
-*capture-dag-v2-rich · gate ch045 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~d6bbb290a65b · 2026-09-11*
+*capture-dag-v2-rich · gate ch045 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-07*
 
-REACTION —
+REACTION — Oh, this one got me in the soft underbelly.
 
-Oh, thank God she finally asked him.
+After the Randi/Pace chapter and then the PPP outlier chapter, I was braced for consequence, and instead this gives me the new ordinary with Pace, which is exactly the kind of quiet chapter I don’t resent because it is not inert. It’s alive with appetite and routine and the terrifying sweetness of habit. The drawer. The car. The deadbolt. The heat turned up before she gets there. The door already open. The whole thing has become a ritual, and Vee knows it, even when she’s pretending she only came back because five nights was enough.
 
-Not because I wanted this to hurt her, because I absolutely did not, but because the last few chapters have been like watching a woman press her hand harder and harder against a bruise and pretend she is just checking whether it’s still there. And here she walks into the warm house, the house that has been practically another body for him, and refuses to be warmed out of the question. That got me. The bag left in the car got me. She came to the threshold but did not move into the spell.
+The part where he doesn’t fight her needing time for school hurt in the most adult way. I know why she wanted him to push back. God, I know. Sometimes “of course, take what you need” feels almost worse than jealousy because it leaves you alone with your own wanting. But also: that’s Pace. He doesn’t demand proof. He just remains. And for Vee, who has clearly lived so much of her life braced for want to become cost, that steadiness is almost unbearable.
 
-And he is still so much himself that it makes me want to shake him. The heat already on. The wine poured. The food going. The piano. The whole altar prepared. He has built her an answer out of everything except the one material she asked for. I believe him when he says she is the most important person in his life. I do. That is the problem. If I thought he was just withholding because he doesn’t care, I could hate him cleanly and move on. But this is worse and richer: he cares so much, and he still cannot or will not meet her where language lives.
+The hallway undressing was hot because it was clumsy. Thank you. Give me the jeans stuck at the hips and the socks and the laughing and the bra caught from behind. That is a thousand times sexier than choreography. And then the “five nights” being published by her own body, ugh. I love that the book understands embarrassment can be erotic without making her small. He doesn’t tease her cruelly; her own body tells the truth and he receives it.
 
-“Words are cheap. Believe what I do.” Sir. Sir, I am at your door with my arms folded. Because yes, actions matter, obviously, and romance readers have suffered through enough empty “baby I love you” speeches from men who then behave like damp cardboard. But words are not cheap when someone has been starving for the name. Words are not cheap when she has to carry this outside the house, into her roommate’s questions, into her parents’ cropped photograph, into the plain daylight of being a person with a life. He wants the sacred private truth to be enough, and for her it has become a room with no door handle.
+And then the pizza. I cannot believe I am this invested in a man making pizza, but here we are. The food scenes still work on me because they’re not decorative. They’re the same language as the sex: attention, patience, pleasure taught through exactness. Vee learning to taste is Vee learning to want. And I loved the line of her realizing he’d make it this way for an empty house. That matters. He isn’t performing care for applause; care is how he moves through the world when something has his attention.
 
-And Vee. My girl. The courage here is different from the sexual courage, and maybe harder. She does not perform for him. She does not seduce her way around it. She does not let his care dissolve her. She says the humiliating practical version out loud: “What do I tell my mother, that he feeds me and we have a lot of sex?” That line hurt because it’s exactly the degradation of the unnamed thing. Not because the sex is degrading, but because without the name, without public shape, all the beauty of it collapses in the mouth.
+But the shirt. The shirt wrecked me. I had to stop there in that very romance-reader way where you look up from the Kindle and just stare at the wall like, well, that’s rude of you, Helen. The fact that she wore it every night away from him until the smell died. The fact that she washed it because it had become nothing. The fact that she asks him to wear it all weekend and give it back full of him. That is need, but it’s also invention. She is making a little portable version of home because she cannot live in his house full-time and still be a student/person, and he understands immediately. He puts it on over the shirt he’s already wearing. No speech. No joke. Just obedience to the tenderness of the request.
 
-I also loved, in the painful way, that he gives her that awful true dodge: do any of your friends have a relationship you’d rather have? Because no, probably not. And that’s why she stayed this long. It is the best thing in her life. It is better than what other people have. It is still not answering the question. That is such grown-up emotional damage: when the person can give you a true thing that does not save you.
+This made me ache for her because it’s beautiful and also because the concealment is now almost unbearable. The drawer was already dangerous; the shirt is worse. This is not a fling anymore, not even in the realm of plausible deniability. She is literally carrying his scent back to her own bed. And somewhere outside this room Randi and Pace still share the third game. I believe his tenderness. I believe every bit of it. That is what makes me furious in advance.
 
-The hand reaching for her at the end nearly killed me. Because I know those hands. We all know those hands now. They feed, undress, soothe, ask, stop, warm, arrange, repair. And she sees, maybe for the first time with full clarity, that the hands have become his way of not saying the word. Not the hand in place of the word. Exactly. Exactly.
-
-I am furious with him and still in love with the book’s refusal to make this simple. I don’t feel bait-and-switched; I feel trapped in the exact emotional machinery I signed up for. This is the chapter where the private erotic paradise finally fails as a full life. And I am very much continuing, but I am no longer lounging. I am sitting up.
-
-GATE 45 — Believe Me
+GATE 45 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This pulled hard because Vee finally defended the part of herself that cannot live on touch alone. Pace’s answer made me ache and want to throw something, which is exactly the kind of damage I am apparently here for.
+WHY: This was quiet, but it was charged all the way through: need, food, sex, habit, the shirt. The romance score is the shirt, completely; him putting it on without making her defend the request felt like a real turn in the bond, and now I need the book to deal honestly with what it has made me believe.

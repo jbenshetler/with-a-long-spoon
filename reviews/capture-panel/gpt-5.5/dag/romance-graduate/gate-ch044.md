@@ -1,17 +1,22 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~025d1b3f1ab8 · 2026-09-11*
+*capture-dag-v2-rich · gate ch044 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-07*
 
-REACTION — Oh, this one hurt in the exact quiet place chapter 42 opened up. Not dramatic hurt. Worse: dorm-room, phone-glow, 3 a.m. hurt. The kind where nothing is happening except a girl realizing the object that used to soothe her has started telling the truth.
+REACTION — Oh, this one got me in the ribs in a completely different way.
 
-The shirt turning on her is brutal. I have loved that shirt. I loved her asking for it to smell like him again, loved him wearing it all weekend without making her feel silly. It was such a tender little devotional object. And now she puts it directly on her skin because she needs the illusion at full strength, and for a second I went soft because yes, of course, that is how you survive missing someone. Then the book slips the knife in: the warmth is hers. God. The heat was always hers. She is keeping herself alive with the residue of him, and suddenly she knows residue is not presence.
+After all the heat and Saturdays and Pace’s house, I honestly didn’t expect a statistics project chapter to make me sit up like that, but yes. Yes. This is exactly the kind of quiet chapter I forgive because it is not empty quiet. It has teeth. It takes the word “outlier,” which has been floating around like a warning light since earlier, and finally lets it cut somebody.
 
-And this is where the central lie starts to feel even more dangerous to me, because Vee is no longer only intoxicated. She is beginning to register absence, asymmetry, unnameability. She is not stupid. Her body keeps knowing before she can bear to know. And instead of getting the truth, she has a drawer, a shirt, meals, orgasms, care, a whole house full of evidence that somehow still does not answer the question. I’m angry at Pace in a new way here. Not because he doesn’t say “I love you” on command. Nobody owes a perfectly timed confession. But because he knows more than she does about the frame she is inside, and he lets her lie awake trying to name a thing whose real shape has been withheld from her.
+And it’s Randi. Of course it’s Randi. The girl who always knows how to make a thing look true, suddenly confronted with the one point that is true in a way she cannot style, cannot charm, cannot soften. I felt almost protective of her here, which annoys me because I have been side-eyeing her so hard. But watching her go still over MIRANDA hurt. Not because she’s innocent in everything — she is very much not — but because this particular thing is not her sin, and yet it has her name on it. That is such an adult, ugly humiliation: your family’s money, your family’s lies, your own name printed neatly over damage someone else did.
 
-Also Cassie sleeping below her wrecked me. Cassie is right there, breathing, ordinary, human, safe, and Vee is up above freezing herself bare because the man’s shirt has failed as sacrament. The physical staging is so simple and so good: top bunk, low ceiling, cracked window, phone facedown, shirt in a heap. No sexy spectacle, but it is intimate as hell. Honestly, “bare” is doing triple duty here: no clothes, no illusion, no language.
+And Vee. God, Vee was lovely here. This was one of those chapters where you see her growth without anyone announcing it. She notices. She understands enough. She does not pounce. She does not make Randi perform pain for Cassie’s politics or for Vee’s curiosity. She gives Randi somewhere to put her hands. That line, basically, is friendship. Real friendship. And it made me ache because Vee can be so perceptive and kind, and yet she still cannot see the enormous point sitting off by itself in her own life. She can read Randi’s face over a laptop, but not the whole Randi/Pace shape around her. That dramatic irony is getting delicious and unbearable.
 
-I am absolutely continuing, but I am tense now. The heat is still there, but this chapter is all afterburn and withdrawal. I don’t want endless ache without movement, but this feels like movement: Vee’s private religion has developed its first real doubt.
+Cassie being right also mattered to me. The book doesn’t make her wrong to protect Randi’s feelings. Her dad was laid off. She has the clean anger of someone who has already paid for somebody else’s polished story. And Randi’s little inherited-business certainty cracks in front of her. Nobody is cartooned here, which is why I’m still reading.
 
-GATE 44 — Bare
+No heat here, obviously, but there is charge. Not sexual charge exactly, more like emotional current under glass. I’m not mad at the pause because it told me something new and sharp about Randi, and because Vee’s response made me love her more. But I am also aware this is the second quieter chapter in the neighborhood after a very hot one, so my thumb wants the book to reward this with movement soon. Not necessarily sex. Movement. A confession, a slip, a dinner, a crack in the arrangement. Something.
+
+GATE 44 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 8
-ALMOST-STOPPED: none
-WHY: This was short, sharp, and it made the shirt mean something new without betraying what it meant before. I’m still hungry for the reveal and for the Randi pressure to return, but Vee lying awake bare in the cold has me completely by the throat.
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: "The professor was talking about the semester project."
+WHY: For half a second I thought, please do not give me school-project logistics after everything that just happened. But then the chapter used the project like a knife, and Vee’s quiet mercy toward Randi pulled me right back in. I want the next chapter because this feels like the book laying another charge under the floorboards.

@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch064 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~0b898fc22a01 · 2026-09-12*
+*capture-dag-v2-rich · gate ch064 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~f697ae9ef8f2 · 2026-09-11*
 
-REACTION —
+REACTION — Oh.
 
-Oh my god. This chapter knew exactly what it was doing to me and then made me wait for it like Vee on the bed rail.
+Well, there it is. The blade did not fall on Vee yet, but it flashed hard enough that I felt my whole stomach go cold.
 
-I am still sitting with the sheer audacity of it: he asks her to make herself bare, she goes through this humiliating-bright little ordeal, and then the payoff is not just “man likes smooth pussy.” Thank you. THANK you. It becomes ceremony. It becomes art class as foreplay, fruit still life as worship, restraint as torture, and somehow also goofy enough that she can laugh with orange paint on his face. That is the grown-up thing I keep wanting from erotic books: the scene is explicit and hot as hell, but it is doing emotional work the whole time. He is not just using her body. He is teaching her how to look at her own abundance without flinching.
+I knew Pace and Randi were involved in the original “plan,” obviously. The jacket told me that from page one. I knew there was a game. I knew they knew each other. I even knew, intellectually, that the book was going to make their private world real and hot, not just villainous scheming in a corner. But this chapter still knocked the air out of me because it wasn’t a reveal in dialogue or a wink across a table. It was them together, fully embodied, already fluent, already intimate enough to use Vee’s name as fuel. That is so much worse and so much more compelling than a simple conspiracy.
 
-And Vee. Vee! The pride in her when she sees the picture nearly got me more than the orgasms. “No shame came.” I felt that. After all the chapters of her body being too much, too obvious, too wet, too big, too betraying, here it is staged as the point. The cherry is not subtle, the cantaloupe breasts are ridiculous, and the fact that the painting is not technically good makes it better. It is not an aestheticized cool-girl nude. It is her body, excessive and alive and funny and needy and magnificent. I wanted to clap.
+And God, I hate that it worked on me. I mean that honestly. Part of me wanted to sit there with my arms crossed like, absolutely not, you two do not get to be hot while my girl is lying in a dorm room one breath from tasting herself because of what Randi said. But they were hot. The mouth thing, after Vee’s whole unfinished reach, landing here with Randi absolutely untroubled by it? Cruel. Effective. The book knew exactly what it was doing. Vee could not cross that last inch alone, and Randi is over here licking the sentence clean and making it look easy.
 
-The sex itself worked on me because it kept changing registers. Playful, then devotional, then cruelly controlled, then filthy, then intimate, then almost reverent again. The “gesso” thing should have been absurd, and it *was* absurd, and then suddenly it was devastating because he is literally painting her with herself and refusing to feed the taste back to her. That absence was so loud. Every fruit gets a kiss, a flavor, a little ritual at her mouth, and then when it is her own slick, nothing. I was practically yelling because I know exactly what unfinished door that is. The book is being mean in a very precise way.
+What really got me, though, was not the sex as sex. It was the way they talk about Vee inside it. Not like a prize. Not quite like prey, either, which is the maddening part. They both sound in love with her. Pace saying, “She makes me happy” was such a plain little arrow. Randi saying she wants Vee to know exactly what she does to her — that one hurt. Because yes, I want Vee to know. I want her to know that Randi wants her. I do not want her to find out that everyone closest to her has been standing in a room she didn’t know existed.
 
-And then he does go down on her, finally, and the patience is gone. I loved that. I loved that the formal, controlled man loses the plan. He wanted the picture, yes, but he wanted *her* more, and the mouth-after-paint erasure was almost unbearably hot. The sheets ruined, his face marked, her body still half art project and half aftermath. This is the kind of erotic mess I want: not coy, not sanitized, not pretending sex is all flattering angles and clean choreography.
+Randi saying, “She’s not the only one in love” is the sentence that changed the temperature for me. Because it names what has been moving under everything. Pace loves Vee. Vee loves Pace. Randi loves Vee. Pace and Randi have something too, whether love is the word or not, and their intimacy is not theoretical. It is not past tense. It is right now, while Vee is trusting both of them separately.
 
-But Randi at the end. Of course Randi at the end. The chapter leaves me with Vee holding the photo like a live wire and saying she won’t tell her, which means emotionally she already has. She is imagining Randi’s voice over the image. She is trying to summon the breath before Randi’s sentence. That is not friendship. That is desire looking for a place to happen. And because we know Randi and Pace are already together, that little “I won’t tell her” is not a closed door. It is a door with light under it.
+I’m angry. I’m also ravenous. That is the honest and embarrassing truth. This is the exact kind of emotional danger I want from erotica: not fake drama, not one missed text, but desire that implicates everyone. The heat is not detachable from the betrayal. That makes it harder to read and harder to put down.
 
-I am also noticing Pace did not ask for the picture. That mattered. He made the image, gave it back, and left ownership with her. Which is beautiful, and also maddening, because this man can be so ethically exact inside one room and still be standing in the giant lie outside it. That is the needle in my throat now. I love him here. I am furious with him elsewhere. The book is not letting me resolve him, and unfortunately I am eating it up.
-
-GATE 64 — Still Life
+GATE 60 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 9
-ALMOST-STOPPED: none
-WHY: This was everything I keep hoping the book will be: explicit, strange, funny, psychologically loaded, and genuinely hot. I need the next chapter immediately because Randi is now pressing against the edge of even Vee’s most private erotic life, and the locked room is starting to feel less like a secret and more like a countdown.
+CAPTURE: 9
+NEXT: 10
+ALMOST-STOPPED: “Randi came against his mouth with one heel digging into his back and her fingers closed hard at the roots of his hair.”
+WHY: I almost stopped at the first line because I felt ambushed in the way Vee is going to feel ambushed, and I needed a second to decide whether I was mad at the book or thrilled by it. I’m continuing because this chapter finally opened the locked room, and now I need Vee to reach the door.

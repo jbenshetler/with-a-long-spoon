@@ -1,21 +1,26 @@
-*capture-dag-v2-rich · gate ch042 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~d75264abed57 · 2026-09-11*
+*capture-dag-v2-rich · gate ch042 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 97724b44da95 · 2026-10-01*
 
-REACTION
+REACTION — Oh, Vee. She is so happy, and I am so scared for her.
 
-Oh, that hurt. That hurt so much more than an outright rejection would have, because he was warm. He held her closer. He kissed her hair. He gave her just enough love-shaped tenderness that she could tell herself she had been received, while answering the safest, narrowest version of what she said.
+“Finally hungry out loud” went straight through me. That is exactly what I want someone to tell her: the wanting is not evidence that something is wrong with her. She isn’t greedy or dirty or too much. And Randi gives it to her so beautifully—warm, funny, immediate, without making her confess herself into some ugly category first. “You’re *my* sex pervert” is possessive in precisely the way that works on me because Vee is delighted by it. I wanted to curl up in that booth with them.
 
-“I love how good we are together” is not “I love you.” It is not even “I love who you are.” It is about the thing they make together—especially, painfully, what her body does—when she had just told him he changed her understanding of nourishment, pleasure, life. She made herself as vulnerable as she could without using the forbidden words, and he answered with compatibility. I felt that little *wait* behind her breastbone immediately. Her body knew before she let herself know.
+And then Vee describes Pace as wanting *her, with the body attached*, and Randi nearly loses her composure. That got me. For once Randi was not directing the scene or supplying Vee’s meaning. Something Vee said simply reached her and hurt or moved her enough that she couldn’t hide it. Whatever else Randi has done, her feeling is real. She wants this particular woman, not just the game they designed around her.
 
-And I am angry with him now. Not because he is obliged to say he loves her before he is ready, but because his silence is no longer neutral restraint. He knew that sentence was enormous. The stopped hand, the two breaths—he knew. Maybe he could not say the words, but he could have asked what she meant. He could have risked one honest question. Instead he wrapped the unanswered thing in warmth and let her carry it away alone.
+But that makes the concealment feel even worse. Vee is sitting there believing she has finally found the one friend to whom she can give the untidied truth, while Randi already knows the man, the house, the playlists, probably some of these intimate details from the other side. Vee thinks Randi’s perfect understanding proves how extraordinarily safe their friendship is. I know it is partly because Randi has information Vee never consented to her having. The sweetness is almost unbearable because it is built across that fault line.
 
-The laundry room broke my heart. “She had said her best sentence.” God. She really had. She built him a bridge around her fear, walked almost all the way across it, and he stood at the other end talking about how well the bridge works. Then she folds the hurt up with everything else because asking would require her to violate a rule he never made and she somehow cannot escape. That is the part that scares me: she cannot ask the one person who could resolve it. This beautiful, consent-conscious man has made so much room for her bodily no, but emotionally she is becoming smaller around his silence.
+The photograph made my stomach drop. Pace promised never to share her photograph, and he hasn’t—but Vee has now handed the full image made by his eyes and his hands to the lover he is hiding from her. Randi’s “you only gave him *half*?” absolutely pressed the sore place she knew would make Vee prove her daring. Yes, she first returned the phone and said Vee did not have to show her, which matters. But then she found exactly the lever: suggest Vee had flinched, and Vee will cross the threshold herself. That is still manipulation, however willingly and proudly Vee crossed it. “I gave him *all* of it” should have been triumphant. Knowing who held the phone made it feel like an intrusion into something Vee believed belonged only to herself and Pace.
 
-And there is already a pile. That may be the most ominous thing in the chapter. Not one misunderstanding—“small repair work,” plural, preserving what she needs to believe about him. I still believe he loves her. I also believe he understood more than she wants to admit, and whatever keeps him silent is now actively hurting her. If the hidden plan is part of why he cannot speak, then the deception has finally entered the tenderness itself and spoiled it.
+And yet—the kiss. Vee noticed herself following Randi’s mouth, chose the extra second, and did not explain it away. I have been waiting for Vee to make a conscious move toward Randi, and there it is. Small, but hers. It thrilled me. It also does not absolve Randi of a single thing. Vee can genuinely want her and still be betrayed by the conditions under which that wanting has been cultivated.
 
-I would text a friend at one in the morning: *She told him she’d eaten crackers her whole life and he was her first meal, and this man said he loves how good they are together. I am outside his house with a megaphone.*
+The class together feels like another lovely little thread tightening around Vee. “Just us” should make me swoon, and part of me did. Another part heard Cassie being quietly moved outside the circle and watched Randi gain two more private hours every week. Vee’s world is becoming Pace’s house and Randi’s booth, all saturated color, while the rest of her life goes gray. That line frightened me more than almost anything else here.
 
-GATE 42 — Seconds
+I would text a friend: *She followed the woman’s mouth back for another kiss all by herself and I am screaming—but the woman is secretly sleeping with her boyfriend and just got Vee to show her the nude he took, so I also want to throw the whole brunch table through a window.*
+
+GATE 42 — All the Time
 DECISION: CONTINUE
-CAPTURE: 10
-ALMOST-STOPPED: “I love how good we are together.”
-WHY: I hated his answer, but I am completely caught by Vee’s body recognizing the evasion before her mind will permit it. The pile of things she keeps repairing has become impossible to ignore, and I need to know whether Pace finally risks the truth before she disappears inside all that accommodation.
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: “I gave him *all* of it.”
+WHY: Vee consciously taking the second kiss is the turn I have been desperate for, and Randi’s loss of composure convinced me her love or longing is real. But the full photograph and the “just us” class plan made the hidden arrangement feel actively predatory again; I need the truth to break soon, because Vee’s trust is becoming too complete for this concealment to remain survivable.

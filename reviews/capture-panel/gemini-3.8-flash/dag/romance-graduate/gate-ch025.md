@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · romance-graduate · prompt-sha 64e37969bd33 · prose-sha b727880313ed · 2026-09-27*
+*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 0a2a45bceefc · 2026-10-01*
 
 REACTION
 
-Oh, the sheer dramatic irony of this entire setup is making my stomach do flips. Sitting Vee right between them in a stats lecture—Cassie in her beat-up two-winter fleece on the left, loving Vee purely and unselfishly, and Randi on the right, preening and predatory, casually dropping "you lucky slut" into the aisle while scheming their Saturday shoe date.
+Oh, this was *sickening*. Genuinely, beautifully sickening.
 
-And that stats lecture! *Simpson’s Paradox.* A lesser writer would have hit you over the head with a sledgehammer, but here it’s just the professor droning about baseball while the thematic architecture of the entire book quietly snaps into focus: look at the pieces individually and they tell one story; put the data sets together and the reality inverts completely. Vee thinks she’s living a charmed, empowering rom-com where she gets the devoted, patient craftsman boyfriend *and* the glamorous sorority mentor. But when you aggregate the whole picture—Randi fuming in chapter 23 because Pace is taking too long to break Vee down, Randi riding Pace hard with her eyes shut while demanding a timetable—the picture flips. And poor Vee is just sitting in the middle, radiating the deep muscular ache of being thoroughly fucked, thinking she’s getting away with something.
+The Simpson’s Paradox framing at the start? "Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them." What an absolute masterclass in dramatic irony. Rivers is practically holding up a neon sign pointing at Vee: you think you are looking at all the data points, but the aggregation is going to destroy you. And having Cassie and Randi sitting on either side of her, the two opposing forces in her life—Cassie quietly watching Vee’s face to make sure her spirit is intact, and Randi playing the long, sensual, predatory con.
 
-What hurts the most is Cassie. The detail of Cassie not looking at the board once, just watching Vee’s face because *the friend was the only part of any of it Cassie had ever been able to see.* Cassie doesn't give a damn about the silk or the drama; she just wants to know if Vee is okay. And Vee answers *yes*, with that unplanned second breath, because physically and emotionally she feels elevated, not realizing she's being seasoned like a roast.
+And then the shoe trip. God. The shift from the clearance racks—which felt so real, so messy, so funny, two girls giggling over clown shoes—to that suffocatingly expensive boutique made my stomach plummet. Watching Vee put the debit card away and pull out the emergency credit card... my chest tightened. That is a specific kind of financial violence that wealthy friends inflict on working-class girls without even realizing they’re doing it. Or does Randi realize? That’s the knife edge. Randi *knows* Vee doesn't have money, but she also needs Vee styled to absolute perfection for the slaughter. Randi buying multi-thousand-dollar loafers without looking at the screen while Vee commits credit card fraud against her own future just so she doesn’t "flinch" in front of her idol... it hurt. It was visceral.
 
-Now Randi is taking her shoe shopping on Saturday. Pace built the dress to be worn barefoot or on tiptoes; Randi is going to buy the heels to force the posture. They are literally dressing their doll together, passing her back and forth, and Vee thinks it's just girl time. My heart is in my throat.
+And Randi dropping to her knees! Taking Vee's foot in her hands, touching the frosted plum polish that Vee bought specifically for Pace, feeling the exact sexual ripple run through Vee's body, looking up and smiling. Randi knows. She knows the polish, she knows what Vee feels, and she is feeding on it. "We can share. God help us both, it's practically a marriage." I had to physically put a hand over my mouth.
 
-GATE 25 — All Told
+Vee clutching that shoe box against her chest like a shield, thinking she has never had a friend like this. The fall is going to be fatal. I am trembling waiting for this induction ceremony.
+
+***
+
+GATE 25 — Sorority
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 1
+CAPTURE: 9
+NEXT: 10
+HEAT: 2
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight now it's humming. Watching Vee sit between the friend who actually loves her and the predator who is grooming her, completely oblivious, while the Simpson's paradox lecture quietly spells out her doom, was masterclass pacing. I need to see what Randi does to her on this shoe date.
+WHY: The tension is suffocating in the best way; watching Randi psychologically and financially bend Vee into the exact shape she wants, all while masquerading as the ultimate female friendship, is peak slow-burn horror. I have to see Vee walk into that room in the dress and the shoes.

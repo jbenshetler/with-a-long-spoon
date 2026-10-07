@@ -1,17 +1,24 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~ca7450e92130 · 2026-09-11*
+*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-07*
 
-REACTION — Oh, Vee. This hurt in that horribly recognizable way where nobody has officially left you, so you don’t even feel entitled to grieve, but you’re already rehearsing being replaced. Pace’s precious room to choose has become an empty room he leaves her alone inside. Consent is not the problem here; his silence is. She finally asked plainly, walked away crying when he would not answer, and he has let the entire break pass without reaching for her. I love what he gives her when she is physically before him, but right now I am furious at how completely his tenderness depends on proximity. Warm the house, cook the meal, read every breath—but apparently do nothing when care requires words and the risk of being refused.
+REACTION
 
-The childhood bedroom absolutely got me. Not because home is cruel—it loves her, and that almost makes it worse. Everything there is devoted to a version of Vee she has outgrown, while the life that awakened her has no public name and may no longer exist. Her looking at the cropped and uncropped induction photograph felt like the whole emotional trap made visible: she chose the stride, she chose to send Pace all of herself, but she still has to cut herself in half to fit inside the safe world.
+Oh, that hurt. That hurt worse than if he had simply failed to understand her, because I think he understood perfectly.
 
-And then she destroys her own best memory by putting the imaginary blonde in her place. That was brutal. Pace made Vee feel that her body never arrived without the person attached, and now his silence has left her wondering whether almost any body could replace hers. I wanted to shake him. She should not have to assemble his fidelity from a bartender’s testimony and Randi’s carefully informed little assurances.
+“I love how good we are together” is such a devastatingly careful answer. He put *love* into the room while keeping it attached to their compatibility, their sex, what her body does—not to her. She offered him the closest thing to an I-love-you she could survive saying, and he answered beside it. Then he wrapped her in all the tenderness I usually melt for, and for once the tenderness made it worse. He knows how to make her feel received without actually giving her the thing she asked for.
 
-Randi being “the one sure thing” made my stomach drop. Vee offers her exactly the kind of open, undemanding care she needs herself—“I’m here if you want to talk. Or not.”—and Randi answers with a beautiful, technically truthful fairytale while hiding both John and the much larger betrayal. Worse, Vee is counting down to that anthropology class as her safe return to color. She thinks Randi’s face will light up and call her gorgeous without complication. It will light up; Randi will mean it; and the concealed meaning is going to break her heart.
+And Vee knows. Her body knows immediately. That little *wait* behind her breastbone—I felt sick for her. She keeps trying to use his warmth as evidence against her own perception, and then two days later the sentence comes back because her body will not let her falsify what happened. “The two things had not been the same shape.” Exactly. She said: you changed my life. He said: we work well together, and I like what your body does. That is not the same shape at all.
 
-What I’d text at one in the morning: He left her the room so thoroughly that she thinks he may have moved another woman into it, and she is falling asleep believing the person manipulating her is the only person she can count on. I am unwell.
+What really frightens me is the pile. The “small repair work” she has already been doing to keep what she believes about him functioning. That is the first time her private doubts have felt less like healthy uncertainty and more like the beginning of self-abandonment. She cannot ask him because she has decided the words must go through him first; he is good at not asking things; and both of them are building a silence that protects him and hurts her.
 
-GATE 47 — Old Acquaintances
+I am still gone over him, which makes me furious. The coffee waiting, the heater, the quilt, the hand on her shin, the kiss held against her hair—every physical answer says love. But he had the opening. She handed it to him whole. If he withheld the words because of Randi, because he knows the relationship Vee thinks she is declaring herself inside is not the relationship he has actually arranged, then this is the bill coming due. He cannot ethically accept her love before telling her the truth, but he also cannot keep taking the intimacy, the body, the drawer, the shirt, the whole surrendered heart while letting her believe his careful avoidance is merely reserve.
+
+And she has retired the sentence. That broke me. She tried once, beautifully, and now she thinks the failure belongs somewhere inside herself where failed things are stored. I wanted him to say it so badly. Now I need the truth more than I need the declaration, because another tender morning laid over this silence is going to start feeling like anesthesia.
+
+GATE 47 — Seconds
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
+NEXT: 10
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: I’m aching for Vee and furious with both people she loves, but I cannot leave while she is reaching for each of them through a darkness they created. Pace needs to speak, Randi needs to tell the truth, and I need to see whether either of them loves her enough to risk losing her.
+WHY: Vee finally reached for him with everything except the forbidden words, and Pace’s exquisitely careful non-answer changed the meaning of all his tenderness. I need to know whether he withheld himself because of fear, because of Randi, or because the love I have been reading in every domestic gesture is not the love Vee thinks it is.

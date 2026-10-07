@@ -143,3 +143,39 @@ a stroke begun twenty lines earlier that never arrived — and "cupped → held"
 Constraints observed: no steering (the protected `:69` is "let her set the pace
 of it"); "settled back down" was already spent at `:45` this pass; "filled"
 avoided as it collides with `famished:73`'s keeper.
+
+## Panel reads on the sixth draft (2026-09-27) — the truce retune
+
+Cold: six models. Capture: 21 lanes through ch27. Records under
+`reviews/cold-read/<model>/gone.md` and
+`reviews/capture-panel/<model>/dag/<persona>/gate-ch027.md`.
+
+### Left standing
+
+- **The shoe-store retelling read as a lie (opus-5, sol, cold).** Both now have
+  {{Sorority}} in their raw window and catch that Randi moved her own clowning
+  onto Vee. This is the dual-account design (soft-register divergence, never
+  adjudicated); sol's "it made me replay the prior chapter" is the intended
+  reread. Do not reconcile the two accounts on the page.
+- **"That was kind of hot" (gpt-5.5 · relationship-first flinched; opus-4-8
+  cold read it as the desire leak).** The leak-and-rewrap line the scene exists
+  for. Stands.
+- **The lamp speech "a shade saintly" (glm, singleton).** Its payoff is her
+  stillness on the chair; the reader said so in the same breath. Stands.
+
+### Open, not ruled
+
+- **The scaffold (opus-4-8 · relationship-first, CAPTURE 6 at Gone).** Named the
+  third run of cooks / eats or doesn't / down the hall / the chill / sleeps
+  across {{Swim Lanes}}, {{Portion}}, Gone, and "felt the pattern instead of the
+  people for a beat." Single reader; the three nights are built as a triangle
+  (left / stayed cold / stayed warm). If varied, vary Gone's last movement, not
+  {{Portion}}.
+
+## Line-editor pass (fable-5-1 whole-volume read, 2026-09-30)
+
+- **Fixed — the migrated-sentence gloss shortened.** "It was his sentence. She had kept
+  it exactly and handed it back to him in his own words, and he took that…" → "She had
+  handed him back exactly his own words, and he took that for what it was, that she had
+  come round to it." Line-editor flag (*explains*, 0 of 159 other readers quoted it);
+  author's wording.

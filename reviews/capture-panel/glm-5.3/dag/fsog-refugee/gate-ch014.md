@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch014 · glm-5.3 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0f3d67fba425 · 2026-09-27*
+*capture-dag-v2-rich · gate ch014 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ad586c6027a2 · 2026-10-01*
 
-REACTION — Well. That chapter did a number on me, and not entirely the number it thought it was doing.
+REACTION — Okay. I had to put the book down for a minute after this one, not because it was bad but because it went somewhere I wasn't braced for. We've been inside Vee's head for thirteen chapters, inside her hunger and her mother's voice and her slow blooming, and then the book just — flips. His house. Randi's car in the gravel. And suddenly we're on the other side of the wall, watching the con from the inside of it.
 
-On the surface it's the hottest the book has gotten, and I'm not going to pretend otherwise — the inch-and-a-stop, her earning that groan out of him, "I want us" torn out of her. My body was in it. But the heat kept curdling on me the whole way through, because look at *what the sex is*. She asks "How was it?" and doesn't leave room for the answer, and then "Tell me" — twice — and what she wants told is Vee. Vee's hair, Vee's chlorine, Vee's soft stomach. Randi is riding him and fucking the girl she picked on a lawn through him, and the book knows it, and I know it, and she can't. That thin not-her laugh that she kissed away before it finished — that got me in the chest harder than anything in the truck chapter. That's the sound of the real one trying to come out and being caught at the door.
+And it's *good* in bed. That's the thing that got me. It's real, it's hot, he wants her, she wants him — she takes him apart, the inch-by-inch taking him, "she had earned it and she knew it" — and the sex is the best-written in the book so far, and I was fully inside it. Right up until "Tell me."
 
-And then the thing that genuinely hurt: she leaves. She has never left after, not once since the first night, and she skips the lying-on-his-chest part, the part she keeps, and dresses with the blanket held closed and goes. Because today she held Vee's hand on a white table and spent something on her in public, and she can't be soft with anyone now, not even him. She's sealing herself back behind the face, exactly like she decided in his bathroom mirror, and I'm watching it happen in the small details — "I'm good," bright, from inside the camisole.
+And then I felt sick. In the good way, the way a book means to make you feel sick. Because what is that? She rides him and makes him give her Vee in pieces — her hair smells sweet, chlorine under it, her stomach is soft — and every detail is a coin she pays herself and it's *never enough* and she can't stop asking. And he knows, or half-knows — "He did not say how he knew. That she had given him herself, in the truck with the rain coming down, and he kept it." He kept the truck out of it. He kept the best of it for Vee and for himself, and he gave Randi the parts that would hold her without breaking her. God. That's care and it's management and it's lying, all three, in one act, and I still can't split them and I don't think the book wants me to.
 
-Two things I'm holding onto hard. One: "He did not say how he knew. That she had given him herself, in the truck with the rain coming down, and he kept it." He kept the truck for himself. He kept Vee's gift *out of the machine*. That's him holding a small ethics again, the same way he didn't hand over her embarrassing line — but he gave Randi the hair and the stomach and the chlorine, so it's not clean, it's just partial, and partial might be worse. He's feeding her secondhand wanting in spoonfuls he measures. Two: the empty chair. It's mentioned twice now — the chair by the door *with nothing on it*, and then she doesn't stay, and he "set that beside the empty chair." Something belongs on that chair. I don't know what yet. A coat she used to leave? The bench question — "do you think she'll like the bench?" — that's where my head went, and my stomach went with it.
+The bit that actually got under my skin: "I want us." Torn out of her. And then she leaves. First time ever, she doesn't stay, she won't eat, she's dressed and out the door with the blanket barely off her — and he stands there in the open door with "something in his chest, low and plain, that she had not wanted to stay." I've been aching for Randi since the bench and this chapter is the ache made flesh. She came to get fucked hard enough not to think, and it didn't work, and now she's going home to whatever's at the other end of that drive. The thumbnail. The bottle cap. I'm scared of what that girl does alone on a bad night.
 
-Also, petty note: "I want us." Us. She said *us*, mid-orgasm, and I don't think either of them clocked that she meant the three of them, or maybe she did and it's the closest to the truth she's been able to get out loud. And he ate alone, twice, still hungry after. This man is starving too. Everyone in this book is starving except Vee, who's finally being fed, and the food is all aimed.
+What I'm suspicious of: him, still. "It was the want, he thought; she had come for it and got it, more than she could lie still under. That was as far as he could take it." He reads everything — her body, Vee's blister, the sky — and he reads this wrong, or he reads it right and does nothing with it. A man that observant who lets himself not-know is making a choice. I'm keeping my eye on that.
 
-I'm rattled and I'm all in. This chapter scared me more than the hike warmed me, and I mean that as a compliment — the book is doing the exact thing the jacket promised, making me complicit and worried at the same time.
+Also — minor thing that delighted me — he got home soaked, showered, put on music, was *standing at the fridge* when she arrived. The domesticity of him. And he ate twice after she left. Alone at the table, eating, still hungry. The book keeps doing this thing where the food is the feeling.
 
-GATE 14 — Underneath
+I'm a little rattled that the Vee/Pace thread went cold this chapter — no, not cold, it ran *through* this one, in the telling of it — but I miss her voice. Two POVs now. I want to know whose book this is.
+
+GATE 14 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-ALMOST-STOPPED: "He did not say how he knew... and he kept it." — not a quit moment, but the moment I stopped trusting the warmth and started re-reading everything.
-WHY: The sex was the plan running in real time and it broke my heart for Randi while it was doing it — that's the book earning its "psychologically merciless in its tenderness" line. I need to know what goes on that chair, and whether "I want us" is a door this book actually walks through.
+CAPTURE: 9
+NEXT: 8
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: The hottest chapter so far and the most painful in the same body — the "tell me" turn took my breath, and Randi leaving for the first time broke my heart a little. It loses a point on NEXT only because I want Vee back, and I'd rather arrive at her hungry than have the book hand her over immediately.

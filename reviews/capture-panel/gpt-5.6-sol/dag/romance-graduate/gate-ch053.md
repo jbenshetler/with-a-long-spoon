@@ -1,18 +1,22 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~ec1574909bf3 · 2026-09-11*
+*capture-dag-v2-rich · gate ch053 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 29213b289a6d · 2026-10-07*
 
-REACTION — Oh, this is exactly the quiet chapter I needed after all that sex, and somehow it gave me the relationship payoff the doorstep did not.
+REACTION — Oh, Sheri. Thank God somebody finally said it to his face without being seduced by the evidence exhibit of weekends and meals and attention. “She didn’t ask you for reasons” is exactly it. And then she drives the knife all the way in: if he cannot say the thing she needs, not saying it matters more than having her. Yes. That is the arithmetic. He knows it too, because for once there is no adjacent question left for him to answer.
 
-“I want to meet your people” got me embarrassingly hard. Not because hosting a party is inherently romantic, but because Pace is finally asking to enter Vee’s life outside his house. And then he remembers Meg. He remembers which boot slipped. He knows Kayla from Vee’s repeated throwaway line. That is the grown-up intimacy I keep begging romances for: not a man announcing that he pays attention, but evidence that her apparently inconsequential chatter has been accumulating inside him all along.
+His “I can’t” got me. Not *I don’t know how*, not *words don’t matter*, not even *I don’t believe in that*. He can’t. There is a reason, and it is active enough that he will apparently lose Vee rather than cross it. I need the book to open that locked room now. “People who’ve never lost anything think grief is a choice” felt like a glimpse under the door—especially beside Sheri’s family estrangement and his own “I don’t go back”—but it is still only a glimpse.
 
-And Vee meets him there. She remembers Chili’s without turning it into another indictment, recognizes what that room did to him, and gives him the choice of place. That is such a beautiful little act of repair. He has kept her people; she has kept his limits. They are listening to each other now.
+I loved Sheri immediately and completely. She lets him be generous without needing anything from him, then refuses to let generosity become his defense. She can mourn Paige, call him shitty, steal his fries, mock the philosophy of his food, and make him genuinely laugh in the same conversation. That is grown-up intimacy. Also, her bluntness about Vee’s body delighted me because Pace getting embarrassed is apparently one of my favorite minor pleasures.
 
-But oh, the knife under all of it: “You could meet Randi. Properly.” Girl. He already knows her more properly than you do. Her happiness at finally putting her two favorite people together is almost unbearable because Pace lets her build the fiction right in front of him. Even “Bring Cassie, too” made me suspicious for half a second—does he want safety in numbers? Is he instinctively preventing the intimate table of three from becoming too revealing? Then he expands it further, and I believe the generosity is real, which somehow makes the lie worse rather than better.
+And I am not missing the uglier thing sitting right there: Sheri knows both women. Randi met her, dismissed her as competition, and did not even learn her name; Pace apparently never knew they had crossed paths. Vee still does not know Sheri knows anything. Every woman around Vee has more of the map than Vee does. When Sheri asks whether Vee found out about the brunette, Pace says, “No. Not like that,” and I wanted to reach through the page. Then tell her. The rupture is already here. What possible ethical excuse remains for protecting the secret?
 
-Still: Pace volunteering for Kayla, Meg, Danny, Theo, Cassie, all of them—and showing no territorial nonsense about Theo—is the first convincing movement toward giving Vee a place in his actual life. I’m warm all over and also staring directly at the approaching social grenade labeled Randi.
+His description of Vee worked on me despite my anger. The air crackles; she understands the idea beneath the food; he misses her. He is absolutely gone on her. That has never been the uncertainty. The maddening part is that he can say all of this to Sheri in a roadside diner and still would not spend the essential word on Vee while she stood crying in his doorway. Even the fork gets squared when Sheri asks what Vee has. That tiny repetition made his interior lock feel bodily real without acquitting him.
 
-GATE 53 — Back
+This was a quiet chapter, but it did exactly what I needed: it put Pace across from someone who loves him enough not to flatter him. Now I need to know whether he takes the verdict home or merely survives it.
+
+GATE 53 — The Usual
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was quiet but intensely intimate: Pace remembering the tiny architecture of Vee’s life pulled me harder than another generic declaration could have. Now I desperately want the gathering, because it could become either the public belonging Vee needs or the room where the central lie finally cannot breathe.
+WHY: Sheri finally named Pace’s choice in language he could not evade, and his bare “I can’t” made the mystery sharper rather than excusing him. I am already turning the page because I need to know what matters more to him than Vee—and whether being seen clearly will finally make him move.

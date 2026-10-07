@@ -1,19 +1,22 @@
-*capture-dag-v2-rich · gate ch014 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0f3d67fba425 · 2026-09-27*
+*capture-dag-v2-rich · gate ch014 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ad586c6027a2 · 2026-10-01*
 
 REACTION
 
-Holy shit. The whiplash of going straight from Vee sitting in Cassie’s room, wrapped in his giant flannel, floating on the pure romantic high of baring herself in that truck… right into Randi ripping his clothes off in his bedroom while Blondie plays in the background. My jaw was on the floor.
+Holy shit. The whiplash between Vee sitting in that dorm room in his flannel holding her breath, and Randi throwing him onto the bed to fuck the ghost of Vee right out of his mouth—this book is suffocatingly good.
 
-Randi is *unraveling*. She is so sick with hunger for this, using Pace’s body like a surrogate because she can’t let herself touch Vee directly yet, and it is electrifying and deeply sad. The way she had to ride him to extract the details—"Tell me"—and then the physical reaction she had when he gave them to her. *“Her stomach is soft.”* Pace gave her just enough to make her combust, but he held the real truth back, just like he did after the froyo date. He didn't tell her Vee stripped for him. He didn't tell her Vee sat there shivering in his shirt. He is hoarding Vee’s real intimacy for himself while feeding Randi the scraps she needs to get off.
+Look at what Randi is doing. She is *starving* for Vee, absolutely feral with this repressed, voyeuristic, queer desire, and the only straw she has to drink through is Pace’s cock. "Tell me." Twice! She needs the sensory details fed directly into her nervous system while she rides him, but the second it gets *too* real—the second he says "Her stomach is soft," which isn't just an observation, it’s an intimacy, a physical knowledge—Randi literally clamps down like a vise. The belly tight as a board? That’s not just arousal; that’s panic. That’s pure, visceral jealousy fighting with lust.
 
-And then that line torn out of Randi at his ear: *"I want us."*
-Not *I want you.* *Us.* She meant the three of them. She wants the fantasy, but the reality of it is clearly terrifying her, because the absolute second she came, the armor slammed right back down. Skipping the aftercare, freezing, refusing food, pulling the cardigan on, and putting on that bright, hollow, sorority-girl "I'm good!" voice to flee into the night. She couldn't even look at the table, couldn't sit in the chair.
+And Pace, for all his terrifying emotional calculation, is shockingly blind here. He thinks it’s just "the want—too big for her." He doesn't realize he's triangulated himself into a blender. Randi demanding "I want us" right before she comes—is that her trying to anchor herself to him so she doesn't slip into the abyss of wanting a woman? Or is "us" the three of them? It tore out of her like a confession.
 
-The contrast between the two women is so sharp it cuts: Vee is opening up like a flower, letting her shame turn into heat, while Randi is suffocating under the weight of her own repressions, running from the very fire she built. And Pace is just in the center, calculating, feeding, watching. God, this book is vicious.
+And then the immediate, freezing retreat. The armor going right back on. No cuddling, no dinner, camisole over the head, "No thanks," "I'm good." The polite sorority girl mask snapped instantly back in place because she let him see too much, let *herself* feel too much, and now she has to flee before she shatters. And Pace standing in the cold doorway realizing she used him as a conduit and threw him away for the night? Delicious. The predator suddenly feeling like a tool.
 
-GATE 14 — Underneath
+The heat here was blistering, but it’s the psychological sickness that makes it unputdownable. Everyone is using everyone to feel less empty, and the bill is going to come due so hard.
+
+GATE 14 — Swim Lanes
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
+HEAT: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological friction here is unreal. Randi using him to get close to Vee, Pace holding back the real intimacy of the truck to keep it for himself, and that desperate "I want us"—I need to see the collision when all three are in the same room.
+WHY: The psychological tension during the sex scene was electric; watching Randi use Pace's body to vicariously touch Vee while secretly panicking over his real intimacy with her is top-tier drama.

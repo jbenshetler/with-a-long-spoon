@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1054321fed62 · 2026-09-27*
+*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6a8d1d1bf63a · 2026-10-01*
 
-REACTION — Oh, Randi. The small bowl he slices her apples into nearly undid me before she even arrived. He knows her portion, her music, the way cold takes her afterward; he has poured every glass she has ever drunk in that house. This is not some clever arrangement between two detached people. They have a whole domestic language, and tonight she breaks it word by word because she is jealous and hurt and cannot bear to ask whether he is falling in love with Vee.
+REACTION
 
-And Pace’s “That was Vee’s” mattered enormously to me. He won’t ask Randi to hand over Vee’s intimate account, even though the secrecy surrounding all three of them is still unforgivable. He understands that one piece of Vee belongs to Vee. But then he says, “She chooses it. Every step of it. Or it isn’t anything,” and I wanted to grab him by the face and say: yes, exactly, so tell her what she is choosing. You cannot build this beautiful altar to her moment-by-moment consent while withholding the existence of the relationship she is actually entering. He believes his patience makes the larger deception less dangerous. It doesn’t.
+Oh, Randi. She is starving right in front of him, and he puts her portion in the little bowl.
 
-I’m also furious that Randi calls his slowness selfish when what she really means is that she is lonely. She wants Vee. She wants Pace with Vee. She wants herself included in whatever is growing between them, and she has arranged the entire seduction so that she never has to stand naked in that want and risk hearing no. Now Vee and Pace have something real that exists without her in the room, and she is starving at a table laid specifically for her.
+That hurt almost immediately. Not because Pace cooked for her—of course he cooked, of course he remembered the music and poured the wine and made bread—but because every loving thing in that room already belonged to a pattern she can feel herself being displaced from. Her bowl is the small one. Vee gets the weekends. Vee gets his patience stretched luxuriously across however long she needs. Randi gets fed the portion he has decided fits her, and then she cannot make herself swallow it. The salad was awful in exactly the right way: she will eat the light, controlled thing and leave the warm, rich thing untouched while accusing him of selfishness because she cannot say, *I am terrified you have all the time in the world for her and none left for me.*
 
-The sex upset me. Their “inch and the stop and the eyes” is plainly their established check-in, and she discarded it. She put him inside her before he had even said her name, kept her eyes shut, and used him to force something out of herself. He noticed every missing signal and could not name what was wrong. I don’t think he was portrayed as secretly wanting the boundary crossed; I think he went still, tried to read her, then finally participated because he mistook pain for sharpened desire. That is frightening precisely because he is usually so exact. Randi’s hurt does not give her the right to take the choice she is demanding he preserve for Vee.
+And then Pace says the sentence I most need him to believe: “She chooses it, Randi. Every step of it. Or it isn’t anything.” Yes. Yes, absolutely. That is why I love him. It is also infuriating, because Vee has not been allowed to choose the plan. He is fiercely protecting her freedom inside a destination he and Randi selected for her before she knew there was a road. He means what he says, and the contradiction is now so sharp I can barely stand it. Randi is wrong to demand that he hurry Vee toward “us,” but she is not wrong that his patience is easier for him than it is for her. He already has both women coming to his house. He gets to feel principled while Randi waits outside the tenderness he is building.
 
-And then the covered bowl. God. He goes looking backward for what he did wrong because she will not tell him what hurts. He saves her food anyway. That tenderness made the whole thing worse.
+The sex upset me. Not because Randi took charge—I would ordinarily be wildly into her putting him on the bed and taking what she wanted—but because she removed every familiar point of contact between them. No pause. No eyes. No “tell me.” Pace realizes it is not for him and “gives it to her anyway,” which is consent of a kind, but it does not feel intimate or even deliciously ruthless. It feels like she used both their bodies to say something she still refuses to put into words. I felt his bewilderment, but I was also angry at him for arranging all the evidence and naming it merely want with an edge. This man can detect the instant Vee closes her eyes in shame, yet Randi closes hers through the whole act, turns her back afterward, and he still cannot find jealousy, fear, or grief.
 
-I am absolutely reading on. I need Randi to speak instead of manipulate, and I need Pace to recognize that “every step” includes the truth under the step. Right now all three of them are hungry, but Vee is the only one who does not know they are eating at the same table.
+The bowl in the refrigerator nearly finished me. He is so tender and so completely missing her. He saves the food because that is how he knows to care, while the thing she needs saved is her place with him. And she is behaving terribly—pressuring him to move Vee faster, treating Vee’s readiness like an inconvenience, taking her jealousy out through sex instead of telling the truth—but I cannot stop aching for her. She wants “us,” but what she means tonight is *prove there will still be a me when you have her.*
+
+I would text a friend: Randi refused the stew, rage-rode him without once asking for details about Vee, and he refrigerated her untouched little bowl because he still thinks she is hungry for food. I am unwell.
 
 GATE 23 — Portion
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: “She put him inside her in one motion and drove.”
-WHY: That crossed the book’s most important line for me, and I need it treated as a real violation of their established consent language, not merely angry sex. I’m continuing because the jealousy, love, and domestic intimacy underneath this rupture are painfully real, and I have to know what happens when somebody finally tells the truth.
+ALMOST-STOPPED: “He knew that much and not the rest, and he gave it to her anyway.”
+WHY: The sex had almost no erotic pleasure for me because it was severance disguised as intensity, but the emotional pain was ferocious. I need someone—preferably Randi—to finally say what she is actually afraid of before Pace’s beautiful patience becomes another way of not seeing her.

@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch052 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~2a7718a6147b · 2026-09-11*
+*capture-dag-v2-rich · gate ch052 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · 2026-10-07*
 
-REACTION — Oh this chapter knew exactly what I wanted after the coat scene: not another rupture, not a coy reset, but the morning-after paradise with teeth in it.
+REACTION — Oh, this hurt in the exact spot chapter 51 opened up. The previous chapter gave me Randi inside the fairytale and finding it hollow; this one gives me Vee outside the fairytale, imagining it full, and the mismatch between them is so tender and awful I wanted to put my phone down and stare at the ceiling.
 
-I was embarrassingly happy for her at first. Naked in his house, coffee too sweet, bread timed for her waking, those sweats folded like permission and her choosing not to take it. That whole “pleasure princess” reversal got me completely. Because yes, this is the thing the book keeps doing that KU alpha books almost never manage: it lets the surrender fantasy turn inside out until care is the domination. He isn’t “keeping” her by withholding; he’s keeping her fed, warmed, touched, watched. The man burns toast because she has breasts. I’m only human.
+The bedroom got me immediately. Not because “going home feels weird” is new, but because the room loves the wrong version of her. That is such a mean little emotional truth. All those trophies and ribbons and old friends on the board, the childhood bed her legs outgrew, the lavender plug-ins, Wheel of Fortune downstairs: it is safe, loving, ordinary, and somehow suffocating. And Vee is not being cruel about her parents. She knows the food is love. She knows the questions are love. But none of it can hold what she has become. I felt that, hard.
 
-And I loved Vee getting playful. Not just desired, not just grateful, but wicked. Making him lose his sequence in the kitchen, pointing out the fake spot, walking down the hall like she invented being followed. That felt like growth in her body, not just in her head. She has gone from being shown what she is to staging herself, commanding the tempo, discovering how much power there is in being adored by someone disciplined enough to obey. Delicious. Absolutely delicious.
+And God, the photos. The whole induction photo versus the cropped one feels like the entire book in miniature: Vee herself doing the cutting because she knows where each version of her is allowed to exist. The leg is not just sexy; it is the part of her that felt most like herself, and she removed it for home. That made me ache more than if someone else had censored her.
 
-But then the chapter did the thing. The *mouth* thing. And I mean this in the best, most squirmy way: I recoiled right with her and then immediately got interested in my own recoil. Because the book didn’t play it as shock value. It made the taboo happen after this whole long breakfast of fruit, mushrooms, salt, cream, bread, appetite, tasting, being taught to taste. So when his mouth comes back to hers carrying her, it is not random filth; it is the next psychological door. Her body says yes before her installed voice says no, and that split is exactly where this book lives.
+The Randi overlap is deliciously painful because I know, freshly, exactly where Randi is and what she is not saying. Vee envies the poisoned glamour while Randi is lying next to the perfect acceptable man feeling nothing. Vee thinks Randi is living out loud, but Randi is also hiding, just in a prettier room. And Vee’s text being genuinely gentle, genuinely undemanding, while Randi gives back the fairytale because she cannot bear to say the truth — I’m invested. I’m anxious. I want them in a room together immediately and also dread it.
 
-Also Pace. God. The stillness, checking which no is which. Wiping his mouth once and not making her pay for being startled. Leaving her mouth alone until she chooses it back. That was hotter to me than any possessive growl would have been. He is so careful when he is good, and that care is devastating because it makes the dangerous parts feel invited rather than shoved.
+The Pace jealousy spiral was brutal because it is so young and so recognizable without making her stupid. Once she has no name, she has no standing; once she has no standing, every invisible hour becomes a place to put a woman. And the way she cannot even keep her own memory safe from the imagined blonde sitting in her sheet at his table? That was nasty in the best way. I could feel the panic of trying to self-soothe and having the soothing image turn against you.
 
-I am side-eyeing Vee’s tidy little explanation, though. “He must have forgotten to wipe” is such a sweet little blanket over a much bigger animal. She knows. Or her body knows. And now she’s taking this strange small question to Randi, which means Randi gets to translate the next door for her. I am both thrilled and worried, because Randi “always knows what to make of it” is not a comfort anymore. It’s a loaded weapon in a silk handbag.
+No heat here in the direct sense, but there is charge everywhere: the remembered fra diavolo, the induction picture, Randi’s “gorgeous,” Pace’s absent arms. The erotic life of the book is still present because Vee’s wanting is present. It hasn’t gone coy; it has gone lonely.
 
-GATE 52 — Missed a Spot
+I do want Pace’s next move, desperately, but this chapter convinced me the book is not stalling. It is tightening the knot. Vee has Randi as a date on the calendar and Pace as a blank, and that feels dangerous in a much more interesting way than a simple breakup. I am still mad at Pace. I still want him to show up with words. But I’m also starting to feel how much the next collision may happen through Randi before it happens through him.
+
+GATE 52 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-ALMOST-STOPPED: none
-WHY: This chapter was indulgent in exactly the way I wanted after the reunion: food, warmth, naked play, and Pace’s service turning into erotic structure. Then it slipped in a new psychological hinge with the kiss-after moment, and now I badly want the Randi dinner because I do not trust her with this information and I absolutely need to see what she does with it.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "The days behind her ran together beige."
+WHY: This was quiet, but not empty; it made Vee’s loneliness and divided self feel sharp enough to cut. I’m very ready for the term to start, because Randi is now the “sure thing” and Pace is the absence, and that is exactly the kind of emotional trouble I want.

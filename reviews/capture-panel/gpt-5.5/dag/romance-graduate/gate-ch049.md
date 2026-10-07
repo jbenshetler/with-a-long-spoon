@@ -1,19 +1,26 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.5 · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~c1f15218cc12 · 2026-09-11*
+*capture-dag-v2-rich · gate ch049 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · 2026-10-07*
 
-REACTION — Oh. Well, there it is. Pace finally alone with himself, and it is both satisfying and awful, because yes, I wanted inside him, and yes, I wanted proof that he knew exactly what he did wrong. And the book gives it to me without letting him off. He knew. He knew on the porch. He felt the real answer rise and chose the smaller truth. That is the sentence I have been waiting to hear and also the one that makes me want to throw something soft at him very hard.
+REACTION —
 
-The bleach got me first. Not even the whiskey, the bleach. This man who manages rooms, food, heat, bodies, edges, consent, sequence, sensation, has been sick and then cleaned it up like discipline can mop grief off a floor. And then he sous-vide reheats chicken and broccoli like a sad astronaut because his body requires inputs. Prison food, exactly. Without Vee, his whole beautiful food language collapses into nutrition. That hurt more than if he’d just stared at a wall.
+Oh, this hurt in exactly the way the last few chapters have been teaching me to dread.
 
-And Daphne. Finally Daphne. Not all of it, but enough to make the locked room crack open. I believe this wound. I believe a young brilliant boy who knew math and not life, being shown the world by an older woman, making her his whole map, and then losing not only the lover but the person he would have told about losing her. That line was brutal. “There had been no one to tell that Daphne was gone. Daphne was the person he would have told.” I had to sit with that one. That is grown-up romance pain. Not “my ex cheated so now I’m mean in a tailored suit,” but a psychological mechanism I can actually feel forming: say the words once, lose everything; never say them again, survive.
+Not dramatic hurt. Worse. The quiet kind where nothing “happens” except the thing finally stops working. The shirt has been such a precious object — almost embarrassingly intimate, a little ritual of need and reassurance, him wearing it all weekend so she can carry him back with her. And now the book turns it in her hands and says: yes, but it is still only cloth. It smells like him, but it cannot answer her.
 
-But, Pace, my love, my infuriating careful man: trauma is an explanation, not a hall pass. And the chapter knows it. He hurt Vee because he was afraid she could hurt him. He believed not saying it would make it hurt less. Then he gets the truck fake-out and absolutely breaks, and I am sorry, I ate that with a spoon. I wanted him miserable enough to understand the cost. Not punished, exactly, but brought down into the truth of it. And he is.
+That got me. Because this is the first time one of Pace’s concrete tendernesses fails her. Usually his care has been so specific it feels like language: the drawer, the scrunchies, food, heat, stopping, listening. He does love through acts so well that I’ve been letting myself half-forgive the missing words. Vee has too. But here the act can’t bear the weight anymore. The shirt can hold evidence, not certainty. It can hold him as a body, not him as a claim.
 
-The thing that keeps this from being just satisfying male suffering is that his longing is so specific. He misses her arriving. He misses the first bite reaching her. He misses her unguarded body in the hallway, her asleep with the questions gone from her face. He doesn’t miss “having a girlfriend.” He misses Vee, in the exact places where she changed the air in his house. So yes, I still believe him. I am still furious. I am also leaning forward hard enough to dent the table, because now he knows the words matter, and I need to see whether he can spend them before Randi gets back into Vee’s bloodstream and the whole triangle catches fire.
+And God, Vee taking off her own shirt first so his can be against her bare skin. That is erotic and devastating and lonely all at once. It’s not sexy exactly, but it has charge because she is still trying to solve an emotional problem with physical closeness. That’s been the whole spell of this book, and now the spell is fraying. The same appetite that woke her up is leaving her awake at night.
 
-Also: “Whiskey River was a liar” made me laugh in the bleakest way. Sir, Willie Nelson cannot save you from emotional accountability.
+The line that really got me was the heat being her own, given back. Brutal. Because yes. She’s been treating his smell, his shirt, his bed, his house, his food as proof of him, but what if part of the warmth she’s been living on is her own wanting reflected back at her? That fear has been circling since the pool. Here it lands naked in the room.
 
-GATE 49 — Not Enough
+I also loved, in a miserable way, that Cassie is asleep underneath her. Cassie is right there, the one sane person, and Vee is still alone because this particular loneliness is too private to climb down the bunk with. She can’t text Pace. She can’t ask Cassie. She can’t say love. She can’t even wear the shirt by the end. So she just lies there bare in the cold, which feels like the first honest thing she’s done about this feeling: no substitute, no prop, no warmth borrowed from ritual. Just the ache itself.
+
+I’m still absolutely continuing, but I am no longer floating on the tenderness. I am tense now. The book has moved from “when will the secret blow up?” to “what is Pace actually capable of giving her even before the secret?” And that is much scarier, because the answer might not be villainy. It might be limitation.
+
+GATE 49 — Bare
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: This chapter gave me the thing I needed: Pace’s interior reckoning, not as excuse but as exposure. The heat isn’t on-page sex here, but the charge is absolutely alive because every remembered bite, shirt, bed, and arrival is eroticized by absence. I am fully back in.
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "He wasn't in it."
+WHY: This was short, cold, and mean in the precise way it needed to be: the beloved shirt becoming only a shirt. I’m very pulled, not because it gave me pleasure, but because it stripped away one of the book’s sweetest comforts and left Vee with the question Pace still has not answered.

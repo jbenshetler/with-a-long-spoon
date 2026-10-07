@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch049 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha c1f15218cc12 · 2026-09-19*
+*capture-dag-v2-rich · gate ch049 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · 2026-10-07*
 
 REACTION
 
-Oh, Pace. You stubborn, arrogant, beautiful, infuriating idiot.
+*“And it was warm because she was warm. That was the thing she couldn't stop feeling once she'd felt it — the heat in the shirt was her own, given back. He wasn't in it.”*
 
-I needed this chapter so badly. After watching Vee wither away in her childhood bedroom convinced he was auditioning tanned blondes over the stove, getting inside his head—and seeing him sitting in a beat-up diner eating a burger across from a brassy, five-foot country girl who calls him on his absolute bullshit—was pure catharsis.
+God, that just hollowed me out completely.
 
-Sheri is fantastic. She is the exact antidote to his hyper-controlled, monastic, "philosophical" self-importance. When he started waxing poetic about how Vee understands *the philosophy of his food*, and Sheri just stared at him and said, *"Lord almighty. Get over yourself"*—I barked out a laugh. Thank God somebody said it! Because for all his culinary genius and his incredible hands, Pace hides behind his craftsmanship like a shield. He builds these elaborate, perfect environments, pours the wine, cooks the romas down for thirty minutes, gives her the top drawer, and then acts baffled when she asks for the one thing that doesn't come out of a skillet or a sewing kit.
+This chapter is tiny—barely two pages—but it hits like an iron weight dropped directly onto the chest. It’s the exact, devastating hangover from the Chili's disaster and that hollow, frantic sex afterward. She spent all of chapter 45 practically weeping with relief because he put the flannel on to scent it for her, treating it like some holy relic that would keep her safe through the cold nights away from 614. And now, lying in a narrow dorm bunk with Cassie breathing two feet below her, the magic spell is completely broken. The flannel isn't a hug; it's just cotton. The heat isn't his devotion; it's just her own body temperature trapped against herself.
 
-And Sheri nailed him to the wall with terrifying accuracy: *"Then not saying it matters more to you than having her. And I'll tell you—from this seat, that feels pretty shitty."*
+And then she takes it off. Strips it right over her head and chooses to freeze. *“His shirt she left where it fell, beside her, not folded, not set back on the pillow, down in a heap where a dropped thing lands.”* That is monumental for Vee. She reinterprets and excuses *everything* Pace does—she treats his home like a temple and his habits like scriptures. To watch her rip his smell off her skin and throw it in a crumpled pile in the freezing dark because she finally realizes that *doing* things isn't the same as *naming* them? That his unshakeable peace, his ability to just fall asleep without a single doubt in his head, is actually an indictment? It’s agonizing.
 
-Boom. Right between the eyes. He had no defense for it, because there isn't one. He can recite every brick he's laid down—*I was there, I gave her the weeknights, I told her she was the most important person in my life*—and he still won't give up the word. Why? Because the word means surrender. The word means he isn't the benevolent architect in total command of the structure anymore; it means he's at her mercy. And for a man whose past is clearly a graveyard of things he couldn't control ("I don't go back"), saying *I love you* feels like jumping off a cliff without a parachute.
+She has the phone in her hand. She looks at the blinking cursor. And she has the grown-up, brutal realization that you cannot text a man into loving you, and you can't ask a question when you know the answer will just be a warm, evasive pat on the head. Pace gave Randi four orgasms and whispered filthy, possessive things about Vee while sliding into Randi on that couch, but to Vee, he offers exquisite lemon chicken and deafening silence where his heart should be. She feels the cage now. She doesn't know Randi has the key yet, but she knows the bars are there. My thumb is twitching to turn the page.
 
-Also, the little detail about Randi at the dance hall! *"Looked at me like I was one more of your harem applicants."* Randi's venomous territoriality never rests, does it?
-
-The parallel between the Chili's disaster and this diner was brilliant, too. At Chili's, he was overwhelmed by the sensory violence of the sports bar and couldn't hear Vee; here, in a diner with a dark jukebox and an amber-topped table, he thinks, *Here I could have heard her whisper. I wondered whether she'd let me.* He misses her so fiercely it’s practically humming off the page, but he's paralyzed by his own rigid code.
-
-They are both starving in separate rooms over a three-word bridge neither of them will cross first. The break is almost over. When they collide back on campus, the tension is going to be unbearable.
-
-GATE 49 — The Usual
+GATE 49 — Bare
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: Sheri dragging Pace for his emotional cowardice and telling him to get over the "philosophy" of his food was perfection. Seeing how deeply he misses Vee while knowing his own stubborn silence is wrecking them has me on absolute pins and needles for the semester to start.
+WHY: It’s a short, quiet chapter, but the psychological break is massive. Watching her realize the heat in his shirt is just her own body warming empty cotton—and then stripping it off to freeze rather than pretend—is devastatingly good. I need to see what she does in the morning.

@@ -1,25 +1,28 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~0511a4346bd0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch050 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-07*
 
 REACTION —
 
-Oh, this one got me in a very specific soft, dangerous place.
+Oh, finally. Finally she makes him come to the door of it with her.
 
-Because I came into it raw from Vee’s cold little childhood room and Pace sobbing over chicken like a man who finally understood the price of his own silence, and then the book gives me Vee walking straight to Randi. Not Pace. Randi. Her sure place. Her door that opens. And I felt that relief before I had time to be suspicious of it.
+This one hurt in that exact way where I was proud of her and also wanted to put my hand over my own chest. Because she does it. She actually does it. She doesn’t hint, doesn’t wrap it in a pretty metaphor, doesn’t let sex or food or warmth carry her past the question. She stands on the mat with no bag. That killed me a little. No bag means she came prepared not to stay. She came to ask, not to be folded back into the evening.
 
-Randi is so good here it almost makes me angry. She does exactly what Vee needs: gets her out of the public hall, holds her, lets her cry, makes the bed clear like none of the glittering Gstaad trophies matter next to Vee wrecked in her coat. And then she is brilliant with her. She doesn’t just soothe her with nonsense. She separates fear from fact. She makes Vee look at what Pace actually did: the heat, the wine, the meal, the “most important person in my life.” She knows how Pace works, maybe too well, but God, she uses it tenderly here.
+And God, the house almost wins before he even speaks. The heat, the wine poured, the chicken, the piano, the porch plan. All the evidence of care is there, practically glowing. That’s what makes this so awful: he is not neglecting her. He is not cold. He is doing so much. But she is right. The care all lives inside the house. It doesn’t give her a sentence she can carry outside.
 
-And then, of course, the coat.
+“What am I to you?” is such a simple question, and watching him miss it, or refuse it, made my stomach drop. “You’re the most important person in my life” should have been enough, maybe, in some other chapter, from some other man. But here it dodges the shape of what she asked. He keeps giving her truth that isn’t the truth she needs. And “Do any of your friends have a relationship you’d rather have than this one?” made me so frustrated because it is such a clever, true, useless answer. It makes her argue against her own happiness instead of letting her ask for recognition.
 
-That was so hot to me because it is exactly my weakness when done right: not humiliation as cruelty, but shame being turned carefully in Vee’s hands until it becomes courage. Randi doesn’t say “go beg.” She says: take this into your own hands. Don’t fight him in the language where both of you are bleeding. Show him. And Vee finishing the thought herself, “And nothing under it,” made my whole stomach drop. That is the kind of erotic surrender I actually believe because it comes from her wanting. It is outrageous, yes, but it is also active. She is choosing the door, the cold, the coat, the risk.
+Then “Words are cheap. Believe what I do.” No. No, sir. I understand the philosophy, and I even understand why *he* believes it. This whole book has taught me to believe his acts: the heat, the food, the drawer, the shirt, stopping when she says stop. I have believed him. But words are not cheap when the person you love is asking for them because she has no other way to stand in the world with what you are to her. Words are not decoration here. They are shelter.
 
-Still. Still. Randi is arranging her again. That’s the splinter. She is loving Vee and steering Vee at the same time, and the book knows both things are true. “You’ve got the goods” and “Pace is not going to open his own door… and say no” is a little too certain, a little too much Randi enjoying the image of Vee as an offering. I trusted the care in it, but I did not forget the original game. I can feel the old machinery under the warmth.
+And her line back is devastating: “Words are cheap, and you still won’t spend them on me.” That is the chapter. That is the cleanest possible cut through all his beautiful doing. If they’re cheap, why is he hoarding them?
 
-And Randi telling the “fairytale” back to Vee while cutting out the emptiness afterward hurt more because Vee hears romance where Randi lived disappointment. Vee envies the future John could name in an hour, while Randi is quietly choosing the unnameable thing with Vee instead. That is such a cruel little mirror: Vee wants Pace to say the word; Randi wants Vee not to need the word from her yet. Everyone is hiding behind the exact door they’re asking someone else to open.
+I still don’t think Pace is cruel. That’s part of why I’m not walking away. His face opens when he sees her. He reaches for her when she cries. He says her name. He cares. But oh, the old worry is roaring now: he can make a home for her body and still leave her heart standing outside without a coat. And for a reader like me, who came here specifically wanting intensity with care, this is exactly the pressure point. Care that can’t answer a direct question starts to feel unsafe even when the hands are gentle.
 
-I am absolutely continuing. I need the doorstep scene now with my whole body. But I am also braced, because if Pace receives the coat and still can’t say anything, I may have to get up and walk around the room like a lunatic.
+I’m scared for her, but I’m more awake than I’ve been in chapters. She left. She actually left. Not because he hurt her body, not because he violated a boundary, but because he would not meet her in language. That feels adult and brave and heartbreaking. And I desperately need to know what he does next, because if he lets her drive away and cooks his chicken alone under his principles, I may never forgive him.
 
-GATE 50 — My Friend Randi
+GATE 50 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: “You backed him into a corner in his own house. Name it or lose me — the one thing he can't do.”
-WHY: That line made me flinch because Randi is right enough to help and wrong enough to be dangerous. But Vee choosing the coat, choosing to go back with her shame turned into nerve, has me completely caught.
+NEXT: 10
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: "Words are cheap. Believe what I do."
+WHY: That line almost made me throw the book, because it is exactly the kind of man-logic that can dress withholding up as virtue. But Vee’s answer and her leaving made the chapter feel like a real turn, not just more ache. I need the next chapter immediately because Pace has either got to find words or lose the right to keep being believed.

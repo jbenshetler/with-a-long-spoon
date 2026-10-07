@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha e651e6e0a867 · 2026-09-27*
+*capture-dag-v2-rich · gate ch011 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1d8b07a3a421 · 2026-10-01*
 
-REACTION — Oh, this one got under my skin in that very familiar social-body way. Not the big erotic set-piece, not the hike yet, not Pace touching her, but Vee on the tall chair with her feet not reaching the floor and the whole smoothie place making her feel suddenly wrong. I hated how instantly I recognized that. The cardigan becoming “an apology.” The pink drink. The girls who all look like they were assembled from the same kit. That is so precise it made my stomach pinch.
+REACTION —
 
-And Randi. God. She is terrifyingly good at this because the warmth is not fake. That’s what makes me keep leaning in instead of just filing her under villain and relaxing. When she says “Vee’s my dear friend” and takes her hand in front of Brooke, I felt why Vee would melt. I would have melted at twenty-one. Honestly, a part of me melted now, even knowing the machinery underneath. It’s not just manipulation; it’s a real expenditure of social capital, or at least Vee believes it is, and the chapter lets me feel the gift and the trap at the same time.
+Oh, this one got me in that exact soft-danger place. Not a hot chapter in the obvious way, but very charged, because the whole thing is Vee being fed another kind of intimacy: being listened to, being displayed, being chosen in public, being named. And the book knows exactly how erotic “dear friend” can be when it lands on someone who has been living on crumbs.
 
-I am very, very aware of Cassie leaving at the beginning. That little folded-away look hurt. Vee has all these reasonable thoughts about “your own people,” and they are reasonable, which is the worst part, because she’s using healthy-sounding logic to step one inch farther from the person who would ask the plain questions. Randi gets the forty minutes, the drink, the report, the hand on the table. Cassie gets “mm-hm.”
+I am so aware of Cassie slipping away at the start. That little folded-away look hurt. Vee tells herself it’s fine to have your own people, and technically it is, but I can feel the book moving the furniture around her life. Cassie is not jealous in a petty way. Cassie is watching Vee get absorbed into a current. And Vee doesn’t watch her go because Randi has her by the wrist. That is the chapter in miniature, honestly.
 
-The Pace stuff still works on me shamelessly. Vee telling Randi “May I. Not can I. Who even says that” made me grin because yes, unfortunately, I too am susceptible to a man with manners and intent. But the real charge here was Vee telling Randi. She wants Randi to receive the story almost as much as she wants Pace to be the story. When Randi says “Ask and then ravish” at Vee’s volume, I sat up. That was the live wire. Not even the fantasy itself, but the way Randi joined her inside it for one beat too long.
+Randi is dangerous here because she is wonderful. I hate that and love it. She knows how to make confession feel like a treat. She lets Vee say “May I choose?” and doesn’t pounce too hard. She names the submission but lets Vee keep the veil over it, which is so much more seductive than spelling it out. And then when Vee says “He’d ask, though,” and Randi answers “Ask and then ravish” at Vee’s volume? God. That is not just friendship. That is Randi stepping into the fantasy beside her and pretending she’s only holding the flashlight.
 
-Brooke remains social knives in cashmere, yes. “We should all get dinner sometime” meaning absolutely nothing and also meaning “I saw everything” made me want to crawl out of my skin. And Vee making herself smaller not for herself but “to leave nothing of herself worth holding against Randi” — oh, honey. That is devotion forming in real time, and it scares me more than lust.
+The Smoothie Bird scene made my skin prickle. The room of matched girls, the high chairs, Vee’s feet not reaching the floor, the cardigan becoming an apology. I know that feeling so well I could taste the fake fruit and hairspray. And then Brooke arrives and suddenly the chapter becomes social horror with a smile on. Brooke doesn’t have to be cruel. The cruelty is the temperature of the room. She just has to ask who Vee is, warmly.
 
-This was a bridge chapter, but a good one. It moved the Randi/Vee bond from pretty-class-friend into something public and claimed, and I can feel how dangerous that is because Vee comes home not merely happy but placed. Picked. That word is doing enormous damage in her bloodstream.
+And then Randi says it. “Vee’s my dear friend.” Took her hand in public. In front of Brooke. In front of the kind of women whose opinion clearly matters in Randi’s ecosystem. I felt why Vee would almost melt from that. It is not nothing. It may also be calculated. It may be both, which is the whole poison cake this book keeps handing me. Randi spends something there, and Vee sees that it costs something, but Vee cannot yet ask whether Randi is spending it for Vee or spending Vee for herself.
+
+The “Love you, girl” at the end is almost worse because it is casual, sorority-bright, deniable. Vee receives it like sacrament. Randi can always say that’s just how girls talk. Vee is already carrying it home like proof she has a place.
+
+I’m still badly in. This chapter didn’t give me Pace on the hike, which I wanted like a dog at the window, but it sharpened the Randi thread beautifully. And it made me more nervous, because Vee’s hunger for being chosen is now visibly transferable. Pace opens one door, Randi opens another, and Vee is walking through both thinking the doors belong to different houses.
 
 GATE 11 — Dear
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 8
-ALMOST-STOPPED: none
-WHY: This was quiet, but it absolutely did its job: it made Randi’s hold on Vee feel bodily, social, and emotionally expensive. I still want the hike badly, but now I’m almost more anxious for the next Cassie/Randi collision, because Vee is starting to confuse being chosen with being safe.
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: "And Vee thought, easily, that it was fine to have your own people."
+WHY: That line made me wary because I could feel Vee explaining away the first real displacement of Cassie, but the chapter used that unease beautifully instead of drifting. The public hand-hold and “dear friend” were a real turn in the bond for me, even if I do not trust the bond as clean. I want the hike badly, but now I also want the next Randi/Vee collision with almost equal dread.

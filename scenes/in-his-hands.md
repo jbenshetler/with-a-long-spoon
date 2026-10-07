@@ -84,7 +84,7 @@ He served it out over the pasta with the lemon sliced to paper and a scatter of 
 
 She ate, and for a while there was nothing she wanted to do but that, the chicken gone tender in the sauce and the pasta holding the lemon under it, and he let her. When half the plate was gone she slowed and reached for the wine, the same bright wine he'd cooked into the pan, and it was good, and she was happy.
 
-"I'm flying home for Thanksgiving," she said. "I get to see my folks." She turned the glass by its stem. "Are you going home?"
+"I'm flying home for Thanksgiving," she said. "I get to see my folks. Are you going home?"
 
 "This is my home."
 

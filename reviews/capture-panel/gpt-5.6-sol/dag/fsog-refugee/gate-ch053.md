@@ -1,16 +1,24 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~ec1574909bf3 · 2026-09-11*
+*capture-dag-v2-rich · gate ch053 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 29213b289a6d · 2026-10-07*
 
-REACTION — Oh, this got me in exactly the soft place. He remembers Meg’s boots. He remembers which heel slipped. He knows Kayla from Vee’s own ridiculous phrase about her. That is the kind of wholly focused attention I came for—not grand declarations assembled for effect, but a man quietly keeping the small pieces of her life because she said them. And “Tables have ends. Somebody ends up at one” nearly undid me. He isn’t merely agreeing to endure her friends; he is already thinking about how to make room for every one of them.
+REACTION
 
-This is also the first time I’ve felt Vee care for Pace’s needs without translating them into rejection. The Chili’s memory surfaces, and she doesn’t make him explain himself again or decide he should tolerate misery as proof of love. She simply asks him to choose the place. Then “Let me handle it” feels like control made safe because she has knowingly handed him the part he can do well. Yes. That. Tenderness and dominance fitting together without either person disappearing.
+Oh, Pace. “She wants a declaration” is such a bloodless way to describe the woman you love standing in your doorway crying and asking what she is to you. And then he does it again with Sheri: answers the question beside the question, stacks up all the things he does for Vee as if enough true bricks will somehow build the missing sentence by themselves. I felt exactly what Sheri felt: don’t bullshit me. Vee did not ask whether he shows up on weekends. She asked what all that showing up means.
 
-But my stomach turned when she offered Randi “properly.” Oh, darling. Pace already knows Randi properly in whatever secret way matters most, and Vee is glowing over the idea of introducing her two favorite people. That happiness is sitting directly on top of the lie. Even Pace saying he wants to meet “your people” is technically false theater where Randi is concerned, and I cannot relax around that.
+And still, damn him, the moment he thought Vee might love this quiet little diner—or might never agree to see it at all—I hurt for him. He misses her in every empty space. He wants to know how she would see the amber tabletop and the old photographs; he imagines her whispering where he could finally hear her. Then he talks about the air crackling when she enters a room and about her understanding the idea beneath his food, and there he is, saying love everywhere except in the one form she has explicitly asked him to use. He doesn’t merely desire her. He is fascinated by the particular mind inside her body. That is precisely why his refusal is making me furious instead of letting me dismiss him.
 
-Still, I loved this quiet little room: Vee naked and talking, Pace listening with his back, her life opening outward instead of shrinking to the house. And including Cassie matters enormously. Bring her. Bring everyone. Put the hidden arrangement in a room full of people who belong to Vee and see whether Pace and Randi can keep pretending they are strangers while she proudly joins the worlds they have kept divided.
+Sheri is wonderful. She likes him without wanting anything from him, which means she can take his careful self-explanation, turn it over once, and hand him the ugly truth: “Then not saying it matters more to you than having her.” Yes. That is the whole wound. Whatever stands behind “I can’t”—Randi, his history, terror, some private rule—he is actively choosing it over Vee. I needed someone he respects to make him look directly at that choice.
 
-GATE 53 — Back
+But the brunette conversation chilled me. Sheri knows there is another woman; Pace knows Vee has not “found out”; and “Not like that” is another precision answer that conceals far more than it reveals. He is discussing Vee’s body and their rupture with someone who already knows pieces of the hidden arrangement, while Vee is alone believing she has no right even to ask where he is. I don’t think Sheri means harm, and her crude comments felt like the rough language of their friendship, but Pace allowing them while protecting the actual truth made Vee’s exclusion feel even larger.
+
+Also: he decided before walking in that he would not “bring her down.” Bring whom down—Sheri? And what had he carried from the truck that could keep? That opening put a little cold hand on the back of my neck. Pace has compartments inside compartments, and I am done accepting “long practice” as romantic mystery. I want the contents now.
+
+I would text a friend: *His lesbian country friend just diagnosed him over cheeseburgers in one sentence, and this impossible man can explain the philosophy of feeding Vee but still says he “can’t” tell her he loves her. I am going to shake him.*
+
+GATE 53 — The Usual
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The remembered boot detail and the plan shaped around everyone’s comfort gave me the particular, attentive love I need from Pace. But the prospect of Vee innocently introducing Pace and Randi “properly” has me desperate for the next chapter and sick with dread in equal measure.
+WHY: Sheri forced Pace to confront the exact truth he has been evading, and his description of Vee made his love unmistakable even as his refusal made me angrier. Now I need to know what “I can’t” is protecting—and whether losing her will finally matter more.

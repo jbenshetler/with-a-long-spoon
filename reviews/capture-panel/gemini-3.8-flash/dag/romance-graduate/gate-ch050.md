@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch050 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0511a4346bd0 · 2026-09-19*
+*capture-dag-v2-rich · gate ch050 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · 2026-10-07*
 
 REACTION
 
-God, that hurt. That actually hurt right in the chest.
+*“Words are cheap, and you still won’t spend them on me.”*
 
-Seeing Peter completely dismantled—waking up to the smell of bleach because he got so blind, violently drunk after Sheri called him out that he threw up in his own spotless hallway—it’s the exact gut-punch this book owed us. For fifty chapters he has been this towering, immaculate, hyper-controlled figure. He’s the man who measures out dough by the gram, sets down the perfect wine, drafts patterns on a sewing machine, and orchestrates Vee’s body like a concert pianist. And to see him sitting in a freezing kitchen with shaking hands, forcing down plain, boiled, vacuum-sealed chicken while weeping over the sound of a truck that didn’t turn into his gravel driveway? It stripped him utterly raw.
+God. Jesus Christ. Put that on a billboard, carve it into my skin, put it on the grave of every situationship that ever tried to gaslight a woman with bespoke cooking and good head. What an absolute knockout of a line. I gasped out loud in my empty bedroom.
 
-And the Daphne piece. *Finally*. The logic of a prodigy who thinks he can out-math grief: *If I say the words, it destroys me when she leaves; if I withhold the words, the loss stays survivable.* It is such a brilliant, profoundly stupid, devastatingly male calculation. He actually convinced himself that silence was armor, only to sit alone in an empty house realizing that holding back the words didn't protect him from a single drop of the agony. It just guaranteed he broke her heart along with his own.
+This whole confrontation was agonizing because they are *both* so completely who they are, and neither of them is lying, and that’s what makes it fatal. Pace honestly believes—in that brilliant, broken, hyper-contained math-brain of his—that the curated heat, the dialed-up thermostat, the seared chicken, and the hours of devotion on his sheets are the highest, purest truth he can offer a human being. *“Believe what I do.”* He really thinks action is the only currency that doesn’t lie. But Vee is twenty-one, and she lives in a world with daylight and parents and Cassie sitting by a cracked window, and a love that can only exist behind a deadbolt with the music drowning out the woods is just… a gilded quarantine.
 
-The callback to the porch scene ruined me. Knowing that in that exact moment when Vee offered him the "crackers and a meal" speech, he *knew*. He felt the real words rise in his throat, and he deliberately reached down, pulled up the smaller, safer answer (*"I love how good we are together"*), and handed it to her, watching it fail in her hands. He knew he was being a coward while she was being brave.
+And her point was so devastatingly sharp: *“All of that is in here. Inside this house, with the door shut. Out there, what are we?”* That is the exact horror of the cage she’s been living in. When she tried to describe it to Cassie or her dad, it flattened into something grubby—he feeds me and we screw. He gave her a whole awakening, he taught her tongue how to taste and her body how to come, and yet he leaves her so utterly unprotected in the daylight that she can’t even hold up a label to shield herself.
 
-What's wild to me is how the balance of power just tipped. Vee is back in her childhood bed in Ohio thinking she's a discarded toy, convincing herself he’s already moved on to some tanned blonde dancer, totally oblivious to the fact that the man she loves is sobbing over cold, unseasoned broccoli because a car on the highway wasn't her Corolla.
+And the terrible irony hanging over this whole scene—the thing that made my stomach physically twist—is that *Randi* is the reason he can’t spend the words. He can’t say “you’re my girlfriend” or “I love you” because the board was already set with two queens in September! He’s managing a split-roster experiment! Vee doesn’t even know that the silence she’s bleeding over is a structural load-bearing wall for a three-way dynamic she hasn’t been invited to yet.
 
-There's no sex in this chapter, and I didn't need a single drop of it. This was pure, concentrated emotional fallout. He knows he loves her. He knows his rule was a lie. Now what is he going to do when she comes back? Because if he doesn't throw himself at her feet the second that Corolla hits the gravel, I might scream.
+When he reached for her at the end—when his arms unfolded and he lifted that miraculous, devastating hand to soothe her, to physically overwrite her mind with her body the way he *always* does—and she rejected it and threw open the door into the freezing cold? I wanted to stand up and cheer through my tears. Good for you, Vee. Don’t let him soothe the question out of you with an orgasm and a glass of wine.
 
-GATE 50 — Not Enough
+She walked. She left the bag in the car, didn't cross the mat, and walked out into the dark. My pulse is pounding. Where does she go now? Straight into the arms of Randi, who is going to play the sympathetic best friend while tightening the trap? God, I need the next page right now.
+
+GATE 50 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Seeing Peter’s immaculate control completely shatter into violent hangovers, bleached floors, and weeping over a car that didn't pull into the driveway was breathtakingly good. The Daphne math finally laid bare, the realization that his silence saved him nothing—I have to see what happens when Vee gets back.
+WHY: The absolute psychological precision of this fight was perfection—no cheap melodrama, just two fundamentally incompatible needs colliding. Vee walking out on his physical comfort because she refuses to accept silence in place of a name is the bravest, best thing she's done.

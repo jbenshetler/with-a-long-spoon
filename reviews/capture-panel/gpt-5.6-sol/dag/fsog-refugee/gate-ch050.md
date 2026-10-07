@@ -1,21 +1,26 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~0511a4346bd0 · 2026-09-11*
+*capture-dag-v2-rich · gate ch050 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-07*
 
-REACTION — Oh, Randi. I was so ready to be moved by that first hug, because she really did put Vee before everything—the clothes swept onto the floor, the long holding, the fact that Vee could breathe her in and steady. Randi loves her. I believe that completely. And then she used that love, and everything she secretly knows, to walk Vee straight back into the arrangement without either of them having to tell her the truth.
+REACTION
 
-“You backed him into a corner in his own house” made me furious. Vee asked the man she loves what she is to him. She did not threaten him. She did not give him an ultimatum. She asked for the smallest piece of clarity, and he folded his arms and chose silence. Pace’s fear explains that choice; it does not turn Vee into the aggressor. Randi knows he loves Vee. She knows why he cannot say it. She knows Sheri is imaginary competition because Randi knows the real map of his life. So every reassurance lands with this awful double weight: it comforts Vee beautifully, and it is built from information Vee is deliberately denied.
+Oh, Vee. “Words are cheap, and you still won’t spend them on me” went straight through me. That is exactly it. He has built her an entire language out of heat and food and touch and drawers and open doors, and then left her alone to translate it. She came to him without her bag because some part of her already knew she might not be staying, and I felt that absence from the second she stopped on the mat. She did this bravely. No hint, no pretty sentence wrapped around the truth, no letting sex swallow the question. She stood there buttoned to the throat and asked him plainly.
 
-And “Words are the whole war”—no. Words are where the truth lives. Of course Randi’s solution is to send Vee back as a body, because Pace knows how to answer her body. Naked under a coat is hot as hell when it is a woman’s own bold idea. Here it feels like Randi has converted Vee’s legitimate demand into shame about having asked, then supplied a sexual apology that requires Pace to confess nothing. She even makes Vee complete the suggestion herself. That is Randi’s signature: leave a sentence open, let Vee put her own desire into the blank, then call the result entirely Vee’s choice.
+And he failed her.
 
-And yes, Vee does want it. That matters. The heat rising through her shame is real; her decision is real. But she is making it after Randi has falsely reframed the fight, assured her with concealed certainty that there is no other woman, and told her Pace cannot possibly refuse. That last claim bothered me too. Pace absolutely can refuse, and Vee needs to be able to survive that possibility. “There’s not a man alive who survives it” turns her body into a guaranteed instrument instead of a vulnerable offering.
+“The most important person in my life” should have been enormous. From almost anyone else, it would have been. But she asked what she is to him, and he answered with importance instead of commitment. Then he made her compare their relationship to other people’s, as though being treated better than Cassie’s friends settles whether she is allowed to know the terms of her own life. It felt like he was trying to prove she should be satisfied instead of answering why he refuses to name her. That hurt more because he wasn’t dismissive or cruel. He took her seriously. He understood that she needed words. Then he consciously withheld them.
 
-The shoes made my stomach drop. Randi always knows the shoes because Randi has been dressing Vee toward Pace from the beginning. Vee taking them without even looking felt like the entire hidden plan reduced to one small object in her hands.
+And I know now that this is not merely emotional reserve. He cannot give her an honest public name without opening the door to Randi. “Girlfriend” would imply a shape he knows is false or incomplete. “Partner” would demand truths he has deliberately kept outside the room. So he hides behind “believe what I do,” while what he does includes maintaining a second relationship and letting that woman quietly court Vee under the name of friendship. His actions are not the clean evidence he thinks they are. If Vee could believe the whole of what he does, she would have information he has made sure she does not possess.
 
-Then Vee asks for Randi’s real New Year, and Randi gives her another polished truth with the center removed. Vee hears romance exactly where Randi felt emptiness, hears the easy future she is aching for, and Randi lets her. “Everywhere but the bedroom” is almost cruel in its neatness when the truth is that the bedroom was technically good and emotionally vacant—that John failed because he could not find her. And Randi still cannot say that Vee can.
+The instant his arms folded frightened me. Not because I thought he would hurt her, but because that was the first time I felt him choose the wall over her while she stood directly in front of him asking to be let in. His restraint has always been the thing I trusted. Here it became refusal. He was “holding a line at cost,” and the cost was Vee crying in the doorway. Whatever promise, fear, history, or arrangement lives behind that line, he protected it before he protected her.
 
-I am continuing because I need the doorstep scene desperately, and because Pace has finally admitted to himself that he loves her. But if Vee opens that coat and sex simply sweeps her question under the rug, I may actually throw the book. I want the heat—I really, really do—but afterward he has to speak. Her body cannot keep paying the price for everyone else’s silence.
+And then, of course, the reaching hand nearly broke me. Because he does love her in every language he permits himself. He saw her tears and all the cold went out of him. He wanted to settle her, hold her, repair it with the hands that have always made her feel safe. But she finally understood that accepting comfort would let the comfort replace the answer again. “Not the hand in place of the word.” Yes. Exactly. I am so proud of her for leaving before his tenderness could make her abandon the question.
 
-GATE 50 — My Friend Randi
+This is the door closing at the end of the first Fifty Shades all over again, except sharper for me now because Vee isn’t leaving over what he did to her body. She is leaving because she finally insisted that his care for her body cannot substitute for honesty about her place in his life. I am furious with him, aching for both of them, and already reaching for the next chapter. He said her name as she left. Her name is not enough. Go after her with the truth, Pace—not another meal, not another warm room, not those beautiful hands. The truth.
+
+GATE 50 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: “You backed him into a corner in his own house. Name it or lose me — the one thing he can’t do.”
-WHY: That was Randi using secret knowledge to make Vee feel guilty for asking a completely fair question, and I hated it. But the love, manipulation, and desire are now twisted together so tightly—and Pace is finally ready to understand his own failure—that I have to see what happens when Vee reaches his door.
+CAPTURE: 10
+NEXT: 10
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Vee finally asked the clean, direct question, and Pace knowingly chose the wall instead of an answer. Her refusal to let his touch stand in for the word was devastating, necessary, and the strongest act of self-possession she has made yet.

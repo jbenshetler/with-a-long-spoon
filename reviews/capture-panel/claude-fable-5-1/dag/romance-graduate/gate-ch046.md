@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch046 · claude-fable-5-1 · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-07*
+
+REACTION
+
+Two pages. I actually flipped back to check the chapter heading because I thought I'd skipped something. A cafeteria, two trays, one question, out. I don't have a habit for this yet so I'm just going to say what it did, which is more than I expected from the size of it.
+
+First thing: the book skipped Thanksgiving. His Thanksgiving — Sheri and the pie she'll pretend she made, two people with nowhere else to be, "I don't go back." I was braced for that table and I got Vee's instead, secondhand, over institutional chicken. And I'm not even mad, because what the book gave me instead is Vee cropping. The title does the work and I didn't need it to — she cropped the photo for her mother, she cropped the man for her father (hiking, dancing on concrete, a doctorate, *not* the cooking, *not* the house, *not* the sun porch), she put a question mark on "boyfriend" out loud like a girl asking her parents to grade her, and then at the end she crops herself for Cassie, who's the one person at any table who's never asked her for a version. Three weeks ago she handed Randi the *uncropped* one because she wasn't going to be the girl who flinched. Her parents get the waist-up. Randi gets the toes. I know exactly which of those costs her more and so does she and that's the chapter.
+
+The dress. I'm sitting with that. I had "Victorian LARPing" and a sewing machine on a porch in my notes and somehow I'd let them be a hobby, a thing he does, and this chapter put it in her mouth plain: he made it. From a magazine she mentioned once. And her first instinct is that her father could stomach the *sex* easier than the *sewing* — and god, she's right, and the fact that she knows she's right about her own father is the most grown-up thing she's said in ten chapters. "Wrong is something he understands and rejects. Weird is something that doesn't fit." That's not about Dad. That's her describing the shape of the thing she's in and she doesn't know it. Nobody she tells can fit it. Dad can't fit a man who sews. Mom touches her own collarbone. And the thing I know from chapter 43 that Vee doesn't — the couch, the mirror, *God, I want her*, "somebody has to get her used to my mouth" — that's the part that wouldn't fit anywhere in *Vee's* world either, and she's standing in a cafeteria complaining that her father's frame is too small. Honey.
+
+Cassie. "I know how she does" — she's met the mother. She knows the collarbone thing. Of course she does, she's the roommate, but the book just let me know it in four words and I got a whole Ohio kitchen out of them. And then she asks it, the way she asks the only honest questions in this book, flat, no handle: "So what is he. Not to your dad. To you." And then the second one, which is the one that got me: "Is it that you can't say, or that you don't want to?" Because that's two different problems and Vee says *both* and I believe her. And then Cassie just — stops. Goes back to her plate. And Vee is grateful, and "also, a little, not." That last clause is the whole chapter and the book trusted me with it without underlining. She wanted to be pushed. Five nights ago she wanted him to fight for the nights and he opened the door instead; now she wants Cassie to dig and Cassie puts down the shovel. Everybody in this girl's life is so *careful* with her. The one who isn't careful is Randi, and Randi's the one with the plan.
+
+I keep wanting Vee to say *Peter* to someone awake. She had the whole table — Mom with the printout, Dad pricing the shoulders — and she gave them "math PhD candidate." Which is true. Which is the cropped version. I'm starting to think the book's whole engine is that she can give her body to anyone who asks and can't give the word to anyone, and I'm not sure she knows the difference yet, and I know the two people who do.
+
+What I'd text at 1 a.m.: *she cropped the picture for her mom and gave Randi the toes and I need you to understand that's the same girl.*
+
+Short, quiet, and I'm not resenting it because 45 was hot and this is the breath after. But I've now had the library, the pizza, the cafeteria — three Vee-side chapters with the other two off in their own rooms, and the thing I'm carrying from 43 is getting heavy. Randi's been off Vee's page since the sidewalk kiss she *took*. I want the booth. I want to see Randi's face when Vee says "my dad would take sex easier than sewing," because Randi would know exactly what to do with that line and I'd pay for her again to watch.
+
+GATE 46 — Cropped
+DECISION: CONTINUE
+CAPTURE: 6
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "In some ways weird is worse than wrong. Wrong is something he understands and rejects. Weird is something that doesn't fit anywhere in how he sees the world." — for one line I thought the book was about to explain its own thesis to me; then it let her say "I'm not ashamed of it" and stopped, and I stayed.
+WHY: Two pages that told me more about what she can't say than forty chapters of what she can, and "grateful — also, a little, not" is a door I want walked through. But I'm three Vee-side chapters deep now with the couch in my pocket, and the next one needs Randi at the table or I'll start skimming for her.

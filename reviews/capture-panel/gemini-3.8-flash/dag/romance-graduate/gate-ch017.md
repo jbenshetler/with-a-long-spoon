@@ -1,25 +1,20 @@
-*capture-dag-v2-rich · gate ch017 · gemini-3.8-flash · romance-graduate · prompt-sha 544966ee33d7 · 2026-09-10*
+*capture-dag-v2-rich · gate ch017 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-01*
 
 REACTION
 
-I am genuinely breathless. Holy *shit*. The sheer psychological violence of this chapter masquerading as a sunny girls' lunch—I am sweating. 
+Holy shit. Holy *shit*. My hands are actually shaking a little bit typing this out. I have read a thousand dirty books, I have read every variation of billionaire-in-a-penthouse ripping off lace panties you could name, and I don't think I have *ever* read a scene that made my stomach drop and my face burn the way this measuring tape scene just did. It is a full-blown masterclass in tension. The sheer psychological cruelty of how kind he is being to her—it’s breathtaking.
 
-First of all, Randi's opening story about being tied up with an Hermès scarf and tickled until she almost wet herself, only to "go off like a rocket"? What an unbelievable, terrifyingly brilliant piece of manipulation. She's doing two things at once: she's feeding Vee the exact ideological framework she and Pace use ("The letting go... somebody takes them, and you *can't* hold them... A little helpless can be a very good thing"), priming her for total submission, while simultaneously giving Vee this incredibly erotic, charged visual of Randi herself helpless and laughing and coming hard. And Vee *felt* it. The heat went straight to Vee's core and she had to scramble to put it away. The sapphic tension here is so thick you could choke on it. 
+That moment where she’s standing on the box, soaked through her panties, paralyzed by the generational, sickening mother-shame of being "too much" and leaking and wanting, and she screws her eyes shut waiting to be mocked or politely ignored? And she forces herself to open them, and he is just *looking up at her, smiling like he was given a present*? I felt that in my marrow. It’s the exact medicine Vee has been starving for her entire life, and it is being fed to her by a man who literally set the thermostat three hours early so her bare skin wouldn't get goosebumps.
 
-And then the interrogation. God, Randi is an apex predator. Watching her reel Vee in—"Nobody measures over a bra," normalizing the violation, turning Vee's deepest shame into something chic and expected—and then walking her step-by-step back onto that riser. *“I bet he started at your hip... Which hip?... All the best ones start at the left hip.”* Randi knows because *Pace does it to her.* She knows his exact playbook, she's picturing it, she's practically getting off on it right there over the poached salmon, and she pushes Vee right to the cliff's edge of confessing the soaked satin panties—and then she *pulls the cord*. 
+And the restraint! That’s the part that is completely ruining me. He doesn't pounce. He doesn't shove her down on the table. The "keep still" after he pricks her and kisses the bead of blood off her ribs? God. He chose the dress. He chose the ritual. He is torturing her with pure, bespoke, courtly attentiveness. He’s taking her deep-seated horror of her own appetite and turning it into an offering, making her hold still while he literally crafts armor out of silk for her.
 
-*"You don't have to tell me."* 
-That was a masterstroke of cruelty. To bait a girl into opening the most raw, tender, humiliating secret of her body, and then deliberately step back, drop the intimacy like a hot rock, and ask for the check? She left Vee completely exposed, dangling in the wind. And then to let Vee pay! Oh, my stomach dropped. That debit card hitting the folder, the Rombauer wine that cost more than Vee's entire meal, Vee's stubborn working-class pride refusing to be bought—and Randi just letting her bleed money because to Randi, Vee's financial panic is entirely invisible. 
+And the worst, most delicious part of the whole thing is that I know *why* he's doing it. I know about the bench under the tabletop in the other room. I know Randi is out there somewhere, unraveling because she couldn't take being seen, while Vee is up on this pedestal blooming under the exact same spotlight. Vee thinks she's discovered her own power—pressing her breast to his cheek, teasing him, making him flush—and she *has*, in a way, but she’s also stepping so deep into his architecture that she’s never going to find her way out. When this trap snaps shut, it's going to destroy her, and it's going to destroy me right along with her. Give me the next chapter immediately.
 
-And then the end. *The kiss.*
-Not the European cheek graze. The hand on the jaw. The press, the pull-back, and then the *second press with more behind it*. Randi couldn't help herself. After spending an hour hearing about Vee bare-breasted on a box, wet and flushed for Pace, Randi had to put her own mouth on the merchandise. And poor, sweet, hopelessly naive Vee immediately rationalizing it—*“It’s a French thing!”* Girl, wake up! But then that immediate spike of panic: *did anyone see?* The shame snapping right back in. 
-
-The prose is just singing right now. It's so taut, every tiny physical movement carries ten pounds of subtext, and the danger is ratcheting up to an agonizing degree. I need the next chapter immediately.
-
-** · prose-sha ~d92de80cac99*
-
-GATE 17 — How It's Done
+GATE 17 — A Round
 DECISION: CONTINUE
-CAPTURE: 9.8
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological manipulation is terrifyingly good, the erotic tension between the two women finally broke into physical contact with that lingering car kiss, and the dread of what's coming is completely addictive.
+WHY: The tension was so thick I could barely breathe. The way this book weaponizes patience, gentleness, and shame into pure erotic charge is unbelievable. I am completely locked in.

@@ -18,6 +18,27 @@ Her attraction becomes **available and durable** through the convergence of:
 
 Two tracks over the sex-brain substrate **converge** on a manufactured *occasion* for an always-hers want.
 
+## The renunciation chain — want to blindfold (author 2026-10-04)
+
+The spring thread's outcome, and the cause of everything the summer does. Recorded
+because without it the step from *she wants Randi* to *she asks Pace for a threesome with
+someone else* has no written cause.
+
+1. **Spring — the hiding fails.** Vee can no longer hide from herself that she wants
+   Randi.
+2. **Spring — the renunciation.** She decides she cannot have her, **because Randi is her
+   best friend.** The want is not resolved or outgrown; it is set aside on loyalty
+   grounds.
+3. **Summer opens — the answer.** Vee answers Pace's question from {{Boyfriend}} — *do
+   you want to taste a woman?* — **yes**, and **redirects from Randi to other women.** The
+   redirect is the renunciation enacted.
+4. **She tells Randi** she has asked Pace for a threesome.
+5. **Randi helps Vee scout women.**
+6. **{{The Threesome and Reveal}} happens with Vee blindfolded at her own request**
+   (mechanics: `meta-note-threesome-reveal.md`, `meta-condensed-threesome-reveal.md`).
+7. **Only at the end does Vee learn her first woman was Randi**, and understands the
+   deception.
+
 ## Scope and guard
 
 - **A thread, not a scene.** It spans most of the spring semester, across multiple chapters.

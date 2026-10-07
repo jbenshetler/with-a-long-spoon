@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ec95866b43d5 · 2026-09-19*
+*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0ba818fcba40 · 2026-09-19*
 
 REACTION:
 
-I am lying here staring at the ceiling trying to steady my breathing because *what did I just read?!*
+Oh, god. My throat actually aches right now.
 
-This man. *Peter.* The sheer, absolute, reverent inventiveness of him. In a lesser book, a hero asking his partner to get waxed bare is a gross, patriarchal cliché—a demand for her to look like a porn star. But here? He planned this whole sensory feast. He bought fruit and brushes and edible body paint and champagne, and he turned every single thing she has ever felt insecure about—the size of her breasts, the curves of her hips, the sheer overflowing wetness of her appetite that she whispers *greedy* about in the dark—into literal, celebrated art.
+Coming right off chapter 61—which left me practically vibrating with anxiety and rage watching Pace and Randi casually fuck and talk about Vee like she’s an exquisite piece of fruit they’re ripening together—this morning felt like a punch to the chest. Because here he is. The *real* Pace. The man who bakes cinnamon raisin bread while she sleeps off three ciders, puts the paper towel under the water glass so the ring won't mark the wood, steers her gently into his oversized undershirt, and puts his mouth to her forehead in the dark. The tenderness in him isn't an act. It isn't a tactic. It is so bone-deep and so quiet, and seeing him stand at that sink and lay out the stark, barren landscape of his life broke me.
 
-And the consent! The brilliant, erotic psychology of how he did it! He gave her back the control she thought she’d surrender. "Still meant the brush. Moving meant the brush going away." He made her stillness a choice, teaching her body that holding still wasn't about being trapped or pinned down (like that awful moment under Sondra's cold, impersonal hand at the salon), but about choosing to receive. And when she ruined his composure right at the start? When she took him into her mouth, softly kissed the old scar on his thigh that he used to protect, and wrecked him on the rug? She claimed her own hunger first. She wasn't just a canvas; she was a sovereign participant who laughed, who smeared paint across his face on purpose (*"Oops"*), and he just wore her print like a badge of honor!
+"Sheri's my friend. My one friend. There isn't anyone else."
 
-And then—the gesso. My god, my heart stopped. He literally dipped the brush into her own slick, using *her* to prep the canvas, painting her mons with her own wetness. He demystified it. He took the shame right out of the fluid she tried to wipe onto her dorm sheets in Chapter 60 and made it essential, beautiful, shining. And then he licked the painting clean, erasing it with his mouth, and kissed her with her own taste mixed with salt and champagne and skin. She searched for the boundary she had panicked over before, and this time, there was no panic. No disgust. Just him, and her, and the wave carrying them both.
+To hear him say that so flatly, without a shred of self-pity or theatrical drama—just presenting it as a settled mathematical equation—was devastating. The window opens once, and he was a fifteen-year-old child among grown men who "weren't safe or weren't welcoming." God, the Daphne horror, the father who drove him out at sixteen, the campus emptying out around him on Thanksgiving because he had no home to go back to. Vee seeing it, finally really *seeing* the terrifying, beautiful vacuum of his life, made the bond between them feel ten times heavier. She didn't offer cheap pity. She didn't say she was sorry. She just walked around that counter and threw her whole weight against him the way Sheri did. That is real love. That is two specific, damaged, aching human beings holding onto each other in a cold kitchen.
 
-And then that final beat. The photograph. Pace giving her the phone, not keeping a copy for himself, leaving her power and her image entirely in her own hands. But what does she do? She lies in the dark looking at herself—at this opulent, unashamed portrait of female desire—and she thinks of Randi.
+And that is exactly what makes the secret so utterly sickening.
 
-*"Tomorrow was Randi's... She would not be telling her about this."*
+Because Vee is sitting there mourning his isolation, thinking *Randi* is her safe harbor, thinking how lucky she is to have a girlfriend to do the triage on her heartbreak, completely blind to the fact that Pace and Randi are sleeping together. She literally thinks: "His one friend on this earth a five-foot woman who could never want him — the only kind, she was sure now, the world had ever quite let him keep." The irony is like a razor blade sliding under your ribs. She doesn't know Randi *does* want him, has had him, is sharing him, and that the two of them are whispering about her while they come.
 
-She says she won't tell her, but the very fact that her mind immediately went to Randi's hoarse voice, imagining Randi looking at this photo of her painted breasts and dripping sex... the heat is becoming unbearable. Vee thinks she's keeping a line, but the line is already a blur.
+It makes the care feel so pure on one level and so deeply tragic on another. When this bomb goes off, it's not just going to break her heart—it's going to vaporize the entire architecture of safety he has built for her, and she is going to realize that the boy who has no friends had one other person all along, and they kept it in the dark. I am terrified for both of them.
 
-GATE 66 — Still Life
+GATE 63 — Hangover
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The sensory brilliance of Pace painting her, reclaiming her shame through absolute reverence and playful dominance, was staggering. Seeing tenderness, intense heat, and immaculate consent collide like this is why I read romance, and the lingering psychological shadow of Randi right at the end leaves me desperate for the next page.
+WHY: The quiet domestic intimacy between them broke my heart wide open; seeing the stark reality of Pace's childhood trauma laid bare makes the trap hanging over Vee feel ten times more suffocating. I have to see Tuesday.

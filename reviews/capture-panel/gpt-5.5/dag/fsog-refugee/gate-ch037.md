@@ -1,19 +1,20 @@
-*capture-dag-v2-rich · gate ch037 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · 2026-09-11*
+*capture-dag-v2-rich · gate ch037 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 51b3205f6eee · 2026-10-01*
 
-REACTION — I am helpless for this chapter in the exact way this book knows how to make me helpless: not because something enormous happens, but because the intimacy keeps getting more specific. The picture. God. That could have gone so wrong for me, because a naked photo in this genre can become such a gross little power object so quickly. But he asks by receiving the offer seriously, promises plainly, uses her phone, poses her with care, shows it to her, lets *her* send it. The brave part is hers. That matters so much to me.
+REACTION — Oh, this one got under my skin in the exact way Randi gets under Vee’s. I felt the whole chapter like sunlight on something too private. Brunch should be safe, public, noisy, civilized, and instead Randi turns the table into another closed room without ever raising her voice. That is her gift and her danger: she can make daylight feel like a hand.
 
-And I loved that she fixes herself up first. Not because he needs her polished — he clearly doesn’t — but because she gets to choose the version of herself she wants kept. Then he rearranges her, and it somehow doesn’t erase that choice; it deepens it. His hands making the picture the way his hands made the dress, the meal, the drawer. He keeps turning desire into a place she can inhabit.
+Vee telling the spanking story was so alive I almost forgot to be afraid for her. I liked her pride in it. I liked that Pace’s care was still there inside the heat: the rubbing, the kissing, the asking before, the slow strip “for me” because it was hers to give. That part still works on me completely. The dominance lands because he keeps making room for her actual yes, even when her mouth is lagging behind her body.
 
-The “you do this to me” bit got me, too. It is so hot because it is so warm. He is not just collecting her body parts; he remembers her eating, her face afterward, her glorious in his bed. That is exactly the thing I am always looking for: the sex means something because it is unmistakably *her*. And then of course he gets hard again because she trusted him with the photo. That is filthy and tender and, annoyingly, perfect.
+But Randi. God. She knows exactly what she is doing, and I don’t know whether Vee knows that enough yet to defend herself. The “sticky fingers?” moment nearly knocked me out of the chair. It was crueler because it might not be cruel. That’s the trap. Randi can always retreat into pastry, into sweetness, into “oh, I only meant this,” while Vee is left shaking with the possibility of having been seen all the way through.
 
-The cooking section worked on me harder than I expected. I know by now the food is one of the languages of this relationship, but here it felt almost domestic in a way that made my chest hurt: water first, then wine, then dinner, then quiet hand-holding in the kitchen while the sauce comes together. She is being fed after being used, and she likes both words, and neither cancels the other out.
+And then the “best friend in the whole world” after that. I felt Vee melt, and I hated how much I understood it. Because Randi is offering her the thing she has been starving for too: to be chosen by a dazzling woman, not just desired by a man. The kiss with pastry glaze at the end is filthy and tender and manipulative and gorgeous. Vee never touched the pastry. Randi did. So Vee leaves with Randi’s sweetness on her mouth, literally, and doesn’t yet know what to do with what that means.
 
-But then: “I don’t go back.” There it is. That shut door. I felt the whole room cool. He has so much care for other people’s tenderness and hunger, and then this locked, surgical line around his own past. I’m not angry at Vee for not pushing. She did right. But I am very, very aware that she is loving a man with sealed rooms inside him, while he and Randi are still keeping one sealed room around *her*. The drawer was a place made for her. The photograph was a piece of herself freely given. The family question is a reminder that not everything in this house is open just because it is warm.
+I am very pulled, but my trust is narrowing. Pace is becoming safer in the erotic space the harder the book pushes him. Randi is becoming hotter and less safe at the same time. I can keep going because the book seems to know that distinction. But I need it to keep knowing.
 
-And Sheri coming for Thanksgiving actually soothed me. I like the idea of him feeding another lonely person, and I like that Vee’s jealousy flickers and then yields to understanding instead of spiraling. Still, Sheri is another woman who knows parts of Pace’s life Vee doesn’t, and I’m alert. Not suspicious exactly. Just awake.
-
-GATE 37 — In His Hands
+GATE 37 — One Bite
 DECISION: CONTINUE
 CAPTURE: 9
-ALMOST-STOPPED: “I don’t go back.”
-WHY: The photo scene could have lost me if it had turned possessive or careless, but it did the opposite: her offer, his care, her choice. The family door closing worries me, and the larger secret still worries me, but the tenderness here is so precise that I’m absolutely still in.
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: “Do what you need to.”
+WHY: That line felt like Randi opening the cage door and standing there smiling while Vee mistakes it for privacy. But the chapter absolutely had me: Vee’s desire is so fully inside her now, and the ending kiss with the stolen sweetness was too loaded to walk away from. I need to know when Vee finally lets herself understand what Randi is doing to her, and whether Randi can love her without using her.

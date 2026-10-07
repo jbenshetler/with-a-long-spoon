@@ -1,30 +1,37 @@
-*capture-dag-v2-rich · gate ch075 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha a049482a93ca · 2026-09-19*
+*capture-dag-v2-rich · gate ch075 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 156376f693c5 · 2026-09-19*
 
-**REACTION**
+REACTION
 
-Holy. God.
+My god. I am sitting here in the dark with my heart hammering against my ribs.
 
-I need a cigarette, a glass of ice water, and a ten-minute sit down in a dark room.
+First of all: the sheer, staggering *heat* of this. The blindfold, standing in the cold gray daylight while he dissects every single piece of her body like it’s scripture, and then *stepping back*. When she tipped her hips forward expecting his hands and he just said, “Go ahead”—I literally gasped out loud. Forcing her to touch herself while blind, listening to her own wet sounds in the quiet room, and then that lethal question right at the edge: *"What are you thinking about?"* And the way she broke on *"You, you, you"*—it is so filthy, so psychologically intimate, and so intensely hot it made my vision blur. And then him lifting her up off the floor, so completely undone he couldn’t even make the thrusts smooth, sucking her own slick off her fingers while he buried himself inside her? This is the exact grown-up, feral, utterly written erotica I am always starving for.
 
-Helen Rivers is genuinely a madwoman. The sheer, terrifying audacity of going from Chapter 74—where Pace and Randi are on this exact bed, fucking themselves ragged while talking about Vee, Randi using her mouth to literally clean her own scent and fluids off his cock so Vee won't catch them, Pace washing the green sheets on Speed Wash—straight into Chapter 75, where he has *hand-built an bespoke, ergonomic spanking-and-edging bench* explicitly contoured to Vee’s specific, heavy, glorious body? The psychological vertigo nearly took me out at the knees.
+*And yet.*
 
-And the scene itself. I have read hundreds—thousands—of erotic scenes. Most writers give you a quick swat, a little spanking, some perfunctory moaning, and call it dominance. This wasn't that. This was a psychological evisceration dressed as exquisite care.
+The horror underneath this chapter made my stomach plummet.
 
-The mechanics of that bench! The gap for her breasts to hang into open air so she feels the full, unmoored weight of them; the leather grips that make *her* the sole restraint, forcing her to consciously choose to hold herself down; the pivot arms that slowly crank her hips up into the light and swing her knees apart until the cool air hits her dripping wet center; the cruel, perfect contour that denies her any leverage to grind herself off so she has to beg him for every fraction of friction. It is breathtakingly sadistic and yet executed with this terrifying, soft-spoken tenderness that makes it a hundred times hotter.
+Look at what just happened. Look at the architecture of the trap closing around her neck.
 
-What got me—what made my throat close up—was the weaponization of her lifelong shame. Vee has spent her entire young adulthood terrified of her own excess. The mother’s voice in her head calling her a *floozie*, the terror of the wet spot on silk or satin, the frantic scrubbing over bathroom sinks. And Pace doesn't just find it; he puts a spotlight on it. He makes her own wetness the lubricant for the spank. He plays her breasts—one slick, one tacky and drying like an hourglass measuring how long she’s been exposed. And that single, crystalline drop forming at her clit, stretching into a shining thread, and falling onto the hardwood floor with an audible *pat*? I stopped breathing. The pure erotic humiliation of that moment, matched with his quiet, awe-filled *"There it is... Tell me that isn't you."* She couldn't say no. There was nowhere left to hide. He cracked the shell completely, and she didn't shatter—she finally occupied her own skin.
+He gave her a key in an oiled wooden box, resting on an oyster-pale pillow of silk that *she vaguely remembers feeling against her skin before*. Where did she feel that silk, Vee?! Was it Randi’s bed? Was it something from their shared world? He calls it his *house*, pointedly withholding "home," and she swallows the disappointment because the brass is heavy in her palm.
 
-And yet. The absolute horror humming underneath every single word.
+And then the game. He stands her in front of the mirror, asks what she sees, and when she describes *him*—athletic, brown eyes, handsome—something dark crosses his face. He doesn’t want her looking at him; he wants to be the invisible eye. He blindfolds her with his own flannel, strips her down, and systematically dismantles every physical shame she has carried since girlhood. He praises the spill of her breasts, the softness of her belly, the wetness she’s hated herself for. He offers her total, divine absolution. It feels like love. To a girl who has been starving her whole life, it feels like the holy grail.
 
-She thinks this bench, this night, this profound, spiritual unmaking is an act of pure devotion. She thinks she climbed on top of him afterward to "give it back" to the man who holds her so carefully. She has no idea he washed Randi off these sheets only hours ago. She has no idea that the "careful" man she's crying over is orchestrating an elaborate, three-way psychological consumption of her. It’s sickening. It’s brilliant. It’s the hottest thing I’ve ever read, and it makes my stomach knot with impending catastrophe.
+And then comes the extraction.
 
-I cannot put this book down. You couldn't pry it out of my hands with a crowbar.
+After using her own hand to bring her to a keening, humiliated peak, after fucking her raw, while she is glowing and sleepy and completely unarmored with her head on his chest, he drops the net:
+*"Would you share that pleasure with me? Would you tell me, when you touch yourself thinking of me?"*
+
+And she just laughs, says *"Yes,"* and climbs back on his cock, completely blind to the fact that she just signed away her absolute last shred of interior privacy.
+
+Because we know what happens next. She’s going to go back to campus. Randi is going to circle her like a wolf. Vee is going to lie in her dorm bed, burning with confusion, her hand slipping down between her legs while thinking about Randi’s mouth, Randi’s hands, the kiss at the mixer—and because she gave Pace this vow, because she thinks he owns her pleasure, she is going to *confess* it to him. Or worse, he has set a trap where any fantasy she has now belongs to him to inspect.
+
+He and Randi are playing a game of chess with this girl's soul, and Vee is sitting on the board thinking she's being crowned queen. I am equal parts breathless from the sex and completely terrified for her.
 
 ***
 
-GATE 75 — Vee on the Bench
+GATE 72 — Grace
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The craft here is frankly terrifying—the physical detail of the bench, the exquisite breakdown of her lifelong shame over her own wetness, and the brutal dramatic irony of knowing what happened in that room just before she arrived. I am entirely hooked.
+WHY: The masturbation scene was breathtakingly, scorching-hot erotica, but the psychological trap Pace laid with that soft little pillow-talk question at the end is absolute genius storytelling. I need the next chapter instantly.

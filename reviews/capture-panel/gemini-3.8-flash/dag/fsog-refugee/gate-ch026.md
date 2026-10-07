@@ -1,29 +1,28 @@
-*capture-dag-v2-rich · gate ch026 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8aff12752f2e · 2026-09-27*
+*capture-dag-v2-rich · gate ch026 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1889af8db5c0 · 2026-10-01*
 
 REACTION
 
-Oh, this chapter made my stomach plummet into my shoes. Literally.
+Oh, God. Oh, *God*. My stomach completely dropped through the floor.
 
-I was laughing out loud at the first shoe store—the big discount warehouse off the bypass, the yetis, the platform bedazzled pink monstrosity, the floppy sole about to become a sandal. The camaraderie between Vee and Randi felt so warm, so completely genuine and silly. For a second, I almost forgot what Randi was doing. I forgot the campaign. I forgot the sinister underbelly of it all and just thought, *God, every girl needs an afternoon like this.*
+I feel physically sick, and at the exact same time, it is so sickeningly well-written that I couldn't look away. For twenty chapters I have been totally in love with Pace—ruined for any other man, convinced his care and his courtly patience were the gold standard. But sitting here watching him fuck Randi while they *reminisce about Vee*? Watching them eat chicken in the very kitchen where Vee sat wrapped in a sheet, talking about Vee’s shame, talking about Vee’s body, using Vee’s bright, innocent joy as the foreplay to get hard again? It made my skin crawl.
 
-And then Randi drops to one knee.
+It’s the sheer *arrogance* of Pace’s interior fantasy that broke my heart: *"he had her here, at this table, wrapped in his sheet, and Randi across from her in his shirt, and both of them smiling, all three of them... He wanted to tell Vee. He could not, not yet."*
 
-On the pale floor of that whisper-quiet boutique. She takes Vee’s bare foot into her hands—the frosted plum toenails she *knows* Vee painted for Pace—and she strokes Vee’s big toe with her thumb. Just once. *“Mm.”* That’s all she said! And Vee’s whole world tipped so hard she had to grab Randi’s shoulder to keep from falling out of her seat. The sexual tension between these two women is officially terrifying. It’s not just a game Randi is playing for Pace anymore; Randi is actively courting her, stroking her, claiming her, inch by inch, and Vee is too dazzled to see the hook in the bait.
+He thinks this is going to be some beautiful, enlightened triad where he lovingly cures Vee of her shame while he and Randi share her like a prized possession. He honestly believes he is serving her! He talks about her shame like he’s an expert psychoanalyzing a patient—*"Somebody taught her to be ashamed of her body... you know what she does to a room"*—completely blind to the fact that when Vee finds out she was a shared project, a curated meal between two predators who discuss her over dinner and then ride each other using her image, it will destroy her ten times worse than her mother ever did.
 
-And then the register. My chest went absolutely tight. Watching Vee put the debit card away and pull out the emergency credit card—the card with *nothing behind it*—to buy four-hundred-dollar shoes she cannot afford, just so she won’t look poor in front of Randi, just so she can live up to this fantasy woman Pace’s dress turned her into. It made me feel sick. That is the exact trap of having a wealthy friend when you’re scraping by. Randi buys a pair of loafers that cost three times as much without even looking at the screen, and Vee is signing away her groceries for the next three months just to match the altitude.
+And Randi. Jesus, Randi. She is coming completely undone. She’s terrified because she’s actually falling for Vee—*"She got past me before I could help it"*—and the moment Pace started waxing poetic about how Vee lights up a room, Randi felt the walls closing in. The sheer jealousy and territorial panic in her! She instantly weaponized Vee’s body to get him back: pulling off his shirt, dragging her bare breasts down his chest, whispering *“What she keeps under there... It’s criminal, Pace.”* She is using Vee as the conduit to keep Pace, and using Pace to possess Vee, and it is brilliant and tragic and utterly monstrous.
 
-"Baby. A dress your *lover* made you?"
-"He didn't make this *for* you. He made it *to* you."
+Vee is sitting in her dorm right now, having put hundreds of dollars on an emergency credit card she can't afford, smiling at the ceiling because she thinks a man stayed up all night sewing for her out of pure devotion, and that a glamorous friend loves her just for being her. And meanwhile, those two are in his bed with his undershirt on the kitchen floor, treating her like a mutual addiction.
 
-Randi is giving her the language. Pace is giving her the silk. And Vee is going thousands of dollars into debt and handing over every single defense she has because she thinks she’s finally being seen. It's exhilarating and it's heartbreaking. That final sentence—*she had never once in her life had a friend like this*—felt like a knife twisting straight into my ribs. The drop from this height is going to destroy her.
+I’m furious at Pace. I feel betrayed by him. But my god, the dramatic tension is a razor wire pulled so tight it's humming. The crash that is coming when this all detonates at the honors induction is going to be catastrophic, and I am trapped until I see how Vee survives it.
 
 ***
 
-GATE 26 — Sorority
+GATE 26 — Gone
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
 HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: The tension is incredible. Watching Randi drop to one knee, take Vee's bare foot, and stroke that frosted-plum toe gave me total full-body chills. But seeing Vee slide her emergency credit card across the counter to keep up with Randi's world genuinely hurt my heart—the psychological squeeze is getting so tight I can barely breathe.
+ROMANCE: 0
+ALMOST-STOPPED: "And then, before he had decided to, he had her here, at this table, wrapped in his sheet, and Randi across from her in his shirt, and both of them smiling, all three of them, the way they already smiled about each other."
+WHY: The sheer, sickening complacency of Pace imagining a happy little polyamorous breakfast with a girl he is actively deceiving made me want to slap him. It borders on total psychological disregard for Vee, but the tragic inevitability of the impending crash is impossible to look away from.

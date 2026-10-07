@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch069 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha be90efe95687 · 2026-09-19*
+*capture-dag-v2-rich · gate ch069 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ec95866b43d5 · 2026-09-19*
 
 REACTION:
 
-Oh, god. My stomach is in absolute knots.
+I am lying here staring at the ceiling trying to steady my breathing because *what did I just read?!*
 
-The psychological tension in this chapter was so thick I could barely breathe through it. That is *exactly* how panic and desire work when you’re terrified of your own appetite: you try to swim laps to drown it, you get stuck inside your own sweater in the closet unable to figure out if you're dressing to be seen or dressing to hide, you count the seconds during a lecture while your skin is practically humming off your bones. Every single touch—the graze of Randi’s fingers over her pulse point for a damn wintergreen Lifesaver—felt like an electric shock.
+This man. *Peter.* The sheer, absolute, reverent inventiveness of him. In a lesser book, a hero asking his partner to get waxed bare is a gross, patriarchal cliché—a demand for her to look like a porn star. But here? He planned this whole sensory feast. He bought fruit and brushes and edible body paint and champagne, and he turned every single thing she has ever felt insecure about—the size of her breasts, the curves of her hips, the sheer overflowing wetness of her appetite that she whispers *greedy* about in the dark—into literal, celebrated art.
 
-And then that word: *Having.* Randi just drops it so casually—*"Having you at the dance was so great. I've wanted to do that for the longest time"*—and Vee is totally pinned by it. Because Randi *does* want to have her. And Vee *wants* to be had. She’s trying so desperately to cling to the safety of Pace, but she couldn't even use him on Sunday to put the fire out. She’s waking up with her nipples aching against her nightshirt, holding her hand flat on her stomach like a lid on a boiling pot, terrified of what she’ll do if she touches herself. The shame is right there, side by side with this massive, beautiful, terrifying hunger.
+And the consent! The brilliant, erotic psychology of how he did it! He gave her back the control she thought she’d surrender. "Still meant the brush. Moving meant the brush going away." He made her stillness a choice, teaching her body that holding still wasn't about being trapped or pinned down (like that awful moment under Sondra's cold, impersonal hand at the salon), but about choosing to receive. And when she ruined his composure right at the start? When she took him into her mouth, softly kissed the old scar on his thigh that he used to protect, and wrecked him on the rug? She claimed her own hunger first. She wasn't just a canvas; she was a sovereign participant who laughed, who smeared paint across his face on purpose (*"Oops"*), and he just wore her print like a badge of honor!
 
-And Randi kissing the side of her neck! *“See? How do you like it?”* She knows. Randi completely knows what she’s doing, turning Vee's own innocent little affectionate gesture back on her like a live wire. And what does Vee do when her body is ringing and she's panicking? She immediately bargains for *more.* *"Brunch. Let's have brunch this weekend."* It's an addiction. She can't help reaching toward the stove even while she's blowing on the burn.
+And then—the gesso. My god, my heart stopped. He literally dipped the brush into her own slick, using *her* to prep the canvas, painting her mons with her own wetness. He demystified it. He took the shame right out of the fluid she tried to wipe onto her dorm sheets in Chapter 60 and made it essential, beautiful, shining. And then he licked the painting clean, erasing it with his mouth, and kissed her with her own taste mixed with salt and champagne and skin. She searched for the boundary she had panicked over before, and this time, there was no panic. No disgust. Just him, and her, and the wave carrying them both.
 
-And then—thank God for Cassie. Cassie sitting on that lower bunk with the cold still coming off her coat, seeing straight through the wreckage on Vee's face, and asking the only question that matters: *"What was that with you and Randi?"* No cover stories left. No doll-sized shrunken sweaters. Just the naked truth of a best friend who loves her and is watching the train leave the tracks. I need chapter 70 immediately.
+And then that final beat. The photograph. Pace giving her the phone, not keeping a copy for himself, leaving her power and her image entirely in her own hands. But what does she do? She lies in the dark looking at herself—at this opulent, unashamed portrait of female desire—and she thinks of Randi.
 
-***
+*"Tomorrow was Randi's... She would not be telling her about this."*
 
-GATE 69 — Coming Due
+She says she won't tell her, but the very fact that her mind immediately went to Randi's hoarse voice, imagining Randi looking at this photo of her painted breasts and dripping sex... the heat is becoming unbearable. Vee thinks she's keeping a line, but the line is already a blur.
+
+GATE 66 — Still Life
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 ALMOST-STOPPED: none
-WHY: The psychological claustrophobia was suffocatingly real—Vee trying to hold a lid on her own desire while Randi methodically dismantles her defenses. And Cassie dropping that direct question at the very end is the exact grounded intervention this whole runaway train desperately needs.
+WHY: The sensory brilliance of Pace painting her, reclaiming her shame through absolute reverence and playful dominance, was staggering. Seeing tenderness, intense heat, and immaculate consent collide like this is why I read romance, and the lingering psychological shadow of Randi right at the end leaves me desperate for the next page.

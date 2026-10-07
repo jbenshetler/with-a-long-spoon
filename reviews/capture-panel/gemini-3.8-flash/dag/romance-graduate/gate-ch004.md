@@ -1,18 +1,22 @@
-*capture-dag-v2-rich · gate ch004 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 3a52a74c7617 · 2026-09-26*
+*capture-dag-v2-rich · gate ch004 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 3a16f5932850 · 2026-10-01*
 
 REACTION
 
-Oh, this is sickeningly good. The transition into Vee’s point of view is an absolute gut punch because we just watched the trap being built, and now here is this sweet, starved, hyper-observant girl walking right into the center of it with her heart completely open.
+Oh, this is devilish. Absolutely devilish.
 
-What broke me—and what made it so brilliantly, subtly erotic in that psychological way that completely ruins you—is the tension between Vee’s own suppressed appetite and the way Randi is feeding her. That moment in Chi Latte where Vee looks at the girls with their bare stomachs, hears her mother’s voice calling them *floozies*, and then catches herself thinking *I have more than they have, and better than any of them*? God. She is so tucked-away, so covered to the chin in her cardigan, policing herself just like Randi polices her apple slices, but underneath it she is bursting with wanting to be seen. And Randi puts her right up on the high stool in the window, displayed to the whole room, and Vee just drinks it down like water in the desert.
+Getting inside Vee’s head after watching Pace and Randi plot her like a military campaign on the quad is deeply uncomfortable in the most delicious way possible. You watch this poor, gorgeous, repressed girl walk straight into the trap with her whole heart open, feeling *flattered*. It makes my chest ache. The sheer cruelty of the contrast between Cassie’s flat, intuitive, dead-weight "Goodbye, Vee" (Cassie knows! Cassie smells the social predator on Randi from ten miles away, and Vee is too blinded by the glare to see it) and Randi’s hyper-calibrated, high-beam charm offensive.
 
-And Cassie! Cassie saying "Goodbye, Vee." Not *see you later*, but *goodbye*, like a tolling bell. That gave me genuine chills. Cassie knows. Or Cassie senses the shift in the air, the way you watch a friend step off a ledge into a current that’s going to carry them completely away from you. The contrast between Cassie’s flat, heavy "goodbye" and Randi’s dazzling, predatory "see you later" is masterclass writing.
+And the psychological portrait of Vee here is so sharp it cuts. The mother’s voice living in her head—the egg whites and tofu policing from earlier chapters echoing into Vee calling girls "floozies" while secretly knowing she’s built better than all of them, covering herself to the collarbone in a thick cardigan because being seen is dangerous, but desperately, quietly starving to be looked at. She is prime meat for Pace and Randi. They are going to take her apart like a watch.
 
-There wasn't a single hand on a breast or a belt unbuckled in this chapter, but the heat of Randi’s citrus perfume, the hand flat between Vee’s shoulder blades, and the absolute blank-out intoxication Vee feels just being *aimed at*—it has more charge than ninety percent of the actual smut on my Kindle. Vee is so completely helpless against being chosen. She has no idea she's being seasoned for the table, and the fact that we know it makes every single smile feel wickedly sharp. I need to see her meet Pace. I need to see how the two of them start drawing the lines around her.
+The observation about the conversation disappearing—that Vee was left with only the *feeling* of having been chosen, while the actual transcript vanished—is a masterpiece of writing female social seduction. When someone with that much charisma targets you, it feels like sunlight; you don't notice they’re steering you until the door clicks shut behind you. Randi giving her the "love you, girl" and "see you later" like a royal decree. God, Vee doesn't stand a chance.
+
+It’s completely clothed, totally chaste on the surface, but the predatory, erotic tension underneath this entire interaction is off the charts because I know what’s sitting in Pace’s bedroom with the wooden top off.
 
 GATE 4 — See You Later
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 1
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The shift to Vee's perspective is devastatingly effective—seeing her internalize Randi's calculated warmth as pure, intoxicating grace makes the trap feel breathtakingly tight. I'm completely hooked on the psychological slow-burn and desperate to see the moment Pace enters her orbit.
+WHY: The shift to Vee's POV is devastatingly effective; watching her willingly walk into Randi and Pace's web because she is so desperately starved for belonging and attention is compulsive reading. I need to see the trap snap shut.

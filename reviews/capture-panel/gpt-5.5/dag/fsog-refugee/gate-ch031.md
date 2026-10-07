@@ -1,21 +1,18 @@
-*capture-dag-v2-rich · gate ch031 · gpt-5.5 · fsog-refugee · prompt-sha 96bf5544118e · prose-sha ~230524645ef4 · 2026-09-11*
+*capture-dag-v2-rich · gate ch031 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a45f79a49a6c · 2026-10-01*
 
-REACTION — Oh. Oh, Vee.
+REACTION — Oh, I liked this more than I expected to, even though it kept me away from the apology I was practically leaning over the page for. There is something very effective about seeing Pace with a friend who is not Randi, not Vee, not inside the little charged room. Sheri feels like clean air, cold morning air exactly. She can be blunt and a little rude, but she’s not scheming. She says what anyone outside the spell would say: two of them at once, this is complicated, probably worth it. And because she says it so plainly, the whole hidden shape snaps into focus again.
 
-This one got me in that clean, bodily way where I realized I was holding my breath with her. Not because anything “happened” in the obvious way, but because this was one of those little private thresholds that turns out not to be little at all. The book has been loading that dress for so long, and I was honestly afraid the induction would either be too theatrical or would fizzle. Instead it did the exact thing I wanted: the room didn’t magically become a movie for her. She made the moment happen herself.
+Pace talking about Vee without meaning to got me. The walnut chair, the math book, her noticing the things that matter to him. That is the kind of “obsession” I came here for: not just her body, not just what she’ll let him do, but the weird specific things that make him gone on her. He doesn’t even seem to understand he’s betraying himself, which is very dear and also a little ridiculous. Sheri’s “Listen to you” was exactly right.
 
-That second step. That is the whole chapter for me. She could have stayed careful. She could have let the dress be beautiful in the approved way, impressive but contained, the honor-student version of daring. And then she chose the long step. Not Pace directing her. Not Randi naming it for her. Not anyone asking or pushing. Vee, in the room, with the microphone and parents and folding chairs, deciding to give them the line of her leg because she wanted the dress to be true. That felt so good to me. Dangerous, yes, but good. Her desire belonged to her there.
+But the chapter also made my stomach tighten, because he just says it: “Not yet.” Randi knows. Vee does not. And then they ride on and that’s the whole of it. Pace is aware enough to name the asymmetry, but not enough, or not willing enough, to feel its full weight yet. I’m still with him, very much with him, but this is the line glowing under the floorboards. Every chapter where someone outside Vee knows more about Vee’s own life than she does makes the tenderness feel a little more expensive.
 
-And I loved that Pace was absent. I missed him, because of course I did, and it hurt that he made this thing for her and didn’t get to see it alive in the room. But his absence mattered. It let the dress become less “what he made her” and more “what she wore.” She sends him the photo, but keeps the real secret inside it. That tiny withholding thrilled me. Not in a punishment way. In a selfhood way. He made the instrument, but she played the note.
+Sheri herself worked for me. “She couldn’t take your heat” made me smile because Pace knows his people, and he’s right: Vee is getting braver, but Sheri would scorch her on contact. I like that he has a woman friend who can be sharp without the book making her a sexual rival or a villain. And I admit, “That must be better than your dreams” has a rough little thrill in it, because yes, the fantasy is the fantasy. I want the two women and Pace and the heat. I just need Vee to be brought into the truth before the book asks me to celebrate the arrangement too hard.
 
-Cassie was perfect here. “You look—” and then stopping? That made me grin like an idiot. Cassie sees her without needing to possess the seeing. And “Honor student” made me laugh because yes, exactly, filthy and proud and formally recognized by the department. I love that Cassie documented it, too. She isn’t part of the erotic machinery, but she caught Vee becoming visible. That feels important.
-
-I’m also weirdly relieved Randi wasn’t in the room. I like Randi, I want Randi, I fear Randi, but this chapter needed air around Vee. No interpreter. No priestess. No thumb on the scale. Just Vee deciding that pride and heat might be the same thing now. That last sentence landed hard for me because that’s the awakening I’m here for: not shame erased by someone else, but shame converted inside her own body into power.
-
-So yes, this pulled me. Quietly, sharply. I’m still worried about the secret plan, because I have not forgotten it for one second, but this chapter bought the book a lot of trust with me. It let Vee have something no one else fully owns.
-
-GATE 31 — The Induction
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
-ALMOST-STOPPED: none
-WHY: This was exactly the kind of heat I keep reading for: public, risky, intimate, and still hers. The long step felt like Vee choosing herself in real time, and I needed to see that before the larger manipulation closes in again.
+CAPTURE: 6
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: “And the redhead?” / “Not yet.”
+WHY: A quiet Pace chapter pulled me because his affection for Vee leaked out in specifics, and Sheri’s blunt outside eye was refreshing. But the secret is getting louder now; “not yet” is doing a lot of ugly work inside something otherwise tender.

@@ -1,21 +1,22 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.6-sol · romance-graduate · prompt-sha 544966ee33d7 · prose-sha ~c1f15218cc12 · 2026-09-10*
+*capture-dag-v2-rich · gate ch049 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · 2026-10-07*
 
 REACTION
 
-Oh, Pace. You absolute frightened idiot. He understood her perfectly. That is the knife. Her beautiful crackers-and-meal sentence did not sail past him; he caught every ounce of it, had the true answer ready, and deliberately handed her something smaller because he thought silence could ration grief. I have been furious with him for leaving her alone inside that moment, and now I’m furious in a more painful way because he knew he was doing it and hated himself even as he did. “At the moment she had asked him to be brave he had been weak” is exactly the grown-up emotional truth I’ve been waiting for him to face.
+Oh, this hurts. The shirt was one of the sweetest things in the whole book—her asking him to fill it back up with his smell, him putting it on immediately, no teasing, no making her regret the need—and now she has discovered the limit of every beautiful thing he does for her. It can smell like him. It can hold his labor and his house and his care. It cannot answer her.
 
-And yes, Daphne finally. Not a grand dark secret yet, just the brutally recognizable origin of a bad private superstition: he said love once, losing her destroyed him, therefore the words must have caused the scale of the loss. It is irrational, but it is emotionally exact. He has mistaken refusing to name attachment for keeping attachment containable. Meanwhile he built Vee a place in every room of his life, learned the sight of her car turning into his drive, and can’t eat without seeing her face over the first bite. Sir, the horse has not merely left the barn; you built it a custom kitchen and bought it scrunchies.
+And she knows it now. Really knows it. She doesn’t send the text because she already understands the trap: he would answer warmly. He would say something kind and precise and true and one size smaller than the question, and she would have to use that warmth to cover the absence again. That is exactly what he did on the porch. I’m almost relieved she can no longer make herself accept acts of service as an infinite substitute for speech, because I have been aching for her to reach this point—but watching her reach it alone, naked in that freezing bunk, is miserable.
 
-The bleakness of that reheated chicken and broccoli really got me. This man who feeds Vee like appetite is sacred is alone eating “everything a body could need and nothing his mouth wanted,” making each bite go down by command. That is his whole emotional system in a bowl. Function, discipline, survival—and no pleasure unless another person is there to understand the idea beneath it. The bleach, the missing dinner, the whiskey, the cold house: I felt how badly he had fallen apart without the chapter turning him into a glamorous tragic drunk. He was sick, ashamed, dehydrated, and still trying to operate the machine of himself. Good. Let it be ugly.
+The detail that broke me is realizing the warmth in the shirt is her own warmth coming back. That is the entire relationship’s danger in one sensation. He has genuinely given her so much, but she has also been pouring love into every drawer and meal and heated room, then receiving her own meaning back from them and calling it his answer. Maybe some of that meaning truly is his. I believe it is. But she cannot keep doing all the translation for both of them.
 
-But the passing truck destroyed me. His body believing before his mind could intervene, gathering itself toward Vee, and then that one second of her arrival—the face lighting because she found him waiting—followed by nothing. I actually wanted it to be her even though she should not come back until he gives her the truth. Then he sobbed, and apparently I’m crying over a mathematically gifted man forcing down cold broccoli because he thought “I love you” was a curse.
+And underneath my sadness I’m angry, because Pace is not merely an emotionally constipated young man who can’t find the words. He is keeping an enormous, deliberate truth from her. He knows what relationship structure she thinks she is standing inside, and he lets her lie awake wondering whether she is even his girlfriend while Randi has already had him four times on the couch and discussed preparing Vee for their bed. Vee thinks the silence is empty. It is not empty. It is occupied.
 
-This does not absolve him. In fact, it removes his last innocent excuse. He knows he loves her, knows what she asked, knows he chose cowardice, and still has the vastly larger truth about Randi concealed. Saying the words now is necessary, but it will not be enough. The title is doing frightening work there. He can repair this particular wound with honesty, but “I love you” cannot become the lovely emotional patch laid over the secret structure underneath. He has to tell her everything and let her decide whether the meal was nourishment or bait—or both.
+I would text a friend at one in the morning: “The boyfriend shirt stopped working and she took it off and lay there naked in the cold. I am unwell. Also TELL HER ABOUT RANDI OR I WILL COME INTO THIS BOOK MYSELF.”
 
-Still: this is exactly why I haven’t quit. I don’t just want an alpha to suffer because he lost the girl. I want him to understand the precise mechanism by which he hurt her. Pace does. Now I need him to get in that truck, go to her, spend the supposedly cheap words, and then spend the expensive truth.
-
-GATE 49 — Not Enough
+GATE 49 — Bare
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
+NEXT: 10
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: He understood the crackers-and-meal confession, knowingly answered small, and finally named that choice as fear rather than nobility. The passing truck and cold broccoli gutted me—but love alone is no longer enough, and I have to see whether he is brave enough to tell Vee the whole truth.
+WHY: This pulled me hard without a touch of erotic heat because Vee has finally reached the place where Pace’s gestures cannot smother the unanswered question. I need the next chapter immediately: the shirt is on the floor, the emotional anesthesia has failed, and somebody now has to speak.
