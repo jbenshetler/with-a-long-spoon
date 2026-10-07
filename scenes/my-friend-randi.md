@@ -122,15 +122,15 @@ Randi waved it off. "Oh, it was a lot of white tie and a lot of rich people."
 
 And Randi looked at her a second, then sat back down on the bed and told her.
 
-She'd been skiing alone, and a man had cut into the lift line behind her, six-something, and leaned down and told her to play along, that he was with her, made a whole production of it about dry cleaning for the people behind them. John. By the top of the lift they were married with three children, all named, all packed off to ski camp for the day, and neither of them had missed a beat.
+She told it well. It came out in order with the pauses in the right places — the lift line, the man who leaned down and told her to play along, the two of them married with three children by the top of the ride, all of them named, neither one missing a beat.
 
 "On the first day," Vee said, both hands come up to her mouth. "You were naming children on the first day." She said it, and it went into her sideways all the same, because it was the exact thing she didn't have, the easy forward motion of it, a man who'd build the whole future out loud in the first hour and not be afraid of one word in it.
 
-He'd been the better skier and spent none of it proving so. He'd gotten them the best table at the mountain restaurant, right at the window over the valley, by some string she never saw him pull. She'd gone out that afternoon and bought a dress, brand new, a pale metallic blue, the kind you buy to tell your daughter about someday.
+Then the dress — new, bought that same afternoon, a pale metallic blue, the kind you buy to tell your daughter about someday.
 
 "The kind you tell your daughter about," Vee said, quiet now, and looked down, because that was the whole of it, a story with a shape already, a man who was a story you'd tell before you'd known him a day.
 
-"And the ball," Randi said. The marble floor, the Christmas trees down the length of the room in silver and white against all that black, the whole place lit like the inside of a bell. And he could dance, God, he could dance, he led like it was nothing and there was nothing for her to do but be led, and she'd let him, all of it, gliding, easy as anything.
+"And the ball," Randi said, and did not spend long on it: he could dance, he led like it was nothing, and there had been nothing for her to do but be led, and she'd let him.
 
 "And you just let him lead," Vee said, soft, half into the fairy tale herself now. It sounded like the easiest thing in the world, and easy was a thing she had never once gotten to be. "And then?"
 
@@ -204,10 +204,8 @@ Nothing moved in Brooke's face. She ran a house of ninety and she knew to the in
 
 The mug was cold in Randi's hand and she had not put anything in it.
 
-"So play," Brooke said, kind as anything. "God knows. Play all you want, privately, or for the boys, and not one girl in this house will say a word to you about it, and I'll say less than any of them. That isn't what I'm asking." The curious bright note came up, the *can I ask* face, warm the whole way. "I'm asking whether you want to keep your position."
+"So play," Brooke said, kind as anything. "God knows. Play all you want, privately, or for the boys, and not one girl in this house will say a word to you about it, and I'll say less than any of them. That isn't what I'm talking about." The curious bright note came up, the *can I ask* face, warm the whole way. "You've got a position in this house. You need to choose."
 
-Randi heard herself say that she did.
-
-"Good," Brooke said, and touched Randi's arm once going past, and went out through the archway, and her voice carried on into the common room, bright, saying something to Sloane about a form.
+And she touched Randi's arm once going past, and went out through the archway, and her voice carried on into the common room, bright, saying something to Sloane about a form.
 
 Randi put the mug back in the cupboard, and went up the stairs, and shut her own door behind her.

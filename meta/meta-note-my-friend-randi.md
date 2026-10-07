@@ -210,3 +210,38 @@ wasn't an answer"* inverts to **"She had kept him out of the whole flight. The r
 gave him back to her inside ten minutes"** — she did not reason badly about him; she
 held a door shut for six hours and then couldn't.
 
+## The John retelling, compressed (author 2026-10-07)
+
+Two lanes flagged it as a repeat and both said they skimmed — `claude-opus-5-5`/rg
+(*"That's where the John retelling started repeating chapter 51 back to me, and I
+skimmed"*) and `claude-opus-5`/rg (*"I'd read it one chapter ago"*). Checking
+{{Fairytale}} confirmed it: that chapter **dramatizes the lift-line on the page**
+(*"I could see you were skiing alone"*; *"By the time they reached the front they
+had three children, all sent off to ski camp for the day… neither of them missed a
+beat"*), plus the skiing, the leading and the dress. So the retelling was almost
+entirely recap.
+
+**Keep every one of Vee's three reactions whole; compress Randi's telling.** The
+only phrases that must stay in her mouth are the ones Vee quotes back (naming
+children, the dress you tell your daughter about, letting him lead). Cut: the
+dry-cleaning production, the better skier, the window table, the marble floor,
+the Christmas trees.
+
+**The compression has a motive, not just fewer words.** *She told it well. It came
+out in order with the pauses in the right places* turns the passage from
+information into **performance**, which is where the reader's attention belongs;
+*and did not spend long on it* is Randi **hurrying as she nears the thing she
+can't say**, so the brevity is characterization. The withheld bedroom and the
+quip are untouched — they are the part {{Fairytale}} cannot contain.
+
+## Brooke demands, and does not wait (author 2026-10-07)
+
+*"I'm asking whether you want to keep your position"* was a question, and Randi
+answered it — which **spent the beat**: she complied aloud and nothing was owed.
+Replaced with a demand that cannot be answered in the room: *"You've got a
+position in this house. You need to choose."* **Brooke leaves on the line without
+pausing for a reply** — the not-waiting is the move, exactly like the not-standing
+at {{Standards}}, and the silence afterward is Randi's. The choice stays **loaded
+for thirteen chapters** and she answers it at the {{On Her Floor}} mixer: *"I
+chose."*
+

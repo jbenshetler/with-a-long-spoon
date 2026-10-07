@@ -124,11 +124,27 @@ Vee started to say her name.
 
 "Hello — you're *Vee*." Brooke had it before she could spend it. "Randi's *new* friend." A squeeze of the shoulders, delighted. "Stats, the two of you, all fall. And the smoothie shop — that cute little cardigan, I never forget a thing — and then you came by the house one Friday, oh, *early*, half of us still in our robes, and you needed our Randi like the world was ending."
 
-Vee felt Randi's shoulder come warm against her arm — there, where a second before there had been nothing.
+Randi's arm came around her waist — there, where a second before there had been nothing — and settled, and stayed.
+
+"I chose," Randi said.
+
+"I can see," said Brooke.
 
 She was lit all through: the president of the whole house carried her little history by heart. And Vee had braced, without quite meaning to, for the next of it, the day two weeks back when she'd come in off the cold too wrecked to get out a hello, braced to hear it read out into the room. But Brooke hadn't touched it. The gratitude went through her warm on top of everything else, and she thought that Brooke, whom she'd always found a little frightening, was kind after all. "It's such a good party," she said. "Thank you so much for having me."
 
 "Of *course*, sweetheart." The smile widened by some exact amount, the whole face switching on behind it. "Any friend of Randi's." And the gold of her turned and closed back into the crowd, leaving the warmth where she'd stood like something you could smell.
+
+"What did you choose?" Vee said.
+
+"You." Randi's arm tightened at her waist, and the rest of it came a beat late. "As my date."
+
+"I'm your *date*?"
+
+"You're my date."
+
+And Vee laughed, giddy with it. *Randi's* date. Glamorous, beautiful Randi, who could have walked in on the arm of anybody in the place, had picked her — and said so out loud, in front of the president of the house. She stood two inches taller in the borrowed skirt and knocked her shoulder into Randi's. "Nobody tells me anything."
+
+"I'm telling you now."
 
 The low music had been thickening under everything, a floor laid down a little at a time, and then the lights dropped and a beat came up out of the dark big enough to feel in the breastbone, and the whole room turned to it at once with a noise that was half a scream. The empty middle was suddenly the only place to be. Randi had her by the hand already, towing her toward it, lit up — "Come on. Come *on*—" — and the floor took them both.
 
