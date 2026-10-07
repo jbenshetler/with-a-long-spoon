@@ -149,8 +149,10 @@ with her.
 
 `claude-opus-5-5`/romance-graduate almost-stopped on the old first line — *"She'd
 cried most of the way in from the airport… that was the fifth lonely-and-hurting
-opening in a row, and my thumb was ready to swipe away."* The run is ch051–055
-({{Fairytale}}, {{Old Acquaintances}}, {{The Usual}}, {{Not Enough}}, here) and
+opening in a row, and my thumb was ready to swipe away."* The run was then ch051–055
+({{Fairytale}}, {{Old Acquaintances}}, {{The Usual}}, *Not Enough*, here); after the
+2026-10-07 merge of the last two of those into one diptych it is four chapters,
+ch051–054. And
 **an up chapter inside it was ruled out: there is nobody to give one to** — Vee is
 shattered, Randi is empty, Pace is in grief, and handing any of them a good time
 would damage the arc. The fix is the opening only.

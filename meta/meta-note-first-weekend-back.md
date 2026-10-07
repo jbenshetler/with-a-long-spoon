@@ -118,7 +118,7 @@ into an event.
 
 **Vee's three-sentence reading of him was cut.** It ran *"the same wall… the still
 of a man holding a line at cost. She had come to the end of asking the man behind
-the wall to come out and answer her."* {{Not Enough}} has already given the reader
+the wall to come out and answer her."* {{The Usual}} has already given the reader
 a man who knows he loves her, knows he was weak, and sobs at a truck going past on
 the highway — so a wall is **a case the reader knows is false**, and with the reach
 added it was being disproven two lines later. What replaced it is one beat of

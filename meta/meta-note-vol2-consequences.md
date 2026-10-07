@@ -103,7 +103,7 @@ The problem being solved: as designed, the spring crisis is **escalation wearing
 - **{{The Peaches}}** (`meta-plan-chronology.md:518`) — beat 1 is "unresolved conflict over emotional unavailability (no *I love you*, no monogamy)." That wound becomes monogamy-only, or something else. Real rework on a Volume Three scene.
 - **{{Excavations}}** (`:522`) — turns on *"Have you ever said it?" — **"Once."***, the silence where his whole pattern says sealed. If he has said it to Vee, this is a direct collision. Fixable (the question becomes *before me*), but it is an edit to a scene whose architecture is complete and whose "Once" is doing precise work.
 - **`meta-note-outlier.md`** — its payoff ruling needs revisiting if the fraud fires further.
-- **Unaffected:** {{Grace}} stays as drafted under the recommended placement; the Volume One word-withholding through {{Believe Me}} / {{Not Enough}} / {{Nothing Underneath}} is untouched — the word is spent in Volume Two, which is where the credit line says it belongs.
+- **Unaffected:** {{Grace}} stays as drafted under the recommended placement; the Volume One word-withholding through {{Believe Me}} / {{The Usual}} / {{Nothing Underneath}} is untouched — the word is spent in Volume Two, which is where the credit line says it belongs.
 
 ---
 
