@@ -143,3 +143,70 @@ managed surface the moment Brooke is present, and the panel stops at Randi's own
 door without going in, so {{Fairytale}} remains the first time the book is inside
 with her.
 
+---
+
+## The plane opening (author 2026-10-07)
+
+`claude-opus-5-5`/romance-graduate almost-stopped on the old first line — *"She'd
+cried most of the way in from the airport… that was the fifth lonely-and-hurting
+opening in a row, and my thumb was ready to swipe away."* The run is ch051–055
+({{Fairytale}}, {{Old Acquaintances}}, {{The Usual}}, {{Not Enough}}, here) and
+**an up chapter inside it was ruled out: there is nobody to give one to** — Vee is
+shattered, Randi is empty, Pace is in grief, and handing any of them a good time
+would damage the arc. The fix is the opening only.
+
+**This makes the chapter the volume's turn rather than the fifth down-chapter that
+happens to end well** — the reader feels it on the first page instead of
+three-quarters through. The run stays four chapters long and the fifth opens with
+lift.
+
+**The register is ascendant, not triumphant.** Relief, breath, and a life she built
+for the person she is now. The melancholy is present and **subordinated** — *she
+had not expected that to come with a grief in it* — turned over once and set down,
+because the sentence it yields to is the thesis: *there was somewhere to go back
+to, and it was hers, and she had made it.* This advances {{Old Acquaintances}}'
+beige-life thread one turn: there she was *"somewhere else without knowing she's
+left"*; here she knows, and is glad of it.
+
+**The list is unmarked and ascends: Kayla, Meg, Cassie, Randi.** Weighting is done
+by word count, never by statement — no *most of all*. The charge is that Randi
+outranks Cassie, Vee's own roommate, and that **Pace is not on the list at all.**
+She omits one and crowns the other and notices neither. *After that came one more,
+and she did not get to it* is the whole avoidance; it works because the list
+ascends, so the reader does the arithmetic on who comes next. No interiority, no
+resolution — her face goes back to the glass. **No tell fires here**: the nearest
+candidates (collarbone, hands to the lap) both carry the wrong meaning for this
+beat.
+
+**The pool gets the longest beat and is the one item that is not about being seen.**
+Nobody timing her, nothing riding on it, her body an engine with no opinions about
+itself — her own formulation from `strokes` returning fifteen chapters on, close but
+not verbatim. The third-lane territory and the butterfly man were cut: that is
+`strokes`' business and re-listing it reads as inventory. Note `strokes` already
+owns *"asked her for nothing"*, so the altitude line uses **space** (the quality
+Pace gives her, never named) and **cared** instead.
+
+**The coffee is the absence made physical, and nothing points at it.** She buys the
+biggest cup the open counter has with too much sugar, because she wants it — the
+appetite is hers and she provisions herself without a thought. Against {{Four}}
+(*"one of your coffees… in that steel cup, the good stuff — which is not a thing a
+girl buys for herself"*) it is the single Pace-shaped object on the page and she
+handles it absently. Reread-only; **never gesture at it.**
+
+**Altitude is the container, which is why it fails at ground level.** Thirty
+thousand feet asks nothing of her; the car is the first place she is alone *and*
+back in the world. The red-eye makes the holding finite — she has been up all night
+doing it — and gives the stretch its only light gradient: dark cabin, gray at
+Roanoke, the road.
+
+**The road gets her through the body, not the theme.** Frost on the fields going
+past the window the same as they go past on a Friday, and her hands knowing the
+drive — four months of Friday afternoons with the bag on the back seat and her
+whole body already at the end of it. Two of the chapter's own lines were cut as
+redundant once the panel existed: the *picture of coming home* summary (the fields
+**are** the picture going by) and *"not one inch of him for her"* (states what the
+body has just done). And the old *"she'd told herself on the plane that silence
+wasn't an answer"* inverts to **"She had kept him out of the whole flight. The road
+gave him back to her inside ten minutes"** — she did not reason badly about him; she
+held a door shut for six hours and then couldn't.
+
