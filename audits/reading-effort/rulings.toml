@@ -14,3 +14,73 @@ file  = "scenes/the-bench.md"
 flags = "suspend,hold"
 text  = "He stood up only long enough to pull the soft blanket from the foot of the bed — the cashmere one she had brought after the second week when she had registered that she got cold after sex even in his too-warm house — and he wrapped it around her shoulders and over her hips and tucked her into it."
 note  = "Author ruling 2026-09-20: stands. The 26-word interruption is a single smooth appositive with no internal branching, and none of the three blind readers (claude-sonnet-5, glm-5.3, gpt-5.6-sol) registered it as work. Largest suspension in the chapter; suspension LENGTH alone is not the signal."
+
+[[standing]]
+fp    = "0dfa40c167f2"
+file  = "scenes/the-bench.md"
+flags = "suspend,hold"
+text  = "He ran his hand back down her spine to her ass — the skin warmer now than when he had first touched it — and stayed there."
+note  = "Author ruling 2026-10-01: stands. Eleven-word single interruption (the skin warmer now than when he had first touched it) between the hand arriving and 'and stayed there'; the pause sets up the landing. Peak-open 9 is partly a parse artifact — the comparison attaches to 'ran' rather than 'skin'. No reader flagged it."
+
+[[standing]]
+fp    = "5b5f86b34098"
+file  = "scenes/the-bench.md"
+flags = "suspend,hold"
+text  = "And he was in the next room right now, waiting to be tender with her — not with the face, with her, the one he had found — and that was the thing that could not happen."
+note  = "Author ruling 2026-10-01: stands. The eleven-word interruption (not with the face, with her, the one he had found) IS the sentence's meaning — the distinction 'could not happen' attaches to. Releasing it would make a third sentence-initial And in four lines. No reader flagged it."
+
+[[standing]]
+fp    = "64983f6c0098"
+file  = "scenes/the-bench.md"
+flags = "suspend,hold"
+text  = "He took the second foot in both hands — the arch warm, fine-boned, the blue-polished toes curling once at the touch and releasing — and worked the buckle free and drew the heel off and set it beside the first."
+note  = "Author ruling 2026-10-02: stands. The interruption (the arch, the toes) describes the noun being held (the foot) — the reader is still looking at the thing, not carrying it across something else. The principle that decides single suspensions; see STATUS.md."
+
+[[standing]]
+fp    = "fef22c8ac143"
+file  = "scenes/the-bench.md"
+flags = "suspend,hold"
+text  = "He hit her — hard, on the high point of her ass where it would sting brightest — and she cried out, the cry stretching into something past surprise, and he soothed the place with his palm and bent and kissed it."
+note  = "Author ruling 2026-10-03: stands. Three-word held clause (He hit her); everything inside the dashes is the hit's own force, place and intent. The chapter's patterned shape for a strike (cf. :275)."
+
+[[standing]]
+fp    = "409c1d94a67a"
+file  = "scenes/the-bench.md"
+flags = "suspend"
+text  = "He could see the slight unsteadiness in her — nerves, not something she would have chosen him to see — and he stepped close and put one hand to the small of her back, the other flat against her chest, and she leaned into the span between his hands and he brought her forward and down, controlled, until her chest met the shelf and her face settled into the cradle."
+note  = "Author ruling 2026-10-03: stands. Ten-word interruption is his reading of the held noun (the unsteadiness: nerves). The 68 words are the mounting as one continuous handoff; seaming after the dash would separate the seeing from the acting."
+
+[[standing]]
+fp    = "00a6c47f8e21"
+file  = "scenes/the-bench.md"
+flags = "suspend,pp"
+text  = "He bent and kissed her between the breasts — the warmth of her, the citrus scent of her perfume from the base of her throat — and stayed there for a long beat with his face against her."
+note  = "Author ruling 2026-10-03: stands after trim. The interruption is what he finds at the kiss (warmth, scent); the excursion to the throat was shortened, the dash kept."
+
+[[standing]]
+fp    = "f2120b463204"
+file  = "scenes/the-bench.md"
+flags = "chain"
+text  = "The room was warm when she came in, the kind of even warmth he kept the house at because he liked being able to take his time without thinking about whether someone else was cold."
+note  = "Author ruling 2026-10-04: stands. The novel's first sentence; right-branching, resolves at word four, the 25-word tail is one logical descent that characterizes Pace by provision. Splitting at 'because' would lose the hinge that makes the warmth his. No reader flagged it."
+
+[[standing]]
+fp    = "044ed9e48bfc"
+file  = "scenes/the-bench.md"
+flags = "strand,hold"
+text  = "She narrowed her eyes and took another bite to prove the point, and the point did not survive the next pass — she drew her shoulders back and leaned into him, her breasts asking for his hands."
+note  = "Author ruling 2026-10-04: stands. The strand is a parse artifact (the absolute attaches to 'leaned', not 'narrowed'); the dash is a colon, not a hold. One reader, cost 1, on the point/pass wordplay that is the beat."
+
+[[standing]]
+fp    = "4f25e7e7c4cb"
+file  = "scenes/the-bench.md"
+flags = "strand,hold"
+text  = "The first button slipped free with the small sound silk makes when it gives, and the skin beneath it appeared: the pale center of her, the notch at the base of her throat where her pulse was going fast under the thin skin, quick and visible even from below."
+note  = "Author ruling 2026-10-04: stands. Parser attached the colon's list to the first verb; a reader attaches it to 'appeared', which the colon points at. Nothing held."
+
+[[standing]]
+fp    = "9a97ae681ba6"
+file  = "scenes/the-bench.md"
+flags = "chain"
+text  = "He smiled, a little, that he had thought to leave the water — that he had known to, because she always drank more than she expected after they were together."
+note  = "Author ruling 2026-10-04: stands. The dash is a self-correction (thought → known) and the chain is that correction plus its reason. No reader flagged it."
