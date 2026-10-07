@@ -61,7 +61,7 @@ the dorm/undergrad framing — it **explains** it, closing the "why is an
 undergraduate 21" inference that the Bible guards in canon but no reader could
 reach. The lettered dorm/bunk/school-night rows need no individual mitigation.
 
-Secondary, indirect: `across.md:23` (ch056) — Vee orders mimosas while Kayla,
+Secondary, indirect: `across.md:23` — Vee orders mimosas while Kayla,
 *"who was not twenty-one,"* gets orange juice.
 
 Note the boy/man framing at `may-i-choose.md:27` (*"That's not a boy. That's a

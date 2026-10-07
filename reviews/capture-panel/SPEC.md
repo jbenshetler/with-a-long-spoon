@@ -1031,6 +1031,20 @@ blocked a destination. The plan validator reports that case for free.
 `KNOWN_MISTYPES` in the tool allowlists the documented model-typo gates so `--verify` can
 exit clean.
 
+### Chapter numbers in this document are as-of-run (2026-10-07)
+
+Every chapter number in the results history above is the reader-sequence position **at the
+time that run happened**, and the sequence has shifted twice since: **+1 at position 43**
+(drafting {{Four}}, 2026-10-05) and **−1 at position 54** (merging {{Not Enough}} into
+{{The Usual}}, 2026-10-07). Do not renumber historical findings — they are facts about a
+report. Resolve an old number through the chapter **title** the entry names.
+
+**Corollary for any doc citing a gate:** cite by **reader + chapter title**, never by
+`gate-chNNN.md:LINE`. The number moves on every structural edit and `--fresh` overwrites a
+gate in place, so number+line citations rot twice over. Three such citations in
+`meta-note-vol2-consequences.md` had rotted by two renumberings before anyone noticed;
+repaired 2026-10-07.
+
 ### Correction: the provenance header is OURS (2026-10-07)
 
 The rule above — "the internal `GATE n — Title` line was deliberately not edited" — is right,
