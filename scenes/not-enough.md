@@ -18,7 +18,7 @@ He dried himself and brushed his teeth until the taste of whiskey and sickness g
 
 The house was cold enough that the laminate counter chilled his palm. He filled a pan and set it on the stove, then measured coffee into the machine and started it. Somewhere low in the house, a piano moved through a run and a horn came in under it. The sounds stayed below the click of the burner and the first working noises of the coffee pot.
 
-The freezer held its rows. He took out one vacuum-sealed portion of chicken and one of broccoli and lowered them into the water when it boiled. He filled a glass from the filter pitcher and drank it at the counter. The first glass made his stomach turn. He filled it again and waited.
+He opened the freezer and the cold rolled out at him, and there it was in its rows, the chicken in one column and the broccoli in the next, every bag neat and the same as the one behind it. Enough in there to go on like this a long time. He took one of each and lowered them into the water when it boiled. He filled a glass from the filter pitcher and drank it at the counter. The first glass made his stomach turn. He filled it again and waited.
 
 By the time the bags were hot through, his hands shook.
 
@@ -82,13 +82,15 @@ The whiskey had taken his balance. His dinner. Several hours he could not use. I
 
 An engine sounded on the highway.
 
-His head lifted before he knew he had moved. The fork stopped halfway to the bowl. Tires came nearer over the cold road, and his body gathered itself toward the narrow cut in the hill, toward gravel under wheels and a truck turning in.
+His head lifted before he knew he had moved. The fork stopped halfway to the bowl. Tires came nearer over the cold road, and his body gathered itself toward the narrow cut in the hill, toward gravel going under wheels and somebody turning in.
+
+It was the wrong sound. He knew that at once and whole, as he'd have known a voice that was not hers, and he did not let go of it.
 
 The engine held steady. It did not slow.
 
-For one second the house gave him Vee again: her car finding the narrow drive, then Vee finding him on the covered stoop, her face becoming the smile she gave only him.
+For one second the house gave him Vee again: her car coming small and flat around the bend from town, then Vee finding him on the covered stoop, her face becoming the smile she gave only him.
 
-The truck went past.
+It went past.
 
 His hand shook. He set the fork down before he dropped it. The first breath caught high in his chest; the next one broke. He bent over the table and sobbed until he could no longer hear the truck, and for a few breaths after.
 

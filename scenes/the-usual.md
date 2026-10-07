@@ -115,3 +115,28 @@ His face was hot and he knew it, and he went on anyway. "She sees things nobody 
 Sheri set her burger down and stared at him. "The philosophy of your food." She shook her head. "Lord almighty. Get over yourself."
 
 And he laughed — the first full one of the night — and she grinned at him across the wreckage of two cheeseburgers, and for a while the thing he couldn't do sat further off, and the diner was warm, and the fog on the glass kept the cold where it belonged.
+
+The house was dark and still holding the morning's heat. He came in through the kitchen, put his keys in the dish, and did not turn on more than the one lamp.
+
+He put music on from his phone and set it low and let it have the rooms — not the bright end of it, nothing with somebody counting it off at the top; the late things, a horn with the shine taken off and a great deal of room around the notes.
+
+Then he got the bottle down from the top of the cupboard, where it had stood since somebody gave it to him, and poured two fingers into a glass he had to go looking for. He did not drink alone. There had never been an occasion for it and he had never gone hunting one.
+
+He sat down in the recliner and turned the lamp off and went through the pictures on his phone.
+
+There were not many, because he had only ever taken the ones she was in on purpose. The two of them out back in the leaves with his arm stretched out holding the phone, both of them ridiculous, her head tipped into his. Her mouth on his, blurred, one of her eyes shut. Vee just in on a Friday, her coat still over her arm, dressed for a house with one person in it and radiant about it, standing still for him on purpose and looking straight into the phone instead of dropping her eyes. And Vee on a Sunday with her hair loose and nothing in the day, both hands around a mug of his coffee that she had ruined with sugar.
+
+He went through them slowly and in order, like reading, and the glass got low, and he filled it again.
+
+It was not missing her. Missing her was what he had been doing since December and he knew the dimensions of that. This was underneath it, and it had been down there a long while, and the whiskey took the lid off the top of it.
+
+Further down than he had been in years, a girl with brown hair and glasses who laughed with her hand over her mouth. He had not let himself down there in a long time. The glass was empty. He filled it.
+
+He changed the album. Randi arrived in his head the same as she arrived in the house, unannounced and pleased about it — the weight of her back against his chest with his arms pulled around her low, the blanket she wanted about a minute after, every time, so reliably that he kept it on the chair for her. *Say something nice to me.* He smiled in the dark at that, and meant it.
+
+She was on the other side of the ocean and it would not have mattered if she had been in the next room. He could see the whole evening if she had been: her shoes off, her feet up, the blanket, that mouth going about somebody at her mother's table, and himself glad of it. Glad was not what was wrong with him.
+
+He went back to the pictures.
+
+Somewhere in there he filled the glass again, and after that the order of things stopped being reliable. The album ended and he did not get up, and the next one started on its own and went on playing into the dark a long time after he had stopped hearing it.
+
