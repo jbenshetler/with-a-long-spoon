@@ -100,3 +100,58 @@ The deepest wound is structural, and **neither character understands it yet.** T
 - **The sex:** within crossed thresholds at reunion-ferocity — starved, raw; flat-to-alive on the body; his being-undone and his appetite both, no seam.
 - **The afterglow (the lie):** snuggle → he makes something to eat → wine; First Night, shadowed; his loving non-answer she lets pass; the cloud as a faint absent floor, never narrated.
 - **Coda (public echo → `Among Friends`):** Pace comes among her friends in the bomber jacket and broadcloth, unasked — her unearned proprietary claim enacted while he stays unnamed. Handed off to its own scene.
+
+---
+
+## The porch: he reaches twice and she receives neither (author 2026-10-07)
+
+**He reaches, and she overrides it.** After the distancing line, *"Vee, I—"*, and
+she does not let him finish. The obstacle is **hers**, not his: she is three weeks
+into a plan that is Randi's, she has imagined it a dozen times since the
+afternoon, and there is no version of it in which she stands on his step and
+talks. So **Randi's counsel costs Vee the words she came for**, and it costs them
+without Randi ever going near Pace — the plan's momentum does it.
+
+This changes what the coat is for. It stops **answering his coldness** and starts
+**overriding his words**, which turns the body-over-word inversion from a theme
+into an event.
+
+**Vee's three-sentence reading of him was cut.** It ran *"the same wall… the still
+of a man holding a line at cost. She had come to the end of asking the man behind
+the wall to come out and answer her."* {{Not Enough}} has already given the reader
+a man who knows he loves her, knows he was weak, and sobs at a truck going past on
+the highway — so a wall is **a case the reader knows is false**, and with the reach
+added it was being disproven two lines later. What replaced it is one beat of
+recognition — *"The formal voice. The same one from December, when she'd asked him
+to name her"* — a flinch she is allowed to have while being wrong.
+
+**Keep `:61`.** *"The courtesy came down over him like a thing reached for in a
+hurry"* is already correct: the distancing line is **panic armor**, not a wall, and
+it is exactly what a man ambushed by the thing he has been praying for reaches for.
+
+**And *"She had brought something he could not refuse"* survives, re-aimed.** It
+was a claim about **his wall**; it is true as a claim about **her plan** — which is
+where it belongs, since the plan is Randi's and the certainty is borrowed.
+
+## The apology, on his knee (author 2026-10-07)
+
+He gets out in the afterglow what she would not let him say on the step: *"I'm
+sorry. I never meant to hurt you."* And then, lower, *"I missed you so much,"* his
+voice cracking on it.
+
+**The vow still holds, and the absence gets louder rather than smaller.** Three
+sentences that circle the word and never land on it do more than one did: he said
+more and still did not say it. It also makes the following beat truer — *"there was
+no room in her for wanting anything he hadn't given"* — because he gave more.
+
+**Nothing connects the two beats on the page.** Vee does not know what he started
+to say on the step, so she cannot narrate the link; no *"the thing he'd tried to
+say."* The reader makes it alone. **Do not join them.**
+
+**Why this needed no Pace/Randi scene.** A January Pace/Randi beat was workshopped
+and **rejected** (author 2026-10-07): the reader should not be ahead at the
+climax — knowing about the con is different from knowing the ending — and **Pace's
+decision to reconcile must be his, or he looks weak and the romance dies.** With
+nobody priming him, the reflex at `:63` is genuine and the reach is entirely his
+own, which is what makes the reconciliation his. Do not reopen.
+

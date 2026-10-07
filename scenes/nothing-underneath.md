@@ -62,9 +62,13 @@ He was in the jeans and the t-shirt still, or again, and the light from behind h
 
 "It's late," he said. "Is everything alright?"
 
-The formal voice, the same wall that had come up in December when she'd asked him to name her — the still of a man holding a line at cost. She had come to the end of asking the man behind the wall to come out and answer her. She had brought something the wall could not refuse.
+The formal voice. The same one from December, when she'd asked him to name her.
 
-She did not say anything at all.
+Then something went through his face, and his hand came off the frame of the door.
+
+"Vee, I—"
+
+She did not say anything at all. She had imagined this a dozen times since the afternoon and there was no version of it in which she stood on his step and talked. She had brought something he could not refuse.
 
 She reached up and undid the top button, and the next, and the rest, her cold fingers steady enough, and she took the two edges of the coat in her hands and opened it.
 
@@ -124,7 +128,9 @@ In a few minutes there were pancakes in front of her, gold and steaming, a pat o
 
 "I feel like I haven't eaten anything real since the last time you cooked for me," she said.
 
-He came around the counter, and before she'd swallowed the bite in her mouth he went down on one knee beside her chair, bringing his face up under hers, and kissed her once on the forehead. "I missed you so much," he said, and his voice cracked, and did not quite come back.
+He came around the counter, and before she'd swallowed the bite in her mouth he went down on one knee beside her chair, bringing his face up under hers, and kissed her once on the forehead.
+
+"I'm sorry," he said. "I never meant to hurt you." And then, lower: "I missed you so much." His voice cracked on it and did not quite come back.
 
 She sat there with her mouth full of the pancakes he'd made her at midnight and her eyes gone hot and a grown man on his knee with his face cracked open under hers, and she was so full, of the food and the warmth and the plain relief of being back inside his care, that tonight there was no room in her for wanting anything he hadn't given. She put her hand in his hair. She had everything she had driven out through the cold to get.
 
