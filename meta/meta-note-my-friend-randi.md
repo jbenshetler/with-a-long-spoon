@@ -71,3 +71,75 @@ The goodbye-kiss staircase does **not** escalate here: the **usual settled kiss*
 - **The coat is Randi's idea** — the door-two costume traces here; the umbrella note records the fingerprint.
 - **Randi hasn't met Sheri** — she can't hold the fact; soothe emotionally only.
 - **Precedes {{Among Friends}} and {{Another Round}}** (both "soon after"): the confidante bond and the scent vector are already live when Randi crosses into Vee's world at {{Among Friends}} and when Vee crosses into Pace's at {{Another Round}}.
+
+---
+
+## Panel two — the Brooke beat (author 2026-10-07)
+
+The chapter is now a diptych. Panel one runs past the counsel to a second
+goodbye kiss in the foyer that **Vee starts**; panel two is Randi POV from the
+closed door through Brooke in the kitchen.
+
+**The kiss is a new rung, and it must stay distinct from the old one.** The
+November goodbye had Vee *extending* a kiss — reported to Pace at {{Four}},
+*"I went to come off her and she came after me. She took it."* This is the
+first she **initiates**, and it lands after the first kiss of the afternoon
+was already finished two floors up. Randi's own frame for the four months
+before it is *"held still for it and was sweet about it and thanked her and
+never once started it"* — initiation, not extension. The ladder is: Randi leans
+in → Vee extends (Nov) → Vee starts one (Jan) → in front of the house at the
+{{On Her Floor}} mixer.
+
+**Vee gets the need, the reader gets the passion.** Her motive is relief and
+gratitude with want inside it, and **she does not examine any of it** — *"she
+only knew she wasn't finished."* This is load-bearing downstream: her
+*what-we-do* framing has to survive, poorly held, for {{On Her Floor}} to work.
+The gap between what the prose shows and what she files is the instrument.
+
+**The foyer, not the landing.** It is where their goodbye kiss already happens
+({{Broken In}}, *"In the foyer, under all those framed faces"*), so it is
+genuinely *what they do* — a private landing would make Brooke's sighting a
+contrivance and would prove nothing about the training. It also puts both of
+Brooke's sightings in one room of her own house, and gives the public ladder its
+middle rung (foyer → dance floor).
+
+**Brooke is exacting, not cruel, and not personally homophobic.** She enforces a
+code she did not write and takes no pleasure in it; her weapon is warmth. She
+never claims a sighting — *"You always say goodbye under the composites"* does
+the work, and *always* is the word that means twice. She offers Randi one true
+safe answer (*"A boy, isn't it?"* — the {{Standards}} construction) and goes
+straight past it. Then she grants the attraction as reasonable before the single
+threat, framed as concern: *"I'm asking whether you want to keep your
+position."* The permitted category she names — *privately, or for the boys* — is
+**the exact alibi Randi runs on herself** at {{Four}} (*"I'm doing it for you.
+For the threesome"*): the house's code and her self-deception are one sentence,
+and neither woman hears it.
+
+**Randi is defiant, not compliant — and that makes {{Inversion}} a progression.**
+She is flush from the kiss with the machine off, so she pushes back here; by the
+February docket she *"absorbs it without flinching,"* because she learned in this
+kitchen what defiance costs. Two scenes, same room-container, opposite postures.
+
+**She must not disown the kiss.** Denying it would be her saying it did not
+matter, and it mattered enormously. So she asserts instead — *"We do. She's my
+friend"* — reaching for **Vee's own inadequate frame** to defend her with, which
+is the only word either of them can use. And *"Don't,"* cut across *tempted*, is
+a refusal of the **sex-only frame**: the one time in the book she defends Vee as
+a person, against the exact reduction she performs for Pace. Placement is
+load-bearing — *"I've seen how that girl looks at you"* must land **whole and
+unopposed**, so that the reader sees she did not object to being seen, only to
+Vee being wanted. Unseen by her, the flinch is the confession: if it were play
+it would have cost her nothing, which is why Brooke goes straight to the
+position question.
+
+**The matcha is the mechanism.** She wants a mug in both hands and twenty
+minutes to sit with what just happened. She never gets it poured; the mug goes
+back in the cupboard unfilled. Nothing in the scene releases the tension, and
+Brooke's exit costs Brooke nothing.
+
+**POV discipline:** see the flag 15 exception recorded in the chronology — the
+foyer is a third container, opened once, for joy rather than wound. It reverts to
+managed surface the moment Brooke is present, and the panel stops at Randi's own
+door without going in, so {{Fairytale}} remains the first time the book is inside
+with her.
+

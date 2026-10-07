@@ -1,6 +1,6 @@
 # My Friend Randi
 
-*Vee POV, close third. Afternoon. Beat 1 of 2 of the First Weekend Back reconciliation — the pivot, at Randi's single. Randi coaches; the confidante track produces the act that saves the relationship.*
+*Diptych. Panel one: Vee POV, close third — afternoon at Randi's single, beat 1 of 2 of the First Weekend Back reconciliation; the pivot. Randi coaches; the confidante track produces the act that saves the relationship. Panel two: **Randi POV**, close third, continuous — the foyer and the kitchen after Vee has gone; Brooke is present (Vee is not).*
 
 ---
 
@@ -124,4 +124,74 @@ Vee read the quiet as discretion, the one thing even Randi kept behind the door.
 
 Randi came back up into her smile. "He was perfect. Truly. A masterpiece." A beat, a tip of the hand. "Everywhere but the bedroom, and the bedroom's the room I actually live in. What's a girl to do?" And Vee laughed, really laughed for the first time all day.
 
-They stood, and Randi pulled her in one more time, and this hug went as long as the first, Randi holding on like she'd missed her every bit as badly, and when it broke Randi kissed her goodbye, unremarkable now, only what they did. Then Vee went down through the front hall and out into the cold with a plan sitting where the wreckage had been, and walked back to the dorm to sleep. Tonight she would shower, and dress, and be the thing. Tonight she would go to him.
+They stood, and Randi pulled her in one more time, and this hug went as long as the first, Randi holding on like she'd missed her every bit as badly, and when it broke Randi kissed her goodbye, unremarkable now, only what they did.
+
+Randi walked her down. Down the narrow back stairs and along the landing and into the foyer, where the composites hung in their rows, fifty years of sisters in their black drapes, every one of them photographed looking slightly to the left.
+
+Vee got her hand on the latch and did not open it.
+
+What came up in her had no shape. An hour ago she had been wreckage on a bed with no plan and no end to it, and now there was a plan, and there were shoes, and there was tonight, and all of it had come out of this house and this woman, and she could not walk out into the cold with only thank you.
+
+So she turned around and went back.
+
+She got her arms all the way around her and held on and said it into her hair, thank you, thank you, and then she took Randi's face in both hands and kissed her.
+
+She only knew she wasn't finished. So she stayed, and Randi's breath stopped against her mouth, and Randi's hands came up and shut on the back of her coat, and under all those framed faces Vee kissed her best friend until the thing in her chest had somewhere to go.
+
+Then she let go and laughed at herself, wet-eyed. "Sorry. God. I'm such a mess."
+
+"Go and sleep," Randi said.
+
+Then Vee went out into the cold with a plan sitting where the wreckage had been, and walked back to the dorm to sleep. Tonight she would shower, and dress, and be the thing. Tonight she would go to him.
+
+---
+
+The latch went over and took the cold with it, and Randi stood a moment with her hand still flat against the door.
+
+That girl had kissed her.
+
+She put the back of her hand to her own mouth, which was a thing she had not done since she was fifteen, and stood in the empty foyer doing it. Her mouth was warm. Vee had gotten both hands up onto her face like she was something worth holding still, and had taken her time about it, and had not been embarrassed until afterward, and the afterward was the least interesting part of four months.
+
+Four months of being the one who leaned in. Four months of a girl who held still for it and was sweet about it and thanked her and never once started it.
+
+She had her hand on the door and she came back.
+
+Randi laughed, one short idiotic sound out loud in a hall with nobody in it, and heard herself do it, and did not care. Somewhere behind the noise a sentence was trying to assemble itself, something with *means* in it, and she left it where it was and ran her thumb along her own bottom lip instead.
+
+There was matcha in the kitchen. Somebody always made it and nobody ever drank it. She wanted a mug of it in both hands and twenty minutes where nobody talked to her — she wanted to sit down somewhere warm and hold on to this.
+
+She went down the hall with her heart going like she'd come up three flights.
+
+Brooke was at the counter.
+
+"Is she all right?" Warm, as ever; the warmth got there before she did.
+
+"She will be." Randi reached a mug down out of the cupboard. Her hands were not entirely hers.
+
+"Good. She came in looking like the end of the world." Brooke watched her do it, pleasant, in no hurry at all. "I'm glad she's had you for the rough patches." A beat. "A boy, isn't it?"
+
+"It is."
+
+"Mm." Brooke let that sit. "You always say goodbye under the composites."
+
+Randi turned around with the mug in her hand.
+
+"We do," she said. "She's my friend."
+
+Nothing moved in Brooke's face. She ran a house of ninety and she knew to the inch what every room in it was worth.
+
+"I like her," Brooke said. "I want you to know that first. I think she's lovely and I'm glad she's had you." One shoulder climbed. "And I've seen how that girl looks at you. I'm not going to stand here and pretend I don't understand it. If she looked at me like that—"
+
+"Don't."
+
+"—I might be tempted myself." The warmth never moved.
+
+The mug was cold in Randi's hand and she had not put anything in it.
+
+"So play," Brooke said, kind as anything. "God knows. Play all you want, privately, or for the boys, and not one girl in this house will say a word to you about it, and I'll say less than any of them. That isn't what I'm asking." The curious bright note came up, the *can I ask* face, warm the whole way. "I'm asking whether you want to keep your position."
+
+Randi heard herself say that she did.
+
+"Good," Brooke said, and touched Randi's arm once going past, and went out through the archway, and her voice carried on into the common room, bright, saying something to Sloane about a form.
+
+Randi put the mug back in the cupboard, and went up the stairs, and shut her own door behind her.
