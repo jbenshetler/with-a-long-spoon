@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 29213b289a6d · 2026-10-07*
+*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c177611de749 · 2026-10-07*
 
-REACTION:
+REACTION
 
-God, I love Sheri. I need Sheri to follow him around with a bullhorn for the rest of this novel.
+Good. *Good.*
 
-Pace is sitting there in this beat-up diner, completely miserable because his perfect little sanctuary blew up in his face, trying to build his little mathematical wall of logic. *I’m there every weekend! I give her the weeknights! I told her she’s the most important thing!* He sounds just like every controlling man who thinks that providing good service and high-grade physical devotion substitutes for giving a woman real, equal standing in his life. He really thought he could lawyer his way out of a broken heart.
+I needed to see him bleed, and god, did he bleed. He drank himself sick, threw up in his bathroom, cleaned it with bleach until the bucket foamed, and then sat there choking down boiled, unseasoned gym-rat chicken while his hands shook so hard he couldn't hold his fork. And then—the sound of a truck on the highway that wasn't hers, and he just broke completely in half over his cold coffee and sobbed until he couldn't breathe.
 
-And Sheri just cuts his legs right out from under him: *"Then not saying it matters more to you than having her. And I'll tell you—from this seat, that feels pretty shitty."*
+I don't feel smug about it, either. That’s the terrible thing. I wanted him punished for hiding behind his little semantic walls, but reading him actually unravel inside his own empty house hurt like hell. Because it’s real. It’s not an act he’s putting on to manipulate someone; nobody was there to see him cry.
 
-BAM. Dead center. Thank you! It *is* shitty. Because he *can't* say it, and we know exactly why he can't say it—because saying it blows up the little threesome game he cooked up with Randi back in September. He has painted himself into this disgusting corner where he actually misses Vee, he's actually in love with her, he can't even stand a crowded room without wishing she was there so he could hear her whisper—and he’s still letting his own stubborn cowardice keep him from her.
+Sheri was an absolute godsend in that diner. Every single word out of her mouth was a bullet straight through his defenses. When he started laying up his neat little bricks—*I’m there every weekend, I told her she’s the most important thing, she gets the philosophy of my food*—Sheri looked him right in his stupid, handsome face and said: *"Get over yourself."* And then the kill shot: *"Then not saying it matters more to you than having her. And I'll tell you—from this seat, that feels pretty shitty."* THANK YOU, SHERI. Call him out! Drag him into the daylight! He needed someone who doesn't want to fuck him to look at his noble-martyr logic and tell him it’s pure, unadulterated bullshit.
 
-What broke my heart, though, is the contrast between Chapter 52 and Chapter 53. Vee was lying in her childhood bed in Ohio, literally torturing herself imagining him cooking for some tanned, blonde fantasy girl, feeling completely discarded and small. And here he is, miles away, sitting across from a tomboy friend who's stealing his french fries, telling her straight out: *"I want Vee. I miss her."* He is completely gone on her. When Sheri teased him about her body and he snapped back, *"Her name is Vee,"* my stomach flipped. That tenderness, that absolute fierce protectiveness—it’s why I can't quit him, even when I want to strangle him.
+And now we finally get the ghost in his machine: Daphne. The girl who taught him how to survive college, the only girl he ever told he loved, who walked away and left him so wrecked he convinced himself the *words* were the weapon. That if he just withheld the three words, the loss wouldn't kill him. It’s pathetic, it’s cowardly, and it makes complete, agonizing psychological sense. He built this entire fortress of control, this entire sick game of sharing and orchestrating and emotional withholding, just because a girl broke his heart at nineteen and he swore he’d never be defenseless again.
 
-He’s an idiot, but he’s an idiot who is genuinely in love with her. He's suffering. Good. Let him suffer a little more, and then let him figure out how to grovel.
+He knows he loves Vee. He admitted it to himself right there at the kitchen table. He knows he had the words ready on the porch and choked them down out of pure, selfish terror.
+
+He broke her heart to save his own skin, and now he’s sitting in a cold house with boiled broccoli, dying inside every time an engine passes on the road. Now what are you going to do about it, Pace? Are you going to keep hiding behind your frozen meal preps, or are you going to go get your girl?
 
 GATE 53 — The Usual
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Sheri calling Pace out on his absolute bullshit was pure satisfaction, and seeing how genuinely miserable he is without Vee makes me desperate to see them collide when the new semester starts.
+WHY: Seeing Pace finally stripped of all his control—called out ruthlessly by Sheri, drinking until he pukes, and sobbing over his kitchen table when a passing car isn't Vee—was utterly gripping, necessary medicine. He finally admitted he loves her and that his silence was cowardice, and now I need to see what he does when the term starts.

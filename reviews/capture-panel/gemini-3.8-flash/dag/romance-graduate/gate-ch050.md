@@ -4,17 +4,15 @@ REACTION
 
 *“Words are cheap, and you still won’t spend them on me.”*
 
-God. Jesus Christ. Put that on a billboard, carve it into my skin, put it on the grave of every situationship that ever tried to gaslight a woman with bespoke cooking and good head. What an absolute knockout of a line. I gasped out loud in my empty bedroom.
+Holy *shit*. I felt that line straight down in my marrow. That is an absolute haymaker of a line.
 
-This whole confrontation was agonizing because they are *both* so completely who they are, and neither of them is lying, and that’s what makes it fatal. Pace honestly believes—in that brilliant, broken, hyper-contained math-brain of his—that the curated heat, the dialed-up thermostat, the seared chicken, and the hours of devotion on his sheets are the highest, purest truth he can offer a human being. *“Believe what I do.”* He really thinks action is the only currency that doesn’t lie. But Vee is twenty-one, and she lives in a world with daylight and parents and Cassie sitting by a cracked window, and a love that can only exist behind a deadbolt with the music drowning out the woods is just… a gilded quarantine.
+My chest hurts. I have been waiting for this exact, terrifying reckoning, but seeing it arrive so starkly—no bed, no food, her coat buttoned to the throat, the overnight bag left deliberately in the Corolla—completely leveled me. The tragedy of this chapter is so layered it’s almost unbearable. Vee is fighting for her goddamn life, fighting for the dignity of a label, for reality, for an anchor out in the cold world that Cassie and her father live in. She wants to be a girlfriend. She wants a declaration. And every single argument she makes is completely valid. She put his entire gilded cage into words: *“All of that is in here. Inside this house, with the door shut.”*
 
-And her point was so devastatingly sharp: *“All of that is in here. Inside this house, with the door shut. Out there, what are we?”* That is the exact horror of the cage she’s been living in. When she tried to describe it to Cassie or her dad, it flattened into something grubby—he feeds me and we screw. He gave her a whole awakening, he taught her tongue how to taste and her body how to come, and yet he leaves her so utterly unprotected in the daylight that she can’t even hold up a label to shield herself.
+And Pace! God, Pace. He is infuriating and tragic and so devastatingly true to himself. When he said, *“Do any of your friends have a relationship you’d rather have than this one?”* it was such a classic, brilliant, hyper-rational Pace response. To him, the math is settled. He cooks, he protects, he warms the house, he worships her skin, he holds her through the night. To his mind, actions are the only empirical proof that matters; words are just noise. But it’s also his cowardice. It’s his shield. Because giving her the word *“girlfriend”*—or the big three-word confession—means a social contract, and a contract means he’d have to confront the monster in the closet: Randi. He can't give her the word because the word would make him a cheater, a liar, a schemer. He hides behind *“words are cheap”* because the truth is too expensive.
 
-And the terrible irony hanging over this whole scene—the thing that made my stomach physically twist—is that *Randi* is the reason he can’t spend the words. He can’t say “you’re my girlfriend” or “I love you” because the board was already set with two queens in September! He’s managing a split-roster experiment! Vee doesn’t even know that the silence she’s bleeding over is a structural load-bearing wall for a three-way dynamic she hasn’t been invited to yet.
+And when she started crying, and his immediate, bone-deep reflex was to reach out with his hands to soothe her—to touch her, to let the physical warmth do the work of the soul—and she *refused* it? *“Not the hand in place of the word.”* Brilliant. Just brilliant emotional intelligence from this author. Vee finally drew the boundary. She refused to let his mouth and his hands drug her into submission again.
 
-When he reached for her at the end—when his arms unfolded and he lifted that miraculous, devastating hand to soothe her, to physically overwrite her mind with her body the way he *always* does—and she rejected it and threw open the door into the freezing cold? I wanted to stand up and cheer through my tears. Good for you, Vee. Don’t let him soothe the question out of you with an orgasm and a glass of wine.
-
-She walked. She left the bag in the car, didn't cross the mat, and walked out into the dark. My pulse is pounding. Where does she go now? Straight into the arms of Randi, who is going to play the sympathetic best friend while tightening the trap? God, I need the next page right now.
+She walked out into the freezing night, leaving the spiced chicken and the two poured glasses of wine sitting there on the counter. The house is warm, but she chose the cold. I am shaking. Where does she go now? Straight to Cassie? Or straight into Randi’s waiting, poisoned embrace? I need to turn the page immediately.
 
 GATE 50 — Believe Me
 DECISION: CONTINUE
@@ -23,4 +21,4 @@ NEXT: 10
 HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The absolute psychological precision of this fight was perfection—no cheap melodrama, just two fundamentally incompatible needs colliding. Vee walking out on his physical comfort because she refuses to accept silence in place of a name is the bravest, best thing she's done.
+WHY: The absolute psychological precision of this confrontation was breathtaking. Vee’s gut-wrenching counter to his deflection—"Words are cheap, and you still won’t spend them on me"—is the best line in the entire book. Masterful tension.

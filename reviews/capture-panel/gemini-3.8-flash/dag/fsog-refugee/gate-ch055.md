@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 122f2504f31e · 2026-10-01*
+*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0c32c42815d3 · 2026-10-07*
 
-REACTION
+REACTION:
 
-Oh God. Oh *God*. My pulse is still pounding.
+Oh, god. My stomach is in absolute knots. I feel like I just watched someone crawl through broken glass to drink a glass of water that I *know* has arsenic in it, and she's smiling because the water is so cold and sweet.
 
-I was terrified at the start of this. When Randi gave her that advice in the previous chapter, my stomach dropped because it felt like a trap—like Randi was sending Vee out as pure sexual bait, reducing her back down to an object, encouraging her to surrender every ounce of daylight ground she had fought so hard to claim on that doormat in December. I was bracing myself to be furious. I was bracing myself to watch Vee humiliate herself.
+The sheer physical heat of this chapter was off the charts. The masturbation scene in front of the mirror where she actively chooses to deny herself, winding the wire tighter and tighter so she can hand him the unspent fuse? Unreal. And then touching herself at seventy miles an hour on a pitch-black county road, the siren, the pure panic, the dark stain soaking into the satin lining of her church coat—it was breathless, reckless, completely unhinged in the best way. She owned her desire completely. It was hers. When she opened that coat on his freezing porch, in those ridiculous strappy heels, she wasn't hiding behind anything. And Pace dropping straight to his knees on the cold wood, putting his mouth on her while her nipples were literally freezing in the January wind? The sensory whiplash of that—the hot mouth, the freezing air, the open front door banging on its hinges—it wrecked me. It was everything I read this genre for: a man brought entirely to the floor by the sight of her, losing his legendary, terrifying control because he is genuinely starving for her.
 
-And then Vee owned it.
+And the tenderness after! The muffle of his voice against her breast, tucking her in, telling her the heels stay on, and then making scratch pancakes at midnight with melted butter and vanilla while she sits there bare under a blanket. When he dropped to his knee beside her chair and his voice cracked saying *I'm sorry, I missed you so much*—I almost forgot to breathe.
 
-The absolute *heat* of that mirror scene. Watching her take off the practical clothes, take off the safe choices, and touch herself—building that ache, leaning into the fullness of her own body, and then deliberately *stopping* because she wanted to hand the unfinished edge to him. That wasn't coercion. That wasn't a girl doing tricks to keep a man from straying. That was pure, unadulterated female desire, claimed from the inside out, terrifying and thrilling and entirely hers. And the drive out there! The sheer reckless, heart-in-throat panic when the siren whooped—I gasped out loud in my room.
+*Almost.*
 
-And then the threshold. When Pace opened that door with that polite, agonized, formal mask on—the wall he hides behind to keep from breaking—and she didn't argue, didn't plead, didn't beg for words. She just unbuttoned the wool and gave him the truth of her body.
+Because the tragedy underneath all of this is choking me. Randi handed her those shoes. Randi orchestrated this entire move. Randi sat on her bed, listened to Vee weep, and literally coached her into doing the *exact* thing that would reset the board without forcing Pace to say a single word. Vee walked out in December with a spine of pure steel, demanding a name, demanding reality: *"Words are cheap, and you still won't spend them on me."* And Randi convinced her that words were the enemy, that walking up naked on his porch was "brave," so Vee traded her boundary for pancakes and an apology that *still didn't name her*.
 
-And Pace broke. He didn't gloat; he didn't take it as a victory. He looked at her like a starving man who had just been granted mercy. The sheer desperation of that reunion—him dropping to his knees in the freezing draft of an open front door, the contrast of the biting January wind on her wet breasts while his mouth devoured her, his jeans tangled around his knees as he tried and failed to carry her to the bed—it was messy, raw, and completely unchoreographed. It was everything the polite, calculated society sex Randi had with John was not.
+Pace wept over his frozen chicken in chapter 53 because he knew he loved her and knew his Daphne-trauma made him a coward. But he didn't have to face that cowardice! He didn't have to reach out, he didn't have to risk a single thing. Vee showed up on his doorstep, served herself up on a silver platter, and let him completely off the hook. He gets the girl, he gets the mind-bending sex, he gets his domestic sanctuary, and he *still hasn't said he loves her*. He still hasn't called her his girlfriend.
 
-And the aftercare. *The aftercare.* Making her midnight pancakes from scratch, telling her to leave the ridiculous heels on, and then dropping to his knee beside her chair with his voice literally cracking: *"I missed you so much."*
+And Vee is sitting there so full of pancakes and relief that she thinks she won. She thinks she solved it.
 
-He still hasn't said "I love you." He still hasn't named what they are in the daylight. The trap is still waiting for them, and the secret pact with Randi is still ticking like a bomb beneath the floorboards. But for tonight, the warmth is so real, and the mutual adoration is so overwhelming, that I was crying right along with her into those pancakes. And Cassie's single, dry "Hmm" at the dorm desk on Sunday night was the absolute perfect punctuation mark.
+Meanwhile, Randi is playing chess. Randi knows Pace's buttons, Randi knows Vee's body, Randi got that devastating goodbye kiss under the sorority composites, and Randi literally sent Vee to Pace's bed wearing *Randi's shoes*. It makes my skin crawl even while my pulse is racing. Cassie looking at the sweatpants and the spike heels and just saying "Hmm" is the only sane reaction in this entire book. The reckoning is coming, and it's going to be an absolute bloodbath, but god help me, I could not tear my eyes away from a single second of this reunion.
 
 GATE 55 — Nothing Underneath
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension from the mirror to the doorstep was agonizingly hot, and the emotional payoff of Pace crumbling onto his knees at her chair was everything I read this genre for.
+WHY: The pacing and erotic tension of her drive and the doorstep reunion were completely electrifying, even while the dramatic irony of Randi's manipulation and Pace's ongoing cowardice broke my heart. I couldn't stop reading if I tried.

@@ -1,30 +1,28 @@
 *capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-07*
 
-REACTION
+**REACTION**
 
-Oh, wow. What an absolute knife-twist of a chapter.
+*Holy shit.*
 
-Coming off chapter 43—where Randi and Pace are literally fucking on the sofa, counting their conquests, obsessing over Vee's wet hair and her open mouth, running this sociopathic little masterclass in grooming—this study session in the library felt like walking a tightrope over broken glass. You think the trap is going to spring from the sex or the key to Route 614. You think the secret that blows up their dynamic will be the bed or the spanking bench.
+Coming straight off of Chapter 43—where Randi is literally bent over Pace’s couch, having the soul fucked out of her while whispering about how kissing Vee makes her wet, plotting this terrifyingly immaculate, bespoke seduction—to get thrown into a freezing academic glass box and watch the armor shatter? God. That was magnificent.
 
-And instead, the author hits Randi with the real world, and it hits her right in the teeth.
+This book is so fucking smart. It would have been so easy, so cheap, to have Randi be this frictionless sociopath right up until the threesome. The girl who drives the green Mercedes, spends hundreds on mimosas without blinking, and talks about getting bent over like it’s a tennis match. But here, the myth of her untouchable wealth and easy confidence takes a direct, lethal hit from a goddamn public record. Her father didn’t just take the money; he took *all* of it, fired the workers anyway, and slapped *her* name—Miranda—right on the entity. That green Mercedes, the designer coats, the endless brunches… they were bought on the backs of people like Cassie’s dad.
 
-*MIRA.* Her father’s companies, named after her, taking millions in government handouts while laying off everyone, right under Cassie's flat, unyielding stare. The absolute humiliation of that. Randi, who swans through life in a green Mercedes and gold sunglasses, whose whole terrifying power over Vee is built on being effortless, untouchable, and cosmically above the fray—and here she is, exposed in gray government type as the gilded product of a common corporate crook.
+And Randi *didn’t know*. Or at least, she didn't know the ugly, naked arithmetic of it until it sat there as a glaring outlier on a scatterplot. *"Cheating bastards."* God, you can hear the blood draining out of her ears. Two words, ragged, completely stripped of her velvet purr. The predator just realized the meat she’s been eating was poisoned.
 
-*"Cheating bastards."*
+And Vee! My sweet, brilliant, observant girl. In the bedroom she’s soft and pliable, but put her in front of a spreadsheet and she sees *everything*. She clocks the shift in Randi’s breathing, she reads the screen, and instead of pouncing or gossiping, she protects her. She slides the laptop over, creates cover fire, and lets Randi put her mask back on. The sheer emotional intelligence of that move broke my heart. Vee loves this woman. She loves her with this fierce, tender protectiveness that Randi doesn't even deserve, and yet Randi is back at 614 letting Pace stretch her out while they plan how to peel Vee open.
 
-Two words. Ragged, ugly, completely unpolished. For the first time in this entire book, the predator's mask slipped, and the little girl whose dad bought her silence with stolen money stood right there in the glass room.
+The dramatic irony is so thick I could choke on it. Cassie sitting there completely vindicated, utterly blind to the personal kill-shot she just delivered across the table; Randi humiliated and exposed in the one currency she thought she mastered; and Vee standing in the middle, shielding the very person who is setting her up for slaughter.
 
-And what does Vee do? Vee doesn't gloat. Vee doesn't even point it out to Cassie. She covers for her. She pulls the laptop toward herself, she gives Randi busywork so her shaking hands have somewhere to go, and she decides in her sweet, starving, generous heart that the kindest thing to do is protect Randi from the shame.
+Zero physical heat in this chapter, but my pulse was racing the entire time. It’s the second quiet chapter after the couch, but it doesn't drag for a single second—it's a tectonic plate shifting under the entire foundation of the book.
 
-It broke my heart. Vee is so profoundly decent. She sees someone wounded and immediately steps into the line of fire to shield them, completely oblivious to the fact that the person she is protecting is spending her Sunday afternoons plotting how to bend Vee over a sofa with her boyfriend.
+***
 
-The dramatic irony is so thick you could choke on it. Randi thinks she’s playing 4D chess with a naive little country girl, but Vee’s emotional intelligence—her pure, instinctual grace—just saved Randi from being obliterated in front of Cassie. It shifts the power dynamic in a way Randi doesn't even know happened. Vee is no longer just the lamb. She’s the only real adult in the room, and none of them see it yet. God, this book is so smart.
-
-GATE 44 — The Outlier
+**GATE 44 — The Outlier**
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
 HEAT: 0
-ROMANCE: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The sudden collision of Cassie's working-class reality with the dirty truth of Randi's gilded life was masterfully handled, and watching Vee instinctively protect Randi without realizing the predator she's sheltering was breathtaking. It completely reframes Randi's untouchable armor.
+WHY: The tension here was masterclass—watching Randi's untouchable, gilded world shatter on a public spreadsheet while Vee quietly shielded her was more gripping than a sex scene. I am dying to see how this fracture plays out when Randi runs back to Pace's bed.

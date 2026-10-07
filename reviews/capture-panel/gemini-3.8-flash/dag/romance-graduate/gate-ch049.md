@@ -2,15 +2,11 @@
 
 REACTION
 
-*“And it was warm because she was warm. That was the thing she couldn't stop feeling once she'd felt it — the heat in the shirt was her own, given back. He wasn't in it.”*
+Oh, this broke something in me. That tiny detail—*the heat in the shirt was her own, given back*—is utterly devastating. It’s the sharpest, quietest puncture wound this book has delivered yet.
 
-God, that just hollowed me out completely.
+For forty chapters, we’ve watched Pace build this astonishing, suffocating palace out of bespoke silk, slow-simmered sauces, and immaculate, tender worship, and Vee has been gorging herself on it because she was so goddamn starved. And now, stripped of the sex, stripped of the warm kitchen and the low lamplight, lying in a twin bunk in a freezing dorm room, she realizes she is hugging an empty sleeve. She’s keeping his shirt warm with her own body heat. He’s asleep in his house in the woods, unbothered, while she is literally starving again in the dark—not for food, not for an orgasm, but for reality.
 
-This chapter is tiny—barely two pages—but it hits like an iron weight dropped directly onto the chest. It’s the exact, devastating hangover from the Chili's disaster and that hollow, frantic sex afterward. She spent all of chapter 45 practically weeping with relief because he put the flannel on to scent it for her, treating it like some holy relic that would keep her safe through the cold nights away from 614. And now, lying in a narrow dorm bunk with Cassie breathing two feet below her, the magic spell is completely broken. The flannel isn't a hug; it's just cotton. The heat isn't his devotion; it's just her own body temperature trapped against herself.
-
-And then she takes it off. Strips it right over her head and chooses to freeze. *“His shirt she left where it fell, beside her, not folded, not set back on the pillow, down in a heap where a dropped thing lands.”* That is monumental for Vee. She reinterprets and excuses *everything* Pace does—she treats his home like a temple and his habits like scriptures. To watch her rip his smell off her skin and throw it in a crumpled pile in the freezing dark because she finally realizes that *doing* things isn't the same as *naming* them? That his unshakeable peace, his ability to just fall asleep without a single doubt in his head, is actually an indictment? It’s agonizing.
-
-She has the phone in her hand. She looks at the blinking cursor. And she has the grown-up, brutal realization that you cannot text a man into loving you, and you can't ask a question when you know the answer will just be a warm, evasive pat on the head. Pace gave Randi four orgasms and whispered filthy, possessive things about Vee while sliding into Randi on that couch, but to Vee, he offers exquisite lemon chicken and deafening silence where his heart should be. She feels the cage now. She doesn't know Randi has the key yet, but she knows the bars are there. My thumb is twitching to turn the page.
+And pulling it off. Leaving it in a crumpled heap and just lying there bare in the draft from Cassie’s two-inch window crack, choosing to freeze rather than pretend the ghost of him is keeping her warm—that is the first real act of emotional defiance she’s had. It’s so short, barely two pages, but it’s completely necessary. She’s finally hitting the bottom of the gilded cage. I need the next chapter immediately.
 
 GATE 49 — Bare
 DECISION: CONTINUE
@@ -19,4 +15,4 @@ NEXT: 10
 HEAT: 0
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: It’s a short, quiet chapter, but the psychological break is massive. Watching her realize the heat in his shirt is just her own body warming empty cotton—and then stripping it off to freeze rather than pretend—is devastatingly good. I need to see what she does in the morning.
+WHY: The psychological precision of her stripping off his flannel because she realizes the warmth inside it is just her own body heat was breathtakingly good. Short, bleak, and absolutely essential.

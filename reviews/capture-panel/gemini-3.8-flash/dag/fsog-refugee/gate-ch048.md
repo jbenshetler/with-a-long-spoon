@@ -1,18 +1,16 @@
 *capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
-REACTION
+REACTION:
 
-God, this hurt. This actually made my chest ache.
+Oh, god. This hurt. This hurt so much worse than a screaming fight, because it’s the quiet, bleeding truth of what happens when a girl is in so deep she’s picking fights she doesn’t even want just to see if the walls are real.
 
-Vee picking a fight because she’s practically vibrating with panic over how much she loves him—and how asymmetrical it feels—is so painfully, brutally real. She’s spiraling because she gave him her “best sentence” on the porch two chapters ago, the most vulnerable thing she had, and he gave her back *“I love how good we are together.”* An evasion! A careful, terrifying evasion! So of course she picks at him. Of course she demands to go to a damn Chili’s on Route 460 just to force him into the harsh fluorescent daylight, just to test if she’s only a dirty secret or a body he keeps locked up in the woods.
+When she snapped in the dark—*“If we’re just sex, I’d like to know”*—my whole chest seized. It was unfair, it was sharp, she was rewriting the past because she was terrified, and what did Pace do? He didn't yell. He didn't get defensive. He went still, took her seriously, and offered to take her wherever she wanted *right now*. That’s him down to his bones: a problem presented, a problem solved. But a noisy Chili's booth under blaring TVs and dead nachos can't fix a soul that is starving for emotional definition. Seeing him struggle with sensory overload, his eyes dragged to the screen, the fork being turned over and over—and her misreading his sensory exhaustion as boredom with *her*—was agonizing.
 
-And then the Chili’s scene was so excruciatingly well observed. The sensory overload hitting him, the screens, the sports, the cheap salt-and-yellow-dye nachos tasting like literal cardboard and ash to her now because *he* ruined her palate for anything less than real attention and real care. She wanted to prove he didn't want to be seen with her, but what she actually proved was that the outside world is loud and stupid and doesn't know how to hold them. When he told her, *"In a room like that I listen as hard as I know how and I still can't hear you... I'm listening now,"* I nearly put my hand over my mouth. That’s him. That’s the core of why I love Pace: he doesn’t get defensive, he doesn’t posture, he just tells the absolute, quiet truth and listens.
+And then the quiet in his living room when he just laid it out: *"That restaurant—places like it—they're too loud... In a room like that I listen as hard as I know how and I still can't hear you."* God, I love him for that. He isn't cruel. He isn't dismissive. When he listens, he listens with everything he has.
 
-*Except.*
+AND YET.
 
-Except the lie of omission is poisoning the well, and she can feel the poison even if she doesn't know the name of it yet! That’s the tragedy of that ending. She gets the incredible, breathless sex—she gets him losing his legendary control, undone by her, pouring into her—and instead of floating, she lies there in his drying sweat feeling the cold dread of having no name for him. She’s realizing that great sex and tender attention can still be a cage if you don't know where you stand. She’s his, but does she have *him*?
-
-She doesn’t know about Randi. She doesn’t know about the setup. But her gut is screaming at her that something foundational is missing, that he’s holding the ultimate door shut. She thinks it’s just the words *I love you* or *boyfriend*. She has no idea the real secret sitting in the dark of that house. It makes the tenderness between them feel so fragile and tragic, like glass about to shatter. I need to be there when the hammer falls.
+The end of this chapter ripped me up. She gets the incredible, tender, completely shattering sex—she gets him losing his ironclad control, which she had been practically begging for—and then she’s lying there, sticky with him, cooling off in the dark, and the bottom falls out. *"He had the whole of her, and what she had of him she could not have held up to anyone, could not have proved."* That is the loneliest sentence in this entire book. She's his in every physical, emotional, spiritual way, but she doesn't have a *name* for him. She can't tell her dad. She can't say "boyfriend." And underneath all of this, the reader knows what she doesn't: that the reason it has no name, the reason he won't say *I love you*, is because she is trapped in a design she doesn't even know exists. He took her apart, gave her everything, and held back the one thing that would make her safe. I am aching for her.
 
 ***
 
@@ -21,6 +19,6 @@ DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The emotional ache of her wanting the words he won't say—and her intuition warning her that something is fundamentally unbalanced—makes the intense heat and the looming secret almost unbearably gripping.
+WHY: The psychological honesty of Vee picking a fight out of sheer emotional starvation, contrasted with the sheer physical intimacy of him losing his control in bed, was excruciating and brilliant. I desperately need to see when the truth finally cracks open.
