@@ -1,26 +1,16 @@
-*capture-dag-v2-rich · gate ch055 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 31b6f0d0e4ef · 2026-10-07*
+*capture-dag-v2-rich · gate ch055 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1011072a47a5 · 2026-10-07*
 
-REACTION —
+REACTION — Oh, this one got me. It hit that very specific post-break limbo so hard: the plane, the frost on the car, the same Friday road with nowhere for the wanting to land. Vee thinking she’s fine until the drive knows better than she does — yes. That is exactly how grief works when your body has a route memorized.
 
-Oh, this one got me in the ribs and then immediately made me nervous.
+And then Randi. God. I am so mad at how good she is at this, because she *is* good. She meets Vee where she is, wipes the panic clean, separates fear from fact, gives her back Pace not as a fantasy but as someone wounded and stubborn and probably still hers. I could feel myself being persuaded right alongside Vee. The “fear needs a face” thing was almost too accurate. And then Randi steers her straight toward the coat-and-heels move, and my whole body went yes/no/yes. It is manipulative. It is also exactly the kind of sexual bravery Vee has been learning to want. That is the horrible deliciousness of Randi: she can be wrong ethically and still dead right about what will unlock Vee.
 
-Vee coming back from the airport wrecked, with that awful hollow-campus feeling, was almost too familiar. The empty dorm room, Cassie gone, no text from him, the whole place containing Pace but not for her. I felt so protective of her. She has spent the whole break trying to logic herself out of wanting him, and of course she can’t. The silence has become its own weather. By the time she gets to Randi’s, I wanted someone to just put a hand on her and say, “You’re not crazy, but you’re also exhausted.”
+The coat plan is hot, obviously. Not just because of the image, though yes, absolutely because of the image. It’s hot because Vee has to walk herself through shame to get there. The book understands that the charge is not “woman wears nothing under coat,” it’s “woman who has been trained to call that degradation chooses it as courage.” That’s the thing I keep coming for.
 
-And Randi is so good at that. Maddeningly, dangerously good. She does exactly what Vee needs in the moment: gets her upstairs, shuts the door, holds her, lets her fall apart, then takes the panic apart piece by piece. I felt myself softening even while the alarm bells were ringing. Because Randi is not wrong about Pace. She knows him. She knows the cornered stillness, the wall, the way his silence is not indifference. She gives Vee back the real evidence instead of the nightmare evidence, and I loved her for that.
+But the real turn was the kiss. Vee coming back because thank you was not enough, taking Randi’s face in both hands, kissing her under the composites — I actually sat up. That was not Randi coaxing one more inch. That was Vee initiating. Messy, grateful, erotically confused, emotionally overflowing, but hers. And Randi alone afterward, touching her mouth like a teenager? I loved that too much. It made her naked in a way the Gstaad bedroom didn’t. She is not cool-girl-ing her way through this anymore. Vee has power over her now.
 
-But then. But then.
+Then Brooke walked in and the room chilled. Not because she was cruel — she wasn’t — but because she named the social machine Randi lives inside. “Play all you want” is such a pretty little knife. It made the sorority house suddenly feel like Randi’s parents’ table in another dress: warmth, manners, surveillance, acceptable versions of desire. And Randi’s “She’s my friend” landed as defense, lie, prayer, and trap all at once.
 
-The coat plan is so hot and so loaded and so perfectly aimed at Vee’s shame that I almost felt manipulated right along with her. “Words are the whole war” is a gorgeous, terrible little sentence. Because yes, in one way, it’s brilliant: Pace speaks with bodies and food and rooms and heat, and Vee arriving bare under a coat is a peace offering in the only language he has been brave enough to use. I can feel why it would work. I can feel Vee’s mortification turning into want, which is very much this book’s voltage.
-
-But I also hate that Randi is steering her away from the thing she actually asked for. Vee needed words because the body-language life wasn’t enough anymore. Now Randi is sending her back through the body door. It may be exactly the scene I want to read next, and it may also be a little trap. Delicious, morally slippery, emotionally unfair. So, yes, I’m already turning the page, but I’m side-eyeing the matchmaker with my whole soul.
-
-The New Year story being retold to Vee hurt in this clever, layered way. Vee hears fairytale; I remember the cold in Randi’s body after. Vee hears a man building a future out loud and aches for that ease; I know Randi found it empty. The book is letting everyone envy the wrong room from the outside. Vee envies Randi’s visible life. Randi wants Vee’s alive, dangerous wanting. Pace wants the girl he hurt and cannot quite reach. Nobody is standing where they think the warmth is.
-
-And then that kiss under the composites. Oh. Finally Vee moves first. Not carefully, not “for the boys,” not in the brunch rhythm Randi can pretend to manage. She turns back because gratitude and need and love and panic all need somewhere to go, and she puts both hands on Randi’s face. I actually sat up at that. Randi’s private reaction afterward was the most exposed she’s been in chapters: delighted, stunned, fifteen years old for half a second, trying not to let the word “means” form. That felt like a real turn.
-
-Then Brooke. Brooke scared me more than she threatened me, because she’s warm and correct and political. She sees everything. “Do you want to keep your position?” is such a clean little blade. Not scandal, not morality, not disgust. Just: know the house you’re standing in. Know what can be tolerated as play and what cannot be allowed to become visible truth. It snaps Randi right back into the approved-world machine she just came home from. Brutal.
-
-So now I’m split wide open: I want the coat scene with Pace immediately, because obviously I do. I also want Randi not to disappear behind strategy again. Vee thinks she is going back to solve Pace. Randi thinks maybe Vee’s kiss means something. Brooke has reminded Randi that “meaning” has a cost. This chapter has the heat of the next chapter already breathing on it.
+I want tonight with Pace so badly I’m almost annoyed the chapter ended before it. But I’m also carrying dread, because if Vee arrives bare under a coat trying to say “peace” with her body, and Pace still cannot spend words, I may throw the book across the room. Also: when Vee finds out Randi helped shape this reconciliation while wanting her herself, and while Pace and Randi have their own hidden arrangement? Oh, that reveal is now loaded with explosives.
 
 GATE 55 — My Friend Randi
 DECISION: CONTINUE
@@ -28,5 +18,5 @@ CAPTURE: 9
 NEXT: 10
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "You don't do it with words. Words are the whole war."
-WHY: That line nearly made me pull back because it sends Vee away from the exact dignity she fought for, but the chapter knows it’s dangerous, and that’s why I’m hooked. The kiss with Randi is a real turn in the bond, and the coat plan has me absolutely needing the next door opened.
+ALMOST-STOPPED: "You backed him into a corner in his own house. Name it or lose me — the one thing he can't do."
+WHY: I bristled there because Randi was reframing Vee’s legitimate need as something done *to* Pace, and I don’t fully trust her mercy when it benefits her game. But the chapter absolutely had me: Vee choosing the kiss, Randi being knocked breathless by it, and the coat plan pointing straight at Pace made my thumb move on its own.

@@ -1,30 +1,28 @@
-*capture-dag-v2-rich · gate ch055 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 31b6f0d0e4ef · 2026-10-07*
+*capture-dag-v2-rich · gate ch055 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1011072a47a5 · 2026-10-07*
 
 **REACTION**
 
-Okay. The first half of this chapter is the best Randi has ever been, and I hate that I can't trust a minute of it.
+I'm so glad I read 54 before this. I know he sobbed over a cold bowl of chicken when a truck went past. I know he thinks "Whiskey River" lied to him. Vee spent a whole drab day on her dorm bed building him a blonde, and I wanted to reach through the page and tell her. So when Randi took that blonde apart piece by piece, *"How do you know any of that?"*, I was grateful. It's the best thing Randi has ever done for her. "Fear needs a face to point at, so you gave it one." That's true and it's kind, and she pushed the hair off Vee's face. She swept the Gstaad dresses onto the floor without a glance. For a while I let myself just love her.
 
-She takes Vee upstairs away from the eyes, holds her past where a hug stops, sweeps the Gstaad dresses onto the floor, and then does what I've been begging someone to do. She walks Vee back through the last night slowly: the heat brought up hours early, the wine already poured, "most important thing in his life," *those words*. Then she makes Vee stand where Pace stood. "Cornered." "That's a boy holding himself still so it won't show how much you got him." It's exactly right. I just watched him sob over a cold bowl of chicken because a truck didn't turn in. And "Don't you dare hand him to a woman who doesn't even have a face." Meanwhile I know Sheri is across a diner table telling him about Paige and her bird prints. The imaginary blonde getting taken apart was such a relief.
+Then I started listening to how she knows all this. "That's a boy holding himself still so it won't show how much you got him." She knows because she's on his couch on Mondays. She's reading him to Vee from the inside and Vee thinks it's wisdom. Then the turn I didn't like: *"You don't do it with words. Words are the whole war."* No, Randi. The words are the whole point. Vee walked out of that warm house because he wouldn't spend one word on her. Now the one person she trusts tells her to stop asking, to turn up as the answer in a coat with nothing under it. That gives him a pass, and it keeps the frame Randi lives inside nice and quiet. Then the heels, hooked on two fingers, "just the thing for tonight," and "Randi always knew the shoes." I don't trust those shoes. Will he recognize them? Is that a message to him that Vee is carrying without knowing it?
 
-But Randi knows exactly how right she is because she's on his couch every Monday, and Vee thinks she's hearing a friend's good instincts. "Dynamite in bed. I'm so jealous I could scream." Ha. Ha.
+Here's the thing, though. The coat scene didn't play as coercion with a wink, and I'd have left if it had. The shame came up in her mother's voice, and the wanting came up right behind it, sharper for it. "She was going to do it. She'd known it since the coat, maybe." That's her own wanting, written from inside her. Randi walked her past the part of her that would rather die, but the want was already Vee's. I believed it. I'm a little turned on by it and a little furious about who handed it to her, both at once.
 
-Then the coat. This is where my stomach turned, and I can name why. Sheri sat across from Pace and said *say it*. Randi sat across from Vee and said *words are the whole war*, don't ask. So the fix for these two is that the girl stops asking for the word and shows up bare instead. She's handing him the answer so he never has to give one. That's what scared me. And Randi does her old trick again. She sets out the coat and lets the sentence hang until Vee finishes it herself, the practice room and "you only gave him *half*?" all over again. "Decided for her and by her at once": the book knows exactly what it's doing there, and I'll give it that. Vee's shame flipping into wanting is hers, rendered from inside, and I believe she wants to go. I just watched someone plant the want first. And "Pace is not going to... say no." Isn't that the whole point of him, that he could?
+The New Year story: "Everywhere but the bedroom." I read 51, so I know that's a lie. The bedroom was fine. *She* felt nothing, and Pace and Vee were the two names that came to her in the dark. Vee laughing at it hurt a bit.
 
-And the heels. "Just the thing for tonight." Randi's shoes walking up to his door, after Randi knelt and buckled the last pair onto her foot. Is that a signal? Will he recognize them? I'm suspicious of everything she hands over.
+Then the kiss. Vee went BACK. Hand on the latch, turned around, took Randi's face in both hands. Four months of Randi leaning in, and Vee started one. Randi's hands closing on the back of the coat. Randi touching her own mouth like she's fifteen, laughing alone in the hall. For one paragraph Randi was just a girl who got kissed, and it was lovely, and I wanted her to have it.
 
-Then Vee turns around at the latch, goes back, takes Randi's face in both hands and kisses her. Vee starts it. After four months of holding still, she reaches. I made a noise out loud. And Randi with the back of her hand to her mouth like she's fifteen, the idiotic laugh in the empty hall, the sentence with *means* in it that she won't let finish. That's the most tender thing that's happened to Randi in the whole book, and it was given to her, not engineered. I loved her for one page without a single reservation.
+Then Brooke, warm the whole way down. "Play all you want, privately, or for the boys." That's ugly. Brooke isn't confused about anything. She's telling Randi what Vee is allowed to be in that house. The empty mug was perfect. The last thing Randi was holding on to got taken off her in the kitchen.
 
-Then Brooke. "Play all you want, privately, or for the boys." "Whether you want to keep your position." Cold. Kind as anything, all the warmth arriving first, and it's a threat. I finally understand the cage Randi's in, the composites with every face turned slightly left. I'm scared for her now, not just of her. She put the empty mug back in the cupboard. God.
+What I'd text at 1 a.m.: *she's going to his door tonight in a coat and Randi's heels, and he's been sobbing at his kitchen table, and Randi just told her to stop asking for the word right when he was ready to say it. I can't put it down.*
 
-At 1 a.m. I'd text: *Vee KISSED RANDI first. and Randi talked her into the naked-coat thing so Pace never has to say I love you, and I can't tell if it's sabotage or the most loving thing she's capable of. also the sorority president is a villain in a cardigan.*
-
-It's been five chapters since Vee and Pace were alone in a room, and I've felt every one. Tonight she walks to his door. I'm not putting this down.
+It's five chapters since the two of them were alone in a room, and that one was the door closing. I feel every one of them. Tonight is the next chapter. I'm going.
 
 GATE 55 — My Friend Randi
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 10
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "You don't do it with words. Words are the whole war." For one second the book was asking me to cheer her giving up the only thing she asked him for.
-WHY: Randi reading Pace correctly to a girl who doesn't know how she knows was almost unbearable. Then Vee reached first and Brooke showed us the cage, and I could have hugged the book. I'm terrified the coat lets Pace off the hook, and I have to see him open that door.
+ALMOST-STOPPED: "You don't do it with words. Words are the whole war." For a second I thought the book was going to agree with her.
+WHY: Vee kissed Randi on her own nerve, and the shame-then-want under the coat was hers, from the inside, so I'm not leaving. Randi steering her away from the one thing she actually asked Pace for is exactly what I'm afraid of. I need to see his face when he opens the door, and whether he says it anyway.

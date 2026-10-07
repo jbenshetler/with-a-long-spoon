@@ -1,18 +1,25 @@
-*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 31b6f0d0e4ef · 2026-10-07*
+*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1011072a47a5 · 2026-10-07*
 
-REACTION
+REACTION:
 
-Holy shit. My chest is actually pounding.
+*Oh my god.* My chest is pounding. I have so much to say I don’t even know which wire to grab first.
 
-First of all: *Vee initiated the kiss.* After months of Randi being the predator, the coaxer, the one choreographing every inch of contact and leaning in while Vee merely accepted it like a sweet, grateful puppy—Vee turned around at the door, took Randi’s face in *both hands*, and kissed her until the ache had somewhere to go. The absolute whiplash of Randi standing in that foyer, touching her own mouth like a stunned fifteen-year-old, laughing out loud to an empty room—that was exquisite. Randi’s entire armor just cracked wide open. She spent the whole chapter being the brilliant, manipulative mastermind—cleverly diagnosing Pace’s neurodivergent shutdown, validating Vee’s fear, coaching her to show up naked under a coat to bypass his silence—only to get completely leveled by the one variable she never accounted for: Vee wanting *her* on her own nerve.
+First of all: Randi. The sheer, terrifying brilliance of Miranda. Watching her sit on that messy bed, pushing the designer clothes from Gstaad onto the floor like trash because *Vee* is what matters, and meticulously disassembling Vee’s panic—it was masterclass manipulation wrapped in genuine, desperate love. She took Vee’s very real, very legitimate boundary (*“Words are cheap and you still won’t spend them on me”*) and reframed it as Vee "blindsiding" a poor, devoted boy who was just freezing behind a wall because he was so cornered. She convinced Vee that her demand for self-respect was just "fear talking," and walked her straight into the ultimate submissive sacrifice: show up naked under a coat, bring him peace, give him your body so he doesn't have to give you words. It is so diabolical, and yet—Randi is doing it because she *needs* Vee back in Pace’s orbit. Because Pace’s house is where Randi gets to have her too.
 
-And Randi sending Vee to Pace naked under a trench coat! It is so diabolical, so generous, and so completely toxic. Randi is literally handing Vee the keys to Pace’s surrender (*"Words are the whole war... show up already being the answer"*), practically gift-wrapping Vee for the man they share, while secretly holding the memory of Vee’s mouth on hers. It’s breathtaking psychological chess. Randi knows Pace can’t resist that physical surrender, but she’s also feeding the fire that is going to consume all three of them.
+And then—the kiss in the foyer. *Holy shit.*
 
-And then BROOKE. Jesus Christ, Brooke. That ending made the hair on my arms stand up. The sheer sorority-politics brutality masked in Southern-belle honey: *"You always say goodbye under the composites."* Brooke clocked it. She saw Vee take Randi’s mouth in front of fifty years of framed sisters. The casual, polite threat—*play for the boys, play in private, but do you want to keep your position?*—reminds you instantly of the gilded cage Randi operates in. Her father is a crook, her status is on the line, she’s falling in love with a girl who just kissed her for the first time, and she just sent that same girl to Pace’s doorstep naked.
+Four months. Four months of Randi carefully engineering touches, leaning in, kissing Vee on the cheek, testing the water, and Vee turns around from the doorknob, takes Randi’s face in *both hands*, and kisses her mouth until her chest stops hurting. The way Randi reacted after Vee walked out—standing alone in that foyer, touching her own bottom lip, making that "short idiotic sound" of pure shock and triumph—I had absolute chills. Vee didn't just accept it; Vee initiated it. The monster just got everything she dreamed of, handed to her on a silver platter.
 
-I cannot breathe. I need to see Vee arrive at 614 *right now*.
+And then Brooke walks in and drops a concrete slab on the whole thing.
 
-***
+*“You always say goodbye under the composites.”*
+*“Play all you want, privately, or for the boys... I'm asking whether you want to keep your position.”*
+
+I stopped breathing. The ice in Brooke’s polite, sorority-president warmth! Brooke saw it. She’s probably seen all of it. In this world of gilded reputations, you can play "for the boys" (performative college-girl bisexuality to turn men on), but the moment it’s real—the moment a girl grabs your face and kisses you under fifty years of framed alumni—it threatens the house. The threat wasn't even veiled. It was an absolute checkmate.
+
+So now look at the board: Vee is going back to her dorm to shower, put on Randi’s heels, and drive to 614 naked under a coat, completely unaware that Pace just spent the morning weeping over cold chicken because he loves her and can’t say it. She thinks she's surrendering; he’s already broken. And Randi is upstairs behind a shut door, her lips still buzzing from the girl she is desperately in love with, holding the loaded gun Brooke just put to her head.
+
+Turn the page. I need tonight. I need the door at 614 opening *right now.*
 
 GATE 55 — My Friend Randi
 DECISION: CONTINUE
@@ -21,4 +28,4 @@ NEXT: 10
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee taking Randi's face in both hands and initiating the kiss was the emotional earthquake I've been waiting fifty chapters for, and Brooke catching them under the composites was an absolute masterstroke of tension. Now Vee is heading to Pace naked under a coat—I couldn't put this down if my house was on fire.
+WHY: The tension is coiled so tight it’s vibrating. Vee taking Randi’s face and kissing her on the mouth, followed immediately by Brooke’s chilling, velvet-gloved sorority blackmail, took this book to an absolute boiling point. And now Vee is heading to Pace naked under a coat while he’s still shattered from losing her—I cannot turn the page fast enough.

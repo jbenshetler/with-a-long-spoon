@@ -1,18 +1,16 @@
-*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 31b6f0d0e4ef · 2026-10-07*
+*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1011072a47a5 · 2026-10-07*
 
 REACTION:
 
-Oh my god. *Oh my god.* I am gripping my phone so hard my knuckles are white. This chapter was an absolute masterclass in tension, manipulation, and sheer emotional agony.
+Oh my god. *Oh my god.* My jaw is literally on the floor.
 
-First of all: Vee going to Randi was the exact trainwreck I knew was coming, and watching it happen was like watching someone walk into an open trap with a smile on their face. Randi is terrifying. She is *so* brilliant and so completely toxic. The way she broke down Vee’s defenses—validating the hurt just enough to steer the narrative, pointing out that Pace is starving for her, dismantling the "Sheri" fear (which, the dramatic irony of Sheri actually just being a blunt diner buddy while Randi herself is the real viper in the bed!), and then... the trench coat. "You just show up already being the answer." Randi literally handing her the script, the heels, the entire weaponized submission fantasy, deliberately telling Vee to throw away the words. Randi knows *exactly* what Pace's weakness is, and she is curating Vee’s surrender like an art director setting up a scene.
+First of all: Vee taking Randi’s face in both hands and kissing her in that foyer. *Vee initiated it.* After four months of Randi circling her, choreographing the steps, leaning in, calculating every inch—Vee turned around from the door, walked back, and kissed her out of sheer, overflowing emotion because she couldn't leave without giving something back. And Randi standing there alone with the back of her hand pressed to her mouth like a stunned teenager, laughing an idiotic little laugh in an empty hallway? That cracked Randi wider open than anything in Gstaad. The sheer erotic charge of that moment didn't come from nudity or dirty talk; it came from the fact that Vee did it purely on her own nerve, and Randi's entire polished, manipulative game plan just blew up in her face because her heart (and her body) actually caught up to the scheme.
 
-And then—THE KISS.
+And then—Brooke. Holy shit. That was chilling. Brooke standing by the matcha, wearing that impenetrable sorority-president smile, wrapping a velvet garrote around Randi’s neck: *"Play all you want... I'm asking whether you want to keep your position."* That is terrifying. Standards chair, the spotless reputation, the family expectations—the trap is closing in from the outside world now, too.
 
-I literally gasped out loud at 1 a.m. *Vee initiated it.* She had her hand on the latch, turned around, walked back, put both hands on Randi’s face, and kissed her mouth until the thing in her chest had somewhere to go. The sheer heat of that moment, the raw vulnerability of Vee crossing that line herself, and Randi's utter shock—standing in the foyer touching her lip like a stunned fifteen-year-old—it completely short-circuited my brain. Randi thought she was the puppet master orchestrating this neat little threesome game, and Vee just blew the doors off her entire emotional reserve.
+And then there's the tragedy of what just happened in that bedroom. Randi gave Vee incredible, perceptive, deeply loving comfort—she read Pace's shut-down silence to absolute perfection (she knows him, after all), dismantled Vee’s 3 a.m. terror about Sheri, and rebuilt Vee’s confidence from the ash heap. But she also handed Vee a loaded gun and pointed it straight back at Pace: *Show up bare under a coat.*
 
-And the ending! Brooke stepping out of the shadows with that polite, smiling sorority steel. "Play all you want... I'm asking whether you want to keep your position." Chills. Real, genuine chills. Randi is playing with absolute fire on three different fronts now: her feelings for Vee are officially out of her control, Vee is heading to Pace's house naked under a coat on Randi's advice, and the house leadership just clocked the whole damn thing under the composites.
-
-I cannot breathe. I need the next chapter immediately.
+My stomach is twisted in knots. On one hand, the romance reader in me is screaming because Pace has been literally weeping over cold chicken and broccoli, half out of his mind with misery, and when he opens that door tonight and sees Vee standing there in that coat and Randi's black heels, it is going to be explosive, tender, gut-wrenching heat. But on the other hand... Vee walked out because she wanted words. She wanted to exist in the daylight. And Randi just talked her into capitulating entirely with her body: *"You don't do it with words. Words are the whole war."* Randi is sending Vee to Pace's bed as a peace offering, and Vee is terrified and thrilled and walking right back into the sanctuary without solving the core wound—all while carrying Randi's taste on her lips and Randi's shoes on her feet! The dramatic irony is so thick I can barely breathe. Pace is going to break when he sees her. I need to see him open that door right now.
 
 ***
 
@@ -23,4 +21,4 @@ NEXT: 10
 HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight it's vibrating. Vee initiating that kiss on Randi, Randi sending her straight to Pace's door naked under a coat, and Brooke dropping the velvet hammer in the hallway—this is peak drama, messy and electric, and I couldn't put it down if I tried.
+WHY: The tension is coiled so tight it's vibrating—Vee kissing Randi in the foyer blew the emotional stakes wide open, Brooke's threat just raised the real-world cost, and now Vee is heading to Pace's doorstep bare under a coat while he's completely wrecked inside. I couldn't stop reading now if my life depended on it.
