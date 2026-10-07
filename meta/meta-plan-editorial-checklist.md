@@ -38,7 +38,7 @@ mark items done with dates as they complete.*
   instrument is blind to: a fact established in one chapter **contradicted in
   another**. The linter has a closed vocabulary, the lore-keeper only answers
   what it's asked, and a cold reader holds no other chapter in memory — none of
-  them can see it. Worked case: `not-enough.md`, where Pace waits for a truck
+  them can see it. Worked case: `the-usual.md` panel two (scanned as `not-enough.md`; merged 2026-10-07), where Pace waits for a truck
   turning in four lines before *her car* finds the drive, and Vee drives a car.
   Tool `tools/fact_audit.py` / `/wals-fact-audit`; per-model ledgers in
   `audits/fact-audit/<model>/`; state: `audits/fact-audit/STATUS.md`. Runs
@@ -48,7 +48,7 @@ mark items done with dates as they complete.*
   than one lands on. **Over-flags by design — the author rules on every item.**
   Token rule: subscription lanes are the default; OpenRouter is paid and
   author-authorized only. **In progress — first ten chapters audited by five
-  models (+`a-round`, `not-enough` by sol alone), 2026-09-19; nothing ruled with
+  models (+`a-round`, `the-usual` panel two by sol alone), 2026-09-19; nothing ruled with
   the author yet. Dates are out of scope for this pass** (the whole-book
   timeline sweep above owns them).
 - [ ] **Orphaned-reference sweep (Lane B)** — text still pointing at something

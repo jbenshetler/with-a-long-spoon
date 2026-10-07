@@ -424,7 +424,7 @@ replying to a takedown notice is the only appeal. So ask first. Send from
 **Scope discipline (2026-09-13, revised — author ruling: "if there is a second
 chapter they might flag, let's disclose rather than hide").** The email quotes
 **both** Volume 1 chapters that touch the backstory, each unedited:
-`rock.md` (the ages, no sexual statement) and `not-enough.md` (the word *lover*,
+`rock.md` (the ages, no sexual statement) and `the-usual.md` panel two (the word *lover*,
 no age). An earlier draft omitted the second on the grounds that it was
 immaterial to the question asked; that was decided while it was believed to be
 Volume 2 material outside the test. It is Volume 1 and in the beta manuscript,

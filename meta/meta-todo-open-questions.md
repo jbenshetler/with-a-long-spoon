@@ -534,6 +534,12 @@ the drafted Volume Two chapters were read against it.
 > checkpoint seed policy for boundary 60 seeds from 'not-enough' (ch050), but
 > drafted Volume One ends at 'nothing-underneath' (ch052)
 
+*(Quoted verbatim as the harness emitted it. As-of note 2026-10-07: that slug no
+longer exists — *Not Enough* was merged into {{The Usual}} as panel two — and
+both numbers are two shifts stale (+1 at 43, −1 at 54). The seam is now
+`nothing-underneath` at ch055. **The open question is unaffected**; it is about
+volume length and decade boundary having come apart, not about these numbers.)*
+
 **The decision is the rule, not this instance** — volume length and decade
 boundary have permanently come apart and will diverge again on the next
 insertion. Options: mint a volume-terminal `ck-ch052` and make the seam always
