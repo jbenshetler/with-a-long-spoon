@@ -54,6 +54,6 @@ what keeps the turn deniable). Author rulings recorded 2026-08-20.*
   every review and every review named it as *text-earned* ("earned, on the page";
   "controlled and earned, not thumb-on-the-scale"). "In Randi's skirt the wanting
   wasn't hers to answer for" — borrowed permission — landed as the chapter's engine.
-- **Brooke's double-reading** (kindness in omitting the December visit vs. "exactly
+- **Brooke's double-reading** (kindness in omitting the Jan 15 visit vs. "exactly
   how complete her file is") — readers split by design; both readings alive, neither
   forced.

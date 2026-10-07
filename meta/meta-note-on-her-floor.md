@@ -83,9 +83,11 @@ reusing it would read as repetition rather than return.
   double-reading as a confirmed positive; this makes the second reading load-bearing
   rather than merely available.
 
-## Open
+## The omitted visit is January, not December
 
-- `meta-triage-on-her-floor.md` calls the omitted visit **"the December visit,"**
-  but the prose says *"the day two weeks back"* — Jan 16 from a Jan 30 mixer, i.e.
-  {{My Friend Randi}} (Fri Jan 15). Probably a stale label; author to rule, since
-  triage entries are authorial decisions.
+The visit Brooke declines to mention is **{{My Friend Randi}}, Fri Jan 15** — the
+prose says *"the day two weeks back"* and the chronology puts this mixer at Sat
+Jan 30. `meta-triage-on-her-floor.md` carried it as "the December visit"; corrected
+2026-10-07 (the chronology rules on dates). This matters beyond bookkeeping: the
+omitted visit is the same afternoon as Brooke's *"You need to choose,"* so her
+silence two weeks later is about an afternoon she **used**, not merely one she saw.
