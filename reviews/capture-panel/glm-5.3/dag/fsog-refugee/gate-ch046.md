@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch045 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-01*
+*capture-dag-v2-rich · gate ch046 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-07*
 
-REACTION — A whole chapter of two girls at a cafeteria table and it got me more than half the "eventful" ones this stretch, because it's all undercurrent. Vee laying out exactly what she shows her father and what she crops — the dress stopping at the waist, "the parts that fit" — and realizing alongside me that her whole family lives inside the cropped version now. That's the photo motif paying off in a way I didn't see coming: chapter 41 she sends the uncropped self to Pace, chapter 45 her parents get the cropped one. The book is quietly telling me who gets the real Vee and who gets the world's copy, and I felt that in my chest.
+REACTION: This is the chapter I wait for in every one of these books without knowing I'm waiting for it — the one where she tries to say him out loud to someone clean, and finds there's no word in her mouth for him. The conversation with Cassie at that cafeteria table did something to my chest. "I think I put a question mark on it. Out loud. Like I was asking them." That's the "maybe" from my notes, still unbroken, still costing her. She tells her parents *boyfriend?* and I sat there thinking: Vee, you sleep whole nights in his house. You made him wear the flannel so you could breathe him on the nights he isn't there. The word is not the problem — the word for what he is doesn't exist in Cassie's frame, and Vee knows it, and that's why "both" came out of her.
 
-The "boyfriend?" with a question mark out loud, like she was asking them — that's the "maybe" breaking open in public, and it ached. She says "Peter" to the dark and "maybe" to Cassie and "boyfriend?" to her parents, and the distance between those three words is the whole love story right now. I want her to get to the real word and I'm bracing for what it costs.
+The detail that got me most wasn't the sex part at all — it's the dress. "He made the dress" being the unsayable thing. She's exactly right about her father, and the book is exactly right about her: sex he understands, the sewing he never would. And *I* understand why it's unsayable, because the sewing is the most naked fact in the whole book. A man who noticed one sentence you said about a magazine and went quietly to a machine on a sun porch. That's not a boyfriend. That's the drawer, the scrunchies, the juice before anything — a whole language of making places instead of talking, and she can't translate it to anyone who hasn't lived inside it.
 
-Also: Pace made the dress. On a machine. On his sun porch. Because she mentioned a magazine once. Of course he did — he's the drawer man, he makes places instead of talking — and Vee's right that her dad would handle "he undresses you" better than "he sewed for you." That's the truest observation about tenderness this book has made: the care is the thing that doesn't fit anywhere, and weird IS worse than wrong to people who've never seen it. I loved that laugh it pulled from Cassie because I laughed too.
+And Cassie. "So what is he. Not to your dad. To you." Careful, exact, not prying — she asked the only question that matters and then *took the non-answer kindly* and went back to her plate. "She was grateful. She was also, a little, not." Oh, that landed. Because Vee wanted to be made to say it. She wanted someone to hold the door open a second longer. Cassie won't push because Cassie is clean, and Vee is starving for exactly one person to push.
 
-And Cassie. She's so careful here — "Is it that you can't say, or that you don't want to?" — and doesn't push, and I'm sitting there with my stomach tight the whole scene because she's the clean table and she's now one question from the edge of everything. She still doesn't know about Randi. She doesn't know about the weekends. And the day she finds out is still the day I cry in public. Nothing happened and I was on edge the entire time anyway, which is the book working.
+What I'm suspicious of, underneath all the warmth: this chapter exists to show me the distance between Vee's real life and every version of it anyone else can hold. Her parents have the cropped photo. Cassie has "boyfriend?" Nobody has the whole frame. And I know from the jacket that Randi and Pace have the *whole* frame — they had it before she did. The person who could actually hear all of it is the person running the con. That's sitting in me cold while the soup of the chapter sits warm.
 
-Cassie's "they don't quite see me as an adult yet" and Vee editing herself for her dad — these two are both living cropped lives, and neither of them said so to the other. That's friendship as real as this book does.
+Also the cropped picture for Mom — "the version they have stops at the waist" — after the chapter where she gave him the uncropped *everything*. The book is rhyming on purpose. What she sends to the world vs. what she sends to the people she's chosen. I saw it, Helen Rivers. I see you.
 
-GATE 5 — Cropped
+GATE 46 — Cropped
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
+CAPTURE: 6
+NEXT: 6
 HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: No heat at all and I didn't miss it — the care is all on the page, and the cropped/uncropped idea landed like a quiet bell. I'm keen for the next one because the Cassie thread just got pulled tighter and I can feel the book winding something.
+WHY: No heat at all and I didn't miss it for one second — the flannel is still warm from last chapter and this is the emotional fallout chapter I'd have read twice anyway. The "what is he to you" question is now formally on the table with Cassie holding it, and I want to see whether the "maybe" breaks next.

@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch043 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-01*
+*capture-dag-v2-rich · gate ch044 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-07*
 
-REACTION — Oh, this one got me, and not in any way the jacket promised, which is sort of what I love about this book. A glass room and a graph, and my heart was in my throat more than it's been since the drawer.
+**REACTION**
 
-MIRA. Four letters, and I watched the color leave her before Vee fully did. The book did such a cruel, perfect thing with "Cheating bastards" — two words with nothing practiced in them, "aimed too near to be meant for strangers." That's the whole Randi problem in one line, isn't it? Everything she says to Vee is smooth, worn, aimed — and the one true thing she's ever said in this book came out ragged and by accident, in front of the one person who was watching her instead of the screen. Vee saw the real Randi for one unguarded second, and it cost Randi nothing, because Vee *covered* for her. Slid the laptop over, gave her hands something to hold, didn't say the name. That's love. That's the quietest, most grown-up act of love in the whole book and nobody in the room called it anything.
+Oh, this book. This *book*. Just when I'm floppy and fed from two chapters of him — the photo, "Remembering you is a pale thing next to you being here," and then that whole Randi chapter that turned me inside out — it goes quiet on me. Cold lecture hall, group project, and I'm sitting there thinking okay, a breather chapter, fine, the care is on the page in small ways, Vee in the middle seat of her two friends...
 
-And I can't stop layering it against what I already know. Randi's father — the mouse-that-roars story, the ex over her knee — I'd filed her as the con's architect, the one with her hand on everything, and now: a man she had "the luck to be the daughter of — no hand in it, none of it earned." She knows what it is to be lied to by a man who's supposed to be keeping you safe. She learned her control somewhere. The puppeteer has a origin wound with her name on it, and I felt my read of her wobble — mercy and harvest again, and now a third thing, something older than both.
+And then MIRA.
 
-Also, the class: "here we argue with data, not with analogies." The book is being cheeky with me. The outliers. "You could set those aside if you could account for them." Randi is the outlier of the whole story and the plot just told me so to my face. And Vee, who "argued with data" — she read the record before she understood she was reading it. That's been true of every con so far; she keeps seeing one layer and not the one above it.
+I actually put the book down for a second. Randi's *father*. Her father took the money — the thing she was so glossy and certain about, "the story is more complicated than any one number," and it's *her* county, her family's companies, sitting off in the white where the professor said the outliers sit. "Cheating bastards" with no "these" to hold — Vee heard it land wrong and I heard it land wrong. That's the best sentence in the chapter, the way the missing plural makes it naked.
 
-Cassie — "flat, no handle left out for anyone to pick it up by," the laid-off dad just set on the table. She still doesn't know a thing, and she's sitting three feet from both women who are everything. The three of them in the cold hall, and only Vee knows how much is in the room. The dramatic irony is getting heavy enough to bend the shelf.
+And Vee. My girl. She didn't look away, she didn't say the name, she gave Randi "somewhere to put her hands" and carried it for her without ever making Randi know she'd seen. That's not the Vee of September. That's a woman who knows what it costs to be seen and chooses *not* to. There's a whole education in that move, and I'm not sure the book knows how much — or maybe it does, because that last line, "invisible if you didn't," is doing the same thing to *me* the whole con has been doing. Randi's fingerprints on everything and Vee thinks it's one hand. Randi's whole shining certainty about the world, and it's her own father on the wrong side of the graph. This woman is made of money she won't take from anyone at brunch — won't let anyone near her check — and I suddenly want to re-run everything I know about her through this. "She's alone." "You've been starving your whole life and calling it fine." A rich girl whose father did this with it.
 
-Zero heat this chapter and I didn't miss it for a second — although "keep not winking" applies: Randi's stillness, Vee noticing she leaned the half-inch at brunch... that thread is being laid strand by strand and I can feel the weight of it. Also noted the irony I'm *sure* the book meant: Randi defending the loans all semester, "We'll see," certain — and certainty is her currency, and the data foreclosed on it.
+And it was Cassie — clean Cassie, who "didn't carry things into rooms she meant to walk out of" — who aimed the whole project at that point without knowing. The laid-off father on the right, the loans on the left. Vee loves them both and the room "stepped somewhere she couldn't follow." I love that the book puts her in the middle seat and *means* it now.
 
-GATE 43 — The Outlier
+Meanwhile my lonely-romance clock is quiet-ticking — Pace hasn't been in the room since the top of the chapter and Randi hasn't been alone with *him* since chapter 43 — but honestly, after that chapter, I don't need him this second. The hum just changed key. I don't know if this is the third game the jacket promised, but something got raised and not opened, and I'm in for it.
+
+GATE 4 — The Outlier
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 7
+NEXT: 8
 HEAT: 0
-ROMANCE: 2 — not romantic love, but Vee's silent covering for Randi is the tenderest beat between them yet, and it's a turn in that bond whether Vee knows it or not
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: A chapter with no heat that still put my heart in my throat — Randi cracked open for real for the first time, and Vee's response was love without a name on it. I read for exactly this underneath the heat. I want to see what Randi does next with the fact that Vee is the only person who could have seen her.
+WHY: Zero heat and I still couldn't put it down — the MIRA reveal landed like a car door slamming, and Vee's grace in handling it was the tenderest thing in the chapter. The con's hum just got a new engine, and I want to see what Randi does with what Vee saw.

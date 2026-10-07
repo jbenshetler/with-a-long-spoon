@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch046 · claude-opus-4-8 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-01*
+*capture-dag-v2-rich · gate ch047 · claude-opus-4-8 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-07*
 
 REACTION
 
-Oh, this is the one. This is the chapter I've been reading toward since the seam first showed, and it came in the quietest possible wrapper — a cold porch, a shared quilt, a moon over the mountains, his rough hand warm on her shin. No dress, no swat, no table. Just a girl who built a sentence.
+Oh, this one got me in the chest and then it got me somewhere colder.
 
-And God, the sentence. She can't say *I love you* because there's a rule — "the rule was that he said it first, and she did not know the rule was a rule until she had bumped against it from the inside." That line went straight through me. That's the whole book in one sentence. She's living inside a structure she didn't build and only learns the walls are there by walking into them in the dark. So she does this heartbreaking, resourceful thing — she assembles a sentence *around* the words, a load-bearing beam that'll carry the meaning without tripping his rule. "I had been eating crackers my whole life. And you fed me a meal." She carried it for weeks. She memorized it like a poem. She finally pushed it out into the cold air with her cheek on his shoulder.
+Because here's the thing — I know what she did. I watched her build that sentence. Weeks of it. Running the words in different orders, feeling the heat come up her neck at just the *imagining* of it. And she was so careful. She didn't even let herself say the real words — she built a whole safe house *around* them, "I'd been eating crackers my whole life and you fed me a meal," checked it twice to make sure it couldn't be mistaken for *I love you*, made it small enough to survive, large enough to carry. That's a girl handing over the most defended thing she has and pre-apologizing for it in the architecture. I wanted to put my hand on her.
 
-And he didn't say it back.
+And he took two breaths. The book made a point of that — *she had not heard him do that before.* He heard it. He knew exactly what she'd handed him. And what he gave back was "I love how good we are together" and "what your body does — I've never." He answered a confession of love with a performance review. *The sex is great and I'm glad you feel it too.* He changed the subject from *her* to *it.* From *you* to *we-are-good-together,* which is a thing you say about a tennis doubles pairing.
 
-That's the event. That's the whole event. He took two breaths she'd never heard him take — the book let me see him *register* it, see him clock exactly what she'd handed him — and then he reached for the easy thing and said "I love how good we are together," and then, worse, "What you do — what your body does." She offered him her whole self in a cracker and he answered with her body. He heard it. He chose the deflection. The two breaths prove he heard it, which is what makes it unforgivable instead of oblivious.
+And the book KNOWS. That's what's clawing at me. It didn't let him off. It gave her the little *wait* behind her breastbone, the body registering before the mind would let it. It gave her the laundry room two days later — "the two things had not been the same shape." It named the rule she didn't know was a rule until she bumped it from inside: *he says it first, and he hasn't, and so she can't.* That is the exact machinery of the whole genre's worst move, except here it's being shown to me as a trap instead of sold to me as romance. She has a *place she puts things she doesn't know what to do with,* and the chapter tells me the place is *not empty.* Small flickers. Repair work her picture of him has had to do all fall to keep functioning. He joined the pile. She doesn't look at the pile.
 
-And here's why I'm not gone, why I'm actually leaning *in*: the book knows. For once the dread isn't sitting in the next room with Randi, or in Cassie's dry mouth, or bolted under the floor in a folder. It's in *Vee.* "Something else was beginning to move... a small *wait*... *what did he—*." She feels the shapes not matching before she can name it. And then the laundry room two days later — the dryer going, the sentence coming back to her on its own, "The two things had not been the same shape." She's doing the arithmetic I've been doing for ten chapters. She's filing it into "the place she put things she did not know what to do with," and the book tells me straight out: *the place was not empty.* There are already flickers in there. Repair work. She's got a whole drawer of small damage she's been quietly patching over.
+So here's where I land, and it's not where I expected. Three chapters ago I'd have told you the carry-forward worry was that the book would ask me to be happy for her vanishing with no counter-voice. This is the opposite. The counter-voice is *loud* now, and it's finally *hers* — not Cassie's, not mine, not Sheri doing arithmetic. Vee herself stood in a laundry room and let *not the same shape* form in her and then flinched off it because "either end of it hurt." That's the most awake she's ever been. And it breaks my heart precisely because she filed it instead of following it.
 
-This is the opposite of my exit line. My exit was the day it touches her tender with no counter-voice anywhere and asks me to be glad she's vanishing. This chapter is tender on the surface and the counter-voice is *her own,* finally, loud and clear and unresolvable — "the one person who could resolve it was the one person she could not ask." That's not the book winking along. That's the book handing me Vee's own held breath.
+And chapter 43 is still sitting in me like a stone under all of this — I know now, from Randi's side, that the goodbye kiss is "work," that "somebody has to get her used to my mouth," that Pace and Randi chose her off a lawn together and the pointing was just to confirm they'd picked the same girl. So when Vee builds her trembling little sentence and he can't say it back — I don't read him as a shy man who can't do feelings. I read him as a man who structurally *won't*, because the plan doesn't run on him loving her, it runs on her loving him. The drawer, the shirt he wore two of, the slow mornings — all of it is him being the most attentive man alive at everything *except* the one sentence that would make this real in the direction she needs. He gives her everything that costs him nothing and withholds the only thing that would.
 
-What I'd text at 1 a.m.: *she wrote him a whole poem so she wouldn't have to break his stupid unspoken rule and he answered it by talking about her BODY and she KNOWS, she knows the shapes didn't match, she's standing in a laundry room doing the math — I think she's starting to wake up and I don't know if I can watch it but I cannot put this down.*
+The scrunchie carton. The cropped photo. The weight. And now: she offered him the whole of herself in a metaphor and he graded the mattress.
 
-The cracker-and-meal "retired into her body." She tried once. She won't try again. That's the saddest line in the book and the most alive she's ever been, both at once.
+What I'd text a friend at 1 a.m.: *He heard her say I love you in the only way she could and he said the sex is great. And she KNEW. She stood in the laundry room and knew. And she put it on the pile and folded her towels.* I'm not angry at the book. I'm frightened *with* her, which is different, and it's the thing I came back to this genre hoping a book could still do.
 
-GATE 46 — Seconds
+GATE 47 — Seconds
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: This is the chapter I've been waiting forty-six chapters for — the wrongness finally naming itself from *inside* Vee, not from Cassie or Randi or a folder, and the book standing with her instead of winking past her. He heard the "I love you" she'd disguised as a meal and answered it with her body, and she knows, and she can't ask — I'm not setting this down now.
+NEXT: 8
+HEAT: 1
+ROMANCE: 1
+ALMOST-STOPPED: none — though the line I circled to leave on, if it ever comes, is nowhere near here; this chapter did the exact opposite, it put the dread inside *her* and let her name it.
+WHY: She built the bravest sentence in the book and he answered it with a review, and the book made me feel the gap land in her own body and get filed unresolved — that's the trap I left the genre over, shown to me as a trap, from inside the girl. I'm not being asked to find his disregard romantic; I'm being shown her notice it and look away, and I have to know whether she keeps looking away.

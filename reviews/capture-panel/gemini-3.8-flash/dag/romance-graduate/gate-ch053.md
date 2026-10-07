@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch052 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c1f15218cc12 · 2026-10-01*
+*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 29213b289a6d · 2026-10-07*
 
-REACTION:
+REACTION
 
-I needed this scene like oxygen. After watching Vee freeze in her childhood bedroom, spiraling in the dark and imagining Pace at the stove whipping up gourmet meals for some nameless, leggy fantasy replacement, getting inside his actual, unglamorous reality was pure catharsis.
+THANK GOD FOR SHERI. God bless this foul-mouthed, five-foot country lesbian in her two-toned perm and chambray shirt, inhaling a double cheeseburger and doing what literally no one else in this book has had the guts to do: taking a hammer to Pace’s precious, over-engineered bullshit.
 
-He isn't lounging in silk or effortlessly moving on; he’s sitting in a greasy double-wide diner off a country road, eating a cheeseburger across from a scrappy, foul-mouthed lesbian who sees straight through his polished intellectual armor and calls him out on his absolute nonsense. Sheri is the best thing that could have happened to this book right now. Watching her pop his balloon—laughing directly in his face when he started waxing poetic about the "philosophy" of his cooking—was deeply satisfying.
+*"Then not saying it matters more to you than having her. And I’ll tell you—from this seat, that feels pretty shitty."*
 
-Pace builds these elaborate, pristine walls of competence and care, convinced that doing everything right on paper exempts him from ever having to bleed. He truly thought laying out a tidy list of his domestic virtues and saying she’s the most important thing in his life was enough. And Sheri cuts right to the bone with surgical precision: if you won't say the words, then your stubborn, self-protective silence matters more to you than keeping her.
+Put it on a billboard. Carve it into the walnut bench. Frame it and hang it right over his stove.
 
-He knows it, too. You can feel the quiet terror in him when he admits he can't say it. He misses her, he’s miserable, and his own emotional cowardice is a prison he built with his own two hands. He couldn't handle Chili's because the noise drowned out her voice, but here in the quiet of an empty diner, the only thing deafening him is his own refusal to bend. The contrast between Vee's terrified fantasies of him moving on and his actual, lonely reality of nursing a glass of tea while someone tells him to get over himself is devastating.
+Watching Pace sit in that greasy-spoon booth and try to lay out his little bricks—*I was there, I gave her the weeknights for her school, I told her she was the most important thing in my life*—was agonizing because you can see his brilliant, autistic brain desperately trying to balance an emotional ledger that doesn't run on math. He really thought he could pay her in presence and call it even. And Sheri just immediately snorts, steals a fistful of his fries, and tells him to get over himself. *"The philosophy of your food. Lord almighty."* I barked out a laugh in an empty room. He needed that so badly. *We* needed that so badly after chapters of him floating around like an untouchable, benevolent sensuality guru.
 
-GATE 52 — The Usual
+He’s miserable. He misses her. He’s sitting there in a diner where he can actually hear himself think, wishing he could bring Vee there, terrified because he knows the silence that protects his arrangement with Randi is the exact silence that just broke Vee's heart.
+
+And then the casual, lethal little bomb Sheri dropped about Randi: *"She looked at me like I was one more of your harem applicants."* Randi really thought she was the queen bee playing 4D chess, strutting into that dance hall, while Sheri just clocked her from ten feet away as high-maintenance drama.
+
+This was the bridge we needed before the term starts. We saw Randi freeze in Gstaad realizing the "acceptable" life is dead to her; we saw Vee freezing in Ohio realizing she can't fit into her childhood bedroom anymore; and now we have Pace, stripped of his apron and his high-thread-count sheets, sitting across from the only person who doesn't want anything from him, admitting out loud that he is completely, utterly gone on this girl—and knowing he is the one starving her. The spring term is going to be an absolute bloodbath.
+
+***
+
+GATE 53 — The Usual
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
-HEAT: 1
+HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The outside perspective of a blunt friend stripping away Pace's intellectual rationalizations was desperately needed, providing essential emotional movement after the walkout.
-
-Would you like to discuss the next chapter?
+WHY: Sheri dragged Pace's emotional cowardice into the harsh fluorescent light of a double-wide diner and made him choke on it. He admitted out loud how hard he's gone on Vee, and seeing his airtight logic get utterly dismantled over a chocolate shake was immensely satisfying.

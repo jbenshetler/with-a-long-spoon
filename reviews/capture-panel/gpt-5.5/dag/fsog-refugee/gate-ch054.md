@@ -1,24 +1,18 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bff68c2a8905 · 2026-10-01*
+*capture-dag-v2-rich · gate ch054 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bff68c2a8905 · 2026-10-07*
 
-REACTION —
+REACTION — Oh. Finally. Finally he says it where I can hear him, even if Vee can’t yet, and I am so angry that it took her leaving and him apparently wrecking himself with whiskey and bleach and a miserable bowl of chicken to get here, but I am also relieved in my bones. Not because he has fixed anything. He hasn’t. But because the book has stopped letting him hide behind “I do things, therefore I don’t need words.” He knew. He knew on the porch that she had given him the big true thing and that he answered with the smaller truth. That matters to me. It hurts, but it matters.
 
-Oh. There it is.
+The Daphne piece clicked exactly where I expected it to and still got me. I believe him. I believe that the words got wired in his body to catastrophe, and that he made this private rule where not saying love meant loss stayed survivable. That is sad and human and very Pace, this man making a clean little theorem out of a wound. But the chapter also doesn’t let that become an excuse. “He had hurt her because he was afraid of how much she could hurt him.” That is the sentence. That is the one. It lets me keep loving him without letting him off.
 
-I needed this so badly from him, not because it fixes anything yet, because it doesn’t, but because the book finally let me inside the locked room and he knows. He knows he failed her. He knows the “I love how good we are together” was the coward’s answer, even if it was true. That matters to me. I have been so angry at him for standing there with all that tenderness and still letting her leave empty-handed, and this chapter didn’t excuse him, exactly. It made the wound make sense.
+And the engine on the road absolutely undid me. His whole body lifting before his mind catches up, because some stupid passing truck might be her. That is the kind of yearning I came for. Not slick, not performative, not “alpha” noise. Just a man alone at a table with food he doesn’t want, suddenly all animal hope because tires exist in the world. I wanted him punished a little, honestly, and then when he sobbed I got soft immediately, because of course I did. I am very predictable when a careful man finally breaks.
 
-The Daphne piece landed. Not melodramatic, not some grand tragic monologue, just: he said it once, she left, and his mind built a superstition around the words. I believed that completely. And I hated it for Vee, because she is not asking for magic. She is asking not to be made private and nameless. But I could feel the scared logic in him, and that pulled me right back toward him even while I’m still mad.
+I am still waiting for him to do the right thing where it counts. Knowing he loves her is not enough. Sobbing into chicken is not enough. Daphne is not enough. He has to go to Vee with words, and not in some oblique Pace way where she has to translate the care into a shape she can live on. But this chapter made me believe he can see the shape of his own cowardice now. That pulls me hard.
 
-The part that got me was the truck. His whole body believing for one second that it might be her. That was such a clean little knife. And then he sobs, and then he eats anyway. God. That’s Pace all over: the body must be tended, even when the heart is on the floor. Chicken and broccoli as punishment, as survival, as “everything a body could need and nothing his mouth wanted.” It made me miss Vee at that table almost as much as he did.
-
-Also, Randi’s cashmere blanket being there first thing. I saw it. I don’t know what happened last night, but bleach and whiskey and sickness and Randi’s after-blanket all in the same room is a whole bad weather system. I am not letting that detail go. The book is making me hold both things at once: Pace loves Vee, truly, and there is still this third game under the table that could wreck her.
-
-But yes, I’m relieved. Not comfortable. Relieved. He loves her. He knows he loves her. He knows silence was not noble. Now he has to get up and spend the word where she can hear it.
-
-GATE 53 — Not Enough
+GATE 54 — Not Enough
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
 HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: "Randi's cashmere blanket, the one for the chill that took her after, had slid off the foot of the bed in the night."
-WHY: That blanket made me tense because the secret arrangement is still breathing right there in his bedroom, but the chapter gave me the thing I needed most: Pace admitting, to himself, that he loves Vee and that he hurt her out of fear. I’m absolutely reading on because now the only question that matters is whether he can say it to her before the hidden game ruins the ground under her.
+ALMOST-STOPPED: none
+WHY: This gave me the missing inside of Pace without excusing him, and that is exactly what I needed after Vee left. There’s no erotic charge here, but the romantic charge is enormous because he finally admits, alone and plainly, that he loves her and failed her. I want the next chapter badly because now I need action, not just recognition.

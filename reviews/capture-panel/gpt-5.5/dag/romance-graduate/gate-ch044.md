@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-01*
+*capture-dag-v2-rich · gate ch044 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-07*
 
-REACTION —
+REACTION — Oh, this one got me in the ribs in a completely different way.
 
-Oh, this got me in a different place.
+After all the heat and Saturdays and Pace’s house, I honestly didn’t expect a statistics project chapter to make me sit up like that, but yes. Yes. This is exactly the kind of quiet chapter I forgive because it is not empty quiet. It has teeth. It takes the word “outlier,” which has been floating around like a warning light since earlier, and finally lets it cut somebody.
 
-I was braced for more heat after the last two chapters, honestly. The photo, the brunch, Randi looking too long, Vee taking that second of the kiss for herself — I came into this chapter with my little reader-body leaning toward the next charged thing. And then the book gave me a statistics project. Which, normally, would be where I start side-eyeing the ceiling. But damn it, this worked on me.
+And it’s Randi. Of course it’s Randi. The girl who always knows how to make a thing look true, suddenly confronted with the one point that is true in a way she cannot style, cannot charm, cannot soften. I felt almost protective of her here, which annoys me because I have been side-eyeing her so hard. But watching her go still over MIRANDA hurt. Not because she’s innocent in everything — she is very much not — but because this particular thing is not her sin, and yet it has her name on it. That is such an adult, ugly humiliation: your family’s money, your family’s lies, your own name printed neatly over damage someone else did.
 
-Because it’s still the same book. It’s still appetite and looking and being seen, just turned sideways into data. Vee between them physically, emotionally, morally: Cassie on one side with her laid-off dad and the flat truth of the thing, Randi on the other with family money and the beautiful confidence of someone who thought she knew what kind of people raised her. And Vee in the middle, again, loving both sides before she has the full map.
+And Vee. God, Vee was lovely here. This was one of those chapters where you see her growth without anyone announcing it. She notices. She understands enough. She does not pounce. She does not make Randi perform pain for Cassie’s politics or for Vee’s curiosity. She gives Randi somewhere to put her hands. That line, basically, is friendship. Real friendship. And it made me ache because Vee can be so perceptive and kind, and yet she still cannot see the enormous point sitting off by itself in her own life. She can read Randi’s face over a laptop, but not the whole Randi/Pace shape around her. That dramatic irony is getting delicious and unbearable.
 
-Randi getting hit by her own name in the data made my stomach drop. Not because I care about PPP loans as plot, exactly, but because the chapter made it feel like watching someone’s expensive, polished story crack in real time. “Cheating bastards” was so ugly and small and perfect. That is the first time in a while Randi has felt young to me. Not dangerous-glittering, not managing the room, not leaning over Vee with a line already loaded. Just a daughter seeing the family machine from the outside for maybe the first time.
+Cassie being right also mattered to me. The book doesn’t make her wrong to protect Randi’s feelings. Her dad was laid off. She has the clean anger of someone who has already paid for somebody else’s polished story. And Randi’s little inherited-business certainty cracks in front of her. Nobody is cartooned here, which is why I’m still reading.
 
-And Vee. God, Vee. Her tenderness here is so instinctive it hurts. She sees enough to understand, and then she immediately protects Randi from being seen. That little move of sliding the laptop toward herself and giving Randi tasks — that is love, or friendship, or both, in the most adult form Vee currently has. No dramatic confrontation, no “are you okay,” no making Randi perform pain because Vee noticed it. Just: here, hold this manageable thing until you can come back.
+No heat here, obviously, but there is charge. Not sexual charge exactly, more like emotional current under glass. I’m not mad at the pause because it told me something new and sharp about Randi, and because Vee’s response made me love her more. But I am also aware this is the second quieter chapter in the neighborhood after a very hot one, so my thumb wants the book to reward this with movement soon. Not necessarily sex. Movement. A confession, a slip, a dinner, a crack in the arrangement. Something.
 
-But of course I’m also suspicious, because this book has trained me to be. Vee thinks privacy is kindness here, and in this moment I think she’s right. But the larger book is full of secrets being treated like care. Pace and Randi have been doing a much bigger version of “don’t make her carry it yet,” and that is exactly the trap. So I’m sitting with this uncomfortable echo: Vee protects Randi beautifully by not naming what she saw. Pace and Randi are not telling Vee something enormous, probably with their own private logic of tenderness and timing. The chapter doesn’t explain that parallel to me, bless it, but I felt it.
-
-Also, Cassie stays Cassie: blunt, unsentimental, and carrying a real wound without turning it into theater. I loved that she “didn’t gloat.” She was right, but the rightness cost her something before this room. That line about Cassie not carrying things into rooms she meant to walk out of is such a clean little Cassie portrait. I trust her more every time she appears, even when she doesn’t have the full scene.
-
-No heat, really, but not dead air. This was a bridge chapter with a live wire in it. It made Randi less purely intoxicating and more breakable, which unfortunately makes me want her more on the page, not less. I am still hungry for the triangle reveal, but now I also want to know what Randi does with being ashamed of her own last name.
-
-GATE 43 — The Outlier
+GATE 44 — The Outlier
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
 HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: "The professor was talking about the semester project."
-WHY: I had one second of “please don’t make me read a fake school-project chapter,” and then it turned into an emotional trapdoor for Randi and a beautiful little test of Vee’s care. It didn’t give me heat, but it deepened the danger and made me want the next private scene with Randi badly.
+WHY: For half a second I thought, please do not give me school-project logistics after everything that just happened. But then the chapter used the project like a knife, and Vee’s quiet mercy toward Randi pulled me right back in. I want the next chapter because this feels like the book laying another charge under the floorboards.

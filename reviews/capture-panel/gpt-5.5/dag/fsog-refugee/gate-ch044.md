@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-01*
+*capture-dag-v2-rich · gate ch044 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-07*
 
-REACTION — Oh, that one got me in a quieter place.
+REACTION —
 
-This is exactly the kind of chapter that would make me keep reading even without Pace in the room, because it lets Vee be loving in a way that is not sexual and still feels deeply intimate. She *sees* Randi here. Not just the glossy Randi who orders without a menu and knows what to say and turns every charged silence into something clever, but the girl under it who can be hit by a fact so hard she stops moving. And Vee does not pounce. She does not ask for the story. She does not make Randi perform the wound for her. She just slides the laptop over and gives her hands somewhere to go. That is such a clean little act of care.
+Oh, Vee. I loved her so much here.
 
-I also felt Cassie differently here. I still trust her, but this chapter made her hardness make sense in a way that hurts. “My dad got laid off in 2020” is one of those sentences with all the doors shut on it. No pleading, no explanation, just: here is why I know what I know. And then of course she can’t see what Vee sees, because she is right and because being right is protecting something for her. I don’t blame her. But I felt the room split around Vee: Cassie’s pain on one side, Randi’s shame or shock or betrayal on the other, and Vee in the middle loving them both.
+This chapter is not sexy in the obvious way, but it hit the exact part of me that has been waiting for Vee to become not just desired but *discerning*. She sees Randi. Not the performance, not the gorgeous beam, not the woman who always knows more and has the line ready. She catches the blank space behind the face. And the thing that really got me is that she does not pounce on it. She does not make it a scene, does not demand confession, does not turn Randi’s hurt into intimacy she can collect. She just gives her something to do with her hands. That felt so quietly grown-up and tender that I almost had to put the book down and stare at the wall.
 
-Randi saying “Cheating bastards” landed hard because for once she isn’t managing the scene. She isn’t steering Vee, isn’t teasing, isn’t holding the upper hand. She is caught. And I liked her more for being caught, honestly. I needed to see something in her that wasn’t all appetite and orchestration. This doesn’t absolve her of the secret with Pace, not even close, but it gives her a bruise I believe in.
+And that is new between them, or newly balanced. Randi has been the one drawing Vee out, naming Vee, steering the little doors open before Vee knows they are doors. Here Vee protects Randi’s privacy before Randi even knows she needs protecting. I have been needing Randi to be less all-powerful in this triangle, less the beautiful woman with all the information, and this chapter finally tipped her into vulnerability without humiliating her. It made her more real to me.
 
-The chapter also made me suspicious in a broader way. The outlier image is too pointed not to matter: the visible point nobody understands until the name opens, the thing easy to set aside if you can “account for it.” That feels like Randi, but also like Vee, and Pace, and the whole third game. Everybody has some point sitting off in the white. Vee is getting better at seeing them. I’m waiting for when the point is herself.
+Cassie, too, was so Cassie in a way I respect and flinch from. Her dad got laid off in 2020, and there it is, a stone on the table. She is right, and she has earned her rightness, but because she does not know what Vee knows, that rightness almost cuts Randi open. Nobody is wrong here, which is the awful little ache of it.
 
-I missed Pace a little, in the bodily-reader way. After that last chapter, I would have happily gone back to the house in the trees. But I’m not annoyed. This was a friendship chapter with teeth, and it moved Randi from gorgeous trouble to actual person. That matters to me because if Vee is going to want her, I need there to be a woman there, not just a lure.
+And the title, *The Outlier*, yes, obviously the data point, but also Randi. She is the outlier in Vee’s life, the glamorous impossible exception. And then suddenly she is attached to a grubby, ugly number. Not above the mess after all. Not just the girl who orders without looking at prices, but the daughter of people who may have done something cruel and called it business.
 
-GATE 43 — The Outlier
+I’m also very aware that Vee notices “There could be no other Miranda,” and chooses silence. That is love, or close enough to scare me. Not romantic confession love, not yet, but the kind where another person’s shame becomes something you cover with your coat before anyone else sees it. For me, that is a bond turn. That is heat of another kind.
+
+Did I miss Pace? A little, yes. I am always tracking how long since she and Pace have been alone in a room, because I am me. But I did not resent the absence. This was the kind of quiet chapter that earns its place because it changes how I feel about the women. Vee is not only being awakened now. She is awake enough to be kind.
+
+GATE 44 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 8
 NEXT: 8
 HEAT: 0
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: No heat, no Pace, but I was fully inside the glass room once Randi froze. Vee’s kindness here made me trust her more, and Randi’s crack made me want the next chapter badly because now I need to know what else she has been carrying under all that shine.
+WHY: This pulled me hard through emotional attention, not erotic charge. Vee seeing Randi’s hurt and choosing discretion instead of possession made me trust Vee more and want the next chapter badly, because now the Randi thread has real tenderness under the danger.

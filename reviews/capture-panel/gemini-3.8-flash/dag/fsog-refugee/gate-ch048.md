@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
-REACTION:
+REACTION
 
-Oh, god. This hurt. This one got right under my ribs and twisted.
+God, this hurt. This actually made my chest ache.
 
-Because she is so entirely, painfully human here. She picks a fight because she's terrified. She throws an ugly, petty, unfair tantrum—demanding Chili's, of all the absurd, defensive things—just to see if he'll push back, just to test the walls of the cage. And what does he do? He doesn't yell. He doesn't get defensive. He just quietly, patiently meets her where she says she wants to be, even when the sensory overload of that fluorescent, screeching restaurant clearly tortures him. When he explained *why* he hated it—*"In a room like that I listen as hard as I know how and I still can't hear you"*—my heart physically cracked for him. He isn't hiding her out of shame! He’s a man who lives in his head, who needs silence and focus, who wants to hear her without fighting three televisions and bad pop music.
+Vee picking a fight because she’s practically vibrating with panic over how much she loves him—and how asymmetrical it feels—is so painfully, brutally real. She’s spiraling because she gave him her “best sentence” on the porch two chapters ago, the most vulnerable thing she had, and he gave her back *“I love how good we are together.”* An evasion! A careful, terrifying evasion! So of course she picks at him. Of course she demands to go to a damn Chili’s on Route 460 just to force him into the harsh fluorescent daylight, just to test if she’s only a dirty secret or a body he keeps locked up in the woods.
 
-And yet... Vee’s terror isn't unjustified. She’s spiraling because of what happened in Chapter 46. She laid her whole bleeding heart on the line with that crackers-and-a-meal speech, and he parried it with *"I love how good we are together."* He deflected. He gave her warmth and physical devotion and held back the one word she was begging for. So of course she's lashing out! Of course she feels like a dirty secret kept behind closed doors, because when you are twenty-one and in love, if a man won't say it and won't take you out where people can see you, the only conclusion your brain can reach is: *I am just a warm body in his bed.*
+And then the Chili’s scene was so excruciatingly well observed. The sensory overload hitting him, the screens, the sports, the cheap salt-and-yellow-dye nachos tasting like literal cardboard and ash to her now because *he* ruined her palate for anything less than real attention and real care. She wanted to prove he didn't want to be seen with her, but what she actually proved was that the outside world is loud and stupid and doesn't know how to hold them. When he told her, *"In a room like that I listen as hard as I know how and I still can't hear you... I'm listening now,"* I nearly put my hand over my mouth. That’s him. That’s the core of why I love Pace: he doesn’t get defensive, he doesn’t posture, he just tells the absolute, quiet truth and listens.
 
-The nachos scene was brilliant and tragic. The sudden realization that the cheap, comforting things she used to settle for don't work anymore—that he's ruined her for the ordinary world, but hasn't given her a secure place in his.
+*Except.*
 
-And the sex. God, the sex was electric because the emotional stakes were so raw. She wanted him to lose that iron control, wanted the proof that she could break him, and when he finally snapped—coming into her with that desperate, unhurried patience finally shattered—it was intoxicating. But the comedown in the dark afterward made me want to cry. She’s lying there soaked in his sweat, filled with him, held by him, and she has never felt more completely alone. He will give her his body, his house, his cooking, his hands, his absolute physical worship... but he will not give her a name. He won't say *I love you*, and he won't let her know where she stands. She traded all her collateral away—her heart, her body, her secrets, her boundaries—and she is left holding empty air. I need to know what happens next so badly it's making my teeth ache.
+Except the lie of omission is poisoning the well, and she can feel the poison even if she doesn't know the name of it yet! That’s the tragedy of that ending. She gets the incredible, breathless sex—she gets him losing his legendary control, undone by her, pouring into her—and instead of floating, she lies there in his drying sweat feeling the cold dread of having no name for him. She’s realizing that great sex and tender attention can still be a cage if you don't know where you stand. She’s his, but does she have *him*?
+
+She doesn’t know about Randi. She doesn’t know about the setup. But her gut is screaming at her that something foundational is missing, that he’s holding the ultimate door shut. She thinks it’s just the words *I love you* or *boyfriend*. She has no idea the real secret sitting in the dark of that house. It makes the tenderness between them feel so fragile and tragic, like glass about to shatter. I need to be there when the hammer falls.
 
 ***
 
-GATE 47 — Under the Rug
+GATE 48 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The emotional ache of her needing him to say the words while he gives her literally everything else is devastating and so true to life; I'm completely hooked on their friction.
+WHY: The emotional ache of her wanting the words he won't say—and her intuition warning her that something is fundamentally unbalanced—makes the intense heat and the looming secret almost unbearably gripping.

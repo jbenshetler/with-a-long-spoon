@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-01*
+*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-07*
 
-REACTION — Oh, that last “She was also, a little, not” got me. Cassie is so careful with Vee that Vee can feel the empty space where being pressed might have let her finally say something true. Everyone else in her life draws things out of her because they want something from the answer. Cassie asks because she wants to understand, then accepts that Vee may not be ready. And somehow that clean respect is almost harder to bear.
+REACTION — Oh, Cassie. Again she asks the cleanest possible question and leaves Vee completely free to answer it. “Not to your dad. To you.” That went straight through me. No teasing, no seductive interpretation, no secret agenda—just *what is he to you?* And when Vee can’t say, Cassie distinguishes can’t from won’t, accepts “both,” and stops. I trust her so much.
 
-“Cropped” is the whole ache of it. She cropped the photograph for her parents, cropped Pace down to the pieces her father could approve of, cropped the dress’s making out of its own story, and then discovered she cannot fit what Pace is to her inside “boyfriend” without putting a question mark on it. I don’t think the question mark means she doubts how much she loves him. I think it means the ordinary word is too small for the intensity and too simple for a relationship she still cannot fully define—even before she knows how much has been withheld from her.
+But Vee being grateful Cassie didn’t push and also wishing she had made me ache. She wants help naming this. Maybe she even wants someone to notice that the story she can tell about Pace is a cropped version, just like the photograph: respectable doctorate, hiking, dancing, age close enough not to alarm anyone. Below the crop is the bare leg, the expensive dress he made, the sex, the drawer, the shirt she sleeps in, the dominance, the love—and still farther outside the frame is the truth Pace and Randi are keeping from her. She thinks she’s the one deciding what her family can bear, while she still doesn’t know her own picture has already been cropped for her.
 
-The dress detail hurt in a lovely way. Pace making it is more intimate than buying it precisely because he listened to one passing want, learned the shape of it, and made it with his own hands. Vee understands that her father could categorize sex more easily than that kind of male tenderness. “Weird is worse than wrong” rang painfully true: wrong can be argued with, but weird gets treated as though it has no legitimate place in the world. I wanted Vee to defend Pace aloud, and I also understood why she protected the private thing by leaving it out.
+The boyfriend question mark bothered me more than I expected. She spends most of her nights in his bed, keeps herself in his bathroom, carries his scent home, and loves him—but they apparently have never plainly said what they are. That could have felt dreamy earlier. Now it feels dangerous. Pace’s actions are wonderfully eloquent, yes, but silence is doing too much work in this relationship. Vee cannot tell Cassie what he is because Pace and Vee have never made the language together, and Pace knows there is a whole hidden answer she has not been allowed to see.
 
-But I’m uneasy that her instinct with everyone outside Pace’s house is increasingly to edit. She gives her parents the acceptable Pace, gives Cassie almost nothing, and returns every weekend to the man who has become too large to explain. Pace may be worthy of the love she is giving him, but secrecy is accumulating around that love from both directions. He is keeping Randi from her; Vee is keeping the true scale and shape of him from the people who might help her see clearly. Those silences are not morally equal, but together they are isolating her.
+And the dress—God. I love that she is proud he made it. I love the weirdness of him: this enormous controlled man at a sewing machine, building beauty for her because she once mentioned wanting it. That remains intensely romantic to me. But her father’s instinct that “too good is its own kind of suspicious” landed with a thud. He would be looking for the wrong catch, perhaps, but there *is* one.
 
-And Cassie—God, Cassie. “Not to your dad. To you.” No interpretation, no seduction, no answer supplied in advance. Just the exact question Vee needs. I wanted Cassie to ask once more, even though the reason I trust her is that she didn’t. I’m very ready for Vee to stop living in cropped versions of her own life.
+I would text a friend: “Her life is cropped at the waist and she doesn’t know someone else chose the frame.”
 
-GATE 45 — Cropped
+GATE 46 — Cropped
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
+CAPTURE: 8
+NEXT: 9
 HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was quiet, but it put a finger directly on the problem: Vee cannot name what Pace is to her, even to the safest person she has. I want the next chapter because all these carefully cropped truths are becoming impossible to keep separate.
+WHY: This was quiet, but it pressed directly on the thing frightening me most: Vee cannot name what Pace is to her because their beautiful domestic intimacy still has no spoken frame—and the real frame is being hidden from her. Cassie’s restraint felt like love, but Vee’s tiny wish that she would push tells me she is getting close to needing the question she cannot yet ask.

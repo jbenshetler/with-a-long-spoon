@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
 REACTION
 
-God, my stomach hurts. This is the first time the gilded cage felt cold, completely cold, from the inside out.
+Oh, Vee. My stomach hurts for her.
 
-That disaster at Chili's was physically painful to read. It was so agonizingly, humiliatingly real. When you're starving for someone to claim you in the daylight, you pick a fight just to throw yourself against the bars, and then when he calmly says *okay* and takes you to the loud-ass chain restaurant you blurted out, you realize you've walked yourself right into your own trap. Watching Pace unravel in that booth—not throwing a fit, but that tiny, devastating flicker of irritation, squaring his fork with the edge of the table, his eyes sliding up to the muted TV because the noise was scrambling his hyper-calibrated brain—it made me want to crawl under the table. And the nachos! The soggy chips and the sour orange bag-cheese tasting like muddy brown cardboard because he has literally ruined ordinary life for her. He has educated her palate and her nerve and her body to expect bespoke perfection, and now she can’t even choke down the cheap comfort food she grew up on.
+This chapter felt like the cold, fluorescent light hitting a dream you didn’t want to wake up from. Going to *Chili’s*—ordering the big, gloppy, terrible nachos that used to be fine, and realizing they taste like mud now because Pace has completely rewritten her palate—is such a brilliant, heartbreaking metaphor for what’s happening to her entire life. She can’t go back to the cheap, easy, unexamined things. But moving forward means living in this terrifying, unnamed vacuum where she doesn’t actually know what she is to him outside of a bed and a kitchen counter.
 
-And then the fight at the house, where she tries to rewrite history and claim *he* went cold on *her* after the Rusty Nail. The absolute mastery of Pace just setting down: *"You know what happened after the dance."* He doesn't raise his voice, he doesn't insult her, he just holds up the mirror. And then explaining his sensory overload: *"In a room like that I listen as hard as I know how and I still can't hear you."* It’s so reasonable, so intensely intimate, and so profoundly evasive all at the exact same time.
+The way she lashed out at him was ugly and clumsy and so painfully *real*. She’s twenty-one! She’s drowning in four-inch heels, loose bras, and earth-shattering orgasms, living in a grown man’s house on the weekends, and she is suddenly looking around thinking: *Are we just sex? Why don’t we leave the house?* And her gut isn’t entirely wrong! She’s picking at the scab. She senses the cage even if she misidentifies the bars. She blames the Rusty Nail and claims he’s "punishing" her, twisting the narrative because she’s desperate for him to fight back, desperate for him to claim her out loud.
 
-Because she is so desperate for it to be fine that she tells herself she's "forgiven" him just to give herself permission to let him strip her. That whole sequence in bed had a desperate, frantic undertone that almost made the heat hurt. She wanted him to break his control so badly, thinking that if he lost his head and took her rough, the truth would spill out with it. She got the rough—she got him finally losing his breath and snapping, driving into her and shaking apart—and even completely shattered, empty, with his seed running down her thighs in the dark, he *still didn't say it*.
+And Pace… God, Pace’s reaction is so devastatingly him. He doesn’t take the bait. He doesn’t get defensive. He just takes the loud, broken thing she throws at him, sets it down carefully, and says, *Okay. Where do you want to go tonight?* And then at Chili’s, the sensory overload—the screens, the clatter, the noise—shuts him down completely. His explanation later—*"In a room like that I listen as hard as I know how and I still can't hear you. Somewhere quieter, I can. And I do. I'm listening now"*—melted me into the floorboards, and at the exact same second, it chilled me to the bone. Because while it’s completely true about his neurodivergent, hyper-focused brain, it is *also* the perfect architectural wall keeping Vee quarantined out on Route 614. It keeps her hidden. It keeps her contained.
 
-That ending is an absolute punch in the throat. She is lying in the cooling sweat of a man who just gave her two earth-shattering orgasms, his arm heavy over her, and she has never been more completely alone. She can't call him a boyfriend, she can't call it love, she can't prove a single second of it outside the perimeter of those woods. He has swallowed her whole, and she doesn't even have a word to hold onto.
+And the sex afterward—the way she begged internally for him to lose control, for the patience to break, because in romance novels that’s how a man proves he loves you, right? By losing his mind for you. So he finally loses it, he takes her with that raw, frantic urgency, and she thinks *yes, I pulled him over the edge, he’s mine*.
 
-GATE 47 — Under the Rug
+And then the sweat dries. The high clears. And she’s lying there in the dark, sticky with his come, his heavy arm over her ribs, realizing that even an unraveled Pace didn't say the words. Control broken still didn't buy her the name. She gave him everything, and she still can't tell her father what he is. She "forgave" him just to have an excuse to crawl into his bed, swept the dread right under the rug, and now she’s lying awake feeling the giant, lumpy mound beneath the floorboards.
+
+The psychological claustrophobia here is suffocating. I need to see what breaks first.
+
+GATE 48 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
 HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The psychological friction here is breathtaking. The horror of getting exactly the physical devotion you begged for, only to realize in the quiet afterward that you're totally nameless to him outside that bed, was absolute perfection. I have to see who cracks first.
+WHY: The Chili's scene was absolute perfection—using the dead, salty taste of cheap nachos to show how thoroughly Pace has ruined her for her old life. Vee's internal panic, picking fights because the unsaid "I love you" is choking her, feels brutally true. The sex was hot and desperate, but that cold, hollow aftermath lying in the dark with the sweat cooling on her skin was what really gripped me.

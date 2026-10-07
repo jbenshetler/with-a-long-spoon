@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch052 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c1f15218cc12 · 2026-10-01*
+*capture-dag-v2-rich · gate ch053 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 29213b289a6d · 2026-10-07*
 
 REACTION —
 
-Oh, Pace. I needed to be in his head, and I’m glad I got it, but I am also sitting here with my arms crossed a little because the man knows. He knows. He can make a whole private theology out of a cheeseburger and Vee understanding “the philosophy of it,” but he still can’t say the one word she asked for. That is exactly the problem, and the chapter knows it, and Sheri bless her sharp little diner heart says it clean: then not saying it matters more than having her. I actually said “yes” out loud.
+Oh, Sheri. I did not expect her to be the one I wanted in the room with him, but apparently I did. She is so wonderfully unromantic about him in exactly the way he needs. No awe, no melting, no letting him build his little cathedral of reasons and stand inside it looking tragic. She just sits there with her burger and shake and says the thing: if you cannot say it, then not saying it matters more than having her. Bless her blunt little heart.
 
-I loved Sheri more here than I expected. She could have been comic relief or jealous-woman furniture, and instead she’s this prickly, lonely, honest person who can sit across from him and not need him to perform. I liked that she sees through his stack of true excuses. Because they are true. That’s what makes me ache. Pace *is* there. He *does* give Vee room. He *does* miss her. He is not one of the men who would say anything to get laid and then vanish. But the truth of his care does not cancel the truth of her need, and I am relieved somebody in the book finally told him that without making Vee sound needy or childish.
+And Pace. God, Pace. I am still mad at him, but this helped, because at least he knows. He is not sitting there smugly thinking he did everything right. He misses her. He wants her. He is trying to make his actions add up to a word, and I understand why he thinks they should, because with him food and showing up and attention are not cheap. But Vee asked for something very small and very enormous, and he is still acting like saying it would somehow make it less true. I wanted to reach through the page and shake him by the shoulders.
 
-The diner did something to me, too. After Vee’s cold little childhood room, this warm, plain, griddle-smelling place felt like one of Pace’s possible worlds that Vee hasn’t been allowed into yet. Not his controlled house, not the too-loud Chili’s, but somewhere public and intimate where he could hear her whisper. That line hurt me because I can see the date they almost had, the version where he brings her here and she understands him out loud and he understands that taking her into the world doesn’t have to mean drowning. I want that so badly it made me mad all over again.
+The diner did something to me, too. This is the public place he can bear. Not Chili’s, not screens and noise, but a warm shabby roadside diner where he could actually hear Vee whisper. That little thought, whether she would love it or never see it at all, hurt. Because he wants to bring her into his real places. He does. He just keeps stopping at the threshold with the wrong door open.
 
-And yes, the Sheri teasing about Vee’s body made me laugh, but it also worked because Pace doesn’t reduce Vee to that even when he admits the sex is good. He blushes, then reaches for the real thing: the air changing, the way she sees the intention underneath what he does. That’s the Pace I still love. That’s why I’m not leaving. But he is on probation with me now. Missing her is not enough. Laughing in a diner is not enough. Go spend the word.
+And I loved that Sheri is not a threat. Not really. She is his friend in this rough, useful, unsentimental way, and the chapter made clear why he feeds her and sees her: they both know something about family doors that are closed or too dangerous to open. Her Paige story was sad in that ordinary, exhausted way where someone wants to turn your grief into a holiday assignment. It made Pace’s “People who’ve never lost anything think grief is a choice” land hard. There is so much history under him still, and I can feel the old wound breathing under this refusal.
 
-GATE 52 — The Usual
+But the Randi secret keeps sparking under the table. Sheri calling her “the brunette,” “the sorority one,” and clocking that Randi looked at her like competition made me sit up. Because yes. Randi is a lot. Randi already wanted more than she could admit. And Pace saying “No. Not like that” about whether Vee found out tells me he knows exactly how bad “like that” would be.
+
+The heat here is not sex heat, really, though Sheri being cheerfully filthy about Vee’s body made me laugh and blush. The charge is Pace finally saying Vee’s name to someone else like it matters. “The air’s different when she’s in the room. It crackles.” That is the closest he has come to a declaration, and of course he says it to Sheri over fries instead of to the woman freezing in her childhood bed. Men. Honestly.
+
+GATE 53 — The Usual
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: “I can't.”
-WHY: This pulled me hard because Sheri finally said the thing I needed said, and Pace’s love for Vee is painfully obvious even while he’s failing her. I want the next chapter badly because now he has been named to himself, and if he still does nothing, that becomes a choice.
+ALMOST-STOPPED: none
+WHY: This gave me exactly what I needed after Vee’s cold New Year’s: proof that Pace is miserable too, and someone calling him on his nonsense without making him a villain. I want the next chapter badly because now the word is sitting there between his teeth, and I need to know whether he goes to her with it or keeps mistaking almost-saying-it for enough.

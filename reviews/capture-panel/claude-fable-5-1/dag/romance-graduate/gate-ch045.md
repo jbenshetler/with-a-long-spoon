@@ -1,0 +1,28 @@
+*capture-dag-v2-rich · gate ch045 · claude-fable-5-1 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-07*
+
+**REACTION**
+
+She threw her thong on the bench.
+
+I've been carrying that table for forty chapters, forgetting to be angry about it until I write it down, and the book finally made me look at it — "the long, unusually proportioned table that stood in the middle of his bedroom" — by putting her underwear on it. Green satin landing on the thing that was built for her before she was anybody to him, and *she never looked to see where it went.* I did. I sat there and looked for her. That one sentence is the whole book in miniature: she's naked and laughing and winning, and the furniture knows more than she does.
+
+And I know more than she does now too, which is the thing that's changed since the couch chapter. I came into this one with Randi's voice still in my ear — *for the threesome, for when she's ready, somebody has to get her used to my mouth* — and here's Vee, bag riding light, smiling at the phrase *her space* across the dark grass. Top drawer. Hers. I wanted to cover her eyes. She gave herself five nights for school and some corner of her wanted him to fight for them and he said *of course, I'll be here*, and she read it as grace, and I read it as a man who had a Monday night on the couch with somebody else and didn't need to fight for anything. "He'd have made the pizza exactly like this for an empty house." Sweetheart. The house isn't empty when you're not in it.
+
+Having said all that — the hall was *so good*. That's the sex scene, as far as I'm concerned; the bed after was two paragraphs and I didn't mind, because the hall did the work. The jeans that were sensible in the car and the enemy now. One leg down to the knee and him coming around her waist and just holding, and her head going back onto his shoulder and giving it a moment she never decided to give — that's the same move as the finger and the "slow, for me," he keeps finding the second she's in a hurry and taking it off her. "You're not helping." "I'm helping." And the bra — he doesn't pull, he just *holds it* and lets her unwind herself out of it like something off a spool, so she has to do the undressing and he gets to watch her do it. That's him. That's him exactly, and it's hot, and I noticed that it's also the plan in a single gesture: he never takes anything, he holds still and she hands it over. Then white cotton socks and nothing else and a hand flat on the wall, laughing too hard to finish. I loved her so much there. No dignity anywhere and she'd have burned the house down. Yes. That's what it feels like.
+
+Her body publishing the number she'd kept private — I know that feeling, and the book knows I know it, and didn't explain it to death. Good.
+
+The pizza I read faster. I'm being honest: that's the third meal in five chapters and I've started to know the shape of them — the pan talking, the one line he says in ten minutes, her mouth coming awake. "From water buffalo" nearly got an eye-roll out of me. Cotton candy and a bowl of cut strawberries pulled me back; that's her thought, not the book's, and it's a girl from Ohio finding her own words for a thing. But I don't need another dinner for a while. I believe he can cook.
+
+And then the shirt. God. I've been waiting for her to ask for something with her mouth — not *please* attached to nothing, not her body saying yes while she talks all the way down the hall — and she knelt over the bag and asked. Badly, in a rush, eyes on the flannel and not on him, but she said it: *I wore it every night I wasn't here and it went stale and then it went to nothing.* I need you to wear it for me. That's the closest she's come to the word she said to a sleeping man, and she said it awake. And he — of course — didn't say anything back. He put it on over the shirt he was already wearing and stood there in two shirts in his own kitchen, and the book says *that was the whole of his answer, as it always was*, and it's right, and it broke me a little, and it also scared me. She's learning to read him by what he wears now. She thinks a man in two shirts is a declaration. Maybe it is. He also "decided not to ask. He was good at not asking things" — and I've watched that same gentleness keep every door in that house shut on time. The hike's already gone to rain and a flannel in my head; it's the shirt that's going to carry forward now, filling and going faint and coming back to be filled. That's a love story. It's also a leash made of smell, and she holds the end of it and thinks that's the whole arrangement.
+
+It's a breather and I knew it was a breather from the title. *The New Ordinary.* Nobody titles a chapter that unless the ordinary is about to end. Nothing on Miranda, nothing on Randi, break coming, Sheri and a pie at his table — the book is tucking her in. I know this shape from a hundred series: this is the chapter before the bad thing. I'd text a friend at 1 a.m.: *she threw her thong on the bench and asked him to wear her shirt and I am not okay about either one.*
+
+GATE 45 — The New Ordinary
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "A pinch of cornmeal thrown onto the stone that lived in his oven, a sound like a handful of sand." — not close to leaving, but the third meal in five chapters and my thumb sped up.
+WHY: The hall strip and the shirt are the book doing both things I came for at once — explicit and tender in the same breath, and her finally asking out loud — while the thong on the bench and "I'll be here" land on me with everything I know from the couch and she doesn't. It's a tuck-in chapter and I can feel the floor under it; I want to see it go.

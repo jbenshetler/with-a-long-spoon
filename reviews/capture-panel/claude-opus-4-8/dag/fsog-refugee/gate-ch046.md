@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch045 · claude-opus-4-8 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-01*
+*capture-dag-v2-rich · gate ch046 · claude-opus-4-8 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-07*
 
 REACTION
 
-Oh, this one's a cropped chapter about a cropped photo, and the book knows exactly what it's doing with that word. She sent her mother a picture that stops at the waist. She tells her father "the parts that fit." She puts a question mark on the word *boyfriend* out loud, to her own parents, like she's asking *them* what he is because she can't tell herself. The whole chapter is her holding up the thing she can't say and turning it in the light, and every edge of it is something she's had to trim off before anyone's allowed to look.
+The title did it to me before the chapter did. *Cropped.* She cropped the photo for her parents so it stops at the waist — and then she sits across from Cassie and crops herself the exact same way, tells "the parts that fit," puts a question mark on *boyfriend* out loud like she's asking permission to call him that. She's been cropping herself all book. For her dad: hiking, the boom box, the square of concrete, the doctorate — the acceptable boyfriend. Not the house he owns, not the cooking, and God, *not the dress he sewed himself.* "My dad would take it better if I told him Pace takes that dress off me than that he made it." That line knocked something loose in me, because she means it as a joke about her father and it's actually the truest thing she's said about how far inside this she is — the sex is the legible part, the *making* is the part that doesn't fit anywhere.
 
-And I love that it's Cassie across the table, because Cassie is me, and Cassie just does the thing I've been begging someone in this book to do for forty-five chapters — she asks it plain and then she asks the *better* version of it. "So what is he. Not to your dad. To you." And then, when Vee flounders: "Is it that you can't say, or that you don't want to?" God. That's the whole book in one line. Because the honest answer is *both*, and Vee says *both*, and that's the closest this book has let her come to naming the trap from inside it. She can't say what he is because there's no word, and she doesn't want to say it because saying it would make her look at it.
+And then the detail that's been sitting in my chest since my notes: her mother touching her own collarbone while she looks at the shoulders of that dress. Not saying anything. *You know how she does.* Her mother read the weight off her. Read it right off her daughter's bare shoulders in a printed photo and couldn't say it, only put her hand to her own throat. That's the loudest the vanishing has been said out loud and it got said by a woman two states away touching her own neck. Nobody in the frame names it, so the mother names it from outside the frame, silently. I wanted to reach into the book.
 
-The detail that gutted me — the one I'll text Cassie about at 1 a.m. if I had a Cassie — is the sewing. Her dad would take it *easier* if she said Pace takes the dress off her than that he made it. Sex he gets. A man who sits at a machine on a sun porch and builds a dress onto a girl because she mentioned once she couldn't afford one in a magazine — that's the thing that doesn't fit anywhere, and she knows it, and she's not ashamed of it, she says, "the opposite." But listen to what she's actually telling me: the most devoted thing he's ever done is the one thing she can't let a soul see. That's not romance that fits in the world. That's the plan. A normal good man's love you can hand to your father. This she has to crop.
+"Too good is its own kind of suspicious." The book handed me its own tell through the father's instinct and then had Vee *dismiss* it as her dad looking for a catch. Honey. Your father is the one person in this book running the right arithmetic and you're explaining to Cassie why he's wrong to.
 
-And underneath it all, her mother touching her own collarbone, looking at the shoulders of that dress. Not saying anything. That's the weight. That's the vanishing, showing up in a printed photo in a woman's purse, and even her mother can only touch her own neck and go quiet. Nobody in the frame will name it. But the mother *saw*.
+And Cassie. My Cassie. She asks it clean — "so what is he. To you." No frame to catch it in, she says, and Cassie *gives her the out:* "Is it that you can't say, or that you don't want to?" And Vee: "Both. Probably both." And Cassie nods and goes back to her plate and doesn't push. I love her and I'm so tired of her standing down. "Vee was grateful. She was also, a little, not." *Yes.* Vee wants the seam pulled. She's begging to be made to say it and Cassie — careful, kind Cassie — won't be the one. That "a little, not" is the whole thing: part of Vee knows she needs someone to make her look.
 
-What keeps me from leaving is exactly what kept me the last time it got close: the counter-voice is right there in the chair across from her. Cassie didn't pull the seam, but she pressed it, and she didn't push when Vee flinched, and Vee was *grateful and also, a little, not* — that last half-line is the best thing in the chapter, because it's Vee wishing, somewhere, that someone would push harder than she can ask for. The day Cassie's not at that table and the book just asks me to be happy for all this cropping — that's the day I'm gone. She was at the table today.
+And all of this with chapter 44 freshly bolted under me — Vee knows Randi is MIRA, the outlier, the fraud point off alone in the white, and she said nothing and decided it was kindness. So this whole dinner, every "both," every thing she can't say — she's now the one keeping a secret too. They've traded. Vee tells Randi everything and now holds this; Randi's held the whole plan from the start. The symmetry is sickening and I think it's deliberate.
 
-It's a quiet one. No heat, nobody alone in a room, no movement on the three-way thing I'm reading toward. But it's the kind of quiet I pay for gladly, because the dread did its work in daylight over a cafeteria tray.
+Quiet chapter. No skin in it. But it's the loneliest she's been on the page — surrounded by people who love her and unable to be seen by any of them, and choosing it.
 
-GATE 45 — Cropped
+GATE 46 — Cropped
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 6
+CAPTURE: 7
+NEXT: 8
 HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: none — it's a safe chapter, the slackest patch was the Thanksgiving-roundup small talk before Cassie got to the real question, and even that I didn't want to leave
-WHY: Cassie's "can't say or don't want to — both" is the first time the trap got named from inside Vee, and the sewn dress she has to crop out of her own life told me more about the danger than any scene has; a holding chapter, but the counter-voice is still in the chair, so I stay.
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: A dinner with my proxy and it still pulled hard, because it's the chapter where the cropping goes from literal photo to the whole of how Vee survives being seen — and her mother touching her own collarbone said the weight out loud without a word, which gutted me. Cassie stood down again and that familiar ache plus the live wire of Randi-is-MIRA under everything has me reaching straight for the next one, not setting it down.

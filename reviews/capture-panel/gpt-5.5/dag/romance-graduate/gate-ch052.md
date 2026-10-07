@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch051 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · 2026-10-01*
+*capture-dag-v2-rich · gate ch052 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · 2026-10-07*
 
-REACTION —
+REACTION — Oh, this hurt in the exact spot chapter 51 opened up. The previous chapter gave me Randi inside the fairytale and finding it hollow; this one gives me Vee outside the fairytale, imagining it full, and the mismatch between them is so tender and awful I wanted to put my phone down and stare at the ceiling.
 
-Oh, this one hurt in that very particular holiday-break way, where you go back to the bedroom that used to be yours and suddenly your own life feels like something you have to hide under the covers. I know this room. Not literally, but emotionally: the trophies, the old hobbies, the friends who were once everything, the parents asking normal loving questions that become unbearable because none of the real answers can survive the air in that house.
+The bedroom got me immediately. Not because “going home feels weird” is new, but because the room loves the wrong version of her. That is such a mean little emotional truth. All those trophies and ribbons and old friends on the board, the childhood bed her legs outgrew, the lavender plug-ins, Wheel of Fortune downstairs: it is safe, loving, ordinary, and somehow suffocating. And Vee is not being cruel about her parents. She knows the food is love. She knows the questions are love. But none of it can hold what she has become. I felt that, hard.
 
-And Vee spiraling over Pace made complete sense to me, which is what made it so awful. I didn’t want her to go there, but of course she goes there. He has left her with nothing but evidence and silence, and silence is an acid. It eats through even the good evidence. The bartender’s reassurance, Randi’s reassurance, the whole record of his care — none of it can hold once she doesn’t know what she is to him. I wanted to shake him through the book. This is what words are for, Peter. This exact cold room. This exact midnight. This is the place your beautiful actions cannot reach.
+And God, the photos. The whole induction photo versus the cropped one feels like the entire book in miniature: Vee herself doing the cutting because she knows where each version of her is allowed to exist. The leg is not just sexy; it is the part of her that felt most like herself, and she removed it for home. That made me ache more than if someone else had censored her.
 
-The part where she tries to climb into the memory of that first night and even that gets stolen from her by the imaginary blonde? Brutal. That felt so true to jealous panic. Not sexy jealousy, not cute possessive romance jealousy, but the miserable little brain-theater where you cast your own replacement and then believe in her because you’re lonely enough. And the blonde being “fashion model” where Vee thinks of herself as “stripper” made me ache, because she still doesn’t understand that her body being excessive and specific and hungry is part of what made her visible to him. She knows it sometimes, then loses it the second she’s alone.
+The Randi overlap is deliciously painful because I know, freshly, exactly where Randi is and what she is not saying. Vee envies the poisoned glamour while Randi is lying next to the perfect acceptable man feeling nothing. Vee thinks Randi is living out loud, but Randi is also hiding, just in a prettier room. And Vee’s text being genuinely gentle, genuinely undemanding, while Randi gives back the fairytale because she cannot bear to say the truth — I’m invested. I’m anxious. I want them in a room together immediately and also dread it.
 
-Randi’s text landed strangely, too. Sweet, yes. I believe Randi means the warmth. But because I just came from Randi’s chapter, I know Vee is reading fairytale where Randi is also hiding emptiness. They are both lying in different rooms envying each other’s visible life. Vee thinks Randi is living out loud; Randi is performing gorgeousness over a hollow place. That’s delicious and sad and very dangerous, because Vee is starting to assign Randi the reliable future. A class. A face. A date she can circle. Pace has become the unmarked space.
+The Pace jealousy spiral was brutal because it is so young and so recognizable without making her stupid. Once she has no name, she has no standing; once she has no standing, every invisible hour becomes a place to put a woman. And the way she cannot even keep her own memory safe from the imagined blonde sitting in her sheet at his table? That was nasty in the best way. I could feel the panic of trying to self-soothe and having the soothing image turn against you.
 
-No heat here, but the erotic shadow is everywhere: the dress cut in half for her mother, the photo whole for Pace, Randi buckling the shoe, the memory of the sheet slipping at the table. It’s not sex on-page, but it’s all about which version of her body gets to exist in which room. That’s the good stuff for me. That’s adult heat even when nobody is touching.
+No heat here in the direct sense, but there is charge everywhere: the remembered fra diavolo, the induction picture, Randi’s “gorgeous,” Pace’s absent arms. The erotic life of the book is still present because Vee’s wanting is present. It hasn’t gone coy; it has gone lonely.
 
-I’m still reading. Absolutely. But I am now officially angry at Pace in a way that tenderness cannot immediately fix. If he comes back with only food and eyes and hands, I may throw something soft but meaningful.
+I do want Pace’s next move, desperately, but this chapter convinced me the book is not stalling. It is tightening the knot. Vee has Randi as a date on the calendar and Pace as a blank, and that feels dangerous in a much more interesting way than a simple breakup. I am still mad at Pace. I still want him to show up with words. But I’m also starting to feel how much the next collision may happen through Randi before it happens through him.
 
-GATE 51 — Old Acquaintances
+GATE 52 — Old Acquaintances
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "Nothing from him. She hadn't thought there would be, and there wasn't."
-WHY: This was a cold, lonely bridge chapter, but it did exactly the bridge job I needed: it let the consequences of Pace’s silence actually live in Vee’s body instead of skipping to the reunion. I want the next chapter badly because someone has to answer for this room, and because Randi has just become the thing Vee can count on in a way Pace is not.
+ALMOST-STOPPED: "The days behind her ran together beige."
+WHY: This was quiet, but not empty; it made Vee’s loneliness and divided self feel sharp enough to cut. I’m very ready for the term to start, because Randi is now the “sure thing” and Pace is the absence, and that is exactly the kind of emotional trouble I want.

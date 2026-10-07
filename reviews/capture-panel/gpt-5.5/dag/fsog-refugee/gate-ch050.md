@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch049 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-01*
+*capture-dag-v2-rich · gate ch050 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha eeeec469236e · 2026-10-07*
 
 REACTION —
 
-Oh, that hurt in exactly the place I was afraid it was going to hurt.
+Oh, finally. Finally she makes him come to the door of it with her.
 
-I’m proud of her. I’m actually so proud of her I’m sitting here with my chest tight, because she did the thing I kept wanting her to do and also dreading: she stood in the doorway and did not let the house take her. The warmth, the food, the wine already poured, the music, him coming out with the towel over his shoulder like the whole life she wants is already waiting. That would get me. That has gotten her every time. And this time she stayed on the mat. No bag. Coat still buttoned. Hands in pockets. God.
+This one hurt in that exact way where I was proud of her and also wanted to put my hand over my own chest. Because she does it. She actually does it. She doesn’t hint, doesn’t wrap it in a pretty metaphor, doesn’t let sex or food or warmth carry her past the question. She stands on the mat with no bag. That killed me a little. No bag means she came prepared not to stay. She came to ask, not to be folded back into the evening.
 
-And Pace. I’m furious with him, but not in a “throw the book” way yet. More in the way where I want to put both hands on his shoulders and say: do you understand what you are doing to her? “You’re the most important person in my life” should have been enough, almost. In another chapter it would have melted me. But he keeps giving her these almost-answers, these gorgeous not-quite answers, and each one is starting to feel like a door with no handle. He can make a room warm for her. He can hear her body. He can remember every small thing. He can do devotion in action until it makes me weak. But when she asks for words, for a public shape, for something she can carry outside the house, he goes philosophical on her. “Words are cheap.” No. No, Peter Pace, not here. Not when the whole wound is that everything real between you stops at the threshold.
+And God, the house almost wins before he even speaks. The heat, the wine poured, the chicken, the piano, the porch plan. All the evidence of care is there, practically glowing. That’s what makes this so awful: he is not neglecting her. He is not cold. He is doing so much. But she is right. The care all lives inside the house. It doesn’t give her a sentence she can carry outside.
 
-“Words are cheap, and you still won’t spend them on me” absolutely gutted me. That is the sentence. That is the whole last several chapters coming due. Because yes, his actions matter. They matter so much I’m still reading. But words are not cheap when someone is starving for a name. They are not cheap when they are the bridge between the warm private room and the rest of her life. She is twenty-one and trying to explain the best thing that has ever happened to her without making herself sound used. He has to understand that. Or he has to learn it very fast.
+“What am I to you?” is such a simple question, and watching him miss it, or refuse it, made my stomach drop. “You’re the most important person in my life” should have been enough, maybe, in some other chapter, from some other man. But here it dodges the shape of what she asked. He keeps giving her truth that isn’t the truth she needs. And “Do any of your friends have a relationship you’d rather have than this one?” made me so frustrated because it is such a clever, true, useless answer. It makes her argue against her own happiness instead of letting her ask for recognition.
 
-The part that scared me most was him folding his arms and shutting. There it is. There’s the line. He has one, and it is right where the word should be. That doesn’t feel like simple awkwardness anymore. It feels like history, damage, Daphne, family, whatever scarred place he won’t let her touch. But her pain is not made less dangerous because his comes from somewhere real. That’s the trap with men like this in books and maybe in life: the wound explains the withholding, and suddenly the woman is supposed to live on scraps because he bleeds if she asks for bread. I don’t want that for Vee.
+Then “Words are cheap. Believe what I do.” No. No, sir. I understand the philosophy, and I even understand why *he* believes it. This whole book has taught me to believe his acts: the heat, the food, the drawer, the shirt, stopping when she says stop. I have believed him. But words are not cheap when the person you love is asking for them because she has no other way to stand in the world with what you are to her. Words are not decoration here. They are shelter.
 
-And still, because I am who I am, the tenderness almost kills me. The heat brought up hours early. The unlocked door. The chicken going. The wine poured. The porch planned because it’s clear and she can see everything. He has made loving her into an entire environment and then refuses to call it love. That contradiction is the most compelling and maddening thing in the book right now.
+And her line back is devastating: “Words are cheap, and you still won’t spend them on me.” That is the chapter. That is the cleanest possible cut through all his beautiful doing. If they’re cheap, why is he hoarding them?
 
-I’m also relieved she left. Not because I want them apart. I absolutely do not. I want him to go after her, but correctly. Not with hands first. Not with sex. Not with food. Not by making the house so warm she forgets the cold. I need him to spend the word, or tell her why he can’t, or at least stop pretending actions answer every question. Her walking out is the first thing in a while that feels like it might force the truth into the room.
+I still don’t think Pace is cruel. That’s part of why I’m not walking away. His face opens when he sees her. He reaches for her when she cries. He says her name. He cares. But oh, the old worry is roaring now: he can make a home for her body and still leave her heart standing outside without a coat. And for a reader like me, who came here specifically wanting intensity with care, this is exactly the pressure point. Care that can’t answer a direct question starts to feel unsafe even when the hands are gentle.
 
-GATE 49 — Believe Me
+I’m scared for her, but I’m more awake than I’ve been in chapters. She left. She actually left. Not because he hurt her body, not because he violated a boundary, but because he would not meet her in language. That feels adult and brave and heartbreaking. And I desperately need to know what he does next, because if he lets her drive away and cooks his chicken alone under his principles, I may never forgive him.
+
+GATE 50 — Believe Me
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: "Words are cheap."
-WHY: That line from him made me cold, because it turned his beautiful care into a defense against giving her what she plainly needs. But Vee standing there and asking for a name, then leaving when he would not give it, is exactly the kind of earned fracture that makes me need the next chapter immediately.
+ALMOST-STOPPED: "Words are cheap. Believe what I do."
+WHY: That line almost made me throw the book, because it is exactly the kind of man-logic that can dress withholding up as virtue. But Vee’s answer and her leaving made the chapter feel like a real turn, not just more ache. I need the next chapter immediately because Pace has either got to find words or lose the right to keep being believed.

@@ -1,29 +1,31 @@
-*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-01*
+*capture-dag-v2-rich · gate ch047 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-07*
 
 REACTION:
 
-Oh, god. My stomach just completely dropped out.
+Oh, god. My stomach is in my throat.
 
-That was agonizing. Absolutely agonizing. You know that exact, sickening physical sensation when you step out onto what you thought was solid ice, you put your whole weight down, and you hear the hair-thin *crack* right beneath your boots? That is this entire chapter.
+*“I had been eating crackers my whole life. And you fed me a meal. I didn’t know what a meal was until you fed me one. And now I know.”*
 
-*“I had been eating crackers my whole life,” she said. “And you fed me a meal. I didn't know what a meal was until you fed me one. And now I know.”*
-She gave him her heart on a plate. She built an entire poetic, vulnerable architecture just to hand him *I love you* without breaking her internal rule, without scaring him off, trusting him to meet her. And what did he say?
+She laid her bare heart down on that porch like an offering. She spent weeks building that sentence out of the scrap-iron of her whole starved life because she loved him too much to stay silent, but was too terrified of the rule to say the three words out loud. And what did he give her back?
 
 *“I love how good we are together.”*
-*“What you do — what your body does — I've never. I'm glad you feel it too.”*
+*“What you do — what your body does — I’ve never. I’m glad you feel it too.”*
 
-Look at where his mind went. Look at the words he picked. *What your body does.* She was talking about her soul, about being starved as a human being and finally nourished, and his brain immediately filed it under *physical compatibility and sexual performance*. He deflected the emotional weight of a lifetime of starvation into: *Yeah, we have incredible sex, I love how good our bodies fit.* And the worst, most gut-wrenching part of it all is that he wasn't trying to be cruel! He was being *tender*. He held her, kissed her hair, pulled her into his warmth, wrapped her in the quilt, refreshed her coffee. It was *warmly received*—and that title punch (*Seconds* / *A Warm Reception*) is sickening now. A warm reception isn't love. It's polite, comfortable hospitality.
+I felt physically sick reading that. He categorized her. He took her soul-level confession of emotional resurrection and shoved it right into the box labeled *great sexual chemistry.* She said *you saved me from starving,* and he answered *your body does amazing tricks.* And then he pulled her in and kissed her hair and gave her that heavy, deliberate, suffocating comfort, and she just had to sit there in the warm quilt feeling that sickening little *wait* punch her in the sternum.
 
-And Vee felt it. Her body registered the blow long before her brain would admit the truth. That scene in the laundry room with the clothes thumping in the dryer broke me: *“The place was not empty. There were other things in it already — small flickers, moments across the fall when what she knew about him had had to do small repair work to keep functioning.”*
-That single line gave me chills. The uncropped picture. The wall around his past. The silence. The fact that she was chosen. She’s keeping a running tab of tiny compromises, tucking away the discrepancies because the warmth is too addictive to forfeit.
+And the worst part—the part that is making me want to scream at the wall—is that Pace isn’t dumb. He is a mathematician who measures every word, every gram of flour, every millimeter of her skin. He didn’t misunderstand her. *He dodged it.* He deliberately parried her emotional declaration with physical appreciation because he is holding the door open for Randi, because he thinks this is an arrangement, because he’s sleeping with her best friend on his couch and telling her “she’s radiant” while planning a threesome Vee doesn’t even know exists.
 
-He didn't give the sentence back. She will never say it again. The absolute heartbreak of watching a woman close a door inside herself because the man she worships couldn't—or deliberately wouldn't—meet her there. I am in agony and I need the next chapter immediately.
+Seeing her sitting alone in that ugly dorm laundry room, listening to the dryer thump, replaying the arithmetic of it—*hers had been about, and his had been about, the two things had not been the same shape*—nearly broke me. She put it into the little dark pile of things that don't fit, the things she has to actively ignore so the fairy tale doesn't crack. She is making excuses for him, burying her hurt in her own body just like she used to bury her hunger.
 
-GATE 46 — Seconds
+It is so masterfully, brutally written. The title of this book is *A Warm Reception,* and that line—*“She had been received warmly, she would remind herself, in the small private way you remind yourself of evidence whose weight you are not sure of”*—just shredded me. Warmth isn't love. Warmth is what a fire gives off before it burns the house down. I am in agony for her. I need the next chapter immediately.
+
+***
+
+GATE 47 — Seconds
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 HEAT: 0
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological precision of that missed connection was devastating. Watching her give him her heart and have him reduce it to "what your body does," all wrapped in tender domestic warmth, was breathtaking and terrifying.
+WHY: The absolute heartbreak of her offering him her heart wrapped in a metaphor and him deliberately deflecting it into sexual compatibility was agonizing, gripping, and deeply true to who they both are right now. I have to see when the crack in her foundation finally splits wide open.

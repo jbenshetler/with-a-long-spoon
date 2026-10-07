@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-01*
+*capture-dag-v2-rich · gate ch047 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-07*
 
-REACTION — Oh. Oh, that hurt in the quietest possible way.
+REACTION — Oh, that hurt in the quietest, most adult, most familiar way.
 
-I was so ready for that porch to be another one of their holy little domestic rooms: quilt, cool glass, moon over the mountains, coffee already waiting for her. It’s exactly the kind of Pace scene that usually gets me, because he has made such a place for her body and her mornings. And then she finally, finally finds a way to hand him the shape of *I love you* without saying it, and he… doesn’t meet her there.
+I felt the whole chapter sitting in that little mismatch: she gives him this carefully made almost-confession, this gorgeous, vulnerable, food-shaped love sentence that is absolutely her whole heart wrapped so she can survive saying it, and he answers warmly but sideways. Not cruelly. Not coldly. That’s what makes it worse. He holds her, kisses her hair, says true things, maybe even means something deep by them. But she offered *you changed the scale of my life*, and he answered *we’re good together*. I physically felt her body go, wait.
 
-Not cruelly. That’s almost worse for me. If he had brushed her off, I could be angry cleanly. But “I love how good we are together” is warm enough to keep her from leaving and wrong enough to lodge under the ribs. It answers the sex, the chemistry, the miraculous fit of their bodies. It does not answer *her*. It does not answer the little girl who had been eating crackers her whole life. And I felt Vee feel that before she could think it, that tiny body-level *wait*. That was painfully exact.
+And I hate that I understand her too well here. The way she has a “rule” that he has to say it first, and she only discovers the rule because she cannot cross it. The way she negotiates with herself that this sentence is safe because it is not technically I love you. The way she immediately becomes her own defense attorney afterward: she was received warmly, evidence entered into the record, nothing bad happened, see? But the body knows. The body always knows first in this book, and this time the body is not turned on, it’s wary.
 
-This chapter scared me more than an obvious fight would have. Because this is how a woman teaches herself not to ask. She gave him her best sentence. He gave her something adjacent, something true maybe, but smaller, safer, less exposed. And then the quilt is warm and his hand is on her shin and she files it away with the other unreconciled things. That pile. God, that pile. The secret about Randi is in there. The family door is in there. The moments where she has to do “small repair work” on what she knows about him are in there. Now this is in there too.
+This also scared me for Pace, honestly. Because I don’t think he was being slippery in the obvious bad-man way. I think he may be emotionally careful to the point of damage, or he heard the love in it and swerved because he has his own locked rooms. But Vee does not know that. She only knows she reached as far as she could and hit a soft wall. And after all the beauty of him making room for her body, this is the emotional version of the top drawer not opening all the way.
 
-I’m still not ready to quit, because the book knows this is wrong. It is not asking me to swoon over the mismatch. It let Vee’s body notice. It let the disappointment survive the tenderness. But my trust in Pace took a hit. Not because he failed to say the exact magic words on command, but because she risked something huge and he answered only the part of it that flattered the arrangement they already have. If he really “never had this either,” then I need him to stop hiding inside careful sentences and meet the girl who is all but standing there with her heart in her hands.
+The chapter didn’t give me heat, but it did give me the ache that makes me keep reading. I’m worried now in a new way. Not just “tell her about Randi.” Now it’s: can he receive her heart with the same precision he receives her body? Because right now, the answer is not clear, and Vee is already learning to put things in the pile.
 
-GATE 46 — Seconds
+GATE 47 — Seconds
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
+NEXT: 8
 HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: “I love how good we are together.”
-WHY: That sentence made my stomach drop, because it was tender and insufficient at the same time. I want the next chapter badly now, not for heat, but because this is the first real crack in the warm house, and I need to know whether he sees it before she teaches herself to live around it.
+ALMOST-STOPPED: "I love how good we are together."
+WHY: That sentence would have made me put the book down in my lap and stare at the wall. It is tender enough not to be a rejection and wrong enough to bruise. I’m continuing because this feels emotionally exact, and because I need to know whether Pace understands what he just failed to answer.

@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch052 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c1f15218cc12 · 2026-10-01*
+*capture-dag-v2-rich · gate ch053 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 29213b289a6d · 2026-10-07*
 
-REACTION — Oh, Sheri, thank God. Finally somebody who loves Pace enough not to let him build a beautiful little courthouse out of technically true things and acquit himself inside it.
+REACTION
 
-“Every brick was true and the true things were supposed to come to something” is exactly his problem. He genuinely believes the weekends, the attention, the cooking, the space he gave Vee, and “most important person in my life” should add up to the word she asked for. But Vee did the arithmetic and found the missing term. Sheri sees it instantly: Vee did not ask him to prove that he behaves lovingly. She asked him to say what he wants and what they are. “Then not saying it matters more to you than having her” hurt because it is so clean, and because he has no answer. I wanted someone to say precisely that to him.
+Oh, Pace. “She wants a declaration” is such a bloodless way to describe the woman you love standing in your doorway crying and asking what she is to you. And then he does it again with Sheri: answers the question beside the question, stacks up all the things he does for Vee as if enough true bricks will somehow build the missing sentence by themselves. I felt exactly what Sheri felt: don’t bullshit me. Vee did not ask whether he shows up on weekends. She asked what all that showing up means.
 
-And he misses her. I needed that embarrassingly badly. Chapter 51 left Vee freezing in her childhood bed, inventing another woman in her place because Pace had given her no way to know whether he was hurting too. Here he is carrying something in from the truck, deciding to bury it, thinking immediately about whether Vee would love this diner, wondering whether she would let him bring her somewhere quiet enough to hear her whisper. He is absolutely gone over her. The air crackles; she understands the philosophy under his food. That is such a Pace-shaped declaration—overthought, slightly ridiculous, completely sincere—and of course Sheri punctures it before he can turn it into another refuge. I laughed when she told him to get over himself, and I loved him for laughing too.
+And still, damn him, the moment he thought Vee might love this quiet little diner—or might never agree to see it at all—I hurt for him. He misses her in every empty space. He wants to know how she would see the amber tabletop and the old photographs; he imagines her whispering where he could finally hear her. Then he talks about the air crackling when she enters a room and about her understanding the idea beneath his food, and there he is, saying love everywhere except in the one form she has explicitly asked him to use. He doesn’t merely desire her. He is fascinated by the particular mind inside her body. That is precisely why his refusal is making me furious instead of letting me dismiss him.
 
-But no, his longing does not clear him. “I want Vee. I miss her” is apparently sayable to Sheri while whatever Vee needs is still impossible to say to Vee. That makes the refusal worse, not better. He can name his desire when the person affected is absent. And he still let “the brunette” sit there as information Sheri has and Vee does not. “She find out about the brunette?” made my whole body tighten. Pace’s “No. Not like that” is another surgical answer: no, the rupture was not caused by discovery, because Vee still has not discovered anything. He knows perfectly well that Randi is relevant.
+Sheri is wonderful. She likes him without wanting anything from him, which means she can take his careful self-explanation, turn it over once, and hand him the ugly truth: “Then not saying it matters more to you than having her.” Yes. That is the whole wound. Whatever stands behind “I can’t”—Randi, his history, terror, some private rule—he is actively choosing it over Vee. I needed someone he respects to make him look directly at that choice.
 
-I also feel newly protective of Sheri. Paige sounds like she touched a real, ordinary life Sheri wanted—seven people shouting at the table, that enormous laugh—and then kept treating estrangement like a stubborn little misunderstanding Sheri could repair for Christmas. “People who’ve never lost anything think grief is a choice” went straight through me. Pace knew exactly what to say because this is shared ground between them. His “I don’t go back” is sitting underneath that conversation like a grave. I want to know what happened, but for once the secrecy here felt like privacy rather than manipulation: neither of them demanded the other excavate it for the reader.
+But the brunette conversation chilled me. Sheri knows there is another woman; Pace knows Vee has not “found out”; and “Not like that” is another precision answer that conceals far more than it reveals. He is discussing Vee’s body and their rupture with someone who already knows pieces of the hidden arrangement, while Vee is alone believing she has no right even to ask where he is. I don’t think Sheri means harm, and her crude comments felt like the rough language of their friendship, but Pace allowing them while protecting the actual truth made Vee’s exclusion feel even larger.
 
-The crude comments about Vee’s body irritated me, especially “the one with the big tits,” but Sheri’s voice is deliberately abrasive and Pace corrects her name. More importantly, when asked what Vee has, he reaches past her body immediately. The sex is good, yes, and he blushes like a human being about it—but what distinguishes Vee is that she sees him. She understands what he means beneath what he makes. That is why this is tragic: they recognize each other with extraordinary precision in some languages and are failing catastrophically in another.
+Also: he decided before walking in that he would not “bring her down.” Bring whom down—Sheri? And what had he carried from the truck that could keep? That opening put a little cold hand on the back of my neck. Pace has compartments inside compartments, and I am done accepting “long practice” as romantic mystery. I want the contents now.
 
-Also, what did he carry in from the truck that he decided not to bring down today? That opening feels ominous. Bad news, family news, something he came specifically to tell Sheri and then withheld because of the season? Pace has “long practice” deciding things can keep, and that habit is now costing him Vee. The chapter is showing me that his silence is old and wounded, not casual. I understand him more. I am not letting him off.
+I would text a friend: *His lesbian country friend just diagnosed him over cheeseburgers in one sentence, and this impossible man can explain the philosophy of feeding Vee but still says he “can’t” tell her he loves her. I am going to shake him.*
 
-I would text a friend: SHERI JUST TOLD HIM THAT NOT SAYING IT MATTERS MORE THAN HAVING HER, AND HE LOOKED DOWN. FINALLY. NOW MAKE HIM GO SAY THE WHOLE TRUTH.
-
-GATE 52 — The Usual
+GATE 53 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 1
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Pace finally admitted that he wants Vee and misses her, and Sheri refused to let his loving actions serve as an answer to a question he is choosing not to answer. I understand the wound beneath his silence better now, but “the brunette” is still hidden, and I need to know whether Sheri’s blunt truth sends him after Vee with actual truth—or only deeper into himself.
+WHY: Sheri forced Pace to confront the exact truth he has been evading, and his description of Vee made his love unmistakable even as his refusal made me angrier. Now I need to know what “I can’t” is protecting—and whether losing her will finally matter more.

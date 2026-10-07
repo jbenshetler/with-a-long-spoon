@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch053 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bff68c2a8905 · 2026-10-01*
+*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bff68c2a8905 · 2026-10-07*
 
-REACTION
+REACTION:
 
-Oh, Peter.
+Oh, god. *Look at him.* Look at this arrogant, meticulous, brilliant man completely shattered over a bowl of unseasoned boiled chicken, waiting for a car that isn't coming.
 
-I’ve been so angry with him since the porch, and then furious after he let her walk down the drive into the dark, but watching him wake up in that silent, sterile house with the mop bucket still in the hall and the cheap smell of bleach in the air completely wrecked me. When an alpha hero who prides himself on absolute physical competence, iron discipline, and feeding people like an act of devotion is reduced to gagging down steamed plain chicken out of a plastic pouch over the sink just to keep his hands from shaking… that is a man in utter ruin.
+I have spent so many chapters wanting someone to hit him with a two-by-four for his cowardice, for the way he used his incredible physical care as a shield to keep from giving Vee the one thing she actually begged him for. And now we get inside his head the morning after, surrounded by the smell of bleach and stale whiskey vomit, and the sheer, pathetic reality of him just breaks open.
 
-And the reveal about Daphne explains the entire locked box of his chest. It doesn’t excuse what he did to Vee—Sheri was dead right in the diner when she told him that choosing his fear over her was a terrible thing to do—but it makes psychological sense. He convinced himself that withholding the sentence was what kept him alive when a woman left, like the word itself was the detonator instead of the feeling. He thought he was protecting his boundaries, when all he was really doing was starving the one person who actually saw through the food to his soul.
+*Daphne.* Of course. It’s always the first one, isn't it? The one who taught you where to stand when you didn't belong anywhere, the one who took the whole world with her when she walked out. And because he’s a mathematician, he built an entire emotional formula out of that trauma: *Saying the words = fatal destruction. Keeping silent = survivable loss.* He honestly convinced himself that withholding three words would keep the walls intact if Vee ever walked away. And instead, the silence itself is the exact hammer that shattered everything.
 
-The moment the truck went by on the road—when his whole body tensed toward the driveway, expecting her little car, and then the sound just carried on down the highway—felt like taking a hit straight to the ribs. Having him break down sobbing alone over cold, rubbery chicken and tepid black coffee hurt worse than any screaming match could have. He knows exactly what he threw away. He knows he traded the real thing for safety, and the safety tastes like cardboard. Now the question is whether his pride will let him stay broken in that kitchen or if this finally forces him into the daylight to find her.
+Seeing him admit it—that when Vee gave him the "crackers and a meal" metaphor on the porch, the true answer was right there, whole and ready on his tongue, and he *deliberately* chose the smaller, safer answer because he was terrified—made my chest ache. He knew he failed her right in the moment. He watched the light die in her eyes and let it happen because he was weak.
 
-GATE 53 — Not Enough
+And then that truck on the highway. God. The fork freezing halfway to his mouth. His whole body pulling toward the driveway, projecting her headlights into the room, imagining her smile—and then the truck just drives on by, and this huge, controlled, dominant man just breaks over his kitchen table and sobs like a child.
+
+I needed to see this. If he had stayed smug, if he had just run to Randi or stood on his high horse about how his actions should speak for themselves, I don't know if I could have forgiven him. But seeing him down in the dirt, recognizing that his control was just cowardice, makes me want to scream at him to get in his truck and drive to Ohio.
+
+Except... there is still the bomb ticking under the floorboards. The cashmere blanket at the foot of his bed—Randi's blanket. The mop and bucket. He’s weeping over Vee, realizing he loves her with his whole soul, and he *still hasn't faced what the Randi arrangement actually is.* He thinks the only barrier between them was his fear of saying "I love you." He has no idea the nuclear fallout that's waiting when Vee inevitably discovers the other game. But right now? In this cold, quiet kitchen? I felt every single tear.
+
+GATE 54 — Not Enough
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Seeing his immovable, controlled exterior completely shatter over the sound of a passing truck gave his silence the devastating emotional weight it desperately needed, and now I need to see what he does when he stands back up.
+WHY: Watching this fortress of a man completely unravel over the realization that his fear of love cost him the only woman who mattered was devastating and completely earned. Pace admitting his cowardice on the porch gave me back the tender heart of this book, and I need to see what he does now that he's broken.

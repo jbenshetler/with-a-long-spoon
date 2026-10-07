@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch048 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
-REACTION — your felt response to this chapter
+REACTION —
 
-Oh, this hurt me in the exact place the last chapter opened.
+Oh, Vee. This one hurt in exactly the way I was afraid it would hurt, because nothing “bad” happens in the easy, obvious way. He doesn’t dismiss her. He doesn’t mock her. He listens, he adjusts, he explains, he gives her the quiet restaurant-shaped truth underneath the Chili’s disaster, and then he gives her the kind of sex that would have had me absolutely gone two chapters ago. And somehow that makes the empty place louder.
 
-Because the chapter before was already that little bruise: she offered him her best not-quite-I-love-you, and he gave her something warm but sideways. This one is what happens when she tries to live with sideways. And I believed every awful inch of it. The way she starts in bed, full of him, wanting the word, and immediately interrogating whether the intensity is real or just the effect of a man who knows how to take her body apart — yes. That is precisely the fear I’ve had under the heat. Not because Pace feels fake to me. He doesn’t. But because he is so good at making the body feel safe that the heart can start using the body as evidence, and Vee is smart enough to know evidence can be misleading.
+The Chili’s part was awful in the most recognizable way. Not because Chili’s is a crime, but because she wanted proof of being public and got proof, or thought she did, of being unwanted there. Watching her read every sensory overload beat as rejection made me want to reach through the page and turn her face gently toward the actual answer: he is struggling, not hiding you. But I also get why she can’t hear it cleanly. She already asked the bigger question and got “where do you want to go tonight?” instead of “you are mine in daylight too.” A practical answer is not always an emotional answer, and Vee is starving for the emotional one.
 
-The Chili’s choice made me wince and also weirdly respect her. It’s petty, but it’s not random. She wants proof he can exist with her outside the house, outside his beautiful controlled world where the music is right and the food is alive and the lighting is kind. And the scene is miserable. Not because he refuses, which matters. He goes. He gets dressed. He takes the problem seriously. But the restaurant exposes a limit neither of them has named. He can’t hear her there. The whole place overwhelms him, and she reads that as rejection because she’s already waiting to be rejected.
+And then: “I’m listening now.” God. That got me. That is very much the thing I read for, the man who pays attention as a form of love even when he cannot say love. But the chapter knows that “near enough” is not enough forever. That’s the whole ache of it. He keeps giving her the proof in every language except the one she needs, and her body keeps accepting the proof while her heart sits awake afterward counting what’s missing.
 
-And then, God, when she accuses him of punishing her. I almost stopped breathing there. Because it’s unfair, and part of her knows it’s unfair, and she says it anyway because she needs the story to hold. That is such a human ugly thing. It didn’t make me hate her. It made me ache for her, because she is trying to force the night into a shape where she has been wronged and can forgive him, instead of the much scarier shape where she is loved maybe, wanted definitely, listened to deeply, and still not named.
+The sex was hot, yes, but what stayed with me was the way she wanted his control to crack. That felt so true to where she is now. She doesn’t just want to be cherished and handled carefully; she wants evidence that she can undo him too. And when she gets it, when he finally loses patience and takes her like he’s out of restraint, it’s thrilling. I felt that. But then the book twists the knife: even his undone body is not the word. Even his helplessness doesn’t answer the question. That is brutal.
 
-Pace’s explanation worked on me. “I’m listening now” is not the word, no, but it is not nothing. It is one of the reasons I’m still here with him. He doesn’t punish the accusation. He doesn’t get grand or wounded. He gives her the true thing: that loud busy places make him lose her. And for this reader, the consent/care meter still holds. He is still watching. He is still answering the thing underneath.
+I’m still with him, but I’m less soothed by him than I was. The listening matters. The care matters. The fact that he can take her sharpness and not punish her for it matters hugely to me. But there is a pattern now where he lets her pour out these enormous near-confessions and answers them sidelong. Maybe he thinks he is being honest. Maybe he is afraid. Maybe he knows exactly what he is withholding. Whatever it is, Vee is starting to pay for the silence.
 
-But then the sex after... yes, it was hot, but it was hot in a way that frightened me a little. Not because he crossed anything. He didn’t. It’s that she wants him to lose control because she wants proof. She wants his body to betray him into belonging to her. And when it does, when the patience finally breaks, it gives her the physical proof and still not the emotional one. That is brutal. She gets the exact urgency she wanted and finds out it doesn’t solve the question.
+And honestly? I’m anxious now. Not in a quit-the-book way. In a “do not make me watch this girl decide that sex is enough because asking for words feels too dangerous” way. I want him to tell her. I want him to name something before Randi, or the secret, or Vee’s own hurt does it for him.
 
-The ending is the part that got under my skin. “She belonged to him. But did he belong to her?” That is the whole problem now. He has made space for her things, her body, her hunger, her sleep, her appetite, her shame. But has he made space for her as a claim on him? A public shape? A future? A word? And the Randi secret is sitting under all this like a trapdoor. Because Vee is already suffering from what isn’t named. When the unnamed third game finally shows itself, I don’t know how she doesn’t feel humiliated.
-
-I’m still pulled hard, but I’m nervous now in a less delicious way. The heat is still there, absolutely, but the book has turned the lamp toward the cost of it. I want the next chapter badly because this can’t stay swept under the rug. The title knew what it was doing.
-
-GATE 47 — Under the Rug
+GATE 48 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: “You only warm to me when you've got your way.”
-WHY: This chapter had me by the throat because the erotic charge and the emotional gap were finally the same thing. Pace still feels careful and real to me, but the missing name is starting to ache louder than the tenderness can quiet. I need the secret and the word problem to break open soon, because Vee is beginning to bruise herself against what nobody will say.
+ALMOST-STOPPED: "If we're just sex, I'd like to know."
+WHY: This chapter had me pinned because the tenderness and the wound were tangled together so tightly I couldn’t look away. The heat absolutely worked, but the ache afterward mattered more: he gave her so much, and still not the name. I need the next chapter badly because this silence is no longer background; it is hurting her in the bed itself.

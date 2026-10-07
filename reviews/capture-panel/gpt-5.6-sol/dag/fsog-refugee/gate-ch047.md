@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-01*
+*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-07*
 
-Oh, that hurt. She gave him the bravest version of *I love you* she could manage, and he answered, “I love how good we are together.” Not *you*. Together. Then he made it about what her body does.
+REACTION
 
-I felt that little *wait* behind her breastbone immediately. She knows. She may not be willing to finish knowing it, but she knows those sentences were not the same shape. And I hate that she has already decided she cannot ask him, because “the words go through him first.” She is living in his house half the week, sleeping in his shirt the other half, carrying his smell back and forth, and still believes he owns the right to set the emotional terms. That is not Pace commanding her beautifully in bed. That is Vee making herself smaller because she is afraid to discover whether he will meet her.
+Oh, that hurt. That hurt worse than if he had simply failed to understand her, because I think he understood perfectly.
 
-The tenderness almost makes it worse. He listened. He was moved. He held her deliberately and kissed her hair, and I believe every bit of that warmth was real. But he also knew she had handed him something enormous. Those two breaths tell me it did not simply go past him. He chose his answer carefully—and the careful answer avoided the thing she was offering. Maybe he is frightened. Maybe his family history has locked that word behind the same door as “I don’t go back.” But Vee is the one left doing the repair work inside herself, telling herself she was “received warmly” as if she is presenting evidence in court.
+“I love how good we are together” is such a devastatingly careful answer. He put *love* into the room while keeping it attached to their compatibility, their sex, what her body does—not to her. She offered him the closest thing to an I-love-you she could survive saying, and he answered beside it. Then he wrapped her in all the tenderness I usually melt for, and for once the tenderness made it worse. He knows how to make her feel received without actually giving her the thing she asked for.
 
-And God, that pile. The small moments she has had to tuck away so what she knows about him can keep functioning. This is exactly what I have been afraid of: her doubts are not disappearing; she is quietly training herself not to look at them because the warmth is so good. Meanwhile the largest fact of all—Randi, the arrangement, the choosing—is waiting to fall directly onto that pile.
+And Vee knows. Her body knows immediately. That little *wait* behind her breastbone—I felt sick for her. She keeps trying to use his warmth as evidence against her own perception, and then two days later the sentence comes back because her body will not let her falsify what happened. “The two things had not been the same shape.” Exactly. She said: you changed my life. He said: we work well together, and I like what your body does. That is not the same shape at all.
 
-I am still desperately in this romance, which is why I am so upset. I want him to love her. I think he does love her. But loving her privately while refusing the words—and while withholding the truth that would let her understand what “together” even means—is not enough. She gave him her best sentence. He heard it, and he stepped sideways.
+What really frightens me is the pile. The “small repair work” she has already been doing to keep what she believes about him functioning. That is the first time her private doubts have felt less like healthy uncertainty and more like the beginning of self-abandonment. She cannot ask him because she has decided the words must go through him first; he is good at not asking things; and both of them are building a silence that protects him and hurts her.
 
-What I would text at one in the morning: *She told him “I love you” in food language and this man said he loves their sexual compatibility. I need to bite something.*
+I am still gone over him, which makes me furious. The coffee waiting, the heater, the quilt, the hand on her shin, the kiss held against her hair—every physical answer says love. But he had the opening. She handed it to him whole. If he withheld the words because of Randi, because he knows the relationship Vee thinks she is declaring herself inside is not the relationship he has actually arranged, then this is the bill coming due. He cannot ethically accept her love before telling her the truth, but he also cannot keep taking the intimacy, the body, the drawer, the shirt, the whole surrendered heart while letting her believe his careful avoidance is merely reserve.
 
-GATE 46 — Seconds
+And she has retired the sentence. That broke me. She tried once, beautifully, and now she thinks the failure belongs somewhere inside herself where failed things are stored. I wanted him to say it so badly. Now I need the truth more than I need the declaration, because another tender morning laid over this silence is going to start feeling like anesthesia.
+
+GATE 47 — Seconds
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was a painful turn in the bond, and I need to know whether Pace’s answer came from fear, evasion, or something worse. Vee has started storing hurt instead of asking for what she needs, and with the Randi truth still hidden, I cannot put this book down now.
+WHY: Vee finally reached for him with everything except the forbidden words, and Pace’s exquisitely careful non-answer changed the meaning of all his tenderness. I need to know whether he withheld himself because of fear, because of Randi, or because the love I have been reading in every domestic gesture is not the love Vee thinks it is.

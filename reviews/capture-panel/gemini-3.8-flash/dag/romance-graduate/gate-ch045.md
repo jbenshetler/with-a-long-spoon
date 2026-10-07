@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch044 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-01*
+*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-07*
 
 REACTION
 
-That flannel shirt. God, that hit me right in the center of the chest.
+I am coming completely undone over this book.
 
-That is the absolute agony and ecstasy of falling so hopelessly in love with someone you only get in pieces: you start hoarding their sensory ghost. The fact that she wore it every single night she forced herself to stay in the dorm, that she breathed it until the scent went flat and died, washed it, and then brought it back to him like an empty battery that needed recharging? And his reaction—first the instant, vulnerable pinch of hurt because he thought she was returning it and pulling away, and then, the second she confessed the humiliating, feral truth of it, he just *put it on immediately over the clothes he was already wearing*? He didn’t tease her. He didn’t make a joke to deflect the intimacy. He just put the armor on and said, *“All weekend. Smelling like me.”* It made my throat tight. The emotional calibration here is devastatingly good.
+Look at what this bastard author just did to me. We just had Chapter 43, where Pace is taking Randi over the back of that exact couch, pulling her nipples until she gasps, listening to her talk about kissing Vee’s mouth, both of them fully aware they are grooming this girl for a three-way, Randi admitting she wants her, Pace holding her while she cries because she feels "real." It was dark, it was calculated, it was terrifyingly intimate.
 
-And look at the sheer, desperate frenzy of the arrival. Five nights. She gave herself five whole nights of trying to be a normal college student—reading the same paragraph three times, taking four-hour showers in dorm stalls, trying to convince herself she has an academic life—and the second her tires hit his gravel, she literally stripped him down while walking backward into the hall, toeing off boots blind, abandoning her bag on the floor. Her body completely betrayed the lie she’d been telling herself. That first orgasm breaking out of her fast and loud, publishing the exact tally of her starvation before he even really got started... God, the psychological truth of that. She’s not just sleeping with him; she is *metabolizing* him.
+And then Vee walks through the door in 45, and it is pure, heartbreaking, achingly soft romance.
 
-And then rivers of subtle tension tucked right into the domestic bliss:
-*"The thong she took off herself, three steps into the room, and threw. It landed green on the long, unusually proportioned table that stood in the middle of his bedroom. She never looked to see where it went."*
-EXCUSE ME. The spanking bench! He has the spanking bench right there in the bedroom under a false tabletop, and she blindly flings her green satin underwear onto it without a second glance! The book is toying with me. It’s leaving loaded guns on every mantelpiece while he methodically makes pizza dough with water-buffalo mozzarella and reduces tomatoes for thirty minutes.
+The flannel shirt. God help me, *the flannel shirt.* Bringing it back in a neat little washed square because "it stopped smelling like you," and demanding he wear it all weekend so she can take his scent back to her cold dorm room like an addict carrying a fix. And the way his face cracked—that split second where he thought she was returning it, the flicker of hurt, and then the pure warmth when he realized she was just desperately, helplessly in love with him. He puts it on *immediately*. Over the shirt he’s already wearing. In a hot kitchen. No teasing, no smirking, no making her feel small or foolish for her colossal, humiliating vulnerability. Just: *"All weekend... You'll have it back Sunday."*
 
-His patience continues to be the most erotic, terrifying thing in the world. When she wanted him to fight her on taking five nights away, he just gave her total, unbothered grace. That lack of friction hooks her deeper than a screaming match ever could, because the cage has no bars—it’s just open air that she willingly crawls back into.
+I wanted to throw my Kindle across the room and then sob into the carpet. How does he do this? How does this author make me melt into absolute mush over a man I *know* is setting a trap? Because it’s not fake! That’s the genius of it, and the absolute horror of it. Pace isn't faking the care. He’s not putting on an act. He truly cherishes her. He cooks for her with that holy, absorbed reverence, feeds her pizza where every ingredient is distinct—*the difference between cotton candy and cut strawberries*—catches her bra off her back, and worships her body.
 
-I’m completely under this book's spell. The contrast between her messy, frantic, leaking need and his slow, artisanal, crushing devotion is unmatched.
+And right there in the middle of all that tender domesticity: *"The thong she took off herself, three steps into the room, and threw. It landed green on the long, unusually proportioned table that stood in the middle of his bedroom."*
 
-GATE 44 — The New Ordinary
+THE SPANKING BENCH. The walnut bench disguised with a false tabletop! She threw her neon green thong right onto the very instrument of her future ruin, totally blind to what it is, and tumbled into bed. The dramatic irony is practically choking me.
+
+She lasted five days. Five days of trying to be a normal college student, and she broke. She's completely addicted to him, he's filling her drawers and her senses, and the house in the trees has swallowed her whole. I am terrified for the drop, but God, I never want to leave this kitchen either.
+
+GATE 45 — The New Ordinary
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The vulnerability of the flannel shirt recharge was pure romantic ache, balanced against that frantic, undignified hallway undressing and the hidden spanking bench sitting right in plain sight. I couldn't put this down if I tried.
+WHY: The transition from the feverish hallway strip to the utter emotional ruin of the washed flannel shirt destroyed me; the romance between them feels devastatingly real even with the shadow of the bench and Randi hanging over it.

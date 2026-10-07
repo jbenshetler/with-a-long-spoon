@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-01*
+*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-07*
 
 REACTION
 
-Oh, Vee. You sweet, decent girl. The instant she understood that Randi had just discovered something awful about her own father, she stopped looking. She gave her work, questions she could answer, somewhere to put her hands. She protected Randi’s dignity so quietly that Randi never even knew she’d been seen.
+Oh, this is nasty in exactly the way I mean as a compliment. Vee finally sees something Randi didn’t mean to show her, reads the whole human truth underneath two words, and then—crucially—doesn’t pry, doesn’t expose her, doesn’t demand intimacy as payment for noticing. She just slides the laptop over and gives Randi some work to hold. That is such a grown-up act of tenderness. It made me love Vee more than any of the daring dresses or sexual discoveries have. She is not merely the young woman being read by two sophisticated people. She can read someone too, and she can be gentle with what she finds.
 
-And that makes me furious, because Vee has just demonstrated exactly the grace Randi and Pace have refused to give her: she sees a secret that could humiliate someone she loves, understands it is not hers to expose, and carries the knowledge carefully. Meanwhile, those two have built whole rooms of her life around a secret she actually has a right to know. Vee is already emotionally capable of handling complicated truth. They are not protecting her because she is too young or too fragile. They are protecting the arrangement.
+And now I am furious all over again, because the moral imbalance is almost obscene. Vee sees Randi’s hidden wound for perhaps thirty seconds and immediately protects it. Randi has spent months deliberately reaching into Vee’s appetite while withholding the fact that she is Pace’s lover. Vee thinks friendship means not making Randi carry an inherited shame in public. Randi apparently thinks friendship permits engineering Vee toward a threesome she cannot knowingly consent to yet. The comparison is sitting there like that huge point in the white, and I cannot unsee it.
 
-Randi’s “Cheating bastards” got me. That was the first time I’ve seen her completely without choreography—no polished confession, no teasing ambiguity, no expertly placed story. Just the daughter finding her father inside the ugliest point on the graph. I felt for her enormously. I also noticed how quickly she came back brighter than before, and now I understand another part of her: presentation may not simply be how she manipulates people. It may be how she survives knowing things.
+Cassie hurt me too. “My dad got laid off in 2020,” with no handle left on it—yes. And then she has to sit there unknowingly identifying her best friend’s father as the visible proof of exactly what happened to hers. Nobody is being theatrically cruel. Nobody even knows the whole room they’re in. That makes it worse.
 
-The three of them in that room were painful in such a grown-up way. Cassie is right and has no idea her truth has cut directly into Randi. Randi is wrong because she trusted her father’s version of himself. Vee loves them both and immediately becomes the keeper of what neither knows about the other. That middle seat is starting to look less like belonging and more like a job.
+I also noticed how easily Vee decided that Randi had “no hand in it.” That instinct is loving, but it is also Vee’s dangerous habit: she supplies the kindest explanation before the other person has had to tell her the truth. She does it with Pace. Now she is doing it with Randi. Maybe she is right about the loans; Randi’s reaction certainly felt like genuine discovery. But Vee protects people so quickly that she may never give them the chance—or the obligation—to be honest with her.
 
-And yes, the outlier is doing very obvious symbolic labor. The ending underlined it after I already had it—the largest ugly fact, invisible until you know where to look, hello Pace and Randi—but I was too emotionally caught to resent it much. Mostly I’m sitting here thinking: Vee knows how to keep a secret out of kindness. What happens when she learns what their secrecy has actually cost her?
+The title landed hard. Randi’s family is the outlier in the project. Randi herself is the glittering exception Vee thinks she was lucky enough to be chosen by. And Vee is still the only point in this whole arrangement without the full dataset. Now she carries one of Randi’s secrets with exquisite care while Randi and Pace carry the secret that could split her life open. I am absolutely reading on. Somebody has to make that asymmetry visible, and I need it to be soon.
 
-GATE 43 — The Outlier
+GATE 44 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: “the biggest one, off on its own in the white, easy to see if you knew to look for it, invisible if you didn't.”
-WHY: The last line explained the metaphor after I had already felt it, but the emotional reversal is excellent: Vee extends Randi more intelligent care in one hour than Randi and Pace have extended her across an entire relationship. I need the hidden point to become visible now.
+ALMOST-STOPPED: none
+WHY: Vee sliding the laptop toward herself and giving Randi ordinary decisions to hold was more intimate than a confession would have been. The chapter gave me the contact I needed, and the new secret makes the old one feel even less tolerable.

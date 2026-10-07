@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-01*
+*capture-dag-v2-rich · gate ch047 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-07*
 
-REACTION — Oh, that hurt. She handed him the closest thing to *I love you* she could survive handing over, beautifully and unmistakably, and he answered the safer question. “I love how good we are together” is what you say when you want to preserve the warmth without accepting the meaning. Then he made it about what her body does. She offered him the whole meal—food, home, sleep, attention, the changed texture of her life—and he answered with sexual compatibility.
+REACTION
 
-And “I never had this either” made me go cold, because Randi exists. Maybe he means this exact bond, this exact bodily abundance, and perhaps that is technically true. I do not care. He knows there is an entire concealed relationship sitting inside the word *never*. Vee is searching his sentences for love while lacking the information required to understand them.
+Oh, that hurt.
 
-The most painful part is that her body catches the evasion immediately. That little *wait* behind her breastbone is the same intelligence she keeps suppressing whenever warmth follows quickly enough. And Pace knows how to provide warmth. He pulls her close, kisses her hair, gives her every physical sign of reception except the answer she asked for. I don’t think he is cold or consciously cruel. I think he loves her and is frightened or damaged or protecting the hidden structure he built with Randi. But the effect on Vee is the same: she offered herself, then had to construct the phrase “received warmly” as evidence for the defense.
+She gave him the bravest sentence she could manage, and he answered the part of it that was safest for him. Worse: he answered with her body. “What your body does.” She was telling him he had changed the scale of her life, and he told her they have unusually good sex. Tenderly, sincerely, while holding her exactly right—and still not answering her. I felt that little *wait* behind her breastbone like a dropped step.
 
-Her certainty that the words “go through him first” made me furious and sad. No, sweetheart. There is no rule. There is only the rule you invented because you already know, somewhere, that you are less safe in this love than his tenderness makes you feel.
+“I love how good we are together” is such a devastating counterfeit. It contains the right words in the wrong order. He cannot possibly be too emotionally unintelligent to hear what she offered; the whole book has shown me how minutely he reads her. So either he panicked and deflected, or he is deliberately keeping the relationship inside language that asks nothing binding of him. I don’t know which is worse. He gives her drawers and shirts and warm coffee and future-shaped habits, but when she reaches for the meaning of those things, he hands her compatibility.
 
-The chapter did explain the mismatch a little longer than I needed; I understood it at “something else was beginning to move.” But I was too emotionally caught to leave. The pile of “small repair work” is the real alarm. This is how a woman begins editing her own perception to preserve a man she loves. I want Cassie in that laundry room. I want Vee to say both sentences aloud to someone who won’t help her make them match.
+And Vee doing the repair work for him—*I was received warmly*—made me want to grab her. That is not reassurance; that is a woman arguing a case against her own hurt. The pile of “small flickers” scared me more than one dramatic revelation would have. She has already been noticing the gaps and quietly using everything good she knows about him to plaster over them. Now this joins the pile, and she has decided in advance never to ask. That is how a relationship becomes a beautiful room where one person is slowly trained not to touch the locked door.
 
-Text to a friend at 1 a.m.: **HE SAID “I LOVE HOW GOOD WE ARE TOGETHER.” That is not the same sentence and her body knows it. Also this man has a secret girlfriend. I am unwell.**
+I’m frustrated with her rule that he has to say it first, yes. She built an elaborate sentence to avoid the plain one, and he technically could have misunderstood. But I don’t really believe he did. Not Pace. Not the man who can read a slackened hand on a public lawn and build an entire sexual future from it. He heard enough to take two breaths. He knew something enormous had been placed in his hands, and he set it down without naming it.
 
-GATE 46 — Seconds
+This was the consequence I wanted after the quieter stretch, and now I am fully alarmed. The hidden arrangement was already rotten; this makes it worse, because Vee isn’t just being denied facts about Randi. She is being allowed to build a life-shaped expectation while Pace carefully refuses the words that would make him answerable for it. I need the next chapter immediately. Somebody has to touch the pile.
+
+GATE 47 — Seconds
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 1
+NEXT: 10
+HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: “She had told him something. He had told her something back. He had pulled her close and kissed her hair. The morning had continued. She had been received.”
-WHY: The repeated explanation came close to doing Vee’s emotional work for me, but the wound itself landed hard. This is the first time Pace’s tenderness has felt not merely incomplete but actively useful as cover, and I need to see whether Vee’s little *wait* survives him.
+ALMOST-STOPPED: none
+WHY: That wrong-shaped answer lodged under my breastbone exactly where it lodged under Vee’s. Pace’s tenderness no longer reassures me when he uses it to close the moment she was trying to open, and I need to know whether she keeps repairing the gap or finally looks directly into it.

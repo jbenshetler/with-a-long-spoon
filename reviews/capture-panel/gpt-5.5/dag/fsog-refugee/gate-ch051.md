@@ -1,24 +1,38 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ca7450e92130 · 2026-10-01*
+*capture-dag-v2-rich · gate ch051 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ca7450e92130 · 2026-10-07*
 
-REACTION — Oh. Oh, Randi.
+REACTION —
 
-I didn’t expect to be taken fully inside her like that, and it hurt in a very clean place. Not because John is terrible. Almost worse because he isn’t. He is exactly the fantasy version: handsome, capable, socially approved, good at everything, the sleigh, the ball, the white tie, the champagne, the story a woman is supposed to want to tell her daughter someday. And the chapter lets it be gorgeous. It doesn’t cheapen the fairytale so she can reject it easily. That made the emptiness land harder.
+Oh, Randi.
 
-The skiing did get me. I’m not immune. The way he could have shown her up and didn’t, the way he stayed just off her shoulder with power in reserve — yes, that is the old catnip. A man competent enough not to need to prove it. And then the dancing, too, that firm lead, her body going where he sent it. I understand why she liked not being asked for once. I even understand the relief of it, for a woman who is always performing and calculating. But the instant she thinks “Pace has never assumed anything in his life,” I felt the book turn the knife. Because that’s the difference, isn’t it? John assumes and the world calls it romance. Pace asks, waits, makes the woman say the want out loud. That is the thing I came to this genre starving for.
+I did not expect to be taken backward right now, and I was braced at first because we left Vee standing outside Pace’s house with her heart in her hands, and I wanted him to come after her. I still want that. But this chapter got me by the throat in a different way, because it made Randi’s whole glittering surface feel like something built over a freezing lake.
 
-And then afterward: nothing. That was brutal. “A good sandwich eaten fast” is such a devastating way to describe technically good sex with no reaching in it. I know that cold. The body says yes, the life says yes, the mother would say yes, the hotel says yes, and some deeper self is sitting there untouched with her lipstick still on someone else’s skin. I believed every inch of her horror at realizing the acceptable life can offer her its best version and still not find her.
+The breakfast with her parents made me understand her so much more. Not excuse everything, but understand it. The father joking about boys and eligible bachelors, the mother all bones and labels and controlled appetite, Randi inventing safe men at the table because real desire has never been survivable there. That “invented ones were safer than the real ones” line is basically her whole damage in one breath.
 
-The Pace comparison scared me and moved me both. “Pace on his worst night reached further than this man had managed at his best.” That tells me so much about Randi. It also makes the secret heavier, because Randi has been measuring Vee and Pace against this private cold, and Vee doesn’t know she is being brought into a hunger that old and that defended. I have sympathy for Randi here. Real sympathy. But I’m also watching her choose concealment in real time. She knows she loves Vee in two ways. She knows Vee hears one. And instead of risking the truth, she decides to let Vee “arrive at it on her own.” That is exactly the Randi problem in its purest form: she feels deeply, she may even love truly, and then she manages the room so she does not have to stand naked in the truth.
+And then John. God, the first half of it worked on me exactly the way it worked on her. I felt the pull of him. The lift-line bit, the fake marriage, the three imaginary children, his hand at her elbow that she doesn’t need but takes anyway. That is such old-school romance catnip, and I could feel myself wanting it to be real even while I knew, because this book is this book, that something was off. He is not a villain. That’s what hurts. He is handsome and competent and direct and socially perfect and he can ski and dance and summon tables and sleighs like the world is a room he owns. He is the fairytale her parents would approve. He is the safe, shining, acceptable life.
 
-The text from Vee nearly got me. Vee in Ohio, warm family kitchen, offering “or not” because she is good like that, because she knows how to leave a door open without pushing. And Randi gives her the fairytale. Every word true, none of it the thing. That is such a perfect little moral dodge. I wanted to shake her and hold her at the same time.
+And it means nothing.
 
-I’m still continuing, absolutely, but with my guard up. This chapter made Randi more human to me, not less. It also made her more dangerous. Not villain dangerous. Lonely-person-with-tools dangerous. She has learned to survive by letting everyone see the version they can use, and now Vee is the first person she doesn’t want to use as currency. But wanting not to use someone is not the same as telling them the truth.
+The dancing comparison undid me. Because on paper, John’s lead is the fantasy version: firm, effortless, no uncertainty, she can just give herself over and be carried. I know that fantasy. I have read for that fantasy. But then the chapter quietly turns the knife and says: Pace’s lighter lead was more work because it left room for her. Pace makes her listen. Pace makes space where she has to be present. John is easier because she can disappear.
 
-GATE 50 — Fairytale
+That is such an important distinction for me. Dominance that erases you can feel smooth as silk. Dominance that actually sees you may ask more of you. And Randi, who has arranged her whole life around not being found, chooses the smooth thing for one night and wakes up colder than before.
+
+The sex aftermath was devastating, honestly. Not because it was bad. Worse because it was good. “The best the acceptable world could do for her.” A faultless man, faultless room, faultless story, and she leaves lipstick on him like evidence her body was there while she herself was somewhere else. That got under my skin. It made her hunger feel lonelier than Vee’s, in a way, because Vee is newly learning to want and Randi has been managing wanting like a dangerous substance her whole life.
+
+And then Pace. “Pace on his worst night reached further than this man had managed at his best.” Yes. Yes, exactly. I’m still furious at Pace for the words thing, but this reminded me why he matters. He finds the hidden person. That is the whole terror and the whole heat. He and Randi both know what it means to be found, maybe too well, and Vee has become the place where both of them can’t keep pretending they’re untouched.
+
+The Vee part made me ache. Randi loves her. Not as currency, not as performance, not as part of the game only. She loves her. And she is still choosing concealment because she is terrified that naming it will change the brunches, the ease, the one hour of the week where she is not performing herself. I hate the secrecy, but I believed every cowardly inch of it. “Vee was her gorgeous” nearly killed me. That is so small and possessive and tender and doomed-feeling.
+
+And the text. Vee reaching from Ohio, sweet and open, offering talk or no talk. Randi answering with the fairytale because that is what Vee thinks she has, because that is what Randi knows how to sell, and then slipping in the one true thing under cover: “miss your face most though, gorgeous.” That is exactly the problem. The truth is there, but disguised as the kind of thing she can plausibly deny.
+
+I’m frustrated in the way I’m supposed to be. I want honesty so badly now. From Pace to Vee, from Randi to Vee, from Randi to herself in a way that costs her something. But I’m not cold on Randi anymore. I’m scared for her. She has been doing control as survival, and now the people who can actually touch her are the two people most likely to blow that survival system apart.
+
+Also, I will admit: the chapter was hot for me in a sideways, painful way. Not peak erotic because John himself ends up hollow, but the skiing, the dancing, the white-tie, the kiss at midnight, the sleigh — it did what a fairytale is supposed to do before it showed the inside was empty. The real heat was in the comparison. Pace and Vee haunting the room afterward. That’s the stuff that makes me keep reading.
+
+GATE 51 — Fairytale
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
+CAPTURE: 8
+NEXT: 9
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "Let Vee arrive at it on her own."
-WHY: This pulled me hard because it finally opened Randi from the inside, and the ache of the perfect fairytale meaning nothing was sharp and persuasive. But that line is also exactly where my stomach tightened: she understands enough to know she is hiding, and she still chooses the prettier version of manipulation. I want the next chapter badly, because now I need to see whether Vee gets protected from that or fed into it.
+ALMOST-STOPPED: "She found, tonight, that she liked not being asked."
+WHY: That line made me tense because assumption-as-seduction is exactly where books can lose me, but the chapter does not wink it into romance; it lets Randi choose the fantasy and then shows why being unasked is also being unfound. I’m deeply in now because Randi’s love for Vee has become real on the page, and the contrast with Pace sharpened everything I’m waiting for instead of distracting from it.
