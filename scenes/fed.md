@@ -62,6 +62,8 @@ Vee laughed again, helpless, glowing, caught all the way through. She'd bought t
 
 Randi didn't tease her for it. She looked at her, like the planning was the part she liked best. "You knew how that night was going to end before you ever got in the car," she said. "You drove over there sure." A beat. "So why are you telling me like it's a confession?"
 
+Something had come into Randi's voice over the last few minutes. Vee heard it without being able to name it — the esses running long, the a's lifting, more of whatever it was than there had been when they sat down — and her eyes had gone liquid at the edges. *She's a little drunk,* Vee thought, fond about it, and looked over to confirm it: one mimosa, and most of that still in the glass. So it wasn't that. Nothing came along to take its place, and the light moved on the porch, and Vee let the question go.
+
 And Vee, who'd braced for teasing and gotten this instead, felt the thing come up and said it out loud because it was suddenly, simply, true. "I wanted it," she said, and turned her flute on the cloth. "And I took it. For once."
 
 "Good," Randi said, and reached across and laid her hand over Vee's, and left it there, warm, and Vee felt the word settle into her and stay.

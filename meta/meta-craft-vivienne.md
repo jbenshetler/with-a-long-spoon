@@ -269,3 +269,72 @@ it deliberately, on Randi.
   swims, and *"Like she'd been in a pool"* is the plant, not an observation.
 - Randi's own inventory of Vee at `four.md:153` (*"Her chest. Her hair in my face. She runs so
   warm"*) may echo it later; it has three senses and no smell.
+
+
+## The tell system, extended (author rulings 2026-10-08)
+
+Added channels and two reclassifications. **Guard: do not thin these to one rigid meaning
+each — they become unreadable.** Overlap where the body plausibly does several things at once;
+space them rather than assigning them.
+
+### The not-looking move is psychological, not a physical tell
+
+*Choosing not to look*, and **putting a thing away metaphorically**, belong with the
+deflection family — the cultural explanation (`:76`) and the displaced fight (`:77`) — not with
+the bodily tells. Canon instance: `on-her-floor:179`, *"Underneath the shame, low, where she
+didn't look."* **The trigger is narrow:** it fires on the thing she cannot look at, which is
+always **her own wanting**, never another person's face. Keep it; it is hers and it is load-
+bearing. Do not spend it as a generic paragraph-closer — a 2026-10-08 draft used it to end
+three consecutive beats and it read as one drum.
+
+### New channel — the nose (involuntary)
+
+Nasal turbinates carry erectile tissue — the genitals are the only other site — so arousal
+engorges them through a parasympathetic pathway; the clinical name is *honeymoon rhinitis*,
+first described 1875 and underreported because patients are embarrassed to raise it. **This is
+evidentiary-register, not a gesture:** it joins wet / hard nipples / flush at `:95`, the
+arousal that announces itself without her consent.
+
+**She does not touch it** — touching it would be rude in company, and the point is that she
+*feels* it. And it is the only member of that family that is **deniable**: a stuffy nose in a
+bright room is nothing, so Vee gets the evidence *and* gets to write it off, which is her
+documented coping mechanism at `:76`. The other involuntary tells convict her; this one hands
+her an excuse.
+
+### New channel — her hand in her own hair (outward)
+
+The author's ruling is that this is an arousal tell. The research qualifies *where it points*:
+in Moore's 1985 catalogue of nonverbal solicitation behaviour (200+ women, ~100 hours,
+52 behaviours) hair-touching sits in the self-grooming/primping group, and **signal frequency
+and variety predicted approaches better than attractiveness did**. So it is best rendered as
+**solicitation pointed outward** rather than as a private physiological marker — Vee
+*inviting*, with no idea she is doing it. That is a larger step than the body betraying her,
+and should be placed accordingly.
+
+### Venue — thighs and toes are one impulse, not two tells
+
+**Touching her own toes is an arousal tell in private spaces**, and carries a second charge the
+thighs cannot: *being easy in a room, or with a person.* It is only available where her shoes
+are off, which is what makes it private. The hands-to-thighs instances (`:69`) are all in
+company. Treating them as one impulse routed to whatever she can reach also answers the
+over-repetition problem, since the existing gesture gains a venue instead of a sixth instance.
+
+Her toes are already the most loaded part of her — the frosted plum, *"I painted my nails…
+And my toes"* (`fed:33`), Randi's thumb on the plum in {{Sorority}}, Cassie's *"Was he worth
+painting your toenails?"*
+
+### The nipples → self-hug chain, and who causes it
+
+`practice-room:89` (ch033) already runs the full chain and is its best instance: nipples
+*"drawing up tight and sudden to the point of aching"*, the worry about *"how much the cloth was
+telling — telling anyone, telling Randi"*, then the arms crossed over herself *"in a motion she
+tried to make look like settling, like being a little cold."* So **concealment is already a
+licensed meaning of the self-hug** (as `:70` records at `practice-room:89`), and it reads
+unambiguously because the cause is visible in the beat before it.
+
+**Load-bearing and easy to break: every instance of the nipples tell has Pace as its cause** —
+`clean-plate:115`, `coming-due:7`, `among-friends:85`, `practice-room:89`. Thirty chapters have
+taught the reader that this tell means Pace. `my-friend-randi` is the **first time Randi causes
+it** (the shoes handed over, Randi's fingers still hooked through the straps), and Vee
+attributes it to Pace and to tonight — which passes unchallenged precisely *because* the prior
+history is real. Do not add a Randi-caused instance earlier; it would spend the cover.

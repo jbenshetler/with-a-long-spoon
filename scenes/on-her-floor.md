@@ -144,6 +144,14 @@ She was lit all through: the president of the whole house carried her little his
 
 And Vee laughed, giddy with it. *Randi's* date. Glamorous, beautiful Randi, who could have walked in on the arm of anybody in the place, had picked her — and said so out loud, in front of the president of the house. She stood two inches taller in the borrowed skirt and knocked her shoulder into Randi's. "Nobody tells me anything."
 
+And then she looked at her. Properly, for as long as she liked, because tonight she belonged to Randi.
+
+The mouth first. Vee knew how it was done — she knew the word *overlining*, knew it took two products, had stood at her own mirror with a borrowed pencil and come away looking like a child in her mother's things. Randi's was drawn a hair outside her own lip and nowhere did it read as drawn. The line held clean the whole way around, cleaner at the corners than Vee had ever got one, and the color sat flat and full and sank into nothing, and it had been on that mouth four hours and through a drink and had not moved. Up close the upper lip lifted into two peaks, and the lower was fuller than the upper by exactly enough, and somebody had been taught to do this and then done it ten thousand times.
+
+She kept looking.
+
+Then the music changed under them and Randi turned her by the hip and took her back toward the floor.
+
 "I'm telling you now."
 
 The low music had been thickening under everything, a floor laid down a little at a time, and then the lights dropped and a beat came up out of the dark big enough to feel in the breastbone, and the whole room turned to it at once with a noise that was half a scream. The empty middle was suddenly the only place to be. Randi had her by the hand already, towing her toward it, lit up — "Come on. Come *on*—" — and the floor took them both.

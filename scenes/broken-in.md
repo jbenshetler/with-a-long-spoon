@@ -204,6 +204,8 @@ Randi sent her home with the shoes in a soft drawstring bag and the scarf folded
 
 And Vee, kissing her back, caught up to something a half-beat late: she hadn't braced. Hadn't tensed. Her mouth had just met Randi's. It was only what they did.
 
+"Sleep, gorgeous," Randi said, close, and the esses ran long in it and the a came up arched out of the middle of the word, more of it than there usually was. Vee heard it and liked it and put it where she always put it, somewhere across an ocean, and went out into the cold.
+
 "See you soon, gorgeous," Randi said.
 
 Then Vee was out the white-columned door and down the steps into all that rinsed blue light, the bag swinging from her hand. A long walk back, a class already thrown away, the rest of the day and a night in front of her — and all of it pointed, now, at tomorrow night, at Pace, at his door. She had her marching orders, a beautiful pair of somebody else's shoes, and a whole day to get ready in. She pulled the coat close and went, already planning.

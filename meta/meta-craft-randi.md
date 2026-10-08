@@ -275,3 +275,22 @@ earliest instance of the thing she does to everything about where she is from.
 where everything of hers fails with no one behind the face; parents with strong accents would
 hand the scene a second explanation of who she is, and would solve her, which it is built not
 to do.
+
+
+### The accent — instances as drafted (2026-10-08)
+
+The slip becoming more prominent is **Randi's attraction tell**. Vee hears it every time and
+**supplies a wrong cause every time** — the misattribution ladder is the point, and it is what
+lets the tell fire in plain sight for sixty chapters without Vee ever assembling it.
+
+| ch | chapter | state | what Vee concludes |
+|---|---|---|---|
+| 004 | {{See You Later}} | baseline, not a tell | *"a school in Switzerland, a year in Paris, a mother who'd had one or the other"* — she builds a false biography and *"left it alone"* |
+| 022 | {{Fed}} | aroused **while operating** — the carve-out case | *"She's a little drunk"* — then she counts: *one mimosa, and most of that still in the glass.* *"So it wasn't that. Nothing came along to take its place."* The explanation fails and she has nothing to replace it with |
+| 029 | the {{Broken In}} | aroused at the settled kiss | *"put it where she always put it, somewhere across an ocean"* |
+
+{{Fed}} is the load-bearing one: Randi is running the floozie-shame conversion *and* aroused by
+Vee having planned her own transgression, so it is the clean demonstration that the voice is not
+governed by the no-tell-while-operating rule. It also gives the reader a baseline close enough
+to hand that the {{Broken In}}'s *"more of it than there usually was"* has something to measure
+against.
