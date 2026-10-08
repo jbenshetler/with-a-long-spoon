@@ -2,11 +2,21 @@
 
 *Vee POV.*
 
-Cassie walked her as far as the doors of the hall and no farther, because past them the honorees peeled off into their own roped rows down front and everyone else went to the seats. "Go make your mother cry again," Cassie said, and took Vee's phone out of her hand to hold, and looked her up and down and said, "You look—" and didn't finish it, which from Cassie was a standing ovation. Then she went to find a chair, and Vee went down to the row and found her name on a card taped to the arm of a folding seat, and sat, and waited.
+Cassie walked her as far as the doors of the hall and no farther, because past them the honor society's inductees peeled off into their own roped rows down front and everyone else went to the seats. "Go make your mother cry again — call her the second you're out," Cassie said, and took Vee's phone out of her hand to hold.
 
-The room was high and full of the good afternoon light she'd let herself picture — long windows down one side, the light in bars along the floor, the podium, a woman from the department reading names into a microphone one at a time. She sat near the front in the burgundy, among girls in the safe department-store navy she'd pictured too. The black dress from the back of her closet, the one that had always been good enough, was still on its hanger at home; she hadn't needed it. Under the burgundy, nothing at all.
+"I wanted her here." It came out flatter than she meant it, so she tried again. "I did. I've been sad about it all week." Then the rest of it came out too. "And I'm a little relieved. Which is a horrible thing to be."
+
+"It's a folding chair and a rolled-up piece of paper," Cassie said. "You'd have spent the whole thing watching her face instead of hearing your own name. Not horrible. Just honest."
+
+Which was kind, and was not it. Vee went after the true one and found nothing she could put in a sentence Cassie could take, so she said, "Probably," and left it where it was.
+
+Then Cassie looked her up and down and said, "You look—" and didn't finish it, which from Cassie was a standing ovation. Then she went to find a chair, and Vee went down to the row and found her name on a card taped to the arm of a folding seat, and sat, and waited.
+
+The room was high and full of the good afternoon light she'd let herself picture — long windows down one side, the light in bars along the floor, the podium, a woman from the department reading names into a microphone one at a time. She sat near the front in the burgundy, among the safe department-store navy she'd pictured too. She had only ever pictured girls in it, because in the picture she was one of them, in the good-enough black. Boys sat in the rows as well, in suits that fit nobody. The black dress from the back of her closet, the one that had always been good enough, was still on its hanger at home; she hadn't needed it. Under the burgundy, nothing at all.
 
 There couldn't be. She'd found it out in his mirror — the slit came open to the hip and the edge of anything showed, cut across the long line the dress made of her — so to wear the dress as it was built to be worn was to wear nothing under it, and she had wanted to wear the dress. So she'd come bare, and careful. She'd been careful the whole way here: the short managed steps that kept the slit lying shut, and now a hand kept low at her hip while she sat, holding the seam closed over her thigh, the small choreography of a woman with a secret keeping it. Getting ready it had felt like a private joke she was in on. It felt different now, three rows from a microphone, in a room full of somebody's parents.
+
+None of them hers. The flight cost more than they had, and they had gone around it twice before her mother said they'd be right there on the phone, honey, in the bright voice she kept for the things she couldn't give her. And here was the part she had not been able to hand Cassie, arriving now on its own, three rows from a microphone: nothing at all under the silk, and nobody in this room who had ever taught her what to be ashamed of.
 
 The heels didn't help — four inches, a few thin dark straps and not much else, and dear. Randi had found them, knelt and done the little ankle strap with two fingers and sat back to look, and Vee had stood there and resettled forward onto the balls of her feet, because the dress wanted the height. Her toenails sat bare in the straps, and her fingernails where they lay in her lap: a frosted plum that woke and threw the light when it moved.
 

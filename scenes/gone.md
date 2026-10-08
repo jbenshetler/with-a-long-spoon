@@ -14,7 +14,7 @@ He had one hand in her hair and the other flat on the small of her back, and the
 
 He felt her smiling, and after a moment she went on, quieter.
 
-"I didn't think I'd like her this much. I keep waiting to get bored of her — you always get bored — and it doesn't come." A breath. "She got past me before I could help it."
+"I didn't think I'd like her this much. I keep waiting to get bored of her — I get bored of everybody — and it doesn't come." A breath. "She got past me before I could help it."
 
 The chill found her then, as it always did after. He felt it start along her back under his hand, the first fine shiver, and reached down for the blanket at the foot of the bed, and she caught his wrist.
 

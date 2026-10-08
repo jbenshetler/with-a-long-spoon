@@ -72,3 +72,17 @@ Once drafted: re-run the opus cold-read from here forward, then **re-probe the o
 - `meta-note-threesome-reveal.md` — what Pace knows of Randi's interior; the sanitization.
 - `meta-arch-pace.md` — embodied-presence (hot, not cool); the benefactor story.
 - `reviews/cold-read/claude-opus-4-8/oracle/` — the Vol-1-end results that motivated this.
+
+
+## "I get bored of everybody" (author ruling 2026-10-08)
+
+The leak line is *"I keep waiting to get bored of her — **I get bored of everybody** — and
+it doesn't come."* It was *"you always get bored"*, and capture readers took the generic
+*you* as a **shared** history — Pace and Randi having run this arrangement before. **They
+have not**, and nothing may imply they have. The replacement relocates the boredom entirely
+inside Randi's own life, where Pace has no part in it, so there is no *we* left to misread.
+
+It also keeps what the line was for: `reviews/cold-read/claude-opus-5/gone.md:33` reads it as
+*"the first piece of her own history she's handed over unprompted"*, and *everybody* makes
+that larger rather than smaller — a woman who burns through people, who cannot burn through
+this one. Serves the villain-guard in `meta-arch-randi.md`.
