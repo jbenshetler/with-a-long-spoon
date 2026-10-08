@@ -243,3 +243,35 @@ Render Randi as the one who picks the venue for the lunches, positions herself i
 **Half-seeing, not perceiving at depth.** At {{Fairytale}}, she perceives that throttling produces nothing — that is what she sees. She does not perceive that advancing on the configuration will burn it through. The half-seeing is enough to be warned and not enough to be dissuaded. (Amended 2026-07-30 with the Fairytale ruling above: the love and the decision are now articulated in the aperture; what must stay unrendered is the *forward* blindness — she never perceives that advancing will burn the configuration through.)
 
 **She is tragic, not fated.** The wound did not drive her. She chose the channel. The choosing is what makes her tragic in the older sense: she saw enough of the alternative to know it was unlivable, and she returned to the plan anyway.
+
+
+## The accent (author ruling 2026-10-08)
+
+**Born in Kentucky; the family moved to central Florida before she started primary school
+(`meta-arch-randi.md:299`, unchanged) — but her parents kept the accent, and she grew up
+hearing it at home and worked it off anyway.** That resolves the question of where an accent
+she never acquired regionally came from: she shed it from her own parents' mouths. The
+earliest instance of the thing she does to everything about where she is from.
+
+**Two distinct phenomena, and only one of them is a tell.**
+
+1. **The baseline trace — not a tell.** A faint residue always present in her speech: the
+   **esses going sibilant, the a's arching**. Seeded at the first coffee (`see-you-later`),
+   where **Vee hears it and reads it as cosmopolitan** — the payload, and cold on reread: the
+   polish Vee takes for Europe is Kentucky, sanded down. Note `meta-note-see-you-later.md:31`
+   rules that *no tells fire* in that chapter because Randi is operating; this seed does not
+   breach it, because the trace is her voice and not a tell.
+2. **The arousal slip — autonomic, and it fires even while she is operating** (author ruling,
+   superseding the assistant's caution). Arousal is involuntary: suppressing it would be like
+   suppressing her pupils. **This is the carve-out from the no-tell-while-operating rule**
+   (`meta-condensed-fed.md`, `meta-note-see-you-later.md:31`), and the carve-out is principled
+   — **she controls her hands; she does not control her larynx.** The suppressible gesture
+   tells (the glass, the nail-press) stay governed by the operating rule; the voice does not.
+   Its richest use is therefore the case the gesture tells cannot reach: aroused *by Vee*
+   while managing her, where the operation is working and the voice gives her away to a reader
+   who has been taught the tell.
+
+**Not in {{Fairytale}}** (considered and declined). That chapter already carries the mirror
+where everything of hers fails with no one behind the face; parents with strong accents would
+hand the scene a second explanation of who she is, and would solve her, which it is built not
+to do.

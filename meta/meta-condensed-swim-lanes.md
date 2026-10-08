@@ -24,8 +24,10 @@ comes up over him, and **does not take him** — she holds him against herself a
 his face until he understands he is meant to watch, and lets herself down by inches, a
 stop between each, until he says her name.
 
-*"Tell me."* He knows it is not the trail she wants, and he is glad to give it: *"Her hair
-smells sweet… and under it, faint — chlorine. Like she'd been in a pool."* The grip of her
+*"Tell me."* He knows it is not the trail she wants, and he is glad to give it: *"She wears
+gardenia… Gardenia and musk. On her throat, and lower. It's been warm on her since morning, so
+by now it's mostly the musk… Her hair smells shampoo-clean, and subtly, underneath it, a hint
+of chlorine. Like a pool."* The grip of her
 tightens; the laugh that comes out of her is thin, and not her laugh. *"Tell me."* /
 *"Her stomach is soft."* He does not say how he knows — she had given him herself in the
 truck with the rain coming down — and he keeps it.

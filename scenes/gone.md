@@ -32,7 +32,9 @@ He split the breast along its length and laid the halves on the board and leaned
 
 "And she talks about you," he said, and turned the chicken.
 
-"The whole hour." He looked around at that. There was something undefended in her face, sitting there in his shirt with her chin on her knees. "Pace this, Pace that. She's got it *bad*. It's a little pathetic." A beat. "I love it."
+"The whole hour. Pace this, Pace that. She's got it *bad*." A beat. "It's romantic."
+
+He looked around at that. There was something undefended in her face, sitting there in his shirt with her chin on her knees.
 
 He plated. Half the chicken for her, sliced across so it lay open, a spoon of the couscous, the asparagus laid along the side; the rest for him. He set hers down in front of her with a glass of water and she put her feet on the floor and picked up the fork.
 
@@ -48,7 +50,11 @@ She had handed him back exactly his own words, and he took that for what it was,
 
 She turned the water glass on the table.
 
-"She's stunning in it, Pace." Quieter. "I'm around beautiful girls every day. She's extraordinary. How she looks. Who she is."
+"You do nice work," she said.
+
+"Thank you."
+
+"And the dress is not bad." Quieter. "She's stunning in it, Pace. I'm around beautiful girls every day. She's extraordinary. How she looks. Who she is."
 
 He could see her in it. Vee, glowing, coming through the den to him with the slit swinging open on her leg. And then, before he had decided to, he had her here, at this table, wrapped in his sheet, and Randi across from her in his shirt, and both of them smiling, all three of them, the way they already smiled about each other. He wanted to tell Vee. He could not, not yet.
 

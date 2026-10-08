@@ -235,3 +235,37 @@ The writer's tool for understanding Vee's interior across the year. **Does not a
 ## The Closing Image
 
 Small, undecorated, in motion. Contains the whole without announcing any of it: the gains, the no, the hunger, the ascent, the knowledge. She is walking forward into something. The specific image is a craft decision. The architectural commitment: it carries all of this, announces none of it.
+
+
+## Perfume (author ruling 2026-10-08)
+
+**Floral, sweet, musk — in that order, as three layers.** Named on the page only once, and in
+**Pace's** mouth, because Vee cannot smell her own and the describing is the point:
+`swim-lanes.md:31`, where he is telling Randi about Vee in bed and the telling is what arouses
+her. *"Gardenia and musk. On her throat, and lower. It's been warm on her since morning, so by now
+it's mostly the musk."* He has the vocabulary (he tastes and smells for a living) and he spends
+it deliberately, on Randi.
+
+- **The musk is in the bottle, not in her.** Gardenia and musk are both the perfume; nothing in
+  the scent is her own body. What the warmth of her does is change the *balance* over a day —
+  the top note burns off and the base stays — which is how Pace knows it: composition and time,
+  not a catalogue of women.
+
+- **He names the flower, and that is in register** (author ruling 2026-10-08). Pace refuses the
+  generic noun wherever he knows the specific one — *honeycrisp*, *blood orange*, *persimmon*,
+  *quartersawn oak* — so circling a flower he could name was the thing that read wrong. Keep the
+  reference **horticultural, never perfumery**: he knows a gardenia as a Southern shrub, not as
+  a fragrance note. A man who can identify a woman's perfume has smelled many, which would cut
+  against Vee-is-the-first (`meta-note-gone.md`); a man who knows the plant has not.
+- **Body and hair are separate.** The perfume is on skin — throat and lower. The hair carries no
+  perfume at all: shampoo-clean, with a hint of chlorine under it. Do not put the perfume in her
+  hair or the chlorine on her skin; the split is what isolates the plant in one place he cannot
+  account for.
+- **It can only be carried in Pace's or Randi's POV.** Never Vee's.
+- **One chapter, both women, opposed.** `swim-lanes:13` already has Randi's — *"the sharp
+  citrus and the cold thing under it."* Cold citrus against warm floral musk, both noticed by
+  the same man in the same scene. Do not warm Randi's or cool Vee's.
+- **Location:** her throat and her hair. The chlorine under it stays — Pace does not know she
+  swims, and *"Like she'd been in a pool"* is the plant, not an observation.
+- Randi's own inventory of Vee at `four.md:153` (*"Her chest. Her hair in my face. She runs so
+  warm"*) may echo it later; it has three senses and no smell.

@@ -28,7 +28,7 @@ She came down over him, her hair falling black on either side of his face, her m
 
 He knew what she was asking for, and it was not the trail, and he was glad to give it.
 
-"Her hair smells sweet," he said. "I couldn't tell you what it is. Something sweet. And under it, faint — chlorine. Like she'd been in a pool."
+"She wears gardenia," he said. "Gardenia and musk. On her throat, and lower. It's been warm on her since morning, so by now it's mostly the musk." He let it sit a moment. "Her hair smells shampoo-clean, and subtly, underneath it, a hint of chlorine. Like a pool."
 
 He felt it go through her where she sat on him, the grip of her tightening, and she moved, once, a long slow roll of her hips that took him out to the edge of her and back, and she laughed, a breath of it, and it came out of her thin, not her laugh, and she kissed him before it was finished. He put his hands on her hips and moved with her.
 
