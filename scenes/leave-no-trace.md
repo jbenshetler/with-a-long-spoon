@@ -216,7 +216,7 @@ She didn't have to look down for the fourth. She could have taken it by feel lik
 
 She looked down anyway, and his eyes went with hers.
 
-She saw what he saw — the shirt open to her breastbone, the wet bra gone sheer, the shape of her nipples through the pale cotton, the swell of her above the cup where the wet had dragged it down, her skin shocked pink with cold, the gooseflesh on it, a last drop of rain running down between her breasts out of her wet hair. The voice said *floozy* in her mother's exact word and her thighs pressed once, hard, on their own, under her jeans.
+She saw what he saw — the shirt open to her breastbone, the wet bra gone sheer, the shape of her nipples through the pale cotton, the swell of her above the cup where the wet had dragged it down, her skin shocked pink with cold, the gooseflesh on it, a last drop of rain running down between her breasts out of her wet hair. The voice said *floozie* in her mother's exact word and her thighs pressed once, hard, on their own, under her jeans.
 
 Fourth button. Fifth. The last.
 

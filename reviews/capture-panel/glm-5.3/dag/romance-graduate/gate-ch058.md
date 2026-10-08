@@ -1,0 +1,24 @@
+*capture-dag-v2-rich · gate ch058 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · 2026-10-07*
+
+REACTION:
+
+Okay, so after the coat chapter I was fully braced for a letdown chapter, and instead I got the thing I keep telling people about — the best scene in a book is two people talking — except the book did something sneaky with it, and I need a minute on that.
+
+First, the pure pleasure: Cassie's break report is *perfect*. The brother-in-law wearing snowshoes in the house, standing there holding them like she'd towed his car — I laughed out loud, actually out loud, at midnight, like a person with no self-control. "They'd have been better made out of Play-Doh." "I had a civic duty." Cassie has been the dry-register MVP of this whole book and the fact that she never spends the full laugh on her own jokes and then SPENDS IT on "Pace shrank your sweater" — that's friendship, that's the laugh you only give somebody else's ridiculous happiness. I felt the room switch back on at the wall right along with Vee. Cassie is the one I'd want in my life out of this whole cast and this chapter knows it.
+
+But here's the thing that sat me up. Vee *lied*. Or — spun, curated, whatever word you want. "Her mouth set off without her" and then the whole shrunken-sweater-and-dyed-pants saga, and the line that matters: "the record stood exactly where Vee had left it, corrected by nobody." We were IN that weekend. There was no laundry disaster on the page. There was a woman who packed no bag on purpose because there was nothing under the coat, and when Cassie asks the reasonable question, Vee improvises a domestic anecdote so smooth and so *plausible* that her truthiest friend files it without a wobble. And I caught myself going: who taught you that? Randi teaches exactly this — the cover story that's warmer and more charming than the truth and lets everybody keep their face. Vee used to be the girl who handed over the uncropped photo on nerve *because she couldn't stand being the girl who flinched*. Now she's editing for her best friend. It's a little thing and it's not a lie that hurts anyone, and Cassie honestly does not need the contents of that coat, but I watched this book's whole thesis move an inch and I'm not unseeing it. Nobody in this story tells the whole truth to anybody they love. Not even Vee anymore. Maybe *especially* not Vee anymore.
+
+And then — the other thing, the quiet loud thing — "My mother says thank you for the card. She wants to know when she gets to see you again." And Vee's hand goes to her robe collar, and something goes through her "warm and specific, like a hand cupped briefly at the back of her neck," and she says "tell her I said hi," *which the book outright tells me is not the size of it.* I don't know what that is yet. I have a card in my carry notes somewhere and a Cassie thread I've been nursing since "can't say or don't want to," and now Cassie's mother has weight. Cassie's mother, who saves boxes and upgrades your wrapping. Vee has clearly been inside that family's warmth at some point I only half remember, and it lands on her harder than she'll examine. The book closed that subject "the exact moment before it would have needed anything from either of them" — which is Cassie's signature move, mercy before the hard part — and I'm now actively suspicious that the detonation I keep predicting runs through this. Cassie's house might be the third door.
+
+Also, small ache: the flannel is going faint. She noticed, buttoned it up anyway, and decided he'll have to wear it for her — she's going to make HIM the thing that smells like the two of them now. That's the cutest solution to the dead-shirt cycle this book could have picked and I'm adopting it emotionally.
+
+And the ending — the bunk one girl wide, her hand flat on the cold cinderblock, and the wall is "only a wall" because he's out there and Friday is coming. Two chapters ago this book had her naked on a doorstep staking everything, and now it lets her be this content, and I know — I KNOW — this is the exhale before the anthro class, before Randi gets the "nearly everything" report, before the party gets planned and every world she has walks into one room. The book is stacking all of Vee's people in a single building and I've read enough books to know what that room is for.
+
+GATE 58 — Unpacking
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 7
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: Two talking-chapters in a row, but this one carried real freight under the comedy — Vee curating her first cover story for Cassie and the hand-cupped-at-her-neck moment with Cassie's mother both moved the book's deeper game forward, and Cassie spending her rare full laugh on Vee's happiness is exactly the tenderness I'm here for. I'm staying for the party that's obviously going to detonate.

@@ -20,6 +20,8 @@ Vee shows Randi the *{{In His Hands}}* nude here, in **two steps**: a **cropped*
 
 Late in the scene, warm and offhand, Vee invites Randi to sign up for **spring anthropology** together. The fall stats class was accidental (Vee, Randi, Cassie fell into one room); the spring class is **chosen** — Vee authors it herself, the sealed room beginning at the level of her own schedule. Cassie is peeled off blamelessly — she's *already done* the humanities elective (drafted: *"with that oddball Wardy"*), and her locked pre-nursing track wouldn't fit it anyway. Buries silently — resonance only, never a diagram. (`meta-note-anthro.md`.)
 
+**The class meets at night — Tuesday and Thursday, 7:00–8:20 p.m.** (author ruling 2026-10-08). Dr. Marsh's **eight a.m.** is named only as evidence of how badly people want her; it is not the section Vee and Randi take. The earlier phrasing (*"even her eight a.m. fills up"* with the time given as a bare *seven to eight-twenty*) let multiple readers come away with a morning class, which breaks {{Covering}} and {{A Clean Plate}} — both of which run in the **evening**, with the standing dinner after.
+
 ## Guards
 
 - Warm, fun, genuinely engaging on first read; the cold is pattern-only, on reread. No tell — suspicion kills the warmth.

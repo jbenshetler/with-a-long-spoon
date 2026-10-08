@@ -46,11 +46,13 @@ She started to get up. "Let me clean up first. I want to look nice."
 
 She kissed him for it and went anyway. In the bathroom she brushed the wreck of her hair back into something, and put her face back on, the eyes and the poppy-red mouth, and worked at herself in his mirror until she'd found the version of herself she wanted him to keep. When she came back she was not the wrecked, sated woman who'd dropped onto the sheet a little while before. She was composed, arranged, a girl who had decided to be looked at.
 
-"How do you want me, then?" she said, and started to arrange herself.
+"How do you want me?" she said.
 
-He smiled at her as if she'd offered something else entirely. "No, not like that. You'll have to wait."
+He came around the foot of the bed at her with his shoulders rolling, mock-slow, a man in a nature program stalking something, and none of it was quite a joke — he was coming at her with want for her all over him, and he had not troubled to hide that.
 
-Then he did it himself. He pressed her shoulder until she turned onto her side where he wanted her, and set her elbow under her, and drew her hair back off her face, and laid her free hand along the curve of her hip, and moved her legs where he wanted them, together, one knee carried a little ahead of the other. He did it unhurried and sure, and at each place his hands set her he put his mouth there after: a kiss to the point of her shoulder, a kiss to the rise of her hip, a kiss to her knee. By the time he stepped back she was laid out like a woman in an old calendar, warm under his hands, with no wish to argue with any of it.
+She got a hand flat on his chest and laughed. "No, not like that. You'll have to wait."
+
+So he did it himself. He pressed her shoulder until she turned onto her side where he wanted her, and set her elbow under her, and drew her hair back off her face, and laid her free hand along the curve of her hip, and moved her legs where he wanted them, together, one knee carried a little ahead of the other. He did it unhurried and sure, and at each place his hands set her he put his mouth there after: a kiss to the point of her shoulder, a kiss to the rise of her hip, a kiss to her knee. By the time he stepped back she was laid out like a woman in an old calendar, warm under his hands, with no wish to argue with any of it.
 
 He reached across her to the nightstand and took up her phone, not his, because hers took the better picture and they both knew it, and stood off at the foot of the bed and lifted it. The small sound of the shutter, once. He looked at what he had, touched the screen, changed something, lifted it again. Another. He crossed to the lamp and tilted the shade until the glare slid off her skin, came back, tried it with the phone turned long in his hands, and the shutter again. He looked at it. "Hm," he said, mostly to himself. "Yeah. That's the one." And then he looked at her over the top of the phone, at her and not the picture of her, and grinned like a boy who'd gotten away with something, and it landed warm under her breastbone.
 

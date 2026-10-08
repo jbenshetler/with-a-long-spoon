@@ -72,7 +72,7 @@ The fork stopped halfway to Kayla's mouth.
 
 "He's handling it," Vee said, and heard how much she liked saying it. "He's got the place. It's his treat, all of it — he was very clear."
 
-"Meet the boyfriend," Meg said, and let herself smile. "Wednesday works."
+"Meet your man," Meg said, and let herself smile. "Wednesday works."
 
 Kayla had already left Wednesday and was somewhere out ahead of it, planning in the unbroken stream, and the two of them let her run and finished the coffee, and when the check came Vee asked for it split three ways, and the server brought the little terminal around the table and they tapped their phones to it one after another, deliberating the tip buttons out loud, nobody letting anybody cover anybody, and the girl at the front told them to come back.
 

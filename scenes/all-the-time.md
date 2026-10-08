@@ -28,7 +28,7 @@ And here was the thing Vee had not planned for, driving over: that there was not
 
 "There's not — it's not a thing that happened," she said. "It's more like. It's just how it *is* now."
 
-"How what is."
+"How what is?"
 
 "Him. Us. The—" Her face went hot, and she pushed on anyway, because it was Randi. "The amount of it."
 
@@ -122,7 +122,7 @@ They ate. The talk went easy and elsewhere for a while, the pressure bleeding of
 
 "God, no. It's sitting there judging me."
 
-"They just opened another section of Anthro. The Dr. Marsh one — even her eight a.m. fills up. Sign up with me?" She heard how much she wanted it and didn't mind. "Tuesdays and Thursdays, seven to eight-twenty. It'd be like stats, except we'd have picked it."
+"They just opened a night section of Anthro. The Dr. Marsh one — her eight a.m. fills up, that's how bad people want her. Sign up with me?" She heard how much she wanted it and didn't mind. "Tuesday and Thursday nights, seven to eight-twenty. It'd be like stats, except we'd have picked it."
 
 "Done," Randi said, immediately, like it cost nothing. "Obviously." Then: "Is Cassie in?"
 

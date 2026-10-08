@@ -104,7 +104,7 @@ His hands came out from under the stream and around her, wet and warm and clean,
 
 — and she leaned back out of reach and wagged one finger at him, slow, side to side.
 
-His hands stopped. Withdrew. He stood there with the tap still running behind him, clear water sliding off his wrists, wearing — rare as an eclipse — a look she had never once seen on him: puzzled. Outranked, and not yet informed of the new order. She held his eyes a beat longer, saying nothing, because nothing was the whole trick of it — she'd learned that in a doorway, two nights ago.
+His hands stopped. Withdrew. He stood there with the tap still running behind him, clear water sliding off his wrists, wearing — rare as an eclipse — a look she had never once seen on him: puzzled. Outranked, and not yet informed of the new order. She held his eyes a beat longer, saying nothing, because nothing was the whole trick of it — she'd learned that in a doorway, the night before.
 
 Then she turned, with far more shoulder than any turn required, so that everything she had swung with it, overshot, and came swaying back. And she walked. Out of the kitchen and down the hall toward the bedroom, a pace for a princess, letting her hips have their full say, every step rolling up through her so that she could feel herself sway and shake with it, deliberate, delicious, not one motion of it apologized for — and somewhere in those few yards she stopped being able to tell the performance from the wanting. The sway was for him; the heat of it was hers, gathering low with every step, her body already readying itself for what she had only meant, so far, to promise.
 
