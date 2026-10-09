@@ -10,3 +10,13 @@ Cassie delivers the device cold: she clocks that Pace showed Randi no attraction
 
 Plan formally begins; two of three know.
 
+**Age — the first rung, young-with-no-number (author ruling 2026-10-08).** Vee registers
+him as young for what he is and does not pursue it: *"Underneath it he seemed young to be
+finishing a PhD, and she set the thought down without opening it"* (`:197`), on the back of
+*"Grad student"* → *"Finishing a PhD."* She must not acquire the number here. That makes
+this the **first rung of the three-step age reveal** — Substitution (young, unexamined) →
+{{What to Wear}} (*"He must be… Almost finished already"*, Kayla's older-man premise waved
+through) → {{Rock}}'s porch, where *"Twenty-two"* lands and Vee catches her own assumption
+in the act. The ladder's later two rungs are recorded in `meta-triage-what-to-wear.md` and
+`meta-triage-rock.md`; this rung was undocumented until now.
+

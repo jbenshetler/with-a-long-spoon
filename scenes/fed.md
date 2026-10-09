@@ -30,7 +30,7 @@ Randi held her flute and listened, her face open and warm and glad for her frien
 
 "Okay," she said. "And now I get to be a little mean, because I love you." She set the flute down. "You keep saying *he*. He was patient, he was gentle, like you just stood there and let it happen to you." A beat, fond. "Let me ask you something. That day. Did you do anything to get ready for him?"
 
-Vee looked at her hands on the white cloth. "I painted my nails," she said. And then, because she could not not, quieter: "And my toes."
+Vee looked at her hands on the white cloth. "I painted my nails," she said. And then, because she could not not, quieter: "And my toes." Her hands came off the cloth as she said it and went flat on her thighs under the table and pressed down, which did nothing, and which she did anyway.
 
 "Fingers for the room." Randi tilted her head. "But the toes. You paint the toes for a man who's going to have your feet bare in his hands. You did those Friday. For him."
 
@@ -43,6 +43,8 @@ The heat came up in her throat.
 "Why'd you pick it?"
 
 And Vee had the answer and couldn't give it. The answer was the nights she'd lain awake with the silk in her head — the silk she'd seen in the light of his sun porch, the dress he was still making her out of it — turning the color over in the dark; and the Ulta at the mall, earlier that week, where she'd stood in the bright aisle and picked the one bottle that woke that same plum up when the light caught it. She didn't say any of it. It came up in her face instead.
+
+It came up her throat and into her face while she sat there, slow and complete, the heat of a thing being seen before she had decided to show it.
 
 Randi watched it arrive. "Oh," she said, softer. "That face isn't about a color, is it."
 
@@ -62,7 +64,9 @@ Vee laughed again, helpless, glowing, caught all the way through. She'd bought t
 
 Randi didn't tease her for it. She looked at her, like the planning was the part she liked best. "You knew how that night was going to end before you ever got in the car," she said. "You drove over there sure." A beat. "So why are you telling me like it's a confession?"
 
-And Vee, who'd braced for teasing and gotten this instead, felt the thing come up and said it out loud because it was suddenly, simply, true. "I wanted it," she said, and turned her flute on the cloth. "And I took it. For once."
+Something had come into Randi's voice over the last few minutes. Vee heard it without being able to name it — the esses running long, the a's lifting, more of whatever it was than there had been when they sat down — and her eyes had gone liquid at the edges. *She's a little drunk,* Vee thought, fond about it, and looked over to confirm it: one mimosa, and most of that still in the glass. So it wasn't that. Nothing came along to take its place, and the light moved on the porch, and Vee let the question go.
+
+And Vee, who'd braced for teasing and gotten this instead, felt the thing come up and said it out loud because it was suddenly, simply, true. "I wanted it," she said. Her hand had found a piece of her own hair and was drawing it slowly through her fingers. "And I took it. For once."
 
 "Good," Randi said, and reached across and laid her hand over Vee's, and left it there, warm, and Vee felt the word settle into her and stay.
 

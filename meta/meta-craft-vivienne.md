@@ -235,3 +235,106 @@ The writer's tool for understanding Vee's interior across the year. **Does not a
 ## The Closing Image
 
 Small, undecorated, in motion. Contains the whole without announcing any of it: the gains, the no, the hunger, the ascent, the knowledge. She is walking forward into something. The specific image is a craft decision. The architectural commitment: it carries all of this, announces none of it.
+
+
+## Perfume (author ruling 2026-10-08)
+
+**Floral, sweet, musk — in that order, as three layers.** Named on the page only once, and in
+**Pace's** mouth, because Vee cannot smell her own and the describing is the point:
+`swim-lanes.md:31`, where he is telling Randi about Vee in bed and the telling is what arouses
+her. *"Gardenia and musk. On her throat, and lower. It's been warm on her since morning, so by now
+it's mostly the musk."* He has the vocabulary (he tastes and smells for a living) and he spends
+it deliberately, on Randi.
+
+- **The musk is in the bottle, not in her.** Gardenia and musk are both the perfume; nothing in
+  the scent is her own body. What the warmth of her does is change the *balance* over a day —
+  the top note burns off and the base stays — which is how Pace knows it: composition and time,
+  not a catalogue of women.
+
+- **He names the flower, and that is in register** (author ruling 2026-10-08). Pace refuses the
+  generic noun wherever he knows the specific one — *honeycrisp*, *blood orange*, *persimmon*,
+  *quartersawn oak* — so circling a flower he could name was the thing that read wrong. Keep the
+  reference **horticultural, never perfumery**: he knows a gardenia as a Southern shrub, not as
+  a fragrance note. A man who can identify a woman's perfume has smelled many, which would cut
+  against Vee-is-the-first (`meta-note-gone.md`); a man who knows the plant has not.
+- **Body and hair are separate.** The perfume is on skin — throat and lower. The hair carries no
+  perfume at all: shampoo-clean, with a hint of chlorine under it. Do not put the perfume in her
+  hair or the chlorine on her skin; the split is what isolates the plant in one place he cannot
+  account for.
+- **It can only be carried in Pace's or Randi's POV.** Never Vee's.
+- **One chapter, both women, opposed.** `swim-lanes:13` already has Randi's — *"the sharp
+  citrus and the cold thing under it."* Cold citrus against warm floral musk, both noticed by
+  the same man in the same scene. Do not warm Randi's or cool Vee's.
+- **Location:** her throat and her hair. The chlorine under it stays — Pace does not know she
+  swims, and *"Like she'd been in a pool"* is the plant, not an observation.
+- Randi's own inventory of Vee at `four.md:153` (*"Her chest. Her hair in my face. She runs so
+  warm"*) may echo it later; it has three senses and no smell.
+
+
+## The tell system, extended (author rulings 2026-10-08)
+
+Added channels and two reclassifications. **Guard: do not thin these to one rigid meaning
+each — they become unreadable.** Overlap where the body plausibly does several things at once;
+space them rather than assigning them.
+
+### The not-looking move is psychological, not a physical tell
+
+*Choosing not to look*, and **putting a thing away metaphorically**, belong with the
+deflection family — the cultural explanation (`:76`) and the displaced fight (`:77`) — not with
+the bodily tells. Canon instance: `on-her-floor:179`, *"Underneath the shame, low, where she
+didn't look."* **The trigger is narrow:** it fires on the thing she cannot look at, which is
+always **her own wanting**, never another person's face. Keep it; it is hers and it is load-
+bearing. Do not spend it as a generic paragraph-closer — a 2026-10-08 draft used it to end
+three consecutive beats and it read as one drum.
+
+### New channel — the nose (involuntary)
+
+Nasal turbinates carry erectile tissue — the genitals are the only other site — so arousal
+engorges them through a parasympathetic pathway; the clinical name is *honeymoon rhinitis*,
+first described 1875 and underreported because patients are embarrassed to raise it. **This is
+evidentiary-register, not a gesture:** it joins wet / hard nipples / flush at `:95`, the
+arousal that announces itself without her consent.
+
+**She does not touch it** — touching it would be rude in company, and the point is that she
+*feels* it. And it is the only member of that family that is **deniable**: a stuffy nose in a
+bright room is nothing, so Vee gets the evidence *and* gets to write it off, which is her
+documented coping mechanism at `:76`. The other involuntary tells convict her; this one hands
+her an excuse.
+
+### New channel — her hand in her own hair (outward)
+
+The author's ruling is that this is an arousal tell. The research qualifies *where it points*:
+in Moore's 1985 catalogue of nonverbal solicitation behaviour (200+ women, ~100 hours,
+52 behaviours) hair-touching sits in the self-grooming/primping group, and **signal frequency
+and variety predicted approaches better than attractiveness did**. So it is best rendered as
+**solicitation pointed outward** rather than as a private physiological marker — Vee
+*inviting*, with no idea she is doing it. That is a larger step than the body betraying her,
+and should be placed accordingly.
+
+### Venue — thighs and toes are one impulse, not two tells
+
+**Touching her own toes is an arousal tell in private spaces**, and carries a second charge the
+thighs cannot: *being easy in a room, or with a person.* It is only available where her shoes
+are off, which is what makes it private. The hands-to-thighs instances (`:69`) are all in
+company. Treating them as one impulse routed to whatever she can reach also answers the
+over-repetition problem, since the existing gesture gains a venue instead of a sixth instance.
+
+Her toes are already the most loaded part of her — the frosted plum, *"I painted my nails…
+And my toes"* (`fed:33`), Randi's thumb on the plum in {{Sorority}}, Cassie's *"Was he worth
+painting your toenails?"*
+
+### The nipples → self-hug chain, and who causes it
+
+`practice-room:89` (ch033) already runs the full chain and is its best instance: nipples
+*"drawing up tight and sudden to the point of aching"*, the worry about *"how much the cloth was
+telling — telling anyone, telling Randi"*, then the arms crossed over herself *"in a motion she
+tried to make look like settling, like being a little cold."* So **concealment is already a
+licensed meaning of the self-hug** (as `:70` records at `practice-room:89`), and it reads
+unambiguously because the cause is visible in the beat before it.
+
+**Load-bearing and easy to break: every instance of the nipples tell has Pace as its cause** —
+`clean-plate:115`, `coming-due:7`, `among-friends:85`, `practice-room:89`. Thirty chapters have
+taught the reader that this tell means Pace. `my-friend-randi` is the **first time Randi causes
+it** (the shoes handed over, Randi's fingers still hooked through the straps), and Vee
+attributes it to Pace and to tonight — which passes unchallenged precisely *because* the prior
+history is real. Do not add a Randi-caused instance earlier; it would spend the cover.

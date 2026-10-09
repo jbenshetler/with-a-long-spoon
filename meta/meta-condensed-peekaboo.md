@@ -33,3 +33,33 @@ Afterglow. The pause-to-hang-the-dress now lives on the page (the coda keeps onl
 ## On reread
 
 The scene's purity is the high-water mark the spring corrupts. Pace's all-night devotion is real and uncalculated on the page — the tenderness that is also instrumental, never tipped.
+
+
+## The act at full length (author ruling 2026-10-08)
+
+**What was wrong was proportion, not fade.** The chapter had ~900 words of lead-in — the
+slit, the standing joining, the slick-hands comedy, the fingers in his mouth — and then
+covered the entire final act in ~190 words of summary (*"They came down on the bed still
+joined and finished it there"*). `reviews/cold-read/gpt-5.5/peekaboo.md:15` named it: *"It
+peaks for me less in the actual implied sex than in the sequence before it."*
+
+**The fix gives the act the chapter's own subject, which is being looked at.** The title's
+charge is hidden-and-shown, and the whole chapter ran on it — the dress lit in the window,
+*"a lot of you covered in a lot of me"*, him studying her fingers *"with the care he'd give
+a hem"* — while the sex used none of it. Her eyes were not in that paragraph. Now they are:
+he stops where she puts him and **looks**, and at the finish *"his eyes were open and on
+her."* Connects back to {{The Bench}}'s *can we leave them up* and forward to {{Still Life}}.
+
+**The choreography, as ruled.** He puts her down and the putting-down takes him out of her.
+She gets both feet flat on his chest — **the frosted plum against his skin** — and holds him
+off at the length of her own legs: *her* tease, and a large move for a woman on her second
+time with him (*"There'd been one night before this"*). He answers it by taking his time
+going back in, a little and stopping and watching her face, plainly enjoying her wanting it;
+he twitches against the inside of her once, so the cost is **felt, not stated**, which pays
+off the chapter's running joke (*"He twitched in her hands"*). The comic register is kept
+through the hinge — *"Well?" / "I'm looking." / "I noticed."* and *"she stopped having
+opinions"* — rather than going solemn.
+
+**Legs are the through-line:** the arches, the knees apart, the ankle moved out to the side,
+the heels on the backs of his thighs. Do not re-compress this act; the summary version is
+the defect, not the draft.

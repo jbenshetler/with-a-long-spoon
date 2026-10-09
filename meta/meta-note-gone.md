@@ -72,3 +72,72 @@ Once drafted: re-run the opus cold-read from here forward, then **re-probe the o
 - `meta-note-threesome-reveal.md` — what Pace knows of Randi's interior; the sanitization.
 - `meta-arch-pace.md` — embodied-presence (hot, not cool); the benefactor story.
 - `reviews/cold-read/claude-opus-4-8/oracle/` — the Vol-1-end results that motivated this.
+
+
+## "I get bored of everybody" (author ruling 2026-10-08)
+
+The leak line is *"I keep waiting to get bored of her — **I get bored of everybody** — and
+it doesn't come."* It was *"you always get bored"*, and capture readers took the generic
+*you* as a **shared** history — Pace and Randi having run this arrangement before. **They
+have not**, and nothing may imply they have. The replacement relocates the boredom entirely
+inside Randi's own life, where Pace has no part in it, so there is no *we* left to misread.
+
+It also keeps what the line was for: `reviews/cold-read/claude-opus-5/gone.md:33` reads it as
+*"the first piece of her own history she's handed over unprompted"*, and *everybody* makes
+that larger rather than smaller — a woman who burns through people, who cannot burn through
+this one. Serves the villain-guard in `meta-arch-randi.md`.
+
+
+## The brunch-report close (author ruling 2026-10-08)
+
+*"Pace this, Pace that. She's got it **bad**." A beat. "It's romantic."* — replacing
+*"It's a little pathetic." A beat. "I love it."*
+
+Both halves of the old line were condescension, and swapping only the first would not have
+fixed it: **"I love it" makes Vee's feeling into Randi's entertainment**, which is not the
+relationship. *Romantic* ends instead on the thing Randi does not have, said to the man who is
+providing it, while she sits in his shirt in his kitchen having just been fed by him. Fond and
+bleak at once, with no ownership of Vee's feeling.
+
+**The undefended face stays, and moves after the line** (same ruling). It had sat *before* her
+speech, which primed the reader to hear a confession instead of letting one happen, and left
+*"He looked around at **that**"* pointing at the weak antecedent *"The whole hour."* Reordered,
+*that* is **"It's romantic"** — the leak is what turns him around — and the discovery runs in
+the right order: the line gets away from her, then he sees what it cost.
+
+The reorder also gives the undefendedness a **cause**. Her whole report now runs in one piece
+to his back while he is turned to the stove, so the leak gets out because nobody is watching;
+he turns a half-second late and catches it. The single speech also suits the woman who has just
+said *"I keep waiting to get bored of her… and it doesn't come."* The old two-sentence close was
+explaining what the face already did.
+
+
+## "You do nice work" (author ruling 2026-10-08)
+
+Added at `:53`–`:57`, before the dress praise:
+
+> "You do nice work," she said. / "Thank you." / "And the dress is not bad." Quieter. "She's
+> stunning in it, Pace…"
+
+**The ambiguity is deliberate and three-way at that spot.** He has just cooked for her and she
+has just eaten all of it; he has just said *"I like taking my time with her"*; the dress is the
+subject she is about to name. So *nice work* can be the meal, the dress, or **what he is doing
+to Vee** — and the next line eliminates the dress, the meal is too small to have meant, and
+*"She's extraordinary. How she looks. Who she is"* closes it on Vee. The sting is that *nice
+work* is a **craftsman's** phrase, spent on a woman, in the same breath as a garment he built.
+
+**Pace's *"Thank you"* is him taking it for the dress or the dinner** — he mis-takes it exactly
+as he mis-takes things, and her next line corrects him without correcting him.
+
+**It also supplies a missing antecedent.** `"She's stunning in it"` had no referent anywhere in
+the scene; the dress was carried in from {{Sorority}} and the reader had to supply it. Naming
+the dress one line earlier gives *in it* something to point at.
+
+**Do not answer it at `:57`.** *"You do nice work"* is the question; **`:61`'s *"And you're
+showing her she doesn't have to be"* is the answer**, and the eight-line gap is the beat doing
+the work. A proposed *"She glows when talking about you"* after *"Who she is"* was **considered
+and declined** for three reasons: the fact is already spent at `:35` (*"The whole hour. Pace
+this, Pace that. She's got it bad." / "It's romantic."*) in a stronger register; *glowing* lands
+two lines later in Pace's own image at `:59`, so Randi saying it first makes his private picture
+an echo of her word; and naming what the work produced turns an appraisal into praise, demoting
+*"Who she is"* from the landing to a setup.

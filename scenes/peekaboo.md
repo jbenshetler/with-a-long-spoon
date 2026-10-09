@@ -84,7 +84,27 @@ Above her waist she could finally let go of him, and there was exactly one thing
 
 They finished the job properly after that — the dress up and off over her raised arms, back through the den to the sun porch, hung in the window it had come from, the burgundy taking the last of the light. She had his shirt off him before the hanger stopped swinging.
 
-And then there was no patience left anywhere in the house. She went up him — arms around his neck, then both legs — reached down and put him back where he belonged, and this time there was no getting started, no distance to close: right in, all of him, like he'd never left. He stood a second with his eyes shut, holding all of her. Then he walked. Every step of the hall moved him in her, and she gave up all claim to quiet; halfway down they went off balance and the wall caught them, hard enough to knock the breath out of her in a laugh, and he pushed off it with one shoulder and kept going. They came down on the bed still joined and finished it there, nothing careful left in either of them, the headboard talking, her heels in the backs of his thighs — and when she went over he was a breath behind her, buried deep, shaking, letting everything he'd held all afternoon go into her at last.
+And then there was no patience left anywhere in the house. She went up him — arms around his neck, then both legs — reached down and put him back where he belonged, and this time there was no getting started, no distance to close: right in, all of him, like he'd never left. He stood a second, hugging her tightly as if he wanted even more, groaning into their kiss. Then he walked. Every step of the hall moved him in her, and she gave up all claim to quiet; halfway down they went off balance and the wall caught them, hard enough to knock the breath out of her in a laugh, and he pushed off it with one shoulder and kept going.
+
+He put her down on the bed, and the putting-down took him out of her, and she did not let him straight back.
+
+She got her feet up between them instead, flat on his chest, both of them, and held him off at the length of her own legs. The plum on her toes against all that skin. He could have come through it without trying and he did not; he stopped where she put him and looked, and she let him look, and it went all the way down her — the arches, the knees apart, the whole open length of her, nothing left to put in front of any of it and nothing in her wanting to. He took one ankle and moved it out to the side, slow, and looked at what that opened, and the sound she made should have shamed her but didn't.
+
+"Well?"
+
+"I'm looking."
+
+"I noticed." Her heels slid down off his chest and found the backs of his thighs and pulled.
+
+He came back into her slower than she wanted, which was the whole point, and she knew it was the point: a little, and stopped, and watched her face; a little more, and stopped there. She was so wet it made no sound at all. She tried to take the rest of him with her heels and he simply held, heavy and still above her, and he twitched against the inside of her, once, and she knew exactly what it was costing him and that he meant to spend it anyway.
+
+"You're enjoying this," she said.
+
+"Very much."
+
+Then he gave her the rest of himself and she stopped having opinions.
+
+They finished it there, nothing careful left in either of them, the headboard talking, her heels in the backs of his thighs — and when she went over his eyes were open and on her, and he was a breath behind her, buried deep, shaking, letting everything he'd held all afternoon go into her at last.
 
 ---
 

@@ -38,7 +38,13 @@ When it finally broke, Randi's neck and shoulder were wet where she'd cried, and
 
 She put Vee down on the made place, and with Vee sitting and Randi standing close, listening, it came out in the wrong order and all at once. He hadn't texted her once the whole break. Not one word. Over a month of nothing. He didn't care. It had been sex, that was all, and now that she'd made it complicated he was done. "And there's someone else, there has to be. He cooked for her at Thanksgiving, this girl, Sheri, she was alone, and the whole break I've been seeing her with him, alone, much more than friends." It broke off in her throat.
 
-Randi didn't tell her she was wrong. She sat down beside her on the bed, close, their knees touching on the small mattress, and let the quiet sit a moment before she moved into it. "Do you actually believe he was using you? Or is that the fear talking? Because the fear's a liar, and you haven't slept." She didn't wait for an answer. "Start over, but slow. Not the last month. That last night, the one before the break. You got there, and what happened?"
+Randi didn't tell her she was wrong. She toed her slippers off and got up onto the bed, and Vee stayed where she was, on the edge of it with her knees together and her feet still on the floor.
+
+Randi put a hand on her knee and pushed it an inch sideways. "I don't bite."
+
+So Vee got her shoes off and turned in and came up onto the bed too, and their knees met on the small mattress, and her skirt fell open along her thigh so that her own toes showed at the side of it, the frosted plum bright against the coverlet. Randi let the quiet sit a moment before she moved into it. "Do you actually believe he was using you? Or is that the fear talking? Because the fear's a liar, and you haven't slept." She didn't wait for an answer. "Start over, but slow. Not the last month. That last night, the one before the break. You got there, and what happened?"
+
+This close, their knees touching, Vee could see all of it: the brows lying where they had been put, the mouth lined a hair outside its own edge so that it read fuller than it was, the whole face assembled that morning by a woman who had come off a plane the day before and done it anyway. Vee had been crying on her shoulder ten minutes ago. She looked at Randi's mouth. Then she looked at the suitcase on the floor, and pressed her hands down into her thighs until it passed.
 
 And Vee, because Randi asked, told it. The truck in the drive. The house already warm, the heat brought up hours ahead so she'd never once be cold in it. The chicken going. Two glasses of wine poured out on the counter, waiting for her.
 
@@ -112,7 +118,19 @@ Then she was up and reaching for her coat, the day's coat, ready to go straight 
 
 "Why—"
 
-"Because you came off a red-eye and cried it all off and put none of it back, and you look, my love, and I say this with my whole heart, like a raccoon who lost a fight." Vee made a wet sound that was almost a laugh. "No man opens that coat for a woman who needs a shower and eight hours first. Go home. Sleep. Make yourself into the thing. And go to him tonight." She crossed to the closet and came back with a pair of black heels hooked on two fingers, and pressed them into Vee's hands. "And wear these. Just the thing for tonight." Vee took them — she was past looking at anything just now — grateful only that here was one piece of tonight already decided for her; Randi always knew the shoes.
+"Because you came off a red-eye and cried it all off and put none of it back, and you look, my love, and I say this with my whole heart, like a raccoon who lost a fight." Vee made a wet sound that was almost a laugh. "No man opens that coat for a woman who needs a shower and eight hours first. Go home. Sleep. Make yourself into the thing. And go to him tonight." She crossed to the closet and came back with a pair of black heels hooked on two fingers, swinging, and pressed them into Vee's hands.
+
+"And wear these. Just the thing for tonight."
+
+They came into her hands heavier than they looked, and Randi's fingers were still hooked through them when Vee's closed around the straps, so that for a second the two of them were holding the same shoes.
+
+Then she looked at them, and her stomach went over. The heel was taller by inches than anything she owned, a stiletto, the kind you arrive in. Above it, hardly any shoe at all — matte black bands laddering up over the foot and the ankle and on up the shin, open the whole way down the front, built to put a woman's leg on show from the toe to the middle of her calf and not pretend otherwise. The straps were soft-napped under her thumb, and a great many of them, and not one was there to hold the shoe on.
+
+*Just the thing for tonight.* Randi had handed them over like a pair of flats.
+
+And her body answered: her nipples drew up tight under the day-old shirt, sudden and sore with it, and the heat came up the back of her neck. *The shoes,* she thought, *and tonight* — because of course it was that, because tonight she was going to walk into a man's house in nothing but a coat and these, and a girl's body would get ahead of her over a thing like that. She had the answer before the ache was finished, and she put them away together, and she kept her eyes on the straps.
+
+What she got instead was gratitude, plain and enormous: here was one piece of tonight already decided for her. Randi always knew the shoes.
 
 Vee wiped her face with the back of her wrist, steadier now, wanting suddenly to give something back into the warmth. "Tell me about your New Year," she said. "The real one. You sent me two lines and a chalet and left me dying all break."
 
@@ -127,6 +145,8 @@ She told it well. It came out in order with the pauses in the right places — t
 "On the first day," Vee said, both hands come up to her mouth. "You were naming children on the first day." She said it, and it went into her sideways all the same, because it was the exact thing she didn't have, the easy forward motion of it, a man who'd build the whole future out loud in the first hour and not be afraid of one word in it.
 
 Then the dress — new, bought that same afternoon, a pale metallic blue, the kind you buy to tell your daughter about someday.
+
+Somewhere in it Vee had got hold of her own foot. Her thumb went slowly back and forth across the plum on her big toe, the polish she had kept up the whole break for a man who had not called, and she did not notice she had started.
 
 "The kind you tell your daughter about," Vee said, quiet now, and looked down, because that was the whole of it, a story with a shape already, a man who was a story you'd tell before you'd known him a day.
 

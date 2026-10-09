@@ -120,6 +120,8 @@ And something went through Vee at that, at *dear friend,* at the cool, damp hand
 
 Brooke's smile took it all in, the *dear friend* and the cool hand on the table, and did not change. "We should all get dinner sometime," she said, which was lovely, and meant nothing, and was plainly the end of it.
 
+Vee had been looking at the side of Randi's face while it happened, close enough to see how the work was done. The brows were not drawn on and they were not plucked to a line; they were thick and shaped and lying exactly where somebody had decided they would lie, and the deciding had cost money. Vee had a drugstore tweezer and a bathroom mirror two girls shared. She looked at them until she caught herself doing it, and then she looked at the table.
+
 The taller one had not said a word. She had drunk her coffee and watched, and now she gave Vee one last look, friendly enough, the look you turn on a thing once you are done turning it over, and then the two of them were moving off toward the door, a wave, a *love you* tossed back across a shoulder, and the bright matched room closed over them and they were gone.
 
 The room seemed to let its breath out, or Vee did. She reached for her drink and found her hand not quite steady and set it down again.

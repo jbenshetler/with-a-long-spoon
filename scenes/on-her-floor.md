@@ -80,9 +80,9 @@ Randi laughed, lit up, and reached out and took a hank of Vee's hair and ran it 
 
 Vee's hair was down and flat-ironed and still wouldn't fully obey — it had a will in it, curving where it wanted, warm and red and alive against all that lacquered black — and under Randi's hand the old easy pleasure rose in her, of being someone's good thing, handled and approved, and she grinned like a fool. And close like this she caught the rest of it: the mouth done in a deep berry drawn so smooth you couldn't find the seam where line met fill — steady-handed, unhurried, expensive in a way Vee could price to the dollar and never once pay; the white gold at Randi's ears, small and hard and throwing light; the one stone at her throat on a chain so fine it vanished; the plain heavy band always at her wrist — all of it the same cool pale metal, chosen to lie quiet against that cool pale skin and never fight it. Even her jewelry agreed with her.
 
-They coated up at the doors. Randi first and fast, hugging a soft wrap coat to herself and already mourning the walk, because Randi ran cold, a tiny girl who felt every degree of it and made it known; Vee got into her own and was fine, the tall one, the warm-blooded one of the pair. Then out — and the cold came straight up under the scrap of skirt and pebbled the whole length of her bare thighs into gooseflesh, a fast involuntary accounting of just how little of her the thing covered. She laughed, her breath going white. "It's not a skirt. It's a rumor."
+They coated up at the doors. Randi first and fast, hugging a soft wrap coat to herself and already mourning the walk, because Randi ran cold, a tiny girl who felt every degree of it and made it known; Vee got into her own and was fine, the tall one, the warm-blooded one of the pair. Then out — and the cold came straight up under the scrap of skirt and pebbled the whole length of her bare thighs into gooseflesh, a fast involuntary accounting of just how little of her the thing covered. She laughed, her breath going white. "It's too short for a skirt. It's a rumor."
 
-"It's working, isn't it." Randi took her arm and pulled her in, warm all down that side. "Cold's good. Cold gets us inside faster." And they went toward it like that, arm in arm and out of step and laughing at nothing, the campus hushed and lamplit and mostly theirs, the brick breathing its winter up at them, the bar a block off past the gates with its windows already gone gold — two girls dressed for the party and not the cold, the whole night still in front of them.
+"Not that short," Randi said, enjoying herself. "It's working, isn't it." She took her arm and pulled her in, warm all down that side. "Cold's good. Cold gets us inside faster." And they went toward it like that, arm in arm and out of step and laughing at nothing, the campus hushed and lamplit and mostly theirs, the brick breathing its winter up at them, the bar a block off past the gates with its windows already gone gold — two girls dressed for the party and not the cold, the whole night still in front of them.
 
 The bracelet was at Vee's eye again where their arms were linked, catching the streetlight, that plain heavy band that never came off. "I love, *love* your bracelet," she said.
 
@@ -143,6 +143,14 @@ She was lit all through: the president of the whole house carried her little his
 "You're my date."
 
 And Vee laughed, giddy with it. *Randi's* date. Glamorous, beautiful Randi, who could have walked in on the arm of anybody in the place, had picked her — and said so out loud, in front of the president of the house. She stood two inches taller in the borrowed skirt and knocked her shoulder into Randi's. "Nobody tells me anything."
+
+And then she looked at her. Properly, for as long as she liked, because tonight she belonged to Randi.
+
+The mouth first. Vee knew how it was done — she knew the word *overlining*, knew it took two products, had stood at her own mirror with a borrowed pencil and come away looking like a child in her mother's things. Randi's was drawn a hair outside her own lip and nowhere did it read as drawn. The line held clean the whole way around, cleaner at the corners than Vee had ever got one, and the color sat flat and full and sank into nothing, and it had been on that mouth four hours and through a drink and had not moved. Up close the upper lip lifted into two peaks, and the lower was fuller than the upper by exactly enough, and somebody had been taught to do this and then done it ten thousand times.
+
+She kept looking.
+
+Then the music changed under them and Randi turned her by the hip and took her back toward the floor.
 
 "I'm telling you now."
 

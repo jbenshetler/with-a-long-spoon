@@ -32,3 +32,36 @@ First read: a warm, triumphant, sexy achievement beat — best day, best dress, 
 - **Cassie warm, not suspicious:** witness and friend; any Cassandra note is a whisper.
 - **Pace tender, not tipped:** his sorrow is real and un-performed; no line that exposes calculation.
 - **Continuity:** Berkeley conference (the induction week) is distinct from {{Above Him}}'s Chicago (the week apart, the following week — fall cluster); dress worn bare (per {{Peekaboo}} slit logic); heels canon from {{Sorority}} (Vee's own, dear, four-inch dark straps); toe/finger polish = frosted plum (matched at {{Sorority}}); {{Leave No Trace}} pointer kept relative ("Still weeks off").
+
+
+### Rulings 2026-10-08
+
+- **It is an honor society, and the room is mixed — but the all-girls navy is Vee's own
+  casting, not the room's census.** Named in the first sentence (*"the honor society's
+  inductees"*). Her *picture* of the day contains only girls, because **in the picture she
+  is one of them**, in the good-enough black — the identification is the point and must
+  survive; the real room then corrects it (*"Boys sat in the rows as well, in suits that fit
+  nobody"*). Do not degender the navy she imagined. The chapter is the **only
+  place the room is depicted**, and it previously named the society nowhere and showed only
+  girls, so readers repeatedly took it for a sorority induction — Cassie's *"Honor student"*
+  arrives far too late to prevent it. Five earlier chapters already say *honor society*
+  outright (`leave-no-trace:123`, `turned-up:13`, `how-its-done:71`, `cropped:9`,
+  `two-towels:109`); they needed no change.
+- **Vee's mother is not in the room, and the reason is simply the airfare.** Cassie's line
+  keeps the crying and relocates it to the phone: *"Go make your mother cry again — call her
+  the second you're out."* **Neither Vee nor her mother knows what the dress cost**, so the
+  flight is never priced against it — it *"cost more than they had"*, full stop.
+- **Disappointed and relieved, and the relief is confessed out loud to Cassie at the doors.**
+  She says both halves — *"I've been sad about it all week… And I'm a little relieved. Which
+  is a horrible thing to be."* Cassie takes it for being spared the fuss (*"Not horrible.
+  Just honest"*), which **is kind and is not it**: the real reason is bodily, and Cassie is
+  the wrong-shaped listener per `meta-plan-chronology.md:119`, so Vee finds *"nothing she
+  could put in a sentence Cassie could take"* and says *"Probably."* The confession therefore
+  **fires the withholding engine rather than resolving it.** The interior paragraph then
+  finishes the sentence she could not — *"nothing at all under the silk, and nobody in this
+  room who had ever taught her what to be ashamed of."* Her mother present makes the long
+  step impossible, so the absence is what lets the chapter happen. Do not soften the relief
+  into guilt, and do not let Cassie guess the real reason.
+- **Meg and Kayla stay out** (considered and declined). The chapter runs on her being nearly
+  alone — *"full of nobody's late entrance… No one was going to turn on their own."* Friends
+  in the audience give her witnesses and soften the emptiness the long step exists to beat.

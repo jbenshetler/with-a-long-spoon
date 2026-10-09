@@ -140,6 +140,12 @@ He changed the album. Randi arrived in his head the same as she arrived in the h
 
 She was on the other side of the ocean and it would not have mattered if she had been in the next room. He could see the whole evening if she had been: her shoes off, her feet up, the blanket, that mouth going about somebody at her mother's table, and himself glad of it. Glad was not what was wrong with him.
 
+He wondered how it would be for her. Not whether she wanted it — she wanted it, and a man would have to work at it to miss her wanting it. Brunches with Randi were the only thing that got Vee out of this house on a weekend, and she dressed for them, and she left smiling and came back lit. Fridays she was into his arms before they cleared the porch, every time. Sunday nights she went slow about leaving, and most of the time she did not leave at all — she went to her eleven o'clock from his bed on Monday with her hair still wet, having let the earlier ones go. And in November she had kissed Randi goodbye on a sidewalk in the sun and then come after her for more of it — Randi had told him so with her mouth at his ear while he was inside her, and it still worked on him now.
+
+What he wondered was how she would carry it. Whether the room would ask more of her than she had in her.
+
+The picture came as it came now, further along than last time, because he had been adding to it for weeks. The three of them in his kitchen in the middle of a morning, after. Him at the stove with something going. Vee at the table in his sheet with her hair loose and too much honey in her tea. Randi across from her with her coffee, feet up on the lacquered seat. The two of them laughing at something he had missed, and nobody hurrying anywhere.
+
 He went back to the pictures.
 
 Somewhere in there he filled the glass again, and after that the order of things stopped being reliable. The album ended and he did not get up, and the next one started on its own and went on playing into the dark a long time after he had stopped hearing it.

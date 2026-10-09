@@ -29,3 +29,36 @@ What she'd feel overall is not quite envy but something more complicated — a r
 **The gap between her own attempts and what she's looking at** — this is the seed of the mutual-envy architecture from Vee's side. Vee envies Randi's composure and reads it as freedom. The makeup is the first concrete instance of that reading: Randi looks like someone who has mastered something Vee has not. The fact that what she's mastered is surface-construction — and that the surface is what the whole apparatus *is* — is not available to Vee at this stage.
 
 **Placement candidate:** the meet-cute or an early one-on-one. **Update ({{See You Later}} reconciliation):** the first one-on-one is now the **Chi Latte diptych (`see-you-later.md`)**, drafted with only a *light aspirational* read — at the high table Vee registers Randi as rank/aspiration (the cream, the bound ponytail, the citrus-cold scent, the upward want), **not** the full face-catalogue. **Decision: the full lipstick/cat-eye/foundation sequence is saved for later** — not folded into {{See You Later}}. It remains available for a later close-proximity scene (a meet-cute revision, an SATC lunch, the shoe-shopping or dressing-room beats). The campus walk established Vee's surface as ungradeable by Randi's grammar; the reverse perception belongs in a scene where they're close enough for Vee to study the face — placement deferred, sequence preserved here intact.
+
+
+---
+
+## Siting (author rulings 2026-10-08) — the override
+
+**The three features render VEE's attraction, not Randi's state.** They are objects of Vee's
+attention, not tells; the only thing on this axis that reports on Randi is her accent
+(`meta-craft-randi.md`). Desire is **leaked, never stated** — carried by duration, by what she
+catches herself doing, and by her own arousal tell, with no claim ever made on the page.
+
+**The full, detailed, lingering look belongs to {{On Her Floor}}**, immediately after Randi says
+*"As my date"* in front of Brooke — **superseding** the first-encounter rule above, by author
+override. What licenses the length is one clause: *"for as long as she liked, because tonight
+she belonged to Randi."* Every earlier instance is Vee catching herself; this is the only one
+with permission in it, and that is what makes it the peak rather than merely the longest. It
+closes on *"She kept looking."* and nothing else.
+
+**The lipstick is not held.** Glancing instances are allowed anywhere; only the lingering
+catalogue is reserved.
+
+**Scattered, as drafted:**
+
+| ch | chapter | feature | placement |
+|---|---|---|---|
+| 011 | {{Dear}} | **brows** — thick, shaped, *"the deciding had cost money"* | before the first kiss; mid-defense, while Randi pays a social cost to Brooke, so the noticing arrives fused with gratitude. Closes on *"until she caught herself doing it."* |
+| 037 | {{One Bite}} | **mouth curve** — one corner up and staying up | after the second kiss, before {{On Her Floor}}; at the *"Delicious"* beat, where her mouth is already the chapter's subject |
+| 054 | {{My Friend Randi}} | brows + the lined mouth, glancing | on the bed, *"their knees touching"*; closes on **Vee's own arousal tell** (hands flat on her thighs), not on narrated avoidance |
+| 070 | {{On Her Floor}} | **the lipstick, in full** | the peak, after *"As my date"* |
+
+**Do not reuse the avoidance construction.** An earlier draft closed three of these with
+*did not look / did not examine / did not look away*; it was ruled overdone and thinned. Vary
+the mechanism — caught herself, the body, the brevity — never the same turn twice.

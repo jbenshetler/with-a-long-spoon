@@ -140,7 +140,7 @@ Randi tipped her head toward the little plate that had arrived while she was gon
 
 And Vee could not tell. That was the whole of it, standing there with her pulse in her ears and her face on fire: she could not tell whether her friend had just handed her a door or shown her there had never been one. She sat down. She did not find out.
 
-She hardly remembered the rest of the meal. It went past her in pieces. Randi had coffee, and took one neat bite of a pastry and set it down and said "Delicious" in a way that closed the subject, and did not touch it again, and drank the rest of her coffee black. The check came and went. Vee must have talked, because the morning kept moving and nobody stopped it.
+She hardly remembered the rest of the meal. It went past her in pieces. Randi had coffee, and took one neat bite of a pastry and set it down and said "Delicious" in a way that closed the subject, and did not touch it again, and drank the rest of her coffee black. Her mouth did the thing it did when she was pleased and had decided not to show all of it — one corner going up, and staying up, in no hurry to come back down, the painted line holding its shape the whole while. Vee watched the corner and lost whatever she had been about to say. The check came and went. Vee must have talked, because the morning kept moving and nobody stopped it.
 
 The cold caught her at the door and took her breath clean out, and the world came back to its right size. The porch with its gold light and its glazed pastries was behind glass now, a lit box she had climbed out of, and she stood on the sidewalk in the plain cold, herself again, or near enough to pass.
 

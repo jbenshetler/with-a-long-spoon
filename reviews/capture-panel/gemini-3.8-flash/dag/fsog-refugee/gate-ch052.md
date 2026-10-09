@@ -2,15 +2,17 @@
 
 REACTION:
 
-Oh, this hurt. This hurt in that quiet, aching, entirely unglamorous way where you’re lying in the twin bed you outgrew at fourteen, smelling the lavender plug-in and hearing the furnace click off, realizing the person you used to be doesn’t live here anymore.
+Oh, god. This hurt. This hurt in that specific, hollow, sick-to-your-stomach way that only New Year’s Eve in your childhood bedroom can hurt when your heart has just been pulverized.
 
-Seeing the exact other side of that text message ripped my heart out. In chapter 51, Randi was standing in front of the mirror wiping another man’s body off her mouth, completely frozen and empty, sending that bright, glittering lie. And here is Vee, freezing in Ohio, reading it and thinking: *She’s fine. Better than fine.* The dramatic irony isn’t just suspenseful—it’s devastating. Vee is sitting there assuming Randi has the world, while Randi is actually drowning in the cold, longing for the warmth Vee gives away for free. And the tragedy of Vee clinging to Randi as the "one sure thing" in the new year… God. She has no idea she’s holding onto the very person who helped set the fire.
+The contrast between these two chapters—reading Randi in 51 and then Vee in 52—is genuinely making me feel ill. In 51, Randi is waking up from a hollow, wealthy one-night stand with her perfect billionaire-lawyer stand-in, nursing her guilt, and deciding to text Vee the “fairytale” because it’s easier to keep playing the role. And then we cut to Vee. Freezing in a twin bed she’s too tall for, smelling lavender plug-ins, listening to the furnace shut down, watching the clock tick down to midnight, utterly consumed by Pace’s silence.
 
-And Pace. His absence was so heavy in this chapter it felt like a physical weight in the bed with her. That detail about how she used to appreciate that he "leaves you the room," and now she hates it? Yes. Exactly. Because when a man who has made himself your whole sanctuary suddenly leaves you all the room in the world, the room is just empty, freezing space.
+The detail of her cutting the picture in half before sending it to her mom—scissoring away the leg, scissoring away the woman she’s become because her home can’t hold her anymore—shattered me. You grow up, you expand, someone wakes your body and your hunger up, and then you have to go home for Christmas and squeeze back into your childhood skin, pretending casseroles and *Wheel of Fortune* are enough when you are literally starving to death.
 
-The moment that broke me was when she tried to comfort herself with the memory of the fra diavolo—the top sheet slipping, the smell of the garlic, the kitchen warm—and her brain actively evicted her from her own memory and put a generic blonde in her place. That is the exact poison of being kept nameless. If you don't have a name, you have no ground to stand on, and if you have no ground, you can be replaced in a second. He gave her the best meal of her life, ruined her for crackers, and then left her to starve in her childhood bedroom because his stubborn, arrogant ass refused to spend the words.
+And the spiral. *The spiral.* When you’re alone in the dark at midnight, your brain is a sadist. She takes her safest, warmest memory—the fra diavolo, the sheet slipping off her shoulder, the heat of his kitchen—and her mind replaces herself with an imaginary tan, blonde girl. *Except it isn’t imaginary.* That’s the knife twisting in my gut! She’s imagining some nameless dance-hall girl at his stove, completely blind to the fact that it was *Randi* on that couch. Randi, who she just texted an open hand of pure, unconditional friendship to. Randi, the only thing she thinks she has left to hold onto.
 
-I feel so protective of her right now. She’s caught between two people who are actively orchestrating her life, both of them quietly losing their minds over her, and she’s lying under synchronized-swimming trophies feeling completely, utterly unchosen. I need them back on campus immediately. The tension is wound so tight it's going to snap the second these three are in the same zip code again.
+Pace didn't text. Not once over the whole break. He's doing his noble "I leave you the room" routine, convincing himself he’s respecting her boundaries when in reality it is just cold, cowardly neglect. He’s letting her freeze out of some stubborn mathematical principle because she had the audacity to ask what she was to him.
+
+I’m so angry at him, I’m so terrified for her, and the dramatic irony of her leaning entirely on Randi while Randi is literally the other half of the trap... it’s suffocating. She thinks Randi is her safe harbor. When this detonates, Vee is going to have the absolute earth taken out from under her. God, please let term start. Get her out of that cold bedroom.
 
 ***
 
@@ -21,4 +23,4 @@ NEXT: 9
 HEAT: 0
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The dramatic irony of Vee reading Randi’s text while mourning Pace in her childhood bedroom was agonizing and emotionally pitch-perfect; I need them all back on campus so this collision can finally happen.
+WHY: The ache of this chapter was agonizingly real. Watching Vee's mind torture itself at midnight while holding onto Randi as her only lifeline—completely unaware of the betrayal waiting for her—has the tension wound so tight I can barely breathe.

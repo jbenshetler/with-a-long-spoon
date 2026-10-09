@@ -159,3 +159,37 @@ Pace alone after {{The Usual}}: the bodily cost of trying to drink Vee away, the
 - The crackers-and-meal declaration is in {{Seconds}}. Pace's first-bite memory echoes his admission in {{In His Hands}} that he thinks about Vee's face when she tastes something he made and that remembering her is pale beside her presence.
 - Daphne predates Pace's house and his ability to cook his own food. The *prison food* memory therefore belongs to a later girlfriend.
 - Hold the truck until after the *Whiskey River* beat.
+
+### The arrangement beat — panel one (author ruling 2026-10-08)
+
+Between *Glad was not what was wrong with him* and his return to the photographs, Pace
+turns the arrangement over. Three movements, in this order: **concern, then evidence, then
+the picture.**
+
+- **Concern, not doubt.** He is not uncertain whether Vee wants it — he wonders how she
+  will *carry* it. Nothing in the passage may read as him weighing whether to proceed.
+- **The evidence is secondhand, and that is correct for the date.** On Dec 31 the only
+  Vee/Randi kiss Pace knows about is Randi's brunch report in {{Four}} — *"she stood there
+  on the sidewalk in the sun"* — told to him with her mouth at his ear while he was inside
+  her. **Do not reach for the parking-lot kiss.** He watches that one himself at
+  {{Among Friends}}, **Wed Jan 20**, three weeks after this chapter; {{My Friend Randi}}'s
+  foyer kiss is Jan 15 and also later. His certainty resting on one six-week-old secondhand
+  report is the irony, not a gap to fill.
+- **The picture is recurring and sharpening.** It arrives *further along than last time*
+  because he has been adding to it — which is what makes it characterization rather than a
+  repeat of the same image at {{Gone}} (beat 7), where it arrives unbidden for the first
+  time. He furnishes it from things he has actually seen: the sheet, Randi's feet up on the
+  lacquered seat. Pace at the stove; Vee in his sheet with too much honey in her tea; Randi
+  with coffee (his house stocks no matcha — `meta-plan-pace-house.md`).
+- **It must not console him.** He is drunk, alone, and Vee has walked out. The beat is a man
+  polishing a plan on the night the ground went out from under it. No closing line may land
+  on him feeling better, and the prose never points at it.
+
+### Do not put an age on the Daphne paragraph
+
+`:203`'s *"He had been young"* is deliberate. `meta-plan-legal-read.md` records the standing
+separation: {{Rock}} carries the ages (15/19, 17/21) and no sexual statement; this chapter
+carries *lover* (`:207`) and no age; the book never puts them on one page. A reader arriving
+here and assuming Pace was nineteen is the accepted cost — {{Rock}} already runs the
+arithmetic explicitly, including Vee holding the word behind her teeth. Do not "fix" the
+misread by naming fifteen here.

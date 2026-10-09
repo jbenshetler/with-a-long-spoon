@@ -2,19 +2,23 @@
 
 REACTION
 
-God, my heart. My actual chest aches reading this.
+God, that flannel shirt at the end. That completely wrecked me.
 
-After chapter 43—which made me want to throw up, watching him and Randi on that couch, the calculated filth of it, the absolute betrayal of him talking about her wetness and her kissing while banging the woman who helped set her up—this chapter felt like walking into a warm room and sobbing. And that's what makes it so devastating. It’s almost cruel of the book to make it *this* tender.
+The five nights apart—the fact that she called for the break because she was falling behind, and he just gave it to her without punishing her, without going cold, without playing a single mind game. That grace costing her more than a fight because she secretly wanted him to beg her to stay. I know that feeling so intimately. And then the absolute desperation of coming through the door, the ungraceful, frantic, peeling-off-clothes scramble where she loses all her dignity hopping on one foot in the hallway trying to yank her jeans off. It’s so real. It’s not a choreographed porn scene; it’s two people who have been physically and emotionally starving for five days colliding in an entryway.
 
-The hurried, messy, desperate strip down the hall was perfection. No glossy billionaire perfection, just tight jeans stuck at the ankle, hopping on one foot, laughing until she couldn't laugh anymore, and him just holding her waist and letting her take her time. It was so playful, so domestic, so utterly real. And then the flannel shirt. Oh, the flannel shirt destroyed me. Handing him the clean shirt and blurting out that she needed him to wear it all weekend so it would smell like him again? That level of naked, mortifying vulnerability—and the fact that he looked momentarily hurt thinking she was returning it, and then instantly pulled it on *over* his clothes without making a single joke or making her feel small for needing it? That is romance. That is the exact high I read this genre for.
+And the dominance in it is so effortless because it’s totally grounded in her wanting him. He stops her with one hand on her waist. He catches her bra strap and lets her spin herself out of it. He takes her right on the edge of the bed and lets her come fast and hard because her body just can't keep the secret of how much she missed him.
 
-And yet, sitting right under all that gorgeous, heart-swelling tenderness is the cold, ticking bomb. *“The long, unusually proportioned table that stood in the middle of his bedroom.”* The examination bench. The spanking bench. Whatever it is they built for the third game. Her green thong just landed right on top of it, and she didn't even notice. She is so completely in love with him. She’s nesting in his top drawer, eating his homemade dough, wearing his shirts to bed in her dorm, utterly safe in her own mind—and he is still keeping this massive, monstrous lie alive. He looks at her with real devotion, he treats her with absolute gentleness, and he is still going to break her in half. I can't look away. I need the next chapter immediately.
+Then the aftercare—the homemade pizza, the slow sauce with the splash of wine and cream, the quiet reverence of him just feeding her. But handing him that washed flannel and confessing that she sleeps in it every night, that it lost his scent, and demanding he wear it all weekend so she can take him back with her? The way his face did that tiny flicker of hurt thinking she was returning it, and then breaking into that rare, expensive smile when he realized what she was really asking? Putting it on immediately over his clothes, standing there in two shirts just so he can marinate it for her?
+
+I am so deeply in love with this man, and I am so profoundly terrified. Because two chapters ago, I watched him and Randi in that exact same house, on that couch, fucking like animals and talking about her like a shared project. The contrast makes me want to scream into my pillow. Vee is building an entire sanctuary out of this man's gentleness, and the floor under her feet is made of glass.
+
+***
 
 GATE 45 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The shirt scene was devastatingly romantic, the sex was wonderfully grounded and urgent, and the dramatic irony of her green thong landing on that table made my stomach drop. I am entirely hooked.
+WHY: The shirt scene broke my heart in the best way possible. The utter tenderness between them juxtaposed against the secret arrangement hanging over her head is peak emotional torture—I can't put this down.

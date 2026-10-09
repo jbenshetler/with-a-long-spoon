@@ -114,8 +114,12 @@ this before Volume 2 goes to any platform.
   retrospective summary in Pace's interiority. **Volume 1, Draft complete**
   (chronology `:248` — Fri Jan 1, Christmas break, inside the Fall/Book 1
   section above the Volume Two marker), so it *is* in the beta manuscript.
-  Flagged 2026-09-13 as possibly slated for revision — confirm with the author
-  before relying on it either way.
+  Flagged 2026-09-13 as possibly slated for revision; **author confirmed
+  2026-10-08 that the line stays** and that the separation may be relied on.
+  The corollary was ruled the same day: a reader arriving at this chapter and
+  assuming Pace was nineteen is the **accepted cost** of the separation, and
+  must not be "fixed" by naming an age here — {{Rock}} already runs the
+  arithmetic explicitly. Recorded at `meta-note-the-usual.md`.
 - `the-bench.md:497` names Daphne but ties her to **neither the tutor role, nor
   any age, nor a sexual relationship** — the content is that he violated her
   emotional privacy (*"Daphne had built a door, once, and he had not respected

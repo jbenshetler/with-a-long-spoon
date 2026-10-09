@@ -1,24 +1,22 @@
 *capture-dag-v2-rich · gate ch044 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-07*
 
-**REACTION**
+REACTION — Okay, this chapter is a gut-punch dressed as a group project, and I need a minute.
 
-Oh, this book. This *book*. Just when I'm floppy and fed from two chapters of him — the photo, "Remembering you is a pale thing next to you being here," and then that whole Randi chapter that turned me inside out — it goes quiet on me. Cold lecture hall, group project, and I'm sitting there thinking okay, a breather chapter, fine, the care is on the page in small ways, Vee in the middle seat of her two friends...
+First the boring layer: a whole chapter of stats class and graphs, and I didn't once want the book to hurry back to Pace's kitchen. That alone tells you how far in I am. The three of them in the cold lecture hall — Cassie who "didn't carry things into rooms she meant to walk out of" — that's the Cassie I'd know anywhere, and the book writing her this sharp on four hours a week of page time is showing off.
 
-And then MIRA.
+But the MIRA point. God. The whole time Randi's been explaining her father's businesses — brunch, the house, the Mercedes, the ease of a girl who grew up rich and thinks the money is clean — and now the one number in the whole data set that's a lie sits on top of her own name. "Cheating bastards," with no *these* or *those* — I read that twice, the way Vee watched her read the record twice. That's not a girl who knew. That's a girl finding out, in front of the one friend whose father got laid off by men like hers. And the book let it land on *Cassie's* line: "everybody cut anyway." Cassie said it as proof of her thesis. She has no idea she was talking about Randi's family. I had to put the book down.
 
-I actually put the book down for a second. Randi's *father*. Her father took the money — the thing she was so glossy and certain about, "the story is more complicated than any one number," and it's *her* county, her family's companies, sitting off in the white where the professor said the outliers sit. "Cheating bastards" with no "these" to hold — Vee heard it land wrong and I heard it land wrong. That's the best sentence in the chapter, the way the missing plural makes it naked.
+And here's the thing that actually made my chest hurt: this is the second con. The jacket says Randi and Pace *chose her together*, and that's still ticking under everything. But this chapter just quietly showed me who Randi is when the truth arrives with a mask on — she takes it. She nods at Cassie's certainty because there's nothing else to give it. She doesn't spin, doesn't deflect, doesn't charm. She's not a monster playing a long game. She's a person — and Vee's read of her just got more complicated, not less. "The kindest thing a friend could do was not make her carry it in front of anyone." Vee *saw her* and chose to protect her — the exact thing Pace does to Randi in chapter 43, the seeing. These two women are being loved the same way by the same man and by each other now, and the book is braiding it right in front of me.
 
-And Vee. My girl. She didn't look away, she didn't say the name, she gave Randi "somewhere to put her hands" and carried it for her without ever making Randi know she'd seen. That's not the Vee of September. That's a woman who knows what it costs to be seen and chooses *not* to. There's a whole education in that move, and I'm not sure the book knows how much — or maybe it does, because that last line, "invisible if you didn't," is doing the same thing to *me* the whole con has been doing. Randi's fingerprints on everything and Vee thinks it's one hand. Randi's whole shining certainty about the world, and it's her own father on the wrong side of the graph. This woman is made of money she won't take from anyone at brunch — won't let anyone near her check — and I suddenly want to re-run everything I know about her through this. "She's alone." "You've been starving your whole life and calling it fine." A rich girl whose father did this with it.
+Also — I'm not letting go of the symmetry. Cassie's clean table just got an entry on it. Cassie is going to *present this graph.* Randi's family name, or the four letters, going up in front of a class. There's a bomb sitting in the write-up and nobody's defused it, and the last line — "easy to see if you knew to look for it, invisible if you didn't" — is the book telling me that's true about Randi generally. The con works the same way. Vee doesn't know to look.
 
-And it was Cassie — clean Cassie, who "didn't carry things into rooms she meant to walk out of" — who aimed the whole project at that point without knowing. The laid-off father on the right, the loans on the left. Vee loves them both and the room "stepped somewhere she couldn't follow." I love that the book puts her in the middle seat and *means* it now.
+And small, selfish note: no Pace this chapter, and I felt it — first chapter in a long while — but the hum was so loud I didn't mind. This is the quiet before something.
 
-Meanwhile my lonely-romance clock is quiet-ticking — Pace hasn't been in the room since the top of the chapter and Randi hasn't been alone with *him* since chapter 43 — but honestly, after that chapter, I don't need him this second. The hum just changed key. I don't know if this is the third game the jacket promised, but something got raised and not opened, and I'm in for it.
-
-GATE 4 — The Outlier
+GATE 44 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
 HEAT: 0
-ROMANCE: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Zero heat and I still couldn't put it down — the MIRA reveal landed like a car door slamming, and Vee's grace in handling it was the tenderest thing in the chapter. The con's hum just got a new engine, and I want to see what Randi does with what Vee saw.
+WHY: Nothing happened and I couldn't look away — the outlier chapter did what the whole book does, made the quietest thing in the room the loudest. I'd set down a hotter chapter for this one; I need to see whether the graph gets presented, and whether Vee ever says the name out loud.
