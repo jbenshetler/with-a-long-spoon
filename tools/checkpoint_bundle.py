@@ -127,17 +127,21 @@ def display_title(slug: str) -> str:
 
 
 def reader_slugs() -> list[str]:
-    """The full cross-volume chapter sequence: Vol 1 drafted first, then Vol 2
-    drafted, then Vol 3 drafted, in chronology order. The Volume 1 boundary is
-    parsed from the chronology, so inserting a drafted Volume 1 scene updates the
-    reader inventory instead of leaving stale hand-maintained chapter numbers. This
-    is the single source of truth shared by the authoring lane (checkpoint_context)
-    and the grounded cold-read lane (cold_read_grounded), so the two can never drift
-    on inventory."""
-    v1 = volume_scenes.volume_one_slugs(drafted_only=True)
-    v2 = [s["slug"] for s in volume_scenes.scenes_for_volume(2, drafted_only=True)]
-    v3 = [s["slug"] for s in volume_scenes.scenes_for_volume(3, drafted_only=True)]
-    return v1 + v2 + v3
+    """The full cross-volume chapter sequence: every volume's drafted scenes, in
+    volume then chronology order. Volume boundaries come from meta-volumes.toml, so
+    inserting a drafted scene — or adding a volume — updates the reader inventory
+    instead of leaving stale hand-maintained chapter numbers. This is the single
+    source of truth shared by the authoring lane (checkpoint_context) and the
+    grounded cold-read lane (cold_read_grounded), so the two can never drift on
+    inventory.
+
+    Iterates the volume table rather than a literal (1, 2, 3): that literal silently
+    dropped the summer from every reader's inventory the moment the fall split made
+    it volume 4, so `ignition-scalding` became an unknown slug."""
+    slugs: list[str] = []
+    for vol in volume_scenes.volume_ordinals():
+        slugs += [s["slug"] for s in volume_scenes.scenes_for_volume(vol, drafted_only=True)]
+    return slugs
 
 
 def build_bundle(start: int = 1, end: int | None = None, jacket: bool = True,
@@ -188,32 +192,50 @@ def _load_checkpoint_seeds(path: Path = CONFIG_PATH) -> dict[int, str]:
 CHECKPOINT_SEEDS: dict[int, str] = _load_checkpoint_seeds()
 
 
+def _volume_label(vol: int) -> str:
+    """` ('Title')` for an error message, or empty — never raise from a raise path."""
+    try:
+        return f" ({volume_scenes.volume_title(vol)!r})"
+    except Exception:
+        return ""
+
+
 def checkpoint_plan(end: int) -> tuple[int | None, int]:
     """Return the explicit `(seed_boundary, raw_start)` policy for `end`.
 
-    Volume One boundaries are raw passes from chapter 1. Later-volume boundaries
+    FIRST-volume boundaries are raw passes from chapter 1. Later-volume boundaries
     must be named in ``[checkpoint_seeds]`` (ensemble-config.toml); future seams are not inferred from
     mutable drafted-scene counts or decade arithmetic.
+
+    The seed for a boundary must be the last drafted chapter of the volume
+    *preceding* the one the boundary sits in — resolved from `meta-volumes.toml`,
+    never against Volume One specifically. Hardcoding Volume One broke this on
+    2026-09-27, when the fall split moved Volume One's end from the whole fall to
+    `rock` (ch027) and left the policy pointing at `nothing-underneath` (ch055):
+    every boundary from 30 up began failing closed.
     """
     slugs = reader_slugs()
     if not (1 <= end <= len(slugs)):
         raise ValueError(f"end {end} out of bounds (1..{len(slugs)} drafted)")
-    volume_one_last = volume_scenes.volume_last_slug(1, drafted_only=True)
-    volume_one_end = volume_scenes.chapter_number(volume_one_last)
-    if end <= volume_one_end:
+    end_volume = volume_scenes.volume_of(slugs[end - 1])
+    if end_volume == 1:
         return None, 1
+    prior_last = volume_scenes.volume_last_slug(end_volume - 1, drafted_only=True)
+    prior_end = volume_scenes.chapter_number(prior_last)
     seed_slug = CHECKPOINT_SEEDS.get(end)
     if seed_slug is None:
         raise ValueError(
-            f"no explicit checkpoint seed policy for boundary {end}; "
+            f"no explicit checkpoint seed policy for boundary {end} "
+            f"(volume {end_volume}{_volume_label(end_volume)}); "
+            f"it must seed from {prior_last!r} (ch{prior_end:03d}) — "
             "add an author-approved [checkpoint_seeds] entry in ensemble-config.toml"
         )
-    first_seeded_boundary = min(CHECKPOINT_SEEDS)
-    if end == first_seeded_boundary and seed_slug != volume_one_last:
+    if seed_slug != prior_last:
         raise ValueError(
             f"checkpoint seed policy for boundary {end} seeds from {seed_slug!r} "
-            f"(ch{volume_scenes.chapter_number(seed_slug):03d}), but drafted Volume One "
-            f"ends at {volume_one_last!r} (ch{volume_one_end:03d}); "
+            f"(ch{volume_scenes.chapter_number(seed_slug):03d}), but boundary {end} is in "
+            f"volume {end_volume}{_volume_label(end_volume)}, whose "
+            f"preceding volume ends at {prior_last!r} (ch{prior_end:03d}); "
             "update [checkpoint_seeds] in ensemble-config.toml and remint affected checkpoints atomically"
         )
     seed_boundary = volume_scenes.chapter_number(seed_slug)

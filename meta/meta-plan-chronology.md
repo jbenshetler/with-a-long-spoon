@@ -142,7 +142,9 @@ The **unspoken truce** after {{Portion}}, and the **happy-romantic-friendship vi
 *Tue Oct 20 · a weeknight stay · post-sex, the porch after dark* · **Draft complete:** `rock.md` · reviewed: 2026-07-27, 2026-08-07 · Vee POV · [detail](meta-condensed-rock.md) · [craft](meta-note-rock.md) · slug: rock · present: Vee, Pace
 The "who are you" talk every new couple has — food/home, born where, how many siblings, what parents called them, how he got to college at fifteen — under his quilt on the porch couch after sex: Vee in Pace's robe, Pace in boxers, herbal tea on the low table, den fireplace behind them, the mountains and the stars through the dark glass. The porch is his second liminal space: truth surfaces here calm and unforced (the structural opposite of the SATC restaurants, where Randi *extracts* it). In the easy flow of it his real name surfaces — **Peter** — the first time it touches the page. Not extracted, not a confession; it comes out because the porch is where he's calm, and she's allowed to hold it. He gives it with a faint set-aside (someone he put down, not someone he hides); the self under the name stays withheld (never explained). She tries it softly and he lets it sit — *Peter* becomes the name permitted **here, in the calm.** Banked, never stated: the porch faces the rock of the mountains, and *Peter* means rock — the foundation, surfacing in the one room that looks onto bedrock. The name is planted here (warm, permitted) and paid off at {{Excavations}} and the reckoning — the *I love you* neither can otherwise produce. Carries the **contained** half of the two-register first-love telling ([[meta-note-first-love]]): on the college-at-fifteen thread first loves come up — Vee's light (a high-school-band trumpet player, non-formative), Pace's the tutor, told plain and undersold, the ages explicit (fifteen; a nineteen-year-old; two years; she left at twenty-one for ordinary reasons, no one at fault). More than a hairline shows — his voice goes careful and over-level, the containment itself the tell — but it does **not** break: the affect stays held and the declaration layer stays sealed for {{Excavations}}. Vee does the arithmetic (15/19), it drops low in her stomach, she holds the ugly grown-up word back, and lets out only protective ache (*"You were so young"*); his non-seeing — he defends the memory and names it luck — is the gut-punch. Supplies the felt *why* for the wall at {{Believe Me}} (reads as pain, not cruelty); motivates it, doesn't explain it. Carries the scar's Step-1 deferral, small and under the name: in the same who-are-you flow she asks about the scar she found at First Night, and he closes it gently — the one thing he won't hand over even here, deeper than the name, paid off in spring ({{The Scar}}; `meta-note-scar-reveal.md`). Plants a light food-as-relationship seed — her childhood food made with love and plentiful but never quite enough, praised to Pace as his cooking but meaning him — that December's {{Seconds}} pays off with the crackers-and-meal figure (held back here). Taste thread: **carry nothing** (too early — the first gates want quieter hosts, and the name owns this scene). Low heat, tender register.
 
-**◆ VOLUME TWO — Fall, second book (SPLIT EXPERIMENT on branch split-vol1-experiment, 2026-09-27; Book A ends at {{A Recognized Method}})**
+**◆ VOLUME TWO — Fall, second book**  ·  *the body claimed and kept; the house becomes hers to be received into*
+
+## Fall, second book (Book 2 — A Warm Reception)
 
 ### [SCENE] Lesson
 *Thu Oct 22* · Draft complete · `lesson.md` · [detail](meta-condensed-lesson.md) · slug: lesson · present: Vee, Pace, Meg · reviewed: 2026-07-27, 2026-08-07
@@ -277,9 +279,9 @@ The night reunion, on Randi's counsel. She *puts herself together* (long coat, h
 
 ---
 
-**◆ VOLUME TWO — Spring**  ·  *the Middle — the apparatus at full extraction; the bloom before the souring*
+**◆ VOLUME THREE — Spring**  ·  *the Middle — the apparatus at full extraction; the bloom before the souring*
 
-## Spring (Book 2 — A Warm Reception)
+## Spring (Book 3 — A Proper Serving)
 
 ### [SCENE] Missed a Spot
 *Sat Jan 16 · the first full day (Saturday) of the reconciliation weekend · before {{A Clean Plate}} and {{The Reach}}* · Draft complete · `missed-a-spot.md` · Vee POV · [detail](meta-condensed-missed-a-spot.md) · [craft](meta-note-missed-a-spot.md) · slug: missed-a-spot · present: Vee, Pace
@@ -506,11 +508,11 @@ The bench returns (opening payoff), now under Vee — *used on only two women, R
 
 ---
 
-**◆ VOLUME THREE — Summer**  ·  *the End — the rupture and the reveal*
+**◆ VOLUME FOUR — Summer**  ·  *the End — the rupture and the reveal*
 
 *Summer 2027. Vee and Randi stay for Dr. Marsh's two-site fieldwork (separate sites, long days, weekends only); Cassie is away on a nursing internship; Vee splits scarce free time between Pace's house and Randi. Weekend-scarcity and isolation are the engine — full frame: [summer plan](meta-plan-summer.md).*
 
-## Summer (Book 3 — A Hot Meal, working)
+## Summer (Book 4 — A Hot Meal)
 
 ### [SCENE] Scalding Jealousy Ignition
 *~June* · Draft complete · `ignition-scalding.md` · Pace POV · [craft](meta-note-ignition-scalding.md) · slug: ignition-scalding · present: Pace, Randi, Vee

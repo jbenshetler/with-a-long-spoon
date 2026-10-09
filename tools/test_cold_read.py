@@ -79,6 +79,8 @@ def healthy_seam(bundle, vol1_len=50):
     with patch.object(bundle, "reader_slugs",
                       return_value=vol1 + [f"vol2-{n}" for n in range(10)]), \
          patch.object(bundle.volume_scenes, "volume_last_slug", return_value=seed), \
+         patch.object(bundle.volume_scenes, "volume_of",
+                      side_effect=lambda s: 1 if s.startswith("vol1-") else 2), \
          patch.object(bundle.volume_scenes, "chapter_number",
                       side_effect=lambda s: vol1.index(s) + 1), \
          patch.dict(bundle.CHECKPOINT_SEEDS, {60: seed}, clear=True):
@@ -371,8 +373,15 @@ class CheckpointPolicyTests(unittest.TestCase):
         self.bundle = importlib.import_module("checkpoint_bundle")
 
     def test_checkpoint_seed_policy_is_explicit(self):
-        """Volume One boundaries are raw passes; later seams must be named."""
-        self.assertEqual(self.bundle.checkpoint_plan(50), (None, 1))
+        """First-volume boundaries are raw passes; later seams must be named.
+
+        Uses a boundary resolved from the volume table rather than a literal:
+        ch050 was a Volume One boundary until the 2026-09-27 fall split moved
+        Volume One's end to `rock` (ch027), and a literal silently stopped
+        testing what it named."""
+        vs = self.bundle.volume_scenes
+        _, vol1_end = vs.volume_bounds(1, drafted_only=True)
+        self.assertEqual(self.bundle.checkpoint_plan(vol1_end), (None, 1))
         with self.assertRaisesRegex(ValueError, "no explicit checkpoint seed policy"):
             self.bundle.checkpoint_plan(70)
 
@@ -388,33 +397,46 @@ class CheckpointPolicyTests(unittest.TestCase):
         ), patch.object(
             self.bundle.volume_scenes, "volume_last_slug", return_value="vol1-51"
         ), patch.object(
+            self.bundle.volume_scenes, "volume_of",
+            side_effect=lambda s: 1 if s.startswith("vol1-") else 2,
+        ), patch.object(
             self.bundle.volume_scenes, "chapter_number",
             side_effect=lambda s: vol1.index(s) + 1,
         ), patch.dict(self.bundle.CHECKPOINT_SEEDS, {60: "vol1-51"}, clear=True):
             # vol1-51 is the 52nd chapter; the seam resolves to 52 with no literal.
             self.assertEqual(self.bundle.checkpoint_plan(60), (52, 53))
 
-    def test_first_volume_two_seed_fails_closed_when_volume_one_moves(self):
+    def test_seed_fails_closed_when_the_prior_volume_boundary_moves(self):
         vol1 = [f"vol1-{n}" for n in range(52)]
         with patch.object(
             self.bundle, "reader_slugs", return_value=vol1 + [f"vol2-{n}" for n in range(10)]
         ), patch.object(
             self.bundle.volume_scenes, "volume_last_slug", return_value="vol1-51"
         ), patch.object(
+            self.bundle.volume_scenes, "volume_of",
+            side_effect=lambda s: 1 if s.startswith("vol1-") else 2,
+        ), patch.object(
             self.bundle.volume_scenes, "chapter_number",
             side_effect=lambda s: vol1.index(s) + 1,
         ), patch.dict(self.bundle.CHECKPOINT_SEEDS, {60: "vol1-40"}, clear=True):
-            with self.assertRaisesRegex(ValueError, "drafted Volume One ends at 'vol1-51'"):
+            with self.assertRaisesRegex(ValueError, "preceding volume ends at 'vol1-51'"):
                 self.bundle.checkpoint_plan(60)
 
-    def test_live_seam_resolves_to_volume_one_end(self):
-        """Documents real repo state after the 2026-09-26 cutover: the seam in
-        ensemble-config.toml `[checkpoint_seeds]` names Volume One's last
-        drafted chapter, so the first seeded boundary resolves to that
-        chapter's live position + 1 (no literal — insertions renumber it)."""
-        vol1_last = self.bundle.volume_scenes.volume_last_slug(1, drafted_only=True)
-        seam = self.bundle.volume_scenes.chapter_number(vol1_last)
-        self.assertEqual(self.bundle.checkpoint_plan(60), (seam, seam + 1))
+    def test_live_seam_resolves_to_the_prior_volume_end(self):
+        """Documents real repo state: a seeded boundary resolves to the last
+        drafted chapter of the volume BEFORE it, + 1 (no literal — insertions
+        renumber it).
+
+        This said "Volume One's end" until 2026-10-09. The two coincided only
+        while the fall was a single volume; splitting it made Volume One end at
+        `rock` (ch027) while boundary 60 still correctly seeds from the second
+        fall book's end, so the rule had to be stated generally."""
+        vs = self.bundle.volume_scenes
+        boundary = 60
+        vol = vs.volume_of(self.bundle.reader_slugs()[boundary - 1])
+        self.assertGreater(vol, 1, "boundary 60 must sit past the first volume")
+        seam = vs.chapter_number(vs.volume_last_slug(vol - 1, drafted_only=True))
+        self.assertEqual(self.bundle.checkpoint_plan(boundary), (seam, seam + 1))
 
     def test_checkpoint_metadata_reads_first_and_middle_fields(self):
         raw = (

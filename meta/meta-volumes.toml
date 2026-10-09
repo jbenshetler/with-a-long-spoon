@@ -1,0 +1,141 @@
+# Volume identity — the single data file every tool reads.
+#
+# Replaces the `◆ VOLUME ONE/TWO/THREE` markers in meta-plan-chronology.md as the
+# machine source of truth for volume membership. Those markers remain in the
+# chronology as human orientation and are verified against this file by
+# `tools/volume_scenes.py --check`; they are no longer parsed for authority.
+# (The markers could not express a fourth volume — the parser mapped the English
+# words ONE/TWO/THREE only — and on 2026-10-09 the chronology carried *two*
+# headers reading `◆ VOLUME TWO`, which the parser silently accepted by
+# reassigning, so Volume Two resolved to Fall B + Spring, 77 chapters.)
+#
+# THE TAG IS THE DURABLE IDENTITY; THE ORDINAL IS DERIVED. Same principle as
+# `volume_scenes.volume_last_slug` — a volume seam is a story landmark and must
+# be keyed by NAME, never by position. Splitting the spring will renumber Summer
+# from 4 to 5 while its tag `summer` stays what it always was, so tools, output
+# directories, and audit state should key on `tag` wherever a value is persisted,
+# and resolve `ordinal` at the point of use.
+#
+# Boundaries are keyed by chapter SLUG for the same reason: inserting a chapter
+# renumbers everything after it and leaves the slug untouched. Volumes must be
+# contiguous and cover every scene in chronology order; `--check` enforces it.
+#
+# The TITLES are authorial rulings and `meta/meta-blurb.md` owns the reasoning
+# (surface, charge, rejected alternates). This file carries them as data so the
+# epub builder, the volume packets, and the blind-reader title card stop keeping
+# their own copies. When a title changes, change it here and in meta-blurb.md.
+
+schema = 1
+
+# ---------------------------------------------------------------------------
+# Decided 2026-10-09: the fall splits in two and the dinner runs to five phases.
+#
+# invitation -> reception -> the table -> the serving -> the eating
+#
+# The temperature ramp (polite -> warm -> hot) is carried by volumes 1, 2 and the
+# last; the spring volumes are deliberately temperature-silent, read as one phase
+# in two movements, so the flat middle is the bloom's long plateau before the heat.
+# ---------------------------------------------------------------------------
+
+[[volume]]
+tag = "fall-1"
+ordinal = 1
+season = "Fall"
+title = "A Polite Invitation"
+status = "decided"           # decided | working | reserved
+decided = "2026-07-30"
+first = "the-bench"
+last = "rock"
+arc = "the Beginning — the ascending relationship, through the first crack"
+
+[[volume]]
+tag = "fall-2"
+ordinal = 2
+season = "Fall, second book"
+title = "A Warm Reception"
+status = "decided"
+decided = "2026-10-09"
+first = "lesson"
+last = "nothing-underneath"
+arc = "the body claimed and kept; the house becomes hers to be received into"
+# Moved here from the spring (author ruling 2026-10-09). The recorded charge is
+# "she is *received* = taken in (and taken in = deceived)" — and the intake
+# happens in the fall, not the spring. Field-tested by accident: while the
+# chronology's duplicate VOLUME TWO marker put these chapters in Volume Two,
+# the blind readers' cover board read BOOK TWO — A WARM RECEPTION, and two
+# vendors independently found it sharper there
+# (reviews/cold-read/kimi-k3/space.md:19,
+#  reviews/cold-read/gpt-5.5/old-acquaintances.md:17).
+
+[[volume]]
+tag = "spring"
+ordinal = 3
+season = "Spring"
+title = "A Proper Serving"
+status = "decided"
+decided = "2026-10-09"
+first = "missed-a-spot"
+last = "vee-on-the-bench"
+arc = "the Middle — the apparatus at full extraction; the appetite, named"
+# Took the title held as Volume Three's alternate. Its recorded gloss — "a
+# portion, the act of service, a comeuppance dealt" — stops being a trade-off
+# here and becomes the content, and it keeps the manners bookend (polite …
+# proper) inside the set while freeing "A Hot Meal" for the summer outright.
+# NOT YET SPLIT — see [spring_split] below.
+
+[[volume]]
+tag = "summer"
+ordinal = 4
+season = "Summer"
+title = "A Hot Meal"
+status = "decided"
+decided = "2026-10-09"
+first = "ignition-scalding"
+last = "cassie-scene-thesis-delivery"
+arc = "the End — the rupture and the reveal"
+# Decided outright 2026-10-09; the long-standing fork with "A Proper Serving"
+# closes, that title having gone to the spring.
+
+# ---------------------------------------------------------------------------
+# The spring split — RECORDED, NOT APPLIED (author ruling 2026-10-09).
+#
+# The spring is the oversized volume: 49 chapters and 110,036 drafted words from
+# only 23 of them, with chapter movement and substantial additions to the second
+# half still expected. It will split. The seam is not ruled, because the standing
+# policy on volume length (meta-todo-open-questions.md:428, author 2026-09-04)
+# makes it "a decision the finished draft makes" — and the draft is not finished.
+#
+# When it splits, the second half keeps `spring` / "A Proper Serving" (the
+# serving) and the FIRST half takes the reserved name below (the table); the
+# `spring` tag becomes `spring-2` and Summer's ordinal moves 4 -> 5.
+# ---------------------------------------------------------------------------
+
+[spring_split]
+applied = false
+reserved_title = "A Place at the Table"
+reserved_tag = "spring-1"
+reserved_status = "reserved"
+# Surface: belonging, which is exactly what Vee believes she has found. Charge:
+# the place is hers as the dish, and it is simultaneously the place being made
+# for Randi. Answers the recorded rejection of "A Place Setting" ("cutlery, not
+# a gesture — inert where Invitation is a relational act"): a place at the table
+# is something a host gives a person. Runner-up: "A Long Sitting" (spring carries
+# the painting thread — Gesso, Grain #1-3, Still Life, The Restoration — so
+# "sitting" doubles as a portrait sitting and she is being rendered; the risk is
+# "long" muddying the series title).
+
+# Both seams are natural and the choice is a real trade (author, 2026-10-09).
+[[spring_split.candidate]]
+seam_after = "grace"
+next_opens = "cabin-debrief-brunch"
+balance = "32 / 17 chapters"
+why = """Ends the volume on a happy resting place — Vee gets the title boyfriend
+and a house key. The curtain falls at the top of the bloom."""
+
+[[spring_split.candidate]]
+seam_after = "for-you"
+next_opens = "postcard"
+balance = "35 / 14 chapters"
+why = """Breaks at Spring Break, which currently gives a crisis — so it is the
+natural place to START the next volume rather than to end one. This is the
+"natural split-at-break option" named in the 2026-09-04 length policy."""

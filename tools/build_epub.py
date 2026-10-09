@@ -58,39 +58,73 @@ SERIES_NAME = "With a Long Spoon"
 LANGUAGE = "en-US"
 COPYRIGHT_YEAR = "2026"
 
-# Per-volume packaging. Volume One is the default; --volume TWO builds the
-# drafted-so-far Volume Two reader copy (A Warm Reception, decided 2026-08-21).
-# Vol 2 has no cover asset of its own yet — it reuses images/cover.png (the
+# Per-volume packaging. Identity — title, ordinal, series label — comes from
+# meta/meta-volumes.toml via volume_scenes; only the PACKAGING differs per volume
+# and lives here, keyed by the volume's stable tag. Volume tags, not ordinals, are
+# the key: splitting the spring renumbers later volumes and leaves tags alone.
+#
+# Vol 2+ have no cover asset of their own yet — they reuse images/cover.png (the
 # Vol 1 cover) as a flagged placeholder; the title page and metadata carry the
-# correct Vol 2 title. Blurb source: Vol 1 = "## Test-epub blurb"; Vol 2 =
-# "## Volume 2 blurb" (accepted copy only — runner-up alternates under ###
-# headings are trimmed).
-VOLUMES = {
-    "ONE": {
-        "name": "ONE",
-        "title": "A Polite Invitation",
-        "book_title": "A Polite Invitation (With a Long Spoon, Book 1)",
-        "series_label": "BOOK ONE",
-        "book_word": "Book One",
-        "series_index": "1",
+# correct title. Blurb source: fall-1 = "## Test-epub blurb"; later volumes name
+# their own heading (accepted copy only — runner-up alternates under ###
+# headings are trimmed). A volume with `blurb_heading = None` has no jacket copy
+# written yet and cannot be built until it does.
+_WORDS = ["ONE", "TWO", "THREE", "FOUR", "FIVE", "SIX"]
+
+PACKAGING = {
+    "fall-1": {
         "blurb_heading": "## Test-epub blurb",
         "stem": "a-polite-invitation",
         "cover": "images/cover.png",
         "description_from_short": True,
     },
-    "TWO": {
-        "name": "TWO",
-        "title": "A Warm Reception",
-        "book_title": "A Warm Reception (With a Long Spoon, Book 2)",
-        "series_label": "BOOK TWO",
-        "book_word": "Book Two",
-        "series_index": "2",
-        "blurb_heading": "## Volume 2 blurb",
+    "fall-2": {
+        # Took "A Warm Reception" from the spring on 2026-10-09. The blurb under
+        # "## Volume 2 blurb" was written for the SPRING's content, so it is not
+        # this volume's copy and is deliberately not wired up here.
+        "blurb_heading": None,
         "stem": "a-warm-reception",
         "cover": "images/a-warm-reception-cover-placeholder.png",
         "description_from_short": False,
     },
+    "spring": {
+        # The accepted copy was written for this volume's content under the old
+        # title; only its book number and volume title were updated 2026-10-09.
+        # The copy still wants an author pass — it was tuned to "warm".
+        "blurb_heading": "## Volume 3 blurb",
+        "stem": "a-proper-serving",
+        "cover": "images/cover.png",
+        "description_from_short": False,
+    },
+    "summer": {
+        "blurb_heading": None,
+        "stem": "a-hot-meal",
+        "cover": "images/cover.png",
+        "description_from_short": False,
+    },
 }
+
+
+def volume_config(key: str) -> dict:
+    """Merge data-file identity with local packaging. `key` is a tag or an ordinal."""
+    rec = volume_scenes.volume_record(key)
+    n = rec["ordinal"]
+    word = _WORDS[n - 1]
+    pack = PACKAGING.get(rec["tag"])
+    if pack is None:
+        sys.exit(f"no packaging for volume {rec['tag']!r}; add it to PACKAGING in {__file__}")
+    return {
+        "name": word,
+        "tag": rec["tag"],
+        "title": rec["title"],
+        "book_title": f"{rec['title']} ({SERIES_NAME}, Book {n})",
+        "series_label": f"BOOK {word}",
+        "book_word": f"Book {word.capitalize()}",
+        "series_index": str(n),
+        **pack,
+    }
+
+
 # One line only on the copyright page besides boilerplate (spec: no itemized
 # content-warning list for the test round; the blurb self-selects).
 COPYRIGHT_NOTICE = "An erotic novel, for adult readers."
@@ -635,22 +669,31 @@ def main():
     ap.add_argument("--stamped-name", action="store_true",
                     help="append -<source-date>-<sha> to the filename, to keep "
                          "several builds of different drafts side by side")
-    ap.add_argument("--volume", default="ONE",
-                    help="which volume to build: ONE (default, A Polite "
-                         "Invitation) or TWO (A Warm Reception, drafted-so-far "
-                         "— reuses the Vol 1 cover as a placeholder and "
-                         "typically needs --allow-missing)")
+    ap.add_argument("--volume", default="fall-1",
+                    help="which volume to build: a tag (fall-1, fall-2, "
+                         "spring, summer) or an ordinal (1..N). Resolved through "
+                         "meta/meta-volumes.toml. Volumes after the first reuse "
+                         "the Vol 1 cover as a placeholder and typically need "
+                         "--allow-missing")
     ap.add_argument("--list", action="store_true",
                     help="print the chapter roster and exit without building")
     ap.add_argument("--allow-missing", action="store_true",
                     help="build even if chapters in the volume lack prose files")
     args = ap.parse_args()
 
-    volkey = {"1": "ONE", "2": "TWO", "ONE": "ONE", "TWO": "TWO"}.get(
-        str(args.volume).upper())
-    if not volkey:
-        sys.exit(f"unknown --volume {args.volume!r} (use ONE or TWO)")
-    vol = VOLUMES[volkey]
+    key = str(args.volume)
+    legacy = {"ONE": 1, "TWO": 2, "THREE": 3, "FOUR": 4}.get(key.upper())
+    try:
+        vol = volume_config(legacy if legacy else
+                            (int(key) if key.isdigit() else key))
+    except KeyError as exc:
+        tags = [v["tag"] for v in volume_scenes.volumes()]
+        sys.exit(f"unknown --volume {args.volume!r} — use a tag {tags} "
+                 f"or an ordinal 1..{volume_scenes.volume_count()} ({exc})")
+    if vol["blurb_heading"] is None:
+        sys.exit(f"volume {vol['tag']} ({vol['title']}) has no jacket copy yet — "
+                 "write its blurb section in meta/meta-blurb.md and name the "
+                 "heading in PACKAGING before building it")
 
     if args.cover is None:
         cand = root / vol["cover"]

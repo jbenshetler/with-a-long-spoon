@@ -343,7 +343,7 @@ def volume_title_card(volume: int) -> str:
     if not m:
         return ""
     card = f"{m.group(1)} — {m.group(2)}"
-    for vol in (1, 2, 3):
+    for vol in checkpoint_bundle.volume_scenes.volume_ordinals():
         _, pk = checkpoint_bundle.volume_packet(vol)
         if pk and any(pr in card for pr in _jacket_probes(pk)):
             raise SystemExit("[jacket guardrail] title card contains jacket copy — refusing")
@@ -369,7 +369,7 @@ def assert_jacket_policy(slug: str, is_volume_entry: bool, prompt: str) -> None:
     thinned — anywhere else. Checks the assembled packet text (the same string chunked
     into the .packets files) against every volume packet's signature lines. Raises rather
     than let a violating read reach a model."""
-    for vol in (1, 2, 3):
+    for vol in checkpoint_bundle.volume_scenes.volume_ordinals():
         _, packet = checkpoint_bundle.volume_packet(vol)
         if not packet:
             continue
