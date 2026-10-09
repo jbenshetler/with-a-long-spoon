@@ -1,18 +1,20 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha b05684281622 · 2026-10-01*
+*capture-dag-v2-rich · gate ch003 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha b7a05d924bbc · 2026-10-09*
 
-REACTION — Oh, this chapter knew exactly where to put its thumb.
+REACTION —
 
-I was already raw from the bench chapter, because that one did the thing I’m always looking for and almost never get: it made the sex the psychology and the psychology the sex. This one takes the aftershock and turns it outward. Not “now they discuss bisexuality like a workshop,” thank God. It’s worse and hotter than that: her body answers before she can. That question lands in her so hard she comes from it, and I actually had to stop for a second because yes, that is the kind of explicitness I mean when I say I don’t want coy. It’s not just anatomy. It’s the exact pressure point under the skin.
+Oh, I am in trouble with this book.
 
-And Pace. I am very, very aware that the jacket has already told me there is a secret plan, so part of me is reading him with my hands up. But inside the chapter, he feels so tenderly dangerous. He’s not blundering. He’s not some alpha with a dirty idea and a smirk. He watches her *too* well. He understands the costume she puts on around wanting, and he lets her keep enough of it to move. That is hot. It is also the alarm bell. The fact that he sees her handing the desire back to him so she doesn’t have to own it, and then just accepts the shape because it gets them where he wants them to go? Delicious. Suspect. Emotionally fluent enough to be kind, fluent enough to be catastrophic.
+This chapter did that thing I’m always waiting for and almost never get: it stayed filthy without needing to stay in the bedroom. The opening is already hot, obviously, but what really got me was how the heat migrated. The question in bed, her body answering before her mind can put on clothes, and then the whole campus becoming charged because now every girl walking by is suddenly part of this private live wire between them. That is exactly my kind of danger.
 
-The pointing game should have been gross to me. In another book it would be “hot couple rates women on campus,” and I’d be out. Here it becomes this almost predatory little field exercise in desire, except the prey is also Randi’s own denial. The social wrongness of pointing, the daylight, the campus, the fact that she starts by pretending to be a good sport and then suddenly she’s *shopping* — that got me. I could feel her slipping from girlfriend-playing-along into actual appetite, and I loved that the chapter lets that happen through tiny social behaviors instead of a big declaration.
+And Pace, God. I’m still not sure I trust him in the broad moral sense, but I absolutely trust the book with him, which is more important right now. He’s not just “dominant man notices things,” which is usually where I start rolling my eyes. He notices *how she survives herself*. He sees the little escape hatch she builds when she says, “Only in a threesome. With you.” And instead of flattening it into a confession, he lets her use the costume. That is so much more erotic to me than forcing her to declare something tidy and brave. He understands that the disguise is part of the truth. I could eat that with a spoon.
 
-And then Vee. Oh. There she is. The blurb girl finally walks onstage laughing with her whole body, and I understood immediately why Randi can’t look away. I loved that Vee is not another polished duplicate. She’s abundant and warm and uncurated, and the book lets Randi’s desire for her be almost humiliatingly simple: “Yes.” Just yes. No clever line. No little mask yet. Then, of course, the mask comes back, but too late. We saw it.
+Randi is the one who has me by the throat, though. The way she keeps turning desire into something acceptable: a game, a gift, being a good sport, being the sexy girlfriend. And then Vee appears and all the pretty machinery just stops. That bare little “Yes” before she can decorate it? That was the whole chapter for me. I actually felt my stomach drop a little. Not because it’s shocking that she wants a woman, but because she is so unused to wanting anything without immediately laundering it into usefulness for someone else.
 
-The collision was almost obscenely satisfying. Randi weaponizing grace and manners so cleanly it looks accidental — I mean, horrible woman, marry me. That whole sequence has the charge of a sex scene without anyone undressing. The hand on Vee’s arm staying half a beat too long, the names, the stats class, Randi coming back lit up like she’s stolen fire. And then: “Do you think she’ll like the bench?” I laughed out loud and also felt my stomach drop. Because that line is wicked and funny and hot, and it is also the first little visible tooth of the thing the jacket warned me about.
+And then Vee. We only get her from outside, but what an entrance. She feels like the first real disruption in Randi’s polished world: not polished, not correct, not apologizing, laughing with her whole body. I immediately understood why Randi could not look away. The book has been promising Vee from the jacket, and this chapter made her arrival feel like a match striking. I wanted more of her instantly.
 
-I’m in. I’m nervous, but I’m in. The book is giving me heat, actual interiority, and a moral weather system I can feel changing pressure around me. That is exactly the combination I keep hoping for when I open these and mostly don’t get.
+The only thing that gave me a little prickle was Pace’s certainty. Not enough to make me pull back, but enough that I’m aware the book is walking along a ledge. He’s tender, he’s perceptive, he’s careful in ways that matter — and he is still arranging a person toward another person who does not know she’s being arranged toward. That’s the point, I know. The jacket told me. But this chapter made the deliciousness and the ethical rot occupy the exact same space, and I could feel myself enjoying the thing I am supposed to be worried about. Annoyingly effective.
+
+Also: “Do you think she’ll like the bench?” Ma’am. MA’AM. That is a deranged line to say on a campus walkway after engineering a meet-cute collision with your future object of obsession, and I mean that as a compliment. I would absolutely be texting a friend: “This book is evil and I’m seated.”
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
@@ -20,5 +22,5 @@ CAPTURE: 9
 NEXT: 10
 HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "He took the body's answer for the true one. He usually did."
-WHY: That line made me uneasy in the exact place the book wants me uneasy, because his tenderness and his control are braided so tightly I can’t separate gift from manipulation. But the chapter had me by the throat: Randi’s wanting breaking cover, Vee arriving like a lit match, and that final bench question made me want the next page immediately.
+ALMOST-STOPPED: "Go meet her," Pace said.
+WHY: That was the moment where the manipulation sharpened from erotic game into actual plot, and I felt the danger of it. But the chapter knows exactly what it’s doing, and Randi’s helpless bright yes to Vee pulled me straight through the discomfort. I need the next chapter immediately.
