@@ -6,7 +6,7 @@
 
 The pot had been on since three. Chicken and potatoes in a white sauce, the peas green in it and the carrot orange, the wine gone into it early and the cream at the end. The house had smelled of it all afternoon. He had a loaf out of the machine cooling on the board and the salad washed and waiting in the colander, the dressing in a jar he would shake at the last minute, and the bottle on the table was the one the pot had drunk from, a white, open an hour. He had set out two bowls. Hers was the small one, the one he sliced her apples into.
 
-He had put on a henley and jeans. The synth thing she liked was going low in the front rooms, a dark voice over machines, every sound in it polished. He poured her glass when he heard the gravel.
+He had put on a henley and jeans. The synth thing was going low in the front rooms — *Violator*, a dark voice over machines, every sound in it polished. He poured her glass when he heard the gravel.
 
 The deadbolt went over. He came out of the kitchen and she was setting her bag down on the chair by the door, and he saw that and set it aside. Then the little back-and-forth they did, his backing off and her leaning in, her mouth cool from outside and her perfume arriving after it, the citrus and the cold thing under it. She had her hands on his chest. She let him go and lifted her face and the kitchen reached her.
 

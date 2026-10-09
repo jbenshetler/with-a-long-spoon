@@ -20,7 +20,7 @@ Then, lightly, around the straw, the way a good friend would: "What about Pace?"
 
 And Vee, who'd have followed her just about anywhere by now, said yes to this as fast as she'd said yes to the first.
 
-Randi's room was the same warm clutter it always was. She went to the closet and pulled the three she'd narrowed it to, holding each against herself at the mirror and turning for a verdict — and Vee gave it to her straight, because that was the fun of it. The first was too much; the second did nothing; and then the pale aqua, strapless and simple, the skirt of it short, and it lit her eyes up so blue that Vee said *that one* before she'd finished turning. Randi looked at herself a moment, pleased, and let the other two fall onto the bed.
+Randi's room was the same composed order it always was. She went to the closet and pulled the three she'd narrowed it to, holding each against herself at the mirror and turning for a verdict — and Vee gave it to her straight, because that was the fun of it. The first was too much; the second did nothing; and then the pale aqua, strapless and simple, the skirt of it short, and it lit her eyes up so blue that Vee said *that one* before she'd finished turning. Randi looked at herself a moment, pleased, and let the other two fall onto the bed.
 
 And watching how easy it was — three good things in a closet full of them, the right one settling on her like it had been waiting all week — Vee felt the other thing arrive, the one she'd kept at the edge of the afternoon. She had nothing like this. She had nothing that was right at all.
 

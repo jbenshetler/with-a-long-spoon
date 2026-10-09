@@ -20,6 +20,47 @@ Design movements do not map cleanly onto music; only one analogue is tight (Impr
 
 **Debussy is Vee's** (it is Impressionist/Nouveau), which supersedes the old cabin-note line "*not Debussy, already Pace's*" — Pace's-own is now **jazz**. This reassignment is what makes the drafted `ignition-scalding.md` Debussy correct as-is (see below).
 
+## Rosters (author rulings 2026-10-09)
+
+The three bullets above define the **axis**; this is the working roster. The test that
+sorts every name is the first guard below — **sealed/produced (Randi) vs. open/analog
+(Vee)** — with jazz reserved to Pace.
+
+- **Vee.** Carole King (*Tapestry*) · Joni Mitchell (*Blue*) · James Taylor · Jackson
+  Browne · Carly Simon · America · Van Morrison (incl. *Moondance*) · Sheryl Crow ·
+  Bonnie Raitt · Willie Nelson · Norah Jones · Chris Stapleton · Alison Krauss · Mary
+  Chapin Carpenter · Kathy Mattea · Indigo Girls · Roxy Music · P!nk, "Glitter in the
+  Air" only.
+- **Randi.** Eurythmics · Pet Shop Boys · OMD · Soft Cell · Depeche Mode (*Violator*,
+  *Music for the Masses*) · k.d. lang (*Ingénue*) · Robert Plant (solo 1980s only —
+  not Led Zeppelin).
+- **Pace.** Jane Monheit joins the jazz lane, which keeps the Songbook his.
+
+**Not used; retained for reference:** Goldfrapp · Jessie Ware · Kacey Musgraves
+(*Golden Hour*).
+
+**Two split artists, and they split the same way** — the lacquered record to Randi, the
+organic record to Vee: **Roxy Music** (*Avalon* to the two-women register below, the
+rest to Vee) and **k.d. lang** (*Ingénue* to Randi; *Shadowland* and *Hymns of the 49th
+Parallel* remain available to Vee).
+
+**Naming is permitted** and already practised for Randi's lane on the page; Pace's jazz
+stays unnamed. Never quote lyrics.
+
+## The two-women register (author ruling 2026-10-09)
+
+Outside Pace's house the sound belongs to whoever owns the room, so the house key does
+not apply. **Roxy Music's *Avalon* is reserved for Vee and Randi together** — the
+author's examples are Randi's car, Randi's suite, a restaurant.
+
+The threesome wants something more intense, probably Randi-coded. **To be decided.**
+
+## The exercise channel (author ruling 2026-10-09)
+
+Pace's lane is **jazz other than exercise**. Workout music is equipment rather than
+taste and does not enter the per-woman key; it reaches the page through a phone speaker,
+not the front-room system. One instance is drafted — see {{We Find Out}} below.
+
 ## The assignment principle
 
 **Pace is not curating.** He does not select a record for a guest; he plays what he likes, and he likes all of it. The per-woman correlation is the **author's key to the reader**, realized diegetically as *ambient music that happens to be on* — never caused by, and never tracking, whom Pace expects.
@@ -36,7 +77,11 @@ This keeps Pace innocent (no calculation to expose) and puts all the pattern-wor
 
 ## Current placements (the corpus as it stands)
 
-Story order of the Randi-at-house scenes: **{{The Bench}} (early fall) → {{Gone}} (late Oct) → {{In Her Place}} (April) → {{Scalding Jealousy Ignition}} (June).**
+Story order of the Randi-at-house scenes (inventory corrected 2026-10-09 — the earlier
+list omitted three): **{{The Bench}} (early fall) → {{Tannin}} (Thu Sep 17) →
+{{Portion}} (Sun Oct 11) → {{Gone}} (late Oct) → {{Four}} (Mon Nov 16) → {{In Her
+Place}} (April) → {{Scalding Jealousy Ignition}} (June).** {{Space}} (Fri Oct 23) has
+Randi present but runs **Pace's** lane, because the evening is his.
 
 - **{{The Bench}}** (`the-bench.md`, drafted) → **Steely Dan** (sourced from *A Decade of Steely Dan* — the '72–'80 run is seamless enough to read as one body; on the page just "Steely Dan," ambient). The reader's *first* taste of Randi's lane, so smooth and cool; keep it reading produced, never warm (or it bleeds toward Vee's Fleetwood-Mac register).
 - **{{Gone}}** (`gone.md`, drafted) → **Sade**, low, ambient ("*that cool voice with the warmth folded under it*"). This is the warm, post-coital Randi/Pace scene, so the sound is the **warm-under-gloss** end of her lane (not the colder synth of {{In Her Place}}) — Sade's sealed torch-warmth carries the scene's tenderness while staying unmistakably Randi's (produced, not Vee's analog). Now the **fourth clean Randi-at-house scene**, which retires the two-instance caution in *The discipline* below.
@@ -45,6 +90,37 @@ Story order of the Randi-at-house scenes: **{{The Bench}} (early fall) → {{Gon
 - **{{Scalding Jealousy Ignition}}** (`ignition-scalding.md`, drafted) → **leave the Debussy.** It is a **Vee-then-Randi evening** — Vee is there until 11, Randi arrives at midnight into Vee's scent; the drafted line has Pace *"leave it"* on. Vee's music is correct for her evening and *stays* running through Randi's arrival: the **poaching beat.** It lands **last** (June), after the rule is established, so it reads as meaningful, not as noise. No edit.
 
 **In `All the Time`** (the ~mid-to-late Nov SATC brunch, `meta-note-all-the-time.md`): only the **Vee side** can be planted, and only as Vee's **report** — she describes the music of his evenings (Impressionist warmth on low while he cooks; a Fleetwood Mac record; a Garth song) as part of the tenor that winds her tighter. Optional **Randi wordless beat**: Vee glows about "her" music while Randi has sat in that same house hearing something else — a flicker, unreadable, the plan escaping her. Never tips.
+- **{{Tannin}}** (`tannin.md`, drafted) → **Steely Dan**, going in the warm house while
+  she settles astride him. Her lane's second leg and the earliest after {{The Bench}}.
+- **{{Portion}}** (`portion.md`, drafted) → **Depeche Mode's *Violator*** (author ruling
+  2026-10-09, over *Music for the Masses*): the prose already reads "every sound in it
+  polished," which describes *Violator*'s production and not the colder record; the scene
+  is a seduction and *Violator* is the seduction record; and it leaves {{In Her Place}}'s
+  *Music for the Masses* to arrive in April as **the same band gone cold**. Pace's own
+  label for it on the page is "the synth thing," so the album is named in narration, not
+  by him.
+- **{{Space}}** (`space.md`, drafted) → **Pace's own lane**: a trumpet over brushes while
+  he works, then a piano late. Randi arrives into it and it is not changed — *"He did not
+  think to change it and it did not occur to him that he might."* That line is the model
+  rendering of the non-curation guard.
+- **{{Four}}** (`four.md`, drafted) → **unspecified**, deliberately: *"music was going low
+  in the front rooms, something he had put on hours ago and stopped hearing,"* bookended
+  at the chapter's close. An open slot in a Randi scene.
+- **{{The Usual}}** (`the-usual.md`, drafted) → **Pace alone**, four beats across the
+  diptych: he puts it on from his phone and lets it have the rooms, *"not the bright end
+  of it, nothing with somebody counting it off at the top; the late things"*; an album
+  changed; an album ending unattended; a piano and a horn low in the house next morning.
+- **{{We Find Out}}** (`we-find-out.md`, drafted) → **the exercise channel.** Vee comes
+  an hour early and hears AC/DC's "Thunderstruck" from the gravel — treble held by the
+  walls, bass coming through them, *"turned up past anything she had ever heard in that
+  house"* — which is also why he does not hear her car. Through the kitchen window beside
+  the stoop she watches him with the shake, head going, four bars of artless air guitar.
+  Her one prior encounter with his own music ({{Nothing Underneath}}) frightened her; this
+  one is a charmed giggle at a man caught unobserved.
+
+**Vee's lane is already on the page as an object, not as sound** (found 2026-10-09):
+{{Sorority}} has a *Bella Donna* poster she hung freshman year and long stopped seeing.
+Her register is something she brought, not something absorbed from his collection.
 
 ## Guards
 
@@ -62,3 +138,22 @@ Story order of the Randi-at-house scenes: **{{The Bench}} (early fall) → {{Gon
 - `meta-arch-bible.md` → *Running threads to seed* — the registry bullet for this thread.
 - `meta-plan-pace-house.md` — the set the sound lives in.
 - Payoff (open, do not design yet): whether the music ever *lands* for a character rather than the reader — candidate is the reveal/threesome (identity sole-channeled through the kiss under the blindfold; *whose music is playing* could be a silent tell).
+
+## Open
+
+- **Vee's lane has one in-house instance** ({{Scalding Jealousy Ignition}}, June) against
+  five Randi legs, and that instance is the one earned exception rather than the rule.
+  Candidate slots raised and unruled: {{Two Towels}} (her first visit — the structural
+  mirror of {{The Bench}}) and {{Famished}} (the first night). {{Believe Me}} was
+  considered and **rejected** (author, 2026-10-09): wrong register for music, and far too
+  late to establish the lane.
+- **Pace's lane does not vary.** All three instances are the same slow muted horn. The
+  bright-end counterweight is wanted; {{Space}} was raised as the host and is unruled.
+- **{{Four}}'s unspecified slot** — name it from Randi's roster, or leave it ambient.
+- **The *Ingénue* sequence** (author ruling 2026-10-09), chapters unassigned: Indigo Girls
+  first, Vee alone in her own room; then Vee hears *Ingénue* from Randi, **asks what it
+  is**, says she likes it and will try it; then Vee alone with the record. The two latter
+  chapters close but not adjacent, and in the spring — the fall is too early for the ask.
+- **Pace-coded music on neutral ground when the two women are together** — Bennett,
+  Monheit, *Stardust* — raised as the absent man audible in the room. Unruled.
+- **P!nk apart from "Glitter in the Air"** is unassigned.

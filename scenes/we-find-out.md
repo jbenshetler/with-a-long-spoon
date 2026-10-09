@@ -6,6 +6,14 @@
 
 She texted him after stats — she had never once been the one to reach first. *I miss you. Can I come by early?* It sat there long enough that she felt it, the nakedness of having asked. Then, fifteen minutes on: *At the gym. Shower when I'm back. Come by at four.* She came at three. She told herself she would sit in the car if she had to.
 
+She heard it from the gravel, before she had the car door shut. The treble stayed in the house; the bass came out through the walls to meet her, thunderous, the bottom of the song without the top of it — and she had it inside two bars anyway. "Thunderstruck." She had sat through an entire superhero movie once on the strength of that song, and here it was coming through the siding of his house, turned up past anything she had ever heard in there.
+
+She stood in her heels beside the car and laughed out loud at nobody. He had not heard her come up the hill. He could not have.
+
+The kitchen window beside the stoop had its light on. She went up the two steps and looked in like a thief. He crossed the window with the shake in one hand and came back, his head going, shaking it loose on his neck, down into the beat and up again for the next — and then the cup went down on the counter and he gave the empty kitchen four bars of the worst air guitar she had ever seen, no shape to it anywhere, both arms doing something nobody should do sober.
+
+So that was what he was when nobody was due for another hour. She put her hand over her mouth and kept it there until she had herself back.
+
 He opened the door still in his gym shorts, no shoes, a shake in one hand. He hadn't planned on being seen like this, and she could tell it cost him to stand there not put together. But his face did the thing it did when she turned up, the gladness he never quite managed to hide, and he got an arm around her, the other hand full of the shake, and she went up into it and held on. This close he smelled of himself, warm and dark and a little animal under the gym, muskier than the clean she knew, and she breathed it in and didn't say so. She'd worn the black strappy heels and the wrap skirt for him, more than a Friday after stats called for, and his bare feet said so, and she found she didn't care. He walked her in, and they dropped onto the couch in the den, and he told her he needed twenty minutes. A shower, the rest of the shake.
 
 "You're no fun," she pouted, and hit him in the thigh with the side of her fist, the way you hit a door that sticks, except the muscle gave a little now that he was sitting, so the blow went in, and he flinched. The smallest thing, a tightening at the corner of his eyes, there and gone, but she caught it. She had never once seen anything she did land on him. He had been a wall since the day she met him, a wall that picked her up and set her down where it wanted her, and she had just watched it flinch.
