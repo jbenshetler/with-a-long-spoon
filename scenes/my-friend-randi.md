@@ -112,7 +112,7 @@ Then she heard what she'd said. The old voice came up in her fast and hot, her m
 
 "Okay. And who's going to see you do it?" Randi's voice stayed warm and level and walked her down off the ledge a word at a time. "One man. Who's had you every way there is, who knows that body by heart, who heats his whole house so you won't be cold in it. You wouldn't be showing him a thing he hasn't asked you for on his knees. You'd be walking through the cold to hand him everything, no words, no fight, nothing kept back. That's not a slut, gorgeous. That's the bravest thing a woman can do, and there's not a man alive who survives it."
 
-And Vee, hot-faced, felt the other thing turn over under the burn, as it always did once the shame was lit, the wanting coming up hand in hand with the mortification and sharper for it. She was going to do it. She'd known it since the coat, maybe. She only needed walking past the part of her that would rather die.
+And Vee, hot-faced, felt the other thing turn over under the burn. She was going to do it. She'd known it since the coat, maybe. She only needed walking past the part of her that would rather die.
 
 Then she was up and reaching for her coat, the day's coat, ready to go straight out there and do it before the nerve went. Randi caught her wrist, laughing. "Absolutely not. Not like this."
 

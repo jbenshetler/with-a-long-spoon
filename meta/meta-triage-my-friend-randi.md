@@ -140,3 +140,78 @@ The front-hall filing ("the house note her and file her, the stats friend") **mo
 
 ## Continuity — Gstaad in Vee's POV (author ruling 2026-08-13)
 Line 21 now reads "**dresses from Gstaad**" in Vee's close-third. Vee **knows the destination in advance** (Randi told her before break she was skiing in Gstaad for Christmas — best-friend baseline, below the threshold of what must be rendered). NOT a POV leak. `meta-note-fairytale.md` corrected to match. Do not re-flag "Gstaad" in Vee's POV here.
+
+## Capture read ch054, full roster (2026-10-09)
+
+Sixteen lanes — all eight capture-roster models (fable included at the author's
+request) × `romance-graduate` and `fsog-refugee`, run `--from 54 --to 54 --fresh`
+so each reader used the memory it already had. **16/16 CONTINUE, no STOPs.**
+CAPTURE 8–10, NEXT 9–10; sol and gemini both 10/10 on both lanes.
+
+### Applied
+
+- **:115 trimmed to "And Vee, hot-faced, felt the other thing turn over under the
+  burn."** (author ruling 2026-10-09). `claude-opus-5` flagged the tail — *"'the
+  wanting coming up hand in hand with the mortification and sharper for it' — I had
+  that from the blush, I didn't need it labeled."* The complaint is **within-line
+  doubling**, not explain-after-showing across the chapter: the sentence stated one
+  idea four times, escalating from shown ("hot-faced") to analysed. Cutting the tail
+  also preserves **"the other thing" as Vee's own refusal to name it**, which naming
+  it a clause later undid. The shame→heat wiring is established elsewhere, so "as it
+  always did once the shame was lit" was telling what the book had already shown.
+
+### Left standing — do not re-litigate
+
+**Threshold (author ruling 2026-10-09): revisit only if a second reader names it.**
+Each item below has exactly one reader.
+
+- **The four-chapters-alone run.** `claude-opus-5-5` ALMOST-STOPPED on *"She had not
+  gone home. She had visited."* as *"the fourth chapter in a row opening on someone
+  alone in the dark."* The count is off: the reader lists *"Gstaad, the twin bed, the
+  diner, the whiskey,"* but the diner and the whiskey are both {{The Usual}}, its two
+  panels. The actual run is **three** — {{Fairytale}} (Randi), {{Old Acquaintances}}
+  (Vee), {{The Usual}} (Pace) — which is the designed sequence of three isolations
+  before the reunion, and it has to happen. The chapter reads as a fourth only because
+  {{The Usual}} is a diptych. Brightening this chapter's opening was considered and
+  **rejected**: the opening is praised by three models — `claude-fable-5-1` (*"I read
+  that line twice and then I had to put the phone face down for a second"*),
+  `claude-opus-4-8` (*"the most grown-up thing this girl has done"*) — and
+  `claude-opus-5-5` itself says *"I liked all of them."* If the run is ever relieved,
+  the lever is {{The Usual}}'s internal break, not this chapter.
+- **:127, the shoe description.** `claude-opus-5-5` held back one CAPTURE point for
+  *"the book over-explained the shoes."* The candidate clause is the interpretive one
+  — *"built to put a woman's leg on show from the toe to the middle of her calf and
+  not pretend otherwise"* — which glosses what the preceding image shows. The concrete
+  half is what readers carry: `claude-opus-5` quoted *"not one strap there to hold the
+  shoe on."* Keep the straps; the gloss is the only candidate if this ever recurs.
+- **:131 is not explain-after-showing** (author ruling 2026-10-09). The explanation is
+  **Vee's**, free indirect — *"because of course it was that"* is her misattribution,
+  and the reader is positioned to see past it. `claude-opus-5` read it as designed and
+  praised it: *"she hand[ed] herself an explanation inside one sentence… She's getting
+  so fast at filing."*
+
+### Receipts, not defects
+
+- **Nine of sixteen ALMOST-STOPPED on Randi steering Vee off her demand for words and
+  into the coat**, across three lines — *"You don't do it with words. Words are the
+  whole war."* (4 readers, 3 models), *"That's not a slut, gorgeous…"* (3), *"Name it
+  or lose me — the one thing he can't do."* (both sol lanes). Every one of them
+  exonerates the book in the same breath: `gpt-5.6-sol` *"the book plainly knows
+  exactly what she is doing"*; `glm-5.3` *"the book flagged the seam itself, and Vee
+  owned the choice"*; `claude-opus-5` *"the book let me see the whole mechanism
+  without ever winking at me."* sol scored **10/10 on both lanes** while writing
+  *"Randi's reframing was so dishonest it made me furious."* Maximum capture with
+  maximum objection is the instrument working, not a defect.
+
+### Logged, no action
+
+- **The weight, again.** `claude-opus-5`: *"Nobody said one word about the weight… the
+  book keeps walking right past the open door on that and I don't believe it's an
+  accident anymore."* A standing gap, not a chapter note.
+- **The filing/putting-away motif is thickening.** `claude-opus-5`: *"She's getting so
+  fast at filing. She's got a filing system now. Her drawer's going to need a second
+  drawer."* Affectionate, but it is the retired cataloguing frame being noticed as a
+  pattern.
+- **"The other thing" is Vee's recurring evasion** — {{Lesson}} (*"underneath the
+  shame, the other thing kept coming back"*), {{The Burn}} (twice), {{Postcard}}, and
+  now carrying :115 alone. Either a signature or four uses of one dodge; unruled.
