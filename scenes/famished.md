@@ -18,7 +18,7 @@ He opened the door in a canvas apron over a dark henley, sleeves pushed to the e
 
 "Hi," he said, and stepped back to let her in.
 
-She stepped inside, and the house smelled of garlic and red pepper and nothing else. On the counter the cutting board held everything ready: garlic minced, pepper flakes measured into a bowl beside the tin of crushed tomatoes. The pan was dry and clean on the burner. He'd done all the preparation and stopped.
+She stepped inside, and the house smelled of garlic and red pepper and nothing else. Fleetwood Mac was going low somewhere back in the house, "Dreams" just coming up out of whatever had been playing before it — and she loved that song, and said nothing about it at all. On the counter the cutting board held everything ready: garlic minced, onion diced, pepper flakes measured into a bowl beside the tin of crushed tomatoes. The pan was dry and clean on the burner. He'd done all the preparation and stopped.
 
 A Chianti Classico open on the counter, already breathing.
 
@@ -102,7 +102,7 @@ It was the first time that had been true.
 
 He pulled on jeans and a white t-shirt. She was leaking, her thighs slick with it, so she left her clothes where they'd fallen and wound the top sheet around herself instead, and followed him to the kitchen.
 
-He built the fra diavolo from where he'd stopped — the oil, the garlic and pepper blooming, the tomatoes going in — and she sat at the table with the wine she hadn't drunk earlier and watched him. The kitchen smelled right. She was sweaty and tired and genuinely hungry and she did not feel like talking and he did not appear to feel like talking and this was fine.
+He built the fra diavolo from where he'd stopped — the oil, the onion going soft, the garlic and pepper blooming, the tomatoes going in — and she sat at the table with the wine she hadn't drunk earlier and watched him. The kitchen smelled right. She was sweaty and tired and genuinely hungry and she did not feel like talking and he did not appear to feel like talking and this was fine.
 
 They ate at the table. The fra diavolo was hot with the pepper, and the Chianti was better for having waited, and she ate until she was full and then sat with the last of her wine. Her body was quiet. The evening had used her well.
 

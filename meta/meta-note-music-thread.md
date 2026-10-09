@@ -117,6 +117,28 @@ Randi present but runs **Pace's** lane, because the evening is his.
   the stoop she watches him with the shake, head going, four bars of artless air guitar.
   Her one prior encounter with his own music ({{Nothing Underneath}}) frightened her; this
   one is a charmed giggle at a man caught unobserved.
+- **{{Famished}}** (`famished.md`, drafted) → **Fleetwood Mac, "Dreams"**, going low back in
+  the house as she steps in, *"just coming up out of whatever had been playing before
+  it"* (author ruling 2026-10-09: just-started beats half-gone; the rolling playlist
+  carries the non-curation). **Vee's lane's earliest instance** — the first night, thirteen
+  chapters after {{Tannin}}. She loves it and says nothing, which is guard 2 enacted. The
+  reread charge is the point: a song about a man who cannot stay, playing in the house of a
+  man running two women, on the night the first of them gives herself to him. Narration
+  never glosses the lyric and never quotes it.
+- **{{Made-Up}}** (`made-up.md`, drafted) → **unspecified**: *"For a moment the music was
+  the only voice in the house."* A Vee-at-house slot standing open.
+- **{{Believe Me}}** (`believe-me.md`, drafted) → **Vee's Impressionist piano, unnamed**:
+  *"Under it, music, piano, quiet, something slow that moved like water, the kind he
+  played."* Already going before she arrives.
+- **{{Missed a Spot}}** (`missed-a-spot.md`, drafted) → **Fleetwood Mac, "Sara"**, thumbed
+  up from his phone — *"Stevie Nicks singing to a kitchen with a naked woman in it."*
+  Volume Two's opener returning to the first night's sound.
+
+**Vee cannot name the classical; she can name the rock.** Canon is already consistent on
+this without anyone planning it: Debussy is named at {{Scalding Jealousy Ignition}} in
+**Pace's** POV, the piano is unnamed at {{Believe Me}} in **Vee's**, and {{All the Time}}
+has her say *"I couldn't tell you what half of it even is."* Fleetwood Mac and Stevie
+Nicks she names freely. Keep the asymmetry.
 
 **Vee's lane is already on the page as an object, not as sound** (found 2026-10-09):
 {{Sorority}} has a *Bella Donna* poster she hung freshman year and long stopped seeing.
@@ -141,12 +163,17 @@ Her register is something she brought, not something absorbed from his collectio
 
 ## Open
 
-- **Vee's lane has one in-house instance** ({{Scalding Jealousy Ignition}}, June) against
-  five Randi legs, and that instance is the one earned exception rather than the rule.
-  Candidate slots raised and unruled: {{Two Towels}} (her first visit — the structural
-  mirror of {{The Bench}}) and {{Famished}} (the first night). {{Believe Me}} was
-  considered and **rejected** (author, 2026-10-09): wrong register for music, and far too
-  late to establish the lane.
+- **Vee's lane was never thin — it started late.** A first harvest reported one in-house
+  instance and was wrong; the regex lacked bare `music` and `Stevie Nicks`. The lane holds
+  {{Made-Up}}, {{Believe Me}}, {{Missed a Spot}} and {{Scalding Jealousy Ignition}}. The
+  real asymmetry is timing: Randi's register is **named** at chapters 1 and 7, while Vee's
+  first music of any kind arrived at chapter 36 and her first named artist at 56.
+  {{Famished}} (chapter 20) now fixes the near end. {{Two Towels}} — her first visit, the
+  structural mirror of {{The Bench}} — remains available and unruled.
+- **{{All the Time}} reports a trend, not a rule** (author ruling 2026-10-09). Its account
+  of his evenings covers many visits; a single chapter need not match its piano-then-
+  Fleetwood-Mac order. {{Famished}} deliberately does not — Vee arrives and they go
+  straight to bed, so there is no cooking for the piano to sit under.
 - **Pace's lane does not vary.** All three instances are the same slow muted horn. The
   bright-end counterweight is wanted; {{Space}} was raised as the host and is unruled.
 - **{{Four}}'s unspecified slot** — name it from Randi's roster, or leave it ambient.

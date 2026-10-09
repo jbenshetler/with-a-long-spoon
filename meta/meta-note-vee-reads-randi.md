@@ -47,6 +47,16 @@ she belonged to Randi."* Every earlier instance is Vee catching herself; this is
 with permission in it, and that is what makes it the peak rather than merely the longest. It
 closes on *"She kept looking."* and nothing else.
 
+**Randi wears no makeup at {{My Friend Randi}}** (author ruling 2026-10-09). She has had no
+time to put a face on, because she came down the stairs for Vee instead, so the lined
+mouth is impossible there; Vee reads the bare shape instead — *"a long elegant thing, a clean dip
+in the upper lip, just the kind men liked."* The **unassembled-and-still-beautiful** beat
+is deliberately **not** spent here; it is saved. And the overlining itself is a better fit
+in a scene where **Randi is telling Vee about John** — a placement candidate only. It is
+chronologically available from 054 onward — {{Fairytale}} (051) precedes {{My Friend
+Randi}} (054) — but no scene in which Randi tells Vee about him is drafted; John appears
+solely in `fairytale.md`, Randi's own POV.
+
 **The lipstick is not held.** Glancing instances are allowed anywhere; only the lingering
 catalogue is reserved.
 
@@ -56,7 +66,7 @@ catalogue is reserved.
 |---|---|---|---|
 | 011 | {{Dear}} | **brows** — thick, shaped, *"the deciding had cost money"* | before the first kiss; mid-defense, while Randi pays a social cost to Brooke, so the noticing arrives fused with gratitude. Closes on *"until she caught herself doing it."* |
 | 037 | {{One Bite}} | **mouth curve** — one corner up and staying up | after the second kiss, before {{On Her Floor}}; at the *"Delicious"* beat, where her mouth is already the chapter's subject |
-| 054 | {{My Friend Randi}} | brows + the lined mouth, glancing | on the bed, *"their knees touching"*; closes on **Vee's own arousal tell** (hands flat on her thighs), not on narrated avoidance |
+| 054 | {{My Friend Randi}} | brows + the **bare** mouth's own shape, glancing | on the bed, *"their knees touching"*; closes on **Vee's own arousal tell** (hands flat on her thighs), not on narrated avoidance |
 | 070 | {{On Her Floor}} | **the lipstick, in full** | the peak, after *"As my date"* |
 
 **Do not reuse the avoidance construction.** An earlier draft closed three of these with
