@@ -287,7 +287,17 @@ always **her own wanting**, never another person's face. Keep it; it is hers and
 bearing. Do not spend it as a generic paragraph-closer — a 2026-10-08 draft used it to end
 three consecutive beats and it read as one drum.
 
-### New channel — the nose (involuntary)
+### RETIRED channel — the nose (involuntary) · never drafted
+
+**Retired unused (author ruling 2026-10-09).** The kit already carries enough
+involuntary tells, and the likelier reader attribution is **allergies, not arousal** —
+so the failure mode is not invisibility but misreading, which is worse. Confirmed in
+practice: the assistant, given the beat to render, reached first for a displacement
+gesture and then for congestion, and had to be corrected twice. No instance was ever
+drafted, so retirement costs nothing. Use the legible members of the family instead
+(hard nipples, the flush, the hand in her own hair, the self-hug, hands pressed into
+her thighs, the toes). **Do not re-propose.** The reasoning below is kept because it is
+sound physiology and a sound design — it fails only on legibility.
 
 Nasal turbinates carry erectile tissue — the genitals are the only other site — so arousal
 engorges them through a parasympathetic pathway; the clinical name is *honeymoon rhinitis*,
