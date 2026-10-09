@@ -142,7 +142,7 @@ For one song she was good, and the goodness still surprised her — not that she
 
 *Don't think,* she told herself. *Just feel the lead.*
 
-She gave the frame her weight. And the floor came back to her — his hand at her back, even and exact, the turn arriving ahead of anything she'd decided. The frame she'd fought on the pad as too close, too fixed, too much rule, was the thing doing it now: it held her in the one place the next step could come from, so there was nothing to do but take it. She stopped counting. Couples moved around them and she didn't touch one.
+She gave the frame her weight. And the floor came back to her — his hand at her back, even and exact, the turn arriving ahead of anything she'd decided. It held her in the one place the next step could come from, so there was nothing to do but take it. She stopped counting. Couples moved around them and she didn't touch one.
 
 It was so good she went looking for the bill of it — quick, under the music, gone almost before she'd let herself think it: how much of this was Pace, and how much was the Pace she'd been building out of wanting him, wish laid over man so neatly she couldn't find the join. He turned her, and the question went where the count had gone, and the floor took it.
 

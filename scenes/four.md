@@ -52,7 +52,7 @@ Something happened to her mouth and was gone again.
 
 "Hm," Randi said, and let it lie, and after a moment she was running again. Everywhere else she filled the air. He had watched her do it: handing out her approval across a room like a woman passing a tray, making whoever she was looking at the whole subject of the hour. In his house the machine switched off and she went quiet and sat with her feet up and let him be the one to talk. But tonight it had been running since the kitchen counter.
 
-"Saturday was the best brunch we've had," she said. "She's so happy she can't hold it. She just can't keep it to herself. She talked for twenty minutes about *food.* About you cooking." The laugh came up out of her chest, a real one. "She said her mouth had been asleep since she was born and nobody told her."
+"Saturday was the best brunch we've had," she said. "She's so happy she can't hold it. She just can't keep it to herself. She talked for twenty minutes about *food.* About you cooking." The laugh came up out of her chest, a real one. "I got the one about her mouth being asleep her whole life."
 
 "She told me that one."
 
