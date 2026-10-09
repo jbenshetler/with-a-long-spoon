@@ -47,10 +47,15 @@ mark items done with dates as they complete.*
   spend on cross-vendor breadth, not depth in one family) — and keeps what more
   than one lands on. **Over-flags by design — the author rules on every item.**
   Token rule: subscription lanes are the default; OpenRouter is paid and
-  author-authorized only. **In progress — first ten chapters audited by five
-  models (+`a-round`, `the-usual` panel two by sol alone), 2026-09-19; nothing ruled with
-  the author yet. Dates are out of scope for this pass** (the whole-book
-  timeline sweep above owns them).
+  author-authorized only. **RESET 2026-10-09 — not started.** The
+  2026-09-19 run (72 reports, 7 models, 12 of 79 chapters) was dumped: nothing had
+  been ruled with the author, the ledgers were stale by 76+ prose commits, and the
+  `vol1` label meant the whole fall, which the volume split made wrong. Recoverable
+  at `62b06759`. **When re-run, prefer ONE whole-book ledger** — the book is ~350k
+  tokens and every roster lane is 1M-class (ceilings in
+  `tools/cold_read_pricing.toml`), while per-volume ledgers are structurally blind
+  to the cross-volume contradiction this pass exists to catch. **Dates are out of
+  scope for this pass** (the whole-book timeline sweep above owns them).
 - [ ] **Orphaned-reference sweep (Lane B)** — text still pointing at something
   a revision removed. Worked case: a cut passer-by "in a camel coat too warm
   for the afternoon" whose later callback, "the closed camel-coat project,"

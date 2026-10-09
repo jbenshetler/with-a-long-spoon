@@ -27,39 +27,37 @@ cross-vendor breadth rather than adding depth within one family. Token rule:
 subscription lanes are the default and need no permission; **OpenRouter is paid
 and needs the author's explicit authorization each run.**
 
-## Coverage — 10 chapters × 5 models, +2 sol-only
+## Coverage — RESET 2026-10-09, nothing on disk
 
-Epub order. All reports below are **audited, none reviewed with the author yet.**
+**The lane was dumped and will be regenerated when the author is ready to run
+it** (author ruling 2026-10-09). What was discarded: 72 chapter reports across
+7 models covering 12 of 79 drafted chapters (~15%), plus 7 whole-fall
+`ledger-vol1.md` files. Recoverable from git at `62b06759`.
 
-| # | Chapter | opus-5 | gemini-3.8-flash | glm-5.3 | gpt-5.5 | sol |
-|---|---|---|---|---|---|---|
-| 1 | the-bench | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 2 | standards | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 3 | the-pointing-game | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 4 | see-you-later | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 5 | substitution | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 6 | long-way | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 7 | water-wings | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 8 | may-i-choose | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 9 | off-six-fourteen | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 10 | dear | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 15 | a-round | — | — | — | — | ✓ |
-| 53 | the-usual | — | — | — | — | ✓ |
+Why dumping cost nothing:
 
-**Chapters 11–52 are `pending`** (except the two sol-only rows above).
-{{The Usual}}'s second panel is the pass's worked case — Pace waits and "his
-body gathered itself toward … a truck turning in" four lines before "her car
-finding the narrow drive," and Vee drives a Corolla. **RESOLVED 2026-10-07**
-(`ca3a96c3`): the body now moves first, the wrongness lands whole and
-unspecific, and "he did not let go of it" holds the hope four lines past the
-knowledge. Scanned as `not-enough` at reader position 50; that chapter was
-merged into {{The Usual}} as panel two on 2026-10-07 and the row is renumbered
-to 53 — see `reviews/capture-panel/SPEC.md` on resolving old numbers through
-the title.
+- **Zero adjudications.** Every report was `audited`, none ever `reviewed` with
+  the author, so no settled verdict was lost — only raw model output.
+- **The ledgers were stale** by 76+ prose commits since 2026-09-19.
+- **The volume labels had moved.** `ledger-vol1.md` meant *the whole fall*; the
+  2026-10-09 split made Volume One 27 chapters, so the scope label no longer
+  described the contents.
+- Coverage was 15%, so a fresh run is closer to starting the pass than resuming
+  it.
 
-Only two reports come back clean: `claude-opus-5/dear.md` and
-`claude-opus-5/may-i-choose.md`. **Every other report carries at least one
-flagged item, all unruled.**
+Kept: `prompts/` (the ledger/check/system templates — inputs, not output) and
+this tracker.
+
+**When it is re-run**, two findings from the 2026-10-09 investigation apply:
+
+1. **Every lane on the roster is 1M-class** (ceilings now recorded in
+   `tools/cold_read_pricing.toml`). The whole book is ~350k tokens, so a
+   **whole-book ledger** fits everywhere.
+2. **Per-volume ledgers are structurally blind** to the defect this lane exists
+   to catch — a fact established in one volume contradicted in another. Four
+   books means four blind seams. Prefer one whole-book ledger, with per-volume
+   ledgers only as a fallback.
+
 
 ## Restart
 
