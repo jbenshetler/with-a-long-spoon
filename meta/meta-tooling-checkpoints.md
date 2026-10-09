@@ -59,7 +59,7 @@ The mint recipe for a decade checkpoint at boundary B in volume V:
 - Chosen over the single-cumulative-stream alternative (keep minting global ck-ch060,
   ck-ch070… each chained off the previous checkpoint) because that re-consolidates Vol1
   every hop and lets verified Vol1 detail thin. Here Vol1's QA'd memory is preserved
-  verbatim for the whole trilogy.
+  verbatim for the whole series.
 
 Worked example — the 12th chapter of Vol3:
 
@@ -74,7 +74,7 @@ Worked example — the 12th chapter of Vol3:
 
 - A decade checkpoint: ~4.1k words ≈ **~5.5k tok** (plateaus ~5.5–8k).
 - Avg scene: ~2.7k words ≈ ~3.7k tok. A ≤9-chapter window ≈ up to ~33k tok.
-- **This model: ~6–8k (ck) + ≤33k (window) ≈ ~40k tok, flat** regardless of trilogy
+- **This model: ~6–8k (ck) + ≤33k (window) ≈ ~40k tok, flat** regardless of series
   length. Leaves ample room for the `meta/` canon load inside Sonnet 5's window.
 - Real assembly for ch060 (default decade 10): currently ck-ch050 + raw ch51..59; after the approved final-Vol1 cutover, ck-ch051 + raw ch52..59. Both are ≈ **~54k tok**.
 - Contrast — the retired all-raw interim scheme (`--decade 50`, before ck060 existed):

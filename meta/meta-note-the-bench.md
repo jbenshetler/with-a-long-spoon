@@ -258,7 +258,7 @@ Rulings only; the readings behind them are in `meta-triage-the-bench.md` (same d
 - **Scent arc fixed as two notes and one handoff:** perfume on arrival (11) and at
   her throat (145); the bench's own wood-and-leather (189, kept as contrast); her
   own scent arriving at the reveal (193 — **"the sea in it" is deliberate: a
-  mineral note against Vee's hothouse smell in {{The Reach}}, Vol. 2; do not
+  mineral note against Vee's hothouse smell in {{The Reach}}, Vol. 3; do not
   vary**); the handoff "the animal scent of her rising under the fading perfume"
   (259). Cut: the 223 smell clause, 225's "first ungoverned smell", 257's "the
   smell of her coming up", 339's "her wetness now smelling faintly in the room".

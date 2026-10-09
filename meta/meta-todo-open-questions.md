@@ -429,9 +429,9 @@ A trip, and it completes — gonzo, compressed, the involuntary Randi-flash at t
 
 No pre-draft limits. Post-draft, run the cold-read panel with fatigue explicitly in the triage lens; cut only what the instrument flags. A natural split-at-break option exists if ever needed — a decision the finished draft makes.
 
-# Volume Two pre-publication — line-edit and legal follow-ups (2026-09-15)
+# Volume Three pre-publication — line-edit and legal follow-ups (2026-09-15)
 
-Volume Two is **still drafting and has had no edit pass.** Nothing below is
+Volume Three is **still drafting and has had no edit pass.** Nothing below is
 urgent; it is parked here so it survives to that pass instead of being
 rediscovered. Neither item is in the beta package.
 
@@ -447,7 +447,7 @@ Was: *"her body had already laid out its evidence the way it always did, the way
 it had since she was fourteen and learned the word for it in her mother's voice
 before she had a word of her own."* Flagged in `meta-plan-legal-read.md` under
 the 2026-09-13 verification pass as **"sharper than [9], which the scan did
-flag,"** with the instruction to clean it before Volume Two goes to any platform.
+flag,"** with the instruction to clean it before Volume Three goes to any platform.
 
 Now reads *"…the way it had since **she first learned the word for it** in her
 mother's voice, before she had a word of her own."* Re-anchored to the learning
@@ -477,11 +477,11 @@ recorded rather than waved off.
 **Do not scrub wholesale.** Fourteen is a **motif**, not a slip: all three mark
 the same origin point — the body arrived, the mother named it, the management
 began — and `nothing-underneath.md:25` uses the same age for the same purpose in
-Volume One. It is the spine of Vee's concealment backstory, and losing it costs a
+Volume Two. It is the spine of Vee's concealment backstory, and losing it costs a
 real through-line. That is the trade the `[9]` ruling already refused once.
 **Author call at the edit pass, instance by instance.**
 
-Why it is genuinely different from the Volume One case it resembles. Item [9]
+Why it is genuinely different from the Volume Two case it resembles. Item [9]
 (`nothing-underneath.md:25`) was only ever **adjacency** — a concealment clause
 that happened to share a paragraph with sexual content, referent never in doubt,
 resolved 2026-09-15 by reordering with nothing reworded. This one attaches the
@@ -489,7 +489,7 @@ resolved 2026-09-15 by reordering with nothing reworded. This one attaches the
 property of her body since that age. Reordering will not fix it; the referent is
 the problem, not the neighbourhood.
 
-The Volume One fix is *not* the template. What worked there — move, never reword
+The Volume Two fix is *not* the template. What worked there — move, never reword
 — worked because the clause said something innocuous about a fourteen-year-old
 (she wore long coats). Here the sentence's own content is the exposure, so the
 options are to change the age, cut the dating clause, or re-anchor the "always

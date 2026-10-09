@@ -1,6 +1,6 @@
 # Notes — For You
 
-*Companion to the planned scene. **Beat 2 (the middle) of the spring Pace/Randi staircase** — {{My Pleasure}} (apex) → **For You** (the crack) → {{In Her Place}} (abjection) → taste (summit at {{Scalding Jealousy Ignition}}, Vol 3). Pace POV.*
+*Companion to the planned scene. **Beat 2 (the middle) of the spring Pace/Randi staircase** — {{My Pleasure}} (apex) → **For You** (the crack) → {{In Her Place}} (abjection) → taste (summit at {{Scalding Jealousy Ignition}}, Vol 4). Pace POV.*
 
 *Title (author-set 2026-08-29; was working title "On You"). **"For You"** — surface: tender, a love-gift (warm, fits the volume). Charge (reread): the laundering in two words — Randi can voice the want only as *for you* (Pace), never *for me*; the one word she can't say is *me*. Lands on the closing line (*"I can't wait for you to get the threesome you deserve"*). Names a frame (a dedication), not the act. **Title-chain with {{My Pleasure}}:** two courtesies masking the same want — *my pleasure* (it's hers, hidden in graciousness) → *for you* (deflected to Pace); the want never once claimed as *mine*.*
 

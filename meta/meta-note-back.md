@@ -1,6 +1,6 @@
 # Note — Back (the kitchen panel, promoted)
 
-*Scene · **Sun Jan 17** — afternoon/early evening, the reconciliation weekend's last day, Pace's kitchen · promoted from {{Among Friends}}'s opening panel (moved 2026-08-19; prose extracted from `among-friends.md:1–68` → `back.md`) · before the {{Nothing Underneath}} Sunday dorm-return coda, which stays Volume One's closing image and is never re-shown · Vee POV · sits between {{Missed a Spot}} (Sat) and {{Unpacking}} (Sun night) → {{Across}} (Mon)*
+*Scene · **Sun Jan 17** — afternoon/early evening, the reconciliation weekend's last day, Pace's kitchen · promoted from {{Among Friends}}'s opening panel (moved 2026-08-19; prose extracted from `among-friends.md:1–68` → `back.md`) · before the {{Nothing Underneath}} Sunday dorm-return coda, which stays Volume Two's closing image and is never re-shown · Vee POV · sits between {{Missed a Spot}} (Sat) and {{Unpacking}} (Sun night) → {{Across}} (Mon)*
 
 ## What this scene is
 
@@ -10,7 +10,7 @@ The planning machine for {{Among Friends}}, now its own chapter inside the recon
 
 - **She is naked — named once, never commented on.** The Saturday declined-sweats choice ({{Missed a Spot}}: the folded sweats declined, bare by choice) still standing on Sunday. One plain naming, a coy smile at most as acknowledgment, and the prose never returns to it — the domestic-ordinary register *includes* her bareness, uncommented; that is what colors the weekend. Never editorialize, never let the narration glance back at it.
 - **The sweats appear only at the leaving edge.** She dresses in his sweats to go — the canon return outfit ({{Nothing Underneath}} coda: coat, his sweats, heels) — at or past the chapter's edge, offstage or as the last gesture. The weekend's arc told in wardrobe, never narrated: bare Saturday → bare Sunday → his sweats to leave → her own robe that night ({{Unpacking}}) → her own clothes Monday ({{Across}}).
-- **Ends at Pace's.** The dorm return stays Volume One's close.
+- **Ends at Pace's.** The dorm return stays Volume Two's close.
 - **Register guard.** The kitchen was chosen over the bedroom because the bedroom is the wrong register — the panel wants the planning machine legible as domestic, not erotic. The nakedness must not tilt it: forward-leaning planning-energy, a couple planning a thing, her body simply the weather of the weekend. If the prose starts working the skin, it's wrong.
 
 ## Setting: the kitchen, after dinner

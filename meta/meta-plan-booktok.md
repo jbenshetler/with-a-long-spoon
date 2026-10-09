@@ -116,7 +116,7 @@ isn't necessary, and it breaks the firewall.
 **Tropes this book honestly has** (real entry-hashtags that connect to readers
 searching them): **slow burn** (top-tier, perennial — and yours is *real*),
 **worship / "he's obsessed with her"** (Pace's attention), **power dynamics / D-s**,
-**"the third" / why-choose** (Volume Three payoff — hold for later), and — carefully —
+**"the third" / why-choose** (Volume Four payoff — hold for later), and — carefully —
 **morally grey** (with the twist below).
 
 **The hook — weaponize the anti-dark-romance angle.** Dark romance owns spicy BookTok
@@ -178,7 +178,7 @@ Grouped by job:
 - **A · Tropes this book honestly has** (surface near readers searching them):
   `#slowburn` · "slow burn romance" · `#powerdynamics` · "power dynamics romance" ·
   "worshipped by him" / "he's obsessed with her" (soft-obsession, *not* possessive) ·
-  `#morallygrey` (with the §7 caution) · `#whychoose` / `#menage` (Volume Three — recon
+  `#morallygrey` (with the §7 caution) · `#whychoose` / `#menage` (Volume Four — recon
   only for now).
 - **B · Frustration-plus-quality** (the dissatisfied, writing-first reader — your
   sharpest signal): "spice with substance" · "spicy books with good writing" ·
@@ -368,7 +368,7 @@ friendship thesis, clean, caption writes itself. Alternate: the "letting go" spe
 
 **Hold — the Vee/Randi charge clips.** `{{One Bite}}` "Sticky fingers?" + the goodbye
 kiss/glaze, and the `{{How It's Done}}` "French thing" kiss, are magnetic but
-**pre-spend the why-choose / "the third" payoff reserved for Volume Three** (§5). Bank
+**pre-spend the why-choose / "the third" payoff reserved for Volume Four** (§5). Bank
 them; do not lead with the ambiguity.
 
 **Borrowed-testimony rule** still applies: the cleanest way to say "beautifully written"
@@ -397,7 +397,7 @@ rehearsal.
   style.
 - Cut the first **coded clips** from `{{A Round}}` / `{{The New Ordinary}}` (text +
   b-roll, no graphic lines).
-- Hold the **why-choose / "the third"** trope for Volume Three's window.
+- Hold the **why-choose / "the third"** trope for Volume Four's window.
 
 ---
 

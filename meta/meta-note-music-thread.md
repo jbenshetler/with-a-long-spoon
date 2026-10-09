@@ -132,7 +132,7 @@ Randi present but runs **Pace's** lane, because the evening is his.
   played."* Already going before she arrives.
 - **{{Missed a Spot}}** (`missed-a-spot.md`, drafted) → **Fleetwood Mac, "Sara"**, thumbed
   up from his phone — *"Stevie Nicks singing to a kitchen with a naked woman in it."*
-  Volume Two's opener returning to the first night's sound.
+  Volume Three's opener returning to the first night's sound.
 
 **Vee cannot name the classical; she can name the rock.** Canon is already consistent on
 this without anyone planning it: Debussy is named at {{Scalding Jealousy Ignition}} in

@@ -36,6 +36,9 @@ import subprocess
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import volume_scenes  # noqa: E402  (the volume-membership authority)
+
 def _panel_models() -> frozenset[str]:
     config = (Path(__file__).resolve().parent.parent / "reviews/cold-read/ensemble-config.toml").read_text()
     section = re.search(r"^\[panel\](.*?)(?=\n\[|\Z)", config, re.DOTALL | re.MULTILINE)
@@ -226,10 +229,13 @@ def classify(seg: str):
 # --- parsing the file ------------------------------------------------------
 ENTRY_RE = re.compile(r"^###\s+\[(SCENE|VIGNETTE|EVENT)\]\s+(.*)$")
 SECTION_RE = re.compile(r"^##\s+(.*)$")
-# The doc is partitioned into three seasonal volumes by inline divider lines
-# ("**◆ VOLUME ONE — Fall** · ..."). We read the season word off the divider and
-# carry it forward to the entries that follow, until the next divider.
-VOLUME_RE = re.compile(r"VOLUME\s+\w+\s*[—–-]\s*([A-Za-z]+)")
+# Inline divider lines ("**◆ VOLUME ONE — Fall** · ...") are SKIPPED here so
+# their text never lands in the preceding entry's body. They are no longer the
+# source of volume membership: that comes from meta/meta-volumes.toml via
+# volume_scenes, keyed by slug. Reading the season word off the divider silently
+# merged the two fall books into one "Fall" bucket when the fall split in two on
+# 2026-10-09, so the summary table showed three volumes for four.
+VOLUME_RE = re.compile(r"VOLUME\s+\w+\s*[—–-]")
 
 
 class Entry:
@@ -246,7 +252,7 @@ class Entry:
         self.slug = None        # unique DOM id stem (assigned in build_html)
         self.scene_md = None    # embedded scene prose (done scenes only)
         self.review = None      # {dates, round, last} or None (0 reviews)
-        self.season = None      # "Fall"/"Spring"/"Summer"/"Other" (VOLUME bucket)
+        self.bucket = None      # volume tag from meta-volumes.toml, or "Other"
         self.words = 0          # prose word count of the scene file (0 if none)
         self.git_date = None    # ISO date of last commit touching the prose file
         self.git_instant = None # Unix ts of that commit (for review-staleness cmp)
@@ -274,7 +280,6 @@ def parse(md: str):
     lines = md.splitlines()
     entries = []
     phase = None
-    season = None            # set by the most recent VOLUME divider
     flags_raw = []
     in_flags = False
     cur = None
@@ -297,16 +302,13 @@ def parse(md: str):
         if in_flags:
             flags_raw.append(line)
             continue
-        vol = VOLUME_RE.search(line)
-        if vol:
-            season = vol.group(1).capitalize()
+        if VOLUME_RE.search(line):
             continue
         ent = ENTRY_RE.match(line)
         if ent:
             flush()
             body_lines = []
             cur = Entry(ent.group(1), ent.group(2).strip(), phase or "")
-            cur.season = season
             continue
         if cur is not None:
             # the metadata line is the first content line after the heading; the
@@ -332,13 +334,14 @@ def parse(md: str):
     unknown = []
     for e in entries:
         e.finalize(unknown)
-        # Entries outside the three seasonal volumes — Pre-Novel (before the
-        # first divider) and the trailing "Threaded Throughout" section (which
-        # sits after VOLUME THREE and would otherwise inherit Summer) — bucket as
-        # "Other" so the seasonal rows stay clean.
+        # Bucket by VOLUME, resolved from meta-volumes.toml by slug. Entries that
+        # belong to no volume — Pre-Novel and the trailing "Threaded Throughout"
+        # section — go to "Other" so the volume rows stay clean.
         ph = e.phase.lower()
-        if e.season is None or ph.startswith("pre-novel") or ph.startswith("threaded"):
-            e.season = "Other"
+        tag = SLUG_TAG.get(e.file_slug)
+        if tag is None or ph.startswith("pre-novel") or ph.startswith("threaded"):
+            tag = "Other"
+        e.bucket = tag
 
     # The story spans one academic year (Aug -> next Aug), so both endpoints
     # land in August. A single Aug->Jul axis would collapse them. The file is
@@ -752,9 +755,14 @@ def git_last_commit(repo: Path, rel: str):
     return d or None
 
 
-# Row order for the summary table: the three seasonal volumes, then the
-# out-of-volume "Other" bucket, then the grand total.
-STATS_SEASONS = ["Fall", "Spring", "Summer", "Other"]
+# Row order for the summary table: every volume in meta-volumes.toml in ordinal
+# order, then the out-of-volume "Other" bucket, then the grand total. Derived, so
+# splitting a volume adds a row instead of silently merging two books.
+VOLUMES = volume_scenes.volumes()
+SLUG_TAG = {s["slug"]: s["tag"] for s in volume_scenes.all_scenes()}
+STATS_SEASONS = [v["tag"] for v in VOLUMES] + ["Other"]
+VOL_LABEL = {v["tag"]: f"Book {v['ordinal']} — {v['title']}" for v in VOLUMES}
+VOL_LABEL["Other"] = "Other"
 
 
 def compute_stats(entries):
@@ -769,7 +777,7 @@ def compute_stats(entries):
     for e in entries:
         if e.etype not in ("SCENE", "VIGNETTE"):
             continue
-        b = buckets.get(e.season) or buckets["Other"]
+        b = buckets.get(e.bucket) or buckets["Other"]
         b["chapters"] += 1
         b["words"] += e.words
         if e.review:
@@ -791,7 +799,7 @@ def render_stats(entries) -> str:
     for e in entries:
         if e.etype not in ("SCENE", "VIGNETTE"):
             continue
-        s = e.season if e.season in STATS_SEASONS else "Other"
+        s = e.bucket if e.bucket in STATS_SEASONS else "Other"
         firsts.setdefault(s, e.slug)
 
     def row(label, d, cls="", href=None):
@@ -811,7 +819,8 @@ def render_stats(entries) -> str:
         )
 
     body_rows = "".join(
-        row(s, buckets[s], href=(f"#beat-{firsts[s]}" if firsts.get(s) else None))
+        row(VOL_LABEL.get(s, s), buckets[s],
+            href=(f"#beat-{firsts[s]}" if firsts.get(s) else None))
         for s in STATS_SEASONS if buckets[s]["chapters"])
     total_row = row("Total", total, cls="stat-total")
     return (

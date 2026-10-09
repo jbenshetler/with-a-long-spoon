@@ -16,7 +16,7 @@ Neither of the two we have does.
   N−1 — a summary of a summary, ~50 hops deep. It didn't decay like a human; it
   suffered lossy-codec collapse, dropping *load-bearing* facts a real reader never
   loses: that the brunette is Randi, that the redhead is Vee, that Vee and Randi
-  had ever met, that Vee and Pace had slept together by the last decade of Vol 1.
+  had ever met, that Vee and Pace had slept together by chapters 41–50.
   A chain that "doesn't suspect" **because it forgot who the brunette is** is not a
   fooled reader — it's a broken one. So its lull readings are false signal, not a
   soft version of the truth. Disqualifying; retired. (Migration: the live lane is

@@ -22,7 +22,7 @@ mild. Genre flags noted where it isn't genre romance (no guaranteed HEA).
   in.)*
 - [ ] **Sierra Simone — *American Queen* (New Camelot trilogy)** 🔥 — explicit
   **poly why-choose** (a woman, two men, no one loses), with real moral/political
-  weight. A working model of the Volume 3 structure. **Comp candidate.**
+  weight. A working model of the Volume 4 structure. **Comp candidate.**
 - [ ] **Sierra Simone — *Priest*** 🔥 — high heat welded to genuine conscience;
   transgression that *costs*. The moral weight is load-bearing, not decorative.
 - [ ] **Alexis Hall — *For Real*** 🔥 — D/s romance (M/M, age-gap, younger man

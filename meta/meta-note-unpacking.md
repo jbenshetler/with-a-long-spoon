@@ -6,7 +6,7 @@
 
 ## What this scene is
 
-The cool-down and the grounding — Volume Two's first beat back in Vee's own world after {{Missed a Spot}} and {{Back}}. The happy reunion with Cassie, both freshly returned (Cassie "not due back till the weekend," `my-friend-randi.md:11` — her duffel half-emptied; **both of them unpacking**, the title's innocuous surface; the second read is the weekend unpacked minus one item). Picks up *after* the "Hmm" — the return itself stays Volume One's closing image and is never re-shown. Vee showered, night clothes and robe, back in her own skin (the wardrobe arc's landing: bare Saturday → bare Sunday → his sweats to leave → **her own robe here** → her own clothes Monday).
+The cool-down and the grounding — Volume Three's first beat back in Vee's own world after {{Missed a Spot}} and {{Back}}. The happy reunion with Cassie, both freshly returned (Cassie "not due back till the weekend," `my-friend-randi.md:11` — her duffel half-emptied; **both of them unpacking**, the title's innocuous surface; the second read is the weekend unpacked minus one item). Picks up *after* the "Hmm" — the return itself stays Volume Two's closing image and is never re-shown. Vee showered, night clothes and robe, back in her own skin (the wardrobe arc's landing: bare Saturday → bare Sunday → his sweats to leave → **her own robe here** → her own clothes Monday).
 
 ## The seen/unseen mechanism (the scene's engine)
 

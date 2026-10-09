@@ -181,7 +181,7 @@ so the wrong reader self-deselects; carries the "outgrown the tropes but won't
 give up the heat" self-selection.*
 
 > I'm looking for a small team of early readers for **A Polite Invitation**, the
-> first book of my debut trilogy — literary erotica for people who want the heat
+> first book of my debut series — literary erotica for people who want the heat
 > and the depth in the same book. It's fully explicit, it's about grown people
 > making beautiful mistakes with their eyes open, and it does **not** hand you a
 > tidy happily-ever-after — the feeling is taken as seriously as the sex, and it

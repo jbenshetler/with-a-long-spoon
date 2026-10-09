@@ -1,4 +1,11 @@
-# Volume Two Consequences — Restructuring Note
+# PRIOR (2026-09-12) Volume Two Consequences — Restructuring Note
+
+> **Superseded structure — read as history.** Written when the book was a
+> three-volume trilogy; the 2026-10-09 split made the fall two books, so every
+> volume number here is one low from the spring on and the chapter arithmetic
+> below ("Volume One is 51 chapters") describes a structure that no longer
+> exists. Volume numbers are deliberately NOT renumbered: the note quotes
+> reader-interview answers verbatim. Current volume table: `meta-volumes.toml`.
 
 **Status:** workshop record, 2026-09-12. Nothing here is canon except where marked **ADOPTED**. Supersedes nothing; raises collisions with `meta-plan-spring.md`, `meta-note-outlier.md`, and two Volume Three scenes (flagged at the bottom).
 

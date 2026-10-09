@@ -23,10 +23,10 @@ below against those. Companions: `meta-plan-free-sample.md` (discovery funnel),
   reads the cooking scenes and the shame-as-characterization sex as digression to
   trim. As a debut with no comp and no leverage, the set of editors who would both
   *acquire* it and *protect* the architecture is ~empty. Self-pub keeps full control.
-- **Prestige is not the target, and finishing the trilogy does not court it.** A
-  ~1300-page explicit *trilogy* is anti-prestige grammar (prestige = the singular
-  novel; "trilogy" = genre/commercial; explicit erotic heat ≠ prestige's cold
-  register). The completed trilogy (Book 2 early 2027, Book 3 fall 2027) is a
+- **Prestige is not the target, and finishing the series does not court it.** A
+  ~1300-page explicit *series* is anti-prestige grammar (prestige = the singular
+  novel; "series" = genre/commercial; explicit erotic heat ≠ prestige's cold
+  register). The completed series (release schedule PENDING — the 2026-10-09 split to four books invalidates the old Book 2/Book 3 dates) is a
   *self-pub* asset — rapid-release, read-through — not a prestige one.
 - **Trad/prestige is reordered to inbound-after-success, not acquisition-first.** If
   the self-pub series breaks out, print/audio/foreign/film interest arrives on the
@@ -224,12 +224,12 @@ this section and `meta-plan-pen-name.md`:
   30s as *maturity of sensibility*, not a number** (it also sells the emotional-maturity
   differentiator), and **keep a city out of the public bio** — geography is the most
   checkable firewall snag (posting times, weather, timezone) and must be maintained for
-  the life of the trilogy. Region ("New England") is the ceiling if any geography is
+  the life of the series. Region ("New England") is the ceiling if any geography is
   wanted; the recommendation is to source warmth from *taste*, not place.
 - **Ruling — villain-free is a *book/series* claim, never a byline-level author-brand
   promise.** Let the hook, blurb, and BookTok clips carry "no villain" (true of this
-  trilogy, the sharpest selling point). Keep it out of the *bio*, which is career
-  infrastructure (`helenriversbooks.com` "outlives the trilogy," `meta-cover.md`) — a
+  series, the sharpest selling point). Keep it out of the *bio*, which is career
+  infrastructure (`helenriversbooks.com` "outlives the series," `meta-cover.md`) — a
   byline "no villain" would lock out a future antagonist-driven book. The bio's durable
   through-line is instead: **adults making mistakes with their eyes open, desire taken
   seriously, heat and depth in one book** — all of which survive a book *with* an
@@ -241,7 +241,7 @@ The three locked surfaces:
   literary erotica for readers who want the heat and the depth in the same book. Her
   novels are about grown people making beautiful mistakes with their eyes open — the slow
   burn, the worship, and the cost, with the feeling taken as seriously as the sex. *With a
-  Long Spoon* is her debut trilogy. New books and the occasional letter at
+  Long Spoon* is her debut series. New books and the occasional letter at
   helenriversbooks.com." (The CTA points at the email list — the one owned channel per the
   Persona/Open bullets above. "Literary erotica" kept as the opener: honest about
   explicitness, sets the *Beauty*-reader's expectation on a page already shelved as
@@ -277,7 +277,7 @@ The three locked surfaces:
   women's-fiction browser (the repel-the-wrong-reader 1-star), and whether Amazon's
   content review strips the pairing on an erotica-classified title. **Erotica +
   romance stays ruled out** regardless of Vol 1's warm curtain — the tag is a
-  series-destination promise the trilogy's ending breaks (see `meta-blurb.md`,
+  series-destination promise the series' ending breaks (see `meta-blurb.md`,
   never-romance).
 - **Revisit CW-for-wide.**
 - **Investigate Bold Strokes Books as a market-intel channel (added 2026-09-07) —

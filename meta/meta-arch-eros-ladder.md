@@ -1,4 +1,4 @@
-# The Eros Ladder — feeling-registers across the trilogy
+# The Eros Ladder — feeling-registers across the series
 
 **What this doc owns.** The vocabulary and architecture of erotic feeling in the novel:
 the tiers of wanting (heat → want/yearning → love), the forces that ride on them
@@ -174,7 +174,7 @@ fools **herself only for a little while** → fully admits it to herself, "her g
 
 ---
 
-## 7. The Vol 3 threesome trap
+## 7. The Vol 4 threesome trap
 
 The structural payoff of the ladder. The threesome is offered and accepted as **heat** —
 the tier Pace sanctioned. Vee says yes to *tier 1*. But the woman is **Randi**, whom she

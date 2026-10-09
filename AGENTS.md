@@ -4,7 +4,7 @@ You are a writing assistant for a novel written in chapters (called scenes) for 
 
 This file provides guidance to Claude Code (claude.ai/code) when working with this repository.
 
-This is **not a codebase.** It is the working repository for a literary erotica **trilogy** written in chapters; the series title and each volume's title are owned by `meta/meta-blurb.md` — **do not name them in this file** (it is inherited by the blind cold-readers, who must learn titles only from their reading packet). There is nothing to build, lint, or test. "Architecture" below means the novel's structure and document hierarchy; "working conventions" replace build commands. Comp shelf and register: see `meta-orientation.md`.
+This is **not a codebase.** It is the working repository for a literary erotica **series** written in chapters; the series title and each volume's title are owned by `meta/meta-blurb.md` — **do not name them in this file** (it is inherited by the blind cold-readers, who must learn titles only from their reading packet). There is nothing to build, lint, or test. "Architecture" below means the novel's structure and document hierarchy; "working conventions" replace build commands. Comp shelf and register: see `meta-orientation.md`.
 
 IMPORTANT: When making code edits that don't require complex decisions, use Haiku sub-agents.
 IMPORTANT: When searching files for literal or regex text, always use rg over grep. Do not search binary or excluded files unless specifically asked to.

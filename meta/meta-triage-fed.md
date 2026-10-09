@@ -42,7 +42,7 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   - The flagging reviewer stayed inside the machine in the same breath: "I've
     stopped being able to enjoy them the way Vee does… that's the whole ache
     of the chapter" — the mechanism working, not design-fatigue.
-  - **Going forward (Volume 2, brunch-dense):** the protection is the track
+  - **Going forward (Volume 3, brunch-dense):** the protection is the track
     doc's existing law, now also enforced by the scene-review rubric's SATC
     escalation audit — every recurrence must click 1–2 axes; zero clicks or
     3+ clicks both get flagged.

@@ -517,7 +517,7 @@ anyway, so it trades precision for nothing; "since she first grew into it" is
 euphemism inside a paragraph whose subject is refusing euphemism. And the
 surrounding sentence is untouchable — *stripper's body* is the payoff of a
 three-beat motif (`a-round.md:26`, her mother's word; `old-acquaintances.md:39`,
-the self-comparison; here, ch052, Volume One's close, where she takes the word
+the self-comparison; here, ch052, Volume Two's close, where she takes the word
 away from her mother). The reorder also reads better on its own merits: hiding →
 naming → reversing, with the reclamation flush against the reversal it causes.
 

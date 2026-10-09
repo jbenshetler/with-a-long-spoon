@@ -1,6 +1,6 @@
 # Triage — Missed a Spot (cold-read panel + scene review)
 
-*Scene: `missed-a-spot.md` (ch 51, Volume Two opener, Sat Jan 16). Sources: the full
+*Scene: `missed-a-spot.md` (ch 51, Volume Three opener, Sat Jan 16). Sources: the full
 6-model grounded panel of 2026-08-19 (fable, opus, sonnet, gpt-5.5, sol, terra — all
 heat-3; fable and opus called it the strongest sex in the book), plus the
 `/wals-scene-review` pass of 2026-08-19. Panel reviews predate the post-panel line-edit

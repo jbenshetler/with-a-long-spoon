@@ -198,8 +198,8 @@ Design points, recorded so a later pass doesn't undo them:
   stale, and then it went to nothing" as "raw, almost shameful").
 - **"no dignity anywhere in any of it"** (`:31`, new prose) — kept, both against
   the intra-chapter pair with "one long undignified rush" ten lines later
-  (reader-praised, protected) and against `still-life:103` (Volume Two; leave
-  Volume Two alone). See echo ruling #81.
+  (reader-praised, protected) and against `still-life:103` (Volume Three; leave
+  Volume Three alone). See echo ruling #81.
 - **"the whole of his answer, as it always was"** — not re-opened; kept and
   acked 2026-07-29, and named by three readers as the chapter's acts-not-words
   close.
