@@ -106,7 +106,7 @@ Two of them this time, coming out through the glass doors of the rec center with
 
 Randi considered the pair the way she might consider a dish she had not ordered. "No." A small shake of the head. "Those two go everywhere together. You'd get both or neither." Then, dry, sideways, testing the game's walls: "Is that a yes or a no for you?"
 
-Both, then. The sprinter was getting her out of her clothes from behind, and the soft one stood in front of her and did nothing but hold her eyes while it happened. Randi let her. He kept his own face exactly where it was.
+Both, then. In his head the sprinter was getting her out of her clothes from behind, and the soft one stood in front of her and did nothing but hold her eyes while it happened. Randi let her. He kept his own face exactly where it was.
 
 "I'm not the one being asked," he said, mild — and then, because she'd left it open and he was enjoying himself: "I point. You pick."
 

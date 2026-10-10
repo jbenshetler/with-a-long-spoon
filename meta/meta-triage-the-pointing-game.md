@@ -413,3 +413,93 @@ direction on the same axis, or any lane moves 2+. The ":37" finding above
 clears that bar (two lanes down together, both back up on restoration); a
 Heat drop attributed to the dance cut did not, and was withdrawn. The written
 complaints converged reliably all day while the numbers did not.
+
+## Addendum — the quad fantasies re-examined; the POV cue added (2026-10-10)
+
+**Occasion.** The author could not find the quad fantasy material and asked whether its
+removal in the 2026-10-09 appetite pass was motivated or accidental. Investigated against
+**115 reader documents** from that round (gates + cold reads, as committed across
+`8641e02b`..`365756d0`). **Verdict: every cut was evidence-driven. None was an accident.**
+The failure was that none of the reasoning reached this file — which is why the material
+read as lost.
+
+### The finding this file was missing — Pace's omniscience
+
+**The most convergent complaint in the round, four models, and recorded nowhere until now:**
+
+- `claude-opus-4-8`·romance-graduate: *"it's three chapters of Pace being omniscient
+  about everyone's interior, and I want to see him **wrong** about something, I want a
+  crack in the operator."*
+- `claude-opus-4-8`·cold: *"his flawless omniscience is flattening him toward a type
+  (the all-seeing dom); he's deepest when the text lets him want, thinnest when it lets
+  him be right about everything."*
+- `claude-opus-5`·fsog-refugee: *"He's never once wrong, and a man who's never wrong is
+  the thing I used to swallow and don't anymore."*
+- `glm-5.3`·romance-graduate: *"One flicker of unease: Pace's omniscience."*
+
+This is what motivated cutting *"she had found a way to say yes without making the
+wanting stand naked between them"* — Pace reading her concealment strategy exactly. It is
+also the independent corroboration of the **2026-08-05 ruling** on *"He was not guessing
+any more."*: `glm-5.3` on the restored state — *"his one misfire (the confident blazer
+girl, 'He thought he had it') is welcome because it keeps him human."* The misfire is the
+crack in the operator these four readers asked for. **Protect Pace's one wrong guess.**
+
+### The fantasy volume — a real split, resolved toward thinning
+
+Against the fantasies (naming them directly):
+
+- `claude-opus-5`·cold: *"The one place I felt a thumb: **the inset fantasies.**"*
+- `claude-fable-5-1`·cold: *"The walk was long but the elimination structure justified
+  the length; **the fantasies padded it slightly.**"*
+
+Plus parade-length complaints across four models (*"one candidate too many, my eye
+slid"* — the round's only ALMOST-STOPPED; *"began to feel like a list by the third"*;
+*"one beat repeated four times"*).
+
+For them:
+
+- `claude-opus-5-5`·romance-graduate: *"Pace's little flash fantasies kept it charged."*
+- `claude-fable-5-1`·romance-graduate: *"the little cutaway fantasies … I was also a
+  hundred percent in it."*
+
+`0a682e38` resolved the split as its subject says — *"thin four fantasies to two plus a
+flash"* — keeping the beats readers engaged with and flashing the rest. **Restored and
+re-cut 2026-10-10:** the blond/room-runner fantasy (*"She brought Randi in and kissed
+her … both their mouths shining"*) was put back on a mistaken reading that the cut was
+unmotivated, then removed again by author ruling the same hour once the two padding
+complaints surfaced. Recover from
+`git show e6181a50:scenes/the-pointing-game.md` if ever wanted; the standing decision is
+that it stays out.
+
+### Fixed this pass — the POV cue
+
+`claude-fable-5-1`·romance-graduate named a real wobble the cuts never addressed:
+
+> *"the little fantasy flickers during the pointing (the sprinter undressing her, the
+> blonde kissing her) — I liked them, they're hot, but for a half-second each time I
+> wasn't sure whose head I was in, his or hers, and that's the one place the writing
+> wobbled."*
+
+`:109` gained **"In his head"** (author 2026-10-10). All three imagination beats now
+carry an attribution cue — `:83` *"in his mind"*, `:109` *"In his head"*, `:139` *"the
+picture came with it"* — so none can read as happening. The repeated cue is deliberate: a
+recurring move wants one marker, not invented variants.
+
+### Not losses — do not "restore"
+
+- **The permission frame** (*"the question was never whether she liked the girl. It was
+  whether she was allowed: is this one mine to take?"*) was **intentionally replaced** by
+  the dramatized exchange at `:153`–`:169` — *"Close your eyes." / "Can you imagine
+  kissing her?" / "Go get her." / "For us?" / "For us."* (author; commit `8a78f80a`,
+  *"Ask the permission instead of explaining it"*). Two readers had praised the narrated
+  version, one tying it to {{The Bench}}; the exchange is the chosen form regardless.
+- *"He wanted her gathered back into herself, free to weigh it and choose"* survives,
+  compressed, at `:37`.
+- The *"shape she gave it"* paragraph's core survives at `:49`.
+
+### Instrument note
+
+`ruling_anchors --slugs the-pointing-game` reports **22 moved anchors** across three
+ruling documents — settled rulings quoting prose the 2026-10-09 pass changed. Pre-existing
+and expected after a pass that size; re-read them before trusting their verdicts. Error
+lint clean, `echo_harvest` 0 candidates, no new lint hit from the cue.
