@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch003 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a42c80abb6ae · 2026-10-09*
+*capture-dag-v2-rich · gate ch003 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 9d752d004279 · 2026-10-09*
 
 REACTION
 
-Holy shit. Holy *shit*.
+*Holy shit.*
 
-I literally have chills sitting here. My jaw dropped at the dining hall collision, but that final line from Randi—*“Do you think she’ll like the bench?”*—knocked the absolute breath out of my lungs.
+When I read the blurb, I thought Vee was going to be the main character we open with, the sweet innocent college girl being slowly drawn into a web. Seeing it from the other side first—living inside the calculation, the psychological machinery of Pace and Randi *before* the trap is even sprung—is so much more ruthless and compelling than I was prepared for.
 
-Look at what this book just did. In chapter one, you think you’re watching the heroine get introduced to the hero’s kink. Then the name drops at the end: *Randi*. Not Vee. Chapter two shows Randi’s brutal, brittle social reality, desperately compartmentalizing the terrifying fact that Pace completely dismantled her. And now here, in chapter three, we find out how the trap was set. Randi, terrified of her own queer hunger, reframes it as a threesome gift for Pace. Pace, perceptive and completely captivated by her, turns campus into a live menu so she can indulge the appetite she starves herself of. And then Vee walks out of the dining hall—curves, copper hair, laughing with her throat bared, completely unbothered by the sorority gaze—and Randi just stops. The mask cracks.
+And that ending line: *"Do you think she'll like the bench?"* A literal chill went down my arms. Because we *know* what the bench did to Randi. We know how it cracked her open, how it stripped away twenty-one years of polished sorority armor, made her weep and leak and beg until she felt naked and terrified of being seen. And her immediate instinct, the moment she has a taste of power and an object of desire, is: *I want to put that girl on it.*
 
-And then Randi *hunts* her. The calculation of that "accidental" collision! The sheer social precision of making Vee feel like *she* was the one who bumped into Randi, the hand lingering on the arm, the instant warmth. The blurb told us: *"Randi, steers her — lightly, laughing, as if by accident."* Seeing it from the architect's side, watching the spider spin the web before the fly even knows there’s a parlor... it is diabolical. It is merciless. And it’s so profoundly erotic because it’s driven by this tangled, suffocating knot of denial, control, and genuine, desperate lust.
+The dynamic between Pace and Randi is fascinating, dark, and so grown-up. He reads her like sheet music. He knows she's closeted or deeply repressed, he knows she's performing a "cool girlfriend offering a threesome" script to disguise a bone-deep, terrifying queer hunger, and he just... lets the performance stand because it gets them both what they want. Watching her stalk Vee on the quad was masterclass level. The way she used her sorority charm, her dancer's balance, deliberately engineering an "accidental" collision so that Vee would be the one apologizing—God, it was wicked. And hot. The erotic tension of two predators quietly shopping for their third, entirely in daylight, in front of a dining hall while the trees are turning orange.
 
-Randi asking if Vee will like the bench isn't just cruel; it's her trying to master the thing that broke her. She was terrified of what the bench pulled out of her in chapter one, and now she wants to put this lush, vibrant girl on it and watch.
-
-The prose is just singing. The pacing of the walk, Pace testing her boundaries, the contrast between Randi’s rigid, restricted world and Vee’s effortless, abundant physical presence—God, it’s so good. I am completely hooked. Hand me the next chapter right now.
+The prose in this book is just feeding me. It's literary, it's psychologically exact, and the sex isn't euphemistic or detached—it's heavy, filthy, emotional, and sharp. I am completely hooked. I need to see what happens when Vee gets brought into their orbit.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 2
+HEAT: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The revelation of how Vee gets drawn into their orbit, combined with Randi’s chilling, brilliant execution of the "accident," is masterclass psychological erotic plotting. That closing line about the bench gave me actual goosebumps.
+WHY: The psychological interplay between Pace reading Randi's repressed desires and Randi projecting her own submission onto a target is breathtaking. That final line gave me full-body goosebumps—I have to see Vee walk into this trap.

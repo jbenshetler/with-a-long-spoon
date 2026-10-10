@@ -1,16 +1,16 @@
-*capture-dag-v2-rich · gate ch003 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha a42c80abb6ae · 2026-10-09*
+*capture-dag-v2-rich · gate ch003 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 9d752d004279 · 2026-10-09*
 
 REACTION
 
-Oh, that last question. I was enjoying Randi being almost embarrassingly happy—her feet doing that little thing, the squeaky yes turning into the private one—and then she asked about the bench. My stomach dropped. I remember her alone under that inadequate duvet. Now she’s imagining Vee on the thing she herself cannot bear to discuss. I don’t know how much is desire, how much is wanting company in what happened to her, and how much is wanting to watch from the other side. I want to find out.
+Oh, Randi. That little burst of happy footwork got me. After watching her lie under a duvet with her shoes on, I wanted her to have something she couldn’t immediately smother. The two different yeses when she gets back to Pace—one delighted, one suddenly private—made me feel the attraction between them more than all his confidence about what he can do for her. She’s excited enough to forget herself for a second. I liked her there. Which makes that last question about the bench feel dreadful.
 
-Pace is getting under my skin in two competing ways. The private game in public worked on me. Having someone notice where your attention catches, give you room to choose, enjoy your excitement—that has charge. But he is so pleased with his understanding of her, and I have already been in that bathroom with her while he sat outside thinking they’d had a wonderful evening. Every time he decides what her body has told him, I’m thinking: you missed something enormous last time. His tenderness still reaches me. I just don’t trust his confidence.
+Because is she imagining sharing something extraordinary with Vee, or putting someone else in the position she couldn’t bear to occupy? Both feel possible, and I don’t trust her to know the difference. I actually stopped at that line. She wouldn’t talk about what happened to *her* on it, but she can ask whether this stranger will like it. Suddenly the table is very much back in the room.
 
-I did get impatient with how thoroughly he explains her answer about the threesome. I understood what “With you” let her avoid admitting. Then I kept being told. The same thing happened on the walk: I wanted to watch Randi look at women without Pace translating every flicker into the supposedly real Randi underneath. Let me have a little access to her without him standing in the doorway.
+The opening worked on me, especially the question slipping out during sex and then being asked again afterward, when she can answer it. But I’m starting to get impatient with how thoroughly Pace tells me what every reaction means. “The same act. A different owner.” Yes, I got that from “Only in a threesome. With you.” Let me feel the little dodge without walking me around all sides of it. And his certainty that he knows the difference between performance and genuine feeling sits very strangely beside the woman who fooled him after crying in his bathroom. I’m interested in that blindness. I’m much less interested in being reassured repeatedly that he sees through her.
 
-But her sudden, unadorned “Yes” got me. And then the collision made me uneasy all over again. She can be honestly thrilled and still manufacture an encounter so neatly that the other woman apologizes. That is much more interesting to me than a scheming woman who feels nothing. Vee hasn’t even properly entered the book yet and I already want someone to tell her how this afternoon went.
+The walk had a lovely dirty charge once she started anticipating the next woman. I did get restless through some of the outfits and verdicts; I wanted to stay with Randi’s wanting, and kept getting another woman’s entire appearance through his eyes. Then Vee arrived and I perked straight up. Knowing the jacket, watching her apologize for a collision Randi deliberately caused was horrible in such a small, ordinary way. She thinks she’s just met someone nice. He’s standing there admiring the execution.
 
-My 1 a.m. text would be: “They’ve just picked her. I was smiling thirty seconds ago. This is going to hurt.”
+That’s what has me now: I wanted Randi to get her joy, and then her joy acquired an unsuspecting person’s name and class schedule. My 1 a.m. text would be: “She asked if the new girl would like the bench she herself can’t even discuss. I am concerned and obviously still reading.”
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
@@ -19,4 +19,4 @@ NEXT: 9
 HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: “The same act. A different owner.”
-WHY: I felt that sentence underlining something I’d already understood, and the continued interpretation briefly cooled me off. But Randi’s happiness and that final bench question have me wanting Vee’s side of this immediately.
+WHY: I’m feeling over-explained to, especially when Pace interprets Randi, but the attraction and the unease are both working. That bench question makes me want Vee’s perspective immediately.
