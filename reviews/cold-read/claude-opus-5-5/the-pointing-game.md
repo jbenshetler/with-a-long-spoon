@@ -4,50 +4,45 @@
 
 ## Reader reaction
 
-**Reader reaction: "The Pointing Game"**
+I came out of this chapter flushed, a little dazzled, and uneasy, and those didn't cancel each other out. The opening caught me completely. The question comes while she's "still swollen and still pulsing around nothing," and her body answers before she can: "far too fast for anything his body was doing to account for it." That's the hottest kind of scene for me. Desire shows up ahead of the person who has it, and I feel the shock of it right along with her. Her coming at a *question* says more than any act could. Then "He knew her body's answer. He did not take it for her answer." I wanted to trust that, and mostly I did. He waits. He lets the heat leave the room and asks again when she's gathered back into herself. That's real care, and it's on the page.
 
-The first beat hit me before anything else did. Randi slows at the long table with its top back on and says *Let's do something different. Today.* I last saw her lying in last night's clothes with her shoes on, not crying, after deciding in his mirror that "she was not coming out again." So it caught me when she was the one who reopened the door, eyes on the table. Then the question in bed, *"Would you like to taste another woman?"*, and her body came "far too fast for anything his body was doing to account for it." That is one of the hottest moments in the book so far, and it is hot because the want gets ahead of her. I felt the jolt with her. The kiss with his mouth "still wet from her" and her taking "herself off his lips," then that same unwiped mouth on the library steps where "her breath caught against his lips," made a really good thread of heat.
+Then she does exactly what I watched her decide in his bathroom mirror. "Only in a threesome. With you." The face is back on. And Pace *sees* it, "A different owner," and admires it, and says "Okay." This is where my unease is earned rather than imagined. He reads her more finely than anyone in her life does, and he still files the dodge as something beautiful she did, not as her hiding from him in particular. After the bench he thought "she had met more of herself." I know from the bathroom that she went back behind the face *because* of being seen. So I'm reading his perceptiveness with a split screen: he's right about her body and maybe wrong about the door. I'm also watching the wanting change hands a second time. "With you" becomes "the best idea he'd had in a month," and then "her first woman, and him there to watch her find out." Is this her desire being given air, or his, wearing hers? The page doesn't settle it, so I won't.
 
-Pace is harder to sort out this chapter. He is still tender. "He did not take it for her answer" is the right sentence, and he waits for the heat to leave the room so she can choose. I believe he means all that. But the line I keep coming back to is "The same act. A different owner." He sees exactly what she does with "Only in a threesome. With you." He calls it beautiful and then accepts it anyway, "Okay," easy, "the best idea he'd had in a month." His own appetite is all over the walk: "two of her in his mind," "He wanted her himself," the sprinter undressing Randi from behind, the red mouth at her breast with "him there to watch her find out." He tells her "I point. You pick," and I'm sure he believes the choosing is hers. But he chose the game, the route, the retaining wall "for the angle," and the final "Her." This isn't suspicion I brought with me; the page put it there. His generosity and his want are tangled together, and he only sees the generosity. That unsettled me without turning him into a villain.
+The walk is wonderful. The maple "burning orange in a field of things that had not yet decided to change" lands too, though it sits a little on the nose. The game itself is playful and sexy. I loved her verdicts: "Too expected." "You'd get both or neither." Then the slow turn from good sport to shopping. "I point. You pick" pleased me as much as it pleased her. And the kiss on the library steps, his face unwiped and her own taste reaching her in public, broke her composure in a way I felt in my body. Then Vee. The description is lush and loving: all that loose copper, laughing "like a person who had genuinely forgotten... that she could be seen." She's everything Randi isn't allowed to be, and Randi stops dead and says "Yes" with "nothing around it." That bare yes was the swoon of the chapter for me. Before the girlfriend costume caught up, I wanted it for her, badly. Afterward the happy footwork on the brick, "the word squeaking out of her," was so unguarded it almost hurt.
 
-Randi I ache for, and here I can only see her from outside. After "Standards," the whole chapter in his point of view feels like a withholding: I can't tell whether the bare *"Yes"* at the red-haired girl was her coming out again or a crack in the face. The page gives me both readings. There's the arrested stride, eyes "staying and staying," then the "kitten finding her feet," the happy footwork "she didn't decide to do," and then the second *yes* in her bedroom register. I'm leaving it open. "I can't eat that," said without a glance at the cheeseburger, set against his closing "Let's go feed you," landed as a quiet echo of the apple. The hunger theme came back without being underlined, and I liked that.
+Then the collision, and the scene went cold on me. It's gorgeous craft, Randi's dancer's body aimed at a person. But it's an engineered accident, and it's the redhead whose "hand flew to her own mouth," who apologizes for something done to her. Vee doesn't know she's been chosen. "Go get her." / "For us?" / "For us." And then the closing line: "Do you think she'll like the bench?" It's thrilling and it chilled me. A stranger with a stats class has been picked out like the girls Randi graded on the path, and she's already being placed on furniture built for someone else. I'm not condemning anyone. It's a fantasy between two people so far, and Randi is lit up. But the stranger has no yes yet, and the page knows it.
 
-The meet-cute with Vee was the swoon. Watching Randi aim her trained body at a person and stage the collision "so clean it looked like nothing," with the redhead apologizing as if she had done it, was delicious. I grinned along with her. Then *"Do you think she'll like the bench?"* turned the grin cold and hot at once. Vee is a stranger laughing "like a person who had genuinely forgotten... that she could be seen," and the book has already shown me what being seen did to Randi. That one sentence made me dread for Vee and want the scene in the same breath.
+Pace still moves me. The apple and now the cheeseburger, "I can't eat that," then "Let's go feed you." He keeps trying to feed her. I like him and I watch him: a gentle, attentive man who narrates his own goodness a bit too much ("that mattered more to him than the answer did"). On friction: the catalog of women runs long, with a lot of athleisure taxonomy. The dance-follow metaphor gets used twice. And "A different owner" feels like the author underlining.
 
-**Friction:**
-- The walk is long, and the parade of rejected women gets close to catalogue. Each one is Randi grading people, and that fits a girl who sits on Standards, but the sameness shows.
-- Vee's introduction is lush to the point of leering: "Clothes chosen to cover, and failing at an impossible task."
-- Pace's narration explains Randi's maneuver after I'd already understood it.
-- The dance metaphor ("The follow had felt the music and broken frame before the lead called the step") gets used twice and is a little neat.
-- Small snag: "Tuesday-afternoon current." I'd assumed a weekend; fine.
+**Titles.** "The Pointing Game" is literal, and he names it as he plays. On reflection it recolors darker: pointing at strangers in daylight is exactly the "bald social wrongness" Randi first recoiled from, and the game turns people into choices. The cover reads *WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION*. "Long spoon" brings to mind supping with the devil, which suddenly echoes all this feeding: apple slices, a refused cheeseburger, "feed you." Who's feeding whom, and who needs the distance? "A Polite Invitation" now looks like Randi's staged, apologetic bump into Vee, an invitation dressed as an accident. There's no tagline or jacket in what I have.
 
-**Titles:** "The Pointing Game" said what it was and didn't spoil the payoff. On second thought it grows darker: pointing at people. The cover board reads WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION, and no tagline was supplied. "A polite invitation" now looks a lot like a shoulder bump on a brick walk. "With a long spoon" sounds like a proverb about keeping your distance from something dangerous. I don't know yet who the danger is: Pace, Randi, or the want itself. *Guess from here:* Vee gets invited, politely, and finds the table isn't only a table.
+**What I want next.** I want to meet Vee from the inside and find out whether she has any yes of her own. My guess from here is that Randi pursues Vee for "us" and finds it's hers, and that the face won't hold. I dread Vee being handled like a target. I'm fully hooked.
 
-**Cast present (in person):** Pace, Randi, Vee, Vee's friend (unnamed), passing strangers (the ponytail girl, the rec-center pair, the girl on the library steps and her friend, the blazer blonde, the cheeseburger man). Mentioned only: none by name.
+---
 
-**Heat:** 2 — the question-triggered orgasm nearly burns at peak, then the walk holds a long, sustained charge of looking.
+**Cast present (in person):** Pace, Randi, Vee (seen and spoken to, but only from Pace's distance), Vee's unnamed friend, unnamed passersby (the ponytail girl, the gym pair, the library-steps girl and her friend, the blowout girl, the man with the cheeseburger). Mentioned only: none by name.
 
-**Romance:** 2 — his slow, reasonless tender kiss and his careful patience; her clinging "*Yes*" in daylight.
+**Heat:** 3 — her body coming at the question, then her bare "Yes" to Vee: the wanting runs the whole chapter.
+
+**Romance:** 2 — tender, slow kisses and her squeaking, grinning "Yes" into his hair, undercut by the costume she puts on with him.
 
 **Motifs & images:**
-- *Repeat:* the bench/table, now with its top back on (from "The Bench").
-- *Repeat:* hunger and food: "I can't eat that," and "Let's go feed you" (the apple).
-- *Repeat:* the face/costume she puts on (the bathroom mirror smile).
-- *Repeat:* body before word.
-- *Repeat:* dance training.
-- *Repeat:* being seen (Vee's unseen laugh).
-- *Repeat:* grading people, with Standards and "the scale" (from "Standards" and "The Bench").
-- *First sighting:* the burning maple; red hair and copper.
+- Food and hunger (repeat): the apple from The Bench, now "I can't eat that" and "Let's go feed you."
+- The long table with its top back on (repeat).
+- The face/costume and the recovery (repeat from the mirror scene).
+- Being seen versus forgetting you can be seen (repeat, now inverted in Vee).
+- Dance/follow (repeat).
+- Her own taste on his mouth (first).
+- The burning maple (first).
+- Pointing (first).
 
-**Symbolism:**
-- The lone maple "burning orange in a field of things that had not yet decided to change" plainly invites a reading as Randi, or as Vee.
-- The scrunchie, "giving it nothing," is the measured self.
+**Symbolism:** The maple that turned all at once among trees "not yet decided to change" reads as Randi. The engineered collision reads as the whole relationship's grammar: something arranged that looks like chance.
 
 **Characterization:**
-- Randi deepens even seen from outside: competent, hungry, still running the deflection.
-- Pace deepens into real ambiguity: attentive, and also seeing his own wanting as service.
-- Vee is vivid on the surface but so far only seen through his gaze.
+- Randi deepens: three registers (bare, kitten, girlfriend), visible in seconds.
+- Pace deepens and grows ambiguous: so perceptive, yet maybe blind to what his tenderness costs her.
+- Vee is vivid but entirely surface so far, seen only through his eyes.
 
-**Pace — within the chapter:** The bed scene is tight. The middle of the walk sags with one woman too many. The dining hall climax and the collision are perfectly timed.
+**Pace — within the chapter:** The bed scene is taut. The walk is a touch long in the catalog of women, but it earns the payoff at the dining hall. The collision sequence is perfectly timed.
 
-**Pace — chapter to chapter:** Building. This chapter breaks out of two quiet, inward chapters and introduces a new person. The withheld view of Randi keeps "Standards" humming underneath.
+**Pace — chapter to chapter:** Building. After the frozen aftermath of Standards, this opens the story outward and introduces Vee. It's the first real forward motion since The Bench, without repeating that chapter's beat.

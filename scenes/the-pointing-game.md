@@ -36,7 +36,7 @@ Her body wanted this; her mind had not yet caught up to it. If pleasure was also
 
 Afterward they lay tangled and quiet. She was wrung out and heavy against him, contented, and he was glad of it; he had never needed to fill a silence. For a while they were there, only the two of them, and it was more than enough.
 
-The question could wait for the heat to leave the room, her breath to come down, and the afternoon to go ordinary around them. He wanted her gathered back into herself when he asked, free to weigh it and choose; that mattered more to him than the answer did. He hoped there was a way for her to say something true without having to sit up and put a name to it — let it come out laughing, dressed as play, before she had to look it full in the face. She deserved that gentleness. He wanted it for her.
+The question could wait for the heat to leave the room, her breath to come down, and the afternoon to go ordinary around them. He wanted her gathered back into herself when he asked, free to weigh it and choose; that mattered more to him than the answer did. He hoped there was a way for her to say something true without having to sit up and put a name to it — let it come out laughing, dressed as play, before she had to look it full in the face.
 
 She had her head on his chest and one leg over him, her hand lying where it had come to rest on his stomach. He asked it into her hair.
 
@@ -50,7 +50,7 @@ Then she came back. He admired it, a little, even as he saw through it: she gath
 
 And he understood what she had done, because it was beautiful. She had not taken back the wanting — her body had said it twice and she knew he'd heard. She had moved it. She had handed the appetite to him and made herself its generous instrument: not a woman who hungered for another woman, which was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy. The same act. A different owner.
 
-The shape she gave it felt right because she had found a way to say yes without making the wanting stand naked between them. A threesome, with him. He would not have to find her a woman for her transgression. She would find a woman for *theirs*. She was plainly excited about this. He was glad of it.
+A threesome, with him. He would not have to find her a woman for her transgression. She would find a woman for *theirs*. She was plainly excited about this. He was glad of it.
 
 "Okay," he said, easy.
 
@@ -130,13 +130,13 @@ The *maybe* delighted him. He followed the feeling of it toward the next woman: 
 
 "God, no," Randi said, fast, and there was real feeling in the *no*. "Noted," he said, enjoying her. "Strong no." He set her down regretfully. The girl's ease was performed, aimed outward, a thing she did *at* people. Closer, but no.
 
-Not the expected, not the matched pairs, not the ones who ran the room. He had thought he knew her taste before they left the house, and mostly he had. He liked when he guessed right about her. He liked, even better, the places she surprised him.
+Not the expected, not the matched pairs, not the ones who ran the room. He had thought he knew her taste before they left the house. He liked when he guessed right about her. He liked, even better, the places she surprised him.
 
 The path delivered them, eventually, to the broad doors of the dining cafeteria, where the four-o'clock current thickened — students coming and going through the propped doors, the warm institutional smell of the place breathing out into the cool air, trays and voices, the clatter carrying. They drifted to the low retaining wall a little off from the doors, an unremarkable stretch of brick at exactly the right remove, and he let them slow there as if it were nothing, as if they were only two people who had walked a while and might sit a minute. He chose it fast and without seeming to, for the angle it gave on the doors and on everyone coming through them.
 
 And then she came out.
 
-She came out of the dining hall and drew the eye as nothing else on the quad had all afternoon. Tall, and built on a lavish scale, lush in a way that had nothing curated about it and nothing apologized for — the kind of hourglass the year's clothes were not cut for and that did not care. And she moved like an athlete despite all of it, or under all of it — a low sure center, a balance in her that nothing tipped, the body plainly trained, command and abundance riding in the same frame. Whatever she was wearing, Randi's eye would find nothing in it to grade: a soft drapey thing in no particular color, a denim jacket, a canvas bag slung careless and crosswise, soft boots. Clothes chosen to cover, and failing at an impossible task. The surface offered the grammar nothing. The hair was the first thing and then not the thing at all — loose to the shoulder blades, a warm dark red that sparked to copper wherever the wind lifted it into the sun, and the wind off the ridge was lifting it the whole time, playing with it, nothing pinned and nothing trying to be. A snub nose, tipped up at the end, and cinnamon freckles thrown across it and the tops of her cheeks. She was walking with another girl and she had her head thrown all the way back, laughing — balanced even in that, throat bare to the sky, laughing at something with her whole body the way the polished girls and the matched pairs would never laugh at anything in public, would never let go of the wheel that completely — laughing like a person who had genuinely forgotten, for the length of the laugh, that she could be seen.
+She came out of the dining hall and drew the eye as nothing else on the quad had all afternoon. Tall, and built on a lavish scale, lush in a way that had nothing curated about it and nothing apologized for — the kind of hourglass the year's clothes were not cut for and that did not care. And she moved like an athlete despite all of it, or under all of it — a low sure center, a balance in her that nothing tipped, the body plainly trained. Whatever she was wearing, Randi's eye would find nothing in it to grade: a soft drapey thing in no particular color, a denim jacket, a canvas bag slung careless and crosswise, soft boots. Clothes chosen to cover, and failing at an impossible task. The surface offered the grammar nothing. The hair was the first thing and then not the thing at all — loose to the shoulder blades, a warm dark red that sparked to copper wherever the wind lifted it into the sun, and the wind off the ridge was lifting it the whole time, playing with it, nothing pinned and nothing trying to be. A snub nose, tipped up at the end, and cinnamon freckles thrown across it and the tops of her cheeks. She was walking with another girl and she had her head thrown all the way back, laughing — balanced even in that, throat bare to the sky, laughing at something with her whole body the way the polished girls and the matched pairs would never laugh at anything in public, would never let go of the wheel that completely — laughing like a person who had genuinely forgotten, for the length of the laugh, that she could be seen.
 
 It went through him low and tightened, and the picture came with it: that mouth at Randi's breast, all that loose red spilled down over her, and Randi's face doing something he had never seen it do — her first woman, and him there to watch her find out.
 
@@ -150,9 +150,21 @@ Then she heard herself, and he watched her reach for the costume — watched the
 
 The maple was burning, and the redheaded girl by the doors brought her chin back down out of the laugh and said something to her friend, and the two of them came on across the front of the dining hall and up the walk — ambling, the friend talking, the redhead listening with her head tipped — their line set to carry them right past where he and Randi stood, a hundred feet of brick and lawn still to close.
 
-"Go meet her," Pace said.
+He turned and kissed her, his hand into her hair, and then held her in against his chest with his mouth at her ear.
 
-She looked at him then. After the wanting had already shown — not before, not to be told what to want. The social animal was catching up, turning to him with the question, and the question was never whether she liked the girl. It was whether she was allowed: *is this one mine to take?* He smiled at her. He nodded once, and tipped his chin toward the two girls coming up the walk toward them. *Go.* He was happy, plainly and simply; the game was working, the gift was moving toward her hands, and the last thing she needed before she went was to see in his face that it was hers to take. He let her see it. And it took: the uncertainty going out of her at the sight of his face, a quick game smile coming up in its place, half nerve and half appetite.
+"Close your eyes."
+
+She closed them.
+
+"Can you imagine kissing her?"
+
+"Uh-huh."
+
+"Go get her."
+
+Her eyes came open. "For us?"
+
+"For us."
 
 She went.
 
