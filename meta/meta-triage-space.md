@@ -18,7 +18,8 @@ never had a line-level read.
 
 ## Fixed this pass
 
-Five sites, 50 words; 2,473 → 2,423. The operative test, carried from
+Five sites cut (50 words) and one beat added (64); 2,473 → 2,487. The operative test
+for the cuts, carried from
 {{The Pointing Game}}'s appetite pass (2026-10-09): the reading earns its place
 when it **exposes** Pace, and robs the reader when it only **restates**.
 
@@ -70,6 +71,68 @@ resolve whether he knows."* The thread doc additionally quotes the **original**
 sentence and calls it *"the model rendering of the non-curation guard."*
 Reverted the same session. **The guard is the authority on this line; do not
 reintroduce a per-woman frame here, in either polarity.**
+
+## Added this pass — `:91`/`:95`, Randi's telling put in her own register
+
+**The diagnosis (author, 2026-10-10).** `:91` reported the fitting as a *situation* —
+she couldn't see, she tipped, I caught her — which is the view from inside Vee. Randi is
+the one with her hands on the girl, and none of what a toucher knows was on the page.
+`meta-craft-randi.md:56` names the register the beat was missing: *"Render the lingering
+look as the **connoisseur's verdict**; the desire hides reader-side in the look **held a
+beat past the length of a verdict**."* So: an appraisal, then one beat too many.
+
+Added to the speech — the hands as hers (*"I started at her ankle and slid them up into
+place"*, which **shows** the unhurriedness rather than claiming it, since `:81` already
+has *"I took my time about it"*); the skin (*"she does not skip a night of lotion, that
+one"*); the muscle under the curve, which pays off `meta-craft-vivienne.md:186`
+(*"Moves like an athlete under the abundance… **Synchronized swimmer's control**"*) and
+which Randi can name because she knows Vee swims (`four.md:109`). The verdict then
+overstays by three words — *"Those legs, Pace."* — and the narration marks only the tone:
+*"Her voice had gone somewhere without her"* (`meta-craft-randi.md:44`, operator OFF / the
+plan escaping her).
+
+**The last beat, and the four versions it took.** `:95` now reads: *"I heard it," she
+said. A breath. "And I haven't stopped thinking about her."* The lust frame is built
+across the whole speech; the leak is **a pronoun**. Lust takes a body part as its object
+and love takes a person, so *"thinking about **her**"* gives her away with no tier word on
+the page — which is §6's rule that on this track **misnaming is the guard, not silence**.
+The *"And"* makes the thought a consequence of the sound without restating it; the sound
+is already named three times (twice in the protected anaphora at `:91`, once as the payoff
+at `:95`), and a fourth naming after the payoff deflates the chapter's most-quoted line.
+
+**Three rejected versions, recorded so they are not reintroduced:**
+
+- ***"For you. I was checking for you."*** Collides with {{Four}} twice —
+  `four.md:189` is *"I'm doing it for **you**,"* the excuse that chapter demolishes at
+  `:199`, and `four.md:75`/`:83` is a closed two-handed volley on *checking*. An
+  assistant first called the `checking` overlap a gift; it is not. It is a different sense
+  of the word, so it pre-sounds rather than compounds.
+- ***"I had to know what we're getting."*** Makes Vee inventory, which contradicts
+  Randi's actual state — she is in love with Vee by here, not acquiring her.
+- ***"So you'd know what you've got"* / anything pointed at Pace's possession.** That is
+  envy voiced aloud, which `meta-craft-randi.md:56` reserves to the self-subjugation
+  series whose **entry rung is `in-her-place.md` (ch77)** and high rung
+  `ignition-scalding.md`. Voicing it at ch30 pre-empts the entry rung by 47 chapters. The
+  pronoun decides the tier: *"what **you've** got"* is comparison (reserved);
+  *"what **we're** getting"* is acquisition (wrong for love). Neither is available.
+
+**Why the cover holds here.** Author ruling: ***she does not say she loves Vee at all
+until {{Fairytale}} (ch51), and that is her interior*** — so at ch30 she renders as
+§9.7 **knowing-but-concealing**, with lust as the cover. The ladder on `meta-arch-eros-ladder.md`
+listed her stages out of chapter order and made {{Gone}} (ch26) terminal, which read as
+"past concealment by ch30"; **corrected 2026-10-10**, see the ordering note in that doc.
+The wrap must therefore be intact at ch30, demolished at ch43 ({{Four}}, by his kindness),
+and abandoned at ch77 ({{In Her Place}}).
+
+**Two echoes caught before they shipped.** A drafted verdict — *"Nobody gets both. Nobody
+does."* — was a near-reuse of her own `gone.md:31` (*"Nobody does both. She does both"*),
+same speaker, four chapters earlier, and the same argument (Vee has two things that don't
+co-occur). Cut; the rarity verdict belongs to {{Gone}}. And *"I can still feel it"* was
+dropped because it and the new last line both state persistence.
+
+**A forward rhyme, free and unmarked.** `all-the-time.md:13` (ch42): *"Vee nodded — and
+warmed, a little, that Randi had been thinking about her."* Twelve chapters on, the same
+fact from the other side, filed by Vee as friendship.
 
 ## Left standing — do not re-litigate
 

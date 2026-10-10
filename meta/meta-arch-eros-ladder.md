@@ -168,9 +168,24 @@ self-deceives about desire ({{Coming Due}}) → the pre-Spring-Break braid ripen
 recognition (§8) → mints "yearning" before Spring Break → (eros, later).
 
 **Randi:** "only heat," need denied → evolves toward eros → lies to self **and** Pace,
-reframing as heat / *for Pace's benefit* ({{The Pointing Game}}) — **fools Pace not at all**,
-fools **herself only for a little while** → fully admits it to herself, "her gorgeous"
-({{Fairytale}}) → settled, knows it's eros ({{Gone}}).
+reframing as heat / *for Pace's benefit* ({{The Pointing Game}}, ch3) — **fools Pace not at
+all**, fools **herself only for a little while** → the attachment owned, and owned as
+*unwilled*, but still labelled **liking** ({{Gone}}, ch26: *"I keep waiting to get bored of
+her — I get bored of everybody — and it doesn't come. She got past me before I could help
+it"*) → **fully admits it to herself, "her gorgeous" ({{Fairytale}}, ch51) — interior only;
+she never says it to Pace** → settled, knows it's eros.
+
+**Ordering corrected 2026-10-10 (author ruling).** This list previously ran
+{{The Pointing Game}} → {{Fairytale}} → {{Gone}} and made {{Gone}} the terminal stage
+("settled, knows it's eros") — i.e. ch3 → ch51 → **ch26**, with the last two inverted
+against the chronology. A drafting session read the terminal stage as the state obtaining
+at {{Space}} (ch30) and concluded she was past concealment there; she is not. Author's
+ruling: ***she does not say she loves Vee at all until {{Fairytale}}, and that is her
+interior*** — so every Randi feeling-beat before ch51 renders as §9.7
+**knowing-but-concealing**, with the lust frame as the cover. {{Gone}}'s stage was
+re-described from the page rather than carried over, since "settled" cannot precede the
+admission. **Reader-sequence numbers are given inline here on purpose:** the stage names
+are chapter slugs, and without the numbers the arrow order reads as the story order.
 
 ---
 

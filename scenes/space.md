@@ -88,11 +88,13 @@ They found the pace of it. The house was warm and the two of them were warmer, a
 
 He stopped.
 
-"Shoes. I was putting her in my shoes, kneeling, and she had the long skirt on, so I was under it, all the way up, and she couldn't see a thing." She leaned down over him, her hair falling around his face, her mouth at his ear. "She tipped and I caught her. Here." She took his hand off her hip and put it on the outside of her own thigh, high, and pressed it there. "And when I took the first pair off I put my thumb in the back of her knee, right in the soft place, and she made a sound, Pace. She made a sound and hoped I didn't hear it."
+"Shoes. I was putting her in my shoes, kneeling, and she had the long skirt on, so I was under it, all the way up, and she couldn't see a thing." She leaned down over him, her hair falling around his face, her mouth at his ear. "And I didn't just put my hands on her. I started at her ankle and slid them up into place. That skin. Soft the whole way — she does not skip a night of lotion, that one. And there's muscle under all that curve. *Strong.* Those legs, Pace." Her voice had gone somewhere without her.
+
+"She tipped and I caught her. Here." She took his hand off her hip and put it on the outside of her own thigh, high, and pressed it there. "And when I took the first pair off I put my thumb in the back of her knee, right in the soft place, and she made a sound, Pace. She made a sound and hoped I didn't hear it."
 
 He drove up into her and she cried out and laughed at once.
 
-"I heard it," she said.
+"I heard it," she said. A breath. "And I haven't stopped thinking about her."
 
 After that there was no slow left in either of them. She sat up and rode him hard, her hands on his chest, her head going back, and he had his hands locked at her hips and was giving her every stroke, and past her, on either side of him, her feet were planted on the white sheet, and as she went over the toes clawed into the cotton and the blue lacquer on them was the only color on the bed. She came hard and loud with her back arched and her nails in his chest, and the grip and pulse of her took him with her, and he came with her name in his mouth, pulling her down onto him through it, and it went on a long time, and then it was done.
 
