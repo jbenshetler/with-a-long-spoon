@@ -1,0 +1,33 @@
+# Cold read (grounded) — The Pointing Game
+
+*scene: scenes/the-pointing-game.md · model: gpt-6-astra · memory: raw ch001..ch002 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+I felt a real lift when Randi came back across the lawn unable to hide her grin. After the bathroom in “The Bench” and that cold, motionless ending to “Standards,” her little burst of happy footwork felt almost startling. I wanted her to get to have that: an appetite that makes her delighted instead of immediately ashamed. The two different deliveries of “Yes” landed as excitement becoming intimacy, and Pace holding her while people passed gave me a moment of genuine warmth. Then she asked about the bench, and my stomach tightened. That question doesn’t erase the happiness. It makes the happiness much harder to settle into.
+
+Pace still attracts me through his attention and his pleasure in her pleasure. “I point. You pick” has an appealing lightness, especially when Randi starts teasing him back; I enjoyed them enjoying each other. His decision to ask again after the intensity of bed has passed also matters: “He knew her body’s answer. He did not take it for her answer.” But I trust his understanding of her less than he trusts it himself. I remember what happened behind the bathroom door, and he still doesn’t know. Here, “It was the best idea he’d had in a month” left me affectionately anxious at first, then increasingly uneasy. He is pleased with how well things are going, while I’m still carrying the last occasion on which he was pleased and she was privately retreating.
+
+The charge worked most strongly for me when Randi’s attention stopped being easy to disguise: the sustained consideration of the woman on the library steps, then the arrested stride and bare “Yes” at Vee. The bedroom opening had intensity, but I felt more held at a distance there by Pace’s certainty about what each response revealed. “If pleasure was also a bridge” particularly caught me: I can feel the tenderness in wanting desire to become less frightening for her, but also his wish to influence how she comes to understand it. Her stated condition, “Only in a threesome,” remains something she actually says, even if it also offers shelter. I don’t want to decide that her wanting him there is merely camouflage. We’re close to his interpretation throughout, and his confidence sometimes presses harder than the evidence can bear.
+
+Vee’s entrance gave me an immediate sense of attraction and relief: the unguarded laugh, the freckles, her attention turned toward her friend. I understand why Randi keeps looking. I know almost nothing about Vee yet, though, and that becomes important when Pace thinks, “the gift was moving toward her hands.” Vee hasn’t offered herself to either of them. Likewise, “is this one mine to take?” made the encounter feel less innocent to me before Randi even crossed the lawn. The engineered collision was impressive and uncomfortable at once. Randi gets to act on her interest, which I’m rooting for, but she begins by making Vee feel responsible for an accident. Pace’s admiration of that maneuver unsettled me more than the private looking did. Vee’s apologetic warmth is real on the page; her interest beyond a friendly conversation remains entirely open.
+
+My main friction was the repeated explanation of Randi’s defenses. “The same act. A different owner” is sharp, but by “He let the camouflage stand” and “the wrapper the wanting needed,” I wanted more room to experience her without every playful gesture being translated. I also stumbled over “mostly he had” in “He had thought he knew her taste before they left the house, and mostly he had.” His early guesses largely missed; the surprises are what made the walk interesting to me. And “moved like an athlete despite all of it” put an unnecessary reservation into a description that otherwise made Vee’s physical confidence wonderfully clear. Randi deepens through the contrast between her automatic “I can’t eat that” and her spontaneous delight, but I don’t yet know what her bench question means. Curiosity, a shared fantasy, some way of approaching what happened to her through someone else—those are possibilities from here, not conclusions.
+
+“The Pointing Game” sounded playful before I read, and it delivers that playfulness without giving away Vee or the last question. By the end, “pointing” also makes me notice who directs attention and who gets looked at. **WITH A LONG SPOON · BOOK ONE — A POLITE INVITATION** now feels especially apt to the mixture of pleasure and distance I’m experiencing: I want to accept the invitation, but the title keeps the possibility of caution beside it. No separate tagline was supplied. I want to hear Vee speak for herself next, and I want to know what Randi can acknowledge when she isn’t interpreting her desire for Pace’s benefit. I’m also left hungry on Randi’s behalf. “Let’s go feed you” is tender, recalling the apple, but it leaves her question hanging. I want to keep reading because I can’t tell yet whether that hanging question will feel easier or harder when someone answers it.
+
+**Cast present (in person):** Pace, Randi, Vee; Vee’s unnamed friend; unnamed campus students, including the man eating, the women considered during the walk, and their companions. Mentioned-only names: none.
+
+**Heat:** 2 — Sustained wanting, strongest when Randi’s attention fixes on Vee.
+
+**Romance:** 2 — Randi’s delighted return and their public embrace carry clear intimacy.
+
+**Motifs & images:** Repeat: the covered bench from “The Bench”; managed smiles and presentation from both recent chapters; hunger and food restriction, following the apple; Pace kissing Randi’s head. First: the burning maple, loose copper hair against controlled ponytails, pointing and choosing as a shared game.
+
+**Symbolism:** The covered bench carries an experience neither has discussed. Food again suggests how much appetite Randi permits herself. Vee’s loose hair and unguarded laughter register as freedom beside Randi’s careful presentation.
+
+**Characterization:** Randi deepens through humor, initiative, and uncontained delight. Pace’s tenderness coexists with increasingly consequential confidence in his readings of her. Vee is vivid but still largely someone observed; her desires remain unknown.
+
+**Pace — within the chapter:** The succession of women briefly becomes repetitive, especially with the explanations between choices. Vee’s arrival restores momentum; the final bench question earns its abruptness.
+
+**Pace — chapter to chapter:** Building. Movement, daylight, and mutual play open up the stillness of “Standards,” while the bench returns before the earlier emotional tension has resolved.

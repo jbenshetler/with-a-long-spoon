@@ -346,17 +346,41 @@ def make_codex_agent_fn(*, system_prompt, effort):
     """
     from openai_codex import Codex, Sandbox
 
-    # The SDK pins its own bundled codex binary (0.147.0 as of 2026-09-26), whose
-    # model allowlist lags the installed CLI: gpt-6-sol is rejected by the bundled
-    # runtime and accepted by codex-cli 0.157.1 on the same ChatGPT account. Set
-    # CODEX_BIN=/path/to/codex to route through a newer binary; unset keeps the
-    # SDK default.
+    # The SDK pins its own bundled codex binary, whose model allowlist lags the
+    # installed CLI: the bundled runtime rejects a model the installed CLI accepts
+    # on the same ChatGPT account, with a 400 that reads as the MODEL's fault
+    # ("requires a newer version of Codex"). That has now cost this project two
+    # models -- gpt-6-sol in 2026-09, and gpt-6-astra on 2026-10-09, which was
+    # retired as "a one-day trial" on evidence that may have been a runtime
+    # rejection rather than a reading. So the installed CLI is now preferred
+    # AUTOMATICALLY and the resolved binary is announced; relying on whoever
+    # remembers to export CODEX_BIN is what made the failure invisible.
+    # CODEX_BIN still wins when set, and CODEX_BIN=bundled forces the SDK default.
     import os as _os
+    import shutil as _shutil
+    import subprocess as _sp
+
     _bin = _os.environ.get("CODEX_BIN")
+    _source = "CODEX_BIN"
+    if not _bin:
+        _bin, _source = _shutil.which("codex"), "PATH"
+    if _bin == "bundled":
+        _bin, _source = None, "forced bundled"
+
     if _bin:
+        try:
+            _ver = _sp.run([_bin, "--version"], capture_output=True, text=True,
+                           timeout=15).stdout.strip() or "version unknown"
+        except (OSError, _sp.SubprocessError):
+            _ver = "version unknown"
+        print(f"[codex] {_bin} ({_ver}) via {_source}", file=sys.stderr)
         from openai_codex import CodexConfig
         codex = Codex(CodexConfig(codex_bin=_bin))
     else:
+        print("[codex] WARNING: using the SDK's bundled binary -- no codex on PATH"
+              " and CODEX_BIN unset. Its model allowlist lags the released CLI, so a"
+              " newer model may fail with a 400 that blames the model.",
+              file=sys.stderr)
         codex = Codex()
     workdir = tempfile.TemporaryDirectory(prefix="cold-reader-codex-")
     account = codex.account(refresh_token=True)
