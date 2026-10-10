@@ -1,16 +1,20 @@
-*capture-dag-v2-rich · gate ch003 · gpt-6-astra · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9d752d004279 · 2026-10-09*
+*capture-dag-v2-rich · gate ch003 · gpt-6-astra · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8126431c22ba · 2026-10-09*
 
 REACTION
 
-Oh, Randi. The little happy movement of her feet got me. After that awful morning in the house, after watching her shut herself away even while Pace held her, seeing delight escape her like that felt wonderful. I wanted her to have it. I wanted her to be able to want a woman without immediately turning it into a present for her boyfriend.
+Oh, Randi. The little happy movement of her feet got me. After that awful morning in the sorority house, after her lying under the duvet with her shoes on, I wanted her to have something she couldn’t stop smiling about. Her kissing him twice, with that second yes coming out differently, felt like watching her forget to guard herself. I wanted to stay there with them.
 
-And I did feel the attraction between them here. His waiting until they were out of the heat of sex to ask what she actually wanted mattered to me. “He knew her body's answer. He did not take it for her answer.” Yes. That distinction is part of what I came for. So is her being able to reject every woman he points out without having to soothe his disappointment. The walking, the handholding, the private joke in public—all of that made them feel like people enjoying each other, and I needed that after the last chapter.
+And then she asked about the bench, and my stomach dropped.
 
-But I am getting wary of how thoroughly he thinks he understands her. I was just in that bathroom with her. He wasn't. He thinks this is the best idea he's had in a month, and I'm sitting here thinking: you don't know what happened to her on Friday, sweetheart. You know some things beautifully, and you've missed something enormous. His confidence is sexy until I remember that.
+I don’t know whether she wants Vee to have what she had, wants someone else to be exposed the way she was, or wants to put somebody between herself and Pace’s attention. I can believe all three at once, which makes me nervous about her in a way a straightforwardly nasty person wouldn’t. I felt for her so much in that bathroom. That doesn’t make Vee hers to arrange.
 
-When Vee appeared, I felt that little drop in my stomach. There she is. The woman whose book I thought I'd opened, walking into somebody else's afternoon. Randi's bare “Yes” genuinely moved me; the deliberate collision immediately put a shadow over it. And Pace admiring how neatly she makes Vee feel responsible—I don't like that. Vee apologizing for an encounter they've arranged makes the secret on the jacket suddenly feel much less abstract. I want her desire to get equal room when we finally get inside her head.
+Pace asking again afterward mattered to me. “He knew her body’s answer. He did not take it for her answer.” Yes. That is something I need from this man, and waiting until she could actually consider the question made the earlier heat feel better to me. So did accepting “with you” without making her confess something she wasn’t ready to name. There’s real pleasure in being allowed a little cover while you find your courage.
 
-“Do you think she'll like the bench?” Oh. That left me cold for a second. Randi has barely been able to look at it herself, and now she's imagining Vee there. Is she hoping to share what felt extraordinary, or to stand beside him while someone else becomes that exposed? I don't trust her to know yet. His kiss and “Let's go feed you” are tender, and I still feel the tenderness, which makes this harder. My text to a friend would be: *I'm attached to these two already and they've just spotted the girl they're going to hurt. I need her side immediately.*
+But he is so certain he understands what’s underneath everything she says. I’m still carrying the fact that he thought the bench evening had gone beautifully while she was quietly deciding never to let him see her again. Now he thinks this is his best idea in a month. Pace, you have missed something enormous. His confidence can be hot, but I don’t trust it the way he does.
+
+The walk had me smiling with them until Vee became an actual person walking toward them. Then the collision bothered me, especially his delight in how neatly Randi made Vee feel responsible. I bought this knowing there was a scheme. I’m willing to feel the attraction and the dread together. But watching him admire that particular trick puts a small cold space between me and him.
+
+And I want Vee now. I want to hear what she thought of this lovely stranger bumping into her. She’s laughing with her whole body, and these two already have a private intention for it. My imaginary text to a friend is: “They’re being adorable and I’m afraid for the girl they’ve just picked.”
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
@@ -18,5 +22,5 @@ CAPTURE: 9
 NEXT: 9
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: “It was the redhead who pulled up short, stricken, apologizing”
-WHY: That manufactured accident made me recoil, especially because he admired it. But Randi's joy feels real, his care feels real, and I need to see whether Vee gets to become a full person to them before their game asks something of her.
+ALMOST-STOPPED: “it was the redhead who pulled up short, stricken, apologizing”
+WHY: His pleasure in that deception cooled me, but Randi’s unguarded happiness still reached me. I want Vee’s side of this encounter, and I need to see whether Pace’s care extends to her choices once she’s more than their shared fantasy.

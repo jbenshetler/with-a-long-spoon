@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch003 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9d752d004279 · 2026-10-09*
+*capture-dag-v2-rich · gate ch003 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8126431c22ba · 2026-10-09*
 
-**REACTION**
+## Reaction
 
-Okay. *Okay.* Three chapters in, I'm finally meeting the girl whose name is on the back cover, and I'm meeting her as something two people picked out on a walk. The jacket told me that would happen. Reading it is different from being told.
+Okay. The first half of this I'd have read twice. He asks her while he's inside her and she's still coming down from the first one. Her body answers before she does, she comes hard just from the question, and then comes the line I actually stopped on: *He knew her body's answer. He did not take it for her answer.* That's the line I spent years in this genre looking for. Every book I left would have taken that clench as a contract. He waits until the heat is out of the room and asks again, when she's back in herself and free to say no. That's the man I want. It's slow, it's controlled, and the control is there to protect her choice. And the kiss with her taste still on his mouth, then again later on the quad in daylight, the taste reaching her mid-kiss: that got me.
 
-The bed scene first, because it got me. "Would you like to taste another woman?" landing in her body before it lands in her head, and her coming from the question alone, faster than anything he was physically doing could account for. That's the kind of heat I read for: her desire getting ahead of her, and it's hers. Then he does the thing I've wanted a man in these books to do for ten years. He doesn't treat her body's answer as her answer. He waits until she's put herself back together, until the afternoon has gone ordinary, and asks again where she has room to say no. I underlined that in my head.
+But I've got Chapter 2 in my head and he doesn't. She locked the bathroom door. She decided "not ever." She lay under that cheap duvet with her shoes on and didn't cry. He watches her flinch and dodge here ("Only in a threesome. With you.") and he thinks it's *beautiful*. He's sure he sees right through it. He sees half of it. He's reading her body perfectly and missing the woman who's hiding from him. That makes me trust him more and worry about him more at the same time, which I suspect is the point. Is the threesome another way for her to move the want somewhere safe, so nobody has to look at her? He thinks he gave her "something different." I think she may have handed him a decoy and he took it.
 
-But I also caught "He had decided this beforehand." He planned to catch her while she was still pulsing and undefended. I can't decide if that's care or a very gentle trap. Probably both. The book knows it's both, and I'm not sure yet whether that makes me trust it more or less.
+The pointing game made me squirm, then made me lean in, then made me squirm again. Rating strangers on a quad in daylight is a little mean, and Randi's verdicts are sorority Standards-chair stuff ("Too expected," the dish she didn't order). His flash of the sprinter undressing Randi from behind was hot. "I point. You pick" was smart, and I liked watching her figure out the choosing was hers. The girl on the library steps with the beanie made her say "maybe," and I loved that her taste turned out to be warmth.
 
-The pointing game was more fun than I wanted it to be. Randi going from offended propriety to *shopping*. Her "God, no" at the blowout girl. Her bare "Yes," with nothing around it, before the kitten voice catches up. Pace saw through the "only in a threesome, with you" move, and the "a different owner" bit was sharp and a little sad. He reads her body perfectly in bed and still has no idea about the locked bathroom door. I keep coming back to that. He thinks he's giving her room. She's already moved out of the room.
+Then Vee comes out laughing with her head thrown back, the one person on the quad who forgets she can be seen, and Randi just says "Yes," bare. That's the most honest word she's said in three chapters. Her little happy footwork on the brick, the "*Yes*" in her bedroom voice in daylight. I believed every bit of it.
 
-What put me off: Pace sizing up strangers. The sprinter undressing her from behind, "two of her in his mind." I get it, it's a threesome book, he's allowed to want. But we're behind his eyes for all of it, and Randi's wanting is only ever shown from outside, through his reading of her. I want to be inside a woman's wanting, and this chapter gave me his view of hers.
+And then the fake collision, so cleanly done that Vee apologizes to *her*, and the last line: "Do you think she'll like the bench?" My stomach dropped. The jacket warned me I'd be ahead of her, and now I am. Vee picked her like dessert and hasn't the faintest idea any of it is happening. This is exactly where my old books went wrong. They engineered the girl and called it fate. So far this book has been scrupulous between Pace and Randi. Now I need to know whether that care reaches someone they're *hunting*. "Nothing was taken from her that she did not hand over" is either the most honest thing on that cover or the most dangerous, and I'm three chapters in with the actual heroine on the page for ninety seconds.
 
-Then Vee walks out of the dining hall laughing with her head thrown back, like she's forgotten anyone can see her. My stomach dropped a little, because I know what that kind of openness is to these two. Randi's staged collision was gorgeous and creepy at once: she made it look like Vee walked into *her*. And then "Do you think she'll like the bench?" Randi locked herself in a bathroom over that bench three days ago, and now she's offering it to a stranger. That chilled me.
+"Let's go feed you," after "I can't eat that." Oh, he's good. He's a little scary, but good.
 
-"Let's go feed you" was sweet, right after "I can't eat that." He's tender with her and he's setting something up, in the same breath. That's what the jacket promised, so I can't cry foul. I just want Vee's own head now, badly, before I spend any more time in theirs.
+1 a.m. text: *they just picked out the heroine on a walk like she was a bag. and I'm SO in. if he asks her the way he asks Randi I'm done for. if he doesn't I'm out.*
+
+## Gate
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
@@ -22,5 +24,5 @@ CAPTURE: 8
 NEXT: 9
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "Do you think she'll like the bench?" (not a real wobble, more of a cold drop. I wanted to know whether the book thinks that line is cute.)
-WHY: He asked twice and only took the answer she gave once she was clear-headed, so for now he's still the man I came for. But they just picked a girl like a dish off a menu, and the heroine finally has a name and a laugh. I need her point of view to find out whether this book is winking at me or warning me.
+ALMOST-STOPPED: "Go get her." / "For us." That's where it turned from his attention on her into the two of them targeting a stranger, and I felt the old genre's cold hand on my neck.
+WHY: The consent between Pace and Randi is the real thing, and "He did not take it for her answer" bought him a lot of trust from me. Vee finally walking in, and the bench question hanging over her, means I have to see her from the inside right now. The whole question is whether the care holds when she's the one being chosen.
