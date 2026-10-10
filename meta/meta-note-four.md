@@ -164,3 +164,70 @@ that detail is what makes the threesome's redirect-the-mouth choreography possib
 - **"Somebody has to get her used to my mouth." stands** — the most-flagged sentence the
   capture instrument has measured on this book (six lanes, six models, verbatim, every one
   continuing at a 9 or 10). Protect it.
+
+## Addendum — Pace's reaction to the stats telling (2026-10-10)
+
+The chapter had **no rendered Pace reaction** to Randi's eleven-o'clock report; her
+paragraph ended on *"still full of your come"* and the next line was the bare
+*"What did you do?"* That is a Console-rule breach (`meta-craft-pace.md:9-22`,
+*"Never render him flat, deadpan, or blank"*), and {{The Usual}} banks on a reaction this
+chapter never gave — *"Randi had told him so with her mouth at his ear while he was inside
+her, and it still worked on him now"* (`the-usual.md:143`, ten chapters later).
+
+**Added** before *"What did you do?"*: his body starting again, then his picture of the
+morning (in her an hour before she left; her pins out of the drawer from Friday; the green
+she stepped into while he watched) and of the room he has never seen.
+
+### Rulings
+
+- **Monday-morning sex is canon** (author). Randi's read is off that morning, not the
+  night before. Recorded in `meta-condensed-four.md`.
+- **The green thong here is a SEED, not a pre-spend — do not "fix" it.** Green is already
+  Vee's color well before this chapter: the scrunchies at `we-find-out.md:137` (*"deep
+  green with small white dots"*) and her drawer at `above-him.md:55` (*"her form of green
+  scrunchies, and her loose pins"*). {{On Her Floor}}'s charge is the **involuntary public
+  exposure** of the green (`on-her-floor.md:179`); here the garment is **covered and seen
+  by nobody**, imagined by a man forty minutes away — the opposite mechanism, so nothing is
+  spent. `meta-condensed-on-her-floor.md:103` (*"Keep green off the skirt and everywhere
+  else"*) governs that chapter's wardrobe, not the series. Bonus: {{The New Ordinary}}'s
+  *"over the front of the green"* (`new-ordinary.md:25`) gains the antecedent it currently
+  lacks.
+- **The green is the pair she put on Monday, not the one she arrived in.** The stay runs
+  Thursday-to-Monday (four nights), and `meta-todo-open-questions.md:332-339` rules on the
+  *"ick-factor difference between a thong that was never taken off and one taken off and
+  put back on."* Provenance stays unstated; no underwear is stocked in her drawer
+  (`meta-plan-pace-house.md:135-144` — hair and face only).
+- **{{In His Hands}} stays Thu Nov 12** (author, after review). The Thursday night is
+  independently prose-locked by `above-him.md:49-51` — *"The next Friday the scrunchies
+  weren't on the counter… the bottom went out of **her morning**"* — she wakes at his
+  bathroom counter, so Friday morning requires Thursday night. Moving it to Friday would
+  **add** a night (Thu+Fri+Sat+Sun), not tidy the week. And the F-S-S discipline does not
+  exist yet: `school-nights.md:23` (*"You don't come home school nights"*),
+  `strokes.md:23`, and the pattern *"doesn't bank until {{The New Ordinary}}"*. No
+  chronology change.
+- **Her knowing is kept explicit, not implied** (author). The passage is openly Pace's
+  construction (*"He had never seen the room"*), so *"knowing what it was every time she
+  shifted in her seat"* is an item in his imagining, not the narrator reaching past him;
+  the strict-POV bar (`meta-arch-bible.md:344-347`) guards against over-the-shoulder cuts,
+  not against a man modelling someone he knows. Ordinary theory of mind.
+- **Not possessive.** The register is embodied hunger plus gift-logic, per the retirement
+  of the acquisition voice (`meta-craft-pace.md:68-82`). He may **know** she feels it; he
+  may never be rendered as having **meant** her to — a purpose-clause there recolors him
+  into the operator. No ownership vocabulary anywhere in the beat.
+
+### Do not flag
+
+- **{{The Practice Room}} (ch33) is the designed twin, not a repetition.** Same room, same
+  hour, from inside Vee: *"The weekend was still in her. He was still in her, the whole
+  long ordinary miracle of it, and she had lain awake inside it and come to class wearing
+  it like a coat she'd forgotten to take off"* (`practice-room.md:3`). The reader has
+  already seen this from her side, which is what lets Pace be right here — and the gap
+  between his picture and *"the whole long ordinary miracle"* is the two-reading engine.
+- The **"he watched"** `filter-verbs` lint hit at the green sentence is the only hit the
+  insert created. The perceiving *is* the content — it is what makes the detail his
+  knowledge rather than his guess.
+- **"It went through him" was deliberately avoided.** That formula already carries
+  `portion.md:33`, `gone.md:85`, `space.md:79`, `swim-lanes.md:45`, `in-her-place.md:19`,
+  `ignition-scalding.md:161`, `the-pointing-game.md:139`, `the-bench.md:353`. Likewise
+  *"gone hard"* is spent 30 lines later in this chapter (`:51`) and *"he wanted the rest"*
+  at `:157`.

@@ -14,6 +14,12 @@ He waited.
 
 "Eleven o'clock, and she comes in still lit." Randi's painted mouth did the slow thing at one corner. "Hair barely put together — wet down her back in November, half of it pinned and the other half given up on, which is a girl who left somewhere late and did the rest in the car. She'd missed everything before mine. And she's got one of your coffees with her, in that steel cup, the good stuff — which is not a thing a girl buys for herself." A beat. "She never says it. Not one Monday all term. But that minx cannot keep her own face. She sat down next to me failing to hide her grin, being modest about it, still full of your come."
 
+It started again in him, low, with the whole evening to get where it was going.
+
+He had never seen the room. He had seen the morning — in her an hour before she left, and then her up on her toes at his bathroom mirror with her hair in her hands and her pins out of the drawer he had given her on Friday. The dark green she had stepped into while he watched. Then gone, out the door with it still wet.
+
+And then a bright room at eleven o'clock, the professor talking, and Vee in the middle of it scrubbed pink to the shoulders and leaking quietly into the green, writing it all down, and knowing what it was every time she shifted in her seat.
+
 "What did you do?"
 
 "I tucked her hair back behind her ear, because it was an excuse and I took it. And then I leaned over and told her she'd come to class still full of you." Something pleased went through her and she let it. "She put her hands down in her lap like she was hiding something, and she went the most beautiful color. And it does look good wet — it goes three shades darker and you can see the gold come up in it." She turned further into the arm of the couch. "I got my hand in it once in October, before I knew better, and I have not been the same about it since."

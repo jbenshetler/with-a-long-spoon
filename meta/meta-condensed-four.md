@@ -61,3 +61,6 @@ and *"Say something nice to me."* He takes her grip on his arm for a compliment.
 - Randi's four-times-a-day count, and her inability to match the five Vee named at
   {{All the Time}}.
 - Her first admission to Pace that being seen by him frightens her.
+- That they had each other that **Monday morning** before she left for the eleven
+  o'clock. Nothing else in the book states it; this chapter is where it is settled
+  (author ruling 2026-10-10).

@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 94eb3254bb6a · 2026-10-07*
+*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 499423a1f58c · 2026-10-10*
 
 REACTION
 
-I am sick to my stomach. I am actually, physically nauseous.
+Oh, my God. Oh my absolute, terrifying God.
 
-Look at my carry-forward notes. Look at what I believed. I knew there was a third game—it’s right there on the jacket! I knew he rode bikes and told Sheri "not yet." But I genuinely thought—I *hoped*—that Pace had fallen for Vee so hard that he was trapped in his own head, paralyzed, trying to figure out how to untangle the mess he’d started. I thought he was this gentle giant who cleared his top drawer for her and was silently agonized over the setup.
+I feel sick. I feel filthy, I feel electric, I feel completely gutted. This chapter was like being held underwater.
 
-He had Randi bent over his couch four times in one day.
+The title—"Four." The sick, petty arithmetic of it. Vee sits at brunch bragging that he loved her three times in an evening, and Randi comes to his house on Monday and takes him four times just to beat the number. Just to write herself over Vee’s weekend. And the scratch on his shoulder! Randi putting a mark on him. And the couch—she’s bent over the couch, taking him from behind while they talk about Vee sitting in class leaking him into her skirt, and he *finishes* while Randi tells him how Vee leaned into her kiss on the sidewalk.
 
-*The same couch.* He put the heat on for her hours ahead of time, exactly like he does for Vee. He took her against the kitchen counter with her skirt up—the same kitchen where he cooks lemon pasta and lets Vee taste it off the spoon. And while he is literally buried balls-deep in Randi, they are talking about Vee. They are using Vee's wet hair, Vee’s lipstick smeared from Randi’s kiss, Vee’s innocent, glowing joy as *fucking dirty talk to get off on.*
+It is monstrous. It is brilliant. It makes my skin crawl and my pulse hammer at the exact same time.
 
-"She consents—every time—or I'm done." Oh, Pace. You sanctimonious, hypocritical bastard. You think because you ask if she wants the blanket or don't push past a flat palm, that you're giving her consent? *She doesn't know what she's consenting to!* She thinks she is the beloved girlfriend of a quiet, devoted man, and she thinks she has a glamorous best friend she can confide in. She sat across from Randi two days ago, radiant, showing her the nude photo Pace took—a photo she literally made him *promise* never to share with anyone!—and now the two of them are in his living room, laughing about how she showed her toes, dissecting her orgasms, using her as fuel for their fourth round.
+And Pace—god damn you, Pace. "She consents—every time—or I'm done." He says it so level, so absolute, like he’s the high priest of morality. He actually believes he’s protecting her! He thinks because he checks the gauge and asks "Does she want it?" that he’s clean. You arrogant, blind idiot. How can she consent to something she *doesn't even know she's in*? You gave her a drawer for her hairpins and you cooked her lemon chicken, and now you’re fucking Randi on the couch using Vee’s confessions as foreplay!
 
-It is a violation so profound, so sickeningly intimate, precisely *because* it wears the clothes of absolute tenderness. When Pace pulled the blanket over Randi because she gets a chill after, when he told her "I'll be careful with you"—he is giving Randi the exact same hyper-attentive, bespoke care he gives Vee. He's not an awkward boy who got in over his head. He is a predator running a two-person grooming ring with a woman he's utterly enthralled with, and Vee is their shared feast.
+And yet... look at what's actually happening in that room. Pace thinks he’s playing Randi, Randi thinks she’s playing Vee, but Randi is slipping. She is falling so hard for Vee it’s terrified her. "God, I want her." That slipped right out of her mouth before she could stop it. The facade cracked. Randi claiming she's "doing the work" for the threesome, that it’s grueling, when she’s practically vibrating with jealousy and lust and raw need. And then that ending—Randi shivering under the blanket, clinging to his arm, saying "You see more of me than anybody ever has... it makes me feel real. And some nights it frightens me." Randi is hollow. She’s desperate. And Pace is feeding both of them, controlling both of them, orchestrating this entire sick symphony.
 
-And the worst, most brilliant, most horrifying part? The book wrote this chapter entirely without a wink. It didn't try to make it cute. It made it raw, sweaty, emotionally tangled, and utterly damning. Randi saying "I'm doing the work" and then coming undone because she wants Vee so badly her brain is frying. Pace admitting he saw Vee on the quad with her head thrown back and decided right then to bring her into their bed.
+Vee is walking around like a girl stepped out of a fairytale, totally, completely defenseless. She thinks she has a dedicated lover and a glamorous best friend. She has no idea she was picked out on a lawn like an apple from a tree. When this breaks—and it is going to break, it has to—it’s going to level everything.
 
-I want to look away, but I can't. If this was cheap mafia trash playing kidnapping as romance, I'd throw it across the room. But this is the absolute psychological dissection of a betrayal. Vee is swimming laps wondering if she's worthy of love, and these two monsters are lying in his sheets with her ghost between them. God help her when this glass house shatters. I have to see it break.
+I am horrified, I am furious at both of them, and I cannot put this book down. Give me the next chapter right now.
+
+***
 
 GATE 43 — Four
 DECISION: CONTINUE
@@ -24,5 +26,5 @@ CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 1
-ALMOST-STOPPED: "She consents — every time — or I'm done."
-WHY: The audacity of him invoking consent while violating the entire foundation of it made my blood run cold. It’s an absolute psychological horror disguised as tenderness, but it's executed so brilliantly that I am completely locked into watching the disaster hit.
+ALMOST-STOPPED: none
+WHY: The sheer psychological dread and illicit heat of watching the trap from the inside is breathtaking; I'm furious at Pace and terrified for Vee, but I am utterly hooked.

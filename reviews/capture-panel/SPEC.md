@@ -533,6 +533,8 @@ policy; they do not enumerate models.
 
 The default panel is now the three target readers: `romance-graduate`,
 `fsog-refugee`, `consent-sensitive`. `queer-woman` remains opt-in.
+*(Superseded twice: `consent-sensitive` moved to on request 2026-09-27, and the
+default dropped to two readers 2026-10-10 — see the ruling at the end of this file.)*
 
 ## Vendor comparison for the DAG lane (2026-09-10)
 
@@ -1074,3 +1076,19 @@ could not have been extended without re-minting regardless. `relationship-first`
 summaries were **kept**, matching the `dark-romance-control` precedent: the readable record of
 a retired persona outlives its gates and participates in no numbering. The panel is now
 8 models x 2 personas, 946 gates.
+
+## Default panel drops to two readers (author ruling 2026-10-10)
+
+The default capture panel is **`romance-graduate` and `fsog-refugee`** — the two
+primary-vector readers. The target matrix is **roster × 2**, superseding the
+roster × 3 of 2026-09-14 and its 2026-09-27 revision.
+
+`relationship-first` gives up the third seat and joins `consent-sensitive`,
+`line-editor` and `romantasy-refugee` as **selectable, on request**. Its gates stay
+on disk as history; do not extend them without a specific request, and a lane
+missing from its column is the intended state, not a gap — the same rule that
+already governs `queer-woman`.
+
+Enforced in `capture_dag.py`: `PERSONAS` is the two, and `relationship-first` moved
+into the selectable half of `ALL_PERSONAS`, so naming it still runs and a bare run
+never opens it.
