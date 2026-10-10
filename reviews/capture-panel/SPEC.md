@@ -1092,3 +1092,31 @@ already governs `queer-woman`.
 Enforced in `capture_dag.py`: `PERSONAS` is the two, and `relationship-first` moved
 into the selectable half of `ALL_PERSONAS`, so naming it still runs and a bare run
 never opens it.
+
+## `claude-opus-5-5` ch004–ch040 gates are not part of its chain (2026-10-10)
+
+The lane's carry-forward at the ch040 boundary is a **bootstrap**: `ck-ch040` is a
+verbatim copy of `claude-fable-5-1`'s, taken 2026-10-05 by author ruling, and the
+file says so in its own header. Reading ch041+ with fable's memory **is** the point
+of the lane.
+
+On 2026-10-10 a `--to 43 --fresh` run on this lane also generated **gates ch004
+through ch040 and `ck-ch010/020/030`, for both personas** — 74 gates and 6
+checkpoints. They are genuine `claude-opus-5-5` readings and they are committed as
+such, but they are **not** the lane's memory chain and must not be read as one:
+
+- `ck-ch040` was not re-minted (`--fresh` is scoped to the target chapter), so it
+  remains fable's copy. The new `ck-ch010/020/030` therefore feed nothing.
+- The ch043 gate — before and after that run — was read through the bootstrapped
+  `ck-ch040` plus raw ch041..ch042, not through these gates.
+- So this lane is **not an independent memory lane**. Weight its continuity
+  assertions as correlated with `claude-fable-5-1` from ch040 on; its reaction to
+  the chapter in front of it is still its own.
+
+**Why they exist, and the survey rule that follows.** The pre-run survey checked
+each lane's *last* gate and whether the target gate existed. Both passed —
+`last=gate-ch054`, `has43=yes` — while ch004..ch040 were missing, so a lane
+reported as a one-call re-read spent ~37 reads and 3 mints. **Counting endpoints is
+not a survey.** Count the *missing gates across the whole 1..N range* plus a mint at
+every decade boundary <= N, and report that number before spending — the existing
+rule in Step 2, which this run did not follow. A lane can have a hole in the middle.
