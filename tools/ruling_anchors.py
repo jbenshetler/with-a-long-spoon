@@ -63,7 +63,22 @@ DATE_RE = re.compile(r"(\d{4}-\d{2}-\d{2})")
 
 # Quoted prose. The corpus quotes with straight or curly double quotes, often
 # wrapped in bold/italic markers which are stripped by _norm.
-QUOTE_RE = re.compile(r'["“]([^"”\n]{12,400})["”]')
+#
+# A quote MAY span a line break. The ruling docs are hard-wrapped prose, so a
+# quote longer than the wrap column is split across lines -- and excluding "\n"
+# outright silently dropped them. `meta-triage-space.md` was written on
+# 2026-10-10 with 14 quotes and only 6 matched; the eight misses were simply the
+# ones long enough to wrap. _norm collapses whitespace, so a wrapped quote
+# compares fine once captured; the only thing the old pattern bought was a guard
+# against an unmatched opening quote running away down the file.
+#
+# That guard is kept, moved to the real boundary: a BLANK line. A quote never
+# crosses a paragraph break, so `\n(?!\s*\n)` admits a single wrap and still
+# stops a stray `"` from swallowing the rest of the document. A runaway now
+# lands in the `unverified` bucket (absent from both versions, hidden by
+# default) rather than inventing a moved anchor, because a blob spanning two
+# real quotes is not verbatim in any revision of the prose.
+QUOTE_RE = re.compile(r'["“]((?:[^"”\n]|\n(?!\s*\n)){12,400})["”]')
 
 # Shorter than this and a "quote" is usually a single word or a stock phrase that
 # appears everywhere; it produces noise in both directions.
@@ -77,8 +92,29 @@ MIN_WORDS = 6
 #     - :119 "He'd guessed wrong." cut -- reversed from the finding: ...
 # so only a short tail is searched. A wider window would swallow "a trim was
 # proposed and declined", which is a LIVE ruling and must still be checked.
-CUT_RE = re.compile(r"\b(cut|deleted|removed|dropped|replaced|recast|reversed)\b", re.I)
+# `(?<!-)` so a hyphenated compound is not a cut verb -- "the booth's low-cut
+# camisole" suppressed a live ruling in audits/line-edit/how-its-done.md.
+CUT_RE = re.compile(r"(?<![-\w])(cut|deleted|removed|dropped|replaced|recast|reversed)\b", re.I)
 CUT_TAIL = 80
+
+# Two more shapes the corpus writes, both found on 2026-10-10 when
+# meta-triage-space.md's own "Fixed this pass" quotes came back as moved anchors:
+#
+#   1. The verb LEADS the quote -- `Cut "He was glad she had gone to Randi."` --
+#      so a tail-only search never sees it. A short lookbehind catches it. The
+#      window is deliberately tighter than CUT_TAIL: the further back you look,
+#      the likelier you are to catch the verb of a neighbouring bullet.
+#   2. The REPLACEMENT ARROW -- `"old wording" -> "new wording"` -- which is the
+#      house notation for a recast (meta-triage-gone.md writes every fix this
+#      way). The arrow is only a cut marker when it FOLLOWS the quote, which is
+#      what marks that quote as the superseded left-hand side. Treating it as a
+#      marker when it PRECEDES would wrongly skip the right-hand side -- the new
+#      text -- and the new text is exactly what a later edit should still be
+#      able to flag as moved.
+CUT_LEAD = 45
+# Emphasis markers sit between the closing quote and the arrow -- the corpus
+# writes *"old"* -> *"new"* -- so they are skipped before the arrow is matched.
+ARROW_RE = re.compile(r"[*_`\s]*(?:\u2192|->)")
 
 # Chapters the chronology knows about, so a ruling doc with no prose file can be
 # told apart from a lane artifact that was never a chapter (echo-inventory).
@@ -140,6 +176,41 @@ def scene_text_asof(slug: str, date: str) -> str | None:
     return _norm(blob)
 
 
+def _records_cut(doc: str, start: int, end: int) -> bool:
+    """Does the ruling around this quote record cutting or replacing it?"""
+    tail = doc[end:end + CUT_TAIL]
+    if CUT_RE.search(tail) or ARROW_RE.match(tail):
+        return True
+    lead = doc[max(0, start - CUT_LEAD):start]
+    # Never read back across a PRECEDING quote's closing mark. CUT_RE words occur
+    # in the prose itself -- "her gaze dropped", "the tell of it dropped" -- and a
+    # raw lookbehind harvests them from the quote next door, silently suppressing
+    # a live ruling. Observed in audits/line-audit/a-round.md and
+    # audits/line-edit/gone.md the same hour the lookbehind was added.
+    # Stop at a NEWLINE as well. Without it the window reaches back into the
+    # previous bullet, and these documents end items with a recommendation --
+    # "...or cut the literal placement.\n\n7. **:35 -- \"...\"" -- so the next
+    # item's quote inherits the last item's verb. That suppressed live rulings in
+    # above-him, rock, recognized-method, the-pointing-game and all-the-time.
+    # A verb that governs a quote sits on the same line as it.
+    i = max(lead.rfind('"'), lead.rfind('\u201d'), lead.rfind('\n'))
+    if i != -1:
+        lead = lead[i + 1:]
+    # The verb must sit in RULING POSITION, not mid-sentence. These words occur in
+    # the prose too -- "a bowl of cut strawberries", "the pale edge had cut it",
+    # "with its dropped object", "Sol reversed:" (a reader changing their mind) --
+    # and each of those hid a live ruling. A verb that governs a quote is preceded
+    # by a ruling marker (":", an em dash, a table pipe, a bullet, a sentence
+    # stop) or nothing at all; a verb inside running prose is preceded by another
+    # word. So: strip emphasis and space behind the match, then require what
+    # remains to be empty or to end in a non-letter.
+    for m in CUT_RE.finditer(lead):
+        before = lead[:m.start()].rstrip(" \t*_`")
+        if not before or not before[-1].isalpha():
+            return True
+    return False
+
+
 def quotes(doc: str) -> list[tuple[str, bool]]:
     """Each quote, paired with whether its ruling records cutting it."""
     out, seen = [], set()
@@ -148,7 +219,7 @@ def quotes(doc: str) -> list[tuple[str, bool]]:
         if len(q.split()) < MIN_WORDS or q in seen:
             continue
         seen.add(q)
-        out.append((q, bool(CUT_RE.search(doc[m.end():m.end() + CUT_TAIL]))))
+        out.append((q, _records_cut(doc, m.start(), m.end())))
     return out
 
 

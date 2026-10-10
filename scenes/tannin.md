@@ -10,11 +10,11 @@ When she let him breathe she did not let him go. Her eyes were very close and ve
 
 "Tell me," she said.
 
-The wine was where he had put it an hour ago, one glass on the low table, red, poured and left to open while he waited for her — he had known she would come; he had known since about the second block of the walk home — and he sat, and she came down onto the couch after him and did not take the cushion beside him. She put a knee to either side of his thighs and settled, upright, facing him, the same adjustment she made on the kitchen chair, finding where she wanted to be and putting her weight there. He kept his hands at her hips. The house was warm, as he kept it, and Steely Dan was going low in the front rooms, as it always was.
+The wine was where he had put it an hour ago, one glass on the low table, red, poured and left to open while he waited for her — he had known she would come; he had known since about the second block of the walk home — and he sat, and she came down onto the couch after him and did not take the cushion beside him. She put a knee to either side of his thighs and settled, upright, facing him, the same adjustment she made on the kitchen chair, finding where she wanted to be and putting her weight there. He kept his hands at her hips. The house was warm, as he kept it, and Steely Dan was going low in the front rooms.
 
 She reached past his shoulder for the glass.
 
-She drank, and looked at him over the rim while she did, and then she came down and kissed him with it still in her mouth — dry, dark, the tannin catching at the inside of his lips, the taste of it drawn across his tongue by hers, her mouth already darker for it. He had not poured himself one. He did not want one. Everything he was going to have of it he was going to have like this.
+She drank, and looked at him over the rim while she did, and then she came down and kissed him with it still in her mouth — dry, dark, the tannin catching at the inside of his lips, the taste of it drawn across his tongue by hers, her mouth already darker for it. He had not poured himself one. Everything he was going to have of it he was going to have like this.
 
 "Tell me," she said again, against his mouth.
 
@@ -32,7 +32,7 @@ Her weight on his thighs, the soft heavy give of her in his hands, the heat of t
 
 "She built a cup," he said, "like nobody had ever told her when to stop."
 
-He felt it before her face did anything — under his hands first, her breasts pressing harder into his palms as she leaned, then the insides of her thighs going tight against his and staying tight, a gathering low in her where she sat on him, the readiness he knew from the floor and from his own bed. Then the face, a half-beat behind, the thing at her mouth from the quad when her stride had dropped out from under her, there and covered. He knew what it was. He had felt it on the lawn, the size of it, and it was larger now. It had grown, and he had done nothing to grow it but leave it alone, and he was glad of it, plainly, that she had come here tonight wanting to hear about a girl.
+He felt it before her face did anything — under his hands first, her breasts pressing harder into his palms as she leaned, then the insides of her thighs going tight against his and staying tight, a gathering low in her where she sat on him, the readiness he knew from the floor and from his own bed. Then the face, a half-beat behind, the thing at her mouth from the quad when her stride had dropped out from under her, there and covered. He had felt it on the lawn, the size of it, and it was larger now, and he had done nothing to grow it but leave it alone, and he was glad of it, that she had come here tonight wanting to hear about a girl.
 
 "Did she eat all of it?" she said.
 
@@ -46,7 +46,7 @@ She drank again, a longer swallow, and kissed him again, and this time she staye
 
 Randi went quiet under his hands.
 
-Not the ease of a minute ago, and not the readiness either — something she was holding level. Her thighs did not tighten now; they set. The flat of her hands stopped in his hair. Her face gave him almost nothing — a thing at the corner of her mouth, a fraction late, like a smile put on a beat after it was called for. He read it: the wanting, held. Held harder than it had been on the lawn, because there was more of it to hold. It moved him — Randi, sitting on him in his front room with a want too big for her face, and keeping the face over it anyway.
+Not the ease of a minute ago, and not the readiness either — something she was holding level. Her thighs did not tighten now; they set. The flat of her hands stopped in his hair. Her face gave him almost nothing — a thing at the corner of her mouth, a fraction late, like a smile put on a beat after it was called for. He read it: the wanting, held. It moved him — a want too big for her face, and keeping the face over it anyway.
 
 He put his hands flat on her back and drew her down against him.
 

@@ -22,13 +22,13 @@ He came to her, and did the thing he did at the door, and she did hers, and his 
 
 "I was working."
 
-"On a Friday night." She swept the other shoulder. She was pleased with him about it, and pleased to be here, and it was all over her; she had never once come through that door pleased and let it show like this. It was there, and he did not ask it anything. "Have you got anything to drink in this house?"
+"On a Friday night." She swept the other shoulder. She had never once come through that door pleased and let it show like this. He did not ask it anything. "Have you got anything to drink in this house?"
 
 "Wine."
 
 "White."
 
-He went to the kitchen and found the one he had been keeping, a Sauvignon Blanc from Oregon, dry, nothing that would embarrass anyone, and put the corkscrew to it. Down in the front rooms his own music was still going where he had left it, a trumpet working slow over brushes. It went on going. He did not think to change it and it did not occur to him that he might.
+He went to the kitchen and found the one he had been keeping, a Sauvignon Blanc from Oregon, dry, nothing that would embarrass anyone, and put the corkscrew to it. Down in the front rooms his own music was still going where he had left it, a trumpet working slow over brushes. It went on going, and it did not occur to him to change it.
 
 She had taken the couch in the den and pulled her feet up under her, the skirt tucked, the cream sweater pushed to her elbows, the bracelet on her wrist catching the lamp. He gave her the glass and sat, and she drank and looked at him over it, and set it down on the low table, and put her hand flat on his chest where the shavings had been.
 
@@ -46,7 +46,7 @@ He felt that land. Vee, in a strange room, crying over what she had said to him.
 
 A beat, and Randi's face went soft with it. "And then she pulled herself together in my desk chair and told it straight, all of it, the parts that made her look bad first. She didn't spare herself one thing. Pace, she knew what she'd said before she was done saying it. She knew it walking across campus to a house she'd never been inside, at nine in the morning, to fix it." Randi shook her head. "I wanted to keep her."
 
-He was relieved there had been somewhere for her to go, and that it was here, in a sense, that she had gone; it warmed him that the two of them had that between them without him. He was glad she had gone to Randi. He did not say what Vee had said to him at the bar, or how his face had felt when it went; those were his, and that was Vee's. He said the shape of it.
+He was relieved there had been somewhere for her to go, and that it was here, in a sense, that she had gone; it warmed him that the two of them had that between them without him. He did not say what Vee had said to him at the bar, or how his face had felt when it went; those were his, and that was Vee's. He said the shape of it.
 
 "We'd had a lovely night to that point. She danced. She was good — she was good by the second song, and she knew she was, and she was lit with it." He turned his hands over. "When I went for drinks, everything was great. By the time I came back, everything was wrong."
 
@@ -64,7 +64,7 @@ The day was in it, as if the day were his to give, and he set that down beside t
 
 She undressed him first. She had a way of doing it that was not undressing him so much as uncovering the next thing she wanted, the sweater she had swept the shavings from going up over his head and dropped, her mouth on his chest before the shirt hit the floor, her fingers at his belt while she was still kissing him, and he stood in the lamplight and let her, because she liked to and he liked to watch her like it. Then she stepped back and did herself. Fast, the sweater and the camisole under it over her head in one motion, the skirt let go, the rest, and she gathered it all up off the floor and carried it the three steps to the table against the wall and set it down on top, folded once, the bracelet ticking against the wood. Her hand stayed flat on the surface, and she looked at it, and it was not the look you give a table. Then she turned around bare, small and pale and freckled across the chest, her nipples gone dark and tight in the cool of the room, and looked at him looking.
 
-She knew what was under that top. Three weeks in, when she had already shown him how far her appetite ran, he had lifted the top off and shown her what he had built and offered to take her further, and she had asked for it, lit up, before he had finished offering. He saw her on it as she had been that night, facedown with her ass up and every inch of her flushed the color of the wine, wet enough to shine, saying *please* in a voice he had not heard from her before or since. All that she had felt that night, and let him watch her feel. That she had got so far, and that he had been the one to take her, was a thing he kept. It came up in him now, and he was harder for it.
+She knew what was under that top. Three weeks in, when she had already shown him how far her appetite ran, he had lifted the top off and shown her what he had built and offered to take her further, and she had asked for it, lit up, before he had finished offering. He saw her on it as she had been that night, facedown with her ass up and every inch of her flushed the color of the wine, wet enough to shine, saying *please* in a voice he had not heard from her before or since. All that she had felt that night, and let him watch her feel. That she had got so far, and that he had been the one to take her there, came up in him now, and he was harder for it.
 
 She pushed him down onto the bed and came after him, but not onto him. She lay back beside him and drew one knee up and put a hand on the back of his neck, and he understood, and went.
 
@@ -80,7 +80,7 @@ It went through him. She felt it go through him, and her mouth curved.
 
 "Her top off, and this pretty little bra, black lace, doing her tits every favor, Pace. The tit goddess was generous with that girl." Her voice had gone to the place it went. "Standing on my rug with her hands at her sides letting me look. I walked all the way around her. I took my time about it." She rose on him once, slow, and came down, and clenched. "She let me."
 
-He moved under her. He could not have stayed still. He drove up into her and she rode it with her hands braced on his chest and her eyes on his face, and it was not the picture she had given him that did it, or not only; it was Randi, above him, telling it, and enjoying the telling so plainly that it was coming up in her body while she spoke, her breasts flushed and swaying, her nipples gone dark, the grip of her tightening on every word. She was giving him a thing and taking a thing at the same time and he could feel both of them in her, and it fired him, and he let it.
+He moved under her. He could not have stayed still. He drove up into her and she rode it with her hands braced on his chest and her eyes on his face, and it was not the picture she had given him that did it, or not only; it was Randi, above him, telling it, and enjoying the telling so plainly that it was coming up in her body while she spoke, her breasts flushed and swaying, her nipples gone dark, the grip of her tightening on every word. She was giving him a thing and taking a thing at the same time, and the taking was the part that fired him.
 
 They found the pace of it. The house was warm and the two of them were warmer, and the lamp made her small pale body gold above him, and he had her breasts in his hands and then her hips, moving her, and let her take them back. She slowed herself when she was close, and breathed, and smiled down at him, and started again.
 

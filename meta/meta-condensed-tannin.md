@@ -29,8 +29,8 @@ his palms and her thighs go tight against his and stay — the readiness he know
 floor and his own bed — and he reads it correctly as the want from the lawn, grown larger
 with no help from him. Then, on his own gladness (*"She's easy to listen to"*), she goes
 **still**: the thighs set rather than tighten, her hands stop in his hair, and the thing
-at the corner of her mouth arrives a fraction late. He reads that as the same want, held
-harder. What he misses is the jealousy.
+at the corner of her mouth arrives a fraction late. He reads that as the same want, held. What
+he misses is the jealousy.
 
 He does not hand over what Vee said on the walk — the true thing she asked him to pretend
 she hadn't. *"It was hers."*
