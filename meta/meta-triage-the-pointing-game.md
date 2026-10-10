@@ -281,3 +281,135 @@ improvised (chronology, condensed brief, pace-misread note).
   question; no gloss (author's "as if searching for another taste" dropped
   as decoding). Retest ordered.
 
+## Addendum — appetite pass (2026-10-09)
+
+Author-initiated: Pace read too saintly in his interior for the man who built
+the bench and is arranging a threesome around an unknowing girl. Seven drafts,
+each read by a nine-lane cold panel; capture run on five of them. Chapter
+5,101 → 4,977 words.
+
+### Rulings reversed (all author, 2026-10-09)
+
+1. **:25 "He took the body's answer for the true one. He usually did." — CUT,
+   reversed in meaning** to "He knew her body's answer. He did not take it for
+   her answer." Reverses the certainty-pass left-standing entry below (the
+   convergent capture almost-stop, 10 of 18 gates) and `:25 APPLIED
+   2026-09-07`. Carried on the first wording tried ("He still meant to ask
+   her") being read as flattery — `claude-opus-5`: "his self-narration is
+   starting to flatter him faster than the page earns"; `claude-opus-4-8`:
+   "thinnest when it lets him be right about everything." The second wording
+   is a claim the chapter then watches him violate, which pays him nothing.
+   `claude-opus-5` on the result: "he asks the question twice and refuses her
+   body's answer as her answer." **About 25 corpus files quote the old line,
+   including a carry-forward checkpoint
+   (`claude-fable-5-1/dag/romance-graduate/ck-ch010.md`).**
+2. **"The same act. A different owner." — CUT.** Reverses `:47 APPLIED
+   2026-09-07` ("untouched — 3/4 repair contest + cold-reader protection
+   carried it") and the certainty-pass protection of the frame-analysis
+   payload. Author: "I KNOW. I was there."
+3. **"She deserved that gentleness. He wanted it for her." — CUT.** Reverses
+   the 2026-08-05 line-edit outcome, where the pair survived a pass aimed at
+   this paragraph and "earned" was deliberately reworded to "deserved."
+   Three on-roster lanes named it on the current draft.
+4. **The frame-break's dance sentence — CUT.** "The follow had felt the music
+   and broken frame before the lead called the step." Inside the zone the
+   pace-misread note fences. It was the fourth statement of the same event in
+   its own paragraph, and its claim contradicted the page: ":143" is "'Her,'
+   Pace said, and pointed" — the lead had called the step two lines earlier.
+   The note's own principle ("only the observable belongs on the page") is
+   what the cut serves. Result: the "used twice" charge left all nine lanes
+   and `claude-opus-5` praised the surviving first use — "the
+   follow-gathering-before-the-lead image is gorgeous."
+
+### Tested and restored — do not cut again
+
+- **":37" "that mattered more to him than the answer did"** — cut, then
+  restored the same day. Romance fell 2 → 1 in `claude-opus-4-8` and
+  `gpt-5.5` on the round it was cut, and both recovered to 2 when it came
+  back. `glm-5.3` then quoted the restored clause **as** the tenderness:
+  "that second asking, 'that mattered more to him than the answer did', is
+  the tenderness." The 2026-08-05 left-standing ruling was correct.
+
+### Breached and repaired
+
+- **":129" "He was not guessing any more."** was added to make his certainty
+  about the room-runner louder, which **breached the 2026-08-05 ruling** on
+  this slot (":119 'He'd guessed wrong.' cut — the setup, 'He thought he had
+  it', is what gives 'God, no' its height; the after-the-fact restatement is
+  the redundant bracket"). Removed. `glm-5.3` on the restored state: his one
+  misfire "is welcome because it keeps him human."
+
+### Also cut (not previously adjudicated)
+
+- "It was the wrapper the wanting needed to come out in." (three models, two
+  vendors, no reader praised it as prose)
+- "Her body wanted this; her mind had not yet caught up to it."
+- "If pleasure was also a bridge…" (`claude-opus-5`, three drafts running)
+- "command and abundance riding in the same frame" (the caption on the clause
+  before it; the athlete clause stays — it is Vee's swimmer body,
+  `four.md:109`, and the athlete *under* the lushness is what makes Randi's
+  grading grammar fail)
+- "and mostly he had" at the taste summary; the hundred-word paragraph
+  explaining the permission; ":31"'s closing duplicate of ":39"
+
+### Attributed rather than cut (author 2026-10-09)
+
+- "which was unsurvivable" → **"which he could see was unsurvivable."**
+  Implements the shape of alternative (a) held on file at
+  `meta-plan-authorship-fixes.md` since 2026-09-07 and never ruled.
+  `claude-opus-5-5` read it as intended — "He even registers that wanting
+  another woman is 'unsurvivable' for her, and goes ahead and builds a game
+  to take her there." `claude-fable-5-1` objects that it claims
+  "near-omniscience about her interior, when I just read a whole chapter
+  proving her interior is the one room he can't enter"; the audit's hedged
+  alternative ("which he was certain she'd find unsurvivable") remains on
+  file, unruled.
+- "It was the best idea he'd had in a month." → **"He thought it was the best
+  idea he'd had in a month."** `gpt-6-astra`: "I have just watched him
+  misunderstand what followed the bench, and now *he thinks* this is 'the
+  best idea he'd had in a month.'"
+
+### Left standing on this pass (author 2026-10-09)
+
+- **":9" "He knew the difference between a woman performing release and a
+  woman delivered to it."** The `:9 RULED 2026-09-07` revision trigger
+  ("subject to revision on a future panel read") **fired** — `gpt-5.6-sol`
+  and `deepseek-v4-pro-0813` both named it — and the author declined.
+  `deepseek` closed on "Small. It didn't damp the chapter." The Opus hedge
+  stays on file.
+- **":101" "the whole art of it was that it stay a game"** — two vendors
+  (`claude-opus-5`, `deepseek`). Stands.
+- **The quad/colonnade paragraph.** Interrogated on the author's belief that
+  it had only ever drawn complaints; it had not. One skate
+  (`claude-fable-5-1`, self-qualified "not close to stopping") against one
+  cash (`claude-opus-5`: "composed two centuries ago by men who wanted the
+  eye to travel exactly this way, laid directly beside a man directing her
+  eye — invited, not forced"). The two audit files that mention it do so only
+  in a route-continuity check and in a hit on the *following* paragraph.
+  Stands.
+- **The candidate parade** and **"She was shopping"** — re-flagged by
+  `claude-opus-5` and `claude-opus-5-5`; both previously ruled. Stand.
+
+### Open
+
+- The **appositive** at the former hinge ("not a woman who hungered for
+  another woman … but a girlfriend offering her man a gift") — two vendors
+  across three drafts. Unruled.
+- The **dance motif** as a whole, not the cut sentence: `claude-opus-4-8`
+  "the dance metaphors stacking up (follow, lead, turn called); it's a touch
+  over-sold." The motif spans ":119", ":173" and the collision's "a decade of
+  dance." Unruled.
+
+### Measurement note — the scores are the noisy output, the prose is not
+
+A same-prose retest was run to calibrate: 14 subscription lanes, byte-identical
+chapter, no edit between. **9 of 14 lanes moved, every move exactly ±1, no axis
+ever moved 2.** Mean |delta|: CAPTURE 0.36, NEXT 0.21, HEAT 0.14, ROMANCE 0.29.
+Baseline preserved at `reviews/capture-panel/noise-baseline-ch003-2026-10-09.md`.
+
+**Consequence for reading this instrument: a single lane moving a single point
+is noise.** Treat a score as signal only when two or more lanes move the same
+direction on the same axis, or any lane moves 2+. The ":37" finding above
+clears that bar (two lanes down together, both back up on restoration); a
+Heat drop attributed to the dance cut did not, and was withdrawn. The written
+complaints converged reliably all day while the numbers did not.

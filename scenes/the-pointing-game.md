@@ -32,8 +32,6 @@ He had not known what the idea might stir in her. He had wondered whether the id
 
 He worked the third one out of her deliberately, slowly, giving her more than she'd asked for. He was closer than he let on. It had gone through him too, that a single question had taken all that control out from under her, and he changed his rhythm to stay off the edge. She had more in her yet, and he meant her to have every joy while the question still hung in the room; his own he would take last, and the waiting would only sharpen it. He drew his head back to see her, touched her face with his fingertips, and kissed her, slow and tender, for no reason but that he wanted to.
 
-Her body wanted this; her mind had not yet caught up to it.
-
 Afterward they lay tangled and quiet. She was wrung out and heavy against him, contented, and he was glad of it; he had never needed to fill a silence. For a while they were there, only the two of them, and it was more than enough.
 
 The question could wait for the heat to leave the room, her breath to come down, and the afternoon to go ordinary around them. He would ask it with her gathered back into herself, free to weigh it and choose; that mattered more to him than the answer did. He hoped there was a way for her to say something true without having to sit up and put a name to it — let it come out laughing, dressed as play, before she had to look it full in the face.
@@ -48,13 +46,13 @@ Then she came back. He admired it, a little, even as he saw through it: she gath
 
 "Only in a threesome," she said against his throat, smiling, all silk. "With you."
 
-And he understood what she had done, because it was beautiful. She had not taken back the wanting — her body had said it twice and she knew he'd heard. She had moved it. She had handed the appetite to him and made herself its generous instrument: not a woman who hungered for another woman, which was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy. The same act. A different owner.
+And he understood what she had done, because it was beautiful. She had not taken back the wanting — her body had said it twice and she knew he'd heard. She had moved it. She had handed the appetite to him and made herself its generous instrument: not a woman who hungered for another woman, which he could see was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy.
 
 A threesome, with him. He would not have to find her a woman for her transgression. She would find a woman for *theirs*. She was plainly excited about this. He was glad of it.
 
 "Okay," he said, easy.
 
-He kissed her forehead, and she came in against him — her face into his neck, her whole length along his, one hand flat on his chest — and stayed there. He lay with her a while longer, thinking. *With you*, she had said. All right, then: with him. He could show her. They could find it together. She had asked for something different with her eyes on the table. Here it was. It was the best idea he'd had in a month.
+He kissed her forehead, and she came in against him — her face into his neck, her whole length along his, one hand flat on his chest — and stayed there. He lay with her a while longer, thinking. *With you*, she had said. All right, then: with him. He could show her. They could find it together. She had asked for something different with her eyes on the table. Here it was. He thought it was the best idea he'd had in a month.
 
 He got up and started pulling on his clothes, and she watched him from the bed, taking inventory as she always did, and after a moment she reached for hers too.
 

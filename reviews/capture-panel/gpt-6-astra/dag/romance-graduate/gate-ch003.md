@@ -1,16 +1,16 @@
-*capture-dag-v2-rich · gate ch003 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 8126431c22ba · 2026-10-09*
+*capture-dag-v2-rich · gate ch003 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha f38696e0fca1 · 2026-10-09*
 
 REACTION
 
-Oh, Randi. That little happy movement of her feet got me. I’ve watched her spend so much energy arranging herself that an unplanned bit of delight feels enormous. I want her to have this. Which is a horrible position to put me in just as Vee walks into the trap.
+Oh, Randi. That last question made my stomach drop. She can barely look at the bench herself, but she can imagine Vee on it. I don’t know whether she wants to give someone that pleasure, watch someone else lose control, or get company in the place she can’t bear to admit she’s been. Probably some awful, tender combination. And Pace kisses her head and suggests food. I’m sitting here going, *Did you hear what she just asked you?*
 
-The walk was hotter for me than the opening sex. “I point. You pick.” Yes, that worked. Watching her graduate from playing indulgent girlfriend to waiting for the next woman to appear—and then simply losing the ability to look away—gave me the discovery I wanted. Her first bare “Yes” felt startlingly intimate. And I liked that Pace guessed wrong along the way. For a minute he was a man finding out what his girlfriend likes, and enjoying being surprised.
+I liked her so much when her feet did that little happy thing. That caught me more than the parade of women or even the sex at the beginning: this tightly managed woman suddenly unable to keep delight out of her shoes. Her first bare “Yes” when she sees Vee got me, too. I believe that wanting. Which makes watching her manufacture the collision distinctly uncomfortable. Vee apologizing for something deliberately done to her is such a small, nasty beginning. I bought this knowing there was a scheme, and still caught myself wanting Randi to go over there. Now she has, and I feel implicated.
 
-But my patience with his certainty is getting thin. “He knew the difference between a woman performing release and a woman delivered to it”—sir, I was in that bathroom with her. You do not know nearly as much as you think. That gap interests me; being repeatedly told exactly what her body means interests me less. The paragraph explaining how she makes her desire into a gift for him was where I felt the book take my chin and turn it toward something I was already looking at. I understood “Only in a threesome. With you.” Let that land.
+Pace is getting under my skin in both directions. “I point. You pick” worked on me. His pleasure in discovering that he’s guessed wrong about her worked on me. But he is so very sure he knows which parts of her are real. After watching him misunderstand her at the end of the bench scene, I don’t entirely trust his certainty that this is good for her. I appreciate that he asks again outside the immediate heat; I also notice that he’s already decided what her answer means. I want Randi’s head back. There’s a woman in there doing something much less settled than he thinks.
 
-And then the collision. Ugh. So smooth, so nasty, and he’s standing there admiring it. Vee apologizing for an encounter someone else engineered is the first thing that really made the jacket hurt in practice. She’s already participating in a different afternoon from the one they’re having. I wanted to hear her speak, too. Everyone is having these huge responses to her, and she hasn’t had a word I can hear yet. Now I’m hungry to get inside her head.
+I did get impatient with how often I was told she was disguising her desire as a gift to him. I understood it at “Only in a threesome.” The extra unpacking kept interrupting something I was already feeling. And the campus walk briefly started to feel like browsing profiles while somebody explained each swipe. The “maybe” brought me back; Vee arriving kept me.
 
-“Do you think she’ll like the bench?” made my stomach drop. Randi has barely managed to look at that thing herself, and now she can imagine another woman on it. Is she excited to share something extraordinary? Does putting Vee there make her own experience easier to carry? Both feel possible, and neither feels comfortable. Then he wants to feed her, and I’m soft toward him again despite myself. This is the mess I came for.
+But that ending. Now the girl from the jacket has a face, and she’s laughing, and these two are watching her with this mixture of hunger and affection she hasn’t earned or agreed to yet. My 1 a.m. text would be: “They’re genuinely thrilled about her. That is somehow making this worse.”
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
@@ -18,5 +18,5 @@ CAPTURE: 8
 NEXT: 9
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: “The same act. A different owner.”
-WHY: I’d already understood what Randi was doing, and the extra explanation briefly cooled me off. But her delight hooked me, and that final bench question left me urgently wanting Vee’s side of this.
+ALMOST-STOPPED: “She had handed the appetite to him and made herself its generous instrument”
+WHY: I was already hearing what Randi was hiding, and having it explained again cooled me off. But her uncontained delight and that bench question have me reaching for the next chapter—I want to hear Vee speak, and I’m nervous about how readily I’m rooting for the people approaching her.

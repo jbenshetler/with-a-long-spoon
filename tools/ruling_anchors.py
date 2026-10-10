@@ -69,6 +69,17 @@ QUOTE_RE = re.compile(r'["“]([^"”\n]{12,400})["”]')
 # appears everywhere; it produces noise in both directions.
 MIN_WORDS = 6
 
+# A ruling that RECORDS A CUT quotes text it expects to be gone. Those quotes are
+# absent by design, so counting them as moved anchors inflates the finding --
+# discovered 2026-10-09, when 25 of this chapter's 49 anchors turned out to be
+# cut-records from the triage's own "Fixed" sections. The corpus writes them in
+# one shape, the verb close behind the closing quote:
+#     - :119 "He'd guessed wrong." cut -- reversed from the finding: ...
+# so only a short tail is searched. A wider window would swallow "a trim was
+# proposed and declined", which is a LIVE ruling and must still be checked.
+CUT_RE = re.compile(r"\b(cut|deleted|removed|dropped|replaced|recast|reversed)\b", re.I)
+CUT_TAIL = 80
+
 # Chapters the chronology knows about, so a ruling doc with no prose file can be
 # told apart from a lane artifact that was never a chapter (echo-inventory).
 KNOWN_SLUGS = {s["slug"] for s in volume_scenes.all_scenes()}
@@ -129,14 +140,15 @@ def scene_text_asof(slug: str, date: str) -> str | None:
     return _norm(blob)
 
 
-def quotes(doc: str) -> list[str]:
+def quotes(doc: str) -> list[tuple[str, bool]]:
+    """Each quote, paired with whether its ruling records cutting it."""
     out, seen = [], set()
-    for raw in QUOTE_RE.findall(doc):
-        q = _norm(raw)
+    for m in QUOTE_RE.finditer(doc):
+        q = _norm(m.group(1))
         if len(q.split()) < MIN_WORDS or q in seen:
             continue
         seen.add(q)
-        out.append(q)
+        out.append((q, bool(CUT_RE.search(doc[m.end():m.end() + CUT_TAIL]))))
     return out
 
 
@@ -144,7 +156,7 @@ def check_doc(path: Path, slug: str) -> dict:
     doc = path.read_text(encoding="utf-8")
     cur = scene_text(slug)
     res = {"path": path, "slug": slug, "present": 0, "moved": [], "unverified": 0,
-           "date": None, "note": None, "orphan": False}
+           "cut_records": 0, "date": None, "note": None, "orphan": False}
     if cur is None:
         res["note"] = f"no prose file scenes/{slug}.md"
         res["orphan"] = slug in KNOWN_SLUGS or ever_existed(slug)
@@ -154,9 +166,11 @@ def check_doc(path: Path, slug: str) -> dict:
     asof = scene_text_asof(slug, res["date"]) if res["date"] else None
     if res["date"] and asof is None:
         res["note"] = "no commit of this scene on or before the ruling date"
-    for q in quotes(doc):
+    for q, is_cut_record in quotes(doc):
         if q in cur:
             res["present"] += 1
+        elif is_cut_record:
+            res["cut_records"] += 1       # absent because the ruling cut it
         elif asof and q in asof:
             res["moved"].append(q)
         else:
@@ -190,6 +204,7 @@ def main() -> int:
     moved_docs = [r for r in results if r["moved"]]
     tot_present = sum(r["present"] for r in results)
     tot_unver = sum(r["unverified"] for r in results)
+    tot_cut = sum(r["cut_records"] for r in results)
     tot_moved = sum(len(r["moved"]) for r in results)
 
     moved_docs.sort(key=lambda r: -len(r["moved"]))
@@ -212,7 +227,7 @@ def main() -> int:
             print(f"\n{len(skipped)} lane artifact(s) skipped (never a chapter): "
                   + ", ".join(r["path"].name for r in skipped))
         print(f"\n{len(results)} ruling document(s) · {tot_present} anchor(s) still present"
-              f" · {tot_moved} moved"
+              f" · {tot_moved} moved · {tot_cut} cut-record(s) skipped"
               + (f" · {tot_unver} unverified (not verbatim quotes)" if args.show_unverified
                  else ""))
     if tot_moved:

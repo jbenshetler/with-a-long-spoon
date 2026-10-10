@@ -1,6 +1,8 @@
 # Note — The Pointing Game: Pace's "Ungradeable" Misread (PROTECTED — do not "fix")
 
-*Scope: `the-pointing-game.md`, the first-sight-of-Vee passage (~line 117) and the frame-break that follows (~lines 121–125). This note exists to PREVENT a well-meaning continuity edit. The prose is correct as written; the risk is that a future pass "corrects" it.*
+*Scope: `the-pointing-game.md`, the first-sight-of-Vee passage and the frame-break that follows it. **Keyed on the quoted text below, never on line numbers** — this note carried three different numbering schemes ("~line 117", "~lines 121–125", "the frame-break at 67–69") and by 2026-10-09 all three pointed at the wrong sentences, in the one document written to stop a well-meaning edit. Find the passage by its words. This note exists to PREVENT a well-meaning continuity edit. The prose is correct as written; the risk is that a future pass "corrects" it.*
+
+*One sentence inside the fenced zone was cut by author ruling 2026-10-09 — "The follow had felt the music and broken frame before the lead called the step." It was Pace's figurative gloss on the frame-break, not the observable, and its claim contradicted the page. The observable frame-break and the bare "Yes" are untouched and remain protected.*
 
 ---
 

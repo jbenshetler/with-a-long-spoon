@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch003 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8126431c22ba · 2026-10-09*
+*capture-dag-v2-rich · gate ch003 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f38696e0fca1 · 2026-10-09*
 
 REACTION
 
-Holy shit. Holy *shit*.
+*Oh.* Holy shit.
 
-Look, Chapter 1 had me sweating through the sheets with that bench and that terrifyingly intimate psychological strip-down, and Chapter 2 showed me the brittle, freezing-cold sorority cage Randi lives in. But *this*? This is the click of the trap shutting, and it is absolute perfection.
+When that blurb said *"What Vee cannot see is that the invitation reached her long before she knew there was one — that it began as a game between the two people now closest to her,"* I completely misunderstood the geometry until this exact second. I thought we were getting Pace and Randi as some long-established, sinister, slick unit. But reading this—seeing that Randi is barely keeping her own head above water after Chapter 1 and 2, watching her redirect her own terrifying, unmanageable desire for a woman into "a gift for Pace" so she doesn't have to look at her own sexuality in the daylight, and then watching Pace *read* that and guide her into the open quad like a hawk... god. It’s breathtakingly smart.
 
-"Would you like to taste another woman?" followed immediately by her body just *giving her away* before her brain could even build a defense? God. The way Pace reads her—the way he watches her take this terrifying, forbidden, uncontainable desire and scramble to dress it up as a sexy little gift for *him* ("Only in a threesome. With you.") so she doesn't have to look at the fact that she is starving for women—is so ruthlessly perceptive it made my stomach drop. She literally handed him the steering wheel to protect her own ego, and he just smiled and said, *All right, let’s go shopping.*
+The scene in bed where he asks her if she wants to taste another woman and her body just *betrays* her before her brain can catch it—the involuntary climax—was wildly hot. And the way she immediately covers: *"Only in a threesome. With you."* The sheer psychological accuracy of that armor! She’s twenty-one, she’s Standards chair in a sorority that polices every calorie and every breath, she cannot survive being a girl who wants girls. But being the cool, permissive, sexy girlfriend who brings home a plaything for her man? That’s safe. That’s an approved costume.
 
-And the campus walk. The sheer, delicious voyeurism of the "pointing game." Watching Randi shift from offended sorority decorum into being a predator on the hunt, her dancer's body coiling before he even lifts a finger—I could feel the wind off that ridge, I could feel her hand tightening in his.
+And then the pointing game. The absolute audacity of walking campus and shopping. I loved how Pace calibrated it—testing the waters, reading the recoil, letting her settle into the power of choosing. When Vee finally walked out of that dining hall, the description of her was gorgeous—the anti-sorority girl, loud, laughing with her throat bare, curves that don't apologize, copper hair—and Randi's immediate, helpless, unmanaged *"Yes."*
 
-Then Vee walks out. That whole description of Vee: big, unmanaged, laughing with her throat bare to the sky, entirely outside the miserable, calorie-counting, image-policing world Randi is trapped in. The contrast between Randi’s hyper-curated bone-and-camel palette and Vee’s copper-haired, denim-jacket warmth is breathtaking. You see *instantly* why Randi couldn't look away. It’s an appetite she’s never allowed herself to have, walking on two feet.
+Then the execution. The way Randi engineered the bump! It was like watching a predator who looks like a doe. The decade of dance, the Greek social training, the slight feint so *Vee* was the one apologizing—it was utterly brilliant. And that final line: *"Do you think she'll like the bench?"* A total chill went down my spine. Randi is so desperate to not be the only one pinned to that wood, so excited to share it, so completely in over her head.
 
-And then the execution! Randi orchestrating that "accidental" collision like a sniper in ballet flats, making poor, sweet Vee feel like *she* was the clumsy one, and then floating back to Pace with her feet practically dancing on the brick. "Her name is Vee. And we've got a stats class together." Chills.
-
-And that final line from Randi: *"Do you think she'll like the bench?"*
-
-My jaw actually hit the floor. The jacket told me what was coming, but seeing the architecture of the game assemble in real time—the tenderness mixed with this wicked, patient manipulation, the sheer erotic charge of Randi using Pace to get to Vee and Pace using Vee to open Randi—is unlike anything I have read in years. I am vibrating. Give me the next chapter right now.
+I'm hooked. This is dark, intelligent, intensely sexy, and the trap hasn't even sprung yet.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The transition from the suffocating interior tension of Chapter 2 into this breezy, predatory, intensely charged afternoon walk was absolute mastery; watching the trap get built while the characters think they're just playing a sexy game has me totally hooked.
+WHY: The psychological mechanics of how they chose Vee—watching Randi disguise her own raw, terrifying lesbian longing as a kinky gift for her boyfriend—was completely brilliant and insanely hot. The setup is razor-sharp.

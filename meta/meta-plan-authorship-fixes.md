@@ -68,11 +68,18 @@ touching) · **AUTHOR CALL** (flagged text is praised/canon/previously adjudicat
   ADDED after the ruling (author pick b): "He took the body's answer for the
   true one. He usually did." — converts the endorsement into his epistemology
   and seeds the Passage-4 payoff.
+  **REVERSED 2026-10-09** — line cut and inverted to "He knew her body's
+  answer. He did not take it for her answer." See
+  `meta-triage-the-pointing-game.md`, appetite pass.
 - **:47 APPLIED 2026-09-07** — micro-trim only (author pick b): "she could not,"
   deleted; the hinge otherwise verbatim ("The same act. A different owner."
   untouched — 3/4 repair contest + cold-reader protection carried it).
   Fable's "nothing in her grammar could survive that" recast of "unsurvivable"
   declined for now (Fable-cold's over-naming gripe remains on file, minor).
+  **REVERSED 2026-10-09** — "The same act. A different owner." cut; and
+  "unsurvivable" attributed to Pace ("which he could see was
+  unsurvivable"), the shape of alternative (a) above. See
+  `meta-triage-the-pointing-game.md`, appetite pass.
 - **:127 APPLIED 2026-09-07** — anatomical triplet + "ripe" cut (author pick a):
   "…nothing apologized for — the kind of hourglass the year's clothes were not
   cut for and that did not care." Scale/lushness/unapologized-for retained.

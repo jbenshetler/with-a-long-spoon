@@ -1,18 +1,18 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 8126431c22ba · 2026-10-09*
+*capture-dag-v2-rich · gate ch003 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha f38696e0fca1 · 2026-10-09*
 
-REACTION — Oh, this is wicked. I knew from the jacket what they were doing, obviously, but knowing did not prepare me for how much I would enjoy watching the desire move through Randi before she could make it socially acceptable to herself. Her body answering Pace’s question with an orgasm, and then her instantly repackaging that hunger as a gift for him—“Only in a threesome. With you.”—was so painfully, specifically her that I wanted to shake her and kiss her forehead at the same time.
+REACTION — Oh, this is wicked. The instant her body answered his question before she could reorganize the desire into something socially survivable—I was gone. And then watching her turn “I want a woman” into “I’ll give *you* a threesome” was painfully, perfectly Randi. She can permit herself almost anything if she recasts it as service, polish, generosity. Pace sees the maneuver and lets her keep the disguise because it gets her moving. That is extremely hot, and also exactly where my alarm bells are ringing.
 
-And the pointing game absolutely got me. “I point. You pick.” That is hot because the choice really is hers, but it is also deeply unnerving because Pace understands her defenses well enough to route desire around them. He keeps making room for her consent while quietly constructing the room she will consent inside. I can see the trap. She can’t. Somehow that makes every little unguarded answer land harder: the long look, the naked “Yes,” the delighted footwork when she comes back with Vee’s name. Randi was more alive in those few seconds than she was anywhere in the sorority house, and I hate how much I want that aliveness for her even though I know Vee is about to become a person inside somebody else’s game.
+The pointing game absolutely worked on me. Not just because they were choosing a woman together, but because Randi gradually stopped pretending she was humoring him and began looking with her own appetite. “I point. You pick” is the whole seduction in four words: he keeps giving her choices that expose what she wants. By the time she said that naked little “Yes,” I felt caught with her. No kitten voice, no girlfriend performance, just want.
 
-The redhead reveal worked on me embarrassingly well. After all those polished, interchangeable campus women, Vee arrives laughing with her whole body, lush and completely uncurated, and I understood both of them wanting her instantly. More importantly, I wanted to meet her. That matters, because otherwise she could have felt like a selected body being ordered off a menu. Instead she has gravity before she says a word.
+And then it’s Vee. Of course it’s Vee, and God, the jacket makes that recognition feel filthy because I know Vee thinks the collision is an accident. Watching Randi manufacture it so beautifully—while glowing because she has genuinely found someone she wants—gave me the exact double response this book promised: I’m delighted for her and deeply suspicious of her at the same time. She isn’t merely Pace’s accomplice. She is frighteningly good at this. The happy little footwork afterward almost made it worse because her joy is real.
 
-And then: “Do you think she’ll like the bench?” Jesus Christ, Randi. That line is filthy, thrilling, and genuinely frightening. The woman who fled into a locked bathroom after the bench is already imagining another woman on it—and apparently imagining herself helping put her there. I would absolutely text a friend at one in the morning: *The girlfriend just picked the heroine out of a crowd and asked whether she’ll like the sex furniture. I’m in trouble.*
+“Do you think she’ll like the bench?” Jesus Christ. That is the text I’d send at one in the morning with no context except twelve exclamation marks. It’s playful, hungry, intimate, and horrifying because I have just watched Vee become a person to them and a planned experience in the same breath. And his answer—“Let’s go feed you”—lands tenderly and ominously at once. Yes, I’m already turning the page.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: “He could show her. They could find it together.”
-WHY: Pace’s certainty that he is helping Randi discover herself makes me uneasy because he is already converting her hidden desire into a plan involving an unsuspecting person. But the combination of psychological danger, explicit heat, and Randi’s uncontrollable delight has me completely—I need to see what she does when Vee stops being a beautiful idea and starts trusting her.
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Randi’s undisguised “Yes” gave me the appetite I wanted, and recognizing Vee turned the whole flirtatious game into a trap closing in plain sight. The tenderness between Pace and Randi is real enough to make their secret plan more dangerous, not less.
