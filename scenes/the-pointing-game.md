@@ -82,7 +82,7 @@ They passed a man alone at one of the quad tables with a tray from the grill —
 
 She was loose beside him, still warm from the afternoon in his bed, the endorphins not yet spent. She had showered and put her face back on and dressed and walked out the door game for whatever the day was. She had liked all of it, and she liked best the ones with an edge. He could feel the readiness in her hand. She thought they were going to do something fun. They were.
 
-A woman crossed the path ahead of them, twenty feet up, headed for the colonnade — petite and built to the proper scale, the scale Randi approved of and maintained, narrow through the shoulder and hip, an oval face, a small straight nose, dark hair in a high sleek ponytail that swung when she moved. Leggings and an oversized quarter-zip in the Greek pastel, a canvas tote with a water bottle clipped to it, box-fresh white trainers that hadn't seen a trail. She walked the walk: chin level, phone in hand but not looked at, with serene propriety. She could have been Randi's sister. She could have been Randi: the labels and the lines and the correct shoe, that whole grammar walking. And that was the answer. A woman who had made herself to a specification, line by line, year on year, would want the specification met. His own body answered her first — one blunt beat of it, low — and in his mind it was two of her, two sleek tails swinging the same way and his hands full of both. He wanted a longer look than the path was going to allow.
+A woman crossed the path ahead of them, twenty feet up, headed for the colonnade — petite and built to the proper scale, the scale Randi approved of and maintained, narrow through the shoulder and hip, an oval face, a small straight nose, dark hair in a high sleek ponytail that swung when she moved. Leggings and an oversized quarter-zip in the Greek pastel, a canvas tote with a water bottle clipped to it, box-fresh white trainers that hadn't seen a trail. She walked the walk: chin level, phone in hand but not looked at, with serene propriety. She could have been Randi's sister. She could have been Randi: the labels and the lines and the correct shoe, that whole grammar walking. And that was the answer. His own body answered her first — one blunt beat of it, low, and two of her in his mind — and he wanted a longer look than the path was going to allow.
 
 Pace leaned in close, his mouth at the shell of her ear, breath warm against it, and said, low, "What about her?"
 
@@ -98,7 +98,7 @@ Then the third beat, and he felt it arrive in her body before her face changed: 
 
 "I see what you're doing," she said, laughing. "I'm being a *very* good sport about your little game."
 
-He let the camouflage stand. It was the wrapper the wanting needed to come out in.
+He let the camouflage stand.
 
 He did not rush her. There was a great deal of afternoon, and the rushing would have done the opposite of what he wanted — would have made it a task, a thing being driven at, and the whole art of it was that it stay a game, a thing they were doing together because it was fun, her edge and his attention. So he let a hundred yards go by with nothing in it but the walk and the wind and the back of her hand under his thumb, and only when the path opened toward the athletic center did he tip his chin at the next one.
 
@@ -126,9 +126,7 @@ He stopped walking. He turned and kissed her — not the ear this time, the mout
 
 She laughed, low in her throat, and the thing she said came out warmer and realer than she meant it to — he heard the seam in it, the place where the performance didn't quite cover the actual heat underneath. "*Oh*," she said. "You dirty boy." Sex-kitten, the trailing voice, a hand light on his arm: pure play, a girlfriend being game. He let her have it.
 
-The *maybe* delighted him. He followed the feeling of it toward the next woman: not the mirrors — someone open, someone warm, someone who took up room and was glad to. So he pointed at the most alive one in sight, a striking girl mid-laugh in a knot of friends, a blazer and a white-blond blowout in loose curls that had survived the wind better than it had any right to, the big unbothered authority of someone who chaired things and ran the room while she did, a wide confident face and a smile she was already wearing before anyone had said anything to earn it. He thought he had it. He was not guessing any more. He wanted her himself.
-
-This one would not have waited to be asked. She brought Randi in and kissed her, and Randi's eyes shut before their mouths met, and they came apart with both their mouths shining.
+The *maybe* delighted him. He followed the feeling of it toward the next woman: not the mirrors — someone open, someone warm, someone who took up room and was glad to. So he pointed at the most alive one in sight, a striking girl mid-laugh in a knot of friends, a blazer and a white-blond blowout in loose curls that had survived the wind better than it had any right to, the big unbothered authority of someone who chaired things and ran the room while she did, a wide confident face and a smile she was already wearing before anyone had said anything to earn it. He thought he had it. He wanted her himself.
 
 "God, no," Randi said, fast, and there was real feeling in the *no*. "Noted," he said, enjoying her. "Strong no." He set her down regretfully. The girl's ease was performed, aimed outward, a thing she did *at* people. Closer, but no.
 

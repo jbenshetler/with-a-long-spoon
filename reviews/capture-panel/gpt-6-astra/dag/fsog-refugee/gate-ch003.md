@@ -1,18 +1,16 @@
-*capture-dag-v2-rich · gate ch003 · gpt-6-astra · fsog-refugee · prompt-sha e079858b8b39 · prose-sha afa9f7b6b186 · 2026-10-09*
+*capture-dag-v2-rich · gate ch003 · gpt-6-astra · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a42c80abb6ae · 2026-10-09*
 
 REACTION
 
-Oh, Randi. That little bit of happy footwork got me. After her lying under the duvet with her shoes on, refusing to cry, seeing delight escape before she could tidy it away made me soften toward her so much. I wanted her to get to have that. Want a woman, kiss your boyfriend in daylight, be embarrassingly pleased. Please let something be uncomplicated for you for five minutes.
+Oh, Randi. That little bit of happy footwork got me. After her lying in bed fully dressed, unable to cry, seeing her want someone and practically bounce with it was such a relief. I wanted that happiness for her. And then she asked about the bench, and my stomach dropped. Is she imagining sharing something she loved, or putting somebody else in the place she still can’t bear to admit she occupied? I can’t settle that, and now I badly want to hear her thinking when he isn’t there.
 
-And then she asked about the bench. My stomach dropped. The very thing she can’t bear to talk about happening to her, and now she’s imagining Vee there. I can’t tell how much is wanting to share something extraordinary and how much is wanting someone else to occupy that exposed place. Both feel possible, and that makes me nervous in a way that has me reaching for the next chapter.
+Pace asking again afterward mattered to me. “He knew her body’s answer. He did not take it for her answer.” Yes. That is exactly the distinction I need this man to make. The closeness between them worked for me, too—the ordinary quiet afterward, her tucked against him, his willingness to accept the shape she can give her desire right now. There’s something very appealing about being able to say a frightening thing sideways and still be welcomed.
 
-Pace waiting until afterward to ask whether she actually wanted another woman mattered to me. Especially “He knew her body’s answer. He did not take it for her answer.” Yes. That distinction is something I need from this man. And he accepts her no during the walk without making her defend it; she gets to surprise him. I liked that. Their private game had a charge, and her getting bolder inside it was fun to feel.
+But I’m starting to tense up whenever he decides he knows which version of her is real. He missed so much after the bench. I haven’t forgotten her in that bathroom just because he’s feeling pleased with how well today is going. His certainty is less reassuring to me now. I liked “I point. You pick,” and her strong no passing without argument. I liked her getting interested despite herself. I was enjoying their private game right up until another person became something “hers to take.”
 
-But I’m starting to get itchy about how sure he is that he understands everything underneath her words. I’ve just watched him mistake her retreat behind a smile for a lovely evening together. Now he’s deciding which parts of her are camouflage again, and I’m sitting here thinking: you missed something enormous, darling. You don’t know as much as you think you do. His tenderness still reaches me, but I don’t feel safely held by his interpretation of her.
+And there’s Vee, laughing, with absolutely no idea. I knew this was coming from the jacket, but watching Randi manufacture the collision—and watching Pace admire how beautifully she makes Vee feel responsible—made the secret feel much uglier than an abstract premise. Just introduce yourself. Let this girl meet you. I’m already protective of her.
 
-Vee laughing with her head back made me immediately protective of her. She’s having an afternoon with a friend, and these two have already given her a place in their intimate lives. Randi engineering the collision so Vee apologizes—ugh. I know what jacket I bought this on, but watching the first little deception actually happen feels different. Pace admiring it makes it worse.
-
-I’d text a friend: “She finally looks happy and I’m happy for her and I also want to intercept the redhead before she reaches them.” I’m very much still reading. I want the warmth to be real. I’m afraid they’re going to use its being real to excuse themselves.
+The last kiss still reached me. Randi being openly delighted, wanting him in daylight, felt like something she’d been denying herself. That’s what makes this uncomfortable: I believe there’s warmth here, and I’m attracted to it, while also watching them do something I don’t trust. My 1 a.m. text would be: “She’s finally happy and I’m afraid of what she’s going to do with it.”
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
@@ -20,5 +18,5 @@ CAPTURE: 9
 NEXT: 9
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: “is this one mine to take?”
-WHY: That made Vee feel like something they could give each other before she’d even met them. But Randi’s unguarded happiness and the frightening bench question have me hooked; I need to see whether Vee gets room to become a person to them beyond what they want from her.
+ALMOST-STOPPED: “the gift was moving toward her hands”
+WHY: Vee becoming a gift they can arrange between themselves chills me, especially with Pace so pleased about it. But Randi’s joy reached me, and I need to get close enough to Vee to hear what she wants before these two start deciding they know.
