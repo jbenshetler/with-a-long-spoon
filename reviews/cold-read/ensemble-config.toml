@@ -23,6 +23,9 @@ models = [
   "gpt-5.5",
   "glm-5.3",
   "deepseek-v4-pro-0813",
+  # Added to the cold panel 2026-10-11 (author ruling). Already on the
+  # [capture] roster; this gives it the craft instrument as well.
+  "claude-opus-5-5",
 ]
 fast = ["claude-opus-4-8", "gpt-5.6-sol"]
 # Retired from the cold panel. Reads on disk were erased 2026-09-26 (git history
@@ -204,23 +207,37 @@ required_sections = [
 entity_exception = "source-verified"
 impression = "quorum"
 
-[[ensembles.core.sources]]
-# Swapped from claude-fable-5 (author ruling 2026-09-26). No native fable-5-1
-# checkpoints exist yet; the shipped ck-ch050/060 manifests still name the
-# fable-5 checkpoints until fable-5-1 is minted and the ensemble rebuilt.
-model_id = "claude-fable-5-1"
-vendor = "anthropic"
+# SOURCES REPLACED 2026-10-11 (author ruling): the `core` donor memory is now
+# minted off `claude-opus-5-5` and `gpt-5.5`. This retires
+# `claude-fable-5-1`, `claude-opus-4-8` and `gpt-5.6-sol` as sources.
+#
+# Why it was changed: deepseek could not read ch043 because `ensemble:core` had
+# no ck-ch040, and it could not be built — `claude-fable-5-1` has only
+# ck-ch010 on disk and checkpoint_ensemble.py treats a missing source as fatal.
+#
+# THREE CONSEQUENCES, none yet executed:
+#  1. `claude-opus-5-5` has NO cold-read checkpoints at all (no
+#     reviews/cold-read/claude-opus-5-5/checkpoints/ directory). They must be
+#     minted before any core rebuild. Volume One boundaries are raw-prose
+#     mints, so ck-ch040 does not need ck-ch010/020/030 first.
+#  2. With exactly TWO sources and `quorum = 2`, every admitted claim now
+#     requires UNANIMITY rather than 2-of-4. `minimum_claims = 24` may fail if
+#     fewer than 24 claims survive both readers. If it does, the fix is an
+#     author call — add back a third source, or lower the floor.
+#  3. The shipped core artifacts (ck-ch010/050/060) were built from the old four
+#     sources and are invalidated by this change. Rebuilding them collides with
+#     meta-tooling-checkpoints.md:86-92 ("replace these artifacts during the
+#     approved 51-entry atomic cutover"), so sequencing is an author call.
+#
+# `reviews/cold-read/claude-fable-5/checkpoints/` is no longer needed to satisfy
+# the shipped manifests once those artifacts are rebuilt.
 
 [[ensembles.core.sources]]
-model_id = "claude-opus-4-8"
+model_id = "claude-opus-5-5"
 vendor = "anthropic"
 
 [[ensembles.core.sources]]
 model_id = "gpt-5.5"
-vendor = "openai"
-
-[[ensembles.core.sources]]
-model_id = "gpt-5.6-sol"
 vendor = "openai"
 
 [readers."kimi-k3"]

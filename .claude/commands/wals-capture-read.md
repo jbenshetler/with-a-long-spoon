@@ -123,7 +123,7 @@ cold-read lanes use.
 
 **It is not `reading_order.py`'s ordinal.** That tool numbers the whole
 chronology *including planned* chapters, so the two bases diverge — `grace` is
-chronology ordinal 83 but reader chapter **70**. Using the wrong one silently
+chronology ordinal 94 but reader chapter **75**. Using the wrong one silently
 reads the wrong chapter. Resolve it against the harness's own sequence:
 
 ```
