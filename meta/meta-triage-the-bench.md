@@ -440,3 +440,7 @@ weight them below the others. Removed models' reads are not consulted
   under `<model-id>/.failed/` for diagnosis.
 - gpt-6-astra trialled on capture for one round and replaced by gpt-6-sol
   (needs `CODEX_BIN`); astra's gates removed, never committed.
+
+## Restored (author 2026-10-11, praise sweep)
+
+- The "Nothing happened to her. That was what the face was for…" paragraph after :501 restored (cut 4da9f20b), and the "She had been perfect, and perfect was safe." fragment moved into :501 taken back out. A/B ch1 capture, 8 models x 2 personas each: cut 147/146 CAPTURE/NEXT, restored 149/147. Restored drew three mirror-section ALMOST-STOPPEDs at 9 (fable rg on the paragraph; opus-4-8 and opus-5 rg on :509 "The face was lying…" triple), none on the cut text.

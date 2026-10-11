@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce31b5230a8 · 2026-10-11*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha c1b281036556 · 2026-10-11*
 
-REACTION — Oh. Oh, this is nasty in exactly the way I wanted, because the spanking is not the dangerous thing here. The tenderness is.
+REACTION — Oh, this book knows exactly what kind of trap it sold me, and apparently I am going in willingly.
 
-I spent most of that scene completely inside the charge of his patience: the apple sliced the way she’ll eat it, the hands withdrawing before she can brace against them, the absurdly hot little “Hi” while she’s upside down, the fact that he keeps returning to her face. And yes, the bench absolutely worked on me. Not as furniture porn, but because he built it around a knowledge of what the position would do to her psychologically. He isn’t merely making her exposed; he’s taking away every polished social tool she normally uses to control being wanted. When her elegant restaurant-please isn’t enough and he waits for the ugly real one, that is viciously hot.
+The Randi reveal got me. I had settled so completely into assuming this was Vee’s first encounter with Pace that “There you are, Randi” felt like the floor dropping out—not gimmicky, either, because suddenly the whole chapter became the hidden history under the jacket. So this is who Pace and Randi are before Vee. This is the intimacy, appetite, and damage they’re going to bring to her. I am fascinated and already a little afraid for everyone.
 
-Then “There you are, Randi” changed the entire chapter under me. I actually had the physical reader reaction: stop, reread, realize the book has just made me participate in mistaking her for the heroine because I was also looking at the surface presented to me. The jacket promised me Randi as the glamorous woman steering Vee toward Pace. It did not prepare me to meet Randi already cracked open by him, or to discover that the composed accomplice may be built from the aftermath of this exact night. Now I’m wondering whether whatever plan they make about Vee begins partly as Randi’s attempt to put somebody else in the exposed position Pace found her in. That possibility is dark as hell.
+And yes, the bench was extremely hot. Not merely because of what he did, but because he paid attention: the thin apple slices, the pauses, her shoulders, the change in her voice, the distinction between the polished please and the real one. That specificity is the difference between a scene that feels assembled from kink furniture and one that feels like it could only happen to these two people. His restraint was hotter than the spanking. Him remaining hard and deciding that wasn’t what the night was for nearly finished me.
 
-What hurt was that Pace does so much right and still does not know what happened. He respects the locked bathroom door. He does not explain her feelings to her. He gives care without demanding gratitude, and he can let his own arousal remain unanswered because the night is about her. I believe his tenderness. I also believe it is unbearable to her. The split between his “she finally let someone feed her” and her private decision that the real woman is never coming out again made my stomach drop. He thinks he has reached her; she experiences being reached as an emergency.
+But the aftermath is what has its hand around my throat. Pace believes he has lovingly uncovered her; Randi experiences being uncovered as an emergency. Neither reading feels false. He respects the locked bathroom door while completely failing to understand that she has locked another door inside herself, and that is such a painful mismatch I want to shake them both. Her agreeing to stay while privately deciding never to let him see her again—that is the kind of emotional dishonesty I can believe, because it isn’t an idiotic failure to send one clarifying text. It is survival machinery snapping back into place.
 
-I am suspicious of his satisfaction, though. He is beautifully attentive, but he also loves his own ability to uncover people, and “All he had done was find it, and answer it” is dangerously flattering to himself. She is silently locking something away while he congratulates himself on having fed her. That dramatic irony is doing more to me than a cheap sinister reveal would.
+I did feel the face/performance idea being pressed several times after I already understood it. Normally that makes me itchy. Here I mostly forgave it because Randi is spiraling and repeating the logic to herself, not because the book seems frightened I missed the metaphor. Still: trust me a little more next time.
 
-Also: this is a huge first chapter. It asked me to live inside one encounter for a long time, but it earned the length because the erotic escalation and the emotional escalation were the same mechanism. I’m not being given explicitness as a reward between plot beats. The explicitness is where the plot happens. That is the book I have been trying to find.
-
-My 1 a.m. text would be: “The glamorous female mastermind from the blurb is introduced crying naked after her boyfriend makes her beg on a custom bench, and somehow the most devastating part is that he calls her beautiful afterward. I’m doomed.”
+What I’d text at 1 a.m.: “The first chapter is an entire explicit BDSM scene, the woman is NOT the heroine named in the blurb, and somehow the most dangerous thing he does is sincerely call her beautiful afterward.”
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: “He had learned not to interpret things for her.”
-WHY: Not because I wanted to leave, but because I had to stop and breathe at the terrible irony of that line. The chapter gave me explicit heat, genuine interiority, and a bond becoming more intimate and less mutually understood in the same instant; I need to meet Vee now and see what Randi builds out of this locked door.
+ALMOST-STOPPED: none
+WHY: The heat delivered completely, but the devastating split between what Pace thinks he gave Randi and what she believes she must now hide is what has me already turning the page. I need to know how these two decide to involve Vee when they are carrying this much tenderness, secrecy, and misrecognition between them.
