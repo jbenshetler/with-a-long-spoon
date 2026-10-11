@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch014 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ad586c6027a2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch014 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · 2026-10-11*
 
 REACTION —
 
-Oh, Randi. Oh no.
+Oh, that one got me sideways.
 
-This one got under my ribs in a different way. Not the big wet-truck charge of Vee choosing to be seen, but the aftermath in the other room, where the secret has a body now and it is not behaving politely for anybody. Randi coming in like a match struck on a wall, not even taking off her coat properly in my mind, just mouth and hands and *tell me*. She is so turned on by Vee that she cannot stand directly in front of it. She has to climb onto Pace and make him say the parts out loud, like he is translating her own desire back to her in a language she is allowed to hear.
+I knew Randi was less in control than she thought, but I didn’t expect to feel Pace lonely. That is rude of the book, honestly. I had him filed as the beautiful problem with the vocabulary and the hands and the scary patience, and now here he is standing in his own doorway after being used for exactly the thing he helped build, realizing she didn’t want to stay. That landed. Not as punishment, not melodrama. Just: the bed is still warm, the house is warm, he is hungry, and she is gone.
 
-And God help me, it is hot. It is very hot. The way she makes him watch her take him, the stops, the control, the little earned smile. That hit. But what really did me in was the specificity of what she asks for. Not “was she pretty,” not some generic jealous-girl interrogation. Hair, chlorine, stomach. The body of Vee, but filtered through Pace’s witness, and he withholds the actual sacred part: that Vee gave him that moment in the truck. I loved that. I am still side-eyeing him, obviously, but that felt like a line he knows exists.
+And Randi. God. She comes in like weather, like she cannot bear one second between herself and the report, except she doesn’t want the report. She wants to be fed Vee in pieces. Scent, hair, chlorine, stomach. I felt the heat of that, absolutely, because the chapter is shameless in the best way — she is riding him and asking him to tell her about another woman, and it is filthy and precise and emotionally worse than if she’d said Vee’s name like a crush. But the thing that really scraped was Pace not giving her the truck. He keeps that. He gives her the parts that don’t betray Vee’s chosen moment. I noticed. I cared.
 
-Randi’s reaction to “Her stomach is soft” made me sit up. That was not just lust. That was a wound flaring. She locked up around him like the sentence hit something she cannot admit wanting, or envying, or being undone by. Vee’s softness is becoming this loaded erotic object for both of them, but for Randi especially it feels almost unbearable because Vee has the thing Randi has punished out of herself: appetite without polish, shame turning into heat, a body that can be wanted without being managed into perfection first.
+“I want us” is such a dangerous little sentence. On the surface it is hot, yes, and it is. But it also sounds like Randi trying to turn a want she cannot bear into a structure she can survive. Not “I want her.” Not “I want you.” Us. A container. A loophole. A spell. And then she leaves before aftercare can make it real, which tells me she knows exactly how much reality is already leaking in.
 
-And then “I want us.” I actually made a little face at that, because yes, finally, the thing itself slipped out. Not “her,” not “a threesome,” not the game. *Us.* The three-person shape has a pulse now. But she runs immediately afterward, and that did more damage than if she had said something cruel. She uses Pace’s body to survive her want, gets what she came for, and cannot stay inside the tenderness afterward. That leaving felt like panic wearing lipstick.
+The sex worked for me because it wasn’t interchangeable. It had an emotional engine. It wasn’t bodies doing the expected chapter-fourteen thing; it was Randi trying to metabolize Vee through Pace, Pace trying to understand the tremor under her hunger, and both of them using each other beautifully and badly. I was turned on, yes, but also tense in the throat. That’s the combination I bought the book for.
 
-Poor Pace, which I was not expecting to say so plainly. Standing in the doorway hungry and confused, trying to make a theory generous enough to cover being left. He is still morally compromised, yes, yes, put it on the record, but this chapter made him feel less like the person holding the map and more like someone who just realized the terrain moved under him. Randi has never left before. That matters. The game is starting to cost the players, and I am extremely awake now.
+And now I’m very awake about Pace. He can miss Randi. He can be hurt. He can be hungry after, literally and not. That does not absolve him of the setup, but it makes him less like an elegant machine. The triangle is starting to feel less like two people leading one girl somewhere and more like three hungers finding the same room from different doors. That is exactly the kind of mess I will keep reading for.
 
 GATE 14 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "Her stomach is soft."
-WHY: I didn’t almost stop because it was bad; I almost stopped because that line made the whole thing feel so intimate and so dangerous that I had to pause. This chapter was hot, but the real pull is Randi cracking sideways and Pace finally feeling the cost of what they started. I want the next chapter badly now, because the arrangement is no longer abstract.
+ALMOST-STOPPED: none
+WHY: This was hot in the way I actually want: explicit, charged, and full of consequence. Randi’s desire for Vee through Pace is getting more dangerous and more undeniable, and Pace being left alone afterward made the whole arrangement suddenly feel breakable.

@@ -1,31 +1,26 @@
-*capture-dag-v2-rich · gate ch001 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1ce31b5230a8 · 2026-10-09*
+*capture-dag-v2-rich · gate ch001 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1ce31b5230a8 · 2026-10-11*
 
-## Reaction
+**REACTION**
 
-Okay. *Okay.* I read the whole chapter thinking she was Vee. The sorority, the black hair and blue eyes, the cashmere, a girl coming to a mathematician's little house. I was all in on Vee, and then "There you are, Randi" came and I physically sat up. I'd been wrong the whole time, and the book let me be wrong on purpose. That's Randi, the glamorous friend who's going to steer Vee to him "as if by accident." So this isn't the romance. It's what comes before it, and Vee walks into the middle of it.
+Okay. I need a minute.
 
-The scene itself is so close to what I've been looking for that it's a little unnerving. He kisses her hello and then backs off so she can decide. She directs the chair and he likes being directed. Then the safeword, twice: "Tell me again if you forget. I won't be upset." He keeps crouching down to her upside-down face to ask "Hi. You with me?" and "How's your back?" and "Hands and shoulders?" She gets exasperated, "They're *fine*, Pace," and he smiles. He takes her heels off halfway through and holds her bare foot. That's the tenderness and dominance in one man I keep looking for, and the book doesn't apologize for either half. The apple game in the kitchen did more for me than half the full sex scenes I've read in the last two years. It was hot as hell all the way through.
+First thing: I bought this for Vee, and Vee isn't in it. I spent the whole chapter thinking *this* was the heroine, the sorority girl, the apple slices, the blue eyes. Then he says "There you are, Randi" and I actually sat up. This is the friend, the "glamorous new friend" from the jacket. So the two people who make the "secret choice" about Vee are already sleeping together, and I just watched the night that cracked one of them open. I didn't see it coming, and I'm a little annoyed and a lot hooked.
 
-Here's where I squinted. "It was not the right *please* yet." He's decided what her real voice is supposed to sound like, and he holds her at the edge until she produces it. And the "Facedown on a bench in a man's house… Begging" speech had a little bit of humiliation in it that I didn't totally want. He isn't cruel, and she could have said red at any point. But he's sure he knows her better than she knows herself. The book clearly knows he thinks that, which is why it's interesting and not a dealbreaker. It's just the thing I'll be watching.
+The heat. God. I've been waiting years for a book to do this properly. He asks for her safeword twice and tells her "I won't be upset. Tell me anytime." He goes around to her face and crouches upside-down to say *hi*. He asks "How's your back?" and she snaps "They're *fine*, Pace" and he smiles. He takes her heels off halfway through the scene, which nobody does. He leaves the water out. None of that cools anything down for me. It's the reason it's hot. Underneath all the control he's paying attention to her the whole time, and I've been hunting for exactly that since I left the mafia shelf.
 
-The bathroom section scared me, in a good way. She presses the bottle cap under her thumbnail where it'll hurt, and he takes the bottle without noticing. There's the eating stuff. Then the decision forms, "quiet as a deadbolt going over," that he gets the face and never her again. Meanwhile he's on the bed thinking it was a remarkably good evening. They're in the same room in completely different stories. And he respects the locked door because of some Daphne mistake, which is exactly why he'll never get past it. That's devastating.
+There was one place I nearly pulled back: "No. Not yet." Then the speech about the bench, ass in the air, begging. For about a paragraph I wondered whether this was the old thing again, the man who decides which of her pleases counts. I've been burned on that. What brought me back was that she'd had her word all along, he'd said it was fine to use it, and the book made it his choice to stop at the edge. And what he was holding out for wasn't really submission. It was the real her, and when she gave it he was moved, not smug. Then she came apart on the bench and cried, and I got a bit teary too.
 
-So now I'm reading the jacket differently. Randi got seen and couldn't stand it. Does she hand him Vee so somebody else can be seen in her place? Is that the "game"? I'm suspicious of both of them now, and I still really like him. I need to meet Vee.
+The bathroom scene is the best and worst thing in the chapter. I felt like I was in that mirror with her: "The face had just begged." She's terrified of being held while she's seen. And the bottle cap pressed under her thumbnail. I caught that, and it scared me. Then the deadbolt line: "not ever." She walks back out wearing the face, and he's sitting on the bed thinking it was a remarkably good evening. He's wrong, and he has no idea. That gap is going to hurt somebody, and I think it's going to be Vee.
 
-## Gate block
+I like Pace far too much already. The Daphne backstory, the way he won't knock on a locked door, him staying hard all night and setting it aside because "that's not what this night was for." I'm a little suspicious of how good he is. Is that the trap the jacket is warning me about? Randi is the one who interests me now. She shut herself away an hour after the best thing that ever happened to her, and the jacket says she's about to go and open someone else.
 
-**GATE 1 — The Bench**
+The text I'd send at 1 a.m.: *the man asked for her safeword TWICE and it was the hottest thing I've read in years. also the heroine isn't in chapter one?? also I think the friend is going to ruin everyone.*
 
-**DECISION:** CONTINUE
-
-**CAPTURE:** 9
-
-**NEXT:** 9
-
-**HEAT:** 3
-
-**ROMANCE:** 3
-
-**ALMOST-STOPPED:** "It was not the right *please* yet. It was still her *please*." That's the one moment where his control looked like it was writing over her instead of making room for her.
-
-**WHY:** The consent is real and constantly checked, the heat is huge, and the aftercare is lovely. Then the twist turns all of it into dread about Vee. I have to know what Randi does with the door she just locked, and what part I'm going to watch Vee play in it.
+GATE 1 — The Bench
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "No," he said. … "Not yet." For one beat I braced for him to be the man who decides which of her yeses is real. The safeword he'd already given her, and the tenderness right after, brought me back.
+WHY: This is the heat I left the genre to find: dominance that keeps checking on her, aftercare that's real, and her desire written from the inside in the bathroom mirror. Then it turned out the woman on the bench wasn't the heroine but one of the people with the plan, and she's just locked a door he doesn't know about. I'm reading on tonight.

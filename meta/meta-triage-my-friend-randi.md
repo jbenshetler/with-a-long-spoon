@@ -159,6 +159,14 @@ CAPTURE 8–10, NEXT 9–10; sol and gemini both 10/10 on both lanes.
   also preserves **"the other thing" as Vee's own refusal to name it**, which naming
   it a clause later undid. The shame→heat wiring is established elsewhere, so "as it
   always did once the shame was lit" was telling what the book had already shown.
+- **REVERSED 2026-10-11 (author): the full :115 sentence is restored.** The trim
+  went to one reader against a Protected positive. Before the cut, 6/6 cold reads
+  quoted and praised the clause, seven capture gates praised it (several only by
+  paraphrase: "the heat came up through the mortification", "sharper for it"),
+  and all eight authorship audits cited it, five quoting the whole sentence with
+  "as it always did once the shame was lit". The complaining model's own
+  romance-graduate gate called it "the mechanism". Cuts now run
+  `tools/praise_check.py` first.
 
 ### Left standing — do not re-litigate
 

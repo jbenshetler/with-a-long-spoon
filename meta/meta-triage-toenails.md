@@ -105,3 +105,7 @@ All six remaining hits acked; chapter closes at 0 active hits.
 - `the-way` `:3` (`#3fa14975f14e`), `:9` (`#fcd6bccc2ecd`), `:21`
   (`#e032a1da394a`), `:21` (`#bbc7d7c99a04`) — the bookend, the literal
   false positive, the ladle, and the believed-line. Rationale above.
+
+## Restored (author 2026-10-11, praise sweep)
+
+- :21 "It was a kindness. She believed it the way you believe the thing that lets you keep what you want to keep." restored (cut 4da9f20b). ~11 readers praised it, one complained; this doc already called it the most-praised line. Cuts now check praise first (`tools/praise_check.py`). Do not re-cut.

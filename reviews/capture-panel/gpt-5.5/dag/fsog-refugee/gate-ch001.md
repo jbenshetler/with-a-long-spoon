@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0b45bf3de07d · 2026-10-01*
+*capture-dag-v2-rich · gate ch001 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1ce31b5230a8 · 2026-10-11*
 
 REACTION —
 
-Oh. Well. That certainly knows what shelf it is on.
+Oh. Okay. So we are starting *inside* the thing, not doing coy campus setup first. I felt dropped straight into a room where everyone already has history, and honestly, I was in it embarrassingly fast. The apple slices got me before the bench did. That is exactly the sort of attention I read for: not just “he wants her,” but he knows the ridiculous tiny private rules of her body, the safe foods, the cut sides, the way she will eat if he makes the wanting easier. That kind of care is dangerous to me in the best way.
 
-I’m caught in two places at once, which I think is exactly where the book wants me. The heat worked on me because Pace is so attentive. Not just “dominant” in the cardboard way, but watching, calibrating, stopping, checking her shoulders and hands, asking for her word, letting her have the bathroom door. That matters to me. The apple slices got me almost as much as the bench, honestly — he knows she’ll eat them thin, knows which side up, knows the shape of her shame around food and doesn’t make a lecture out of it. That is the kind of focus I came for.
+And Pace. I am already watching him like a hawk, because this genre has trained me to distrust any man with a plan and a custom-built piece of furniture. But the chapter kept giving me the thing I want and almost never trust books to give me: dominance that keeps checking for the person inside the scene. The “tell me your word,” the “tell me again if you forget,” the way he stops to ask about hands and shoulders, the way he doesn’t open the bathroom door. That last part mattered a lot. The scene itself was scorching, yes, but the closed door was where I exhaled. He could have made her feelings part of his possession of her, and he didn’t. He waited.
 
-And the bench scene is very much my thing: ritual, slowness, his control making an event out of her consent and her body. The safe word beat landed. The “tell me again if you forget” landed. The care afterward landed. I felt looked after as a reader, even while she was being pushed hard.
+But Randi. God, Randi scared me. Not because of the scene. The scene felt consensual and held and intensely wanted, even when it pushed her somewhere raw. What scared me was after: the face going back on. The smile settling. That was awful in a way I loved, because I believed it. She got what she wanted, or something beneath what she knew how to want, and then immediately treated being known as the emergency. That is so much more interesting to me than simple shame. She is not thinking “he hurt me.” She is thinking “he saw me.” And somehow that is the unbearable part.
 
-But I’m also uneasy in a good/bad way. Because Randi is not Vee, and the jacket has me braced for a secret game around Vee, and now I’ve started with Randi being absolutely cracked open by him and then immediately hiding the real wound from him. That bathroom section hurt. It made the sex retroactively sadder and deeper: she wanted it, yes, but being seen felt almost more dangerous than pain. I believed that. I hated it for her.
+Also, I kept feeling the jacket hovering over this. Vee isn’t here yet, or at least not in the room, and suddenly I understand the problem differently. Randi is not just the glamorous friend with a wicked little plan. She is already split open and lying to herself before Vee even enters the story. That makes the whole promised setup feel less like two sleek manipulators playing with a girl and more like a disaster with three hungry people pretending they know what they’re doing. Which is exactly the kind of mess I will stay up too late for.
 
-The line that snagged me hardest was him thinking it was a remarkably good evening while she is already building the wall back up. Not because he’s cruel. Almost worse: because he’s tender and wrong. He thinks he found her and answered her, and maybe he did, but she experienced being found as a kind of emergency. That is deliciously troubling.
-
-I would absolutely text someone, “This man sliced her apple correctly and then emotionally destroyed her with a custom sex bench.” Which sounds ridiculous, but there it is.
-
-I’m continuing. I’m wary of the jacket’s promise that “nothing was taken” because secrets can still curdle consent for me, but this chapter bought a lot of trust by making consent explicit and making aftermath complicated instead of pretending intensity fixes everything.
+The heat was extremely high, but it worked on me because it had tenderness braided all through it. The forehead kiss upside down. The water bottle. The blanket she brought because he noticed she gets cold. Him still hard and deciding, simply, that this night is not for that. That is the stuff. That is the difference between “control” and “using her.” I am nervous, though. The jacket says there is a secret choice made about Vee, and after this chapter I am primed to be furious if Pace and Randi use what they know about hunger to steer a woman who does not know the game. But I am also absolutely reading on, because the book seems to know that is the wound, not a loophole.
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 8
+NEXT: 9
 HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "There you are, Randi."
-WHY: I almost flinched there because it was beautiful and invasive at the same time, and the chapter knew it. The heat was intense, but what really got me was the care threaded through the control, and then the awful private mismatch afterward: he thinks tenderness is welcome, and she can barely survive it.
+ROMANCE: 3
+ALMOST-STOPPED: "Facedown on a bench in a man's house,"
+WHY: That line came closest to tipping into humiliation I would not want to be asked to eroticize, but the chapter had earned enough trust around it, and Randi’s reaction made it feel like exposure rather than cruelty. The heat was intense, but the tenderness after was what made me want the next chapter immediately. I am already worried about the secret plan, but in the useful “oh no, show me” way.

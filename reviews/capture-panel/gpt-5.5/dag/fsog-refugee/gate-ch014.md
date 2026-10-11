@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch014 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ad586c6027a2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch014 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f069f89a5632 · 2026-10-11*
 
-REACTION — Oh, Randi. That was the first chapter where I really felt how much she can break something by refusing to admit what she wants.
+REACTION — Oh, that one hurt in a way I wasn’t expecting. Not because it wasn’t hot. It was absolutely hot, but the heat had a serrated edge this time. Randi coming in like that, not even hanging her coat on the chair, not even letting him answer, just needing the story through his body — I felt the urgency and I also felt the panic under it. She did not come to hear about Vee. She came to take Vee from his mouth and make herself the place it landed.
 
-I was braced for the hike aftermath with Vee, and instead the book turns the lens onto Pace and Randi, and it lands nastier because it is not “nasty” on the surface. It is sex, it is familiar, it is hot, they know each other’s bodies, she comes in like a storm and takes what she needs. But the whole thing is built around Vee as the match head. Randi does not really want to hear how the hike was. She wants Pace’s mouth giving her pieces of Vee she can survive wanting because he is the one saying them. “Her hair smells sweet.” “Her stomach is soft.” God. That hit me low and wrong and hot at the same time.
+And Pace. I am surprised by how much I felt for him here. He’s been so controlled through Vee’s chapters that seeing him hungry, cold, bewildered, and then left standing in the doorway made him suddenly much younger to me. Not less dominant, exactly, but less godlike. He knows how to read a woman’s body when she is offering him something, but he does not know how to read Randi’s flight. That matters. He thinks it is want too large to rest under, and maybe it is, but I think it is also jealousy, fear, shame, the whole unspoken shape of wanting Vee and wanting “us” and not knowing whether that means three people or whether she is already losing the dyad she had.
 
-And Pace keeping the truck moment back mattered to me. I liked him for it. I needed him to keep something of Vee’s private, because that scene in the truck felt like Vee handed him something very particular and alive, and if he had just fed the whole thing to Randi I might have slammed the book shut. He doesn’t fully understand Randi here, but he does understand that some things belong to Vee. That is keeping me with him.
+“I want us” got me. That is the whole chapter for me. Because it lands during sex, yes, but it is not simple. It sounds like a plea, a claim, a panic button, a fantasy. She wants herself and Pace and Vee, but she also wants the old “us” not to be changed by what they started. And Pace hears it like a blessing, like the first swallow of something, while I’m sitting here going, sweetheart, that sentence has teeth.
 
-Randi, though. The “I want us” is the most honest thing she says and also maybe the least examined. I felt her want Vee so sharply in this, but she still makes it into “us” with Pace, not “I want her.” Then she comes, gets dressed, and leaves before there can be warmth, before Pace can ask anything real, before he can tell her anything that might make Vee a person instead of a charge running through their bed. That leaving felt crueler than the sex, honestly. Not theatrical cruelty. Just abandonment with lip gloss on.
+The thing I loved most, and the thing that made me most uneasy, is that Pace keeps Vee’s privacy even while feeding Randi exactly enough to undo her. He tells her scent, hair, softness, but he does not say the truck. He keeps the private gift private. That made me trust him more, which is dangerous because the original plan is still dishonest. But I needed him to have that line, and he did.
 
-I am worried now in a more adult way. Not “is Pace going to push Vee?” because so far he keeps earning my trust in the moment. I’m worried that Randi’s shame and hunger are going to make her careless with both of them, and that Pace is too willing to translate distress into desire because desire is the language he knows how to answer. He noticed she left, and it hurt him, but he still couldn’t quite read it. That made me ache for him too, which annoys me because he helped build the trap.
+Randi leaving after, though. That was the real cold. She has always stayed. The blanket, the shiver, the bright “I’m good,” the quick exit — that felt less like satisfaction than escape. I wanted to catch her by the shoulders and say: you are allowed to want the girl. You are allowed to be scared. But you are not allowed to keep using everyone’s tenderness as a room you can run from after you set it on fire.
+
+I’m still reading. Very much. But this chapter shifted my worry. I was worried Pace and Randi would use Vee. Now I’m worried Randi is going to break all three of them because she cannot bear the truth of her own wanting.
 
 GATE 14 — Swim Lanes
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
 HEAT: 3
-ROMANCE: 1
-ALMOST-STOPPED: “Her stomach is soft.”
-WHY: This was hot, but the heat had teeth in it, and I was watching the line hard. Pace protecting Vee’s private moment kept me from leaving; Randi leaving afterward made me want the next chapter because now something is truly wrong between the people who think they are steering this.
+ROMANCE: 2
+ALMOST-STOPPED: "She had asked him how it was. He had never got to that, and she had not asked again."
+WHY: The sex was scorching, but what really pulled me was the emotional mess under it: Randi wanting Vee through Pace, Pace protecting Vee without fully understanding Randi, and that awful little aftermath where he realizes she did not want to stay. I’m uneasy, but in the useful way — I want the next chapter now because something real just cracked.

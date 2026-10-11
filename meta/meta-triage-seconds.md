@@ -111,3 +111,7 @@ True line-edit pass (report in chat; no report file — single-chapter mode).
   coda structure, the single retained prophetic *would*, and specifically
   ":65 sun coming up" are all ruled left-standing above (line audit 2026-08-03
   + cold-read pass 2026-07-30). Not re-litigated.
+
+## Restored (author 2026-10-11, praise sweep)
+
+- The "She would not bring the sentence back… The cracker-and-meal would not return to her speech." paragraph restored as the chapter's close, and the porch fragment folded into :61 removed (cut 4da9f20b). ~13 readers praised it, one complained. Cuts now check praise first (`tools/praise_check.py`). Do not re-cut.

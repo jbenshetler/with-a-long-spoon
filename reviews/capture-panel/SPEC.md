@@ -1148,3 +1148,15 @@ that model's romance-graduate ck-ch060 under a `borrowed seed` header; read with
 (it needs gates 61–69, which these lanes don't have), so no queer-woman ck-ch070
 exists — the intended outcome.
 Same technique for **ch071 Boyfriend** (2026-10-11): borrowed romance-graduate ck-ch070 per model, `--from 71 --to 71`; one read each, no mint.
+
+## gpt-6-astra excluded from evidence (author ruling 2026-10-11)
+
+Do not run or weigh `gpt-6-astra` gates. It is a super-complainer: on `low` effort it
+behaves like other models at high or max reasoning, so its complaints are not
+comparable with the panel's. Its existing gates stay on disk as history.
+
+## ALMOST-STOPPED at a 9 or 10 (author reminder 2026-10-11)
+
+An ALMOST-STOPPED attached to a CAPTURE of 9 or 10 often marks the chapter's most
+impactful sentence rather than a defect: the reader names the line that hit hardest.
+Read the quote and the reason before treating it as a complaint.

@@ -183,3 +183,7 @@ passes did not overlap.
   naked" at `:195`); the third finger was the only uncontracted one, reading
   as a slip rather than mock-formal bit. Does **not** disturb the standing
   "living room" verdict above, which is about the setting word.
+
+## Restored (author 2026-10-11, praise sweep)
+
+- :69 restored to "He turned it up hours before, probably. As soon as he knew I was coming. He thought of it then." (cut 4da9f20b). ~8 readers praised it, one complained. Cuts now check praise first (`tools/praise_check.py`). Do not re-cut.

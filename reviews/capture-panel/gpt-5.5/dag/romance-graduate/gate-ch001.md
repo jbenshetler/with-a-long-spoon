@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0b45bf3de07d · 2026-10-01*
+*capture-dag-v2-rich · gate ch001 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce31b5230a8 · 2026-10-11*
 
-REACTION — Oh. Well. That is one hell of a first chapter.
+REACTION — Oh.
 
-I went in braced for “spicy dark academia-ish manipulation setup,” because the jacket basically tells me I’m supposed to know more than Vee does, and then the book swerved and gave me Pace and Randi already deep into something, and I was immediately interested. Not because I’m invested in them as an endgame, exactly. More because the scene has that rare thing where the heat is not floating free of character. Every touch is information. The apple slices, the way he knows what size she’ll eat, the unlocked door she locks, the fake table, the way she tries to keep the pretty social self intact until the bench takes it apart — all of that got under my skin.
+Well, that is one hell of a first chapter. I actually had to sit back for a second because I thought I knew what kind of “planned seduction” book I was opening, and then it handed me Randi first, not Vee, and made that choice feel nasty and smart and intimate in a way I am absolutely going to keep reading to understand.
 
-And yes, it’s hot. Very hot. But what made it work for me was that the erotic charge kept turning psychological instead of just escalating mechanically. The bench is obscene, but it’s obscene because it has been built around knowing her. That is intimate in a way that made me a little breathless and also wary. Pace is careful, observant, patient, almost painfully controlled, and I can feel why that would undo her. I can also feel the danger in how much he thinks he understands. His tenderness is real, I think. His arrogance is also real. That combination is exactly the kind of thing that makes me keep reading with one eye narrowed.
+The heat works for me because it is not just “here is a spanking bench, enjoy.” It’s all appetite and control and being known in humiliating detail. The apple slices. The thinness of them. The way he knows what she’ll permit herself. The waiting. The difference between the first “please” and the one that actually breaks out of her. That got me. That is exactly the kind of explicitness I’m always hunting for: not coy, not mechanical, not body-part bingo, but charged because something emotional is being dragged into the light.
 
-Randi wrecked me more than I expected. The bathroom section is where the chapter stopped being just good heat and became the thing I’m always hoping these books will do: sex as revelation, and revelation as a problem. Her face as a decoy. Her beauty as insulation. The terror of being loved or even held after being actually seen. That felt brutally true. I believed her shutting the door. I believed the little lock click. I believed her putting the face back on.
+And then the aftercare scene turns the knife. Because Pace is attentive, careful, almost devastatingly gentle, and also he is wrong. Not cartoon-villain wrong. The more dangerous wrong, where he thinks he understands the meaning of what happened because he was tender while doing it. I was completely with him inside the scene, which is uncomfortable to admit, and then the bathroom section reoriented the whole room. Randi looking in the mirror and putting the face back on? That made my stomach drop. “The face was good at lying” is the part I’d text someone at 1 a.m. like: okay, this book is going to hurt me.
 
-I’m also deliciously suspicious now because the jacket is about Vee, and this chapter is Randi. So now I’m thinking: oh, this is not just “glamorous friend pulls innocent girl into a game.” Randi has already been cracked open by Pace, and maybe she is going to turn around and do something to Vee with all that unresolved pressure humming in her ribs. That is much more interesting and much messier than I expected.
+I’m also very alert to the jacket now. If Randi is the glamorous friend who steers Vee toward Pace, then this chapter is showing me the origin wound, or one of them. It makes the whole “game” feel less like a sexy conspiracy and more like people using erotic intelligence to avoid their own terror of being known. Delicious, but also deeply not safe. I mean that as praise.
 
-What I’d text a friend at 1 a.m.: “Okay this book is FILTHY but also unfortunately emotionally literate. He built her a spanking bench disguised as a table and somehow the scariest part is when he calls her beautiful.”
+The only place I came close to pulling back was the sheer sustained intensity of the scene. It’s a lot for chapter one, and in a lesser book I’d suspect shock value. But this doesn’t feel empty. It feels like the book is saying: no warm-up, this is the depth of water. Fine. I’m in.
 
 GATE 1 — The Bench
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 9
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "The scent of her began to reach him, unmistakable, the sea in it."
-WHY: That one image made me wince a little because it brushed close to the kind of phrasing that can throw me out, but the chapter had more than earned my trust by then. I’m absolutely continuing: the heat landed, the interiority landed harder, and I need to know what Randi does with that locked-door part of herself.
+ROMANCE: 2
+ALMOST-STOPPED: "Facedown on a bench in a man's house,"
+WHY: That line could have tipped into ugly in a way I didn’t want, but the chapter knew exactly how charged and dangerous it was. The heat pulled hard, but the bathroom aftermath is what locked me in; now I need to know what Randi does with this and how Vee gets drawn into the blast radius.

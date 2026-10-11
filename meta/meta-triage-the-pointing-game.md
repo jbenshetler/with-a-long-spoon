@@ -503,3 +503,7 @@ recurring move wants one marker, not invented variants.
 ruling documents — settled rulings quoting prose the 2026-10-09 pass changed. Pre-existing
 and expected after a pass that size; re-read them before trusting their verdicts. Error
 lint clean, `echo_harvest` 0 candidates, no new lint hit from the cue.
+
+## Restored (author 2026-10-11, praise sweep)
+
+- :49 "The same act. A different owner." restored (cut 074a6381). ~35 readers had praised it, ~20 verbatim, against four complaints; it had been protected twice. Cuts now check praise first (`tools/praise_check.py`). Do not re-cut.

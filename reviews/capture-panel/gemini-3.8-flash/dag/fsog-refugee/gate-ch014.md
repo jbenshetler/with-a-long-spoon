@@ -1,22 +1,18 @@
-*capture-dag-v2-rich · gate ch014 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ad586c6027a2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch014 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f069f89a5632 · 2026-10-11*
 
 REACTION
 
-*Oh, Randi.*
+Oh, Randi is *sick*. She is physically, profoundly sick with this, and she thinks she can just screw it out of her system on top of him.
 
-Oh, this poor, reckless, unraveling girl. That hurt to read. That was scorching hot, and it absolutely broke my heart.
+The whiplash between Chapter 13 and Chapter 14 gave me genuine chills. We just left Vee sitting in an oversized flannel shirt, glowing, feeling completely cherished and seen because this man stood out in the freezing rain to give her dignity—and then we cut straight to Randi barging through his door, tearing his clothes off, demanding a sensory debrief like a junkie needing a fix.
 
-Look at what she did here. She races out to his house the second he gets back from the mountain, practically vibrating with this frantic, desperate need. She throws him onto the bed, she takes off her own clothes like they’re on fire, she rides him with this frantic, almost violent intensity—and the entire time, she is demanding to be fed Vee. *“Tell me.”*
+*"Tell me."* And Pace gives it to her! He feeds her Vee's scent, the chlorine, the musk, the gardenia. But then—and this is what made my stomach drop and twist in the best, darkest way—he tells her *"Her stomach is soft,"* but *he doesn't tell her why he knows.* He kept the rain. He kept the unbuttoned shirt in the cab. He kept Vee giving herself to him for *himself*. Randi thinks she owns the whole game, but Pace is already building a secret room inside of it that Randi isn't allowed into.
 
-And Pace, sweet, terrifying, mathematically precise Pace, gives her just enough to completely destroy her. *“Her hair smells sweet… and under it, faint—chlorine.”* *“Her stomach is soft.”*
+And Randi felt it. You could see the exact moment the wire snapped in her head. That clench, the nails digging into his chest, riding him with that frantic, desperate violence, trying to fuck the ghost of Vee out of the bed—or trying to fuck Vee through him, I honestly don't know which is worse. *"I want us,"* she says, torn out of her, and it sounds like someone screaming from the bottom of an elevator shaft. She knows she's losing. She set this entire nightmare in motion to feel safe, to outsource her forbidden desires, and now it's an avalanche rolling right over her.
 
-He doesn't tell Randi about the cab. He protects that. He keeps the sacred, intimate heart of Vee unbuttoning her shirt in the rain entirely for himself—because of *course* he does, he’s Pace, his restraint is steel. But just hearing that he knows what her stomach feels like? Randi literally clenches around him so hard he says her name. That wasn’t just arousal. That was agony. That was the sickening, beautiful collision of her covert, forbidden lust for Vee and the absolute terror of realizing she is actively engineering her own replacement.
+And then she gets up and leaves. She doesn't even stay the night. She puts her armor back on—the skirt, the silk, the cardigan—and runs. She is starving, she is freezing, and she leaves him standing in an empty doorway with his own hunger.
 
-She wanted to believe she was the puppet master. She thought this was a kinky little game where she gets to stay safe behind her Standards-board armor, pulling the strings, getting off on the voyeurism, maybe sliding in for a thrilling threesome later. But when she was riding him, that line she gasped out into his ear—*“I want us”*—was a plea. It was a dying gasp. She feels the ground slipping out from under her. She feels Pace drifting toward Vee’s softness, Vee’s realness. Randi starves herself on beet juice and egg whites and tight wool skirts, and Vee is up on a mountain eating dark rye and spitting cherry pits, completely unashamed of her appetite, unbuttoning her shirt just to be seen. Randi *knows*. She knows the difference between performance and truth, and she knows she’s the one performing.
-
-And then she leaves. The fact that she didn't stay the night—that she pulled her armor right back on, zipped the skirt, gave him that bright, sociopathically polite sorority kiss, and drove away in the dark—chilled me to the bone. She couldn't bear to lie in that bed with him after using Vee as fuel. She had to run before she broke down and showed him how weak she actually is.
-
-And Pace standing in the open doorway, bewildered, feeling that cold spot in his chest because he truly doesn't understand the monster they’ve built? Chills. He is brilliant, but he is completely blind to the depth of the collateral damage coming for all three of them. I am completely hooked.
+Pace thinks it was just "the want," because for all his terrifying emotional intelligence, he still has that blind spot. He thinks he can calculate people like equations. He doesn't see that Randi is utterly unraveling. Meanwhile, poor sweet Vee is back in her dorm falling hopelessly in love with a man who is currently washing another woman's sweat off his sheets. The psychological tension here is unbearable. I am glued to the page.
 
 GATE 14 — Swim Lanes
 DECISION: CONTINUE
@@ -25,4 +21,4 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological friction here is exquisite—Randi is burning alive in a fire she built herself, using Vee’s memory as an aphrodisiac while actively drowning in terror over being replaced.
+WHY: The dark, frantic psychology of this chapter was breathtaking. Watching Randi use Pace's body to process her sickening obsession and jealousy over Vee—while Pace quietly holds back the truth of what happened in the truck—is masterclass tension. I have to see the fallout.
