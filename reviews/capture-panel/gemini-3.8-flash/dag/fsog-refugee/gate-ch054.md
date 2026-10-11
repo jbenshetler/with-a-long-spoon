@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6f06b049957f · 2026-10-09*
+*capture-dag-v2-rich · gate ch054 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8219a10af610 · 2026-10-11*
 
 REACTION:
 
-Oh my god. My hands are actually shaking.
+Oh my god. *Oh my god.* My chest is so tight I can barely breathe.
 
-I am so torn in two directions right now I feel like I’m going to throw up. On the one hand, *Vee*. My sweet, starved, desperately heartbroken girl who just spent a month in a cold room with lavender plug-ins feeling like a ghost, coming back to campus completely wrecked. And who does she run to? The spider. She runs right into Randi’s parlor, and Randi is *so good at what she does*. That whole sequence on the bed was terrifyingly brilliant. Randi didn’t lie—that’s the sick part! Randi dismantled Vee’s fears about an imaginary blonde by using the absolute truth of how Pace operates, breaking down the fight, validating how cornered he felt, and then handing Vee the exact script to go surrender completely: *Nothing under the coat. And these shoes.*
+This entire chapter felt like standing on a train track watching two locomotives barreling straight toward each other in dead silence. The sheer dramatic irony of Randi—who was literally bent over Pace’s furniture while he talked about Vee’s wet hair—sitting on that bed, sweeping her designer clothes to the floor, and actively coaching Vee on how to surrender to him? *"A peace sign he can't misread."* A coat and nothing under it. Stiletto cage-heels that climb to mid-calf. She is literally dressing Vee like an erotic offering, handing over the exact weapons of surrender, and sending her straight into the lion’s den!
 
-Randi literally handed her stilettos that ladder up the shin like a harness, talked her out of her shame (*"That’s the bravest thing a woman can do"*), and essentially prepped her to go be served on a platter to the man *they are both sleeping with*. And Vee doesn’t know! Vee thinks this is pure female friendship, sisterhood, solidarity. It’s so intimate and so deeply corrupt.
+And the psychological manipulation of it made me want to scream and weep at the same time. Randi breaks down Vee’s entirely justified walkout—the fact that Vee had the courage to demand a name and refuse to settle for scraps—and completely rewrites it into Vee’s fault! *“You backed him into a corner in his own house… you blindsided him with a fight.”* She took Vee’s spine and convinced her it was an act of cruelty! Vee was in agony, raw from weeks in that suffocating childhood room, starved for touch and reassurance, and Randi systematically dismantled her defenses until Vee felt like *she* was the one who owed him an apology. And what is Vee’s apology supposed to be? Absolute, total, voiceless sexual submission. Stripping away the words completely. Handing him her naked body on his porch so he doesn't have to face the terror of speaking. It makes me sick, and yet—god forgive me—the sheer erotic charge of Vee standing there holding those heavy, strappy black heels, feeling her nipples tighten through her shirt, knowing exactly what she’s about to go do… it is suffocatingly hot. It’s filthy and it’s tragic and I hated how badly I felt it.
 
-And then. *AND THEN.*
+And then the front hall. *That kiss.*
 
-Vee is at the front door under the composites, overwhelmed by gratitude, and she turns around. She doesn't just take the goodbye kiss like she usually does. She takes Randi's face in both hands and *kisses her*. A real, deep, staying-in-it kiss until the thing in her chest has somewhere to go.
+Vee turning back from the latch, overwhelmed by a tenderness she doesn’t even know how to categorize, taking Randi’s face in both hands and kissing her on the mouth until her own chest stops aching? I gasped out loud. Randi standing there afterward in the empty foyer, pressing the back of her hand to her lips like a stunned fifteen-year-old—Randi, who thought she was the puppet master, suddenly realizing the strings are tied around her own wrists too!
 
-I stopped breathing. The way Randi stood in that empty foyer with the back of her hand pressed to her lips, laughing that idiotic, breathless little laugh because Vee finally, *finally* initiated—it was breathtaking. Randi has been orchestrating this whole puppet show, feeling smug and in control, and one genuine, unprompted kiss from Vee blew her entire circuit breaker.
+And Brooke! Brooke stepping out with that deadly, sorority-president velvet dagger: *“You remember Lauren Pike… You’ve got a position in this house, and you’ve got her. You need to choose.”* The sheer social surveillance of that world, the sharp little threat wrapped in pastel smiles and faux-sisterhood.
 
-And then Brooke! Brooke coming out of nowhere with that polite, razor-sharp Southern sorority execution: *“Play all you want, privately, or for the boys... You’ve got a position in this house. You need to choose.”* Holy shit. Brooke saw them. Brooke knows the game, but she also sees that this isn't just drunk sorority-girl playing anymore. There's real feeling leaking out, and in that world, real feeling is a liability.
-
-Now Vee is going back to her dorm to sleep, shower, and put on those lethal heels and a coat with *nothing underneath* to drive out to Pace's house. After Pace spent the entire last chapter sobbing into his cold chicken because he thought he lost her forever.
-
-When that door opens tonight? It is going to detonate. I need the next chapter right this second.
+Vee is on her way to sleep off the flight, and then she is putting on those cage-heels, wrapping that coat around her bare skin, and driving to that house. Pace is sitting out there recovering from weeping over his cold chicken and broccoli, half out of his mind with grief and guilt. When that door opens tonight, it is going to detonate. I can't look away. I need the next chapter this second.
 
 ***
 
@@ -27,6 +23,6 @@ DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 2
-ROMANCE: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight it's humming—Vee kissing Randi unprompted completely shattered Randi's cool facade, and now Vee is heading to Pace's porch in nothing but a coat and those heels. I am on absolute fire to see that door open.
+WHY: The dramatic tension is unbearable in the best way possible. Watching Randi weaponize Vee’s vulnerability to choreograph her naked surrender to Pace—while Vee is completely oblivious to their affair, and Randi is quietly falling apart over Vee kissing her under the composites—is breathtakingly high-stakes drama. I have to see Vee open that coat at his door.

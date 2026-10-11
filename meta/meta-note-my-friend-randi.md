@@ -262,3 +262,23 @@ rumor already a joke on the row, and an officer with a girl would make it true. 
 the composites' fifty years (that displaces it from the girls in the house now), not
 a dance (pre-spends {{On Her Floor}}), and not *the right men marry*. *"And you've
 got her"* makes "position" mean standing, not power.
+
+**Revised the same day (author 2026-10-11)** — the re-read showed most lanes hearing the
+prejudice, but gpt-5.5 romance-graduate still heard "house politics" and fable
+romance-graduate found the stakes stated "a little on the nose." Now:
+
+*"Ninety girls under one roof, honey. Every boy on the row thinks he knows what goes on
+upstairs. Let him think it's funny. The day he thinks it's true—" She let that one go.
+"You remember Lauren Pike. Nobody asked her to move out. You've got a position in this
+house, and you've got her. You need to choose."*
+
+- **The patriarchy link is the point of the boys.** Randi may have her pleasure privately
+  or perform it for the boys; she can't *mean* it. Meaning it risks marrying the right
+  man — for every girl in the house, not only Randi — and the donations of the mothers
+  and the graduated sisters (the composites). This supersedes the first note's *"not the
+  reputation the right men marry."* The stakes stay **unspoken**: Brooke breaks off, in
+  her mode (*"If she looked at me like that—"*), because Randi has lived in the house
+  four years and needs nothing explained.
+- **Lauren Pike** (new canon): a former sister who left the house under this pressure.
+  Nobody asked her to go. She shows the pattern, and that the penalty is functional and
+  real, not a threat.

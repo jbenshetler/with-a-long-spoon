@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 122f2504f31e · 2026-10-01*
+*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f826ef7f399d · 2026-10-11*
 
-REACTION
+REACTION — God, this was hot, and I am furious.
 
-Oh, that was hot. The heels going on first because they were almost the only thing she was wearing, Vee looking at herself and seeing “ready” where she used to see shame, winding herself up and deliberately leaving it for Pace—yes. That is her desire from the inside, chosen and enjoyed and almost playful. I loved her giggling alone in the dorm. I loved that she could finally look at all the “too much” of her body and think, I am going to use this because I want to. That part belonged completely to her.
+Vee making herself ready was exactly the kind of desire I read for: hers from the inside, deliberate, shameless by degrees. The heels going on first because they were almost the only thing; looking at her own body and finally seeing “ready” instead of her mother’s insult; winding herself up and choosing to carry all that wanting to him unfinished—I felt every bit of it. She wasn’t being acted upon. She wanted to arrive like an answer. Pace seeing her, losing the wall completely, going to his knees in the open doorway—I am not made of stone. The cold on her wet skin, his mouth, the coat flying around them, the frantic failure to reach the bedroom: scorching.
 
-And when he opened the door—God. The formality falling straight off his face. “Like a starving man” and “like a man just told he is forgiven” being the same look absolutely got me. Him pulling her bodily into the house, going to his knees in the open doorway, the cold on her wet nipples while his mouth was hot between her legs: that is exactly the kind of overwhelming, wholly focused intensity I read these books for. Then the frantic, graceless sex because neither of them could possibly make it to the bed felt earned after all that absence. I believed every second of how badly they had missed each other.
+But she should never have been made into the answer to a question Pace refused to answer.
 
-His head on her breasts afterward nearly undid me. Again, that is where he goes for comfort, not merely where he goes because her body excites him. And then pancakes at midnight, the blanket tucked around her, the shoes ordered to stay on, his cracked “I missed you so much”—I melted. He finally gave her an unqualified emotional sentence. Not the sentence she asked for, but a true and vulnerable one, and I felt what it gave her.
+Randi took Vee’s completely legitimate demand for clarity and recast it as Vee “blindsiding” and cornering him. Then she gave Vee a sexual peace offering specifically designed to end the conflict without words. And it worked. That is what sickens me. Vee had finally said, not the hand in place of the word, and this chapter gave her his mouth in place of the word, his body in place of the word, pancakes in place of the word—and then told me she had everything she came for.
 
-But I am also furious, because the chapter knows exactly what bargain just got made and lets Vee call it enough.
+No, she did not.
 
-She did not go there because she independently decided her demand for a name was mistaken. Randi took a devastated, sleep-deprived Vee, concealed everything she knew, falsely assured her that Pace could not have another woman, recast Vee’s entirely legitimate request as an ambush, and told her to answer the conflict with her naked body because “words are the whole war.” That is not friendly reassurance. It is Randi steering Vee back into the arrangement Randi wants while withholding the fact that she herself is the other woman. “That is not a man with another woman” is an outrageous thing for her to say when she knows Pace does, in fact, have her.
+Pace’s “I’m sorry” and “I missed you so much” got me because they were real. His face cracking open, the forehead kiss, making her food at midnight—there is the man I love, and I believe every ounce of his pain. But he still did not say he loves her. He did not tell her why he froze. He did not tell her about Daphne. Most unforgivably, he did not tell her that the woman whose shoes she wore to seduce him is his lover and helped engineer this reunion. Vee walked into that house carrying Randi’s concealed agenda literally strapped to her feet.
 
-And Vee’s body worked exactly as Randi knew it would. Pace never had to answer. He never apologized for folding his arms, never named what she is to him, never told her about Randi, and never even had to say that he wanted to try. She showed up naked, and he read it as forgiveness. Worse, she read his desire and care as the answer to the question she had finally been brave enough to ask. “There was no room in her for wanting anything he hadn’t given” made my heart sink, because there absolutely should still be room. She can have the sex and pancakes and his cracked-open face and still deserve the truth.
+And “nothing needed saying now” made my stomach drop. Something desperately needs saying. Sex has once again made Vee feel so full that she cannot feel the absence of the truth. That is anesthesia, exactly what she had recognized and refused in December. The book can let her believe it tonight—of course she believes it, because she is relieved and loved and fed—but it cannot ask me to believe it with her.
 
-So yes, I was intensely turned on. Yes, I cried when he said he missed her. Yes, I am delighted that she came home glowing in his enormous sweats and those absurd heels. But I am not fooled by the happy landing. The reconciliation is emotionally real and relationally counterfeit. Vee offered her whole naked self as a peace sign for asking a fair question, while Pace and Randi kept the decisive truth between them. I want the next chapter badly because this cannot be allowed to stand as the solution.
+Also, touching herself while driving was terrifying rather than sexy. The cruiser scare should have ended that immediately; she could have killed herself or somebody else. I wanted her safely at his door, not escalating recklessness as proof of desire.
+
+I’m continuing because the reunion is too charged to leave me cold, and because Cassie is back in the room now. But the reckoning has become urgent. If this is presented as the resolution instead of the last beautiful, terrible evasion before disclosure, the book is about to lose me.
 
 GATE 55 — Nothing Underneath
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: “You don't do it with words. Words are the whole war.”
-WHY: The doorway scene gave me the heat, hunger, tenderness, and total focus I came for, and Pace’s broken “I missed you so much” reached me completely. But Randi maneuvered Vee into apologizing with her body so Pace could receive forgiveness without giving truth, and I need to see the book reckon with that.
+ALMOST-STOPPED: “and said nothing, because nothing needed saying now.”
+WHY: The heat and tenderness absolutely worked on me, but the emotional structure frightened me: Vee’s body has been used to close the question her words opened. I need the next chapter immediately because this cannot be allowed to stand as the answer.
