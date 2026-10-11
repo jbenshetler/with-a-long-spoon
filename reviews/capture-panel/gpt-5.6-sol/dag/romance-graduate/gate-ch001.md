@@ -1,16 +1,16 @@
-*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha c1b281036556 · 2026-10-11*
+*capture-dag-v2-rich · gate ch001 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha da6416f91a8c · 2026-10-11*
 
-REACTION — Oh, this book knows exactly what kind of trap it sold me, and apparently I am going in willingly.
+REACTION — Oh. Oh, this is nasty in exactly the way I wanted.
 
-The Randi reveal got me. I had settled so completely into assuming this was Vee’s first encounter with Pace that “There you are, Randi” felt like the floor dropping out—not gimmicky, either, because suddenly the whole chapter became the hidden history under the jacket. So this is who Pace and Randi are before Vee. This is the intimacy, appetite, and damage they’re going to bring to her. I am fascinated and already a little afraid for everyone.
+The apple slices got me before the bench did. He knows which thickness she’ll eat, which direction they have to face, and he makes that knowledge feel both tender and faintly predatory. That is so much hotter to me than another generic alpha announcing that he owns the room. Pace pays attention. He waits. He lets her initiate, lets her position his hands, gives her a word, checks her body, and then uses everything he has noticed to take her somewhere she cannot manage with the pretty, polished version of herself. The patience is the power. I was absolutely gone by “Hi” at the low end of the bench.
 
-And yes, the bench was extremely hot. Not merely because of what he did, but because he paid attention: the thin apple slices, the pauses, her shoulders, the change in her voice, the distinction between the polished please and the real one. That specificity is the difference between a scene that feels assembled from kink furniture and one that feels like it could only happen to these two people. His restraint was hotter than the spanking. Him remaining hard and deciding that wasn’t what the night was for nearly finished me.
+And yes, the scene was genuinely hot. Not theoretically transgressive, not clinical kink observed from a tasteful distance: hot. The waiting, the hand on her cheek, the heels coming off midway through, his refusing the first polished please because he can hear that she is still performing—I felt all of it. “There you are, Randi” landed like a trapdoor. I had been so deep inside the scene that the name hit me physically.
 
-But the aftermath is what has its hand around my throat. Pace believes he has lovingly uncovered her; Randi experiences being uncovered as an emergency. Neither reading feels false. He respects the locked bathroom door while completely failing to understand that she has locked another door inside herself, and that is such a painful mismatch I want to shake them both. Her agreeing to stay while privately deciding never to let him see her again—that is the kind of emotional dishonesty I can believe, because it isn’t an idiotic failure to send one clarifying text. It is survival machinery snapping back into place.
+But the aftermath is what made this book dangerous. Her flinching at “You’re beautiful” hurt more than the spanking. Pace thinks he has found and fed her; Randi experiences being found as something she must immediately bury. They are holding each other while living in two completely different versions of the night, and neither version is false. That is the emotional intelligence I keep being promised by books that usually just give me a safeword and call it depth.
 
-I did feel the face/performance idea being pressed several times after I already understood it. Normally that makes me itchy. Here I mostly forgave it because Randi is spiraling and repeating the logic to herself, not because the book seems frightened I missed the metaphor. Still: trust me a little more next time.
+Also: Randi. Not Vee. So the glamorous friend from the jacket is already here, already this involved with Pace, and apparently this is the history underneath the “game” they will later play with Vee. I am now wildly suspicious of how an experience this exposing becomes a plan to draw in another woman. Is Vee an appetite they share? A buffer Randi can hide behind? A way for Randi to get close to a woman without admitting what she wants? All three? I would text a friend: “The first chapter is an entire explicit kink scene with the OTHER woman, and afterward she decides he can never see her again while literally staying in his arms. I’m not sleeping.”
 
-What I’d text at 1 a.m.: “The first chapter is an entire explicit BDSM scene, the woman is NOT the heroine named in the blurb, and somehow the most dangerous thing he does is sincerely call her beautiful afterward.”
+I did come close to getting irritated when the bathroom interiority kept translating the face/her split after I already understood it. The book occasionally says the meaning twice. But then that final key-in-the-lock image pulled the dread tight again, and there is no chance I’m putting this down.
 
 GATE 1 — The Bench
 DECISION: CONTINUE
@@ -18,5 +18,5 @@ CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: The heat delivered completely, but the devastating split between what Pace thinks he gave Randi and what she believes she must now hide is what has me already turning the page. I need to know how these two decide to involve Vee when they are carrying this much tenderness, secrecy, and misrecognition between them.
+ALMOST-STOPPED: “Nothing happened to her. That was what the face was for.”
+WHY: I already understood the split and briefly worried the book was going to explain every inch of its own subtext. But the heat, the devastating mismatch between their experiences, and the revelation that this is Randi—not Vee—have me completely trapped.

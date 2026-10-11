@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch001 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c1b281036556 · 2026-10-11*
+*capture-dag-v2-rich · gate ch001 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha da6416f91a8c · 2026-10-11*
 
-REACTION:
+REACTION
 
-Holy *shit*.
+Holy shit.
 
-I walked into this expecting Vee—the jacket told me Vee was the girl walking toward the mathematician. So watching this chapter open from Pace's POV with this polished, food-policing, blue-eyed sorority girl, I naturally assumed it was Vee. The domesticity, the apple slices cut thin so she'd eat them, the slow, agonizing, masterclass build-up of the spanking bench—it had me completely pinned. The heat wasn't just physical; it was that terrifying, exquisite kind of psychological control where the hero isn't rushing, isn't taking his own release, just meticulously stripping away every defensive layer she owns. The way he refused her scripted pout and waited until she actually *begged* from the raw, ugly bottom of her stomach? That gave me full-body chills.
+I went into this assuming I was reading Vee. The jacket tells you all about Vivienne "Vee" Thorne, and then this girl walks in with the sorority monogram and the mother who eats egg whites and the heels and the dancer’s frame, and I’m completely locked into her being disassembled by this patient, terrifyingly exact man. And then he leans over her weeping face on that bench and says, *"There you are, Randi."*
 
-And then he whispers, *"There you are, Randi."*
+My jaw literally dropped. It was RANDI. The "glamorous new friend" from the blurb who later sets Vee up with him. *This* is where the "game" between them comes from.
 
-I gasped out loud. My jaw literally dropped. *Randi.* The glamorous friend from the blurb! The one who is supposed to steer Vee toward Pace! This whole time, Pace hasn't been breaking down Vee—he was breaking down *Randi*. The girl who controls everything, the polished queen bee who thinks she's untouchable, just got utterly dismantled by this man.
+And that bathroom scene. God, that bathroom scene broke something open in my chest. That isn’t just good romance writing; that is staggering psychological horror disguised as aftercare. The realization that being truly seen, stripped of the glossy social armor, didn't make her feel safely cherished—it terrified her to her core. *"The face has been called beautiful, on the bed, by the man who had put her on the bench, in a voice that had meant it."* The flinch when he said it. The way she actively puts the mask back on, locks the door behind her eyes, and decides *never again*, while he’s sitting out on the bed feeling all smug and tender, thinking he just gave her a breakthrough. He thinks he fed her hunger; he actually just mortally wounded her vanity, and she is already calculating how to survive it.
 
-And that scene in the bathroom afterward—god, that was breathtaking. The prose didn't hold it at clinical arm's length; it dove straight into the terrifying reality of subdrop mixed with true emotional exposure. The mask going back on. The realization that being *seen* was so much more dangerous than just being fucked. And then that final, chilling realization in her head: *she is going to have to figure out what to do about this.*
+The heat was breathtaking—the pacing of the spanking, the slow crawl of his hands, the utter lack of rush, the apple slices—it had that exact thick, heavy, unhurried explicit tension I am always starving for. But it’s the cruelty of the tenderness that has me hooked. She can’t bear him looking at *her*, so what does she do? She’s going to deflect that terrifying gaze onto someone else. Onto Vee.
 
-Because the blurb told me: Randi brings Vee into this. This game, this "invitation," starts between Randi and Pace. Randi just experienced something so profoundly destabilizing that she refuses to let Pace touch the real her ever again—so what does she do? Does she redirect him? Does she offer up Vee to keep his eyes off herself, or to share the ruin?
-
-The writing is gorgeous, grown-up, filthy, and emotionally razor-sharp. No throat-clearing, no fake drama, just pure, heavy tension. I am completely hooked. Turn the damn page.
-
-***
+I need the next chapter immediately.
 
 GATE 1 — The Bench
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The twist of her identity hit like a freight train, and the psychology behind the kink is the exact grown-up, devastatingly hot dynamic I've been starving for. The bathroom mirror scene alone cemented that this author actually understands women's interior lives. I need chapter two immediately.
+WHY: The twist of her identity knocked the wind out of me, and the contrast between his tender, patient dominance and her internal panic at being genuinely seen is absolute top-tier psychological erotica. I could not turn the page fast enough.

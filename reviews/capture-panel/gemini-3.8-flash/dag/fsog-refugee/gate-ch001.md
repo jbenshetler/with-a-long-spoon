@@ -1,20 +1,21 @@
-*capture-dag-v2-rich · gate ch001 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c1b281036556 · 2026-10-11*
+*capture-dag-v2-rich · gate ch001 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha da6416f91a8c · 2026-10-11*
 
-REACTION
+REACTION:
 
-*Holy shit.*
+Oh, *wow*. What a terrifying, magnificent bait-and-switch.
 
-I started this chapter assuming I was reading about Vee. The jacket said Vee is the heroine, twenty-one, a college junior, being led to Pace. And then we get this intense, meticulous, beautifully slow scene—the sliced apples, the control, the incredible physical patience of this man—and then he looks down at her on the bench and says, *"There you are, Randi."*
+The whole time I was reading the scene on the bench, I was completely under the spell. The pacing! Pace is everything I look for in a dominant man: patient, deeply attentive, not rushing to get his own rocks off, making room for her to breathe, constantly checking in. "Breathe. Just breathe a minute." The way he sliced the apple because he knew she’d actually eat it that way. The sheer, breathtaking eroticism of taking time, of real control that isn't just someone being a brute. When she was on that bench, I thought: *Okay, here is Vee, finally waking up, finally giving over control to someone safe.*
 
-My stomach dropped straight through the floor. It’s *Randi*. The glamorous friend from the jacket who is supposed to "steer" Vee into Pace's path later. The jacket told me two people planned the best year of Vee's life, that it started as a secret game between them—and Chapter 1 is showing me the *engine* of that game. It’s showing me what Pace and Randi actually are to each other before Vee ever enters the picture.
+And then he says her name.
+*"There you are, Randi."*
 
-And God, what they are. This is exactly the kind of intensity I live for. Pace isn't some generic cartoon dominant who just wants to throw a girl around and call her names. He built the bench himself. He knows she won't eat thick apple slices. He asks for her safe word, repeats it, checks her shoulders, her back, and when she locks herself in the bathroom to fall apart, *he doesn't rattle the doorknob.* He sits on the edge of the bed and respects the locked door because he learned the hard way with someone named Daphne that love isn't a blank check to bulldoze a woman's walls. That restraint makes him a thousand times more dangerous and compelling than any mafia boss or billionaire.
+My stomach completely dropped. I had to reread the sentence twice. It’s *Randi*. The "glamorous new friend" from the jacket blurb! The one who is supposed to bring Vee to Pace!
 
-And Randi in that bathroom! That whole interior sequence broke my heart and electrified me at the same time. The performance of perfection, the terror of having been genuinely seen, the realization that she let herself beg—not as part of a cute, polished brat routine, but from the raw marrow of her bones—and the desperate, freezing panic that makes her put the mask back on to protect herself. *"The one he had found was going back behind it, and she was not coming out again."*
+And seeing the immediate aftermath from Randi’s perspective—standing in the bathroom, staring at her own face, completely unraveling because she has spent her entire life performing "perfection" to keep from being touched, only to have Pace completely crack her open—it gutted me. The detail about her pressing the sharp inner rim of the bottle cap into her thumbnail just to feel something sharp and grounding? That's real psychological damage, not a cute quirk. She begged, she broke, and it terrified her so deeply that her instinct isn't to lean into him, but to slam the deadbolt shut forever: *The one he had found was going back behind it, and she was not coming out again.*
 
-Knowing from the jacket that she and Pace are going to bring Vee into this makes that bathroom scene chilling. If Randi is pulling the deadbolt shut on her own vulnerability with Pace, is steering Vee to him her way of staying close to this fire without having to burn in it herself? Is Vee a surrogate? An offering? A diversion so Randi doesn't have to be the one on the bench?
+And the jacket says Randi and Pace make a plan. A secret game. Is this why? Does Randi bring Vee into Pace's orbit because Randi *can't* bear to be seen like this again, but she can't bear to let Pace go, either? Does she deflect his terrifying, soul-exposing tenderness onto a surrogate?
 
-I am completely hooked. The consent inside the room was so clean and attentive, but the psychological trap closing around all three of them is magnificent. Give me chapter two immediately.
+The absolute psychological precision here is unreal. The heat was scorching, the tenderness was palpable, but the dramatic irony and the lurking dread make it utterly addictive. I am dying to see how Vee enters this equation.
 
 GATE 1 — The Bench
 DECISION: CONTINUE
@@ -23,4 +24,4 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The twist of this being Randi instead of Vee recontextualized the entire dynamic, and Pace's exact mix of absolute control, physical patience, and genuine care is exactly what I read this genre for. I need to see where this plan actually begins.
+WHY: The revelation that this was Randi—and the chilling, brilliant look inside her panic at being truly seen—completely hooked me; the dominant-submissive dynamic had the exact patient, breathtaking tenderness I crave, layered with intoxicating psychological dread.
