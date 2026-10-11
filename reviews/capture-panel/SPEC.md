@@ -1132,3 +1132,19 @@ re-minting both checkpoints; gemini's ch71 went to 10/10 on clean memory. Their 
 past ch72 (to ch75; gemini to ch78) are still old-order. **Survey rule addition:** a
 gate's `GATE N — Title` must match the current sequence, not just exist — a reorder
 leaves a full, wrong lane.
+
+## queer-woman ch054 from a borrowed seed (author request 2026-10-11)
+
+One sensitivity read of My Friend Randi per model (the eight capture models). No
+queer-woman lane existed, so each `queer-woman/ck-ch050.md` is that model's
+**romance-graduate** ck-ch050, copied with its header replaced by a neutral
+`borrowed seed` line (the header is fed to the reader verbatim). Read with
+`--from 54 --to 54`. These lanes are not a queer-woman chain: gates 1–53 do not
+exist and the memory is another persona's.
+
+Same technique for **ch070 On Her Floor** (2026-10-11): each `queer-woman/ck-ch060.md` is
+that model's romance-graduate ck-ch060 under a `borrowed seed` header; read with
+`--from 70 --to 70`. The decade mint that follows a ch070 gate failed on every lane
+(it needs gates 61–69, which these lanes don't have), so no queer-woman ck-ch070
+exists — the intended outcome.
+Same technique for **ch071 Boyfriend** (2026-10-11): borrowed romance-graduate ck-ch070 per model, `--from 71 --to 71`; one read each, no mint.

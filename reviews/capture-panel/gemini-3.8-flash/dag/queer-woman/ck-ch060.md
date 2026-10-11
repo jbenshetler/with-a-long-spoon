@@ -1,0 +1,48 @@
+*capture-dag-v2-rich · carry-forward ck-ch060 · gemini-3.8-flash · borrowed seed*
+
+WHO'S WHO
+
+- **Vee (Vivienne Thorne):** The "pleasure princess" wearing a paper crown. Twenty-one, walking directly into a minefield with her eyes wide shut. After a month of silence that nearly broke her, she took Randi’s advice, drove out to 614 bare under an olive wool coat, and traded every scrap of emotional leverage she had for scratch midnight pancakes, barrier-breaking oral sex, and a man weeping into her hair. She thinks she won the war. She’s strutting naked around his house, getting off in public Italian restaurant stalls while hallucinating Randi's predatory face, and genuinely believes that *she* is the one orchestrating a giant group dinner to introduce her boyfriend to her best friend.
+- **Pace (Peter):** The terrified mathematician who broke down and sobbed over a bowl of cold chicken because a truck didn't turn down his driveway. We finally got the Daphne backstory—his tutor/first love whose exit destroyed him, teaching him that *words* are the weapon that makes loss fatal. When Vee opened her coat, his control vanished: he took her on the freezing porch, carried her inside, and whispered apologies into her collarbone, but he *still* didn't say "girlfriend." Now he's playing empirical defense. When Vee suggested a three-way dinner with Randi, his Simpson's Paradox brain kicked in: dilute the data set. He invited Cassie, Meg, Kayla, and Theo to build a human shield so he and Randi have cover.
+- **Randi (Miranda):** The puppet master whose strings are tangling around her own wrists. Spent winter break in Gstaad playing house with a flawless Yale lawyer named John, feeling completely hollow, admitting she loves Vee and is terrified of losing her. She handed Vee the stiletto heels and the trench coat strategy to erase Vee's fight with Pace, only to have Vee passionately kiss her on the mouth in the sorority foyer. Then Brooke hit her with a razor-sharp house ultimatum (*"You need to choose"*). Now she's sitting in Italian restaurant booths listening to Vee recount every filthy detail of Pace's mouth, staring at the wet stain on the coat, flinching when Vee kisses her neck on the sidewalk. She wants Vee so badly she can barely breathe through her sorority mask.
+- **Cassie:** Still the razor-sharp rock of reality. Took one look at Vee returning in rolled-up men's sweatpants and strappy stilettos and just arched an eyebrow. When Vee concocted an absurd lie about Pace shrinking her sweater to doll size, Cassie laughed until her head hit the chair and let the record stand without cross-examining her. She's attending the Wednesday dinner. Put Cassie, Pace, and Randi in a room together and she'll have the entire conspiracy charted before the bread arrives.
+- **Sheri:** Pace’s blunt, double-cheeseburger-eating cycling buddy who finally dragged his high-flown bullshit into the dirt. *"She didn’t ask you for reasons... not saying it matters more to you than having her. And I'll tell you—from this seat, that feels pretty shitty."* The only person who tells Pace the unvarnished truth.
+- **Brooke:** The Kappa chapter president. Soft Southern velvet over surgical steel. Caught the tail end of Vee and Randi kissing under the composite portraits and dropped the hammer: *"You’ve got a position in this house, and you’ve got her. You need to choose."*
+
+WHERE THINGS STAND
+
+- **The Break & The Collapse (Chapters 51–53):** Randi froze in Switzerland next to a cardboard-cutout billionaire, admitting she loves Vee but won't risk telling her; Vee froze in Ohio, scissoring her bare leg out of photos for her parents and agonizing over Pace's total silence; Pace got violently sick on cheap whiskey, scrubbed his bathroom in the dark, and broke down sobbing over Daphne, cold boiled chicken, and Vee's absence.
+- **The Coat & The Surrender (Chapters 54–55):** Vee came back wrecked, ran straight to Randi's sorority house, and poured her heart out. Randi convinced her to drop the argument, handed her sky-high strappy stilettos, and told her to show up bare under a coat. On the way out, overwhelmed with gratitude, Vee grabbed Randi's face and kissed her hard on the mouth. Brooke witnessed the intimacy and gave Randi an ultimatum about her house standing. Vee drove out to 614, opened the coat on the freezing porch, and Pace went straight to his knees. They fucked against the banging door, moved to the couch, and he fed her midnight pancakes, but he never named the relationship.
+- **The "Pleasure Princess" & The Taste (Chapter 56):** Saturday morning, Vee paraded around naked in a green scrunchie, making Pace burn toast because he couldn't stop looking. He gave her unhurried, devastating oral sex on the cashmere blanket. When he came up to kiss her, bringing her own taste to her mouth, Vee had a knee-jerk panic (*"Ugh — gross"*) before her body secretly leaned in and hunted for it.
+- **The Group Dinner Trap (Chapter 57):** Vee suggested a dinner for Pace to "properly meet" Randi. Pace instantly neutralized the dangerous three-way dynamic by expanding the invite list into a massive group outing: Cassie, Kayla, Meg, Danny, Theo. He took total control: *"Let me handle it."*
+- **The Mauss Hau & The Italian Loft (Chapters 59–60):** After a mimosa breakfast where Meg and Kayla cheered Vee on, Vee started her Anthropology class with Dr. Marsh lecturing on the *hau*—how a gift carries the spirit of the giver and pulls back toward them. At dinner afterward, Vee fed Randi the entire graphic account of the weekend, even showing Randi the dark wet bloom on the coat lining. Vee got so turned on she went to the bathroom stall to get off, fantasizing about *Randi's* face, before coming back up to Randi's loaded line: *"Things were really heated. It's a good thing you got relief."* On the sidewalk, Vee kissed the side of Randi's neck, making Randi flinch.
+
+HOW I FEEL ABOUT EACH OF THEM
+
+- **Vee:** God, my heart aches for her, and she is terrifying me. She thinks she's in total control because she made a man burn toast, but she surrendered the only boundary she had the second she opened that coat. She is deeply, hopelessly in love with Pace, yet she is unconsciously getting sexually consumed by Randi—getting off in a bathroom stall to Randi's face while telling herself it was "about Pace." The cognitive dissonance is reaching a fever pitch.
+- **Pace:** I oscillate between wanting to shake him and being deeply moved by him. Finding out about Daphne humanized his empirical coldness—he's just a terrified boy who thinks silence equals survival. Remembering Meg’s hiking boots from October was wildly romantic. But engineering this massive group dinner to dilute the Randi situation instead of being honest is cowardly, dangerous, and completely arrogant. He thinks he can mathematically control a human collision.
+- **Randi:** A magnificent, tragic monster. She’s completely trapped in her own gilded persona. Brooke has her backed into a corner at the house, her family's wealth is a scam, and the girl she’s desperately in love with keeps casually touching her, kissing her neck, and describing how good Pace is in bed. Randi is playing with pure plutonium.
+- **Cassie:** My hero. The only person with functional eyes and clean motives. She knows the doll-sweater story is a lie, she knows Vee is hiding things, and she’s walking into this Wednesday dinner with a scalpel ready.
+
+WHAT I'M CARRYING
+
+- Pace weeping over a bowl of cold chicken and broccoli while Stevie Nicks plays, broke open because an engine on the highway didn't turn into his cut.
+- *"You show up already being the answer. And nothing under it."* Randi handing Vee the stilettos, dressing the lamb for the slaughter.
+- Vee turning back at the front door and kissing Randi full on the mouth under fifty years of sorority composite portraits, followed immediately by Brooke's chilled-wine warning: *"You need to choose."*
+- The image of Vee opening the olive coat on a freezing January porch, bare on high heels, and Pace dropping straight to his knees on the raw boards.
+- The cashmere blanket—the fact that Vee is blissfully soaking her orgasms into the exact blanket Pace keeps on hand to cover Randi after they fuck on the couch.
+- Vee getting off in a public restaurant stall with her palm flat on the cold laminate, convinced she was thinking about Pace while Randi's dark, liquid eyes were the only thing burning in her head.
+- *"Things were really heated. It's a good thing you got relief."* Randi looking right through her across the empty wine glasses.
+
+WHAT I'M WAITING FOR
+
+- **Wednesday Night:** The collision. Pace, Randi, Vee, Cassie, Kayla, Meg. Pace trying to act like a polite host while sitting across from the woman he fucked on his couch and the girl he's terrified of loving, under Cassie's x-ray vision.
+- **The Spanking Bench:** That walnut table in his bedroom is still sitting there. When does the top come off?
+- **Randi’s Breaking Point:** Between Brooke's sorority threat and Vee casually kissing her neck, Randi is about to snap. How does she act around Pace in public?
+- **Cassie's Move:** Cassie knows about the PPP fraud under Randi's name, and she knows Vee is lying about her weekends. How long before she puts the pieces together?
+
+WHAT'S FADING
+
+- The early semester economics lectures and the dance hall have drifted into the distant background.
+- Any memory of Vee feeling secure or grounded in her Ohio home; that bridge is officially burned, leaving her stranded entirely between 614 and the dorm.
+- The idea that Pace is in control of this arrangement. He is hanging on by his fingernails.
