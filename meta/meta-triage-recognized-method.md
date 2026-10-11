@@ -225,3 +225,7 @@ started to make of herself") is the one case where the aspect is *correct*
 since she's interrupted mid-fold, `the-way:101` is a false positive ("ridden
 all the way up" is the idiom), and the six `warm` hits are all load-bearing
 once the `:91` reflex use was cut.
+
+## Weekday fix (author 2026-10-11)
+
+- **:127 "He was not like Friday. Friday had been…" → "Saturday".** The door-opening night is Sat Oct 24 per the chronology; Friday is the night she does not come ({{Space}}).

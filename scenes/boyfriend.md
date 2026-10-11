@@ -4,7 +4,7 @@ She walked back. The campus was never quite empty, but the paths were mostly her
 
 It was late when she let herself in. The room was dark and cold the way Cassie kept it, the window cracked its two inches on the January outside, the lower bunk breathing slow and even, Cassie long down and gone. Vee got the skirt off over her hips and laid it across the back of the chair, and stood a moment looking at it lying there, iridescent, and shook her head at that bad, troublesome thing, as if it were the only thing that had misbehaved tonight.
 
-Then the thong. Where it had soaked through it had stuck to her, along the sides. She slid a finger up under the side seam and drew it slowly down, loosening the fabric from her skin as she went. And drawing it down was how she came onto the new bare of her — her fingertip running down over it and stopping there, without being told to, before she'd thought to be ready for it.
+Then the thong. Where it had soaked through it had stuck to her, along the sides. She slid a finger up under the side seam and drew it slowly down, loosening the fabric from her skin as she went. And drawing it down was how she came onto the new bare of her — her fingertip running down over it and stopping there, on its own.
 
 A day bare now, and still a surprise, still that new astonishing smoothness — that Sondra's terrible patient hands had made and Pace had spent the afternoon learning by mouth, the thing she'd gone and done for him and no one else. She was wet under it and had been for hours; the evidence of it appeared on her fingers. And the picture that came was not the afternoon, and not his hand at all. It was the dancefloor. It was Randi's hands moving her wide, Randi's mouth at her ear and then not at her ear, and — sharp, absurd, impossible to stop — the thought of what Randi would make of *this,* the new smoothness, what Randi's mouth would do to it if it ever got down there and found her bare as this, made this way, an offering with the wrong name on it. Her hips tilted toward the idea before the idea had finished being one.
 
@@ -14,7 +14,7 @@ She stopped. She took the hand back and held it against her own breastbone like 
 
 She was already reaching for the skirt again.
 
-She stepped back into it — Randi's, the stretchy iridescent knit, off the back of the chair — and drew it up, and it settled on her the way it had all night, close and bright and not enough. *He'd want to see me in this,* she thought, and did not look at the thought too hard. She left the thong where it was, stuck to her, never got the rest of the way off — she could have been out of it in a second and she wasn't, and she wanted it there and wouldn't ask herself why.
+She stepped back into it — Randi's, the stretchy iridescent knit, off the back of the chair — and drew it up, and it settled on her the way it had all night, close and bright and not enough. *He'd want to see me in this,* she thought. She left the thong where it was, stuck to her, never got the rest of the way off — she could have been out of it in a second and she wasn't, and she wanted it there and wouldn't ask herself why.
 
 She got her coat and her keys, quiet, and Cassie never stirred, and Vee let herself out into the furnace hall and pulled the door soft behind her.
 
@@ -22,7 +22,7 @@ She got her coat and her keys, quiet, and Cassie never stirred, and Vee let hers
 
 The Corolla took the cold badly and so did she, bare-legged on the seat her father wanted her to keep the mileage off of, the heater breathing lukewarm on her shins a mile too late to matter. Town went by shut and orange. Then the campus lights fell behind and the road went to the black county straightaway, only her high beams and the flat dark fields either side, the white line coming and coming, and she drove it faster than she should have and did not once turn the radio on, because she did not want anything in the car with her that might start asking questions.
 
-His driveway was the cut in the hill you missed if you didn't know it, and she knew it now and still nearly went past, braking hard onto the gravel and doubling back, tires crackling up to the pad. The white truck sat where it always sat. The little house held back through the trees with no light showing, none, not even the low lamp — dark all the way through, and cold-looking in a way she felt and didn't stop to read, and the porch sconce black over a shut door.
+His driveway was the cut in the hill you missed if you didn't know it, and she knew it now and still nearly went past, braking hard onto the gravel and doubling back, tires crackling up to the pad. The white truck sat where it always sat. The little house held back through the trees with no light showing, not even the low lamp, and the porch sconce black over a shut door.
 
 She rang the bell before the sense could catch up to the wanting — and then again, too soon for manners.
 
@@ -94,7 +94,7 @@ He pushed her all the way down onto him for that, slow, the whole length, till s
 
 "It's hers." She got a degree of him back for it. "She pulled it off her own rail and put it in my hands and said it'd look better on me anyway." The pride came up in her even now, even here, dumb and warm. "Legs like yours, she said. And that ass."
 
-"I agree." And he stroked up into her, one long deliberate pass on the word *ass,* so the compliment and the fact of him landed together and she made a sound she hadn't planned to make. And his hands, cupping, spreading her that last bit down onto him, tipped her into the wet heat of herself where he could feel exactly what the telling was doing to her. He had her pleasure in his two hands now, portioning it out — and underlining, with a stroke, with a degree of depth, the parts that ran the hottest. Or the most shameful.
+"I agree." And he stroked up into her, one long deliberate pass on the word *ass,* so the compliment and the fact of him landed together and her thighs clamped hard on his hips. And his hands, cupping, spreading her that last bit down onto him, tipped her into the wet heat of herself where he could feel exactly what the telling was doing to her. He had her pleasure in his two hands now, portioning it out — and underlining, with a stroke, with a degree of depth, the parts that ran the hottest. Or the most shameful.
 
 "And then?"
 
@@ -118,7 +118,7 @@ She tried to move on him anyway, to steal the friction off his hands, and they d
 
 "She got behind me and put her hands on my hips," she said, quieter, truer, "and moved them herself. Wider than I ever — an arc I'd never have let myself. She made me bigger than I'd dance."
 
-He gave her that — more than an inch, a slow inch and then another, a reward with a slope to it, more for the truer thing. She heard herself breathe out.
+He gave her that — more than an inch, a slow inch and then another, a reward with a slope to it, more for the truer thing. Her breath went out of her in a shudder.
 
 "And the skirt rode up some."
 
@@ -126,7 +126,7 @@ Stopped again. Held.
 
 She pushed at his hands, got nowhere, gave it up. "She took my hands and ran them up my sides and lifted them over my head and held them there, so I couldn't hold the skirt down, and my thighs were — open. To all of them. And I didn't—" the reconsidering caught her mid-word, the thing the stall had turned her around to see, "—I didn't try that hard to get my hands back."
 
-That one cost her and it bought her more than the others. He drew her down a long slow way onto him for it, and she took him with a sound she didn't recognize as hers — and felt the flex of him inside her, once, needful, a tightness crossing his face to go with it. And now she could hear things she hadn't — her own breathing gone ragged, and the wet sound of him moving in her, and she could not have told, could not for anything have said, how much of that wet sound was his and how much was Randi's.
+That one cost her and it bought her more than the others. He drew her down a long slow way onto him for it, and she took him with a sound she didn't recognize as hers — and felt the flex of him inside her, once, needful, a tightness crossing his face to go with it. And now she could hear things she hadn't — her own breathing gone ragged, and the wet sound of him moving in her, and how much of that was his, and how much was Randi's?
 
 "She was against my back the whole time." The parts about Randi's body came easier than the parts about her own; she gave the easy half. "Damp — the silk of her, the heat coming through it."
 
@@ -182,7 +182,7 @@ She should have felt something about that — him rationing her like this, dolin
 
 So she gave him the rest, because there was nowhere else to put the need. "The taste of her. Salt and lime and under it just her. Her chest against mine—" the words were coming in pieces now, timed to the shallow rock of him "—the little hard points of her, through the two thin nothings we had on—"
 
-He drove up into her once, full and hard and all the way, and it pushed the air out of her in a sound. Then back to the shallow rock, slow, patient, holding her under the edge — and his breath, she heard now, had gone ragged too.
+He drove up into her once, full and hard and all the way, and her mouth came open on nothing, the next word gone. Then back to the shallow rock, slow, patient, holding her under the edge — and his breath, she heard now, had gone ragged too.
 
 "My own hand went into her hair," she managed, "and pulled her down. I wanted her mouth lower. I wanted her somewhere we could never—"
 
@@ -192,7 +192,7 @@ He had her at the top again and held her there, and she understood at last what 
 
 He drove her over. All of him at once, nothing kept back, and she came apart on him, gone where he'd sent her. He went a beat after, up into her, and gathered her whole weight in against him.
 
-She came back to herself in pieces, from a long way off. His mouth first — they were kissing, still or again, she couldn't have said when it had started, slow and open and unfinished. Then his heart, hammering into her breast where they were crushed chest to chest, going like it had somewhere to be. Then the sweat, hers and his run into one, slick everywhere they touched, stinging where it had gotten into her eyes. She was trembling and couldn't have said for how long. When he softened and slipped out of her she felt herself open and run, warm, everything the two of them had just made sliding down the inside of her thigh and onto him, hers and his together — and she let it, and didn't move.
+She came back to herself in pieces, from a long way off. His mouth first — they were kissing, still or again, slow and open and unfinished. Then his heart, hammering into her breast where they were crushed chest to chest, going like it had somewhere to be. Then the sweat, hers and his run into one, slick everywhere they touched, stinging where it had gotten into her eyes. She was trembling, and it didn't stop. When he softened and slipped out of her she felt herself open and run, warm, everything the two of them had just made sliding down the inside of her thigh and onto him, hers and his together — and she let it, and didn't move.
 
 For a little while there was nothing in the room but the two of them, and the third one she'd carried in on her mouth. Salt and lime — she could still taste her, under everything, past the coming; it had not washed out. Her whole weight was down on him now, the man, solid and hers, and the woman was still in her mouth, and she could not have told, even now, which of them she'd been chasing at the end.
 
@@ -226,7 +226,7 @@ She held the two of them a moment, with the lamp on and in his face only the gen
 
 It came out level, and it was a lie, and it was the first one she had ever told him. It went down into her and sat there, cold, under all the rest of it.
 
-And then, too late, the lot at the roadhouse. Randi's mouth on hers on the blacktop, the small second press, and Pace three steps off by the truck. She hadn't been watching him. She couldn't have said where he was looking, only that he'd been too close not to see. She had just told him there was nothing, and he had seen one with his own eyes. The guilt came up hot under her ribs, and inside it, small and bright, a thrill she could not account for.
+And then, too late, the lot at the roadhouse. Randi's mouth on hers on the blacktop, the small second press, and Pace three steps off by the truck. She hadn't been watching him. He'd been too close not to see. She had just told him there was nothing, and he had seen one with his own eyes. The guilt came up hot under her ribs, and inside it, small and bright, a thrill she could not account for.
 
 "Okay," he said. And then, easy, idle, before she could get her feet back under her, like a man clearing the last small thing off a table: "Do you want to sleep with a woman, Vee?"
 
@@ -256,7 +256,7 @@ He'd defended himself. In every argument they'd ever had he left her the whole o
 
 ---
 
-He tucked the blanket up around her, the soft grey one that lived at the foot of the bed, and he put the water in her hand and made her drink it, and he lay back down and drew her in against him, and it was warm, it was so warm, his mouth against her hair keeping her gently lit, and the relief of it came over her in a slow flood.
+He tucked the blanket up around her, the cream cashmere that lived at the foot of the bed, and he put the water in her hand and made her drink it, and he lay back down and drew her in against him, and it was warm, it was so warm, his mouth against her hair keeping her gently lit, and the relief of it came over her in a slow flood.
 
 She'd gotten away with it. That was the first clean feeling she'd had all night. She had brought the whole dangerous thing in here and set it down and it had not gone off; he wasn't angry, he wasn't hurt, he believed her, and in the morning there would be coffee and it would be Sunday and it would all be behind her.
 

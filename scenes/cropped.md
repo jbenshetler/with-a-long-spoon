@@ -18,6 +18,20 @@ Cassie waited.
 
 "I know how she does," Cassie said.
 
+"She touched mine, too. At the door, before she'd even said hello. She said I'd gotten thin." Vee picked the fork back up. "She had her nurse face on all week. Every time I went back for seconds she watched me eat them, like they might be a trick. One night she came and sat on the end of my bed and asked if I was sleeping, if something was going on at school. If I was making myself sick." She turned the fork over. "She fusses over me like I'm a child. I told her it was the dancing, that we go dancing all the time. And then I finally just told her I'm happier than I've ever been."
+
+Cassie looked at Vee's tray, most of the way gone already.
+
+"How many times have you actually gone dancing?"
+
+"Once."
+
+"You lied to your mother."
+
+"How am I supposed to tell her it's the sex?" Vee said. "The amount of sex?"
+
+"Good point," Cassie said.
+
 "Then of course it turned into, well, who took you to this thing. Who gives a girl a dress like that. Who is he." Vee heard the next part before she said it. "I told them he was my boyfriend. I think I put a question mark on it. Out loud. Like I was asking them."
 
 Cassie didn't laugh.

@@ -262,6 +262,9 @@ two people move through without calling out to each other.
   {{Missed a Spot}} she spreads it as the stage for the pointing ladder and lies
   wrapped in it afterward planning to tell Randi — Randi's blanket both times,
   unknowing.
+  **Color: cream** (`missed-a-spot.md:35`). In {{Boyfriend}} Pace tucks it around
+  her after the confession of Randi's kiss — Randi's blanket again, unknowing
+  (author 2026-10-11; it had been mis-drafted as grey).
 - **Water bottle** `[PAGE]` pre-staged on the bedside table for aftercare.
 
 ## Settled spatial facts
