@@ -1,16 +1,22 @@
-*capture-dag-v2-rich · gate ch063 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~8348ecb548e4 · 2026-09-11*
+*capture-dag-v2-rich · gate ch063 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · 2026-10-11*
 
-Oh, this got me. Not because she managed to taste herself—she didn’t—but because the wanting was real and the refusal was real, and neither one canceled the other. That breath’s width between her tongue and her fingers felt more intimate than half the sex scenes I’ve read this year. She wasn’t performing bravery for Pace or following one of Randi’s scripts. She was alone, trying to discover where her own boundary actually lived, and her body could want past the point her mind could cross. That is exactly the kind of interiority I’ve been starving for.
+REACTION — Oh, this got me. Quietly, completely. Vee alone in Pace’s flannel, trying to discover whether her body’s first answer can survive all the old shame—that is exactly the kind of heat I want. Nobody performing for anybody, nobody mechanically hitting the familiar beats. Just her wanting, flinching, reaching again, and learning that desire can be true even when she cannot quite finish the brave thing.
 
-And Randi is inside this awakening now. Not metaphorically, not only as Vee’s glamorous friend who gives her permission: Vee is wondering what Randi did, picturing Randi’s fingers or Randi’s mouth, using Randi’s answer to push at the edge of herself. She still won’t name that as desire for Randi, but come on. Pace supplied the wet kiss; Randi made it powerful. Both of them are in the bed with her while she is physically alone.
+I wanted her to taste herself so badly that I was almost holding my breath with her. But I’m glad she couldn’t. Not because I share her disgust—I don’t—but because one daring weekend was never going to erase twenty-one years of being taught that her appetite is excessive and her body’s evidence is dirty. That last breath of distance felt honest. She got close because she wanted to, stopped because she had to, and neither choice was made for Pace. That matters.
 
-The window absolutely undid me. She shuts it because she wants the room warm enough to open herself, then throws it up because Cassie might smell the evidence. That respectable oversized flannel buttoned over her nakedness is Vee’s whole problem in one image: everything underneath is abundant, hungry, alive, and she still believes she has to air herself out before someone safe comes home. “Her mess. Hers to lie in” hurt. She can accept Pace’s appetite more easily than her own; she can let him treat her plenty as a feast, but alone she still calls it excess and greed.
+And then Randi slid into it. Of course she did. Not merely Randi’s verdict that it was powerful, but the suddenly specific question: was Randi talking about a lover’s mouth, or her own fingers? Vee is lying alone in Pace’s shirt, masturbating to the memory of Pace, and the thought she carries to the end is what Randi may have put in her mouth. Girl. Your explanations are hanging on by a thread.
 
-Also: her mouth is empty, and that feels ominously unfinished rather than defeated. She failed the reach tonight, but the reach exists now. And I know exactly who is going to be sitting across from her when she finally understands what she was reaching toward.
+The window absolutely hurt me. She closes it so every bit of heat stays, lets the room fill with her, then panics because Cassie will return and throws January back inside. That is Vee’s whole problem in one bodily gesture: she wants to occupy space until there might be a witness. Then she covers herself, airs herself out, makes the room respectable again. But she cannot entirely erase what happened. She chooses to lie on the damp patch. “Her mess. Hers to lie in.” That felt almost defiant despite the shame attached to it.
 
-GATE 59 — The Reach
+Also, Pace’s care has lodged in her body more deeply than any argument could. What brings her through is not simply remembering his mouth; it is remembering that he was untroubled and glad, that he stopped the instant she recoiled, that he kept her mouth entirely hers afterward. He gave her enough safety to investigate the boundary alone. That is deeply tender to me.
+
+I am turned on, aching for her, and now absurdly invested in that final inch. Her mouth is still empty, but this no longer feels like refusal. It feels like not yet.
+
+GATE 63 — The Reach
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was quiet, solitary, explicit, and psychologically loaded—the exact combination I want. Vee’s unfinished reach toward her own appetite, with Pace in the image and Randi inside the question, has me already reaching for the next chapter.
+WHY: This was intimate, explicit, and psychologically alive—the exact combination I keep reading for. Vee’s unfinished reach toward herself, and the fact that her mind ends on Randi while she is wrapped in Pace, has me already turning the page.

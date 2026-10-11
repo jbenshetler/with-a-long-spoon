@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch068 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0b898fc22a01 · 2026-09-19*
+*capture-dag-v2-rich · gate ch068 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · 2026-10-11*
 
-REACTION
+REACTION:
 
-Oh, this was *filthy* in the absolute smartest way possible.
+I had my legs clenched together so tight through this entire chapter I think I pulled a muscle. Jesus Christ. Every woman who has ever climbed onto a paper-lined table for a first Brazilian knows that exact, blinding, white-hot, god-awful shock when that first strip comes off—and the absolute *betrayal* when the aesthetician casually tells you to flip onto your stomach. Randi, you lying, magnificent sociopath: *"Barely stings."*
 
-I’ve read a hundred romance novels where a heroine gets waxed, and it’s always played as either a slapstick comedy bit (screaming, cursing, eating gummy bears) or completely glossed over in a single sentence ("she made sure she was freshly smooth for him"). Nobody writes the actual, humiliating, clinical *visceralness* of it. But more than that—nobody writes the psychological twistedness of what happens when you take a girl who has tied her entire erotic awakening to submission, control, and being pinned, and you put her in a cold aesthetician’s room where an uninterested woman uses that exact same physical grammar on her.
+What makes this chapter utterly devastating isn't just the physical accuracy of the waxing—it’s the psychological butchery. Vee is sitting there on the table, being handled like a cut of meat by an aesthetician with a clock running, and the moment a bored, gloved hand pins her thigh down and tells her *“Don’t move,”* her sick, conditioned little body lights up because it recognizes the cadence of Pace’s control. That broke my heart and made my stomach drop all at once. *“The wrong hand. It held her the exact way she wanted to be held and it did not want her at all.”* That line hollowed me out. The absolute loneliness of being primed for submission, lying under a stranger’s hands, starved for the man who asked for it.
 
-That moment where Sondra puts the flat of her palm down on Vee's thigh to keep her from squirming and says *"Don't move"*? Jesus Christ. My stomach completely dropped. Because Vee’s body recognizes the shape of that command—she's learned to melt and bloom under that command from Pace—and to feel that exact gesture stripped of worship, stripped of desire, just a mechanical instruction from a stranger with a clock running... that is an insane piece of character psychology. It exposes just how completely Pace has colonized her nervous system. She isn't just horny for him; her body has reorganized its entire response system around his rules, to the point where an esthetician pinning her down makes her want *him* so hard it makes her nauseous.
+And let’s talk about Pace asking for this in the first place. *“I’d like you waxed. By the weekend. Bare.”* He knows *exactly* what he’s doing. He doesn’t ask for things casually. He didn’t ask her in a fit of bedroom lust; he stood in his kitchen on a Sunday in the plain voice he uses for facts and set an appointment for her submission. Between the walnut table with the removable top waiting in his bedroom and this, he is stripping away every single defense she has left. Literally. He’s removing the buffer. And Vee just offers herself up—saying yes before her brain even clears the word, rolling over onto her stomach on a crinkling paper table, letting a stranger rip her bare because she’s saving the ruined, smoothed-out prize for him.
 
-And Randi. God, Randi leaving out the part where you have to roll over onto your front. That is so classically, exquisitely Randi. Randi operates on this polished, untouchable, high-society plane where of course your entire ass is smooth, of course you get everything stripped, *darling, it barely stings*—setting Vee up to step onto yet another trapdoor of exposure. Vee laying face-down in the crinkling sanitary paper, staring into nothing while a stranger waxes between her cheeks, stripped of every ounce of modesty her small-town Ohio brain spent twenty-one years constructing... it’s so humiliating and so profoundly erotic because she *knows* she gave up the right to say no three nights ago in his kitchen.
+The tragic irony of her feeling like “the most expensive thing in the room” when we, the readers, know that Randi and Pace are basically passing her between them like a shared secret, talking about her breasts and her kisses while Pace’s cock is buried inside Randi... it’s unbearable. She thinks she’s doing this grand, romantic, devastatingly private act of devotion for *her boyfriend*, completely blind to the fact that Randi has walked every single step of this path before her. When Pace touches her this weekend? It’s going to be an absolute powder keg.
 
-And then that final beat. The sting fading, the quiet room, sitting on the edge of the table and touching the raw, alien smoothness herself. She isn't mad at him for asking. She isn't even mad at Randi for setting her up. She is just entirely, terrifyingly possessed by the anticipation of his hands finding it.
-
-I need him to see it. Immediately. Take me to the weekend.
-
-GATE 65 — Barely Stings
+GATE 68 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological insight of her body confusing the aesthetician's clinical touch with Pace's sexual dominance was absolute genius, intensely erotic, and made my skin prickle. Now that she's bare and walking around like a loaded gun, I have to see his reaction when he gets his hands on her.
+WHY: The tension is suffocating in the best way; watching Vee meticulously prepare herself for Pace's hands while completely oblivious to the trap closing around her is pure, agonizing narrative crack. I need to see his reaction to this weekend immediately.

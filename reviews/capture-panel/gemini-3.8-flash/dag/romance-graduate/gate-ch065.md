@@ -1,22 +1,34 @@
-*capture-dag-v2-rich · gate ch065 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0262c804492d · 2026-09-19*
+*capture-dag-v2-rich · gate ch065 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 0262c804492d · 2026-10-11*
 
-REACTION
+REACTION:
 
-Oh, this chapter took the wind right out of me in the best possible way.
+Oh, my *heart*.
 
-First of all, Chapter 61 almost melted my Kindle—Pace and Randi fucking while talking about Vee, Randi taking him into her mouth to clean him off and then riding him again, the absolute filth mixed with this devastating, aching confession of love. Coming off that absolute five-alarm fire, I was primed for Vee to walk right into a buzzsaw of jealousy. And the setup was *so* painfully accurate to being twenty-one: borrowing the aggressive keyhole top, strapping on the four-inch induction heels in dead-ass January, inventing a golden Amazonian rival named Sheri just to have a shape to fear. Every woman who has ever felt insecure has put on that armor.
+I walked into this chapter with my stomach in absolute knots, because after the filthy, suffocating, completely unhinged three-ring circus of the last few chapters—Vee getting off to Randi's memory in her dorm room, Randi and Pace violently hate-fucking each other into the mattress while talking about Vee's breasts—I was bracing for impact. I thought Sheri was going to be the tripwire. I thought the lie was going to blow.
 
-And then Sheri turns out to be a five-foot-nothing, permed, loudmouthed country lesbian who immediately looks down Vee's shirt, checks out her legs, and asks Pace if he gets to motorboat them?! I screamed. I literally barked out a laugh. Seeing Pace—unshakeable, dominant, master-of-all-trades Pace—blush all the way to the tips of his ears? *God.* Put it in an IV. That blush did more for his character than ten chapters of him being effortlessly competent.
+Instead, Helen Rivers just casually shattered me on an emotional level.
 
-Sheri is an absolute gift. She’s funny, she’s brash, she sees right through the posturing, but then Helen Rivers pulls that trick she does so well and drops the trapdoor straight into your chest. The story about her coming out—the Marine Corps dad, the church, the entire life ripped away in a month—and Pace just showing up. Not with empty platitudes, but with donuts, fixing her lock, fixing the leak, taking her biking, giving her a ride home from the dance hall where he dances just to dance and never makes a "down payment." And then the quiet bomb: *He hasn't been home since he was sixteen.*
+First of all, Vee getting dressed in Meg's keyhole top, a borrowed micro-skirt, and Randi's four-inch stiletto heels to go sit in a sticky-floored local taproom in the dead of January is *so painfully twenty-one*. Dressing for the phantom blonde your self-hatred manufactured in the dark, only to walk in and face five feet of bleached permed roots, heavy eyeliner, and pure Appalachian steel? The instant Sheri looked Vee up and down—slowly, taking in the keyhole, the bare thighs, the ridiculous shoes—and instead of sizing her up like a sorority girl, her mouth just went into a soundless, appreciative *“oh”*? Vee bursting out laughing from the sheer, dizzying relief of it made my eyes sting. It’s so real. Women are so used to the razor blades we carry for each other that when another woman just flat-out enjoys you, it knocks the wind right out of your lungs.
 
-It makes the dark underbelly of this whole book hurt so much worse. Because Pace isn't just an erotic architect or a calculating math brain. He’s a deeply wounded, intensely loyal boy who builds safety for the people he loves because nobody built it for him. And Vee is sitting there in the cab of his truck, slightly buzzed, resting her head on his shoulder, falling completely, irrevocably in love with him—totally unaware that he just spent the previous chapter inside Randi, being told that Vee loves him, carrying Randi's mouth on him.
+And then Sheri asking Pace, at top volume, if he gets to motorboat those things, and watching *Pace*—the impenetrable, unreadable, empirical mathematician—turn beet red and rub the back of his neck? God. Vee got to see him entirely humanized, stripped of his polite professorial armor, off-duty with the one person who doesn't need anything from him.
 
-The warmth of this chapter is suffocating because the dramatic irony is a loaded freight train bearing down on them. I felt safe and terrified all at once.
+But the turn. *The turn.*
 
-GATE 62 — Another Round
+When Pace walks to the bar and Sheri drops her voice to tell Vee the truth about how they met? I stopped breathing. The dance hall, the men making down payments on women with two-steps, and Pace just dancing because the dance was the point. And then Sheri coming out, losing her entire life—her Marine dad, her church, her friends, the whole table pulled out from under her—and crying in the middle of a two-step. And Pace just driving her home in silence, showing up the next morning with coffee and donuts, fixing her landlord's broken lock, stopping the dripping faucet, inviting her on a bike ride, buying her a bacon cheeseburger. No hollow platitudes. Just *being there*.
+
+And then the casual, devastating reveal: *“Went bad with his daddy. He hasn't been home since he was sixteen.”*
+
+*Jesus Christ.* The pieces of Pace just keep falling into place. Daphne broke his heart in college, but his father threw him out in the cold as a kid. He is a boy built entirely out of exile. That is why he cooks. That is why he fixes things. That is why he shines his truck headlights on Sheri’s porch until the light clicks on, and why he holds Vee’s hip like ballast when her heels fail her. He builds shelters for other people because nobody built one for him.
+
+The tragedy, the absolute *knife* twisting in my gut while reading this gorgeous, tender chapter, is the dramatic irony. Vee is falling so deeply, cleanly in love with him—watching him drive with two hands on the wheel, ten and two, carrying her like something he has no intention of spilling—and she has *no idea* what he and Randi did in chapter 64. She thinks she's seeing the whole picture now. She thinks she has him figured out. She thinks she's safe.
+
+This book is cruel and magnificent. Zero physical sex, but the emotional charge and character depth here felt bigger than an orgasm.
+
+GATE 65 — Another Round
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The character work here is phenomenal—Sheri could have been a cheap joke, but instead she gave us the missing piece of Pace's soul, all while the secret triangle ticks like a time bomb under Vee's feet.
+WHY: The reveal of Pace’s estrangement from his father and the sheer, earned warmth of Sheri completely gutted me. It balances the dark, tangled web of Randi and Pace’s secret hookup with profound, aching tenderness. I could not turn the page fast enough.

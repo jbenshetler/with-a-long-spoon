@@ -1,20 +1,28 @@
-*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~80491aa34d7b · 2026-09-11*
+*capture-dag-v2-rich · gate ch062 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 7514bd75e597 · 2026-10-11*
 
-REACTION — Oh, this is dangerous in exactly the way I’ve been waiting for.
+REACTION — Oh, Randi knows exactly what she is doing, and I am both breathless and furious about how good she is at it.
 
-Vee dressed for Randi with the same keyed-up pleasure she reserves for Pace, skipped dinner because she trusted Randi to feed her, shared candy palm-to-palm with her, and then spent hours offering her the most intimate parts of her sex life while Randi steadily stripped every “clean” word away. Vee still thinks this is girlfriends gossiping. Her body absolutely does not. That neck kiss was not nothing. Randi’s reaction was not ticklishness. And Vee thanking her for the advice immediately afterward made my stomach turn, because Randi is being rewarded for engineering a reconciliation that preserved the lie.
+“Don’t you fade to firelight” is practically aimed at me personally—the reader who is sick to death of coy sex scenes—and then it becomes Randi’s method of getting Vee to stop sanitizing her own desire. That conversation was scorching because Vee isn’t just reporting acts. She is being made to inhabit them again, in front of the woman whose attention turns confession into sex. Randi barely touches her after that first appraisal at the waist, and still the entire dinner feels like foreplay.
 
-The line that got me hardest was “How does he act?” Randi does not argue Vee into a new desire. She just directs Vee’s attention to Pace’s unashamed appetite and lets Vee’s own body answer. That is so exquisitely, terrifyingly her method: no command, no visible pressure, one clean question, and Vee walks herself across. Then Randi eats the bread while Vee’s entire sexual understanding quietly rearranges itself. God.
+And God, Vee. She dresses for Randi with the same keyed-up pleasure she reserves for Pace, skips dinner because she knows she’ll be fed at their table, shares candy palm to palm, lets their knees rest together, and arrives carrying an erotic story she has polished into a gift. Then Randi says, “That’s my girl,” and Vee simply keeps going. Sweetheart, you are on a date. You have been on several dates. Your body has filed the paperwork even if your mind keeps losing it.
 
-And yes, it was hot. Not because Vee retold the sex—we already lived it—but because she was telling it to Randi, and Randi would not let her fade to firelight. “Give me the real one—the harder one” felt like a demand for Vee herself, not merely the details. Randi barely ate while Vee cleaned her plate without noticing. One woman consuming the story, the other consuming the meal, both pretending this exchange is ordinary friendship. I am chewing the furniture.
+The tasting conversation got me hardest—not only erotically, though absolutely erotically. Vee had turned that moment into a funny little story with an approved conclusion: gross, wrong, case closed. Randi refuses the conclusion without arguing with her. “I don’t.” “It was powerful.” “How does he act?” That is all she needs. She lets Vee remember Pace’s enthusiasm and discover that her own body remembers pleasure rather than disgust. No lecture, no explanation of the subtext, no demand that Vee become more sophisticated. Just one calm counterexample placed exactly where it will keep working on her during the walk home.
 
-But I am also furious. “You picked well” is an outrageous sentence from the woman who picked him for her. Vee nearly notices the technical lie and then politely returns it unopened. That is the whole nightmare in miniature: she keeps detecting the wrong shape, then deciding affection means she should not examine it.
+That is emotionally intelligent seduction. It is also manipulation. Randi knows Vee wants her. She knows what her level voice does, knows what those questions do, knows why Vee keeps bringing her these stories, and still keeps the entire exchange under the cover of friendship. She can guide Vee toward accepting her own taste and perhaps toward imagining Randi’s—while never risking the honest sentence, *I want you.* I understand why she is afraid. I’m still not letting her off the hook.
 
-The ancient comb and grooming lecture lodged under everything too. Hands in fur after the fleas are gone; touch as attachment, hierarchy, politics. Vee and Randi sharing one flavor, knees touching, hands squeezing, mouths meeting twice, the prolonged hugs—these women have an entire grooming ritual and only one of them knows what map it draws. Vee is beginning to know bodily, though. That last walk is the first time she lets the thought keep pace instead of forcing it away. She heard Randi say she was turned on by tasting herself, admitted Pace is enthusiastic, kissed Randi’s neck again, and carried both facts home together. Tuesday cannot come quickly enough.
+“You picked well” made the back of my neck prickle. Vee thinks the tiny inaccuracy is that Pace approached her first. The actual lie is enormous: Randi helped pick her. After last chapter’s staged first meeting, that sentence feels almost indecent. Pace and Randi have now successfully performed strangers, flirted around their shared knowledge in front of Vee, and congratulated her for a choice they arranged. The chapter lets Vee feel adored while I can see the machinery under the table.
 
-GATE 58 — A Clean Plate
+The grooming lecture was not remotely filler. Who touches whom, how bodies replace speech, how care maps the politics of a group—yes, hello, that is this entire relationship. Vee hands Randi candy without looking. Randi fixes clothes, holds seats, places hands on Vee’s waist, kisses her twice, calls her gorgeous. Pace feeds and washes and touches. The fleas were never the point. Neither is the brunch, or the story, or the advice. The hour is the point. Who gets the hour is the relationship.
+
+And that last neck kiss nearly killed me. Vee does it before she decides, again. Randi’s body answers before she can disguise it, again. “Ticklish” is becoming the least convincing word in this book. Vee thanks her for the advice while her mouth is still essentially on her neck, then walks home with Randi’s sexual verdict keeping pace inside her. She thinks she is considering whether tasting herself is gross. She is also carrying the image of Randi liking the taste of a woman, whether she admits that image yet or not.
+
+I would text a friend: *She spent dinner making her best friend explicitly narrate sex, calmly told her tasting a woman turns her on, then let the girl kiss her neck goodbye, and we are STILL calling this friendship.*
+
+GATE 62 — A Clean Plate
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The heat, emotional danger, and psychological machinery are now completely fused. Vee’s desire for Randi is finally becoming a thought she cannot quite outrun, and I need to see what happens when she realizes the woman guiding her awakening already knows every destination.
+WHY: This gave me exactly the combination I’m here for: explicitness that changes a character’s inner life, tenderness charged almost past endurance, and deception sharp enough to keep the pleasure dangerous. I need Vee’s mind to catch up with her body, but after “I don’t,” I can feel it starting.

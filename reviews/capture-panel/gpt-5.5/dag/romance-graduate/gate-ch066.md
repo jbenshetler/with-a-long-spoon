@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~78023057031c · 2026-09-11*
+*capture-dag-v2-rich · gate ch066 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha fc6ed94829c1 · 2026-10-11*
 
-REACTION —
+REACTION — Oh. This one got me in the ribs, quietly, after all that heat. I expected “hangover” to be funny domestic aftermath, and it is, at first: water staged on a paper towel, the memory-deck of last night scattered everywhere, him making cinnamon raisin bread like that is a normal response to a drunk girlfriend asleep upstairs. The care is so ordinary with him that it almost hides itself. Almost. But Vee sees it now. She’s getting better at seeing the labor inside his quiet.
 
-Oh. This one got under my ribs in that quiet way where nothing “happens” and then suddenly I’m sitting there with my hand over my mouth.
+And Sheri is still a delight even in absence. I loved Vee waking up with the truth of her settled: the fake blonde replaced by this loud little gay woman who looked at her legs like a gift. That relief felt so real. Not saintly, not instantly enlightened, just: oh thank God, I don’t have to be jealous of this woman, and also I kind of liked being looked at by her. Vee, babe. File that under “things you are not processing.”
 
-The hangover beginning was so domestic it almost tricked me. Water waiting where she’d find it. Paper towel under the glass because of course he thought of the wood. The undershirt. The forehead kiss after he thought she was gone. Bread. Cinnamon raisin bread, because apparently this man processes care by becoming a one-person recovery ward with yeast. I am extremely vulnerable to competent tenderness and this chapter knows it.
+But then the chapter turns, and it turns hard. “Sheri’s my friend. My one friend. There isn’t anyone else.” That sentence made the kitchen go cold for me. Because of course he can host a room, of course he can make everyone stand taller, of course he can ask the perfect question. That doesn’t mean he has anyone. It means he knows how to give people the first line and step back. It means he can be socially graceful without being socially held. That distinction hurt.
 
-But then the friend thing. God. “Sheri’s my friend. My one friend.” That made the whole kitchen go cold for me too. Because it isn’t melodramatic. He doesn’t give a tragic speech. He gives the cleanest, most practical explanation of loneliness I’ve read in ages, and somehow that is worse. Women misunderstand it. Men form friendships through competition and he missed the window. Ordinary questions have gaps under them. That last part especially hurt me. The little social doorways everyone else tosses back and forth without thinking, and every one of his opens over air.
+And his explanation about men making friends through competition, and missing the pack entirely, was maybe the clearest I’ve ever understood him. He was too young, too smart, too unsafe at home, too ahead, too alone, and then by the time people his age arrived, he’d already been forced into a shape that couldn’t meet them normally. I don’t know if every word of his theory is objectively true, but I believe he believes it because his life taught him that. That “door’s on a timer” line is so bleak because he says it like weather.
 
-And Vee seeing it. That’s what I loved. She doesn’t rush to make it cute or fix him or smother him in pity. She actually understands the scale of what he didn’t have because she can measure it against what she does have: Meg, Kayla, Cassie, Randi. Even the thought that one person can’t be all of that for somebody landed hard, especially because we know the “one person” was Daphne, and that whole thing is still sitting there like a beautiful wrong shape under glass. I keep wanting to be allowed one clean feeling about him, and the book keeps refusing. Correctly. Infuriatingly.
+The Daphne piece underneath all this is horrifying in that quiet way this book keeps doing. Vee won’t name it, and I felt that refusal. She is trying so hard to hold Pace’s lived tenderness and the wrongness of the situation in the same hands. And she’s right: Daphne was “the one” partly because the entire structure of his life gave him no other one. That makes the love real and the damage worse. No wonder he treats saying love like handing someone the detonator.
 
-Also: the Randi shadow is still in the room even when she isn’t. Vee naming Randi as one of the people who carries her heartbreak made me flinch because yes, true, and also no, not safe, not clean. Randi is part of Vee’s support system and part of the secret machinery. I hate how much that duality works on me.
+The ending hug worked on me. Vee not apologizing, not making him perform injury for her, just coming around the counter and putting her whole weight into him the way Sheri did. That is a real turn in the bond for me. Not flashy, not sexual, but intimate in a way that matters. She sees him more fully now, and instead of panicking or trying to fix him, she stays. I melted a little.
 
-No sex here, barely even touch until the end, and I did not care. That hug was intimate. Vee crossing the counter instead of saying sorry was exactly right. The Sheri echo in the hug made me ache. Cheek to chest, whole weight committed. That is the kind of quiet chapter I trust because it moves the relationship somewhere sex alone couldn’t. It makes Pace more lovable and more frightening, because now I understand better how much of his emotional life got built around scarcity. And that makes the current lie with Randi feel even more dangerous. He knows what abandonment costs. He knows what being left alone costs. So what, exactly, does he think this secret will cost Vee?
-
-GATE 62 — Hangover
+GATE 66 — Hangover
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was a bridge chapter, yes, but the kind that earns its quiet. It deepened Pace in a way that made me more attached and more worried, and Vee’s response felt grown-up and emotionally exact. I want the next chapter badly now, because the tenderness is making the eventual reveal feel less like drama and more like a structural load-bearing disaster.
+WHY: This was a quiet chapter, but not a stall. It opened Pace in a way I needed, and Vee’s response showed real emotional growth without turning her into a therapist. I want the next chapter because this changes the weight of everything: Sheri, Daphne, the missing “I love you,” and what Vee thinks she can ask of him.

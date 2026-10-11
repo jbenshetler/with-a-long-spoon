@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha f697ae9ef8f2 · 2026-09-19*
+*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · 2026-10-11*
 
-REACTION:
+REACTION
 
-Oh my god. *Oh my god.* This chapter felt like being shut in an unventilated room with someone else’s fever. I am actually breathless.
+Oh, this hit right in the chest. That was breathtakingly intimate.
 
-This is the exact interiority I am starving for in romance. Most books treat a woman exploring herself as either a sterile checklist of body parts or an effortless, empowered girlboss montage. But this? The absolute, agonizing weight of girlhood shame—the ghost of locker-room jokes, the lingering puritanical voice saying *excessive*, *shameful*, *gross*—slamming directly into the undeniable, animal reality of her own arousal? It was breathtakingly honest.
+The psychology here is so sharp it actually hurts. We’ve seen Vee reveling in being the "pleasure princess"—strutting around naked, demanding worship, letting Pace adore her body, letting Randi gas her up—but here, alone in a baking dorm room wearing his oversized shirt, the deeply ingrained female shame catches right back up to her. That belief that her body is *too much*. Too wet, too excessive, a shameful spillover that requires an apology or an absolution.
 
-Watching her sit there alone in the overheated dorm room, wearing Pace’s shirt, suspended between two different mirrors: Pace’s face, utterly unbothered, treating her body like a feast that needs no apology; and Randi’s voice across the white tablecloth, cool and worldly, saying *“It was powerful. It turned me on.”* Vee is being pulled open by two people at once, and she’s trying so desperately to catch up to the woman they both see.
+And then that reach. God, the tension of her fingers hovering a breath away from her own lips. The collision in her head between Pace’s completely shameless, joyful enthusiasm (*"as if the plenty of her required no pardon"*) and Randi’s cool, devastating admission across the white tablecloth (*"It was powerful. It turned me on"*). She wants to cross that threshold so badly. She wants to claim herself the way they claim her. But she freezes a millimeter short. That hesitation—that inability to close the last fraction of an inch, followed by the immediate, reflexive wipe of her fingers on the sheet like she’s trying to erase evidence—was utterly gutting.
 
-And that moment—the fingers slick to the knuckles, the sticky strands bridging the gap, lifting her hand to her mouth. My heart was in my throat. The description of her scent—*“a hothouse with its doors shut, the air around a tropical flower without its sweetness”*—is stunning prose. It’s erotic, exact, and completely grounded in real flesh. Then that excruciating, trembling pause where she simply *cannot* close that last breath of distance. The old conditioning won that round. She wiped her hand on the sheet like a child erasing a mistake.
+It’s the psychological exactness I crave. She can take a man in her mouth in a dark truck cab; she can hike her hips and strip her underwear off while he drives; but tasting *herself*, accepting her own scent and wetness without the buffer of someone else's desire, is the wall she can't scale yet. And that closing image: shoving the window open to freeze out the evidence before Cassie walks in, buttoning up the giant shirt to make herself "respectable," and then deliberately lying down directly on the cold, damp stain she made. *Her mess. Hers to lie in. Her mouth was still empty.*
 
-And then the ending line: *“Her mouth was still empty.”* Chills. Absolute chills down my spine. Because she didn't cross the threshold tonight, but the door is unlocked now. She knows what she held back from. That reach is haunting her, and it’s going to eat her alive until she finally takes it—whether from her own fingers, from Pace’s mouth, or from Randi’s.
+What a quiet, devastating, intensely erotic chapter. It didn't need another person in the room to be scorching, because the real battleground in this book has always been inside Vee's own skin.
 
-GATE 60 — The Reach
+GATE 63 — The Reach
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The sheer psychological precision of that hesitated reach—caught between deep-seated shame and waking desire—was mesmerizing, gorgeous, and scorchingly intimate.
+WHY: The masturbation scene was intensely hot, but the emotional core—her hesitating a breath away from tasting herself, caught between Randi's coolness and Pace's reverence—was absolute perfection.

@@ -1,18 +1,28 @@
-*capture-dag-v2-rich · gate ch061 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~b9d0068c9a3c · 2026-09-12*
+*capture-dag-v2-rich · gate ch061 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9feb48dd23cb · 2026-10-11*
 
-REACTION — Oh, this is almost cruel in how perfectly it gives Vee the night she wanted. Pace saying “Vee’s boyfriend” over and over in public absolutely got me. Not because it replaces *I love you*—it does not—but because he understood at least one part of what she had asked for and acted on it. He brought their relationship out of the house, claimed the name without hedging, and made himself answerable to her people. And then he remembered every tiny story she had ever told him and used that knowledge to make each person feel interesting rather than inspected. Cassie’s “You can stay” nearly undid me. That is the blessing that matters.
+REACTION — Oh, this gave me almost everything I want and made me furious about the price of it.
 
-But I spent the entire three-person ending with my stomach tight. Vee thinks she is watching her two favorite people meet. Pace and Randi are watching the woman they secretly chose sit between them, glowing because she believes she created this. “They share an interest. You.” Sir. That sentence has another meaning, and at least two people in that truck know it. Randi gripping Vee’s hand when Pace names himself the boyfriend, Randi’s glazed quiet after nearly declaring herself, Pace seeing their kiss and giving nothing away—it all feels like the hidden arrangement breathing directly under the tablecloth.
+“Vee’s boyfriend.” I actually felt that hit. He finally gave her the word she asked him for, publicly, plainly, over and over, with no hedging and no embarrassment. And then he went around that room remembering every scrap she had ever told him about her people and making each of them feel interesting. Of course I melted. This is why I cannot quit Pace: his attention is an act of service. He doesn’t dominate a room by making himself its center; he finds the little locked door in each person and hands them the key. Cassie telling him their origin story nearly undid me, and “You can stay” mattered more than everyone else’s approval put together.
 
-And Vee keeps noticing! The sting when Pace makes Randi laugh. The panic when he mentions their brunches. The wondering about what their kiss looks like to him. That final “small sentence” watching Randi turn her glass. Her instincts are working beautifully; she just keeps translating every warning into evidence that she is loved. That hurts, because she *is* loved. She isn’t wrong about the tenderness. She is wrong about the room she is standing in.
+But Randi crushing Vee’s hand when he said “boyfriend”—God. Vee thought Randi was sharing her happiness, when Randi was standing there hearing her lover publicly name their other lover in a way he has never named her. There were about six emotions in that grip, and Vee could read only the one permitted by the lie.
 
-The heat worked on me because Vee authored it so completely: she wanted him, took him into her mouth, told him what she needed, physically placed his hand where she wanted it, and kept choosing. Pace’s hand in her hair “not steering, just holding” is exactly the distinction I read for. But the moving-truck sex made me tense rather than melt. One wrist driving while he brings her off is not dominance to me; it is two people being dangerously stupid at speed. I wanted them home in that enormous bed.
+The three of them alone at the table was beautiful enough to hurt. Both Pace and Randi telling Vee, in their separate languages, that she transformed their lives; Vee overwhelmed in the middle; Randi quietly coming apart when she called Vee the highlight of her year. That is the relationship I want. It is already there. The warmth is real, the love is real, and that makes the deception worse, not better. They sat around her performing their own first meeting, passing double meanings over her head, and enjoying how perfectly their hidden truth could masquerade as devotion to her.
 
-I’m still fiercely in. The public boyfriend declaration and his tenderness with her friends gave me exactly what I’d been starving for, while the three of them together made the secret feel more dangerous than ever. I would text a friend: “She thinks she hosted a meet-the-friends dinner. She actually sat down between the two people who conspired to seduce her, and THEY TOASTED HER.”
+And then Vee felt that tiny stab when she saw Pace laughing with Randi. That mattered enormously. Her body knows the information could change the room even while her mind talks itself out of the feeling. She immediately blamed herself for looking for a trapdoor, but there is a trapdoor. She is sitting directly on it while the other two exchange glances across the table.
 
-GATE 57 — Among Friends
+“They share an interest. You.” I wanted to throw the book and kiss it. That is exactly the fantasy and exactly the crime. Pace could say the whole concealed arrangement to her face because he knew she would hear the innocent meaning. “We get along” was even worse. Sir, you have had sex with that woman. Repeatedly. You do not merely get along.
+
+And then the truck scene completely got me, damn it. Vee wanted him with her whole body because she had watched him care for everyone she loves. The sex meant something particular: she was turning pride, gratitude, relief, possession, and that public word into appetite. She chose every step. His hand in her hair held without steering; she decided what she wanted to give him and then plainly told him what she needed. Later she took his hand and put it exactly where she wanted it, moved the lace herself, and kept choosing. That is the dominance-and-agency combination I came here for.
+
+The image that finished me was his hand going still in her hair—the man who can manage six things at once reduced to nothing but what she was doing to him. Yes. That is my weakness in one sentence.
+
+I was almost giddy with her afterward, jeans around her knees, openly undone and completely unashamed. But the final buried image of the turning glass brought the dread back. Some part of Vee is still watching. Some part knows that people who love her are arranging the room while she isn’t looking. Tonight she was too happy and too satisfied to hear it, and I cannot begrudge her that happiness. I also cannot forgive Pace and Randi for using it as cover.
+
+GATE 61 — Among Friends
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-ALMOST-STOPPED: “the truck ran on steady under his one wrist the whole time”
-WHY: Pace publicly naming himself and winning Cassie over made me ridiculously happy, while every exchange among Pace, Randi, and Vee tightened the hidden trap. I need the next chapter immediately because Randi and Pace finally shared a room with Vee between them, and Vee’s instincts are beginning to speak even if she still cannot hear them.
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “We get along,” he said.
+WHY: Pace publicly claiming Vee, winning Cassie, and then letting Vee direct all that emotion into sex was almost perfectly calibrated to me. But the concealed intimacy between Pace and Randi is now inside every tender moment, and I need Vee to find the trapdoor.

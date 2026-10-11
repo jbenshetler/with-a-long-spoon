@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch060 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~c23f4d1deeee · 2026-09-11*
+*capture-dag-v2-rich · gate ch060 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a79198d30e3 · 2026-10-11*
 
 REACTION —
 
-Oh, this chapter is trouble in lipstick.
+Oh, this chapter got under my skin in the sneakiest way. Not because it was explosive in the way the porch was explosive, but because it let the whole Randi/Vee thing sit there under a perfectly normal dinner and breathe through the floorboards. I felt the heat of it before Vee would let herself feel it, which is delicious and also stressful, because girl. Girl. You are not just telling your best friend a sexy story. You are performing for her. You are bringing her the coat lining like evidence. You are letting her ask exactly the questions that make your body answer. And then you go downstairs and come with her face in your head and come back telling yourself it was “obviously” about Pace. Sure, babe. Absolutely. Completely normal heterosexual restroom situation.
 
-I came in expecting the Randi debrief, and yes, I wanted that because after the coat scene I needed the pleasure of telling it. There is a whole erotic afterlife in getting to narrate a thing to the person who helped stage it, and the book knows that. Vee telling the story becomes its own sex scene before the restroom ever happens. The coat lining. The way she *shows* Randi the evidence. Randi’s “Wow,” going hoarse. I felt that land. Not just because it’s hot, though God yes, but because Vee is feeding off being seen by Randi now almost as much as she feeds off being taken by Pace.
+The anthropology opening made me sit up. Gifts carrying the giver, objects not being free, the hau wanting to go home — yes, yes, yes. The scarf, the shoes, the coat, the blanket, the photographs, the dresses, the food, all of it suddenly has a theory humming under it. And Randi wearing *the scarf* to this class with Vee? I noticed. Vee noticed without looking at it too directly. The book is getting louder about objects as claims, and I am into it.
 
-And Randi. Randi, Randi, Randi. The scarf! The hand on Vee’s chest, “This did it,” and that tiny adjustment of the wrap blouse like she has rights there. I am now reading every touch of hers with a lit match in my hand. She can make approval feel like a hand under Vee’s chin. She is so generous and so hungry and so practiced at turning a room so no one notices she’s steering. That “hmm” when Vee gave her the line she’d rehearsed hurt me more than I expected. It was such a perfect little withholding. Vee wanted applause from her and got analysis instead, and then had to go deeper, dirtier, truer to win Randi back. That’s dangerous. Delicious, but dangerous.
+Randi scared me here in a way I liked and did not like. Her mother’s underwear story was awful. Not melodramatic awful, just socially surgical awful. Laundered, folded, displayed beside the plate in front of the boy. I felt that in my whole body. It explains so much of Randi’s talent for humiliation as theater and cover and control. She learned from a master. And then watching her pivot back to Vee, tuck the hurt away, pull the room warm again — I believe her, and I distrust her more for how good she is at it.
 
-The anthropology lecture was almost too on the nose and then immediately not, because yes, gifts. The scarf, the heels, the coat, the cashmere blanket, the food, the shirt, the dress, the stories themselves. Everything in this book carries somebody back toward somebody else. A gift is never free? Ma’am, apparently neither is a neckline. I love that Vee sits there not realizing she is basically in a class about her own life.
+The “good thing you got relief” moment made my stomach drop. For one second I thought Randi really was calling her out, and I felt Vee’s panic like the police lights again. Then Randi covers it as Pace. Covering. That title is doing work. Everybody is covering: Vee covers Randi’s real effect with Pace’s name, Randi covers her knowledge or almost-knowledge with a plausible sentence, the restaurant closing covers the story Vee is relieved not to tell. The whole chapter is people sliding cloth over the thing on the table.
 
-Randi’s underwear story gutted me. That mother. Laundered, folded, waited for the boy. Publicly making Randi’s body into evidence at dinner. Suddenly so much of Randi’s shine has a hard seam under it: she learned presentation as armor because humiliation in her world is served on china. And the boy leaving, not because he was cruel but because he was mortified out of the room forever — that hurt. It also made Randi’s current behavior with Vee more frightening to me. She knows exactly what it is to have intimacy staged by someone else for someone else’s purposes. And yet here she is, staging.
+And yes, it was hot. Not peak like the porch or the bedroom, but very alive. The erotic charge was almost all in the telling: Vee making herself vivid for Randi, Randi’s eyes going dark, the coat lining turned out, the hand on the wrist, “how much could he see?” That question is obscene in the best way because it is about Pace and not about Pace. It’s Randi asking to see Vee seen.
 
-The bathroom orgasm absolutely got me. Not in a “here’s another explicit bit” way, but because the center of gravity shifted while Vee was insisting it hadn’t. She tells herself it’s Pace, obviously, all of it about Pace, while the thing that pushes her over is Randi’s face and Randi’s voice and the sentence becoming command. I actually said “oh honey” in my head. We are well past harmless admiration now. Her body knows. Her mind is still filing paperwork.
+I am very, very ready for the dinner with Pace and Randi in the same room. Also terrified. Vee is floating into this semester thinking it’s going to be “very good,” and I’m sitting here with my Kindle saying, honey, the table is set and you do not know who arranged the seating.
 
-And then Randi knowing/not knowing at the table was exquisite. “It’s a good thing you got relief” made my stomach drop with Vee’s. For one second I thought, oh, she sees all of it, she is going to name it. But no, she gives Vee the Pace explanation, or lets Vee take it, and that may be worse. Randi knows how to make a door and also how to leave it apparently closed.
-
-The goodbye kiss and the neck kiss. My entire attention sharpened. The mouth kiss is already “as they do,” which is insane and also perfectly believable because Vee has normalized it under friendship. Then Vee kisses the neck where she cried, and Randi flinches and laughs it off as ticklish, but I do not trust that flinch. That felt like contact hitting the real wire.
-
-I am a little itchy that Vee still hasn’t told Randi about the kiss-after-oral moment with Pace. Not because I need her to report every detail like homework, but because she has made “telling Randi everything” part of the erotic structure, and now the first withheld thing has weight. She says Thursday. Sure, girl. Thursday is where all innocent things go to become plot.
-
-Mostly, I’m pulled hard again. This is exactly the kind of chapter that makes the sex hotter by making the emotional geometry worse. Pace isn’t even present, and he’s everywhere; Randi is present, and Vee cannot admit how much. The semester is going to be a bonfire.
-
-GATE 56 — Covering
+GATE 60 — Covering
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This had everything I want from this book: heat, aftermath, social danger, and Vee’s self-deception getting thinner by the page. The Randi/Vee current is now openly alive to me, even if Vee keeps calling it Pace, and I need the Wednesday dinner like I need gossip and oxygen.
+WHY: This was exactly my kind of bridge chapter: charged conversation, buried knives, emotional context snapping into place. The Pace/Vee reunion is still glowing, but Randi is now openly warping the air around Vee, and the book knows it even when Vee doesn’t. I want the next chapter badly because tomorrow’s dinner feels like a lit match being carried into a room full of silk.

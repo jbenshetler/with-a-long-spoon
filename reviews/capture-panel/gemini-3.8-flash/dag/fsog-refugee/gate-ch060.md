@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch060 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha b9d0068c9a3c · 2026-09-19*
+*capture-dag-v2-rich · gate ch060 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6a79198d30e3 · 2026-10-11*
 
-REACTION:
+REACTION
 
-I need to scream into a pillow. I am genuinely, violently stressed out right now.
+I am sitting here with my hands flat on my desk, just staring at my screen, feeling like I am watching a car crash happen in absolute, glamorous, horrifying slow motion.
 
-First of all: Dr. Marsh’s opening lecture about *hau*—the spirit of the giver that lives inside a gift, pulling it back toward its source so that no gift is ever truly free? That is the most menacing, brilliant thematic shot across the bow this author has ever fired. You’re telling me that while Vee is sitting there wearing the coat, talking about the cashmere blanket, and letting Randi buy her wine, she’s literally studying the invisible ropes tying her to two people who orchestrated her entire life? Terrifying. Absolutely chilling.
+The title of the anthro lecture at the beginning—*the gift carries what they called hau, the spirit of the one who gave it, and the hau wants to go home*—hit me like a brick in the ribs. The scarf around Randi’s hair that was once around Vee’s neck. The heels on Vee’s feet that Randi handed her. The coat Randi told her to wear bare. And Randi sitting across that table in the loft, wearing cashmere and lace, drinking red wine, drawing every single drop of Friday night out of Vee like a spider draining a fly.
 
-And then this dinner. God, this dinner.
+Vee literally showed her the stain on the satin lining. *The stain from when she touched herself on the drive.* I gasped out loud. The sheer, terrifying intimacy of that! And Randi wasn’t just listening like a supportive sorority sister getting the dish—Randi was getting off on it. You could see the temperature in the room spike. When Randi asked, *"Could he see you were ready?"* with those dark, liquid eyes, she wasn't asking as a spectator; she was stoking the fire she helped build.
 
-I was having so much fun watching Vee finally get to brag about her weekend. The "pleasure princess" bit, the midnight pancakes, the absolute sheer bravado of flashing him on the porch—Vee is so happy, so glowing, so entirely in her element. But watching her feed every single private, sacred millimeter of her and Pace’s intimacy to Randi is like watching someone casually hand over the launch codes. And Randi! Sitting there in her cashmere and lace, drinking red wine, gently stoking the fire, pulling every detail out of Vee like a master interrogator—and knowing what *we* know from Chapter 47, that Randi is hopelessly, obsessively in love with her!
+And then Vee has to go down to the bathroom and finish what the conversation started, and *whose face does she see when she goes over the edge?* Not Pace. Randi. *"There’s no way he couldn’t."* Vee comes back up and tries to tell herself it was all about Pace, but the lie is cracking so fast it’s practically audible. And then Randi’s little double-entendre: *"Things were really heated. It's a good thing you got relief."* My heart stopped. Randi knew. Or Randi was playing with the edge of knowing, baiting her, testing the waters.
 
-The bathroom scene made my stomach completely drop. Vee going into a cold restaurant stall to get off because she is so wound up from retelling the story—and right at the peak, it isn’t Pace’s face she sees behind her eyes, it’s *Randi’s*. *"Because that had been about Pace, obviously. All of it. About Pace."* Oh, Vee. Oh, honey. You are in so much deeper than you know. You are swimming in an ocean with two sharks who both adore you, and you think you’re just having a fun semester.
+And that ending on the sidewalk. Randi pointing to the spot on her neck, Vee kissing it without a second thought, and Randi flinching and claiming it "tickles." Randi is losing control of her own game. She thought she was the cool, detached puppet master setting up a delicious little threesome dynamic where she dictates the terms, but Vee’s genuine affection and unguarded physicality are getting under her skin. Randi looked genuinely rattled for half a second.
 
-Then the walk outside. When Randi pointed to her neck, and Vee just—casually, affectionately—bent down and kissed it, and Randi *flinched*? My jaw hit the floor. That wasn't a tickle! That was a woman who is hiding an agonizing, burning torch for her best friend getting touched exactly where she wants to be touched, completely unexpectedly, and having her entire nervous system short-circuit! Randi almost dropped the mask right there on the sidewalk!
+And tomorrow night is the dinner.
+Pace. Randi. Cassie. Kayla. Meg. All in one room.
+Vee thinks she’s bringing her lovely, supportive friend to meet her tender, devoted boyfriend. She has no idea that the two of them have already fucked on that couch, that they planned her, that Randi’s cashmere blanket is the one Vee curled up in on Saturday morning. It is a powder keg with a lit match an inch away from the fuse, and Cassie is going to be sitting right there watching every glance. I need Wednesday night immediately. I cannot look away.
 
-And now tomorrow is Wednesday. Tomorrow night is the dinner. Pace, Randi, Cassie, Kayla, Meg—all of them in the same room. Pace, who knows Randi is lethal and saw her look at Sheri like a "harem applicant." Randi, who is quietly unraveling with longing for Vee. And Vee, floating in the middle, completely blind to the bomb ticking under the table. I can't breathe. I need the next chapter right this second.
-
-***
-
-GATE 57 — Covering
+GATE 60 — Covering
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight it’s humming. The psychological layers—Vee getting off to the memory of Randi’s face while swearing it’s about Pace, Randi flinching when Vee kissed her neck, and the giant group dinner looming tomorrow—make it completely impossible to put this book down.
+WHY: The psychological tension between Vee and Randi across that table was electric and deeply unsettling, and the impending collision of Pace, Randi, and Cassie at tomorrow's dinner is impossible to put down.

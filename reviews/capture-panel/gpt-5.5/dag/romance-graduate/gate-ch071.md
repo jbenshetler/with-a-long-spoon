@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch071 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~00dbf427b44c · 2026-09-11*
+*capture-dag-v2-rich · gate ch071 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d556fe46d58e · 2026-10-11*
 
-REACTION —
+REACTION — Oh, she is in trouble. Real trouble. Not “oops I kissed my friend at a party” trouble. The kind where your whole carefully-built self-concept starts giving way under you and you grab the nearest sturdy thing, and the sturdy thing is your boyfriend’s body, and even that cannot save you from knowing.
 
-Oh, this one got me in the stomach. Not because it was the hottest chapter on the page, exactly, though it is absolutely hot in that horrible, wired, confessional way. It’s because Vee finally tries to use Pace as a door she can slam shut on Randi, and the door turns into a mirror.
+This chapter had me by the throat because it did the thing I wanted and dreaded: it made the Randi kiss impossible to tuck away, and it made Vee try anyway. The fact that she goes to Pace not just because she wants him, but because she wants him to overwrite Randi, is awful and hot and sad. I hated that for him a little. I hated that she used him like a cure. And then, because this book is mean to me personally, the scene turns into Pace making her tell the truth by giving and withholding exactly what she needs, and it is scorching. Not because “two girls” as a cheap button, though Vee tries to reduce it to that in her head. Because he knows her. He knows where she smooths things over. He hears the fake version immediately. He makes her come through honesty. Sir. SIR.
 
-The opening killed me: her standing in the dorm with Randi’s skirt over the chair like the skirt itself committed the crime. That is such a real girl move. Blame the outfit. Blame the drinks. Blame the bit. Blame the sex brain. Anything except the clean, terrifying fact that she wants Randi. And then the new bare skin being “an offering with the wrong name on it” — yes. That is the whole problem in one unbearable little sentence. Pace asked for it, Pace received it, Pace worshipped it, and still her mind hands it to Randi.
+And Pace here. God. He is so calm that it is almost scarier than anger. “What was that?” got me, because yes, of course he would feel the difference. He knows the texture of her wanting by now. He knows when she is hungry and when she is trying to escape herself. And then the way he asks “Do you want to sleep with a woman, Vee?” without saying Randi. That was so gentle and so devastating. He gives her room, and she uses the room to lie.
 
-And Pace. God. I am furious at him in the large architecture of the book, because he knows too much and is hiding too much, but inside this chapter? He is devastating. The way he knows immediately that she has brought him anger, not just arousal. The way he lets her tell it through the body because that is the language they have built. The way he makes the truth erotic without making it punishment. I should be more suspicious of that, and I am, but I was also completely caught. He is so good at giving her a structure where shame can become speech. That is the drug of him.
+That lie hurt more than I expected. Not because I think every goodbye kiss must be disclosed in legal detail, but because she knows what he is asking. She knows. She feels the little cold thing go down in her when she says no. And the roadhouse kiss flashing back after she lies — the one Pace may already have seen — made my stomach drop. The first lie. There it is. There is the crack.
 
-The “tell me the real story and I’ll give you what you want” thing should have made me bristle, but in the moment I didn’t. Because Vee didn’t. Because the book has trained me into understanding that for her, being held at the edge until she tells the truth is not humiliation from outside; it is almost relief. She wants the rule. She wants the toll booth. She wants somebody else to make the confession unavoidable. And the terrible delicious part is that Pace knows exactly how to do it.
+Also: the erotic charge here is exactly the kind I keep reading for. It is explicit, yes, but the sex is not decoration. It is the mechanism by which she is forced to perceive herself. Every inch he gives her has an emotional price. Every denial makes her less able to hide. That is so much hotter to me than ten generic “he growled” scenes.
 
-But the chapter’s cruelest move is after. Once she has confessed the big visible thing, he asks, “Anything else?” and she says no. And I actually whispered, oh Vee, no. Because she really believes she is being honest. She has a whole moral system built around disclosure, and she has no idea how fast she can launder something before it reaches her mouth. The goodbye kisses become “just how they are.” Touching herself to Randi becomes “hers.” She is not lying like a villain. She is lying like a person whose self-image cannot survive the sentence yet.
+I am furious at Randi all over again, but this chapter is not even really Randi doing anything new. It is the afterimage of her. Salt and lime still in Vee’s mouth after Pace. That line killed me. The man is under her, in her, holding her, and the woman is still there. That is not going away. And then ending on Tuesday? Perfectly cruel. I would absolutely read on because I need to see Vee sit beside Randi with this lie inside her and Pace’s question still warm in the room.
 
-And then: “Do you want to sleep with a woman, Vee?” I loved that he doesn’t say Randi. I hated that he doesn’t say Randi. I loved how much room he gives her, and I hated knowing that he is standing in a room she doesn’t know exists. The flicker when she says he wants Randi — oh, I saw that. I am carrying that little flicker around like a lit match. Because she thinks he defended himself out of sweetness, and maybe he did, but he is also defending the hidden truth from being accidentally named in the wrong direction.
-
-The ending is perfect and mean. She “got away with it,” except no she didn’t, not even a little. Pace isn’t angry, so she thinks the danger has passed, but the danger was never Pace’s anger. The danger is Tuesday. Sitting next to Randi with that kiss still in her mouth and no approved story big enough to contain it. I am dying to see that class. I am also scared, because Randi is going to know. Of course she is going to know. Randi probably already knew on the dance floor.
-
-This book has officially moved from “secret arrangement I am watching with dread” into “everyone’s desire is now actively creating weather.” Vee is not behind the plot anymore; her body is starting to outrun the plot. And I cannot look away.
-
-GATE 66 — Boyfriend
+GATE 71 — Boyfriend
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-ALMOST-STOPPED: "It didn't mean anything."
-WHY: That line nearly made me want to shake the book, because we are so far past “didn’t mean anything” that even Vee can barely keep the sentence standing. But the chapter absolutely has me: Pace turning confession into heat, Vee using boyfriend as a handrail, and Tuesday looming like a lit fuse. I’m reading on immediately.
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “It didn’t mean anything.”
+WHY: This chapter was hot in the exact dangerous way I want: the sex exposed the emotional truth instead of covering it. The lie at the end chilled me, but it also made the next chapter feel absolutely necessary, because Tuesday with Randi is now a lit match.

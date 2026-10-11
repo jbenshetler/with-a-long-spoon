@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch064 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~f697ae9ef8f2 · 2026-09-11*
+*capture-dag-v2-rich · gate ch064 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · 2026-10-11*
 
-REACTION — Oh.
+REACTION — Oh. Oh, the book is playing fair and being wicked about it.
 
-Well, there it is. The blade did not fall on Vee yet, but it flashed hard enough that I felt my whole stomach go cold.
+I knew we were headed into the ethical fire with Pace and Randi, but I did not expect to be dropped directly into the bedroom with them like that, no hallway, no warning, just Randi already coming on his mouth. And honestly? It worked on me immediately, partly because it is hot, yes, obviously, but more because it answers the exact thing Vee couldn’t do in the last chapter. Vee stopped one breath from tasting herself; Randi takes it from Pace’s mouth, then from her own thumb, then later from both of them, and she makes the act almost conversational. “Now it’s mutual.” Ma’am.
 
-I knew Pace and Randi were involved in the original “plan,” obviously. The jacket told me that from page one. I knew there was a game. I knew they knew each other. I even knew, intellectually, that the book was going to make their private world real and hot, not just villainous scheming in a corner. But this chapter still knocked the air out of me because it wasn’t a reveal in dialogue or a wink across a table. It was them together, fully embodied, already fluent, already intimate enough to use Vee’s name as fuel. That is so much worse and so much more compelling than a simple conspiracy.
+The whole chapter feels like a secret companion piece to Vee’s solo scene. Vee is alone in Pace’s flannel, trying to cross a threshold and not quite getting there. Randi is with Pace, already across it, lounging on the other side in heels and lipstick, holding the door open with one finger. That is delicious and cruel, because Vee does not know this room exists. And the hottest part is not even the mechanics, though the mechanics are very much alive. It’s the way Vee is the third presence in the bed without being physically there. They are using each other to touch the shape of wanting her. Randi’s breast becomes Vee’s breast for a second; Pace gets undone not by Randi generically, but by Randi saying she wants Vee to know. That is so emotionally specific it made my stomach drop.
 
-And God, I hate that it worked on me. I mean that honestly. Part of me wanted to sit there with my arms crossed like, absolutely not, you two do not get to be hot while my girl is lying in a dorm room one breath from tasting herself because of what Randi said. But they were hot. The mouth thing, after Vee’s whole unfinished reach, landing here with Randi absolutely untroubled by it? Cruel. Effective. The book knew exactly what it was doing. Vee could not cross that last inch alone, and Randi is over here licking the sentence clean and making it look easy.
+Pace saying “She makes me happy” did something sharp to me. It is such a Pace answer: plain, almost insufficient, and then somehow devastating because he means it without decoration. But then Randi says, “She’s not the only one in love,” and there it is, the quiet detonation. Pace can’t deny it. Randi won’t rescue him from it. I am still mad he has not said it to Vee, but now the silence has pressure from another direction. Randi knows. Pace knows. Vee is the only one still walking around thinking she’s having brunch with a best friend and dinner with a boyfriend, while these two are literally in bed speaking her name without speaking it.
 
-What really got me, though, was not the sex as sex. It was the way they talk about Vee inside it. Not like a prize. Not quite like prey, either, which is the maddening part. They both sound in love with her. Pace saying, “She makes me happy” was such a plain little arrow. Randi saying she wants Vee to know exactly what she does to her — that one hurt. Because yes, I want Vee to know. I want her to know that Randi wants her. I do not want her to find out that everyone closest to her has been standing in a room she didn’t know existed.
+And I have to say: Randi is dangerous here in exactly the way that keeps me reading. She is not a cartoon schemer. She is tender. She is observant. She is explicit. She is honest in the room she chooses, and dishonest by omission everywhere else. That combination is catnip and a problem. When she says she wants Vee to know exactly what Vee does to her, I believed her completely, and I also thought: then tell her, coward. But if she tells her, everything breaks. So of course she tells Pace instead, with his hands on her body, because that is the compromise that lets the wanting live one more night.
 
-Randi saying, “She’s not the only one in love” is the sentence that changed the temperature for me. Because it names what has been moving under everything. Pace loves Vee. Vee loves Pace. Randi loves Vee. Pace and Randi have something too, whether love is the word or not, and their intimacy is not theoretical. It is not past tense. It is right now, while Vee is trusting both of them separately.
+This chapter is absolutely hot, but the heat is inseparable from dread. I’m not floating after it; I’m tense. Because now the triangle isn’t implied or remembered or arranged in backstory. It is active. It has a bed. It has language. It has mutual knowledge. And Vee, my beautiful hungry idiot, is still one breath from her own mouth.
 
-I’m angry. I’m also ravenous. That is the honest and embarrassing truth. This is the exact kind of emotional danger I want from erotica: not fake drama, not one missed text, but desire that implicates everyone. The heat is not detachable from the betrayal. That makes it harder to read and harder to put down.
-
-GATE 60 — My Pleasure
+GATE 64 — My Pleasure
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-ALMOST-STOPPED: “Randi came against his mouth with one heel digging into his back and her fingers closed hard at the roots of his hair.”
-WHY: I almost stopped at the first line because I felt ambushed in the way Vee is going to feel ambushed, and I needed a second to decide whether I was mad at the book or thrilled by it. I’m continuing because this chapter finally opened the locked room, and now I need Vee to reach the door.
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “You like hearing me want her,” she said.
+WHY: I did not almost stop because I was bored; I almost stopped because that line made the concealed arrangement feel suddenly real and perilous in my hands. But the chapter gave me exactly the combination I’m here for: explicit heat with emotional consequence baked into every movement. I need the fallout now, especially because Vee is still outside the locked room where everyone else is finally saying the truth.

@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch072 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~b11de8d9a5ce · 2026-09-12*
+*capture-dag-v2-rich · gate ch072 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c14c8e832ee2 · 2026-10-11*
 
-REACTION — Oh, Vee. This hurt in that horribly recognizable way where your body has already told the truth and your mind is exhausting itself trying to keep the truth from becoming real. She can have Pace all Sunday, reach for him again and again, be genuinely satisfied by him, and still not be *filled*, because this is not a shortage Pace can solve. It is Randi she wants. Not “a woman,” not some stray drunken curiosity, not a fantasy Pace planted in her. Randi, particularly: her perfume, her knee, her mouth, her little hard body against hers. At last there is nowhere left to charge that desire except to Vee herself.
+REACTION
 
-The hand held motionless on her stomach absolutely got me. Nobody is forbidding her pleasure, but she is withholding it from herself because she believes touching herself while thinking of Randi will turn wanting into evidence. As though desire only becomes true when she consents to feel it. That made me ache for her. She is trying so hard to remain the girl she understands that she cannot even let her own hand move.
+Oh, Vee. She is trying so hard to make wanting Randi not count. She can have Pace over and over, keep her hand pinned safely to her stomach, swim her head empty, dress without admitting who she dresses for—but none of it changes where her body goes when nobody is directing it. That matters to me. Her desire is not something Pace or Randi manufactured in the moment. It persists when she is alone, when she resists it, when it frightens her, when there is no pleasure in admitting it. It is hers.
 
-And then Randi made me furious. Vee turned her mouth away. Yes, she hid the real reason behind being sick, but Randi still watched her refuse the usual kiss and then put her mouth on Vee’s neck—the exact place she knows undoes her, the place she has already called a weapon. “How do you like it?” is not cute to me here. It feels like Randi testing whether she can make Vee’s body overrule the boundary Vee just tried to set. That is precisely the kind of control I do not trust: not asking what Vee wants, but engineering a response and treating the response as permission.
+And I ached at her realizing that Pace cannot be used as the explanation anymore. In his bed she could pour every response to Randi into him and call it heterosexual, call it his fantasy, call it sex brain. Sitting beside Randi, with one knee touching hers and one fingertip crossing her wrist, there is nowhere to assign the wanting except Randi herself. The Lifesaver nearly did me in. Such a tiny established intimacy, and now every ordinary thing between them has changed temperature.
 
-What makes it worse is that Vee immediately gives her Saturday. Randi gets rewarded for pushing past the turned-away mouth, and she lights up because another private appointment has been secured. I believe Randi’s delight and desire are real; that does not make the maneuver tender. Vee is falling toward her, yes, but Randi keeps arranging the floor.
+But Vee turning away from the goodbye kiss was a choice. A real one. She wanted that mouth terribly and still decided not to take it because she was not ready for what it meant. I was proud of her for the half-second before Randi made me furious.
 
-Thank God for Cassie. “What was that with you and Randi?” landed like someone finally switching on a light. She saw enough from outside to be worried, and Vee’s usual explanation does not arrive. That silence matters. For once she cannot put Pace’s name over the wanting or call Randi merely glamorous and affectionate. She simply does not know what story could make what Cassie saw harmless.
+Randi may have believed the excuse about illness, but she absolutely noticed Vee refusing the kiss. Then she stayed inside the hug, put her mouth on Vee’s neck instead, and laughed when Vee’s body reacted. “See? How do you like it?” No. I know Vee has kissed that same place on her twice, and I know Randi experiences this as teasing reciprocity—but Vee had just turned her mouth away. That was information. Randi once again took the route that let her get what she wanted without asking what had changed. And of course Vee’s aroused body immediately asked for brunch, because this is exactly why bodily response cannot be treated as permission or clarity.
 
-I am absolutely reading brunch, but with my shoulders up around my ears. Vee’s desire is real and I desperately want her to claim it. I do not want Randi to keep exploiting that desire while Vee is frightened and uninformed—especially when Randi knows Pace is waiting behind every door she opens.
+What saves the chapter for me is Cassie. Thank God Cassie saw them. Thank God the book did not let Randi’s little triumph float away as uncomplicated flirtation. Cassie takes one look at Vee and asks the question with worry in it. She is the one person who might help Vee separate “I want her” from “therefore everything Randi does is all right,” and Vee desperately needs that distinction.
 
-GATE 67 — Coming Due
+Also, brunch. Vee has just arranged private time with Randi after spending three days unable to manage an hour beside her. I am already braced. I want the honest conversation so badly, but I do not trust Randi to stop arranging and finally risk a plain answer. And now Cassie is standing there, having apparently witnessed enough to be alarmed. There is no chance I’m putting this down.
+
+GATE 72 — Coming Due
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-ALMOST-STOPPED: “How do you like it?”
-WHY: Vee’s dawning recognition had me completely, but Randi deliberately using the neck kiss after Vee turned her mouth away came perilously close to the coercive pattern I read this genre to avoid. I’m continuing because the chapter does not let that moment pass unseen: Cassie is worried, Vee cannot explain it, and brunch now feels like the place something must finally come due.
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: “Randi laughed, delighted, not sorry at all. ‘See?’ she said. ‘How do you like it?’”
+WHY: Vee’s desire finally survives every attempt to explain or exhaust it away, and that pulled me hard. Randi overriding the turned-away kiss made me angry, but Cassie’s immediate worried question tells me the book sees the trouble too—and I need her to make Vee look directly at it.

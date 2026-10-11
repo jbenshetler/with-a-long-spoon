@@ -1,20 +1,30 @@
-*capture-dag-v2-rich · gate ch061 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~b9d0068c9a3c · 2026-09-11*
+*capture-dag-v2-rich · gate ch061 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 9feb48dd23cb · 2026-10-11*
 
-REACTION — Oh, this is gorgeous and sinister. Pace saying “Vee’s boyfriend” over and over gave me exactly the public claiming I’ve been demanding for her, and I felt every repetition land—but I could not enjoy it innocently because Randi was standing there gripping Vee’s hand hard enough to feel bone while the two people who already know each other performed an introduction for her. That is diabolical. Vee thinks she has finally joined her worlds. In reality, the two people controlling the map have just agreed to pretend they’ve never seen it.
+REACTION
 
-And Pace with her friends nearly got me. Of course he remembers Meg’s boots and Kayla’s wedding story and Cassie’s team. Of course he knows how to ask the one question that makes each person unfold. He isn’t dazzling them by dominating the room; he is making them feel interesting inside it. That is so much hotter to me than another alpha posturing about his bench press, and Cassie’s “You can stay” hit absurdly hard because I trust her judgment. Except she is judging him without the one fact that could change the judgment, just like Vee is. Everyone gets the exquisitely curated Pace.
+Oh, this is cruel. It gave Vee exactly what she asked for in December—two words, publicly and without hesitation—and I felt them hit. “Vee’s boyfriend.” Again and again, before every person whose opinion matters to her. I was embarrassingly happy for her. Pace didn’t merely tolerate her friends; he remembered the private detail that would unlock each of them, then stepped back and let them become more themselves. Cassie’s “You can stay” nearly undid me. That is the closest thing she has to a blessing, and Vee knows it.
 
-The moment with Randi at the end of dinner hurt. “Meeting Vee was the highlight of my year” is practically a love confession, delivered safely as friendship with Pace sitting beside them and knowing exactly what it really means. Then Vee touching the bracelet while Randi goes glassy and quiet—I want the bracelet’s provenance now. I am almost certain it matters. And Vee interpreting Randi’s fierce grip, dark eyes, flinch, silence, kisses, and “love you, gorgeous” as ordinary female friendship is becoming excruciating. She has the evidence all over her body and cannot let it assemble.
+But Randi crushing Vee’s hand during the introduction made my stomach turn. Vee reads that grip as shared joy while Randi is standing there accepting a false first meeting from a man she has slept with, planned with, and helped send Vee back to. Then Pace says, “Not anymore,” as if concealment has ended. No. One concealment has ended. The larger one is sitting down with them.
 
-Then Pace says, “We get along,” and I actually went cold. The audacity of giving Vee a technically true answer about a relationship she does not know exists. And “They share an interest. You” is the whole book compressed into five words. Vee hears sweetness; I hear the private joke underneath it. Pace and Randi have just spent an evening watching their chosen woman glow at the center of the room they arranged around her, and she thinks they met tonight.
+And God, the three of them alone after everyone leaves. Pace delivering Randi’s declaration to Vee, Randi telling Vee that meeting her was the highlight of her year, Vee touching the bracelet and loving her so much it aches—this is the relationship they actually want. It is already emotionally a triad in that room. It could be so tender. Instead Pace and Randi are enjoying the intimacy of the truth while Vee is the only person who does not know what the truth is. They can speak almost plainly because her innocence supplies the disguise.
 
-The truck scenes were hot—especially Vee’s hunger coming from watching Pace care for her people, not merely from his body. That is exactly the grown-up erotic wiring I want: attention becomes desire, emotional safety becomes appetite, and her mouth taking him is charged by those public words. But her climax while he drives worried me more than it thrilled me. The book has now repeated distracted sexual driving after explicitly showing how dangerous it is, and Pace participating makes his judgment look worse, not sexier.
+The parking-lot kiss with Randi is not “girls being girls.” Vee wondered what it looked like to Pace, and I wanted her to hold onto that question for ten more seconds. Pace’s apparent neutrality is not acceptance arrived at honestly; he already knows Randi’s mouth. He has information Vee is trying to read from his face, and he lets her conclude there is nothing there.
 
-Still, that final buried image of Randi turning her glass while Vee rides home undone is perfect dread. Vee has everything she thinks she wanted: the word, the public place, her friends welcomed, Randi beside her, Pace’s hand knowing her. I have never been more aware that the happiness is built inside a lie.
+Then the truck scene absolutely got me. Vee is ravenous, purposeful, and gloriously unashamed. Taking Pace apart until the man who does six things at once goes down to zero—that is precisely the kind of erotic observation I’m here for. And afterward she asks directly what he and Randi discussed. There it was: the clean opening. Pace could have told her.
 
-GATE 57 — Among Friends
+“We get along” made me furious.
+
+“They share an interest. You.” That is a private joke dressed as sweetness, and Vee receives it as proof that all her worlds love her. Yes, they do love her. That is what makes it so much worse. Pace and Randi are standing inside the hidden meaning together, watching Vee warm herself by the visible half.
+
+The road scene was scorching because Vee chose every inch of it. She undressed herself, moved his hand, pulled the lace aside, and kept making the offering second by second. There is no passivity left in her sexuality. I loved her sitting there afterward with her jeans at her knees, not hurrying to make herself respectable. But that final little sentence inside her—the glass turning—was the bill under the plate. Some part of Vee knows something in this perfect evening does not add up, and tonight’s pleasure has only made that voice too quiet to hear.
+
+What I would text at one in the morning: “HE CALLED HER HIS GIRLFRIEND—sorry, boyfriend—and then fingered her while driving, and somehow I am still angrier than I am turned on because he and Randi just performed an entire fake first meeting in front of her face.”
+
+GATE 61 — Among Friends
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-ALMOST-STOPPED: none
-WHY: “They share an interest. You” snapped the entire hidden arrangement into focus while Vee heard only love. I need the next chapter immediately because this dinner made the secret pair bolder, brought Cassie inside the false picture, and left Vee happier—and therefore more vulnerable—than ever.
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “We get along,” he said.
+WHY: This gave me the public claiming, the friendship blessing, the triad tenderness, and Vee’s full erotic agency—and poisoned all of it with a deception that became actively shared tonight. I am already reading on because that turning glass means Vee’s intelligence is still alive under the happiness, and I need to see when she finally hears it.

@@ -1,0 +1,30 @@
+*capture-dag-v2-rich · gate ch070 · claude-fable-5-1 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c9f460e100d7 · 2026-10-11*
+
+**REACTION**
+
+Oh, she kissed her. Finally, properly, on a floor, with her hand in Vee's hair and the other one taking a handful of her through a skirt she lent her on purpose — and I was so far gone into it that when "I almost believed it" came out of that berry mouth I actually said *no* out loud to my kitchen.
+
+Let me take the good first because it was very good. The kiss is the hottest thing in this book and nobody took a stitch off. "Randi closed the inch and touched her mouth to Vee's, and held it there, still — just the press, just the warm fact of it — and let Vee feel it, and feel herself not pull away." That's the whole of what I read for in one sentence: the held inch, the watching for the answer. And Vee's wanting is *hers*, all the way down — the file she's been keeping on the perfume "without admitting she was keeping the file," her lips moving toward Randi's breath before Randi did anything, her own hand going up into Randi's hair "and she did not take it back." The tongue that comes as "a *please*." I've waited since the composites for this and the book didn't rush it and didn't flinch and I could feel it in my teeth.
+
+And then Randi came back "a moment behind," shook her head, blinked — *wrecked*, I saw it, the same woman who lay warm along one seam in Gstaad and put her face back on — and put her face back on. "Did you *see* him?" "I almost believed it." Sixth time she's left the sentence for Vee to finish, and this time the sentence was a kiss, and she didn't just leave it — she took it back out of Vee's hands and called it a bit. She said to Pace, inside her, on top of him, "I want her to know exactly what she does to me." She knows *exactly* what she does to Vee now — she felt her hips press once, asking — and she handed her a joke. That's the thing I left the genre over, dressed up as a girl being a coward instead of a man being a brute, and I know the difference, and it still landed in the same place: Vee standing in the broken-off music with the taste of her on her mouth and "no version of the night in which she could ask."
+
+And here's what's eating me more than the kiss. Count the hands. Randi knew where the skirt was on the rail without hunting. "Not that short," twice — once in her room, once on the sidewalk when the cold had already told Vee the truth. A second margarita Vee never saw ordered. Then Randi ran her hands up Vee's sides and *took her wrists* and held them in the air while the skirt did what she knew it would do, and Vee couldn't fix the hem because Randi had her hands — and then Randi leaned in and told her her panties were showing, like a friend. She built the exposure and then she rescued her from it. "They already looked — and believe me, nobody minded." That is Gstaad in reverse: Randi liked not being asked; she's decided Vee likes it too, and she's never once asked. Pace asked for the wax. Pace asks every time, that's the thing about him that undoes her. Randi arranges. And Vee called it "in Randi's skirt the wanting wasn't hers to answer for" — which is the most honest and the most dangerous sentence Vee's thought in ten chapters. I believe her shame turned over into the other thing, I believe it from inside, I wanted that beat. But she didn't *choose* to show a room her thong; she chose not to let go of Randi's hands, and someone made sure those were the only two options.
+
+"The bracelet is called Love." "Taking it off requires tools." I've had *bound* in my notes since the fall and the book just put the screwdriver on the table and walked off whistling. It never comes off. It's kept out of her mother's light. Somebody put it on her and holds the tool, and his blanket lives on a chair in his bedroom, and Vee linked arms with it under a streetlight and said "I love, *love* your bracelet" and I wanted to reach into the page. She's the only one at the table without the menu. "He gets me Friday. He gets me Sunday. You get me Saturday night" — she said that like she was dividing herself up, and the two people she divided herself between were in a bed last week trading her like a story.
+
+Brooke, though. "Randi's *new* friend." "I chose." "I can see." That's the *choose* from under the composites, answered — Randi walked a girl into her own house as her date, said "she's here with me" to a boy, said "I chose" to the president, kissed her in the middle of the floor in front of ninety sisters. Brave for the room. And then couldn't be brave for the one person it was for. She can say it to everybody but Vee. That's not nothing — it's the opposite shape of Pace, who can only say things to Vee and nobody else — and I notice the book has built two cowards who fit together like that and put a girl between them.
+
+Chambord in a trash-can tub. "She'll spend a fortune to have you think she didn't spend a dime." Randi, you were describing yourself and I don't think you heard it.
+
+Cassie's eyebrow at "tonight I'm Randi's date." Half an inch, stayed there. That's five times now and she still hasn't said it, and she's going to be the one Vee can't crop around when this comes home.
+
+What I'd text at 1 a.m.: *she kissed her and then told her she faked it and I want to shake her and I also watched her blink and I think she's more scared than Vee is. Also I want to know whether Vee tells him Sunday, because he already knows, and I need to see her find that out.*
+
+**GATE 70 — On Her Floor**
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "You really did a great job putting on a show. I almost believed it."
+WHY: The kiss is the realest want this book has put on a page and it's entirely Vee's — and then Randi lifted her wrists so she couldn't cover herself, kissed her till she was asking, and handed her a joke to hold instead. I'm not leaving; I'm furious at exactly the right person, and Sunday is Pace, who knows, and Vee doesn't know he knows. I need that room.

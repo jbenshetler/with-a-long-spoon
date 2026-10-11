@@ -38,6 +38,8 @@ She was not careful. She had come to him wired before, more than once, too keyed
 
 He caught up fast, the way he always did, but she did not let him do the thing he did — the slow reading, the mouth and the hands, the once or twice he liked to bring her over before he was ever inside her. Not tonight. She did not want to be tended, did not want to be read. She wanted — no, she needed — him hard and inside her, nothing before it. She took him down the short hall past the black doorways and around the corner to the bed, and there was nothing tender anywhere near it — it was hard and it had teeth. She drove herself down onto him like she could grind the thing loose against the plain fact of him, work it out of her, leave it somewhere in the dark between their bodies. Not once, on any other night she'd come to him wild, had she needed him to drive someone else out of her head. She came with her face turned into his neck so she wouldn't have to see him see her.
 
+It didn't go. She lay on him with her heart slamming and the picture still there, sharp as the dancefloor, and she started again before she had her breath back, and rode him on past it until he came.
+
 He held still under her after, still inside her, one hand open on her back, not stroking, just resting, and she felt the attention come up in him in the dark, unhurried and complete.
 
 "What was that?" he said.
@@ -60,7 +62,7 @@ And it landed wrong the instant he had it — a boy's name in her own mouth, at 
 
 "Not *him.* God, not—" no floor left anywhere, "—it was Randi. I kissed Randi." It cost her the whole breath. "Or she kissed me—" and then the part that made it hers, the part she made herself say too, "—and I kissed her back."
 
-"It was a joke," she said, once more, quiet, like setting a stone down. And the real thing, the one that had no words she'd ever once let herself use, pressed up hard behind her teeth and did not get out — and what came out instead, quieter still, was the truth wearing the joke's own clothes. "It didn't stay a joke."
+"It was a joke," she said, once more, quiet, like setting a stone down. And the real thing, the one that had no words she'd ever once let herself use, pressed up hard behind her teeth and did not get out — and what came out instead, quieter still, was: "It didn't stay a joke."
 
 ---
 
@@ -120,7 +122,7 @@ He gave her that — more than an inch, a slow inch and then another, a reward w
 
 "And the skirt rode up some."
 
-Stopped again. Held. And in the held moment she heard the word the way he'd heard it — *some* — and had to look at how much some had really been.
+Stopped again. Held.
 
 She pushed at his hands, got nowhere, gave it up. "She took my hands and ran them up my sides and lifted them over my head and held them there, so I couldn't hold the skirt down, and my thighs were — open. To all of them. And I didn't—" the reconsidering caught her mid-word, the thing the stall had turned her around to see, "—I didn't try that hard to get my hands back."
 
@@ -140,7 +142,7 @@ The question walked straight into the shame of it and stood there.
 
 "I don't know." He gave her nothing for that, held her exactly where she was.
 
-"...Probably. I think so." Still nothing, and the nothing was unbearable, and the truth came up to end it. "There's no way I wasn't."
+"...Probably. I think so." Still nothing, and the nothing was unbearable, and the truth came up to end it. "Soaked. God, yes, I was soaked."
 
 He gave her three strokes for it — one, and a second, and a third, deep and unhurried — and they landed right in the middle of her trying to say the rest, so that "the room seeing me like that, her hands making me—" came apart in her mouth, broken over what he was doing to her, and she lost the room for a whole second, lost everything but the two facts of him moving in her and the thing he was drawing it out of.
 
@@ -214,7 +216,17 @@ He was quiet a moment, and his hand found her hair and pushed it back off her fa
 
 She had her answer before he'd finished the question, and it came up out of the rule she'd lived by so long she'd never once had to say it out loud: it wasn't the doing that made you a cheat, it was the keeping of it — the lie in the dark, the phone turned face-down, the thing carried around behind your teeth where no one could reach it. And she didn't do that. She was here, wasn't she, at one in the morning, handing him every piece of it. She never kept anything from him.
 
-And yet there they were: the goodbye kisses, dozens of them, the way they'd drifted months back from the cheek to the mouth to open and stopped being anything she noticed; and her own hand, earlier, in the dark of her room, on the new bare of her, and the name that had been in her head while it moved. But the kisses were just Randi, just how the two of them were, everyone knew they were like that; and the other was hers, a thing a body did alone, to itself, nothing to do with anyone. It sorted itself before it reached her mouth, and her mouth was already moving. "No," she said. "Nothing." No pause in front of it, no catch — level as a countertop.
+And yet there they were. The goodbye kisses, dozens of them, and they had never been the cheek, not even the first; she had leaned across the gearshift for the cheek and Randi had taken her jaw and given her the mouth, and every one since had been soft, and long, the little pause and the second one after it. She had called that Randi being Randi. Now she could see she had taken that tenderness entirely wrong. And her own hand, earlier, in the dark of her room, on the new bare of her, and the name that had been in her head while it moved.
+
+That was what he was asking about. She knew it.
+
+She held the two of them a moment, with the lamp on and in his face only the gentle question. The kisses were how they said goodbye. The other was hers, a thing a body did alone, to itself. Neither one counted.
+
+"No," she said. "Nothing."
+
+It came out level, and it was a lie, and it was the first one she had ever told him. It went down into her and sat there, cold, under all the rest of it.
+
+And then, too late, the lot at the roadhouse. Randi's mouth on hers on the blacktop, the small second press, and Pace three steps off by the truck. She hadn't been watching him. She couldn't have said where he was looking, only that he'd been too close not to see. She had just told him there was nothing, and he had seen one with his own eyes. The guilt came up hot under her ribs, and inside it, small and bright, a thrill she could not account for.
 
 "Okay," he said. And then, easy, idle, before she could get her feet back under her, like a man clearing the last small thing off a table: "Do you want to sleep with a woman, Vee?"
 
@@ -222,7 +234,13 @@ Not Randi. He didn't say Randi. She'd just told him whose the friendship was, an
 
 "No—" Fast, reflexive, out before the question had finished landing. "I—" And then nothing. The reflex gave out and left her over open air, a half-second with no next word in it she was willing to say, and she felt the drop and got a floor down over it the only way she knew, talking. "It's not like that, Pace. I was so keyed up, all night, that's all. Saturday's mine with you, it always is, and my body just missed you."
 
-"It was a stupid joke that got away from me. It was the drinks. We have so much of this, you and me, and I love it, I do — and it's not that it isn't enough, it's that—" too far in to stop it "—however much we get, I just want more." She heard how that could be taken, and reached for the hardest wall she had.
+"It was a stupid joke that got away from me. It was the drinks. We have so much of this, you and me, and I love it, I do — and it's not that it isn't enough, it's that—" too far in to stop it "—however much we get, I just want more." She heard how that could be taken.
+
+He didn't say anything. His hand had gone still on her back, and he waited, the way he always waited, and the quiet went on until it had a shape.
+
+"Vee?"
+
+She reached for the hardest wall she had.
 
 "I'm not gay."
 
@@ -232,7 +250,7 @@ Not Randi. He didn't say Randi. She'd just told him whose the friendship was, an
 
 Something crossed his face — a flicker, the smallest thing — and then he answered her.
 
-"You keep saying her name, Vee." Gentle, no edge in it anywhere. "Not me." He drew her in, his mouth at her hair. "It's all right. I don't mind."
+"You keep saying her name." Gentle, no edge in it anywhere. "Not me." He drew her in, his mouth at her hair. "It's all right. I don't mind."
 
 He'd defended himself. In every argument they'd ever had he left her the whole of the room — let her say the unfair thing and the true thing both without once reaching to cover himself, so her anger found nothing to push on and spent itself and passed. It was one of the truest things about him. And this once, over this, he hadn't: he'd explained himself, needed her to know she had it wrong, and it mattered to him that much. It was the sweetest thing she had ever seen him do, and it settled over her like a warm blanket.
 
@@ -246,8 +264,8 @@ And then, warm and safe and held, with the pressure gone and nothing left to fig
 
 Because Tuesday she would see her. Seven o'clock, Dr. Marsh's room, the two of them side by side the way they'd sat since the term started — close enough all evening to catch Randi's perfume and Randi's murmured aside, that smile that came up before you'd said a word, the lipstick always somehow perfect no matter the hour. The class Vee herself had talked her into, back in the fall, when a twice-a-week night with Randi had seemed like the smartest, luckiest idea she'd ever had. Two nights from now. She had two nights to find a face for it — a voice, a version, a way to sit down beside her and be a person. She thought about Randi's mouth. She thought about it doing what it had done, and then about it doing the things it hadn't gotten to. And Tuesday sat there at the end of the dark, circled, coming whether she was ready or not.
 
-Pace's chest rose and fell against her cheek, slow, asleep, or near it. Her boyfriend. She had just had sex with her boyfriend, twice, good sex, the best there was — she had lost count of the times this weekend, five, six, since Friday, Sondra's table and then his hands and then his mouth and then the mixer and then this — and she was lying in his arms with her body finally quiet and her mind gone straight down the county road and back to campus and into a warm cluttered room with a girl in it, and she could not make it come back.
+Pace's chest rose and fell against her cheek, slow, asleep, or near it. Her boyfriend. She had just had sex with her boyfriend, good sex, the best there was, and she had gone at him tonight like she never had, and taken every bit of it. She was sore with it. Not the good soreness that used to keep the night's account for her; raw inside, down low, the kind you got from not stopping when you should have. And she was lying in his arms with her body finally quiet and her mind gone straight down the county road and back to campus and into a warm cluttered room with a girl in it, and she could not make it come back.
 
 *What is wrong with me?* she thought.
 
-She did not have an answer. She lay there a long time in the dark not having one, and outside the trees the cold went on being kept out. And whatever had hold of her was not, even now, anywhere near done.
+She did not have an answer. She lay there a long time in the dark not having one, and outside the trees the cold went on being kept out.

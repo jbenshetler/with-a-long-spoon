@@ -247,3 +247,18 @@ at {{Standards}}, and the silence afterward is Randi's. The choice stays **loade
 for thirteen chapters** and she answers it at the {{On Her Floor}} mixer: *"I
 chose."*
 
+## Naming both sides of the choice (author 2026-10-11)
+
+Capture readers misread *"You need to choose"*: gpt-5.5 took "position" as Randi's
+power over Vee (*"naming the power without shaming the desire"*), and others made
+the choice about Randi's cover with Vee. The line named neither side. Now:
+
+*"Ninety girls under one roof, honey. Every boy on the row thinks he knows what goes
+on upstairs here. I'd like them to keep thinking it's funny. You've got a position
+in this house, and you've got her. You need to choose."*
+
+The pressure is the **house's reputation now** — ninety women living together, the
+rumor already a joke on the row, and an officer with a girl would make it true. Not
+the composites' fifty years (that displaces it from the girls in the house now), not
+a dance (pre-spends {{On Her Floor}}), and not *the right men marry*. *"And you've
+got her"* makes "position" mean standing, not power.

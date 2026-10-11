@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch063 · claude-opus-4-8 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~8348ecb548e4 · 2026-09-11*
+*capture-dag-v2-rich · gate ch063 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · 2026-10-11*
 
 REACTION
 
-Okay so this is the shirt night again. Chapter 44, remade — alone in the twin bed, Cassie gone to a game, the window shoved shut and then shoved open, his flannel that's already gone thin by Thursday, her own hand. I clocked the frame before I was three paragraphs in, and normally by the third time a book runs the same set I'm skimming for where it ends. But it didn't end where 44 ended. 44 was *he wasn't in it* — the shirt smelled only of her and she chose the cold. This one's not about his absence at all. This one's about her mouth.
+Oh, this one got me. And it got me *quietly*, which is the trick of it — a whole chapter of one girl alone in a dorm bed and I didn't skim a line.
 
-And that's the thing that kept me. She's not reaching for him. She's reaching for *herself* — two fingers coated to the knuckle, the strands stretching in the lamplight, and she lifts them and the smell isn't the stink the boys promised, it's a hothouse with the doors shut. And she opens her mouth and gets one breath's width from it and *cannot close the distance.* Nothing in the room tells her why. The wanting's there, the smell's there, his glad untroubled face is there — and she just can't. That's the whole book in a gesture, and I felt it in my own jaw. The body says yes twice (the clench, both times, with nothing inside her) and the installed voice slams the lid one breath before contact. She'd rather wipe her fingers on the sheet and lie in the wet than taste what's already hers.
+Here's what I love: she's by herself. No Pace, no Randi, no audience to crop the story for. For the first time in ages there's nobody across a table from her, nobody to hand a version to, and so finally — *finally* — the book lets me see what she actually does when the room is empty. And what she does is reach for the one thing she wouldn't swallow. The cum-kiss, the taste she turned her face from and called "gross, wrong," the thing she filed under Pace's accident — she's lying here trying to *find her way back to it on purpose*. Her body gave the same answer twice (clenched hard, no objection) and her mind wants to understand why, and she can't make the two halves meet. That's the whole chapter: her tongue a breath's width from her own fingers and she *cannot close the distance*. "The wanting was still there. So was the hothouse smell. So was his face, untroubled and glad. She could not close the distance." God. That's the real wall in this book, and it's not Pace's and it's not Randi's, it's hers, and nobody built it tonight — it's the mother and the laundered underwear and twenty years of being told the plenty of her needed a pardon.
 
-What actually spiked me was *"A mouth carrying it back. Or Randi's own fingers."* There it is. The taste question was never really about Pace's wet kiss. Randi said *it was powerful, it turned me on*, flat, like a fact, and now the reach at Vee's own mouth keeps forking toward Randi — was it a mouth bringing it back, or her *own* fingers lifted to her mouth, which is it, Randi, tell me. Vee doesn't know she's asking about Randi. I do. The book keeps handing me the thing one beat before she'll hold it, and I love and resent that it's still working on me.
+And the smell — I braced for the "excessive, shameful plenty" verdict to land and it did, but then she actually *smells it* and it's not the stink the boys promised. "A hothouse with its doors shut, the air around a tropical flower without its sweetness. Hers. Unmistakably hers." That undid me a little. The body telling the truth and the verdict having lied to her for years.
 
-Where it's thinner: it is, genuinely, the reveal-by-not-quite gear again — the sentence that won't close, the reach that stops short — and I've named that gear in my own notes three chapters running now. Two pages of one woman's hand is a lot of real estate for a move I already own. It works because the *object* changed (her taste, not his shirt, not the word) and because it quietly re-aimed the whole appetite at Randi. But if the next one is also her alone circling the same locked door, I'm going to feel the tread wearing.
+What I'm chewing on at 1 a.m.: the two of them are both in here with her even though neither is. Randi's "it was powerful, it turned me on," said flat as a restaurant rec, keeps surfacing — and the reach she can't finish keeps splitting into *his* mouth carrying it back OR *Randi's own fingers lifted to her mouth*. She doesn't even notice she's imagining Randi's hand. I noticed. The window is the tell, too — she keeps shutting it to make the room hold her smell, then shoving it open to air out the evidence before Cassie gets back. Closing the drawer, opening the drawer. She's still the cropper, even alone, even with the air.
 
-Still — *her mouth was still empty* as the last line, after all that, is a good hook, and it's the right kind of empty. Not him-shaped anymore.
+And she settles her hip down over the cold wet patch at the end. "Her mess. Hers to lie in." That's either the saddest line in the stretch or the first honest claim she's made — lying in it instead of washing it, keeping the coat, keeping the stain. I think it's both and I think that's deliberate.
 
-GATE 59 — The Reach
+Is a chapter this short, this interior, a cheat? No. This earned every one of its pages. It's not a bridge — it's the inside of the thing the last two chapters only showed me the outside of. The gap between what she performs and what she can't do when nobody's watching, laid out with no one else in the room. "Her mouth was still empty" as the last line — the reach deliberately, agonizingly unfinished — I'm not setting this down.
+
+GATE 63 — The Reach
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-ALMOST-STOPPED: "She touched herself more now than she ever had before him" — right there, settling in for a third solo-in-the-dorm interior, I braced for two pages of a gear I already see.
-WHY: It's the shirt-night machinery again and I clocked it instantly, but it re-aimed — the taste she can't take is quietly becoming a question about Randi, not Pace, and "or Randi's own fingers" pulled me clean forward. I want to see whether Tuesday's table cracks it.
+CAPTURE: 8
+NEXT: 8
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: A solo chapter that's all interior and it never once lost me — the unfinished reach, the hothouse smell that wasn't the stink she was promised, the hip settling into her own cold patch. This is the gap between the version she performs and the thing she can't do alone, and it closed on "her mouth was still empty." I want to know whether she ever gets her own hand to her mouth, and I want to see Randi's fingers show up in that reach again.

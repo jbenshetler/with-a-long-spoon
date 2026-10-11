@@ -1,20 +1,28 @@
-*capture-dag-v2-rich · gate ch070 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 00dbf427b44c · 2026-09-19*
+*capture-dag-v2-rich · gate ch070 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c9f460e100d7 · 2026-10-11*
 
-REACTION:
+REACTION
 
-I am sitting here with my jaw completely on the floor and my pulse hammering in my throat. Holy *shit*.
+I feel like I just watched someone casually flick a lit cigarette into an open pool of gasoline, and then turn around and say, *“Good job on the smoke effects!”*
 
-Randi. God, Randi is playing the most brilliant, heartbreaking, utterly devastating game I have ever seen on a page. The calculated genius of putting Vee in that scrap of a skirt, telling her she has "a foot of leg and an ass she hasn't got," taking her onto the floor, lifting Vee's arms so her body is entirely exposed, and then using a random frat boy across the room as an excuse to finally, *finally* take the thing she has been starving for since October.
+My jaw is genuinely on the floor. I am sweating. The absolute, suffocating, master-class tension of this chapter took the air right out of my chest.
 
-"The joke and the thing were not going to be the same size." That line hit me like a physical blow. Because Vee knows. Underneath all the sorority theater and the giggling and the "putting on a show for Harrison," Vee’s body was not doing a bit. She leaned down into that kiss, she parted her mouth, she tasted the salt and lime and Randi, and her hips moved forward *asking*. And the tragedy of Randi pulling back, blinking, catching her breath, and immediately snapping the mask back on—*"You really did a great job putting on a show. I almost believed it"*—is a knife straight to the ribs. Randi has to package it as a dare, as a joke, because if she admits she meant every single millimeter of that kiss, the whole house of cards collapses. She gave herself the kiss she’s been dying for, and then had to immediately hand Vee the plausible deniability to protect herself.
+Look at what Randi just pulled. Look at it! Chapter 64 was Pace and Randi in bed, sweating into the sheets, with Randi admitting—out loud, while Pace had his mouth on her nipple—that she wants Vee, that she’s thinking about Vee’s heavy breasts, that she wanted to turn around on the freezing sidewalk and put her mouth on Vee’s neck. And now, she dresses Vee up in a skirt that is basically a strip of scotch tape, takes her to her own sorority mixer, parades her around, dances her until her panties are showing to a room full of college guys, and then uses a generic boy named Harrison as an *excuse* to pull Vee down by the hair, cup her ass, and tongue-fuck her in the middle of the dance floor.
 
-And Vee is left standing there, soaking wet, completely electrified, with the taste of her best friend on her tongue and nowhere to put a single drop of it.
+And then—the absolute sociopathy of it—she pulls back, blinks out of her own daze, slaps Vee on the arm, and goes: *“You really did a great job putting on a show. I almost believed it.”*
 
-I can't even breathe thinking about tomorrow. Vee has to walk from this dance floor straight back to Pace. Pace, who just painted her whole body like fruit and loved every inch of her bareness on Friday. Pace, who *knows* how Randi feels about her. The sheer psychological tension Rivers is weaving between these three people is absolute masterclass erotica. I am practically vibrating waiting to see what happens when Vee realizes this wasn't a game.
+*I almost believed it.* ARE YOU KIDDING ME, MIRANDA?! You cowardly, brilliant, manipulative little architect! She just gave herself the exact feast she has been starving for since October, tasted Vee with salt and lime on her tongue, felt Vee moan and grind back against her—and then shoved Vee straight back into the closet of "we're just two silly straight girls playing a prank on a frat boy." She weaponized the performative male gaze to steal a kiss she was terrified to ask for honestly, and left poor Vee standing there soaked, trembling, utterly bewildered, and holding the bag of her own shame and confusion.
 
-GATE 67 — On Her Floor
+And Vee. God, my sweet, hungry, easily led Vee. She has been waking up in stages, but this wasn't the slow, safe, patient waking up Pace does with paint and walnuts and three layers of consent. This was a lightning strike. The contrast between Chapter 69 (where Pace reverently asked to paint her, held every brushstroke still when she flinched, and treated her lush body like a museum piece) and this chapter is staggering. With Pace, Vee felt safe enough to giggle at an orange breast-print on his cheek. Here, with Randi, it’s an absolute freefall. Her body responded instantly—wet, aching, hips rocking into Randi's—because she *loves* Randi, she is completely infatuated with Randi, and her body doesn't know how to lie.
+
+I was terrified this scene would cross into pure non-consensual violation, but Rivers writes the psychology with such excruciating precision: Vee *wanted* it. She had been wanting it for months without a name. The consent wasn't violated by the kiss itself—Vee met her tongue, Vee held her hair, Vee was begging for hands under the skirt—it was violated by the *gaslighting afterward*. Calling it a "show." Pretending it didn't mean the world. Leaving Vee to pretend she was in on the joke when her entire soul just got turned inside out.
+
+Pace gets her tomorrow. Sunday. Pace, who knows Randi is obsessing over Vee. Pace, who just spent Friday night erasing Vee's shame with his mouth. If Vee walks into his house with Randi's salt still on her conscience, I am going to combust. I need the next chapter right this second.
+
+GATE 70 — On Her Floor
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The kiss was everything I have been waiting thirty chapters for—pure, electric heat that meant something profound to both women, balanced on the razor's edge of a lie. I need the next chapter right this second.
+WHY: The absolute emotional and erotic devastation of that kiss, followed by Randi's cowardly, brilliant retreat behind the 'it was just a prank for a boy' mask, is top-tier psychological drama. I couldn't look away if I tried.

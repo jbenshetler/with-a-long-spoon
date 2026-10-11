@@ -1,22 +1,18 @@
-*capture-dag-v2-rich · gate ch068 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~f6415b9043be · 2026-09-12*
+*capture-dag-v2-rich · gate ch068 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 022d1f399ba9 · 2026-10-11*
 
-REACTION
+REACTION — Oh, Vee. This made me ache in a way I did not enjoy, and I think it was supposed to. The worst part was not the pain. It was how quickly her willing yes to Pace became, in her own mind, a promise she had no right to revise. “The yes was spent and couldn’t be called back” frightened me. No. That is not what his asking is meant to give her. She can call it back. She can stop halfway. She can discover that “all of it” contains something she did not understand and say that part is not included. When she rolled over because she believed she had no lines left, I felt sick for her.
 
-Oh, this upset me. Not because waxing is inherently terrible, and not because Vee didn’t end up loving the result. She did. That last touch of her own hand, the shock of smoothness, imagining Pace discovering what she had done—it got me. Her desire is real. I can feel how badly she wants the right hand on her, how intensely this transforms an ordinary appointment into something she is carrying home for him.
+And I’m furious with Randi. “Barely stings” was a lie, and not a harmless confidence-building one. Randi knew exactly what the service involved and gave Vee the glossy fantasy—the wine, the expensive feeling, the smooth result—while withholding the pain and the most exposing part. Again she made ignorance feel like trust. Again Vee took her hand and let herself be led because Randi knows the country. I understand why Vee trusts her; that makes it worse.
 
-But “the yes was spent and couldn’t be called back” made everything in me go cold. No. A yes is not a token you surrender. She can call it back. She can change it halfway through, or after the first strip, or when she learns that “all of it” includes something nobody explained. Pace may reliably stop when she tells him to stop, but Vee is developing an idea of consent in which the important moment happens before she understands what she has agreed to—and then her own earlier yes becomes the thing trapping her. That is exactly the kind of inner logic I’m frightened this whole arrangement has been teaching her.
+Pace’s request still turned me on at first because he asked clearly and waited for her answer. The image of him wanting her bare, and Vee wanting his hand to discover what she chose to do, absolutely has heat for me. But his “By the weekend” landed differently once I was inside that room with her. He asked for an outcome without making sure she knew what achieving it required, and Vee’s whole pattern is to answer him before she understands herself. He may not know that. Randi does.
 
-And Pace asked for “bare” without telling her why, knowing perfectly well that his requests go straight through her. He watched her answer before she had caught up to the question and accepted that answer cleanly. That isn’t enough for me. His asking matters, but asking is not magic when she experiences the answer as irrevocable and he leaves every blank for her hunger to fill.
+The wrong-hand/right-hand passage got me despite everything. That is exactly the dominance I come for: not pressure by itself, but the meaning of the particular person applying it. Her body recognized the grammar and missed the man. And at the end, when she touched the new smoothness herself and wanted Pace’s hand there, her desire became hers again. I want that moment for her. I’m also going into it watching him very closely. If he sees she is sore, asks how it was, and cares about what the request cost, I may soften. If he merely enjoys the result as though she arrived this way for his use, I’m going to be angry.
 
-Randi made it worse. “Barely stings” was a lie, or close enough to one that I’m furious. She sold Vee luxury and confidence, omitted the humiliation and the most invasive part, and sent her into another experience with more information than Vee while making that imbalance feel restful. That pattern is becoming unbearable: Randi always has the passport, Vee trusts her directions, and Randi decides which borders not to mention.
-
-The moment Vee realizes she could say no and then decides lines are only for “a girl who had any lines left” genuinely scared me. She has lines. She demonstrated that beautifully with Pace’s wet kiss. Her body can want something and still refuse part of it. Yet here shame, sunk cost, and loyalty to a poorly informed yes all join hands and push her onward without anyone technically forcing her. That is the whole moral nightmare of the jacket, suddenly concentrated into one waxing table.
-
-I’m still with her. Completely. Her arousal under the wrong hand felt painfully particular rather than cheap—the empty grammar of dominance making her ache for the person who fills it with meaning. And I loved that once she was alone, her own hand was the first hand to discover her. But I’m not swooning harmlessly over the gift she’s bringing Pace. I need him to see more than the smoothness. I need someone to teach this woman that choosing once does not mean she has surrendered the right to choose again.
-
-GATE 63 — Barely Stings
+GATE 68 — Barely Stings
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: “she was already so far past every line she'd have thought to draw that another line seemed like a joke, a thing for a girl who had any lines left.”
-WHY: That line frightened and angered me because Vee absolutely still has lines, however many times she has said yes. I’m continuing because the chapter knows there is a problem here, and now I urgently need to see what Pace does when she brings this home to him.
+WHY: That sentence came perilously close to turning willing submission into self-erasure, and I will not follow the book there if it treats that as sexy. I’m continuing because the chapter itself seemed to understand the danger, and because I urgently need to see whether Pace receives her offering with the care her trust deserves.

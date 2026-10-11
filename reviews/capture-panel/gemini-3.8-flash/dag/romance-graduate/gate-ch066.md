@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 0ba818fcba40 · 2026-09-19*
+*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha fc6ed94829c1 · 2026-10-11*
 
 REACTION
 
-I am sitting here with my chest absolutely aching.
+Oh, God. My chest actually aches.
 
-After the sheer, breathless erotic violence of Chapter 61—watching Randi ride Pace while literally narrating her fantasy of holding Vee’s breast and tasting Vee’s nipple, watching them consume each other while drowning in their shared obsession with this girl—to drop into *this*? It should feel like whiplash, but instead it feels devastatingly earned.
+This whole chapter was so quiet and devastating. It opens with that pitch-perfect morning-after haze—the water on the folded paper towel so it won’t mark the wood, the fresh-baked cinnamon raisin bread cooling on the rack, her in his soft terrycloth robe—and it lures you into thinking it’s going to be just a sweet, domestic debrief of the taproom. And then Vee asks the simplest, most devastating question a twenty-one-year-old girl surrounded by a bustling web of college friends could ever ask: *Why don’t you have friends?*
 
-Pace making cinnamon raisin bread from scratch while she sleeps off three ciders. The paper towel under the water glass so it doesn't leave a ring on the wood. The quiet, terrifying competence of a boy who had to learn how to keep a house because no one was keeping one for him. When Vee innocently, clumsily asks, *"Why don't you have friends?"* I wanted to reach through the page and put my hand over her mouth.
+The way Pace answered it… it completely wrecked me. It’s so mathematically dry and utterly devoid of self-pity, which makes it a thousand times more brutal. *“Men make friends by competing… I was never once in the pack.”* The timing of male socialization—thirteen to fifteen, the pack dynamic, the window closing on a timer by twenty-two. And then the terrifyingly quiet admission of what happened to the prodigy boy: the older men *“either weren't safe or weren't welcoming.”*
 
-And then he just lays it out. No self-pity, no melodrama, just the flat, chilling arithmetic of an isolated life. *“Men make friends by competing... I was never once in the pack.”* *“The ones already there, when I was small among them, either weren't safe or weren't welcoming.”* God. That single sentence tells you everything you ever needed to know about why Daphne happened, why a fifteen-year-old child attached himself to an older woman like a survivor clinging to driftwood, and why he talks about that grooming as the best thing that ever happened to him. He was completely, utterly alone in a sea of grown men who either preyed on him or shut him out.
+Vee doing the math in her head—connecting what Sheri said about his father and leaving home at sixteen to his silence about Daphne—is just extraordinary emotional storytelling. She sees it so clearly: he didn’t just skip grades; he was entirely robbed of a cohort. He lived on empty campuses over holidays taking summer courses because he had no home to return to, trapped in an eight-person graduate seminar while eighteen-year-olds were spilling beer in dorm halls and forging the friendships of their lives. When Daphne groomed and claimed him, she was literally the *only* person in his entire universe. And when she left, he had zero safety net. Just a house, a patent, a pile of money, and absolute, crushing silence.
 
-And Vee—bless her, she finally *gets it*. She stops playing the bubbly, hungover co-ed and actually looks at him. She sees the empty campus on Thanksgiving. She realizes that Sheri is the only friend he’s allowed to keep because Sheri is the only woman who will never blur the lines, and the only person who doesn't ask him to perform.
+And the terrible irony—the elephant in the room that made my stomach drop while reading this—is that Vee sits there thinking, *“His one friend on this earth a five-foot woman who could never want him—the only kind, she was sure now, the world had ever quite let him keep.”*
 
-When Vee walks around that counter and gives him that Sheri-style hug—no words, no cheap pity, just her entire weight pressed flat against him—and he just rests his chin on her head and stares out the window... it wrecked me. He didn't turn it into a sex scene. He didn't try to fix her feeling bad. He just let her hold him.
+Vee doesn’t know. She thinks Sheri is his only friend. She has *no idea* that Randi is in that house, in that bed, tangled in those exact cashmere blankets. She doesn't know that Pace and Randi are using each other as a pressure valve, talking about Vee while Pace is balls-deep inside her. Vee is hugging him with her whole weight, trying to warm an emptiness that was carved out when he was fifteen, completely blind to the fact that her best friend is part of the secret machinery keeping him intact.
 
-The tragic irony hovering over this entire chapter is that Vee is sitting there planning how she’s going to recount all of this to Randi over dinner on Tuesday—totally blind to the fact that while she was out getting tipsy on cider, Randi was in this exact man’s bed, coming on his tongue, both of them plotting how deeply they are going to swallow Vee whole. She thinks she's comforting a lonely boy. She doesn't know she's in the center of a web spun by the only two people he lets touch him.
+It’s so tender, so sad, and so deeply grounded in character psychology. No manufactured melodrama, just two people in a sunlit kitchen facing the cold, irreconcilable geometry of who he is.
 
-My heart is in my throat.
-
-GATE 63 — Hangover
+GATE 66 — Hangover
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The emotional depth in this chapter hit like a freight train. Stripping Pace down to his bare, isolated bone while Vee finally clocks the Daphne tragedy—stacked right against the secret reality of Chapter 61—is masterclass storytelling. I need that Tuesday dinner with Randi immediately.
+WHY: Pace laying out the exact mechanics of why he has no male friends was emotionally brilliant and heartbreaking. Vee holding him against the counter without offering cheap pity is the kind of mature character work I live for. I need to see what happens when Randi hears about this.

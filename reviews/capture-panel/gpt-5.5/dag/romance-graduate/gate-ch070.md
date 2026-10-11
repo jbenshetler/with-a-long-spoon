@@ -1,24 +1,34 @@
-*capture-dag-v2-rich · gate ch070 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~fda4df0f276c · 2026-09-11*
+*capture-dag-v2-rich · gate ch070 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c9f460e100d7 · 2026-10-11*
 
-REACTION — Oh no. Oh *no*. This chapter did the thing where I’m reading with one hand over my mouth and the other hand absolutely not turning the page slowly.
+REACTION —
 
-I knew Randi and Vee were going to cross something, but I was not ready for how perfectly nasty and tender and plausible the cover story would be. “Make him wish he were me” is exactly the kind of social camouflage that lets Vee survive wanting what she wants for five more minutes. The joke is the permission slip. The performance is the alibi. And then the kiss immediately becomes too real for the container it came in. That held inch before their mouths touch? Murder. Actual murder.
+Oh. Oh no. Oh *finally*, but also oh no.
 
-And Vee. God, Vee. She is so starved for being chosen by women, not just men, and the party gives it to her in this glittering, dangerous form: Randi’s skirt, Randi’s hand on her back, Randi saying “she’s here with me,” Randi’s world letting her inside. The whole chapter is Vee being inducted again, but this time the altar is a dance floor and the sacrament is being looked at. I loved how the skirt becomes both shield and trap. Because she can tell herself the boldness belongs to Randi, borrowed with the clothes, right up until her own body betrays that it likes being seen.
+This chapter had me by the throat from the second Vee said yes before she even knew what party. That little too-fast yes was everything. She is already gone. She just doesn’t know what name to put on gone, and the book keeps letting her body know first, which is exactly why I’m still here and still feral about it.
 
-Cassie’s eyebrow deserves its own novella. “Tonight I’m Randi’s date” and Cassie just silently filing that under: yes, I heard what you said. I need Cassie with a flashlight and a clipboard at the eventual emotional crash site.
+The clothes did so much to me. Randi handing her that skirt like it was nothing, like of course Vee can wear her tiny iridescent thing into a room full of sorority people, and Vee accepting because being chosen by Randi feels better than being sensible. Cassie clocking the whole problem in three seconds and then letting Vee walk into it anyway because what else can you do with a woman determined to learn something the hard way. “Tonight I’m Randi’s date” and Cassie’s eyebrow. Cassie, my beloved, silently watching the train acquire speed.
 
-Randi is terrifying here because she knows exactly how to make the room excuse the intimacy. The ass grab, the boy across the room, the “show” of it — all of that is socially legible as party-girl nonsense, which means Vee can’t grab it afterward and say, Wait, that mattered. And then Randi does the worst/best thing possible: kisses her like it mattered, then hands it back as a performance. “I almost believed it” made me want to throw the book and also bite it. Because that sentence is a cage. It tells Vee the right answer before Vee can ask the question.
+And Randi in the aqua dress. I understood Vee staring. I stared. The shoulders, the braid, the berry mouth, the jewelry, that locked-in polished version of her where nothing is soft except what she chooses to make soft. Vee’s attraction has been circling Randi for chapters, but this is the chapter where the book stops letting her call it admiration. She is looking at Randi like a lover, and the whole “I’m her date” giddiness is so sweet and so dangerous because Randi knows exactly what she is doing and also maybe does not know how much she is doing to herself.
 
-And yet I believe Randi faltered. That little moment after, where she doesn’t speak, just breathes and blinks and shakes her head? That is not nothing. She felt it too. She just recovered first and chose the lie that keeps the game intact. Which is exactly why I’m furious with her. Not because the kiss happened. The kiss needed to happen. Because Vee is left alone inside the truth of it while Randi gets to fold it back into “we were teasing a boy.”
+The bracelet detail made my stomach drop in the quietest way. Love, too small to remove, needing tools. That is not casual. That is a whole metaphor walking around on Randi’s wrist, and Vee just laughs and tucks it away as glamour because she cannot yet read the warning label on anything Randi gives her.
 
-Also: this chapter is hot in a different register from Pace’s chapters, and thank god. It isn’t replacing him; it’s revealing a different hunger in Vee. With Pace, she is being opened and known and arranged until shame turns into ceremony. With Randi, it’s recognition by a woman who already knows the codes, the prices, the clothes, the room, the performance — and can make Vee feel both protected and exposed. That is dangerous as hell.
+The party itself felt so alive. The punch with expensive Chambord hidden in a trash-can setup is perfect Brooke, and Brooke saying “I chose” / “I can see” was a little blade. Brooke knows. Brooke has always known more than Vee can afford for anyone to know. And Randi saying “You. As my date.” God. She wants the claim without the consequence. She wants to say it in a room where it can still be passed off as social, playful, girls being girls.
 
-I am completely captured, but I am also getting anxious in the good/bad way. The book has now made the secret triangle active on all three sides. Pace and Randi are lovers. Randi and Vee have kissed for real under a fake excuse. Vee and Pace are at full erotic trust. The longer nobody tells her, the more every beautiful thing starts ticking.
+Then the dance. I was already tense from the skirt climbing because the chapter made me feel the exact arithmetic of exposure: how much is funny, how much is too much, how much is suddenly not yours anymore. And Randi using that moment, catching Vee before she collapses into shame and turning it into performance, is so Randi it hurts. It’s rescue and manipulation and seduction braided together. “Make him wish he were me” is such a lie of a container for what happens next.
 
-GATE 65 — On Her Floor
+Because the kiss. Jesus.
+
+That pause before their mouths touch was obscene in the best way. More erotic than half the explicit scenes in lesser books. The held inch, Randi’s breath, Vee finally letting herself look at her face from lover-distance, the smell of her arriving like a key. I felt Vee’s whole self tilt. And when it became not the goodbye kiss, not the bit, not the show, but Randi’s tongue and Vee opening and wanting her hands under the skirt — there it is. There is no pretending anymore, except of course Randi immediately pretends.
+
+That last move from Randi made me want to shake her. “I almost believed it.” Girl. GIRL. You did believe it because it was true, and you are choosing the escape hatch while Vee is standing there wet and stunned and newly rearranged. It is crueler because it is so smooth. She hands Vee the script, and Vee takes it because otherwise she has to stand in the middle of a party and say, no, that was real for me. And she can’t. Not yet.
+
+I’m not stopping. Absolutely not. This is the door finally opening, and the fact that Randi immediately tries to shut it and call it theater makes me want the next chapter badly. I am worried for Vee, though. Pace is the open want; Randi is the hidden one, and hidden wants rot if no one admits they’re fruit.
+
+GATE 70 — On Her Floor
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-ALMOST-STOPPED: "You really did a great job putting on a show. I almost believed it."
-WHY: That line hurt in exactly the place the chapter had spent the whole night opening. I’m desperate for the next chapter because Vee now knows something her life has no room for yet, and Randi knows she knows, even if she’s pretending she doesn’t.
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: This was the Randi chapter I’ve been waiting for: public, plausible, devastating, and then instantly denied. The kiss landed as a real turn in the bond, and Randi’s “almost believed it” made me furious in exactly the way that makes my thumb keep moving.

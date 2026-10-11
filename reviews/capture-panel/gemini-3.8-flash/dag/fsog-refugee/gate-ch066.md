@@ -1,24 +1,30 @@
-*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 0ba818fcba40 · 2026-09-19*
+*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fc6ed94829c1 · 2026-10-11*
 
 REACTION:
 
-Oh, god. My throat actually aches right now.
+Oh, this broke my heart into a dozen pieces.
 
-Coming right off chapter 61—which left me practically vibrating with anxiety and rage watching Pace and Randi casually fuck and talk about Vee like she’s an exquisite piece of fruit they’re ripening together—this morning felt like a punch to the chest. Because here he is. The *real* Pace. The man who bakes cinnamon raisin bread while she sleeps off three ciders, puts the paper towel under the water glass so the ring won't mark the wood, steers her gently into his oversized undershirt, and puts his mouth to her forehead in the dark. The tenderness in him isn't an act. It isn't a tactic. It is so bone-deep and so quiet, and seeing him stand at that sink and lay out the stark, barren landscape of his life broke me.
+I was not prepared for this chapter. After the pure adrenaline rush of Wednesday's roadhouse, and then that fever-pitch chapter 64 where Pace and Randi are fucking like demons while obsessing over Vee, and then the absolute riot of meeting Sheri in the taproom... to wake up here, in this quiet, cold, hangover-bright kitchen, felt like walking into an empty church.
 
-"Sheri's my friend. My one friend. There isn't anyone else."
+Pace making cinnamon raisin bread from scratch while she sleeps off her cider. The folded paper towel under the water glass so the wood wouldn't mark. It’s those tiny, devastating details of domestic care that make me love him so hopelessly, even while I want to shake him until his teeth rattle. He is so profoundly *good* to her in the physical world. He waters her like a plant; he feeds her; he puts his softest clothes on her back.
 
-To hear him say that so flatly, without a shred of self-pity or theatrical drama—just presenting it as a settled mathematical equation—was devastating. The window opens once, and he was a fifteen-year-old child among grown men who "weren't safe or weren't welcoming." God, the Daphne horror, the father who drove him out at sixteen, the campus emptying out around him on Thanksgiving because he had no home to go back to. Vee seeing it, finally really *seeing* the terrifying, beautiful vacuum of his life, made the bond between them feel ten times heavier. She didn't offer cheap pity. She didn't say she was sorry. She just walked around that counter and threw her whole weight against him the way Sheri did. That is real love. That is two specific, damaged, aching human beings holding onto each other in a cold kitchen.
+And then the ax falls. Not with a shout, but with that awful, flat, mathematical plainness: *"Sheri is my friend. My one friend. There isn't anyone else."*
 
-And that is exactly what makes the secret so utterly sickening.
+My god. The sheer, echoing loneliness of that sentence. When Vee started pushing—because she’s twenty-one and her whole life is noisy dorm rooms and borrowed clothes and shared cafeteria trays—and he laid out his entire life like an autopsy report... I had a lump in my throat the size of an apple. *“Men make friends by competing... I was never once in the pack.”* And then that knife-twist about the men who *“either weren't safe or weren't welcoming,”* tying straight into his father and him fleeing home at sixteen.
 
-Because Vee is sitting there mourning his isolation, thinking *Randi* is her safe harbor, thinking how lucky she is to have a girlfriend to do the triage on her heartbreak, completely blind to the fact that Pace and Randi are sleeping together. She literally thinks: "His one friend on this earth a five-foot woman who could never want him — the only kind, she was sure now, the world had ever quite let him keep." The irony is like a razor blade sliding under your ribs. She doesn't know Randi *does* want him, has had him, is sharing him, and that the two of them are whispering about her while they come.
+Vee seeing Daphne clearly for what it was—not just romantic tragedy, but grooming, an older predator taking advantage of a brilliant, isolated fifteen-year-old boy who had literally no one else in the world—was such a mature, devastating turn in her head. She finally stopped seeing Daphne as a romantic rival and saw the horror of it. Pace had one person who carried all of him, and she abandoned him, and he has spent the last decade building a fortress of polite distance, baking bread, and convincing himself that isolation isn't tragic.
 
-It makes the care feel so pure on one level and so deeply tragic on another. When this bomb goes off, it's not just going to break her heart—it's going to vaporize the entire architecture of safety he has built for her, and she is going to realize that the boy who has no friends had one other person all along, and they kept it in the dark. I am terrified for both of them.
+And then Vee’s reaction. She didn't offer pity. She didn't patronize him with easy words. She walked around that counter and gave him the exact hug Sheri gave him—full weight committed, no demands. When he rested his chin on her head, looking out the window, just letting her hold him... that was pure, aching intimacy.
 
-GATE 63 — Hangover
+The tragedy, of course, is that while he's telling her Sheri is his only friend, he's actively hiding Randi. Randi, who is currently tearing through his bed and his psyche, an accomplice rather than a friend. Vee thinks she's holding a man who has nothing, completely unaware of the web he's spun around her. But the tenderness here? The absolute emotional weight of it? It gutted me.
+
+***
+
+GATE 66 — Hangover
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The quiet domestic intimacy between them broke my heart wide open; seeing the stark reality of Pace's childhood trauma laid bare makes the trap hanging over Vee feel ten times more suffocating. I have to see Tuesday.
+WHY: The quiet emotional devastation of Pace explaining his complete isolation, paired with Vee finally seeing the reality of his trauma without pitying him, was masterclass character work. It aches so beautifully.

@@ -1,22 +1,30 @@
-*capture-dag-v2-rich · gate ch071 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~00dbf427b44c · 2026-09-12*
+*capture-dag-v2-rich · gate ch071 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d556fe46d58e · 2026-10-11*
 
-REACTION — Oh, this is awful. Hot, tender, devastatingly hot—and morally awful.
+REACTION
 
-Vee driving to Pace because she needs him to crowd Randi out of her head broke my heart before she even reached his door. She is not choosing between two desires yet; she is using the desire she understands to punish and erase the one she doesn’t. And of course it doesn’t work. Randi remains “the third one she’d carried in on her mouth.” That line lodged under my ribs. Pace can fill her body, but he cannot make her stop wanting Randi, because the wanting is hers.
+Oh, this hurt. Vee drove twenty minutes in the cold to use her boyfriend as a wall against her own desire, and then discovered Randi was still in the room with them. Still in her mouth, still in her body, still waiting on Tuesday. There is no putting this back now. She can call it drinks and a joke and a dumb body as many times as she likes; her desire has become more truthful than she is.
 
-The confession game would have destroyed me under any other circumstances. Being held just off what she wants, having to replace each tidy little euphemism with the truth, receiving more of him when she finally admits what she actually felt—that is exactly the kind of dominance I read for. She likes the rule. She tests it. She chooses to keep answering. Her pleasure and her honesty become tangled until she finally says, “I wanted it.” I felt that with her.
+And Pace—God, Pace. The whole confession game was exactly the kind of dominance I want to melt for: he knew when she was tidying the truth, held her still, waited, and made honesty the way back to pleasure. “You finish when you’ve finished” absolutely got me. He didn’t punish the wanting or shame her for it. He made her say that Randi’s tongue was a please, that she wanted the kiss, that she wanted Randi’s mouth lower. He let her hear herself. In another book, with an actually unsuspecting boyfriend, I would have been gone over that scene.
 
-But Pace already knows. Worse, he knows because Randi has been telling him, and he has already used Vee’s attraction to Randi in bed with Randi. So this isn’t a man helping his girlfriend confess a frightening new desire in a protected space. It is one conspirator erotically extracting her account of what the other conspirator did. He makes Vee pay for information he already possesses, then comes with her while she describes his secret lover’s mouth. I cannot separate the heat from the betrayal now. The scene gives me precisely what I want while making the context poison it, and I am furious because Pace’s attentive control is so real. He could have made this safe. He chose secrecy instead.
+But he already knows. That changes everything.
 
-“You keep saying her name, Vee. Not me” may be the most exquisitely dishonest true sentence he has spoken. Vee reads his tiny self-defense as proof that he does not want Randi, when he is actively sleeping with her. She calls it the sweetest thing he has ever done. I wanted to reach into the book and shake all three of them.
+He is not lovingly helping Vee discover a truth neither of them understands yet. He is secretly collecting confirmation of the desire he and Randi have been cultivating together. He asked “How did this happen?” as though he did not know Randi brought Vee as her date, dressed her, and wanted her. He made Vee pay out the story inch by inch while holding an entire hidden relationship behind his teeth. Vee thinks she has never concealed anything from him; he is lying to her by omission in the very moment he turns honesty into an erotic requirement for her. That imbalance made the hottest scene in the chapter feel both irresistible and sickening.
 
-And then she feels she has “gotten away with it.” Oh, sweetheart. She is torturing herself over goodbye kisses and one private fantasy while lying in the arms of a man who is concealing an entire relationship and a planned seduction. She believes fidelity means telling him everything, and he lets her believe she has achieved that intimacy while offering none of the same honesty back. Even his “Anything else you want to tell me?” made me cold. He knows there is more. He knows more than she does. He is asking her to expose herself while remaining perfectly covered.
+And then she tells her first real lie to him—“Nothing”—while he gives her another chance to tell him about Randi. I felt the cold of it land in her. I hate that she thinks she “got away with it,” but I understand exactly why she lied: she has no language yet that does not threaten the safe, straight structure she has only just been given. “Boyfriend” is not merely a relationship word for her. It is the rail she grabs to stop herself falling into knowledge about who she is and what she wants.
 
-I’m not leaving, because Vee has finally crossed the internal line even if she cannot name it. She wanted Randi. Not as a joke, not for Harrison, not because Pace wanted to hear it. She wanted Randi’s mouth on her, and after all that sex with Pace her mind still goes straight back to Tuesday. Nothing is wrong with her. Something is profoundly wrong with the structure around her—and I need her to see it.
+What makes me furious is that Pace knows the floor is there. He could tell her. Instead he gets to be infinitely accepting—“I don’t mind”—without risking his own truth. Vee experiences that as the sweetest defense of her he has ever made, while I know it is also a grotesquely easy generosity. Of course he does not mind. He and Randi chose her. He has already had sex with Randi while they talked about Randi’s mouth on Vee. His tenderness is real, and the concealment inside it is real too, and I am reaching the point where the second thing is poisoning the first.
 
-GATE 66 — Boyfriend
+I also flinched at Vee being raw because she did not stop when she should have. Pace recognized the anger and asked what happened, which matters, but once the game began he used her need to draw out the confession. She wanted the control—very clearly—and the charge between them was enormous. Still, because he possessed information she did not, he was directing her toward a revelation whose destination he already knew. That is not the clean consent I thought I was watching from Vee’s side.
+
+And Tuesday. Yes. That is the hook in me. Vee can flee to Pace, climax, confess almost everything, deny everything, be held all night—and her mind still goes straight back to Randi. I desperately want her to sit beside Randi and discover whether Randi will keep pretending. If Randi gives her another bright little friendship smile and acts as though that kiss meant nothing, I may throw the book. If she risks one honest sentence, I will forgive more than I currently want to.
+
+What I would text at one in the morning: “She went to her boyfriend to fuck the wanting-for-Randi out of herself, and he made her confess every detail while secretly already sleeping with Randi. I am incandescent and unfortunately still extremely turned on.”
+
+GATE 71 — Boyfriend
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-ALMOST-STOPPED: “Tell me the real story, and I'll give you what you want.”
-WHY: The immediate consent held, but Pace’s secret knowledge made the erotic bargain feel horribly exploitative. I’m already turning the page because Vee finally knows the desire is real, and Tuesday with Randi now feels unavoidable.
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: “Tell me—the real story, and I'll give you what you want.”
+WHY: The scene hit my exact weakness—tender dominance used to make her speak her own desire—but Pace’s hidden knowledge makes that same control ethically filthy in a way the book absolutely must confront. I need Tuesday immediately, and I need either Randi or Pace to stop taking Vee’s honesty while offering her only beautifully managed lies.

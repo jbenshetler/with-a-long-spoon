@@ -1120,3 +1120,15 @@ reported as a one-call re-read spent ~37 reads and 3 mints. **Counting endpoints
 not a survey.** Count the *missing gates across the whole 1..N range* plus a mint at
 every decade boundary <= N, and report that number before spending — the existing
 rule in Step 2, which this run did not follow. A lane can have a hole in the middle.
+
+## Stale ck-ch060/ck-ch070 rebuilt on four lanes (2026-10-11)
+
+`claude-opus-4-8`, `gemini-3.8-flash`, `gpt-5.6-sol` and `gpt-5.5` (both personas)
+carried ck-ch060/ck-ch070 minted 2026-09-11..19, when the reading order put
+Boyfriend and Coming Due earlier. Their ch71/72 re-reads met those chapters as
+repeats ("an exact verbatim replay of Chapter 68"); gemini scored ch71 4 and 5. The
+four lanes were re-read ch56–72 in current order with `--from N --to N --fresh`,
+re-minting both checkpoints; gemini's ch71 went to 10/10 on clean memory. Their gates
+past ch72 (to ch75; gemini to ch78) are still old-order. **Survey rule addition:** a
+gate's `GATE N — Title` must match the current sequence, not just exist — a reorder
+leaves a full, wrong lane.

@@ -1,32 +1,28 @@
-*capture-dag-v2-rich · gate ch062 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 8348ecb548e4 · 2026-09-19*
+*capture-dag-v2-rich · gate ch062 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 7514bd75e597 · 2026-10-11*
 
 REACTION
 
-Oh my god. *Oh my god.* My pulse is in my throat. Helen Rivers, what are you *doing* to me?
+Holy shit. The psychological warfare happening across this tiny restaurant table is so dense and electric I could barely take a breath. Helen Rivers is writing circles around everyone else in this genre right now.
 
-First of all, Dr. Marsh’s lecture on the lice comb and the baboons grooming for an hour just to keep from sickening? "Somebody in this room, by spring break, is going to tell me what you spend it on now." The thematic precision of that! We spend it on *this*. We spend it sitting across from the only person in the universe we trust to take our wreckage and our raw lust and our secrets, passing a wintergreen Lifesaver between palms, spending an hour combing through each other's intimacies until we're clean and held. It’s breathtaking prose, genuinely literary, but carrying an erotic charge so heavy it feels like a live wire.
+First of all, the baboon grooming lecture? *Brilliant.* The comb being passed through the room like a physical relic while Dr. Marsh talks about grooming as the foundational currency of intimacy and politics—and then watching Vee and Randi spend the entire rest of the night grooming each other with words, touches, candy, and graphic debriefs. Vee literally handing over every ounce of her sexual life to Randi like a little ape offering its fur to be picked clean, completely unaware that Randi is using every single detail to map the politics of their entire dynamic.
 
-And then the loft. God, the loft.
+And that conversation. My God, the conversation.
 
-Vee trying to turn the morning-after snowballing into a cute, self-deprecating comedy bit for the girls' table—putting her hand up like a Victorian aunt, setting her little outrage down like a party trick, fishing for Randi to validate her reflexive Ohio shame: *"You think it's gross too, don't you."*
+Vee came in with this polished, scripted little stand-up routine: *“I told him ‘Ugh — gross!’ Hand over the mouth! Victorian! Hilarious, right Randi? Validate my neat little box!”* And Randi just refused to play along. That flat, unblinking: *“I don’t.”* And then: *“It was powerful. It turned me on.”*
 
-And Randi. Just... staring at her through the candlelight, taking the measure of it, and dropping two syllables that altered the gravitational pull of the entire book:
+The absolute collapse of Vee’s performative modesty in that split second made my stomach drop. Randi didn't mock her; she didn't join in the giggle fest; she just laid down the adult reality that women tasting themselves, women desiring each other, that total lack of shame—it’s powerful. And suddenly Vee is sitting there with a mouthful of ashes and a burning cunt, realizing her boyfriend *likes* it, her best friend *likes* it, her own body secretly thrilled to it, and the only person pretending it's "gross" is her own terrified ego.
 
-*"I don't."*
-*"Did you like it?"*
-*"It was powerful. It turned me on."*
+Then that neck kiss on the sidewalk. Randi’s body catching, rising, holding a beat too long, and having to cover it with a breathless *“Ticklish.”* Randi is going to combust. You can practically hear the iron clad plates of her Southern sorority mask warping under the heat of being touched by this girl. And Vee, the absolute oblivious menace, walking home with her coat pulled tight, completely haunted by her own admission: *He’s enthusiastic. I don’t.*
 
-I stopped breathing. The absolute quiet mastery of that moment! Randi didn't argue with her, didn't give her a feminist lecture, didn't mock her. She just set a grown-up truth on the white tablecloth and let Vee choke on the difference between what she’s been trained to perform and what her body actually craves. And Vee’s body *knows*. That clench under the table, the wine drying up in her mouth, the realization that her "tidy explanation" was complete bullshit—and then blurting out, *"Actually—he's enthusiastic."*
+Vee thinks she’s walking away clean with an empty plate, but she just swallowed the bait whole.
 
-And Randi eating the bread with that warm, knowing *"Mm."* Like a cat watching a bird realize the window is open.
+***
 
-And then the ending on the sidewalk. Jesus Christ. Vee weaponizing the "tickle" spot on Randi’s neck—kissing the bare, warm dip between neck and shoulder, totally naive to what she's actually touching—and Randi's whole body catching, rising, holding that breath a beat too long before laughing it off as a flinch. Randi is in agony. She is starving for this girl, standing in an icy parking lot having Vee’s mouth on her neck after listening to Vee describe swallowing Peter's come and being eaten out like a blood orange.
-
-The three of them are in deep, dangerous water now. Vee thinks she's just a girl with a great boyfriend and a glamorous bestie. She has no idea she's standing in the middle of a furnace.
-
-GATE 59 — A Clean Plate
+GATE 62 — A Clean Plate
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension in that booth was almost unbearable—Randi flatly dismantling Vee’s shame with four words ("It was powerful. It turned me on"), followed by that neck kiss on the freezing sidewalk. This is adult erotic fiction operating at the absolute peak of its powers, psychological depth and searing heat locking together completely.
+WHY: The subtext in this dialogue is lethal. Randi dismantling Vee's shame-based joke with a four-word reality check (*"I don't... It turned me on"*) was hotter and more psychologically devastating than ten pages of generic smut. I need Tuesday right now.

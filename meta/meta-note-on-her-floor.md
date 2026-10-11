@@ -11,7 +11,7 @@ Harrison seed, the skirt, the kiss and its re-filing — is authoritative in
 ## Randi answers Brooke's demand in public (author 2026-10-07)
 
 Added against {{My Friend Randi}}'s new panel two, where Brooke tells Randi
-*"You've got a position in this house. You need to choose"* and **leaves without
+*"You've got a position in this house, and you've got her. You need to choose"* and **leaves without
 waiting for a reply**. That choice stays open for thirteen chapters and is
 answered here.
 

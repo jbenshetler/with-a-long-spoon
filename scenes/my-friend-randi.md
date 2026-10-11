@@ -224,7 +224,7 @@ Nothing moved in Brooke's face. She ran a house of ninety and she knew to the in
 
 The mug was cold in Randi's hand and she had not put anything in it.
 
-"So play," Brooke said, kind as anything. "God knows. Play all you want, privately, or for the boys, and not one girl in this house will say a word to you about it, and I'll say less than any of them. That isn't what I'm talking about." The curious bright note came up, the *can I ask* face, warm the whole way. "You've got a position in this house. You need to choose."
+"So play," Brooke said, kind as anything. "God knows. Play all you want, privately, or for the boys, and not one girl in this house will say a word to you about it, and I'll say less than any of them. That isn't what I'm talking about." The curious bright note came up, the *can I ask* face, warm the whole way. "Ninety girls under one roof, honey. Every boy on the row thinks he knows what goes on upstairs here. I'd like them to keep thinking it's funny. You've got a position in this house, and you've got her. You need to choose."
 
 And she touched Randi's arm once going past, and went out through the archway, and her voice carried on into the common room, bright, saying something to Sloane about a form.
 

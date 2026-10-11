@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch059 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha c23f4d1deeee · 2026-09-19*
+*capture-dag-v2-rich · gate ch059 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 750baf7f17dc · 2026-10-11*
 
-REACTION
+REACTION — God, my chest is so tight reading this, and it’s not because the chapter is bad—it’s because it’s *so sweet* and I am watching a girl walk straight toward a landmine with an armful of flowers.
 
-Oh, this chapter felt like taking a deep, clean breath of cold winter air after being locked in a hot room. I loved every single second of it.
+Seeing Vee with her dorm friends—with Kayla losing her mind over waffles and socks, and Meg being that dry, solid presence talking about her period and *The Matrix*—is pure sunshine. It feels so grounded and normal. Vee telling the flashed-him-on-the-porch story to her friends over mimosas is such a real, funny, college-girl moment. She’s beaming. She feels loved, she feels chosen, and having Pace offer to take *all* her people out to dinner feels to her like the ultimate public validation. She thinks she won. She thinks she took a brave gamble, stripped off the past, and brought her man out into the light.
 
-After the sheer, breathless intensity of Chapter 52 (her flashing him in the cold, him dropping straight to his knees—good *Lord*) and the slow, luxurious intimacy of Chapter 53 with the persimmons and the cashmere and him wiping his mouth so respectfully after she panicked, seeing Vee back in the real world with her girls is pure medicine. It’s what Fifty Shades and all its knockoffs *always* forgot: the heroine needs a life outside the man's orbit, or the romance suffocates under its own weight.
+And I am sitting here on the other side of the page wanting to throw up, because I know what’s waiting on Wednesday night.
 
-Watching Vee take Kayla and Meg out to a gorgeous, sunlit breakfast—treating them like the grown, confident woman she’s becoming—was just wonderful. Kayla clutching her heart over peanut butter crackers and then shrieking so loud the whole restaurant turned around when Vee admitted she flashed him? Pure gold. "You were standing there *talking to me about my socks!*" I actually laughed out loud in bed reading that. It’s so real. That’s exactly what your loud, chaotic friend does when you drop a bomb like that over mimosas.
+Pace didn't just agree to meet her friends; he's bringing *Randi* to that table. He is hosting a dinner with the college friends, the roommate, the girl who loves him, and the woman he’s been sleeping with and plotting to share Vee with. Randi and Pace across from Cassie, Kayla, and Meg, with Vee sitting proudly in the middle thinking she orchestrated the whole thing. It is going to be an absolute powder keg. Meg and Kayla are going to be watching Pace like hawks, Cassie is already suspicious as hell, and Randi is going to have to sit there playing the "supportive sorority bestie" while looking at the man who bent her over his counter.
 
-And Meg—god, bless Meg. "That's a big apology... Sometimes you have to make it right in their language." Hearing Meg validate it, framing it not as a woman degrading herself, but as a bold, intentional gesture to bridge a fight, grounded the whole crazy coat stunt in something deeply human.
+Vee is so happy, and the drop is going to be so far. It’s almost painful watching her enjoy this waffles-and-mimosas morning because the dramatic irony is suffocating. Wednesday is two days away. I am terrified for her, but my God, I need to see this dinner.
 
-But what's really making my heart beat fast is Wednesday night. Pace—stoic, exact, intensely private Pace who broke down and couldn't handle Chili's—is voluntarily stepping out of his sanctuary to take *all* her people to dinner. Kayla, Meg, Cassie, Theo... and Randi.
-
-Randi.
-
-My stomach just did a hard flip. Randi, who is secretly, silently in love with Vee. Randi, who gave Vee those absurd heels specifically to send her into Pace's bed. Randi, who went dancing with Pace before Thanksgiving. And now Pace is bringing them all together into one room, under the lights, to claim Vee publicly as the center of his life. It’s the ultimate gesture of him tearing down his walls for her—and at the exact same time, it’s an absolute powder keg. Wednesday is going to be magnificent or catastrophic, and I need to be seated for it immediately.
-
-GATE 56 — Across
+GATE 59 — Across
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 10
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The banter with the girls was absolute perfection, and the anticipation for this Wednesday dinner with Pace, Randi, and all her friends in one room has me practically vibrating.
+WHY: The sweet, funny normalcy of Vee giggling over brunch with Kayla and Meg made my stomach twist into knots knowing the absolute nightmare waiting for her at this upcoming Wednesday dinner. The anticipation is through the roof.

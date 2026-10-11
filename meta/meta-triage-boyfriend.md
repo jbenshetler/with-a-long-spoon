@@ -88,3 +88,26 @@ is the **intended hairline crack**, not a defect. Every reader still holds Pace
   pass: many are **load-bearing** — the scene is *about* perception (him reading
   her; her *"hearing the word the way he'd heard it"* is the confession mechanic
   itself), so a blind thin would gut the engine. Thin only the reflexive ones.
+
+## Capture-panel pass (2026-10-11)
+
+Ch71 re-read by 8 models × 2 personas after the first-lie revision; all CONTINUE,
+CAPTURE 9–10. Craft items from the gates, ruled by the author:
+
+- **Fixed — the heard-it device overused** (opus-5-5): `:87`, `:91`, `:115`, `:125`
+  all turned her back to hear her own word. Cut `:125`'s restatement ("she heard the
+  word the way he'd heard it — *some*") to *"Stopped again. Held."*; the stall does it.
+- **Fixed — "the truth wearing the joke's own clothes"** (`:65`, opus-5-5): the
+  narration reading for the reader. Cut; the line goes straight to *"It didn't stay a
+  joke."*
+- **Fixed — the closing line** (fable): *"And whatever had hold of her was not, even
+  now, anywhere near done"* told what the reader knew. Cut; the chapter ends on the
+  cold kept out.
+- **Left standing — "Saturday's mine with you, it always is"** (`:235`). A reader
+  remembered Sunday from `on-her-floor.md:17`; canon is right (this is their first
+  Saturday night apart).
+- **Left standing — the warm-blanket simile then the literal blanket** (`:249`/`:253`).
+  Designed.
+- **Not defects:** *"You keep saying her name… Not me"* read as Pace lying (the
+  designed crack); the stroke ledger (settled above); *"I'm not gay"* near a trope
+  (one lane, read as her wall).

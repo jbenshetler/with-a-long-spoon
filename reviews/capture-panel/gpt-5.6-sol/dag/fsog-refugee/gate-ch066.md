@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~78023057031c · 2026-09-12*
+*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fc6ed94829c1 · 2026-10-11*
 
 REACTION
 
-Oh, this got me. Not sexually at all, and I didn’t miss the sex for one second. The water on the folded paper towel, the pills, his old shirt pulled over her, the bread somehow existing by morning—this is exactly the ordinary tenderness that makes me helpless with him. He takes care of her when there is nothing glamorous in it, when she is barely conscious and cannot admire him for doing it. And that remembered kiss on her forehead, after he thought she was asleep, may be more intimate to me than half the things they’ve done naked.
+Oh, this hurt me. Not loudly. It got under my ribs one ordinary question at a time, exactly the way it got Vee.
 
-Then he told her he has one friend, and my heart broke—and immediately afterward my suspicion sat straight up.
+The water waiting where she would reach first, the paper towel under the glass, the pills already given, his shirt pulled over her, bread made while she slept—this is the Pace I am helpless for. He never turns care into a performance or a debt. He simply notices what her body will need next and puts it there. Even the forehead kiss after he thought she was asleep nearly undid me. That is love, whether he can force the word through his teeth or not.
 
-Because I believe him about the loneliness. Completely. That account of missing the one brief window when boys learn friendship through ordinary competition felt horribly true for this particular strange, brilliant, displaced man. And the innocent questions with gaps under them—Christmas, parents, somewhere to go—hurt terribly. He has made a philosophy out of not calling deprivation tragic, just as he made Daphne into luck because admitting what it cost might undo the only love he had. Vee sees that now. She sees the beloved experience and the wrong adult shape of it at the same time, and I’m so glad she does not flatten either truth to make the other easier.
+And then: “Sheri’s my friend. My one friend.” God. I knew he was solitary. I did not understand that he was this alone.
 
-Her hug was perfect. She didn’t pity him, didn’t demand disclosure, didn’t make him reassure her. She simply crossed the distance and held him with her whole weight. That is love, whether either of them will say the word or not. And the echo of Sheri’s hug absolutely finished me: Vee understood what that embrace meant and answered it in the same language.
+His explanation about friendship forming in the middle of the pack felt horribly convincing because it is so specific to him. He was too young for the men around him, too far ahead by the time boys his age arrived, and whatever happened at home had already taught him that ordinary questions were traps with holes underneath them. “What are you doing for Christmas?” should be nothing. For him it is an invitation to either expose the wound or quietly step away from intimacy. Of course the doorway never became a room.
 
-But, Pace. “My one friend”? Where is Randi inside that sentence?
+And Daphne becomes even more complicated and frightening here. She was not merely his first girlfriend. She was tutor, guide, best friend, family, social map, and apparently the only person in his entire life who held all the roles Vee distributes among four women. I understand more completely why losing her destroyed him—and I am even less comfortable with how that bond began. Vee pressing back the “ugly grown-up word” is exactly where I am too. He can remember those years as salvation, and the imbalance can still have been profoundly wrong. Both truths hurt.
 
-Maybe he truly does not classify Randi as a friend. Maybe she is lover, partner, co-conspirator, some category so foundational or dangerous that “friend” would be inaccurate. But Vee hears “one person in the world,” and he knows she hears it. She is grieving that he had nobody after Daphne while Randi is presently in his bed, sharing his secrets and helping shape Vee’s life. He lets Vee build an entire emotional understanding around an absence that is not actually empty. That makes this exquisitely tender chapter feel almost cruel underneath.
+Vee’s response was perfect. She did not make him comfort her for his own pain. She did not tell him it was tragic after he had explicitly said it wasn’t. She crossed the counter and held him with her whole weight, borrowing Sheri’s language of care because she had finally understood what that hug meant. That is a real turn in their bond. She is learning to serve him without trying to make him smaller enough to be served.
 
-And Vee’s certainty that Sheri is safe because she “could never want him” made my stomach turn—not because Sheri secretly does, but because Vee is unknowingly identifying the exact condition under which she thinks Pace can keep a woman close without romantic complication. Randi blows that condition apart. The revelation is going to reach backward and contaminate this beautiful morning: the bread, the loneliness, the hug, all of it. Not because his pain is false, but because he accepted comfort generated by a false picture he chose not to correct.
+I also felt a chill at her certainty that Sheri is the only friend the world “let him keep” because she could never want him. Vee still does not know Randi is also in his life, knows him deeply, and absolutely wants him. She is building this tender picture of his loneliness with one enormous person cut out of it. When that hidden fact arrives, it will contaminate even this morning.
 
-I would text a friend: “This man baked her cinnamon-raisin bread while she slept off cider, confessed he has one friend, and let her hold him—and I am crying while also yelling WHERE THE HELL DID YOU PUT RANDI IN THAT SENTENCE?”
+But right now I just want to sit in the kitchen with them while the bread cools. He has been alone at the table for so long, and she came around it.
 
-GATE 62 — Hangover
+GATE 66 — Hangover
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 8
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The care between them was so real that I would happily have stayed in this quiet kitchen all chapter. But “Sheri’s my friend. My one friend” is an enormous, suspicious omission, and now I urgently need to know what Pace believes Randi is—and how much truth he knowingly let Vee replace with tenderness.
+WHY: This chapter reached straight into my weakness: quiet service, painful honesty, and Vee answering him with care instead of pity. I need the concealed Randi relationship exposed, but this tenderness between Vee and Pace is exactly why I cannot leave them.

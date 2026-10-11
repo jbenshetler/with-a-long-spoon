@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch072 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha ~b11de8d9a5ce · 2026-09-11*
+*capture-dag-v2-rich · gate ch072 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c14c8e832ee2 · 2026-10-11*
 
-REACTION —
+REACTION — Oh, this chapter is mean in exactly the way I wanted it to be mean.
 
-Oh this chapter made me ache in that specific, deliciously awful way where the room is quiet and nothing “happens” except everything comes due inside her body.
+Not flashy mean. Not melodrama. Just Vee trapped inside the ordinary logistics of Tuesday: sweater, saved seat, knee touching knee, Lifesaver, after-class walk. The whole chapter is basically “what if nothing happens except everything is now unbearable,” and unfortunately for my sleep schedule, yes. That works on me.
 
-This is the first time Vee can’t outsource the wanting. That’s what got me. With Pace, she could turn Randi into heat for him, tell herself it was part of their sex, part of the game, part of being wound up. But Tuesday in class strips that excuse away. There’s no bed, no boyfriend under her, no dirty retelling to convert it into something straight and manageable. There’s just Randi’s knee against hers, Randi’s wrist-brush over the Lifesaver, Randi saying “having you,” and Vee’s whole body going yes while her mind stands there with a clipboard going absolutely not.
+I loved that the heat is not allowed to be easy here. With Pace, she can turn it into sex, into a game, into confession bought by inches. With Randi, there is nowhere to put it. That is the whole charge. Randi touches her wrist the way she always has and suddenly Vee is ruined by the same gesture because the meaning has changed under her feet. That is the grown-up erotic stuff I keep reading for: not just “she’s hot,” but the horror of realizing your body has been keeping better records than your mind.
 
-And God, the Lifesaver thing. This book has made me feral about tiny objects. A wintergreen candy should not feel like contraband, but it does, because now every little ritual has a charge. Their friendship has all these established gestures that used to be safely deniable, and now Vee is trapped inside them awake. That is such a mean pleasure to read. The intimacy was already there; the only thing that changed is that she can feel it.
+And the way she keeps trying to make rules for herself: if she doesn’t touch herself, it isn’t true; if she misses the kiss, she has controlled it; if she says she’s sick, she can escape dinner. Sweetheart. No. You are building a fence around weather.
 
-I also loved and hated the way she dodges the kiss and gets punished by something worse. Not because Randi is cruel exactly, though Randi is absolutely playing too close to the edge and knows more than she admits. But Vee turns her mouth away, finally tries to make one clean boundary, and Randi just kisses her neck, the place Vee herself has already made charged between them. “How do you like it?” Girl. GIRL. That is not innocent. That is a match struck under a curtain.
+Randi, meanwhile. God. “Having you at the dance…” Ma’am. You know what you’re doing, or at least some part of you does. And then the neck kiss? After Vee deliberately turns away from the mouth? That made me sit up. Because it’s playful, yes, and totally in the established Randi language, but it is also not innocent. She goes around the locked door and finds a window. I don’t think she means harm exactly, which is why I’m still helplessly into her, but she is so used to being able to make intimacy cute that she can pretend it isn’t pressure.
 
-And then Vee blurting brunch. That killed me. She escapes the kiss, gets hit in the neck instead, and immediately asks for another private date. She is so bad at protecting herself because half of her does not want protection. I felt that. The want and the apprehension holding hands up the stairs is exactly the shape of this part of the book.
+And then Vee asking for brunch! That killed me because she is trying to flee and reaching at the same time. She dodges the kiss and then immediately schedules the next private hour with her. That is so real it hurts. I wanted to grab her by both shoulders and also absolutely keep reading.
 
-Cassie at the end was such a relief and such a threat. Finally, someone outside the spell says the plain thing: what was that? And Vee has no answer. That’s the scariest honest place she’s been in yet. Not denial with a clever explanation. Not “my dumb body.” Just nothing. No usable lie rising to meet her. That feels like a threshold.
+Cassie at the end is perfect. Finally. Somebody standing in the doorway of this mess with actual eyes. “What was that with you and Randi?” is the question of the entire book right now, and Vee not having the easy answer anymore is the first honest thing she’s done all chapter. I am deeply, deeply in.
 
-This was quieter than the painted fruit chapter, obviously, but it pulled hard because it changed the map. Randi is not a fantasy leaking into Pace anymore. Randi is becoming the problem in daylight.
-
-GATE 67 — Coming Due
+GATE 72 — Coming Due
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-ALMOST-STOPPED: "Monday was worse for having nothing in it."
-WHY: This was a bridge chapter, but a loaded one: all internal recoil, denial, and tiny touches turning radioactive. I’m desperate for brunch now, and also for Cassie to keep asking questions, because Vee has officially run out of clean compartments.
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: This was exactly the fallout I needed: not resolution, but the kiss coming due in Vee’s body, in her routines, in every ordinary touch. The chapter pulled hard because it made Randi unavoidable without letting Vee name her yet, and Cassie’s final question has me reaching for the next page.

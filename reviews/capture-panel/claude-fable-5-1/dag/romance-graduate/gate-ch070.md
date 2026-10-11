@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch070 · claude-fable-5-1 · romance-graduate · prompt-sha 30694771b497 · prose-sha c9f460e100d7 · 2026-10-11*
+
+REACTION
+
+Okay. Okay. I have been paying for this woman since the composites and the book finally let me watch her collect, and it did it in a borrowed skirt in front of a boy named Harrison who doesn't matter, which is exactly right, because the boy is the excuse and the excuse is the whole point of her. "Let's put on a show." She needed a reason that wasn't the reason. She's needed one since Gstaad.
+
+But back up, because the chapter paid me before the kiss. "I chose." "I can see." I actually said *oh* out loud at the coffee table. Brooke told her to choose and she hasn't, for ten chapters she hasn't, and tonight she walks a girl into Brooke's own party in Brooke's own house and says it in two words in front of the president and Vee hears "as my date" and knocks her shoulder into her like a kid. Brooke heard the real sentence. Vee heard the folded one. Same two words. That's this book — I've stopped being annoyed that it does that and started being scared of how well it does it.
+
+And the bracelet. "The bracelet is called Love." "Taking it off requires tools." I've been carrying that white gold since the sleigh — kept out of her mother's light, catching on the heel of her hand at the end of John's arm — and she finally said its name and still didn't say whose, and Vee tucked it away with "the thousand glamorous things Randi knows," and I wanted to reach through the page. A Cartier Love is *screwed on*. Somebody has the screwdriver. I know who has the screwdriver. Nobody's said it and the chapter said it anyway.
+
+Chambord in a trash-can tub — "spend a fortune to have you think she didn't spend a dime" — and Vee can't taste the money and it takes Randi to tell her what she's holding. Yes. And Randi is not telling her what she's holding. Randi knew *right where* that skirt was on the rail. She had it down to three and needed Vee's "eyes." Pace baked bread while she slept; Randi runs forty-dollar liqueur through the punch of a whole evening and says it's for Harrison. They're the same person about this and that's the thing I'm not supposed to know yet and do.
+
+The kiss. Fine, the kiss. Randi doing nothing with the inch — holding her there a breath short and letting Vee feel herself not pull away — that's the hottest thing in the chapter and it's clothed and still, which is exactly the kind of chapter I keep telling people exists. Then the lips forming slowly, then the tongue as a *please*, and Vee's hand going up into the hair without asking her and not taking it back. Salt and lime and under it *her*. She finally has the taste she went looking for on her own lip. And then — Randi staggering, shaking her head, *blinking*, a beat behind — and the grin arriving like a coat going on. "I almost believed it." Reader, I threw the Kindle. That's the cruelest line in three books and I know why she said it: it's the hand over her own mouth in the empty foyer again, it's "words are the whole war," it's a girl who learned at her mother's table that you lose a thing by wanting it out loud. She kissed her for real and then handed her the bit so the question never has to get asked. Same trick as the heels. And it still worked on Vee, because Vee took it "because it was the only thing held out to her" — which is word for word what she did with "I missed you." Two people have now kissed this girl like they mean it and handed her something smaller to carry home, and she's got a drawer for that now and it's full.
+
+Small things I loved: Cassie's eyebrow at "tonight I'm Randi's date" — half an inch, held, said nothing. Cassie sees sizes. "Nobody tells me anything." The hem arithmetic and the thong and the green — she's been doing this since the laptop slide; it's hers, she *likes* it, and the chapter let her stand in the shame and feel it turn over without a speech about it. "Found out twice over." And the thing that scared me, honestly: Vee's "no version of the night in which she could ask." She stopped holding her hand out for the word from him. Now she's got a second thing she won't put her hand out for, and he's picking her up Sunday, and I don't know what her mouth is going to do at his door with lime still on it.
+
+What I'd text at 1 a.m.: Randi chose. Out loud. To Brooke. And then un-chose to Vee in the same breath, and Vee's body knows and her head got handed the receipt. Pace was in a white bed being told "she looks at you, too" six chapters ago, so this is the third game walking in in a strapless aqua, and the only person at the table who doesn't know what's in the punch is the one it was mixed for.
+
+GATE 70 — On Her Floor
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The kiss I've been paying for since the composites finally got paid, clothed and real and then snatched back with "I almost believed it," and Randi said "I chose" to Brooke's face with Vee standing right there not hearing it. Sunday is Pace's and she's got Randi's lime on her mouth and nobody's going to say a word about it, which is exactly how this book hurts. I'm already reading on.

@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch072 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha be90efe95687 · 2026-09-19*
+*capture-dag-v2-rich · gate ch072 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c14c8e832ee2 · 2026-10-11*
 
 REACTION:
 
-Oh, god. My stomach is in absolute knots.
+Oh, god. My chest actually hurts. The tension in this chapter was so thick I could barely breathe.
 
-The psychological tension in this chapter was so thick I could barely breathe through it. That is *exactly* how panic and desire work when you’re terrified of your own appetite: you try to swim laps to drown it, you get stuck inside your own sweater in the closet unable to figure out if you're dressing to be seen or dressing to hide, you count the seconds during a lecture while your skin is practically humming off your bones. Every single touch—the graze of Randi’s fingers over her pulse point for a damn wintergreen Lifesaver—felt like an electric shock.
+That opening paragraph—Vee spending all of Sunday riding Pace over and over again, using him like an anchor trying to drown out the storm inside her, "full of him and not, somehow, filled"—is absolute poetry and absolute heartbreak. She used him on Saturday night to erase Randi, she spent Sunday trying to cement herself to him, and the second she’s alone on Monday night with her hand pinned to her stomach like a pot lid holding down boiling water, it’s all right back there.
 
-And then that word: *Having.* Randi just drops it so casually—*"Having you at the dance was so great. I've wanted to do that for the longest time"*—and Vee is totally pinned by it. Because Randi *does* want to have her. And Vee *wants* to be had. She’s trying so desperately to cling to the safety of Pace, but she couldn't even use him on Sunday to put the fire out. She’s waking up with her nipples aching against her nightshirt, holding her hand flat on her stomach like a lid on a boiling pot, terrified of what she’ll do if she touches herself. The shame is right there, side by side with this massive, beautiful, terrifying hunger.
+And then the classroom. Dr. Marsh talking about gifts as *debts* you lay on someone whether they want it or not? Holy hell. The thematic knife-twist! Because what has Randi been doing this whole entire book? Buying the dinners, gifting the skirt, paying for the wax, taking her plus-one, laying debt after debt of intimacy on Vee until Vee is drowning in obligation and hunger.
 
-And Randi kissing the side of her neck! *“See? How do you like it?”* She knows. Randi completely knows what she’s doing, turning Vee's own innocent little affectionate gesture back on her like a live wire. And what does Vee do when her body is ringing and she's panicking? She immediately bargains for *more.* *"Brunch. Let's have brunch this weekend."* It's an addiction. She can't help reaching toward the stove even while she's blowing on the burn.
+When Randi casually said, *"Having you at the dance was so great. I've wanted to do that for the longest time,"* I felt the ice drop straight into my stomach right along with Vee. That word: *having.* In Pace's bed, Vee could pretend it was just dirty talk, erotic play, a game where Pace takes up all the space. But here, under the fluorescent lights of an anthropology hall, it’s real. Randi isn't playing a game of dress-up. Randi wants to *possess* her.
 
-And then—thank God for Cassie. Cassie sitting on that lower bunk with the cold still coming off her coat, seeing straight through the wreckage on Vee's face, and asking the only question that matters: *"What was that with you and Randi?"* No cover stories left. No doll-sized shrunken sweaters. Just the naked truth of a best friend who loves her and is watching the train leave the tracks. I need chapter 70 immediately.
+And Randi's mouth on her neck outside the dorm! *"See? How do you like it?"* The absolute audacity of this woman. She plays it off as retaliation for Vee's kiss in the alley, keeps it wrapped in giggles and sorority-girl teasing, while systematically setting Vee on fire. And look at Vee’s response! She tries to pull back, tries to dodge the kiss on the mouth, and the second Randi bites her neck, Vee caves completely and *asks for brunch on Saturday.* She literally scheduled the next hit of the drug because she can't bear the withdrawal!
 
-***
+Wait. *Saturday.* Oh god, Saturday is the day Pace and Sheri are going to the dance hall! How is Vee juggling Saturday brunch with Randi and Saturday night with Pace and Sheri?!
 
-GATE 69 — Coming Due
+And then that final beat: Cassie. Cassie sitting on the bunk in her coat, having seen or heard something from the window, hitting her with: *"What was that with you and Randi?"* Cassie is the only sane, grounded tether Vee has left to reality, and Vee doesn't have an excuse left in her arsenal. The walls are closing in so fast. I need the next chapter right this second.
+
+GATE 72 — Coming Due
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 1
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological claustrophobia was suffocatingly real—Vee trying to hold a lid on her own desire while Randi methodically dismantles her defenses. And Cassie dropping that direct question at the very end is the exact grounded intervention this whole runaway train desperately needs.
+WHY: The psychological claustrophobia was masterclass. Watching Vee try to outrun her own awakening, only to have Randi corner her outside the dorm and Cassie corner her inside, has me completely hooked for the fallout.

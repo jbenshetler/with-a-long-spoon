@@ -1,243 +1,191 @@
-*capture-dag-v2-rich · carry-forward ck-ch060 · gpt-5.5 · romance-graduate · prompt-sha 9f29a94a7098 · 2026-09-11*
+*capture-dag-v2-rich · carry-forward ck-ch060 · gpt-5.5 · romance-graduate · prompt-sha b3c0511c266a · 2026-10-11*
 
 WHO'S WHO
 
-Vee is back with Pace and glowing, but not simple-glowing. She has gotten the public word “boyfriend” from him, watched him make a room for her people, and let herself believe the private kingdom can open outward without losing its heat. She is also now alone with a new edge of herself: the wet kiss, her own taste, her own mess, the fact that her body keeps answering before her mind agrees. Randi is no longer only someone she tells things to. Randi is becoming a voice inside her.
+Vee is back inside herself and also absolutely not seeing herself clearly where Randi is concerned. She got Pace back by choosing her body on purpose, and that changed something in her. She is braver, funnier, more public with her own heat. But she is still covering: calling the restroom orgasm about Pace when Randi’s face was right there behind her eyes, deciding she’ll tell Randi “Thursday” about the mouth-after thing, pretending the relief at not telling it yet means nothing.
 
-Pace has finally spent a public word on Vee. “Vee’s boyfriend,” over and over, in front of everyone. Not “love,” still, but real currency. He is astonishingly good with her people: he listens, remembers, sets them up to be more themselves. He also has a whole active sexual/intimate life with Randi that Vee does not know about, and I cannot un-know it now. He loves Vee. I believe that. I also believe he is inside the lie.
+Pace is cracked open more than he was, though still not all the way verbally. Sheri named him exactly: if he can’t say it, then not saying it matters more than having Vee. And then he privately admitted the truth: he loves Vee, knows he loves her, and hurt her because he was afraid she could destroy him like Daphne did. He apologized, said he missed her, fed her, took her back with his whole body. Still no “I love you.” I noticed.
 
-Randi is in love with Vee. There is no more polite wiggle room. She wants Vee to know what she does to her. She is tender and funny and razor-exact with Vee’s shame, and she is also sleeping with Pace and talking about Vee while doing it. She can make Vee braver, but she is doing it from behind a curtain. The scariest part is how real her feeling is.
+Randi is heartbreakingly legible now and therefore more dangerous. Her Gstaad fairytale with John showed the acceptable life at its best and proved it cannot touch her. Vee can. Randi wants Vee, not just “for us.” She knows saying it plainly would force Vee to choose, so she has decided not to say it that way. She is giving Vee tools, scripts, shoes, cover stories, permission. Some of it is love. Some of it is control.
 
-Cassie is back as the clean-air friend. She clocks Vee’s nonsense about the “shrunk sweater,” laughs, lets her have privacy, and then gives Pace the dry official blessing: “You can stay.” She matters because she is not bewitched by the glamour machine. She has eyes.
+Cassie remains my anchor and my joy. She clocks things without making Vee strip the story bare. “Hmm” at the coat/sweats/Randi’s heels outfit was perfect. She lets Vee keep privacy and still be known. Her mother thanking Vee for the card quietly mattered a lot.
 
-Kayla is chaos with a pure heart and no off switch. She turned Vee’s secret-coat hallway mortification into comedy and made the friend world feel bright and breathable. Also, she is going to be unbearable about Pace forever.
+Sheri is a blessing. She is Pace’s friend who is not dazzled by him and can say, with a burger in hand, that his reasons are bullshit. She is estranged from family, got hurt by Paige over that, and understands grief and distance. She also clocked Randi as the brunette and saw the “harem applicant” look.
 
-Meg is steadier than I first gave her credit for. Her “make it right in their language” thing stuck. She understands gestures without over-romanticizing them.
+Brooke sees Randi too clearly for comfort. She is warm but not fooled. She basically told Randi: play privately if you want, but not with your position in the house and this girl both. “You need to choose.” Good.
 
-Theo is the old maybe-boy from English class, nervous at first, unlocked by Pace asking him where jazz starts “for you.” He feels harmless so far, useful mostly as proof Pace is not doing jealous chest-beating.
+Kayla and Meg are now more vivid in Vee’s living world. Kayla is chaos with curls, waffles, laundry, and no indoor voice. Meg is dry and steady, with Danny and maple bacon as her version of repair. Theo is maybe coming to dinner, mostly as a harmless old ask-out and a useful social ingredient.
 
-Dr. Marsh is basically teaching Vee’s life by accident or by authorial witchcraft: gifts that bind, grooming as social politics, touch replacing whole vocabularies. Vee is taking anthropology and not noticing she is the lab specimen.
+Dr. Marsh is the anthropology professor, all hiking gear and sharp brain, who opened with Mauss and gifts carrying the giver’s spirit. That is not decoration. That is the whole book tapping the glass.
 
-Daphne is not in these chapters except as the old reason Pace still cannot say the word. Her ghost is quieter right now, but the debt remains.
+John is the perfect fairytale man in Gstaad: skier, dancer, white tie, sleigh, sexually competent, socially approved, and completely unable to find Randi underneath.
 
-John is absent and fading into Randi’s proof that the approved life cannot touch her.
+Daphne is Pace’s original wound: tutor, best friend, first lover, first love, the only woman he told he loved. She left, and he taught himself the words were what made loss unsurvivable.
 
 WHERE THINGS STAND
 
-Vee did the coat plan. She got ready naked except Randi’s black heels, wound herself up in the mirror, denied herself, ran into Kayla in the hall, drove to Pace bare under the good olive coat, nearly died when police lights appeared behind her, and arrived at his dark porch already soaked and terrified.
+Randi spent New Year’s in Gstaad with her parents and met John while skiing. They made a whole fake-married life on a lift, skied hard, went to a white-tie ball, danced, kissed at midnight, took a sleigh to his hotel, and slept together. It was perfect and meant nothing. The best acceptable man could not reach her. Pace on his worst night reaches further. Vee across a table reaches further.
 
-Pace opened the door in the awful formal voice. Vee said nothing and opened the coat. It worked. The wall came down. He took her in, went to his knees for her on the freezing porch, and they had frantic, graceless, gorgeous reunion sex with the door open and the coat flapping. Afterward he made her midnight pancakes, kissed her forehead, and said, “I missed you so much,” voice breaking. Still not “I love you.”
+Vee spent New Year’s in her childhood bedroom, cold and lonely, seeing that the room loved a girl who no longer lived in her. She texted Randi gently; Randi sent back the fairytale version. Vee spiraled over Pace’s silence and imagined Sheri as a blonde replacement, then couldn’t even keep her own best memory from being invaded by that imaginary woman.
 
-The morning after became naked paradise. Bread timed for her waking, sweats folded for her and refused, coffee in nothing but a scrunchie, “pleasure princess,” Pace coming home with mushrooms and losing his mind at the sight of her. She teased him into burning toast, then commanded him in the bedroom. He worshipped her slowly, toe by toe, wrist to breast to thigh, opened her like the blood orange, and then kissed her with her own wetness still on his mouth. She recoiled: “Ugh — gross. That’s — no. Wrong.” He stopped, read the no correctly, wiped his mouth, respected her mouth until she chose to kiss him again. Then she came from that kiss anyway.
+Pace met Sheri at their diner and got told the truth: say it or admit not saying matters more. He later drank alone, looked at pictures of Vee, thought of Daphne, admitted to himself he loves Vee, then broke down when a truck passed and wasn’t her.
 
-Vee and Pace planned the friend gathering because he said he wanted to meet her people. Importantly, he remembered Cassie, Meg’s boots, Kayla’s paint-off-a-wall talking, Theo, all of it. Vee remembered Chili’s and asked him to pick the place, trusting him to make a room that would work.
+Vee came back to campus wrecked and went straight to Randi. Randi held her, talked her down, dismantled the fake Sheri, reframed Pace’s silence, and gave her the coat-and-shoes plan: show up in nothing underneath. Vee kissed Randi under the composites afterward, not like nothing. Randi was undone. Brooke saw enough to warn her.
 
-Vee came back to the dorm and Cassie returned. Vee lied adorably about Pace shrinking her sweater to explain the clothes situation. Cassie saw it and let it be funny. Cassie’s mother thanked Vee for the card and wants to see her again, which hit Vee in a quiet family-hunger place.
+Vee did the plan. She dressed by undressing: no bra, no panties, just Randi’s black heels and the good olive coat. She touched herself in the mirror, stopped before coming, drove to Pace half-crazed with want, nearly panicked at police lights, and arrived marked inside the coat. She opened it on his porch without saying a word. Pace’s wall fell. They had urgent, explicit, half-outside reconciliation sex, then midnight pancakes, apology, and “I missed you so much.”
 
-Vee took Kayla and Meg to a fancy-ish breakfast after the dining hall was closed. She told them the cleaned-up version of the coat story, including the porch flash but not the drive. They toasted that it worked. She told them Pace wanted to meet everyone.
+Saturday morning Vee woke naked in his house with nothing to wear and loved it. Bread smell, sweats folded for her and rejected, shower, coffee, scrunchie, naked at the counter. Pace came home from the farmers market and malfunctioned over mushrooms. She made him burn toast by existing. Breakfast was mushrooms on toast, blood orange jewels, salted persimmon. Then she played princess and made him follow her to the bedroom.
 
-Anthropology class started with Randi: gift theory first, then grooming. Everything is about objects and touch carrying people back to each other. Vee and Randi have their post-class Italian dinners now, Tuesday/Thursday, red wine, corner loft booth, green-water jukebox. This is officially A Thing.
+The bedroom scene became a whole power exchange: Vee directing with points, Pace obeying and then outlasting her with patience. He went down on her forever, loved her wetness openly, brought her off hard, then came up and kissed her with her taste still on him. Her body wanted it before her shame slammed the door. She said gross/wrong; he stopped, respected the no, didn’t sulk, and waited. She came back to his mouth herself and came from kissing him. She told herself he must have forgotten to wipe, but the question is awake.
 
-Vee told Randi the full coat story, including the lining stain and police lights. Randi got visibly turned on. Vee later touched herself in the restaurant bathroom after Randi asked how much Pace could see, insisting to herself it was about Pace. Randi basically knew she had gotten “relief,” or let Vee think she meant Pace.
+Pace now wants to meet “her people.” Vee first thought Randi, naturally and dangerously, but Pace expanded it: Cassie, Meg, Kayla, Theo too. He remembered details from her life. He wants a room big enough for her world. He will handle the place.
 
-The Wednesday friend dinner happened at Pace’s chosen roadhouse. Buffet, pine, no screens, no one trapped at a table. Pace introduced himself to everyone as “Vee’s boyfriend,” repeatedly. He made Danny talk lifting, Theo talk jazz, Meg and Kayla tell their stories, Cassie talk Bricklayers and the roommate origin story. Cassie told him, “You can stay.”
+Vee told Cassie a cleaned-up ridiculous version involving Pace shrinking a sweater, and Cassie let her have it. Then Vee told Kayla and Meg enough of the porch story over fancy breakfast, and they celebrated it as legendary.
 
-After the dinner, Vee saw Pace and Randi laughing and felt one small jealous sting, then dismissed it. Randi toasted Vee as the highlight of her year. Vee and Randi kissed goodbye in the parking lot like usual, and Pace probably saw. Vee wondered what it looked like, then went and kissed Pace hard, dragged his hands under her sweater, blew him in the truck, then had him touch her on the county road while he drove. The old coat-drive danger echoed, but this time his hand was there.
+Anthro class started. Randi wore the green-and-gold scarf. Dr. Marsh talked about gifts and hau: the spirit of the giver inside objects, the pull back toward the giver. Afterward Vee and Randi had dinner in the loft of the Italian place, and Vee told the real version of the coat night, including the shoes, the drive, the lining, the porch, the breakfast, the pleasure princess thing. Randi’s eyes went dark. Vee got so worked up telling it that she went to the restroom and made herself come with Randi’s face/question in her head. Randi almost seemed to know, then covered it as Pace taking care of her.
 
-At Thursday dinner, Vee finally told Randi about the kiss-after-oral moment. She expected Randi to agree it was gross. Randi did not. Randi said she had done it, liked it, found it powerful. Vee’s body immediately betrayed interest. Randi asked only, “How does he act?” Vee said Pace likes it, actually he is enthusiastic. That sentence followed her home.
-
-Alone in the dorm after that, Vee closed Cassie’s window, wore Pace’s flannel open, touched herself thinking about Pace’s wet mouth and Randi’s calm permission. She nearly tasted herself from her fingers and could not close the last breath of distance. She came anyway, opened the window to air out the room before Cassie returned, then chose to lie over the damp spot she’d left. Mouth still empty.
-
-Then the book opened the locked room: Pace and Randi are lovers. Present tense. Randi is fully comfortable tasting herself from Pace’s mouth, even licking the evidence from him after sex and bringing the taste of both of them back to his mouth. During sex they talk about Vee. Pace says Vee kisses him first now and looks at Randi. Randi says Vee kissed her neck again and she nearly turned around. Randi wants Vee’s breast in her hand and nipple in her mouth. Pace likes hearing Randi want Vee because Vee makes him happy. Randi says she wants Vee to know exactly what Vee does to her. Then Randi says Vee is not the only one in love. Pace cannot deny it.
+Tomorrow is the big dinner: Pace meeting Randi, Cassie, Kayla, Meg, maybe Theo. The table is being set.
 
 HOW I FEEL ABOUT EACH OF THEM
 
-Vee: I am so proud of her and so scared for her. She is getting braver in her body by the chapter, and not in a fake empowerment montage way. She is messy, ashamed, hungry, funny, proud, still stopping one breath short. I love her. I also want to shake her gently because Randi is now living in her head rent-free and Pace is not telling her the room exists.
+Vee: I’m proud of her and yelling at her. She has become so alive, so funny and bold and hungry, and I love watching her use the body she spent years apologizing for. But she is lying to herself about Randi with both hands. The “obviously about Pace” restroom moment was transparent enough to fog glass.
 
-Pace: I am more in love with him and more angry at him. Public “boyfriend” mattered. The roadhouse mattered. The no-respected mouth moment mattered. He is a grown man in all the ways I crave on the page. But he is actively betraying Vee by omission, and “I love you” is still unpaid. His tenderness does not erase the lie; it makes the lie worse.
+Pace: back in my heart, still on probation. The self-knowledge about Daphne matters. The apology matters. The way he handled her no during the kiss matters a lot. He is not cruel. But he still has not said the word, and I refuse to let pancakes and oral genius erase that debt.
 
-Randi: I believe she loves Vee, and that is the most dangerous possible version of her. I am furious at her and fascinated by her. She is helping Vee cross doors Vee wants crossed, but she knows too much, wants too much, and is sleeping with the man in the center of Vee’s life. Her softness is not innocence. Her “I don’t” may be the most destabilizing thing she has said yet.
+Randi: dangerous beloved disaster. I understand her more than I want to. Her mother’s underwear humiliation explains the polish, the performance, the way she turns shame into theater before it can be done to her. But she is still choosing cover. She is still arranging Vee’s choices from behind the curtain.
 
-Cassie: trusted. Dry, exact, humane. Her “You can stay” was huge. I need her near the eventual explosion because she will not be fooled by pretty framing.
+Cassie: perfect. Dry, tender, exact. I trust her more than anyone.
 
-Kayla: delight. Loud but clean. The kind of friend who turns shame into a story without making it smaller.
+Sheri: I trust her bluntness. She is maybe the only person who can call Pace on his nonsense without wanting something from him.
 
-Meg: I like her. She has quiet emotional sense and good timing.
+Brooke: I trust her perception, not necessarily her sorority-world priorities, but she is right that Randi cannot keep hiding behind “play.”
 
-Theo: neutral-warm. Nice to see Pace not threatened. Might matter socially, probably not erotically.
+Pace and Randi together: still ethically radioactive. They both want Vee. They both know more than she does. The tenderness does not cancel the concealed arrangement.
 
-Dr. Marsh: I am obsessed with how her lectures keep giving the book vocabulary without Vee understanding the footnotes are about her. Gifts, grooming, tasting, obligation, social touch. Ma’am, please continue.
-
-Pace and Randi together: hot, awful, magnetic. I hate that I was turned on because the betrayal is not outside the heat. It is braided into it. That is why I cannot put the book down.
+John: useful as a contrast. Not a villain, which is worse. A whole glittering life Randi could survive by disappearing into.
 
 WHAT I'M CARRYING
 
-The underwear drawer shutting on every neat row of things “not invited.”
+Randi inventing boys at breakfast because fake men are safer.
 
-Randi’s black heels: last thing, only thing.
+John skiing better than Randi and not proving it.
 
-Vee in the mirror, naked in heels, letting “stripper’s body” be said and not apologizing.
+Pace’s lead asking Randi to be awake; John’s lead letting her sleep.
 
-Kayla talking about laundry while Vee is bare under the church coat.
+The pale metallic blue dress, “the year I met your father,” and the story collapsing in the hotel room.
 
-Blue and red lights inside the car.
+Randi’s lipstick left on John while nothing happened to her eyes.
 
-The dark bloom on the coat lining.
+“Vee was her gorgeous.”
 
-Pace’s formal door voice: “It’s late. Is everything alright?”
+Vee’s childhood room loving Vivienne in high resolution and not knowing the woman in the bed.
 
-Vee opening the coat instead of arguing.
+The cropped induction photo: same picture, divided by Vee herself.
 
-Pace looking like a starving man told he is forgiven.
+The imagined blonde stealing Vee’s own fra diavolo memory.
 
-His mouth on her on the freezing porch.
+Sheri: “Then not saying it matters more to you than having her.”
 
-The door banging open in the wind while they cannot make it to the bed.
+Pace crying when the truck was not Vee.
 
-Midnight pancakes, butter going glassy.
+Randi pushing Vee’s knee sideways: “I don’t bite.”
 
-“I missed you so much,” voice cracking, on one knee by her chair.
+The black shoes handed over like destiny.
+
+Vee kissing Randi under the composites.
+
+Brooke: “You need to choose.”
+
+The underwear drawer shutting on everything not invited.
+
+The police lights and “caught.”
+
+The coat lining marked with proof.
+
+Pace’s face when the coat opened: starving and forgiven.
+
+The open door banging while they were too gone to shut it.
+
+Midnight pancakes, his knee by her chair, “I missed you so much.”
+
+Cassie’s “Hmm.”
+
+Bread smell in the empty house.
 
 “I got mushrooms.”
 
-The blood oranges peeled down to jewels, nothing white left.
+Pleasure princess.
 
-Vee becoming a pleasure princess in the hallway.
+Burnt toast because she existed.
 
-The toast burning because she existed.
+Blood orange segments like jewels; salted persimmon waking up.
 
-“Missed a spot.”
+His mouth can wait for her.
 
-Her breast brushing his cheek.
+Pace remembering Meg’s boots and Kayla talking paint off walls.
 
-The finger wag. His puzzled face.
+Pace: “Let me handle it.”
 
-The wrist kiss that stayed.
+Cassie laughing at the fake shrunken sweater.
 
-“He opened me like the orange.”
-
-The wet kiss. Her body saying yes before her mouth says wrong.
-
-Pace stopping completely to understand which no was which.
-
-“Okay.”
-
-Cassie: “Pace. Shrank your sweater.”
-
-Cassie’s mother saying thank you for the card.
-
-The holiday-hours paper betraying Kayla’s waffle dreams.
+Kayla mourning waffles like tragedy.
 
 “I flashed him on his front porch.”
 
-Meg’s maple bacon and Matrix apology language.
+Mauss, hau, gifts wanting to go home.
 
-“I want to meet your people.”
+Randi’s mother setting laundered blue underwear beside her plate.
 
-“Bring Cassie, too.”
+Vee showing Randi the stained coat lining.
 
-“Let me handle it.”
+“How much could he see?”
 
-The roadhouse: pine, buffet, no screens, VEE on butcher paper.
+Vee in the restroom, Randi’s face in her head, insisting it was Pace.
 
-“Vee’s boyfriend.” Again and again and again.
-
-Cassie telling Pace, “You can stay.”
-
-Randi: “Meeting Vee was the highlight of my year.”
-
-The parking lot kiss after Randi leaves, and Vee wondering what Pace thinks of the girls-being-girls kiss.
-
-Vee taking Pace in her mouth in the dark truck because public boyfriend lit her up.
-
-His hand in her hair going still.
-
-The county road echo: his hand between her legs while he drives.
-
-Dr. Marsh’s gift with hau wanting to go home.
-
-The lice comb traveling hand to hand.
-
-The Lifesaver passed into Randi’s palm without looking.
-
-Randi: “Don’t you fade to firelight.”
-
-Randi: “I don’t.”
-
-“It was powerful. It turned me on.”
-
-Vee walking home with “He likes it. Actually — he’s enthusiastic.”
-
-The shut dorm window. The hothouse smell.
-
-Vee one breath from tasting her own fingers and unable to do it.
-
-Her choosing to lie over the damp patch.
-
-Chapter 60 opening with Randi already coming against Pace’s mouth.
-
-Randi taking herself from his mouth without hesitation.
-
-“Now it’s mutual.”
-
-“She kisses me first now.”
-
-“She looks at you, too.”
-
-“She kissed my neck again.”
-
-“I wanted to turn around.”
-
-“Her breast in my hand.”
-
-“I want her to know exactly what she does to me.”
-
-“She’s not the only one in love.”
-
-The combined wetness spilling over Pace and Randi laughing: “Subtle.” “Elegant.”
-
-Randi cleaning him, then bringing both of them back to his mouth.
+Randi: “It’s a date.”
 
 WHAT I'M WAITING FOR
 
-Vee finding out. Not if. When. The reader now knows too much for delay to feel harmless. I need the door to the locked room to open and I am terrified of what it will do to her.
+The dinner. I need Pace and Randi properly across from each other with Vee watching and not knowing the real current under the table. Cassie there makes it even sharper.
 
-Pace saying “I love you” to Vee before the reveal, or failing to. The timing is now everything. If he says it after she discovers Pace/Randi, it may feel like a bandage. If he says it before, it becomes another thing he made true inside a lie.
+Pace saying “I love you.” He knows it now. I know he knows it. The book knows I know. Pay the debt, sir.
 
-Randi and Vee crossing the line consciously. The neck kisses are already a pattern. Randi nearly turned around. Vee is playing under the “ticklish” cover. This cannot stay cute forever.
+Vee telling Randi about the after-oral kiss, if she can. I suspect this will matter enormously because Randi will know exactly what door that opens.
 
-Vee tasting herself, probably not alone. The reach is unfinished, and chapter 60 made it feel inevitable that Randi’s ease is going to haunt her until the last inch closes.
+Randi making a choice, or failing to. Brooke’s warning cannot just evaporate.
 
-Cassie noticing the actual shape of things. She has already approved Pace. What happens when her goalkeeper eyes turn on Randi?
+The reveal that Pace and Randi chose Vee together. Every tender scene makes the eventual betrayal feel bigger.
 
-The next Randi/Pace/Vee triangle in the same room. After chapter 60, every public scene with them will be radioactive.
+Whether Vee’s attraction to Randi becomes undeniable to Vee herself before or after the reveal.
 
-Whether Randi’s love makes her brave enough to tell Vee the truth or selfish enough to keep engineering Vee’s discoveries from the shadows.
+What Pace will do when Randi and Vee’s charge is visible in his actual kitchen/table/world instead of safely reported afterward.
 
-More on the original plan. I know the emotional present now, but not the mechanics: when did Pace and Randi choose Vee, how explicit was the game, what were the rules, and who has already broken them?
+Whether Cassie sees the triangle. She will see something. She always does.
 
-Whether Vee will understand that “every yes was freely given” and still feel stolen from. Because both can be true. That is the problem.
+The anthropology gift theme paying off: scarf, shoes, coat, blanket, food, photographs, dresses. Who has given what, and what wants to go home?
+
+Sheri at the larger table someday, please. I want her blunt little match near this powder keg.
+
+Daphne details, still. Pace opened that door in his head but not to Vee.
+
+Whether Vee can stop cropping herself for each audience, or whether the dinner forces all the versions into one room.
 
 WHAT'S FADING
 
-Exact food details at the Thursday Italian place are already blurring: dark braise, polenta, fennel thing maybe, clean plate. The emotional meal mattered more than the actual special.
+Exact chapter order around the post-reunion weekend is already soft: porch, pancakes, Saturday breakfast, bedroom, dorm return, friends breakfast, class/dinner. I have the emotional sequence, not the calendar precision.
 
-Some of the chapter order around Tuesday dinner / Wednesday roadhouse / Thursday dinner is clear enough, but the precise class-restaurant sequence may blur: gift lecture Tuesday, grooming lecture Thursday, I think.
+The food details blur except the ones with symbolic teeth: midnight pancakes, mushrooms on toast, blood oranges, salted persimmons, burnt toast.
 
-Theo’s specifics are faint except jazz and old English-class almost-date.
+John’s whole Gstaad courtship is more impression than detail now: lift wife game, skiing, blue dress, white-tie ball, sleigh, hotel emptiness.
 
-Meg and Danny’s details are fading besides maple bacon, Matrix, lifting talk, and Meg’s steadiness.
+Sheri’s Paige story is fading at the edges. What matters: Paige wanted Sheri to reconcile with family, Sheri couldn’t, and Sheri knows what loss costs.
 
-Kayla’s sister-wedding story is referenced but I don’t actually remember the story itself, only that Kayla told it and Pace remembered enough to ask.
+The exact mechanics of the bedroom scene after breakfast are a haze of wrist, arm, breasts, feet, thighs, mouth, kiss. What matters: Vee directed, Pace obeyed and outwaited, he liked her wetness, she recoiled then returned.
 
-Dr. Marsh’s exact examples are partly fading, but I have gifts/hau, grandmother sweater, wedding ring, lice comb, grooming, cleaner fish.
+Kayla/Meg breakfast specifics are mostly vibe: waffles denied, fancy sun porch, Vee’s porch story becomes friend lore, dinner invite lands.
 
-The exact music cues are soft: slow sad horn at Pace’s house, Stevie Nicks “Sara” in the kitchen, accordion/violin/jukebox at the Italian place, steel guitar at the roadhouse.
+Dr. Marsh’s lecture specifics beyond Mauss/hau may fade, but the core stays: gifts are inhabited and not free.
 
-I do not remember all the friend dinner seating/orbit details, only the emotional architecture: buffet, movement, no screens, everyone becoming more themselves.
+Randi’s underwear story I remember vividly, but the shore-boy details may blur. Keep: lawn boy on one knee, parents’ bed, robin’s-egg blue underwear, mother waiting to humiliate her in front of him.
 
-Daphne is still almost entirely emotional outline, not event.
-
-John is now basically background function: wrong life, wrong intimacy.
-
-The exact words Randi used in chapter 60 around being in love may blur, but not the substance: she named love, Pace did not deny it.
+The exact restaurant layout from Randi/Vee dinner is soft except loft, green-lit jukebox, closing chairs, and the restroom downstairs.

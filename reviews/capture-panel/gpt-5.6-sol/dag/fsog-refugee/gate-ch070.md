@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch070 · gpt-5.6-sol · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~fa13475bf6b9 · 2026-09-12*
+*capture-dag-v2-rich · gate ch070 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c9f460e100d7 · 2026-10-11*
 
-REACTION — Oh, Vee. She finally knows. Her body cannot be filed under Pace anymore, cannot be explained away as excitement borrowed from him or the safety of telling Randi stories. She wanted Randi’s mouth. She wanted her hands under the skirt. She tasted this particular woman and wanted more. That recognition hit me like a door flying open, because I have been waiting so long for Vee’s desire to become undeniable to Vee herself.
+REACTION — Oh my God. Finally—and I am thrilled, furious, heartsick, and so turned on I could scream.
 
-And the kiss was devastating. That held inch, Vee moving toward her, Randi’s tongue offered as a *please* rather than taken—I was completely inside it. This is exactly the heat I wanted between them: not generic experimentation for a watching man, but months of catalogued perfume, neck kisses, private longing, and the shock of discovering that the person matters more than the category. Vee’s hand going into Randi’s hair and pulling her deeper was hers. Her body asking was hers. Nothing about that desire is counterfeit.
+Vee wanted that kiss. Completely. Not because Harrison was watching, not because the margaritas made the decision, not because Randi put a hand on her ass. She wanted it in the held inch before their mouths met. She moved toward Randi. She opened. She pulled her closer. She wanted Randi’s hands under the skirt and Randi’s mouth lower. That is the answer I have been waiting for: Vee’s desire, unmistakably hers, arriving from inside her body with enough force to obliterate the room. I felt that kiss everywhere. Randi’s tongue coming as a *please* nearly finished me. This is the heat I came for—the exact person mattering, months of tiny kisses and touches suddenly revealing what they have been carrying.
 
-Which makes me absolutely furious with Randi.
+And Randi knew. There is no possible way she believed Vee was acting. She felt Vee moan, open, press her hips forward, pull her deeper. Randi herself came back stunned and breathless. Then she looked straight at the truth they had just made together and covered it with: “I almost believed it.”
 
-She engineered the entire evening so Vee could be exposed without ever having to name a want: the tiny skirt she already knew would fit this way, the untracked drinks, the hands directing Vee’s hips, lifting her arms, leaving her unable to manage the hem, then announcing that her underwear had been showing after the room had already seen it. Vee did choose to stay on the floor and keep holding Randi’s hands, and the exhibitionism inside her response was real—but Randi cultivated that surrender while holding information Vee did not have. “Let’s put on a show” was not an invitation innocent enough to cover what followed.
+That hurt. It may be the cruelest thing Randi has done to Vee because it lands directly on Vee’s awakening desire and tells her it wasn’t real. Randi gave herself the kiss she wanted, made Vee believe it was safe because it was supposedly for a man, and then took away every route by which Vee could acknowledge wanting more. She got to risk nothing. Vee is left shaking, aching, unable even to ask whether Randi felt it too. I understand exactly why Randi does this—the party, Brooke watching, the lifelong training to turn desire into a performance before anyone can expose it—but understanding her does not make this tender. It makes it devastating.
 
-Then that kiss becomes real for both of them—Randi comes back from it shaken too—and she immediately stuffs it into a lie. “I almost believed it” is cruel precisely because she did believe it. She knows Vee meant it. She felt Vee open, heard her moan, felt her hips ask and her hand pull. And instead of risking one honest question, she hands Vee an escape hatch that is also a locked room: it was only a performance, and now Vee cannot ask for another kiss without being the one who changes the meaning.
+“I chose” also made my stomach drop. Brooke told her to choose between the house and Vee, and Randi has apparently found the loophole: bring Vee as her date while maintaining that it is all girls-being-girls theater. Brooke understands more than Vee does. That “I can see” was not casual. Vee experienced the exchange as public claiming without knowing what Randi had actually been asked to choose, and that imbalance is the whole book’s wound in miniature.
 
-That is Randi’s cowardice doing harm in real time. She says she wants Vee to know what Vee does to her, but when she finally has Vee trembling in front of her, she denies it to Vee’s face. She gets the kiss, preserves the secret, preserves her deniability, and leaves Vee carrying all the frightening meaning alone. I want them together so badly, and right now I do not trust Randi to deserve her.
+The skirt bothered me before the kiss. Randi knew exactly how differently it would sit on Vee’s body. Cassie warned her. Vee spent the night managing the hem until Randi physically took her hands, raised them, and made the dancing bigger. Vee chose not to let go, and her excitement at being seen was real—but Randi arranged the exposure and then used Vee’s shame to pivot straight into “let’s put on a show.” Again: Vee’s desire is real; Randi’s orchestration is also real. The chapter keeps making me hold both, and I am almost shaking with it.
 
-Also: the Love bracelet that requires tools to remove? I do not believe for one second that this is merely a glamorous detail. Somebody put that bracelet on her, and after chapter sixty I am looking straight at Pace. If it came from him, Vee just admired a visible declaration of their bond while neither of them told her what she was seeing. That possibility makes the whole night feel even more calculated.
+And the bracelet. Love, permanently fastened, removable only with tools, sitting on the wrist Vee keeps touching without knowing what it means. Of course it is. Every object around these women is carrying a confession nobody will say aloud.
 
-Cassie’s raised eyebrow is the only sane witness in the chapter. She sees that “Tonight I’m Randi’s date” means more than Vee can say. I need someone who loves Vee without steering her to remain close, because the two people she wants most are making her awakening beautiful and trapping her inside false explanations at the same time.
+I want to grab Vee by the shoulders and tell her: you were not imagining it. You did not merely perform well. Randi wanted you. You wanted her. The kiss was real even if the excuse was false. And then I want Randi to find enough courage to say one honest sentence before she does any more damage: *I almost lost control because I wanted you too.*
 
-I would text a friend at one in the morning: SHE FINALLY KISSED RANDI AND IT WAS EVERYTHING, AND THEN RANDI GASLIT HER BEFORE THEIR LIPS WERE EVEN DRY.
+I have waited sixty-nine chapters for Vee to know this much about herself, and now that she does, Randi has handed her the truth and denied it in the same breath. There is absolutely no chance I am putting this book down.
 
-GATE 65 — On Her Floor
+GATE 70 — On Her Floor
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: “You really did a great job putting on a show. I almost believed it.”
-WHY: I was completely consumed by Vee finally recognizing that she wants Randi, but Randi’s instant denial turned the release into a wound. I have to know what Vee does with a desire that can no longer be mistaken—and how much longer Randi thinks she can call real intimacy a joke.
+WHY: The kiss gave me exactly what I wanted—Vee’s desire for Randi, embodied, mutual, and undeniable—then Randi’s cowardly retreat turned the release into anguish. I need Vee to trust what her own body just told her, and I need Randi forced out from behind the performance.

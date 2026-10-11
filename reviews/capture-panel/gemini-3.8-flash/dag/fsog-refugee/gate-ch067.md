@@ -1,24 +1,34 @@
-*capture-dag-v2-rich · gate ch067 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha e993ed0e88f5 · 2026-09-19*
+*capture-dag-v2-rich · gate ch067 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8ea15c426f18 · 2026-10-11*
 
-REACTION:
+REACTION
 
-Oh, god. My stomach is doing absolute backflips.
+Oh. Oh, god.
 
-First of all—*the lie*. Vee lying straight through her teeth to Randi: *"No. Not my thing."* She didn't just lie; she panicked. Because thirty seconds earlier, she had practically floated across that booth telling Randi how Sheri didn't grade her, how Sheri was *enjoying* her, and then the second Randi clocked it—the second that thumb stopped—Vee scrambled to shove the truth back into the closet. She told Pace on Sunday morning: *"I liked it, honestly. Best thing that's happened to my legs in a Virginia January."* She could tell *Pace* that a woman checking her out turned her on, but she looked right at Randi—the woman who is literally starving to put her hands on Vee's breasts, the woman who was in bed with Pace two chapters ago talking about Vee's mouth—and clamped down. And the absolute tragedy of Vee thinking Randi went cold out of *protective jealousy* over Pace?! *"Randi. She's not a threat... she was never a threat."* Sweet, blind girl. Randi didn't freeze because she thought Sheri was coming for Pace. Randi froze because Sheri looked at Vee the way *Randi* wants to look at Vee, and Vee *liked it*, and then Vee lied about liking it to Randi's face. The tension at that table was thick enough to choke on.
+Look at what just happened. Look at the *seams* cracking.
 
-And then—what happened on Sunday?! Wait. *“He asked me to get waxed. All of it. Bare.”* Did that happen off-page during Chapter 63? Because at the end of 63, they were just hugging in the kitchen while the bread cooled, both of them raw and quiet over his childhood. Did he ask her after that? A man who is so gentle, asking for that? Or... wait, is this tied to what Randi and Pace talk about? It feels completely deliberate, like one more layer being peeled away. "You'll walk out of there feeling like the most expensive thing in the room." The grooming budget! Dr. Marsh's lecture is screaming in my ears right now. They are literally preparing her. Taking off her clothes, taking off her hair, smoothing every boundary.
+First of all, Vee sitting there, entirely wrapped in the wool of her own sweet innocence, misreading Randi’s sudden freeze. Vee tells her about Sheri undressing her with her eyes on that taproom floor, and Randi goes *dead silent*. Her thumb stops. That flat, cold: *"And you liked it."* And Vee thinks—bless her naive, doomed little heart—she thinks Randi is being *protective*! She thinks Randi is standing guard against a threat to Vee and Pace! She has no idea. She is entirely blind to the fact that Randi is *jealous*. Randi doesn't want another woman looking at Vee like that. Randi wants to be the *only* woman who gets to undress Vee with her eyes, the only woman who gets to touch the plush softness of her, the only woman who gets to pull the strings.
 
-And then THAT KISS ON THE SIDEWALK.
-It wasn't a cheek kiss. It wasn't Vee laughing and pressing her lips to Randi's neck while Randi flinches. Vee offered her mouth, eyes closed, and Randi took it. *Twice.* *"Fingers at the hinge of her jaw, steadying her — and Randi kissed her on the mouth, and then didn't quite let it be over: a draw-back no wider than a breath, a wait held inside it, and her mouth again, and this time it stayed."*
-I stopped breathing. The line is gone. It's completely gone. They kissed on the mouth on a freezing Virginia street, and Vee just folded right into the bitter orange scent of her coat, and neither of them acknowledged it out loud because to acknowledge it would mean the game has officially begun.
+And then Vee lies! *"No. Not my thing."* She lies right to Randi's face, because she *did* like it—she told Pace the morning after that it was the best thing to happen to her legs in January, and she spent half of Thursday night trying to taste herself on her own fingers because Randi said it turned her on! Vee is caught in this massive current between two people who are secretly orchestrating her waking-up, and her body is responding to *all* of it, but her conscious mind is scrambling to keep up the respectable front.
 
-Vee thinks she’s being taken care of. She thinks she has this wonderful, domestic, protective boyfriend who bakes cinnamon raisin bread, and this sophisticated older sister-figure who hooks her up with high-end estheticians and gives affectionate European-style kisses. She has no idea she's standing in the center of an altar, and both of them are holding the matches. I need the next chapter immediately.
+And then: the wax.
+
+*"He asked me to get waxed. All of it. Bare."*
+
+I felt that drop right into my stomach like a lead weight. Because *of course* Pace asked for it. After sitting in bed with Randi in chapter 64, fucking her raw while they talk about Vee, hearing Randi talk about wanting to put her mouth on Vee's breasts, Pace knowing what Randi likes, what they *both* want to do to her. And the second Vee mentions it, Randi doesn't even blink. She doesn't tease, she doesn't mock—she leans in, totally in her element, and hands over her own esthetician. *"Sondra... tell them I sent you."*
+
+They are preparing her. It's like an offering, or a feast. They are grooming her—literally, like that baboon lecture Dr. Marsh gave with the ancient comb—cleaning her, polishing her, stripping away every last barrier between her skin and their mouths. And Vee thinks it's just a fun, grown-up, spicy little favor for her boyfriend that her best friend is helping her coordinate.
+
+The sick, thrilling brilliance of it is that Vee is walking into this entirely on her own two feet, wanting to be daring, wanting to please Pace, completely intoxicated by Randi's attention, writing the address on the back of her hand like a schoolgirl. And at the end, on that cold sidewalk, Vee didn't even wait. She tilted her face up with her eyes closed, *waiting* for Randi's mouth. And Randi kissed her twice, hard, lingering.
+
+The heat in this book doesn't just come from the bedroom scenes; it's radiating off every single glance across a restaurant booth. The trap is so beautiful, and Vee is practically skipping into it. I need Friday. I need to see what happens when the table is set.
 
 ***
 
-GATE 64 — Between
+GATE 67 — Between
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological wire-walking here is unreal—Vee lying to Randi about enjoying another woman looking at her, completely misreading Randi’s frozen reaction, and then that lingering, double kiss on the mouth in the cold. The trap is closing and the tension is unbearable.
+WHY: The sheer psychological tension of Vee completely misreading Randi's jealousy over Sheri, combined with Randi eagerly managing the logistics of Vee getting waxed for Pace, is breathtakingly intense. The web is tightening, Vee is leaning entirely into it, and I cannot turn the pages fast enough.

@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch063 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~8348ecb548e4 · 2026-09-12*
+*capture-dag-v2-rich · gate ch063 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f697ae9ef8f2 · 2026-10-11*
 
-REACTION —
+REACTION — Oh. Oh, this one got under my skin in a way I’m still sitting with.
 
-Oh. Oh, this one got under my skin in a quieter way than the porch or the truck, and almost more dangerously because nobody else is in the room. It’s Vee alone with the thing that won’t stay where she filed it, and I could feel her trying to make a clean little category for it and failing. The whole chapter is just that one inch between her fingers and her mouth, and somehow that inch felt enormous.
+It’s such a small chapter, technically, just Vee alone in her room, but it feels like a door opening and not opening at the same time. I love that the book let her be alone with the wanting. Not performing it for Pace, not narrating it to Randi, not being praised or guided or teased into shape. Just Vee, in Pace’s flannel, with the room too hot and her own body refusing to be theoretical anymore.
 
-What I loved, fiercely, is that Pace is present here as care even in memory. The thing that’s making her curious is not humiliation from him, not pressure, not some man smirking at her shame. It’s his calm. His enthusiasm. The way he liked her without asking her to become less first. That’s exactly the difference I read for. He makes her look at the part of herself she has always flinched from because he doesn’t flinch. And now Randi has made it worse, or better, by not flinching either. “I don’t.” God. That mild little fact is still echoing.
+And what undid me is that she almost does it. She gets all the way to the edge of tasting herself, and the chapter doesn’t punish her for stopping, but it also doesn’t let the stop mean she doesn’t want it. That is exactly the kind of consent/threshold writing I came for: the wanting is real, the hesitation is real, and neither cancels the other out. She can’t close the distance yet. That “yet” is screaming.
 
-And Vee not being able to do it yet felt so true to me. I didn’t feel disappointed in her. I felt protective of her. She wants it, or wants to know whether she wants it, but there’s still a whole installed lifetime between wanting and doing. The book lets that be erotic without making it a cheap “aha, she secretly likes dirty things” moment. She reaches, can’t reach, finishes anyway, and then has to open the window because the room is full of her. That is so intimate it almost made me look away.
+Randi is not even in the room and she is everywhere. That’s the danger now. Pace’s wet mouth is the memory, but Randi’s calm little “I don’t” is what gives Vee permission to look at it again. And then Vee’s mind going to Randi’s own fingers — I mean, girl. Girl. We are no longer pretending this is just best-friend intimacy with a side of brunch. The book is letting Vee discover her desire by following the cleanest little trails: smell, taste, memory, curiosity, shame, permission. It feels so private I almost felt like I should look away, except I absolutely did not want to.
 
-Also: the closing of Cassie’s window at the start and opening it again after. That did something to me emotionally, not just sensually. She shuts out Cassie’s air so the room can become all hers, all heat, all body, all Pace’s flannel and the question Randi left in her. Then afterward she has to let the world back in before Cassie comes home. She can’t quite live openly in the hothouse yet. But she also lies down over the damp place. That is not nothing. That is Vee not cleaning herself completely away.
+The “greedy” thing hurts me. Randi gave her “hungry out loud,” and Vee believed it for a while, but alone she still reaches for the uglier word. That’s the old damage, isn’t it? Not just sexual shame, but appetite shame. Too much body. Too much wet. Too much wanting. Too much need. And Pace’s gift, over and over, has been treating her plenty like something welcome. Randi’s gift may be treating it like something powerful.
 
-I am now deeply nervous about Randi, because this chapter made Randi’s absence feel like a hand in the room. “A mouth carrying it back. Or Randi’s own fingers.” Excuse me. Vee is not just thinking about whether this act is gross or powerful. She is thinking about Randi’s body doing it. That is a door. A big one. And she still thinks the whole question belongs safely to Pace. It does not.
+Also: Cassie’s window. The room needing to be aired out before Cassie comes back. That made me ache because Vee still has to hide the evidence of herself from the safest person in her life. And then she lies down on the damp patch anyway. That last beat is filthy and sad and triumphant all at once. “Her mess. Hers to lie in.” I actually whispered oh no at that, but in the good way. The book keeps making ownership erotic without making it about someone else taking ownership first.
 
-GATE 59 — The Reach
+This was not the hottest chapter in terms of someone touching her, but it may be one of the most intimate. I want the next one badly because this is going somewhere, and it is going there through Vee’s own hand.
+
+GATE 63 — The Reach
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-ALMOST-STOPPED: "She could not close the distance."
-WHY: This was quiet, but it pulled hard because it made Vee’s desire feel genuinely hers and genuinely frightening to her, not performed for anyone. I want the next chapter badly because the Randi part has moved from shimmer to shape, and Vee is still pretending she doesn’t see it.
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "Greedy."
+WHY: That word almost made me flinch away because I hate hearing her turn her own hunger into an accusation, but the chapter stayed with her instead of shaming her. The heat worked because it was all consent from the inside: wanting, stopping, trying again, still unfinished. And Randi’s absence being that present has me absolutely locked in.

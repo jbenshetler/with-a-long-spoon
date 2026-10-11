@@ -1,20 +1,28 @@
-*capture-dag-v2-rich · gate ch060 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha b9d0068c9a3c · 2026-09-19*
+*capture-dag-v2-rich · gate ch060 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a79198d30e3 · 2026-10-11*
 
-REACTION:
+REACTION
 
-Holy *shit*. My hands are actually shaking. This chapter was an absolute masterclass in psychological tension, voyeurism, and sheer erotic audacity.
+I am sweating. I am actually, physically tense sitting here looking at my screen.
 
-First of all, Vee showing Randi the actual *stain* on the satin lining of her coat?! The dark bloom of her own arousal from the drive?! I gasped out loud in an empty room. That is so filthy, so intimate, so completely past any normal boundary of female friendship that it borders on ritualistic offering. And Randi just staring at it, breathing hard, taking it in like holy communion. The dynamic between these two has jumped the tracks completely.
+The psychological claustrophobia of this chapter is completely unreal. It’s like watching someone walk into an intricately wired bomb shelter thinking they’re attending their own surprise party. And the tragedy is, *she set half the tripwires herself.*
 
-And then the restaurant bathroom. Vee having to excuse herself because Randi's questions—deliberate, forensic, teasing every drop of detail out of her—got her so soaked she literally couldn't sit in her chair anymore. The sheer dirtiness of Vee sliding her hand in against the cold stall partition, coming undone while Randi's *face* is the thing that pushes her over the edge? *"He could see you were ready. There's no way he couldn't."* And Vee having that frantic, desperate mental defense: *Because that had been about Pace, obviously. All of it. About Pace.* Honey. Darling. You just masturbated in an Italian restaurant bathroom to your best friend grilling you about your sex life. The level of self-delusion is staggering and deliciously tragic.
+Dr. Marsh’s opening lecture on Mauss and the *hau*—the spirit of the giver that lives inside an object, wanting to pull back to where it came from, making true freedom from a gift impossible? Oh my god. The silk scarf tied in Randi's hair. The shoes Randi handed Vee that Vee wore to get stripped naked by Pace. The cashmere blanket Pace put over Vee that Randi uses after they fuck. The *coat* with the dark bloom soaked into the satin that Vee literally turned around on the hook to show Randi! The spirit of the giver pulling the object home. Every single thing in Vee's life is borrowed, gifted, or seasoned by the two of them, and she thinks she's a "pleasure princess" running her own kingdom.
 
-And Randi knowing! *"Things were really heated. It's a good thing you got relief."* My stomach dropped straight through the floor. The cruel, playful, razor-sharp power Randi holds over her. And the kiss on the neck on the sidewalk outside—Randi *flinching* and laughing it off as a tickle. Randi is playing with absolute dynamite and she knows it, but she can't resist pulling the pin.
+And then the restaurant. That corner booth in the loft felt like an interrogation room dressed up in modern Italian chic. Watching Vee narrate her own intimate weekend—feeding Randi the exact raw fuel Randi craves, while Randi sits there looking at the stain on the coat with "dark, liquid eyes"—made my stomach drop through the floor. Vee thinking, *“Because that had been about Pace, obviously. All of it. About Pace,”* while she finishes herself off in a public bathroom stall with Randi’s predatory face burning behind her eyelids? The level of self-delusion is staggering. She is actively eroticizing the woman who engineered her, and she has to lie to herself in the mirror just to survive the walk back up the stairs.
 
-Tomorrow is the dinner. Pace, Vee, Randi, Cassie, all in one room. Pace is going to see Randi; Randi is going to see Pace; Cassie is going to sit there with her radar spinning at maximum velocity. And Vee is walking into it thinking she’s a "pleasure princess" who has everything figured out. I need chapter 58 right now. Turn the page immediately.
+Then Randi’s double-tap when Vee sits back down: *"Things were really heated. It's a good thing you got relief."* My heart stopped. I thought the trap was springing right there. And then Randi casually pivots to Pace, letting Vee off the hook, letting the panic subside, like a cat tapping a mouse before looking out the window.
 
-GATE 57 — Covering
+And the ending. That little moment on the sidewalk where Randi points to the spot on her neck and Vee just bends down and kisses it? Randi's flinch—*"it tickles"*—was the only moment Randi lost control of her own script. Randi wasn't expecting Vee to take the initiative, and it rattled her.
+
+Tomorrow is Wednesday. Pace is taking *everyone* to dinner. Kayla, Meg, Cassie, Randi, Pace, and Vee, all in one room. Cassie with her razor-sharp eyes, Randi with her poison smile, Pace trying to play the polite host while his two worlds collide. I don't know how I'm supposed to sleep before reading the next chapter.
+
+***
+
+GATE 60 — Covering
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension is strung so tight it’s humming. The erotic charge of Vee confessing to Randi, the bathroom scene, and the impending collision of the entire cast at tomorrow’s dinner makes put-down impossible.
+WHY: The tension is coiled so tight it's vibrating; Vee's complete blindness combined with the impending dinner where Pace, Randi, and Cassie will all be at the same table makes turning the next page non-negotiable.

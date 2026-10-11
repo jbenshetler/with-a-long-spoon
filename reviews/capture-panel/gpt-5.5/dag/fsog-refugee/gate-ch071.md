@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch071 · gpt-5.5 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha ~00dbf427b44c · 2026-09-12*
+*capture-dag-v2-rich · gate ch071 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d556fe46d58e · 2026-10-11*
 
-REACTION —
+REACTION — Oh. Oh, Vee.
 
-Oh, this one got me in the ribs and lower than the ribs, and not in the same clean way the painted-fruit chapter did. This is the chapter where the whole beautiful consent machine starts making a different sound.
+This chapter hurt in exactly the place I’ve been bracing for. Not because she wants Randi. I am thrilled and terrified that she wants Randi. It’s hers, it’s real, it’s not a little party accident, and the book finally let her body say it without the friendship costume covering all of it. But watching her run to Pace to use him like proof, like a wall she could throw herself against until the other wanting stopped, made my stomach twist. That is not the same girl who came to him proud in the truck or stood for him painted and laughing. This was panic wearing heat.
 
-Because yes, God, Pace still does the thing I read for. He hears the false note in her body. He knows the difference between “my girl arrived needy” and “my girl is using me like a solvent.” That hit me hard. He does not shame her for it, does not puff up, does not turn cruel or injured. He asks. He waits. And then when she gives him the truth, he does something so perfectly Pace and so dangerous-Pace at once: he turns confession into sex, but with her absolutely alive inside it. He makes her say the real thing because her body wants the reward, and I was embarrassingly gone for that. That is the dominance I want, the kind with attention in it. He is not flattening her. He is making her unable to lie to herself without feeling the lie in her body.
+And Pace. God, Pace. This is why I keep reading him. He clocked it instantly. Not jealous-boyfriend, not wounded male pride, not punishment. He felt the wrongness in her and asked. And then he did the most dangerous, devastating thing he could have done: he made the truth erotic without making it unsafe. I know that sounds like a contradiction, but it wasn’t. He used the control between them to pull honesty out of her, and she wanted the rule. She leaned on it. She needed somebody else to hold the line because she couldn’t hold it herself.
 
-But also: oh, Vee. Baby. You are not telling him the truth because you are brave, not fully. You are telling him the parts that will let him hold you together, and hiding the parts that would make the truth change shape. That “No. Nothing.” was the coldest thing in the chapter for me. Not because I’m judging her, exactly. I understand it so much it hurts. She wants the rule to be: if I confess the big obvious act, then I am clean. But the body has receipts. The goodbye kisses. Her hand in the dark. The thought of Randi’s mouth on her new bareness. That is not nothing. That is the whole door.
+But I am also not letting him completely off the hook, because oh, the irony nearly bit through the page. He is making her confess Randi inch by inch while he and Randi have their own whole hidden history in the next room of the story. He asks, “Anything else you want to tell me?” and I wanted to throw something soft but meaningful. Sir. Sir. There is a skyscraper-sized “anything else” on your side of the bed.
 
-And the title, “Boyfriend,” is so cruelly exact. She keeps grabbing the word like a railing, and the word is real. Pace is her boyfriend. He is solid and warm and sexually devastating and good to her in all the ways that matter moment to moment. But “boyfriend” is also the word she is using to build a fence around something that has already climbed it. She wants him to make her straight again. She wants his body to crowd Randi out. And then after he does everything right, after he gives her the safest possible version of “I don’t mind,” she lies in his arms thinking about Tuesday. I could feel my stomach drop there. Not in a “stop this” way. In a “this is absolutely happening now” way.
+Still, when he asked if she wanted to sleep with a woman and didn’t say Randi, I could feel how merciful that was to her. He gave her a little room to approach herself sideways. And she still couldn’t. “I’m not gay” was such a young, scared, railing-grab of a line. I wanted to hug her and shake her. It’s not a courtroom, baby. You are allowed to want who you want. But she isn’t there yet, and the first lie to Pace landing cold inside her felt like a bell tolling.
 
-Pace saying “You keep saying her name, Vee. Not me” was devastating. Gentle, precise, no smugness. And the little flicker when she says he wants Randi. I noticed that. I noticed it hard. Because he knows so much more than she does, and for one second the secret structure moved under the blanket. He is telling the truth locally, maybe: this is not just his fantasy. She is saying Randi’s name because Randi is the fire. But he is not innocent standing there with matches in his pocket.
+The last page is the knife. She thinks she got away with it, and then immediately Tuesday is there. Randi is there. The mouth is still in her. Pace gave her the best sex, the safest arms, the boyfriend word, and her mind still went back to the woman. That is not going away. That is not a fever. And now there is a lie between her and Pace, and a truth between her and Randi that Randi tried to call pretend, and Tuesday is coming like weather.
 
-I am still reading. Completely. But my trust is strained in a new way. Not because Vee wanted Randi. I want Vee to want Randi. I’ve been waiting for it. I’m strained because Pace and Randi already know the room she is in, and Vee is still stumbling around with the lights off, apologizing to the furniture.
+I would absolutely be texting a friend at 1 a.m.: “She used him to exorcise the Randi kiss and it did NOT WORK. Also Pace knows more than she thinks and less than he should, which is somehow worse.”
 
-GATE 66 — Boyfriend
+GATE 71 — Boyfriend
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-ALMOST-STOPPED: "No," she said. "Nothing."
-WHY: I was intensely inside this chapter, almost painfully so: the sex-as-confession worked on me, and Vee’s panic afterward hurt because it was so recognizable. I nearly stopped at the lie because the emotional consent problem is now screaming, but I need Tuesday like I need air.
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "It didn't mean anything."
+WHY: This pulled me hard because the heat and emotional consequence were braided together so tightly I could barely breathe. Pace’s dominance still made room for her, but the first lie changes the room, and Tuesday with Randi now feels unavoidable.

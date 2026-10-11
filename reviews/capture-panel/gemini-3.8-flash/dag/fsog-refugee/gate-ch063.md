@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha f697ae9ef8f2 · 2026-09-19*
+*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f697ae9ef8f2 · 2026-10-11*
 
 REACTION
 
-Oh, God. Oh, my heart.
+Oh, God. Oh, *God.* My chest actually aches.
 
-This chapter made me feel like I was holding my breath in that suffocating, radiator-baked dorm room right alongside her. It is so rare—so shockingly rare in romance or erotica—to see female desire and female shame handled with this level of surgical, tender honesty. Usually, if a heroine explores herself, it’s either glossy and effortlessly empowered, or it’s played as dirty for cheap titillation. This was neither. This was a girl alone in the dark, caught between the conditioning of an entire lifetime—that quiet, venomous voice from Ohio telling her that her appetite, her wetness, her "plenty" is a shameful, excessive mess—and the wild, terrifying awakening she’s experiencing through Pace and Randi.
+This chapter felt so painfully, breathtakingly intimate that I almost felt like an intruder reading it—and yet it is everything I read this genre for. That entire sequence in the overheated dorm room, alone with Pace’s flannel shirt and the radiator ticking, trying so hard to understand her own desire. It was agonizing and beautiful.
 
-That moment where she brings her own fingers to her mouth. The sheer psychological precision of that near-miss. *A breath’s width remained.* My chest literally seized up. She wanted to cross that threshold so badly. She had Pace’s total, untroubled acceptance of her body on one side—a man who groans into her like a meal, who drinks her down and brings her own taste back to her lips without an ounce of hesitation or disgust—and Randi’s cool, sophisticated permission on the other (*"It was powerful. It turned me on"*). She has two people showing her that who she is and what she produces is good, is delicious, is entirely worthy of devotion. And yet, that invisible, ingrained wall of shame still stopped her tongue behind her teeth.
+That moment where she brings her wet fingers to her mouth—the strands stretching between her fingers, that heavy realization of her own "excess," the boys' stupid high school jokes about women's bodies lurking in the back of her head, and then smelling herself: *a hothouse with its doors shut, the air around a tropical flower without its sweetness.* And she brings her fingers to her lips, wanting so desperately to understand what Pace felt, what Randi felt, wanting to accept herself the way they seem to accept her—and she *can't close the distance.* She stops one breath away. That broke my heart. The shame is so deeply rooted. She can let a man worship her, she can let Randi orchestrate her, she can even demand orgasms until she whites out, but she cannot fully, unconditionally love the fact of her own body yet.
 
-And then she wipes it on the sheet. That broke me. She wipes her own desire away like a stain, finishes herself off in a solitary, airless frenzy, and then forces the window open to let the freezing January air scrub away the evidence of her own life before Cassie gets back. And that final image—lying in the dark, deliberately settling her hip over the cold, damp spot on the bed, whispering *Greedy* to herself, her mouth still empty... it’s devastating. It’s gorgeous.
+And wiping her hand on the sheet—twice!—and then lying in it at the end? *Her mess. Hers to lie in. Her mouth was still empty.* That final line is haunting. It’s an empty mouth in every sense: empty of her own self-acceptance, empty of the words she still hasn't heard from Pace, and empty of whatever it is she’s circling with Randi.
 
-What gets me so deep in my gut is how safe she is with Pace’s memory even while she’s warring with herself. When she remembered him stopping the kiss—the way he stilled, the way he immediately began to pull out the moment she objected, reading which "no" was which without sulking, without forcing himself on her, without an ounce of cruelty—that is the exact heartbeat of what I read for. His dominance isn't an erasure of her boundaries; it’s an absolute reverence for them.
+Because Randi was right there in the bed with her. Pace was the body, but Randi was the permission. *Had Randi meant a mouth carrying the wet back to her? Or her own fingers, lifted to her mouth?* Vee’s desire is expanding in directions she can't even safely name yet, even while she's wearing Pace's shirt.
 
-She is coming alive, inch by painful inch, but the jacket's warning is humming louder than ever in the background. She thinks of Pace's mouth; she wonders about Randi's fingers. Both of them are pulling her out of her old, cramped life, feeding an appetite that was always hers, but she’s still so terribly fragile underneath it all. I need to see her get through this. I need to see her back in that warm house, at that table, being held.
+This was completely solo, totally internal, and yet the erotic charge and the psychological precision were off the charts. It wasn't cheap smut; it was a woman genuinely wrestling with the threshold of her own shame and appetite. I am so deeply in this girl's corner. I need her to be okay.
 
-GATE 60 — The Reach
+GATE 63 — The Reach
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The psychological honesty of her shame warring with her appetite was breathtaking; watching her hover a breath away from her own mouth completely gripped me. I desperately need to see where this awakening takes her next.
+WHY: The psychological depth of Vee's masturbation scene—the absolute ache of her trying to bridge the gap between her deep-seated shame and her awakening desire—was stunning. Watching her hover one breath away from tasting herself, caught between Pace's worship and Randi's casual power, was agonizingly good erotica. I could not turn away.

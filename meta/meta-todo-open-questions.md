@@ -327,7 +327,7 @@ audit time (e.g. `a-round.md`, `vee-on-the-bench.md`); `the-bench.md` is done.
 **loosened, never removed** (finger under the side seam, drawn down over the fresh
 wax — "stuck to her," no "dried"), so it stays on through the flight to Pace's.
 The **"not, even now, anywhere near done"** line now closes {{Boyfriend}} alone
-(the confession owns it); {{On Her Floor}} no longer carries it.
+(the confession owns it); {{On Her Floor}} no longer carries it. **Cut from {{Boyfriend}} too (author 2026-10-11)** — capture panel read it as the narrator telling; the chapter now closes on *"…outside the trees the cold went on being kept out."*
 
 Author ruling (2026-08-16): change {{On Her Floor}}'s coda so Vee does **not** peel
 the green thong off. Currently the coda (`scenes/on-her-floor.md` ~lines 183–185)
