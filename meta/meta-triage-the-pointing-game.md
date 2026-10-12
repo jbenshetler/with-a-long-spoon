@@ -534,3 +534,32 @@ three reads, all on romance-graduate lanes: cut read, opus-5 and fable on "The s
 act"; A first read, opus-5-5 on "not a woman who hungered…"; A second read, fable and
 glm on "And he understood…". Every one is at CAPTURE 8–9, and every reason is the
 diagram-of-subtext complaint.
+
+## :49 reduced to one statement of the move (author 2026-10-12)
+
+:49 now reads: "And he understood what she had done, because it was beautiful. She had made
+herself not a woman who hungered for another woman, which he could see was unsurvivable, but
+a girlfriend offering her man a gift, which was merely sexy."
+
+Cut: "She had not taken back the wanting — her body had said it twice and she knew he'd
+heard. She had moved it. She had handed the appetite to him and made herself its generous
+instrument" and **"The same act. A different owner."** This is a deliberate re-cut of the
+caption restored on 2026-10-11. Do not restore it on praise counts: the ~35 praising
+readers were mostly cold reads and authorship audits, while in the target-persona capture
+lanes the caption drew complaints.
+
+Kept as Pace's analysis, which is character: :45 "He admired it, a little, even as he saw through
+it" and "on another man it would have worked completely". Kept as consequence: :51 "She
+would find a woman for *theirs*." The principle (author): the reader has the move at :47,
+and it lands harder when they derive it. Keep Pace's judgments (beautiful, unsurvivable,
+merely sexy) and cut the narration explaining the move.
+
+A/B, 8 models x 2 personas (N = 16):
+
+| Version | CAPTURE mean | NEXT mean | Complaints | Restate the move in their own words |
+|---|---|---|---|---|
+| full | 8.94 | 9.38 | 2, both on the caption | 13/16 |
+| one statement | 8.94 | 9.38 | 1 ALMOST-STOPPED (opus-5-5 rg, "my hair trigger") | 14/16 |
+
+opus-5 rg on the kept sentence: "the best sentence in three chapters and it doesn't explain
+a thing to me I hadn't felt."

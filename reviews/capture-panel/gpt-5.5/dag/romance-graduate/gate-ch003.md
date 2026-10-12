@@ -1,16 +1,18 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ac8f0606c72a · 2026-10-11*
+*capture-dag-v2-rich · gate ch003 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5661ad3880e1 · 2026-10-12*
 
-REACTION — Oh, this chapter knew exactly where my thumb lives.
+REACTION —
 
-I was worried for about half a second after the bench chapter that we were going to stay trapped inside Randi's shame spiral for too long, but no, this took the fracture from that night and turned it into motion. Not healing. Not clean. Something much more dangerous: she finds a way to put the appetite somewhere she can survive it. “Only in a threesome. With you.” I actually made a little sound there, because yes, of course she would. Of course she would launder her desire through being a good girlfriend. That is so painfully, erotically her.
+Oh, I am in trouble with this book.
 
-And Pace. God. I am still not letting him fully off the hook, because the whole jacket is sitting beside me like a loaded weapon, but I can feel why she keeps walking toward him. The chapter lets him be both perceptive and manipulative, tender and conducting the room. He does not flatten her. He sees the dodge, admires it, and then uses it. That is exactly the nerve this book keeps pressing: the consent is real, the wanting is real, and the orchestration is also real. I hate how much I like being made to sit in that.
+This chapter did the thing I wanted the jacket to promise and was afraid it might only *say* it promised: it kept the heat explicit, immediate, bodily, and then made the actual turn happen somewhere more dangerous than sex. The sex at the start is hot, yes, but what got me was the way the question cuts through her before she can curate herself. “Would you like to taste another woman?” and her body answers first. That is exactly the kind of erotic intelligence I’m starving for. Not just “girl discovers she likes girls,” not a cute spicy bonus, but desire arriving ahead of permission. Desire embarrassing her. Desire outing her to herself.
 
-The campus walk was hot in a way most sex scenes wish they were. The pointing game could have been gross if it were just him shopping for a third, but the way it becomes her learning her own taste? That got me. The “I point. You pick” line was unfairly good. It changes the whole weather. Suddenly she is not being selected or displayed; she is choosing, but still under his frame, still under his watching, still allowed to pretend the game belongs to him. That is filthy and smart and psychologically mean in the exact way I bought this book hoping for.
+And Pace is fascinatingly terrifying to me. I still feel the pull of him, hard. He pays attention in a way that would ruin me on the page and maybe ruin me in life, and the book knows both things. The way he notices the tiny flinch, the little recovery, the performance sliding back over the truth — yes. That is catnip. But it is also starting to make my stomach tighten because he is enjoying being ahead of her. He keeps saying, internally, that the choice is hers, and I believe he believes it, but he is also staging the room, the walk, the “game,” the angle by the dining hall. It is delicious and manipulative and I am not mad at the book for that because the jacket told me. I am mad at *him*, a little, in the fun way and also in the real way.
 
-And then Vee arrives. Finally. I knew from the jacket she was the girl, obviously, but the book still made her entrance feel like a trapdoor opening. The contrast between Randi’s polished little Greek-life taxonomy and Vee just laughing with her whole body in public — yes. I could feel why Randi stopped. The red hair, the looseness, the body not cut to Randi’s rules, the laugh that forgets it is visible. That is not just attraction; that is Randi seeing a kind of freedom she cannot metabolize.
+Randi/Vee finally clicked into place for me here, too. The moment Vee appears, I felt the entire book inhale. She is so obviously not another polished little mirror for Randi, and that matters. Randi’s taste being not the “correct” girl, not the status girl, not the matched sorority pair, but this warm, laughing, lavish, uncontained person? God. That did more character work than a confession could have. And Randi’s bare “Yes” before she can dress it up — that was the chapter’s center for me. I believed it completely.
 
-The end got me good. Randi coming back lit up, the tiny happy footwork, “Her name is Vee,” and then that horrible-perfect line: “Do you think she’ll like the bench?” I laughed out loud and also felt my stomach drop. Because there it is. The game has a name now. Vee has no idea. Randi is thrilled. Pace is thrilled. I am thrilled, which is the problem, and the book knows it.
+Also: “Do you think she’ll like the bench?” made me make an actual noise. Horrible. Perfect. Wicked little bell at the end. Because it’s funny and filthy and also maybe the first sign that Randi is not only being led; she is starting to imagine leading someone else into the same apparatus. That is… not tidy. Good.
+
+I’m wary, but in the way where my thumb is already moving. The book is holding the ethical tension instead of flattening it into either fantasy innocence or moral scolding, and that is rare enough that I’m buckled in.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
@@ -18,5 +20,5 @@ CAPTURE: 9
 NEXT: 10
 HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: This did the thing I keep begging spicy books to do: it made wanting feel specific, intelligent, and dangerous before anyone even touched the new girl. I am uneasy about Pace and Randi choosing Vee before Vee knows she is being chosen, but that unease is the engine, not a dealbreaker. I would absolutely keep reading right now.
+ALMOST-STOPPED: "He knew her body's answer. He did not take it for her answer."
+WHY: That line nearly made me pause because it is doing a lot of self-exculpating work for Pace, and I do not fully trust him. But the chapter knows the difference between choice and orchestration, and Randi’s desire for Vee landed so cleanly that I absolutely need the next chapter now.

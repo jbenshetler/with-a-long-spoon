@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ac8f0606c72a · 2026-10-11*
+*capture-dag-v2-rich · gate ch003 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 5661ad3880e1 · 2026-10-12*
 
-REACTION —
+REACTION — Oh. Oh, I am *in trouble* with this now.
 
-Oh, this one got me.
+This chapter did something very sneaky to me because it starts in the aftershock of the bench, where Randi is clearly trying to reroute away from being known, and then Pace, maddeningly, finds another door. Not by forcing it open. That matters to me so much. He asks the question while she’s undone, sees the body-answer, and then does the thing I needed him to do: he asks again later, when she can actually answer. I felt myself unclench there. Because this could so easily have gone into ugly territory — him deciding her orgasm was consent, him making her body testify against her — and instead he notices the difference. He wants the truth, but he does not let himself steal it.
 
-The first two chapters had me in that tight, bruised place with Randi, because the bench scene was so intimate and so dangerous emotionally, and then the sorority-house aftermath made me feel how badly she needed to put the face back on. So coming into this chapter, I was watching Pace like a hawk. I wanted him to be careful with her. I wanted him to know what he was touching.
+And Randi. God, Randi. I’m half furious on her behalf and half thrilled for her, which is exactly the dangerous little engine this book is running on. Her “only in a threesome, with you” is such a perfect bit of self-protection that I actually winced. She can want a woman if it is framed as a gift to him. She can’t yet survive wanting one because *she* wants one. That is so real and so sad and so hot, honestly, because the desire is right there under the lace cover story, glowing through.
 
-And he does, mostly. That “He knew her body’s answer. He did not take it for her answer” is exactly the kind of thing I’m here for. That’s the line between the version of this story I want and the version I’d throw across the room. He sees the desire before she can admit it, but he doesn’t treat that as permission to decide for her. He waits until she’s back in herself. That mattered to me a lot.
+The campus game absolutely got me. I could feel the escalation from “I’m being a good sport” to her scanning ahead before he even points. That’s the thing I read for: not just the sexual situation, but the permission structure being built around it. He says “I point. You pick,” and I went, yes, exactly, that is the whole thesis for me. He is directing the frame, but her choosing is the erotic center. That is the difference between dominance that erases and dominance that reveals.
 
-But also: whew. The pointing game is filthy in a way that is not just physical. It’s social. It’s daylight. It’s Randi being asked to want where people can see her, and I could feel how much more exposing that is than anything in the bedroom. The campus walk made me tense in the best/worst way, because every girl Pace points at is also a little mirror held up to Randi: the proper one, the paired ones, the warm one, the authority girl, and then Vee, who is outside Randi’s whole grading system. That was deliciously mean, but not cruel. It felt like a seduction of her honesty.
+And then Vee appears. I knew she had to, from the jacket, but I still felt the arrival. The red hair, the laugh, the total uncurated bodily ease of her — she feels like a threat to Randi’s entire operating system. Not polished, not small, not managed, not even trying to be approved of. Of course Randi says yes before she can dress it up. Of course she can’t look away. I loved that Pace is watching Randi more than Vee in that moment, because the real event is not “hot girl spotted”; it’s Randi’s desire becoming visible.
 
-I loved that Randi’s first real “yes” just escapes her. No polish, no girlfriend-performance, no little ribbon tied around it. Just yes. And then immediately she tries to make it “for us,” which is so sad and so hot and so her. She still can’t let the wanting belong to herself unless it belongs to Pace too. And Pace knows it. I’m not sure yet whether I trust what he’ll do with that knowledge, but I am absolutely reading to find out.
+The little engineered collision was delicious and also made me nervous in the exact way the jacket promised. We are definitely in manipulation country. Randi is good at social choreography, Pace is enjoying watching her use it, and Vee has no idea she’s been selected. That’s the itch under the silk for me. I’m still continuing because the book has been so exact about consent between Pace and Randi, but now Vee is the one outside the knowledge, and I can feel my guard going up.
 
-And Vee. Oh. So that’s our girl. The jacket told me this was coming, but seeing her through Pace and Randi’s eyes before she knows she’s been chosen is a very particular kind of trap. I felt the wrongness of it and the pull of it at the same time. Randi engineering the “accidental” meeting was thrilling, but it also made the floor tilt under me, because Vee is already innocent inside a game she doesn’t know exists. That’s the problem the blurb promised, and now it’s arrived with a name and a stats class.
-
-The last line about feeding Randi instead of answering the bench question softened me right when I needed it. He hears the sexual charge, but he answers the hunger. That’s the Pace I want to believe in.
+But I would absolutely keep reading. Randi coming back glowing, with “Her name is Vee,” and then that daylight kiss turning into the bed-voice “Yes”? I’d be texting a friend: *I am not saying this is ethical but I am saying I am seated.*
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: "Go get her."
-WHY: That line scared me because it made Vee suddenly feel like prey, not just fantasy, and I had to check whether the book was asking me to enjoy that without consequence. But the chapter has me completely: Randi’s desire is finally moving under her own skin, Pace is watching without flattening her, and Vee’s entrance has lit the whole fuse.
+WHY: That line made my stomach tighten because Vee doesn’t know she’s walking into anything, and I am very alert to whether the book treats that honestly. But the chapter had me by the throat: Pace’s attention, Randi’s choosing, the way her desire becomes visible before she can manage it — yes, I’m reading on.
