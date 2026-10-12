@@ -109,8 +109,11 @@ rather than rested on — as the chapter's hardest physical beat.
   paragraph** — both kept as the *signal* uses of the vague-subject grammar
   once `:45` was recast. `:39` quoted by gpt-5.6-terra; `:59` quoted by four
   of five readers.
-- **`:27`'s bare "A beat."** — kept: Randi lands "it's a little pathetic,"
-  pauses, then gives away "I love it." The pause *is* the tell.
+- **`:35`'s bare "A beat."** — kept: Randi lands "She's got it *bad*,"
+  pauses, then gives away "It's romantic," the thing she does not have, said
+  to the man providing it. The pause *is* the tell. (The pre-`6e00792a`
+  "It's a little pathetic." / "I love it." is not to be restored: author
+  ruling 2026-10-12, after a praise check found only glm quoting it.)
 
 ## Linter acks (author sign-off 2026-08-07)
 
