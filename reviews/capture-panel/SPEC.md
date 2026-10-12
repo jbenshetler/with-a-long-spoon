@@ -1160,3 +1160,43 @@ comparable with the panel's. Its existing gates stay on disk as history.
 An ALMOST-STOPPED attached to a CAPTURE of 9 or 10 often marks the chapter's most
 impactful sentence rather than a defect: the reader names the line that hit hardest.
 Read the quote and the reason before treating it as a complaint.
+
+## Read-to-read variance (measured 2026-10-11)
+
+Panels vary in size, so state score movement **per lane**: points moved divided by
+lanes read (e.g. 5/16), never as absolute points.
+
+Measured on identical prose: `the-pointing-game` ch3 with option A applied, read twice,
+`--to 3 --fresh`, 8 models x romance-graduate and fsog-refugee (N = 16), no checkpoint.
+
+| Read | CAPTURE mean | NEXT mean |
+|---|---|---|
+| A, first read | 8.75 (140/16) | 9.25 (148/16) |
+| A, second read | 9.06 (145/16) | 9.50 (152/16) |
+
+Swing: 5/16 = 0.31 CAPTURE per lane. Five lanes moved, all by 1 and all upward:
+opus-4-8 fsog 7→8, opus-5 rg 8→9, sol rg 9→10, sol fsog 9→10, gemini fsog 9→10. The
+other eleven held exactly. The author predicted the rebound (4–7 of 16) before the
+second read. The author reads this swing as probably an outlier; **keep collecting
+same-text repeat reads and A/B pairs in the log below** until the noise band is
+measured rather than guessed.
+
+How to use it, provisionally:
+- A difference of about 0.3 CAPTURE per lane is within run-to-run noise.
+- So is direction-consistency. The first read had five lanes down and none up
+  against the baseline, and it reversed.
+- One lane moves by 1, occasionally 2, between reads of the same text.
+- Before attributing an A/B difference to an edit, read the moving lanes' WHY and
+  ALMOST-STOPPED for whether they name the edited lines. If they don't, or the
+  difference is within the band, re-read the same text before ruling.
+
+### A/B and repeat-read log
+
+| Date | Chapter | Variant | N | CAPTURE mean | NEXT mean | Note |
+|---|---|---|---|---|---|---|
+| 2026-10-11 | ch1 the-bench | face paragraph cut | 16 | 9.19 | 9.13 | |
+| 2026-10-11 | ch1 the-bench | restored | 16 | 9.31 | 9.19 | 3 mirror-section ALMOST-STOPPEDs |
+| 2026-10-11 | ch1 the-bench | restored, :509 trimmed (A) | 16 | 9.13 | 9.19 | kept |
+| 2026-10-11 | ch3 the-pointing-game | frame payoff cut | 16 | 9.13 | 9.44 | |
+| 2026-10-11 | ch3 the-pointing-game | frame restored (A), read 1 | 16 | 8.75 | 9.25 | |
+| 2026-10-11 | ch3 the-pointing-game | frame restored (A), read 2 | 16 | 9.06 | 9.50 | same text as read 1; kept |

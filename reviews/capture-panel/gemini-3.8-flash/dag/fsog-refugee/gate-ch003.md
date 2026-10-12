@@ -1,20 +1,25 @@
-*capture-dag-v2-rich · gate ch003 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f38696e0fca1 · 2026-10-09*
+*capture-dag-v2-rich · gate ch003 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ac8f0606c72a · 2026-10-11*
 
-REACTION
+REACTION:
 
-Oh, wow. *Oh wow.* My stomach actually dropped when I realized what was happening here.
+Oh, *wow*. My stomach just dropped.
 
-When I read the jacket, I thought the setup was going to be Pace and Randi as this established, calculating couple who sit around like puppeteers coldly picking out an innocent girl to groom. But seeing how it *actually* happened? It makes it ten times more intense, and honestly, a hundred times more twisted because of how completely human it is.
+The jacket told me, right? It literally said on the back cover: *“Two people have planned the best year of her life. She doesn’t know there’s a plan.”* But seeing it happen from the inside—seeing how the trap was built, and built out of Randi’s desperate, repressed need to stay safe while Pace plays puppet master—made my skin prickle.
 
-First of all, that bed scene at the beginning—Pace asking her that question right while he’s inside her, feeling her entire body betray her before her brain can even put up its defenses? That was devastatingly hot, but what really got me was how he tracked her psychology. Randi is so deeply terrified of her own desires, so bound up in being the "perfect" sorority girl who doesn't hunger for anything she isn't supposed to, that she instantly has to reframe it as a gift *for him*. "Only in a threesome. With you." And Pace *knows* that's what she's doing! He sees right through the silk and the sex-kitten performance, but instead of calling her out and shaming her, he plays along with the cover story just to give her permission to want what she wants. The dominance there isn't about barking orders; it’s about reading her down to the marrow and orchestrating a world where she's allowed to fall apart.
+The sex in the beginning was scorching. Pace sliding into her while she’s still coming, kissing her with her own taste—that’s the exact kind of suffocating, intense intimacy that makes me melt. And then he drops that question into her: *“Would you like to taste another woman?”* and her body just *betrays* her completely. The psychology of Randi here is so sharp it hurts. She can’t admit she wants a woman because that destroys the fortress she built to survive her mother and her sorority, so she hands it to Pace as a gift: *“Only in a threesome. With you.”*
 
-And then the walk on campus. God, the tension of the pointing game. Watching Randi shift from offended propriety, to playing the "good sport," to genuinely *hunting*. Pace stepping back, letting her choose, putting the power entirely in her hands while still being the one holding the frame—that dynamic is absolute catnip to me.
+And Pace! God, Pace is terrifying because he is so patient, so tender, and so utterly calculating. He sees right through her deflection. He knows she’s hiding behind the “cool, generous girlfriend” persona, and instead of calling her on it, he weaponizes it into a game. The campus walk was brilliantly tense. Watching her calibrate, feeling the heat build between them as he murmurs in her ear and kisses her with her own taste on his mouth while people walk by. The erotic charge of that was off the charts.
 
 And then Vee appears.
 
-The description of Vee just knocked the wind out of me. The contrast between Randi’s hyper-curated, starving, rigid world and this lush, unbothered, copper-haired girl laughing with her whole throat bared to the sky—of *course* Randi couldn't look away. Vee is everything Randi has starved out of herself. And the "accidental" collision? Watching Randi deploy all that social grace and poise to engineer a bump on the sidewalk was so sharp, so brilliant, and so completely predatory in a way that feels utterly feminine and desperate.
+The description of Vee was gorgeous—lush, unbothered, laughing with her head thrown back, completely untouched by the hyper-curated, rigid misery Randi lives in. The contrast between them is stunning. The moment Randi saw her and just said *“Yes”* with no armor, no performance—I felt that in my chest.
 
-And that final line. *"Do you think she'll like the bench?"* Chills. Literal chills. Because Vee has no idea what is coming for her, and yet, knowing what the jacket promised—that Vee is starving too, that she's looking for something real—I am suddenly desperate to see these two women collide for real, with Pace watching over the whole combustible thing.
+And then the execution. The way Randi engineered that “accidental” bump. It was chilling. It was so smooth, so sociopathic in its social grace, and yet she’s practically vibrating with genuine, helpless infatuation. She’s like a little girl who just got handed the keys to a candy store.
+
+And that final line: *“Do you think she’ll like the bench?”*
+Holy shit. Chills. Actual chills.
+
+Here is the tension I’m holding: I love consent. I *need* consent. Vee currently has none of the context. She’s being hunted. But the jacket promised me: *“Every step of it she gives freely, gladly... Every yes was freely given. That was the problem.”* So I am strapped in. I want to see how this monstrous, beautiful, deeply fucked-up machine pulls Vee into its gears. Pace and Randi are a lethal combination of tenderness, psychological control, and raw hunger. I can’t look away.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
@@ -23,4 +28,4 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The psychological interplay between Pace and Randi is incredible, and the sheer tension of watching the trap get set for Vee—out of Randi's own repressed desire rather than cold malice—hooked me completely. I need to see Vee's side of this immediately.
+WHY: The transition from the sheer, breathless heat of their bed to the chilling, thrilling sociopathy of the campus hunt was breathtakingly good. Seeing the trap snap shut around Vee before she even knows they exist is completely addictive.

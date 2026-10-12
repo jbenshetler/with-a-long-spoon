@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch003 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f38696e0fca1 · 2026-10-09*
+*capture-dag-v2-rich · gate ch003 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ac8f0606c72a · 2026-10-11*
 
-## Reaction
+**REACTION**
 
-That first scene had me before I noticed. "Would you like to taste another woman?" said into her while she's still pulsing, and her body answers before she does. That's exactly the thing I read for: her want, coming up out of her, before she can make it mean anything safer. Then he gives her room. He doesn't take her body's answer as her answer. He waits until she's put herself back together and asks again. I've been waiting years for a man in one of these books to think that sentence. I almost put the book down and clapped.
+Okay. *Okay.* Chapter three, and the woman whose name is on the back of the book finally shows up, and she shows up as the answer to a game two other people were playing about her. The jacket told me this would happen. Watching it happen still made my stomach turn over, in a way I can't fully sort into good or bad yet.
 
-But I also flagged something, and I'm keeping the flag. "Undefended. He had decided this beforehand." He planned to ask the question at the exact moment she couldn't guard against it. Does that make it coercive? I don't think so. He doesn't use the answer; he asks again later, in daylight, and he says out loud to himself that her free choice matters more to him than the answer. Still, it's calculated. He knows exactly where her locks are and when they're open. After chapter 1 I know she's decided he gets the face and never her again. So now there's a man who is very good at getting past her guard, and a woman who has decided he never will. I can't look away from that, and it scares me a little in the good way.
+The bed scene first, because it got me. The question lands in Randi's body before it reaches her mind, and she comes before she can make the wanting mean anything safer. Then this line: *"He knew her body's answer. He did not take it for her answer."* I actually put the book down on my chest for a second. That's the man I've been looking for across ten years of this genre. He waits until the heat has left the room and asks again, so she can say no with her head clear. He decides ahead of time that he'll care more about her being free to choose than about what she chooses. I've read a hundred "your body doesn't lie" heroes, and they all used it as permission. He uses it as a reason to ask again. That's hot, and it's also *kind*.
 
-The threesome move is gorgeous and sad. She takes the want and calls it a gift for him. "Only in a threesome. With you." And he just says "Okay" and lets the cover story stand. Is that kind of him, or convenient for him? Both, I think, and I think the book knows it's both.
+Then the threesome dodge, which hurt to read. He sees exactly what she's doing: she hands the want over to him so it's his kink and she's just the generous girlfriend. He calls it beautiful, says "Okay," and lets it stand. I can't decide whether that's respect or the first crack. After chapter two I know something he doesn't. He thinks Saturday morning was a breakthrough, and she went home, lay down in her shoes, and decided she was never coming out again. So all through this chapter he's reading her so closely and still missing the one thing that matters. That dramatic irony is the hook for me now. I'm not suspicious of him. I'm scared *for* both of them.
 
-The walk was where I got squirmy. Two people strolling around campus rating girls like dishes on a menu is not comfortable. His little fantasy about the sprinter and the soft one went a little past what I wanted. But "I point. You pick" saved it. Watching Randi realize the choosing is hers, then catching her starting to scan ahead of him on her own ("she was shopping"), was hot. And then the redhead with her head thrown back laughing, and Randi's bare "Yes," with nothing around it. Her happy little feet on the brick. The second "yes" in her bedroom voice, in daylight. I loved her right there.
+The walk. I loved Randi turning from "being a good sport" into "shopping." I loved "I point. You pick." The moment she stops dead and says "Yes," with nothing around it, gave me goosebumps. That's her desire from the inside, even though she covers it up two seconds later.
 
-Then it lands. Her name is Vee. Oh. That's the girl on the jacket. I'm watching the "secret choice made about her" actually happen, cast as a sweet afternoon date, and the jacket already told me where it goes. "Do you think she'll like the bench?" gave me chills, and not entirely good ones. Vee walked into a stranger and apologized for it. She has no idea.
+Here's where I tensed up. Pace is picturing strangers on the path naked and arranged for Randi. Then "Go get her," and Randi stages a fake collision so clean the redhead apologizes for it, and he watches from a light pole and admires the technique. That's a hunt, and the book knows it is. And Vee gets that gorgeous entrance: laughing with her whole body, "like a person who had genuinely forgotten she could be seen." I've been that girl, and now there are two people across the lawn who have *chosen* her. "Do you think she'll like the bench?" was hot and chilling at the same time.
 
-"Let's go feed you." After "I can't eat that"? He's tender with her, and he's steering her, and in this book I don't think those can be separated. I'm in.
+What keeps me in is that so far the book isn't winking. It *knows* this is a choice made about her without her, and it put that on the cover. My line is whether Vee gets to choose for real once she's inside it. If this turns into her being herded and the book calling it romance, I'm out. If it means what the jacket promises, where every yes is really hers and that's the problem, then this is exactly the book I've been hunting for.
 
-**GATE 3 — The Pointing Game**
-**DECISION:** CONTINUE
-**CAPTURE:** 8
-**NEXT:** 9
-**HEAT:** 3
-**ROMANCE:** 2
-**ALMOST-STOPPED:** "He came up over her before she was done, while she was still swollen and still pulsing around nothing, still given over to her body, undefended. He had decided this beforehand."
-**WHY:** The bed scene is everything I want: her desire showing up before she can manage it, and a man who asks again once she's back in control. The pointing game made me uneasy, but Randi's "Yes" was hers. Now the jacket's girl has a name, and I have to see Randi try to bring her in.
+Also, "Let's go feed you" after "I can't eat that." He noticed. He always notices. Except for the one thing.
+
+1 a.m. text: *the hero just asked his gf if she wants to taste another woman, waited until she could actually think to ask again, and then they went girl-shopping on campus and picked the actual heroine. i'm horrified and i can't stop.*
+
+GATE 3 — The Pointing Game
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "it was the redhead's hand that flew to her own mouth. It was the redhead who pulled up short, stricken, apologizing"
+WHY: The asking-twice beat is exactly the consent I've been starving for. But I just watched two people stalk a laughing girl and admire how clean the setup was, and that girl is my heroine. I'm here for her now, and I need the next chapter to show me she gets a real choice once she's in it.

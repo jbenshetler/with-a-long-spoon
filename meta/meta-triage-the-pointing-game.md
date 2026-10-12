@@ -507,3 +507,30 @@ lint clean, `echo_harvest` 0 candidates, no new lint hit from the cue.
 ## Restored (author 2026-10-11, praise sweep)
 
 - :49 "The same act. A different owner." restored (cut 074a6381). ~35 readers had praised it, ~20 verbatim, against four complaints; it had been protected twice. Cuts now check praise first (`tools/praise_check.py`). Do not re-cut.
+
+## Frame payoff A/B (2026-10-11)
+
+Option A, **kept** (author 2026-10-11): "still in frame," restored at :117,
+and the payoff "The follow had felt the music and broken the frame she had held since
+the library steps, before the lead called the step." restored after "There was no
+managing in it." ch3 capture, 8 models x 2 personas:
+
+| Read | N | CAPTURE mean | NEXT mean |
+|---|---|---|---|
+| Cut | 16 | 9.13 | 9.44 |
+| A, first read | 16 | 8.75 | 9.25 |
+| A, second read | 16 | 9.06 | 9.50 |
+
+The first read's dip was noise (variance is recorded in
+`reviews/capture-panel/SPEC.md`). Nobody quotes or complains about the payoff sentence
+in either A read. With "still in frame" back, the frame image gets noticed:
+opus-5 rg and opus-5-5 fsog in the first read; glm rg ("the same coil-in-the-frame
+feeling") and gemini rg ("the dancer's coiled tension in her frame, the way her body
+betrayed her") in the second.
+
+Separate signal: the :49 paragraph ("And he understood what she had done…", which now
+ends on the restored "The same act. A different owner.") drew ALMOST-STOPPEDs in all
+three reads, all on romance-graduate lanes: cut read, opus-5 and fable on "The same
+act"; A first read, opus-5-5 on "not a woman who hungered…"; A second read, fable and
+glm on "And he understood…". Every one is at CAPTURE 8–9, and every reason is the
+diagram-of-subtext complaint.

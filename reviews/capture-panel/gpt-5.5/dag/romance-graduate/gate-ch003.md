@@ -1,18 +1,16 @@
-*capture-dag-v2-rich · gate ch003 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f38696e0fca1 · 2026-10-09*
+*capture-dag-v2-rich · gate ch003 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ac8f0606c72a · 2026-10-11*
 
-REACTION — Oh, I am in trouble with this book.
+REACTION — Oh, this chapter knew exactly where my thumb lives.
 
-This chapter did the thing I wanted the jacket to be promising and was half-afraid it would fumble: it made the triangle begin as sex, yes, absolutely, but also as revelation. Not a “wouldn’t it be hot if we picked up a girl” scene in the lazy KU way where the other woman is basically a prop with lip gloss. This is Pace watching Randi’s desire happen before Randi can domesticate it, and then giving her a game where she can pretend she is playing for him until she accidentally tells the truth.
+I was worried for about half a second after the bench chapter that we were going to stay trapped inside Randi's shame spiral for too long, but no, this took the fracture from that night and turned it into motion. Not healing. Not clean. Something much more dangerous: she finds a way to put the appetite somewhere she can survive it. “Only in a threesome. With you.” I actually made a little sound there, because yes, of course she would. Of course she would launder her desire through being a good girlfriend. That is so painfully, erotically her.
 
-And God, Randi. I thought I had her pegged as polished and brittle and hungry, and I did, but this chapter made her fun. Dangerous-fun. That “I point. You pick” moment got me by the throat because it gives her permission without naming the permission, and you can feel her go from social horror to assessment to actual appetite. She starts the walk as the girlfriend being indulgent about her boyfriend’s naughty little idea and ends it lit from inside because she has chosen Vee. That is such a deliciously specific turn.
+And Pace. God. I am still not letting him fully off the hook, because the whole jacket is sitting beside me like a loaded weapon, but I can feel why she keeps walking toward him. The chapter lets him be both perceptive and manipulative, tender and conducting the room. He does not flatten her. He sees the dodge, admires it, and then uses it. That is exactly the nerve this book keeps pressing: the consent is real, the wanting is real, and the orchestration is also real. I hate how much I like being made to sit in that.
 
-The campus walk should not be as hot as it is. They are literally just looking at women. But it is charged because every “no” is revealing the shape of Randi’s yes. She does not want a mirror. She does not want the polished girls, the paired girls, the obvious status girl. And then Vee appears, all copper hair and uncurated body and laughing like she forgot she could be seen, and I swear the book let the air change. I understood immediately why Randi stopped. I also understood immediately why Pace wanted her. That is the kind of erotic attention I keep reading for and so rarely get: the choosing has psychology in it.
+The campus walk was hot in a way most sex scenes wish they were. The pointing game could have been gross if it were just him shopping for a third, but the way it becomes her learning her own taste? That got me. The “I point. You pick” line was unfairly good. It changes the whole weather. Suddenly she is not being selected or displayed; she is choosing, but still under his frame, still under his watching, still allowed to pretend the game belongs to him. That is filthy and smart and psychologically mean in the exact way I bought this book hoping for.
 
-I am also watching Pace very carefully. He is tender, observant, and incredibly controlled, which is hot, but the jacket has already told me there is a plan Vee doesn’t know about, and this chapter is the first visible stitch of it. “Go get her” made me grin and tense up at the same time. Because yes, Randi goes. Randi wants. Randi executes that “accidental” meeting like a social assassin in ballet flats. But Vee has no idea she has just been selected. That last line about the bench is filthy and funny and ominous all at once. I laughed, but not comfortably.
+And then Vee arrives. Finally. I knew from the jacket she was the girl, obviously, but the book still made her entrance feel like a trapdoor opening. The contrast between Randi’s polished little Greek-life taxonomy and Vee just laughing with her whole body in public — yes. I could feel why Randi stopped. The red hair, the looseness, the body not cut to Randi’s rules, the laugh that forgets it is visible. That is not just attraction; that is Randi seeing a kind of freedom she cannot metabolize.
 
-Also: this book knows food is sex. “Let’s go feed you” after a chapter about pointing at women and choosing one? After Randi saying she can’t eat the cheeseburger? After the apple last chapter? I see you, book. I see the whole appetite machine humming under the floorboards.
-
-I would absolutely text a friend: “Okay, the redhead just arrived and I fear I am seated.”
+The end got me good. Randi coming back lit up, the tiny happy footwork, “Her name is Vee,” and then that horrible-perfect line: “Do you think she’ll like the bench?” I laughed out loud and also felt my stomach drop. Because there it is. The game has a name now. Vee has no idea. Randi is thrilled. Pace is thrilled. I am thrilled, which is the problem, and the book knows it.
 
 GATE 3 — The Pointing Game
 DECISION: CONTINUE
@@ -21,4 +19,4 @@ NEXT: 10
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This chapter pulled me hard because it made desire feel discovered instead of announced. The Vee selection scene is hot, psychologically sharp, and morally prickly in exactly the way the jacket promised, and now I badly need to see what happens when Vee is no longer just a beautiful stranger with a stats class.
+WHY: This did the thing I keep begging spicy books to do: it made wanting feel specific, intelligent, and dangerous before anyone even touched the new girl. I am uneasy about Pace and Randi choosing Vee before Vee knows she is being chosen, but that unease is the engine, not a dealbreaker. I would absolutely keep reading right now.
