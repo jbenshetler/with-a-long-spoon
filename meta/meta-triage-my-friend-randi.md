@@ -121,6 +121,13 @@ don't re-litigate.
 - The coat proposal by pointing-without-saying (stopping at "that good long coat"
   and waiting for Vee to find it).
 - The title's recolor-on-finish.
+- **Pace unnamed until Randi names him** (author 2026-10-12). Vee carries him
+  through the flight, the drive, and the crying as *him* only; the first *Pace* in
+  the chapter is Randi's (`:79`, "Why did you have to stop seeing Pace…"). The road
+  paragraph's *"a town that had him in it and not one inch of him for her"* restores
+  the old opening's line (cut in `aada4db3`; kimi-k3: "the truest sentence about
+  the break") with *him* for *Pace*, so it also anchors `:25`'s bare *"He hadn't
+  texted."* Do not name him in Vee's narration before `:79`.
 
 ---
 
