@@ -118,7 +118,7 @@ Then she was up and reaching for her coat, the day's coat, ready to go straight 
 
 "Why—"
 
-"Because you came off a red-eye and cried it all off and put none of it back, and you look, my love, and I say this with my whole heart, like a raccoon who lost a fight." Vee made a wet sound that was almost a laugh. "You only open that coat once, and you open it at your best. Go home. Sleep. Make yourself into the thing. And go to him tonight." She crossed to the closet and came back with a pair of black heels hooked on two fingers, swinging, and pressed them into Vee's hands.
+"Because you came off a red-eye and cried it all off and put none of it back, and you look, my love, and I say this with my whole heart, like a raccoon who lost a fight." Vee made a wet sound that was almost a laugh. "You only open that coat once. Not looking like you need a shower and eight hours first. Go home. Sleep. Make yourself into the thing. And go to him tonight." She crossed to the closet and came back with a pair of black heels hooked on two fingers, swinging, and pressed them into Vee's hands.
 
 "And wear these. Just the thing for tonight."
 

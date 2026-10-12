@@ -128,6 +128,12 @@ don't re-litigate.
   the old opening's line (cut in `aada4db3`; kimi-k3: "the truest sentence about
   the break") with *him* for *Pace*, so it also anchors `:25`'s bare *"He hadn't
   texted."* Do not name him in Vee's narration before `:79`.
+- **"You only open that coat once. Not looking like you need a shower and eight
+  hours first."** (`:121`, author 2026-10-12.) The old *"No man opens that coat for
+  a woman who needs a shower and eight hours first"* (cut in `63a1fa42`) had the
+  laugh and two verbatim quotes (opus-5 fsog gate, opus-4-8 audit) but the wrong
+  opener — Vee opens the coat, not the man; *"at your best"* fixed that and lost
+  the specifics. Merged: the *once* (the one card at the door) and the shower.
 
 ---
 
