@@ -64,3 +64,11 @@ Every item below was raised by exactly one reader.
   is being secretly prepared rather than openly asked."* Both notes in one sentence; this
   is the state the chapter is tuned to and the thing that collapsed when the method beat
   framed it as procedure.
+- **"The last half inch."** (`:181`, Randi's report of Vee's goodbye kiss.) Cut in
+  the `9cab300b` author pass; restored 2026-10-12 after a praise check: `gpt-5.6-sol`
+  and `gpt-5.5` cold reads both singled it out ("that last half inch Vee claimed for
+  herself"). It measures how little Vee took, so *"She* took *it"* is concrete. The
+  grading tail of the old version (*"Didn't flinch. Didn't make a joke."*) stays cut:
+  the new close is Randi leaking (*"like there was nothing better in the world"*), and
+  the grading list worked against the leak. The narration keeps that she **carried it
+  two days before telling Pace** — author: more important than *"all in one piece."*

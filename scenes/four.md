@@ -178,7 +178,7 @@ She did not answer straight off. He had asked it the way he asked things, and he
 
 "That isn't what I asked."
 
-"Saturday she wouldn't let it end, Pace." It came out of her all in one piece, coming out after she'd carried it for two days waiting to share. "I went to come off her and she came after me. She *took* it. And then she stood there on the sidewalk in the sun looking at me like there was nothing better in the world."
+"Saturday she wouldn't let it end, Pace." She had carried it for two days, waiting to share it with him. "I went to come off her and she came after me. The last half inch. She *took* it. And then she stood there on the sidewalk in the sun looking at me like there was nothing better in the world."
 
 After that there was no slow left in him.
 
