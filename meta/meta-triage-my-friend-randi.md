@@ -82,7 +82,9 @@ don't re-litigate.
   damage the mechanism.
 
 - **The black heels handoff** ("Randi always knew the shoes"; Vee "past looking at
-  anything"). gpt-5.6-sol found the handoff suspiciously deliberate; claude-fable-5
+  anything" — that clause is gone since `fde34cd0`: Vee now *looks*, the
+  stiletto and the straps, and her body answers, which she puts down to the
+  shoes and tonight; author kept the cut 2026-10-12). gpt-5.6-sol found the handoff suspiciously deliberate; claude-fable-5
   called it "the peak of the dread." **Working as designed and architecturally
   load-bearing** — verified against canon 2026-07-30: it is a rung in the
   year-long shoe-loan motif (first loan in {{Broken In}}), Randi selects from her
