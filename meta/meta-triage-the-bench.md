@@ -405,6 +405,10 @@ weight them below the others. Removed models' reads are not consulted
   rounds; Opus down-weighted; the cycle is Pace. Stands.
 - **Daphne paragraph "inserted / a tidy lesson"** — Opus 4.8 only, three
   rounds; Sol, GLM, Kimi, GPT-5.5 credit it as earned. Stands.
+  **2026-10-12, reading-effort blind panel:** 2 of 5 readers (both cost 1)
+  paused at the bare name before the next sentence placed her. Stands — the
+  pause is the seed; labelling her would be the hand on the shoulder this
+  paragraph survives by not giving.
   **2026-09-29, line-editor persona on fable-5-1** re-raised it as the
   "pre-approved boyfriend" (the paragraph supplies the justification for the
   not-knocking before the reader can judge it; "I haven't decided about Pace

@@ -60,7 +60,7 @@ She ate several slices like that. Bite, kiss, bite. She finished each one, feedi
 
 Then the eating changed. She nipped at the slice in her hand, toying with it instead of eating it. He had been watching her eat, and he caught the moment it turned to play, and his hands started to move.
 
-Not lower — up. Slow along her sides, from the hips up over the ribs under the cardigan and down again, one unhurried pass and then another, each time turning back a little higher, a little nearer the soft weight at the sides of her breasts, and each time leaving again before it arrived. He was in no hurry about it at all. He was, plainly, enjoying himself.
+Not lower — up. Slow along her sides, from the hips up over the ribs under the cardigan and down again, one unhurried pass and then another, each time reaching a little higher before turning back, a little nearer the soft weight at the sides of her breasts, and each time leaving again before it arrived. He was in no hurry about it at all. He was, plainly, enjoying himself.
 
 She caught him at it on the third pass. "You're doing that on purpose," she said, around the apple, not quite a complaint.
 
@@ -168,7 +168,7 @@ He slid one hand down between her legs, over the bare waxed cleft, already gleam
 
 She had buffed and polished herself to a high gloss. Under his hands she was warm, and breathing, and flushed everywhere he had touched.
 
-He took one of her hands out from behind her back and kissed the tip of each finger. The nails were bare, unpainted, perfect. Nothing like the blue lacquer on the toenails, still up in the heels he had not taken off — a blue that favored her eyes, not the sorority pink or French tips. The one small place she let herself step out of line. He liked her feet. He had not yet told her that.
+He took one of her hands out from behind her back and kissed the tip of each finger. The nails were bare, unpainted, perfect. Nothing like the blue lacquer on the toenails, still in the heels he had not taken off — a blue that favored her eyes, not the sorority pink or French tips. The one small place she let herself step out of line. He liked her feet. He had not yet told her that.
 
 He wanted, before the night was out, to take the gloss well past itself.
 
@@ -192,7 +192,7 @@ The dark walnut against her pale skin. The smell of the bench rose faintly in th
 
 He watched her hands settle into the grips — the whisper of skin on leather, the delicate knuckles whitening and then relaxing. Her knees found the leg supports. Her hips settled onto the pelvis support, her torso bridging the gap between them, unsupported, her breasts taking their own weight in the open air as she found the load. He watched her feel it: the shallowness of the shelf, the nothing under her. Her thighs parted as the leg supports took her weight, and each small adjustment told him what her body was learning about the position. Her ass — pale, bare — clenched and released as she searched for the position, the small involuntary tightenings of a body that did not yet know how to be still under what was about to happen to it.
 
-He adjusted the leg supports. The mechanisms had been his own design — well-oiled, silent, each piece moving under his hand with the precision of the thing he had made it to have. He widened them slowly until her thighs were apart enough that he could see all of her. The cleft between her legs opened, and the scent of her began to reach him, unmistakable, the sea in it. She made a sound.
+He adjusted the leg supports. The mechanisms had been his own design — well-oiled, silent, each piece moving under his hand with the precision he had built into it. He widened them slowly until her thighs were apart enough that he could see all of her. The cleft between her legs opened, and the scent of her began to reach him, unmistakable, the sea in it. She made a sound.
 
 He set his palm flat against the small of her back and slid it slowly down to the curve of her ass and lifted it.
 
@@ -346,7 +346,7 @@ She made a soft sound against his face.
 
 "You are," he said. "You are doing so well."
 
-He took his hand from her breast. He went back behind her. He struck her again, lower, at the base of her right cheek. She cried out and the cry was not a trained cry, the cry was a *sound from her*, and he heard it land and he heard himself want to hear it again, and he soothed her and waited and hit her again to hear her make it again, and she did.
+He took his hand from her breast. He went back behind her. He struck her again, lower, at the base of her right cheek. She cried out, and the cry was not a trained cry; the cry was a *sound from her*. He heard it land and he heard himself want to hear it again. He soothed her and waited and hit her again to hear her make it again, and she did.
 
 He bent and pressed his face against the curve of her ass where it was hottest and kissed her there, his mouth against the heat his own hand had made. She gasped.
 
@@ -386,9 +386,9 @@ She did not say anything for a long moment. The breathing he could hear from her
 
 "Take your time," he said.
 
-She took her time. He could see, in the small movements of her face which was at the low point and turned sideways now, that she was trying to find the surface she could not find. There was a script for it: you turned the heat up, you pouted, you made him want you so badly he gave you what you wanted as proof of his desire. It was the script for the *wanted* position, and she had spent her whole adult life there. The bench was not there.
+She took her time. Her face was upside-down in the cradle, and he could see in its small movements that she was trying to find the surface she could not find. There was a script for it: you turned the heat up, you pouted, you made him want you so badly he gave you what you wanted as proof of his desire. It was the script for the *wanted* position, and she had spent her whole adult life there. The bench was not there.
 
-She could not pout her way back. She could not turn the heat up; the heat was already at maximum, and the maximum was below her, where she was. Her hands had begun to worry the grips, a woman reaching for a handle that had always been there and not finding it.
+She could not pout her way back. She could not turn the heat up; the heat was already at maximum, and the hand on it was not hers. Her hands had begun to worry the grips, a woman reaching for a handle that had always been there and not finding it.
 
 He waited.
 
@@ -500,7 +500,7 @@ She looked at her eyes. They had been somewhere they had not been before, and sh
 
 Under the smile, inseparable from it, was the other fact: she had been more alive on that bench than she could remember being anywhere, ever — the whole length of her awake at once, the aliveness ecstatic and terrifying in the same instant. And it had not come from her, and it had not come from anything he had done to her body. It had come from being seen. He had looked past the face — past the blue, past the surprise, past everything she had spent twenty-one years making sure was all there was to find. And found her. What happened after that had happened to *her*.
 
-Nothing ever happened to her. That was what the face was for. The face took the being-looked-at, the being-wanted, the being-touched, and none of it reached any further than the face, because the face was not her, and what was not her could be given away all day and cost nothing. She had been perfect, and perfect was safe, and safe had held until a man watched her instead of the face and waited for her to come out from behind it.
+Nothing ever happened to her. That was what the face was for. The face took the being-looked-at, the being-wanted, the being-touched, and none of it reached any further than the face, because the face was not her. What was not her could be given away all day and cost nothing. She had been perfect, and perfect was safe, and safe had held until a man watched her instead of the face and waited for her to come out from behind it.
 
 She had come out. She had begged. And he was in the next room right now, waiting to be tender with her — not with the face, with *her*, the one he had found — and that was the thing that could not happen. Tenderness was something the face received and passed inward, in amounts she decided. Out there tonight there would be no deciding. There would be being seen, and being held while seen, and she could not. She could not.
 

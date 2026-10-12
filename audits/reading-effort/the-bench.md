@@ -5,16 +5,16 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 
 ## Summary
 
-- 643 narration sentences, 9702 words
+- 646 narration sentences, 9691 words
 - prose inside a flagged sentence: 29.2% (corpus 44.1%)
 - chain: 6 sentences (0.9%, corpus 2.0%)
-- nest: 9 sentences (1.4%, corpus 2.6%)
+- nest: 10 sentences (1.5%, corpus 2.6%)
 - front: 5 sentences (0.8%, corpus 2.2%)
 - hold: 38 sentences (5.9%, corpus 9.6%)
 - suspend: 7 sentences (1.1%, corpus 1.3%)
 - strand: 3 sentences (0.5%, corpus 1.8%)
 - pp: 16 sentences (2.5%, corpus 4.2%)
-- split: 10 sentences (1.6%, corpus 3.9%)
+- split: 10 sentences (1.5%, corpus 3.9%)
 
 ## Worklist — 12 open, 5 left standing
 
