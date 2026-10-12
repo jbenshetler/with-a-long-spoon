@@ -1202,3 +1202,5 @@ How to use it, provisionally:
 | 2026-10-11 | ch3 the-pointing-game | frame restored (A), read 2 | 16 | 9.06 | 9.50 | same text as read 1; kept |
 | 2026-10-12 | ch3 the-pointing-game | :49 full (four statements of the move) | 16 | 8.94 | 9.38 | 2 complaints on the caption, 0 ALMOST-STOPPED |
 | 2026-10-12 | ch3 the-pointing-game | :49 one statement (version a) | 16 | 8.94 | 9.38 | 1 ALMOST-STOPPED on it; 14/16 restate the move in their own words (full version: 13/16) |
+| 2026-10-12 | ch55 nothing-underneath | door-line + "Vee, I—" (standing gates, mixed read dates) | 16 | 9.25 | 8.88 | baseline; 4 readers quote the door-line feeling December come back |
+| 2026-10-12 | ch55 nothing-underneath | no door-line; "Vee, I l—", Vee reads the wall | 16 | 9.25 | 8.88 | 16/16 quote "l—"; 15/16 hear *love*, fable rg holds it open; 3 ALMOST-STOPPED on it (at 8, 9, 10) |

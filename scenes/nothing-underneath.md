@@ -58,23 +58,17 @@ The cold took her legs. She went up to the door in the heels, careful on the gra
 
 The porch light flicked on, the lock turned. He opened the door.
 
-He was in the jeans and the t-shirt still, or again, and the light from behind him put his face half in the dark, the horn going low somewhere. She watched him place her, watched him go still with it, and then the courtesy came down over him like a thing reached for in a hurry.
+He was in the jeans and the t-shirt still, or again, and the light from behind him put his face half in the dark, the horn going low somewhere. She watched him place her, watched him go still with it. Pain came into his face first, and she knew that one. Then something else came over it, and his hand came off the frame of the door, and she knew that too: the wall, coming up.
 
-"It's late," he said. "Is everything alright?"
+"Vee, I l—"
 
-The formal voice. The same one from December, when she'd asked him to name her.
-
-Then something went through his face, and his hand came off the frame of the door.
-
-"Vee, I—"
-
-She did not say anything at all. She had imagined this a dozen times since the afternoon and there was no version of it in which she stood on his step and talked. She had brought something he could not refuse.
+She did not let him finish. She had imagined this a dozen times since the afternoon and in none of them did she stand on his step and hear him out. She had brought something he could not refuse.
 
 She reached up and undid the top button, and the next, and the rest, her cold fingers steady enough, and she took the two edges of the coat in her hands and opened it.
 
 The cold hit all of her at once and she let it. She stood in his doorway in the black heels with the coat held open and gave him the whole of her, pale in the spill of the lamp. For once she was not the one being shown; she was the one showing, and she watched what it did to him.
 
-He stared. For a moment, two, he did not move at all, and nothing formal was left anywhere in his face; the wall was simply gone, taken down all at once by what she'd done, and what stood under it was so plainly glad and so plainly wrecked that her throat closed on it. He looked at her like a starving man, and he looked at her like a man just told he is forgiven, and the two were one look.
+He stared. For a moment, two, he did not move at all, and the wall was simply gone, taken down all at once by what she'd done, and what stood under it was so plainly glad and so plainly wrecked that her throat closed on it. He looked at her like a starving man, and he looked at her like a man just told he is forgiven, and the two were one look.
 
 Then he moved. His arms came around her bare waist inside the coat and pulled her in against him, all of her skin against the worn cotton and the denim, warm where she was cold, and his breath went out of him into her hair as she came in, all those weeks of it in one breath. He kissed her. It was neither careful nor a first kiss; it was a kiss with all the missing in it, and she gave it back with hers, up on the hard little heels with her arms coming around his neck and the cold night air still finding her bare sides where the coat hung open.
 

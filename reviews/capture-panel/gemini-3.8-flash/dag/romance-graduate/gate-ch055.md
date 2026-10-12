@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f826ef7f399d · 2026-10-11*
+*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1e04263f57c9 · 2026-10-12*
 
-REACTION
+REACTION:
 
-God, the sheer, breathtaking, tragic *relief* of this chapter. I have goosebumps, and I’m so completely turned on, and at the exact same second my heart is breaking into a million jagged pieces for her.
+Oh, god. My chest hurts. This chapter is an absolute masterclass in thrilling, gut-twisting, utterly devastating tragedy disguised as a triumphant romantic reunion. I was gripping my Kindle so hard my knuckles were white.
 
-Because what a scene. What an absolute, five-alarm, filthy, gorgeous scene. The build-up in her room—standing in front of that mirror on Randi’s absurd, weaponized heels, touching herself and leaving it unfinished on purpose because she wanted to carry the ache to him like an unexploded bomb—was incredible. And then the car! Touching herself on an empty highway, getting terrified by the cop car, and leaving a literal wet mark on the satin lining of her church coat? Vee, you absolute madwoman. It was so bold and so desperate and so hot. And the doorstep—standing there bare under the wool in the January wind, him dropping right onto the freezing boards to put his mouth on her while her nipples went stiff in the cold air, carrying her inside with his pants around his thighs, the door banging open in the dark... it gave me everything I wanted from their reunion physically. The raw hunger was completely off the charts.
+First of all: the sheer, reckless, feral heat of her getting ready. Vee edging herself in the mirror, leaving herself completely unspent, putting on Randi’s lethal cage heels *first*, and walking out into a freezing January night wearing literally nothing but an olive wool coat. The insane tension of her touching herself at sixty miles an hour on a dark country road, nearly getting pulled over by a cop—my heart was in my throat! It was hot, it was desperate, it was so deeply, authentically *Vee* leaning into the intoxicating power of her own body because her mind had completely exhausted itself with grief.
 
-And yet.
+And then the doorstep. Pace opening the door with that tortured horn music drifting from the back of the house (because of course he was mourning her in the dark!), and the absolute kill shot of what he started to say: *"Vee, I l—"*.
+HE WAS GOING TO SAY IT.
+HE WAS GOING TO SAY *I LOVE YOU*. He literally spent the previous chapter crying over cold chicken and realizing that withholding the words was cowardice, and the exact second she appears on his porch, the words rose to his lips. And what does Vee do? Driven by Randi’s poisonously brilliant advice that "words are the war," Vee cuts him off and flashes him.
 
-The tragedy of it. The devastating, sickening irony of this entire setup. *Randi built this.* Randi handed her the script, Randi handed her the shoes, Randi told her "don't use words, words are the whole war," and Vee marched right out into the night and surrendered the entire battle. She gave up the words! In December she walked out with her spine straight because she demanded to be named, and tonight she traded every single boundary she fought for in exchange for midnight pancakes, a warm blanket, and him crying into her lap.
+I could scream. I could actually scream into a pillow. It’s so brilliantly awful! Randi told her to weaponize her body to bypass the conversation, and Vee did it so effectively that she accidentally silenced the very declaration she starved for all break!
 
-He didn't say the word. He said *I'm sorry*, he said *I missed you*, he made her food, he dropped to his knees—and he *still did not name her*. She literally did the math: *"tonight there was no room in her for wanting anything he hadn't given."* She starved for a month, and the second he tossed her a warm bite, she folded.
+And the sex on the doorstep and the couch—filthy, ravenous, completely unhinged. The cold air biting her wet nipples while he’s on his knees worshiping her, lifting her whole weight, slamming into her while the front door literally bangs open against the winter wind. It was gorgeous and animalistic. And then the post-coital fall: he makes her pancakes from scratch, he gets on his knees, his voice breaks, he apologizes... and she feels full. She feels completely fed.
 
-And the shoes! "Those stay on." Pace demanding she keep Randi’s shoes on while she eats his food, naked under a blanket, while neither of them has breathed Randi's name out loud. Randi is literally the phantom architect of their entire reconciliation. And Cassie at the end—just looking up from her book, clocking the rolled sweatpants and the ridiculous dominatrix heels, hitting her with that dry, surgical *"Hmm"*... God, Cassie sees straight through the circus.
+Except the trap has completely reset. He *still* didn't say the words. He didn't say "I love you," he didn't say "girlfriend," he just tucked her under a blanket and fed her butter and syrup. And she walks back into her dorm on Sunday night wearing his oversized sweats and *Randi's shoes*, feeling triumphant, while Cassie just gives her that devastating, surgical *"Hmm."*
 
-I’m fed, I’m thoroughly shaken, and I’m terrified for the moment the high wears off and Vee realizes she’s right back in the exact same cage, only now she gave away her own key.
-
-***
+Cassie knows. I know. Vee just traded her hard-won boundaries for midnight pancakes and an orgasm. She thinks she won, but she just walked right back into the golden cage wearing the other warden's stilettos. Tuesday morning anthropology with Randi is going to be a bloodbath. I need the next chapter right this second.
 
 GATE 55 — Nothing Underneath
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The erotic tension of the coat-and-heels gambit was unmatched, and the tragic irony of her folding on the words just to be fed again is utterly gripping. I need to see the fall-out when classes start.
+WHY: The agony of Vee cutting off his "I l—" with her bare body is the most breathtaking, gut-wrenching dramatic irony this book has pulled off yet. The heat was scorching, the emotional stakes are terrifying, and I am utterly hooked.

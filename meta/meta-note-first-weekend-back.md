@@ -42,9 +42,9 @@ The surrender is rendered across the **gap between the December rupture and the 
 
 ## Pace (the guard that makes or breaks it)
 
-- **His cold is fear, never strategy.** The stress-tell: warm/present tightens into precise, formal, over-articulate under emotional stress; render in dialogue, not exposition. In December ({{Believe Me}}) he is wrecked too — folding his arms on a line he holds at cost, missing her and terrified of exactly that (the same wound that won't let him declare); at the night door his one distancing line is that same fear, not a verdict. He does **not** withhold to teach her a lesson or to make her come crawling. **With `The Stranger` cut, the sharpest manipulator-read risk — the morning erasure — is gone;** what remains is the December wall and one courteous door-line, both fear. If the reunion ever read *he stonewalled her until she came back naked*, he'd be a manipulator and it would be broken — the cut is what buys that margin back.
+- **His cold is fear, never strategy.** The stress-tell: warm/present tightens into precise, formal, over-articulate under emotional stress; render in dialogue, not exposition. In December ({{Believe Me}}) he is wrecked too — folding his arms on a line he holds at cost, missing her and terrified of exactly that (the same wound that won't let him declare); at the night door there is no distancing line now (author 2026-10-12): pain, then something else in his face, his hand off the door frame, and *"Vee, I l—"* — which Vee reads as the wall coming up and cuts off with the coat. He does **not** withhold to teach her a lesson or to make her come crawling. **With `The Stranger` cut, the sharpest manipulator-read risk — the morning erasure — is gone;** what remains is the December wall, which is fear; the door-line is gone. If the reunion ever read *he stonewalled her until she came back naked*, he'd be a manipulator and it would be broken — the cut is what buys that margin back.
 - **The warmth-after is not a reward for submission.** What moves him is her **willing self-transgression** — the thing his architecture feeds on — and, simultaneously and without a seam, genuine being-undone that she came and offered the thing that costs her most. The body reopened the channel he is fluent in; he is not collecting a prize. Real AND instrumental, never resolved, no tell. The reader falls for him here as hard as Vee does.
-- **He gives no answer here.** The non-declaration vow holds all year. He does not name her, does not reach for *what are you to me*. Leaving the breach fully open is structurally required: the **Cabin key** is his eventual object-answer (soothes, never closes), and the peaches dinner reopens the wound. If Pace answers here, the key has nothing to soothe.
+- **He gives no answer here.** The non-declaration vow holds all year — on the step it slips (*"Vee, I l—"*) and Vee stops it, so the word is never said. He does not name her, does not reach for *what are you to me*. Leaving the breach fully open is structurally required: the **Cabin key** is his eventual object-answer (soothes, never closes), and the peaches dinner reopens the wound. If Pace answers here, the key has nothing to soothe.
 
 ## The afterglow (the lie, rendered not stated)
 
@@ -145,7 +145,7 @@ more and still did not say it. It also makes the following beat truer — *"ther
 no room in her for wanting anything he hadn't given"* — because he gave more.
 
 **Nothing connects the two beats on the page.** Vee does not know what he started
-to say on the step, so she cannot narrate the link; no *"the thing he'd tried to
+to say on the step (she took it for the wall; the reader hears *l—*), so she cannot narrate the link; no *"the thing he'd tried to
 say."* The reader makes it alone. **Do not join them.**
 
 **Why this needed no Pace/Randi scene.** A January Pace/Randi beat was workshopped

@@ -194,7 +194,7 @@ Separate from the chivalric grammar; operating below it; older. The mother suppl
 
 The vow is self-protection. The one time Pace said the words, Daphne said them back, left anyway, and her departure consumed his life. He falsely believes that if he keeps the love unspoken, another loss may hurt but cannot take him over in the same way.
 
-By {{Seconds}}, he knows what Vee is offering, knows he loves her, and wants to answer. He deliberately says around it, feels guilty and weak for doing so, and protects himself anyway. The vow holds throughout the year and never produces a declaration. He sees the immediate cost; what his after-register still fails to assemble is the full shape that cost will make in Vee and in their future.
+By {{Seconds}}, he knows what Vee is offering, knows he loves her, and wants to answer. He deliberately says around it, feels guilty and weak for doing so, and protects himself anyway. The vow holds throughout the year and never produces a declaration. It slips once, involuntarily, with no demand in play: on the doorstep at {{Nothing Underneath}}, at the sight of her after the silence, he gets as far as *"Vee, I l—"* and she stops him, misreading his face as the December wall coming back up. The word is legible to the reader and never to her (author 2026-10-12). He sees the immediate cost; what his after-register still fails to assemble is the full shape that cost will make in Vee and in their future.
 
 The vow gives him his story afterward. *I was protecting myself. I did not lie.* He can know the immediate failure and still believe the silence limited the damage. He never sees that the vow was the wound.
 

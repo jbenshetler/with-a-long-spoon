@@ -150,7 +150,9 @@ rationale**, so later passes don't re-litigate.
   2026-07-30: keep.** Randi primed Vee the previous chapter to view Pace as
   barely holding the line — the clause is Randi's construction running in
   Vee's head, not the narrator explaining Pace; on reread it is another Randi
-  fingerprint. Do not trim.
+  fingerprint. Do not trim. **Superseded** by `14e4e413` (2026-10-07), which
+  cut it when Pace's reach was added (the reader already knows the wall is
+  false); confirmed by the author 2026-10-12, when the door-line went too.
 
 - **Pace's two `unhurried`s** (doorstep descent; the easing-down at her
   breasts). Linter warns, no reviewer friction. Author reviewed 2026-07-30 and
@@ -222,8 +224,12 @@ rationale**, so later passes don't re-litigate.
   novel's argument about her in one line). Unanimous erotic peak.
 - "He looked at her like a starving man, and he looked at her like a man just
   told he is forgiven, and the two were one look" — all four quoted it.
-- The wordless answer to December — buttons instead of words; "It's late. Is
-  everything alright?" as the wall's one line before it falls.
+- The wordless answer to December — buttons instead of words. ("It's late. Is
+  everything alright?" was protected here as the wall's one line before it
+  falls; **cut by the author 2026-10-12** for the *"Vee, I l—"* doorstep, with
+  the praise tally — four ch55 capture readers quoting the line, fable-5-1 and
+  opus-5-5 feeling December "come back up" — set against it after the fact.
+  The A/B capture read of the new doorstep is the check.)
 - "I missed you so much" with the cracked voice + midnight pancakes ("made and
   not poured") — several readers over the sex itself.
 - The name "Vee" landing where December's wasn't enough — and the preserved
