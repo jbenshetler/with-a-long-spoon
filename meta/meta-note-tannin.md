@@ -62,7 +62,11 @@ sites cut, 44 words; 1,077 → 1,033.
   step between them said out loud.
 - In the first body tell: *"He knew what it was."* (grades his accuracy, where
   the next sentence demonstrates it); *"It had grown"* (restates *"it was larger
-  now"*); and *"plainly"* (the narrator vouching for him). The reading itself
+  now"*); and *"plainly"* (the narrator vouching for him) — **restored
+  2026-10-12** (author, after a praise check: two readers quoted *"glad of it,
+  plainly"* verbatim, deepseek as "the engine of the scene," fable-5-1 as "not
+  smug, happy"; the adverb makes the gladness unguarded rather than
+  calculated, and is not a second statement). The reading itself
   and *"he had done nothing to grow it but leave it alone"* — the only new
   information in the tail — are untouched.
 - In the second body tell, the misread: the explanatory bridge *"Held harder
@@ -80,8 +84,9 @@ the late smile had done it." It also praised the close as earned and un-gilded.
 
 **Cost, recorded.** `deepseek-v4-pro-0813`'s cold read quoted the cut bridge
 sentence and built its reading from it, and quoted *"glad of it, plainly"* as
-"the engine of the scene." The gladness survives; the bridge and the adverb do
-not. The line editor's complaint names the clause that was **kept**, so that
+"the engine of the scene." The gladness survives, with its adverb restored;
+the bridge stays cut (author, 2026-10-12: *"it was larger now"* already gives
+the lawn comparison and the growth). The line editor's complaint names the clause that was **kept**, so that
 objection is not fully answered and may return.
 
 **Flagged, not ruled — the condensed doc's "what only this chapter

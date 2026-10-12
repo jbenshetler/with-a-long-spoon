@@ -32,7 +32,7 @@ Her weight on his thighs, the soft heavy give of her in his hands, the heat of t
 
 "She built a cup," he said, "like nobody had ever told her when to stop."
 
-He felt it before her face did anything — under his hands first, her breasts pressing harder into his palms as she leaned, then the insides of her thighs going tight against his and staying tight, a gathering low in her where she sat on him, the readiness he knew from the floor and from his own bed. Then the face, a half-beat behind, the thing at her mouth from the quad when her stride had dropped out from under her, there and covered. He had felt it on the lawn, the size of it, and it was larger now, and he had done nothing to grow it but leave it alone, and he was glad of it, that she had come here tonight wanting to hear about a girl.
+He felt it before her face did anything — under his hands first, her breasts pressing harder into his palms as she leaned, then the insides of her thighs going tight against his and staying tight, a gathering low in her where she sat on him, the readiness he knew from the floor and from his own bed. Then the face, a half-beat behind, the thing at her mouth from the quad when her stride had dropped out from under her, there and covered. He had felt it on the lawn, the size of it, and it was larger now, and he had done nothing to grow it but leave it alone, and he was glad of it, plainly, that she had come here tonight wanting to hear about a girl.
 
 "Did she eat all of it?" she said.
 
