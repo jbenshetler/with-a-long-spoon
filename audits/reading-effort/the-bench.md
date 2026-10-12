@@ -5,47 +5,47 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 
 ## Summary
 
-- 644 narration sentences, 9680 words
-- prose inside a flagged sentence: 29.0% (corpus 44.6%)
-- chain: 6 sentences (0.9%, corpus 2.1%)
-- nest: 9 sentences (1.4%, corpus 2.7%)
+- 643 narration sentences, 9702 words
+- prose inside a flagged sentence: 29.2% (corpus 44.1%)
+- chain: 6 sentences (0.9%, corpus 2.0%)
+- nest: 9 sentences (1.4%, corpus 2.6%)
 - front: 5 sentences (0.8%, corpus 2.2%)
-- hold: 37 sentences (5.7%, corpus 9.8%)
-- suspend: 7 sentences (1.1%, corpus 1.4%)
+- hold: 38 sentences (5.9%, corpus 9.6%)
+- suspend: 7 sentences (1.1%, corpus 1.3%)
 - strand: 3 sentences (0.5%, corpus 1.8%)
 - pp: 16 sentences (2.5%, corpus 4.2%)
-- split: 10 sentences (1.6%, corpus 4.0%)
+- split: 10 sentences (1.6%, corpus 3.9%)
 
 ## Worklist — 12 open, 5 left standing
 
-### `[#42c011446d3a]` the-bench.md:251 — score 8.3
+### `[#42c011446d3a]` the-bench.md:253 — score 8.3
 
 `56w · open 7 · depth 2 · mdd 3.56` — suspend, hold
 
 > He took the second foot in both hands — the arch warm, fine-boned, the blue-polished toes curling once at the touch and releasing — and drew the heel off and set it beside the first, and held her bare foot in his palms a moment, the pale skin of the ankle where the strap had pressed.
 
 - **suspend**: interrupted 1×; longest 16 words held, resumes at “and drew the heel off and…”
-- inspect: `tools/reading_effort.py the-bench --explain 251`
+- inspect: `tools/reading_effort.py the-bench --explain 253`
 
-### `[#c5527f24450c]` the-bench.md:213 — score 7.6
+### `[#c5527f24450c]` the-bench.md:215 — score 7.6
 
 `26w · open 7 · depth 1 · mdd 4.16` — suspend, hold
 
 > He ran his hand back down her spine to the same place — the skin warmer now than when he had first touched it — and stayed there.
 
 - **suspend**: interrupted 1×; longest 11 words held, resumes at “and stayed there…”
-- inspect: `tools/reading_effort.py the-bench --explain 213`
+- inspect: `tools/reading_effort.py the-bench --explain 215`
 
-### `[#d9b7c9d62433]` the-bench.md:331 — score 7.5
+### `[#d9b7c9d62433]` the-bench.md:333 — score 7.5
 
 `37w · open 7 · depth 1 · mdd 3.39` — suspend, hold
 
 > He hit her — hard, on the high point, where it would sting brightest — and she cried out, the cry stretching into something past surprise, and he soothed the place with his palm and bent and kissed it.
 
 - **suspend**: interrupted 1×; longest 10 words held, resumes at “and she cried out the cry…”
-- inspect: `tools/reading_effort.py the-bench --explain 331`
+- inspect: `tools/reading_effort.py the-bench --explain 333`
 
-### `[#65818558d33f]` the-bench.md:529 — score 7.5
+### `[#65818558d33f]` the-bench.md:531 — score 7.5
 
 `31w · open 6 · depth 5 · mdd 2.57` — chain, split
 
@@ -53,25 +53,25 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 
 - **split**: opens on “and” after a 21-word sentence
 - **chain**: idea passed down 5 clause levels
-- inspect: `tools/reading_effort.py the-bench --explain 529`
+- inspect: `tools/reading_effort.py the-bench --explain 531`
 
-### `[#27f676529c1f]` the-bench.md:245 — score 7.2
+### `[#27f676529c1f]` the-bench.md:247 — score 7.2
 
 `48w · open 7 · depth 2 · mdd 3.79` — suspend, hold
 
 > He put his palm against her cheek — hot, slightly damp, the fine bone under it — and with his other hand stroked the hair back from her face and combed his fingers through to her scalp and stayed there, the nails just grazing, as he knew she liked it.
 
 - **suspend**: interrupted 1×; longest 8 words held, resumes at “and with his other hand stroked…”
-- inspect: `tools/reading_effort.py the-bench --explain 245`
+- inspect: `tools/reading_effort.py the-bench --explain 247`
 
-### `[#45f4dd64b6c7]` the-bench.md:509 — score 6.0
+### `[#45f4dd64b6c7]` the-bench.md:511 — score 6.0
 
 `54w · open 6 · depth 5 · mdd 2.36` — chain
 
 > Pace looked up from where he was sitting on the bed and smiled back at her, warm, unguarded, the smile of a man who had just had a beautiful night with a beautiful woman and was deciding whether to ask if she wanted to stay or whether to ask if she wanted dinner first.
 
 - **chain**: idea passed down 5 clause levels
-- inspect: `tools/reading_effort.py the-bench --explain 509`
+- inspect: `tools/reading_effort.py the-bench --explain 511`
 
 ### `[#82d1507cf2df]` the-bench.md:11 — score 4.0
 
@@ -82,43 +82,43 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 - **strand**: “money …” → “bag” (21 words back, past the clause at “were”)
 - inspect: `tools/reading_effort.py the-bench --explain 11`
 
-### `[#bdd933080aa8]` the-bench.md:45 — score 4.0
+### `[#bdd933080aa8]` the-bench.md:47 — score 4.0
 
 `32w · open 5 · depth 3 · mdd 2.52` — strand
 
 > She did it as she did everything in his house lately, with the concentration of a woman doing what her body knew how to do and finding it had stopped being that.
 
 - **strand**: “with …” → “did” (11 words back, past the clause at “did”)
-- inspect: `tools/reading_effort.py the-bench --explain 45`
+- inspect: `tools/reading_effort.py the-bench --explain 47`
 
-### `[#bff41b4de5a2]` the-bench.md:529 — score 4.0
+### `[#bff41b4de5a2]` the-bench.md:531 — score 4.0
 
 `21w · open 4 · depth 1 · mdd 2.2` — strand
 
 > She lay there with her eyes closed, against the warmth of his shoulder, while he held her, quietly happy about her.
 
 - **strand**: “held …” → “lay” (16 words back, past the clause at “closed”)
-- inspect: `tools/reading_effort.py the-bench --explain 529`
+- inspect: `tools/reading_effort.py the-bench --explain 531`
 
-### `[#d21d79dbb348]` the-bench.md:151 — score 3.0
+### `[#d21d79dbb348]` the-bench.md:153 — score 3.0
 
 `26w · open 6 · depth 4 · mdd 2.32` — chain
 
 > By the end of that night she had begun to understand that he wanted to look at her as she had not been looked at before.
 
 - **chain**: idea passed down 4 clause levels
-- inspect: `tools/reading_effort.py the-bench --explain 151`
+- inspect: `tools/reading_effort.py the-bench --explain 153`
 
-### `[#25eeea6356dd]` the-bench.md:275 — score 3.0
+### `[#25eeea6356dd]` the-bench.md:277 — score 3.0
 
 `26w · open 5 · depth 4 · mdd 2.52` — chain
 
 > He kept going, varying the rhythm and placement, strikes and then touch and then strikes again, until she stopped being able to tell which was coming.
 
 - **chain**: idea passed down 4 clause levels
-- inspect: `tools/reading_effort.py the-bench --explain 275`
+- inspect: `tools/reading_effort.py the-bench --explain 277`
 
-### `[#9270e2a38aaa]` the-bench.md:277 — score 3.0
+### `[#9270e2a38aaa]` the-bench.md:279 — score 3.0
 
 `28w · open 4 · depth 4 · mdd 2.11` — chain
 
@@ -126,12 +126,12 @@ _Decisions go in `audits/reading-effort/rulings.toml` via `--ack --fp <hash> --n
 
 - **chain**: idea passed down 4 clause levels
 - **note**: parser could not resolve the main verb; structural numbers approximate
-- inspect: `tools/reading_effort.py the-bench --explain 277`
+- inspect: `tools/reading_effort.py the-bench --explain 279`
 
 ## Left standing
 
-- `[#044ed9e48bfc]` the-bench.md:67 — Author ruling 2026-10-04: stands. The strand is a parse artifact (the absolute attaches to 'leaned', not 'narrowed'); the dash is a colon, not a hold. One reader, cost 1, on the point/pass wordplay that is the beat.
-- `[#409c1d94a67a]` the-bench.md:187 — Author ruling 2026-10-03: stands. Ten-word interruption is his reading of the held noun (the unsteadiness: nerves). The 68 words are the mounting as one continuous handoff; seaming after the dash would separate the seeing from the acting.
-- `[#42650f5e2ff2]` the-bench.md:447 — Author ruling 2026-09-20: stands. The 26-word interruption is a single smooth appositive with no internal branching, and none of the three blind readers (claude-sonnet-5, glm-5.3, gpt-5.6-sol) registered it as work. Largest suspension in the chapter; suspension LENGTH alone is not the signal.
-- `[#9a97ae681ba6]` the-bench.md:453 — Author ruling 2026-10-04: stands. The dash is a self-correction (thought → known) and the chain is that correction plus its reason. No reader flagged it.
-- `[#5b5f86b34098]` the-bench.md:503 — Author ruling 2026-10-01: stands. The eleven-word interruption (not with the face, with her, the one he had found) IS the sentence's meaning — the distinction 'could not happen' attaches to. Releasing it would make a third sentence-initial And in four lines. No reader flagged it.
+- `[#044ed9e48bfc]` the-bench.md:69 — Author ruling 2026-10-04: stands. The strand is a parse artifact (the absolute attaches to 'leaned', not 'narrowed'); the dash is a colon, not a hold. One reader, cost 1, on the point/pass wordplay that is the beat.
+- `[#409c1d94a67a]` the-bench.md:189 — Author ruling 2026-10-03: stands. Ten-word interruption is his reading of the held noun (the unsteadiness: nerves). The 68 words are the mounting as one continuous handoff; seaming after the dash would separate the seeing from the acting.
+- `[#42650f5e2ff2]` the-bench.md:449 — Author ruling 2026-09-20: stands. The 26-word interruption is a single smooth appositive with no internal branching, and none of the three blind readers (claude-sonnet-5, glm-5.3, gpt-5.6-sol) registered it as work. Largest suspension in the chapter; suspension LENGTH alone is not the signal.
+- `[#9a97ae681ba6]` the-bench.md:455 — Author ruling 2026-10-04: stands. The dash is a self-correction (thought → known) and the chain is that correction plus its reason. No reader flagged it.
+- `[#5b5f86b34098]` the-bench.md:505 — Author ruling 2026-10-01: stands. The eleven-word interruption (not with the face, with her, the one he had found) IS the sentence's meaning — the distinction 'could not happen' attaches to. Releasing it would make a third sentence-initial And in four lines. No reader flagged it.

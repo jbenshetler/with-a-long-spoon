@@ -327,6 +327,7 @@ the book *and* densest — and is the obvious next sweep.
 | 2026-10-04 | `the-bench.md:255` | strand (appositive pair across a colon-dash), 0 readers. Author's own cut: "…caught and then released. It was the laugh of a woman…" — the dash keeps the sound, the judgment gets its sentence, the period enacts the release |
 | 2026-10-04 | `the-bench.md:471` | chain 4 on the smile — **standing** (self-correction, thought → known). Reader catch in the same paragraph, tool-invisible (sonnet, cost 1): *the sharp inner edge of it* — *it* read as the bottle, meant the cap → "of the cap" |
 | 2026-10-04 | `the-bench.md:527` | chain 4, 93w, 2/5 readers (her smile held through his). One seam at the look: her sentence, then his; the performed/genuine contrast now one smile per sentence |
+| 2026-10-12 | `the-bench.md:501` | panel 3/5, tool-invisible. *Nothing happened to her.* read as contradicting *had happened to her* one line up — tense, not volume. → *Nothing ever happened to her.* The paragraph's level was NOT reopened: triage rules the mechanism line load-bearing (do not re-raise) and the volume was already set after the 'too high a volume' panel note |
 
 ## Rulings
 
