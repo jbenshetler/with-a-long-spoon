@@ -20,7 +20,7 @@ The waitress came over — dark hair framing a tired face that had kept its smil
 
 While the griddle worked they talked about nothing that cost anything. He'd been to California in October for a conference — Sheri had never been west of Knoxville and wanted the whole of it; Berkeley, he said, was a made-up place, people who agreed about everything and dressed like they didn't. She laughed at that. School was thinner this term, part-time now that there was nobody behind her writing checks — she said it plainly and moved on before he could feel anything about it on her behalf.
 
-"Brooks and Dunn cover band's coming to the hall," she said. "First Saturday in February. You're coming."
+"Brooks and Dunn cover band's coming to the hall," she said. "Second Saturday in February. Valentine's weekend. You're coming."
 
 "Am I."
 

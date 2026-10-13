@@ -279,6 +279,6 @@ house, and you've got her. You need to choose."*
   reputation the right men marry."* The stakes stay **unspoken**: Brooke breaks off, in
   her mode (*"If she looked at me like that—"*), because Randi has lived in the house
   four years and needs nothing explained.
-- **Lauren Pike** (new canon): a former sister who left the house under this pressure.
+- **Lauren Pike** (new canon): a former sister who left the house under this pressure. Randi sat on the Standards board that pressed her out (author 2026-10-12); it surfaces as hall gossip at {{Inversion}}.
   Nobody asked her to go. She shows the pattern, and that the penalty is functional and
   real, not a threat.

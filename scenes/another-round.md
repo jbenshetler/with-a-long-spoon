@@ -90,7 +90,7 @@ Vee found she was holding her glass and not drinking it.
 
 The beers came down; the subject was already three fields over by the time he sat. That was the other thing Vee was learning about her, watching the pivot happen with no seam at all: the volume was real and the makeup was crooked, but there wasn't one uncalibrated thing about what Sheri chose to say and when.
 
-The dance came up, because with Sheri apparently everything came up. "Brooks and Dunn cover band, at the hall, Saturday next," she told Vee, peeling at her label. "He's coming — that got settled back in December, he knows it's settled." She looked up. "You're coming too. I told him then: he's dancing, and if the redhead had opinions about it she could bring them to the hall." A tip of the bottle at her. "Bring your opinions."
+The dance came up, because with Sheri apparently everything came up. "Brooks and Dunn cover band, at the hall, Valentine's Saturday," she told Vee, peeling at her label. "He's coming — that got settled back in December, he knows it's settled." She looked up. "You're coming too. I told him then: he's dancing, and if the redhead had opinions about it she could bring them to the hall." A tip of the bottle at her. "Bring your opinions."
 
 "I—" Vee looked at Pace, who was looking at Sheri with something suspiciously like resignation, and felt the evening tip her another inch toward joy. "I'd love that."
 
