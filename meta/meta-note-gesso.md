@@ -24,15 +24,18 @@ Randi simply does not agree that it is gross. That non-agreement is the second s
 
 ## Beat spine
 
-1. Vee brings out and shows the explicit photograph.
-2. Randi looks and asks, **“Gesso?”**
-3. Vee calls out the *barely stings* lie; Randi gives the pleasure-over-pain answer.
-4. Vee recounts {{Still Life}} and the {{Missed a Spot}} refusal without relitigating the complete sex choreography.
+*Order and the return/exit beats: author 2026-10-12. Venue: the green-velvet place.*
+
+1. Vee calls out the *barely stings* lie; Randi gives the pleasure-over-pain answer.
+2. Vee recounts {{Still Life}} and the {{Missed a Spot}} refusal without relitigating the complete sex choreography, holding the photograph back.
+3. Randi catches the word and asks, **“Gesso?”**
+4. Randi: **“I bet you looked luscious. I wish I could have seen it.”** Vee goes shy; the shyness gives her away — **“You have a photo!”** Randi coaxes it. Vee decides to show it because not showing it would be sexualizing her friend — render that reasoning on the page, in Vee’s terms (she showed Randi the {{In His Hands}} nude without a thought; the only thing that has changed is her).
 5. Vee asks, **“Isn’t it gross?”** Randi does not agree.
-6. The charged talk sends Vee to the restroom. Keep the trip urgent, graceless, and compressed.
-7. At the peak, body before mind, desire’s object turns toward what Randi would taste like. The object arrives; Vee does not reason her way to it or explain it afterward.
-8. Vee returns disheveled and certain she looks guilty. Randi’s knowing, catlike smile is already present and locked; silence is more deniable than the earlier zingers and experientially less so.
-9. Vee leaves early rather than risk the goodbye hug and kiss she wants too much. The retreat is from closeness, not heat: attraction and the need for her friend remain inseparable.
+6. The charged talk sends Vee to the restroom. Keep the trip urgent, graceless, and compressed; the orgasm is shattering.
+7. At the peak, body before mind, desire’s object turns toward what Randi would taste like. The object arrives; Vee does not reason her way to it or explain it afterward. A wondering, not an act — imagining acting on Randi’s body belongs to {{Postcard}}.
+8. Vee returns disheveled and certain she looks guilty. Randi’s eyes are dark and glassy; Vee misreads them as sadness about what Vee just did. Nothing is said.
+9. Vee vows to get her sex brain under control — she has a boyfriend. The *I’ll quit smoking tomorrow* vow, renewing the {{Covering}} promise she has just broken.
+10. Vee takes the goodbye kiss stiffly, withholding. **“Is something wrong?”** **“No.”** **“Let me say goodbye right.”** Randi kisses her again — she can’t help herself (surface only). Vee melts into it, then leaves abruptly. The retreat is from closeness, not heat: attraction and the need for her friend remain inseparable.
 
 ## Randi’s double register
 
@@ -47,6 +50,7 @@ Randi’s refusal of disgust is real friendship at full intensity. It is also pa
 - No explicit telegraph of the future taste crossing, threesome, or reveal.
 - The photo remains the sayable channel; the kiss and need remain present but unspoken.
 - Randi’s non-agreement reframes the question without closing it.
+- Inversion stays off Vee’s page: Randi wants things as they were, and it shows only at the surface — warm, never back-foot, never inside her.
 
 ## Cross-refs
 

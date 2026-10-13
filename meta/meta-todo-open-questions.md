@@ -423,7 +423,7 @@ The Bricklayers game, the Meg beat — provisional headings stand in the chronol
 
 ## 42. {{Gesso}} — "on return" ✓ RESOLVED (author 2026-09-05)
 
-A trip, and it completes — gonzo, compressed, the involuntary Randi-flash at the peak; the mirror promise breaks here, quietly and upward. The locked smile is the zinger series' terminal silence; Vee leaves the brunch early. Full design: `meta-condensed-gesso.md`.
+A trip, and it completes — gonzo, compressed, the involuntary Randi-flash at the peak; the mirror promise breaks here, quietly and upward. ~~The locked smile is the zinger series' terminal silence; Vee leaves the brunch early.~~ Superseded 2026-10-12: Randi's dark, glassy eyes (misread as sadness) carry the terminal silence; the renewed vow; the stiff goodbye kiss, *"Let me say goodbye right,"* the melt, the abrupt exit. Full design: `meta-condensed-gesso.md`.
 
 ## 43. Volume Two length (POLICY — author 2026-09-04)
 
