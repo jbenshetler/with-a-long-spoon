@@ -287,7 +287,7 @@ def main() -> None:
     tgt.add_argument("--scene", dest="scene",
                      help="scene slug; resolves N for you (drafted reading order — works even if the "
                           "target scene is itself undrafted). Prefer this over --to.")
-    ap.add_argument("--model", default="claude-opus-4-8",
+    ap.add_argument("--model", default="claude-opus-5-5",
                     help="checkpoint model id (default: opus; e.g. claude-fable-5, gpt-5.6-terra)")
     ap.add_argument("--keep", default=None,
                     help="comma-separated section aliases to keep (overrides DEFAULT_KEEP)")

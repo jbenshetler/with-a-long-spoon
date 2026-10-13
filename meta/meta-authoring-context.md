@@ -89,7 +89,10 @@ facts ("what is actually true") still go through the `lore-keeper`.
 
 ## Options
 
-- `--model <id>` — which checkpoint (default `claude-opus-4-8`; e.g. `claude-fable-5`,
+- `--model <id>` — which checkpoint (default `claude-opus-5-5` — author ruling 2026-10-12: the
+  Claude-lane extractor runs on the model that spawns it, so the authoring lane must be a
+  model the session can actually run, and 5-5 is also a `core` donor source; opus-4-8 was the
+  default before this; e.g. `claude-fable-5`,
   `gpt-5.6-terra`). You author off opus, so opus is the default.
 - `--check` — print the load plan (boundary, checkpoint present/missing, window range,
   keep-set) and emit nothing.

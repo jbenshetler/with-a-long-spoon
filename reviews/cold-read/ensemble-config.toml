@@ -100,7 +100,11 @@ retired = [
 # reminted; the remints and the core-ensemble rebuild on claude-fable-5-1 are
 # deferred by the author.
 [checkpoint_seeds]
+# author-approved 2026-10-12: volume seams are Rock (ch027, end of Volume One) and
+# Nothing Underneath (ch055, end of Volume Two). Boundary 27 is a raw Volume One pass.
+"55" = "rock"
 "60" = "nothing-underneath"
+"70" = "nothing-underneath"
 
 # ---------------------------------------------------------------------------
 # OpenRouter provider routing + per-use policy.
