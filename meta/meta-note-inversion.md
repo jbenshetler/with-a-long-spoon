@@ -6,15 +6,24 @@
 
 This note holds the real-world baseline and the open design space for the chapter's internal sorority discipline proceeding. The baseline is a plausibility tool, **not imported canon**: the fictional chapter may depart from any source organization's rules when the scene needs it. The chronology remains authoritative on the locked story beats.
 
-## Locked scene engine
+## Locked scene engine (author 2026-10-12)
 
 - **Placement:** after {{Coming Due}} and before {{Gesso}}. The docket must precede the drawer's first visit.
-- **POV / aperture:** Randi close third. Her managed surface operates in company; the vignette closes alone in her single, pairing the room aperture in {{Standards}}.
-- **The inversion:** Randi sits on Standards and leaves {{Coming Due}} with *“I've got to go discipline a bad girl.”* Brooke instead puts Randi on the docket. The usual judge becomes the respondent.
-- **Visible case:** the missed-events ledger fed since {{Broken In}}, plus Randi's conduct at the {{On Her Floor}} mixer. The house's stated judgment is that things have become *“too loose and sloppy.”*
-- **Hidden case:** Brooke rides the house consensus against Randi's association with Vee. The board disciplines the only transgression the house can see without naming the relationship underneath it.
-- **Randi's strategy:** she absorbs the proceeding without flinching. Compliance is concealment; open resistance would invite scrutiny of exactly what she must hide.
-- **Price / handoff:** Randi yields the Thursday dinners. {{Gesso}} follows as the deferred weekend reunion; Vee does not see what Randi is carrying.
+- **POV / register:** Randi close third, **memory-in-company** — three fond interior cutaways under a held face, sisters present, neither Vee nor Pace. Not the wound; the wound opens alone and this vignette never goes there. **No single-room close.** Governed by chronology flag 15 (a warning, not a shackle).
+- **The inversion:** Randi sits on Standards and leaves {{Coming Due}} with *“I've got to go discipline a bad girl.”* Brooke instead puts Randi on the docket; an alternate sits in Randi's seat, so the title is physical before anyone explains it. The usual judge becomes the respondent.
+- **The board:** performs neutrality and prosecutes. Peer governance in form — a written allegation, the cited rule, a closed door — and a crab bucket in fact. Randi knows every move from the chair: she has made them from it, on pledges and on sisters. Her recognition is of Standards work; the half of the rhyme that points at Vee is the reader's, never a narrator line.
+- **Testimony:** sisters testify, some of it untrue — a hand in the redhead's bra, up her skirt (`on-her-floor.md:177–183` had a handful of her ass and a climbing skirt). Randi cannot correct the false account without describing the true one. Brooke files and never claims a sighting; her *You always say goodbye under the composites* stays her private knowledge.
+- **The charges — hypocritically neutral,** each a real house rule the house never applies to a boy or to one of its own:
+  1. Unregistered guests before ten, twice: Vee at nine in the morning at {{Broken In}}, admitted by Brooke herself; Vee in plane clothes at {{My Friend Randi}}, in a member's room with the door shut through a morning, the goodbye under the composites entered by a sister as witnessed conduct. That the house admitted her both times is the point, not a hole.
+  2. Unchaperoned overnights away from the house without the president's written permission — the Pace weekends since the night they met, watched home in last night's clothes at {{Standards}} and filed in silence for five months.
+  3. Non-chaste kissing at a chapter function ({{On Her Floor}}) — acceptable with a boy, against the letter.
+  4. The propriety rule against dating any instructor at the school — he teaches a section; *“not his section”* was enough for Brooke in September (`standards.md:75–81`). “Instructor” is the board's label for a grad student, never the narrative's (Bible, peer configuration).
+- **The cutaways (three, fond, not wound):** the fifteen minutes on the common — the meet, first time on the page (Bible, *How they met*: a pleasant ordinary face, no money she could see, no standing; he listened, asked, didn't assume; she drove the night); Vee, as the ledger's dates are read; the kiss at the mixer and that she meant it — her side of it, never rendered before (`on-her-floor.md:199` re-filed it as a show). The pleasures the house is calling violations.
+- **Randi's answer:** she disputes nothing, including the false testimony. Compliance is concealment.
+- **The offer and the decline:** a warning and a clean record if she denounces the *“problematic persons”* — the guest, the instructor, never named as a relationship — **before the full chapter.** The board's details are private; its punishments need not be. She declines. The decline is overdetermined and never sorted on the page: she cannot promise to cut Pace and will not cut Vee, and the prose never says which reason is the one. It must not read heroic. Third answer to Brooke's *You need to choose*: {{My Friend Randi}} the demand, {{On Her Floor}} the receipt, here the sentence.
+- **The judgment, and the ending:** mandatory Thursdays for the rest of the semester; probation; the Standards seat and the single forfeit on a further violation (arms Social Price #2). The vignette ends on the judgment, in the room she used to judge from — her face holding, the coffee-cup quarter-turn firing (bottom-position; the water glass is reserved for the Jar), no one she can tell why the price is worth paying. The {{Standards}} → {{Inversion}} room pair survives as stake, not aperture: the single as refuge, then the single as forfeit.
+- **Price / handoff:** Randi yields the Thursday dinners. {{Gesso}} follows as the deferred weekend reunion; Vee does not see what Randi is carrying. At {{Held Loosely}} the relay is *too loose and sloppy* and *the bitch*; the offer is never relayed — Vee must never learn she was the price of a warning.
+- **Fuse:** Charge #3 — the humiliation exists only because of Vee, and she chose to keep paying it.
 
 ## Reality baseline — internal member discipline
 
@@ -53,27 +62,19 @@ Attendance and social-probation rules vary by organization, but real chapter byl
 
 For the visible conduct currently planned, **attendance probation is the proportional baseline**. Expulsion-level stakes would overstate a missed-events ledger and a socially embarrassing mixer incident unless the chapter has accumulated materially more.
 
-## Working application to Inversion — designable, not yet locked
+## Working application — folded into the locked engine (2026-10-12)
 
-- **Brooke as Standards chair:** lets her control the procedure while performing neutrality. If she is the formal complainant, a realistic conflict rule may require recusal; cleaner mechanics give the attendance ledger to Operations and the mixer account to one or more witnesses, with Brooke consolidating and scheduling the case.
-- **An alternate in Randi's usual seat:** because Randi is the respondent, she sits opposite the board while another sister occupies her normal place. The title's inversion becomes physical before anyone explains it.
-- **The respectable charge:** the board reads dates, missed obligations, and witnessed conduct. Nobody formally charges Randi with Vee; neutral bylaw language carries the house consensus.
-- **The answer:** Randi can dispute details and knows every procedural lever, but chooses not to. She accepts the visible account rather than explain where she has been or why.
-- **Deliberation:** sending her into the hall while her peers vote would make her exclusion literal. Keep only if the vignette benefits from the pause; it is plausible but not required on-page.
-- **Proportionate decision:** attendance probation through a defined date; compulsory Thursday dinners and mandatory events; no unexcused skips; perhaps a specified social consequence for another violation.
-- **The apparent result:** Standards believes it has corrected unreliability. Randi has purchased secrecy with access to Vee.
-- **The private result:** close in her single after the managed surface has done its work. Do not let the public room name the need-state the private aperture exists to expose.
+The earlier designable sketch (alternate in Randi's seat; the respectable charge; deliberation off-page; attendance probation; a private single-room close) is superseded by the locked engine above. Kept from it: the alternate in her seat, and attendance probation as the proportional baseline, with the seat and the single as the escalation clause.
 
 ## Open decisions before beat-lock
 
 1. Is Brooke formally VP/chair of Standards, or only the senior sister steering this meeting?
-2. Which officer owns the attendance ledger?
-3. Who files the mixer account, and what observable conduct does it allege?
-4. Which chapter rule supplies the exact neutral charge language?
-5. Is the sanction formally called attendance probation, social probation, or a corrective attendance agreement?
-6. Does it run for a fixed number of weeks or through the semester?
-7. Does Randi wait outside during deliberation, or does the vignette compress directly to the outcome?
-8. How much, if anything, does Vee know about the meeting itself while remaining unable to see what Randi carries into {{Gesso}}?
+2. Which officer owns the attendance ledger and reads the guest log?
+3. Which sisters testify about the mixer, and which untrue detail each one offers.
+4. Which chapter rule supplies the exact neutral charge language for each of the four items.
+5. The sanction's formal name (attendance probation / corrective attendance agreement) and its end date.
+
+Resolved 2026-10-12: deliberation is not required on-page (the vignette may compress to the judgment); Vee knows nothing of the meeting beyond the relay at {{Held Loosely}}; “publicly” means before the full chapter; the Jan 15 visit is on the docket.
 
 ## External baseline sources
 

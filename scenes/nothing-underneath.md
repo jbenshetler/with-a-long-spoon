@@ -62,7 +62,7 @@ He was in the jeans and the t-shirt still, or again, and the light from behind h
 
 "Vee, I l—"
 
-She did not let him finish. She had imagined this a dozen times since the afternoon and in none of them did she stand on his step and hear him out. She had brought something he could not refuse.
+She did not let him finish. She had imagined this a dozen times since the morning and in none of them did she stand on his step and hear him out. She had brought something he could not refuse.
 
 She reached up and undid the top button, and the next, and the rest, her cold fingers steady enough, and she took the two edges of the coat in her hands and opened it.
 

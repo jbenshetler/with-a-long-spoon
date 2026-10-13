@@ -1,6 +1,6 @@
 # Note — My Friend Randi (the pivot of the reconciliation day)
 
-*Scene · Draft complete · ~Fri Jan 15, afternoon · Randi's single · Vee POV · SATC/confidante track · the first beat of the reconciliation day (**My Friend Randi** → {{Nothing Underneath}}; the December rupture at {{Believe Me}} is the setup). Umbrella for the day: `meta-note-first-weekend-back.md`. Track doc: `meta-plan-satc-tracks.md`.*
+*Scene · Draft complete · ~Fri Jan 15, morning · Randi's single · Vee POV · SATC/confidante track · the first beat of the reconciliation day (**My Friend Randi** → {{Nothing Underneath}}; the December rupture at {{Believe Me}} is the setup). Umbrella for the day: `meta-note-first-weekend-back.md`. Track doc: `meta-plan-satc-tracks.md`.*
 
 The title **is** the irony: the real other woman, called *friend* — the one Vee runs to, the one who sends her back. Sharpen it, never wink at it.
 
@@ -67,7 +67,7 @@ The goodbye-kiss staircase does **not** escalate here: the **usual settled kiss*
 
 ## Continuity guards
 
-- **Same day as {{Nothing Underneath}} (night)** — the afternoon pivot and the day's first beat; ~Fri Jan 15. The morning is the airport-drive grief that opens this scene (red-eye home to no word from Pace, the empty dorm), not a door-visit; the December rupture ({{Believe Me}}) is the wound she brings.
+- **Same day as {{Nothing Underneath}} (night)** — the morning pivot and the day's first beat; ~Fri Jan 15. The dawn is the airport-drive grief that opens this scene (red-eye home to no word from Pace, the empty dorm — minutes there, not hours: author 2026-10-12, she goes straight on to Randi's), not a door-visit; the December rupture ({{Believe Me}}) is the wound she brings.
 - **The coat is Randi's idea** — the door-two costume traces here; the umbrella note records the fingerprint.
 - **Randi hasn't met Sheri** — she can't hold the fact; soothe emotionally only.
 - **Precedes {{Among Friends}} and {{Another Round}}** (both "soon after"): the confidante bond and the scent vector are already live when Randi crosses into Vee's world at {{Among Friends}} and when Vee crosses into Pace's at {{Another Round}}.
@@ -83,7 +83,7 @@ closed door through Brooke in the kitchen.
 **The kiss is a new rung, and it must stay distinct from the old one.** The
 November goodbye had Vee *extending* a kiss — reported to Pace at {{Four}},
 *"I went to come off her and she came after me. She took it."* This is the
-first she **initiates**, and it lands after the first kiss of the afternoon
+first she **initiates**, and it lands after the first kiss of the morning
 was already finished two floors up. Randi's own frame for the four months
 before it is *"held still for it and was sweet about it and thanked her and
 never once started it"* — initiation, not extension. The ladder is: Randi leans

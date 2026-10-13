@@ -98,7 +98,7 @@
 - [ ] She is tragic, not fated — the wound presented its channel and she chose it, half-seeing
 - [ ] The hate survives the novel intact — do not let her spend it or articulate it to anyone
 - [ ] The sadism and the genuine love are the same motion — do not flatten her into pure operator or sentimentalize her into victim
-- [ ] POV is outside Randi in every scene where Pace or Vee is present — assemble her interior from surface tells, never render it directly. **Containers exception:** a designated Randi-POV scene is permitted ONLY when neither Pace nor Vee is on the page ({{Fairytale}} — a brief Vee text exchange doesn't count as Vee present); the one in-scene aperture is a small beat at the very end of {{The Bench}}. Even inside a sanctioned container, keep the plan and the chiasmus from surfacing as narrator statement — render at experience level
+- [ ] POV is outside Randi in every scene where Pace or Vee is present — assemble her interior from surface tells, never render it directly. **Containers exception:** a designated Randi-POV scene is permitted ONLY when neither Pace nor Vee is on the page; what the page may do inside her there is governed by chronology flag 15 (a warning, not a shackle — author 2026-10-12). Even inside a sanctioned container, keep the plan and the chiasmus from surfacing as narrator statement — render at experience level
 
 ---
 
@@ -115,7 +115,7 @@
 - [ ] Never use seeing-register vocabulary (*known, perceived, met, beheld*) for what Randi produces in Vee
 
 **POV consistency**
-- [ ] Never inside Randi's POV in any scene where Pace or Vee is present — she is assembled from behavior and tells. Sanctioned Randi-POV containers exist only when neither is on the page ({{Fairytale}}; the small aperture ending {{The Bench}}) — see the containers exception under RANDI / POV above
+- [ ] Never inside Randi's POV in any scene where Pace or Vee is present — she is assembled from behavior and tells. Sanctioned Randi-POV containers exist only when neither is on the page; the register inside them is governed by chronology flag 15 — see the containers exception under RANDI / POV above
 - [ ] The reader inhabits Vee — interior felt with her, not observed
 - [ ] Pace observed from outside except in designated Pace-POV scenes
 - [ ] No omniscient peeks — never show the reader what the POV character cannot perceive (no over-the-shoulder tell she misses). Reader-ahead comes from her *misreading the present*, not the narrator reaching past her

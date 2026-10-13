@@ -432,7 +432,7 @@ A single detail Vee volunteers can wound in two directions across one scene:
 
 With {{Standards}} established, the brunch is a scene where **two women each overpay to sit at the only table where each feels something true, while each is being extracted by a more powerful party:**
 - Vee is extracted by Randi (the instrument).
-- Randi is extracted by Brooke / the house (the crab bucket) — {{Standards}} shows Brooke running the warm-surgical-deniable instrument on Randi exactly as Randi runs it on Vee. The board member is herself being worked.
+- Randi is extracted by Brooke / the house (the crab bucket) — {{Standards}} shows Brooke running the warm-surgical-deniable instrument on Randi exactly as Randi runs it on Vee. The board member is herself being worked — and as Randi has run it from the Standards chair, on pledges and on sisters ({{Inversion}}, author 2026-10-12).
 - The reader sees the nesting neither woman fully sees: Vee can't see she's being worked; Randi can't see at depth that the channel she overpays for is the one that destroys what she wants.
 - **Overpayment symmetry:** Vee overpays in MONEY (brunch she can't afford) for access to glamour + the confidante who can receive her. Randi overpays in STATUS (mounting social cost of the Pace association + the conspicuous off-world friendship) for the aliveness the friendship gives her — *she can't not engage with Vee; the brunches are the only real thing in her life.* Both overpay for the same table, converse reasons.
 
@@ -466,7 +466,7 @@ With {{Standards}} established, the brunch is a scene where **two women each ove
 ## STATUS GEOMETRY: VEE/CASSIE UNAFFILIATED; RANDI SORORITY + ALREADY PAYING
 
 **Vee and Cassie are NOT in any sorority.** Randi is sorority and sits on the board (Standards). Randi spending escalating social time with an unaffiliated outsider is a **status transgression** — and per Standards, it layers on top of the Pace-association liability the crab bucket is ALREADY testing.
-- The sorority runs **crab-bucket logic**: they will try to take Randi down (success TBD). {{Standards}} (Brooke's warm-surgical interrogation) is the bucket already reaching.
+- The sorority runs **crab-bucket logic**: they will try to take Randi down (success TBD). {{Standards}} (Brooke's warm-surgical interrogation) is the bucket already reaching; {{Inversion}} is the bucket closing, and Randi knows every move from the chair.
 - Randi is NOT the costless queen slumming by choice. The cost is real and mounting. She engages Vee anyway because **the friendship is the only aliveness she has** — the tragic engine. (Mirrors Vee overpaying in money; both overpay, converse reasons. See nested-extractions section.)
 - **First read for Vee:** being chosen by the glamorous sorority girl, against her world's sorting rules, is flattering and thrilling — part of why the friendship is precious enough to overpay for. **Reread:** the cross-status attention is costless-to-spend-but-real-cost targeting of the project component; the exception that read as devotion was the operation requiring proximity.
 

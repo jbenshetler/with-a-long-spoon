@@ -168,7 +168,7 @@ The thesis now supplements *given full range* with *when permitted to operate at
 
 ## 21. Containers rule — operational register vs. the deep aperture (RESOLVED)
 
-Folded into the canonical rule: the **deep (wound) aperture** opens only **alone**, in mirror or single room (the four apertures); a **managed surface close-third** is permitted in company that is **not** Vee or Pace (the sisters at {{Standards}}; the spring Social Price beats); the inviolable line is Randi's interior in the same room as Vee or Pace. Canonical wording: `meta-arch-bible.md` (containers rule) + chronology flag 15.
+Folded into the canonical rule: the **deep (wound) aperture** opens only **alone**, in mirror or single room (the four apertures); a **managed surface close-third** is permitted in company that is **not** Vee or Pace (the sisters at {{Standards}}; the spring Social Price beats); the inviolable line is Randi's interior in the same room as Vee or Pace. Canonical wording: `meta-arch-bible.md` (containers rule) + chronology flag 15. **Loosened 2026-10-12:** flag 15 is now a warning, not a shackle — the Vee/Pace line is the only hard rule; the aperture list is descriptive, not a quota; {{Inversion}} ends on the judgment with no single-room close.
 
 -----
 

@@ -69,11 +69,11 @@ that detail is what makes the threesome's redirect-the-mouth choreography possib
 - **The fourth finish is worked for**, drawn thin and crossing into hurt. A fast fourth
   after three is not physically credible and was fixed once already.
 - **"We'd been together a month and it already felt like longer" is now the only on-page
-  statement of when Pace and Randi began.** It dates them to **mid-August** — a month
-  before the Sep 8 quad walk — and corroborates the two existing markers rather than
-  creating a new one: `space.md:67` has the bench revealed to her *"three weeks in"* and
-  {{The Bench}} is Fri Sep 4, and `meta-audit-currency.md:246` records "Randi/Pace opened
-  ~mid-Aug". Treat it as load-bearing: any later scene that dates their beginning must
+  statement of when Pace and Randi began.** It dates them to **~Sat Aug 8** — a month
+  before the Sep 8 quad walk — the day they met (author 2026-10-12: they slept together
+  that night, Randi driving). It corroborates the other marker rather than creating a new
+  one: `space.md:67` has the bench revealed to her *"a month in"* and {{The Bench}} is
+  Fri Sep 4. (`meta-audit-currency.md:246`'s "~mid-Aug" is the superseded estimate.) Treat it as load-bearing: any later scene that dates their beginning must
   agree with it.
 - **The quad is anchored to September on purpose.** Before this the chapter's only date was
   *"once in October"* (Vee's hair), and capture readers were attaching October to the quad
