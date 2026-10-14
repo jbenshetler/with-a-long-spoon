@@ -64,7 +64,7 @@ He considered it with the honest attention he gave every real question, the seco
 
 He didn't have to. Vee sharpened it herself, sitting there — finishing the missing word in her own head where he'd left it out. *Your* friendship. They misunderstood *his.* It was never his face. A man who paid attention like that — who came into a room and was entirely inside it, as present over dishes as he'd be in the dark — a woman couldn't stay just his friend for long. It went one way or the other.
 
-And she thought, wincing a little, of Theo, whom she'd kept at a careful friend's distance all last spring while he found reasons to fall into step beside her, and how there'd been a season of awkward in it before it settled, and how she'd been the one holding the line then. She knew the shape of it. She'd just never stood on his side of it.
+And she thought, wincing a little, of Theo, whom she'd kept at a careful friend's distance all fall while he found reasons to fall into step beside her, and how there'd been a season of awkward in it before it settled, and how she'd been the one holding the line then. She knew the shape of it. She'd just never stood on his side of it.
 
 "And the men," she said. Gently. She kept her voice a place he could put things down. "Not them?"
 
