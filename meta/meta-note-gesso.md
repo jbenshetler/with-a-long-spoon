@@ -27,7 +27,7 @@ Randi simply does not agree that it is gross. That non-agreement is the second s
 *Order, opener, and the return/exit beats: author 2026-10-12. Venue: the green-velvet place. Close third, Vee.*
 
 0a. **Dressing and arrival.** Within her limited wardrobe Vee chooses something classy rather than pretty and consciously covers up more — a first with Randi. Randi is there first, waiting; she gets out of the booth to hug Vee (a hug, not a kiss).
-0b. **Randi’s opener — things as they were.** Mimosas already waiting. Randi tells a story: a boy who was really into her feet, massaged them with lotion for an hour — divine. Randi was ready, but when she grabbed his crotch with her toes he spent himself in his pants. Oh well.
+0b. **Randi’s opener — things as they were.** Mimosas already waiting. Randi tells a story: a boy who was really into her feet, massaged them with lotion for an hour — divine. Randi was ready, found him with her toes, and the second he was off her feet he went soft for good. *"You know how it is. Guys are only after one thing. Feet pics."* (Pre-med — weirder that way.)
 1. Vee calls out the *barely stings* lie; Randi gives the pleasure-over-pain answer.
 2. Vee recounts {{Still Life}} without relitigating the complete sex choreography, holding the photograph back.
 3. Randi catches the word and asks, **“Gesso?”**
@@ -52,6 +52,9 @@ Randi’s refusal of disgust is real friendship at full intensity. It is also pa
 - No explicit telegraph of the future taste crossing, threesome, or reveal.
 - The photo remains the sayable channel; the kiss and need remain present but unspoken.
 - Randi’s non-agreement reframes the question without closing it.
+- Randi never says *gross* about Vee — not even to deny it. Vee owns the word.
+- Randi prompts the gesso-taste question herself (walnut, parsley, grape… *what did he give you for the gesso?*) — she affirms and permits; she never corrects Vee or quotes her back to herself.
+- The phone: Vee forgets bag and phone in her haste (thought of, rushed past); Randi is still on the lit screen at the return. A lit screen is the only tell — never explained.
 - Inversion stays off Vee’s page: Randi wants things as they were, and it shows only at the surface — warm, never back-foot, never inside her.
 
 ## Cross-refs

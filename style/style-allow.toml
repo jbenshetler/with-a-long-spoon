@@ -4,6 +4,27 @@
 # Written by `na.py style --ack`; view hidden hits with `--show-suppressed`.
 
 [[ok]]
+fp   = "e25afa1f742a"
+rule = "filter-verbs"
+file = "/tmp/ohf/gesso-2.md"
+text = "She heard how that sounded and went on before she could hear any more of it."
+note = "author ack 2026-10-12, gesso beat 2 draft"
+
+[[ok]]
+fp   = "a7c95d7282d3"
+rule = "there-was-were"
+file = "/tmp/ohf/gesso-2.md"
+text = "Randi's thumbnail had gone into the pad of her middle finger, pressed white, and she was smiling at Vee as if there were nobody else in the room."
+note = "author ack 2026-10-12, gesso beat 2 draft"
+
+[[ok]]
+fp   = "7e767d3e39b4"
+rule = "x-not-y"
+file = "/tmp/ohf/gesso-2.md"
+text = "Her hands on the wooden rail over her head — holding, not tied — and her eyes shut, and the sound of him lifting a cloth off something she wasn't to see."
+note = "author ack 2026-10-12, gesso beat 2 draft"
+
+[[ok]]
 fp   = "66ba6baee598"
 rule = "a-small"
 file = "meta/meta-condensed-under-the-rug.md"
