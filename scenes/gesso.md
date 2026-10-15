@@ -16,7 +16,7 @@ The olive coat went on over everything, done up to the collar.
 
 The place off Prices Fork hadn't changed — low red brick alone in its lot — and inside it was dim after the daylight, and the velvet took the room down to a hum. Something old and brassy was playing up in the beams.
 
-Randi was already there. Randi was always already there. Back booth, the near-alcove, and she found Vee before Vee had found her and was up and out of it, all the way out from behind the table and into the aisle, with her arms open.
+Randi was already there. Randi was always already there. Back booth, the near-alcove, and she found Vee before Vee had found her and was up and out of it, out from behind the table and into the aisle, with her arms open.
 
 The hug. Cream cashmere and her perfume and the give of her, and Vee went into it and held on, and Randi held on a beat longer than that. A hug, the same hello hug as ever; she'd told herself so the whole way up Prices Fork. She kept her hips back out of it anyway.
 
@@ -212,7 +212,7 @@ It was him at first. The brush, the firm bristles drawing up through her and com
 
 He wiped it. In her head he wiped it every time she ran it back, however she ran it.
 
-Her hand went on. Her breath went to pieces against the paint. And it wasn't his hand coming up wet anymore, it was her own — her fingers in the dark of her room, slick, a breath's width from her mouth and stopped there, the way they'd stopped that night. She couldn't close it. Not even in her head. The little space in front of her lips stayed empty, and she worked at herself harder, as if she could drive her hand across it from down here.
+Her hand went on. Her breath went to pieces against the paint. And it wasn't his hand coming up wet anymore, it was her own — her fingers in the dark of her room, slick, a breath's width from her mouth and stopped there, as they had that night. She couldn't close it. Not even in her head. The little space in front of her lips stayed empty, and she worked at herself harder, as if she could drive her hand across it from down here.
 
 Something came into it instead.
 

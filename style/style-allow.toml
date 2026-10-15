@@ -1740,6 +1740,20 @@ text = "The bistro had a sun porch along its south side, a long room of glass an
 note = "kept as buried consent-resonance; reads as atmosphere on first pass (author decision, B)"
 
 [[ok]]
+fp   = "0b907300d44e"
+rule = "the-way"
+file = "scenes/gesso.md"
+text = "Coming up to her slow, the way his had, from between her thighs — a dark curtain falling forward, and the mouth."
+note = "author ack 2026-10-15, gesso the-way cluster"
+
+[[ok]]
+fp   = "adff89e834a2"
+rule = "the-way"
+file = "scenes/gesso.md"
+text = "Maybe she hadn't been all the way put back together, those other times."
+note = "author ack 2026-10-15, gesso the-way cluster"
+
+[[ok]]
 fp   = "04a157233783"
 rule = "filter-verbs"
 file = "scenes/gone.md"
