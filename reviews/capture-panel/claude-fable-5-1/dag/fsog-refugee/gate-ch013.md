@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch013 · claude-fable-5-1 · fsog-refugee · prompt-sha 6d6e9a6a9476 · prose-sha 60685a587d38 · 2026-09-27*
+*capture-dag-v2-rich · gate ch013 · claude-fable-5-1 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 60685a587d38 · 2026-10-11*
 
 REACTION
 
-Oh, that's the one I'd screenshot. "Vee," soft, not "Oh, Vee." Cassie setting her name down where it wouldn't break. I read it and my chest did the thing.
+Oh, that's a short one, and it's the right short one. After the truck I needed exactly this — a cool room, a cracked window, and Cassie.
 
-This is a tiny chapter and I'd have been annoyed at it from almost anyone else — a whole chapter of the heroine telling her roommate what I just read — but it isn't a recap, it's a second reading of the truck through a person who's honest. And what Vee tells is the whole tell. She leads with the blister and his hands. She reports "a whole situation under there" like a scientist. She says "and then we ate" the way other girls say "and then we kissed," and I laughed out loud, because yes, that's exactly what the sandwich was. And then she gets to the rain and slows down, and Cassie — dry, file-revising Cassie — goes still and stays still, and I went still with her.
+I was braced the whole time. The whole chapter I'm reading Cassie's face and not Vee's words, because I know what Cassie's carrying and Vee doesn't. "You're alive." "I had your blood type ready." She's doing the dry thing, the file-revising thing, and I can see her doing it the way you watch someone hold a door shut with their shoulder. And then Vee slows — the book even tells me, the way she slowed at the tree — and Cassie goes still "and stayed that way," and I went still with her. Because the flannel. Three sizes too big, not Vee's, and Vee wearing it anyway, and Cassie's eyes going straight to it before a single word. That's a woman reading a shirt and getting the whole night off it.
 
-"I took my wet shirt off in front of him. On purpose. Me." She owns it. Nobody ravished her against a tree, she called a shivering man back into a truck and gave him something, and he took it with his eyes and put the heat on. She's telling it right. She's telling it *proud*. This is the girl the jacket promised me and I'm so glad I get to watch her know what she did.
+And Vee just tells her. All of it. The blister and his hands and the blue shirt and "I think there's a whole situation under there" — I laughed out loud, she's so *happy* — and then "I took my wet shirt off in front of him. On purpose. Me." She tells Cassie the thing I'd have told nobody at twenty-one. She tells Cassie the same thing she'd tell Randi, and here's what got me: Cassie didn't ask for a beverage, didn't snap her fingers for his name, didn't hang up a picture of a man ravishing her against a tree. Cassie listened. Randi at the white table was listening *for* something — I know that now, I've seen the couch, I've seen *tell* — and Cassie in the sweats is just listening. "Vee." Soft. Not "Oh, Vee." Just her name, like setting something down where it wouldn't break. I had to put the book on my chest for a second. That's the most loving sentence anybody's said in this book, and the girl who said it is going to get nothing for it.
 
-What I notice: he got out into the rain "so I wouldn't have anybody looking at me." That's her gloss, and it's the generous one, and it's probably even true — but I'm the reader with the notes, and I know there's a version of the day going to another couch, on another lap, with wine in someone's mouth saying *tell*. Whether the truck gets told is the thing I'm waiting for, and this chapter doesn't answer it, which is fine. It's Vee's chapter. She's got the flannel buttoned to the collar and she didn't ask and he didn't ask for it back.
+"I know," Vee says. She doesn't know. She thinks Cassie means *you're falling.* Cassie means that and also *I can see exactly what's happening to you and I'd have stood in the rain too.*
 
-And Cassie. Cassie, who "had her blood type ready." Cassie who gets the whole story where Randi got the polished one at the white table — Vee gave Randi "may I choose" and "six years old" and got swatted on the arm for it; she gives Cassie the shirt, the rain, his back through the glass, the shaking hands. The roommate gets the true version. I'd text a friend at 1 a.m.: *the roommate is the one she actually tells.* And then: *borrow real boots next time / I'm keeping the shirt / keep the shirt.* That's love. That's the only unperformed love in the book so far, and it's four lines.
+What this chapter did underneath — and I don't think I'd have noticed it a week ago — is confirm what I believed about him through a second witness. Vee's account of the truck matches what I saw. He stood out there with his back to the cab so nobody would be looking at her. He didn't touch her. He drove her home. There's no version of the night that gets worse when a third person hears it. That matters to me more than I can explain, after years of books where the retelling always had to leave something out to stay romantic. Nothing was left out. "He looked at me like I'd handed him something." Yes. That's what I saw too.
 
-What I felt: warm, safe, a little suspended. It was a breath, and I needed one after the cab. But I'm counting under my breath the way I always do — three private times, one kiss, one shirt off in a truck, and he still hasn't had his hands on her anywhere but a heel and a belly. I'm not impatient yet. The care is on the page. But the gap is real and I feel it in my hands.
+And still. The gap's getting long now — the last time he and Vee were alone and warm in a room with no rain and no siren was the tree, and before that the restaurant. Truck doesn't count; the truck got cut off by a cop. The flannel is a promissory note. "I kept the shirt. I didn't ask. He didn't ask for it back." I know what that shirt is. It's the next door. She's going to have to bring it back, and the address is "off six-fourteen, that's the whole address," and he keeps it too warm in there, and there's a table with the top on. So I'm fine with a quiet chapter. I'm not fine, I'm *full* — but I want the gravel road next, and I want it with the care from the cherries and the moleskin still intact when the room is his.
+
+Also: Randi wasn't in this chapter and I felt her absence like a draft. Vee said "Cass" eleven times and never once "I should tell Randi." Good. Let her have one room the plan isn't in.
+
+What I'd text at 1 a.m.: *"Borrow real boots next time." "I'm keeping the shirt." "Keep the shirt." I'm going to cry about the roommate and the book hasn't even done anything to her yet.*
 
 GATE 13 — Rye
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Cassie's "Vee," soft, was the truest sound in the book and Vee telling it proud — "On purpose. Me." — is the girl I paid for. It's a breather, and I'll take it, but the next chapter needs to be him and her behind a door, or him and Randi on a couch, and I want to see which one it is right now.
+WHY: A breath after the truck, told to the one person in the book who isn't playing, and the retelling didn't lose a single thing in the telling — that's the care being real. Cassie's "Vee" set down where it wouldn't break is the turn for me, even though it's not the bond the book thinks it's about. The shirt has to go back to the house off 614, and I'm already reading on.

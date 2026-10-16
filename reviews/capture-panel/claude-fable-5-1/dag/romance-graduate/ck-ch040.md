@@ -1,71 +1,171 @@
-*capture-dag-v2-rich · carry-forward ck-ch040 · claude-fable-5-1 · romance-graduate · prompt-sha b3c0511c266a · 2026-10-02*
+*capture-dag-v2-rich · carry-forward ck-ch040 · claude-fable-5-1 · romance-graduate · prompt-sha b3c0511c266a · 2026-10-11*
 
-*carry-forward · after chapter 40*
+*capture-dag-v2-rich · carry-forward ck-ch040 · claude-fable-5-1 · romance-graduate · 2026-10-11*
 
 WHO'S WHO
 
-Pace. Peter — only when he's asleep now, and only Vee says it. Twenty-two, SAT at fourteen, the desk in the hall, Daphne for two years and calls it luck. Still hasn't told Vee about the bench, the plan, the table three feet from her pillow, or the scar. Rides Saturdays with Sheri and ran his mouth about the chair joint and the math book and *didn't hear himself*. Said "Randi. She was here last night" like weather, and "not yet" about the redhead, out loud, on a flat. Opened the door before she rang, looked down at the cognac straps, laid the scarf back a half-second too long, said *loaned out*. Took the pie out of her hands. "Thank you for telling me what she said" — not "I don't." Turned the tap off without hurry; that's him deciding. One wet hand. Then bore down on the print instead of hitting again — "This?" — and let her *please* sit there attached to nothing. "Always." Ordered a whole form of green scrunchies on a Monday and said nothing. Flinched when she hit his thigh — first crack I've seen in the wall. Took his hand *off* her when she said don't, palms up, gone, and let her ask for it back. "Slow. For me." Looked at his wet finger the way he looked at her under the tree. Quiet spanking — hand resting till the skin woke, a tap, his mouth on the pink of her. Juice held to her mouth before anything. *Wonderful*, on the record, quieter each time. Sat in the recliner when she told him to and turned the lamp one click brighter behind her back. "They complete it" — about Randi's shoes, and he knows whose they are. "This is just for me." Thermostat up so she never thinks about how much she has on. Cold cloth on the burn before the swear got out. Looked at her mess on his counter in the mirror, held, said nothing. Gave her the top drawer. Crammed himself into the bottom one. Never a note. He never says.
+Vee. Vivienne — he handed the trouble-name across a handlebar like it was nothing. Red hair with its own weather now, two nights on his shampoo. Green scrunchies with white dots, a whole form of them, the plenty being the note. Frosted plum fingers and toes. Swims. Since twelve, hymns and laps, lane three, green-and-white suit that has nowhere left to go on her and she looks at the water instead. Texted first — *I miss you. Can I come by early* — and came an hour before she was told. Brought a store-bought pie labeled HUMBLE PIE in a serif font trimmed with the good scissors at three in the morning and knew in the driveway it was a joke. Built the apology like a clean machine and he broke it with "But what happened?" Was taller than him in the cognac heels and tried to get the buckles off on the porch. Got one wet hand once across the seat of her underwear and spent four pages not having felt it, then said *please* twice attached to nothing. Pantsed him. Flashed him, bra and all, "never in her life." Found out she's faster. Said *don't*, watched the hand go, said *yes*, said *we find out*. Lost. Stripped slow because he asked. The long second step across a stage for a room nobody she loved was in. Two costumes, the second one just the heels and the blush going down past where the mirror gave out. Stopped her own hand twice in two bathrooms — once on principle, once for Randi's *face*. Ordered the mimosa first like she'd ordered a thousand. Walked out of brunch with glaze on her lip from a pastry she never touched. Said *Peter* to a sleeping man. Said *maybe* to Cassie. Eats like a field hand now, clothes going loose, bras riding up. Eating topless at his table — I only know because of the tomato. Her bed empty more nights than not and she hadn't counted. Finally brought the bag. Got the top drawer. Had one thought, underwater, for four strokes: whether he's that good or she made him that good.
 
-Randi. Small, dark, freckles, bitter orange and green, gold sunglasses in black hair. A head shorter. Has Saturdays and goes to the second drawer without looking. Knelt a third time — the black four-inch straps, ankle buckles with two fingers — I'm counting, and every time Vee walks out in something that isn't hers. "So. Did you deserve it?" "His hand was wet." "I bet he did." The mouse that roars — over his knee, counting out loud, the hand that slips, *welcome* — delivered in the exact order that would walk Vee to the bathroom, and "All better?" when she came back. Robert Redford, the phone twice, the stranger's bed, "panties to the side, knees wide." I don't believe either story and I don't think I'm meant to. "Two" mimosas — matched her *down*, read the budget, didn't make it a thing. One bite of a pastry, "Delicious," never touched it again. "Sticky fingers?" Then the plate as the alibi. "You're my best friend in the whole world." Kissed her with glaze on her mouth. Off the page since the curb. Three chapters. I can feel the book saving her.
+Pace. Peter, still only in the dark. Shaking his head loose to "Thunderstruck" with the worst air guitar she's ever seen and nobody due for an hour. Flinched when her fist landed on his thigh — first time anything she did has landed. Has to come around like a ship. Looked at the cognac straps, laid the scarf back with two fingers a half-second too long, and said *loan* in the plain voice. Said "Thank you for telling me what she said" and nothing — nothing — about Friday with Randi in his bed. Turned off the tap before he came after her. Left the pan soaking. Folded undershirt on the end of the bed. Gathered her hair at the nape "the way you hold a thing you mean to keep" — *always* beautiful. Took his hand away before she'd finished saying *don't*. "Slow. For me." Turned the bed down with her standing in nothing but straps. Rubbed first, kissed after, no count, no theatre. Juice. Scrunchies. Wonderful, wonderful, into her hair. Curry with toasted spices and Chinese beer. Sat back down in the recliner when she put her hand up, and it cost him, and she saw. Clicked the lamp one notch brighter. "The other is for the world. This is just for me." Salmon turned once, dill, warm tomatoes, Greek wine. Came back for her on the couch an hour later. Looked at her mess on his one clean counter in the mirror and said nothing, then gave her the top drawer and crammed his whole ordered self into the bottom one. Turned the thermostat up and never said. He never says. "Not yet" — to Sheri, on the road, sober. There's a yet and he's on the schedule. Still never said the word. Still never shown anyone the green satin.
 
-Vee. Tall redhead, swimmer since twelve, the green-and-white suit with nowhere left to go, lane three, breathe every third. Trumpet, Ohio, nurse mother, father who hears a wrong note. Sat alone on a stool Thursday glaring at the floor and nobody came — Sheri saw it plain. Made a HUMBLE PIE label at three in the morning with the good scissors. Taller than him in Randi's shoes and tried to take them off on the porch. Gave him the blonde's lilt in her own mouth: "some part of me was just standing there waiting for one." Argued for soaking into his spine. Talked the whole way to the bedroom so a quiet room couldn't stand a question in it. *Please*, twice, attached to nothing. Cried over hair. Towed Randi out by the wrist — only Randi. Hand pressed flat to her own knee in the practice-room bathroom: not over a story. Took the long step at the induction, calf to hip, nothing under it, on her own nerve, and sent him the whole frame — *that part was hers*. Texted first. Came at three when he said four. Pantsed him, waved the shorts like a flag, flashed him and stood off astonished at herself. Found out she's faster than him. "Don't." Then "Yes. We find out." Chose it, three times, in words. Stripped slow because he asked. "Why do I keep pretending we're not going to sleep together." Said she'd bring a bag and brought the dress instead. Put him in a chair and ran the room, got it exactly right, knew it. Hung the dress with the seams squared. Ten steps naked in the heels and didn't cover an inch. "He checked," in daylight, over mimosas. Stopped one inch off because Randi's *face* was behind her eyes. Couldn't tell if "sticky fingers" was a door. Sugar on her lip she never ate. Said "Peter" to a sleeping man and *love* to no one. Said *maybe* to Cassie. Doesn't come home school nights and had to be told. Four strokes of doubt — *whether he was that good or she made him that good* — and the wall took it. Bras riding higher. Still swimming in everything she owns. Still paying for the cheapest yes on the card.
+Randi. Gold sunglasses in black hair, makeup so fine it passes for skin, the green-citrus wave a half-second ahead of her. Knee against Vee's under the fold-out desk. Walked Vee into a soundproof cell on her lunch break and said *tell me everything* and then wouldn't let her skip the middle: "His hand was wet. You said he was doing dishes." "Did you deserve it?" "Probably" — and Vee heard a beat late what she'd agreed to. Told a story: the mouse that roars, slight, soft-spoken, apologized to the furniture, over his knee, skirt up, counting out loud, the hand that slipped at the end, *welcome*. Told it to do something. "All better?" with her bag already on her shoulder. "Vanilla." Baited her and watched her bite. "He checked." "*Inside*?" The Redford boy at Radford, dark corners, the phone call with a door in it, "they'd have got an eyeful — dress up, panties to the side, knees wide." I don't believe one word of the blond boy. "Sticky fingers?" — and then tipped her head at the pastries. One bite. "Delicious." Subject closed. Coffee black. The corner of her mouth up and staying up. "You're my best friend in the whole world." The kiss with one more beat in it each time. Knelt in a boutique and buckled the four-inch straps. Hasn't been in a room with Pace since she clawed his sheet. Hasn't been on the page since the glaze.
 
-Cassie. Reads the bed, not the dress. Walked her to the hall doors and no farther, took her phone to hold, "You look—" and didn't finish it, which is a standing ovation. Took the picture. "Honor student." "Come on, streetlight." "You're a public utility." Beanbag, book, window cracked two inches. "There's only one way *that* burn happens." "You don't come home school nights." "Do you love him" — flat, like a problem set, the one question nobody at the table has asked her face. Let the maybe stand. Went back to her book. Still at the door. Still the only one who wants nothing off her.
+Cassie. "You're doing the streetlight thing again. You're a public utility." She invented *streetlight* on her own, by the bad coffee, having never heard him say *lamp*. Took Vee's phone so she couldn't hide behind it, "You look—" and didn't finish, eyes bright at the corners she'd deny to the grave. Took the photo. Terrible sandwich. Bean bag, book facedown. "There's only one way *that* burn happens. Not enough on." "You don't come home school nights." "Do you love him." Let the maybe stand. "Some of us have class." Still getting the edited cut — no bet, no bathroom, not one syllable of Randi, and Vee doesn't know she's leaving her out. Got "see you in the room" said to the side of her head with her wrong textbook.
 
-Sheri. Bike, bleached ponytail, faster on the climbs for two years and never let it go unmentioned. Remarks on women like weather. "Hell of a backside on her." "Listen to you." Two at once, how do you sleep. Thinks it'll get complicated and be worth it. Half right.
+Sheri. Child-sized bike, bleached ponytail, beats him up every hill and says so, remarks on women like weather. Stayed at the Rusty Nail and watched Vee for him after he left — one drink, glaring at the floor, danced with nobody, left alone. The clean report. "Listen to you." "Two of them at once. How do you sleep?" "I bet it's worth it." Decent woman doing honest math with one column missing.
 
-The blonde, the bartender, Brooke's folder, Meg — all still in the margin where I left them.
+The blonde. Her lilt came out of Vee's own mouth in his front hall and Vee hated it.
+
+The mouse. Randi's ex, or Randi's story, or Randi's Pace with the name filed off. On the list now with the beautiful one in a hurry. Still nobody's named the band on her wrist.
+
+Vee's mother. "Right there on the phone, honey," in the bright voice she keeps for what she can't give.
 
 WHERE THINGS STAND
 
-Saturday morning: the bike, Sheri's plain version of Thursday, "not yet." Saturday night: pie, the inch, the scarf, *loaned out*, the clean machine running and then collapsing into the blonde's words, his hands tipping her face *down*, "thank you for telling me what she said." The night skipped — lighter, then not light at all. Sunday: his undershirt folded for her, the soak argument, the tap off, one wet hand, nipples through worn cotton, her mouth on him to cover what he saw, "two minutes" at half size, his hand finding the print and bearing down, *please*, the second one she couldn't file, the pan soaking down the hall. Two nights with nothing of her own, bra on the chair, smelling of him head to foot and going still. Monday: hair, *always*.
+He said "not yet" to Sheri the morning of. Then Vee walked up in Randi's shoes and Randi's knot and he looked at both and said *loan* and let her hear it as a compliment. Apology, broken open, "some part of me was just standing there waiting for one." She stayed with no bag. Sunday: the dishes, the soak argument, one wet hand, the ride with her face in his neck so there'd be nothing to look at, his hand back on the print of itself, *please*, *this?*, *please*. "Unnamed, hers." Monday: crying over hair that wasn't hair. *Always.*
 
-Stats: outliers, the kind that carries forward; Randi's knee. The practice room: the shoes she meant to give back and didn't, "did you deserve it," "his hand was wet," the mouse, *welcome*, the bolt, her hand on her own knee, "all better?", the hug she held too long and put down to no sleep.
+Practice room. Vee towed Randi out, not the other way, first time. Randi rebuilt the kitchen from one dropped detail, turned the shame a quarter-inch toward wet, told the mouse story, sent Vee to a bathroom where she put her hand flat on her own knee. Arms slow coming down at the top of the stairs.
 
-Wednesday, the induction: Berkeley, three days, he missed it. Burgundy, nothing under it, Randi's black straps. The careful first step and the long second. The murmur. The scroll, light. The photo uncropped to a hotel room. A terrible sandwich.
+Induction, nobody there. Hand pinned at her hip holding the slit shut, bare under the burgundy. The second step long. The room woke up. Sent him the whole frame, uncropped — "that part was hers." Didn't send it to Randi.
 
-Friday: *I miss you. Can I come by early?* Three o'clock, gym shorts, a shake. The flinch. Poke poke poke. Shorts over her head. Wrap skirt gone in one pull. Faster than him. The flash. Caught in the bedroom — a hug. "There it is." The bet. Hand up her thigh, "don't," gone, "yes, we find out." The finger, the whole gleaming length of it, and his face. "Slow. For me." Bra last. Bed turned down with her watching. Cheek on the sheet, braced for Randi's counting, and getting quiet instead. Juice. *Wonderful.* Scrunchies on the counter, no note. Antiperspirant. "I'm going to start bringing a bag." Curry, Chinese beer.
+Friday after stats. Thunderstruck, pantsing, the flash, the den, faster than him, caught in the bedroom. "There it is." The bet. *Don't* — hand gone — *yes* — *we find out*. The whole finger in lamplight and the shame about how *much*. "You lost." Slow, for me. Bed turned down. No theatre. Then juice, hair in his lap, wonderful. Scrunchies. "Why do I keep pretending." "I'm going to start bringing a bag." Curry.
 
-Same night, the thirty-first: no bowl by the door. The dress in the car. His boots, the gravel. Recliner, lamp one click up, "take your time" once. Costume one — the room's walk, flat hand, he sat back down, "they complete it." Costume two — heels and nothing, the blush past where the mirror gives out. "The other is for the world. This is just for me." Cut before anything happened.
+Halloween, no one coming to the door. The dress in the cold car fifty feet from him. She put him in the recliner and ran it. Two walks, two costumes. He sat back down. He looked. "Just for me."
 
-Brunch: cheapest yes, "Two," he's not vanilla, "he checked," the heels and the covers told across a tablecloth, her thighs pressed under the cloth, Robert Redford and the private dance, the stall, one inch off, Randi's face, stopped, wrists under cold water, "sticky fingers?", the pastries, one bite, best friend in the whole world, the kiss, the glaze.
+Brunch two. Mimosa first. Vanilla. "He checked." The Redford boy I don't believe. Stall, hand inside herself, an inch off, Randi's face, stopped. "Sticky fingers?" — pastry. Best friend in the whole world. Glaze on her lip.
 
-Then a week apart — conference plus a brutal week. Off the ground at the door, coats on the floor, salmon and dill and warm tomatoes, the couch after. *Peter*, to him asleep. *I love him*, to herself. Her kit across his counter; his eyes in the mirror; nothing said. Baked tomato burn on the side of her breast, cold cloth. Dorm past eleven, streetlight, "do you love him," *maybe*, *it's all so fast*. Tuesday, the pool, four strokes, the wall. Next Friday: the counter bare, the bottom went out, top drawer hers with room for more, him crammed into the second. Took a scrunchy. Went to find him.
+A week apart, then the door and her feet off the ground, coats inside the door. Salmon. The couch after. "I love him" in her own chest, *Peter* to the sleeping shape, "not go hungry for the saying." Her mess on his counter in the mirror; nothing. The next Friday: the top drawer, hers, room for more of her. His crammed below.
 
-Randi has not been on the page since the glaze. Pace has had the kitchen, the bedroom, the den, the drawer. Vee has a drawer in a house where the other woman has Saturdays.
+Cassie: streetlight, the tomato, not enough on, school nights, *do you love him*, *maybe*.
+
+The pool. The words coming off one at a time. Four strokes of doubt. The wall. Sandwich.
+
+Randi has not been told about the bet with its no-theatre, or the drawer, or "Peter." Cassie has been told none of it. Pace has been told nothing about Randi's hand under the skirt, Randi's glaze, Randi's mouse. Randi has not been told about Pace's "not yet," or that he said *loan*, or — wait, she has; Vee told her *loan* in the practice room and she put her hand to her chest and said *that man*. So Randi knows he saw her handwriting and let it pass. Everyone knows one thing the others don't, still.
 
 HOW I FEEL ABOUT EACH OF THEM
 
-Pace — I'd still go home with him, and the drawer is the first thing he's done that I can't file under the plan, and I'm trying not to let it buy him too much. He proved his one rule with his hands — took them off her, let her ask, "slow, for me" — and I've been side-eyeing that rule for ten chapters as manners over an arrangement, and Friday it was real. And then he said *this is just for me* about a naked girl who thinks she's choosing everything, and *they complete it* about another woman's shoes, and I noticed. He opens her all the way down and keeps his own door shut with the gentlest hands in the book. He never says. He gave her a drawer instead of a sentence, and she's learning to read him by what he moves, and that's going to break her when she finds out how much he's moved. I'm scared for him still, and now I'm scared for her *about* him, which is new.
+Vee. I'd walk through a wall for her. The second step was for nobody, and that's the best thing she's done in forty chapters. She's learning to keep a room — the kitchen unnamed, the photo uncropped, the scar unasked — and she learned it from the two experts without knowing that's the school. And she's keeping the wrong rooms. *Maybe* to Cassie after *Peter* to a man who couldn't hear it. "Not go hungry for the saying" is Thursday-mimosa math and I don't buy it and I don't think she does. She stopped her hand for Randi's face and never once thought of him in that stall, and then came home and spent a quiet weekend being loved and never wondered why her mouth was sweet. The body's in the room with Randi now. The head's still at the curb. And she thought the thing about Pace underwater — that good, or made that good — and I've wanted somebody to think it for thirty chapters and it was her and it lasted four strokes. Good. She's allowed to put it down. I'm not.
 
-Randi — I don't trust her and I don't want her to stop. She ran a scene in a piano closet that Pace then performed differently on a Friday, and Vee got Randi's plot and Pace's practice and can't tell them apart yet, and Randi is going to find out there was no counting. The one bite of pastry is the line through the stew. Whether she planned the glaze or is simply always that precise doesn't matter — it tasted the same. "Best friend" is the only name she's allowed to say to Vee's face and she said it with sugar on her mouth and I believe it might be true, which is worse. She matched the mimosa down. That's kindness and control in one motion and the book has stopped pretending they're two things. I paid for her again this stretch, at a brunch table, and I'm not proud.
+Pace. I'd marry him for the scrunchies and I'm still furious. The drawer took me apart — he gave up the easy one, the one your hand goes to first — and he said *loan* to the girl in Randi's shoes and said nothing, and those are the same man. He makes room instead of speaking. Thermostats, drawers, a lamp one click brighter. He took the hand away before she finished *don't*, and that's the proof I'd been demanding since the bar, and I believe it. He flinched when she hit him and she saw — he can be gotten to, and she doesn't know what she learned yet. He never says. He's said "not yet" to a woman on a bike and never "I love you" to the woman in his bed, and I know which sentence costs him and I think the book does too. He keeps every room shut. They keep walking in and opening theirs. Sheri said *worth it* and I'm scared of that sentence on his behalf.
 
-Vee — I'm proud of her and it's getting dangerous. The long step, the text, the recliner, "yes, we find out" — nobody's thumb behind her knee for any of it. She's building a shelf: *please* unclaimed, the hand on her own knee, the frame only she can read, the inch she didn't take because of a face. Things her body said yes to that her mouth hasn't, kept where neither of them can get at them. Told the sleeping man and gave the awake woman *maybe*. Had to be told she doesn't come home. Four strokes of doubt and a flip turn. She's calling it luck, still, and the budget's still the thing that scares me more than the people — the cheapest yes, the racks that don't believe her build, the tailor she can't afford. And she's about three chapters from not being able to tell *best friend* from the other word.
+Randi. She's never once given Vee a sentence with one reading. "Sticky fingers" and then the plate. "Between us." "Best friend" landing on Vee like sun and on me like a collar buckled with two fingers. She spent her lunch break on it. She told the mouse story fond and far away and I've stopped believing *fond* and *deployed* are two things with her. The Redford boy is a lie or a cover or the truth with Vee's legs in it, and all three are bad. She knows what Vee went to the bathroom to do, both times, and knows she didn't, and was *so pleased to see her*. One bite. She tastes. And then she put the taste on Vee's mouth. I want to shake her and I understand every move and she still hasn't said one true thing where Vee could hear it, and she's been off the page three chapters and I feel it like a draft.
 
-Cassie — she sat up. I wrote that she would and she did, with a book, in the cold, and asked the only honest question in forty chapters and then let the answer be small. She's doing the arithmetic on a roommate turned visitor and she's not jealous of him. I'd follow her into the basement right now. The book keeps me at her door and I've stopped expecting it to open; I think it's going to make me stand there.
+Cassie. Owed everything, told nothing, and she let the maybe stand instead of saying *I know*, which is the most grown-up thing anyone's done for Vee in the whole run. She's counting. Somebody's always counting Vee and it's never Vee. She's going to be standing there at the end holding the version she was given and I'm already sick about it.
 
-Sheri — likes her. "Listen to you" is the only time anyone's caught him from outside.
+Sheri — I trust her like the bartender. Two women who see him clean and both of them stayed to watch Vee after he walked out. Nobody asked either one.
 
 WHAT I'M CARRYING
 
-"Left alone." "Listen to you." "Not yet." HUMBLE PIE in a serif font. Looking down into his face like a missed stair. The scarf laid back with two fingers. *Loaned out.* "Some part of me was just standing there waiting for one." His hands tipping her face down. "You're scrubbing things that want to be left alone." The tap off, without hurry. The soundless *oh*. Talking all the way down the hall so the room wouldn't go quiet. "Two minutes. That's all I asked for." His hand bearing down on the print. "This?" *Please*, attached to nothing — and Randi said it first, on the bench. The pan soaking. The bra on the chair like the last clean thing. *Always.*
-
-"So. Did you deserve it?" "His hand was wet." "I bet he did." Apologized to the furniture. *Welcome.* The bolt loud. Her hand flat on her own knee. "All better?" Arms slow coming down, a held note.
-
-The second step long. The sound a dull room makes when it wakes up. *That part was hers.* "You look—."
-
-*I miss you. Can I come by early?* The flinch. Shorts over her head like a flag. "There it is." Palms up, gone. "Yes." "Yes?" "We find out." The whole length of the finger gleaming, and his face like under the tree. "Slow. For me." Watching him turn the bed down. Cheek on the sheet braced for counting and getting a hand that waited. His mouth on the pink of her. Juice. *Wonderful*, quieter each time. A form of scrunchies, no note. "My Victorian LARPing." His antiperspirant.
-
-His boots on the gravel. The lamp one click brighter. Flat hand, sit back down. "They complete it." Seams squared on the hanger, a thing somebody's hands were in. Ten steps and nothing. "This is just for me." Not covering an inch.
-
-The cheapest yes. "Two." "He checked." One unfair inch off and Randi's face. Wrists under cold water. "Sticky fingers?" The pastries arriving while she was gone. One bite, "Delicious." "Best friend in the whole world." Glaze on a lip that never touched the plate.
-
-Off the ground at the door. "Peter," to a sleeping man. Her kit across his clean counter and his eyes holding in the mirror. "He never said." The bottom going out of the morning. The top drawer with room for more. Him pressed in too tight below. "Streetlight." "There's only one way *that* burn happens." "Do you love him." *Maybe.* The green-and-white suit. Breathe every third. Four strokes, and the wall. Arms like they belonged to somebody generous. She thought about the sandwich.
+"Listen to you."
+"She knows. She likes her." "And the redhead?" "Not yet."
+HUMBLE PIE, serif, trimmed with the good scissors.
+The missed stair of looking down into his face.
+Two fingers under the tail of the scarf, a half-second too long. *The scarf was working.*
+"I'm not going to insult the loan."
+"But what happened?"
+"Some part of me was just standing there waiting for one."
+"Thank you for telling me what she said."
+He turned off the tap.
+One wet hand. "The sound of it was small. The sting of it was not."
+A quiet room is a room with a question standing in it.
+Hiding it under motion and the motion was the thing.
+"This?" "*Please.*"
+The pan went on soaking.
+The folded undershirt. Nothing of her own left on her skin, and she hadn't minded.
+Hair gathered at the nape, the way you hold a thing you mean to keep. *Always.*
+Two fingers on Randi's wrist. "Walk me out."
+"His hand was wet. You said he was doing dishes."
+"Did you deserve it?" "Probably."
+"Sometimes it's the mouse that roars." Apologized to the furniture. *Welcome.*
+Her hand caught and put flat on her own knee.
+"All better?"
+Arms slow coming down.
+"The second kind comes in through the part that carries forward."
+"I'm a little relieved. Which is a horrible thing to be."
+Nobody in the room who ever taught her what to be ashamed of.
+She took a breath, and made the second step long.
+The sound a dull room makes when it wakes up.
+"You look—"
+Whole frame, uncropped. That part was hers.
+"I miss you. Can I come by early?"
+Thunderstruck through the siding. Four bars of the worst air guitar.
+The flinch, there and gone.
+The red shorts over her head like a flag.
+She was faster. He comes around like a ship.
+"There it is."
+"Either you admit you lost, or we find out."
+"Don't." Gone. Palm up. "Yes." "We find out."
+The whole length of it, gleaming. The shameful plenty of the wet. He looked at it like it was hers, and good.
+"Slow. For me."
+The bed turned down with her standing in straps.
+A tap, a question. His mouth once on the warm of her.
+No witness.
+Juice.
+A whole form of green scrunchies. No note.
+"Why do I keep pretending."
+"They complete it." His eyes at her feet — Randi's straps.
+The flat hand. He sat back down. One click brighter.
+"And this is what I had on under it."
+The blush going down past the mirror. Not covering an inch. The entire costume.
+"Just for me."
+"Vanilla." "He is not vanilla."
+"He checked." "*Inside*?"
+"The engine running and nobody left to drive it."
+Dress up, panties to the side, knees wide.
+It was not the thinking, it was the looking.
+"Sticky fingers?" — and the pastries.
+"I couldn't bear it if there was something between us."
+One bite. "Delicious." The corner of her mouth staying up.
+Glaze on her lip from a pastry she never touched.
+Her feet off the ground in the doorway.
+"She hadn't known a man would want to."
+Like something he'd been turning over the whole time the salmon cooked.
+"Peter," the breath of it.
+"He never said."
+The bras riding higher.
+His eyes dropping to the counter in the mirror. Nothing.
+The top drawer. Room for more of her. His, pressed in too tight below.
+"You're a public utility."
+"Not enough on."
+"You don't come home school nights."
+"Do you love him." "Maybe."
+Her body, which had opinions all day long, had none down here. It only worked.
+*Him*, and the ache, and the count. Then the count.
+Whether he was that good or she had made him that good. Four strokes.
 
 WHAT I'M WAITING FOR
 
-Randi. Three chapters off the page and I want the table back, not just the door. What she does with "I was taller than him in your shoes," and with "there was no counting." Whether she's opened the top drawer yet — or he told her, in bed, the way he tells her everything. Whether Randi gets a drawer, or wants Vee's. Whether he showed her the induction photo in Berkeley. The drive up the gravel after the practice room — he'll have Vee's face on a carpet handed to him before Vee's ever said it. Whether Vee ever says *Peter* awake, and in front of Randi, and what Randi's face does; I still don't think Randi knows his name. The bench, the plan, the scar — every door in that house has opened on time and these haven't. "Just for me." The credit card bill, the tailor, the mimosa math. The shelf — how full it gets before something falls off. Whether the third debrief, if there is one, leaves anything on her mouth; if it's the same shape with nothing left over I'll skim. Cassie's basement. Brooke's folder. And the honest one: three quiet chapters running, nobody's hands on anybody since Halloween, and I've said the next one has to be a door and somebody walking through it enough times that I'm starting to resent being saved for. The book put her under water and let her head go quiet. That means loud. It had better.
+Randi. She's been gone three chapters and that's the fuse. Her face when Vee gives her the no-theatre version — rubbed first, kissed after, juice, wonderful — a story she can't improve. Her face when she finds out she wasn't on the photo thread. Her face when "Peter" is said in front of her, if it ever is.
+Whether the mouse was him. Whether the Redford boy was anybody. Whether Friday-in-his-bed is the thing under the blond-boy story.
+Whether Vee ever says *I love you* with the lights on and whether he ever says it at all. Whether "he never says" turns out to be the wall or the hole.
+The green satin, still never handed over. He keeps his rooms. He's going to get asked right someday.
+What Vee tells him about brunch. What she doesn't. The glaze — whether she ever thinks about it, or whether the body files it where the foyer went.
+The stall count is at two. The third one had better have the door open.
+Cassie finding out any of it — the bet, the shoes, the woman who's been dressing her roommate for a man's door. She's got the camera and the *maybe* and nothing else.
+The doubt. Four strokes. Whether it comes back up when she's not swimming.
+Whether he can be gotten to, and whether she uses it.
+The weight. Pin in it.
+The scar — she's decided to keep it unasked; I want to know what she's keeping.
+The calendar wobble — a second conference or I'm not meant to look. I'll shrug once more.
+Whether the book keeps doing the thing — the wire, not the cure, nobody fixing the engine, just turning the key the other way in a lamp's circle. Keep not fixing it. I asked for that and I got the practice room and I'm a little scared of what else I've asked for.
 
 WHAT'S FADING
 
-Sheri's Thursday is already down to a stool and a floor; the ride itself is cold fingers and a ponytail. The apology speech — I have "worse than rude" and "that's what I came to say" and the shape, not the words. What he cooked Saturday that she smelled when she came in. The exact order of the Sunday afternoon after the hand — I've got sink, hall, her talking, him stopping twice to look, his neck, the second one; the rest has gone to heat. The outlier plots, past "comes in through the part that carries forward." Which chair Randi took in the practice room. The mouse story's middle — I've got skirt up, counting, the slip, *welcome*; the rest is rhythm. The induction room past windows and navy; the woman reading names. The salmon dinner's sauce — dill, pale green, the mustard thing in a glass, that's all. Which costume she wore first — I know it was the dress, I'll have to think about it next week. Robert Redford's name; the Greek house; "forty minutes from home." What the pool clock said; the butterfly man and the flip-turn woman are already one person. The baked tomato recipe — breadcrumbs, cheese, herbs, and that's the whole burn. And the old stuff thinning under it: Daphne is a name and a hall, the dress is screw heads and a line, the Rusty Nail is a wedge of cold and a beer untouched, the parking lot is a cab that stank, the shoe store is a yeti and a thumb, the bench is a word that's been in his bedroom every night she's slept there and I keep forgetting to be angry about it until I write it down. I'm carrying *please* and a drawer and a girl with sugar on her mouth who never touched the plate, and a woman swimming four strokes toward something and rolling off the wall, and that's enough to pick it back up on.
+Sheri's ride is a ponytail and *not yet*. The road, the cold, which hill — gone.
+The apology is the pie and *loan* and "but what happened." The clean machine's actual lines I couldn't quote.
+The kitchen is one hand and the tap and the pan. What was said walking down the hall — gone, which is right, it didn't matter what she said.
+Monday morning is hair and *always*. The drive to the dorm never happened on the page and I've stopped wondering.
+The outliers lecture is one sentence. The plots are gone.
+The mouse story is the furniture line and the counting and *welcome*. What the man looked like — soft, slight, that's all I kept, which is what she wanted.
+The induction is the second step and the hand at the hip. The woman at the podium, the navy girls, the scroll — a rolled paper with a ribbon, that's it.
+The den chase is the shorts, the flash, *faster*. Where the couch was, where the hall went — blurring.
+The bet I have whole. The spanking I have as a tap and a mouth and no count. The sex after it is "the small lit country" and a bed the size of the world and nothing more specific, which I think is how she'd keep it too.
+The curry is toasted spices and a late heat. The vegetables are a color.
+Halloween is two walks and a recliner and a click. The music on the speakers — a woman's voice, guitars — gone.
+Brunch two is *vanilla*, *he checked*, the stall, *sticky fingers*, one bite, the glaze. Radford, the sisters, the mixer — the set dressing of a story I don't believe anyway.
+The salmon dinner is dill and warm tomatoes. The Greek wine's a word.
+The bathroom vignettes are the mirror and the drawer. What else was on the counter — a face cream, pins — going.
+The dorm is a bean bag and a tomato and a burn I was told sideways.
+The pool is lane three, hymns, the count eating the words, four strokes. The butterfly man and the flip-turn woman were never people.
+Older: the Rusty Nail is the blonde's lilt and the count she didn't mean to start, and now Sheri's clean report over the top of it. Randi's closet is a hand under a skirt and a thumb behind a knee. The quilt is "Peter" and nineteen and fifteen. The shop on Friday is "I heard it" and *you wait*. Everything before the dress is a smell and three lines each.
+The places it explained itself — *the two came to the same thing*, *she the payment*, *made her a place instead*, the swimming-takes-the-words-off sentence, sunrise and sunset — I've let go with the lines. It mostly trusts me. When it doesn't I feel the hand, and I'm still here, and it's two quiet chapters running and I'm leaning toward the next page like a door I want to hear open. One more quiet one and I skim. I don't think I'll have to.
