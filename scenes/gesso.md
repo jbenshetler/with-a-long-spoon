@@ -244,11 +244,7 @@ She let go of the sink when she could stand without it.
 
 The pants went back together easier than they'd come apart — hook, button, zip — which hardly seemed fair. She washed her hands with the pink soap from the pump, up past the knuckles, and dried them, and smelled them, and washed them again.
 
-Then the cold tap, and her wrists under it, to bring the blood down.
-
-She had done this before. Not three weeks ago, down the little stair from the loft, under that blue light, she'd stood at a sink with her wrists in cold water and made the girl in the mirror a promise.
-
-She turned the water off and looked up.
+She looked up.
 
 The flush had gone down into the crewneck. Her mascara had run under one eye, her mouth was bare and bitten, and at the back her hair stood up where her own hand had been in it at the table. Her bag was back in the booth. She had nothing — a paper towel from the dispenser, cold water, her own two hands. She wet a corner of the towel and worked the mascara out from under her eye and made it worse and then made it better. She blotted at her throat, which did nothing. Her lip color was gone, bitten off, and there was nothing to put back; she pressed her lips together hard to bring some blood into them. She pressed her hair flat with wet palms. It came up again. She pressed it flat again.
 
@@ -259,12 +255,6 @@ Randi always knew, though. *All better?* she'd said once, so pleased to see her,
 Randi would know anyway.
 
 She searched the girl in the mirror for whatever it was Randi saw. She couldn't find it.
-
-"Okay," she told her. Her voice came out low and rough. "You have a boyfriend."
-
-The girl looked back at her, lit.
-
-"Get your sex brain under control." And then, because the last one had said *next time*: "Starting now."
 
 The hall was longer going back.
 
@@ -311,3 +301,11 @@ Randi let her go. Her breath wasn't quite steady; she must have been worried, af
 "I have to go," Vee said. "I have to — I'll see you Tuesday."
 
 She was walking before she'd finished saying it, across the lot to the Corolla, not quite running, the keys already out in her hand. She didn't look back.
+
+She got the door shut on the cold and sat with her hands on the wheel and the engine off, and her mouth still had the shape of it.
+
+"You have a boyfriend," she told the windshield. Her voice came out low and rough.
+
+The glass fogged where she'd said it.
+
+"Get your sex brain under control." And then, because the last time she had said *next time*: "Starting now."

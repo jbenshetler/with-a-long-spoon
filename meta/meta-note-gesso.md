@@ -35,9 +35,9 @@ Randi simply does not agree that it is gross. That non-agreement is the second s
 5. Vee asks whether it isn’t too much — **“Isn’t it gross?”** — and the {{Missed a Spot}} taste-refusal comes out of that question, a natural outgrowth of the gesso and the tasting beats rather than a separate recount. Randi does not agree.
 6. The charged talk sends Vee to the restroom. Keep the trip urgent, graceless, and compressed; the orgasm is shattering.
 7. At the peak, body before mind, desire’s object turns toward what Randi would taste like. The object arrives; Vee does not reason her way to it or explain it afterward. A wondering, not an act — imagining acting on Randi’s body belongs to {{Postcard}}.
-8. In the restroom, after cold water on her wrists and fixing her makeup, Vee says the vow to the mirror: get her sex brain under control — she has a boyfriend. The *I’ll quit smoking tomorrow* vow, renewing the {{Covering}} promise she has just broken.
+8. In the restroom, with no bag, she patches her face as best she can (paper towel, water, lips pressed for color, hair that won’t lie flat) and is sure Randi will know anyway — *All better?*, *Sticky fingers?*, the relief line; she searches the mirror for whatever Randi sees. **No cold wrists, no vow here** (author 2026-10-15).
 9. Vee returns disheveled and certain she looks guilty. Randi’s eyes are dark and glassy; Vee misreads them as sadness about what Vee just did. Nothing is said.
-10. Vee takes the goodbye kiss stiffly, withholding. **“Is something wrong?”** **“No.”** **“Let me say goodbye right.”** Randi kisses her again — she can’t help herself (surface only). Vee melts into it, then leaves abruptly. The retreat is from closeness, not heat: attraction and the need for her friend remain inseparable.
+10. Vee takes the goodbye kiss stiffly, withholding. **“Is something wrong?”** **“No.”** **“Let me say goodbye right.”** Randi kisses her again — she can’t help herself (surface only). Vee melts into it, then leaves abruptly. In the Corolla, engine off, she says the vow to the windshield: *“You have a boyfriend… Get your sex brain under control… Starting now”* — the *I’ll quit smoking tomorrow* vow, after the fact, renewing the {{Covering}} promise she has just broken. The retreat is from closeness, not heat: attraction and the need for her friend remain inseparable.
 
 ## Randi’s double register
 
@@ -55,6 +55,8 @@ Randi’s refusal of disgust is real friendship at full intensity. It is also pa
 - Randi never says *gross* about Vee — not even to deny it. Vee owns the word.
 - Randi prompts the gesso-taste question herself (walnut, parsley, grape… *what did he give you for the gesso?*) — she affirms and permits; she never corrects Vee or quotes her back to herself.
 - The phone: Vee forgets bag and phone in her haste (thought of, rushed past); Randi is still on the lit screen at the return. A lit screen is the only tell — never explained.
+- No more cold wrists at a restroom sink, and no third mirror vow: the ritual has run three times (Practice Room, {{Covering}}, the {{Gesso}} draft before 2026-10-15). The next broken promise takes another shape, or goes unsaid.
+- The vow stays on the *sex brain / boyfriend* theory. The *don’t be weird about your best friend* frame is seeded only as self-teasing (*sex pervert*, *weirdo*) and is saved for the post-Spring-Break chapter.
 - Inversion stays off Vee’s page: Randi wants things as they were, and it shows only at the surface — warm, never back-foot, never inside her.
 
 ## Cross-refs
