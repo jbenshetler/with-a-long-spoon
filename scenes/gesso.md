@@ -110,7 +110,13 @@ Vee opened her mouth, and the word for it — the new bare of her, a week old an
 
 "Your pussy," Randi said helpfully.
 
-"My *skin*." Vee was laughing, and her face was going; she could feel it climb up out of the crewneck, and the charcoal was no help at all. "He touched me there and said it was too smooth to take the paint. It needed something to make it stick." Under the table she pressed both hands flat into her thighs. "He didn't have any gesso. He didn't need any. He used me."
+"My *skin*."
+
+Something nudged her under the table. Randi had slid down in the corner of the booth, and her foot — the shoe gone, the toes in sheer nylon — pressed once, gently, at the front of the good black pants, right at the skin in question. Vee jumped and caught it in both hands to make it stop.
+
+Randi didn't so much as blink. "Go on."
+
+Vee was laughing, and her face was going; she could feel it climb up out of the crewneck, and the charcoal was no help at all. She held on to the foot. To let go now would be to make something of it. "He touched me there and said it was too smooth to take the paint. It needed something to make it stick. He didn't have any gesso. He didn't need any. He used me."
 
 "How?"
 
@@ -126,19 +132,27 @@ It came out of her almost too low to carry. "Into me."
 
 Randi's breath went out of her, soft.
 
-"Well." Randi's mouth curled. "If you had enough gesso to paint with, sweetie, I'd say the canvas was ready."
+"What did it feel like?" she said. "There. Inside." A beat. "Was it a soft brush?"
+
+"No. Firm. You could feel every bristle." Her thumb was moving over Randi's toes, slow, back and forth across the nylon; she couldn't have said since when. "He started at the very bottom and drew it up, slow, right up to the top, and at the top it—" She couldn't. Her thumb had stopped on the arch. "Prickled."
+
+Randi's foot flexed in her hands.
+
+"Well." Randi's mouth curled. "If you had enough gesso to paint with, sweetie, I'd say the canvas was ready." Her brows went up, innocent as milk. "And did it do its job? The — ahem — gesso. Was it sticky enough?"
+
+Vee laughed, the awful helpless kind, her whole face in flames, and pulled Randi's foot further into her lap as if it were something to hold on to.
 
 "I bet you looked luscious." Randi said it low, almost to herself. "I wish I could have seen it."
 
 Vee's eyes went to her bag on the seat beside her before she could stop them.
 
-It was nothing, a flick. Randi sat straight up.
+It was nothing, a flick. Randi sat straight up, and the foot went out of Vee's hands.
 
 "You have a *photo*."
 
 "No — it's not—" It was exactly that. Her face, which had nearly come down, went straight back up.
 
-Randi put her hand out across the cloth, palm up, and left it there. "Gorgeous. Come on. You can't tell me all that and then not."
+Randi put her hand out across the cloth, palm up, and left it there. "Gorgeous. Come on. You can't tease a photo and then not show it."
 
 Vee kept her hands in her lap.
 
@@ -146,9 +160,13 @@ She had shown her the other one. Here, in this booth or the one beside it, her h
 
 She got the phone out. She opened the private album. There were two pictures in it, only ever two, and she touched the newer one. She had never once looked at it in daylight.
 
-The woman on the screen lay open on white sheets, her red hair everywhere and her hands up on the rail. A grapevine climbed the inside of her arm. Her breasts were two split cantaloupes, orange to the hard tips. Lower, one great black-red cherry sat on the shining ground of her, and under it the rest of her, red and open and wet, nothing tucked away, one bright line of it escaping down the frame. She was looking straight out of the picture, her green eyes gone dark.
+The woman on the screen lay open on white sheets, her red hair everywhere and her hands up on the rail. A grapevine climbed the inside of her arm. Her breasts were two split cantaloupes, orange to the hard tips. Lower, one great black-red cherry sat on the bare new skin of her, and all around it that skin shone, slick with what he had painted there — with her. And under it nothing was hidden at all: her slit, swollen and red and open, so plainly needy it was hard to look at, and running, visibly, one bright line of it escaping down the frame. She was looking straight out of the picture, her green eyes gone dark.
 
-The pride came up exactly as it had in his bed, hard enough to hurt. She sat across the table from it buttoned to the collarbone.
+Her face burned. And under the table, at the same time, she was going wet again.
+
+How was she supposed to hand that to her friend? Randi would look at it and know everything — how wet she had been, how badly she had wanted it, how far gone. There was no other way to read it. And Randi *would* read it: she'd look, and she'd know, and the knowing would be in her face across the table, and the thought of that went through Vee low and hot and would not leave.
+
+And under all of it the pride came up exactly as it had in his bed, hard enough to hurt. She sat across the table from it buttoned to the collarbone.
 
 She held out the phone. Randi didn't so much take it as draw it in — her fingers closing over Vee's and the phone together, pulling it across the cloth to her own side, into both her hands — and only then did she look down.
 
