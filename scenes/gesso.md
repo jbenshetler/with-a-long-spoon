@@ -308,4 +308,4 @@ She got the door shut on the cold and sat with her hands on the wheel and the en
 
 The glass fogged where she'd said it.
 
-"Get your sex brain under control." And then, because the last time she had said *next time*: "Starting now."
+"Get your sex brain under control." And then, because once already, at a sink under a blue light, she had promised *next time*: "Starting now."
