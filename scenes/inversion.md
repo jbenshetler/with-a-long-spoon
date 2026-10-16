@@ -40,15 +40,19 @@ The Standards room was the small meeting room off the second-floor landing, and 
 
 Somebody closed the door. She heard it go behind her, the latch, and did not turn around to see who.
 
-"Hi, sweetheart. Sit." Brooke's voice was warm the way it was always warm, a voice she had like other people had a scent. "We won't keep you long."
+"Randi." Warm the way she was always warm, a voice she had like other people had a scent — but she did not get up, and she did not say sit; she let the one open chair do that. "Thank you for coming up."
 
 Randi sat. She put her hands in her lap and left the water where it was.
 
-"So you know," Brooke said, "with the chair of Standards being — well." A small rueful tip of the head, because the chair of Standards was Randi, and you did not hear your own case. "I'm going to walk us through it, and Devon's keeping the notes. It's all very routine. We just want to talk some things through."
+"You know the procedure better than anyone at this table," Brooke said, and there was the rueful half-beat, gone as soon as it came: the chair of Standards was Randi, and a sister did not sit her own board. "So you'll let me keep it properly. Devon is seated in your place and will take the minutes. There is a written complaint, and it cites the standard. I'll put each part of it to you in turn, and you'll answer to each as you wish." She let that settle, unhurried, pleasant. "We'll observe the forms. I think you'd want us to."
 
-"Of course," Randi said. It came out even. She watched Brooke settle a single printed page square to the edge of the table, and she knew the page, she had set that page square to the edge of that table a dozen times with a girl across from her going pale, and she found that she admired, distantly, the way Brooke did not look at it. You did not need to look at it. You had it.
+She would have. That was the thing. It was, near enough to the word, how Randi called a board to order herself — the alternate seated, the complaint named, the standard cited, the matter put part by part — and she sat and heard the order of service she had built read back to her by a woman who kept it a half-degree cleaner than she did, and found nothing anywhere in it to stand on and refuse, because there was nothing wrong with the form. The form was correct. Correct was the whole of what it was for.
 
-"A few of us have just felt," Brooke said, "that things have gotten a little loose this year. A little sloppy. And when it's one girl we try to help her before it becomes a pattern. That's all this is."
+"Of course," Randi said.
+
+Brooke settled a single printed page square to the edge of the table. Randi knew the page; she had squared that page to that edge a dozen times with a girl across from her going pale, and she had learned, as Brooke plainly had, not to look at it while she spoke. You did not need to look at it. You had it.
+
+"The complaint speaks to a sister's conduct this year," Brooke said, and read from it without appearing to read, "grown — their word — *loose. And sloppy.*" The warmth stayed on the words, which was worse than if it had gone. "We take these one at a time, before a thing becomes a pattern. That is what tonight is."
 
 ---
 
