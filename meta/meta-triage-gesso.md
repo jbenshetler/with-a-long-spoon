@@ -27,6 +27,10 @@ reader). Heat 3 unanimous; Romance 3 in 11 of 14. The cold-read panel is still o
   anyway, as a guard rather than a fix: the vow moved out of the restroom to the
   Corolla after the goodbye kiss, and the cold wrists were cut (see Guards).
 
+- **"Turned it face-down"** (opus-5-5, both personas) read as a plant — *"the exact thing Vee said a cheat does"* (`boyfriend.md:222`) — and opened *did she send it?* Acted on: the face-down is cut; the lit screen alone carries the tell (no forwarded photo is planned).
+- **The empty inch** (opus-5-5 RG: *"I'm a little tired of that"*) against two readers who quoted *"not even in her head"* as the insight (opus-5 fsog, opus-5-5 fsog). Acted on by trimming the restatement only; *"She couldn't close it. Not even in her head."* is kept. Caution for the staircase still to draft (Whiskey and Wine, The Almost): don't re-announce the stall.
+- **Pace's absence** (opus-5-5 fsog: *"three chapters since Pace was in a room with her"*) — a pacing note for the run after Gesso, not a Gesso edit.
+
 ## Protected positives
 
 - **The phone.** Vee forgets bag and phone; Randi still on the lit screen at the
@@ -36,6 +40,7 @@ reader). Heat 3 unanimous; Romance 3 in 11 of 14. The cold-read panel is still o
 - **The restroom fantasy as wholly Vee's** — the migration from Pace's wiped mouth to
   her own stalled fingers to Randi's unwiping one, and the taste flash.
 - **The glassy eyes** — Vee's misreading as sadness.
+- **"She couldn't close it. Not even in her head."** — the taboo moved into the fantasy (praised twice).
 
 ## Guards (from this triage)
 

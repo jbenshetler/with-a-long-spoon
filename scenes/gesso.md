@@ -230,9 +230,9 @@ It was him at first. The brush, the firm bristles drawing up through her and com
 
 He wiped it. In her head he wiped it every time she ran it back, however she ran it.
 
-Her hand went on. Her breath went to pieces against the paint. And it wasn't his hand coming up wet anymore, it was her own — her fingers in the dark of her room, slick, a breath's width from her mouth and stopped there, as they had that night. She couldn't close it. Not even in her head. The little space in front of her lips stayed empty, and she worked at herself harder, as if she could drive her hand across it from down here.
+Her hand went on. Her breath went to pieces against the paint. And it wasn't his hand coming up wet anymore, it was her own — slick, a breath's width from her mouth, stopped there as they had stopped that night. She couldn't close it. Not even in her head.
 
-Something came into it instead.
+Something came into the space instead.
 
 A face, close. Coming up to her slow, the way his had, from between her thighs — a dark curtain falling forward, and the mouth. That mouth. The line drawn a hair outside the lip, the gloss laid down the middle, an hour and a cold walk and none of it moved. All of it moved now. All of it wet with her, shining with her, the lipstick gone soft at the edges and the chin bright, and the mouth not wiping anything. Coming up to kiss her with it.
 
@@ -260,7 +260,7 @@ The hall was longer going back.
 
 She came around the end of the partition and Randi was where she'd left her, in the corner of the booth with the cream coat around her shoulders now, and Vee's phone in both her hands. Her head was bent over it. The screen was still lit, throwing its small light up under her chin.
 
-Then Randi looked up. She pressed the side of the phone with her thumb, and the light went out, and she turned it face-down and slid it across the cloth to Vee's side.
+Then Randi looked up. She pressed the side of the phone with her thumb, and the light went out, and she slid it back across the cloth to Vee's side.
 
 Her eyes were dark, darker than the room made them, and glassy at the rims, and she didn't smile. She only watched Vee come the last few steps, and Vee's whole patched-up face went hot.
 
