@@ -7,6 +7,8 @@
 #
 # 1. {{Chapter Title}} validation: when a meta/*.md file is staged, verify every
 #    {{Title}} reference resolves to a real chapter (see CLAUDE.md).
+# 1b. Volume-marker validation: when the chronology or meta-volumes.toml is
+#    staged, verify the ◆ VOLUME markers agree with meta/meta-volumes.toml.
 # 2. Chronology HTML regen: when a scene, the chronology doc, or a cold-read
 #    review is staged, rebuild the local ignored chronology.html. The page
 #    includes embedded cold reads under each chapter card, but remains a local
@@ -23,6 +25,22 @@ if printf '%s\n' "$staged" | grep -q '^meta/.*\.md$'; then
         echo "" >&2
         echo "pre-commit: a {{Title}} reference does not resolve to a chapter." >&2
         echo "Fix the title/alias or unbrace it, then re-commit." >&2
+        echo "(To bypass in an emergency: git commit --no-verify)" >&2
+        exit 1
+    fi
+fi
+
+# --- 1b. volume markers vs meta-volumes.toml (chronology or volume data) ----
+# build_epub.py and chronology_html.py read the chronology's ◆ VOLUME markers
+# and section headings; everything else reads meta-volumes.toml. 74d58f4c
+# (2026-10-12) deleted Volume One's marker and heading along with an adjacent
+# entry, which emptied the Book 1 epub roster and the Book 1 progress row for a
+# week while volume_scenes.py --check reported the mismatch to no one.
+if printf '%s\n' "$staged" | grep -qE '^meta/(meta-plan-chronology\.md|meta-volumes\.toml)$'; then
+    if ! python3 tools/volume_scenes.py --check; then
+        echo "" >&2
+        echo "pre-commit: the chronology's ◆ VOLUME markers disagree with meta/meta-volumes.toml." >&2
+        echo "Restore or fix the marker/heading, then re-commit." >&2
         echo "(To bypass in an emergency: git commit --no-verify)" >&2
         exit 1
     fi

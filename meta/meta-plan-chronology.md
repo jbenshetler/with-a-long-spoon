@@ -22,6 +22,12 @@
 *~Sat Aug 8 · pre-novel · not a scene* · slug: pace-meets-randi
 Pace walks up cold to Randi's Greek group, gets accepted within fifteen minutes, asks her out inside that window — for that same evening. Genuine attraction, not strategy. They go out that night and she takes him to bed; **Randi drives the first sex** (author 2026-10-12). Back at the house the sisters gather in the kitchen, and the *"He's hard to say no to"* line originates there — true of the date request, cover for the night. Nothing like the men she dates (pleasant ordinary face, no money she can see, no standing); he listens, asks, doesn't assume. The greedy phase runs from this night: frequent, weekend-overnight-heavy (weekday afternoons besides), costing Randi the sorority weekends she'd been collecting standing on and leaving her sore (resolves once Vee absorbs the weekends; see `meta-arch-randi.md`, The Cadence). The house begins to converge on the view that a senior sister dating a social outcast is wrong; Brooke rides the consensus. Social-penalty thread begins. {{The Bench}} is four weeks on.
 
+---
+
+**◆ VOLUME ONE — Fall**  ·  *the Beginning — the ascending relationship, through the first crack*
+
+## Fall (Book 1 — A Polite Invitation)
+
 ### [SCENE] The Bench
 *Early fall · week 1 · Fri Sep 4* · Draft complete · `the-bench.md` · [detail](meta-condensed-the-bench.md) · slug: the-bench · present: Pace, Randi · reviewed: 2026-07-30, 2026-08-04
 Opening scene, Pace's POV. Their domestic ease rendered; BDSM sequence unhurried, tidal; she begs in a voice she hasn't used since childhood. In his bathroom afterward Randi practices the smile back onto her face. He holds her blind to the hunger he has inaugurated. Plants: clamps (held for Vee track); *the hum in her ribs.*
