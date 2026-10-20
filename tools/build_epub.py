@@ -79,10 +79,9 @@ PACKAGING = {
         "description_from_short": True,
     },
     "fall-2": {
-        # Took "A Warm Reception" from the spring on 2026-10-09. The blurb under
-        # "## Volume 2 blurb" was written for the SPRING's content, so it is not
-        # this volume's copy and is deliberately not wired up here.
-        "blurb_heading": None,
+        # Took "A Warm Reception" from the spring on 2026-10-09; its own jacket
+        # copy was accepted 2026-10-20.
+        "blurb_heading": "## Volume 2 blurb",
         "stem": "a-warm-reception",
         "cover": "images/a-warm-reception-cover-placeholder.png",
         "description_from_short": False,
@@ -291,7 +290,7 @@ def strip_emphasis(text: str) -> str:
 def _cut_at_subheading(section: str) -> str:
     """Trim a section at its first ### subheading.
 
-    The Volume 2 blurb section keeps runner-up alternates under ### headings
+    The Volume 3 blurb section keeps runner-up alternates under ### headings
     below the accepted copy; we want only the accepted copy's blockquotes.
     No-op for Vol 1 (its blurb section has no ### subsections).
     """

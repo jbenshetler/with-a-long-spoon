@@ -15,7 +15,7 @@
 # refresh this inline copy. Stamp before syncing the text and the packet will
 # serve stale copy while reporting "in sync."
 
-blurb_source_sha256 = "dba6000ceb3a94a9046a8f9707bdb957495ee0718f44ade71093f325e2abba49"
+blurb_source_sha256 = "3a3f2cb62f16eb195b9bfd5c5b8fcb6978c072f1e2e48bdac01331d30ed908e1"
 
 [volumes."1"]
 opening_slug = "the-bench"
@@ -37,13 +37,28 @@ The jacket / blurb page:
 >
 > *Book One of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact — a seduction at full heat and full tenderness, a woman waking to a man and, without quite letting herself know it, wanting the woman beside her, where every open door is a temptation and every step is hers.*'''
 
-# Volume 2 (fall-2, "A Warm Reception") — TITLE-ONLY card. The volume title moved
-# here from the spring on 2026-10-09 and no jacket copy has been written for the
-# second fall book yet, so it carries cover-board fact only, exactly as Volume 3
-# did under the 2026-08-23 ruling. Replace with a jacket once the copy exists.
+# Volume 2 (fall-2, "A Warm Reception") — full jacket, accepted 2026-10-20 (the
+# copy under "## Volume 2 blurb" in meta/meta-blurb.md). Replaced the title-only
+# card it carried since the 2026-10-09 split.
 [volumes."2"]
 opening_slug = "lesson"
-packet = '''On the cover: the series line **WITH A LONG SPOON · BOOK TWO**, the volume title **A WARM RECEPTION**, and the author **Helen Rivers**. (No tagline on the front — it is the blurb page's closing beat.)'''
+packet = '''On the cover: the series line **WITH A LONG SPOON · BOOK TWO**, the volume title **A WARM RECEPTION**, and the author **Helen Rivers**. (No tagline on the front — it is the blurb page's closing beat.)
+
+The jacket / blurb page:
+
+> He gives her everything but a word for what they are.
+>
+> Vivienne "Vee" Thorne has found the best thing in her life, and it has no name. Pace, a young mathematician, courtly and exact, sees her as no one ever has. In his house in the woods, the body she has always hidden becomes the thing he treasures, and every step further is hers. When she asks what she is to him out in the world, he tells her to believe what he does, and says nothing more.
+>
+> Every Saturday she brings all of it to Randi: the new hungers, what her body does now, what she can't make sense of alone, and the silence where his word should be. Across a brunch table where nothing is too intimate to tell, Randi wants every detail, slowly, and hands Vee's greed back to her as a gift: *you're just finally hungry out loud.* The goodbye kisses last a little longer each time. Vee calls it friendship.
+>
+> What Vee cannot see is that Randi and Pace are lovers, that they chose her together, and that everything she confides travels farther than she knows. What none of them counted on is how real it has become for all three, and what it has begun to cost.
+>
+> Warmer and more explicit than the book before it, *A Warm Reception* lets the reader, a step ahead of Vee from the first page, feel every degree of the heat come up.
+>
+> They welcomed her warmly. A warm reception is also what you call walking into fire.
+>
+> *Book Two of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact.*'''
 
 # Volume 3 (spring, "A Proper Serving") — the jacket below is the copy written for
 # this volume's CONTENT while it was numbered Book Two and titled A Warm Reception.

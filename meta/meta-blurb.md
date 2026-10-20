@@ -30,6 +30,26 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 
 ---
 
+## Volume 2 blurb (*A Warm Reception* · copy accepted 2026-10-20)
+
+*Written for the second fall book ({{Lesson}} through {{Nothing Underneath}}) after the 2026-10-09 split, from a full read of the volume and inside its arc summary (`meta-volumes.toml`). Pace's refusal to name it, Vee's new erotic life processed across Randi's brunch table, the game turning real at a cost. Tagline moved here from the retired spring alternate, which was written for this title. ~260 words before the comp line.*
+
+> He gives her everything but a word for what they are.
+>
+> Vivienne "Vee" Thorne has found the best thing in her life, and it has no name. Pace, a young mathematician, courtly and exact, sees her as no one ever has. In his house in the woods, the body she has always hidden becomes the thing he treasures, and every step further is hers. When she asks what she is to him out in the world, he tells her to believe what he does, and says nothing more.
+>
+> Every Saturday she brings all of it to Randi: the new hungers, what her body does now, what she can't make sense of alone, and the silence where his word should be. Across a brunch table where nothing is too intimate to tell, Randi wants every detail, slowly, and hands Vee's greed back to her as a gift: *you're just finally hungry out loud.* The goodbye kisses last a little longer each time. Vee calls it friendship.
+>
+> What Vee cannot see is that Randi and Pace are lovers, that they chose her together, and that everything she confides travels farther than she knows. What none of them counted on is how real it has become for all three, and what it has begun to cost.
+>
+> Warmer and more explicit than the book before it, *A Warm Reception* lets the reader, a step ahead of Vee from the first page, feel every degree of the heat come up.
+>
+> They welcomed her warmly. A warm reception is also what you call walking into fire.
+>
+> *Book Two of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact.*
+
+---
+
 ## Volume 3 blurb (*A Proper Serving* · copy accepted 2026-08-21, retitled 2026-10-09)
 
 *The copy below was written for THIS volume's content while it was numbered Book Two and titled* A Warm Reception *(that title moved to the second fall book on 2026-10-09; `meta-volumes.toml`). Only the derived facts — book number and volume title — were changed in the accepted copy, to keep it in sync with the reader packet. **The copy itself still wants an author pass: it was tuned to the word "warm."** The two alternates below are the 2026-08-21 runner-up drafts and deliberately still carry the old title.*
@@ -174,4 +194,5 @@ Deliberately absent: elevator pitch and unused taglines (query/ad material, not 
 - **The names are play and promise.** ~~Formal names on the jacket (**Miranda**, **Vivienne Thorne**)~~ — **SUPERSEDED on the jacket-name point (author ruling 2026-09-16): the jacket uses Randi.** Chapter one's late naming of the woman is a misdirect readers register as a twist, and "Miranda" on the jacket spends it before the book can. The bonus noted at the end of this bullet is the cost of the ruling, knowingly paid. Everything else here stands: filed-down names in the book (Randi, Vee). The nicknames wink (Randi, Vee) — never scrub or apologize: the book takes the wink seriously, and the gap between jacket name and page name *is* the promise — these are the opposite of porn characters. House move for doing the filing on the jacket itself: *"Miranda — Randi, to everyone —"*. (Bonus: a reader who meets Miranda on the jacket gets a small extra charge when the formal name surfaces on the paperwork in {{The Outlier}}.)
 - **The anti–Fifty Shades hook is gestured, never named on the product.** The consent lines ("asking before he takes and taking only what she gives"; "every open door is a temptation and every step is hers") are the signal — the readers it's for will clock it in one pass. Naming Fifty Shades is allowed only in ad/social copy, never on the jacket.
 - **Consent signals are phrased as her agency, never as his restraint — no negations.** "Every step is hers" outsells "not one is pushed": negative constructions (*not/no/never*) end the beat on a denial and read as disclaimers; positive constructions end on her choosing and read as promise. His verb up front (tempt, beckon — the canonical engine verb — or the door itself as actor), her agency at the close. Bonus when the lure verb is *temptation*: it shakes hands with the title's devil-proverb.
+- **No "girl," no girlhood, no childhood (author 2026-10-20).** Erotica retail filters read age-coded words as signals of minors: on the jacket Vee is a *woman*, twenty-one, and the copy never reaches back before college — no "since girlhood," no "the girl who," no childhood shame named. The shame is shown as present-tense (her body, her blush, what she won't let herself want), not as origin story.
 - **No heat overclaiming.** Chapter one delivers; the sample is the contract. "At full heat and full tenderness" is the ceiling of the claim — never "scorching from page one" language. The quiet jacket + loud chapter one is the anti–Fifty Shades experience in miniature.
