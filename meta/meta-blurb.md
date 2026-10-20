@@ -1,6 +1,6 @@
 # Blurb / jacket copy
 
-External reader-facing copy for *With a Long Spoon* — marketing and positioning only, not part of the writing process. Deployment: the book self-selects the erotica reader, so retail copy is **explicit** — the premise legible in fifty words, warmth-first, never coy. (A blind-LLM shelving test, 2026-08-09, placed the book in the **erotica section only**; a non-explicit / literary-facing register buys nothing and is no longer maintained here — regenerate one fresh if a query or prize submission ever needs it.) **The threesome is a Volume Three payoff, not a Volume One/Two event** (author ruling 2026-08-09): Vol. 1/2 copy foregrounds *the plan* — Randi and Pace choose Vee and draw her in — never a "third in the bed" this book has not yet delivered. Genre and craft discipline at the bottom.
+External reader-facing copy for *With a Long Spoon* — marketing and positioning only, not part of the writing process. Deployment: the book self-selects the erotica reader, so retail copy is **explicit** — the premise legible in fifty words, warmth-first, never coy. (A blind-LLM shelving test, 2026-08-09, placed the book in the **erotica section only**; a non-explicit / literary-facing register buys nothing and is no longer maintained here — regenerate one fresh if a query or prize submission ever needs it.) **The threesome is a Volume Four payoff, not a Volume One–Three event** (author ruling 2026-08-09; volumes renumbered 2026-10-09): Vol. 1–3 copy foregrounds *the plan* — Randi and Pace choose Vee and draw her in — never a "third in the bed" this book has not yet delivered. Genre and craft discipline at the bottom.
 
 ---
 
@@ -12,21 +12,21 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 
 ---
 
-## Test-epub blurb (Volume 1 · test readers · ~Aug 2026 · decided, not final)
+## Test-epub blurb (Volume 1 · copy accepted 2026-10-20)
 
-> Two people have planned the best year of her life. She doesn't know there's a plan.
+*Rewritten 2026-10-20 for Book 1's post-split extent ({{The Bench}} through {{Rock}}), from a full read of the volume and inside its arc summary (`meta-volumes.toml`). Trimmed from ~370 to ~180 words; "girlhood" and "the girl who" removed (Craft discipline); the plan stated once, in the hook. The comp line is the plain descriptor while the jacket comp is under review (Genre & positioning).*
+
+> Randi and Pace are lovers, and they have planned the best year of Vivienne Thorne's life. She doesn't know there's a plan.
 >
-> Vivienne "Vee" Thorne is twenty-one, a college junior, and quietly starving. The men have been fine. The friendships have been fine. Fine has never once been enough. So when her glamorous new friend, Randi, steers her — lightly, laughing, as if by accident — into the path of a young mathematician named Pace, Vee walks toward him because everything in her has been waiting to.
+> Everyone calls her Vee. She is twenty-one and quietly starving. The men have been fine. The friendships have been fine. Fine has never once been enough. So when her glamorous new friend Randi steers her, laughing, as if by accident, toward Pace, a young mathematician, Vee goes to him because everything in her has been waiting to.
 >
-> Pace is nothing like the boys she has known. He sees Vee completely, and under that gaze the shame she has carried since girlhood turns, impossibly, into heat. Courtly, exact, he asks before he takes and leaves her the room to choose, until choosing becomes the most erotic thing she has ever done. What grows between them is the best of her life, and every step of it she gives freely, gladly, with her whole body. Over lunches too intimate to name, she tells Randi everything — and Randi listens, and draws her further open, and welcomes her into a world she'd only ever watched from outside. And Vee never lets herself notice how much she grows to want Randi, too.
+> Pace sees her completely. Courtly and exact, he asks before he takes, until choosing becomes the most erotic thing she has ever done. Over long lunches Vee tells Randi everything. Randi listens, and draws her further open, and Vee never lets herself notice how much she wants Randi too.
 >
-> What Vee cannot see is that the invitation reached her long before she knew there was one — that it began as a game between the two people now closest to her, a secret choice made about her. What none of them saw coming was how real it would get: as true for the two who started it as for the girl who never knew there was one. Nothing was taken from her that she did not hand over.
->
-> Warm, wickedly explicit, and psychologically merciless in its tenderness, *A Polite Invitation* follows a young woman all the way inside an appetite that can only give her the best of herself by taking it — and lets the reader, ahead of her from the start, fall for it exactly as she does.
+> What Vee can't see is that she was chosen in a game Randi and Pace started in bed. She is the first woman Randi has ever let herself want. What none of them sees coming is how real it will get for each of them.
 >
 > Every yes was freely given. That was the problem.
 >
-> *Book One of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact — a seduction at full heat and full tenderness, a woman waking to a man and, without quite letting herself know it, wanting the woman beside her, where every open door is a temptation and every step is hers.*
+> *Book One of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*
 
 ---
 
@@ -46,7 +46,7 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 >
 > They welcomed her warmly. A warm reception is also what you call walking into fire.
 >
-> *Book Two of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact.*
+> *Book Two of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*
 
 ---
 
@@ -125,7 +125,7 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 - Name the three principals unambiguously — **Vee** (protagonist), **Randi** (her glamorous new friend), **Pace** (the mathematician) — with no character carried on a bare pronoun. (This fixes the original blurb's mathematician confusion, the reason for the rewrite.)
 
 **Make no promise the book doesn't keep**
-- No threesome promise (Volume Three payoff); no school named; the deception is a game that turned real on all three (keeps Randi and Pace off the predator read); consent as her agency (the freely-given yes is the point).
+- No threesome promise (Volume Four payoff); no school named; the deception is a game that turned real on all three (keeps Randi and Pace off the predator read); consent as her agency (the freely-given yes is the point).
 
 **Stay true to the book's structure**
 - Dramatic irony, not mystery — the reader is ahead of Vee from the start; reader complicity is the hook.
@@ -178,13 +178,15 @@ Deliberately absent: elevator pitch and unused taglines (query/ad material, not 
 
 **One-line:** *Dangerous Liaisons, but the players fall in love.* A game that became true for everyone who started it, and trapped them all. (Channel-agnostic; survives the flip.)
 
+**Jacket comp under review (2026-10-20).** A reviewer flagged that *Beauty* is the genre's best-known non-consent title, so it may promise harder content than the book delivers and pattern-match the keyword-based dubcon enforcement in `meta-plan-distribution.md` (and the age-filter rule in Craft discipline is worth checking against its heroine's age). Until ruled, the Book 1 and 2 jackets carry the plain descriptor *"Literary erotica: contemporary, explicit, and psychologically exact."* The author's test for a replacement: warm, explicit, strong psychological interior, characters who like each other and whom the reader likes, sex embraced as pleasure rather than examined coldly — *Beauty* remains the closest found despite the consent difference. **Candidate under author review:** Jacqueline Carey, *Kushiel's Dart* (check: ages in the early chapters, coercive episodes, register of its warmth). **Rejected 2026-10-20 (author):** Melissa Broder, *Milk Fed* — eating disorders, incest themes, body grotesque/body horror; Erica Jong, *Fear of Flying* — a marriage's breakup and a run of affairs, lacking warmth and explicitness.
+
 **Influences, not comps** (honor in the notes, never on the jacket): **Laclos** (structural ancestor); ***Story of O*** — consent-erotica ancestor and license for the dark ending, but emotionally cold and physically punishing: as a jacket promise it filters out exactly the warmth-first reader this book wants (author ruling, 2026-07).
 
 **Superseded position (pre-2026-07), kept in case an agent/editor changes the calculus:** literary fiction with a strong erotic engine; "erotica" as a category pulls genre-romance readers and undersells to literary ones, so it stays off the jacket; shelve as literary fiction; carry the heat through subject and comps (Greenwell *Cleanness*, Leilani *Luster*, Duras *The Lover*, Salter *A Sport and a Pastime*, Gaitskill kept but never setting the temperature), never through the word "erotica"; Rice/Roquelaure honored in the notes only.
 
 ## Craft discipline (obey in every blurb)
 
-- **Foreground the plan; protect the landing.** The design — Randi and Pace are lovers, and they have chosen Vee and are drawing her in — is open from chapter one. The book runs on dramatic irony (dread, not mystery); the reader stands ahead of Vee. Naming *the plan* is the *hook*, not a spoiler — but the **consummated threesome is a Volume Three payoff, never promised on the Volume One/Two jacket** (author ruling 2026-08-09): foreground the choosing and the steering, not a "third in the bed" this volume does not deliver. What recontextualizes is the *ending* — the inversion of who sees, the fused good/harm verdict, the orphaned wound. Never disclose how it lands.
+- **Foreground the plan; protect the landing.** The design — Randi and Pace are lovers, and they have chosen Vee and are drawing her in — is open from chapter one. The book runs on dramatic irony (dread, not mystery); the reader stands ahead of Vee. Naming *the plan* is the *hook*, not a spoiler — but the **consummated threesome is a Volume Four payoff, never promised on the Volume One–Three jackets** (author ruling 2026-08-09): foreground the choosing and the steering, not a "third in the bed" this volume does not deliver. What recontextualizes is the *ending* — the inversion of who sees, the fused good/harm verdict, the orphaned wound. Never disclose how it lands.
 - **Warmth leads; the trap is felt underneath.** The friendship, the love, the tenderness are the truest and strongest things in the book — lead with them. The configuration is the hook, but it must never read cold or sinister (the blurb obeys earn-the-dark too): the reader feels the warmth first and the trap beneath it, never gets sold the machine. "Two people run a con on a third" is the inverted, wrong blurb.
 - **Both seducers serve Vee's needs — and never push.** Pace opens doors and beckons; he never coerces — his attention serves her *safety and pleasure* and makes her feel **seen** ("seen" is Pace's word, never Randi's). Randi *elevates and listens* — she makes Vee feel *chosen*. Both make her feel special and chosen; the service is the seduction, not a softening of it. Never write Pace as acting without asking, and frame the deception as a *game* that turned real on all three — Randi and Pace trapped as surely as Vivienne (keeps them off the predator read).
 - **End on the tightening, not the consequence.** Close on the deepening/exposure; never on catastrophe, the threesome's aftermath, or who is destroyed.
@@ -194,5 +196,5 @@ Deliberately absent: elevator pitch and unused taglines (query/ad material, not 
 - **The names are play and promise.** ~~Formal names on the jacket (**Miranda**, **Vivienne Thorne**)~~ — **SUPERSEDED on the jacket-name point (author ruling 2026-09-16): the jacket uses Randi.** Chapter one's late naming of the woman is a misdirect readers register as a twist, and "Miranda" on the jacket spends it before the book can. The bonus noted at the end of this bullet is the cost of the ruling, knowingly paid. Everything else here stands: filed-down names in the book (Randi, Vee). The nicknames wink (Randi, Vee) — never scrub or apologize: the book takes the wink seriously, and the gap between jacket name and page name *is* the promise — these are the opposite of porn characters. House move for doing the filing on the jacket itself: *"Miranda — Randi, to everyone —"*. (Bonus: a reader who meets Miranda on the jacket gets a small extra charge when the formal name surfaces on the paperwork in {{The Outlier}}.)
 - **The anti–Fifty Shades hook is gestured, never named on the product.** The consent lines ("asking before he takes and taking only what she gives"; "every open door is a temptation and every step is hers") are the signal — the readers it's for will clock it in one pass. Naming Fifty Shades is allowed only in ad/social copy, never on the jacket.
 - **Consent signals are phrased as her agency, never as his restraint — no negations.** "Every step is hers" outsells "not one is pushed": negative constructions (*not/no/never*) end the beat on a denial and read as disclaimers; positive constructions end on her choosing and read as promise. His verb up front (tempt, beckon — the canonical engine verb — or the door itself as actor), her agency at the close. Bonus when the lure verb is *temptation*: it shakes hands with the title's devil-proverb.
-- **No "girl," no girlhood, no childhood (author 2026-10-20).** Erotica retail filters read age-coded words as signals of minors: on the jacket Vee is a *woman*, twenty-one, and the copy never reaches back before college — no "since girlhood," no "the girl who," no childhood shame named. The shame is shown as present-tense (her body, her blush, what she won't let herself want), not as origin story.
+- **No "girl," no girlhood, no childhood (author 2026-10-20).** Scope: everything retailers screen — title, subtitle, description, keywords, cover, and the jacket. Erotica retail filters read age-coded words as signals of minors (author-community experience, not a published Amazon list; Draft2Digital and Apple are stricter): on the jacket Vee is a *woman*, twenty-one, and the copy never reaches back before college — no "since girlhood," no "the girl who," no childhood shame named. The shame is shown as present-tense (her body, her blush, what she won't let herself want), not as origin story.
 - **No heat overclaiming.** Chapter one delivers; the sample is the contract. "At full heat and full tenderness" is the ceiling of the claim — never "scorching from page one" language. The quiet jacket + loud chapter one is the anti–Fifty Shades experience in miniature.

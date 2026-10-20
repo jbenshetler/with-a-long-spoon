@@ -181,6 +181,18 @@ mark items done with dates as they complete.*
   First run: Book A, fable-5-1, 2026-09-30 — 121/121 quotes verified, the
   glass-turn tell found bleeding Randi→Vee in {{What to Wear}} and {{Fed}}, five
   interpretive lines with no reader uptake (rulings pending).
+- [ ] **Age-coded language sweep (per volume, before publication)** — added
+  2026-10-20. Retailers screen erotica for wording that could suggest a minor
+  in a sexual context (author-community experience, not a published Amazon
+  list; Draft2Digital and Apple are stricter). Sweep each volume's **sex
+  scenes** for "girl" in **narration**, especially beside words stressing
+  smallness or youth; prefer her name or "woman" there. **Dialogue is out of
+  scope** — twenty-one-year-olds say "girl" constantly and scrubbing it reads
+  stiff. Flag, never fix; the author rules each hit, and an erotica-experienced
+  editor's assessment has the final word on current retailer sensitivities.
+  Jacket, title, keywords and metadata are covered separately by the blurb
+  rule in `meta-blurb.md` (Craft discipline). Status: Vol 1 — · Vol 2 — ·
+  Vol 3 — · Vol 4 —.
 - [ ] **Beta/test-reader pipeline** — full plan in `meta-plan-test-readers.md`
   (recruit → collect → deliver channel layers, intake screener, Helen Rivers
   recruit copy, behavioral-first question set). Value at *this* stage is

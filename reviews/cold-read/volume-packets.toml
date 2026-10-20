@@ -2,10 +2,11 @@
 # at that volume's opening chapter. Missing future-volume packets fail closed.
 #
 # Source of truth: meta/meta-blurb.md (Test-epub blurb + tagline) and
-# meta/meta-cover.md (Cover text). Regenerated 2026-08-09 to the current copy
-# (author ruling 2026-08-09): tagline ends on "problem" not "trap"; no
-# "third in their bed" promise (threesome is a Volume Three payoff — Vol 1
-# copy foregrounds the plan); warmth-first, all three principals named.
+# meta/meta-cover.md (Cover text). Volumes 1 and 2 regenerated 2026-10-20 to the
+# post-split copy. Standing rules (author 2026-08-09, renumbered): tagline ends on
+# "problem" not "trap"; no "third in their bed" promise (threesome is a Volume Four
+# payoff — early copy foregrounds the plan); warmth-first, all three principals named;
+# no "girl"/girlhood on the jacket (2026-10-20).
 #
 # Editing note: the `packet` string below is a HAND-MAINTAINED copy of the blurb,
 # not auto-generated. When the copy changes, update BOTH meta/meta-blurb.md AND
@@ -15,7 +16,7 @@
 # refresh this inline copy. Stamp before syncing the text and the packet will
 # serve stale copy while reporting "in sync."
 
-blurb_source_sha256 = "3a3f2cb62f16eb195b9bfd5c5b8fcb6978c072f1e2e48bdac01331d30ed908e1"
+blurb_source_sha256 = "0dd8b31b7ad7bb2b7c306c889b5dc3176b53f7d5379ca1882ca833227e63d7f0"
 
 [volumes."1"]
 opening_slug = "the-bench"
@@ -23,19 +24,17 @@ packet = '''On the cover: the series line **WITH A LONG SPOON · BOOK ONE**, the
 
 The jacket / blurb page:
 
-> Two people have planned the best year of her life. She doesn't know there's a plan.
+> Randi and Pace are lovers, and they have planned the best year of Vivienne Thorne's life. She doesn't know there's a plan.
 >
-> Vivienne "Vee" Thorne is twenty-one, a college junior, and quietly starving. The men have been fine. The friendships have been fine. Fine has never once been enough. So when her glamorous new friend, Randi, steers her — lightly, laughing, as if by accident — into the path of a young mathematician named Pace, Vee walks toward him because everything in her has been waiting to.
+> Everyone calls her Vee. She is twenty-one and quietly starving. The men have been fine. The friendships have been fine. Fine has never once been enough. So when her glamorous new friend Randi steers her, laughing, as if by accident, toward Pace, a young mathematician, Vee goes to him because everything in her has been waiting to.
 >
-> Pace is nothing like the boys she has known. He sees Vee completely, and under that gaze the shame she has carried since girlhood turns, impossibly, into heat. Courtly, exact, he asks before he takes and leaves her the room to choose, until choosing becomes the most erotic thing she has ever done. What grows between them is the best of her life, and every step of it she gives freely, gladly, with her whole body. Over lunches too intimate to name, she tells Randi everything — and Randi listens, and draws her further open, and welcomes her into a world she'd only ever watched from outside. And Vee never lets herself notice how much she grows to want Randi, too.
+> Pace sees her completely. Courtly and exact, he asks before he takes, until choosing becomes the most erotic thing she has ever done. Over long lunches Vee tells Randi everything. Randi listens, and draws her further open, and Vee never lets herself notice how much she wants Randi too.
 >
-> What Vee cannot see is that the invitation reached her long before she knew there was one — that it began as a game between the two people now closest to her, a secret choice made about her. What none of them saw coming was how real it would get: as true for the two who started it as for the girl who never knew there was one. Nothing was taken from her that she did not hand over.
->
-> Warm, wickedly explicit, and psychologically merciless in its tenderness, *A Polite Invitation* follows a young woman all the way inside an appetite that can only give her the best of herself by taking it — and lets the reader, ahead of her from the start, fall for it exactly as she does.
+> What Vee can't see is that she was chosen in a game Randi and Pace started in bed. She is the first woman Randi has ever let herself want. What none of them sees coming is how real it will get for each of them.
 >
 > Every yes was freely given. That was the problem.
 >
-> *Book One of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact — a seduction at full heat and full tenderness, a woman waking to a man and, without quite letting herself know it, wanting the woman beside her, where every open door is a temptation and every step is hers.*'''
+> *Book One of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*'''
 
 # Volume 2 (fall-2, "A Warm Reception") — full jacket, accepted 2026-10-20 (the
 # copy under "## Volume 2 blurb" in meta/meta-blurb.md). Replaced the title-only
@@ -58,7 +57,7 @@ The jacket / blurb page:
 >
 > They welcomed her warmly. A warm reception is also what you call walking into fire.
 >
-> *Book Two of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact.*'''
+> *Book Two of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*'''
 
 # Volume 3 (spring, "A Proper Serving") — the jacket below is the copy written for
 # this volume's CONTENT while it was numbered Book Two and titled A Warm Reception.
