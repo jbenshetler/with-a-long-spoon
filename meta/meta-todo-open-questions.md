@@ -690,3 +690,7 @@ behind the review gate. Two ways out, author's call:
 to `main` by cherry-pick, so it carries no unique content — it is purely the named
 workspace for the rework. **Rebase it onto `main` before resuming**; the commit
 will drop as already-applied, which is correct, not a loss.
+
+## 50. Does Vee's naming of the want move earlier — to Spring Break? (DISCUSS — parked 2026-10-19)
+
+Vee lies to herself and to Pace about wanting Randi before she says it to him. Today the naming lands at {{Vee on the Bench}}, the spring curtain (`meta-plan-spring.md`). The author is weighing moving it sooner, possibly to Spring Break. Touches: {{Postcard}} and {{Vee on the Bench}} (both drafted; the bench is written as the terminal naming); {{With You}} (needs only a want *already named bare* — holds either way); and the unruled spring split (`meta-volumes.toml` `[spring_split]`), whose second candidate seam is Spring Break — a naming there would end one book or open the next.

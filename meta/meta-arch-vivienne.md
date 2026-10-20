@@ -144,7 +144,7 @@ At the threesome both are at maximum amplitude simultaneously. She is more vulne
 
 For Vee, **Pace is the consuming axis.** Thinking-about-him, replay, anticipation, the secretions reframe integrating over months, planning the next night. The structure her week is organized around.
 
-For Vee, **Randi is the spice.** The SATC lunches are intensely valued — heat of confessional intimacy, shame-as-fuel amplified in a register Pace does not produce. The spice is hot. The spice is not the meal. *Pace constitutes; Randi enhances.*
+For Vee, **Randi is the spice.** The SATC lunches are intensely valued — heat of confessional intimacy, shame-as-fuel amplified in a register Pace does not produce. The spice is hot. The spice is not the meal. *Pace constitutes; Randi enhances.* To Vee, Randi is **sweetness with heat** (author 2026-10-19) — the warmth of the friendship and the charge under it, one taste.
 
 This is the rhyme-and-inversion with Randi's week, where the Vee-operation is the consuming axis and Pace is the spice. Each woman's primary axis is the other woman's spice. The asymmetry does not surface to either. The friendship runs on this mutual invisibility.
 

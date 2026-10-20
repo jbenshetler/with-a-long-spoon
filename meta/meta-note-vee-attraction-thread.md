@@ -28,7 +28,10 @@ someone else* has no written cause.
    Randi.
 2. **Spring — the renunciation.** She decides she cannot have her, **because Randi is her
    best friend.** The want is not resolved or outgrown; it is set aside on loyalty
-   grounds.
+   grounds. The loyalty is felt as **guilt toward Randi, not Pace** (author
+   2026-10-19): guilt at "misinterpreting" and "perverting" the friendship. She
+   doesn't pursue her; and she pushes Pace for more intense sex trying to drive
+   Randi out of her head (`meta-plan-spring.md`, staircase 1).
 3. **Summer opens — the answer.** Vee answers Pace's question from {{Boyfriend}} — *do
    you want to taste a woman?* — **yes**, and **redirects from Randi to other women.** The
    redirect is the renunciation enacted.

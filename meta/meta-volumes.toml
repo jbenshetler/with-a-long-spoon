@@ -27,6 +27,11 @@
 
 schema = 1
 
+# Each volume's `summary` is the author/editor arc summary (author 2026-10-19),
+# written reader-ahead — never jacket copy. It replaces the old one-line `arc`
+# tags, which predated the 2026-10-09 split. Blurbs in meta-blurb.md must stay
+# inside their volume's summary.
+
 # ---------------------------------------------------------------------------
 # Decided 2026-10-09: the fall splits in two and the dinner runs to five phases.
 #
@@ -46,7 +51,9 @@ status = "decided"           # decided | working | reserved
 decided = "2026-07-30"
 first = "the-bench"
 last = "rock"
-arc = "the Beginning — the ascending relationship, through the first crack"
+summary = """Two lovers, Randi and Pace, draw Vee into a plan she doesn't know exists.
+Glamorous Randi's friendship and courtly Pace's erotic attention feel like the
+best things that have ever happened to her."""
 
 [[volume]]
 tag = "fall-2"
@@ -57,7 +64,9 @@ status = "decided"
 decided = "2026-10-09"
 first = "lesson"
 last = "nothing-underneath"
-arc = "the body claimed and kept; the house becomes hers to be received into"
+summary = """Vee brings her deepening erotic life with Pace, and his refusal to name it,
+to Randi's brunch table, where the confiding is the seduction. The game becomes
+real, and all three fall into a love that costs them."""
 # Moved here from the spring (author ruling 2026-10-09). The recorded charge is
 # "she is *received* = taken in (and taken in = deceived)" — and the intake
 # happens in the fall, not the spring. Field-tested by accident: while the
@@ -76,12 +85,17 @@ status = "decided"
 decided = "2026-10-09"
 first = "missed-a-spot"
 last = "vee-on-the-bench"
-arc = "the Middle — the apparatus at full extraction; the appetite, named"
+summary = """Under a Hallmark romance that runs on BDSM, Vee lies to herself and to Pace
+about wanting Randi, holds back out of guilt at perverting their friendship, and
+pushes the sex harder to drive Randi out of her head, until she says the want
+aloud, to Pace alone. Randi, all sweetness and heat, chooses Vee at real cost
+before her sorority but never tells her, and goes hungry as the plan's bills
+come due."""
 # Took the title held as Volume Three's alternate. Its recorded gloss — "a
 # portion, the act of service, a comeuppance dealt" — stops being a trade-off
 # here and becomes the content, and it keeps the manners bookend (polite …
 # proper) inside the set while freeing "A Hot Meal" for the summer outright.
-# NOT YET SPLIT — see [spring_split] below.
+# NOT YET SPLIT — see [spring_split] below. The summary divides with it.
 
 [[volume]]
 tag = "summer"
@@ -92,7 +106,13 @@ status = "decided"
 decided = "2026-10-09"
 first = "ignition-scalding"
 last = "cassie-scene-thesis-delivery"
-arc = "the End — the rupture and the reveal"
+summary = """Wanting a woman and unable to let that woman be Randi, Vee asks Pace for a
+threesome on her own terms: not told the night, blindfolded, the woman silent
+until it's over. Randi steers her from Pace watching to Pace joining in, and
+plays the pointing game with her until she is hungry for it. Pace and Randi
+believe the reveal will be cathartic for all three. It devastates Vee, who
+leaves knowing everything, and in the coda tells Cassie the whole story, and
+Cassie would sign up anyway."""
 # Decided outright 2026-10-09; the long-standing fork with "A Proper Serving"
 # closes, that title having gone to the spring.
 
