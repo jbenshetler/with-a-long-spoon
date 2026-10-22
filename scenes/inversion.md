@@ -36,7 +36,7 @@ The house was warm and loud with Thursday, the common room going, somebody's spe
 
 She had her foot on the first stair and she did not slow down. Some sophomore. Attendance. She thought, without heat, that she would not have run a sophomore's attendance case on a Thursday night in front of the whole house; you did those quietly, by email, so the girl kept her face. Then the second girl said, "God, I'd hate to be her," and laughed, and Randi went up.
 
-The Standards room was the small meeting room off the second-floor landing, and the door was open, and the light was on, and they were already in it. That was the first wrong thing. She was never the last to a Standards meeting. She ran them. She came early and set the water out and took the seat at the head with the window behind her, and tonight the seat at the head with the window behind it had Brooke in it, and the chair Randi sat in — the board chair, the one on the near side, angled to the room — had a sophomore named Devon in it with a legal pad, and the only chair left was the one that faced them all, the one the girl under review sat in, pulled a little out from the wall so there was nothing behind it or beside it, and a glass of water set out on the table in front of it by someone who was not Randi.
+The Standards room was the small meeting room off the second-floor landing, and the door was open, and the light was on, and they were already in it. That was the first wrong thing. She was never the last to a Standards meeting. She ran them. She came early and set the water out and took the seat at the head with the window behind her, and tonight the seat at the head with the window behind it had Brooke in it, and the chair Randi sat in — the board chair, the one on the near side, angled to the room — had a sophomore named Marin in it with a legal pad, and the only chair left was the one that faced them all, the one the girl under review sat in, pulled a little out from the wall so there was nothing behind it or beside it, and a glass of water set out on the table in front of it by someone who was not Randi.
 
 Somebody closed the door. She heard it go behind her, the latch, and did not turn around to see who.
 
@@ -44,13 +44,13 @@ Somebody closed the door. She heard it go behind her, the latch, and did not tur
 
 Randi sat. She put her hands in her lap and left the water where it was.
 
-"You know the procedure better than anyone at this table," Brooke said, and there was the rueful half-beat, gone as soon as it came: the chair of Standards was Randi, and a sister did not sit her own board. "So you'll let me keep it properly. Devon is seated in your place and will take the minutes. There is a written complaint, and it cites the standard. I'll put each part of it to you in turn, and you'll answer to each as you wish." She let that settle, unhurried, pleasant. "We'll observe the forms. I think you'd want us to."
+"You know the procedure better than anyone at this table," Brooke said, and there was the rueful half-beat, gone as soon as it came: the chair of Standards was Randi, and a sister did not sit her own board. "So you'll let me keep it properly. Marin is seated in your place and will take the minutes. There is a written complaint, and it cites the standard. I'll put each part of it to you in turn, and you'll answer to each as you wish." She let that settle, unhurried, pleasant. "We'll observe the forms. I think you'd want us to."
 
 She would have. That was the thing. It was, near enough to the word, how Randi called a board to order herself — the alternate seated, the complaint named, the standard cited, the matter put part by part — and she sat and heard the order of service she had built read back to her by a woman who kept it a half-degree cleaner than she did, and found nothing anywhere in it to stand on and refuse, because there was nothing wrong with the form. The form was correct. Correct was the whole of what it was for.
 
 "Of course," Randi said.
 
-Brooke settled a single printed page square to the edge of the table. Randi knew the page; she had squared that page to that edge a dozen times with a girl across from her going pale, and she had learned, as Brooke plainly had, not to look at it while she spoke. You did not need to look at it. You had it.
+Brooke drew the papers from a fresh manila folder — Randi's name on the label — and set them neatly on top of it. The folder was new, and it had been opened for her, and her name was on the tab; Randi took that in before she took in a word of what was on the page. She had kept folders like it on other girls, a dozen of them, had sat in the chair Brooke was sitting in with the girl across from her going pale, and she had learned, as Brooke plainly had, not to look at the page while she spoke. You did not need to look at it. You had it.
 
 "The complaint speaks to a sister's conduct this year," Brooke said, and read from it without appearing to read, "grown — their word — *loose. And sloppy.*" The warmth stayed on the words, which was worse than if it had gone. "We take these one at a time, before a thing becomes a pattern. That is what tonight is."
 
@@ -68,7 +68,7 @@ She kept her face still and let the one morning open behind it, just the once: t
 
 ---
 
-Then the overnights. The page had those too — a count of them, going back to the fall, nights the board could establish Randi had not slept in the house and had filed no overnight card with the president, which the bylaws asked a sister to do, which no sister had done since the bylaw was written, which Randi herself had never once done and had never once been asked about, until the dates of it were a column on a page squared to the edge of a table.
+Then the overnights. The page had those too — a count of them, going back to the fall, nights the board could establish Randi had not slept in the house and had filed no overnight card with the president, which the bylaws asked a sister to do, which no sister had done since the bylaw was written, which Randi herself had never once done and had never once been asked about, until the dates of it were a column down a page in a folder with her name on it.
 
 "That's a lot of nights, honey," Brooke said. Not unkind. Reaching, almost, offering her the easy out: *a boy, isn't it.* She did not say it. She had learned, since the kitchen in January, not to hand Randi the safe answer.
 
@@ -92,19 +92,19 @@ Sloane went first, and Sloane told it mostly straight, in the breathless way Slo
 
 Kinsey went second, and Kinsey had been waiting all her life to go second at something, and Kinsey had Randi's hand up inside the back of the redhead's bra and down the front of her skirt, and the redhead's name, which Kinsey did not have, so it was *the redhead* the whole way through, *her hand right up under, I saw it,* and the room took a small breath.
 
-That was the one Randi could have stood up and killed. It would have taken a sentence. *My hand was on the outside of her skirt, Kinsey, I had a handful of her ass for a boy named Harrison and the whole floor watching, there was never anything under anything* — and the second she said it she would have been telling them, in front of Devon's moving pen, exactly how far it had gone and exactly how well she remembered, which was to the inch. So she let Kinsey have the bra. She let her have the hand up under. She sat with her face arranged and let the worse and falser version stand, because the true one was the one she could not afford to own.
+That was the one Randi could have stood up and killed. It would have taken a sentence. *My hand was on the outside of her skirt, Kinsey, I had a handful of her ass for a boy named Harrison and the whole floor watching, there was never anything under anything* — and the second she said it she would have been telling them, in front of Marin's moving pen, exactly how far it had gone and exactly how well she remembered, which was to the inch. So she let Kinsey have the bra. She let her have the hand up under. She sat with her face arranged and let the worse and falser version stand, because the true one was the one she could not afford to own.
 
 And under the arranged face, the true one ran anyway, the way it had run for five days: the floor, and the song breaking, and Vee reeled in by the wrists, and the held inch she had made herself take, a breath short of the girl's mouth, long enough that it stopped being a joke and they both felt it stop; and then the kiss, which she had sold to the room and to Vee and to herself afterward as a show for a boy neither of them could have picked out of a lineup; and the one thing she had not sold anyone, because she had not said it out loud even alone, which was that she had meant it. She had meant all of it. That was the part no witness in this room would ever have, and the only part that was true.
 
 "Thank you, Kinsey," Brooke said.
 
-"Do you dispute any of it?" Brooke said. Gently. The door held open one more time. "Any of the particulars — the dates, the account of the mixer. Anything you'd want Devon to note."
+"Do you dispute any of it?" Brooke said. Gently. The door held open one more time. "Any of the particulars — the dates, the account of the mixer. Anything you'd want Marin to note."
 
 Randi thought about the particulars. She knew every lever on that page; she had pulled most of them herself at one time or another. She could dispute the bra. She could dispute the overnight bylaw as a dead letter nobody enforced. She could make the whole thing take two hours and leave with half of it struck.
 
 "No," she said. "I don't dispute any of it."
 
-Devon wrote that down.
+Marin wrote that down.
 
 ---
 
@@ -142,7 +142,7 @@ So there it was, laid out neat on the table between them, the thing the whole ni
 
 Brooke looked at her for a moment, and something moved behind the warmth and did not surface, and then the warmth closed back over it, smooth, complete.
 
-"All right, honey," she said, and that was all, and she did not ask again, and she did not wait for a reason, the way she never waited; she was already squaring the folded page away and turning to Devon about something else, and the meeting was letting out around Randi where she sat, the sisters rising and gathering their phones, the ordinary warm noise of the house coming back into the room.
+"All right, honey," she said, and that was all, and she did not ask again, and she did not wait for a reason, the way she never waited; she was already slipping the papers back into the folder and turning to Marin about something else, and the meeting was letting out around Randi where she sat, the sisters rising and gathering their phones, the ordinary warm noise of the house coming back into the room.
 
 Randi stayed in the chair a moment longer, the one pulled out from the wall with nothing beside it, and then she got up and went to find her lipstick in the hall.
 
