@@ -50,25 +50,27 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 
 ---
 
-## Volume 3 blurb (*A Proper Serving* · copy accepted 2026-08-21, retitled 2026-10-09)
+## Volume 3 blurb (*A Proper Serving* · copy accepted 2026-10-23)
 
-*The copy below was written for THIS volume's content while it was numbered Book Two and titled* A Warm Reception *(that title moved to the second fall book on 2026-10-09; `meta-volumes.toml`). Only the derived facts — book number and volume title — were changed in the accepted copy, to keep it in sync with the reader packet. **The copy itself still wants an author pass: it was tuned to the word "warm."** The two alternates below are the 2026-08-21 runner-up drafts and deliberately still carry the old title.*
+*Rewritten 2026-10-23 for the post-split spring, against the Volume 3 summary in `meta/meta-volumes.toml`. Built from the 2026-08-21 primary (hook shape, the Pace paragraph, the reveal) and the two alternates below (the confession and "colored to imagine" lines, the reveal phrasing), with the author's own lines for the hook and the denial: Vee knows she wants Randi and refuses to see it. Pace is named before the reveal and falls too ("fallen every bit as far"). The 2026-08-21 primary it replaces carried "since girlhood" and the* Beauty *comp.*
 
-*Accepted 2026-08-21 from a 5→3 generate/critique tournament: the "table conceit" finalist (Pace-first, tightest Vol-1 structural match, cleanest hook mirror), with the author's tagline swapped in. Grade any revision against the **Blurb design goals** and **Craft discipline** below, exactly as for Vol 1. Names follow the Vol 1 Test-epub blurb (**Randi/Vee**) — **jacket-name question now RULED (author 2026-09-16): the jacket says Randi, not Miranda.** Chapter one withholds the woman's name until near the end; a reader arrives expecting Vee and gets Randi, and that misdirect reads as a good twist. Meeting "Miranda" on the jacket pre-empts it. This supersedes the "formal names on the jacket" bullet under Craft discipline on that point only. The two runner-up finalists are saved below the accepted copy — distinct angles worth keeping (the f/f-forward lead is the strongest include/warn filter; the second-person version is the biggest reward for Vol 1 finishers).*
+***Reduce before publication (author 2026-10-23).*** *Accepted at ~263 words, well over Book 1 (~183) and Book 2 (~260). Least-cost cuts already identified: "a college junior" and "each on her own nerve" (¶2), "and the one beneath it" (¶3), "before she was anything to either of them" (¶4) — about 20 words together. Paragraphs 2 and 3 were otherwise approved as they stand.*
 
-> Two people set the table for Vivienne "Vee" Thorne's spring. She believes she pulled out the chair herself.
+> Two people have made Vivienne "Vee" Thorne's life richer than she knew to dream. She thinks she stumbled into them.
 >
-> She is twenty-one, a college junior, and she came to them already starving — starving since girlhood, long before either of them — and this spring she learns her appetite runs in more directions than one. Its steady center is Pace, a mathematician, courtly and exact, whose unhurried attention has made a home of the hours behind his door. Under it she crosses thresholds the Vee of last autumn would never have dared, one after another, each on her own nerve, until the daring itself becomes the thing she craves — and she is glad of it, every time she reaches for more.
+> She is twenty-one, a college junior, and she came to them already starving, and this spring she learns her appetite runs in more directions than one. Its steady center is Pace, a mathematician, courtly and exact, whose unhurried attention has made a home of the hours behind his door. Under it she does things the Vee of last autumn would have colored to imagine, each on her own nerve, until the daring itself becomes the thing she craves.
 >
-> The long lunches are dinners now, and Randi is across the table for every one. She listens as no one ever has, leaning close, drawing the next thing and the next out of Vee until she is laughing more than she meant to and coloring at what she cannot explain. What surfaced without a name last fall has one this spring, and she can no longer keep from knowing it: she wants the woman across the table as surely as she wants the man behind the door. That reaching is hers, too.
+> The lunches with Randi are dinners now. Randi listens as no one in Vee's life ever has, leaning in, drawing out the next confession and the one beneath it, until Vee is laughing past her own guard and warm in the face with what she refuses to see. Somewhere in all that leaning close, the thing Vee has never let herself know is waking. Randi is her friend, the best she has ever had, and the goodbye kisses are only Randi being Randi. She tells herself so when the goodbye kiss outlasts the goodbye.
 >
-> What Vee cannot see is that Randi and Pace chose her together, once, before she was anything to either of them. What none of them counted on was how far it would carry them: she has moved the two who arranged her spring as surely as they have opened her. Nothing is taken from Vee that she does not hand over, gladly.
+> What Vee does not know is that Randi and Pace chose her together, before she was anything to either of them. What none of them counted on was how far it would carry them: the two who moved her have fallen every bit as far.
 >
-> Warmer and more explicit than the book before it, and more tender the harder it looks at her, *A Proper Serving* sets before a young woman the whole of an appetite that was always hers — the man, the woman beside her, one more door raised and not yet opened — and lets the reader, seated at the table since the first course, hunger right alongside her.
+> *A Proper Serving* is warmer and more explicit than the book before it.
 >
 > Vee is a willing player in two games. She doesn't know there are three.
 >
-> *Book Three of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact — full heat and full tenderness, a woman coming awake to a man and to the woman beside her, every open door her own to walk through.*
+> *Book Three of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*
+
+*The two alternates below are the 2026-08-21 runner-up drafts, kept as source material (the author judged both strong). They predate the split and still carry the old title, book number, "girl"/"girlhood," and the* Beauty *comp — never ship either as written.*
 
 ### Alternate — f/f-forward (Randi-first; strongest include/warn filter, but buries Pace)
 
