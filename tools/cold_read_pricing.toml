@@ -84,6 +84,18 @@ max_input = 920576
 max_output = 65536
 # catalog: google/gemini-3.8-flash
 
+# gemini-4-argon: read 2026-10-21 — Google (vertex) $2/$10, Google AI Studio
+# flex $1/$5. Recorded at the dearer rate; floor disabled (first-party only).
+# Measured 2026-10-21: one capture lane (romance-graduate, ch1-80, 80 gates +
+# 8 mints + 1 truncation retry) billed $5.72 for 2.56M tokens.
+[models."google/gemini-4-argon"]
+input = 2.00
+output = 10.00
+context_window = 1048576
+max_input = 920576
+max_output = 943718
+# catalog: google/gemini-4-argon
+
 [models."deepseek/deepseek-v4-pro-0813"]
 input = 1.06
 output = 3.17

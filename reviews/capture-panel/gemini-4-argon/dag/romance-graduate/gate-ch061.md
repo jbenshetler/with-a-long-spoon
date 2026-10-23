@@ -1,0 +1,20 @@
+*capture-dag-v2-rich · gate ch061 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 6b0559c5db2b · 2026-10-21*
+
+REACTION
+
+Oh, I *loved* this chapter. Every single beat of it.
+
+First of all, the sheer competence kink of watching Pace work that room—not by dominating the conversation or bragging about his powerlifting numbers or his PhD, but by remembering every single tiny story Vee ever told his bare back in the dark and using them to set her friends up to shine. Asking Danny about *his* bench and never giving his own numbers! Asking Theo where jazz starts *for him*! Asking Cassie about the Bricklayers! Watching Cassie—who guards Vee like a goalkeeper—sit there in a roadhouse telling Pace the origin story of their friendship made my chest ache in the best way. And introducing himself six times in a row in his flat grocery-list voice as *"Vee's boyfriend"*—no hesitation, no irony, just a man stating his one credential while Vee mouths it to herself by the brisket. After the five weeks of winter break hell, watching him show up for her in public like this is the ultimate romantic payoff.
+
+And yet the tension sitting right underneath the warm pine paneling is *electric*, because Randi is right there at the table. Randi showing up before the hosts even get there, shaking Pace's hand like they haven't been sleeping together and plotting Vee's love life behind the scenes (*"Finally. She hides you very well"* / *"Not anymore"*—the nerve of these two!), and then that moment at the end of the night when it's just the three of them. When Pace drops *"My weekends weren't the same before you"* and Randi counters with *"What I didn't tell him is that meeting Vee was the highlight of my year"*... and then Randi goes glazed-quiet, turning her glass until her thumbnail goes white under the rim because she's in love with Vee and watching Vee glow for Pace, AND watching Pace claim Vee in a way he's never publicly claimed Randi. When Vee puts her hand flat over Randi's wrist—right over the locked white-gold bracelet!—I practically stopped breathing. And then the parking lot kiss between the girls while Pace watches from twelve feet away, checking the sky! Vee wondering for half a second *what that looked like from over there*, and then immediately pouring all that triangulated charge straight into Pace against the side of the truck.
+
+The truck scenes at the end were scorching because they felt completely earned by the emotional high of the dinner. Vee not even letting him put the key in the ignition because six rounds of *"Vee's boyfriend"* and watching him love her people has her starving to put her mouth on him—and the detail that what gets her off about blowing him is the moment his hand in her hair goes completely still and weightless (*"the man who did six things at once, down to zero"*). And then the drive home! The callback to September when the vents blew cold, and the callback to Friday night when she edged herself on the dark county road and ruined her coat—except this time she shoves her jeans down to her thighs on the vinyl bench seat, holds her own soaked lace aside as an ongoing offering, and lets him bring her all the way home with one hand while he drives steady with the other. And that final line, with her sitting there with her jeans around her knees while a tiny part of her brain is still watching Randi's thumb turn that glass a quarter-turn at a time... God, this book knows exactly how to braid heart, heat, and suspense into a single strand.
+
+GATE 61 — Among Friends
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: This had everything I read for: deeply earned romantic tenderness as Pace wins over Vee's entire friend group using the memories she gave him, razor-sharp three-way subtext at the table with Randi, and a scorching two-part truck scene that ties straight back into the emotional and erotic threads of the whole book. I'm dying to see the Thursday night dinner debrief with Randi after that white-knuckled toast.

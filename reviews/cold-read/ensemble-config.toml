@@ -63,6 +63,9 @@ models = [
   # with fable's carry-forward, not its own. Bootstrap checkpoint: a copy of
   # claude-fable-5-1/dag/<persona>/ck-ch040.md, provenance recorded in the file.
   "claude-opus-5-5",
+  # Added 2026-10-21 (author request): paid OpenRouter lane, first run is
+  # romance-graduate through Volume 3.
+  "gemini-4-argon",
 ]
 # Off the capture roster. Every retired model's gates were erased from the tree
 # (`claude-fable-5` was kept as history for part of 2026-09-26, then erased with
@@ -175,6 +178,14 @@ provider_model = "google/gemini-3.8-flash"
 # Google does not publish it. Applying the floor leaves zero endpoints and
 # fails every call. Do NOT fix this by adding "unknown" to the global list:
 # that readmits the third-party endpoints the floor exists to exclude.
+quantizations = []
+
+[readers."gemini-4-argon"]
+vendor = "google"
+provider_model = "google/gemini-4-argon"
+# Same first-party exemption as gemini-3.8-flash: both endpoints (Google,
+# Google AI Studio flex) report `quantization: unknown`; the floor would leave
+# zero endpoints.
 quantizations = []
 
 [readers."qwen3.8-max-0902"]

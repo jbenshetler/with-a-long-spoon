@@ -1,0 +1,18 @@
+*capture-dag-v2-rich · gate ch045 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-21*
+
+REACTION
+
+Oh, that ending with the flannel shirt just wrecked me. That tiny flash of hurt across his face when she hands him the folded shirt and he thinks she's giving it back—and he just swallows it and decides *not to ask*! Because that's who he is, he never crowds her, he never demands a thing from her, even when she's telling him she needs five nights away to study and a secret irrational part of her is dying for him to fight her on it and beg her to stay. And then when she blurts out *"No. This is still my shirt. You don't get to keep it"* and confesses that she washed it because she slept in it every night until his scent died and she needs him to recharge it for her all weekend... and he just pulls it right on over the shirt he's already wearing in his warm house. Standing there in two shirts because she asked him to. My chest physically hurts. How is a man who is actively orchestrating a secret three-way seduction behind her back capable of being this devastatingly, quietly tender?!
+
+Wait—speaking of the secret seduction, did anyone else catch where her green satin thong landed when she threw it?! *"It landed green on the long, unusually proportioned table that stood in the middle of his bedroom. She never looked to see where it went."* THE SPANKING BENCH TABLE. The table with the hidden bench underneath where he used to take Randi! This book is so wicked with its physical spaces—first the top bathroom drawer ("Her space," she thinks, smiling to herself on the lawn while my stomach drops through the floor), and now her green thong slung right across the piece of furniture that holds his history with Randi. And during those five nights Vee stayed back at the dorm to study—how many of those five nights was Randi in that house, using that bathroom, looking at that drawer?!
+
+Also, the hallway undressing scene was pure heaven. I love when a sex scene lets two people be funny and clumsy and desperate all at once—Vee trying to strip while walking backward, getting her cold tight jeans stuck around one thigh, leaning back against him for balance only for him to cup her breasts through the green satin and slide a hand down between her legs ("You're not helping" / "I'm helping"), hopping on one foot in white cotton socks, and then him just holding the back of her bra still so she has to spin herself out of it like a spool. And the detail that her body "published the number she'd gone to such trouble to keep private" the second his mouth touched her—coming too loud and too fast because five nights of restraint just snapped in half. Even the homemade pizza with the water buffalo mozzarella and the Nebbiolo wine felt like an extension of the sex—that line about the difference between cotton candy and a bowl of cut strawberries is going to stay with me forever. I am so deep in this couple's domestic bliss that the ticking bomb of Randi and Thanksgiving break is making me sweat.
+
+GATE 45 — The New Ordinary
+DECISION: CONTINUE
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The flannel shirt beat at the end—his flash of silent hurt thinking she's returning it, followed by him immediately putting it on over his own shirt in a warm house so it'll smell like him by Sunday—is one of the most romantic things I've ever read. Combine that with the playful, desperate hallway strip, her green thong landing directly on the "unusually proportioned table" in his bedroom, and the dread of what happened during those five nights away, and I can't turn the page fast enough.
