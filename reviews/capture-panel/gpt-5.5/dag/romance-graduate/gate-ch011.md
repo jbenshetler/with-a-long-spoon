@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1d8b07a3a421 · 2026-10-01*
+*capture-dag-v2-rich · gate ch011 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2bcd8a499e1e · 2026-10-01*
 
-REACTION —
+REACTION — Oh, this got me. This is exactly the kind of chapter where nothing technically “happens” until suddenly my whole chest is tight and I realize I’ve been reading with my shoulders up.
 
-Oh, this one got me in that exact soft-danger place. Not a hot chapter in the obvious way, but very charged, because the whole thing is Vee being fed another kind of intimacy: being listened to, being displayed, being chosen in public, being named. And the book knows exactly how erotic “dear friend” can be when it lands on someone who has been living on crumbs.
+The hike worked on me because Pace is so unbearable in the small caretaking. Not flashy caretaking, not “look what a gentleman I am,” but the heel, the moleskin, the boot relaced differently. The cherry pit. The dry shirt. He keeps doing the thing that makes me weak: he notices a problem without making her feel like the problem. And that is so much hotter than a man who just growls a lot and pins someone to a wall because the book has run out of verbs.
 
-I am so aware of Cassie slipping away at the start. That little folded-away look hurt. Vee tells herself it’s fine to have your own people, and technically it is, but I can feel the book moving the furniture around her life. Cassie is not jealous in a petty way. Cassie is watching Vee get absorbed into a current. And Vee doesn’t watch her go because Randi has her by the wrist. That is the chapter in miniature, honestly.
+But the truck. God. The truck.
 
-Randi is dangerous here because she is wonderful. I hate that and love it. She knows how to make confession feel like a treat. She lets Vee say “May I choose?” and doesn’t pounce too hard. She names the submission but lets Vee keep the veil over it, which is so much more seductive than spelling it out. And then when Vee says “He’d ask, though,” and Randi answers “Ask and then ravish” at Vee’s volume? God. That is not just friendship. That is Randi stepping into the fantasy beside her and pretending she’s only holding the flashlight.
+I loved that the erotic turn came from her. Not because he pushed, not because the rain made it inevitable, not because he “couldn’t help himself,” but because he gave her privacy and she called him back. That crooked finger through the rainy window? I would have put the book down for a second if I weren’t absolutely glued to it. And then the buttons, the wet bra, her keeping his eyes and then choosing to look down so he would too. That is so specific and filthy and emotionally exact. It’s not coy. It’s not clinical. It’s Vee discovering that the shame-voice is not gone, but that maybe it can be ridden like heat. That is dangerous territory and the book knows it.
 
-The Smoothie Bird scene made my skin prickle. The room of matched girls, the high chairs, Vee’s feet not reaching the floor, the cardigan becoming an apology. I know that feeling so well I could taste the fake fruit and hairspray. And then Brooke arrives and suddenly the chapter becomes social horror with a smile on. Brooke doesn’t have to be cruel. The cruelty is the temperature of the room. She just has to ask who Vee is, warmly.
+Also, I am now in real trouble with Pace. I still know, intellectually, that he and Randi are orchestrating something. I have not forgotten the game. I have not forgotten Vee doesn’t know. But then he stands in the rain with his back turned so she can change, and he is freezing, and he still does not touch her until she reaches. The ethics are still a red wire under the floorboards, but emotionally? I believe his restraint. I believe his wanting. I believe that he was shaken by her. That trembling hand was everything. It broke the perfect-control thing open just enough.
 
-And then Randi says it. “Vee’s my dear friend.” Took her hand in public. In front of Brooke. In front of the kind of women whose opinion clearly matters in Randi’s ecosystem. I felt why Vee would almost melt from that. It is not nothing. It may also be calculated. It may be both, which is the whole poison cake this book keeps handing me. Randi spends something there, and Vee sees that it costs something, but Vee cannot yet ask whether Randi is spending it for Vee or spending Vee for herself.
+The russet dress also lit a little lamp in my head. He heard it. He didn’t pounce on it, didn’t make it a grand gesture in the moment, but I know he heard it. If that dress comes back, I will scream into a pillow, possibly with suspicion, possibly with delight, probably both.
 
-The “Love you, girl” at the end is almost worse because it is casual, sorority-bright, deniable. Vee receives it like sacrament. Randi can always say that’s just how girls talk. Vee is already carrying it home like proof she has a place.
+And that ending annoyed me in the best way. The campus cop interrupting right as she was going to say the too-big thing? Mean. Effective. Very series-brained. It leaves the chapter wet and unfinished, with her standing there in his flannel like a girl carrying evidence on her body. I want Randi to see it. I want Cassie to see it. I want Vee to try to explain and fail. I want the next chapter immediately, which is rude because I had plans.
 
-I’m still badly in. This chapter didn’t give me Pace on the hike, which I wanted like a dog at the window, but it sharpened the Randi thread beautifully. And it made me more nervous, because Vee’s hunger for being chosen is now visibly transferable. Pace opens one door, Randi opens another, and Vee is walking through both thinking the doors belong to different houses.
-
-GATE 11 — Dear
+GATE 12 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 1
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "And Vee thought, easily, that it was fine to have your own people."
-WHY: That line made me wary because I could feel Vee explaining away the first real displacement of Cassie, but the chapter used that unease beautifully instead of drifting. The public hand-hold and “dear friend” were a real turn in the bond for me, even if I do not trust the bond as clean. I want the hike badly, but now I also want the next Randi/Vee collision with almost equal dread.
+ALMOST-STOPPED: none
+WHY: This is the chapter where the book gives me the thing I keep reading for: explicit charge that comes from interiority, not despite it. The hike could have been a bridge, but the caretaking, the shame turning into want, and Pace’s hand shaking made it feel like a real turn in both desire and attachment.

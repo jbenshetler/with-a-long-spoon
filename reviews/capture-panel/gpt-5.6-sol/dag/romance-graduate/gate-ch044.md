@@ -1,26 +1,20 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-07*
+*capture-dag-v2-rich · gate ch044 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-07*
 
-REACTION
+REACTION — Oh, Cassie. Thank God for one person who asks the ordinary question that is actually the enormous question: *What is he to you?* Not what does he do to you, not how happy are you, not what new appetite has he uncovered. What is this relationship? Vee can describe every exquisite thing Pace’s hands do and every ingredient in his dinners, but she still cannot name the place she occupies in his life. She can tell her parents he is her boyfriend only with a question mark in her voice. That snagged hard.
 
-Oh, the shirt got me. That embarrassingly specific little need—not just wanting something of his, but wanting it recharged with his actual smell, admitting she has been sleeping in it every night she isn’t sleeping beside him—and Pace simply putting it on over the shirt he already has? That is exactly the kind of intimacy I’m here for. No teasing her, no making her translate the request into something less needy, no pretending not to understand. “All weekend.” God.
+And I completely understand why the dress is harder to explain than the sex. Pace making it is so intimate and so specifically *him*. It contains his attention, skill, money, time, and his private knowledge of how Vee wants to feel in her body. Saying “my boyfriend bought me a dress” belongs to a recognizable story. Saying “this barely older man I can’t define built the dress on his sun porch and knows exactly how to reveal me” opens the door onto the entire strange, consuming reality. Her father would look for the catch because there is a catch. It just isn’t the one he would imagine.
 
-And yet: *He was good at not asking things.* There it is. That quality is beautiful when he’s sparing her embarrassment and increasingly sinister everywhere else. Vee keeps reading his silence as grace because so often it is grace. She wanted him to object to the five nights, to admit he missed her, and instead he gave her room. Grown-up behavior, yes—but he still makes her infer every large feeling from doors, drawers, food, shirts. She is constructing an entire love declaration out of his actions because he refuses to say one. I believe her construction is accurate. I also think that habit is preparing her to accept far too much unspoken reality.
+The cropped photograph is doing a lot to me too. Vee keeps producing versions of herself for different audiences: waist-up for her parents, cropped for Randi until Randi nudges her, completely bare for Pace, almost honest for Cassie. Everyone gets the parts that fit. Meanwhile Pace and Randi possess the one uncropped account of her life, and she is the only person who does not.
 
-The reunion worked on me because it was undignified. The socks, the inside-out jeans, the bra caught at the back while she unwinds herself out of it—I could feel how badly she wanted him, and it didn’t read like another interchangeable marathon-sex brag. Her body announcing that she counted every night before she will admit she counted them was hot and tender at once. The actual sex was less arresting than the hallway getting there, but I believed the hunger.
+Cassie’s “Is it that you can’t say, or that you don’t want to?” is exactly why I trust her. No interpretation supplied. No seduction disguised as reassurance. Just a clean distinction Vee has to answer for herself. And that final feeling—grateful Cassie did not push, and disappointed she did not—is painfully true. Vee wants someone to make her say it while also needing the choice to remain hers. Cassie refuses to extract. That makes her safer than either of the people Vee is in love with, but perhaps less intoxicating.
 
-I did notice that this is another cycle of sex, elaborate food, and Vee understanding herself through what Pace gives her. The pizza sounds gorgeous, but we have established very thoroughly that his cooking wakes her senses. I don’t need another full tasting menu soon unless something changes across the table. The shirt saved the chapter from feeling like a gorgeous rerun because it made Vee ask for care in her own strange, vulnerable language.
+This was quiet, but it made contact where I needed it to. It also sharpened my impatience. Pace has made her a dress, a drawer, a home-shaped routine, and a shirt-scent ritual; Vee still cannot confidently call him her boyfriend. We are past the point where the unnamed quality feels merely romantic. The secret relationship underneath theirs makes that question mark dangerous.
 
-Also: excuse me, the “long, unusually proportioned table” in the bedroom? And her green thong landing on it while she never looks? I looked. The book absolutely wanted me to look. That is either the unopened door from the jacket quietly sitting in the room, or I have become as suspicious of furniture as I am of Randi. Pace made it, presumably. I would now like to know what it is for.
-
-I’m still furious that Vee is this deep into belonging to him while he and Randi are discussing her readiness and getting off on her private confidences. The tenderness here makes the concealed arrangement worse, not better. She thinks the shirt is traveling between *her* nights and *his* nights. Meanwhile, his life has another woman inside it whom Vee believes occupies an entirely separate world. Every new domestic ritual raises the eventual cost.
-
-Would I read on? Yes. The shirt left me soft, the table left me alert, and “good at not asking things” felt like the chapter accidentally putting a finger on the whole dangerous structure.
-
-GATE 45 — The New Ordinary
+GATE 46 — Cropped
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: “She could not have said, watching him, which of them got the larger share, and found she didn't mind.”
-WHY: The sex-and-food rhythm is close to becoming repetition, and another extended tasting passage tested me. But Vee’s request about the shirt was painfully intimate, Pace’s immediate answer landed perfectly, and that suspicious bedroom table has me very awake.
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: Cassie finally asked the plain structural question all the erotic and domestic intimacy has allowed Vee to avoid, and Vee’s inability to answer pulled me harder than another sex scene would have. I want the next chapter now because the book has made “boyfriend?” untenable, and somebody needs to stop letting Vee live inside a relationship no one will define.

@@ -1,34 +1,26 @@
-*capture-dag-v2-rich · gate ch014 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · 2026-10-11*
+*capture-dag-v2-rich · gate ch014 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 25b7bedbae77 · 2026-09-29*
 
 REACTION
 
-Oh, she didn't eat.
+Okay so this is the third time I've been handed the flannel. I lived it in the truck, I watched her give it to Cassie on the bunk, and now Meg's pointing a fork at her going "you have to tell the shirt" and I thought, oh no, don't. And then the book did the one thing that made it worth it: she *edits*. To Meg and Kayla it's "I was about to kiss him and he was shivering, so I made him drive." The buttons aren't in it. The wet bra isn't in it. She stripped to the waist on her knees on a bench seat and made a man look at her, and she gave that to Cassie and only Cassie, and I sat up. That's the whole friendship economy of this book in one omission. Cassie isn't even at the table and she still has more of Vee than the two girls with their palms flat on it.
 
-That's the whole chapter for me. Nine chapters of this man feeding women — the little plates with names she couldn't read, the sandwich with lettuce against the bread so the wet doesn't go through, the thin apple slices nobody ever comments on — and tonight he says *I'm starving, I'll cook, are you hungry* and she says **"No thanks."** Bright. From inside the camisole going over her head. And then *stay anyway, get warm,* and *I'm good.* And she drives off down the gravel and he goes and stands in front of the refrigerator and eats alone, and then eats *again*, which is the loneliest sentence in this book so far.
+Which is also why the table bugged me. Two brand-new friends get full portrait paragraphs at chapter fifteen — the calm one, the curly loud one — and Cassie gets nothing, and they're eating in the *athletic* dining hall, which is Cassie's building, on Kayla's theory that you walk in like you belong. Nobody thought to bring the actual athlete. I don't think the book missed that. I think it's doing it on purpose and it's going to cost somebody, and I'm going to be unwell about it.
 
-She's not refusing food. She's refusing the thing the food is. She figured out in that bathroom in chapter one that getting fed by him is how you get taken apart, and she has been declining dinner ever since without once saying so. And he *cannot see it.* He's got a mathematician's attention and he spent it on her hips.
+The text, though. *Would you come to my house Saturday. Two o'clock.* I made a noise. Because I know what's in that bedroom and she doesn't — the long walnut table with the top laid over it, the thing I've been carrying since chapter whatever — and Kayla is sitting there in a gold dining hall doing the math out loud for everyone: there's no meal at two, he wants you for the afternoon, bring a change of clothes. She's *right* and she's right for the wrong reasons and she has no idea she's a chorus. That's the jacket's promise actually paying: I'm ahead of Vee and it's not smug, it's sick-making. "It doesn't say for what" — no, honey, it doesn't.
 
-The chair by the door with nothing on it. He noticed and "set that aside." That's twice now he's logged a data point about her and filed it in the wrong drawer. He read the belly gone tight as a board under the heel of his hand and took it for the want — *if it was something else he could not have said what* — and I was yelling. She stopped moving. She clenched and held and wouldn't let go and he said her name and her eyes stayed shut. She wasn't close. She was *gone*. She was somewhere else with her eyes shut riding a man and holding her stomach rigid so it wouldn't come out of her, and the next thing out of her mouth was *I want us,* torn out, and he felt it like the first swallow of something and still didn't hear what it was.
+Also: powerlifter. He lifts first thing, writes six hours, stops because his writing's no good after. That's the first thing I've learned about his days that isn't about a woman in his house, and of course it's discipline and a hard stop. Of course it is. The man has a bench for everything.
 
-What *is* it, though. That's what's got me. Is it *us* as in the two of us, the thing she can't ever have because she decided not-ever and he can have the face? Or *us* as in all three, the only shape in which she's allowed to want anything? I think she doesn't know either and that's why it had to be torn out instead of said.
+And the thing that actually got me, quietly: the shirt folded on her pillow at this exact hour. She's been sleeping next to it. Nobody at the table knows that part either.
 
-And he withheld again. Twice now. She climbs on him and says *tell me* and he hands her Vee by the nose — gardenia and musk, warm since morning so it's mostly musk now, shampoo-clean hair with chlorine *subtly underneath it* — and that landed on me like a hand on the back of the neck, I'll be honest, the chlorine especially, the one part of Vee nobody took and he can smell it. Then *her stomach is soft,* and then: *He did not say how he knew. That she had given him herself, in the truck with the rain coming down, and he kept it.* He's running a second set of books. He gave his partner the perfume and kept the knock on the glass. He thinks that's chivalry. It's the beginning of a defection and he hasn't noticed he's defecting, and I don't know which of those two women it's going to cost more.
+One time. Twelve days, one kiss, and she didn't have to count. "I'm climbing the walls over a man asking me what I want for dinner." She can hear how it sounds and she says it anyway, and Meg gives her the only honest outside voice in the book — *everybody's different at the start, I said it about Danny, sometimes they even are* — and it slides right off her. That's the most frightening line in the chapter and it was delivered into a plate of cheese.
 
-The sex itself: good. Really good, the undressing especially — his hands coming off her only for exactly as long as it takes the next thing to leave her body and then back, lower, every garment an interruption. That's not a sex scene I've read four hundred times. And her holding him against herself and making him *watch* while she comes down an inch at a time until he makes a sound he didn't decide on, then smiling because she earned it — she's so good at this, and it's all from behind the face. She ran the whole thing. She never once lay still on his chest afterward, which the book tells me is the part she keeps for herself, and tonight she skipped it. The shivering came and she went for the blanket instead of the man. That's a woman who knows exactly which minute of the evening is the dangerous one.
+What I'd text at 1 a.m.: he asked her over at two in the afternoon with six words and I have to wait a whole chapter with that table sitting in that bedroom.
 
-Also: Heart of Glass going low in the front rooms. Sure. Fine. Great.
-
-And then — *she had asked him how it was. He had never got to that, and she had not asked again.* She didn't want to know about the hike. She wanted the body report. She asked the polite question on the way in and then threw it away, and when he's standing in his own open doorway with the cold coming in and that low plain thing in his chest that she didn't want to stay — that's the first time this book has let him be a person who can be hurt, and I was not braced for how much I liked it. Nine chapters of *may I* and the one thing that gets him is a woman leaving before dinner.
-
-Structurally this is doing something to me and I want to name it: I got Vee's best night, then two pages of Cassie, then this. I was starving for heat and the book gave me the truck — which was Vee on her knees on a bench seat choosing to be seen, and *flannel*, the dry shirt, him standing out in the rain for nothing she could see, which gutted me — and now it comes back around and shows me that the same night, three hours later, got itemized and traded for sex by someone else. I feel sick in the good way. Vee is upstairs in that shirt right now thinking she has a secret.
-
-What I'd text at 1 a.m.: *she wouldn't eat. HE OFFERED AND SHE WOULDN'T EAT. he has no idea he's already lost her and he's going to find out from Vee.*
-
-GATE 14 — Swim Lanes
+GATE 15 — What to Wear
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 6
 NEXT: 9
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "'Tell me.'" — the second time she's ridden him for a report, and for one beat I thought: if this becomes the format, I'm out.
-WHY: The sex was well-made but the chapter owned me on a two-word refusal of food and an empty chair. Randi cracked in front of me while he had his hands on her hips and couldn't read a single thing, and he kept the truck back from her, which means this is now a secret with three sides and nobody holding all of it. I want to know what she did in that car.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "Okay, but the shirt. You have to tell the shirt."
+WHY: Third pass on the same hike and I felt the repetition in my teeth — but she told it *wrong on purpose*, which redeemed the retread and told me more than the retread cost. And then it put a door in front of me with a time on it and I already know what's behind that door, so I'm not putting this down tonight.

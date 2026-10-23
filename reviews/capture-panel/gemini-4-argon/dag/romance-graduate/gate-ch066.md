@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch066 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · 2026-10-21*
+*capture-dag-v2-rich · gate ch066 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · 2026-10-21*
 
 REACTION
 
-Oh, that beat across the tablecloth where Randi's thumb goes completely still on Vee's hand. My stomach actually dropped.
+Okay, first of all, *Randi is a lying bitch* with that "barely stings" nonsense, and every woman who has ever been on that crinkly paper table for the first time just felt that "*Fuck—*" in her actual soul.
 
-Because on Sunday morning, over eggs with Pace, Vee admitted to him and to herself with a big, delighted laugh: *"I liked it, honestly. Best thing that's happened to my legs in a Virginia January."* She *did* like a woman looking at her with pure sexual appreciation. And Randi clocks it instantly—"And you liked it"—not with her usual bawdy teasing, not with the "gorgeous" armor, just flat and quiet, testing the water and feeling a sudden flash of jealousy that another woman looked at Vee like that. And Vee panics! Because suddenly the question is Coming From Inside The House, from the woman whose eyes she literally came to in the restaurant bathroom stall a week ago, and Vee blurts out, *"No. No. Not my thing."*
+What I love about how this book handles something as cliché-adjacent as the "billionaire/alpha asks the heroine to get a Brazilian" trope is that it refuses to gloss over the actual, physical, slightly humiliating reality of it—and somehow makes it *hotter* and more psychologically loaded because it doesn't. The observation in the waiting room between the girl who came "to be looked at" and the girl who came "to be touched" set the whole tone right out of the gate. And the way Pace asked her—just straight-faced over the kitchen counter, no explanation, leaving the space where the *why* should be for her to fill in with her own racing head, and still making it a question she has to say *yes* to—is such a classic Pace move.
 
-God, that broke my heart for Randi, even while Vee is sitting there doing her adorably oblivious straight-girl math (*aw, she thinks Sheri is still a threat to Pace!*), and Randi just says *"I know she isn't, gorgeous"* with five different layers of meaning underneath it. You can feel how much it costs Randi to take that *"Not my thing"* on the chin and just keep stroking Vee's knuckles.
+The middle of the appointment really got me, though. That moment where Sondra puts a flat, bored, professional hand on Vee's thigh and says *"Don't move,"* and Vee's body instantly recognizes the grammar of being pinned down—except it's the *wrong hand*, with "everything true scooped out of the middle," and it just opens this huge aching cavern in her for Pace's hand. And then her panic that her body is going to "tell on her" (get wet) right there under the fluorescent lights!
 
-And THEN—the waxing! Wait. Hold on. First of all, why didn't we see Pace ask her for that on Sunday? Now I want to know how that conversation went down! Second, look at Randi's eyes going somewhere over Vee's shoulder and coming back "with the whole week arranged in them." *Call in the morning, not the afternoon, and say my name in the first sentence.* What is she arranging?! Are Pace and Randi coordinating this? Is Randi going to show up at Sondra's, or is this setting up something for Friday night? And that goodbye kiss on the sidewalk—Vee tilting her face up with her eyes already closed, waiting for Randi's hand on her jaw, the kiss staying longer, Vee's mouth going straight to Randi's neck without either of them pretending it's an accident anymore right after she claimed women "weren't her thing." The hypocrisy of desire here is so real and so delicious. I need Friday immediately.
+And then the false floor of *"Roll over for me, hon. Onto your front."* Oh, the dread. The way her mother's flat kitchen voice (*"the kind of girl who"*) creeps in while she has her face pressed into the paper getting her ass waxed because Randi conveniently left that part out of the brochure... it's so painfully real and vulnerable. And wait—why *did* Pace ask for "all of it, bare" by this weekend? And why did Randi light up like Christmas morning when Vee told her on Tuesday, immediately sending her to her own girl Sondra? Especially given the jacket blurb about "one more door raised" and Vee's "the back and the rest of it"... is Pace prepping her for something specific, or is this also connected to Randi?
 
-GATE 67 — Between
+Either way, the payoff at the end when she's finally alone, touches how impossibly smooth she is, and goes weak at the knees thinking about *his* hand finding out what she went through for him—God, yes. Bring on the weekend immediately.
+
+GATE 68 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
-HEAT: 1
-ROMANCE: 2
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The micro-beat where Randi's thumb stops moving and Vee reflexively lies ("Not my thing") before turning her face up for Randi's kiss on the sidewalk is top-tier emotional tension, and the sudden drop of Pace asking Vee to get waxed bare—plus Randi's scheming look when she tells her to book Sondra on Friday—has me turning the page immediately.
+WHY: Taking a standard erotica trope (the first Brazilian wax) and writing it with this level of bodily honesty, humor, dread, and erotic anticipation is exactly why I trust this author. Now I'm dying to see Pace's reaction when he gets his hands on her this weekend.

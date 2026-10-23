@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch039 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · 2026-10-10*
+*capture-dag-v2-rich · gate ch039 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 2764101f080c · 2026-10-10*
 
 REACTION
 
-Oh, thank God she has somewhere to go that neither of them gave her. I liked being in the water with Vee. Her lane, her routine, her strength. Nobody dressing her or watching her or telling her what her body means. I’ve spent so long watching her discover herself through somebody else’s attention that I felt actual relief when she had a body that could simply get her down a pool.
+“Who does this to you when I’m not around?” Oh, Vee. I actually stopped there. She has asked him the question. Lightly, without knowing what she’s asking, but there it is—and he gives her an answer she can take straight back into believing she’s the only one. Then “I’d never share your photograph.” Such a precise promise in response to such a much bigger wish. I’m watching his words now in a way she isn’t, and it hurts.
 
-And then those four strokes of doubt. Yes, Vee. Stay there a second. I don’t want her happiness exposed as stupidity; I believe the happiness. But wondering how much of this man she knows and how much she’s supplied herself is the first thought in a while that made me lean toward the page. Especially when I know what he’s withholding. Of course the wall arrives and she swims past it. That feels painfully plausible, and I’m frustrated anyway.
+The posing got me. His mouth following his hands, her making him wait, the little practical fuss with the lamp, that pleased grin over the phone. Yes. That is the man I can still want with her. And I liked that she went and did her makeup anyway. He can love how she looks afterward; she can choose the face she wants in her own photograph. That little independence matters to me. Sending it felt intimate enough that I wanted to put my hand over hers for a second. Not because I expect him to pass it around. Because she is trusting him with more of herself while he keeps accepting trust he hasn’t given her enough information to offer.
 
-The counter worry threw me. We already opened the drawers. I was there when she found her things given the easy place and understood it was hers. Now she’s back wondering whether he minded, without even thinking about that? I stopped to work out whether this swim happened earlier. That little confusion kept me from settling completely into her head.
+I did feel heat, though arriving for the last seconds and then hearing afterward that it happened three times left me a little hungry. The photographing was the part I was actually inside. I don’t need a tally of how thoroughly satisfied she is to replace getting there with her.
 
-I’m also feeling the run of quiet chapters now. The drawer moved me; Cassie asking the question mattered; this gives Vee something I’ve wanted for her. But I’ve now spent three chapters mostly absorbing how deeply she’s fallen, while the thing that could change everything stays untouched. I don’t need sex wedged into her swimming session. I do need to feel we’re getting somewhere again.
+And then we cooked the entire chicken. I was happy in that kitchen for the wine argument; somewhere around the stock and the pasta I started looking ahead for quotation marks. I know he feeds her beautifully. I know she tastes things differently now. After the drawer and Cassie and the pool, I needed something more than another evening proving how happy she is. The first-bite look did bring me back, because he’d told her about it in bed and now she could catch him doing it.
 
-I liked her leaving hungry for a sandwich, with reading to do. I liked that ordinary girl enough to keep going. The explanation of what swimming does for her was more than I needed after I’d just felt it happen.
+“I don’t go back” woke me right up. There he is, the person with a life that hurts, and I wanted to stay at that table. I respected her leaving him room. But I’m also getting uneasy about how often loving him means accepting the edge of what he’ll let her know.
 
-GATE 40 — Strokes
+Then Sheri. Vee feels that tiny jealousy and generously lets it go, and I’m remembering that Sheri knows. Vee is working so hard to be fair with the information she has. That’s what’s getting under my skin now. I still believe the tenderness, which makes this worse. I’m reading on, but my thumb is moving for the question he still hasn’t answered.
+
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 5
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: “It took the words off things one at a time until what was left was the shape underneath”
-WHY: I’d already understood the relief, and being told what it meant made the ending feel longer. Vee briefly questioning her picture of Pace keeps me interested, but after three quiet chapters I’m ready for something to happen that she can’t simply carry away privately.
+CAPTURE: 7
+NEXT: 6
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: “She had used to just eat. Now she tasted, and there was no going back to the other, and she knew exactly whose doing that was.”
+WHY: I was starting to skim another explanation of how much he has changed her life. The photograph held me, and his answer about his parents brought back my curiosity, but I’m getting impatient with intimacy growing while her knowledge stays still.

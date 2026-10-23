@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-07*
+*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-07*
 
-REACTION — Oh, Cassie. Thank God for one person who asks the ordinary question that is actually the enormous question: *What is he to you?* Not what does he do to you, not how happy are you, not what new appetite has he uncovered. What is this relationship? Vee can describe every exquisite thing Pace’s hands do and every ingredient in his dinners, but she still cannot name the place she occupies in his life. She can tell her parents he is her boyfriend only with a question mark in her voice. That snagged hard.
+REACTION
 
-And I completely understand why the dress is harder to explain than the sex. Pace making it is so intimate and so specifically *him*. It contains his attention, skill, money, time, and his private knowledge of how Vee wants to feel in her body. Saying “my boyfriend bought me a dress” belongs to a recognizable story. Saying “this barely older man I can’t define built the dress on his sun porch and knows exactly how to reveal me” opens the door onto the entire strange, consuming reality. Her father would look for the catch because there is a catch. It just isn’t the one he would imagine.
+Oh, that hurt.
 
-The cropped photograph is doing a lot to me too. Vee keeps producing versions of herself for different audiences: waist-up for her parents, cropped for Randi until Randi nudges her, completely bare for Pace, almost honest for Cassie. Everyone gets the parts that fit. Meanwhile Pace and Randi possess the one uncropped account of her life, and she is the only person who does not.
+She gave him the bravest sentence she could manage, and he answered the part of it that was safest for him. Worse: he answered with her body. “What your body does.” She was telling him he had changed the scale of her life, and he told her they have unusually good sex. Tenderly, sincerely, while holding her exactly right—and still not answering her. I felt that little *wait* behind her breastbone like a dropped step.
 
-Cassie’s “Is it that you can’t say, or that you don’t want to?” is exactly why I trust her. No interpretation supplied. No seduction disguised as reassurance. Just a clean distinction Vee has to answer for herself. And that final feeling—grateful Cassie did not push, and disappointed she did not—is painfully true. Vee wants someone to make her say it while also needing the choice to remain hers. Cassie refuses to extract. That makes her safer than either of the people Vee is in love with, but perhaps less intoxicating.
+“I love how good we are together” is such a devastating counterfeit. It contains the right words in the wrong order. He cannot possibly be too emotionally unintelligent to hear what she offered; the whole book has shown me how minutely he reads her. So either he panicked and deflected, or he is deliberately keeping the relationship inside language that asks nothing binding of him. I don’t know which is worse. He gives her drawers and shirts and warm coffee and future-shaped habits, but when she reaches for the meaning of those things, he hands her compatibility.
 
-This was quiet, but it made contact where I needed it to. It also sharpened my impatience. Pace has made her a dress, a drawer, a home-shaped routine, and a shirt-scent ritual; Vee still cannot confidently call him her boyfriend. We are past the point where the unnamed quality feels merely romantic. The secret relationship underneath theirs makes that question mark dangerous.
+And Vee doing the repair work for him—*I was received warmly*—made me want to grab her. That is not reassurance; that is a woman arguing a case against her own hurt. The pile of “small flickers” scared me more than one dramatic revelation would have. She has already been noticing the gaps and quietly using everything good she knows about him to plaster over them. Now this joins the pile, and she has decided in advance never to ask. That is how a relationship becomes a beautiful room where one person is slowly trained not to touch the locked door.
 
-GATE 46 — Cropped
+I’m frustrated with her rule that he has to say it first, yes. She built an elaborate sentence to avoid the plain one, and he technically could have misunderstood. But I don’t really believe he did. Not Pace. Not the man who can read a slackened hand on a public lawn and build an entire sexual future from it. He heard enough to take two breaths. He knew something enormous had been placed in his hands, and he set it down without naming it.
+
+This was the consequence I wanted after the quieter stretch, and now I am fully alarmed. The hidden arrangement was already rotten; this makes it worse, because Vee isn’t just being denied facts about Randi. She is being allowed to build a life-shaped expectation while Pace carefully refuses the words that would make him answerable for it. I need the next chapter immediately. Somebody has to touch the pile.
+
+GATE 47 — Seconds
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
+CAPTURE: 9
+NEXT: 10
 HEAT: 0
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Cassie finally asked the plain structural question all the erotic and domestic intimacy has allowed Vee to avoid, and Vee’s inability to answer pulled me harder than another sex scene would have. I want the next chapter now because the book has made “boyfriend?” untenable, and somebody needs to stop letting Vee live inside a relationship no one will define.
+WHY: That wrong-shaped answer lodged under my breastbone exactly where it lodged under Vee’s. Pace’s tenderness no longer reassures me when he uses it to close the moment she was trying to open, and I need to know whether she keeps repairing the gap or finally looks directly into it.

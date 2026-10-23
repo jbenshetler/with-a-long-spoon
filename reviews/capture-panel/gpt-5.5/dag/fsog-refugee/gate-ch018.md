@@ -1,26 +1,30 @@
-*capture-dag-v2-rich · gate ch018 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bca2ed17019a · 2026-09-28*
+*capture-dag-v2-rich · gate ch018 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6c8bd3bde2d5 · 2026-10-01*
 
 REACTION —
 
-Oh, I needed this chapter more than I realized. After the sheer charge of the measuring scene, I needed Vee to come home and be messy and giddy and half unable to say it, and I needed Cassie there with the highlighter down. That felt like the right place to put my own breath back in my body.
+Oh, this one got under my skin in a different way. Not Pace heat, not the clean ache of being measured and looked at and not found wanting. This was Randi heat, and it is messier, slipperier, and I do not trust myself around it any more than Vee does.
 
-The heat in this one is mostly aftershock, but it is *strong* aftershock. Vee trying to report what happened and not being able to keep the shape of it neat is very, very good to me. “Burgundy” as the first thing out of her mouth, not “he saw me topless” or “I nearly died of wanting,” but the dress. Because of course the dress is the wound and the gift and the excuse and the altar all at once.
+The car alone. God. The top down, the leather, the way Vee feels herself become someone other people look at differently just by being beside Randi. I know that feeling, and I hate how well the book knows it: not just wanting the beautiful woman, but wanting the world that seems to gather around her. Randi is glamour as a hand extended. She makes Vee feel chosen, and I believe that the choosing is real, but I can feel the aim in it too. That is the danger. Randi is not coldly using her. She is hungry. She is moved. She is jealous, maybe. She is aroused, absolutely. And she is also steering.
 
-And Cassie. Bless Cassie forever. She is funny, she is skeptical, she is not dazzled into stupidity, and yet she lets the wonder be wonder. Her “Oh, Vee” when the heat-up-house detail lands? That got me. Because yes, exactly. It is not just that he made the dress or measured her body. It is that he adjusted the world before she arrived so her body would not suffer while being seen. That is the thing. That is why I keep trusting him in the room even while I do not trust the architecture of the larger plot.
+The lunch was almost unbearably sharp because Vee is so easy to hurt there: the menu prices, the shoes, the scuffed toe, the debit card. I felt my whole body clench when she ordered soup and water and made it funny. That reflex, turning shame into charm before anyone can see it, is too real. And Randi sees more than Vee thinks she sees. The fact that Randi tries once to pay and then lets Vee keep her pride mattered to me. She can be careful. She can also be terrifying.
 
-The chapter also made me love Vee’s ownership of herself. She is not just acted upon here. She is embarrassed, then proud, then wicked, then laughing into a pillow about grinding on him while he is trying to make her a dress. I *adore* that. This is the fantasy I came for: a man with control who does not erase her, and a woman discovering she can spend desire back at him. She is not a doll on the box. She is figuring out that she has hands on the steering wheel too.
+The scarf story. Whew. I know exactly why Vee got hot from it and also exactly why she had to throw jokes over it immediately. Randi tied up and laughing until she breaks open is such a direct line into Vee’s secret want for her, but Vee still cannot let herself look at that want straight on. And Randi talking about letting go, about someone taking the reins “done right” — that landed for me because that is the whole thing I read for. But coming from Randi it is both wisdom and bait. She knows what she is handing across the table.
 
-The gay joke could have been annoying if it had stayed mean or dumb, but between these two it reads like Cassie desperately trying to make the math work because Pace is behaving outside every script she has. “He’s a powerlifter who makes dresses” is funny because, honestly, same, Cassie. I too am sitting here with a pencil behind my ear trying to classify this man and failing.
+And then the dress confession. I was practically holding my breath. Vee wants so badly to tell her. Not just someone. Her. She wants Randi to receive the secret and make it beautiful. And Randi almost does. She gives Vee permission, makes “the bra too” ordinary, blesses her body, teases the truth closer and closer out of her. I was completely caught up in it, because that is seductive too: not a man touching her, but a woman naming the shape of the experience until Vee can admit it.
 
-What really holds me is that Cassie catches the consent without needing a lecture. “He asked,” she says, and Vee says not with the word, but yes. That matters. It lets me stay inside the erotic charge without that old sick feeling of the book wanting me to ignore disregard. Pace’s asking is becoming a language now, and Vee is learning to read it.
+But the moment Randi says, “You don’t have to tell me,” I felt the whole chapter turn. It was kind, yes. It was also not simple kindness. She brought Vee right to the edge of saying the most private, humiliating, erotic part, and then stopped her. Maybe because Randi realized she was taking too much. Maybe because she could not bear hearing the full intimacy of Pace seeing Vee that way. Maybe because the secret was hotter left suspended. Maybe all of it. But poor Vee, left with the secret halfway out of her and nowhere to put it. That silence hurt.
 
-I’m still aware of the secret, though. Every chapter like this makes the eventual bill larger. Cassie is hearing the real parts, but not the engineered beginning. Vee is saying “he left me a door,” and I believe that inside the room. But outside the room, before she got there, doors were opened and closed without her knowing. That ache is still there. For now, though, I am absolutely reading on. I want the finished dress. I want the induction. I want Randi to see Vee in burgundy and have to survive it.
+And then Randi kisses her.
 
-GATE 18 — Turned Up
+I actually said “oh no” in my head, but not because I didn’t want it. I wanted it. Vee wanted it. That kiss was soft and absolutely not nothing. The second press made it not nothing. And Vee explaining it away as a French thing almost before she can feel it broke my heart a little. She is so practiced at saving herself from what she wants. Then the panic about being seen, the windows, the courtyard — yes. That is the cost landing instantly. With Pace, being looked at has started to become power. With Randi, being seen is still danger.
+
+I am hooked, but my trust is on alert. Randi is becoming more openly real and more openly dangerous at the same time. Pace asks in ways that make room. Randi asks by making the room feel like it was always already hers. That can be intoxicating, and it can be a problem. I need the book to keep knowing the difference.
+
+GATE 19 — How It's Done
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This was exactly the decompression I wanted: funny, intimate, and still charged from the previous chapter. Cassie made the romance feel witnessed instead of sealed off, and the “he turned the heat up” detail hit me right in the tender machinery. I want the next chapter badly now, because the dress is becoming emotional evidence.
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "And what did he *see*?"
+WHY: I was wildly in it, but that line was the sharpest edge of Randi’s steering so far: intimate, thrilling, and too knowing. The kiss at the end made me want the next chapter immediately, but it also made me need the book to keep protecting Vee’s inner yes from everyone else’s appetite.

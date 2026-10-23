@@ -1,22 +1,31 @@
-*capture-dag-v2-rich · gate ch016 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 414026fd7d01 · 2026-10-10*
+*capture-dag-v2-rich · gate ch016 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-10*
 
-**REACTION**
+## REACTION
 
-Okay. The bedroom door stayed shut, and I felt Vee's stomach drop at exactly the moment mine did. She wore the satin out there on purpose. She leaned toward the handle and he said "my bedroom" in the same voice as "the kitchen" and steered her away by the elbow. I've been waiting for the bench since chapter 10 and the book walked me right past it. Then it put "a long low table" in the den and let me stare at it. Is that the bench? No, the bench is in the bedroom. Right? I genuinely can't tell if the book is teasing me or if I'm just paranoid now. That's a good place to keep me.
+Oh my god. Okay.
 
-The things I'm carrying in, which the book is plainly counting on: the house is too warm, and she files it under "small mysteries of him… a wrapped box on the counter without asking who it's for." I know who it's for. He keeps it warm for Randi, because Randi gets cold after. And the chapter is named for *two towels on the rod*. Two. She's standing in the other woman's bathroom and has no idea. Pace isn't hiding anything, which is somehow worse. That's how deep Randi is in this house. Being ahead of Vee is the whole pleasure the jacket promised, and this chapter finally paid it out.
+This is the chapter I've been waiting seventeen chapters for, and it isn't even sex. I've spent years telling people that the best scenes are clothed, and this is me getting proven right at 1 a.m. She's topless on a riser in hopeful satin, being measured by a man with a pencil behind his ear. The *rhythm* of it is what did it to me: close, two touches, step back, write it down. By the third time he walked back to that pad I could feel the ringing where his hands had been. The book taught me the pattern the same way it taught her, and then it made me wait inside it.
 
-Now the part where I rolled my eyes. This man lifts, writes for six hours, cooks from worn cookbooks, builds furniture with locking joints, mixes his own shellac, licenses an MRI patent that gets scared children out of the tube faster, AND makes his own shirts. He's a billionaire in a flannel. I've read this guy before, he just used to own a hockey team. The book knows it, I think. It undercuts him with "Are your parents rich?" and that little door shutting two rooms away, which I'm absolutely filing next to Daphne. But the tour went on long. Shoes, kitchen, office, shelves, error-correcting codes, patent, garage, porch. By the MRI speech I was skimming. Then "lit up like a six-year-old who'd just found out everything there was to know about dinosaurs" is Vee's own line from the smoothie place, recycled, and I flinched. And "say it more than once so the noise can't kill it," "finds the picture in the noise"? I heard it. Signal under noise, the real thing under the face. It's Randi. You don't have to put it in his mouth too. That's my hair trigger getting brushed. It didn't go off, but I felt it.
+The wetness thread was brave, and I mean brave for a romance. Every book I own treats her arousal as the reward, something he finds and gets smug about. Here it's the *horror*. "It was big and dark and stupid." The thumbprint gets bargained with on the couch under the blanket. "The hope was visible." That line got me in the gut, because I've been that woman managing her own body out of existence in public. Then he goes around her on his knees, and she shuts her eyes and counts. I was holding my breath with her. When she opens them, he's craned his neck all the way up so she'd see his face before anything else, and he never looked down. That's the turn. That's the man from the jacket, "sees Vee completely," made into something you can actually picture. I teared up a little, which is embarrassing.
 
-And then the cloth. God. "He hadn't matched the dress she'd described. He'd matched *her*." I teared up a little with her, which annoys me. The flannel having no tag, and her turning it inside out for a brand, then landing on "counterfeit, sample," because the real answer was absurd: that's real interiority. That's a woman thinking. Then the hook, which is the hottest thing in the chapter and nobody even touches anybody: "measure you first — down to what you'd wear under it, in good light." Down to the satin she already has on. He shut the bedroom door and then built her a reason to undress in the brightest room in the house. That's the most Pace thing he's ever done, and it's also a little sinister. He decides what she wears. Randi has her face, and now Pace is making Vee's. I don't know if Randi knows about the dress. I think it matters enormously whether she does.
+Then she gets *bold*, and that's the part I'll be texting people about. "Oops. Sorry." I cackled. Him going red, losing the fight against the grin, the pin, the kiss on the bead of blood. "I was worried I was going to have to come over here pre-aroused every time I wore it." Finally Vee gets to be *funny* in a sex scene, and grown-up funny at that. This is the interiority-plus-heat combination I keep saying doesn't exist.
 
-What I'd text at 1 a.m.: "he STOPPED the kiss, then offered to measure her in her underwear for a hand-sewn silk gown, there are two towels in his bathroom, I'm not okay."
+Now the suspicious part of me, which never fully switches off in this book. The long low table in the den, the one she crouched down to touch the joint on? That's the bench. Randi called it a table. Vee had her fingers on it and has no idea. Two towels on the bathroom rod, and the bedroom door kept shut. And then "who'd walked right past Randi, Randi!, without even looking." I actually said "oh honey" out loud. She thinks she won. The book is letting me sit ahead of her, just like the jacket promised, and it's working on me exactly as advertised. That makes me uneasy in the good way.
 
-GATE 16 — Two Towels
+I'm also holding chapter 14 against this one. Randi showed up on the same day as the hike, rode him for gardenia and chlorine, said "I want us," and *left*. Her belly went tight as a board, and he read it as want, again. Today's softness in this chapter is built on top of that. Is Randi going to get the measurements as her "Tell" tomorrow night? Probably. God help me, I'll read it.
+
+Where it lost me a little:
+- "Wryly." It's a one-word stage direction, and I physically winced.
+- The bold **QUIZ TODAY** was cute but broke the spell.
+- The last paragraphs explain the chapter to me: "had spent the entire afternoon being seen at her most ashamed and had not, once, been found wanting." I *felt* that already, an hour ago, on the riser. You don't need to staple it to the door.
+- It's long. The wetness spiral could lose a page.
+- It's also another chapter of him choosing restraint at the last second ("Keep still"). I love it here, but I can feel the pattern settling in. Next time the restraint has to *break*, or it'll start reading like a tic.
+
+## GATE 17 — A Round
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 9
 NEXT: 9
-HEAT: 1
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "And he lit up like a six-year-old who'd just found out everything there was to know about dinosaurs." Vee's line handed back to me word for word, at the start of a patent lecture, deep into a long house tour. That's the second quiet chapter in a row and I was skimming.
-WHY: The tour sagged and the man is getting too perfect to believe. But the closed door, the two towels, the warm house and that bolt of burgundy all landed hard. And "in good light" means the next chapter is the one I've been waiting for since the truck.
+ALMOST-STOPPED: "*Maybe he'll think it's the cold air.* Except he'd thoughtfully turned up the heat. Wryly." It was a one-word hiccup, nowhere near quitting, but it's the closest the chapter came.
+WHY: This is the both-at-once I came for: explicit charge, real shame, real humor, and a man whose kindness actually lands on her body. Her opening her eyes to find him waiting, and him never looking down, is the best beat in the book so far. I need to know whether that bedroom door opens, and what Randi does with "Tell" after this.

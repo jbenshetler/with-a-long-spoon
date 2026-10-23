@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · 2026-10-11*
+*capture-dag-v2-rich · gate ch014 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 25b7bedbae77 · 2026-10-01*
 
-REACTION — Oh, Randi. She arrived already planning to leave. The empty chair by the door hurt before I even understood why Pace noticed it, and then the whole scene was her trying to fuck an unbearable feeling into a shape she could survive.
+REACTION
 
-And it was extremely hot. I’m not going to pretend otherwise. Her making him watch her take him slowly, then using his descriptions of Vee’s scent and body to get herself off—yes. Absolutely yes. This is the explicit triangle I was promised, except Vee is present as intimate knowledge she never agreed to have passed between them, and that makes the heat feel illicit in the genuinely dangerous way, not the decorative romance-novel way. Pace keeping the truck to himself is a meaningful line, but “her stomach is soft” is still something he learned during a private act of trust. I felt the boundary move under my feet.
+Oh, I am already at his house in my head. I know exactly what is waiting behind that door, and Vee is sitting in a dining hall debating outfits while I am internally screaming about the innocent-looking table in his bedroom. “There’s no meal at two” nearly made me laugh out loud. Kayla, you have no idea how correct you are.
 
-Randi’s reaction to that detail was almost painful to read. That sudden clench, the closed eyes, the hard driving afterward—she wants Vee so badly she cannot remain inside her own polished seduction once the reality of Vee’s body enters the room. And “I want us” is not the uncomplicated declaration Pace receives it as. I heard all three of them in it. Possibly Randi and Vee most loudly of all.
+I loved seeing Vee with girls who aren’t trying to maneuver her. Meg and Kayla are nosy and delighted and turning the whole thing into an event, but it feels normal—warm, uncomplicated, ordinary-friend normal. She gets to boast about Pace, get teased for knowing it has been twelve days, and admit that his restraint is making her lose her mind. That last part got me, because yes. It isn’t nothing. He asks, listens for the real answer, and then honors it precisely. Of course a woman whose wants have always been monitored or corrected is climbing the walls over that. She understands the effect even if she doesn’t yet understand how deliberately suited to her it all is.
 
-Then she fled before the tenderness could catch her. No food, no warmth, no lying on his chest, no morning. This is the same woman who locked herself in the bathroom after the bench, except now she came in knowing where the exit was and never even set down her things. Pace’s bafflement made me ache for him, but his explanation—that the want was simply too large—also frightened me. He is so confident that bodies give him the truth that he can miss the person using her body to conceal it. Randi told him something real, came violently, and ran; he understands the first two as confirmation and cannot read the third.
+And she is so proudly, helplessly gone over him. The powerlifting brag disguised as a shrug. The smile arriving at “the shirt.” “Then I backed him into a tree and we made out.” She is enjoying her own desire now, not merely surviving being desired, and I love that for her so much that the secret underneath it hurts worse every time.
 
-And then he eats, is still hungry, and makes more. God. Everyone in this book is starving, and every time someone gets fed it reveals another hunger underneath. I’m completely in now. Also: somebody needs to notice Randi is not okay before she turns this entire arrangement into a weapon against herself.
+But that text is pure Pace: formal, spare, specific, and leaving an enormous blank for her imagination to fill. “Would you come to my house Saturday. Two o’clock.” Sir. You built specialized furniture and selected this woman with another woman before she knew either of you. I am not capable of treating this as a casual afternoon invitation.
 
-GATE 14 — Swim Lanes
+I also notice that Vee is telling more people about Pace now, while Pace is apparently keeping Randi’s involvement entirely outside Vee’s reality and Randi is extracting erotic reports from both sides. The wider Vee’s innocent world becomes around this romance, the more catastrophic the eventual truth feels. Still: Saturday. The door. The house. The table. I’m already turning the page.
+
+GATE 15 — What to Wear
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 7
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This gave me exactly the combination I’m here for: explicit heat that changes what I understand about the people inside it. Randi’s “I want us” and immediate departure have cracked the arrangement open, and Pace’s failure to understand why she left makes me need the next chapter now.
+WHY: The chapter itself is mostly warm anticipation, but it points straight at the scene I’ve been waiting for since the bench was revealed. Vee thinks she is choosing an outfit for an undefined afternoon; I know she is about to walk willingly into the physical center of the secret, and there is no chance I’m stopping here.

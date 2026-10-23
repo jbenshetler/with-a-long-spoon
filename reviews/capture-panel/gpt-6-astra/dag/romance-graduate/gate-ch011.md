@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch011 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha f752372c5719 · 2026-10-10*
+*capture-dag-v2-rich · gate ch011 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 3f37db3477aa · 2026-10-10*
 
 REACTION
 
-“Paul?” Oh, you absolute liar. That little performance bothered me more than I expected. Vee is bringing her happiness over in both hands, and Randi is pretending she can’t remember the name of the man she shares a bed with. Then the disastrous date story, feeding Vee exactly the comparison that will make Pace look wonderful. I wanted to reach across the table and interrupt.
+Oh, finally. Her knocking on that window and calling him back in got me. I’d been waiting for him to ask before he ravished her, just like she had, and then she decided she wanted to be watched. The deliberate look down so his eyes would follow hers—that was the moment I stopped being aware of anything outside the truck. She knows what she’s doing there. She’s cold and awkward and full of her mother’s horrible commentary, and she does it anyway. Yes, Vee.
 
-And then Randi called her her dear friend, and I melted. Annoying. Especially because I remember Randi alone under that duvet after these women had finished with her. Holding Vee’s hand where Brooke could see it means something to me. I believe there’s affection in it. I also think Randi is making herself terribly necessary to someone she’s deceiving, and being brave on Vee’s behalf doesn’t cancel that. Apparently I can want Vee to keep holding her hand and want her to get up from the table simultaneously.
+And then his hand is shaking. That actually hurt a little. I wanted her to kiss his knuckles; I wanted the next thing she wanted. But her catching up to the fact that he has a body that’s cold, too, and putting his hand against her belly felt more intimate than another few buttons would have. She gets to want him and care for him in the same moment. I needed that. He’s been so relentlessly capable that finding him shivering made him considerably more attractive.
 
-The bit that actually warmed me was “Ask and then ravish.” That little drop into Vee’s volume, Randi suddenly there inside the fantasy with her. Yes. More of *that*, please. Vee blaming the sun for her hot face also got me. Honey, the sun doesn’t have expensive eyebrows. I’m increasingly hungry for these two to have a moment Vee can’t comfortably file under glamorous friendship.
+The boot scene had already softened me up. There’s something embarrassingly potent about being mortified by your sweaty sock and discovering the other person is simply busy making your foot stop hurting. His apology helped. He missed something; he fixes it; she doesn’t have to reassure him for a page. And I loved her getting to the top and briefly having something enormous to look at besides this man. I want her world to get bigger. I’m frightened by how much of that widening currently comes through two people who are lying to her.
 
-I winced at Cassie leaving. Not because Vee needs to invite her everywhere, but because she barely notices her going and then explains so comfortably to herself why that’s fine. That feels horribly familiar. So does making herself insignificant in front of Brooke to avoid embarrassing Randi. I wanted the hand on the table for her before Randi even offered it.
+I did get restless over lunch. By the time we’d worked through the bread and mustard and horseradish and water and then the cherries, I was thinking, please let somebody say something. We’re still being told the talk moved on instead of getting much of it. And “She had it and he hadn’t made her small to give it to her” was one explanation too many after I’d already watched him quietly put his pit beside hers. I understood. Let me stay there.
 
-But I did have a moment of: we are telling someone about this dinner *again*? The bridge enthusiasm gave me something new to like about Pace; I wish I’d been there to hear him. And after “dear friend,” I didn’t need quite so much telling about being chosen. I’d already felt it. By the final “She felt picked,” I was ready to move. This chapter earned its place with Randi, but I’m ready for that hike to happen, and for all this wanting to get somewhere less comfortable.
+The dress has lodged in my head. I don’t believe for a second he’s forgotten it. Part of me immediately wants him to remember and part of me is bracing for what another perfectly chosen kindness will do to her. That’s where this book keeps getting me: I’m susceptible to him while fully aware that he’s withholding something much more consequential than a surprise dress.
 
-GATE 11 — Dear
+The cop interrupting them earned an actual “oh, come ON” from me. I wanted to hear what she would say, even if it came out small. But she’s standing there in his shirt with that little square still protecting her heel, and I’m attached enough now that being sent home unfinished works. My friend would get: “She took her shirt off and somehow the part that wrecked me was discovering he was cold.”
+
+GATE 12 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 1
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: “She wanted to keep telling it.”
-WHY: I briefly dreaded another whole dinner debrief, but Randi holding Vee’s hand in front of Brooke pulled me right back in. The affection feels real enough to make the lying worse, and I want the desire between these women to become harder to explain away.
+ALMOST-STOPPED: “The cherries came out of a small container.”
+WHY: I briefly thought we were settling into another lovingly described meal while the attraction waited its turn. Then she called him back into the truck, and the wanting became something she did—and when she warmed his hand, I was completely with them.

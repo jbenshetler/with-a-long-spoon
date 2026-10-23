@@ -1,22 +1,32 @@
-*capture-dag-v2-rich · gate ch063 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · 2026-10-11*
+*capture-dag-v2-rich · gate ch063 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0262c804492d · 2026-10-11*
 
-REACTION — Oh. Oh, the book is playing fair and being wicked about it.
+REACTION —
 
-I knew we were headed into the ethical fire with Pace and Randi, but I did not expect to be dropped directly into the bedroom with them like that, no hallway, no warning, just Randi already coming on his mouth. And honestly? It worked on me immediately, partly because it is hot, yes, obviously, but more because it answers the exact thing Vee couldn’t do in the last chapter. Vee stopped one breath from tasting herself; Randi takes it from Pace’s mouth, then from her own thumb, then later from both of them, and she makes the act almost conversational. “Now it’s mutual.” Ma’am.
+Oh, this got me. This got me in the exact place I was waiting for without knowing I was waiting for it.
 
-The whole chapter feels like a secret companion piece to Vee’s solo scene. Vee is alone in Pace’s flannel, trying to cross a threshold and not quite getting there. Randi is with Pace, already across it, lounging on the other side in heels and lipstick, holding the door open with one finger. That is delicious and cruel, because Vee does not know this room exists. And the hottest part is not even the mechanics, though the mechanics are very much alive. It’s the way Vee is the third presence in the bed without being physically there. They are using each other to touch the shape of wanting her. Randi’s breast becomes Vee’s breast for a second; Pace gets undone not by Randi generically, but by Randi saying she wants Vee to know. That is so emotionally specific it made my stomach drop.
+I came into Sheri braced exactly like Vee did, honestly. I had the blonde too. I had made her in my head from Pace’s silence and Vee’s fear and all those little gaps, and I was ready to hate her a little, or at least measure her. And then she is five feet tall, loud, crooked makeup, roots showing, immediately filthy, immediately human, and somehow more threatening because she’s real. Not a rival in the shiny romance way. A person Pace has already kept.
 
-Pace saying “She makes me happy” did something sharp to me. It is such a Pace answer: plain, almost insufficient, and then somehow devastating because he means it without decoration. But then Randi says, “She’s not the only one in love,” and there it is, the quiet detonation. Pace can’t deny it. Randi won’t rescue him from it. I am still mad he has not said it to Vee, but now the silence has pressure from another direction. Randi knows. Pace knows. Vee is the only one still walking around thinking she’s having brunch with a best friend and dinner with a boyfriend, while these two are literally in bed speaking her name without speaking it.
+That hug with Pace. Whew. It wasn’t sexual and it wasn’t nothing. That was the chapter saying: here is a woman who has a place on his body and in his life that predates you, and you are going to have to grow big enough to see it. And Vee did, kind of. I loved watching the imaginary woman collapse and the jealousy remain, because yes, exactly. The fantasy is fake, the fear underneath is not.
 
-And I have to say: Randi is dangerous here in exactly the way that keeps me reading. She is not a cartoon schemer. She is tender. She is observant. She is explicit. She is honest in the room she chooses, and dishonest by omission everywhere else. That combination is catnip and a problem. When she says she wants Vee to know exactly what Vee does to her, I believed her completely, and I also thought: then tell her, coward. But if she tells her, everything breaks. So of course she tells Pace instead, with his hands on her body, because that is the compromise that lets the wanting live one more night.
+Sheri looking at Vee and just enjoying her, though. I laughed with Vee. That was such a release. The whole armored outfit, the borrowed shirt, the tiny skirt, the ridiculous heels in January, and Sheri doesn’t price her or dismiss her or compete with her. She appreciates her. That is maybe my favorite kind of feminine tension in a book: not “which woman wins,” but “oh no, this woman sees me too.” And Pace blushing over the motorboat comment? I need to sit with that for a minute. I did not know I needed embarrassed Pace, but apparently I did. Devastating.
 
-This chapter is absolutely hot, but the heat is inseparable from dread. I’m not floating after it; I’m tense. Because now the triangle isn’t implied or remembered or arranged in backstory. It is active. It has a bed. It has language. It has mutual knowledge. And Vee, my beautiful hungry idiot, is still one breath from her own mouth.
+And then the chapter turns, very quietly, into a love letter to the kind of man Pace is when no one is watching. Sheri telling Vee how he showed up after her whole life tablecloth got yanked away from her: coffee, donuts, fixing the lock, fixing the faucet, offering a Sunday ride, buying the burger, never giving her fake comfort. That is romance to me. That is the stuff. Not speeches, not grand declarations, but being there in a way that costs you actual time and attention. It made his failure to say “I love you” sharper, not softer, because he clearly knows how to love in acts. He is fluent there. So the word is still conspicuous.
 
-GATE 64 — My Pleasure
+The daddy line hit like a door opening in a hallway I didn’t know was there. “He hasn’t been home since he was sixteen.” Excuse me? Sir? We are adding father wound to Daphne wound? I am very, very interested, and also annoyed on Vee’s behalf that she has to get this from Sheri in scraps while he keeps his private history padlocked. But it makes sense with him. It explains some of that stillness, that care, that not wasting words on false comfort.
+
+I also loved that Vee’s jealousy got metabolized into tenderness instead of into a scene. The arm around her drunk little self, affection and ballast being the same thing, him waiting with headlights on Sheri’s door until the porch light came on — that nearly undid me. Vee noticing the pattern, realizing he does this everywhere for everyone he keeps, and then seeing herself as something full he is carrying home and won’t spill. That’s grown-up romance. That’s why I’m here.
+
+Heat-wise, this is not a sex chapter, but it is charged. Vee dressed like a dare, Sheri’s look lingering, Pace’s blush, the residue of the prior chapters still humming under everything. But the real heat here is emotional disclosure. Not cozy. Charged. Dangerous in a quieter way.
+
+Also: Randi is absent and somehow not absent. The shoes are hers. Vee’s confidence is partly hers. The bisexual current keeps widening the room even when Randi isn’t in it. Sheri openly appreciating women gives Vee another model to stand near, and I am watching that very closely.
+
+I’m absolutely continuing. This chapter did the bridge-chapter job beautifully: introduced the woman I’d been half-dreading, made me love her, and made Pace bigger and more wounded in the same motion. I want the dance hall. I want Sheri near Randi eventually, frankly. I want Vee to stop imagining women as threats and start noticing how many of them are looking back.
+
+GATE 65 — Another Round
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
+CAPTURE: 8
+NEXT: 8
+HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: “You like hearing me want her,” she said.
-WHY: I did not almost stop because I was bored; I almost stopped because that line made the concealed arrangement feel suddenly real and perilous in my hands. But the chapter gave me exactly the combination I’m here for: explicit heat with emotional consequence baked into every movement. I need the fallout now, especially because Vee is still outside the locked room where everyone else is finally saying the truth.
+ALMOST-STOPPED: none
+WHY: Sheri could have been a cheap jealousy device and instead she became a whole person in about three pages, which pulled me in hard. Pace waiting with the headlights on her door and Vee understanding something about how he loves people was the turn in the bond for me. I need the dance hall now, and I need whatever door “he hasn’t been home since he was sixteen” just cracked open.

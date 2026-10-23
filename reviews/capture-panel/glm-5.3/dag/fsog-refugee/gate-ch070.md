@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch070 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d556fe46d58e · 2026-10-11*
+*capture-dag-v2-rich · gate ch070 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c14c8e832ee2 · 2026-10-11*
 
-REACTION:
+REACTION — God, this chapter. Nothing "happens" and I could hardly stand it the whole way through. That's the book doing the thing it does best — taking an hour of sitting in a classroom and making it unbearable. The wrist. The *wintergreen and a fingertip on the inside of her wrist* and her pulse leaping up "to be found" — I actually put the book down for a second. Randi doesn't even know she's doing it, or she does, and either way I'm dying. "She held very still, and it went on not being static." That's the whole chapter in one line.
 
-I had to put the book down in the middle of this one. Not because it lost me — because I had to breathe.
+What wrecked me most is the turn at the door, because it's the first time Vee *acts against* it instead of toward it — she turns her mouth away on purpose, she takes the miss — and it's the most honest thing she's done yet, because she finally understands she can't have the little version anymore. She's not running from Randi. She's running from the fact that the goodbye kiss would be *taking* something, and she can't take it and keep calling herself a girl with a boyfriend. "She wanted it so badly that the wanting was the very reason she couldn't let herself take it." Yes. That's her. That's the exact needle I needed threaded and the book threaded it without one cheap moment.
 
-The first thing: this is the hottest chapter in the book so far and it's hot *because of the truth-telling*, not despite it. Him holding her an inch off his body and making her pay for her own pleasure in confessions — "Tell me the real story, and I'll give you what you want" — that is the thing I've been reading this whole genre looking for. He doesn't trick it out of her, doesn't punish her, doesn't sulk. He *prices* it, and she laughs and pays, and every payment is her getting closer to her own truth. "That's cheating." "A little." I actually said something out loud. And the way the inch-giving escalates with the *trueness* of the answer, not the dirtiness — he gives more for the harder honest thing — that's the whole ethics of the book in one sex scene.
+And then Randi — oh, Randi — she kisses her NECK, the exact place Vee's put her own mouth twice and "been told not to weaponize," and laughs, "How do you like it?" — and I gasped, because the book remembered, and because Randi being playful and utterly wrong-footing about it is so completely her. And Vee's body answers before her brain and out comes "Brunch." THAT'S the chapter's landing. She can't take the kiss, can't take the dinner, can't even let herself touch her own stomach in the dark — but the moment Randi's mouth is on her neck, the wanting speaks with her own mouth and books another date. She's asking for more while her whole strategy is asking for less. I love her. I'm so worried about her.
 
-And then he tips her over not when she's paid enough, but when she says the real thing: "I wanted the kiss. I wanted her mouth on me." He was never collecting filth. He was waiting for her to stop tidying. God.
+The Monday night section scared me a little, honestly — lying in the bunk with her hand held flat on her stomach like a lid on a pot, "as long as she didn't give it the thing that would make it true, it could stay only wanting." That's her mother's rules still living in her bones, the arithmetic of not-doing. And it's not working anymore and she knows it. And the soreness after Sunday — "the kind you got from not stopping when you should have" — the book isn't letting her use Pace as a fix without showing the cost, and I respect it for that. He was lovely, though, this weekend, in the background: the book read to her, taken out of his hands, and none of it felt coerced, it felt like a woman gorging to keep a name off her mind. That's her hunger, hers, the book keeps it hers.
 
-But here's where I sat with my hand over my mouth: **he already knows.** He's known since chapter 64 — he's in bed with Randi, they *designed* this spring, he watched the roadhouse kiss three steps from the truck. So every "gentle question" tonight, every "Do you want to sleep with a woman, Vee?" with the name so carefully stepped around — he's not asking. He's *managing* her. He's letting her lie to him ("No. Nothing.") about things he watched happen. And the book knows I know, because it gave me the flicker — "Something crossed his face" when she flung "you want Randi" at him, and then the sweetest, most damning thing he's ever done: *he defended himself.* The man who never covers himself, this once, needed her to know she had it wrong. Because she had it *right* — he does want it, he's part of it — and I don't know if his face moved because the lie landed wrong or because the truth did.
+And the last line. Cassie, coat still on: "What was that with you and Randi?" and Vee has *nothing*. "She didn't know. That was the whole of the trouble." Cassie's the oldest friend, the goalkeeper, and she clocked something on Vee's *face*, before a word of it was ever said. The walls are all coming due at once — the title's doing its work. Saturday is brunch with Randi and Saturday is the dance hall with Sheri — wait, can it be both? The book set both on the same day and I didn't even catch it until just now. Oh no. Oh, I need the next one.
 
-And the lie itself. Vee's first lie to him, and the book renders it sitting in her "cold, under all the rest of it" — and then the hot little thrill under the guilt. She's not just hiding from Pace anymore; she's hiding from herself behind "I'm not gay" and the reflex-quick "No" and the thin laugh and the sex-brain story. The chapter starts with her fingering the new bare and imagining *Randi's* mouth on it, hips tilting before the thought finishes — and it ends with "however much we get, I just want more" said out loud to the wrong person. She drove to his house specifically to fuck the picture of Randi out of her head, and the picture was still there at the end, "sharp as the dancefloor." "She could not make it come back."
+One small gripe kept from being a gripe: Marsh's reciprocity lecture slid right off her tonight, and I'd been waiting for the anthro fuse — but the sliding-off is the point tonight, her attention's eaten alive by the one subject. Fine. Fine, book. I'll wait for spring break.
 
-The line that wrecked me most, quietly: her own self-awareness about the lie — "it wasn't the doing that made you a cheat, it was the keeping of it" — said by a girl whose two closest people have been keeping her whole spring in a locked drawer. The dramatic irony is now *structural.* She's doing to Pace exactly what Pace and Randi are doing to her. And she can feel how cold it sits.
-
-Also: he caught it immediately. "That was angry, Vee." After she used him, face in his neck so she wouldn't "have to see him see her" — and he still just opened his hand on her back and waited. Even in the scene where she treats him as a wall to beat a picture against, he's *reading* her. The care never stops.
-
-Tuesday is circled in my head. Two nights. Her whole body pointed at a classroom with Randi's lipstick in it.
-
-GATE 71 — Boyfriend
+GATE 72 — Coming Due
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The confession scene is the book's whole promise delivered — heat and tenderness and consent braided into one act, him earning every inch of her truth — and the lie at the end, mirrored against the third game, means the countdown I've been carrying is now inside her own chest too. I need Tuesday like I need sleep.
+WHY: The wrist, the turned-away mouth, the neck kiss, and "Brunch" escaping her before her brain could stop it — this is Vee's want rendered from inside better than any explicit chapter has managed, and Saturday just got loaded two ways at once. I have to know what happens when Randi and Sheri's worlds are both due.

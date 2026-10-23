@@ -1,28 +1,30 @@
-*capture-dag-v2-rich · gate ch021 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 332b2e10547e · 2026-10-23*
+*capture-dag-v2-rich · gate ch021 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 96625992569d · 2026-10-10*
 
 **REACTION**
 
-The zipper. Oh my god, the zipper. She has it halfway down, three feet from Cassie, and remembers there's nothing under the skirt because she handed the green satin to him folded in thirds. Then she zips back up and says "I forgot my." That's the best moment in the chapter, and nobody even touches her in it. It shows the whole problem: the version she's been feeding Cassie is about to fall on the floor in front of her. And Cassie says "You need to get your brain back from your boyfriend," which the book calls "kindly, certainly, wrong." I'm also holding onto the half-second where "something crossed her face" when Vee walked in. Cassie saw something. Maybe the fire lane, maybe the empty bed Friday night. I said please let it be Cassie and please don't. I'm still saying both.
+Oh, this one hurt. Good hurt.
 
-The ladle line, about lifting the middle out so "the surface closes without a hole," is gorgeous. Then the book adds "It was a kindness. She believed it the way you believe the thing that lets you keep what you want to keep." Okay, that one I'll allow, because it's mean to her and she earned it.
+I'd been bracing for another debrief, the third telling of Friday, and instead the book flipped the camera to his kitchen and gave me the debrief from the other side. We get Randi's version through Pace's eyes, and she won't give it to him. "She told me about Friday." That's it. No details, no *Tell*. She got the telling from Vee at brunch, she had it in her hands, and she didn't pass it along. That answers the thing I've been waiting on since chapter 20, just not the way I expected. Randi is keeping Vee for herself now.
 
-Then brunch, and I was braced. This is the fourth retelling of something, and my notes literally say the next one gets skimmed. I didn't skim, because this time the retelling is the thing being withheld. Vee does the fade to black herself, out loud, to Randi: "*and then, well.*" Normally that's my DNF trigger. Here the fade belongs to the character, not the author, and I'm watching Randi starve on the other side of it. "I'm running on fumes here." Yeah, Randi, I bet you are.
+And the stew. Of course the stew. She draws one line through the top of the sauce with her spoon, puts it down, and says "It's wonderful." Ten lines later Pace is turning it over: she's never once said that to him in his kitchen. That's the line that got me, because I've watched her order and not eat for twenty chapters, and this is the first time anyone in the book has *noticed*. Then she pours her own glass. "He had poured every glass she had drunk in this house." I put the Kindle down for a second there. Nothing in that moment is explained and none of it needs to be.
 
-Randi's fake-boyfriend story wrecked me once I thought it through. Friday night Pace was with Vee. So where was Randi? Making up a nervous boy "in a hurry, like the building's on fire," the exact opposite of the man Vee is about to describe, so she can sit there and get told "he wasn't in a hurry, at all." She built the setup so the answer would hurt the most. Then the esses running long, the eyes gone liquid, one mimosa barely touched (of course she didn't drink it). Vee thinks "drunk," dismisses it, and lets it go. I didn't let it go. That's arousal or grief or both, and I'm glad the book didn't name it.
+The fight is the best scene this book has given me that isn't sex. "Or you're not." "With you." "It's selfish, Pace." She's jealous, and she's jealous of *him*. He's got Vee Friday to Sunday and she's got brunch and a kiss at the curb. She's falling for Vee, and it's coming out sideways as "hurry up." He thinks she's impatient for the game. She isn't. She's impatient because she's losing something.
 
-The toes, the plum picked to match the silk, the underwear as a "campaign": Randi pulling every one of those out of her is basically a scene of Randi undressing her. It's the hottest thing in the chapter, and it's all in the questions. And I noticed Vee never says where the panties went. Randi didn't ask. Either she doesn't need to, or she's saving it for Pace. "Tell."
+Then Pace says it out loud: "How do I get her from where she is to us." First time the plan has been spoken in a room. I went cold. "She chooses it, Randi. Every step of it. Or it isn't anything." He means it as a defense, and it's the jacket's last line, "every yes was freely given," said by the man doing the steering. He hears how it sounds and doesn't take it back "because he did not know how." I love that he heard it. I don't forgive him for it.
 
-"You're not caught, sweetheart. You're lucky." I believe Randi meant it. I'm also aware it's the most caught line in the book.
+The sex was hot, but it was the bad kind of hot, which is exactly what I wanted. She skips the inch, the stop and the eyes, and just drives. Eyes shut, nails in his chest, no *tell me*. He lies there waiting for it and it never comes. "It was not for him." Then the blanket and her back to him. And then I caught it: at brunch she told Vee about a beautiful old boyfriend who was "in such a hurry, like the building's on fire." That's *her*, tonight. She told Vee the truth again with a fake man in the frame, same move as the headboard story. I texted that to myself at 1 a.m., basically.
 
-What lost me a little was the paragraph explaining what Randi is to Vee ("the person you got to *tell*... the friend she'd wanted at fifteen"). I already knew. Same with "She had never in her life been so happy" and "the day was good." That's the stapled-on ending again, though this time it works as dramatic irony, the calm before something. She didn't check the street after the kiss. That's growth, and it's exactly how she gets seen.
+My one gripe: Pace, who supposedly sees everything, lies there sorting the pieces and lands on "the want, with an edge on it." Come on. It's a little convenient that the genius can't add two and two. But I believe men can be that blind about the woman they've stopped looking at, so I'll allow it. Also, "every weekend"? Has it been more than one? Either time jumped or Randi's exaggerating out of hurt. I'll take it as the second.
 
-Text to a friend at 1 a.m.: *the best friend is interrogating her about sex with the friend's own boyfriend and calling it girl talk and I can't breathe.*
+Then the plate over her bowl, into the fridge, "for her." I'm a little wrecked. I didn't expect to feel for him this chapter, and I didn't expect to be this scared *for* Randi instead of *of* her.
 
-GATE 21 — Fed
+Still no green panties. I noticed.
+
+GATE 23 — Portion
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "She gave Randi the same dinner." (my heart sank: retelling number four) and later "Randi was the person you got to *tell*: the one Vee could say anything to, who knew things…"
-WHY: It's a debrief chapter, which I'd warned myself about, but the zipper and Randi's slurring voice made the withholding the plot instead of the padding. It isn't hot on the page, but Randi's hunger across the table is, and now I badly need the next scene in Pace's bed. Does she say *Tell*, and what does he hand over? NEXT is higher than CAPTURE because I want to see that.
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none. The nearest was the brief recap of the riser, "knelt an hour at a pedestal not touching a girl who had been wet through her clothes for him," and I flinched for a second at yet another retelling. But it was one clause doing new work, so I let it go.
+WHY: After two soft Vee chapters, this was the knife: the plan said out loud, Randi breaking in front of a man who can't read it, and sex used as a weapon. Now I need to see Randi alone with Vee, knowing what she wants and not being able to say it.

@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 51b3205f6eee · 2026-10-01*
+*capture-dag-v2-rich · gate ch036 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · 2026-10-01*
 
 REACTION
 
-Jesus Christ. *Jesus Christ.*
+Oh, my God. My chest actually hurts.
 
-"Sticky fingers?"
+"He'd folded his whole ordered self down into a single drawer. He'd given her the top one. The easy one. The one your hand goes to first."
 
-I think my soul actually left my body for three full seconds when that line hit the page. The sheer, diabolical cruelty and thrill of it—Helen Rivers is playing with dynamite here. Randi is an absolute master class in psychological predation, and the worst (or best?) part is how utterly, intoxicatingly sweet she makes the poison taste.
+That is so devastatingly, heartbreakingly tender. In any normal romance, this would be the peak, the grand gesture, the moment you close the Kindle, hug it to your chest, and sigh because the brooding, hyper-controlled man just quietly gave up his territory to make a home for the girl he loves. And Pace *does* adore her. That’s what makes this so excruciating. It isn’t fake! The way he lifts her at the door, the way he cooks the salmon and the warm tomatoes off the sill, the way he gives her all of her pleasure before taking an ounce for himself, the way he cleared the top drawer... he genuinely treasures her. She whispers "Peter" into his sleeping ear and lets herself know she loves him.
 
-First of all, watching Vee completely crack under the sunlight and the mimosas and just *spill* the intimate details of her and Pace to Randi was like watching a lamb walk directly onto a silver carving platter and lie down. The way Vee doesn’t just tell the story, but re-lives the physical humiliation and heat of it right there in the bistro booth—pressing her thighs together under the table, sweating through her clothes, practically confessing to a priest who she doesn't realize is the devil—was blistering. The heat in this chapter was off the charts, and nobody even took their clothes off in front of another person.
+And she has *no idea* that Randi's cashmere blanket is at the foot of that bed, that Randi's bowl is in his kitchen, that Randi has a key, that Randi was riding him right there while describing how wet Vee gets.
 
-And then the bathroom. God. The agonizing psychological block where Vee is literally touching herself in a restaurant stall, soaked and desperate, and Randi’s face pops into her head—not just turning her on, but *stopping* her. That dynamic where Randi’s perceived judgment and gaze is so towering that Vee literally feels cowed, ashamed, and forced to deny her own release? That is top-tier kink writing without an ounce of leather or rope. It’s pure, distilled power exchange happening completely inside Vee’s naive little head.
+The dramatic irony in this book is becoming an actual physical ache to read. Every single domestic grace note—the scrunchies, the drawer, the quiet domesticity of his house—feels like a silk thread wrapping around her wrists. She thinks she's taking up space, building a sanctuary away from the cold dorm and her judgmental mother, and all I can think about is the stats lecture. Simpson's paradox. When you look at Vee and Pace, it’s pure romance, pure healing, an intensely observant craftsman cherishing a starved girl. When you look at Vee and Randi, it’s intoxicating mentorship and queer awakening. But when you combine the data sets... oh God.
 
-Then the gut punch at the end. "You're my best friend in the whole world, you know that?" Randi looked at her with that manufactured sincerity, kissed her with the pastry glaze still on her lips—a literal physical transfer of the temptation Vee fled from—and Vee just melted. She has no idea. She is entirely engulfed. The contrast between Cassie’s quiet, steady, undemanding presence and Randi’s total emotional consumption of Vee makes my stomach twist. I am glued to this. I need to see when the floor finally gives out.
+The detail about her clothes getting looser because her body is quietly burning down whole weekends of him? The fact that she was terrified she was being "too much" of a guest, only to find he made a permanent home for her? This is grown-up, emotionally devastating writing. It makes me want to scream at her to run, and at the exact same time, I never want her to leave that house.
 
-***
-
-GATE 37 — One Bite
+GATE 38 — Above Him
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 1
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The sheer psychological tension in the restaurant—from the confession to the bathroom stall to "sticky fingers"—was suffocatingly hot and brilliantly cruel. I couldn't tear my eyes away if I tried.
+WHY: The quiet domestic intimacy of him clearing out his top drawer to hold her things—while knowing what Randi shares in that exact same house—is absolute psychological perfection. I am completely hooked and terrified for her.

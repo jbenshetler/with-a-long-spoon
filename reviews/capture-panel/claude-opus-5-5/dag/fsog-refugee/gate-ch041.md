@@ -1,24 +1,30 @@
-*capture-dag-v2-rich · gate ch041 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 296605e0be66 · 2026-10-07*
+*capture-dag-v2-rich · gate ch041 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 499423a1f58c · 2026-10-10*
 
 **REACTION**
 
-Okay. The first half of this I just floated in. Vee at a glass table again, but this time she isn't handing over a scene, because there isn't a scene to hand over. It's just *the amount of it*. "He takes forever." "Like he wants me. With the body attached." That line went straight through me, because it's the thing I left three subgenres to find, and she found it and said it out loud in a dark booth. Being looked at the other way around, the girl first. Sleeping whole nights in the trees. Eating with the sound off her whole life. I believed every word, because I watched him last chapter. He laid her out for the picture and kissed every place his hands set her. He caught her wrist "not to stop her, only to say it." So she isn't exaggerating, she's describing him.
+I had to put the phone face down on the duvet for a minute.
 
-Then Randi said "You're just finally hungry out loud," and I didn't want it to be kind, and it was. It's the jacket's own word, starving. Coming from her it's half absolution and half the woman who's been feeding her stories since the practice room. I can hold both. What I can't stop seeing is "It doesn't," low and not quite even, and the catch in her breath. Vee takes it for pride, *my Saturday did that to her*. It isn't that. Randi is hearing a description of being loved properly, and she's either never had it or she's had it with the same man and lost it, and her face went for a second. That's the most real I've ever seen her, and Vee missed it completely.
+He picked her off a lawn. In September, the second week of term, holding Randi's hand. He was hard on the quad over the two of them together on his pillows, "black hair and all that red", before Vee had said one word to him. *He had already chosen; the pointing was only to find out whether they had chosen the same.* Everything in my column one, the drawer, the juice, the empty palm at "Don't", has to be reread through that sentence now. I don't think any of it was fake. That's worse. It was all real, and it was also inside something she doesn't know she's standing in.
 
-Then the phone, and that's where my stomach went. Two weeks ago, as far as I can tell, she made him promise "never share me with anyone," and he said never. Here she shows Randi the cropped one first. That was already more than I wanted. Then Randi does the thing she does. She slides the phone back, "you don't have to show me," lets Vee's own thumb make the call, and then drops "you only gave him *half*?" She knew exactly which nerve to press. Vee flinched at being filed as a girl who flinches, and handed over the whole length of herself to prove she isn't one. It's her body and her picture, and I won't take that from her. But it's his picture too. It's her as his eyes had her, the thing she "gave him to keep." I watched it get pried out of her with a dare dressed up as a compliment. It's the "did you deserve it" brightening all over again, and the book knows it: "past what a verdict needed." Randi looked the way a starving woman looks. I believe she wants Vee. I don't trust how she gets there.
+It's the same day. She left his house Monday morning with her hair wet, using pins from the drawer he gave her on Friday. By the middle of the afternoon the deadbolt goes over for Randi "the way it always did", and they're against the same kitchen counter. *Always.* And Randi sat in stats and leaned in and told Vee she'd come to class still full of him, and Vee went red and put her hands in her lap. She thought she was being teased by her best friend. She was being reported on, and the report got delivered in the very house she'd just left, and it turned him on. Every brunch she paid for herself, tipped too much, never said a word about the number. All of it got carried up the hill to this couch. She thinks Saturdays are the one thing that's hers. "Well. She told me first." Christ.
 
-And then the kiss. Vee leaned up the last half-inch, took a second of it for herself, *decided it was what she wanted*, and didn't fuss about it. That's hers, and I was glad of it, the way I was glad of the stall. Randi held her eyes a beat past what a goodbye needed. Then "Just us," soft and rough, about a Tuesday-Thursday evening anthro section. That means two evenings a week, every week, without Cassie, and Randi said "Is Cassie in?" first, which I noticed.
+This is the shelf I said I wanted to see, and now I've seen it.
 
-The question I'd text at 1 a.m.: does Randi drive out the gravel tonight and tell him what Vee said about him, word for word? "He takes forever." "Like he wants me." Does he get to hear that from *her* mouth before he ever hears it from Vee's? Is that what this lunch was for?
+Here's why I didn't throw the book. It isn't winking. It's the first time the book has stood inside his head, and it doesn't flatter him. It lets him be the one asking "Does she want it?" and "That isn't what I asked," while Randi slides away from the question twice. It lets him say "She consents — every time — or I'm done," and I believe he means it. I also know exactly what's wrong with it. You can't consent to a frame nobody's shown you. Every yes she's given him was hers, and I'll still die on that. None of them was a yes to this. He checks the gauge on a machine she doesn't know exists. That isn't the sneering cruelty I left those other books over. It's more careful than that, and it's colder.
 
-Small things: she ordered the Benedict and paid without blinking. Good girl. And she's already pointed back at the trees, wanting him. Him not being in the room doesn't bother me at all. The last chapter was the two of them alone for its whole length, and this one was full of him anyway.
+And Randi. Oh, Randi. "God, I want her," out of her mouth into the wood, and she heard it leave her. "I'm doing it for *you*." "It's *work*." Then "you don't have to do it for me," said kindly, and that's the line she comes on. That isn't a woman running a seduction. That's a woman in love with the girl she was sent to fetch, using the man's permission as cover so she never has to say it straight. "Twenty-one years old and she found out this autumn that a person can sleep." She couldn't look at him when she said it. I was right that she's drowning. I just didn't know whose boat she was on.
 
-GATE 42 — All the Time
+The heat was real, and I resent that. The mirror he could see her face in the whole time and she'd forgotten, the clench on "I kiss her mouth." It worked on me, and I could feel exactly what it was built from: a girl's goodbye kiss on a sunny sidewalk, carried off and spent here. It's hot and it tastes like stolen money.
+
+Two things keep me in. First, "Then I'll be careful with you" to Randi, and him lying there holding her while she holds on. He does have tenderness in him for her, and it's not a costume. Second, the book clearly knows that Vee showing Randi the uncropped photo, after he promised "I'd never share your photograph," is a fuse. Somebody is going to get burned here, and I think the book knows who deserves it.
+
+What I'd text at 1 a.m.: *he picked her on the quad. with randi. before ch 1. i'm going to be sick and i'm reading the next one.*
+
+GATE 43 — Four
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 8
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "Legs like yours, though — and you only gave him *half*?"
-WHY: Vee describing him was everything I read for, and Randi's "It doesn't" was the first crack of real feeling she's shown. The photo got worked out of Vee with a dare, though, against a promise she made him extract. I need to know where that picture and that whole confession end up next.
+ALMOST-STOPPED: "He had already chosen; the pointing was only to find out whether they had chosen the same."
+WHY: The book showed me the thing I'd been afraid of, from inside him, and didn't ask me to find it charming. I'm reading on now to see whether it knows what it owes her. If the next stretch plays the threesome as Vee's reward without her ever being told the frame, I'm gone, and it'll be the cleanest exit I've ever made.

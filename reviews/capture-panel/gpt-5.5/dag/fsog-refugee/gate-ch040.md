@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch040 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 38dcf8e44cd8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch040 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 97724b44da95 · 2026-10-01*
 
-REACTION — Oh, this one got me exactly where I live.
+REACTION —
 
-The photograph. God. The photograph could have gone so wrong for me, because a naked picture is one of those genre things where my whole body goes on alert, like, are we about to pretend trust is the same thing as recklessness? But it didn’t. It stayed so beautifully inside her choosing. She offers it. She gets ready because she wants to decide what version of herself he keeps. He arranges her, yes, but it feels like being made beautiful by someone who knows how to look at her, not being handled like an object. And then he gives the phone back. That mattered so much. The picture is hers first. The sending is hers. “Believing him was the brave part” just about undid me, because yes, that is exactly the line this whole book keeps walking: not fearlessness, not naivete, but her choosing to trust because he has earned a little more of it.
+Oh. This one got me in exactly the place this book has been building toward: not a big event, not a new threshold with Pace, but Vee trying to explain what it feels like to be wanted all the time and fed all the time and listened to all the time, and realizing out loud that the hunger is not damage. I loved that. I really, really loved that.
 
-And Pace here is almost unfair. His head on her breast after, taking comfort there, the soft kisses, the way he can be spent and still want her again because it’s *her* body and not just a body. That sentence about her being “a girl who had a body, not a body that happened to have a girl attached to it” is basically my whole reason for still reading erotic romance after all the books that made women into furniture and called it devotion. He wants her so plainly, but she is still inside herself. She is funny and pleased and greedy and proud. “You’ve used me terribly” made me laugh because it has the charge, but it’s not a cover for harm. She is luxuriating in being wanted.
+The “sex brain” bit made me laugh because yes, girl, welcome, but underneath it I felt how scared she still is of her own appetite. She has been getting braver in these gorgeous visible ways, but she still needs someone to tell her wanting this much does not make her wrong. And Randi, dangerous as she is, gives her exactly the sentence she needs: “finally hungry out loud.” That landed like a hand under Vee’s chin. It is so much what I read for, honestly: not sex as performance, but a woman discovering her own desire and being less ashamed of being alive in her body.
 
-And then the cooking. I know I keep saying this, but feeding is the other sex scene in this book. The lemon, the wine, the spoon, the first bite. He has changed how she tastes the world. That’s intimacy to me. Not just “he’s a good cook,” but that her senses have been educated awake by being cared for. And the quiet at the counter with their hands together? I could live in that for chapters. That’s the warmth I need alongside the heat, or the heat starts feeling hollow.
+And Pace is not even in the room, but he is everywhere. The way Vee talks about him, my God. The man has imprinted on her senses: food, sleep, music, quiet, no television, no scrolling, attention like weather. I understand why she is gone on him. I am gone on him again by proxy. The line about him wanting “me, with the body attached” rather than the other way around is exactly the thing. That is the fantasy I came for after leaving the crueler books behind. Total focus, but not erasure. Want so complete it makes her more herself.
 
-But then: the parents. There it is. A shut door so clean I could hear the latch. “I don’t go back.” I liked Vee so much in that moment because she *felt* the boundary and didn’t pry. She can be hungry and still gentle. And Pace, who is so careful with her thresholds, has one of his own. I want that story badly now, but I’m also a little afraid of it, because Daphne and the scar and “Peter” are all still waiting behind that door.
+But Randi. Randi, Randi, Randi.
 
-Sheri coming over for Thanksgiving actually softened me. I had the tiniest jealous twitch with Vee, because yes, another woman at his table, family-day food, the whole domestic little sting. But “she’s alone” fixed it. Pace feeding strays of the heart, honestly. I believe that about him. It also makes me trust Sheri more, somehow. She isn’t a threat in that scene; she’s proof that Pace has made a chosen-family life around the places he will not go back to.
+I am so suspicious and so pulled in. Her response to Vee’s story was not just friendly thrill. That little break in her, the bright unfixed eyes, the catch in her breath: she wants her. Or loves her. Or both. And Vee is still translating that through the safer language of pride, like of course her story reached Randi because it’s a good story. Sweetheart, no. You reached her. Your body reached her. Your happiness with Pace reached her, too, and there’s something almost aching in that.
 
-Still, the secret with Randi is now glowing hotter because this chapter is so trusting. The more he earns, the more dangerous the omission feels. He can hold her phone, her body, her image, her appetite, her quiet, and he still hasn’t handed her the truth. I am not stopping, obviously, but I am bracing.
+The picture scene made my stomach flip, partly hot and partly nervous. I loved that Vee chose to show it. I loved that Randi offered the out, and that the out is what made Vee brave enough to go further. That matters to me. But Randi also knows exactly how to prick Vee’s pride: “and you only gave him half?” That was the closest this came to my danger line, because Vee reacts so fast to the possibility of being smaller or less daring in Randi’s eyes. It didn’t feel like a violation, but it did feel like a lever. Randi has levers. She keeps her fingers on them.
 
-GATE 41 — In His Hands
+Still, the goodbye kiss. Oh, Vee. The fact that she leans back in, notices it, decides yes, and then doesn’t fuss. That is enormous. That is Vee moving from being kissed into taking a kiss. I wanted to clap and also put my hands over my face, because she is walking right toward the third game without knowing there is a board under her feet.
+
+And then she drives back to Pace already wanting him again, carrying Randi’s hug like a secret heat-pack against her ribs. That triangle is alive now. Not theoretical, not jacket-copy, not body-hints in bathrooms. Alive.
+
+GATE 42 — All the Time
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 8
-HEAT: 3
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This was nearly everything I want from the genre: explicit, possessive, tender, and consent-rooted down to the phone being put back in her hand. The only shadow is the old one, sharper now because the trust is so intimate: Pace is giving her so much care while still withholding the Randi truth.
+ALMOST-STOPPED: "Legs like yours, though — and you only gave him *half*?"
+WHY: This chapter fed me: Vee’s hunger being named without shame, Pace’s tenderness radiating through her memory, and Randi finally visibly affected by Vee instead of only managing her. I’m wary of Randi’s little pride-hooks, but Vee choosing the longer kiss for herself made me want the next chapter immediately.

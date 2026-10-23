@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch056 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · 2026-10-11*
+*capture-dag-v2-rich · gate ch056 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · 2026-10-11*
 
-REACTION — Oh, this made me soft in the exact place the last few chapters had been squeezing.
+REACTION —
 
-After all the heat, all the porch-door naked madness and the cashmere and the body turned into a kingdom, this chapter comes in and says: yes, but he listened. He has been listening to the life she has when she isn’t in his bed. Not just “tell me about your friends” in the boyfriend due-diligence way, but Meg’s boots. Kayla’s paint-off-a-wall talking. The shape of a table and who gets stuck at the end. That is the kind of intimacy that gets me harder, honestly, than a hand on a thigh, because it means she has not just been delicious to him. She has been real.
+Oh, thank God. I needed this little room like I needed air.
 
-And Vee immediately thinking “Randi” when he says “your people” hurt and delighted me at the same time. Of course she does. Of course Randi is the lit window. Of course Vee wants the two favorite people at one small table, because she still thinks those are two separate favorite people and not one hidden arrangement with her in the center of it. The “three of us” made my stomach do the little oh-no-oh-yes drop, because I can feel the book moving the plates around. It is not time yet, but the table is being set. Literally. Deliciously.
+After all that naked-house worship and porch-on-fire stuff, I was half afraid the book would either keep escalating until I got numb or punish Vee for having gotten what she wanted. Instead it lets her come back to the dorm and be a girl with wet hair in a robe, bursting to tell Cassie everything and lying by omission so badly that the lie becomes its own little sex comedy. Pace shrinking the sweater. Sure, babe. The cranberry sweater died for the alibi.
 
-But then Pace says Cassie. And Meg. And Kayla. And Theo. That was the chapter’s real seduction for me. He is not trying to pull her back into the house and make that the only world again. He is asking to enter hers. After all my fury at him for not giving her the word, this is him doing the thing he knows how to do, but expanded: not just food, not just sex, not just warmth, but room. A room big enough for her people. It doesn’t fix the missing word. I have not forgotten. But my heart unclenched a little.
+And Cassie laughing. That got me more than I expected. Cassie’s full laugh feels like a reward this book does not hand out cheaply, and Vee getting to be happy in front of someone who will not harvest it or dramatize it or demand the whole confession is just... soft. Necessary. I love that Cassie hears the shape of the weekend anyway. She doesn’t need the inventory. She clocks the outfit, the glow, the missing bag, the mushrooms, the toast, the absurdity, and lets Vee have her privacy without making her feel alone inside it.
 
-Also, Vee choosing not to put Cassie and Randi in a restaurant where one of them has to be “fine about it” — I loved her for that. That is grown. That is her learning not to crop people to fit a frame, not even for the fantasy of everyone meeting prettily over napkins. She noticed the mismatch before she hurt anyone with it.
+The food talk still works on me because Vee is so alive in it now. She can describe mushrooms on toast like she’s describing sex, because with Pace food and sex and care are all braided up. But what I really loved here is that she’s happy in the bad dorm shower too. That matters. Pace’s house didn’t make her hate her own life. It gave her back enough warmth that the ordinary room can feel like hers again. That’s romance to me, honestly: not the fantasy swallowing her whole, but sending her back into herself brighter.
 
-And Theo. Bless him for just saying “Bring Theo.” No little possessive flare, no jealousy performance, no turning it into a test. I could feel Vee brace for the genre-man reaction, and Pace just doesn’t give her that. Sometimes he makes me want to shake him until language falls out; sometimes he is so quietly secure I remember why she cannot simply walk away.
+And then Cassie’s mother thanking her for the card. Tiny knife. Tiny warm knife. Vee being wanted by someone’s mother, remembered as a person, invited back without performance. She can’t examine it because if she does she’ll cry or become eight years old or both, and Cassie mercifully closes the drawer for her. I love Cassie so much for knowing exactly when to stop.
 
-This is a bridge chapter, yes, but it is a good one. It moved the romance by making the world wider. I am very alert now, because “let me handle it” from Pace means food and space and probably some devastatingly exact choice of place. And if Randi and Cassie and Pace end up in the same room, the book has handed itself a live wire.
+This is a quiet chapter, but not empty. It’s the re-entry chapter. It makes the weekend real by letting it survive being told, partly hidden, in a room with socks and popcorn smell and a window cracked open. I’m still wildly nervous about Randi, because Vee is about to go tell her “nearly everything,” and Randi always knows what to make of things, which is both the comfort and the loaded gun. But for this one page of time, Vee is back: back with Pace, back with Cassie, back in the bunk, back in a life that has room for all the versions of her. I’ll take it.
 
-GATE 57 — Back
+GATE 58 — Unpacking
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
 HEAT: 1
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was quiet after a run of very hot chapters, but it gave me something I badly wanted: Pace wanting Vee’s actual life, not just her body in his house. The chapter pulled me less by heat than by recognition, and now I want the gathering because every person at that table changes the charge.
+WHY: This was a breath-after chapter, and I liked that it didn’t try to top the weekend. Cassie’s dry gentleness, Vee’s ridiculous cover story, and that tiny mother-card beat all made the happiness feel lived-in instead of decorative. I want the next chapter because Randi is waiting, and “nearly everything” is absolutely where trouble starts.

@@ -1,26 +1,30 @@
-*capture-dag-v2-rich · gate ch020 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8611b8522702 · 2026-10-01*
+*capture-dag-v2-rich · gate ch020 · claude-opus-4-8 · romance-graduate · prompt-sha 30694771b497 · prose-sha 332b2e10547e · 2026-10-23*
 
 REACTION
 
-Okay. So this is the one I've been bracing for since chapter one — the froyo finally turns into the bench — and here's the thing that undoes me: it's *good*. It's not the scene I could recite. I've read a thousand first-times and most of them are choreography with the lights off or choreography with the lights on and nobody home behind the eyes. This one kept the lights on and kept *her* home the whole way, and that's the whole trick, and this book keeps pulling it off.
+Oh, this one's a trap dressed as a victory lap, and I knew it going in, and it still got me.
 
-The shame running on the same wire as the heat — "she could not find the seam between the heat and the shame because there was no seam, they ran on the same wire" — that's the sentence I'd text a friend. Because that's the actual thing, that's what nobody writes. The *floozie* in her mother's flat voice arriving a beat behind every good feeling, and her burning through it instead of being closed by it, and the book letting that be the victory instead of pretending the shame was never there. "It was the first time that had been true." I felt that land in my chest. That's an actual arc, inside a sex scene, instead of a sex scene parked where an arc should be.
+Here's what's doing my head in: this is the first chapter where Vee is *happy*. Fully, stupidly, toes-painted happy. "She had never in her life been so happy." And I believed it. That's the horror of it — the book didn't flinch and didn't wink at me, it just let her have the morning, the brown milk light, the grin that came back at every red light. And because I've got the whole machine in my notes I'm sitting here watching a girl glow about the exact thing that's going to gut her, and nobody's explaining it to me, thank god. The book trusts me to hold both.
 
-And him asking "Would you be bothered if I was too hard?" — I rolled my eyes at how it looked on the page for half a second and then it got me, because it's *exactly* his register, the question that's also a gift, her proof-of-wanting handed back to her as the good thing instead of the humiliating thing. He's been running the same move since "may I choose," and I've seen him run it on Randi, and it still worked on me, which is its own quiet horror.
+The zipper. God, the zipper. Half down and she stops because the next thing off wouldn't be a story she could edit — "It would be on the floor, and there would be nothing left to say." That's the cleanest single image of this whole book's engine I've gotten: she can give Cassie the dinner, the Chianti-opened-early, the good-kisser words, but she physically cannot stand bare in the room because her bareness isn't *narratable*, it's just true. The ladle line — lifting the middle out clean, surface closing without a hole — that's the same move Randi runs on her, and now Vee's running it on Cassie. The infection spreads. She's learning to extract. "It was a kindness. She believed it the way you believe the thing that lets you keep what you want to keep." Chef's kiss. That's a sentence that knows exactly how people lie to themselves and doesn't moralize about it.
 
-But. BUT. The trade. The *trade.* She goes down the hall on her own, picks up the soaked green satin, folds it in thirds with the spot centered — *centered*, deliberately, catching the kitchen light — and holds it out and says "Trade." And she thinks she's being bold and intimate, handing him the most daring piece of herself, and I'm sitting here knowing it's a trophy. It's evidence. It's the thing the game wanted produced, and now she's producing it herself and calling it a love-gift. "Something in his shoulders was private and she let it be private." I know what's private in his shoulders. This is the jacket's whole cruel thesis made into one gesture — nothing taken that she didn't hand over, folded, spot centered, with hope. I actually said *oh no* out loud.
+And then the brunch, which is just — I've read a hundred girl-talk-at-brunch scenes and never one that worked like a scalpel. Randi's "sad little story" about the beautiful nervous ex is *perfectly* built: it's a decoy, it's a lubricant, it's "I only got dinner, I'm running on fumes, feed me," and it's a lie, and it does exactly what it's for, which is to make Vee want to pay her back with the real thing. The reciprocity trap. You gave me your sad thing, let me give you my good thing. And I can see the strings and I still felt the pull of it, which is the only way this book earns anything.
 
-And the chlorine. I can't stop thinking about chapter 14, him reporting her to Randi, "like she'd been in a pool," Randi tightening around him. Now Vee has given him the actual night, the real thing, white sheets, his real smell behind the proxy she's been sleeping in — and I can't not hear it as material. He's going to have something to tell. She doesn't know there's a *tell.* That gap is the engine and it's humming.
+But the thing that actually cracked the floor open: "She's a little drunk, Vee thought, fond about it." One mimosa, mostly full. *It wasn't that.* The esses running long, the a's lifting, the liquid eyes — and nothing comes along to replace the wrong answer, and Vee just lets it go. That's Randi *losing it in real time* and Vee can't read it and I can. That's the tell I've been begging for. Randi's getting off on this at the table. "Why are you telling me like it's a confession?" — she's not even fully running the game there, that's her own appetite leaking. My notes said chapter 14 cracked her, "I want us," she left. This is the crack widening in public, over eggs, where she can't control the room. I am so greedy for this and the book keeps paying.
 
-The scar high on his inner thigh, large — her hand stops on it and the book moves right past. That's Daphne money in the bank. I noted it. Book, I'm watching you.
+And the goodbye — Vee met the second press this time, half-expected it, and *didn't look down the street.* First time she doesn't check who saw. My notes have "did anyone see" circled three times. That fear is dissolving. She's stopped guarding the door. Which means the thing I'm dreading just moved a step closer.
 
-The one thing I clocked and didn't love: this is the fourth chapter running that's essentially Vee-in-close-up, and three of them have been her telling it or living it in her own warm key. The lunch broke the pattern because Randi was in the room cracking. This chapter earned its close-up completely — but I'm aware I'm greedy now for the other camera. I want Randi. I want to watch the trade *land*. That's a want, not a complaint — but it's why my thumb is already moving.
+What I didn't love, and it's small: the frosted-plum interrogation goes one beat long for me — "that face isn't about a color, is it," the heat coming up her throat "slow and complete." I'd already felt it; I didn't need the second pass naming it. The book usually trusts me more than that. But honestly one soft spot in a chapter this good is nothing.
 
-GATE 20 — Famished
+Cassie wrecks me quietly as ever. "Don't wait up, lover." She's playing the supportive roommate perfectly and she's the only one in the room who doesn't know she's in a horror novel. And Vee just *lied to her face with a ladle.* The clean one's getting managed now too.
+
+I am not setting this down. I want to see who Randi is when she gets home from this.
+
+GATE 21 — Fed
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: The sex finally arrived and it did the thing I keep saying nobody does — full heat with her whole interiority intact, shame and want on one wire, and a real line crossed ("the first time that had been true"). The "Trade" ending turned a tender scene into a trap I can see and she can't, and now I need the camera on Randi so badly I'd read on standing up.
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: none — closest was the "that face isn't about a color, is it" beat, where the book narrated a flush I'd already felt, but it was a flicker, not a pull toward the door
+WHY: The happiest chapter in the book and the most sinister, because it let Vee glow without a single wink and handed me the Randi tell live — one mimosa, "it wasn't that," and nothing to replace it — plus the zipper and the ladle, which are the whole engine in two images. I'm greedier for Randi than ever and the being-seen fear just dissolved, which means the fall is loading.

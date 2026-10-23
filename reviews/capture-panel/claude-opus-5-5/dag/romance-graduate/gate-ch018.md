@@ -1,22 +1,30 @@
-*capture-dag-v2-rich · gate ch018 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha cbd9e3cb7358 · 2026-10-10*
+*capture-dag-v2-rich · gate ch018 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 623f9cd6a778 · 2026-10-10*
 
 **REACTION**
 
-Okay. I love Cassie, and I'm glad she got a real scene and not four words and a ball cap. The hand on Vee's knee, "once, and took it back," got me. "Vivienne." got me both times. "You keep taking your shirt off in front of this guy and not getting any?" was me, out loud, on my couch at chapter 17. She's still my favorite person in this book, and this chapter is a little gift to her. I'll take it.
+Okay. I need a minute with this one.
 
-But I *just read* chapter 17. All of it, every pin. Now I'm getting it back in summary from the girl who lived it, and I'm noticing a pattern I don't like. Mountain, then Cassie retells the mountain. Mountain again at the dining hall for Meg and Kayla. The dress fitting, then Cassie retells the dress fitting. That's three debriefs of scenes I was standing inside, and this is the weakest of them because the scene it's retelling is the freshest.
+The thing I'm texting my friend at 1 a.m.: *Randi's Saturday story is fake.* Pace spent Saturday with Vee on the riser, and I'm fairly sure Randi wasn't tied to some pretty idiot's headboard that night. She was off doing whatever she does. It's the same kind of story as the French-restaurant lacrosse guy at the Smoothie Bird, a "catastrophe" with the ending already built in. Except this one isn't a bit. A man takes the reins, she can't hold them even if she wants to, and that's "the only time some of us ever put them down." That's the bench. That's the bathroom mirror. She's telling Vee the truest thing she's got with an invented man standing in the frame, and Vee hears it as a funny sex story and goes hot at the picture of Randi helpless. I went hot at it too, and I went sad.
 
-Worse, the retelling keeps doing my job for me. "He left me a door." "He asked." "It was like his eyes asked, *May I look.*" "Like I was supposed to be there." I *got* that. The whole point of 17 was that I felt it without anyone saying it, the way she rose up on her toes. Hearing her say it out loud to Cassie flattens it. That's my hair trigger: the book explaining its own subtext in case I missed it. And that's on top of the warm-house reveal getting a second "Oh, Vee." "Are you sure he's not gay?" is a bit I've read in a hundred KU books, and it's beneath these two.
+Then the thumbnail under the rim of the glass. The water-bottle cap again. I said out loud "there she is." I love that the book never remarks on it. Vee reads it as "maybe she's moved, happy for me," and the gap between what I know and what Vee can see is so wide it hurts. That's the dramatic irony the jacket promised, and it's finally working on me instead of being explained at me.
 
-What saved it was the end. "*I* was grinding on *him*." That's new. Chapter 17 had her bending into him "more than the dress asked," but it didn't let me see her own it. Watching her own it, wicked and delighted and rocking with a pillow over her mouth, is exactly the Vee I want. She's turning her mother's "floozie" into a joke she tells her best friend. That's growth I didn't just watch happen. More of that, please.
+"Which hip?" "The left one." "All the best ones start at the left hip." She *knows*. I'm sure Pace got a "Tell" in bed about the fitting. Randi is walking Vee down a route she already has the map for, one small yeah at a time. It's the most predatory thing she's done, and it's also flirting, and it's also the "may I" game Pace plays, run by a woman, over soup. That's exactly what I've been starving for. The seduction is all in the questions.
 
-What I actually wanted from this slot was the Randi debrief. After "I want us," after Randi got off on gardenia and chlorine and then *left* before she'd even caught her breath, I want to see Randi's face when Vee tells her about the box. Giving that to Cassie instead feels like the book stalling, or saving it. Maybe saving it. I'll give it the benefit of the doubt once.
+Then "You don't have to tell me." That got me. She closes the door one inch before the wet satin. Why? Maybe she couldn't take hearing it. Maybe she can't bear Vee getting the thing she couldn't keep. Maybe she wants Vee to keep one thing for herself. Or she's holding it back to use later. I don't know, and the not-knowing is delicious. And then she pulls back into the daylight voice and says "big day," which is so cruel, and Vee still decides it was the best lunch of her life.
 
-**GATE 18 — Turned Up**
+The kiss. The second press "that had something in it the first one hadn't." Yes. Vee explaining it away as "French" before her mouth is even her own again is perfectly in character. Then she scans the windows, and I immediately thought of Cassie. If Cassie saw that from our room, I'm going to be wrecked.
+
+My gripes. The opening drags. The car tucking itself in, the leather "worth money," the lighting "the way money is lit." I get it, she's rich, Vee's broke. The Rombauer price on the wine card and the Thursday debit-card dread do that work better and in fewer words. Also, Randi orders the salmon and the wine and the chapter never shows her eating or drinking either one. She drinks water. I noticed. I think I was supposed to.
+
+This is the Randi-Vee chapter I've been asking for since chapter 10, and it delivered.
+
+---
+
+GATE 19 — How It's Done
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 7
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "It was like his eyes asked, *May I look.*" That's the book explaining back to me the scene I'd just felt, and it's the third retelling of something I already saw.
-WHY: It was a quiet chapter that mostly told me what I already knew, and it only came alive at "*I* was grinding on *him*" and Cassie's hand on her knee. I'm still pulled forward by chapter 17's afterglow and the Randi conversation I can feel coming, but one more recap and I start skimming.
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "The seat took her weight and gave it back cradled." The whole luxury-car inventory up top had me skimming for dialogue.
+WHY: Randi working Vee down "which hip" one yeah at a time, and then shutting the door herself, is the sexiest, scariest thing the book has done without anyone taking off a stitch. The kiss turns the triangle into a real triangle, and I have to know who was at that window and what Randi tells Pace tonight.

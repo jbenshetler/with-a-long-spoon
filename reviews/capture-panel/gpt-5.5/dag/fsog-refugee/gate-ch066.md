@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8ea15c426f18 · 2026-10-11*
+*capture-dag-v2-rich · gate ch066 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 022d1f399ba9 · 2026-10-11*
 
 REACTION —
 
-Oh, this one was quieter than the last few, but it got under my skin in that exact dangerous way where everyone thinks they are talking about somebody else and they absolutely are not.
+Oh, this chapter got under my skin in a very different way than the hot chapters do. I was tense almost the whole time, not because I thought the book was mishandling consent exactly, but because Vee was walking into something with only half the information, and that is such a charged line for this book. Pace asked cleanly. She said yes. But Randi filled in the practical world around it, and Randi very much did not tell her the whole thing. That matters to me.
 
-I loved Vee getting to bring Sheri to Randi like a prize. Not Sheri herself exactly, though I do like her, but the relief of it. The way Vee can finally laugh at the woman she invented, can lay the blonde out on the table and admit she dressed for a ghost. That felt good. Healthy, even. Randi not saying “I told you so” and somehow saying it with her whole body was perfect. That friendship rhythm is still so delicious to me, the two of them knowing where the other person is in the story before the sentence gets there.
+And the chapter knows it matters. That’s why I didn’t throw the book. It let Vee feel the shock of the missing piece. It let her know she could say no, and then let me feel why she doesn’t: not because she’s being forced, but because she’s already so far inside the yes she gave Pace that stopping feels like another kind of exposure. That is painfully Vee. She wants the offering to be whole before she even knows what whole means.
 
-But then. That tiny stop in Randi’s thumb.
+The “wrong hand” part was the center of it for me. Whew. That was not sexy in the simple way. It was almost anti-sexy and somehow hotter because of the ache it made: her body recognizes the grammar of being held down, but without Pace’s attention and desire inside it, it becomes hollow. That clarified something for me. The dominance itself is not the thing. The care and wanting inside the dominance are the thing. The same shape without him is just procedure, and she feels the missing person like a wound.
 
-That was the chapter for me. Not the waxing request, not even the kiss at the end, though both mattered. It was Randi hearing that Sheri looked at Vee with appetite and suddenly going flat. And Vee, sweet blind Vee, deciding that must mean Randi is worried Sheri is a threat to Pace. No, baby. No. Randi heard that another woman looked at you and you liked being looked at. Or maybe she heard that another woman got to look at you openly in a way she is still pretending she doesn’t. Either way, that little “Huh” was not friendship doing concern. That was jealousy, or recognition, or hunger biting down on its own hand.
+I’m irritated with Randi. Not done-with-her irritated, but I felt the sting of her omission. “Barely stings” is funny and kind of cruel once you’re on the table. Randi loves being the woman one road further along, loves being the passport office to Vee’s new country, but she also edits the map. Sometimes that edit protects Vee from fear. Sometimes it keeps Randi in control of the reveal. I don’t think she meant harm, but intention is not the whole meal here.
 
-And I am very aware that Vee says “No. Not my thing” too fast. I don’t even know if she’s lying exactly. It might be more that the category is still locked in a room she won’t enter. She liked Sheri enjoying her, but because Sheri is not “the threat,” not the person she wants, it can be filed as funny and flattering and safe. With Randi, it would not be safe. With Randi, the whole floor goes out.
+Pace, meanwhile, is barely in the chapter and still all over it. The fact that he asked instead of ordered is carrying a lot of trust for me. But I am noticing that he asked for “bare” and didn’t tell her why, and Vee fills the blank with devotion. That can be gorgeous, but it can also leave her alone with the fear afterward. I want him to receive this with the seriousness it deserves. If he treats it as a sexy surprise only, I’ll be mad. If he sees what it cost her and loves her through it, I’ll melt.
 
-The waxing request made me sit up, too, because that could be bad in another book. A man asking for “all of it, bare” can so easily become possession in the ugly way. But here, because Pace has earned so much carefulness, I didn’t flinch the same way. I noticed that she brings it to Randi because she actually needs a woman’s translation of it, and Randi gives her one that is sensual and practical and oddly tender. “You’ll walk out of there feeling like the most expensive thing in the room” is exactly the kind of line that would make Vee brave. I did want one more beat of Vee’s own yes around Pace asking, but I also believe her excitement. She brought it like a treasure.
+The ending did work on me. Her touching herself afterward, alone, discovering the smoothness, moving from shame and pain into “I did this, and he will know it by touch” — yes. That is exactly the heat I’m here for: not a woman erased, but a woman making herself into an offering and then realizing she owns the offering too. I’m still watching the power around her very carefully, but I am absolutely reading on.
 
-And the goodbye kiss. They are not even pretending very well anymore, except Vee is. Eyes closed, waiting for the hand. The second kiss that stays. The neck kiss with no joke this time. No “ticklish.” No “don’t you dare.” Just the two of them letting it happen and naming the next dinner like that will keep everything ordinary.
-
-It won’t. It absolutely won’t.
-
-GATE 67 — Between
+GATE 68 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
 HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: "No. Not my thing."
-WHY: I didn’t almost stop because the book failed me; I almost stopped there because Vee’s denial pinched, and I felt how hard she is still working not to know herself. But Randi’s thumb stopping, the second kiss, and the way this chapter made jealousy look like care have me fully hooked for Thursday and Friday.
+ALMOST-STOPPED: "There it was. The part Randi hadn't said."
+WHY: This pulled hard because Vee’s fear, shame, wanting, and pride were all tangled in one room, and the book did not let the omission vanish under the erotic charge. I’m uneasy with Randi’s edit, but the chapter let me be uneasy, and now I badly need to see Pace’s hands meet what Vee went through for him.

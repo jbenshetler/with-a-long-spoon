@@ -1,20 +1,34 @@
-*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-07*
+*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-07*
 
 REACTION
 
-Oof. This hit right in the bruised center of my chest.
+*Oh.*
 
-That line—*"Honestly, my dad would take it better if I told him Pace takes that dress off me than that he made it. Sex he understands. The sewing he never would."*—is so profoundly, painfully true to a certain kind of upbringing. The way parents handle adulthood by actively looking away from it, or reducing it to things they can price out in a catalog. Cropping the photo at the waist for Mom and Dad so they don't see the leg, while Randi got the uncropped full length and Pace got the reality of her stepping out of it entirely in four-inch heels. The layers of editing she has to do just to exist in her own life right now are suffocating.
+Oh, my stomach just dropped straight through the floor.
 
-And Cassie. God bless Cassie, sitting there with her plastic cafeteria fork, asking the razor-sharp questions that cut straight through the fog: *"Is it that you can't say, or that you don't want to?"* And Vee knowing the answer is *both*.
+I feel sick for her. Genuinely, physically sick. She spent *weeks* crafting this perfect, heartbreaking little metaphor—a little wooden ship built to carry the freight of *I love you* without technically breaking the unspoken rule that he has to say it first—and she sets it down at his feet like a sacred offering. *"I had been eating crackers my whole life. And you fed me a meal."* It’s so tender, so bare, so completely *Vee*.
 
-It’s a very short chapter—a breather after the frenzy of the pizza, the flannel, and that scorched-earth chapter with Pace and Randi on the couch—and normally I get twitchy when chapters get this brief. But the quiet here earns its keep. It shows the real price tag of the cage Pace and Randi are building around her: isolation. She literally cannot translate this life to the people who raised her, and she can't even translate it to the one sane, grounded friend she has left. She only exists fully when she’s between the two of them.
+And what does he do?
 
-GATE 46 — Cropped
+He pauses. He takes two breaths—calculating, calibrating, running the Simpson's Paradox algorithm in his brilliant, terrifying math brain—and he hands her back a corporate HR memo disguised as intimacy: *"I love how good we are together. What you do—what your body does—I've never. I'm glad you feel it too."*
+
+*What your body does.*
+
+Are you kidding me, Peter?! She handed him her soul on a plate, and he complimented the plumbing. He reduced her absolute, starving emotional surrender to a high-performance athletic metric. *We have great friction, babe. Your pelvic floor is truly exceptional.*
+
+And the horror of it is that he didn't stumble. It wasn't an accident. He heard *exactly* what she was saying. He knew she was asking, *Am I real to you? Do you love me?* And he deliberately, surgically stepped sideways to avoid catching the pass. He kissed her head, he held her tight, he gave her the warm quilt and the fresh coffee—he smothered the bleed in pure, suffocating aftercare so she wouldn't scream—and it worked. She let herself be comforted in the moment because the trap is lined with cashmere.
+
+Until she’s sitting alone in the dorm laundry room, watching the dryer spin, and the math finally stops adding up.
+
+*"The cracker-and-meal would not return to her speech."* That line broke my heart. She’s putting it into that dark little mental closet where she hides all the things that don't fit the fairytale—right next to the dead parents he won't talk about, and the spanking bench she doesn't know exists, and the fact that Randi's mouth is all over her weekends.
+
+The title of the book is *A Warm Reception*. And right here, Rivers drops the knife: *She had been received. She had been received warmly, she would remind herself, in the small private way you remind yourself of evidence whose weight you are not sure of.* A warm reception isn't love. A warm reception is what a host gives a guest before the dinner party starts. God, she is so out of her depth, and the chill is finally getting under the door.
+
+GATE 47 — Seconds
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
+CAPTURE: 9
+NEXT: 10
 HEAT: 0
-ROMANCE: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: It was short, but that line about her dad understanding sex better than sewing landed like a ton of bricks. It captures the exact, quiet loneliness of being twenty-one and outgrowing your family's frame.
+WHY: The absolute psychological devastation of this chapter took the air right out of my lungs. Watching him deliberately deflect her love confession into a compliment about her *body*, while wrapping her in a warm quilt to numb the sting, was agonizing and brilliant. The hairline fracture in their foundation has finally appeared.

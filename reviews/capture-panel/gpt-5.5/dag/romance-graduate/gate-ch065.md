@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch065 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha fc6ed94829c1 · 2026-10-11*
+*capture-dag-v2-rich · gate ch065 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · 2026-10-11*
 
-REACTION — Oh. This one got me in the ribs, quietly, after all that heat. I expected “hangover” to be funny domestic aftermath, and it is, at first: water staged on a paper towel, the memory-deck of last night scattered everywhere, him making cinnamon raisin bread like that is a normal response to a drunk girlfriend asleep upstairs. The care is so ordinary with him that it almost hides itself. Almost. But Vee sees it now. She’s getting better at seeing the labor inside his quiet.
+REACTION — Oh, that little “No” came out so fast I felt it hit the table.
 
-And Sheri is still a delight even in absence. I loved Vee waking up with the truth of her settled: the fake blonde replaced by this loud little gay woman who looked at her legs like a gift. That relief felt so real. Not saintly, not instantly enlightened, just: oh thank God, I don’t have to be jealous of this woman, and also I kind of liked being looked at by her. Vee, babe. File that under “things you are not processing.”
+This chapter is doing the thing this book keeps doing to me, where the obvious plot object is one thing, and the actual live wire is half an inch to the side of it. Vee thinks she is bringing Randi the Sheri story, and she is, and it’s delicious. I love that the imaginary blonde finally gets dismissed not by reassurance but by reality: a loud tiny gay woman with roots showing and a look that doesn’t grade Vee, just enjoys her. That is so much more satisfying than “don’t worry, she’s not pretty.” She is real, and Vee’s fear was fiction, and Vee can actually laugh at herself. Growth, honestly.
 
-But then the chapter turns, and it turns hard. “Sheri’s my friend. My one friend. There isn’t anyone else.” That sentence made the kitchen go cold for me. Because of course he can host a room, of course he can make everyone stand taller, of course he can ask the perfect question. That doesn’t mean he has anyone. It means he knows how to give people the first line and step back. It means he can be socially graceful without being socially held. That distinction hurt.
+But Randi. Randi, babe, you gave yourself away so cleanly I could hear the glass stop moving. Vee is so sweetly, disastrously wrong about what happened there. She thinks Randi went still because she’s guarding Vee from jealousy, still being the loyal friend at the bottom of the ledge. No, honey. Randi heard that Sheri looked at you like a woman looks when she wants to enjoy herself, and then she heard you maybe liked it, and something territorial or scared or hungry went absolutely silent in her. “Huh” might as well have been a flare gun. The fact that Vee’s immediate answer is “No. Not my thing” is so transparently not settled that I wanted to put my hand over my face. Girl, your body has been voting in private for chapters.
 
-And his explanation about men making friends through competition, and missing the pack entirely, was maybe the clearest I’ve ever understood him. He was too young, too smart, too unsafe at home, too ahead, too alone, and then by the time people his age arrived, he’d already been forced into a shape that couldn’t meet them normally. I don’t know if every word of his theory is objectively true, but I believe he believes it because his life taught him that. That “door’s on a timer” line is so bleak because he says it like weather.
+And then the pivot to waxing. I knew from the jacket there was “one more door raised and not yet opened,” and this feels like the handle turning. Pace asking for “all of it. Bare.” Randi instantly having the woman, the place, the procedure, the script. It’s intimate in that very Randi way: help as orchestration, tenderness as logistics, desire hidden inside competence. Vee is thrilled to bring it to her, thrilled to be instructed, and I am both turned on and bracing. Because Randi is not just giving advice. She is helping prepare Vee’s body for Pace, yes, but also for a version of Vee that Randi very badly wants to see.
 
-The Daphne piece underneath all this is horrifying in that quiet way this book keeps doing. Vee won’t name it, and I felt that refusal. She is trying so hard to hold Pace’s lived tenderness and the wrongness of the situation in the same hands. And she’s right: Daphne was “the one” partly because the entire structure of his life gave him no other one. That makes the love real and the damage worse. No wonder he treats saying love like handing someone the detonator.
+The goodbye kiss is no longer even pretending hard enough for me. Vee stops with her eyes closed waiting for Randi’s hand. The second kiss stays. The neck kiss happens without commentary. This is not subtext anymore; this is a lit candle under a napkin. And Vee still writes down “Sondra. Draper St.” like that’s the important thing to remember, while the “other part” she has cold is probably the bare request, not the fact that Randi’s mouth has become part of the ritual.
 
-The ending hug worked on me. Vee not apologizing, not making him perform injury for her, just coming around the counter and putting her whole weight into him the way Sheri did. That is a real turn in the bond for me. Not flashy, not sexual, but intimate in a way that matters. She sees him more fully now, and instead of panicking or trying to fix him, she stays. I melted a little.
+I’m deeply in. Not as explosive as the last run of chapters, but it’s exactly the kind of between-scene that makes the next door feel inevitable. The book knows I know Randi’s reaction mattered, and it is making Vee not know it in the most agonizing way.
 
-GATE 66 — Hangover
+GATE 67 — Between
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 8
-HEAT: 1
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This was a quiet chapter, but not a stall. It opened Pace in a way I needed, and Vee’s response showed real emotional growth without turning her into a therapist. I want the next chapter because this changes the weight of everything: Sheri, Daphne, the missing “I love you,” and what Vee thinks she can ask of him.
+ALMOST-STOPPED: "Barely stings."
+WHY: I rolled my eyes for one second at the magical painless waxing pitch, but the emotional charge around it worked too well for me to actually drift. Randi’s tiny jealous freeze over Sheri looking at Vee was the chapter’s real event, and Vee misreading it as protection made me want the next page immediately.

@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch036 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a481d9a0a3a · 2026-10-10*
+*capture-dag-v2-rich · gate ch036 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · 2026-10-10*
 
 REACTION
 
-Oh, Randi. “Vanilla” is bait, and Vee jumps straight onto it because she wants to defend how good this man is to her. I felt myself bracing almost immediately. She came wanting to talk about being loved well, and suddenly she’s supplying the intimate details Randi wants. I miss the version of their laughter where Vee gets to surprise her. The pantsing briefly brought that back, and I laughed with them, but then we were back to Randi asking the questions and Vee getting steadily less able to think.
+Oh, the top drawer. That got me. Especially his things squeezed into the one below it. I know what it feels like to stand in somebody else’s bathroom trying to keep your presence small, and her reaching for something that’s vanished gave me that little stomach drop before I even knew where he’d put it. Then the pins in a dish. Room for more. Yes, Peter, that is a lovely thing to do.
 
-It did get to me. Randi lowering her voice across a brunch table, watching Vee remember, letting her own story become something Vee can picture—yes. There’s charge there. But I was also impatient through the spanking recap. I was just in that bedroom. I don’t need every stage again to believe that telling Randi is doing something to her. By “And did he take care of your fire?” I wanted Vee to ask a question Randi hadn’t prepared for.
+And I am furious that she has a drawer before she has the truth.
 
-Then the bathroom upset me. Randi’s face appearing should have been the moment Vee finally caught herself wanting this woman. Instead, that imagined attention stops her hand. “Frustrated and cowed” is a miserable place to leave her, especially after she had been so gloriously pleased with herself standing naked in Pace’s lamplight. Now she can’t even have a private moment without wondering what Randi would think. I don’t know whether Randi understands how much authority she has acquired, but I badly want to find out.
+“She loved him” hurt. I believe her completely. The happiness feels real, and I want her to have the ordinary pleasure of bringing her bag and leaving a mess and discovering that somebody likes having her there. But when she starts assuring herself that his actions mean she doesn’t need the words, I’m lying there beside her thinking about all the other words he hasn’t said. Randi isn’t a technicality you can tuck beneath the scrunchies. Vee is making a home inside an understanding of this relationship that he knows is incomplete.
 
-“Sticky fingers?” made me recoil. I do not believe that woman innocently meant pastry. And the retreat into plausible innocence leaves Vee carrying all the embarrassment by herself. That’s the part that makes me angry: she can’t even object without exposing something she isn’t ready to say.
+The whispered “Peter” still reaches me. So does him looking at the counter and going back to kissing her shoulder. I wish we’d stayed with that feeling a little longer without being told quite so thoroughly what the drawers mean. By “The easy one. The one your hand goes to first,” I was thinking: I’m already touched. Let me be touched.
 
-The best-friend declaration hurt more than I expected. Vee is so happy to have been picked. I believe there’s real affection in Randi, which makes this harder to shrug off as a woman playing games. But *“I couldn’t bear it if there was something between us”*—Randi, there is an entire boyfriend between you. You know him.
+The weight-loss passage was an unwelcome detour. She’s eating happily, enjoying sex, and now her bras are getting loose without her trying—apparently that’s another benefit of being with this extraordinary man. I wanted to get back to the woman admitting she’s in love. And the opening’s account of his reliably excellent lovemaking didn’t give me much actual heat; I’ve been there with them, and remembering how attentive he is isn’t the same as feeling it happen.
 
-I noticed the single bite. Again, food barely touched, pleasure announced, subject closed. I still want inside her head. And that last trace of glaze on Vee’s mouth is terribly intimate; it caught me even while I was furious. My 1 a.m. text would be: “She’s tasting this woman on her lips and still thinks friendship explains everything. I need somebody to know something NOW.”
+I’m still here. This is one quiet chapter after a very charged brunch, and I have plenty of room for a drawer to matter. But the tenderness is making me more impatient for disclosure, not less. My text to a friend would be: “He gave her bathroom space and I melted, then remembered his girlfriend. I need someone to ruin breakfast.”
 
-GATE 37 — One Bite
+GATE 38 — Above Him
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
-HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: “And did he take care of your fire?”
-WHY: Another detailed bedroom debrief had me impatient, but the bathroom and the pastry remark made this encounter hurt in a new way. I want the next chapter urgently, though my patience for Vee almost recognizing her desire and then putting it away is getting thin.
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: “that she'd been losing weight since she met him, her body quietly burning down whole weekends of him, and she'd never asked it to.”
+WHY: The drawer reached me, and her admitting she loves him makes the concealed relationship hurt more. I want the next chapter because something has to meet this growing attachment besides another beautiful reason for her to trust him.

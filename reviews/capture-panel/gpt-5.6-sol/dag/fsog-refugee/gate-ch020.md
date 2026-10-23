@@ -1,26 +1,32 @@
-*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8611b8522702 · 2026-10-01*
+*capture-dag-v2-rich · gate ch020 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 332b2e10547e · 2026-10-23*
 
-REACTION — Oh. Oh, this is exactly what I came back to this genre hoping somebody would finally give me.
+REACTION
 
-The fact that she bought the green set before she could admit what she was buying it *for*. The plum toenails hidden inside sensible flats. Sleeping in his shirt and chasing the last of his smell. She wanted this long before she arrived, and the chapter never steals that wanting from her or makes Pace its author. It is hers. Even her shame is hers—not proof that she secretly means no, not an obstacle he bulldozes through, but an old current running beside her desire until, for the first time, it cannot shut her down.
+Oh, this made me happy and uneasy in exactly the same breath.
 
-And Pace. God. “Would you be bothered if I was too hard?” That question nearly finished me before he touched her. He sees the thing she is most ashamed of—how visibly, excessively ready she is—and asks whether it would help if she knew her effect on him was equally beyond concealment. He doesn’t pretend not to notice. He doesn’t make a joke of it. He turns exposure into reciprocity. *You are not the only one whose body has given you away.* That is tenderness and dominance in the same breath, and apparently I have been waiting years for exactly that sentence.
+Vee coming home unable to stop smiling, carrying the night inside her like a second pulse—I loved that for her. Especially the moment with the skirt. Her mother’s ugly word can come, and for once it cannot touch the happiness. She chose the lingerie, chose Pace, gave the panties away, drove home bare, and does not regret one inch of herself. “I wanted it. And I took it. For once.” Yes. That is the woman I have been waiting for her to become.
 
-His mouth on her felt almost unbearably intimate because he was glad of all the evidence she wanted to hide. Nothing in him asked her to be cooler, tidier, quieter, less hungry. Then when they finally came together, his restraint didn’t vanish because the scene got hot. He waited inside her. He watched. She pulled him close, lifted into him, said yes, asked for more with her whole deliberate self—and only then did the carefulness break into the force she had been wanting from him since the mountain. That is what I mean when I say I want control that makes room for her instead of erasing her. He could overpower her. What makes him devastating is that he waits until she invites the power in.
+But the cleanly lifted-out middle with Cassie hurt. Cassie sees the missing seam and, because she is safe, does not tug at it. Meanwhile Randi actively pulls until Vee opens. That contrast is becoming impossible to ignore. Cassie calls Pace her boyfriend and Vee lets the wrong word stand; then she goes to the woman who knows exactly who Pace is and tells her the emotional truth of the night. Randi is becoming the keeper of Vee’s real inner life by means Vee still cannot see.
 
-I did notice that her hips are allowed to tell him to move before the spoken yes arrives. Normally that phrasing would put me on alert, especially with his belief that the body tells truths. Here, though, I never felt her choice go missing: she initiated the kiss, asked to see his bedroom, undressed him, pulled him onto her, wrapped herself around him, and had already answered his explicit question. The later yes felt like her finding language inside a choice she had been making all evening, not the book using arousal to overrule her.
+And God, the sheet at midnight. That was the part that got me most—not the mechanics she withheld, but Vee sitting wrapped in the warm sheet, watching Pace cook, with “nothing missing.” That is what I need the sex to mean. It was not an episode he performed on her and then finished. She remained wanted afterward. She was fed. She could be silent without having to wonder whether the silence meant withdrawal. I completely understand why that is the piece she wanted to place carefully in front of someone.
 
-And then the food. Bless this chapter for understanding that the fra diavolo is part of the sex. No performance afterward, no sudden speech about what it meant, no woman abandoned emotionally the second he finishes. She sits at his table wrapped in his sheet, sweaty and properly hungry, and he feeds her the dinner he had already prepared to make. Their silence is comfortable. Her body is quiet. “The evening had used her well” is exactly the feeling I wanted for her: spent, not diminished.
+Unfortunately, the person she placed it in front of was Randi, who is once again being both exactly what Vee needs and profoundly dishonest with her.
 
-The panties absolutely undid me. That is not a coy souvenir. She takes the physical proof she has spent her whole life treating as humiliating, folds it carefully with the mark centered, and offers it to him as something chosen and valuable. *Trade.* His shirt for hers. His scent in her bed for the evidence of her appetite in his hand. And she lets his reaction remain private instead of immediately begging to know whether he approves. She already knows.
+Randi telling Vee to stop narrating herself as passive was beautiful. I mean that sincerely. She gives Vee her agency back: you painted your toes, you bought the underwear, you knew, you drove there sure. She helps Vee say, without apology, that she wanted it and took it. That is such an intimate kindness, and it landed in me.
 
-I am embarrassingly happy for her, wildly turned on, and also braced for the other shoe because Randi is out there carrying the truth of how this began—and because that scar got one clean flash of attention before the chapter swept past it. But right now? This earned the intensity. This is the chapter I would text a friend about at one in the morning with nothing but: “HE ASKED IF SHE’D MIND THAT HE WAS TOO HARD. I’m deceased.”
+It is also maddening because Randi is not innocently helping a friend understand herself. She knows the man. She helped arrange the man. She is listening to Vee describe being singular to her own lover while hiding behind another disposable story about another beautiful boy and another disappointing night. And whatever came into her voice was not one mimosa. She was turned on. Vee heard it and lacked the one fact that would let her name it. Randi is still using Vee’s incomplete understanding to get access Vee might or might not grant if she knew the truth.
 
-GATE 20 — Famished
+“You’re not caught, sweetheart. You’re lucky” frightened me for that reason. Vee is lucky in what happened with Pace. But she is also caught inside a design she cannot see, and Randi is the person who knows it. That reassurance would have been lovely from almost anyone else. From Randi, it has teeth.
+
+Then the kiss. This time Vee half-expected it and met it. She did not scan the street afterward. That is a real change, and yes, I wanted it. I felt the charge of her choosing to meet Randi’s mouth instead of freezing and explaining it away. But Randi still did not ask, and Vee still does not have language for what is happening between them. I want Randi to say, plainly, *I want to kiss you. May I?* She has just spent an hour teaching Vee to own her desire while continuing to conceal her own.
+
+What I would text at one in the morning: Randi is giving Vee the words to understand that she chose Pace, while withholding the words that would let Vee choose Randi. I am absolutely reading on, but somebody needs to tell this girl the truth before all this genuine tenderness becomes evidence against them.
+
+GATE 21 — Fed
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me her hunger as something wholly hers and his dominance as an answer to it, never a replacement for her choice. The first sex, the quiet meal, and that devastating little “Trade” turned the bond all at once—and now I need to know what they are to each other in the morning, what the scar means, and what happens when Randi feels this shift.
+WHY: Vee claiming “I wanted it. And I took it” thrilled me, and her meeting Randi’s second kiss made the bond unmistakably turn. But Randi’s tenderness is now inseparable from the secret: she is helping Vee own choices while denying her the knowledge she would need to choose the whole situation freely.

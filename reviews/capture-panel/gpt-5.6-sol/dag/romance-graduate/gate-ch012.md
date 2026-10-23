@@ -1,24 +1,14 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 2bcd8a499e1e · 2026-10-01*
+*capture-dag-v2-rich · gate ch012 · gpt-5.6-sol · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 60685a587d38 · 2026-09-27*
 
-REACTION
+REACTION — Oh, Cassie. “Just her name, like setting something down where it wouldn’t break” got me. She doesn’t interrogate Vee, tease the tenderness out of her, or turn the confession into entertainment. She just understands that something enormous happened and handles Vee accordingly. I trust her more every time she opens her mouth.
 
-Oh, that truck scene. That is exactly the thing I keep begging spicy books to understand: the hottest possible choice was not Pace stripping her. It was him getting back out into the rain so she could change unseen—and Vee realizing she wanted to be seen, calling him back, and making him watch. She takes the privacy he gives her and turns it into exhibition on her own terms. I was holding my breath through every button.
+And Vee saying “And then we ate” with the emotional weight another heroine would give a kiss—yes. That’s her real intimacy. Pace fed her after her body had earned its hunger, taught her something without humiliating her, then looked when she chose to be looked at. She isn’t dazzled only by him; she is dazzled by herself. “I got up a mountain” may actually matter more than the wet-shirt moment, which is saying something, because the wet-shirt moment absolutely worked on me.
 
-And then his hand is shaking because he is freezing. That absolutely undid me. She reaches for him because she wants more, discovers what his care has physically cost him, and changes course—not from shame or fear, but because now she is caring for him. Bringing his hand under the flannel against her warm belly felt more intimate than whatever sexual thing she had been about to begin. That is the combination I want: explicit desire that reveals character instead of pausing it.
+This was tiny, but it didn’t feel empty. It felt like Vee coming home still lit from inside and placing the experience in the hands of the one person who isn’t trying to steer her. Also: “Borrow real boots next time.” Cassie’s blessing, in Cassie language. I want to hug her and warn her that she is about to become the person Vee tells less and less precisely because she sees too clearly.
 
-The foot scene got me first, though. Her mother’s voice can sexualize and shame even the simple vulnerability of a bare, sweaty foot in a man’s hand, and Pace just fixes the problem. No teasing her for not knowing, no making her embarrassment into a production. The cherry pit does the same thing in miniature: he corrects her without making her feel common, then quietly puts his own pit beside hers. God. He keeps giving her ways to learn without making ignorance a debt she owes him.
-
-I also noticed that he listened to the dress and left it alone. I am now absolutely convinced that russet silk is going to return, and I’m already uneasy about it, because a gift can be tender and still expose how closely he has been collecting her wants. With the secret plan hanging over everything, every beautiful act has a blade tucked inside it. He is making her feel safe enough to become more fully herself while withholding the one fact that might change whether she feels safe with him at all.
-
-But Vee is not passive here. That matters enormously to me. She steps onto the trail scared. She eats. She learns. She tells him about wanting the dress instead of erasing the desire before it reaches her mouth. And in the truck, she authors the entire charged moment. Her mother’s contempt is still speaking, but Vee converts it into heat and chooses what to do with that heat. Pace’s restraint is devastating because it leaves the scene hers.
-
-Then that stupid little siren steals the sentence. I wanted to howl. Whatever she was about to give him remains trapped in the cab, and now she is standing in his shirt looking like visible evidence of something she does not yet have language for. If Cassie sees her walk in like that, soaked through and glowing and wearing Pace’s flannel, I need the next chapter immediately.
-
-GATE 12 — Leave No Trace
+GATE 13 — Rye
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
 ALMOST-STOPPED: none
-WHY: This gave me the exact fusion of interiority, tenderness, shame, agency, and explicit charge I came for. Vee calling Pace back to watch her—and then stopping the escalation when she realizes he is cold—turned the bond as much as it turned me on, and the interrupted goodbye has my thumb already moving.
+WHY: This was a warm little aftershock rather than forward motion, but Cassie’s quiet care made it land. Now I desperately want to know what happens when Pace sees Vee in his shirt again—and how long Vee can keep telling Cassie the truth before the secret architecture around her begins separating them.

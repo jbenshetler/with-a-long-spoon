@@ -1,30 +1,30 @@
-*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 414026fd7d01 · 2026-10-01*
+*capture-dag-v2-rich · gate ch016 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-01*
 
 REACTION
 
-Oh, this man is a fucking trap.
+Oh, this is exactly the book I wanted and almost never get.
 
-The kiss at the door got me immediately—not merely because it was hot, but because Vee arrived wanting and took what she had been waiting for. Then Pace stopped first, and I felt her entire understanding of men shift by half an inch. He can be desperate for her and still govern himself. For a woman accustomed to being the brakes, that is catnip.
+A powerlifter cutting burgundy silk while the woman on his couch realizes she has soaked through the pretty panties she wore for him. I would be texting someone that sentence at one in the morning in all caps. This is filthy without rushing to the obvious act, and the filth is inseparable from being attended to. Of course her body responds to patience, precision, being studied, being worth hours of skilled work. That is so much more specific and revealing than generic foreplay.
 
-And then she asks to see “the whole thing,” while I know perfectly well the whole thing includes a disguised bench built for sex with Randi. He shows Vee his mind, his books, his work, his competence, his tenderness, his beautiful view—everything calculated to make him more knowable and desirable—while leaving the bedroom door shut. She thinks nothing is being withheld because he performs withholding so gently. Sir. You absolutely did not show her the whole thing.
+The wet spot absolutely got me—not just as heat, though yes, extremely as heat, but because I knew exactly how catastrophic it felt to Vee. Her body has betrayed her in the language she was raised with, and she is trapped on a literal pedestal while the evidence spreads. When she shut her eyes, I was braced right alongside her for Pace to either pretend not to notice or turn her humiliation into his sexy little victory. Instead he waits at eye level for her face. He sees the thing she cannot bear to have seen and makes the important fact not that she is wet, but that she is *her*. I had to stop there. That smile rearranging her posture—actually changing how she occupies her body—was enormous.
 
-The two towels made the back of my neck prickle. Vee sees evidence that this solitary man’s bathroom accommodates another person and walks straight past it because she has no reason to investigate. I do. Randi is all over this house in negative space. And after watching Randi use sex with Pace to consume details about Vee, I cannot look at any shared domestic trace innocently.
+And then she discovers she can affect him. Thank God. I have loved his control, but if she stayed only the grateful recipient of his perfect attention, the whole dynamic would eventually curdle for me. Watching her get playful and a little wicked, deliberately press her breast to his face, and make this terrifyingly composed man blush was delicious. “Oops. Sorry.” Vee! There you are. Her appetite is becoming something she can wield instead of merely confess.
 
-I was in danger of rolling my eyes when the mathematician-furniture-maker-cook-powerlifter casually acquired a medical-imaging patent too. Of course he did. We are approaching handcrafted artisanal fantasy-man levels. But the reason he likes the patent saved it for me: frightened people, sick people, children getting out of the machine sooner. That is exactly the sort of detail Vee would fall through, and apparently so am I. Worse, the explanation about messages surviving noise feels like a promise the book is making under the scene. These people keep saying their desires more than once, in bodies and choices and evasions, hoping the truth survives all the interference.
+“Keep still” nearly killed me because he means it in every possible register, and because he chooses to finish the dress. He wants her badly; she knows it; he knows she knows it. But the gift does not become an excuse to collect immediate payment from her body. Even after she starts offering him openings, he keeps faith with what he said he was going to do. And then they start cheating by millimeters together—the hand down her spine, the finger behind her knee, the breath below her navel. That is hotter to me than a dozen interchangeable penetration scenes.
 
-And the dress. Goddammit, the dress.
+The romance is not separable from the heat here. He remembered the discarded wish, chose the color for *her* rather than obediently reproducing the magazine, learned every dimension of her, and is making something for the night when her achievement will be publicly named. He is eroticizing her body without stealing the occasion from her intellect. That combination is offensively effective.
 
-He didn’t buy the fantasy she named. He listened closely enough to improve it for her—not by correcting her, but by seeing which color would actually cherish her coloring. That is obscenely romantic. She told him about a want she had already disciplined herself out of having, and he quietly began building it back into the world. “He’d matched her” nearly finished me.
+But the secret is poisoning every perfect thing in advance. Vee thinks he “walked right past Randi, Randi!” and I wanted to reach into the page. He did not. Randi selected her. Pace already knew exactly who was coming toward him. Even this gorgeous hour exists inside a plan Vee still cannot see. The warm house, the prepared platform, the light, the silk—how much is tenderness and how much is staging? Obviously both, and that is why I cannot breathe normally around this book.
 
-But I am not swooning so hard that I miss the machinery. The house is overheated. The bedroom stays closed. The silk is waiting in the brightest room he owns. He has already made a fitted shirt, so Vee can realize for herself that his offer is plausible. Then, only after the emotional gift has become almost impossible to refuse, comes the requirement: he must measure her down to what she’ll wear beneath it, in good light. He does leave the choice open. Her yes is real. He has also constructed the most devastating possible route to that yes. This is the entire book’s problem in miniature, and it is working on me exactly as advertised.
+Also: the riser. He built it. I know he makes furniture, so it can be innocent. I also know what else he builds and disguises as innocent furniture. I have not forgotten the bench for one second.
 
-Also: she dressed in satin hoping to show him, felt rejected by the closed bedroom, and now has been offered something far more intimate than simply being taken into it. He is going to look at her with purpose. Measure her. Learn her body as a problem of line, weight, drape, and fit. Make something that can only belong to her. I am not fooled by the absence of nudity here. This is foreplay with a measuring tape, and I am already feral for the next chapter.
+Still, Vee’s transformation here is real regardless of their machinery. Nobody manufactured the joke she made, the power she discovered, the way she straightened, or the choice to press herself against his face. Her desire belongs to her. That truth is becoming more precious with every chapter because I know the revelation may make her doubt it.
 
-GATE 16 — Two Towels
+GATE 17 — A Round
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The dress offer hit every part of me at once: grown-up tenderness, frightening attentiveness, concealed manipulation, and a deeply erotic choice Vee makes without yet knowing the whole arrangement around it. I need to see what happens when he uncoils that measuring tape.
+WHY: This gave me explicit charge, adult restraint, psychological specificity, and a genuine turn in Vee’s relationship to her own desirability—all in the same scene. I’m already reaching for the next chapter, thrilled by what she has claimed and sick with anticipation about the secret underneath it.

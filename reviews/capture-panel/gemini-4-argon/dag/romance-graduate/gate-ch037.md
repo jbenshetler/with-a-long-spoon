@@ -1,20 +1,16 @@
-*capture-dag-v2-rich · gate ch037 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · 2026-10-21*
+*capture-dag-v2-rich · gate ch037 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · 2026-10-21*
 
 REACTION
 
-Oh, my chest hurts. Look at those two open drawers. He took his whole careful, ordered self and crammed it into the bottom drawer so she could have the top one—the easy one, the one your hand goes to first—with a little dish for her bobby pins and empty liner waiting for more of her. And she’s standing there glowing, whispering *"Peter"* to him in the dark, telling herself she doesn’t even need him to say the words out loud because *"a man didn't do all of that for a girl he was only passing a season with."* And she’s right! He *does* love her like that! That’s what makes this so unbearable!
+Oh, I love Cassie so much. Every time she’s on the page she grounds the whole book in normal, breathable air, and it makes you feel just how deep in the woods Vee actually is. "You're a public utility" made me laugh out loud, and then the instant switch to Vee touching the side of her own breast without even realizing she's telling Cassie she's been sitting at his dinner table naked (or close enough) while eating hot baked tomatoes! And he keeps his whole house warmer now so she never thinks about how much she has on.
 
-Because my immediate, cold-sweat second thought the moment that counter was wiped clean between one Friday and the next was: *Wait. Did he clear the counter because he’s neat, or because Randi was there during the week?*
+What really got me in this tiny chapter, though, is the timeline shifting under our feet. *You don't come home school nights.* Wait—if Vee is staying over on school nights now, not just Friday to Sunday, what is happening to Randi?! Last we heard from Randi at Pace's house, she was furious that Pace had Vee Friday to Sunday and she was relegated to weeknights, and now Vee's bed is sitting empty more nights than not, and her things are in the top bathroom drawer! Did he pack Randi's things away, or did Randi never get a drawer at all? And when Cassie asks flat-out "Do you love him," Vee already said it to herself in the dark in the last chapter, and here in the light with her roommate she shrinks back to *"Maybe. I think so. It's all so fast."* Because saying it out loud to a real friend makes the stakes terrifyingly real. This is two quiet, sweet, domestic chapters in a row showing Vee moving further into his life, which means the bomb waiting on the other side of that bathroom drawer is getting bigger by the day. I need to see Randi's face right now.
 
-No—even if he cleared it for his own need for order, or to keep Randi from walking into the bathroom and seeing Vee’s things colonized across the sink, what happens the next time Randi *is* there and opens a drawer? Or what happens when Randi realizes Vee has the top drawer in his bathroom while Randi only ever borrowed an undershirt out of his bedroom dresser once? Every single sweet, domestic, deeply romantic gesture Pace makes to build a real place for Vee in his house is simultaneously a landmine waiting to blow all three of them to pieces.
-
-I also loved the quiet little detail about Vee eating like a field hand at his table now after years of pushing plates away half-done, and actually *losing* weight in her bra band because her body is finally happy and burning through whole weekends of him—especially set against Randi’s brutal, ruler-straight war with food. Everything in this book talks to everything else without ever raising its voice to explain itself. It’s a quieter bridge chapter after the absolute five-alarm fire of chapters 35–37, so the sex is summarized in reflection here, which is totally fine after the run we just had, and emotionally it moved the needle huge. Vee is officially in love with him, she knows it, and she's moving into his drawers. God help them all.
-
-GATE 38 — Above Him
+GATE 39 — School Nights
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 9
 HEAT: 1
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The top-drawer reveal is peak actions-speak-louder-than-words romance, made ten times more gripping by the dread of knowing Randi exists in this same house on other nights. I need to see when the two halves of his week collide.
+WHY: It's a quick, quiet two-page beat, so CAPTURE is a solid 7 rather than a 10, but Cassie clocking that Vee is staying there on *school nights* now—Combined with the top drawer from last chapter—has my stomach in knots over what this means for Randi. Two sweet domestic chapters in a row means the other shoe is about to drop, and I'm turning the page immediately.

@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · 2026-10-01*
+*capture-dag-v2-rich · gate ch035 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 51b3205f6eee · 2026-10-01*
 
-REACTION — Oh, this got me. Not because she walked out naked—though yes, obviously, the heels-only entrance absolutely worked on me—but because she designed the whole scene herself. She brought the dress without bringing an overnight bag. She put him in the chair. She told him not to move, stopped him when he tried to stand, made him wait through both reveals, and chose exactly how he was allowed to look at her. This is Vee discovering that being seen can be something she authors instead of something that happens to her, and I am embarrassingly emotional about it.
+REACTION — Oh, Randi knows. Maybe she cannot know every physical detail, but she knows exactly what she is doing to Vee, and “Sticky fingers?” is such a perfectly deniable little knife that I actually stopped breathing. The pastry explanation doesn’t clear her. It makes it worse. She has watched Vee flee an erotically charged conversation for a bathroom before. This time she sends her off with “Do what you need to,” waits for her to return, and says the one phrase guaranteed to expose her without ever surrendering plausible innocence. That is frighteningly skillful.
 
-And Pace staying in that chair? His hand starting toward her and then being put away? That is hotter to me than another immediate sex scene would have been. He understood that the gift was the looking. He didn’t grab, praise her into submission, or turn her little performance into his production. He let her hold the room. After so much anxiety about unseen hands arranging Vee’s choices, watching her openly arrange him was a relief.
+And God, this was hot. Not only Vee retelling the spanking, though watching her discover that saying it aloud can become another form of being touched absolutely worked on me. It was the escalation from Pace’s hand, to Vee’s own hand, to Randi’s face appearing at the instant Vee begins to penetrate herself. There it is. There is the desire Vee has kept misfiling as admiration, friendship, exhaustion, spillover from Pace—arriving inside her own solitary fantasy where there is nobody else to blame. She stops because imagining Randi seeing her is simultaneously what she wants and what makes the wanting unbearable. That frustrated, almost-finished ache feels more revealing than an orgasm would have.
 
-“The other is for the world. This is just for me” could have been cheap alpha possessiveness in another book. Here it landed as intimacy because the dress really was her public self—the room’s murmur, the photograph, the stride she claimed—and this nakedness was deliberately offered to one person. He doesn’t declare that her body belongs to him. He recognizes that this particular viewing does.
+I do not believe Randi’s convenient blond boy story without reservations. Perhaps it happened. But it is also exquisitely designed pornography for this particular listener: dancing, a forceful man, a woman left unbearably aroused, dress raised, panties moved aside, knees spread, the possibility of being caught. Randi knows how Vee responds to being looked at, and she has just listened to every detail of Pace making that response explicit. Whether the story is true almost doesn’t matter to the manipulation; she selects and delivers it to bring Vee exactly where she goes.
 
-Also: the dress taught her how to stand naked. That is the part I’m carrying. She first learned the long line inside something Pace made to fit her actual body, then removed the dress and kept the posture. The structure has moved inside her. That is gorgeous—and, given everything I know about the larger concealed structure, a little frightening too. I still need the truth. I am not letting either Pace or Randi off because this scene made me melt. But for these few pages, Vee’s choice feels unmistakably hers.
+The cruelty is that I believe the tenderness too. “There’s my girl.” Matching Vee’s cheap mimosa without exposing the reason. Her face lighting when Vee arrives. “You’re my best friend in the whole world.” I believe Randi means it, and I also believe she uses the declaration at precisely the moment Vee is frightened there may be something wrong between them. She gives Vee the closest named place available while keeping the actual truth outside language. Vee feels chosen, and being chosen is her deepest hunger. Randi knows that as surely as she knows what stories make her wet.
 
-My 1 a.m. text would be: *She made him sit in the chair and modeled the dress, then came back wearing only the heels, and he actually had the sense not to touch her. I’m deceased.*
+And then the pastry on Vee’s lip. That one bite Randi takes and leaves behind; the sweetness transferred in the second beat of the kiss. Absolutely not accidental on the page, and probably not accidental for Randi either. She lets Vee leave carrying literal evidence of Randi in her mouth while Vee still calls this friendship. I want them together desperately. I also want to grab Vee by both shoulders and tell her that a woman can sincerely adore you while managing you for her own ends.
 
-GATE 36 — Made-Up
+Also: Vee choosing the cheapest drink and performing ease while Randi effortlessly matches her is another tiny reminder that Vee is always doing budget arithmetic inside experiences Randi treats as atmosphere. At least here Randi follows rather than pressures her upward. But the class gap remains under the table with everything else.
+
+I would text a friend at one in the morning: SHE NEARLY FINGERED HERSELF THINKING ABOUT RANDI, RANDI MAY HAVE CALLED HER ON IT TO HER FACE, AND THEN KISSED PASTRY GLAZE ONTO HER MOUTH. This woman is conducting Vee like an orchestra, and Vee still thinks the music is weather.
+
+GATE 37 — One Bite
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was brief, but it completed an entire emotional and erotic movement: Vee turned Pace’s gaze into something she controlled and enjoyed without hiding. I’m moving straight on because the scene leaves them poised at maximum charge—and because the beautiful private “just for me” is sitting on top of a secret that still has to detonate.
+WHY: This is exactly the combination I came for: explicit bodily truth, real psychological danger, and tenderness that does not cancel manipulation but makes it hurt more. Vee’s desire for Randi has finally entered her fantasy plainly enough that she cannot keep calling it Pace’s afterglow, and I need the next page immediately.

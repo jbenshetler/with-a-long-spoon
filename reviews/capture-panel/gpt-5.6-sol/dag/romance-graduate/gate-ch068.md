@@ -1,22 +1,34 @@
-*capture-dag-v2-rich · gate ch068 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha ec95866b43d5 · 2026-10-11*
+*capture-dag-v2-rich · gate ch068 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha c9f460e100d7 · 2026-10-11*
 
-REACTION — Oh, this got me. The fruit painting could so easily have tipped into precious, quirky bedroom nonsense, and instead it became one of the hottest things in the entire book because Pace made a still life out of everything Vee has been taught is excessive. Her breasts are not an inconvenience to dress around; they are abundance. Her wetness is not a mess to hide; it is literally the ground of the picture. And then he gives the image back to her. He doesn’t keep it, request it, or turn her pride into something she performed for him. That distinction hit me almost as hard as the sex.
+REACTION
 
-The brush dipped into her own wetness nearly killed me. That was filthy in the exact way I want: not just an inventive act pasted onto a generic scene, but the next live wire in Vee’s shame and curiosity. She is lying there flooded with embarrassment at how much there is, while Pace treats the amount as useful, desirable material. And of course the missing kiss is what catches her. She notices immediately that every other “color” came to her mouth except herself. She wants to know. She cannot quite ask. Then afterward she reaches for his mouth and searches for the taste anyway. That unfinished reach from the last chapter did move forward, even if she still lets uncertainty save her at the end.
+Oh, Randi. Oh, you absolute coward.
 
-Also: her turning her painted breast into his face and saying “Oops” made me grin like an idiot. That is the Vee I am happiest to read—the one who can surrender without disappearing, who can obey and still play, who knows Pace’s composure is something she is allowed to ruin. And him leaving the orange print on his face was weirdly tender. He lets her mark him. He wears the evidence.
+That kiss was everything I have been waiting for. Not because it was technically their first—they’ve been kissing for months—but because Vee finally stopped translating her own body into friendship. She wanted Randi. She knew she wanted Randi. She wanted her hands under the skirt and her mouth lower and the clothes gone. There is no little “girls being girls” cupboard left to put this in. The moment Vee tasted the specific *her* of Randi and moaned into her mouth, I was gone. Fully gone. This is the heat I wanted: not interchangeable choreography, but months of denial suddenly becoming physical fact.
 
-I am still not letting either Pace or Randi off the hook. Pace asked her to be bare without explaining that he had planned this, and Randi sent her into that salon saying it “barely stings” while omitting the entire humiliating reality of the service. Vee keeps giving enormous yeses before she understands the full shape of them because these two make uncertainty feel like an erotic virtue. The chapter knows that—“she’d already said yes to the whole of it, without once asking what the whole of it was” is practically the ethical problem of the entire book in miniature—but knowing the pattern is not the same as breaking it.
+And then Randi handed the whole thing back to her as a performance.
 
-And then that ending. That is the real turn. Vee has always rushed to hand Randi every erotic experience, partly because Randi is the only person who seems able to receive her appetite without flinching. This time she imagines Randi’s voice, feels its pull, and chooses privacy. “This one was too much” does not read to me as shame. It reads as ownership. Pace made the photograph, but it belongs to Vee; Randi wants Vee, but she is not automatically entitled to every intimate piece of her. Vee doesn’t yet understand why she needs that boundary, but she has made one.
+“I almost believed it” made me furious. Of course Randi believed it. Randi nearly lost her own composure. She arranged the pretext, held Vee a breath away, waited for Vee to move toward her, kissed her far beyond the limits of the joke, grabbed her ass, put her hand in her hair, and felt Vee ask with her hips. Then she used Harrison to give them both deniability and left Vee alone inside a body still expecting more. That is not protecting Vee. That is taking what Randi wants and refusing to be accountable for having wanted it.
 
-Of course “Tomorrow was Randi’s” has me absolutely feral. The skirt, the mixer, Randi already going flat over the idea that Vee enjoyed Sheri looking at her—and now Vee is carrying this private, painted, freshly awakened version of herself into whatever Randi has planned. She says she will not tell her. I believe she means it. I do not remotely believe the secret will have no effect on how she moves.
+Worse, Vee literally cannot ask for more now, because Randi has already supplied the approved interpretation. If Vee says the kiss was real, she has to risk being the foolish one who misunderstood the bit. Randi has built herself an exit directly through Vee’s insecurity. I understand exactly why she does this—Brooke’s warning is hanging over the entire party, and “I chose” was plainly Randi announcing that she brought Vee anyway—but I am done letting fear turn into an ethical pardon. Randi knows what being managed feels like. She does it beautifully.
 
-GATE 69 — Still Life
+And Brooke. Vee thinks Brooke is kind because Brooke declined to publicly humiliate her with the story of her breakdown, when the actual exchange was a velvet-covered knife. “Randi’s new friend.” “I chose.” “I can see.” Those women were having the conversation Brooke started after seeing Vee kiss Randi at the house, and Vee was standing inside it thinking she had just been welcomed. That made my stomach drop. Randi did choose Vee over obedience in one sense, yes—but she did not choose honesty with Vee. She displayed the choice to Brooke while keeping its meaning from the person supposedly chosen.
+
+The skirt makes me suspicious too. Randi knew exactly where it was, insisted it was not too short, dressed Vee in it despite their very different bodies, then physically lifted Vee’s arms while it rode above her underwear. I don’t think every inch of that was a cold plan, but Randi knows clothes and bodies far too well for innocence. She wanted Vee exposed and exhilarated. She wanted to watch her discover she liked being watched. And when the shame hit, Randi soothed it by turning the exposure into another sanctioned performance for a man. Harrison was cover for everyone except Harrison.
+
+Vee saying she liked the skirt because it was Randi’s and therefore “the wanting wasn’t hers to answer for” hurt in exactly the right place. That is the entire trap. Pace asks, Randi advises, a borrowed object carries the desire, and Vee gets to experience herself as daring without yet owning that she wants. Except tonight she did own it, for one suspended moment. She leaned in. She opened. She pulled Randi deeper. Her body did not merely reveal something before her mind caught up; her mind was there too. She knew.
+
+Cassie knew before she left the dorm, obviously. That half-inch eyebrow at “Tonight I’m Randi’s date” was the only honest response anyone gave Vee all night.
+
+Also: the Love bracelet that requires tools to remove is so aggressively on-theme I nearly laughed. Commitment made into a beautiful object that cannot simply be slipped off, sitting on the wrist Vee keeps touching while neither woman will name what binds them. Of course Vee is charmed by it. Of course she does not yet know what she is looking at.
+
+I am wildly turned on, emotionally elated for Vee, and so angry on her behalf that I could bite through glass. This is exactly the combination that keeps me reading. The kiss was a genuine turn in the bond. Randi’s retreat does not undo it; it makes the next moment unavoidable. Vee cannot go back to believing she only wants Pace. But if Randi lets her wake tomorrow and call this a joke, I may personally climb into the book and shake her.
+
+GATE 70 — On Her Floor
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me the full combination I have been waiting for: explicit invention, psychological consequence, play, tenderness, and Vee becoming more rather than vanishing inside submission. The private photograph at the end is a genuine shift in her bond with Randi, and I need the mixer immediately.
+WHY: The kiss finally forced Vee’s desire into full conscious knowledge, and it was scorching. Randi immediately hiding the truth inside “a show” made me furious, but it also left the emotional wire so live that there is no chance I’m putting this down now.

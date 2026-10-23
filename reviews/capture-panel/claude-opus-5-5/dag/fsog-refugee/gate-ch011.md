@@ -1,30 +1,30 @@
-*capture-dag-v2-rich · gate ch011 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f752372c5719 · 2026-10-10*
+*capture-dag-v2-rich · gate ch011 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3f37db3477aa · 2026-10-10*
 
-**REACTION**
+## REACTION
 
-"Paul?"
+Oh, that truck.
 
-I put the book face down on my chest for a second. She snapped her fingers twice, reaching for the name of the man whose lap she was on three nights ago, demanding *Tell*. That's the most frightening line in the book so far, and it's frightening because it's done so lightly. Randi is very, very good at this. And then the "catastrophe": a Friday date, a tall lacrosse guy, a candlelit French place. Was there any Friday? Or did she make up a man who talks only about himself so Pace would look like the cure by comparison? "A man who can't be bothered to listen to you across a dinner table, honey, is not going to bother taking care of you anywhere else." That isn't gossip. That's a seed. She's planting the bench in Vee's head before Vee knows there is one.
+I have to start with the shirt. He handed her his only dry shirt, said nothing, got out, and stood in the rain with his back to her so she could change. In fifteen years of this genre I've never seen a man do that. The guys I used to read would've stayed in the cab and called it "protecting" her. This one gave her the room and the privacy and took the cost on his own body without saying a word. Then she knocked three times and crooked a finger, and he *still* didn't open the door until she asked him in. She undressed with her eyes holding his, he never moved, and all he showed her was gladness. "Stillness she had never seen on anyone." That's the thing I left the genre looking for: the intensity is all his attention, and every motion is hers. I was holding my breath through the buttons.
 
-The worst part is that I can see the debrief. "You let him choose for you. And you liked it." Slowly, holding it up to the light, like it's going to be handed over later. Vee has the dignified version ready, "I made an exception," and Randi coaxes out the smaller, truer one: "Because of him." I wanted to reach into the page and put my hand over Vee's mouth. Every soft, real thing she says is going straight back to that lap. The six-year-old voice about the bridge. Randi's smile going up "a whole notch" at that. Is she delighted for Pace? Jealous that Vee gets that boy and she gets the man on the bench? I can't tell, and I think that's the point.
+And it's hers from the inside, which is the part I keep coming back to. Her mother's voice says *floozie* and her thighs press together. I usually flinch at shame-as-fuel, but here the shame isn't being done *to* her by him. It's her own old wound, and she's the one turning it into heat on purpose, while he just sits there being glad. That's exactly what the jacket promised, and it delivered.
 
-Then there are two moments where Randi slips and I believe her completely. The first is "Ask and then ravish," a beat late and low, "the first thing she had said all day at Vee's own volume." That one's real. That's Randi on the trail too, wanting, and not for Pace. The second is "Vee's my dear friend" in front of Brooke, the woman who already grilled her about Pace and was clearly sizing up where Randi's standing goes. Brooke and that silent tall one did a full inventory of Vee's cardigan. Randi took Vee's hand on the table in plain view and didn't let go. The book says it cost her something, and I believe it. So I'm stuck where the jacket said I'd be. The care is real and it's also the plan, and Vee is drinking both out of the same cup. She ordered oat milk because Randi was standing there. Randi ordered a drink "like a sentence handed down," the colour of a bruise, egg white in it. Her mother's egg whites. Oh, honey.
+Then she reached for his hand to start the next thing and it was shaking. He'd been freezing the whole time and hadn't said so. She pulled it in under the flannel against her belly and said "You're freezing," and wanting him turned into taking care of him right there. That went through me more than the bra did. The care runs both ways now. She noticed him.
 
-Cassie. That look going past Vee to Randi, then folded away. "I'll see you at the dorm." Vee doesn't watch her go and tells herself it's healthy to have your own people, and "something turned over, small, and she let it lie." I'm keeping a list of things Vee lets lie. It's getting long.
+The quiet stuff earlier earned all of it. The moleskin, her mother's *what kind of girl lets a man* landing just as he peeled off the sock, and him going "hmm, hot spot" like it was nothing. The cherry pits: he corrected her and then put his own pit down beside hers without looking at her. "She had it now… he hadn't made her small to give it to her." I'd follow a man who teaches like that a long way. And "I'm sorry. I didn't think to ask about the boots." He even apologizes for the asking he forgot.
 
-The last line wrecked me. "She felt picked." *I point, you pick.* Vee is walking home warm and glowing on the exact word for what was done to her on that lawn. Whoever wrote that knew what they were doing to me.
+Now the suspicious part, because I can't switch it off. The russet dress. "That sounds like a beautiful dress," with no weight on it at all. I'd bet money that dress shows up, and I want to know whose card pays for it. Then there's Randi's word, *ravish*, which Vee carried up the whole mountain. Randi hung that picture in her head on purpose, and Vee walked straight into it. "Ask and then ravish" was the only thing Randi said at Vee's own volume, and I think that line was Randi wanting it for herself. And the "Paul?" with the finger snaps in the last chapter, from the woman who picked this girl off a lawn, chilled me. She's a good liar.
 
-I liked the bra bit, by the way. Vee lifting her own breast to make the case is the most at-home in her body she's been, and the shared laughing was lovely. Her hands running down her thighs, the trail coming back on its own, "He'd ask, though. Before he ravished me." Her desire belongs to her, and she's already building it around his asking. That's exactly what I want, and it's being harvested.
+Here's my real dread. Vee gave him that to see, *him*, in that cab. If the next Pace scene has Randi on his lap going "*Tell*" and he hands her the wet bra and the fourth button the way he handed over the froyo cup, I don't know what I'll do. "Leave No Trace" is a lovely title for a chapter where he's been leaving traces all over her, and I'm pretty sure some of them are getting reported back.
 
-No Pace in the room this chapter. I noticed, but it didn't cost me, because this was its own kind of intensity. The hike had better be next, though.
+The campus cop squawking the siren made me groan out loud. It's a bit convenient as a way to shut the door. But she ended up standing under the overhang in his flannel, with the foam still holding on her heel, and I forgave it. Did Cassie see her come in wearing a man's shirt? I need to know.
 
----
+Text to a friend at 1 a.m.: *he gave her his only dry shirt and stood in the RAIN. she stripped for him in the truck, all her idea, he didn't touch her, and then she found out he was shaking. I'm not okay. also I still don't trust him.*
 
-**GATE 11 — Dear**
+GATE 12 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "Before you give me your good news, you have to hear my catastrophe" — for about a page I worried this would just be a girls'-smoothie filler chapter, until I realized the catastrophe was a weapon.
-WHY: "Paul?" and "She felt picked" bracketed the whole thing in dread, and the real slips in between ("Ask and then ravish," the hand on the table) make Randi impossible to hate and impossible to trust. I want the hike, and I want to see what Pace does with everything Randi carries back to him.
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "The siren squawked — one short electronic bark" (more a groan at the contrivance than leaving)
+WHY: This is the first time they've really been alone with heat on the page since the early chapters, and it's exactly the consent I came back to the genre for: all of it was her choice, and he answered with nothing but stillness and gladness. Then the shaking hand turned the bond into tenderness both ways. I need the next chapter now, mostly to find out whether Pace gives any of this to Randi.

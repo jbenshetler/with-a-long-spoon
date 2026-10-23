@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch062 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · 2026-10-07*
+*capture-dag-v2-rich · gate ch062 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · 2026-10-07*
 
-REACTION:
+REACTION — Okay. There it is. Sixty-four chapters of knowing — from the jacket, from the blanket, from chapter 43, from every brunch — and *knowing* is a completely different animal from standing in the bedroom while it happens. I put the book down for a second after the first page. Not because I wanted to stop. Because I needed to register that Helen Rivers just did the thing she's been promising since the blurb: she didn't show me the con, she showed me the marriage. Randi and Pace aren't two schemers running a girl. They're a *couple*. A long, practiced, wet, laughing, years-deep couple who happen to have decided together on a third — and the horror of it and the tenderness of it are completely inseparable, exactly like everything else in this book.
 
-I need a minute.
+The sex itself is hot — it's the most explicit chapter yet, full heat, no euphemism, and I'm not going to pretend I read it clinically. The "showing off" exchange, the cleanup scene with the theatrical lip-lick, "I value your professional opinion" — that's two people who've been in this bed for years and it shows in every rhythm. Randi talking herself to orgasm *through Vee* — "her breast in my hand, all that softness" — while he holds the tempo steady, is genuinely one of the hottest things this book has done, because it's not technique, it's confessional. She's not performing desire for him. She's testifying. And he asks "Where?" like a man taking minutes.
 
-That wasn't a sex scene, that was a thesis chapter disguised as one — the whole taste question, the thing she keeps folding smaller and handing across white cloths, finally catching up to her alone in a shut room, and she still couldn't close the last breath's width. Fingers at her mouth, tongue behind her teeth, lungs *hurting* — and she stops. Not from the installed "gross." From something she can't name yet, and the book didn't name it for her, and that restraint is why I'm still sitting here with my heart going.
+But here's what actually wrecked me, and it's not the sex: **"You know she loves you, right?" / "She hasn't said it."** He's been starving for the word from Vee for sixty chapters — the whole Daphne wound, Sheri's "so say it," the porch where he chose the smaller truth — and the *one person on earth who could pay him in that exact currency just did, and he can't answer it.* "She's not the only one in love." He couldn't tell her she was wrong. Randi said it flat, no rescue offered, and his FACE softened before he could manage it, and she SAW. Twenty chapters of me tracking whether Randi's love is real, and she just said it out loud in the one room where she thought it was safe — mid-act, to the man who shares the girl. And "I want her to know exactly what she does to me" — that's not the con. That's a woman drowning. The flinch, the "nearly turned around," "she does it on purpose. She knows exactly when I'm about to ask for more" — WAIT. *Ask for more.* Vee read that flinch as tickles. Randi reads it as Vee *already knowing*. They're both wrong about each other's knowledge and the gap between those two readings is going to be the whole rest of this book and I'm going to lose sleep.
 
-What got me was the middle — her examining her own wetness, the strands between her fingers, "the shameful plenty of her made visible," and the realization arriving that the problem was never the taste, it's the *amount of her*. The old verdict was about excess. Her whole shame architecture is about being too much — too hungry, too wet, too loud on a county road — and Pace's untroubled glad face is the counter-verdict and she can't ingest it. Literally. The scene is her trying to swallow her own permission and choking at the rim. And the MOOD of it — hothouse, winter, the flannel, "her mess, hers to lie in" — God. She settles her hip over the damp patch like a penance and a claim at the same time.
+And "She kisses me first now" / "She looks at you, too." — they're running *surveillance on each other's girl* while she runs her own filings. Three people, three files, nobody's read anyone's but their own.
 
-The Randi intrusive thread is doing triple duty: "It was powerful. It turned me on" replaying, the wondering whether Randi meant a mouth or her own fingers — that question is going to detonate later and we all know it. And "Hungry out loud" curdling into "Greedy" in the dark. One word, retracted and re-installed in the space of a chapter. Also: cashmere flashing through the flannel fantasy for two lines. THE BLANKET again. Helen, you keep putting that thing in her mouth's neighborhood and walking away.
+The thing I keep circling: "They share an interest." Last chapter I took it as sweet — her, the common thread. He was saying it knowing what I now know he knows. That line is *contaminated retroactively*, and I mean that as a compliment.
 
-And the frame — she closes Cassie's window at the start (choosing heat, choosing the sealed room, choosing herself) and has to wrench it open at the end to air out the evidence before Cassie comes home. She's still managing the room. She's still curating. The window is the whole book in a sash.
+What keeps me honest: none of this is new information, plot-wise. The jacket told me in September. Chapter 43 told me. The blanket told me. So the chapter's not a twist — it's the book finally letting me *watch the machinery warm*. That's a choice, and it's the right one, because now every scene in the next fifty chapters has this bed under it. Every "girlfriend being good to her friends," every parking-lot kiss, every brunch. And the cruelest detail in the whole chapter might be the title. *My pleasure.* Two words, and I can hear it in both their mouths and neither of them is talking about tonight.
 
-I noticed this is a quiet chapter after a quiet chapter — booth last, solo this — and I don't care, because this is the interiority I'm starving for. Nobody's writing this in the hockey books.
+The chapter I read just before this — Vee alone in the flannel, fingers a breath from her mouth, *her mouth was still empty* — and now THIS, on the other side of town, two people who know exactly what she's not telling herself. The dramatic irony has gone from a hum to a foghorn and I'm feral about it.
 
-GATE 63 — The Reach
+GATE 64 — My Pleasure
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: The taste thread finally paid off in the exact register I read for — explicit, patient, and psychologically exact, her shame about her own plenty dramatized in a breath's width of stopped tongue. I need to see whether the reach ever closes, and Tuesday's dinner is standing right there.
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none — though "Look at you, using me like your fuck doll" jolted me out for a half-second; it's not my register, but it *is* hers, exactly in character, and the chapter re-earned it within a line.
+WHY: This is the payoff the whole volume has been scaffolding — the conspirators as lovers, the word unsaid in BOTH beds now — and it landed with full heat and full tenderness at the same time, which is the only thing I've ever asked of a book. I would read the next chapter at four in the morning, and I have.
+
+NEXT is honestly understated by the scale — this chapter detonated the last sixty chapters of dramatic irony and I need to see Vee walk into the next room more than I need sleep.

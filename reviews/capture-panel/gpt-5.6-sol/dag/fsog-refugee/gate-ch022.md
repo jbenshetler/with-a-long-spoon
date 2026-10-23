@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6a8d1d1bf63a · 2026-10-01*
+*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0894d4db7f65 · 2026-09-27*
 
 REACTION
 
-Oh, Randi. She is starving right in front of him, and he puts her portion in the little bowl.
+Oh, this got me. The dress got me before the sex ever had a chance.
 
-That hurt almost immediately. Not because Pace cooked for her—of course he cooked, of course he remembered the music and poured the wine and made bread—but because every loving thing in that room already belonged to a pattern she can feel herself being displaced from. Her bowl is the small one. Vee gets the weekends. Vee gets his patience stretched luxuriously across however long she needs. Randi gets fed the portion he has decided fits her, and then she cannot make herself swallow it. The salad was awful in exactly the right way: she will eat the light, controlled thing and leave the warm, rich thing untouched while accusing him of selfishness because she cannot say, *I am terrified you have all the time in the world for her and none left for me.*
+He made her something that fits the actual shape of her—not some corrected, minimized version of her—and then stood back so she could discover herself in it privately. That is so exactly the tenderness I want from him. He knew it would be worn bare, lined the places it needed lining, built the pedestal, hung the mirror, and hid every trace of effort except the beautiful result. And when she cried, he simply said yes. He didn’t joke it away or make her gratitude take care of him. I could have stayed inside that moment for pages.
 
-And then Pace says the sentence I most need him to believe: “She chooses it, Randi. Every step of it. Or it isn’t anything.” Yes. Yes, absolutely. That is why I love him. It is also infuriating, because Vee has not been allowed to choose the plan. He is fiercely protecting her freedom inside a destination he and Randi selected for her before she knew there was a road. He means what he says, and the contradiction is now so sharp I can barely stand it. Randi is wrong to demand that he hurry Vee toward “us,” but she is not wrong that his patience is easier for him than it is for her. He already has both women coming to his house. He gets to feel principled while Randi waits outside the tenderness he is building.
+Then she sees herself and stays. That mattered even more than Pace seeing her. Her mother’s word still comes, but Vee doesn’t obey it. She looks at a dress that refuses to apologize for her body and understands that the wrong shoes would be the apology—not her hips, her chest, the slit, or the amount of woman she is. I actually felt proud of her when she took off her underwear, because nobody instructed her to. She wanted the line clean. She wanted to show herself. She walked out to him with the slit opening because she had decided what being looked at would mean.
 
-The sex upset me. Not because Randi took charge—I would ordinarily be wildly into her putting him on the bed and taking what she wanted—but because she removed every familiar point of contact between them. No pause. No eyes. No “tell me.” Pace realizes it is not for him and “gives it to her anyway,” which is consent of a kind, but it does not feel intimate or even deliciously ruthless. It feels like she used both their bodies to say something she still refuses to put into words. I felt his bewilderment, but I was also angry at him for arranging all the evidence and naming it merely want with an edge. This man can detect the instant Vee closes her eyes in shame, yet Randi closes hers through the whole act, turns her back afterward, and he still cannot find jealousy, fear, or grief.
+And good Lord, the hello. That tiny questioning kiss becoming a real one, then Pace breaking away because he is too excited to show her what he made—that is the combination I keep coming to these books hoping for. He wants her badly, but his delight in her is not only sexual. The dress is proof that he has been holding her particular body in his mind with care.
 
-The bowl in the refrigerator nearly finished me. He is so tender and so completely missing her. He saves the food because that is how he knows to care, while the thing she needs saved is her place with him. And she is behaving terribly—pressuring him to move Vee faster, treating Vee’s readiness like an inconvenience, taking her jealousy out through sex instead of telling the truth—but I cannot stop aching for her. She wants “us,” but what she means tonight is *prove there will still be a me when you have her.*
+The sex was scorching because Vee drove it. She came out of that room and took his face, his body, his belt, and then him. She is not a vessel here; she is delighted by her own effect on him. The ridiculous scramble to save the silk made it hotter, not less hot, because they suddenly felt like two actual people overcome together. “There’s a lot of you covered in a lot of me” would absolutely be the line I texted a friend at one in the morning, followed by several incoherent capital letters. And him carefully “inspecting” her fingers before putting them in his mouth—filthy, controlled, playful, completely focused on her. Yes. That.
 
-I would text a friend: Randi refused the stew, rage-rode him without once asking for details about Vee, and he refrigerated her untouched little bowl because he still thinks she is hungry for food. I am unwell.
+I did catch on “past any asking” and “nothing left for either of them to decide,” because those phrases can be dangerous shortcuts in exactly this genre. But I didn’t feel her choice disappear here. She made it unmistakably, repeatedly, from inside her own desire, and when she actually said “Wait,” he stopped the action and dealt with what she meant. The wording gave me a flicker; the scene itself did not feel coercive.
 
-GATE 23 — Portion
+The ending softened me all over again. Her imagining the induction wasn’t merely fantasizing about being beautiful. She imagined being visible without paying for it in shame. Pace’s sleeping arm coming around her was almost unfair after all that heat. I am very happy for her, and that makes me even more frightened of the secret. He has now made her a garment that feels like recognition, and she is imagining entering the world in it as the truest version of herself. When she learns what he and Randi concealed, the dress may feel like evidence that she was studied before she knew she was being seen.
+
+Also: Randi’s untouched bowl from the last chapter is still sitting cold in my mind while Vee lies here warm and claimed. Pace thinks patience makes the plan ethical because Vee chooses every step. He is right about every immediate choice and still profoundly wrong about the frame. This chapter made me fall harder for him and raised the eventual cost at exactly the same time.
+
+GATE 24 — Peekaboo
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 1
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: “He knew that much and not the rest, and he gave it to her anyway.”
-WHY: The sex had almost no erotic pleasure for me because it was severance disguised as intensity, but the emotional pain was ferocious. I need someone—preferably Randi—to finally say what she is actually afraid of before Pace’s beautiful patience becomes another way of not seeing her.
+ALMOST-STOPPED: none
+WHY: The dress, her choosing to remove the underwear, his helpless delight, and the playful scramble together gave me tenderness, dominance, female agency, and real heat all at once. I need the induction now—and I’m increasingly desperate for the truth to come out before Pace and Randi build one more beautiful thing on top of the lie.

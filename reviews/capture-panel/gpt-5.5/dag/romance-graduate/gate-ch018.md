@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch018 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha bca2ed17019a · 2026-09-29*
+*capture-dag-v2-rich · gate ch018 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6c8bd3bde2d5 · 2026-10-01*
 
 REACTION —
 
-Oh, I loved this one. I loved it in that breath-after way, where the heat of the last chapter comes home and becomes speakable because Cassie is there to receive it. This is exactly why I don’t resent quiet chapters when they’re doing emotional work: Vee telling Cassie is not a recap, it’s her trying to understand what just happened to her by watching Cassie hear it.
+Oh, this one got under my skin in a different way. Not less hot than the Pace dress chapter, but nastier around the edges. More socially dangerous. I was practically glowing at the beginning because Randi in the Mercedes, soft-smiling at Vee, picking her up like a secret date, is exactly the kind of glamour that would have ruined me at twenty-one. The car, the restaurant, the velvet booth, the way Vee feels herself become someone just by being seen in Randi’s orbit — yes. I felt all of that. I also felt my stomach tighten because this is the trap at its prettiest.
 
-And Cassie, god, I needed her. I needed someone in the room who loves Vee without appetite, without agenda, without turning her into a project. The way she clocks the shirt instantly, the way she lets Vee pivot away and then gently brings her back, the way she can joke about “not getting any” and still go utterly soft when Vee says his eyes asked “May I look.” She’s the ballast. She makes the whole book feel less like Vee is being swallowed by Pace and Randi’s gravity, because there is still one person who sees her from before.
+Randi is so good. Too good. The way she starts with her own story, the scarf, the headboard, the helplessness, and makes it funny and sexy and “just girls talking,” but what she’s really doing is laying track. She gives Vee a vocabulary for surrender right before asking about Pace. And Vee, sweet hungry Vee, walks right onto it because she thinks being understood means being safe. I hate how much I enjoyed it. I hate how expertly Randi knew where to press.
 
-Also: this chapter made Pace hotter retroactively, which feels unfair but true. The turned-up heat. The riser. The silk. The no-tag shirt. The idea that this man has been quietly building conditions around her comfort before she even knew what the conditions were for. I am still not forgetting the hidden plan, don’t worry, my little red flag drawer is fully organized. But emotionally? I get why Vee is gone. I would be gone. A man who makes you a dress from something you thought you couldn’t have, and heats the house so your body doesn’t have to apologize? That is weaponized tenderness.
+The lunch conversation was the first time I felt Randi’s manipulation as almost intimate violence. Not dramatic, not villain-cackling, but worse: she keeps opening doors inside Vee and then choosing which ones Vee is allowed through. When Vee is almost about to say the truly private thing — the soaked satin, the humiliation, the being found out and not shamed — Randi stops her. “You don’t have to tell me.” On paper that is kindness. In my body it landed like control. She brought Vee right to the edge, proved she could get her there, and then withheld the release. That silence after was awful. Vee’s secret was half out of her and Randi just changed the lighting.
 
-And then the chapter lets her be funny and horny and alive about it. The “I was on a box” refrain killed me. The gay question was such a believable friend-check, and Vee’s delighted confession that *she* was the one grinding on *him* made me grin like an idiot. That mattered, actually. It keeps her from being only acted upon. She’s bashful, overwhelmed, ashamed, adored, yes — but she’s also wicked. She is starting to enjoy having power. Not polished power, not Randi power. Vee power: messy, embodied, laughing into a pillow because she just found out she can make a careful man blush.
+And then the kiss. Of course the kiss. Of course Vee explains it away before she can even feel it properly. A French thing, a glamour thing, a women-like-her thing. Girl, no. That was a mouth kiss with a second pass. That was Randi spending exactly enough to mark her and not enough to be accountable for it. I felt Vee’s panic afterward almost more than the kiss itself — the sudden checking of windows, the fear of being seen. That is such a true little knife: she wants to be looked at with Pace, wants it desperately, but with Randi the looking becomes exposure of a different kind. Not body shame exactly. Want shame.
 
-My worry is still sitting right under the warmth. Randi is absent here, and her absence has shape. This is becoming very real between Vee and Pace in a way that feels impossible to fold neatly back into “the game.” Cassie’s room feels safe, but it also reminds me that Vee is narrating the version where everything is chosen and luminous. She still doesn’t know the frame. The more tenderness the book earns, the worse that eventual knowledge is going to hurt.
+I’m still completely captured, but I’m also more wary than I’ve been. Pace’s danger has this formal structure: consent, patience, the hidden plan beneath. Randi’s danger is social and emotional and fragrant and smiling. She can make Vee feel chosen and then leave her alone on the curb touching her mouth, doing Randi’s cleanup work for her in her own head.
 
-But yes, I’m reading on. Obviously. The dress isn’t even finished yet.
-
-GATE 18 — Turned Up
+GATE 19 — How It's Done
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 9
 HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This was quieter than the fitting, but it deepened everything: Cassie’s care, Vee’s dawning confidence, and Pace’s impossible tenderness all landed hard. I’m worried in the best/worst way because the bond is getting so real while the lie around it is still sitting there, waiting.
+ROMANCE: 2
+ALMOST-STOPPED: "You don't have to tell me."
+WHY: That line made me angry in the good, hooked way: Randi pulled Vee open and then decided when the scene was over. The kiss pushed the chapter from charged lunch into real trouble, and now I badly need to see whether Vee tells herself the lie successfully or whether her body keeps the receipt.

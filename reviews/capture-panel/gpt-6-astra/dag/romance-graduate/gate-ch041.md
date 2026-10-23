@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch041 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 5794cafc164c · 2026-10-10*
+*capture-dag-v2-rich · gate ch041 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 499423a1f58c · 2026-10-10*
 
 REACTION
 
-Oh, Randi, I saw you hear “he wants me, with the body attached.” That was the moment I sat up. Something actually got through to her, and I wanted to stay right there with her face before she could put it back together. Is she aching to be wanted that way herself? Hearing what her boyfriend gives another woman? Wanting Vee? I can feel several awful, tender possibilities at once. Then she asks about the soundtrack, and I’m left outside again. I’m interested, but I’m getting impatient with how quickly she recovers.
+Oh. Randi. I wanted to see you lose your footing, and now you have, and I’m both moved and absolutely furious.
 
-The photograph business made me tense. “You don’t have to show me” briefly felt good; then “you only gave him half?” found exactly the little sore place that would make Vee produce the rest. And I’d just watched Vee ask him to keep that picture private. It’s hers to show, obviously, but I wanted this choice to feel as much hers as taking it did. Instead she’s proving she isn’t timid to a woman whose approval she needs desperately. Randi gets the naked photograph and Vee gets to feel brave. That exchange bothered me even while Randi looking longer than she needed to gave me a little shiver.
+The moment her name appeared, I went back to the opening. His warm house, the bag, the bathroom, the three times: I’d automatically put Vee there. Finding Randi in that familiar comfort made “He’s all mine” from chapter 41 hurt all over again. She belongs in this house too. He knows when she gets cold. There’s a whole practiced tenderness here that Vee has no idea exists.
 
-I did love Vee saying, “It was my idea.” Keep that pride. And “I used to be a person with thoughts” made me laugh because, yes, unfortunately, I know that condition. I wanted her to hear that wanting this much doesn’t make her defective. But Randi pronouncing on what Vee has been doing her *whole life* felt too sweeping, too certain. You do not get to know her better than she knows herself just because you can make her blush.
+And yes, this was hot. Enough that I’m annoyed about it. Randi losing her polished voice while trying to maintain that kissing Vee is a tiresome service she performs for her boyfriend—please. “Sounds grueling” got an actual laugh out of me. I liked seeing her hungry and ridiculous and unable to talk her way around herself. “God, I want her,” followed by that frightened little correction to “For us,” reached me much harder than another beautifully managed brunch ever could. She needs permission for her own wanting too. I hadn’t quite felt how much.
 
-For a stretch I was restless. I already believe the sex is wonderful, the food is wonderful, the quiet is wonderful. I was there yesterday. Hearing it all presented to Randi again made me start waiting for Randi’s reaction instead of listening to Vee. And “I’d confess anything” hurt. He has cultivated a place where she can tell him everything while withholding the one thing that would change her understanding of every weekend. I’m running out of patience for that, even when I still want his hands.
+But “She consents — every time — or I’m done” made me want to interrupt him out loud. Peter. What does she think she’s consenting to? You know perfectly well she doesn’t have the whole story. I do care that he presses past Randi’s evasions about the kisses. Her saying Vee would be sad without them is a horrible substitute for answering whether she wants them, and I was glad he wouldn’t accept it. Then I remembered whose arms Randi was in, and who still hasn’t told Vee about those arms. His insistence makes his own silence harder to bear.
 
-But Vee taking that extra second of the kiss—yes. That reached me. She notices herself doing it, decides she wants it, and keeps it. For once I didn’t have to watch her immediately explain her own desire away. I wanted Randi’s composure to slip more visibly afterward. “Just us” and that close look suggest she isn’t nearly as untroubled as she acts, and I want the trouble.
+The campus conversation chilled me more than I expected. They were choosing her before she even knew there was a choice being made. I can believe everything that followed became emotionally real; I’m watching it become real for Randi right here. It still makes me feel fiercely protective of the girl laughing outside those doors. And Randi counting to four? Ouch. Now I’m thinking about Vee happily trusting her with intimate details while Randi quietly keeps score. “She told me first” was already enough to make my stomach tighten.
 
-I’m leaving this chapter more hungry for an honest conversation than another spectacular evening at the house. The kiss moved something. Please let it stay moved.
+The ending did get me. Pulling his arm tighter, asking him to say something nice, admitting that being seen frightens her—that woman feels lonely in a way the brunch woman never allows herself to look. I wanted him to hold her. I also wanted somebody in that room to remember that Vee deserves the care they’re asking for themselves. His final satisfaction left me uneasy: he takes her holding on as a compliment, and I’m sitting here wondering what else she couldn’t say.
 
-GATE 42 — All the Time
+I’m properly awake again. I needed something that changed how I felt about these people, and this did. But now I need all this wanting to reach Vee as information she can actually use.
+
+GATE 43 — Four
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: “And the *attention*,” Vee went on
-WHY: By then I felt I was hearing another account of happiness I already believed, while the secret stayed comfortably untouched. Randi’s shaken response and Vee choosing to prolong the kiss kept me, but I need those moments to lead somewhere they can’t simply smile their way out of.
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “She consents — every time — or I’m done.”
+WHY: I nearly bounced off the sheer gall of that sentence, but Randi coming undone kept me completely inside the scene. I want the next chapter urgently because these feelings have become messier and more believable—and Vee is still the person being denied the truth.

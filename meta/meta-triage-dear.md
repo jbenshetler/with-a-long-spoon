@@ -111,3 +111,19 @@ evidence.**
   the story is a curated cover performance; rounded edges in character.
 - **Vee's drink in hand, later "reached for" without a set-down** — ordinary
   ellipsis; the reach implies it.
+
+## Diptych merge — 2026-10-23
+
+Off Six-Fourteen is now the Saturday movement of Dear; original Dear is the Friday movement, six days later. Both prose movements preserved; only “Six days later” added at the Friday opening. Source authoring headers replaced by one combined header. Saturday’s agency claim and Friday’s reframing both remain; protected positives and existing style decisions stand. Historical standalone reviews remain untouched. Later reader gates are not renumbered pending assessment of the merged chapter.
+
+Authoring projection: entry slot off-six-fourteen, chapter 10, boundary 0, raw chapters 1–9. The former Dear slot would include the first movement as prior reading.
+
+### Merged-chapter assessment
+
+Four grounded subscription reads completed: claude-opus-4-8, claude-opus-5, claude-opus-5-5, gpt-5.6-sol. All four found the chapter engaging, with no duplicate-retelling complaint. Sol explicitly found the six-day transition clean; Opus 4.8 said the dorm/smoothie structure earns its length. All registered the agency/reframing contrast. Minor reservations: accumulated class markers (4.8, 5.5), eyebrows and “little minx” (5.5), explicit cost explanation (5). The cost passage remains protected by the earlier author ruling. No cuts made in response. No paid readers or capture gates run.
+
+Verification: both source prose movements compared exactly against pre-merge backups; only the Friday transition changes. Style: no errors, 12 ASK hits surfaced without fixes or new acknowledgements. Echo candidates: “a trail he goes to” and “six years old”; left standing. Ruling-anchor flags are ten historical cuts already recorded in the line-edit triage, not new merge losses. Orphan check found one historical Rye “file” candidate; merge removes no prose and creates no corresponding loss. Subscription fact audit found no contradictions. Later reviews and gates retain their existing numbering.
+
+### Reader-gate reconciliation — 2026-10-23
+
+Author authorized renumbering after reviewing the merged chapter. Ran renumber_gates.py --merged 10 11 --keep-aligned, dry run then apply. Moved 1,138 later gates and retired 36 standalone source reads intact under read-merged-dear-ch010.md / ch011.md. No merged capture read exists, so the chapter-10 gap remains in those lanes. Verification: 1,303 active gates, 1,258 title matches, 45 legacy untitled gates, zero mismatches. All 1,339 original gate files verified against the pre-renumber backup: only the first provenance header changes on moved gates; reader-written text is untouched. Checkpoints and slug-keyed cold reads remain unchanged. This reconciliation supersedes the earlier temporary instruction to retain gate numbering.

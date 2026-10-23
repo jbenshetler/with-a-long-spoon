@@ -1,18 +1,20 @@
-*capture-dag-v2-rich · gate ch065 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha fc6ed94829c1 · 2026-10-21*
+*capture-dag-v2-rich · gate ch065 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 8ea15c426f18 · 2026-10-21*
 
 REACTION
 
-God, my chest hurts. This is the exact kind of quiet chapter that makes me want to throw my Kindle across the room because it’s so well done. In a normal romance novel, the "tortured hero's lonely backstory" is delivered in a melodramatic monologue while it's raining, and the heroine cries and fixes him with her love. Here, Pace just lays out the math of his life while leaning against the kitchen counter, while cinnamon raisin bread cools on a rack, and says *It isn't tragic. It's just a door that didn't open, and then you're grown.*
+Oh, that beat across the tablecloth where Randi's thumb goes completely still on Vee's hand. My stomach actually dropped.
 
-And Vee's interiority—the way she puts all the pieces together without him having to spell it out! That she remembers the exact cadence of him saying *less than staying* months ago, puts it next to Sheri saying *he hasn't been home since he was sixteen*, and suddenly understands *why* he graduated four years early—because he stayed through every summer and every empty campus Thanksgiving so he wouldn't have to go back to a house that wasn't safe. And the realization about Daphne! That Vee is mature enough to hold both truths in her head at once: the ugly grown-up word for what an older woman did with a fifteen-year-old boy, *and* the fact that to Pace, Daphne was the only person in the world he had, doing the job of four friends at once until she left him with nobody to even tell that she was gone.
+Because on Sunday morning, over eggs with Pace, Vee admitted to him and to herself with a big, delighted laugh: *"I liked it, honestly. Best thing that's happened to my legs in a Virginia January."* She *did* like a woman looking at her with pure sexual appreciation. And Randi clocks it instantly—"And you liked it"—not with her usual bawdy teasing, not with the "gorgeous" armor, just flat and quiet, testing the water and feeling a sudden flash of jealousy that another woman looked at Vee like that. And Vee panics! Because suddenly the question is Coming From Inside The House, from the woman whose eyes she literally came to in the restaurant bathroom stall a week ago, and Vee blurts out, *"No. No. Not my thing."*
 
-Also, can we talk about Vee copying Sheri's hug at the end? Not saying "I'm sorry" because she knows he'd hate being pitied, just walking around the counter and giving him that full-weight, eyes-shut, committed hug Sheri gave him in the taproom. And him not magically melting into tears, just holding her and looking out the window, thinking, letting neither of them be fixed. It's so grown-up. It makes the heat in the rest of the book hit ten times harder because these people feel completely real.
+God, that broke my heart for Randi, even while Vee is sitting there doing her adorably oblivious straight-girl math (*aw, she thinks Sheri is still a threat to Pace!*), and Randi just says *"I know she isn't, gorgeous"* with five different layers of meaning underneath it. You can feel how much it costs Randi to take that *"Not my thing"* on the chin and just keep stroking Vee's knuckles.
 
-GATE 66 — Hangover
+And THEN—the waxing! Wait. Hold on. First of all, why didn't we see Pace ask her for that on Sunday? Now I want to know how that conversation went down! Second, look at Randi's eyes going somewhere over Vee's shoulder and coming back "with the whole week arranged in them." *Call in the morning, not the afternoon, and say my name in the first sentence.* What is she arranging?! Are Pace and Randi coordinating this? Is Randi going to show up at Sondra's, or is this setting up something for Friday night? And that goodbye kiss on the sidewalk—Vee tilting her face up with her eyes already closed, waiting for Randi's hand on her jaw, the kiss staying longer, Vee's mouth going straight to Randi's neck without either of them pretending it's an accident anymore right after she claimed women "weren't her thing." The hypocrisy of desire here is so real and so delicious. I need Friday immediately.
+
+GATE 67 — Between
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
-HEAT: 0
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Zero heat, and it's a 9 for me anyway because the emotional intelligence and character work here are off the charts. Watching Vee quietly assemble the reality of Pace's lonely adolescence—and choose to hold him the way Sheri does rather than make him comfort her for feeling sad about it—is a massive romantic turn.
+WHY: The micro-beat where Randi's thumb stops moving and Vee reflexively lies ("Not my thing") before turning her face up for Randi's kiss on the sidewalk is top-tier emotional tension, and the sudden drop of Pace asking Vee to get waxed bare—plus Randi's scheming look when she tells her to book Sondra on Friday—has me turning the page immediately.

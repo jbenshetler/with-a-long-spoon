@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch016 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 414026fd7d01 · 2026-10-10*
+*capture-dag-v2-rich · gate ch016 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-10*
 
 REACTION
 
-He *sews*. I actually put the book down for a second. The man lifts, does advanced mathematics, cooks, makes furniture, earns patent money helping frightened children get through MRIs faster, and now he can make her a silk gown. Pace, please leave one skill for the rest of the dating pool. I’m attracted, but I’m starting to feel the effort going into making him impossible to refuse.
+Oh, the “pre-aroused” joke. There she is. Half-naked, terrified, and still able to make this man lose his train of thought. That did more for me than another demonstration of his infinite preparedness could have. And then she makes him blush. I have been waiting for her to discover that she can actually get to him, that she isn’t just standing there receiving his astonishing competence.
 
-The closed bedroom door got me more than most of that tour. She came in wearing underwear she wanted him to see, and he turned her away without knowing—or without showing he knew. That little drop in her stomach felt horribly familiar. And yes, him stopping the kiss while still visibly wanting her worked on me. I wanted her to get another chance to unsettle him. I liked him better explaining the codes, when I could actually hear his enthusiasm, than I did collecting another qualification for perfect boyfriend.
+This was hot. The stepping away to write the numbers down was almost offensively effective on me. Having to stand there with all that sensation and wait for him to come back—yes. And the change from trying desperately to conceal her wanting to deliberately putting her breast against his cheek felt like something I’d been waiting a long time to watch her do. “Oops. Sorry.” Absolutely shameless little liar. I was delighted.
 
-Then the fabric appeared and I softened right along with her. Remembering something she’d already decided she couldn’t have, offering his actual time to make it: that reaches me. The missing tag in the shirt made me smile. But I also wanted to hold on to her first disappointment about the color for a second. She wanted a particular red. We get so quickly to him knowing what suits her better than she does, and with everything I know about these two, that doesn’t feel entirely comfortable.
+But I had a real hitch at “The bra too.” He told her she’d be measured in what she would wear underneath the dress. Now she’s already undressed and the requirement changes. I don’t know enough about sewing to decide what he needs, but I know what he told her, and I wanted a fresh question there. Especially with her thinking the room no longer permitted her not to know. The same goes for his hands on her ass before the silk gets there. I’m attracted to what’s happening and simultaneously thinking: you are getting quite a lot of mileage out of making a dress, sir.
 
-And now I’m thinking about the warm house, the shut bedroom, the room full of daylight. He has arranged an afternoon in which she can say yes to being undressed in front of him because she wants something beautiful. I want the measuring scene. Absolutely I do. I also want to know how much of this he has discussed with Randi. That’s the itch under all the sweetness: which pieces of this lovely afternoon belong to Vee, and which have already been enjoyed in anticipation by somebody else?
+And that early thought about him walking past Randi without looking. Ouch. Vee is using their lie as evidence that she’s desirable. That got right under my ribs. It makes his smile at the end more complicated, because I believe he’s delighted by her. I believe she feels something loosen that has hurt her for years. I also know she’s standing there crediting him with a choice he never made in the way she imagines.
 
-The last line made my thumb move, but I did have a small “you’re stopping *there*?” reaction. We’ve toured the house; she’s said yes; I’m ready to stay in the room while something happens. Please let me have her nervousness and her appetite and his hands next, without another round of friends hearing how extraordinary he is.
+The dread over the satin went on a little longer than I needed. I was already with her; after a while I wanted to reach into the room and interrupt the spiraling. And once she straightened up under his smile, I understood. The final explanations kept arriving after I’d already felt it. Let me keep the blush and the almost-laugh and her feet coming back down onto the wood.
 
-GATE 16 — Two Towels
+Still, I finished this wanting him to put the bloody pins down. Affectionately. Mostly. The dress matters, and his finishing it matters, but now I want to hear what she asks for when she no longer has to pretend any of this is incidental.
+
+GATE 17 — A Round
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 9
 NEXT: 9
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: “Which is *time* — somebody sick, somebody scared, a kid who can't lie still, they get the same picture and they're out of the tube in a fraction of it.”
-WHY: The admirable-man pileup briefly had me rolling my eyes, especially with sewing still to come. But a dress fitted to her body, in that warm bright room, with all this deception underneath the tenderness—I want to be there for that.
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Her making him blush gave me the mutual desire I’ve been hungry for, and the shame turning into deliberate teasing really landed. I’m very ready for her to ask for more—and increasingly uneasy about how much trust he’s receiving under false pretenses.

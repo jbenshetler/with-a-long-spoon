@@ -1,30 +1,28 @@
-*capture-dag-v2-rich · gate ch021 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 332b2e10547e · 2026-10-23*
+*capture-dag-v2-rich · gate ch021 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6a8d1d1bf63a · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh, god. My stomach is in knots. It is an absolute sick, thrilled, terrified knot.
+Oh, god. My stomach just completely dropped.
 
-Look at what this author is doing with Vee. The pure, shining afterglow of Chapter 20—driving home bare under her skirt, grinning at every red light, walking into the dorm smelling like cereal and cool autumn air—it is so sweet and earned. Vee realizing she gave her green satin away, having to pull her zipper back up in front of Cassie because she’s literally naked underneath, that is the most delicious "walk of shame" (except she feels zero shame!) I’ve ever read. And Cassie, bless her heart, tossing out that dry little "Was he worth painting your toenails?" while drinking brown cereal milk. Cassie is the anchor. She’s the safe harbor.
+I’m sitting here with my hand over my mouth. That conversation over the stew—that was the ugly, terrifying underbelly of this entire arrangement being dragged out into the harsh kitchen light. *"How do I get her from where she is to us, on your schedule?"*
 
-And then Vee walks straight into the spider’s web.
+*To us.*
 
-Randi at brunch. God, Randi is *evil* in the most breathtaking, deeply pathetic, intoxicating way. The manipulation is so quiet you can barely hear the gears turning, but they are grinding away. That story about running into an "old boyfriend" who was "in such a hurry"—she is talking about *Pace*, isn’t she?! She has to be talking about Pace in Chapter 14! Or she’s setting up this contrast just to extract every drop of intimacy out of Vee. And the way she interrogates her—not like a gossip, but like a predator savoring every detail of a meal someone else ate for her. *“You didn’t buy those hoping he’d be a gentleman. You bought them hoping he’d give you no reason to keep them on.”*
+There it is. The blurb told us from the beginning, but seeing Pace say it out loud, seeing him acknowledge that the endgame of all this tenderness and care is bringing Vee to *both* of them—it makes me want to throw up and it makes me want to read ten chapters in a row. It’s sickening because Vee is at home right now, floating on air, thinking she’s found the love of her life and the best friend of her life, and they are sitting at this table negotiating the timeline of her seduction like a project milestone.
 
-And Vee, poor, starved, beautiful Vee, thinks this is what having an older sister or an amazing best friend feels like. *“The friend she’d wanted at fifteen and stopped expecting to get.”* That line broke my damn heart. Vee thinks Randi is validating her, cheering for her appetite, freeing her from her mother’s voice. And Randi *is* doing that—while simultaneously getting high off the secondhand contact high of Pace, and grooming Vee into her own orbit!
+And Randi. Jesus, Randi. She is spiraling so fast she’s practically leaving skid marks. The cruelty dressed as politeness (*"It's wonderful"*), pouring her own wine because she can’t stand being served by him anymore, leaving the food he made her because she knows he just spent Friday night cooking for Vee in that exact same kitchen. She’s jealous. She’s so furiously, violently jealous of what Pace and Vee have, but she’s also furious that she’s being left out of it. *"You've got her Friday to Sunday... and you're in no hurry, and I can't think why you would be."* She feels sidelined. She pushed Vee into his arms thinking it would be a shared game, a proxy she could taste, and instead Pace has fallen into deep, unhurried devotion with this girl and left Randi standing out in the cold.
 
-When Randi’s voice started slipping—the esses running long, the liquid look in her eyes, Vee thinking *she's drunk* but she barely touched her mimosa—my breath caught. Randi is drunk on *her*. She is drunk on the arousal and the proximity and the possession.
+And then that sex. God, that was awful and brilliant and devastating. It was hollow, frantic, angry punishment. No *"tell me"*, no inch-by-inch savoring, her eyes slammed shut because she couldn't bear to look at him, using him like an object to silence whatever agony is screaming inside her head. And Pace just... took it. He let her use him because he knows, somewhere underneath all his courtly control, that he is deeply guilty.
 
-And then the curb. The first kiss in the convertible was a test. This second kiss—the light hand on the hinge of the jaw, the mouth soft, the drawing-back and the *second press*, and Vee meeting it? And not even checking the street this time?!
+He thinks he’s being noble by saying *"She chooses it, Randi. Every step of it. Or it isn't anything."* He really believes that! He genuinely thinks that because he doesn't force Vee's body, because he leaves the door wide open, her consent is pure. But you set up the maze, Pace! You and Randi built the walls of the maze, and just because she's walking through it on her own two feet doesn't mean she chose the destination.
 
-The trap is springing shut, and Vee is driving home with the radio up thinking she’s finally happy. I need Chapter 22 immediately. I feel like I'm watching someone dance on a trapdoor.
+The plate over the cold bowl in the fridge. That killed me. He still cares for Randi, he still tends to her, but he has no idea how deep the rot goes. The sheer psychological mess of these three people is intoxicating. I am terrified for Vee. I need the next chapter right now.
 
-***
-
-GATE 21 — Fed
+GATE 23 — Portion
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 HEAT: 1
-ROMANCE: 1
+ROMANCE: 0
 ALMOST-STOPPED: none
-WHY: The psychological tension is suffocating in the best way; watching Randi gently, ruthlessly weave herself into Vee's newfound sexual confidence makes me want to scream at the page and read fifty more chapters right now.
+WHY: The tension is coiled so tight it feels like a piano wire about to snap. Seeing the reality of the game laid bare between Pace and Randi while Vee is entirely in the dark is devastating, addictive, high-stakes drama.

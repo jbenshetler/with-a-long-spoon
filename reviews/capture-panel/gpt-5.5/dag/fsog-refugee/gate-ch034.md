@@ -1,30 +1,22 @@
-*capture-dag-v2-rich · gate ch034 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 13e407d9f33a · 2026-10-01*
+*capture-dag-v2-rich · gate ch034 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d4837de434ed · 2026-10-01*
 
-REACTION —
+REACTION — Oh. Oh, I loved this one.
 
-Oh. Oh, this one got me.
+This is exactly the kind of chapter that makes me forgive a lot, because it gives me the thing I came for: her choosing the exposure. Not being maneuvered into it in the moment, not surprised into helplessness, but having the idea, carrying the dress in the car like a secret, making him sit down, making him wait, deciding how much he gets to see and when. That matters so much to me. She is not being looked at because she has no escape; she is arranging the looking. She is directing him.
 
-This is exactly the thing I keep reading for and almost never get cleanly: dominance that has a hand on the door the whole time. The second she says “Don’t,” his hand is gone. Not sulking, not negotiating, not turning it into “but you want it.” Gone. And then the entire heat of the chapter comes from her realizing she wants it back and choosing to say so. I felt my whole body unclench at that, which is ridiculous because the scene itself is so charged, but that is the hinge for me. That is the difference between the books I left and the book I’m still in.
+And Pace, God. Him staying in the chair. That got me more than if he’d pounced. The way his restraint is not cold, not withholding, but visibly costing him something. That’s the control I want in these books. He wants her badly, and because he wants her badly he holds still when she tells him to. That is hotter to me than a hundred “I can’t help myself” scenes. The hand coming up and then being put away again. Yes. That’s the whole man, at his best.
 
-And God, Vee. She is so embarrassed by her own wanting, and I believe every inch of it. The wetness shame, the “too easy,” the awful exposure of her body having an answer before her mouth has a language. That could have gone somewhere mean so easily, and instead Pace looks at it like it is true and fine and hers. I almost got teary there, honestly. Not because it was soft exactly — it is very, very not soft — but because the care is holding the whole thing up. He doesn’t make her confess in some courtroom way. He gives her chances. He asks. He slows her down when she’s trying to rush past herself. “For me” absolutely did me in because she hears the ask inside the command, and so did I.
+The “two costumes” conceit could have been silly, but it isn’t, because Halloween is doing real work here. Everybody else is out being someone else, and Vee is in his house becoming more herself. The first costume is the public woman, the one the room saw, the dress doing what he made it to do. The second is almost unbearable because it’s not even really a costume. It’s the hidden truth of the first one, shown to the one person she wanted to know. And when he says the other is for the world and this is just for him, I felt that straight through me. Possessive, yes, but not ugly. Not taking. Receiving.
 
-The spanking itself was hotter than I expected because it wasn’t performance. Randi’s story made me nervous — counting, humiliation, the naughty-little-girl thing, that whole little theater — and Vee is bracing for that too. Then Pace does something quieter and more intimate and more dangerous, honestly, because it is tuned to her instead of to a script. He soothes after each one. Kisses after some. It’s not cruelty dressed up as dominance; it is attention sharpened into dominance. That is my drug. That is the thing.
+I also liked that Randi is present without being present: the shoes, the boutique, the way this finished woman was assembled partly through Randi’s hands. That makes me nervous in the old way, because Randi’s fingerprints are on so many of Vee’s brave moments. But in this chapter, Vee owns the action. She brings the dress. She keeps the heels on. She opens the door naked. Nobody has to push her across that hall. That does not erase the larger secret game, but it gives me something solid to stand on with her.
 
-I also loved the beginning, the silly clothes-stealing game, because Vee is so alive in it. Fast, bratty, flashing him like she can hardly believe she’s the woman doing it. I love seeing her become playful with her own power, not just awed by his. And I love that he flinches. Not in a bad way — in a human way. He isn’t only the wall. She can land on him. She can affect him. That matters to me more than I would have guessed.
+And honestly, the domestic beginning did me in almost as much as the naked walk. Him washing dishes, her watching his back, the chair he made holding her, the house quiet while town is full of costumes. It feels like a private life now. That is dangerous, because the more I believe in the warmth, the more furious I’m going to be when the hidden third game finally cracks open. But right now? I was inside that lamplight with her, holding my breath.
 
-The aftercare nearly finished me. Juice. Of all things, juice. That is so Pace it hurts: practical, unshowy, bodily care first. Then her head in his lap, hair stroked back, “wonderful” like he’s writing it into the record. I believe she falls asleep treasured. I believe it because the chapter earned it in touch after touch.
-
-And then the scrunchies. The abundance of them. No note, just “I expect you here enough to need these.” That is somehow more romantic than a speech. I am very vulnerable to the domestic claim that is also useful. He is not just making her hot; he is making room for her life to happen in his house. Dangerous to my judgment, frankly.
-
-But I’m still watching the machinery. “No Randi to be told” jumped out at me because yes, exactly, and also: will there be? The chapter gives Vee this private, sacred-feeling experience with him, and I am already tense about whether it becomes material for Randi. Because if Pace takes this particular thing — this new, raw, named-by-the-body-before-the-mouth thing — and lets Randi have it before Vee is ready, I will be angry. Not mildly. This felt like a trust scene. It has to stay trusted.
-
-Still, right now? I’m in. I’m badly in. This chapter gave me the heat I came for and the consent I have been starving for.
-
-GATE 35 — We Find Out
+GATE 36 — Made-Up
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 9
+CAPTURE: 9
+NEXT: 8
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "You enjoy this," he said. Not a question.
-WHY: For one second I was afraid the book was going to slide into him declaring her desire over her refusal, but then he stopped cold at “Don’t,” and that saved everything. After that, the chapter had me completely: her wanting, his restraint, the quiet aftercare, the scrunchies. I want the next chapter badly, though I am braced about whether this stays between them.
+ALMOST-STOPPED: none
+WHY: This was scorching because she staged her own unveiling and he honored the rules she set. The romance turned hard here too: his restraint, his answer, and the private “just for me” of it all made the heat feel particular to them, not generic. I still want the secret to come due, but this chapter bought my trust for the next stretch.

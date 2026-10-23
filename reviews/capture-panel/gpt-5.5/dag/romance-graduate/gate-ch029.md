@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch029 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f4bbb5872a6b · 2026-09-29*
+*capture-dag-v2-rich · gate ch029 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-01*
 
-REACTION —
+REACTION — Oh, this was a tiny chapter, but it did not feel like filler to me. It felt like one of those cold-air chapters where the book opens a side window and lets me see the shape of the house from outside.
 
-Oh. Oh, this is nasty in exactly the way I meant when I said I wanted Randi and Pace in the same emotional frame. Not nasty as in cheap. Nasty as in: this book knows where the live wire is and then puts a hand around it.
+Sheri immediately works for me. She is blunt in a way I trust more than all the polished carefulness around Vee. “Hell of a backside” made me laugh because of course she says it, and because Pace correcting her to *Vee* tells me exactly where he is. Not “the redhead.” Not “her.” Vee. He is already guarding the name, even with someone who knows him well enough to ride beside him in the cold.
 
-I am so tense about how much I liked this.
+And then he starts talking about Vee touching the walnut chair and asking the right question, pulling the math book down and not being afraid of it, and I just sort of softened despite myself. This is the Pace I want to believe in: not just aroused by her, not just proud of shaping her, but lit up because she notices the made thing, the real thing, the mind behind it. Sheri’s “Listen to you” lands because yes, exactly. He is gone. He may not know how audible he is, but we do.
 
-Because on the surface, yes, it is hot. Randi showing up on a Friday, sweeping wood shavings off him, drinking his wine, taking him to bed, stopping him before she comes so she can climb on top and tell him about Vee standing in her room in a bra? That is obscene, and very much my business. The “I heard it” nearly took the top of my head off. This is exactly the kind of triangulated heat most books fumble by either making it cartoon-villain manipulative or coyly tasteful. Here it is charged because all three people are real in it, even when only two are in the room.
+But the chapter also sharpens the wrongness. “Randi knows. She likes her.” “And the redhead?” “Not yet.” There it is in the cleanest possible form. No erotic fog, no beautiful room, no Randi’s scarf, no Vee’s blush to make it feel complicated and lush. Just the fact sitting on the road in daylight: two people know, one person does not. And Sheri runs the arithmetic immediately. Better than his dreams, worth it, complicated later. She is not scandalized, which I appreciate, but she also doesn’t give him absolution. She names the complication and lets it sit.
 
-But I am also sitting here with my whole face in my hands because Randi told Pace. She took Vee’s vulnerable morning, the crying, the dressing, the shoes, the bare legs under the skirt, the little sound behind the knee, and she turned it into sex with him. And Pace wants it. Of course he does. He doesn’t pretend otherwise. And the book doesn’t let me hide behind “well, they all want each other” because Vee does not know she is being shared like this. She went to Randi because Randi felt like the safest possible woman. And Randi really was safe, in the way Vee needed that morning. That’s the killer. She helped her. She steadied her. She made her laugh. She gave her courage. Then she carried the erotic residue of that straight into Pace’s bed.
+I’m weirdly glad this chapter stayed outside Vee right before the apology. I wanted to get to the door, yes, but this gave me the temperature of Pace’s world: he has friends, routines, women who speak plainly to him, history outside the bedroom. And Sheri not liking Randi enough to call her “the pale sorority chick” is a little delicious. I want more of that friction.
 
-I believe Randi loves her. I believe Randi wants her. I believe Randi is jealous and generous and predatory and undone, and I hate that those are not contradictions. She is not a flat schemer; she is worse than that. She is emotionally accurate. She knows precisely what Vee needs, gives it beautifully, and then takes a secret payment Vee never agreed to.
+Did it yank me by the throat? No. It’s a bridge chapter, and a short one. But it’s a good bridge because it adds pressure instead of simply moving pieces. I still have my thumb hovering over the next page because Vee is walking into a room where Pace has just been externally told the thing we all know: this is already complicated, and it will be worth it until it hurts.
 
-Pace here is quieter but not innocent. His “that was Vee’s” boundary about the bar fight mattered to me; he doesn’t tell Randi the exact wound. But then he receives Randi’s account of Vee’s body and shame and little involuntary sounds, and he is lit by it. He is still the man who leaves room, who won’t text, who waits for Vee to choose. But the architecture is still there. The room is being built around Vee while she thinks she is walking alone through open doors. I’m not out, but I am absolutely gripping the railing.
-
-And God, the title. “Space.” He gives Vee space. Randi tells him to give her a day. He won’t text because that’s “what he is.” But meanwhile there is no space around Vee in the larger sense. Her absence is full of them. Her body is in the room even when she isn’t. That’s delicious and alarming.
-
-I want the next chapter badly because I need Vee at that door in the black dress, Randi’s shoes, Randi’s scarf, thinking she has gathered herself privately, while Pace knows more than he should about the gathering. That is such a loaded setup I can feel the whole floor humming.
-
-GATE 30 — Space
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 3
+CAPTURE: 7
+NEXT: 9
+HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "I had her standing in my room this morning,"
-WHY: Hot as hell, but that line also made my stomach drop because Vee’s trust has become erotic currency between them. I’m continuing because the book has earned this danger, and because Vee walking in tomorrow while Pace knows what Randi did to prepare her is unbearable in the best and worst way.
+ALMOST-STOPPED: "and that was the whole of it."
+WHY: It’s very short, so part of me did hit the end and think, wait, already? But Sheri’s outside-eye bluntness made the whole triangle feel newly exposed in daylight, and Pace talking helplessly about Vee absolutely got me. I want the apology scene now, badly.

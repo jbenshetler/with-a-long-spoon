@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch041 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 296605e0be66 · 2026-10-07*
+*capture-dag-v2-rich · gate ch041 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 499423a1f58c · 2026-10-10*
 
 **REACTION**
 
-She showed her. He promised, and she showed her.
+Oh. *Oh.* Okay. It's 1 a.m. and I'm texting you in all caps.
 
-Last chapter she lay there freshly made-up and said *only if you promise you'll never share me with anyone*. He said never, and she sent it, and that was the brave part. Sixteen pages later she's in a dark booth handing the uncropped one across a tablecloth because Randi said *you only gave him half?* That's the exact pressure I've watched Randi use since the practice room. She doesn't push. She slides the phone back, says *you don't have to show me*, and Vee shows her everything. The promise only ever bound him, and she never noticed it didn't bind her. I said "oh no" out loud on my couch. And I'm not even sure the leak matters. I've thought for twenty chapters that whatever's on his phone is already on Randi's.
+I've been side-eyeing "the plan" for forty chapters and figured I'd get it in pieces: a hint, a slip, a drawer. Instead the book put me on his couch the same day Vee left it, with her pins still in the drawer he gave her Friday, and Randi in dark red silk telling him about stats class. Monday. Not Saturday. Randi is in the house in the evening *after* Vee walked out with her hair wet. And he's on four. The counting I kept waiting for came back, and it's Randi doing it, into the wood. "That's more than three." I put the phone down and stared at the wall.
 
-What actually got me is Randi. *It doesn't.* Low, not quite even, with her eyes gone bright and unfixed. That's the first crack I've seen in her in forty-two chapters. It came on *he wants me, with the body attached*. Vee takes it as pride, that her story landed so hard. I don't think the story did it. I think Randi heard the girl she picked describe the man she shares, and either she's never been looked at that way by him or she has, and Vee just described it back to her. Then there's "Just us," softer than the plan called for. Then the kiss where Vee leans up the last half-inch and *decides that's what she wants and doesn't bother about it again*. Then Randi holding the look a beat too long. The book is letting Randi's plan slip on her, and that's the thing the jacket promised, *what none of them counted on*. It's finally on the page.
+The quad. September, second week, before Vee ever knew his name. He'd been showing Randi girls "the whole way across campus" and reading *her*: the hand going slack, the *maybe*, the *God, no*. Then he pointed at the redhead laughing with her head back. Except the book gives me the inside of his head, which it has never done, and he'd already chosen. He'd already pictured black hair and red hair on his pillows, his mouth on Vee and his hand on Randi's face. The pointing was "only to find out whether they had chosen the same." So everything I filed as luck was a girl picked off a lawn. And it's not even mustache-twirling. He's careful, he's honest with Randi, and he still never tells Vee a thing. That's worse.
 
-Where I sagged was the first third. "We have so much sex, Randi." *He takes forever, all of me, strong, then gentle, I don't know how one person is both.* That's a recap, and I just read the real thing. It's Vee's voice and it's adorable, but it's a list. Then Randi gives the speech: *you've been starving your whole life and calling it fine.* That's the jacket copy read back to me at a brunch table. "He woke you up," setting it down where Vee can see it. I know Randi narrating Vee to Vee is the point, and it's how she steers, but it's also the book underlining its own thesis, and that's one of my triggers. It mostly survived because the egg yolk running over the plate did the same work without saying it.
+Then Randi. I've been paying for her at brunch tables for chapters, and here she is admitting the kiss is "for the threesome... somebody has to get her used to my mouth. It's *work*." And he goes, "You don't have to do it for me," kindly, into her neck, and she comes *on it*. That's the most precise thing this book has done, and it did it with a cock in her. It cut right through her alibi. Then "God, I want her," into the couch, and then "For us. When she's ready. That's all I meant." I don't believe a word of the walk-back and neither does he. The hand in Vee's hair in October, "I have not been the same about it since." She's gone. She's in love with Vee, the man she's sleeping with knows it before she does, and he's *pleased*.
 
-Small things. The eggs Benedict, *the one that cost*, then her card down first and tipping well and saying nothing about the number. I'm doing the mimosa math for her and she's not. The music that's always already playing, *I've never once heard it start*. That house is staged and she's calling it magic. "Does he have a brother?" Ha. And *I don't go back* last chapter, which is the scar thread finally twitching. Sheri alone at Thanksgiving.
+His consent line is the thing I'll chew on all week. "She consents — every time — or I'm done. It isn't you I'm checking on." So he holds the ethic and he holds the plan, and he isn't confused about which is which, and he's checking on Vee through *Randi*. Meanwhile Vee is the one who has consented to none of the actual shape of this. And she showed Randi the photo he promised never to share. *She* shared it. Nobody broke a promise and everybody's going to get hurt anyway. Also I'm now sure Randi saw that uncropped photo before Pace told her a thing about it, and that she went quiet over it for reasons Vee read as pride.
 
-This is the third debrief, and it left something on her mouth. It's a different shape from the glaze. Randi isn't the one in control this time; she's the one who got hit.
+The heat was real, and it was dirty in a way that served the story. The mirror he gets that she forgot about. Her putting her face where he can't get at it and the book giving it to him anyway. "It looks good wet" landing as a callback to *Vee's hair*, then her two fingers showing him. The clench on the word "mouth." Him going slower because he "wanted the rest," which means fucking her for the *story*. Him on the fourth, crossing into hurt. Her taking it over: "Here. Like this." It was explicit, nothing coy, and every stroke was about a third person who wasn't in the room. That's exactly what I came to this shelf for and almost never get.
 
-GATE 42 — All the Time
+The one beat that made me wince: "still full of your come," and the "leaking quietly into the green" image. It felt crude in a way that's about Vee without her, and I think that was the point. It still made me feel a little like I was in on a joke at her expense, and I didn't love being made complicit. Same with "She had not given the answer to him. She had given it to the Saturdays." That's the book reaching over to underline. I didn't need it.
+
+The end got me. "You see more of me than anybody ever has... It makes me feel real. And some nights it frightens me." "Then I'll be careful with you." He's careful with both of them. He's the gentlest hands in the book and he's running the whole board. I'm terrified for Vee, I'm terrified for Randi, and for the first time I'm a little afraid *of* him. And Anthro, Tuesday and Thursday nights, "just us." God help everyone.
+
+GATE 43 — Four
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: "You've been starving your whole life and calling it *fine*, and now you're not, and you've gone and decided that's the flaw."
-WHY: The opening recap and Randi's thesis speech nearly made me skim. Then Vee broke the one promise she asked for, and Randi broke, for real, at "with the body attached." I want Randi alone in that green Mercedes, and I want to know whether Pace's phone buzzes before Vee's back up the gravel.
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "being modest about it, still full of your come."
+WHY: Randi's back at the table, I finally got the door I kept demanding, and I got Pace's head with it. The plan is on the page, and it's quieter and worse than I imagined. The sex carried the whole emotional reveal ("You don't have to do it for me" and she comes), so I'll forgive the one crude line and the one underlined sentence. I need Vee's POV next, and I need it now.

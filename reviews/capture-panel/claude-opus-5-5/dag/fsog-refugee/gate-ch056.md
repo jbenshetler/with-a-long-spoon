@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch056 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bb2635a8b1b0 · 2026-10-11*
+*capture-dag-v2-rich · gate ch056 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 213059ecdcb4 · 2026-10-11*
 
 **REACTION**
 
-I'm smiling, and I don't fully trust that I'm smiling.
+Okay, so she lied to Cassie, and she was good at it. That's what I'm holding.
 
-The kitchen is the reason I came to this book. She's naked on the chair he built and running on at his back, and he's got his sleeves rolled. Then he hands her own line about Kayla back to her, and remembers that her heel came up out of the right boot on the mountain. I melted at "Your heel came up out of the right one when you pushed off." That's the man I keep saying I want: attention as devotion, nothing performed, just kept. He's been storing her small news on a shelf all fall. "Believe what I do" finally looks like something here, because asking to meet her people is a doing that sounds a lot like the word.
+I understand why. Nobody owes their roommate "I drove out in a coat and heels and nothing else and he went down on his knees on the porch." That part is hers. But "that's private, Cass, I'll never tell you" was right there, and Cassie of all people would have taken it. Instead Vee built a whole fake out of real pieces: the cranberry sweater, the dye running into her good pants, his t-shirt, the burnt toast. It even had a doll-sized punchline. She gave it his flat delivery and Cassie laughed her rare full laugh. Then the book says "the record stood exactly where Vee had left it, corrected by nobody," and my stomach dropped a little, because I've seen this before. She lied about the Rusty Nail, and she cropped her own photo at the waist for her mother. Now this. She keeps cutting herself in half for whoever's looking. That's what she was crying about in her childhood bedroom, and she's still doing it, just with better reviews.
 
-Theo got me too. She braces for the jealous question and it never comes. "Bring Theo," and he reaches for the next pan. No possessiveness, no little test. Then she gets to look after him. The Chili's picture comes up on its own, the fork squared and squared again, and she gives him the choice of venue without making him ask. That's care going both ways, two people who've each learned something about the other. "Tables have ends. Somebody ends up at one" is very him, and so is her refusing to build a dinner where one of her people has to be a good sport. She's growing kinder and sharper at once.
+The line that got under my skin more than the sweater was "We *talked*." No they didn't. The whole fight was about a word, and she fixed it by not saying any. He said sorry and he missed her, and he still hasn't said the thing. I know from his chapter, the whiskey and Daphne, that he knows he loves her. She doesn't know that. And now, telling it to her best honest friend, she's rewritten that night as one where words happened. I loved the coat scene. But I don't love her teaching herself that the coat was the conversation.
 
-Here's what I'd text at 1 a.m.: why does he want Randi in a room with her? I know about the couch. I know about the quad. I know he's been picturing three people in his kitchen in the morning, adding to it for weeks, sheet and honey and feet up on the lacquered seat. And now he's asking for "her people," steering it big and casual so it doesn't read as a setup, and ending on "Let me handle it" with a happiness he won't let out. That could be a man who misses her and wants into her life. It could just as easily be him building the room. Probably both, and that's what scares me. With Vee everything he does is real care. The frame around it still isn't hers to see.
+Cassie's mother saying thank you for the card wrecked me a little. Vee sent a card, with no angle and no audience. Her hand went to her robe collar like something had touched the back of her neck. That's the Vee I'm reading for: kindness that wants nothing back. It also makes the MIRA secret sit heavier. This family wants her at their table, and the brunches she loves were paid for by the people who cost Cassie's dad his job. When that lands, it lands here.
 
-And the word. She got her apology, the pancakes, his voice cracking on "I missed you so much." She didn't get "I love you," and she's stopped asking. He knows he loves her. He worked it out over the whiskey and Daphne. He still hasn't said it to her face. Going to her friends instead is lovely, and it's also a sidestep. I'm keeping count.
+Small stuff I liked: missing the draft, the snowshoes in the house, "the baby is a baby." The flannel up over her nose with his smell going faint, and deciding he'll just have to wear it for her again. Her hand going out across the bunk and hitting cinderblock. It's quiet, but the care is on the page, so it costs me nothing. They were alone together a chapter ago.
 
-**GATE 57 — Back**
+What I really want now is Tuesday. Randi just got told by Brooke to choose. Vee is going to walk in glowing, give the coat story to Randi and not Cassie, and maybe the "strange small thing" too. Randi will "know what to make of it," and that's exactly what scares me. And Pace said "Let me handle it" about a party with everyone in it, Randi in the middle, in that house with that table in the bedroom.
+
+GATE 58 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: A quiet kitchen chapter full of real attention. The boots, Kayla's line, "Bring Theo," and her looking after him over the noise are the tenderness I read for. I'm keener for the next chapter than this one held me, because "Let me handle it" sounds like Pace setting a table, and I need to see who's at it.
+CAPTURE: 5
+NEXT: 7
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "the unpacking suspended somewhere in the middle in favor of the desk chair and the book" — the opening dorm-routine stretch, before I realized she was about to lie.
+WHY: It's a quiet chapter and it held me less than its neighbors, but the lie and "we talked" are the thread I'm actually tracking: Vee rewriting her own story so she can keep standing. Cassie's mother and the card made the coming MIRA fallout feel close, and with Tuesday-with-Randi and the party both loaded, I'm reading on.

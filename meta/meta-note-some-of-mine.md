@@ -24,7 +24,7 @@ The scene rhymes Cassie's two questions: the unanswerable **"Is this what you wa
 
 - **Cassie — anti-extractive + Knower Discipline.** She asks **once**, out of care not extraction, then does **not** prosecute — declines the dodge, lets it lie (`meta-arch-cassie.md`). Her worry is **Randi-shaped and structural**: she reads the *readout* (my friend receding, wrong-fit, Randi's got something), not the *mechanism*; **never** names eros ("you two are lovers"), **never** fingers Pace (would make her the reader's permission slip). Ambiguous-but-worried is the ceiling — a long deep hug + a neck kiss from a famously touchy friend is alarming, not conclusive.
 - **Cassie rendered as effect-on-Vee only** — no standalone interiority (over-feed signal: if the reader gets curious about Cassie for her own sake, pull back). Register: bone-dry, flat, exact, says little; the withheld eyebrow.
-- **"Oh, Vee" withheld** — reserved for a beat that earns it more; keep the dread structural (cf. `off-six-fourteen.md`).
+- **"Oh, Vee" withheld** — reserved for a beat that earns it more; keep the dread structural (cf. `dear.md`, Saturday movement).
 - **Vee — regression + the flinch.** Under pressure her voice regresses *down* (small words, younger syntax); articulate is Pace's register, never her defense (`meta-craft-vivienne.md`). The internal search before the dodge is **rendered clearly** — reach, touch the edge, look away — the body already holds the yes she won't read.
 - **The displaced fight** — she flees the wanting-question onto the old Greek-life disagreement; Cassie won't run it.
 - **No rupture, no distance** — present and warm; the cost is the gap, not a fight (`meta-plan-spring.md` #3).

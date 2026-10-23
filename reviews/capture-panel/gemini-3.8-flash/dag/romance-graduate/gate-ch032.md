@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 5274d9c5fd04 · 2026-10-01*
+*capture-dag-v2-rich · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 230524645ef4 · 2026-10-01*
 
 REACTION
 
-*Oh, my God.* I am sitting here with my hand over my mouth.
+God, the *nerve*.
 
-First of all: the stats lecture opening with *outliers*. “The second kind comes in through the part that carries forward. It’s in everything that comes after.” This author is downright cruel with the subtext and I love it. Vee literally ditching Cassie—poor, sweet, innocent Cassie with her wrong textbook and granola bar—towing *Randi* by the wrist into a soundproof piano closet to debrief about the weekend? Vee thought she was taking the lead! She thought she was just gossiping with her cool, worldly best friend!
+I was holding my breath through that entire walk. You could feel the exact split-second where she had the choice: take the tiny, shuffling, church-girl steps, keep the silk pinned to her leg, play it safe in front of the parents and the navy-dress crowd—or *own* the creature she’s becoming. And she chose to lengthen her stride. She gave them the whole damn bare leg to the hip bone, with nothing underneath it, in broad daylight, in front of God and the economics faculty.
 
-And Randi. Jesus Christ, Randi is a masterclass in psychological manipulation. The way she draws it out of Vee—not letting her slide past the slap, drilling right down into it: *“His hand was wet... so his hand was wet.”* She knows *exactly* how Pace operates, but she plays it so effortlessly, painting Vee into a corner until Vee admits she "deserved it."
+What makes it so utterly intoxicating isn't just the exhibitionism—though, let’s be honest, the exhibitionism is top-tier delicious—it’s that sickening, gorgeous friction between her inner life and what the world sees. To the room, she’s just an astonishingly beautiful girl in a stunning gown having an accidental (or bold) high-fashion moment. To Cassie, taking that picture, it’s just her gorgeous roommate looking like an absolute star. But to *Vee*, every inch of that silk is steeped in Pace’s hands, Randi’s calculated styling, the hidden spanking bench she doesn't know about yet, the lingering sting from the kitchen, the total erotic reprogramming she’s undergoing. The fact that she texted that exact uncropped picture straight to Pace while he’s sitting in some dry-ass math conference in Berkeley? Cruel. Brilliant. Devastating. He is going to lose his absolute mind when he looks at his phone.
 
-And then the story Randi tells. *“Oh, baby. Sometimes it's the mouse that roars.”* Calling him a “slight little thing, soft-spoken,” fabricating this entire alternate-universe persona of a meek guy who put her over his knee, forced her to count, turned her red, and slid his hand between her thighs until she was bucking. Randi is planting the exact blueprints of what Pace does, what he built the walnut bench for, normalizing it, eroticizing it, and feeding it to Vee like candy. It’s so breathtakingly dirty because there is no skin-to-skin sex happening in that room, yet it’s one of the hottest scenes in the entire book. Just words in a quiet, carpeted closet, and Vee is literally soaking through her underwear listening to another woman talk about getting spanked.
+And Cassie, man. Cassie calling her "streetlight" and offering to buy her a terrible sandwich while she's secretly vibrating from the inside out with no panties on. The sheer density of the dramatic irony is so thick you could cut it with a knife. Vee thinks this is all *her* nerve, *her* pride, *her* blossoming. And it is, in a way! She’s the one taking the stride. But she is wearing a uniform designed by two predators who are seasoning her for the main course, and watching her lean into the flavor of it with so much genuine joy and heat makes my stomach do backflips.
 
-That bathroom scene broke me a little bit. Vee locking the door, her hand moving on instinct toward her jeans, and having to physically pin her own hand to her knee: *“Not over a story. To do that would be to say yes to it, and she would not say yes to it.”* The absolute denial! She thinks she’s being faithful to the high of Pace’s weekend, but she is so hopelessly turned on by Randi that she had to flee the room to keep from touching herself.
-
-And then Randi just... breezes off. Bag on her shoulder, easy kiss on the mouth, leaving Vee stranded in the hallway holding onto a hug that’s already over, buzzing with an arousal she can’t even name. Randi wound the key in her back, set her down, and walked away. The trap is closing so fast and Vee is practically running into it with a smile on her face. I need the next chapter yesterday.
-
-GATE 33 — The Practice Room
+GATE 34 — The Induction
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological tension in that tiny soundproof room was suffocatingly hot. Randi planting the exact blueprint of the spanking bench into Vee’s head while Vee soaked through her clothes without being touched was sheer genius.
+WHY: The tension during that walk across the stage was absolute perfection—Vee choosing to lengthen her stride and show the whole bare leg, fully aware of what she was doing. The psychological layering of her texting that photo to Pace while Cassie just sees a proud best friend is so good it hurts.

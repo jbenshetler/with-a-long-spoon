@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1889af8db5c0 · 2026-10-01*
+*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 3e3674d6874c · 2026-10-01*
 
 REACTION
 
-Oh, this is sick. This is *so* sick, and I could not look away if the building were on fire.
+Oh my god. *Oh my god.*
 
-The sheer psychological claustrophobia of this chapter. It’s one thing to know Randi and Pace are sleeping together and scheming on the side—it’s an entirely different level of violation to watch them sit in that kitchen, wearing his clothes, eating his food, passing Vee back and forth between them like a decadent dessert they’re splitting.
+I am sitting here with my stomach in my absolute throat. This chapter is a quiet, devastating masterpiece, and it just broke my heart into twenty pieces.
 
-Randi wearing his undershirt, curled up on the exact same lacquered chair where Vee sat wrapped in a bedsheet after he fucked her. Randi admitting, out loud, that seeing Vee embarrassed by the older couple was "kind of hot." And then Pace—god, Pace, you terrifying, delusional man—standing at the sink waxing poetic about how Vee lights up a room, how she’s "the most alive person standing there," while totally missing the fact that Randi’s entire body went rigid with jealousy and pure, unadulterated possessiveness.
+First of all, *Peter*. Finding out his real name is Peter, that he’s only twenty-two, that he was a fifteen-year-old child prodigy forced to drag his desk into the hallway because his teacher couldn't handle his mind—it completely recalibrates him. He isn't some ancient, omniscient puppet master. He’s a boy who was too big for every room he ever stood in, who found beauty in math because it was the only language where things made sense and stayed proved. The coastline problem, the three sentences of Newton, the shape you can fill with a cup of paint but never paint the outside of—the prose here didn't just explain math to me, it made it ache. Helen Rivers writes with such terrifying, gorgeous intelligence.
 
-He actually sat there and daydreamed about having them *both* at that kitchen table. He thinks this is heading toward some sunlit, harmonious polyamorous paradise where he gets to play the benevolent patriarch who cured a curvy girl of her shame. He is completely blind.
+And then... Daphne. Nineteen and fifteen. *Nineteen and fifteen.* The math student assigned to "tutor" the lonely kid, who took his virginity, kept him for two years, and then abandoned him the second she hit bar age. Vee’s quiet horror as she does the arithmetic without saying the ugly word out loud was *exquisite*. Pace defending it—setting himself between the memory and the judgment, calling it luck—tells you *everything* about why he operates the way he does now. He was taken, shaped, and discarded by an older student. And now what is he doing with Randi? What are they doing to Vee?
 
-And Randi! The way she pivots when the panic and desire get too close to the surface—she strips his shirt off, rubs her bare breasts against him at the sink, and uses *Vee’s body* to turn him on. *"God. What she keeps under there. It's criminal, Pace."* She is literally using Pace's cock as an instrument to fuck Vee by proxy. She is so violently queer and so hopelessly tangled in her own closeted, competitive psychology that she's having to act out her lust for another woman through the man they're both sleeping with.
+And then Vee’s hand finding the scar. High up on his inner thigh, longer than her hand, raised and smooth. He didn't snatch her hand away or put up a wall; he pressed her palm flat over it and whispered, *"Not tonight."* That level of intimacy—holding her hand over his wound and letting the door just stay closed for now—felt more erotic than half the full-penetration scenes I’ve read this year. It is clear tenderness. It’s real love growing in the middle of a trap.
 
-The title *Gone* is doing double duty here. Vee is gone on Pace. Randi is admitting Vee got past her defenses ("She got past me before I could help it"). But mostly, all three of them are so far past the point of no return that the eventual collision is going to leave a crater. Vee put four-hundred-dollar shoes on an emergency credit card for this simulation. She thinks she has a prince and a best friend.
+Which brings me to the final four paragraphs, which made me want to scream into a pillow. Vee lying awake in his bed, basking in the warmth of his skin, tracing the timeline: bumping into Randi outside the dining hall, Randi sitting next to her in stats, complaining about an integral ten days later, Pace crossing the coffee shop... and thinking it was all *luck*. Thinking she just stumbled into this golden, fortunate life.
 
-The tension in that kitchen was suffocating. I have chills.
+*She doesn't know.* The reader knows. We've seen Randi in his kitchen eating chicken and riding him until her blue-painted toes curl. We know they planned it. But watching Vee lie there, soft and full of love, marveling at how the pieces came together like Newton's laws... the dramatic irony is suffocating. It is cruel and tender and utterly gripping.
 
-GATE 26 — Gone
+GATE 27 — Rock
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 1
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological voyeurism of them debriefing Vee while using each other's bodies to process their obsession with her is completely hypnotic. Pace's delusion that this ends happily versus the reality of Randi's predatory, closeted spiral is high-wire tension at its absolute best. I have to see what happens when these two worlds collide.
+WHY: The revelation of his real name, his prodigy childhood, and Daphne completely cracked Pace open, turning what could have been a standard erotic thriller into a stunning, psychologically devastating character study. Vee piecing together the timeline at the end while entirely ignorant of the setup was absolute agony in the best possible way.

@@ -1,30 +1,30 @@
-*capture-dag-v2-rich · gate ch019 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 623f9cd6a778 · 2026-10-10*
+*capture-dag-v2-rich · gate ch019 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0eff5df4f29c · 2026-10-10*
 
 **REACTION**
 
-Okay. I'm wired, and I'm uneasy.
+Okay. *Okay.* It's 1 a.m. and I'm texting nobody because nobody I know reads this.
 
-First thing that grabbed me was the thumbnail. Randi's thumb set under the rim of the water glass, bearing down. I sat up in bed, because that's the bottle cap from the bench night, the exact same gesture. I wrote that down weeks ago because it was the tell, and here it is again, at the moment Vee says "he looked at me and I was fine." And Vee reads it as *moved, happy for me*. Oh, honey. No. I think that's a woman listening to her boyfriend's hands go over the girl she picked for him, and finding out it hurts. Or a woman finding out she wants the girl herself and can't have her except through him. Probably both, and that's what's making it so hard to watch.
+This is the scene I left the genre looking for. She walks into his kitchen and says "Famished" and hears the double meaning a beat after he does, and from there every move belongs to her. She's the one who says she never thanked him for the shirt, pulls the apron strap, and asks "Will you show me your bedroom?" The one closed door from the tour, and she's the one who opens it. When she breaks the kiss he starts to step back, "the beginning of care," and she *doesn't want that kind*. She wants the other kind, and the book knows there are two kinds. That got me.
 
-Then the extraction. "Nobody measures over a bra." "Which hip?" "The left one." "All the best ones start at the left hip." It's beautifully done and it made my skin crawl a little, because I know what that is. Randi is pulling details out of Vee one small *yeah* at a time, and I remember chapter 14: "Tell me." "Her stomach is soft." She's collecting material. Maybe she brings it back to Pace's bed tonight. Maybe she's torturing herself with it. Either way Vee is giving away the most private thing she's ever had, laughing, and being *led*. And the book knows it. The narration says "led" right there on the page. So I don't feel the book winking at me. I feel it making me sit there and watch it happen. That's the deal it's been offering all along, and I'm still taking it, barely.
+He's on his knees again, and this time he asks the real question out loud: "Would you be bothered if I was too hard?" It's a strange, lovely, slightly crooked question. It's the fitting's smile put into words, telling her that her wetness is a gift and asking if his wanting is welcome too. She says no "and made herself say it so it was true." Then inside her he holds still and *waits to be told*, and what tells him is her hips. That's the whole thing I came for. His restraint makes room for her, and when he finally stops governing himself it's because she put her heels into him. He isn't overriding anything.
 
-And then "You don't have to tell me." A door closing very softly. That hurt more than anything else in the chapter. Vee was finally about to say the thing she's never told *anyone*, not even Cassie, and Randi cut it off. I don't think that was kindness. I think Randi couldn't hear it. She got right up to the edge of Pace's face at the level of Vee's wet satin and pulled the plug. Then "Big day," and she looked for the check. Vee is left holding her secret half out of her mouth with nowhere to put it. I wanted to climb into that booth.
+The "floozie" loop worried me for about a page. Shame used as fuel can tip into the book enjoying her humiliation. But it never comes from him. It's her mother's word, inside her, and the chapter keeps letting her burn through it: "the shame ran the whole length of it and never closed her." Then "It was the first time that had been true" knocked the wind out of me a little. Him watching her face in the light the whole way, and her turning into the pillow and him following, was so intense. I felt that one in my body, not on the page.
 
-The scarf story. "A little helpless can be a very good thing. Done right." I know that pitch. I've heard it from a hundred books that didn't mean "done right." Here it's coming out of Randi's mouth, aimed at Vee like a seed. And wait: *Saturday*? Saturday was Vee's afternoon on the riser. Randi was off with a "beautiful idiot" who can't tie a knot? She's Pace's girlfriend. Either she's sleeping around, or she made it up, like I half suspect she made up the Swiss lacrosse guy. I think Randi lies to Vee constantly, easily and charmingly, and Vee believes all of it. Also I noticed she ordered the salmon and the book never once shows her eating it.
+Then the kitchen. He cooks, she sits in a sheet, they eat and don't need to talk. I couldn't help setting it against chapter 14, where Randi left without eating and he stood in his door hollow and ate alone. Vee stayed. Vee was hungry. The book is doing that on purpose and it hurts.
 
-And yet. The heat was real. Vee picturing Randi tied up and laughing, "that finished surface finally cracked all the way open," and having no shelf for it. That was Vee's own desire, from inside, and I felt it. And the kiss. The second press "that had something in it the first one hadn't." I think that was the one true thing Randi did all day. I believe it more than anything she said. Then Vee scanning the dark windows, terrified someone saw, and I felt her mother standing behind her the whole time.
+And "Trade." The folded green panties, spot centered, for his shirt. She drops the sheet and doesn't stop. That's her desire, fully hers, a woman handing a man the evidence she was most ashamed of as a *gift*. I loved her for it.
 
-The thing I keep coming back to: Vee pays for her own soup. She won't let Randi buy her seat at that table. I love her so much for that. She's got more spine than anyone around her gives her credit for.
+So here's what has me unable to put this down, and it's dread, not just heat. *Tell me.* Every time Pace has had a piece of Vee, he's carried it to Randi's lap. "Her stomach is soft." The froyo cup. Now he's holding the most intimate thing Vee has ever given anyone. "Something in his shoulders was private and she let it be private." Private from Vee, maybe. Will it stay private from Randi? If those panties end up on that bench as a story, I don't know what I'll do. And Vee just slept with a man who has a girlfriend she *had lunch with last Sunday*, who kissed her on the mouth in a fire lane. Vee doesn't know. I do. That's the knife the jacket promised and I'm holding the handle.
 
-Pace isn't in this chapter, but he's everywhere in it. The riser was two chapters ago, so I'm not starving yet. I do want him back in a room with her, and soon. I also want to know what Randi says to him tonight.
+Smaller things: she bought *green* the week after Randi's "bright and green" scent was in her hair. I clocked that. And there's the scar high on his inner thigh, which she stops at and then gets pulled past. That's a Daphne-sized door, or a parents-sized one ("No," at *parents*). I want it.
 
----
+On Pace: I'm still holding him to "may," and tonight he earned it. That makes it worse when I remember what he's going to do with it.
 
-GATE 19 — How It's Done
+GATE 20 — Famished
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: "A little helpless can be a very good thing. Done right."
-WHY: For a second I thought the book was starting to sell me the thing I left the genre over. But it's Randi selling it, and the book has me watching her thumb under the glass and her lies, so I trust that it sees what I see. I'm protective of Vee and suspicious of Randi, and that kiss means I have to know what comes next.
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "*Floozie,* said the voice. That was the worst it had." That's the third or fourth floozie, and I braced for the shame to become the kink the book was selling me. It didn't. It stayed hers and he never touched it.
+WHY: Finally both of them alone in a room, and it was everything: she chose every step, he asked and waited and then let go when she wanted him to. The next chapter pulls just as hard for a different reason. I need to know whether those folded green panties stay his or become Randi's next "Tell me."

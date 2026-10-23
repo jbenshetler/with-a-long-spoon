@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch066 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8ea15c426f18 · 2026-10-11*
+*capture-dag-v2-rich · gate ch066 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 022d1f399ba9 · 2026-10-11*
 
-## Reaction
+**REACTION**
 
-What I felt most was "No. Not my thing." Too fast, and patched smaller right after. I physically winced. Two chapters ago I sat in Randi's bed while she told Pace "I want her to know exactly what she does to me." Now I'm watching Randi's thumb stop on Vee's knuckles, and Vee reads it as Randi standing guard. "She's still worried." Oh, honey. Randi just heard the girl she's in love with say that a woman looking at her is not her thing, and she had to say "I know she isn't, gorgeous" with her thumb starting up again like nothing happened. The dramatic irony is cruel and it's good. I ached for Randi in a way I didn't expect to after the "words are the whole war" business. For once she wasn't steering. She just got hit.
+Okay. I need to put the book down for a second, and the reason isn't the wax.
 
-And Vee is lying, isn't she? "Best thing that's happened to my legs in a Virginia January," she told Pace over the bread. She laughed out loud on the taproom floor. To Randi it's "not my thing." She's still splitting herself in half for each audience. But this cut doesn't feel like protecting anyone. It feels like a door she slammed on herself without looking at it. That worries me more than the restroom lie did.
+The scene itself is good. It's very good. That first "*Fuck—*" out of a girl who apologizes to furniture had me wincing in sympathy. "The kind of girl who" in her mother's flat kitchen voice hit me physically. And the "Don't move" part is the best thing the book has done with dominance in a while, because it pulls the wrong version apart from the right one. The hand on her thigh has the same grammar as his, with "everything true scooped out of the middle." That's exactly what I left the mafia books over. Same shape, no wanting in it. Vee feels the gap "a mile across," and so did I. I believed her ache for the right hand completely, and the ending, alone, her fingertips on her own skin, thinking about *his* hand finding it, was lovely. Her desire is hers there.
 
-The waxing is where I put the book down for a second and frowned. "He asked me to get waxed. All of it. Bare." I only get it secondhand, in "the voice he uses for facts," and that's exactly what bothers me. Everything I trust about Pace is on the page: he watches, waits for her answer, says "Okay" and leaves his mouth for her to come back to. This happens offstage. I can't see whether he asked or announced, or whether she had room to say no. Then Randi lights up instantly: Sondra, Draper Street, say my name in the first sentence. My stomach turned over a little. Whose request is this, really? After chapter 64 I can't hear Pace ask for something about Vee's body without wondering whether Randi's hand is in it. Vee seems glad, and I'm holding onto that. But I want the kitchen scene. I want to see him ask. If the book never shows it, I'll hold that against it.
+But I'm keeping score, and here's the tally.
 
-The goodbye, though. The second kiss that stayed. Her mouth at Randi's neck and *neither of them said a word about it*. No "ticklish," no laugh to cover it. That was the first time Randi didn't deflect, and Vee didn't need her to. It was quiet and it was hot. And then: "The other part she didn't write down. She had that one cold." I want to know which part. Sondra's name is on her hand, so is it Randi's mouth? I hope it's the kiss.
+He asked. "Will you?" Eyes on hers, waiting. Fine, technically. That's what I came for. Then the book tells me, almost proudly, that he never says why and that "the fear came after… that was nearly the point of it." A deadline. "By the weekend." Her yes is out of her mouth before her mind catches up, and the book calls that the thing that "undid her." I've read that sentence in a dozen books I quit. A question asked so it can't really be answered isn't the same as asking.
 
-I'd text a friend: "she told the woman in love with her 'not my thing' and then kissed her neck on the way out. I'm going to need a minute."
+Then Randi. "Barely stings." Sondra, Draper Street, say my name in the first sentence. Not one word about rolling over. After chapter 64 I don't think this request is Pace's alone at all. I think it's the two of them, in bed, deciding what Vee's body should be next, and Randi sending her to *her* waxer with a glass of wine and a lie by omission. So Vee was managed into the "whole of it" by both of them. And then the line that nearly lost me: she *could* say no, and doesn't, because another line "seemed like a joke, a thing for a girl who had any lines left." That's consent eroding by momentum, inside her own head. My question is whether the book knows that's a wound. I think it does. The face-down part is written as bleak, "No wanting in this one," and not as hot. That's the only reason I'm still here.
 
-The Sheri retelling was warm, and I loved Vee choosing to hold back the part that's Sheri's. She's learning whose stories are whose. But it was a retelling. The live wire in this chapter was the thumb.
+Pace has a lot to answer for this weekend. If he finds her and it's all tenderness and no "why," and Randi gets a debrief and a smile, I'm going to feel the trapdoor Vee keeps checking for. I want somebody in this book to tell her what room she's in.
 
-GATE 67 — Between
+GATE 68 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 8
+NEXT: 6
 HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: "He asked me to get waxed. All of it. Bare." Him asking about her body offstage, with Randi waiting to route her to "Sondra," made me worry the request wasn't really his, or wasn't really a question.
-WHY: The thumb going still and "Not my thing" hurt in the best way. Randi finally got hit instead of steering, and the kiss that stayed made up for it. I'm pulled forward partly by dread about the wax. I need to see it was Pace's real question to Vee and not the two of them arranging her.
+ROMANCE: 1
+ALMOST-STOPPED: "another line seemed like a joke, a thing for a girl who had any lines left. So she rolled over."
+WHY: The chapter knows the difference between a hand that wants her and one that doesn't, and it lets Vee's own wanting at the end be hers, so I trust the writing. What I don't trust is the setup: an unexplained "by the weekend," Randi's omission, and a girl talking herself past a no because she's already said yes. I'll read the weekend, but Pace needs to give her a why, and soon.

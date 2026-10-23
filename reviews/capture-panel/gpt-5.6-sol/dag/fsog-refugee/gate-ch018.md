@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch018 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bca2ed17019a · 2026-09-28*
+*capture-dag-v2-rich · gate ch018 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6c8bd3bde2d5 · 2026-10-01*
 
-REACTION — Oh, I needed Cassie for this. I needed Vee to come home full to bursting and put the whole impossible afternoon into the hands of someone who loves her without wanting to steer her anywhere. Cassie lets her be overwhelmed, filthy-minded, tender, ridiculous—all of it. “I was on a box” made me laugh every single time, and then “He left me a door” went straight through me.
+Oh, Randi. You beautiful, frightened, manipulative woman.
 
-Because yes. That is exactly the thing I have been waiting for Vee to understand about Pace. He did not technically phrase every moment as a question, but he made space for an answer. She could feel the opening. And “It was like his eyes asked, *May I look*” might be the most erotic description of consent I’ve read in ages. He wants her ferociously, and somehow the wanting does not crowd her out. It gives her somewhere to stand—literally, apparently, on her custom-built pedestal.
+She knew. She knew the shape of that fitting because Pace has done some version of this with her—or because she knows him so intimately she could walk Vee around his body with her eyes closed. The left hip, the pedestal, Pace on his knees: that was not friendly intuition. She led Vee one soft question at a time until Vee was about to hand over the most private, shame-soaked part of the afternoon, and then she closed the door. “You don’t have to tell me” sounds merciful to Vee, but Randi had already taken everything she wanted. That made me cold. She manufactured safety, used Vee’s trust and attraction, and got almost all the way inside a secret Pace had deliberately kept for Vee.
 
-The heat turned up before she arrived nearly undid me again. That sort of care is my weakness: not grand declarations, but a man thinking hours ahead about the temperature of the room because he knows what he’ll ask of her body. Then she tells Cassie she felt “like I was supposed to be there,” and I’m gone. That isn’t just Vee discovering she likes being looked at. She likes being elevated, attended to, and obeyed by a man on his knees. She is finding the exact shape of her desire from inside herself, and it is not making her smaller.
+And the invented man with the scarf—God. Randi repackaged her real surrender to Pace as a funny story about some disposable beautiful idiot, because apparently even now she cannot tell the truth about who undid her. But she also used it to teach Vee how to understand helplessness, preparing the language before drawing out Vee’s experience. It was seductive as hell. It was also calculated. Both are true, and that is exactly why Randi is so dangerous to me.
 
-And thank God for the laughter. Vee solemnly clarifying that Pace is a powerlifter, not a bodybuilder, before presenting evidence of his heterosexuality like an expert witness—and then confessing that *she* was grinding on *him*—is precisely the kind of joy I want around the heat. She isn’t merely enduring his attention beautifully. She is mischievous, active, delighted by her own power. She gets to come home and laugh until she can’t speak about something that once would have drowned her in shame.
+Vee’s attraction is no longer deniable to anyone except Vee. The picture that heats her is Randi naked, bound, laughing, and stripped of control. She looks at Randi’s mouth and chest and collarbone; she studies her driving; she wants to confess things specifically to her. Then Randi kisses her mouth—and comes back for a second kiss. I felt that straight through me. I have been waiting for this. But Randi did not ask. She simply took the moment and left Vee alone on the curb to explain it away and fear who might have seen. That is not the kind of taking I came here for. Vee may very much want her, but wanting someone is not blanket permission, and Randi knows perfectly well what asking can feel like because Pace has shown both of them.
 
-I’m still watching the hidden plan. None of this makes that debt disappear. But this chapter made me fiercely happy for her. Also: he has now seen her half naked twice, she has deliberately rubbed herself against him, and they have kissed once in twelve days. I am climbing the walls right alongside her.
+What hurts most is how genuinely lovely Randi can be with her. The softer smile at the car felt real. Her desire felt real. I believe she stopped Vee’s confession partly because some piece of her could not bear to take the final step, perhaps even because she wanted to leave Vee one thing Pace had kept private. But “I stopped just before the deepest violation” is not innocence. She had already maneuvered Vee into exposure for her own hunger.
 
-GATE 18 — Turned Up
+Also: Vee paying for that miserable tomato soup while Randi casually drinks a glass of wine worth more than Vee’s whole meal made me ache. Randi watched her protect her dignity and let her. Maybe respecting the no matters; maybe insisting would have humiliated her. Still, Randi understands social power exquisitely and somehow keeps using that understanding to get closer without reckoning with what the closeness costs Vee.
+
+I’m absolutely reading on. I’m turned on, angry, protective, and now desperate to know what Randi does after crossing that line—and whether Pace learns how expertly she extracted what he chose not to tell her. Text to a friend at 1 a.m.: SHE KISSED HER, I WANTED IT, AND I’M MAD SHE DIDN’T ASK.
+
+GATE 19 — How It's Done
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 2
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: “He left me a door” is the whole reason I came back to this genre: intensity that makes room for her choice instead of swallowing it. Vee naming what she wants, then laughing with Cassie about actively tormenting him, has me completely invested—and now I need that finished dress and the next time she and Pace are alone.
+ALMOST-STOPPED: “Randi's hand came up and found the hinge of her jaw, light, just resting there, just steadying, and kissed her on the mouth.”
+WHY: I have wanted Vee and Randi’s attraction to break the surface, and it finally did—but Randi took the kiss without asking after spending an entire lunch expertly manipulating Vee into sexual disclosure. I’m continuing because the desire and tenderness are real, but the book now owes Vee a reckoning in which her consent and anger matter.

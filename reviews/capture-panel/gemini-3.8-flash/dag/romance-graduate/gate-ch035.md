@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch035 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · 2026-10-01*
+*capture-dag-v2-rich · gate ch035 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 51b3205f6eee · 2026-10-01*
 
 REACTION
 
-*Oh, Vee.* My heart hurts for her, and at the exact same second, my neck is blazing hot.
+Jesus Christ. *Jesus Christ.*
 
-The sheer, dizzying intimacy of this chapter almost makes you forget the guillotine hanging over her head. *Almost.* But that’s the trick, isn’t it? That’s why this book is ruining me. Because on the surface, this is an exquisitely sexy, deeply romantic, breathtakingly tender scene between a young woman stepping into her own brazen sexual power and a man who treats her like a work of art. The staging! Putting him in the recliner, turning the lamp up one click, walking down that dark hallway first in the silk and the four-inch heels—giving him the stride she gave the room—and then stripping it all off, hanging the dress carefully on the hook, and walking back out wearing *only* the shoes? *"And this is what I had on under it."* Jesus. The confidence, the playful, daring brat in her that only he has ever unlocked. She’s giving it to him like a gift.
+"Sticky fingers?"
 
-And Pace—god help me, the restraint of this man. Sitting back down when she puts her flat palm out. Staying in the chair. Letting the looking *be* the touch. He’s so impossibly good to her in these quiet domestic spaces. The dinner, the curry, washing the dishes so she can talk to his back, telling her that choosing between the silk and her bare skin is like choosing between sunrise and sunset. You want so desperately for this to just be a romance novel where the big, quiet, prodigy woodworker loves the brilliant, insecure redhead.
+I think my soul actually left my body for three full seconds when that line hit the page. The sheer, diabolical cruelty and thrill of it—Helen Rivers is playing with dynamite here. Randi is an absolute master class in psychological predation, and the worst (or best?) part is how utterly, intoxicatingly sweet she makes the poison taste.
 
-Except you *know*.
+First of all, watching Vee completely crack under the sunlight and the mimosas and just *spill* the intimate details of her and Pace to Randi was like watching a lamb walk directly onto a silver carving platter and lie down. The way Vee doesn’t just tell the story, but re-lives the physical humiliation and heat of it right there in the bistro booth—pressing her thighs together under the table, sweating through her clothes, practically confessing to a priest who she doesn't realize is the devil—was blistering. The heat in this chapter was off the charts, and nobody even took their clothes off in front of another person.
 
-You know the shoes were picked out and buckled onto her feet by Randi on her knees in a boutique. You know the dress was constructed to force her to be bare underneath. You know that while Vee thinks she’s doing this brazen, private, autonomous striptease just for the two of them, she is literally performing the exact design Randi and Pace engineered for her. Every thread of silk, every inch of heel, every exposed curve of her hip. When he says, *"The other is for the world. This is just for me,"* the double meaning cuts like a straight razor. It’s *not* just for him. It’s for him and Randi. Randi is sitting like a ghost in the dark corners of that den, watching every move Vee makes.
+And then the bathroom. God. The agonizing psychological block where Vee is literally touching herself in a restaurant stall, soaked and desperate, and Randi’s face pops into her head—not just turning her on, but *stopping* her. That dynamic where Randi’s perceived judgment and gaze is so towering that Vee literally feels cowed, ashamed, and forced to deny her own release? That is top-tier kink writing without an ounce of leather or rope. It’s pure, distilled power exchange happening completely inside Vee’s naive little head.
 
-The tragic, intoxicating beauty of it is that Vee really *is* choosing it. Nobody forced her to bring that garment bag from the car. Nobody told her to take off the dress and leave the shoes on. Her appetite is waking up, stretching its limbs, demanding to be seen and worshiped, and she feels so safe, so entirely cherished. The fall is going to shatter her into a million pieces, and I am strapped in until the bitter end.
+Then the gut punch at the end. "You're my best friend in the whole world, you know that?" Randi looked at her with that manufactured sincerity, kissed her with the pastry glaze still on her lips—a literal physical transfer of the temptation Vee fled from—and Vee just melted. She has no idea. She is entirely engulfed. The contrast between Cassie’s quiet, steady, undemanding presence and Randi’s total emotional consumption of Vee makes my stomach twist. I am glued to this. I need to see when the floor finally gives out.
 
-GATE 36 — Made-Up
+***
+
+GATE 37 — One Bite
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 3
+HEAT: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension between Vee’s genuine, heart-swelling sexual awakening and the invisible, predatory trap she’s dancing inside of is peak psychological erotica. It’s devastatingly tender, scorching hot, and so tightly wound I couldn't put it down if I tried.
+WHY: The sheer psychological tension in the restaurant—from the confession to the bathroom stall to "sticky fingers"—was suffocatingly hot and brilliantly cruel. I couldn't tear my eyes away if I tried.

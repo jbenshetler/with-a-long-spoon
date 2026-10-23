@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch015 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · 2026-10-10*
+*capture-dag-v2-rich · gate ch015 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 414026fd7d01 · 2026-10-10*
 
 REACTION
 
-Oh, thank God, she has other friends. And she’s funny with them. Stealing fries, doing his voice, getting caught knowing exactly how many days since the kiss—I like this Vee, who can take up space at a table without waiting for Randi to grant it to her. Meg’s “Sometimes they even are” made me like her immediately. A friend who can hear “he’s different” without either swooning on command or turning it into a warning lecture.
+He *sews*. I actually put the book down for a second. The man lifts, does advanced mathematics, cooks, makes furniture, earns patent money helping frightened children get through MRIs faster, and now he can make her a silk gown. Pace, please leave one skill for the rest of the dating pool. I’m attracted, but I’m starting to feel the effort going into making him impossible to refuse.
 
-But when Meg said “you have to tell the shirt,” I actually thought, *please, I was there.* I’ve lived the hike, heard Vee tell Cassie, and now I’m hearing it again. The truck scene worked on me. Making me sit through everyone else being impressed by it starts spending that feeling. I did notice that these girls don’t get the part she gave Cassie—the deliberate invitation to watch her change. That feels right. She’s enjoying making a story of him while keeping something of herself back.
+The closed bedroom door got me more than most of that tour. She came in wearing underwear she wanted him to see, and he turned her away without knowing—or without showing he knew. That little drop in her stomach felt horribly familiar. And yes, him stopping the kiss while still visibly wanting her worked on me. I wanted her to get another chance to unsettle him. I liked him better explaining the codes, when I could actually hear his enthusiasm, than I did collecting another qualification for perfect boyfriend.
 
-Twelve days made me blink. Twelve days since the kiss? My body’s still practically in that truck, and apparently we’ve moved well past it. I’m with Kayla on the climbing-the-walls situation, although I’m beginning to want to direct that complaint at the book. We just had Randi and Pace, so the heat hasn’t vanished, but I want Vee’s wanting to get somewhere she can actually touch.
+Then the fabric appeared and I softened right along with her. Remembering something she’d already decided she couldn’t have, offering his actual time to make it: that reaches me. The missing tag in the shirt made me smile. But I also wanted to hold on to her first disappointment about the color for a second. She wanted a particular red. We get so quickly to him knowing what suits her better than she does, and with everything I know about these two, that doesn’t feel entirely comfortable.
 
-The invitation did get me. His house. I know what’s in his house. She’s sitting there with her friends worrying about hair, and I’m remembering the bench becoming ordinary furniture again. There’s a nasty little thrill in being excited for her and wanting someone at that table to know enough to interrupt. And after Randi leaving him last chapter, I’m wondering what he’s bringing into this afternoon that Vee won’t even know to ask about.
+And now I’m thinking about the warm house, the shut bedroom, the room full of daylight. He has arranged an afternoon in which she can say yes to being undressed in front of him because she wants something beautiful. I want the measuring scene. Absolutely I do. I also want to know how much of this he has discussed with Randi. That’s the itch under all the sweetness: which pieces of this lovely afternoon belong to Vee, and which have already been enjoyed in anticipation by somebody else?
 
-I’m ready for Saturday. I don’t need another person to hear about the shirt before we get there.
+The last line made my thumb move, but I did have a small “you’re stopping *there*?” reaction. We’ve toured the house; she’s said yes; I’m ready to stay in the room while something happens. Please let me have her nervousness and her appetite and his hands next, without another round of friends hearing how extraordinary he is.
 
-GATE 15 — What to Wear
+GATE 16 — Two Towels
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 8
+CAPTURE: 7
+NEXT: 9
 HEAT: 1
-ROMANCE: 1
-ALMOST-STOPPED: “Okay, but the shirt. You have to tell the shirt.”
-WHY: I like Vee loose and laughing with friends, but another account of the hike had me getting impatient. His invitation brings the wanting back sharply enough that I’m turning the page—and hoping we actually reach his door.
+ROMANCE: 2
+ALMOST-STOPPED: “Which is *time* — somebody sick, somebody scared, a kid who can't lie still, they get the same picture and they're out of the tube in a fraction of it.”
+WHY: The admirable-man pileup briefly had me rolling my eyes, especially with sewing still to come. But a dress fitted to her body, in that warm bright room, with all this deception underneath the tenderness—I want to be there for that.

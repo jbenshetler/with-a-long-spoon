@@ -1,5 +1,7 @@
 # Triage — Off Six-Fourteen
 
+> Merged into `scenes/dear.md` as the Saturday movement on 2026-10-23. Historical standalone notes and reader rulings below remain in force.
+
 ## Panel re-read after the {{May I Choose}} kiss went on the page, 2026-09-26
 
 Source: fresh grounded cold reads from all seven panel models and 21 capture

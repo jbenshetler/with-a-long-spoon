@@ -61,7 +61,7 @@ Established verbal signatures: the flat single-word return (declines the warm-co
 
 She is a **BBC-comedy devotee** (Red Dwarf, *The Hitchhiker's Guide to the Galaxy*) — the source of her deadpan-absurdist register, and what licenses the occasional Briticism in her mouth (*"tossers"* in `water-wings.md`). She is American; the Briticisms are affectation absorbed from the comedy, not an accent — use sparingly, never a running bit.
 
-***"Oh, Vee"* is her single moment of unguarded response** — reserve it. (Note: in `off-six-fourteen.md` it was deliberately *not* used — the moment there closes warm and the dread stays structural; the unguarded "Oh, Vee" is held for a beat that earns it.)
+***"Oh, Vee"* is her single moment of unguarded response** — reserve it. (Note: in `dear.md` (Saturday movement) it was deliberately *not* used — the moment there closes warm and the dread stays structural; the unguarded "Oh, Vee" is held for a beat that earns it.)
 
 ---
 
@@ -70,7 +70,7 @@ She is a **BBC-comedy devotee** (Red Dwarf, *The Hitchhiker's Guide to the Galax
 **Cassie registers structure, not character.** She perceives *arrangement, cost, wrongness-of-fit, her friend receding* — and reports them as flat observations or dry jokes, never as articulated accusations, because she can see the *readout* and not the *mechanism.*
 
 - **Her conscious warnings are all Randi-shaped.** She dislikes Randi, distrusts the friendship, smells the cost. This is legitimate conscious suspicion (Randi is the visible operator) and does not break anything.
-- **Her Pace-perceptions are subconscious only.** She has **no conscious read on Pace as a problem.** He does not alarm her; he sits in her blind spot the way he sits in everyone's. What leaks toward Pace is involuntary and *true sideways* — the state-troopers joke (`off-six-fourteen.md`) is the template: structurally the right question (*who is this man?* — nobody knows; the answer is a road number), conscious only as a gag.
+- **Her Pace-perceptions are subconscious only.** She has **no conscious read on Pace as a problem.** He does not alarm her; he sits in her blind spot the way he sits in everyone's. What leaks toward Pace is involuntary and *true sideways* — the state-troopers joke (`dear.md` (Saturday movement)) is the template: structurally the right question (*who is this man?* — nobody knows; the answer is a road number), conscious only as a gag.
 - **This protects the architecture.** If Cassie ever consciously fingered Pace as dangerous, she would become the reader's permission slip — *the smart friend saw it, so the women were naive not to* — which guts the central claim (the choosing was real; no villain was legible to a reasonable person). The available exits were real but **not because Cassie pointed at them.**
 
 **The meet-cute no-attraction line, framed.** Cassie's meet-cute observation — *"He looked at her the way you'd look at somebody's great-aunt"* — is **not a warning about Pace, and not a dehumanization of Randi** (Pace sees everyone fully; he does not reduce anyone to an object — earlier "like she was a chair" wording was revised out for exactly this reason). It is Cassie clocking that Pace showed Randi *none of the attraction a man shows a beautiful woman* — the not-a-prospect look (full personhood, zero desire), which Vee privately recognizes as the look men give Cassie. It functions as an **anomaly report** (a man unmoved by the most-looked-at woman present), with Cassie's read attaching to the *staging / Randi*, not to Pace's character. She is watching the visible operator and missing that there are two engines. (On the page it also holds the reader's open question — flawless discipline concealing the affair, or genuine only-eyes-for-Vee.)
@@ -141,6 +141,6 @@ Standard double with Vee — **bunk beds (Vee took the top without being asked)*
 
 ## Continuity Flags
 
-1. **Bunk-bed staging.** *(Resolved.)* Canon: bunk beds, Vee on top; Cassie's is the lower bunk. In `off-six-fourteen.md` Cassie sits on the edge of the lower bunk and Vee flops into the bean bag chair after her spin, staying there through the close — consistent with the top-bunk geometry.
+1. **Bunk-bed staging.** *(Resolved.)* Canon: bunk beds, Vee on top; Cassie's is the lower bunk. In `dear.md` (Saturday movement) Cassie sits on the edge of the lower bunk and Vee flops into the bean bag chair after her spin, staying there through the close — consistent with the top-bunk geometry.
 
 2. **No `meta-craft-cassie.md` yet.** If Cassie's on-page presence grows, split the voice/behavior material out of this doc into a craft file paralleling the others. For now this doc carries both.

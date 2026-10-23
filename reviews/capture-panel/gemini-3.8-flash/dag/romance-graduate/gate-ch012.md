@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch012 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2bcd8a499e1e · 2026-10-01*
+*capture-dag-v2-rich · gate ch012 · gemini-3.8-flash · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 60685a587d38 · 2026-09-27*
 
 REACTION
 
-Holy shit. My pulse is still hammering in my ears.
+Oh, Cassie. My chest aches.
 
-*That* is how you write an erotic charge. That truck scene took ten years off my life. It wasn't just hot; it was psychologically brilliant. The absolute genius of Pace knowing *exactly* who he’s dealing with. He steps out into the freezing mountain downpour to give her privacy—which is both a deeply chivalrous move and the most devastating piece of bait he could have possibly dangled in front of a girl like Vee. A lesser man would have hovered, or made a joke, or tried to help her out of her shirt. Pace just gave her the truck, gave her his only dry clothes, and walked out into the storm.
+This chapter is barely two pages long—literally a breath, a tiny exhale after the soaking, shivering intensity of the truck in chapter 12—and yet it did something so delicate to me that I stared at the last line for a full minute before I could blink.
 
-And Vee! God, Vee stepping directly into her own power, or what she *thinks* is her own power. Coming up onto her knees on that unbroken bench seat, rapping on the glass, crooked finger: *come in.* That entire sequence where she strips for him while keeping his eyes locked—and the internal battle where her mother’s voice is spitting the word *floozy* at her, and instead of shrinking, Vee uses that exact shame as fuel to press her thighs together and pull the fifth button open? *Exquisite.* That is the deepest, most honest understanding of female exhibitionism and the kink of transgressing good-girl conditioning I have ever read. She didn't want him to just see her body; she wanted him to see her *being bad.*
+First of all, I am obsessed with how Vee reports her dates to people. When she told Randi about the dinner, Randi turned it into a performance, a thrill, an erotic dare (*"let your mountain man ravish you against a tree"*). But with Cassie, Vee tells the raw, unvarnished truth: the blister, the sandwich eaten with pure animal joy, the sheer pride of getting up a mountain on her own two legs, and then... the stripping. And look at what Cassie does with it. Cassie is the only person who doesn't treat Vee like a game piece or a spectacle. She doesn't tease, she doesn't press for salacious details. She just listens. And when Vee confesses to knocking on that glass and taking her shirt off—exposing the very shame and flesh she’s spent years hiding—Cassie doesn’t judge her. She just says her name softly: *"like setting something down where it wouldn't break."*
 
-And his reaction! He didn't pounce. He didn't ruin the gift by grabbing. He sat there shivering, stunned by the gladness of it, his hand trembling when she reached for it. Pulling his freezing hand under the dry flannel and pressing it against her warm, bare belly? I gasped out loud. The sheer intimacy of that gesture felt filthier and sweeter than actual penetration.
+God. That line ruined me. Because Vee *is* going to break. We know she is. The trap is so tight now. She’s wearing his flannel, she thinks she chose every single second of it, she thinks she claimed her own sexual agency by calling him back into that truck—and she did, in a way, which is what makes the horror of Pace and Randi's plan so magnificent and terrible. Every yes *is* freely given.
 
-And the hike itself—Pace is terrifyingly good. Tending to her blister with moleskin without an ounce of pity or condescension. Teaching her the "leave no trace" rule with the cherry pits by quietly modeling it instead of scolding her. Feeding her horseradish that clears her sinuses and watching her eyes run. The man is systematically dismantling every single defensive wall she has built since puberty, and he’s doing it by feeding her, protecting her feet, and letting her lead the sexual pace.
+I usually get annoyed when chapters are this short—I’m trained on meaty, twenty-page romance chapters where scenes have a beginning, middle, and an end—but this didn't feel like a lazy shortcut. It felt like the quiet, sacred landing after a jump. Cassie telling her, *"Keep the shirt."* A blessing on something that is secretly a curse.
 
-And then that campus cop cock-block at the very end! Dropping her off in the red zone, the siren squawking, him having to pull away before she can even speak the thing she was holding. She’s left standing under the dorm overhang, drenched, wearing his oversized flannel, smelling like his soap and his bag, clutching her soaked shirt in her fist like a trophy. She is completely, utterly ruined for anyone else now. She belongs to this dynamic.
+I need to see where this goes next. Is Randi going to see her in that flannel? Does Pace go back to Randi now to report on the hike, the way he did after the froyo? Because if Pace tells Randi that Vee stripped for him in the truck... Randi is going to lose her absolute mind.
 
-GATE 12 — Leave No Trace
+GATE 13 — Rye
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 8
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension in the truck when she stripped for him while actively using her mother's shame-voice as an aphrodisiac was absolute perfection. The psychological calibration between his patient restraint and her desperate hunger to be seen made this one of the hottest scenes I've ever read. I need the next chapter right this second.
+WHY: It was short as a whisper, but the emotional intimacy between Vee and Cassie gave me chills. The contrast between Cassie’s tender grounding and the spiderweb Vee is tangled in makes me desperate for the next chapter.

@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch014 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · 2026-10-21*
+*capture-dag-v2-rich · gate ch014 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · 2026-10-21*
 
 REACTION
 
-OH MY GOD. This book is a fucking scalpel.
+Okay, first of all, *twelve days*?! It has been twelve days since the kiss under the tree, which means Pace has been slow-roasting this poor girl for nearly two weeks without laying a finger on her, even after she stripped in his truck! No wonder she is climbing the walls. That line — *"I'm the one who can't think straight, climbing the walls over a man asking me what I want for dinner"* — is the exact thesis statement of Pace's whole seduction style. He doesn't push, he gives her total control over the small things, and it creates a vacuum that makes her desperate to throw herself at him.
 
-First of all, the heat is back in a big way, and it is *so* messed up and so hot at the same time that I don't even know what to do with my hands. Randi walking in, locking the deadbolt, not even putting her bag on the chair by the door (which Pace notices and sets aside—idiot, don't set that aside!!), and just marching him backward into the bedroom to ride him while demanding details about Vee... I was holding my breath. The way she sinks down on him an inch at a time making him watch her face, and then whispers *"Tell me"* in his ear. And Pace gives her the exact sensory details that are going to ruin both of them: the gardenia and warm musk on Vee's throat and lower, the shampoo and the faint hint of chlorine from the pool. And Randi tightening around him and letting out that thin laugh that isn't her laugh! Because she's turned on out of her mind by the smell of Vee, and also probably dying inside.
+I did feel a tiny twitch of impatience when I realized this was *another* post-hike debrief scene. We just had Vee tell Cassie about the flannel shirt in Chapter 13, and now we're watching her tell Meg and Kayla the PG-13 version of the exact same story (Notice how she left out unbuttoning her wet shirt in front of him! She told Cassie the real truth, and she gave her dining-hall friends the curated rom-com version). Normally, hearing the same date recapped twice would make me skim, especially introducing three new college kids (Meg, Kayla, Theo) fifteen chapters in.
 
-And then the line that made my stomach drop through the floor:
+Except... seeing Vee in her normal, low-stakes friend group actually did something to me. She’s laughing with her whole body, stealing fries, being a normal twenty-one-year-old girl whose friends are hyped for her, and it made the shadow of what Pace and Randi are doing feel so much heavier. Especially when Meg smiled into her mac and cheese and said, *"Everybody's different at the start... Sometimes they even are."* Oof. And Kayla joking, *"That's not a message, that's a ransom note"* about Pace's text! I almost gasped out loud. You have no idea, Kayla.
 
-*"Her stomach is soft."*
+Also, filing away the fact that Pace is an actual powerlifter who lifts first thing every morning and writes math for six hours until his brain taps out. That tracks *so* hard with the way he's built and the way he compartmentalizes.
 
-AND THEN THE NARRATION RIGHT AFTER IT: *"under the heel of his hand where it rode her hip her belly had gone tight as a board with the work of it. He took it for the want — too big for her, come down on him with nowhere else to go. If it was something else he could not have said what."*
+And now: *Would you come to my house Saturday. Two o'clock.*
 
-I literally gasped out loud. For a girl raised by an egg-white-and-tofu mother, who drinks bruise-colored beet-and-wheatgrass sludge at the Smoothie Bird and polices every single bite she puts in her mouth—hearing the man she's sleeping with say, in the middle of sex, that the other girl's stomach is *soft*?! While he is secretly hoarding the memory of Vee unbuttoning her wet shirt in the truck and pressing his freezing hand against her warm, soft belly?! No wonder Randi clenched around him with her eyes shut and her nails in his chest! No wonder her stomach went tight as a board! She's sucking her stomach in while fucking him harder to erase Vee, or to claim him, or to punish herself, and crying *"I want us"* at his ear—*us*, just the two of them, or all three of them?—while Pace, the brilliant mathematician, is once again completely, catastrophically misreading her!
+"There's no meal at two, Vee. He's not asking you over to eat. He wants you for the afternoon." My stomach literally dropped in the best way. She's going to the house off 614. The house where Randi just rode him to pieces and fled into the night. The house with the bench in the bedroom. Saturday at two o'clock cannot get here fast enough.
 
-He thinks it's all just the kink! Even when she skips cuddling, refuses food ("No thanks" bright from inside her camisole while he's starving), gets dressed, and walks out the door for the first time since they started sleeping together, he stands there telling himself *"It was the want, he thought; she had come for it and got it, more than she could lie still under."*
-
-Yet for the very first time, Pace feels the sting of it. That ending—him standing in the doorway with the cold coming in and "something in his chest he had not been ready for, low and plain, that she had not wanted to stay," and then eating alone at his table and making more food because he's still hungry—holy shit. He actually cares about Randi. He isn't just a cold puppeteer; he has real tenderness for both of them, and he's keeping Vee's sacred little secrets from Randi (first the froyo confession, now the truck strip-tease) while feeding Randi just enough to break her heart without realizing she broke her own heart weeks ago on that bench.
-
-This is everything I ever wanted from a "literary erotica" label. Every single physical detail in that sex scene was doing double and triple emotional duty. Give me Chapter 15 immediately.
-
-GATE 14 — Swim Lanes
+GATE 15 — What to Wear
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 7
+NEXT: 9
+HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Explicit, scorching sex where every single thrust and whispered line is loaded with psychological shrapnel. Watching Pace say "Her stomach is soft" to a girl with an eating disorder whose belly is "tight as a board" under his hands—and watching him keep Vee's truck moment a secret while aching when Randi leaves—is peak drama. I couldn't put this down if my house was on fire.
+WHY: Even though recapping the hike and the flannel shirt a second time felt a little repetitive at first, seeing Vee edit out the strip-show for her normal friends — and hearing her admit she's losing her mind from Pace's patience — worked on me. Plus, that text at the end ("Would you come to my house Saturday. Two o'clock.") has me desperate for the next chapter.

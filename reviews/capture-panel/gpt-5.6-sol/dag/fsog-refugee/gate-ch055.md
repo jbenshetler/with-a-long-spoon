@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha cf3b0e619e49 · 2026-10-11*
+*capture-dag-v2-rich · gate ch055 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bb2635a8b1b0 · 2026-10-11*
 
-REACTION — Oh, this was wickedly hot. Vee discovering that she can command him—and that he will stop on a lifted palm, wait for the pointing finger, follow exactly where she sends him—hit every single thing I come to this genre for. She is not being performed upon. She is playful, vain, hungry, powerful, ridiculous with happiness, and completely inside her own desire. “Outranked, and not yet informed of the new order” delighted me. So did the burnt toast. So did *feed me first*. Watching Pace’s famous control come apart because she chooses to make it come apart is glorious.
+REACTION
 
-And then the moment that mattered most: she says “gross,” he starts withdrawing immediately, she clarifies that she does not want the sex to stop, and he understands the distinction. He does not argue with her reaction, shame her, tease her through it, or keep trying to kiss her until she gives in. He leaves her mouth alone until she takes his mouth back herself. That is exactly the man I wanted Pace to be—the control is real because the listening is real. Her body’s curiosity remains hers, too. She reaches before the old prohibition catches her; later she goes looking again. He does not manufacture that discovery for her after she objects. He makes room, and she returns on her own. God, yes.
+Oh, this is the thing she was asking him for. Not the word, still not the word—and I have absolutely not forgotten that—but a place in his life that exists outside his bedroom. He wants her people. He wants the whole noisy, inconvenient collection of them, including the ex-almost-date, and he has been quietly remembering their names and their boots and their ridiculous phrases all fall. That got me. “Tables have ends. Somebody ends up at one” got me badly. He is not merely tolerating the life attached to Vee’s body; he has been listening closely enough to want to enter it.
 
-The tenderness wrecked me almost as much as the heat: the sweats folded at the foot of the bed, bread timed to greet her awake, the real cream, the sugar bowl he keeps full while pretending to disapprove, the tea placed beside her without asking. His care is so particular to *her*. And Vee turning “pleasure slave” into “pleasure princess” was funny, sexy, and strangely moving. She is finally understanding that surrender in this house has not meant being reduced. She is lavishly served.
+And she listened back. The Chili’s memory rose, and instead of making his limitation into rejection again, she trusted him to choose somewhere he can actually be present with her. “Let me handle it” landed differently because this time she is not surrendering the question. She is giving him a real need she has understood, and he is taking responsibility for making the shared thing work. That feels like care moving both directions.
 
-But I am furious underneath all that pleasure, because the chapter is also showing me exactly how the larger betrayal works. Pace honors a no perfectly when it concerns her mouth, while still keeping her inside a relationship whose shape she cannot consent to because he and Randi will not tell her. Vee has gone from “not the hand in place of the word” to deciding that nothing needs saying because his hands, mouth, food, and care feel so good. The book knows what it is doing—I can hear the danger in her tidy explanations—but I cannot let the heat make me forget that this is precisely the anesthesia she had finally refused.
+But God, the second she said “the three of us,” every alarm in me went off. Because she thinks she is introducing her two favorite people, and they are going to have to perform meeting while hiding that they have been lovers and co-conspirators all along. That is grotesque. Pace adding Cassie, Meg, Kayla, and Theo made me breathe again because it widened the occasion out of the secret three-person shape. It feels genuinely like he wants Vee’s world, not merely access to Randi under cover. Still, Randi will be standing in that room pretending, and I am going to feel every lie.
 
-And that cashmere blanket. No. I know whose blanket that is. Vee lies under Randi’s after-sex blanket believing it appeared for her, reading it as Pace’s silent gift, while planning to tell Randi about the weekend. That hurt. It is the whole hidden structure in one object: genuinely soft, genuinely comforting, and carrying a history Vee has been denied.
+Also: Vee is sitting naked at his table, drinking wine and talking endlessly at his back, and somehow this was more intimate to me than another explicit scene. This is the warmth I came for. I want the gathering desperately, and I dread it. If Pace uses this beautiful gesture to advance the hidden game instead of finally telling her the truth, I may throw the book.
 
-The line that chilled me most was “Randi always did.” Because yes, Randi will know exactly what to make of Vee’s curiosity. Randi already knows what Pace likes; she helped direct Vee back into his bed; she supplied the shoes; and now Vee will bring her this intimate new question believing she is consulting her miraculous best friend. I can see the next stage of the plan assembling itself, and after this chapter’s exquisite demonstration of real moment-to-moment consent, any covert steering will feel even uglier.
-
-I am breathless, turned on, delighted by Vee, tender toward Pace, and still angry enough to bite through glass. Tell her. Both of you, tell her before you use one more beautiful thing she freely wants as evidence that the secrecy was justified.
-
-GATE 56 — Missed a Spot
+GATE 57 — Back
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: “She had everything she had driven out through the cold to get.”
-WHY: The sexual dynamic was nearly perfect for me: Vee commanding, Pace obeying, and her no treated with immediate, exact care. But she still does not have the truth, and now she is about to carry her newest desire straight to the woman secretly helping orchestrate it; I need the next chapter immediately.
+ALMOST-STOPPED: none
+WHY: Pace remembering the tiny facts of Vee’s ordinary life and wanting every one of her people is the daylight belonging she has been starving for. I’m deeply moved—and deeply suspicious, because he and Randi will be walking into that room with a shared history Vee still does not know exists.

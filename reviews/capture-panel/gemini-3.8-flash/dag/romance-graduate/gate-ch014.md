@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch014 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · 2026-10-11*
+*capture-dag-v2-rich · gate ch014 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 25b7bedbae77 · 2026-10-01*
 
 REACTION
 
-Holy shit. The whiplash between Vee sitting in that dorm room hugging his giant flannel like a security blanket and Randi walking into his house, stripping down, and riding him like an exorcism just about knocked the wind out of me.
+Oh, the sheer *dread* sitting right under the surface of this chapter is exquisite.
 
-Randi is *spiraling*. She came in there like a woman on fire, starved and panicked and trying to fuck the ghost of Vee right out of Pace’s head—or consume her through him, I can't even tell which one it is anymore. When she held him inside her and demanded *"Tell me,"* and he fed her the gardenia and the chlorine? Jesus. The filth of it, the absolute betrayal, but also the sheer psychological twistedness of it. She is using him as a proxy to touch Vee, but at the exact same time, every detail he gave her was a blade.
+On the outside, this is the most normal, bubbly, recognizable college-girl dining hall scene imaginable. The stolen fries, the girl talk, the dissection of texts, the friend calling out that a two-word invite is basically a ransom note ("That’s not a message, that’s a ransom note" made me snort out loud). It’s so light, so warm, so completely grounded in Vee’s everyday life. But because of where we just were in Chapter 14—watching Randi ride Pace until she broke, hearing Pace feed Randi the sensory details of Vee’s hair and body like raw meat, seeing Randi unravel from the inside out—every single laugh in this dining hall feels like a bell tolling.
 
-Because Pace *didn't* tell her everything. Look at what he withheld: *"Her stomach is soft."* He didn't tell her *how* he knew that. He didn't tell her about Vee stripping down in the cold cab of the truck, offering herself up to be seen. He kept that sacred, private little altar for himself, and gave Randi just enough blood to keep the beast feeding. And when he said Vee's stomach was soft? Randi’s belly went *tight as a board*. The comparison instantly poisoned her. She starves herself, counts apple slices, keeps herself hard and armored and flawless—and here is this boy, quietly undone by a girl who is soft and real.
+I love what Vee keeps for herself, too. Notice how she edits the story for Meg and Kayla? She tells Cassie the truth about stripping in the truck, but for the dining hall friends, it’s the clean, movie-version meet-cute: *He gave me his shirt and stood in the rain.* She’s hoarding the real heat, keeping it close to her chest. And the fact that she’s "climbing the walls over a man asking me what I want for dinner"—god, that speaks so directly to the kind of emotional deprivation she’s lived with. It’s not just that he’s hot; it’s that his courtesy feels like a kink all on its own.
 
-And then Randi running. Skipping the aftercare, not sleeping over, getting dressed the second the come-down hit her, leaving him standing in the cold doorway. She’s terrified. She lit this match thinking it was a fun little kink to satisfy an itch she’s too repressed to face, and now she’s realizing she just handed the man she sleeps with a girl who might actually ruin him for her. "I want us," she cried out, and Pace thinks it's about him, but it's not. It's the panic of a woman watching the walls cave in.
+And now, Saturday. Two o'clock.
+"He's not asking you over to eat. He wants you for the afternoon."
+Kayla has no idea how right she is, and neither does Vee. She thinks she's going over for some domestic next step. I am sitting here sweating because *we* know what's in that house. We know the bench disguised as a bedroom table. We know Randi’s tire tracks are barely cold on the gravel cut. We know he's inviting her into the lion's den, and he gave her literally zero instructions so she has to arrive completely exposed, entirely at his mercy.
 
-I feel sick for Vee, I feel electrified by how messy and sharp this is, and I need the next chapter yesterday.
+This was a classic bridge chapter, but it worked like gangbusters because the dramatic irony is ratcheted so tight you could play a tune on it. My stomach is in knots for Saturday.
 
-GATE 14 — Swim Lanes
+GATE 15 — What to Wear
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 10
-HEAT: 3
+HEAT: 0
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological warfare happening through the sex in this chapter was completely breathtaking. The contrast between Vee's sweet vulnerability and Randi's desperate, manic unraveling makes the tension almost unbearable in the best way.
+WHY: The contrast between the breezy, funny dining hall chatter and the absolute freight train Vee is walking directly into is pure tension. Kayla pointing out that two in the afternoon isn't lunch or dinner made my stomach drop—I need Saturday to happen immediately.

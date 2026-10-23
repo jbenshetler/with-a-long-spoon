@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch056 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bb2635a8b1b0 · 2026-10-11*
+*capture-dag-v2-rich · gate ch056 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 213059ecdcb4 · 2026-10-11*
 
 REACTION —
 
-Oh, this was such a relief chapter for me. Not relief like everything is fixed, because I do not believe that yet, but relief like: yes, this is what I needed to see after the door and the coat and the frenzy. Them back in the ordinary rhythm. Him washing dishes, her naked at the table with wine, talking too much, his back listening. That is exactly the kind of intimacy that keeps me in a book like this. Not just the sex. The after. The pattern. The place she has in his house.
+Oh, this was such a relief chapter. Not huge, not explosive, not one of the ones where I’m gripping the book, but I needed it. I needed Vee back in the room with Cassie, with the radiator clanking and the dumb dorm smells and the window cracked open like a little act of rebellion. After all that naked, aching, house-as-kingdom intensity, I liked seeing her bring the weekend back into ordinary air and still have it glow.
 
-And God, Pace remembering Meg’s boots got me. That tiny thing. That is the kind of man I want in this genre: not a man performing obsession in big thundercloud gestures, but a man who has been quietly storing the names of her people because they matter to her. It made me soften toward him again in a way I almost didn’t want to, because I’m still mad at him for the words. But this is his language, and the chapter knows it. He is not saying “I love you,” but he is saying, “I know who Kayla is. I know Cassie needs a different kind of room. I know your life extends past my door, and I want to enter it carefully.”
+And Cassie, God. Cassie is so good for her because she doesn’t grab at the story. She gives Vee the whole front of her attention, lets her gush, lets her lie a little by omission, lets the absurdity have room. The “Pace shrank your sweater” bit killed me because of course Vee cannot tell the actual version of “I had no clothes because I arrived under a coat like a walking dare,” so her brain invents this laundry catastrophe and Cassie just looks at it, sees exactly the shape of what’s missing, and lets it be funny. That laugh felt intimate in a completely different way from Pace or Randi. Like: here is a friend who knows when not to ask.
 
-The Cassie beat was especially good because Vee catches herself. Her first instinct is Randi, of course it is Randi, and I felt that little gold flare with her. But then Pace says Cassie, and the imagined dinner has to grow up. Vee realizes love is not just putting your favorite people under a pretty light and hoping they behave. It is choosing a place where no one has to be diminished to fit. That felt like a real sign of her becoming more awake, not just sexually but socially, emotionally. She can see the room now before she hurts someone in it.
+I’m still warmed all through by the fact that Vee can be happy in the dorm shower after Pace’s house. That matters to me. She isn’t erased by him. She can come back from that abundance and still love the draft and the bean bag and Cassie’s awful family-cookie report. She has a life. She has places to belong. That makes the romance feel safer, honestly, because Pace is huge in her now, but he isn’t the only room left standing.
 
-And Randi being the first name in her head still has me tense in the best/worst way. Because Vee wants the three-person dinner without knowing the third game underneath it. Pace asking for “your people” could have been so loaded, and maybe it is, but the chapter lets it be cleaner than that on the surface. He asks for Cassie. Meg. Kayla. Theo. He doesn’t narrow her life down to the woman he and Randi have been imagining with her. That mattered to me. It made him feel less like he was steering her toward Randi and more like he genuinely wants Vee entire.
+The little note about Cassie’s mother thanking her for the card got me unexpectedly. Vee has been so hungry to be chosen and named, and here is this quiet family-adjacent warmth waiting for her too. No drama, no seduction, no performance: somebody’s mother remembers her and wants to see her again. It made me ache a little, because Vee tries to make it tiny and Cassie hears that it isn’t tiny and just closes the subject before it spills. That is such care.
 
-And Theo. I loved that he just said bring Theo. No possessive flare, no little jealous punishment, no masculine nonsense. Just: bring Theo. That is hotter to me than a growl would have been here. Confidence without ownership. Room without indifference.
+I did miss Pace and Randi physically on the page, but not in a bad way. This felt like breathing after a long held breath. And also, I am watching the Randi omission. Vee is still going to tell Randi “nearly everything,” and Cassie gets the safe comedy version. That’s true to the relationships, but it also keeps the triangle loaded. Cassie is the ground. Randi is the fuse. Pace is the fire. I want all three in the same room now, badly.
 
-This chapter is quiet, but it did a lot for my trust. I still need the words. I am not letting him off that hook. But I believe more, now, that when he says “let me handle it,” he means he will build a room where her people can arrive as themselves. And I want to see that room very badly.
-
-GATE 57 — Back
+GATE 58 — Unpacking
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
 HEAT: 1
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was not a hot chapter in the obvious way, but it was deeply romantic to me: his listening made visible, her realizing what care requires, and him wanting the whole orbit of her life instead of just the private version. I still need him to come through with language eventually, but right now I absolutely want the gathering he is about to make.
+WHY: This was soft landing, not a page-burner, but it made me trust the book more because Vee still has a whole ordinary life around the erotic one. Cassie’s quiet knowing and the mother-card moment gave me real warmth, and now I want the social worlds to collide.

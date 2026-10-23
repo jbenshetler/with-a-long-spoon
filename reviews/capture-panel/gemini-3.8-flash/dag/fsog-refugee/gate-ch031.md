@@ -1,32 +1,22 @@
-*capture-dag-v2-rich · gate ch031 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6e62cd46bbc6 · 2026-10-01*
+*capture-dag-v2-rich · gate ch031 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 5274d9c5fd04 · 2026-10-01*
 
 REACTION
 
-Oh, this was *gorgeous*. This was the exact medicine I needed after the ache and prickle of the country bar.
+Oh my god. My jaw is on the floor. I literally had to put my hand over my mouth in that practice room.
 
-First of all, her showing up in Randi’s heels and the borrowed silk scarf, holding a supermarket pie labeled "HUMBLE PIE" printed out on the stats lab adhesive paper—that is *so* exquisitely, painfully Vee. The clumsy, brilliant armor of a girl who is terrified of being nakedly penitent. And then the heels make her an inch taller than him, and you can feel her stomach drop through the floorboards because she thinks she’s broken the cardinal rule of her own feminine deferral. But Pace—god, Pace’s brain! *“Beauty like yours made for the gods and loaned out — I'm not going to insult the loan by complaining I have to look up.”* He doesn't just dismantle her panic; he makes room for her whole presence. He lets her be tall. He takes the pie so her hands are free. And when she tries to run her little rehearsed "clean machine" speech, he doesn't punish her, but he doesn't let her hide behind it, either. *“What happened?”* Just genuine, unbruised curiosity. When she broke down and admitted what the blonde said—that ugly, sickening insinuation that his care is just a calculated snare—and he just tipped her chin down and said, *“Thank you for telling me what she said.”* No defensiveness. No wounded ego. Just immense, steady gratitude that she trusted him with the truth.
+The psychological game Randi is playing right now is breathtakingly dangerous, and Vee is walking right into it like a lamb with a bell around its neck. But what makes it so intensely hot—and so completely terrifying—is that Vee isn't being pushed; she is *pulling*. Vee is the one who grabbed Randi’s wrist! Vee is the one who wanted to go somewhere private to spill her guts! And Randi, like the absolute master predator she is, just gently set the bait, sat back in that battered chair in the soundproof cell, and let Vee unravel herself.
 
-And then the kitchen. The kitchen!
+The way Randi drew that detail out of her—*“His hand was wet... so his hand was wet”*—and then immediately normalized it, fed it, and gave it a name by telling her own story. *“Over his knee. Like a naughty little girl. Skirt up. Panties down.”* Randi knew *exactly* what she was doing. She knew what Pace built in that bedroom (the bench disguised as a table), she knows Pace’s tastes, and she is actively prepping Vee's mind and body to accept what’s coming next from Pace, all while stoking Vee's arousal right in front of her.
 
-This is what I live for in this genre, right here on this page. It wasn't planned. It wasn't a dungeon scene with negotiated implements and heavy theatrical breathing. It was Sunday morning domesticity, dishwater and bare feet and her nagging him about "the soak," teasing, swatting his ass—and him swatting her back in the playful scuffle. And that *one* open-handed crack across her bare backside waking up something entirely unintended, wild, and shocking inside her.
+And Vee having to literally bolt to the bathroom because she is *soaked through* just from Randi talking about being spanked and touched? Having to physically pin her own hand to her knee so she wouldn't touch herself in a campus restroom stall over a story another woman just told her? God. The heat in this chapter was completely psychological and completely off the charts. It's that simmering, unspoken triangle where Vee still thinks these are two separate, miraculous relationships in her life, and both of them are quietly carving out the exact shape of her surrender.
 
-The psychology of her reaction was breathtaking. The instant tightening of her nipples, the shock, and the desperate, frantic scramble to cover it up with sex and chatter because if she doesn't name it, it isn't real. She takes him to bed to hide from what just happened, riding him, talking nonstop to keep the room from asking questions. But he *knows*. He saw the look on her face. And instead of pinning her down or forcing the issue, instead of demanding she perform submission for him, he just… places that heavy, warm palm right over the sting. Not hitting her again. Just holding the heat. Grounding the wire.
+I’m watching the trap snap shut and I cannot look away. It’s so intimate, it’s completely rooted in Vee's own awakening appetite, and the tension of when the shoe is finally going to drop is almost unbearable.
 
-*“This?” he said, into her hair.*
-
-The absolute perfection of that question. That is what real dominance looks like. He doesn't presume; he doesn't force a label onto her before she's ready to bear it; he just offers the pressure and watches to see if she leans into it. And she breaks on it. *“Please.”* It’s messy and involuntary and completely consensual in the deepest sense: she is discovering her own appetite right alongside him, terrified and undone, and he is holding the shape of the container so she doesn't spill over.
-
-And then the Monday morning rush, her hair a disaster, feeling overwhelmed and out of place, and he just gathers the hair at the nape of her neck and murmurs, *"You're always beautiful."*
-
-My heart is completely full. I have zero notes. I just want to keep living inside this weekend.
-
-***
-
-GATE 32 — A Recognized Method
+GATE 33 — The Practice Room
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The absolute masterclass in pacing, psychological truth, and tender dominance—from the accidental swat at the sink to his hand simply holding the sting while asking "This?" It gave me everything I read this genre to find.
+WHY: The sheer psychological tension in that soundproof practice room was incredible; watching Randi gently draw Vee's deepest desires to the surface while Vee has no idea how orchestrated it is had me completely hooked.

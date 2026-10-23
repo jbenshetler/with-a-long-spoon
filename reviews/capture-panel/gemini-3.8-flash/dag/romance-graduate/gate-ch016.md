@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch016 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 414026fd7d01 · 2026-10-01*
+*capture-dag-v2-rich · gate ch016 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-01*
 
 REACTION
 
-Oh. My. God.
+Holy shit. Holy *shit*. My hands are actually shaking a little bit typing this out. I have read a thousand dirty books, I have read every variation of billionaire-in-a-penthouse ripping off lace panties you could name, and I don't think I have *ever* read a scene that made my stomach drop and my face burn the way this measuring tape scene just did. It is a full-blown masterclass in tension. The sheer psychological cruelty of how kind he is being to her—it’s breathtaking.
 
-The title of the chapter is literally "Two Towels" and my stomach completely dropped the second she walked past that bathroom. Two towels on the rod. The closed bedroom door with the bench sitting under that removable oak top. The heat turned up too high in the house—he didn't leave it on by accident, he kept it warm because he knew she’d be stripping down. And Vee, sweet, completely undone Vee, just filing it away as "the small mysteries of him." I feel sick and utterly thrilled at the exact same time. The dread in this book is so thick you could carve it with one of those worn kitchen knives.
+That moment where she’s standing on the box, soaked through her panties, paralyzed by the generational, sickening mother-shame of being "too much" and leaking and wanting, and she screws her eyes shut waiting to be mocked or politely ignored? And she forces herself to open them, and he is just *looking up at her, smiling like he was given a present*? I felt that in my marrow. It’s the exact medicine Vee has been starving for her entire life, and it is being fed to her by a man who literally set the thermostat three hours early so her bare skin wouldn't get goosebumps.
 
-And Pace. Jesus Christ, Pace. The sheer, terrifying genius of this man. He doesn’t push her into the bedroom. He lets her lean toward the door, lets her wonder, and then gracefully steers her right back into the light. He denies her the cheap, easy hookup she braced herself for—the one she wore her good satin for—and instead offers her something infinitely more intimate, more exposing, and ten thousand times more dangerous: *I want to look at you, touch you, measure every inch of your body in broad daylight under a wall of glass, and make you something to wear.*
+And the restraint! That’s the part that is completely ruining me. He doesn't pounce. He doesn't shove her down on the table. The "keep still" after he pricks her and kisses the bead of blood off her ribs? God. He chose the dress. He chose the ritual. He is torturing her with pure, bespoke, courtly attentiveness. He’s taking her deep-seated horror of her own appetite and turning it into an offering, making her hold still while he literally crafts armor out of silk for her.
 
-He tailored the color to her hair and skin, not the magazine clipping. He remembered the throwaway wish she made on a mountain while spitting cherry pits. That is a bespoke psychological trap. It’s romantic enough to make a girl weep, and it’s a masterclass in breaking down every single defense she has against being seen. She spent her whole life hiding her curves in oversized cardigans, terrified of being "too much," and he’s going to have her stand in her underwear in the middle of a sunlit sunroom while he runs a tape over her ribs.
+And the worst, most delicious part of the whole thing is that I know *why* he's doing it. I know about the bench under the tabletop in the other room. I know Randi is out there somewhere, unraveling because she couldn't take being seen, while Vee is up on this pedestal blooming under the exact same spotlight. Vee thinks she's discovered her own power—pressing her breast to his cheek, teasing him, making him flush—and she *has*, in a way, but she’s also stepping so deep into his architecture that she’s never going to find her way out. When this trap snaps shut, it's going to destroy her, and it's going to destroy me right along with her. Give me the next chapter immediately.
 
-When she realized *he made the flannel shirt*—the one she’s been sleeping in, the one without a tag—I actually gasped out loud. The level of care, the quiet obsession disguised as simple competence... it is lethal. He builds the redundancy in so the message survives the noise. He literally told her his whole methodology over a math book and she thought it was just a cute conversation about dogs barking.
-
-The bedroom door stayed shut today, but the trap just clicked closed around her ankle and she smiled while it happened. I need chapter seventeen immediately. I need to see how he touches that tape to her skin.
-
-GATE 16 — Two Towels
+GATE 17 — A Round
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension between the domestic, courtly romance Vee thinks she's experiencing and the cold, voyeuristic architecture we know is waiting for her is practically unbearable. The measuring tape gambit is absolute psychological genius, erotic without a single stitch of clothing coming off yet. I cannot turn the page fast enough.
+WHY: The tension was so thick I could barely breathe. The way this book weaponizes patience, gentleness, and shame into pure erotic charge is unbelievable. I am completely locked in.

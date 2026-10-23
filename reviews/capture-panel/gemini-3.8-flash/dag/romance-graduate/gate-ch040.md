@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch040 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 38dcf8e44cd8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch040 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 97724b44da95 · 2026-10-01*
 
 REACTION
 
-God, the sheer, agonizing *dissonance* of this chapter. It is utterly delicious and makes my stomach hurt with pure anxiety.
+I am genuinely breathless. The psychological trap being sprung here is so breathtakingly elegant, so soft, so completely bathed in mimosa gold and dark green velvet, that watching Vee walk into it with a smile on her face is like watching someone happily set fire to their own house because they love the warmth.
 
-*“He’s all mine,” she thought.* Oh, Vee. Oh, you poor, sweet, utterly ruined girl. My heart literally sank when that line hit the page. She is lying there in his bed, sated down to the marrow, thinking she’s the center of his universe, while he is meticulously staging her body like a vintage pinup. And the way he posed her! It wasn't just taking a naked picture; he literally rearranged her limbs, kissing every joint as he set it—the shoulder, the hip, the knee—turning her into an object d'art. He has her so totally, completely compliant that she doesn't even realize she’s being curated. And then the chilling irony: *“Only if you promise you’ll never share me with anyone.”* / *“Never. I’d never share your photograph.”* The technical truth of that answer! He won't share the *photograph*, maybe, but he and Randi literally arranged her like a chess piece before she even knew his name. It’s devastating.
+*“Only if you promise you’ll never share me with anyone.”*
+*“Never. I’d never share your photograph.”*
+That was literally LAST CHAPTER. Pace promised her he’d never share it, and the absolute tragic irony is that he doesn’t have to—Vee handed it over *herself*. She handed her fully naked body, posed by Pace's exact hands, straight to the apex predator who is sharing a key to that man’s front door. The way Randi played her was absolute masterclass cruelty disguised as sisterhood. Pushing the phone back just enough so Vee felt the sting of holding back, the casual little scoff of *"Legs like yours, though—and you only gave him half?"* It’s so diabolical because Randi knows *exactly* which buttons to press. Vee has spent her entire life feeling awkward, oversized, starving, and ignored; the moment you challenge her courage or her desirability, she will bare her entire soul—and her entire body—just to prove she’s enough.
 
-And then the kitchen. The sheer sensory overload of his cooking never gets old—the hiss of the pan, grating the yellow off the lemons, crushing the garlic under the heel of his hand, swirling butter off the heat into silk. He has trained her palate the exact same way he’s trained her body: she can’t just *eat* anymore, she has to taste every distinct layer. He has made her sensitive to everything, and she credits him for all of it.
+And that breakdown over the eggs Benedict? My God. *"We have so much sex, Randi... Is something wrong with me? Am I getting greedy? Am I turning into some kind of sex pervert?"* My heart broke in two while my skin was prickling with heat. She is confessing her deepest, most shameful awakening, the sheer terrifying *volume* of her appetite, to the woman who designed the menu. When Randi gave her that bath-warm absolution—*"You're just finally hungry out loud... And if you're a sex pervert, you're my sex pervert"*—it felt so intoxicating. You completely understand why Vee is hooked. Randi isn’t just a friend; she is the mirror Vee has been dying to see herself in her whole life.
 
-Then that little tripwire at the end: *“I don’t go back.”* That flat, shut door about his family. For a split second, the master puppeteer showed the cold, reinforced steel underneath the warmth. There’s genuine damage there. And bringing up Sheri for Thanksgiving! Vee feels that tiny prick of territorial jealousy, only to instantly fold it away into pure pity because “she’s alone.” Vee has no idea Sheri knows *everything*. Sheri knows about Randi, Sheri laughed at the disaster coming for Pace’s two-timer life, and now Sheri is going to sit at that exact table eating store-bought pie while Vee is away. The web is so thick around her now, and she is so happy inside it.
+Then that kiss on the sidewalk. *Vee leaned in for the extra second.* The shift is happening. The jacket said she wants the woman across the table as surely as the man behind the door, and here it is: the physical gravity taking over. Randi paused, caught off guard for just a fraction of a beat, staring into Vee's eyes because the prey is walking toward the teeth voluntarily now.
 
-GATE 41 — In His Hands
+And meanwhile, Cassie is being pushed completely out of the frame—"with that oddball Wardy"—while Vee signs up for a spring semester class with Randi so they can lock in their Tuesdays and Thursdays. The web is spinning tighter and tighter, and Vee is driving back out to Route 614 humming to herself, thinking she's the luckiest girl in the world. I need the floor to drop out from under this. I am terrified and I cannot look away.
+
+GATE 42 — All the Time
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 10
 HEAT: 2
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The absolute masterclass in dramatic irony is suffocating in the best way. She thinks she owns him completely while promising nudes to a man who is actively concealing an entire shared life with Randi.
+WHY: The manipulation is operating at an absolute genius level; watching Vee hand over her fully uncropped nude photograph to Randi right after making Pace promise to never share it made my stomach drop through the floor.

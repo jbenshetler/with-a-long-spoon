@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch015 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1ce3e8ef8f1d · 2026-10-10*
+*capture-dag-v2-rich · gate ch015 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 414026fd7d01 · 2026-10-10*
 
-## Reaction
+**REACTION**
 
-Okay. Saturday, two o'clock, his house. The bench is in that house. Kayla saying "There's no meal at two, Vee. He's not asking you over to eat" made me sit up in bed, because she's right and she has no idea how right. I know what's in that house. I know Randi was in that bedroom about two days ago saying "I want us" with her stomach gone tight as a board. Then she left before she'd cooled down, for the first time ever. Now a four-line ransom note shows up. I don't think Pace wrote it alone. I think the date came out of that night. Whose idea was it, his or hers? That's the question I'm carrying into the next chapter.
+Okay. The bedroom door stayed shut, and I felt Vee's stomach drop at exactly the moment mine did. She wore the satin out there on purpose. She leaned toward the handle and he said "my bedroom" in the same voice as "the kitchen" and steered her away by the elbow. I've been waiting for the bench since chapter 10 and the book walked me right past it. Then it put "a long low table" in the den and let me stare at it. Is that the bench? No, the bench is in the bedroom. Right? I genuinely can't tell if the book is teasing me or if I'm just paranoid now. That's a good place to keep me.
 
-The thing that got me here is that Vee lied. Not big, but she lied. She told Cassie the truth: "I took my wet shirt off in front of him. On purpose. Me." With Meg and Kayla it turns into "I was about to [kiss him]," and then he was shivering and she was being sensible. She cut the best scene of her life out of the story and kept it. Meanwhile Pace, two chapters ago, under Randi, said "Her stomach is soft." He didn't say how he knew, and he still spent it. So she's guarding the truck and he's half-selling it. I love that the book let me notice that and didn't point at it. That's the restraint I've been asking for.
+The things I'm carrying in, which the book is plainly counting on: the house is too warm, and she files it under "small mysteries of him… a wrapped box on the counter without asking who it's for." I know who it's for. He keeps it warm for Randi, because Randi gets cold after. And the chapter is named for *two towels on the rod*. Two. She's standing in the other woman's bathroom and has no idea. Pace isn't hiding anything, which is somehow worse. That's how deep Randi is in this house. Being ahead of Vee is the whole pleasure the jacket promised, and this chapter finally paid it out.
 
-But I'm also tired. This is the third time I've heard the rain-and-shirt story told back to me: Cassie, then Pace's "Tell," then a cafeteria table. When she started in on "It started raining on the way down," my thumb started moving. The new people didn't help much either. I got Kayla's curls and Theo's wave, and Theo got a full backstory just so he could stand there being "nice." I don't need a fourth friend group. Where's Cassie? She's the athlete, and this is the athletic dorm, and she's just gone. That might be the point. If it is, I felt it as a missing person before I felt it as a choice.
+Now the part where I rolled my eyes. This man lifts, writes for six hours, cooks from worn cookbooks, builds furniture with locking joints, mixes his own shellac, licenses an MRI patent that gets scared children out of the tube faster, AND makes his own shirts. He's a billionaire in a flannel. I've read this guy before, he just used to own a hockey team. The book knows it, I think. It undercuts him with "Are your parents rich?" and that little door shutting two rooms away, which I'm absolutely filing next to Daphne. But the tour went on long. Shoes, kitchen, office, shelves, error-correcting codes, patent, garage, porch. By the MRI speech I was skimming. Then "lit up like a six-year-old who'd just found out everything there was to know about dinosaurs" is Vee's own line from the smoothie place, recycled, and I flinched. And "say it more than once so the noise can't kill it," "finds the picture in the noise"? I heard it. Signal under noise, the real thing under the face. It's Randi. You don't have to put it in his mouth too. That's my hair trigger getting brushed. It didn't go off, but I felt it.
 
-Still, some lines landed. "Climbing the walls over a man asking me what I want for dinner" is Vee finally understanding her own wiring out loud, and it doesn't come off as thesis. It's sweet and embarrassed. Also, "twelve," and she didn't even have to count.
+And then the cloth. God. "He hadn't matched the dress she'd described. He'd matched *her*." I teared up a little with her, which annoys me. The flannel having no tag, and her turning it inside out for a brand, then landing on "counterfeit, sample," because the real answer was absurd: that's real interiority. That's a woman thinking. Then the hook, which is the hottest thing in the chapter and nobody even touches anybody: "measure you first — down to what you'd wear under it, in good light." Down to the satin she already has on. He shut the bedroom door and then built her a reason to undress in the brightest room in the house. That's the most Pace thing he's ever done, and it's also a little sinister. He decides what she wears. Randi has her face, and now Pace is making Vee's. I don't know if Randi knows about the dress. I think it matters enormously whether she does.
 
-Fine, it's a waiting-room chapter. But the door in it is the right door, and now I'm scared for her in a way I like.
+What I'd text at 1 a.m.: "he STOPPED the kiss, then offered to measure her in her underwear for a hand-sewn silk gown, there are two towels in his bathroom, I'm not okay."
 
-## Gate
-
-GATE 15 — What to Wear
+GATE 16 — Two Towels
 DECISION: CONTINUE
-CAPTURE: 5
+CAPTURE: 6
 NEXT: 9
 HEAT: 1
-ROMANCE: 1
-ALMOST-STOPPED: "It started raining on the way down," she said. "Not raining. Dumping." I've heard this story three times now, and I was skimming for the next line of dialogue.
-WHY: The chapter was a retelling with filler friends, saved by Vee quietly editing out the striptease and by an invitation that points straight at the bench. I'm not here for Kayla. I'm here because Saturday at two is the house, and I'd bet money Randi set the time.
+ROMANCE: 3
+ALMOST-STOPPED: "And he lit up like a six-year-old who'd just found out everything there was to know about dinosaurs." Vee's line handed back to me word for word, at the start of a patent lecture, deep into a long house tour. That's the second quiet chapter in a row and I was skimming.
+WHY: The tour sagged and the man is getting too perfect to believe. But the closed door, the two towels, the warm house and that bolt of burgundy all landed hard. And "in good light" means the next chapter is the one I've been waiting for since the truck.

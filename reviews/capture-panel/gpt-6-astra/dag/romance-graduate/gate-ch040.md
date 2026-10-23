@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch040 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 2764101f080c · 2026-10-10*
+*capture-dag-v2-rich · gate ch040 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 5794cafc164c · 2026-10-10*
 
 REACTION
 
-“Who does this to you when I’m not around?” Oh, Vee. I actually stopped there. She has asked him the question. Lightly, without knowing what she’s asking, but there it is—and he gives her an answer she can take straight back into believing she’s the only one. Then “I’d never share your photograph.” Such a precise promise in response to such a much bigger wish. I’m watching his words now in a way she isn’t, and it hurts.
+Oh, Randi, I saw you hear “he wants me, with the body attached.” That was the moment I sat up. Something actually got through to her, and I wanted to stay right there with her face before she could put it back together. Is she aching to be wanted that way herself? Hearing what her boyfriend gives another woman? Wanting Vee? I can feel several awful, tender possibilities at once. Then she asks about the soundtrack, and I’m left outside again. I’m interested, but I’m getting impatient with how quickly she recovers.
 
-The posing got me. His mouth following his hands, her making him wait, the little practical fuss with the lamp, that pleased grin over the phone. Yes. That is the man I can still want with her. And I liked that she went and did her makeup anyway. He can love how she looks afterward; she can choose the face she wants in her own photograph. That little independence matters to me. Sending it felt intimate enough that I wanted to put my hand over hers for a second. Not because I expect him to pass it around. Because she is trusting him with more of herself while he keeps accepting trust he hasn’t given her enough information to offer.
+The photograph business made me tense. “You don’t have to show me” briefly felt good; then “you only gave him half?” found exactly the little sore place that would make Vee produce the rest. And I’d just watched Vee ask him to keep that picture private. It’s hers to show, obviously, but I wanted this choice to feel as much hers as taking it did. Instead she’s proving she isn’t timid to a woman whose approval she needs desperately. Randi gets the naked photograph and Vee gets to feel brave. That exchange bothered me even while Randi looking longer than she needed to gave me a little shiver.
 
-I did feel heat, though arriving for the last seconds and then hearing afterward that it happened three times left me a little hungry. The photographing was the part I was actually inside. I don’t need a tally of how thoroughly satisfied she is to replace getting there with her.
+I did love Vee saying, “It was my idea.” Keep that pride. And “I used to be a person with thoughts” made me laugh because, yes, unfortunately, I know that condition. I wanted her to hear that wanting this much doesn’t make her defective. But Randi pronouncing on what Vee has been doing her *whole life* felt too sweeping, too certain. You do not get to know her better than she knows herself just because you can make her blush.
 
-And then we cooked the entire chicken. I was happy in that kitchen for the wine argument; somewhere around the stock and the pasta I started looking ahead for quotation marks. I know he feeds her beautifully. I know she tastes things differently now. After the drawer and Cassie and the pool, I needed something more than another evening proving how happy she is. The first-bite look did bring me back, because he’d told her about it in bed and now she could catch him doing it.
+For a stretch I was restless. I already believe the sex is wonderful, the food is wonderful, the quiet is wonderful. I was there yesterday. Hearing it all presented to Randi again made me start waiting for Randi’s reaction instead of listening to Vee. And “I’d confess anything” hurt. He has cultivated a place where she can tell him everything while withholding the one thing that would change her understanding of every weekend. I’m running out of patience for that, even when I still want his hands.
 
-“I don’t go back” woke me right up. There he is, the person with a life that hurts, and I wanted to stay at that table. I respected her leaving him room. But I’m also getting uneasy about how often loving him means accepting the edge of what he’ll let her know.
+But Vee taking that extra second of the kiss—yes. That reached me. She notices herself doing it, decides she wants it, and keeps it. For once I didn’t have to watch her immediately explain her own desire away. I wanted Randi’s composure to slip more visibly afterward. “Just us” and that close look suggest she isn’t nearly as untroubled as she acts, and I want the trouble.
 
-Then Sheri. Vee feels that tiny jealousy and generously lets it go, and I’m remembering that Sheri knows. Vee is working so hard to be fair with the information she has. That’s what’s getting under my skin now. I still believe the tenderness, which makes this worse. I’m reading on, but my thumb is moving for the question he still hasn’t answered.
+I’m leaving this chapter more hungry for an honest conversation than another spectacular evening at the house. The kiss moved something. Please let it stay moved.
 
-GATE 41 — In His Hands
+GATE 42 — All the Time
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 6
-HEAT: 2
+NEXT: 7
+HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: “She had used to just eat. Now she tasted, and there was no going back to the other, and she knew exactly whose doing that was.”
-WHY: I was starting to skim another explanation of how much he has changed her life. The photograph held me, and his answer about his parents brought back my curiosity, but I’m getting impatient with intimacy growing while her knowledge stays still.
+ALMOST-STOPPED: “And the *attention*,” Vee went on
+WHY: By then I felt I was hearing another account of happiness I already believed, while the secret stayed comfortably untouched. Randi’s shaken response and Vee choosing to prolong the kiss kept me, but I need those moments to lead somewhere they can’t simply smile their way out of.

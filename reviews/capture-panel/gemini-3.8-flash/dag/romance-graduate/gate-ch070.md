@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch070 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha d556fe46d58e · 2026-10-11*
+*capture-dag-v2-rich · gate ch070 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha c14c8e832ee2 · 2026-10-11*
 
 REACTION
 
-*Holy fucking shit.* I am sitting here in the dark with my hands shaking, completely paralyzed by what this book just did to my nervous system.
+Oh, Vee. Oh, you absolute doomed disaster of a girl.
 
-Vee trying to fuck the ghost of Randi out of her head by using Pace’s body as a blunt instrument, and Pace—terrifying, calculating, magnificent bastard that he is—*clocking it instantly.* He didn't just notice her anger; he turned her confession into an interrogation disguised as edging. The sheer psychological filth of him holding her suspended over his cock, doling out strokes inch by inch, forcing her to buy her own orgasm with the absolute truth of her desire for Randi? *"Tell me the real story, and I'll give you what you want."* My soul left my body.
+This chapter made my chest ache in that exquisite, suffocating way where you watch someone try to build a sandcastle against a rising tide. The opening beat—her using Pace all day Sunday like an emotional tourniquet, fucking him three times, tearing the book right out of his hands just to drown out the memory of Randi, only to drive home "full of him and not, somehow, filled"—is downright devastating. It’s so psychologically honest. She’s trying so hard to be the good, straight girlfriend with the big capable man, and the body simply refuses to cooperate with the lie. The fact that she had to keep her hand pinned flat to her stomach in the top bunk Monday night, treating her own fingers like a contraband weapon because she knew *whose* name would flash behind her eyes the second she touched herself? God.
 
-And Vee, god, poor, completely unraveling Vee. She thinks she’s being so clever, trying to sanitize it, tossing out little half-truths like breadcrumbs—*"danced bigger," "the skirt rode up some"*—and every single time she edits, he just freezes her on the head of his dick until she breaks. He made her admit that she loved having the room stare at her bare ass. He made her admit she was soaked. He made her admit she wanted Randi’s mouth on her. And the devastating irony is that she thinks she’s using Pace as a "rail on the stairs," a safe heterosexual anchor, completely blind to the fact that Pace *already knows.* Pace fucked Randi two days ago! Pace and Randi built this entire trap together!
+And then the classroom. This was agony. Pure, slow-drip agony. The grazing of the wrist over a wintergreen Lifesaver—the absolute thrum of awareness in a lecture hall when you cannot look at the person next to you because your skin is practically humming off your bones. When Randi said, *"Having you at the dance was so great. I've wanted to do that for the longest time,"* I felt Vee’s stomach drop right through the floor. The echo from Pace’s bed! The way a single verb can carry the weight of an entire unacknowledged romance.
 
-When she looked him in the eye and said, *"You want Randi,"* and he had that tiny flicker of self-defense—*"You keep saying her name. Not me"*—I felt physically sick with tension. She read his reaction as sweet, protective vulnerability, thinking she had "gotten away with it." She didn't get away with anything. She just handed him the final piece of the architecture.
+Vee panicking and trying to dodge the inevitable intimacy by faking sick, only for Randi to pivot effortlessly into walking her home—you cannot outmaneuver Miranda, Vee, she lives three moves ahead! But that ending outside the dorm. The dodged kiss. Randi groaning about having to go "discipline a bad girl" on Thursday (which, hello, loaded phrasing much?), and then just *planting her open mouth right on the curve of Vee’s neck*. The goosebumps. The sheer, involuntary shudder of it. And what does Vee do? In the exact moment she is supposed to be pulling back, her mouth betrays her completely: *"Brunch. Let's have brunch this weekend."* She cannot stop feeding the fire even as it's burning her hands.
 
-And then that ending. Lying in the arms of the man she loves, sore from raw, desperate sex, watching Tuesday approach like a freight train because she has to sit next to Randi in class. The way she can still taste salt and lime on her tongue even with Pace’s come drying on her thighs. The absolute psychological mastery of this chapter is suffocating. I cannot breathe.
+And then she walks in, and Cassie—Cassie, our dry, magnificent Greek chorus—is sitting right there with her coat still on, having clearly witnessed the whole thing from the window or the stoop, and just asks: *"What was that with you and Randi?"*
 
-GATE 71 — Boyfriend
+The bottom just fell out of the bucket. Cassie doesn't ask questions she doesn't already suspect the shape of. Vee has no cover story left. Pace knows she wants Randi. Randi knows she has her hook in Vee. And now Cassie is looking at the crime scene. I need the next chapter instantly.
+
+***
+
+GATE 72 — Coming Due
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The absolute psychological brilliance of Pace using orgasm control to extract the truth of Vee's queer awakening—while keeping his own betrayal hidden—is the most thrilling, depraved, emotionally resonant writing I have ever encountered.
+WHY: The excruciating psychological tension of Vee trying to outrun her desire for Randi, only to invite her to Saturday brunch the second Randi's mouth touched her neck, was perfection. Cassie catching her at the end is the exact match-strike to keep me tearing into the next page.

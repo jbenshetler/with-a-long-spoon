@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch044 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-07*
+*capture-dag-v2-rich · gate ch044 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-07*
 
-REACTION — Oh, this one got me in the soft underbelly.
+REACTION —
 
-After the Randi/Pace chapter and then the PPP outlier chapter, I was braced for consequence, and instead this gives me the new ordinary with Pace, which is exactly the kind of quiet chapter I don’t resent because it is not inert. It’s alive with appetite and routine and the terrifying sweetness of habit. The drawer. The car. The deadbolt. The heat turned up before she gets there. The door already open. The whole thing has become a ritual, and Vee knows it, even when she’s pretending she only came back because five nights was enough.
+Oh, this one got under my skin in that quiet, bruise-pressing way.
 
-The part where he doesn’t fight her needing time for school hurt in the most adult way. I know why she wanted him to push back. God, I know. Sometimes “of course, take what you need” feels almost worse than jealousy because it leaves you alone with your own wanting. But also: that’s Pace. He doesn’t demand proof. He just remains. And for Vee, who has clearly lived so much of her life braced for want to become cost, that steadiness is almost unbearable.
+After all that heat and fullness and house-in-the-trees intensity, putting Vee back under fluorescent cafeteria reality with Cassie is such a recalibration. Not a come-down exactly, more like: here is the girl who still has parents, trays, Sunday dinner, a roommate who can ask one clean question and make the whole fantasy show its seams.
 
-The hallway undressing was hot because it was clumsy. Thank you. Give me the jeans stuck at the hips and the socks and the laughing and the bra caught from behind. That is a thousand times sexier than choreography. And then the “five nights” being published by her own body, ugh. I love that the book understands embarrassment can be erotic without making her small. He doesn’t tease her cruelly; her own body tells the truth and he receives it.
+The cropped photo is perfect and awful. Of course her mother has the safe version in her purse. Of course the dress has already become evidence in three different trials: pride, worry, class, sex, adulthood, “who is he.” And Vee knowing exactly which truths would alarm her father is so painfully adult. Not lying exactly, but trimming herself to fit through the door home. The waist crop as family management. God.
 
-And then the pizza. I cannot believe I am this invested in a man making pizza, but here we are. The food scenes still work on me because they’re not decorative. They’re the same language as the sex: attention, patience, pleasure taught through exactness. Vee learning to taste is Vee learning to want. And I loved the line of her realizing he’d make it this way for an empty house. That matters. He isn’t performing care for applause; care is how he moves through the world when something has his attention.
+And the line about her dad taking it better if Pace took the dress off her than if he made it? Yes. That is such a specific truth about certain fathers and certain worlds: sex can be filed under normal danger, but tenderness expressed through craft is category-breaking. Pace sewing that dress is one of the most intimate things in the book, maybe more intimate than some of the sex, and Vee knows it would make him strange to her family in a way she cannot defend without revealing too much of herself.
 
-But the shirt. The shirt wrecked me. I had to stop there in that very romance-reader way where you look up from the Kindle and just stare at the wall like, well, that’s rude of you, Helen. The fact that she wore it every night away from him until the smell died. The fact that she washed it because it had become nothing. The fact that she asks him to wear it all weekend and give it back full of him. That is need, but it’s also invention. She is making a little portable version of home because she cannot live in his house full-time and still be a student/person, and he understands immediately. He puts it on over the shirt he’s already wearing. No speech. No joke. Just obedience to the tenderness of the request.
+Cassie, again, thank God. “So what is he. Not to your dad. To you.” That question has no glitter on it, no manipulation, no little hook. It is just the question. And Vee not being able to answer feels truer than any big romantic declaration would right now. Because what is he? Boyfriend is too small, lover is too naked, almost-husband is absurd, mentor is poisonous, home is terrifying, and none of those include the fact that he is also keeping a whole other beloved woman just offstage.
 
-This made me ache for her because it’s beautiful and also because the concealment is now almost unbearable. The drawer was already dangerous; the shirt is worse. This is not a fling anymore, not even in the realm of plausible deniability. She is literally carrying his scent back to her own bed. And somewhere outside this room Randi and Pace still share the third game. I believe his tenderness. I believe every bit of it. That is what makes me furious in advance.
+I felt protective here, but not in the same panicky way as with Randi. This is the ache of watching Vee realize she has built a life that cannot be translated. She can tell parts that fit. The rest stays cropped.
 
-GATE 45 — The New Ordinary
+GATE 46 — Cropped
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
-HEAT: 2
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was quiet, but it was charged all the way through: need, food, sex, habit, the shirt. The romance score is the shirt, completely; him putting it on without making her defend the request felt like a real turn in the bond, and now I need the book to deal honestly with what it has made me believe.
+WHY: This was quiet, but it mattered. Vee’s double life is becoming less sexy-secret and more structurally impossible, and Cassie’s plain question landed harder than another seduction would have. I want the next chapter because the book is tightening the noose without raising its voice.

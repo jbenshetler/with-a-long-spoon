@@ -1,35 +1,24 @@
-*capture-dag-v2-rich · gate ch040 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1b25b893b80d · 2026-10-07*
+*capture-dag-v2-rich · gate ch040 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 296605e0be66 · 2026-10-07*
 
 **REACTION**
 
-FINALLY. We open with her already on top of him, hair hanging down around both their faces, coming hard enough to shake. After three chapters of drawers and pools and Cassie at the door, the book just drops me in mid-act. I actually laughed. I said it had better be loud, and it starts loud and then goes soft, which is the right way round.
+She showed her. He promised, and she showed her.
 
-His head on her breast, feet hanging off the bed, those barely-there kisses, and her neat little theory that it's comfort and not sex for him. Then her nipple comes up under his mouth without her say, she feels him smile against it, and the theory's dead and she's *pleased*. That's the interiority I'm here for. "With Pace she was a girl who had a body, not a body that happened to have a girl attached to it." Okay. I underlined that, which I never do.
+Last chapter she lay there freshly made-up and said *only if you promise you'll never share me with anyone*. He said never, and she sent it, and that was the brave part. Sixteen pages later she's in a dark booth handing the uncropped one across a tablecloth because Randi said *you only gave him half?* That's the exact pressure I've watched Randi use since the practice room. She doesn't push. She slides the phone back, says *you don't have to show me*, and Vee shows her everything. The promise only ever bound him, and she never noticed it didn't bind her. I said "oh no" out loud on my couch. And I'm not even sure the leak matters. I've thought for twenty chapters that whatever's on his phone is already on Randi's.
 
-Then the photo, and my stomach went cold.
+What actually got me is Randi. *It doesn't.* Low, not quite even, with her eyes gone bright and unfixed. That's the first crack I've seen in her in forty-two chapters. It came on *he wants me, with the body attached*. Vee takes it as pride, that her story landed so hard. I don't think the story did it. I think Randi heard the girl she picked describe the man she shares, and either she's never been looked at that way by him or she has, and Vee just described it back to her. Then there's "Just us," softer than the plan called for. Then the kiss where Vee leans up the last half-inch and *decides that's what she wants and doesn't bother about it again*. Then Randi holding the look a beat too long. The book is letting Randi's plan slip on her, and that's the thing the jacket promised, *what none of them counted on*. It's finally on the page.
 
-"Only if you promise you'll never share **me** with anyone."
-"Never. I'd never share **your photograph**."
+Where I sagged was the first third. "We have so much sex, Randi." *He takes forever, all of me, strong, then gentle, I don't know how one person is both.* That's a recap, and I just read the real thing. It's Vee's voice and it's adorable, but it's a list. Then Randi gives the speech: *you've been starving your whole life and calling it fine.* That's the jacket copy read back to me at a brunch table. "He woke you up," setting it down where Vee can see it. I know Randi narrating Vee to Vee is the point, and it's how she steers, but it's also the book underlining its own thesis, and that's one of my triggers. It mostly survived because the egg yolk running over the plate did the same work without saying it.
 
-She asks about her and he answers about the picture. He narrows it, cleanly, in the half-second he always takes when he means to answer properly. Exact, courtly, a mathematician answering exactly what he can keep and nothing more. I read it three times. He didn't lie. He just didn't promise her the thing she asked for. And there's "He's all mine," two pages earlier, in a book whose jacket tells me they chose her together. And "sometimes I take care of it myself, thinking of you," from a man whose Saturdays belong to Randi. I'd have texted my friend all of this in capitals.
+Small things. The eggs Benedict, *the one that cost*, then her card down first and tipping well and saying nothing about the number. I'm doing the mimosa math for her and she's not. The music that's always already playing, *I've never once heard it start*. That house is staged and she's calling it magic. "Does he have a brother?" Ha. And *I don't go back* last chapter, which is the scar thread finally twitching. Sheri alone at Thanksgiving.
 
-And still, the posing scene was the hottest thing in ages, and nobody touched anybody's genitals. She does her face and comes back "a girl who had decided to be looked at." He says no, not like that, then puts her where he wants her with his hands and kisses each spot after, shoulder, hip, knee. He tilts the lampshade. "Hm. Yeah. That's the one." Then the grin over the top of the phone. That's control and adoration in one motion again, the way Randi did it with the mimosa. And she *sent it*, and the book let her know the cold sane thought and do it anyway, "believing him was the brave part." I believe she's brave. I'm scared for her.
+This is the third debrief, and it left something on her mouth. It's a different shape from the glaze. Randi isn't the one in control this time; she's the one who got hit.
 
-Small gripe: the third time happens off the page. "Again," her hand closes, cut to the kitchen in his t-shirt. The first time we caught only the end of. I got the edges of the sex and the middle went missing. I'll forgive it because the photo shoot was the real sex scene, but I noticed.
-
-The cooking ran long. It's lovely, the lemon zest coming off "in a fine bright rain," but I was skimming by the stock. What saved it was the turn back to her: she used to just eat, now she tastes, "and she knew exactly whose doing that was." That's the book's whole thesis on a fork and I didn't mind.
-
-Then "This is my home." "I don't go back." The way his face goes level and the words come out set apart, and she *takes her hand off it*. She doesn't push, she lets the quiet be kind, and he moves her wine an inch closer. That's grown-up and it's the scar door rattling, and I want it badly. Then Sheri, "she's alone," the little jealous flicker, and how fast it goes out. Vee's a good person. That's going to cost her.
-
-Randi has now been off the page for four chapters. I'm noticing the empty chair like it's a character. Is that nail tapping her tooth three times new, or someone's gesture she picked up? I don't trust any small habit in this book anymore.
-
----
-
-GATE 41 — In His Hands
+GATE 42 — All the Time
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
 HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "Stock after the wine, and then the lemon, sharp and immediate across everything the pan had been building" — the cooking had me skimming for a voice.
-WHY: The drought broke, and the most erotic beat was a man arranging her for a camera and kissing every place he put her. "Never share your photograph" answering "never share me" is the exact kind of gap I came for, and "I don't go back" finally put a hand on one of his locked doors. I want Randi back at the table, and I want to know where that picture goes.
+ROMANCE: 2
+ALMOST-STOPPED: "You've been starving your whole life and calling it *fine*, and now you're not, and you've gone and decided that's the flaw."
+WHY: The opening recap and Randi's thesis speech nearly made me skim. Then Vee broke the one promise she asked for, and Randi broke, for real, at "with the body attached." I want Randi alone in that green Mercedes, and I want to know whether Pace's phone buzzes before Vee's back up the gravel.

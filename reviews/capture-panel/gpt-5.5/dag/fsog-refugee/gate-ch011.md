@@ -1,26 +1,32 @@
-*capture-dag-v2-rich · gate ch011 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1d8b07a3a421 · 2026-10-01*
+*capture-dag-v2-rich · gate ch011 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2bcd8a499e1e · 2026-10-01*
 
-REACTION — Oh, this one got me in the exact tender-danger place.
+REACTION —
 
-Because nothing “happens,” technically, and yet so much happens. Vee is not with Pace at all in this chapter, but he is everywhere in her body when she talks about him. I loved that she doesn’t just report the date, she relives the surrender of it: “May I choose?” has become this little glowing object she can hand to Randi and watch Randi understand. That is very much my button: the choice, the asking, the handing over because she wants to. And Vee knows it. She keeps trying to make it smaller — “that’s all it was” — but her body and her voice keep betraying the truth. Good.
+Oh no, this got me. This got me exactly where I am easiest to get: not with him grabbing her, but with him making space and then being unable to hide how much he wants what she freely offers.
 
-But Randi. Randi, Randi, Randi. She is doing something to Vee and also giving Vee something real, and that is making me nervous in the best/worst way. The chapter knows exactly how intoxicating female social choosing can be when you’ve spent years feeling outside the room. The smoothie place made my shoulders come up. I could feel the chair being too high, the cardigan suddenly looking like an apology, the pink drink, the whole bright room ranking her without ever admitting it was ranking her. That is so specifically awful.
+The hiking itself was almost too tender for me. The boot. God, the boot. That could have been such an exposed, humiliating little moment for her, her bare foot in his hand and all that old shame rushing up, and he just fixes the problem. No flourish, no teasing, no turning her embarrassment into a scene for himself. “We can fix that.” That is the kind of dominance I mean when I say I still want the thing I left those other books for. Competence as care. Attention as erotic pressure. He is leading, but he is not making her pay for needing to be led.
 
-And then Randi calls her “my dear friend.”
+And the summit did something to me because it gave her an experience that wasn’t only about him. I loved that the world swallowed his blue shirt. I loved that she got the mountain first, the huge indifferent beauty of it, and then he got to watch her seeing it. That matters to me. She is not just being arranged into a seduction; she is being given actual life, actual appetite, actual weather and hunger and view. The sandwich and cherries were so sensual without being “sex scene” sensual, and I am apparently very vulnerable to a man who packs good bread and knows where the lettuce goes.
 
-I hate how much I loved it. I mean, I loved it. It landed on me almost the way it landed on Vee, because it did cost Randi something. In that room, with Brooke watching, that was not nothing. It was also perfectly calculated, maybe. Both things are true, and that is the book’s little knife. Randi wants Vee, wants to protect her, wants to possess a little piece of her, wants to make her manageable inside the story she and Pace started. And Vee is so hungry to be picked that she can feel the hand and not yet ask whose hand is moving her.
+The cherry pit moment hurt in a small clean way. I felt her shame flare so fast. That terrible internal snap of “no one taught you” and “common.” But again, he corrects the behavior without making a spectacle of correcting *her*. He puts his own pit next to hers. That is such a quiet little mercy. It made me trust him more in the moment, which is dangerous because I still know what I know.
 
-Cassie leaving at the start hurt more than Vee noticed. That tiny folded-away look. Cassie is the ground, and Vee is already explaining why Cassie does not belong in this brighter world. I believe Vee when she says people can have different people. But I also know what it looks like when someone starts letting the glamorous new friend become the translator of her own desire. Cassie is not jealous in some petty way; Cassie is watching the current take her.
+The russet dress: I am watching you, Pace. I saw that land. He absolutely heard that. And he did not pounce on it, which was right. If he buys it for her, I will probably melt and panic at the same time, because that is either exquisite care or another strand in the web, and this book keeps making those the same strand.
 
-The “Ask and then ravish” line was hot because it was funny and because it was a promise, and because Randi dropped down into Vee’s actual register for a second. That was the first moment I felt Randi not just performing delight, but entering the fantasy with her. Vee thinks Pace is the subject. Randi is standing right beside her inside the picture.
+And then the truck. My stomach is still somewhere in that cab.
 
-I am still absolutely reading toward Sunday. The hike now feels charged from two directions: Pace alone with Vee, yes, but also Randi helping script Vee’s anticipation. That could be delicious. It could also be where the secret arrangement starts to feel less like a wicked premise and more like a wound waiting to open.
+What I loved is that he got out. He understood privacy before she had to ask for it. He gave her the flannel and then gave her the truck, gave her the choice of what to do with herself inside that privacy. And then she calls him back. She calls him. She keeps his eyes. She decides how much he sees and when. The fact that he doesn’t touch her, doesn’t rush the moment, doesn’t take her wet and shivering as permission to escalate — I needed that more than I even realized.
 
-GATE 11 — Dear
+But it was still so hot. Not because of nudity exactly, but because of the old shame turning into chosen display. Her mother’s voice saying every ugly word, and Vee feeling the heat because she wants to be seen by him as the very thing she was taught to despise. That is psychologically filthy in the best way. It is not cruelty. It is not him humiliating her. It is her taking the charged wire of humiliation and putting it in his hands because she trusts him to hold it without burning her with it.
+
+And then his hand shaking. That undid me. Because yes, he is Pace, composed and exact and controlled, but he is also a wet man in a cold truck who has been standing in the rain so she could have privacy. His control has a cost. His body is there too. I liked that she snapped out of the erotic trance because *he* needed care. That made them feel mutual in a way I badly needed. She is not just being tended. She can tend him.
+
+The cop interruption was brutal. I hated it and loved it. The whole chapter had been building toward some word, some kiss, some next step, and then authority literally barks over her sentence and she runs. It left me aching, but not cheated. More like the moment is still alive and has nowhere to go yet. She’s standing there in his flannel, wet and changed, and I am absolutely turning the page.
+
+GATE 12 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
-HEAT: 2
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: “And Vee thought, easily, that it was fine to have your own people.”
-WHY: That line scared me because it is exactly how you talk yourself into leaving the person who actually knows you. But the chapter paid it back with Randi choosing Vee out loud in a room where it mattered, and I felt why Vee would carry that home like treasure. I want the hike badly now, but I want Cassie close enough to hear the door closing.
+ALMOST-STOPPED: none
+WHY: This was the exact braid I read for: care, permission, hunger, shame transformed by being safely witnessed. The secret plan is still the cold wire under everything, but this chapter made their bond feel more real, not less, and I want the next private room badly now.

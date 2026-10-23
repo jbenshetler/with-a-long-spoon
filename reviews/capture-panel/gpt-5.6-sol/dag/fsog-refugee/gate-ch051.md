@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch051 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · 2026-10-07*
+*capture-dag-v2-rich · gate ch051 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 29213b289a6d · 2026-10-07*
 
-REACTION — Oh, Vee. “Before she made it wrong” absolutely gutted me, because she did not make it wrong. She asked a necessary question and refused to be soothed instead of answered. Now she is alone in the bedroom she has outgrown, punishing herself for finally protecting herself, while Pace’s silence leaves every empty space available for fear to fill. I understand why he has not simply descended on her after she walked out—he always leaves her room—but there is a difference between respecting space and letting a woman you love spend an entire holiday believing she may mean nothing to you. He knows what she asked. He knows he did not answer. At some point “leaving room” becomes another beautiful principle he can hide behind.
+REACTION
 
-And the imaginary blonde taking Vee’s place in her own memory was horrible. That is exactly what secrecy does: it makes even the past unstable. Pace has been so precise about making her feel singular when she is with him, but he has given her nothing she can hold when she is away. She cannot keep her own best night because he has refused to tell her what made it theirs. I wanted to climb into that tiny bed and tell her that the girl at the table was her, that her body did not need “building for,” that he wanted her specifically—and then I got furious all over again because Pace should have made those truths safe enough for her to know without him physically present.
+Oh, Pace. “She wants a declaration” is such a bloodless way to describe the woman you love standing in your doorway crying and asking what she is to you. And then he does it again with Sheri: answers the question beside the question, stacks up all the things he does for Vee as if enough true bricks will somehow build the missing sentence by themselves. I felt exactly what Sheri felt: don’t bullshit me. Vee did not ask whether he shows up on weekends. She asked what all that showing up means.
 
-The contrast with Randi is almost unbearable. Vee thinks Randi is the one sure thing because Randi gives their connection dates, names, and visible affection. She has no idea that Randi is answering her from another man’s bed, deliberately sending back the fairytale and withholding the lonely truth. That message looks loving from Vee’s side because part of it is loving. “Miss your face” is the realest thing Randi has—but she still uses the truth selectively, shaping what Vee is allowed to see so she can preserve the relationship in exactly the form safest for herself. After watching Vee offer an open hand that asks for nothing, knowing she has already protected Randi’s ugliest family secret without seeking advantage, I am livid that Randi cannot offer her the same honesty.
+And still, damn him, the moment he thought Vee might love this quiet little diner—or might never agree to see it at all—I hurt for him. He misses her in every empty space. He wants to know how she would see the amber tabletop and the old photographs; he imagines her whispering where he could finally hear her. Then he talks about the air crackling when she enters a room and about her understanding the idea beneath his food, and there he is, saying love everywhere except in the one form she has explicitly asked him to use. He doesn’t merely desire her. He is fascinated by the particular mind inside her body. That is precisely why his refusal is making me furious instead of letting me dismiss him.
 
-And Vee longing for the visible life Randi seems to have, while Randi lies in the supposed fairytale feeling absolutely nothing, is just cruel. Each woman thinks the other possesses the freer, fuller life. Neither understands that the other is alone at midnight wanting the same two people.
+Sheri is wonderful. She likes him without wanting anything from him, which means she can take his careful self-explanation, turn it over once, and hand him the ugly truth: “Then not saying it matters more to you than having her.” Yes. That is the whole wound. Whatever stands behind “I can’t”—Randi, his history, terror, some private rule—he is actively choosing it over Vee. I needed someone he respects to make him look directly at that choice.
 
-There is no heat here, but the longing is so bodily it almost behaves like heat: Pace’s arms imagined around her, his cooking invaded by jealousy, the room cold because he is absent. I miss him too, which annoys me. I still want him to come for her. But not with dinner. Not with that hand. He needs to come carrying the whole truth, and he is already terribly late.
+But the brunette conversation chilled me. Sheri knows there is another woman; Pace knows Vee has not “found out”; and “Not like that” is another precision answer that conceals far more than it reveals. He is discussing Vee’s body and their rupture with someone who already knows pieces of the hidden arrangement, while Vee is alone believing she has no right even to ask where he is. I don’t think Sheri means harm, and her crude comments felt like the rough language of their friendship, but Pace allowing them while protecting the actual truth made Vee’s exclusion feel even larger.
 
-GATE 52 — Old Acquaintances
+Also: he decided before walking in that he would not “bring her down.” Bring whom down—Sheri? And what had he carried from the truck that could keep? That opening put a little cold hand on the back of my neck. Pace has compartments inside compartments, and I am done accepting “long practice” as romantic mystery. I want the contents now.
+
+I would text a friend: *His lesbian country friend just diagnosed him over cheeseburgers in one sentence, and this impossible man can explain the philosophy of feeding Vee but still says he “can’t” tell her he loves her. I am going to shake him.*
+
+GATE 53 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
 HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Vee’s loneliness had me by the throat, especially when fear stole her own best memory and put another woman inside it. I need somebody—preferably Pace, finally behaving bravely—to tell her the truth before she crawls back apologizing for a boundary she was right to draw.
+WHY: Sheri forced Pace to confront the exact truth he has been evading, and his description of Vee made his love unmistakable even as his refusal made me angrier. Now I need to know what “I can’t” is protecting—and whether losing her will finally matter more.

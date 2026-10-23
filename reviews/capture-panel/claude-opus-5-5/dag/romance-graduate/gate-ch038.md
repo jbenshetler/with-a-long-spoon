@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch038 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · 2026-10-10*
+*capture-dag-v2-rich · gate ch038 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · 2026-10-10*
 
 **REACTION**
 
-That's two quiet chapters in a row, and I noticed. The drawer chapter was lovely. He folded his whole self into one drawer so she could have the easy one, and I'll keep that. Now this one is a dorm-room debrief that would fit on a phone screen. I'm not resenting it yet, because something's going on in it, but I'm counting.
+Okay. A swimming chapter.
 
-What's going on is Cassie. She finally gets a scene where the book looks at her instead of past her, and she's very good. "You're a public utility." "You don't come home school nights." It isn't a question, and Vee has to go back and count the nights. Cassie sees everything and says just enough. She says "Hrm" and "Mm," lets the maybe stand, and goes back to her book. I think she's the only grown-up in this whole book, Pace included.
+I liked her in the water. I didn't know Vee swam, and the stuff the book gave me landed: the green-and-white suit she's outgrown and won't look at, "any more than she had ever once decided the second verse of a hymn," the butterfly man and the flip-turn woman sorting themselves around her lane without a word. That's Ohio and church basements in a chlorine room, and it's her own life, not his or Randi's. It's the first time in a while she's had a scene by herself, and she holds it.
 
-The part that got me was what Vee chose to tell her. Randi gets the bet, the finger, "He checked," the face in the covers. Cassie gets baked tomatoes and a cold cloth on a burn. It's the ladle version again, same as the morning after. She hands Cassie the nice version and Randi the real one, and I don't think Vee knows she's doing it. Even her hand drifting to the side of her breast while she tells it is a little leak she doesn't notice. Cassie notices. "Not enough on." Ha.
+There's one real moment. For four strokes she can't tell whether Pace is that good or whether she built him that good "out of wanting, out of two months of being looked at like that." That's the most grown-up thought she's had about him, and it's scary. It made me think of the outlier lecture: the error that gets into everything after it. Is he the one-time bad dot, or the thing that carries forward? Then the wall comes, she rolls, and the book lets the thought go. I think that's on purpose, and I think it's right. I'll hold onto it.
 
-Then there's "Maybe. I think so." One chapter ago she lay in his bed and said to herself, plainly, that she loves him. She whispered *Peter* to him while he slept. To Cassie she shrinks it to a maybe. Maybe that's just shyness, or maybe it's the mother's voice again. Either way she's still hiding the biggest things about herself from the one person who wants nothing from her. Cassie's face with "no face on at all" worries me. I keep waiting for that half-second look from chapter 21 to cash in.
+But I spent a good third of this chapter rereading Chapter 39. "Do you love him." "Maybe." "I think so." "It's all so fast." "Let the maybe stand." "Go to sleep, streetlight." I read all of that one chapter ago. I don't need it handed back to me in the pool.
 
-I miss Randi a little, which is its own warning sign. I came out of the brunch with sticky fingers, the glaze on Vee's lip, "best friend in the whole world," and since then the book has given me two chapters of pure domestic warmth. I believe in it. I just know the knife is coming, and I'd like the book to stop making me wait for it.
+Then there's "did he mind," about her things on his counter. I already know he didn't mind. He gave her the top drawer and squeezed his whole tidy self into the bottom one, and that's the sweetest thing in the book. So either this Tuesday comes before the drawer and the book jumped around in time, or she's worrying over something that's already settled. Either way, all I can do is watch her worry over a question I know the answer to. And it's "hairbrush and earrings and book" now, when I remember pins, cream and scrunchies. Small thing, but I noticed.
 
-The writing here is plain in a good way. "Go to sleep, streetlight. Some of us have class" is a perfect closing line. Heat is basically nil, apart from the burn and the warm house where "she never once thought about how much she had on," which is a quiet tease.
+Here's what I'm really counting. Chapter 38 was a lovely quiet chapter with the sex told in summary. Chapter 39 was Cassie in the beanbag. Chapter 40 is laps. That's three in a row with nothing charged, and I said I'd start skimming at the third. I didn't skim this one, because it's short and the prose is honest and not showing off. But the last thing on the page that crackled was Randi saying "Sticky fingers?" and the glaze on Vee's lip, and since then the book has gone quiet on Randi. Randi called Vee "my best friend in the whole world" and kissed her with sugar on her mouth, and three chapters later Vee is thinking about a sandwich. The thing I'm waiting for, who tells Vee about the three of them, is sitting off to the side getting cold.
 
-**GATE 39 — School Nights**
+At 1 a.m. I'd text: *she swims?? cute. she's still wondering if he loves her. he gave her a DRAWER, babe. also where is randi.*
+
+---
+
+GATE 40 — Strokes
 DECISION: CONTINUE
 CAPTURE: 5
-NEXT: 6
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "How he cooked with intent, something different every time and never out of a box." That's where I thought, okay, another food montage, the second soft chapter running.
-WHY: Cassie finally got a real scene, and I watched Vee give her the clean version and shrink "I love him" to "maybe," which hurt in a good way. But this is the second quiet chapter in a row. If the next one is a third with no Randi, no table and nothing breaking, I'll start skimming for dialogue.
+NEXT: 4
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "*Do you love him* was a pressure under her ribs with a dread riding it, and *did he mind* was nothing at all" — it's the third pass through questions I've already watched get asked, and one of them has already been answered.
+WHY: The swim gave Vee a body and a past that are hers alone, and the four strokes of "did I make him up" are the best doubt she's had. But this is the third quiet chapter in a row, and it recaps the one before it. I'm still in because of the doubt and because of Randi. If the next chapter doesn't bring Randi back or open something up, I'll be skimming.

@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch039 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · 2026-10-01*
+*capture-dag-v2-rich · gate ch039 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 38dcf8e44cd8 · 2026-10-01*
 
-REACTION —
+REACTION — Oh, this one got under my skin in that very specific way this book keeps managing, where I am warm and worried at the same time and neither feeling cancels the other out.
 
-Oh, this one got me in a totally different muscle.
+The photograph. God. I am so primed to flinch at erotic photos in books because usually it’s either cheap drama bait or some “oops it got leaked” nonsense, but here the whole thing is about trust before it’s about the image. Her sane cold thought is exactly right. Any girl knows that thought. And then she sends it anyway because she believes him. That is intimate in a way the sex almost isn’t. Not hotter than the sex, but more dangerous. She gave him a kept version of herself, and because he is Pace, because he looks at her like that and poses her with all that reverent control, I wanted her to. Which makes me nervous about myself, honestly.
 
-After all the heat and danger and tablecloth-confession madness, I actually needed to see Vee somewhere nobody was touching her. Not Pace, not Randi, not even Cassie asking the right question. Just Vee in a lane, with her body doing something it has known since before any of them. And the book is so smart about that: swimming doesn't solve her. It doesn't give her a revelation with a bow on it. It just strips the words off until she can carry the shape without being devoured by it.
+And the way he photographs her is so perfectly him: not a grab, not a dirty trophy, but arranging light, shoulder, knee, hair, making her into the woman she wants to be seen as and then handing her back to herself. That is the drug of him. He doesn’t just want her body; he makes her feel more real inside it. “A girl who had a body, not a body that happened to have a girl attached to it” is exactly why I keep forgiving him more than I should.
 
-I loved that she still cannot say love cleanly out loud, even though inside herself she basically already has. That feels painfully true. Cassie asks one flat question and suddenly all the romance-light turns practical: your bed is empty, your life has shifted, your things are in his house, what is this? And Vee's “maybe” is not because she doesn't love him. It's because saying it would make the whole structure visible, and visibility is becoming the book's scariest erotic and emotional engine.
+The kitchen after was lush. I could smell that pan. I am such a sucker for this book’s food because it isn’t decorative, it’s appetite teaching appetite. Vee has learned to taste. She knows whose doing that was. That line made me ache a little because it’s beautiful and because it’s also the whole problem. He is changing her senses. He is making the world richer. He is giving her tools for pleasure. How do you leave, or even question, the person who taught you that?
 
-The bathroom drawer is still haunting her, which I love. Because of course it is not just “he made room for her things.” It's also: he did not say what it meant. Pace's great tenderness is also his great fog machine. He acts instead of explaining, and when you're starving for being cared for, actions can feel like scripture. But now she's asking, for four strokes only, whether he is actually that good or whether she has built him out of wanting. That is such a tiny, enormous crack. Four strokes! Then the wall comes. But she had the thought.
+Then: “I don’t go back.” Finally, that door. Or the edge of it. And I loved that she didn’t pry. That felt grown-up from her, and tender, and also maybe another way she is learning his rules: when a door closes, be kind and step back. I don’t know yet whether that’s wisdom or training.
 
-And the swimming itself made me weirdly tender toward her. This is maybe the first chapter in a while where her body is not humiliating her or betraying her or blooming under someone else's gaze. Her body is work. Breath. Hands. Count. Engine. “Her body... had none at all down here. It only worked.” God, I wanted that for her. I wanted her to have seventy-five minutes where nobody could read her.
+Sheri coming for Thanksgiving made me tense for half a second, then relieved. I like that Vee had the flicker and then corrected herself. It felt honest: she’s not magically above jealousy, but she can think past it. And I am oddly excited for Sheri to be physically in the domestic space, because she knows enough to make the room different. She has the outside-eye bluntness I want near this whole arrangement.
 
-It's a bridge chapter, obviously, but not an empty one. It feels like the book exhaling before something comes for her. I am very alert to the fact that the quiet is piling up around the question of love, around Pace's silence, around Vee's private self trying to get one clean minute to hear itself think. I don't need every chapter to burn the room down. This one cooled the glass enough that I can see the crack.
+But the whole time I kept hearing the jacket in my head: he promised never to share her photograph. Not “you.” Not “anything.” Her photograph. Maybe that’s just exactness. Maybe that’s Pace being Pace. But this book has trained me to listen when the wording gets exact, and I am sitting here with my thumb hovering because Randi is still out there, and Vee keeps giving things to one person inside a room that is secretly built for three.
 
-GATE 40 — Strokes
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 9
 NEXT: 8
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "It never answered anything, the swimming."
-WHY: Quiet, but earned quiet. I felt Vee getting one bodily space that belongs to her alone, and the four-stroke doubt about Pace made me sit up hard. I want the next chapter because the book just reminded me she has an interior life outside being wanted, and that may be the thing that saves or breaks her.
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: This was hot in the way I actually want: explicit, bodily, but braided right through with trust and self-recognition. The photo should have scared me off, and instead it made the bond feel deeper, which is exactly why I’m nervous and absolutely reading on.

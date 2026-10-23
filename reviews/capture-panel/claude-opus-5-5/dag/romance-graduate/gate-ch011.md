@@ -1,26 +1,35 @@
-*capture-dag-v2-rich · gate ch011 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f752372c5719 · 2026-10-10*
+*capture-dag-v2-rich · gate ch011 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3f37db3477aa · 2026-10-10*
 
-**REACTION**
+## Reaction
 
-"Paul?" Oh, she's good. She's sat on top of that man on his own couch saying *Tell* in his ear, and here she snaps her fingers twice like she's reaching for a name she never learned. I actually put the Kindle down for a second. And Vee corrects her, sweet and pleased, and has no idea.
+Okay. *Okay.* Twelve chapters in, and the jacket's promise finally showed up with its shirt off: "the shame she has carried since girlhood turns, impossibly, into heat." I'd been taking that on faith. Now I've seen it work. Her mother's voice saying "floozie" and her thighs pressing hard under wet denim is the hottest beat in the book for me, hotter than the bench. On the bench I was watching a woman get handled. Here a woman *decides*. She knocks three times on the glass and crooks a finger, and she holds his eyes so he knows something is coming before he knows what. Then she looks down at the fourth button on purpose and takes his eyes with her. I said "oh" out loud at that. She isn't just undressing. She's directing his gaze. She's the one doing the looking, then making him look, and it's all hers.
 
-Then the "catastrophe" date, which she tells "like a story she had told before and would tell again," and there's no Friday lacrosse man. Its whole point is the moral: *a man who doesn't listen at dinner won't take care of you anywhere else.* She's laying down a rule for Vee to check Pace against, and he passes it, because Randi has slept with him and knows exactly what he does. She built the test after she already knew how he'd score. That made my skin crawl in the best way.
+And look who's courtly now. Randi's version was "ask and then ravish," and here nobody asks. She just tells him with her hands, and he does exactly what I'd want: sits there glad and still and doesn't lunge. That "want and gladness and a stillness" line got me. Then the turn I didn't see coming: she reaches for his hand to start the next thing, and it's shaking. He's been out in the rain for her the whole time, and she's the one who stops it. "Pace. You're freezing." That's the bond turning. For the first time she takes care of *him*. I melted, honestly.
 
-The part that got under my skin was Randi editing Vee while she talked. "You let him choose for you. And you liked it." And then "Because you couldn't not. Because of him." Vee had her dignified version ready ("I made an exception") and gave it up for Randi's. I could watch the line where Vee's own account of herself got replaced. Randi only really lights up when Vee says she liked just sitting there listening to him. She's not happy for Vee. She's checking the setup took.
+The flannel moment was lovely too. His only dry shirt, then him walking out into the rain so she can change, and her slowly working out that he'd given her both the shirt and the truck. The book let me get it a half-beat before she did and didn't spell it out. More of that, please.
 
-"Ask and then ravish," low, a beat late, the first thing all day said at Vee's volume. That's the only real Randi in the chapter, and it's a sex line slipping out of her about her own boyfriend and her new girl. Vee rubbing her thighs while she pictures the tree was the only heat I got. I'll take it, but I noticed how little it was.
+Now the cop. I hate the cop. A siren squawk at the dorm curb to keep them from saying the big thing is very close to the one-unsent-text move I'm so tired of. I almost rolled my eyes out of the book. What saves it, barely: he pulled into the fire lane. Mr. Leave-No-Trace, who picks her cherry pit off the rock, breaks a rule to get her under the overhang, and gets a cop for it. I'll give the book that much irony. But if the next chapter opens on "we never got to talk about it" angst, I'll be annoyed.
 
-Brooke showing up gave me a jolt. And the tall silent one with the coffee, the one who looks at Vee "the look you turn on a thing once you are done turning it over," is a brand-new threat and I don't like her already. "Vee's my dear friend" with the damp hand held up where everyone can see: I honestly can't tell if that's Randi spending something real or Randi showing Brooke what she's got. Probably both, and I loved that it could be both. Also the drink. Egg white, the color of a bruise. Her mother's egg whites. Vee ordering oat milk because Randi was standing there. The eyebrows that cost money. All small, all good, all said without a speech.
+Other things I'm holding onto:
 
-Cassie's look "folded away." "It was fine to have your own people." Something "turned over, small." I'm grieving Cassie already, and I liked that it was quiet.
+- **The cherry pit.** Gentle, sure, and he didn't make her small. But he's correcting her, quietly, and she copies him, the same way she copied him eating with his right hand. He keeps teaching her and she keeps learning him. That's either sweet or the whole machine, and I can't tell yet. Probably both.
+- **The russet dress.** Brick red, silk, "That sounds like a beautiful dress," and he leaves it on the rock. That dress is going to show up in a box. I can see it coming from here. If it's a gift, I want to know whose idea it was, his or Randi's.
+- **Randi.** "Ravish" followed Vee up the whole trail. Randi wasn't on the hike and she's still all over it. I want the debrief. I want Randi's face when she hears about the buttons.
+- **One bit of explaining.** "The hike had made her hungry first. That was the trick of it. That was what it was for." The sandwich already told me that. Hush.
 
-What bugged me: the paragraph about what saying *dear friend* had "cost" Randi, and then "She felt picked" as the closing line. That's the book telling me what its own scene means, the exact thing I hate. Also, I'm counting: pool, dinner, now smoothies. That's three soft chapters in a row since the couch. This one's full of knives so I'm not mad, but I need the trail, the house, the bench, something with skin in it.
+The summit paragraph ran long and a little purple, but I let it go. She's supposed to be overwhelmed, and the not-caring valley was a nice touch. The food writing is genuinely sensual: the horseradish climbing into her sinuses, the drinking after her mouth. It's a grown-up kind of foreplay.
 
-GATE 11 — Dear
+Cassie's "I'll see you at the dorm" last chapter is still bothering me, and she wasn't even in this one. I noticed she wasn't.
+
+What I'd text at 1 a.m.: "SHE UNBUTTONED HER SHIRT IN HIS TRUCK WHILE HER MOTHER'S VOICE CALLED HER A FLOOZIE AND IT TURNED HER ON. and then a COP. i'm going to scream."
+
+---
+
+GATE 12 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "She did not know what it had cost Randi to say it in front of them. She knew only, without being able to say how, that it had cost something"
-WHY: "Paul?", the made-up date, and Randi rewriting Vee's dignity into "because of him" are the sharpest, scariest moves the book has made in a while. But this is the third quiet chapter in a row, and the book keeps underlining itself at the end. The hike is next and it had better be hot.
+CAPTURE: 8
+NEXT: 8
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "The siren squawked — one short electronic bark, loud over the rain, loud in the cab — and it took the rest of her sentence with it."
+WHY: This is the chapter the book has been promising: her shame becoming heat because she chose it, with her eyes on his. The shivering hand made it tender, not just hot. The cop is a cheap interruption, but I'm left wanting, not tidied up, and that's exactly when I keep reading.

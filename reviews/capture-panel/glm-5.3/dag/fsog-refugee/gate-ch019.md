@@ -1,16 +1,24 @@
-*capture-dag-v2-rich · gate ch019 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6c8bd3bde2d5 · 2026-10-01*
+*capture-dag-v2-rich · gate ch019 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8611b8522702 · 2026-10-01*
 
-REACTION — That lunch. God, that lunch. The whole thing is a velvet booth and Randi drawing the confession out of her one *yeah* at a time, and I sat there watching it happen with my stomach tight, because this is the con working exactly as designed — Randi getting off on the details of Pace's hands on a girl she picked for him, and Vee reading the whole thing as friendship. "Which hip?" "The left one." "All the best ones start at the left hip." I actually put the book down. That line means nothing and it works like a spell — Randi feeding Vee pure nonsense with total authority and Vee going warm and confirmed and led. That's not listening, that's handling. And the worst/best part is the tickling story right before it — Randi telling Vee, casually, joyfully, the exact shape of the thing Pace has probably done to *her* on that bench, and Vee's body lighting up at the picture of Randi tied and helpless and I-love-this-book for making Vee's wanting Randi arrive as a heat she "would have died before naming." That's the blurb's promise being kept — we're watching her not-let-herself-know in real time.
+REACTION — Okay. I put the book down and just sat there for a minute, and I'm going to be honest about what this chapter did to me, because it's not simple.
 
-But the moment that got me, really got me, was "You don't have to tell me." Because it reads as kindness and it's a door closing. Randi got Vee to the very brink of the secret — the wet satin, the thing she's told *no one* — and then pulled the hush out from under her before she could set it down. And I don't think Randi even fully knows why she did it. I think she got Vee to "I—" and saw what was coming and couldn't hold the sister mask with that on the table. The thumb working the base of the water glass earlier — she's the one who nearly broke, sitting on her hands while Vee told the measuring story. Randi wants this girl so badly and has to keep converting it into this — into interviews, into the warm low just-us voice, into a goodbye kiss that is NOT French and Vee knows it isn't French, she explained it away before her mouth was her own again and then went cold scanning the windows. That last beat — did anyone see — is the mother's whole voice arriving in one flash. Shame doing to Vee exactly what it always does.
+The sex itself — that's the thing I've been looking for since I left the dark end of this genre, and this book keeps handing it to me. "Would you be bothered if I was too hard?" is maybe the most perfect line of dirty tenderness I've ever read. He asks, she says no, and *she makes herself say it so it's true* — that's consent as an erotic act, that's the whole thing I wanted, the choosing being the hottest part. And her hips "starting without her, small greedy movements she had not authorized" — her desire rendered from the inside, running ahead of her shame, and him *waiting to be told* by them. I underlined nothing because I read it in the dark, but I underlined it in my head.
 
-The money stuff is quietly brutal and I love the book for never underlining it: Vee ordering soup and doing the arithmetic she won't do out loud, paying for her own seat at the table, tipping well so as not to be the broke girl. Randi reading only the left side of the menu her whole life.
+The shame-loop is doing something I'm still deciding how I feel about. Her mother's voice running the whole way through — *floozie* — fused to the heat, "they ran on the same wire, and she had stopped looking for one." Part of me thinks that's the truest thing this book has written. Part of me is watching that wire get eroticized and wondering if the book is going to have anything to say about it later, or if it's just going to feed the wire forever. I'm giving it the benefit of the doubt because it's been psychologically exact so far, but I'm watching.
 
-GATE 19 — How It's Done
+The ending wrecked me a little. Her going back for the panties, folding them in thirds with the spot exactly where she'd put it, holding them out and saying "Trade." I had to put the book down at that. It's shame turned into a gift, deliberately, on purpose — the exact inversion of the fitting, where the evidence was something done *to* her. Here she collects it and hands it over like she's proud of it. And "something in his shoulders was private and she let it be private" — that's the tenderness, in one line, in his body.
+
+But I can't pretend the other thing isn't there. Because I know — I know — that Randi got the full report on the fitting over tomato soup, drawn out of her with that warm low voice and the left-hip nonsense and the "you don't have to tell me" that closed the door before the secret came out. And now there's this whole Friday night — the green set bought "for the color," the frosted plum toenails matching his silk, the taking of his bedroom, all of it — and Randi's going to get that too, or not get it, and either way I'm sitting here feeling the architecture under the floor. Every single yes in this chapter was real and freely given and hers. And every one of them lands in a room whose temperature was set by two people before she knew there was a plan. That's the blurb's whole thesis — *every yes was freely given, that was the problem* — and this is the chapter where I started feeling the problem in my stomach instead of my head.
+
+Also: the scar on his thigh, large, high on the inside, mentioned in one clause and never explained. Daphne? Filed. Not forgotten.
+
+The Cassie gap is growing. And the next time she and Randi are in a booth together, I'm going to be listening to that warm low register with completely different ears.
+
+GATE 20 — Famished
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 2
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 8
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The trio is closing in on one room and the book knows it — Randi extracting Pace's afternoon detail by detail while running the con, and then kissing Vee on the mouth with her hand on her jaw. Vee's desire is rendered from inside at full honesty, even when she's lying to herself, and the kiss at the curb finally made the Randi-wanting undeniable. I need to see who's in the room next when it happens.
+WHY: This is the chapter the whole book has been walking toward and it delivered — the asking, the waiting to be told, the shame running alongside without ever closing her, and the folded panties at the end. I docked NEXT only because the afterglow is so complete I can sit in it a minute before I need more — but the Randi report, the scar, and the plan humming under all of it are not going to let me sit long.

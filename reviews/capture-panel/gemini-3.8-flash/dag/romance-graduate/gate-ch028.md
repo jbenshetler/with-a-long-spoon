@@ -1,26 +1,27 @@
-*capture-dag-v2-rich · gate ch028 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 08b46669b5c5 · 2026-10-01*
+*capture-dag-v2-rich · gate ch028 · gemini-3.8-flash · romance-graduate · prompt-sha 64e37969bd33 · prose-sha f4bbb5872a6b · 2026-09-29*
 
-REACTION:
+REACTION
 
-I am sweating. I am genuinely sweating.
+I feel sick. I feel absolutely, exquisitely sick to my stomach.
 
-The psychological horror wrapped in the absolute softest, most intoxicating luxury—I don't think I've ever read anything that pulls off this specific tightrope. Randi is an absolute masterclass. The brilliance of having her take Vee's mortifying, shameful, ugly blow-up at the bar and reframe it not as a fuck-up, but as *proof of passion*. "That's not the disaster, honey. That's the only thing that matters, and you handed it to him for free." The relief Vee felt in that moment was so palpable it made my own chest unclench, even while my brain was screaming *she is setting you up!*
+I need to scream into a pillow. I knew what this book was. I *read the jacket.* I’ve been sitting here for thirty chapters watching the trap being built with mortise and tenon precision, telling myself I was ready for it. I wasn't ready.
 
-And then the physical grooming. Good god. The way Randi operates is just so damn smooth. Kneeling on the floor in front of Vee, sliding her hands *up under the long skirt*, gripping the bare flesh of Vee’s thigh to "balance" her, pressing a thumb into the soft hollow behind her knee... and Vee is just standing there half-naked in a bra, letting another woman dress her, style her, and manipulate her entire trajectory. It’s so deeply erotic precisely because it wears the disguise of female bonding. "It’s dress-up, the oldest game there is." No it isn't, Vee! You are being marinating for a feast!
+First of all: *the table against the wall.* "Three weeks in, when she had already shown him how far her appetite ran, he had lifted the top off and shown her what he had built and offered to take her further, and she had asked for it, lit up, before he had finished offering. He saw her on it as she had been that night, facedown with her ass up and every inch of her flushed the color of the wine, wet enough to shine, saying *please*..."
+THERE IS THE BENCH. It has been sitting in that room disguised as a table the entire time. He built a spanking bench, covered it with a wooden top, and Randi was on it screaming *please* weeks before Vee even knocked on his cab window. The casual brutality of dropping that reveal in two sentences while Randi folds her clothes over it!
 
-"Maybe you just haven't met your Evil Queen yet." The dialogue in this book is unreal. The sheer audacity of Randi dropping that line with a laugh.
+And then Randi. My God, Randi. She didn't just go over to his house to debrief; she used Vee as foreplay. She used Vee’s absolute heartbreak, her earnest, raw, crying vulnerability—standing in that dorm room in her black lace bra hoping to fix her life—as dirty talk to ride Pace into the mattress. *"I had her standing in my room this morning... The tit goddess was generous with that girl."* And then putting his hand on her own thigh to show him where she touched Vee under the skirt? Telling him about the thumb behind the knee, about the sound Vee made? It is diabolical. It is erotic malpractice of the highest order. Randi was wet from the moment she touched Vee's bare foot, and she brought that exact heat straight to Pace's bed to spend it with him.
 
-And that kiss in the foyer. The progression of this physical boundary eroding is the most delicious slow-burn trap I have ever witnessed. First it was an accident/European greeting at the curb where Vee looked around to see if anyone saw. Then it was accepted. Now? *“She hadn't braced. Hadn't tensed. Her mouth had just met Randi's. It was only what they did.”* The normalization is complete. The trap is sprung. Randi has her dressed in *her* shoes, *her* scarf, acting on *her* timeline ("Not today... tomorrow night"), sending her back to Pace's bed like a bespoke gift she wrapped herself.
+What makes it so terrifyingly good—and what makes me want to throw my Kindle across the room while furiously turning the page—is that Pace genuinely loves Vee. He isn't sneering. He isn't running a frat-boy bet. He hears about Vee crying in Randi's room and his heart breaks for her. He feels *warmth* that the two women have each other. When Randi tells him how she touched Vee, he is overwhelmed because he wants them *both*, because he's picturing them together, happy, lit. They aren't trying to destroy her; they are trying to *consume* her. They love her the way you love a feast.
 
-The contrast between the two of them—Pace with his plain white sheets, honest food, and agonizing patience, and Randi with her sharp, surgical, velvet-gloved orchestration—is mind-melting. Vee thinks she's taking charge of her romantic narrative. She is literally walking to his door wearing Randi’s scent, Randi’s silk, and Randi’s shoes. I need Saturday night immediately.
+And tomorrow night, poor, sweet, beautiful Vee is going to put on those borrowed cognac heels, tie that green silk scarf with the lopsided knot Randi taught her, walk up his steps thinking she’s a bold, autonomous woman fixing her romance, completely unaware that she is walking into an ambush that was rehearsed and consummated on his bed twenty-four hours earlier.
 
-***
+The depravity of the psychological staging here is unmatched. I am horrified, I am burning up, and I cannot put this down.
 
-GATE 29 — broken-in
+GATE 30 — Space
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 1
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension is unbearable in the best way; watching Randi physically handle Vee under her skirt while engineering her apology to Pace is top-tier psychological erotica.
+WHY: The revelation of what was hidden under the table, paired with Randi using Vee’s raw vulnerability as dirty talk while riding Pace, was sickening, brilliant, and scorchingly hot. Watching the trap close around Vee while she thinks she's orchestrating her own romantic triumph is unmatched psychological tension.

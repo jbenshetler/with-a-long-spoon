@@ -1,28 +1,20 @@
-*capture-dag-v2-rich · gate ch014 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · 2026-10-11*
+*capture-dag-v2-rich · gate ch014 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 25b7bedbae77 · 2026-10-01*
 
-REACTION:
+REACTION — Third time now. Three times Vee has sat across from someone and handed the story of Pace over, itemized, admired — Randi at the smoothie place, Cassie in the room, now Kayla and Meg over fries. And I'd be more annoyed about the repetition except the book keeps doing it *on purpose*, I think — the debrief is the actual relationship dynamic here, Vee turning her own life over to a girl and getting picked clean, and the fact that I can't tell whether that's sweet or sinister is doing exactly what the blurb promised. "Vee, that's insane" / "It's making me lose my mind" — and she tells the *true* part, the part that would sound like nothing to anyone: he asks what she wants and waits for the real answer. She said that out loud at a corner table with her whole chest and I felt it. That's the most honest she's been about the kink without naming it, in front of people who'll never know what they heard.
 
-Okay. So that's what it looks like from inside the conspiracy when it's working.
+But here's where I sat up. Meg's line: "Everybody's different at the start. I said it about Danny. Word for word." That's the book winking at me, not at Vee — the Genre Line, the exact sentence I've read in four hundred books, spoken by the sane friend, and the book hands it to Vee and *she lets it go by. It didn't catch on anything.* She's outside the formula and doesn't know it. Chills, honestly. Because Meg's right about the world and wrong about this book, and I'm the only one at that table who knows which.
 
-I read the whole thing with my stomach in my throat. "Tell me" — I knew what she was going to ask for before he did, and I still wasn't ready for it. He's inside his girlfriend and she's riding him and what she wants, what she *needs to come*, is the inventory of Vee. Gardenia and musk, warm since morning, mostly the musk by now. The chlorine under the shampoo. He has *memorized this girl*. You don't clock the hint of chlorine on a woman's hair unless you've been paying the kind of attention that should be illegal. And Randi takes it in through her body — the grip, the roll of the hips, the laugh that comes out thin, *not her laugh*. That laugh. I've heard that laugh. That's the sound of somebody coming apart and pretending it's a good time.
+Kayla is a gift. "That's not a message, that's a ransom note." "There's no meal at two." I laughed and then I got quiet, because *she's* right — there's no meal at two, and I know what's at two o'clock, and it's got a bench in it, and Vee doesn't, and Kayla just accidentally read the invitation correctly and then moved on to hair appointments. The dramatic irony is almost cruel at this point. Every chapter since ten has been walking her up the gravel drive without her knowing it, and now the door finally has a date and a time. Twelve days. She counted without counting. The girl is gone.
 
-And then "Her stomach is soft" and she *clenches down so hard he says her name*. Because — and this is the part that's going to keep me up — "He did not say how he knew. That she had given him herself, in the truck with the rain coming down, and he kept it." He kept the truck. He kept the buttons and the wet bra and her knees on the bench, and he gave Randi the scent and the freckle-level stuff but not the thing Vee *did*. I don't know what to do with that. It's the first lie in the marriage of the two conspirators and it's a lie told *in favor of Vee's privacy*. He's protecting her from the game even while running the game. Or he's keeping her for himself. Both readings are live and I love a book that lets me hold both.
+Minor gripe, real one: this is the second friend-reaction chapter in the last three, and the shirt scene lost maybe ten percent of its charge in the retelling — not because it was told badly, it was told joyfully, but I already had the rain on the glass. The new material is what earns the chapter: the text itself, the bareness of it, Kayla's forensic read, the whole table tilting toward Saturday. And the ending — "no meal at two" sitting there while nobody gets up to leave — is the right place to cut. It's the light going orange and thin on the night before everything.
 
-"I want us." Torn out of her, mid-stroke, at his ear. I had to put the book down for a second. *Us.* She doesn't say "I want her," she doesn't say "I want this" — she said *us*, and I genuinely don't know if she meant the plan, the threesome, the three of them as some impossible thing she can't picture yet, or just the word her mouth found when the want got too big for her body. That's the closest Randi's come to saying the true thing since the bench, and she said it with her eyes shut, to him, while full of him, and she will absolutely never say it again.
+I'm not skimming yet. But if the next chapter is another person being *told* about Pace instead of being *with* Pace, I will be. Saturday's loaded. Two o'clock. Go through the door.
 
-And then she leaves. My notes said: what will she do instead of cracking? Answer — she runs. She skips the part she keeps for herself, the staying-loose-on-his-chest part, she gets the blanket, and then she's *dressed and at the door* within minutes. "No thanks. I'm good." Bright, from inside a camisole. She got what she came for and it was more than she could lie still under — his read, and it's a good read, and it's still not the whole of it. She can't be in that bed tonight because the bed has Vee in it now. Vee's smell in his telling, Vee's soft stomach, Vee everywhere. Randi used to stay. Tonight the house has another woman in it even with the woman gone, and Randi drove home to her single room with the deadbolt and I want to know if she cried in the car. I bet she didn't. I bet the face drove home.
-
-Him standing in the open door watching the taillights, hungry, eating alone, still hungry after, making more — the man who didn't drink the wine so he'd have it from her mouth is now eating twice at an empty table because the woman who never leaves left. Rivers keeps feeding these people and starving them in the same gesture and I'm starting to think that's the whole book.
-
-One thing I clocked cold: "the chair by the door with nothing on it, and set that aside." Filed. I don't know what goes on that chair yet but something does.
-
-I texted my friend at a reasonable hour instead of 1 a.m. because I needed to say out loud: the book gave me a full explicit sex scene and the hottest thing in it was a woman asking to be told what another woman smells like. That's craft. That's what I'm starving for.
-
-GATE 14 — Swim Lanes
+GATE 15 — What to Wear
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
+CAPTURE: 6
+NEXT: 8
+HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: The scene gave me everything at once — full explicit heat and the psychology running underneath it like current, Vee off-page but more present than if she'd been in the room. Randi's "I want us" and her leaving are the first real crack, and I need to see what's on the other side of it. Also that chair by the door is a loaded gun and I want it to go off.
+ALMOST-STOPPED: "Everybody's different at the start. I said it about Danny. Word for word, I think." — not a quit moment, but the instant I felt the retread-friend-scene pattern and decided I'd take one more, not three.
+WHY: The invitation itself, the unread text with a door behind it, plus "no meal at two" — that's the whole engine of the book firing in one line of friend-dialogue. Low capture, high pull: I'm reading on *tonight*, not because this chapter was the best one but because Saturday is now a real address.

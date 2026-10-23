@@ -1,34 +1,26 @@
-*capture-dag-v2-rich · gate ch064 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 0262c804492d · 2026-10-11*
+*capture-dag-v2-rich · gate ch064 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha fc6ed94829c1 · 2026-10-11*
 
-REACTION:
+REACTION
 
-Oh, my *heart*.
+Oh, God. My chest actually aches.
 
-I walked into this chapter with my stomach in absolute knots, because after the filthy, suffocating, completely unhinged three-ring circus of the last few chapters—Vee getting off to Randi's memory in her dorm room, Randi and Pace violently hate-fucking each other into the mattress while talking about Vee's breasts—I was bracing for impact. I thought Sheri was going to be the tripwire. I thought the lie was going to blow.
+This whole chapter was so quiet and devastating. It opens with that pitch-perfect morning-after haze—the water on the folded paper towel so it won’t mark the wood, the fresh-baked cinnamon raisin bread cooling on the rack, her in his soft terrycloth robe—and it lures you into thinking it’s going to be just a sweet, domestic debrief of the taproom. And then Vee asks the simplest, most devastating question a twenty-one-year-old girl surrounded by a bustling web of college friends could ever ask: *Why don’t you have friends?*
 
-Instead, Helen Rivers just casually shattered me on an emotional level.
+The way Pace answered it… it completely wrecked me. It’s so mathematically dry and utterly devoid of self-pity, which makes it a thousand times more brutal. *“Men make friends by competing… I was never once in the pack.”* The timing of male socialization—thirteen to fifteen, the pack dynamic, the window closing on a timer by twenty-two. And then the terrifyingly quiet admission of what happened to the prodigy boy: the older men *“either weren't safe or weren't welcoming.”*
 
-First of all, Vee getting dressed in Meg's keyhole top, a borrowed micro-skirt, and Randi's four-inch stiletto heels to go sit in a sticky-floored local taproom in the dead of January is *so painfully twenty-one*. Dressing for the phantom blonde your self-hatred manufactured in the dark, only to walk in and face five feet of bleached permed roots, heavy eyeliner, and pure Appalachian steel? The instant Sheri looked Vee up and down—slowly, taking in the keyhole, the bare thighs, the ridiculous shoes—and instead of sizing her up like a sorority girl, her mouth just went into a soundless, appreciative *“oh”*? Vee bursting out laughing from the sheer, dizzying relief of it made my eyes sting. It’s so real. Women are so used to the razor blades we carry for each other that when another woman just flat-out enjoys you, it knocks the wind right out of your lungs.
+Vee doing the math in her head—connecting what Sheri said about his father and leaving home at sixteen to his silence about Daphne—is just extraordinary emotional storytelling. She sees it so clearly: he didn’t just skip grades; he was entirely robbed of a cohort. He lived on empty campuses over holidays taking summer courses because he had no home to return to, trapped in an eight-person graduate seminar while eighteen-year-olds were spilling beer in dorm halls and forging the friendships of their lives. When Daphne groomed and claimed him, she was literally the *only* person in his entire universe. And when she left, he had zero safety net. Just a house, a patent, a pile of money, and absolute, crushing silence.
 
-And then Sheri asking Pace, at top volume, if he gets to motorboat those things, and watching *Pace*—the impenetrable, unreadable, empirical mathematician—turn beet red and rub the back of his neck? God. Vee got to see him entirely humanized, stripped of his polite professorial armor, off-duty with the one person who doesn't need anything from him.
+And the terrible irony—the elephant in the room that made my stomach drop while reading this—is that Vee sits there thinking, *“His one friend on this earth a five-foot woman who could never want him—the only kind, she was sure now, the world had ever quite let him keep.”*
 
-But the turn. *The turn.*
+Vee doesn’t know. She thinks Sheri is his only friend. She has *no idea* that Randi is in that house, in that bed, tangled in those exact cashmere blankets. She doesn't know that Pace and Randi are using each other as a pressure valve, talking about Vee while Pace is balls-deep inside her. Vee is hugging him with her whole weight, trying to warm an emptiness that was carved out when he was fifteen, completely blind to the fact that her best friend is part of the secret machinery keeping him intact.
 
-When Pace walks to the bar and Sheri drops her voice to tell Vee the truth about how they met? I stopped breathing. The dance hall, the men making down payments on women with two-steps, and Pace just dancing because the dance was the point. And then Sheri coming out, losing her entire life—her Marine dad, her church, her friends, the whole table pulled out from under her—and crying in the middle of a two-step. And Pace just driving her home in silence, showing up the next morning with coffee and donuts, fixing her landlord's broken lock, stopping the dripping faucet, inviting her on a bike ride, buying her a bacon cheeseburger. No hollow platitudes. Just *being there*.
+It’s so tender, so sad, and so deeply grounded in character psychology. No manufactured melodrama, just two people in a sunlit kitchen facing the cold, irreconcilable geometry of who he is.
 
-And then the casual, devastating reveal: *“Went bad with his daddy. He hasn't been home since he was sixteen.”*
-
-*Jesus Christ.* The pieces of Pace just keep falling into place. Daphne broke his heart in college, but his father threw him out in the cold as a kid. He is a boy built entirely out of exile. That is why he cooks. That is why he fixes things. That is why he shines his truck headlights on Sheri’s porch until the light clicks on, and why he holds Vee’s hip like ballast when her heels fail her. He builds shelters for other people because nobody built one for him.
-
-The tragedy, the absolute *knife* twisting in my gut while reading this gorgeous, tender chapter, is the dramatic irony. Vee is falling so deeply, cleanly in love with him—watching him drive with two hands on the wheel, ten and two, carrying her like something he has no intention of spilling—and she has *no idea* what he and Randi did in chapter 64. She thinks she's seeing the whole picture now. She thinks she has him figured out. She thinks she's safe.
-
-This book is cruel and magnificent. Zero physical sex, but the emotional charge and character depth here felt bigger than an orgasm.
-
-GATE 65 — Another Round
+GATE 66 — Hangover
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9
+NEXT: 9
 HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The reveal of Pace’s estrangement from his father and the sheer, earned warmth of Sheri completely gutted me. It balances the dark, tangled web of Randi and Pace’s secret hookup with profound, aching tenderness. I could not turn the page fast enough.
+WHY: Pace laying out the exact mechanics of why he has no male friends was emotionally brilliant and heartbreaking. Vee holding him against the counter without offering cheap pity is the kind of mature character work I live for. I need to see what happens when Randi hears about this.

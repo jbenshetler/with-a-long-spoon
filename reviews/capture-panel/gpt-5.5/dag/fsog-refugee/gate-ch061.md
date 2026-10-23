@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch061 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 7514bd75e597 · 2026-10-11*
+*capture-dag-v2-rich · gate ch061 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f697ae9ef8f2 · 2026-10-11*
 
-REACTION — Oh, this one got under my skin in that quiet dangerous way. Not because anything huge “happened,” exactly, but because Vee is so deeply in the groove of wanting now that she doesn’t even know which current is carrying her. She is dressing for Randi with the same private fizz she has for Pace, saving the story like a gift, not eating because there will be a table and Randi across from her. Honey, that is a date. It is so much a date I wanted to tap the page.
+REACTION — Oh. Oh, this one got under my skin in a way I’m still sitting with.
 
-And the lecture made me sit up immediately. Grooming, touch, trust, who tends whom, what intimacy replaces in modern people. The comb going hand to hand while Vee and Randi share wintergreen without looking at each other was almost more intimate to me than if they’d just kissed in the row. One flavor between them. One little object passed palm to palm. This book keeps making objects carry heat, and I am helpless against it.
+It’s such a small chapter, technically, just Vee alone in her room, but it feels like a door opening and not opening at the same time. I love that the book let her be alone with the wanting. Not performing it for Pace, not narrating it to Randi, not being praised or guided or teased into shape. Just Vee, in Pace’s flannel, with the room too hot and her own body refusing to be theoretical anymore.
 
-The restaurant scene was exactly the thing I’ve been waiting for and dreading. Vee telling Randi about Pace is hot, yes, but it is also not just gossip anymore. Randi is not a safe audience outside the erotic charge. She is inside it. She knows where to press, knows when Vee is shrinking the story, knows how to make her say the truer thing. And Vee wants that. She wants to be drawn out. She wants Randi to hear the real version, not the white-cloth version. That is a kind of undressing, and the book knows it.
+And what undid me is that she almost does it. She gets all the way to the edge of tasting herself, and the chapter doesn’t punish her for stopping, but it also doesn’t let the stop mean she doesn’t want it. That is exactly the kind of consent/threshold writing I came for: the wanting is real, the hesitation is real, and neither cancels the other out. She can’t close the distance yet. That “yet” is screaming.
 
-The “gross/wrong” conversation about kissing after oral was the heart of it for me. I loved that Pace had already handled it right in the moment: she objected, he stopped that part, wiped his mouth, accepted it, didn’t make her perform being cooler than she was. But now Randi gives Vee the other half, not by pushing, not by mocking, just by calmly saying, “I don’t.” That was delicious because it doesn’t override Vee. It opens a door in her own body she had slammed shut with a joke. And then Vee’s body remembers before her mouth can keep up. That is exactly the kind of awakening I read for: desire coming from inside her, inconvenient and undeniable.
+Randi is not even in the room and she is everywhere. That’s the danger now. Pace’s wet mouth is the memory, but Randi’s calm little “I don’t” is what gives Vee permission to look at it again. And then Vee’s mind going to Randi’s own fingers — I mean, girl. Girl. We are no longer pretending this is just best-friend intimacy with a side of brunch. The book is letting Vee discover her desire by following the cleanest little trails: smell, taste, memory, curiosity, shame, permission. It feels so private I almost felt like I should look away, except I absolutely did not want to.
 
-Randi scares me more here, though. Not in a villain way. In a “this woman is starving and has excellent manners” way. She is too good at holding Vee’s gaze. Too good at knowing when to be tender and when to be merciless. “You picked well” felt like a blessing and a wound at once, because Randi knows more than Vee does about the picking. And then the neck kiss again. Vee is pleased with herself, playful, still filing it under friendship, and Randi’s body is absolutely not filing it there. The little catch, the rise that goes on too long, the cover of “ticklish” again — she is losing containment.
+The “greedy” thing hurts me. Randi gave her “hungry out loud,” and Vee believed it for a while, but alone she still reaches for the uglier word. That’s the old damage, isn’t it? Not just sexual shame, but appetite shame. Too much body. Too much wet. Too much wanting. Too much need. And Pace’s gift, over and over, has been treating her plenty like something welcome. Randi’s gift may be treating it like something powerful.
 
-I’m still not mad at the book. That matters. This could feel manipulative if Vee were being pushed, but she is so clearly reaching. She is reaching for Randi’s attention, Randi’s reaction, Randi’s permission to feel more than she thought she was allowed to feel. The danger is in the undisclosed third game, not in the heat itself. And that danger is getting louder. I want the next chapter badly because the book has me right where it wants me: thrilled for Vee’s appetite and increasingly nervous about who knew the shape of the meal before she sat down.
+Also: Cassie’s window. The room needing to be aired out before Cassie comes back. That made me ache because Vee still has to hide the evidence of herself from the safest person in her life. And then she lies down on the damp patch anyway. That last beat is filthy and sad and triumphant all at once. “Her mess. Hers to lie in.” I actually whispered oh no at that, but in the good way. The book keeps making ownership erotic without making it about someone else taking ownership first.
 
-GATE 62 — A Clean Plate
+This was not the hottest chapter in terms of someone touching her, but it may be one of the most intimate. I want the next one badly because this is going somewhere, and it is going there through Vee’s own hand.
+
+GATE 63 — The Reach
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "You picked well, you know."
-WHY: That line pricked me because Vee didn’t really pick from a clean field, and Randi knows it. But the chapter pulled me hard: Vee’s desire is hers on the page, Pace’s care still matters even offstage, and Randi’s tenderness and hunger are now almost unbearably charged.
+ALMOST-STOPPED: "Greedy."
+WHY: That word almost made me flinch away because I hate hearing her turn her own hunger into an accusation, but the chapter stayed with her instead of shaming her. The heat worked because it was all consent from the inside: wanting, stopping, trying again, still unfinished. And Randi’s absence being that present has me absolutely locked in.

@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-07*
+*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-07*
 
 REACTION
 
-Oh, this is nasty in exactly the way I mean as a compliment. Vee finally sees something Randi didn’t mean to show her, reads the whole human truth underneath two words, and then—crucially—doesn’t pry, doesn’t expose her, doesn’t demand intimacy as payment for noticing. She just slides the laptop over and gives Randi some work to hold. That is such a grown-up act of tenderness. It made me love Vee more than any of the daring dresses or sexual discoveries have. She is not merely the young woman being read by two sophisticated people. She can read someone too, and she can be gentle with what she finds.
+Oh, the shirt got me. That embarrassingly specific little need—not just wanting something of his, but wanting it recharged with his actual smell, admitting she has been sleeping in it every night she isn’t sleeping beside him—and Pace simply putting it on over the shirt he already has? That is exactly the kind of intimacy I’m here for. No teasing her, no making her translate the request into something less needy, no pretending not to understand. “All weekend.” God.
 
-And now I am furious all over again, because the moral imbalance is almost obscene. Vee sees Randi’s hidden wound for perhaps thirty seconds and immediately protects it. Randi has spent months deliberately reaching into Vee’s appetite while withholding the fact that she is Pace’s lover. Vee thinks friendship means not making Randi carry an inherited shame in public. Randi apparently thinks friendship permits engineering Vee toward a threesome she cannot knowingly consent to yet. The comparison is sitting there like that huge point in the white, and I cannot unsee it.
+And yet: *He was good at not asking things.* There it is. That quality is beautiful when he’s sparing her embarrassment and increasingly sinister everywhere else. Vee keeps reading his silence as grace because so often it is grace. She wanted him to object to the five nights, to admit he missed her, and instead he gave her room. Grown-up behavior, yes—but he still makes her infer every large feeling from doors, drawers, food, shirts. She is constructing an entire love declaration out of his actions because he refuses to say one. I believe her construction is accurate. I also think that habit is preparing her to accept far too much unspoken reality.
 
-Cassie hurt me too. “My dad got laid off in 2020,” with no handle left on it—yes. And then she has to sit there unknowingly identifying her best friend’s father as the visible proof of exactly what happened to hers. Nobody is being theatrically cruel. Nobody even knows the whole room they’re in. That makes it worse.
+The reunion worked on me because it was undignified. The socks, the inside-out jeans, the bra caught at the back while she unwinds herself out of it—I could feel how badly she wanted him, and it didn’t read like another interchangeable marathon-sex brag. Her body announcing that she counted every night before she will admit she counted them was hot and tender at once. The actual sex was less arresting than the hallway getting there, but I believed the hunger.
 
-I also noticed how easily Vee decided that Randi had “no hand in it.” That instinct is loving, but it is also Vee’s dangerous habit: she supplies the kindest explanation before the other person has had to tell her the truth. She does it with Pace. Now she is doing it with Randi. Maybe she is right about the loans; Randi’s reaction certainly felt like genuine discovery. But Vee protects people so quickly that she may never give them the chance—or the obligation—to be honest with her.
+I did notice that this is another cycle of sex, elaborate food, and Vee understanding herself through what Pace gives her. The pizza sounds gorgeous, but we have established very thoroughly that his cooking wakes her senses. I don’t need another full tasting menu soon unless something changes across the table. The shirt saved the chapter from feeling like a gorgeous rerun because it made Vee ask for care in her own strange, vulnerable language.
 
-The title landed hard. Randi’s family is the outlier in the project. Randi herself is the glittering exception Vee thinks she was lucky enough to be chosen by. And Vee is still the only point in this whole arrangement without the full dataset. Now she carries one of Randi’s secrets with exquisite care while Randi and Pace carry the secret that could split her life open. I am absolutely reading on. Somebody has to make that asymmetry visible, and I need it to be soon.
+Also: excuse me, the “long, unusually proportioned table” in the bedroom? And her green thong landing on it while she never looks? I looked. The book absolutely wanted me to look. That is either the unopened door from the jacket quietly sitting in the room, or I have become as suspicious of furniture as I am of Randi. Pace made it, presumably. I would now like to know what it is for.
 
-GATE 44 — The Outlier
+I’m still furious that Vee is this deep into belonging to him while he and Randi are discussing her readiness and getting off on her private confidences. The tenderness here makes the concealed arrangement worse, not better. She thinks the shirt is traveling between *her* nights and *his* nights. Meanwhile, his life has another woman inside it whom Vee believes occupies an entirely separate world. Every new domestic ritual raises the eventual cost.
+
+Would I read on? Yes. The shirt left me soft, the table left me alert, and “good at not asking things” felt like the chapter accidentally putting a finger on the whole dangerous structure.
+
+GATE 45 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: Vee sliding the laptop toward herself and giving Randi ordinary decisions to hold was more intimate than a confession would have been. The chapter gave me the contact I needed, and the new secret makes the old one feel even less tolerable.
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: “She could not have said, watching him, which of them got the larger share, and found she didn't mind.”
+WHY: The sex-and-food rhythm is close to becoming repetition, and another extended tasting passage tested me. But Vee’s request about the shirt was painfully intimate, Pace’s immediate answer landed perfectly, and that suspicious bedroom table has me very awake.

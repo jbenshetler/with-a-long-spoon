@@ -1,30 +1,40 @@
-*capture-dag-v2-rich · gate ch020 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8611b8522702 · 2026-09-29*
+*capture-dag-v2-rich · gate ch020 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 332b2e10547e · 2026-10-23*
 
 REACTION
 
-Okay so the thing I actually want to talk about is the panties.
+The chapter is called "Fed" and Vee thinks it's about her.
 
-Because everything before that — the sex — was very good and also more or less what the book had promised me. He goes down on her standing up. He watches her face the whole way and she turns into the pillow and it buys her nothing. He asks *would you be bothered if I was too hard*, which, come on. That's the best line in the chapter and it's doing the whole book in eight words: he takes her shame, flips it, hands it back to her as *his* problem, and asks her permission for it. Nobody writes that. Every other man on my Kindle would have growled "look what you do to me" and I'd have rolled my eyes into the next county. This one asks. And she has to *make herself say no so it was true*, which is the most accurate sentence about wanting something you were raised to be ashamed of that I've read in a year.
+Okay. The zipper. That's the thing I'll be carrying out of here. She's three feet from Cassie with the towel in her hand and she pulls the zipper halfway down and remembers there's nothing under the skirt, and she zips it back up — and the reason isn't modesty, it's that *underwear on the floor isn't a story she can edit.* "I forgot my—" and a gesture at nothing. She won't get naked in front of the only honest person in the book. And the ladle sentence: lifting the middle out clean, the surface closing without a hole. That's the most accurate description of how a person lies to someone they love that I've read in one of these, and the book didn't stop to underline it, it just moved. Then Cassie says *you need to get your brain back from your boyfriend* — kindly, certainly, wrong — and she's out the door to her game and the door sticks and gives. I have maybe two chapters of Cassie left. I can feel it in my teeth.
 
-But the panties. She gets up from dinner, wrapped in his sheet, walks down the hall without explaining herself, comes back with them, tries to fold them one-handed, drops the sheet and *doesn't pick it up*, finishes the fold — in thirds, spot centered — and says "Trade." That's not him doing something to her. That's Vee inventing a filthy little ritual out of nothing, on her own, naked in a kitchen, and being the one who names the terms. She kept his shirt. He keeps this. Even. And "something in his shoulders was private and she let it be private" — she gave him a thing he wasn't ready for and then had the grace to not look at it. Twenty-one years old. My God.
+And then the sun porch, and I want to climb inside Randi's head and also never be in a room with her.
 
-And I am *sick* about it, because those panties are now an object in a house that Randi has a key to. Or near enough — she lets herself in with the deadbolt. Somebody is going to find those. Or worse, he's going to be asked *tell* and he'll have this in a drawer and he'll keep it back, the way he kept the froyo line, the way he didn't say how he knew her stomach was soft. The crack widens by one more thing he doesn't hand over. He's not lying to Randi. He's just accumulating a private Vee, item by item, and he doesn't know that's what he's doing.
+She ran the fake-bad-date play AGAIN. Second time. Beautiful ex-boyfriend, nervous, hurrying like the building's on fire, *at least I got dinner out of it ahead of time.* And I rolled my eyes for about four seconds — oh, this move, we've done this — and then I watched what she *built* with it, and I stopped rolling. She didn't just alibi herself out of having a boyfriend. She manufactured a man who is the exact photographic negative of Pace (in a hurry / *there was no clock anywhere in the world*), handed Vee a deficit — *I'm running on fumes, give me something to live on* — and then sat there and had a twenty-one-year-old describe, in detail, being taken apart by Randi's own boyfriend, and thanked her for it. She has engineered a world in which Vee owes her the account. That's not a trope, that's a *crime*, committed with a flute of orange juice.
 
-The green. She goes to the mall "for nothing in particular" and the green *calls to her*, "so exactly her color that it seemed to have been set out and waiting." Randi's smell, two chapters ago, coming off Vee's own jaw: *something bright and green she had no name for.* I don't think Vee knows. I think the book knows, and I think it put her in Randi's color to be taken out of by Pace, and I sat up straight when I clocked it. Plus she paints her toes the shade of the silk he held up to her face and hides them in flats. She's decorating herself in two people at once and calling it nothing in particular.
+The mimosa. First one Vee priced — did the arithmetic, Thursday would survive it. Second one she "did not price at all." Four words. That's how a person gets bought: in increments she can almost afford, at a table where she keeps choosing. God.
 
-What I'm actually most grateful for: the shame didn't resolve. It didn't get healed, it didn't get talked out, he didn't explain her to herself. It just *ran the whole length of it and never closed her.* "The shame was still running and I could not find the top of it and I did not try. It was the first time that had been true." That's the thing I wanted out of chapter one and the thing Randi couldn't do in her bathroom mirror. Vee came out from behind her face and stayed out. Randi locked the door. Same man, same method, opposite result — and the book didn't say one word to point that out at me, which I appreciate more than I can say.
+Two things made me sit up.
 
-The scar. High on the inside of his thigh, large. Her hand stops on it and the book moves on in the same sentence. That's the third one-sentence deposit — Daphne, the right hand, now this. I'm keeping it. If it's nothing I'll be annoyed.
+One: the accent. Randi's esses running long, the a's lifting, more of it than when they sat down — and Vee thinks *she's a little drunk*, looks, sees one barely-touched glass, and the explanation doesn't come, and *the light moved on the porch, and Vee let the question go.* That is the first crack in the finished surface and it's not a secret boyfriend or a secret bank account, it's a **voice she scrubbed off.** Something comes out when she's eating well. Filed next to the white-gold band and the money-money car. I don't know what Randi is yet and I've just realized I've never once wondered where she's *from.*
 
-Friction, honestly: *floozie* appeared enough times that I started hearing it as a metronome rather than a knife. It's the engine, I get it, but this chapter set it going on a timer. And the opening — the mall, the polish, the bed covered in tried-on clothes, the "like a short story" line she says to the mirror — that was four hundred words of a girl getting dressed and I was tapping the side of my Kindle. She's earned better openings than a fashion montage.
+Two: the frosted plum. Vee can't answer *why'd you pick it* because the answer is the burgundy silk on the sun porch, the dress he's making her, the thing she already decided not to hand Randi. So the blush comes up instead — and Randi, triumphant, reads it and says *that face isn't about a color, is it* — and she's **wrong.** She thinks she just cracked the safe. She got the wrong vault. Vee said "No," and the book let her, and the one real secret in the room walked out the door still in her pocket. I actually put the page down to be pleased about that.
 
-What I want now: Randi. In the room, in the drawer, in the car. She kissed Vee on the mouth and drove off and now Vee has been fully had by the boyfriend, and neither of those two has told the other the true thing. Somebody's going to ask *tell* and somebody's going to hold something back and that's the night this breaks open. I'd text a friend: *he asked her if she'd mind that he was too hard and then she handed him her ruined underwear like a business card. book one. BOOK ONE.*
+And then the kindest, most frightening line yet: Vee feels a thread of fear at how much of herself she's handed over without deciding to — the one honest flinch of self-preservation she's had — and Randi covers her painted hand and says *you're not caught, sweetheart, you're lucky.* She closed the exit. Softly. With love. Possibly meaning it, which is the part that's going to kill somebody.
 
-GATE 20 — Famished
+What I keep turning over: *I wanted it, and I took it. For once.* That's true. It's the truest thing she's said. And she said it inside a conversation that was designed. Both facts stay facts. This book will not let me have the easy version where she's a victim or the easy version where she's free.
+
+She didn't check the street after the kiss this time. I noticed that before the paragraph told me, and then the paragraph told me, and it was fine, because what it said was that the reflex is gone.
+
+What bugged me: third lunch-interrogation in the same architecture — bright room Randi picked, Vee reading the right side of the menu, one small *yeah* at a time, Randi naming what Vee only felt. It got new things out of her (the toes, the campaign, the accent slip) so it earned its keep, but I'm now watching the furniture. If the next Randi scene is a fourth booth and a fourth extraction I'm going to start reading it with my thumb already moving.
+
+Also the "rose-colored glasses / lowered my expectations" bit is the one line in twenty-one chapters that sounded like a joke written for a jacket.
+
+What I want: Randi alone with what she's collecting. Randi finding the green satin. And that dress, on that body, at the front of a room, with her mother in it. She had never in her life been so happy — don't write a sentence like that at me unless you're about to cash it.
+
+GATE 21 — Fed
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "She left the toenails for Friday. That afternoon, with hours yet before she had to leave and the light still good at her desk, she painted them" — the whole getting-dressed stretch before he opens the door.
-WHY: The shame ran the entire scene and never once shut her down, which is the thing I've been waiting nineteen chapters for, and it didn't get explained to me. Then she invented the trade herself, naked, spot centered, and made a token out of it — and now there's physical evidence of Vee in a house Randi walks into. I'm not putting this down.
+ALMOST-STOPPED: "I ran into an old boyfriend on campus. Beautiful."
+WHY: The zipper and the ladle are the best quiet half-page in the book, and the accent slipping under one untouched mimosa is the first real crack in Randi. Dinged half a point because I can now see the shape of the lunch scene from the doorway — but it keeps paying, and Randi cracking the wrong safe while Vee holds the dress back has me counting chapters to the induction.

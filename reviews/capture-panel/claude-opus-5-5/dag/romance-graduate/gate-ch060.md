@@ -1,26 +1,32 @@
-*capture-dag-v2-rich · gate ch060 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9feb48dd23cb · 2026-10-11*
+*capture-dag-v2-rich · gate ch060 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 7514bd75e597 · 2026-10-11*
 
 **REACTION**
 
-"Vee's boyfriend." Six times. He found a word he could spend, and he spent it like a man who'd just found out he could. It isn't *the* word and I know it isn't. But my chest did exactly what Vee's did, and I caught myself mouthing it with her at the brisket. That's a little embarrassing to admit at 1 a.m.
+Okay. "I don't." Two words, flat, set down on a tablecloth, and I said "oh" out loud on my couch. That's the moment I've been waiting for since the kiss-taste thing, and the book didn't spend it the way I expected. I braced for a speech, or Randi leaning in with some knowing line. Instead it was the restaurant-recommendation voice: "It was powerful. It turned me on." Then the one question, "How does he act?", and Vee hears herself say *enthusiastic* under oath. That's the cleverest thing Randi has done in the whole book. She didn't argue Vee out of "gross." She got Vee to testify against it herself and then ate the bread. I'm a little scared of her and completely in love with her.
 
-Then Randi's hand closed on Vee's "hard enough to feel the bones," and Vee read it as being happy for her. I put the phone down for a second. Oh, honey. That was a woman bracing herself in public while the girl she loves holds her hand through it.
+The interrogation before that was hot, and hot in a way I don't get from the usual stuff. Vee folds the blowjob down to "it was a lot." Randi taps one finger on it: "Did you take it all?" "Didn't spill a drop?" Then "You *did* it. And you can't even say it." The heat wasn't in the act, which I already watched last chapter. It was in Vee's mouth going dry in public, unable to say back the thing she wasn't ashamed of doing. That gap between body and voice is the whole book, and here it got turned into foreplay. Then "Don't you fade to firelight." Ha. I felt seen, and also a little winked at. I'll allow it once.
 
-The middle stretch made me nervous at first. I thought I was in for a party chapter of everybody's friends being charming. Danny's bench press went a beat long. But then I saw what it was doing. Pace hands each person their first line and leans back out of the light. Theo's shoulders come down, Meg gets funny, Cassie talks in whole paragraphs. That's lovely, and it's also the man's whole method, the one that arranged Vee's spring. Then at the end he does it to Randi. "Randi said something you should hear." He set her up exactly like the others and leaned back, and she took it all the way to "the highlight of my year." Then the glazed quiet, and "one hand gone down off the table into her lap." I read that line three times. I don't know what that hand was doing, and I don't think the book wants me sure. Vee thinks she moved her. She did. She just doesn't know how.
+Now my suspicious list, which got longer:
 
-"They share an interest... You." I got chills, and not the nice kind. On Vee's side it's the sweetest thing he's said. From where I sit with the jacket ("she doesn't know there are three"), it's practically a confession made to her face. The book didn't underline it, and I'm grateful.
+- **Randi's hand goes to her lap again.** In the roadhouse it went down, glazed quiet, and Vee read it as "I moved her." Tonight it's the fingernail riding the rim of the glass, then the hand drawn back into her lap, then a breath that "wasn't quite steady." Sweetie, I don't think that was being *moved*.
+- **Pace's "They share an interest."** That's sitting very differently after tonight.
+- **The grooming lecture.** A baboon puts its hands in another one's fur, and if you watch who grooms whom you can draw the whole politics. Then Randi spends dinner with her hands on Vee's waist, drawing her out, coaching her toward liking her own taste. Yes, I get it. This is the one place the book got close to explaining itself to me. The comb going missing in the middle rows was lovely, though, so it mostly gets a pass.
+- **"You picked well."** And Vee's quiet correction in her own head: she didn't pick. He was already halfway across the floor. That's the jacket, three games, and it made my stomach drop in a good way.
+- **The neck.** Randi "forgot" and laid it open again, and the rise lasted "a beat too long." Ticklish, my ass. Did she forget? I doubt it.
 
-Cassie's "You can stay" with the keys spinning is my favorite line of the night. The whale under the boat got me too.
+Tiny thing: the special was a braise over polenta, and then the plate going away has a chop bone and a fennel thing on it? I noticed. Moving on.
 
-The truck was the best kind of heat this book does. It's greedy, and it's *hers*: his hand stunned still in her hair, her working her own jeans down a graceless inch at a time, her pulling the lace aside and "choosing it again every second." The callback to the September truck and his shivering made me ache. The county road and the coat lining tied her old frustrated hunger to finally being fed. That's the depth-and-heat combination I came to this series for. The window and the glass turning a quarter at a time is a callback I only half hold. I know it's something I should be afraid of.
+The opening had me twitchy for a page: swim, rinse, the clarifying shampoo, the conditioner. I was thinking *we're doing her hair now?* But the sweater arithmetic saved it. She buys for the chest and lives in the tent and calls the tent her size. That's real interiority, and it paid off when Randi held her at arm's length like something held up to the light.
 
-So: no seam to manage, Vee thinks. Wrong on every count. And no heels, no blanket, no Daphne. The chapter was patient about all of it, and I didn't mind. All three of them were in a room, which is what I asked for.
+Pattern note to myself: this is the second restaurant debrief in a row where Vee retells Pace to Randi. Both have been charged, and tonight's was better than Tuesday's because something actually moved: a verdict, *I don't*. But if Tuesday's dinner is a third retelling, I'll start feeling the loop. Roadhouse-then-truck worked because it was live. I want the live scene in the room with Randi in it.
 
-**GATE 61 — Among Friends**
+What I'd text a friend at 1 a.m.: "the best friend just told her she likes the taste and asked 'how does HE act' and i'm on the floor. also pretty sure the best friend got herself off under the table TWICE now."
+
+GATE 62 — A Clean Plate
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "By the time Danny got to creatine — lowering his voice, like it was a medical matter" (a flicker of "are we doing every guest?" before I saw the pattern)
-WHY: A party chapter turned out to be the game laid out on the table, with Pace setting up Randi the same way he set up the others while Vee glowed between them. Then the truck gave me heat that was greedy and earned and entirely hers. I want Thursday's debrief with Randi now, and I want that hand in her lap explained without the book explaining it.
+CAPTURE: 8
+NEXT: 7
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "the clarifying shampoo that pulled the chlorine, the heavy conditioner it took to talk her hair back down after"
+WHY: The "I don't" exchange is the payoff I've been carrying for chapters, and Randi worked it with zero lecture, so it landed as both character and heat. My next is a notch under my capture only because this is the second dinner-retelling in a row. I want the next charged thing to happen live, with Randi actually in the room for it.

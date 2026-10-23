@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch025 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 560be63a77f4 · 2026-10-10*
+*capture-dag-v2-rich · gate ch025 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 3c75252adda8 · 2026-10-10*
 
 REACTION
 
-Oh, Randi. The shirt and the food got me before anything else did. She heard about Vee sitting in his kitchen wrapped in his sheet, feeling completely cherished, and now here she is asking to eat, wearing something of his. I don’t know how deliberately she’s doing it. I don’t think she necessarily knows. But after that untouched bowl last time, her finishing the chicken feels painfully exposed. She wants some of that ease for herself. He’s right there, making it for her, and somehow she still has to approach it through Vee.
+Oh. Peter. That got me more than I expected. By the time she says it again at the end, she isn’t collecting another fact about her astonishing boyfriend. She’s holding something for him. I’ve wanted him to receive tenderness he didn’t arrange, and her turning her palm against his over the scar finally gave me that. That is a reason to stay up reading two people on a couch.
 
-“I keep waiting to get bored of her” is such a Randi admission. Almost rude enough to hide how helpless it is. And I loved that what follows is about Vee listening and making her laugh. Yes, please, love the actual girl. The ridiculous shoe girl. There’s something slightly nasty tucked into the fondness, though: I remember them laughing together in the store, and Randi’s version makes Vee much more embarrassed, with Randi enjoying the view. I caught that. I’m not sure what to do with it yet.
+The hand resting on her breast at the beginning worked on me, too. That comfortable permission to touch, with the conversation carrying on around it. There’s still a body under all this talking. After the dress chapter, I don’t need another athletic demonstration immediately; I want to believe they like being together when neither is trying to get anywhere. The Ohio jokes helped. She can be funny here without having to become dazzling.
 
-Pace imagining both women at the table genuinely warmed me, which is aggravating because then he thinks he *cannot* tell Vee. Cannot? You want that lovely kitchen scene without risking what happens when she understands who’s sitting across from her. And his taking Randi’s repeated words as agreement made me want to put my hand over his mouth for a minute. Listen past the sentence, man. You can hear when chicken needs turning.
+But fifteen and nineteen made my stomach drop. Especially “Nothing happened. Nobody did anything wrong.” Oh, sweetheart. Who needed you to learn to tell it like that? I appreciated Vee saying “You were so young” and staying close. She doesn’t have to wrestle his happiest memory away from him to feel alarmed by it. And now I’m sitting with him calling those years the best he’d had while she calls these weeks the happiest she’s ever been. That makes the tenderness hurt. It also makes his certainty about letting her choose much harder for me to hear innocently.
 
-The stillness when he describes Vee lighting up a room hurt. I wanted him to stay there with Randi long enough for something difficult to come out. Instead she makes herself sexual, and yes, that had charge—the abandoned shirt, her wanting escaping into the kitchen—but I was watching her face more than wanting the bed. Is she aching for Vee? Wanting him to talk about *her* that way? Both seem possible, and neither feels small.
+I did get impatient with how often I was told exactly what their silences and touches meant. “Only a door with a time on it” nearly made me say *please, I understood*. His keeping her hand against the scar had already done everything. Likewise, I wanted to listen to him get excited about mathematics without quite so much assistance feeling the wonder. Still, the boy doing long division in the hallway stayed with me. His pleasure in finding people who wanted to talk to him felt more intimate than the impressive résumé ever did.
 
-I’m glad she stayed afterward. I felt that little relief. But I’m also getting hungry for somebody to say the dangerous thing while they’re still capable of answering each other. This chapter brought me closer to Randi; it didn’t satisfy that hunger.
+And that ending. Vee is lying there joining Randi and Pace into the same wonderful piece of luck, and I’m mentally pleading with him to wake up and tell her. I believe she has reached him tonight. I believe he needed this. Neither belief makes what she doesn’t know smaller. My friend would be getting: “He finally let her take care of him and somehow that made the whole situation WORSE.”
 
-GATE 26 — Gone
+GATE 27 — Rock
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 2
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: “He didn't take up the rest of what she'd set down; that was hers to hold.”
-WHY: I’m wearing thin on Pace’s failure to ask being treated as considerate restraint. But Randi asking for food and staying under the blanket reached me, and I want to see what happens when this much feeling finally exceeds what they can keep arranging around Vee.
+ALMOST-STOPPED: “the not-tonight had no wall in it, only a door with a time on it that wasn't now.”
+WHY: I wanted that gesture left alone, but this is the closeness I’ve been waiting for: Vee reaching him somewhere he hasn’t prepared for her. Now I urgently want to know whether being loved this way makes him more honest or gives him another reason to postpone it.

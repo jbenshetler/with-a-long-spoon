@@ -1,34 +1,24 @@
-*capture-dag-v2-rich · gate ch061 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 7514bd75e597 · 2026-10-11*
+*capture-dag-v2-rich · gate ch061 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · 2026-10-11*
 
 REACTION —
 
-Oh, this chapter knew exactly where my attention was and just put a finger under my chin.
+Oh. Oh, this one got me in the quiet way that makes me put the Kindle down on my chest and stare at the ceiling like the ceiling has answers.
 
-I love that it starts in the pool. Not because I needed a swim scene, but because Vee in water, doing something competent and old and quiet with her body before going to Randi, felt right. Like she has one place where she belongs to herself without narration, and then immediately she’s choosing clothes for Randi with the same charge she uses for Pace. She can keep saying “second table” all she wants, but sweetheart. The sweater was for Randi. The hunger was for Randi. The no-dinner-before-the-table thing was absolutely for Randi. I am sitting here with my arms folded like, yes, continue lying to yourself, I’ll wait.
+This is such a dangerous little chapter because nothing “happens,” except actually everything happens. Vee alone in the room, in Pace’s flannel, still glowing from Randi’s not-gross verdict, trying to meet herself where Pace already met her. That is the whole thing. Pace’s desire has been patient and steady enough to show her a version of herself she can almost bear to look at, and Randi’s one calm “I don’t” has cracked the shame open from another side. And Vee is there in the middle, trying to reach herself with her own mouth.
 
-The lecture knocked me flat in that sneaky way this book does. The comb. Grooming. One-fifth of waking life. What do modern people spend it on now? And then Vee and Randi sharing the Lifesaver without looking at each other, one flavor in both their mouths. Come on. That is so intimate I had to put the Kindle down in my lap for half a second. The book keeps giving us these physical economies: gifts, food, bodies, care, attention, and now grooming/touch/social binding. It’s not explaining itself, thank God, but it is absolutely setting the table. The comb passing hand to hand and never coming back also made me weirdly nervous. Things circulate. Things get kept. Gifts do not return clean.
+The fact that she can get herself all the way there erotically but cannot close that last breath of distance is so painfully right. I wanted her to do it. I wanted it badly. And I also believed completely that she couldn’t. That tiny gap was hotter than half the sex scenes I’ve read this year, and sadder too, because it isn’t coyness. It’s history in the body. It’s all the old “too much” training still sitting guard at the door.
 
-And then the sidewalk. I am weak for Vee rushing to tell Randi everything. She’s not just reporting sex; she’s bringing tribute. She has polished the story for Randi. She wants Randi to have it, react to it, shape it, bless it. That is where the heat lives for me here. The actual sex is already over, but the telling is practically a second act of it. Randi holding the place open like a thumb in a book? Horrible. Gorgeous. Illegal.
+And Randi is everywhere in this room without being there. That is the part making my stomach flip. Pace is the image, Pace’s wet mouth, Pace’s calm eyes, Pace’s flannel on her skin. But the question that keeps multiplying is Randi’s: did Randi mean a man’s mouth, or her own fingers, or both, and what did Randi taste, and did she like herself there? Vee can’t even let herself fully form it, but I can feel her body forming it for her. This book is letting bisexual recognition happen through texture and smell and shame and curiosity, not through some tidy little identity monologue, and thank God.
 
-The restaurant scene was hot in exactly the way I’ve been starving for: not because it adds a new body part every sentence, but because Randi keeps refusing the cleaned-up version. “Did you take it all?” and “Don’t you dare” were not just dirty questions. They were Randi demanding Vee stop making herself acceptable. That is the thing between them: Randi can hear where Vee folds herself smaller, and she will not let her get away with it. Which is tender. Which is also power. Which is also why I’m tense as hell.
+The window business killed me. She shuts Cassie’s window at the start, makes the room private and hot and sealed, fills it with herself, then has to open it again before Cassie comes back. That is Vee all over: wanting the closed room, then panicking when the evidence of her wanting has a scent. But then she lies on the damp place. That last move. Not tasting, not yet, but not fleeing either. “Her mess. Hers to lie in.” I actually whispered “girl” at that.
 
-And Vee, God bless her, does not understand that the way Randi asks is its own hand on her. Randi doesn’t touch her in the booth, but she might as well. Vee is getting turned on through being known, through being pressed into the truth. The chapter is basically Randi putting her fingers on Vee’s evasions and saying, no, here. Say it from here.
+Also, two pages or twenty, I am no longer worried this is a shortcut. This felt like a held breath between bigger scenes, but it absolutely earned its place. The reach matters because she didn’t finish it. Now I want to know who gets her across that last inch, and I am scared because the answer might be Randi.
 
-The “gross/wrong” conversation was the real door opening. I knew this mattered. I KNEW it. And Randi’s “I don’t” was so devastatingly calm. No speech, no coaching, no “actually sex-positive blah blah blah,” just a fact laid down, and Vee’s body immediately betrays her. That clench in the booth was everything. She can argue with her mouth, but her body has already voted. And the way Randi asks, “How does he act?” Not “what do you think,” not “what should you think,” but look at him. Look at his desire. Look at the permission already in the room. Randi is doing that frighteningly good thing again: giving Vee a key and letting Vee think she found the door.
-
-Also, Randi leaving most of her food while Vee cleans the plate. Title understood. Vee eating without noticing while being fed this other thing across the table. I see you, book.
-
-And then the goodbye kiss to the neck. Oh no. Oh no no no. Vee is now initiating little private experiments with Randi’s body and filing the reaction under “ticklish” because that is the label Randi handed her. Randi’s body caught and rose. Vee saw enough to be pleased but not enough to know. That is going to kill me. The casual “Only for you, gorgeous” after all of that is not casual. Nothing here is casual anymore. Not the seats, not the candy, not the second kiss, not the neck.
-
-I’m also newly afraid of Randi. Not because she’s evil, she isn’t, but because she is so good at this. She keeps making Vee more herself, and I believe the love in it, but she is still benefiting from Vee not knowing the whole frame. “You picked well” landed with a tiny poison dot because Vee didn’t pick in the clean way Randi is letting her believe. The book let Vee feel the compliment and then let the technicality walk beside her in the cold. That’s the betrayal crouching under the tenderness.
-
-So yes, I’m caught. This was a bridge chapter, but charged all the way through. Not a stall. A tightening. It made the earlier sex hotter retroactively, and it made the Randi problem impossible to pretend around. I would absolutely be texting a friend: “She just told the best friend about tasting herself on him and the best friend was like actually that’s hot, and now our girl is walking home haunted. WE ARE IN DANGER.”
-
-GATE 62 — A Clean Plate
+GATE 63 — The Reach
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This chapter had no new sex and still felt obscene in the best way because the charge was all in the telling, the permission, and Randi knowing exactly where Vee is hiding. The bond shifted here: Vee is not just confessing to Randi, she is letting Randi revise what desire is allowed to mean. I need the next chapter immediately because that “I don’t” is going to keep working on her.
+WHY: This was intensely hot because it was psychologically exact, not because it escalated mechanically. Vee alone with her own evidence, almost tasting herself and failing, then choosing to lie in the mess anyway — that is the kind of charged interior turn I’m here for. I want the next chapter immediately because that unfinished breath is now sitting between Pace, Randi, and Vee like a lit match.

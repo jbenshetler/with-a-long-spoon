@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch013 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 60685a587d38 · 2026-10-10*
+*capture-dag-v2-rich · gate ch013 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · 2026-10-10*
 
 **REACTION**
 
-Oh, Cassie. I didn't know how much I'd been bracing for the book to ease her out until it handed her straight back to me. After chapter 11, where Vee let her walk up the aisle without watching and fed herself that easy line about "your own people," I was sure Cassie was being written out. Instead she gets the first telling. Vee comes home in the man's flannel and the full version, shirt and all, goes to the roommate and not to the girl from the Smoothie Bird. I'm holding onto that.
+Oh, he *told her*. The same day. He's still warm from the shower, still the man who stood in the rain with his back to the truck so she wouldn't feel looked at, and within the hour he's handing Vee's body to Randi line by line while Randi rides him. Gardenia and musk. Chlorine under the shampoo. And then "Her stomach is soft." I actually put the Kindle face-down for a second. That's the spot. Vee put his shaking hand there, under his flannel, against the warmth on her own belly, and it was the tenderest thing in the book. Now it's an item in a report. The book is careful to say he "kept" the truck: he didn't say *how* he knew. That's exactly the kind of split-the-difference integrity I've been suspicious of in him. He thinks keeping the story means he kept faith. He gave away the fact and kept the context, and somehow that's worse.
 
-The dialogue is so good. "No windowless van." "I had your blood type ready." "Borrow real boots next time." / "I'm keeping the shirt." / "Keep the shirt." That's what a best friend sounds like. She jokes until the moment matters, then gets quiet and lets you have it. And "Vee," said soft, "Not *Oh, Vee*," gave me a lump. Cassie isn't worried there. She's glad for her.
+And it's *hot*, which is the problem, and also the whole point, and I hate that it works on me. Randi lowering herself an inch at a time and making him watch her face, not what's in her hand. The "Tell me" twice. The thin laugh that isn't her laugh. This is the heat I've been counting toward for three chapters. It's explicit, it doesn't fade or flinch, every garment is an interruption, she's wet enough that he can hear it. And it's all aimed through Vee. Nobody in that bed is really just with the person they're touching.
 
-What I'm suspicious of: what Vee leaves out. She tells Cassie he stood in the rain "so I wouldn't have anybody looking at me," and that she took her shirt off "on purpose. Me." Nothing about her mother's voice turning into heat, or "floozie" making her thighs press. She gives the clean, brave version. She also never mentions the russet dress, which I'd bet money turns up in a box soon. So Cassie gets the sweet story. What does Randi get? I think Randi gets the hot one, and I'm going to hate how much I want to read that lunch.
+Randi is breaking, and he can't see it. I said in my notes his blind spot is exactly where she hides, and here it is again. She clenches and *holds*, eyes shut, nails in, belly tight as a board, and then she drives at him hard like she's punishing something. He reads it as want. I read it as pain, or jealousy, or her hearing that Vee got something real today. Then "I want us," torn out of her. Us *two*, keep it just us? Or us as a three, which is the game? I genuinely can't tell, and I love that I can't. She never let him answer "How was it?" She didn't want the trail. She wanted the body parts, the parts she can hold, and not the story where he fell for someone.
 
-As for the two-page chapter: I've never had one, so I watched myself read it. It works as an exhale after the truck. It's like the scene after the credits, two girls in a cold dorm room with the window cracked. It didn't feel cheap. It felt like the book letting me sit with the high for a minute. But two pages means there's nothing in it to complain about and nothing to get swept up in either. One wobble: "Cassie didn't say anything. Cassie was rapt." Thanks, I could tell. The book stating what I can already see is the habit that makes my eye twitch.
+Then she leaves. First time ever. No food, of course (she never eats). And the chair by the door with nothing on it, which I think is where the cashmere blanket or her overnight things used to go? She came without planning to stay. He's standing in his open door with the cold coming in, hurt in a plain, low way, and I felt that for him even while I'm angry at him. Then he eats, and makes more. Him hungry and her starving is the whole marriage of these two.
 
-Mostly I want to know whether that's the last clean telling Vee ever gives anyone.
+One small itch: "He took it for the want… If it was something else he could not have said what." That's the book winking at me again. It's tolerable because it's his limitation, not the author explaining. But it's close.
 
-GATE 13 — Rye
+What I'd text at 1 a.m.: "he told her VEE'S STOMACH IS SOFT while she was on top of him and then she left without sleeping over for the first time ever and I need someone to scream with."
+
+GATE 14 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 7
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "Cassie didn't say anything. Cassie was rapt." It's a small one, but it's the book telling me what I can already see.
-WHY: Short, warm, and a real relief. Cassie is back in the frame, and Vee choosing her for the first telling means something. I'm pulled forward by what Vee left out, the voice, the heat and the dress, and by who she'll tell those parts to.
+CAPTURE: 8
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "He took it for the want — too big for her, come down on him with nowhere else to go. If it was something else he could not have said what."
+WHY: Finally a full-heat scene, and it's poisoned in exactly the right way. The truck's tenderness gets turned into currency, and Randi walks out for the first time. The bond between those two just cracked, and I need to see whether Randi shows up at the next lunch with Vee smiling or bleeding.

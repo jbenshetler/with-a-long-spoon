@@ -1,30 +1,28 @@
-*capture-dag-v2-rich · gate ch069 · gpt-5.5 · queer-woman · prompt-sha 2d5d0ac69333 · prose-sha c9f460e100d7 · 2026-10-11*
+*capture-dag-v2-rich · gate ch069 · gpt-5.5 · queer-woman · prompt-sha 2d5d0ac69333 · prose-sha 991941ce4e20 · 2026-10-11*
 
 REACTION —
 
-Oh. Oh, I am awake.
+Oh no. Oh, Vee.
 
-This chapter did the thing I have been waiting for and also the thing I was afraid of, which is very rude of it and very effective. Because yes, finally, Vee knows. Not neatly, not in the privacy of some candlelit confession where everybody gets to be brave and articulate, but on a dance floor, in too-short borrowed clothes, with liquor and noise and a stupid boy as camouflage, which is exactly messy enough to feel true. Her body got there first, again. Her mind is running behind it with a clipboard, losing pages.
+This chapter got me right in the sternum because it is exactly the thing I was waiting for and exactly the thing I was afraid of: the kiss does not go back in the box. Her body will not let it. She can try to run twenty minutes down a county road into the word *boyfriend*, she can climb onto Pace like he is a door she can shut behind her, and still Randi is in her mouth. Salt and lime. That is obscene and devastating and, honestly, the truest thing the book could have done.
 
-And Randi. God, Randi. I want to grab her by both shoulders. Because she wanted that kiss. She wanted it before it started, during it, after it. The little delay before their mouths touched was not nothing. That was not a prank. That was her taking the inch and making Vee live inside it. And then the second it becomes too real, too obviously mutual, too dangerous to the whole architecture of “my gorgeous friend,” she folds it back into the performance: “I almost believed it.” I actually flinched. That is such a perfect Randi crime. She gives Vee the real thing, lets Vee open to it, then files it under “show” so neither of them has to say what happened.
+I was so tense through the first half, because using Pace to drive Randi out of her head felt awful in the precise way it needed to feel awful. Not morally scolding-awful; bodily-awful. She knows she is not coming to him cleanly. She knows there is an ugly engine in it. And he knows. Of course he knows. The relief and the horror of Pace is that he feels the difference immediately. He is still tender, but he is not fooled for one second.
 
-But the book knows. Thank god the book knows. This does not feel like queerness as garnish to me; it feels like the lie finally becoming too small to hold the desire. Vee’s wanting is hers here. Not installed by Randi, not performed only for Harrison, not a little borrowed thrill. The kiss starts as a bit and then her whole body tells the truth. The specificity of it is what gets me: Randi’s breath, her perfume, the taste of lime and salt and Randi underneath. That is not vague titillation. That is a woman recognizing another woman by mouth.
+And then the interrogation-sex scene. God. I mean: hot, yes, absolutely hot. I am not going to pretend my pulse was doing some detached ethical seminar. Him making her pay for pleasure with truth, inch by inch, is filthy and very much in the book’s established grammar. But it is also more dangerous than the earlier games because the truth he is drawing out is not only shame or appetite; it is the thing she is still trying not to know about herself. And what saved it for me, or mostly saved it, is that Vee’s wanting keeps surfacing as hers. He is not installing it. He is not planting Randi in her head. Randi is already there, embarrassingly, inconveniently, bodily there. Pace is just making denial expensive.
 
-I am still wary, because Randi is still arranging the room. The skirt, the date language, the public “show,” the hand on Vee’s ass with Harrison as an excuse. She keeps setting up situations where Vee can step over a line and then be told afterward that there was no line, just a joke, just girls, just fun. That is dangerous, and not in the cute way. But Vee’s response is so clearly internal and so clearly past the excuse that my wariness is now tangled with huge relief. The book has committed. It crossed the floor. It put its mouth where its mouth has been going for chapters.
+But oh, the lie. The first lie. That chilled me more than anything explicitly sexual. “No. Nothing.” I actually felt my face change. Because she has been clinging to this idea of herself as someone who tells him everything, and the instant she has something that would require her to revise herself, she chooses the smaller truth and calls it the whole one. The goodbye kisses count. The roadhouse kiss counts. Her hand in the dorm room counts. She knows they count. That cold thing sitting inside her is the start of a much bigger debt.
 
-Cassie’s eyebrow deserves its own candle. “Tonight I’m Randi’s date” and Cassie just lets the eyebrow do the work. She sees enough. She always sees enough.
+I also loved, in a painful way, Pace asking, “Do you want to sleep with a woman, Vee?” Not “Randi,” because he is careful, because he leaves her a little room, because he is maybe more merciful than honest there. And her instant “I’m not gay” made me want to put the book down and stare at the ceiling for a second, not because it annoyed me, but because I know that room. The panic of category before desire. The way the label arrives like a threat even when no one asked for one. And his “I didn’t say gay” is almost unbearably gentle.
 
-Also the Love bracelet. I laughed, then immediately side-eyed it. “Taking it off requires tools” is one of those little glamorous facts Randi drops like a charm and the book leaves sitting there glowing with menace. A bracelet called Love that cannot casually be removed. Fine. Subtle as a bell.
+Still, I am worried about him now in a new way. He says he doesn’t mind, and I believe that he doesn’t mind the wanting. I do not believe he fully understands what it will cost if he keeps letting Vee use him as both confession booth and alibi. He is turned on, he is loving, he is careful, and he is also participating in making her tell a truth while she is desperate and being held right at the edge. The book knows that, I think. I hope it knows that.
 
-The almost-stopping moment was absolutely the aftermath of the kiss. Not because I wanted to stop reading, but because Randi’s “I almost believed it” hurt in the exact old place. That is the flinch-away. That is the mechanism I don’t trust. If the book starts treating that as harmless, I’ll get angry. But right now it is not harmless. It is awful and legible, and Vee is not fooled all the way down. Her mouth still knows.
+And Randi is not even in the room, which is rude of her, frankly, because she is everywhere. That last section with Tuesday coming toward Vee like weather: yes. That is the chapter’s real hook. Not “will she want Randi?” She does. The question is what face she will put on it, and how long Randi will let her suffer under the performance of best-friend normal. If Randi says one smooth cowardly little thing on Tuesday, I may have to pace around my kitchen.
 
-I want the next chapter immediately. I need to know whether Vee goes home and disassembles this alone, or tells Pace, or tells Randi badly, or says nothing and lets the whole thing rot sweetly under the floorboards until it breaks through. But the door is open now. Not raised. Open.
-
-GATE 70 — On Her Floor
+GATE 71 — Boyfriend
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: “You really did a great job putting on a show. I almost believed it.”
-WHY: The kiss finally paid the long build between Vee and Randi, and it did it from inside Vee’s own wanting, which matters enormously to me. Randi’s retreat into “show” made me ache and distrust her all over again, but the chapter knows it’s a retreat, not a resolution. I’m absolutely reading on.
+ROMANCE: 2
+ALMOST-STOPPED: "No," she said. "Nothing."
+WHY: This pulled me completely under: hot, frightening, emotionally exact, and finally impossible for Vee to pretend away. I am furious at the lie and worried about the way Pace’s care and hunger braided together, but the book has absolutely earned my next chapter because Tuesday with Randi is now glowing in the dark like a fuse.

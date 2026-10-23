@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch037 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · 2026-10-01*
+*capture-dag-v2-rich · gate ch037 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · 2026-10-01*
 
 REACTION —
 
-Oh, this one got me in the ribs.
+Oh, this got me in the ribs because it is so small and so huge. After all the heat and the staged bravery and the dress and the spanking and Randi making the air itself feel rigged, this is just Vee coming home glowing and Cassie sitting there like the last normal lamp in the world. And I loved it. I needed it.
 
-Not because it was the hottest chapter, exactly, though the opening has that post-week-apart charge I absolutely want from this book. The lift at the door, the not making it to the kitchen, the way he still slows down and makes her pleasure the center even when they’re both frantic: yes, thank you, finally a man written like desire is attention and not just appetite. I also really felt her realizing there can be an after. That he can want her again after food, after wine, after the first urgency is spent. That is such a specific erotic safety, and the book knows it.
+Cassie is such a relief to me. She does not have Pace’s courtly intensity or Randi’s glamour-pressure. She just looks at Vee and tells the truth sideways. “You don’t come home school nights.” God. Not accusation, not drama, just a pin in the map. Vee has been living this like a beautiful fever and Cassie is the person who notices the actual calendar. Her own bed empty more nights than not. That is not nothing. That is a life changing shape.
 
-But the real thing here is domestic. Dangerous, gorgeous domestic. Her saying “Peter” into his sleeping ear just about knocked me flat, because it’s so intimate and private and she isn’t performing it for him. She lets herself know she loves him before she asks him to know it. And I believed her. I believed every inch of it: the salmon, the tomatoes, the robe, the bathroom counter, the scrunchies. This is how a person in love starts reading every household object as evidence.
+And Vee trying to explain Pace by listing the food and the care and the burn. That felt exactly right to me, because of course the sex is not the only thing swallowing her. It’s the house warm enough that she forgets what she’s wearing. It’s the cold cloth on a tiny burn. It’s being watched while she eats, in a way that makes appetite feel adored instead of embarrassing. He is making ordinary life erotic and safe at the same time, which is frankly lethal. I believe completely that this would make her stupid with happiness.
 
-And then the drawer. God. The drawer is obscene in the way this book keeps making care obscene. Not dirty-obscene, but intimate-obscene. He doesn’t make a speech. He doesn’t reassure her in words. He silently gives her the first drawer, the reachable drawer, and compresses himself into the lower one. That is more devastating to me than an “I love you” would have been right now, because of course Vee would hear the sentence and be happy, but the drawer goes under her defenses. It says: you are expected here. You are not clutter. You have a place.
+The little burn on her breast from the tomato, too. That is such a domestic-sexy detail without having to perform anything. Cassie’s “there’s only one way that burn happens” made me laugh because yes, Cassie, thank you, somebody please keep count of the obvious facts in this room.
 
-I am swooning, and I am scared.
+But the “Do you love him” stopped me cold. Because Vee does. She already let herself say it in the dark beside him, and now here it is in daylight, in the dorm, in Cassie’s flat voice, and she can only say maybe. I don’t blame her. The whole thing is too fast. It is too fast and also not shallow, which is the terrifying part. If it were shallow I could roll my eyes and move on. But this has roots already. He has a drawer for her. He has scrunchies. He has meals and hands and rituals. And meanwhile Randi is still over there holding half the wiring behind the wall.
 
-Because this is exactly how the book makes the trap soft. Vee is not being conned emotionally in some cheap way; the love is real, the care is real, the scrunchies are real, the drawer is real. That’s what makes the hidden Pace-and-Randi machinery worse. If he were simply predatory, I could put the book in the freezer emotionally. But he is giving her a home while still living inside a lie by omission, and she is starting to build her whole heart in that house.
+This chapter is quiet, but not stalled. It feels like a breath taken in the right room. Cassie doesn’t know everything, but she knows enough to worry me better than anyone else does. I want Vee to keep talking to her. I want Cassie to stay awake in this book. Because when the third game finally shows itself, Vee is going to need somebody who isn’t dazzled.
 
-The weight-loss note made me uneasy too. Not in a moralizing way. More like: oh, sweetheart, you are watching your body change under his care and interpreting all of it through being fed, desired, housed, remade. The bras keeping the secret, the clothes getting loose, the body “burning down whole weekends of him” — that is beautifully written and also a little alarming. Her selfhood is blooming, yes, but it is also reorganizing around him with frightening speed.
-
-And Randi being absent from the chapter made her louder somehow. No “Randi to be told” is such a little flare. Vee notices the absence as a relief, almost. This night is theirs, this drawer is hers, this love is hers. Except I know Randi is in the architecture even when she’s not in the room. I hate how badly I want to live in the drawer with Vee and ignore the third game. I hate that the book knows I want that.
-
-GATE 38 — Above Him
+GATE 39 — School Nights
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 7
 NEXT: 8
-HEAT: 2
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The chapter didn’t need a big event because the drawer was the event. It made me ache for her and trust him and distrust the whole situation harder at the same time, which is exactly the vise this book has me in.
+WHY: This was a quiet chapter, but it landed because Cassie names the shape Vee has been too lit up to count. The heat is mostly afterglow and domestic charge, but the romance turns hard here: Vee admitting, even softly, that this may be love makes me want the next chapter immediately.

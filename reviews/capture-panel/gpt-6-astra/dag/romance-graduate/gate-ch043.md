@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch043 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-10*
+*capture-dag-v2-rich · gate ch043 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-10*
 
 REACTION
 
-Oh, Randi. I’ve wanted to see her lose her footing for ages, and then she does and I immediately want someone to help her. “Cheating bastards” got me. Especially that she came into this so certain she could defend her father. I believe that ugly little moment of discovery more than I believe any of her lovely explanations about what she’s doing with Vee.
+The jeans and the socks got me. I like Vee hungry enough to be ridiculous, and I like him enjoying her hopping around his hallway. “You’re not helping.” “I’m helping.” Yes, fine, that works on me. The reunion had heat before they reached the bed, especially that moment when she forgets what she’s doing and leans back into him.
 
-And Vee helps without making Randi ask. Giving her practical questions she can answer, letting her stay useful while she gets her face back together—that reached me. Vee has something to give this woman besides admiration and intimate confidences. She can notice what Randi needs. After all the attention paid to how beautifully these two people read Vee, I needed to see her reading someone else.
+But she *did* need to study. I was pleased she took those five nights, and pleased he accepted it, and then I bristled at the suggestion that her orgasm exposed some “careful story” she’d told herself. She can need her textbooks and desperately want his mouth. Please let her have both without making her body the witness against her judgment. I also wanted to know whether she caught up. That matters to me now.
 
-But, God, the unfairness. Vee is protecting Randi from embarrassment over something she apparently didn’t do, while Randi is actively keeping something from Vee that could rearrange her whole life. Coming straight from that couch conversation, I can’t comfortably settle into the sweetness here. Vee thinks she’s keeping her friend’s dignity intact. Does Randi even understand how good a friend she has? I’m much more interested in what happens when she discovers Vee noticed than in another account of how radiant Vee looks.
+I started skimming during the pizza. I know. I know he cooks beautifully, I know she can taste the separate ingredients, I know he watches her first bite. I’ve just sat through her telling Randi how much all of that means. The little admission that he might be giving the dough as much attention as her made me smile—it let him be a person absorbed in something—but another whole meal of her discovering flavor felt like waiting.
 
-I liked having school actually require something of them. A quarter of the grade, Vee doing the math, Cassie having a father and a grievance that exist outside her roommate’s romance. Though “Cassie didn’t carry things into rooms she meant to walk out of” made me pause and think: what? Most rooms? That felt like being asked to admire a sentence before I knew what it meant.
+Then the shirt absolutely got me. His little hurt when he thinks she’s returning it. Her rushing to say it’s still hers. Putting it on over his other shirt immediately. That is the bit I’d text a friend: *He’s wearing two shirts because she needs one to smell like him and unfortunately I am susceptible.*
 
-The project lost me a little, too. I could follow Randi’s face much better than I could follow what those numbers proved. And “There could be no other Miranda” is a bigger leap than I could make from what I’d seen. I wanted one solid identifying detail so I could feel the discovery with them instead of accepting it on instruction.
+And unfortunately I remember what he was doing with Randi two chapters ago. I remember them discussing when Vee will be “ready.” Now Vee is standing there making this mortifyingly tender request, trusting him to understand how attached she is. He does understand. He understands enough to put the shirt on immediately. How does he keep understanding her this well and still leave her without the truth?
 
-Still, this quiet chapter gave me something new. No heat for me here, but after the last chapter I wasn’t impatient for another bed. I wanted a crack in somebody’s certainty, and I got one. Please let it matter after they close the laptop.
+That’s where I am: moved, turned on, increasingly angry. The shirt bought him affection from me. It did not buy him more time.
 
-GATE 44 — The Outlier
+GATE 45 — The New Ordinary
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 7
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: “There could be no other Miranda.”
-WHY: I don’t quite trust the leap from that screen to that conclusion, but I felt Randi’s shock and Vee’s instinct to protect her. I want to know whether being cared for this gently makes Randi reconsider what she’s withholding.
+NEXT: 6
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: “She could taste all of it. That was the strange thing, the thing she had no frame for.”
+WHY: I nearly slid out during another revelation over dinner, but her asking him to wear the shirt brought me right back. I still care enough to continue; I’m much less eager for another visit that deepens her attachment while he keeps quiet.

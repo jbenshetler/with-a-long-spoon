@@ -1,32 +1,28 @@
-*capture-dag-v2-rich · gate ch028 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha e9e0311de50b · 2026-10-10*
+*capture-dag-v2-rich · gate ch028 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c86197f57ec7 · 2026-10-10*
 
-**REACTION**
+## Reaction
 
-I want to ring the bell on the sorority house, sit Vee down and say: honey. She's taking the fight with Pace to *Randi*. She's taking it to the one woman on earth who knows exactly what Pace will and won't do: "He won't text you, by the way." Randi says it so easily, and Vee hears good advice from a worldly friend. I heard a woman who has slept beside him all semester telling his other girl how he behaves. Then "We're going to get you ready." Randi is dressing Vee to go back to Pace. She picks the neckline, the shoes, the scarf, and which night. Randi has her hands on the clock of this relationship now, and a week ago she was across Pace's table calling his patience selfish. I don't know if this is Randi helping or Randi steering, and I think the book wants me not to know. It's working.
+Oh, she *lied* to him. "She was a wreck. She cried." Vee didn't cry. I was in that room for the whole last chapter. She had a fixed face, a sad-clown joke at the mirror, an Edna Mode bit and a laughing fit. Randi just told Pace a different version of the morning, one where the girl came to her crying. It's the same thing Randi did with the lacrosse guy and the boy in a hurry: she writes the story she needs and puts it in his hands. And he can't check it, because he's decided everything Vee says is "Vee's." His decency is the blind spot she's working through.
 
-The Cassie part at the top got me: the alarm, Vee faking sleep, that low "*Hrm*" from below the bunk, and the door shutting. Vee chose not to wake her twice in eight hours. Cassie gets nothing now, and Randi gets the whole thing. That ache is going to cost somebody something.
+Then "Give her a day." She said it twice, the second time half asleep, "as if she were promising him something." That morning she told Vee *not today, tomorrow night*. She's holding the timing on both ends. Vee thinks Randi is her best friend fixing her love life. Pace thinks Randi is his girlfriend reporting in. Randi has set the clock for both of them, and she gets Friday night in the gap. I physically sat up when I put that together.
 
-Yes, I got another debrief, and I'd warned myself the next one gets skimmed. I did skim the start. But this one isn't a straight replay, and that's what caught me. She has edited it. At the bar she actually said "Does your *service* include getting the girls home safe from here, too?" To Randi it becomes "whether his services ended at the door, or carried on inside." That's sharper and nastier, and she makes herself look worse. The bartender scene gets rearranged too: the water and the "good guy" line come in, and Vee is the one who repeats her jab to the bartender. That's the Vee from my notes who edits by audience, except now she's editing *against* herself, putting on the hair shirt for Randi. I believe it. It's smart. I just hope the book knows it's doing it, and I think it does.
+And the bench. I said in my notes there was nothing in that bedroom, and it's been there the whole time: the table against the wall, the top that lifts off. Randi set her folded clothes on it and kept her hand flat on it, "and it was not the look you give a table." That one sentence did more than the whole flashback after it. I know exactly where Saturday night is going, and Vee will walk in wearing Randi's shoes and Randi's silk at her throat, smelling of bitter orange. *Pace notices perfume.* He's going to smell Randi on her. That's not a door Randi left open by accident. She built it.
 
-Then the shoes. Okay. Randi kneeling, under the skirt, out of sight. The hand on the outside of her thigh to steady her. Then the thumb pressing once into the hollow behind her knee "on the way down." That knee line did more to me than half the sex scenes on my Kindle. Vee can't see any of it, she just stands there being tended to. "Being given no say in where her foot went made her surer of it." That's the bench without the bench, that's the dance lead. The book keeps building the same arch under her: someone else's hand deciding, and her feeling steadier for it. The stuff about Randi's face when she looks at Vee's bare feet, and the "something moved in her face, there and gone" that Vee is "too happy to go looking for"? I'm going looking for it.
+The heat. The *Tell* is back, and this time it's worse than "her stomach is soft," because Randi isn't reporting a body she saw. She's reporting what *she did to it*: the hands up under the skirt, the thumb behind the knee, "she made a sound and hoped I didn't hear it." Vee didn't know she was being collected. And Pace, who I've been testing since the panties, gets harder at it. He never once thinks *did she want that*. He tells himself it was Randi enjoying the telling that did it, "or not only." Pace, that "or not only" is you lying to yourself. It's the first real crack I've seen in him, and the book made it hot, so I'm implicated too. That's the trick, and it worked on me. I was turned on and queasy in the same breath, and it's been a while since a book managed that.
 
-"Shoe whore." "Criminal." Randi used *criminal* about Vee's body in Pace's kitchen last chapter, and now she says it to Vee's face about the scarf. Same word, two rooms. And "Maybe you just haven't met your Evil Queen yet." That line made the back of my neck go cold.
+Randi also scares me more than she ever has. "I wanted to keep her." "I haven't stopped thinking about her." Her voice "had gone somewhere without her." She's genuinely gone over Vee, and the way she shows it is to feed her to Pace in pieces so she gets to keep holding her. I still ache for her. I no longer think she's harmless.
 
-There's also something new. The esses run long and the a comes up arched, "somewhere across an ocean." That's twice now, and sober. Randi has an accent she's hiding. So who is she really? I'm adding it to the pile with the white-gold band.
+Small gripes. "You were playing with your wood" made me groan. "The tit goddess was generous" is very Randi, but it pulled me out for a second. This is also the third Randi-rides-Pace-and-leaves-or-doesn't scene, and the pattern is showing. It held because it changed: she *stayed* down, she *asked* for the Tell this time instead of demanding it, and there's a lie in it.
 
-The kiss in the foyer: "It was only what they did." She didn't brace. That's the scariest sentence in the chapter, because it's so peaceful.
-
-Gripes. "See you soon, gorgeous" right after "Sleep, gorgeous" reads like a draft line left in. I was sure Brooke was the president and not the one who made her feel small, so either my memory slipped or the book's did. Some of the prose is preening: "a surrender wearing the coat of a defense," "like a verdict," *ablutions*. Edna Mode was cute and I'd allow it exactly once. And Pace isn't in it at all, which I felt.
-
-What I'd text a friend at 1 a.m.: "the frenemy is dressing her for the boyfriend they secretly share and she put her THUMB BEHIND HER KNEE."
+1 a.m. text to my friend: *the girlfriend lied to him that Vee cried, told BOTH of them to wait a day, and the bench was in the bedroom THE WHOLE TIME. Vee's walking in tomorrow in her shoes. I can't.*
 
 ---
 
-GATE 29 — broken-in
+GATE 30 — Space
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 2
+CAPTURE: 8
+NEXT: 10
+HEAT: 3
 ROMANCE: 2
-ALMOST-STOPPED: "It came out of her in pieces, the way it does when someone's letting you tell it instead of waiting for their turn." Here we go, the Rusty Nail retold. I was about to skim until the retelling turned out to be crooked.
-WHY: Another quiet chapter after the fight, and it's the third time I've watched Randi put Vee in something. The charge under the skirt and Randi quietly taking over the reconciliation kept me in my seat. Now I need tomorrow night at his door, and I need to know whether Randi gets a *Tell* about it.
+ALMOST-STOPPED: "You were playing with your wood."
+WHY: The chapter itself is a pattern I've seen before, made sharp by a lie and the bench finally showing up. But everything in it points at tomorrow night: Vee in Randi's shoes and scarf, walking into a room with that table, a man who just got hard on her secondhand, and a woman who timed it. I'm already reading on.

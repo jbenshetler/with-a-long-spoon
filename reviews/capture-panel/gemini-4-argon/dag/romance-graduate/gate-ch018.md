@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch018 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha bca2ed17019a · 2026-10-21*
+*capture-dag-v2-rich · gate ch018 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 623f9cd6a778 · 2026-10-21*
 
 REACTION
 
-Okay, I love Cassie and I love watching Vee bloom, I really do. That last beat — *"No, Cass. I was grinding on him"* — and herpatting her own ass like a courtroom diagram actually made me laugh out loud, and the tenderness of *"Like I was supposed to be there"* is lovely. Plus we got a tiny extra piece of sensory detail from the fitting that Vee didn't even clock in the moment (or saved for Cassie): feeling his hard-on against her ass while he was pinning the back seam!
+Oh my god, they are *both* doing the double-kiss to her!!
 
-BUT. I am officially hitting my limit on post-date recap chapters. We just lived through the entire house tour and the dress fitting in Chapters 16 and 17 in gorgeous, excruciating, moment-by-moment detail. Walking right back into the dorm room so Vee can re-explain the shirt having no tag, re-explain the thermostat being turned up, re-explain taking her bra off on the riser, and re-explain him kneeling at the hem to Cassie... it feels like watching the director's commentary immediately after the movie ends. We already did this after the first kiss (Ch 10), after the hike (Ch 13), and then *again* at the dining hall with Kayla and Meg (Ch 15). That's four chapters in the last eight where Vee sits in a dorm or dining hall and recaps what we just read to her friends!
+I literally gasped out loud at the end when Randi pulled back a fraction of an inch and then pressed back in with more weight. That is Pace’s move! Or is it Randi’s move?! Did Pace learn it from Randi, or did Randi learn it from Pace, or have the two of them been passing these seduction rhythms back and forth until they move like the same creature? And Randi parking right in the fire lane where Pace got chased off by the campus cop, except of course Randi doesn't get chased off because *fire lanes are a thing that happen to other people* when you drive a dark green Mercedes convertible.
 
-And here's what's driving me crazy: the *one* person I actually want to watch Vee debrief with is **Randi**! When Vee tells Cassie, there's zero narrative danger because Cassie is safe and just wants Vee to be happy. When Vee tells Randi, or when Pace tells Randi, the whole room is wired with C4. Where is Randi during this week while Pace is buying burgundy silk and spending hours on his knees in front of Vee?! Did Pace tell Randi he's making Vee a dress? Did he notice the two towels in the bathroom when Vee walked through?
+This chapter was a psychological masterclass and my stomach was in knots the entire time they were in that green velvet booth. First of all, the class details hurt so good: Vee reading the right side of the menu first like a road in fog, ordering tomato soup and water while Randi orders poached salmon and a glass of Rombauer that costs more than Vee's whole meal, and then Randi doing one token "oh, let me" reach for the check and just sitting back and watching Vee drain her debit card. Because Randi doesn't even think about what Thursday feels like when your checking account is low, or maybe because letting Vee pay keeps the illusion of equals in place.
 
-I'm still completely hooked on the story and these people, and Chapter 17 was a masterclass in erotic tension without sex, so the book has plenty of credit in the bank with me. But my thumb is getting restless. Stop talking about the mountain and the box with the dorm-room peanut gallery and put the three of them back on a collision course, or get Vee back to that house to actually get laid!
+And then the actual conversation! Randi telling a disguised version of her own Chapter 1 breakdown — calling Pace a "beautiful idiot" who tied her up with a Hermès scarf and tickled her until she almost wet herself and "switched to somewhere else entirely" — to plant the exact thesis statement in Vee's head: *"A little helpless can be a very good thing. Done right."* Meanwhile Vee is sitting there getting secretly turned on by the visual of Randi naked, tied up, and losing control! It's happening, it's finally happening, Vee's attraction to Randi is waking up right under her own nose.
 
-GATE 18 — Turned Up
+Watching Randi walk Vee down the stairs into confessing the fitting was like watching a hypnotist work. First catching Vee in the lie about the house being cold because Vee had *just* bragged three minutes earlier that Pace turned the heat up for her! And then the way Randi's thumb jammed against the rim of the water glass — just like the plastic bottle cap in Chapter 1! — when Vee said Pace made taking her top off "the most normal thing in the world" and that he'd turned the heat up hours before. Randi is *hurting*. She knows Pace's routines (she knew he'd start at the left hip, which means he's measured her or done something very similar to her on that riser!), and she's simultaneously getting off on drawing Vee open AND getting stabbed right through her armor by how tender and careful Pace is being with Vee. And then when she gets Vee all dreamy and ready to confess the soaked satin panties, Randi shuts the door with *"You don't have to tell me"* and leaves Vee hanging there with her deepest secret half out of her mouth! Was that dominance — proving she already knew and didn't even need to hear the words — or was it self-protection because Randi couldn't bear to hear one more beat of intimacy between them? Probably both!
+
+And that final beat: Vee touching her lips, trying to tell herself it's "a French thing," and then looking up at the dark dorm windows in a sudden cold panic wondering if anyone *saw* her kiss a woman. The characterization in this book is unreal. I am completely hooked.
+
+GATE 19 — How It's Done
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 8
-HEAT: 1
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: As sweet and funny as Vee and Cassie's banter is, spending a whole chapter recapping the exact beats of Chapters 16 and 17 right after we read them made my eyes want to skim. I'm dying to see what happens next — especially how Randi reacts to the dress fitting or what happens when the dress is finished — so I'm turning the page immediately, I just need the book to move *forward* now instead of rehashing.
+WHY: The blurb promised long lunches where Randi draws Vee open, and this delivered with razor-sharp psychological tension, painful class awareness, and that devastatingly hot double-kiss on the mouth at the end. Seeing Randi press her thumbnail into the water glass while extracting Vee's secrets — and Vee getting flustered imagining Randi tied to a headboard — has all three corners of this triangle humming at maximum voltage.

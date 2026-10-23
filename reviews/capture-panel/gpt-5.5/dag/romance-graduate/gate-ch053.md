@@ -1,22 +1,30 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8219a10af610 · 2026-10-11*
+*capture-dag-v2-rich · gate ch053 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1e04263f57c9 · 2026-10-12*
 
-REACTION — Oh, this one got me by the throat in a different way. Not the same raw devastation as Pace eating the chicken and broccoli while breaking open, but the awful, recognizable relief of getting back to campus and realizing “home” is no longer home. Vee on the plane feeling her life return to her before she can bear to think about Pace: yes. That is such a grown-up little grief, and I felt it. The childhood room loving the girl who’s gone, the body remembering the Friday drive before the mind is ready. That hurt.
+REACTION —
 
-And then Randi. God help me, Randi is so good at being exactly what Vee needs that I can feel myself being seduced by her even while part of me is screaming that she is steering the car with one hand in her pocket. She doesn’t comfort Vee by lying to her. She makes her slow down, sorts fear from fact, puts Pace’s actions back in front of her until Vee can see them again. That was almost tender enough to forgive everything. Almost.
+Oh my god. Okay. That was the chapter the book had been loading like a spring for ages, and I felt every millimeter of it.
 
-But then: “You don’t do it with words. Words are the whole war.” Ohhhhh, Randi, you beautiful dangerous disaster. Because yes, for Pace this might actually work. The coat, the heels, no words, no fight, all body and trust — it is erotically perfect and emotionally terrifying. It gives Vee agency and also nudges her right back into the language Pace understands best, the exact place where words keep failing. I wanted it. I did. The shoes absolutely worked on me. The chapter knew they would. But I also felt the trapdoor under it.
+I was so nervous for her getting ready. Not cute nervous, actual stomach-drop nervous, because this is the sort of move that can either make you feel like a goddess or make you want to crawl out of your skin forever. And the book knew that. The bra drawer moment got me, weirdly hard: her hand reaching for the pretty thing because that’s the trained version of seduction, then realizing no, the point is no pretty thing, no armor, no little curated barrier. Just her. That felt more intimate than the sex, almost.
 
-The kiss under the composites? I made a noise. Vee coming back because thank you isn’t enough, taking Randi’s face in both hands, kissing her until the feeling has somewhere to go — that is the first time their physical thing has felt like Vee initiating from fullness instead of being coaxed. And Randi’s reaction afterward, hand to mouth like a teenager, was maybe the most naked she’s been. She can tell herself not to assemble the sentence with “means” in it, but I assembled it for her, sorry.
+And then the mirror. Whew. I have read a thousand “she looked at herself and finally saw she was beautiful” scenes and most of them make me roll my eyes clean out of my head. This one didn’t. Because it wasn’t vague empowerment frosting. It was body-specific, shame-specific, desire-specific. She’s not suddenly pretending she doesn’t know the words people have put on her body. She’s taking the exact “too much” of herself and deciding to use it. That is so much hotter than generic confidence.
 
-Then Brooke walks in and cuts the whole room open with a butter knife. I loved her for it and hated the timing. She sees exactly what this is: not a cute sorority performance, not harmless girl-play, not just brunches and kisses and “my friend.” She names the stakes without naming the feelings, which is somehow worse. “You’ve got a position in this house, and you’ve got her. You need to choose.” That landed cold. Because Randi has been arranging her whole life so she never has to be brave, and now everyone is lining up to ask bravery from her: Vee without knowing it, Pace in his way, Brooke bluntly.
+The car scene nearly killed me. I was laughing and clutching my chest and horrified for her. The police lights? Evil. Perfectly evil. I genuinely had one second of “absolutely not, I cannot survive this humiliation with her,” and then when the cruiser passed her I could breathe again. And the fact that the scare didn’t extinguish the want, it made it sharper — yes. That’s the kind of erotic escalation I’m here for, where it’s not just “body hot,” it’s “every emotional risk has nowhere else to go.”
 
-I’m wildly hooked for tonight. I’m also scared because Vee is about to go to Pace with Randi’s shoes on her feet and Randi’s script in her body, and Pace does not know the full truth either. This whole chapter is one big fuse being lit with a very pretty match.
+And then Pace opens the door and starts with “Vee, I l—” and she cuts him off. I screamed internally. Because yes, yes, I needed him to say it, and also this is so Vee: she has come all this way inside a plan and she cannot let language take the wheel yet. She brought the answer in the only form she can bear right now. And when he looks at her like a starving man and like he’s forgiven in the same look? That hit me in the sternum. That is why the chapter works. It’s not just the naked coat fantasy. It’s the repair fantasy. It’s being wanted and welcomed and not punished for needing too much.
 
-GATE 54 — My Friend Randi
+The porch/front door sex was feral in the best way, but not sloppy on the page. I loved that it stayed emotionally legible even while it was absolutely filthy. Him going to his knees right there in the open doorway was such a payoff to her whole fear of arriving bare and having no move left. He literally answers by worshipping the thing she risked showing him. I also appreciated that it wasn’t elegant. The jeans around his thighs, the door banging, the couch because the bed is impossible — that made it feel alive instead of staged.
+
+But the real emotional seduction, for me, was after. His head on her breasts, the name in his mouth, her laughing and crying. Then pancakes. Of course pancakes. I know, I know, he still did not actually finish the sentence. He got interrupted, and then the chapter lets the body and care rush in and make the need quiet for a while. Part of me is basking. Part of me is side-eyeing the book because I know “tonight there was no room in her for wanting anything he hadn’t given” is not the same thing as the want being gone. It’s delayed. The word still matters. It has to.
+
+And that ending with Cassie taking in the whole outfit and just going “Hmm” is perfect. Cassie remains undefeated. No interrogation, no coyness, just: I see the field report, ma’am.
+
+I’m very happy. I’m also very aware that this is a beautiful detour around the unresolved bomb. Pace almost said it. Vee stopped him. Randi engineered the whole move and then got left alone upstairs with Brooke’s warning. The triad truth is still sitting there with a knife under the table. But for this chapter? I let it have me. Completely.
+
+GATE 55 — Nothing Underneath
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 10
+NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: “You don’t do it with words. Words are the whole war.”
-WHY: I nearly balked there because it felt like Randi solving the wrong problem beautifully, and Vee is so vulnerable that the advice scared me. But the chapter knows it’s dangerous, and the kiss plus Brooke’s warning made the whole thing feel alive, not merely manipulative. I am absolutely reading the next chapter right now.
+ALMOST-STOPPED: "Which was when the light came up behind her, blue and red, wheeling across the inside of the car, and one hard whoop of the siren."
+WHY: This chapter gave me exactly the grown-up heat I keep reading for: explicit, risky, emotionally loaded, and tied to the actual wound instead of pasted on top of it. I still need Pace to say the words without being rescued by sex or pancakes, but the almost-saying and the way he received her kept me fully in.

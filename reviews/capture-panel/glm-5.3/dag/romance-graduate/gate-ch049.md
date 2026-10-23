@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch049 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · 2026-10-07*
+*capture-dag-v2-rich · gate ch049 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-07*
 
-REACTION — I have been waiting for this chapter for so long that I didn't know I'd been holding my breath, and now I'm sitting here with actual tears on my face and my heart going.
+REACTION:
 
-She DID it. She walked in armored — coat buttoned to the throat, jaw set, the coin taste in her mouth, wouldn't take her bag out of the car, wouldn't cross the mat — and she said all of it, out loud, in his warm perfect house, with the wine already poured and the piano going. "All of that is in here. Inside this house, with the door shut." That's the sentence. That's the one I've been screaming since the Chili's chapter, since the porch, since "I love how good we are together." She took the cracker-and-meal sentence that retired into her body and she built a bigger, plainer one and she said THAT instead, and she didn't whisper it.
+Oh, this book. This BOOK. Right after Vee walks out into the cold, it takes me to Gstaad and hands me Randi's whole winter, and I sat there and let it happen to me.
 
-And him. God, him. "Do any of your friends have a relationship you'd rather have than this one?" — I felt that land the way she felt it. It's true, and it's a dodge, and it's *such* a him answer, the man who says everything in everything and nothing in words, and when she nailed him with "words are cheap, and you still won't spend them on me" — that's the best line this book has produced. And his response to being cornered in exactly the right way: the arms folding, the line held, nothing. The drawer man has one drawer open and this door is shut and I don't know WHY yet and at this point I don't care how much the scar and the parents and Daphne explain — she is crying in his doorway and he reached for her with his hands, to settle her, to fix her, and "Not the hand in place of the word." I put my hand over my mouth at that line. Because he's done it to Randi too — "say something nice to me" and she had to ask. He gives everything except the one thing that costs.
+The breakfast scene — "eating her revulsion" — that's the MIRA wound in two words. The invented boyfriends being "safer than the real ones; they always had been, at this table." Her mother's hug "all edges and points against her." And the white-gold bracelet that never comes off — the bracelet caught on his hand during the waltz — I gasped at that. A locked thing being seen by a man who never once looks that hard.
 
-And she walked out. She LEFT. She chose the cold over his hands, twice, the shirt off her skin in chapter 49 and now his roof off her back — the girl who lasted five nights is walking away from the warm with the wet still on her face, and I am so proud of her I could burst, and I'm terrified, because this book has taught me that every arrangement around Vee was made before she got there, and I cannot tell if I just watched her break the game or if I just watched the game escalate. "Vee." Her name, once, and it wasn't the word she came for. Chills.
+And John. The fairytale works on you even while you're watching it not work — that's the trick of this chapter. I fell a little for him on the lift, the fake children at ski camp, "she took it anyway" with the elbow. He's wonderful. That's the horror. The venison and the truffle and the sleigh and the kiss at midnight, and I could FEEL her wanting the story — the dress she'd tell a daughter about — and then the book just quietly bleeds it out of her. "A good sandwich eaten fast on a busy afternoon." Devastating. The lipstick ring on his body while her own mouth did it "from a long way off." The eyeliner held because "nothing had happened to her eyes."
 
-I have never once texted a friend mid-book before. I just texted "she LEFT" with no context. That's where I am.
+The Pace comparison is the knife: "Pace's lead was the lightest pressure, a thing she'd had to be listening for and good enough to catch." That's this whole book's thesis in one waltz. Randi lying in the cold, the cold that's HERS, that she brought in and carried out — it's Vee naked on her bed in the flannelless dark. These two women are choosing the same pain two chapters apart and neither of them knows it.
 
-GATE 50 — Believe Me
+And then the last movement — "Vee was her gorgeous." I put the book down. She can run every scenario to the end except Vee's face. "She had arranged her whole life so she would never have to be" brave. Every word of the text to Vee true and none of it the thing. This is chapter 43's confession finished: Randi isn't just running the con, she's in the exact trap Pace is in — the love sentence that can't be spent. The three of them are all sealed in the same room, in different corners.
+
+Timing note: this is New Year's, so we're back before the fight, before Thanksgiving even? — no, wait, Vee's in Ohio at year-end, so it's the holiday gap, this runs alongside everything I've already read. That's fine. That's the point. While Vee was lying in the cold over a man, Randi was lying in a borrowed warmth over a woman. I want the NOW. I need to get back to Vee's car. But I wouldn't trade this chapter to get there faster — and I'd never say that lightly.
+
+GATE 51 — Fairytale
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 0
+CAPTURE: 9
+NEXT: 9
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is the detonation the whole book has been stacking shrapnel for — the first fully honest confrontation, her saying what he can't, and him holding the line for reasons the book still owes me. Zero heat, highest-stakes chapter of the volume, and I need to know what happens on that cold road more than I needed any scene before it.
+WHY: A quiet, cold-hearted fairytale that confirms everything I've been doing math on — Randi's love is real and unsayable in exactly the way Pace's is, and the Vee parallel (both women choosing cold in beds) wrecked me. I need the present tense back, but this earned its detour.

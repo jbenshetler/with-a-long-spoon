@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch029 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 1d4425eb351a · 2026-10-21*
+*capture-dag-v2-rich · gate ch029 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-21*
 
 REACTION
 
-OH MY GOD. That is why Randi told Vee to wait until Saturday!! "Not today... Tomorrow night." In Chapter 29 I totally bought her cover story—that she was coaching Vee not to show up in a panic so she could walk in *sure*—and she probably meant that too, because with Randi everything is five layers deep at once, *but she also cleared Friday night for herself!* "The day was in it, as if the day were his to give." She bought herself a Friday night with Pace—the night that has belonged to Vee—and walked through his door glowing because for the first time in weeks, she isn't the one left waiting on the sidelines while he has Vee all weekend. She actually had something of Vee's that *he* didn't have yet.
+Whoa, a tiny two-page chapter! And we finally get an outside perspective on Pace—a real, actual friend who isn't part of the three-way hotbox! I didn't realize how claustrophobic (in a delicious way) the world of this book had become until the camera pulled back onto a cold Saturday morning bike ride with a tiny, fierce lesbian friend who was at the Rusty Nail on Thursday night.
 
-And that sex scene. Holy shit. Look at the difference between when Pace tells Randi about Vee (*"Her stomach is soft"*, which gutted her) versus when *Randi* is the one holding the story and feeding it to him while she rides him. "She was giving him a thing and taking a thing at the same time, and the taking was the part that fired him." When she's the one who got her hands under Vee's skirt, when she's the one who made Vee make a sound and is now using it to make Pace lose his mind underneath her—she gets to be inside the desire instead of locked outside of it. Hearing Chapter 29 replayed from Randi's side—"I started at her ankle and slid them up into place... And when I took the first pair off I put my thumb in the back of her knee, right in the soft place, and she made a sound, Pace. She made a sound and hoped I didn't hear it. I heard it. And I haven't stopped thinking about her"—had me holding my breath. She is so genuinely, fiercely turned on by Vee, AND she's using it to reclaim her power in Pace's bed.
+Two things hit me hard in this little vignette. First, when Pace just *spills* about Vee—not about her body, not even about the dress, but about how she touched the joint on his walnut chair and asked how he made it, and didn't drop his math book like it burned her. *"Listen to you,"* Sheri says, and *"He didn't know what there was to listen to."* God, he is so far gone on Vee's mind and her curiosity, and just like when he talked to Randi at the sink, he doesn't even hear his own voice when he talks about her. He's twenty-two, brilliant, and emotionally a total runaway train when it comes to Vivienne.
 
-Except even right in the middle of her triumph, that damn thumbnail is still digging into the rim of her wine glass until it bites: *"The heart on her, Pace. She doesn't do anything halfway. Not even being sorry."* Because Randi knows *she* does everything behind three inches of armor, and watching Vee walk into a stranger's sorority house at 9 a.m. to lay her own ugly mistake bare is still breaking Randi's heart a little bit even while she's falling in love with her.
+Second: when Sheri asks about *"the pale sorority chick,"* Pace gives her Randi's name, says she was here last night, says she knows and likes Vee... and doesn't gush for a single sentence. Think about the contrast! With Vee, he's babbling past her name before he even decides to. With Randi, it's just facts. Even to an outside friend, Vee is the one making him talk like a boy in love, while Randi is just the architecture of his life. And Sheri calling it straight out in the cold air—*"If that's not already complicated, it will be"*—feels like the first time someone with normal common sense has looked at their arrangement without being inside the kink of it.
 
-AND THE BENCH!! We finally got the bench lore! The table against the wall has a removable top!! *"He saw her on it as she had been that night, facedown with her ass up and every inch of her flushed the color of the wine, wet enough to shine, saying please in a voice he had not heard from her before or since."* Wait a minute—back in the very first chapters when Randi had her breakdown and ran out, wasn't that *after* the bench? Here Pace remembers that night a month in as the night she said *please* and let him watch her feel all of it, and he thinks of it with pure reverence and heat—he STILL doesn't realize that going that far and being seen that bare is what terrified her into pulling back! And now Randi is looking at that table with her hand flat on the wood before she turns around naked. Is she thinking about being on it again, or is she thinking about putting *Vee* on it?
+Also, it's Saturday morning now. Which means tonight is the night Vee walks into his house in Randi's cognac heels and that green-and-gold silk scarf tied snug at her throat. Bring it on.
 
-Now it's Saturday coming up. Vee is going to walk in wearing the little black dress, Randi's cognac heels, and Randi's green-and-gold silk scarf tied with tension at her throat—literally dressed by Randi from head to toe—into the house where Randi just slept on his chest. Give me Chapter 31 right now.
-
-GATE 30 — Space
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 3
+CAPTURE: 7
+NEXT: 9
+HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Seeing Friday night flip to Randi's perspective—realizing she told Vee to wait until Saturday partly to claim Friday for herself, and watching her replay the shoe-fitting scene in bed to drive both Pace and herself wild—was electric, layered, and scorching hot. Plus the reveal of the hidden bench under the tabletop and the setup for Saturday night has me dying for the next chapter.
+WHY: It's a quick breath of cold air before Saturday night hits, and seeing Pace through a blunt outsider's eyes—especially the way he gushes uncontrollably about Vee touching his woodworking while reducing Randi to two flat sentences—makes the emotional stakes for tonight feel even sharper. I'm dying to get to Saturday night.

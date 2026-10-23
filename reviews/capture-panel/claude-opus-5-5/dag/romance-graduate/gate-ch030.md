@@ -1,30 +1,28 @@
-*capture-dag-v2-rich · gate ch030 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-10*
+*capture-dag-v2-rich · gate ch030 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6e62cd46bbc6 · 2026-10-10*
 
 **REACTION**
 
-Okay, a bike ride. My first thought was *no, put me at his door Saturday night.* I flipped to see how long this was and figured it was a breather before the big one. I don't mind a breather after Friday's *Tell*. I can read a bridge.
+I'll start with the pie, because I almost rolled my eyes at it. HUMBLE PIE in a serif font, trimmed with the good scissors, and I thought, oh no, a quirky-heroine bit. Then the book got to the same place before I did. In the driveway, with the engine ticking, she can see it's a joke and that a joke might be the wrong thing to bring. Later she says "That's why the pie is stupid, you can't put a label on that." So the pie wasn't cute. It was something to hide behind, and the chapter takes it out of her hands twice: once at the door, and once as the last thing she thinks before sleep ("like the pie"). Fine. I'm sorry I doubted it.
 
-It did a few things for me, though, and quickly.
+The height moment got me. A missed stair is exactly what it feels like when your body has learned someone at a certain angle. I wasn't expecting her to start folding herself down to undo the buckles. It's the bar fight all over again, her assuming the worst and making it about his size, and he just lifts the pie away "the way you take a glass from someone about to drop it." His line about beauty made for the gods made me wince for half a second. Then the narration admits that's his trouble, the extravagant true thing said in a plain voice, and I gave it to him. "Insult the loan": the shoes really are borrowed. Does he know they're Randi's? He looked at the shoes, and he laid the scarf back a half-second longer than he needed to. I'm suspicious. Randi was there last night. She knows her own scarf, but would he? I don't know, and I like not knowing.
 
-First, Vee at the bar after he left: alone, glaring at the floor, one drink, danced with nobody. That's my girl. Her gut was aimed wrong, but she didn't go hunting for a rebound to prove anything. I loved that it reached Pace from a witness instead of from Vee defending herself. And look at him: "He kept his eyes on the road and waited." He needed to hear it more than he'll admit.
+Randi's coaching, "sure, not sorry," is very Randi. It's a technique for handling a man, and it breaks on the first honest question. "But what happened?" He can't leave a closed door closed, and he's the only person in this book who keeps asking what's under things. And Vee *does* cry, wetly. So Randi's lie to him on Friday is now accidentally true after the fact, and that bothers me in a way I can't name yet.
 
-Then he gushes. The walnut chair, her thumb on the joint he spent a weekend on, the math book she pulled down and couldn't put back "like it had burned her." He heard himself going and didn't stop. "Listen to you." "He didn't know what there was to listen to." That's the best beat in the chapter. He's falling and he can't see it. He reads grain and joints and she noticed the one he was proudest of. That isn't a man picking a girl for a project. That's a man who got *seen*. It softened me on him after Friday.
+Then the kitchen. Oh. "Soaking is a recognized method" is the best flirting in thirty-two chapters. It's two people with a real joke between them, not banter written to sound like banter. Then the tickling, she swats him, the tap goes off, and the room changes. One smack with a wet hand, and her body says "two or three things at once that she had not agreed to have it say." That's the kink-discovery scene I've read a hundred times and never read like this. Usually she moans "yes daddy" on page two. Here she spends the whole scene covering it up, with talking, kissing, getting on top, hiding her face in his neck, because "a quiet room was a room with a question standing in it." And the cover-up is what's lighting it: every stroke pulls on the sting. Then his hand settles over the print, no new strike, just pressure, and she says "*Please*" twice, "attached to nothing." "This?" And they both leave it unnamed. That's the emotional intelligence I came for, and it's explicit at the same time. I'm fanning myself a little. The first orgasm she can file as "only what it's like with him," and the second one she can't file. That's interiority doing the heat's work.
 
-Then it took some of that softening back. "She knows. She likes her." "And the redhead?" "Not yet." He said it to a cycling buddy, out loud, on a Saturday morning, before he's said it to Vee. Same with "Not yet." He's planning it. It's a two-word confession that there's a plan and Vee is the last to know. Sheri laughs. I didn't.
+The Saturday night got summarized away ("first lighter and then not light at all"). Normally that's my trigger. Here it's fine, because the book was saving itself for Sunday, and Sunday was worth it.
 
-Sheri I like, and I want to know more. She's tiny and beats him on every climb. Her comments on women come like weather reports, and her loyalty runs hot and lasts for years, so she sounds like a real friend with a real history. "You want me to not like her?" means she's disliked someone on his behalf before. "What happened to the pale sorority chick" means she's not a Randi fan, or at least not a Randi intimate. She's the first person in his life who has an outside view of the setup. "If that's not already complicated, it will be" is a bit of the book winking at me. It's about as close to explaining its own subtext as I'll let slide, but it came out of her mouth in her voice, so fine.
+Small snags. "Friday had been two days without sleep" should be Saturday, surely, unless I'm the one confused. Pearls show up from nowhere. "To cover the thing he'd seen with a thing she was choosing" is the book pointing at its own subtext again, though just barely.
 
-"And that was the whole of it" is a flat ending, and I think it's deliberately flat. It's the calm before tonight.
+The ending is soft: hair, "You're always beautiful," and she leaves. It's tender, not a cliffhanger. But she's driving back to a dorm with Cassie in it, after two nights gone and no word, smelling of him head to foot. And somewhere Randi is waiting for a report. Randi will *ask*, and Vee now has something on her skin she hasn't named, even to herself. Does she tell Randi about the hand? I need to know whether Randi gets this or whether Vee keeps it. "Hers," the chapter said. I hope she keeps it.
 
-To a friend at 1 a.m.: *he told his BIKE FRIEND about the threesome plan before he told Vee. "not yet." I'm going to scream. tonight's the shoes.*
+At 1 a.m. I'd text: *the dishes scene. THE DISHES SCENE. he spanked her once by accident and she spent the whole sex scene trying not to let him know she liked it and he KNEW and said "This?" and that's it, that's all he said. i'm unwell.*
 
----
-
-GATE 31 — hills-and-valleys
+GATE 32 — A Recognized Method
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 8
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "and that was the whole of it." Nothing pushed me out, but that's where I noticed the chapter had cost me nothing and given me only a little.
-WHY: It's a short, clean bridge with one real tender beat ("Listen to you") and one cold one ("Not yet"), and both feed straight into tonight. It's the first quiet chapter after a charged one, so it gets a pass. If the next chapter isn't Saturday night at his door, though, I'll start counting.
+CAPTURE: 9
+NEXT: 7
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "HUMBLE PIE, in a serif font, centered" — for one paragraph I thought she'd turned into a quirky-heroine bit, and then the book took the joke apart itself.
+WHY: The apology broke on "but what happened," and the accidental spank turned into something she won't name and he won't push. That's depth and heat in the same scene, which is the whole reason I'm reading. NEXT is lower than CAPTURE because the ending let me breathe. But Cassie and Randi are both waiting for her, and I want to see what Vee does or doesn't say.

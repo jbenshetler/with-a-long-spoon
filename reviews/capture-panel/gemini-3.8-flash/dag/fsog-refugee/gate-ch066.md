@@ -1,34 +1,30 @@
-*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8ea15c426f18 · 2026-10-11*
+*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 022d1f399ba9 · 2026-10-11*
 
-REACTION
+REACTION:
 
-Oh. Oh, god.
+Oh, god. My stomach is in knots. This chapter felt so exposed, so humiliatingly real, and so profoundly lonely.
 
-Look at what just happened. Look at the *seams* cracking.
+First of all, I felt that wax strip in my *teeth*. Anyone who has ever had a first-time Brazilian knows the absolute lie of "barely stings," but seeing it happen to Vee—who goes into it armed only with Randi’s silky, high-end, minimizing lies and Pace’s quiet, devastating asks—just broke my heart. Randi leaving out the part where you have to flip over onto your stomach? Of *course* she left that out. Randi is so practiced at curating Vee’s degradation into "luxury" and "power." *The most expensive thing in the room.* God, that phrase is poison. It sounds like an elevation, but it literally means *an object with a price tag.*
 
-First of all, Vee sitting there, entirely wrapped in the wool of her own sweet innocence, misreading Randi’s sudden freeze. Vee tells her about Sheri undressing her with her eyes on that taproom floor, and Randi goes *dead silent*. Her thumb stops. That flat, cold: *"And you liked it."* And Vee thinks—bless her naive, doomed little heart—she thinks Randi is being *protective*! She thinks Randi is standing guard against a threat to Vee and Pace! She has no idea. She is entirely blind to the fact that Randi is *jealous*. Randi doesn't want another woman looking at Vee like that. Randi wants to be the *only* woman who gets to undress Vee with her eyes, the only woman who gets to touch the plush softness of her, the only woman who gets to pull the strings.
+And Pace. Look, he asked. He looked her in the eye and said "Will you?" and that consent mechanism is the reason I haven't thrown the book across the room. But the dynamic happening underneath it is getting so dangerous. He asks for something extreme ("Bare. By the weekend.") without giving her a reason, because he knows her appetite and her hunger to please him will override every single instinct of self-preservation she has. He doesn't have to force her; she forces *herself* to cross the line before she even knows where the line is drawn.
 
-And then Vee lies! *"No. Not my thing."* She lies right to Randi's face, because she *did* like it—she told Pace the morning after that it was the best thing to happen to her legs in January, and she spent half of Thursday night trying to taste herself on her own fingers because Randi said it turned her on! Vee is caught in this massive current between two people who are secretly orchestrating her waking-up, and her body is responding to *all* of it, but her conscious mind is scrambling to keep up the respectable front.
+The part that actually made my breath catch, the part that was so brilliant and horrifying, was when Sondra pinned her leg down:
+*“The wrong hand. It held her the exact way she wanted to be held and it did not want her at all, and what it did, pinning her under the flat of its palm, was open a hole in her a mile across where the right hand should have been.”*
+That is so psychologically devastating. Her body has been conditioned to associate physical control and restraint with Pace’s all-consuming attention and tenderness. When an indifferent aesthetician in rubber gloves puts a firm hand on her thigh just to do a job, Vee's brain short-circuits. She feels the ghost of his dominance, realizes there is zero love or warmth behind this specific touch, and the emptiness of it nearly swallows her whole.
 
-And then: the wax.
+And then she rolls over. That false floor. She realizes she could say no, but she feels so compromised, so far down the road of "giving over," that she thinks she doesn't have the standing to have a boundary anymore. That is the trap. When you give away the big pieces, you convince yourself that fighting for the small ones makes you a hypocrite.
 
-*"He asked me to get waxed. All of it. Bare."*
+Yet at the very end, when she touches herself and feels that terrifying, alien smoothness, her mind immediately flies to him. She endures the white-hot pain and the clinical exposure just to buy that one second of him realizing what she suffered for his pleasure. It is submissive devotion at its most raw, but she is doing it in a vacuum, entirely unaware that the man she's suffering for spent Thursday afternoon getting ridden by her best friend while they talked about Vee's breasts.
 
-I felt that drop right into my stomach like a lead weight. Because *of course* Pace asked for it. After sitting in bed with Randi in chapter 64, fucking her raw while they talk about Vee, hearing Randi talk about wanting to put her mouth on Vee's breasts, Pace knowing what Randi likes, what they *both* want to do to her. And the second Vee mentions it, Randi doesn't even blink. She doesn't tease, she doesn't mock—she leans in, totally in her element, and hands over her own esthetician. *"Sondra... tell them I sent you."*
-
-They are preparing her. It's like an offering, or a feast. They are grooming her—literally, like that baboon lecture Dr. Marsh gave with the ancient comb—cleaning her, polishing her, stripping away every last barrier between her skin and their mouths. And Vee thinks it's just a fun, grown-up, spicy little favor for her boyfriend that her best friend is helping her coordinate.
-
-The sick, thrilling brilliance of it is that Vee is walking into this entirely on her own two feet, wanting to be daring, wanting to please Pace, completely intoxicated by Randi's attention, writing the address on the back of her hand like a schoolgirl. And at the end, on that cold sidewalk, Vee didn't even wait. She tilted her face up with her eyes closed, *waiting* for Randi's mouth. And Randi kissed her twice, hard, lingering.
-
-The heat in this book doesn't just come from the bedroom scenes; it's radiating off every single glance across a restaurant booth. The trap is so beautiful, and Vee is practically skipping into it. I need Friday. I need to see what happens when the table is set.
+The collision is coming. She is offering up her absolute vulnerability on an altar, and the two people at the altar are keeping a secret that will level her when it breaks. I need to see his face when he sees what she did. I need to see if he flinches with guilt, or if he just takes it.
 
 ***
 
-GATE 67 — Between
+GATE 68 — Barely Stings
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 2
+NEXT: 9
+HEAT: 1
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The sheer psychological tension of Vee completely misreading Randi's jealousy over Sheri, combined with Randi eagerly managing the logistics of Vee getting waxed for Pace, is breathtakingly intense. The web is tightening, Vee is leaning entirely into it, and I cannot turn the pages fast enough.
+WHY: The psychological accuracy of the consent dynamic—how she gives away her boundaries before she even understands the cost, and how her body misinterprets clinical restraint because of how Pace has conditioned her—was completely gripping. I felt every rip of the wax, and the impending weekend where Pace discovers what she did for him makes it impossible to put down.

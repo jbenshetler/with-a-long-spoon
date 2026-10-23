@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch070 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d556fe46d58e · 2026-10-11*
+*capture-dag-v2-rich · gate ch070 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c14c8e832ee2 · 2026-10-11*
 
-REACTION — Oh. Oh, Vee.
+REACTION —
 
-This chapter hurt in exactly the place I’ve been bracing for. Not because she wants Randi. I am thrilled and terrified that she wants Randi. It’s hers, it’s real, it’s not a little party accident, and the book finally let her body say it without the friendship costume covering all of it. But watching her run to Pace to use him like proof, like a wall she could throw herself against until the other wanting stopped, made my stomach twist. That is not the same girl who came to him proud in the truck or stood for him painted and laughing. This was panic wearing heat.
+Oh, this one got under my skin in that awful exact way where nothing “happens” and yet everything is happening. I felt trapped in Vee’s body with her. The wanting is so loud now it’s almost not sexy at first, it’s frightening. Not because wanting Randi is wrong, but because Vee is trying so hard to keep it from becoming true that every ordinary little thing turns radioactive. The knee. The wrist. The Lifesaver. God, the Lifesaver again. It’s always the smallest touches in this book that undo me.
 
-And Pace. God, Pace. This is why I keep reading him. He clocked it instantly. Not jealous-boyfriend, not wounded male pride, not punishment. He felt the wrongness in her and asked. And then he did the most dangerous, devastating thing he could have done: he made the truth erotic without making it unsafe. I know that sounds like a contradiction, but it wasn’t. He used the control between them to pull honesty out of her, and she wanted the rule. She leaned on it. She needed somebody else to hold the line because she couldn’t hold it herself.
+And I’m aching for her because she is doing that very recognizable thing where if she can avoid the act, she thinks she can avoid the truth. Hand on stomach. Don’t let it go lower. Don’t kiss Randi goodbye. Don’t sit through dinner. Don’t name it. But the truth is already there, and the more she refuses the obvious door, the more it starts coming in through the windows. That neck kiss was brutal. Randi knew exactly what she was doing, and I can’t pretend otherwise. It was playful, yes, but also targeted. “How do you like it?” Oh, Randi. I wanted to laugh and smack the book against my knee at the same time.
 
-But I am also not letting him completely off the hook, because oh, the irony nearly bit through the page. He is making her confess Randi inch by inch while he and Randi have their own whole hidden history in the next room of the story. He asks, “Anything else you want to tell me?” and I wanted to throw something soft but meaningful. Sir. Sir. There is a skyscraper-sized “anything else” on your side of the bed.
+The Sunday with Pace hurt more than I expected. She keeps reaching for him, over and over, and I believe she wants him. That’s the complicated part. This is not “she doesn’t want him anymore.” She does. She wants him terribly. But he can’t erase Randi, and trying to use him that way leaves her sore in the wrong way, still empty somehow, and that made me sad. It made Pace feel a little absent even while he’s everywhere in her body. I miss him as a person in this chapter, which I think is exactly the point: he has become her refuge and her proof, and that is too much weight for one man to carry when she’s lying to him and herself.
 
-Still, when he asked if she wanted to sleep with a woman and didn’t say Randi, I could feel how merciful that was to her. He gave her a little room to approach herself sideways. And she still couldn’t. “I’m not gay” was such a young, scared, railing-grab of a line. I wanted to hug her and shake her. It’s not a courtroom, baby. You are allowed to want who you want. But she isn’t there yet, and the first lie to Pace landing cold inside her felt like a bell tolling.
+Randi saving the seat and saying “Hey, gorgeous” just about killed me because it’s so normal. That’s the trap. Randi isn’t suddenly a villain in a cape; she’s her same warm, gorgeous, intimate self, and Vee can’t bear that sameness because her own interior has changed. The “Having you at the dance” line was so loaded I physically felt Vee hear it late. Having. Wanted to have. For the longest time. And again, this book knows exactly what I read for: the possessive heat, the being chosen, the being wanted before you knew. But now it’s Randi saying it, and Vee has no category for it that won’t blow up her life.
 
-The last page is the knife. She thinks she got away with it, and then immediately Tuesday is there. Randi is there. The mouth is still in her. Pace gave her the best sex, the safest arms, the boyfriend word, and her mind still went back to the woman. That is not going away. That is not a fever. And now there is a lie between her and Pace, and a truth between her and Randi that Randi tried to call pretend, and Tuesday is coming like weather.
+Cassie at the end, thank God. That question landed like someone turning on a light in a room Vee was trying to sneak through. “What was that with you and Randi?” Not cruel, not prying, just enough disbelief to say: no, babe, this is visible now. I trust Cassie so much, and I badly want Vee to tell her, because she needs one person who is not in the triangle to hold the shape of this with her.
 
-I would absolutely be texting a friend at 1 a.m.: “She used him to exorcise the Randi kiss and it did NOT WORK. Also Pace knows more than she thinks and less than he should, which is somehow worse.”
+I’m also a little angry at Randi. Not enough to quit, not even close, but enough that my chest is tight. She felt Vee turn away from the kiss. She asked what was up. Then she still went for the neck, the one place she knew would detonate. That is exactly where my trust wobbles with her: she is tender, yes, but she also presses. And because Vee wants it, because Vee makes that sound, because Vee asks for brunch afterward, it’s easy for the book to make it hot. It is hot. But I am watching whether Randi can love Vee without maneuvering her.
 
-GATE 71 — Boyfriend
+And yet, infuriatingly, yes, I want brunch. Of course I want brunch. I want it so badly I’m annoyed at myself. The book has me right where Vee is: alarmed, turned on, suspicious, starving.
+
+GATE 72 — Coming Due
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "It didn't mean anything."
-WHY: This pulled me hard because the heat and emotional consequence were braided together so tightly I could barely breathe. Pace’s dominance still made room for her, but the first lie changes the room, and Tuesday with Randi now feels unavoidable.
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "See?" she said. "How do you like it?"
+WHY: That neck kiss was the closest I came to pulling back from Randi, because it felt like her using knowledge of Vee’s body at exactly the moment Vee was trying to set a boundary. But the chapter is too alive inside Vee’s panic and wanting for me to leave; I need the brunch, and I need Cassie’s question to matter.

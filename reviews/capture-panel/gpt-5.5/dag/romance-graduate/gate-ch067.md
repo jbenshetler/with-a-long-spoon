@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch067 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 022d1f399ba9 · 2026-10-11*
+*capture-dag-v2-rich · gate ch067 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ec95866b43d5 · 2026-10-11*
 
-REACTION —
+REACTION — Oh my god. This chapter got me by the throat and then had the nerve to be tender about it.
 
-Oh, this one got me in the stomach.
+This is exactly why I’m still here. Because yes, it’s filthy, but it’s not just “and then his mouth, and then his fingers, and then insert standard Kindle scene here.” It’s her whole self being made visible to herself. The waxing chapter was all exposure and wrong hands and endurance, and this one answers it with the right hands, the right mouth, the right seeing. I felt the relief of that almost physically. Like, yes, please, someone take the thing she was ashamed of and make it art without making it metaphorical enough to hide behind.
 
-I knew from the title and Randi’s “barely stings” that we were walking into something with teeth, but I still wasn’t ready for how exposed it made me feel. Not just because of the waxing, though God, the waxing. Because Vee is doing that thing again where she says yes to Pace before she understands the full shape of what she’s agreed to, and then the fear arrives afterward, privately, when the yes has already become a kind of fate. That is so her. That is so dangerous. And also, maddeningly, so hot.
+The painting. THE PAINTING. I should have rolled my eyes at fruit body paint. In another book I absolutely would have. But here? No, I was gone. Because it’s so him: precise, patient, odd, sensual, slightly insane in a way that feels completely private to them. The walnuts and parsley and grapes and cantaloupe made me laugh, but I was also holding my breath, because every little ritual was teaching her stillness and surrender and being looked at. And then the “gesso” made me make an actual sound. Sir. You cannot say “gooey coat” in that calm classroom voice while doing that and expect me to survive.
 
-The salon being all honey light and apples and “civilized” wine was perfect in the worst way. This very polished feminine machine that makes humiliation feel like a spa service. I loved the two girls in the waiting room, because Vee clocking the difference between “here to be looked at” and “here to be touched” is exactly the kind of tiny social-sexual reading this book does better than almost anything I’m reading right now. And then she knows which one she is. Of course she does. She is here preparing herself for one set of hands.
+And Vee asking him to take a picture. That landed harder than almost anything. Not because it was daring in the obvious way, but because there was no shame. She looks, and the pride comes. That is the thing I keep wanting for her: not just to be desired, but to believe the evidence of herself. “Abundance the whole point” is absolutely the sentence of this chapter for me. Her breasts, her wetness, her hips, all the too-muchness she’s been taught to manage and apologize for, turned into the reason the whole image works. I’m a puddle.
 
-But Randi. Randi, Randi, Randi. I am not letting her off. “Barely stings” is such a betrayal in miniature. Not a villain betrayal, not even necessarily malicious, but that exact Randi thing: she makes the door glitter so Vee will walk through it, and she leaves out the part where the floor drops. She knows what a full Brazilian is. She knows Vee doesn’t. She knows this girl is still translating half of adult sexual life by watching her face across restaurant tables. And she gives her the wine, the woman’s name, the “most expensive thing in the room” fantasy, and not the “also, you’ll be asked to roll over.” I actually said “oh no” out loud.
+The heat was extremely high, but what wrecked me was how emotional the heat stayed. Pace not asking for the photo. Not taking ownership of the image he made. That matters. He gives it back to her. This man still has a verbal debt, don’t think I forgot, but his body keeps making arguments his mouth is too cowardly or wounded to make. And then he sleeps under her arm like a felled tree after having turned her into a Renaissance fruit scandal. Fine. Fine, I love him again.
 
-And yet the chapter doesn’t let me flatten Randi into manipulator, because Randi was right about part of it. Vee does walk out transformed. The final touch, her own hand on that smoothness, is genuinely electric. I could feel the switch from ordeal to possession: this happened to her, yes, but then she has a private second alone with her own body and claims the result before Pace ever sees it. That matters to me. I needed that. If this had ended with her only as an object for him, I’d be much colder right now. Instead it’s “no one in it knew but her,” and that saved the chapter from feeling merely punishing.
+But Randi. Oh, Randi is sitting there at the end of the bed even when she is not in the room. Vee saying she won’t tell her is basically a gong. She is absolutely going to tell her, or almost tell her, or make the not-telling visible enough to count. And the fact that Vee can’t even imagine Randi’s voice over the picture because it goes somewhere she “couldn’t follow”? Baby, that is because you know exactly where it goes and you are not ready to look.
 
-The wrong-hand/right-hand passage is filthy and upsetting in the exact grown-up way I came for. The technician’s hand pressing her thigh down, totally impersonal, accidentally speaking the same language Pace speaks on purpose? That is psychologically nasty, and I mean that as praise. Vee’s body recognizing the grammar while her mind is appalled, aching for the hand that wants her instead of the hand that is just doing a job — yeah. That’s the stuff. That’s why I’m still here.
+Also: the chapter title, “Still Life.” I mean. A painted body, yes, but also Vee trying to hold still, trying to become an object under attention, and discovering she is not an object at all. She is alive all over. This was lush and weird and explicit and emotionally exact. I would have read the next chapter even if it were just Randi looking at a skirt for ten pages, because the fuse at the end of this one is lit.
 
-I’m also noticing the book is tightening the ethical knot again. Pace asked for “bare” and did not explain why. Randi explained the fantasy and omitted the mechanics. Vee consented, but consented into partial knowledge, because she is so hungry to be chosen and shaped and found pleasing. The book knows that. I trust that it knows that. But I am watching everyone.
-
-And heat-wise, weirdly, yes, this is hot. Not cozy-hot. Not “fun scene in a truck” hot. It’s mortifying, bodily, half-pain and half-anticipation. The moment she touches herself afterward and imagines his hand finding what she’s done for him? That landed. I’m not proud of myself, but I’m not lying either.
-
-GATE 68 — Barely Stings
+GATE 69 — Still Life
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
-HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: "There it was. The part Randi hadn't said."
-WHY: This chapter made the erotic charge feel costly again, which I needed after all the glow and table-talk. I’m rattled by Randi’s omission and by Pace asking without explaining, but Vee’s private ownership at the end kept me in it. I want the weekend now, badly, because his reaction to this is going to tell me a lot.
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: This was peak heat with actual psychological payoff, not a garnish of feelings sprinkled over sex. Vee seeing herself without shame, Pace making abundance sacred and then leaving the image in her hands, and Randi hovering in the unsaid afterward — yes, I’m already turning the page.

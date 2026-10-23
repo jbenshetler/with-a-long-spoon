@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch050 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-07*
+*capture-dag-v2-rich · gate ch050 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · 2026-10-07*
 
 REACTION
 
-Oh, Randi. *God.*
+Oh, this hurt. This was a quiet, suffocating, perfectly observed kind of agony.
 
-I went into this chapter bracing for the fallout from Vee walking out into the gravel, and when it opened on a Gstaad ski resort with Randi eating smoked salmon in front of her fraudulent father, I almost groaned because I thought we were getting a momentum-killing detour. But holy shit, this wasn't a detour at all. It was an autopsy.
+That pairing between Chapter 51 and Chapter 52 is devastating. Reading Randi lying in that luxury bed in Gstaad, frozen on the inside next to a flawless cardboard cutout of a man, crafting that fake *“it’s honestly a fairytale out here”* text—and then cutting straight to Vee in her childhood bedroom in Ohio, smelling the cheap lavender plug-ins and her mom’s fabric softener, curled up in a twin bed she outgrew in eighth grade, swallowing that text whole. The dramatic irony is thick enough to choke on. Vee looks at Randi’s feed and sees an untouchable goddess who has the whole lit world at her feet, while Randi is literally lying awake in the dark wishing she had the guts to tell Vee she loves her.
 
-Watching Randi build the entire glossy, Pinterest-board fantasy in real-time—the cotillion-trained Yale lawyer who looks good in white tie, the private sleigh, the vintage blue dress, the Michelin-star dinner with the scented smoke bubble—only for it to taste like absolutely nothing the second he fell asleep. *"A good sandwich eaten fast on a busy afternoon: the pleasure real, complete, and gone before the plate was cleared, nothing left behind it to keep."* That is so brutally observed. It completely mirrors Vee in the dorm bed realizing the flannel’s warmth was just her own body heat reflected back at her. Both of these girls are freezing in different kinds of luxury, starving for something real.
+And then the absence of Pace. God, the psychological precision of what happens when you’re twenty-one and the older man who has methodically taken over your entire nervous system simply… doesn’t text. He doesn’t chase. Because of course he doesn't—in his mind, he "leaves you the room." It’s his signature move: patient, empirical, maddeningly controlled. But to a girl lying in her childhood bed watching the year die at 11:52 p.m., leaving the room just feels like an abandoned house. It feels like erasure.
 
-And the way John "led" her! Cotillion smooth, assuming everything, requiring zero emotional courage from her. It threw Pace into such sharp, terrifying relief. Pace makes her speak; Pace requires her to participate; Pace actually looks at the grotesque, ambitious, hollow parts of her and doesn't flinch.
+When she tried to conjure the memory of the fra diavolo—the top sheet slipping, the smell of the garlic and oil, the warmth of being worshipped—and her brain actively betrayed her and swapped her own body out for some mythical, effortless blonde who doesn't need to be "built for"… my chest actually tightened. That is so brutally, painfully real. When an avoidant man refuses to name what you are, he doesn't just leave you lonely; he robs you of your own memories. He turns the safest room you had into a phantom space where you can be replaced by anyone.
 
-Then Vee texts her at midnight. *“thinking about you 💛 hope it’s beautiful out there. i’m here if you want to talk. or not.”* Such an open, gentle, honest hand offered from a warm, unpretentious Ohio kitchen. And Randi puts her mask back on, types out the breathless sorority-girl emojis, sells the fairytale, and then adds the one genuine, poisoned dart: *"miss your face most though, gorgeous 💋"*.
+And the scissored photo! Looking at the gold synchronized-swimming trophies, the clarinet in the closet, and realizing she had to literally crop her own leg out of the picture before sending it to her mother because the person she’s become cannot exist in the house that raised her. She’s completely unhoused. She doesn’t fit in her childhood bedroom, she can’t exist in Pace’s kitchen without a label, and the only anchor she thinks she has left is Randi—the very person holding the other end of the string.
 
-Randi admits she loves Vee, but she’s such a coward that she’d rather keep manipulating her under the cover of "brunches" than risk hearing Vee say no. She wants to eat her cake and have the friendship, too. She has no idea Vee just walked out on Pace, and Pace has no idea Randi is spiraling in Switzerland. When all three of them collide back on campus for spring semester, the blast radius is going to be astronomical.
+It’s a bridge chapter, yes, but it’s the kind of bridge that earns its keep entirely on interiority and ache. The semester is about to start. Tuesday morning, 8:00 AM Anthropology. Vee is walking into that lecture hall emotionally starved and completely untethered, straight into the arms of the girl who just promised she missed her face most. I need to see the collision.
 
-GATE 51 — Fairytale
+***
+
+GATE 52 — Old Acquaintances
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
-HEAT: 1
+HEAT: 0
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The pivot to Randi’s perspective during winter break could have stalled the momentum, but instead it laid her completely bare—proving that her gilded, "acceptable" life is a freezing void compared to what Pace and Vee pull out of her.
+WHY: The ache of this chapter was exquisite. Watching Vee get crushed by the silence from Pace while clinging to Randi's hollow "fairytale" text set the board perfectly for the absolute trainwreck that spring semester is going to be.

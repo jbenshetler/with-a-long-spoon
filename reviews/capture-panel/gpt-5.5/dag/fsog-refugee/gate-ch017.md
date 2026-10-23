@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch017 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9480caafaef2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch017 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bca2ed17019a · 2026-09-28*
 
 REACTION —
 
-Oh, this one got me.
+Oh, I needed this chapter more than I realized. After the sheer charge of the measuring scene, I needed Vee to come home and be messy and giddy and half unable to say it, and I needed Cassie there with the highlighter down. That felt like the right place to put my own breath back in my body.
 
-This is exactly the dangerous thing I came here for: not just a man seeing her body, but seeing the whole terrible knot inside her about being seen, and not treating it like a problem. The heat in this chapter is enormous, but what really undid me was that it kept being built out of attention. The house warmed before she arrived. The tea. The blanket. The way he starts with the easy measurements like he knows her nervous system needs time. The way he withdraws after every touch and somehow the space becomes its own touch. That is so much more intimate than if he had just grabbed her.
+The heat in this one is mostly aftershock, but it is *strong* aftershock. Vee trying to report what happened and not being able to keep the shape of it neat is very, very good to me. “Burgundy” as the first thing out of her mouth, not “he saw me topless” or “I nearly died of wanting,” but the dress. Because of course the dress is the wound and the gift and the excuse and the altar all at once.
 
-And Vee. God. I am so proud of her and also aching for her. The bra coming off in daylight, the old mother-voice crawling up with every ugly little word, the satin panties she chose with hope becoming evidence against her in her own mind — that was painfully believable to me. I know that shame. Not personally in the same exact way, but as a reader of this genre, I know the version where the heroine’s body betrays her and the book wants me to think that betrayal is sexy because the man can use it. Here it was sexy because he doesn’t use it. He receives it. That is the difference. That is the whole blessed difference.
+And Cassie. Bless Cassie forever. She is funny, she is skeptical, she is not dazzled into stupidity, and yet she lets the wonder be wonder. Her “Oh, Vee” when the heat-up-house detail lands? That got me. Because yes, exactly. It is not just that he made the dress or measured her body. It is that he adjusted the world before she arrived so her body would not suffer while being seen. That is the thing. That is why I keep trusting him in the room even while I do not trust the architecture of the larger plot.
 
-The moment he is on his knees and she thinks he is about to see the wet spot and maybe be disgusted or amused or politely pretend, and then she opens her eyes and he is looking up at her face, smiling like she is a gift? I had to stop there. That’s the chapter for me. That’s the thing. He knows exactly where he is, what he could look at, what it would cost her if he looked wrong, and he waits for her eyes. That is dominance with restraint. That is erotic because it is merciful.
+The chapter also made me love Vee’s ownership of herself. She is not just acted upon here. She is embarrassed, then proud, then wicked, then laughing into a pillow about grinding on him while he is trying to make her a dress. I *adore* that. This is the fantasy I came for: a man with control who does not erase her, and a woman discovering she can spend desire back at him. She is not a doll on the box. She is figuring out that she has hands on the steering wheel too.
 
-And then she changes. I loved that. I loved that the shame does not just vanish into gratitude. It turns into power. She starts testing him, spending this new power, pressing her breast to his face on purpose, making him blush. That could have gone silly or cruel, but it felt like her discovering, “Wait, I can affect him. I can make this man lose his place.” And then the pinprick, the kiss, and “Keep still.” I felt that line all the way down. Low, controlled, not punishing her, not shaming her, but setting the edge because he is close to losing his own.
+The gay joke could have been annoying if it had stayed mean or dumb, but between these two it reads like Cassie desperately trying to make the math work because Pace is behaving outside every script she has. “He’s a powerlifter who makes dresses” is funny because, honestly, same, Cassie. I too am sitting here with a pencil behind my ear trying to classify this man and failing.
 
-I am also very aware, still, of the giant secret underneath all this. The chapter is doing everything I need in the moment, and Pace is being almost impossibly good at the exact things I care about. But the fact remains: this fitting, this dress, this intimacy, all of it sits inside a situation Vee doesn’t fully understand because Pace and Randi chose her before she knew there was choosing happening. That cold wire is still there. It doesn’t ruin this chapter for me, but it makes the tenderness feel almost frightening. The better he is with her, the more I dread what it will mean when she learns the arrangement existed before her yes.
+What really holds me is that Cassie catches the consent without needing a lecture. “He asked,” she says, and Vee says not with the word, but yes. That matters. It lets me stay inside the erotic charge without that old sick feeling of the book wanting me to ignore disregard. Pace’s asking is becoming a language now, and Vee is learning to read it.
 
-But right now? I’m in. I’m very in. This chapter understood that being asked to stand still and be looked at can be filthier than being thrown on a bed, if the looking has care in it. And the dress being made for the induction — for the public version of her achievement — while this private, almost sacred erotic undoing happens underneath it? That is exactly the kind of sex-means-something-between-these-people thing I want.
+I’m still aware of the secret, though. Every chapter like this makes the eventual bill larger. Cassie is hearing the real parts, but not the engineered beginning. Vee is saying “he left me a door,” and I believe that inside the room. But outside the room, before she got there, doors were opened and closed without her knowing. That ache is still there. For now, though, I am absolutely reading on. I want the finished dress. I want the induction. I want Randi to see Vee in burgundy and have to survive it.
 
-GATE 17 — A Round
+GATE 18 — Turned Up
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "He looked up from the tape. 'The bra too,' he said, gently, plainly. 'It changes the line. It'll lie to me.'"
-WHY: For one second I was afraid the chapter was going to tip from chosen vulnerability into too much exposure too fast, but it earned every inch after that. The heat was scorching because the care never left the room, and the moment he waited for her eyes instead of looking down absolutely locked me in.
+ALMOST-STOPPED: none
+WHY: This was exactly the decompression I wanted: funny, intimate, and still charged from the previous chapter. Cassie made the romance feel witnessed instead of sealed off, and the “he turned the heat up” detail hit me right in the tender machinery. I want the next chapter badly now, because the dress is becoming emotional evidence.

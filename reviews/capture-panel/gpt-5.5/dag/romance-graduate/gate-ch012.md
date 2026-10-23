@@ -1,24 +1,16 @@
-*capture-dag-v2-rich · gate ch012 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2bcd8a499e1e · 2026-10-01*
+*capture-dag-v2-rich · gate ch012 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 60685a587d38 · 2026-09-27*
 
-REACTION — Oh, this got me. This is exactly the kind of chapter where nothing technically “happens” until suddenly my whole chest is tight and I realize I’ve been reading with my shoulders up.
+REACTION — Oh, I loved this little exhale. After the rain-truck scene, I needed someone sane in the room, and Cassie being sane without flattening the magic is exactly why I keep trusting her. She clocks the flannel instantly, of course she does, but she doesn't sneer, doesn't panic, doesn't turn Vee's shining thing into a lecture. She lets Vee tell it. That matters.
 
-The hike worked on me because Pace is so unbearable in the small caretaking. Not flashy caretaking, not “look what a gentleman I am,” but the heel, the moleskin, the boot relaced differently. The cherry pit. The dry shirt. He keeps doing the thing that makes me weak: he notices a problem without making her feel like the problem. And that is so much hotter than a man who just growls a lot and pins someone to a wall because the book has run out of verbs.
+And Vee. God. The way she says “And then we ate” like it’s sex is so her now, and I’m completely bought in. The food, the body, the being taught without being shamed — it’s all braided together. She sounds changed but not erased. She’s not just mooning over a man; she is coming home with proof that her body can climb a mountain, get hungry, be seen, be cared for, and want. That’s potent.
 
-But the truck. God. The truck.
+The chapter is tiny, which I noticed hard. Like, I turned the page and went, wait, that’s it? But it doesn’t feel lazy to me here. It feels like a held breath after the big scene. It lets the truck scene land through Cassie’s eyes, and it quietly reassures me that Vee still has a witness outside Pace and Randi’s orbit. Cassie saying “Keep the shirt” did something to me. It’s permission, but clean permission. Not Randi’s glittering permission that always has a hook in it. Cassie’s is just: yes, have your want, but for God’s sake get real boots.
 
-I loved that the erotic turn came from her. Not because he pushed, not because the rain made it inevitable, not because he “couldn’t help himself,” but because he gave her privacy and she called him back. That crooked finger through the rainy window? I would have put the book down for a second if I weren’t absolutely glued to it. And then the buttons, the wet bra, her keeping his eyes and then choosing to look down so he would too. That is so specific and filthy and emotionally exact. It’s not coy. It’s not clinical. It’s Vee discovering that the shame-voice is not gone, but that maybe it can be ridden like heat. That is dangerous territory and the book knows it.
+I am still worried. Maybe more worried, honestly, because Cassie being moved by the story means Pace’s care is persuasive even to my anchor. He really did do the beautiful thing. He really did stand in the rain. The danger is that the beautiful thing is true.
 
-Also, I am now in real trouble with Pace. I still know, intellectually, that he and Randi are orchestrating something. I have not forgotten the game. I have not forgotten Vee doesn’t know. But then he stands in the rain with his back turned so she can change, and he is freezing, and he still does not touch her until she reaches. The ethics are still a red wire under the floorboards, but emotionally? I believe his restraint. I believe his wanting. I believe that he was shaken by her. That trembling hand was everything. It broke the perfect-control thing open just enough.
-
-The russet dress also lit a little lamp in my head. He heard it. He didn’t pounce on it, didn’t make it a grand gesture in the moment, but I know he heard it. If that dress comes back, I will scream into a pillow, possibly with suspicion, possibly with delight, probably both.
-
-And that ending annoyed me in the best way. The campus cop interrupting right as she was going to say the too-big thing? Mean. Effective. Very series-brained. It leaves the chapter wet and unfinished, with her standing there in his flannel like a girl carrying evidence on her body. I want Randi to see it. I want Cassie to see it. I want Vee to try to explain and fail. I want the next chapter immediately, which is rude because I had plans.
-
-GATE 12 — Leave No Trace
+GATE 13 — Rye
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This is the chapter where the book gives me the thing I keep reading for: explicit charge that comes from interiority, not despite it. The hike could have been a bridge, but the caretaking, the shame turning into want, and Pace’s hand shaking made it feel like a real turn in both desire and attachment.
+CAPTURE: 7
+NEXT: 8
+ALMOST-STOPPED: "Borrow real boots next time."
+WHY: I almost stopped there only because the chapter ended so abruptly that I felt the page drop out from under me. But emotionally it worked: Cassie kept the book grounded, Vee got to glow without being made foolish, and I absolutely want the next charged move now.

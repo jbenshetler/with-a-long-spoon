@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 1e04263f57c9 · 2026-10-12*
+*capture-dag-v2-rich · gate ch054 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · 2026-10-11*
 
-REACTION — Oh, this was catastrophically hot, and I am furious.
+REACTION — Oh, Vee. She is so happy, and I am so turned on, and the whole time I can see the trapdoor under the bed.
 
-The coat. The heels. Vee winding herself up in the mirror and deliberately stopping because she wanted to arrive aching for him. The respectable church coat buttoned over absolutely nothing. The cold lining, the hallway conversation with Kayla, the drive, the doorway—I was completely inside her skin. And Pace going to his knees on the porch the instant she opened that coat? Yes. Obviously yes. That is precisely the sort of indecent, psychologically loaded spectacle I am here for. It wasn’t generic naked-under-a-trench-coat fantasy pasted onto interchangeable bodies; it was Vee taking every part of herself she had been taught was too much and presenting it on purpose. That worked on me obscenely well.
+The pleasure-princess realization absolutely got me. Not because I buy the ownership fantasy literally, but because she is finally playing with power instead of merely proving she can endure exposure. She wants him, knows he wants her, and enjoys making that knowledge inconvenience him. Burning the toast was delightful. Ordering him to undress, placing herself on the cashmere, pointing to where she wanted his mouth—this is a different confidence from walking naked onstage or opening the coat. Those were brave because she was frightened. This was playful because she felt safe. Watching her discover that she can direct all that formidable attention was scorching.
 
-But the flashing lights nearly snapped me out of the chapter. Touching herself while driving at speed is not daring-sexy to me; it is frighteningly stupid, and the cruiser scare felt like the book knew it was dangerous and used the danger as another tightening device anyway. I wanted her hand back on the wheel long before the siren.
+And the sex earned its length for me. Her command slowly deteriorating into a plea, Pace recognizing the difference, the deliberate circuit of her body, the shameless noise of his enjoyment—I could feel why this specific act has become a psychological threshold for her. The kiss afterward was even better, because her body said yes before the inherited disgust could arrive. I loved that the book let her recoil. Not coyly, not as a fake obstacle, but with that awful childhood reflex snapping shut over an adult appetite that had already reached forward. And Pace handled it beautifully: stopped, checked which no she meant, wiped his mouth, continued without punishment, and left her mouth entirely to her afterward. That is the emotional intelligence I keep demanding from him. He can read a boundary down to the millimeter when it is bodily and immediate.
 
-And then: “Vee, I l—”
+Which makes me furious all over again that he still has not answered the actual relationship question.
 
-I nearly screamed. He was going to say it. He opened the door prepared to do the one thing she had demanded, and she stopped him because Randi had convinced her that words were the war and her body was the peace offering. That is not a repaired relationship. That is Vee using sex to withdraw a legitimate question before Pace can finally answer it. Worse, she thinks she invented this solution herself, when Randi—who knows exactly what Pace feels, exactly why he is silent, and exactly how reliably Vee’s body can make the question disappear—put the shoes in her hands and sent her there.
+Last chapter’s sex did not resolve their rupture, and this chapter is Vee enthusiastically rewriting the rupture as resolved because she is back inside the warm house being exquisitely cared for. “Tonight there was no room in her for wanting anything he hadn’t given” has become an entire weekend with no room made. She asked what she was to him. He still has not said. He apologized for hurting her and said he missed her, and now they are behaving as though her body was the peace offering required to end a war she started. Randi successfully taught her to translate her own legitimate demand into an unfair ambush. That sits horribly beneath all this pleasure.
 
-So yes, the reunion wrecked me. His face, “so plainly glad and so plainly wrecked.” All the missing in the kiss. The frantic, graceless sex that actually felt like weeks of deprivation rather than a polished performance. His head on her breasts afterward, taking comfort there. His cracked “I missed you so much.” I believe every particle of their relief and love.
+And the blanket. Jesus Christ, the blanket. Vee carefully spreads Randi’s cashmere across the bed, stages herself on it, soaks it, then pulls it tenderly over herself and decides it is a gift Pace silently bought for her. I wanted to crawl out of my skin. I remember exactly whose blanket that is and why it lives at the foot of his bed. Vee is literally wrapping herself in evidence of the relationship being hidden from her and reading it as proof of Pace’s devotion. That is the whole book in one object, and it hurts.
 
-That is what makes the ending hurt instead of soothe me. “Tonight there was no room in her for wanting anything he hadn’t given” is the whole problem in one sentence. He nearly gave her the word. She prevented him. Then sex, warmth, a blanket, food, and tenderness filled every available space until she no longer felt the lack. The pancakes are crackers wearing a very convincing meal costume.
+Then she thinks she’ll tell Randi everything. Of course she will. Randi supplied the shoes and the strategy, Pace supplied the house, and Vee still believes she authored a private reconciliation between herself and her man. Now she is going to carry the intimate report straight back to Pace’s other lover, trusting Randi to interpret the one sexual feeling Vee cannot interpret herself. “Randi always did” landed like a threat.
 
-And she comes home happy in his sweats and Randi’s heels. That image is almost too perfect: Pace and Randi are both on her body, both helped produce the weekend, and Vee still thinks she independently chose her way back. Cassie’s eyebrow is me. I’m glad Vee feels loved; I’m also watching the concealed couple close their circuit around her while she calls it resolution.
+I would text a friend: *This girl just had three orgasms on the other girlfriend’s cashmere blanket and thinks it was bought for her. I am unwell.*
 
-I am absolutely continuing, because this chapter gave me the heat and interiority I want and then planted a knife inside the satisfaction. But if the book treats this as genuinely fixed, I will revolt. Pace still has to finish that sentence. Randi still has to answer for engineering this surrender while withholding the one fact that would change everything.
-
-GATE 55 — Nothing Underneath
+GATE 56 — Missed a Spot
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: “the far-off sensible part of her that knew a woman should not be doing this at speed on a county road could not have made her stop for anything short of God.”
-WHY: The erotic charge was ferocious and completely specific to Vee, but the real hook is that the apparent reconciliation repeats the exact wound: pleasure and care swallow the unanswered question. Pace’s interrupted “Vee, I l—” and Randi’s heels on Vee’s feet make me desperate for the truth to finally break through.
+ROMANCE: 2
+ALMOST-STOPPED: “The blood oranges he did the way he did everything.”
+WHY: The food threatened to become another long demonstration of a point I already understand, but the erotic power play immediately pulled me back. I need the Tuesday conversation now, because Vee is about to hand Randi both the triumphant coat story and her newest private threshold while lying under Randi’s blanket, and this concealment cannot keep getting hotter without detonating.

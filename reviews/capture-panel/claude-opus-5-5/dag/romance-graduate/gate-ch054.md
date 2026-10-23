@@ -1,26 +1,20 @@
-*capture-dag-v2-rich · gate ch054 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1e04263f57c9 · 2026-10-12*
+*capture-dag-v2-rich · gate ch054 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · 2026-10-11*
 
-## REACTION
+**REACTION**
 
-"Vee, I l—"
+THE BLANKET. I have to start there because I actually gasped out loud. Two chapters ago, hungover, Pace folded *Randi's* cashmere blanket, "the one for the chill that took her after," and put it back at the foot of the bed "where it lived." This morning Vee walks it down the hall, lays it out square and smooth like she's setting an altar, then soaks it through, and lies under it afterward thinking it's how he gives gifts: "no card, no notes." Oh honey. It isn't yours. The book never says so, which is exactly right. It just lets me sit there holding it while she gets petted to sleep by another woman's blanket. That's the best use of "I know something she doesn't" in fifty-six chapters, and it's done with an object, not a speech.
 
-He was going to say it. He opened the door, saw her, and the first thing out of his mouth was the word she's been starving for all book. She talked right over it and opened the coat. I screamed. I put the Kindle face-down on my chest and actually said "NO" out loud to my bedroom. She came out there because words had failed. The words were finally there, and she didn't need them anymore, and she didn't even hear them. Later: "nothing needed saying now." Honey. He was SAYING it. I got his whole Daphne chapter, the whiskey, the sobbing at the truck going by. So I know exactly what that cut-off syllable cost him, and she has no idea. It's the most painful thing the book could have done, and also kind of funny. I love it and I hate it.
+The kiss is the other thing that's still in my chest. Her tongue gets there before her upbringing does: "curious, unforbidden, hers." Then the flat installed voice, the back of the hand, "Ugh — gross," like a little kid. And his "Okay." No sulking, no explaining. He leaves her mouth for her to take back. That was the most tender thing he's done since the doorway, and maybe more grown-up than any word he could have said. Then she goes *hunting* in his mouth and comes on the taste. And she lies there licking her own lip and won't ask herself what she's looking for. I know what she's looking for. The jacket knows. Randi in the next booth knows. It's the setup for Tuesday, and it's a setup that's actually about her appetite, not a plot device. It's built out of her body arguing with her mother. That's what I came to this shelf for and almost never get.
 
-The heat delivered with no hedging, and it was hers. The mirror scene wasn't really a show for him, it was her using the "stripper's body" on purpose, her mother's word looking for a grip and finding none. And then she stops herself on purpose and feels powerful about it. That's interiority and explicitness in the same paragraph, which is the whole reason I'm still reading this book. The car was filthy and reckless. The cop was a little sitcom, I rolled my eyes for a second, but it paid off: denied twice, the dark bloom on the lining, "it only told her she meant it." Then the doorstep. His mouth "that had spent no word she needed on her in December giving her everything it had now." I see you, book. The cold on her wet nipples while he's on his knees was genuinely hot, the door banging in the wind, three hobbling steps toward a bed that's "a country away." Graceless and true.
+The heat delivered. The pointing game is genuinely hot. The finger that stops being steady, "it was not a command now and both of them knew that too," the trip all the way to her feet and back. "Bad slave" made me laugh. Him opening her like the blood orange is the one time the food-as-sex metaphor earned its keep. The rest of the cooking I skimmed, honestly. Mushrooms with "shoulders," persimmon salt. I can't keep the meals apart anymore and this one's joining the pile. The "pleasure princess" bit was a hair too cute for me, all the giggling and shimmying. But I believed it as a twenty-one-year-old who just got her man back and is drunk on her own nerve.
 
-And then he puts his head on her breasts afterward, like the night the theory got spoiled. "Those stay on." Pancakes, lumpy on purpose. Down on one knee: "I'm sorry. I missed you so much," with his voice cracking. Okay. I'm soft.
+What's bugging me: he knows he loves her. He sat sobbing over cold chicken and worked it all out for himself. And he still hasn't said it. "I missed you so much" with his voice cracking, and she's decided she has "no room for wanting anything he hadn't given." That's a truce, not an answer, and I'm watching it. Plus Brooke's "you need to choose" is hanging over Randi, and Vee's walking into that dinner Tuesday with a strange small thing to confess. 1 a.m. text: *she soaked the girlfriend's blanket and thinks it's a love token, and next she's telling Randi she wondered what she tastes like. I can't.*
 
-What I can't stop thinking about is the shoes. Those are Randi's heels. Randi's fingers were still hooked through the straps when Vee took them. Vee's nipples went tight holding them, and she filed it under "tonight" before the ache had even finished. Then she wore them for the whole thing, and he wouldn't let her take them off. Randi sent her back to him, which is loving and generous and also maybe a little bit Randi getting to be there. And Randi is now sitting with Brooke's "you need to choose." And Kayla's "don't do anything I wouldn't do." And Cassie's "Hmm," which is my favorite line in the chapter.
-
-I was dreading a fourth chapter about the unsaid word. Instead the book resolved the fight with bodies and left the word sitting, half-spoken, where only I can see it. Smart. Cruel. I'm still in.
-
----
-
-GATE 55 — Nothing Underneath
+GATE 56 — Missed a Spot
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 7
+CAPTURE: 8
+NEXT: 8
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "Which was when the light came up behind her, blue and red, wheeling across the inside of the car" (for one beat it read like a rom-com gag, and then it earned its keep).
-WHY: The book finally gave me both things together: a heroine thinking hard while she's at her filthiest, and a reunion that hurts because he tried to say it and she didn't let him. The reunion settles the immediate ache, so I'm not desperate tonight. But Randi's heels, Brooke's ultimatum and that cut-off "I l—" are all live wires, and I'll want to pick it up tomorrow.
+ROMANCE: 2
+ALMOST-STOPPED: "He dusted smoked paprika over and the steam bloomed warm and smoky, campfire-sweet" (the third paragraph of plating, when I started skimming for her again)
+WHY: A long sex chapter that was actually about something: her taste, her shame, his patience, and a blanket that belongs to somebody else. The food is wearing thin. But the kiss and the Tuesday hook have me wanting the dinner with Randi right now.

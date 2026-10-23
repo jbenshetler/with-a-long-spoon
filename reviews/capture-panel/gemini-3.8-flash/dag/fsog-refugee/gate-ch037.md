@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch037 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha efddca81bfc1 · 2026-10-01*
+*capture-dag-v2-rich · gate ch037 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9782a926aac2 · 2026-10-01*
 
-REACTION:
+REACTION
 
-Oh, this chapter just completely wrecked me in the best possible way.
+Oh, god, my chest hurts.
 
-I was carrying so much tension after the last chapter with Randi—that weird, slick, manipulative energy over pastries and bathroom stalls had me feeling almost sick for Vee. And then to walk into this chapter and have it be pure, unhurried, devoted shelter. The contrast hit like a physical wave.
+This chapter is tiny, barely a couple of pages, but it hit me right in the center. Cassie calling her a "public utility" because she's glowing like a streetlight—Cassie is such a good, grounding friend. She doesn't judge, she doesn't pry like Randi does with those sharp little velvet claws, she just leaves the door open and lets Vee spill. And what Vee spills is so heartbreakingly sweet: the baked tomatoes, the cold cloth pressed to her skin before she even finished swearing, him keeping the house warm so she doesn't have to think about being bare, the way he watches her eat like *she* is the entire show.
 
-First of all: the door opening and him lifting her clean off the floor. That whole reunion, dropping their coats where they stood, the fact that he *always* brings her over the edge first before he even thinks about taking anything for himself. That’s what I read this genre for. That exact thing. It’s not just dominance; it’s an obsession that manifests as absolute, meticulous care. The cooking, the cold wine, the salmon, the coming back to her an hour later on the couch—the ordinary domestic poetry of a man who is completely, hopelessly in love with a woman and showing it through every single sense.
+That is what I read this genre for. That total, focused, unhurried care. A man whose entire world narrows down to tending to this one woman, making her feel safe, making her feel fed. It’s what Fifty Shades promised in between the helicopters, but here it’s just warm tomatoes and a top drawer cleared out for her hairpins.
 
-And then the admission: she loves him. She whispers his real name while he’s asleep. My heart was in my throat, because on one hand, it is the most earned, beautiful feeling in the world, and on the other, I am still terrified of the secret between him and Randi that sits under this whole book like a landmine. When Vee counts all the ways he says it without saying it—"a man didn't do all of that for a girl he was only passing a season with"—I wanted to cry, because she is right. Whatever game they started, he is not just passing a season anymore. He's down in it.
+And then Cassie drops the anchor: *"You don't come home school nights."* And then: *"Do you love him."*
 
-But the ending. *The drawers.*
+The way Vee shrinks into "Maybe. I think so. It's all so fast." When we literally just watched her whisper *Peter* to his sleeping back in the dark the chapter before! She knows she loves him. But saying it out loud in the cold, fluorescent reality of a dorm room makes it real, and making it real makes it terrifying. Because it *is* fast. And the reader's dread is sitting right beside her, because we know what's underneath this foundation. We know about Randi. We know about the setup, the bench by the wall, the third game Vee doesn't even know is being played.
 
-When she saw the bare counter, my stomach dropped right alongside hers. That awful, familiar panic of a woman who has spent her whole life feeling too big, too loud, too messy, suddenly thinking she’s taken up too much space and worn out her welcome. And then she pulls that top drawer open.
+Every time Pace is this tender, this domestic, this breathtakingly good to her, I fall more in love with him, and I get more terrified of the glass shattering. She is falling with both hands open, completely defenseless, trusting him down to her bones. I need them back in a room together immediately.
 
-He didn't just tidy up. He didn't leave an exasperated sticky note or put her things in a basket on the floor. He crammed his own life into the bottom drawer—the cramped one, the inconvenient one—and gave her the top one. The easy one. The one your hand goes to first. He made a home for her mess inside his neatness. He carved out permanent, physical room for her.
-
-No words, just the quietest, most devastating act of devotion. If a man did that for me, I would lay down on the floor and weep. I don't care that there wasn't a whip or a spanking bench in this chapter; the intimacy here was completely breathtaking.
-
-***
-
-GATE 38 — Above Him
+GATE 39 — School Nights
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 1
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The quiet devotion of this chapter completely cleared out the bad taste of the brunch from before; the gesture with the bathroom drawer was one of the most tender, heart-melting moments of domestic intimacy I've ever read in romance.
+WHY: It’s a brief breather chapter, but the emotional weight of Vee trying to explain what Pace is to someone on the outside—and realizing she's in over her head—is gorgeous and aching. The romance here is absolute, earned through all the domestic care she's carrying back to her dorm. I need to see where this momentum goes next.

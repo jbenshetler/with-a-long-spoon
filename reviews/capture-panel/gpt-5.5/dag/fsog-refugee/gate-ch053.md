@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch053 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8219a10af610 · 2026-10-11*
+*capture-dag-v2-rich · gate ch053 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1e04263f57c9 · 2026-10-12*
 
-REACTION — Oh, this one got me in a very complicated place.
+REACTION —
 
-First: I needed Vee back with Randi so badly. That house with the childhood room had pressed her so flat that just seeing her cross campus to the one person who would pull her out of the hallway and upstairs made my whole body unclench. Randi sweeping the expensive Gstaad things off the bed like they were nothing because Vee was crying there? That is exactly the sort of care I believe. I felt it.
+Oh. Well. That one had me by the throat, honestly.
 
-And Randi was good for her here. Not soft in a useless way. She didn’t just say “he loves you, babe” and pat her head. She made Vee separate fear from evidence. The Sheri thing especially, because Vee had built that woman out of pure midnight panic, and I knew she had, but I also knew why she believed it. Randi naming that without humiliating her felt loving. It felt like someone taking the knife out of Vee’s own hand.
+This is exactly the kind of intensity I keep wishing these books would give me without making me feel dirty in the wrong way. Vee choosing it, building herself toward it, laughing alone over the shoes, catching herself reaching for the bra and then realizing, no, that isn’t the offering — I was grinning and nervous with her. It was so sexy because it was hers. Not something done to her, not some man ordering her into a performance. She made herself the performance. She decided. She looked in the mirror and finally saw the body she’s been apologizing for as something powerful.
 
-But then. Oh, then.
+And the stopping herself before she finished — that got me. Not just as heat, though yes, obviously, good grief. It was the emotional shape of it: she wants him to be the one. She wants to arrive still needing. That could have felt silly or manipulative in another book, but here it felt like her making a language out of the only thing she trusts will reach him.
 
-The coat plan is so hot I hate that I’m worried. Because yes, of course it works on me. The long coat, nothing under it, the borrowed black heels, Vee choosing to walk into desire instead of waiting to be summoned. That is the kind of bold heroine moment I read for. And Randi turning “slutty” into brave for her, walking her past the shame voice, made me want to cheer. That is the right direction for Vee: not being acted on, but arriving with her own body as an answer.
+The police lights nearly killed me. I was actually holding my breath. It was almost too much embarrassment-threat for me, but the chapter knew exactly what it was doing with it: not punishing her, just tightening every nerve until she’s more sure. And that coat lining mark, instead of shame, becoming proof that she means it? That is such a turn for her. That is the girl from the childhood bedroom stepping all the way out of it.
 
-Still, Randi is steering her. And I can feel how much Randi wants to steer. The advice is not neutral; it is Randi writing a scene she wants to exist, for Pace and for herself and maybe for Vee, all tangled together. The fact that Vee’s body answers the shoes before she lets herself know what it means was hot, but also I’m sitting here thinking: girl, do you know whose fantasy you are stepping into? Do you know yours from hers yet?
+Pace opening the door and starting, “Vee, I l—” made me make an actual noise. Because he was going to say it. He was finally there. And she doesn’t let him, which should frustrate me because I have been waiting for those words like oxygen, but somehow it didn’t. Because this time she isn’t begging for the word from a cold place. She is arriving with everything she has, and he answers with his whole body and no hesitation. The wall drops. That mattered more in the moment than the sentence.
 
-The kiss under the composites absolutely lit me up. Vee came back. Vee initiated. That matters so much after months of Randi being the one leaning in. I actually made a noise at “she took Randi’s face in both hands,” because that is the thing Randi has been starving for, and Vee gave it to her without being prompted, without making it a performance. It was messy gratitude and need and something else she doesn’t have a name for, which is exactly why it worked on me.
+And yes, the doorstep/couch sequence was hot as hell, but what undid me was after. His head on her breasts, the teasing line, her laugh breaking into tears, him closing the door finally, covering her, feeding her pancakes. That’s the bargain this book keeps making with me: it can go filthy and then turn around and put the tenderness right back in the room. The sex doesn’t float loose. It lands somewhere.
 
-And then Brooke. God. Brooke scared me because she is right in a way that isn’t simple. She isn’t cruel, and that makes it sharper. She sees the house, the rules, the danger, the hypocrisy, the public/private line. “You’ve got a position in this house, and you’ve got her. You need to choose.” That landed like a door closing. Not on Vee, maybe, but on the fantasy where Randi could keep calling this friendship and brunch and a little kiss and never have to pay for meaning it.
+I still need the words. I do. I am not letting Pace off forever because pancakes are not a declaration and a man on one knee saying sorry is not the whole answer. But tonight? Tonight I believed the repair. I believed she got what she came for. And him cracking open at the kitchen chair with “I missed you so much” hit me harder than a cleaner love confession might have, because it felt dragged out of the place he’s been guarding.
 
-So now I am pulled in three directions: I want Vee to go to Pace tonight and I want him to open that door and finally, finally answer her with more than hunger. I want Randi to stop hiding behind “friend.” And I am afraid the coat-and-heels plan is going to get Vee back into Pace’s arms physically before the word problem is actually solved. If he takes the gift and still can’t say it, I may throw the book across the room and then pick it up again because unfortunately I need to know.
+Also Cassie at the end with one eyebrow and “Hmm” is perfect. Bless her. She knows the entire weekend walked in wearing those shoes.
 
-GATE 54 — My Friend Randi
+GATE 55 — Nothing Underneath
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 10
+NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: “You don’t do it with words. Words are the whole war.”
-WHY: That line nearly lost me because words are exactly what Vee asked for, and I am not ready to let the book treat her body as a workaround for his fear. But the chapter knows the danger, and Vee’s kiss turning Randi inside out made the emotional stakes feel alive instead of merely strategic. I need the door scene now.
+ALMOST-STOPPED: “Which was when the light came up behind her, blue and red, wheeling across the inside of the car, and one hard whoop of the siren.”
+WHY: I almost died from secondhand panic there, but the chapter never made her small for wanting what she wanted. This was Vee choosing her own desire, Pace meeting it with hunger and care, and then the aftercare landing as real repair. I still need the actual words from him, but I am absolutely reading on.

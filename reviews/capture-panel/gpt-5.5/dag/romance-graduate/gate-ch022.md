@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a8d1d1bf63a · 2026-09-29*
+*capture-dag-v2-rich · gate ch022 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0894d4db7f65 · 2026-09-29*
 
-REACTION — Oh, this one hurt in the adult room.
+REACTION —
 
-I knew I wanted Randi and Pace in the same emotional frame again, and here it is, and it is worse and better than I expected because nobody is twirling a mustache. It’s domestic, almost marital: stew, bread, the bowl he slices her apples into, the music she likes, him pouring her glass before she comes in. And then the chapter just quietly shows me the cost of Vee’s happiness landing between the two people who arranged it. Randi is jealous. Not in a cheap catfight way, thank God. She is hungry, excluded, maybe ashamed of wanting what she helped make possible. She got Vee’s glowing confession at brunch and brought it home like a lit match.
+Oh, this one got me. This is exactly the kind of chapter that makes me forgive a book for all kinds of danger because the pleasure is so specifically built. The dress was already loaded for me because of the fitting, but seeing it finished, seeing him unable to wait, seeing her understand not just that he made it but that he made the effort disappear — yes. That is intimate in a way a lot of books try to fake with jewelry or money. He made her a body she could stand inside.
 
-The small bowl wrecked me a little. Hers is the small one. That is such an intimate fact, and then she doesn’t eat from it. She praises the food in this bright, false way, and Pace knows immediately it’s wrong because she never gives him that kind of easy social charm. I loved that. I hated that. It made their history feel real without needing a whole flashback explaining what they are.
+And Vee in the mirror. God. The “floozy” word flashing up and then not winning. That is the whole engine of her for me right now: shame still arriving on schedule, but no longer automatically getting the chair. She looks, she stays, she adjusts the dress by removing the thing that interrupts the line. I love that the turn is hers. He isn’t there coaxing her into being bare under it. She sees the underwear, thinks one safe thought, and then chooses the dangerous one. That made me ridiculously happy.
 
-And Pace. Damn it, Pace. “She chooses it, Randi. Every step of it. Or it isn’t anything.” That is the whole book’s pressure point, isn’t it? Because he believes it. I believe he believes it. And that makes the larger deception more unbearable, because his ethics are not fake inside the scene. He will wait, he will not rush Vee, he wants the yes to be real. But he is still standing inside a lie he helped build. The contradiction is the heat source and the rot both.
+Also: this was hot. Not polished-hot. Not “they moved beautifully from room to room like a perfume ad” hot. Hot because it got funny and awkward and human without losing the charge. The dress is in danger, his body is inconveniently real, she says the line about “covered in a lot of me,” he reacts like a man whose brain has shorted, and suddenly I like them both more. That finger-cleaning beat, though. I had to sit up a little. That was filthy in the grown-up, eye-contact way, and then they still remember the dress. Bless.
 
-The sex with Randi was not sexy to me exactly, but it was charged as hell. It felt like she used him to touch the part of the story she cannot touch yet: Vee, Vee’s weekend, Vee’s happiness, Vee choosing him. The missing “tell me” was brutal. That one phrase told me they have their own ritual, their own erotic language, and tonight she withholds it. She takes him, but she does not let him narrate or enter the shared place. That is colder than if she’d slapped him.
+The emotional thing under it is that Pace’s care still feels like architecture, but this chapter let Vee run around inside it with a match. He built the scene, yes: mirror, pedestal, dress in the light. But she takes over. She comes to him. She strips off the underwear. She laughs at him. She keeps the dress safe. She imagines walking into that induction and letting the room look. That last fantasy is not even about Pace exactly; it is about being seen and not shrinking. That is the part that makes the heat mean something.
 
-And the ending. Him saving her untouched bowl “for her” because he still does not understand what happened. That is the kind of tenderness that makes me want to shake him. He can read a body on a riser with a tape measure and a pencil, but Randi’s pain is sitting across from him with a skin forming on the sauce and he can’t parse it. I’m not mad at the chapter for leaving Vee offstage. This was necessary. The room behind the room just opened.
+I am still tense because the previous chapter with Randi is sitting there like a bruise. Pace sleeping after giving Vee this perfect afternoon, while Randi is somewhere with her untouched bowl and her jealousy or hunger or whatever that was, makes the happiness feel edged. But I don’t want to stop. The induction is now a loaded weapon. I want that room. I want Randi to see the dress. I want Cassie to see Vee in it. I want to know whether Vee can survive being admired.
 
-GATE 23 — Portion
+GATE 24 — Peekaboo
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 2
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This gave me exactly the complication I was waiting for: Randi and Pace as real lovers with real damage, not just conspirators arranging Vee like a centerpiece. It made the triangle emotionally dangerous instead of merely kinky, and now I need to see what Randi does with that jealousy and whether Pace can keep pretending patience is the same thing as innocence.
+WHY: This chapter gave me both halves: the dress as tenderness, and the sex as messy, funny, explicit appetite. Vee’s mirror moment felt like a real turn in her relationship to her own body, not just another escalation with Pace, and now I badly want the induction scene because that dress has become plot, sex, and selfhood all at once.

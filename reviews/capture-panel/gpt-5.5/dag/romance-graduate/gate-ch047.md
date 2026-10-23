@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch047 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-07*
+*capture-dag-v2-rich · gate ch047 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d6bbb290a65b · 2026-10-07*
 
 REACTION —
 
-Oh, Vee. This one hurt in that ugly familiar way where the fight you pick is not the fight you mean, and then you hate yourself for having picked it, and then the other person is decent enough that you almost hate them more for not giving you a clean villain.
+Oh, this hurt in exactly the way the last few chapters have been teaching me to dread.
 
-The Chili’s thing got me because I knew before she did that the restaurant was wrong for him, not her, but I also completely understood why she couldn’t hear it yet. She is so scared that all of this only exists inside his house, inside his bed, inside the ritual and privacy and food and trees, that she needs the dumb fluorescent proof of being chosen in public. And then the proof comes back muddy: he comes with her, he says yes, he tries, but the room takes him apart. His attention, the thing she lives on, visibly fails in public for reasons that are not about her, and of course she translates it into not wanting her. Because what else is the terrified part of her supposed to do?
+Not dramatic hurt. Worse. The quiet kind where nothing “happens” except the thing finally stops working. The shirt has been such a precious object — almost embarrassingly intimate, a little ritual of need and reassurance, him wearing it all weekend so she can carry him back with her. And now the book turns it in her hands and says: yes, but it is still only cloth. It smells like him, but it cannot answer her.
 
-And I love that he explains it without making it her job to soothe him. “I’m listening now” really did land. It’s not the word, and the book knows it is not the word, but it’s such a Pace answer: concrete, exact, completely sincere, and still somehow one room to the left of what she needs. That is making me crazy in the best/worst way. He keeps giving her proof in the language he speaks, and she keeps needing a language he either won’t speak or doesn’t understand he’s being asked to speak.
+That got me. Because this is the first time one of Pace’s concrete tendernesses fails her. Usually his care has been so specific it feels like language: the drawer, the scrunchies, food, heat, stopping, listening. He does love through acts so well that I’ve been letting myself half-forgive the missing words. Vee has too. But here the act can’t bear the weight anymore. The shirt can hold evidence, not certainty. It can hold him as a body, not him as a claim.
 
-The sex after the fight was hot, yes, very, because the emotional stakes are all tangled up in it. Her wanting him to lose control, wanting evidence that she can undo him, and then getting it, and then realizing even that isn’t the name. God. That’s the thing. She can make him urgent. She can make him shake. She can be fed, touched, heard, held, given a drawer and a shirt and a place in his bed. But she cannot point to any of it in daylight and say, “This is mine.” That is brutal.
+And God, Vee taking off her own shirt first so his can be against her bare skin. That is erotic and devastating and lonely all at once. It’s not sexy exactly, but it has charge because she is still trying to solve an emotional problem with physical closeness. That’s been the whole spell of this book, and now the spell is fraying. The same appetite that woke her up is leaving her awake at night.
 
-And the “forgiven” business made me wince, because that is exactly how she keeps surviving these little internal collapses: she finds a shape that lets her move toward him. She decides the problem was solved because he explained the restaurant. But the deeper problem is still under the rug, exactly. The chapter title is mean in a good way. She has not forgiven him because she has not named the real wound. She has just tucked it away so she can get back to the warmth.
+The line that really got me was the heat being her own, given back. Brutal. Because yes. She’s been treating his smell, his shirt, his bed, his house, his food as proof of him, but what if part of the warmth she’s been living on is her own wanting reflected back at her? That fear has been circling since the pool. Here it lands naked in the room.
 
-I’m also newly scared because the secret triangle is not even the active problem in this chapter, and that somehow makes it worse. There is already enough here to hurt her badly without Randi/Pace being revealed. The silence around love has its own pressure now. Add “they chose her together” to this, and I genuinely do not know how she doesn’t feel made into an experiment, even if every individual touch has been tender and consensual and real.
+I also loved, in a miserable way, that Cassie is asleep underneath her. Cassie is right there, the one sane person, and Vee is still alone because this particular loneliness is too private to climb down the bunk with. She can’t text Pace. She can’t ask Cassie. She can’t say love. She can’t even wear the shirt by the end. So she just lies there bare in the cold, which feels like the first honest thing she’s done about this feeling: no substitute, no prop, no warmth borrowed from ritual. Just the ache itself.
 
-I am still in. Absolutely. But I’m not floating anymore. I’m tense. The book has moved from appetite into consequence, and I can feel Vee starting to notice the bill.
+I’m still absolutely continuing, but I am no longer floating on the tenderness. I am tense now. The book has moved from “when will the secret blow up?” to “what is Pace actually capable of giving her even before the secret?” And that is much scarier, because the answer might not be villainy. It might be limitation.
 
-GATE 48 — Under the Rug
+GATE 49 — Bare
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
+HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "If we're just sex, I'd like to know."
-WHY: This chapter caught me hard because the erotic charge and the emotional ache were the same engine. Pace’s care still works on me, but Vee needing a name for what they are is now louder than all the tenderness, and I need to see whether he can meet her anywhere outside the bedroom.
+ALMOST-STOPPED: "He wasn't in it."
+WHY: This was short, cold, and mean in the precise way it needed to be: the beloved shirt becoming only a shirt. I’m very pulled, not because it gave me pleasure, but because it stripped away one of the book’s sweetest comforts and left Vee with the question Pace still has not answered.

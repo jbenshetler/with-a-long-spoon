@@ -1,28 +1,30 @@
-*capture-dag-v2-rich · gate ch029 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha c86197f57ec7 · 2026-10-10*
+*capture-dag-v2-rich · gate ch029 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a45f79a49a6c · 2026-10-10*
 
-**REACTION**
+## REACTION
 
-Oh no. Oh, *no*.
+This one was short, but it hit me twice, about a page apart.
 
-My stomach was in a knot from the first line. I knew that engine the second he did: low, expensive, slowing for the cut. Then the bag goes on the chair by the door, and I finally know what that chair is for.
+The first hit was him talking about her. Sheri says "Vee," and he's off. He tells her about Vee running her thumb down the walnut joint he spent a weekend on, and about her pulling a math book off his shelf and not putting it back, "like it had burned her." He doesn't hear himself. Sheri says "Listen to you," and "He didn't know what there was to listen to" just about finished me. He's gone on her and he's the last to know. That's the man I've been following since the sun porch. I also needed Sheri's report on the bar more than I realized. Vee sat alone with one drink, danced with nobody and left alone. Someone watched her that night when he couldn't, and now he knows that she was okay and that she was loyal to him. I let out a breath for her.
 
-The scene I've dreaded since chapter 11 just happened, only with the roles swapped. This time Pace isn't the one spending Vee. Randi is. She spends that whole morning in her room, the morning that happened *yesterday* on my page. The bra, Randi circling her slowly, the hand under the skirt, the thumb behind the knee, "she made a sound and hoped I didn't hear it." Randi tells all of it into his ear while she rides him, clenching on the words, and he gets harder for it. The book writes his excitement plainly: "the taking was the part that fired him." I read that line and set the book face-down on my chest for a minute.
+The second hit was "Not yet."
 
-What makes it worse is that he's still *decent* in the narrow way he always is. "Those were his, and that was Vee's." He won't repeat what Vee said at the bar. He guards Vee's words like he guarded her face on the riser, and then he lies there while Randi hands him Vee's *body*, and he drives up into her. Vee had no idea she was in that room. She was playing dress-up with her best friend. She tipped and a hand caught her, and that's now foreplay for two people she trusts. I keep thinking of her in the mirror, liking herself for once, with Randi behind her "watching her like her own good work." I thought that line was sweet. Now it makes my skin crawl.
+"She know about the redhead?" "She knows. She likes her." *Likes* her. Randi is in love with Vee and lying to both of them, and he hands Sheri "likes her" like it's the weather. Then "And the redhead?" gets "Not yet." Those two words carry a plan. It isn't "no," and it isn't "I don't know how to tell her." It's a timeline, and Vee has never been told it exists. It's the staircase again, "from where she is to us." The night before Vee walks up to his door in Randi's shoes, he's describing her to a friend as someone who doesn't know *yet*.
 
-Then there are the lies. Randi lies to *him* now, not just to Vee. "She cried." She didn't. She laughed so hard she did Edna Mode. "I wanted to keep her." And she's playing them both with the same line: "Give her a day." She told Vee not to go today, and now she's telling Pace to wait a day, so she gets her Friday night in between. The book let him catch it: "as if the day were his to give, and he set that down beside the rest." He sets it down and doesn't pick it up. He's so blind about her.
+Then Sheri says "Two of them at once. How do you sleep? That must be better than your dreams," and he doesn't answer. To be fair to the book, Sheri is the one winking, not the narration. She's running the arithmetic "anybody could run," and his silence could be discomfort as easily as agreement. I want it to be discomfort. I can't tell, and I think the book wants it that way. "But I bet it's worth it." Worth it for whom, Sheri? You watched Vee nurse one drink alone and glare at the floor. You know what she looks like when she's hurt.
 
-The bench. So it's under the top of that table against the wall. Facedown, flushed, "please." I've waited all book for the bench, and now I know what it is and whose it already is, and that Randi stood with her hand flat on it, looking at it like it wasn't a table. I think she was picturing Vee on it. I think he is too, now.
+I like Sheri a lot. She's small and fierce, faster on the climbs and never lets him forget it, with the bleached ponytail and the temper that's "worth everything" from the other side. "She couldn't take your heat" was sweet and a little protective. I think she's the bartender who set Vee straight, and if so I love her more.
 
-Is the book winking? I honestly can't tell this time, and that's what frightens me. It's in his POV, and his POV thinks this is beautiful. The thumbnail under the glass rim and "the day was in it" tell me the author knows. But for most of that scene I was being asked to find it hot, and part of me did, and I hated that part. Randi's voice going "somewhere without her" is the one true thing in the chapter. She's in love with Vee and can only say it through his body. That's tragic. It's also a woman narrating another woman's unconsenting body for a man's pleasure, and I left a whole shelf over less.
+The gap: it's Saturday morning. He and Vee haven't been alone together since the fire, and tonight is the door. This chapter kept me out of the room on purpose, and it worked. I'm wound tight. I needed to hear that he's lit up about her, and I got it. In the same breath I got the reason I'm scared of tonight.
 
-It's been three chapters since he and Vee were alone and kind to each other. Tomorrow she walks in wearing Randi's shoes and Randi's scarf, tied the way Randi taught her, scripted by the woman who just came on his cock talking about her knees. I have to see that door. I'm not sure I'll like who opens it.
+1 a.m. text: *he talks about her like a boy with a crush and then says "not yet" like it's a schedule. I'm reading the next one RIGHT NOW.*
 
-GATE 30 — Space
+---
+
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-HEAT: 2
-ROMANCE: 0
-ALMOST-STOPPED: "She was giving him a thing and taking a thing at the same time, and the taking was the part that fired him."
-WHY: This is the betrayal I said I'd most likely close the book over. Only the small tells kept me in: the lies he half-notices, "as if the day were his to give." They suggest the book sees what he can't. I'm going on for Vee at his door tomorrow, and if he takes what Randi gave him tonight and uses any of it on her, I'm done.
+CAPTURE: 6
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: "And the redhead?" / "Not yet."
+WHY: It's a small, quiet chapter, but his not hearing how he sounds about her is real tenderness, and I believe it. "Not yet" made me sure there's a plan Vee has never been shown. With Saturday night next, I can't put the book down. I need to see which man opens that door.

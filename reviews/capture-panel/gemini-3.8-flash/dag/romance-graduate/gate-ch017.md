@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch017 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch017 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha bca2ed17019a · 2026-10-01*
 
 REACTION
 
-Holy shit. Holy *shit*. My hands are actually shaking a little bit typing this out. I have read a thousand dirty books, I have read every variation of billionaire-in-a-penthouse ripping off lace panties you could name, and I don't think I have *ever* read a scene that made my stomach drop and my face burn the way this measuring tape scene just did. It is a full-blown masterclass in tension. The sheer psychological cruelty of how kind he is being to her—it’s breathtaking.
+Oh, this one made me ache.
 
-That moment where she’s standing on the box, soaked through her panties, paralyzed by the generational, sickening mother-shame of being "too much" and leaking and wanting, and she screws her eyes shut waiting to be mocked or politely ignored? And she forces herself to open them, and he is just *looking up at her, smiling like he was given a present*? I felt that in my marrow. It’s the exact medicine Vee has been starving for her entire life, and it is being fed to her by a man who literally set the thermostat three hours early so her bare skin wouldn't get goosebumps.
+This chapter is the mirror image of chapter 13, but the emotional stakes have climbed so steeply that it almost hurts to read. In chapter 13, she came back from the mountain in his flannel, battered and alive. Here, she comes back fundamentally altered. The sheer genius of how this book handles Vee’s debriefs with Cassie versus her debriefs with Randi is staggering. With Randi at the smoothie shop, it was performative, pressurized, like being put on another high shelf. With Cassie, it’s just the two of them on a dorm bed with a highlighter and a radiator clicking, and Vee gets to unpack the miracle of being treated like a human being instead of a problem.
 
-And the restraint! That’s the part that is completely ruining me. He doesn't pounce. He doesn't shove her down on the table. The "keep still" after he pricks her and kisses the bead of blood off her ribs? God. He chose the dress. He chose the ritual. He is torturing her with pure, bespoke, courtly attentiveness. He’s taking her deep-seated horror of her own appetite and turning it into an offering, making her hold still while he literally crafts armor out of silk for her.
+The revelation about the shirt having no tag—God, of *course* he made it. He hand-tailored the flannel she’s been sleeping in like a second skin all week. And the realization about the thermostat: *"He turned the heat up before I got there. So I wouldn't be cold."* That hit me straight in the chest. That isn’t just seduction; to Vee, who has spent her whole life managing her "too much" body and apologizing for taking up space, that is an act of almost sacred care. It’s what makes the manipulation so profoundly unsettling—because it *is* real care. Pace is a terrifyingly brilliant architect, but he isn't faking the tenderness.
 
-And the worst, most delicious part of the whole thing is that I know *why* he's doing it. I know about the bench under the tabletop in the other room. I know Randi is out there somewhere, unraveling because she couldn't take being seen, while Vee is up on this pedestal blooming under the exact same spotlight. Vee thinks she's discovered her own power—pressing her breast to his cheek, teasing him, making him flush—and she *has*, in a way, but she’s also stepping so deep into his architecture that she’s never going to find her way out. When this trap snaps shut, it's going to destroy her, and it's going to destroy me right along with her. Give me the next chapter immediately.
+And then the shift at the end! Cassie asking if he’s gay because a red-blooded man had her half-naked on a riser and chose a tape measure over his hands—Cassie asking the exact question any normal college roommate would ask. And Vee’s deadpan, wicked confession: *"I was grinding on him."* I laughed out loud. The sheer joy of Vee discovering her own sexual agency, leaning back against him, pressing her breast to his cheek, completely intoxicated by the fact that she can rattle this fortress of a man.
 
-GATE 17 — A Round
+It’s hilarious, it’s sweet, it’s so grounded—and it makes the trap twenty times more terrifying. Because Vee truly believes she is the predator here. She thinks she’s the one testing his limits, having the time of her life being "bad," entirely unaware that the stage, the lighting, the temperature, and the script were built for her weeks ago.
+
+GATE 18 — Turned Up
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension was so thick I could barely breathe. The way this book weaponizes patience, gentleness, and shame into pure erotic charge is unbelievable. I am completely locked in.
+WHY: The dorm-room banter with Cassie grounds the whole book in reality, balancing the almost unbearable psychological heat of the measuring scene with sheer, hilarious warmth. I’m giving it a 9 for NEXT because the dress isn't finished, the induction is coming, and I need to see what happens when Pace hands her the finished silk.

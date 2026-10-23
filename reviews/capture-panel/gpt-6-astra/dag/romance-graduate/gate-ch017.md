@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch017 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-10*
+*capture-dag-v2-rich · gate ch017 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha cbd9e3cb7358 · 2026-10-10*
 
 REACTION
 
-Oh, the “pre-aroused” joke. There she is. Half-naked, terrified, and still able to make this man lose his train of thought. That did more for me than another demonstration of his infinite preparedness could have. And then she makes him blush. I have been waiting for her to discover that she can actually get to him, that she isn’t just standing there receiving his astonishing competence.
+“I was on a box.” Twice. That got me. I like Vee like this: unable to sit down, mildly ridiculous, discovering she has outrageous things to tell her roommate. And admitting *she* was grinding on *him* is lovely. She gets to be wicked about something that had her nearly crying with shame an hour ago. I’m happy for her. Painfully happy, given what she doesn’t know.
 
-This was hot. The stepping away to write the numbers down was almost offensively effective on me. Having to stand there with all that sensation and wait for him to come back—yes. And the change from trying desperately to conceal her wanting to deliberately putting her breast against his cheek felt like something I’d been waiting a long time to watch her do. “Oops. Sorry.” Absolutely shameless little liar. I was delighted.
+But my first feeling was: we’re back in the dorm telling Cassie again? I have been here after dinner and after the hike, and I’d just spent a whole long afternoon inside that fitting. I don’t need the silk, the shirt, the thermostat, and his considerate gaze handed back to me for another round of appreciation. By the time Cassie helped establish that he had effectively asked permission, I was getting restless. I saw the encounter. Let me keep my own mixed feelings about it.
 
-But I had a real hitch at “The bra too.” He told her she’d be measured in what she would wear underneath the dress. Now she’s already undressed and the requirement changes. I don’t know enough about sewing to decide what he needs, but I know what he told her, and I wanted a fresh question there. Especially with her thinking the room no longer permitted her not to know. The same goes for his hands on her ass before the silk gets there. I’m attracted to what’s happening and simultaneously thinking: you are getting quite a lot of mileage out of making a dress, sir.
+The gay joke made me wince. A man sews and doesn’t immediately have sex with you, so we’re doing this? Cassie usually feels more observant than that. The pillow fight and Vee’s confession brought me back, but I also had a little *wait, when did that happen?* at the very definite erection against her ass. I remember her leaning into him and deliberately pressing her breast to his cheek. Apparently there was another fairly significant bit I didn’t get to experience with her.
 
-And that early thought about him walking past Randi without looking. Ouch. Vee is using their lie as evidence that she’s desirable. That got right under my ribs. It makes his smile at the end more complicated, because I believe he’s delighted by her. I believe she feels something loosen that has hurt her for years. I also know she’s standing there crediting him with a choice he never made in the way she imagines.
+What I do want to keep is “Like I was supposed to be there.” That feels different from being grateful he tolerated looking at her. And I’m relieved Cassie is still someone Vee can be this silly and open with. There’s love in this room that nobody had to arrange.
 
-The dread over the satin went on a little longer than I needed. I was already with her; after a while I wanted to reach into the room and interrupt the spiraling. And once she straightened up under his smile, I understood. The final explanations kept arriving after I’d already felt it. Let me keep the blush and the almost-laugh and her feet coming back down onto the wood.
+I’m continuing, but I’m ready to leave the room. I want Randi after that awful “I want us,” or Vee actually reaching for Pace again. I’ve had the scene and the happy conversation afterward. Please let the next thing happen.
 
-Still, I finished this wanting him to put the bloody pins down. Affectionately. Mostly. The dress matters, and his finishing it matters, but now I want to hear what she asks for when she no longer has to pretend any of this is incidental.
-
-GATE 17 — A Round
+GATE 18 — Turned Up
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: Her making him blush gave me the mutual desire I’ve been hungry for, and the shame turning into deliberate teasing really landed. I’m very ready for her to ask for more—and increasingly uneasy about how much trust he’s receiving under false pretenses.
+CAPTURE: 6
+NEXT: 7
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: “It was like his eyes asked, *May I look.*”
+WHY: I started feeling coached through an encounter I’d already felt for myself. Vee’s laughter and ownership of her wanting kept me here, but another chapter spent admiring the same afternoon would wear out my patience.

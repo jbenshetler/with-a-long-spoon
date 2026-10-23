@@ -1,24 +1,34 @@
-*capture-dag-v2-rich · gate ch068 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ec95866b43d5 · 2026-10-11*
+*capture-dag-v2-rich · gate ch068 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c9f460e100d7 · 2026-10-11*
 
-REACTION — Oh my god. This chapter got me by the throat and then had the nerve to be tender about it.
+REACTION —
 
-This is exactly why I’m still here. Because yes, it’s filthy, but it’s not just “and then his mouth, and then his fingers, and then insert standard Kindle scene here.” It’s her whole self being made visible to herself. The waxing chapter was all exposure and wrong hands and endurance, and this one answers it with the right hands, the right mouth, the right seeing. I felt the relief of that almost physically. Like, yes, please, someone take the thing she was ashamed of and make it art without making it metaphorical enough to hide behind.
+Oh. Oh no. Oh *finally*, but also oh no.
 
-The painting. THE PAINTING. I should have rolled my eyes at fruit body paint. In another book I absolutely would have. But here? No, I was gone. Because it’s so him: precise, patient, odd, sensual, slightly insane in a way that feels completely private to them. The walnuts and parsley and grapes and cantaloupe made me laugh, but I was also holding my breath, because every little ritual was teaching her stillness and surrender and being looked at. And then the “gesso” made me make an actual sound. Sir. You cannot say “gooey coat” in that calm classroom voice while doing that and expect me to survive.
+This chapter had me by the throat from the second Vee said yes before she even knew what party. That little too-fast yes was everything. She is already gone. She just doesn’t know what name to put on gone, and the book keeps letting her body know first, which is exactly why I’m still here and still feral about it.
 
-And Vee asking him to take a picture. That landed harder than almost anything. Not because it was daring in the obvious way, but because there was no shame. She looks, and the pride comes. That is the thing I keep wanting for her: not just to be desired, but to believe the evidence of herself. “Abundance the whole point” is absolutely the sentence of this chapter for me. Her breasts, her wetness, her hips, all the too-muchness she’s been taught to manage and apologize for, turned into the reason the whole image works. I’m a puddle.
+The clothes did so much to me. Randi handing her that skirt like it was nothing, like of course Vee can wear her tiny iridescent thing into a room full of sorority people, and Vee accepting because being chosen by Randi feels better than being sensible. Cassie clocking the whole problem in three seconds and then letting Vee walk into it anyway because what else can you do with a woman determined to learn something the hard way. “Tonight I’m Randi’s date” and Cassie’s eyebrow. Cassie, my beloved, silently watching the train acquire speed.
 
-The heat was extremely high, but what wrecked me was how emotional the heat stayed. Pace not asking for the photo. Not taking ownership of the image he made. That matters. He gives it back to her. This man still has a verbal debt, don’t think I forgot, but his body keeps making arguments his mouth is too cowardly or wounded to make. And then he sleeps under her arm like a felled tree after having turned her into a Renaissance fruit scandal. Fine. Fine, I love him again.
+And Randi in the aqua dress. I understood Vee staring. I stared. The shoulders, the braid, the berry mouth, the jewelry, that locked-in polished version of her where nothing is soft except what she chooses to make soft. Vee’s attraction has been circling Randi for chapters, but this is the chapter where the book stops letting her call it admiration. She is looking at Randi like a lover, and the whole “I’m her date” giddiness is so sweet and so dangerous because Randi knows exactly what she is doing and also maybe does not know how much she is doing to herself.
 
-But Randi. Oh, Randi is sitting there at the end of the bed even when she is not in the room. Vee saying she won’t tell her is basically a gong. She is absolutely going to tell her, or almost tell her, or make the not-telling visible enough to count. And the fact that Vee can’t even imagine Randi’s voice over the picture because it goes somewhere she “couldn’t follow”? Baby, that is because you know exactly where it goes and you are not ready to look.
+The bracelet detail made my stomach drop in the quietest way. Love, too small to remove, needing tools. That is not casual. That is a whole metaphor walking around on Randi’s wrist, and Vee just laughs and tucks it away as glamour because she cannot yet read the warning label on anything Randi gives her.
 
-Also: the chapter title, “Still Life.” I mean. A painted body, yes, but also Vee trying to hold still, trying to become an object under attention, and discovering she is not an object at all. She is alive all over. This was lush and weird and explicit and emotionally exact. I would have read the next chapter even if it were just Randi looking at a skirt for ten pages, because the fuse at the end of this one is lit.
+The party itself felt so alive. The punch with expensive Chambord hidden in a trash-can setup is perfect Brooke, and Brooke saying “I chose” / “I can see” was a little blade. Brooke knows. Brooke has always known more than Vee can afford for anyone to know. And Randi saying “You. As my date.” God. She wants the claim without the consequence. She wants to say it in a room where it can still be passed off as social, playful, girls being girls.
 
-GATE 69 — Still Life
+Then the dance. I was already tense from the skirt climbing because the chapter made me feel the exact arithmetic of exposure: how much is funny, how much is too much, how much is suddenly not yours anymore. And Randi using that moment, catching Vee before she collapses into shame and turning it into performance, is so Randi it hurts. It’s rescue and manipulation and seduction braided together. “Make him wish he were me” is such a lie of a container for what happens next.
+
+Because the kiss. Jesus.
+
+That pause before their mouths touch was obscene in the best way. More erotic than half the explicit scenes in lesser books. The held inch, Randi’s breath, Vee finally letting herself look at her face from lover-distance, the smell of her arriving like a key. I felt Vee’s whole self tilt. And when it became not the goodbye kiss, not the bit, not the show, but Randi’s tongue and Vee opening and wanting her hands under the skirt — there it is. There is no pretending anymore, except of course Randi immediately pretends.
+
+That last move from Randi made me want to shake her. “I almost believed it.” Girl. GIRL. You did believe it because it was true, and you are choosing the escape hatch while Vee is standing there wet and stunned and newly rearranged. It is crueler because it is so smooth. She hands Vee the script, and Vee takes it because otherwise she has to stand in the middle of a party and say, no, that was real for me. And she can’t. Not yet.
+
+I’m not stopping. Absolutely not. This is the door finally opening, and the fact that Randi immediately tries to shut it and call it theater makes me want the next chapter badly. I am worried for Vee, though. Pace is the open want; Randi is the hidden one, and hidden wants rot if no one admits they’re fruit.
+
+GATE 70 — On Her Floor
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was peak heat with actual psychological payoff, not a garnish of feelings sprinkled over sex. Vee seeing herself without shame, Pace making abundance sacred and then leaving the image in her hands, and Randi hovering in the unsaid afterward — yes, I’m already turning the page.
+WHY: This was the Randi chapter I’ve been waiting for: public, plausible, devastating, and then instantly denied. The kiss landed as a real turn in the bond, and Randi’s “almost believed it” made me furious in exactly the way that makes my thumb keep moving.

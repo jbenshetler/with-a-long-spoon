@@ -1,16 +1,24 @@
-*capture-dag-v2-rich · gate ch013 · gpt-5.5 · romance-graduate · prompt-sha 90002e3b9c3d · prose-sha 60685a587d38 · 2026-09-27*
+*capture-dag-v2-rich · gate ch013 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f069f89a5632 · 2026-10-11*
 
-REACTION — Oh, I loved this little exhale. After the rain-truck scene, I needed someone sane in the room, and Cassie being sane without flattening the magic is exactly why I keep trusting her. She clocks the flannel instantly, of course she does, but she doesn't sneer, doesn't panic, doesn't turn Vee's shining thing into a lecture. She lets Vee tell it. That matters.
+REACTION —
 
-And Vee. God. The way she says “And then we ate” like it’s sex is so her now, and I’m completely bought in. The food, the body, the being taught without being shamed — it’s all braided together. She sounds changed but not erased. She’s not just mooning over a man; she is coming home with proof that her body can climb a mountain, get hungry, be seen, be cared for, and want. That’s potent.
+Oh, that one got me sideways.
 
-The chapter is tiny, which I noticed hard. Like, I turned the page and went, wait, that’s it? But it doesn’t feel lazy to me here. It feels like a held breath after the big scene. It lets the truck scene land through Cassie’s eyes, and it quietly reassures me that Vee still has a witness outside Pace and Randi’s orbit. Cassie saying “Keep the shirt” did something to me. It’s permission, but clean permission. Not Randi’s glittering permission that always has a hook in it. Cassie’s is just: yes, have your want, but for God’s sake get real boots.
+I knew Randi was less in control than she thought, but I didn’t expect to feel Pace lonely. That is rude of the book, honestly. I had him filed as the beautiful problem with the vocabulary and the hands and the scary patience, and now here he is standing in his own doorway after being used for exactly the thing he helped build, realizing she didn’t want to stay. That landed. Not as punishment, not melodrama. Just: the bed is still warm, the house is warm, he is hungry, and she is gone.
 
-I am still worried. Maybe more worried, honestly, because Cassie being moved by the story means Pace’s care is persuasive even to my anchor. He really did do the beautiful thing. He really did stand in the rain. The danger is that the beautiful thing is true.
+And Randi. God. She comes in like weather, like she cannot bear one second between herself and the report, except she doesn’t want the report. She wants to be fed Vee in pieces. Scent, hair, chlorine, stomach. I felt the heat of that, absolutely, because the chapter is shameless in the best way — she is riding him and asking him to tell her about another woman, and it is filthy and precise and emotionally worse than if she’d said Vee’s name like a crush. But the thing that really scraped was Pace not giving her the truck. He keeps that. He gives her the parts that don’t betray Vee’s chosen moment. I noticed. I cared.
 
-GATE 13 — Rye
+“I want us” is such a dangerous little sentence. On the surface it is hot, yes, and it is. But it also sounds like Randi trying to turn a want she cannot bear into a structure she can survive. Not “I want her.” Not “I want you.” Us. A container. A loophole. A spell. And then she leaves before aftercare can make it real, which tells me she knows exactly how much reality is already leaking in.
+
+The sex worked for me because it wasn’t interchangeable. It had an emotional engine. It wasn’t bodies doing the expected chapter-fourteen thing; it was Randi trying to metabolize Vee through Pace, Pace trying to understand the tremor under her hunger, and both of them using each other beautifully and badly. I was turned on, yes, but also tense in the throat. That’s the combination I bought the book for.
+
+And now I’m very awake about Pace. He can miss Randi. He can be hurt. He can be hungry after, literally and not. That does not absolve him of the setup, but it makes him less like an elegant machine. The triangle is starting to feel less like two people leading one girl somewhere and more like three hungers finding the same room from different doors. That is exactly the kind of mess I will keep reading for.
+
+GATE 14 — Swim Lanes
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-ALMOST-STOPPED: "Borrow real boots next time."
-WHY: I almost stopped there only because the chapter ended so abruptly that I felt the page drop out from under me. But emotionally it worked: Cassie kept the book grounded, Vee got to glow without being made foolish, and I absolutely want the next charged move now.
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: This was hot in the way I actually want: explicit, charged, and full of consequence. Randi’s desire for Vee through Pace is getting more dangerous and more undeniable, and Pace being left alone afterward made the whole arrangement suddenly feel breakable.

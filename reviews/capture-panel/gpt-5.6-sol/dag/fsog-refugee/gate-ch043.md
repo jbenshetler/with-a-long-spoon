@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a03ea01d3f8f · 2026-10-07*
+*capture-dag-v2-rich · gate ch043 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a3af5d5e997c · 2026-10-07*
 
-Oh, that hurts. Vee sees one thing Randi did not choose to show her, understands almost immediately that it is private and painful, and protects it. No interrogation, no clever little question designed to draw out the next confession, no using Randi’s face to tell her what she must be feeling. She gives her work. She gives her ordinary decisions. She gives her a way to recover without being watched recovering. That is such clean, instinctive care—and the contrast with what Randi has been doing to Vee is brutal.
+REACTION — Oh, the shirt got me. Completely. Not because sleeping in something that smells like him is new territory, but because she brings it back and asks him to make it smell like him again—and he understands the whole confession inside that request. He does not tease her, make her say how badly she missed him, or enjoy her embarrassment. He just puts the absurd second shirt on immediately. “All weekend.” That is exactly the tenderness I keep coming here for: he takes her need seriously without making her feel needy.
 
-Because Vee thinks the kindest thing a friend can do is not make someone carry a painful secret in front of anyone. Meanwhile Randi has been carrying Vee’s intimate disclosures straight into Pace’s house and into their bed. Vee saw the name by accident and immediately made herself safe to Randi. Randi and Pace chose Vee deliberately and have made her ignorance useful. I want to shake both of them with this chapter in my hand.
+And I felt the five nights. I felt her wanting him to object when she said she needed time for school, too, even though I was fiercely glad he didn’t. That unreasonable little wish is painfully recognizable: she needed his respectful answer, but some part of her also wanted evidence that losing those nights cost him. Instead he gave her the much better thing—no punishment, no chill, no emotional invoice—and waited. It is deeply sexy that she can step away and find the door still open. It is also a little frightening how thoroughly her body and her idea of home have relocated to him. Five nights apart should not feel like deprivation this early, and she is trying to keep up with school while “burning her nights down to the wick.” I don’t think the book is presenting that entirely uncritically; Vee herself knows she had to pull back. Still, she lasted five nights and came racing back.
 
-And still, damn it, I ache for Randi. That “Cheating bastards” is the sound of her world changing before she has time to arrange her face. She wasn’t defending an abstract system; she was defending her father. She believed him. Whatever else Randi is doing, that wound is real, and Vee’s response to it is so tender that I understand all over again why Randi wants her. Not because Vee is beautiful or deliciously flustered or useful to their fantasy. Because she notices a person leaving herself and quietly builds her a path back.
+The reunion was hot because it was so plainly hers. She arrives ravenous, drags him down the hall by his shirt, fights her jeans, throws her underwear, and lets her own unguarded sound announce exactly how much she has missed him. He slows her without denying her urgency. That balance continues to undo me: he can physically stop her with one hand, but the control never erases where she is trying to go. Even the ridiculous white socks made it better because she is not performing a polished seduction. She is laughing, hopping, losing clothes, and burning for this particular man in this particular house.
 
-Cassie’s presence makes it worse in exactly the right way emotionally: her father was laid off, Randi’s father apparently took the money and cut people anyway, and Vee is sitting between the two of them protecting Randi from the full collision. I don’t blame Vee. I’m not even sure she should have exposed Randi there. But Randi’s family secret is tied directly to harm done to people like Cassie’s father, so Vee’s kindness cannot make the underlying thing small. That point is going to stay there.
+The pizza did something quieter and nearly as intimate. I love that she can watch his attention settle somewhere other than on her and not feel abandoned by it. She is learning his care as a quality of the man, not merely a show he puts on to enchant her. But the line about not knowing whether she or the dough received more attention also brushed that old doubt in me: is she finally seeing Pace clearly, or making every feature of him proof that she belongs here? I believe his care. I also know the enormous withheld truth is sitting underneath every domestic pleasure, and the safer this house becomes, the worse that truth will be.
 
-This was not a sexy chapter at all, but it made Vee more lovable to me than another naked walk could have. She knows how to hold information without turning possession of it into power. God, I need Pace and Randi to learn from the woman they think they are educating.
+That is the ache now. The drawer, the food, the open door, the shirt being filled with his scent over and over—these are rituals of attachment. She is building her weeks around returning to him while he still knows that her best friend is his lover and that they chose her together. I can be melted by him and furious with him in the same paragraph, apparently. This chapter made me want him to say he loves her, but it also made me dread it more. He must tell her first. He must.
 
-GATE 44 — The Outlier
+Still: the image I’m carrying is this enormous, controlled man standing in his own warm kitchen wearing two shirts because the woman he loves gave him an assignment. That is so exactly my weakness I almost resent the book for knowing.
+
+GATE 45 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 2
+CAPTURE: 9
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee’s instinctive protection of Randi was painfully tender, especially when Randi has not offered Vee the same privacy. Now I desperately want to know what Randi does with the truth about her father—and whether the book understands how completely this chapter exposes the moral difference between her care and Vee’s.
+WHY: The reunion pulled me hard, but the shirt finished me: her vulnerable, specific need met with immediate tenderness and not one grain of mockery. I’m desperate for the truth to come out before this beautiful new ordinary becomes an even deeper betrayal.

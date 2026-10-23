@@ -1,26 +1,30 @@
-*capture-dag-v2-rich · gate ch018 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bca2ed17019a · 2026-10-01*
+*capture-dag-v2-rich · gate ch018 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6c8bd3bde2d5 · 2026-10-01*
 
-REACTION
+REACTION:
 
-God, my heart. My actual heart.
+Oh my god. My stomach is in actual knots.
 
-Every time Vee comes back to that dorm room to debrief with Cassie, I feel like I can finally breathe again, but this time I was holding my breath for a completely different reason. I am so deeply, hopelessly in love with their friendship. Cassie isn’t just a sounding board; she is the mirror Vee needs so desperately. The way Cassie catches the weight of what Vee is saying—the fact that she dropped her textbook the second Vee walked in, the way she clocked the shirt immediately, the quiet, devastating beat when Vee realized *he turned the heat up hours before so she wouldn't be cold*—it kills me.
+The *manipulation* here is so subtle and so terrifyingly effective I feel like I need a cold shower. Randi is a masterclass in psychological extraction. The way she sets up the environment—the dark green velvet booth, the intimate alcove, the expensive ease of the convertible, the wine—and then immediately disarms Vee with her own "vulnerability." Telling that story about getting tied up with the Hermès scarf and tickled to the point of crying? It’s brilliant, it’s completely unhinged, and it immediately sets the conversational permission structure to: *We talk about our wildest, most humiliating, most submissive bedroom secrets here, girlie.*
 
-"Oh, Vee." That little soft murmur from Cassie when she understood the heat. That’s love. That’s pure, unconditional tenderness from a best friend who knows how hard Vee’s life has been, how policed and starved she’s felt, seeing her finally be cared for.
+And Vee, who is so deeply, desperately starved to be known and accepted, just walks right into the parlor. Watching Randi steer her from the dress to the measuring, to *“Nobody measures over a bra,”* to drawing out the exact physical geometry of Pace on his knees in front of the platform... it made my chest tight. Randi knows *exactly* how Pace works because Pace did it to her, or because they planned it together, and she is feeding on Vee’s experience like oxygen.
 
-And what Vee took away from that sun porch! That line: *"It was like his eyes asked, May I look."* That is the entire crux of what I have been looking for in this genre for ten years. A man who wants her out of his mind, who is strong enough to snap a board in half, but who holds his hands still, leaves the door wide open, and asks with his eyes. And because he left her room to exist, Vee didn't shrink. She didn't hide behind her mother's ugly shame. She stepped into her own power.
+And then the moment Randi pulled the brake:
+*“You don’t have to tell me.”*
+That wasn't mercy. That was Randi suddenly hitting her own absolute limit of what she could bear to hear Pace doing to another woman, or it was the absolute masterstroke of control, pulling the rug out right when Vee was about to hand over her deepest shame. The whiplash! Leaving Vee with her soul completely bared and hanging out over the tomato soup, and Randi just casually checking her watch and looking for the bill. It is *merciless*.
 
-When she told Cassie, *"I was grinding on him"* and fell back onto the bed laughing into the pillow? I kicked my feet. I literally kicked my feet on my couch. The utter joy of a girl realizing her desire belongs to *her*, that she can tease, that she can want, that she drove this terrifyingly controlled, brilliant man to the absolute edge while he was trying to pin a hem—it is intoxicating. She isn't just an object being seduced; she is waking up.
+And THEN. The kiss in the car.
+*“Not the dry tight press Vee gave her grandmother. Soft, and in no hurry... a second press that had something in it the first one hadn't...”*
+My jaw hit the floor. Randi didn't just cross a line; she blew right through it. The sheer predatory thrill of it, mixed with whatever real, terrifying, suppressed queer hunger Randi is clearly harboring—it’s intoxicating and deeply unsettling. And poor Vee, standing on the curb in the dying light, frantically trying to convince herself it was *French*, while her body is entirely electric and terrified that someone in the dorm saw her.
 
-The only thing that aches, the shadow sitting at the edge of the bed with them, is what I know that Cassie and Vee don't. Pace and Randi. The game. Every time Vee experiences real, transformative tenderness from Pace, it’s built on a foundation that started as a secret wager. It makes the beauty of it almost painful to read, because Pace *does* care. You cannot fake turning the heat up hours in advance. You cannot fake kneeling at a woman's feet to save her from her own shame. When the truth comes out, it is going to tear her in half.
+Pace makes Vee feel seen and safe. Randi makes her feel seen and entirely destabilized. I am sick with anticipation for what happens when these two currents smash into each other.
 
-Until then? I am drinking down every drop of this warmth.
+***
 
-GATE 18 — Turned Up
+GATE 19 — How It's Done
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 1
-ROMANCE: 3
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The decompression between Vee and Cassie is unmatched; watching Vee process the incredible tenderness of Pace turning up the heat and asking with his eyes—and then gleefully owning her own power and teasing—made my chest ache in the best possible way. I need the next chapter immediately.
+WHY: The psychological tension between Vee and Randi is wound so tight it feels like a piano wire; that slow, lingering kiss in the convertible pushed this whole triangle into an entirely new, dangerous gear.

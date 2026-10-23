@@ -1,26 +1,34 @@
-*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-07*
+*capture-dag-v2-rich · gate ch045 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-07*
 
 REACTION
 
-Oh, Vee. My heart just aches for her in this quiet little chapter.
+Oh, God. My chest actually aches. That physical hollow you get right beneath your collarbones when you watch someone hand their whole bleeding heart to someone on a platter, and the person just… smiles, pats it, and sets it on a side table.
 
-It’s called "Cropped," and that title cuts right to the bone. She cropped the picture for her parents so they wouldn't see the slit up to her hip; she cropped the story of Pace so her dad wouldn't hear that he sews silk dresses and cooks gourmet meals and makes her world spin; and she’s cropping *herself* to survive the transition between who she used to be and who she’s becoming. That line about her father—*"Sex he understands. The sewing he never would"*—is so achingly, brilliantly perceptive about traditional family dynamics. Her dad can handle the idea of a guy trying to get into his daughter's pants, but a massive twenty-two-year-old mathematician who carefully stitches custom silk on a sun porch because she sighed over a magazine? That’s "weird." That breaks the reality of an ordinary Ohio dad who burns the rolls on purpose.
+*“I had been eating crackers my whole life. And you fed me a meal.”*
 
-And then Cassie—God bless Cassie, forever and always the only honest mirror in this whole damn book—asks the only question that matters: *"So what is he... Not to your dad. To you?"*
+It was poetry. It was her soul. She spent weeks constructing a safe little vessel that could carry all her terrifying, starving love for him without breaking the rule, without scaring him, without demanding what he hadn't offered yet. She gave him the truest piece of herself.
 
-And Vee can't answer. *"Is it that you can't say, or that you don't want to? / Both. Probably both."*
+And what does he say?
+*“I love how good we are together.”*
+And then: *“What your body does—I've never.”*
 
-Because saying it out loud makes it real, and making it real means looking directly at how terrifyingly deep she is. She loves him. We know she loves him—she told his sleeping back, she brought him his old flannel shirt just so he’d wear it and give it back smelling like him, she’s practically moved into his bathroom drawer. But standing in the harsh fluorescent lighting of a college cafeteria, holding the clean, simple version of her life next to the tangled, intoxicating reality of Pace, she can't even say the word *boyfriend* without an audible question mark.
+*What your body does.*
 
-And underneath the sweet, tender poignancy of this conversation, my stomach is in absolute knots. Because Vee thinks she's keeping a secret about an impossibly good fairytale. She thinks the only problem is that Pace is "too good" to explain to normal people. She has *no idea* that while she was home eating burned rolls, Pace and Randi were bent over that couch in his living room, fucking four times, talking about her hair and her mouth and planning when she'll be "ready" to be brought into their bed. She doesn't know that the "catch" her dad would instinctively look for is real, and that it's sitting next to her in stats class wearing mulberry silk.
+He reduced her feast to an athletic performance. He reduced her soul to great sex. And knowing what I know—knowing that he and Randi sat on that couch, plotting her, dividing her, fucking while talking about her wetness and her kissing—it made that sentence feel like a dull knife twisting between her ribs. He literally couldn't say the words back because he’s running a game on her. He likes what her body does. He likes how good they are together. But he is withholding the one thing she is starving for, and worse, he deflected her love with a compliment about her physical responses.
 
-I loved this quiet beat. It wasn't flashy, there wasn't a drop of sex in it, but it showed me the weight of what Vee is carrying. She is outgrowing her old life, outgrowing her family's narrow view of womanhood, but she's stepping straight toward the edge of a cliff she can't even see.
+And then rivers of tenderness to smooth it over. The deliberate pull. The cheek against her crown. The warm quilt. That’s what makes Pace so devastatingly dangerous. He isn’t cold. He isn’t a brute who brushes her off and walks away. He gives her so much physical comfort, so much *warmth*, that her brain short-circuits. He buries the slight in kisses until she feels crazy for even feeling the flinch. *She had been received warmly.* God, the sheer tragedy of that thought. That’s what the volume is called, isn't it? *A Warm Reception.* She's being received warmly, but she isn't being loved.
 
-GATE 46 — Cropped
+The laundry room scene broke me. Sitting on the folding table with the dryer humming, running the tape back. That sickening realization that your sentences didn't have the same shape. And her putting it into that dark little internal drawer—the drawer of things that don't fit, the small repair jobs she's had to do all autumn. She's starting to keep a tally of the cracks, even if she refuses to look at the pile.
+
+She offered him her heart, and he kissed her hair and talked about her body. I am furious at him, I am grieving for her, and I am utterly gripped.
+
+***
+
+GATE 47 — Seconds
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 0
-ROMANCE: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The character psychology here is completely flawless—Vee trying to explain Pace's impossible gentleness to an ordinary world that only understands coarse things broke my heart. Cassie asking the hard questions keeps the whole story grounded right before the inevitable explosion.
+WHY: The emotional precision of this chapter was agonizing. Watching her offer him pure, vulnerable devotion only for him to deflect it into physical praise—while smothering the sting with tender aftercare—is masterclass character work that hurts so good. I have to see the fallout.

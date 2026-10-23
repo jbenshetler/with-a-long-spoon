@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch016 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 414026fd7d01 · 2026-10-01*
+*capture-dag-v2-rich · gate ch016 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-01*
 
-REACTION — Oh, this got me.
+REACTION —
 
-Not in the “finally, house, bed, clothes off” way I was braced for, which is almost worse, because I had completely dressed myself for that door with her. I felt that little drop when he said “my bedroom” and then did not open it. I actually felt annoyed on her behalf for half a second, like sir, you invited her to your house at two in the afternoon, do not pretend you don’t know what satin is for. But then the chapter turned, and of course he knew. He knew exactly. He just wasn’t taking her through the obvious door.
+Oh, this one got me. This is exactly the thing I keep reading for and almost never get: not just “he sees her body and wants it,” but he sees the whole awful knot of want and shame and hope and ridiculous satin panties and does not mishandle it. The erotic charge here is insane because the actual event is so technically innocent. Measuring. Fitting. Cutting silk. A man making a dress. And somehow I was more lit up by a tape measure across her bust than I am by whole explicit scenes in other books.
 
-The house did something to me. I love a competent man in romance, but competence is so often just money with abs. This was different. The shoes for each thing. The kitchen that cooks. The office with the hard brain in it. The furniture he made. The garage-workshop clean enough to feel almost devotional. It made him feel more real and more dangerous, because now his attention isn’t just a bedroom technique. It’s how he lives. He makes the world fit the thing he wants from it. He learns the material. He waits. That is extremely attractive and also, hello, terrifying in the context of Vee being one of the materials he is learning.
+The bra moment made my stomach drop with hers. Because of course the bra has to come off, and of course she “knew” that without letting herself know, and of course the humiliation is not nudity exactly but the asymmetry: him dressed, her undressed, the daylight, the pencil, the work table. That is so specific and so adultly terrifying. And the house being warm because he thought ahead? I’m gone. I am embarrassingly vulnerable to competence when it is actually care.
 
-And the patent. I hate how much I liked that. I hate how completely I would have folded at “it helps sick scared people get out of the machine faster.” He lit up, and I went soft right along with her. The book knows exactly where my defenses are rotten: not billionaire, not alpha posturing, but a man who can explain signal in noise and then make you a dress.
+The wet satin almost killed me. I mean that in the best way. That could so easily have been crude, or humiliating in a cheap way, but it stayed inside her panic so closely that I felt it as catastrophe before I felt it as heat. The “hope was visible” line, essentially, is devastating. She dressed herself wanting to be wanted, and then her body tells on her before she has consented to being known that completely. That is the old wound and the erotic center in the same place.
 
-The dress. God. The dress got me by the throat. Because it wasn’t the magazine color. That tiny disappointment mattered so much, and then the mirror corrected her. He didn’t reproduce the fantasy; he understood her better than the fantasy did. That is obscene, honestly. More intimate than if he’d taken her straight to bed. He heard a discarded want on a mountaintop and brought it home and made space for it before she even knew she was allowed to keep wanting it.
+And Pace. God, Pace. My problem man remains a problem, but this chapter made him almost lethally attractive. The choice to look up at her face instead of down when she shuts her eyes? That is the whole chapter. He knows exactly where the power is, and he refuses the easiest version of it. He waits for her eyes. I actually had to sit with that. It felt like him handing her body back to her instead of taking the advantage her shame had just given him.
 
-And then: “down to what you’d wear under it, in good light.” There it is. There is the heat. Not coy, not fake-innocent, not “oops, measurements are sexy.” It is absolutely sexual because it is practical. He needs to see how the silk will fall. He needs her body as information. He is offering her the dress and the looking in the same open hand, and she says yes before she can make fear respectable. That landed hard for me.
+Then the shift after, when she realizes she has power too, is so good. Not coy, not sanitized. She gets bold. She presses her breast to his face on purpose and says “Oops. Sorry.” I laughed and also kind of put my hand over my mouth. And he blushes. He actually blushes. The control is hotter because it visibly costs him something. I do not want a marble statue of restraint; I want a man with blood in him choosing restraint while the whole room knows what he wants.
 
-I am still uneasy. Maybe more uneasy. He is so good at giving her choices inside rooms he has prepared. That’s the central poison apple, isn’t it? She is choosing. She is incandescently choosing. And also he bought the silk before asking. He arranged the light, the table, the heat, the whole afternoon. I don’t think the book is missing that; I think it wants me in exactly this knot. I am in it.
+The pinprick and the kiss: filthy, tender, perfect. And “Keep still” doing all that work without making the book underline it to death. I could feel the line between craft and seduction just dissolving, where every touch is technically about the dress and also absolutely not only about the dress. This is the kind of heat I mean when I say I don’t want closed-door literary restraint, I want intelligence with its hands on somebody.
 
-GATE 16 — Two Towels
+I’m still not forgetting the larger ethical bomb under the floorboards. Randi exists. The plan exists. Vee does not know. But inside this room, inside this chapter, I believed the tenderness so much it made the secret worse, not less. Because this is not a hollow manipulation. This is real enough to hurt everyone.
+
+GATE 17 — A Round
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "It didn't. He said *my bedroom* like he'd said the kitchen and the office — no weight on it, nothing withheld and nothing offered — and left the door shut."
-WHY: I almost balked there because I was so primed for the obvious escalation that the closed bedroom door felt like a dodge. But the dress reveal made the whole chapter snap into place: the seduction is not delayed, it’s more specific. I want the measuring scene immediately.
+ALMOST-STOPPED: "The bra too,"
+WHY: That was the moment I braced for the book to mishandle her, but it didn’t. This chapter gave me full heat through attention, shame, craft, and restraint, and it changed something between them without needing to rush to sex. I need the next chapter immediately, partly because I’m wrecked and partly because this dress now feels like a loaded object.

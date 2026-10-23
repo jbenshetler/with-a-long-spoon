@@ -1,20 +1,26 @@
-*capture-dag-v2-rich · gate ch030 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-10*
+*capture-dag-v2-rich · gate ch030 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 6e62cd46bbc6 · 2026-10-10*
 
 REACTION
 
-Oh, Peter. You can tell your cycling friend “Not yet” that easily, and Vee is still at home thinking she needs the right neckline to get you back. That little exchange made me feel more shut out on her behalf than another scene of him and Randi in bed would have. Someone else gets to know. Someone else gets to laugh about it.
+The humble pie got me. The careful little label, the good scissors, and then sitting in the driveway suddenly afraid it’s stupid—that is painfully familiar. Vee trying to give herself something to do with her hands made me want to sit beside her for a minute. And thank God she actually got to apologize. In words. The outfit didn’t do it for her, and she went further than the speech she’d prepared. “She handed me a lie and I picked it up” is an admission I believe cost her something.
 
-And annoyingly, I liked hearing him lose track of himself talking about her. The chair joint. The math book. He remembers her being interested in things he loves, and suddenly he has a whole unsolicited speech about this woman. “Listen to you” got a smile out of me. There’s the young man with a crush, and I want him. Then we get to the part where she doesn’t know he has a girlfriend, and I’m cross with him all over again.
+But Peter, standing there thanking her for telling you the truth. Peter. I am practically scratching at the screen. You understand how to make room for an uncomfortable answer when you’re the one asking the question. Now please try being the person who has to give one. His kindness reaches me, which makes this worse. I liked him taking the slipping pie and straightening her scarf. Then I remembered whose scarf it was. Does he recognize it? His fingers lingering there gave me a completely different little chill from the one Vee felt.
 
-Sheri’s “You want me to not like her?” felt very familiar: that friend who’s prepared to hate someone before you’ve finished telling the story. I enjoyed her until “Two of them at once. How do you sleep?” Apparently quite comfortably, Sheri. I wasn’t expecting her to deliver a lecture, but I wanted even a flicker of curiosity about what “Not yet” means for Vee. Instead I’m left with another person congratulating him on the arrangement she hasn’t been offered yet.
+The heels panic went on longer than I could bear comfortably. I wanted to say, sweetheart, being taller than a man is not an offense you have to remedy on his doorstep. His response helped, although the gods-and-beauty speech was a bit much for me. I wanted the ordinary man waiting for her car more than I wanted another perfect line.
 
-That was so short I actually did a little backward glance. We’re done? I can take a breath before the doorstep scene, and his helpless little burst of affection was worth having. But I was already waiting for Saturday, and now I’m still waiting for Saturday. My thumb is moving because I want to get to Vee.
+And then the kitchen absolutely worked on me. “You’re scrubbing things that want to be left alone.” There she is. Funny, grabby, sleepy, wanting him enough to argue on behalf of a pan. That is the woman I want more time with. The sudden change after the smack was hot, especially because her confidence didn’t simply disappear: she kept trying to talk her way around what had happened to her. The chatter getting smaller, the failed sentences, the eventual “please”—yes. I felt that. His “This?” and her answer were more intimate to me than the grand compliment at the door.
 
-GATE 31 — hills-and-valleys
+I also wanted her to have that discovery without immediately being required to explain herself. Let her keep her face hidden for a minute. Let her feel something before she has a fluent account of it. But I cannot forget the bench, or that he already has a partner with whom he discusses Vee’s unsuspecting responses. I want to trust his silence here as room for her. The rest of what I know keeps interfering. That’s a compelling discomfort, but it is becoming an expensive one.
+
+A few times I wanted the book to stop telling me why she was talking or hiding. I was already with her. And “Friday” pulled me right out: she arrived Saturday; Friday was Randi. That particular mix-up matters when I’m carrying both women into this bedroom.
+
+The ending is sweet, and I’m uneasy about how completely she’s settled into him. His clothes, his soap, nearly missing class, feeling beautiful because he says *always*. I believe her happiness. I don’t want it taken away as punishment for wanting things. But we have now spent the reconciliation letting her account for herself while his secret remains comfortably housed around her. I’m still reading. I’m getting less patient with him by the page.
+
+GATE 32 — A Recognized Method
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 8
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: “and that was the whole of it.”
-WHY: I liked discovering what he gushes about when Vee isn’t there, but that ending left me impatient with how easily everyone rides past her ignorance. I want the door to open now, and I want her to get a say.
+CAPTURE: 9
+NEXT: 7
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: “and it read as one more disrespect laid at his feet.”
+WHY: I nearly balked at watching her turn her own height into another reason to abase herself. Her actual apology and the funny, charged kitchen scene pulled me back hard, but I need this new intimacy to bring the truth closer; another beautiful weekend of her not knowing will wear me down.

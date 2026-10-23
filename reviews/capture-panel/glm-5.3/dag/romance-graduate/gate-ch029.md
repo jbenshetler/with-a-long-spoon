@@ -1,28 +1,20 @@
-*capture-dag-v2-rich · gate ch029 · glm-5.3 · romance-graduate · prompt-sha 64e37969bd33 · prose-sha f4bbb5872a6b · 2026-09-29*
+*capture-dag-v2-rich · gate ch029 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-01*
 
 REACTION:
 
-Okay. I need a minute.
+Hold on. I've taken this ride before. My own notes have "Listen to you" in them — I wrote it down after the last Sheri chapter, and "two of them at once, if that's not already complicated, it will be," nearly word for word, and the small bike, and Sheri pulling away on the climb. I flipped back and reread my notes twice to be sure. Either this book has a serious editorial problem, or Helen Rivers is doing something I don't have a shape for yet — and I've read too many of these to assume the flattering option first. Sheri saying the same lines on the same road could be a character bit — she's a woman who says her piece like weather, rides the same route every Saturday, of course she's a broken record. That reading is available. But "Listen to you" landing the same way twice? That one's not her verbal tic, that's the book patting itself on the back twice with the same hand.
 
-That was the hottest chapter in the book so far and I feel like I just watched something get stolen. Both things at once, all the way through, and I don't think that's an accident — I think Rivers built it that way on purpose, and I hate her a little for how well it works.
+And here's the thing that bugs me more: this is the quietest chapter I've gotten, and it's a repeat, and the thing it's quietly confirming is bad news — Vee sat alone at the Rusty Nail glaring at the floor after that blonde moment, nursing one drink, left alone, and Pace heard it from Sheri and said nothing, just "Vee," and then talked about her chair-touching until a lesbian on a bicycle had to tell him to listen to himself. The one new thing in here for me is "Randi. She was here last night" — Sheri knows Randi's been to his house, so Randi isn't a secret on that side either, and "the redhead" doesn't know about Randi. Everybody has the map except Vee. This chapter's entire job was to underline that, and it did it in a gear I've already heard.
 
-First, the heat, because it deserves its due: the writing in that bed scene is the real thing. Her pulling him off before she comes — "Not like that. Not yet" — because what she's actually there for is the *telling*, and the telling is doing more to her than his mouth was. Him feeling both things moving through her, "giving a thing and taking a thing at the same time," and being honest enough to let it fire him. That's not a sex scene I could recite from memory. That's a sex scene about a person, and I was in it.
+Also — "not yet," when Sheri asked if Vee knows. He said it flat and didn't elaborate and neither did the book. That two-word answer is carrying the whole ethical weight of this series right now and it went by in half a crank rotation. That's the good Helen Rivers — the one who leaves the loaded thing sitting unnamed in the room. I just wish she hadn't also reused the furniture.
 
-But god, the cost. Here's what I kept doing, and I couldn't stop doing it: every beat of Vee's morning with Randi — the morning I read last chapter as tenderness, as "I wanted to keep her" — got upcycled into Randi's sex life within *hours*. Vee standing in her bra letting herself be looked at. Randi's thumb behind her knee. The sound Vee made and hoped wasn't heard. All of it, folded into a story told with Pace inside her, and Randi getting off on every word, and — this is the part that got me — Pace getting off on it too. "I heard it," she says, and I heard the sound of my own protective streak going off like a glass. Vee walked into that sorority house wrecked and honest and trying to fix something, and Randi took the whole morning, every soft inch of it, and spent it here. Vee would die. Vee will maybe someday *find out* and die. And the book made me complicit too, because I was warm reading about that morning, and now I've watched it change hands.
+I'm not leaving over this. The prose is still real, Sheri's still a person I'd pay to read about ("Hell of a backside on her, though" — two years of the same handlebar, god, I love her), and I still need the induction and the third game. But this is strike one on a pattern I can't name yet, and I'm watching for it. If the next chapter hands me another scene I've already read wearing a new date, I'm going to start wondering if this book knows where it's going.
 
-And Pace. My notes have been carrying this tension for ten chapters — the tenderness is real, the technique is real — and this is the chapter the needle finally moves. He didn't used to take sides in it; last week he was still keeping Vee's Friday "for Vee" and not asking. Now he hears "I had her standing in my room in her bra" and it goes through him and he *lets it*. He's inside the operation now, no longer by omission. And I noticed what he didn't tell her — the blonde, what Vee said, how his face went. He keeps that. He and Randi each keep a Vee the other doesn't get. Everyone in this book is running a version control on that girl.
-
-Small things that landed hard: her folding her clothes and setting them on the table — and the look at that table that "was not the look you give a table." I don't know what she was seeing yet — the two towels live somewhere in this house — but that's going to come back, it has the shape of a planted thing. "Three weeks in," casual as breathing, confirming their bed predates Vee's by a mile, right on schedule for the pointing game. And Randi running both ends of tomorrow night — the marching orders to Vee this morning ("you go in there sure"), the stage directions to Pace tonight ("she'll come, give her a day... she's going to be so beautiful when she walks in, you wait"). She's dressing Vee and aiming her and then going home satisfied. That's not coaching. That's a handler with a wardrobe budget.
-
-Also — the blonde. I'm officially suspicious now. "All us girls love him" landing perfectly to detonate Vee's worst thread the exact night she was happiest. I have no evidence. I'm keeping it anyway.
-
-I'm not stopping. This is the book showing me its spine, and the spine is darker and better made than I'd been letting myself trust. But tomorrow night better get here, because Vee is walking into that door in a black dress thinking she's making amends to a man, and I now know she's walking into a room two people furnished.
-
-GATE 30 — Space
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "I had her standing in my room this morning... In her bra." — the moment Vee's tender morning changed hands; I flinched for her, hard.
-WHY: The chapter I've been braced for — the operation and the heat finally in one bed — and the writing is good enough to make me complicit in it instead of just wary. Tomorrow night is loaded and I need to be there when the door opens.
+CAPTURE: 4
+NEXT: 7
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "I've read this ride before" — the opening beats, lines and all, matching my own notes from a prior Sheri chapter.
+WHY: Quiet by design and I can live with one quiet chapter, but a near-duplicate of an earlier scene is either a flaw or a stunt the book hasn't earned yet. I'm staying for the induction, the blonde, and Vee finding out — but I'm on notice.

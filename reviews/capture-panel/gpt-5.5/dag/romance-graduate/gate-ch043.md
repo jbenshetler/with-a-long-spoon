@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch043 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-07*
+*capture-dag-v2-rich · gate ch043 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-07*
 
-REACTION — Oh, this one got me in the ribs in a completely different way.
+REACTION — Oh, this one got me in the soft underbelly.
 
-After all the heat and Saturdays and Pace’s house, I honestly didn’t expect a statistics project chapter to make me sit up like that, but yes. Yes. This is exactly the kind of quiet chapter I forgive because it is not empty quiet. It has teeth. It takes the word “outlier,” which has been floating around like a warning light since earlier, and finally lets it cut somebody.
+After the Randi/Pace chapter and then the PPP outlier chapter, I was braced for consequence, and instead this gives me the new ordinary with Pace, which is exactly the kind of quiet chapter I don’t resent because it is not inert. It’s alive with appetite and routine and the terrifying sweetness of habit. The drawer. The car. The deadbolt. The heat turned up before she gets there. The door already open. The whole thing has become a ritual, and Vee knows it, even when she’s pretending she only came back because five nights was enough.
 
-And it’s Randi. Of course it’s Randi. The girl who always knows how to make a thing look true, suddenly confronted with the one point that is true in a way she cannot style, cannot charm, cannot soften. I felt almost protective of her here, which annoys me because I have been side-eyeing her so hard. But watching her go still over MIRANDA hurt. Not because she’s innocent in everything — she is very much not — but because this particular thing is not her sin, and yet it has her name on it. That is such an adult, ugly humiliation: your family’s money, your family’s lies, your own name printed neatly over damage someone else did.
+The part where he doesn’t fight her needing time for school hurt in the most adult way. I know why she wanted him to push back. God, I know. Sometimes “of course, take what you need” feels almost worse than jealousy because it leaves you alone with your own wanting. But also: that’s Pace. He doesn’t demand proof. He just remains. And for Vee, who has clearly lived so much of her life braced for want to become cost, that steadiness is almost unbearable.
 
-And Vee. God, Vee was lovely here. This was one of those chapters where you see her growth without anyone announcing it. She notices. She understands enough. She does not pounce. She does not make Randi perform pain for Cassie’s politics or for Vee’s curiosity. She gives Randi somewhere to put her hands. That line, basically, is friendship. Real friendship. And it made me ache because Vee can be so perceptive and kind, and yet she still cannot see the enormous point sitting off by itself in her own life. She can read Randi’s face over a laptop, but not the whole Randi/Pace shape around her. That dramatic irony is getting delicious and unbearable.
+The hallway undressing was hot because it was clumsy. Thank you. Give me the jeans stuck at the hips and the socks and the laughing and the bra caught from behind. That is a thousand times sexier than choreography. And then the “five nights” being published by her own body, ugh. I love that the book understands embarrassment can be erotic without making her small. He doesn’t tease her cruelly; her own body tells the truth and he receives it.
 
-Cassie being right also mattered to me. The book doesn’t make her wrong to protect Randi’s feelings. Her dad was laid off. She has the clean anger of someone who has already paid for somebody else’s polished story. And Randi’s little inherited-business certainty cracks in front of her. Nobody is cartooned here, which is why I’m still reading.
+And then the pizza. I cannot believe I am this invested in a man making pizza, but here we are. The food scenes still work on me because they’re not decorative. They’re the same language as the sex: attention, patience, pleasure taught through exactness. Vee learning to taste is Vee learning to want. And I loved the line of her realizing he’d make it this way for an empty house. That matters. He isn’t performing care for applause; care is how he moves through the world when something has his attention.
 
-No heat here, obviously, but there is charge. Not sexual charge exactly, more like emotional current under glass. I’m not mad at the pause because it told me something new and sharp about Randi, and because Vee’s response made me love her more. But I am also aware this is the second quieter chapter in the neighborhood after a very hot one, so my thumb wants the book to reward this with movement soon. Not necessarily sex. Movement. A confession, a slip, a dinner, a crack in the arrangement. Something.
+But the shirt. The shirt wrecked me. I had to stop there in that very romance-reader way where you look up from the Kindle and just stare at the wall like, well, that’s rude of you, Helen. The fact that she wore it every night away from him until the smell died. The fact that she washed it because it had become nothing. The fact that she asks him to wear it all weekend and give it back full of him. That is need, but it’s also invention. She is making a little portable version of home because she cannot live in his house full-time and still be a student/person, and he understands immediately. He puts it on over the shirt he’s already wearing. No speech. No joke. Just obedience to the tenderness of the request.
 
-GATE 44 — The Outlier
+This made me ache for her because it’s beautiful and also because the concealment is now almost unbearable. The drawer was already dangerous; the shirt is worse. This is not a fling anymore, not even in the realm of plausible deniability. She is literally carrying his scent back to her own bed. And somewhere outside this room Randi and Pace still share the third game. I believe his tenderness. I believe every bit of it. That is what makes me furious in advance.
+
+GATE 45 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 8
 NEXT: 8
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "The professor was talking about the semester project."
-WHY: For half a second I thought, please do not give me school-project logistics after everything that just happened. But then the chapter used the project like a knife, and Vee’s quiet mercy toward Randi pulled me right back in. I want the next chapter because this feels like the book laying another charge under the floorboards.
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: This was quiet, but it was charged all the way through: need, food, sex, habit, the shirt. The romance score is the shirt, completely; him putting it on without making her defend the request felt like a real turn in the bond, and now I need the book to deal honestly with what it has made me believe.

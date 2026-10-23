@@ -1,5 +1,7 @@
 # Condensed — Dear
 
+> Merged into `scenes/dear.md` as the Friday movement on 2026-10-23. Historical standalone notes and reader rulings below remain in force.
+
 *Scene · Drafted · early fall, before the hike. First SATC scene after the Chi Latte diptych ({{See You Later}})*
 
 ## Summary

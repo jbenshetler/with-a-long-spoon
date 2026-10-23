@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch061 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha 7514bd75e597 · 2026-10-07*
+*capture-dag-v2-rich · gate ch061 · glm-5.3 · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · 2026-10-07*
 
-REACTION —
+REACTION:
 
-Okay. I've been waiting for that Thursday story for three chapters and the book made me wait one more beat — the door cutting her off on the sidewalk — and then it DID it, the whole thing, across a white cloth, and I'm sitting here with my chest tight because of what it actually did with it.
+I need a minute.
 
-The texture of this is what I live for. Randi holding her place in the story "like a thumb in a book." "Did you take it all?" / "Didn't spill a drop?" — Randi running the debrief the way she runs everything, warm and merciless, and Vee pinned and giving it up in installments, her body two chapters ahead of her mouth the whole time. The shift in the seat she couldn't stop. The mouth going dry at the *recall* of it. That's not coy — that's the actual experience of a woman narrating her own sex life to the one person who makes it safe and dangerous at once. And Randi's wineglass rim, "the thin edge singing almost too low to hear" — Helen Rivers can write, and I will not be told otherwise.
+That wasn't a sex scene, that was a thesis chapter disguised as one — the whole taste question, the thing she keeps folding smaller and handing across white cloths, finally catching up to her alone in a shut room, and she still couldn't close the last breath's width. Fingers at her mouth, tongue behind her teeth, lungs *hurting* — and she stops. Not from the installed "gross." From something she can't name yet, and the book didn't name it for her, and that restraint is why I'm still sitting here with my heart going.
 
-But the middle is the thing, and I need to talk about Randi saying "I don't." That whole exchange was a trap I walked into WITH Vee, and I'm the reader with sixty chapters of notes, I KNEW what was being built, and it still got me. "I have." "It was powerful. It turned me on." — in the voice she uses for *restaurant recommendations*. That's the same armor as "a good sandwich eaten fast," the same woman who can't let her face be the one that hears things. And then "How does he act?" — and Vee, under oath, saying "he's enthusiastic" — and I watched Vee's body vote while her mouth filed the minority report. She clenched in the booth RE-LIVING the kiss. "Her body remembered the whole of it, and had no complaint." Meanwhile the sentence walking home with her in the wind — *He likes it. Actually — he's enthusiastic. / I don't.* — that's the pile taking on meter, that's a poem now. The book has made Vee's internal filing system into a character of its own and it walks beside her in the cold like a companion. Sixty-two chapters in and the sentence still got a physical reaction out of me.
+What got me was the middle — her examining her own wetness, the strands between her fingers, "the shameful plenty of her made visible," and the realization arriving that the problem was never the taste, it's the *amount of her*. The old verdict was about excess. Her whole shame architecture is about being too much — too hungry, too wet, too loud on a county road — and Pace's untroubled glad face is the counter-verdict and she can't ingest it. Literally. The scene is her trying to swallow her own permission and choking at the rim. And the MOOD of it — hothouse, winter, the flannel, "her mess, hers to lie in" — God. She settles her hip over the damp patch like a penance and a claim at the same time.
 
-And the flinch happened AGAIN, and it's worse/better each time: Randi's whole body "a catch and then a rise, and the rise went on a beat too long" and then "Ticklish" — the same lid clamped on the same pot. Vee "let her have it," pleased with herself, having NO idea. Also did everyone clock that Randi ordered the special without opening the menu, took one bite, and left it? The woman who can't eat in front of the thing she wants. Randi is starving in this book in a way that rhymes exactly with Vee's girlhood hunger and nobody at that table said one word about it.
+The Randi intrusive thread is doing triple duty: "It was powerful. It turned me on" replaying, the wondering whether Randi meant a mouth or her own fingers — that question is going to detonate later and we all know it. And "Hungry out loud" curdling into "Greedy" in the dark. One word, retracted and re-installed in the space of a chapter. Also: cashmere flashing through the flannel fantasy for two lines. THE BLANKET again. Helen, you keep putting that thing in her mouth's neighborhood and walking away.
 
-The coat showing her the stain under the loft light before she'd said a word — the body telling on her before her mouth got organized, AGAIN, the same move as the taste and the shift in the seat. This book's whole engine is one honest instrument and a committee that keeps arriving late.
+And the frame — she closes Cassie's window at the start (choosing heat, choosing the sealed room, choosing herself) and has to wrench it open at the end to air out the evidence before Cassie comes home. She's still managing the room. She's still curating. The window is the whole book in a sash.
 
-The lecture — Marsh passing a boxwood lice comb up the rows, "you spent the budget on handshakes," the cleaner fish — five classroom parallels is a lot but the grooming one is so nakedly about Vee and Randi's wintergreen Lifesaver that I forgave it instantly. The candy tapped against the wrist, palm closed, neither of them looking away from the front. That's the hottest thing in the chapter and it's a hard candy.
+I noticed this is a quiet chapter after a quiet chapter — booth last, solo this — and I don't care, because this is the interiority I'm starving for. Nobody's writing this in the hockey books.
 
-Small footnote in my ledger: Vee said "the cashmere blanket" in passing, casual, hers now. Still doesn't know. Still detonating quietly on a shelf somewhere. And "You picked well" — Randi finally naming it, weeks late, knowing she ARRANGED the picking. That's the third game humming under the second one and I felt it in my teeth.
-
-One tiny wobble: the braid — the little apron-court farce ("off to be royally screwed") is the book having fun and it works, but the shift from farce into the dead-level "Don't you dare fade to firelight" happened fast enough that I had to reread the seam. Only complaint. It's a small one.
-
-GATE 62 — A Clean Plate
+GATE 63 — The Reach
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 8
+NEXT: 8
 HEAT: 2
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The story she's been not-telling for three chapters finally landed, and it landed sideways — Randi's "I don't," the flinch, the uneaten special — so every beat was both payoff and new pressure, and the closing sentence walking home with her means the next chapter is already loaded. Heat is talk-recall heat, not fresh skin, but it pulled like skin.
+WHY: The taste thread finally paid off in the exact register I read for — explicit, patient, and psychologically exact, her shame about her own plenty dramatized in a breath's width of stopped tongue. I need to see whether the reach ever closes, and Tuesday's dinner is standing right there.

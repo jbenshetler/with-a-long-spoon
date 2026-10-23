@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch046 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-07*
+*capture-dag-v2-rich · gate ch046 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
 ## REACTION
 
-Oh, *Pace.*
+Okay. She finally threw something. After a whole chapter of folding that cracker sentence away with the laundry, it came out sideways, too loud, in the dark, in the wrong size for the room, and I loved that. "Don't get me wrong — it's really good sex." That's a real woman. She tries for light, misses, and keeps going because stopping would mean she'd only said the first ugly half. I've been inside that sentence.
 
-"I love how good we are together." She hands him the crackers-and-a-meal line, the one she built around the words she can't say, and he gives her back a sentence about how good the sex is. Then "I never had this either. What your body does." I actually put the Kindle face-down on my chest. *Never had this?* Two chapters ago that man was on his knees behind Randi on that couch for round four, with her counting out loud. I know exactly what he's had. So either he's lying to Vee's face under his own quilt, or he means something narrower than she hears, and I honestly can't decide which is worse. The two breaths are the only crack in him. Vee has never heard him take a second breath. I believed that part. He knew what she was offering, picked it up, and set it down in a safer shape.
+Then she tells a lie and knows it while she's telling it. "You went cold on me after the Rusty Nail," with the pie on the porch steps sitting right there in her own memory. Romance heroines don't usually get to be unfair *on purpose* because they need the story to hold. That's the most grown-up thing she's done in a while. "The needing made her mean" made me wince.
 
-There's another sting, and the book doesn't point at it, which I appreciated. He's already heard this sentence. She told him the "mouth asleep since I was born" version, and Randi told him she'd said it at brunch first. So when the meal line arrives at dawn, maybe to him it's the food speech again, the one she gives everybody. Or maybe he knows it isn't and needs it to be. I like that I'm the one carrying that and Vee isn't.
+Chili's is the best part of the book in a while, and it hurts, because I can see it and she can't. The TV a foot over her head. The fork squared to the table edge, then turned, then squared again. That flicker of irritation he drops his eyes from so she won't have it. He's drowning in the noise and she reads it as him being ashamed of her. Then he relaxes in the truck and she takes that as proof too. I wanted to reach in and grab her wrist. And it makes me wonder whether "we don't leave the house" is the plan, or Randi's Saturdays, or just a man who can't hear in a loud room. Probably all three, and none of them is the answer she's afraid of.
 
-The porch half got me: the moon in the glass, the coffee already cooled for her, his hand stopping and pressing once on her shin. Then the laundry room section lost me a bit. "She had said her best sentence. He had not said the sentence back." Yes, I know. I was there. I watched it happen, and then the book explained it to me three more times. The prose went strange too: "the small *wait* went into the body where small *waits* go." Every sentence starts with "She had," the same beat over and over, and it doesn't sound like the book I've been reading. The earlier chapters trusted me with a drawer and a shirt that stopped smelling like him. This one keeps leaning in to make sure I got it.
+"You know what happened after the dance." Quiet, not arguing, just setting it down. Then: "I'm listening now." That got me. It isn't the word, and the book says so, and fine, I'll let it, because it lands.
 
-Still, the pile is the real news. "She put it where she put things she did not know what to do with. The place was not empty." That's the shelf I've been tracking for twenty chapters, and now *she* knows it's there. That matters. She isn't saying *Peter* to a sleeping man anymore. She's filing him.
+The sex worked for me. She wants him to lose control, he doesn't, he doesn't, and then he does. "Like a man who'd run clean out of the strength to wait." It's explicit, it doesn't flinch, and it comes straight out of the fight. Her coming with his name instead of the other word was a good beat.
 
-Shape check, because my thumb is doing it anyway: Cassie's cafeteria, then this. That's two quiet chapters running, and this one ends on her retiring a sentence for good, not on a door. I'm not resenting it yet, because this is a real turn and not filler. But the weekend shirt was the last time anybody touched anybody with Vee awake to it, and I'd like the book to remember it promised me *warmer*. Also, the "long, unusually proportioned table" in his bedroom with her thong landing on it is still on my mind. The bench is still in there. She still doesn't know.
+Then the last third. I'm tired. Chapter 46 was "what is he." Chapter 47 was the unsaid word and the pile. This one ends on the unsaid word, "boyfriend" with her mother, laying him out for her father. I just read that at the cafeteria table. The nachos are the third food-as-revelation speech in four chapters. "It was to food what a billboard is to a painting" is the book admiring itself. And "Some back room of her knew which of them had gone cold" spells out the lie I'd already caught.
 
-If I texted anyone at 1 a.m.: *he said "i love how good we are together" back to her i love you. dead. also he lied about never having this. she's starting a pile.*
+The fight is a real step forward. The ending circles back to where 47 left her. Also, Randi's had a kiss on the sidewalk, four times on a couch and a ruined father in a glass room, and she's off the page again. I want the table back.
 
-GATE 47 — Seconds
+## GATE 48 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 7
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: "She had said her best sentence. He had not said the sentence back."
-WHY: The porch scene broke my heart in the right way, and "I never had this either" makes him a liar or a coward, and I need to know which. I'm deducting points for the book explaining its own wound to me in the laundry room. NEXT is higher than CAPTURE because the next chapter has to show what Vee's pile does to her, and I want Randi's face across a table now that Vee's love for him has gone unanswered.
+CAPTURE: 7
+NEXT: 5
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "She had no name for the best thing in her life, not the big one he wouldn't give her and not the small one she couldn't find"
+WHY: Chili's is great: him swamped by the noise, her calling it shame, and her lie told on purpose. The ending circles the same unsaid word for the third chapter running. The fight earned this one, but the next one has to move: Randi, the bench, or somebody saying something out loud in daylight.

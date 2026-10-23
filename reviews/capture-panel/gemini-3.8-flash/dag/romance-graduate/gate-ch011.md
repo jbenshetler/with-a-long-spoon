@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1d8b07a3a421 · 2026-10-01*
+*capture-dag-v2-rich · gate ch011 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2bcd8a499e1e · 2026-10-01*
 
 REACTION
 
-Oh, this made my stomach hurt in the absolute best, most agonizing way.
+Holy shit. My pulse is still hammering in my ears.
 
-The psychological maneuvering happening here is staggering. Vee sitting up on that high stool like she’s on a shelf, wearing her pilled cardigan, feeling "the wrong size for the room"—God, the sheer *accuracy* of being a girl who takes up too much physical space in a room full of tiny, finished sorority women drinking bruise-colored smoothies. It's so visceral. And then Randi swooping in to "save" her from the very wolves Randi runs with? Lethal.
+*That* is how you write an erotic charge. That truck scene took ten years off my life. It wasn't just hot; it was psychologically brilliant. The absolute genius of Pace knowing *exactly* who he’s dealing with. He steps out into the freezing mountain downpour to give her privacy—which is both a deeply chivalrous move and the most devastating piece of bait he could have possibly dangled in front of a girl like Vee. A lesser man would have hovered, or made a joke, or tried to help her out of her shirt. Pace just gave her the truck, gave her his only dry clothes, and walked out into the storm.
 
-When Randi took her hand in front of Brooke and called her "my dear friend"—my heart broke in half for Vee. Because Vee felt that cost something. She felt the social capital being spent on her, and because she’s so starved for someone to claim her publicly, to say *I choose this one*, she melted right into the palm of Randi's hand. And she has no idea that the predator isn't Brooke; the predator is sitting right across from her, feeding her lines about "let your mountain man ravish you against a tree," pumping her for data to take back to the lab.
+And Vee! God, Vee stepping directly into her own power, or what she *thinks* is her own power. Coming up onto her knees on that unbroken bench seat, rapping on the glass, crooked finger: *come in.* That entire sequence where she strips for him while keeping his eyes locked—and the internal battle where her mother’s voice is spitting the word *floozy* at her, and instead of shrinking, Vee uses that exact shame as fuel to press her thighs together and pull the fifth button open? *Exquisite.* That is the deepest, most honest understanding of female exhibitionism and the kink of transgressing good-girl conditioning I have ever read. She didn't want him to just see her body; she wanted him to see her *being bad.*
 
-And Randi's reaction to Vee saying Pace said *"May I choose?"*—the absolute stillness in Randi there. "You let him choose for you. And you liked it." Randi recognized the signature. She knows *exactly* whose hand is on the wheel, because Pace does that to *her*, only with a riding crop and a bench. Seeing Randi push Vee toward the trap ("Ask and then ravish"), while simultaneously binding Vee closer to herself with that public claim of affection... it’s sick. It’s twisted. It’s so wildly intimate. The three-way dynamic isn't even physical yet, and the tension is already suffocating.
+And his reaction! He didn't pounce. He didn't ruin the gift by grabbing. He sat there shivering, stunned by the gladness of it, his hand trembling when she reached for it. Pulling his freezing hand under the dry flannel and pressing it against her warm, bare belly? I gasped out loud. The sheer intimacy of that gesture felt filthier and sweeter than actual penetration.
 
-GATE 11 — Dear
+And the hike itself—Pace is terrifyingly good. Tending to her blister with moleskin without an ounce of pity or condescension. Teaching her the "leave no trace" rule with the cherry pits by quietly modeling it instead of scolding her. Feeding her horseradish that clears her sinuses and watching her eyes run. The man is systematically dismantling every single defensive wall she has built since puberty, and he’s doing it by feeding her, protecting her feet, and letting her lead the sexual pace.
+
+And then that campus cop cock-block at the very end! Dropping her off in the red zone, the siren squawking, him having to pull away before she can even speak the thing she was holding. She’s left standing under the dorm overhang, drenched, wearing his oversized flannel, smelling like his soap and his bag, clutching her soaked shirt in her fist like a trophy. She is completely, utterly ruined for anyone else now. She belongs to this dynamic.
+
+GATE 12 — Leave No Trace
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 1
-ROMANCE: 2
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The slow-motion car crash of Vee falling completely in love with both Pace's gentleness and Randi's toxic protection is pure psychological crack. I need Sunday and this mountain trail immediately.
+WHY: The tension in the truck when she stripped for him while actively using her mother's shame-voice as an aphrodisiac was absolute perfection. The psychological calibration between his patient restraint and her desperate hunger to be seen made this one of the hottest scenes I've ever read. I need the next chapter right this second.

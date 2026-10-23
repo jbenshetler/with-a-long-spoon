@@ -1,22 +1,22 @@
-*capture-dag-v2-rich · gate ch037 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha efddca81bfc1 · 2026-10-10*
+*capture-dag-v2-rich · gate ch037 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9782a926aac2 · 2026-10-10*
 
 **REACTION**
 
-Oh, the drawer. The drawer got me. He folded his whole careful self into one tight drawer and gave her the top one, "the one your hand goes to first." There was no note and no speech, and he didn't tell her it didn't matter, he just made room for her. That's exactly what I wrote in my notes I came looking for: control that makes room instead of erasing. I sat with the two drawers open in my head the way she did and my throat went tight.
+Oh, Cassie. Folded into the bean bag with her window cracked two inches, calling Vee a public utility. I've missed her. She's the only person in this book who asks Vee a question and doesn't want anything back, and this time she asked the big one, flat and plain, the way you'd ask what time it is. "Do you love him." Vee, who couldn't stop talking from the door on, went small.
 
-So yes, this is the sun-porch man, and I love him tonight. "Always brought all the way over and usually more than once before he took a single thing for himself." "She hadn't known a man would want to." That's her desire rendered from inside, and it's warm. The spin at the door made me laugh out loud. I liked that the heat was all memory and summary this time. After the brunch I didn't need another scene of somebody's body being worked up in public. I needed them alone in a room, good, for a whole chapter, and I got it. That gap's been fed.
+What got me is that I know something Cassie doesn't. Last chapter, alone in his bed in the dark, Vee said it to herself with no hedging at all: *She loved him. There.* Here it comes out as "Maybe. I think so. It's all so fast." She's shrinking it for Cassie the same way she kept the middle of the night from her, the ladle that leaves no hole. Maybe it's only that the word is too new to say out loud. Maybe some part of her knows Cassie's "you don't come home school nights" isn't nothing. Either way I liked that Cassie let the maybe stand and went back to her book. She didn't argue it and she didn't bless it. That's love too, the kind that doesn't need anything from you.
 
-But I'm reading this with chapter 31 sitting on my chest. Sheri asked "And the redhead?" and he said "Not yet." So when Vee lies there counting all the ways he's said it without saying it, telling herself "a man didn't do all of that for a girl he was only passing a season with," I'm the one who knows what she doesn't. Randi was in that bed the Friday before Vee's apology. Randi rode him and told him about Vee's knees. Vee whispering "Peter" to him asleep, the name she kept, nearly undid me, because she's handing over the whole of herself and she's working from half the facts. "He never said. He never said." The book puts that line in twice and I don't think it's an accident. His silence is lovely when it's a drawer. It's something else when it's Randi.
+The tomato burn made me laugh. Cassie's "Not enough on" is exactly the friend I'd want. And under the joke there's something lovely: a house warm enough that Vee never thinks about how much she's wearing, and a man fussing over a small burn for days. That's the care I came for, set down in a dorm room in passing, as if it were ordinary now. It's become her normal, and that's what moves me.
 
-There's one small thing I'm not sure about. The weight loss: "her body quietly burning down whole weekends of him, and she'd never asked it to." It's framed as happiness, but the bras riding high and the clothes going loose made me look up for a second. Maybe it's nothing. Maybe it's the book setting up that she's being consumed. I'm watching it.
+The thing I'm holding my breath over: Randi isn't in this chapter at all. Vee's been telling Randi the spanking and the bet and "he checked" over mimosas, and telling Cassie about tomatoes. One friend gets the body and one gets the heart, and only one of them is lying to her. It's been a long sweet run since the porch door: the drawer, the scrunchies, the juice, "always beautiful." The book is letting me get comfortable, and I don't trust comfortable with that brunch still in my mouth. "Sticky fingers." A pastry glaze on her lip she never touched. Something's coming. I'd almost rather Cassie was the one who sees it first.
 
-And no Randi. After "Sticky fingers?" and the glaze on Vee's lip from a pastry she never touched, a whole chapter without her feels like the eye of a storm. I want the next chapter because I'm happy, and I want it because I'm scared.
+Quiet chapter, real care. It cost me nothing.
 
-GATE 38 — Above Him
+GATE 39 — School Nights
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
+CAPTURE: 6
+NEXT: 7
 HEAT: 1
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The drawer is the most romantic thing he's done, because she didn't have to ask and he didn't have to say anything. I'm stuck between loving this man and knowing Vee told him she loves him in the dark while he still hasn't told her about Randi. A quiet chapter made me hungrier, not less.
+WHY: It's a short breather, but Cassie asking "Do you love him" and Vee going small with "Maybe" hit me, since I know she already said it to herself in the dark. I want the next chapter because the honeymoon has gone on long enough that I can feel Randi's fuse burning offstage.

@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-07*
+*capture-dag-v2-rich · gate ch043 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-07*
 
-**REACTION**
+REACTION
 
-*Holy shit.*
+*Oh, my god.*
 
-Coming straight off of Chapter 43—where Randi is literally bent over Pace’s couch, having the soul fucked out of her while whispering about how kissing Vee makes her wet, plotting this terrifyingly immaculate, bespoke seduction—to get thrown into a freezing academic glass box and watch the armor shatter? God. That was magnificent.
+I am sitting here with my hand over my mouth because chapter 43 just happened two seconds ago in my head, and now I have to watch this. It is actual psychological torture. I feel sick, I feel turned on, I feel like I want to scream at her to turn around and run, and at the exact same time I wanted to crawl into that kitchen and eat that pizza off the peel.
 
-This book is so fucking smart. It would have been so easy, so cheap, to have Randi be this frictionless sociopath right up until the threesome. The girl who drives the green Mercedes, spends hundreds on mimosas without blinking, and talks about getting bent over like it’s a tennis match. But here, the myth of her untouchable wealth and easy confidence takes a direct, lethal hit from a goddamn public record. Her father didn’t just take the money; he took *all* of it, fired the workers anyway, and slapped *her* name—Miranda—right on the entity. That green Mercedes, the designer coats, the endless brunches… they were bought on the backs of people like Cassie’s dad.
+Look at the contrast between what just happened on that couch with Randi and what happens when Vee walks through the door. In chapter 43, Randi was shoved up against the sofa rail, taking four rounds of him, talking about kissing Vee's wet, parted mouth in the sun while Pace fucked her from behind. And now Vee walks in after five days of starving herself to study, hops out of her jeans in the hall, and literally *throws her green thong directly onto the walnut spanking table*—"the long, unusually proportioned table that stood in the middle of his bedroom"—and DOESN'T EVEN KNOW WHAT IT IS. She just flings her panties across the very altar they built to break her on, and then goes to bed with him. The dramatic irony is so sharp it’s cutting my fingers while I turn the pages.
 
-And Randi *didn’t know*. Or at least, she didn't know the ugly, naked arithmetic of it until it sat there as a glaring outlier on a scatterplot. *"Cheating bastards."* God, you can hear the blood draining out of her ears. Two words, ragged, completely stripped of her velvet purr. The predator just realized the meat she’s been eating was poisoned.
+And then the shirt. *God*, the shirt. That almost made me cry real tears. She brought his washed flannel back because it stopped smelling like him, blurted out that she needs him to wear it all weekend so she can take it back to her cold dorm room and sleep in his scent, and he just... puts it on. Right over the shirt he’s already wearing. Without a single joke, without a drop of mockery, without weaponizing her absolute, gut-level vulnerability against her. He gives her that smile that "seemed to cost him something."
 
-And Vee! My sweet, brilliant, observant girl. In the bedroom she’s soft and pliable, but put her in front of a spreadsheet and she sees *everything*. She clocks the shift in Randi’s breathing, she reads the screen, and instead of pouncing or gossiping, she protects her. She slides the laptop over, creates cover fire, and lets Randi put her mask back on. The sheer emotional intelligence of that move broke my heart. Vee loves this woman. She loves her with this fierce, tender protectiveness that Randi doesn't even deserve, and yet Randi is back at 614 letting Pace stretch her out while they plan how to peel Vee open.
+That is what makes this book so devastating. Pace isn't a cartoon villain twirling a mustache. He *adores* her. He feeds her buffalo mozzarella and reduces tomatoes for half an hour and covers her with blankets and lets her leave her green scrunchies in his top drawer. But he also took Randi four times in that exact same house, agreed they picked Vee off a quad like fruit off a tree, and is quietly preparing the ground for when the trap snaps shut. It’s so tender, so completely suffocating, and the intimacy between them is so real that it makes the lie a thousand times worse. She thinks she’s finally found the one clean, safe harbor in the world, and she’s just re-scenting her leash.
 
-The dramatic irony is so thick I could choke on it. Cassie sitting there completely vindicated, utterly blind to the personal kill-shot she just delivered across the table; Randi humiliated and exposed in the one currency she thought she mastered; and Vee standing in the middle, shielding the very person who is setting her up for slaughter.
-
-Zero physical heat in this chapter, but my pulse was racing the entire time. It’s the second quiet chapter after the couch, but it doesn't drag for a single second—it's a tectonic plate shifting under the entire foundation of the book.
-
-***
-
-**GATE 44 — The Outlier**
+GATE 45 — The New Ordinary
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 0
-ROMANCE: 2
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The tension here was masterclass—watching Randi's untouchable, gilded world shatter on a public spreadsheet while Vee quietly shielded her was more gripping than a sex scene. I am dying to see how this fracture plays out when Randi runs back to Pace's bed.
+WHY: The sheer emotional ache of the flannel shirt scene paired with the horrifying dramatic irony of her tossing her underwear onto the spanking bench had me completely in a vice. The tension is unbearable and I can't look away.

@@ -1,34 +1,26 @@
-*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a7036ffc678 · 2026-10-07*
+*capture-dag-v2-rich · gate ch046 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-07*
 
-REACTION
+REACTION:
 
-*Oh.*
+Oh, god. This hurt. This was the first time since the very beginning that the gilded cage genuinely chafed, and it made my stomach drop.
 
-Oh, my stomach just dropped straight through the floor.
+Vee dragging him to *Chili's* on Route 460—it is so aggressively, painfully college-town, so deliberately anti-Pace, and it backfired on her in the most devastatingly quiet way possible. She wanted a fight, she wanted him to care enough to drag his feet or show an ugly edge, and instead he just... politely endured it like a man taking a difficult dog to the vet. Watching him get overstimulated by the sports bar glare, his eyes snagging on the TV above her head, the fork-turning—and then Vee tasting those nachos. That moment was brilliant. The realization that she can’t even enjoy the cheap, familiar comforts of her old life anymore because he’s rewired her palate down to the cellular level. She can't go back to normal twenty-one-year-old girlhood, and she can't fully exist in his bespoke, isolated vacuum either.
 
-I feel sick for her. Genuinely, physically sick. She spent *weeks* crafting this perfect, heartbreaking little metaphor—a little wooden ship built to carry the freight of *I love you* without technically breaking the unspoken rule that he has to say it first—and she sets it down at his feet like a sacred offering. *"I had been eating crackers my whole life. And you fed me a meal."* It’s so tender, so bare, so completely *Vee*.
+And then the fight back at the house—she was so unfair to him about the Rusty Nail, rewriting history because her own insecurity was eating her alive, and Pace just calmly set down the truth: *"You know what happened after the dance."* Followed by his explanation of why he hates places like that: *"In a room like that I listen as hard as I know how and I still can't hear you. Somewhere quieter, I can. And I do."*
 
-And what does he do?
+It’s stunningly romantic on the surface. It’s what makes you fall head over heels for a man. But in the context of what *we* know—that he and Randi literally designed her, that Randi was on his couch four chapters ago recounting Vee's wet hair and swollen lips, that there is an entire scaffolding around this girl that she can't see—it feels suffocating. He keeps her in the quiet because in the quiet, he controls the entire sensory input.
 
-He pauses. He takes two breaths—calculating, calibrating, running the Simpson's Paradox algorithm in his brilliant, terrifying math brain—and he hands her back a corporate HR memo disguised as intimacy: *"I love how good we are together. What you do—what your body does—I've never. I'm glad you feel it too."*
+The sex was phenomenal because the emotional desperation was bleeding through every pore. She wanted him to lose control, to quit being the patient maestro, and when he finally did—snapping, driving into her with that raw, ragged desperation—it still didn't fix the hole in her chest. She thought that if she could break his restraint in bed, the confession would spill out. But he can lose his physical control completely and still keep the lock turned on his heart. Or his secrets.
 
-*What your body does.*
+That ending, lying in the dark with his drying come inside her, realizing she gave away all her power and manufactured an "act of forgiveness" just to crawl back into his warmth... it’s tragic. She has no name for him. She can't say "boyfriend," she can't say "I love you," she can't exist in a Chili's booth, and she doesn't know she's sharing him with the girl buying her mimosas. The tension is winding so tight I can barely breathe.
 
-Are you kidding me, Peter?! She handed him her soul on a plate, and he complimented the plumbing. He reduced her absolute, starving emotional surrender to a high-performance athletic metric. *We have great friction, babe. Your pelvic floor is truly exceptional.*
+***
 
-And the horror of it is that he didn't stumble. It wasn't an accident. He heard *exactly* what she was saying. He knew she was asking, *Am I real to you? Do you love me?* And he deliberately, surgically stepped sideways to avoid catching the pass. He kissed her head, he held her tight, he gave her the warm quilt and the fresh coffee—he smothered the bleed in pure, suffocating aftercare so she wouldn't scream—and it worked. She let herself be comforted in the moment because the trap is lined with cashmere.
-
-Until she’s sitting alone in the dorm laundry room, watching the dryer spin, and the math finally stops adding up.
-
-*"The cracker-and-meal would not return to her speech."* That line broke my heart. She’s putting it into that dark little mental closet where she hides all the things that don't fit the fairytale—right next to the dead parents he won't talk about, and the spanking bench she doesn't know exists, and the fact that Randi's mouth is all over her weekends.
-
-The title of the book is *A Warm Reception*. And right here, Rivers drops the knife: *She had been received. She had been received warmly, she would remind herself, in the small private way you remind yourself of evidence whose weight you are not sure of.* A warm reception isn't love. A warm reception is what a host gives a guest before the dinner party starts. God, she is so out of her depth, and the chill is finally getting under the door.
-
-GATE 47 — Seconds
+GATE 48 — Under the Rug
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 0
-ROMANCE: 1
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The absolute psychological devastation of this chapter took the air right out of my lungs. Watching him deliberately deflect her love confession into a compliment about her *body*, while wrapping her in a warm quilt to numb the sting, was agonizing and brilliant. The hairline fracture in their foundation has finally appeared.
+WHY: The psychological friction of the Chili's scene was incredible—watching her realize he's ruined her for ordinary life, while simultaneously realizing his exquisite attention is a wall she can't get past. The desperation in that second round of sex was electric, and the ending leaves her so painfully exposed. I have to see how long she can survive in this limbo before something breaks.

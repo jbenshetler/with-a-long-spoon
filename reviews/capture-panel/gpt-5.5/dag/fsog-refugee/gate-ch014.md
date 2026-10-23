@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch014 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha f069f89a5632 · 2026-10-11*
+*capture-dag-v2-rich · gate ch014 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 25b7bedbae77 · 2026-10-01*
 
-REACTION — Oh, that one hurt in a way I wasn’t expecting. Not because it wasn’t hot. It was absolutely hot, but the heat had a serrated edge this time. Randi coming in like that, not even hanging her coat on the chair, not even letting him answer, just needing the story through his body — I felt the urgency and I also felt the panic under it. She did not come to hear about Vee. She came to take Vee from his mouth and make herself the place it landed.
+REACTION — Oh, I liked this one more than I expected to, because it let Vee be a girl with girlfriends again. Not just Pace’s almost-lover, not just Randi’s chosen project, but Vee at a loud dining hall table laughing with her whole body, stealing fries, getting teased, telling the story better because it deserves to be told better. I needed that. I needed proof she has witnesses who are not in on the plan.
 
-And Pace. I am surprised by how much I felt for him here. He’s been so controlled through Vee’s chapters that seeing him hungry, cold, bewildered, and then left standing in the doorway made him suddenly much younger to me. Not less dominant, exactly, but less godlike. He knows how to read a woman’s body when she is offering him something, but he does not know how to read Randi’s flight. That matters. He thinks it is want too large to rest under, and maybe it is, but I think it is also jealousy, fear, shame, the whole unspoken shape of wanting Vee and wanting “us” and not knowing whether that means three people or whether she is already losing the dyad she had.
+And the way she tells the shirt story. God. She knows it is romantic. She knows exactly where the ache is. But she also understands the restraint as the point: he didn’t kiss her, not because he didn’t want to, but because he was freezing, because the moment needed care more than conquest. That is exactly the thing I came to this book hoping for. The not-taking is hotter than taking would have been.
 
-“I want us” got me. That is the whole chapter for me. Because it lands during sex, yes, but it is not simple. It sounds like a plea, a claim, a panic button, a fantasy. She wants herself and Pace and Vee, but she also wants the old “us” not to be changed by what they started. And Pace hears it like a blessing, like the first swallow of something, while I’m sitting here going, sweetheart, that sentence has teeth.
+Kayla and Meg feel different from Cassie in a good way. Cassie is the anchor, the person watching for danger. These two are the delighted chorus, and Vee deserves that too. I loved Meg’s “Sometimes they even are,” because it’s not cynical exactly, just adult enough to leave a pin in the balloon without popping it. Kayla is hilarious and useful because she says the thing: two o’clock is not dinner. His house is a threshold. We all know it. Vee knows it. I am basically sitting at that table with them, pretending to be normal while rereading the text in my head.
 
-The thing I loved most, and the thing that made me most uneasy, is that Pace keeps Vee’s privacy even while feeding Randi exactly enough to undo her. He tells her scent, hair, softness, but he does not say the truck. He keeps the private gift private. That made me trust him more, which is dangerous because the original plan is still dishonest. But I needed him to have that line, and he did.
+What got me most is how little Pace has to say to set the whole chapter humming. “Would you come to my house Saturday. Two o’clock.” That is barely a message, and because he has been so careful before, it lands like a hand at the back of my neck. Not coercive. Not explicit. Just a door opening. And I want her through it so badly I’m annoyed the chapter ended.
 
-Randi leaving after, though. That was the real cold. She has always stayed. The blanket, the shiver, the bright “I’m good,” the quick exit — that felt less like satisfaction than escape. I wanted to catch her by the shoulders and say: you are allowed to want the girl. You are allowed to be scared. But you are not allowed to keep using everyone’s tenderness as a room you can run from after you set it on fire.
+The Randi-shaped absence is loud, though. Vee is moving toward Pace’s house while Randi is somewhere wanting “us” and running out of Pace’s bed afterward. I can feel the book tightening the triangle even when Randi isn’t on the page. That secret plan is still the wire under everything. But right now? I’m gone. I want Saturday. I want the door, the house, the first private afternoon, and I want him to keep being the man who asks.
 
-I’m still reading. Very much. But this chapter shifted my worry. I was worried Pace and Randi would use Vee. Now I’m worried Randi is going to break all three of them because she cannot bear the truth of her own wanting.
-
-GATE 14 — Swim Lanes
+GATE 15 — What to Wear
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 8
-HEAT: 3
+NEXT: 10
+HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "She had asked him how it was. He had never got to that, and she had not asked again."
-WHY: The sex was scorching, but what really pulled me was the emotional mess under it: Randi wanting Vee through Pace, Pace protecting Vee without fully understanding Randi, and that awful little aftermath where he realizes she did not want to stay. I’m uneasy, but in the useful way — I want the next chapter now because something real just cracked.
+ALMOST-STOPPED: none
+WHY: This was delicious anticipation: Vee being teased by friends, admitting how undone she is by being asked instead of pushed, and then that tiny text opening the next door. The chapter itself is mostly table talk, but it made me want the next chapter immediately.

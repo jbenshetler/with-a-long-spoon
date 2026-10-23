@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch027 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d1b699df4c26 · 2026-10-01*
+*capture-dag-v2-rich · gate ch027 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 08b46669b5c5 · 2026-10-01*
 
 REACTION —
 
-Oh, Vee. Oh no, honey.
+Oh, Randi is *dangerous* dangerous.
 
-This chapter got me in the tender place and then stepped on it with a boot heel, which is unfairly appropriate. The dancing lesson was *exactly* the kind of thing I keep wanting from this book: charged without rushing to naked, technical in a way that becomes emotional, his hand at her shoulder blade teaching her something about trust before either of them names it. “Being jelly doesn’t work” made me laugh, but also yes, that is the whole chapter, maybe the whole relationship: she has to bring herself into the frame. Not collapse. Not perform. Meet the lead.
+This chapter had me by the wrist from the first sad-clown mirror moment, because Vee in the aftermath is so painfully real: not melodramatic, not noble, just exhausted and ashamed and trying to become a person who can fix what she broke. I loved the cold water, the bare legs in October, the apple. That little walk to the sorority house felt like her gathering herself one step at a time. She is still so young, but not in a helpless way. More like: her emotional muscles are getting used for the first time and everything aches.
 
-And I loved that it wasn’t magically easy. She fights it, anticipates, tries to guess, gets embarrassed, overcorrects. That felt so much like her. She wants so badly to be good, to be wanted, to not be visibly new at anything. Then the lead finally comes through his body and into hers, and she *gets it*. I felt that little click in my own spine. That is the kind of erotic writing I’m starving for, honestly: no one has to take anything off for the whole thing to be bodily.
+And then the house. Brooke at the door made my skin prickle a little. “Stats friend” is such a tiny phrase and yet it says: we have filed you, honey. This whole world knows more about Vee than Vee knows about it. I felt that old outsider panic for her, standing in that foyer with the composites, but the book didn’t make it cheap. She isn’t just intimidated; she is entering Randi’s territory.
 
-Then the bar. God, I knew the moment women started hugging him that her mother was going to crawl right up the back of her neck. And I hate that I understood her reaction even while I was wincing through my fingers. Because yes, to Vee, being special is still so fragile. She has just started believing she might be singular to him, and suddenly there’s a whole room of women who know his arms, his timing, his care. The blonde knew exactly where to put the knife. “Knows how to get a girl to do just what he wants her to” is poison because it’s almost the same language as the lesson, but bent ugly.
+Randi without makeup, in her robe, with freckles. That did something to me. Because the glamour drops for a second and she’s still Randi, maybe even more Randi, more intimate and more powerful because she has let Vee see the backstage. And she is such a good friend here. Maddeningly good. She lets Vee tell it, takes her hand, names the jealousy without shaming her, gives her a way back to Pace that feels composed instead of frantic. I understand exactly why Vee would hand her the keys to her own head.
 
-And Vee throws the worst possible thing at him. The *service* line hurt. It hurt because she takes what is probably one of his most decent qualities — getting drunk girls home safely and not touching them — and spits on it because she is scared she’s ordinary. I wanted to grab her by the shoulders. Not in a scolding way. In a “stop before you make this the story” way.
+But that is also the problem. Randi doesn’t just comfort her; she *arranges* her. “Not today.” “Tomorrow night.” “You go in there sure.” It’s all excellent advice, honestly, which makes it more unnerving. She is right, and she is steering, and Vee feels steadier because Randi has taken the wheel. That’s the whole charge and the whole threat of this book for me.
 
-But the chapter doesn’t let her off, and I respect that. It makes her sit in the bar and stew in her own internalized garbage. Floozies. Slut. Next. All those words are not Pace’s, not really even the blonde’s. They’re her mother’s and Vee’s shame wearing different outfits. And then the bartender, bless her, just sets the actual facts down on the bar: Pace is known; Pace is safe; Pace doesn’t bring dates; the women were jealous of *her*. That landed beautifully. Not overexplained, not sentimental. Just enough truth to make Vee feel the shape of what she did.
+The dressing scene was absurdly hot for something that is technically shoes and a scarf. The skirt hiding Randi’s hands while Vee can only feel the shoes going on? Come on. That is *precision-guided*. The hand under the skirt at the thigh, the thumb behind the knee, the cool hands tying the scarf with “tension” and “snug” and “hold its shape” — I am not made of stone. And Vee laughing at Edna Mode made it better, because the heat doesn’t cancel the friendship. They really do have this giggly girl-world thing between them, and then suddenly Randi is kneeling at her feet and the floor changes.
 
-I’m also very alert to the Randi of it all at the end. Of course Vee goes to Randi. Cassie would have been clean, loving accountability. Randi will understand the jealousy and the shame and the erotic charge of being led, but Randi is not neutral ground. I want the next chapter badly, but I’m nervous, because Vee is going to the woman who can soothe her and steer her at the same time. And after the last few chapters, Randi wanting “us” is not theoretical anymore.
+The kiss at the end scared me more than the shoe scene turned me on, which is saying something. Because Vee notices she didn’t brace. “It was only what they did.” Oh, baby. That’s the trapdoor. The first kiss she explained away. The second she half-expected. Now it has become custom, and she hasn’t had to decide what it means. Meanwhile Randi has sent her off dressed for Pace in Randi’s shoes and Randi’s scarf, with Randi’s script in her mouth. It is intimate as hell, and also almost an invisible collar.
 
-This was a bridge chapter, but a live one. It moved. It had heat in the dancing, pain in the misunderstanding, and consequence by morning. I’m not mad at Vee. I’m sad for her and proud that by daylight she knows she has to fix it. That’s grown-woman behavior starting to push through the shame.
+I want the Pace apology scene badly. Not because I need tidy forgiveness, but because I want to see whether Vee can walk in sure without simply performing Randi’s version of sure. I want her to repair what *she* did. I want Pace’s face when he opens the door. And I am very, very aware that Randi has put herself on Vee’s body before Vee goes to him.
 
-GATE 28 — Lesson
+GATE 29 — broken-in
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: “three dates, and she'd spread her legs like a slut.”
-WHY: The slut-shame spiral is hard for me to sit in, but the book knows it is ugly and inherited, not truth. The dance lesson made the bond turn: trust, frame, lead, her own weight in it. And sending her to Randi instead of Cassie is a deliciously dangerous choice, so yes, my thumb is already moving.
+ALMOST-STOPPED: none
+WHY: This was exactly my kind of bridge chapter: emotional consequence, female intimacy, actual sensual charge, and a new fuse lit for the next door. Randi was comforting and controlling in the same breath, and Vee letting the goodbye kiss become ordinary made my stomach drop in the best/worst way.

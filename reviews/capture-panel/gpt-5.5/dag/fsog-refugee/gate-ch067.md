@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch067 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 022d1f399ba9 · 2026-10-11*
+*capture-dag-v2-rich · gate ch067 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ec95866b43d5 · 2026-10-11*
 
-REACTION —
+REACTION — Oh my god. This chapter got me. Not just hot, though it was absolutely hot, but in that deeper way where I could feel Vee being returned to herself piece by piece, and I am embarrassingly emotional about fruit paint, apparently.
 
-Oh, this chapter got under my skin in a very different way than the hot chapters do. I was tense almost the whole time, not because I thought the book was mishandling consent exactly, but because Vee was walking into something with only half the information, and that is such a charged line for this book. Pace asked cleanly. She said yes. But Randi filled in the practical world around it, and Randi very much did not tell her the whole thing. That matters to me.
+The waxing chapter left me a little raw because it had the wrong hands on her, that horrible impersonal pressure where her body recognized a grammar without the love inside it. So this chapter felt like the answer to that. Pace takes the thing he asked of her and does not pounce straight on it like a prize he ordered. He celebrates it. He looks at her face first. He lets her arrive with all her victory and hunger. And then he turns her whole “too much” into the point of the painting. Her breasts, her wetness, her openness, her abundance. He makes her see what he sees, and I loved that so much I nearly forgave him everything for ten minutes.
 
-And the chapter knows it matters. That’s why I didn’t throw the book. It let Vee feel the shock of the missing piece. It let her know she could say no, and then let me feel why she doesn’t: not because she’s being forced, but because she’s already so far inside the yes she gave Pace that stopping feels like another kind of exposure. That is painfully Vee. She wants the offering to be whole before she even knows what whole means.
+And Vee! My girl walking in already lit up, already planning to get there before him. I loved her taking him in her mouth first, loved the pride of it, loved “Cheers” with champagne over the salt still on her tongue. That is exactly the kind of sexual confidence I want from her: not performed for an invisible judge, not passive, not being dragged into daring, but choosing and enjoying her own power. She’s so alive now.
 
-The “wrong hand” part was the center of it for me. Whew. That was not sexy in the simple way. It was almost anti-sexy and somehow hotter because of the ache it made: her body recognizes the grammar of being held down, but without Pace’s attention and desire inside it, it becomes hollow. That clarified something for me. The dominance itself is not the thing. The care and wanting inside the dominance are the thing. The same shape without him is just procedure, and she feels the missing person like a wound.
+The painting game was absurd and tender and filthy in the best possible way. I laughed at the cantaloupes, but I also felt how seriously he was loving her body through play. The stillness training with the brushes worked for me because the contract between them is so alive: he stops when she moves, she learns what surrender feels like, and it is all held inside attention. That is the difference. That is the line I care about. Control that makes more room for her, not less.
 
-I’m irritated with Randi. Not done-with-her irritated, but I felt the sting of her omission. “Barely stings” is funny and kind of cruel once you’re on the table. Randi loves being the woman one road further along, loves being the passport office to Vee’s new country, but she also edits the map. Sometimes that edit protects Vee from fear. Sometimes it keeps Randi in control of the reveal. I don’t think she meant harm, but intention is not the whole meal here.
+And then the gesso. I honestly had to sit up. Her own wetness as primer, him not feeding that taste back to her, her noticing the absence, wanting and not asking yet. That thread is getting pulled tighter and tighter. She didn’t quite get the answer this time. She kissed him after and searched for it, but it blurred into him, champagne, skin, everything. Her mouth is still empty in a different key. The book knows exactly what it is doing to me there.
 
-Pace, meanwhile, is barely in the chapter and still all over it. The fact that he asked instead of ordered is carrying a lot of trust for me. But I am noticing that he asked for “bare” and didn’t tell her why, and Vee fills the blank with devotion. That can be gorgeous, but it can also leave her alone with the fear afterward. I want him to receive this with the seriousness it deserves. If he treats it as a sexy surprise only, I’ll be mad. If he sees what it cost her and loves her through it, I’ll melt.
+The photograph almost undid me. “No shame came.” Yes. Yes. That is what I’ve been waiting for, not because she becomes some magically unashamed person overnight, but because for one whole moment she sees herself as magnificent. Pace gives her the picture back. He doesn’t claim it. He doesn’t demand it. He makes it and leaves it hers. That matters so much.
 
-The ending did work on me. Her touching herself afterward, alone, discovering the smoothness, moving from shame and pain into “I did this, and he will know it by touch” — yes. That is exactly the heat I’m here for: not a woman erased, but a woman making herself into an offering and then realizing she owns the offering too. I’m still watching the power around her very carefully, but I am absolutely reading on.
+And then of course the last turn is Randi. Because it always is now. Vee lying there with the picture, thinking of Randi’s voice, trying to imagine what she would say, deciding she will not show her. Sure, Vee. Absolutely. Put that in the same drawer as “not my thing” about Sheri looking at you.
 
-GATE 68 — Barely Stings
+I am very much still reading, but I am nervous in a good-bad way. The erotic charge with Pace is gorgeous, and the tenderness is real, but the Randi secrecy is starting to glow like a coal under the rug. Vee thinks the picture is too much for Randi. I think Randi is exactly who the picture is going to find.
+
+GATE 69 — Still Life
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: "There it was. The part Randi hadn't said."
-WHY: This pulled hard because Vee’s fear, shame, wanting, and pride were all tangled in one room, and the book did not let the omission vanish under the erotic charge. I’m uneasy with Randi’s edit, but the chapter let me be uneasy, and now I badly need to see Pace’s hands meet what Vee went through for him.
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "He entered in one hard thrust."
+WHY: The sudden hard shift after all that careful body-worship almost jarred me for a second, but Vee reached for his mouth and was with him, and the chapter had earned the intensity. This was filthy, playful, reverent, and emotionally exact: Pace making Vee’s abundance beautiful to her, and Vee believing it.

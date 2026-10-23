@@ -1,18 +1,26 @@
-*capture-dag-v2-rich · gate ch039 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · 2026-10-01*
+*capture-dag-v2-rich · gate ch039 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 38dcf8e44cd8 · 2026-10-01*
 
-REACTION — I needed this. Not because it answered whether she loves him—she already knows she does—but because for once Vee went somewhere neither Pace nor Randi could interpret her to herself. Nobody watched her body, praised it, dressed it, fed it, tested it, or told her what its reactions meant. It simply worked. That felt almost shockingly private after so many chapters of her becoming legible to other people.
+REACTION — Oh, this is cruel in exactly the way I want now. *He’s all mine.* Baby, no. And then she asks him to promise he will never share her with anyone, and he answers the photograph instead of the woman. The wording is technically clean and emotionally filthy. I felt the trap close around her trust even while I believed completely that he would guard that image with his life.
 
-The four strokes where she wonders whether Pace is truly that good or whether she has built him into that goodness caught me. Yes, Vee. Finally. Not because I think she invented his tenderness; the man surrendered the top drawer and packed himself into the lower one. But she is so flooded by being cherished that she has stopped examining the structure around the cherishing. I’m relieved the question exists in her at all, even if swimming strips the words off it before she can follow it anywhere dangerous.
+And God, the picture worked on me. Not merely because he arranged her naked body with that calm competence—although yes, absolutely that—but because she goes away and makes herself into the version she wants preserved, then he takes over without erasing that choice. Shoulder, hip, knee, a kiss after every placement. That is precisely the combination I keep wanting from them: she decides to be looked at; he makes looking feel like care. The photograph gives her back a self she can recognize as beautiful. Sending it is genuinely brave, which makes the concealed relationship underneath that trust feel worse, not better.
 
-And I understood the *maybe* completely. She can admit love alone in his bed while he sleeps. Saying it to Cassie would make it a fact in the world, and facts can be tested. Then she might have to ask whether he loves her, what exactly they are building, why he never says anything, and whether the place he has made for her is really hers when she still knows so little about the house she is entering. “It’s all so fast” isn’t false. It’s the warning underneath the happiness finally getting one sentence.
+“No man had ever wanted her body like this one did” could have been standard romance mush, but the distinction that follows is the whole book for me: with him she is a girl who has a body, not a body dragging a girl behind it. Yes. That is why I believe her love, and why I cannot dismiss Pace as simply a manipulative man with excellent manners. He sees her personhood constantly. He is also withholding the fact that will make her question every instance of being seen.
 
-This is the second quiet chapter in a row, and I noticed. But I wasn’t restless inside it. The physical repetition gave her interior life somewhere to exist without the book turning it into another erotic revelation, and honestly, thank God. Still, I want the next chapter to put another person in the room. Preferably Randi, because Vee has now privately named love for Pace while remaining one glazed-pastry kiss away from having to name what her body knows about Randi.
+The sex had real charge without feeling like another scheduled performance, and I loved that she could be spent, sore, greedy, vain, composed, hungry, and then greedy again. She is not being purified into some tasteful literary heroine. Thank God. “Again” changing from a question to an instruction got me.
 
-GATE 40 — Strokes
+The kitchen afterward was almost indecently domestic. Water first, wine after. Her in his shirt, his whole attention sinking into the food, his pleasure when she takes the first bite. She has learned to taste because he fed her closely enough to teach her attention. That is romance to me, much more than a speech would be—though I still want the speech.
+
+And then, finally, she touches his past and he turns into a locked door. “This is my home” warmed me for half a second before I realized it meant *do not ask where I came from.* Vee’s choice to let the quiet be kind is tender, but I’m uneasy that she so quickly interprets his boundary as something she must never approach. She is putting more and more of herself into his hands while whole regions of him remain inaccessible.
+
+Sheri coming to Thanksgiving made my stomach tighten. Not because I think Pace and Sheri are sexual, but because here comes yet another woman who knows the real arrangement while Vee sits outside it. Vee’s flash of jealousy was sane information, and she extinguished it the instant Pace supplied a sympathetic explanation. She trusts his framing so readily. Now Sheri is actually approaching the table, and I need to see whether Vee feels the imbalance when she is face-to-face with someone else who has been briefed on her life.
+
+What I’d text at 1 a.m.: “She made him promise not to share her and he promised not to share the PHOTO. I am unwell.”
+
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 0
-ROMANCE: 2
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was quiet in a way that deepened Vee instead of merely delaying the next event. I’m continuing eagerly, but the book has now spent two chapters in reflective stillness, so I want the next one to make contact—with Pace, Randi, or the concealed truth.
+WHY: The naked photograph was intensely erotic and genuinely tender, while its carefully narrowed promise made the hidden arrangement feel newly poisonous. Pace’s past finally showed a locked edge, and Sheri is about to enter the domestic space carrying knowledge Vee does not have; I’m already turning the page.

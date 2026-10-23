@@ -1,28 +1,24 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-07*
+*capture-dag-v2-rich · gate ch050 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · 2026-10-07*
 
-REACTION —
+REACTION — Oh, this hurt in the exact spot chapter 51 opened up. The previous chapter gave me Randi inside the fairytale and finding it hollow; this one gives me Vee outside the fairytale, imagining it full, and the mismatch between them is so tender and awful I wanted to put my phone down and stare at the ceiling.
 
-Oh. Oh, Randi.
+The bedroom got me immediately. Not because “going home feels weird” is new, but because the room loves the wrong version of her. That is such a mean little emotional truth. All those trophies and ribbons and old friends on the board, the childhood bed her legs outgrew, the lavender plug-ins, Wheel of Fortune downstairs: it is safe, loving, ordinary, and somehow suffocating. And Vee is not being cruel about her parents. She knows the food is love. She knows the questions are love. But none of it can hold what she has become. I felt that, hard.
 
-I was braced for Pace after that doorway, so opening on Randi in this snow-globe rich-person nightmare knocked me sideways in the best way. I could feel immediately why this was called “Fairytale,” and I loved that the chapter let the fairytale be genuinely seductive before it turned. The father with the steak and eggs, the mother made of labels and angles, Randi inventing boys at breakfast because fake men are safer than real desire — that is such a clean little wound. She has been performing heterosexual ease so long she can do it over smoked salmon with lemon.
+And God, the photos. The whole induction photo versus the cropped one feels like the entire book in miniature: Vee herself doing the cutting because she knows where each version of her is allowed to exist. The leg is not just sexy; it is the part of her that felt most like herself, and she removed it for home. That made me ache more than if someone else had censored her.
 
-And then John. I hate how much I enjoyed him at first. The lift-line wife bit, the three imaginary children, the way he is better than her but does not humiliate her with it. That is exactly the kind of competence romance has trained me to respond to. The skiing has charge. The dancing has charge. The white tie, the blue dress, the sleigh, the snow in her hair — yes, fine, I am not made of stone. For a while I was almost reading it as origin story, like maybe this is the man who could have been the acceptable version of Pace, the approved door.
+The Randi overlap is deliciously painful because I know, freshly, exactly where Randi is and what she is not saying. Vee envies the poisoned glamour while Randi is lying next to the perfect acceptable man feeling nothing. Vee thinks Randi is living out loud, but Randi is also hiding, just in a prettier room. And Vee’s text being genuinely gentle, genuinely undemanding, while Randi gives back the fairytale because she cannot bear to say the truth — I’m invested. I’m anxious. I want them in a room together immediately and also dread it.
 
-But the whole time, Pace is underneath it like a bruise. The comparison during the dance got me especially: John leads firmly, easily, completely, and Pace’s lead asks her to be awake. That is such a devastating distinction. She thinks she wants ease, and then the book shows what ease costs her. John never does anything especially wrong. That is the nastiest part. He is beautiful, competent, socially perfect, sexually good, and he cannot find her. He takes the beautiful woman to bed and never gets under the surface. Pace, maddening impossible Pace, reaches her even on his worst night.
+The Pace jealousy spiral was brutal because it is so young and so recognizable without making her stupid. Once she has no name, she has no standing; once she has no standing, every invisible hour becomes a place to put a woman. And the way she cannot even keep her own memory safe from the imagined blonde sitting in her sheet at his table? That was nasty in the best way. I could feel the panic of trying to self-soothe and having the soothing image turn against you.
 
-And then Vee enters the room without entering it, and the chapter changes temperature. Because this is Randi admitting to herself what she cannot say: Vee is not just a project, not just “for us,” not just the pretty hungry girl across the table. Vee is the person whose text can puncture an entire Alpine fantasy. Vee is the thing the room cannot counterfeit. “Vee was her gorgeous” actually hurt me. It is possessive and tender and evasive all at once.
+No heat here in the direct sense, but there is charge everywhere: the remembered fra diavolo, the induction picture, Randi’s “gorgeous,” Pace’s absent arms. The erotic life of the book is still present because Vee’s wanting is present. It hasn’t gone coy; it has gone lonely.
 
-I’m angry at Randi, but not in the clean way. This chapter made her cowardice legible. She knows exactly what she is doing when she decides not to tell Vee “in a way that would make Vee decide what to do with it.” That is the ethical rot, right there, and she knows it. She dresses it up as preserving the friendship, but it is still withholding the thing Vee would need in order to choose. And because I have just watched her lie at the family table, lie beautifully and survive by it, I understand why honesty feels like jumping off a cliff. Understanding does not absolve her. It makes it worse and more interesting.
+I do want Pace’s next move, desperately, but this chapter convinced me the book is not stalling. It is tightening the knot. Vee has Randi as a date on the calendar and Pace as a blank, and that feels dangerous in a much more interesting way than a simple breakup. I am still mad at Pace. I still want him to show up with words. But I’m also starting to feel how much the next collision may happen through Randi before it happens through him.
 
-Also: heat without intimacy is such a good move here. The sex is mostly afterimage, lipstick left on him, warmth only where their bodies touch. It is explicit enough emotionally that I don’t feel cheated, even though the physical act is mostly skipped. Normally I’d be side-eyeing that, but here the emptiness is the point, and the erotic charge was all in the lead-up and the awful contrast after. It left me cold in the exact way Randi is cold.
-
-I wanted Pace’s answer, and instead I got Randi’s locked room opened. I’m not even mad. This book keeps making the triangle less convenient and more dangerous. I want back to Vee immediately, but now I’m carrying Randi’s fear with me too.
-
-GATE 51 — Fairytale
+GATE 52 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "Afterward she stayed against him."
-WHY: For one second I worried the chapter had spent all that gorgeous snowbound charge just to give me a side romance detour, but then the hollowness snapped into focus and made the whole thing matter. This pulled me hard because it gave Randi a wound, a desire, and a deliberate moral failure in one chapter. I need the next Vee/Randi/Pace collision badly now.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "The days behind her ran together beige."
+WHY: This was quiet, but not empty; it made Vee’s loneliness and divided self feel sharp enough to cut. I’m very ready for the term to start, because Randi is now the “sure thing” and Pace is the absence, and that is exactly the kind of emotional trouble I want.

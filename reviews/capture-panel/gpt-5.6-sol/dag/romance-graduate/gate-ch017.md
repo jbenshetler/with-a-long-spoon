@@ -1,30 +1,20 @@
-*capture-dag-v2-rich · gate ch017 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch017 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha bca2ed17019a · 2026-09-29*
 
-REACTION
+Oh, this is exactly the conversation Vee needed to have with Cassie. Not Randi, who would have turned every detail into fuel for the fantasy she and Pace are secretly building. Cassie lets Vee tell it crookedly, lets her retreat into jokes when it gets too tender, and still catches the important things: the heat turned up hours beforehand, the unspoken door inside Pace’s request, the difference between being exposed and being welcomed. “He asked” is such a small correction, but it tells me Cassie understands what Vee is actually trying to explain.
 
-Oh, this is exactly the book I wanted and almost never get.
+And Vee saying it felt like she was *supposed to be there* got me. That’s the deepest hunger in her—not simply being desired, but discovering that her body belongs in the room exactly as it is. Pace keeps giving her experiences that answer that hunger with almost frightening precision. The silk, the warmth, the box, his eyes: it’s romantic as hell, and also increasingly difficult to believe he doesn’t understand how powerfully he is shaping her attachment. I’m still into him. Deeply, inconveniently into him. But this man is becoming the architect of her sense of worth while she remains ignorant that he and Randi chose her in advance, and the eventual reveal is going to be vicious.
 
-A powerlifter cutting burgundy silk while the woman on his couch realizes she has soaked through the pretty panties she wore for him. I would be texting someone that sentence at one in the morning in all caps. This is filthy without rushing to the obvious act, and the filth is inseparable from being attended to. Of course her body responds to patience, precision, being studied, being worth hours of skilled work. That is so much more specific and revealing than generic foreplay.
+I loved how delighted Vee is with her own appetite here. The wicked little sideways look before “*I* was grinding on *him*” made me grin. She isn’t merely being awakened by a more experienced man; she’s finding out that she can affect him, tease him, make him lose his composure. That matters. She came home not ashamed of getting wet or of wanting more, but thrilled by the power she discovered inside the wanting. That feels like real movement.
 
-The wet spot absolutely got me—not just as heat, though yes, extremely as heat, but because I knew exactly how catastrophic it felt to Vee. Her body has betrayed her in the language she was raised with, and she is trapped on a literal pedestal while the evidence spreads. When she shut her eyes, I was braced right alongside her for Pace to either pretend not to notice or turn her humiliation into his sexy little victory. Instead he waits at eye level for her face. He sees the thing she cannot bear to have seen and makes the important fact not that she is wet, but that she is *her*. I had to stop there. That smile rearranging her posture—actually changing how she occupies her body—was enormous.
+The “are you sure he’s not gay?” routine made me roll my eyes a little—it’s familiar, dated banter built on the assumption that a straight powerlifter couldn’t possibly sew or restrain himself—but it didn’t spoil the scene, especially because Vee’s correction immediately turns into such funny, horny evidence.
 
-And then she discovers she can affect him. Thank God. I have loved his control, but if she stayed only the grateful recipient of his perfect attention, the whole dynamic would eventually curdle for me. Watching her get playful and a little wicked, deliberately press her breast to his face, and make this terrifyingly composed man blush was delicious. “Oops. Sorry.” Vee! There you are. Her appetite is becoming something she can wield instead of merely confess.
+Mostly, though, I’m relieved Cassie is still here and Vee is still telling her things. The earlier dismissal of Cassie as not belonging in Randi’s world had me worried. This room feels safe in a way neither Randi nor Pace’s spaces entirely can: nobody is arranging Vee here. Cassie can tease her mercilessly without making her an experiment. Please, book, do not make Vee lose this friendship while chasing the feeling of being chosen by everyone else.
 
-“Keep still” nearly killed me because he means it in every possible register, and because he chooses to finish the dress. He wants her badly; she knows it; he knows she knows it. But the gift does not become an excuse to collect immediate payment from her body. Even after she starts offering him openings, he keeps faith with what he said he was going to do. And then they start cheating by millimeters together—the hand down her spine, the finger behind her knee, the breath below her navel. That is hotter to me than a dozen interchangeable penetration scenes.
-
-The romance is not separable from the heat here. He remembered the discarded wish, chose the color for *her* rather than obediently reproducing the magazine, learned every dimension of her, and is making something for the night when her achievement will be publicly named. He is eroticizing her body without stealing the occasion from her intellect. That combination is offensively effective.
-
-But the secret is poisoning every perfect thing in advance. Vee thinks he “walked right past Randi, Randi!” and I wanted to reach into the page. He did not. Randi selected her. Pace already knew exactly who was coming toward him. Even this gorgeous hour exists inside a plan Vee still cannot see. The warm house, the prepared platform, the light, the silk—how much is tenderness and how much is staging? Obviously both, and that is why I cannot breathe normally around this book.
-
-Also: the riser. He built it. I know he makes furniture, so it can be innocent. I also know what else he builds and disguises as innocent furniture. I have not forgotten the bench for one second.
-
-Still, Vee’s transformation here is real regardless of their machinery. Nobody manufactured the joke she made, the power she discovered, the way she straightened, or the choice to press herself against his face. Her desire belongs to her. That truth is becoming more precious with every chapter because I know the revelation may make her doubt it.
-
-GATE 17 — A Round
+GATE 18 — Turned Up
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This gave me explicit charge, adult restraint, psychological specificity, and a genuine turn in Vee’s relationship to her own desirability—all in the same scene. I’m already reaching for the next chapter, thrilled by what she has claimed and sick with anticipation about the secret underneath it.
+CAPTURE: 8
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: “Vee. Are you sure he's not gay?”
+WHY: A warm, necessary exhale that deepened what the measuring meant instead of merely replaying it. Vee’s joy, Cassie’s quiet understanding, and that final wicked confession kept me completely with them—and I badly want to see what happens when the finished dress brings Vee back into Pace’s house.

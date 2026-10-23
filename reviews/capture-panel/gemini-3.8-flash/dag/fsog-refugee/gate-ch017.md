@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch017 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9480caafaef2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch017 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bca2ed17019a · 2026-10-01*
 
 REACTION
 
-I am sitting here with my hand flat against my chest trying to catch my breath.
+God, my heart. My actual heart.
 
-This is it. This is the exact reason I read romance, the thing I spent years digging through Fifty Shades knockoffs and mafia garbage hoping to find, only done a thousand times better. The tension in this room was so thick, so completely unbearable, and not *once* did he cross a line she didn't beg him to cross. In fact, he did the most intensely dominant, exquisitely caring thing possible: he held the line *for* her, so that the gift stayed a gift, while letting her see just how much holding it cost him.
+Every time Vee comes back to that dorm room to debrief with Cassie, I feel like I can finally breathe again, but this time I was holding my breath for a completely different reason. I am so deeply, hopelessly in love with their friendship. Cassie isn’t just a sounding board; she is the mirror Vee needs so desperately. The way Cassie catches the weight of what Vee is saying—the fact that she dropped her textbook the second Vee walked in, the way she clocked the shirt immediately, the quiet, devastating beat when Vee realized *he turned the heat up hours before so she wouldn't be cold*—it kills me.
 
-When she was on that box dying of shame over being wet—over her body doing what women are taught to despise themselves for—and she finally forced her eyes open expecting disgust, or that awful polite pity… and he was just *looking up at her, smiling like he’d been handed a gift*? I felt the knot in my own throat give way. That is healing. That is the kind of gaze that undoes a lifetime of being told you’re too big, too loud, too hungry, too much. He didn't look down to leer, and he didn't look away to pretend. He just looked at her face and let her know she was wonderful to him.
+"Oh, Vee." That little soft murmur from Cassie when she understood the heat. That’s love. That’s pure, unconditional tenderness from a best friend who knows how hard Vee’s life has been, how policed and starved she’s felt, seeing her finally be cared for.
 
-And then Vee! God, I love her. The moment she realized she was safe, she didn't just relax—she stepped into her power. Rising up on her toes, pressing her breast against his cheek on purpose, saying "Oops. Sorry." That is a woman discovering her desire from the *inside out*, not just performing it for a man. Watching Pace flush red, fighting that grin, kissing the spot where the pin pricked her ribs, and then telling her, low and strained, *"Keep still"*? Holy hell. The erotic charge of a fully clothed man exercising that kind of restraint while kneeling in front of a woman in nothing but pinned silk and soaked satin is a million times hotter than any graphic scene where someone gets thrown against a wall.
+And what Vee took away from that sun porch! That line: *"It was like his eyes asked, May I look."* That is the entire crux of what I have been looking for in this genre for ten years. A man who wants her out of his mind, who is strong enough to snap a board in half, but who holds his hands still, leaves the door wide open, and asks with his eyes. And because he left her room to exist, Vee didn't shrink. She didn't hide behind her mother's ugly shame. She stepped into her own power.
 
-Underneath all the heat, there's that ache in my stomach, because I remember Randi. I remember the bet, the stalking on the quad, the bench. But right here, in this glass porch in the afternoon light, Pace isn't running a script. You cannot fake the sweat on your neck or fighting a laugh or having your hands tremble over a hemline. He is falling for her. And she is completely, utterly his.
+When she told Cassie, *"I was grinding on him"* and fell back onto the bed laughing into the pillow? I kicked my feet. I literally kicked my feet on my couch. The utter joy of a girl realizing her desire belongs to *her*, that she can tease, that she can want, that she drove this terrifyingly controlled, brilliant man to the absolute edge while he was trying to pin a hem—it is intoxicating. She isn't just an object being seduced; she is waking up.
 
-GATE 17 — A Round
+The only thing that aches, the shadow sitting at the edge of the bed with them, is what I know that Cassie and Vee don't. Pace and Randi. The game. Every time Vee experiences real, transformative tenderness from Pace, it’s built on a foundation that started as a secret wager. It makes the beauty of it almost painful to read, because Pace *does* care. You cannot fake turning the heat up hours in advance. You cannot fake kneeling at a woman's feet to save her from her own shame. When the truth comes out, it is going to tear her in half.
+
+Until then? I am drinking down every drop of this warmth.
+
+GATE 18 — Turned Up
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological precision of her shame turning into power under his gaze was breathtaking. This is masterclass intimacy and restraint.
+WHY: The decompression between Vee and Cassie is unmatched; watching Vee process the incredible tenderness of Pace turning up the heat and asking with his eyes—and then gleefully owning her own power and teasing—made my chest ache in the best possible way. I need the next chapter immediately.

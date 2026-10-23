@@ -1,32 +1,28 @@
-*capture-dag-v2-rich · gate ch020 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0eff5df4f29c · 2026-10-10*
+*capture-dag-v2-rich · gate ch020 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 332b2e10547e · 2026-10-23*
 
-## REACTION
+**REACTION**
 
-Finally. Twenty chapters in. I said out loud to an empty room, "okay, there it is."
+The zipper. Oh my god, the zipper. She has it halfway down, three feet from Cassie, and remembers there's nothing under the skirt because she handed the green satin to him folded in thirds. Then she zips back up and says "I forgot my." That's the best moment in the chapter, and nobody even touches her in it. It shows the whole problem: the version she's been feeding Cassie is about to fall on the floor in front of her. And Cassie says "You need to get your brain back from your boyfriend," which the book calls "kindly, certainly, wrong." I'm also holding onto the half-second where "something crossed her face" when Vee walked in. Cassie saw something. Maybe the fire lane, maybe the empty bed Friday night. I said please let it be Cassie and please don't. I'm still saying both.
 
-And it was worth the wait, which almost never happens. A slow burn usually blows it here: it either fades out or turns into the same choreography I've read four hundred times. This didn't. It stayed in the room with the door open and it stayed in her head the whole time. The crystal strings when the satin comes down and "She saw him see them." I've never read that in a romance. Most of these books pretend wetness is a tasteful little glow. This one made it the whole point. She's been dying over that thumbprint since the fitting, and here he meets it with his mouth before he's even bared her. That's the payoff for the riser chapter, and it landed somewhere low in me.
+The ladle line, about lifting the middle out so "the surface closes without a hole," is gorgeous. Then the book adds "It was a kindness. She believed it the way you believe the thing that lets you keep what you want to keep." Okay, that one I'll allow, because it's mean to her and she earned it.
 
-"Would you be bothered if I was too hard?" I had to read it twice. It's clunky as a sentence, but I got what it was doing: he's handing her shame back to her as his, a call-back to her "pre-aroused" joke. Clumsy, but sweet, and it made me grin.
+Then brunch, and I was braced. This is the fourth retelling of something, and my notes literally say the next one gets skimmed. I didn't skim, because this time the retelling is the thing being withheld. Vee does the fade to black herself, out loud, to Randi: "*and then, well.*" Normally that's my DNF trigger. Here the fade belongs to the character, not the author, and I'm watching Randi starve on the other side of it. "I'm running on fumes here." Yeah, Randi, I bet you are.
 
-The best line for me was "she was not watching herself do any of it." The whole book has been her watching herself. The froyo cup, the cardigan, the shelf at the Smoothie Bird. And the closing beat, "the shame ran the whole length of it and never closed her," is the actual emotional event of the scene. I believed it.
+Randi's fake-boyfriend story wrecked me once I thought it through. Friday night Pace was with Vee. So where was Randi? Making up a nervous boy "in a hurry, like the building's on fire," the exact opposite of the man Vee is about to describe, so she can sit there and get told "he wasn't in a hurry, at all." She built the setup so the answer would hurt the most. Then the esses running long, the eyes gone liquid, one mimosa barely touched (of course she didn't drink it). Vee thinks "drunk," dismisses it, and lets it go. I didn't let it go. That's arousal or grief or both, and I'm glad the book didn't name it.
 
-The part that started to grate was *floozie*. I counted five. I get it: the heat and the shame run on the same wire. Except the book also said exactly that, "there was no seam, they ran on the same wire," and then "It was the first time that had been true." That's the book explaining itself to me again, my old hair trigger. "*Floozie,* said the voice. That was the worst it had" is great, though. They could have cut two of the others.
+The toes, the plum picked to match the silk, the underwear as a "campaign": Randi pulling every one of those out of her is basically a scene of Randi undressing her. It's the hottest thing in the chapter, and it's all in the questions. And I noticed Vee never says where the panties went. Randi didn't ask. Either she doesn't need to, or she's saving it for Pace. "Tell."
 
-The little stuff before the sex was gorgeous and I'd have read a whole chapter of it. The green set bought for the color. Frosted plum toenails hidden inside ballet flats. The skirt "like a short story." The prep all done and the pan dry on the burner, so he'd planned for her to interrupt him. "Famished." Then she doesn't drink the wine. God.
+"You're not caught, sweetheart. You're lucky." I believe Randi meant it. I'm also aware it's the most caught line in the book.
 
-Then the ending. "Trade." Folded in thirds, spot centered, and the sheet on the floor that neither of them looks at. That's her taking the "Oops. Sorry" from the riser all the way, and I loved her for it. She's the one choosing every step. The jacket promised that.
+What lost me a little was the paragraph explaining what Randi is to Vee ("the person you got to *tell*... the friend she'd wanted at fifteen"). I already knew. Same with "She had never in her life been so happy" and "the day was good." That's the stapled-on ending again, though this time it works as dramatic irony, the calm before something. She didn't check the street after the kiss. That's growth, and it's exactly how she gets seen.
 
-And then my stomach turned over. Because I know where Pace's evenings go. Randi straddles him and says *Tell*. He kept "her stomach is soft" from her, but he still told her the gardenia, the chlorine. Now he's holding a folded pair of green satin panties, the most private thing Vee has, handed over as a gift. Does Randi ever see them? Does he tell? "Something in his shoulders was private" is meant as tender and it scared me.
+Text to a friend at 1 a.m.: *the best friend is interrogating her about sex with the friend's own boyfriend and calling it girl talk and I can't breathe.*
 
-Also, Randi kissed Vee on the mouth one chapter ago and Vee doesn't think about her once in this whole chapter. Not once. That silence is loud. Then there's the scar high on his inner thigh, dropped without comment. Daphne? Something else? The book is setting things up and I'm noting every one.
-
-What I'd text at 1 a.m.: "SHE GAVE HIM HER PANTIES. FOLDED. and all I can think is RANDI IS GOING TO HEAR ABOUT THIS."
-
-GATE 20 — Famished
+GATE 21 — Fed
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "and she could not find the seam between the heat and the shame because there was no seam, they ran on the same wire" (the book telling me its thesis right in the middle of the scene, with the fourth *floozie* close behind)
-WHY: This is the scene the whole slow burn owed me, and it paid in full: explicit, inside her head, her shame met instead of managed. The "Trade" ending is gorgeous, but with Randi's "Tell" waiting in the wings it reads as a loaded gun. I need to know where those panties end up.
+CAPTURE: 7
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "She gave Randi the same dinner." (my heart sank: retelling number four) and later "Randi was the person you got to *tell*: the one Vee could say anything to, who knew things…"
+WHY: It's a debrief chapter, which I'd warned myself about, but the zipper and Randi's slurring voice made the withholding the plot instead of the padding. It isn't hot on the page, but Randi's hunger across the table is, and now I badly need the next scene in Pace's bed. Does she say *Tell*, and what does he hand over? NEXT is higher than CAPTURE because I want to see that.

@@ -1,5 +1,7 @@
 # Condensed — Off Six-Fourteen
 
+> Merged into `scenes/dear.md` as the Saturday movement on 2026-10-23. Historical standalone notes and reader rulings below remain in force.
+
 *VIGNETTE · Draft complete · `off-six-fourteen.md` · the same evening as {{May I Choose}} · Vawter Hall, the dorm room · Vee's POV · Cassandra track*
 
 ## Summary

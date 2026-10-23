@@ -1,31 +1,22 @@
-*capture-dag-v2-rich · gate ch017 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9480caafaef2 · 2026-10-10*
+*capture-dag-v2-rich · gate ch017 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha cbd9e3cb7358 · 2026-10-10*
 
-## REACTION
+**REACTION**
 
-Oh my god. Okay.
+Okay. I love Cassie, and I'm glad she got a real scene and not four words and a ball cap. The hand on Vee's knee, "once, and took it back," got me. "Vivienne." got me both times. "You keep taking your shirt off in front of this guy and not getting any?" was me, out loud, on my couch at chapter 17. She's still my favorite person in this book, and this chapter is a little gift to her. I'll take it.
 
-This is the chapter I've been waiting seventeen chapters for, and it isn't even sex. I've spent years telling people that the best scenes are clothed, and this is me getting proven right at 1 a.m. She's topless on a riser in hopeful satin, being measured by a man with a pencil behind his ear. The *rhythm* of it is what did it to me: close, two touches, step back, write it down. By the third time he walked back to that pad I could feel the ringing where his hands had been. The book taught me the pattern the same way it taught her, and then it made me wait inside it.
+But I *just read* chapter 17. All of it, every pin. Now I'm getting it back in summary from the girl who lived it, and I'm noticing a pattern I don't like. Mountain, then Cassie retells the mountain. Mountain again at the dining hall for Meg and Kayla. The dress fitting, then Cassie retells the dress fitting. That's three debriefs of scenes I was standing inside, and this is the weakest of them because the scene it's retelling is the freshest.
 
-The wetness thread was brave, and I mean brave for a romance. Every book I own treats her arousal as the reward, something he finds and gets smug about. Here it's the *horror*. "It was big and dark and stupid." The thumbprint gets bargained with on the couch under the blanket. "The hope was visible." That line got me in the gut, because I've been that woman managing her own body out of existence in public. Then he goes around her on his knees, and she shuts her eyes and counts. I was holding my breath with her. When she opens them, he's craned his neck all the way up so she'd see his face before anything else, and he never looked down. That's the turn. That's the man from the jacket, "sees Vee completely," made into something you can actually picture. I teared up a little, which is embarrassing.
+Worse, the retelling keeps doing my job for me. "He left me a door." "He asked." "It was like his eyes asked, *May I look.*" "Like I was supposed to be there." I *got* that. The whole point of 17 was that I felt it without anyone saying it, the way she rose up on her toes. Hearing her say it out loud to Cassie flattens it. That's my hair trigger: the book explaining its own subtext in case I missed it. And that's on top of the warm-house reveal getting a second "Oh, Vee." "Are you sure he's not gay?" is a bit I've read in a hundred KU books, and it's beneath these two.
 
-Then she gets *bold*, and that's the part I'll be texting people about. "Oops. Sorry." I cackled. Him going red, losing the fight against the grin, the pin, the kiss on the bead of blood. "I was worried I was going to have to come over here pre-aroused every time I wore it." Finally Vee gets to be *funny* in a sex scene, and grown-up funny at that. This is the interiority-plus-heat combination I keep saying doesn't exist.
+What saved it was the end. "*I* was grinding on *him*." That's new. Chapter 17 had her bending into him "more than the dress asked," but it didn't let me see her own it. Watching her own it, wicked and delighted and rocking with a pillow over her mouth, is exactly the Vee I want. She's turning her mother's "floozie" into a joke she tells her best friend. That's growth I didn't just watch happen. More of that, please.
 
-Now the suspicious part of me, which never fully switches off in this book. The long low table in the den, the one she crouched down to touch the joint on? That's the bench. Randi called it a table. Vee had her fingers on it and has no idea. Two towels on the bathroom rod, and the bedroom door kept shut. And then "who'd walked right past Randi, Randi!, without even looking." I actually said "oh honey" out loud. She thinks she won. The book is letting me sit ahead of her, just like the jacket promised, and it's working on me exactly as advertised. That makes me uneasy in the good way.
+What I actually wanted from this slot was the Randi debrief. After "I want us," after Randi got off on gardenia and chlorine and then *left* before she'd even caught her breath, I want to see Randi's face when Vee tells her about the box. Giving that to Cassie instead feels like the book stalling, or saving it. Maybe saving it. I'll give it the benefit of the doubt once.
 
-I'm also holding chapter 14 against this one. Randi showed up on the same day as the hike, rode him for gardenia and chlorine, said "I want us," and *left*. Her belly went tight as a board, and he read it as want, again. Today's softness in this chapter is built on top of that. Is Randi going to get the measurements as her "Tell" tomorrow night? Probably. God help me, I'll read it.
-
-Where it lost me a little:
-- "Wryly." It's a one-word stage direction, and I physically winced.
-- The bold **QUIZ TODAY** was cute but broke the spell.
-- The last paragraphs explain the chapter to me: "had spent the entire afternoon being seen at her most ashamed and had not, once, been found wanting." I *felt* that already, an hour ago, on the riser. You don't need to staple it to the door.
-- It's long. The wetness spiral could lose a page.
-- It's also another chapter of him choosing restraint at the last second ("Keep still"). I love it here, but I can feel the pattern settling in. Next time the restraint has to *break*, or it'll start reading like a tic.
-
-## GATE 17 — A Round
+**GATE 18 — Turned Up**
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "*Maybe he'll think it's the cold air.* Except he'd thoughtfully turned up the heat. Wryly." It was a one-word hiccup, nowhere near quitting, but it's the closest the chapter came.
-WHY: This is the both-at-once I came for: explicit charge, real shame, real humor, and a man whose kindness actually lands on her body. Her opening her eyes to find him waiting, and him never looking down, is the best beat in the book so far. I need to know whether that bedroom door opens, and what Randi does with "Tell" after this.
+CAPTURE: 5
+NEXT: 7
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "It was like his eyes asked, *May I look.*" That's the book explaining back to me the scene I'd just felt, and it's the third retelling of something I already saw.
+WHY: It was a quiet chapter that mostly told me what I already knew, and it only came alive at "*I* was grinding on *him*" and Cassie's hand on her knee. I'm still pulled forward by chapter 17's afterglow and the Randi conversation I can feel coming, but one more recap and I start skimming.
