@@ -2,8 +2,8 @@
 # at that volume's opening chapter. Missing future-volume packets fail closed.
 #
 # Source of truth: meta/meta-blurb.md (Test-epub blurb + tagline) and
-# meta/meta-cover.md (Cover text). Volumes 1 and 2 regenerated 2026-10-20, Volume 3
-# 2026-10-23, to the post-split copy. Standing rules (author 2026-08-09, renumbered): tagline ends on
+# meta/meta-cover.md (Cover text). Volumes 1 and 2 regenerated 2026-10-20, Volumes 3
+# and 4 2026-10-23, to the post-split copy. Standing rules (author 2026-08-09, renumbered): tagline ends on
 # "problem" not "trap"; no "third in their bed" promise (threesome is a Volume Four
 # payoff — early copy foregrounds the plan); warmth-first, all three principals named;
 # no "girl"/girlhood on the jacket (2026-10-20).
@@ -16,7 +16,7 @@
 # refresh this inline copy. Stamp before syncing the text and the packet will
 # serve stale copy while reporting "in sync."
 
-blurb_source_sha256 = "226959dde1a7462281d79282820f10dad26cb05c7a419074e8d76829169603ec"
+blurb_source_sha256 = "e79988ecf4d2625ae9add322785c3aa802821fbc947271ca120eddef04c1ef32"
 
 [volumes."1"]
 opening_slug = "the-bench"
@@ -82,12 +82,25 @@ The jacket / blurb page:
 >
 > *Book Three of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*'''
 
-# Volume 4: TITLE-ONLY card (author ruling 2026-08-23, renumbered from 3 on
-# 2026-10-09). No jacket/blurb/tagline has been drafted for the summer. The title is
-# now DECIDED — "A Hot Meal", the fork with "A Proper Serving" closed when that title
-# went to the spring. The reader gets cover-board fact only, so a summer chapter can be
-# cold-read as the summer chapter it is while carrying no marketing copy. Replace with
-# the full jacket once the blurb exists.
+# Volume 4 (summer, "A Hot Meal") — full jacket, recorded 2026-10-23 (the copy
+# under "## Volume 4 blurb" in meta/meta-blurb.md). Replaced the title-only card
+# (author ruling 2026-08-23) it carried until a summer blurb existed.
 [volumes."4"]
 opening_slug = "ignition-scalding"
-packet = '''On the cover: the series line **WITH A LONG SPOON · BOOK FOUR**, the volume title **A HOT MEAL**, and the author **Helen Rivers**. (No tagline on the front — it is the blurb page's closing beat.)'''
+packet = '''On the cover: the series line **WITH A LONG SPOON · BOOK FOUR**, the volume title **A HOT MEAL**, and the author **Helen Rivers**. (No tagline on the front — it is the blurb page's closing beat.)
+
+The jacket / blurb page:
+
+> As much as Vee wants Randi, she won't risk the friendship. She asks Pace to help her find another woman, and to be there to make her feel safe.
+>
+> Summer strips the campus down to the three of them. Vee and Randi dig all week for Dr. Marsh at separate sites, and the van ride out is the only time they have alone. Vee all but lives at Pace's house. Everything buried is coming up: the word Pace still won't say, the want neither woman will name, the fights about anything else.
+>
+> She thinks she has arranged it so she will never have to know who the woman is. Randi and Pace have known from the start.
+>
+> They believe the truth, when it comes, will set all three of them free. They have loved her for a year, and she has loved them both.
+>
+> *A Hot Meal* is the hottest book of the series.
+>
+> She asked not to see. Everyone else already can.
+>
+> *Book Four of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*'''

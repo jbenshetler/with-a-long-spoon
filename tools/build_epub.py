@@ -87,16 +87,15 @@ PACKAGING = {
         "description_from_short": False,
     },
     "spring": {
-        # The accepted copy was written for this volume's content under the old
-        # title; only its book number and volume title were updated 2026-10-09.
-        # The copy still wants an author pass — it was tuned to "warm".
+        # Jacket copy rewritten for the post-split spring, accepted 2026-10-23.
         "blurb_heading": "## Volume 3 blurb",
         "stem": "a-proper-serving",
         "cover": "images/cover.png",
         "description_from_short": False,
     },
     "summer": {
-        "blurb_heading": None,
+        # Jacket copy recorded 2026-10-23.
+        "blurb_heading": "## Volume 4 blurb",
         "stem": "a-hot-meal",
         "cover": "images/cover.png",
         "description_from_short": False,

@@ -21,6 +21,7 @@
 
 Dr. Marsh runs **two dig sites** — archaeological excavation under the anthro department; **both women are diggers**, assigned **separately**. Long days (12+ hours), apart all week, reunited depleted on weekends — both dirt-under-the-nails, both sunburned, with sites to compare. Consequences:
 
+- **The van (author 2026-10-23).** The diggers ride out to the field in a shared van; on the weekdays it is Vee and Randi's only time together, and it is precious. The days are long and hard, and both women love the work.
 - **Scarcity → the weekend triangle.** Vee's scarce free time is contested by Pace and Randi — the two tracks **compete for the first time**. Choosing one is a small allegiance/betrayal: it feeds the combustible Pace commitment-fights ("you'd rather be with her") and sharpens the Randi ache (rare = precious).
 - **Exhaustion lowers the guard.** Writing off the Randi desire takes energy she no longer has, so the cracks widen *because* she is too tired to police them; the fights ignite faster.
 - **The fieldnote-debrief is the summer form of the SATC brunch.** Comparing digs is the new deniable container for Randi's extract-and-steer — the retelling device in fieldwork clothing. The method is the mirror, not the topic (the spring anthro mirror: `meta-note-anthro.md`): **excavation — what was buried comes up, gets brushed off, gets catalogued** — runs under the climax act ({{Excavations}} makes it literal). Subtle, never explained; the fieldwork *subject* stays mundane/adjacent.

@@ -56,6 +56,8 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 
 ***Reduce before publication (author 2026-10-23).*** *Accepted at ~263 words, well over Book 1 (~183) and Book 2 (~260). Least-cost cuts already identified: "a college junior" and "each on her own nerve" (¶2), "and the one beneath it" (¶3), "before she was anything to either of them" (¶4) — about 20 words together. Paragraphs 2 and 3 were otherwise approved as they stand.*
 
+***If the spring splits (likely; seam undecided — `meta-volumes.toml` [spring_split]).*** *This copy covers the whole spring and divides with the summary. The Pace paragraph and the confession belong to the first half (reserved title* A Place at the Table*); the refusal-to-see and the struggle toward naming belong to* A Proper Serving*. Book numbers in "Book Three of" / "Book Four of" are hand-written in the copy and the packets — renumber them by hand.*
+
 > Two people have made Vivienne "Vee" Thorne's life richer than she knew to dream. She thinks she stumbled into them.
 >
 > She is twenty-one, a college junior, and she came to them already starving, and this spring she learns her appetite runs in more directions than one. Its steady center is Pace, a mathematician, courtly and exact, whose unhurried attention has made a home of the hours behind his door. Under it she does things the Vee of last autumn would have colored to imagine, each on her own nerve, until the daring itself becomes the thing she craves.
@@ -103,6 +105,25 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 > You had the warmest of welcomes too. You are still inside it.
 >
 > *Book Two of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact — full heat and full tenderness, dramatic irony with a dark undertow, a woman waking to a man and to the woman beside her, every step of it her own.*
+
+
+## Volume 4 blurb (*A Hot Meal* · copy recorded 2026-10-23)
+
+*Written 2026-10-23 from the Volume 4 summary, `meta-plan-summer.md` and the chronology (one summer chapter drafted), and re-read against the volume once it is. The hook is the author's. Arc, not detail: the summer frame in one line, then the pressure ("Everything buried is coming up"), the unknowing, and the cathartic expectation as the one dark cue. The terms of the arrangement (blindfold, silence, unannounced night) are deliberately OFF the jacket — they land mid-book at {{The Threesome — Agreement}}; the tagline gestures at the blindfold only. The woman's identity is open to the reader (dread, not mystery — `meta-note-threesome-reveal.md`); how the reveal lands, Vee leaving, and the Cassie coda never appear. Two optional additions held for the author: her full name in the hook ("As much as Vivienne 'Vee' Thorne wants Randi…"), and a Randi-steering beat ("Randi, who hears everything, helps her want it.").*
+
+> As much as Vee wants Randi, she won't risk the friendship. She asks Pace to help her find another woman, and to be there to make her feel safe.
+>
+> Summer strips the campus down to the three of them. Vee and Randi dig all week for Dr. Marsh at separate sites, and the van ride out is the only time they have alone. Vee all but lives at Pace's house. Everything buried is coming up: the word Pace still won't say, the want neither woman will name, the fights about anything else.
+>
+> She thinks she has arranged it so she will never have to know who the woman is. Randi and Pace have known from the start.
+>
+> They believe the truth, when it comes, will set all three of them free. They have loved her for a year, and she has loved them both.
+>
+> *A Hot Meal* is the hottest book of the series.
+>
+> She asked not to see. Everyone else already can.
+>
+> *Book Four of* With a Long Spoon. *Literary erotica: contemporary, explicit, and psychologically exact.*
 
 ---
 
