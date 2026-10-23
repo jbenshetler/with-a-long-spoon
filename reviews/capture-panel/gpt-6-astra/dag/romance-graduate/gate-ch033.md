@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch033 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 5274d9c5fd04 · 2026-10-10*
+*capture-dag-v2-rich · gate ch033 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 14896ed4fc37 · 2026-10-10*
 
 REACTION
 
-Randi, you absolute menace. “His hand was wet” got me more than the whole story she told afterward. That is such an intimate detail to reach into somebody else’s memory and pull out. Vee comes in trying to make it small and funny, and suddenly she’s back in that kitchen—and sitting opposite a woman who knows exactly where to look. Yes, I felt that. The closed door and the two chairs were plenty.
+Oh, Vee. “How did I look?” being the only thing in her head hurt a little. I wanted her to hear her name and think about having earned it. I also wanted her to take that long second step. Those wants sat awkwardly together through this whole ceremony, and I’m still sitting with them.
 
-But “Did you deserve it?” made me tense. I can enjoy that question as flirtation. Here I’m also hearing the woman who dressed Vee for an apology and arranged when she could give it. Vee is barely finding out what she liked before Randi supplies a way of understanding it. I want Vee to get to want this. I don’t want her shame doing all the agreeing for her.
+The relief about her mother landed especially hard once she found the actual reason. Loving someone, wishing they could afford to come, and being glad their eyes aren’t on your body today—that I believe. I liked that Cassie’s kind answer didn’t quite get there. She can be a good friend without possessing the answer to Vee.
 
-And who is “mine,” Randi? An actual former lover? Something invented for this particular audience? I caught myself trying to match the man to Pace, then getting annoyed that I was doing detective work while she was making me hot. I cannot take a story from her at face value anymore. “All better?” afterward is almost worse. You watched her get that flustered, and now you get to be the lovely, welcoming face she comes back to.
+And yes, the walk had charge. That tiny decision to lengthen her stride, after all the careful sitting and arranging, got me. I’m much more interested in Vee choosing to be seen than in another person explaining what she secretly wants. Sending Pace the photograph while keeping something of the experience for herself felt good, too. Please let her keep that. She doesn’t have to turn every discovery into a report for either of them.
 
-The thing that really hurt was Cassie saying goodbye to the side of Vee’s head. Oh, sweetheart. Your friend saved you a seat. I know how completely a new fascination can swallow the room, and I don’t need Vee to behave impeccably, but that little moment made me lonely for Cassie. Randi becoming “the most interesting person she knew” feels consequential.
+But I balked at “the room knew.” Did it? People can notice a gorgeous dress and a bare leg without collectively recognizing her private sexual awakening. I started feeling the book putting a hand on my chin and directing my response. The final sorting of pride and heat did a little of that too. I was already feeling the muddle.
 
-I was relieved this wasn’t just another account of the weekend. Something happened between them in that room, even if Vee still won’t quite claim it. Her arms being slow to come down after the goodbye—that I believe completely. I wanted to stay with that ache. Then she puts it down to him again, and I’m frustrated. How many more times does this woman get to kiss Randi, get aroused with Randi, want to keep holding Randi, and redirect the whole feeling toward Pace?
+Cassie nearly stole the chapter for me. Bright eyes she would deny, taking the picture, then buying her a terrible sandwich. “You can be famous at me” is exactly the company I wanted Vee to have afterward. Someone who remembers she is an honor student and can also enjoy her looking spectacular.
 
-Also, I saw the lecture pointing at everything that carries forward. I got it. Let me sit in class with these women without the board explaining them.
+I’m glad we actually went to the induction. It mattered that this promised day happened, and I don’t resent spending a chapter here. But the dress has now had its moment. I’m ready for the relationship to stop making Vee the only person discovering things while the other two keep hold of what she needs to know.
 
-I’m still reading, readily. But the deliciousness is getting tangled up with impatience. Randi has learned another vulnerable thing about Vee; Vee still hasn’t learned the essential thing about Randi. That imbalance is starting to hurt more than the secrecy thrills.
-
-GATE 33 — The Practice Room
+GATE 34 — The Induction
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 7
-HEAT: 2
+HEAT: 1
 ROMANCE: 1
-ALMOST-STOPPED: “She put it down to that.”
-WHY: I was thoroughly caught in that little room, and Vee reaching for Randi herself matters to me. But another retreat from recognizing her own desire leaves me less eager than the heat alone would suggest; I want the next encounter to change what she understands.
+ALMOST-STOPPED: “and the room knew, and not a soul in it could have said so out loud.”
+WHY: Vee choosing that second step held me, and Cassie’s affection gave me somewhere comfortable to land. I want the next chapter, but my appetite now is for the concealed relationship to move; another private awakening followed by somebody else interpreting it would test me.

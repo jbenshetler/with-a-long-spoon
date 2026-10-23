@@ -1,24 +1,32 @@
-*capture-dag-v2-rich · gate ch028 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 61c7a0ea34af · 2026-10-10*
+*capture-dag-v2-rich · gate ch028 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha e9e0311de50b · 2026-10-10*
 
 **REACTION**
 
-Okay, the first half of this chapter is the most romantic thing the book has done, and I can't stop thinking about it. There's no sex in it. It's a concrete pad under field lights and a boom box with electrical tape on the handle. "Being jelly doesn't work." "The space you're keeping. Close it, come all the way in, and my feet can't land anywhere but past yours." I felt that one in my sternum. Then "There's no sorry unless you take off a foot," and his smile coming up through the gravity. I've read a hundred dance-lesson scenes where the dance is just foreplay with steps. This one is about trust, about a woman who has kept a few inches between herself and everything her whole life. It's also hot, in that exact, firm-hand-on-the-shoulder-blade way. "Give me something to push back against." I want that on a mug. And I forgive it being a little on the nose, because it's built out of real steps (one-and-two, three-four) and not out of a sermon.
+I want to ring the bell on the sorority house, sit Vee down and say: honey. She's taking the fight with Pace to *Randi*. She's taking it to the one woman on earth who knows exactly what Pace will and won't do: "He won't text you, by the way." Randi says it so easily, and Vee hears good advice from a worldly friend. I heard a woman who has slept beside him all semester telling his other girl how he behaves. Then "We're going to get you ready." Randi is dressing Vee to go back to Pace. She picks the neckline, the shoes, the scarf, and which night. Randi has her hands on the clock of this relationship now, and a week ago she was across Pace's table calling his patience selfish. I don't know if this is Randi helping or Randi steering, and I think the book wants me not to know. It's working.
 
-Then the blonde showed up and I groaned out loud. *Oh no, are we doing this?* A stranger drops poison in one line, the heroine snaps, and the man walks out. That's the unsent-text conflict in cowboy boots, and I braced to hate it. What saved it is where the venom actually comes from. "Three dates, and she'd spread her legs like a slut." That's her mother talking. That's *floozie* finally turning on her, the shame the whole book has been circling, coming out at the worst possible moment. So it's an ugly scene, but it's *hers*. It isn't the plot reaching in to stir.
+The Cassie part at the top got me: the alarm, Vee faking sleep, that low "*Hrm*" from below the bunk, and the door shutting. Vee chose not to wake her twice in eight hours. Cassie gets nothing now, and Randi gets the whole thing. That ache is going to cost somebody something.
 
-Here's what I'd text a friend at 1 a.m.: SHE'S JEALOUS OF THE WRONG WOMEN. She's standing at the wall counting girls in crop tops, wondering who knows what his pillow smells like. Meanwhile I know exactly who knows, and it's the woman she's driving to in the morning to "fix it." Her gut is right and her aim is wrong, and the book is letting me sit with that. "How much of this was Pace, and how much was the Pace she'd been building out of wanting him." Yes. THAT is the question, and she let it go under the music. I can't.
+Yes, I got another debrief, and I'd warned myself the next one gets skimmed. I did skim the start. But this one isn't a straight replay, and that's what caught me. She has edited it. At the bar she actually said "Does your *service* include getting the girls home safe from here, too?" To Randi it becomes "whether his services ended at the door, or carried on inside." That's sharper and nastier, and she makes herself look worse. The bartender scene gets rearranged too: the water and the "good guy" line come in, and Vee is the one who repeats her jab to the bartender. That's the Vee from my notes who edits by audience, except now she's editing *against* herself, putting on the hair shirt for Randi. I believe it. It's smart. I just hope the book knows it's doing it, and I think it does.
 
-The bartender delivering "Wasn't him they were jealous of, honey" was a little convenient, a wise old woman handing down the moral at closing time. Still, I'll admit it landed. Then the last stretch in bed went and spelled it out for me again: "She'd punished him for being the man she wanted him to be." I GOT IT. The bartender already said it. The book still staples the thesis on. But "fabric softener and no one" wrecked me. Rationing his smell until it went stale, washing it hating it, and then wearing it anyway. That's the real grief in the chapter, and it didn't need to explain itself.
+Then the shoes. Okay. Randi kneeling, under the skirt, out of sight. The hand on the outside of her thigh to steady her. Then the thumb pressing once into the hollow behind her knee "on the way down." That knee line did more to me than half the sex scenes on my Kindle. Vee can't see any of it, she just stands there being tended to. "Being given no say in where her foot went made her surer of it." That's the bench without the bench, that's the dance lead. The book keeps building the same arch under her: someone else's hand deciding, and her feeling steadier for it. The stuff about Randi's face when she looks at Vee's bare feet, and the "something moved in her face, there and gone" that Vee is "too happy to go looking for"? I'm going looking for it.
 
-Pace setting the beer down untouched and walking out was quiet and devastating. I'm on his side, and also not entirely, because she's not *wrong* that he has a secret. And now Randi gets the crisis. Randi gets to be the bridge, and gets one more *Tell*. My stomach dropped on the last line.
+"Shoe whore." "Criminal." Randi used *criminal* about Vee's body in Pace's kitchen last chapter, and now she says it to Vee's face about the scarf. Same word, two rooms. And "Maybe you just haven't met your Evil Queen yet." That line made the back of my neck go cold.
+
+There's also something new. The esses run long and the a comes up arched, "somewhere across an ocean." That's twice now, and sober. Randi has an accent she's hiding. So who is she really? I'm adding it to the pile with the white-gold band.
+
+The kiss in the foyer: "It was only what they did." She didn't brace. That's the scariest sentence in the chapter, because it's so peaceful.
+
+Gripes. "See you soon, gorgeous" right after "Sleep, gorgeous" reads like a draft line left in. I was sure Brooke was the president and not the one who made her feel small, so either my memory slipped or the book's did. Some of the prose is preening: "a surrender wearing the coat of a defense," "like a verdict," *ablutions*. Edna Mode was cute and I'd allow it exactly once. And Pace isn't in it at all, which I felt.
+
+What I'd text a friend at 1 a.m.: "the frenemy is dressing her for the boyfriend they secretly share and she put her THUMB BEHIND HER KNEE."
 
 ---
 
-GATE 28 — Lesson
+GATE 29 — broken-in
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "He's such a great lead, isn't he? Knows how to get a girl to do just what he wants her to." My first thought was *here comes the manufactured misunderstanding*, and I almost rolled my eyes out of the book.
-WHY: The dance lesson was the best non-sex romance this book has given me. The fight earned its place because it's her mother's shame coming out of her mouth, not the plot's convenience. And ending on "go to Randi's" means the person she runs to for help is the actual secret, so of course I'm turning the page.
+CAPTURE: 7
+NEXT: 8
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "It came out of her in pieces, the way it does when someone's letting you tell it instead of waiting for their turn." Here we go, the Rusty Nail retold. I was about to skim until the retelling turned out to be crooked.
+WHY: Another quiet chapter after the fight, and it's the third time I've watched Randi put Vee in something. The charge under the skirt and Randi quietly taking over the reconciliation kept me in my seat. Now I need tomorrow night at his door, and I need to know whether Randi gets a *Tell* about it.

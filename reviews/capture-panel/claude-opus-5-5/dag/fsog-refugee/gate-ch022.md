@@ -1,24 +1,30 @@
-*capture-dag-v2-rich · gate ch022 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha e8e21819a4f9 · 2026-10-10*
+*capture-dag-v2-rich · gate ch022 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 96625992569d · 2026-10-10*
 
 **REACTION**
 
-She kept the middle. "And then, well," a wave at the air, folding it back into its tissue before anyone could touch it. I let out a breath I didn't know I'd been holding. That was my biggest dread, Randi getting a "Tell me" out of *her*, and Vee closed the door herself. Good girl. I mean that with my whole chest.
+Oh, Randi. Oh, *honey*.
 
-But Randi just went around it, and that's what has me sitting up at midnight. She can't get the bed, so she takes everything at its edges: the toenails, the underwear, the color. "You paint the toes for a man who's going to have your feet bare in his hands. You did those Friday." How does she know Friday? Did Vee ever say Friday? I went back and couldn't find it. Either I missed it or that came from *him*, and my stomach dropped either way. Then the old-boyfriend story: "I only got dinner that night." That night. She's telling us exactly where she was while Vee was in his sheet, alone or with somebody in a hurry, and she dresses it up as a punchline. She turns everything that costs her into a story that costs her nothing. The book says that right out, and it's the saddest sentence in the chapter.
+I started this chapter braced. Pace's kitchen, Randi coming up the gravel the morning after Vee's brunch, and I'd been dreading this exact scene for chapters: she says *tell me* and he hands over the green panties and the riser and the sheet. Then she said "She told me about Friday," and he "did not ask what Vee had said. That was Vee's." I put the book face down on my chest. That's the line I needed. He didn't spend her this time. He's never going to know about the frosted plum or the bought-new underwear. The only thing that came up in his face was gladness, and Randi had to sit and watch him be glad. I believe that's the cruelest thing that's happened to her in the book, and he has no idea he did it.
 
-Then her voice slips. Her esses run long, something regional lifts in her vowels, and her eyes go liquid, all on one mimosa. Vee decides she's tipsy, finds that isn't it, and lets it go. I didn't let it go. That's Randi's real voice coming through because she's hearing about the man she loves making love to the girl she wants, and she can't stop asking for more. "That's not a story, honey. That's a painting. Keep that one." I think she meant it. I think it also hurt her to say.
+Then "*How long are you going to take?*" There it is, out loud on the page: "from where she is to us." The game from the jacket isn't a vibe anymore. It's a schedule, with two people arguing over whose it is. This is the part I have to hold honestly. Pace's answer, "She chooses it, Randi. Every step of it. Or it isn't anything," is the answer I came to this genre hoping a man would give. I believe he means it. I also notice he said it inside a plan Vee has never heard of, about a destination nobody's asked her about. "She chooses every step" only means something if she can see the staircase. So he gets my respect and an asterisk, again. The book seems to know it, too: "He heard how it had come out. He did not take it back, because it was true, and because he did not know how."
 
-"You're not caught, sweetheart. You're lucky." I went cold at that, because the jacket says otherwise, and she's the one person who knows. And still, "I wanted it. And I took it. For once" is Vee's own line, said at her own volume, and Randi's "Good" lands like a blessing. Both things are true, and the book makes me hold both of them. That's why I'm still here.
+But Randi is the one who wrecked me. The line drawn across the top of the sauce and then the spoon put down. Pace's "It's wonderful" read as the alarm it was. Pouring her own glass, when he's poured every glass she's ever drunk in that house. The bare nails, after a whole chapter of Vee's frosted plum. Eating every leaf of salad and never touching the bowl. "Selfish," because he has Vee Friday to Sunday and she gets brunch and a borrowed kiss at the curb. And the "old boyfriend in a hurry" story she told Vee? Friday night she was alone. She made up a sad date to cover a real one, and the real one was being home by herself while the girl she wants was in his bed. The liquid eyes, the drawn-out vowels on one mimosa: that wasn't drink. That was her coming apart while saying "you're lucky."
 
-The second kiss: this time she met it and didn't check the street. That's a step, and it's hers, and I felt a small thrill and a small dread at the same time.
+The sex was meant to land cold, and it did. No inch-and-stop, no *tell me*, eyes shut, back to him in the cashmere. It wasn't hot, it was grief, and the book didn't pretend otherwise. I'm grateful it didn't ask me to find that sexy.
 
-On the gap: we've had two chapters since the bed, and both were about her carrying it around. I don't feel starved. I want him back soon, though, and I want to know whether Friday came from him.
+And Pace walking back through the evening "from the gravel forward" looking for what he did wrong. He's looking in the wrong place. He thinks it's sex, "the want, with an edge on it." It's that she's losing, and maybe it's that she wanted Vee for herself the whole time. Then he puts a plate over her bowl and sets it in the fridge for her. I could have cried. He's so careful, and so blind about her.
 
-GATE 22 — Fed
+What I'd text at 1 a.m.: *he didn't ask. HE DIDN'T ASK. but they literally have a timeline for her and randi is starving herself in his kitchen and I'm scared for all three of them.*
+
+My biggest dread got answered in the best way, and a new one replaced it. Randi isn't going to wait for "as long as she needs." Something's going to break, and it's going to be Vee standing where it breaks.
+
+---
+
+GATE 23 — Portion
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
+CAPTURE: 8
+NEXT: 9
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "You're not caught, sweetheart. You're lucky." It wasn't really a near-quit, more the moment the book made me most afraid for her.
-WHY: Vee guarded the bed herself, and Randi had to settle for the toenails and the panties. I'm fiercely glad about the first and quietly horrified at how much she still got. Randi's voice cracking open and that "Friday" mean I need the next chapter, preferably with Pace in it.
+ALMOST-STOPPED: "How do I get her from where she is to us, on your schedule?" For a second the whole book tilted toward two people managing a girl. Then "She chooses it… Or it isn't anything" pulled it back, just barely.
+WHY: He kept Vee's night as Vee's. That was the thing I'd have walked over, and he chose right without being asked. Now the plan is out loud, Randi is cracking, and I can't put this down until I know who breaks first and whether it's Vee who pays for it.

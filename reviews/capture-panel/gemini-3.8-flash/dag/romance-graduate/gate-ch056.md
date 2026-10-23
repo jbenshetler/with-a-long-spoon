@@ -1,26 +1,31 @@
-*capture-dag-v2-rich · gate ch056 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · 2026-10-11*
+*capture-dag-v2-rich · gate ch056 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · 2026-10-11*
 
-REACTION
+REACTION:
 
-Oh, the absolute *dread* sitting right under the surface of this gorgeous, golden morning.
+Oh, my stomach is in absolute knots. My heart melted right in my chest and then immediately turned to ice.
 
-First of all: the sheer sensual genius of this writer. Watching Vee step fully into her power—strutting naked around that kitchen in nothing but a green polka-dot scrunchie, making him burn the damn toast because she’s sitting there in his morning light admiring her own toes—was delicious. Calling herself a "pleasure princess," realizing that if anyone is serving anyone in this house, it’s him serving *her* on his knees... it’s so fun to see her luxuriate in her own body after decades of shame. And then the bedroom scene. Holy god. The slow tiling of kisses, the way he opens her like the blood orange, the sheer unhurried, devastating thoroughness of Pace’s mouth. It is top-tier, scorching, adult heat.
+First of all: the sheer, devastating intimacy of him doing dishes while she sits naked on his handmade chair, prattling on about her day, and he just casually reaches onto a mental shelf and recites her entire life back to her. *“Your heel came up out of the right one when you pushed off.”* Are you kidding me?! He remembered a throwaway comment about Meg’s hiking boots from *October*. He remembered her exact phrasing about Kayla talking the paint off a wall. In romance, an alpha billionaire can buy a woman an island and it doesn't hit half as hard as a quiet, stoic man revealing that he has archived every stray syllable that ever tumbled out of her mouth while he stood at a sink. It is deeply romantic, wildly tender, and it completely validates why Vee is so hopelessly in love with him. He makes her feel seen down to the grain of her life.
 
-And then the trap snaps shut, so softly you almost miss the click.
+And then—the horror. The absolute, screaming dramatic irony that is about to level this entire novel.
 
-*He brings her own wetness to her mouth.* And Vee has that knee-jerk, girl-from-Ohio recoil: *"Ugh — gross. That’s wrong."* But her body, traitorous and greedy, actually went *toward* the taste before her brain caught up. She claims it’s gross, clamps her legs around his waist to make sure he doesn't stop fucking her, and then immediately starts hunting for the taste of herself in his mouth.
+*“I want to meet your people.”*
+*“You could meet Randi... We could do a dinner. The three of us.”*
 
-And the dramatic irony is suffocating me. *The cashmere blanket.* She’s lying there, blissed out, thinking what a sweet, silent gift it was—having no idea that the cashmere blanket lives at the foot of his bed because *Randi gets chills after Pace fucks her on that couch.* Vee is literally soaking her own orgasms into the blanket Pace keeps on hand for his other lover!
+I had to put my hand over my mouth. Vee sitting there, naked and glowing, imagining her two favorite people in the world meeting for the first time—*“finding out about each other”*—while Randi has literally taken Pace’s cock down her throat, while Pace has Randi’s cashmere chill-blanket folded on his bed, while they plotted together to orchestrate Vee’s entire sexual awakening! It is breathtakingly painful. And Pace, playing it so smooth: *“Bring Cassie, too... Then it can’t be a dinner table. Tables have ends.”*
 
-And the ending! Vee lying on his chest, resolving to bring this exact dilemma to Randi at dinner on Tuesday: *"I'll tell Randi. Randi always knows what to make of it."* I wanted to reach through the screen and shake her. Vee is going to sit across from Miranda—the woman who broke down on that very same couch confessing she wants Vee, the woman who took Vee’s uncropped nude photo, the woman whose mouth has been all over Pace—and tell her: *Hey, Pace tried to snowball me and kiss me with my own taste, and secretly I kind of wanted it.*
+He is deliberately defusing the three-person dinner bomb. If it’s just Pace, Vee, and Randi, the kinetic charge between the two of them, the shared history, the private glances—it would be impossible to hide from Vee across a table with “real napkins.” He knows it. So what does he do? Simpson's Paradox brain strikes again: he dilutes the data set. He expands the party to Kayla, Meg, Danny, Theo, Cassie. He builds a crowd so he and Randi have cover, while making Vee feel like he’s gallantly opening his life to her entire social circle. It’s brilliant, it’s protective, and it is a terrifying house of cards.
 
-Randi is going to lose her absolute mind. Randi is going to take that confession like a grenade with the pin pulled. Vee thinks she has two separate, safe harbor relationships, and she is casually carrying the match straight into the powder keg. I am vibrating. Give me Tuesday right now.
+And Cassie. Sweet Jesus, Cassie is going to be in the room. Cassie, who doesn't miss a goddamn thing. Cassie, who saw Randi's father's fraudulent PPP loan, who saw Vee come home in a man's sweatpants and stilettos, who clocks dynamic shifts with one eyebrow. You put Pace, Randi, Vee, and Cassie in a room together? Cassie will solve the entire equation before the appetizers arrive.
 
-GATE 56 — Missed a Spot
+Pace saying *“Let me handle it”* with that rare flash of happiness... God, he thinks he can engineer this. He thinks he can manage the variables. He is walking them all straight onto a landmine, and I am sweating just waiting for the explosion.
+
+***
+
+GATE 57 — Back
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 2
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The transition from lush, playful morning-after indulgence into pure, stomach-dropping dramatic irony is brilliant. Vee planning to confide her curiosity about tasting another woman (herself) straight to Randi is a masterclass in tension.
+WHY: The absolute psychological genius of this book—it gave me the most heart-melting romantic beat (him remembering her friend's boots from an October hike) and used it to set the fuse on a catastrophic social collision. Vee planning a meet-the-friends night with the man and woman who are secretly sleeping together and playing her is top-tier agonizing tension; I need the next chapter instantly.

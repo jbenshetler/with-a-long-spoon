@@ -33,7 +33,10 @@ MARK_RE = re.compile(r"\{\{([^}]+)\}\}")
 # frame or a parenthetical nickname. Each alias must map unambiguously to ONE
 # canonical title; generic tails ("The Ask", "The Gift") and cluster stems
 # ("Secret Plans", shared by several chapters) are deliberately left out.
+# A former standalone panel name may also resolve to its containing chapter,
+# preserving historical audit references without inventing a live scene entry.
 ALIASES = {
+    "Toenails": "Fed",  # folded into Fed's Saturday movement, 2026-10-23
     "Broken In": "Broken In",
     "The Jar": "Held Loosely",
     "Jitterbug": "Safely Held",

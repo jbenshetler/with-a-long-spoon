@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch031 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-21*
+*capture-dag-v2-rich · gate ch031 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 1040082365f9 · 2026-10-21*
 
 REACTION
 
-Whoa, a tiny two-page chapter! And we finally get an outside perspective on Pace—a real, actual friend who isn't part of the three-way hotbox! I didn't realize how claustrophobic (in a delicious way) the world of this book had become until the camera pulled back onto a cold Saturday morning bike ride with a tiny, fierce lesbian friend who was at the Rusty Nail on Thursday night.
+Oh, god, this chapter just did everything I read romance for. Every single beat of it.
 
-Two things hit me hard in this little vignette. First, when Pace just *spills* about Vee—not about her body, not even about the dress, but about how she touched the joint on his walnut chair and asked how he made it, and didn't drop his math book like it burned her. *"Listen to you,"* Sheri says, and *"He didn't know what there was to listen to."* God, he is so far gone on Vee's mind and her curiosity, and just like when he talked to Randi at the sink, he doesn't even hear his own voice when he talks about her. He's twenty-two, brilliant, and emotionally a total runaway train when it comes to Vivienne.
+First of all, the doorway scene: the HUMBLE PIE label printed out in a serif font and trimmed with the good scissors in the stats lab! And the instant panic when she realizes Randi's four-inch cognac heels make her an inch taller than him, and she starts folding in half trying to unbuckle them with the pie sliding down her chest because she thinks she's accidentally disrespected him *again*. Wait—did Randi do that on purpose?! No, Randi just wanted her to feel like a goddess, or maybe Randi knew *exactly* how Pace would react, which is to take the pie like a glass about to fall, fix the scarf with two fingers, and drop a line that made my chest ache: *"Beauty like yours made for the gods and loaned out — I'm not going to insult the loan by complaining I have to look up."* Who talks like that?! In a plain voice! And then he doesn't let her hide behind her rehearsed "clean machine" apology; he gently asks *what happened*, and she has to admit the ugliest part—not just what the blonde said, but *"She handed me a lie and I picked it up because some part of me was just standing there waiting for one."* That level of self-awareness, and his response (*"Thank you for telling me what she said"*), is so grown-up and tender it almost hurt.
 
-Second: when Sheri asks about *"the pale sorority chick,"* Pace gives her Randi's name, says she was here last night, says she knows and likes Vee... and doesn't gush for a single sentence. Think about the contrast! With Vee, he's babbling past her name before he even decides to. With Randi, it's just facts. Even to an outside friend, Vee is the one making him talk like a boy in love, while Randi is just the architecture of his life. And Sheri calling it straight out in the cold air—*"If that's not already complicated, it will be"*—feels like the first time someone with normal common sense has looked at their arrangement without being inside the kink of it.
+And then the Sunday kitchen scene. First, the dramatic irony of Pace leaving a clean folded white undershirt on the end of the bed for Vee after Randi had to *go into his drawer* to get one for herself—ouch, Pace, you really have no idea what you're doing to Randi. (Also, wait: *"Saturday had been two days without sleep"* for Pace? He slept with Randi in his bed on Friday night! Did he stay up all night Friday after Randi fell asleep on his chest, or is Vee just assuming he didn't sleep Thursday and Friday because she didn't? Either way, my head is spinning.)
 
-Also, it's Saturday morning now. Which means tonight is the night Vee walks into his house in Randi's cognac heels and that green-and-gold silk scarf tied snug at her throat. Bring it on.
+Then the actual spanking discovery. Holy shit. *This* is how you write kink discovery without making it feel like a checklist or a cheesy trope. We already know from Friday night that Pace has a literal spanking bench hidden under the table in his bedroom where Randi was begging *please* a month into their relationship. Vee knows none of that. She just smacks his jeans playing around at the sink, he turns the tap off, swats her bare ass once with a wet, dishwater-warm hand, and her entire nervous system short-circuits. The prose here is unreal—the soundless *oh*, her nipples pulling tight to aching points under the thin cotton, and the sheer mortified panic of her talking non-stop about "soaking is a recognized method" all the way to the bedroom just to fill the silence so neither of them can name what just happened on her face.
 
-GATE 31 — hills-and-valleys
+And when she climbs on top of him to hide her face in his neck, only to realize that every time she moves her hips, her own glute muscle pulls under the stung skin and wakes the sting back up in time with the strokes?! And he doesn't hit her again, doesn't push her, doesn't turn into an instant alpha dom—he just slides his warm palm up to cover the exact spot where the print lives and bears her down onto him until she breaks and whispers *"Please"* attached to nothing. *"This?"* *"Please."* That was scorching. An absolute 3 on the heat scale not because of acrobatics, but because of the psychological voltage of her discovering a nerve she didn't know she had while trying desperately to hide it from the man who is watching every flicker of it.
+
+And now it's Monday morning, she's rushing back to the dorm in a Saturday-night dress, Randi's cognac heels, and Randi's green-and-gold scarf, smelling completely of Pace from head to toe... and she has 9 a.m. stats class. With Randi. Oh, Randi is going to take one look at her—and one whiff of her—and know Vee stayed from Saturday night all the way to Monday morning. I cannot wait to see Randi's face.
+
+GATE 32 — A Recognized Method
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 9
-HEAT: 0
-ROMANCE: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: It's a quick breath of cold air before Saturday night hits, and seeing Pace through a blunt outsider's eyes—especially the way he gushes uncontrollably about Vee touching his woodworking while reducing Randi to two flat sentences—makes the emotional stakes for tonight feel even sharper. I'm dying to get to Saturday night.
+WHY: From the HUMBLE PIE doorway apology to that scorching, psychologically exact kitchen-to-bedroom spanking discovery, this chapter had me by the throat. Both the emotional intimacy and the erotic charge are firing at the absolute highest level, and now Vee is heading straight toward Monday morning stats class still wearing Saturday night's clothes in front of Randi.

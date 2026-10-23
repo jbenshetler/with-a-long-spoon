@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch030 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha f4bbb5872a6b · 2026-09-29*
+*capture-dag-v2-rich · gate ch030 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-02*
 
 REACTION
 
-Okay, so — the thing I'd text at 1 a.m. is: *she's the one who's gone now.*
+Oh, that's *interesting*. Two pages. A woman on a bicycle. And it's the first time in thirty-one chapters anybody has said the thing out loud to his face.
 
-Five chapters ago Randi was the one lying on him saying *tell me*, prying Vee out of him a word at a time, and it read like a woman running a procedure on her own boyfriend. Tonight she doesn't say it once. She doesn't have to, because she's the one with the goods, and she's not extracting, she's *delivering*, and she's coming while she does it. "Standing on my rug with her hands at her sides letting me look. I walked all the way around her. I took my time about it." And then she takes his hand off her own hip and puts it high on her own thigh to show him where she caught Vee. She's using his body as a diagram of Vee's. That's the hottest thing in the chapter by a mile and nobody in it says a word about what it is.
+"Listen to you." That's the whole chapter and I felt it in my sternum. Because he *ran on* — he told her about the redhead stopping at the walnut chair and running her thumb down the joint he'd spent a weekend on, and the math book she didn't put back like it had burned her — and the book gives me "He heard himself going and didn't stop," and then a woman who's known him two years looks at him sideways and names it, and he genuinely does not know what there is to listen to. That man has a procedure for everything except this. Thirty chapters of *may I* and *would you be bothered* and *she chooses it or it isn't anything*, and the first crack in him is that he can't shut up about a chair.
 
-And the thumb in the back of the knee — she *heard* the sound. She knew the whole time. Yesterday's chapter played it as Vee's private little swoon she hoped went unnoticed, and tonight Randi hands it back as a trophy. "I heard it." That's the book doing the thing it does best: same twelve seconds, two rooms, and the second room breaks you.
+And I'll take Sheri. Lord, I'll take Sheri. That's twice now that the best person in this book has been a stranger with four sentences — the bartender with the glass rack, and now this tiny woman standing on the pedals who says "Hell of a backside on her, though. I'll give her that" and remarks on women like the weather and has been doing it across that handlebar for two years. She's the only one in the whole cast with no stake. She corroborates the bartender, too — Vee sat by herself, glared at the floor, nursed the one drink, danced with nobody, **left alone** — which means somebody was watching Vee's worst night with kindness and Vee never knew it. That undid me a little.
 
-But what's actually got its hand around my throat is how *happy* this is. She came in pleased and let it show. She swept the wood curls off him. She asked if he had anything to drink like a woman coming home. She said *I wanted to keep her* about the girl she pointed at on the quad, and she meant it, and she doesn't know what to do with meaning it. She stayed down after. He had the blanket up before she had to reach. She fell asleep on his chest promising him Vee like a gift she's wrapping. That's not a schemer's chapter. That's a woman who set a trap and then moved into it.
+But. "What happened to the pale sorority chick?" — *Randi*, reduced to a color and a category by someone who's never been impressed by her, which is the single funniest thing that's happened to Randi. And then the exchange I'm going to be chewing on: *She knows. She likes her.* — *And the redhead?* — **"Not yet."** He said it. Out loud, flat, to a third party, on a road, in cold air. No flinch, no sentence after it. That's the first time the asymmetry has been stated by one of the people holding it, and the book had the nerve not to decorate it. Then Sheri laughs and does the arithmetic anybody could run — *two of them at once, how do you sleep, that must be better than your dreams* — and then, "If that's not already complicated, it will be. But I bet it's worth it." That's the book putting a fuse in my hand without telling me what it's attached to. No moral. No lecture. Thank you.
 
-Also: the table. She folded her clothes on it, and her hand stayed flat on the surface, and *it was not the look you give a table.* And then we get what's under the top, and it's the bench. She touched the thing he built her, the one with the hole in the middle, the one she said *please* on in a voice he's never heard again — and the book didn't underline it, it just let her hand rest there for one sentence and moved on. I nearly put the book down to walk around the room. Because that's the ledger, isn't it. He made Randi a bench. He made Vee a dress. And she knows the difference, and she has never once said so, and she's now *dressing Vee for him.*
+What I'm suspicious of: she said she *kept an eye on her*. She did not say she *spoke* to her. Bleached ponytail. At the Rusty Nail on a Thursday. The blonde who put her hand on his forearm and told Vee he's *so good about getting a girl home safe at the end of the night* was a blonde with makeup doing a lot of work, and I don't think Sheri wears much makeup on a bike, so probably not — but she's a blonde at that bar who watched Vee all night and reported everything except whether she opened her mouth, and I have been burned by this author's omissions before. He has three locked drawers; now I'm counting hers.
 
-The thing I'm suspicious of and can't stop chewing: Randi told Vee *not today, tomorrow night.* Then told Pace *give her a day.* She set the clock at both ends and neither of them knows she's holding the watch. She even stage-managed what Vee's wearing to the door of the man she sleeps with. That's the third game and it was right there on the page in plain warm friendly sentences and I still had to sit with it for a second.
+The thing I'm sore about: I was promised tomorrow night. I have been holding my breath since Randi laid out the black dress and the neckline and the scarf and said *go in sure*, and then I got the shop chapter, and now I've got a bike ride, and Vee hasn't been on the page in two chapters. That's the cost of this one. Also — I have never read a two-page chapter in my life and I don't know yet if it's a technique or a dodge. This one earned itself in about four lines, so I'll call it technique for now. But if the next one is also two pages and also not Vee at that door, I'm going to start feeling handled.
 
-Small things that got me: he doesn't tell her what Vee actually said at the bar. *Those were his, and that was Vee's.* He's got two women and three locked drawers now. And "I'm glad it was you" — he means it completely and it's going to be the epitaph on somebody.
-
-One eye-roll: "You were playing with your wood." From this book? Come on. It's the only line in thirty chapters that felt like it came off a different shelf.
-
-And a flicker of pattern-fatigue I should be honest about — this is the fifth chapter in a row built on somebody debriefing about Vee to somebody else. Brunch debrief, kitchen debrief, bedroom debrief, bedroom debrief again. It keeps working because the *direction of the flow* reverses every time, but I clocked the shape, and the book should know I clocked it. Give me the three of them in one room before I have to ask twice.
-
-GATE 30 — Space
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 6
 NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "You were playing with your wood."
-WHY: Randi telling it and getting off on the telling flipped the whole engine of this book in one scene, and the hand flat on the table said more than a page of confession would have. She's in love with both of them and has scheduled tomorrow night for the two of them without either one knowing. I want Vee through that door now.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "They rode most Saturdays, out past his place." — new name, new road, and my stomach dropped because it meant I wasn't getting the door.
+WHY: It's a side-road and it cost me the scene I've been waiting two chapters for, but "Listen to you" and that flat "Not yet" are worth more than most books' climaxes, and an outsider with no stake is this author's best instrument. I want Vee back now, in the shoes, in the scarf, going in sure — and I want it tonight.

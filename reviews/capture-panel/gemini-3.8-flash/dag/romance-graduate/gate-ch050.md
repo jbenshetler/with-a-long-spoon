@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch050 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · 2026-10-07*
+*capture-dag-v2-rich · gate ch050 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-07*
 
 REACTION
 
-*“Words are cheap, and you still won’t spend them on me.”*
+Oh, Randi. *God.*
 
-Holy *shit*. I felt that line straight down in my marrow. That is an absolute haymaker of a line.
+I went into this chapter bracing for the fallout from Vee walking out into the gravel, and when it opened on a Gstaad ski resort with Randi eating smoked salmon in front of her fraudulent father, I almost groaned because I thought we were getting a momentum-killing detour. But holy shit, this wasn't a detour at all. It was an autopsy.
 
-My chest hurts. I have been waiting for this exact, terrifying reckoning, but seeing it arrive so starkly—no bed, no food, her coat buttoned to the throat, the overnight bag left deliberately in the Corolla—completely leveled me. The tragedy of this chapter is so layered it’s almost unbearable. Vee is fighting for her goddamn life, fighting for the dignity of a label, for reality, for an anchor out in the cold world that Cassie and her father live in. She wants to be a girlfriend. She wants a declaration. And every single argument she makes is completely valid. She put his entire gilded cage into words: *“All of that is in here. Inside this house, with the door shut.”*
+Watching Randi build the entire glossy, Pinterest-board fantasy in real-time—the cotillion-trained Yale lawyer who looks good in white tie, the private sleigh, the vintage blue dress, the Michelin-star dinner with the scented smoke bubble—only for it to taste like absolutely nothing the second he fell asleep. *"A good sandwich eaten fast on a busy afternoon: the pleasure real, complete, and gone before the plate was cleared, nothing left behind it to keep."* That is so brutally observed. It completely mirrors Vee in the dorm bed realizing the flannel’s warmth was just her own body heat reflected back at her. Both of these girls are freezing in different kinds of luxury, starving for something real.
 
-And Pace! God, Pace. He is infuriating and tragic and so devastatingly true to himself. When he said, *“Do any of your friends have a relationship you’d rather have than this one?”* it was such a classic, brilliant, hyper-rational Pace response. To him, the math is settled. He cooks, he protects, he warms the house, he worships her skin, he holds her through the night. To his mind, actions are the only empirical proof that matters; words are just noise. But it’s also his cowardice. It’s his shield. Because giving her the word *“girlfriend”*—or the big three-word confession—means a social contract, and a contract means he’d have to confront the monster in the closet: Randi. He can't give her the word because the word would make him a cheater, a liar, a schemer. He hides behind *“words are cheap”* because the truth is too expensive.
+And the way John "led" her! Cotillion smooth, assuming everything, requiring zero emotional courage from her. It threw Pace into such sharp, terrifying relief. Pace makes her speak; Pace requires her to participate; Pace actually looks at the grotesque, ambitious, hollow parts of her and doesn't flinch.
 
-And when she started crying, and his immediate, bone-deep reflex was to reach out with his hands to soothe her—to touch her, to let the physical warmth do the work of the soul—and she *refused* it? *“Not the hand in place of the word.”* Brilliant. Just brilliant emotional intelligence from this author. Vee finally drew the boundary. She refused to let his mouth and his hands drug her into submission again.
+Then Vee texts her at midnight. *“thinking about you 💛 hope it’s beautiful out there. i’m here if you want to talk. or not.”* Such an open, gentle, honest hand offered from a warm, unpretentious Ohio kitchen. And Randi puts her mask back on, types out the breathless sorority-girl emojis, sells the fairytale, and then adds the one genuine, poisoned dart: *"miss your face most though, gorgeous 💋"*.
 
-She walked out into the freezing night, leaving the spiced chicken and the two poured glasses of wine sitting there on the counter. The house is warm, but she chose the cold. I am shaking. Where does she go now? Straight to Cassie? Or straight into Randi’s waiting, poisoned embrace? I need to turn the page immediately.
+Randi admits she loves Vee, but she’s such a coward that she’d rather keep manipulating her under the cover of "brunches" than risk hearing Vee say no. She wants to eat her cake and have the friendship, too. She has no idea Vee just walked out on Pace, and Pace has no idea Randi is spiraling in Switzerland. When all three of them collide back on campus for spring semester, the blast radius is going to be astronomical.
 
-GATE 50 — Believe Me
+GATE 51 — Fairytale
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 0
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 1
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The absolute psychological precision of this confrontation was breathtaking. Vee’s gut-wrenching counter to his deflection—"Words are cheap, and you still won’t spend them on me"—is the best line in the entire book. Masterful tension.
+WHY: The pivot to Randi’s perspective during winter break could have stalled the momentum, but instead it laid her completely bare—proving that her gilded, "acceptable" life is a freezing void compared to what Pace and Vee pull out of her.

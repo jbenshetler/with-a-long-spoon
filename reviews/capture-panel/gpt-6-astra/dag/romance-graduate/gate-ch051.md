@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch051 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-10*
+*capture-dag-v2-rich · gate ch051 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · 2026-10-10*
 
 REACTION
 
-Oh, Randi. Vee hands you an opening so gentle it even includes permission not to talk, and you send her the brochure. That hurt more than waking up beside the wrong man.
+Oh, Vee. The memory turning into another woman’s night got me. She goes looking for something that belongs to her, something she can still feel good inside, and ends up watching herself be replaced. I know that horrible bedtime trick. You supply every detail yourself and somehow experience it as evidence. I wanted her to get out of that bed, turn on a light, do anything before she furnished the imaginary blonde with the rest of her life.
 
-I actually enjoyed John at first. The imaginary children, her telling him not to fall behind, him being good enough that he didn’t need to embarrass her. I liked seeing her grin without arranging it. And I recognized the awful acceleration from a lovely morning to imagining the story you’ll tell your daughter. Girl, you have known him for approximately one ski rental. But I believed she wanted that badly enough to mistake wanting it for knowing.
+But the thing making me angriest is that her fear has an actual woman behind it, and that woman is the person she’s counting the days until she can see. “Randi, the only girl she could talk to about real things.” I actually winced. Cassie exists, Vee. And Randi’s reply hurts more from this side: Vee thinks she’s been remembered in the middle of something wonderful. I’ve just watched Randi compose that wonderful thing for her to believe. I believe Randi misses her. I believe she loves her. Reading Vee take comfort in her still makes me feel sick.
 
-Then we went straight from entering his room to “Afterward,” and I was irritated. You have time for the champagne, the dress, the truffles, the sleigh, but I have to take your word for what happened between them? Especially when the difference between pleasure and being reached is the whole painful point. I wanted to feel the moment her anticipation failed her. The lipstick afterward was intimate and bleak, but it didn’t entirely make up for being shut out.
+Nothing from Peter across the *whole break*? That landed harder than the midnight jealousy. I’m not asking him to arrive outside with a speech and a car full of roses. But she asked him a direct question, left crying, and now there has been enough time for Christmas to pass. I can understand why Vee hasn’t found a message she can send. I’m running out of generous explanations for his silence. Especially after “the most important person in my life.”
 
-I also started pushing back at “the perfect nothing.” He’s some man she met today. He made her laugh, stayed with her on the mountain, gave her a wonderful evening, then fell asleep after sex. I understand why *she* feels empty. I don’t yet feel that he is empty. And I’m bristling at how conveniently this makes Pace look indispensable. I remember his folded arms. I remember Vee leaving. Randi’s longing can be true without turning his worst night into something I should gratefully accept.
+I’m glad she hasn’t gone back just because being away is miserable. That matters to me. I also liked the uncomfortable admission that she wants Randi’s mountains even knowing about the money. Let her be envious and loving and perceptive and completely fooled at once. That feels like a person.
 
-But her fear about Vee—that got me. The possibility that their easy conversation would start watching itself. Yes. That is something real to lose, and suddenly her cowardice felt horribly understandable. Then she decided she could keep both possibilities alive by letting Vee hear one meaning while she privately meant another, and my sympathy caught on my anger again. She knows there is a decision Vee might make. She is deliberately keeping her from having to make it. Randi, you cannot keep calling that protection forever.
+I did start getting restless. The little bed, the photographs, her parents asking after him: I was there. By “The floor was gone,” I was thinking, yes, I know, I’m down here with her already. Then there was still more cold and more reaching. After Randi’s lonely night, another whole lonely night is testing me, especially when I’ve been waiting to see what leaving actually changes. The remembered kitchen gave me an ache, but no real heat; even that refuge was taken away almost immediately.
 
-I’m frustrated that I’ve been carried all the way to New Year’s without knowing what followed Vee walking out. That’s where I was urgently leaning. Still, that little yellow heart arriving in this room did get under my ribs. I want these women together enough that watching Randi choose concealment again actually hurts. I just need someone to do something with the truth soon.
+I still want the next chapter. Less because this ending sent my thumb flying than because these women are about to share a classroom, and Vee thinks that’s the safe part of her future. Please let somebody say something that changes what the other person knows.
 
-GATE 51 — Fairytale
+GATE 52 — Old Acquaintances
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
 HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: “His room was high in the hotel with the mountains black in the window, and he drew her in, and she went. / Afterward she stayed against him.”
-WHY: Skipping the sex after that much anticipation cost me, and the repeated explanations of her emptiness nearly lost me again. But Vee’s text and Randi’s fear of losing their friendship reached me; I’m reading on wanting the truth to finally disturb what they have.
+ROMANCE: 1
+ALMOST-STOPPED: “The floor was gone.”
+WHY: I felt her loneliness, especially when she lost possession of her own happy memory, but I was full before the chapter finished feeding me the hurt. I’m staying for that reunion with Randi—and I need the silence around Vee to start breaking.

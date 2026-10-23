@@ -1033,6 +1033,43 @@ blocked a destination. The plan validator reports that case for free.
 `KNOWN_MISTYPES` in the tool allowlists the documented model-typo gates so `--verify` can
 exit clean.
 
+### Reviewed diptych renumbering (2026-10-23)
+
+`renumber_gates.py --merged FIRST SECOND` handles an adjacent pair whose merged
+chapter has already been reread at FIRST. Supply the reread's recorded
+`--preserve-prose-sha` (repeatable): a matching title and hash preserve that gate
+byte-for-byte. Both superseded standalone reads are retired under unique
+`read-merged-<slug>-chNNN.md` names, outside the gate namespace. A lane that has
+not read the merge keeps a gap rather than inheriting a standalone review as a
+review of the whole diptych. Later gates move down one; only their harness
+header changes, never the reader's reaction or internal GATE line. Retirement
+and temporary-file collisions fail the check before any mutation.
+
+`--keep-aligned` is an explicit option for mixed trees: later gates whose title
+already matches their current position stay put. All destinations still pass
+the same collision check. Do not use this to waive an identity mismatch.
+
+Author authorized the Fed reconciliation on 2026-10-23 after reviewing the
+merge: 945 gates moved, 21 standalone reads retired intact, 15 merged-Fed gates
+preserved intact, and 16 already-aligned tail gates left in place. The command
+used `--merged 21 22 --preserve-prose-sha 332b2e10547e --keep-aligned`, first
+with `--check`, then `--apply`. `--verify` reports 1,339 gates and zero
+mismatches (46 legacy gates have no title line and remain position-based).
+Exact destination bytes were compared with the pre-rename backup. No cold-read
+files or checkpoints changed. Checkpoints retain their historical reading
+spans; this repair does not remint memory. Supersedes the temporary hold on
+renumbering while the author assessed the merged chapter.
+
+### GPT-5.5 retirement (author, 2026-10-23)
+
+GPT-5.5 is retired from both active rosters because the Codex subscription
+account rejects it. Unlike the earlier erasures, its historical reviews,
+gates and checkpoints are retained: the ensemble configuration and past
+manifests still reference its checkpoint lineage. Default `capture_stats`
+includes only active-roster models; `--model gpt-5.5` explicitly inspects
+history. The retirement does not silently substitute another donor into
+`ensemble:core`; that blocked dependency needs a separate source decision.
+
 ### Chapter numbers in this document are as-of-run (2026-10-07)
 
 Every chapter number in the results history above is the reader-sequence position **at the

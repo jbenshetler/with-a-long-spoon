@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch036 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d4837de434ed · 2026-10-01*
+*capture-dag-v2-rich · gate ch036 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 51b3205f6eee · 2026-10-01*
 
-REACTION — Oh. Oh, I loved this one.
+REACTION — Oh, this one got under my skin in the exact way Randi gets under Vee’s. I felt the whole chapter like sunlight on something too private. Brunch should be safe, public, noisy, civilized, and instead Randi turns the table into another closed room without ever raising her voice. That is her gift and her danger: she can make daylight feel like a hand.
 
-This is exactly the kind of chapter that makes me forgive a lot, because it gives me the thing I came for: her choosing the exposure. Not being maneuvered into it in the moment, not surprised into helplessness, but having the idea, carrying the dress in the car like a secret, making him sit down, making him wait, deciding how much he gets to see and when. That matters so much to me. She is not being looked at because she has no escape; she is arranging the looking. She is directing him.
+Vee telling the spanking story was so alive I almost forgot to be afraid for her. I liked her pride in it. I liked that Pace’s care was still there inside the heat: the rubbing, the kissing, the asking before, the slow strip “for me” because it was hers to give. That part still works on me completely. The dominance lands because he keeps making room for her actual yes, even when her mouth is lagging behind her body.
 
-And Pace, God. Him staying in the chair. That got me more than if he’d pounced. The way his restraint is not cold, not withholding, but visibly costing him something. That’s the control I want in these books. He wants her badly, and because he wants her badly he holds still when she tells him to. That is hotter to me than a hundred “I can’t help myself” scenes. The hand coming up and then being put away again. Yes. That’s the whole man, at his best.
+But Randi. God. She knows exactly what she is doing, and I don’t know whether Vee knows that enough yet to defend herself. The “sticky fingers?” moment nearly knocked me out of the chair. It was crueler because it might not be cruel. That’s the trap. Randi can always retreat into pastry, into sweetness, into “oh, I only meant this,” while Vee is left shaking with the possibility of having been seen all the way through.
 
-The “two costumes” conceit could have been silly, but it isn’t, because Halloween is doing real work here. Everybody else is out being someone else, and Vee is in his house becoming more herself. The first costume is the public woman, the one the room saw, the dress doing what he made it to do. The second is almost unbearable because it’s not even really a costume. It’s the hidden truth of the first one, shown to the one person she wanted to know. And when he says the other is for the world and this is just for him, I felt that straight through me. Possessive, yes, but not ugly. Not taking. Receiving.
+And then the “best friend in the whole world” after that. I felt Vee melt, and I hated how much I understood it. Because Randi is offering her the thing she has been starving for too: to be chosen by a dazzling woman, not just desired by a man. The kiss with pastry glaze at the end is filthy and tender and manipulative and gorgeous. Vee never touched the pastry. Randi did. So Vee leaves with Randi’s sweetness on her mouth, literally, and doesn’t yet know what to do with what that means.
 
-I also liked that Randi is present without being present: the shoes, the boutique, the way this finished woman was assembled partly through Randi’s hands. That makes me nervous in the old way, because Randi’s fingerprints are on so many of Vee’s brave moments. But in this chapter, Vee owns the action. She brings the dress. She keeps the heels on. She opens the door naked. Nobody has to push her across that hall. That does not erase the larger secret game, but it gives me something solid to stand on with her.
+I am very pulled, but my trust is narrowing. Pace is becoming safer in the erotic space the harder the book pushes him. Randi is becoming hotter and less safe at the same time. I can keep going because the book seems to know that distinction. But I need it to keep knowing.
 
-And honestly, the domestic beginning did me in almost as much as the naked walk. Him washing dishes, her watching his back, the chair he made holding her, the house quiet while town is full of costumes. It feels like a private life now. That is dangerous, because the more I believe in the warmth, the more furious I’m going to be when the hidden third game finally cracks open. But right now? I was inside that lamplight with her, holding my breath.
-
-GATE 36 — Made-Up
+GATE 37 — One Bite
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 8
+NEXT: 9
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This was scorching because she staged her own unveiling and he honored the rules she set. The romance turned hard here too: his restraint, his answer, and the private “just for me” of it all made the heat feel particular to them, not generic. I still want the secret to come due, but this chapter bought my trust for the next stretch.
+ROMANCE: 2
+ALMOST-STOPPED: “Do what you need to.”
+WHY: That line felt like Randi opening the cage door and standing there smiling while Vee mistakes it for privacy. But the chapter absolutely had me: Vee’s desire is so fully inside her now, and the ending kiss with the stolen sweetness was too loaded to walk away from. I need to know when Vee finally lets herself understand what Randi is doing to her, and whether Randi can love her without using her.

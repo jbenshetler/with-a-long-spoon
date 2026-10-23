@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-07*
+*capture-dag-v2-rich · gate ch048 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d6bbb290a65b · 2026-10-07*
 
-REACTION:
+REACTION
 
-Oh, god. This hurt. This hurt so much worse than a screaming fight, because it’s the quiet, bleeding truth of what happens when a girl is in so deep she’s picking fights she doesn’t even want just to see if the walls are real.
+Oh, God. This hurt. This one went right between the ribs.
 
-When she snapped in the dark—*“If we’re just sex, I’d like to know”*—my whole chest seized. It was unfair, it was sharp, she was rewriting the past because she was terrified, and what did Pace do? He didn't yell. He didn't get defensive. He went still, took her seriously, and offered to take her wherever she wanted *right now*. That’s him down to his bones: a problem presented, a problem solved. But a noisy Chili's booth under blaring TVs and dead nachos can't fix a soul that is starving for emotional definition. Seeing him struggle with sensory overload, his eyes dragged to the screen, the fork being turned over and over—and her misreading his sensory exhaustion as boredom with *her*—was agonizing.
+Taking off the flannel. Stripping it off her bare skin and leaving it in a heap on the mattress because the smell of him isn't enough anymore—that is an absolute gut punch. Because remember what that flannel was: it was her talisman. She made him wear it for a whole weekend just so she could breathe him into her lungs when they were apart, so she wouldn't feel so starved in that cold dorm. And now, she can't even stand the comfort of it because she realized the terrible, crushing truth: *the heat in the shirt was her own, given back.*
 
-And then the quiet in his living room when he just laid it out: *"That restaurant—places like it—they're too loud... In a room like that I listen as hard as I know how and I still can't hear you."* God, I love him for that. He isn't cruel. He isn't dismissive. When he listens, he listens with everything he has.
+That line completely leveled me.
 
-AND YET.
+She is waking up from the dream, and it’s not because she discovered the trap with Randi—it’s worse, it’s happening from the inside out. It’s happening because of the silence. It’s the sheer agony of a woman who has offered up her entire body, her absolute trust, her private appetites, her vulnerability, and is met with exquisite care, unbelievable sex, gourmet meals... and an impenetrable wall where his heart should be spoken aloud.
 
-The end of this chapter ripped me up. She gets the incredible, tender, completely shattering sex—she gets him losing his ironclad control, which she had been practically begging for—and then she’s lying there, sticky with him, cooling off in the dark, and the bottom falls out. *"He had the whole of her, and what she had of him she could not have held up to anyone, could not have proved."* That is the loneliest sentence in this entire book. She's his in every physical, emotional, spiritual way, but she doesn't have a *name* for him. She can't tell her dad. She can't say "boyfriend." And underneath all of this, the reader knows what she doesn't: that the reason it has no name, the reason he won't say *I love you*, is because she is trapped in a design she doesn't even know exists. He took her apart, gave her everything, and held back the one thing that would make her safe. I am aching for her.
+Chapter 43 showed us Pace and Randi tangled up in his living room, fucking and scheming and casually dissecting Vee like a prized piece of fruit they're waiting to split. And here is Vee, alone on the top bunk, freezing, realizing that all his attentiveness might just be a very elaborate, very beautiful cage that doesn't actually name her as his. She tried to tell him on the porch: *I had been eating crackers my whole life, and you fed me a meal.* And he gave her: *I love how good we are together.* A mathematician’s deflection. An evasion wrapped in a kiss to the crown of her head.
 
-***
+I’m furious at him. I really am. In the early chapters I was swooning over the drawers and the scrunchies and the tenderness, but this is the dark side of a man who keeps total control. He controls the thermostat, he controls the meals, he controls the pace of her orgasms, and he strictly controls the narrative. He refuses to give her the word. He won't say *I love you*, he won't say *girlfriend*, he won't let her hold him to anything real, because the second he names it, the threesome trap he's engineering with Randi becomes an outright betrayal instead of just a "game."
 
-GATE 48 — Under the Rug
+And Vee is finally, blessedly, feeling the cold. Stripping that shirt off and choosing the raw, miserable draft of that cracked window over the false comfort of his scent... that's the spine in her. That's the woman who walked bare-legged across the stage. She's realizing that starvation isn't cured just by being fed; you have to be chosen. Really chosen, out loud, in the light.
+
+I need to see what she does when morning comes. I need her to look at him with that shirt still balled up on the floor.
+
+GATE 49 — Bare
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 2
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The psychological honesty of Vee picking a fight out of sheer emotional starvation, contrasted with the sheer physical intimacy of him losing his control in bed, was excruciating and brilliant. I desperately need to see when the truth finally cracks open.
+WHY: The emotional ache of her pulling his flannel off and leaving it in a heap because his attentiveness can no longer hide his silence was devastating and completely earned; I have to see how she faces him next.

@@ -56,6 +56,7 @@ mark items done with dates as they complete.*
   `tools/cold_read_pricing.toml`), while per-volume ledgers are structurally blind
   to the cross-volume contradiction this pass exists to catch. **Dates are out of
   scope for this pass** (the whole-book timeline sweep above owns them).
+  **Per-edit check 2026-10-23:** merged *Fed* (former *Toenails* plus *Fed*, both passages verbatim) checked by gpt-5.6-sol against a freshly derived Volume One ledger; no factual contradictions flagged. Rechecked after the subsequent 225-word retelling reduction, again with no contradictions flagged. Rechecked after the further 85-word explanation pass: no contradictions flagged. This limited check does not complete the whole-book, cross-volume Lane A pass.
 - [ ] **Orphaned-reference sweep (Lane B)** — text still pointing at something
   a revision removed. Worked case: a cut passer-by "in a camel coat too warm
   for the afternoon" whose later callback, "the closed camel-coat project,"

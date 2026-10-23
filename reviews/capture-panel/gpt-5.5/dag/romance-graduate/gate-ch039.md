@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch039 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch039 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · 2026-10-01*
 
 REACTION —
 
-Oh, this got me in the ribs because it is so small and so huge. After all the heat and the staged bravery and the dress and the spanking and Randi making the air itself feel rigged, this is just Vee coming home glowing and Cassie sitting there like the last normal lamp in the world. And I loved it. I needed it.
+Oh, this one got me in a totally different muscle.
 
-Cassie is such a relief to me. She does not have Pace’s courtly intensity or Randi’s glamour-pressure. She just looks at Vee and tells the truth sideways. “You don’t come home school nights.” God. Not accusation, not drama, just a pin in the map. Vee has been living this like a beautiful fever and Cassie is the person who notices the actual calendar. Her own bed empty more nights than not. That is not nothing. That is a life changing shape.
+After all the heat and danger and tablecloth-confession madness, I actually needed to see Vee somewhere nobody was touching her. Not Pace, not Randi, not even Cassie asking the right question. Just Vee in a lane, with her body doing something it has known since before any of them. And the book is so smart about that: swimming doesn't solve her. It doesn't give her a revelation with a bow on it. It just strips the words off until she can carry the shape without being devoured by it.
 
-And Vee trying to explain Pace by listing the food and the care and the burn. That felt exactly right to me, because of course the sex is not the only thing swallowing her. It’s the house warm enough that she forgets what she’s wearing. It’s the cold cloth on a tiny burn. It’s being watched while she eats, in a way that makes appetite feel adored instead of embarrassing. He is making ordinary life erotic and safe at the same time, which is frankly lethal. I believe completely that this would make her stupid with happiness.
+I loved that she still cannot say love cleanly out loud, even though inside herself she basically already has. That feels painfully true. Cassie asks one flat question and suddenly all the romance-light turns practical: your bed is empty, your life has shifted, your things are in his house, what is this? And Vee's “maybe” is not because she doesn't love him. It's because saying it would make the whole structure visible, and visibility is becoming the book's scariest erotic and emotional engine.
 
-The little burn on her breast from the tomato, too. That is such a domestic-sexy detail without having to perform anything. Cassie’s “there’s only one way that burn happens” made me laugh because yes, Cassie, thank you, somebody please keep count of the obvious facts in this room.
+The bathroom drawer is still haunting her, which I love. Because of course it is not just “he made room for her things.” It's also: he did not say what it meant. Pace's great tenderness is also his great fog machine. He acts instead of explaining, and when you're starving for being cared for, actions can feel like scripture. But now she's asking, for four strokes only, whether he is actually that good or whether she has built him out of wanting. That is such a tiny, enormous crack. Four strokes! Then the wall comes. But she had the thought.
 
-But the “Do you love him” stopped me cold. Because Vee does. She already let herself say it in the dark beside him, and now here it is in daylight, in the dorm, in Cassie’s flat voice, and she can only say maybe. I don’t blame her. The whole thing is too fast. It is too fast and also not shallow, which is the terrifying part. If it were shallow I could roll my eyes and move on. But this has roots already. He has a drawer for her. He has scrunchies. He has meals and hands and rituals. And meanwhile Randi is still over there holding half the wiring behind the wall.
+And the swimming itself made me weirdly tender toward her. This is maybe the first chapter in a while where her body is not humiliating her or betraying her or blooming under someone else's gaze. Her body is work. Breath. Hands. Count. Engine. “Her body... had none at all down here. It only worked.” God, I wanted that for her. I wanted her to have seventy-five minutes where nobody could read her.
 
-This chapter is quiet, but not stalled. It feels like a breath taken in the right room. Cassie doesn’t know everything, but she knows enough to worry me better than anyone else does. I want Vee to keep talking to her. I want Cassie to stay awake in this book. Because when the third game finally shows itself, Vee is going to need somebody who isn’t dazzled.
+It's a bridge chapter, obviously, but not an empty one. It feels like the book exhaling before something comes for her. I am very alert to the fact that the quiet is piling up around the question of love, around Pace's silence, around Vee's private self trying to get one clean minute to hear itself think. I don't need every chapter to burn the room down. This one cooled the glass enough that I can see the crack.
 
-GATE 39 — School Nights
+GATE 40 — Strokes
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This was a quiet chapter, but it landed because Cassie names the shape Vee has been too lit up to count. The heat is mostly afterglow and domestic charge, but the romance turns hard here: Vee admitting, even softly, that this may be love makes me want the next chapter immediately.
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "It never answered anything, the swimming."
+WHY: Quiet, but earned quiet. I felt Vee getting one bodily space that belongs to her alone, and the four-stroke doubt about Pace made me sit up hard. I want the next chapter because the book just reminded me she has an interior life outside being wanted, and that may be the thing that saves or breaks her.

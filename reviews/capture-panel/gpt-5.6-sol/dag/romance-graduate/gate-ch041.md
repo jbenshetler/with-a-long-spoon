@@ -1,26 +1,22 @@
-*capture-dag-v2-rich · gate ch041 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 38dcf8e44cd8 · 2026-10-01*
+*capture-dag-v2-rich · gate ch041 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 97724b44da95 · 2026-10-01*
 
-REACTION — Oh, this is cruel in exactly the way I want now. *He’s all mine.* Baby, no. And then she asks him to promise he will never share her with anyone, and he answers the photograph instead of the woman. The wording is technically clean and emotionally filthy. I felt the trap close around her trust even while I believed completely that he would guard that image with his life.
+REACTION — Oh, this is so much worse than Vee knows, and I mean that as the highest compliment.
 
-And God, the picture worked on me. Not merely because he arranged her naked body with that calm competence—although yes, absolutely that—but because she goes away and makes herself into the version she wants preserved, then he takes over without erasing that choice. Shoulder, hip, knee, a kiss after every placement. That is precisely the combination I keep wanting from them: she decides to be looked at; he makes looking feel like care. The photograph gives her back a self she can recognize as beautiful. Sending it is genuinely brave, which makes the concealed relationship underneath that trust feel worse, not better.
+She thinks she is dividing her weekend neatly between her man and her friend, while actually carrying erotic material from one hidden lover to the other like a lit candle. And Randi sat there and watched the woman she loves—or wants, or chose, whatever exact word we are eventually going to earn—describe being comprehensively awakened by the man Randi already knows intimately. That little break in her composure when Vee says Pace wants *her*, with the body attached, got me harder than any of the explicit reporting. For once Randi wasn’t directing the temperature. Something reached her that she had not arranged, and she had to put her face back on.
 
-“No man had ever wanted her body like this one did” could have been standard romance mush, but the distinction that follows is the whole book for me: with him she is a girl who has a body, not a body dragging a girl behind it. Yes. That is why I believe her love, and why I cannot dismiss Pace as simply a manipulative man with excellent manners. He sees her personhood constantly. He is also withholding the fact that will make her question every instance of being seen.
+I am also so relieved that Vee is beginning to understand her appetite as a whole condition, not a succession of naughty incidents. She isn’t just a girl who liked one swat, one dress, one photograph. She walks around wanting. She looks forward to wanting. Her life has acquired color around it. “I used to be a person with thoughts” made me laugh, but the real ache is that she believes this abundance might mean she is defective. Randi’s answer was exactly what Vee needed and exactly why Randi is dangerous: she can give Vee language that feels like rescue because it really is rescue. “Finally hungry out loud” is almost too perfectly tailored to the book’s thesis, but God, it works on Vee—and on me.
 
-The sex had real charge without feeling like another scheduled performance, and I loved that she could be spent, sore, greedy, vain, composed, hungry, and then greedy again. She is not being purified into some tasteful literary heroine. Thank God. “Again” changing from a question to an instruction got me.
+The photograph made me squirm in two directions. Vee chose to show it. Then she chose to show the uncropped one, and the pride when she corrected Randi—*I gave him all of it*—was delicious. I love this newly competitive nerve in her. But Randi absolutely needled her into that second reveal with the legs comment, then received an image made privately for Pace while knowing infinitely more about its destination than Vee knows about her. Pace promised never to share Vee’s photograph. Technically he hasn’t. Emotionally, though, Vee just delivered it straight into the secret arrangement, and neither of them has protected her from doing that. I am furious all over again.
 
-The kitchen afterward was almost indecently domestic. Water first, wine after. Her in his shirt, his whole attention sinking into the food, his pleasure when she takes the first bite. She has learned to taste because he fed her closely enough to teach her attention. That is romance to me, much more than a speech would be—though I still want the speech.
+And then Vee asked Randi into another room of her life. A whole class, twice a week, chosen together, “just us.” That landed as a real romantic turn for me, not merely friendship logistics. So did Vee waiting all week for the goodbye kiss, following Randi’s mouth when it withdrew, recognizing that she wanted another second, and simply taking it. There it is. She has not said *I want Randi*, but her body is no longer getting blamed for acting before she knows. She noticed. She decided. She did not bother to excuse it. That is enormous.
 
-And then, finally, she touches his past and he turns into a locked door. “This is my home” warmed me for half a second before I realized it meant *do not ask where I came from.* Vee’s choice to let the quiet be kind is tender, but I’m uneasy that she so quickly interprets his boundary as something she must never approach. She is putting more and more of herself into his hands while whole regions of him remain inaccessible.
+The ending has me nearly yelling at her car. Back to Pace, carrying Randi’s kiss; away from Randi, carrying Pace’s nude; happily certain each relationship is its own bright private thing. Meanwhile I can feel the hidden third game tightening around her. This chapter gave me the contact I wanted, and now I want disclosure with teeth. “Not yet” is becoming cruelty.
 
-Sheri coming to Thanksgiving made my stomach tighten. Not because I think Pace and Sheri are sexual, but because here comes yet another woman who knows the real arrangement while Vee sits outside it. Vee’s flash of jealousy was sane information, and she extinguished it the instant Pace supplied a sympathetic explanation. She trusts his framing so readily. Now Sheri is actually approaching the table, and I need to see whether Vee feels the imbalance when she is face-to-face with someone else who has been briefed on her life.
-
-What I’d text at 1 a.m.: “She made him promise not to share her and he promised not to share the PHOTO. I am unwell.”
-
-GATE 41 — In His Hands
+GATE 42 — All the Time
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 3
+NEXT: 10
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: The naked photograph was intensely erotic and genuinely tender, while its carefully narrowed promise made the hidden arrangement feel newly poisonous. Pace’s past finally showed a locked edge, and Sheri is about to enter the domestic space carrying knowledge Vee does not have; I’m already turning the page.
+ALMOST-STOPPED: “You've been starving your whole life and calling it *fine*, and now you're not, and you've gone and decided that's the flaw.”
+WHY: That came close to explaining the novel’s own metaphor back to me, but the rest of the scene earned it. Vee choosing the second kiss—and choosing more Randi in her ordinary weekly life—has me already reaching for the next chapter.

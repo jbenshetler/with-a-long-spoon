@@ -1,24 +1,25 @@
-*capture-dag-v2-rich · gate ch035 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha dc341b2a573e · 2026-10-10*
+*capture-dag-v2-rich · gate ch035 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · 2026-10-10*
 
-**REACTION**
+## REACTION
 
-The air guitar. I'm putting that in my notes in capital letters. For thirty-four chapters this man has been a wall that sews ballgowns and quotes Newton, and here he is alone in his kitchen to "Thunderstruck" with a protein shake, his arms doing something nobody should do sober. I laughed out loud. Then he opens the door barefoot and you can see it costs him to be caught not put together. That one beat did more to make me believe in Pace than the whole Peter night did. I love that the chapter started there and not in bed.
+Okay, the reversal got me. In chapter 32 she stood in his doorway too tall, folding herself up to unbuckle the heels and apologizing. Now she's standing in his lamplight in the same kind of height, putting out one flat hand, and he sits back down. She tells him where to wait, she won't let him guess or help, and the recliner is hers to assign. After the bet chapter, where she lost and was "the payment," it matters that this one is hers to run. I noticed that and I liked it a lot.
 
-The den game is the best play I've read in a long time. The flinch got me. "She had never once seen anything she did land on him." Then she pulls his shorts off and waves them like a flag, and finds out she's faster than him because he has to come around like a ship. Then she flashes him, and that's a heroine with an actual body doing something she's never done, and part of her stands off to the side astonished. That's the interiority I come for. It's goofy and horny together, and in my experience that's how sex between people who like each other actually goes.
+"And this is what I had on under it." I laughed out loud, and then my face went warm along with hers. That's a great line. It's funny and dirty and it costs her something to say it. What really landed: at the induction she kept the bare-under-the-silk secret for herself. She sent him the photo and told herself "that part was hers." Now she's walking it down the hall and handing it to him. That's the actual turn in the chapter, and the book trusted me to catch it without spelling it out. Thank you, book. The second trip down the hall was the hottest thing here: ten steps in heels and nothing else, with the warm air of the house on every part of her. Him not touching her is what made it hot. His hand comes partway up and goes back down, and she can see what that costs him. That's more charged than half the sex scenes on my Kindle.
 
-Then "We find out." Okay. I want to be clear that this works on me. The bet is a good device. And the "Don't," with his hand gone at once, palm up like empty hands, then her "Yes" because she misses it? That's the consent beat done as drama and not as paperwork. It's the hottest thing in the chapter. I liked the finger held up, and I liked the shame of how *much* wet there was, which is a real specific shame and not a generic one. And he looks at it the way he looked at her under the tree when she wouldn't kiss him. That's a callback that earns its place. The spanking is the opposite of Randi's story, quiet, a tap, a question, a kiss on the pink. That contrast was the point and I felt it land. Juice. He went and got her *juice*. "Wonderful, wonderful" until it's the same thing as his hand in her hair. Fine, I melted.
+The small stuff worked too. She slides into his boots and feels like a kid in a parent's closet. She brings the garment bag in "like something sleeping." He clicks the lamp one notch brighter without a word. That's the Pace I trust.
 
-But here's what I'd text my friend: girl, her nipples have now "drawn up tight" in the kitchen, in the practice room, AND here, in nearly the same words. The "bright hot line straight up from where his hand had been" is copy-pasted from chapter 32, and the book even says "it was the same as the kitchen." Three chapters running with the same body doing the same sentence. That's the pattern alarm from my notes going off. Also, after all that buildup the actual sex is "he went into her easily, too easily" and then summary and a thesis: "Shame wants a witness." It's not quite a fade, but the camera stepped back right when I wanted it closest. And "the place where the debt would be paid, and she the payment" is the book flexing at me.
+Now my complaints. "Sunrise and sunset" made me wince, it's greeting-card copy. He saves it with "the other is for the world, this is just for me," but he's always got the perfect line. He's starting to feel too smooth, and I miss the Pace who set a beer down and walked out.
 
-Now the suspicious part. "No Randi to be told." So she's already planning to tell Randi. Randi planted the counting and the slip "right between," and then Vee braced for exactly that. Randi is writing the script Vee brings to this bed, and next week Randi will hear the debrief in a piano closet with that cat-stillness. And the way he turned the bed down and folded the blanket over the chair, "Not yet," was so practiced. He's done this before. With whom? The scar, "never been told about," and she's decided not to ask. That's a woman who's decided to keep him, and I'm scared for her.
+Then there are the heels. They're "the dear black straps Randi had knelt to buckle." Randi is literally on Vee's feet while she stands naked for him, and the chapter just goes past it. Does he know where the shoes came from? Does Vee think about Randi at all while she's doing the thing Randi basically coached her into? We had a whole practice-room chapter where Vee nearly touched herself over Randi's story, and since then it's been three Pace chapters with Randi barely mentioned. Cassie's gone too. Everything is warm and lit and private, and I can't relax, because I know what's waiting outside this house. The cold, enormous field outside feels like the book telling me exactly that.
 
-The scrunchies are perfect: a whole form of them, no note. "I'm going to start bringing a bag." Yes, baby, you are. Then a curry and a Chinese beer, and the chapter just... ends on the spice coming up late. That's a soft landing. It's not a cliff, and I don't mind.
+It also stops at the look. I don't count that as a fade, because it's a deliberate hold and the looking is the scene. But I've now had the sink, the bet, and the striptease all in one weekend. If the next chapter opens on more of that bed, I'll want something in it to change.
 
-**GATE 35 — We Find Out**
-DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 6
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "It was the same as the kitchen had been, the same bright hot line straight up from where his hand had been… and behind the bra her nipples drew up hard"
-WHY: The play, the "Don't"/"Yes" turn and the juice gave me heat and tenderness together, and the air guitar made him a person. But it's the second spanking scene in four chapters, written in recycled sentences, and the curry ending doesn't pull. I want the next chapter mainly so I can see Randi get her hands on this story, and if it's another debrief-turns-her-on scene I'll start skimming.
+## GATE 36 — Made-Up
+
+**DECISION:** CONTINUE
+**CAPTURE:** 7
+**NEXT:** 6
+**HEAT:** 2
+**ROMANCE:** 2
+**ALMOST-STOPPED:** "That's like asking me to choose between sunrise and sunset."
+**WHY:** She's running the scene this time, and handing him the secret she'd kept for herself at the induction is a real turn, quietly done. But this is the third warm Pace chapter in a row, with Randi's heels on Vee's feet and nobody noticing. I want the book back on the danger more than I want to know what happens in the recliner.

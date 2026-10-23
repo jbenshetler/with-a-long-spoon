@@ -1,30 +1,26 @@
-*capture-dag-v2-rich · gate ch051 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ca7450e92130 · 2026-10-07*
+*capture-dag-v2-rich · gate ch051 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8a57074b7fe9 · 2026-10-07*
 
 REACTION:
 
-I am sitting here with my jaw clenched so tight it aches, completely disoriented and furious and fascinated all at once.
+Oh, god. This hurt. This hurt in that specific, hollow, sick-to-your-stomach way that only New Year’s Eve in your childhood bedroom can hurt when your heart has just been pulverized.
 
-Wait. *Wait.* We were just standing on Pace’s frozen porch. Vee had just walked out on him. The door had just slammed. The air was five below zero, my heart was lodged in my throat waiting to see where Vee’s car went, whether she collapsed in Cassie’s dorm, whether Pace ran after her—and the book just abruptly yanked the handbrake and threw us into a flashback to Switzerland on New Year's Eve?!
+The contrast between these two chapters—reading Randi in 51 and then Vee in 52—is genuinely making me feel ill. In 51, Randi is waking up from a hollow, wealthy one-night stand with her perfect billionaire-lawyer stand-in, nursing her guilt, and deciding to text Vee the “fairytale” because it’s easier to keep playing the role. And then we cut to Vee. Freezing in a twin bed she’s too tall for, smelling lavender plug-ins, listening to the furnace shut down, watching the clock tick down to midnight, utterly consumed by Pace’s silence.
 
-At first, I was so mad at the cut I could barely read the words. But then... god damn it, then I actually read it.
+The detail of her cutting the picture in half before sending it to her mom—scissoring away the leg, scissoring away the woman she’s become because her home can’t hold her anymore—shattered me. You grow up, you expand, someone wakes your body and your hunger up, and then you have to go home for Christmas and squeeze back into your childhood skin, pretending casseroles and *Wheel of Fortune* are enough when you are literally starving to death.
 
-Randi. God, Randi. This chapter did something brutal to her, and to me. It stripped away the untouchable, venomous golden girl who sprawled over Pace’s couch using Vee’s smeared lipstick as dirty talk, and showed the absolute hollow core of her life. Her parents are horrifying in that quiet, bloodless, aristocratic way—the mother dining on an egg white and a spinach leaf, clicking her diamond tennis bracelet, the father making a show of heartiness while laughing at fake boys. Randi sitting there, eating her own disgust, keeping her locked white-gold bracelet out of the light. She is trapped in a gilded cage so thick she can't even breathe.
+And the spiral. *The spiral.* When you’re alone in the dark at midnight, your brain is a sadist. She takes her safest, warmest memory—the fra diavolo, the sheet slipping off her shoulder, the heat of his kitchen—and her mind replaces herself with an imaginary tan, blonde girl. *Except it isn’t imaginary.* That’s the knife twisting in my gut! She’s imagining some nameless dance-hall girl at his stove, completely blind to the fact that it was *Randi* on that couch. Randi, who she just texted an open hand of pure, unconditional friendship to. Randi, the only thing she thinks she has left to hold onto.
 
-And then comes John. The perfect, central-casting Ken doll. Cotillion-trained, Yale law, white tie, horse-drawn sleigh, a fucking molecular gastronomy bubble of truffle smoke. It’s the exact romance-novel fantasy I used to devour, the effortless billionaire alpha who sweeps in and takes over. And Helen Rivers systematically takes a scalpel to it and guts it.
+Pace didn't text. Not once over the whole break. He's doing his noble "I leave you the room" routine, convincing himself he’s respecting her boundaries when in reality it is just cold, cowardly neglect. He’s letting her freeze out of some stubborn mathematical principle because she had the audacity to ask what she was to him.
 
-The contrast between John and Pace hit me right in the ribs. Randi thinks she wants "easy." She thinks she wants the man who leads without asking, the man who assumes the table, assumes the carriage, assumes her bed. *“Pace made her say it, out loud, every time. She found, tonight, that she liked not being asked.”* That line made my stomach turn over, because I know that temptation—the exhaustion of having to be awake, having to choose, the appeal of just being handled. But look at what happens when you don't have to choose: you get hollowed out. John takes her to bed, he makes her body come, he sleeps like a log, and she is left sitting in the pitch dark, putting her mask back on in the mirror, freezing cold while touching him. *“The flaw was hers, carried into the room the same as the cold.”*
+I’m so angry at him, I’m so terrified for her, and the dramatic irony of her leaning entirely on Randi while Randi is literally the other half of the trap... it’s suffocating. She thinks Randi is her safe harbor. When this detonates, Vee is going to have the absolute earth taken out from under her. God, please let term start. Get her out of that cold bedroom.
 
-That broke something in me for Randi. It really did. Because she realizes the horrifying truth: Pace, for all his terrifying compartmentalization, actually *looks* at her. He demands her presence. He demands her actual consent, her voice, her real self. And Vee... Vee is the only person on earth who gives her warmth without asking for a transaction.
+***
 
-That text at the end made me want to scream. Vee, sitting in Ohio, bleeding her heart out, being sweet and pure and worried about Randi after the stats humiliation—and Randi looking at that lifeline and deciding to lie. Deciding to manipulate her. *“She could have Vee this way and keep the friendship both, as long as the word kept its cover.”* It is so cowardly, so tragic, and so profoundly predatory. She knows she is poisoning the only pure thing she has, and she does it anyway because she's too terrified of being cold.
-
-I still desperately need to get back to the aftermath of the porch. I need to know what happens to Vee *now*. But seeing the rot inside Randi's fairytale didn't derail the story; it just made the coming collision feel ten times more catastrophic.
-
-GATE 51 — Fairytale
+GATE 52 — Old Acquaintances
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
-HEAT: 1
+HEAT: 0
 ROMANCE: 1
-ALMOST-STOPPED: When the chapter opened in Gstaad at New Year's right after Vee walked out on Pace in the present, I nearly threw my hands up at the whiplash.
-WHY: Shifting the perspective to Randi in a flashback right when the main plot was at a dead boil was jarring, but the psychological dissection of her emptiness and her obsession with both Pace and Vee completely hooked me. The tension is unbearable; I have to see how this all blows up.
+ALMOST-STOPPED: none
+WHY: The ache of this chapter was agonizingly real. Watching Vee's mind torture itself at midnight while holding onto Randi as her only lifeline—completely unaware of the betrayal waiting for her—has the tension wound so tight I can barely breathe.

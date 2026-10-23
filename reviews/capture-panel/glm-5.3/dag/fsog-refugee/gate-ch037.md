@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch037 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 51b3205f6eee · 2026-10-01*
+*capture-dag-v2-rich · gate ch037 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha efddca81bfc1 · 2026-10-01*
 
-REACTION — Okay. I need a minute.
+REACTION — I put the book down on my chest after the drawer and just lay there for a minute.
 
-That was the most brazen chapter in the book, and nothing loud happened in it. It's a brunch. Two girls, mimosas, pastries — and Randi extracted the whole of Sunday out of her piece by piece, laid it on the tablecloth between them like she was dealing cards, and watched Vee's body answer every single one. "How does a girl get from a pantsing to a bare bottom. Walk me." She's not curious. She's conducting. And I watched Vee climb the whole morning one confession at a time, exactly as Randi dealt them, until the girl had to flee to a bathroom in a restaurant — and this is where the chapter did something to me I'm still sorting.
+The "Peter" in the dark did me in first. She only says it when he can't hear — "to the sleeping shape of him" — the same way she said it once before to keep it. She's saying I love you to a man who's asleep because the awake version is still too big. And then the book does this devastating little inventory of all the ways he's already said it — the door, the spin, the slowness, the salmon, the warm tomatoes, the coming back — and I was nodding along like a fool because I've been keeping that same list for thirty-eight chapters. That's my list. He cooks for her after. A man might come back to her an hour later like she was something he'd been turning over while the salmon cooked. I underlined that in my head twice.
 
-Because Vee stopped. Mid-act, one inch from the top, because Randi's face showed up behind her eyes and she couldn't be *looked at like that* and keep going. That's not a spanko beat — that's possession, real possession, a woman's hand literally stopping between her own legs because another woman's imagined regard has more authority over her body than her own wanting does. And the book knows it: "the bright wanting curdled into something low and ashamed and obedient. Frustrated and cowed in the same breath." Obedient. To a person who wasn't in the room. I got chills. Not the good kind and not exactly the bad kind — the *oh no* kind, the kind I read this series for.
+And the drawer. God, the drawer. When the scrunchies were gone off the counter my stomach actually dropped — I thought we were getting a cold moment, a man quietly reclaiming his order, and I was bracing for it — and then she opens it and it's *hers*, and the next drawer down is his whole fitted life pressed in too tight, made to share. He never told her it didn't matter. He made her a place instead. That's him entire, isn't it. He doesn't say, he builds. The dress, the mirror with the bright screw heads, the chair, the drawer — this man's love language is joinery, and she's finally learning to read it, and so am I.
 
-And then "Sticky fingers?" — I actually put the book down. For one full second that line is the most obscene thing in thirty-seven chapters, and Randi delivers it and then pivots to the pastry plate so smoothly that Vee — and I — can't tell if she was handed a door or shown there was never one. That's the cruelest thing Randi's done, and she did it with a smile and a plate of glazed pastries. I keep thinking about the Klebold of it: Randi took ONE neat bite, said "Delicious," and closed the subject. So where did the sweetness on Vee's lip come from? That kiss. There was glaze in that kiss. Which means at some point Vee can't account for, Randi's mouth had sugar on it — she ate something, or took the second bite, deliberately, before a goodbye kiss she knew was coming. Or — and this is the reading that's keeping me up — Randi hadn't touched the pastry at all and Vee is *tasting the whole morning*. The book won't say. "She did not find out." Neither did I, and I'm supposed to be the one watching the game from outside, and I couldn't see the table.
+Small things I'm chewing on: her losing weight and the bras keeping the secret — I love that the book noticed her body is being changed by this and let it be quiet. Him always coming around to her first before taking anything — she hadn't known a man would *want* to, and neither had I, honestly, and that's the whole reason I'm in this genre. Him seeing her sprawl across his counter and saying nothing and me not being able to tell if he minded — the book keeps doing this, giving me his silence from the outside and making me wait for the answer, and it lands every time.
 
-"Best friend in the whole world." There it is, the aching part. Because it's TRUE and it's a weapon and Randi doesn't experience those as different things. Vee's whole chest opened at being picked — and mine ached, because being picked by Randi is the thing I'd want too, and she was picked *by arrangement*, and the sweetness of the picking and the calculation of it have fully fused now. I can't pull them apart anymore and I don't think the book wants me to.
+The Randi ache is still running underneath, don't think it isn't — she's not in this chapter at all and I felt her absence like a held breath, because I know what she's drowning in while Vee is whispering "Peter" in the dark. And the glaze on Vee's lip at the end of last chapter — I haven't let go of that. But this one was pure him-and-her, alone in a room, and it's been a couple chapters of that and I am fed. Fed and spoiled.
 
-The Pace material, small as it is, keeps being my anchor: "He rubbed first. Before each one. And after, mostly, he kissed the spot." Even retold at a brunch in the full light, the shape of what he does is care — soothe, ask, catch. The contrast is doing enormous work: Pace's kink is a conversation, Randi's is a harvest. Vee said "it wasn't quite like you said" and doesn't know yet how much is loaded in that sentence — Randi told her a story designed to open a door, and the real thing was gentler, and Randi's story didn't match because Randi wasn't remembering, she was *aiming*.
-
-I'm rattled and completely hooked. The door Vee couldn't find at that table — the book keeps not opening it for her, and I keep reading the way she keeps sitting back down.
-
-GATE 37 — One Bite
+GATE 38 — Above Him
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: none — closest wobble was "best friend in the whole world," because being picked by design is the exact thing I left other series over, but the book keeps showing me the strings on purpose, not asking me to find them romantic
-WHY: The bathroom scene — Vee's own hand stopped by an imagined gaze — is the most frightening and most magnetic thing this series has done, and "Sticky fingers?" confirmed Randi's cruelty runs quieter and deeper than I'd clocked. Pace's tenderness is still the counterweight and still utterly clean; I have to know whether Vee ever gets to see the table she's sitting at.
+CAPTURE: 8
+NEXT: 8
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Nothing "happened" and I couldn't put it down — the drawer is the most romantic thing in the book and he never opened his mouth. The tenderness is doing all the heat's work, and I'd follow these two into a chapter about grocery shopping at this point.

@@ -1,28 +1,35 @@
-*capture-dag-v2-rich · gate ch040 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · 2026-10-10*
+*capture-dag-v2-rich · gate ch040 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 1b25b893b80d · 2026-10-07*
 
 **REACTION**
 
-Okay. A swimming chapter.
+FINALLY. We open with her already on top of him, hair hanging down around both their faces, coming hard enough to shake. After three chapters of drawers and pools and Cassie at the door, the book just drops me in mid-act. I actually laughed. I said it had better be loud, and it starts loud and then goes soft, which is the right way round.
 
-I liked her in the water. I didn't know Vee swam, and the stuff the book gave me landed: the green-and-white suit she's outgrown and won't look at, "any more than she had ever once decided the second verse of a hymn," the butterfly man and the flip-turn woman sorting themselves around her lane without a word. That's Ohio and church basements in a chlorine room, and it's her own life, not his or Randi's. It's the first time in a while she's had a scene by herself, and she holds it.
+His head on her breast, feet hanging off the bed, those barely-there kisses, and her neat little theory that it's comfort and not sex for him. Then her nipple comes up under his mouth without her say, she feels him smile against it, and the theory's dead and she's *pleased*. That's the interiority I'm here for. "With Pace she was a girl who had a body, not a body that happened to have a girl attached to it." Okay. I underlined that, which I never do.
 
-There's one real moment. For four strokes she can't tell whether Pace is that good or whether she built him that good "out of wanting, out of two months of being looked at like that." That's the most grown-up thought she's had about him, and it's scary. It made me think of the outlier lecture: the error that gets into everything after it. Is he the one-time bad dot, or the thing that carries forward? Then the wall comes, she rolls, and the book lets the thought go. I think that's on purpose, and I think it's right. I'll hold onto it.
+Then the photo, and my stomach went cold.
 
-But I spent a good third of this chapter rereading Chapter 39. "Do you love him." "Maybe." "I think so." "It's all so fast." "Let the maybe stand." "Go to sleep, streetlight." I read all of that one chapter ago. I don't need it handed back to me in the pool.
+"Only if you promise you'll never share **me** with anyone."
+"Never. I'd never share **your photograph**."
 
-Then there's "did he mind," about her things on his counter. I already know he didn't mind. He gave her the top drawer and squeezed his whole tidy self into the bottom one, and that's the sweetest thing in the book. So either this Tuesday comes before the drawer and the book jumped around in time, or she's worrying over something that's already settled. Either way, all I can do is watch her worry over a question I know the answer to. And it's "hairbrush and earrings and book" now, when I remember pins, cream and scrunchies. Small thing, but I noticed.
+She asks about her and he answers about the picture. He narrows it, cleanly, in the half-second he always takes when he means to answer properly. Exact, courtly, a mathematician answering exactly what he can keep and nothing more. I read it three times. He didn't lie. He just didn't promise her the thing she asked for. And there's "He's all mine," two pages earlier, in a book whose jacket tells me they chose her together. And "sometimes I take care of it myself, thinking of you," from a man whose Saturdays belong to Randi. I'd have texted my friend all of this in capitals.
 
-Here's what I'm really counting. Chapter 38 was a lovely quiet chapter with the sex told in summary. Chapter 39 was Cassie in the beanbag. Chapter 40 is laps. That's three in a row with nothing charged, and I said I'd start skimming at the third. I didn't skim this one, because it's short and the prose is honest and not showing off. But the last thing on the page that crackled was Randi saying "Sticky fingers?" and the glaze on Vee's lip, and since then the book has gone quiet on Randi. Randi called Vee "my best friend in the whole world" and kissed her with sugar on her mouth, and three chapters later Vee is thinking about a sandwich. The thing I'm waiting for, who tells Vee about the three of them, is sitting off to the side getting cold.
+And still, the posing scene was the hottest thing in ages, and nobody touched anybody's genitals. She does her face and comes back "a girl who had decided to be looked at." He says no, not like that, then puts her where he wants her with his hands and kisses each spot after, shoulder, hip, knee. He tilts the lampshade. "Hm. Yeah. That's the one." Then the grin over the top of the phone. That's control and adoration in one motion again, the way Randi did it with the mimosa. And she *sent it*, and the book let her know the cold sane thought and do it anyway, "believing him was the brave part." I believe she's brave. I'm scared for her.
 
-At 1 a.m. I'd text: *she swims?? cute. she's still wondering if he loves her. he gave her a DRAWER, babe. also where is randi.*
+Small gripe: the third time happens off the page. "Again," her hand closes, cut to the kitchen in his t-shirt. The first time we caught only the end of. I got the edges of the sex and the middle went missing. I'll forgive it because the photo shoot was the real sex scene, but I noticed.
+
+The cooking ran long. It's lovely, the lemon zest coming off "in a fine bright rain," but I was skimming by the stock. What saved it was the turn back to her: she used to just eat, now she tastes, "and she knew exactly whose doing that was." That's the book's whole thesis on a fork and I didn't mind.
+
+Then "This is my home." "I don't go back." The way his face goes level and the words come out set apart, and she *takes her hand off it*. She doesn't push, she lets the quiet be kind, and he moves her wine an inch closer. That's grown-up and it's the scar door rattling, and I want it badly. Then Sheri, "she's alone," the little jealous flicker, and how fast it goes out. Vee's a good person. That's going to cost her.
+
+Randi has now been off the page for four chapters. I'm noticing the empty chair like it's a character. Is that nail tapping her tooth three times new, or someone's gesture she picked up? I don't trust any small habit in this book anymore.
 
 ---
 
-GATE 40 — Strokes
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 4
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "*Do you love him* was a pressure under her ribs with a dread riding it, and *did he mind* was nothing at all" — it's the third pass through questions I've already watched get asked, and one of them has already been answered.
-WHY: The swim gave Vee a body and a past that are hers alone, and the four strokes of "did I make him up" are the best doubt she's had. But this is the third quiet chapter in a row, and it recaps the one before it. I'm still in because of the doubt and because of Randi. If the next chapter doesn't bring Randi back or open something up, I'll be skimming.
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Stock after the wine, and then the lemon, sharp and immediate across everything the pan had been building" — the cooking had me skimming for a voice.
+WHY: The drought broke, and the most erotic beat was a man arranging her for a camera and kissing every place he put her. "Never share your photograph" answering "never share me" is the exact kind of gap I came for, and "I don't go back" finally put a hand on one of his locked doors. I want Randi back at the table, and I want to know where that picture goes.

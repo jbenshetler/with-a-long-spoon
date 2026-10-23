@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1e04263f57c9 · 2026-10-12*
+*capture-dag-v2-rich · gate ch055 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha cf3b0e619e49 · 2026-10-11*
 
-REACTION
+REACTION:
 
-Oh, Vee. Oh, honey, no.
+Oh, god. My stomach is in absolute knots. I don't know whether to scream, throw the book across the room, or melt into a puddle on the floor.
 
-I have a knot in my stomach the size of a fist. I read this whole chapter with my heart in my throat, utterly torn between being electrified by the pure, unadulterated heat of it and wanting to scream at my screen because a trap just snapped shut around her ankle and she is smiling while she bleeds.
+First of all: the sheer, devastating erotic perfection of that bedroom scene. Pace's control when he’s *serving* her is my absolute kryptonite. Him following her pointing finger like an obedient gladiator, tiling her body with kisses, worshiping every single inch of her without skipping a centimeter of skin, taking her completely over the edge before he even touches his own pleasure—that is everything I read this genre for. The tenderness wrapped up inside absolute, unhurried dominance. And then, when she recoiled from the taste of herself on his mouth—*"Ugh — gross. That’s — no. Wrong."*—the way he handled her "no" was breathtaking. He didn't pounce, he didn't mock her, he didn't sulk or get defensive. He literally froze mid-stroke, started to withdraw to protect her space, and when she clarified that she just didn't want the kiss, he gave her jaw that one tiny kiss, wiped his mouth with the back of his hand, said *"Okay,"* and went right back to making love to her throat and temples until *she* was the one who reached for him. That is real consent. That is a man making room for a woman's boundaries in real time, without punishing her for having them. It was gorgeous.
 
-The build-up in the dorm room was incredible—the slow, deliberate way she talked herself into bravery, testing her own weight in the mirror, getting wet just anticipating him, denying herself the release because she wanted to put the unspent fire right into his hands. And the drive! Touching herself at sixty miles an hour on a dark county road, getting terrified by the cop car, that frantic, desperate ache—I felt every single beat of that. When she opened that coat on his doorstep, bare in those absurd, gorgeous heels, it was breathtaking. And the way he broke! He fell straight to his knees on the freezing porch boards. The cold air on her wet, hot skin while his tongue worked her, the door banging in the wind, him picking her up and taking her against the couch—it was feral, desperate, and completely consumed by the weeks of missing each other. It’s the exact brand of overwhelming intensity I live for.
+...And it makes the poison underneath it a thousand times worse.
 
-*And it is completely poisoned.*
+I was sitting there, breathless, watching them lay together under that cashmere blanket—and then the horror hit me like ice water. *The cashmere blanket.* The blanket that Randi uses after they fuck. The blanket Pace specifically keeps folded for Randi's post-sex chills. Vee is lying naked on it, soaking it in her own wetness, wrapping it up to her chin, marveling that *"even the blanket here knew how to touch her,"* completely blind to the fact that Randi's scent and sweat are woven into the damn fibers. It made me physically sick. It is so intimate, and it is entirely built on an invisible, suffocating lie.
 
-Look at what happened. Look at what Randi did to her. Randi—who was literally fucking Pace on that exact same couch a month ago, plotting how to share Vee—sat on her bed and convinced Vee that demanding an emotional commitment was a mistake. Randi literally told her: *“You don’t do it with words. Words are the whole war. You just show up already being the answer.”* And Vee bought it! She traded her spine for a plate of midnight pancakes. She gave up the one boundary she drew—the boundary that made me so proud of her in chapter 50—and rewarded him for a month of cold silence by showing up completely naked and demanding nothing.
+And then the ending. Vee lying there, realizing that Pace *loves* tasting her, wondering why he's so obsessed with it, wondering why he came up to kiss her without wiping his mouth—and planning to take that exact question to *Randi*. *"Randi would know what to make of it. Randi always did."*
 
-And Pace! He started to say something at the door (*"Vee, I l—"*), but the second she opened the coat, his brain turned off, and he took the easy out she handed him. He went to his knee, he made her pancakes, he said *I'm sorry* and *I missed you*, and he gave her tears. But he *still didn't say the words.* He didn't give her a title, he didn't promise fidelity, he didn't tell her about Randi. He got everything he ever wanted: his gorgeous girl back in his bed, wrapped in a blanket, eating his food, totally pacified, without having to give up a single inch of his hidden, controlling territory.
+I gasped out loud. She's going to tell Randi! Randi, who got him to admit he went down on Vee, Randi who is sleeping with him, Randi who *orchestrated the entire coat stunt*! The dramatic irony is ratcheted up so tight it's about to snap my spine. Pace is trapped in his own web of unspoken love and sick threesome grooming; Vee thinks she's a "pleasure princess" finally getting the meal she was starved of; and Randi is sitting in the center of the web waiting for Tuesday dinner. I am terrified for Vee. When this explodes—and it HAS to explode—it is going to level the entire county. I need the next chapter right this second.
 
-And that final beat in the dorm room: Cassie looking up from her desk, taking in the coat, the rolled sweats, and Randi’s heels. Just: *"Hmm."* That one syllable from Cassie felt like a cold bucket of water. Cassie knows. Cassie sees the regression. Vee thinks she won a victory of bravery, but she just surrendered unconditionally. I am terrified for the fallout when this facade shatters, and God help me, I have to see it happen.
+***
 
-GATE 55 — Nothing Underneath
+GATE 56 — Missed a Spot
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension is excruciating. The erotic charge of her doorstep surrender was off the charts, but the dramatic irony of what she just gave up—orchestrated by the very woman sharing his bed—has me utterly hooked.
+WHY: The erotic tension and consent were masterclass level, but the dramatic irony of Vee wrapping herself in Randi's blanket and planning to tell Randi everything has me in an absolute chokehold.

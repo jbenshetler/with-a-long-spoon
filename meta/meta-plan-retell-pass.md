@@ -1,5 +1,7 @@
 # Retell Pass — compress or elide retellings, keep plot and character (opened and closed 2026-09-28)
 
+**Later ruling, 2026-10-23:** the author merged *Toenails* and *Fed* under *Fed*, then approved reducing both telling summaries and deleting Sunday's retrospective replay of Cassie's account (225 words). This supersedes this pass's instruction never to reduce the Toenails dinner list for those three approved paragraphs only. Both confidantes' relative receipt is unchanged; Cassie's response, the full midnight-kitchen account, and Randi's reception remain. The inventory and conclusions below record the earlier standalone-chapter pass; see `meta-triage-fed.md` for the merged-chapter review and reduction.
+
 *A pass to work through, chapter by chapter, on branch `retell-pass`. Source: a five-reader inventory of the nineteen Vol 1 chapters where Vee is with Cassie or Randi without Pace (2026-09-28). Rulings and status are recorded here as each chapter is done; the prose edits live on the branch until merged.*
 
 ## The test (author ruling 2026-09-28)

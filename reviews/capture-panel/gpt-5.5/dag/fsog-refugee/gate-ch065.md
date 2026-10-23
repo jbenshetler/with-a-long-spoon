@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch065 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0262c804492d · 2026-10-11*
+*capture-dag-v2-rich · gate ch065 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fc6ed94829c1 · 2026-10-11*
 
-REACTION — Oh, I needed this one more than I knew. Sheri could have been such a cheap obstacle, and instead she walks in five feet tall and loud as judgment and just knocks the whole false blonde right out of the room. I loved that Vee’s jealousy didn’t magically vanish because Sheri wasn’t beautiful in the way she’d imagined. The heat stayed, because the real threat was intimacy. The hug was the threat. His glad voice was the threat. “We cycle” was the threat. That felt so honest it hurt.
+REACTION —
 
-And then Sheri looking at Vee. God. The relief of being admired instead of measured. Vee came armed for a prettier rival and got appraised with desire and delight, and I felt her whole body unclench. That laugh of hers was perfect. It was not even funny, it was oxygen.
+Oh, this one got me in the quiet place.
 
-Pace blushing over the motorboat comment may be my favorite tiny Pace thing in ages. This man can hold an entire room steady, can make people bloom at a dinner table, can do unspeakable things with patience and command, and then Sheri says one filthy sentence and his ears go red. I am undone. I am also very aware that Sheri has access to a version of him Vee doesn’t quite have yet: off duty, teased, known, with history behind him. But for once that doesn’t make me distrust the book. It makes me want Vee to have the history too.
+I came into it still buzzing off Sheri, and I loved that the chapter let Vee wake up not punished for having had too much, not scolded, not turned into a joke, but cared for in that completely Pace way: water on the nightstand with the paper towel under it, pills already handled, shirt over her, bread made while she slept. That paper towel almost did me in. It’s such a tiny thing, but that is exactly where this book keeps finding me: not the grand gesture, the folded square under the sweating glass because he thinks about the wood and about her waking at the same time.
 
-Sheri’s story about coming out absolutely got me. Not in a melodrama way. In the horrible ordinary way: the people who owed her words didn’t spend any. And Pace showing up with coffee, donuts, a fixed lock, a repaired faucet, a bike ride, a burger, and no false comfort. That is exactly the kind of care that makes me believe him. He is not just tender when he wants a woman. He is tender as a practice. He knows how to be “there,” and the book keeps proving it in acts instead of speeches.
+And Vee being delighted that Sheri “liked” her that way was such a relief. I love when she gets to laugh at herself and be wanted without having to immediately make it either threat or shame. Sheri being gay lets the jealousy unclench, but the chapter is smart enough to show that the body of the jealousy was never only about sex. It was about access. Pace saying Sheri is his one friend cracked open the whole underside of him.
 
-But oh, the father line. Since sixteen. That landed like a door cracking open. I have been waiting for Daphne, but now there’s this whole older wound under him too, and suddenly his restraint, his home-making, his exactness, his refusal of false words all have another shadow behind them. I want Vee to know, but I also love that Sheri gives her only what she has, not a tidy explanation.
+That conversation hurt. Not in a melodramatic way. Worse: in a tidy, devastating, “this is just how the furniture is arranged” way. Pace explaining why women misunderstand his friendship, why men never happened, why the ordinary little questions have holes under them... I felt Vee realizing in real time that the loneliness isn’t decorative backstory. It is structural. It is the shape he grew around.
 
-And the ending made me soft. Pace holding the headlights on Sheri’s door until the porch light comes on, without announcing himself as noble. Vee seeing it. Vee liking Sheri. Vee sliding into the space Sheri left, not because she won but because there was finally room. That last image of his hands carrying them home steady as a table did something to me.
+And Daphne. God. I have been waiting for more of that wound, and this didn’t even give me more facts exactly, it gave me proportion. Daphne was not just first love. She was the whole social world, the whole place to put feeling, and then gone. That makes his refusal to say love to Vee even more understandable and even less excusable, which is such an uncomfortable, good place for the book to put me. I don’t want to let him off. I also want to climb through the page and hold the boy he was.
 
-GATE 65 — Another Round
+Vee’s mind moving from her own abundance of friends to his lack of them was beautiful because it wasn’t pity first; it was recognition. She doesn’t make a speech. She doesn’t therapize him. She just comes around the counter. That counter mattered so much to me. She starts with it between them because she needs it, and then once she understands, she removes it herself.
+
+The hug at the end made me ache. Her copying Sheri’s full-weight hug, cheek to chest, not apologizing at him, not making him perform pain for her, just committing her body to the truth of staying there. That is romance to me. Not heat, not yet, but the kind of tenderness that makes the heat matter when it comes back.
+
+GATE 66 — Hangover
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 8
 HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter took the rival shape and turned it into something warmer, queerer, and more painful in the best way. Sheri made Pace more lovable instead of less, and Vee’s jealousy became a doorway instead of a spiral. I want the dance hall immediately, and I want Pace’s “since sixteen” story with my whole chest.
+WHY: This pulled me hard because it took Pace’s care, which I already trusted, and showed the loneliness underneath it without making him noble or pathetic. Vee coming around the counter and holding him full-weight felt like a real turn in the bond. I want the next chapter badly now, partly because I need to see what this intimacy does to his locked mouth.

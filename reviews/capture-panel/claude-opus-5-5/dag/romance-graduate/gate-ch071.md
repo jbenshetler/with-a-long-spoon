@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch071 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d556fe46d58e · 2026-10-11*
+*capture-dag-v2-rich · gate ch071 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c14c8e832ee2 · 2026-10-11*
 
 **REACTION**
 
-Okay. *Okay.* It's 1 a.m. and I'm texting my group chat in all caps.
+Okay. I came in braced for a bridge chapter and that's what I got. After 71 I needed one, so I don't resent it. My thumb didn't stall until about a third of the way in.
 
-This is the chapter I was afraid of, technically: the mixer told a second time, to a man in bed. I said I'd skim it. I didn't skim one line, because the retelling *is* the sex. Every true sentence buys her an inch, every tidied one gets her lifted off him, and "We danced bigger" gets her held there, empty, on just the head of him. That's the best scene of its kind I've read in years, and I've read a lot of interrogation-by-orgasm. It works because the game isn't a gimmick. It's the exact machine her shame needed. She can't confess to anyone, and he built her a way to confess where her body pays for every lie. "She moved me around." Stopped. "That wasn't it." God. I could feel her looking back at the thing she'd smoothed over. "I didn't try that hard to get my hands back." "Soaked. God, yes, I was soaked." And then the last coin isn't the kiss, it's what the kiss *was* to her. That's emotional intelligence and filth in the same stroke. It's what I'm here for.
+The Sunday paragraph is clever. "Full of him and not, somehow, filled." Three times and every time she started it, taking the book out of his hands. That isn't greed, it's someone trying to put a fire out with a fire. Then Monday in the bunk with her hand flat on her stomach, "a lid held down on a pot," was the part that really got me. She isn't touching herself because she knows whose name comes with it. Her logic is that as long as she doesn't do the thing, it stays "only wanting," and that's so exactly how a scared person bargains that I winced. And *Pace made a point of telling her so* is a line I flagged hard. He's given her permission to touch herself, and he probably knows exactly whose face she'll see. Does the man ever leave a door open by accident? No, he does not.
 
-The opening at the dorm: she's bare, her finger stops, she pictures *Randi's* mouth finding that smoothness, "an offering with the wrong name on it." Then she stops *again*. My first thought was oh no, another held inch. But this time the stop goes somewhere. She puts the skirt back on, leaves the thong stuck to her, and drives twenty minutes to use her boyfriend as a wall. "She was not trying to have him. She was trying to get free of something." That's ugly and true, and I've never seen a heroine allowed to have angry sex at the man she loves *because of someone else*. And she ends up raw inside, "the kind you got from not stopping when you should have." I appreciated the book letting it cost her physically.
+The class was the best part, and it's built on almost nothing. A knee on an armrest. The Lifesavers she forgot for the first time ever. Then Randi's fingertip dragging the inside of her wrist, and "it went on not being static." That's the wrist. That's Pace's move, the one he does on Randi. Now Randi is doing it to Vee, and I can't tell whether she learned it from him or he learned it from her. Either way it made me feel slightly sick, in a good way.
 
-Now the part that has me pacing my kitchen. PACE. He knows. He's been sleeping with Randi, Randi told him Vee loves him, he's heard "she looks at you, too" in his own bed. And he lies there and *runs* her. "Do you want to sleep with a woman, Vee?" Stepping around Randi's name "like a gentleman stepping around a puddle." Then "You keep saying her name. Not me." Vee reads that as the sweetest thing he's ever done, him defending himself for once. My stomach dropped. He defended himself because he's the only one in the room with something to defend. "It settled over her like a warm blanket," and then he tucks an actual blanket around her. I see you, book. I see what you did.
+Then "Having you at the dance was so great. I've wanted to do that for the longest time." *Having.* Pace dragged that word out of Vee one inch at a time on Saturday night, and now Randi just says it in a coat, out loud, and Vee hears it with his whole bed behind it. Then "I've got to go discipline a bad girl." HELLO? Standards committee, sure, babe. Randi says that kind of thing on purpose, I'd bet my Kindle again. And the neck, the exact spot Vee's mouth went to twice. "See? How do you like it?" Randi is playing a long game and has started taking her turns.
 
-And she lied. "No. Nothing." It's the first lie she's ever told him, and it's about the goodbye kisses and her own hand, to a man who's been lying to her for weeks. Then she remembers the roadhouse lot, that he was three steps away, and there's a "thrill she could not account for." Nobody at this table is clean anymore, and Vee thinks she's the only dirty one. That's the dramatic irony I came for. It's agonizing.
+What actually moved me was Vee turning her mouth away on purpose. She didn't fumble it, she turned it. In this book that refusal is the most honest thing she's done, because she won't take the kiss when she knows what it would mean to her. Then she blurts "Brunch" from somewhere below her own brain, and I laughed out loud. She lasted about four seconds.
 
-Small gripes, since I'm honest at 1 a.m. "She heard the word the way he'd heard it" happens three or four times, and by the third I'd caught the trick. "The truth wearing the joke's own clothes" is the narration doing a little of my reading for me. And "Saturday's mine with you"? My notes said Sunday. Whatever. Also, Tuesday, Dr. Marsh's room, side by side? I'd lost that they share a class, and now I'm dreading it in the best way.
+I do have one complaint. The paragraph about "a door cracked open, and behind the door stood something larger than heat" was the book leaning over to make sure I got it. I got it in chapter 71, with his hands on her hips. That's the explaining-the-subtext thing I can't stand, and it happens a couple of times here, along with a bit too much "apprehension holding its hand." This chapter is mostly interior weather, and it goes on a beat too long.
 
-How I feel now: Vee is braver and more lost than ever and I'd take a bullet for her. Pace I want to shake. He's a beautiful lover and an architect, and tonight he drew a blueprint on her body. I think he'll have Randi's name in her mouth by the end of the month and call it her own idea. And still, his heart was hammering like it had somewhere to be. He's not cold. That's what makes it worse.
+But Cassie, at the end, with her coat still on: "What was that with you and Randi?" WHAT DID CASSIE SEE?? She came home recently. Was she outside? Did she see the neck? And Vee can't answer her oldest friend. That ending pulled me forward the way a series hook should.
 
-**GATE 71 — Boyfriend**
+Also, logistics: Saturday was always Pace's, and Vee just said so in his bed. Now Saturday is brunch. And the dance hall with Sheri? I'm still lost on dates, and I suspect Vee is going to double-book her own heart.
+
+GATE 72 — Coming Due
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "She stopped. She took the hand back and held it against her own breastbone like something she'd caught stealing." For one sentence I thought it was yet another closed-inch tease. Then she got back in the skirt and drove.
-WHY: The confession-for-inches scene turned a retelling I was ready to skim into the hottest, most psychologically exact sex in the series. The first lie, told to a man who's lying worse, is a real turn in the bond. Tuesday is circled in my head now too, and I'm reading on tonight.
+CAPTURE: 6
+NEXT: 8
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "Saturday's joke had cracked open a door, and behind the door stood something larger than heat and more durable, that half of her strained toward, wanting to see it, while the other half would not look."
+WHY: It's a quiet chapter that's a little overwritten in its middle stretch, but the wrist, the word "having," the deliberate turned-away mouth and the neck kiss carry it. Cassie's question lands right on the cut, so I'm turning the page. If 73 is quiet too, I'll start counting.

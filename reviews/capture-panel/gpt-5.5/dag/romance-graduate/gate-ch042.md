@@ -1,32 +1,26 @@
-*capture-dag-v2-rich · gate ch042 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 97724b44da95 · 2026-10-01*
+*capture-dag-v2-rich · gate ch042 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 499423a1f58c · 2026-10-10*
 
 REACTION —
 
-Oh, this one got me in the exact tender-danger place.
+Oh, this chapter made my stomach drop in that very specific “the book is finally letting me into the room I’ve been afraid of” way.
 
-Because on the surface this is just brunch. This is eggs Benedict and mimosas and two women being deliciously, lazily intimate in a dark booth. But underneath it, I felt like I was watching Vee hand Randi the key to the whole house and think she was just showing her a cute room.
+Because I knew, obviously, that Pace and Randi were talking about Vee. I knew they had their own erotic engine running on the thought of her. But being inside it this plainly is worse and better than I expected. Worse because Vee is still living her beautiful little chosen life thinking these relationships are separate rooms, and they are absolutely not separate rooms. Better because the book is not pretending the adults are clean. Randi and Pace are both capable of real tenderness and real exploitation in the same breath, and that is much more interesting than making either of them a cartoon villain.
 
-The thing that undid me first was Vee trying to explain “the amount.” Not as bragging, not as shock value, but as this bewildered confession that desire has become climate. She has sex brain, yes, but the way she says it is so young and so honest and so not stupid. She’s not asking “am I hot now?” She’s asking “am I wrong now?” And Randi, damn her, gives the perfect answer. “Finally hungry out loud” is exactly the kind of line that would make me text someone at 1 a.m. in all caps and then stare at the ceiling. It is an absolution, and it is also a hook through the ribs, because Randi knows exactly how to sanctify Vee’s appetite while keeping herself seated right at the center of it.
+Randi scares me so much here. Not because she wants Vee. I believe she wants her; that slipped out of her too honestly to be only strategy. “God, I want her” felt like the chapter’s little trapdoor opening. But she keeps trying to relabel desire as labor. “I’m doing the work” is such a gorgeous, awful self-defense. She wants the kisses, she wants the Saturday booth, she wants Vee looking at her in the sun like nothing is better in the world, and then the second that wanting becomes visible she shoves it back into the threesome plan where it can sound useful. I absolutely buy it, and I absolutely do not trust it.
 
-And I hate how much I loved Randi here. I do. I want to be more suspicious than I am, but then she listens like that. She doesn’t flatten Vee’s happiness into gossip. She receives the sex, the food, the sleep, the quiet, the being-looked-at, all as one continuous thing. And then for one second the mask actually slips. When Vee says Pace wants her “with the body attached,” Randi is visibly hit by it. Not amused, not managing the scene, hit. That did something to me. It made her feel less like an operator and more like someone who is also starving, just better dressed and better armed.
+And Pace. God. He is still the man who asks the right question. “Does she consent?” “Does she want it?” “That isn’t what I asked.” Those lines matter. They kept me from just flinging the book across the room. He has a conscience in the middle of this, and that almost makes me angrier, because he knows enough to ask the ethical question and still somehow not enough to tell Vee the truth. His care is real. His arousal is real. His compartmentalizing is real. That is the whole problem.
 
-But then the pictures. God. The pictures.
+The sex was hot, but not in a simple “yay, couch” way. It was hot because it was tangled with confession. Randi talking herself apart while Pace pulls the truth out of her body — that is exactly the kind of explicitness I want when I say I don’t want the book to go coy. The physical scene had a reason to exist beyond heat, but also, yes, it was hot. The wetness, the mirror, her not looking back, the “work” argument collapsing under her own orgasm. I felt that.
 
-I knew this was coming from the second Vee mentioned the phone, and still my stomach dropped. Pace promised never to share her photograph, and he may not. But Vee sharing it with Randi feels like the book threading the needle in the most awful, brilliant way: Vee is choosing it. Vee is proud. Vee wants to be brave in front of Randi. And Randi barely has to touch the lever. “You don’t have to show me” is so clean it leaves no fingerprints, and of course that’s what makes Vee show her. I’m not even saying Randi planned that sentence, which is worse. With Randi, instinct is almost indistinguishable from strategy.
+What really got me, though, was the after. Randi needing the blanket, pulling his arm tighter, asking him to say something nice. That little exhausted child-place under all her gloss. “You see more of me than anybody ever has” hurt me, because yes, he does, and that’s why she is so dangerous with Vee: she knows what being seen can do to a starving person. She knows because she is starving too.
 
-And poor, glorious Vee, who thinks this is what having a real intimate friend feels like. Maybe it is. That’s the cruelty. She’s not wrong that this is something she has never had: a woman she can tell the whole thing to, a woman who won’t flinch or scold or make her tidy herself up. But she also doesn’t know Randi is not outside the story. She thinks she’s narrating her life to a friend. She is feeding information directly into the concealed third game.
+I am furious and fully caught. Vee is being loved and prepared at the same time. That is the sentence I can’t get away from. Loved and prepared. And now I need the book to make somebody pay the emotional bill.
 
-The class invite made my heart pinch. “It’d be like stats, except we’d have picked it.” Vee wants a chosen version of their closeness, something innocent enough to put on a schedule. And Randi saying “Just us” with that roughness under it? I absolutely felt the romance there, or whatever dangerous cousin of romance this is. Randi wants her. Not abstractly, not just as a toy for the table. Wants her.
-
-And then the goodbye kiss. Vee taking the second for herself. That was the turn. Not Randi drawing her in, not Randi pushing, but Vee noticing her own reach and deciding not to bother about it. That’s the part that makes me want the next chapter right now, because Vee is moving. She is still blind to the worst thing, but she is not passive. Her wanting has legs now.
-
-Also: the food writing continues to be obscenely effective. The yolk and hollandaise running together was basically a sex scene in a blazer. I’m not complaining.
-
-GATE 42 — All the Time
+GATE 43 — Four
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 2
+CAPTURE: 10
+NEXT: 10
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This was exactly the kind of quiet chapter I’ll follow anywhere: charged conversation, food, confession, and one kiss that changes the temperature of the whole book. I’m deeply nervous about Vee showing Randi the photo, but not in a “put it down” way; in a “oh no, keep going” way.
+ALMOST-STOPPED: “She consents — every time — or I'm done.”
+WHY: That line nearly knocked me out of the spell because it underlined the exact horror: they know consent matters and still have Vee inside a plan she cannot see. But the chapter was too charged, too revealing, too emotionally filthy in the good way for me to stop. I need the reveal like oxygen now.

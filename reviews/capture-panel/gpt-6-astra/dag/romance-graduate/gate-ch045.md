@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch045 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-10*
+*capture-dag-v2-rich · gate ch045 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha d75264abed57 · 2026-10-10*
 
 REACTION
 
-The jeans and the socks got me. I like Vee hungry enough to be ridiculous, and I like him enjoying her hopping around his hallway. “You’re not helping.” “I’m helping.” Yes, fine, that works on me. The reunion had heat before they reached the bed, especially that moment when she forgets what she’s doing and leans back into him.
+Oh, Cassie. “Not to your dad. To you.” That got me sitting up. I’ve listened to Vee tell Randi everything he does to her and for her, and this is the question I wanted someone to ask. Especially someone who isn’t going to take the answer back to his couch.
 
-But she *did* need to study. I was pleased she took those five nights, and pleased he accepted it, and then I bristled at the suggestion that her orgasm exposed some “careful story” she’d told herself. She can need her textbooks and desperately want his mouth. Please let her have both without making her body the witness against her judgment. I also wanted to know whether she caught up. That matters to me now.
+The cropped picture hurts a little. Her mother carrying her achievement around in her purse is lovely, even with the collarbone policing, and I understand wanting to keep the dress she enjoyed wearing separate from the dress her parents can bear to see. The sewing detail made me laugh in recognition. Yes, absolutely, a father who could accommodate a sexually active daughter more easily than a boyfriend with a sewing machine. But by the explanation of “wrong” versus “weird,” I was thinking: I got it, Vee. You can leave that there.
 
-I started skimming during the pizza. I know. I know he cooks beautifully, I know she can taste the separate ingredients, I know he watches her first bite. I’ve just sat through her telling Randi how much all of that means. The little admission that he might be giving the dough as much attention as her made me smile—it let him be a person absorbed in something—but another whole meal of her discovering flavor felt like waiting.
+What bothers me is that she’s doing all this careful work to make Peter understandable to people who love her, while he still hasn’t given her the information she needs to understand him herself. “My father would start looking for the catch.” Honey. There is one. And after watching him with Randi, I can’t enjoy that line as a little joke about the impossibly perfect boyfriend.
 
-Then the shirt absolutely got me. His little hurt when he thinks she’s returning it. Her rushing to say it’s still hers. Putting it on over his other shirt immediately. That is the bit I’d text a friend: *He’s wearing two shirts because she needs one to smell like him and unfortunately I am susceptible.*
+I liked being back with Cassie, with trays and somebody’s mildly dorky brother-in-law and parents who haven’t quite caught up. Vee has a life I want her to keep. And that last little disappointment when Cassie stops asking feels painfully right: sometimes you want your friend to spare you and also somehow get the answer out of you. I wanted Cassie to stay with it, too. This held me, but the ending left me frustrated more than hungry. We have reached another question Vee can put down without answering. I’m still here; I’m getting impatient.
 
-And unfortunately I remember what he was doing with Randi two chapters ago. I remember them discussing when Vee will be “ready.” Now Vee is standing there making this mortifyingly tender request, trusting him to understand how attached she is. He does understand. He understands enough to put the shirt on immediately. How does he keep understanding her this well and still leave her without the truth?
-
-That’s where I am: moved, turned on, increasingly angry. The shirt bought him affection from me. It did not buy him more time.
-
-GATE 45 — The New Ordinary
+GATE 46 — Cropped
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 6
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: “She could taste all of it. That was the strange thing, the thing she had no frame for.”
-WHY: I nearly slid out during another revelation over dinner, but her asking him to wear the shirt brought me right back. I still care enough to continue; I’m much less eager for another visit that deepens her attachment while he keeps quiet.
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: “Wrong is something he understands and rejects. Weird is something that doesn't fit anywhere in how he sees the world.”
+WHY: Cassie asking what he is to Vee matters to me, and I believed Vee wanting both the escape and the push. But I need one of these uncomfortable questions to survive the end of a conversation and change what somebody does.

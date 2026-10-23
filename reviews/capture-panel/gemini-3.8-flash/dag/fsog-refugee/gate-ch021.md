@@ -1,20 +1,30 @@
-*capture-dag-v2-rich · gate ch021 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1f134f523a50 · 2026-10-01*
+*capture-dag-v2-rich · gate ch021 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 332b2e10547e · 2026-10-23*
 
-REACTION
+REACTION:
 
-Oh, my heart just cracked in half for her. That last line felt like a physical blow to the chest. *"She had never in her life been so happy."* God. Knowing what is ticking underneath this floorboards while she stands bare in her cold dorm room, riding that high, just hurts. It is so deliciously, terribly painful.
+Oh, god. My stomach is in knots. It is an absolute sick, thrilled, terrified knot.
 
-This chapter was so short, but every single beat landed with utter perfection. The detail about not packing a bag because packing a bag would mean admitting what she went there to do? That is *so* Vee, so intensely true to the psychological war she’s been fighting with herself her whole life. And the unbrushed hair, the bare face in his mirror, laughing at red lights—she is completely glowing, undone in the best possible way.
+Look at what this author is doing with Vee. The pure, shining afterglow of Chapter 20—driving home bare under her skirt, grinning at every red light, walking into the dorm smelling like cereal and cool autumn air—it is so sweet and earned. Vee realizing she gave her green satin away, having to pull her zipper back up in front of Cassie because she’s literally naked underneath, that is the most delicious "walk of shame" (except she feels zero shame!) I’ve ever read. And Cassie, bless her heart, tossing out that dry little "Was he worth painting your toenails?" while drinking brown cereal milk. Cassie is the anchor. She’s the safe harbor.
 
-And then Cassie. I love Cassie so much, and that’s why watching Vee start to keep secrets from her makes me want to scream. Vee editing the middle out like ladling soup from a pot where the surface just closes up—*"telling herself it was a kindness"*—is such a brilliant, heartbreaking observation of how we justify hiding our depths from the people who love us most. Cassie is the safe harbor, the girl with the cereal milk and the soccer cleats who keeps Vee anchored in the real world. But Vee’s world has tilted off its axis. When she reached for that skirt zipper and froze because she remembered she literally traded her soaked underwear to him in his kitchen? Pure, breathtaking tension. Cassie saying *"You need to get your brain back from your boyfriend"* while being so completely in the dark about what actually happened... it kills me.
+And then Vee walks straight into the spider’s web.
 
-She thinks she’s safely in love. She thinks she finally found the place where she can be hungry, messy, unbrushed, bare, and wholly adored. And she *is* adored—Pace truly loves her, you can feel it in the Chianti and the fra diavolo and the sheets—which makes the inevitable car crash of Randi and the bet feel ten times worse. I don't want this morning-after haze to end for her, but I also need to turn the page immediately.
+Randi at brunch. God, Randi is *evil* in the most breathtaking, deeply pathetic, intoxicating way. The manipulation is so quiet you can barely hear the gears turning, but they are grinding away. That story about running into an "old boyfriend" who was "in such a hurry"—she is talking about *Pace*, isn’t she?! She has to be talking about Pace in Chapter 14! Or she’s setting up this contrast just to extract every drop of intimacy out of Vee. And the way she interrogates her—not like a gossip, but like a predator savoring every detail of a meal someone else ate for her. *“You didn’t buy those hoping he’d be a gentleman. You bought them hoping he’d give you no reason to keep them on.”*
 
-GATE 21 — Toenails
+And Vee, poor, starved, beautiful Vee, thinks this is what having an older sister or an amazing best friend feels like. *“The friend she’d wanted at fifteen and stopped expecting to get.”* That line broke my damn heart. Vee thinks Randi is validating her, cheering for her appetite, freeing her from her mother’s voice. And Randi *is* doing that—while simultaneously getting high off the secondhand contact high of Pace, and grooming Vee into her own orbit!
+
+When Randi’s voice started slipping—the esses running long, the liquid look in her eyes, Vee thinking *she's drunk* but she barely touched her mimosa—my breath caught. Randi is drunk on *her*. She is drunk on the arousal and the proximity and the possession.
+
+And then the curb. The first kiss in the convertible was a test. This second kiss—the light hand on the hinge of the jaw, the mouth soft, the drawing-back and the *second press*, and Vee meeting it? And not even checking the street this time?!
+
+The trap is springing shut, and Vee is driving home with the radio up thinking she’s finally happy. I need Chapter 22 immediately. I feel like I'm watching someone dance on a trapdoor.
+
+***
+
+GATE 21 — Fed
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 1
-ROMANCE: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The contrast between the mundane dorm room with cereal milk and the intense, lingering shockwaves of what Pace did to her was utterly pitch-perfect. Seeing Vee edit herself with Cassie while standing there secretly bare under her skirt made my heart ache. I need the next chapter right now.
+WHY: The psychological tension is suffocating in the best way; watching Randi gently, ruthlessly weave herself into Vee's newfound sexual confidence makes me want to scream at the page and read fifty more chapters right now.

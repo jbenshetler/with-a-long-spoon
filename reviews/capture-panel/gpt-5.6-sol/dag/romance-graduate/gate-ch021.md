@@ -1,22 +1,28 @@
-*capture-dag-v2-rich · gate ch021 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 1f134f523a50 · 2026-10-01*
+*capture-dag-v2-rich · gate ch021 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 332b2e10547e · 2026-10-23*
 
-REACTION
+REACTION — Oh, this is getting dangerous in exactly the way I wanted.
 
-Oh, that smile. The one that survives the mirror, the wild hair, the drive home, every red light. I felt absurdly happy with her for about thirty seconds—and then Cassie’s face changed before she could hide it, and my stomach dropped.
+The first thing that got me was Cassie. That half-second expression, Vee giving her the cleaned-up version, Cassie quietly declining to tug at the seam—and then “boyfriend.” Vee is so incandescently happy that I’m happy with her, but she is already dividing herself into what Cassie gets and what Randi gets. Calling that omission a kindness twice did not convince me for a second. Cassie knows there is a room she has not been invited into. She is simply too decent to pick the lock.
 
-Because Vee didn’t just keep the explicit details private. She edited out the emotional center. She gave Cassie the safe old vocabulary—sweet, good kisser, good cook—when what happened was that Vee’s body finally became a place she could live inside without apologizing. Cassie is exactly the person who would understand the difference, and Vee knows it. Calling the omission a kindness twice made it feel like the first little locked door between them. Randi’s world is already teaching Vee that intimacy means selective disclosure, and I hate that Cassie can feel the seam but loves her enough not to pull at it.
+And then Vee forgetting she has no panties on. God. Not performative, not arranged for anybody’s gaze, just the private physical fact of what she chose still humming through the ordinary morning. Her mother’s word can come and she no longer much minds. That may be the sexiest part of the aftermath: she is happy without immediately putting herself on trial.
 
-And yet: driving home bare beneath her skirt, purple toenails out of season, hearing her mother’s imaginary verdict and discovering she simply does not care? That got me. It isn’t only that Pace wanted her. She did something shameless by her own old definition, woke up happy, and remained happy in daylight. The panties weren’t taken; she gave them away and likes that they are gone. I’m grinning with her even while I’m scared for her.
+Randi, though. Randi is going to kill me.
 
-“You need to get your brain back from your boyfriend” hurt in two directions. Boyfriend is sweet and hopeful and probably not wrong emotionally—but it may be disastrously wrong factually, because Vee still doesn’t know what relationship she has entered. And Cassie saying it “kindly, certainly, wrong” makes me think the book knows exactly how alone Vee has become inside the happiest experience of her life.
+I do not believe that convenient old-boyfriend story as presented. Maybe some version happened, but it is too perfectly built to make Vee feel fortunate, generous, and slightly obligated to provide the better story. “I’m running on fumes here” is almost obscene when I know what Randi is actually feeding on. She is asking Vee for details about Pace while pretending she has no stake in Pace, and Vee experiences that appetite as the friendship she has wanted since she was fifteen. That is heartbreak waiting patiently at brunch.
 
-That final happiness landed like a threat. Not because it isn’t real. Because it is completely real, and Pace and Randi are letting her build it on a fact pattern they know is false. I want to stay in this glowing morning with her. I also want to shake both of them until the truth falls out.
+Except—and this is why I cannot flatten Randi into a villain—she gives Vee something real and necessary. Earlier she rewrote Vee’s agency into helplessness because that version excited her. Here she does the opposite. She will not let Vee narrate herself as a passive recipient of Pace’s desire. The toenails, the underwear, getting in the car: Randi gathers up all the choices Vee had minimized and hands them back to her as intention. “I wanted it. And I took it. For once.” Yes. That belongs to Vee, even though Randi maneuvered her toward saying it. I hate the machinery and love what came out of it.
 
-GATE 21 — Toenails
+“Because I love you” landed like a dropped glass, even disguised as friendly preamble. Randi’s voice changing while she imagines Vee preparing herself for Pace—those stretched sounds, those liquid eyes after barely touching her mimosa—was hotter to me than another explicit scene would have been. Vee notices the arousal and has no category for it, so she calls it drunkenness. Randi is practically trembling in plain sight.
+
+And then the kiss. The first one frightened Vee into checking the windows. This time she expects it, meets it, and does not look to see who witnessed it. That is a real turn. She still has not consciously named her desire for Randi, but her body has stopped pretending the kiss is some French social eccentricity. Randi calls her “my girl,” “sweetheart,” “darling,” “gorgeous,” touches her hand, holds her jaw, kisses her twice—and Vee drives away thinking the day is simply good. Babe. You are already inside it.
+
+I’m elated for Vee and sick for her. Pace feeds her body and makes the week bend around him; Randi feeds her language for herself and becomes the person she can tell. Together they are giving her exactly what she has always lacked while hiding that they designed the hunger’s route. The happiness is real. That is what makes the deception unbearable.
+
+GATE 21 — Fed
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 1
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee’s happiness is intoxicating, but the first real seam opening between her and Cassie frightened me more than any overt manipulation has. I need to know whether Pace treats this as the beginning of something named—and how long Vee can keep calling edited intimacy a kindness.
+WHY: Vee meeting Randi’s second kiss without searching the street afterward changed the triangle, quietly but unmistakably. I need the next chapter because Randi can no longer hide her desire from me, Vee is beginning to answer it with her body, and every genuinely healing thing Randi gives her makes the concealed arrangement more explosive.

@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha a3af5d5e997c · 2026-10-07*
+*capture-dag-v2-rich · gate ch045 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-07*
 
-REACTION — Oh, the shirt got me. Completely. Not because sleeping in something that smells like him is new territory, but because she brings it back and asks him to make it smell like him again—and he understands the whole confession inside that request. He does not tease her, make her say how badly she missed him, or enjoy her embarrassment. He just puts the absurd second shirt on immediately. “All weekend.” That is exactly the tenderness I keep coming here for: he takes her need seriously without making her feel needy.
+REACTION — Oh, Cassie. Again she asks the cleanest possible question and leaves Vee completely free to answer it. “Not to your dad. To you.” That went straight through me. No teasing, no seductive interpretation, no secret agenda—just *what is he to you?* And when Vee can’t say, Cassie distinguishes can’t from won’t, accepts “both,” and stops. I trust her so much.
 
-And I felt the five nights. I felt her wanting him to object when she said she needed time for school, too, even though I was fiercely glad he didn’t. That unreasonable little wish is painfully recognizable: she needed his respectful answer, but some part of her also wanted evidence that losing those nights cost him. Instead he gave her the much better thing—no punishment, no chill, no emotional invoice—and waited. It is deeply sexy that she can step away and find the door still open. It is also a little frightening how thoroughly her body and her idea of home have relocated to him. Five nights apart should not feel like deprivation this early, and she is trying to keep up with school while “burning her nights down to the wick.” I don’t think the book is presenting that entirely uncritically; Vee herself knows she had to pull back. Still, she lasted five nights and came racing back.
+But Vee being grateful Cassie didn’t push and also wishing she had made me ache. She wants help naming this. Maybe she even wants someone to notice that the story she can tell about Pace is a cropped version, just like the photograph: respectable doctorate, hiking, dancing, age close enough not to alarm anyone. Below the crop is the bare leg, the expensive dress he made, the sex, the drawer, the shirt she sleeps in, the dominance, the love—and still farther outside the frame is the truth Pace and Randi are keeping from her. She thinks she’s the one deciding what her family can bear, while she still doesn’t know her own picture has already been cropped for her.
 
-The reunion was hot because it was so plainly hers. She arrives ravenous, drags him down the hall by his shirt, fights her jeans, throws her underwear, and lets her own unguarded sound announce exactly how much she has missed him. He slows her without denying her urgency. That balance continues to undo me: he can physically stop her with one hand, but the control never erases where she is trying to go. Even the ridiculous white socks made it better because she is not performing a polished seduction. She is laughing, hopping, losing clothes, and burning for this particular man in this particular house.
+The boyfriend question mark bothered me more than I expected. She spends most of her nights in his bed, keeps herself in his bathroom, carries his scent home, and loves him—but they apparently have never plainly said what they are. That could have felt dreamy earlier. Now it feels dangerous. Pace’s actions are wonderfully eloquent, yes, but silence is doing too much work in this relationship. Vee cannot tell Cassie what he is because Pace and Vee have never made the language together, and Pace knows there is a whole hidden answer she has not been allowed to see.
 
-The pizza did something quieter and nearly as intimate. I love that she can watch his attention settle somewhere other than on her and not feel abandoned by it. She is learning his care as a quality of the man, not merely a show he puts on to enchant her. But the line about not knowing whether she or the dough received more attention also brushed that old doubt in me: is she finally seeing Pace clearly, or making every feature of him proof that she belongs here? I believe his care. I also know the enormous withheld truth is sitting underneath every domestic pleasure, and the safer this house becomes, the worse that truth will be.
+And the dress—God. I love that she is proud he made it. I love the weirdness of him: this enormous controlled man at a sewing machine, building beauty for her because she once mentioned wanting it. That remains intensely romantic to me. But her father’s instinct that “too good is its own kind of suspicious” landed with a thud. He would be looking for the wrong catch, perhaps, but there *is* one.
 
-That is the ache now. The drawer, the food, the open door, the shirt being filled with his scent over and over—these are rituals of attachment. She is building her weeks around returning to him while he still knows that her best friend is his lover and that they chose her together. I can be melted by him and furious with him in the same paragraph, apparently. This chapter made me want him to say he loves her, but it also made me dread it more. He must tell her first. He must.
+I would text a friend: “Her life is cropped at the waist and she doesn’t know someone else chose the frame.”
 
-Still: the image I’m carrying is this enormous, controlled man standing in his own warm kitchen wearing two shirts because the woman he loves gave him an assignment. That is so exactly my weakness I almost resent the book for knowing.
-
-GATE 45 — The New Ordinary
+GATE 46 — Cropped
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
-HEAT: 2
-ROMANCE: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The reunion pulled me hard, but the shirt finished me: her vulnerable, specific need met with immediate tenderness and not one grain of mockery. I’m desperate for the truth to come out before this beautiful new ordinary becomes an even deeper betrayal.
+WHY: This was quiet, but it pressed directly on the thing frightening me most: Vee cannot name what Pace is to her because their beautiful domestic intimacy still has no spoken frame—and the real frame is being hidden from her. Cassie’s restraint felt like love, but Vee’s tiny wish that she would push tells me she is getting close to needing the question she cannot yet ask.

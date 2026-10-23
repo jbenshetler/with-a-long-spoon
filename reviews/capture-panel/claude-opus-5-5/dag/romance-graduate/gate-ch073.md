@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch073 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c10b93dddd9c · 2026-10-15*
+*capture-dag-v2-rich · gate ch073 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 710d07207a12 · 2026-10-15*
 
 **REACTION**
 
-Okay, Cocoa Pebbles. I laughed out loud, and then my throat went tight, which is not what I expected from a two-page chapter.
+Okay. The first thing I did was flinch, because there it was: a brunch, a retelling, the painting again. I literally wrote myself a note saying if the next chapter was a table retelling the weekend, I'd start skimming. For about a page I was ready to. Then Randi's stockinged foot pressed into the front of those church-pew pants, Vee grabbed it with both hands, and she couldn't let go "because to let go now would be to make something of it." I stopped skimming. The retelling isn't the point here. The listener is, and so is what Vee's thumb is doing on the arch of that foot while she says "into me." Once you have that, it isn't the debrief formula anymore. It's foreplay, and a nicely nasty kind.
 
-I've never read one this short, and my first instinct was suspicion. Is this a scene, or did the author just not want to write the conversation? By the end I'd decided it's a scene, mostly. It's the exact shape of the moment. Vee can't produce an answer the size of the question, so the chapter isn't the size of a chapter either. That might be a technique. I'll know when I see whether she does it again.
+The dressing scene killed me. "Don't be a sex pervert," the pearls, buttoning her cuffs, dressing "to meet somebody's parents" to have brunch with her best friend. Then Randi goes "You look like you're about to inherit something," and I laughed out loud. The feet-pics joke was a perfect Randi decoy, and it worked on me exactly the way it worked on Vee: *I can do this.* Sure, babe.
 
-Cassie is the best thing in this book that isn't having sex. "Is this what you want?" She didn't ask what happened or what Randi is to her, just the one question with the floor taken out from under it. Then Vee picks up the oldest fight they have, "you've never liked her," lays it down like a plank, and Cassie steps over it without looking down. I loved that. I've watched a hundred heroines get rescued from a hard conversation by a knock at the door. Here the rescue is a roommate who refuses the bait and offers cereal, and it's kind instead of convenient. "You didn't have dinner." It isn't a question. It's Cassie keeping the score Vee stopped keeping.
+The photo. I knew she'd show it the second her eyes went to the bag. The description is the most explicit thing in the book, and it isn't coy at all. "So plainly needy it was hard to look at." Then "I'd hang that over my bed," and "If it doesn't mean no anymore, honey, maybe you should tell him." That's Randi doing Pace's work, or their shared work, and handing it to Vee as friendly advice. I'm sure of it. Then the bathroom. She finally comes with Randi's face in her head, and it's the mouth coming up from between her thighs *not wiping anything*. That's the whole emotional knot tied in one image: he wipes, she wouldn't. It's hot, and it's smart about what she actually wants. And the inch at her own lips still stays empty. I'm a little tired of that, honestly. But this time I believed it was her and not the author stalling, because she got everything else and *still* couldn't close it.
 
-The part that really got me is that Vee actually goes looking for the answer. She reaches, hits the edge of something "close and large," and backs off before she can see its size. That's real interiority. She's in denial, but it's an active, effortful denial, not a heroine with nothing going on inside. Her neck says yes, and her mind files that under "a thing skin did on its own." She's still running "not my thing" and the body-is-nothing defense. I'm counting how long she can keep that up, and the answer is not much longer.
+Now the part I'm side-eyeing hard. Randi is alone with the phone for however long Vee was gone. Screen lit, head bent. Then she shuts it off and turns it **face-down** before sliding it back. Two chapters ago Vee herself said "the phone turned face-down" is what a cheat does. Did she send it to herself? To Pace? Was she just sitting there wrecked? Her eyes were glassy and dark and she wasn't smiling. Vee reads that as sadness, as *I did something to her*. I read it as Randi in love and in pain, holding a picture of the girl she wants, painted by the man she's sleeping with, while that girl gets herself off ten feet away over her. Vee is misreading it completely, and the book trusts me to see that without spelling it out. Thank you.
 
-The thing that nagged me is the last paragraph. "That was the size of what she could answer tonight... only this one, small enough to hold in two hands." I got it. I got it at "a want the size of a bowl." Spelling it out a second time felt like the book leaning over my shoulder to point. It's a small sin, but it's my pet sin.
+Then "Let me say goodbye right." Both hands. Every step of it, the first press, the inch of cold air, the second. Vee's fists close on the front of Randi's coat, and Randi's breath isn't steady after. And Vee thinks "she must have been worried." Oh, sweetheart, no. I'd text my friend at 1 a.m.: *she turned her phone face down. SHE TURNED HER PHONE FACE DOWN.*
 
-Shape check: 72 had charge (the wrist, the neck), but no sex and a lot of dread, and now this is a quiet coda. That's two lower-temperature chapters in a row. I don't resent it, because it ends on a closed question and I'm holding a bowl too. But Saturday brunch is sitting there. If the next chapter is Wednesday's problem set I'll be annoyed. I want brunch, I want that kiss, and I want to know whether Vee turns her mouth away a second time.
+Small gripe: the mirror-promise callback ("the last one had said next time") is a source I've lost. I felt the echo without remembering it.
 
-Also, I'm newly suspicious that Cassie saw the neck. "The eyebrow that went up and stayed." She knows. She's always known.
-
-GATE 73 — Some of Mine
+GATE 74 — Gesso
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 7
-HEAT: 1
-ROMANCE: 1
-ALMOST-STOPPED: "that was the size of what she could answer tonight, standing there in her coat: not the other question, the one still open on the desk with no floor under it — only this one, small enough to hold in two hands."
-WHY: Cassie stepping over the old argument and handing over the cereal box is a small, perfect grown-up moment, and Vee actually trying to find her own answer is the interiority I come for. But it's the second cool chapter in a row and it explained its own metaphor at the end. My thumb is moving because of Saturday's brunch, not because of this chapter.
+CAPTURE: 8
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "And because Randi was leaning in, and because this was the one thing she had carried all week that she was allowed to set down, she told it."
+WHY: I braced for another debrief, and it turned into the hottest live scene in the book, with the foot, the photo and the bathroom, and a real turn: Vee finally lets Randi into her head all the way to the end. Next is high because of the face-down phone and Randi's glassy eyes. I need to know what she did with that picture, and what Vee does Tuesday.

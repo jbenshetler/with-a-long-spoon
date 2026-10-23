@@ -27,7 +27,11 @@ cross-vendor breadth rather than adding depth within one family. Token rule:
 subscription lanes are the default and need no permission; **OpenRouter is paid
 and needs the author's explicit authorization each run.**
 
-## Coverage — RESET 2026-10-09, nothing on disk
+## Coverage — partial restart 2026-10-23
+
+Per-edit check of merged `fed` completed on gpt-5.6-sol against a new Volume One ledger: **no contradictions of fact found** (`gpt-5.6-sol/fed.md`). The initial merge retained both passages verbatim; a fresh check after the approved 225-word retelling reduction also found no contradictions. Rechecked after the subsequent 85-word explanation pass, again with no contradictions. Report and ledger are on disk; no author rulings have been made on the report's non-error observations. This limited per-volume check does not complete the preferred whole-book audit below.
+
+### Reset history — 2026-10-09
 
 **The lane was dumped and will be regenerated when the author is ready to run
 it** (author ruling 2026-10-09). What was discarded: 72 chapter reports across

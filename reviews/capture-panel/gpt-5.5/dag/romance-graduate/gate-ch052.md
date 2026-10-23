@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch052 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8a57074b7fe9 · 2026-10-07*
+*capture-dag-v2-rich · gate ch052 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 29213b289a6d · 2026-10-07*
 
-REACTION — Oh, this hurt in the exact spot chapter 51 opened up. The previous chapter gave me Randi inside the fairytale and finding it hollow; this one gives me Vee outside the fairytale, imagining it full, and the mismatch between them is so tender and awful I wanted to put my phone down and stare at the ceiling.
+REACTION — Oh thank God, Sheri.
 
-The bedroom got me immediately. Not because “going home feels weird” is new, but because the room loves the wrong version of her. That is such a mean little emotional truth. All those trophies and ribbons and old friends on the board, the childhood bed her legs outgrew, the lavender plug-ins, Wheel of Fortune downstairs: it is safe, loving, ordinary, and somehow suffocating. And Vee is not being cruel about her parents. She knows the food is love. She knows the questions are love. But none of it can hold what she has become. I felt that, hard.
+I needed somebody who knows Pace and is not dazzled by him to sit across from him with a burger and say the thing plainly. Not Cassie on Vee’s side, not Randi with all her hunger tangled up in strategy, but Sheri: small, sharp, wounded, funny, chewing through his defenses like fries. “Then not saying it matters more to you than having her” is the sentence. That’s it. That’s the whole indictment. I actually felt my shoulders drop when she said it, because finally the book let someone not be seduced by the beauty of his care.
 
-And God, the photos. The whole induction photo versus the cropped one feels like the entire book in miniature: Vee herself doing the cutting because she knows where each version of her is allowed to exist. The leg is not just sexy; it is the part of her that felt most like herself, and she removed it for home. That made me ache more than if someone else had censored her.
+And of course I still loved him in this chapter, which is deeply inconvenient. The diner is exactly the kind of place where he makes sense: quiet, warm, old, sensory-manageable, unfussy. The thought that Vee might love it or never see it hurt me more than I expected, because it tells me he is still imagining her into his real life, just not saying the words that would let her stand there. He misses her. He wants her. He is not pretending. But he can lay out every brick of devotion and still refuse the one she asked for, and the book is not letting that be romantic anymore. Good.
 
-The Randi overlap is deliciously painful because I know, freshly, exactly where Randi is and what she is not saying. Vee envies the poisoned glamour while Randi is lying next to the perfect acceptable man feeling nothing. Vee thinks Randi is living out loud, but Randi is also hiding, just in a prettier room. And Vee’s text being genuinely gentle, genuinely undemanding, while Randi gives back the fairytale because she cannot bear to say the truth — I’m invested. I’m anxious. I want them in a room together immediately and also dread it.
+Sheri is such a relief because she loves him without serving him. She can say filthy things about Vee’s body, clock Randi instantly, steal his fries, and then land the knife exactly where it belongs. I also liked how her own heartbreak slid in without turning the chapter into a detour: Paige, the family thing, the Christmas call. It made her more than “truth-telling side character.” She knows what estrangement costs. She knows people can ask for the wrong kind of repair while thinking they’re being kind. So when she tells Pace he’s choosing not-saying over Vee, it has weight.
 
-The Pace jealousy spiral was brutal because it is so young and so recognizable without making her stupid. Once she has no name, she has no standing; once she has no standing, every invisible hour becomes a place to put a woman. And the way she cannot even keep her own memory safe from the imagined blonde sitting in her sheet at his table? That was nasty in the best way. I could feel the panic of trying to self-soothe and having the soothing image turn against you.
+And Randi being called “the brunette” by Sheri made me sit up. Sheri noticed the harem-applicant look, and Pace saying nothing there is loud. He knows the third game is still hidden. He knows “not like that” is not innocence. I’m still waiting for that explosion, and every scene like this tightens the wire.
 
-No heat here in the direct sense, but there is charge everywhere: the remembered fra diavolo, the induction picture, Randi’s “gorgeous,” Pace’s absent arms. The erotic life of the book is still present because Vee’s wanting is present. It hasn’t gone coy; it has gone lonely.
+This was not a hot chapter in the physical sense, but it had charge because Pace had to sit still and be known. Honestly, watching a man who can do everything with his hands be unable to do one thing with his mouth is more gripping to me than another polished sex scene would have been right here. I am absolutely reading on. He has been diagnosed. Now I need to know whether he does anything with it.
 
-I do want Pace’s next move, desperately, but this chapter convinced me the book is not stalling. It is tightening the knot. Vee has Randi as a date on the calendar and Pace as a blank, and that feels dangerous in a much more interesting way than a simple breakup. I am still mad at Pace. I still want him to show up with words. But I’m also starting to feel how much the next collision may happen through Randi before it happens through him.
-
-GATE 52 — Old Acquaintances
+GATE 53 — The Usual
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: "The days behind her ran together beige."
-WHY: This was quiet, but not empty; it made Vee’s loneliness and divided self feel sharp enough to cut. I’m very ready for the term to start, because Randi is now the “sure thing” and Pace is the absence, and that is exactly the kind of emotional trouble I want.
+ALMOST-STOPPED: none
+WHY: Sheri walking straight through Pace’s beautiful excuses gave me exactly the pressure-release I needed after Vee’s cold room. The chapter is quiet, but it moves the emotional machinery hard: Pace misses Vee, Sheri names the cost, and Randi’s hidden place in the story gets brushed by someone outside the arrangement. I want the next chapter now because this finally feels like it might force him to act.

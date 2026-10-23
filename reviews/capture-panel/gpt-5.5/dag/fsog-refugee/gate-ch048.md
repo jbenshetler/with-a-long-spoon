@@ -1,24 +1,23 @@
-*capture-dag-v2-rich · gate ch048 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 025d1b3f1ab8 · 2026-10-07*
+*capture-dag-v2-rich · gate ch048 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d6bbb290a65b · 2026-10-07*
 
 REACTION —
+Oh, this one hurt in that very small-hours way where nothing technically happens and somehow everything happens.
 
-Oh, Vee. This one hurt in exactly the way I was afraid it would hurt, because nothing “bad” happens in the easy, obvious way. He doesn’t dismiss her. He doesn’t mock her. He listens, he adjusts, he explains, he gives her the quiet restaurant-shaped truth underneath the Chili’s disaster, and then he gives her the kind of sex that would have had me absolutely gone two chapters ago. And somehow that makes the empty place louder.
+The shirt has been such a tender object up to now. I loved it when she asked him to wear it again. I loved that he understood and didn’t tease her. And now the book turns it, not cruelly, but honestly: the shirt can hold his smell, his care, all the proof of what he does, and still not answer the thing she needs answered. That got me. Because that is exactly the trap, isn’t it? Evidence everywhere, and no name for it. Warm rooms, food, attention, sex, the drawer, the shirt, all of it real. But when she is alone in the bunk bed, it cannot stand in for the words.
 
-The Chili’s part was awful in the most recognizable way. Not because Chili’s is a crime, but because she wanted proof of being public and got proof, or thought she did, of being unwanted there. Watching her read every sensory overload beat as rejection made me want to reach through the page and turn her face gently toward the actual answer: he is struggling, not hiding you. But I also get why she can’t hear it cleanly. She already asked the bigger question and got “where do you want to go tonight?” instead of “you are mine in daylight too.” A practical answer is not always an emotional answer, and Vee is starving for the emotional one.
+And I was so proud of her for not texting. Not because she shouldn’t want him, but because she knows, even half-wrecked and sleepless, that a text would only get her another small warm answer. It would soothe and fail her at the same time. That felt painfully adult, actually. The part of her that understands she cannot beg a definition out of him by sending some little “are you awake?” into the dark.
 
-And then: “I’m listening now.” God. That got me. That is very much the thing I read for, the man who pays attention as a form of love even when he cannot say love. But the chapter knows that “near enough” is not enough forever. That’s the whole ache of it. He keeps giving her the proof in every language except the one she needs, and her body keeps accepting the proof while her heart sits awake afterward counting what’s missing.
+Taking the shirt off was devastating. Not dramatic, not thrown, not a breakup gesture. Just: this comfort has become another kind of loneliness. The line about the warmth being her own, given back, made my stomach drop. That is the whole fear. That she is making a home out of reflections. That he gives her so much, but the meaning might be something she is supplying alone.
 
-The sex was hot, yes, but what stayed with me was the way she wanted his control to crack. That felt so true to where she is now. She doesn’t just want to be cherished and handled carefully; she wants evidence that she can undo him too. And when she gets it, when he finally loses patience and takes her like he’s out of restraint, it’s thrilling. I felt that. But then the book twists the knife: even his undone body is not the word. Even his helplessness doesn’t answer the question. That is brutal.
+I still love Pace, which is making me mad at him now. Because the care is there. The care has been there in ways I believe. But this chapter made me feel the cost of his silence in Vee’s body. Not as some abstract communication problem, but as a naked girl lying cold on a top bunk because wearing his shirt hurts more than being bare. That is a brutal image. And it is worse because I can’t even say she’s overreacting. She has tried to tell him. He didn’t meet the shape of it. Now the ache has gone private, and private aches grow teeth.
 
-I’m still with him, but I’m less soothed by him than I was. The listening matters. The care matters. The fact that he can take her sharpness and not punish her for it matters hugely to me. But there is a pattern now where he lets her pour out these enormous near-confessions and answers them sidelong. Maybe he thinks he is being honest. Maybe he is afraid. Maybe he knows exactly what he is withholding. Whatever it is, Vee is starting to pay for the silence.
+Also Cassie sleeping below her just killed me a little. Cassie is right there, the good witness, and Vee is alone anyway. I wanted her to climb down. I wanted her to wake Cassie. I wanted someone in that room to know she was bare and freezing and heartbroken over a shirt.
 
-And honestly? I’m anxious now. Not in a quit-the-book way. In a “do not make me watch this girl decide that sex is enough because asking for words feels too dangerous” way. I want him to tell her. I want him to name something before Randi, or the secret, or Vee’s own hurt does it for him.
-
-GATE 48 — Under the Rug
+GATE 49 — Bare
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
+HEAT: 0
 ROMANCE: 2
-ALMOST-STOPPED: "If we're just sex, I'd like to know."
-WHY: This chapter had me pinned because the tenderness and the wound were tangled together so tightly I couldn’t look away. The heat absolutely worked, but the ache afterward mattered more: he gave her so much, and still not the name. I need the next chapter badly because this silence is no longer background; it is hurting her in the bed itself.
+ALMOST-STOPPED: "He wasn't in it."
+WHY: This pulled hard because it finally made the missing words feel like a real injury, not just a future problem. I’m anxious now in exactly the way that keeps me reading: Pace needs to either come forward or lose the right to all this tenderness.

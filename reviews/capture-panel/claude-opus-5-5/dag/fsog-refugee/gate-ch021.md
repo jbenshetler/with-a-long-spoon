@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch021 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 3e621d952bab · 2026-10-10*
+*capture-dag-v2-rich · gate ch021 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 332b2e10547e · 2026-10-23*
 
 **REACTION**
 
-Oh, this one hurt in the best way. Hardly anything happens, and I couldn't stop watching her.
+I loved the first half. Vee couldn't pack a bag because packing it would have meant admitting to herself what she was going to do. Then she half-unzipped her skirt in front of Cassie, remembered she had nothing on underneath because she'd given them away, and zipped it back up. That's the best moment in the chapter. Nobody touches her and it's still hot, because what she's doing is protecting something private. The night is "a second channel that had not shut off once." She's carrying it around. And her mother's word could come for her this morning and she "didn't much mind it." That made me so glad for her I had to put the book down for a second.
 
-First, the bag. She didn't pack one, because packing would have meant admitting to herself what she was driving over there to do. I've done exactly that. It's a smart, girlish kind of self-protection, and the book understood it completely. She wakes up with no brush and her hair "its own wild country," laughs at herself in his mirror, and grins at every red light on the way home. I was grinning along with her, and at the same time my stomach had dropped, because I know things she doesn't.
+Then Cassie. Something crossed her face "before it found a name," and later she "did not pull at the seam." I don't think Cassie missed anything. I think she let it go. "Don't wait up, lover," said kindly and wrong. I'm still watching Vee drift away from her, and this was a small step.
 
-The ladle line got me: she lifts the middle of the night out "the way a ladle takes soup from the pot and the surface closes without a hole." That's Vee all over. She guards what's hers, and I love her for it. She gave Cassie the dinner and the apron and the Chianti and kept the bed. I'm proud of her. But in my notes she's the one who keeps her secrets while he spends them, and I read this whole chapter with Randi's "Tell me" in the back of my head. Vee is out here protecting something that may already have been handed over in another bed.
+Then the brunch, and my stomach turned over. Randi opens with an "old boyfriend in a hurry" story. That's the lacrosse guy and the scarf man all over again. She trades a made-up confession so Vee owes her a real one. "Be cruel. Tell me everything." "I'm running on fumes here." It's the same move as at the smoothie place. And Vee keeps the middle back from her too. She's more careful with herself than I gave her credit for. But Randi still gets "hungry," "singular," the toes painted Friday, the new underwear. Then her voice slurs and her eyes go liquid over one mimosa she's barely touched. Vee puts it down to the wine and lets the question go. I didn't. That's Randi getting turned on, or falling apart, or both. She's hearing about the night Pace already told her about, or will tell her about, and she wants it from Vee's mouth.
 
-Then Cassie says "Get your brain back from your boyfriend," and the book calls it "kindly, certainly, wrong." I physically winced. It's wrong twice over. She didn't forget her underwear, she traded it. And he isn't her boyfriend. He's Randi's. Cassie can't know that, and neither can Vee, and I know it, and that one word "wrong" felt like the book quietly tapping my shoulder. It also stung that Cassie's face flickered at the start, something that "was gone before it found a name." I flagged Cassie getting left behind as a worry, and here Vee is editing her best friend, kindly, and Cassie isn't pulling at the seam. Is that trust or is she being shut out? "Don't wait up, lover" is so sweet, and it's already a little goodbye.
+Here's what I can't sort out, and it's why I'm still reading. Randi gives her something real. "You keep saying *he*... like you just stood there and let it happen." She gets Vee to say "I wanted it. And I took it. For once." That's exactly the heroine I read for, desire that's hers, and it's the manipulator who handed it to her. "You're not caught, sweetheart. You're lucky," and you can hear the trap shutting in that line. I believe Randi means it. I also believe she'll carry every word back to his bed.
 
-The zipper moment was perfect: frozen halfway down, three feet from her roommate, with nothing under the skirt. It's funny and hot, and it's truer than any explicit scene could be about how the night is still on her. She doesn't mind her mother's word this morning. Then she's alone in the cold room, the towel drops, and she has "never in her life been so happy." I believe her completely, and I'm scared for her.
+Then the second kiss, and Vee doesn't check the street this time. Good for her, and it frightens me. And then "She had never in her life been so happy," and "the day was good." I know what it means when a book tells me that.
 
-No Pace on the page, and I didn't mind at all, because he was in every line of her. If I were texting a friend at 1 a.m.: *she's SO happy and I want to throw up for her.*
+Pace isn't in it at all. It's been one chapter since his bed, so I'm fine. The sheet and the oil ticking in the pan at midnight carried him for me. But I need to see him next. I need to know what he does with Friday when Randi says *Tell me*.
 
----
+What I'd text at 1 a.m.: "She kept the middle from BOTH of them. Randi still got the toes. Randi's voice went slurry over one mimosa and Vee thought she was drunk. She was not drunk."
 
-GATE 21 — Toenails
+GATE 21 — Fed
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
 HEAT: 1
 ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: It's a quiet morning-after, but her joy is so real and the dramatic irony so sharp that I'm braced for the bill. "Kindly, certainly, wrong" told me the book knows exactly what it's doing to her, and now I need to know whether Randi has already heard about the green panties.
+ALMOST-STOPPED: "I'm running on fumes here. How was he?" That's where I felt the harvesting machine start up again and wanted to grab Vee by the wrist.
+WHY: Vee owns her desire here more fully than anywhere yet, and she's protecting the private part. The dread is all about where Randi takes it next, and that dread is pulling me forward, not pushing me out. The book still isn't winking at me. It shows me Randi's voice going liquid and trusts me to notice.

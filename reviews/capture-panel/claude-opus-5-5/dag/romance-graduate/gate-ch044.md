@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch044 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a03ea01d3f8f · 2026-10-07*
+*capture-dag-v2-rich · gate ch044 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha a3af5d5e997c · 2026-10-07*
 
-**REACTION**
+## Reaction
 
-Okay. A stats lecture. My first thought was *you're kidding me*: forty-three chapters of lemon chicken, Polaroid-calendar poses and Randi on her knees over the back of a couch, and now I'm in a cold lecture hall listening to a man click his slides back and forth. Then came the PPP explainer paragraph and I honestly thought I'd wandered into a different book, a campus novel about Cassie's politics. My thumb was moving.
+The table. "The long, unusually proportioned table that stood in the middle of his bedroom." Her thong lands on it, green, and "she never looked to see where it went." I put the phone down for a second. That's the bench, the one from my notes that's three feet from her pillow, and the book just had her throw her underwear on it without a glance. She's been sleeping next to it for weeks. It's the most frightening sentence in the chapter and it's dressed as a laugh line. I'm angry about the bench again, like I am every time I'm reminded of it.
 
-Then the dot showed up, alone in the white, with MIRA on it.
+The hallway was the best thing in a while. The jeans as "the enemy," hopping on one leg, the white socks. Him just *not helping*, enjoying himself, while she has to laugh and then stop laughing to finish. And the bra: he holds it so she has to unwind herself out of it "like something off a spool." That's exactly his whole method in one gesture, and she's in on the joke. "She'd lost. She knew it. She put her mouth back on him anyway." That's adult play, and it's hot because nobody is pretending. Then "her body having just published the number she'd gone to such trouble to keep private." Five nights is a tally, and Randi was counting out loud on his couch two chapters ago ("that's more than three"). Everybody in this book counts and nobody says the number.
 
-What got me is that this is the first time in the whole book Vee knows something about Randi that Randi doesn't know she knows. All this time Randi has been the one reading faces in booths, filing things away and carrying them home to his couch to cash in. Here Vee watches her go still, which the book describes as "the withdrawal of motion," and Randi "had no idea she'd been looked at." That's the reversal I've wanted for twenty chapters. Vee is the one at the table who saw. And what she does with it isn't snooping or a question. She slides the laptop over and hands Randi busywork, "somewhere to put her hands." That's love. It isn't the *maybe* she gave Cassie or the *Peter* she said to a sleeping man. It's the word she hasn't found yet for the woman on her left, and she's acting on it without knowing it.
+The flannel got me. A girl who washed his shirt because it stopped smelling like him, and the flicker of hurt on his face because he thinks she's giving it back. "He was good at not asking things." Yes he is, and that's the whole problem with him. Then he puts it on over his own shirt and wears two shirts in his warm kitchen because she told him to. That's a real turn. She's admitting nightly need out loud now, not *maybe*, and he receives it without making her pay for it. I'd text a friend about the two shirts.
 
-The thing I'm squinting at is that the first word of the name is MIRANDA. It doesn't say the father. It says *Miranda*. Vee jumps right to "a rotten thing by a man she'd had the luck to be the daughter of, no hand in it," and that's Vee being generous, which is exactly what Vee does. But companies in Randi's name? "Cheating bastards," plural, ragged, said for the first time? I think Randi just found out somebody put her name on a fraud, and I don't think "no hand in it" covers it. The Mercedes, "anywhere, with anyone," Randi reaching for the check at the first brunch and Vee pressing her hand flat on it. Vee has been paying her own way all term with the cheapest yes on the card, across from a girl whose money is *this*. And Cassie's dad was laid off, and Cassie said it with "no handle left out." Cassie finally got a sliver of interior and it's a weapon she doesn't know she's holding. Cassie is sitting next to the person, nodding along with "cheating bastards," and that's chilling.
+What I didn't love: the pizza. I like him cooking, and the peel snap and the cornmeal sounding like sand are lovely. But "she could taste all of it… she had no frame for" is the third time in five chapters. Chapter 41 did it, chapter 42 did it *out loud to Randi*, and Randi repeated it to Pace. Then "cotton candy and cut strawberries" spells it out like I might have missed it. I didn't. I almost skimmed.
 
-Coming right off chapter 43, this lands even harder. Pace said "she consents, every time, or I'm done," and Randi said "I know exactly what I'm doing. I have always known what I'm doing." Now there's a column of government numbers saying someone in her family didn't do what they said they did. The book is lining up liars: people who say the money went to the workers, people who say the kiss is for the threesome. I can see it doing that, and mostly I like it.
+Also, I just watched Randi see her father's name on the worst point in the county and say "cheating bastards" in a voice nobody had heard before. Before that she said "God, I want her" into a couch rail. Now I get a cozy Pace weekend with nothing from that side. I know it's a breather and I know the table was planted on purpose, but the Randi thread is what's pulling me now, and this chapter made me wait for it in a robe.
 
-What I didn't like was that last paragraph. "Easy to see if you knew to look for it, invisible if you didn't." Yes, thank you, I got the metaphor. The chapter is literally called The Outlier. You don't need to wrap the bow for me. That's the book explaining its subtext, and it's my hair trigger. It's one sentence, so it doesn't sink the chapter, but I rolled my eyes.
+## GATE 45 — The New Ordinary
+**DECISION:** CONTINUE
 
-There's no heat, and I'm fine with that, because 41 through 43 were stacked. After Randi saying "God, I want her" into the wood, a quiet chapter that gives Vee power over Randi is exactly the right move. What I'd text a friend: *the girl who's been running the whole game just got caught by a scatterplot and the only one who saw it is the one she's playing.*
+**CAPTURE:** 7
 
-GATE 44 — The Outlier
-DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "The pandemic loans, the government money that was supposed to keep people on payroll — forgiven on the employer's say-so that it had."
-WHY: The opening is a stats class and a policy explainer, and I nearly skimmed it, but the MIRA point flips who's watching whom, and Vee shielding Randi without a word is the most tender she's been with her. The last line spelling out the metaphor annoyed me. I want the next chapter because now I'm holding a secret about Randi that Randi doesn't know about, and Vee doesn't know Randi has one about her.
+**NEXT:** 7
+
+**HEAT:** 2
+
+**ROMANCE:** 3
+
+**ALMOST-STOPPED:** "It was the difference, she thought, between cotton candy and a bowl of cut strawberries."
+
+**WHY:** The hallway play and the flannel are this couple at its best, and the thong on the bench was a shiver I didn't see coming. But it's the third time the book has walked me through her tongue, and the fire is on Randi's side of the table right now, so the next chapter had better go there.

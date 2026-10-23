@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch050 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha eeeec469236e · 2026-10-07*
+*capture-dag-v2-rich · gate ch050 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ca7450e92130 · 2026-10-07*
 
 REACTION —
 
-Oh, that hurt exactly where it was supposed to.
+Oh. Oh, Randi.
 
-I’ve been waiting for her to ask it plainly, and I’m so proud of her for not dressing it up in a cute little “so what are we?” text or burying it under sex or letting the shirt do the asking for her. She came in with no bag. That detail did me in before she even opened her mouth. No overnight things, no drawer, no assuming the warm house gets to swallow the question. She came to the threshold and stayed there. God.
+I was braced for Pace after that doorway, so opening on Randi in this snow-globe rich-person nightmare knocked me sideways in the best way. I could feel immediately why this was called “Fairytale,” and I loved that the chapter let the fairytale be genuinely seductive before it turned. The father with the steak and eggs, the mother made of labels and angles, Randi inventing boys at breakfast because fake men are safer than real desire — that is such a clean little wound. She has been performing heterosexual ease so long she can do it over smoked salmon with lemon.
 
-And Pace. Pace, Pace, Pace. I understand him and I am furious with him, which is such an aggravatingly good place for the book to put me. “You’re the most important person in my life” is not nothing. It’s huge. It would have melted me in another chapter, another context. But here it is almost worse because he can get *that* close and still refuse the shape she is asking for. He can name importance, but not belonging. Not girlfriend. Not love. Not even “I want a life with you.” He keeps giving her the feast and then acting as if asking for a chair at the table is vulgar.
+And then John. I hate how much I enjoyed him at first. The lift-line wife bit, the three imaginary children, the way he is better than her but does not humiliate her with it. That is exactly the kind of competence romance has trained me to respond to. The skiing has charge. The dancing has charge. The white tie, the blue dress, the sleigh, the snow in her hair — yes, fine, I am not made of stone. For a while I was almost reading it as origin story, like maybe this is the man who could have been the acceptable version of Pace, the approved door.
 
-“Words are cheap, and you still won’t spend them on me.” I could have thrown the book and kissed her forehead. That is the whole thing. It is so clean and so adult and so young at once, because she knows his actions matter, she knows they matter deeply, but she also knows actions without language can become a room you’re trapped inside. She’s not asking for a Hallmark card. She’s asking for a way to exist outside his house.
+But the whole time, Pace is underneath it like a bruise. The comparison during the dance got me especially: John leads firmly, easily, completely, and Pace’s lead asks her to be awake. That is such a devastating distinction. She thinks she wants ease, and then the book shows what ease costs her. John never does anything especially wrong. That is the nastiest part. He is beautiful, competent, socially perfect, sexually good, and he cannot find her. He takes the beautiful woman to bed and never gets under the surface. Pace, maddening impossible Pace, reaches her even on his worst night.
 
-The worst part is that his “believe what I do” has worked on me too. I have believed what he does. The heat turned up, the food, the shirt, the drawer, the stopping when she says stop, the whole careful cathedral of attention. And now the book makes me look at the other side of that: if he can do all that and still not say the thing, then the doing starts to feel like a gorgeous system that keeps him safe from being answerable.
+And then Vee enters the room without entering it, and the chapter changes temperature. Because this is Randi admitting to herself what she cannot say: Vee is not just a project, not just “for us,” not just the pretty hungry girl across the table. Vee is the person whose text can puncture an entire Alpine fantasy. Vee is the thing the room cannot counterfeit. “Vee was her gorgeous” actually hurt me. It is possessive and tender and evasive all at once.
 
-And the hand. No. Absolutely not. The hand lifting to settle her, to touch the problem back into silence. I don’t think he means it cruelly, which is why it hurts worse. He reaches for the tool that has always worked because it’s real, because his body really does care for her, because his hands have been honest in ways his mouth is not. But she sees it. Not the hand in place of the word. That is such a brutal little awakening.
+I’m angry at Randi, but not in the clean way. This chapter made her cowardice legible. She knows exactly what she is doing when she decides not to tell Vee “in a way that would make Vee decide what to do with it.” That is the ethical rot, right there, and she knows it. She dresses it up as preserving the friendship, but it is still withholding the thing Vee would need in order to choose. And because I have just watched her lie at the family table, lie beautifully and survive by it, I understand why honesty feels like jumping off a cliff. Understanding does not absolve her. It makes it worse and more interesting.
 
-I am very much reading on, but I’m reading with my arms crossed now. He has to come after her with language. Not food, not sex, not a warmer room, not some perfect act of care that proves the same thing sideways. He has to spend the words.
+Also: heat without intimacy is such a good move here. The sex is mostly afterimage, lipstick left on him, warmth only where their bodies touch. It is explicit enough emotionally that I don’t feel cheated, even though the physical act is mostly skipped. Normally I’d be side-eyeing that, but here the emptiness is the point, and the erotic charge was all in the lead-up and the awful contrast after. It left me cold in the exact way Randi is cold.
 
-GATE 50 — Believe Me
+I wanted Pace’s answer, and instead I got Randi’s locked room opened. I’m not even mad. This book keeps making the triangle less convenient and more dangerous. I want back to Vee immediately, but now I’m carrying Randi’s fear with me too.
+
+GATE 51 — Fairytale
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 0
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "Words are cheap. Believe what I do."
-WHY: This chapter gave me the confrontation I’ve been needing, and Vee finally protected the part of herself his tenderness can’t answer. I almost stopped because Pace’s refusal made me genuinely angry, but the anger is alive, not bored; I need to see whether he can meet her in words now, not just in warmth.
+ALMOST-STOPPED: "Afterward she stayed against him."
+WHY: For one second I worried the chapter had spent all that gorgeous snowbound charge just to give me a side romance detour, but then the hollowness snapped into focus and made the whole thing matter. This pulled me hard because it gave Randi a wound, a desire, and a deliberate moral failure in one chapter. I need the next Vee/Randi/Pace collision badly now.

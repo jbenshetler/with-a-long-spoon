@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch040 · claude-opus-4-8 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0f8a1c3bd12a · 2026-10-01*
+*capture-dag-v2-rich · gate ch040 · claude-opus-4-8 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 38dcf8e44cd8 · 2026-10-01*
 
 REACTION
 
-Oh, I needed this one, and I didn't know I needed it until I was in it. After the pastry — after "sticky fingers" and the glaze on her lip she never touched, which I'm still not over, I'll be honest — to get a whole chapter that's just *her*, alone, in the water, with nobody leaning across a table reading her face. No Randi. No door. No one knelt at her feet buckling anything onto her. Just Vee and the black line and the count. It felt like coming up for air in the literal sense and I don't think that's an accident.
+Okay so this is the photo chapter again, except it isn't — the first one was the nude, the real-as-she-was one, "never share me," shoulder-hip-knee. This one she goes and *puts her face back on.* That's the part that got me and not in the good way. She comes up off him wrecked and sated and real and lovely, and then she goes to the mirror and builds "the version of herself she wanted him to keep." A girl who decided to be looked at. And I know what the book wants me to feel — that's she's claiming it, reaching for it, it's hers, the brave part is believing him — and I *did* feel the warm thing when he grinned over the phone like a boy who got away with something. That landed. I'm not made of stone.
 
-And here's the thing I keep turning over: this is the chapter my exit line was built for. Vee tender, alone, no counter-voice in the room — and the book *did not* bolt its usual dread onto her. There's no Randi-shadow waiting in the lane, no Pace surveillance, no gorgeous beat with a hook in it. It let her just be a body that works. Except — and this is why I'm still here — the counter-voice didn't vanish, it moved *inside her.* "Whether the man she was turning over was Pace or was somebody she had built out of wanting him — whether he was that good or she had made him that good." Four strokes, that's all it got, and the wall came. But she asked it. *She* asked it, nobody made her, and that's the first time the doubt's come from inside her own skull instead of from me yelling it at the page. That's not the book winking. That's the book letting her be smart for a second. I'll stay for that.
+But underneath. She makes an artifact of herself and sends it into a house that runs a plan, and the word under the bar goes to Delivered, and my whole stomach went cold reading "gave him herself to keep." Because that's the second photo now living on a phone in that house, and the jacket told me there's a third game. I can't unhear it. The better the tenderness, the louder the dread — it's the exact trap I wrote down after chapter 40. He posed her with a kiss at every joint. He also *posed* her. Both are true and the book keeps serving me both on one spoon and I keep tasting each piece apart, which is the whole grim joke of this book, isn't it — he taught her to taste instead of just eat, and I've learned to taste his tenderness apart from his handling and I can't go back to just swallowing it either.
 
-What I clocked hardest: she takes "do you love him" into the water and she does *not* take Randi. The drawer, the salmon, Cassie — all of it goes in the lane. The pastry does not. The thing where Randi talked her to the edge of a bathroom floor and she *stopped herself*, "what would Randi think," the sweetness on her lip — none of that surfaces here. She's not swimming on it. And I don't think that's because it didn't matter. I think it's because she can't look at it yet, and the chapter's quiet enough that I feel the shape of the thing she's not looking at. That's the good kind of quiet.
+The "you do this to me," the taking care of himself thinking of her — that's genuinely hot, the man wholly focused, that's my drug and the book knows it. "Remembering you is a pale thing next to you being here." Fine. Yes. Good.
 
-The "maybe." She said *maybe* to Cassie with the real answer sitting right there, easy to reach, and couldn't say why it came out small. I know why. She loves him and she's got a woman's mouth on hers every goodbye and a dread she won't name, and "maybe" is the only honest-sized word for a girl standing in the middle of three things pretending there are two. The jacket told me: she's a willing player in two games and doesn't know there are three. This chapter is her *almost* feeling the third and swimming it off instead.
+But then the kitchen, the chicken piccata basically, and I'm watching him cook like it's a love language because it is, and then she asks about his parents. "I don't go back." The face going level and exact, each word set down clean and apart. That's the scar again in a different register — the thing with no door. And she takes her hand off it and lets the quiet be kind, and I love her for it, and I'm also screaming a little because *nobody in this book has a past you're allowed into* and that is never, ever an accident in a book that's running a con.
 
-It's a lull. I know it's a lull. But it's a lull with care on the page and her own head finally in the frame, and that's exactly the kind I come back from.
+And Sheri at Thanksgiving. "She's alone." The flicker of another woman at his table and then it goes out because of course, two strays, feed them both. I noticed my own flicker go out right alongside Vee's and I didn't like how smoothly it happened. That's the book doing to me what it does to her.
 
-GATE 40 — Strokes
+What I'm actually tracking: it has still not crossed my line. This was close to a tender chapter — but the counter-voice didn't go quiet, it just moved fully inside me. The dread wasn't dropped. There was no Cassie, no Randi, no next room — and still I couldn't be simply happy for her, because "I don't go back" and the delivered photo did the dread's work without anyone having to say it. The day it's genuinely dropped I'm gone. Today it held.
+
+1 a.m. text: *he put makeup on her memory and she helped. and he has no parents he'll name. I'm not okay.*
+
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 7
-HEAT: 1
+CAPTURE: 7
+NEXT: 6
+HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: none — the closest thing to a drift-off was "the first hundred was always a small argument," where I thought for a beat this might just be laps, but it turned.
-WHY: This is the chapter my exit line was written for and the book threaded it — tender and alone, but the doubt came from inside her instead of getting bolted on, so I'm not asked to swoon blind. I noticed she swims off everything except Randi, and the thing she won't look at is the thing I most want the next chapter to open.
+ALMOST-STOPPED: "She was composed, arranged, a girl who had decided to be looked at." — the second photo going out, Delivered, into that house, was the closest I came to setting it down in disgust at myself for still being moved.
+WHY: It gave me real heat and a real warm beat and then immediately salted it with "I don't go back" and a delivered artifact nobody in that house should hold — the tenderness and the dread arrived on the same spoon, which is exactly why I can't quit yet. It hasn't crossed my exit line: no outside counter-voice, but the wound and the photo did the dread's work on their own, so I'm still reading toward the third game cashing.

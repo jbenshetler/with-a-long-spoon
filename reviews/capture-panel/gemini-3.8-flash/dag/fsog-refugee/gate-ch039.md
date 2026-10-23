@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9782a926aac2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0f8a1c3bd12a · 2026-10-01*
 
-REACTION
+**REACTION**
 
-Oh, god, my chest hurts.
+Oh, this hit somewhere so specific and honest. After the absolute emotional whip-wielding of the last few chapters—the intense shame and arousal tangled up with Randi at brunch, the domestic high of moving into Pace’s drawers, and Cassie calling her out in the dorm—we finally just get Vee inside her own skin, doing something purely physical that has nothing to do with performing for anyone else.
 
-This chapter is tiny, barely a couple of pages, but it hit me right in the center. Cassie calling her a "public utility" because she's glowing like a streetlight—Cassie is such a good, grounding friend. She doesn't judge, she doesn't pry like Randi does with those sharp little velvet claws, she just leaves the door open and lets Vee spill. And what Vee spills is so heartbreakingly sweet: the baked tomatoes, the cold cloth pressed to her skin before she even finished swearing, him keeping the house warm so she doesn't have to think about being bare, the way he watches her eat like *she* is the entire show.
+I loved this quiet breath. In romance, especially when things are moving at lightspeed and the intensity is cranked up to eleven, you almost never get to see a heroine just *in her body* without a lover there to evaluate it. Swimming laps is the perfect vehicle for that. The rhythm of it, the breathing count, the sheer unglamorous mechanics of an old suit and chlorine—it clears out the noise. And the thought that surfaces when she finally tires herself out? That four-stroke panic of wondering whether Pace is actually that good, or if she just built him out of her own desperate wanting because she’s never been looked at like that in her life? God, that felt so piercingly real. That’s the Fifty Shades hangover right there: when a man seems too carefully constructed, too attentive, too much like a fantasy designed to take over your life, there's that terrifying flash where you wonder if you’re inventing him—or if you’re being managed.
 
-That is what I read this genre for. That total, focused, unhurried care. A man whose entire world narrows down to tending to this one woman, making her feel safe, making her feel fed. It’s what Fifty Shades promised in between the helicopters, but here it’s just warm tomatoes and a top drawer cleared out for her hairpins.
+Of course, as the reader, having the jacket and the Sheri chapter in my back pocket, I’m sitting here screaming because she *is* being managed, even if the tenderness between them is genuinely taking over. But watching her feel the weight of *loving* him—and catching the dread attached to that word—gives her so much agency. She isn't just an empty vessel being swept along; she's processing, she's cautious underneath the intoxication, and she uses the physical discipline of swimming to hold herself together. It’s quiet, it’s grounded, and it makes me root for her even harder.
 
-And then Cassie drops the anchor: *"You don't come home school nights."* And then: *"Do you love him."*
+***
 
-The way Vee shrinks into "Maybe. I think so. It's all so fast." When we literally just watched her whisper *Peter* to his sleeping back in the dark the chapter before! She knows she loves him. But saying it out loud in the cold, fluorescent reality of a dorm room makes it real, and making it real makes it terrifying. Because it *is* fast. And the reader's dread is sitting right beside her, because we know what's underneath this foundation. We know about Randi. We know about the setup, the bench by the wall, the third game Vee doesn't even know is being played.
-
-Every time Pace is this tender, this domestic, this breathtakingly good to her, I fall more in love with him, and I get more terrified of the glass shattering. She is falling with both hands open, completely defenseless, trusting him down to her bones. I need them back in a room together immediately.
-
-GATE 39 — School Nights
-DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: It’s a brief breather chapter, but the emotional weight of Vee trying to explain what Pace is to someone on the outside—and realizing she's in over her head—is gorgeous and aching. The romance here is absolute, earned through all the domestic care she's carrying back to her dorm. I need to see where this momentum goes next.
+**GATE 40 — Strokes**
+**DECISION:** CONTINUE
+**CAPTURE:** 7
+**NEXT:** 8
+**HEAT:** 0
+**ROMANCE:** 1
+**ALMOST-STOPPED:** none
+**WHY:** A necessary, beautifully grounded palate cleanser that lets Vee exist as a person outside of Pace's bed and Randi's games. That brief, quiet moment where she questions whether he's real or built from her own starved wanting was razor-sharp and keeps me completely hooked on where this emotional knot goes next.

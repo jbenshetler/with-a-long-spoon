@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 0a2a45bceefc · 2026-10-01*
+*capture-dag-v2-rich · gate ch025 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1889af8db5c0 · 2026-10-01*
 
 REACTION
 
-Oh, this was *sickening*. Genuinely, beautifully sickening.
+Oh, this is sick. This is *so* sick, and I could not look away if the building were on fire.
 
-The Simpson’s Paradox framing at the start? "Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them." What an absolute masterclass in dramatic irony. Rivers is practically holding up a neon sign pointing at Vee: you think you are looking at all the data points, but the aggregation is going to destroy you. And having Cassie and Randi sitting on either side of her, the two opposing forces in her life—Cassie quietly watching Vee’s face to make sure her spirit is intact, and Randi playing the long, sensual, predatory con.
+The sheer psychological claustrophobia of this chapter. It’s one thing to know Randi and Pace are sleeping together and scheming on the side—it’s an entirely different level of violation to watch them sit in that kitchen, wearing his clothes, eating his food, passing Vee back and forth between them like a decadent dessert they’re splitting.
 
-And then the shoe trip. God. The shift from the clearance racks—which felt so real, so messy, so funny, two girls giggling over clown shoes—to that suffocatingly expensive boutique made my stomach plummet. Watching Vee put the debit card away and pull out the emergency credit card... my chest tightened. That is a specific kind of financial violence that wealthy friends inflict on working-class girls without even realizing they’re doing it. Or does Randi realize? That’s the knife edge. Randi *knows* Vee doesn't have money, but she also needs Vee styled to absolute perfection for the slaughter. Randi buying multi-thousand-dollar loafers without looking at the screen while Vee commits credit card fraud against her own future just so she doesn’t "flinch" in front of her idol... it hurt. It was visceral.
+Randi wearing his undershirt, curled up on the exact same lacquered chair where Vee sat wrapped in a bedsheet after he fucked her. Randi admitting, out loud, that seeing Vee embarrassed by the older couple was "kind of hot." And then Pace—god, Pace, you terrifying, delusional man—standing at the sink waxing poetic about how Vee lights up a room, how she’s "the most alive person standing there," while totally missing the fact that Randi’s entire body went rigid with jealousy and pure, unadulterated possessiveness.
 
-And Randi dropping to her knees! Taking Vee's foot in her hands, touching the frosted plum polish that Vee bought specifically for Pace, feeling the exact sexual ripple run through Vee's body, looking up and smiling. Randi knows. She knows the polish, she knows what Vee feels, and she is feeding on it. "We can share. God help us both, it's practically a marriage." I had to physically put a hand over my mouth.
+He actually sat there and daydreamed about having them *both* at that kitchen table. He thinks this is heading toward some sunlit, harmonious polyamorous paradise where he gets to play the benevolent patriarch who cured a curvy girl of her shame. He is completely blind.
 
-Vee clutching that shoe box against her chest like a shield, thinking she has never had a friend like this. The fall is going to be fatal. I am trembling waiting for this induction ceremony.
+And Randi! The way she pivots when the panic and desire get too close to the surface—she strips his shirt off, rubs her bare breasts against him at the sink, and uses *Vee’s body* to turn him on. *"God. What she keeps under there. It's criminal, Pace."* She is literally using Pace's cock as an instrument to fuck Vee by proxy. She is so violently queer and so hopelessly tangled in her own closeted, competitive psychology that she's having to act out her lust for another woman through the man they're both sleeping with.
 
-***
+The title *Gone* is doing double duty here. Vee is gone on Pace. Randi is admitting Vee got past her defenses ("She got past me before I could help it"). But mostly, all three of them are so far past the point of no return that the eventual collision is going to leave a crater. Vee put four-hundred-dollar shoes on an emergency credit card for this simulation. She thinks she has a prince and a best friend.
 
-GATE 25 — Sorority
+The tension in that kitchen was suffocating. I have chills.
+
+GATE 26 — Gone
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 2
 ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension is suffocating in the best way; watching Randi psychologically and financially bend Vee into the exact shape she wants, all while masquerading as the ultimate female friendship, is peak slow-burn horror. I have to see Vee walk into that room in the dress and the shoes.
+WHY: The psychological voyeurism of them debriefing Vee while using each other's bodies to process their obsession with her is completely hypnotic. Pace's delusion that this ends happily versus the reality of Randi's predatory, closeted spiral is high-wire tension at its absolute best. I have to see what happens when these two worlds collide.

@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch024 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 8d06f617de36 · 2026-10-10*
+*capture-dag-v2-rich · gate ch024 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha ad8401af7036 · 2026-10-10*
 
 REACTION
 
-Oh, thank God, they can be ridiculous together. I needed this after that horrible dinner with Randi. The dress stuck halfway up, Vee laughing too hard to cooperate, Pace physically reacting when she repeats the thing she’s just discovered he likes—that got me. She’s learning how to undo him. And she’s enjoying herself enough to interrupt perfectly good sex because they are about to ruin expensive silk. I like her so much more when she gets to be funny inside the wanting.
+Oh, Randi on her knees with Vee’s foot in her hands. The little “Mm.” She remembers exactly what that polish means, and Vee grabs her shoulder, and I am very much still here for this woman being wanted by another woman before she knows what to call it. Especially after the ridiculous shoe jokes. I needed them laughing together like that. Vee can actually get through to Randi, make her lose the lovely controlled face. That feels precious enough to make everything else worse.
 
-The fingers in his mouth absolutely worked on me. Especially after the practical business of wiping her hands on him, which is such a gloriously cheeky thing to do while he’s standing there protecting her dress. That little doubtful check about whether her hands are clean, followed by him taking his time: yes. That’s the moment I would be texting someone about. The feet on his chest worked too. She puts him where she wants him, he stays, and then she gets impatient with the looking she invited. There’s an actual person having this sex.
+Because I finished this chapter worried about a credit-card bill. Quite an achievement after starting out warm from the last chapter. I know that awful little performance of being able to afford the room you’re standing in. Putting the debit back. Keeping your face pleasant. The shoes becoming something the dress is *owed* made my stomach sink. Oh, sweetheart. You can want the shoes. But now she’s making spending money she hasn’t got into a duty to this beautiful thing he gave her.
 
-And his excitement about showing her the dress is lovely. I’ve rolled my eyes at how many things this man can do, but I believed that helpless grin. I believed her crying, too. Having something fit the body you actually have, after years of treating that body as the fitting problem—yes, I understand why she needs a minute in front of the mirror. Her taking off the underwear herself and then striding out to him gave me the pleasure I wanted from this scene.
+And Randi buying casual shoes for several times as much, without even looking—ouch. I don’t know how much she understands about Vee’s money, and that uncertainty matters to me. I’m angry with her for dismissing the affordable pair, but I can also believe she thinks she’s giving Vee permission to have something wonderful. That is such a dangerous person to be poor around. Someone whose delight you want to keep.
 
-But I am carrying Randi’s untouched bowl into this house. Pace gets this whole glorious afternoon, and Vee gets to feel uniquely adored, and neither feeling makes the previous chapter go away. His care can be this tender while his arrangement is this dishonest. That’s becoming harder to sit with precisely because I’m enjoying them. I also caught myself thinking: he made her a dress that needs shoes she can’t afford. Does he know that? Does she get to say that without feeling she’s spoiled the gift?
+The “practically a marriage” got me, too. Randi claiming Saturday after that argument about Pace getting all the weekends. Yes, I noticed. I want her to have time with Vee; I also want Vee to know whose hands she’s actually putting herself in. When Vee imagines nobody has ever stayed up doing something loving for Randi, I nearly groaned aloud. Those invented bad-boyfriend stories are working horribly well.
 
-The ending gave me a small, unpleasant catch. I love her imagining walking into a room without shrinking. But coming late to her own academic induction so everyone can look, and “what she was for”—oh, Vee. I want her to feel beautiful there. I also want her to remember what she earned. I can’t quite tell how much that last thought troubles her, if at all, and it troubles me.
+I did get impatient with being told exactly what Cassie’s attention meant, and then having the statistics lesson return to underline the situation. I’m already watching these three. I don’t need the pointer. And I briefly lost track of whether we’d moved into Saturday—the “yesterday in the lecture hall” made me go back. But once they were trying on terrible shoes, I was with them again.
 
-I’m thoroughly fed on the heat now. I don’t urgently need another bedroom. I urgently need to know what Randi does with being left outside this happiness, and what happens when Vee wears that dress among people who know other versions of her.
+That last laugh hurts because I believe it. Vee really has never had a friend like this. I want the next chapter more than I enjoyed the uneasy last stretch of this one: I need to see what Randi does with being this close, and whether Vee gets to enjoy her induction without having to keep earning the dress.
 
-GATE 24 — Peekaboo
+GATE 25 — Sorority
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: The laughter made the intimacy feel lived in, and Vee discovering her effect on him kept me completely there. I’m satisfied by this afternoon and still uneasy about the people around it—which is a very good reason to turn the page.
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: “because the friend was the only part of any of it Cassie had ever been able to see.”
+WHY: That explanation briefly made me feel managed when Cassie’s question would have reached me on its own. But Randi touching Vee’s foot, their unguarded laughter, and the horrible private arithmetic at the counter gave me desire and consequences tangled tightly enough that I’m reading on.

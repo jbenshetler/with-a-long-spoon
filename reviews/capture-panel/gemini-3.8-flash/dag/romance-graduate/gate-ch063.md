@@ -1,22 +1,32 @@
-*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · 2026-10-11*
+*capture-dag-v2-rich · gate ch063 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · 2026-10-11*
 
 REACTION
 
-Oh, this hit right in the chest. That was breathtakingly intimate.
+Holy shit.
 
-The psychology here is so sharp it actually hurts. We’ve seen Vee reveling in being the "pleasure princess"—strutting around naked, demanding worship, letting Pace adore her body, letting Randi gas her up—but here, alone in a baking dorm room wearing his oversized shirt, the deeply ingrained female shame catches right back up to her. That belief that her body is *too much*. Too wet, too excessive, a shameful spillover that requires an apology or an absolution.
+My stomach just completely dropped out. I am sitting here with my jaw on the floor, my heart hammering in my chest, feeling sick and electrified and furious and entirely undone.
 
-And then that reach. God, the tension of her fingers hovering a breath away from her own lips. The collision in her head between Pace’s completely shameless, joyful enthusiasm (*"as if the plenty of her required no pardon"*) and Randi’s cool, devastating admission across the white tablecloth (*"It was powerful. It turned me on"*). She wants to cross that threshold so badly. She wants to claim herself the way they claim her. But she freezes a millimeter short. That hesitation—that inability to close the last fraction of an inch, followed by the immediate, reflexive wipe of her fingers on the sheet like she’s trying to erase evidence—was utterly gutting.
+They are *fucking*. Right now. While Vee is sitting in her dorm room across town sniffing his flannel shirt and trying to summon the courage to taste herself on her own fingers.
 
-It’s the psychological exactness I crave. She can take a man in her mouth in a dark truck cab; she can hike her hips and strip her underwear off while he drives; but tasting *herself*, accepting her own scent and wetness without the buffer of someone else's desire, is the wall she can't scale yet. And that closing image: shoving the window open to freeze out the evidence before Cassie walks in, buttoning up the giant shirt to make herself "respectable," and then deliberately lying down directly on the cold, damp stain she made. *Her mess. Hers to lie in. Her mouth was still empty.*
+I knew—in the back of my mind, from the jacket copy and the history—that Randi and Pace had a thing before. I knew they arranged her spring. I knew he kept the cashmere blanket for her. But seeing them *now*? In the present tense? Mid-stream? After the Wednesday dinner where he called himself "Vee's boyfriend" six times? After the dinner where Randi toasted her "beautiful best friend" and made Vee cry with gratitude?
 
-What a quiet, devastating, intensely erotic chapter. It didn't need another person in the room to be scorching, because the real battleground in this book has always been inside Vee's own skin.
+This isn't a ghost from last year. They are literally using each other’s bodies as an echo chamber for their obsession with Vee. They are fucking each other while talking about Vee's breasts, Vee's mouth, Vee kissing Randi's neck, Vee falling apart in the cab of the truck. Randi is literally pretending her own breast is Vee's breast while Pace sucks her nipple and drives into her. The absolute twisted, decadent, breathtaking sickness of it.
 
-GATE 63 — The Reach
+And then the dialogue. Oh God, the dialogue.
+*"She's not the only one in love."*
+Randi calling him out, and Pace unable to deny it. They both love her. They are both completely consumed by this twenty-one-year-old girl who thinks she's orchestrating her own little college romance, and they are colliding like two binary stars around her gravity. It’s monstrous. It is genuinely monstrous what they are doing to her—the sheer scale of the betrayal, the intimacy they are stealing and sharing behind her back—and yet it is so intensely, brilliantly hot that I could barely breathe reading it.
+
+The whiplash from Chapter 63 to this is surgical violence. Chapter 63 was all Vee’s agonizing, tender, shameful innocence—trying to bridge that last single inch between her finger and her mouth, unable to do it, settling her hip into the wet spot on her sheet and pulling the blanket to her chin. And then Rivers cuts immediately to Randi and Pace. Randi doesn't hesitate for a microsecond. Randi takes her own wetness off Pace’s mouth, licks her thumb, licks him clean, commands him, rides him, devours him. The contrast between Vee's sheltered, halting awakening and the absolute ferocious depravity of these two seasoned players using each other to get closer to her... it's breathtaking.
+
+Except—there was one little stumble for me. The "fuck doll" line and the "clean up that mess before you stick it inside me" felt suddenly weirdly generic. Like a stock KU dirty-talk script accidentally pasted into a high-literary psychodrama. Randi’s voice is usually so ornate, so razor-sharp and arch, that hearing her drop into standard porn-speak pulled me out for half a second. But the emotional architecture behind it? Unshakable.
+
+Vee has no idea. She is a lamb sleeping in a pasture while two wolves sit in the dark licking each other's teeth and deciding how to eat her together. I am terrified for her. When this glass breaks, the shrapnel is going to kill someone.
+
+GATE 64 — My Pleasure
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
 HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: The masturbation scene was intensely hot, but the emotional core—her hesitating a breath away from tasting herself, caught between Randi's coolness and Pace's reverence—was absolute perfection.
+ROMANCE: 1
+ALMOST-STOPPED: “Look at you, using me like your fuck doll.” (and later, “Now stick that inside me.”)
+WHY: The sudden drop into cheap, generic erotica phrasing momentarily bruised the otherwise incredible, razor-sharp psychological tension of the scene. But the sheer narrative bomb Rivers just dropped—revealing that Pace and Randi are actively, currently sleeping together and triangulating their mutual obsession with Vee—blew the entire book wide open. I need the fallout immediately.

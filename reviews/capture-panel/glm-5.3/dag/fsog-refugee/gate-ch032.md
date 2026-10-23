@@ -1,20 +1,25 @@
-*capture-dag-v2-rich · gate ch032 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6e62cd46bbc6 · 2026-10-01*
+*capture-dag-v2-rich · gate ch032 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 5274d9c5fd04 · 2026-10-01*
 
-REACTION — Okay. Okay. This is the chapter my carry-forward notes were talking about — "the spank-in-the-tickle-fight beat resolved into a question and a please" — and reading it in the raw, it's even better than I remembered it being when I filed it. That whole kitchen sequence is the thing I stayed in this genre hoping to find and almost never did: his hand lands in a tickle fight, by accident of her own twist, and the book does the bravest possible thing — it stops. He goes still. He watches her face. And then *she* is the one who closes the distance, and later, when his hand moves to the place it already touched, the arc is "Please," "This?", "Please" — palm bearing down, no strike, nothing new. He asks. She answers. The hottest thing on the page is the asking. That's the whole reason I'm here.
+REACTION
 
-And what I love even more is that it's *hers*. The book renders it from inside her — the bright line going up before thought can get in front of it, her nipples, the soundless oh, her body "saying two or three things at once that she had not agreed to have it say." That's exactly the distinction I've been begging this genre to make for years: her reaction is hers and unwilled, and the *choice* is also hers, and the man's job is to notice and hold still and let her choose. He didn't escalate. She walked *him* backward. And "the thing he'd seen sat in the room with them and neither of them reached for it, and she left her face where it was and let it sit there, unnamed, hers." Unnamed, HERS. I underlined it with my thumb.
+Well. That happened. I'm sitting here with my tea gone cold.
 
-The front half wrecked me too. The heels — she's suddenly taller than him and it hits her like a missed stair, and she starts to bend to take them off and he lifts the pie out of her hands and straightens her back up and says the most him sentence in the whole book: "I'm not going to insult the loan by complaining I have to look up." And "Thank you for telling me what she said" — thanked for the ugly part, for repeating the blonde's poison in his own front hall. I cried a little. Then the morning-after domestic run — "soaking is a recognized method," her lobbying his spine, the folded undershirt left where she'd find it — is the warmth and the heat in one man without contradiction, and I would read four hundred pages of exactly that.
+The practice room chapter is the exact flavor of this book that makes me crazy — nothing "happens" in it, two women in a soundproof closet and a pair of heels on a music stand, and I had to put the book down twice. When Vee said "Walk me out?" and took *Randi's* wrist — after weeks of it going the other way — I actually said "there it is" out loud to nobody. That's her reaching. That's hers, and the jacket promised me the reaching would be hers, and here it is, in her hand, unembarrassed. The freshman-year blush about what the practice rooms are "used for," the unfinished sentences, the hug she didn't mean to hold on to at the end. She's falling and she doesn't have the word yet. I have the word. I've had it since the shoe fitting. It's agony in the best way.
 
-Two shadows. One: "she let me walk him backward" energy is absent, this is all clean — but the Vee-keeping-books interior ("a sound she would have paid money to take back") tells me she's carrying shame about her own want, and I need the book to eventually let her set that down on purpose, out loud, not just in the dark. Two: Randi is nowhere, and I know where she is — she was in that bed Friday, and Vee walked in Saturday dressed by her, wearing her heels and her scarf into a house Randi's clothes were folded in a bench in two days ago. The gap between what Vee knows and what the room knows is getting heavier every chapter, and I'm still driving past the wreck slowly, but my stomach is tighter.
+But — and this is the ache under the whole chapter — I cannot read Randi clean anymore and I hate that I can't. Because the Randi I love would be sitting there lit up for Vee, and she IS, that's real, "so pleased to see her that Vee felt it land, warm all through." But the Randi I've been watching since chapter 30 also just did it again. Vee skids past the middle of the weekend, and Randi doesn't let her. "Did you deserve it?" — and my girl, underslept and glowing and with no armor in that little room, says *probably, yeah* — a beat late, and knows a moment too late what she agreed to. Randi walked her straight into saying it. Then the story. Over his knee, count out loud, "it made me buck." She fed it in perfect pieces, watching Vee's face take each one, and Vee ended up in a hallway bathroom with her hand on her own knee *refusing to say yes to it.* That refusal is the most Vee thing in the whole chapter — the book keeps letting her own her yes, even when the yes is being grown in her by somebody else's story, and I love the book for that even as it's breaking my heart.
 
-The line I'll keep: "*You're always beautiful.* Not *you're beautiful*, which she'd have argued. *Always.*" God. Yes. Ten more of these, please.
+And here's the thing the book knows and Randi half-knows: Randi's spanking story is a *confession.* "If I'd had too much wine and gotten flirty with other men at dinner" — she's told Vee, on the record, what she does when she cares and gets scared. She just dressed it as erotica. The mouse that roars. And Pace still doesn't know his partner is drowning. The gap between what Randi told Vee in that closet and what Vee told Cassie (nothing, ever) and what Pace knows (nothing) is getting so wide I can hear wind through it.
 
-GATE 32 — A Recognized Method
+The outliers lecture is doing exactly what I suspected this author's lectures do — the first kind you lift out and the line goes on; the second kind is in everything that comes after. Randi is the second kind. Vee is the dot flung off the line. I see you, professor.
+
+The kiss at the stairs — "so worn-in now that Vee barely clocked it" — and then Vee's arms slow coming down. She didn't hold on to Cassie's goodbyes. She held on to that one. I put it down to that too, sweetheart. We all do.
+
+GATE 33 — The Practice Room
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 9
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: The accidental spank into a asked-and-answered please is the cleanest, hottest consent beat I've ever gotten from this genre, wrapped in an apology chapter that made me cry. Only the looming Randi-debt keeps NEXT from being a 10 — I need the two of them in a room again soon.
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "Did you deserve it?" — the manipulation landed for a second and I felt the old Fifty-Shades chill, but the book framed Vee's late awareness of what she'd agreed to, and her bathroom refusal, so clearly that it stayed honest.
+WHY: The reaching is finally Vee's — she towed Randi out of that lecture — and her "no, not here, not over a story" is the consent line I stay for. But Randi's harvest and her disguised confession are compounding, and I'm reading toward the crash more than the sweetness now.
+NEXT-focus note: two chapters from Vee's POV alone with Pace still hum in me; the next one needs to move either the bench, Cassie, or Vee naming the thing she has no word for — any of the three and I'm up past midnight again.

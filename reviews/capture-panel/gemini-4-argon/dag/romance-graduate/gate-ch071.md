@@ -1,22 +1,18 @@
-*capture-dag-v2-rich · gate ch071 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 12acf5220037 · 2026-10-21*
+*capture-dag-v2-rich · gate ch071 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha c14c8e832ee2 · 2026-10-21*
 
 REACTION
 
-Holy shit. This chapter is an absolute masterclass in erotic psychology. Everything I’ve been waiting for across seventy chapters just collided in the dark of Pace’s bedroom, and the way it played out had my heart hammering in my throat.
+Oh, *fuck*, Cassie saw them outside! "What was that with you and Randi?" with her coat still on, the cold still coming off her—she must have walked right past them or come in right behind them while Randi had her mouth in Vee's neck! My heart actually jumped into my throat at that last page. Because up until now, Vee's whole confusion with Randi has lived inside the hermetically sealed greenhouse that Pace and Randi built for her, or in rooms full of drunk frat boys who think it's a show. Having deadpan, normal-world Cassie see it and have *worry and disbelief* in her voice suddenly makes the ground tilt in a completely different way.
 
-First of all, the sheer *honesty* of Vee’s panic at the beginning—standing in her freezing dorm room, pulling that soaked green thong aside, touching her own newly waxed, bare skin ("that Sondra's terrible patient hands had made and Pace had spent the afternoon learning by mouth"), and instantly picturing *Randi's* mouth finding her like that: *"an offering with the wrong name on it."* That line actually made me gasp. And then pulling the borrowed micro-skirt right back on over the still-stuck thong and driving eighty miles an hour down a dark county road at 1 a.m. to use her boyfriend like a wall to crowd the girl out of her head!
+And everything leading up to that doorway was so good. I love how this book doesn't let a huge erotic peak (and Chapter 71 was an all-timer) just reset the board the next morning. Vee spending all of Sunday trying to fuck herself into exhaustion on Pace—literally taking the book out of his hands to climb back on him—and driving home "full of him and not, somehow, filled." And then Monday night in the top bunk keeping her hand flat on her stomach like "a lid held down on a pot" because she knows if she touches herself, it's Randi's name that's going to show up, and as long as she doesn't come to it, she can pretend it's "only wanting" and not true. That is such razor-sharp psychological writing.
 
-And Pace. God, Pace. The way he let her take him hard and frantic in the dark, stayed inside her afterward with one open hand on her back, and immediately clocked it: *"That wasn't you wound up — I know that one. That was angry, Vee."* And then when she confesses about kissing Randi—only because she can't bear for him to sit for one second with the false pain of thinking she kissed a boy named Harrison!—he gets rock hard inside her and turns her confession into a slow, torturous game of inches.
+Then Tuesday in Anthro! Every little domestic ritual they've built over the whole series—picking out the sweater, the shared armrest, the wintergreen Lifesaver—is suddenly a live wire. When Randi grazed the inside of her wrist taking the Lifesaver and Vee had to tell herself *Static*, I felt that in my own stomach. And look at how smooth Randi is: she definitely got the report from Pace after Saturday night, so she plays it completely warm and normal, drops the word *"Having"* right where Pace already primed Vee to hear it, and when Vee tries to bail on dinner AND turns her cheek on the goodbye kiss ("Keep your plague, then"), Randi doesn't push for the mouth—she hits Vee right in the hollow of the neck instead! *"See? How do you like it?"* Right after casually mentioning she has to go "discipline a bad girl" on Thursday night. And Vee's body immediately betrays her brain and blurts out an invitation to Saturday brunch just to keep from losing her. Now Cassie is staring at her waiting for an answer. Do not make me stop here.
 
-Holding her hips off him so she only gets the head until she stops tidying the story? Rationing his cock out to her—an inch for admitting it was a date, a full slow sink to the root for *"me she just gets to have,"* pulling her all the way back up to empty when she tries to skip the middle of the dance, and holding her hovering at the very brink of coming until she finally breaks and screams the truth: *"I wanted it. I wanted the kiss. I wanted her mouth on me. It was so hot, Pace, it was so — I've never—"* That is Peak Heat. It’s dirty, it’s psychologically ruthless, and it’s devastatingly hot because he isn't punishing her—he's forcing her to hear her own desire out loud while making her body feel every single word of it.
-
-And the dramatic irony in the aftermath is almost unbearable in the best way. When she panics and tries to project it all onto him—*"You want me to want— you want Randi"*—and a tiny flicker crosses his face before he says, *"You keep saying her name. Not me."* Because WE know he was just in bed with Randi on Thursday night! And Vee misreads his quiet deflection as him defending himself for the first time ever and thinks it's the sweetest thing he's ever done! Meanwhile she tells him her very first lie (*"No. Nothing"* about the goodbye kisses and touching herself to Randi's name), and ends the chapter raw inside, wrapped in his cashmere blanket, with Randi's salt-and-lime taste still in her mouth and her head already at Tuesday night's Anthro class. I am completely hooked. Tuesday cannot come fast enough.
-
-GATE 71 — Boyfriend
+GATE 72 — Coming Due
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The "inch by inch" confession scene is one of the hottest, smartest, most psychologically loaded sex scenes I've ever read, and the dramatic irony of Vee accidentally accusing Pace of wanting Randi—while lying in his arms raw and unable to stop thinking about Tuesday—has me desperate for the next chapter.
+WHY: Watching Vee try and fail to outrun her own wanting—from keeping her hand flat on her stomach in the dark to short-circuiting over a wintergreen Lifesaver and a neck kiss—was deliciously tense, and Cassie catching them at the end just raised the stakes through the roof. I need to see how Vee gets out of this conversation with Cassie right now.

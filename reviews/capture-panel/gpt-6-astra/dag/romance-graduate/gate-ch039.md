@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch039 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · 2026-10-10*
+*capture-dag-v2-rich · gate ch039 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · 2026-10-10*
 
 REACTION
 
-“Streetlight” still gets me. Cassie calling her a public utility made me smile before I could get worried, and I liked being back in this room with somebody who can enjoy Vee’s happiness without trying to get something out of it. The tomato burn is such an embarrassingly specific thing to tell your roommate while apparently forgetting your roommate can work backward. Vee just sailing past the implication because she wants to talk about how he cared for her—that’s sweet. She is so far gone.
+Oh, thank God she has somewhere to go that neither of them gave her. I liked being in the water with Vee. Her lane, her routine, her strength. Nobody dressing her or watching her or telling her what her body means. I’ve spent so long watching her discover herself through somebody else’s attention that I felt actual relief when she had a body that could simply get her down a pool.
 
-And then: “You don't come home school nights.” Oh. Yes. Somebody count the nights, please. I needed that small interruption. From inside his house it’s meals and warmth and a drawer of her own; from this room it’s an empty bed. Cassie doesn’t have to make a prosecution out of it for me to feel the difference. I’m relieved Vee is actually talking to her, even if she’s giving her the glowing version.
+And then those four strokes of doubt. Yes, Vee. Stay there a second. I don’t want her happiness exposed as stupidity; I believe the happiness. But wondering how much of this man she knows and how much she’s supplied herself is the first thought in a while that made me lean toward the page. Especially when I know what he’s withholding. Of course the wall arrives and she swims past it. That feels painfully plausible, and I’m frustrated anyway.
 
-“It’s all so fast” reached me more than another account of how wonderful he is would have. There she is, catching up with herself for a second. I want to sit beside that uncertainty. She loves him, she’s practically living there, and she still doesn’t know something basic about his life. Having Cassie hear the admission makes the concealed relationship feel more awful, because now this happiness has a witness outside their little arrangement.
+The counter worry threw me. We already opened the drawers. I was there when she found her things given the easy place and understood it was hers. Now she’s back wondering whether he minded, without even thinking about that? I stopped to work out whether this swim happened earlier. That little confusion kept me from settling completely into her head.
 
-But that’s the whole chapter? After the drawer, I’ve now had another short stretch of Vee trying to find words for how cared for she feels. I believe her already. I liked these few minutes with Cassie; I wasn’t desperate to leave them, but I did reach the end with a little *come on, now*. Let somebody’s next sentence change what Vee knows.
+I’m also feeling the run of quiet chapters now. The drawer moved me; Cassie asking the question mattered; this gives Vee something I’ve wanted for her. But I’ve now spent three chapters mostly absorbing how deeply she’s fallen, while the thing that could change everything stays untouched. I don’t need sex wedged into her swimming session. I do need to feel we’re getting somewhere again.
 
-GATE 39 — School Nights
+I liked her leaving hungry for a sandwich, with reading to do. I liked that ordinary girl enough to keep going. The explanation of what swimming does for her was more than I needed after I’d just felt it happen.
+
+GATE 40 — Strokes
 DECISION: CONTINUE
 CAPTURE: 6
-NEXT: 7
+NEXT: 5
 HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "How he noticed things before she did."
-WHY: I’m getting restless with the repeated inventory of his goodness, especially while his silence keeps getting more consequential. Cassie noticing the empty bed and Vee admitting the speed of it kept this from feeling like another uninterrupted sigh over Pace.
+ROMANCE: 1
+ALMOST-STOPPED: “It took the words off things one at a time until what was left was the shape underneath”
+WHY: I’d already understood the relief, and being told what it meant made the ending feel longer. Vee briefly questioning her picture of Pace keeps me interested, but after three quiet chapters I’m ready for something to happen that she can’t simply carry away privately.

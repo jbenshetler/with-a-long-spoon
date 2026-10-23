@@ -1,30 +1,24 @@
-*capture-dag-v2-rich · gate ch033 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5274d9c5fd04 · 2026-10-10*
+*capture-dag-v2-rich · gate ch033 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 14896ed4fc37 · 2026-10-10*
 
 **REACTION**
 
-Okay. The outliers lecture, "the second kind comes in through the part that carries forward. It's in everything that comes after." I rolled my eyes a little, because this book loves a math metaphor and it's sitting right on the slide. But it never explains itself, and by the end of the chapter I'd stopped minding. Point taken, book: the kitchen wasn't a one-off dot.
+Okay. She did it. In my notes I'd written "the induction in the dress: late, the room turning" as a fantasy I didn't think the book would let her have. The book let her have it, and better, because nobody turned on their own. The room was "warm and dull and kind," nobody was making an entrance, and she had to choose it herself. The first step was small and safe. Then "She took a breath, and made the second step long." I actually sat up. That one sentence is the whole chapter. Every other time Vee's body has gone first: the slap at the sink, the practice room, the "please" she couldn't attach to anything. This time she decided a half-second before her body caught up, and then her body agreed. It's the same heat with the order reversed, and it reads like her first taking that's all hers. There's no man and no Randi in it. It's a room full of strangers' parents and her leg.
 
-What got me was the turn in the first ten minutes. For weeks Randi has been the one cutting Vee out of the herd. Now Vee has two fingers on Randi's wrist, "Only to Randi," and Cassie is saying *see you in the room* to the side of her head. That's the third time Vee has left Cassie standing there, and every time I flinch for her.
+The line that got me wasn't the hot one. It was "nothing at all under the silk, and nobody in this room who had ever taught her what to be ashamed of." The mother's voice turned into "slut" at the worst possible moment back at the bar, and here is the flip side. Her parents couldn't afford the flight, she's relieved, and she hates that she's relieved, and the relief turns out to be *permission*. Cassie gives her the nice version ("Not horrible. Just honest"), Vee knows it isn't the true one, and the book doesn't spell out the true one. It just waits three paragraphs and lets it land. Thank you. That's the trust I keep begging for.
 
-Then the practice room. Vee edits the story the way she always does: "It was nothing. It was a love tap." She skips the whole middle, the *please*, the second orgasm she'd have paid money to take back. Randi doesn't need any of it. "His hand was wet." That line made the back of my neck go cold, because it's how a good interrogator works: you build the scene from one detail and let the witness walk back into it. And "Did you deserve it?" Vee answers "Probably I deserved it" and realizes a beat late what she's agreed to. Randi's smile brightens. That's not a friend asking. She's taking a sample.
+Cassie. God, Cassie. "You look—" and she doesn't finish, "which from Cassie was a standing ovation." She holds the phone, takes the picture, gets bright-eyed and will deny it, offers a terrible sandwich, calls her "streetlight." She's the only one in this book who keeps showing up and asking for nothing. Meanwhile Vee hands her the clean version again. Cassie took the photo of the secret and doesn't know it's a photo of a secret. Someone is going to pay for that. I still believe it.
 
-Is the mouse-that-roars boyfriend real? I don't trust it for a second. "Slight little thing, apologized to the furniture" is not Pace. Last time Randi told an old-boyfriend story it was Pace in a costume, and she lied to Pace's face about Vee crying. So either this is a real ex, or she built him on the spot as a delivery system: over the knee, counting out loud, the hand slipping, "very welcome." Either way she set every detail down to watch it land on Vee's face, and it landed. The paragraphs stuttered a bit there. The "Mine," and the "And always" run in with nothing between them, and I had to reread to be sure who was speaking. I didn't mind much. It was hot. A woman talking in a chair, nobody touching anybody, and I was right there with Vee in the bathroom.
+The bit that made me narrow my eyes: she sends Pace the photo uncropped, and "He would have no idea what else was in the frame. That part was hers." On one level, good for her, she gets to own something. But look at the shape. Randi keeps the kneeling from Pace. Pace keeps the table from Vee. Randi keeps the threesome from Vee. Now Vee keeps the walk from Pace, and I'd bet the practice room too. Everyone in this book has a private room. It's a sexy book about people being alone in plain sight, and the chapter title is going to be literal at some point. The outlier stats lecture, "the second kind comes in through the part that carries forward," was clearly not about outliers.
 
-The bathroom is the best thing in the chapter. "Not here. Not over a story. To do that would be to say yes to it." That's a heroine with an inside. She knows exactly what's happening to her, she refuses it, and refusing it costs her something. I loved her for the cold tap on her wrists.
+Small gripes. Berkeley is a convenient way to get Pace off the stage, though I'll take it because the chapter needed him gone. The paragraph explaining why she wears nothing under the dress repeats what I already knew from the mirror chapter. And the last line, "whether pride or only the same heat… or whether the two came to the same thing," edges toward telling me the thesis. It's softer than the stapled ones, though, phrased as a question she can't answer, so I let it pass. Randi's absence is loud. Randi knelt and did the ankle strap, so even here Randi's fingers are on her.
 
-Then the goodbye: "the lighter second touch... so worn-in now that Vee barely clocked it." Her arms are slow coming down, and "She put it down to that." The book doesn't explain it, thank God, and I didn't need it to. The not-bracing from my notes has turned into holding on. Vee is falling for Randi and filing it under being tired.
+What I'd text at 1 a.m.: *she walked the honor society stage commando and flashed the whole room on purpose and it was the most self-possessed she's been in the entire book. I'm so proud of her and also every single one of these people has a secret now.*
 
-Now I'm dreading the next Tell. Randi is going to walk into Pace's house with "his hand was wet" and "she crossed her arms over herself," and he's going to get hard on it again without asking Vee. Pace, my sweet decent man, who saw her face at the sink and *waited* for her, is about to get a version of that face from someone who stole it.
-
-One flag for myself: this is the second Vee-confesses-to-Randi-in-a-closed-room scene in a row. It held because Vee reversed the lead and because of the bathroom, but if there's a third I'll feel it.
-
----
-
-GATE 33 — The Practice Room
+GATE 34 — The Induction
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
+NEXT: 7
 HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: "The second kind comes in through the part that carries forward. It's in everything that comes after." (a thesis on a slide, nearly too neat)
-WHY: Randi building the whole spanking out of "his hand was wet" was erotic and frightening at the same time, and "Not over a story" gave me Vee's spine right when I needed it. The slow arms at the end mean Randi is getting through her, and I need to see what Randi carries to Pace's table tonight.
+ROMANCE: 1
+ALMOST-STOPPED: "There couldn't be. She'd found it out in his mirror — the slit came open to the hip and the edge of anything showed" — re-explaining the mirror chapter to me for half a page before anything happened.
+WHY: It's a quiet chapter with one decisive step, and the heat came from her own choice instead of a man's hand, which is the growth I've wanted for Vee. I'm keener on the fallout than on the chapter itself. Vee now has a secret from Pace too, and I want to see Randi's face when she hears about the walk, because she will.

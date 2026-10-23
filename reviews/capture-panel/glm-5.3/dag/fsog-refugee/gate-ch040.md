@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch040 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0f8a1c3bd12a · 2026-10-01*
+*capture-dag-v2-rich · gate ch040 · glm-5.3 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 38dcf8e44cd8 · 2026-10-01*
 
-**REACTION — Chapter 40: Strokes**
+REACTION — Oh, this chapter. This is the one I'd hand to somebody who doesn't get why I read this stuff. That whole photo sequence — I actually had to put the book down for a second. She offers, he catches her wrist not to stop her but to say *you don't have to, I like you exactly like this* — and she goes and makes herself up anyway, *because she wants to be chosen-looking*, and then he doesn't just take the picture, he *arranges* her, unhurried, a kiss after every place his hands set her. That's the whole book in one gesture: his control making room for her, her body laid out like something worth keeping, and she's glad of all of it. And the detail that undid me — she wanted pinup, and that's what he handed back, "lovelier than anything she'd have caught of herself alone," because it was *her as his eyes had her.* I'm going to be thinking about that line for days.
 
-A whole chapter in the pool, alone, and I didn't miss him once — that's the trick of it, and I mean it as a compliment. The book gave Vee something I almost never see in this genre: an interior that works when no one is in the room with her. My girl has a lane she's owned since her first week back, regulars who arrange around her without a word, a body that "only works" down there. That's a person, not a heroine-shaped receiver of attention.
+And then the cold sane thought — "the cold sane thought any girl had about a picture like this" — the book *named it*. It knows exactly what a naked photo means and it let her be brave in the real world, with real stakes, believing his "never, I'd never share your photograph." He promised the same about the induction photo and kept it, so I believe him too, but I love that the book makes belief the act of courage. That's consent with the price tag showing, and it's sexier for it.
 
-And what the swimming *did* — that's the part I'll keep. Cassie's question went in with her at the wall — *do you love him, did he mind* — and the set stripped them one at a time until she could tell which one had weight. *Do you love him* stayed, a pressure under the ribs with dread riding it. *Did he mind* "was nothing at all." That's the answer to the drawer chapter she's not ready to say out loud: she already knows he made her a place and it terrified her more than the counter did. And the four strokes where she couldn't tell Pace from the man she might have *built* out of wanting — four strokes and then the wall came — that's the most honest thing the book has done with her since the blonde in the bar. She doubts, the water doesn't fix it, she doesn't go looking for the answer after. She goes to think about a sandwich. That's a real twenty-one-year-old and I love her.
+The kitchen after — I'm a complete pushover for the aftercare-changes-shape chapters. Water before wine. Her not coming up for air. "You've used me terribly. Promise to use me again soon. But feed me first, or I'll starve to death." She's funny and wrung out and *hers*, and he cooks with his whole self gone down into a pan, and she can taste each piece of the sauce separately now — "she had used to just eat. Now she tasted" — and I got a little emotional about a chicken breast, I don't know what to tell you.
 
-The first-person-plural drowning of this book needed this exhale. The last stretch was Randi-pastry-kitchen brims and confession roulette, and I was starting to hold my breath every time those two sat down at a table. A chapter where the worst thing that happens is that her legs go loose in the water — yes. Give me one of those every ten chapters forever.
+Then the door. "This is my home." "I don't go back." Four words again, level, clean and apart — and she took her hand off it and let the quiet be kind, and the book didn't push, and I noticed the exact shape of what's sealed in there: parents, the scar, Daphne, all behind it. He said "This is my home" *easily* and it warmed her, and it warmed me, and then it closed. That's twice now he's said it exactly that way. The clock on that door is ticking louder.
 
-What I'm tracking underneath: it's been chapters since the three of them — or even the two pairings — have been in a room together, and the book is spending that gap making Vee *sturdier* instead of lonelier, which is the opposite of how the captive-bride books did it and exactly why I stayed. The bench is still loaded. Randi's "sticky fingers" is still sitting there unsorted. The drawer and the scrunchies and the *maybe* are all going to collide with something eventually. But tonight the book let her swim it off, and so did I.
+And the last beat — Sheri's coming over, "she'll bring a pie and pretend she made it," and for one flicker Vee was jealous, another woman at his table on a family day — and then "She's alone," said like a person glad to feed someone, and the flicker went out. I felt that flicker *with* her, I've had that flicker. And I noticed my own hum underneath: Sheri knows about both women, and Vee doesn't know Sheri exists in this shape at all. Two of them at one table on Thanksgiving while Vee's on a plane. The book is quiet but nothing is idle.
 
-GATE 40 — Strokes
+The one thing niggling at me — the con is still running, and Randi's been offstage for chapters now, and the longer this domestic warmth goes on, the more I dread the harvest. But this chapter is pure gold: "a man wholly focused on one woman" — this is the book I was looking for when I left the other shelf.
+
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-HEAT: 0
-ROMANCE: 1
+CAPTURE: 10
+NEXT: 9
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: A quiet chapter that earned its quiet — the swimming did real psychological work on the "maybe," and Vee alone and self-possessed in her own lane is exactly the girl I came back for. No heat, no drop in tenderness either, just a woman getting her own feet under her; I want the next one because the book has been stacking loaded guns (the bench, Randi, the maybe) and this calm is the breath before one of them goes off.
+WHY: The photo sequence is the best thing this stretch — his hands arranging her, a kiss at every placement, her sending it as an act of brave belief — and the after in the kitchen is tenderness I can live in. It knocked a point off NEXT only because the sealed "I don't go back" door and Randi's long silence both got louder by being quiet, and I need to see where one of them is going before the warmth lulls me.

@@ -1,18 +1,16 @@
-*capture-dag-v2-rich · gate ch072 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha c14c8e832ee2 · 2026-10-21*
+*capture-dag-v2-rich · gate ch072 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha c10b93dddd9c · 2026-10-21*
 
 REACTION
 
-Oh, *fuck*, Cassie saw them outside! "What was that with you and Randi?" with her coat still on, the cold still coming off her—she must have walked right past them or come in right behind them while Randi had her mouth in Vee's neck! My heart actually jumped into my throat at that last page. Because up until now, Vee's whole confusion with Randi has lived inside the hermetically sealed greenhouse that Pace and Randi built for her, or in rooms full of drunk frat boys who think it's a show. Having deadpan, normal-world Cassie see it and have *worry and disbelief* in her voice suddenly makes the ground tilt in a completely different way.
+God, Cassie is such a real one. Leave it to the deadpan roommate who plays basketball for the Bricklayers to cut right through every single layer of Vee's panicked, babbling self-delusion with a four-word question: *"Is this what you want?"* Not judging her for kissing a girl, not asking for gossip—just looking at her oldest friend with actual worry and asking if she knows what she's walking into. Because Cassie doesn't trust Randi! And honestly, Cassie is the only person in Vee's life who isn't trying to maneuver her into a bed, so watching Vee immediately do the exact same defensive move she pulled on Pace in Chapter 71—grabbing the nearest unfair accusation to swing the weight off herself (*"You don't like her"*)—made me wince in recognition. It's so human and so twenty-one it hurts.
 
-And everything leading up to that doorway was so good. I love how this book doesn't let a huge erotic peak (and Chapter 71 was an all-timer) just reset the board the next morning. Vee spending all of Sunday trying to fuck herself into exhaustion on Pace—literally taking the book out of his hands to climb back on him—and driving home "full of him and not, somehow, filled." And then Monday night in the top bunk keeping her hand flat on her stomach like "a lid held down on a pot" because she knows if she touches herself, it's Randi's name that's going to show up, and as long as she doesn't come to it, she can pretend it's "only wanting" and not true. That is such razor-sharp psychological writing.
+And I love that Cassie doesn't take the bait. She just steps right over the plank Vee laid down, clocks that Vee came back early on a Tuesday night which means she skipped her ritual dinner with Randi, and hands her a box of Cocoa Pebbles. *"Here was a want she could find — a want the size of a bowl."* That is genuinely great writing. It's barely two pages long—literally a continuation of the doorway beat that ended Chapter 72—and normally a chapter that short would make me squint, but as an emotional button on Tuesday night it works completely. Vee actually *went looking* inside herself for the answer to whether she wants Randi, felt the massive shape of it waiting there in the dark, and backed away because she only had the bandwidth to say yes to cereal. Now bring on Thursday—or Saturday brunch!
 
-Then Tuesday in Anthro! Every little domestic ritual they've built over the whole series—picking out the sweater, the shared armrest, the wintergreen Lifesaver—is suddenly a live wire. When Randi grazed the inside of her wrist taking the Lifesaver and Vee had to tell herself *Static*, I felt that in my own stomach. And look at how smooth Randi is: she definitely got the report from Pace after Saturday night, so she plays it completely warm and normal, drops the word *"Having"* right where Pace already primed Vee to hear it, and when Vee tries to bail on dinner AND turns her cheek on the goodbye kiss ("Keep your plague, then"), Randi doesn't push for the mouth—she hits Vee right in the hollow of the neck instead! *"See? How do you like it?"* Right after casually mentioning she has to go "discipline a bad girl" on Thursday night. And Vee's body immediately betrays her brain and blurts out an invitation to Saturday brunch just to keep from losing her. Now Cassie is staring at her waiting for an answer. Do not make me stop here.
-
-GATE 72 — Coming Due
+GATE 73 — Some of Mine
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 2
-ROMANCE: 2
+HEAT: 1
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: Watching Vee try and fail to outrun her own wanting—from keeping her hand flat on her stomach in the dark to short-circuiting over a wintergreen Lifesaver and a neck kiss—was deliciously tense, and Cassie catching them at the end just raised the stakes through the roof. I need to see how Vee gets out of this conversation with Cassie right now.
+WHY: This is a tiny two-page aftermath beat, but Cassie's plain, worried *"Is this what you want?"* and the peace-offering of Cocoa Pebbles hit with real emotional weight. Watching Vee actually look inside herself and bump up against the huge shape of her feelings for Randi before retreating makes me ravenous to see what happens next.

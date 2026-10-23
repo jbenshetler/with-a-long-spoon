@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch056 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · 2026-10-11*
+*capture-dag-v2-rich · gate ch056 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · 2026-10-11*
 
-REACTION — Oh, this one had me absolutely by the throat, and annoyingly, not just because it is filthy. Though yes. Filthy. It knows exactly what it is doing with the naked-in-the-house fantasy and lets Vee enjoy it without immediately punishing her for enjoying it, which I love. She wakes up in his house with literally nothing to wear and instead of shrinking, she expands. That whole “pleasure princess” turn made me grin like an idiot because it is so Vee now: still kinky, still mortified around the edges, but also beginning to understand that being wanted here is not the same as being reduced.
+REACTION — Oh, this made me soft in the exact place the last few chapters had been squeezing.
 
-And Pace burning the toast. Please. That man can organize a breakfast like a dissertation defense, and she breaks him by existing bare in a scrunchie. I am deeply vulnerable to competent men losing competence for the heroine. “I got mushrooms” is such a perfect Pace malfunction. He’s not suddenly a different man after the reunion; he is still himself, exact and practical and food-brained, but now she knows she can knock him off axis. That matters to me.
+After all the heat, all the porch-door naked madness and the cashmere and the body turned into a kingdom, this chapter comes in and says: yes, but he listened. He has been listening to the life she has when she isn’t in his bed. Not just “tell me about your friends” in the boyfriend due-diligence way, but Meg’s boots. Kayla’s paint-off-a-wall talking. The shape of a table and who gets stuck at the end. That is the kind of intimacy that gets me harder, honestly, than a hand on a thigh, because it means she has not just been delicious to him. She has been real.
 
-The food again worked on me more than it should. I could taste that breakfast, and I loved that Vee can taste it now. She is not just being fed; she has been taught appetite as a language. That is one of the sexiest threads in the whole book for me, honestly. The mushrooms and blood orange and salted persimmon felt like a morning-after version of their whole relationship: dark, bright, tender, strange, precise.
+And Vee immediately thinking “Randi” when he says “your people” hurt and delighted me at the same time. Of course she does. Of course Randi is the lit window. Of course Vee wants the two favorite people at one small table, because she still thinks those are two separate favorite people and not one hidden arrangement with her in the center of it. The “three of us” made my stomach do the little oh-no-oh-yes drop, because I can feel the book moving the plates around. It is not time yet, but the table is being set. Literally. Deliciously.
 
-The sex was scorching, but what really got me was the power exchange shifting under them. Vee is playing princess, ordering him wordlessly, and he obeys, but then his patience outranks her command and turns her command into pleading. That is the exact flavor this book does well: she chooses, she stages herself, she discovers authority, and then discovers that wanting can undo authority without making her less powerful. I am very into it. Very.
+But then Pace says Cassie. And Meg. And Kayla. And Theo. That was the chapter’s real seduction for me. He is not trying to pull her back into the house and make that the only world again. He is asking to enter hers. After all my fury at him for not giving her the word, this is him doing the thing he knows how to do, but expanded: not just food, not just sex, not just warmth, but room. A room big enough for her people. It doesn’t fix the missing word. I have not forgotten. But my heart unclenched a little.
 
-And then the after-kiss thing. Whew. That was the chapter’s real hook for me. Not because I need some specific act checked off a list, but because it is so psychologically precise: her body says yes before her inherited shame says no. Then Pace handles it beautifully. He stops, distinguishes the “no” from the “don’t stop,” doesn’t shame her, doesn’t make a lesson of it, doesn’t sulk. Her mouth can wait for her. That sentence, basically. That is the grown-up erotic intelligence I keep wanting from books and so rarely get.
+Also, Vee choosing not to put Cassie and Randi in a restaurant where one of them has to be “fine about it” — I loved her for that. That is grown. That is her learning not to crop people to fit a frame, not even for the fantasy of everyone meeting prettily over napkins. She noticed the mismatch before she hurt anyone with it.
 
-But I am also side-eyeing the afterglow hard, because Vee is doing what Vee does: finding the explanation that lets the room stay warm. “He forgot to wipe” is too tidy, baby. Too tidy. The question is awake now. Not fully, but awake. And of course she thinks Randi will know what to make of it, which made my stomach flip, because Randi absolutely will, and Randi is not neutral, and Randi is the one who handed her this whole night. I am hungry for that dinner and nervous about it.
+And Theo. Bless him for just saying “Bring Theo.” No little possessive flare, no jealousy performance, no turning it into a test. I could feel Vee brace for the genre-man reaction, and Pace just doesn’t give her that. Sometimes he makes me want to shake him until language falls out; sometimes he is so quietly secure I remember why she cannot simply walk away.
 
-Also: still no “I love you.” I noticed. I am not mad at this chapter for not giving it, because what it gave was lush and funny and erotic and full of care, but the original wound is not actually closed. Vee got him back, yes. She got apology and “I missed you so much.” She got the house, the mouth, the breakfast, the blanket. But the word is still in the wall somewhere. I don’t trust the happiness until that is faced.
+This is a bridge chapter, yes, but it is a good one. It moved the romance by making the world wider. I am very alert now, because “let me handle it” from Pace means food and space and probably some devastatingly exact choice of place. And if Randi and Cassie and Pace end up in the same room, the book has handed itself a live wire.
 
-GATE 56 — Missed a Spot
+GATE 57 — Back
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 9
-HEAT: 3
+CAPTURE: 7
+NEXT: 8
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was exactly the blend I want: explicit, playful, psychologically alive, and tender without getting tidy. The erotic charge was enormous, but the chapter also moved Vee’s self-understanding and left a live emotional fuse burning under the bedclothes. I need the Randi conversation immediately, and I still need Pace to spend the words.
+WHY: This was quiet after a run of very hot chapters, but it gave me something I badly wanted: Pace wanting Vee’s actual life, not just her body in his house. The chapter pulled me less by heat than by recognition, and now I want the gathering because every person at that table changes the charge.

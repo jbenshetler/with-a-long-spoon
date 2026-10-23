@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 8429b6ba440f · 2026-10-01*
+*capture-dag-v2-rich · gate ch022 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a8d1d1bf63a · 2026-09-29*
 
-REACTION —
+REACTION — Oh, this one hurt in the adult room.
 
-Oh, this chapter knew exactly where to put its fingers.
+I knew I wanted Randi and Pace in the same emotional frame again, and here it is, and it is worse and better than I expected because nobody is twirling a mustache. It’s domestic, almost marital: stew, bread, the bowl he slices her apples into, the music she likes, him pouring her glass before she comes in. And then the chapter just quietly shows me the cost of Vee’s happiness landing between the two people who arranged it. Randi is jealous. Not in a cheap catfight way, thank God. She is hungry, excluded, maybe ashamed of wanting what she helped make possible. She got Vee’s glowing confession at brunch and brought it home like a lit match.
 
-I’m not even mad that it’s “just brunch,” because it is absolutely not just brunch. This is Randi doing what Randi does best and worst: making a room where Vee can say the thing she needs to say, then quietly arranging the furniture so Vee says the more useful thing underneath it. And the terrible part is, it helps. It really helps. Vee needed someone to say: you didn’t just have this happen to you, you prepared, you wanted, you went there already saying yes in your body before your mouth caught up. And Randi gives her that without shaming her. She gives Vee her own agency back polished and warm in both hands.
+The small bowl wrecked me a little. Hers is the small one. That is such an intimate fact, and then she doesn’t eat from it. She praises the food in this bright, false way, and Pace knows immediately it’s wrong because she never gives him that kind of easy social charm. I loved that. I hated that. It made their history feel real without needing a whole flashback explaining what they are.
 
-Which is why I’m sweating a little, because that is the most dangerous version of manipulation: the kind that is also emotionally true.
+And Pace. Damn it, Pace. “She chooses it, Randi. Every step of it. Or it isn’t anything.” That is the whole book’s pressure point, isn’t it? Because he believes it. I believe he believes it. And that makes the larger deception more unbearable, because his ethics are not fake inside the scene. He will wait, he will not rush Vee, he wants the yes to be real. But he is still standing inside a lie he helped build. The contradiction is the heat source and the rot both.
 
-The toenails. God. The toes being for him. That landed because it’s exactly the thing a friend would notice if she really saw you, and exactly the thing Randi would notice because she is collecting Vee’s wanting like evidence. Vee bought the polish, the green set, moved them to the top of the drawer, drove over sure. I loved Randi refusing to let Vee narrate herself as merely acted upon. “You drove over there sure” is such a clean little knife. And Vee saying, “I wanted it. And I took it. For once.” I felt that in my sternum. That is the whole book’s pulse right now.
+The sex with Randi was not sexy to me exactly, but it was charged as hell. It felt like she used him to touch the part of the story she cannot touch yet: Vee, Vee’s weekend, Vee’s happiness, Vee choosing him. The missing “tell me” was brutal. That one phrase told me they have their own ritual, their own erotic language, and tonight she withholds it. She takes him, but she does not let him narrate or enter the shared place. That is colder than if she’d slapped him.
 
-But also: Randi is getting fed here too. The title is nasty in the best way. Vee thinks she is being fed, and she is. But Randi is feeding on this intimacy, on being the one who gets the story, the one who translates Vee to herself. Cassie lets Vee keep the middle; Randi goes back for it with a smile and a flute of orange juice. And because Randi is not crude about it, because she frames it as love and friendship and recognition, Vee opens. I hate how much I understand why she does.
+And the ending. Him saving her untouched bowl “for her” because he still does not understand what happened. That is the kind of tenderness that makes me want to shake him. He can read a body on a riser with a tape measure and a pencil, but Randi’s pain is sitting across from him with a skin forming on the sauce and he can’t parse it. I’m not mad at the chapter for leaving Vee offstage. This was necessary. The room behind the room just opened.
 
-The Pace-afterward image is gorgeous: Vee in the sheet, wine finally touched, him at the stove near midnight, no talking and nothing missing. That’s the kind of erotic domesticity I will follow off a cliff. Not the act itself here, but the after, the being kept, fed, seen, folded into somebody’s ordinary motions. That would ruin me too. I completely believe Vee driving home bare and happy and then needing to tell someone, because joy this big wants a witness.
-
-And then the kiss. The second kiss. The “half-expected it this time, and met it.” Oh, honey. That is not French. That is not socialite. That is not a weird friendship custom. That is a door, and you just stopped pretending it was painted on the wall. I love that she doesn’t check who saw. That tiny behavioral change is enormous. I’m excited and alarmed in equal measure.
-
-I still don’t trust Randi. I want her on the page every time she isn’t there. Those are both true, which is basically this book’s whole problem.
-
-GATE 22 — Fed
+GATE 23 — Portion
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This pulled hard because it made the emotional aftermath as charged as the sex itself, and because Randi’s tenderness/manipulation knot is getting tighter in a way I cannot look away from. Vee naming her own wanting felt like a real turn in her, and the kiss at the end made the triangle stop being theoretical.
+WHY: This gave me exactly the complication I was waiting for: Randi and Pace as real lovers with real damage, not just conspirators arranging Vee like a centerpiece. It made the triangle emotionally dangerous instead of merely kinky, and now I need to see what Randi does with that jealousy and whether Pace can keep pretending patience is the same thing as innocence.

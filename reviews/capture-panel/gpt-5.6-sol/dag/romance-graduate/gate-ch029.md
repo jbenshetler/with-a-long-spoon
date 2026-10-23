@@ -1,26 +1,24 @@
-*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 08b46669b5c5 · 2026-10-01*
+*capture-dag-v2-rich · gate ch029 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha f4bbb5872a6b · 2026-09-29*
 
-REACTION
+REACTION — Oh, Randi. This is the first time I’ve felt the full shape of what she’s doing and wanted to shake her almost as badly as I wanted to watch her do it.
 
-Oh, Randi. You gorgeous, dangerous bitch.
+She takes Vee’s rawest morning—Vee showing up wrecked, owning the ugly parts, trusting her completely—and brings it straight into Pace’s bed as erotic material. Not accidentally. Not because Pace asks. She stops him from making her come so she can put herself over him and narrate Vee standing in her bra, Vee letting her circle and look, Vee reacting to her hands under the skirt. That is so hot I resent it. The detail about Vee hoping Randi hadn’t heard the sound behind her knee, followed by “I heard it,” absolutely got me. But Vee believed she was being dressed and comforted by her safest female friend. Randi knew she was gathering something she would later feed to Pace. I can’t make that clean just because every person in this triangle genuinely wants every other person.
 
-I was completely with Vee walking over there in the cold, scrubbed raw by shame and determined to repair what she broke. That felt adult. Not glamorous, not erotic, just: I hurt someone good, I understand how, and I’m going to face him. Then Randi took that clean impulse and styled it. She didn’t merely comfort Vee; she postponed the apology, chose its timing, prescribed the emotional posture, and started dressing her for maximum effect. “He leaves you the room and waits to see what you walk in wearing” is such a perfect Randi sentence because it sounds like wisdom while quietly turning an honest conversation into an entrance.
+And Pace—my beautiful, attentive idiot—he sees that Randi is turned on by Vee. He can feel that she’s giving and taking at once. But he still does not ask whether Vee knows she’s being passed between them like this. He’s so principled about Vee choosing every step and so incurious about the information architecture around those choices. That contradiction is now unbearable in exactly the way I’m here for.
 
-And Vee obeyed immediately. “Because Randi had said so” scared me more than anything in the chapter. Randi can take the fist out of her chest, yes. She can name jealousy without shaming her and make her feel survivable again. That is real care. But she can also replace Vee’s judgment with her own so smoothly that Vee experiences it as relief. Pace leaving Vee room to choose and Randi telling her exactly when to walk into it, what to wear, and how to understand his silence—that contrast is not subtle to me, even if it is to Vee.
+What made the chapter more than a betrayal-delivery system was Randi coming through his door openly pleased. She asks for food now. She wears his shirts. She stays down afterward. She comes to him on an unexpected Friday and lets happiness show before she can polish it into performance. Pace notices every one of these tiny changes and doesn’t seize them or explain them. There is real love here, or something painfully close to it, and I think Randi is using Vee not only to reach toward Vee but to make herself visible to Pace. She can tell him how gorgeous and responsive Vee is because she still cannot quite say, plainly, *look at me wanting her; look at me wanting you to see me want her.*
 
-Unfortunately, the shoe scene absolutely got me. The skirt hiding Randi’s hands, the cool touch, the hand high on the thigh, the thumb behind the knee, Vee discovering that being held in place makes her steadier—come on. That is not girlfriends playing dress-up anymore, however cheerfully Vee files it there. And Randi knows. The moment she looked at Vee’s bare feet, the pair she chose not to try, the tending she could perform under cover of the skirt: she knows exactly where the charge is. Maybe she isn’t admitting the full truth even to herself, but her body is conducting this scene with complete fluency.
+And then “Give her a day.” God. Randi arranged Vee’s delay, dressed her for the reconciliation, predicted Pace’s silence, then came here to fill the Friday she told Vee to leave empty. Pace hears the day as though it is his to give and notices the wrongness—but only enough to “set it beside the rest.” That chilled me. Randi is managing both sides of the absence and presenting herself to each as the person who understands the other. She gets Vee’s dependence, Pace’s gratitude, and this whole night alone with him inside the space she created.
 
-What makes it work on me is that the friendship is also delightful. The Edna Mode bit, the evil stepsisters, the scarf, Vee in the closet in nothing but Randi’s shoes—I believe their laughter. I believe Randi loves making Vee feel beautiful, and I believe Vee has never had a woman look at her this way and hand her back to herself shining. That is precisely why the manipulation hurts. If Randi were only predatory, I could dismiss her. Instead she is giving Vee something precious while making herself indispensable to Vee’s ability to see and interpret her own life.
+The sex was a three for me because it wasn’t interchangeable sex. Randi’s desire for Vee is the engine, Pace’s arousal at Randi finally speaking that desire is the fuel, and the whole concealed structure is right there in the bed with them. It is explicit, specific, and psychologically filthy. Exactly what I keep hoping this book will dare.
 
-And that kiss. Vee finally kissed her back without bracing and only noticed afterward. “It was only what they did” is the kind of sentence that makes me want to shake the book. No, darling, it is not only what you do. It is what you want, and it has become ordinary in your body before your mind has permitted it a name.
+I am already reaching for the next chapter because Vee is about to walk into that house wearing Randi’s shoes and scarf, believing the day apart made her return fully her own choice. Her apology will be sincere. Her wanting will be sincere. Pace’s tenderness will be sincere. And Randi has choreographed the frame around all of it. This is going to hurt.
 
-I need tomorrow night immediately. Not because I want the black dress reveal—though obviously I do—but because Vee owes Pace an apology that comes from her, not a performance directed by Randi. If she walks in “sure” and seduces him before saying the plain painful thing, I’m going to be furious. And I cannot ignore that Randi has now cost them a day: Pace is sitting with the injury while Vee is being taught to make its repair beautiful.
-
-GATE 29 — broken-in
+GATE 30 — Space
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 2
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The concealed shoe-fitting was intensely charged, but the real hook is Randi turning comfort, control, friendship, and desire into one seamless thing while Vee’s body quietly accepts the kiss as normal. I need to see whether Vee gives Pace an honest apology or delivers the beautifully staged version Randi has put in her mouth and on her feet.
+WHY: Randi turning Vee’s trusted confession and involuntary physical reactions into erotic currency with Pace made me furious and completely riveted. The tenderness among all three is real, which makes the manipulation land harder—and I need to see Vee walk into the space Randi has so carefully arranged.

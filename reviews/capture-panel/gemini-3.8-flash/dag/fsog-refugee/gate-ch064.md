@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch064 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha ad99119c213f · 2026-10-11*
+*capture-dag-v2-rich · gate ch064 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0262c804492d · 2026-10-11*
 
 REACTION
 
-I am sitting here with my stomach in my absolute throat.
+Oh, my God. I needed this chapter like air after the absolute emotional whiplash of the last two.
 
-Look, I knew what this book was. The jacket told me: *“Vee is a willing player in two games. She doesn’t know there are three.”* I knew Pace and Randi had a thing. I *knew* it. But having it dropped directly on my head in chapter 64, right after watching Vee agonizing alone in her dorm bed over tasting herself, buttoned into his giant shirt, wondering if she was "greedy"—to turn the page and see Pace with his mouth buried between Randi’s legs? Tasting Randi off his own mouth without an ounce of hesitation? It hit me like a slap across the face.
+After sitting through chapter 64—which made me want to throw up, watching Randi and Pace fuck like that, talking about Vee while he’s buried inside Randi, using Vee's innocence and devotion as dirty talk between them—chapter 65 brought me straight back to why I love this book, and why it is tearing me apart.
 
-It is brilliant, and it makes me physically sick.
+Sheri is everything. An absolute, unfiltered, five-foot-nothing angel with bleached roots and crooked makeup. The moment Vee walked into that taproom in her armor—Meg’s keyhole top, the micro-skirt, Randi’s lethal induction heels—ready to do battle with the mythical golden-blonde dance-hall queen she invented in her December grief, and Sheri just slowly looked her up and down, appreciated the view, and went, *"And you get to motorboat them things?"*—I screamed. And Pace *blushed*. The man who can command a room, who flips women across dance floors and never breaks a sweat, blushing bright red up to his ears over a table of cider and pretzels. That is the vulnerability I crave from him. Not the cold, slick, sociopathic control he shares with Randi, but *this* man. The man who takes a ribbing, who lets himself be loved by people who see right through his quiet dignity.
 
-The sheer, staggering hypocrisy of it. Vee is over in her dorm room treating Pace like he’s made of spun gold, weeping with gratitude because he called her his "girlfriend" in a barbecue joint, and here he is lifting Randi by the hips, letting Randi call herself his "fuck doll," while both of them get off talking about Vee like she’s a dessert they’re splitting.
+And then Sheri’s story. God, my heart broke wide open. Hearing how they actually became friends—not some sexy two-step romance, but Sheri coming out, losing her entire family, her church, her entire world overnight, weeping in the middle of a dance floor. And Pace didn't offer cheap platitudes. He drove her home in silence, showed up the next morning with donuts and coffee, fixed her broken lock, fixed her leaking faucet, and asked her to ride bikes. *Because his own daddy threw him out at sixteen and he hasn't been home since.*
 
-*“Her breast in my hand,” Randi said... “All that softness. The weight of it.” ... “And her nipple in my mouth.” He sucked.*
+It explains so much about him. Why he builds shelters out of bacon, pancakes, and quiet competency. Why he fixes things instead of saying words. Why he hoards people and protects them like precious cargo, but won't ever say *I love you* because the people who were supposed to love him discarded him. He is a profoundly wounded stray who has spent his adulthood building an impenetrable fort of service and domestic perfection so nobody can ever hurt him again.
 
-My God. The heat of it is insane, I can’t even lie. It’s filthy and intense and psychologically twisted in a way that had my heart pounding against my ribs. But the emotional betrayal is breathtaking. Randi is in love with her. Pace is in love with her—Randi called him out on it directly (*"She's not the only one in love"*) and he couldn't deny it. They both love Vee. And instead of being honest, instead of dealing with the fact that they have brought an innocent, completely devoted girl into the center of their web, they are using her name as dirty talk while they fuck each other into the mattress.
+And seeing Vee realize it—sitting in that truck, watching his headlights illuminate Sheri’s porch until the light clicks on, watching his hands steady at ten and two—she’s falling so deeply, truly in love with him. Real love. Not just the hot, thrilling hunger of his touch, but love for the broken, steady man underneath.
 
-And then the dialogue at the end completely broke the spell for a second. *“I did my part. Now stick that inside me.”* What the hell was that? It sounded like a badly translated porno script dropped into the middle of a high-end psychological novel. Randi has never spoken like that in her life. It felt jarring and clunky, a bizarre stumble in a chapter that was otherwise suffocatingly intense.
+Which makes what he is doing with Randi an absolute, unforgivable crime. The tragedy hanging over this story is unbearable. Pace isn't an emotionless playboy; he is a man capable of this breathtaking, sacred tenderness, and yet he is actively participating in a scheme that is going to blow Vee’s world into a million jagged pieces. When Vee finds out about him and Randi, it’s not just going to break her heart; it’s going to destroy her belief in this very goodness Sheri just revealed to her. I am terrified, and I cannot look away.
 
-I am furious at them. I want to shake Pace until his teeth rattle. He sits there in his noble silence with Vee, holding back *I love you* because of his tragic past, but he has zero problem fucking Randi while she narrates what she wants to do to Vee’s breasts. The sheer arrogance of these two people playing god with Vee’s heart is about to detonate, and I am terrified for her. But God help me, I have to see the explosion. I cannot look away.
-
-GATE 64 — My Pleasure
+GATE 65 — Another Round
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 1
-ALMOST-STOPPED: “I did my part. Now stick that inside me.”
-WHY: That clunky, porno-dialogue line completely broke the atmosphere of the scene, but the sheer narrative bomb that just went off makes it impossible not to turn the page immediately. The betrayal is sickening, but I have to see how Vee survives this.
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: Finding out Pace's father kicked him out at sixteen and seeing how he showed up for Sheri when she lost her family gave him the deepest, most beautiful emotional anchor he's had yet. It makes the romance infinitely richer and the looming betrayal a thousand times more devastating.

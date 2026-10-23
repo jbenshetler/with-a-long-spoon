@@ -1,5 +1,89 @@
 # Triage — Fed (cold-read panel + SATC axis audit, 2026-07-29)
 
+## Diptych experiment — 2026-10-23, awaiting author review
+
+Author authorized folding *Toenails* into *Fed* as the opening Saturday/Cassie movement, retaining the Sunday/Randi movement after a scene break and preserving both passages verbatim. Title *Fed* retains *Famished / Fed*. The first movement's settled rulings remain in `meta-triage-toenails.md`. No later reader review has been renamed, renumbered, or rewritten.
+
+Four new grounded subscription reads are on disk: claude-opus-4-8 (Heat/Romance 1/2), claude-opus-5 (2/2), claude-opus-5-5 (2/2), and gpt-5.6-sol (2/2). All four respond to the title's feeding meanings and the difference between the confidantes. GPT-5.6-sol explicitly says the two-part structure earns its length; claude-opus-4-8 says the opening keeps the aftermath from feeling repetitive. Claude-opus-5 and claude-opus-5-5 flag the repeated dinner inventory in the Sunday movement; the latter also flags the closing friendship summary. These are reader reactions, not rulings; no prose has been changed in response. This is not a controlled before/after capture comparison.
+
+GPT-5.5 failed because the model is not supported on the current Codex subscription account; its existing review is unchanged and does not review this merge. Paid readers were not launched. The four successful new reads replace or create only their own `reviews/cold-read/<model>/fed.md` files; all other existing reader artifacts are unchanged.
+
+## Retelling reductions — author approved 2026-10-23
+
+After the diptych reviews, the author approved the proposed reductions at `scenes/fed.md:19`, `:63`, and `:65`: 225 words removed; all other paragraphs unchanged. Cassie's telling is summarized with the familiar sweet/good-kisser register and the Chianti opened ahead retained; Sunday's replay of Cassie's telling is removed; the Randi telling is summarized up to the evasive middle and full midnight-kitchen account. Relative receipt is unchanged. Cassie's reaction, the ladle, the zipper, the kitchen image, Randi's reception and questions, and the closing friendship paragraph remain intact.
+
+This approval follows the praise check: the original dinner inventory was explicitly valued in GPT-5.6-sol's Toenails read and used appreciatively in Opus 5's; the duplicate inventory was specifically criticized by Opus 5 and Opus 5.5 in the merged Fed reads. The retained wine detail carries the anticipatory care; the full kitchen image retains the praised intimacy. The first wave above describes the pre-reduction text; the subsequent rerun is recorded below.
+
+Continuity retrieval and the fresh gpt-5.6-sol fact check found no new conflict. Error lint clean; echo harvest found no candidates. Five advisory style hits remain, including the re-armed `the-way` hit in the shortened tissue-fold sentence; no advisory hit was changed or acknowledged. Orphan and ruling-anchor checks show the same pre-existing flags as before the reduction.
+
+## Post-reduction cold reads — 2026-10-23, awaiting author review
+
+Reran the same four available subscription readers on the 2,913-word draft: claude-opus-4-8, claude-opus-5, claude-opus-5-5, and gpt-5.6-sol. All four score Heat 2 / Romance 2. These current files supersede the pre-reduction readings summarized above; later reader artifacts are unchanged.
+
+Neither Opus 5 nor Opus 5.5 repeats its specific duplicate-dinner complaint. Opus 5 calls the dorm scene tight and says the brunch should take its time; Opus 5.5 says the brunch escalates well and the pattern is building, not sagging. GPT-5.6-sol says the longer brunch earns its space and chapter-to-chapter momentum builds. Opus 4.8 still reports broader fatigue with the recurring Randi brunch/debrief shape, while saying both movements earn their length. This is a favorable response to the targeted reduction, not evidence that the book-level structural concern is resolved.
+
+Remaining reactions, not rulings: Opus 5 feels some familiarity in the Cassie movement and a little slack in the final conversation summary; GPT-5.6-sol notices the irony of Vee believing she can tell Randi anything while still editing the account. Opus 5.5 now praises the closing summary. No further prose edits made from these reads. Opus 4.8 speculatively identifies the old boyfriend as Pace, including in its cast block; that is a reader inference, not an established identity or a new canon fact.
+
+## Expanded paid/capture assessment — 2026-10-23
+
+Author explicitly authorized paid readers on this chapter. Ran the existing-checkpoint capture lanes for the two default personas only, scoped to current reader chapter 21 with `--from 21 --to 21 --fresh`. Fifteen new capture gates across eight models; all **CONTINUE**. The existing four current subscription cold reads were supplemented by a new paid GLM cold read (Heat 2 / Romance 3). No later gates, checkpoints, reviews, assembled volume records, or numbering were altered; verified against pre-run file hashes.
+
+Capture / NEXT, recorded per lane (not cross-model rankings):
+
+| Model | romance-graduate | fsog-refugee |
+|---|---|---|
+| claude-opus-4-8 | 9 / 9 | 7 / 7 |
+| claude-opus-5 | 8 / 8 | 8 / 9 |
+| gpt-5.6-sol | 9 / 9 | 9 / 10 |
+| glm-5.3 (paid) | 8 / 8 | 8 / 8 |
+| gemini-3.8-flash (paid) | 9 / 10 | 9 / 10 |
+| claude-fable-5-1 | 8 / 8 | 8 / 9 |
+| claude-opus-5-5 | 7 / 8 | 7 / 8 |
+| gemini-4-argon (paid) | 9 / 9 | not run: no existing lane/checkpoint |
+
+All five paid capture gates and both Sol capture gates report ALMOST-STOPPED: none. Repetition concerns remain concentrated in the Opus capture readers: Opus 5/fsog and Opus 5.5/romance both quote "She gave Randi the same dinner." Their reaction is to the announced recurrence even after the actual inventory was elided; this is a reader signal, not a ruling to cut the sentence. Fable/romance flags the closing friendship explanation as already shown; Fable/fsog watches the second unasked kiss but explicitly says it was not close to leaving. Opus 5.5/fsog describes dread pulling it forward. Do not equate nonempty ALMOST-STOPPED fields with near-exits, and do not average raw CAPTURE across lanes.
+
+The paid GLM cold read calls Cassie's movement short and nearly perfect and the brunch long but earned. It feels faint repetition in the premeditation sequence and wants the next chapter to move. Its warm reception and the seven paid/Sol capture continuations without an almost-stop support retaining the diptych; they do not erase the recurring-shape response of the Opus group. No further prose edits made from this wave.
+
+Coverage limits: GPT-5.5 subscription unavailable. Gemini 4 Argon's cold-read ck-ch020 is missing; its native paid mint needs separate authorization under the provider command. DeepSeek's ensemble ck-ch020 is absent; a build preflight fails because the required GPT-5.5 source lacks provenance fingerprints and must be reminted, while that model is unavailable on subscription. No substituted checkpoints or expanded chapter-one catch-up runs were used. Existing capture memories report earlier-prose staleness; followed the harness's warn-and-proceed contract rather than refreshing the volume.
+
+Billing: six paid calls completed (five capture, one GLM cold). GLM cold reported 12,182 input / 2,283 output tokens, finish stop, approximately $0.016 at the repository's configured rates. Capture discards provider usage; approximate combined input/visible-output cost across all six calls is $0.10 using character-based token estimates and local rates, excluding hidden reasoning and provider-price differences. Exact billed cost/provider endpoint/reasoning count were not exposed by these harnesses.
+
+## Gemini native cold-read follow-up — 2026-10-23
+
+Author separately authorized the paid native mint. Minted Gemini 4 Argon's ck-ch020 from raw chapters 1–20 at high effort, then ran its low-effort grounded cold read on the current shortened Fed. Checkpoint provenance pins the same current source/bundle/extractor hashes as the fresh Opus 5.5 checkpoint. Native metadata identifies the actual provider model `google/gemini-4-argon`. Existing reader artifacts are unchanged; only Gemini's new checkpoint and Fed review were added.
+
+Gemini scores Heat 2 / Romance 2, reports "zero reader friction" and "every line earned its keep," and calls the pacing smooth and unhurried. Its structural reading: the brisk Cassie movement sets up what Vee hides, allowing the longer Randi movement to reveal those layers. It finds the title's literal, emotional and erotic feeding meanings effective and says the aftermath builds psychological tension. This supports retaining the shortened diptych; no prose changes made.
+
+Reader overreach, not canon: Gemini treats the old-boyfriend story as definitely invented and implies Randi knows the polish/silk connection. The page does not settle the story's truth, Vee does not tell Randi why she picked the color, and the rendering guard still requires Randi to read significance from Vee's face rather than recognize the silk. These inferences are not additional disclosures or continuity findings.
+
+Coverage is now six current cold reads plus fifteen capture gates. DeepSeek remains blocked by its missing ensemble and unavailable GPT-5.5 donor remint; GPT-5.5 itself remains unavailable on subscription. No later chapter artifacts were touched.
+
+Mint usage: 81,071 input / 27,167 output tokens, including 11,689 reasoning tokens; valid completion, incomplete=False. Read usage: 22,625 input / 2,433 output tokens; finish stop. Estimated combined cost $0.5034 at the repository's configured $2/$10 per million input/output tokens; exact billed cost and provider endpoint were not exposed. Provider model: google/gemini-4-argon via OpenRouter.
+
+## Explanation cuts — author approved 2026-10-23
+
+Applied four proposed reductions, 85 words net (2,913 → 2,828), after the author asked for places that were told or over-explained and then authorized the cuts/edits:
+
+- `scenes/fed.md:73`: removed the repeated wanting-to-tell introduction; the earlier desire at `:63` and the answer itself remain.
+- `:91`: removed "It came up in her face instead." The silence and the full bodily blush at `:93` remain; Randi still reads significance from her face, not knowledge of the silk.
+- `:115`: removed the explanatory preamble before "I wanted it"; the exact declaration, hair gesture and limiting "For once" remain.
+- `:119`: removed the functional definition of Randi as the person who names Vee's feelings. Retained the friend-wanted-at-fifteen and liked-her-better-than-herself sentences, attaching them explicitly to Randi.
+
+The kindness/self-persuasion passage is unchanged. All other paragraphs are verbatim. Praise checked before approval: two current capture readers objected to the closing explanation; current Opus 5.5 and Gemini cold reads specifically valued the childhood longing, which remains. The first blush tag had appreciative mentions, but its function is retained in the full blush rather than repeated. No new wording protection was found for the repeated desire introduction or the truth-certifying preamble.
+
+The ruling-anchor tool now flags the old quoted definition of Randi's confidante role as absent. That removal is authorized here; it does not reopen the separate "Fingers for the room. But the toes" ruling that used the definition as supporting evidence. Twelve other moved-anchor flags and the Rye orphan flag predate this pass. Error lint clean; five existing advisory hits unchanged and not acknowledged; echo harvest finds no candidates. Focused lore verification found no new continuity or staircase conflict.
+
+All six cold reads and fifteen capture gates above predate this 85-word pass. No reader artifact was edited, renamed, renumbered or rerun in this pass.
+
+## Gate reconciliation and roster update — author approved 2026-10-23
+
+After assessing the merge, the author authorized the tool fix and renumbering. The merge-aware mode preserves the 15 verified merged-Fed gates at 21 byte-for-byte, retires 21 superseded standalone reads intact, shifts 945 later gates and their harness headers, and preserves 16 already-aligned tail gates. Every reader-written body was checked against the pre-rename backup; all destination bytes match the plan. Zero identity/filename/header mismatches remain. Forty-six legacy gates lack title lines and are position-based. Cold reads and checkpoints are unchanged. This supersedes the earlier temporary hold; no memory checkpoints were reminted by the repair.
+
+GPT-5.5 was also retired from both active rosters at the author's request. Historical artifacts remain, including the donor checkpoint lineage; default capture statistics now exclude retired models, with explicit `--model` history inspection still available. No other model retired. DeepSeek's source-ensemble block remains a dependency issue, not evidence of a failed DeepSeek reader.
+
+## Prior standalone-Fed triage
+
 Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/fed.md`
 
 Verdicts on the friction items derived from the panel. **The "Left standing" section

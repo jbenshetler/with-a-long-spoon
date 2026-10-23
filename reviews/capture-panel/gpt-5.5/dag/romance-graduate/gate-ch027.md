@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch027 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 3e3674d6874c · 2026-10-01*
+*capture-dag-v2-rich · gate ch027 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha d1b699df4c26 · 2026-10-01*
 
 REACTION —
 
-Oh, this one got me in the ribs.
+Oh, Vee. Oh no, honey.
 
-After all the silk and shoes and the almost comic-hot dress chaos, this felt like the book pulling the quilt up and saying, no, stay here a minute. And I did. I stayed. I was absolutely captured by the intimacy of it: the cold glass, the fire behind them, his robe on her, his hand just resting on her breast like her body is home and not an event. That is the kind of tenderness I am starving for in erotic books. Not less sexual because they’re talking. More sexual because they’re talking with their bodies still open to each other.
+This chapter got me in the tender place and then stepped on it with a boot heel, which is unfairly appropriate. The dancing lesson was *exactly* the kind of thing I keep wanting from this book: charged without rushing to naked, technical in a way that becomes emotional, his hand at her shoulder blade teaching her something about trust before either of them names it. “Being jelly doesn’t work” made me laugh, but also yes, that is the whole chapter, maybe the whole relationship: she has to bring herself into the frame. Not collapse. Not perform. Meet the lead.
 
-And Pace. Peter. God. That name landed so quietly and changed the room. I love that she didn’t pounce on it, didn’t make it cute, didn’t tease him into giving more than he could. She let him keep the mother part unspoken. That is the grown-up emotional intelligence I want. Vee is young, yes, but she is not stupid, and she is becoming so good at reading the places where a person has been hurt.
+And I loved that it wasn’t magically easy. She fights it, anticipates, tries to guess, gets embarrassed, overcorrects. That felt so much like her. She wants so badly to be good, to be wanted, to not be visibly new at anything. Then the lead finally comes through his body and into hers, and she *gets it*. I felt that little click in my own spine. That is the kind of erotic writing I’m starving for, honestly: no one has to take anything off for the whole thing to be bodily.
 
-The math speech should not have worked on me as hard as it did, but it did. I have read so many “genius man” books where genius means he owns three companies and says chess things. This is better. This actually made me feel what it might be like to live inside a mind that sees the world as pattern and proof and poem. “Most people walk around inside the poem and never get to read a line of it” is the kind of line that could have been too much, and somehow it wasn’t. Because he means it. Because he earned it with the hallway desk.
+Then the bar. God, I knew the moment women started hugging him that her mother was going to crawl right up the back of her neck. And I hate that I understood her reaction even while I was wincing through my fingers. Because yes, to Vee, being special is still so fragile. She has just started believing she might be singular to him, and suddenly there’s a whole room of women who know his arms, his timing, his care. The blonde knew exactly where to put the knife. “Knows how to get a girl to do just what he wants her to” is poison because it’s almost the same language as the lesson, but bent ugly.
 
-And Daphne. Whew. That whole section made my stomach go cold. I love that Vee knows the word and doesn’t say it. I love that the book trusts me to know it too. Pace defending the memory as luck hurt more than if he had named himself damaged. That is so real and so awful: the way someone can hand you their wound already framed as the best thing that ever happened to them, because at the time it was warmth compared to the rest. It makes his carefulness with Vee feel even more loaded now. Not just erotic restraint. Not just courtliness. Also maybe a man trying, desperately, to make sure nothing is ever taken from someone young because something was blurred for him.
+And Vee throws the worst possible thing at him. The *service* line hurt. It hurt because she takes what is probably one of his most decent qualities — getting drunk girls home safely and not touching them — and spits on it because she is scared she’s ordinary. I wanted to grab her by the shoulders. Not in a scolding way. In a “stop before you make this the story” way.
 
-The scar is still sitting there like a closed door with light under it. “Not tonight” was perfect. Not coy. Not withholding for drama. Just a boundary that still allowed touch. Her palm over the scar under his hand? That is hotter and more intimate to me than half the sex scenes I’ve read this year.
+But the chapter doesn’t let her off, and I respect that. It makes her sit in the bar and stew in her own internalized garbage. Floozies. Slut. Next. All those words are not Pace’s, not really even the blonde’s. They’re her mother’s and Vee’s shame wearing different outfits. And then the bartender, bless her, just sets the actual facts down on the bar: Pace is known; Pace is safe; Pace doesn’t bring dates; the women were jealous of *her*. That landed beautifully. Not overexplained, not sentimental. Just enough truth to make Vee feel the shape of what she did.
 
-And then the ending scared me because Vee is so happy. So completely, catastrophically happy. She is lying there making a little origin myth out of Randi and Pace arriving in her life by accident, and I’m sitting here with the jacket copy burning a hole through my lap. She thinks she stumbled into them. She did not. Or not only. And the more tender and real this becomes, the worse that secret gets. I am now fully attached to Pace, which is deeply inconvenient, because the ethical floor is still creaking underneath him.
+I’m also very alert to the Randi of it all at the end. Of course Vee goes to Randi. Cassie would have been clean, loving accountability. Randi will understand the jealousy and the shame and the erotic charge of being led, but Randi is not neutral ground. I want the next chapter badly, but I’m nervous, because Vee is going to the woman who can soothe her and steer her at the same time. And after the last few chapters, Randi wanting “us” is not theoretical anymore.
 
-Also: Randi is absent from the chapter and somehow everywhere in it. Vee is thinking about her with the same stunned gratitude she thinks about Pace. “Her glamorous friend” is not neutral anymore. It has a glow on it. The triangle is not theoretical now. It is living in Vee’s idea of happiness before she has any language for it.
+This was a bridge chapter, but a live one. It moved. It had heat in the dancing, pain in the misunderstanding, and consequence by morning. I’m not mad at Vee. I’m sad for her and proud that by daylight she knows she has to fix it. That’s grown-woman behavior starting to push through the shame.
 
-GATE 27 — Rock
+GATE 28 — Lesson
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
+CAPTURE: 8
+NEXT: 9
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This was quiet, but it was not stalled for one second; it deepened Pace in a way that made the tenderness sharper and the danger worse. I want the next chapter badly, partly because I am warm from this and partly because Vee’s happiness is now so dependent on a story she does not know is incomplete.
+ALMOST-STOPPED: “three dates, and she'd spread her legs like a slut.”
+WHY: The slut-shame spiral is hard for me to sit in, but the book knows it is ugly and inherited, not truth. The dance lesson made the bond turn: trust, frame, lead, her own weight in it. And sending her to Randi instead of Cassie is a deliciously dangerous choice, so yes, my thumb is already moving.

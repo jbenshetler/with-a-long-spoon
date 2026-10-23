@@ -37,6 +37,7 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO / "tools"))
 import checkpoint_bundle  # noqa: E402
+import cold_read_config  # noqa: E402
 
 PANEL_ROOT = REPO / "reviews" / "capture-panel"
 FREE_SAMPLE = 4  # ch1-4: no goodwill banked, a dip here is always a finding
@@ -79,8 +80,13 @@ def _int(text: str, pat: str) -> int | None:
 
 def load(model=None, persona=None) -> list[Gate]:
     out = []
+    active = set(cold_read_config.capture_models())
     for gp in sorted(PANEL_ROOT.glob("*/dag/*/gate-ch*.md")):
         mo, pe = gp.parts[-4], gp.parts[-2]
+        # Retired history remains inspectable with --model, but cannot vote in
+        # the current panel simply because its files still exist.
+        if model is None and mo not in active:
+            continue
         if (model and mo != model) or (persona and pe != persona):
             continue
         n = int(re.search(r"gate-ch(\d+)", gp.name).group(1))

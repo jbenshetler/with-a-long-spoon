@@ -129,4 +129,4 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 - **The no-management-gap** — closes completely here for the first time; reopens the moment she narrates the night to Randi at the {{Fed}}; that reopening is Randi's opening
 - **Footwear staircase** — ballet flats now; heels held for later
 - **The trade** — he has the panties; a kept thing, not a collection; both know; neither mentions it again
-- **{{Toenails}}** — Vee will try to tell Cassie and find the body of this night has no channel to her; the friendship's first withheld thing; the vacancy Randi fills
+- **{{Fed}}'s Saturday movement** — Vee will try to tell Cassie and find the body of this night has no channel to her; the friendship's first withheld thing; the vacancy Randi fills

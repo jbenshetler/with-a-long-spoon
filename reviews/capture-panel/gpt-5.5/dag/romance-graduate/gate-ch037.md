@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch037 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 51b3205f6eee · 2026-10-01*
+*capture-dag-v2-rich · gate ch037 · gpt-5.5 · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · 2026-10-01*
 
-REACTION — Oh, this chapter is evil in the exact flavor this book is best at.
+REACTION —
 
-I knew the second Randi said “There’s my girl” that I was in trouble. Not Vee. Me. Because it’s so warm, so ordinary-brunch pretty, and also Randi has the table already set in every possible sense. The glass porch, the mimosas, the same drink, that tiny class/belonging hit for Vee — it all looks like friendship and feels like seduction with plausible deniability lacquered over every inch of it.
+Oh, this one got me in the ribs.
 
-And Vee. God. She is not coy anymore. She is telling the story because she wants to relive it and because she wants Randi to receive it. That’s the part that got me. This isn’t just Randi extracting. Vee is offering. She wants the gasp, the attention, the “walk me.” She wants to put the nakedness on the table and watch Randi touch it with language. But she still doesn’t understand the transaction she’s in, or maybe she understands it in her body long before her mind can bear to. Which is basically this whole book’s operating system at this point.
+Not because it was the hottest chapter, exactly, though the opening has that post-week-apart charge I absolutely want from this book. The lift at the door, the not making it to the kitchen, the way he still slows down and makes her pleasure the center even when they’re both frantic: yes, thank you, finally a man written like desire is attention and not just appetite. I also really felt her realizing there can be an after. That he can want her again after food, after wine, after the first urgency is spent. That is such a specific erotic safety, and the book knows it.
 
-The heat here was ridiculous because almost nothing “happens” in public and everything happens. The brunch table might as well be a bed. Randi asking “Inside?” in that scandalized little breath was hotter than half the full sex scenes I’ve read this year. And then Randi tells her own story, and it’s so perfectly designed to push Vee over the edge while still being, technically, just two friends talking. Randi is terrifying because she can always point to the pastry. Sticky fingers? Oh, the pastry, darling. What did you think I meant? I wanted to throw the book and keep reading with both hands.
+But the real thing here is domestic. Dangerous, gorgeous domestic. Her saying “Peter” into his sleeping ear just about knocked me flat, because it’s so intimate and private and she isn’t performing it for him. She lets herself know she loves him before she asks him to know it. And I believed her. I believed every inch of it: the salmon, the tomatoes, the robe, the bathroom counter, the scrunchies. This is how a person in love starts reading every household object as evidence.
 
-The bathroom scene hurt in a different way than I expected. I thought she was going to finish, and honestly the chapter had earned it, but the stopping when Randi’s face arrives — that was the real turn. Vee can be shameless with Pace now, or getting there. But Randi seeing her, even imagined, is too much. Too wanted. Too exposing. Too close to saying the actual word. She can tell Randi about being bent over naked for Pace, but she can’t touch herself while letting Randi’s gaze exist in the room. That is such a precise little devastation.
+And then the drawer. God. The drawer is obscene in the way this book keeps making care obscene. Not dirty-obscene, but intimate-obscene. He doesn’t make a speech. He doesn’t reassure her in words. He silently gives her the first drawer, the reachable drawer, and compresses himself into the lower one. That is more devastating to me than an “I love you” would have been right now, because of course Vee would hear the sentence and be happy, but the drawer goes under her defenses. It says: you are expected here. You are not clutter. You have a place.
 
-And then Randi drops “best friend in the whole world,” and I felt Vee just dissolve. That would have worked on her even without the kiss. It is exactly the kind of chosen-ness she’s starving for. But with the kiss, and the pastry glaze on Randi’s mouth transferring to Vee’s lip after Vee never touched the pastry? Come on. That is filthy and tender and manipulative and beautiful. The book is making “one bite” do about twelve things, and I hate how much I liked every one of them.
+I am swooning, and I am scared.
 
-I am more worried about Randi than ever. Not because I think she’s fake. Because I think she means it. She wants Vee, she wants Vee to want her, she wants to be necessary, and she knows exactly where to press. The “Do what you need to” line is going to live in my head. It sounded permissive and maternal and erotic and like a trap door opening.
+Because this is exactly how the book makes the trap soft. Vee is not being conned emotionally in some cheap way; the love is real, the care is real, the scrunchies are real, the drawer is real. That’s what makes the hidden Pace-and-Randi machinery worse. If he were simply predatory, I could put the book in the freezer emotionally. But he is giving her a home while still living inside a lie by omission, and she is starting to build her whole heart in that house.
 
-Pace is absent and somehow fully present, because Vee’s whole body is carrying him into brunch. But this chapter belongs to Randi. Or maybe to Vee realizing, without realizing, that Randi is not the friend she tells the story to after the heat. Randi is part of the heat. The book didn’t underline it. It just left sugar on her lip.
+The weight-loss note made me uneasy too. Not in a moralizing way. More like: oh, sweetheart, you are watching your body change under his care and interpreting all of it through being fed, desired, housed, remade. The bras keeping the secret, the clothes getting loose, the body “burning down whole weekends of him” — that is beautifully written and also a little alarming. Her selfhood is blooming, yes, but it is also reorganizing around him with frightening speed.
 
-GATE 37 — One Bite
+And Randi being absent from the chapter made her louder somehow. No “Randi to be told” is such a little flare. Vee notices the absence as a relief, almost. This night is theirs, this drawer is hers, this love is hers. Except I know Randi is in the architecture even when she’s not in the room. I hate how badly I want to live in the drawer with Vee and ignore the third game. I hate that the book knows I want that.
+
+GATE 38 — Above Him
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This is the chapter where Randi’s intimacy turns fully radioactive for me: best friend, seducer, confessor, possible beloved, all under brunch lighting. I want the next chapter immediately because Vee is now carrying proof on her own mouth and still telling herself she doesn’t know what it means.
+WHY: The chapter didn’t need a big event because the drawer was the event. It made me ache for her and trust him and distrust the whole situation harder at the same time, which is exactly the vise this book has me in.

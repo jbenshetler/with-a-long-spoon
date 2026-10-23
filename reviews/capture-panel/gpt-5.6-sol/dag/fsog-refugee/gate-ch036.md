@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d4837de434ed · 2026-10-01*
+*capture-dag-v2-rich · gate ch036 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 51b3205f6eee · 2026-10-01*
 
-REACTION — Oh, this is what I wanted. Just the two of them in his house, the dishes and the wine and his back under his shirt—and then Vee deciding, entirely for herself, that she wants to show him. Not because Randi arranged the entrance, not because Pace requested a performance. She invents the game, puts him in the chair, tells him to wait, and makes him obey. I loved every second of that reversal. His control makes room for hers without becoming less powerful.
+REACTION — Oh, Randi knows. She knows exactly what she is doing, and I am done granting her the possibility that she merely understands Vee unusually well. “Do what you need to” was permission shaped like innocence; “Sticky fingers?” was a knife slipped in under plausible deniability. She can always point to the pastry. She can always make Vee feel foolish for believing she was seen. That is what frightens me about her now: she creates the heat, watches Vee flee under the force of it, and then leaves Vee unable even to name what happened without sounding as though she imagined the whole thing.
 
-And the restraint nearly killed me. His hand starting toward her and then being put away. Him staying exactly where she placed him while she walks naked down that hall. He wants her unmistakably, but wanting does not become entitlement. He lets looking be the touch because looking is what she has offered. That is the intensity I came here for: not less consuming because he waits, but more.
+And still—I felt all of it. God, I felt it. Vee telling the spanking in that bright room, getting aroused by her own words, admitting how thoroughly Pace checked and how completely her body answered him: that was scorching because it was hers. Pace stopped at “don’t,” waited for the new yes, asked again before continuing, and made the dominance tender. Even retold through Randi’s hungry attention, what happened with him feels safe and particular. He did not reproduce Randi’s story; he found Vee’s version with her. The rubbing, the kisses, the juice, the care afterward—that is exactly the combination I came for.
 
-The dress walk felt triumphant, but the second entrance felt intimate in a way the induction never could. She isn’t merely enduring being seen now. She is constructing the sight, carrying it to him, standing inside his attention, and refusing to cover herself. Her desire is doing the directing. Even the blush belongs to her; it doesn’t send her running.
+But then Randi tells her story with surgical precision and Vee’s desire changes direction right there at the table. Vee is not simply excited by sex. She is excited by Randi: her voice, her eyes, the picture of her with her dress up and her knees open. When Vee’s own hand begins to enter her, it is Randi’s fond face that appears. That is the recognition I have been waiting for, except Vee cannot bear it yet. Watching her stop one inch from release because being looked at by Randi made the desire too real nearly hurt. Her body is not ahead of her permission; it is ahead of the language she has been allowed to have for herself.
 
-“The other is for the world. This is just for me” absolutely got me. Yes, it is possessive, and yes, I wanted it—because he says it after she has chosen what is his to see. He doesn’t claim what she gave the room. He recognizes the private gift as private. I would text a friend at one in the morning: *He stayed in the chair. She told him to wait, walked in wearing only heels, and he stayed in the chair.*
+And then “you’re my best friend in the whole world” absolutely wrecked me in the wrong way. Vee received it as being chosen for the closest place there is. Randi knows “chosen” is Vee’s deepest hunger, and she said it immediately after frightening her into silence. Maybe Randi meant it—honestly, I think she did. That almost makes it worse. Her affection and her manipulation are so fused now that I don’t know whether she can separate them herself.
 
-Randi is still present at the edges through those shoes, and the buried deception has not become less dangerous. But this moment between Vee and Pace is theirs. I believe that completely. And after so much arranging done around Vee, watching her arrange him was delicious.
+The kiss tasted of the pastry Vee never touched. That is unbearably sensual, and I hate how much I loved it. Randi took one bite, kissed Vee, and left the sweetness on her mouth without ever asking whether Vee wanted any of it. It is the whole relationship in miniature: Randi tastes first, transfers the appetite, and leaves Vee standing there believing the hunger appeared inside her alone.
 
-GATE 36 — Made-Up
+I would text a friend at one in the morning: “Vee finally masturbated thinking about Randi and Randi is STILL making every advance deniable. I am feral and furious.”
+
+GATE 37 — One Bite
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: Vee authored every part of this encounter, and Pace’s visible desire was matched by equally visible restraint. I am already turning the page because she is standing naked in his light, he has just named the difference between public display and private offering, and neither of them has moved yet.
+ALMOST-STOPPED: “Do what you need to.”
+WHY: Randi’s deliberate arousal and plausible deniability are pressing directly on the consent wound that could make me leave, but Vee’s desire for her is finally unmistakable and wholly Vee’s. I need the next chapter now because this cannot remain hidden inside habitual kisses and double meanings.

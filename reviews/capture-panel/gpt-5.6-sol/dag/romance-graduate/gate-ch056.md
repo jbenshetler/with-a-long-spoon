@@ -1,26 +1,26 @@
-*capture-dag-v2-rich · gate ch056 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha cf3b0e619e49 · 2026-10-11*
+*capture-dag-v2-rich · gate ch056 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha bb2635a8b1b0 · 2026-10-11*
 
-REACTION — Oh, Vee. She is so happy, and I am so turned on, and the whole time I can see the trapdoor under the bed.
+REACTION
 
-The pleasure-princess realization absolutely got me. Not because I buy the ownership fantasy literally, but because she is finally playing with power instead of merely proving she can endure exposure. She wants him, knows he wants her, and enjoys making that knowledge inconvenience him. Burning the toast was delightful. Ordering him to undress, placing herself on the cashmere, pointing to where she wanted his mouth—this is a different confidence from walking naked onstage or opening the coat. Those were brave because she was frightened. This was playful because she felt safe. Watching her discover that she can direct all that formidable attention was scorching.
+Oh, this got me, and then it made me furious for getting me.
 
-And the sex earned its length for me. Her command slowly deteriorating into a plea, Pace recognizing the difference, the deliberate circuit of her body, the shameless noise of his enjoyment—I could feel why this specific act has become a psychological threshold for her. The kiss afterward was even better, because her body said yes before the inherited disgust could arrive. I loved that the book let her recoil. Not coyly, not as a fake obstacle, but with that awful childhood reflex snapping shut over an adult appetite that had already reached forward. And Pace handled it beautifully: stopped, checked which no she meant, wiped his mouth, continued without punishment, and left her mouth entirely to her afterward. That is the emotional intelligence I keep demanding from him. He can read a boundary down to the millimeter when it is bodily and immediate.
+Pace remembering Meg’s boots and Kayla’s whole personality from scraps Vee tossed over her shoulder months ago is exactly the kind of intimacy I’m starving for. Not grand gestures—the fact that her ordinary life has been entering him the whole time. And “Tables have ends. Somebody ends up at one” did something helplessly warm to me. He isn’t merely tolerating her friends because they matter to her; he’s already thinking about how to build a room where none of them has to feel misplaced. That is love. I don’t care that he still can’t say it. That is love.
 
-Which makes me furious all over again that he still has not answered the actual relationship question.
+And Vee quietly handing him the choice of venue because she finally understands what happened at Chili’s? Gorgeous. No apology performance, no making him explain his nervous system again, just: I see what the room did to you, and I trust you to choose a room where you can be with me. That felt deeply adult and mutual. They are so good at caring for each other in every language except the one that could expose the truth.
 
-Last chapter’s sex did not resolve their rupture, and this chapter is Vee enthusiastically rewriting the rupture as resolved because she is back inside the warm house being exquisitely cared for. “Tonight there was no room in her for wanting anything he hadn’t given” has become an entire weekend with no room made. She asked what she was to him. He still has not said. He apologized for hurting her and said he missed her, and now they are behaving as though her body was the peace offering required to end a war she started. Randi successfully taught her to translate her own legitimate demand into an unfair ambush. That sits horribly beneath all this pleasure.
+Because, sir. “I want to meet your people” is not the same thing as letting her meet yours. Vee is glowing over the prospect of bringing her separate worlds together while Pace is calmly helping arrange a room containing the woman he already sleeps with. He knows Randi. He knows her body, her secrets, her blanket preferences. He and Randi chose Vee together. And he is letting Vee believe she invented the introduction.
 
-And the blanket. Jesus Christ, the blanket. Vee carefully spreads Randi’s cashmere across the bed, stages herself on it, soaks it, then pulls it tenderly over herself and decides it is a gift Pace silently bought for her. I wanted to crawl out of my skin. I remember exactly whose blanket that is and why it lives at the foot of his bed. Vee is literally wrapping herself in evidence of the relationship being hidden from her and reading it as proof of Pace’s devotion. That is the whole book in one object, and it hurts.
+That poisoned every lovely beat without canceling any of them. Even adding Cassie feels loaded: is he genuinely reaching toward Vee’s whole life, or does some part of him want the gathering broad enough to hide the charge between the three of them? Probably both, which is worse and more interesting. And poor Vee thinking “her worlds” will finally meet when two of the worlds have been privately joined behind her back for months. I am already tense about Randi walking into whatever perfect space Pace chooses and performing a first meeting they both know is false.
 
-Then she thinks she’ll tell Randi everything. Of course she will. Randi supplied the shoes and the strategy, Pace supplied the house, and Vee still believes she authored a private reconciliation between herself and her man. Now she is going to carry the intimate report straight back to Pace’s other lover, trusting Randi to interpret the one sexual feeling Vee cannot interpret herself. “Randi always did” landed like a threat.
+Also, Vee is perceptive as hell. She remembered the fork. She understood the restaurant problem without making Pace’s overwhelm about herself this time. The book had better keep honoring that intelligence when the deception breaks. She may not know the fact, but she is not a fool.
 
-I would text a friend: *This girl just had three orgasms on the other girlfriend’s cashmere blanket and thinks it was bought for her. I am unwell.*
+I want the gathering immediately. I also want to grab Pace by the shoulders before he sends a single invitation and say: this is your last clean exit. Tell her now. If Vee discovers the truth in a room full of her friends—especially if Cassie sees it before she does—I may actually combust.
 
-GATE 56 — Missed a Spot
+GATE 57 — Back
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 10
-HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: “The blood oranges he did the way he did everything.”
-WHY: The food threatened to become another long demonstration of a point I already understand, but the erotic power play immediately pulled me back. I need the Tuesday conversation now, because Vee is about to hand Randi both the triumphant coat story and her newest private threshold while lying under Randi’s blanket, and this concealment cannot keep getting hotter without detonating.
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The quiet domestic intimacy worked completely: he has kept the small details of her life, and she has learned how to protect him from a room that overwhelms him. But the proposed gathering is a live wire, because Vee thinks she is introducing Pace and Randi while they will be staging a lie in front of everyone she trusts.

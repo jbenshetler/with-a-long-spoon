@@ -1,30 +1,22 @@
-*capture-dag-v2-rich · gate ch023 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 96625992569d · 2026-10-10*
+*capture-dag-v2-rich · gate ch023 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8d06f617de36 · 2026-10-10*
 
 **REACTION**
 
-Oh, Randi. Oh, *honey*.
+I'm grinning like an idiot. I didn't expect to *laugh* during a sex scene in this book, and I laughed out loud. "There's a lot of you covered in a lot of me," and him twitching at it, and her saying it again slower just to watch it happen again. Then the leg sliding off his hip so he has to catch it, "which helped nothing." I've read a lot of this genre, and the intense books almost never let the two of them be funny together, mid-act, half-tangled in a dress they're both terrified of ruining. Here it's happening between two specific people. You couldn't swap anyone else into that hallway.
 
-I started this chapter braced. Pace's kitchen, Randi coming up the gravel the morning after Vee's brunch, and I'd been dreading this exact scene for chapters: she says *tell me* and he hands over the green panties and the riser and the sheet. Then she said "She told me about Friday," and he "did not ask what Vee had said. That was Vee's." I put the book face down on my chest. That's the line I needed. He didn't spend her this time. He's never going to know about the frosted plum or the bought-new underwear. The only thing that came up in his face was gladness, and Randi had to sit and watch him be glad. I believe that's the cruelest thing that's happened to her in the book, and he has no idea he did it.
+What got me most is that every move was hers. She strips off the underwear because the pale edge was spoiling the line. The book stays inside her while she does it, with the shame flaring and turning into want "almost before it was shame at all." She strides into the den with the slit swinging. She's the one who opens his belt and takes him in. That's exactly the heroine I came here for, whose desire is hers and rendered from the inside. The feet on his chest was the moment I'd frame. She holds him off at the length of her own legs, "he could have come through it without trying and he did not; he stopped where she put him." That one line is the whole reason I left the mafia books and the whole reason I'm still here. Then he makes her wait, and she knows it's costing him, and he spends it anyway. Tenderness and dominance in the same man, with no contradiction. The fingers in his mouth went straight through me too.
 
-Then "*How long are you going to take?*" There it is, out loud on the page: "from where she is to us." The game from the jacket isn't a vibe anymore. It's a schedule, with two people arguing over whose it is. This is the part I have to hold honestly. Pace's answer, "She chooses it, Randi. Every step of it. Or it isn't anything," is the answer I came to this genre hoping a man would give. I believe he means it. I also notice he said it inside a plan Vee has never heard of, about a destination nobody's asked her about. "She chooses every step" only means something if she can see the staircase. So he gets my respect and an asterisk, again. The book seems to know it, too: "He heard how it had come out. He did not take it back, because it was true, and because he did not know how."
+And the dress. He hid the trouble so she'd only see the part that looked effortless. I cried a little with her. He lined it only where "the dress had decided not to give away," and I keep turning that over.
 
-But Randi is the one who wrecked me. The line drawn across the top of the sauce and then the spoon put down. Pace's "It's wonderful" read as the alarm it was. Pouring her own glass, when he's poured every glass she's ever drunk in that house. The bare nails, after a whole chapter of Vee's frosted plum. Eating every leaf of salad and never touching the bowl. "Selfish," because he has Vee Friday to Sunday and she gets brunch and a borrowed kiss at the curb. And the "old boyfriend in a hurry" story she told Vee? Friday night she was alone. She made up a sad date to cover a real one, and the real one was being home by herself while the girl she wants was in his bed. The liquid eyes, the drawn-out vowels on one mimosa: that wasn't drink. That was her coming apart while saying "you're lucky."
+Now the part that sits wrong, and it isn't the chapter's fault. I just came from the Ch23 kitchen. Randi said "It's selfish, Pace," poured her own glass, and rode him with her eyes shut, and the covered bowl went in the fridge. So when Vee lies there guessing he was up all night finishing the dress, I know what kind of night he'd had before that. He still hasn't told her anything. Then the induction daydream ends on "It just felt like what she was for." The blurb's "appetite that can only give her the best of herself by taking it" rang in my head, and I felt a chill. "Getting away with something" as the last line is the book winking at *me*, not at her. That's the right kind of wink. Meanwhile I know she's going to need shoes she doesn't own, and I'd bet my rent Randi is the one who takes her to buy them.
 
-The sex was meant to land cold, and it did. No inch-and-stop, no *tell me*, eyes shut, back to him in the cashmere. It wasn't hot, it was grief, and the book didn't pretend otherwise. I'm grateful it didn't ask me to find that sexy.
+The thing I'm still guarding is this afternoon. It's hers now: the slit, the laughing, the feet. If Randi gets a "tell me" about it, it'll hurt twice as much because it was this sweet. Text to a friend at 1 a.m.: "they LAUGHED during it. and she stopped him with her FEET and he STOPPED. i'm unwell."
 
-And Pace walking back through the evening "from the gravel forward" looking for what he did wrong. He's looking in the wrong place. He thinks it's sex, "the want, with an edge on it." It's that she's losing, and maybe it's that she wanted Vee for herself the whole time. Then he puts a plate over her bowl and sets it in the fridge for her. I could have cried. He's so careful, and so blind about her.
-
-What I'd text at 1 a.m.: *he didn't ask. HE DIDN'T ASK. but they literally have a timeline for her and randi is starving herself in his kitchen and I'm scared for all three of them.*
-
-My biggest dread got answered in the best way, and a new one replaced it. Randi isn't going to wait for "as long as she needs." Something's going to break, and it's going to be Vee standing where it breaks.
-
----
-
-GATE 23 — Portion
+GATE 24 — Peekaboo
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "How do I get her from where she is to us, on your schedule?" For a second the whole book tilted toward two people managing a girl. Then "She chooses it… Or it isn't anything" pulled it back, just barely.
-WHY: He kept Vee's night as Vee's. That was the thing I'd have walked over, and he chose right without being asked. Now the plan is out loud, Randi is cracking, and I can't put this down until I know who breaks first and whether it's Vee who pays for it.
+CAPTURE: 9
+NEXT: 8
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: none. The nearest I came was a small chill at "It just felt like what she was for," and it pulled me forward rather than away.
+WHY: This was the consent-rich heat I've been hunting for years, she drove all of it, and the laughter made it theirs alone. My next is a hair under my capture only because I'm braced for Randi to come asking what happened this afternoon, and I want to see whether the book protects it.

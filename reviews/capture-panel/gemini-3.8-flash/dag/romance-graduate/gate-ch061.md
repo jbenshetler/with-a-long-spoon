@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 9feb48dd23cb · 2026-10-11*
+*capture-dag-v2-rich · gate ch061 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 7514bd75e597 · 2026-10-11*
 
 REACTION
 
-I feel like I just watched someone casually drink a glass of sweet tea laced with arsenic while smiling because the ice cubes clinked so prettily.
+Holy shit. The psychological warfare happening across this tiny restaurant table is so dense and electric I could barely take a breath. Helen Rivers is writing circles around everyone else in this genre right now.
 
-The *audacity* of Pace. The absolute, terrifying, mathematical brilliance of this man. I knew he was going to dilute the room to protect himself from the Randi collision, but watching him systematically disarm every single one of Vee’s friends was like watching an operative work a room. Danny and his bench press, Theo and his jazz, Kayla and her sister’s wedding dress, Cassie and the Bricklayers—he didn't just play nice, he gave them back the best versions of themselves, leaned back out of the lamplight, and let them fall in love with him. Even Cassie! *“You can stay.”* When Cassie gave him the nod, I put my hand over my mouth. He neutralized the watchdog.
+First of all, the baboon grooming lecture? *Brilliant.* The comb being passed through the room like a physical relic while Dr. Marsh talks about grooming as the foundational currency of intimacy and politics—and then watching Vee and Randi spend the entire rest of the night grooming each other with words, touches, candy, and graphic debriefs. Vee literally handing over every ounce of her sexual life to Randi like a little ape offering its fur to be picked clean, completely unaware that Randi is using every single detail to map the politics of their entire dynamic.
 
-And then the weapon he brought out for Vee: *“Vee’s boyfriend.”* Said flatly, six times, like a credential he was flashing at the door. After an entire volume of withholding the word, of making her beg and bleed for a label, he just tosses it onto the butcher paper like loose change because he knows it will completely blind her. It’s a masterclass in emotional misdirection. Vee is so drunk on having won the title, so dizzy with relief that her two worlds are touching without catching fire, that she literally cannot see the flames licking the pine walls.
+And that conversation. My God, the conversation.
 
-And Randi. Jesus Christ, Randi. Sitting there first, facing the door in her heels, her hand gripping Vee’s so hard she could feel the bones, raising a glass to her “beautiful best friend” and then sinking into that glazed, hand-in-her-lap quiet. That quiet wasn't admiration, Vee, you idiot! Randi was in agony! Randi is watching the man she secretly shares, the man she literally sent Vee to with bare legs and stilettos, claim the boyfriend title out loud while Brooke’s ultimatum is hanging over her neck back at the sorority house. When Randi said *“meeting Vee was the highlight of my year,”* that wasn't a sweet brunch toast; that was a woman bleeding out in public.
+Vee came in with this polished, scripted little stand-up routine: *“I told him ‘Ugh — gross!’ Hand over the mouth! Victorian! Hilarious, right Randi? Validate my neat little box!”* And Randi just refused to play along. That flat, unblinking: *“I don’t.”* And then: *“It was powerful. It turned me on.”*
 
-Then Vee kisses Randi on the mouth right in front of the truck—months of habit, “nothing a parking lot couldn't hold”—and Pace just watches the sky like he's checking the weather. He knows. He knows Randi wants her. Randi knows he knows. *“They share an interest.” “Who does?” “Randi. Your friends. All of them. You.”* It’s sick. It is so psychologically twisted, and the fact that Vee takes that line as pure romantic devotion while she’s wriggling out of her jeans at 55 miles an hour made my stomach drop and my pulse spike at the exact same time.
+The absolute collapse of Vee’s performative modesty in that split second made my stomach drop. Randi didn't mock her; she didn't join in the giggle fest; she just laid down the adult reality that women tasting themselves, women desiring each other, that total lack of shame—it’s powerful. And suddenly Vee is sitting there with a mouthful of ashes and a burning cunt, realizing her boyfriend *likes* it, her best friend *likes* it, her own body secretly thrilled to it, and the only person pretending it's "gross" is her own terrified ego.
 
-The heat in the truck was filthy and desperate and gorgeous. Vee blowing him in the cab until his hands went completely dead and weightless in her hair, and then hiking her hips up, peeling her wet lace aside, and coming apart while he drives with one wrist on the wheel? It delivered. It delivered completely. But what makes it hit so heavy is the dread running right under the skin of the orgasm. She thinks she’s riding home “claimed and easy.” She has no idea she just gave them both complete permission to keep playing her.
+Then that neck kiss on the sidewalk. Randi’s body catching, rising, holding a beat too long, and having to cover it with a breathless *“Ticklish.”* Randi is going to combust. You can practically hear the iron clad plates of her Southern sorority mask warping under the heat of being touched by this girl. And Vee, the absolute oblivious menace, walking home with her coat pulled tight, completely haunted by her own admission: *He’s enthusiastic. I don’t.*
 
-GATE 61 — Among Friends
+Vee thinks she’s walking away clean with an empty plate, but she just swallowed the bait whole.
+
+***
+
+GATE 62 — A Clean Plate
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The absolute psychological tightrope walk of this dinner—Pace charming every friend in the room with weaponized listening, Randi slowly suffocating behind her smile, and Vee so drunk on being called "girlfriend" that she doesn't see the trap closing around her. The sheer erotic charge of the truck ride balanced against the sheer dread of what's coming is unmatched.
+WHY: The subtext in this dialogue is lethal. Randi dismantling Vee's shame-based joke with a four-word reality check (*"I don't... It turned me on"*) was hotter and more psychologically devastating than ten pages of generic smut. I need Tuesday right now.

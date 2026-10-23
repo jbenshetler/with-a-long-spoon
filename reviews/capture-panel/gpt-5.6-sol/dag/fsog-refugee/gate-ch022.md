@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8429b6ba440f · 2026-10-01*
+*capture-dag-v2-rich · gate ch022 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6a8d1d1bf63a · 2026-10-01*
 
-REACTION — Oh, Randi. You are giving her exactly the words she needs and lying to her inside every one of them.
+REACTION
 
-I loved Vee saying, “I wanted it. And I took it. For once.” I loved it enough that I actually had to stop for a second. That is the truth of her night with Pace. She chose the polish, bought the underwear, got in the car already hoping, opened every door, and asked for what happened. Randi is right to turn the story back toward Vee’s agency instead of letting her describe herself as someone Pace simply acted upon. That word—*Good*—lands exactly where Vee needs it. It feeds her.
+Oh, Randi. She is starving right in front of him, and he puts her portion in the little bowl.
 
-But Randi knows about the dress. She knows why Vee chose that plum. She knows which man Vee is “gone” on because Randi helped put him in her path. So “You’re not caught, sweetheart. You’re lucky” made my stomach turn. Vee is lucky in what she has genuinely found with Pace, but she is also quite literally caught inside a design she cannot see. Randi comforting her fear with the exact opposite of the hidden truth is almost unbearably cruel, however sincerely loving she feels while she does it.
+That hurt almost immediately. Not because Pace cooked for her—of course he cooked, of course he remembered the music and poured the wine and made bread—but because every loving thing in that room already belonged to a pattern she can feel herself being displaced from. Her bowl is the small one. Vee gets the weekends. Vee gets his patience stretched luxuriously across however long she needs. Randi gets fed the portion he has decided fits her, and then she cannot make herself swallow it. The salad was awful in exactly the right way: she will eat the light, controlled thing and leave the warm, rich thing untouched while accusing him of selfishness because she cannot say, *I am terrified you have all the time in the world for her and none left for me.*
 
-And that sad-old-boyfriend story is Pace again, isn’t it? Another disguise, another version of her real life made disposable so Vee will tell her everything. Perhaps the disappointing hurried sex itself is invented, but either way she is sitting there pretending sexual deprivation and asking to be fed details about the man she shares. “I’m running on fumes” is horribly honest in a way Vee cannot possibly understand. Randi is hungry, and Vee keeps feeding her because she thinks she has found the one woman safe enough to receive the whole of her desire.
+And then Pace says the sentence I most need him to believe: “She chooses it, Randi. Every step of it. Or it isn’t anything.” Yes. Yes, absolutely. That is why I love him. It is also infuriating, because Vee has not been allowed to choose the plan. He is fiercely protecting her freedom inside a destination he and Randi selected for her before she knew there was a road. He means what he says, and the contradiction is now so sharp I can barely stand it. Randi is wrong to demand that he hurry Vee toward “us,” but she is not wrong that his patience is easier for him than it is for her. He already has both women coming to his house. He gets to feel principled while Randi waits outside the tenderness he is building.
 
-The worst part is that I understand why Vee tells Randi what she withholds from Cassie. Cassie is safe, but Randi gives her language. She doesn’t merely tolerate Vee’s appetite; she finds intention inside it and hands it back without shame. That is an intoxicating kind of friendship when you have spent your life believing your wanting makes you lesser. I can feel Vee being drawn away from the person who loves her plainly and toward the person who knows exactly how to make being seen feel like revelation. And then the second mimosa goes unpriced. That tiny detail frightened me. Vee is not only relaxing around Randi; she is beginning to inhabit Randi’s world by ceasing to count what it costs her.
+The sex upset me. Not because Randi took charge—I would ordinarily be wildly into her putting him on the bed and taking what she wanted—but because she removed every familiar point of contact between them. No pause. No eyes. No “tell me.” Pace realizes it is not for him and “gives it to her anyway,” which is consent of a kind, but it does not feel intimate or even deliciously ruthless. It feels like she used both their bodies to say something she still refuses to put into words. I felt his bewilderment, but I was also angry at him for arranging all the evidence and naming it merely want with an edge. This man can detect the instant Vee closes her eyes in shame, yet Randi closes hers through the whole act, turns her back afterward, and he still cannot find jealousy, fear, or grief.
 
-The kiss got me, though. This time Vee expected it and met it. She did not scan the street afterward. That is a real turn in her desire, even if she still refuses to name it. I wanted that softness between them desperately, and I resent Randi for making it impossible to enjoy cleanly. Ask her. Please, just once, ask this girl for what you want instead of arranging the moment so beautifully that she never notices you have not asked.
+The bowl in the refrigerator nearly finished me. He is so tender and so completely missing her. He saves the food because that is how he knows to care, while the thing she needs saved is her place with him. And she is behaving terribly—pressuring him to move Vee faster, treating Vee’s readiness like an inconvenience, taking her jealousy out through sex instead of telling the truth—but I cannot stop aching for her. She wants “us,” but what she means tonight is *prove there will still be a me when you have her.*
 
-If I were texting a friend at one in the morning: *Randi is teaching Vee that her wanting belongs to her while secretly building a world designed to harvest it, and somehow she also genuinely loves her. I am furious and completely trapped.*
+I would text a friend: Randi refused the stew, rage-rode him without once asking for details about Vee, and he refrigerated her untouched little bowl because he still thinks she is hungry for food. I am unwell.
 
-GATE 22 — Fed
+GATE 23 — Portion
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 2
+HEAT: 1
 ROMANCE: 3
-ALMOST-STOPPED: “You’re not caught, sweetheart. You’re lucky.”
-WHY: That line is tender enough to heal Vee and false enough to terrify me. The kiss finally became something Vee knowingly met, but Randi’s love, hunger, and manipulation are now so tightly braided that I need the truth to break into the room.
+ALMOST-STOPPED: “He knew that much and not the rest, and he gave it to her anyway.”
+WHY: The sex had almost no erotic pleasure for me because it was severance disguised as intensity, but the emotional pain was ferocious. I need someone—preferably Randi—to finally say what she is actually afraid of before Pace’s beautiful patience becomes another way of not seeing her.

@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch058 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 213059ecdcb4 · 2026-10-11*
+*capture-dag-v2-rich · gate ch058 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · 2026-10-11*
 
 REACTION
 
-Oh, Vee. That was not “we talked.” That was not remotely “we talked.” She arrived naked under a coat, they fucked before they shut the front door, Pace apologized afterward, and the question that broke them remained unanswered. Watching her manufacture a ruined sweater and accidental T-shirt because she cannot tell Cassie the truth made my stomach drop. It is funny—the doll sweater, Cassie’s rare full laugh, Vee helplessly joining her—and that makes it worse. Vee is becoming fluent in the same kind of edited truth that Pace and Randi use on her: every detail plausible, the emotional conclusion presented as settled, the dangerous part removed.
+Oh, Vee. “We talked all night” is not what happened. You opened your coat, he went down on you, you had frantic reunion sex, he made pancakes, and then he apologized for hurting you without answering the question you left over. I understand why she experiences that as the whole fight coming down—his face told her he had missed her, his voice cracked, and she finally felt chosen again—but she is already telling the edited version to her friends and apparently to herself. Worse, Meg’s “sometimes you have to make it right in their language” turns the naked doorstep into Vee’s apology. Pace was the one who withheld the truth. Somehow Vee has come out of the rupture believing she needed to repair what she did to him.
 
-Cassie knows. Maybe not the doorstep specifics, but she absolutely clocked the story. “Pace. Shrank your sweater.” That held breath was her giving Vee one clean chance to correct the record, and Vee chose the laugh. Cassie does not pry; we already know that. Her safety depends on letting Vee decide what to hand her. So Vee can lie successfully precisely because Cassie is kind enough not to expose her. I hate that for both of them.
+And yet I was happy here. Genuinely happy. I loved her rescuing the failed waffle morning, warning them about the price, spending Christmas money without shrinking, sitting in sunlight with girls who are uncomplicatedly hers. This is exactly the ordinary life I wanted her to have outside Pace’s house. She isn’t merely being fed now; she knows a place and brings her people to it. She gets to be the one who opens the morning up.
 
-And still, I understand why Vee is glowing. The ordinary room felt good because Pace’s house no longer has to contain her entire self. She can come back to the weak shower, the dust-smelling radiator, Cassie’s terrible family cookies, and be happy there. That is healthier than the gray weekdays and the flannel failing in the cold. The hand meeting cinderblock instead of Pace did not become catastrophe. Friday will come. That mattered to me.
+Then: Wednesday. Oh my God, Wednesday.
 
-The line about Cassie’s mother thanking her for the card nearly undid me. Such a small, clean offer of belonging, with no performance required and no hidden arrangement underneath it. Cassie heard the size of Vee’s reaction and released her before she had to explain. That is care. Actual care. It made the invented laundry story beside it ache even more.
+Pace wanting to meet her people is enormous. It is the first real answer he has offered to “what are we out there?” He is not keeping her behind his door; he is arranging a public room around her life, remembering Meg’s boots and Kayla’s chatter and making space for every person she loves. That did get me. “He’s handling it” made me feel her pleasure in being publicly claimed and cared for.
 
-This was a soft landing after two very hot chapters, and I needed it, but I am not soothed about the relationship. Vee says “hers again” because her body feels safe and wanted again. Pace still has not said what he is to her. They did not pull down the tent by talking; they crawled back inside it through sex, food, apology, and relief. Gorgeous tent. Same missing pole.
+But she has invited Randi into a dinner Pace proposed while she believes they barely know each other. Cassie will be there watching. Randi and Pace will have to perform strangers—or reveal themselves—and Vee will be glowing in the middle, thinking she finally brought her separate worlds together when two of those worlds have been secretly joined all along. I am already sick over it.
 
-GATE 58 — Unpacking
+Also, the check splitting three ways mattered to me. Nobody owing anybody, nobody staging generosity as power, just friends deciding the tip together. Vee had “the middle of it all,” and for once that middle felt healthy. Which is precisely why I’m terrified of what Wednesday is going to do to it.
+
+GATE 59 — Across
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 8
+NEXT: 10
 HEAT: 1
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The quiet domestic happiness worked, especially Vee discovering she can return to her ordinary life without losing the glow of Pace’s house. But her lie to Cassie—and the ease with which reconciliation has already become “we talked”—has me urgently waiting for the unanswered question to come back.
+WHY: The breakfast itself was warm and easy, but the dinner invitation loaded every concealed relationship into one room. Pace’s move toward Vee’s public life is the romantic answer I wanted—and because Randi is included under a false premise, I need the next chapter immediately.

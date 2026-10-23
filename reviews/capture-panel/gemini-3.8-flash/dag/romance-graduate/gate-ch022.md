@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch022 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 8429b6ba440f · 2026-10-01*
+*capture-dag-v2-rich · gate ch022 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a8d1d1bf63a · 2026-10-01*
 
 REACTION
 
-I feel sick. Genuinely, beautifully sick to my stomach.
+Holy shit. The hairline fractures just became the San Andreas fault.
 
-The psychological violence of this brunch! Randi sitting there in the sun porch, working Vee like a bespoke instrument. The way she fed Vee that little throwaway story about her own “sad” weekend with an ex just to grease the wheels, just to lower the stakes so Vee would lay her whole heart out on that white tablecloth—it is diabolical. And the worst part? Randi *meant* it when she looked at Vee. When Randi covered her hand and told her, *“You’re not caught, sweetheart. You’re lucky,”* my jaw dropped. The double meaning of that sentence nearly took my head off. Vee feels a momentary flash of sheer panic at how much power she’s handed over, and Randi instantly swoops in, re-frames it as romance and liberation, and pets her back into compliance. Randi is tucking the napkin under Vee’s chin while she prepares to eat her alive.
+Look at the contrast between these women and how they take what Pace gives them. Vee wrapped herself in his sheet like an absolute queen, padded bare-toed into his kitchen at midnight, and drank in the smell of blooming garlic and his undivided attention. Randi walks in, says "You shouldn't have," draws *one single line* through the sauce with her spoon, leaves the bread, and eats only the salad. She refuses to be fed by him. Because being fed by Pace means being in Vee's position—it means being soft, being yielded, being taken care of. And Randi is starving, but her jaw is wired shut with pride and panic.
 
-And Vee is just… starving for it. That line about Randi being *“the friend she’d wanted at fifteen and stopped expecting to get. Who liked her, some days, better than she managed to like herself.”* God, Helen Rivers is merciless. She captures that specific, intoxicating intensity of having an older, cooler, glamorous woman zero in on you and validate your entire messy, shameful inner world. Vee thinks Randi is exorcising her mother’s voice (*“You didn’t buy those hoping he’d be a gentleman”*), making Vee’s brazenness seem chic and powerful instead of slutty. She has no idea Randi is essentially taking inventory of the meat.
+And the fight! "How long are you going to take?" / "As long as she needs. She's not ready." / "Or you're not." God, Randi sees right through his pious, patient craftsman routine, and she calls him out on it: *It's selfish, Pace.* And she's not wrong! Pace is hoarding Vee. He gets the whole weekend, the unhurried sheets, the adoration, the folded green satin panties tucked away somewhere private—and Randi gets a brunch where Vee raves about how patient and gentle *he* is. Randi is realizing that while she was playing puppet master, Pace went and fell completely under the girl's spell.
 
-Notice what Vee *didn’t* say, though. She didn't tell her about the green panties being left behind. She didn't tell her about the *Trade*. She hid the burgundy silk reference behind the frosted plum polish. The instincts are in Vee, tiny quiet alarms going off, but Randi’s warmth just drowns them out.
+Then she pours her own wine. That tiny beat hit like a gunshot. He has poured every single glass she has ever had in that house, and she just took the bottle by the neck and bypassed him entirely. The control is snapping.
 
-And then that goodbye kiss. The first time, in the fire lane, Vee panicked and looked at the windows. This time? *“Vee had half-expected it this time, and met it.”* She met the second press of Randi’s mouth! Randi is slowly, systematically moving the boundary lines, conditioning Vee to accept physical intimacy from her as normal, as affection, as desire, and Vee is driving home with the radio up thinking she’s the luckiest girl in the world.
+And then that fuck on the bed. God, it was brutal. Zero seduction, zero tease. No *tell me*. Usually she uses him to vicariously fuck Vee, demanding every crumb of sensory detail to get off. Tonight? Eyes squeezed shut, nails dug in, using his body like a blunt instrument just to feel *something* other than the agonizing burn of being on the outside looking in. She didn't want to hear about Vee because hearing about Vee right now would kill her. She fucked him like an eviction notice, rolled herself in cashmere, and turned her back.
 
-The web is so tight now. When the floor drops out from under this girl, the sheer height she’s going to fall from is terrifying.
+And Pace—terrifyingly observant, brilliant Pace—is standing in his dark kitchen covering a bowl of cold chicken stew with a plate, genuinely baffled. He is a genius with an MRI patent and tailor's chalk, but he is completely blind to the fact that the woman in his bed isn't just impatient for a threesome; she is hopelessly, desperately in love with the girl he's busy falling for. This whole triangle is rigged with dynamite and the fuse is burning down to the wood.
 
-GATE 22 — Fed
+GATE 23 — Portion
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
-HEAT: 1 (The kiss at the curb has so much sick, manipulative simmer underneath it)
-ROMANCE: 1 (Vee *thinks* she’s having a romance with Pace, and a profound friendship with Randi, but the dramatic irony is a knife)
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The tension is coiled so tight I can barely breathe; watching Randi groom Vee’s trust while Vee leans all the way into both traps is absolute psychological perfection.
+WHY: The psychological tension between Pace and Randi is extraordinary. Watching their grand, manipulative game completely warp under the weight of real jealousy, unspoken queer yearning, and possessiveness is endlessly gripping. I couldn't put this down if I tried.

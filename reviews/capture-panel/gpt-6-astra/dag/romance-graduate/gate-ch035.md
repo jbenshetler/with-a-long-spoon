@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch035 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha dc341b2a573e · 2026-10-10*
+*capture-dag-v2-rich · gate ch035 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha d4837de434ed · 2026-10-10*
 
 REACTION
 
-The terrible air guitar did more for me than another ten reminders that he builds furniture and has a doctorate. Yes. Please let this man be caught being embarrassing in his own kitchen. And Vee waving his shorts like a flag—I love her like this. Ridiculous and pleased with herself and discovering she can make him chase her. I was grinning.
+Oh, I like her putting him in that chair. Especially the hand going up when he starts to rise, and him actually sitting back down. She has an idea, she wants his attention, and she makes him wait for it. After all that trying to get her own desire past herself, this feels good. She knows what the second costume is before she leaves the room. Nobody has to catch her wanting it.
 
-Then she keeps poking him after he tells her to stop, and that spoiled the game a little. Vee, you saw it hurt. That isn’t the same as getting a rise out of him.
+And yes, the walk back naked got me. The distance, the heels, him still exactly where she left him. That little involuntary cock of her hip. I don’t need another full sex scene here; I want these few seconds of her finding out she can do this to him. Turning the lamp brighter was lovely, too. Such a small, eager thing.
 
-The hand leaving immediately when she says “Don’t,” though. That got me. Particularly because she then has to ask for it back. Her “We find out” is the bit I wanted: she knows enough about what’s coming to choose it, and she actually says so. And yes, the slow undressing, the shoes staying on, him making the bed ready while she waits—very hot. I haven’t become immune to any of that through sheer Kindle mileage. The quiet spanking, with her expecting Randi’s much more theatrical version, held me harder than the bet did.
+I did sigh when we explained the underwear problem again. I know. I was there for the fitting and the induction, and I promise I remember the slit. Let her get down the hall. But hanging the dress properly before coming back out—I loved that. She’s excited and nervous and still taking care of what he made her.
 
-But I don’t entirely like the bet. Being wet proves she’s aroused; it doesn’t settle precisely what she wants or make him right about every denial. His asking whether she wants to keep going matters enormously here. Without that, I would have been much less willing to follow him. I want her getting to enjoy this, and I want her words to keep counting while she learns how to say it.
+“This is just for me” put a little cold spot underneath the warmth. She’s offering him something that feels exclusive, and he gets to accept it while she still doesn’t know about Randi. I can enjoy him looking absolutely undone by her and still think: you have to tell this woman. She keeps getting braver with you. Every lovely evening makes that harder to sit with.
 
-“The chest that was hers … because no one else got to see it” landed like a slap in the middle of the heat. Oh, sweetheart. Somebody else was very recently enjoying that chest while discussing you. I can feel how treasured she feels afterward, and the juice and hair stroking reach me, but I cannot settle into her safety with her. He knows what she doesn’t. Every lovely domestic thing makes the eventual disclosure more expensive.
+This was a satisfying little stop inside their evening, though it ended almost before I’d settled in. I’m warm toward Vee, attracted to the scene, and less urgently reaching for the next page than I was reaching for her second entrance. I’ve had the lovely evening now. I want something to shift outside the bedroom.
 
-The scrunchies nearly finished me anyway. He remembered the Monday hair panic and quietly made room for her next visit. That is exactly the sort of small, specific care I want. And “My Victorian LARPing” made me laugh out loud. More of that woman, please—the one who can catch herself being absurd and decide to bring a bag.
-
-I did start getting impatient with how often I was told her body had answered before she could, how ready she was, what that readiness meant. I was already there. Then “Shame wants a witness” pulled me out of the bed altogether. Let me have the touch without stopping to explain the entire feeling.
-
-I’m satisfied by the heat and increasingly hungry for something this chapter still doesn’t give me. We’ve moved from her refusing to name the wanting to choosing more of it. That matters. But she’s making plans to stay, and he is still letting her make them inside a story he knows is incomplete.
-
-GATE 35 — We Find Out
+GATE 36 — Made-Up
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 7
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: “Shame wants a witness”
-WHY: I was thoroughly caught by their playfulness, the heat, and those scrunchies, but that sentence made me impatient with being told what I’d already felt. I’ll keep reading because Vee is getting braver; I need Pace’s honesty to start catching up with her courage.
+CAPTURE: 8
+NEXT: 6
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: Her choosing to be seen, and enjoying what it does to him, still gets me. But I’m ready for this growing confidence to meet the truth they’re keeping from her; another private triumph followed by another debrief would start wearing me down.

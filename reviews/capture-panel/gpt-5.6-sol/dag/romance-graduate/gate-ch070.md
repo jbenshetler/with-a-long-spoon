@@ -1,34 +1,26 @@
-*capture-dag-v2-rich · gate ch070 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha c9f460e100d7 · 2026-10-11*
+*capture-dag-v2-rich · gate ch070 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha d556fe46d58e · 2026-10-11*
 
-REACTION
+REACTION — Oh, this is vicious. Hot enough that I was completely inside it, and then sickening in exactly the place the heat was coming from.
 
-Oh, Randi. Oh, you absolute coward.
+Vee driving to Pace because she thinks enough heterosexual sex can force Randi back out of her body hurt immediately. “The plain male fact of him” as a wall against what she knows—God. And of course it doesn’t work. She gets Pace inside her, uses him hard enough to leave herself raw, comes twice, and Randi is still in her mouth. There is no returning this to “sex brain,” no matter how frantically Vee keeps reaching for *boyfriend* and *I’m not gay* as handrails. Tuesday is coming. I am already desperate for Tuesday.
 
-That kiss was everything I have been waiting for. Not because it was technically their first—they’ve been kissing for months—but because Vee finally stopped translating her own body into friendship. She wanted Randi. She knew she wanted Randi. She wanted her hands under the skirt and her mouth lower and the clothes gone. There is no little “girls being girls” cupboard left to put this in. The moment Vee tasted the specific *her* of Randi and moaned into her mouth, I was gone. Fully gone. This is the heat I wanted: not interchangeable choreography, but months of denial suddenly becoming physical fact.
+And yes, the telling was scorching. Pace making her replace every tidy phrase with the truer one, rewarding precision with inches, hearing every place she edits herself and withholding until she says *I wanted it*—that is exactly the sort of psychologically specific sex I came for. The heat changes meaning sentence by sentence. She isn’t merely recounting the kiss while they fuck; she is discovering what happened by hearing which truths make her body answer. “You finish when you’ve finished” nearly killed me.
 
-And then Randi handed the whole thing back to her as a performance.
+But I am furious with Pace. He knows. He already knows Randi wants her, already knows about the goodbye kisses, has already fucked Randi while they discussed Vee’s awakening—and now he sits underneath Vee’s terror pretending to be the safe, innocent boyfriend who has just learned something surprising. He turns information he secretly possesses into a confession she has to purchase with her own pleasure. It is extraordinarily hot. It is also an obscene advantage, and the book knows it.
 
-“I almost believed it” made me furious. Of course Randi believed it. Randi nearly lost her own composure. She arranged the pretext, held Vee a breath away, waited for Vee to move toward her, kissed her far beyond the limits of the joke, grabbed her ass, put her hand in her hair, and felt Vee ask with her hips. Then she used Harrison to give them both deniability and left Vee alone inside a body still expecting more. That is not protecting Vee. That is taking what Randi wants and refusing to be accountable for having wanted it.
+“Anything else you want to tell me? About Randi” made my stomach drop. He is not simply inviting honesty. He is testing how much she will disclose while withholding the fact that he and Randi have been exchanging reports about her for ages. Then Vee calls her answer the first lie she has ever told him, while she is lying in bed with a man whose entire relationship structure is a lie to her. That asymmetry is brutal.
 
-Worse, Vee literally cannot ask for more now, because Randi has already supplied the approved interpretation. If Vee says the kiss was real, she has to risk being the foolish one who misunderstood the bit. Randi has built herself an exit directly through Vee’s insecurity. I understand exactly why she does this—Brooke’s warning is hanging over the entire party, and “I chose” was plainly Randi announcing that she brought Vee anyway—but I am done letting fear turn into an ethical pardon. Randi knows what being managed feels like. She does it beautifully.
+And the little flicker when she says *you want Randi*—sir, do not. Do not gently redirect her toward her own desire as though you have no personal stake when Randi is already your lover. “You keep saying her name. Not me” is technically true and emotionally useful and so staggeringly dishonest in context that I wanted to bite him. Vee reads his tiny defense as the sweetest vulnerability he has ever shown her. He lets her. Of course he lets her.
 
-And Brooke. Vee thinks Brooke is kind because Brooke declined to publicly humiliate her with the story of her breakdown, when the actual exchange was a velvet-covered knife. “Randi’s new friend.” “I chose.” “I can see.” Those women were having the conversation Brooke started after seeing Vee kiss Randi at the house, and Vee was standing inside it thinking she had just been welcomed. That made my stomach drop. Randi did choose Vee over obedience in one sense, yes—but she did not choose honesty with Vee. She displayed the choice to Brooke while keeping its meaning from the person supposedly chosen.
+“She’d gotten away with it” is devastating because she is the only one in that bed who has not gotten away with anything. She has confessed almost everything after one night and is freezing over one private thought. Pace has been conducting the secret from the beginning. Her little thrill that he may have watched Randi kiss her is also going to matter; she wants to be seen wanting Randi, but only inside a structure safe enough to survive it. Pace could actually give her that structure. He simply refuses to give her the truth required to choose it.
 
-The skirt makes me suspicious too. Randi knew exactly where it was, insisted it was not too short, dressed Vee in it despite their very different bodies, then physically lifted Vee’s arms while it rode above her underwear. I don’t think every inch of that was a cold plan, but Randi knows clothes and bodies far too well for innocence. She wanted Vee exposed and exhilarated. She wanted to watch her discover she liked being watched. And when the shame hit, Randi soothed it by turning the exposure into another sanctioned performance for a man. Harrison was cover for everyone except Harrison.
+I am incandescent about this chapter and absolutely reading on. Vee’s body has stopped accepting the story she tells about herself. Now Tuesday is sitting there like a lit fuse.
 
-Vee saying she liked the skirt because it was Randi’s and therefore “the wanting wasn’t hers to answer for” hurt in exactly the right place. That is the entire trap. Pace asks, Randi advises, a borrowed object carries the desire, and Vee gets to experience herself as daring without yet owning that she wants. Except tonight she did own it, for one suspended moment. She leaned in. She opened. She pulled Randi deeper. Her body did not merely reveal something before her mind caught up; her mind was there too. She knew.
-
-Cassie knew before she left the dorm, obviously. That half-inch eyebrow at “Tonight I’m Randi’s date” was the only honest response anyone gave Vee all night.
-
-Also: the Love bracelet that requires tools to remove is so aggressively on-theme I nearly laughed. Commitment made into a beautiful object that cannot simply be slipped off, sitting on the wrist Vee keeps touching while neither woman will name what binds them. Of course Vee is charmed by it. Of course she does not yet know what she is looking at.
-
-I am wildly turned on, emotionally elated for Vee, and so angry on her behalf that I could bite through glass. This is exactly the combination that keeps me reading. The kiss was a genuine turn in the bond. Randi’s retreat does not undo it; it makes the next moment unavoidable. Vee cannot go back to believing she only wants Pace. But if Randi lets her wake tomorrow and call this a joke, I may personally climb into the book and shake her.
-
-GATE 70 — On Her Floor
+GATE 71 — Boyfriend
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The kiss finally forced Vee’s desire into full conscious knowledge, and it was scorching. Randi immediately hiding the truth inside “a show” made me furious, but it also left the emotional wire so live that there is no chance I’m putting this down now.
+WHY: This gave me the exact combination I want: ferocious erotic charge, real interior conflict, and tenderness contaminated by information only the reader understands. I need Tuesday immediately—and I need Vee’s eventual fury more than ever.

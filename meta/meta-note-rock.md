@@ -66,7 +66,7 @@ Rock now carries the **contained** half of the two-register first-love telling (
 15. Vee realizes this is how he attends to her in conversation and sex.
 16. Scar deferral: "This?" / "Not tonight." Boundary held gently, hand not removed.
 17. Vee says **Peter** softly near the end, with no question in it. He lets it sit; his hand closes around hers. Warm close, no unresolved cloud.
-18. Coda in his bed (added 2026-09-28, Book A close): he falls asleep first; she is wrapped around him and counts the semester — Randi, whom she stumbled into (the collision, from her side), then Pace nine days later crossing a coffee shop for an integral — as one piece of luck. Closes on *She had never been so fortunate, or so happy.* (deliberate echo of {{Toenails}}' last line). She does not call Randi her best friend here; that title arrives from Randi at {{One Bite}} and lands as news.
+18. Coda in his bed (added 2026-09-28, Book A close): he falls asleep first; she is wrapped around him and counts the semester — Randi, whom she stumbled into (the collision, from her side), then Pace nine days later crossing a coffee shop for an integral — as one piece of luck. Closes on *She had never been so fortunate, or so happy.* (deliberate echo of the last line of {{Fed}}'s Saturday movement). She does not call Randi her best friend here; that title arrives from Randi at {{One Bite}} and lands as news.
 
 ## The name permitted here — the riser this builds
 

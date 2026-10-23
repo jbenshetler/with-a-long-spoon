@@ -97,7 +97,7 @@ She is a **BBC-comedy devotee** (Red Dwarf, *The Hitchhiker's Guide to the Galax
 
 ## Sport
 
-**Soccer (fall), softball (spring), and basketball (winter); any rec team given the chance.** Her winter rec-basketball team is **the Bricklayers** (self-deprecating shooting pun; named in {{Among Friends}}, where Pace opens with it — a name he could only have had from Vee). Heavy intramural sport is what holds the boxy build off fat; the body is *for* this, not for being looked at. (The fall soccer season is what puts her in cleats at a mid-October game in `toenails.md`.)
+**Soccer (fall), softball (spring), and basketball (winter); any rec team given the chance.** Her winter rec-basketball team is **the Bricklayers** (self-deprecating shooting pun; named in {{Among Friends}}, where Pace opens with it — a name he could only have had from Vee). Heavy intramural sport is what holds the boxy build off fat; the body is *for* this, not for being looked at. (The fall soccer season is what puts her in cleats at a mid-October game in the Saturday movement of `fed.md`.)
 
 **The sport calendar is load-bearing:** the friend who would have kept Vee safe was at a game. (The structural cost of the configuration is partly enabled by Cassie's seasons — she is reliably *elsewhere, competing,* at the times it matters most.)
 

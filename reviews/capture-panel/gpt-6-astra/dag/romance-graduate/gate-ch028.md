@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch028 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 61c7a0ea34af · 2026-10-10*
+*capture-dag-v2-rich · gate ch028 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha e9e0311de50b · 2026-10-10*
 
 REACTION
 
-Oh, Vee. I went from enjoying her changing the shirt and changing it back to wanting to take her phone and call Cassie myself. The washed shirt smelling of “fabric softener and no one” hurt more than the whole bar confrontation. That is such a miserable thing to put on when you want someone back.
+Randi, you cannot tell this girl to postpone an apology so she can arrive properly accessorized and have me call that good advice. “He leaves you the room and waits to see what you walk in wearing”—oh, I hated that. Vee arrived knowing she’d hurt someone and wanting to repair it. Now she’s leaving with instructions for being irresistible. I want her to get to say sorry in her own clothes, with her own mouth.
 
-I liked the lesson. Especially “That’s not helpful”—thank you, let her say that to him. His hand at her shoulder blade, her finally finding the movement, the ridiculous battered boom box: there was charge there without anybody needing to get undressed. And I liked seeing him among people who already knew him, although *of course he taught the class* did get an eye roll. We are approaching the limit of this man’s available accomplishments.
+And then Randi kneels down and puts her hands under that skirt, and apparently I have no principles whatsoever. The hand steadying Vee’s thigh. The thumb behind her knee. Vee standing there unable to see what’s happening, trying not to make a sound. Yes. That got me. More than the scarf, more than the expensive-shoe transformation, that little involuntary breath had me leaning in. Randi is enjoying this, Vee is enjoying this, and “it was dress-up” is doing an absolutely heroic amount of work.
 
-Then the blonde spoke, and I could feel Vee’s good night collapsing before she opened her mouth. I believe that ugly rush of wanting to stay angry once you’ve started. I believe her looking at other women and reaching for her mother’s words. I didn’t enjoy being there, but I didn’t want to skip it either. The tenderness of last chapter makes his face going flat here particularly painful.
+I loved that Vee could still make her laugh. Edna Mode, the evil stepsisters, imagining herself living in the closet wearing only Randi’s shoes—there’s my funny girl. Those moments let me want them together without feeling that I’m simply watching Randi operate her. The unbraced goodbye kiss mattered, too. Vee’s mouth has stopped asking permission from the rest of her. I want the rest of her to catch up.
 
-But I am having a fairly loud argument with the book over how completely she ends up convicting herself. She was cruel. She owes him an apology for what she actually said. Meanwhile, **he has a girlfriend, and they selected her together.** Her fear that there’s something she doesn’t know about being “chosen” is not imaginary. The bartender can clear him of exploiting drunk women; she cannot clear him of what I know he’s doing. I’m sitting through “She’d done it to a good man” thinking: yes, sweetheart, and there is a conversation he owes you that would make this entire night look different.
+But I’m getting impatient with how often she feels something, notices something in Randi’s face or voice, and puts it away unnamed. We’ve been here several times now. Give me one dangerous second where she thinks, *I want to kiss her again*, and knows what she means.
 
-I also got tired toward the end of hearing every good thing about him entered into evidence again. I’d already felt her regret when she put on the shirt. Let me stay with that sore, confused girl without making me attend quite so much of her prosecution.
+The borrowed shoes also made me think immediately of the pair Vee just put on credit. So sharing was possible all along? I don’t know what Randi understands about Vee’s money, but I haven’t forgotten that purchase just because these shoes feel wonderful. And “Maybe you just haven’t met your Evil Queen yet” made my stomach tighten. I wanted to laugh with them; I couldn’t quite.
 
-And now she’s going to Randi. That got my thumb moving. Randi hearing that Vee is terrified of being one among Pace’s women, while occupying the exact place Vee doesn’t know exists? I want that conversation immediately. I want to see whether Randi can bear to comfort her honestly—or whether she helps Vee apologize around the hole they’ve both left in her life.
+I’m still suspicious of the entire repair being routed through Randi. She knows exactly who this man is while performing “if he’s the man you’ve just described.” That lie feels particularly intimate here. Vee trusts her with how to get him back. Randi gets to choose when she goes, what she wears, how she understands his silence. The touching is hot; the authority she’s acquiring scares me.
 
-GATE 28 — Lesson
+GATE 29 — broken-in
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
-HEAT: 1
+NEXT: 8
+HEAT: 2
 ROMANCE: 2
-ALMOST-STOPPED: “She'd punished him for being the man she wanted him to be. She'd done it to a good man.”
-WHY: I’m invested in her repairing the hurt she caused, but I’m bristling at how much blame she’s taking with so much information withheld from her. Going to Randi makes the next conversation something I urgently want, even after the ending pressed her remorse harder than I needed.
+ALMOST-STOPPED: “And you don't go in there sorry — sorry's easy, he already knows you're sorry.”
+WHY: I nearly put it down there because an honest apology was turning into another woman’s seduction assignment. But the desire between these two held me, and now I need to see whether Vee can reach Pace as herself once she gets to his door.

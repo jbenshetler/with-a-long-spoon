@@ -1,28 +1,18 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fc6ed94829c1 · 2026-10-11*
+*capture-dag-v2-rich · gate ch066 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8ea15c426f18 · 2026-10-11*
 
-REACTION
+REACTION — Oh, Randi felt that. Vee saying Sheri looked at her with open enjoyment was the first time I’ve seen jealousy strip all the warmth out of Randi’s voice, and Vee immediately lied: “No. Not my thing.” After laughing over that look for two days. Her desire is hers, yes—but she still cannot bear to let Randi see that another woman’s wanting pleased her, because somewhere inside she already knows Randi’s reaction would mean something. And then she mistakes Randi’s jealousy for protectiveness and feels cherished by it. That hurt in exactly the way this book hurts best and worst: the feeling is completely real, and the interpretation is completely wrong.
 
-Oh, this hurt me. Not loudly. It got under my ribs one ordinary question at a time, exactly the way it got Vee.
+“I know she isn’t, gorgeous” was cold enough to touch. Randi was not guarding Vee from Sheri. She was trying not to show that she wanted to be the woman whose gaze Vee enjoyed. Just say it, Randi. Please. Vee is practically placing her own hand on the truth and calling it friendship because you keep giving her no other name.
 
-The water waiting where she would reach first, the paper towel under the glass, the pills already given, his shirt pulled over her, bread made while she slept—this is the Pace I am helpless for. He never turns care into a performance or a debt. He simply notices what her body will need next and puts it there. Even the forehead kiss after he thought she was asleep nearly undid me. That is love, whether he can force the word through his teeth or not.
+The waxing conversation bothered me. Pace asking is not automatically a problem—he asked, and Vee is free to decide—but Randi instantly sold the answer as pleasure and luxury, minimized the pain, supplied the woman and the script, and arranged Friday before Vee had said whether *she* wanted it. This is the pattern again: Pace raises a door, Randi quietly builds the corridor, and Vee experiences the destination as her own discovery. I need to see Vee choose this for herself, not merely glow because Randi approves and Pace wants it.
 
-And then: “Sheri’s my friend. My one friend.” God. I knew he was solitary. I did not understand that he was this alone.
+And then that goodbye kiss stayed. Not the habitual little second press: Randi held the breath between them open and went back for more, and Vee waited with her eyes closed for Randi’s hand on her jaw. The neck kiss passed without the “ticklish” joke this time. That is a change. They are already speaking with their bodies, but Randi knows the language and Vee still thinks they’re making friendly noise. I’m intensely drawn to it and increasingly angry on Vee’s behalf at the same time.
 
-His explanation about friendship forming in the middle of the pack felt horribly convincing because it is so specific to him. He was too young for the men around him, too far ahead by the time boys his age arrived, and whatever happened at home had already taught him that ordinary questions were traps with holes underneath them. “What are you doing for Christmas?” should be nothing. For him it is an invitation to either expose the wound or quietly step away from intimacy. Of course the doorway never became a room.
-
-And Daphne becomes even more complicated and frightening here. She was not merely his first girlfriend. She was tutor, guide, best friend, family, social map, and apparently the only person in his entire life who held all the roles Vee distributes among four women. I understand more completely why losing her destroyed him—and I am even less comfortable with how that bond began. Vee pressing back the “ugly grown-up word” is exactly where I am too. He can remember those years as salvation, and the imbalance can still have been profoundly wrong. Both truths hurt.
-
-Vee’s response was perfect. She did not make him comfort her for his own pain. She did not tell him it was tragic after he had explicitly said it wasn’t. She crossed the counter and held him with her whole weight, borrowing Sheri’s language of care because she had finally understood what that hug meant. That is a real turn in their bond. She is learning to serve him without trying to make him smaller enough to be served.
-
-I also felt a chill at her certainty that Sheri is the only friend the world “let him keep” because she could never want him. Vee still does not know Randi is also in his life, knows him deeply, and absolutely wants him. She is building this tender picture of his loneliness with one enormous person cut out of it. When that hidden fact arrives, it will contaminate even this morning.
-
-But right now I just want to sit in the kitchen with them while the bread cools. He has been alone at the table for so long, and she came around it.
-
-GATE 66 — Hangover
+GATE 67 — Between
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 8
-HEAT: 0
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This chapter reached straight into my weakness: quiet service, painful honesty, and Vee answering him with care instead of pity. I need the concealed Randi relationship exposed, but this tenderness between Vee and Pace is exactly why I cannot leave them.
+ALMOST-STOPPED: “Barely stings.”
+WHY: Randi’s jealousy and the longer kiss pulled me hard, because their bond just shifted even if Vee cannot name it. But Randi arranging the waxing while minimizing it made the concealed steering feel ugly again; I’m continuing because Vee is close enough to the truth now that every denial feels ready to crack.

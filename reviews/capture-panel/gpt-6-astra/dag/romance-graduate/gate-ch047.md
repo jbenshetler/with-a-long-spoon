@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch047 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha e2ecd7b27fa1 · 2026-10-10*
+*capture-dag-v2-rich · gate ch047 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 025d1b3f1ab8 · 2026-10-10*
 
 REACTION
 
-Oh, Vee. “What you do — what your body does” would have stayed with me in that laundry room too. She’s trying to tell him that being with him has changed her life, and he answers with how good the sex is. After all her happiness about being wanted as a person with a body attached, that hurts somewhere very specific.
+Oh, Vee. You finally asked him something, and somehow you’re back in bed without an answer. “Where do you want to go tonight?” is an answer to the outing. It is not an answer to “Is this what we are now?” I felt hopeful when she started talking, even with the accusation tangled into it. I wanted her to stay with the question.
 
-I don’t know whether he missed her meaning or understood it and backed away. Those two breaths make me suspicious. So does how carefully he finds his answer. I wanted to feel the long kiss on her head, and I did, a little, but I was also thinking: you can hold her through this whole sunrise and still leave her alone with what she said. His tenderness is starting to make me more anxious than his silence.
+The restaurant hurt because I could see him struggling while she was deciding he was ashamed of her. The fork turning, the effort to bring his eyes back, his shoulders dropping afterward—I believed that. I liked learning something about him that makes being with him less effortless. And she was unfair about the dance. I don’t need her to be right every time to care about her; I was actually relieved to feel irritated with her for something specific. But Peter being right about the restaurant does not settle the larger question, and I’m getting desperate for someone in this relationship to notice that out loud.
 
-And I recognize her horrible little accounting afterward. He pulled me closer. He kissed me. It was warm. Those things happened, so surely I haven’t been rejected. The laundry room got me because there she finally has enough distance to hear him again. I’m glad the discomfort survives the quilt. I need her to retain something that his hands don’t settle for her.
+Her deciding she had *forgiven* him made me wince. There’s my girl finding a version she can bear again. Except I also have Randi in my head, in this house, in his arms, hearing that she’s extraordinary. He does have something to answer for. Vee just keeps arriving with the wrong charge, and he can answer that one perfectly.
 
-But I was impatient before she even spoke. We spend so long being told what this sentence is going to do, what it means, what it avoids. Then it’s the food comparison again. I already know how much she means by being fed. Let her risk saying it; I’m right here. And afterward, when I’d felt the mismatch, the chapter kept going over its shape until I started slipping out of the ache and noticing how long we were staying inside it.
+The sex still got me, especially her wanting his patience to break. I understood wanting some evidence that she could disturb him as much as he disturbs her. But I couldn’t sink all the way into it. I was waiting for the thing she needed to say to survive being touched, and then it didn’t. His losing control gives her another precious thing to keep while she’s awake alone beside him. That feels awful now.
 
-The last paragraph pulled me back. There’s a pile. She knows there’s a pile, even if she won’t look. That matters to me. But coming straight after Cassie asking what he actually is to her, another ending where Vee cannot ask the necessary question leaves me tired as well as sad. I want to follow this woman into an answer. I’m running short on patience for watching her swallow questions.
+I did start sliding over the explanations near the end. I understood when the name came back after he fell asleep. The further turns through belonging, proof, names, parents were making me feel held in the same thought after it had already hurt me. And I am tired of every ordinary food she once enjoyed becoming evidence of how thoroughly he’s transformed her. Let the woman have a nacho.
 
-GATE 47 — Seconds
+Still, this landed harder than another happy weekend would have. She can’t quite make the reassurance work anymore. I want to know what she does with that—but I need her to *do* something with it. My 1 a.m. text is: “She asked whether they’re just sex and he took her to Chili’s. I am suffering.”
+
+GATE 48 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 8
 NEXT: 6
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: “But the sentence was a different thing.”
-WHY: I nearly skimmed while she explained the sentence before saying it; the actual exchange hurt enough to keep me. I’m continuing because her doubt finally outlasts his embrace, but I need that doubt to lead her somewhere.
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: “He'd given her all of it and not the name.”
+WHY: By then I was hurting with her, but also thinking, yes, I know—please let this change what happens next. The question escaping her mouth kept me; another cycle of doubt, exquisite attention, and private doubt would wear out what’s left of my patience.

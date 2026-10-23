@@ -1,28 +1,28 @@
-*capture-dag-v2-rich · gate ch069 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ec95866b43d5 · 2026-10-11*
+*capture-dag-v2-rich · gate ch069 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha c9f460e100d7 · 2026-10-11*
 
 **REACTION**
 
-Okay. I need a minute.
+FINALLY. Seventy chapters. I'm texting this at 1 a.m. in all caps: THEY KISSED.
 
-First, I've never read this sex scene before, and I can't remember the last time I could say that. Hundreds of books, and nobody has painted a woman as a fruit bowl with her eyes shut, a matching bite at her mouth for every color, until she works out the picture from what she tastes. Walnut means brown. Parsley means green. Then the grape, and she gets "a grapevine" in the dark and *laughs*. I was laughing too. It's playful in a way spicy books almost never are. The playfulness and the heat are the same thing here instead of taking turns. "Oops. Sorry," as she turns the wet breast into his face, and then he wears the orange print across his cheek and mustache for the rest of the scene. I love him for that.
+And it wasn't the brunch kiss or the parking-lot kiss with the "small second press" that we all agreed was just a habit. It was a real kiss on a dance floor. There's the held inch first, where Vee's eyes finally get to go over Randi's face "as they had wanted to all autumn." Then the tongue arrives as "not a demand, a *please*." Vee's hips press forward once, asking. Her hand goes into Randi's hair and she doesn't take it back. I was holding my breath through the held inch. Fully clothed, on a crowded floor with a boy named Harrison as the excuse, it was hotter than the painting chapter. The painting was gorgeous, but I'd waited for this one. Months of "tickles" and "ticklish," and here's the payoff.
 
-The rule that "still meant the brush" got me. Moving makes the touch leave, and she can't earn it back by bracing. She only gets it back when she stops trying. That's surrender written as something her body learns, not a speech. She gives up the choosing, the bristles come down, and she comes. That's hot and it's smart, and I'm not going to be cool about it.
+Then Randi says "I almost believed it." Oh, you COWARD. I said in my notes that I wanted her to stop being a coward, and she did it in reverse. The brave part came first: she chose Vee in front of Brooke. "I chose." "I can see." I made a noise out loud at that. Vee hears "my date" and goes giddy, and I'm sitting here knowing that line ended Randi's standing in that house in front of its president. Then the private part, the actually scary part, gets folded up neat and handed back as a bit. "Oh, that was *perfect*." The swat on the arm. Two chapters ago she was on top of Pace saying "I want her to know exactly what she does to me." Now Vee knows, and Randi tells her it was pretend. It's a lie told straight to the one person she'd least want to lie to, and it's a lie about the exact thing she wanted Vee to know. I believe both halves of her completely, and it hurts.
 
-Then the gesso. God. He dips the brush in her and paints her with her own wetness, and the shame and the pulse hit together: "enough of her for this beautiful serious man." The book has spent chapters on her "too much," and here it's turned into his materials. And I *noticed* that this was the one color with no kiss. Every other color came with his mouth and a taste. Hers came with nothing. That's not an accident. He's the man who did the wet-mouth kiss with Randi in 64, where she licked his thumb and said "now it's mutual." So he's deliberately holding back the one taste Vee keeps almost reaching for. Is he training her toward it, or toward *someone*? That's my 1 a.m. shiver. It's gorgeous, and I think it's a lesson plan.
+I'm suspicious, as usual, about how everything got set up. Randi gave her the skirt — "Not that short," twice. She dressed Vee again, the way she did with the coat and the heels. She was the one who moved Vee's hips "wider, looser" until the skirt rode up, then lifted Vee's hands so she couldn't hold it down. Then she whispered the panties line with her lips on Vee's ear. Harrison is a prop. I can't tell if Randi planned all of it or just knows exactly where Vee's weak spots are. Either way, Vee being found out twice in one moment, once to the room and once to herself, was the best paragraph in the chapter. The shame flipping into heat is what I read this book for.
 
-He also asked for the wax and "never told her why." Randi's "barely stings" left out the whole back half. The two of them prepare her and she does the walking. The jacket keeps saying every door is her own, and the book keeps showing me who's holding the doors open.
+Brooke was terrifying and I loved it. "Randi's *new* friend." The almost-blue teeth. Vee decides she's kind. Oh, baby. And Vee standing there unable to find the forty-dollar Chambord in a pink plastic cup is a perfect picture of where she stands in this world.
 
-She kissed the scar and went past it. He didn't move her hand away this time. That's a turn, quiet, and I'm keeping it. "Pale and old and terrible," a high scar, and he hasn't been home since he was sixteen. I'm scared of what that is.
+A few small gripes. The opening drags: the coffee shop, three dresses, the mirror that only shows her in pieces. Cassie's eyebrow saved it. Randi's lipstick gets described twice, once in the foyer and once right after Brooke, and the second time stalled the scene just as it heated up. Then "I'm telling you now" floats in and I didn't know whose line it was. And the bracelet being literally called Love, with "taking it off requires tools"... I liked the chill it gave me, but the book is underlining in red for me, and "she'll spend a fortune to have you think she didn't spend a dime" is about Randi as much as Brooke. I got it. You didn't need to hand it to me. Still, who put the bracelet on her? That's my question now.
 
-What snagged me: "He had taken every part of her the world called too much... and made abundance the whole point." I *had* it. The gesso already said that. Don't explain it to me. And the taste thread is getting long. It's been the almost-reach in 63 and now "the question had nowhere to go" again. One more near miss and I'll start to feel teased by the author instead of by Pace. Also, he has a mustache? Fine, apparently.
+Vee's last lines broke me: "there was no version of the night in which she could ask." And Pace gets her tomorrow, Sunday, which I'd bet he planned too.
 
-The ending is what pulls me on. She can't even imagine Randi's voice over this photo, "it went somewhere she couldn't follow." And: *She would not be telling her about this.* That's the second thing she's kept from Randi, and it comes two chapters after Randi said, riding him, "I want her to know exactly what she does to me." Tomorrow is Randi and "the skirt, the mixer." Yes. Give me that.
+---
 
-GATE 69 — Still Life
+GATE 70 — On Her Floor
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 8
+NEXT: 10
 HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "He had taken every part of her the world called too much—the breasts that entered a room ahead of her, the hips that clothes could not make modest, the wetness she could not contain—and made abundance the whole point."
-WHY: This is the freshest, most playful explicit scene in the book. It's genuinely hot, and it's about something too. I lost a point for the line that spelled out what the gesso had already shown me, and for the taste thread dragging. The ending, with Vee holding something back from Randi right before a Randi day, has me reaching for the next chapter.
+ROMANCE: 3
+ALMOST-STOPPED: "Out of the shower, her face done, the skirt on — and no way in the room to see the whole of herself at once." Another wardrobe setup in a book that's done a lot of them. The second lipstick close-up right after Brooke also made me skim.
+WHY: This is the kiss I've been waiting since the fall for, and it was everything: slow, specific, and Vee's own want in it, not the bit. Then Randi took it back with "I almost believed it," and I need to see what Sunday with Pace does to Vee, and what Brooke does with "I chose."

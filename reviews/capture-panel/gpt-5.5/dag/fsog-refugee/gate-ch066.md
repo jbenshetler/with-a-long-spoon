@@ -1,26 +1,28 @@
-*capture-dag-v2-rich · gate ch066 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fc6ed94829c1 · 2026-10-11*
+*capture-dag-v2-rich · gate ch066 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8ea15c426f18 · 2026-10-11*
 
 REACTION —
 
-Oh, this one got me in the quiet place.
+Oh, this one was quieter than the last few, but it got under my skin in that exact dangerous way where everyone thinks they are talking about somebody else and they absolutely are not.
 
-I came into it still buzzing off Sheri, and I loved that the chapter let Vee wake up not punished for having had too much, not scolded, not turned into a joke, but cared for in that completely Pace way: water on the nightstand with the paper towel under it, pills already handled, shirt over her, bread made while she slept. That paper towel almost did me in. It’s such a tiny thing, but that is exactly where this book keeps finding me: not the grand gesture, the folded square under the sweating glass because he thinks about the wood and about her waking at the same time.
+I loved Vee getting to bring Sheri to Randi like a prize. Not Sheri herself exactly, though I do like her, but the relief of it. The way Vee can finally laugh at the woman she invented, can lay the blonde out on the table and admit she dressed for a ghost. That felt good. Healthy, even. Randi not saying “I told you so” and somehow saying it with her whole body was perfect. That friendship rhythm is still so delicious to me, the two of them knowing where the other person is in the story before the sentence gets there.
 
-And Vee being delighted that Sheri “liked” her that way was such a relief. I love when she gets to laugh at herself and be wanted without having to immediately make it either threat or shame. Sheri being gay lets the jealousy unclench, but the chapter is smart enough to show that the body of the jealousy was never only about sex. It was about access. Pace saying Sheri is his one friend cracked open the whole underside of him.
+But then. That tiny stop in Randi’s thumb.
 
-That conversation hurt. Not in a melodramatic way. Worse: in a tidy, devastating, “this is just how the furniture is arranged” way. Pace explaining why women misunderstand his friendship, why men never happened, why the ordinary little questions have holes under them... I felt Vee realizing in real time that the loneliness isn’t decorative backstory. It is structural. It is the shape he grew around.
+That was the chapter for me. Not the waxing request, not even the kiss at the end, though both mattered. It was Randi hearing that Sheri looked at Vee with appetite and suddenly going flat. And Vee, sweet blind Vee, deciding that must mean Randi is worried Sheri is a threat to Pace. No, baby. No. Randi heard that another woman looked at you and you liked being looked at. Or maybe she heard that another woman got to look at you openly in a way she is still pretending she doesn’t. Either way, that little “Huh” was not friendship doing concern. That was jealousy, or recognition, or hunger biting down on its own hand.
 
-And Daphne. God. I have been waiting for more of that wound, and this didn’t even give me more facts exactly, it gave me proportion. Daphne was not just first love. She was the whole social world, the whole place to put feeling, and then gone. That makes his refusal to say love to Vee even more understandable and even less excusable, which is such an uncomfortable, good place for the book to put me. I don’t want to let him off. I also want to climb through the page and hold the boy he was.
+And I am very aware that Vee says “No. Not my thing” too fast. I don’t even know if she’s lying exactly. It might be more that the category is still locked in a room she won’t enter. She liked Sheri enjoying her, but because Sheri is not “the threat,” not the person she wants, it can be filed as funny and flattering and safe. With Randi, it would not be safe. With Randi, the whole floor goes out.
 
-Vee’s mind moving from her own abundance of friends to his lack of them was beautiful because it wasn’t pity first; it was recognition. She doesn’t make a speech. She doesn’t therapize him. She just comes around the counter. That counter mattered so much to me. She starts with it between them because she needs it, and then once she understands, she removes it herself.
+The waxing request made me sit up, too, because that could be bad in another book. A man asking for “all of it, bare” can so easily become possession in the ugly way. But here, because Pace has earned so much carefulness, I didn’t flinch the same way. I noticed that she brings it to Randi because she actually needs a woman’s translation of it, and Randi gives her one that is sensual and practical and oddly tender. “You’ll walk out of there feeling like the most expensive thing in the room” is exactly the kind of line that would make Vee brave. I did want one more beat of Vee’s own yes around Pace asking, but I also believe her excitement. She brought it like a treasure.
 
-The hug at the end made me ache. Her copying Sheri’s full-weight hug, cheek to chest, not apologizing at him, not making him perform pain for her, just committing her body to the truth of staying there. That is romance to me. Not heat, not yet, but the kind of tenderness that makes the heat matter when it comes back.
+And the goodbye kiss. They are not even pretending very well anymore, except Vee is. Eyes closed, waiting for the hand. The second kiss that stays. The neck kiss with no joke this time. No “ticklish.” No “don’t you dare.” Just the two of them letting it happen and naming the next dinner like that will keep everything ordinary.
 
-GATE 66 — Hangover
+It won’t. It absolutely won’t.
+
+GATE 67 — Between
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
-HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: This pulled me hard because it took Pace’s care, which I already trusted, and showed the loneliness underneath it without making him noble or pathetic. Vee coming around the counter and holding him full-weight felt like a real turn in the bond. I want the next chapter badly now, partly because I need to see what this intimacy does to his locked mouth.
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "No. Not my thing."
+WHY: I didn’t almost stop because the book failed me; I almost stopped there because Vee’s denial pinched, and I felt how hard she is still working not to know herself. But Randi’s thumb stopping, the second kiss, and the way this chapter made jealousy look like care have me fully hooked for Thursday and Friday.

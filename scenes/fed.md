@@ -1,5 +1,51 @@
 # Fed
 
+The lock stuck the way it always stuck and she got the door open with her hip and came in from the stuffy heat of the hall into the room's open-window cold, bright and crisp and smelling of cereal. Cassie was on the bottom bunk with her knees up and a bowl balanced against them, the milk gone the soft brown of the cereal.
+
+Cassie looked up, and for half a second something crossed her face and was gone before it found a name. Then she read her friend as she read everything, fast and whole, and her mouth went to match Vee's, because Vee was grinning and the grin was the entire story.
+
+"That good?" Cassie said.
+
+Vee had no bag. She had not been able to pack one. To pack a bag the night before would have been to say the thing to herself, plainly, and she had not been willing to say it, so she had driven over with nothing and woken in his bed with her clothes on the floor and her hair its own wild country, no brush in the house that would go through it, her face bare because there had been nothing to do it with. She'd looked in his mirror and laughed. The smile had been there ever since. It had come back at every red light on the way home.
+
+And the night ran under all of it, a second channel that had not shut off once. His hands. The white sheets. The thing her body had done before she could decide to let it.
+
+"Was he worth painting your toenails?" Cassie said.
+
+The heat climbed Vee's neck. "Cassie."
+
+"In October." Cassie aimed the spoon at her. "I have eyes."
+
+So Vee told her, sitting on the floor with her spine against the desk. She said he was sweet. She said he was a good kisser, the old easy words she'd always handed Cassie about a man. She gave her the dinner whole, because the dinner she could give: the Chianti he'd opened before she came so it would be ready when she was.
+
+What she kept was the middle. She lifted it out clean as she went, the way a ladle takes soup from the pot and the surface closes without a hole, and told herself it was a kindness. It was a kindness. She believed it the way you believe the thing that lets you keep what you want to keep.
+
+Cassie listened with her chin on her knees and did not pull at the seam. Whether she felt it there, Vee couldn't have said.
+
+"He cooked," Cassie said. "A man made you dinner."
+
+"He's a good cook."
+
+"Mm." And she let it stand.
+
+Vee wanted to be clean. She wanted the shower more than anything sensible in days. She got up, pulled her towel off the hook, reached for the zipper at her hip, drew it halfway down, and stopped.
+
+Nothing under the skirt. She had given them away. *Trade*, she'd said, and folded them in thirds and set them in his palm, and driven home bare, frosted-plum toenails her mother would have had a word for. The word could come; she found she didn't much mind it this morning. What she minded was here, now: three feet from Cassie, the zipper half down, and the next thing she took off would not be a story she was editing. It would be on the floor, and there would be nothing left to say.
+
+She zipped the skirt back up.
+
+Cassie watched her with mild interest. "You all right?"
+
+"I forgot my." Vee gestured at nothing.
+
+"You need to get your brain back from your boyfriend." Cassie said it kindly, certainly, wrong, and tipped the bowl to drink the last of the brown milk. Then she was up, reaching for her cleats and her bag, the easy clatter of a girl with somewhere to be. "I've got a game. Don't wait up, lover."
+
+The door stuck and gave. Her steps went off down the hall and were gone.
+
+Vee stood in the cold, emptied room. She let the towel fall, and stepped out of the skirt at last, and the night went on running through her, and the green was given away, and the smile would not come down. She had never in her life been so happy.
+
+---
+
 The bistro had a sun porch along its south side, a long room of glass and white-painted muntins where the late-morning light came in and lay on everything without asking. Randi had picked it. Randi picked all of them. Vee came in out of the ordinary day and into that bright room and felt what she always felt at the start of these, which was chosen, which was lit, which was a half-second behind.
 
 Randi was already at a table against the glass, sunglasses pushed up into her hair, and she did the thing where she saw Vee and her whole face opened, as if Vee arriving were the good news she'd been waiting on all weekend. "There's my girl," she said. "God, you're glowing. Sit, sit."
@@ -14,9 +60,9 @@ Vee laughed, because it was funny, because Randi made it funny, the way she made
 
 "But that," Randi said, leveling a finger, "is a sad woman's tale, and you, my darling, have a smile you have been failing to hide since you walked in. So. Give me something to live on. Be cruel. Tell me everything."
 
-And Vee wanted to. That was the thing she would not have been able to explain to anyone, least of all herself: how much she had wanted, all weekend, to set it down on a table in front of someone who would not flinch. She had given Cassie a version. The good version, the whole clean one, the dinner he'd made, the apron, the garlic going soft and the pepper blooming red in the oil, the Chianti he'd opened before she'd even come so it could breathe, the way he'd paid attention to her like attention was a thing he had an unlimited supply of and had decided to spend all of it here. Cassie had let it be that. *He cooked,* Cassie had said. *A man made you dinner.* And Vee had let the door close where Cassie closed it, because the rest of it was not Cassie's, was not anybody's, was hers.
+And Vee wanted to. That was the thing she would not have been able to explain to anyone, least of all herself: how much she had wanted, all weekend, to set it down on a table in front of someone who would not flinch.
 
-So she gave Randi the same one, because it was the true one, and she told it well, watching Randi's face do the things it did, and then, because Randi was not Cassie, because Randi would not flinch, she went further than she'd gone with anyone. Not all the way. When she came to the middle of it, the part that was only hers, she went soft and quick, a hand waved at the air, *and then, well,* the way you fold a thing back into its tissue before anyone can pick it up, and she didn't slow down again until she was out the other side, back in his kitchen, after.
+She gave Randi the same dinner. When she came to the middle, she went soft and quick, a hand waved at the air, *and then, well,* the way you fold a thing back into its tissue before anyone can pick it up. She didn't slow down again until she was back in his kitchen, after.
 
 "And after," she said, and heard her own voice change, "he cooked. He pulled his jeans back on and went right back to the stove like it was the most natural thing in the world, and I didn't have a stitch to put on, so I took the top sheet off the bed and wrapped up in it and padded out after him." It came back up around her as she said it, the whole warm dark of that hour: the sheet held closed at her breast and still warm from the bed, his kitchen floor cool under her bare feet, the glass of wine he'd poured her the minute she walked in and that she'd been too keyed up to touch. "And I sat at his table in his sheet and finally drank it, and watched him finish making our dinner. The oil going in the pan and starting to tick, the window black behind him, near midnight, neither of us saying a word and nothing missing." She let the softness stay in her voice. "I don't think I've ever felt anything better in my life. Just sitting there wrapped up in him, watching him cook."
 
@@ -24,7 +70,7 @@ For a second, saying it out loud in the bright room, the other version of it was
 
 Then she pointed her flute. "Which is very pretty, and you are not getting away with it. You went from taking your clothes off to watching him cook and left out everything in between. Everything." She leaned in. "You have to tell me. I only got dinner that night, dinner and a boy in a hurry, that was my whole evening. I'm running on fumes here. How was he?"
 
-And Vee found she wanted to, that the wanting to tell it was most of why she'd come. She looked at her wine. "He wasn't in a hurry," she said. "At all. Like there was no clock anywhere in the world." She heard herself reaching for it and reached anyway. "He was patient, and he was so gentle, and he was… hungry. For me. In a way that made me feel, I don't know. Unique. Not just, like, tonight. Like singular."
+She looked at her wine. "He wasn't in a hurry," she said. "At all. Like there was no clock anywhere in the world." She heard herself reaching for it and reached anyway. "He was patient, and he was so gentle, and he was… hungry. For me. In a way that made me feel, I don't know. Unique. Not just, like, tonight. Like singular."
 
 Randi held her flute and listened, her face open and warm and glad for her friend.
 
@@ -42,7 +88,7 @@ The heat came up in her throat.
 
 "Why'd you pick it?"
 
-And Vee had the answer and couldn't give it. The answer was the nights she'd lain awake with the silk in her head — the silk she'd seen in the light of his sun porch, the dress he was still making her out of it — turning the color over in the dark; and the Ulta at the mall, earlier that week, where she'd stood in the bright aisle and picked the one bottle that woke that same plum up when the light caught it. She didn't say any of it. It came up in her face instead.
+And Vee had the answer and couldn't give it. The answer was the nights she'd lain awake with the silk in her head — the silk she'd seen in the light of his sun porch, the dress he was still making her out of it — turning the color over in the dark; and the Ulta at the mall, earlier that week, where she'd stood in the bright aisle and picked the one bottle that woke that same plum up when the light caught it. She didn't say any of it.
 
 It came up her throat and into her face while she sat there, slow and complete, the heat of a thing being seen before she had decided to show it.
 
@@ -66,11 +112,11 @@ Randi didn't tease her for it. She looked at her, like the planning was the part
 
 Something had come into Randi's voice over the last few minutes. Vee heard it without being able to name it — the esses running long, the a's lifting, more of whatever it was than there had been when they sat down — and her eyes had gone liquid at the edges. *She's a little drunk,* Vee thought, fond about it, and looked over to confirm it: one mimosa, and most of that still in the glass. So it wasn't that. Nothing came along to take its place, and the light moved on the porch, and Vee let the question go.
 
-And Vee, who'd braced for teasing and gotten this instead, felt the thing come up and said it out loud because it was suddenly, simply, true. "I wanted it," she said. Her hand had found a piece of her own hair and was drawing it slowly through her fingers. "And I took it. For once."
+"I wanted it," she said. Her hand had found a piece of her own hair and was drawing it slowly through her fingers. "And I took it. For once."
 
 "Good," Randi said, and reached across and laid her hand over Vee's, and left it there, warm, and Vee felt the word settle into her and stay.
 
-They stayed another hour. The light moved across the porch. Vee had a second mimosa, and the second one she did not price at all, and they talked about other things, about Randi's awful committee and a girl in the house and a movie neither of them would admit to having cried at, and it was easy, it was the easiest thing in Vee's week. Not the way Pace was easy — Pace was the thing the week bent around. Randi was the person you got to *tell*: the one Vee could say anything to, who knew things, who could put a name to what Vee was only feeling and hand it back to her clean. The friend she'd wanted at fifteen and stopped expecting to get. Who liked her, some days, better than she managed to like herself.
+They stayed another hour. The light moved across the porch. Vee had a second mimosa, and the second one she did not price at all, and they talked about other things, about Randi's awful committee and a girl in the house and a movie neither of them would admit to having cried at, and it was easy, it was the easiest thing in Vee's week. Not the way Pace was easy — Pace was the thing the week bent around. Randi was the friend she'd wanted at fifteen and stopped expecting to get. Who liked her, some days, better than she managed to like herself.
 
 Outside, at the curb, in the ordinary noise of the street after the glass quiet of the porch, Randi pulled her into the goodbye, the hand light at the hinge of her jaw, the mouth, soft, the small drawing-back and then the second press. Vee had half-expected it this time, and met it, and when Randi let her go she didn't look down the street for who might have seen them, the way she had the first time.
 

@@ -1,24 +1,24 @@
-*capture-dag-v2-rich · gate ch022 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8429b6ba440f · 2026-10-01*
+*capture-dag-v2-rich · gate ch022 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 6a8d1d1bf63a · 2026-10-01*
 
-REACTION —
+REACTION — Oh, this one hurt in exactly the place the book has been quietly pressing its thumb.
 
-Oh, this chapter knew exactly where to press.
+I knew Randi was in trouble, but seeing her across Pace’s table, not eating the bowl he made for her, made it sharper than all the glamorous brunches and kisses. That small bowl being “the one he sliced her apples into” absolutely got me. There is history there. Domestic history. Not just sex, not just scheme, not just conspirators comparing notes over Vee. He feeds her. He has fed her before. And tonight she cannot take it, because Vee is being fed now too, and not just with food.
 
-I was already soft from chapter 21, because Vee coming home happy and half-edited was such a real girl-after-the-night thing, but this one got me in the tender-dangerous place of Randi being the person Vee can tell. That is so seductive to me, maybe even more than if Randi had just come in overtly predatory. She doesn’t merely ask for the dirty details. She gives Vee language for herself. That is intimate. That is powerful. That is also, in Randi’s hands, not innocent.
+I am very, very glad this chapter is in Pace’s point of view, because if I were only with Randi I might have been pulled into her urgency. From inside him, I could feel the decency of the delay. “As long as she needs” is exactly what I need him to mean, and he does. He is not pretending patience because it is hotter. He really believes the only way to bring Vee toward “us” is by leaving every step hers. That matters so much to me. It does not erase the original secret, but it keeps him from becoming the kind of man I left these books over.
 
-The part that really landed was Randi catching the difference between “he did this to me” and “I prepared, I wanted, I went there already choosing.” That is exactly the kind of consent I am reading for, and I felt almost grateful to Randi for insisting on Vee’s agency. “You bought them hoping he’d give you no reason to keep them on” is funny and hot, yes, but underneath it is this gift: stop pretending your desire happened to you. You wanted it. You took it. And Vee saying, “I wanted it. And I took it. For once.” God. That felt like a little door opening inside her.
+And Randi calling him selfish... God. She is wrong and not wrong, which is the worst kind. She is wrong because rushing Vee for Randi’s hunger would be awful. But she is not wrong that Pace gets the cleanest part right now. He gets the weekends. He gets Vee’s body and Vee’s first happiness and the glow afterward, while Randi gets the stories and the wanting and the kiss she can still pretend is friendship if everyone behaves. Randi is starving beside a full bowl.
 
-But because it is Randi, I’m never only grateful. I’m sitting there thinking: you are feeding her selfhood, and you are feeding on it. The title is perfect and a little awful. Vee is being fed brunch and mimosas and recognition, and Randi is being fed the night with Pace. And honestly? I was fed too. The sheet at midnight, the wine, him cooking in jeans, her barefoot and wrapped in the bed — I wanted to keep that image exactly the way Randi told her to. That’s the warmth I want with the heat. Not just sex, but the after made holy by ordinary care.
+The sex with Randi was not hot to me in the simple way. It was charged, yes, but it made me sad. Her not saying “tell me” felt enormous. That has been their ritual, her asking him to give her Vee through language, and tonight she refuses the whole apparatus and takes him almost angrily, eyes shut, like she cannot bear either him or herself and still needs the body. It did not feel like cruelty dressed up as sexy. It felt like a woman trying to get relief from a shape of wanting that has stopped being manageable.
 
-The second kiss got me. Last time Vee could still scramble for “French/social/whatever,” but this time she half-expects it and meets it. And she doesn’t scan the street afterward. That matters. That is not nothing. Randi is becoming part of the wanting, not just the listener to it. I am both thrilled and tense, because this triangle is getting emotionally real before Vee has the facts that would let her consent to the triangle itself. That’s the rub. Inside the chapter, I felt warm and seen and turned on. Outside it, I can feel the hidden premise getting heavier.
+Pace not understanding it broke my heart a little. He is so exact with Vee, so fluent in her shame and pauses, but with Randi he is missing the obvious because maybe he cannot afford to see it: she wants Vee herself, not only Vee-through-him, not only “us” as a pretty fantasy. And when he puts the untouched bowl in the refrigerator “for her,” I wanted to shake him and kiss his forehead. He knows care as an action even when he does not understand the wound.
 
-Still, I would text a friend: “Randi kissed her AGAIN and Vee didn’t panic this time. Also Randi basically made her admit she chose the whole night with Pace and I am unwell.”
+I am more anxious now, but in a good-reading way. The triangle has stopped being theoretical. Randi is not the smiling woman holding the door open anymore; she is standing in the doorway hungry, jealous, and hurt, and Pace is still trying to make consent into a structure strong enough to hold all three of them. I want that. I want it so badly. But the secret is heavier now, because everyone’s feelings are getting real enough that the hidden beginning is going to cut deeper.
 
-GATE 22 — Fed
+GATE 23 — Portion
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
 HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: “Give me something to live on. Be cruel. Tell me everything.”
-WHY: That line made me wary because Randi’s hunger for the story can feel like taking, but the chapter earned me back hard by making her name Vee’s desire instead of stealing it from her. The bond turns here: Vee trusts Randi with the truth of herself, and the second kiss is no longer deniable. I need the next chapter because this is getting more beautiful and more dangerous at the same time.
+ROMANCE: 2
+ALMOST-STOPPED: "It's selfish, Pace."
+WHY: That line scared me because it could have become the book asking me to side with rushing Vee, but Pace’s answer steadied me: “She chooses it, Randi. Every step of it. Or it isn't anything.” The chapter pulled me hard because Randi’s hunger finally came into the open as pain, and now I need the next chapter immediately.

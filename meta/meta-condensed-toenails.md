@@ -1,5 +1,7 @@
 # Condensed — Toenails
 
+*Former standalone chapter; now the Saturday/Cassie movement of `scenes/fed.md` (author ruling 2026-10-23). This brief and its prior triage remain movement-specific.*
+
 *SCENE · Unwritten · morning after · Cassandra track · short, kept small*
 
 Vee comes home late morning, bare-faced, hair like she rolled out of bed — no overnight bag (she couldn't admit the plan that far) and no brush at Pace's house for her long curls — wearing the smile she can't pull off with a crowbar. Cassie is at the little fridge over a bowl of Coco Puffs; her face goes worried for a quarter-second, then she reads her friend and mirrors the glow, glad for her. Last night runs in Vee on a continuous, unstoppable loop, and she **knows she is editing it for Cassie and frames the edit as a kindness** — sex isn't Cassie's thing. The kindness is real enough to be usable; the floozie-shame underneath it is the actual reason. Never connect the two on the page.

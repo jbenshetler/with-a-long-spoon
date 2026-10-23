@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch039 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9782a926aac2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch039 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0f8a1c3bd12a · 2026-10-01*
 
-REACTION — Oh, Cassie. Thank God for Cassie.
+REACTION —
 
-This chapter is tiny, but it hit me right in the ribs because it is the first time in a while that Vee comes home glowing and somebody outside the whole Pace/Randi current just quietly counts the nights. Not in a scolding way. Not jealous, not moralizing, not trying to take the shine off her. Just: you don’t come home school nights. That is exactly why I trust her. She sees the pattern before Vee does.
+Oh, I liked this more than I expected to. It’s quiet, but not empty. It’s one of those chapters where nothing “happens” except the book lets Vee have a body that is hers when nobody is touching it, nobody is looking at it, nobody is naming it for her. After all the heat and the talking and the being seen, I needed this little strip of blue water where she can just work.
 
-And Vee is so gone. The “streetlight thing” made me smile because yes, that is her now, lit from inside and incapable of hiding it. I loved her sitting backward on the chair and spilling over with not one event but the whole new shape of her life: food, warmth, his attention, the house becoming the place she lives emotionally even when she doesn’t live there. It’s domestic in a way that would bore me with the wrong man, but with Pace it feels intimate because the care is so specific. The burn on her breast from being greedy over baked tomatoes, and him tending it for days? That is absolutely the stuff that gets under my skin. Not just sex, not just dominance, but this close daily tenderness where her body matters to him even in its smallest accidents.
+And I really felt the difference between her desire and her panic here. The question isn’t whether she loves Pace. She does. I know she does, she knows she does, Cassie basically knows she does. The question is whether she can trust the shape of it when so much has happened so fast, and when he keeps doing these enormous intimate things without saying the actual words. The drawer gutted me last chapter, but I also understand why it unsettles her. He makes a place for her so beautifully, silently, and that silence can feel like devotion or like a room where you’re supposed to guess the rules.
 
-But I felt the unease too. The house “stayed warm now,” warm enough she doesn’t think about how much she has on. That’s lovely, and also: he has rearranged the climate around her. He gave her the drawer. He feeds her. She’s sleeping there on school nights. It’s all so seductive because it is care, real care, and I believe in it. But it is also becoming a life before she has looked straight at what it means.
+The four strokes where she wonders whether Pace is really that good or whether she built him out of wanting him... yes. That is exactly the right fear. Not because I think he’s fake. I don’t. But Vee is awake in every nerve right now, and she has Randi’s eyes on one side, Pace’s hands on the other, Cassie’s clean flat questions in the doorway, and she still does not know the whole game. So that thought mattered to me. It felt like her mind surfacing for air.
 
-Cassie asking “Do you love him” in that flat way was perfect. No drama, no swoon, just the question sitting there like a glass of water. And Vee’s “Maybe. I think so. It’s all so fast.” Yes. Finally. She knows enough to feel the speed. That made me breathe easier and ache more at the same time.
+I also loved that swimming doesn’t solve it. That feels true. It just gets the words off her for a while. Honestly, that may be the healthiest thing anyone has let her have in chapters: not an answer, not a seduction, not a revelation, just her own body doing something old and capable and not eroticized. I’m still hungry for Pace and Vee in a room, always, but this didn’t frustrate me. It steadied me.
 
-What I wanted, selfishly, was more Pace on the page, because it has been such a charged run and I am greedy now. But I didn’t mind the quiet because this felt like a needed porch light chapter: Vee coming back from the warm house into the dorm, being witnessed by the one person I trust to notice the difference between happiness and disappearance.
-
-GATE 39 — School Nights
+GATE 40 — Strokes
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: Quiet, but it mattered. Cassie clocking the school nights and asking if Vee loves him pulled the whole domestic spell into focus, and I’m very ready for the book to make Vee look at how fast this is moving.
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "whether the man she was turning over was Pace or was somebody she had built out of wanting him"
+WHY: That line scared me in the useful way, because it means Vee is finally questioning the dream while still loving him inside it. The chapter didn’t give me heat, but it gave me Vee alone with herself, and I needed that before the next door opens.

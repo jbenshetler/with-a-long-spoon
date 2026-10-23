@@ -1,20 +1,20 @@
-*capture-dag-v2-rich · gate ch037 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 2a481d9a0a3a · 2026-10-21*
+*capture-dag-v2-rich · gate ch037 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha efddca81bfc1 · 2026-10-21*
 
 REACTION
 
-*"Sticky fingers?"*
+Oh, my chest hurts. Look at those two open drawers. He took his whole careful, ordered self and crammed it into the bottom drawer so she could have the top one—the easy one, the one your hand goes to first—with a little dish for her bobby pins and empty liner waiting for more of her. And she’s standing there glowing, whispering *"Peter"* to him in the dark, telling herself she doesn’t even need him to say the words out loud because *"a man didn't do all of that for a girl he was only passing a season with."* And she’s right! He *does* love her like that! That’s what makes this so unbearable!
 
-I literally gasped out loud and put a hand over my mouth. Oh my god, Randi is a menace! An absolute, surgical, breathtaking menace. The way she set that whole sequence up—first coaxing every single degree of the Friday night spanking out of Vee across a sunny brunch table, then casually tossing out a fake story about masturbating in a dark frat bedroom (*"Dress up, panties to the side, knees wide"*), watching Vee bolt for the bathroom, saying *"Do what you need to"* into her mimosa, and ordering glazed pastries while Vee is in the stall so she can drop *"Sticky fingers?"* the second Vee walks back up! I don't know whether to applaud or call the police. Both. Definitely both.
+Because my immediate, cold-sweat second thought the moment that counter was wiped clean between one Friday and the next was: *Wait. Did he clear the counter because he’s neat, or because Randi was there during the week?*
 
-What killed me inside the bathroom stall, though, was the echo of Chapter 33—except she got so much further this time before she stopped herself. In the music building practice room she stopped her hand on her knee before she even touched herself. Here, she's got her panties at her knees, her fingers slick on her clit, and the second she starts to slide a finger *inside* herself—just like Pace did when he checked—Randi's face appears behind her eyelids, clear and fond and looking right at her. And Vee has to stop an inch from coming because she can't bear being "seen" by Randi while touching herself to Randi's story, even though she just spent twenty minutes verbally stripping naked for her at the table! The psychology of Vee's shame and desire is so razor-sharp it makes my chest ache.
+No—even if he cleared it for his own need for order, or to keep Randi from walking into the bathroom and seeing Vee’s things colonized across the sink, what happens the next time Randi *is* there and opens a drawer? Or what happens when Randi realizes Vee has the top drawer in his bathroom while Randi only ever borrowed an undershirt out of his bedroom dresser once? Every single sweet, domestic, deeply romantic gesture Pace makes to build a real place for Vee in his house is simultaneously a landmine waiting to blow all three of them to pieces.
 
-And then that ending. Just when I'm thinking about Randi's eating disorder again—taking one tiny, neat bite of the pastry, calling it "delicious" to close the subject, and drinking black coffee while that pleased little half-smile sits on her painted mouth—Randi hits her with *"You're my best friend in the whole world, you know that?"* And you can feel how badly Vee has starved for a woman like Randi to choose her, how completely it disarms her... right before Randi kisses her twice on the mouth and leaves the sugar and butter glaze of the pastry *that Randi took one bite of* on Vee's lower lip. So the title "One Bite" isn't just Randi's food policing—it's the one bite she took that Vee ends up tasting on her own mouth after Randi drives away! I am losing my mind.
+I also loved the quiet little detail about Vee eating like a field hand at his table now after years of pushing plates away half-done, and actually *losing* weight in her bra band because her body is finally happy and burning through whole weekends of him—especially set against Randi’s brutal, ruler-straight war with food. Everything in this book talks to everything else without ever raising its voice to explain itself. It’s a quieter bridge chapter after the absolute five-alarm fire of chapters 35–37, so the sex is summarized in reflection here, which is totally fine after the run we just had, and emotionally it moved the needle huge. Vee is officially in love with him, she knows it, and she's moving into his drawers. God help them all.
 
-GATE 37 — One Bite
+GATE 38 — Above Him
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 3
-ROMANCE: 2
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Randi's cat-and-mouse game across the brunch table had me holding my breath, and the final beat—Vee tasting the glaze from Randi's single bite of pastry on her own lower lip after their goodbye kiss—was pure, devastating perfection. I need to see where all that unspent heat goes next and whether Randi goes straight to Pace with this.
+WHY: The top-drawer reveal is peak actions-speak-louder-than-words romance, made ten times more gripping by the dread of knowing Randi exists in this same house on other nights. I need to see when the two halves of his week collide.

@@ -1,24 +1,20 @@
-*capture-dag-v2-rich · gate ch030 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha f4bbb5872a6b · 2026-09-29*
+*capture-dag-v2-rich · gate ch030 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha a45f79a49a6c · 2026-10-01*
 
-REACTION — Oh, Randi. This is the first time I’ve felt the full shape of what she’s doing and wanted to shake her almost as badly as I wanted to watch her do it.
+REACTION
 
-She takes Vee’s rawest morning—Vee showing up wrecked, owning the ugly parts, trusting her completely—and brings it straight into Pace’s bed as erotic material. Not accidentally. Not because Pace asks. She stops him from making her come so she can put herself over him and narrate Vee standing in her bra, Vee letting her circle and look, Vee reacting to her hands under the skirt. That is so hot I resent it. The detail about Vee hoping Randi hadn’t heard the sound behind her knee, followed by “I heard it,” absolutely got me. But Vee believed she was being dressed and comforted by her safest female friend. Randi knew she was gathering something she would later feed to Pace. I can’t make that clean just because every person in this triangle genuinely wants every other person.
+Oh, Peter. “Listen to you” indeed. He cannot hear that he is in love while he is pouring out the walnut joint, the math book, the exact way Vee looked at things he made. That got me. Not because it is a grand declaration, but because he has chosen the details that prove she sees him—not the polished host or the body or the competence, but the workmanship and the mind underneath it. He thinks he is describing her. He is exposing himself completely.
 
-And Pace—my beautiful, attentive idiot—he sees that Randi is turned on by Vee. He can feel that she’s giving and taking at once. But he still does not ask whether Vee knows she’s being passed between them like this. He’s so principled about Vee choosing every step and so incurious about the information architecture around those choices. That contradiction is now unbearable in exactly the way I’m here for.
+And then: “She knows. She likes her.” / “And the redhead?” / “Not yet.” There it is, stripped of every beautiful argument Pace makes to himself. An uninvolved woman needs about five seconds to identify the complication, and Pace can state the information imbalance in two words without apparently feeling the moral weight of it. Sheri laughs because from outside this sounds like enviable romantic chaos. I wanted to reach into the book and say, no, ask him what *not yet* means. Ask who gets to decide when.
 
-What made the chapter more than a betrayal-delivery system was Randi coming through his door openly pleased. She asks for food now. She wears his shirts. She stays down afterward. She comes to him on an unexpected Friday and lets happiness show before she can polish it into performance. Pace notices every one of these tiny changes and doesn’t seize them or explain them. There is real love here, or something painfully close to it, and I think Randi is using Vee not only to reach toward Vee but to make herself visible to Pace. She can tell him how gorgeous and responsive Vee is because she still cannot quite say, plainly, *look at me wanting her; look at me wanting you to see me want her.*
+I liked Sheri immediately, though I am watching her. The backside comment is crude in a familiar, unthreatening way, and her offer to dislike Vee on Pace’s behalf tells me more about the life he has outside these rooms than another polished confession would. She is loyal enough to become an enemy on request, and he specifically refuses that comfort. Good. He doesn’t want Vee punished for hurting him. He wants her back.
 
-And then “Give her a day.” God. Randi arranged Vee’s delay, dressed her for the reconciliation, predicted Pace’s silence, then came here to fill the Friday she told Vee to leave empty. Pace hears the day as though it is his to give and notices the wrongness—but only enough to “set it beside the rest.” That chilled me. Randi is managing both sides of the absence and presenting herself to each as the person who understands the other. She gets Vee’s dependence, Pace’s gratitude, and this whole night alone with him inside the space she created.
+This is barely a chapter—it feels like one clean breath between the rupture and the return—but it earns the smallness. The ride keeps moving; Peter accidentally says too much; one outsider spots the coming collision; done. I’m not frustrated yet. I am absolutely turning the page because Vee is supposed to arrive tonight wearing Randi’s choices, and now I know Pace spent the morning talking about her like a man who has already lost any hope of being casual.
 
-The sex was a three for me because it wasn’t interchangeable sex. Randi’s desire for Vee is the engine, Pace’s arousal at Randi finally speaking that desire is the fuel, and the whole concealed structure is right there in the bed with them. It is explicit, specific, and psychologically filthy. Exactly what I keep hoping this book will dare.
-
-I am already reaching for the next chapter because Vee is about to walk into that house wearing Randi’s shoes and scarf, believing the day apart made her return fully her own choice. Her apology will be sincere. Her wanting will be sincere. Pace’s tenderness will be sincere. And Randi has choreographed the frame around all of it. This is going to hurt.
-
-GATE 30 — Space
+GATE 31 — hills-and-valleys
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 3
-ROMANCE: 3
+CAPTURE: 7
+NEXT: 9
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Randi turning Vee’s trusted confession and involuntary physical reactions into erotic currency with Pace made me furious and completely riveted. The tenderness among all three is real, which makes the manipulation land harder—and I need to see Vee walk into the space Randi has so carefully arranged.
+WHY: The chapter itself is a quick, quiet bridge, but Peter helplessly cataloguing the tiny ways Vee sees him landed hard. “Not yet” also made the concealed structure sound newly indefensible, and I need to see what happens when she walks back through his door.

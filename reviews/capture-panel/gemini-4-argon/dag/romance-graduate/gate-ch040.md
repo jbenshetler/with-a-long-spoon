@@ -1,20 +1,22 @@
-*capture-dag-v2-rich · gate ch040 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · 2026-10-21*
+*capture-dag-v2-rich · gate ch040 · gemini-4-argon · romance-graduate · prompt-sha 30694771b497 · prose-sha 2764101f080c · 2026-10-21*
 
 REACTION
 
-Wait — first of all, did chapters 38 and 39 just happen out of order, or did chapter 38 flash forward to the next Friday with the bathroom drawer while 39 and 40 are tucked into the week in between? Because in 38 she found the cleared-out top drawer on Friday, and here on Tuesday she's still worrying about her things scattered across his counter from Saturday (*Did he mind*). Once I clicked that 38 was a triptych spanning the whole week and now we're inside the Tuesday of that week, it worked, though it made me blink for a second!
+My stomach dropped to the floor three separate times in this chapter, and the worst part is how devastatingly tender the whole thing is while it's happening.
 
-God, I loved the rhythm of this chapter, though. This is the exact kind of quiet interior chapter that usually makes me nervous when there are two in a row (39 was short and quiet, and now 40 is just Vee in a pool by herself), except the writing is *so* good and so true to being inside a body that has been doing a sport since age twelve that I was completely hypnotized by it. The way the sentences strip down as her heart rate climbs — from full thoughts about Cassie's *"Do you love him"* and the bathroom counter, down to *"Do you love him. The wall, and the roll, and the black line coming under her again. Did he mind. Breathe every third,"* and then down to *"him, and the ache, and the count,"* and then just *"Then the count."* Anyone who has ever swum laps or run distance to sweat the words off a feeling knows that exact neurological click where the oxygen debt takes the language away and leaves only the shape underneath.
+First: *"He's all mine, she thought."* Right before she asks him, *"Who does this to you when I'm not around?"* I literally held my breath waiting to see how he would dodge that, and he says, *"Sometimes I take care of it myself. Thinking of you."* Which is technically true—notice the word *sometimes* doing all the heavy lifting there—while completely erasing the other woman who is also in his bed when Vee isn't around!
 
-And that four-stroke thought in the middle of the set stopped my heart a little: *whether the man she was turning over was Pace or was somebody she had built out of wanting him — whether he was that good or she had made him that good, out of wanting, out of two months of being looked at like that.* Look at Vee! The girl who blindly swallowed a mean blonde's lie in a bar a week ago is now clear-eyed enough in the middle of a swim set to wonder if she's idealizing him — and the heartbreaking comedy of it is that she *isn't* making up how good he is to her (he really did give her the top drawer!), while at the exact same time she has no idea about the massive secret sitting underneath the whole house. That is why she said *"maybe"* to Cassie. Her gut knows there is a door he hasn't opened, a word he hasn't given her, a shape in the dark she can't name, so even when she knows she loves him, she can't say *yes* out loud in a bright dorm room without a dread riding it.
+And then the photograph. God, the way he poses her—moving her shoulder, her elbow, her free hand along her hip, one knee ahead of the other, and putting his mouth on every single place his hands just set her. And the detail that he uses *her* phone instead of his own so that she holds the image first, sees herself the way he sees her, and has to actively choose to hit send and watch it turn to *Delivered*. That is peak romance-hero intimacy. Except my brain is screaming: *She made him promise never to share her with anyone, and now there is a naked pinup photo of Vee on Pace's phone!* Even if he truly means his promise not to show it to Randi, how long before Randi sees that photo on his screen, or Vee brings up taking a photo at Sunday brunch and Randi realizes Pace has something of Vee's he didn't share with the house?
 
-That said — that's two quiet, short, cooling-down chapters in a row after the weekend peak. I loved the sensory honesty of the pool, the green-and-white suit that hasn't fit in years, and *"her arms feeling like they belonged to somebody generous,"* but I am very ready to get back in the room with Pace or Randi on the next page.
+Then we get to the kitchen, and just when I'm melting over the lemon-caper chicken piccata and him watching her take the first bite (calling back to what he said in bed about what he thinks of when he touches himself—which killed me), Thanksgiving drops. *"I don't go back."* The way his face goes level and exact—that connects right back to him leaving for college at fifteen and that long surgical scar on his thigh he won't talk about. What did his parents do to him? And I love that Vee has the emotional intelligence not to pry when she feels that closed door, just letting the quiet be kind.
 
-GATE 40 — Strokes
+Wait—and he mentions Sheri! By name! And Vee gets a tiny flicker of jealousy over *Sheri* sitting at his table on Thanksgiving, and immediately lets it go because she can hear the plain, unguarded friend-fondness in his voice ("She's alone"). Meanwhile, where is Randi for Thanksgiving?! And what happens when Vee realizes Sheri is the tiny bleached-blonde from the Rusty Nail? Every single domestic beat in this house is a masterclass in tenderness sitting directly on top of a ticking bomb.
+
+GATE 41 — In His Hands
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 0
-ROMANCE: 2
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The prose in the pool was hypnotic — watching the swim strip her anxieties down from full sentences to rhythm and breath felt completely real — and that four-stroke flash of wondering whether she's invented him out of wanting hit hard. Still, that's two short, quiet chapters back-to-back, so I'm ready for the story to put two people in a room again right now.
+WHY: The intimacy of him posing her for the photo with kisses at each joint and using her phone so she has to choose to hit send is top-tier romance, made ten times more electric by the dread of *"He's all mine"* and *"Only if you promise you'll never share me with anyone."* Plus, that chilling *"I don't go back"* about his parents and him finally dropping Sheri's name at the dinner table have me desperate to see what happens next.

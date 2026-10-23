@@ -1,24 +1,22 @@
-*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 9782a926aac2 · 2026-10-01*
+*capture-dag-v2-rich · gate ch039 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 0f8a1c3bd12a · 2026-10-01*
 
 REACTION
 
-God, Cassie hurts my heart. She really is the only pure, clean mirror in this whole damn book, and watching Vee sit backward in that dorm chair, completely lit up from the inside out, bubbling over like champagne while Cassie just *watches* her… it physically aches.
+God, I felt this in my lungs.
 
-Because we know what Cassie is seeing. Cassie is seeing her best friend slowly, completely slip away into an obsession. Not just a boyfriend—an orbit. Vee isn't coming home on school nights anymore. She’s living in an oversized house off Route 614, eating warm tomatoes half-naked at a handmade table, getting her own bathroom drawer cleared out, and she thinks she’s just… stumbled into a fairy tale.
+After the absolute sensory overload of the last few chapters—the brunch confessions, the sticky fingers, getting spanked over a bet in four-inch heels, flashing him in the hallway, the dress debut—we needed this breath of pure chlorine. And Vee needed it even more than we did.
 
-And that moment right there: *"Cassie listened with no face on at all and let Vee talk herself out. Then she said, 'You don't come home school nights.'"*
+What a brilliant, grounding chapter. The physical rhythm of swimming laps—breathe every third, the black line on the floor, the cold tile, the bad butterfly swimmer—is such a specific, unglamorous, solitary kind of labor, and it’s the exact antidote to the high-gloss, scented web Randi and Pace are weaving around her. Down here in the pool, her body isn’t a performance, it’s not an appetite to be fed or dressed up in silk or spanked until it’s pink. It’s just an *engine*.
 
-No accusation, just a fact laid down on the dorm rug. Cassie isn't judging her, she isn't even trying to claw her back, she’s just marking the tally. Vee had boyfriends before who were "fine," and now she’s being completely consumed by a man whose real name she whispers to his sleeping back, unaware that his sorority queen ex/partner has a key to the front door and her clothes folded over the spanking bench.
+And of course, the second she gets into that mindless, rhythmic rhythm, Cassie’s voice drops right into the lane. *Do you love him.* Cassie is the only mirror in Vee's life that doesn’t have a funhouse tint to it. And Vee’s panic—that brief, terrifying wobble around the seventh hundred where she wonders: *is he actually that good, or did I build him out of wanting?*—that gave me genuine chills. That is the smartest, most psychologically astute thought Vee has had in this entire book. She’s finally brushing up against the edges of the illusion. She senses, even if she can't name it, that the Pace she loves might be a bespoke construction tailored to her deepest hungers.
 
-When Cassie asks, *"Do you love him,"* and Vee goes quiet—that got me. After the huge, sweeping internal declaration at the end of the last chapter where Vee admitted it to herself in the dark, she can’t quite give the whole word over to Cassie. *"Maybe... I think so... It's all so fast."* Because saying it out loud under the harsh, unromantic dorm fluorescent lights makes the danger real. It admits that she’s over the cliff.
+It’s quiet, it’s completely clothed, there is zero sex, and yet the emotional stakes are ratcheting up so fast. She swam it out just to quiet the question, but the question is in the water now. It’s not going away.
 
-It’s a short, quiet bridge of a chapter, but honestly, after the sheer frantic heat of the spanking bet, the pastry confession with Randi, and the drawer reveal, this little pocket of dorm reality felt necessary. It grounds the tragedy. Vee is glowing like a streetlight, and Cassie is turning the page of her textbook, just waiting for the bulb to shatter.
-
-GATE 39 — School Nights
+GATE 40 — Strokes
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
 HEAT: 0
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: It’s a quiet breath between storms, but Cassie’s grounded, no-bullshit presence provides the exact emotional reality check Vee needs right now. The dramatic irony is humming so loud it practically vibrates off the page.
+WHY: A masterclass in pacing; dropping Vee into the solitary, unvarnished discipline of swimming laps gave her the exact quiet space she needed to finally ask the most dangerous question in the novel—whether Pace is real, or just something she built out of pure starvation.

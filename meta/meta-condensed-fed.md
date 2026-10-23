@@ -1,6 +1,12 @@
 # Condensed — Fed
 
-*SCENE · Unwritten · within a few days of the first night · SATC · off-campus (brunches relocated after {{Dear}})*
+*SCENE · Draft complete · Sat Oct 10 – Sun Oct 11 · two-day diptych · dorm / off-campus (brunches relocated after {{Dear}})*
+
+**Current shape (author ruling 2026-10-23):** the former *Toenails* opens this chapter as the Saturday/Cassie movement (see [its brief](meta-condensed-toenails.md)); the Sunday/Randi movement below follows a scene break. Both passages were initially retained verbatim under *Fed*, preserving *Famished / Fed*.
+
+**Follow-up, same date:** author approved reducing both telling summaries and removing Sunday's replay of Cassie's account (225 words across three paragraphs). The initial prose-preserving merge and its four cold reads precede this reduction; the same four subscription readers have since been rerun on the shortened draft. Both confidantes still receive the same material as before; the midnight-kitchen passage and relationship beats are unchanged.
+
+**Explanation pass, same date:** author approved a further 85-word reduction: repeated disclosure motive, duplicate blush announcement, preamble to Vee's declaration, and the closing functional definition of Randi. The full blush, declaration, childhood longing, and protected kindness passage remain. Six cold reads and fifteen capture gates describe the preceding 2,913-word draft; current draft is 2,828 words.
 
 The post-first-night debrief. Vee arrives **already carrying the floozie-shame** (the thing she couldn't give Cassie) — which is *why* she couldn't tell Cassie, and which gets **worse** in the retelling: with Pace she was fully in the moment, no gap; in daylight, narrating the sweet, amazing, fully-present thing to another woman, the gap reopens and describing the response reintroduces the self-watching being-with-Pace had suspended. The more honestly she tells it, the more exposed she gets. **Randi catches the floozie-flush at the moment of maximum exposure and converts it to pride/aliveness** — the genuine kindness that is also the threesome on-ramp. The conversion is **drawn out of Vee, not pronounced**: Randi steers until Vee speaks her own pride, so Vee owns the reframe and it sticks. This is the channel Cassie structurally couldn't be (Cassie can't catch a flush and turn it to pride). **Post-Fitting/post-brunch, so jealousy is live and the conversion is deliberate operation** — and because she's operating, **no tell** (the operation is the discharge).
 

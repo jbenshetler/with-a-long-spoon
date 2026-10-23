@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch023 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 96625992569d · 2026-10-10*
+*capture-dag-v2-rich · gate ch023 · gpt-6-astra · romance-graduate · prompt-sha 30694771b497 · prose-sha 8d06f617de36 · 2026-10-10*
 
 REACTION
 
-Oh, Randi. “You cooked. You shouldn’t have.” Coming straight after she’s listened to Vee describe being blissfully fed in this kitchen, that hurt before either of them started arguing. And the small bowl he slices her apples into. There’s a whole existing intimacy there, and suddenly she can’t eat any of it. I wanted her to tell him why. I also wanted him to work out one single thing without needing a diagram.
+Oh, thank God, they can be ridiculous together. I needed this after that horrible dinner with Randi. The dress stuck halfway up, Vee laughing too hard to cooperate, Pace physically reacting when she repeats the thing she’s just discovered he likes—that got me. She’s learning how to undo him. And she’s enjoying herself enough to interrupt perfectly good sex because they are about to ruin expensive silk. I like her so much more when she gets to be funny inside the wanting.
 
-I’m relieved she finally says he’s being selfish. I’ve been waiting for somebody inside this arrangement to notice how comfortably he occupies its center. But then: selfish toward whom? Randi wants her turn, and Vee still doesn’t know there are turns. “How do I get her from where she is to us” made my stomach tighten. There it is. An actual destination they’ve agreed on while she thinks she’s discovering her own life. I believe he wants her choices to matter. Hearing him defend those choices to the person helping conceal what she’s choosing makes me want to shake him.
+The fingers in his mouth absolutely worked on me. Especially after the practical business of wiping her hands on him, which is such a gloriously cheeky thing to do while he’s standing there protecting her dress. That little doubtful check about whether her hands are clean, followed by him taking his time: yes. That’s the moment I would be texting someone about. The feet on his chest worked too. She puts him where she wants him, he stays, and then she gets impatient with the looking she invited. There’s an actual person having this sex.
 
-And his private answer to being called selfish is that he finished the hem instead of touching her? Pace. Please. You do not get to settle this by remembering how admirably you resisted a wet girl.
+And his excitement about showing her the dress is lovely. I’ve rolled my eyes at how many things this man can do, but I believed that helpless grin. I believed her crying, too. Having something fit the body you actually have, after years of treating that body as the fitting problem—yes, I understand why she needs a minute in front of the mirror. Her taking off the underwear herself and then striding out to him gave me the pleasure I wanted from this scene.
 
-The sex felt lonely. I felt a brief charge in Randi taking over, then her closed eyes and his waiting for “tell me” swallowed it. That missing request got to me more than the force of anything she did. Whatever she normally gets from bringing Vee into their bed through his voice, she cannot bear it tonight. I don’t know whether she’s trying to have him back or get through needing him. I wanted to be closer to her than he could let me get.
+But I am carrying Randi’s untouched bowl into this house. Pace gets this whole glorious afternoon, and Vee gets to feel uniquely adored, and neither feeling makes the previous chapter go away. His care can be this tender while his arrangement is this dishonest. That’s becoming harder to sit with precisely because I’m enjoying them. I also caught myself thinking: he made her a dress that needs shoes she can’t afford. Does he know that? Does she get to say that without feeling she’s spoiled the gift?
 
-Then he saves her bowl. Annoyingly, that nearly undid me. He’s hurt, he’s bewildered, and he still puts the food away for her. I can care about that man and be furious with him in the same breath. This is the first chapter after their lovely Friday that makes me feel the floor actually shifting. I’m reaching for the next one, especially if Randi finally gets to be alone with her own thoughts.
+The ending gave me a small, unpleasant catch. I love her imagining walking into a room without shrinking. But coming late to her own academic induction so everyone can look, and “what she was for”—oh, Vee. I want her to feel beautiful there. I also want her to remember what she earned. I can’t quite tell how much that last thought troubles her, if at all, and it troubles me.
 
-GATE 23 — Portion
+I’m thoroughly fed on the heat now. I don’t urgently need another bedroom. I urgently need to know what Randi does with being left outside this happiness, and what happens when Vee wears that dress among people who know other versions of her.
+
+GATE 24 — Peekaboo
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 1
-ROMANCE: 2
+NEXT: 8
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This made the secret arrangement feel painfully inhabited: Randi has needs Pace isn’t hearing, and his certainty about Vee’s freedom is getting harder to stomach. The untouched food and the saved bowl held me; I want to know what Randi does when being patient stops being possible.
+WHY: The laughter made the intimacy feel lived in, and Vee discovering her effect on him kept me completely there. I’m satisfied by this afternoon and still uneasy about the people around it—which is a very good reason to turn the page.

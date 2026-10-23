@@ -1,28 +1,26 @@
-*capture-dag-v2-rich · gate ch033 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 5274d9c5fd04 · 2026-10-01*
+*capture-dag-v2-rich · gate ch033 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 230524645ef4 · 2026-10-01*
 
-REACTION — Oh, this chapter knew exactly where my attention was and then turned my chair.
+REACTION —
 
-I was already soft from the carryover of Pace. The beginning has that dazed-after feeling I love, where Vee is walking around campus but still emotionally in his house, still smelling like him, still not fully returned to ordinary life. And then Cassie on one side and Randi on the other in lecture felt almost too neat in the best ominous way: the clean friend, the dangerous friend, Vee in the middle pretending she is just going to stats.
+Oh. Oh, I liked this more than I expected to, because Pace isn’t even there and somehow he is everywhere: in the dress, in the memory of the mountain, in the fact that this ceremony mattered because he remembered it mattered. I felt that little ache of him missing it, not melodramatically, just the real-life bad timing of it. The dress was made for a moment he couldn’t watch, and that made the whole chapter feel privately charged before Vee even stood up.
 
-The outlier lecture got me. I know I am supposed to be wary of the book underlining its own structures, but I didn’t mind it here because Vee is the carried-forward effect. Or maybe the spanking is. Or Randi is. Or the secret. The first kind of outlier can be lifted out and the line goes on; the second kind is in everything after. That’s exactly what this chapter felt like: not one hot little incident, but something entering the part of Vee that carries forward.
+And Vee. God, Vee. This is the version of her I keep waiting to see: not being steered in the moment, not being coaxed by Randi, not being held by Pace, but deciding. That second step got me. The first careful little step, then the long one. That is the whole book’s argument in one movement, isn’t it? She could have made herself modest and safe and invisible, and instead she gave the room exactly what she chose to give it. I felt proud of her in a way that surprised me.
 
-And then Vee asking Randi to walk her out. That mattered to me. It made me sit up. For once Vee is the one reaching, selecting, pulling Randi away. I want that so much, because I need Vee’s wanting to be hers if I’m going to stay with this. But of course the minute they get into that practice room, Randi becomes Randi again: warm, precise, predatory in a way I can’t quite condemn because Vee is so responsive to being seen. I hate how good Randi is at finding the live wire. I also understand why Vee keeps handing her the pliers.
+It’s erotic, yes, but what worked for me is that the erotic charge came through her ownership of it. Not “oops, everyone saw too much,” not humiliation imposed on her, not a man arranging the room around her. She understands the danger and the thrill and chooses the long step. I believed the heat because I believed the pride.
 
-The practice room setting was filthy in the quietest way. A piano closet, soundproof, lunch hour, two chairs facing each other. Nothing even happens between them physically except talk and looking, and still I felt more exposed than I did during plenty of actual sex scenes. When Vee realizes she is not just telling Randi the story but reliving it for her, I got that stomach-drop feeling. That is the heat I came for: desire arriving before she has language, desire that frightens her because it is hers.
+Cassie was perfect here. “You look—” and stopping? That’s Cassie throwing rose petals. And “Honor student” made me grin because she sees exactly enough and doesn’t need to pry the rest open. She documents it, too, but cleanly. There’s such relief in someone who can witness Vee without consuming her.
 
-But Randi’s question, “Did you deserve it?” That was the closest I came to pulling back. Not because the kink itself bothers me. It doesn’t. The chapter knows very well why it’s hot. What bothers me is Randi shaping the meaning before Vee has named it for herself. Pace saw the reaction and didn’t force the name onto it. Randi absolutely does. She slides “deserve” under Vee’s tongue and waits for her to swallow it. That is hot and not clean. The book knows it’s not clean, I think, but I am watching very carefully.
+The photo to Pace is delicious and complicated in a way I actually trust for once. He gets the dress. He gets what he made. But “that part was hers” mattered so much to me. She is not sending him the whole interior of the moment as tribute. She keeps some of it. After all my worry about everyone else making Vee into shared material, I needed to see her keep something back because it belonged to her.
 
-Still, I could not look away from Randi’s story. The little “apologized to the furniture” man, over-the-knee, counting, humiliation, the hand slipping. It’s not even about him; it’s about Randi handing Vee a map with X’s marked all over it. And Vee’s body believes the map immediately. The bathroom scene got me hard because she stops herself. That “Not here. Not over a story. To do that would be to say yes to it” is exactly the kind of inside-her-desire thing I need. She is overwhelmed, but she is not absent. She is drawing a line even as her body is racing ahead of her.
+Randi’s hands are in the chapter too, through the shoes, and that made me nervous in the usual way, but she wasn’t present enough to take over. The shoes helped make the walk possible, maybe, but Vee took the step. That distinction is everything to me right now.
 
-And then Randi just breezes away. That made me angry in that delicious, anxious way. Was she being kind by letting Vee recover? Was she being strategic by pretending it was nothing? Both, probably. That’s the trouble with Randi: every tender thing she does can also be a move. And Vee barely clocking the goodbye kiss now, then noticing her own arms are slow to let go? Please. She is in so much trouble.
+Mostly I feel like texting someone: “She just walked across a stage in the dress with nothing underneath and made it HER decision and I am unwell.” This chapter didn’t answer the big secret. It didn’t push the Pace/Randi machinery forward. But it gave Vee a clean, public-private victory, and I wanted that for her badly.
 
-I still want Pace back in the room, though. Badly. I want him to handle this discovery with the same care he handled the porch and the apology and the ridiculous pie. I want to see if his control really does make room for her. Because this chapter made the desire bloom, but it also put Randi’s thumbprint on it, and I am no longer relaxed about who gets to name Vee’s wanting first.
-
-GATE 33 — The Practice Room
+GATE 34 — The Induction
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 1
-ALMOST-STOPPED: “So. Did you deserve it?”
-WHY: This chapter absolutely had me by the throat: Vee choosing Randi, Vee’s body betraying and revealing her, the soundproof room, the bathroom refusal to turn arousal into permission too quickly. But Randi steering the meaning of the spanking before Vee can own it scared me, and I need the book to keep knowing that’s dangerous.
+CAPTURE: 8
+NEXT: 7
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: none
+WHY: This pulled me because Vee’s desire felt self-authored and alive, not managed for her. I still want the hidden game to come due soon, but this chapter bought patience from me by letting her own a moment completely.

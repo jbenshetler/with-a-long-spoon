@@ -1,22 +1,20 @@
-*capture-dag-v2-rich · gate ch058 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 213059ecdcb4 · 2026-10-11*
+*capture-dag-v2-rich · gate ch058 · gpt-5.5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 750baf7f17dc · 2026-10-11*
 
-REACTION —
+REACTION — I needed this one. After all the huge, feverish doorway and naked-house chapters, I liked seeing Vee just... walk into daylight with it. Not the whole truth, obviously, but enough of it. Enough to be a girl at brunch with her friends saying, I did something outrageous and it worked, and having them shriek and laugh and understand the apology part of it instead of making her smaller.
 
-Oh, this was such a relief chapter. Not huge, not explosive, not one of the ones where I’m gripping the book, but I needed it. I needed Vee back in the room with Cassie, with the radiator clanking and the dumb dorm smells and the window cracked open like a little act of rebellion. After all that naked, aching, house-as-kingdom intensity, I liked seeing her bring the weekend back into ordinary air and still have it glow.
+Kayla is a delight. She is too much person in exactly the way Vee needs sometimes: no subtlety, no dark little undercurrents, just waffles as a moral necessity and then total, gleeful support. And Meg! Meg quietly comparing the coat-and-heels apology to maple bacon and Matrix movies made me laugh because it is absurd and also completely right. “Sometimes you have to make it right in their language” is the whole chapter, really. Vee did. Pace did too, with food and care and now wanting to meet her people.
 
-And Cassie, God. Cassie is so good for her because she doesn’t grab at the story. She gives Vee the whole front of her attention, lets her gush, lets her lie a little by omission, lets the absurdity have room. The “Pace shrank your sweater” bit killed me because of course Vee cannot tell the actual version of “I had no clothes because I arrived under a coat like a walking dare,” so her brain invents this laundry catastrophe and Cassie just looks at it, sees exactly the shape of what’s missing, and lets it be funny. That laugh felt intimate in a completely different way from Pace or Randi. Like: here is a friend who knows when not to ask.
+What got me most was how normal the whole thing felt, in the best way. Vee is not hidden in his house here. She is in a sun porch, with coffee and mimosas, letting her friends have a version of the story. She edits it, of course. She keeps the hottest, riskiest parts back. But she is not ashamed. That is the change. The girl who used to divide the picture at the waist is sitting in public saying she flashed him on his porch. I am so proud of her I could squeal into a throw pillow.
 
-I’m still warmed all through by the fact that Vee can be happy in the dorm shower after Pace’s house. That matters to me. She isn’t erased by him. She can come back from that abundance and still love the draft and the bean bag and Cassie’s awful family-cookie report. She has a life. She has places to belong. That makes the romance feel safer, honestly, because Pace is huge in her now, but he isn’t the only room left standing.
+And the dinner invitation is quietly enormous. Pace wants to meet “your people,” and now those people are becoming real around him: Kayla, Meg, Cassie, Randi, maybe Theo. My stomach did a little turn at Randi being included, because oh, that is going to be charged. Brooke’s warning is still sitting there. Randi wants Vee. Pace knows far more than Vee does. Vee is cheerfully assembling all the matches in one room and calling it dinner. Delicious. Dangerous. I am already leaning forward.
 
-The little note about Cassie’s mother thanking her for the card got me unexpectedly. Vee has been so hungry to be chosen and named, and here is this quiet family-adjacent warmth waiting for her too. No drama, no seduction, no performance: somebody’s mother remembers her and wants to see her again. It made me ache a little, because Vee tries to make it tiny and Cassie hears that it isn’t tiny and just closes the subject before it spills. That is such care.
+This chapter did not have the electric physical heat of the last two, but it had something I value almost as much: social proof of Vee coming back to herself. She has friends. She has a life. She has a man who wants to step into it instead of keeping her tucked away behind his door. That matters to me. It makes the romance feel less like a private spell and more like something that might survive the lights coming on.
 
-I did miss Pace and Randi physically on the page, but not in a bad way. This felt like breathing after a long held breath. And also, I am watching the Randi omission. Vee is still going to tell Randi “nearly everything,” and Cassie gets the safe comedy version. That’s true to the relationships, but it also keeps the triangle loaded. Cassie is the ground. Randi is the fuse. Pace is the fire. I want all three in the same room now, badly.
-
-GATE 58 — Unpacking
+GATE 59 — Across
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 8
+NEXT: 9
 HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This was soft landing, not a page-burner, but it made me trust the book more because Vee still has a whole ordinary life around the erotic one. Cassie’s quiet knowing and the mother-card moment gave me real warmth, and now I want the social worlds to collide.
+WHY: This was a bright little exhale, and I liked seeing Vee loved by women who are not Pace or Randi. The dinner setup pulled me hard because it promises worlds colliding, and Randi at that table makes the air feel charged before anyone has even sat down.

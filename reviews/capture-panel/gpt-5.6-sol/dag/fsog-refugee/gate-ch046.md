@@ -1,20 +1,24 @@
-*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha d75264abed57 · 2026-10-07*
+*capture-dag-v2-rich · gate ch046 · gpt-5.6-sol · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 2a7036ffc678 · 2026-10-07*
 
-REACTION — Oh, Cassie. Again she asks the cleanest possible question and leaves Vee completely free to answer it. “Not to your dad. To you.” That went straight through me. No teasing, no seductive interpretation, no secret agenda—just *what is he to you?* And when Vee can’t say, Cassie distinguishes can’t from won’t, accepts “both,” and stops. I trust her so much.
+REACTION
 
-But Vee being grateful Cassie didn’t push and also wishing she had made me ache. She wants help naming this. Maybe she even wants someone to notice that the story she can tell about Pace is a cropped version, just like the photograph: respectable doctorate, hiking, dancing, age close enough not to alarm anyone. Below the crop is the bare leg, the expensive dress he made, the sex, the drawer, the shirt she sleeps in, the dominance, the love—and still farther outside the frame is the truth Pace and Randi are keeping from her. She thinks she’s the one deciding what her family can bear, while she still doesn’t know her own picture has already been cropped for her.
+Oh, that hurt. That hurt worse than if he had simply failed to understand her, because I think he understood perfectly.
 
-The boyfriend question mark bothered me more than I expected. She spends most of her nights in his bed, keeps herself in his bathroom, carries his scent home, and loves him—but they apparently have never plainly said what they are. That could have felt dreamy earlier. Now it feels dangerous. Pace’s actions are wonderfully eloquent, yes, but silence is doing too much work in this relationship. Vee cannot tell Cassie what he is because Pace and Vee have never made the language together, and Pace knows there is a whole hidden answer she has not been allowed to see.
+“I love how good we are together” is such a devastatingly careful answer. He put *love* into the room while keeping it attached to their compatibility, their sex, what her body does—not to her. She offered him the closest thing to an I-love-you she could survive saying, and he answered beside it. Then he wrapped her in all the tenderness I usually melt for, and for once the tenderness made it worse. He knows how to make her feel received without actually giving her the thing she asked for.
 
-And the dress—God. I love that she is proud he made it. I love the weirdness of him: this enormous controlled man at a sewing machine, building beauty for her because she once mentioned wanting it. That remains intensely romantic to me. But her father’s instinct that “too good is its own kind of suspicious” landed with a thud. He would be looking for the wrong catch, perhaps, but there *is* one.
+And Vee knows. Her body knows immediately. That little *wait* behind her breastbone—I felt sick for her. She keeps trying to use his warmth as evidence against her own perception, and then two days later the sentence comes back because her body will not let her falsify what happened. “The two things had not been the same shape.” Exactly. She said: you changed my life. He said: we work well together, and I like what your body does. That is not the same shape at all.
 
-I would text a friend: “Her life is cropped at the waist and she doesn’t know someone else chose the frame.”
+What really frightens me is the pile. The “small repair work” she has already been doing to keep what she believes about him functioning. That is the first time her private doubts have felt less like healthy uncertainty and more like the beginning of self-abandonment. She cannot ask him because she has decided the words must go through him first; he is good at not asking things; and both of them are building a silence that protects him and hurts her.
 
-GATE 46 — Cropped
+I am still gone over him, which makes me furious. The coffee waiting, the heater, the quilt, the hand on her shin, the kiss held against her hair—every physical answer says love. But he had the opening. She handed it to him whole. If he withheld the words because of Randi, because he knows the relationship Vee thinks she is declaring herself inside is not the relationship he has actually arranged, then this is the bill coming due. He cannot ethically accept her love before telling her the truth, but he also cannot keep taking the intimacy, the body, the drawer, the shirt, the whole surrendered heart while letting her believe his careful avoidance is merely reserve.
+
+And she has retired the sentence. That broke me. She tried once, beautifully, and now she thinks the failure belongs somewhere inside herself where failed things are stored. I wanted him to say it so badly. Now I need the truth more than I need the declaration, because another tender morning laid over this silence is going to start feeling like anesthesia.
+
+GATE 47 — Seconds
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 10
+NEXT: 10
 HEAT: 0
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This was quiet, but it pressed directly on the thing frightening me most: Vee cannot name what Pace is to her because their beautiful domestic intimacy still has no spoken frame—and the real frame is being hidden from her. Cassie’s restraint felt like love, but Vee’s tiny wish that she would push tells me she is getting close to needing the question she cannot yet ask.
+WHY: Vee finally reached for him with everything except the forbidden words, and Pace’s exquisitely careful non-answer changed the meaning of all his tenderness. I need to know whether he withheld himself because of fear, because of Randi, or because the love I have been reading in every domestic gesture is not the love Vee thinks it is.

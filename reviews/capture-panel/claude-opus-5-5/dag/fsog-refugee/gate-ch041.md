@@ -1,27 +1,24 @@
-*capture-dag-v2-rich · gate ch041 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 1b25b893b80d · 2026-10-07*
+*capture-dag-v2-rich · gate ch041 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 296605e0be66 · 2026-10-07*
 
-## REACTION
+**REACTION**
 
-Finally. They're alone in a room, and the book doesn't creep up on it. It opens mid-act, her hair falling around both their faces, and I let out a breath I didn't know I'd been holding for two chapters. Then the part I actually read this genre for: his head on her breast, his feet off the edge of the bed, the kisses that are barely kisses, and her own little theory that it's comfort for him and not sex, which falls apart the second her nipple rises under his mouth. She's *pleased* to be wrong. "With Pace she was a girl who had a body, not a body that happened to have a girl attached to it." That's the whole difference I left three subgenres to find, in one sentence. "Again?" and she hears herself liking it. That's her desire, from inside. Good.
+Okay. The first half of this I just floated in. Vee at a glass table again, but this time she isn't handing over a scene, because there isn't a scene to hand over. It's just *the amount of it*. "He takes forever." "Like he wants me. With the body attached." That line went straight through me, because it's the thing I left three subgenres to find, and she found it and said it out loud in a dark booth. Being looked at the other way around, the girl first. Sleeping whole nights in the trees. Eating with the sound off her whole life. I believed every word, because I watched him last chapter. He laid her out for the picture and kissed every place his hands set her. He caught her wrist "not to stop her, only to say it." So she isn't exaggerating, she's describing him.
 
-He's honest about the jerking off, too. He pauses before he answers the way he always does, and then he says the first bite of food, and *glorious in my bed*. I melted. The posing is the hottest thing in the chapter and nobody takes anything off. She asks "How do you want me" and starts arranging herself, and he says no, he'll do it. That could have been the thing I hate, but every place his hands put her, his mouth goes after. Shoulder, hip, knee. He tilts the lampshade. He tries it with the phone turned sideways. "Hm. Yeah. That's the one," and then the boy's grin over the top of the phone, aimed at her and not the picture. It's control that makes room for her, exactly. She offered, she set the terms, he asked "You'd do that?" and caught her wrist only to say *you don't have to*. She calls trusting him the brave part, and the book lets it be brave instead of stupid. I was all the way in.
+Then Randi said "You're just finally hungry out loud," and I didn't want it to be kind, and it was. It's the jacket's own word, starving. Coming from her it's half absolution and half the woman who's been feeding her stories since the practice room. I can hold both. What I can't stop seeing is "It doesn't," low and not quite even, and the catch in her breath. Vee takes it for pride, *my Saturday did that to her*. It isn't that. Randi is hearing a description of being loved properly, and she's either never had it or she's had it with the same man and lost it, and her face went for a second. That's the most real I've ever seen her, and Vee missed it completely.
 
-And then I went cold, because I've been carrying "Not yet" for ten chapters. She says "Only if you promise you'll never share *me* with anyone." He says "Never. I'd never share your *photograph*." She asked about her and he answered about a file. A man who chooses every word as carefully as Pace doesn't shrink a promise by accident. Or maybe he does, maybe it's just a mathematician being exact, but the jacket told me they chose her *together*, and now that picture is sitting in his phone with "Delivered" under it. I read that line three times. It's the tap-three-times-on-the-tooth line, and I'm scared of it.
+Then the phone, and that's where my stomach went. Two weeks ago, as far as I can tell, she made him promise "never share me with anyone," and he said never. Here she shows Randi the cropped one first. That was already more than I wanted. Then Randi does the thing she does. She slides the phone back, "you don't have to show me," lets Vee's own thumb make the call, and then drops "you only gave him *half*?" She knew exactly which nerve to press. Vee flinched at being filed as a girl who flinches, and handed over the whole length of herself to prove she isn't one. It's her body and her picture, and I won't take that from her. But it's his picture too. It's her as his eyes had her, the thing she "gave him to keep." I watched it get pried out of her with a dare dressed up as a compliment. It's the "did you deserve it" brightening all over again, and the book knows it: "past what a verdict needed." Randi looked the way a starving woman looks. I believe she wants Vee. I don't trust how she gets there.
 
-The kitchen is pure comfort. They drink the water first, the way they had the juice before. The lemon zest, "the pan needs it worse than you do," holding hands on the counter and not talking. And the line that she used to just eat and now she tastes, and knows whose doing that is. That's love on a plate, and it's the slow kind of chapter I'll always forgive.
+And then the kiss. Vee leaned up the last half-inch, took a second of it for herself, *decided it was what she wanted*, and didn't fuss about it. That's hers, and I was glad of it, the way I was glad of the stall. Randi held her eyes a beat past what a goodbye needed. Then "Just us," soft and rough, about a Tuesday-Thursday evening anthro section. That means two evenings a week, every week, without Cassie, and Randi said "Is Cassie in?" first, which I noticed.
 
-Then "I don't go back." It's the shelf with a lock on it, and she takes her hand off it and lets the quiet be kind. I loved her for that and I'm worried for her too, because she keeps learning to read his silences as gifts. "This is my home" warmed me more than anything he's said out loud.
+The question I'd text at 1 a.m.: does Randi drive out the gravel tonight and tell him what Vee said about him, word for word? "He takes forever." "Like he wants me." Does he get to hear that from *her* mouth before he ever hears it from Vee's? Is that what this lunch was for?
 
-Sheri at Thanksgiving with a pie she'll pretend she made. Vee's flicker of jealousy is aimed at the one woman in his life I'm not worried about. "She's alone," and the flicker goes out. Meanwhile the woman she *should* be watching gets no mention at all. Randi is absent again. I counted.
+Small things: she ordered the Benedict and paid without blinking. Good girl. And she's already pointed back at the trees, wanting him. Him not being in the room doesn't bother me at all. The last chapter was the two of them alone for its whole length, and this one was full of him anyway.
 
-What I'd text at 1 a.m.: *he kissed every place he put her. also he promised "your photograph," not "you." am I insane*
-
-## GATE 41 — In His Hands
-
-**DECISION:** CONTINUE
-**CAPTURE:** 9
-**NEXT:** 8
-**HEAT:** 3
-**ROMANCE:** 3
-**ALMOST-STOPPED:** none, but the coldest moment was "Never. I'd never share your photograph."
-**WHY:** This is what I came for: a man who arranges her and kisses every place he puts her, and her wanting it from inside. The gap since they were last alone together is closed, and "This is my home" plus "I don't go back" turns the bond. But he narrowed her promise from "me" to "photograph," and with Randi missing from the page I need to know where that picture goes.
+GATE 42 — All the Time
+DECISION: CONTINUE
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "Legs like yours, though — and you only gave him *half*?"
+WHY: Vee describing him was everything I read for, and Randi's "It doesn't" was the first crack of real feeling she's shown. The photo got worked out of Vee with a dare, though, against a promise she made him extract. I need to know where that picture and that whole confession end up next.

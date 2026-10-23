@@ -1,28 +1,30 @@
-*capture-dag-v2-rich · gate ch032 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6e62cd46bbc6 · 2026-10-10*
+*capture-dag-v2-rich · gate ch032 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 5274d9c5fd04 · 2026-10-10*
 
 **REACTION**
 
-I'll start with the pie, because I almost rolled my eyes at it. HUMBLE PIE in a serif font, trimmed with the good scissors, and I thought, oh no, a quirky-heroine bit. Then the book got to the same place before I did. In the driveway, with the engine ticking, she can see it's a joke and that a joke might be the wrong thing to bring. Later she says "That's why the pie is stupid, you can't put a label on that." So the pie wasn't cute. It was something to hide behind, and the chapter takes it out of her hands twice: once at the door, and once as the last thing she thinks before sleep ("like the pie"). Fine. I'm sorry I doubted it.
+Okay. The outliers lecture, "the second kind comes in through the part that carries forward. It's in everything that comes after." I rolled my eyes a little, because this book loves a math metaphor and it's sitting right on the slide. But it never explains itself, and by the end of the chapter I'd stopped minding. Point taken, book: the kitchen wasn't a one-off dot.
 
-The height moment got me. A missed stair is exactly what it feels like when your body has learned someone at a certain angle. I wasn't expecting her to start folding herself down to undo the buckles. It's the bar fight all over again, her assuming the worst and making it about his size, and he just lifts the pie away "the way you take a glass from someone about to drop it." His line about beauty made for the gods made me wince for half a second. Then the narration admits that's his trouble, the extravagant true thing said in a plain voice, and I gave it to him. "Insult the loan": the shoes really are borrowed. Does he know they're Randi's? He looked at the shoes, and he laid the scarf back a half-second longer than he needed to. I'm suspicious. Randi was there last night. She knows her own scarf, but would he? I don't know, and I like not knowing.
+What got me was the turn in the first ten minutes. For weeks Randi has been the one cutting Vee out of the herd. Now Vee has two fingers on Randi's wrist, "Only to Randi," and Cassie is saying *see you in the room* to the side of her head. That's the third time Vee has left Cassie standing there, and every time I flinch for her.
 
-Randi's coaching, "sure, not sorry," is very Randi. It's a technique for handling a man, and it breaks on the first honest question. "But what happened?" He can't leave a closed door closed, and he's the only person in this book who keeps asking what's under things. And Vee *does* cry, wetly. So Randi's lie to him on Friday is now accidentally true after the fact, and that bothers me in a way I can't name yet.
+Then the practice room. Vee edits the story the way she always does: "It was nothing. It was a love tap." She skips the whole middle, the *please*, the second orgasm she'd have paid money to take back. Randi doesn't need any of it. "His hand was wet." That line made the back of my neck go cold, because it's how a good interrogator works: you build the scene from one detail and let the witness walk back into it. And "Did you deserve it?" Vee answers "Probably I deserved it" and realizes a beat late what she's agreed to. Randi's smile brightens. That's not a friend asking. She's taking a sample.
 
-Then the kitchen. Oh. "Soaking is a recognized method" is the best flirting in thirty-two chapters. It's two people with a real joke between them, not banter written to sound like banter. Then the tickling, she swats him, the tap goes off, and the room changes. One smack with a wet hand, and her body says "two or three things at once that she had not agreed to have it say." That's the kink-discovery scene I've read a hundred times and never read like this. Usually she moans "yes daddy" on page two. Here she spends the whole scene covering it up, with talking, kissing, getting on top, hiding her face in his neck, because "a quiet room was a room with a question standing in it." And the cover-up is what's lighting it: every stroke pulls on the sting. Then his hand settles over the print, no new strike, just pressure, and she says "*Please*" twice, "attached to nothing." "This?" And they both leave it unnamed. That's the emotional intelligence I came for, and it's explicit at the same time. I'm fanning myself a little. The first orgasm she can file as "only what it's like with him," and the second one she can't file. That's interiority doing the heat's work.
+Is the mouse-that-roars boyfriend real? I don't trust it for a second. "Slight little thing, apologized to the furniture" is not Pace. Last time Randi told an old-boyfriend story it was Pace in a costume, and she lied to Pace's face about Vee crying. So either this is a real ex, or she built him on the spot as a delivery system: over the knee, counting out loud, the hand slipping, "very welcome." Either way she set every detail down to watch it land on Vee's face, and it landed. The paragraphs stuttered a bit there. The "Mine," and the "And always" run in with nothing between them, and I had to reread to be sure who was speaking. I didn't mind much. It was hot. A woman talking in a chair, nobody touching anybody, and I was right there with Vee in the bathroom.
 
-The Saturday night got summarized away ("first lighter and then not light at all"). Normally that's my trigger. Here it's fine, because the book was saving itself for Sunday, and Sunday was worth it.
+The bathroom is the best thing in the chapter. "Not here. Not over a story. To do that would be to say yes to it." That's a heroine with an inside. She knows exactly what's happening to her, she refuses it, and refusing it costs her something. I loved her for the cold tap on her wrists.
 
-Small snags. "Friday had been two days without sleep" should be Saturday, surely, unless I'm the one confused. Pearls show up from nowhere. "To cover the thing he'd seen with a thing she was choosing" is the book pointing at its own subtext again, though just barely.
+Then the goodbye: "the lighter second touch... so worn-in now that Vee barely clocked it." Her arms are slow coming down, and "She put it down to that." The book doesn't explain it, thank God, and I didn't need it to. The not-bracing from my notes has turned into holding on. Vee is falling for Randi and filing it under being tired.
 
-The ending is soft: hair, "You're always beautiful," and she leaves. It's tender, not a cliffhanger. But she's driving back to a dorm with Cassie in it, after two nights gone and no word, smelling of him head to foot. And somewhere Randi is waiting for a report. Randi will *ask*, and Vee now has something on her skin she hasn't named, even to herself. Does she tell Randi about the hand? I need to know whether Randi gets this or whether Vee keeps it. "Hers," the chapter said. I hope she keeps it.
+Now I'm dreading the next Tell. Randi is going to walk into Pace's house with "his hand was wet" and "she crossed her arms over herself," and he's going to get hard on it again without asking Vee. Pace, my sweet decent man, who saw her face at the sink and *waited* for her, is about to get a version of that face from someone who stole it.
 
-At 1 a.m. I'd text: *the dishes scene. THE DISHES SCENE. he spanked her once by accident and she spent the whole sex scene trying not to let him know she liked it and he KNEW and said "This?" and that's it, that's all he said. i'm unwell.*
+One flag for myself: this is the second Vee-confesses-to-Randi-in-a-closed-room scene in a row. It held because Vee reversed the lead and because of the bathroom, but if there's a third I'll feel it.
 
-GATE 32 — A Recognized Method
+---
+
+GATE 33 — The Practice Room
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 7
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "HUMBLE PIE, in a serif font, centered" — for one paragraph I thought she'd turned into a quirky-heroine bit, and then the book took the joke apart itself.
-WHY: The apology broke on "but what happened," and the accidental spank turned into something she won't name and he won't push. That's depth and heat in the same scene, which is the whole reason I'm reading. NEXT is lower than CAPTURE because the ending let me breathe. But Cassie and Randi are both waiting for her, and I want to see what Vee does or doesn't say.
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
+ALMOST-STOPPED: "The second kind comes in through the part that carries forward. It's in everything that comes after." (a thesis on a slide, nearly too neat)
+WHY: Randi building the whole spanking out of "his hand was wet" was erotic and frightening at the same time, and "Not over a story" gave me Vee's spine right when I needed it. The slow arms at the end mean Randi is getting through her, and I need to see what Randi carries to Pace's table tonight.

@@ -1,28 +1,22 @@
-*capture-dag-v2-rich · gate ch062 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 7514bd75e597 · 2026-10-11*
+*capture-dag-v2-rich · gate ch062 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha f697ae9ef8f2 · 2026-10-11*
 
 REACTION
 
-Holy shit. The psychological warfare happening across this tiny restaurant table is so dense and electric I could barely take a breath. Helen Rivers is writing circles around everyone else in this genre right now.
+Oh, this hit right in the chest. That was breathtakingly intimate.
 
-First of all, the baboon grooming lecture? *Brilliant.* The comb being passed through the room like a physical relic while Dr. Marsh talks about grooming as the foundational currency of intimacy and politics—and then watching Vee and Randi spend the entire rest of the night grooming each other with words, touches, candy, and graphic debriefs. Vee literally handing over every ounce of her sexual life to Randi like a little ape offering its fur to be picked clean, completely unaware that Randi is using every single detail to map the politics of their entire dynamic.
+The psychology here is so sharp it actually hurts. We’ve seen Vee reveling in being the "pleasure princess"—strutting around naked, demanding worship, letting Pace adore her body, letting Randi gas her up—but here, alone in a baking dorm room wearing his oversized shirt, the deeply ingrained female shame catches right back up to her. That belief that her body is *too much*. Too wet, too excessive, a shameful spillover that requires an apology or an absolution.
 
-And that conversation. My God, the conversation.
+And then that reach. God, the tension of her fingers hovering a breath away from her own lips. The collision in her head between Pace’s completely shameless, joyful enthusiasm (*"as if the plenty of her required no pardon"*) and Randi’s cool, devastating admission across the white tablecloth (*"It was powerful. It turned me on"*). She wants to cross that threshold so badly. She wants to claim herself the way they claim her. But she freezes a millimeter short. That hesitation—that inability to close the last fraction of an inch, followed by the immediate, reflexive wipe of her fingers on the sheet like she’s trying to erase evidence—was utterly gutting.
 
-Vee came in with this polished, scripted little stand-up routine: *“I told him ‘Ugh — gross!’ Hand over the mouth! Victorian! Hilarious, right Randi? Validate my neat little box!”* And Randi just refused to play along. That flat, unblinking: *“I don’t.”* And then: *“It was powerful. It turned me on.”*
+It’s the psychological exactness I crave. She can take a man in her mouth in a dark truck cab; she can hike her hips and strip her underwear off while he drives; but tasting *herself*, accepting her own scent and wetness without the buffer of someone else's desire, is the wall she can't scale yet. And that closing image: shoving the window open to freeze out the evidence before Cassie walks in, buttoning up the giant shirt to make herself "respectable," and then deliberately lying down directly on the cold, damp stain she made. *Her mess. Hers to lie in. Her mouth was still empty.*
 
-The absolute collapse of Vee’s performative modesty in that split second made my stomach drop. Randi didn't mock her; she didn't join in the giggle fest; she just laid down the adult reality that women tasting themselves, women desiring each other, that total lack of shame—it’s powerful. And suddenly Vee is sitting there with a mouthful of ashes and a burning cunt, realizing her boyfriend *likes* it, her best friend *likes* it, her own body secretly thrilled to it, and the only person pretending it's "gross" is her own terrified ego.
+What a quiet, devastating, intensely erotic chapter. It didn't need another person in the room to be scorching, because the real battleground in this book has always been inside Vee's own skin.
 
-Then that neck kiss on the sidewalk. Randi’s body catching, rising, holding a beat too long, and having to cover it with a breathless *“Ticklish.”* Randi is going to combust. You can practically hear the iron clad plates of her Southern sorority mask warping under the heat of being touched by this girl. And Vee, the absolute oblivious menace, walking home with her coat pulled tight, completely haunted by her own admission: *He’s enthusiastic. I don’t.*
-
-Vee thinks she’s walking away clean with an empty plate, but she just swallowed the bait whole.
-
-***
-
-GATE 62 — A Clean Plate
+GATE 63 — The Reach
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 2
-ROMANCE: 3
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The subtext in this dialogue is lethal. Randi dismantling Vee's shame-based joke with a four-word reality check (*"I don't... It turned me on"*) was hotter and more psychologically devastating than ten pages of generic smut. I need Tuesday right now.
+WHY: The masturbation scene was intensely hot, but the emotional core—her hesitating a breath away from tasting herself, caught between Randi's coolness and Pace's reverence—was absolute perfection.

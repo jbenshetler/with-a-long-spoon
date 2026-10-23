@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · romance-graduate · prompt-sha 64e37969bd33 · prose-sha 0894d4db7f65 · 2026-09-27*
+*capture-dag-v2-rich · gate ch024 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 0a2a45bceefc · 2026-10-01*
 
 REACTION
 
-*Oh my god.* This was incredible. I am breathless, I am grinning, and I am entirely undone.
+Oh, this was *sickening*. Genuinely, beautifully sickening.
 
-First of all, the sheer erotic competence of this chapter. The physical comedy mixed with absolute, unadulterated, filthy heat?! Having them get caught halfway through standing sex, realizing the custom silk gown is in danger of being ruined by bodily fluids, her having to hold his wet cock in both hands while he unzips the side closure, her wiping her sticky fingers down his flanks, and then him *taking her fingers into his mouth to clean her off them while holding the dress above her head*—I had to put my hand over my mouth. It was so real, so messy, so deeply playful and incredibly intimate. The line *"There’s a lot of you covered in a lot of me"* and him twitching in her hands? That is top-tier writing. It’s what you never get in standard romance: the realization that the best, hottest sex often involves laughing so hard your leg slips off a man’s hip, followed immediately by him carrying you down the hall buried completely inside you until you bounce off the drywall.
+The Simpson’s Paradox framing at the start? "Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them." What an absolute masterclass in dramatic irony. Rivers is practically holding up a neon sign pointing at Vee: you think you are looking at all the data points, but the aggregation is going to destroy you. And having Cassie and Randi sitting on either side of her, the two opposing forces in her life—Cassie quietly watching Vee’s face to make sure her spirit is intact, and Randi playing the long, sensual, predatory con.
 
-And the dress. God, the dress. The description of the burgundy silk lined with oyster-pale fabric, cut so exactly to her measurements that it felt like water finding its level, and then that lethal slit up to the jut of her hip. Watching Vee realize her cotton panties ruined the line, stripping them off right there in the sunlight, and then *striding* to him—strutting on purpose, leaning entirely into the brazenness of it—was pure triumph. She isn’t hiding anymore. She’s weaponizing the gaze.
+And then the shoe trip. God. The shift from the clearance racks—which felt so real, so messy, so funny, two girls giggling over clown shoes—to that suffocatingly expensive boutique made my stomach plummet. Watching Vee put the debit card away and pull out the emergency credit card... my chest tightened. That is a specific kind of financial violence that wealthy friends inflict on working-class girls without even realizing they’re doing it. Or does Randi realize? That’s the knife edge. Randi *knows* Vee doesn't have money, but she also needs Vee styled to absolute perfection for the slaughter. Randi buying multi-thousand-dollar loafers without looking at the screen while Vee commits credit card fraud against her own future just so she doesn’t "flinch" in front of her idol... it hurt. It was visceral.
 
-Except... the dramatic irony is like a physical weight sitting on my chest. Because of Chapter 23, I know what Vee doesn’t. I know Pace didn't sleep because he was up finishing this gown, yes, but I also know Randi was in that very bed on Sunday night, riding him hard with her eyes shut, furious that he was taking too long to break Vee. I know this induction ceremony she’s daydreaming about—the grand entrance in this jaw-dropping gown, stunning the campus—is Randi’s sorority event. Randi *ordered* this dress. Randi wants Vee displayed like a prize heifer, prepped and packaged for their mutual game, and Vee is lying in his bed thinking she’s getting away with something, completely, blissfully in love with a man whose kitchen still has Randi’s untouched stew in the fridge.
+And Randi dropping to her knees! Taking Vee's foot in her hands, touching the frosted plum polish that Vee bought specifically for Pace, feeling the exact sexual ripple run through Vee's body, looking up and smiling. Randi knows. She knows the polish, she knows what Vee feels, and she is feeding on it. "We can share. God help us both, it's practically a marriage." I had to physically put a hand over my mouth.
 
-It is magnificent and terrifying. The tenderness between Pace and Vee feels so genuine—he truly looks at her with wonder, he fell asleep exhausted from making something beautiful for her—which makes the inevitable reckoning a thousand times worse. I couldn't put this down if the house were on fire.
+Vee clutching that shoe box against her chest like a shield, thinking she has never had a friend like this. The fall is going to be fatal. I am trembling waiting for this induction ceremony.
 
-GATE 24 — Peekaboo
+***
+
+GATE 25 — Sorority
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The perfect balance of exquisite, hilarious, high-heat physical intimacy and agonizing psychological dread—watching her fall completely in love while walking straight into the trap is utterly addictive.
+WHY: The tension is suffocating in the best way; watching Randi psychologically and financially bend Vee into the exact shape she wants, all while masquerading as the ultimate female friendship, is peak slow-burn horror. I have to see Vee walk into that room in the dress and the shoes.

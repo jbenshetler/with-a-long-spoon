@@ -1,26 +1,20 @@
-*capture-dag-v2-rich · gate ch057 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha bb2635a8b1b0 · 2026-10-11*
+*capture-dag-v2-rich · gate ch057 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 213059ecdcb4 · 2026-10-11*
 
 REACTION
 
-*Oh, my god.* My stomach just dropped out through the floor.
+God, I love Cassie. I needed this chapter like air after the absolute emotional rollercoaster of the last few. Vee walking into that overheated dorm room, fresh off two days of pure, decadent, naked bliss in Pace’s king-sized bed, trying to translate that intoxicating private world into something she can say out loud to her grounded, cynical best friend—it’s just perfection.
 
-I was sitting here melting—literally *melting*—because on the surface, this is the most romantic, attentive, Fifty-Shades-level fantasy beat a man could possibly pull. She’s sitting naked in a chair he built with his bare hands, drinking wine, rambling at his back the way women do when they feel completely safe, and he starts pulling names out of thin air. Meg. Her boots from October that slipped at the heel. Kayla talking paint off a wall. *Bring Theo.* No jealousy, no petty ego, just pure, total recall of every tiny syllable that has ever crossed her lips. It feels like absolute devotion. It feels like the answer to her walkout: *I don't just want you hidden in my dark house anymore; I want your whole world. I want to meet your people.*
+The lie about the laundry! *"Pace shrank your sweater."* *"To a doll size."* Watching Vee frantically invent a destroyed wardrobe on the fly because she literally cannot tell Cassie, *“Actually, Cass, I drove out there with literally nothing on under my trench coat and then spent forty-eight hours completely bare, having gourmet blood oranges fed to me while acting like a pleasure princess,”* had me wheezing. And Cassie *knowing*. She didn’t press, she didn’t interrogate, she just laughed that rare, full laugh because she loves Vee and can see how incandescently happy she is, even if the math on the shrunken sweater makes zero sense.
 
-And then the cold, sick reality hits: **Randi is one of those people.**
+And then that tiny, quiet beat at the end about Cassie’s mother. *"My mother says thank you for the card. She wants to know when she gets to see you again."* My throat tightened right up. Vee has been so completely starved for maternal warmth, for real family care that doesn't come with strings or rigid expectations, and Cassie’s family just quietly making room at their table for her hits so deep. It’s the exact counterweight to the intense, hyper-sexual, secretive world she lives in with Pace and Randi.
 
-Vee says, *"We could do a dinner. The three of us."* And Pace—standing there with his sleeves rolled, scrubbing a pot—doesn't choke. He doesn't flinch. He just smoothly pivots to dilute the room: *"Bring Cassie, too."*
+It’s cozy, it’s funny, and it lets Vee just *breathe* for a second before the storm hits. Because you know the storm is coming. Pace wants to meet her friends. Randi is in that mix. The collision course is set, but right here, in this narrow top bunk with her hand flat against the cinderblock, Vee feels safe. I’m holding my breath for how long that safety lasts.
 
-He and Randi have been fucking on his living room furniture. Randi has his cashmere blanket on her bed. Pace and Randi plotted *together* on the lawn in September to target Vee. And now Pace is volunteering to stand in a public room, acting like he’s meeting Randi for the first time, while Vee beams with pride because her two favorite people are finally in the same room. It is breathtakingly sociopathic.
-
-The tragic part is that he *does* love her. He remembers the boots. He remembers Kayla. He wants to give Vee this party because he knows he almost lost her forever in December. But he is building this entire public debut on top of a landmine, and he’s doing it with a calm smile. If Cassie is in that room, with her sharp eyes, watching Randi and Pace interact... Cassie is going to smell the smoke instantly.
-
-"Let me handle it," he says. Pace, you arrogant, beautiful idiot. You think you can calculate the arithmetic of a room containing your secret lover, the girl you worship, and the skeptical roommate who already hates the dress you sewed? This party is going to be a bloodbath. I need the next chapter right this second.
-
-GATE 57 — Back
+GATE 58 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 8
+NEXT: 9
 HEAT: 0
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The absolute whiplash between how tender Pace's attentiveness is and the terrifying dramatic irony of putting Randi, Vee, Cassie, and Pace in the same room. I could not put this book down right now if my house was on fire.
+WHY: The banter between Vee and Cassie is so genuine and grounded; Vee trying to cover for being naked all weekend by inventing a laundry disaster was hilarious and endearing. It's a gorgeous breather that grounds Vee's real life right before the inevitable collision of all her separate worlds.

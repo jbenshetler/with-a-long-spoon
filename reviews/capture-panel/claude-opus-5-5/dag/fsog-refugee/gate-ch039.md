@@ -1,22 +1,24 @@
-*capture-dag-v2-rich · gate ch039 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 9782a926aac2 · 2026-10-10*
+*capture-dag-v2-rich · gate ch039 · claude-opus-5-5 · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0f8a1c3bd12a · 2026-10-10*
 
 **REACTION**
 
-Oh, Cassie. Folded into the bean bag with her window cracked two inches, calling Vee a public utility. I've missed her. She's the only person in this book who asks Vee a question and doesn't want anything back, and this time she asked the big one, flat and plain, the way you'd ask what time it is. "Do you love him." Vee, who couldn't stop talking from the door on, went small.
+I came out of this one quieter than I went in, which I think was the idea.
 
-What got me is that I know something Cassie doesn't. Last chapter, alone in his bed in the dark, Vee said it to herself with no hedging at all: *She loved him. There.* Here it comes out as "Maybe. I think so. It's all so fast." She's shrinking it for Cassie the same way she kept the middle of the night from her, the ladle that leaves no hole. Maybe it's only that the word is too new to say out loud. Maybe some part of her knows Cassie's "you don't come home school nights" isn't nothing. Either way I liked that Cassie let the maybe stand and went back to her book. She didn't argue it and she didn't bless it. That's love too, the kind that doesn't need anything from you.
+My first reaction was a small irritated *wait*. "Did he mind"? He gave her the drawer. He packed his own things into one drawer so hers could have the top one, the one your hand goes to first. That was the best thing in chapter 38, maybe the best non-sex thing he's done, and here she is in the lane still asking whether he minded the counter. It knocked me out for a second. Then I decided I believe it anyway. A woman with a "floozie" voice in her head doesn't stop asking because a man handed her one drawer. Being given the answer and not being able to keep hold of it is the most Vee thing there is. I'm still not sure the book meant it that way rather than losing track of its own week, but it reads true either way.
 
-The tomato burn made me laugh. Cassie's "Not enough on" is exactly the friend I'd want. And under the joke there's something lovely: a house warm enough that Vee never thinks about how much she's wearing, and a man fussing over a small burn for days. That's the care I came for, set down in a dorm room in passing, as if it were ordinary now. It's become her normal, and that's what moves me.
+What actually got me was the four strokes: "whether he was that good or she had made him that good." That's the question I've been carrying since chapter 30, and the book just put it in her head. She doesn't know what I know. She doesn't know Randi drove up the gravel that Friday, or that her black lace bra was narrated into his ear. She doesn't know "She's ashamed" was handed over across his pillow. Then the bet chapter landed and I let myself go soft on him. He said "Don't" and the hand was just gone, palm up. He said "Slow. For me," and she felt it was *asked*. He brought juice and said "wonderful" until she fell asleep. That's the man I left a whole genre looking for, and I'm almost embarrassed at how hard it worked on me. But Sheri's "She know about the redhead?" / "Not yet," the practice room, and "Sticky fingers?" are all still sitting there. Vee is building a man out of two months of being looked at, and some of that looking was Randi's handiwork. So a chapter where she's alone, a little afraid, and asking herself if he's real felt like the book standing a little closer to her than I expected.
 
-The thing I'm holding my breath over: Randi isn't in this chapter at all. Vee's been telling Randi the spanking and the bet and "he checked" over mimosas, and telling Cassie about tomatoes. One friend gets the body and one gets the heart, and only one of them is lying to her. It's been a long sweet run since the porch door: the drawer, the scrunchies, the juice, "always beautiful." The book is letting me get comfortable, and I don't trust comfortable with that brunch still in my mouth. "Sticky fingers." A pastry glaze on her lip she never touched. Something's coming. I'd almost rather Cassie was the one who sees it first.
+I loved the swimming itself, too. Breathe every third, a hymn you're already in the second verse of, a body that "had opinions all day long" and has none in the water. It's her version of his lift, "only this lift." That's two people who can only go quiet one way, and she doesn't know it's a match. She also said "maybe" to Cassie when the answer was right there, while she has already told a sleeping man "Peter." The dread riding under "do you love him" is the realest thing she's felt on the page in a while.
 
-Quiet chapter, real care. It cost me nothing.
+No Pace in the room, no Randi in the room. Honestly that was a relief after the brunch. The brunch left me feeling handled on Vee's behalf: the glaze on her lip from a pastry she never touched. I needed an hour in the lane too.
 
-GATE 39 — School Nights
+The gap doesn't scare me yet, because 38 and 39 were full of him. But a chapter like this is the calm before the thing I've been waiting for, Vee finding out. If the next one is another breather I'll start to feel it.
+
+GATE 40 — Strokes
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 5
 NEXT: 7
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: none
-WHY: It's a short breather, but Cassie asking "Do you love him" and Vee going small with "Maybe" hit me, since I know she already said it to herself in the dark. I want the next chapter because the honeymoon has gone on long enough that I can feel Randi's fuse burning offstage.
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "which he had looked at and said nothing whatever about, and which she had been turning over since Saturday" — for a second I thought the book had forgotten the drawer.
+WHY: It's a quiet, lovely chapter with nobody in it but her, and it was the right size. It handed her the exact doubt I've been holding for her, "whether he was that good or she had made him that good," and that makes me need to see what happens when she finds out what was said in his bed.

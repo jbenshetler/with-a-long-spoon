@@ -1,30 +1,34 @@
-*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha fc6ed94829c1 · 2026-10-11*
+*capture-dag-v2-rich · gate ch066 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 8ea15c426f18 · 2026-10-11*
 
-REACTION:
+REACTION
 
-Oh, this broke my heart into a dozen pieces.
+Oh. Oh, god.
 
-I was not prepared for this chapter. After the pure adrenaline rush of Wednesday's roadhouse, and then that fever-pitch chapter 64 where Pace and Randi are fucking like demons while obsessing over Vee, and then the absolute riot of meeting Sheri in the taproom... to wake up here, in this quiet, cold, hangover-bright kitchen, felt like walking into an empty church.
+Look at what just happened. Look at the *seams* cracking.
 
-Pace making cinnamon raisin bread from scratch while she sleeps off her cider. The folded paper towel under the water glass so the wood wouldn't mark. It’s those tiny, devastating details of domestic care that make me love him so hopelessly, even while I want to shake him until his teeth rattle. He is so profoundly *good* to her in the physical world. He waters her like a plant; he feeds her; he puts his softest clothes on her back.
+First of all, Vee sitting there, entirely wrapped in the wool of her own sweet innocence, misreading Randi’s sudden freeze. Vee tells her about Sheri undressing her with her eyes on that taproom floor, and Randi goes *dead silent*. Her thumb stops. That flat, cold: *"And you liked it."* And Vee thinks—bless her naive, doomed little heart—she thinks Randi is being *protective*! She thinks Randi is standing guard against a threat to Vee and Pace! She has no idea. She is entirely blind to the fact that Randi is *jealous*. Randi doesn't want another woman looking at Vee like that. Randi wants to be the *only* woman who gets to undress Vee with her eyes, the only woman who gets to touch the plush softness of her, the only woman who gets to pull the strings.
 
-And then the ax falls. Not with a shout, but with that awful, flat, mathematical plainness: *"Sheri is my friend. My one friend. There isn't anyone else."*
+And then Vee lies! *"No. Not my thing."* She lies right to Randi's face, because she *did* like it—she told Pace the morning after that it was the best thing to happen to her legs in January, and she spent half of Thursday night trying to taste herself on her own fingers because Randi said it turned her on! Vee is caught in this massive current between two people who are secretly orchestrating her waking-up, and her body is responding to *all* of it, but her conscious mind is scrambling to keep up the respectable front.
 
-My god. The sheer, echoing loneliness of that sentence. When Vee started pushing—because she’s twenty-one and her whole life is noisy dorm rooms and borrowed clothes and shared cafeteria trays—and he laid out his entire life like an autopsy report... I had a lump in my throat the size of an apple. *“Men make friends by competing... I was never once in the pack.”* And then that knife-twist about the men who *“either weren't safe or weren't welcoming,”* tying straight into his father and him fleeing home at sixteen.
+And then: the wax.
 
-Vee seeing Daphne clearly for what it was—not just romantic tragedy, but grooming, an older predator taking advantage of a brilliant, isolated fifteen-year-old boy who had literally no one else in the world—was such a mature, devastating turn in her head. She finally stopped seeing Daphne as a romantic rival and saw the horror of it. Pace had one person who carried all of him, and she abandoned him, and he has spent the last decade building a fortress of polite distance, baking bread, and convincing himself that isolation isn't tragic.
+*"He asked me to get waxed. All of it. Bare."*
 
-And then Vee’s reaction. She didn't offer pity. She didn't patronize him with easy words. She walked around that counter and gave him the exact hug Sheri gave him—full weight committed, no demands. When he rested his chin on her head, looking out the window, just letting her hold him... that was pure, aching intimacy.
+I felt that drop right into my stomach like a lead weight. Because *of course* Pace asked for it. After sitting in bed with Randi in chapter 64, fucking her raw while they talk about Vee, hearing Randi talk about wanting to put her mouth on Vee's breasts, Pace knowing what Randi likes, what they *both* want to do to her. And the second Vee mentions it, Randi doesn't even blink. She doesn't tease, she doesn't mock—she leans in, totally in her element, and hands over her own esthetician. *"Sondra... tell them I sent you."*
 
-The tragedy, of course, is that while he's telling her Sheri is his only friend, he's actively hiding Randi. Randi, who is currently tearing through his bed and his psyche, an accomplice rather than a friend. Vee thinks she's holding a man who has nothing, completely unaware of the web he's spun around her. But the tenderness here? The absolute emotional weight of it? It gutted me.
+They are preparing her. It's like an offering, or a feast. They are grooming her—literally, like that baboon lecture Dr. Marsh gave with the ancient comb—cleaning her, polishing her, stripping away every last barrier between her skin and their mouths. And Vee thinks it's just a fun, grown-up, spicy little favor for her boyfriend that her best friend is helping her coordinate.
+
+The sick, thrilling brilliance of it is that Vee is walking into this entirely on her own two feet, wanting to be daring, wanting to please Pace, completely intoxicated by Randi's attention, writing the address on the back of her hand like a schoolgirl. And at the end, on that cold sidewalk, Vee didn't even wait. She tilted her face up with her eyes closed, *waiting* for Randi's mouth. And Randi kissed her twice, hard, lingering.
+
+The heat in this book doesn't just come from the bedroom scenes; it's radiating off every single glance across a restaurant booth. The trap is so beautiful, and Vee is practically skipping into it. I need Friday. I need to see what happens when the table is set.
 
 ***
 
-GATE 66 — Hangover
+GATE 67 — Between
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 0
-ROMANCE: 3
+NEXT: 10
+HEAT: 2
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: The quiet emotional devastation of Pace explaining his complete isolation, paired with Vee finally seeing the reality of his trauma without pitying him, was masterclass character work. It aches so beautifully.
+WHY: The sheer psychological tension of Vee completely misreading Randi's jealousy over Sheri, combined with Randi eagerly managing the logistics of Vee getting waxed for Pace, is breathtakingly intense. The web is tightening, Vee is leaning entirely into it, and I cannot turn the pages fast enough.

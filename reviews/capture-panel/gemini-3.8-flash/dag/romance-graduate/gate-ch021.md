@@ -1,24 +1,26 @@
-*capture-dag-v2-rich · gate ch021 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 1f134f523a50 · 2026-10-01*
+*capture-dag-v2-rich · gate ch021 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 332b2e10547e · 2026-10-23*
 
 REACTION
 
-Oh, my chest hurts. My actual, physical chest hurts.
+Jesus Christ, Randi is like a venomous snake that knows how to speak fluent girl-talk. My stomach was in actual knots this entire brunch.
 
-This was barely three pages, practically a vignette, but it hit like a freight train because of the contrast. That sunny, crisp October morning, the smell of brown-milk cereal, the familiar stick of the dorm door—the pure, mundane safety of college life—and Vee standing right in the middle of it, completely colonized by the night before.
+The contrast between Cassie and Randi here is *devastating*. With Cassie, Vee edits out the middle to protect herself, but Cassie loves her enough to let the seam sit unpulled, tossing off the dry "get your brain back from your boyfriend" and grabbing her cleats. It’s healthy, normal, safe college roommate love. Vee having to zip her skirt back up because she gave away her panties bare-assed the night before was hilarious and mortifying and so real.
 
-The detail of the zipper at her hip made my breath catch. She reaches to unzip her skirt to grab a shower, pulls it halfway down, and suddenly remembers: *there is nothing underneath.* She literally gave her wet underwear away to a man she met two weeks ago, drove home completely bare under her clothes with frosted plum polish on her toes, and now she can’t even undress in front of Cassie—her anchor, the girl who holds her secrets so they don't break.
+And then she walks into the gilded spiderweb with Randi.
 
-Watching Vee lie to Cassie by omission—lifting the middle out "clean as she went, the way a ladle takes soup from the pot and the surface closes without a hole"—made me feel so sick and so tender toward her at the same time. She tells herself editing the truth is a "kindness" to Cassie, but it’s not. It’s Vee hoarding the heat, protecting the delusion, keeping the raw, shameful, intoxicating reality of what she did locked away where no one can shine a sensible light on it. Cassie calling him her "boyfriend" was such a knife twist. *Boyfriend.* Cassie thinks this is a sweet little romance where a guy cooked chicken fra diavolo and they shared a nice bottle of wine. She has no idea Vee was on her knees, being dismantled, handing over trophies.
+Randi is doing something so psychologically sick, and Vee is just drinking it down like sweet champagne. Randi feeding her that pathetic little cover story about an ex-boyfriend who was "in a hurry"—literally setting up the exact contrast she knew Pace would deliver, because Pace *was built to take his time*. And then coaxing the details out of Vee piece by piece! The toes, the frosted plum, the campaign of buying the underwear... Randi isn’t just interrogating her; she is getting *off* on it. "Her eyes had gone liquid at the edges... the esses running long... one mimosa, and most of that still in the glass." Vee thinks she's tipsy! Honey, she’s not drunk on alcohol, she is *aroused*. She is soaking in Vee’s blooming desire, taking Pace’s labor and tasting it through Vee’s flushed cheeks, while subtly steering Vee into feeling empowered: *"You're not caught, sweetheart. You're lucky."* The absolute manipulation of making Vee feel like a brazen, modern woman who *took what she wanted*, when every single step was pre-laid track!
 
-And that final image: Cassie leaving for her game, the room going cold and quiet, and Vee dropping the skirt to stand there totally naked, the smile refusing to come down. "She had never in her life been so happy."
+And then that goodbye kiss. The hand at the hinge of the jaw. The little pull-back and the *second press*. And Vee didn't even look around to see who was watching this time. She just accepted it. "See you soon, gorgeous."
 
-God, that last line is pure tragedy disguised as triumph. It is the highest drop of the roller coaster before the bottom falls out. She is so high on her own perceived liberation, totally unaware that the trap has snapped completely shut around her. Give me the next chapter right now.
+I am screaming into a pillow. Vee is driving home with the windows down and the radio up, thinking she has the perfect man and the glamorous older sister/best friend she always prayed for, completely blind to the fact that they are both carving her up for dinner. The sheer dramatic irony is unbearable in the best possible way. Give me the next chapter immediately.
 
-GATE 21 — Toenails
+***
+
+GATE 21 — Fed
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The tension of the zipper stopping halfway down when she remembers she's bare-assed under her skirt was absolute perfection. It’s a tiny bridge chapter, but the psychological shift—Vee starting to actively keep secrets from Cassie to protect her delusion—hit hard. I'm desperate to see who she runs into next.
+WHY: The psychological tension during that brunch was so sharp I could barely breathe; Randi getting visibly, quietly turned on by extracting Vee’s confession while Vee mistook it for sisterly affection is pure, intoxicating dread.

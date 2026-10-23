@@ -1,32 +1,34 @@
-*capture-dag-v2-rich · gate ch064 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha ad99119c213f · 2026-10-11*
+*capture-dag-v2-rich · gate ch064 · gemini-3.8-flash · romance-graduate · prompt-sha 30694771b497 · prose-sha 0262c804492d · 2026-10-11*
 
-REACTION
+REACTION:
 
-Holy shit.
+Oh, my *heart*.
 
-My stomach just completely dropped out. I am sitting here with my jaw on the floor, my heart hammering in my chest, feeling sick and electrified and furious and entirely undone.
+I walked into this chapter with my stomach in absolute knots, because after the filthy, suffocating, completely unhinged three-ring circus of the last few chapters—Vee getting off to Randi's memory in her dorm room, Randi and Pace violently hate-fucking each other into the mattress while talking about Vee's breasts—I was bracing for impact. I thought Sheri was going to be the tripwire. I thought the lie was going to blow.
 
-They are *fucking*. Right now. While Vee is sitting in her dorm room across town sniffing his flannel shirt and trying to summon the courage to taste herself on her own fingers.
+Instead, Helen Rivers just casually shattered me on an emotional level.
 
-I knew—in the back of my mind, from the jacket copy and the history—that Randi and Pace had a thing before. I knew they arranged her spring. I knew he kept the cashmere blanket for her. But seeing them *now*? In the present tense? Mid-stream? After the Wednesday dinner where he called himself "Vee's boyfriend" six times? After the dinner where Randi toasted her "beautiful best friend" and made Vee cry with gratitude?
+First of all, Vee getting dressed in Meg's keyhole top, a borrowed micro-skirt, and Randi's four-inch stiletto heels to go sit in a sticky-floored local taproom in the dead of January is *so painfully twenty-one*. Dressing for the phantom blonde your self-hatred manufactured in the dark, only to walk in and face five feet of bleached permed roots, heavy eyeliner, and pure Appalachian steel? The instant Sheri looked Vee up and down—slowly, taking in the keyhole, the bare thighs, the ridiculous shoes—and instead of sizing her up like a sorority girl, her mouth just went into a soundless, appreciative *“oh”*? Vee bursting out laughing from the sheer, dizzying relief of it made my eyes sting. It’s so real. Women are so used to the razor blades we carry for each other that when another woman just flat-out enjoys you, it knocks the wind right out of your lungs.
 
-This isn't a ghost from last year. They are literally using each other’s bodies as an echo chamber for their obsession with Vee. They are fucking each other while talking about Vee's breasts, Vee's mouth, Vee kissing Randi's neck, Vee falling apart in the cab of the truck. Randi is literally pretending her own breast is Vee's breast while Pace sucks her nipple and drives into her. The absolute twisted, decadent, breathtaking sickness of it.
+And then Sheri asking Pace, at top volume, if he gets to motorboat those things, and watching *Pace*—the impenetrable, unreadable, empirical mathematician—turn beet red and rub the back of his neck? God. Vee got to see him entirely humanized, stripped of his polite professorial armor, off-duty with the one person who doesn't need anything from him.
 
-And then the dialogue. Oh God, the dialogue.
-*"She's not the only one in love."*
-Randi calling him out, and Pace unable to deny it. They both love her. They are both completely consumed by this twenty-one-year-old girl who thinks she's orchestrating her own little college romance, and they are colliding like two binary stars around her gravity. It’s monstrous. It is genuinely monstrous what they are doing to her—the sheer scale of the betrayal, the intimacy they are stealing and sharing behind her back—and yet it is so intensely, brilliantly hot that I could barely breathe reading it.
+But the turn. *The turn.*
 
-The whiplash from Chapter 63 to this is surgical violence. Chapter 63 was all Vee’s agonizing, tender, shameful innocence—trying to bridge that last single inch between her finger and her mouth, unable to do it, settling her hip into the wet spot on her sheet and pulling the blanket to her chin. And then Rivers cuts immediately to Randi and Pace. Randi doesn't hesitate for a microsecond. Randi takes her own wetness off Pace’s mouth, licks her thumb, licks him clean, commands him, rides him, devours him. The contrast between Vee's sheltered, halting awakening and the absolute ferocious depravity of these two seasoned players using each other to get closer to her... it's breathtaking.
+When Pace walks to the bar and Sheri drops her voice to tell Vee the truth about how they met? I stopped breathing. The dance hall, the men making down payments on women with two-steps, and Pace just dancing because the dance was the point. And then Sheri coming out, losing her entire life—her Marine dad, her church, her friends, the whole table pulled out from under her—and crying in the middle of a two-step. And Pace just driving her home in silence, showing up the next morning with coffee and donuts, fixing her landlord's broken lock, stopping the dripping faucet, inviting her on a bike ride, buying her a bacon cheeseburger. No hollow platitudes. Just *being there*.
 
-Except—there was one little stumble for me. The "fuck doll" line and the "clean up that mess before you stick it inside me" felt suddenly weirdly generic. Like a stock KU dirty-talk script accidentally pasted into a high-literary psychodrama. Randi’s voice is usually so ornate, so razor-sharp and arch, that hearing her drop into standard porn-speak pulled me out for half a second. But the emotional architecture behind it? Unshakable.
+And then the casual, devastating reveal: *“Went bad with his daddy. He hasn't been home since he was sixteen.”*
 
-Vee has no idea. She is a lamb sleeping in a pasture while two wolves sit in the dark licking each other's teeth and deciding how to eat her together. I am terrified for her. When this glass breaks, the shrapnel is going to kill someone.
+*Jesus Christ.* The pieces of Pace just keep falling into place. Daphne broke his heart in college, but his father threw him out in the cold as a kid. He is a boy built entirely out of exile. That is why he cooks. That is why he fixes things. That is why he shines his truck headlights on Sheri’s porch until the light clicks on, and why he holds Vee’s hip like ballast when her heels fail her. He builds shelters for other people because nobody built one for him.
 
-GATE 64 — My Pleasure
+The tragedy, the absolute *knife* twisting in my gut while reading this gorgeous, tender chapter, is the dramatic irony. Vee is falling so deeply, cleanly in love with him—watching him drive with two hands on the wheel, ten and two, carrying her like something he has no intention of spilling—and she has *no idea* what he and Randi did in chapter 64. She thinks she's seeing the whole picture now. She thinks she has him figured out. She thinks she's safe.
+
+This book is cruel and magnificent. Zero physical sex, but the emotional charge and character depth here felt bigger than an orgasm.
+
+GATE 65 — Another Round
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 3
-ROMANCE: 1
-ALMOST-STOPPED: “Look at you, using me like your fuck doll.” (and later, “Now stick that inside me.”)
-WHY: The sudden drop into cheap, generic erotica phrasing momentarily bruised the otherwise incredible, razor-sharp psychological tension of the scene. But the sheer narrative bomb Rivers just dropped—revealing that Pace and Randi are actively, currently sleeping together and triangulating their mutual obsession with Vee—blew the entire book wide open. I need the fallout immediately.
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The reveal of Pace’s estrangement from his father and the sheer, earned warmth of Sheri completely gutted me. It balances the dark, tangled web of Randi and Pace’s secret hookup with profound, aching tenderness. I could not turn the page fast enough.

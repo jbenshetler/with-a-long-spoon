@@ -1,22 +1,36 @@
-*capture-dag-v2-rich · gate ch059 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 750baf7f17dc · 2026-10-11*
+*capture-dag-v2-rich · gate ch059 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha 6a79198d30e3 · 2026-10-11*
 
 **REACTION**
 
-Okay. I liked being at that table. Kayla treating a locked dining hall like a death in the family, Meg's "Okay. This is a place." and "She has been unbearable." Those girls are funny, and it's nice to see Vee be the one who knows the place and does the asking. "It's a little expensive. Is that okay?" That's the girl who once paid for her own Benedict and over-tipped, and now she's taking her friends to what I'm pretty sure is Randi's sun porch. That landed quietly with me. She's bringing her floor into Randi's room, and Randi isn't in it.
+Okay. The bathroom stall.
 
-What I actually underlined is that she's still making versions of herself. Cassie got a shrunken sweater. Kayla and Meg get "I flashed him on his front porch," and as a punchline that's honestly great. Then "We talked all night," which is a lie with a bow on it, and Meg names it "a big apology." It wasn't an apology. It was her finally taking something, and now it's been tidied into a story about making up. Nobody at that table gets the drive, the mirror, the cop lights, the coat lining. Nobody gets the kiss. Nobody gets *why does he like it so much.* She's saving that for Randi, and Randi is the one person who wasn't at brunch. The pile keeps growing and Vee is calmly dealing out pieces of it. I noticed it, and I think the book wanted me to. It also told me a bit too directly with "sat on the table looking exactly true." I'd have caught it.
+I was getting ready to be annoyed. This is the third time the book has run me through the coat night. I had it raw in 55, Cassie got the shrunken-sweater lie, and Kayla and Meg got the PG version over waffles. When the line came, *So Vee went back — all the way back, to her dorm room at seven o'clock*, my thumb literally twitched. I know the bra drawer. I know "first and only." I was ready to skim.
 
-My problem is that this is the third chapter in a row of Vee being happy in a room with people who aren't Randi. The dinner planning was lovely, and "tables have ends" is the best thing Pace has said all book. The Cassie chapter was sweet. Now brunch. I felt myself speed up through the Matrix and heating pad story, and again when Kayla started spiraling about hair on Tuesday. Meanwhile the last time I saw Randi, Brooke had just told her to choose and she was putting an empty mug back in the cupboard. I've been carrying that for four chapters. I want to know what she's doing with it.
+Then she turns the coat around on the hook and shows Randi the lining.
 
-What kept me reading is that the book just put a date on the calendar. Wednesday. Pace runs a room where Vee's whole cast meets each other, and Randi is invited. So Randi will be across a table from Vee and Pace in public, with Theo there, fresh off a sorority president telling her to stop kissing Vee under the composites. And Vee will be sitting on the kiss and the taste question. And Pace got to pick the place, so I'm betting on Sheri's hall or somewhere like that diner. If that dinner is as good as it could be, this stretch was the wind-up. If the book gives me another warm room where nothing cracks, I'll be skimming.
+That's not a retelling, that's a new scene. The book was never telling me about the night again. It was showing me Randi hearing it. Randi went "Hmm" at the clean version, "Hmm" again at the line Vee had rehearsed to the windshield, and then her eyes are "very dark and liquid," she's breathing loud enough to hear, she says "Wow" hoarse, and she's holding Vee's wrist without having reached for it. Then "Could he see you were ready?" Randi isn't listening to a story. She's steering it toward the place she wants to be standing. Every question she asks puts herself in Pace's eyeline. "Paint it for me." God.
 
-Text to a friend: *ok the girls are cute but I've now spent three chapters at nice tables, one of them a waffle porch. there is a DINNER on WEDNESDAY with literally everyone, including the girlfriend-shaped best friend who just got an ultimatum. that's the only reason I'm still up.*
+The stall was hot. It was quick and mean and not pretty, with the hard blue light, a palm on cold laminate, and a whole hour of tablecloth under it. Right at the top it's Randi's face, and the question turning into a statement in Randi's voice: *there's no way he couldn't.* Then "Because that had been about Pace, obviously." I laughed out loud. This is the kind of denial I'll take, because the book isn't explaining it to me. Vee's lying to herself and the book is letting me watch her do it. "The third restroom she'd touched herself in — she counted the practice room." I love her.
 
-GATE 59 — Across
+Then "It's a good thing you got relief." My stomach dropped with hers. And the pivot, "After driving out to see Pace," said "pleasant as a hostess." Randi knew exactly what she was doing. She let Vee hang for one full beat because she could. That's the Randi I don't trust, and I was thrilled anyway.
+
+The underwear story wrecked me. Robin's-egg blue, laundered and folded, set down beside her plate in front of the boy. "They're not mine. They're your color." She held them for days and waited for him. That isn't an anecdote. That's how Randi got made. It's a whole childhood in one sentence: a mother who lets you think you're unobserved and then serves the evidence at dinner. Of course she lives behind invented boyfriends. Of course she told Vee "it got very late and we went up" about John and nothing else. And she drifted out of the story's key without deciding to, which is the second real crack I've seen in her. She put the glass down like she'd just found it in her hand.
+
+Then the neck kiss and the flinch. "Tickles." No, babe. That's Brooke, standing in your kitchen saying *you need to choose*. Vee has no idea Brooke exists in this story. Randi just pulled back from the girl she's been leaning toward for four months, and she covered it with a giggle.
+
+The Mauss lecture: I liked Dr. Marsh a lot, hiking boots and silver streak and all. But a gift that carries the giver's spirit and pulls back home? I've got Randi's heels, Randi's scarf, and, wait for it, Randi's cashmere blanket. Pace kept it on the chair for *Randi's* chill after, and Vee soaked it in 56 thinking it was his wordless gift to her. I clocked that and I'm sitting on it gleefully. So the lecture felt a little like the book leaning over to say *notice this*. It's on the line. I'll forgive it because Marsh made me sit forward too.
+
+The withheld bit at the end is the actual hook. She held back the kiss thing, "a little unweighable stone of relief." She has told Randi everything since October, and now there's a pile in this relationship too. And tomorrow is the dinner, with Pace and Randi at one table, Randi "properly" meeting him, Cassie and Kayla and Theo all there, and Pace having picked the place so he can hear. I am not going to bed.
+
+What I'd text at 1am: *the best friend just made her come from across a restaurant without touching her and then said "good thing you got relief" to her FACE. also the mom laundered the panties. I'm unwell.*
+
+---
+
+GATE 60 — Covering
 DECISION: CONTINUE
-CAPTURE: 4
-NEXT: 7
-HEAT: 0
-ROMANCE: 1
-ALMOST-STOPPED: "In October I had the worst period of my life and I was a hag to Danny for five days." That's where I realized I was getting Meg's relationship before I was getting Randi's.
-WHY: It's charming and the friends are real people, but it's the third quiet chapter running, and its only charge comes from what Vee edits out. I'm only keen for the next one because Wednesday's dinner, with Randi at the table after Brooke's ultimatum, could be the scene the last four chapters were setting up. I'm giving it until that dinner.
+CAPTURE: 8
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "So Vee went back — all the way back, to her dorm room at seven o'clock — and told it the way it had actually gone." That was the third telling of the coat night, and I braced to skim.
+WHY: The rerun turned out to be a Randi scene in disguise, with her steering every question and Vee coming with Randi's face in her head. That's the jacket's promise actually moving. The robin's-egg blue story gave Randi a real wound, and the flinch at the neck kiss told me Brooke's ultimatum is already working on her. Tomorrow puts all three of them at one table. I can't not.
