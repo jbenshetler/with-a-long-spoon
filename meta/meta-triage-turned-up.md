@@ -1,5 +1,7 @@
 # Triage — Turned-Up (line-audit pass, 2026-08-01)
 
+> Diptych draft 2026-10-23: this material is the Saturday movement of `scenes/how-its-done.md`. Historical standalone notes and rulings remain in force.
+
 Source: `audits/line-audit/turned-up.md`, reviewed with the author.
 **Left-standing entries are authorial decisions — do not re-flag without new
 evidence** (audit verdicts re-open on a text edit to the passage).

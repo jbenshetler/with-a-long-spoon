@@ -36,6 +36,7 @@ MARK_RE = re.compile(r"\{\{([^}]+)\}\}")
 # A former standalone panel name may also resolve to its containing chapter,
 # preserving historical audit references without inventing a live scene entry.
 ALIASES = {
+    "Turned Up": "How It's Done",  # Saturday movement, diptych draft 2026-10-23
     "Off Six-Fourteen": "Dear",  # Saturday movement, merged 2026-10-23
     "Toenails": "Fed",  # folded into Fed's Saturday movement, 2026-10-23
     "Broken In": "Broken In",

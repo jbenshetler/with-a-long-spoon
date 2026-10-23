@@ -178,3 +178,35 @@ from…") and `the-bench:29` ("he had watched her **clock** them the first
 night"). **Both are live findings in chapters already marked `reviewed`** and
 want a look or an explicit ack. Existing acks survived the pattern change
 (`practice-room` "barely clocked it", `dear:43`).
+
+## Diptych draft — 2026-10-23
+
+Author requested the structural-review proposal be drafted. Turned Up is preserved verbatim as the Saturday movement; Sunday follows after a scene break and “The next day” cue. Title How It’s Done retained. Sunday’s magazine wish, unaffordability and Pace finding the silk are retained in one narrated sentence, preserving Randi’s receipt. The opening speech is shortened to “He’s making me a dress. For the induction. Burgundy silk, the real thing.” Vee’s self-conscious performance, shy-pleased gesture, and romantic declaration remain. Warm-house account, jealousy tell, bra normalization, cold/hot exchange, interrupted secret, money bookends, return drive, first kiss, and aftermath remain unchanged. No change in either confidante’s relative receipt. Prior praise check on the provenance setup found no direct praise; structural review identified an existing capture-reader complaint at this re-entry. No cuts made to protected positives.
+
+Authoring context loaded at the entry slot turned-up: chapter 17, Opus 5.5 checkpoint 10 plus complete raw chapters 11–16. Required checkpoint 10 minted through the subscription lane with the author’s existing permission. Later reader gates and existing reviews remain unchanged pending assessment.
+
+### Draft verification
+
+Saturday clean prose compared exactly with the source backup. Sunday clean-prose diff contains only the next-day cue and one account-paragraph replacement. Combined body: 6,984 → 6,949 whitespace words. Lore continuity check confirms source receipt preserved through the narrated provenance summary, no broken callbacks, and all protected Cassie content intact. Style: zero errors, 43 ASK hits (1 warning, 42 informational) surfaced without fixes or acknowledgements; 32 existing suppressions survive. Echo harvest: no candidates. Orphan check: no flags. Three ruling-anchor flags refer to pre-existing room/glass/arithmetic wording; neither merge edit removes those lines. The first subscription fact-audit run flagged Cassie’s “living room” for the sun porch, already expressly left standing as comic compression in meta-triage-turned-up.md; not changed. Final subscription audit on the current draft found no factual contradictions; it treated the “living room” line as compatible shorthand. No cold reads or capture runs launched in this drafting pass.
+
+## Grounded cold-read panel — 2026-10-23
+
+Author requested minting whatever was needed and cold reads of this diptych, then confirmed OpenRouter funds. Six runnable active readers completed: claude-opus-4-8, claude-opus-5, gpt-5.6-sol, glm-5.3, claude-opus-5-5, gemini-4-argon. Reads use native checkpoint 10 plus raw chapters 11–16 and the merged chapter at position 17. Refreshed chapter-10 checkpoints for Opus 4.8, Opus 5, Sol and GLM, and minted Gemini’s missing checkpoint; the already-current Opus 5.5 checkpoint from authoring prep was retained. All six have current source fingerprint 09caee3a8d72e72e7e0924d4aa8af3ff98395ee37948cad6d58290bd586ca7db and all eight required sections. The extractor validated complete stopping output. Legacy checkpoint_qa recognized four of these model ids and returned no rerun candidates; it did not recognize Opus 5.5 or Gemini, so no six-model QA-battery claim is made.
+
+DeepSeek did not run: ensemble:core requires GPT-5.5’s stale source checkpoint, while GPT-5.5 is retired and unavailable on subscription. No retired model was launched and no donor policy changed. This is six completed reads of seven active configured readers, not a full seven-model completion.
+
+### Reception
+
+All six value the Cassie movement, including its comedy, emotional safety and knee-touch. Opus 5 calls the dorm scene earned line for line; GLM calls it potentially its favorite scene so far; Gemini explicitly says the two halves balance and illuminate each other. All six describe chapter-to-chapter momentum as building. Opus 5.5 alone explicitly complains that Cassie’s account repeats the fitting; even that reader says the comedy mostly justifies it. Sol, Opus 4.8 and Opus 5 register the change into Randi’s scene as forward movement. These are current-run reactions, not a controlled before/after comparison.
+
+Heat/Romance: Opus 4.8 2/2; Opus 5 2/2; Sol 3/2; GLM 2/2; Opus 5.5 2/2; Gemini 2/2.
+
+Convergent mild friction: Sunday’s setup length (Opus 5.5 car/restaurant, GLM drive); the left-hip line’s calibration or explanation (Sol and GLM both qualify their reservations, Opus 5 questions the explanatory gloss). Singletons: Opus 4.8 finds some class-conscious interior explanation slightly told; Opus 5 questions the explicit kinder-reading explanation; Opus 5.5 calls Sinatra pointed. Gemini reports no pacing waste. Existing protected money bookends remain protected. No prose revised from these reviews.
+
+Reader interpretations are not canon. In particular, Gemini claims Swim Lanes withheld the fitting from Randi, although that scene precedes the fitting; its useful reaction to the paired chapter does not validate that temporal claim. Other readers treat Randi’s invented-man story or motives as more certain than the page establishes; those remain readings.
+
+### Paid usage and execution
+
+GLM checkpoint: 44,410 input / 11,155 output, including 4,039 reasoning; read: 41,033 input / 1,680 output, finish stop. Gemini checkpoint: 45,558 input / 20,832 output, including 11,292 reasoning; read: 44,431 input / 2,436 output, finish stop. Read reasoning breakdowns and exact provider costs were not returned in the harness console. Estimated combined mint/read cost at configured rates: approximately $0.52; reasoning is not added twice. One Gemini checkpoint request met a transient OpenRouter credit-verification 429 and succeeded after retry. Initial unqualified paid-model CLI aliases were rejected by Codex before any artifact was written; provider-qualified invocations ran through OpenRouter. No balance shortage was reported.
+
+All reader-written reactions remain verbatim. Later cold reads, capture gates and checkpoints beyond the needed chapter-10 native memories remain untouched; no renumbering performed. Chronology view refreshed after recording review status.

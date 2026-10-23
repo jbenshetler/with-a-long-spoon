@@ -1,5 +1,7 @@
 # Condensed — Turned Up
 
+> Diptych draft 2026-10-23: this material is the Saturday movement of `scenes/how-its-done.md`. Historical standalone notes and rulings remain in force.
+
 *Scene · Draft complete · `turned-up.md` · same day as the fitting · same afternoon*
 
 ## Summary

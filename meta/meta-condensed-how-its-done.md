@@ -1,6 +1,8 @@
 # Condensed — How It's Done
 
-*SCENE · Draft complete · `how-its-done.md` · ~a few days after the fitting · sits between the fitting and {{Famished}}*
+> Diptych draft 2026-10-23: this material is the Sunday movement of `scenes/how-its-done.md`. Historical standalone notes and rulings remain in force.
+
+*SCENE · Draft complete · `how-its-done.md` · Sunday October 4, the day after the fitting · sits between the fitting and {{Famished}}*
 
 ## Summary
 

@@ -1,8 +1,202 @@
 # How It's Done
 
+*Diptych · Saturday October 3, Vee and Cassie’s dorm room; Sunday October 4, Randi’s car and off-campus lunch · Vee’s POV*
+
 ---
 
-The Mercedes was at the curb when Vee came down, top already folded back, Randi behind the wheel in sunglasses with one wrist draped over the top of the door. The car was long and low and a green so dark it read as black until the sun moved on it, and it sat the way expensive things sit, without apology, taking up exactly the room it intended to.
+Cassie was on her bed with a textbook and a highlighter when Vee came in, and she looked up once, and then she put the highlighter down.
+
+"Well?" she said.
+
+Vee opened her mouth. She set her bag on the floor. She picked it back up and put it on the chair. She turned around.
+
+"Burgundy," she said. "For the honor society induction. A dress. Like the magazine. He's making it."
+
+Cassie looked at her for a long moment. She was very still in the way she got when she was paying attention, and Vee felt the attention like sun on her face.
+
+"Okay," Cassie said. "Back up. When did he — how did he even know?"
+
+Vee sat on the edge of her desk. Got up again. "I told him. On the hike. I was tired and just talking, and it came out." She stopped. Waved it away. "I'd already let it go."
+
+"The induction," Cassie said softly. She'd screamed in the hall the day the letter came.
+
+"And he just—"
+
+"He just." Vee spread her hands.
+
+"Out of what?"
+
+"Silk. He bought silk, Cass. Not even the color I described, he went *deeper*, he—" She stopped again, because the image had come back, the two of them caught in the mirror, and she needed a second with it. "He held it up next to my face. To see if it was right for me."
+
+Cassie had her knees pulled up to her chest now, the textbook abandoned. She was quiet a second, working it. "He *sews*," she said, like she was setting the fact down somewhere. Then her eyes changed. "Vee. The shirt."
+
+Vee stopped moving.
+
+"You've been sleeping in that shirt all week," Cassie said pleasantly.
+
+"That's not—"
+
+"You wore it to breakfast on Tuesday."
+
+"It's a comfortable shirt."
+
+"Vivienne."
+
+Vee pointed at her. "Don't."
+
+Cassie pulled her knees tighter, the small smile settling in. "Did he make that too?"
+
+"I didn't know until today." Vee dropped into her desk chair. "There's no tag in it. I went looking the first night I had it, turned the whole thing inside out — no brand, no size, nothing. And it's the softest thing I own, and it's made better than anything I've ever paid for, and none of it added up. So I gave up on it. Filed it under weird things about him." She shook her head. "He said he couldn't find a shirt he liked, so he made one."
+
+"So he made one," Cassie repeated.
+
+"He said it like it was nothing."
+
+Cassie didn't say anything. In the quiet Vee could hear the radiator and someone's music two doors down and her own breathing, faster than it should have been. A week of sleeping in a shirt he'd made, the answer in her hands the whole time, and she'd decided it was a riddle and stopped looking.
+
+"Okay," Cassie said, when the quiet had gone on a beat too long. "So you went over today, and — ?"
+
+"The silk was out, on the long table in his sun porch. And he'd built a riser." Vee crossed to the window and back. "A little platform, in the corner, for me to stand on." She heard herself say it, and laughed. "For me to stand on."
+
+"And the house was warm," she said, before Cassie could answer.
+
+Cassie blinked. "What?"
+
+"The house." Vee had not meant to say this part yet, or maybe not at all. "It was too warm when I walked in. I noticed and I didn't — I just filed it away. And then later I understood why." She looked at the radiator. "He turned the heat up before I got there. So I wouldn't be cold."
+
+Cassie went very still.
+
+"Standing there," Vee said. "He turned it up hours before, probably. As soon as he knew I was coming. He thought of it then."
+
+Vee leaned back against the edge of her desk, half sitting.
+
+"Oh, Vee," Cassie said, and her face had gone soft with it.
+
+Vee laughed, quickly. "Anyway. He measured first. To get the fit right."
+
+Cassie let the pivot happen. She was good at that. "Measured how? Like — all over?"
+
+"All of it." Vee was up again, narrating with her hands. "Shirt off, fine, it's basically a swimsuit. I'm standing there in my bra thinking, okay, I survived, that's the hard part — "
+
+"And then?"
+
+"And then he says, *the bra too.*" She put her hands up. "The bra too! It changes the line, he says, very serious. So off it comes, and now I'm—" her hands cupped her breasts and then flew outward and away "—*out*. Just out. In broad daylight. On a box. Like, here you go, I guess."
+
+Cassie cracked up.
+
+"I know!" Vee said, riding it. "I *know*."
+
+"How does a man even—" Cassie wiped her eyes. "Did he just say it? *Take it off?*"
+
+"Yes," Vee said. "No." Her energy ebbed half a step. "Not exactly."
+
+Cassie waited.
+
+"He said it the way he says things about the work," Vee said. "Like it was a fact. *The bra changes the line.* And then he — " She stopped. Started again. "He waited. He said it and then he waited, to see if it was — he left it open. He left me a door."
+
+"He asked," Cassie said.
+
+Vee looked up. "He didn't use the word. But yes."
+
+Cassie was quiet. Vee could feel her thinking.
+
+"So you stood there," Cassie said, with great delicacy, "in front of a man you've never seen naked—"
+
+"I was on a box."
+
+"—in front of a man you've never seen naked, with no shirt and no bra."
+
+"I was on a box."
+
+"You keep taking your shirt off in front of this guy," Cassie said, "and not getting any?"
+
+Vee threw a pillow at her.
+
+Cassie caught it, laughing, and hugged it. "I'm serious! You took your shirt off in front of him in the *rain*, Vee."
+
+"That was different." A beat. "I locked eyes with him." A beat. "And then I let him look."
+
+Cassie stopped laughing. The warmth in her voice had changed its key. "You did."
+
+Vee sat down on the edge of Cassie's bed. Just the edge. She pressed her palm flat against the comforter and left it there.
+
+"Was it weird?" Cassie asked. "Standing up there. Half-dressed. With him fully—"
+
+"For a minute," Vee said. "I was braced for it to stay weird. And then it just — didn't."
+
+"Then what?"
+
+Vee looked down. "It was like his eyes asked, *May I look.*"
+
+The room was quiet.
+
+"He just looked at me," she said. "Like he'd decided I was worth it, and he was glad. Glad it was me up there." She shook her head, not at Cassie, at the inside of the sentence. "It's hard to explain."
+
+"No," Cassie said. "I think I have it."
+
+Vee pulled her knees up, smaller than she usually sat. "And then he measured. Close, and then not close. Over and over." She paused. "It was — I don't know. It was a lot."
+
+Cassie's expression said she could imagine.
+
+"And then the hem," Vee said. She was tracing it without thinking, one hand down her own hip. "He was on his knees for the hem, and the riser put me up, and he was—" She stopped. Let the geometry say itself.
+
+Cassie said nothing, which was the right thing.
+
+"He was on his knees," Vee said quietly, "and looking up. And I was up on the box looking down. And I kept waiting to feel wrong about it." She turned her hand over in her lap. "I didn't."
+
+"How did it feel?"
+
+Vee was quiet for long enough that it wasn't about finding the word.
+
+"Like I was supposed to be there," she said.
+
+Cassie made a sound that wasn't quite a word. She reached over and put her hand on Vee's knee, once, and took it back.
+
+Vee looked at the light on the floor. Outside the window someone was crossing the quad and the afternoon had gone late and gold, and the radiator clicked in the corner, and the shirt Pace had made was folded on Vee's pillow at the top of the bunk because she'd put it there without thinking when she changed.
+
+"He's not done," Vee said. "The dress. He still has to sew it. He'll call me when it's ready."
+
+"Okay," Cassie said.
+
+The quiet sat there, warm, for a moment longer. Then Cassie shifted against her pillow, and Vee could see her doing it — going back over the whole thing, the way she worked a puzzle when the pieces wouldn't fit. Her face did the small frown.
+
+"Okay, wait," Cassie said. "Walk me through this. He's seen you with your shirt off twice now. Once in his own house. On a box. And he — sewed." She held up a finger. "He's a bodybuilder who makes dresses." Another finger. "He's had you standing in his living room in your underwear, and he picked up a *tape measure*." She looked at Vee. "Vee. Are you sure he's not gay?"
+
+"He's not a bodybuilder, he's a powerlifter, it's a totally different — "
+
+"Vivienne."
+
+"He doesn't kiss like he's gay," Vee said.
+
+"Okay — "
+
+"And I could feel his—" Vee reached back and patted her own ass, brisk and clinical, like she was indicating it on a diagram. "His *package*. Right here. When he was pinning the back seam." She nodded, grave as a witness. "Definitely not gay."
+
+Cassie's eyebrows went up. She sat forward. "He was *grinding* on you?"
+
+"No," Vee said.
+
+"He had you half naked on a box and he was — "
+
+"No, Cass." And there it was, the thing she'd been keeping all the way at the bottom, and she felt it surface with her whole face going warm and delighted and a little wicked. She looked at Cassie sideways. "*I* was grinding on *him*."
+
+Cassie stared at her.
+
+Vee started to laugh.
+
+"You did *not*."
+
+"A little. When he was back there. I leaned — I sort of — " She was laughing too hard to finish it, both hands over her mouth, and Cassie threw the pillow back at her, and Vee caught it and hugged it to her chest and rocked.
+
+"You are unbelievable," Cassie said, but she was laughing too. "He's making you a *dress* and you're—"
+
+"I *know*." Vee dropped backward onto Cassie's bed, the pillow still against her, and lay there grinning at the underside of the top bunk. "I know, I know."
+
+She didn't get up for a while. Neither of them said anything for a while. It was a good kind of quiet, and the shirt was up there on her pillow, and the dress wasn't even finished yet.
+
+---
+
+The next day, the Mercedes was at the curb when Vee came down, top already folded back, Randi behind the wheel in sunglasses with one wrist draped over the top of the door. The car was long and low and a green so dark it read as black until the sun moved on it, and it sat the way expensive things sit, without apology, taking up exactly the room it intended to.
 
 Randi pushed the sunglasses up into her hair and smiled at her, and it was different. Vee felt it before she could have named it. The smile was gentler, the performance gone out of it, the edges soft. She had seen Randi's other smile, the bright even one that took a whole room in at a stroke, that Randi turned on her sisters and had turned once on Cassie clear across the coffee shop, generous and the same every time. This one was slower than that, and quieter, and it stayed past when it might have stopped. Her eyes went down Vee and came back up, quick, taking her in like the first good thing of a day that had been built around it. "*Look* at you." Warm, approving, a little lit. "That belt — yes. Get in, get in — are you hungry? Tell me you're hungry."
 
@@ -68,7 +262,7 @@ The song had ended and another like it had started, the same era, the same slow 
 
 And Vee, who had spent a day building the version she would tell — the dress, the burgundy, the romance of being made something by hand, all of it arranged and pressed and ready, the parts a person could say out loud over lunch and none of the parts she couldn't — felt the careful version rise up smooth and rehearsed, and felt, underneath it, the other thing shift and strain to get out, and started talking before she had decided which one she was going to let win.
 
-"Okay, so." She heard her own voice do the thing it did for Randi, the slightly-up thing, the trying-to-sound-like-this-happens-to-me thing. "There's this induction coming up — honor society, it's a whole formal thing, I have to actually look like a person. And there was this dress in a magazine I'd been mooning over for weeks that I was never in a hundred years going to afford. And he's making it. For me. By hand. Burgundy silk, the real thing, he went and *found* the silk. It's —" Vee looked down, and back up. "It's kind of the most romantic thing anyone's ever done for me."
+"Okay, so." She told her about the magazine dress she couldn't afford, the silk he'd found. She heard her own voice do the thing it did for Randi, the slightly-up thing, the trying-to-sound-like-this-happens-to-me thing. "He's making me a dress. For the induction. Burgundy silk, the real thing. It's —" Vee looked down, and back up. "It's kind of the most romantic thing anyone's ever done for me."
 
 Randi listened the way she listened, which was completely — chin on her hand, eyes on Vee, going where Vee's animation took them, to her mouth when she talked, to her hands when they moved, down the line of her and back. There was something keyed-up in the attention today, a brightness wound a notch tighter than the coffee places had ever drawn out of her, though Vee could not have said so and did not try. Nobody else listened like that.
 
