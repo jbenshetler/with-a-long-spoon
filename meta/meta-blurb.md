@@ -4,14 +4,6 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 
 ---
 
-## Explicit
-
-### Short (~55 words)
-
-> Randi has everything: the looks, the poise, and a lover no one knows about — a young mathematician named Pace. What began between them as a game became a plan, and the plan is Vivienne: chosen, and never told. What none of them planned on was love. Vivienne only knows that two people have come into her life, asked nothing she didn't want to give, and made her feel, for the first time, fully alive.
-
----
-
 ## Test-epub blurb (Volume 1 · copy accepted 2026-10-20)
 
 *Rewritten 2026-10-20 for Book 1's post-split extent ({{The Bench}} through {{Rock}}), from a full read of the volume and inside its arc summary (`meta-volumes.toml`). Trimmed from ~370 to ~180 words; "girlhood" and "the girl who" removed (Craft discipline); the plan stated once, in the hook. The comp line is the plain descriptor while the jacket comp is under review (Genre & positioning).*
@@ -162,16 +154,16 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 Reading order and placement — an epub has no back cover, so the blurb lives in front matter:
 
 1. **Cover** — owned by `meta-cover.md` (Cover text section): three elements, series line / volume title dominant / author; no tagline on the front — it closes the blurb page instead.
-2. **Blurb page** — first page after the cover, *before* the title page (simulates the retail listing). Layout: the two blurb paragraphs → white space → the tagline **centered, alone** (the eye's last stop) → white space → the italic Book One / *Beauty* comp line, smallest type, bottom.
+2. **Blurb page** — first page after the cover, *before* the title page (simulates the retail listing). Layout: the two blurb paragraphs → white space → the tagline **centered, alone** (the eye's last stop) → white space → the italic *Book One of* series line and genre descriptor, smallest type, bottom.
 3. **Title page** — title, *Book One*, author.
 4. **Copyright page** — boilerplate plus one line only: *"An erotic novel, for adult readers."* No itemized content-warning list for the test round (the blurb self-selects; a CW list telegraphs). Revisit for wide release.
 5. **Chapter one** — nothing between front matter and the bench: no epigraph, no note-to-readers, no priming.
 6. **Back matter** — *Note to test readers*: thanks + feedback questions. Asks live here, never up front (first read unshaped, reflection directed). Core questions: *did you keep falling for Pace and enjoying the brunches even though you knew?* / *was there a point where the warmth curdled?*
-7. **Metadata** — description field: the explicit short ("Miranda has everything…"); series: With a Long Spoon, Book 1; title: "With a Long Spoon: Book One" (whether volumes get their own titles, Beauty-style, is open — not needed for the test).
+7. **Metadata** — description field: the blurb body (every volume; the separate "Explicit / Short" metadata blurb was dropped 2026-10-23 as unused outside this field); series: With a Long Spoon, Book 1; title: *A Polite Invitation (With a Long Spoon, Book 1)*.
 
 Deliberately absent: elevator pitch and unused taglines (query/ad material, not product); any mention of series total scope ("Book One" says it all).
 
-*This section is the packaging spec for `tools/build_epub.py`, which implements it: chronology (Volume One entries, story order) + `scenes/` prose + this doc's Test-epub blurb and Explicit/Short (metadata description) + the `images/cover.png` symlink (points at the current cover asset) → `build/a-polite-invitation.epub` (reader-facing filename = the volume title). Run `tools/build_epub.py` (author defaults to Helen Rivers; `--list` previews the roster). Deterministic; aborts if a Volume One chapter lacks prose.*
+*This section is the packaging spec for `tools/build_epub.py`, which implements it: chronology (Volume One entries, story order) + `scenes/` prose + this doc's Test-epub blurb (blurb page and metadata description) + the `images/cover.png` symlink (points at the current cover asset) → `build/a-polite-invitation.epub` (reader-facing filename = the volume title). Run `tools/build_epub.py` (author defaults to Helen Rivers; `--list` previews the roster). Deterministic; aborts if a Volume One chapter lacks prose.*
 
 ---
 

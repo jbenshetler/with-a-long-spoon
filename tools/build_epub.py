@@ -10,8 +10,9 @@ Implements the packaging spec in meta/meta-blurb.md ("Test-epub assembly"):
 Sources, all parsed at build time so the docs stay authoritative:
   - meta/meta-plan-chronology.md  chapter inventory + order (the VOLUME ONE
                                   section; SCENE/VIGNETTE entries only)
-  - meta/meta-blurb.md            blurb page text (## Test-epub blurb) and the
-                                  metadata description (## Explicit / ### Short)
+  - meta/meta-blurb.md            blurb page text (## Test-epub blurb, or the
+                                  volume's own heading); its body is also the
+                                  metadata description
   - scenes/<slug>.md              prose (H1 title and the leading italic
                                   editorial note above the first --- are
                                   stripped; interior --- become scene breaks)
@@ -76,7 +77,6 @@ PACKAGING = {
         "blurb_heading": "## Test-epub blurb",
         "stem": "a-polite-invitation",
         "cover": "images/cover.png",
-        "description_from_short": True,
     },
     "fall-2": {
         # Took "A Warm Reception" from the spring on 2026-10-09; its own jacket
@@ -84,21 +84,18 @@ PACKAGING = {
         "blurb_heading": "## Volume 2 blurb",
         "stem": "a-warm-reception",
         "cover": "images/a-warm-reception-cover-placeholder.png",
-        "description_from_short": False,
     },
     "spring": {
         # Jacket copy rewritten for the post-split spring, accepted 2026-10-23.
         "blurb_heading": "## Volume 3 blurb",
         "stem": "a-proper-serving",
         "cover": "images/cover.png",
-        "description_from_short": False,
     },
     "summer": {
         # Jacket copy recorded 2026-10-23.
         "blurb_heading": "## Volume 4 blurb",
         "stem": "a-hot-meal",
         "cover": "images/cover.png",
-        "description_from_short": False,
     },
 }
 
@@ -311,16 +308,9 @@ def load_blurb(blurb_path: Path, vol: dict):
                  f"{blurb_path} (expected >=4 blockquote paragraphs, got "
                  f"{len(paras)})")
     body, tagline, comp = paras[:-2], paras[-2], paras[-1]
-    if vol["description_from_short"]:
-        short = blockquote_paragraphs(_section(_section(md, "## Explicit"),
-                                               "### Short"))
-        if not short:
-            sys.exit(f"could not parse the Explicit/Short blurb in {blurb_path}")
-        description = strip_emphasis(" ".join(short))
-    else:
-        # No volume-specific Explicit/Short; use the blurb body as the
-        # metadata description.
-        description = strip_emphasis(" ".join(body))
+    # The blurb body doubles as the metadata description (the separate
+    # Explicit/Short blurb was dropped 2026-10-23).
+    description = strip_emphasis(" ".join(body))
     return body, tagline, comp, description
 
 
