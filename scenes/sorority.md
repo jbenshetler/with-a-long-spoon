@@ -104,7 +104,7 @@ Vee laughed and said she'd settle for not tripping, and Randi said tripping was 
 
 "He was up all night finishing it," Vee said. It came out of her the way the tears had, without asking. "He fell asleep after. I watched him sleep."
 
-Randi's hand was still at the shoulder seam. It stayed, and for a breath Randi was somewhere else, behind her own face, and this time the breath ran long. Vee saw it, and saw it was the same quiet as yesterday in the lecture hall, and it came to her that it might be jealousy. Not of her. Of him, of a man who sat up nights and paid attention, and she found she wanted that for Randi so much it hurt. Randi, with her beautiful boys in a hurry and her dinners ahead of time, and nobody who had ever sat up a night over anything of hers.
+Randi's hand was still at the shoulder seam. It stayed, and for a breath Randi was somewhere else, behind her own face, and this time the breath ran long. Vee saw it, and saw it was the same quiet as this morning in the lecture hall, and it came to her that it might be jealousy. Not of her. Of him, of a man who sat up nights and paid attention, and she found she wanted that for Randi so much it hurt. Randi, with her beautiful boys in a hurry and her dinners ahead of time, and nobody who had ever sat up a night over anything of hers.
 
 Then she was back, and clapped once, brisk, glamour gone businesslike. "Okay. Off, carefully. We are not buying shoes for a dress we're *guessing* at. It comes with us. We match the real thing or we don't bother."
 

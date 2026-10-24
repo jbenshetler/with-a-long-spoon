@@ -1,0 +1,51 @@
+*capture-dag-v2-rich · carry-forward ck-ch010 · gemini-4-argon · romance-graduate · prompt-sha b3c0511c266a · experiment dates-undated · undated · 2026-10-24*
+
+WHO'S WHO
+
+- **Randi**: Twenty-one, black hair, startling blue eyes, pale, petite, sorority Standards chair (which gets her a single room). Wears bone/camel/oatmeal cashmere and silk, smells like sharp citrus and something cold underneath. Polices every bite she eats (thin apple slices, bruise-colored egg-white/beet smoothies, just like her mother who lives on egg whites and tofu). Has a slight foreign/elsewhere lilt to her voice (long *s*s, arched *a*s). She’s been sleeping with Pace for about a month, and after he cracked her armor wide open on his spanking bench, she panicked in his bathroom mirror and swore she'd never let him see the "real" her behind "the face" again. Her solution: turning her own newly discovered hunger for women into a "threesome gift" for Pace so another girl takes the heat and the bench.
+- **Pace**: Young math PhD (finishing up), lives west of town off 614 past where it turns to gravel, in a small house with cheap laminate counters that he keeps warm, with Steely Dan playing low. Drives a white pickup truck. Not tall ("short-cute" per the sorority girls) and has an ordinary face, but has woodworker forearms, thick knuckles, and builds his own high-end furniture—including the walnut-and-leather bench that hides under a tabletop in his bedroom. Courtly, patient, exact, never in a hurry. Has some past trauma/lesson from someone named **Daphne** (he opened a door she'd closed because he thought loving someone was permission, and it cost him everything, so now he never pushes a locked door).
+- **Vee (Vivienne Thorne)**: Twenty-one, econ major taking stats, tall, lush hourglass figure she hides under cardigans, dark red/copper hair, cinnamon freckles. Used to do synchronized swimming before her body became something men yelled at and her mother policed. Starving for real attention and permission to take up space and eat without watching herself.
+- **Cassie**: Vee’s roommate and best friend. Boxy frame, ball cap, says four words a day, plays rec sports, immune to bullshit. Clocked Randi's act in thirty seconds in stats class and sees Vee drifting into the shiny people's orbit.
+- **Brooke (and Sloane & Kinsey)**: Brooke is the sorority chapter president—warm voice like perfume, surgical, never stands up when she can make you stop walking from her chair. Sloane and Kinsey are her chorus.
+
+WHERE THINGS STAND
+
+Chapter 1 tricked me into thinking I was watching Vee, and then revealed it was Randi on Pace's bench—begging in her real, ugly voice, coming harder than she ever has, crying without realizing it, and then locking herself in his bathroom in terror because he saw past "the face." After getting subtly filleted by Brooke on Saturday morning for staying out with a grad student in a pickup truck, Randi refuses the bench the next time she's at Pace's. In bed, Pace asks if she wants to taste another woman; her body betrays her with an instant orgasm, and afterward she spins it as *"Only in a threesome. With you."*
+
+They play the "pointing game" on campus—he points, she picks—and Randi bypasses all the polished sorority types for Vee, who is walking out of the dining hall laughing with her head thrown back. Randi executes a flawless "accidental" shoulder bump, gets into Vee's stats class the next day, love-bombs her over lavender lattes at Chi Latte, and then sets the ambush at a coffee shop on Wilson: texting Pace under the table so he walks in, helps Vee solve an econ calculus integral (using Euler's formula, handing the pencil back so she solves it herself), and gets her number while pretending Randi is a stranger.
+
+Since then: Pace took Vee for froyo (and Randi rode his lap drinking red wine afterward, deeply turned on by Vee's unpoliced appetite, though she went rigid when Pace said Vee was "easy to listen to"—which Pace stupidly misread as mere lust for Vee). Then Pace took Vee to a tiny Middle Eastern restaurant (run by Christine, where he ordered in soft Arabic/French(?) and ate only with his right hand), where Vee let go of managing herself completely, and on the walk back *she* stopped him under a tree to kiss him after he gave her the space to choose. Now it's six days later: Vee has just spilled everything to Randi at Smoothie Bird (Randi pretending to forget Pace's name and inventing a bad Friday date to draw Vee out), Randi publicly claimed Vee as her "dear friend" right in front of Brooke, and Vee is going hiking with Pace on Sunday.
+
+HOW I FEEL ABOUT EACH OF THEM
+
+- **Randi**: I am fascinated by her and terrified of her. She isn't a cartoon villain; she’s a girl in a psychological panopticon who got seen once and is now building an elaborate human shield out of another woman so she can stay in control. The wild part is watching her get caught in her own net—she genuinely wants Vee (that breathless *"Yes"* on the quad, her voice dropping into Vee's fantasy at the smoothie shop), and claiming Vee in front of Brooke actually cost her real social capital. Plus, she's already catching a flicker of jealousy/fear over how Pace looks at and listens to Vee.
+- **Pace**: In the bedroom and on dates, he is lethal—the competence, the woodworker hands, the way he backs off half an inch so the woman has to choose to lean in and take what she wants. I love that he isn't a billionaire alpha hole; he's gentle and observant. *However*, his blind spot with Randi is huge. Because of whatever happened with Daphne, he respects Randi's locked bathroom door so much that he genuinely thinks he healed her on that bench, and he completely missed her freezing up on his lap when he talked about Vee. He thinks they're building something honest together while she's operating behind five layers of defense.
+- **Vee**: My heart is in my throat for her. I love her interiority—she isn't some wilting wallflower, she's smart and funny and secretly proud of her lush body even while her mother's voice makes her hide it under cardigans. Watching her spin into her beanbag chair bragging to Cassie that *she* chose to kiss Pace (*"Nobody did anything to me... I did it on purpose"*) is devastating because we see the strings being pulled.
+- **Cassie**: I love her so much. She is the only person in this book with her feet on the ground, and watching Vee slowly trade her in for Randi's high-wattage attention hurts.
+
+WHAT I'M CARRYING
+
+- Pace slicing the honeycrisp apple paper-thin and laying the cut sides up because Randi eats them faster that way.
+- Randi on the bench, running out of her "waiter *please*" script until her voice breaks into something ugly and real, and then pressing the sharp edge of the water bottle cap under her thumbnail on the bed afterward.
+- Randi in the bathroom mirror trying to put her photograph smile back on over the face that just begged, deciding *he can have the face, she's never coming out again.*
+- Brooke not even standing up from her laptop in the sorority common room while she and the girls fillet Randi's alibi and Pace's white pickup truck in four smiling minutes.
+- *"Do you think she'll like the bench?"* right after Randi finishes her little happy dance on the bricks after bumping into Vee.
+- Cassie looking at Vee after meeting Randi and saying flatly, *"Goodbye, Vee."*
+- Randi drinking red wine on Pace's lap and kissing it into his mouth while whispering *"Tell,"* her thighs tightening when he says Vee built a froyo cup like nobody ever told her when to stop—and then her hands stopping in his hair when he says Vee is easy to listen to.
+- Vee underwater at the rec pool, doing her old synchronized swimming scull in the green quiet where nobody can yell at her body: *"She had loved this before she had a body to be a problem."* And Cassie shooting water ten feet across the pool to make her shriek-laugh instead of asking why she's sad.
+- Pace licking the smoky baba ghanoush off the side of his right hand mid-sentence, and Vee floating off into the warmth of his voice over hot bread and mint tea in little brass cages.
+- Vee stroking her own thighs in the smoothie shop talking about Pace asking before he ravishes her on the mountain, and Randi's voice dropping a beat late into the same register: *"Ask and then ravish."*
+
+WHAT I'M WAITING FOR
+
+- **Sunday's hike.** We've had a long run of gorgeous, high-tension setup and slow-burn dates since Chapter 3, plus a string of very short two-page chapters in the middle (6, 7, 8), and I am starving for a full-length, high-heat scene between Pace and Vee on that mountain—or in his house off 614 afterward.
+- **Vee seeing the house—and the table.** When is Vee going to walk into Pace's bedroom and see the long walnut table, and what happens when the top comes off for her?
+- **The crack in Randi and Pace.** Pace is already keeping Vee's little froyo confession to himself instead of handing it over to Randi during their debriefs. Randi is already stiffening when Pace talks about listening to Vee. What happens when Pace starts falling for Vee for real—because Vee actually lets herself be fed and doesn't lock the bathroom door?
+- **Randi's own hunger for Vee.** The blurb says Vee is the first woman Randi has ever let herself want, and Vee doesn't let herself notice how much she wants Randi too. I'm waiting for the first time the physical charge between the two women crosses a line.
+- **Who was Daphne?** And why does Pace only eat with his right hand at the Middle Eastern restaurant, and why do Randi's *s*s and *a*s sound slightly foreign?
+
+WHAT'S FADING
+
+- The exact math of the calculus problem in the coffee shop—something about integrals going in circles and Euler's formula (*e* to the *i-x*) putting things at right angles, and Bessel's correction (*n*-minus-one) that Randi asked about. I kept the *feel* of how he taught her and handed back the pencil, not the math itself.
+- The roommate/hallmate from Vee's dorm she was walking out of the dining hall with when Randi bumped into her—Meg? I think her name was Meg, she's already a blur compared to Cassie.
+- The exact street/building names on campus (Draper, Wilson, Hahn?) aside from 614 being Pace's road and Chi Latte / Smoothie Bird being the two shops.

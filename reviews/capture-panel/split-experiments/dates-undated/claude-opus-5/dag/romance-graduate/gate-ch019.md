@@ -1,0 +1,26 @@
+*capture-dag-v2-rich · gate ch019 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ab6b14909a3d · experiment dates-undated · undated · 2026-10-24*
+
+REACTION
+
+Okay, the zipper. That's the chapter. Vee gets three feet from Cassie with her towel in her hand and the zip half down and she can't finish, because the green is gone — she *traded* it — and if the skirt comes off there's nothing left to edit. "It would be on the floor, and there would be nothing left to say." She zips back up and lies about forgetting something and Cassie says *you need to get your brain back from your boyfriend,* kindly, certainly, wrong, and goes to her game. I had to put the book face-down on my knee for a second. The physical fact of the missing underwear became the thing she can't say to her best friend. That's not a metaphor the book explained to me. It just put it there and let me step on it.
+
+And then she drives across town and gives the middle to Randi instead. That's the whole plan completing, and nobody in the room knows it but me. The ladle line — the soup taken out and the surface closing without a hole, and *she believed it the way you believe the thing that lets you keep what you want to keep* — I'm going to be thinking about that one for a while, because it's the most honest sentence anyone has written about how people lie to themselves about who they confide in. Vee isn't choosing Randi over Cassie because Randi's better. She's choosing Randi because Randi won't make her feel it, and she's calling that a kindness to Cassie. It *is* a kindness. It's also the exact crack the plan was built to widen.
+
+Randi, though. Randi opened with another manufactured deficit — the beautiful ex, the boy in a hurry, *at least I got dinner out of it,* *I'm running on fumes here, give me something to live on.* That's the lacrosse boy move again, second time I've watched her do it: hand Vee a sad little story so Vee owes her a bright one. And it still *works*, and I sat there admiring the technique and hating it, which is where this book keeps parking me. But what got me is that Randi's seams are going. The esses running long, the a's lifting, *more of whatever it was than there had been when they sat down* — her accent is the first thing she built and it's coming off under pressure. Her eyes liquid at the edges. Vee thinks she's tipsy, checks the glass, finds one barely-touched mimosa, and lets it go, and I didn't let it go for a second. Randi is sitting in bright glass light listening to a girl describe painting her toes to match the silk Pace is cutting for her, and reaching across the cloth to say *you're not caught, sweetheart, you're lucky,* and *do you know how many people never get within a mile of it.* She's describing her own quarantine and calling it other people's good fortune. And when Vee says *I wanted it and I took it, for once,* Randi says **Good** — and means it, and that's the one that's going to cost her everything, because she meant it as a friend.
+
+Also I notice what she didn't do: she didn't press for the thing. She stopped Vee at the fitting last time with *you don't have to tell me,* and here she never even reaches for it — she goes after the *preparation* instead. The polish, the store, the campaign. She's gotten more patient. That's worse.
+
+The kiss at the curb, met this time, and Vee not scanning the windows for who saw. Two chapters ago that cold spreading thing sent her hunting the dark squares. Now she just drives home lighter and turns the radio up. Nobody forced a single inch of that.
+
+What I'm restless about: this is report, not scene. Cassie-then-Randi, with the Randi extraction and the curb kiss, is the same architecture as chapter seventeen, and I can see the book is playing a deliberate variation to show me the distance Vee's moved. Fine. I can read that. But I've now spent two of the last three chapters hearing about things instead of being in them, and the thing I most want after chapter eighteen is Randi's night — where was *she* on Friday while Vee was in those white sheets, and what did Pace tell her, and did she go over and make him tell. That's the chapter the book owes me and it skipped straight past it to brunch. The glass of wine Vee was too keyed up to touch and finally drank at midnight in his sheet — gorgeous, I'll keep it — but give me the room next time instead of the table where she describes the room.
+
+Cassie's half-second at the top, the thing that crossed her face before it found a name. I saw that. She's going to know, and the knowing is going to arrive as an absence, not a discovery — the week Vee stops telling her.
+
+GATE 19 — Fed
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 8
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: "I have to tell you my sad little story first, to clear the air, and then you are going to make me feel so much worse" — I thought, I've watched you run this exact play already.
+WHY: The zipper and the ladle are worth the price of the whole chapter, and Randi's accent slipping over an untouched mimosa is the best thing in the book since the finger-snap. But it's the second debrief in three chapters and I'm hungry for the scene the book is standing next to — Randi's Friday night, not Vee's Sunday brunch.

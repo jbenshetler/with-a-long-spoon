@@ -170,3 +170,8 @@ applied, the remaining 17 hits suppressed with per-group rationale in
 - **H — `there-was-were` ×2** (`:13` the held pause before Randi speaks;
   `:105` "There was nothing under it", quoted approvingly by three cold
   readers).
+
+
+### Author ruling — lecture-hall quiet is same-day (2026-10-24)
+
+`:107` "the same quiet as yesterday in the lecture hall" → "the same quiet as this morning in the lecture hall." The try-on follows stats class the same Friday (`:77`, "at eight that morning"); the quiet it recalls is `:51`, Randi in the aisle seat with "nothing at all on her face." Caught by the dated-heading capture test and independently by a blind undated reader.
