@@ -38,9 +38,16 @@ sys.path.insert(0, str(REPO / "tools"))
 import checkpoint_bundle  # noqa: E402
 import authorship_audit  # noqa: E402  (run_claude, CLAUDE_PREFIX)
 import cold_read_config  # noqa: E402  (rosters + OpenRouter map — the single source)
+import chapter_dates  # noqa: E402  (the stable chapter-date source)
 
 PANEL_ROOT = REPO / "reviews" / "capture-panel"
 PROTOCOL = "capture-dag-v2-rich"
+# Experiment lanes (set from --experiment / --dated in main). An experiment writes
+# under split-experiments/<name>/, outside the */dag/* glob capture_stats reads,
+# so it can never mix into the real capture record. DATED adds the reader-facing
+# date lines from chapter_dates (weekday, month, day; never the year).
+EXPERIMENT: str | None = None
+DATED = False
 PERSONAS = ["romance-graduate", "fsog-refugee"]
 # Standing TWO (author ruling 2026-10-10): the default capture panel is the two
 # primary-vector readers, `romance-graduate` and `fsog-refugee`. `relationship-first`
@@ -100,7 +107,15 @@ def sysprompt(persona: str, frame: str) -> tuple[str, str]:
 
 
 def dag_dir(model_id: str, persona: str) -> Path:
+    if EXPERIMENT:
+        return PANEL_ROOT / "split-experiments" / EXPERIMENT / model_id / "dag" / persona
     return PANEL_ROOT / model_id / "dag" / persona
+
+
+def variant_tag() -> str:
+    if not EXPERIMENT:
+        return ""
+    return f" · experiment {EXPERIMENT}" + (" · dated" if DATED else " · undated")
 
 
 def gate_path(d: Path, n: int) -> Path:
@@ -113,8 +128,12 @@ def ck_path(d: Path, b: int) -> Path:
 
 def chapter_block(i: int) -> str:
     s = slugs()[i - 1]
-    return (f"===== CHAPTER {i}: {checkpoint_bundle.display_title(s)} =====\n\n"
-            f"{checkpoint_bundle.clean_scene_text(s)}\n")
+    body = checkpoint_bundle.clean_scene_text(s)
+    head = f"===== CHAPTER {i}: {checkpoint_bundle.display_title(s)} =====\n\n"
+    if DATED:
+        head += f"*{chapter_dates.heading(s)}*\n\n"
+        body = chapter_dates.dated_text(s, body)
+    return f"{head}{body}\n"
 
 
 def chapter_sha(i: int) -> str:
@@ -323,7 +342,7 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
                 raise RuntimeError(f"malformed gate for {label}"
                                    f" — {save_raw(d, n, label, raw)}")
             write_doc(gp, f"*{PROTOCOL} · gate ch{n:03d} · {model_id} · {persona} · "
-                          f"prompt-sha {read_sha} · prose-sha {chapter_sha(n)} · "
+                          f"prompt-sha {read_sha} · prose-sha {chapter_sha(n)}{variant_tag()} · "
                           f"{date.today().isoformat()}*", raw)
             print(f"  gate {label}", flush=True)
         if re.search(r"DECISION:\s*STOP", gp.read_text(), re.I):
@@ -338,7 +357,7 @@ def run_reader(model_id: str, persona: str, agent_fn, to_n: int,
                 if len(raw) < 800:
                     raise RuntimeError(f"suspiciously short mint for {label}")
                 write_doc(cp, f"*{PROTOCOL} · carry-forward ck-ch{n:03d} · {model_id} · "
-                              f"{persona} · prompt-sha {mint_sha} · "
+                              f"{persona} · prompt-sha {mint_sha}{variant_tag()} · "
                               f"{date.today().isoformat()}*", raw)
                 print(f"  mint {label}", flush=True)
     return f"{model_id}·{persona}: through ch{to_n}"
@@ -431,7 +450,22 @@ def main() -> None:
     ap.add_argument("--check-stale", action="store_true",
                     help="report which existing gates were minted from prose that has "
                          "since changed, then exit. Costs no tokens.")
+    ap.add_argument("--experiment", metavar="NAME",
+                    help="write to reviews/capture-panel/split-experiments/NAME/ "
+                         "instead of the real lanes (never read by capture_stats)")
+    ap.add_argument("--dated", action="store_true",
+                    help="add chapter_dates lines to every chapter; requires --experiment")
+    ap.add_argument("--show-packet", type=int, metavar="N",
+                    help="print chapter N as the reader would see it, then exit (no calls)")
     args = ap.parse_args()
+
+    global EXPERIMENT, DATED
+    EXPERIMENT, DATED = args.experiment, args.dated
+    if DATED and not EXPERIMENT:
+        raise SystemExit("--dated requires --experiment: dated reads never enter the real lanes")
+    if args.show_packet:
+        print(chapter_block(args.show_packet))
+        return
 
     if args.assemble:
         for m in args.models:

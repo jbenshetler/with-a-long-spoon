@@ -12,9 +12,15 @@ check that each weekday matches its date on the hidden 2026–27 calendar
 (fall in 2026, January onward in 2027).
 
     tools/chapter_dates.py            # every drafted chapter: N, slug, heading
-    tools/chapter_dates.py --check    # exit 1 if a chronology weekday does not
-                                      # match its date; approximate or missing
-                                      # dates are listed but do not fail
+    tools/chapter_dates.py --check    # exit 1 on a weekday that does not match
+                                      # its date or a `days:` anchor an edit lost;
+                                      # approximate/missing dates do not fail
+
+A multi-day chapter carries a `days:` metadata segment in its chronology entry,
+e.g. `days: Sat Sep 19 | Fri Sep 25 @ "Six days later, the professor"`: the
+first day runs from the top; each later day names the opening words of the
+section (after a `---` break) where it begins. The chapter heading shows the
+first day; each later day gets its own line at that section.
 
 The stable source for chapter-date calculation (author ruling 2026-10-24): the
 capture/cold-read dated packets and the epub heading line both call heading().
@@ -48,6 +54,8 @@ POINT_RE = re.compile(
 )
 ENTRY_RE = re.compile(r"^###\s+\[(SCENE|VIGNETTE)\]\s+")
 SLUG_RE = re.compile(r"slug:\s*([a-z0-9-]+)")
+DAYS_RE = re.compile(r"days:\s*([^·*]+)")
+SCENES = CHRONOLOGY.parent.parent / "scenes"
 
 
 class DateError(ValueError):
@@ -56,6 +64,10 @@ class DateError(ValueError):
 
 class WeekdayMismatch(DateError):
     """The chronology's weekday contradicts its date: a canon error."""
+
+
+class AnchorMissing(DateError):
+    """A `days:` anchor no longer opens a section of the scene file."""
 
 
 def _year(month: int) -> int:
@@ -76,6 +88,8 @@ def _metadata_lines() -> dict[str, str]:
 def _date_segment(meta: str) -> str | None:
     """The first metadata segment carrying an exact weekday date."""
     for seg in meta.strip().strip("*").split("·"):
+        if seg.strip().lower().startswith("days:"):
+            continue
         if POINT_RE.search(seg):
             return seg.strip().strip("*").strip()
     return None
@@ -99,24 +113,94 @@ def _render(d: dt.date) -> str:
     return f"{WEEKDAY_NAMES[d.weekday()]}, {MONTH_NAMES[d.month]} {d.day}"
 
 
-def heading(slug: str) -> str:
-    """The date line for a drafted chapter; raises DateError if it cannot be exact."""
-    meta = _metadata_lines().get(slug)
-    if meta is None:
-        raise DateError(f"{slug}: no chronology entry with this slug")
+def _chapter_range(slug: str, meta: str) -> tuple[dt.date, dt.date]:
     seg = _date_segment(meta)
     if seg is None:
         raise DateError(f"{slug}: no exact weekday date in its chronology entry")
     if seg.startswith("~"):
         raise DateError(f"{slug}: chronology date is approximate ({seg!r})")
     pts = _points(seg, slug)
-    first, last = pts[0], pts[-1]
-    if last < first:
+    if pts[-1] < pts[0]:
         raise DateError(f"{slug}: date range runs backwards ({seg!r})")
-    if first == last:
-        return _render(first)
-    return f"{_render(first)} – {_render(last)}"
+    return pts[0], pts[-1]
 
+
+def section_days(slug: str) -> list[tuple[str | None, str]]:
+    """[(anchor, date line), ...]: anchor None for the opening day.
+
+    Single-day and range chapters with no `days:` field return one entry."""
+    meta = _metadata_lines().get(slug)
+    if meta is None:
+        raise DateError(f"{slug}: no chronology entry with this slug")
+    first, last = _chapter_range(slug, meta)
+    m = DAYS_RE.search(meta)
+    if not m:
+        line = _render(first) if first == last else f"{_render(first)} – {_render(last)}"
+        return [(None, line)]
+    out: list[tuple[str | None, str]] = []
+    prev = None
+    for k, part in enumerate(p.strip() for p in m.group(1).split("|")):
+        anchor = None
+        if "@" in part:
+            part, anchor = (x.strip() for x in part.split("@", 1))
+            anchor = anchor.strip('"').strip()
+        pts = _points(part, slug)
+        if len(pts) != 1:
+            raise DateError(f"{slug}: each `days:` part needs one date ({part!r})")
+        if (k == 0) != (anchor is None):
+            raise DateError(f"{slug}: only the first `days:` part may omit an anchor")
+        if prev and pts[0] < prev:
+            raise DateError(f"{slug}: `days:` dates run backwards")
+        if not (first <= pts[0] <= last):
+            raise DateError(f"{slug}: `days:` date {part!r} falls outside the entry's dates")
+        prev = pts[0]
+        out.append((anchor, _render(pts[0])))
+    _check_anchors(slug, [a for a, _ in out if a])
+    return out
+
+
+def _section_openings(text: str) -> list[str]:
+    lines = text.split("\n")
+    opens = []
+    for i, line in enumerate(lines):
+        if line.strip() == "---":
+            for nxt in lines[i + 1:]:
+                if nxt.strip():
+                    opens.append(nxt.strip())
+                    break
+    return opens
+
+
+def _check_anchors(slug: str, anchors: list[str]) -> None:
+    opens = _section_openings((SCENES / f"{slug}.md").read_text(encoding="utf-8"))
+    for a in anchors:
+        if sum(o.startswith(a) for o in opens) != 1:
+            raise AnchorMissing(
+                f"{slug}: `days:` anchor {a!r} does not open exactly one section "
+                f"of scenes/{slug}.md — an edit moved it; update the chronology"
+            )
+
+
+def heading(slug: str) -> str:
+    """The date line under the chapter title; raises DateError if not exact."""
+    return section_days(slug)[0][1]
+
+
+def dated_text(slug: str, text: str) -> str:
+    """Insert each later day's line at the top of the section it anchors.
+
+    `text` is the chapter body (as given to readers); the heading line is the
+    caller's to place under the title."""
+    days = section_days(slug)
+    lines = text.split("\n")
+    for anchor, line in days[1:]:
+        for i, ln in enumerate(lines):
+            if ln.strip().startswith(anchor):
+                lines[i:i] = [f"*{line}*", ""]
+                break
+        else:
+            raise AnchorMissing(f"{slug}: anchor {anchor!r} not found in the text given")
+    return "\n".join(lines)
 
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__,
@@ -128,7 +212,7 @@ def main() -> None:
     for n, s in enumerate(drafted, 1):
         try:
             line = heading(s["slug"])
-        except WeekdayMismatch as exc:
+        except (WeekdayMismatch, AnchorMissing) as exc:
             errors += 1
             line = f"!! {exc}"
         except DateError as exc:
@@ -136,9 +220,12 @@ def main() -> None:
             line = f"~  {exc}"
         if not args.check or line[:2] in ("!!", "~ "):
             print(f"{n:3d}  {s['tag']:<8} {s['slug']:<22} {line}")
+            if not args.check and not line.startswith(("!!", "~")):
+                for anchor, later in section_days(s["slug"])[1:]:
+                    print(f"{'':37}{later}   @ {anchor!r}")
     if args.check:
         print(f"{len(drafted) - errors - inexact}/{len(drafted)} exact · "
-              f"{inexact} without an exact date · {errors} weekday mismatch(es)")
+              f"{inexact} without an exact date · {errors} error(s) (weekday mismatch or lost anchor)")
         sys.exit(1 if errors else 0)
 
 if __name__ == "__main__":

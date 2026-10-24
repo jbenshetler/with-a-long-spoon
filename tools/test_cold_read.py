@@ -733,6 +733,20 @@ class ChapterDateTests(unittest.TestCase):
             with self.assertRaises(self.dates.WeekdayMismatch):
                 self.dates.heading("x")
 
+    def test_days_field_dates_each_section_and_checks_anchor(self):
+        meta = {"x": '*Sat Sep 19 / Fri Sep 25 · days: Sat Sep 19 | Fri Sep 25 @ "Six days" · slug: x'}
+        scene = "# X\n\n---\n\nSaturday text.\n\n---\n\nSix days later, it was Friday.\n"
+        with tempfile.TemporaryDirectory() as tmp, \
+                patch.object(self.dates, "_metadata_lines", return_value=meta), \
+                patch.object(self.dates, "SCENES", Path(tmp)):
+            (Path(tmp) / "x.md").write_text(scene)
+            self.assertEqual(self.dates.heading("x"), "Saturday, September 19")
+            body = self.dates.dated_text("x", "Saturday text.\n\n---\n\nSix days later, it was Friday.")
+            self.assertIn("---\n\n*Friday, September 25*\n\nSix days later", body)
+            (Path(tmp) / "x.md").write_text(scene.replace("Six days later", "A week on"))
+            with self.assertRaises(self.dates.AnchorMissing):
+                self.dates.section_days("x")
+
     def test_approximate_date_is_not_rendered(self):
         meta = {"x": "*~Sat Feb 6* · slug: x"}
         with patch.object(self.dates, "_metadata_lines", return_value=meta):

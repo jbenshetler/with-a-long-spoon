@@ -49,11 +49,12 @@ fi
 # --- 1c. chronology weekdays vs the hidden calendar ------------------------
 # tools/chapter_dates.py is the stable source for chapter-date calculation; a
 # stated weekday that does not match its date on the 2026-27 calendar is a
-# canon error. Approximate/missing dates are listed but never block.
-if printf '%s\n' "$staged" | grep -qE '^meta/meta-plan-chronology\.md$'; then
+# canon error, and so is a `days:` section anchor that a scene edit removed.
+# Approximate/missing dates are listed but never block.
+if printf '%s\n' "$staged" | grep -qE '^(meta/meta-plan-chronology\.md|scenes/.*\.md)$'; then
     if ! tools/chapter_dates.py --check >&2; then
         echo "" >&2
-        echo "pre-commit: a chronology weekday does not match its date (see above)." >&2
+        echo "pre-commit: a chronology weekday does not match its date, or a days: anchor is gone (see above)." >&2
         echo "(To bypass in an emergency: git commit --no-verify)" >&2
         exit 1
     fi

@@ -199,6 +199,9 @@ def classify(seg: str):
     low = s.lower()
     if not s:
         return None
+    if low.startswith("days:"):
+        # per-section day anchors for multi-day chapters; read by chapter_dates.py
+        return "days", {"label": s.split(":", 1)[1].strip()}
     if low.startswith("slug:"):
         return "slug", {"label": s.split(":", 1)[1].strip()}
     if low.startswith("present:"):
