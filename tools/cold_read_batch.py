@@ -32,62 +32,32 @@ REFUSAL_MARKERS = (
     "re-run with the actual chapter",
 )
 
-FALL_SCENES = [
-    {"title": "The Bench", "slug": "the-bench", "volume_start": 1},
-    {"title": "Standards", "slug": "standards"},
-    {"title": "The Pointing Game", "slug": "the-pointing-game"},
-    {"title": "See You Later", "slug": "see-you-later"},
-    {"title": "Substitution", "slug": "substitution"},
-    {"title": "The Long Way", "slug": "long-way"},
-    {"title": "Water Wings", "slug": "water-wings"},
-    {"title": "May I Choose", "slug": "may-i-choose"},
-    {"title": "Off Six-Fourteen", "slug": "off-six-fourteen"},
-    {"title": "Dear", "slug": "dear"},
-    {"title": "Leave No Trace", "slug": "leave-no-trace"},
-    {"title": "Rye", "slug": "rye"},
-    {"title": "What to Wear", "slug": "what-to-wear"},
-    {"title": "Two Towels", "slug": "two-towels"},
-    {"title": "A Round", "slug": "a-round"},
-    {"title": "Turned Up", "slug": "turned-up"},
-    {"title": "How It's Done", "slug": "how-its-done"},
-    {"title": "Famished", "slug": "famished"},
-    {"title": "Toenails", "slug": "toenails"},
-    {"title": "Fed", "slug": "fed"},
-    {"title": "Peekaboo", "slug": "peekaboo"},
-    {"title": "All Told", "slug": "all-told"},
-    {"title": "Sorority", "slug": "sorority"},
-    {"title": "Gone", "slug": "gone"},
-    {"title": "Rock", "slug": "rock"},
-    {"title": "Lesson", "slug": "lesson"},
-    {"title": "Broken In", "slug": "broken-in"},
-    {"title": "Hills and Valleys", "slug": "hills-and-valleys"},
-    {"title": "A Recognized Method", "slug": "recognized-method"},
-    {"title": "The Practice Room", "slug": "practice-room"},
-    {"title": "The Induction", "slug": "the-induction"},
-    {"title": "We Find Out", "slug": "we-find-out"},
-    {"title": "Made-Up", "slug": "made-up"},
-    {"title": "One Bite", "slug": "one-bite"},
-    {"title": "Above Him", "slug": "above-him"},
-    {"title": "School Nights", "slug": "school-nights"},
-    {"title": "In His Hands", "slug": "in-his-hands"},
-    {"title": "All the Time", "slug": "all-the-time"},
-    {"title": "The Outlier", "slug": "outlier"},
-    {"title": "The New Ordinary", "slug": "new-ordinary"},
-    {"title": "Cropped", "slug": "cropped"},
-    {"title": "Seconds", "slug": "seconds"},
-    {"title": "Under the Rug", "slug": "under-the-rug"},
-    {"title": "Bare", "slug": "bare"},
-    {"title": "Believe Me", "slug": "believe-me"},
-    {"title": "Fairytale", "slug": "fairytale"},
-    {"title": "Old Acquaintances", "slug": "old-acquaintances"},
-    {"title": "The Usual", "slug": "the-usual"},
-    {"title": "My Friend Randi", "slug": "my-friend-randi"},
-    {"title": "Nothing Underneath", "slug": "nothing-underneath"},
-    # Spring (Volume Two) drafted scenes — appended in story order so scoped runs
-    # can reach them; the list name predates the volume split.
-    {"title": "Among Friends", "slug": "among-friends", "volume_start": 2},
-    {"title": "Another Round", "slug": "another-round"},
-]
+def _reader_scenes() -> list[dict]:
+    """Drafted scenes in reading order, from the volume data file.
+
+    Volume membership comes only from `meta/meta-volumes.toml` (via
+    volume_scenes); the first drafted scene of each volume carries
+    `volume_start`. This replaced a hand-maintained list literal that had
+    drifted from the chronology (2026-10-24)."""
+    import sys
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import volume_scenes
+
+    scenes: list[dict] = []
+    seen: set[int] = set()
+    for s in volume_scenes.all_scenes():
+        if not s["drafted"]:
+            continue
+        entry = {"title": s["title"], "slug": s["slug"]}
+        if s["volume"] not in seen:
+            seen.add(s["volume"])
+            entry["volume_start"] = s["volume"]
+        scenes.append(entry)
+    return scenes
+
+
+# Name kept for callers; it predates the volume split and now spans every volume.
+FALL_SCENES = _reader_scenes()
 
 
 VOLUME_PACKETS = Path("reviews/cold-read/volume-packets.toml")

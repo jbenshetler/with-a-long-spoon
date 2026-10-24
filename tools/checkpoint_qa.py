@@ -1,4 +1,7 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.11"
+# ///
 """Consensus-aware QA for the grounded cold-read panel.
 
 Runs a fixed battery of ~20 checks against every model's grounded artifacts —
@@ -154,18 +157,17 @@ def check_passes(text: str, check: dict) -> bool:
 
 
 def _panel_config() -> tuple[list[str], dict[str, str]]:
-    config = (REPO / "reviews/cold-read/ensemble-config.toml").read_text()
-    section = re.search(r"^\[panel\](.*?)(?=\n\[|\Z)", config, re.DOTALL | re.MULTILINE)
-    models_match = re.search(r"\bmodels\s*=\s*\[(.*?)\]", section.group(1), re.DOTALL) if section else None
-    if not models_match:
+    # The shared loader (tomllib), not a regex: a "]" in a comment inside
+    # [panel].models truncated the roster here (2026-10-24).
+    import cold_read_config
+
+    models = list(cold_read_config.panel_models())
+    if not models:
         raise RuntimeError("active panel missing from ensemble-config.toml")
-    models = re.findall(r'"([^"]+)"', models_match.group(1))
-    sources: dict[str, str] = {}
-    for match in re.finditer(
-        r'\[readers\."([^"]+)"\](.*?)(?=\n\[|\Z)', config, re.DOTALL
-    ):
-        source = re.search(r'\bcheckpoint_source\s*=\s*"([^"]+)"', match.group(2))
-        sources[match.group(1)] = source.group(1) if source else "native"
+    sources = {
+        model: cold_read_config.reader_settings(model).get("checkpoint_source", "native")
+        for model in cold_read_config.load_config().get("readers", {})
+    }
     return models, sources
 
 

@@ -93,8 +93,8 @@ interim remint: replace these artifacts during the approved 51-entry atomic cuto
 
 When the lap vignette is drafted, migrate the seam in one change set:
 
-1. Mark the vignette Draft complete and add its slug to the legacy `FALL_SCENES`
-   manifest at the same chronology position.
+1. Mark the vignette Draft complete at its chronology position. (The chained
+   lane's `FALL_SCENES` now derives from `meta-volumes.toml`; no list edit.)
 2. Mint each native final-Vol1 `ck-ch051` as a raw ch1..51 single pass.
 3. Change the explicit first-Vol2 seed policy from `60: 50` to `60: 51`; the ck060
    raw span becomes ch52..60. Update its recipes and seam-contract tests together.
@@ -104,3 +104,15 @@ When the lap vignette is drafted, migrate the seam in one change set:
 `checkpoint_plan()` fails closed if the first-Vol2 seed no longer equals the drafted
 Vol1 endpoint, preventing the planned insertion from silently leaving ck050 as the
 active seam.
+
+### Pending with the next remint: extractor alias fix (author ruling 2026-10-24)
+
+Every audited ck-ch020 (opus-5-5, sol, argon, glm-5.3) records **Miranda / Peter /
+Cassandra** as facts though none is on the page through ch20. The source is the
+identity-discipline pairs in `.claude/agents/blind-extractor.md` ("**Randi** (=
+Miranda), **Pace** (= Peter) …"). Add, in that bullet: *use these pairs only to
+recognize one person under two names; record a formal name only once the page uses
+it.* The extractor prompt is in every native checkpoint's `source-sha256`, so this
+edit stales **all** native checkpoints — apply it immediately before the remint that
+rebuilds `core` (sources: claude-opus-5-5, gemini-4-argon, gpt-5.6-sol), never alone.
+Related, not a prompt bug: Vee's "twenty-one" comes from the jacket copy.

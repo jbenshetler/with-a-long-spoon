@@ -1,4 +1,7 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.11"
+# ///
 """Augment meta-plan-chronology.md entry metadata with `slug:` and `present:`.
 
 Two segments are appended to each entry's metadata line (idempotent — a segment
@@ -29,12 +32,14 @@ import sys
 from pathlib import Path
 
 def _panel_models() -> frozenset[str]:
-    config = (Path(__file__).resolve().parent.parent / "reviews/cold-read/ensemble-config.toml").read_text()
-    section = re.search(r"^\[panel\](.*?)(?=\n\[|\Z)", config, re.DOTALL | re.MULTILINE)
-    models = re.search(r"\bmodels\s*=\s*\[(.*?)\]", section.group(1), re.DOTALL) if section else None
+    # The shared loader (tomllib), not a regex: a "]" in a comment inside
+    # [panel].models truncated the roster here (2026-10-24).
+    import cold_read_config
+
+    models = frozenset(cold_read_config.panel_models())
     if not models:
         raise RuntimeError("cold-read panel roster missing from ensemble-config.toml")
-    return frozenset(re.findall(r'"([^"]+)"', models.group(1)))
+    return models
 
 
 PANEL_MODELS = _panel_models()

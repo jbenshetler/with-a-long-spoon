@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import importlib
 import sys
 import tempfile
@@ -44,7 +45,8 @@ class _Thread:
 class _Codex:
     last = None
 
-    def __init__(self):
+    def __init__(self, config=None):
+        self.config = config
         self.calls = []
         self.closed = False
         _Codex.last = self
@@ -138,8 +140,13 @@ class CodexAdapterTests(unittest.TestCase):
         self.module = importlib.import_module("cold_read")
 
     def test_subscription_adapter_isolated_and_reports_unknown_cost(self):
-        fake_sdk = types.SimpleNamespace(Codex=_Codex, Sandbox=_Sandbox)
-        with patch.dict(sys.modules, {"openai_codex": fake_sdk}):
+        fake_sdk = types.SimpleNamespace(
+            Codex=_Codex, Sandbox=_Sandbox, CodexConfig=lambda **kw: kw
+        )
+        # Force the bundled-binary branch: with a codex on PATH the adapter
+        # would shell out to `codex --version`, making the test machine-dependent.
+        with patch.dict(sys.modules, {"openai_codex": fake_sdk}), \
+                patch.dict(os.environ, {"CODEX_BIN": "bundled"}):
             agent_fn, close = self.module.make_codex_agent_fn(
                 system_prompt="blind-reader instructions",
                 effort="low",
@@ -382,8 +389,13 @@ class CheckpointPolicyTests(unittest.TestCase):
         vs = self.bundle.volume_scenes
         _, vol1_end = vs.volume_bounds(1, drafted_only=True)
         self.assertEqual(self.bundle.checkpoint_plan(vol1_end), (None, 1))
-        with self.assertRaisesRegex(ValueError, "no explicit checkpoint seed policy"):
-            self.bundle.checkpoint_plan(70)
+        # A later-volume boundary with no [checkpoint_seeds] entry fails closed.
+        # The boundary comes from the volume data file, and the seed table is
+        # emptied, so the test holds whatever seams are configured today.
+        vol2_start, _ = vs.volume_bounds(2, drafted_only=True)
+        with patch.dict(self.bundle.CHECKPOINT_SEEDS, clear=True):
+            with self.assertRaisesRegex(ValueError, "no explicit checkpoint seed policy"):
+                self.bundle.checkpoint_plan(vol2_start)
 
     def test_seed_is_keyed_by_slug_and_survives_renumbering(self):
         """The seam is a name, so inserting a chapter must not move it.

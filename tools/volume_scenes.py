@@ -318,32 +318,6 @@ def chapter_number(slug: str) -> int:
     return 1 + sum(1 for s in scenes[:target] if s["drafted"])
 
 
-def _parse_fall_scenes_slugs(path: Path):
-    """Textually extract the ordered Volume One slug prefix from
-    `cold_read_batch.py`'s `FALL_SCENES` list literal, without importing it
-    (that module requires tomllib, unavailable under bare python3 here).
-
-    Returns the slug list up to (not including) the first entry that also
-    contains `"volume_start": 2` (i.e. the first Volume Two entry, `among-friends`).
-    """
-    text = path.read_text()
-    m = re.search(r"FALL_SCENES\s*=\s*\[(.*?)\n\]", text, re.DOTALL)
-    if not m:
-        raise RuntimeError(f"could not locate FALL_SCENES list literal in {path}")
-    body = m.group(1)
-    # Split into individual dict-literal entries by top-level `{...}` blocks.
-    entries = re.findall(r"\{[^{}]*\}", body)
-    slugs = []
-    for entry in entries:
-        sm = re.search(r'"slug":\s*"([a-z0-9-]+)"', entry)
-        if not sm:
-            continue
-        if re.search(r'"volume_start":\s*2\b', entry):
-            break
-        slugs.append(sm.group(1))
-    return slugs
-
-
 # --------------------------------------------------------------------------
 # Validation
 # --------------------------------------------------------------------------
@@ -476,7 +450,6 @@ def _cli():
     parser.add_argument("--number", metavar="SLUG", help="print the drafted reading-order N for a scene slug (what checkpoint_context --to expects)")
     parser.add_argument("--volumes", action="store_true", help="print the volume table from the data file")
     parser.add_argument("--check", action="store_true", help="validate the data file against the chronology")
-    parser.add_argument("--check-fall-scenes", action="store_true", help="validate chronology Volume One drafted slugs against FALL_SCENES")
     args = parser.parse_args()
 
     if args.number:
@@ -507,32 +480,6 @@ def _cli():
         print(f"OK: {volume_count()} volumes, "
               f"{len(all_scenes())} scenes, contiguous and fully covered")
         sys.exit(0)
-
-    if args.check_fall_scenes:
-        batch_path = Path(__file__).resolve().parent / "cold_read_batch.py"
-        provider_slugs = _parse_fall_scenes_slugs(batch_path)
-        chron_slugs = volume_one_slugs(drafted_only=True)
-        if provider_slugs == chron_slugs:
-            print(f"OK: {len(chron_slugs)} Volume One slugs match")
-            sys.exit(0)
-        only_provider = [s for s in provider_slugs if s not in chron_slugs]
-        only_chron = [s for s in chron_slugs if s not in provider_slugs]
-        print("MISMATCH")
-        if only_provider:
-            print(f"  in FALL_SCENES only: {only_provider}")
-        if only_chron:
-            print(f"  in chronology only: {only_chron}")
-        first_diverge = None
-        for idx, (a, b) in enumerate(zip(provider_slugs, chron_slugs)):
-            if a != b:
-                first_diverge = idx
-                break
-        else:
-            if len(provider_slugs) != len(chron_slugs):
-                first_diverge = min(len(provider_slugs), len(chron_slugs))
-        if first_diverge is not None:
-            print(f"  first diverging index: {first_diverge}")
-        sys.exit(1)
 
     if args.list is not None:
         vols = volume_ordinals() if args.list == "all" else [int(args.list)]
