@@ -59,6 +59,9 @@ mark items done with dates as they complete.*
   **Per-edit check 2026-10-23:** merged *Fed* (former *Toenails* plus *Fed*, both passages verbatim) checked by gpt-5.6-sol against a freshly derived Volume One ledger; no factual contradictions flagged. Rechecked after the subsequent 225-word retelling reduction, again with no contradictions flagged. Rechecked after the further 85-word explanation pass: no contradictions flagged. This limited check does not complete the whole-book, cross-volume Lane A pass.
   **Per-edit check 2026-10-23, Dear diptych:** gpt-5.6-sol checked both merged movements against the existing Volume One ledger; no factual contradictions flagged. Limited per-edit check only.
   **Per-edit check 2026-10-23, How It’s Done diptych draft:** gpt-5.6-sol checked the merged chapter against the existing Volume One ledger. Final run found no factual contradictions. First-run room flag was already settled in the Turned Up triage. Limited per-edit check only.
+  **Per-edit check 2026-10-23, How It’s Done explanation draft:** gpt-5.6-sol rechecked the 22-word reduction against the existing Volume One ledger; no factual contradictions flagged. Limited per-edit check only.
+  **Per-edit check 2026-10-23, How It’s Done author restoration:** subscription check retained; its two flags compare the old ledger’s chapter 18/19 citations with merged chapter 17. They concern approved structural renumbering, not changed events. No prose fix made from them.
+  **Per-edit check 2026-10-23, How It’s Done approved after-explanation cuts:** subscription fact check repeated the already-settled Cassie living-room/sun-porch shorthand; no new issue from the cuts. Limited per-edit check only.
 - [ ] **Orphaned-reference sweep (Lane B)** — text still pointing at something
   a revision removed. Worked case: a cut passer-by "in a camel coat too warm
   for the afternoon" whose later callback, "the closed camel-coat project,"

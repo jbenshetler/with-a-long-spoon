@@ -210,3 +210,59 @@ Reader interpretations are not canon. In particular, Gemini claims Swim Lanes wi
 GLM checkpoint: 44,410 input / 11,155 output, including 4,039 reasoning; read: 41,033 input / 1,680 output, finish stop. Gemini checkpoint: 45,558 input / 20,832 output, including 11,292 reasoning; read: 44,431 input / 2,436 output, finish stop. Read reasoning breakdowns and exact provider costs were not returned in the harness console. Estimated combined mint/read cost at configured rates: approximately $0.52; reasoning is not added twice. One Gemini checkpoint request met a transient OpenRouter credit-verification 429 and succeeded after retry. Initial unqualified paid-model CLI aliases were rejected by Codex before any artifact was written; provider-qualified invocations ran through OpenRouter. No balance shortage was reported.
 
 All reader-written reactions remain verbatim. Later cold reads, capture gates and checkpoints beyond the needed chapter-10 native memories remain untouched; no renumbering performed. Chronology view refreshed after recording review status.
+
+## Draft explanation reductions — 2026-10-23
+
+After committing and pushing the reviewed diptych as ba1e2b18, the author requested drafted changes to reduce over-calibration or explanation. Two small, uncommitted reductions: (1) “which meant nothing at all and landed like a benediction” becomes “which landed like a benediction”; (2) the older-friend gloss after “happy for her” and the second certainty tag “That was the look” are removed. “That had to be it” and Vee’s settling remain. No new action or motive is supplied.
+
+Praise/complaint balance: the left-hip passage has positive uptake from Opus 4.8, GLM and Sol versus Opus 5’s explicit over-explanation complaint. Therefore the benediction and Vee’s bodily/emotional reception stay; only the assertion that the line means nothing is cut. Opus 5 also praises Vee reaching for the kinder interpretation while questioning its explicit elaboration. That act of self-persuasion, the jealous tell, and the initial fear remain; the analogy spelling out the kind expression is the cut. Existing six cold reads describe the committed pre-reduction draft. No renumbering or fresh reader runs are part of this edit.
+
+Verification of the explanation draft: 22 words removed, two prose hunks only. Lore continuity check found no changed receipt, chronology, callbacks or protected Cassie content. Style has zero errors; all 43 ASK hits left standing, including the re-armed warm hit in the edited left-hip sentence. Orphan and echo checks found no candidates. Ruling anchors add the expected now-cut “meant nothing” quotation to three pre-existing historical flags. Subscription fact audit on prose hash 210dc9a4d252 found no factual contradictions. Six current cold reads remain the pre-reduction assessment; no new reader calls made.
+
+## Explanation-revision reread — 2026-10-23
+
+Author requested readers on the 22-word reduction after questioning whether the criticisms had cross-family support. Reran the same six available active readers blind on the revised prose, using byte-identical checkpoint memories to the preceding wave (all six SHA-256 hashes verified). No minting or DeepSeek run; its retired-source dependency remains blocked. Prior responses are preserved in git at ba1e2b18; all current reaction files contain the new responses verbatim. No prose changed during this reread.
+
+### Comparative reception
+
+No reader in this wave objects to the left-hip passage. Sol and GLM, which previously had qualified reservations about its calibration, both remain strongly engaged and praise the guided questioning without repeating that reservation. The benediction and Vee’s yielding still land. This is compatible with keeping the small cut, not proof that the five deleted words caused the difference.
+
+Opus 5 still finds the broader double-reading of Randi’s tightness (“she thinks I’m awful” / “maybe she’s moved”) a shade over-narrated. The older-friend gloss cut does not eliminate that reader’s larger concern. None of Sol, GLM or Gemini raises it; no cross-family grounds for extending the cut. Vee’s intentional kinder interpretation remains legible.
+
+All six continue to value Cassie’s warmth and the two-movement progression; all describe chapter-to-chapter momentum as building. Gemini reports no friction and calls the two-act structure excellent. Opus 4.8 now praises the unchanged class detail as unshowy, where the previous run found it slightly told; this demonstrates ordinary response variation. Opus 5.5 softens its unchanged setup/repetition reservation to “lingers but works” and new pressure rather than echo. These unedited-passage changes must not be credited to the 22-word reduction.
+
+New singleton reservations: Sol revisits the already-settled not-gay joke (stands under Turned Up triage); GLM thinks the unchanged check moment sits a half-beat long; Opus 4.8 qualifies the overdue-reserve quip as polished but in character; Opus 5.5 briefly blurs the seventeen-day/Sunday timing. No changes made from these remarks.
+
+Heat/Romance: Opus 4.8 3/2 (previous 2/2); Opus 5 2/2; Sol 2/2 (previous 3/2); GLM 3/2 (previous 2/2); Opus 5.5 2/2; Gemini 2/2. The rating movement is mixed and not evidence of an erotic-charge gain from the tiny edit.
+
+Assessment: revised text holds across families with no apparent loss of the praised material. Retain the modest draft reduction for author review; do not pursue the remaining Opus-only explanation complaint without author direction. The wave does not establish a measurable improvement over the original.
+
+### Paid run record
+
+GLM: 41,009 input / 1,830 output, finish stop. Gemini: 44,407 input / 2,405 output, finish stop. Read reasoning breakdown and exact provider cost not returned in the harness console. Combined estimate at configured rates: approximately $0.15. No paid checkpoint calls needed. Four subscription reads also completed. No further edits, commits, gate renumbering or later-reader reruns performed.
+
+### Protected positives — arbitrary praise restored (author ruling, 2026-10-23)
+
+Restore “meant nothing at all and” in the left-hip sentence. The author identifies this as Vee blooming under Randi’s warmth about her experience despite the praise itself being arbitrary: not the factual content but how Randi says it. It renders Vee’s reception rather than explaining Randi’s technique. Preserve the distinction between the meaningless claim and its real emotional effect. This supersedes the provisional recommendation to retain that five-word cut. The separate line-274 reduction remains under consideration.
+
+Restoration verification: no style errors; 43 ASK hits remain unchanged and unacknowledged. Orphan check clean; ruling anchors return to the three historical flags. Subscription fact audit on a730be916951 flags former ledger chapter numbers 18/19 against the merged chapter 17; these are merge/renumbering artifacts, not changes to the story events. The raw audit is retained. No new prose cuts applied during the candidate search. The remaining prose diff from ba1e2b18 is solely the 17-word line-274 reduction; the six most recent reactions describe the preceding 22-word variant.
+
+### Author-approved after-explanation cuts — 2026-10-23
+
+Applied the two candidates on the author’s “apply”: removed “which was its own kind of statement” after Randi pulls out without checking readiness, and removed the narration describing Vee’s evasive words after the stammer ending “so—”. The action and spoken evasion now stand without their explanatory tails. Earlier voice/posture changes remain; arbitrary-praise phrase remains restored. Praise check found no direct praise or complaint for either candidate; these were editorial suggestions, not a panel demand. No other prose changed in this step.
+
+Verification after the two approved cuts: no style errors; 44 ASK hits (2 warnings, 42 informational), with the retained “the way you lean to give up a secret” re-armed by the sentence edit. No ASK hit changed or acknowledged. Orphan and echo checks clean; three historical ruling-anchor flags remain. Subscription fact audit at 0738735086d3 repeats only the already-settled Cassie “living room” shorthand for the sun porch; left standing under the original Turned Up ruling. Local chronology view refreshed. No further reader calls or renumbering.
+
+## Reread after restoration and two approved cuts — 2026-10-23
+
+Author requested the same six readers on current prose 0738735086d3: restored arbitrary-praise wording, retained line-274 reduction, removed statement label at :207 and post-stammer explanation at :284. All six completed with the same byte-identical chapter-10 native memories as the previous wave. Full structured fields and current memory range verified. No minting, new prose edits, renumbering or later-reader runs.
+
+All six describe chapter-to-chapter movement as building and praise the Cassie/Randi contrast. No confusion or lost beat is reported from the two new cuts. Gemini reports no friction and calls the two-act structure masterful; GLM says the chapter earns its length completely and nothing dragged; Sol also says nothing dragged. This supports retaining the current draft, with no causal claim that the small deletions produced shifts in response.
+
+The author-restored arbitrary-praise distinction lands explicitly for GLM: its motifs entry calls the left-hip sentence “it means nothing and lands like a benediction — the purest example of Randi’s method.” Opus 4.8 likewise describes meaningless praise landing as benediction. Sol has a qualified hesitation about how readily Vee accepts the praise, then says the near-trance is convincing enough to buy it. That does not reopen the author’s restoration ruling.
+
+Opus 5 again questions the broader charitable reinterpretation paragraph at :274. The complaint remains unconfirmed by the other families. Other Opus reservations concern unchanged material: Opus 4.8 questions “a thing spent rather than handed around” and briefly qualifies the long verbal descent; Opus 5.5 questions setup length, the warm/cold exchange, gay joke and Sinatra cue. Existing settled rulings remain in force. No new cut proposed from these singleton/within-family reservations.
+
+Heat/Romance: Opus 4.8 2/2; Opus 5 2/2; Opus 5.5 2/2; Sol 3/2; GLM 2/3; Gemini 2/2. Ratings fluctuate in both directions against the preceding wave; do not use them as evidence of an edit effect.
+
+GLM’s first response lacked required structured fields; the harness rejected it and did not write a new reaction. One fresh blind retry completed validly. Successful paid usage: GLM 40,978 input / 2,257 output, finish stop; Gemini 44,374 input / 2,222 output, finish stop. Read reasoning breakdowns and exact provider costs were not returned in the console. Estimate for those two successful calls at configured rates: about $0.15, excluding any charge for GLM’s rejected attempt (usage unavailable). All reader reactions retained verbatim. Changes and new reviews remain uncommitted.

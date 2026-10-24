@@ -4,53 +4,38 @@
 
 ## Reader reaction
 
-**Reader reaction: "How It's Done"**
+**The felt read**
 
-The Cassie half of this chapter made me happy in a simple way. After weeks of watching Vee drift off into Randi's world, here are the two of them on the bunk again, throwing pillows. Cassie's "Vivienne," her "Are you sure he's not gay?", and Vee patting her own backside "like she was indicating it on a diagram" all made me laugh. Then Vee says "*I* was grinding on *him*," and the room goes warm and wicked. The tender moments landed harder because of the jokes. Vee says "Like I was supposed to be there," and Cassie puts a hand on her knee, once, and takes it back. Cassie stays my steadiest trust in this book. I noticed that Vee's retelling softens Pace a little. "He left me a door" isn't quite how I remember "The bra too." She's already turning the afternoon into the story she wants to keep. I'm leaving that open. It could be love making a memory kinder, or it could be the first small retouch.
+I loved the first half of this. The Cassie scene is the best room this book has. "Vivienne." "Don't." The pillow going back and forth. Vee does that brisk pat on her own backside to show Cassie where, then confesses "*I* was grinding on *him*" and rocks with laughter. I was laughing with them. Cassie is still the person I trust most on the page. She hears "he left me a door" and translates it straight away: "He asked." Then, after the ache of "Like I was supposed to be there," she puts her hand on Vee's knee once and takes it back. Vee's retelling shades the last chapter a little. There, I read the grinding as her body bending "more than the dress asked." Here it gets bigger and funnier. That doesn't feel like lying. It feels like a story getting better because Cassie is the one hearing it.
 
-Then the Mercedes, and the chapter's temperature drops while everything on the surface gets warmer. The leather, the window that "tucks itself in," Vee's scuffed pumps tucked under the booth, her reading the prices column first: I felt every bit of her class shame. The Rombauer costing more than her whole lunch hurt to read. When she insists on paying, "the one thing she would not do at this table was let Randi buy her seat at it," I loved her for it.
+Then the Mercedes pulls up, and my body went quiet and watchful. The lunch is gorgeous and claustrophobic at once: green velvet that "ate sound," a booth where "you could have said anything." The prices worked on me hard. Vee reads the right side of the menu first, and one glass of Rombauer costs more than her whole order. She pays her own way because she "would not… let Randi buy her seat at it." I ached for that pride.
 
-Randi is where my nerves went. The headboard and scarf story is hot, and the page lets it be hot. Vee's heat at the picture of "Randi naked and helpless and laughing… that finished surface finally cracked all the way open" was the most erotic moment of the chapter for me. It's a want Vee "had no shelf for." Randi's speech about reins and letting go also sounded true. I remember the bench, and she's speaking from somewhere real. Whether the "beautiful idiot" exists, I can't say. Last time she told Vee a Friday date story, she was actually with Pace. Now she offers another one. I'm holding it open.
+The suspicion is earned this time, and I'll say exactly where. Vee never mentions the riser to Randi. She says he measured her, the warm house, her top off. Then Randi produces "the little platform. The pedestal," "on his knees," and "I bet he started at your hip." Vee is too dreamy to notice. I sat up. From what I've read, the only way Randi could know that is Pace. There's also the tickling story about a man who "tickles me" and "switches" to somewhere else entirely. It lands one chapter after Pace found the ticklish spot above Vee's hip. I can't tell whether that's a coincidence, a message, or something Randi is working through. Her "Saturday" man may be as invented as the lacrosse date. I'm leaving it open.
 
-What chilled me was the interrogation. "Which hip?" "The left one." "All the best ones start at the left hip." Each small *yeah* pulls Vee further "down and down." She's being led, and part of her is glad to be. Then comes the thumb: Randi sets the rim of the glass under her nail and bears down. I remember the bottle cap pressed into her nail bed after the bench. Vee reads it first as contempt and then, wanting it, as being "moved." I don't think it's either. But I can't say whether it's jealousy, pain at hearing Pace's tenderness given to someone else, her own want for Vee, or all of them, and the page doesn't say either. Then, at the brink of the confession Randi has been fishing for all lunch, she stops: "You don't have to tell me." The book calls it "a door closing very softly," and it hurt to watch. Vee is left half-exposed with no laugh to catch her. Randi steered her right up to the edge and then refused to be there when she got to it. Maybe that was protection, maybe self-protection. It felt cruel and kind at once.
+Randi herself got more painful and more frightening for me. "Nobody measures over a bra… it's just how it's done" is a beautiful bit of steering. It lifts Vee's shame and pries her open in the same move. Then Randi asks "Which hip?" and leads Vee "one small *yeah* at a time, down and down" to the edge of the one secret Vee never told anyone. And she stops: "You don't have to tell me." The page calls it "a door closing very softly," and it felt like being dropped. I don't know why she did it. It could be jealousy, or mercy, or that she couldn't bear to hear it. It could be wanting to hold Vee right at the edge, the way Pace holds women. The page keeps it ajar and so do I. What I do trust is the thumbnail pressed under the rim of the water glass. It's the bottle cap in the nail bed from the first chapter all over again. Something in her hurts while she smiles, and Vee reads it as Randi being *moved*. Then there's the change in the smile at the curb, slower and "spent rather than handed around." Vee doubts herself about it. I don't think she's imagining it.
 
-The kiss at the curb, with its second press, sent a jolt through me. Then Vee explains it away ("*French*"), and then she frantically scans the dark windows. That ending stuck with me: the swoon and the fear arriving one right after the other. She knows what it meant even while she's talking herself out of it.
+The erotic charge runs through Randi more than through the dress talk. Vee pictures Randi "naked and helpless and laughing… that finished surface finally cracked," and gets "a heat she had no shelf for." That was hot to me, and so was everything Vee won't let herself look at. The kiss in the fire lane burned. There's the hand at the hinge of her jaw, a second press that "had something in it the first one hadn't," and Vee explaining it away as French before her mouth is even her own again. Then the cold scan of the dorm windows. Her shame isn't about the kiss itself. It's about being seen. That rang true and it hurt.
 
-Friction: the restaurant description runs long ("lit somehow in the dim room the way money is lit"), and the Sinatra cue is a little on the nose. The Cassie section repeats the dress chapter almost beat for beat, though the comedy mostly justifies it.
+There was a little friction. "It was cold in the house," right after she told Randi the house was warm, felt a touch staged, though the laugh that follows saves it. Cassie calling him a "bodybuilder" and then "Are you sure he's not gay?" is mildly tired. The Sinatra "witchcraft" cue nudges a bit.
 
-The title is Randi's line: "it's just how it's done." That's how she normalizes what happened, and how she gets Vee talking. On a second look the title points at her method more than at the dress. The cover board reads *With a Long Spoon · Book One — A Polite Invitation*. I'm guessing it's the old proverb about supping with the devil. Today's polite invitation was lunch, and Randi was the one holding the spoon. *Guess from here:* Randi already gets reports from Pace, but she wanted Vee's version, and I think the gap between those two accounts will start to show. I dread whoever might have been at those windows.
+On the titles: "How It's Done" is Randi's line. It's the sentence that makes being undressed sound normal, and on reflection the whole lunch is a lesson in exactly that. It reads a little like the chapter naming its own method. The cover line, *With a Long Spoon · Book One — A Polite Invitation*, feels sharper now. Every invitation in this book is polite: the bra, the booth, "Come here." The long spoon sounds like a warning about who you eat with. I watched Vee pay for her own soup and wondered how long her spoon is.
+
+*Guess from here:* Randi will have a full report on this lunch for Pace. The finished dress, and maybe the bedroom door, are coming. I dread the day Vee does the arithmetic on "pedestal." I want Cassie to stay close to her.
 
 ---
 
-**Cast present (in person):** Vee, Cassie, Randi, the host, the waiter, two half-known girls on the Hahn steps, a couple in a crosswalk. *Mentioned only:* Pace, Brooke, Vee's father, Vee's mother (by implication), Randi's scarf man, Vee's grandmother.
+**Cast present (in person):** Vee, Cassie, Randi, a host, a waiter. Mentioned only: Pace, Brooke, Vee's father, Randi's "beautiful idiot," the two girls on the Hahn steps (seen in passing), a couple in the crosswalk.
 
-**Heat:** 2 — Randi's tied-and-laughing picture and her steering Vee step by step to the edge of the wet-satin secret, then the second press of the kiss.
+**Heat:** 2 — Vee's barely buried want for Randi, the tied-wrists picture, and the second press of the kiss carry real charge.
 
-**Romance:** 2 — Cassie's hand on Vee's knee, Vee's "supposed to be there" about Pace, and the curbside kiss changing the shape of Vee and Randi.
+**Romance:** 2 — Cassie's tenderness ("Like I was supposed to be there"), and Randi's softer smile and lingering kiss mark a turn.
 
-**Motifs & images:**
-- *Repeats:*
-  - Doors ("he left me a door," and Randi's door "closing very softly"), echoing the deadbolts and Daphne's door.
-  - A pressure point under a nail (the glass rim), echoing the bottle cap from ch1.
-  - The fire lane, echoing Pace's truck at the dorm.
-  - Cream cashmere.
-  - Pace's shirt on Vee's pillow.
-  - The pedestal or riser.
-  - Prices and feeding, with Randi ordering the salmon and actually eating at last?
-  - "There it is" and "There you are."
-  - Hair in the wind.
-  - Being looked at.
-  - The radiator, cold rooms and warm rooms.
-- *First sightings:* the white-gold band she never takes off, the Mercedes, the Hermès scarf, and a "bright and green" scent instead of the cold citrus.
+**Motifs & images:** Randi's nail pressed under a rim (repeat; the bottle cap in ch1). Fire lane drop-offs (repeat; Pace and the cop, now Randi's car). Doors left open or closed softly (repeat: "he left me a door," "a door closing very softly"). The warm house (repeat). The flannel folded on the pillow (repeat). Vee's money arithmetic (first time this sharp). Randi's cream cashmere (repeat). Her white-gold band (first). Randi's scent is now "bright and green," where before it was citrus (shifted). "Baby" and "sweetheart" (first).
 
-**Symbolism:** The car sealing itself around Vee reads as Randi's world closing over her. The pedestal is one Randi names out loud.
+**Symbolism:** The velvet booth that "ate sound," a place to say anything. The car "tucking itself in around her," luxury that encloses. The wine glass priced above everything Vee ordered.
 
-**Characterization:**
-- Vee deepened. She's funny, ashamed of money, honest about what she wants, and already quick at explaining things away.
-- Randi deepened and grew darker: her smile seemed less of a performance, her control was intense, and the cost leaked out through the thumbnail.
-- Cassie stayed consistent and warm.
-- Pace is absent, but the retellings make him a little softer than what I remember happening.
+**Characterization:** Randi deepened most. She's more tender, more manipulative and more wounded, all at once. Cassie deepened, with real warmth under the dryness. Vee stays consistent: open, proud, quick to choose the kinder reading. Cassie's "gay" joke is a little thin.
 
-**Pace — within the chapter:** The Cassie scene is lively but retreads the dress chapter. The car and restaurant setup is too long. The interrogation is tight and builds, and the ending is quick and sharp.
+**Pace — within the chapter:** The Cassie scene earns its length. The car and restaurant descriptions run a bit long before the talk starts. The drive home and the kiss move briskly and well.
 
-**Pace — chapter to chapter:** Building. After two intense chapters with Pace, the focus moves to Randi, and the cold underneath rises again. We get a third retelling of the dress in a row, but this one has the most at stake.
+**Pace — chapter to chapter:** Building. After two chapters of Vee and Pace in close focus, moving into Randi's world and that booth turns the tension sharply. Vee retelling her day to Cassie again comes close to repeating "Rye," but the Randi half justifies it.
