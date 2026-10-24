@@ -1,0 +1,35 @@
+# Cold read (grounded) — Gone
+
+*scene: scenes/gone.md · model: claude-opus-5-5 · memory: ck-ch020 + raw ch021..ch022 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+Pace's point of view again, and the first thing I felt was relief. The last time we were in this bed Randi turned her back to him and the stew went into the fridge untouched. Tonight she "had stayed down," loose on his chest, her hair spilled over him, and he notices and "let it be." I loved him for not making a thing of it. The whole chapter is warm and quiet, and its biggest event is a plate. "When she set it down, there was nothing left on it." I actually put my hand to my chest. After the honeycrisp slices, the cheeseburger she couldn't eat and the one line drawn through the stew, Randi clearing her plate felt bigger than any sex scene. Then she takes his hand, he leaves it there, and she falls asleep against him. That got me.
+
+I also wanted to know why. She asks about his dissertation and actually follows the proof: "whether the difficulty was that he didn't know the answer or that he couldn't show it was the answer." That's a good question, and he's "pleased clear through." "Pace, darling. Will you pour me a little more?" when her glass is still half full is a small move to keep him standing beside her. I can't tell if she's coming back to him or managing him back. The page doesn't settle it, so I won't either. It reads as both tender and practiced, and the practiced part isn't sinister. It's just Randi.
+
+The talk about Vee is where my stomach did two things at once. "I keep waiting to get bored of her — I get bored of everybody — and it doesn't come… She got past me before I could help it." From a woman who swore never to let anyone past her face again, that's a confession, and I believed it. When Pace describes Vee walking into a room "like somebody found the lamp," Randi goes still, "the kind that takes holding," and then says "Yeah… She is" a beat too late. That's the wine-glass, thumbnail feeling again, but with nothing to press against. Then the want comes out sideways: "What she keeps under there… It's *criminal*, Pace," as she drags her own breasts down his chest to show him. That was hot, and it was hot because Randi was wanting something out loud and couldn't stop herself. Pace sees exactly that. And "He didn't take up the rest of what she'd set down; that was hers to hold" is the most decent line in the chapter. He knows not to pull on it. The second round, Randi "coming apart by degrees, the blue on her toes the last composed thing left of her," worked on me even though it's kept short.
+
+My unease is about Vee, and the text earned it. They lie in bed passing her around: her shame, her cardigan, "she's got it *bad*." Pace says "Somebody taught her to be ashamed of her body," low and with no heat in it. He's right, and it's kind, and it's also her most private wound being discussed without her there. I just watched her put an unpayable pair of shoes on a credit card so she wouldn't flinch in front of Randi. Here Randi only mentions the fun. I also caught a mismatch. In Vee's chapter, Vee brought the canoe shoe to mock Randi's feet, and Randi was the one clowning in rhinestone platforms. Vee noticed the couple with "a little flush, there and gone." Randi's version has Vee "gets it *on* and does the whole bigfoot," and she "went so red I thought she'd go up." That could be Randi's embellishing, or two people remembering the same afternoon differently. Coming right after the professor's Simpson's paradox lecture ("Same numbers. Nobody touched one of them"), I noticed it and am holding it loosely. "That was kind of hot" about Vee's embarrassment is the Randi I recognize: watching what makes Vee flush and keeping it.
+
+Friction: the dialogue tags tangled me. "And she'll listen to you like you're the only thing in the room…" sits alone in its own paragraph, then "'And she talks about you,' he said," and Randi answers "The whole hour. Pace this, Pace that." I had to reread it to work out who was praising whom. Something seems swapped, or there's a missing beat. "Vee was here yesterday" also confused me against Saturday's shopping. Maybe Vee came out that evening. And "'You do nice work,' she said" right after "God, you two" felt like two lines bolted together.
+
+The title: "Gone" comes straight from Randi's line, "That's why she's so gone over you." But by the end, the one who's gone is Randi: past bored, past her own face, eating. And her anger from last chapter is gone, maybe. The cover, *With a Long Spoon · Book One — A Polite Invitation*, still promises supper with something you should keep at arm's length. Tonight the supper was real and nobody kept their distance. No tagline was supplied.
+
+What I want: Randi keeping her plate clean. What I dread: Vee finding out how thoroughly she's discussed in this bed. As a guess from here, the shoes ("Same feet… practically a marriage") will come back.
+
+**Cast present (in person):** Pace (POV), Randi. Mentioned only: Vee, the older couple in the store, Randi's chapter sisters (flowers meeting), "somebody" who taught Vee shame.
+
+**Heat:** 2 — Randi's spoken hunger for Vee, acted out on Pace's body, plus a slow second round.
+
+**Romance:** 2 — reconciliation in small gestures: the clean plate, the hand across the table, her asking about his proof, falling asleep on him.
+
+**Motifs & images:** Food and portioning (repeat: the small bowl ch1/ch20; now a clean plate, a first). Wine poured *for* her again (repeat; contrast ch20, when she poured her own). The cashmere blanket and the chill after (repeat ch1). "Tell me" returns (repeat ch7/13; absent ch20). Lamp and light: "somebody found the lamp" (echoes Randi's attention "like a lamp finding you," in the previous chapter). Painted toes: Randi's blue vs. Vee's plum (repeat of the toe motif). The cardigan as hiding (repeat). Music in the house: Sade (new artist, repeat motif). His undershirt from the drawer "without looking for it" (echo of Vee's flannel). "Hungry?" (repeat of "Are you hungry?" / "Famished," ch18).
+
+**Symbolism:** The empty plate as Randi letting herself have something. The proof she knows is right but can't show is right, which the page leaves hanging near her own feelings without pushing.
+
+**Characterization:** Randi deepened sharply: vulnerable, hungry, jealous and tender at once. Pace stays steady, perceptive and restrained ("hers to hold"), and his blind spot about being part of the game is still there. Vee, offstage, gets flattened a little into a shared object of description.
+
+**Pace — within the chapter:** Unhurried and earned. The cooking and the proof talk are slow on purpose and pay off in the plate. The Vee conversation sags for a moment from the tangled attributions.
+
+**Pace — chapter to chapter:** It's a holding chapter that answers ch20's rupture with a truce, after two Vee chapters full of joy. The momentum is emotional, not plot. A good counterweight, but the triangle's pressure is building quietly.

@@ -694,3 +694,7 @@ will drop as already-applied, which is correct, not a loss.
 ## 50. Does Vee's naming of the want move earlier — to Spring Break? (DISCUSS — parked 2026-10-19)
 
 Vee lies to herself and to Pace about wanting Randi before she says it to him. Today the naming lands at {{Vee on the Bench}}, the spring curtain (`meta-plan-spring.md`). The author is weighing moving it sooner, possibly to Spring Break. Touches: {{Postcard}} and {{Vee on the Bench}} (both drafted; the bench is written as the terminal naming); {{With You}} (needs only a want *already named bare* — holds either way); and the unruled spring split (`meta-volumes.toml` `[spring_split]`), whose second candidate seam is Spring Break — a naming there would end one book or open the next.
+
+## 51. Rectify hair lengths — Randi's hair longer than Vee's (TODO — 2026-10-24)
+
+Author ruling: Randi's hair is longer than Vee's, because Vee's curl makes hers functionally shorter. {{Gone}} now gives Randi's as falling "to the tops of her shoulder blades" (`gone.md:96`), while {{The Pointing Game}} gives Vee's as "loose to the shoulder blades" (`the-pointing-game.md:137`) — on the page these read as the same length or Vee's longer. Sweep every hair-length statement for both women across `scenes/` and `meta-craft-vivienne.md` / `meta-craft-randi.md`, and reconcile so Randi's reads longer.
