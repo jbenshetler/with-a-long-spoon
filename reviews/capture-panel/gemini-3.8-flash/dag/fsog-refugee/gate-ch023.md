@@ -1,22 +1,26 @@
-*capture-dag-v2-rich · gate ch023 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha 0a2a45bceefc · 2026-10-01*
+*capture-dag-v2-rich · gate ch023 · gemini-3.8-flash · fsog-refugee · prompt-sha e079858b8b39 · prose-sha b529b5725542 · 2026-10-24*
 
-**REACTION**
+REACTION
 
-Oh, this chapter made my stomach hurt in the absolute best, most horrifying way.
+Oh, my stomach just completely dropped out.
 
-The stats lecture in the beginning was almost physically painful to read. Simpson’s paradox—*look at each year on its own, then put them together and the entire truth reverses without changing a single number.* What an unbelievable, terrifying piece of foreshadowing. And sitting Vee right between Cassie and Randi to hear it! Cassie, who doesn’t give a single damn about a silk dress or high heels, who only looks at Vee’s face to see if her soul is safe and happy. And on the other side, Randi—completely closed off, tracking Vee like a hawk, waiting to sink her claws into the next opening.
+I knew it was coming—I’ve known since the damn jacket blurb that this was a game between them—but reading it, watching it play out in the exact same bed where he held Vee the night before? It makes me physically sick. It is so brilliant, so sickeningly intimate, and so profoundly twisted.
 
-And God, the shopping trip. I watched Vee take out that emergency credit card and I wanted to scream through the page, *Vee, no, don't do it!* It is so masterfully, ruthlessly observed. The way Randi doesn't just push her into buying shoes she can't afford—she maneuvers Vee into feeling like buying sensible shoes would be an *insult* to what Pace made her. It’s so insidious because Randi is using Vee’s own love and awe for Pace as the weapon to make her reckless. And then Randi casually dropping three or four times that amount on loafers she wears out of the store while Vee is literally clutching her box against her ribs like a child with a stolen loaf of bread. The class divide, the subtle grooming, the absolute blindness of Vee thinking, *I've never had a friend like this.* My heart is in my throat for her.
+The betrayal isn't just that they're sleeping together; it's the *way* they're using Vee. They are literally passing her between them like a shared high. Randi lying on his chest, laughing about the shoe store, getting turned on by Vee’s shame ("*She went so red... That was kind of hot*"), and Pace—God, Pace, you absolute bastard—getting hard because Randi is dragging her breasts across his chest while talking about Vee's body! And then Pace fantasizes about the two of them together, Randi over Vee, before picturing Vee alone in his kitchen wrapped in his sheet. He's actively getting off on using Vee's vulnerability as foreplay with his lover.
 
-And that moment in the boutique where Randi kneels on the pale floor. Randi taking Vee’s bare foot, turning it to the light, stroking her thumb over the frosted-plum polish she *knows* Vee painted for Pace... the erotic tension between them is becoming suffocating. It wasn’t a shoe fitting; it was Randi laying hands on the exact parts of Vee that Pace touched, staking a claim, tipping Vee off-balance. Randi is playing such a dangerous, hungry game. She’s jealous of Pace, she’s obsessed with Vee, and she is steering Vee right toward a cliff edge while holding her hand and making her laugh. I am desperate to see the night of this induction.
+And yet, look at the cracks forming. The psychology here is terrifyingly precise. Pace tells Randi, *"You know what she does to a room... She comes in and the whole thing goes brighter... and she's the most alive person standing there."* And you can feel the temperature in the room instantly freeze. Randi *felt* that. She caught the edge of him slipping away, and what does she do? She weaponizes her body immediately. She shifts her hips, finds him hard, and rides him to reassert her claim, to make sure she still owns him.
 
-***
+Then the aftermath in the kitchen. Randi wearing his undershirt, curled up in the chair, letting him cook for her, eating *every bite* on the plate—Randi, who survives on green juice and cigarettes, clearing a plate because Vee cleared a plate. She's mimicking Vee's appetite to keep Pace’s care focused on her. She asks about his math presentation, plays the soft, domestic partner, stakes her claim on his ordinary life.
 
-**GATE 25 — Sorority**
-**DECISION:** CONTINUE
-**CAPTURE:** 9
-**NEXT:** 10
-**HEAT:** 1
-**ROMANCE:** 2
-**ALMOST-STOPPED:** none
-**WHY:** The psychological tension is wound so tight it's humming. Watching Randi maneuver Vee into financial ruin and total emotional vulnerability while pretending to be her fairy godmother is utterly gripping, and the dread of the upcoming event is unbearable.
+It makes the previous chapter—Vee practically vibrating with joy, running into class to see her two best friends, putting her emergency credit card down because she thought she had this magical sisterhood and this devoted lover—feel like a brutal tragedy waiting to detonate. Vee thinks she's blooming in the sun; she has no idea she's being passed back and forth like a stolen jewel in the dark.
+
+I am horrified, furious at Pace, deeply unnerved by Randi, and completely, utterly hooked. I need the explosion. I need Vee to find out, and I need to see Pace realize the absolute ruin of what he's done to a girl he's actually, truly falling for.
+
+GATE 23 — Gone
+DECISION: CONTINUE
+CAPTURE: 10
+NEXT: 10
+HEAT: 2
+ROMANCE: 1
+ALMOST-STOPPED: none
+WHY: The utter devastation of watching Pace and Randi use Vee's joy and innocence as their private erotic fuel is sickening, but the psychological tension is unmatched—I cannot look away from this trainwreck.

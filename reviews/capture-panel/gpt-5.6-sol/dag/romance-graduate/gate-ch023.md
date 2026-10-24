@@ -1,24 +1,28 @@
-*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha 0a2a45bceefc · 2026-10-01*
+*capture-dag-v2-rich · gate ch023 · gpt-5.6-sol · romance-graduate · prompt-sha 30694771b497 · prose-sha b529b5725542 · 2026-10-24*
 
-Oh, this is getting dangerous in exactly the way I wanted.
+REACTION
 
-The classroom made me ache for Cassie. She does not care about the dress; she cares whether Vee is happy. That one quiet “Was it a good night?” carried more love than all Randi’s gorgeous attention, because Cassie isn’t trying to turn Vee into anything. And Vee, sitting happily between them, cannot see that these two women are looking at her for profoundly different reasons. The Simpson’s paradox lecture was almost indecently on the nose—same facts, opposite conclusion depending on how they’re grouped—but fine, yes, I see the blade being laid on the table. When Vee eventually learns the hidden facts, the entire meaning of this happiness may reverse without a single event changing. That is horrifying.
+Oh, Randi. Oh, this is bad.
 
-And Randi seeing her in the dress absolutely delivered. “He made it *to* you” is precisely the sentence Vee needed, and of course Randi can name the deepest truth of Pace’s attention because she knows him, has had him, and helped arrange all of this. Vee reads Randi’s silence as longing for a man who would care for her that way, while I’m sitting here knowing Randi is jealous of Pace for getting to make something *to Vee*. The dramatic irony is becoming almost physically painful.
+Not bad as in I want out. Bad as in she has finally done the most intimate thing she could possibly do with Pace, and it wasn’t riding him while they talked about Vee. It was staying. It was getting cold and letting him warm her, asking him to make her something, knowing exactly which drawer holds his undershirts, eating every bite, asking about Chicago, and then going back to bed with him and falling asleep there. She has spent all this time acting as though sex is the dangerous appetite and departure is control. Now she has eaten in his kitchen and slept in his arms. That feels enormous.
 
-Then the shoe store turned genuinely intimate. The stupid shoes and yeti joke made them feel like actual girlfriends instead of seducer and target, and Randi’s unguarded laugh mattered to me. But her kneeling, taking Vee’s foot, recognizing the polish, and running one thumb over her toenail? Absolutely not innocent. That was hot. Especially because Vee’s body understood immediately, even while her conscious mind still refuses to. Randi knew exactly what she was doing with that “Mm,” too. She can make a touch ring through Vee and then hide inside the role of helpful glamorous friend. I want her terribly, and I do not trust her at all.
+And I am almost unbearably relieved that Pace noticed she finished the plate. He notices hunger. Of course he does. He didn’t praise her or expose the fact that he was watching; he simply offered more. That tiny exchange got me more deeply than the sex did. Randi is so practiced at appearing to need nothing, and here she asks to be fed in the plainest possible words. “Will you make me something?” Yes, darling, that is a confession whether you know it or not.
 
-The credit card upset me more than any of the overt manipulation so far. Vee did not choose those shoes in a vacuum. Randi moved her from the affordable store into a room where she was too ashamed to name her limit, handed her the perfect pair, and supplied the emotional logic that transformed debt into something the dress was “owed.” That is how manipulation actually works: the purchase feels like self-assertion, and some part of it genuinely is, but the cost belongs entirely to Vee. Meanwhile Randi casually buys herself a vastly more expensive pair, never noticing—or perhaps noticing perfectly—the financial panic beside her. This is the first time Randi’s wealth has felt actively cruel to me.
+The Vee conversation made me ache in several directions at once. Randi is openly besotted now. She keeps thinking of things to tell Vee after they part. She wants to make her laugh. She thinks Vee’s embarrassment is hot. That is not a game or a threesome fantasy; that is the ridiculous repetitive mental life of falling in love. And Pace’s description of Vee making a room brighter was so exact that it hurt Randi. I felt the little wound of it: he sees Vee in language Randi wants someone to use for her. Then she says yes anyway. She knows he is right.
 
-And still, damn it, the ending got me. Vee clutching the box, Randi seeing her clearly enough to make her laugh instead of feel poor, both of them stopped together on the gold sidewalk—I believe the friendship. That’s the trap. Randi is giving Vee experiences she has always wanted, and she loves being the one who gives them. None of that makes the concealed machinery less monstrous. It makes it worse.
+But the hidden structure has never felt more dangerous. They are lying naked together discussing Vee’s shame, her body, how gone she is over Pace, while Vee still believes these are two separate relationships that happened naturally. The tenderness makes the deception worse, not better. Pace can correctly understand that somebody taught Vee to be ashamed and still participate in a secret that could make her ashamed of every brave choice she has made with them. That contradiction is tightening now.
 
-I need the induction now. Pace’s dress, Randi’s shoes, Vee’s achievement—and Cassie, please, somewhere in that room seeing the person rather than the spectacle. This is going to detonate.
+The sex was hot because Vee was in the bed without being there—and also unsettling for exactly that reason. They are each using the other’s body to imagine her, while their own bond keeps deepening beneath the fantasy. I don’t think either of them understands that the triangle already exists emotionally. Vee is the language they use to tell each other truths they still cannot say directly.
 
-GATE 25 — Sorority
+Also: the second drawer. So Randi has a place here, even if it is only an unofficial place inside his clothes. The two towels were not nothing. She knows the house. She belongs in the kitchen chair nearest the stove. She can call him darling and ask about his work. This is a relationship they have both been pretending is less domestic than it is.
+
+I would text a friend: “Randi finally stayed for dinner and I am more emotional about an empty plate than two rounds of sex. She is catastrophically in love with both of them.”
+
+GATE 23 — Gone
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 10
 HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: “The shoes were not a want she had to own as a want. They were what the dress was owed.”
-WHY: That rationalization made my stomach drop, because Randi has steered Vee into real debt while letting it feel like confidence. But the desire, friendship, and danger are now so completely braided together that I’m already reaching for the induction chapter.
+ALMOST-STOPPED: none
+WHY: Randi staying, eating, and sleeping in Pace’s arms is a genuine turn in the bond, and it landed harder than any declaration would have. Now I desperately need to know whether she can keep pretending she only wants “us” as an erotic arrangement when she is already building a home inside both of them.

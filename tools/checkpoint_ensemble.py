@@ -140,7 +140,8 @@ def source_records(name: str, boundary: int) -> tuple[list[dict[str, Any]], str,
             continue
         raw = path.read_text(encoding="utf-8")
         declared_model = metadata_value(raw, "model")
-        if declared_model != model_id:
+        # OpenRouter mints record the provider model (google/gemini-4-argon).
+        if declared_model not in {model_id, cold_read_config.openrouter_models().get(model_id)}:
             problems.append(
                 f"{model_id}: checkpoint model {declared_model or 'missing'} does not match path"
             )
@@ -728,10 +729,14 @@ def render_checkpoint(name: str, boundary: int, ledger: dict[str, Any], source_s
         else:
             body.append("- No claim met the ensemble admission rule at this boundary.")
         body.append("")
+    settings = cold_read_config.ensemble_settings(name)
+    quorum = settings["quorum"]
+    source_count = len(settings["sources"])
+    vendor = " cross-vendor" if settings.get("cross_vendor") else ""
     return (
         f"# Checkpoint — through Chapter {boundary} (quote-backed ensemble)\n\n"
         f"*ensemble: {name} · span: ch001–ch{boundary:03d} · source-sha256: {source_sha256} · "
-        "admission: 2-of-4 cross-vendor; source-verified entity exception; "
+        f"admission: {quorum}-of-{source_count}{vendor}; source-verified entity exception; "
         "impressions require quorum*\n\n---\n\n"
         + "\n".join(body).rstrip()
         + "\n"

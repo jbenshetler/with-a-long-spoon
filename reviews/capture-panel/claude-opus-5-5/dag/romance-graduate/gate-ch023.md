@@ -1,32 +1,28 @@
-*capture-dag-v2-rich · gate ch023 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha ad8401af7036 · 2026-10-10*
+*capture-dag-v2-rich · gate ch023 · claude-opus-5-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha b529b5725542 · 2026-10-24*
 
 **REACTION**
 
-The toe. I'll come back to it, but the toe is the chapter.
+Okay. She ate. She cleaned the plate. Randi Whatever-her-last-name-is, who has ordered a beet smoothie, a salmon and a bottle of Rombauer in front of me and touched none of it, chased the last of the couscous around the edge of the plate with her fork. Then she said "That was lovely" and reached for his hand. I actually put the Kindle down on my chest. That was the biggest thing that happened in this chapter, and the book never says it out loud. It just lets him expect the fork to go down, and it doesn't. Thank god it didn't explain it. If there'd been a line like "for the first time, she was hungry," I'd have thrown something.
 
-First, Cassie. I'd forgotten how much I love her until she turned in her seat and never looked at the board, not once, while Vee dutifully gave forty seconds to baseball stats. "Was it a good night?" Then she just picks her highlighter back up. That's what love looks like when it isn't working any angle. I clocked her eyebrow going up at the shoe date, and so did the book, and so did Vee, and Vee missed it. Cassie is the only person in Vee's life who wants nothing from her except her being okay. That puts her in danger, because she's the one who gets edited out.
+And she stayed down. Last time she left before she'd cooled off and he ate alone. This time she stays on him, shivering, and asks him to make her something. She goes to the second drawer without looking and pulls on his undershirt. That one stung a little on Vee's behalf, because Randi knows this house as well as Vee does. She sleeps there. So the crack I was watching didn't widen. It closed up warm. And what closed it was *Vee*. Randi is in love with her and is telling him so, in his bed, with her cheek on his chest. "She got past me before I could help it." "I keep thinking of things to tell her. Stupid things. Just to hear her laugh." That's a woman who has never let herself want anybody, saying it to the one person she can safely say it to. I ache for her.
 
-Simpson's paradox. Okay, I see you, book. Each one is better alone, put them together and it flips, "Same numbers. Nobody touched one of them." It's a cute plant and the professor doesn't explain it, which I appreciate. But it came close to a wink straight at the camera, and I've been warning myself about this book's thesis-stapling. I'll allow it once.
+Then I caught her lying. Or editing, at least. Vee didn't put the canoe on. Vee set it down. *Randi* came strutting back in the pink rhinestone platforms. And Vee's flush at the older couple was "there and gone," not "so red I thought she'd go up." Randi rewrote the scene so that Vee is the one performing and blushing, and then said "That was kind of hot." She's making up stories again, like the lacrosse guy and the Hermès scarf. Except this time she's revising the truth into the version she wants to keep, and Vee does that too. Simpson's paradox from last chapter is sitting in my head now: same numbers, combine them differently and you get a different winner. I see you, book.
 
-Then Randi in the dorm room. "He made it *to* you" is a great line, and it's exactly what Randi does: she takes a thing Vee feels and hands her a name for it. Here that runs both ways, because she's also naming things for Vee that serve Randi. "Your *lover*." "Same feet, baby, it's practically a marriage." When Vee says he was up all night and Randi goes blank for a long breath, Vee decides it's jealousy *of him*, of a man who'd sit up nights over her. That killed me. Vee, honey, she has that man. He sits up nights cooking her stew she won't eat. She's jealous of *you*, or about you, or something that tangles all three of them, and you're wishing her a nice boyfriend. That's the kind of dramatic irony I came for.
+The jealousy beat was perfect. Pace goes on about Vee: "Like somebody found the lamp," "the most alive person standing there." Randi goes still, the kind of still that takes holding. Then "Yeah. She is," a beat too late. Then she finds him hard and turns it into sex, which is what she does when she's frightened. I believed every inch of that. So who is she jealous of? Him, of Vee? Vee, of him? Yes, both.
 
-The yeti bit and the rhinestone platforms made me laugh out loud. I believed these two as friends for the first time, as opposed to Vee as Randi's audience.
+Heat. His head running the images got to me: the two of them laughing and naked, then Randi drawing herself down Vee's body, small breasts over full ones, black hair falling into red. Then the fantasy collapses into Vee alone at his table in a sheet, and that's where he ends up. That's the man's tell. The threesome is the game, and what he really wants is the woman in the sheet. Randi showing him "what she keeps under there" with her own body, and adding "But you already know." It was hot, and it was also mean in a way I liked. The second round was short and fine. I didn't need more of it, because the chapter was about what happened before it and after it.
 
-Then the boutique. Randi on her knee on the pale floor, the flat coming off, holding the foot up to the light and looking at the frosted plum that Vee painted for *him*. "Mm." One thumb across the big toenail, and Vee's floor tips and her hand grabs Randi's shoulder. That's the most erotic thing Randi has done in the book, and it's a thumb on a toenail. It's also the first time Vee's body has said "Randi" out loud, even though her head still isn't listening. That's the jacket's promise finally happening, and it happened clothed in a shoe store. Hot.
+What I'm side-eyeing: no *Tell* tonight. She didn't ask and he didn't offer. Was that mercy, or has he gone private about Vee? "You do nice work" means she knows anyway. And nothing about the panties, which I'm still holding over his head. "Somebody taught her to be ashamed of her body" came close to the book explaining its own subtext. But it's Pace saying it, and it fits him, so I'll allow it. Barely.
 
-And then the credit card, which honestly scared me more than anything sexual in this book. The debit card going back in the wallet, "nothing under it," signing and not flinching. Then Randi drops a multiple of that on loafers while she's mid-anecdote and wears them out the door. Randi didn't technically make her buy anything, and "every yes was freely given" is right there on the back cover. But Randi pulled her off the tan shoe with "a dress a man sat up nights making," and that was Pace's devotion being spent as leverage. It's the "her stomach is soft" move again, done in daylight. And "it's not going to *spoil*," with Vee laughing, the box hugged to her chest... I laughed with her and felt sick at the same time.
+Also, Vee's credit card is sitting in the back of my brain like a bill that hasn't arrived yet.
 
-Little snags: wasn't the shoe date supposed to be *Saturday*? And "the same quiet as yesterday in the lecture hall" when the lecture was today? The timeline wobbled, I noticed, and I didn't care much. Also "lucky slut" landing on the soreness was a good, short, physical beat. The book gave me the body without a recap, thank god.
+What I'd text at 1 a.m.: "the girlfriend ATE DINNER and I'm emotional about it."
 
-What I'm holding now: Randi has seen the dress. Pace doesn't know she has. Did she know he was making it, and is that why her hand went still at the shoulder seam? And after ch 23's "It's selfish, Pace," I think Randi has stopped waiting on his schedule and started her own campaign.
-
----
-
-GATE 25 — Sorority
+GATE 23 — Gone
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 8
 NEXT: 8
 HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: "Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them." The book was a hair from explaining itself to me.
-WHY: It's a shopping chapter, so it's quieter and longer than it needs to be in the first store, which kept CAPTURE down. But the thumb on the toenail and the credit card coming out of the wallet are the two scariest, sexiest things Randi has done, and I need to know what she does with Vee's yes next, and whether Pace ever learns she was on her knees first.
+ROMANCE: 3
+ALMOST-STOPPED: "He put the kettle on and took two boneless chicken breasts from the refrigerator." A full recipe paragraph, and for a second I thought we were in for a cooking chapter. Then it turned out to be the whole point.
+WHY: After two Vee chapters, the POV switch was exactly what I needed. Randi staying, Randi eating, Randi rewriting the shoe story so it's hotter, all of it is real interiority, and I never got told what any of it meant. I need to see Randi with Vee now that I know she's this far gone, and I need to see whether the shoe date turns into something.

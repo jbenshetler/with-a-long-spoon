@@ -1,0 +1,30 @@
+*capture-dag-v2-rich · gate ch010 · claude-opus-5 · romance-graduate · prompt-sha 30694771b497 · prose-sha be1dc7d466f1 · 2026-10-24*
+
+REACTION
+
+Okay, the finger-snap. *"What is his name. Paul?"* — she's been in his bed, she's drunk wine off his mouth asking him to *tell*, she walked a quarter mile of campus shopping for this girl, and she makes Vee supply the name like it's a thing she can't quite hold onto. I actually put my phone down for a second. That's not a slip or an author forgetting; that's craft, and it's the cruelest small thing in the book so far, because it's *free*. Nobody required it of her. She did it because the performance has to be airtight and because some part of her is enjoying the theater.
+
+And then the French date story. Tall, dressed like money, talked about himself all night, *his summer in Switzerland*, lacrosse numbers, "a man who can't be bothered to listen to you across a dinner table isn't going to bother taking care of you anywhere else." She built the perfect photographic negative of Pace and handed it to Vee as a shared grievance, so that when Vee describes him she's not reporting, she's *answering a prompt*. "Tell me he is nothing like that." Vee never had a chance. And the Switzerland detail — that's the exact thing Vee invented about Randi's accent in her own head two chapters ago. Randi's feeding her back her own fantasies, possibly without even knowing she's doing it, and I don't actually know yet whether Randi has an accent from a school in Switzerland or from somewhere she's never going to say out loud. I'm keeping that one. Something about Randi's origin story is wrong and I want it.
+
+But the thing that got me — genuinely got me, sat in my chest — is Vee reciting the address. *Off six-fourteen, past where it goes to gravel.* She counts it off "like a dossier, like plenty," proud of herself for knowing where he lives, as proof that this is real, that there's a *this* to have. And Cassie is sitting there in the chair doing exactly the right thing, asking the state-trooper question, being the only person in this book who is on Vee's side, and she gets a pillow thrown at her and a *he's not going to walk me off a cliff.* He's not. He's going to do something much more carefully built than that. Cassie is the smoke alarm nobody's going to believe and I am so worried about her, which — I did not expect to be reading a book where my protective instinct lands on the flat-voiced roommate in the ball cap.
+
+Then they cut her out. Cassie up with her bag, something going past her face toward Randi lit up and reaching, folded away before it gets back to Vee. "I'll see you at the dorm." And Vee, half-turned the other way, not watching her go, *because Randi had her by the wrist.* And then Vee explaining to Randi why Cassie wouldn't like the smoothie place — doing the excluding herself, on Randi's behalf, and feeling fine about it, and the book letting the small thing turn over underneath and just saying *she let it lie*. That's the whole mechanism, done in half a page, with no narrator leaning in to explain it to me. Thank God. If anyone had said the word "isolating" I'd have thrown the book.
+
+What I'm less settled about is how much the chapter *moved me* anyway, in the direction it wanted to. Because *dear friend* worked on me. It did. Randi standing up into Brooke — and Brooke, who I've watched run a Saturday-morning interrogation with a laptop open and never stand up, is genuinely frightening in a way no man in this book is — and taking Vee's hand on the white table, cool and damp from the iced cup, in front of them, and not hurrying to let go. And Vee not knowing what it cost but knowing it cost, and that nobody has chosen her out loud in a long time. I believed the warmth and I believed the weight on it, and I believed that Randi was *also* paying something real, which is the part that makes this book better than the setup it's running. Randi isn't a cold operator. She said "ask and then ravish" a beat late, low, in Vee's own register — the register she only uses in his bed — and Vee *felt her there in it beside her*. She's slipping. She's slipping while she's winning. That's what I'm actually reading for now.
+
+Small things I loved: the cardigan over the better shirt "like an apology," worn on purpose, the room not knowing it was a choice. The oat milk ordered because Randi was standing there, and Vee letting herself not look at that. The eyebrows — Vee staring at the side of Randi's face pricing the brows, drugstore tweezer, bathroom mirror two girls share, and then looking at the table. The high chair again, feet not reaching, put up on a shelf for the room to look at. This book knows that being wanted and being displayed are different things and it keeps putting Vee in the second one.
+
+My one complaint: it's the same story twice. Tree, starchy line, I kissed him, he asked me hiking — once to Cassie, once to Randi. I know *why* it's twice, the point is what each listener does with it and who gets the truer version (Randi gets "because of him," Cassie gets "I did it on purpose, nobody did anything to me" — oof, that one's going to sit there and rot), but around the time Randi said "you let him choose for you. And you liked it," I could feel the chapter's hand on my shoulder a little. Not explaining, exactly. Just... positioned.
+
+What I'd text at 1 a.m.: *she pretended she didn't know his name. she PRETENDED SHE DIDN'T KNOW HIS NAME. and the roommate asked for the address for the state troopers and the girl gave it to her like it was a love letter.*
+
+Sunday. Mountain. Real shoes. Go.
+
+GATE 10 — Dear
+DECISION: CONTINUE
+CAPTURE: 7
+NEXT: 9
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "You let him choose for you." Randi said it slowly, holding it up to the light. "And you liked it."
+WHY: Second debrief of the same evening in one chapter, and that line is the book standing a half-inch closer to my ear than it needs to. But the finger-snap, the recited address, and Cassie getting quietly cut out of the frame are better than anything I expected from a bridge chapter, and I want the trail now.

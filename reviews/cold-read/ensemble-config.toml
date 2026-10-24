@@ -40,13 +40,16 @@ fast = ["claude-opus-4-8", "gpt-5.6-sol"]
 # `kimi-k3` deprecated from the cold panel 2026-10-06 (author ruling): the model
 # has to be retried too often to be worth a lane. Its last two runs on `four`
 # both returned with ALL structured fields missing and the harness correctly
-# refused to write them, leaving the review two revisions stale. Unlike the
-# other retirees its reads on disk are KEPT (`reviews/cold-read/kimi-k3/`) —
-# they are a valid record of what it read, just not current. It was already off
+# refused to write them, leaving the review two revisions stale. Its reads were
+# kept until 2026-10-24, then removed with every other inactive model's review
+# files (author ruling; git history holds them). It was already off
 # the `[capture]` roster.
 # GPT-5.5 retired from both active rosters by the author, 2026-10-23:
-# unavailable on the Codex subscription account. Historical artifacts remain
-# readable; its checkpoints still occur in ensemble source/provenance records.
+# unavailable on the Codex subscription account. Its review files were removed
+# 2026-10-24 (author ruling: no inactive model's reactions in the review tree,
+# so searches cannot pick them up). `reviews/cold-read/gpt-5.5/checkpoints/` is
+# KEPT until `core` is rebuilt on gemini-4-argon: the shipped core manifests
+# (ck-ch010/050/060) still hash against it.
 retired = ["claude-sonnet-5", "gpt-5.6-terra", "qwen3.8-max-0902", "glm-5.3-flash", "claude-fable-5", "kimi-k3", "gpt-5.5"]
 
 [capture]
@@ -240,7 +243,8 @@ impression = "quorum"
 #     reviews/cold-read/claude-opus-5-5/checkpoints/ directory). They must be
 #     minted before any core rebuild. Volume One boundaries are raw-prose
 #     mints, so ck-ch040 does not need ck-ch010/020/030 first.
-#  2. With exactly TWO sources and `quorum = 2`, every admitted claim now
+#  2. (Moot since 2026-10-24: three sources.) With exactly TWO sources and
+#     `quorum = 2`, every admitted claim now
 #     requires UNANIMITY rather than 2-of-4. `minimum_claims = 24` may fail if
 #     fewer than 24 claims survive both readers. If it does, the fix is an
 #     author call — add back a third source, or lower the floor.
@@ -256,9 +260,23 @@ impression = "quorum"
 model_id = "claude-opus-5-5"
 vendor = "anthropic"
 
+# SOURCE REPLACED 2026-10-24 (author ruling): gemini-4-argon replaces gpt-5.5,
+# which is unavailable and cannot remint its stale checkpoints. Tested as a
+# two-source ensemble with opus-5-5 (ck-ch010: 34 claims, ck-ch020: 54, all
+# sections, 0 conflicts; test outputs not kept). Shipped core artifacts are not
+# yet rebuilt on the new sources; this config change invalidates their manifests.
 [[ensembles.core.sources]]
-model_id = "gpt-5.5"
+model_id = "gemini-4-argon"
+vendor = "google"
+
+# Added 2026-10-24 (author ruling): three sources, one per vendor, quorum 2.
+# Audited ck-ch020 against the prose: opus-5-5 0.4 errors/100 claims, sol 0.5,
+# argon 1.3, glm-5.3 2.7 (glm rejected as a source). Test build ck-ch020:
+# 66 claims, 0 conflicts.
+[[ensembles.core.sources]]
+model_id = "gpt-5.6-sol"
 vendor = "openai"
+
 
 [readers."kimi-k3"]
 vendor = "moonshot"
