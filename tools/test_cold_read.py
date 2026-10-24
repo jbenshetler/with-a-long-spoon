@@ -711,6 +711,35 @@ class EnsembleValidationTests(unittest.TestCase):
         self.assertEqual(merged["claims"][0]["carried_from_boundary"], 40)
         self.assertEqual(merged["history"], [])
 
+class ChapterDateTests(unittest.TestCase):
+    def setUp(self):
+        self.dates = importlib.import_module("chapter_dates")
+
+    def test_heading_is_weekday_month_day_with_no_year(self):
+        meta = {"x": "*Early fall · Mon Oct 19 · somewhere* · slug: x"}
+        with patch.object(self.dates, "_metadata_lines", return_value=meta):
+            self.assertEqual(self.dates.heading("x"), "Monday, October 19")
+
+    def test_range_and_january_use_the_next_year(self):
+        meta = {"x": "*Thu Dec 31 evening → Fri Jan 1 morning* · slug: x"}
+        with patch.object(self.dates, "_metadata_lines", return_value=meta):
+            line = self.dates.heading("x")
+        self.assertEqual(line, "Thursday, December 31 – Friday, January 1")
+        self.assertNotRegex(line, r"\d{4}")
+
+    def test_weekday_mismatch_is_a_canon_error(self):
+        meta = {"x": "*Tue Oct 19* · slug: x"}
+        with patch.object(self.dates, "_metadata_lines", return_value=meta):
+            with self.assertRaises(self.dates.WeekdayMismatch):
+                self.dates.heading("x")
+
+    def test_approximate_date_is_not_rendered(self):
+        meta = {"x": "*~Sat Feb 6* · slug: x"}
+        with patch.object(self.dates, "_metadata_lines", return_value=meta):
+            with self.assertRaises(self.dates.DateError):
+                self.dates.heading("x")
+
+
 class HarnessParsingTests(unittest.TestCase):
     def test_bold_checkpoint_headings_normalize(self):
         extractor = importlib.import_module("checkpoint_extract")

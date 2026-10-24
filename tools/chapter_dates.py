@@ -1,0 +1,145 @@
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.11"
+# ///
+"""Reader-facing chapter date lines, derived from the chronology.
+
+`meta/meta-plan-chronology.md` is the sole owner of scene dates; this module
+only reads it. A heading line is weekday + month + day ("Monday, October 19"),
+or a range for a multi-day chapter ("Saturday, October 10 – Sunday, October 11").
+The year is NEVER shown (author ruling 2026-10-24): it is used here only to
+check that each weekday matches its date on the hidden 2026–27 calendar
+(fall in 2026, January onward in 2027).
+
+    tools/chapter_dates.py            # every drafted chapter: N, slug, heading
+    tools/chapter_dates.py --check    # exit 1 if a chronology weekday does not
+                                      # match its date; approximate or missing
+                                      # dates are listed but do not fail
+
+The stable source for chapter-date calculation (author ruling 2026-10-24): the
+capture/cold-read dated packets and the epub heading line both call heading().
+Open-questions #48 (prose temporal claims vs. this spine) builds on it.
+"""
+
+from __future__ import annotations
+
+import argparse
+import datetime as dt
+import re
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import volume_scenes  # noqa: E402
+
+CHRONOLOGY = Path(__file__).resolve().parent.parent / "meta" / "meta-plan-chronology.md"
+
+WEEKDAYS = {"mon": 0, "tue": 1, "wed": 2, "thu": 3, "fri": 4, "sat": 5, "sun": 6}
+WEEKDAY_NAMES = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+MONTHS = {"jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6, "jul": 7,
+          "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12}
+MONTH_NAMES = ["", "January", "February", "March", "April", "May", "June", "July",
+               "August", "September", "October", "November", "December"]
+FALL_YEAR = 2026  # hidden; never rendered
+
+POINT_RE = re.compile(
+    r"\b(Mon|Tue|Wed|Thu|Fri|Sat|Sun)[a-z]*\.?\s+"
+    r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2})\b"
+)
+ENTRY_RE = re.compile(r"^###\s+\[(SCENE|VIGNETTE)\]\s+")
+SLUG_RE = re.compile(r"slug:\s*([a-z0-9-]+)")
+
+
+class DateError(ValueError):
+    """The chapter has no exact date to render (missing or approximate)."""
+
+
+class WeekdayMismatch(DateError):
+    """The chronology's weekday contradicts its date: a canon error."""
+
+
+def _year(month: int) -> int:
+    return FALL_YEAR if month >= 8 else FALL_YEAR + 1
+
+
+def _metadata_lines() -> dict[str, str]:
+    lines = CHRONOLOGY.read_text(encoding="utf-8").split("\n")
+    out: dict[str, str] = {}
+    for i, line in enumerate(lines):
+        if ENTRY_RE.match(line) and i + 1 < len(lines):
+            m = SLUG_RE.search(lines[i + 1])
+            if m:
+                out[m.group(1)] = lines[i + 1]
+    return out
+
+
+def _date_segment(meta: str) -> str | None:
+    """The first metadata segment carrying an exact weekday date."""
+    for seg in meta.strip().strip("*").split("·"):
+        if POINT_RE.search(seg):
+            return seg.strip().strip("*").strip()
+    return None
+
+
+def _points(seg: str, slug: str) -> list[dt.date]:
+    points = []
+    for wd, mon, day in POINT_RE.findall(seg):
+        month = MONTHS[mon.lower()[:3]]
+        date = dt.date(_year(month), month, int(day))
+        if date.weekday() != WEEKDAYS[wd.lower()[:3]]:
+            raise WeekdayMismatch(
+                f"{slug}: chronology says {wd} {mon} {day}, but that date is a "
+                f"{WEEKDAY_NAMES[date.weekday()]} on the hidden calendar"
+            )
+        points.append(date)
+    return points
+
+
+def _render(d: dt.date) -> str:
+    return f"{WEEKDAY_NAMES[d.weekday()]}, {MONTH_NAMES[d.month]} {d.day}"
+
+
+def heading(slug: str) -> str:
+    """The date line for a drafted chapter; raises DateError if it cannot be exact."""
+    meta = _metadata_lines().get(slug)
+    if meta is None:
+        raise DateError(f"{slug}: no chronology entry with this slug")
+    seg = _date_segment(meta)
+    if seg is None:
+        raise DateError(f"{slug}: no exact weekday date in its chronology entry")
+    if seg.startswith("~"):
+        raise DateError(f"{slug}: chronology date is approximate ({seg!r})")
+    pts = _points(seg, slug)
+    first, last = pts[0], pts[-1]
+    if last < first:
+        raise DateError(f"{slug}: date range runs backwards ({seg!r})")
+    if first == last:
+        return _render(first)
+    return f"{_render(first)} – {_render(last)}"
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser(description=__doc__,
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--check", action="store_true")
+    args = ap.parse_args()
+    drafted = [s for s in volume_scenes.all_scenes() if s["drafted"]]
+    errors = inexact = 0
+    for n, s in enumerate(drafted, 1):
+        try:
+            line = heading(s["slug"])
+        except WeekdayMismatch as exc:
+            errors += 1
+            line = f"!! {exc}"
+        except DateError as exc:
+            inexact += 1
+            line = f"~  {exc}"
+        if not args.check or line[:2] in ("!!", "~ "):
+            print(f"{n:3d}  {s['tag']:<8} {s['slug']:<22} {line}")
+    if args.check:
+        print(f"{len(drafted) - errors - inexact}/{len(drafted)} exact · "
+              f"{inexact} without an exact date · {errors} weekday mismatch(es)")
+        sys.exit(1 if errors else 0)
+
+if __name__ == "__main__":
+    main()

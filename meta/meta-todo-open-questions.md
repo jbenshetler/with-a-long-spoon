@@ -603,6 +603,8 @@ reproduce deterministically, but **stale**: it predates {{Strokes}} and *Not Eno
 
 Open leads for it to consume: `audits/timeline/pending-from-fact-audit.md`.
 
+**Started 2026-10-24:** `tools/chapter_dates.py` parses the dated spine and verifies every stated weekday against the hidden calendar (71/77 drafted chapters exact, 0 mismatches; checked in pre-commit). It is the stable source for date calculation — build the prose-claim half on it, never a second parser.
+
 ## 49. {{Between}} — author not satisfied; parked on a branch (PARKED 2026-09-20)
 
 **Author ruling 2026-09-20:** not happy with the chapter, and it is not a
